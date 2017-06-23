@@ -4,7 +4,7 @@ identifier: "LGDNNA"
 country: "mx"
 rank: "ley_general"
 publication_date: "2014-12-04"
-last_updated: "2014-12-04"
+last_updated: "2017-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103786&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGDNNA"
 
 LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE JUNIO DE 2017.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de diciembre de 2014.
 
@@ -58,7 +58,9 @@ II. Garantizar el pleno ejercicio, respeto, protección y promoción de los dere
 
 III. Crear y regular la integración, organización y funcionamiento del Sistema Nacional de Protección Integral de los Derechos de Niñas, Niños y Adolescentes, a efecto de que el Estado cumpla con su responsabilidad de garantizar la protección, prevención y restitución integrales de los derechos de niñas, niños y adolescentes que hayan sido vulnerados;
 
-IV. Establecer los principios rectores y criterios que orientarán la política nacional en materia de derechos de niñas, niños y adolescentes, así como las facultades, competencias, concurrencia y bases de coordinación entre la Federación, las entidades federativas, los municipios y las demarcaciones territoriales del Distrito Federal; y la actuación de los Poderes Legislativo y Judicial, y los organismos constitucionales autónomos, y
+> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2017)</small>
+
+IV. Establecer los principios rectores y criterios que orientarán la política nacional en materia de derechos de niñas, niños y adolescentes, así como las facultades, competencias, concurrencia y bases de coordinación entre la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México; y la actuación de los Poderes Legislativo y Judicial, y los organismos constitucionales autónomos, y
 
 V. Establecer las bases generales para la participación de los sectores privado y social en las acciones tendentes a garantizar la protección y el ejercicio de los derechos de niñas, niños y adolescentes, así como a prevenir su vulneración.
 
@@ -76,13 +78,19 @@ El interés superior de la niñez deberá ser considerado de manera primordial e
 
 Cuando se tome una decisión que afecte a niñas, niños o adolescentes, en lo individual o colectivo, se deberán evaluar y ponderar las posibles repercusiones a fin de salvaguardar su interés superior y sus garantías procesales.
 
-Las autoridades de la Federación, de las entidades federativas, de los municipios y de las demarcaciones territoriales del Distrito Federal, en el ámbito de sus competencias, deberán incorporar en sus proyectos de presupuesto la asignación de recursos que permitan dar cumplimiento a las acciones establecidas por la presente Ley.
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
 
-La Cámara de Diputados del Congreso de la Unión, los Congresos locales y la Asamblea Legislativa del Distrito Federal, establecerán en sus respectivos presupuestos, los recursos que permitan dar cumplimiento a las acciones establecidas por la presente Ley.
+Las autoridades de la Federación, de las entidades federativas, de los municipios y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus competencias, deberán incorporar en sus proyectos de presupuesto la asignación de recursos que permitan dar cumplimiento a las acciones establecidas por la presente Ley.
+
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
+La Cámara de Diputados del Congreso de la Unión, los Congresos locales y la Legislatura de la Ciudad de México, establecerán en sus respectivos presupuestos, los recursos que permitan dar cumplimiento a las acciones establecidas por la presente Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
 
 ###### Artículo 3.
 
-La Federación, las entidades federativas, los municipios y las demarcaciones territoriales del Distrito Federal, en el ámbito de sus respectivas competencias, concurrirán en el cumplimiento del objeto de esta Ley, para el diseño, ejecución, seguimiento y evaluación de políticas públicas en materia de ejercicio, respeto, protección y promoción de los derechos de niñas, niños y adolescentes, así como para garantizar su máximo bienestar posible privilegiando su interés superior a través de medidas estructurales, legales, administrativas y presupuestales.
+La Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, concurrirán en el cumplimiento del objeto de esta Ley, para el diseño, ejecución, seguimiento y evaluación de políticas públicas en materia de ejercicio, respeto, protección y promoción de los derechos de niñas, niños y adolescentes, así como para garantizar su máximo bienestar posible privilegiando su interés superior a través de medidas estructurales, legales, administrativas y presupuestales.
 
 Las políticas públicas deberán contribuir a la formación física, psicológica, económica, social, cultural, ambiental y cívica de niñas, niños y adolescentes.
 
@@ -190,9 +198,11 @@ XIV. La accesibilidad.
 
 Las leyes federales y de las entidades federativas deberán garantizar el ejercicio, respeto, protección y promoción de los derechos de niñas, niños y adolescentes; así como prever, primordialmente, las acciones y mecanismos que les permitan un crecimiento y desarrollo integral plenos.
 
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
 ###### Artículo 8.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, en el ámbito de sus respectivas competencias, impulsarán la cultura de respeto, promoción y protección de derechos de niñas, niños y adolescentes, basada en los principios rectores de esta Ley.
+Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, impulsarán la cultura de respeto, promoción y protección de derechos de niñas, niños y adolescentes, basada en los principios rectores de esta Ley.
 
 ###### Artículo 9.
 
@@ -202,7 +212,9 @@ A falta de disposición expresa en la Constitución Política de los Estados Uni
 
 En la aplicación de la presente Ley se tomarán en cuenta las condiciones particulares de niñas, niños y adolescentes en los diferentes grupos de población, a fin de proteger el ejercicio igualitario de todos sus derechos.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, en el ámbito de sus respectivas competencias, adoptarán medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, alimentario, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o apatridia, o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten el ejercicio de sus derechos.
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
+Las autoridades federales de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, adoptarán medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, alimentario, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o apatridia, o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten el ejercicio de sus derechos.
 
 ## TÍTULO SEGUNDO. De los Derechos de Niñas, Niños y Adolescentes
 
@@ -260,13 +272,17 @@ XIX. Derechos de niñas, niños y adolescentes migrantes, y
 
 XX. Derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet, en términos de lo previsto en la Ley Federal de Telecomunicaciones y Radiodifusión. Para tales efectos, el Estado establecerá condiciones de competencia efectiva en la prestación de dichos servicios.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
+Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
 
 ###### Artículo 14.
 
 Niñas, niños y adolescentes tienen derecho a que se les preserve la vida, a la supervivencia y al desarrollo.
 
-Las autoridades de la Federación, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, en el ámbito de sus respectivas competencias, deberán llevar a cabo las acciones necesarias para garantizar el desarrollo y prevenir cualquier conducta que atente contra su supervivencia, así como para investigar y sancionar efectivamente los actos de privación de la vida.
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
+Las autoridades de la Federación, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, deberán llevar a cabo las acciones necesarias para garantizar el desarrollo y prevenir cualquier conducta que atente contra su supervivencia, así como para investigar y sancionar efectivamente los actos de privación de la vida.
 
 ###### Artículo 15.
 
@@ -302,7 +318,9 @@ III. Conocer su filiación y su origen, en la medida de lo posible y siempre que
 
 IV. Preservar su identidad, incluidos el nombre, la nacionalidad y su pertenencia cultural, así como sus relaciones familiares.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, en el ámbito de sus respectivas competencias, deberán colaborar en la búsqueda, localización y obtención de la información necesaria para acreditar o restablecer la identidad de niñas, niños y adolescentes.
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
+Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, deberán colaborar en la búsqueda, localización y obtención de la información necesaria para acreditar o restablecer la identidad de niñas, niños y adolescentes.
 
 Las Procuradurías de Protección, en el ámbito de sus respectivas competencias, orientarán a las autoridades que correspondan para que den debido cumplimiento al presente artículo.
 
@@ -330,7 +348,9 @@ Niñas, niños y adolescentes no podrán ser separados de las personas que ejerz
 
 Los casos en que las personas que ejerzan la patria potestad, por extrema pobreza o por necesidad de ganarse el sustento lejos del lugar de residencia, tengan dificultades para atender a niñas, niños y adolescentes de manera permanente, no serán considerados como supuestos de exposición o estado de abandono, siempre que los mantengan al cuidado de otras personas, libres de violencia y provean su subsistencia.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, en el ámbito de sus respectivas competencias, están obligadas a establecer políticas de fortalecimiento familiar para evitar la separación de niñas, niños y adolescentes de quienes ejerzan la patria potestad, tutela o guarda y custodia.
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
+Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, están obligadas a establecer políticas de fortalecimiento familiar para evitar la separación de niñas, niños y adolescentes de quienes ejerzan la patria potestad, tutela o guarda y custodia.
 
 ###### Artículo 23.
 
@@ -338,9 +358,11 @@ Niñas, niños y adolescentes cuyas familias estén separadas, tendrán derecho 
 
 Asimismo, niñas, niños y adolescentes tienen derecho a convivir con sus familiares cuando éstos se encuentren privados de su libertad. Las autoridades competentes en materia jurisdiccional y penitenciaria deberán garantizar este derecho y establecer las condiciones necesarias para que esta convivencia se realice en forma adecuada, conforme a las disposiciones aplicables. Este derecho sólo podrá ser restringido por resolución del órgano jurisdiccional competente, siempre y cuando no sea contrario a su interés superior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
 ###### Artículo 24.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, en el ámbito de sus respectivas competencias, establecerán las normas y los mecanismos necesarios para facilitar la localización y reunificación de la familia de niñas, niños y adolescentes, cuando hayan sido privados de ella, siempre y cuando no sea contrario a su interés superior.
+Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, establecerán las normas y los mecanismos necesarios para facilitar la localización y reunificación de la familia de niñas, niños y adolescentes, cuando hayan sido privados de ella, siempre y cuando no sea contrario a su interés superior.
 
 Durante la localización de la familia, niñas, niños y adolescentes tienen derecho a acceder a las modalidades de cuidados alternativos de carácter temporal, en tanto se incorporan a su familia.
 
@@ -354,11 +376,15 @@ En los casos de traslados o retenciones ilícitas de niñas, niños y adolescent
 
 Cuando las autoridades de las entidades federativas tengan conocimiento de casos de niñas, niños y adolescentes de nacionalidad mexicana trasladados o retenidos de manera ilícita en el extranjero, se coordinarán con las autoridades federales competentes, conforme a las demás disposiciones aplicables, para su localización y restitución.
 
-Cuando una niña, niño o adolescente sea trasladado o retenido ilícitamente en territorio nacional, o haya sido trasladado legalmente pero retenido ilícitamente, las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, en el ámbito de sus respectivas competencias, estarán obligadas a coadyuvar en su localización, a través de los programas para la búsqueda, localización y recuperación, así como en la adopción de todas las medidas necesarias para prevenir que sufran mayores daños y en la sustanciación de los procedimientos de urgencia necesarios para garantizar su restitución inmediata, cuando la misma resulte procedente conforme a los tratados internacionales en materia de sustracción de menores.
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
+Cuando una niña, niño o adolescente sea trasladado o retenido ilícitamente en territorio nacional, o haya sido trasladado legalmente pero retenido ilícitamente, las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, estarán obligadas a coadyuvar en su localización, a través de los programas para la búsqueda, localización y recuperación, así como en la adopción de todas las medidas necesarias para prevenir que sufran mayores daños y en la sustanciación de los procedimientos de urgencia necesarios para garantizar su restitución inmediata, cuando la misma resulte procedente conforme a los tratados internacionales en materia de sustracción de menores.
 
 ## TÍTULO TERCERO. De las Obligaciones
 
 ### Capítulo Único. De los Centros de Asistencia Social
+
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
 
 ### Capítulo Cuarto. Del Derecho a Vivir en Familia
 
@@ -432,7 +458,9 @@ III. Garantizar que se asesore jurídicamente, tanto a quienes consientan la ado
 
 IV. Disponer las acciones necesarias para verificar que la adopción no sea motivada por beneficios económicos para quienes participen en ella, y
 
-V. Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, en el ámbito de sus respectivas competencias, velarán porque en los procesos de adopción se respeten las normas que los rijan.
+> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2017)</small>
+
+V. Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, velarán porque en los procesos de adopción se respeten las normas que los rijan.
 
 ### Capítulo Quinto. Del Derecho a la Igualdad Sustantiva
 
@@ -490,9 +518,11 @@ Las autoridades competentes en materia de desarrollo integral de la familia e in
 
 Niñas, niños y adolescentes tienen derecho al acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
 ###### Artículo 37.
 
-Las autoridades de la Federación, de las entidades federativas, de los municipios y de las demarcaciones territoriales del Distrito Federal, para garantizar la igualdad sustantiva deberán:
+Las autoridades de la Federación, de las entidades federativas, de los municipios y de las demarcaciones territoriales de la Ciudad de México, para garantizar la igualdad sustantiva deberán:
 
 I. Transversalizar la perspectiva de género en todas sus actuaciones y procurar la utilización de un lenguaje no sexista en sus documentos oficiales;
 
@@ -518,9 +548,11 @@ Niñas, niños y adolescentes tienen derecho a no ser sujetos de discriminación
 
 Asimismo, las autoridades están obligadas a llevar a cabo medidas especiales para prevenir, atender y erradicar la Discriminación Múltiple de la que son objeto niñas, niños y adolescentes en situación de exclusión social, en situación de calle, afrodescendientes, peores formas de trabajo infantil o cualquiera otra condición de marginalidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
 ###### Artículo 40.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, en el ámbito de sus respectivas competencias, están obligadas a adoptar medidas y a realizar las acciones afirmativas necesarias para garantizar a niñas, niños y adolescentes la igualdad sustantiva, de oportunidades y el derecho a la no discriminación.
+Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, están obligadas a adoptar medidas y a realizar las acciones afirmativas necesarias para garantizar a niñas, niños y adolescentes la igualdad sustantiva, de oportunidades y el derecho a la no discriminación.
 
 La adopción de estas medidas y la realización de acciones afirmativas formarán parte de la perspectiva antidiscriminatoria, la cual será incorporada de manera transversal y progresiva en el quehacer público, y de manera particular en el diseño, implementación y evaluación de las políticas públicas.
 
@@ -532,19 +564,23 @@ Las instancias públicas de los poderes federales y locales así como los órgan
 
 Dichos reportes deberán desagregar la información, por lo menos, en razón de edad, sexo, escolaridad, entidad federativa y tipo de discriminación.
 
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
 ### Capítulo Octavo. Derecho de Acceso a una Vida Libre de Violencia y a la Integridad Personal
 
 ###### Artículo 42.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, en el ámbito de sus respectivas competencias, adoptarán medidas para la eliminación de usos, costumbres, prácticas culturales o prejuicios que atenten contra la igualdad de niñas, niños y adolescentes por razón de género o que promuevan cualquier tipo de discriminación, atendiendo al interés superior de la niñez.
+Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, adoptarán medidas para la eliminación de usos, costumbres, prácticas culturales o prejuicios que atenten contra la igualdad de niñas, niños y adolescentes por razón de género o que promuevan cualquier tipo de discriminación, atendiendo al interés superior de la niñez.
 
 ###### Artículo 43.
 
 Niñas, niños y adolescentes tienen derecho a vivir en un medio ambiente sano y sustentable, y en condiciones que permitan su desarrollo, bienestar, crecimiento saludable y armonioso, tanto físico como mental, material, espiritual, ético, cultural y social.
 
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
 ###### Artículo 44.
 
-Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la obligación primordial de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo. Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, en el ámbito de sus respectivas competencias, coadyuvarán a dicho fin mediante la adopción de las medidas apropiadas.
+Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la obligación primordial de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo. Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, coadyuvarán a dicho fin mediante la adopción de las medidas apropiadas.
 
 ###### Artículo 45.
 
@@ -554,9 +590,11 @@ Las leyes federales y de las entidades federativas, en el ámbito de sus respect
 
 Niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda forma de violencia y a que se resguarde su integridad personal, a fin de lograr las mejores condiciones de bienestar y el libre desarrollo de su personalidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
 ###### Artículo 47.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, en el ámbito de sus respectivas competencias, están obligadas a tomar las medidas necesarias para prevenir, atender y sancionar los casos en que niñas, niños o adolescentes se vean afectados por:
+Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, están obligadas a tomar las medidas necesarias para prevenir, atender y sancionar los casos en que niñas, niños o adolescentes se vean afectados por:
 
 I. El descuido, negligencia, abandono o abuso físico, psicológico o sexual;
 
@@ -578,9 +616,11 @@ Las leyes generales, federales y de las entidades federativas deberán establece
 
 Las autoridades competentes, están obligadas a implementar medidas especiales para prevenir, sancionar y reparar las conductas previstas en este artículo para niñas, niños y adolescentes con discapacidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
 ###### Artículo 48.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, en el ámbito de sus respectivas competencias, están obligadas a adoptar las medidas apropiadas para promover la recuperación física y psicológica y la restitución de derechos de niñas, niños y adolescentes para lograr el pleno ejercicio de sus derechos y garantizar su reincorporación a la vida cotidiana.
+Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, están obligadas a adoptar las medidas apropiadas para promover la recuperación física y psicológica y la restitución de derechos de niñas, niños y adolescentes para lograr el pleno ejercicio de sus derechos y garantizar su reincorporación a la vida cotidiana.
 
 La recuperación y restitución de derechos a que se refiere el párrafo anterior se llevarán a cabo en un ambiente que fomente la salud física y psicológica, el respeto y la dignidad de niñas, niños y adolescentes.
 
@@ -588,9 +628,11 @@ La recuperación y restitución de derechos a que se refiere el párrafo anterio
 
 ### Capítulo Primero. De las autoridades
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
 ###### Artículo 107.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, en términos de lo dispuesto por esta Ley, la Ley General de Salud y la Ley de Asistencia Social, establecerán, en el ámbito de sus respectivas competencias, los requisitos para autorizar, registrar, certificar y supervisar los centros de asistencia social, a fin de garantizar el cumplimiento de los derechos de niñas, niños y adolescentes privados de cuidado parental o familiar, atendidos en dichos centros.
+Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en términos de lo dispuesto por esta Ley, la Ley General de Salud y la Ley de Asistencia Social, establecerán en el ámbito de sus respectivas competencias, los requisitos para autorizar, registrar, certificar y supervisar los centros de asistencia social, a fin de garantizar el cumplimiento de los derechos de niñas, niños y adolescentes privados de cuidado parental o familiar, atendidos en dichos centros.
 
 ###### Artículo 108.
 
@@ -718,6 +760,8 @@ Las Procuradurías de Protección de las entidades federativas serán coadyuvant
 
 ### Capítulo Noveno. Del Derecho a la Protección de la Salud y a la Seguridad Social
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
 ###### Artículo 49.
 
 En los casos en que niñas, niños y adolescentes sean víctimas de delitos se aplicarán las disposiciones de la Ley General de Víctimas y demás disposiciones que resulten aplicables. En todo caso, los protocolos de atención deberán considerar su edad, desarrollo evolutivo, cognoscitivo y madurez para la implementación de las acciones de asistencia y protección respectivas, así como la reparación integral del daño.
@@ -728,7 +772,7 @@ Para el cumplimiento de lo dispuesto en el párrafo anterior, el Sistema Naciona
 
 ###### Artículo 50.
 
-Niñas, niños y adolescentes tienen derecho a disfrutar del más alto nivel posible de salud, así como a recibir la prestación de servicios de atención médica gratuita y de calidad de conformidad con la legislación aplicable, con el fin de prevenir, proteger y restaurar su salud. Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, en el ámbito de sus respectivas competencias, en relación con los derechos de niñas, niños y adolescentes, se coordinarán a fin de:
+Niñas, niños y adolescentes tienen derecho a disfrutar del más alto nivel posible de salud, así como a recibir la prestación de servicios de atención médica gratuita y de calidad de conformidad con la legislación aplicable, con el fin de prevenir, proteger y restaurar su salud. Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, en relación con los derechos de niñas, niños y adolescentes, se coordinarán a fin de:
 
 I. Reducir la morbilidad y mortalidad;
 
@@ -772,13 +816,17 @@ Los Sistemas Nacional y estatales de Salud deberán garantizar el pleno cumplimi
 
 En todos los casos se respetará el derecho a la intimidad de niñas, niños y adolescentes.
 
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
 ###### Artículo 51.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, en el ámbito de sus respectivas competencias y de conformidad con las disposiciones aplicables, deberán garantizar el derecho a la seguridad social.
+Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias y de conformidad con las disposiciones aplicables, deberán garantizar el derecho a la seguridad social.
+
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
 
 ###### Artículo 52.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, en el ámbito de sus respectivas competencias, deben desarrollar políticas para fortalecer la salud materno infantil y aumentar la esperanza de vida.
+Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, deben desarrollar políticas para fortalecer la salud materno-infantil y aumentar la esperanza de vida.
 
 ###### Artículo 53.
 
@@ -790,13 +838,17 @@ Son niñas, niños o adolescentes con discapacidad los que por razón congénita
 
 Las niñas, niños y adolescentes con discapacidad tienen derecho a vivir incluidos en la comunidad, en igualdad de condiciones que las demás niñas, niños y adolescentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
 ###### Artículo 54.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, en el ámbito de sus respectivas competencias, están obligadas a implementar medidas de nivelación, de inclusión y Acciones afirmativas en términos de las disposiciones aplicables considerando los principios de participación e inclusión plenas y efectivas en la sociedad, respeto por la diferencia y la aceptación de las personas con discapacidad como parte de la diversidad y la condición humanas, respeto a la evolución de las facultades de niñas, niños y adolescentes con discapacidad y de su derecho a preservar su identidad.
+Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, están obligadas a implementar medidas de nivelación, de inclusión y Acciones afirmativas en términos de las disposiciones aplicables considerando los principios de participación e inclusión plenas y efectivas en la sociedad, respeto por la diferencia y la aceptación de las personas con discapacidad como parte de la diversidad y la condición humanas, respeto a la evolución de las facultades de niñas, niños y adolescentes con discapacidad y de su derecho a preservar su identidad.
 
 La discriminación por motivos de discapacidad también comprende la negación de ajustes razonables.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, en el ámbito de sus respectivas competencias, están obligadas a realizar lo necesario para fomentar la inclusión social y deberán establecer el diseño universal de accesibilidad de niñas, niños y adolescentes con discapacidad, en términos de la legislación aplicable.
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
+Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, están obligadas a realizar lo necesario para fomentar la inclusión social y deberán establecer el diseño universal de accesibilidad de niñas, niños y adolescentes con discapacidad, en términos de la legislación aplicable.
 
 Además del diseño universal, se deberá dotar a las instalaciones que ofrezcan trámites y servicios a niñas, niños y adolescentes con discapacidad, de señalización en Braille y formatos accesibles de fácil lectura y comprensión. Asimismo, procurarán ofrecer otras medidas de asistencia e intermediarios.
 
@@ -804,9 +856,11 @@ No se podrá negar o restringir la inclusión de niñas, niños y adolescentes c
 
 No se considerarán discriminatorias las medidas específicas que sean necesarias para acelerar o lograr la igualdad sustantiva de las niñas, niños y adolescentes con discapacidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
 ###### Artículo 55.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, en el ámbito de sus respectivas competencias, realizarán acciones a fin de sensibilizar a la sociedad, incluso a nivel familiar, para que tome mayor conciencia respecto de las niñas, niños y adolescentes con discapacidad y fomentar el respeto a sus derechos y dignidad, así como combatir los estereotipos y prejuicios respecto de su discapacidad.
+Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, realizarán acciones a fin de sensibilizar a la sociedad incluso a nivel familiar, para que tome mayor conciencia respecto de las niñas, niños y adolescentes con discapacidad y fomentar el respeto a sus derechos y dignidad, así como combatir los estereotipos y prejuicios respecto de su discapacidad.
 
 Las leyes federales y de las entidades federativas establecerán disposiciones tendentes a:
 
@@ -832,7 +886,9 @@ Niñas, niños y adolescentes tienen derecho a una educación de calidad que con
 
 Quienes ejerzan la patria potestad, tutela o guarda y custodia, tendrán derecho a intervenir en la educación que habrá de darse a niñas, niños y adolescentes, en términos de lo previsto por el artículo 103 de esta Ley.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, en el ámbito de sus respectivas competencias garantizarán la consecución de una educación de calidad y la igualdad sustantiva en el acceso y permanencia en la misma, para lo cual deberán:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
+Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias garantizarán la consecución de una educación de calidad y la igualdad sustantiva en el acceso y permanencia en la misma, para lo cual deberán:
 
 I. Proporcionar la atención educativa que niñas, niños y adolescentes requieran para su pleno desarrollo, para lo cual, los programas respectivos deberán considerar la edad, madurez, circunstancias particulares y tradiciones culturales;
 
@@ -884,7 +940,7 @@ Las autoridades escolares, en el ámbito de su competencia, deberán adoptar med
 
 ###### Artículo 114.
 
-Las autoridades federales, de las entidades federativas, municipales, de las demarcaciones territoriales del Distrito Federal y de los organismos constitucionales autónomos, en el ámbito de su competencia, deberán establecer y garantizar el cumplimiento de la política nacional en materia de derechos de niñas, niños y adolescentes.
+Las autoridades federales, de las entidades federativas, municipales, de las demarcaciones territoriales de la Ciudad de México, y de los organismos constitucionales autónomos, en el ámbito de su competencia, deberán establecer y garantizar el cumplimiento de la política nacional en materia de derechos de niñas, niños y adolescentes.
 
 Las políticas públicas emprendidas por dichas autoridades garantizarán el ejercicio de los derechos de niñas, niños y adolescentes, para lo cual deberán observar el interés superior de la niñez y asegurar la asignación prioritaria de recursos en términos de las disposiciones aplicables.
 
@@ -1042,13 +1098,17 @@ Sin perjuicio de las atribuciones que establezcan las demás disposiciones aplic
 
 I. Proteger los derechos de niñas, niños y adolescentes, cuando los mismos se encuentren restringidos o vulnerados, en términos de esta Ley y las demás disposiciones aplicables. La institucionalización procederá como último recurso y por el menor tiempo posible, priorizando las opciones de cuidado en un entorno familiar;
 
-II. Impulsar la cooperación y coordinación de las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, en el ámbito de sus respectivas competencias en materia de protección y restitución de derechos de niñas, niños y adolescentes para establecer los mecanismos necesarios para ello;
+> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2017)</small>
+
+II. Impulsar la cooperación y coordinación de las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias en materia de protección y restitución de derechos de niñas, niños y adolescentes para establecer los mecanismos necesarios para ello;
 
 III. Celebrar los convenios de colaboración con los Sistemas de las Entidades y los Sistemas Municipales, así como con organizaciones e instituciones de los sectores público, privado y social;
 
 IV. Promover la formación, capacitación y profesionalización del personal de instituciones vinculadas con la protección y restitución de los derechos de niñas, niños y adolescentes, así como para realizar y apoyar estudios e investigaciones en la materia;
 
-V. Prestar apoyo y colaboración técnica y administrativa en las materias reguladas en esta Ley, a las entidades federativas, municipios y demarcaciones territoriales del Distrito Federal, y
+> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2017)</small>
+
+V. Prestar apoyo y colaboración técnica y administrativa en las materias reguladas en esta Ley, a las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, y
 
 VI. Las demás que establezcan otras disposiciones en relación con la protección de niñas, niños y adolescentes que sean del ámbito de su competencia.
 
@@ -1150,7 +1210,9 @@ V. No haber sido sentenciado por delito doloso o inhabilitado como servidor púb
 
 El nombramiento de Procurador Federal de Protección de Niñas, Niños y Adolescentes deberá ser aprobado por la Junta de Gobierno del Sistema Nacional DIF, a propuesta de su Titular.
 
-Las leyes de las entidades federativas establecerán las medidas necesarias que permitan la desconcentración regional de las Procuradurías de Protección, a efecto de que logren la mayor presencia y cobertura posible en los municipios y, en el caso del Distrito Federal, en sus demarcaciones territoriales.
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
+Las leyes de las entidades federativas establecerán las medidas necesarias que permitan la desconcentración regional de las Procuradurías de Protección, a efecto de que logren la mayor presencia y cobertura posible en los municipios y, en el caso de la Ciudad de México, en sus demarcaciones territoriales.
 
 ### Capítulo Cuarto. De los Sistemas de Protección en las Entidades Federativas
 
@@ -1178,9 +1240,13 @@ VII. Aprobar, en el marco del Plan Nacional de Desarrollo, el Programa Nacional;
 
 VIII. Asegurar la ejecución coordinada por parte de sus integrantes del Programa Nacional, con la participación de los sectores público, social y privado, así como de niñas, niños y adolescentes;
 
-IX. Asegurar la colaboración y coordinación entre la federación, las entidades federativas, los municipios y las demarcaciones territoriales del Distrito Federal, para la formulación, ejecución e instrumentación de políticas, programas, estrategias y acciones en materia de protección y ejercicio de los derechos de niñas, niños y adolescentes con la participación de los sectores público, social y privado así como de niñas, niños y adolescentes;
+> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2017)</small>
 
-X. Hacer efectiva la concurrencia, vinculación y congruencia de los programas y acciones de los gobiernos federal, de las entidades federativas, de los municipios y de las demarcaciones territoriales del Distrito Federal, con los objetivos, estrategias y prioridades de la política pública nacional de protección de los derechos de niñas, niños y adolescentes;
+IX. Asegurar la colaboración y coordinación entre la federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, para la formulación, ejecución e instrumentación de políticas, programas, estrategias y acciones en materia de protección y ejercicio de los derechos de niñas, niños y adolescentes con la participación de los sectores público, social y privado así como de niñas, niños y adolescentes;
+
+> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2017)</small>
+
+X. Hacer efectiva la concurrencia, vinculación y congruencia de los programas y acciones de los gobiernos federal, de las entidades federativas, de los municipios y de las demarcaciones territoriales de la Ciudad de México, con los objetivos, estrategias y prioridades de la política pública nacional de protección de los derechos de niñas, niños y adolescentes.
 
 XI. Garantizar la participación de niñas, niños y adolescentes en el ejercicio de sus derechos humanos, tomando en consideración las medidas especiales que se requieran;
 
@@ -1198,9 +1264,11 @@ XVII. Promover políticas públicas y revisar las ya existentes relacionadas con
 
 XVIII. Las demás que sean necesarias para el cumplimiento de esta Ley.
 
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
 ###### Artículo 126.
 
-La coordinación en un marco de respeto a las atribuciones entre las instancias de la Federación, las entidades federativas, los municipios las demarcaciones territoriales del Distrito Federal, será el eje del Sistema Nacional de Protección Integral.
+La coordinación en un marco de respeto a las atribuciones entre las instancias de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, será el eje del Sistema Nacional de Protección Integral.
 
 ###### Artículo 127.
 
@@ -1230,7 +1298,9 @@ B. Entidades Federativas:
 
 I. Los Gobernadores de los Estados, y
 
-II. El Jefe de Gobierno del Distrito Federal.
+> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2017)</small>
+
+II. El Jefe de Gobierno de la Ciudad de México.
 
 C. Organismos Públicos:
 
@@ -1250,7 +1320,9 @@ El Presidente de la República, en casos excepcionales, podrá ser suplido por e
 
 Los integrantes del Sistema Nacional de Protección Integral nombrarán un suplente que deberá tener el nivel de subsecretario o equivalente.
 
-El Presidente del Sistema podrá invitar a las sesiones respectivas a representantes de otras dependencias y entidades de la Administración Pública Federal, de los órganos con autonomía constitucional, de los gobiernos de las entidades federativas, de los municipios de las demarcaciones territoriales del Distrito Federal, según la naturaleza de los asuntos a tratar quienes intervendrán con voz pero sin voto.
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
+El Presidente del Sistema podrá invitar a las sesiones respectivas a representantes de otras dependencias y entidades de la Administración Pública Federal, de los órganos con autonomía constitucional, de los gobiernos de las entidades federativas, de los municipios y de las demarcaciones territoriales de la Ciudad de México, según la naturaleza de los asuntos a tratar quienes intervendrán con voz pero sin voto.
 
 En las sesiones del Sistema Nacional de Protección Integral, participarán de forma permanente, sólo con voz, niñas, niños y adolescentes, que serán seleccionados por el propio Sistema. De igual forma, se podrá invitar a personas o instituciones, nacionales o internacionales, especializadas en la materia.
 
@@ -1392,7 +1464,9 @@ XX. Auxiliar a la Procuraduría Local de Protección en las medidas urgentes de 
 
 XXI. Las demás que les otorguen otras disposiciones aplicables.
 
-Las leyes de las entidades federativas determinarán la forma y términos en que los Sistemas municipales participarán en el Sistema Local de Protección y, en el caso del Distrito Federal, la forma de participación de las demarcaciones territoriales.
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
+Las leyes de las entidades federativas determinarán la forma y términos en que los Sistemas municipales participarán en el Sistema Local de Protección y, en el caso de la Ciudad de México, la forma de participación de las demarcaciones territoriales.
 
 ###### Artículo 138.
 
@@ -1404,13 +1478,19 @@ Los Sistemas Municipales contarán con una Secretaría Ejecutiva y garantizarán
 
 Las leyes de las entidades federativas preverán que las bases generales de la administración pública municipal, dispongan la obligación para los ayuntamientos de contar con un programa de atención y con un área o servidores públicos que fungirán como autoridad de primer contacto con niñas, niños o adolescentes y que serán el enlace con las instancias locales y federales competentes.
 
-Las mismas disposiciones de este artículo serán aplicables a las demarcaciones territoriales del Distrito Federal en el Estatuto de Gobierno del Distrito Federal.
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
 
-La instancia a que se refiere el presente artículo coordinará a los servidores públicos municipales o de las demarcaciones territoriales del Distrito Federal, cuando en la operación, verificación y supervisión de las funciones y servicios que les corresponden, detecten casos de violación a los derechos contenidos en la presente Ley, a efecto de que se dé vista a la Procuraduría de Protección competente de forma inmediata.
+Las mismas disposiciones de este artículo serán aplicables a las demarcaciones territoriales de la Ciudad de México, en la Constitución Política de la Ciudad de México.
+
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
+La instancia a que se refiere el presente artículo coordinará a los servidores públicos municipales o de las demarcaciones territoriales de la Ciudad de México, cuando en la operación, verificación y supervisión de las funciones y servicios que les corresponden, detecten casos de violación a los derechos contenidos en la presente Ley, a efecto de que se dé vista a la Procuraduría de Protección competente de forma inmediata.
 
 Las instancias a que se refiere este artículo deberán ejercer, sin perjuicio de otras que dispongan las leyes de las entidades federativas, las atribuciones previstas en el artículo 119 de esta Ley.
 
 ### Capítulo Sexto. Del Programa Nacional y de los Programas Locales
+
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
 
 ###### Artículo 140.
 
@@ -1420,7 +1500,7 @@ La Comisión Nacional de los Derechos Humanos y los organismos de protección de
 
 ###### Artículo 141.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, en el ámbito de sus respectivas competencias, a través del Sistema Nacional de Protección Integral, así como los sectores privado y social, participarán en la elaboración y ejecución del Programa Nacional, el cual deberá ser acorde con el Plan Nacional de Desarrollo y con la presente Ley.
+Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, a través del Sistema Nacional de Protección Integral, así como los sectores privado y social, participarán en la elaboración y ejecución del Programa Nacional, el cual deberá ser acorde con el Plan Nacional de Desarrollo y con la presente Ley.
 
 ###### Artículo 142.
 
@@ -1468,7 +1548,9 @@ X. Difundir los derechos humanos de niñas, niños y adolescentes y las formas d
 
 Sin perjuicio de lo dispuesto en otras disposiciones aplicables, las autoridades competentes llevarán a cabo las acciones necesarias para propiciar las condiciones idóneas para crear un ambiente libre de violencia en las instituciones educativas, en el que se fomente la convivencia armónica y el desarrollo integral de niñas, niños y adolescentes, incluyendo la creación de mecanismos de mediación permanentes donde participen quienes ejerzan la patria potestad o tutela.
 
-Para efectos del párrafo anterior, las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, en el ámbito de sus respectivas competencias, y las instituciones académicas se coordinarán para:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
+Para efectos del párrafo anterior, las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, y las instituciones académicas se coordinarán para:
 
 I. Diseñar estrategias y acciones para la detección temprana, contención, prevención y erradicación del acoso o la violencia escolar en todas sus manifestaciones, que contemplen la participación de los sectores público, privado y social, así como indicadores y mecanismos de seguimiento, evaluación y vigilancia;
 
@@ -1484,13 +1566,15 @@ Niñas, niños y adolescentes tienen derecho al descanso, al esparcimiento, al j
 
 Quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes deberán respetar el ejercicio de estos derechos y, por lo tanto, no podrán imponerles regímenes de vida, estudio, trabajo o reglas de disciplina desproporcionadas a su edad, desarrollo evolutivo, cognoscitivo y madurez, que impliquen la renuncia o el menoscabo de los mismos.
 
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
 ###### Artículo 61.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, en el ámbito de sus respectivas competencias, están obligadas a garantizar el derecho de niñas, niños y adolescentes al descanso y el esparcimiento y a fomentar oportunidades apropiadas, en condiciones de igualdad, para su participación en actividades culturales, artísticas y deportivas dentro de su comunidad.
+Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, están obligadas a garantizar el derecho de niñas, niños y adolescentes al descanso y el esparcimiento y a fomentar oportunidades apropiadas, en condiciones de igualdad, para su participación en actividades culturales, artísticas y deportivas dentro de su comunidad.
 
 ###### Artículo 62.
 
-Niñas, niños y adolescentes tienen derecho a la libertad de convicciones éticas, pensamiento, conciencia, religión y cultura. Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, en el ámbito de sus respectivas competencias garantizarán este derecho en el marco del Estado laico.
+Niñas, niños y adolescentes tienen derecho a la libertad de convicciones éticas, pensamiento, conciencia, religión y cultura. Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias garantizarán este derecho en el marco del Estado laico.
 
 La libertad de profesar la propia religión o creencias estará sujeta únicamente a las limitaciones prescritas por la ley que sean necesarias para proteger los derechos y libertades fundamentales de los demás.
 
@@ -1500,13 +1584,15 @@ Niñas, niños y adolescentes no podrán ser discriminados de forma alguna por e
 
 Niñas, niños y adolescentes tienen derecho a disfrutar libremente de su lengua, cultura, usos, costumbres, prácticas culturales, religión, recursos y formas específicas de organización social y todos los elementos que constituyan su identidad cultural.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, en el ámbito de sus respectivas competencias, estarán obligados a establecer políticas tendentes a garantizar la promoción, difusión y protección de la diversidad de las expresiones culturales, regionales y universales, entre niñas, niños y adolescentes.
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
+Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, estarán obligados a establecer políticas tendentes a garantizar la promoción, difusión y protección de la diversidad de las expresiones culturales, regionales y universales, entre niñas, niños y adolescentes.
 
 Lo dispuesto en este artículo no será limitativo del ejercicio del derecho a la educación, según lo dispuesto en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, ni de los principios rectores de esta Ley.
 
 ###### Artículo 64.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, en el ámbito de sus respectivas competencias deberán garantizar el derecho de niñas, niños y adolescentes a expresar su opinión libremente, así como a buscar, recibir y difundir información e ideas de todo tipo y por cualquier medio, sin más limitaciones que las establecidas en el artículo 6o. de la Constitución Política de los Estados Unidos Mexicanos.
+Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias deberán garantizar el derecho de niñas, niños y adolescentes a expresar su opinión libremente, así como a buscar, recibir y difundir información e ideas de todo tipo y por cualquier medio, sin más limitaciones que las establecidas en el artículo 6o. de la Constitución Política de los Estados Unidos Mexicanos.
 
 La libertad de expresión de niñas, niños y adolescentes conlleva el derecho a que se tome en cuenta su opinión respecto de los asuntos que les afecten directamente, o a sus familias o comunidades. Dichas autoridades, en el ámbito de sus respectivas competencias, deberán establecer las acciones que permitan la recopilación de opiniones y realización de entrevistas a niñas, niños y adolescentes sobre temas de interés general para ellos.
 
@@ -1514,15 +1600,19 @@ En poblaciones predominantemente indígenas, las autoridades a que se refiere es
 
 Asimismo, las autoridades a que se refiere este artículo dispondrán lo necesario para garantizar que niñas, niños y adolescentes con discapacidad cuenten con los sistemas de apoyo para ejercer su derecho a la libertad de expresión, acceso a la información y sistema de apoyo para la expresión de su voluntad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
 ###### Artículo 65.
 
-Niñas, niños y adolescentes tienen derecho al libre acceso a la información. Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, en el ámbito de sus respectivas competencias promoverán la difusión de información y material que tengan por finalidad asegurar su bienestar social y ético, así como su desarrollo cultural y salud física y mental.
+Niñas, niños y adolescentes tienen derecho al libre acceso a la información. Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias promoverán la difusión de información y material que tengan por finalidad asegurar su bienestar social y ético, así como su desarrollo cultural y salud física y mental.
 
 El Sistema Nacional de Protección Integral acordará lineamientos generales sobre la información y materiales para difusión entre niñas, niños y adolescentes, conforme a lo dispuesto en esta Ley.
 
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
 ###### Artículo 66.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, en el ámbito de sus respectivas competencias, promoverán mecanismos para la protección de los intereses de niñas, niños y adolescentes respecto de los riesgos derivados del acceso a medios de comunicación y uso de sistemas de información que afecten o impidan objetivamente su desarrollo integral.
+Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, promoverán mecanismos para la protección de los intereses de niñas, niños y adolescentes respecto de los riesgos derivados del acceso a medios de comunicación y uso de sistemas de información que afecten o impidan objetivamente su desarrollo integral.
 
 ###### Artículo 67.
 
@@ -1558,9 +1648,11 @@ Lo anterior, sin perjuicio de cualquier otra responsabilidad a la que hubiere lu
 
 Niñas, niños y adolescentes tienen derecho a ser escuchados y tomados en cuenta en los asuntos de su interés, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
 
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
 ###### Artículo 72.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, en el ámbito de sus respectivas competencias, están obligados a disponer e implementar los mecanismos que garanticen la participación permanente y activa de niñas, niños y adolescentes en las decisiones que se toman en los ámbitos familiar, escolar, social, comunitario o cualquier otro en el que se desarrollen.
+Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, están obligados a disponer e implementar los mecanismos que garanticen la participación permanente y activa de niñas; niños y adolescentes en las decisiones que se toman en los ámbitos familiar, escolar, social, comunitario o cualquier otro en el que se desarrollen.
 
 ###### Artículo 73.
 
@@ -1602,9 +1694,11 @@ En el caso de que no sea posible recabar el consentimiento de quienes ejerzan la
 
 No se requerirá el consentimiento de quienes ejerzan la patria potestad o tutela de niñas, niños o adolescentes, cuando la entrevista tenga por objeto que éstos expresen libremente, en el ejercicio de su derecho a la libertad de expresión, su opinión respecto de los asuntos que les afecten directamente, siempre que ello no implique una afectación a sus derechos, en especial a su honra y reputación.
 
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
 ###### Artículo 79.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, en el ámbito de sus respectivas competencias, garantizarán la protección de la identidad e intimidad de niñas, niños y adolescentes que sean víctimas, ofendidos, testigos o que estén relacionados de cualquier manera en la comisión de un delito, a fin de evitar su identificación pública. La misma protección se otorgará a adolescentes a quienes se les atribuya la realización o participación en un delito, conforme a la legislación aplicable en la materia.
+Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, garantizarán la protección de la identidad e intimidad de niñas, niños y adolescentes que sean víctimas, ofendidos, testigos o que estén relacionados de cualquier manera en la comisión de un delito, a fin de evitar su identificación pública. La misma protección se otorgará a adolescentes a quienes se les atribuya la realización o participación en un delito, conforme a la legislación aplicable en la materia.
 
 ###### Artículo 80.
 
@@ -1626,13 +1720,17 @@ El órgano jurisdiccional, con base en este artículo y en las disposiciones apl
 
 ### Capítulo Décimo Tercero. De los Derechos de la Libertad de Convicciones Éticas, Pensamiento, Conciencia, Religión y Cultura
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
 ###### Artículo 82.
 
 Niñas, niños y adolescentes gozan de los derechos y garantías de seguridad jurídica y debido proceso establecidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, esta Ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
 ###### Artículo 83.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, que sustancien procedimientos de carácter jurisdiccional o administrativo o que realicen cualquier acto de autoridad en los que estén relacionados niñas, niños o adolescentes, de conformidad con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez estarán obligadas a observar, cuando menos a:
+Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, que sustancien procedimientos de carácter jurisdiccional o administrativo o que realicen cualquier acto de autoridad en los que estén relacionados niñas, niños o adolescentes, de conformidad con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez estarán obligadas a observar, cuando menos a:
 
 I. Garantizar la protección y prevalencia del interés superior de la niñez a que se refiere el artículo 2 de la presente Ley;
 
@@ -1660,11 +1758,15 @@ XII. Ajustarse al tiempo de participación máximo para la intervención de niñ
 
 XIII. Implementar medidas para proteger a niñas, niños o adolescentes de sufrimientos durante su participación y garantizar el resguardo de su intimidad y datos personales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
 ### Capítulo Décimo Cuarto. De los Derechos a la Libertad de Expresión y de Acceso a la Información
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
 
 ###### Artículo 84.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, en el ámbito de sus respectivas competencias, garantizarán que niñas y niños a quienes se atribuya la comisión o participación en un hecho que la ley señale como delito se les reconozca que están exentos de responsabilidad penal y garantizarán que no serán privados de la libertad ni sujetos a procedimiento alguno, sino que serán únicamente sujetos a la asistencia social con el fin de restituirles, en su caso, en el ejercicio de sus derechos.
+Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, garantizarán que niñas y niños a quienes se atribuya la comisión o participación en un hecho que la ley señale como delito se les reconozca que están exentos de responsabilidad penal y garantizarán que no serán privados de la libertad ni sujetos a procedimiento alguno, sino que serán únicamente sujetos a la asistencia social con el fin de restituirles, en su caso, en el ejercicio de sus derechos.
 
 Lo anterior, sin perjuicio de las responsabilidades civiles que correspondan a quienes ejerzan la patria potestad, tutela o guarda y custodia, conforme a las disposiciones aplicables.
 
@@ -1678,9 +1780,11 @@ La Procuraduría de Protección, en el marco de sus atribuciones, deberá, en su
 
 Toda medida que se adopte será susceptible de revisión por órgano judicial competente en un proceso contradictorio en el que se garantice, por lo menos, el derecho a ser oído y la asistencia de un abogado especializado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
 ###### Artículo 86.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, en el ámbito de sus respectivas competencias, garantizarán que en los procedimientos jurisdiccionales en que estén relacionadas niñas, niños o adolescentes como probables víctimas del delito o testigos, de conformidad con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez, tengan al menos los siguientes derechos:
+Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, garantizarán que en los procedimientos jurisdiccionales en que estén relacionadas niñas, niños o adolescentes como probables víctimas del delito o testigos, de conformidad con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez, tengan al menos los siguientes derechos:
 
 I. Se les informe sobre la naturaleza del procedimiento y el carácter de su participación en el mismo, el que en ningún caso podrá ser el de imputado o probable responsable;
 
@@ -1878,6 +1982,16 @@ México, D.F., a 6 de noviembre de 2014.- Dip. Silvano Aureoles Conejo, Presiden
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a tres de diciembre de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 23 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES Y DE LA LEY GENERAL DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La entrada en vigor del término alcaldía en la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil surtirá efectos de acuerdo a lo establecido en los artículos Tercero y Cuarto Transitorios del Decreto por el que se declaran reformadas y derogadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de la reforma política de la Ciudad de México.
+
 ### Capítulo Décimo Sexto. Del Derecho de Asociación y Reunión
 
 ###### Artículo 93.
@@ -1932,9 +2046,11 @@ En ningún caso una situación migratoria irregular de niña, niño o adolescent
 
 ### Capítulo Único. De quienes ejercen la Patria Potestad, Tutela o Guarda y Custodia de Niñas, Niños y Adolescentes
 
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
 ###### Artículo 102.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, en el ámbito de sus respectivas competencias están obligadas a proporcionar asistencia médica, psicológica y atención preventiva integrada a la salud, así como un traductor o intérprete en caso de ser necesario, asesoría jurídica y orientación social a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes o personas que los tengan bajo su responsabilidad, en cuanto a las obligaciones que establecen esta Ley y demás disposiciones aplicables.
+Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias están obligadas a proporcionar asistencia médica, psicológica y atención preventiva integrada a la salud, así como un traductor o intérprete en caso de ser necesario, asesoría jurídica y orientación social a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes o personas que los tengan bajo su responsabilidad, en cuanto a las obligaciones que establecen esta Ley y demás disposiciones aplicables.
 
 ###### Artículo 103.
 
@@ -1990,7 +2106,9 @@ IV. Que quienes tengan trato con niñas, niños y adolescentes se abstengan de e
 
 A falta de quienes ejerzan la representación originaria de niñas, niños y adolescentes, o cuando por otra causa así lo determine el órgano jurisdiccional o autoridad administrativa competente, con base en el interés superior de la niñez, la representación en suplencia corresponderá a la Procuraduría de Protección competente.
 
-Las autoridades federales, de las entidades federativas, las municipales y de las demarcaciones del Distrito Federal, garantizarán que en cualquier procedimiento jurisdiccional o administrativo se dé intervención a la Procuraduría de Protección competente para que ejerza la representación coadyuvante, de conformidad con lo dispuesto en esta Ley y en las demás disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
+Las autoridades federales, de las entidades federativas, las municipales y de las demarcaciones de la Ciudad de México, garantizarán que en cualquier procedimiento jurisdiccional o administrativo se dé intervención a la Procuraduría de Protección competente para que ejerza la representación coadyuvante, de conformidad con lo dispuesto en esta Ley y en las demás disposiciones aplicables.
 
 Asimismo, dispondrán que cuando existan indicios de conflicto de intereses entre quienes ejerzan la representación originaria o de éstos con niñas, niños y adolescentes o por una representación deficiente o dolosa, a petición del Ministerio Público, de la Procuraduría de Protección competente o de oficio, el órgano jurisdiccional o administrativo que conozca del asunto, deberá sustanciar por vía incidental, un procedimiento sumario de restricción, suspensión o revocación de la representación originaria, según sea el caso, para efectos de que la Procuraduría de Protección competente ejerza la representación en suplencia.
 
