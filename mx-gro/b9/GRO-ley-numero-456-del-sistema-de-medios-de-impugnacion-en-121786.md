@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-456-del-sistema-de-medios-de-impugnacion-en-121786"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-02"
-last_updated: "2017-06-02"
+last_updated: "2017-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121786&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GRO"
 ---
 # LEY NUMERO 456 DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE JUNIO DE 2017 EN EL P.O. DEL ESTADO DE GUERRERO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY NÚMERO 456 DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 23 DE JUNIO DE 2017.]</small>
 
 Ley publicada en el Alcance I al Número 44 en el Periódico Oficial del Estado de Guerrero, el viernes 2 de junio de 2017.
 
@@ -787,13 +787,21 @@ Las sentencias que resuelvan el fondo de los juicios de inconformidad, podrán t
 
 I. Confirmar el acto impugnado;
 
-II. Declarar la nulidad de la votación emitida en una o varias casillas de uno o varios Distritos para la elección de gobernador, cuando se den los supuestos previstos en el Título Tercero y modificar, en consecuencia, el acta de cómputo estatal;
+> <small>(F. DE E., P.O. 23 DE JUNIO DE 2017)</small>
 
-III. Declarar la nulidad de la votación emitida en una o varias casillas para la elección de diputados de mayoría relativa, cuando se den los supuestos previstos en el Título Tercero y modificar, en consecuencia, las actas de cómputo distrital según corresponda;
+II. Declarar la nulidad de la votación emitida en una o varias casillas de uno o varios Distritos para la elección de gobernador, cuando se den los supuestos previstos en el Título Cuarto y modificar, en consecuencia, el acta de cómputo estatal;
 
-IV. Declarar la nulidad de la votación emitida en una o varias casillas para la elección de Diputados de representación proporcional, cuando se den los supuestos previstos en el Título Tercero y modificar, en consecuencia el acta de cómputo estatal;
+> <small>(F. DE E., P.O. 23 DE JUNIO DE 2017)</small>
 
-V. Declarar la nulidad de la votación emitida de una o varias casillas cuando se den los supuestos previstos en el Título Tercero y modificar, en consecuencia, las actas de cómputo municipal de la elección de Ayuntamientos, así como la asignación de regidores que proceda;
+III. Declarar la nulidad de la votación emitida en una o varias casillas para la elección de diputados de mayoría relativa, cuando se den los supuestos previstos en el Título Cuarto y modificar, en consecuencia, las actas de cómputo distrital según corresponda;
+
+> <small>(F. DE E., P.O. 23 DE JUNIO DE 2017)</small>
+
+IV. Declarar la nulidad de la votación emitida en una o varias casillas para la elección de Diputados de representación proporcional, cuando se den los supuestos previstos en el Título Cuarto y modificar, en consecuencia el acta de cómputo estatal;
+
+> <small>(F. DE E., P.O. 23 DE JUNIO DE 2017)</small>
+
+V. Declarar la nulidad de la votación emitida de una o varias casillas cuando se den los supuestos previstos en el Título Cuarto y modificar, en consecuencia, las actas de cómputo municipal de la elección de Ayuntamientos, así como la asignación de regidores que proceda;
 
 VI. Revocar la constancia expedida al candidato a gobernador, cuando se den los supuestos previstos en la fracción I del artículo 48 de la presente Ley;
 
@@ -805,11 +813,17 @@ IX. Revocar la constancia expedida en favor de la planilla de la elección de Ay
 
 X. Revocar la constancia de asignación de regidores por la inadecuada aplicación de la fórmula establecida por la Ley de Instituciones;
 
-XI. Declarar la nulidad de la elección de gobernador, cuando se den los supuestos previstos en el Título Tercero;
+> <small>(F. DE E., P.O. 23 DE JUNIO DE 2017)</small>
 
-XII. Declarar la nulidad de una elección de diputado de mayoría relativa en un distrito electoral, y en consecuencia, revocar la constancia expedida cuando se den los supuestos previstos en el Título Tercero;
+XI. Declarar la nulidad de la elección de gobernador, cuando se den los supuestos previstos en el Título Cuarto;
 
-XIII. Declarar la nulidad de la elección de ayuntamiento en un municipio, y revocar, en consecuencia, la constancia expedida cuando se den los supuestos previstos en el Título Sexto;
+> <small>(F. DE E., P.O. 23 DE JUNIO DE 2017)</small>
+
+XII. Declarar la nulidad de una elección de diputado de mayoría relativa en un distrito electoral, y en consecuencia, revocar la constancia expedida cuando se den los supuestos previstos en el Título Cuarto;
+
+> <small>(F. DE E., P.O. 23 DE JUNIO DE 2017)</small>
+
+XIII. Declarar la nulidad de la elección de ayuntamiento en un municipio, y revocar, en consecuencia, la constancia expedida cuando se den los supuestos previstos en el Título Cuarto;
 
 XIV. Hacer la corrección de los cómputos estatal, distritales o municipales cuando sean impugnados por error aritmético; y
 
@@ -883,7 +897,9 @@ V. Recibir la votación por personas u organismos distintos a los facultados por
 
 VI. Haber mediado dolo o error en la computación de los votos que beneficien a uno de los candidatos, fórmula de candidatos o planilla y esto sea determinante para el resultado de la votación;
 
-VII. Permitir a ciudadanos sufragar sin credencial para votar o cuyo nombre no aparezca en la lista nominal de electores y siempre que ello sea determinante para el resultado de la votación, salvo en los casos de excepción señalados en el artículo 326 de la Ley de Instituciones;
+> <small>(F. DE E., P.O. 23 DE JUNIO DE 2017)</small>
+
+VII. Permitir a ciudadanos sufragar sin credencial para votar o cuyo nombre no aparezca en la lista nominal de electores y siempre que ello sea determinante para el resultado de la votación, salvo en los casos de excepción señalados en el artículo 324 de la Ley de Instituciones;
 
 VIII. Haber impedido el acceso a los representantes de los partidos políticos o haberlos expulsado, sin causa justificada, y siempre que ello sea determinante para el resultado de la votación;
 
