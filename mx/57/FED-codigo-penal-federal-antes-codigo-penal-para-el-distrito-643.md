@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2017-06-22"
+last_updated: "2017-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "1931-08-13"
 
 CÓDIGO PENAL FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE JUNIO DE 2017.
 
 Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -5845,9 +5845,33 @@ En los supuestos a que se refieren las fracciones I, II, III, IV, V, VI, XI, XII
 
 En los supuestos a que se refieren las fracciones VII, VIII, IX, X, XVI y XVII, de dos a siete años de prisión.
 
-> <small>(REFORMADO, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
 
-ARTICULO 381 bis.- Sin perjuicio de las sanciones que de acuerdo con los artículos 370, 371 y 372 deben imponerse, se aplicarán de tres días a diez años de prisión al que robe en edificios, viviendas, aposento o cuarto que estén habitados o destinados para habitación, comprendiéndose en esta denominación no sólo los que estén fijos en la tierra, sino también los movibles, sea cual fuere la materia de que estén construidos, así como en aquellos lugares o establecimientos destinados a actividades comerciales. En los mismos términos se sancionará al que robe en campo abierto o paraje solitario una o más cabezas de ganado mayor. Cuando el robo se realice sobre una o más cabezas de ganado menor, además de lo dispuesto en los artículos 370, 371 y 372, se impondrán hasta las dos terceras partes de la pena comprendida en este artículo.
+###### Artículo 381 Bis.
+
+Sin perjuicio de las sanciones que de acuerdo con los artículos 370, 371 y 372 deben imponerse, se aplicarán de tres días a diez años de prisión al que robe en edificios, viviendas, aposento o cuarto que estén habitados o destinados para habitación, comprendiéndose en esta denominación no sólo los que estén fijos en la tierra, sino también los móviles, sea cual fuere la materia de que estén construidos, así como en aquellos lugares o establecimientos destinados a actividades comerciales.
+
+> <small>(ADICIONADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
+###### Artículo 381 Ter.
+
+Comete el delito de abigeato, quien por sí o por interpósita persona se apodere de una o más cabezas de ganado, sin consentimiento de quien legalmente pueda disponer de ellas.
+
+Se considerará ganado, para los efectos de este delito, a las especies: bovina, caballar, asnal, mular, ovina, caprina, porcina o de una o más colonias de abejas en un apiario; así como aquél domesticado, bravo, de pezuña, ganado mayor o ganado menor, independientemente de la actividad típica del animal.
+
+Por tal delito, se impondrán de dos a diez años de prisión.
+
+Se equiparará al delito de abigeato y se sancionará con la misma pena que éste, el sacrificio de ganado sin el consentimiento de quien legalmente pueda otorgarlo.
+
+> <small>(ADICIONADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
+###### Artículo 381 Quater.
+
+El delito de abigeato se considera calificado y se aumentará la pena hasta en una mitad, cuando sea cometido por quien tenga una relación laboral, o de parentesco por consanguinidad o afinidad hasta el cuarto grado con el propietario del ganado.
+
+De igual manera se impondrá la pena establecida en el párrafo anterior, cuando el delito se ejecute mediante violencia física o moral, o bien cuando lo comenta un servidor público.
+
+Cuando la conducta a que se refiere este artículo se cometa por una asociación delictuosa, banda o pandilla, se sancionará en términos de los artículos 164 o 164 Bis, según corresponda.
 
 ### CAPITULO VI. Daño en propiedad ajena
 
@@ -8018,3 +8042,17 @@ D.O.F. 22 DE JUNIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA EL ENCABEZADO DE (SIC) CAPÍTULO I DEL TÍTULO DECIMOCTAVO Y SE ADICIONA EL ARTÍCULO 284 BIS AL CÓDIGO PENAL FEDERAL".]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 381 BIS Y SE ADICIONAN LOS ARTÍCULOS 381 TER Y 381 QUÁTER AL CÓDIGO PENAL FEDERAL".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- A partir de la entrada en vigor de este Decreto, respecto de la descripción legal de la conducta delictiva contenida en los artículos 381 Ter y 381 Quater del Código Penal Federal, que en el artículo 381 Bis se contemplaba como delito y que por virtud de las presentes reformas, se denomina, penaliza o agrava de forma diversa, siempre y cuando las conductas y los hechos respondan a la descripción que ahora se establece, se estará a lo siguiente:
+
+I. En los procesos incoados, en los que aún no se formulen conclusiones acusatorias el Ministerio Público de la Federación las formulará de conformidad con la traslación del tipo que resulte;
+
+II. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal, respectivamente podrán efectuar la traslación del tipo de conformidad con la conducta que se haya probado y sus modalidades, y
+
+III. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, en función de la traslación del tipo, según las modalidades correspondientes.
