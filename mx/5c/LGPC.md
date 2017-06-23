@@ -4,7 +4,7 @@ identifier: "LGPC"
 country: "mx"
 rank: "ley_general"
 publication_date: "2012-06-06"
-last_updated: "2017-04-07"
+last_updated: "2017-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88120&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGPC"
 
 LEY GENERAL DE PROTECCIÓN CIVIL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE JUNIO DE 2017.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 6 de junio de 2012.
 
@@ -118,7 +118,9 @@ XXX. Hospital Seguro: Establecimiento de servicios de salud que debe permanecer 
 
 XXXI. Identificación de Riesgos: Reconocer y valorar las pérdidas o daños probables sobre los agentes afectables y su distribución geográfica, a través del análisis de los peligros y la vulnerabilidad;
 
-XXXII. Infraestructura Estratégica: Aquella que es indispensable para la provisión de bienes y servicios públicos, y cuya destrucción o inhabilitación es una amenaza en contra de la seguridad nacional;
+> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2017)</small>
+
+XXXII. Infraestructura Estratégica: Aquella que es indispensable para la provisión de bienes y servicios públicos, y cuya destrucción o inhabilitación es una amenaza en contra de la seguridad nacional y ocasionaría una afectación a la población, sus bienes o entorno. La unidad mínima de dicha Infraestructura Estratégica es la Instalación vital;
 
 XXXIII. Instrumentos Financieros de Gestión de Riesgos: Son aquellos programas y mecanismos de financiamiento y cofinanciamiento con el que cuenta el gobierno federal para apoyar a las instancias públicas federales y entidades federativas, en la ejecución de proyectos y acciones derivadas de la gestión integral de riesgos, para la prevención y atención de situaciones de emergencia y/o desastre de origen natural;
 
@@ -600,6 +602,10 @@ Los Programas Especiales de Protección Civil son el instrumento de planeación 
 
 El Programa Interno de Protección Civil se lleva a cabo en cada uno de los inmuebles para mitigar los riesgos previamente identificados y estar en condiciones de atender la eventualidad de alguna emergencia o desastre.
 
+> <small>(ADICIONADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
+Las instituciones o los particulares, de acuerdo a su presupuesto autorizado o posibilidad económica, podrán incorporar las innovaciones tecnológicas, digitales o virtuales, en la elaboración y difusión del Programa Interno de Protección Civil, así como para su vinculación con los Atlas de Riesgos.
+
 Para la implementación del Programa Interno de Protección Civil cada instancia a la que se refiere el artículo siguiente, deberá crear una estructura organizacional específica denominada Unidad Interna de Protección Civil que elabore, actualice, opere y vigile este instrumento en forma centralizada y en cada uno de sus inmuebles.
 
 Para el caso de las unidades hospitalarias, en la elaboración del programa interno se deberán tomar en consideración los lineamientos establecidos en el Programa Hospital Seguro.
@@ -673,6 +679,10 @@ La normatividad correspondiente precisará y detallará todos los rubros que ata
 La Escuela Nacional de Protección Civil es una instancia dependiente de la Coordinación Nacional por conducto del CENAPRED, orientada a la formación sistemática e institucionalizada de capital humano, a través de la capacitación, actualización y especialización de materias teóricas y prácticas.
 
 Tendrá como función la acreditación y certificación de las capacidades de personas físicas y morales que ofrezcan y comercialicen servicios de asesoría y capacitación en los temas relacionados con protección civil, sin perjuicio de que existan otras instancias de acreditación y certificación dentro del sistema educativo nacional.
+
+> <small>(ADICIONADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
+La Escuela Nacional de Protección Civil fijará las competencias y conocimientos necesarios para la acreditación de la capacitación formal de protección civil que ofrezcan o comercialicen personas físicas y morales. Dicha capacitación será temática o en grado ascendente una ruta de capacitación de acuerdo a lo establecido por el Sistema Educativo Nacional en materia de acumulación de créditos y en el marco cualificaciones.
 
 ###### Artículo 50.
 
@@ -898,6 +908,10 @@ El Gobierno Federal, con la participación de las entidades federativas y el gob
 
 El Gobierno Federal, con la participación de las entidades federativas y el Gobierno del Distrito Federal, promoverá la creación de las bases que permitan la identificación y registro en los Atlas Nacional, Estatales y Municipales de Riesgos de las zonas en el país con riesgo para la población, el patrimonio público y privado, que posibilite a las autoridades competentes regular la edificación de asentamientos.
 
+> <small>(ADICIONADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
+Las entidades de la federación promoverán en el ámbito de su competencia, que el Atlas Nacional de Riesgos sea de fácil acceso a la población, procurando que su elaboración siga las directrices del CENAPRED.
+
 ###### Artículo 84.
 
 Se consideran como delito grave la construcción, edificación, realización de obras de infraestructura y los asentamientos humanos que se lleven a cabo en una zona determinada sin elaborar un análisis de riesgos y, en su caso, definir las medidas para su reducción, tomando en consideración la normatividad aplicable y los Atlas municipales, estatales y el Nacional y no cuenten con la autorización de la autoridad correspondiente.
@@ -1007,5 +1021,11 @@ DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 2, FRACCIÓN XVI, Y EL ARTÍCULO 82; 
 D.O.F. 7 DE ABRIL DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN II Y SE ADICIONA UNA FRACCIÓN VIII AL ARTÍCULO 4 DE LA LEY GENERAL DE PROTECCIÓN CIVIL”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE PROTECCIÓN CIVIL, EN MATERIA INNOVACIÓN TECNOLÓGICA”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
