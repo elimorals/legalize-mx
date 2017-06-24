@@ -4,7 +4,7 @@ identifier: "TAB-ley-estatal-de-centros-de-educacion-inicial-y-cuidado-71262"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-26"
-last_updated: "2009-12-26"
+last_updated: "2017-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71262&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY ESTATAL DE CENTROS DE EDUCACION INICIAL Y CUIDADO INFANTIL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE TABASCO, PUBLICADA EN EL P.O. DE 24 DE JUNIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ESTATAL DE CENTROS DE EDUCACION INICIAL Y CUIDADO INFANTIL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2017 (ABROGADA).
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 26 de diciembre de 2009.
 
@@ -472,3 +474,17 @@ GOBERNADOR DEL ESTADO DE TABASCO.
 LIC. MIGUEL ALBERTO ROMERO PÉREZ
 
 CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE TABASCO”.]
+
+PRIMERO.- El Presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley Estatal de Centros de Educación Inicial y Cuidado Infantil, expedida por la Quincuagésima Novena Legislatura mediante Decreto 229, publicado en el Suplemento "U" al Periódico Oficial 7023, de fecha 26 de diciembre de 2009.
+
+TERCERO.- El Titular del Poder Ejecutivo del Estado deberá expedir el Reglamento de esta Ley en el término de 180 días posteriores al de su entrada en vigor.
+
+CUARTO.- La certificación del personal de los Centros de Atención a que hace referencia el presente ordenamiento, se llevará a cabo de manera gradual y respetando en todo momento sus derechos laborales.
