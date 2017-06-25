@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-gestion-ambiental-sustentable-para-el-estado-de-75884"
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-24"
-last_updated: "2017-03-05"
+last_updated: "2017-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY DE GESTION AMBIENTAL SUSTENTABLE PARA EL ESTADO DE DURANGO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE GESTIÓN AMBIENTAL SUSTENTABLE PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 24 de junio de 2010.
 
@@ -431,9 +433,23 @@ XXXVI. Proporcionar la información pública que le sea solicitada, de conformid
 
 XXXVII. Establecer y operar el registro de emisiones y transferencia de contaminantes, así como el Registro obligatorio de las fuentes fijas de competencia estatal;
 
-XXXVIII. Expedir registro de los prestadores de servicios en materia ambiental; y
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2017)</small>
 
-XXXIX. Las demás a que se refiere esta Ley y demás ordenamientos jurídicos complementarios y supletorios.
+XXXVIII. Expedir registro de los prestadores de servicios en materia ambiental;
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2017)</small>
+
+XXXIX. Prevenir, controlar y abatir la contaminación por el uso de bolsas de plástico de uso único, así como del poliestireno expandido que se entreguen a título gratuito, de manera onerosa o con motivo de cualquier acto comercial, para transportación, carga o traslado al consumidor final;
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2017)</small>
+
+XL. Verificar que las bolsas que se entreguen cumplan con los criterios y normas de producción y consumo sustentable de reducción, reciclaje y reutilización, de modo que garanticen la disminución de los impactos ambientales asociados a la extracción de materiales, transformación, manufactura, distribución, uso y destino de éstos productos plásticos; promoviendo el uso de materias primas provenientes de los recursos naturales renovables y reciclables;
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2017)</small>
+
+XLI. Prohibir que se entreguen para transportación, carga o traslado del consumidor final a título gratuito, de manera onerosa, o con motivo de cualquier acto comercial, bolsas de plástico que no estén sujetas a los criterios y normas para la producción y el consumo sustentable; y
+
+XLII. Las demás a que se refiere esta Ley y demás ordenamientos jurídicos complementarios y supletorios.
 
 ###### ARTÍCULO 6.
 
@@ -2096,3 +2112,11 @@ SEGUNDO.- El valor de la Unidad de Medida y Actualización, será el publicado p
 TERCERO.- A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 25 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 157.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE GESTIÓN AMBIENTAL SUSTENTABLE PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día primero de enero de 2018, mismo que será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
