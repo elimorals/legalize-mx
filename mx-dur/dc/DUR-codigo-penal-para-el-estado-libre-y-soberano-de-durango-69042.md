@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2017-06-01"
+last_updated: "2017-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -39,9 +39,7 @@ En fecha 15 de junio de 2005, se presentó iniciativa por el Dip. José Alfredo 
 
 En fecha 17 de octubre de 2007, se presentó por el Dip. Jorge Herrera Delgado, integrante del Grupo Parlamentario del P.R.I., de la Sexagésima Cuarta Legislatura, Iniciativa en la que solicita adición de la fracción XXIV Bis del artículo 426 del Código Penal para él Estado Libre y Soberano de Durango;
 
-En fecha 8 de octubre de 2008, se presentó, por el Diputado Adán Soria Ramírez, Integrante del Grupo Parlamentario del P.R.I., de la Sexagésima Cuarta Legislatura, iniciativa que contiene reforma al artículo 377 del Código
-
-Penal del Estado de Durango;
+En fecha 8 de octubre de 2008, se presentó, por el Diputado Adán Soria Ramírez, Integrante del Grupo Parlamentario del P.R.I., de la Sexagésima Cuarta Legislatura, iniciativa que contiene reforma al artículo 377 del Código Penal del Estado de Durango;
 
 En fecha, 20 de octubre de 2008, se presentó por la Diputada Sonia Catalina Mercado Gallegos, Integrante del Grupo Parlamentario del P.R.I., de la Sexagésima Cuarta Legislatura, Iniciativa que contiene la adición de un artículo 322 Bis, al Código Penal para el Estado Libre y Soberano de Durango;
 
@@ -53,7 +51,9 @@ VALORACIÓN DE LAS INICIATIVAS:
 
 Así pues, resulta pertinente puntualizar que tras la ponderación y. análisis del contenido de las iniciativas de referencia, se llegó a la conclusión de que los temas propuestos en las mismas fueran adoptados por la mesa de trabajo que elaboró el proyecto de iniciativa del nuevo Código Penal, siendo a su vez, incorporados en el presente que hoy se somete a la consideración de este Pleno, en virtud de que se valoró en su exacta dimensión cada uno de los temas propuestos, habiendo coincidido en que tras la aprobación del Nuevo Sistema de Justicia Penal, mismo que diera inicio con la reforma constitucional y que luego continuara con la aprobación del Código Procesal Penal del Estado de Durango, la Ley de Justicia Alternativa del Estado de Durango, Ley de Justicia Penal Restaurativa del Estado de Durango, la Ley Orgánica de la Procuraduría General de Justicia en el Estado y reformas a la Ley de Defensoría Pública, se advirtió como obligada la adopción de un sistema de principios penales de corte garantista que robustecieran el contenido del ordenamiento adjetivo en la materia, de igual forma, se destaca que la reforma integral del ordenamiento sustantivo, derivó del análisis concienzudo sobre la necesidad de reestructurar en su integridad las conductas delictivas en atención al bien jurídico protegido, así como la aprobación e incorporación de nuevas conductas típicas que atacan frontalmente a la delincuencia y que no estaban previstas en nuestro Código vigente; por ello, la determinación de que nuestro nuevo Código Penal contemple las figuras delictivas propuestas en las iniciativas antes referidas, sino algunas otras conductas novedosas que fueron incorporadas en el dictamen que se presenta por parte de la Comisión, con base en los siguientes:
 
-CONSIDERANDOS...
+CONSIDERANDOS
+
+[...]
 
 Con base en los anteriores Considerandos, esta H. LXIV Legislatura del Estado, expide el siguiente:
 
@@ -1499,9 +1499,9 @@ Efectos y características de la prescripción.
 
 La prescripción es personal y extingue la pretensión punitiva y la potestad de ejecutar las penas y las medidas de seguridad y para ello bastará el transcurso del tiempo señalado por la ley.
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2017)</small>
 
-Los delitos de secuestro, desaparición forzada de personas, tráfico de influencias, cohecho en los términos de la fracción II del artículo 338, peculado cuando la cuantía exceda de quinientas veces la Unidad de Medida y Actualización de conformidad con el artículo 339, concusión en los términos de la fracción II del artículo 340, homicidio calificado, tortura y enriquecimiento ilícito en los términos de la fracción II del artículo 322, son imprescriptibles.
+Los delitos de secuestro, desaparición forzada de personas, tráfico de influencias, cohecho en los términos de la fracción II del artículo 338, peculado cuando la cuantía exceda de quinientas veces del valor de la Unidad de Medida y Actualización de conformidad con el artículo 339, concusión en los términos de la fracción II del artículo 340, homicidio calificado, tortura, enriquecimiento ilícito en los términos de la fracción II del artículo 322 y pederastia de conformidad con el artículo 177 BIS, de este Código, son imprescriptibles.
 
 ###### Artículo 116.
 
@@ -1795,7 +1795,9 @@ Si las lesiones fueren inferidas en riña, se impondrán la mitad o cinco sextos
 
 Cuando las lesiones sean calificadas, la pena se incrementará en dos terceras partes.
 
-### CAPÍTULO III. REGLAS COMUNES PARA LOS DELITOS DE HOMICIDIO Y LESIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JUNIO DE 2017)</small>
+
+### CAPÍTULO III. DISPOSICIONES GENERALES PARA LOS DELITOS DE HOMICIDIO, FEMINICIDIO Y LESIONES
 
 ###### Artículo 146.
 
@@ -1832,6 +1834,14 @@ IV. El cuerpo de la víctima sea expuesto, depositado o arrojado en un lugar pú
 > <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2011)</small>
 
 V. La víctima haya sido incomunicada sin ánimo de obtención de lucro, cualquiera que sea el tiempo previo a su fallecimiento.
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2017)</small>
+
+VI. Que entre la víctima y el sujeto activo exista o haya existido una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, sociedad de convivencia, noviazgo o cualquier otra relación de hecho o amistad; o
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2017)</small>
+
+VII. Entre el activo y la víctima hubo o haya existido una relación laboral, docente o cualquier otro que implique confianza, subordinación o superioridad.
 
 ### CAPÍTULO IV. ABORTO
 
@@ -2121,7 +2131,7 @@ II. Al que por medio de amenazas de cualquier género trate de impedir que otro 
 
 ###### Artículo 175.
 
-Si el sujeto activo cumple su amenaza se acumularán la sanción de ésta y la del delito que resulte.
+Si el sujeto activo cumple su amenaza se acumularán la sanción de esta y la del delito que resulte.
 
 Si el sujeto activo consigue lo que se propone, se observarán las reglas siguientes:
 
@@ -2186,6 +2196,26 @@ I. Realice cópula con persona menor de catorce años de edad o con persona que 
 II. Introduzca por vía anal o vaginal cualquier elemento, instrumento o cualquier parte del cuerpo humano distinto del pene en una persona menor de catorce años de edad o persona que no tenga capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo.
 
 Si se ejerciera violencia, las penas previstas se aumentarán en una mitad.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2017)</small>
+
+###### Artículo 177 Bis.
+
+Comete el delito de pederastia quien ejecute, obligue, induzca o convenza a ejecutar cualquier acto sexual, con o sin su consentimiento a un menor de 18 años y se le impondrá prisión de diez a dieciocho años y multa de setecientos veinte a mil doscientos noventa y seis veces la Unidad de Medida y Actualización.
+
+La pederastia se considerará agravada si:
+
+I. El sujeto activo del delito tuviere una relación docente, religiosa, laboral, médica, cultural, doméstica, o derivada del engaño o influencia mediante el uso de internet, telefonía o de cualquier tecnología de la información, o desempeñare un ministerio religioso, cargo o comisión públicos o una profesión o empleo, y aprovechando la confianza, subordinación o superioridad que tiene sobre un menor de 18 años, hubiese utilizado dichos medios o circunstancias que ello le proporcionaba para cometer el delito;
+
+II. El sujeto activo del delito tuviere relación de parentesco de cualquier tipo o grado con la víctima, o fuere concubina, concubinario, amasia, amasio o pareja sentimental del padre o de la madre del sujeto pasivo; o si éste se encuentra bajo la dependencia, tutela, curatela, guarda o custodia de aquél por cualquier otro motivo;
+
+III. Se cometiere por dos o más personas;
+
+IV. El sujeto activo se aproveche de la confianza, ignorancia, extrema necesidad económica o alimentaria o subordinación de la víctima, o de la relación de superioridad o de cualquier índole que sobre ésta tenga; o
+
+V. Si el sujeto activo obliga a la víctima a consumir, o le suministra sin su consentimiento, drogas, estupefacientes, psicotrópicos o cualquier otra sustancia tóxica que imposibilite su defensión de manera total, parcial, momentánea o permanente.
+
+En estos supuestos, se impondrán al activo de doce a treinta años de prisión y multa de hasta dos mil ciento sesenta veces la Unidad de Medida y Actualización.
 
 ### CAPÍTULO III. ESTUPRO
 
@@ -2373,7 +2403,7 @@ I. De seis meses a dos años de prisión o multa de treinta y seis a ciento cuar
 
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
 
-II. De uno a cuatro años de prisión o multa de setenta y dos a doscientos ochenta y ocho veces la Unidad de Medida y Actualización, cuando el valor de lo robado exceda de veinticinco pero no de noventa veces la Unidad de Medida y Actualización;
+II. De uno a cuatro años de prisión o multa de setenta y dos a doscientas ochenta y ocho veces la Unidad de Medida y Actualización, cuando el valor de lo robado exceda de veinticinco pero no de noventa veces la Unidad de Medida y Actualización;
 
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
 
@@ -3923,7 +3953,7 @@ Al que siendo servidor público, incurra en alguna de las conductas previstas en
 
 No serán considerados como delitos contra la dignidad de las personas, todas aquellas medidas tendientes a la protección de los grupos socialmente desfavorecidos.
 
-Cuando las conductas a que se refiere este articulo sean cometidas por persona con la que el ofendido tenga una relación de subordinación laboral, la pena se incrementará en una mitad.
+Cuando las conductas a que se refiere este artículo sean cometidas por persona con la que el ofendido tenga una relación de subordinación laboral, la pena se incrementará en una mitad.
 
 Asimismo, se incrementará en una mitad la pena cuando los actos previstos en este artículo limiten el acceso a las garantías jurídicas indispensables para la protección de todos los derechos humanos.
 
@@ -4347,8 +4377,6 @@ II. Cuando la cantidad o el valor de la dádiva, promesa o prestación exceda de
 
 ### CAPÍTULO V. ULTRAJES A LA AUTORIDAD
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
-
 ###### Artículo 339.
 
 Se impondrán de tres meses a tres años de prisión y multa de dieciocho a doscientas dieciséis veces la Unidad de Medida y Actualización, al servidor público que:
@@ -4517,13 +4545,15 @@ Al que quebrante, los sellos puestos por orden de la autoridad competente, se le
 
 Se sancionará con las mismas penas, al titular, propietario o responsable de un establecimiento mercantil o de la construcción de obra que se encuentre en estado de clausura, que realice actos de comercio, construcción o prestación de un servicio, aún cuando los sellos permanezcan intactos.
 
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 25 DE JUNIO DE 2017)</small>
+
 ### CAPÍTULO V. OMISIÓN DE INFORMES MÉDICOS FORENSES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### Artículo 357.
 
-Al que ultraje a una autoridad en el ejercicio de sus funciones o con motivo de ellas, se le impondrá de tres meses a un año de prisión y multa de dieciocho a setenta y dos veces la Unidad de Medida y Actualización.
+(DEROGADO, P.O. 25 DE JUNIO DE 2017)
 
 ### CAPÍTULO VI. DELITOS COMETIDOS EN EL ÁMBITO DE LA EJECUCIÓN PENAL
 
@@ -5628,3 +5658,39 @@ P.O. 1 DE JUNIO DE 2017.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 Segundo.- Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
+
+P.O. 25 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 158.- POR EL QUE SE ADICIONA UN ARTÍCULO 177 BIS AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO".]
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se Derogan todas las disposiciones que se oponga al presente Decreto.
+
+P.O. 25 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 159.- POR EL QUE SE DEROGA EL ARTÍCULO 357 ASÍ COMO EL CAPÍTULO V DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 160.- POR EL QUE SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 115 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO".]
+
+Primero.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se derogan todas las disposiciones que (sic) opongan al contenido del presente Decreto.
+
+P.O. 25 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 161.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS DEL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO".]
+
+Primero.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se derogan todas las disposiciones que opongan al contenido del presente Decreto.
