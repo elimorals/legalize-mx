@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-fomento-economico-para-el-estado-de-durango-110885"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-01"
-last_updated: "2017-03-19"
+last_updated: "2017-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2017.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Durango, el martes 1 de diciembre de 2015.
 
@@ -745,9 +745,11 @@ XII. Derechos por alineamiento y número oficial.
 
 Además de los incentivos fiscales establecidos en el presente Capítulo, las autoridades podrán otorgar a las Empresas Socialmente Responsables un 2.5% adicional a los incentivos otorgados conforme a la presente Ley, de acuerdo a la reglamentación correspondiente y previa obtención de dictamen emitido por la Secretaría.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 63.
 
-Se otorgará por cuatro años, sin distinción del tamaño de la empresa, y sin la necesidad de realizar ninguna inversión en activos fijos adicional, la exención del Impuesto Sobre Nómina que se genere con motivo de la contratación de personas con discapacidad o adultos mayores, debiendo el empresario comprobar fehacientemente la discapacidad o la edad del trabajador contratado y su alta en el Instituto Mexicano del Seguro Social, junto con los demás requisitos de la solicitud de incentivos que presente a la Secretaría, esta exención será exclusivamente sobre la base del impuesto que genere el trabajador discapacitado o adulto mayor siempre y cuando durante este plazo se encuentre prestando sus servicios.
+Se otorgará por cuatro años, sin distinción del tamaño de la empresa, y sin la necesidad de realizar ninguna inversión en activos fijos adicional, la exención del Impuesto Sobre Nómina que se genere con motivo de la contratación de personas con discapacidad o adultos mayores, personas de 45 a 59 años de edad, o que demuestren haber sido deportadas de los Estados Unidos de América, debiendo el empresario comprobar fehacientemente la discapacidad, la edad del trabajador contratado, o su calidad de deportado y su alta en el Instituto Mexicano del Seguro Social, junto con los demás requisitos de la solicitud de incentivos que presente a la Secretaría, esta exención será exclusivamente sobre la base del impuesto que genere el trabajador a que se hace referencia en este artículo siempre y cuando durante este plazo se encuentre prestando sus servicios.
 
 Por cada persona con discapacidad que contraten las empresas, siempre y cuando éste se encuentre prestando sus servicios durante el plazo establecido en el párrafo anterior, se otorgará la exención del Impuesto Sobre Nómina que generen trabajadores sin discapacidad con el mismo sueldo, hasta por cuatro años, de conformidad con lo siguiente:
 
@@ -867,9 +869,15 @@ VIII. Las empresas debidamente reconocidas por la Secretaría como socialmente r
 
 IX. Incrementen sus exportaciones.
 
-X. Empleen, de manera preferente, personas con discapacidad, adultos mayores o mujeres jefas de familia.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2017)</small>
+
+X. Empleen, de manera preferente, personas con discapacidad, adultos mayores, personas de 45 a 59 años de edad o mujeres jefas de familia.
 
 XI. Se asocien en agrupamientos, cadenas productivas o cualquier otra alianza estratégica empresarial, al amparo de alguna figura jurídica de las contempladas en la legislación estatal y nacional.
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2017)</small>
+
+XII. Contraten a ciudadanos duranguenses que demuestren haber sido deportados de los Estados Unidos de América.
 
 ###### ARTÍCULO 70.
 
@@ -1273,9 +1281,13 @@ CUARTO. Se abroga la Ley de Fomento al Emprendedurismo Juvenil del Estado de Dur
 
 QUINTO. Se derogan todas las disposiciones que se opongan a la presente Ley.
 
-SEXTO. El Gobernador del Estado, por conducto de la Secretaría contará con un plazo de 180 días naturales para expedir las disposiciones reglamentarias de la presente Ley.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 25 DE JUNIO DE 2017)</small>
 
-El Gobernador del Estado, por conducto de la Secretaría podrá emitir lineamientos generales para la aplicación de la presente Ley, en tanto se publica el Reglamento sin que ello implique una ampliación en el plazo a que hace referencia el párrafo anterior.
+SEXTO.- El Gobernador del Estado tendrá un plazo de 45 días una vez entrada en vigor la siguiente reforma, para convocar a la integración del Consejo de Desarrollo Económico al que alude el artículo 9 de la presente ley.
+
+(REUBICADO [N. DE E. Y FUSIONADOS PÁRRAFOS, ANTES ARTÍCULO SEXTO], P.O. 25 DE JUNIO DE 2017)
+
+SEPTIMO.- El Gobernador del Estado, por conducto de la Secretaría contará con un plazo de 180 días naturales para expedir las disposiciones reglamentarias de la presente Ley. El Gobernador del Estado, por conducto de la Secretaría podrá emitir lineamientos generales para la aplicación de la presente Ley, en tanto se publica el Reglamento sin que ello implique una ampliación en el plazo a que hace referencia el párrafo anterior.
 
 El Ciudadano Gobernador del Estado, sancionará, promulgará y dispondrá se publique, circule y observe.
 
@@ -1314,3 +1326,17 @@ P.O. 19 DE MARZO DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 25 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 153.- POR EL QUE SE MODIFICAN DIVERSOS ARTÍCULOS DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El beneficio de la exención del Impuesto Sobre Nómina que se genere por la contratación de personas deportadas de los Estados Unidos de América, deberán demostrar ante la Secretaría de Desarrollo Económico, que su deportación se realizó después del 20 de enero de 2017.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE JUNIO DE 2017.
+
+> <small>[N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.]</small>
