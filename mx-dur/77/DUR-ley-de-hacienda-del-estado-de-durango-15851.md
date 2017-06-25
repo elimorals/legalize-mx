@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-del-estado-de-durango-15851"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-23"
-last_updated: "2017-02-12"
+last_updated: "2017-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE HACIENDA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 1999.
 
@@ -279,9 +279,13 @@ La Federación, los Estados y los Municipios estarán exentos del pago de este i
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
-###### Artículo 12.
+###### ARTICULO 12.
 
 Es facultad del Titular del Poder Ejecutivo exentar total o parcialmente del Impuesto Sobre Nómina hasta por cinco años, a las empresas de nueva creación o a aquellas que califiquen en las condiciones de desempeño por las que podrán ser estimuladas fiscalmente, de conformidad con lo establecido en la Ley de Fomento Económico Para el Estado de Durango, su Reglamento, las demás Leyes y disposiciones fiscales, y con las reglas de carácter general que emita la Secretaría de Finanzas y de Administración.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2017)</small>
+
+ARTICULO 12 bis. Queda exento hasta por un periodo de 4 años, el impuesto Sobre Nómina en un 100% a las personas físicas o morales que empleen trabajadores que cuenten con cuarenta y cinco años cumplidos o más a la fecha de contratación, o demuestren haber sido deportados de los Estados Unidos de América, respecto a la nómina de dicho trabajador.
 
 ### CAPITULO II. DEL IMPUESTO PARA EL FOMENTO DE LA EDUCACION PUBLICA EN EL ESTADO
 
@@ -3752,3 +3756,13 @@ SEGUNDO. Respecto de los subsidios para el canje o replaqueo y refrendo, se esta
 TERCERO. El Estado implementará un mecanismo de reintegración a los contribuyentes que hayan realizado el pago por el juego de placas en el presente ejercicio fiscal.
 
 CUARTO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 25 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 153.- POR EL QUE SE MODIFICAN DIVERSOS ARTICULOS DE LA LEY DE FOMENTO ECONOMICO PARA EL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El beneficio de la exención del Impuesto Sobre Nómina que se genere por la contratación de personas deportadas de los Estados Unidos de América, deberán demostrar ante la Secretaría de Desarrollo Económico, que su deportación se realizó después del 20 de enero de 2017.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
