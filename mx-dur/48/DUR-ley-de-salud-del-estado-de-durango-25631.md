@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-salud-del-estado-de-durango-25631"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-11"
-last_updated: "2017-03-30"
+last_updated: "2017-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE SALUD DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 11 de julio de 2002.
 
@@ -3127,9 +3127,15 @@ X. La desocupación o desalojo de casas, edificios, establecimientos y, en gener
 
 XI. El aseguramiento y destrucción de objetos, productos o substancias;
 
-XII. La prohibición de actos de uso; y
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2017)</small>
 
-XIII. Las demás de índole sanitaria que determinen las autoridades sanitarias competentes, que puedan evitar que se causen o continúen causando riesgos o daños a la salud.
+XII. La prohibición de actos de uso;
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2017)</small>
+
+XIII. La prohibición de venta y suministro de medicamentos con fecha de caducidad vencida, atendiendo principalmente el control de los antibióticos; y
+
+XIV. Las demás de índole sanitaria que determinen las autoridades sanitarias competentes, que puedan evitar que se causen o continúen causando riesgos o daños a la salud.
 
 Son de inmediata ejecución las medidas de seguridad señaladas en el presente artículo.
 
@@ -3204,6 +3210,10 @@ En este caso, los responsables de la publicidad procederán a suspender el mensa
 ###### ARTÍCULO 276.
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de las autoridades sanitarias se considere que es indispensable para evitar un daño grave a la salud o la vida de las personas.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2017)</small>
+
+ARTÍCULO 276 BIS.- La Secretaría, el Organismo y la COPRISED, en el ámbito de sus competencias, implementarán programas de vigilancia para controlar la expedición o venta de cualquier tipo de medicamentos que se encuentren deteriorados o caducados y que incumplan con los requisitos relativos a su composición, estabilidad y eficacia poniendo así en peligro la salud de las personas.
 
 ### CAPÍTULO V. RECURSO DE INCONFORMIDAD
 
@@ -3280,6 +3290,10 @@ Se sancionará con multa equivalente de cuatro mil hasta diez mil veces la Unida
 ###### ARTÍCULO 286.
 
 Se sancionará con multa equivalente de diez mil hasta quince mil veces la Unidad de Medida y Actualización, la violación a las disposiciones contenidas en el artículo 132 y 177 bis de esta Ley.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2017)</small>
+
+ARTÍCULO 286 BIS.- Se sancionará con multa equivalente de quince mil a veinte mil veces la Unidad de Medida y Actualización, la violación a las disposiciones contenidas en el artículo 276 BIS de esta Ley.
 
 ###### ARTÍCULO 287.
 
@@ -3780,6 +3794,18 @@ El Consejo Estatal de Salud, deberá realizar las adecuaciones que considere nec
 P.O. 30 DE MARZO DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 127.- QUE CONTIENE DIVERSAS REFORMAS Y ADICIONES A LA LEY DE SALUD DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 156.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE SALUD DEL ESTADO DE DURANGO”.]
 
 ###### ARTÍCULO PRIMERO.
 
