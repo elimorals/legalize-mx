@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-prevencion-y-gestion-integral-de-residuos-del-56633
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-12"
-last_updated: "2014-03-09"
+last_updated: "2017-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 12 de julio de 2007.
 
@@ -187,7 +187,15 @@ I. Formular, conducir y evaluar la política Estatal en materia de residuos así
 
 II. Coadyuvar para el cumplimiento de las Normas Oficiales Mexicanas relativas al desempeño ambiental que deberá prevalecer en el manejo integral de residuos sólidos urbanos y de manejo especial;
 
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2017)</small>
+
+Convenir con la Federación y municipios en la generación de políticas públicas tendentes a la sustitución progresiva de productos elaborados con polietileno y de cualquier otro material plástico convencional;
+
 III. Coadyuvar para el cumplimiento de las Normas Oficiales Mexicanas que establezcan los criterios para determinar que residuos estarán sujetos a planes de manejo, que incluyan los listados de estos, y que especifiquen los procedimientos a seguir en el establecimiento de dichos planes;
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2017)</small>
+
+Convenir en la implementación de políticas públicas que permitan la reutilización y reciclado de plásticos comerciales e industriales de uso único.
 
 IV. La regulación y control de los residuos peligrosos provenientes de microgeneradores, cuando un municipio no cuente con los elementos o regulación necesarios para dicha regulación y control;
 
@@ -519,7 +527,9 @@ V. Residuos de los servicios de transporte, así como los generados a consecuenc
 
 VI. Lodos provenientes del tratamiento de aguas residuales;
 
-VII. Residuos de tiendas departamentales o centros comerciales generados en grandes volúmenes;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2017)</small>
+
+VII. Residuos de tiendas departamentales o centros comerciales generados en grandes volúmenes y plásticos de uso único.
 
 VIII. Residuos de la construcción, mantenimiento y demolición en general;
 
@@ -617,6 +627,10 @@ III. La promoción de adquisiciones de productos de menor impacto ambiental, lo 
 
 IV. La educación, capacitación y difusión orientadas a promover una cultura de responsabilidad ambiental entre los empleados de los organismos públicos, y los usuarios de sus servicios.
 
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2017)</small>
+
+Los empleados de los Organismos Públicos y los usuarios de sus servicios procurarán implementar mecanismos que permitan la reutilización o el reciclado de productos plásticos no biodegradables a efecto de promover su uso eficiente.
+
 ###### Artículo 36.
 
 La Secretaría establecerá convenios de vinculación y colaboración con los centros de investigación de tecnologías alternativas ambientalmente adecuadas, para que brinden apoyo a los organismos públicos en la formulación de los sistemas de manejo ambiental, de acuerdo con sus necesidades y circunstancias.
@@ -641,7 +655,9 @@ Es obligación de toda persona física o moral generadora de residuos sólidos u
 
 I. Participar en los planes y programas que establezcan las autoridades competentes para facilitar la prevención y reducción de la generación de residuos sólidos;
 
-II. Conservar limpias las vías públicas y áreas comunes;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2017)</small>
+
+II. Conservar limpias las vías públicas y áreas comunes, cuidando que en la separación de residuos se utilicen bolsas de plástico que correspondan a las autorizadas por la autoridad ambiental;
 
 III. Barrer diariamente las banquetas y mantener limpios de residuos los frentes de sus viviendas o establecimientos industriales o mercantiles, así como los terrenos de su propiedad que no tengan construcción, a efecto de evitar contaminación y proliferación de fauna nociva;
 
@@ -661,7 +677,9 @@ IX. Las demás que establezcan los ordenamientos jurídicos aplicables.
 
 Queda prohibido por cualquier motivo:
 
-I. Arrojar o abandonar en la vía pública, áreas comunes, parques, barrancas, y en general en sitios no autorizados, residuos de cualquier especie;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2017)</small>
+
+I. Arrojar o abandonar en la vía pública, áreas comunes, parques, barrancas y en general, sitios no autorizados, residuos de cualquier especie, especialmente los elaborados con materiales plásticos no degradables obtenidos en el comercio o para fines de higiene.
 
 II. Arrojar a la vía pública o depositar en los recipientes de almacenamiento de uso público o privado, animales muertos, parte de ellos o residuos que contengan sustancias tóxicas o peligrosas para la salud pública o aquellos que despidan olores desagradables;
 
@@ -751,7 +769,9 @@ Los propietarios de mascotas están obligados a recoger las heces fecales genera
 
 El servicio de limpia comprende las siguientes etapas:
 
-I. El barrido de áreas comunes, vialidades y demás vías públicas;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2017)</small>
+
+I. El barrido de áreas comunes, vialidades y demás vías públicas, cuidando en separar las bolsas plásticas que contengan los residuos sólidos, a efecto de propiciar su reciclado.
 
 II. La recolección y el transporte de residuos sólidos urbanos o de manejo especial a las plantas de selección y/o a los rellenos sanitarios;
 
@@ -1141,7 +1161,9 @@ La imposición de cualquier sanción prevista por la presente Ley, no excluye la
 
 Las violaciones a los preceptos de esta Ley, sus reglamentos y las disposiciones que de ella emanen, serán sancionados administrativamente por la Secretaría y los Ayuntamientos, en el ámbito de sus atribuciones, sin perjuicio de lo que otros ordenamientos aplicables establezcan, con una o más de las siguientes sanciones:
 
-I. Multa por el equivalente de veinte a veinte mil días de salario mínimo general vigente en el Estado de Durango en el momento de imponer sanción;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2017)</small>
+
+I. Multa por el equivalente de veinte a veinte mil veces la Unidad de Medida y Actualización;
 
 II. Clausura temporal o definitiva, parcial o total cuando:
 
@@ -1308,3 +1330,11 @@ P.O. 9 DE MARZO DE 2014.
 Artículo Primero. El presente decreto entrará en vigor al día de su publicación.
 
 Artículo Segundo. Se derogan todas las disposiciones que contravengan a las contenidas en el presente.
+
+P.O. 25 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 157.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS DE LA LEY DE GESTION AMBIENTAL SUSTENTABLE PARA EL ESTADO DE DURANGO."]
+
+PRIMERO.- El presente Decreto entrará en vigor el día primero de enero de 2018, mismo que será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
