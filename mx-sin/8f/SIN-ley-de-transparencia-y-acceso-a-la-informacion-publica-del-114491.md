@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1144
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2016-05-04"
+last_updated: "2017-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114491&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2017.
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Sinaloa, el miércoles 4 de mayo de 2016.
 
@@ -637,9 +637,111 @@ El servidor público de la Comisión que ejerza funciones en ausencia definitiva
 
 En los casos de excusa o impedimento, percibirá el importe de un día de salario que corresponda a un Comisionado, por la resolución definitiva o ponencia que emita en el asunto respectivo.
 
-### Capítulo II. De los Comités de Transparencia
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE JUNIO DE 2017)</small>
 
-### Capítulo III. De las Unidades de Transparencia
+### Capítulo I Bis. Del Órgano Interno de Control
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+###### Artículo 60 Bis.
+
+La Comisión contará con un órgano interno de control, con autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos de la Comisión y de particulares vinculados con faltas graves; para sancionar aquéllas distintas a las que son competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
+
+El órgano interno de control tendrá un titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto.
+
+En el desempeño de su cargo, el titular del órgano interno de control se sujetará a los principios previstos en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+Artículo 60 Bis A. El titular del órgano interno de control deberá reunir los siguientes requisitos:
+
+I. Ser ciudadano mexicano, preferentemente sinaloense residente del Estado, en pleno goce de sus derechos civiles y políticos,
+
+II. Tener por lo menos treinta años cumplidos el día de la designación;
+
+III. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena de prisión;
+
+IV. No haber sido Secretario o Subsecretario de Estado, Fiscal General, Gobernador, Diputado, dirigente, miembro de órgano rector, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los cuatro años anteriores a la propia designación;
+
+V. Contar al momento de su designación con una experiencia de al menos cinco años en el control, manejo o fiscalización de recursos y responsabilidades administrativas;
+
+VI. Contar al día de su designación, con antigüedad mínima de cinco años, con título profesional relacionado con las actividades de fiscalización, expedido por autoridad o institución legalmente facultada para ello;
+
+VII. No pertenecer o haber pertenecido en los cuatro años anteriores a su designación, a despachos que hubieren prestado sus servicios a la Comisión o haber fungido como consultor o auditor externo de la Comisión en lo individual durante ese periodo; y
+
+VIII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+Artículo 60 Bis B. El Titular del órgano interno de control será designado por el pleno del Congreso del Estado con el voto de las dos terceras partes de sus miembros presentes, conforme al procedimiento establecido en la Ley Orgánica del Congreso del Estado.
+
+El titular del órgano interno de control durará en su encargo cuatro años y podrá ser designado por un periodo inmediato posterior al que se haya desempeñado, previa postulación y cumpliendo los requisitos previstos en esta Ley y el procedimiento establecido en la Ley Orgánica del Congreso del Estado.
+
+Tendrá un nivel jerárquico igual al de un Director General o su equivalente en la estructura orgánica de la Comisión, y mantendrá la coordinación técnica necesaria con la Auditoría Superior del Estado.
+
+El titular del órgano interno de control deberá rendir informe semestral y anual de actividades a la Comisión, del cual remitirá copia al Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+Artículo 60 Bis C. El órgano interno de control tendrá las siguientes atribuciones:
+
+I. Las que contempla la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado;
+
+II. Verificar que el ejercicio de gasto de la Comisión se realice conforme a la normatividad aplicable, los programas aprobados y montos autorizados;
+
+III. Presentar a la Comisión los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes de la Comisión;
+
+IV. Revisar que las operaciones presupuestales que realice la Comisión, se hagan con apego a las disposiciones legales y administrativas aplicables y, en su caso, determinar las desviaciones de las mismas y las causas que les dieron origen;
+
+V. Promover ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorías;
+
+VI. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos (sic) la Comisión;
+
+VII. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos, empleando la metodología que determine el mismo;
+
+VIII. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos de la Comisión, empleando la metodología que determine;
+
+IX. Recibir quejas y denuncias conforme a las leyes aplicables;
+
+X. Solicitar la información y efectuar visitas a las áreas y órganos de la Comisión para el cumplimento de sus funciones;
+
+XI. Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en materia de adquisiciones, arrendamientos, servicio y obras públicas;
+
+XII. Intervenir en los actos de entrega-recepción de los servidores públicos de la Comisión de mandos medios y superiores, en los términos de la normativa aplicable;
+
+XIII. Participar, conforme a las disposiciones vigentes, en los comités de los que éste forme parte;
+
+XIV. Atender las solicitudes de los diferentes órganos de la Comisión en los asuntos de su competencia;
+
+XV. Proponer los proyectos de modificación o actualización de su estructura orgánica, personal o recursos;
+
+XVI. Formular su anteproyecto de presupuesto;
+
+XVII. Presentar a la Comisión los informes previo y anual de resultados de su gestión, y comparecer ante el mismo, cuando así lo requiera el Comisionado Presidente;
+
+XVIII. Presentar a la Comisión los informes respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas; y
+
+XIX. Las demás que le confieran otros ordenamientos.
+
+El titular del órgano interno de control se abstendrá de desempeñar cualquier otro empleo, trabajo o comisión públicos y privados, con excepción de los cargos docentes.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+Artículo 60 Bis D. El titular del órgano interno de control será sujeto de responsabilidad en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado; y podrá ser sancionado de conformidad con el procedimiento previsto en la normatividad aplicable.
+
+Tratándose de los demás servidores públicos adscritos al Órgano Interno de Control de la Comisión serán sancionados por su titular o el servidor público en quien delegue la facultad, en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+Artículo 60 Bis E. El órgano interno de control deberá inscribir y mantener actualizada la información correspondiente del Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal; de todos los servidores públicos de la Comisión, de conformidad con la Ley del Sistema Anticorrupción y la Ley de Responsabilidades Administrativas, ambas del Estado de Sinaloa y Ley General de Responsabilidades Administrativas.
+
+El titular del órgano interno de control se abstendrá de desempeñar cualquier otro empleo, trabajo o comisión públicos o privados, con excepción de los cargos docentes.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+Artículo 60 Bis F. Los servidores públicos adscritos al órgano interno de control de la Comisión y, en su caso, los profesionales contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo del desempeño de sus facultades así como de sus actuaciones y observaciones.
+
+### Capítulo II. De los Comités de Transparencia
 
 ###### Artículo 61.
 
@@ -689,7 +791,7 @@ X. Solicitar y autorizar la ampliación del plazo de reserva de la información 
 
 XI. Las demás que se desprendan de la normativa aplicable.
 
-### Capítulo IV. Del Consejo Consultivo
+### Capítulo III. De las Unidades de Transparencia
 
 ###### Artículo 67.
 
@@ -731,7 +833,7 @@ Cuando alguna área de los sujetos obligados se negara a colaborar con la Unidad
 
 Cuando persista la negativa de colaboración, la Unidad de Transparencia lo hará del conocimiento de la autoridad competente para que ésta inicie, en su caso, el procedimiento de responsabilidad respectivo.
 
-### Capítulo I. De la Promoción de la Transparencia y el Derecho de Acceso a la Información
+### Capítulo IV. Del Consejo Consultivo
 
 ###### Artículo 70.
 
@@ -807,7 +909,7 @@ XI. Desempeñar las actividades que el Consejo le asigne.
 
 ## TÍTULO TERCERO. CULTURA DE TRANSPARENCIA Y APERTURA GUBERNAMENTAL
 
-### Capítulo II. De la Transparencia Proactiva
+### Capítulo I. De la Promoción de la Transparencia y el Derecho de Acceso a la Información
 
 ###### Artículo 79.
 
@@ -849,7 +951,7 @@ III. Facilitar el ejercicio del derecho de acceso a la información a las person
 
 IV. Procurar la accesibilidad de la información.
 
-### Capítulo III. Del Gobierno Abierto
+### Capítulo II. De la Transparencia Proactiva
 
 ###### Artículo 82.
 
@@ -865,7 +967,7 @@ La Comisión observará los criterios que al efecto emita el Sistema Nacional pa
 
 La información que se publique como resultado de las políticas de transparencia deberá permitir la generación de conocimiento público útil para disminuir asimetrías de la información, mejorar los accesos a trámites y servicios, optimizar la toma de decisiones de autoridades o ciudadanos y deberá tener un objeto claro, enfocado en las necesidades de sectores de la sociedad determinados o determinables.
 
-### Capítulo I. De las Disposiciones Generales
+### Capítulo III. Del Gobierno Abierto
 
 ###### Artículo 85.
 
@@ -873,7 +975,7 @@ La Comisión coadyuvará con el Instituto, los sujetos obligados y representante
 
 ## TÍTULO CUARTO. OBLIGACIONES DE TRANSPARENCIA
 
-### Capítulo II. De las Obligaciones de Transparencia Comunes
+### Capítulo I. De las Disposiciones Generales
 
 ###### Artículo 86.
 
@@ -927,7 +1029,7 @@ Al término de cada administración, en los procesos de entrega recepción, los 
 
 Los sujetos obligados serán responsables de los datos personales en su posesión y en relación con estos, deberán cumplir con las obligaciones establecidas en la Ley General y en las leyes de la materia.
 
-### Capítulo III. De las Obligaciones de Transparencia Específicas de los Sujetos Obligados
+### Capítulo II. De las Obligaciones de Transparencia Comunes
 
 ###### Artículo 95.
 
@@ -1135,7 +1237,7 @@ LV. Cualquier otra información que sea de utilidad o se considere relevante, ad
 
 Los sujetos obligados deberán informar a la Comisión cuáles son los rubros que son aplicables a sus páginas de internet, con el objeto de que ésta verifique y apruebe, de forma fundada y motivada, la relación de fracciones aplicables a cada sujeto obligado, mismas que deberán ser publicadas en la Plataforma Nacional.
 
-### Capítulo IV. De las Obligaciones Específicas de las Personas Físicas o Morales que Reciben y Ejercen Recursos Públicos o Ejercen Actos de Autoridad
+### Capítulo III. De las Obligaciones de Transparencia Específicas de los Sujetos Obligados
 
 ###### Artículo 96.
 
@@ -1523,7 +1625,7 @@ II. Revisar el listado que remitió el sujeto obligado con base en las funciones
 
 III. Determinar el catálogo de información que el sujeto obligado deberá publicar como obligación de transparencia y hacerlo de su conocimiento.
 
-### Capítulo V. De la Verificación de las Obligaciones de Transparencia
+### Capítulo IV. De las Obligaciones Específicas de las Personas Físicas o Morales que Reciben y Ejercen Recursos Públicos o Ejercen Actos de Autoridad
 
 ###### Artículo 106.
 
@@ -1543,7 +1645,7 @@ II. Revisar el listado que remitió la persona física o moral en la medida en q
 
 III. Determinar las obligaciones de transparencia que deben cumplir y los plazos para ello y hacerlo de su conocimiento.
 
-### Capítulo VI. De la Denuncia por Incumplimiento a las Obligaciones de Transparencia
+### Capítulo V. De la Verificación de las Obligaciones de Transparencia
 
 ###### Artículo 108.
 
@@ -1579,7 +1681,7 @@ Cuando la Comisión considere que existe un incumplimiento total o parcial de la
 
 En caso de que la Comisión considere que subsiste el incumplimiento total o parcial de la resolución, en un plazo no mayor a cinco días, impondrá las medidas de apremio o sanciones, conforme a lo establecido por esta Ley.
 
-### Capítulo I. Del Procedimiento de Acceso a la Información
+### Capítulo VI. De la Denuncia por Incumplimiento a las Obligaciones de Transparencia
 
 ###### Artículo 113.
 
@@ -1661,7 +1763,7 @@ Transcurrido el plazo anterior, si la Comisión considera que subsiste el incump
 
 ## TÍTULO QUINTO. PROCEDIMIENTOS DE ACCESO A LA INFORMACIÓN PÚBLICA
 
-### Capítulo II. De las Cuotas de Acceso
+### Capítulo I. Del Procedimiento de Acceso a la Información
 
 ###### Artículo 124.
 
@@ -1815,7 +1917,7 @@ La resolución del Comité de Transparencia que confirme la inexistencia de la i
 
 Las personas físicas y morales que reciban y ejerzan recursos públicos o realicen actos de autoridad, serán responsables del cumplimiento de los plazos y términos para otorgar acceso a la información.
 
-### Capítulo I. De las Disposiciones Generales de la Clasificación y Desclasificación de la Información
+### Capítulo II. De las Cuotas de Acceso
 
 ###### Artículo 145.
 
@@ -1863,7 +1965,7 @@ X. El fundamento y motivación legales que establecen todo lo anterior.
 
 ## TÍTULO SEXTO. INFORMACIÓN CLASIFICADA
 
-### Capítulo II. De la Información Reservada
+### Capítulo I. De las Disposiciones Generales de la Clasificación y Desclasificación de la Información
 
 ###### Artículo 149.
 
@@ -1961,7 +2063,7 @@ Cuando un documento contenga partes o secciones reservadas o confidenciales, los
 
 La información contenida en las obligaciones de transparencia no podrá omitirse en las versiones públicas.
 
-### Capítulo III. De la Información Confidencial
+### Capítulo II. De la Información Reservada
 
 ###### Artículo 162.
 
@@ -2003,7 +2105,7 @@ I. Se trate de violaciones graves de derechos humanos o delitos de lesa humanida
 
 II. Se trate de información relacionada con actos de corrupción de acuerdo con las leyes aplicables.
 
-### Capítulo I. Del Recurso de Revisión ante la Comisión
+### Capítulo III. De la Información Confidencial
 
 ###### Artículo 165.
 
@@ -2031,7 +2133,7 @@ Los sujetos obligados que se constituyan como contribuyentes o como autoridades 
 
 ## TÍTULO SÉPTIMO. DE LOS PROCEDIMIENTOS DE IMPUGNACIÓN
 
-### Capítulo II. De la Solicitud de Atracción de los Recursos de Revisión
+### Capítulo I. Del Recurso de Revisión ante la Comisión
 
 ###### Artículo 170.
 
@@ -2211,13 +2313,13 @@ Las resoluciones de la Comisión son vinculatorias, definitivas e inatacables pa
 
 Los particulares podrán impugnar las determinaciones o resoluciones de la Comisión ante el Instituto a través del recurso de inconformidad que prevé la Ley General o bien ante el Poder Judicial de la Federación, en términos de las disposiciones aplicables.
 
-### Capítulo III. Del Cumplimiento
+### Capítulo II. De la Solicitud de Atracción de los Recursos de Revisión
 
 ###### Artículo 187.
 
 El Pleno de la Comisión cuando así lo aprueben la mayoría de las o los Comisionados, podrá solicitar al Instituto ejerza la facultad de atracción que prevé la Ley General, para que conozca de recursos de revisión pendientes de resolución que por su interés y trascendencia así lo ameriten, de conformidad con lo previsto en el Título Octavo, Capítulo III de la Ley General, así como de los lineamientos y criterios generales que para tal efecto se emitan por el Instituto.
 
-### Capítulo IV. De los Criterios de Interpretación
+### Capítulo III. Del Cumplimiento
 
 ###### Artículo 188.
 
@@ -2243,7 +2345,7 @@ II. Notificará al superior jerárquico del responsable de dar cumplimiento, par
 
 III. Determinará las medidas de apremio o sanciones, según corresponda, que deberán imponerse o las acciones procedentes que deberán aplicarse, de conformidad con lo señalado en la presente Ley.
 
-### Capítulo I. De las Medidas de Apremio
+### Capítulo IV. De los Criterios de Interpretación
 
 ###### Artículo 191.
 
@@ -2257,7 +2359,7 @@ Todo criterio que emita la Comisión deberá contener una clave de control para 
 
 ## TÍTULO OCTAVO. MEDIDAS DE APREMIO Y SANCIONES
 
-### Capítulo II. De las Sanciones
+### Capítulo I. De las Medidas de Apremio
 
 ###### Artículo 193.
 
@@ -2314,6 +2416,8 @@ La medida de apremio consistente en amonestación pública surtirá efectos una 
 ###### Artículo 200.
 
 Además de las medidas de apremio previstas en el presente Capítulo, la Comisión podrá aplicar aquéllas que se encuentren consideradas en diversas leyes de orden disciplinario.
+
+### Capítulo II. De las Sanciones
 
 ###### Artículo 201.
 
@@ -2466,3 +2570,25 @@ C. GERARDO C. VARGAS LANDEROS
 El Secretario de la Unidad de Transparencia y Rendición de Cuentas
 
 C. HUMBERTO ALEJANDO VILLASANA FALCÓN
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 158 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Segundo. El Congreso del Estado, dentro de los 180 días siguientes a la publicación de este Decreto, iniciará los procesos de designación de los titulares de los órganos internos de control de los organismos a los que la Constitución Política del Estado de Sinaloa les otorga autonomía y que ejerzan recursos públicos del Presupuesto de Egresos de la Federación previstos en este Decreto.
+
+Lo anterior, con excepción de aquellos titulares de los órganos internos de control de los organismos a los que la Constitución Política del Estado de Sinaloa les otorga autonomía y que ejercen recursos públicos que se encontraban en funciones a la entrada en vigor del Decreto por el que se reforman, adicionan, y derogan diversas disposiciones de la Constitución Política del Estado de Sinaloa, en materia de combate a la corrupción, publicado en el Periódico Oficial "El Estado de Sinaloa" el 17 de marzo de 2017, los cuales continuarán en su encargo en los términos en los que fueron nombrados.
+
+Tercero. Los órganos de gobierno de los organismos a los que la Constitución Política del Estado de Sinaloa les otorga autonomía y que ejercen recursos públicos, tendrán un plazo de ciento ochenta días, a partir de la publicación del presente Decreto, para armonizar su normatividad interna en los términos del presente Decreto.
+
+Cuarto. Los recursos humanos, financieros y materiales que actualmente se encuentran asignados a las Contralorías, se entenderán asignados a los órganos internos de control a que se refiere el presente Decreto.
+
+Quinto. Las referencias relativas a la Ley General de Responsabilidades Administrativas se entenderán a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos hasta que este ordenamiento legal se abrogue el 17 de julio de 2017.
+
+Sexto. Los Ayuntamientos, dentro de los 180 días siguientes a la publicación de este Decreto, iniciarán los procesos de designación de los titulares de los órganos internos de control que ejerzan recursos públicos, previstos en este Decreto.
+
+Lo anterior, con excepción de aquellos titulares de los órganos internos de control de los organismos que ejercen recursos públicos que se encontraban en funciones a la entrada en vigor del Decreto por el que se reforman, adicionan, y derogan diversas disposiciones de la Constitución Política del Estado de Sinaloa, en materia de combate a la corrupción, publicado en el Periódico Oficial "El Estado de Sinaloa" el 17 de marzo de 2017, los cuales continuarán en su encargo en los términos en los que fueron nombrados.
