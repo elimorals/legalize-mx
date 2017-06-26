@@ -4,7 +4,7 @@ identifier: "LAC"
 country: "mx"
 rank: "ley"
 publication_date: "1995-05-12"
-last_updated: "2016-10-10"
+last_updated: "2017-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2551&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAC"
 
 LEY DE AVIACIÓN CIVIL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE JUNIO DE 2017.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 12 de mayo de 1995.
 
@@ -58,6 +58,10 @@ III. Aeropuerto: aeródromo civil de servicio público, que cuenta con las insta
 
 IV. Aerovía: ruta aérea dotada de radioayudas a la navegación;
 
+> <small>(ADICIONADA, D.O.F. 26 DE JUNIO DE 2017)</small>
+
+IV Bis. Boleto: documento que contiene el contrato realizado entre el concesionario o permisionario y el pasajero para efectuar el servicio de transporte. Para el cálculo de compensaciones, indemnizaciones u otras referencias que se hagan al boleto en la presente Ley, se considerará el monto total incluyendo tarifas, impuestos, comisiones, y cualquier otro cargo cubierto por el pasajero.
+
 > <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2015)</small>
 
 V. Cabotaje: el transporte aéreo mediante remuneración o cualquier otro tipo de contraprestación onerosa, de pasajeros, carga, correo o una combinación de éstos, entre dos o más puntos en territorio nacional;
@@ -67,6 +71,14 @@ VI. Certificado de aeronavegabilidad: documento oficial que acredita que la aero
 VII. Certificado de matrícula: documento que identifica y determina la nacionalidad de la aeronave;
 
 VIII. Helipuerto: aeródromo civil para el uso exclusivo de helicópteros;
+
+> <small>(ADICIONADA, D.O.F. 26 DE JUNIO DE 2017)</small>
+
+VIII Bis. Pasajero: persona que se traslada a través del servicio de transporte aéreo. Tendrá esta calidad, desde el momento en que realiza el contrato con el concesionario o permisionario, hasta que se cumpla el objeto del mismo.
+
+> <small>(ADICIONADA, D.O.F. 26 DE JUNIO DE 2017)</small>
+
+VIII Ter. Procuraduría: La Procuraduría Federal del Consumidor.
 
 > <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2015)</small>
 
@@ -710,6 +722,20 @@ La Secretaría podrá negar el registro de las tarifas fijadas por los concesion
 
 En las tarifas se describirán clara y explícitamente las restricciones a que estén sujetas y permanecerán vigentes por el tiempo y en las condiciones ofrecidas. Las restricciones deberán hacerse del conocimiento del usuario al momento de la contratación del servicio.
 
+> <small>(ADICIONADO, D.O.F. 26 DE JUNIO DE 2017)</small>
+
+###### Artículo 42 Bis.
+
+Para el servicio al público de transporte aéreo de pasajeros, el concesionario o permisionario, o sus representantes, tiene la obligación de informar y respetar las tarifas y restricciones. Asimismo, es responsable de que la información relativa a las tarifas esté permanentemente a disposición de los pasajeros y de que cumpla los siguientes requisitos:
+
+I. Debe apegarse a los términos derivados de la concesión o permiso y contener explícitamente las reglas de aplicación, o condiciones y restricciones que comprende la oferta, así como la vigencia de las mismas, y
+
+II. La información y publicidad relacionada con las tarifas deberán ser exactas, veraces, comprobables y claras, que no induzca (sic) al error o confusión al pasajero por la forma falsa, exagerada, parcial, artificiosa o tendenciosa en que se presenten.
+
+Cada tarifa deberá aplicarse en igualdad de condiciones para todos los pasajeros sin discriminación alguna.
+
+La violación a este artículo se considerará como infracción particularmente grave y se sancionará por la Procuraduría, conforme a lo dispuesto en la Ley Federal de Protección al Consumidor.
+
 ###### Artículo 43.
 
 Cuando la Secretaría, por sí o a petición de la parte afectada, considere que no existe competencia efectiva entre los diferentes concesionarios o permisionarios, solicitará la opinión de la Comisión Federal de Competencia para que, en su caso, la Secretaría establezca bases de regulación tarifaria. Dicha regulación se mantendrá sólo mientras subsistan las condiciones que la motivaron.
@@ -778,9 +804,113 @@ V. Las pólizas de seguro.
 
 El reglamento respectivo determinará los requisitos a que deberán sujetarse las inscripciones, las cancelaciones y las certificaciones que deban expedirse.
 
-### Capítulo XI. De los contratos
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 26 DE JUNIO DE 2017)</small>
 
-### Capítulo XII. De la responsabilidad por daños
+### Capítulo X Bis. De los derechos y las obligaciones de los pasajeros
+
+> <small>(ADICIONADO, D.O.F. 26 DE JUNIO DE 2017)</small>
+
+###### Artículo 47 Bis.
+
+El concesionario o permisionario está obligado a proporcionar un servicio de calidad y eficiente a todos sus pasajeros. Para garantizar lo anterior, deberá respetar y cumplir con cuando menos los siguientes derechos del pasajero:
+
+I. Los pasajeros con alguna discapacidad tienen derecho a ser transportados por los concesionarios o permisionarios. Los concesionarios o permisionarios deberán establecer mecanismos para garantizar el transporte de personas con discapacidad, conforme a las medidas de seguridad operacional. Los pasajeros con discapacidad que requieran transportar instrumentos inherentes a su condición, podrán hacerlo de acuerdo a lo establecido por el artículo 47 Bis 1 de la presente Ley. No se podrán establecer condiciones o aplicar cargos adicionales para permitir el abordaje de personas con discapacidad.
+
+II. El pasajero mayor de edad puede, sin pago de ninguna tarifa, llevar a un infante menor de dos años a su cuidado sin derecho a asiento y sin derecho a franquicia de equipaje, por lo que el concesionario o permisionario está obligado a expedir sin costo alguno a favor del infante el boleto y pase de abordar correspondiente. Únicamente en este caso, el pasajero podrá transportar sin cargo adicional una carriola para el infante.
+
+III. El pasajero tiene derecho a un trato digno y a contar con un alto nivel de información, que le permita conocer sus opciones y tomar alternativas en caso de requerirlas. Por ello, los concesionarios o permisionarios están obligados a informar de manera rápida y expedita al pasajero en caso de que se produzcan cambios en su itinerario o cualquier otra circunstancia que pudiera afectar el servicio contratado. Lo deberán hacer a través de llamadas telefónicas, correos electrónicos, mensajes de texto o cualquier otro medio electrónico, con al menos veinticuatro horas de anticipación a la salida programada.
+
+De la misma forma, si los cambios se produjeran dentro de las veinticuatro horas previas a la salida programada, el concesionario o permisionario deberá informar al pasajero tan pronto tenga la certeza de que dichos cambios son inevitables, sin que esto exima al concesionario o permisionario de su responsabilidad frente al pasajero.
+
+La Secretaría supervisará que los concesionarios o permisionarios informen de manera oportuna a los pasajeros de posibles cambios, retrasos o cancelaciones en su itinerario.
+
+IV. En el caso de que el pasajero haya adquirido boletos de ida y vuelta o con conexión, podrá disponer de ellos para cada segmento particular, es decir, el concesionario o permisionario no podrá negarle el embarque a un vuelo por no haber utilizado alguno de los segmentos del trayecto total. Para garantizar el cumplimiento de esto, el pasajero deberá informar al concesionario o permisionario, en el lapso de veinticuatro horas contadas a partir de la hora programada del segmento no utilizado, que hará uso de los segmentos subsecuentes, a través de los medios que el concesionario o permisionario para ello disponga.
+
+V. En caso de que exista retraso en relación con la hora de salida estipulada en el boleto y la causa sea atribuible al concesionario o permisionario, el pasajero será indemnizado y/o compensado por el proveedor del servicio de acuerdo a los siguientes criterios:
+
+a) Cuando la demora sea superior a una hora e inferior a cuatro, se compensará conforme las políticas de compensación de cada permisionario o concesionario.
+
+Las políticas de compensación deberán incluir como mínimo, descuentos para vuelos en fecha posterior hacia el destino contratado y/o alimentos y bebidas, de acuerdo a lo establecido por los permisionarios y concesionarios y conforme al principio de competitividad.
+
+Si la demora es mayor a dos horas pero menor a cuatro, los descuentos incluidos en las políticas de compensación no podrán ser menores al 7.5% del precio del boleto.
+
+El permisionario o concesionario deberá presentar y registrar cada seis meses, ante la Secretaría y la Procuraduría, las políticas de compensación, las cuales serán públicas.
+
+b) Si la demora es mayor a cuatro horas, el pasajero será compensado conforme a este artículo, además accederá a las opciones y, en el caso, a la indemnización establecida por esta Ley para la cancelación del vuelo, cuya responsabilidad sea atribuible al concesionario o permisionario.
+
+En todos los casos, el proveedor del servicio deberá poner a disposición de los pasajeros en espera acceso a llamadas telefónicas y envío de correos electrónicos.
+
+VI. En caso de producirse la cancelación del vuelo por responsabilidad atribuible al concesionario o permisionario, éste, a elección del pasajero, deberá:
+
+a) Reintegrarle el precio del boleto o billete de pasaje o la proporción que corresponda a la parte no realizada del viaje.
+
+b) Ofrecerle, con todos los medios a su alcance, transporte sustituto en el primer vuelo disponible y proporcionarle, como mínimo y sin cargo, acceso a llamadas telefónicas y envío de correos electrónicos; alimentos de conformidad con el tiempo de espera que medie hasta el embarque en otro vuelo; alojamiento en hotel del aeropuerto o de la ciudad cuando se requiera pernocta y, en este último caso, transporte terrestre desde y hacia el aeropuerto.
+
+c) Transportarle en la fecha posterior que convenga al mismo pasajero hacia el destino respecto del cual haya sido cancelado el vuelo.
+
+En los casos de los incisos a) y c) anteriores, el concesionario o permisionario deberá cubrir, además, una indemnización al pasajero afectado que no será inferior al veinticinco por ciento del precio del boleto o de la parte no realizada del viaje.
+
+VII. Si por caso fortuito o fuerza mayor, la aeronave debe realizar un aterrizaje en un lugar distinto al de destino, el concesionario o permisionario deberá trasladar al pasajero por los medios de transporte más rápidos disponibles hasta el lugar de destino.
+
+VIII. El pasajero podrá solicitar la devolución de su boleto en caso de que decida no efectuar el viaje, siempre y cuando lo comunique al permisionario o concesionario en el lapso de veinticuatro horas contadas a partir de la hora de la compra del boleto. Pasado este plazo el concesionario o permisionario determinará las condiciones de la cancelación.
+
+IX. Para vuelos nacionales e internacionales, el pasajero podrá transportar como mínimo y sin cargo alguno, veinticinco kilogramos de equipaje cuando los vuelos se realicen en aeronaves con capacidad para veinte pasajeros o más, y quince kilogramos cuando la aeronave sea de menor capacidad, siempre que acate las indicaciones del concesionario o permisionario en cuanto al número de piezas y restricciones de volumen. El exceso de equipaje debe ser transportado de acuerdo con la capacidad disponible de la aeronave y el concesionario o permisionario, en este caso, tiene derecho a solicitar al pasajero un pago adicional.
+
+El concesionario o permisionario proporcionará al pasajero, un talón de equipaje por cada pieza, maleta o bulto de equipaje que se entregue para su transporte. El talón debe contener la información indicada en las normas oficiales mexicanas correspondientes y debe constar de dos partes, una para el pasajero y otra que se adhiere al equipaje.
+
+Además, el pasajero podrá llevar en cabina hasta dos piezas de equipaje de mano. Las dimensiones de cada una serán de hasta 55 centímetros de largo por 40 centímetros de ancho por 25 centímetros de alto, y el peso de ambas no deberá exceder los diez kilogramos, siempre y cuando por su naturaleza o dimensiones no disminuyan la seguridad y la comodidad de los pasajeros. El permisionario o concesionario podrá solicitar al pasajero un pago por peso y dimensiones adicionales del equipaje de mano, pero no podrá realizar cobros por pesos y dimensiones menores a los establecidos en este párrafo.
+
+Para los servicios de transporte aéreo internacional, el transporte de equipaje se sujetará a lo dispuesto en los Tratados.
+
+X. El pasajero tiene derecho a conocer los términos del contrato, así como los derechos de los que goza. Los permisionarios y concesionarios deberán informar al pasajero, al momento de la compra del boleto, acerca de los términos y condiciones del servicio contratado, las políticas de compensación, así como los derechos de los pasajeros.
+
+El concesionario o permisionario estará obligado a pagar las indemnizaciones previstas en la presente Ley dentro de un periodo máximo de diez días naturales posteriores a su reclamación por parte del pasajero, salvo las compensaciones de alimentos y hospedaje que deberán ser cubiertos al momento de que el retraso del vuelo se actualice.
+
+Toda cláusula o disposición que pretenda exonerar al concesionario o permisionario de su responsabilidad, evitar el pago de las indemnizaciones o compensaciones mencionadas o a fijar un límite inferior al establecido en la presente Ley será nula de pleno derecho y no tendrá efecto alguno. En ningún caso, será posible el perdón, condonación o cualquier figura que implique el no pago de las indemnizaciones, compensaciones o sanciones establecidas en la presente Ley.
+
+En caso de que el pasajero decida viajar sin equipaje, el concesionario o permisionario podrá ofertar una tarifa preferencial en beneficio del pasajero.
+
+> <small>(ADICIONADO, D.O.F. 26 DE JUNIO DE 2017)</small>
+
+###### Artículo 47 Bis 1.
+
+Los pasajeros con alguna discapacidad tendrán derecho a transportar sillas de ruedas, andadores, prótesis, muletas, bastones o cualquier otro instrumento, siempre y cuando la persona que viaja haga uso de ésta de manera personal y se encuentre directamente asociado con la discapacidad que presenta. En vuelos internacionales, dichos límites serán los fijados de conformidad con los Tratados.
+
+Los permisionarios o concesionarios deberán informar las medidas de seguridad operacional de forma clara y precisa como parte de los términos y condiciones del contrato.
+
+> <small>(ADICIONADO, D.O.F. 26 DE JUNIO DE 2017)</small>
+
+###### Artículo 47 Bis 2.
+
+Con el fin de dar cumplimiento a las disposiciones señaladas en este capítulo, los concesionarios o permisionarios de servicio al público de transporte aéreo deberán de contar con un módulo de atención al pasajero en cada una de las terminales en donde operen. La Procuraduría deberá establecer mecanismos para regular estos módulos y garantizar que los procedimientos que ahí se realicen se hagan de forma sencilla y expedita.
+
+El concesionario o permisionario podrá implementar procedimientos electrónicos con el fin de agilizar los procesos de atención al pasajero y su seguimiento, siempre y cuando informe de manera clara y oportuna sobre su funcionamiento al pasajero y, en caso de que este lo requiera, le brinde el apoyo necesario para su uso.
+
+En caso de que los concesionarios o permisionarios incumplan con estos procedimientos, la Procuraduría impondrá sanciones de acuerdo a lo dispuesto en el artículo 47 Bis 3 de esta Ley, las cuales se aplicarán independientemente de las compensaciones previamente señaladas para el pasajero.
+
+> <small>(ADICIONADO, D.O.F. 26 DE JUNIO DE 2017)</small>
+
+###### Artículo 47 Bis 3.
+
+La Procuraduría, en el ámbito de sus competencias, sancionará las infracciones a los derechos de los pasajeros, en los términos de la Ley Federal de Protección al Consumidor.
+
+> <small>(ADICIONADO, D.O.F. 26 DE JUNIO DE 2017)</small>
+
+###### Artículo 47 Bis 4.
+
+Los pasajeros deberán:
+
+I. Brindar al permisionario o concesionario información y datos personales veraces, al momento de la compra del boleto;
+
+II. Presentar documentos oficiales de identificación, a solicitud del permisionario o concesionario o del personal autorizado del aeropuerto;
+
+III. Acatar las normas de seguridad y operación aeroportuarias vigentes;
+
+IV. Ocupar el asiento asignado, a menos que la tripulación por un requerimiento justificado le solicite o le autorice ocupar uno distinto, y
+
+V. Las demás que establezcan la Ley y demás ordenamientos.
+
+### Capítulo XI. De los contratos
 
 #### Sección Segunda. Del contrato de fletamento de aeronaves
 
@@ -792,13 +922,29 @@ Los contratos de servicio de transporte aéreo podrán referirse a pasajeros, ca
 
 El contrato de transporte de pasajeros es el acuerdo entre un concesionario o permisionario y un pasajero, por el cual el primero se obliga a trasladar al segundo, de un punto de origen a uno de destino, contra el pago de un precio.
 
-El contrato deberá constar en un billete de pasaje o boleto, cuyo formato se sujetará a lo especificado en la norma oficial mexicana correspondiente.
+> <small>(REFORMADO, D.O.F. 26 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADO, D.O.F. 10 DE OCTUBRE DE 2016)</small>
+El contrato, que se perfecciona con la compra del boleto, deberá constar en un billete de pasaje, el cual podrá ser emitido a través de medios físicos o electrónicos. Su formato se sujetará a lo especificado en la norma oficial mexicana correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 26 DE JUNIO DE 2017)</small>
+
+La interpretación del contrato se sujetará a lo previsto en la presente Ley, al reglamento, la Ley Federal de Protección al Consumidor, las normas oficiales mexicanas y las circulares obligatorias aplicables.
+
+> <small>(ADICIONADO, D.O.F. 26 DE JUNIO DE 2017)</small>
+
+Es obligación de los concesionarios o permisionarios de servicio al público de transporte aéreo presentar desde el primer momento el costo total del boleto, impuestos incluidos.
+
+> <small>(ADICIONADO, D.O.F. 26 DE JUNIO DE 2017)</small>
+
+El permisionario o concesionario podrá ofrecer servicios adicionales al momento de la compra. Sin embargo, no podrá realizar cargos que pretendan condicionar la compra del boleto a la contratación obligatoria de servicios adicionales.
+
+> <small>(REFORMADO, D.O.F. 26 DE JUNIO DE 2017)</small>
 
 ###### Artículo 50.
 
-En servicios de transporte aéreo nacional, los pasajeros tendrán derecho al transporte de su equipaje dentro de los límites de peso, volumen o número de piezas establecidos en el reglamento y disposiciones correspondientes, y al efecto se expedirá un talón de equipaje. Los pasajeros con alguna discapacidad tendrán derecho a transportar sillas de ruedas, andadores, prótesis, muletas, bastones o cualquier otro instrumento, siempre y cuando la persona que viaja haga uso de ésta de manera personal y se encuentre directamente asociado con la discapacidad que presenta. En vuelos internacionales, dicho (sic) límites serán los fijados de conformidad con los tratados.
+El transporte de animales domésticos en las aeronaves de servicio público de transporte aéreo de pasajeros será efectuado por el concesionario o permisionario observando en todo momento un trato humanitario. Se entenderá como trato humanitario el conjunto de medidas que buscan disminuir la tensión, el sufrimiento, el dolor y la producción de traumatismos durante la movilización de los animales.
+
+Las características de los mecanismos para el transporte de animales, así como los procedimientos para su realización, serán fijadas por el reglamento y la norma oficial mexicana correspondiente.
 
 ###### Artículo 51.
 
@@ -806,9 +952,11 @@ Para los servicios de transporte aéreo internacional, el contrato de transporte
 
 Para este tipo de servicios, el concesionario o permisionario deberá exigir a los pasajeros la presentación de los documentos oficiales que acrediten su legal internación al país de destino del vuelo respectivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE JUNIO DE 2017)</small>
+
 ###### Artículo 52.
 
-Cuando se hayan expedido boletos en exceso a la capacidad disponible de la aeronave o se cancele el vuelo por causas imputables al concesionario o permisionario, que tengan por consecuencia la denegación del embarque, el propio concesionario o permisionario, a elección del pasajero, deberá:
+Cuando se hayan expedido boletos en exceso a la capacidad disponible de la aeronave y se tenga por consecuencia la denegación del embarque, el propio concesionario o permisionario, a elección del pasajero, deberá:
 
 I. Reintegrarle el precio del boleto o billete de pasaje o la proporción que corresponda a la parte no realizada del viaje;
 
@@ -817,6 +965,14 @@ II. Ofrecerle, con todos los medios a su alcance, transporte sustituto en el pri
 III. Transportarle en la fecha posterior que convenga al mismo pasajero hacia el destino respecto del cual se denegó el embarque.
 
 En los casos de las fracciones I y III anteriores, el concesionario o permisionario deberá cubrir, además, una indemnización al pasajero afectado que no será inferior al veinticinco por ciento del precio del boleto o billete de pasaje o de la parte no realizada del viaje.
+
+> <small>(ADICIONADO, D.O.F. 26 DE JUNIO DE 2017)</small>
+
+###### Artículo 52 Bis.
+
+En el caso de la denegación de embarque por expedición de boletos en exceso a la capacidad disponible de la aeronave, el concesionario o permisionario deberá solicitar voluntarios que renuncien al embarque a cambio de beneficios que acuerde directamente con el pasajero, los cuales no podrán ser inferiores a las opciones establecidas en el artículo anterior.
+
+Tendrán prioridad para abordar en sustitución de los voluntarios a que refiere el presente artículo, las personas con alguna discapacidad, las personas adultas mayores, los menores no acompañados y las mujeres embarazadas.
 
 ###### Artículo 53.
 
@@ -864,7 +1020,7 @@ El fletante responderá exclusivamente ante el fletador por el incumplimiento de
 
 El fletador responderá por la realización y la calidad del transporte, ante las personas que hubieren contratado los servicios en paquete por él ofrecidos, inclusive cuando utilice agentes o intermediarios que actúen por cuenta y a nombre del propio fletador.
 
-### Capítulo XIII. De los seguros aéreos
+### Capítulo XII. De la responsabilidad por daños
 
 #### Sección Segunda. De los daños a terceros
 
@@ -882,7 +1038,9 @@ En el caso de carga, el concesionario o permisionario será responsable desde el
 
 Para los daños a pasajeros, el derecho a percibir indemnizaciones se sujetará a lo dispuesto por el artículo 1915 del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, salvo por lo que se refiere al monto que será el triple de lo previsto en dicho artículo. Para la prelación en el pago de las indemnizaciones, se estará a lo dispuesto en el artículo 501 de la Ley Federal del Trabajo.
 
-La indemnización por la destrucción o avería del equipaje de mano será de hasta cuarenta salarios mínimos. Por la pérdida o avería del equipaje facturado la indemnización será equivalente a la suma de setenta y cinco salarios mínimos.
+> <small>(REFORMADO, D.O.F. 26 DE JUNIO DE 2017)</small>
+
+La indemnización por la destrucción o avería del equipaje de mano será de hasta ochenta Unidades de Medida y Actualización. Por la pérdida o avería del equipaje facturado la indemnización será equivalente a la suma de ciento cincuenta Unidades de Medida y Actualización.
 
 ###### Artículo 63.
 
@@ -966,9 +1124,7 @@ El concesionario o permisionario y, en el caso del servicio de transporte aéreo
 
 Las acciones para exigir las indemnizaciones a que se refiere esta sección, prescribirán en un año a partir de la fecha en la cual ocurrieron los hechos.
 
-### Capítulo XIV. De la protección del ambiente
-
-> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2013)</small>
+### Capítulo XIII. De los seguros aéreos
 
 ###### Artículo 74.
 
@@ -982,7 +1138,9 @@ En materia de transporte aéreo internacional, los seguros deberán cumplir con 
 
 Las reclamaciones por daños deberán ser hechas valer ante el concesionario o permisionario y, en el caso del servicio de transporte aéreo privado no comercial, ante el propietario o poseedor de la aeronave, de acuerdo con las disposiciones del reglamento respectivo.
 
-### Capítulo XV. Del abandono de aeronaves
+### Capítulo XIV. De la protección del ambiente
+
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2013)</small>
 
 ###### Artículo 76.
 
@@ -996,9 +1154,7 @@ La Secretaría fijará los plazos para que se realicen adecuaciones en las aeron
 
 La Secretaría establecerá convenios o acuerdos de coordinación con la Secretaría de Medio Ambiente y Recursos Naturales, para promover la eficiencia en las operaciones e infraestructura aeroportuaria, con el fin de reducir el ruido y las emisiones contaminantes en los servicios de transporte aéreo.
 
-### Capítulo XV Bis. Seguridad operacional
-
-> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
+### Capítulo XV. Del abandono de aeronaves
 
 ###### Artículo 77.
 
@@ -1018,7 +1174,9 @@ En el caso de aeronaves abandonadas en aeródromos o helipuertos en los que no h
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 26 DE ENERO DE 2015)</small>
 
-### Capítulo XVI. De los accidentes y de la búsqueda y salvamento
+### Capítulo XV Bis. Seguridad operacional
+
+> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
 
 ###### Artículo 78 Bis.
 
@@ -1160,13 +1318,11 @@ Con el fin de promover la Seguridad operacional, la Secretaría tiene la faculta
 
 Con el fin de promover la Seguridad operacional, la Secretaría tiene la facultad de concertar acuerdos con los proveedores de servicio respecto a la recopilación, análisis, uso y difusión de información de Seguridad operacional.
 
+### Capítulo XVI. De los accidentes y de la búsqueda y salvamento
+
 ### Capítulo XVII. De la requisa
 
 ### Capítulo XVIII. De la verificación
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
-
-### Capítulo XIX. De las sanciones
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
 
@@ -1202,6 +1358,10 @@ II. Cuando transcurridos treinta días desde la fecha en que se tuvieron las úl
 
 La Secretaría declarará la pérdida y cancelará las inscripciones correspondientes.
 
+### Capítulo XIX. De las sanciones
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 83.
 
 En caso de desastre natural, de guerra, de grave alteración del orden público o cuando se tema algún peligro inminente para la seguridad nacional, la paz interior del país o para la economía nacional, el Gobierno Federal podrá hacer la requisa de las aeronaves y demás equipo de los servicios públicos de transporte aéreo, de los bienes muebles e inmuebles necesarios y disponer de todo ello como lo juzgue conveniente. El Gobierno Federal podrá igualmente utilizar el personal que estuviere al servicio de la sociedad sujeta a la requisa cuando lo considere necesario. La requisa se mantendrá mientras subsistan las condiciones que la motivaron.
@@ -1227,6 +1387,10 @@ Para el caso anterior, los verificadores aeronáuticos, habrán de acreditarse c
 > <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 28 DE DICIEMBRE DE 2001)</small>
 
 Las personas físicas o morales que sean sujetos de verificación, cubrirán las cuotas que por este concepto se originen.
+
+> <small>(ADICIONADO, D.O.F. 26 DE JUNIO DE 2017)</small>
+
+Los concesionarios o permisionarios del servicio de transporte aéreo comercial, estarán obligados a entregar mensualmente a la Secretaría informes, bitácoras, estadísticas, reportes, índices de reclamaciones y todos aquellos datos que permitan transparentar su funcionamiento. La Secretaría dará seguimiento a la información presentada y la publicará trimestralmente, conforme a la legislación vigente en materia de transparencia y protección de datos personales.
 
 ###### Artículo 85.
 
@@ -1322,9 +1486,21 @@ IX. No aplicar las tarifas registradas, multa de quinientos a cinco mil salarios
 
 X. No operar las rutas autorizadas en los plazos previstos en la presente Ley, multa de quinientos a cinco mil salarios mínimos;
 
-XI. No proporcionar la información que le solicite la Secretaría, en los plazos fijados por ésta, multa de trescientos a tres mil salarios mínimos, y
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2017)</small>
 
-XII. No sujetarse a los itinerarios, frecuencias de vuelo y horarios autorizados, multa de doscientos a un mil salarios mínimos.
+XI. No proporcionar la información que le solicite la Secretaría, en los plazos fijados por ésta, multa de trescientos a tres mil Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2017)</small>
+
+XII. No sujetarse a los itinerarios, frecuencias de vuelo y horarios autorizados, multa de doscientos a un mil Unidades de Medida y Actualización;
+
+> <small>(ADICIONADA, D.O.F. 26 DE JUNIO DE 2017)</small>
+
+XIII. Incumplir con lo señalado en el artículo 49 de la presente Ley, multa de tres mil a cinco mil Unidades de Medida y Actualización, y
+
+> <small>(ADICIONADA, D.O.F. 26 DE JUNIO DE 2017)</small>
+
+XIV. No entregar mensualmente a la Secretaría la información señalada en el artículo 84, multa de tres mil a cinco mil Unidades de Medida y Actualización.
 
 ###### Artículo 88.
 
@@ -1485,3 +1661,21 @@ D.O.F. 10 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 50 DE LA LEY DE AVIACIÓN CIVIL”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE AVIACIÓN CIVIL”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Ejecutivo Federal y la Secretaría de Comunicaciones y Transportes, contarán con un plazo de 180 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar en el ámbito de sus respectivas competencias, las adecuaciones y modificaciones a los reglamentos y a las demás disposiciones administrativas que posibiliten la materialización del mismo.
+
+Tercero.- El Ejecutivo Federal y la Secretaría de Comunicaciones y Transportes, contarán con un plazo de 180 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para elaborar las Normas Oficiales Mexicanas a las que se hace referencia en los artículos reformados y adicionados.
+
+Cuarto.- Los permisionarios y concesionarios del servicio de transporte aéreo comercial en un plazo de 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto, adecuarán sus procedimientos con el fin de dar cumplimiento a las disposiciones señaladas en el mismo.
+
+Quinto.- La Secretaría de Comunicaciones y Transportes, sin modificación al presupuesto del año corriente, y en coordinación con los concesionarios y permisionarios, deberá realizar acciones de difusión a través de campañas de publicidad, para dar a conocer los alcances del presente Decreto.
+
+Sexto.- La Secretaría de Comunicaciones y Transportes deberá implementar, en un plazo de hasta 180 días hábiles, contados a partir de la entrada en vigor del presente Decreto, un mecanismo público, eficaz y expedito que, en caso de que la salida de un vuelo se retrase o cancele, permita al pasajero conocer las causas y determine si es responsable de ellas el concesionario o permisionario.
+
+Séptimo.- Los permisionarios o concesionarios deberán registrar las políticas de compensación señaladas en la fracción V, inciso a), del artículo 47 Bis, en un plazo de hasta 90 días naturales, contados a partir de la entrada en vigor del presente Decreto.
