@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-561-de-transito-y-seguridad-vial-para-el-estado-1072
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-13"
-last_updated: "2017-03-07"
+last_updated: "2017-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107271&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 561 DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE JUNIO DE 2017.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el lunes 13 de abril de 2015.
 
@@ -117,7 +117,7 @@ XXVI. Reglamento: El Reglamento de esta Ley;
 
 XXVII. Ruta: La delimitación del recorrido autorizado para la prestación del servicio de transporte público;
 
-XXVIII. Salario: El salario mínimo general vigente en la capital del Estado;
+XXVIII. (DEROGADA, G.O. 26 DE JUNIO DE 2017)
 
 XXIX. Secretario: El Secretario de Seguridad Pública del Estado;
 
@@ -1675,21 +1675,33 @@ III. Muy Graves; y
 
 IV. Especiales.
 
+> <small>(REFORMADO, G.O. 26 DE JUNIO DE 2017)</small>
+
 ###### Artículo 153.
 
-Las multas se aplicarán en días de salario mínimo vigente en la capital del Estado, debidamente fundadas y motivadas, y se graduarán conforme a lo siguiente:
+El acto por medio del cual se impongan multas, deberá estar fundado y motivado y se aplicará en Unidades de Medidas y Actualización (UMA), graduándose conforme a lo siguiente:
 
-I. Leves, cuando no se pone en riesgo la vida o el patrimonio de personas, de diez a veinticinco;
+I. Leves, cuando no se pone en riesgo la vida o el patrimonio de personas: de cinco a quince;
 
-II. Graves, cuando sin poner en riesgo la vida, se afecten la integridad física, el patrimonio de las personas o el interés colectivo, de veintiséis a cuarenta;
+II. Graves, cuando sin poner en riesgo la vida, se afecten la integridad física, el patrimonio de las personas o el interés colectivo: de dieciséis a treinta;
 
-III. Muy graves, cuando además de poner en peligro la vida o la integridad física, se ocasionen daños a más de una persona, o se afecte la vía pública o la infraestructura urbana, de cuarenta y uno a ochenta; y
+III. Muy graves, cuando se actualice cualquiera de los siguientes supuestos:
 
-IV. Especiales, cuando se afecte un bien colectivo mayor, como las concesiones de transporte público de pasajeros o disposiciones de carácter ambiental, de ochenta y uno a quinientos.
+a) Cuando además de poner en peligro la vida o la integridad física, se ocasionen daños a más de una persona, o se afecte la vía pública o la infraestructura urbana, o
 
-Cuando con una misma conducta se infringieren dos o más disposiciones de esta Ley o de su Reglamento, se anotarán en la boleta de infracción los folios correspondientes.
+b) Cuando se conduzca en estado de ebriedad. En ambos casos: de treinta y uno a cuarenta; y
 
-El pago dentro de los cinco días siguientes a la imposición de la sanción, dará lugar a un descuento del cincuenta por ciento de su total.
+IV. Especiales, cuando se actualice cualquiera de los siguientes supuestos:
+
+a) Cuando con motivo de la conducción de un vehículo se ocasionaren lesiones, produciendo al ofendido la pérdida de cualquier extremidad, órgano o disfunción, se cause una deformidad incorregible, se ocasione incapacidad permanente para trabajar: de cuarenta y uno a cien; y
+
+b) Cuando se cause la muerte, de ciento uno a doscientos.
+
+Cuando con una misma conducta se infrinjan dos o más disposiciones de esta Ley o de su Reglamento, se anotarán en la boleta de infracción los folios correspondientes.
+
+El pago dentro de los cinco días siguientes a la imposición de la sanción, dará lugar a un descuento del cincuenta por ciento en su total, salvo cuando se conduzca en estado de ebriedad, caso en el cual no habrá descuento.
+
+Las multas impuestas a los conductores con motivo de las infracciones a la Ley, no implican la omisión en la observancia de las disposiciones penales aplicables, respecto de aquellos casos en los que se acredite la comisión de un delito.
 
 ###### Artículo 154.
 
@@ -1862,3 +1874,15 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. El Ejecutivo del Estado, en un plazo de sesenta días naturales, expedirá las adecuaciones necesarias al Reglamento de la Ley de Tránsito y Seguridad Vial para el estado de Veracruz de Ignacio de la Llave.
+
+G.O. 26 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 297 QUE DEROGA LA FRACCIÓN XXVIII DEL ARTÍCULO 3, Y REFORMA EL ARTÍCULO 153 DE LA LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. El Ejecutivo del Estado contará con un plazo de 60 días naturales contado a partir de la entrada en vigor del presente Decreto, a efecto de realizar las modificaciones reglamentarias correspondientes.
+
+Cuarto. A la entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en la ley, se entenderán referidas a la Unidad de Medida y Actualización.
