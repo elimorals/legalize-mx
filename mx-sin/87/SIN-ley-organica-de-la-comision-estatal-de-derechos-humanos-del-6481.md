@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-de-la-comision-estatal-de-derechos-humanos-del-648
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-04-07"
-last_updated: "2013-11-27"
+last_updated: "2017-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6481&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "SIN"
 
 LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2017.
 
-Ley publicada en el Periódico Oficial el "Estado de Sinaloa" el miércoles 07 de Abril de 1993.
+Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 7 de Abril de 1993.
 
 GOBIERNO DEL ESTADO
 
@@ -397,13 +397,107 @@ VIII. Las demás que le señale la presente ley y el Presidente de la Comisión 
 
 Los visitadores de Zona y los adjuntos auxiliarán en sus funciones al Visitador General en los términos fijados por el Reglamento y para tal efecto deberán reunir los requisitos que establezca el mismo para su designación.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE JUNIO DE 2017)</small>
+
+### CAPITULO VI. DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+ARTICULO 27 BIS. La Comisión Estatal contará con un órgano interno de control, con autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos de la Comisión Estatal y de particulares vinculados con faltas graves; para sancionar aquéllas distintas a las que son competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
+
+El órgano interno de control tendrá un titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto.
+
+En el desempeño de su cargo, el titular del órgano interno de control se sujetará a los principios previstos en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+ARTICULO 27 BIS A. El Titular del órgano interno de control será designado por el pleno del Congreso del Estado con el voto de las dos terceras partes de sus miembros presentes, conforme al procedimiento establecido en la Ley Orgánica del Congreso del Estado.
+
+El titular del órgano interno de control durará en su encargo cuatro años y podrá ser designado por un periodo inmediato posterior al que se haya desempeñado, previa postulación y cumpliendo los requisitos previstos en esta Ley y el procedimiento establecido en la Ley Orgánica del Congreso del Estado.
+
+Tendrá un nivel jerárquico igual al de un Director General o su equivalente en la estructura orgánica de la Comisión Estatal, y mantendrá la coordinación técnica necesaria con la Auditoría Superior del Estado.
+
+El titular del órgano interno de control deberá rendir informe semestral y anual de actividades a la Comisión Estatal, del cual remitirá copia al Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+ARTICULO 27 BIS B. El titular del órgano interno de control será sujeto de responsabilidad en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado; y podrá ser sancionado de conformidad con el procedimiento previsto en la normatividad aplicable.
+
+Tratándose de los demás servidores públicos adscritos al órgano interno de control de la Comisión Estatal serán sancionados por su titular o el servidor público en quien delegue la facultad, en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+ARTICULO 27 BIS C. El órgano interno de control deberá inscribir y mantener actualizada la información correspondiente del Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal; de todos los servidores públicos de la Comisión Estatal, de conformidad con la Ley del Sistema Anticorrupción y la Ley de Responsabilidades Administrativas, ambas del Estado y la Ley General de Responsabilidades Administrativas.
+
+El titular del órgano interno de control se abstendrá de desempeñar cualquier otro empleo, trabajo o comisión públicos o privados, con excepción de los cargos docentes.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+ARTICULO 27 BIS D. El titular del órgano interno de control deberá reunir los siguientes requisitos:
+
+I. Ser ciudadano mexicano, preferentemente sinaloense residente del Estado, en pleno goce de sus derechos civiles y políticos, y tener treinta años cumplidos el día de la designación;
+
+II. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena de prisión por más de un año;
+
+III. Contar al momento de su designación con una experiencia de al menos cinco años en el control, manejo o fiscalización de recursos y responsabilidades administrativas;
+
+IV. Contar al día de su designación, con antigüedad mínima de cinco años, con título profesional relacionado con las actividades a que se refiere la fracción anterior, expedido por autoridad o institución legalmente facultada para ello;
+
+V. No pertenecer o haber pertenecido en los cinco años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios a la Comisión Estatal o haber fungido como consultor o auditor externo de la Comisión Estatal, en lo individual durante ese periodo;
+
+VI. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público; y
+
+VII. No haber sido Secretario o Subsecretario de Estado, Fiscal General, Gobernador, Diputado, dirigente, miembro de órgano rector, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los cuatro años anteriores a la propia designación.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+ARTICULO 27 BIS E. El órgano interno de control tendrá las siguientes atribuciones:
+
+I. Las que contempla la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado;
+
+II. Verificar que el ejercicio de gasto de la Comisión Estatal se realice conforme a la normatividad aplicable, los programas aprobados y montos autorizados;
+
+III. Presentar a la Comisión Estatal los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes de la misma;
+
+IV. Revisar que las operaciones presupuestales que realice la Comisión Estatal, se hagan con apego a las disposiciones legales y administrativas aplicables y, en su caso, determinar las desviaciones de las mismas y las causas que les dieron origen;
+
+V. Promover ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorías;
+
+VI. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos de la Comisión Estatal;
+
+VII. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos, empleando la metodología que determine el órgano interno de control;
+
+VIII. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos de la Comisión Estatal, empleando la metodología que determine;
+
+IX. Recibir quejas y denuncias conforme a las leyes aplicables;
+
+X. Solicitar la información y efectuar visitas a las áreas y órganos de la Comisión Estatal para el cumplimento de sus funciones;
+
+XI. Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en términos de la Ley de Adquisiciones, Arrendamientos, Servicios y Administración de Bienes Muebles, y la Ley de Obras Públicas y Servicios Relacionados con las Mismas, ambas del Estado, y sus Reglamentos;
+
+XII. Intervenir en los actos de entrega-recepción de los servidores públicos de la Comisión Estatal de mandos medios y superiores, en los términos de la normativa aplicable;
+
+XIII. Participar, conforme a las disposiciones vigentes, en los comités y subcomités de los que el órgano interno de control forme parte, e intervenir en los actos que se deriven de los mismos;
+
+XIV. Atender las solicitudes de los diferentes órganos de la Comisión Estatal en los asuntos de su competencia;
+
+XV. Proponer los proyectos de modificación o actualización de su estructura orgánica, personal o recursos;
+
+XVI. Formular el anteproyecto de presupuesto del órgano interno de control;
+
+XVII. Presentar a la Comisión Estatal los informes previo y anual de resultados de su gestión, y comparecer ante el mismo, cuando así lo requiera el Presidente;
+
+XVIII. Presentar a la Comisión Estatal los informes respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas; y
+
+XIX. Las demás que le confieran otros ordenamientos.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+ARTICULO 27 BIS F. Los servidores públicos adscritos al órgano interno de control de la Comisión Estatal y, en su caso, los profesionales contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo del desempeño de sus facultades así como de sus actuaciones y observaciones.
 
 ## TITULO TERCERO. EL PROCEDIMIENTO ANTE LA COMISION ESTATAL DE DERECHOS HUMANOS
 
-### CAPITULO II. DEL PROCEDIMIENTO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 28.
 
@@ -427,9 +521,9 @@ La Comisión sólo conocerá de quejas y denuncias presentadas dentro del plazo 
 
 Todos los trámites y gestiones realizadas ante y por la Comisión Estatal serán gratuitos.
 
-### CAPÍTULO II BIS. DE LAS INVESTIGACIONES DE OFICIO
+### CAPITULO II. DEL PROCEDIMIENTO
 
-> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 32.
 
@@ -547,7 +641,9 @@ Las conclusiones del expediente, que serán la base de las recomendaciones, esta
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
-### CAPITULO III. DE LOS ACUERDOS, DICTAMENES Y RECOMENDACIONES AUTÓNOMAS
+### CAPÍTULO II BIS. DE LAS INVESTIGACIONES DE OFICIO
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 53 Bis.
 
@@ -579,7 +675,7 @@ ARTICULO 53 Bis C. En las investigaciones que se inicien de oficio, se procurar�
 
 ARTICULO 53 Bis D. las investigaciones iniciadas de oficio, se regirán por las disposiciones relativas al procedimiento de queja iniciada a petición de parte.
 
-### CAPITULO IV. DE LAS NOTIFICACIONES
+### CAPITULO III. DE LOS ACUERDOS, DICTAMENES Y RECOMENDACIONES AUTÓNOMAS
 
 ###### ARTICULO 54.
 
@@ -637,9 +733,7 @@ La Comisión Estatal no estará obligada a entregar ninguna de sus pruebas a la 
 
 Las Recomendaciones y los acuerdos de no responsabilidad que dicte la Comisión se referirán únicamente a casos concretos; por consiguiente, las autoridades no podrán aplicarlos a otros casos por analogía o por mayoría de razón.
 
-### CAPITULO V. DE LOS INFORMES DE LA COMISION
-
-> <small>(REFORMADO, P.O. 04 DE JULIO DE 2001)</small>
+### CAPITULO IV. DE LAS NOTIFICACIONES
 
 ###### ARTICULO 62.
 
@@ -653,7 +747,9 @@ La Comisión Estatal, notificará inmediatamente, en forma personal, a los quejo
 
 El Presidente de la Comisión Estatal deberá publicar, en su totalidad o en forma resumida, las recomendaciones y los acuerdos de no responsabilidad de la Comisión Estatal. En casos excepcionales podrá determinar si los mismos sólo deban comunicarse a los interesados de acuerdo con las circunstancias del propio caso.
 
-### CAPITULO I. OBLIGACIONES Y COLABORACION
+### CAPITULO V. DE LOS INFORMES DE LA COMISION
+
+> <small>(REFORMADO, P.O. 04 DE JULIO DE 2001)</small>
 
 ###### ARTICULO 65.
 
@@ -673,7 +769,7 @@ La Comisión Estatal podrá en casos específicos rendir un informe especial cua
 
 ## TITULO CUARTO. DE LAS AUTORIDADES Y LOS SERVIDORES PUBLICOS
 
-### CAPITULO II. DE LA RESPONSABILIDAD DE LAS AUTORIDADES Y SERVIDORES PUBLICOS
+### CAPITULO I. OBLIGACIONES Y COLABORACION
 
 ###### ARTICULO 69.
 
@@ -683,7 +779,7 @@ De conformidad con lo establecido en la presente ley, las autoridades y servidor
 
 Las autoridades o servidores públicos a los que se les solicite información o documentación que se estime con carácter reservado, lo comunicarán a la Comisión Estatal y expedirán las razones para considerarla así. En ese supuesto, el Visitador General de la Comisión Estatal tendrá la facultad de hacer la calificación definitiva sobre la reserva, y solicitar que se le proporcione la información o documentación que se manejará en la más estricta confidencialidad.
 
-### CAPITULO UNICO
+### CAPITULO II. DE LA RESPONSABILIDAD DE LAS AUTORIDADES Y SERVIDORES PUBLICOS
 
 ###### ARTICULO 71.
 
@@ -728,6 +824,8 @@ El personal que preste sus servicios en la Comisión Estatal de Derechos Humanos
 Atendiendo a la naturaleza de las funciones que la Comisión desempeña, todos los servidores públicos adscritos a la misma serán personal de confianza.
 
 ## TITULO SEXTO. DEL PATRIMONIO Y PRESUPUESTO DE LA COMISION ESTATAL
+
+### CAPITULO UNICO
 
 ###### ARTICULO 78.
 
@@ -800,3 +898,23 @@ P.O. 27 DE NOVIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 26 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 158 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Segundo. El Congreso del Estado, dentro de los 180 días siguientes a la publicación de este Decreto, iniciará los procesos de designación de los titulares de los órganos internos de control de los organismos a los que la Constitución Política del Estado de Sinaloa les otorga autonomía y que ejerzan recursos públicos del Presupuesto de Egresos de la Federación previstos en este Decreto.
+
+Lo anterior, con excepción de aquellos titulares de los órganos internos de control de los organismos a los que la Constitución Política del Estado de Sinaloa les otorga autonomía y que ejercen recursos públicos que se encontraban en funciones a la entrada en vigor del Decreto por el que se reforman, adicionan, y derogan diversas disposiciones de la Constitución Política del Estado de Sinaloa, en materia de combate a la corrupción, publicado en el Periódico Oficial "El Estado de Sinaloa" el 17 de marzo de 2017, los cuales continuarán en su encargo en los términos en los que fueron nombrados.
+
+Tercero. Los órganos de gobierno de los organismos a los que la Constitución Política del Estado de Sinaloa les otorga autonomía y que ejercen recursos públicos, tendrán un plazo de ciento ochenta días, a partir de la publicación del presente Decreto, para armonizar su normatividad interna en los términos del presente Decreto.
+
+Cuarto. Los recursos humanos, financieros y materiales que actualmente se encuentran asignados a las Contralorías, se entenderán asignados a los órganos internos de control a que se refiere el presente Decreto.
+
+Quinto. Las referencias relativas a la Ley General de Responsabilidades Administrativas se entenderán a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos hasta que este ordenamiento legal se abrogue el 17 de julio de 2017.
+
+Sexto. Los Ayuntamientos, dentro de los 180 días siguientes a la publicación de este Decreto, iniciarán los procesos de designación de los titulares de los órganos internos de control que ejerzan recursos públicos, previstos en este Decreto.
+
+Lo anterior, con excepción de aquellos titulares de los órganos internos de control de los organismos que ejercen recursos públicos que se encontraban en funciones a la entrada en vigor del Decreto por el que se reforman, adicionan, y derogan diversas disposiciones de la Constitución Política del Estado de Sinaloa, en materia de combate a la corrupción, publicado en el Periódico Oficial "El Estado de Sinaloa" el 17 de marzo de 2017, los cuales continuarán en su encargo en los términos en los que fueron nombrados.
