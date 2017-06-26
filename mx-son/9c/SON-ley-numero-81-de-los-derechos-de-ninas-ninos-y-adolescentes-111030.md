@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-81-de-los-derechos-de-ninas-ninos-y-adolescentes-111
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-17"
-last_updated: "2015-12-17"
+last_updated: "2017-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE JUNIO DE 2017.
 
 Ley publicada en la Secc. I del Boletín Oficial del Estado de Sonora, el jueves 17 de diciembre de 2015.
 
@@ -126,6 +126,10 @@ XI. Centro de Asistencia Social: Al establecimiento, lugar o espacio de cuidado 
 XII. Constitución Federal: A la Constitución Política de los Estados Unidos Mexicanos.
 
 XIII. Constitución Estatal: A la Constitución Política del Estado Libre y Soberano de Sonora.
+
+> <small>(ADICIONADA, B.O. 26 DE JUNIO DE 2017)</small>
+
+XIII BIS. Control de confianza: Las pruebas realizadas por el Centro de evaluación y control de confianza en materia toxicológica, socioeconómica, psicológica, médica y de antecedentes penales, así como los demás que establezcan en sus lineamientos el Centro Nacional de certificación y acreditación en la materia.
 
 XIV. Convención: A la Convención sobre los Derechos del Niño.
 
@@ -1687,9 +1691,17 @@ II. Tener más de 35 años de edad;
 
 III. Contar con título profesional de licenciatura en derecho debidamente registrado;
 
-IV. Contar con al menos cinco años de experiencia en materia de procuración de justicia o defensa de niñas, niños y adolescentes, y
+> <small>(REFORMADA, B.O. 26 DE JUNIO DE 2017)</small>
 
-V. No haber sido sentenciado por delito doloso o inhabilitado como servidor público.
+IV. Contar con al menos 5 años de experiencia en materia de procuración de justicia o defensa de niñas, niños y adolescentes;
+
+> <small>(REFORMADA, B.O. 26 DE JUNIO DE 2017)</small>
+
+V. No haber sido sentenciado por delito doloso o inhabilitado como servidor público; y
+
+> <small>(ADICIONADA, B.O. 26 DE JUNIO DE 2017)</small>
+
+VI. Acreditar las pruebas de control de confianza emitidas por la autoridad correspondiente.
 
 El nombramiento de Procurador de Protección deberá ser aprobado por la Junta de Gobierno del Sistema Estatal DIF, a propuesta de su Titular.
 
@@ -2032,3 +2044,19 @@ Comuníquese a la Titular del Poder Ejecutivo para su sanción y publicación en
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los once días de diciembre del año dos mil quince.- SUFRAGIO EFECTIVO, NO REELECCIÓN. GOBERNADORA DEL ESTADO.- CLAUDIA ARTEMIZA PAVLOVICH ARELLANO.- RÚBRICA.- SECRETARIO DE GOBIERNO.- MIGUEL ERNESTO POMPA CORELLA- RÚBRICA.
+
+B.O. 26 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en un plazo de 365 días naturales contado a partir de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Las autoridades aludidas por el presente decreto deberán cambiar su normatividad interna para dar cumplimiento al mismo en un lapso no mayor a 60 días naturales contado a partir de la entrada en vigor del presente ordenamiento jurídico, debiendo observarse para ello los transitorios establecidos en la Ley que se modifica mediante el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Las pruebas de control de confianza deberán aplicarse en un lapso no mayor a 60 días naturales a partir de la entrada en vigor del presente Decreto.
