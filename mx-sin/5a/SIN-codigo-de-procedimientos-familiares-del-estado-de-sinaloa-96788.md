@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-familiares-del-estado-de-sinaloa-96788
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-27"
-last_updated: "2017-05-24"
+last_updated: "2017-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2017.
 
 Código publicado en la Edición Extraordinaria, Tercera Sección Parte Uno del Periódico Oficial del Estado de Sinaloa, el miércoles 27 de noviembre de 2013.
 
@@ -1579,15 +1579,23 @@ El juicio podrá prepararse:
 
 I. Pidiendo el legatario o cualquier otro que tenga derecho de elegir una o más cosas entre varias, su exhibición;
 
-II. Pidiendo el que se crea heredero, coheredero, o legatario la exhibición de un testamento, y
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2017)</small>
 
-III. Para demostrar actos o requisitos, cuya finalidad sea la de preparar la pretensión que habrá de ejercitarse.
+II. Solicitando el que se crea heredero, coheredero, o legatario la exhibición de un testamento;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2017)</small>
+
+III. Proyectar la acción correspondiente a la investigación de la filiación, a fin de determinar la paternidad o la maternidad, a través de la prueba pericial en genética molecular, y
+
+IV. Para demostrar actos o requisitos, cuya finalidad sea la de preparar la pretensión que habrá de ejercitarse.
 
 ###### Artículo 184.
 
 La petición de medidas preparatorias deberá hacerse ante el juez que sea competente para conocer de la demanda subsecuente, si deben llevarse a cabo en el mismo lugar del juicio. En caso de urgencia, podrá pedirse ante el juez del lugar en que deba realizarse la medida; y, efectuada, se remitirán las actuaciones al competente. En el escrito en que se pida debe expresarse el motivo y el juicio que se trata de seguir o que se teme.
 
-El juez puede disponer lo que crea conveniente para cerciorarse de la personalidad y la legitimación del que pida la medida y la necesidad de ésta.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+Quien ejerza la patria potestad, la tutela o tenga la legal custodia de una niña o niño, el mayor de edad, la Procuraduría de Protección de Niñas, Niños y Adolescentes o el ministerio público, podrán solicitar la práctica de la prueba biológica que refiere la fracción III del artículo precedente. El juez puede disponer lo que crea conveniente para cerciorarse de la personalidad y la legitimación del que pida la medida y la necesidad de ésta.
 
 Contra la resolución que conceda la diligencia preparatoria no habrá ningún recurso. Contra la que la niegue habrá apelación en el efecto suspensivo, si es apelable la sentencia del juicio que se prepara o que se teme.
 
@@ -1597,11 +1605,25 @@ Para la tramitación de las diligencias preparatorias serán aplicables las regl
 
 I. Las pretensiones que pueden ejercitarse conforme al artículo 183 de este Código, proceden contra cualquier otra persona que tenga en su poder las cosas que en ellas se mencionan;
 
-II. Las diligencias se practicarán con citación a la contraria, y
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2017)</small>
+
+II. Presentada la solicitud de investigación de la filiación, se resolverá de inmediato su admisión, ordenándose dar vista a quien se le impute la paternidad o la maternidad, a fin de que comparezca dentro del plazo de tres días, para que manifieste su aceptación o rechazo a tal señalamiento. De no presentar manifestación en algún sentido la persona requerida, se tendrá como una negativa al vínculo que se atribuye.
+
+Si se acepta la filiación, previa la ratificación de la misma ante juez, se ordenará al Oficial del Registro Civil que levante el acta de reconocimiento correspondiente, dándose por terminadas tales diligencias.
+
+En caso de negativa, se ordenará la práctica de la prueba biológica, la cual habrá de realizarse por institución certificada por la Secretaría de Salud. En el mismo auto se señalará día y hora para que en el recinto judicial, se tomen las muestras y para lo cual se citará a quienes deban someterse a dicha prueba, cuidándose en todo caso la cadena de custodia de lo obtenido.
+
+Si la persona a quien se le refiere el lazo filiatorio no comparece, o compareciendo se negare a proporcionar las muestras necesarias, hará presumir la filiación que se le atribuye en términos de lo señalado en el Código Familiar.
+
+Una vez recibido el dictamen positivo o establecida la presunción de filiación, se intentará la acción mediante formal demanda en la forma y términos a que se contrae el artículo 196 de este cuerpo normativo. El costo de la prueba biológica correrá a cargo del padre o madre cuando aquél o ésta resulten serlo, en caso contrario, quien haya promovido.
+
+Contra el proveído que ordene el desahogo de la prueba de investigación de la filiación, no procede ningún recurso. Contra el que la deseche procede la apelación, y
 
 III. El juez podrá usar los medios de apremio que autoriza este Código para hacer cumplir sus determinaciones.
 
-Las oposiciones se decidirán en una audiencia, que se celebrará dentro de los tres días siguientes y la resolución del juez será apelable en el efecto devolutivo.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+Las demás diligencias también se practicarán con citación a la contraria, y las oposiciones se decidirán en una audiencia, que se celebrará dentro de los tres días siguientes de la resolución del juez (sic) será apelable en el efecto devolutivo.
 
 ### Capítulo II. De las Preliminares de la Consignación
 
@@ -5286,3 +5308,11 @@ P.O. 24 DE MAYO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 124 DEL H. CONGRESO DEL ESTADO.- SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO FAMILIAR Y DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 26 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 159 QUE REFORMA LA FRACCIÓN II AL ARTÍCULO 183, EL SEGUNDO PÁRRAFO AL ARTÍCULO 184, LA FRACCIÓN II Y EL ÚLTIMO PÁRRAFO AL ARTÍCULO 185. ADICIONA LA FRACCIÓN III AL ARTÍCULO 183 RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE AL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
