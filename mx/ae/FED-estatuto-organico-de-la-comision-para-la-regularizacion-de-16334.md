@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-para-la-regularizacion-de-1633
 country: "mx"
 rank: "estatuto"
 publication_date: "2000-06-12"
-last_updated: "2002-02-28"
+last_updated: "2017-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16334&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "1999-07-01"
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DEL SUELO SUSTENTABLE, PUBLICADO EN EL D.O.F. DE 26 DE JUNIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ESTATUTO ORGANICO DE LA COMISION PARA LA REGULARIZACION DE LA TENENCIA DE LA TIERRA
+ESTATUTO ORGÁNICO DE LA COMISIÓN PARA LA REGULARIZACIÓN DE LA TENENCIA DE LA TIERRA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE FEBRERO DE 2002.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE JUNIO DE 2017 (ABROGADO).
 
 Estatuto publicado en el Diario Oficial de la Federación, lunes 12 de junio de 2000.
 
@@ -638,3 +638,19 @@ D.O.F. 28 DE FEBRERO DE 2002.
 PRIMERO.- Publíquese en el Diario Oficial de la Federación.
 
 SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DEL SUELO SUSTENTABLE”.]
+
+PRIMERO.- El presente Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente Estatuto, abroga el Estatuto Orgánico de la Comisión para la Regularización de la Tenencia de la Tierra, publicado en el Diario Oficial de la Federación el 12 de junio de 2000.
+
+TERCERO.- Todos los registros, poderes y mandatos a favor de la Comisión para la Regularización de la Tenencia de la Tierra, se entenderán a favor del Instituto.
+
+CUARTO.- Para efectos administrativos, el Instituto Nacional del Suelo Sustentable, contará con un plazo de 90 días hábiles contados a partir de la fecha de entrada en vigor de este Estatuto para expedir las disposiciones administrativas de organización y funcionamiento interno.
+
+QUINTO.- El Estatuto Orgánico deberá inscribirse en el Registro Público de organismos descentralizados.
+
+Estatuto Orgánico aprobado y expedido por la Honorable Junta de Gobierno del Instituto Nacional del Suelo Sustentable (INSUS), a través del acuerdo 09/01/2017, tomado en la Primera Sesión Ordinaria celebrada el día 27 de abril 2017.
