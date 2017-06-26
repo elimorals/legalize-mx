@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-nacional-de-los-derechos-3400
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-29"
-last_updated: "2016-09-09"
+last_updated: "2017-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34003&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-08-12"
 
 REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE JUNIO DE 2017.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 29 de septiembre de 2003.
 
@@ -295,7 +295,7 @@ VI. Centro Nacional de Derechos Humanos; y
 
 VII. Las demás que se establezcan en los correspondientes acuerdos administrativos.
 
-La Comisión Nacional también contará con un órgano interno de control, el cual tendrá las atribuciones y estructura previstas en el presente Reglamento.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 26 DE JUNIO DE 2017)</small>
 
 Con las excepciones establecidas en la Ley y en este Reglamento, corresponde al presidente de la Comisión Nacional nombrar y remover libremente a todo el personal, con apego a lo dispuesto en las fracciones VII y IX del apartado B del artículo 123 constitucional, así como en el Estatuto del Servicio Civil de Carrera de la misma Comisión Nacional.
 
@@ -303,9 +303,9 @@ Con las excepciones establecidas en la Ley y en este Reglamento, corresponde al 
 
 Se reserva en exclusiva al Presidente de la Comisión Nacional el nombramiento y remoción de los Visitadores Generales, del Secretario Ejecutivo, del Oficial Mayor, del Coordinador General de Seguimiento de Recomendaciones y de Asuntos Jurídicos, y de los Directores Generales de sus respectivas áreas, así como la designación de los titulares de las Unidades Administrativas que apoyan el despacho de los asuntos que corresponden directamente a la Presidencia.
 
-> <small>(REFORMADO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 26 DE JUNIO DE 2017)</small>
 
-Sin perjuicio de lo anterior, los titulares de las Visitadurías Generales, de las Secretarías Ejecutiva y Técnica del Consejo Consultivo y los titulares de las Unidades Administrativas a que hacen referencia los artículos 21 y 37 del Reglamento Interno, tendrán la facultad de nombrar y remover al personal de confianza de su adscripción, con apego a lo dispuesto en las fracciones VII y IX del apartado B del artículo 123 constitucional, dando el correspondiente aviso al Presidente de la Comisión Nacional. En todo caso, el Director General de Recursos Humanos tendrá la facultad de remover al personal de la Comisión Nacional, con excepción de aquellos cuya designación haya correspondido al Presidente.
+Sin perjuicio de lo anterior, las personas titulares de las Visitadurías Generales, de las Secretarías Ejecutiva y Técnica del Consejo Consultivo y las personas titulares de las Unidades Administrativas a que hace referencia el artículo 21 del Reglamento Interno, tendrán la facultad de nombrar y remover al personal de confianza de su adscripción, con apego a lo dispuesto en las fracciones VII y IX del apartado B del artículo 123 constitucional, dando el correspondiente aviso a la persona titular de la Presidencia de la Comisión Nacional. En todo caso, la persona titular de la Dirección General de Recursos Humanos tendrá la facultad de remover al personal de la Comisión Nacional, con excepción de aquellos cuya designación haya correspondido a la persona titular de la Presidencia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE JUNIO DE 2006)</small>
 
@@ -329,7 +329,13 @@ IV. Proponer al presidente de la Comisión Nacional la formulación y actualizac
 
 IV Bis. Autorizar la actualización de la estructura orgánica de los órganos y las unidades administrativas de la Comisión Nacional;
 
-V. Elaborar, desarrollar e implantar el Manual de Organización General de la Comisión Nacional y los demás manuales e instructivos de organización, procedimientos y servicios administrativos;
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2017)</small>
+
+V. Elaborar, desarrollar e implantar el Manual de Organización General de la Comisión Nacional, así como revisar los aspectos formales de los proyectos de manuales de los órganos y unidades administrativas de la Comisión;
+
+> <small>(ADICIONADA, D.O.F. 26 DE JUNIO DE 2017)</small>
+
+V. Bis. Elaborar, desarrollar e implantar los manuales e instructivos de procedimientos y servicios administrativos;
 
 VI. Elaborar, desarrollar y ejecutar el Programa General de Capacitación de la Comisión Nacional;
 
@@ -415,9 +421,9 @@ La persona que ocupe la titularidad de la Dirección General de Finanzas podrá 
 
 La persona que ocupe la titularidad de la Dirección General de Recursos Humanos podrá ejercer las atribuciones señaladas en el artículo 22, fracciones II, IV, IV Bis, V, VI, XIV, XV y XVI, de este Reglamento.
 
-> <small>(ADICIONADO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 26 DE JUNIO DE 2017)</small>
 
-La persona que ocupe la titularidad de la Dirección General de Tecnologías de Información y Comunicaciones podrá ejercer las atribuciones señaladas en el artículo 22, fracciones II, XIV, XVIII y XVIII Bis, de este Reglamento.
+La persona que ocupe la titularidad de la Dirección General de Tecnologías de Información y Comunicaciones, podrá ejercer las atribuciones señaladas en el artículo 22, fracciones II, V Bis, XIV, XVIII y XVIII Bis de este Reglamento.
 
 > <small>(ADICIONADO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
 
@@ -737,87 +743,139 @@ Por su naturaleza, el Centro Nacional de Derechos Humanos contará con un Reglam
 
 ### CAPITULO III. ORGANO INTERNO DE CONTROL
 
-> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 26 DE JUNIO DE 2017)</small>
 
 ###### Artículo 37.
 
-(Del Organo Interno de Control)
+(Del Órgano Interno de Control)
 
-La Comisión Nacional contará con un Organo Interno de Control que estará a cargo de un titular designado por el Presidente de la Comisión Nacional y ejercerá las facultades y atribuciones a que hacen referencia la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, la Ley Federal Anticorrupción en Contrataciones Públicas, el presente Reglamento y las demás disposiciones legales aplicables.
+El Órgano Interno de Control de la Comisión Nacional de los Derechos Humanos, de conformidad con lo dispuesto en el párrafo quinto de la fracción III del artículo 109 de la Constitución Política de los Estados Unidos Mexicanos y 24 Bis de la Ley de la Comisión Nacional de los Derechos Humanos, es el órgano encargado de prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos de la Comisión Nacional y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal Federal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos federales; así como de presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
+
+Para el ejercicio de sus atribuciones, el Órgano Interno de Control está dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones; su titular tendrá un nivel jerárquico igual al de un Director General y mantendrá la coordinación técnica con la Entidad de Fiscalización Superior de la Federación.
+
+> <small>(REFORMADO, D.O.F. 26 DE JUNIO DE 2017)</small>
 
 ###### Artículo 38.
 
 (Atribuciones)
 
-El Organo Interno de Control tendrá las siguientes atribuciones:
+El Órgano Interno de Control tendrá las siguientes atribuciones:
 
-I. Registrar y vigilar el cumplimiento de los manuales de organización y procedimientos, de las normas de control, fiscalización y evaluación, de los lineamientos generales y específicos, así como de los sistemas y procedimientos administrativos, por parte de los órganos y las unidades administrativas de la Comisión Nacional;
+I. Las que contempla la Ley General de Responsabilidades Administrativas;
 
-II. Vigilar que las erogaciones de la Comisión Nacional se ajusten al presupuesto autorizado y se ejerza en términos de la normatividad aplicable;
+II. Integrar el Programa Anual de Trabajo del Órgano Interno de Control y presentarlo al Presidente de la Comisión Nacional;
 
-III. Implantar y vigilar el cumplimiento de las normas complementarias en materia de control, así como realizar las auditorías o revisiones que se requieran a los órganos y las unidades administrativas de la Comisión Nacional, para lo cual emitirá las observaciones y recomendaciones correspondientes;
+III. Formular el anteproyecto de presupuesto del Órgano Interno de Control y someterlo a consideración del Presidente de la Comisión Nacional para su integración al anteproyecto de presupuesto de la Comisión;
 
-> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2007)</small>
+IV. Proponer los proyectos de modificación o actualización de su estructura orgánica, personal y/o recursos;
 
-IV. Realizar auditorías de desempeño a los órganos y las unidades administrativas de la Comisión Nacional, de conformidad con las metas y actividades previstas en los programas Operativo Anual, General de Trabajo y en el presupuesto autorizado, así como los demás programas y proyectos especiales que tengan a su cargo las unidades administrativas;
+V. Participar, conforme a las disposiciones vigentes, en los Comités y Subcomités de los que forme parte e intervenir en los actos que se deriven de los mismos;
 
-V. Establecer las políticas que regirán las contrataciones de auditores externos y dar seguimiento al cumplimiento de las observaciones y recomendaciones que formulen dichos auditores y las que emita la entidad de Fiscalización Superior de la Federación;
+VI. Proponer las mejoras que permitan la simplificación administrativa de los procedimientos establecidos en los órganos y las unidades administrativas de la Comisión Nacional, como resultado del desarrollo de sus funciones;
 
-VI. Recibir, registrar y custodiar las declaraciones de situación patrimonial que presenten los servidores públicos de la Comisión Nacional en términos de las disposiciones legales aplicables e intervenir en los actos de entrega y recepción del cargo;
+VII. Implantar el Sistema de Control Interno y de Gestión de Riesgos de la Comisión Nacional, así como proponer las normas, lineamientos, mecanismos y acciones en la materia;
 
-> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2012)</small>
+VIII. Presentar ante la Fiscalía Especializada en Combate a la Corrupción, las denuncias por hechos u omisiones que pudieran ser constitutivos de delito;
 
-VII. Recibir y atender las quejas y denuncias administrativas que se presenten en contra de los servidores públicos de la Comisión Nacional, y denuncias por infracciones en que incurran personas físicas o morales, nacionales o extranjeras, que participen o hayan participado en contrataciones públicas de este organismo, así como sustanciar los procedimientos respectivos, fincar las responsabilidades a que haya lugar y aplicar e imponer las sanciones que correspondan de acuerdo con lo dispuesto por la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, la Ley Federal Anticorrupción en Contrataciones Públicas, y por este Reglamento Interno en lo que a la ejecución de sanciones se refiere;
+IX. Recibir, investigar, substanciar y resolver las quejas y denuncias administrativas que se presenten en contra de las personas servidoras públicas de la Comisión Nacional, y denuncias por infracciones en que pudieran haber incurrido personas físicas o morales, nacionales o extranjeras, que participen o hayan participado en contrataciones públicas de este organismo, de acuerdo con lo dispuesto en la Ley General de Responsabilidades Administrativas;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 28 DE JUNIO DE 2007)</small>
+X. Substanciar los procedimientos administrativos disciplinarios respectivos, fincar las responsabilidades a que haya lugar e imponer las sanciones que correspondan de acuerdo con lo dispuesto en la Ley General de Responsabilidades Administrativas y en este Reglamento Interno en lo que se refiere a la ejecución de sanciones;
 
-VIII. Recibir y tramitar las inconformidades que presenten los interesados en contra de actos de los procedimientos de contratación que pudieran contravenir las disposiciones de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, o de la Ley de Obras Públicas y Servicios Relacionados con las Mismas; instruir los procedimientos que correspondan, e imponer las sanciones que procedan legalmente;
+XI. Presentar a la Comisión Nacional los informes respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 28 DE JUNIO DE 2007)</small>
+XII. Tramitar y resolver los recursos que se promuevan en contra de las resoluciones que emita en ejercicio de sus facultades, en los términos establecidos en las leyes y ordenamientos aplicables;
 
-IX. Denunciar al Ministerio Público Federal los actos que pudieran implicar responsabilidad penal cometidos en los procedimientos de responsabilidad administrativa o en los de contratación de adquisiciones, arrendamientos y servicios, o en los de obra pública;
+XIII. Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en términos de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y de la Ley de Obras Públicas y Servicios Relacionados con las Mismas y sus respectivos Reglamentos;
 
-> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2007)</small>
+XIV. Ejercer, ante los tribunales competentes, las acciones que le correspondan, así como hacer valer toda clase de derechos, excepciones y defensas en cualquier procedimiento;
 
-X. Vigilar el cumplimiento de las normas y políticas en materia de patrimonio inmobiliario y participar, con voz y sin voto, en los comités y subcomités en los que se traten temas relacionados con el ejercicio de los recursos presupuestales autorizados para la Comisión Nacional, en los términos de las disposiciones jurídicas aplicables, y
+XV. Recibir, registrar y custodiar las declaraciones de situación patrimonial, declaraciones de intereses y constancias de presentación de la declaración fiscal que presenten las personas servidoras públicas de la Comisión Nacional; inscribir y mantener actualizada la información correspondiente del Sistema de Evolución Patrimonial, de Declaración de Intereses y Constancia de Presentación de Declaración Fiscal, de todas las personas servidoras públicas de la Comisión Nacional, de conformidad con las disposiciones legales aplicables;
 
-> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+XVI. Llevar a cabo la verificación aleatoria de las declaraciones patrimoniales que obren en el Sistema de Evolución Patrimonial, de Declaración de Intereses y Constancia de Presentación de Declaración Fiscal, así como de la evolución del patrimonio de las personas servidoras públicas; en su caso, expedir la certificación correspondiente;
 
-XI. Implantar el sistema de control interno y de gestión de riesgos de la Comisión Nacional, así como proponer las normas, lineamientos, mecanismos y acciones en la materia, y
+XVII. Intervenir en los actos de entrega-recepción del cargo de las personas servidoras públicas de la Comisión Nacional de mandos medios y superiores, así como emitir los lineamientos, procedimientos y formatos conforme a los cuales se llevarán a cabo dichos actos;
 
-> <small>(ADICIONADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+XVIII. Registrar la estructura orgánica básica de la Comisión Nacional, así como las estructuras orgánicas de los órganos y de las unidades administrativas; los Manuales de Organización y de Procedimientos; las normas de control, fiscalización y evaluación; los Lineamientos Generales y Específicos, así como cualquier otra norma emitida en la Comisión Nacional;
 
-XII. Las demás que le confieran otras disposiciones legales, así como aquellas que le asigne o delegue el Presidente de la Comisión Nacional.
+XIX. Realizar revisiones y auditorías financieras y operacionales a los órganos y a las unidades administrativas de la Comisión Nacional; emitir las cédulas de observaciones y recomendaciones, con la finalidad de propiciar el cumplimiento de la normatividad y prevenir la recurrencia de las irregularidades detectadas;
+
+XX. Solicitar información y efectuar visitas a los órganos y a las unidades administrativas de la Comisión Nacional para el cumplimento de sus funciones;
+
+XXI. Verificar que el ejercicio de gasto de la Comisión Nacional se realice conforme a la normatividad aplicable, los programas aprobados y montos autorizados;
+
+XXII. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos de la Comisión Nacional;
+
+XXIII. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos, empleando la metodología que determine el Órgano Interno de Control;
+
+XXIV. Implantar y vigilar el cumplimiento de las normas complementarias en materia de control interno;
+
+XXV. Vigilar el cumplimiento de las normas y políticas en materia de patrimonio inmobiliario;
+
+XXVI. Revisar que las operaciones presupuestales que realice la Comisión Nacional, se hagan con apego a las disposiciones legales y administrativas aplicables y, en su caso, determinar las desviaciones de las mismas y las causas que les dieron origen;
+
+XXVII. Promover ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorías;
+
+XXVIII. Presentar a la Comisión Nacional los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes de la Comisión Nacional;
+
+XXIX. Solicitar la contratación de auditores externos y dar seguimiento al cumplimiento de las observaciones y recomendaciones que formulen dichos auditores y las que emita la Entidad de Fiscalización Superior de la Federación;
+
+XXX. Realizar auditorías de desempeño a los órganos y a las unidades administrativas de la Comisión Nacional, de conformidad con las metas y actividades previstas en el Plan Estratégico Institucional y en el Programa Anual de Trabajo, así como en los demás programas especiales que tengan a su cargo los órganos y las unidades administrativas de la Comisión Nacional;
+
+XXXI. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos de la Comisión Nacional, empleando la metodología que determine;
+
+XXXII. Administrar la contratación para la realización de una encuesta de opinión de la Comisión Nacional, así como la elaboración del informe;
+
+XXXIII. Rendir informe semestral y anual de actividades a la Comisión Nacional y marcar copia a la Cámara de Diputados;
+
+XXXIV. Presentar a la Comisión Nacional los informes previo y anual de resultados de su gestión y comparecer ante el mismo, cuando así lo requiera el Presidente de la Comisión Nacional;
+
+XXXV. Atender las solicitudes de información y documentación que, en términos de la Ley General de Transparencia y Acceso a la Información Pública, Ley Federal de Transparencia y Acceso a la Información Pública y del Reglamento de Transparencia y Acceso a la Información de la Comisión Nacional de los Derechos Humanos soliciten los particulares al Órgano Interno de Control, así como participar en el Comité de Transparencia de la Comisión Nacional;
+
+XXXVI. Emitir circulares que contengan disposiciones de observancia general para las personas servidoras públicas de la Comisión Nacional, derivadas de la normatividad aplicable o de acuerdos de la Presidencia de la Comisión Nacional;
+
+XXXVII. Emitir, por conducto de su titular, los acuerdos y lineamientos que requiera para hacer efectiva su autonomía técnica y de gestión, informando de dicha expedición al Presidente de la Comisión Nacional;
+
+XXXVIII. Brindar asesoría en asuntos de su competencia a las personas servidoras públicas de la Comisión Nacional, así como coordinarse con los titulares de los órganos y de las unidades administrativas a fin de instrumentar acciones que auxilien al mejor funcionamiento de la Comisión Nacional;
+
+XXXIX. Atender las solicitudes de los diferentes órganos y unidades administrativas de la Comisión Nacional en los asuntos de su competencia;
+
+XL. Proponer a la Comisión Nacional los mecanismos de orientación y cursos de capacitación que resulten necesarios para procurar que las personas servidoras públicas de la Comisión Nacional cumplan adecuadamente con sus funciones administrativas;
+
+XLI. Celebrar convenios de colaboración en las materias que le competen, y
+
+XLII. Las demás que le confieran otros ordenamientos legales.
+
+> <small>(REFORMADO, D.O.F. 26 DE JUNIO DE 2017)</small>
 
 ###### Artículo 39.
 
 (Estructura)
 
-Para el ejercicio de sus atribuciones, el Organo Interno de Control contará con las siguientes áreas:
+El Órgano Interno de Control, para el buen despacho de los asuntos que tiene encomendados, contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto, conforme al marco jurídico que rige su actuación.
 
-> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2007)</small>
+La persona titular del Órgano Interno de Control tendrá la facultad de nombrar y remover al personal de su adscripción.
 
-I. Responsabilidades, Inconformidades y Normatividad;
+En los acuerdos y lineamientos del Órgano Interno de Control señalarán las personas servidoras públicas del mismo que podrán suplir en ausencias temporales a la persona titular del Órgano Interno de Control en el ejercicio de sus atribuciones y/o funciones.
 
-II. Control y Auditorías, y
+Para el ejercicio de sus atribuciones, el Órgano Interno de Control contará con las siguientes áreas:
 
-> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2007)</small>
+I. Quejas, Denuncias y Notificaciones;
 
-III. Evaluación y Gestión.
+II. Responsabilidades, Situación Patrimonial y Defensa Jurídica;
 
-Además, contará con el personal profesional, técnico y administrativo autorizado en el presupuesto de la Comisión Nacional.
+III. Control y Auditorías, y
 
-> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2012)</small>
+IV. Evaluación de la Gestión.
 
-El Titular del Area de Responsabilidades, Inconformidades y Normatividad tendrá atribuciones para recibir, registrar y tramitar las quejas y/o denuncias que se presenten en contra de servidores públicos de la Comisión, en contra de personas físicas o morales, nacionales o extranjeras, que participen o hayan participado en contrataciones públicas de este organismo; sustanciar los procedimientos administrativos de investigación, disciplinario y sancionador, en los términos previstos por la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y la Ley Federal Anticorrupción en Contrataciones Públicas, así como recibir y tramitar las inconformidades que presenten los particulares en contra de actos del procedimiento de contratación que pudieran contravenir las disposiciones de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, o de la Ley de Obras Públicas y Servicios Relacionadas con las Mismas; formular los proyectos de resolución que correspondan a los procedimientos anteriores, y someterlos a consideración del Titular del Organo Interno de Control. En su caso, las sanciones que resulten se aplicarán y ejecutarán de acuerdo a lo dispuesto en este Reglamento Interno.
+Además, contará con el personal profesional, técnico y administrativo autorizado en el presupuesto de egresos de la Comisión Nacional.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 28 DE JUNIO DE 2007)</small>
+La persona quien ocupe la titularidad del Área de Quejas, Denuncias y Notificaciones, podrá ejercer las atribuciones señaladas en las fracciones I, IX, XIV, XX, XXXV, XXXVIII, XXXIX y XLII.
 
-Se reserva en exclusiva al Titular del Organo Interno de Control, la declaración de inexistencia de responsabilidad.
+La persona quien ocupe la titularidad del Área de Responsabilidades, Situación Patrimonial y Defensa Jurídica, podrá ejercer las atribuciones señaladas en las fracciones I, X, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXXV, XXXVIII, XXXIX y XLII.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 28 DE JUNIO DE 2007)</small>
+La persona quien ocupe la titularidad del Área de Control y Auditorías, podrá ejercer las atribuciones señaladas en las fracciones I, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXIX, XXXV, XXXVIII, XXXIX y XLII.
 
-Además, contará con el personal profesional, técnico y administrativo autorizado en el presupuesto de la Comisión Nacional.
+La persona quien ocupe la titularidad del Área de Evaluación de la Gestión, podrá ejercer las atribuciones señaladas en las fracciones I, XIX, XX, XXI, XXIV, XXVII, XXX, XXXI, XXXII, XXXV, XXXVIII, XXXIX y XLII.
 
 ### CAPITULO IV. DEL CONSEJO CONSULTIVO
 
@@ -907,6 +965,8 @@ Antes de dar inicio a la sesión, la Presidencia, auxiliada de la Secretaría T�
 
 El Consejo Consultivo contará con un secretario técnico que será designado por el propio Consejo Consultivo a propuesta del presidente de la Comisión Nacional.
 
+> <small>(REFORMADO, D.O.F. 26 DE JUNIO DE 2017)</small>
+
 ###### Artículo 51.
 
 (Atribuciones de la Secretaría Técnica del Consejo Consultivo)
@@ -915,27 +975,35 @@ La Secretaría Técnica del Consejo Consultivo tendrá las siguientes atribucion
 
 A. Respecto del Consejo Consultivo:
 
-I. Remitir oportunamente a los consejeros los citatorios, órdenes del día y el material indispensable para realizar las sesiones ordinarias y extraordinarias;
+I. Remitir oportunamente a las y los consejeros los citatorios, órdenes del día y el material indispensable para realizar las sesiones ordinarias y extraordinarias;
 
-II. Brindar a los consejeros el apoyo necesario para el mejor cumplimiento de sus responsabilidades, y
+II. Brindar a las y los consejeros el apoyo necesario para el mejor cumplimiento de sus responsabilidades, responder las comunicaciones que les sean dirigidas e informar de las mismas, y
 
 III. Proponer el proyecto de acta de las sesiones ordinarias y extraordinarias que el Consejo Consultivo celebre.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2005)</small>
-
 B. En cuanto al área operativa de la Comisión:
 
-I. Diseñar y ejecutar los programas de capacitación continua en materia de derechos humanos, para el público en general;
+I. Dirigir, promover y consolidar la relación con las organizaciones de la sociedad civil en México, a través del desarrollo de acciones de reflexión, análisis y participación con organizaciones sociales para la implementación de una agenda de derechos humanos del país tendiente al fortalecimiento, divulgación y promoción de los derechos humanos;
 
-II. Promover, fortalecer e impulsar la colaboración y las relaciones con las organizaciones no gubernamentales pro derechos humanos en el país y con los poderes de la Unión;
+II. Fortalecer, promover e impulsar procesos de colaboración con la sociedad civil, mediante el desarrollo de diversas acciones y programas de difusión, promoción y divulgación de los derechos humanos con organizaciones de todo el país y con los Poderes de la Unión;
 
-III. Apoyar las relaciones interinstitucionales de la Comisión Nacional con los Poderes de la Unión y los entes públicos federales y autónomos;
+III. Diseñar y desarrollar los programas de educación, capacitación y promoción en materia de derechos humanos para personal del servicio público y la sociedad en general;
 
-IV. Proponer al presidente de la Comisión Nacional proyectos que fortalezcan las actividades sustantivas en el marco de la vinculación interinstitucional;
+IV. Impulsar con instituciones públicas y privadas, la organización y desarrollo de actividades de educación, capacitación y promoción, encaminadas a sensibilizar y desarrollar habilidades en materia de derechos humanos en el personal del servicio público federal, estatal y municipal; las estructuras del sistema educativo; integrantes de las organizaciones de la sociedad civil, sindicales y empresariales, así como la población en general;
 
-V. Fortalecer la cooperación y colaboración de la Comisión Nacional con los organismos locales, a fin de unificar criterios y realizar acciones conjuntas que intensifiquen la lucha por la protección, defensa, observancia, promoción, estudio y divulgación de los derechos humanos, y
+V. Establecer la vinculación con los distintos sectores usuarios de los servicios de educación, capacitación y promoción para el fomento de la cultura en materia de derechos humanos;
 
-VI. Las demás que le confieran las disposiciones legales, así como aquellas que le asignen el presidente de la Comisión Nacional o el Consejo Consultivo.
+VI. Promover, fortalecer e impulsar las relaciones interinstitucionales de la Comisión Nacional con los Poderes de la Unión y los entes públicos federales, estatales, municipales y organismos autónomos;
+
+VII. Proponer a la persona titular de la Presidencia de la Comisión Nacional proyectos que fortalezcan las actividades sustantivas en el marco de la vinculación interinstitucional;
+
+VIII. Proponer a la persona titular de la Presidencia de la Comisión Nacional la celebración de instrumentos de colaboración con los Poderes de la Unión y los entes públicos federales, estatales, municipales y organismos autónomos en el marco de la vinculación interinstitucional;
+
+IX. Fortalecer la cooperación y colaboración de la Comisión Nacional con los organismos públicos de derechos humanos locales, a fin de unificar criterios y realizar acciones conjuntas que intensifiquen la lucha por la protección, defensa, observancia, promoción, estudio y divulgación de los derechos humanos;
+
+X. Brindar la asistencia que corresponda en eventos nacionales en los que esté presente y/o en los que participe la persona titular de la Presidencia de la Comisión Nacional de los Derechos Humanos; y
+
+XI. Las demás que le confieran las disposiciones legales, así como aquellas que le asigne la persona titular de la Presidencia de la Comisión Nacional o el Consejo Consultivo.
 
 ###### Artículo 52.
 
@@ -943,25 +1011,29 @@ VI. Las demás que le confieran las disposiciones legales, así como aquellas qu
 
 Para el ejercicio de sus atribuciones, la Secretaría Técnica del Consejo Consultivo contará con un titular y las siguientes áreas:
 
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2017)</small>
 
-I. Vinculación Interinstitucional;
+I. Enlace y Fortalecimiento de la Sociedad Civil;
 
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2017)</small>
 
-II. Enlace y Desarrollo con Organismos No Gubernamentales;
+II. Educación en Derechos Humanos;
 
-> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 26 DE JUNIO DE 2017)</small>
 
-III. Educación y Formación en Derechos Humanos;
+III. Vinculación Interinstitucional;
 
 > <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2007)</small>
 
 IV. Vinculación con Organismos Públicos de Derechos Humanos, y
 
-> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2017)</small>
 
-V. Control Operativo.
+V. Atención al Consejo Consultivo y Control Operativo, y
+
+> <small>(ADICIONADA, D.O.F. 26 DE JUNIO DE 2017)</small>
+
+VI. De Asistencia y Logística.
 
 Además, contará con el personal profesional, técnico y administrativo autorizado en el presupuesto de la Comisión Nacional.
 
@@ -1048,6 +1120,214 @@ Las visitadurías generales conocerán de quejas por presuntas violaciones a der
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 28 DE JUNIO DE 2007)</small>
 
 La Tercera Visitaduría General coordinará las acciones de la Comisión Nacional para el ejercicio de las facultades que el Protocolo Facultativo de la Convención contra la Tortura y otros tratos o Penas Crueles, Inhumanos o Degradantes, otorga al Mecanismo Nacional de Prevención.
+
+> <small>(ADICIONADO, D.O.F. 26 DE JUNIO DE 2017)</small>
+
+###### Artículo 61 Bis.
+
+Para promover, proteger y supervisar la aplicación de la Convención sobre los Derechos de las Personas con Discapacidad, se establece el Mecanismo Independiente de Monitoreo Nacional de la Convención sobre los Derechos de las Personas con Discapacidad.
+
+El Mecanismo Independiente de Monitoreo Nacional estará integrado por las siguientes instancias:
+
+I. Un Consejo General;
+
+II. Una Comisión de Gobierno, y
+
+III. Una Dirección Ejecutiva.
+
+La persona titular de la Presidencia de la Comisión Nacional determinará la Visitaduría General a la que estará adscrito el Mecanismo Independiente de Monitoreo Nacional.
+
+> <small>(ADICIONADO, D.O.F. 26 DE JUNIO DE 2017)</small>
+
+###### Artículo 61 Ter.
+
+El Consejo General del Mecanismo Independiente de Monitoreo Nacional es el órgano de consulta, de coordinación y colaboración entre los organismos públicos de protección de los derechos humanos del país, como integrantes del Mecanismo.
+
+El Consejo General estará integrado por:
+
+a) La persona quien ocupe la Presidencia de la Comisión Nacional de los Derechos Humanos, quien lo presidirá;
+
+b) Las personas titulares de los organismos públicos de protección de los derechos humanos de las entidades federativas del país, y
+
+c) Tres representantes del Comité Técnico.
+
+El Consejo General celebrará sesiones ordinarias una vez por año y extraordinarias cuando existan temas de relevancia o urgencia y sea solicitado por su Presidente o por la mayoría de sus integrantes. Las sesiones ordinarias y extraordinarias se celebrarán, en primera convocatoria, cuando se encuentren reunidos la mayoría de sus integrantes, y en segunda convocatoria, con los miembros presentes.
+
+El Consejo General contará con una Secretaría Ejecutiva que estará a cargo de la persona titular de la Visitaduría General, a la cual esté adscrito el Mecanismo Independiente de Monitoreo Nacional, que será la encargada de realizar la convocatoria para la celebración de las sesiones del Consejo General, la que deberá realizar cuando menos dos meses antes a su celebración, con excepción de las sesiones extraordinarias, las cuales serán convocadas dentro de los quince días siguientes a que lo solicite la persona titular de la Presidencia o la mayoría de sus integrantes. La Secretaría Ejecutiva se encargará de proponer un programa anual de trabajo para el Mecanismo.
+
+Las decisiones del Consejo General se tomarán por mayoría de votos, en caso de empate su Presidente tendrá voto de calidad. La Secretaría Ejecutiva fungirá como escrutador de los votos, los cuales se emitirán de viva voz.
+
+El Consejo General tendrá las siguientes facultades:
+
+I. Expedir las bases para su funcionamiento y organización;
+
+II. Aprobar el programa anual de trabajo del Mecanismo Independiente de Monitoreo Nacional, que será sometido a su consideración por la Secretaría Ejecutiva;
+
+III. Aprobar los lineamientos de elaboración de los informes del Mecanismo Independiente de Monitoreo Nacional;
+
+IV. Proponer acciones comunes de buenas prácticas para que la promoción, protección y supervisión de los derechos humanos de las personas con discapacidad en los organismos públicos de protección de los derechos humanos, se apegue a lo establecido en la Convención sobre los Derechos de las Personas con Discapacidad;
+
+V. Recibir comunicaciones de los Organismos Públicos de Derechos Humanos, a fin de integrar un registro nacional de hechos violatorios a los derechos de las personas con discapacidad;
+
+VI. Detectar las necesidades normativas en materia de discapacidad, a nivel local o federal, para que sean sometidas, por conducto de su Presidente, a las autoridades correspondientes, a fin de fortalecer el marco regulatorio;
+
+VII. Aprobar el proyecto de informe anual de actividades del Mecanismo Independiente de Monitoreo Nacional;
+
+VIII. Formular propuestas para fortalecer las políticas públicas para el desarrollo e inclusión de las personas con discapacidad;
+
+IX. Solicitar a la Comisión de Gobierno del Mecanismo Independiente de Monitoreo Nacional coadyuvar en la elaboración de estudios e investigaciones en la materia, y
+
+X. Las demás que resulten necesarias para el cumplimiento de las obligaciones del Mecanismo Independiente de Monitoreo Nacional.
+
+> <small>(ADICIONADO, D.O.F. 26 DE JUNIO DE 2017)</small>
+
+###### Artículo 61 Quáter.
+
+La Comisión de Gobierno del Mecanismo Independiente de Monitoreo Nacional, es el órgano encargado de vigilar que el Mecanismo lleve a cabo el monitoreo de la aplicación de la Convención.
+
+La Comisión de Gobierno sesionará cada tres meses o cuando se convoque para atender los asuntos de su competencia; el quórum para que la Comisión de Gobierno pueda sesionar es de siete de sus miembros, y sólo podrá llevarse a cabo si se encuentran presentes las personas titulares de la Presidencia, la Vicepresidencia y de las Vocalías Regionales, o sus respectivos suplentes. La votación en sus acuerdos será por mayoría, y en caso de empate, tendrá voto de calidad la persona titular de la Presidencia. En todo momento se privilegiará el consenso en la toma de decisiones.
+
+La Comisión de Gobierno tendrá las siguientes funciones:
+
+I. Ejecutar y supervisar el adecuado cumplimiento de los acuerdos tomados por el Consejo General del Mecanismo;
+
+II. Monitorear mediante la Secretaría Ejecutiva la incidencia de los actos de discriminación a personas con discapacidad y demás relacionados con la seguridad de éstas, que se cometan en los diversos órdenes y niveles de gobierno del país;
+
+III. Promover los estudios necesarios y desarrollar las acciones pertinentes para la prevención y auxilio en caso de discriminación de las personas con discapacidad;
+
+IV. Informar de sus actividades al Consejo General cada vez que éste se reúna o lo solicite;
+
+V. Dar seguimiento a la aplicación de la Convención sobre los Derechos de las Personas con Discapacidad, mediante el diseño de indicadores, y
+
+VI. Las demás que resulten necesarias para el cumplimiento de las obligaciones del Mecanismo Independiente de Monitoreo Nacional.
+
+La Comisión de Gobierno del Mecanismo se integra por:
+
+a) Una Presidencia;
+
+b) Una Vicepresidencia;
+
+c) Cuatro Vocalías Regionales;
+
+d) Un Comité Técnico de Consulta, y
+
+e) Una Secretaría Ejecutiva.
+
+Los miembros de la Comisión de Gobierno señalados en los incisos a), b) y c) durarán en su encargo un periodo máximo de dos años no prorrogables. Los integrantes del Comité Técnico durarán en su encargo tres años no prorrogables.
+
+A. La persona quien ocupe la titularidad de la Presidencia de la Comisión de Gobierno será nombrada por el Pleno del Consejo General del Mecanismo, siendo siempre uno de sus integrantes, quien tendrá las siguientes funciones:
+
+I. Dar seguimiento a los acuerdos tomados en las sesiones de la Comisión de Gobierno;
+
+II. Representar a la Comisión de Gobierno ante el Consejo General del Mecanismo, y
+
+III. Velar por el cumplimiento de las disposiciones normativas que regulen la Comisión de Gobierno.
+
+B. La persona quien ocupe la titularidad de la Vicepresidencia de la Comisión de Gobierno será nombrada por el Pleno del Consejo General del Mecanismo, siendo siempre uno de sus integrantes, quien tendrá las siguientes funciones:
+
+I. Apoyar a la Presidencia de la Comisión de Gobierno en el seguimiento de los acuerdos tomados en las sesiones de la Comisión;
+
+II. Representar a la Comisión de Gobierno ante el Consejo General del Mecanismo, cuando así lo designe la Presidencia de la Comisión, y
+
+III. Velar por el cumplimiento de las disposiciones normativas que regulen la Comisión de Gobierno, informando a la Presidencia sobre posibles incumplimientos a la misma.
+
+C. La persona quien ocupe la Secretaría Ejecutiva de la Comisión de Gobierno del Mecanismo será quien ocupe la titularidad de la Dirección Ejecutiva del Mecanismo Independiente de Monitoreo Nacional y únicamente contará con voz, teniendo las siguientes funciones:
+
+I. Citar a las sesiones a los miembros de la Comisión de Gobierno, cuando menos con un mes de anticipación a la fecha de la reunión, proporcionándoles el orden del día respectivo;
+
+II. Conducir las sesiones de la Comisión de Gobierno;
+
+III. Fungir como gestor de la Comisión de Gobierno ante las distintas instancias y niveles de gobierno para ejecutar los acuerdos tomados por la Comisión de Gobierno;
+
+IV. Solicitar opinión al Comité Técnico de Consulta;
+
+V. Resguardar el archivo y registros de la Comisión de Gobierno, y
+
+VI. Las demás que sean necesarias para el cumplimiento de los fines de la Comisión de Gobierno.
+
+D. Las personas quienes ocupen la titularidad de cada una de las cuatro Vocalías Regionales serán nombradas por el Pleno del Consejo General del Mecanismo, siendo siempre integrantes del Consejo General que representen a cada región del país conforme a la siguiente clasificación:
+
+Zona Norte Zona Este Zona Zona Sur
+
+Oeste
+
+Baja California Hidalgo Aguascalientes Campeche
+
+Baja California Sur Estado de Colima Chiapas
+
+México
+
+Chihuahua Morelos Durango Guerrero
+
+Coahuila Querétaro Guanajuato Oaxaca
+
+Nuevo León San Luis Jalisco Quintana Roo
+
+Potosí
+
+Sinaloa Tlaxcala Michoacán Tabasco
+
+Sonora Puebla Nayarit Veracruz
+
+Tamaulipas Ciudad de Zacatecas Yucatán
+
+México
+
+Las Vocalías Regionales tendrán las siguientes funciones:
+
+I. Apoyar a la Secretaría Ejecutiva en sus labores a nivel regional;
+
+II. Ser el enlace del Mecanismo Independiente de Monitoreo Nacional en la región que represente durante el tiempo de su encargo;
+
+III. Recopilar y administrar la información sobre la situación de los derechos de las personas con discapacidad en la región que representen, y
+
+IV. Coadyuvar en la supervisión regional sobre la implementación de la Convención sobre los Derechos de las Personas con Discapacidad, así como la aplicación de los acuerdos que el Consejo General adopte.
+
+E. El Comité Técnico de Consulta será un cuerpo colegiado integrado por quince miembros, de los cuales diez pertenecerán a organizaciones de la sociedad civil que representen a personas con discapacidad y cinco serán expertos en materia de discapacidad, los cuales únicamente contarán con voz. La designación de los miembros se hará en términos de la Convocatoria que para tal efecto emita la Comisión Nacional.
+
+El Comité Técnico de Consulta tendrá las siguientes funciones:
+
+I. Emitir las opiniones técnicas que le solicite la Secretaría Ejecutiva de la Comisión de Gobierno del Mecanismo, incluidas aquellas relativas a la aplicación y orientación de políticas públicas para el desarrollo e inclusión de las personas con discapacidad;
+
+II. Orientar a los organismos encargados de las cuestiones relativas a la aplicación de la Convención sobre los Derechos de las Personas con Discapacidad, así como a los mecanismos de coordinación que se establezcan;
+
+III. Proponer temas específicos para la elaboración del informe y otros documentos relacionados con la supervisión de la aplicación de la Convención sobre los Derechos de las Personas con Discapacidad;
+
+IV. Promover las consultas y la participación de las personas con discapacidad en los procesos de promoción, protección y supervisión de sus derechos humanos;
+
+V. Formular propuestas de armonización legislativa con la Convención sobre los Derechos de las Personas con Discapacidad, para que sean sometidas al Consejo General del Mecanismo;
+
+VI. Ser el órgano de consulta técnica de la Comisión de Gobierno del Mecanismo;
+
+VII. Integrar los grupos de trabajo que considere procedentes para el ejercicio de sus funciones;
+
+VIII. Nombrar a las tres personas, propietarios y suplentes, que formarán parte del Consejo General, y
+
+IX. Las demás que determine el Consejo General.
+
+> <small>(ADICIONADO, D.O.F. 26 DE JUNIO DE 2017)</small>
+
+###### Artículo 61 Quinquies.
+
+La persona titular de la Dirección Ejecutiva del Mecanismo Independiente de Monitoreo Nacional de la Convención sobre los Derechos de las Personas con Discapacidad, tendrá las siguientes facultades:
+
+I. Fungir como titular de la Secretaría Ejecutiva de la Comisión de Gobierno del Mecanismo, y ejecutar sus acuerdos;
+
+II. Informar a la Visitaduría General de su adscripción sobre los casos de posibles violaciones a derechos humanos de que conozca, para que se proceda en los términos de la atención a quejas que corresponda.
+
+III. Informar de los asuntos y actuaciones que realice;
+
+IV. Atender las consultas que sobre los temas de discapacidad se formulen al Mecanismo Independiente de Monitoreo Nacional;
+
+V. Someter los proyectos de recomendaciones generales sobre la situación de los derechos de las personas con discapacidad, a fin de que se proceda en términos de la normatividad aplicable;
+
+VI. Proponer campañas de difusión para la promoción y protección de los derechos humanos de las personas con discapacidad;
+
+VII. Proponer la realización de cursos, talleres, pláticas y otras acciones en materia de promoción y protección de los derechos humanos de las personas con discapacidad, y
+
+VIII. Las demás que le asigne la persona quien ocupe la titularidad de la Presidencia del Mecanismo o la persona titular de la Visitaduría General de su adscripción.
+
+Las funciones a que se refiere el presente artículo, serán previamente informadas y acordadas con la persona titular de la Visitaduría General de su adscripción.
 
 ###### Artículo 62.
 
@@ -1521,9 +1801,9 @@ De recibirse escrito de inconformidad del quejoso sobre la forma de concluir el 
 
 (Fe pública)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE JUNIO DE 2017)</small>
 
-El Presidente de la Comisión Nacional, los Visitadores Generales, los Visitadores Adjuntos, el Coordinador General de Seguimiento de Recomendaciones y de Asuntos Jurídicos, y los titulares de las áreas a su cargo, tendrán fe pública en el desempeño de sus funciones.
+El Presidente de la Comisión Nacional, los Visitadores Generales, los Visitadores Adjuntos, el Secretario Técnico del Consejo Consultivo, el Coordinador General de Seguimiento de Recomendaciones y de Asuntos Jurídicos, y las personas titulares de las áreas a su cargo, tendrán fe pública en el desempeño de sus funciones.
 
 Se entenderá por fe pública la facultad de autenticar documentos preexistentes o declaraciones y hechos que tengan lugar o estén aconteciendo en presencia de dichos servidores públicos, sin perjuicio del valor probatorio que en definitiva se les atribuya de conformidad con las normas del artículo 41 de la Ley.
 
@@ -2137,57 +2417,43 @@ En el caso de informes especiales dirigidos a alguna autoridad, la Comisión Nac
 
 (De la imposición y ejecución de sanciones administrativas)
 
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE JUNIO DE 2017)</small>
 
-Para la imposición y ejecución de las sanciones administrativas a que hace referencia el artículo 13 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos se seguirán los siguientes criterios:
+Para la imposición y ejecución de las sanciones administrativas a que hace referencia la Ley General de Responsabilidades Administrativas, se seguirán los siguientes criterios:
 
-> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2017)</small>
 
-I. La amonestación pública o la amonestación privada serán impuestas por el Titular del Organo Interno de Control o el Titular del Area de Responsabilidades, Inconformidades y Normatividad de dicho órgano y ejecutadas por el Jefe Inmediato del servidor público sancionado;
+I. La amonestación pública o la amonestación privada serán impuestas por la persona titular del Órgano Interno de Control o por quien ocupe la titularidad del Área de Responsabilidades, Situación Patrimonial y Defensa Jurídica de dicho órgano y ejecutadas por la jefa o jefe inmediato de la persona servidora pública sancionada;
 
-> <small>(REFORMADA, D.O.F. 1 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2017)</small>
 
-II. La suspensión o destitución del puesto, será impuesta por el titular del Órgano Interno de Control o el titular del Área de Responsabilidades, Inconformidades y Normatividad, y ejecutada por el titular del órgano o unidad administrativa a la que esté adscrito el servidor público sancionado;
+II. La suspensión o destitución del empleo, cargo o comisión será impuesta por la persona titular del Órgano Interno de Control o por quien ocupe la titularidad del Área de Responsabilidades, Situación Patrimonial y Defensa Jurídica y ejecutada por la persona titular del órgano o unidad administrativa a la que esté adscrita la persona servidora pública sancionada;
 
-> <small>(REFORMADA, D.O.F. 1 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2017)</small>
 
-III. La inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público, será impuesta por el titular del Órgano Interno de Control o el titular del Área de Responsabilidades, Inconformidades y Normatividad, y ejecutada por el titular del órgano o unidad administrativa, a la que esté adscrito el servidor público sancionado, y
+III. La inhabilitación temporal para desempeñar un empleo, cargo o comisión en el servicio público, será impuesta por la persona titular del Órgano Interno de Control o por quien ocupe la titularidad del Área de Responsabilidades, Situación Patrimonial y Defensa Jurídica, y ejecutada por la persona titular del órgano o unidad administrativa a la que esté adscrita la persona servidora pública sancionada, y
 
-> <small>(REFORMADA, D.O.F. 1 DE AGOSTO DE 2013)</small>
+IV. (DEROGADA, D.O.F. 26 DE JUNIO DE 2017)
 
-IV. Las sanciones económicas serán impuestas por el titular del Órgano Interno de Control o el titular del Área de Responsabilidades, Inconformidades y Normatividad, y ejecutadas en los términos previstos en los artículos 16 fracción IV párrafo penúltimo y 30 párrafo tercero de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+> <small>(REFORMADO, D.O.F. 26 DE JUNIO DE 2017)</small>
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 1 DE AGOSTO DE 2013)</small>
-
-Para la ejecución de las sanciones administrativas, el titular del Órgano Interno de Control o el titular del Área de Responsabilidades, Inconformidades y Normatividad, deberá notificar la resolución al jefe inmediato del servidor público sancionado o al titular del órgano o unidad administrativa, según sea el caso, así como a las direcciones generales de Asuntos Jurídicos y de Recursos Humanos, respectivamente.
+Para la ejecución de las sanciones administrativas, la persona titular del Órgano Interno de Control o quien ocupe la titularidad del Área de Responsabilidades, Situación Patrimonial y Defensa Jurídica, deberá notificar la resolución a la jefa o jefe inmediato de la persona servidora pública sancionada o a la persona titular del órgano o unidad administrativa, según sea el caso, y a la Dirección General de Recursos Humanos.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 1 DE AGOSTO DE 2013)</small>
 
 A su vez, el jefe inmediato del servidor público sancionado o el titular del órgano o unidad administrativa, ejecutará dicha sanción.
 
-> <small>(ADICIONADO, D.O.F. 1 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 26 DE JUNIO DE 2017)</small>
 
-El jefe inmediato del servidor público sancionado o el titular del órgano o unidad administrativa, deberá informar al Órgano Interno de Control de la ejecución de la resolución, en un término no mayor de 3 días hábiles, mediante comunicación escrita.
-
-> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2012)</small>
+La jefa o jefe inmediato de la persona servidora pública sancionada o la persona titular del órgano o unidad administrativa, deberá informar al Órgano Interno de Control de la ejecución de la sanción, en un término no mayor de tres días hábiles, mediante comunicación escrita.
 
 ###### Artículo 177.
 
-(Sanciones por infracciones a la Ley Federal Anticorrupción)
-
-El Titular del Organo Interno de Control o el Titular del Area de Responsabilidades, Inconformidades y Normatividad podrán imponer, en términos de la Ley Federal Anticorrupción en Contrataciones Públicas, por la comisión de infracciones previstas en la misma, las siguientes sanciones:
-
-I. Inhabilitación para participar en contrataciones públicas con este Organismo Nacional conforme a lo previsto en la Ley en cita, según se trate de personas físicas o morales, misma que será ejecutada por el área contratante de esta Comisión. La resolución que determine la inhabilitación respectiva, será notificada al Oficial Mayor de la Comisión Nacional, a efecto de que éste publique en el Diario Oficial de la Federación la sanción impuesta al infractor; y
-
-II. Sanciones económicas hasta por los montos previstos en la Ley Federal Anticorrupción en Contrataciones Públicas, según se trate de personas físicas o morales, las cuales serán ejecutadas por la autoridad fiscal competente.
-
-Para tales efectos, el Oficial Mayor de la Comisión Nacional notificará a la autoridad fiscal competente la imposición de la multa, para que aquella proceda a su cobro.
-
-> <small>(REFORMADO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+(DEROGADO, D.O.F. 26 DE JUNIO DE 2017)
 
 ###### Artículo 178.
 
-En la sustanciación de los procedimientos que se instruyan ante el Tribunal Federal de Justicia Administrativa y en el Poder Judicial de la Federación, en los que el Órgano Interno de Control sea parte, como consecuencia de la aplicación de sus atribuciones, éste elaborará las promociones que sean necesarias bajo su más estricta responsabilidad, para que a través de la Coordinación General de Seguimiento de Recomendaciones y de Asuntos Jurídicos, se hagan valer toda clase de derechos, defensas, excepciones y recursos.
+(DEROGADO, D.O.F. 26 DE JUNIO DE 2017)
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
 
@@ -2197,11 +2463,11 @@ En la sustanciación de los procedimientos que se instruyan ante el Tribunal Fed
 
 ### CAPÍTULO ÚNICO
 
-> <small>(ADICIONADO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 26 DE JUNIO DE 2017)</small>
 
 ###### Artículo 179.
 
-El Presidente y los Visitadores Generales, serán suplidos, respectivamente, en términos de lo dispuesto en los artículos 20 y 55 de este Reglamento; las ausencias temporales de los titulares de las unidades administrativas a que se refiere el artículo 21 del Reglamento, así como las ausencias del personal establecido en el Manual de Organización General de la Comisión Nacional, serán suplidas por los servidores públicos de jerarquía inmediata inferior a dichos titulares, conforme al Manual de Organización de tales unidades administrativas, en los asuntos de su competencia, o atendiendo la designación que realice el Presidente para cubrir la ausencia temporal.
+La persona titular de la Presidencia y las personas titulares de las Visitadurías Generales, serán suplidas, respectivamente, en términos de lo dispuesto en los artículos 20 y 55 de este Reglamento; las ausencias temporales de las personas titulares de los demás órganos y de las unidades administrativas a que se refieren los artículos 17 y 21 del Reglamento, así como las ausencias del personal establecido en el Manual de Organización General de la Comisión Nacional, serán suplidas por las personas servidoras públicas de jerarquía inmediata inferior a dichos titulares, conforme al Manual de Organización de tales unidades administrativas, en los asuntos de su competencia, o atendiendo la designación que realice la persona titular de la Presidencia para cubrir la ausencia temporal.
 
 ## TRANSITORIOS
 
@@ -2223,7 +2489,7 @@ El Manual de Organización General de la Comisión Nacional de los Derechos Huma
 
 Ciudad de México, Distrito Federal, a doce de agosto de dos mil tres.- El Presidente de la Comisión Nacional de los Derechos Humanos y de su Consejo Consultivo, José Luis Soberanes Fernández.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.]</small>
 
 D.O.F. 3 DE ENERO DE 2005.
 
@@ -2318,3 +2584,17 @@ PRIMERO.- El presente Acuerdo deberá ser publicado en la Gaceta de la Comisión
 SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 TERCERO.- La parte conducente del Manual de Organización General de la Comisión Nacional, que refleje las modificaciones realizadas al Reglamento Interno, será expedida dentro de los tres meses siguientes a la entrada en vigor del presente Acuerdo, y deberá ser publicada en la Gaceta y en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL CONSEJO CONSULTIVO DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS MEDIANTE EL CUAL SE APRUEBA LA MODIFICACIÓN DEL REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS".]
+
+Primero. El presente Acuerdo deberá ser publicado en la Gaceta de la Comisión Nacional y en el Diario Oficial de la Federación.
+
+Segundo. Entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Tercero. La actual área de Atención a la Discapacidad de la Comisión Nacional de los Derechos Humanos se transforma en Mecanismo Independiente de Monitoreo Nacional de la Convención sobre los Derechos de las Personas con Discapacidad. En consecuencia, los recursos humanos, financieros y materiales de aquélla, pasarán a formar parte del Mecanismo.
+
+Cuarto. Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor de la Ley General de Responsabilidades Administrativas, se seguirán substanciando de conformidad con la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, así como con el Reglamento Interno de la Comisión Nacional de los Derechos Humanos en vigor hasta antes de la publicación del presente acuerdo. Los procedimientos que se inicien por hechos cometidos antes de la entrada en vigor de la Ley General de Responsabilidades Administrativas se regirán por las disposiciones sustantivas vigentes al momento de que se cometieron éstos.
+
+Quinto. El Manual de Organización General de la Comisión Nacional de los Derechos Humanos, que refleje las modificaciones realizadas al Reglamento Interno, será expedido dentro de los seis meses siguientes a la entrada en vigor del presente Acuerdo, y deberá ser publicado en la Gaceta de la Comisión Nacional y en el Diario Oficial de la Federación.
