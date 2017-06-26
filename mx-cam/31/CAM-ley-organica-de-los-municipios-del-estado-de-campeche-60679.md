@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-los-municipios-del-estado-de-campeche-60679"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-03-03"
-last_updated: "2015-12-09"
+last_updated: "2017-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2017.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el lunes 3 de marzo de 2008.
 
@@ -815,7 +815,9 @@ Los Comisarios Municipales son órganos unipersonales de elección popular direc
 
 El Ayuntamiento resolverá respecto de la creación, modificación o supresión de comisarías municipales conforme a las formalidades, procedimientos y requisitos que al efecto prevea el reglamento municipal correspondiente. En las zonas urbanas ejidales y en los centros de población que se formen en los ejidos no podrán crearse comisarías municipales.
 
-El acuerdo mediante el que se cree o suprima una Comisaría Municipal, o por el que se modifique su extensión y límites se publicará en el Periódico Oficial del Estado y entrará en vigor a los diez días del mes de octubre del año en que se celebren elecciones ordinarias para la renovación de Ayuntamientos.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+El acuerdo mediante el que se cree o suprima una Comisaría Municipal, o por el que se modifique su extensión y límites se publicará en el Periódico Oficial del Estado y entrará en vigor a los diez días del mes de noviembre del año de la celebración de las elecciones ordinarias para la renovación de Ayuntamientos.
 
 ###### ARTÍCULO 88.
 
@@ -839,11 +841,13 @@ Las faltas temporales o las definitivas de los comisarios municipales serán cub
 
 Los comisarios municipales serán electos cada tres años por los vecinos de la comisaría municipal mayores de dieciocho años. La elección se realizará conforme a la Ley de Procedimientos para la Elección de Comisarios Municipales del Estado y el reglamento municipal que conforme a ella expida el Cabildo.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 91.
 
-El día primero de noviembre del año de la elección, a las nueve horas, ante el funcionario que al efecto haya sido designado en representación del Ayuntamiento o de la Junta Municipal si la Comisaría Municipal se encontrare ubicada dentro del territorio de una Sección Municipal, los comisarios municipales electos rendirán la protesta de ley y de inmediato asumirán el ejercicio de su cargo.
+El día primero de diciembre del año de la elección para la renovación de Ayuntamientos, a las nueve horas y en sesión solemne de Cabildo, en la sede del Ayuntamiento, los comisarios municipales electos rendirán la protesta de ley y de inmediato asumirán el ejercicio de su cargo.
 
-La entrega de la oficina por el Comisario Municipal saliente al entrante y la suscripción de los documentos a que haya lugar se realizará conforme a las formalidades y procedimientos que determine el reglamento correspondiente.
+La entrega de la oficina por el Comisario Municipal saliente al entrante y la suscripción de los documentos a que haya lugar, se realizará conforme a las formalidades y procedimientos que determine el reglamento correspondiente.
 
 ### CAPÍTULO CUARTO. DE LOS AGENTES MUNICIPALES, DELEGADOS DE SECTOR, INSPECTORES DE CUARTEL Y JEFES DE MANZANA
 
@@ -2108,3 +2112,15 @@ PRIMERO.- El presente decreto entrará en vigor el 1° de enero de 2016, previa 
 SEGUNDO.- Los Ayuntamientos, a partir de la entrada en vigor de este decreto, deberán en un plazo no mayor de sesenta días, emitir el acuerdo para la creación de su Gaceta Municipal y su reglamento respectivo, en el que se incluirá sus características, contenidos y unidad administrativa encargada de su elaboración y seguimiento, de conformidad con sus capacidades presupuestales.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 26 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 156 POR EL QUE SE REFORMAN LOS ARTÍCULOS 87 PÁRRAFO SEGUNDO Y 91 DE LA LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor a los tres días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los Ayuntamientos tendrán cuarenta y cinco días a partir de la entrada en vigor del presente decreto para adecuar sus respectivos reglamentos.
+
+TERCERO.- Los comisarios municipales que se encuentren en ejercicio del cargo a la entrada en vigor del presente decreto, por única ocasión, continuarán en funciones hasta en tanto rindan protesta los nuevos comisarios municipales que resulten electos en los plazos que establecen las reformas contenidas en este decreto.
+
+CUARTO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
