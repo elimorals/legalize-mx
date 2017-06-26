@@ -4,7 +4,7 @@ identifier: "LIE"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-27"
-last_updated: "2014-08-11"
+last_updated: "2017-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIE"
 
 LEY DE INVERSIÓN EXTRANJERA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE JUNIO DE 2017.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 27 de diciembre de 1993.
 
@@ -160,13 +160,13 @@ I.- Hasta el 10% en:
 
 Sociedades cooperativas de producción;
 
-II.- Hasta el 25% en:
+II.- (DEROGADA, D.O.F. 26 DE JUNIO DE 2017)
 
-a) Transporte aéreo nacional;
+a) (DEROGADO, D.O.F. 26 DE JUNIO DE 2017)
 
-b) Transporte en aerotaxi; y
+b (DEROGADO, D.O.F. 26 DE JUNIO DE 2017)
 
-c) Transporte aéreo especializado;
+c) (DEROGADO, D.O.F. 26 DE JUNIO DE 2017)
 
 > <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -216,11 +216,17 @@ u) Servicios portuarios de pilotaje a las embarcaciones para realizar operacione
 
 v) Sociedades navieras dedicadas a la explotación comercial de embarcaciones para la navegación interior y de cabotaje, con excepción de cruceros turísticos y la explotación de dragas y artefactos navales para la construcción, conservación y operación portuaria;
 
-w) Suministro de combustibles y lubricantes para embarcaciones y aeronaves y equipos ferroviarios, y
+> <small>(REFORMADO, D.O.F. 26 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2014)</small>
+w) Suministro de combustibles y lubricantes para embarcaciones y aeronaves y equipo ferroviario;
 
-x) Radiodifusión. Dentro de este máximo de inversión extranjera se estará a la reciprocidad que exista en el país en el que se encuentre constituido el inversionista o el agente económico que controle en última instancia a éste, directa o indirectamente.
+> <small>(REFORMADO, D.O.F. 26 DE JUNIO DE 2017)</small>
+
+x) Radiodifusión. Dentro de este máximo de inversión extranjera se estará a la reciprocidad que exista en el país en el que se encuentre constituido el inversionista o el agente económico que controle en última instancia a éste, directa o indirectamente, y
+
+> <small>(ADICIONADO, D.O.F. 26 DE JUNIO DE 2017)</small>
+
+y) Servicio de transporte aéreo nacional regular y no regular; servicio de transporte aéreo internacional no regular en la modalidad de taxi aéreo; y, servicio de transporte aéreo especializado.
 
 IV.- (DEROGADA, D.O.F. 24 DE DICIEMBRE DE 1996)
 
@@ -404,7 +410,7 @@ La Secretaría tendrá un plazo máximo de treinta y cinco días hábiles para o
 
 ###### ARTICULO 21.
 
-(DEROGADO , D.O.F. 24 DE DICIEMBRE DE 1996)
+(DEROGADO, D.O.F. 24 DE DICIEMBRE DE 1996)
 
 ### Capítulo III. De la Inversión Neutra Representada por Series Especiales de Acciones
 
@@ -670,7 +676,7 @@ Segundo.- La Secretaría dará trámite a las solicitudes a que se refieren los 
 
 Tercero.- Se derogan:
 
-I. .
+I.
 
 II. Los artículos 5, fracción X, y 7, fracción IV, inciso s) de la Ley de Inversión Extranjera, y
 
@@ -1069,6 +1075,12 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. Con la entrada en vigor de este Decreto, se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
 
 Tercero. A partir del inicio de las precampañas y hasta el día de la jornada electoral, el Gobierno Federal y los gobiernos de las entidades federativas y municipios, suspenderán la distribución o sustitución de equipos receptores o decodificadores, así como los programas de entrega de televisiones digitales que realice en aquellas entidades federativas en las que se verifiquen procesos electorales durante el 2016. El Instituto Nacional Electoral verificará el cumplimiento de esta disposición y aplicará, en su caso, las sanciones correspondientes. La entrega, distribución o sustitución de equipos receptores, decodificadores, o televisores digitales en contravención a lo dispuesto en este artículo será sancionada en términos de la Ley General de Instituciones y Procedimientos Electorales.
+
+D.O.F. 26 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UN INCISO Y) A LA FRACCIÓN III DEL ARTÍCULO 7o., Y SE DEROGA LA FRACCIÓN II DEL ARTÍCULO 7o. DE LA LEY DE INVERSIÓN EXTRANJERA”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 ## TITULO CUARTO. DE LA INVERSION DE PERSONAS MORALES EXTRANJERAS
 
