@@ -4,7 +4,7 @@ identifier: "SIN-ley-del-sistema-de-medios-de-impugnacion-en-materia-109154"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-17"
-last_updated: "2016-12-28"
+last_updated: "2017-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109154&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "SIN"
 ---
 # LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL Y DE PARTICIPACION CIUDADANA PARA EL ESTADO DE SINALOA
 
+[NOTA 1: DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO QUINTO DEL DECRETO NÚMERO: 158, PUBLICADO EN EL P.O. 26 DE JUNIO DE 2017, LAS REFERENCIAS RELATIVAS A LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS SE ENTENDERÁN A LA LEY FEDERAL DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS HASTA QUE ESTE ORDENAMIENTO LEGAL SE ABROGUE EL 17 DE JULIO DE 2017.]
+
+[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
 LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2017.
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Sinaloa, el viernes 17 de julio de 2015.
 
@@ -85,7 +89,9 @@ VIII. Consejo Municipal: Los Consejos Municipales Electorales del Instituto Elec
 
 ## Título II. Del Tribunal Electoral del Estado de Sinaloa
 
-### Capítulo Único. De la organización y funcionamiento
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+### Capítulo I. De la Organización y Funcionamiento
 
 ###### Artículo 4.
 
@@ -345,11 +351,111 @@ Para que el Tribunal Electoral pueda sesionar válidamente se requerirá la pres
 
 Las funciones del Tribunal Electoral también estarán reguladas por su Reglamento Interior.
 
-### Capítulo I. De los Medios de Impugnación
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE JUNIO DE 2017)</small>
+
+### Capítulo II. Del Órgano Interno de Control
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+###### Artículo 27 Bis.
+
+El Tribunal Electoral contará con un órgano interno de control, con autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del Tribunal Electoral y de particulares vinculados con faltas graves; para sancionar aquéllas distintas a las que son competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
+
+El titular del órgano interno de control será designado por el Congreso del Estado, con el voto de las dos terceras partes de sus miembros presentes, a propuesta de instituciones públicas de educación superior, mediante los procedimientos y en los plazos que fije la Ley Orgánica del Congreso del Estado.
+
+El titular del órgano interno de control durará en su encargo seis años, y podrá ser reelecto por una sola vez. Estará adscrito administrativamente a la Presidencia y mantendrá la coordinación técnica necesaria con la Auditoría Superior del Estado.
+
+En el desempeño de su cargo, el titular del órgano interno de control se sujetará a los principios previstos en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+Artículo 27 Bis A. El titular del órgano interno de control deberá reunir los requisitos siguientes:
+
+I. Ser ciudadano mexicano, preferentemente sinaloense residente del Estado, y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+
+II. Estar inscrito en el Registro Federal de Electores y contar con credencial para votar;
+
+III. Tener más de treinta años de edad, el día de la designación;
+
+IV. No haber sido registrado como candidato, ni haber desempeñado cargo alguno de elección popular en los últimos cuatro años anteriores a la designación;
+
+V. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal en algún partido político en los últimos cuatro años anteriores a la designación;
+
+VI. No ser Secretario o Subsecretario de Estado, Fiscal General o Gobernador, a menos que se separe de su encargo con cuatro años de anticipación al día de su nombramiento;
+
+VII. No ser Magistrado del Tribunal Electoral, salvo que se haya separado del cargo tres años antes del día de la designación;
+
+VIII. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratara de robo, fraude, falsificación, abuso de confianza u otro que afecte la buena fama en el concepto público, ello lo inhabilitará para el cargo, cualquiera que haya sido la pena;
+
+IX. Contar al momento de su designación con experiencia profesional de al menos cinco años en el control, manejo o fiscalización de recursos y responsabilidades administrativas;
+
+X. Contar al día de su designación, con antigüedad mínima de cinco años, con título profesional, de nivel licenciatura, de contador público u otro relacionado en forma directa con las actividades de fiscalización, expedido por autoridad o institución legalmente facultada para ello; y
+
+XI. No pertenecer o haber pertenecido en los cuatro años anteriores a su designación a despachos de consultoría o auditoría que hubieren prestado sus servicios al Tribunal Electoral o a algún partido político.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+Artículo 27 Bis B. El titular del órgano interno de control será sujeto de responsabilidad en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado y podrá ser sancionado de conformidad con el procedimiento previsto en la normatividad aplicable.
+
+Tratándose de los demás servidores públicos adscritos al órgano interno de control serán sancionados por su titular o por el servidor público en quien delegue la facultad, en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado.
+
+El titular del órgano interno de control deberá rendir informe semestral y anual de actividades al Pleno del Tribunal Electoral, del cual remitirá copia al Congreso del Estado.
+
+El órgano interno de control deberá inscribir y mantener actualizada la información correspondiente del Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal; de todos los servidores públicos del Tribunal Electoral, de conformidad con la Ley del Sistema Anticorrupción y la Ley de Responsabilidades Administrativas, ambas del Estado y la Ley General de Responsabilidades Administrativas.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+Artículo 27 Bis C. El órgano interno de control tendrá las facultades siguientes:
+
+I. Fijar los criterios para la realización de las auditorías, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de los recursos a cargo de las áreas y órganos del Tribunal Electoral;
+
+II. Establecer las normas, procedimientos, métodos y sistemas de contabilidad y de archivo, de los libros y documentos justificativos y comprobatorios del ingreso y del gasto, así como aquellos elementos que permitan la práctica idónea de las auditorías y revisiones, que realice en el cumplimiento de sus funciones;
+
+III. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos;
+
+IV. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos del Tribunal Electoral;
+
+V. Verificar que las diversas áreas administrativas del Tribunal Electoral que hubieren recibido, manejado, administrado o ejercido recursos, lo hagan conforme a la normatividad aplicable, los programas aprobados y montos autorizados, así como, en el caso de los egresos, con cargo a las partidas correspondientes y con apego a las disposiciones legales, reglamentarias y administrativas conducentes;
+
+VI. Revisar que las operaciones presupuestales que realice el Tribunal Electoral se hagan con apego a las disposiciones legales y administrativas aplicables a estas materias;
+
+VII. Verificar las obras, bienes adquiridos o arrendados y servicios contratados, para comprobar que las inversiones y gastos autorizados se han aplicado, legal y eficientemente al logro de los objetivos y metas de los programas aprobados;
+
+VIII. Requerir a terceros que hubieran contratado bienes o servicios con el Tribunal Electoral la información relacionada con la documentación justificativa y comprobatoria respectiva, a efecto de realizar las compulsas que correspondan;
+
+IX. Solicitar y obtener la información necesaria para el cumplimiento de sus funciones. Por lo que hace a la información relativa a las operaciones de cualquier tipo proporcionada por las instituciones de crédito, les será aplicable a todos los servidores públicos del órgano interno de control del Tribunal Electoral, así como a los profesionales contratados para la práctica de auditorías, la obligación de guardar la reserva a que aluden las disposiciones normativas en materia de transparencia y acceso a la información pública;
+
+X. Investigar, calificar, y en su caso, substanciar, resolver y sancionar de conformidad con el procedimiento establecido en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado e integrar el expediente de presunta responsabilidad administrativa respecto de las denuncias que se presenten en contra de los servidores públicos del Tribunal Electoral;
+
+XI. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Tribunal Electoral, así como en el caso de cualquier irregularidad en el ejercicio del empleo, cargo o comisión de los servidores públicos del Tribunal Electoral;
+
+XII. Recibir denuncias o quejas directamente relacionadas con el uso y disposición de los ingresos y recursos del Tribunal Electoral, así como con el desempeño en sus funciones por parte de los servidores públicos del mismo y desahogar los procedimientos a que haya lugar;
+
+XIII. Efectuar visitas a las sedes físicas de las áreas y órganos del Tribunal Electoral para solicitar la exhibición de los libros y papeles indispensables para la realización de sus investigaciones, sujetándose a las formalidades respectivas;
+
+XIV. Establecer los mecanismos de orientación y cursos de capacitación que resulten necesarios para que los servidores públicos del Tribunal Electoral cumplan adecuadamente con sus responsabilidades administrativas;
+
+XV. Presentar a la aprobación del Pleno sus programas anuales de trabajo;
+
+XVI. Presentar al Pleno los informes previo y anual de resultados de su gestión, y acudir ante el mismo Pleno cuando así lo requiera el Magistrado Presidente;
+
+XVII. Participar, a través de su titular, con voz pero sin voto, en las sesiones del Pleno cuando por motivo del ejercicio de sus facultades, así lo considere necesario el Magistrado Presidente;
+
+XVIII. Intervenir en los procesos de entrega-recepción por inicio o conclusión de encargo de los servidores públicos que corresponda; y
+
+XIX. Las demás que le otorgue esta Ley, la Ley General de Responsabilidades Administrativas, la Ley de Responsabilidades Administrativas del Estado o las leyes aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+Artículo 27 Bis D. Los órganos, áreas ejecutivas y servidores públicos del Tribunal Electoral estarán obligados a proporcionar la información, permitir la revisión y atender los requerimientos que les presente el órgano interno de control, sin que dicha revisión interfiera u obstaculice el ejercicio de las funciones o atribuciones que esta Ley o las leyes aplicables les confieren.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+Artículo 27 Bis E. Los servidores públicos adscritos al órgano interno de control del Tribunal Electoral y, en su caso, los profesionales contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo del desempeño de sus facultades así como de sus actuaciones y observaciones.
 
 ## Título III. Del sistema de Medios de Impugnación
 
-### Capítulo II. De las reglas comunes aplicables a los Medios de Impugnación y de sus prevenciones generales
+### Capítulo I. De los Medios de Impugnación
 
 ###### Artículo 28.
 
@@ -387,7 +493,7 @@ Corresponde al Tribunal Electoral conocer y resolver los medios de impugnación 
 
 Las autoridades estatales y municipales, así como los ciudadanos, partidos políticos, candidatos, organizaciones y agrupaciones políticas o de ciudadanos, y todas aquellas personas físicas o morales, que con motivo del trámite, sustanciación y resolución de los medios de impugnación a que se refiere esta ley, incumplan con sus disposiciones o desacaten las resoluciones que dicte el Tribunal Electoral, serán sancionados en los términos del presente ordenamiento y demás disposiciones jurídicas aplicables.
 
-### Capítulo III. De los Plazos y Términos
+### Capítulo II. De las reglas comunes aplicables a los Medios de Impugnación y de sus prevenciones generales
 
 ###### Artículo 32.
 
@@ -403,7 +509,7 @@ Las resoluciones que se dicten en el ejercicio de esta facultad se limitarán al
 
 El Tribunal Electoral será responsable de digitalizar todas las promociones y documentos que presenten las partes, así como los acuerdos, resoluciones o sentencias y toda información relacionada con los expedientes, de acuerdo con las reglas establecidas en el Reglamento Interior del Tribunal Electoral. El expediente electrónico que se genere no tendrá ninguna implicación procesal y su difusión será realizada conforme al principio de máxima publicidad.
 
-### Capítulo IV. De los requisitos de los Medios de Impugnación
+### Capítulo III. De los Plazos y Términos
 
 ###### Artículo 34.
 
@@ -417,7 +523,7 @@ Durante los procesos electorales todos los días y horas son hábiles. Los plazo
 
 Cuando la violación reclamada en el medio de impugnación respectivo no se produzca durante el desarrollo de un proceso electoral, el cómputo de los plazos se hará contando solamente los días hábiles, debiendo entenderse como tales todos los días a excepción de los sábados, domingos y los días declarados inhábiles en términos de ley.
 
-### Capítulo V. De la Improcedencia y el Sobreseimiento
+### Capítulo IV. De los requisitos de los Medios de Impugnación
 
 ###### Artículo 37.
 
@@ -459,7 +565,7 @@ Cuando el medio de impugnación no se presente por escrito ante la autoridad u �
 
 También operará el desechamiento cuando no existan hechos y agravios expuestos o habiéndose señalado sólo hechos, de ellos no se pueda deducir agravio alguno.
 
-### Capítulo VI. De las Partes
+### Capítulo V. De la Improcedencia y el Sobreseimiento
 
 ###### Artículo 42.
 
@@ -495,7 +601,7 @@ IV. El ciudadano agraviado que promueva algún medio de impugnación fallezca o 
 
 Cuando se actualice alguno de los supuestos a que se refiere este artículo, el magistrado ponente propondrá el sobreseimiento al Pleno del Tribunal Electoral.
 
-### Capítulo VII. De la Legitimación y de la Personalidad
+### Capítulo VI. De las Partes
 
 ###### Artículo 44.
 
@@ -531,7 +637,7 @@ V. Los escritos deberán estar firmados autógrafamente.
 
 En el caso de coaliciones, la representación legal se acreditará en los términos del convenio respectivo, de conformidad con lo dispuesto en las disposiciones jurídicas aplicables.
 
-### Capítulo VIII. De las Pruebas
+### Capítulo VII. De la Legitimación y de la Personalidad
 
 ###### Artículo 48.
 
@@ -551,7 +657,7 @@ III. Las organizaciones o agrupaciones políticas o de ciudadanos, a través de 
 
 IV. Los candidatos independientes, por sí, o a través de sus representantes legítimos, entendiéndose por éstos a los que se encuentren acreditados ante los órganos del Instituto.
 
-### Capítulo I. Disposiciones Comunes
+### Capítulo VIII. De las Pruebas
 
 ###### Artículo 49.
 
@@ -645,7 +751,7 @@ La única excepción a este regla será la de pruebas supervenientes, entendién
 
 ## Título IV. Del Trámite de los Medios de Impugnación
 
-### Capítulo II. De la Sustanciación
+### Capítulo I. Disposiciones Comunes
 
 ###### Artículo 63.
 
@@ -715,7 +821,7 @@ II. Los motivos y fundamentos jurídicos que considere pertinentes para sostener
 
 III. La firma del funcionario que lo rinde.
 
-### Capítulo III. De las Sentencias
+### Capítulo II. De la Sustanciación
 
 ###### Artículo 71.
 
@@ -753,7 +859,7 @@ La Presidencia del Tribunal, a solicitud del magistrado instructor, podrá reque
 
 Asimismo, en casos extraordinarios, podrán ordenar que se realice alguna diligencia o que una prueba se perfeccione o desahogue, siempre que ello no signifique una dilación que haga jurídica o materialmente irreparable la violación reclamada, o sea un obstáculo para resolver dentro de los plazos establecidos.
 
-### Capítulo IV. De las notificaciones
+### Capítulo III. De las Sentencias
 
 ###### Artículo 74.
 
@@ -805,7 +911,7 @@ V. Solo en casos extraordinarios y mediante un acuerdo fundado y motivado el Tri
 
 Las sentencias que dicte el pleno del Tribunal Electoral serán definitivas.
 
-### Capítulo V. De la Acumulación y la Escisión
+### Capítulo IV. De las notificaciones
 
 ###### Artículo 80.
 
@@ -877,7 +983,7 @@ El partido político cuyo representante haya estado presente en la sesión del �
 
 No requerirán de notificación personal y surtirán sus efectos al día siguiente de su publicación o fijación, los actos o resoluciones que, en los términos de las leyes aplicables o por acuerdo debidamente fundado y motivado del órgano competente, deban hacerse públicas a través del Periódico Oficial o los diarios de mayor circulación local, o en lugares públicos o mediante la fijación de cédulas en los estrados de los órganos del Instituto y del Tribunal Electoral.
 
-### Capítulo VI. De la Ejecución de las Resoluciones del Tribunal Electoral y de las Medidas de Apremio y las Correcciones Disciplinarias
+### Capítulo V. De la Acumulación y la Escisión
 
 ###### Artículo 92.
 
@@ -897,7 +1003,7 @@ La Presidencia a petición del Magistrado instructor, en cualquier etapa del pro
 
 El efecto de la escisión será la sustanciación por cuerda separada de los expedientes.
 
-### Capítulo VII. De los Incidentes
+### Capítulo VI. De la Ejecución de las Resoluciones del Tribunal Electoral y de las Medidas de Apremio y las Correcciones Disciplinarias
 
 ###### Artículo 94.
 
@@ -927,7 +1033,7 @@ V. Arresto administrativo hasta por treinta y seis horas.
 
 Los medios de apremio y las correcciones disciplinarias a que se refiere el artículo anterior, serán aplicados por la Presidencia del Tribunal Electoral, de conformidad con las reglas que al efecto establezca el Reglamento Interior del Tribunal Electoral.
 
-### Capítulo I. Del Recurso de Revisión
+### Capítulo VII. De los Incidentes
 
 ###### Artículo 98.
 
@@ -1069,7 +1175,7 @@ En caso de incumplimiento de algún acuerdo de requerimiento formulado a solicit
 
 ## Título V. De los Medios de Impugnación y Procedimientos
 
-### Capítulo II. Del Recurso de Inconformidad
+### Capítulo I. Del Recurso de Revisión
 
 ###### Artículo 116.
 
@@ -1089,7 +1195,7 @@ III. Actos, acuerdos y demás resoluciones que dicte el Instituto y que afecten 
 
 IV. La resolución del Consejo General que ponga fin al procedimiento de liquidación y extinción de un partido político estatal y los actos que integren ese procedimiento que causen una afectación sustantiva al promovente.
 
-### Capítulo III. Del Recurso de Reconsideración
+### Capítulo II. Del Recurso de Inconformidad
 
 ###### Artículo 118.
 
@@ -1145,7 +1251,7 @@ IV. La relación, en su caso, que guarde el recurso con otras impugnaciones.
 
 Cuando se interponga recurso de inconformidad en contra de los cómputos distritales, municipales o estatal, el recurrente podrá solicitar que se realice el recuento total o parcial de votos en el ámbito jurisdiccional, en la forma y términos previstos en esta ley.
 
-### Capítulo IV. Del Juicio para la Protección de los Derechos Políticos del Ciudadano
+### Capítulo III. Del Recurso de Reconsideración
 
 ###### Artículo 124.
 
@@ -1175,7 +1281,7 @@ II. Al Consejo General por oficio, acompañado de copia certificada del expedien
 
 III. A la Secretaría General del Congreso, por oficio, acompañado de copia certificada del expediente y la resolución, a más tardar el día siguiente a aquel en que se dictó la resolución.
 
-### Capítulo V. Del Juicio de Participación Ciudadana
+### Capítulo IV. Del Juicio para la Protección de los Derechos Políticos del Ciudadano
 
 ###### Artículo 127.
 
@@ -1241,7 +1347,7 @@ I. Al actor que promovió el juicio y en su caso a los terceros interesados o co
 
 II. A la autoridad u órgano partidista responsable, a más tardar dentro de los dos días siguientes al en que se dictó la sentencia, por oficio acompañado de la copia certificada de la sentencia.
 
-### Capítulo VI. De la Sustanciación y Resolución del Procedimiento Sancionador Especial
+### Capítulo V. Del Juicio de Participación Ciudadana
 
 ###### Artículo 132.
 
@@ -1279,7 +1385,7 @@ VIII. Cuando el Poder Ejecutivo, el Congreso o los Ayuntamientos, emitan actos o
 
 El juicio de participación ciudadana será interpuesto ante la autoridad responsable por escrito dentro de los cinco días siguientes a aquel que se notifique o se tenga conocimiento del acto o resolución impugnado y su tramitación se sujetará a los términos previstos en esta Ley.
 
-### Capítulo VII. Del Procedimiento de Resolución Favorable
+### Capítulo VI. De la Sustanciación y Resolución del Procedimiento Sancionador Especial
 
 ###### Artículo 136.
 
@@ -1303,7 +1409,7 @@ I. Declarar la inexistencia de la violación objeto de la queja y, en su caso, r
 
 II. Declarar la existencia de la violación objeto de la queja; y en su caso, imponer las sanciones que resulten procedentes en términos de lo dispuesto en la Ley de Instituciones y Procedimientos Electorales del Estado.
 
-### Capítulo VIII. Del Procedimiento de Calificación de Elección de Gobernador
+### Capítulo VII. Del Procedimiento de Resolución Favorable
 
 ###### Artículo 138.
 
@@ -1331,7 +1437,7 @@ Una vez recibida la información de la autoridad competente e integrado el exped
 
 La petición, con los elementos contenidos en el expediente, deberá ser resuelta por el Tribunal a más tardar el miércoles previo a la jornada electoral, la cual se notificará al interesado y a los órganos del Instituto dentro de las cuarenta y ocho horas siguientes a su emisión.
 
-### Capítulo IX. El Juicio para dirimir los conflictos y diferencias laborales entre el Instituto y sus servidores
+### Capítulo VIII. Del Procedimiento de Calificación de Elección de Gobernador
 
 ###### Artículo 142.
 
@@ -1359,7 +1465,7 @@ Además de los elementos señalados, el Tribunal podrá requerir a las entidades
 
 El Tribunal en Pleno procederá, a más tardar la segunda quincena del mes de septiembre del año de la elección, a realizar la sesión de cómputo final y las declaratorias de validez de la elección y de Gobernador electo. En el mismo acto, el Pleno ordenará la entrega de la constancia de Gobernador electo y el envío de tales declaratorias al Congreso.
 
-### Capítulo Único. De las Nulidades en Materia Electoral
+### Capítulo IX. El Juicio para dirimir los conflictos y diferencias laborales entre el Instituto y sus servidores
 
 ###### Artículo 145.
 
@@ -1456,6 +1562,8 @@ Una vez notificada la sentencia, las partes dentro del término de tres días po
 Los efectos de la sentencia del Tribunal Electoral podrán ser en el sentido de confirmar, modificar o revocar el acto o resolución impugnados. En el supuesto de que la sentencia ordene dejar sin efectos la destitución del servidor del Instituto, éste último podrá negarse a reinstalarlo, pagando la indemnización equivalente a tres meses de salario más doce días por cada año trabajado, por concepto de prima de antigüedad.
 
 ## Título VI. Del Sistema de Nulidades
+
+### Capítulo Único. De las Nulidades en Materia Electoral
 
 ###### Artículo 161.
 
@@ -1658,3 +1766,23 @@ CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esqu
 QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 26 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 158 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA.”]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+Segundo. El Congreso del Estado, dentro de los 180 días siguientes a la publicación de este Decreto, iniciará los procesos de designación de los titulares de los órganos internos de control de los organismos a los que la Constitución Política del Estado de Sinaloa les otorga autonomía y que ejerzan recursos públicos del Presupuesto de Egresos de la Federación previstos en este Decreto.
+
+Lo anterior, con excepción de aquellos titulares de los órganos internos de control de los organismos a los que la Constitución Política del Estado de Sinaloa les otorga autonomía y que ejercen recursos públicos que se encontraban en funciones a la entrada en vigor del Decreto por el que se reforman, adicionan, y derogan diversas disposiciones de la Constitución Política del Estado de Sinaloa, en materia de combate a la corrupción, publicado en el Periódico Oficial "El Estado de Sinaloa" el 17 de marzo de 2017, los cuales continuarán en su encargo en los términos en los que fueron nombrados.
+
+Tercero. Los órganos de gobierno de los organismos a los que la Constitución Política del Estado de Sinaloa les otorga autonomía y que ejercen recursos públicos, tendrán un plazo de ciento ochenta días, a partir de la publicación del presente Decreto, para armonizar su normatividad interna en los términos del presente Decreto.
+
+Cuarto. Los recursos humanos, financieros y materiales que actualmente se encuentran asignados a las Contralorías, se entenderán asignados a los órganos internos de control a que se refiere el presente Decreto.
+
+Quinto. Las referencias relativas a la Ley General de Responsabilidades Administrativas se entenderán a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos hasta que este ordenamiento legal se abrogue el 17 de julio de 2017.
+
+Sexto. Los Ayuntamientos, dentro de los 180 días siguientes a la publicación de este Decreto, iniciarán los procesos de designación de los titulares de los órganos internos de control que ejerzan recursos públicos, previstos en este Decreto.
+
+Lo anterior, con excepción de aquellos titulares de los órganos internos de control de los organismos que ejercen recursos públicos que se encontraban en funciones a la entrada en vigor del Decreto por el que se reforman, adicionan, y derogan diversas disposiciones de la Constitución Política del Estado de Sinaloa, en materia de combate a la corrupción, publicado en el Periódico Oficial "El Estado de Sinaloa" el 17 de marzo de 2017, los cuales continuarán en su encargo en los términos en los que fueron nombrados.
