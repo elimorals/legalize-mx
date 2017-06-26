@@ -4,7 +4,7 @@ identifier: "LFPC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-24"
-last_updated: "2016-12-28"
+last_updated: "2017-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,9 +24,7 @@ abbreviation: "LFPC"
 
 LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE MAYO DE 2016.
-
-ÚLTIMA ACTUALIZACIÓN POR ACUERDO EXPEDIDO POR LA PROCURADURIA FEDERAL DEL CONSUMIDOR PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE JUNIO DE 2017.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 24 de diciembre de 1992.
 
@@ -969,6 +967,18 @@ III. Copia de la identificación oficial contra la cual se cotejo la firma del c
 IV. Tipo de bien o bienes empeñados y el importe de los montos empeñados.
 
 En los casos en que se presuma la comisión de un delito, a solicitud del Ministerio Público las prendas empeñadas podrán quedar en calidad de depósito en la casa de empeño sin que se pueda disponer de ellas de forma alguna, hasta en tanto no se concluya la averiguación previa. Si concluida ésta el Ministerio Público determina que existen elementos para ejercer la acción penal, la custodia de las prendas quedará sujeta a lo que en su oportunidad dicte la autoridad competente. En caso de determinar que no existen elementos para ejercer la acción penal, el Ministerio Público competente notificará a la casa de empeño para liberar el mencionado depósito.
+
+> <small>(ADICIONADO, D.O.F. 26 DE JUNIO DE 2017)</small>
+
+ARTICULO 65 TER.- Sin perjuicio de los derechos de los pasajeros establecidos en la Ley de Aviación Civil y en el contrato de transporte de pasajeros a que se refiere dicha ley, los permisionarios o concesionarios en su calidad de proveedores, deberán publicar a través de medios electrónicos o físicos, en el área de abordaje y en los módulos de atención al pasajero las causas o razones por las que los vuelos se vean demorados y poner a disposición de los consumidores toda la información relativa para la presentación de quejas o denuncias, en cada una de las terminales en donde operen, de conformidad con los lineamientos que establezca la Procuraduría.
+
+> <small>(ADICIONADO, D.O.F. 26 DE JUNIO DE 2017)</small>
+
+ARTICULO 65 TER 1.- Las disposiciones relativas a derechos de los pasajeros contenidas en la Ley de Aviación Civil, son de obligatorio cumplimiento por parte de los concesionarios o permisionarios, así como de su personal y de las agencias de viaje a cargo de las ventas de pasajes, reservas y chequeo en mostradores.
+
+Los permisionarios y concesionarios, en su calidad de proveedores, deberán informar a los consumidores, al momento de la compra del boleto y en los módulos de atención al pasajero, acerca de los términos y condiciones del servicio contratado, las políticas de compensación, así como el listado de los derechos de los pasajeros contenidos en la Ley de Aviación Civil, debiendo tener dicho listado en los puntos de atención, en los mostradores, en las centrales de reserva; así como también, a bordo de las aeronaves un ejemplar en el bolsillo de cada una de las sillas de pasajeros, o en su defecto incluir información suficiente sobre sus derechos en medios impresos con que cuenten abordo.
+
+De la misma manera, el concesionario o permisionario deberá publicar los derechos de los pasajeros de forma constante en la página de Internet del concesionario o permisionario, y la agencia de viajes, a través de un vínculo, enlace o ventana especial principal.
 
 ### Capítulo VII. De las operaciones a crédito
 
@@ -2317,3 +2327,9 @@ D.O.F. 28 DE DICIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS DE LAS OPERACIONES Y MULTAS PREVISTAS EN LA LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR PARA EL AÑO DOS MIL DIECISIETE”.]
 
 ÚNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2017.
+
+D.O.F. 26 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONAN LOS ARTÍCULOS 65 TER Y 65 TER 1 A LA LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
