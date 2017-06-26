@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-desarrollo-urbano-del-estado-de-sinaloa-40761"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-01"
-last_updated: "2017-06-09"
+last_updated: "2017-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40761&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Sinaloa, el miércoles 1 de septiembre de 2004.
 
@@ -172,6 +172,10 @@ XVII. Dictamen de impacto urbano: Es el documento mediante el cual, la secretari
 XVIII. Ejecutivo Estatal: El Gobernador Constitucional del Estado de Sinaloa;
 
 XIX. Equipamiento Urbano: El conjunto de inmuebles, instalaciones y construcciones utilizado para prestar a la población los servicios urbanos, a fin de que pueda desarrollar las actividades económicas, sociales, culturales y recreativas propias de la vida urbana;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2017)</small>
+
+XIX Bis. Institutos de Planeación: Los Institutos Municipales de Planeación, como organismos públicos descentralizados de la administración pública municipal con personalidad jurídica y patrimonios propios;
 
 XX. Infraestructura Urbana: Los sistemas y redes de organización y distribución de bienes y servicios en los centros de población;
 
@@ -379,11 +383,19 @@ XXI. Promover la organización y participación social en la formulación, ejecu
 
 XXII. Expedir de acuerdo con la presente Ley, los reglamentos en materia de desarrollo urbano que sean necesarios para regular los procesos de mejoramiento, crecimiento y conservación de los centros de población ubicados en su territorio;
 
-XXIII. Difundir permanentemente información sobre la aplicación de los planes y programas de desarrollo urbano; así como informar y orientar a los particulares acerca de los trámites sobre los permisos, licencias o autorizaciones con el fin de facilitar su gestión; y,
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2017)</small>
 
-XXIV. Las demás que les señale ésta Ley y otras disposiciones jurídicas aplicables.
+XXIII. Difundir permanentemente información sobre la aplicación de los planes y programas de desarrollo urbano; así como informar y orientar a los particulares acerca de los trámites sobre los permisos, licencias o autorizaciones con el fin de facilitar su gestión;
 
-Los Municipios ejercerán sus atribuciones en materia de desarrollo urbano a través de los ayuntamientos o con el control y evaluación de éstos.
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2017)</small>
+
+XXIV. Fomentar la profesionalización en materia de planeación y administración del desarrollo urbano municipal, mediante el apoyo para la creación y fortalecimiento de Institutos de Planeación, ya sea municipales o de zonas conurbadas; y,
+
+XXV. Las demás que les señale ésta Ley y otras disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+Los municipios ejercerán sus atribuciones en materia de desarrollo urbano a través de los ayuntamientos o con el control y evaluación de éstos. Los Institutos de Planeación auxiliarán a los Ayuntamientos en el cumplimiento de las mismas.
 
 #### Sección IV. De la Secretaría
 
@@ -457,9 +469,17 @@ I. El Consejo Estatal de Desarrollo Urbano;
 
 II. Los Consejos Municipales de Desarrollo Urbano;
 
-III. Los Comités de Desarrollo; y,
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2017)</small>
 
-IV. Los Organismos que el Estado y los Municipios crean conveniente instituir.
+III. Los Comités de Desarrollo;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2017)</small>
+
+IV. Los Organismos que el Estado y los municipios crean conveniente constituir; y,
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2017)</small>
+
+V. Los Institutos Municipales de Planeación.
 
 ###### Artículo 17.
 
@@ -589,7 +609,67 @@ El Presidente del Comité de Desarrollo será electo libremente de entre los mie
 
 El Estado y los Municipios podrán crear organismos coadyuvantes para la planeación, programación e investigación en materia de Desarrollo Urbano, cuando así lo consideren pertinente.
 
-#### Sección I. Del Plan Estatal de Desarrollo Urbano
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE JUNIO DE 2017)</small>
+
+#### Sección V. De los Institutos Municipales de Planeación
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+###### Artículo 26 Bis.
+
+En cada municipio habrá un Instituto Municipal de Planeación, previo acuerdo del Ayuntamiento.
+
+Los Institutos de Planeación deberán concertar acciones de participación reciproca para la consecución de los planes y programas de desarrollo, y proyectos, para que éstos trasciendan las administraciones municipales.
+
+Se podrán crear cuando exista una población mayor a cien mil habitantes en su territorio. Los municipios con menor número de habitantes podrán suscribir convenios con los municipios que cuenten con Institutos de Planeación para la prestación de un servicio público o el ejercicio de alguna de sus funciones de manera conjunta, de conformidad con la fracción III del artículo 109 de la Ley de Gobierno Municipal del Estado de Sinaloa.
+
+Cuando dos o más municipios tengan decretada una zona de conurbación, los municipios podrán crear, previa autorización de sus Ayuntamientos, un Instituto Metropolitano de Planeación Urbana y del Territorio. Las disposiciones aplicables a los Institutos Municipales de Planeación serán aplicables para el Instituto Metropolitano de Planeación Urbana y del Territorio.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+###### Artículo 26 Ter.
+
+Los Institutos Municipales de Planeación tendrán una Junta Directiva, estarán integrados en forma permanente por:
+
+I. Un Presidente que será el Presidente Municipal;
+
+II. Un Secretario Técnico que será el Director del Instituto de Planeación;
+
+III. Un Regidor de la Comisión de Urbanismo, Ecología y Obras Publicas del Cabildo, o sus equivalentes;
+
+IV. Un Regidor de la Comisión de Hacienda del Ayuntamiento;
+
+V. El Secretario de Desarrollo Urbano y Obras Públicas Municipales, o su equivalente;
+
+VI. 10 vocales ciudadanos;
+
+VII. Los demás que el propio Instituto de Planeación estime convenientes.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+###### Artículo 26 Quáter.
+
+Los Institutos Municipales de Planeación tendrán las siguientes atribuciones:
+
+I. Elaborar los planes y programas de desarrollo urbano del municipio o de zona conurbada, y asesorar y coadyuvar en la elaboración de los sectoriales y especiales a efecto de que sean congruentes con los planes nacional, estatal y municipal de desarrollo;
+
+II. Coordinar la evaluación, modificación y actualización de los planes y programas municipales o de zonas conurbadas con visión integral de desarrollo;
+
+III. Organizar, desarrollar y promover actividades de investigación en materia de desarrollo urbano municipal o metropolitano, de ordenamiento y administración sustentables del territorio;
+
+IV. Asesorar y coadyuvar con el Ayuntamiento en materia de planeación Integral de su desarrollo con visión de largo plazo;
+
+V. Integrar, priorizar y proponer al Ayuntamiento los proyectos estratégicos e integrales de desarrollo municipal y de desarrollo urbano del Municipio o zonas conurbadas o metropolitana y, en su caso, los relativos al ordenamiento ecológico del territorio, la protección al ambiente, el cambio climático, la prevención de riesgos u otros que se consideren estratégicos, según lo acuerde su órgano de gobierno;
+
+VI. Formular su opinión técnica sobre programas y proyectos que le presenten las autoridades de otros ámbitos de gobierno y sean inherentes a su objeto;
+
+VII. Proponer al Ayuntamiento los programas a seguir a corto, mediano y largo plazo, así como las medidas que faciliten la concurrencia y coordinación de las acciones, en materia de planeación;
+
+VIII. Formular, evaluar y aprobar los proyectos de infraestructura urbana, estructura vial, transporte, equipamiento y servicios públicos que requiera el Municipio, así como promover y dar seguimiento a la ejecución de los mismos;
+
+IX. Aportar los elementos técnicos para la elaboración de la propuesta de presupuesto de inversión para el desarrollo municipal, para el desarrollo urbano y para la protección del ambiente; y,
+
+X. Las demás necesarias para el cumplimiento de sus objetivos.
 
 ## Título Tercero. De la Planeación Urbana
 
@@ -655,7 +735,7 @@ II. Programa Estatal de Ordenamiento Territorial; y,
 
 III. Plan Regional de Desarrollo Urbano.
 
-#### Sección II. Del Programa Estatal de Ordenamiento Territorial
+#### Sección I. Del Plan Estatal de Desarrollo Urbano
 
 ###### Artículo 32.
 
@@ -701,7 +781,7 @@ IX. En general, todas aquellas acciones que contribuyan a su realización.
 
 El Plan Estatal de Desarrollo Urbano será elaborado por la Secretaría conforme a las disposiciones de la presente Ley y sus normas reglamentarias, tomando en consideración las propuestas que hagan las dependencias y entidades de la administración pública estatal y paraestatal, de los Gobiernos Municipales, así como los Consejos Estatal, Regionales y Municipales de Desarrollo Urbano.
 
-#### Sección III. Del Plan Regional de Desarrollo Urbano
+#### Sección II. Del Programa Estatal de Ordenamiento Territorial
 
 ###### Artículo 36.
 
@@ -749,7 +829,7 @@ I) Los lineamientos globales para la elaboración y ejecución de los programas.
 
 J) El establecimiento de instrumentos para la ejecución de las acciones previstas en el programa, con la participación de los sectores público, privado y social.
 
-#### Sección I. De los Programas de Ordenación de las Zonas Conurbadas con otra Entidad Federativa
+#### Sección III. Del Plan Regional de Desarrollo Urbano
 
 ###### Artículo 37.
 
@@ -819,13 +899,13 @@ VI. Una vez que entre en vigor el Decreto del Congreso del Estado que establece 
 
 VII. La constitución de una Comisión de Zona Conurbada se hará por Decreto que expida el Ejecutivo Estatal.
 
-#### Sección II. De los Programas de Ordenación de las Zonas Conurbadas en el Territorio Estatal
+#### Sección I. De los Programas de Ordenación de las Zonas Conurbadas con otra Entidad Federativa
 
 ###### Artículo 43.
 
 Los Programas que ordenen y regulen el desarrollo urbano de las zonas conurbadas donde participe el Estado y alguno de sus Municipios, con otra entidad federativa, se realizarán conforme a lo previsto en la Ley General de Asentamientos Humanos.
 
-#### Sección I. Del Plan Municipal de Desarrollo Urbano
+#### Sección II. De los Programas de Ordenación de las Zonas Conurbadas en el Territorio Estatal
 
 ###### Artículo 44.
 
@@ -863,7 +943,7 @@ I. Plan Municipal de Desarrollo Urbano; y,
 
 II. Programa Municipal de Ordenamiento Territorial.
 
-#### Sección II. Del Programa Municipal de Ordenamiento Territorial
+#### Sección I. Del Plan Municipal de Desarrollo Urbano
 
 ###### Artículo 49.
 
@@ -873,7 +953,7 @@ El Plan Municipal de Desarrollo Urbano es el documento rector que integra el con
 
 La metodología para desarrollar estos Planes Municipales de Desarrollo Urbano, tendrá como base la del Plan Estatal de Desarrollo Urbano enunciadas en los artículos 33, 34 y 35, aplicándose al territorio específico base del estudio.
 
-#### Sección I. Del Plan Director de Desarrollo Urbano
+#### Sección II. Del Programa Municipal de Ordenamiento Territorial
 
 ###### Artículo 51.
 
@@ -893,7 +973,7 @@ I. Plan Director de Desarrollo Urbano; y,
 
 II. Plan Parcial de Desarrollo Urbano.
 
-#### Sección II. Del Plan Parcial de Desarrollo Urbano
+#### Sección I. Del Plan Director de Desarrollo Urbano
 
 ###### Artículo 54.
 
@@ -947,7 +1027,7 @@ V. La regulación del crecimiento del Centro de Población; y,
 
 VI. En general, todas aquellas acciones que permitan promover los objetivos de estos planes y programas.
 
-#### Sección I. De la Aprobación del Plan Estatal de Desarrollo Urbano
+#### Sección II. Del Plan Parcial de Desarrollo Urbano
 
 ###### Artículo 58.
 
@@ -1011,7 +1091,7 @@ En caso de que los propietarios o poseedores no cumplan con las obligaciones a q
 
 ### Capítulo Sexto. De la Aprobación de los Planes y Programas de Desarrollo Urbano
 
-#### Sección II. De la Aprobación de los Programas de Ordenación de Zonas Conurbadas Interestatales
+#### Sección I. De la Aprobación del Plan Estatal de Desarrollo Urbano
 
 ###### Artículo 65.
 
@@ -1031,13 +1111,13 @@ VI. Previo a la aprobación del Programa, la Secretaría deberá dar respuesta a
 
 VII. Cumplidas las anteriores formalidades, la Secretaría enviará el Programa al Ejecutivo Estatal, para su aprobación y una vez aprobado, se ordenará su publicación en el Periódico Oficial "El Estado de Sinaloa" y su inscripción en el Registro Público de la Propiedad y del Comercio y lo editará para su difusión.
 
-#### Sección III. De la Aprobación de los Programas de Ordenación de Zonas Conurbadas Ubicadas dentro del Estado
+#### Sección II. De la Aprobación de los Programas de Ordenación de Zonas Conurbadas Interestatales
 
 ###### Artículo 66.
 
 Los Programas de Ordenación de Zonas Conurbadas interestatales se sujetarán a las disposiciones que establece la Ley General de Asentamientos Humanos y demás legislación federal aplicable.
 
-#### Sección IV. De la Aprobación de los Planes Municipales de Desarrollo Urbano
+#### Sección III. De la Aprobación de los Programas de Ordenación de Zonas Conurbadas Ubicadas dentro del Estado
 
 ###### Artículo 67.
 
@@ -1049,7 +1129,9 @@ II. La Comisión de Conurbación formulará el proyecto del Programa de Ordenaci
 
 III. Formulado el proyecto del Programa de Ordenación de Zonas Conurbadas, se informará a través de los medios de comunicación, que estará a consulta y opinión de la ciudadanía durante un plazo no menor de sesenta días naturales a partir del momento en que se encuentre disponible;
 
-IV. Las autoridades de los Municipios conurbados participarán en la elaboración, consulta y aprobación del programa en el seno de la Comisión de Conurbación;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2017)</small>
+
+IV. Las autoridades de los Municipios conurbados y el Instituto Metropolitano de Planeación Urbana y del Territorio participarán en la elaboración del programa en el seno de la Comisión de Conurbación;
 
 V. La Comisión organizará al menos una audiencia pública en cada centro de población, en la que expondrá el proyecto y recibirá las sugerencias y planteamientos de los interesados;
 
@@ -1057,7 +1139,7 @@ VI. Previo a la aprobación del Programa de Ordenación de Zonas Conurbadas, la 
 
 VII. Aprobado el Programa por el Ejecutivo Estatal y por todos los Municipios correspondientes, la Comisión de Zona Conurbada lo aprobará en definitiva y procederá a su publicación en el Periódico Oficial "El Estado de Sinaloa", e inscripción en el Registro Público de la Propiedad y del Comercio respectivo. Corresponde a la Comisión de Conurbación su edición para su difusión.
 
-#### Sección V. De la Modificación de los Planes y Programas
+#### Sección IV. De la Aprobación de los Planes Municipales de Desarrollo Urbano
 
 ###### Artículo 68.
 
@@ -1065,11 +1147,15 @@ Los Planes Municipales de Desarrollo Urbano, los Planes Directores de Desarrollo
 
 I. Los Municipios, a través del Consejo Municipal respectivo, darán aviso público del inicio del proceso de planeación y de recepción de las opiniones, planteamientos y demandas de la comunidad, a través de la publicación de las bases de la consulta en un diario de amplia circulación en el Municipio;
 
-II. Los Municipios formularán el proyecto del plan o programa;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2017)</small>
+
+II. Los Municipios formularán el proyecto del plan o programa, a través de los Institutos de Planeación;
 
 III. Formulado el proyecto del plan, se informará a través de los medios de comunicación que estará a consulta y opinión de la ciudadanía, de las organizaciones sociales y de las autoridades federales y estatales interesadas durante un plazo no menor de sesenta días naturales, a partir del momento en que el proyecto se encuentre disponible. Asimismo, antes de que inicie dicho plazo, remitirá copia del proyecto al Ejecutivo Estatal y al Consejo Municipal;
 
-IV. El Consejo Municipal organizará al menos dos audiencias públicas en las que expondrá el proyecto, recibirá las sugerencias y planteamientos de los interesados. Simultáneamente, la dependencia municipal encargada de la elaboración del plan llevará a cabo las reuniones que sean necesarias para asegurar la congruencia del mismo con la presente Ley y el Programa Estatal de Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2017)</small>
+
+IV. El Consejo Municipal organizará al menos dos audiencias públicas en las que expondrá el proyecto, recibirá las sugerencias y planteamientos de los interesados. Simultáneamente, el Instituto de Planeación llevará a cabo las reuniones que sean necesarias para asegurar la congruencia del mismo con la presente Ley y el Programa Estatal de Desarrollo Urbano;
 
 V. Los Municipios deberán dar respuesta a los planteamientos de la comunidad sobre las modificaciones al proyecto, expresando las razones del caso;
 
@@ -1085,7 +1171,7 @@ IX. Cumplidas las anteriores formalidades, el municipio aprobará el plan, lo re
 
 El Ejecutivo Estatal, por conducto de la Secretaría, podrá auxiliar a los Municipios en la elaboración de sus Planes y Programas de desarrollo urbano y de ordenamiento territorial, mediante los convenios que celebren para tal efecto.
 
-#### Sección VI. Disposiciones Comunes para los Planes y Programas
+#### Sección V. De la Modificación de los Planes y Programas
 
 ###### Artículo 70.
 
@@ -1105,7 +1191,7 @@ V. Sobrevenga otra causa de interés social que los afecte.
 
 Para la modificación de los planes o programas a que se refiere esta Ley, se seguirá el mismo procedimiento que para su aprobación.
 
-#### Sección Única. Del Registro del Sistema Estatal de Planeación Urbana
+#### Sección VI. Disposiciones Comunes para los Planes y Programas
 
 ###### Artículo 72.
 
@@ -1139,7 +1225,7 @@ Las dependencias habilitadas, al contestar la consulta, harán referencia a todo
 
 La información señalará el tipo y categoría de suelo que corresponda a la finca, lote, fraccionamiento, sector o polígono, de que se trate y los usos e intensidades que tengan atribuidos por los planes o programas de desarrollo urbano.
 
-#### Sección I. De los Tipos de Fraccionamiento
+#### Sección Única. Del Registro del Sistema Estatal de Planeación Urbana
 
 ###### Artículo 75.
 
@@ -1639,7 +1725,7 @@ El Ejecutivo Estatal, por conducto de la Secretaría y los Municipios promoverá
 
 ### Capítulo Cuarto. De los Fraccionamientos
 
-#### Sección II. De los Fraccionamientos para Uso Habitacional
+#### Sección I. De los Tipos de Fraccionamiento
 
 ###### Artículo 125.
 
@@ -1665,7 +1751,7 @@ I. En etapa única, son aquellos en los que se pretende ejecutar de forma integr
 
 II. En etapas varias, son aquellos en los que se pretende ejecutar de forma integral las obras de urbanización y las de edificación en varias etapas. Teniendo como base el proyecto general del fraccionamiento.
 
-#### Sección III. De los Fraccionamientos para Uso Industrial
+#### Sección II. De los Fraccionamientos para Uso Habitacional
 
 ###### Artículo 126.
 
@@ -1777,7 +1863,7 @@ II. Red de electrificación para uso doméstico, de acuerdo con la normatividad 
 
 III. Las demás disposiciones que en materia de urbanización establezca la normatividad vigente en el Municipio respectivo.
 
-#### Sección IV. De los Fraccionamientos para Uso Turístico
+#### Sección III. De los Fraccionamientos para Uso Industrial
 
 ###### Artículo 140.
 
@@ -1797,7 +1883,7 @@ II. Red de electrificación para uso doméstico, de acuerdo con la normatividad 
 
 III. Las demás disposiciones que en materia de urbanización establezca la normatividad vigente en el Municipio respectivo.
 
-#### Sección V. De los Fraccionamientos para Usos Mixtos
+#### Sección IV. De los Fraccionamientos para Uso Turístico
 
 ###### Artículo 142.
 
@@ -1817,7 +1903,7 @@ II. Red de electrificación para uso doméstico, de acuerdo con la normatividad 
 
 III. Las demás disposiciones que en materia de urbanización establezca la normatividad vigente en el Municipio respectivo.
 
-#### Sección VI. De los Requisitos de Urbanización
+#### Sección V. De los Fraccionamientos para Usos Mixtos
 
 ###### Artículo 144.
 
@@ -1829,7 +1915,7 @@ II. Red de electrificación para uso doméstico, de acuerdo con la normatividad 
 
 III. Las demás disposiciones que en materia de urbanización establezca la normatividad vigente en el Municipio respectivo.
 
-#### Sección VII. De las Solicitudes y Procedimientos para Autorización de Fraccionamientos
+#### Sección VI. De los Requisitos de Urbanización
 
 ###### Artículo 145.
 
@@ -1921,7 +2007,7 @@ Todas las obras de urbanización y construcciones en general que deban ser ejecu
 
 El Municipio exigirá a los solicitantes el permiso para fraccionar o para cualquier obra que afecte el desarrollo urbano de un centro poblado; un dictamen expedido por el organismo municipal correspondiente sobre la factibilidad de la obra en relación con los programas vigentes y las declaratorias de reservas, usos y destinos, si existieran.
 
-#### Sección VIII. Obligaciones de los Fraccionadores
+#### Sección VII. De las Solicitudes y Procedimientos para Autorización de Fraccionamientos
 
 ###### Artículo 154.
 
@@ -1979,7 +2065,7 @@ En cualquier momento el propietario del fraccionamiento podrá sustituir una gar
 
 Al terminarse las obras comprometidas o con autorización de la tesorería municipal se cancelará la garantía otorgada.
 
-#### Sección IX. De la Ejecución de las Obras
+#### Sección VIII. Obligaciones de los Fraccionadores
 
 ###### Artículo 160.
 
@@ -2037,7 +2123,7 @@ El Municipio y los organismos descentralizados, deberán recibir las obras de in
 
 Pasado este plazo sin que el municipio emita una resolución, operará la afirmativa ficta para la recepción del fraccionamiento, debiendo asumir la responsabilidad en la prestación de los servicios públicos municipales y el mantenimiento correspondiente. En todo caso, deberá emitir un acta de entrega recepción.
 
-#### Sección X. De las Obligaciones y Atribuciones de los Usuarios
+#### Sección IX. De la Ejecución de las Obras
 
 ###### Artículo 166.
 
@@ -2077,7 +2163,7 @@ Antes de que se agote el plazo fijado en el calendario para la ejecución de las
 
 Recibida la solicitud, la autoridad municipal resolverá en un plazo no mayor a cinco días hábiles, procediendo a notificar al fraccionador.
 
-#### Sección XI. De las obligaciones del Municipio
+#### Sección X. De las Obligaciones y Atribuciones de los Usuarios
 
 ###### Artículo 173.
 
@@ -2091,7 +2177,7 @@ Los usuarios tendrán en todo tiempo el derecho de denunciar ante la autoridad c
 
 Los usuarios tendrán obligación de contribuir proporcionalmente al sostenimiento de los servicios dentro de los plazos y condiciones que fije esta Ley y la reglamentación aplicable. Así mismo, procurarán la conservación de los árboles plantados en la vía pública y prados en los tramos que correspondan a los frentes de sus propiedades y los jardines de sus banquetas.
 
-#### Sección XII. De las Prohibiciones y Sanciones
+#### Sección XI. De las obligaciones del Municipio
 
 ###### Artículo 176.
 
@@ -2101,7 +2187,7 @@ El Municipio supervisará la administración de los servicios públicos proporci
 
 El Municipio tomará las medidas necesarias para que se aprovechen en los términos estipulados los terrenos que le han sido donados, y procederá con la participación de los vecinos a la construcción del equipamiento urbano, a cuya conservación y mejoramiento estarán obligados todos los usuarios. Estos terrenos son imprescriptibles e inalienables. Los actos de enajenación o disposición de los bienes donados a los Municipios estarán afectados de nulidad absoluta, salvo que se enajenen o donen para los fines que fueron originalmente destinados. Los servidores públicos o autoridades que enajenen, dispongan o permitan esto, para fines diferentes de aquellos para los que los terrenos fueron originalmente destinados, serán responsables personalmente del pago al Municipio y a los usuarios, independientemente de la responsabilidad penal en la que hubieren incurrido. Lo anterior será causa de separación de su empleo o cargo.
 
-#### Sección XIII. Reglas Generales
+#### Sección XII. De las Prohibiciones y Sanciones
 
 ###### Artículo 178.
 
@@ -2143,7 +2229,7 @@ En cualquier forma que queden determinadas las indemnizaciones, se levantará ac
 
 No podrá llevarse a cabo ninguna publicidad comercial en favor de los fraccionamientos, cuyo texto contenga datos o hechos falsos o tienda a exagerar la calidad de las obras a un extremo capaz de inducir al público al error y obtener en esa forma un lucro ilícito.
 
-#### Sección I. Del Sistema de Financiamiento Urbano de Acción Privada
+#### Sección XIII. Reglas Generales
 
 ###### Artículo 185.
 
@@ -2271,7 +2357,7 @@ Los Gobiernos Municipales supervisarán, controlarán y formalizarán el inicio,
 
 La Ley de Ingresos Municipal establecerá los beneficios fiscales que se otorguen a las acciones que se emprendan en los distintos sistemas de financiamiento al desarrollo urbano, conforme al interés público, el beneficio general y su objetivo social.
 
-#### Sección II. Del Sistema de Financiamiento Urbano de Acción por Colaboración
+#### Sección I. Del Sistema de Financiamiento Urbano de Acción Privada
 
 ###### Artículo 203.
 
@@ -2279,7 +2365,7 @@ La Acción Privada para el financiamiento al desarrollo urbano, se refiere a la 
 
 Las obras que se proyecten realizar mediante este sistema, deberán cumplir con las normas definidas en esta Ley, en los planes o programas de desarrollo urbano y demás ordenamientos aplicables.
 
-#### Sección III. De las Comisiones Municipales
+#### Sección II. Del Sistema de Financiamiento Urbano de Acción por Colaboración
 
 ###### Artículo 204.
 
@@ -2313,7 +2399,7 @@ Una vez autorizado por el Ayuntamiento el proyecto definitivo de urbanización d
 
 Cada propietario o poseedor estará obligado a pagar por colaboración, el importe proporcional que se le adjudique del costo de las obras aprobadas por el Ayuntamiento.
 
-#### Sección IV. De los Comités de Obras
+#### Sección III. De las Comisiones Municipales
 
 ###### Artículo 209.
 
@@ -2369,7 +2455,7 @@ El Consejo de Administración ejercerá las facultades que a la propia Comisión
 
 Las Comisiones Municipales para la realización de sus funciones se apoyarán en los Comités de Obra.
 
-#### Sección V. De los Diversos Tipos de Obras
+#### Sección IV. De los Comités de Obras
 
 ###### Artículo 215.
 
@@ -2407,7 +2493,7 @@ El Secretario llevará los libros de actas de sesiones, las que deberá autoriza
 
 El Tesorero tendrá el manejo y custodia de fondos. Su firma será mancomunada con la de algún o algunos otros miembros que el Comité señale; tendrá a su cargo los registros contables y estadísticos y los informes financieros que pondrá a consideración del propio Comité.
 
-#### Sección VI. Del Financiamiento de las Obras
+#### Sección V. De los Diversos Tipos de Obras
 
 ###### Artículo 221.
 
@@ -2423,7 +2509,7 @@ III. Obras de participación que son aquellas para cuya ejecución participan lo
 
 Las obras serán proyectadas de acuerdo con los Planes de Desarrollo Urbano y los estudios preliminares, así como los anteproyectos de dichas obras aprobadas por la comisión correspondiente, y que constituirán la base para su ejecución.
 
-#### Sección VII. De los Derechos de Cooperación para Obras Públicas
+#### Sección VI. Del Financiamiento de las Obras
 
 ###### Artículo 223.
 
@@ -2451,7 +2537,7 @@ Los Municipios en los casos que estimen pertinentes, en los términos de las dis
 
 La amortización de los créditos obtenidos para el financiamiento de las obras por cooperación, a menos que se tenga inflación mayor de dos dígitos deberá cubrirse en todo caso, conforme a las tarifas que se hubiesen señalado al iniciarse las obras, sin que se sean modificables posteriormente. En caso de inflación mayor de nueve dígitos, la comisión correspondiente, presentará al municipio, una propuesta de actualización de cuotas, debidamente justificada, para las obras que se justifique y el municipio enviará al Congreso del Estado la solicitud de revisión y aprobación en su caso, mismas que una vez aprobadas, se podrán aplicar sólo a las cuotas pendientes de pago y con referencia a las obras correspondientes.
 
-#### Sección VIII. De la Determinación y Pago de Derechos
+#### Sección VII. De los Derechos de Cooperación para Obras Públicas
 
 ###### Artículo 229.
 
@@ -2506,6 +2592,8 @@ Podrá decretarse cualquier otro sistema para cubrir el costo de las obras cuand
 ###### Artículo 238.
 
 Estarán exentos del pago de los derechos previstos por esta Ley en la medida en que demuestren estar incapacitados para ello, las personas cuyos ingresos familiares sean notoriamente insuficientes para cubrir el monto de los gravámenes, además del sostenimiento de la familia. Lo anterior, no es obstáculo para que una vez que dichas personas, se encuentren en posibilidad de cubrir gravámenes, a juicio del propio ayuntamiento o de la comisión municipal de desarrollo de centros poblados, previo estudio socioeconómico que se practique, se proceda a exigir el monto de lo adeudado, retribuyendo entonces la obligación de pagarlo el particular, debiendo procederse en consecuencia.
+
+#### Sección VIII. De la Determinación y Pago de Derechos
 
 ###### Artículo 239.
 
@@ -2808,3 +2896,29 @@ Artículo Primero. El presente Decreto de reforma entrará en vigor al día sigu
 Artículo Segundo. Se derogan todas las disposiciones jurídicas de igual o menor jerarquía que se opongan al presente Decreto.
 
 Artículo Tercero. Los Ayuntamientos de los Municipios del Estado deberán realizar las adecuaciones necesarias a sus reglamentos de construcciones, ordenamiento territorial y urbano, ecología y protección al ambiente, según corresponda, en un plazo no mayor a 60 días naturales, contados a partir del día siguiente al de la entrada en vigor del presente Decreto.
+
+P.O. 26 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 151 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Los municipios deberán constituir su Instituto Municipal de Planeación dentro de los seis meses siguientes a la entrada en vigor del presente Decreto o celebrar los convenios respectivos. Los municipios que ya cuentan con IMPLAN deberán hacer las adecuaciones a su normatividad interna conforme a lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los Ayuntamientos destinarán las aportaciones suficientes para satisfacer las necesidades de operación de los Institutos de Planeación.
+
+###### ARTÍCULO CUARTO.
+
+Los convenios, los decretos de creación o en su caso las modificaciones a los reglamentos interiores de los IMPLAN existentes deberán contener lo siguiente: aportaciones y fuentes de recursos para integrar su patrimonio, así como aquellos que se determinen para su incremento; la manera de integrar el Órgano de Gobierno y de designar a su Director General; las facultades y obligaciones del Órgano de Gobierno, señalando cuáles de dichas facultades son indelegables; y las facultades y obligaciones del Director General que tendrá la representación legal del Organismo.
+
+Asimismo, con el fin de asegurar la continuidad de las acciones de planeación, y lograr el equilibrio en materia de decisiones, se deberá definir un proceso de renovación escalonado.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas las disposiciones jurídicas de igual o menor jerarquía que se opongan al presente Decreto.
