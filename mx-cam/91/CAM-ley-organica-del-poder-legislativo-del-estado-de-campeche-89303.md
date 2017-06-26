@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-poder-legislativo-del-estado-de-campeche-89303
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-08-17"
-last_updated: "2017-06-05"
+last_updated: "2017-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 17 de agosto de 2012.
 
@@ -1005,9 +1005,11 @@ La facultad que este artículo concede al Congreso para permitir el uso de su tr
 
 ### Capítulo Noveno. De la formación de las leyes, decretos y acuerdos
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2017)</small>
+
 ###### Art. 72.
 
-Toda propuesta, iniciativa o proyecto de ley, decreto o acuerdo, que se someta a la consideración del Congreso, deberá formularse por escrito en el que se contendrá la exposición de motivos que la fundamente; a quien va dirigido; la norma jurídica que le faculta para promover la iniciativa, propuesta o proyecto; la fecha; el texto del proyecto de ley, decreto o acuerdo. El escrito deberá estar firmado por el promotor o los promotores de la propuesta, iniciativa o proyecto. Al escrito se acompañará una versión del mismo en medio electrónico.
+Toda propuesta, iniciativa o proyecto de ley, decreto o acuerdo, que se someta a la consideración del Congreso, deberá formularse por escrito en el que se contendrá la exposición de motivos que la fundamente; a quien va dirigido; la norma jurídica que le faculta para promover la iniciativa, propuesta o proyecto; la fecha; el texto del proyecto de ley, decreto o acuerdo. El escrito deberá estar firmado por el promotor o los promotores de la propuesta, iniciativa o proyecto. Al escrito se acompañará una versión en formato WORD y PDF del mismo en medio electrónico.
 
 ###### Art. 73.
 
@@ -2074,3 +2076,11 @@ P.O. 5 DE JUNIO DE 2017.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido de este decreto.
+
+P.O. 26 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 157 POR EL QUE "SE REFORMA EL ARTÍCULO 72 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor a los tres días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al contenido de este decreto.
