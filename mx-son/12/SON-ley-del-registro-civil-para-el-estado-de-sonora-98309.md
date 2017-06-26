@@ -4,7 +4,7 @@ identifier: "SON-ley-del-registro-civil-para-el-estado-de-sonora-98309"
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-09"
-last_updated: "2016-03-14"
+last_updated: "2017-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98309&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE JUNIO DE 2017.
 
 Ley publicada en la Sección VI del Boletín Oficial del Estado de Sonora, el jueves 9 de enero de 2014.
 
@@ -621,19 +621,27 @@ III. La declaración de dos testigos mayores de edad que conozcan a los pretendi
 
 IV. Un certificado suscrito por un médico titulado que asegure, bajo protesta de decir verdad, que los pretendientes no padecen sífilis, tuberculosis, síndrome de inmunodeficiencia adquirida ni enfermedad alguna crónica e incurable que sea, además, contagiosa y hereditaria;
 
-V. Copia del acta de defunción del cónyuge fallecido, si alguno de los contrayentes es viudo, y
+> <small>(REFORMADA, B.O. 26 DE JUNIO DE 2017)</small>
 
-VI. Copia de la dispensa de impedimentos, si los hubo.
+V. Copia del acta de defunción del cónyuge fallecido, si alguno de los contrayentes es viudo;
+
+> <small>(REFORMADA, B.O. 26 DE JUNIO DE 2017)</small>
+
+VI. Copia de la dispensa de impedimentos, si los hubo; y
+
+> <small>(ADICIONADA, B.O. 26 DE JUNIO DE 2017)</small>
+
+VII. Escrito firmado, bajo protesta de decir verdad, que ha recibido y comprendido la información y capacitación sobre la prevención, atención, tratamiento y posibles repercusiones penales, civiles y familiares, sobre la violencia en la familia, así como las indicaciones a dónde acudir en caso de padecerla, y las organizaciones públicas y privadas especializadas en la atención de la misma.
 
 ###### Artículo 82.
 
 El Oficial del Registro Civil a quien se presente una solicitud de matrimonio que llene los requisitos enumerados en los artículos anteriores, hará que los pretendientes y los ascendientes o tutores que deben prestar su consentimiento, reconozcan ante él y por separado, sus firmas. Las declaraciones de los testigos a que se refiere la fracción III del artículo 81 serán ratificadas, bajo protesta de decir verdad, ante el mismo Oficial del Registro Civil. Éste, cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce el certificado médico presentado.
 
+> <small>(REFORMADO, B.O. 26 DE JUNIO DE 2017)</small>
+
 ###### Artículo 83.
 
-En el lugar, día y hora designados para la celebración del matrimonio deberán estar presentes, ante el Oficial del Registro Civil, los pretendientes o su apoderado especial constituido en la forma prevenida en el artículo 34 y dos testigos por cada uno de ellos, que acrediten su identidad.
-
-Acto continuo, el Oficial del Registro Civil leerá, en voz alta, la solicitud de matrimonio, los documentos que con ella se hayan presentado y las diligencias practicadas e interrogará a los testigos acerca de si los pretendientes son las mismas personas a que se refiere la solicitud. En caso afirmativo, preguntará a cada uno de los pretendientes si es su voluntad unirse en matrimonio y si están conformes, los declarará unidos en nombre de la Ley y de la sociedad.
+En el lugar, día y hora designados para la celebración del matrimonio deberán estar presentes, ante el Oficial del Registro Civil, los pretendientes o su apoderado especial constituido en la forma prevenida en el artículo 34 y dos testigos por cada uno de ellos, que acrediten su identidad. Acto continuo el Oficial del Registro Civil leerá, en voz alta, la solicitud de matrimonio, los documentos que con ella se hayan presentado y las diligencias practicadas e interrogará a los testigos acerca de si los pretendientes son las mismas personas a que se refiere la solicitud. Una vez leído íntegramente a los contrayentes el documento a que se refiere la fracción VII del artículo que inmediatamente antecede, se les preguntará expresamente a estos si el contenido del mismo ha sido de su total comprensión y, de ser así, procederán a su firma, de parte de cada uno de ellos y si alguno de ellos no pudiere o supiere hacerlo se imprimirá su huella digital. En caso afirmativo, preguntará a cada uno de los pretendientes si es su voluntad unirse en matrimonio y si están conformes, los declarará unidos en nombre de la Ley y de la sociedad.
 
 ###### Artículo 84.
 
@@ -1082,3 +1090,19 @@ B.O. 14 DE MARZO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 26 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 149, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del 1º de enero del año 2018, previa su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los 30 días anteriores a que el presente Decreto entre en vigor, la Secretaría de la Consejería Jurídica del Gobierno del Estado con el apoyo y participación del DIF Sonora y del Instituto Sonorense de las Mujeres, deberá llevar a cabo la elaboración del documento con la información jurídica, sensible y socialmente responsable, que habrá de contener las disposiciones en torno a la prevención y atención a la violencia en la familia que se leerá a los contrayentes del matrimonio en el Estado, el cual se deberá publicar en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los 30 días posteriores a la publicación en el Boletín Oficial del Gobierno del Estado el documento con la información jurídica, sensible y socialmente responsable, que habrá de contener las disposiciones en torno a la prevención y atención a la violencia en la familia que se leerá a los contrayentes del matrimonio en el Estado, la Secretaría de la Consejería Jurídica del Gobierno del Estado con el apoyo y participación del DIF Sonora, del Instituto Sonorense de las Mujeres y la Secretaría de Gobierno, procederán a la capacitación de los Oficiales del Registro Civil en el Estado, en su carácter de encargados de autorizar los matrimonios en la entidad.
