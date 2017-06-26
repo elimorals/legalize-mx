@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-procedimientos-para-la-eleccion-de-comisarios-60081"
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-05"
-last_updated: "2008-03-05"
+last_updated: "2017-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CAM"
 ---
 # LEY DE PROCEDIMIENTOS PARA LA ELECCION DE COMISARIOS MUNICIPALES DEL ESTADO DE CAMPECHE
 
-LEY DE PROCEDIMIENTOS PARA LA ELECCION DE COMISARIOS MUNICIPALES DEL ESTADO DE CAMPECHE
+LEY DE PROCEDIMIENTOS PARA LA ELECCIÓN DE COMISARIOS MUNICIPALES DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2017.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el miércoles 5 de marzo de 2008.
 
@@ -51,13 +51,17 @@ Tienen derecho a elegir comisarios municipales todos los vecinos de la comisarí
 
 El ayuntamiento en el reglamento municipal que al efecto emita establecerá con arreglo a esta ley y la Ley Orgánica de los Municipios del Estado de Campeche las disposiciones que se requieran para la aplicación de ésta.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 3.
 
-La elección de los comisarios municipales se realizará mediante el voto de los vecinos de la comisaría municipal el penúltimo domingo del mes de octubre del año en que se hubiesen celebrado elecciones ordinarias para la renovación de ayuntamientos.
+La elección de los comisarios municipales se realizará mediante el voto de los vecinos de la comisaría municipal, el penúltimo domingo del mes de noviembre del año en que se hubiesen celebrado elecciones ordinarias para la renovación de Ayuntamientos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 4.
 
-A los diez días siguientes a la fecha de su instalación el ayuntamiento en sesión extraordinaria de cabildo aprobará la convocatoria para la elección de los comisarios municipales, respecto de la cual resolverá:
+A los diez días del mes de noviembre del año de la elección para la renovación de Ayuntamientos, en sesión extraordinaria de cabildo se aprobará la convocatoria para la elección de los comisarios municipales respecto de la cual resolverá:
 
 I. La fecha en que los vecinos de las comisarías municipales que pretendan participar como candidatos deberán solicitar su registro ante el ayuntamiento;
 
@@ -359,9 +363,11 @@ En la misma sesión a que se refiere el artículo anterior, y una vez resuelto l
 
 Concluido lo anterior, calificará la elección y procederá a declarar la validez de la misma según sea el caso, acto seguido entregará la constancia de mayoría a la fórmula que hubiese obtenido el triunfo.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 32.
 
-El primer día de noviembre del año de la elección los comisarios municipales electos rendirán la protesta de ley y asumirán el cargo conforme a lo previsto en la Ley Orgánica de los Municipios del Estado de Campeche.
+El primer día de diciembre del año de la elección para la renovación de Ayuntamientos, los comisarios municipales electos rendirán la protesta de ley y asumirán el cargo conforme a lo previsto en la Ley Orgánica de los Municipios del Estado de Campeche.
 
 ## TRANSITORIOS
 
@@ -380,3 +386,15 @@ En cumplimiento de lo dispuesto por los Artículos 48, 49 y 71 fracción XVIII d
 Dado en el Palacio del Gobierno del Estado, en San Francisco de Campeche, Campeche, a los tres días del mes de marzo del año dos mil ocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, C.P. JORGE CARLOS HURTADO VALDEZ.- EL SECRETARIO DE GOBIERNO, M. EN D. RICARDO MEDINA FARFAN. RÚBRICAS.
+
+P.O. 26 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 156 POR EL QUE “SE REFORMA EL ARTÍCULO 3; EL PÁRRAFO PRIMERO DEL ARTÍCULO 4 Y EL ARTÍCULO 32 DE LA LEY DE PROCEDIMIENTOS PARA LA ELECCIÓN DE COMISARIOS MUNICIPALES DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor a los tres días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los Ayuntamientos tendrán cuarenta y cinco días a partir de la entrada en vigor del presente decreto para adecuar sus respectivos reglamentos.
+
+TERCERO.- Los comisarios municipales que se encuentren en ejercicio del cargo a la entrada en vigor del presente decreto, por única ocasión, continuarán en funciones hasta en tanto rindan protesta los nuevos comisarios municipales que resulten electos en los plazos que establecen las reformas contenidas en este decreto.
+
+CUARTO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
