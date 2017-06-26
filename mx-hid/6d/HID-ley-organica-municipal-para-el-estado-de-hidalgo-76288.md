@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2016-12-31"
+last_updated: "2017-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2017.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -189,9 +189,17 @@ II.- Recibir educación en las instituciones públicas o privadas;
 
 III.- Acceder a los servicios públicos Municipales e instalaciones destinadas a los mismos, conforme a las disposiciones reglamentarias;
 
-IV.- Proponer a las autoridades Municipales del lugar en que residan, las iniciativas, proyectos y acciones que consideren de utilidad pública; y
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2017)</small>
 
-V.- Los demás que les concedan las Leyes, sus Reglamentos y demás disposiciones aplicables.
+IV. Proponer a las autoridades municipales del lugar en que residan, las iniciativas, proyectos y acciones que consideren de utilidad pública;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2017)</small>
+
+V.- Acceder a los mecanismos de transparencia y acceso a la información pública municipal; y
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2017)</small>
+
+VI.- Los demás que les concedan las leyes, sus reglamentos y demás disposiciones aplicables.
 
 ###### ARTÍCULO 19.
 
@@ -293,9 +301,11 @@ Además, donde existan comunidades de familias de migrantes, para evitar la desi
 
 ### CAPÍTULO TERCERO. DE LA TRANSPARENCIA MUNICIPAL
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 26.
 
-Los Ayuntamientos como sujetos obligados, de acuerdo con la Ley de Transparencia y Acceso a la Información Pública Gubernamental para el Estado de Hidalgo, deberán preservar sus documentos en archivos administrativos actualizados y publicarán a través de los medios electrónicos disponibles, la información completa y actualizada sobre sus indicadores de gestión y el ejercicio de los recursos públicos, atendiendo en todo momento lo preceptuado por el artículo 6 de la Constitución Política de los Estados Unidos Mexicanos, el 4-bis de la Constitución Política del Estado y la Ley de Transparencia mencionada.
+Los Ayuntamientos como sujetos obligados, de acuerdo con la Ley de Transparencia y Acceso a la Información Pública para el Estado de Hidalgo, deberán preservar sus documentos en archivos administrativos actualizados y publicarán a través de los medios electrónicos disponibles, la información completa y actualizada sobre sus indicadores de gestión y el ejercicio de los recursos públicos, atendiendo en todo momento lo preceptuado por el artículo 6 de la Constitución Política de los Estados Unidos Mexicanos, el 4-bis de la Constitución Política del Estado y la Ley de Transparencia mencionada.
 
 ### CAPÍTULO CUARTO. DE LA PARTICIPACIÓN CIUDADANA
 
@@ -697,13 +707,17 @@ y).- Designar al Regidor o Regidores que deban suplir al Presidente Municipal y 
 
 z).- Asumir las facultades y obligaciones derivadas de la Ley de Deuda Pública, particularmente para el efecto de contraer obligaciones o celebrar empréstitos o créditos que deriven del crédito público y que, en términos de la Ley de la materia, constituyan deuda pública, así como lo relativo a su administración, registro y control.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2017)</small>
 
-aa).- Instrumentar y articular, en concordancia con la política nacional y estatal, la política municipal orientada a erradicar la violencia contra las mujeres y el logro de la igualdad sustantiva entre mujeres y hombres; y
+aa).- Instrumentar y articular, en concordancia con la política nacional y estatal, la política municipal orientada a erradicar la violencia contra las mujeres y el logro de la igualdad sustantiva entre mujeres y hombres;
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2017)</small>
 
-bb).- Incorporar la perspectiva de género en los planes, programas y acciones municipales.
+bb).- Incorporar la perspectiva de género en los planes, programas y acciones municipales; y
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+cc).- Vigilar y promover el cumplimiento de las obligaciones de Transparencia y Acceso a la Información Pública, conforme a la Ley en la materia.
 
 II.- Asimismo, podrán:
 
@@ -1097,19 +1111,27 @@ XII.- Asistir a los remates públicos que se verifiquen, en los que tenga inter�
 
 XIII.- Tramitar las expropiaciones que por causa de utilidad pública fueren necesarias, por los medios que estimen convenientes y previa autorización del Ayuntamiento;
 
-XIV.- Dar cuenta al Presidente y al Ayuntamiento del arreglo definitivo que se hubiese logrado en los asuntos y del estado que guarden los mismos, a fin de dictar las providencias necesarias; y
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2013)</small>
+XIV.- Dar cuenta al Presidente y al Ayuntamiento del arreglo definitivo que se hubiese logrado en los asuntos y del estado que guarden los mismos, a fin de dictar las providencias necesarias;
 
-XV.- Presentar ante la Auditoría Superior del Estado, su declaración patrimonial inicial, dentro de los sesenta días hábiles siguientes a la toma de posesión; de modificación anual, durante el mes de mayo de cada año; y de conclusión de encargo, dentro de los treinta días hábiles siguientes a ésta; y
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2017)</small>
 
-> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2013)</small>
+XV.- Presentar ante la Auditoría Superior del Estado, su declaración patrimonial inicial, dentro de los sesenta días hábiles siguientes a la toma de posesión; de modificación anual, durante el mes de mayo de cada año; y de conclusión de encargo, dentro de los treinta días hábiles siguientes a ésta;
 
-XVI.- Las demás que le concedan o le impongan la Ley, los reglamentos y acuerdos del Ayuntamiento.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2017)</small>
+
+XVI.- Revisar el cumplimiento de las obligaciones de Transparencia y Acceso a la Información Publica conforme a la Ley en la materia; y
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2017)</small>
+
+XVII.- Las demás que le concedan o le impongan la Ley, los reglamentos y acuerdos del Ayuntamiento.
 
 Los Síndicos concurrirán a las sesiones del Ayuntamiento, con voz y voto; percibirán su dieta de asistencia que señale el presupuesto de egresos del Municipio y no podrán, en ningún caso, desempeñar cargos, empleos o comisiones remuneradas en la Administración Pública Municipal.
 
-Cuando en el Municipio de que se trate existan dos Síndicos, uno jurídico y el otro hacendario, al primero le corresponderán las facultades signadas en las fracciones I, II, III, VII, VIII, IX, XII, XIII y XIV; al segundo, las contenidas en las fracciones IV, V, VI, X y XI.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+Cuando en el municipio de que se trate existan dos Síndicos, uno jurídico y el otro hacendario, al primero le corresponderán las facultades signadas en las fracciones I, II, III, VII, VIII, IX, XII, XIII, XIV y XVI; al segundo, las contenidas en las fracciones IV, V, VI, X y XI.
 
 ###### ARTÍCULO 68.
 
@@ -1237,19 +1259,23 @@ l).- De adultos Mayores;
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
-m) De Medio Ambiente;
+m).- De Medio Ambiente;
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2015)</small>
 
-n) De Desarrollo Económico;
+n).- De Desarrollo Económico;
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2017)</small>
 
-ñ) De Atención a Pueblos y Comunidades Indígenas; y
+ñ).- De Atención a Pueblos y Comunidades Indígenas;
 
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2017)</small>
 
-o) De Desarrollo Agropecuario.
+o).- De Desarrollo Agropecuario; y
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+p).- De Transparencia y Acceso a la Información Pública.
 
 II.- Serán especiales, las que designe el Ayuntamiento, de acuerdo con las necesidades del Municipio.
 
@@ -3168,3 +3194,9 @@ P.O. 31 DE DICIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 26 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA REFORMA (SIC) DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo
