@@ -4,7 +4,7 @@ identifier: "HID-ley-que-crea-el-instituto-hidalguense-de-la-infraestructura-643
 country: "mx"
 rank: "ley"
 publication_date: "2008-10-27"
-last_updated: "2015-03-23"
+last_updated: "2017-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64317&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY QUE CREA EL INSTITUTO HIDALGUENSE DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2016.
 
 Ley publicada en el Número 44 del Periódico Oficial del Estado de Hidalgo, el lunes 27 de octubre de 2008.
 
@@ -73,7 +73,9 @@ El Instituto Hidalguense de la Infraestructura Física Educativa tendrá por obj
 
 I. Fungir como un organismo con capacidad normativa, de consultoría y certificación de la calidad de la infraestructura física educativa del Estado, en términos de la Ley de Educación para el Estado de Hidalgo y demás disposiciones aplicables;
 
-II. Establecer lineamientos para que la infraestructura física educativa del Estado cumpla requisitos de calidad, seguridad, funcionalidad, oportunidad, equidad, sustentabilidad y pertinencia, de acuerdo con la política educativa determinada, con base en lo establecido en la Ley y los programas educativos estatales;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2016)</small>
+
+II. Establecer lineamientos para que la infraestructura física educativa del Estado cumpla requisitos de calidad, seguridad, funcionalidad, oportunidad, equidad, sustentabilidad, pertinencia y oferta suficiente de agua potable para consumo humano, de acuerdo con la política educativa determinada, con base en lo establecido en la Ley y los programas educativos estatales;
 
 III. Actuar como una instancia asesora en materia de prevención y atención de daños ocasionados por desastres naturales, tecnológicos o humanos en el sector educativo;
 
@@ -145,7 +147,9 @@ XIX. Realizar la supervisión en materia de ejecución de obra de la infraestruc
 
 XX. Coordinar las actividades derivadas de la prevención y atención de daños causados a la infraestructura física educativa estatal por desastres naturales, tecnológicos o humanos;
 
-XXI. Desarrollar programas de investigación y desarrollo en materia de infraestructura de nuevos sistemas constructivos y proyectos arquitectónicos; diseño de mobiliario y equipo, así como la incorporación de técnicas y materiales de vanguardia y tradicionales, ecológicos, regionales, económicos y de seguridad de acuerdo con las directrices de política educativa;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2016)</small>
+
+XXI. Desarrollar programas de investigación y desarrollo en materia de infraestructura de nuevos sistemas constructivos y proyectos arquitectónicos; diseño de mobiliario y equipo, así como la incorporación de tecnologías sustentables, manejo responsable del agua, tanto pluvial como suministrada, técnicas y materiales de vanguardia y tradicionales, ecológicos, regionales, económicos y de seguridad de acuerdo con las directrices de política educativa;
 
 XXII. Celebrar convenios de investigación, desarrollo e intercambio de tecnología en materia de infraestructura física educativa con organismos e instituciones académicas;
 
@@ -510,3 +514,9 @@ TERCERO. El Organismo Público a que se refiere este Decreto, subsiste con la pe
 CUARTO. Se ordena la inscripción del presente documento en el Registro Público de Organismos Descentralizados en términos de lo que establece la Ley de Entidades Paraestales y su Reglamento.
 
 QUINTO. El Organismo expedirá su estatuto orgánico, dentro del término de 90 días hábiles a partir de la entrada en vigor del presente decreto.
+
+P.O. 26 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 189 QUE REFORMA LOS ARTÍCULOS 3 Y 5 DE LA LEY QUE CREA EL INSTITUTO HIDALGUENSE DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA".]
+
+ÚNICO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo
