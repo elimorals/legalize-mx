@@ -4,7 +4,7 @@ identifier: "HID-ley-de-fomento-para-la-lectura-y-el-libro-del-estado-de-89283"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-27"
-last_updated: "2013-08-19"
+last_updated: "2017-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 27 de agosto de 2012.
 
@@ -45,7 +45,9 @@ SEGUNDO.- El asunto de cuenta, se registró en los Libros de Gobierno de las Pri
 
 Por lo que, en mérito de lo expuesto; y
 
-CONSIDERANDO...
+CONSIDERANDO
+
+[...]
 
 POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -71,7 +73,9 @@ La presente Ley tiene por objeto:
 
 I.- Fomentar y promover la lectura, la escritura y las bibliotecas.
 
-La lectura es un derecho cultural esencia para mejorar los niveles educativos, técnicos y científicos de la población, apoyar la creación y transmisión de conocimientos, el desarrollo cultura (sic) de la nación y la circulación de información en el marco de una sociedad democrática, diversa, equitativa y próspera. Es fundamental para la creación artística y literaria y para la formación y diversidad de las culturas, así como para la recreación y tiene un efecto directo sobre la productividad de la sociedad y el desarrollo económico. Por ello, el Estado garantizará el aprendizaje de la lectura y la escritura, el desarrollo permanente de las competencias de la lectura y escritura que la sociedad del conocimiento requiere, facilitará el acceso de todos los miembros de la comunidad a la información y a la producción cultural y fomentará el uso creativo de la lectura y la escritura, de manera sostenida, por los miembros de la misma;
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+La lectura es un derecho cultural para mejorar los niveles educativos, técnicos y científicos de la población, apoyar la creación y transmisión de conocimientos, el desarrollo cultura (sic) de la nación y la circulación de información en el marco de una sociedad democrática, diversa, equitativa y próspera. Es fundamental para la creación artística y literaria y para la formación y diversidad de las culturas, así como para la recreación y tiene un efecto directo sobre la productividad de la sociedad y el desarrollo económico. Por ello, el Estado garantizará el aprendizaje de la lectura y la escritura, el desarrollo permanente de las competencias de la lectura y escritura que la sociedad del conocimiento requiere, facilitará el acceso de todos los miembros de la comunidad a la información y a la producción cultural y fomentará el uso creativo de la lectura y la escritura, de manera sostenida, por los miembros de la misma;
 
 II.- Contribuir a erradicar los distintos grados de analfabetismo presentes en diversos grupos poblacionales del Estado de Hidalgo;
 
@@ -173,9 +177,13 @@ Son autoridades encargadas de la aplicación de la presente Ley en el ámbito de
 
 A.- El Ejecutivo Estatal, a través de la Secretaría de Educación Pública.
 
-B).- La Secretaría de Turismo y Cultura, a través del Consejo Estatal para la Cultura y las Artes y;
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2017)</small>
 
-C).- Los Gobiernos municipales.
+B).- La Secretaría de Cultura, a través del Consejo Estatal para la Cultura y las Artes; y
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+C).- Los Ayuntamientos.
 
 ###### Artículo 7.
 
@@ -363,6 +371,10 @@ El Consejo Estatal para el Fomento de la Lectura y el Libro se regirá, además 
 
 En todo libro editado en Hidalgo, deberán constar los siguientes datos: título de la obra, nombre del autor, editor, número de la edición, lugar y fecha de la impresión, nombre y domicilio del editor en su caso; ISBN y código de barras. El libro que no reúna estas características no gozará de los beneficios fiscales y de otro tipo que otorguen las disposiciones jurídicas en la materia.
 
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+La Secretaría de Cultura fomentará la edición, producción y difusión de libros y materiales accesibles para personas con discapacidad.
+
 ###### Artículo 18.
 
 Toda persona física o moral que edite o importe libros estará obligada a fijar un precio de venta al público para los libros que edite o importe.
@@ -398,6 +410,10 @@ En toda unidad territorial municipal o su equivalente, deberá existir al menos 
 ###### Artículo 23.
 
 La biblioteca pública garantizará el acceso amplio y gratuito a la lectura, en todas sus formas y tecnologías, y en las diversas lenguas de la nación, a toda la población, en particular a la que haga parte de grupos que, por razones culturales, económicas, sociales o de discapacidad, hayan sufrido alguna forma de exclusión o discriminación. Igualmente, debe servir de lugar de encuentro de la comunidad, de espacio para la promoción de la cultura en todas sus formas, y de entidad promotora de la conservación y divulgación del patrimonio cultural local.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+La Secretaría de Cultura deberá de adecuar progresivamente las instalaciones, los acervos y materiales para garantizar a las personas con discapacidad, la accesibilidad y uso de las bibliotecas, salas de lectura y servicios de información, y las demás que sea (sic) análogas a las anteriores que le permitan garantizar el uso y disfrute universal de las bibliotecas públicas.
 
 > <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2013)</small>
 
@@ -484,3 +500,9 @@ P.O. 19 DE AGOSTO DE 2013.
 PRIMERO. El Presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a esta Ley.
+
+P.O. 26 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 191 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES A LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DEL ESTADO DE HIDALGO”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
