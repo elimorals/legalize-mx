@@ -4,7 +4,7 @@ identifier: "SON-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-del-63502
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-25"
-last_updated: "2017-05-11"
+last_updated: "2017-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE JUNIO DE 2017.
 
 Ley publicada en la Sección VIII del Boletín Oficial del Estado de Sonora, el jueves 25 de septiembre de 2008.
 
@@ -173,8 +173,6 @@ XLII.- Preservación: El conjunto de políticas y medidas para mantener las cond
 
 XLIII.- Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
 XLIII BIS.- Procuraduría: La Procuraduría Ambiental del Estado de Sonora;
@@ -239,15 +237,11 @@ Las atribuciones en las materias objeto de esta ley serán ejercidas por el Esta
 
 La distribución de competencias en materia forestal se establece en la Ley de Fomento para el Desarrollo Forestal Sustentable del Estado de Sonora.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 6°.
 
 Las atribuciones que esta ley otorga al Estado, serán ejercidas por el Ejecutivo Estatal, a través de la Comisión o de la Procuraduría, según corresponda a su ámbito de competencia, salvo las que directamente le correspondan a él por disposición expresa de la ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
@@ -699,8 +693,6 @@ II.- No impliquen incremento alguno en el nivel de impacto o riesgo ambiental, e
 
 En los casos referidos en las dos fracciones anteriores, los interesados deberán dar aviso a la Comisión o al Ayuntamiento, según corresponda, cinco días antes de la realización de dichas acciones.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 29.
@@ -765,8 +757,6 @@ La Comisión y los ayuntamientos sólo evaluarán y otorgarán validez a los tra
 
 #### SECCIÓN VII. DE LA INVESTIGACIÓN, EDUCACIÓN Y CULTURA ECOLÓGICA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 36.
@@ -784,8 +774,6 @@ Todos los habitantes tienen derecho a la educación ambiental, al acceso a la in
 El Estado y los ayuntamientos promoverán la incorporación de contenidos de carácter ecológico en el sistema educativo estatal, especialmente en los niveles básico y medio superior. Asimismo, fomentarán la realización de acciones de concientización y cultura ecológicas que propicien el fortalecimiento de la educación ambiental de la población.
 
 La Comisión en coordinación con la Secretaría de Educación y Cultura establecerán un conjunto de recomendaciones y directrices tendientes a que las autoridades e instituciones educativas y culturales, públicas y privadas, introduzcan en los procesos educativos formales y no formales, así como en los sistemas de capacitación de la administración pública y empresariales y en los medios de comunicación, contenidos y metodologías para el desarrollo en la población de conocimientos, hábitos de conducta y actitudes orientados a favorecer las transformaciones necesarias para alcanzar el desarrollo sustentable, así como la conservación y restauración de los recursos naturales.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
@@ -843,7 +831,61 @@ Los costos de las auditorías, así como los gastos generados por la ejecución 
 
 La Comisión y los ayuntamientos promoverán la celebración de los convenios respectivos con el propósito de que las auditorías ambientales que se realicen en el Estado en los términos de esta Sección, se desarrollen en coordinación con las dependencias y entidades de las administraciones públicas federal, estatal y municipales, para que éstas, de forma conjunta o indistinta, reconozcan y estimulen los resultados que se obtengan de las mismas.
 
-#### SECCIÓN I. DISPOSICIONES GENERALES
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, B.O. 26 DE JUNIO DE 2017)</small>
+
+#### SECCIÓN IX. DE LA EVALUACIÓN DE LA POLÍTICA AMBIENTAL
+
+> <small>(ADICIONADO, B.O. 26 DE JUNIO DE 2017)</small>
+
+ARTÍCULO 45 BIS.- Es obligación del Poder Ejecutivo Estatal, a través de la CEDES, evaluar los programas y las políticas públicas que implemente en la materia de esta Ley. Para cumplir con este propósito, la CEDES conformará un sistema de indicadores que permita medir los impactos y resultados alcanzados. Será obligación del Poder Ejecutivo Estatal y la CEDES considerar estas evaluaciones en el diseño y planeación de políticas públicas y programas en materia de medio ambiente y desarrollo sustentable.
+
+El sistema de indicadores, que deberá, considerar al menos los siguientes parámetros:
+
+a).- Nombre de cada indicador.
+
+b).- Objetivo de cada indicador.
+
+c).- Alineación con los planes nacional y estatal de desarrollo.
+
+d).- Unidad de medida.
+
+e).- Año base del que se parte.
+
+f).- Meta a cumplir: Se establecerán metas a corto, mediano y largo plazos, considerando metas a cumplir durante el sexenio y para periodos más largos de tiempo.
+
+g).- Descripción y método de cálculo.
+
+h).- Periodicidad de emisión de los resultados.
+
+i).- Ámbito del indicador: Estatal y/o municipal.
+
+j).- Fuentes para la obtención de datos.
+
+A continuación se señalan indicadores que mínimamente comprenderá el citado sistema, pudiéndose incluir otros que el Poder Ejecutivo Estatal o la CEDES considere convenientes:
+
+a).- Reducción de niveles de contaminación del aire, agua y tierra.
+
+b).- Incremento en el nivel de utilización de energías limpias y renovables para el consumo doméstico, industrial y gubernamental.
+
+c).- Reducción de emisión de gases de efecto invernadero por uso de combustibles fósiles.
+
+d).- Incremento en la producción de biogás a partir de desechos.
+
+e).- Incremento en el volumen de tratamiento de aguas residuales.
+
+f).- Reducción de superficies sujetas a riesgos por manejo de materiales y residuos peligrosos o tóxicos.
+
+g).- Reducción de superficies afectadas por incendios, plagas o enfermedades.
+
+h).- Incremento de superficies restauradas o rehabilitadas para la vegetación natural y suelos.
+
+I).- Incremento de superficies destinada a la conservación de la vida silvestre.
+
+j).- Incremento de superficies con ordenamientos ecológicos o programas de desarrollo urbano con criterios de cambio climático.
+
+k).- Incremento en la generación de empleos verdes, los cuales son aquellos relacionados con cualquier tipo de actividad productiva que protegen y benefician al medio ambiente o aprovechan sustentablemente los recursos naturales mediante sus procesos productivos, la producción de bienes finales y acciones de prevención o disminución del daño ambiental.
+
+El sistema de indicadores, así como los resultados obtenidos, serán publicados en la página oficial en internet de la CEDES.
 
 ## TÍTULO TERCERO
 
@@ -851,7 +893,7 @@ DE LA PRESERVACIÓN, CONSERVACIÓN Y ADMINISTRACIÓN DE LA BIODIVERSIDAD.
 
 ### CAPÍTULO I. DE LOS TIPOS Y CARACTERÍSTICAS DE LAS ÁREAS NATURALES PROTEGIDAS
 
-#### SECCIÓN II. DE LAS DECLARATORIAS PARA EL ESTABLECIMIENTO, CONSERVACIÓN, ADMINISTRACIÓN, DESARROLLO Y VIGILANCIA DE LAS ÁREAS NATURALES PROTEGIDAS
+#### SECCIÓN I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 46.
 
@@ -899,15 +941,11 @@ En el establecimiento, administración y manejo de las áreas naturales protegid
 
 La Comisión y los ayuntamientos podrán promover ante el Gobierno Federal el reconocimiento de las áreas naturales protegidas que se establezcan de conformidad con esta ley, con el propósito de compatibilizar los regímenes de protección correspondientes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 51.
 
 La Comisión constituirá un Comité Estatal de Áreas Naturales Protegidas, que estará integrado por representantes de la misma, de la Procuraduría, de otras dependencias y entidades del Estado y de los municipios relacionadas con la materia ambiental, y, a invitación de la Comisión, por representantes de la administración pública federal; así como por representantes de instituciones académicas y centros de investigación, agrupaciones de productores y empresarios, organizaciones no gubernamentales y de otros organismos de carácter social o privado, y personas físicas de reconocido prestigio en la materia.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
@@ -915,7 +953,7 @@ El Comité fungirá como órgano de consulta y apoyo de la Comisión, la Procura
 
 El Comité podrá invitar a sus sesiones a representantes de los gobiernos municipales que no estén representados en el Comité, cuando se trate de áreas naturales protegidas de competencia estatal que se encuentren dentro de su territorio. Así mismo, podrá invitar a representantes de ejidos, comunidades, propietarios, poseedores y, en general, a cualquier persona cuya participación sea necesaria conforme al asunto que en cada caso se trate.
 
-#### SECCIÓN III. DE LAS ÁREAS DE CONSERVACIÓN
+#### SECCIÓN II. DE LAS DECLARATORIAS PARA EL ESTABLECIMIENTO, CONSERVACIÓN, ADMINISTRACIÓN, DESARROLLO Y VIGILANCIA DE LAS ÁREAS NATURALES PROTEGIDAS
 
 ###### ARTÍCULO 52.
 
@@ -1027,8 +1065,6 @@ La Comisión y los ayuntamientos, en el ámbito de sus respectivas competencias,
 
 Los núcleos agrarios, pueblos indígenas y demás propietarios o poseedores de los predios en los que se pretendan desarrollar las obras o actividades anteriormente señaladas tendrán preferencia para obtener los permisos, concesiones y autorizaciones respectivos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 63.
@@ -1053,8 +1089,6 @@ Será nulo todo acto, convenio o contrato que contravenga lo establecido en la m
 
 Los ingresos que la Comisión perciba por concepto del otorgamiento de permisos, autorizaciones y licencias en materia de áreas naturales protegidas, se destinarán al Fondo Ambiental Estatal a que se refiere el artículo 190 de esta ley, y se aplicarán en la preservación y restauración ecológicas de las áreas que los hubieren generado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 66.
@@ -1067,7 +1101,7 @@ La Comisión, la Procuraduría y los ayuntamientos, en el ámbito de sus respect
 
 La Comisión, con la participación de los ayuntamientos, integrará el Registro Estatal de Áreas Naturales Protegidas, en el que deberán inscribirse las declaratorias de áreas naturales protegidas, sus modificaciones y los datos de las inscripciones de éstas en el Registro Público de la Propiedad.
 
-#### SECCIÓN I. DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DE LA ATMÓSFERA
+#### SECCIÓN III. DE LAS ÁREAS DE CONSERVACIÓN
 
 ###### ARTÍCULO 68.
 
@@ -1139,8 +1173,6 @@ Una vez recibida la solicitud para el establecimiento de un área de conservaci�
 
 La resolución de dicha solicitud se emitirá en los términos que se prevean en el reglamento respectivo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 73.
@@ -1152,8 +1184,6 @@ La Comisión en coordinación con la Procuraduría, podrá llevar a cabo accione
 La Comisión podrá prorrogar la vigencia de los certificados de reconocimiento hasta por un plazo igual al autorizado originalmente, cuando así lo soliciten sus titulares con una anticipación mínima de dos meses previos a su vencimiento, y siempre que hayan cumplido con los términos y obligaciones establecidos en el mismo.
 
 De igual forma, la vigencia de los certificados puede darse por terminada anticipadamente a solicitud de sus titulares, por imposibilidad justificada para dar cumplimiento a las obligaciones adquiridas o por así convenir a sus intereses.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
@@ -1259,7 +1289,7 @@ La Comisión y los ayuntamientos proporcionarán, a solicitud de los interesados
 
 Cuando existan normas oficiales mexicanas, criterios ecológicos u otras disposiciones que regulen el aprovechamiento de recursos naturales, las emisiones, descargas y, en general, todos los impactos y riesgos ambientales relevantes que se puedan producir en el desarrollo de una obra o actividad, el responsable de ésta podrá presentar una solicitud simplificada de Licencia Ambiental Integral, misma que deberá contener la información señalada en las fracciones I, II, III y VI del artículo anterior.
 
-#### SECCIÓN II. DE LA EMISIÓN DE CONTAMINANTES GENERADA POR FUENTES FIJAS
+#### SECCIÓN I. DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DE LA ATMÓSFERA
 
 ### CAPÍTULO II. DEL PROCEDIMIENTO DE EVALUACIÓN DE LA LICENCIA AMBIENTAL INTEGRAL
 
@@ -1417,8 +1447,6 @@ II.- Informe del cumplimiento de las medidas de prevención y mitigación de los
 
 III.- Posibles cambios o modificaciones de la obra o actividad autorizada en la Licencia Ambiental Integral.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 104.
@@ -1481,7 +1509,7 @@ La Comisión constituirá un Fideicomiso para el manejo de los recursos obtenido
 
 ### CAPÍTULO I. DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DE LA ATMÓSFERA
 
-#### SECCIÓN III. DE LA EMISIÓN DE CONTAMINANTES A LA ATMÓSFERA GENERADA POR FUENTES MÓVILES DE CONTAMINACIÓN ATMOSFÉRICA
+#### SECCIÓN II. DE LA EMISIÓN DE CONTAMINANTES GENERADA POR FUENTES FIJAS
 
 ###### ARTÍCULO 110.
 
@@ -1551,15 +1579,7 @@ Queda prohibido emitir contaminantes a la atmósfera que ocasionen o puedan ocas
 
 Las personas físicas o morales, públicas o privadas, que pretendan realizar o realicen obras o actividades por las que se emitan a la atmósfera olores, gases o partículas sólidas o líquidas serán responsables del cumplimiento de las disposiciones a que se refiere este artículo.
 
-#### SECCIÓN IV. DE LA QUEMA AGRÍCOLA
-
-> <small>(ADICIONADO, B.O. 16 DE JULIO DE 2015)</small>
-
-ARTÍCULO 126 BIS.- Queda estrictamente prohibido la quema de material vegetal y de crecimiento en terrenos agrícolas, salvo que se hubiese obtenido el permiso de quema controlada expedido por el ayuntamiento correspondiente.
-
-> <small>(ADICIONADO, B.O. 16 DE JULIO DE 2015)</small>
-
-ARTÍCULO 126 TER.- Los ayuntamientos, a través de su dependencia dedicada a la ecología, emitirán las licencias a quienes habiendo presentado un plan de quema controlada, cumplan con los requisitos establecidos por los mismos municipios para la mitigación del impacto a los recursos naturales y a propiedades colindantes.
+#### SECCIÓN III. DE LA EMISIÓN DE CONTAMINANTES A LA ATMÓSFERA GENERADA POR FUENTES MÓVILES DE CONTAMINACIÓN ATMOSFÉRICA
 
 ###### ARTÍCULO 114.
 
@@ -1611,7 +1631,15 @@ La Comisión o el Ayuntamiento correspondiente, no permitirán quemas a cielo ab
 
 Podrán suspender de manera total o parcial, temporal o definitiva el permiso que hubieren otorgado cuando se presente algún evento extraordinario de contingencia ocasionado por las combustiones, o cuando las condiciones ambientales no permitan una adecuada dispersión de los contaminantes.
 
-#### SECCIÓN I. DE LAS ATRIBUCIONES
+#### SECCIÓN IV. DE LA QUEMA AGRÍCOLA
+
+> <small>(ADICIONADO, B.O. 16 DE JULIO DE 2015)</small>
+
+ARTÍCULO 126 BIS.- Queda estrictamente prohibido la quema de material vegetal y de crecimiento en terrenos agrícolas, salvo que se hubiese obtenido el permiso de quema controlada expedido por el ayuntamiento correspondiente.
+
+> <small>(ADICIONADO, B.O. 16 DE JULIO DE 2015)</small>
+
+ARTÍCULO 126 TER.- Los ayuntamientos, a través de su dependencia dedicada a la ecología, emitirán las licencias a quienes habiendo presentado un plan de quema controlada, cumplan con los requisitos establecidos por los mismos municipios para la mitigación del impacto a los recursos naturales y a propiedades colindantes.
 
 ###### ARTÍCULO 117.
 
@@ -1647,27 +1675,17 @@ d) Expedir en los centros que opere, constancias respecto de los vehículos que 
 
 e) Supervisar la operación de los centros de verificación vehicular que autorice;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
 f) Integrar y mantener actualizado un informe de los resultados obtenidos de la medición de las emisiones contaminantes en los centros de verificación que opere o autorice; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
 g) Las demás previstas en esta ley y en los reglamentos respectivos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 h) (DEROGADO, B.O. 7 DE NOVIEMBRE DE 2011)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 i) (DEROGADO, B.O. 7 DE NOVIEMBRE DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
@@ -1765,7 +1783,7 @@ La certificación o constatación de los niveles de emisión de contaminantes en
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 16 DE JULIO DE 2015)</small>
 
-#### SECCIÓN II. DE LOS CRITERIOS PARA EL MANEJO INTEGRAL DE RESIDUOS
+#### SECCIÓN I. DE LAS ATRIBUCIONES
 
 ### CAPÍTULO II. DE LA PREVENCIÓN Y EL CONTROL DE LA CONTAMINACIÓN DEL AGUA
 
@@ -1935,7 +1953,7 @@ La Comisión promoverá directamente o en coordinación con las dependencias fed
 
 ### CAPÍTULO IV. DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN POR RESIDUOS
 
-#### SECCIÓN III. DE LAS AUTORIZACIONES PARA EL MANEJO Y DISPOSICIÓN FINAL DE RESIDUOS, Y DE SU MANEJO INTEGRAL
+#### SECCIÓN II. DE LOS CRITERIOS PARA EL MANEJO INTEGRAL DE RESIDUOS
 
 ###### ARTÍCULO 144.
 
@@ -2031,7 +2049,7 @@ La Comisión y los ayuntamientos promoverán que en la fabricación y utilizaci�
 
 Asimismo, promoverán entre los productores, importadores, intermediarios y, en general, cualquier persona física o moral responsable de introducir en el mercado productos que con su uso se conviertan en residuos, la implementación de medidas necesarias para que los envases de dichos productos favorezcan la prevención en la generación de residuos y faciliten su reutilización o el reciclado o valorización de éstos. Igualmente, promoverán que dichos sujetos participen en el establecimiento de sistemas organizados de gestión de dichos residuos, por sí o a través de la autoridad, con cargo a los consumidores de los mismos.
 
-#### SECCIÓN IV. INGRESO AL ESTADO DE RESIDUOS SÓLIDOS URBANOS Y DE MANEJO ESPECIAL
+#### SECCIÓN III. DE LAS AUTORIZACIONES PARA EL MANEJO Y DISPOSICIÓN FINAL DE RESIDUOS, Y DE SU MANEJO INTEGRAL
 
 ###### ARTÍCULO 151.
 
@@ -2078,6 +2096,8 @@ VI.- Las disposiciones, programas y lineamientos técnicos para la conservación
 VII.- La elaboración y administración de programas estatales o municipales de ordenamiento territorial y de desarrollo urbano o de ordenamiento ecológico; y
 
 VIII.- La introducción a la Entidad de residuos sólidos urbanos y de manejo especial.
+
+#### SECCIÓN IV. INGRESO AL ESTADO DE RESIDUOS SÓLIDOS URBANOS Y DE MANEJO ESPECIAL
 
 ###### ARTÍCULO 153.
 
@@ -2255,8 +2275,6 @@ V.- La infraestructura para la dotación de servicios básicos, así como la exi
 
 Quedan prohibidas las emisiones de ruido, vibraciones, olores, radiaciones electromagnéticas, energía térmica y lumínica y la generación de contaminación visual, en cuanto rebasen los límites máximos permisibles establecidos en las normas oficiales mexicanas que expida la Secretaría de Medio Ambiente y Recursos Naturales y los criterios ecológicos aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 172.
@@ -2300,8 +2318,6 @@ VII.- Pagar los derechos correspondientes por explotación y aprovechamiento de 
 ###### ARTÍCULO 177.
 
 El permiso para la realización de las actividades a que se refiere este Capítulo en zonas urbanas o en áreas cercanas a centros de población podrá negarse o suspenderse cuando a juicio de la Comisión se ponga en serio peligro el equilibrio ecológico o al ambiente de la localidad, así como la integridad de las personas y los bienes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
@@ -2383,8 +2399,6 @@ e) Secretaría de Infraestructura y Desarrollo Urbano; y
 
 f) Secretaría de Agricultura, Ganadería, Recursos Hidráulicos, Pesca y Acuacultura;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
 III BIS.- El Procurador Ambiental de la Procuraduría Ambiental del Estado de Sonora;
@@ -2431,8 +2445,6 @@ La Comisión reunirá informes y documentos relevantes que resulten de las activ
 
 El Registro Estatal de Áreas Naturales Protegidas a que se refiere el artículo 67 de esta ley formará parte del Sistema Estatal de Información Ambiental y de Recursos Naturales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 188.
@@ -2447,15 +2459,11 @@ Las personas a quienes la Comisión entregue información ambiental del Sistema 
 
 ### CAPÍTULO III. DEL FONDO AMBIENTAL ESTATAL
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 190.
 
 El Estado creará el Fondo Ambiental Estatal, cuyos recursos se destinarán a:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
@@ -2475,8 +2483,6 @@ Los recursos del Fondo se integrarán con:
 
 I.- Las aportaciones que efectúen los gobiernos federal, estatal y municipal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
 II.- Los ingresos que obtenga la Procuraduría por concepto de multas por infracciones a lo dispuesto por la presente Ley y las demás disposiciones aplicables;
@@ -2489,8 +2495,6 @@ V.- Las herencias, legados y donaciones que reciba de personas físicas o morale
 
 VI.- Los demás recursos que obtenga por cualquier otro título o concepto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 192.
@@ -2500,8 +2504,6 @@ La Comisión, en coordinación con la Procuraduría, será responsable del manej
 ## TÍTULO SÉPTIMO. DE LA FACULTAD REGLAMENTARIA
 
 ### CAPÍTULO ÚNICO. DE LA FACULTAD REGLAMENTARIA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
@@ -2521,13 +2523,9 @@ En la realización de los actos de inspección y vigilancia, ejecución de medid
 
 ### CAPÍTULO II. DE LAS MEDIDAS DE SEGURIDAD
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
 ### CAPÍTULO III. DE LAS SANCIONES ADMINISTRATIVAS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
@@ -2546,8 +2544,6 @@ Asimismo, la Comisión, la Procuraduría o los ayuntamientos, según corresponda
 Cuando la Comisión, la Procuraduría o los ayuntamientos ordenen alguna de las medidas de seguridad previstas en esta ley, indicarán al interesado, cuando proceda, las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se ordene el retiro de la medida de seguridad impuesta.
 
 ### CAPÍTULO IV. DEL RECURSO DE REVISIÓN
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
@@ -2599,15 +2595,11 @@ IV.- El carácter intencional o negligente de la acción u omisión constitutiva
 
 V.- El beneficio directamente obtenido por el infractor por los actos que motiven la sanción.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
 En el caso en que el infractor realice las medidas correctivas o de urgente aplicación o subsane las irregularidades en que hubiere incurrido, previamente a que la Procuraduría o los ayuntamientos impongan una sanción, dicha autoridad deberá considerar tal situación como atenuante de la infracción cometida.
 
 La autoridad correspondiente podrá otorgar al infractor la opción para pagar la multa o realizar inversiones equivalentes en la adquisición e instalación de equipo para evitar contaminación o en la protección, preservación o restauración del ambiente y los recursos naturales, siempre que se garanticen las obligaciones del infractor, no se trate de alguno de los supuestos previstos en el artículo 195 de esta ley y la autoridad justifique plenamente su decisión.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
@@ -2616,8 +2608,6 @@ La autoridad correspondiente podrá otorgar al infractor la opción para pagar l
 Cuando proceda como sanción la clausura temporal o definitiva, total o parcial, el personal comisionado para ejecutarla procederá a levantar acta detallada de la diligencia, siguiendo para ello las disposiciones establecidas en la Ley de Procedimiento Administrativo del Estado de Sonora para las visitas de verificación.
 
 En los casos en que se imponga como sanción la clausura temporal, la Procuraduría o, en su caso, el Ayuntamiento deberán indicar al infractor las medidas correctivas y acciones que debe llevar a cabo para subsanar las irregularidades que motivaron dicha sanción, así como los plazos para su realización.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
@@ -2630,8 +2620,6 @@ Los ingresos que obtenga la Procuraduría por concepto de las multas por infracc
 Cuando las autoridades competentes impongan como sanción una multa, ésta tendrá el carácter de crédito fiscal y se hará efectiva por conducto de la Secretaría de Hacienda del Estado o de las tesorerías municipales, en su caso, a través del procedimiento administrativo de ejecución.
 
 ### CAPÍTULO V. DE LA DENUNCIA POPULAR
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
@@ -2646,8 +2634,6 @@ Tratándose de obras o actividades que contravengan las disposiciones de esta le
 ###### ARTÍCULO 203.
 
 En caso de que se expidan licencias, permisos, autorizaciones o concesiones contraviniendo esta ley, serán nulas y no producirán efecto legal alguno, y los servidores públicos responsables serán sancionados conforme a lo dispuesto en las normas aplicables. Dicha nulidad podrá ser exigida por medio del recurso de inconformidad, previsto en la Ley de Procedimiento Administrativo del Estado de Sonora.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
@@ -2681,15 +2667,11 @@ Asimismo, podrá formularse la denuncia por vía telefónica, en cuyo supuesto e
 
 Cuando se reciban dos o más denuncias por los mismos hechos, actos u omisiones, se acordará la acumulación de éstas en un solo expediente, y se les notificará a los denunciantes el acuerdo respectivo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 207.
 
 La Procuraduría o los ayuntamientos, una vez recibida la denuncia, procederán por los medios que resulten conducentes a identificar al denunciante, y en su caso, harán saber la denuncia a la persona o personas, o a las autoridades a quienes se imputen los hechos denunciados o a quienes pueda afectar el resultado de la acción emprendida, a fin de que presenten los documentos y pruebas que a su derecho convengan, en un plazo máximo de quince días hábiles a partir de la notificación respectiva.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
@@ -2702,8 +2684,6 @@ Asimismo, en los casos previstos en esta ley, las autoridades referidas podrán 
 ###### ARTÍCULO 208.
 
 El denunciante podrá coadyuvar con las autoridades aportándoles las pruebas, documentación e información que estime pertinentes. Las autoridades deberán manifestar las consideraciones adoptadas respecto de la información proporcionada por el denunciante, al momento de resolver sobre la denuncia.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
@@ -2828,3 +2808,15 @@ B.O. 11 DE MAYO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 26 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 152, QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El sistema de indicadores deberá definirse y publicarse en un plazo máximo de 90 días naturales siguientes a la entrada en vigor del presente decreto.
