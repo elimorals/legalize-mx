@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-97-de-educacion-para-el-estado-de-sonora-115928"
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-14"
-last_updated: "2017-03-02"
+last_updated: "2017-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 2 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE JUNIO DE 2017.
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el jueves 14 de julio de 2016.
 
@@ -241,13 +241,17 @@ XXI.- Realizar acciones educativas y preventivas a fin de evitar que se cometan 
 
 XXII.- Impartir educación preventiva al uso de drogas, alcohol y tabaco, ésta se entenderá como la instrucción de los conocimientos necesarios para adquirir una formación y los valores adecuados que resulten en un rechazo informado a cualquier tipo de adicción, una cultura de denuncia del consumo de sustancias ilícitas y una conciencia integral del cuidado de la salud física y psicológica;
 
-> <small>(REFORMADA, B.O. 2 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, B.O. 26 DE JUNIO DE 2017)</small>
 
-XXIII.- Promover el desarrollo de las aptitudes, las capacidades, las destrezas, las habilidades y los valores de los individuos, que les permita construir sus vocaciones, así como perfilar un futuro profesional con mayores oportunidades; y
+XXIII.- Promover el desarrollo de las aptitudes, las capacidades, las destrezas, las habilidades y los valores de los individuos, que les permita construir sus vocaciones, así como perfilar un futuro profesional con mayores oportunidades;
 
-> <small>(ADICIONADA, B.O. 2 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, B.O. 26 DE JUNIO DE 2017)</small>
 
-XXIV.- Promover y difundir la participación en los programas gubernamentales que se lleven a cabo para prevenir, atender y dar seguimiento a todos los casos de ausentismo y deserción escolar de las niñas y los niños, para lograr su reintegración y permanencia en el sistema estatal de educación básica.
+XXIV.- Promover y difundir la participación en los programas gubernamentales que se lleven a cabo para prevenir, atender y dar seguimiento a todos los casos de ausentismo y deserción escolar de las niñas y los niños, para lograr su reintegración y permanencia en el sistema estatal de educación básica; y
+
+> <small>(ADICIONADA, B.O. 26 DE JUNIO DE 2017)</small>
+
+XXV.- Promover ante la autoridad educativa federal que en los planes y programas educativos correspondientes se imparta educación con contenidos preventivos sobre el delito y la delincuencia, acorde al nivel educativo de los estudiantes, desde el quinto año de Educación Primaria hasta el último año de Educación Media Superior, que comprenda la instrucción de conocimientos sobre los valores para una convivencia social armónica, las bases para vivir en una cultura de la legalidad y de la Paz, así como alertar sobre los riesgos y características de las conductas delictivas o ilícitas, entre otros, que permitan al individuo tener información y conciencia sobre estos fenómenos sociales.
 
 ###### ARTÍCULO 19.
 
@@ -1162,3 +1166,11 @@ B.O. 2 DE MARZO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 26 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 150 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL ARTÍCULO 18 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA”.]
+
+###### ARTICULO ÚNICO.
+
+Este Decreto entrará en vigor a partir del día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
