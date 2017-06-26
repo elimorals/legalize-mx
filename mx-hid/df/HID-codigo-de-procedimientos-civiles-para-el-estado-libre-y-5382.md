@@ -4,7 +4,7 @@ identifier: "HID-codigo-de-procedimientos-civiles-para-el-estado-libre-y-5382"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-12-01"
-last_updated: "2017-05-22"
+last_updated: "2017-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5382&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2017.
 
 Código publicado en el Apéndice del Periódico Oficial del Estado de Hidalgo, el 1 de diciembre de 1940.
 
@@ -431,8 +433,6 @@ El Secretario o el encargado de la Oficialía de partes harán constar el día y
 
 Los secretarios cuidarán de que los expedientes sean exactamente foliados, al agregarse cada una de las hojas; rubricarán todas éstas en el centro de los escritos y pondrán el sello de la Secretaría en el fondo del cuaderno, de manera que queden selladas las dos caras.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2016)</small>
 
 ###### Artículo 68.
@@ -697,15 +697,11 @@ De las notificaciones.
 
 Las notificaciones, citaciones y emplazamientos, se efectuarán lo más tarde al tercer día de que se dicten las resoluciones que las prevengan, cuando el Juez o la ley no dispusieren otra cosa. Se impondrá de plano a los infractores de este artículo, una multa que no exceda de veinte pesos.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2016)</small>
 
 ###### Artículo 110.
 
 Las notificaciones podrán hacerse de forma personal, por lista, por edictos, por correo, por telégrafo, por oficio o por cualquier medio electrónico si lo hubiere a juicio del juez.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2016)</small>
 
@@ -721,15 +717,11 @@ Igualmente deben designar el domicilio en que ha de hacerse la primera notificac
 
 Cuando un litigante no cumpla con lo prevenido en el primer párrafo de este artículo, las notificaciones, aún las que, conforme a las reglas generales deban hacerse personalmente, se le harán por lista fijada en el tablero que exista para tal efecto en el juzgado o a través del medio electrónico establecido conforme al artículo 110; si faltare a lo dispuesto en el segundo párrafo, no se hará notificación alguna a la persona contra quien promueva hasta que se subsane la omisión.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2016)</small>
 
 ###### Artículo 112.
 
 Entre tanto que un litigante no hiciere nueva designación del domicilio en donde se le hagan las notificaciones personales, seguirán haciéndosele en el que para ello hubiere designado. Si el domicilio no existiere, se encontrare cerrado o en el mismo se negaren a recibir la notificación, ésta se hará por lista o cualquier medio electrónico si lo hubiere.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2016)</small>
 
@@ -749,15 +741,11 @@ V.- El auto que da término para expresión de agravios; y
 
 VI.- En los demás casos que la ley o el juzgador así lo dispongan.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2016)</small>
 
 ###### Artículo 114.
 
 Cuando hubiere cambiado el personal judicial del tribunal, no se proveerá decreto haciendo saber el cambio. No obstante lo anterior, si el cambio fuese de juzgador y ocurriere cuando el negocio esté pendiente del dictado de la sentencia definitiva, se mandará hacer saber a las partes para los efectos legales que correspondan.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2016)</small>
 
@@ -774,8 +762,6 @@ En el instructivo se hará constar la leyenda de ser "instructivo", la fecha y h
 En el expediente se agregará constancia de la notificación debidamente autorizada con la firma del actuario, en la cual se asentará el lugar y la fecha de la notificación; el nombre completo de la persona que se notifica; la precisión de la resolución que se notifica, y el nombre completo de la persona a quien se entrega el instructivo. Además, deberá recogerse la firma de la persona que recibió el instructivo o, en su defecto, asentar las razones que se tuvieron para no recabarse esa firma.
 
 En todo caso, si la persona que se pretende notificar, el representante de ésta o la persona facultada por la misma para recibir notificaciones ocurre ante el actuario antes de que se proceda a hacer la notificación personal en el domicilio en cuestión, la notificación se hará en el Juzgado o Coordinación de Actuarios, comunicándole el contenido de la resolución y dejándole el instructivo correspondiente, de lo cual se dejará la constancia correspondiente en autos.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2016)</small>
 
@@ -799,8 +785,6 @@ En todos los casos se levantará acta pormenorizada, autorizada con la firma del
 
 (DEROGADO, P.O. 18 DE MAYO DE 1992)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2016)</small>
 
 ###### Artículo 117 Bis.
@@ -813,23 +797,17 @@ La citación o notificación de cualquier otro servidor público o autoridad se 
 
 (DEROGADO, P.O. 18 DE MAYO DE 1992)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2016)</small>
 
 ###### Artículo 119.
 
 Si se trataré de una notificación por la cual se convoca por vez primera a una persona que debe participar del procedimiento y no fuere posible que la parte interesada la presente, se le notificará en el domicilio que a efecto se señale, para lo cual el actuario se cerciorará de que la persona que deba ser convocada vive, trabaja o tiene su domicilio en la casa o local señalado al efecto; hecho lo cual, si lo hallaré presente, le comunicará la resolución que ordene la notificación, dejándole un instructivo que contenga los pormenores previstos en el artículo 115 del (sic) este Código. Si no está presente, la notificación se hará con cualquier persona que se encuentre en el domicilio señalado, y si la persona que se encuentre se negare a atender la citación, el actuario procederá a hacer la misma por medio de lista. De ser el caso según el cual la persona que se pretende notificar ocurre, con identificación idónea consistente en instrumento público ante el actuario antes de que se proceda a hacer la notificación, ésta se hará en el Juzgado o Coordinación de Actuarios, de lo cual se dejará la constancia correspondiente en autos. Como fuere, se levantará acta pormenorizada, autorizada con la firma del actuario, en la que se asienten con claridad los medios empleados para la identificación del domicilio en el que se actúa, la certeza de que el mismo corresponde a la persona que se notifica y todos los pormenores de la actuación. Además, se recabará la firma de la persona con la que se haya entendido la notificación y de las demás personas que hayan intervenido en uno y otro, o, en su defecto, asentaran las razones que se tuvieron para no recabarse determinada firma.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2016)</small>
 
 ###### Artículo 120.
 
 Cuando se trate de citar a peritos, testigos, o personas que no sean parte del juicio, y que no puedan ser presentados por las partes, se hará la citación por medio del actuario mediante la entrega en el domicilio que corresponda de un instructivo, de correo certificado o de los servidores públicos que prevé la Ley Orgánica de Poder Judicial, de lo cual se agregará la constancia del acuse de recibido.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2016)</small>
 
@@ -845,27 +823,19 @@ En este caso el juicio deberá seguirse con los trámites y solemnidades a que s
 
 III.- En todos los demás casos previstos por la ley.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2016)</small>
 
 Al efecto, se publicarán los edictos por tres veces consecutivas en el Periódico Oficial del Estado de Hidalgo y un periódico local de los de mayor circulación, en los que se le haga saber que debe presentarse la persona que se emplaza o notifica dentro de un término no menor de quince ni mayor de sesenta días a partir de que se haga la última publicación en el Periódico Oficial del Estado de Hidalgo.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2016)</small>
 
 Previamente al emplazamiento o la notificación por edictos en términos del párrafo anterior, el juzgador ordenará recabar informe de una autoridad o una institución pública que cuente con registro oficial de personas. Bastará el informe de una sola autoridad o institución para que proceda la notificación por edictos. La autoridad o institución proporcionará los datos de identificación y el último domicilio que aparezca en sus registros de la persona buscada. Esta información no queda comprendida dentro del secreto fiscal o de alguna otra reserva que las autoridades o instituciones estén obligadas a observar conforme con las disposiciones que las rige.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2016)</small>
 
 ###### Artículo 122.
 
 Las sentencias, los autos y demás resoluciones judiciales se entienden consentidas cuando no se interpone recurso alguno en contra de la misma.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2016)</small>
 
@@ -876,8 +846,6 @@ Las notificaciones que no deban ser personales se harán por medio de lista, la 
 Al efecto se hará constar en los autos respectivos la fecha de publicación de la resolución que se notifique a través de lista, así como los nombres completos de las personas que quedarán notificadas por ese medio.
 
 De ser el caso según el cual la persona que se pretende notificar ocurre, con identificación idónea consistente en instrumento público, antes de la publicación por lista, la notificación se le hará en el Juzgado, de lo cual se dejará la constancia correspondiente en autos.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2016)</small>
 
@@ -906,8 +874,6 @@ Cuando la persona que debe ser por primera vez notificada residiere en lugar dis
 ### CAPITULO VI.
 
 De los términos judiciales.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2016)</small>
 
@@ -3209,9 +3175,11 @@ Del juicio sumario de desahucio.
 
 La demanda de desocupación debe fundarse en la falta de pago de dos o más mensualidades y se acompañará con el contrato escrito del arrendamiento cuando ello fuere necesario, para la validez del acto conforme al Código Civil. En caso de no ser necesario el contrato escrito o de haberse cumplido voluntariamente por ambos contratantes sin otorgamiento de documento, se justificará por medio de información testimonial, prueba documental o cualquier otro bastante como medio preparatorio del juicio. Debe presentarse también el último recibo de pago de impuesto predial del inmueble motivo del juicio.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2017)</small>
+
 ###### Artículo 478.
 
-Presentada la demanda con el documento o la justificación correspondiente, dictará auto el Juez mandando requerir al arrendatario para que en el acto de la diligencia justifique con el recibo correspondiente estar al corriente en el pago de las rentas, y no haciéndolo, se le prevendrá que dentro del término de sesenta días si la finca sirve para habitación, o dentro de noventa días si sirve para giro mercantil o industrial o se trate de finca rústica, proceda a desocuparla, apercibido de lanzamiento a su costa si no lo efectúa. En el mismo acto se le emplazará para que dentro de cinco días ocurra a oponer las excepciones que tuviere.
+Presentada la demanda con el documento o la justificación correspondiente, dictará auto el Juez mandando requerir al arrendatario para que en el acto de la diligencia justifique con el recibo correspondiente estar al corriente en el pago de las rentas, y no haciéndolo, se le prevendrá para que dentro del término de treinta días si la finca sirve para habitación, o dentro de sesenta días si sirve para giro mercantil o industrial o se trate de finca rústica, proceda a desocuparla, apercibido de lanzamiento a su costa si no lo efectúa. En el mismo acto se le emplazará para que dentro de cinco días ocurra a oponer las excepciones que tuviere.
 
 > <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2015)</small>
 
@@ -3440,8 +3408,6 @@ De los embargos.
 Decretado el auto de ejecución, el cual tendrá fuerza de mandamiento en forma, el actuario requerirá de pago al deudor y no verificándolo éste en el acto, se procederá a embargar bienes suficientes a cubrir las prestaciones demandadas si se tratare de juicio ejecutivo o las fijadas en la sentencia. El actor podrá asistir a la práctica de la diligencia.
 
 No es necesario el requerimiento de pago en la ejecución del embargo precautorio, ni en la ejecución de sentencias cuando no fuere hallado el condenado.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2016)</small>
 
@@ -4092,8 +4058,6 @@ Procedimiento estando ausente el rebelde.
 ###### Artículo 625.
 
 En toda clase de juicios cuando se constituya en rebeldía un litigante, no compareciendo en el juicio después de citado en forma no se volverá a practicar diligencia alguna en su busca.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2016)</small>
 
@@ -6638,3 +6602,11 @@ P.O. 22 DE MAYO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 182 QUE REFORMA EL ARTÍCULO 254 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo
+
+P.O. 26 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 187 POR EL QUE SE REFORMA EL ARTÍCULO 2477 Y SE DEROGAN LOS ARTÍCULOS 2475, 2476 Y 2478 DEL CÓDIGO CIVIL PARA EL ESTADO DE HIDALGO; SE REFORMA EL ARTÍCULO 478 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE HIDALGO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
