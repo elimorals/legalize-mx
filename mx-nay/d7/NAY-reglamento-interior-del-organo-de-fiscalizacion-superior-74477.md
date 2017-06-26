@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-del-organo-de-fiscalizacion-superior-74477"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-10"
-last_updated: "2013-06-08"
+last_updated: "2017-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74477&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # REGLAMENTO INTERIOR DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO DE NAYARIT
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE 26 DE JUNIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2013.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE JUNIO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Sección Quinta del Periódico Oficial del Estado de Nayarit, el miércoles 10 de marzo de 2010.
 
@@ -385,7 +385,7 @@ V. Promover el conocimiento de la normatividad aplicable al manejo de los recurs
 
 VI. Coordinar y supervisar las auditorías, visitas e inspecciones practicadas a los Sujetos de Fiscalización, que podrán ser auditorías oculares, paramétricas, de cumplimiento, de congruencia y de seguimiento;
 
-VII. Analizar y dar seguimiento a los Avances de Gestión Financiera; y (sic)
+VII. Analizar y dar seguimiento a los Avances de Gestión Financiera; y
 
 VIII. Coadyuvar con las demás unidades administrativas para complementar, conjugar y optimizar el proceso de fiscalización y realizar conjuntamente en su caso, auditorías integrales.
 
@@ -425,7 +425,7 @@ II. Promover que la rendición de cuentas por parte de los sujetos fiscalizables
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MARZO DE 2012)</small>
 
-III. Verificar el cumplimiento final de los objetivos y metas fijadas en los programas federales, estatales y municipales conforme a los indicadores estratégicos aprobados en el presupuesto anual a efecto de constatar el desempeño de los mismos y la legalidad en el uso de los recursos públicos; y (sic)
+III. Verificar el cumplimiento final de los objetivos y metas fijadas en los programas federales, estatales y municipales conforme a los indicadores estratégicos aprobados en el presupuesto anual a efecto de constatar el desempeño de los mismos y la legalidad en el uso de los recursos públicos; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MARZO DE 2012)</small>
 
@@ -567,7 +567,7 @@ En el caso de los servidores públicos de elección popular en funciones, para e
 
 XX. Instruir y substanciar el recurso de inconformidad que se interponga en contra de las resoluciones a los procedimientos administrativos disciplinarios que se instruyan como resultado de la fiscalización de la cuenta pública, así como proponer al Auditor General los proyectos de resolución a dichos recursos;
 
-XXI. Expedir copias certificadas de las constancias que obren en sus archivos, con las limitaciones que señalan los ordenamientos jurídicos en materia de reserva, confidencialidad, secrecía y de acceso a la información pública gubernamental; y (sic)
+XXI. Expedir copias certificadas de las constancias que obren en sus archivos, con las limitaciones que señalan los ordenamientos jurídicos en materia de reserva, confidencialidad, secrecía y de acceso a la información pública gubernamental; y
 
 > <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2013)</small>
 
@@ -657,7 +657,7 @@ XXIV. Elaborar los nombramientos del personal, para su expedición por el Audito
 
 XXV. Tramitar las autorizaciones de las enajenaciones y donaciones de bienes muebles del Órgano;
 
-XXVI. Someter a la consideración del Auditor General, los manuales de organización y de procedimientos de la Unidad de Administración; y (sic)
+XXVI. Someter a la consideración del Auditor General, los manuales de organización y de procedimientos de la Unidad de Administración; y
 
 > <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2013)</small>
 
@@ -761,7 +761,7 @@ d. Proponer la depuración de la documentación que no tenga mobilidad (sic) y/o
 
 e. Organizar el archivo general histórico del Órgano, y proponer el procedimiento de destrucción de documentos susceptibles de depuración;
 
-XIX.- Dar trámite y seguimiento a los asuntos que acuerde (sic) el Consejo Consultivo y/o el Auditor General, y en su caso, notificar los acuerdos respectivos a las áreas y unidades administrativas que correspondan;
+XIX.- Dar trámite y seguimiento a los asuntos que acuerde el Consejo Consultivo y/o el Auditor General, y en su caso, notificar los acuerdos respectivos a las áreas y unidades administrativas que correspondan;
 
 XX.- Informar al Auditor General, sobre las actividades realizadas por la Coordinación General de Planeación;
 
@@ -877,7 +877,7 @@ XIII. Atender las inconformidades que presenten los proveedores o contratistas e
 
 XIV. Intervenir en los actos y procedimientos de la entrega-recepción de las áreas administrativas del Órgano;
 
-XV. Informar al Auditor General, sobre las actividades realizadas por la Contraloría Interna; y (sic)
+XV. Informar al Auditor General, sobre las actividades realizadas por la Contraloría Interna; y
 
 > <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2011)</small>
 
@@ -1145,7 +1145,7 @@ VIII. Registrar y dar seguimiento a la gestión de cobro de las sanciones resarc
 
 > <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2013)</small>
 
-IX. Solicitar a la Auditoría Especial de Gestión Financiera, Auditoría Especial Infraestructura y Dirección General de Evaluación de Desempeño la opinión técnica que se requiera para la sustanciación del procedimiento para el fincamiento de responsabilidades administrativas y resarcitorias; y (sic)
+IX. Solicitar a la Auditoría Especial de Gestión Financiera, Auditoría Especial Infraestructura y Dirección General de Evaluación de Desempeño la opinión técnica que se requiera para la sustanciación del procedimiento para el fincamiento de responsabilidades administrativas y resarcitorias; y
 
 > <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
 
@@ -1414,3 +1414,27 @@ P.O. 16 DE MARZO DE 2013.
 Artículo Primero.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo Segundo.- Con relación al artículo 14, a partir de la entrada en vigor de esta reforma y respecto a la obligación de realizar la remisión de expedientes de auditoría para la substanciación de los procedimientos para el fincamiento de responsabilidades resarcitorias y administrativas a que den lugar las irregularidades detectadas por el Órgano de Fiscalización Superior en el ejercicio de sus atribuciones de fiscalización, que se encuentren en proceso y pendientes de realizar; así como cuando un acuerdo u otro instrumento jurídico refieran a obligaciones que debe atender el Auditor Especial de Evaluación del Desempeño, se entenderá que deben ser atendidas por el Director General de Evaluación del Desempeño.
+
+P.O. 26 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE NAYARIT".]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior del Órgano de Fiscalización Superior del Estado publicado en el Periódico Oficial el 10 de marzo de 2010, así como sus reformas y adiciones, conforme a lo dispuesto en los artículos transitorios subsecuentes.
+
+TERCERO.- Las unidades administrativas de la Auditoría Superior del Estado podrán fundamentar sus actuaciones tanto en el presente Reglamento Interior como en el Reglamento Interior del Órgano de Fiscalización Superior del Estado publicado en el Periódico Oficial el 10 de marzo de 2010, este último, tratándose de cualquier asunto que esté relacionado con las Cuentas Públicas 2015 y anteriores, así como cualquier asunto que guarde relación con lo establecido en el artículo Cuarto Transitorio de la Ley de Fiscalización y Rendición de Cuentas del Estado de Nayarit, publicada en el Periódico Oficial el 27 de diciembre de 2016 y en el artículo Tercero Transitorio del "Decreto por el que se expide la Ley General del Sistema Nacional Anticorrupción; la Ley General de Responsabilidades Administrativas, y la Ley Orgánica del Tribunal Federal de Justicia Administrativa", publicado en el Diario Oficial de la Federación el 18 de julio de 2016.
+
+CUARTO.- Las referencias, remisiones o contenidos del presente Reglamento Interior que estén vinculados con la aplicación de la Ley General de Responsabilidades Administrativas, entrarán en vigor cuando dicho ordenamiento se encuentre vigente;
+
+QUINTO.- El personal de las Direcciones Substanciadora e Investigadora, en tanto no inicie el ejercicio de sus atribuciones, es decir, en tanto no entre en vigor la Ley General de Responsabilidades Administrativas, apoyarán a la Unida (sic) Jurídica en el desahogo de procedimientos de responsabilidad y demás facultades establecidas en el Reglamento Interior del Órgano de Fiscalización Superior del Estado de Nayarit; asimismo posterior a la entrada en vigor de la Ley General de Responsabilidades Administrativas apoyarán, sin prejuicio de sus nuevas atribuciones, al Director General de la Unidad Jurídica a efecto de tramitar los procedimientos iniciados con anterioridad a la entrada en vigor de la ley general en mención.
+
+SEXTO.- Las auditorías que se encuentren en proceso y demás actuaciones que se encuentren en trámite por parte de la Auditoría Especial de Gestión Financiera y la Dirección General de Evaluación del Desempeño y su personal adscrito; las continuará la Auditoría Especial de Gestión Financiera y Evaluación al Desempeño, a través de su personal de conformidad con las atribuciones contenidas en el presente Reglamento.
+
+SÉPTIMO.- Los acuerdos delegatorios relacionados con los procedimientos de responsabilidad administrativos y resarcitorios, así como los relacionados con la tramitación de sus recursos y demás medios de impugnación continuarán vigentes en tanto no se culminen los asuntos iniciados previos a la entrada en vigor de la Ley General de Responsabilidades Administrativas.
+
+OCTAVO.- En tanto no se emitan los nombramientos de los Notificadores que regula el artículo 17 del presente Reglamento, fungirán con este carácter los Auditores comisionados para estos efectos en el "Acuerdo Mediante el cual el Auditor Superior de la Auditoría Superior del Estado de Nayarit Comisiona Auditores de esta Institución para Realizar Notificaciones", publicado en el Periódico Oficial el 7 de enero de 2017.
+
+NOVENO.- En tanto no entre en funciones la Dirección Investigadora, a efecto de presentar denuncias podrán hacerlo quienes actualmente tienen delegada facultad, en específico los dos primeros de los mencionados en el "Acuerdo Mediante el cual el Auditor General del Órgano de Fiscalización Superior, sin Perjuicio de su Ejercicio Directo, Delega en los Licenciados en Derecho Mariel del Rocío Basulto Núñez, Guillermo Lara Morán y Jorge Jonathan Castañeda Espinoza la Facultad de Presentar Denuncias Penales y Actuar en Coadyuvancia con el Ministerio Público", publicado en el Periódico Oficial el 19 de agosto de 2016.
+
+DÉCIMO.- En tanto no entre en funciones la Dirección Substanciadora, continuará vigente el instrumento normativo denominado "Acuerdo Mediante el Cual el Auditor General del Órgano de Fiscalización Superior del Estado Delega Facultad en los Auditores Especiales para Dictar Medidas de Apremio e Imponer Multas" publicado en el Periódico Oficial el 15 de Junio de 2011, entendiéndose que dicha facultad la delega el Auditor Superior de la Auditoría Superior del Estado de Nayarit, sin perjuicio de su ejercicio directo, a los Auditores Especiales de la propia Institución.
