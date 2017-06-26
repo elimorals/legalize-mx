@@ -4,7 +4,7 @@ identifier: "HID-codigo-civil-para-el-estado-de-hidalgo-40095"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-08"
-last_updated: "2016-12-31"
+last_updated: "2017-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CÓDIGO CIVIL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2017.
 
 Código publicado en el Apéndice al Número 38 del Periódico Oficial del Estado de Hidalgo, el 8 de octubre de 1940.
 
@@ -867,7 +867,7 @@ De los Derechos y Obligaciones que Nacen del Matrimonio.
 
 ###### Art. 172.
 
-(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)v
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 173.
 
@@ -1061,7 +1061,7 @@ De la Administración de la Sociedad Legal.
 
 ###### Art. 215.
 
-(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)v
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 216.
 
@@ -2553,7 +2553,7 @@ De la Tutela Testamentaria.
 
 ###### Art. 554.
 
-(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)v
+(DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
 ###### Art. 555.
 
@@ -12187,21 +12187,23 @@ Si el arrendamiento se ha hecho por tiempo determinado, concluye en el día pref
 
 ###### Art. 2475.
 
-Vencido un contrato de arrendamiento, tendrá derecho el inquilino, siempre que esté al corriente en el pago de las rentas, a que se le prorrogue hasta por un año ese contrato. Podrá el arrendador aumentar hasta un diez por ciento la renta anterior, siempre que demuestre que los alquileres en la zona de que se trate, han sufrido una alza después de que se celebró el contrato de arrendamiento.
-
-Quedan exceptuados de la obligación de prorrogar el contrato de arrendamiento, los propietarios que quieran habitar la casa o cultivar la finca cuyo arrendamiento ha vencido.
+(DEROGADO, P.O. 26 DE JUNIO DE 2017)
 
 ###### Art. 2476.
 
-Si después de terminado el arrendamiento y su prórroga, si la hubo, continúa el arrendamiento sin oposición en el goce y uso del predio, y éste es rústico, se entenderá renovado el contrato por otro año.
+(DEROGADO, P.O. 26 DE JUNIO DE 2017)
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2017)</small>
 
 ###### Art. 2477.
 
-En el caso del artículo anterior, si el predio fuere urbano, el arrendamiento continuará por tiempo indefinido, y el arrendatario deberá pagar la renta que corresponda al tiempo que exceda al del contrato, con arreglo a lo que pagaba.
+Terminado el plazo por el que se celebró el arrendamiento, si el arrendatario continúa sin oposición en el uso y goce del bien arrendado, se prorrogará el arrendamiento por tiempo indeterminado, estando obligado el arrendatario a pagar la renta que corresponda por el tiempo que exceda conforme a lo convenido en el contrato, pudiendo cualquiera de las partes solicitar la terminación del contrato en términos de lo dispuesto en los artículos 2468 y 2469.
+
+Las obligaciones contraídas por un tercero con objeto de garantizar el cumplimiento del arrendamiento, cesan al término del plazo determinado, salvo convenio en contrario.
 
 ###### Art. 2478.
 
-Cuando haya prórroga en el contrato de arrendamiento, y en los casos de que hablan los dos artículos anteriores, cesan las obligaciones otorgadas por un tercero para la seguridad del arrendamiento, salvo convenio en contrario.
+(DEROGADO, P.O. 26 DE JUNIO DE 2017)
 
 ###### Art. 2479.
 
@@ -15806,3 +15808,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
 
 TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 26 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 2477 Y SE DEROGAN LOS ARTÍCULOS 2475, 2476 Y 2478 DEL CÓDIGO CIVIL PARA EL ESTADO DE HIDALGO; SE REFORMA EL ARTÍCULO 478 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE HIDALGO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
