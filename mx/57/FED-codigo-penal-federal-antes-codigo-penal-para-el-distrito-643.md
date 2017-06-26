@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2017-06-23"
+last_updated: "2017-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,13 +19,15 @@ issue_date: "1931-08-13"
 ---
 # CODIGO PENAL FEDERAL -ANTES CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL-
 
-[NOTA 1. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO CUARTO DEL ARTÍCULO PRIMERO DEL "DECRETO POR EL QUE SE EXPIDE LA LEY NACIONAL DE EJECUCIÓN PENAL; SE ADICIONAN LAS FRACCIONES XXXV, XXXVI Y XXXVII Y UN QUINTO PÁRRAFO, Y SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 225 DEL CÓDIGO PENAL FEDERAL", PUBLICADO EN EL D.O.F. DE 16 DE JUNIO DE 2016, SE SEÑALA QUE "A PARTIR DE LA ENTRADA EN VIGOR DE LA PRESENTE LEY, SE DEROGAN LAS NORMAS CONTENIDAS EN EL CÓDIGO PENAL FEDERAL Y LEYES ESPECIALES DE LA FEDERACIÓN RELATIVAS A LA REMISIÓN PARCIAL DE LA PENA, LIBERTAD PREPARATORIA Y SUSTITUCIÓN DE LA PENA DURANTE LA EJECUCIÓN."]
+[NOTA 1. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
-[NOTA 2. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO CUARTO DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES; DEL CÓDIGO PENAL FEDERAL; DE LA LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA; DE LA LEY FEDERAL PARA LA PROTECCIÓN A PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL; DE LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE LA LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN, DE LA LEY FEDERAL DE DEFENSORÍA PÚBLICA, DEL CÓDIGO FISCAL DE LA FEDERACIÓN Y DE LA LEY DE INSTITUCIONES DE CRÉDITO", PUBLICADO EN LA EDICIÓN VESPERTINA DEL D.O.F. 17 DE JUNIO DE 2016, SE SEÑALA QUE "LAS DISPOSICIONES DEL PRESENTE DECRETO RELATIVAS A LA EJECUCIÓN PENAL, ENTRARÁN EN VIGOR UNA VEZ QUE ENTRE EN VIGOR LA LEGISLACIÓN EN LA MATERIA PREVISTA EN EL ARTÍCULO 73, FRACCIÓN XXI, INCISO C) DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS."]
+[NOTA 2. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO CUARTO DEL ARTÍCULO PRIMERO DEL "DECRETO POR EL QUE SE EXPIDE LA LEY NACIONAL DE EJECUCIÓN PENAL; SE ADICIONAN LAS FRACCIONES XXXV, XXXVI Y XXXVII Y UN QUINTO PÁRRAFO, Y SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 225 DEL CÓDIGO PENAL FEDERAL", PUBLICADO EN EL D.O.F. DE 16 DE JUNIO DE 2016, SE SEÑALA QUE "A PARTIR DE LA ENTRADA EN VIGOR DE LA PRESENTE LEY, SE DEROGAN LAS NORMAS CONTENIDAS EN EL CÓDIGO PENAL FEDERAL Y LEYES ESPECIALES DE LA FEDERACIÓN RELATIVAS A LA REMISIÓN PARCIAL DE LA PENA, LIBERTAD PREPARATORIA Y SUSTITUCIÓN DE LA PENA DURANTE LA EJECUCIÓN."]
+
+[NOTA 3. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO CUARTO DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES; DEL CÓDIGO PENAL FEDERAL; DE LA LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA; DE LA LEY FEDERAL PARA LA PROTECCIÓN A PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL; DE LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE LA LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN, DE LA LEY FEDERAL DE DEFENSORÍA PÚBLICA, DEL CÓDIGO FISCAL DE LA FEDERACIÓN Y DE LA LEY DE INSTITUCIONES DE CRÉDITO", PUBLICADO EN LA EDICIÓN VESPERTINA DEL D.O.F. 17 DE JUNIO DE 2016, SE SEÑALA QUE "LAS DISPOSICIONES DEL PRESENTE DECRETO RELATIVAS A LA EJECUCIÓN PENAL, ENTRARÁN EN VIGOR UNA VEZ QUE ENTRE EN VIGOR LA LEGISLACIÓN EN LA MATERIA PREVISTA EN EL ARTÍCULO 73, FRACCIÓN XXI, INCISO C) DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS."]
 
 CÓDIGO PENAL FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE JUNIO DE 2017.
 
 Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -1259,8 +1261,6 @@ d) Violación, previsto en los artículos 265, 266 y 266 bis;
 
 e) Homicidio, previsto en los artículos 315, 315 Bis y 320; y feminicidio previsto en el artículo 325;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
 
 f) Tráfico de menores, previsto en el artículo 366 Ter;
@@ -1293,11 +1293,13 @@ II. Delitos en Materia de Trata de Personas contenidos en el Título Segundo de 
 
 III. Los que incurran en segunda reincidencia de delito doloso o sean considerados delincuentes habituales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
 
 IV. Los sentenciados por las conductas previstas en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, salvo las previstas en los artículos 9, 10, 11, 17 y 18.
+
+> <small>(ADICIONADA, D.O.F. 26 DE JUNIO DE 2017)</small>
+
+V. Los sentenciados por el delito de Tortura.
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
 
@@ -3341,9 +3343,7 @@ Cometen el delito de abuso de autoridad los servidores públicos que incurran en
 
 I.- Cuando para impedir la ejecución de una ley, decreto o reglamento, el cobro de un impuesto o el cumplimiento de una resolución judicial, pida auxilio a la fuerza pública o la emplee con ese objeto;
 
-> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1983)</small>
-
-II.- Cuando ejerciendo sus funciones o con motivo de ellas hiciere violencia a una persona sin causa legítima o la vejare o la insultare;
+II.- (DEROGADA, D.O.F. 26 DE JUNIO DE 2017)
 
 > <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1983)</small>
 
@@ -3357,8 +3357,6 @@ IV.- Cuando estando encargado de administrar justicia, bajo cualquier pretexto, 
 
 V.- Cuando el encargado o elemento de una fuerza pública, requerido legalmente por una autoridad competente para que le preste auxilio se niegue a dárselo o retrase el mismo injustificadamente. La misma previsión se aplicará tratándose de peritos;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2016)</small>
 
 VI.- Cuando estando encargado de cualquier establecimiento destinado a la ejecución de las sanciones privativas de libertad, de instituciones de reinserción social o de custodia y rehabilitación de menores y de reclusorios preventivos o administrativos, o centros de arraigo que, sin los requisitos legales, reciba como presa, detenida, arrestada, arraigada o interna a una persona o la mantenga privada de su libertad, sin dar parte del hecho a la autoridad correspondiente; niegue que está detenida, si lo estuviere; o no cumpla la orden de libertad girada por la autoridad competente;
@@ -3371,8 +3369,6 @@ VII.- Cuando teniendo conocimiento de una privación ilegal de la libertad no la
 
 VIII.- Cuando haga que se le entreguen fondos, valores u otra cosa que no se le haya confiado a él y se los apropie o disponga de ellos indebidamente;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2016)</small>
 
 IX.- Obtenga, exija o solicite sin derecho alguno o causa legítima, para sí o para cualquier otra persona, parte del sueldo o remuneración de uno o más de sus subalternos, dádivas u otros bienes o servicios;
@@ -3380,8 +3376,6 @@ IX.- Obtenga, exija o solicite sin derecho alguno o causa legítima, para sí o 
 > <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1983)</small>
 
 X.- Cuando en el ejercicio de sus funciones o con motivo de ellas, otorgue empleo, cargo o comisión públicos, o contratos de prestación de servicios profesionales o mercantiles o de cualquier otra naturaleza, que sean remunerados, a sabiendas de que no se prestará el servicio para el que se les nombró, o no se cumplirá el contrato otorgado;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2016)</small>
 
@@ -3391,39 +3385,27 @@ XI.- Cuando autorice o contrate a quien se encuentre inhabilitado por resolució
 
 XII.- Cuando otorgue cualquier identificación en que se acredite como servidor público a cualquier persona que realmente no desempeñe el empleo, cargo o comisión a que se haga referencia en dicha identificación;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIOS PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2016)</small>
-
-XIII.- Obligar al inculpado a declarar, usando la incomunicación, la intimidación, la tortura o tratos crueles, inhumanos o degradantes;
+XIII.- (DEROGADA, D.O.F. 26 DE JUNIO DE 2017)
 
 > <small>(ADICIONADA, D.O.F. 6 DE JUNIO DE 2006)</small>
 
 XIV.- Obligar a declarar a las personas que se mencionan en el artículo 243 Bis, del Código Federal de Procedimientos Penales, acerca de la información obtenida con motivo del desempeño de su actividad;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
-
-XV.- Omitir el registro de la detención correspondiente o dilatar injustificadamente poner al detenido a disposición de la autoridad correspondiente, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+XV. Omitir realizar el registro inmediato de la detención correspondiente, falsear el Reporte Administrativo de Detención correspondiente, omitir actualizarlo debidamente o dilatar injustificadamente poner al detenido bajo la custodia de la autoridad correspondiente; y
 
 > <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
 
 XVI.- Incumplir con la obligación de impedir la ejecución de las conductas de privación de la libertad.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2016)</small>
 
 Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones I a V y X a XII, se le impondrá de uno a ocho años de prisión y de cincuenta hasta cien días multa. Igual sanción se impondrá a las personas que acepten los nombramientos, contrataciones o identificaciones a que se refieren las fracciones X a XII.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADO, D.O.F. 26 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2016)</small>
-
-Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones VI a IX, XIII, XIV, XV y XVI, se le impondrá de dos a nueve años de prisión y de setenta hasta ciento cincuenta días multa.
+Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones VI a IX, XIV, XV y XVI, se le impondrá de dos a nueve años de prisión, de setenta hasta cuatrocientos días multa y destitución e inhabilitación de dos a nueve años para desempeñar otro empleo, cargo o comisión públicos.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 1 DE JUNIO DE 2001)</small>
 
@@ -3881,8 +3863,6 @@ IV.- Dirigir o aconsejar a las personas que ante ellos litiguen;
 
 V.- No cumplir una disposición que legalmente se les comunique por su superior competente, sin causa fundada para ello;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2016)</small>
 
 VI.- Dictar, a sabiendas, una resolución de fondo o una sentencia definitiva que sean ilícitas por violar algún precepto terminante de la ley, o ser contrarias a las actuaciones seguidas en juicio u omitir dictar una resolución de trámite, de fondo o una sentencia definitiva lícita, dentro de los términos dispuestos en la ley;
@@ -3891,35 +3871,21 @@ VII.- Ejecutar actos o incurrir en omisiones que produzcan un daño o concedan a
 
 VIII.- Retardar o entorpecer maliciosamente o por negligencia la administración de justicia;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 IX.- Abstenerse injustificadamente de ejercer la acción penal que corresponda de una persona que se encuentre detenida a su disposición como imputado de algún delito, cuando esta sea procedente conforme a la Constitución y a la leyes de la materia, en los casos en que la ley les imponga esa obligación; o ejercitar la acción penal cuando no proceda denuncia, acusación o querella;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2016)</small>
 
 X.- Detener a un individuo fuera de los casos señalados por la ley, o retenerlo por más tiempo del señalado en la Constitución;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 XI.- (DEROGADA, D.O.F. 17 DE JUNIO DE 2016)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
-
-XII.- Obligar al imputado a declarar, usando la incomunicación, intimidación o tortura;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+XII.- (DEROGADA, D.O.F. 26 DE JUNIO DE 2017)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 18 DE JULIO DE 2016)</small>
 
 XIII.- Ocultar al imputado el nombre de quien le acusa, salvo en los casos previstos por la ley, no darle a conocer el delito que se le atribuye o no realizar el descubrimiento probatorio conforme a lo que establece el Código Nacional de Procedimientos Penales;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
 
@@ -3927,13 +3893,9 @@ XIV.- Prolongar la prisión preventiva por más tiempo del que como máximo fije
 
 XV.- Imponer gabelas o contribuciones en cualesquiera lugares de detención o internamiento;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 XVI.- Demorar injustificadamente el cumplimiento de las resoluciones judiciales, en las que se ordene poner en libertad a un detenido;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2016)</small>
 
@@ -3941,19 +3903,13 @@ XVII.- No dictar auto de vinculación al proceso o de libertad de un detenido, d
 
 XVIII.- Ordenar o practicar cateos o visitas domiciliarias fuera de los casos autorizados por la ley;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 XIX.- Abrir procedimiento penal contra un servidor público, con fuero, sin habérsele retirado éste previamente, conforme a lo dispuesto por la ley;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2016)</small>
 
 XX.- Ordenar la aprehensión de un individuo por delito que no amerite pena privativa de libertad, o en casos en que no preceda denuncia, acusación o querella; o realizar la aprehensión sin poner al detenido a disposición del juez en el término señalado por el artículo 16 de la Constitución;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
 
@@ -3962,8 +3918,6 @@ XXI.- A los encargados o empleados de los centros penitenciarios que cobren cual
 XXII.- Rematar, en favor de ellos mismos, por sí o por interpósita persona, los bienes objeto de un remate en cuyo juicio hubieren intervenido;
 
 XXIII.- Admitir o nombrar un depositario o entregar a éste los bienes secuestrados, sin el cumplimiento de los requisitos legales correspondientes;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2016)</small>
 
@@ -3975,13 +3929,9 @@ XXV.- Nombrar síndico o interventor en un concurso o quiebra, a una persona que
 
 XXVI.- Permitir, fuera de los casos previstos por la ley, la salida temporal de las personas que están recluidas;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 XXVII.- No ordenar la libertad de un imputado, decretando su vinculación a proceso, cuando sea acusado por delito o modalidad que tenga señalada pena no privativa de libertad o alternativa;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2016)</small>
 
@@ -3989,19 +3939,13 @@ XXVIII.- Dar a conocer a quien no tenga derecho, documentos, constancias o infor
 
 XXIX.- (DEROGADA, D.O.F. 23 DE ENERO DE 2009)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 XXX.- Retener al imputado sin cumplir con los requisitos que establece la Constitución y las leyes respectivas;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 XXXI.- Alterar, modificar, ocultar, destruir, perder o perturbar el lugar de los hechos o del hallazgo, indicios, evidencias, objetos, instrumentos o productos relacionados con un hecho delictivo o el procedimiento de cadena de custodia;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2016)</small>
 
@@ -4015,41 +3959,27 @@ XXXIII.- Obligue a una persona o a su representante a otorgar el perdón en los 
 
 XXXIV.- Obligue a una persona a renunciar a su cargo o empleo para evitar responder a acusaciones de acoso, hostigamiento o para ocultar violaciones a la Ley Federal del Trabajo.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, D.O.F. 16 DE JUNIO DE 2016)</small>
 
 XXXV.- A quien ejerciendo funciones de supervisor de libertad o con motivo de ellas hiciere amenazas, hostigue o ejerza violencia en contra de la persona procesada, sentenciada, su familia y posesiones;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, D.O.F. 16 DE JUNIO DE 2016)</small>
 
 XXXVI.- A quien ejerciendo funciones de supervisor de libertad indebidamente requiera favores, acciones o cualquier transferencia de bienes de la persona procesada, sentenciada o su familia;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, D.O.F. 16 DE JUNIO DE 2016)</small>
 
 XXXVII.- A quien ejerciendo funciones de supervisor de libertad falsee informes o reportes al Juez de Ejecución.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2016)</small>
 
 A quien cometa los delitos previstos en las fracciones I, II, III, VII, VIII, IX, XX, XXIV, XXV, XXVI, XXXIII y XXXIV, se le impondrá pena de prisión de tres a ocho años y de treinta a mil cien días multa.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2016)</small>
 
 A quien cometa los delitos previstos en las fracciones IV, V, VI, X, XI, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XXI, XXII, XXIII, XXVII, XXVIII, XXX, XXXI, XXXII, XXXV, XXXVI y XXXVII se le impondrá pena de prisión de cuatro a diez años y de cien a ciento cincuenta días multa.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 18 DE JULIO DE 2016)</small>
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2016)</small>
 
@@ -8056,3 +7986,61 @@ I. En los procesos incoados, en los que aún no se formulen conclusiones acusato
 II. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal, respectivamente podrán efectuar la traslación del tipo de conformidad con la conducta que se haya probado y sus modalidades, y
 
 III. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, en función de la traslación del tipo, según las modalidades correspondientes.
+
+D.O.F. 26 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL FEDERAL, DE LA LEY DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS, DE LA LEY DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA Y DE LA LEY DE EXTRADICIÓN INTERNACIONAL".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga la Ley Federal para Prevenir y Sancionar la Tortura, publicada en el Diario Oficial de la Federación el 27 de diciembre de 1991.
+
+Los procedimientos iniciados por hechos que ocurran a partir de la entrada en vigor de la presente Ley, se seguirán conforme a lo establecido en el Código Nacional de Procedimientos Penales y en la presente Ley.
+
+Los procedimientos iniciados antes de la vigencia de la presente ley continuarán su sustanciación de conformidad con la legislación aplicable en el momento del inicio de los mismos.
+
+Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
+
+Aquellas personas, sentenciadas o procesadas, cuyas pruebas presentadas en su contra, carezcan de valor probatorio, por haber sido obtenidas directamente a través de tortura y de cualquier otra violación a derechos humanos o fundamentales, así como las pruebas obtenidas por medios legales pero derivadas de dichos actos, podrán interponer los recursos e incidentes correspondientes.
+
+Tercero. En un plazo máximo de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, la legislatura de cada entidad federativa deberá armonizar su marco jurídico de conformidad con el mismo.
+
+Cuarto. Las autoridades de los tres órdenes de gobierno, en el ámbito de sus atribuciones, deberán adoptar y publicar los protocolos y criterios a que se refiere la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, dentro de un plazo de ciento ochenta días posteriores a la publicación del presente Decreto.
+
+Quinto. La Procuraduría General de la República contará con un plazo de ciento ochenta días siguientes a la fecha en que el presente Decreto entre en vigor, para expedir el Programa Nacional para Prevenir y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes y contar con la infraestructura tecnológica necesaria para operar el Registro Nacional del Delito de Tortura.
+
+Dentro de los noventa días posteriores al cumplimiento del plazo señalado en el párrafo anterior, las procuradurías y fiscalías de las entidades federativas deberán poner en marcha sus registros correspondientes.
+
+Sexto. La Federación y las entidades federativas contarán con un plazo de noventa días posteriores a la fecha en que el presente Decreto entre en vigor, para crear y operar sus Fiscalías Especiales para la investigación del delito de tortura, salvo en los casos que por falta de recursos suficientes deban ser ejercidas por la unidad administrativa especializada correspondiente.
+
+Séptimo. Las autoridades de los tres órdenes de gobierno, en el ámbito de sus atribuciones, deberán iniciar los programas de capacitación continua de sus servidores públicos conforme a lo dispuesto en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, dentro de un plazo de ciento ochenta días posteriores a la publicación del presente Decreto.
+
+Octavo. Las autoridades de los tres órdenes de gobierno, en el ámbito de sus atribuciones y en un periodo no mayor a noventa días a partir de la entrada en vigor del presente Decreto, deberán realizar las gestiones necesarias y llevar a cabo los actos jurídicos y administrativos que resulten necesarios para proporcionar a las Instituciones de Procuración de Justicia la estructura orgánica y ocupacional necesaria para el cumplimiento de la Ley.
+
+Noveno. Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la Comisión Nacional de los Derechos Humanos deberá instalar formalmente el Mecanismo Nacional de Prevención de la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, y expedir las bases para su operación y funcionamiento en la sesión ordinaria inmediata a la instalación.
+
+De la misma manera, dentro de los noventa días posteriores al cumplimiento del plazo señalado en el párrafo anterior, deberán expedir los lineamientos de carácter general que determinen las modalidades y procedimientos que deberán seguir durante las visitas.
+
+La persona titular del Mecanismo Nacional de Prevención realizará el nombramiento del Director Ejecutivo dentro de los noventa días siguientes a la publicación del presente Decreto en el Diario Oficial de la Federación.
+
+La elección de los integrantes del Comité Técnico a que se refiere la fracción II del artículo 73 de esta Ley, se hará por única ocasión, atendiendo a la gradualidad siguiente:
+
+De las cuatro personas expertas elegidas, dos durarán en su encargo dos años y las otras dos durarán cuatro años, situación que será definida por el Senado conforme a la votación por mayoría; lo anterior para que exista sustitución escalonada en la integración del Comité Técnico, por lo que a partir de que concluya el periodo de dos años de los integrantes elegidos para dicho periodo, quienes los sustituyan serán elegidos en los términos de la ley por cuatro años.
+
+El Titular Presidente del Comité Técnico del Mecanismo Nacional de Prevención, durará en su encargo, mientras dure su encargo como Presidente de la Comisión Nacional de los Derechos Humanos.
+
+Décimo. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y las entidades de la Administración Pública Federal, se cubrirán con cargo a sus presupuestos del presente ejercicio fiscal y los subsecuentes. Así mismo, las entidades federativas deberán realizar las previsiones y adecuaciones presupuesta les necesarias para dar cumplimiento a las obligaciones establecidas en este Decreto.
+
+Décimo Primero. Las erogaciones que se generen con motivo de la operación del Mecanismo Nacional de Prevención de la Tortura para la Comisión Nacional de los Derechos Humanos, se cubrirán con cargo a su presupuesto aprobado para el presente ejercicio fiscal y los subsecuentes.
+
+Décimo Segundo. Las legislaturas de los estados y el órgano legislativo de la Ciudad de México, en los términos de la legislación aplicable, deberán destinar los recursos para el cumplimiento de las obligaciones que les competen en términos del presente Decreto.
+
+Décimo Tercero. En las entidades federativas en las que no exista una Comisión de Atención a Víctimas, las instituciones públicas de la entidad federativa deberán brindar la atención a las Víctimas conforme a lo establecido en el Título Sexto de la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+
+Asimismo, de conformidad con el artículo 79 de la Ley General de Víctimas, será competente la Comisión Ejecutiva de Atención a Víctimas para dar cumplimiento a lo establecido en el párrafo anterior. En el supuesto establecido en el párrafo primero de este artículo, la solicitud a que se refiere la fracción I del artículo 91 de la Ley deberá ser suscrita por el Secretario de Gobierno de la entidad federativa, correspondiente.
+
+Décimo Cuarto. Una vez que, en términos de lo dispuesto en el Artículo Quinto Transitorio del presente Decreto, la Procuraduría General de la República comience a operar el Registro Nacional del Delito de Tortura, la Comisión Ejecutiva y las Instituciones de Procuración de Justicia, podrán suscribir convenios de colaboración para la transmisión de información de las Víctimas del delito de tortura a dicho Registro.
+
+Décimo Quinto. En un período no mayor a ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, la Comisión Ejecutiva de Atención a Víctimas deberá llevar a cabo los actos necesarios para realizar las modificaciones orgánicas que sean indispensables para el cumplimiento de lo establecido en el mismo.
+
+Décimo Sexto. A fin de dar cumplimiento a las atribuciones que se establecen en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, la Comisión Ejecutiva de Atención a Víctimas realizará las adecuaciones a su Estatuto Orgánico y demás normatividad interna que sea necesaria, así como al fideicomiso que administra los recursos del Fondo de Ayuda, Asistencia y Reparación Integral, dentro del plazo de ciento ochenta días contados a partir de su entrada en vigor.
