@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-trabajadores-al-servicio-de-los-gobiernos-12047"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-31"
-last_updated: "2016-08-15"
+last_updated: "2017-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS, DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 1987.
 
@@ -181,13 +181,15 @@ Cuando por circunstancias especiales deban aumentarse las horas de jornada máxi
 
 Por cada seis días de trabajo disfrutará el trabajador de un día de descanso, cuando menos, con goce de salario íntegro.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 17.
 
-Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto, y de otros dos después del mismo. Durante el periodo de seis meses de lactancia establecido a partir de la fecha de nacimiento del hijo, tendrán dos descansos extraordinarios por día, de media hora cada uno, para alimentar a sus hijos o para realizar la extracción manual de leche, en un lugar adecuado e higiénico que designe la institución o dependencia. Asimismo contarán con la capacitación y fomento para la promoción de lactancia materna y el amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante los primeros seis meses y complementario hasta avanzado el segundo año de edad.
+Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto, y de otros dos después del mismo.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 15 DE AGOSTO DE 2016)</small>
+A solicitud expresa de la trabajadora, previa autorización escrita del médico de la institución de seguridad social que le corresponda, se podrá transferir hasta dieciséis días del mes de descanso previo al parto para después del mismo, en caso de que los hijos hayan nacido con cualquier tipo de discapacidad o requieran atención médica hospitalaria, el descanso podrá ser de hasta dieciséis días de los dos meses adicionales posterior al parto, previa presentación del certificado médico correspondiente.
+
+Durante el periodo de seis meses de lactancia establecido a partir de la fecha de nacimiento del hijo, tendrán dos descansos extraordinarios por día, de media hora cada uno, para alimentar a sus hijos o para realizar la extracción manual de leche, en un lugar adecuado e higiénico que designe la institución o dependencia. Asimismo, contarán con la capacitación y fomento para la promoción de lactancia materna y el amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante los primeros seis meses y complementario hasta avanzado el segundo año de edad.
 
 > <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2016)</small>
 
@@ -1268,3 +1270,11 @@ P.O. 15 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 696 QUE ADICIONA LOS ARTÍCULOS 17 BIS, 17 TER, 17 QUATER, 17 QUINQUIES, 17 SEXIES, 17 SEPTIES, 17 OCTIES, 17 NONIES; Y DEROGA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 17, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS, DEL ESTADO DE HIDALGO".]
 
 ÚNICO.- El presente Decreto, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 26 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 176 POR EL QUE SE REFORMA EL ARTÍCULO 17 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS, DEL ESTADO DE HIDALGO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
