@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-gobierno-municipal-del-estado-de-sinaloa-22823"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-26"
-last_updated: "2016-11-30"
+last_updated: "2017-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial de Estado de Sinaloa, el lunes 26 de noviembre de 2001.
 
@@ -1029,11 +1029,103 @@ VII. Las demás que le encomiende el Presidente Municipal.
 
 En los Ayuntamientos que no haya Secretario de la Presidencia, las atribuciones que correspondan a éste se realizarán por el Secretario del Ayuntamiento, por el Oficial Mayor, o por ambos a juicio del Presidente Municipal.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE JUNIO DE 2017)</small>
+
+###### Artículo 67 Bis.
+
+Cada Ayuntamiento contará con un órgano interno de control, dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos de los Ayuntamientos y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
+
+El órgano interno de control tendrá un titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto.
+
+En el desempeño de su cargo, el titular del órgano interno de control se sujetará a los principios previstos en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+Artículo 67 Bis A. El titular del órgano interno de control será designado por el Cabildo a propuesta del Síndico Procurador, con el voto de las dos terceras partes de sus miembros presentes.
+
+El titular del órgano interno de control durará en su encargo tres años y podrá ser designado por un periodo inmediato posterior al que se haya desempeñado, previa postulación y cumpliendo de (sic) los requisitos previstos en esta Ley y el procedimiento establecido en su reglamento.
+
+Tendrá un nivel jerárquico igual al de un tesorero o su equivalente en la estructura orgánica del Ayuntamiento, y mantendrá la coordinación técnica necesaria con la Auditoría Superior del Estado.
+
+El titular del órgano interno de control deberá rendir informe semestral y anual de actividades al Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+Artículo 67 Bis B. El titular del órgano interno de control será sujeto de responsabilidad en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado; y podrá ser sancionado de conformidad con el procedimiento previsto en la normatividad aplicable.
+
+Tratándose de los demás servidores públicos adscritos al órgano interno de control serán sancionados por su titular o el servidor público en quien delegue la facultad, en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+Artículo 67 Bis C. El órgano interno de control deberá inscribir y mantener actualizada la información correspondiente del Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal; de todos los servidores públicos del Ayuntamiento, de conformidad con la Ley del Sistema Anticorrupción y la Ley de Responsabilidades Administrativas, ambas del Estado y la Ley General de Responsabilidades Administrativas.
+
+El titular del órgano interno de control se abstendrá de desempeñar cualquier otro empleo, trabajo o comisión públicos o privados, con excepción de los cargos docentes.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+Artículo 67 Bis D. El titular del órgano interno de control deberá reunir los siguientes requisitos:
+
+I. Ser ciudadano mexicano, preferentemente sinaloense residente del Estado, en pleno goce de sus derechos civiles y políticos, y tener treinta años cumplidos el día de la designación;
+
+II. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena de prisión por más de un año;
+
+III. Contar al momento de su designación con una experiencia de al menos cinco años en el control, manejo o fiscalización de recursos y responsabilidades administrativas;
+
+IV. Contar al día de su designación, con antigüedad mínima de cinco años, con título profesional relacionado con las actividades a que se refiere la fracción anterior, expedido por autoridad o institución legalmente facultada para ello;
+
+V. No pertenecer o haber pertenecido en los cinco años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios al Ayuntamiento o haber fungido como consultor o auditor externo al Ayuntamiento, en lo individual durante ese periodo; y
+
+VI. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+Artículo 67 Bis E. El órgano interno de control tendrá las siguientes atribuciones:
+
+I. Las que contempla la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Sinaloa;
+
+II. Verificar que el ejercicio de gasto del Ayuntamiento se realice conforme a la normatividad aplicable, los programas aprobados y montos autorizados;
+
+III. Presentar al Cabildo los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del Ayuntamiento;
+
+IV. Revisar que las operaciones presupuestales que realice el Ayuntamiento, se hagan con apego a las disposiciones legales y administrativas aplicables y, en su caso, determinar las desviaciones de las mismas y las causas que les dieron origen;
+
+V. Promover ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorías;
+
+VI. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Ayuntamiento;
+
+VII. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos, empleando la metodología que determine el mismo Órgano;
+
+VIII. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos del Ayuntamiento, empleando la metodología que determine;
+
+IX. Recibir quejas y denuncias conforme a las leyes aplicables;
+
+X. Solicitar la información y efectuar visitas a las áreas y órganos del Ayuntamiento para el cumplimento de sus funciones;
+
+XI. Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en materia de adquisiciones, arrendamientos, servicios y obras públicas;
+
+XII. Intervenir en los actos de entrega-recepción de los servidores públicos de mandos medios y superiores, en los términos de la normativa aplicable;
+
+XIII. Atender las solicitudes de los diferentes órganos del Ayuntamiento en los asuntos de su competencia;
+
+XIV. Proponer los proyectos de modificación o actualización de su estructura orgánica, personal y/o recursos;
+
+XV. Formular su anteproyecto de presupuesto;
+
+XVI. Presentar al Cabildo los informes previo y anual de resultados de su gestión, y comparecer ante el mismo, cuando así lo requiera el Presidente;
+
+XVII. Presentar al Cabildo los informes respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas; y
+
+XVIII. Las demás que le confieran otros ordenamientos.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+Artículo 67 Bis F. Los servidores públicos adscritos al órgano interno de control de los Ayuntamientos y, en su caso, los profesionales contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo del desempeño de sus facultades así como de sus actuaciones y observaciones.
+
+### CAPÍTULO X Bis. DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+
 ### CAPÍTULO XI. DE LOS SÍNDICOS Y COMISARIOS MUNICIPALES
-
-### CAPÍTULO XII. DE LA SEGURIDAD PÚBLICA Y TRÁNSITO MUNICIPAL
-
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2015)</small>
 
 ###### Artículo 68.
 
@@ -1095,7 +1187,9 @@ VIII. Inspeccionar el funcionamiento de las dependencias de la Sindicatura o Com
 
 IX. Las demás que señalen las Leyes y Reglamentos.
 
-### CAPÍTULO XIII. DE LA HACIENDA MUNICIPAL
+### CAPÍTULO XII. DE LA SEGURIDAD PÚBLICA Y TRÁNSITO MUNICIPAL
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2015)</small>
 
 ###### Artículo 71.
 
@@ -1119,7 +1213,7 @@ V. Aprehender a los delincuentes en los casos de flagrante delito.
 
 En materia de tránsito estará facultada para vigilar la circulación de vehículos, peatones y conductores en los centros poblados de su jurisdicción, y en general para ejercer las atribuciones que le confieran las leyes y reglamentos de la materia.
 
-### CAPÍTULO XIV. DE LA POTESTAD REGLAMENTARIA
+### CAPÍTULO XIII. DE LA HACIENDA MUNICIPAL
 
 ###### Artículo 74.
 
@@ -1167,7 +1261,7 @@ V. La autorización de actos cuyos efectos jurídicos establezcan obligaciones q
 
 Los demás casos se regirán conforme a las disposiciones, condiciones y requisitos que se establezcan en la reglamentación municipal de la materia.
 
-### CAPÍTULO XV. DE LOS SERVICIOS PÚBLICOS
+### CAPÍTULO XIV. DE LA POTESTAD REGLAMENTARIA
 
 ###### Artículo 79.
 
@@ -1227,7 +1321,7 @@ Son Circulares las disposiciones administrativas de carácter interno de la admi
 
 Los bandos, circulares u otras disposiciones no podrán adicionar, contradecir o variar el contenido de los reglamentos municipales.
 
-### CAPÍTULO XVI. DE LA SUSPENSIÓN Y DESAPARICIÓN DE LOS AYUNTAMIENTOS Y DE LA SUSPENSIÓN Y REVOCACIÓN DEL MANDATO DE MUNÍCIPES
+### CAPÍTULO XV. DE LOS SERVICIOS PÚBLICOS
 
 ###### Artículo 85.
 
@@ -1301,7 +1395,7 @@ III. Las empresas en las cuales sean representantes o tengan intereses económic
 
 La contravención a este artículo será causa de revocación de la concesión y motivo de responsabilidad oficial.
 
-### CAPÍTULO XVII. DEL PROCEDIMIENTO ADMINISTRATIVO
+### CAPÍTULO XVI. DE LA SUSPENSIÓN Y DESAPARICIÓN DE LOS AYUNTAMIENTOS Y DE LA SUSPENSIÓN Y REVOCACIÓN DEL MANDATO DE MUNÍCIPES
 
 ###### Artículo 92.
 
@@ -1391,7 +1485,7 @@ Cuando el Congreso esté en receso, la Diputación Permanente lo convocará a pe
 
 En lo no previsto por el presente Capítulo, se aplicarán en forma supletoria, en lo conducente, la Ley de Responsabilidades de los Servidores Públicos y los Códigos Civil, Penal, de Procedimientos Civiles y de Procedimientos Penales, del Estado de Sinaloa.
 
-### CAPÍTULO XVIII. DE LOS MEDIOS DE DEFENSA
+### CAPÍTULO XVII. DEL PROCEDIMIENTO ADMINISTRATIVO
 
 ###### Artículo 103.
 
@@ -1411,7 +1505,7 @@ IV. Sólo podrá negarse la información o el acceso a los expedientes, cuando e
 
 V. Las actuaciones se verificarán en las oficinas de las dependencias o entidades competentes. En los casos en que la naturaleza de la diligencia así lo requiera y sea necesario o conveniente para agilizar el procedimiento, el desahogo de la diligencia podrá trasladarse a otro sitio, previa constancia debidamente fundada y motivada de esta circunstancia.
 
-### CAPÍTULO XIX. DE LA ASOCIACIÓN CON FINES DE DERECHO PÚBLICO
+### CAPÍTULO XVIII. DE LOS MEDIOS DE DEFENSA
 
 ###### Artículo 105.
 
@@ -1430,6 +1524,8 @@ El procedimiento deberá ser expedito y se desarrollará en un plazo no mayor de
 ###### Artículo 107.
 
 Cuando el particular acuda ante el Tribunal de lo Contencioso Administrativo, en los municipios donde no existan Salas Regionales, podrá interponerla por correo certificado en los términos de la Ley de Justicia Administrativa o presentar personalmente la demanda y demás documentos para proseguir el procedimiento, ante el órgano creado por el Ayuntamiento para resolver el recurso administrativo de revisión, quien deberá ser el medio de comunicación entre las partes y la Sala Regional respectiva, lo cual surtirá todos los efectos legales que prevé la Ley de Justicia Administrativa para el Estado de Sinaloa.
+
+### CAPÍTULO XIX. DE LA ASOCIACIÓN CON FINES DE DERECHO PÚBLICO
 
 ###### Artículo 108.
 
@@ -1614,3 +1710,23 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Los Ayuntamientos en un plazo de noventa días posteriores al inicio de vigencia del presente Decreto realizarán las adecuaciones normativas correspondientes para dar cumplimiento al mismo.
+
+P.O. 26 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 158 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Segundo. El Congreso del Estado, dentro de los 180 días siguientes a la publicación de este Decreto, iniciará los procesos de designación de los titulares de los órganos internos de control de los organismos a los que la Constitución Política del Estado de Sinaloa les otorga autonomía y que ejerzan recursos públicos del Presupuesto de Egresos de la Federación previstos en este Decreto.
+
+Lo anterior, con excepción de aquellos titulares de los órganos internos de control de los organismos a los que la Constitución Política del Estado de Sinaloa les otorga autonomía y que ejercen recursos públicos que se encontraban en funciones a la entrada en vigor del Decreto por el que se reforman, adicionan, y derogan diversas disposiciones de la Constitución Política del Estado de Sinaloa, en materia de combate a la corrupción, publicado en el Periódico Oficial "El Estado de Sinaloa" el 17 de marzo de 2017, los cuales continuarán en su encargo en los términos en los que fueron nombrados.
+
+Tercero. Los órganos de gobierno de los organismos a los que la Constitución Política del Estado de Sinaloa les otorga autonomía y que ejercen recursos públicos, tendrán un plazo de ciento ochenta días, a partir de la publicación del presente Decreto, para armonizar su normatividad interna en los términos del presente Decreto.
+
+Cuarto. Los recursos humanos, financieros y materiales que actualmente se encuentran asignados a las Contralorías, se entenderán asignados a los órganos internos de control a que se refiere el presente Decreto.
+
+Quinto. Las referencias relativas a la Ley General de Responsabilidades Administrativas se entenderán a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos hasta que este ordenamiento legal se abrogue el 17 de julio de 2017.
+
+Sexto. Los Ayuntamientos, dentro de los 180 días siguientes a la publicación de este Decreto, iniciarán los procesos de designación de los titulares de los órganos internos de control que ejerzan recursos públicos, previstos en este Decreto.
+
+Lo anterior, con excepción de aquellos titulares de los órganos internos de control de los organismos que ejercen recursos públicos que se encontraban en funciones a la entrada en vigor del Decreto por el que se reforman, adicionan, y derogan diversas disposiciones de la Constitución Política del Estado de Sinaloa, en materia de combate a la corrupción, publicado en el Periódico Oficial "El Estado de Sinaloa" el 17 de marzo de 2017, los cuales continuarán en su encargo en los términos en los que fueron nombrados.
