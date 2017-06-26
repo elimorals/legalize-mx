@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-instituciones-y-procedimientos-electorales-del-109151"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-15"
-last_updated: "2017-06-15"
+last_updated: "2017-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 15 de julio de 2015.
 
@@ -1927,9 +1927,109 @@ VI. Delegar el ejercicio de la función de oficialía electoral a otros servidor
 
 VII. Las demás que le confieran esta ley, el Consejo General y su Presidente, en los términos de la normatividad aplicable.
 
-### Capítulo III. De los Consejos Distritales Electorales
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRA, P.O. 26 DE JUNIO DE 2017)</small>
 
-### Capítulo IV. De los Consejos Municipales Electorales
+### Capítulo II Bis. Del Órgano Interno de Control
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+###### Artículo 149 Bis.
+
+El Instituto contará con un órgano interno de control, con autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del Instituto y de particulares vinculados con faltas graves; para sancionar aquéllas distintas a las que son competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
+
+El titular del órgano interno de control será designado por el Congreso del Estado, con el voto de las dos terceras partes de sus miembros presentes, a propuesta de instituciones públicas de educación superior, mediante los procedimientos y en los plazos que fije la Ley Orgánica del Congreso del Estado de Sinaloa.
+
+El titular del órgano interno de control durará en su encargo seis años, y podrá ser reelecto por una sola vez. Estará adscrito administrativamente a la Presidencia del Instituto y mantendrá la coordinación técnica necesaria con la Auditoría Superior del Estado.
+
+En el desempeño de su cargo, el titular del órgano interno de control se sujetará a los principios previstos en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+Artículo 149 Bis A. El titular del órgano interno de control deberá reunir los requisitos siguientes:
+
+I. Ser ciudadano mexicano, preferentemente sinaloense residente del Estado, y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+
+II. Estar inscrito en el Registro Federal de Electores y contar con credencial para votar;
+
+III. Tener más de treinta años de edad, el día de la designación;
+
+IV. No haber sido registrado como candidato, ni haber desempeñado cargo alguno de elección popular en los últimos cuatro años anteriores a la designación;
+
+V. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal en algún partido político en los últimos cuatro años anteriores a la designación;
+
+VI. No ser Secretario o Subsecretario de Estado, Fiscal General o Gobernador, a menos que se separe de su encargo con cuatro años de anticipación al día de su nombramiento;
+
+VII. No ser consejero electoral del Instituto, salvo que se haya separado del cargo tres años antes del día de la designación;
+
+VIII. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratara de robo, fraude, falsificación, abuso de confianza u otro que afecte la buena fama en el concepto público, ello lo inhabilitará para el cargo, cualquiera que haya sido la pena;
+
+IX. Contar al momento de su designación con experiencia profesional de al menos cinco años en el control, manejo o fiscalización de recursos y responsabilidades administrativas;
+
+X. Contar al día de su designación, con antigüedad mínima de cinco años, con título profesional, de nivel licenciatura, de contador público u otro relacionado en forma directa con las actividades de fiscalización, expedido por autoridad o institución legalmente facultada para ello; y
+
+XI. No pertenecer o haber pertenecido en los cuatro años anteriores a su designación a despachos de consultoría o auditoría que hubieren prestado sus servicios al Instituto o a algún partido político.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+Artículo 149 Bis B. El titular del órgano interno de control será sujeto de responsabilidad en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado, y podrá ser sancionado de conformidad con el procedimiento previsto en la normatividad aplicable.
+
+Tratándose de los demás servidores públicos adscritos al órgano interno de control serán sancionados por su titular o por el servidor público en quien delegue la facultad, en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado.
+
+El titular del órgano interno de control deberá rendir informe semestral y anual de actividades al Consejo General del Instituto, del cual remitirá copia al Congreso del Estado.
+
+El órgano interno de control deberá inscribir y mantener actualizada la información correspondiente del Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal; de todos los servidores públicos del Instituto, de conformidad con la Ley del Sistema Anticorrupción, la Ley de Responsabilidades Administrativas, ambas del Estado y la Ley General de Responsabilidades Administrativas.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+Artículo 149 Bis C. El órgano interno de control tendrá las facultades siguientes:
+
+I. Fijar los criterios para la realización de las auditorías, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de los recursos a cargo de las áreas y órganos del Instituto;
+
+II. Establecer las normas, procedimientos, métodos y sistemas de contabilidad y de archivo, de los libros y documentos justificativos y comprobatorios del ingreso y del gasto, así como aquellos elementos que permitan la práctica idónea de las auditorías y revisiones, que realice en el cumplimiento de sus funciones;
+
+III. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos;
+
+IV. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos del Instituto;
+
+V. Verificar que las diversas áreas administrativas del Instituto que hubieren recibido, manejado, administrado o ejercido recursos, lo hagan conforme a la normatividad aplicable, los programas aprobados y montos autorizados, así como, en el caso de los egresos, con cargo a las partidas correspondientes y con apego a las disposiciones legales, reglamentarias y administrativas conducentes;
+
+VI. Revisar que las operaciones presupuestales que realice el Instituto se hagan con apego a las disposiciones legales y administrativas aplicables a estas materias;
+
+VII. Verificar las obras, bienes adquiridos o arrendados y servicios contratados, para comprobar que las inversiones y gastos autorizados se han aplicado, legal y eficientemente al logro de los objetivos y metas de los programas aprobados;
+
+VIII. Requerir a terceros que hubieran contratado bienes o servicios con el Instituto la información relacionada con la documentación justificativa y comprobatoria respectiva, a efecto de realizar las compulsas que correspondan;
+
+IX. Solicitar y obtener la información necesaria para el cumplimiento de sus funciones. Por lo que hace a la información relativa a las operaciones de cualquier tipo proporcionada por las instituciones de crédito, les será aplicable a todos los servidores públicos del Órgano Interno de Control del Instituto, así como a los profesionales contratados para la práctica de auditorías, la obligación de guardar la reserva a que aluden las disposiciones normativas en materia de transparencia y acceso a la información pública;
+
+X. Investigar, calificar, y en su caso, substanciar, resolver y sancionar de conformidad con el procedimiento establecido en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado e integrar el expediente de presunta responsabilidad administrativa respecto de las denuncias que se presenten en contra de los servidores públicos del Instituto;
+
+XI. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Instituto, así como en el caso de cualquier irregularidad en el ejercicio del empleo, cargo o comisión de los servidores públicos del Instituto;
+
+XII. Recibir denuncias o quejas directamente relacionadas con el uso y disposición de los ingresos y recursos del Instituto, así como con el desempeño en sus funciones por parte de los servidores públicos del mismo y desahogar los procedimientos a que haya lugar;
+
+XIII. Efectuar visitas a las sedes físicas de las áreas y órganos del Instituto para solicitar la exhibición de los libros y papeles indispensables para la realización de sus investigaciones, sujetándose a las formalidades respectivas;
+
+XIV. Establecer los mecanismos de orientación y cursos de capacitación que resulten necesarios para que los servidores públicos del Instituto cumplan adecuadamente con sus responsabilidades administrativas;
+
+XV. Presentar a la aprobación del Consejo General sus programas anuales de trabajo;
+
+XVI. Presentar al Consejo General los informes previo y anual de resultados de su gestión, y acudir ante el mismo Consejo cuando así lo requiera el Consejero Presidente;
+
+XVII. Participar, a través de su titular, con voz pero sin voto, en las sesiones del Consejo General cuando por motivo del ejercicio de sus facultades, así lo considere necesario el Consejero Presidente;
+
+XVIII. Intervenir en los procesos de entrega-recepción por inicio o conclusión de encargo de los servidores públicos que corresponda; y
+
+XIX. Las demás que le otorgue esta Ley, la Ley General de Responsabilidades Administrativas, la Ley de Responsabilidades Administrativas del Estado o las leyes aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+Artículo 149 Bis D. Los órganos, áreas ejecutivas y servidores públicos del Instituto estarán obligados a proporcionar la información, permitir la revisión y atender los requerimientos que les presente el órgano interno de control, sin que dicha revisión interfiera u obstaculice el ejercicio de las funciones o atribuciones que esta Ley o las leyes aplicables les confieren.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+
+Artículo 149 Bis E. Los servidores públicos adscritos al órgano interno de control del Instituto y, en su caso, los profesionales contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo del desempeño de sus facultades así como de sus actuaciones y observaciones.
+
+### Capítulo III. De los Consejos Distritales Electorales
 
 ###### Artículo 150.
 
@@ -2049,7 +2149,7 @@ VIII. Las demás que le sean conferidas por esta ley, el Consejo General y Distr
 
 El Secretario del Consejo Distrital Electoral tendrá en el ámbito de su competencia, las atribuciones previstas en el artículo 149 de esta ley.
 
-### Capítulo V. De las Mesas Directivas de Casilla
+### Capítulo IV. De los Consejos Municipales Electorales
 
 ###### Artículo 158.
 
@@ -2117,7 +2217,7 @@ La Presidencia del Consejo Municipal Electoral tendrá en el ámbito de su compe
 
 El Secretario del Consejo Municipal Electoral tendrá en el ámbito de su competencia, las atribuciones previstas en el artículo 149 de esta ley.
 
-### Capítulo VI. Disposiciones Comunes a los Consejos Electorales
+### Capítulo V. De las Mesas Directivas de Casilla
 
 ###### Artículo 166.
 
@@ -2125,7 +2225,7 @@ La integración, ubicación y designación de integrantes de las mesas directiva
 
 Se realizará con base en las disposiciones de la legislación general y en los acuerdos que emita el Consejo General del Instituto Nacional Electoral en la materia.
 
-### Capítulo I. Disposiciones Generales
+### Capítulo VI. Disposiciones Comunes a los Consejos Electorales
 
 ###### Artículo 167.
 
@@ -2153,7 +2253,7 @@ Los Consejos Distritales y Municipales dentro de las veinticuatro horas siguient
 
 ## TÍTULO SEXTO. Del Proceso Electoral
 
-### Capítulo II. De los Observadores Electorales
+### Capítulo I. Disposiciones Generales
 
 ###### Artículo 170.
 
@@ -2163,7 +2263,7 @@ Son aplicables las disposiciones de la Ley General de Instituciones y Procedimie
 
 El proceso electoral en el Estado se iniciará con la publicación de la convocatoria a elecciones que emita el Congreso del Estado y concluirá con la declaratoria correspondiente que emita el Tribunal Estatal Electoral.
 
-### Capítulo III. De las Precampañas, Registro de Candidatos y Campañas Electorales
+### Capítulo II. De los Observadores Electorales
 
 ###### Artículo 171.
 
@@ -2171,7 +2271,7 @@ La expedición de las reglas, lineamientos, criterios y formatos en materia de o
 
 El Instituto, de conformidad con el artículo 104, inciso m) de la Ley General de Instituciones y Procedimientos Electorales deberá desarrollar las actividades que se requieran para garantizar el derecho de los ciudadanos a realizar labores de observación electoral en la entidad, de acuerdo con los lineamientos y criterios que emita el Instituto Nacional Electoral, y lo previsto en el artículo 217 de la misma Ley General.
 
-### Capítulo IV. De la Campaña Electoral
+### Capítulo III. De las Precampañas, Registro de Candidatos y Campañas Electorales
 
 ###### Artículo 172.
 
@@ -2297,7 +2397,7 @@ V. Las aportaciones en bienes muebles o inmuebles deberán destinarse única y e
 
 La fiscalización de los ingresos y egresos de las precampañas corresponde al Instituto Nacional Electoral en términos de lo dispuesto en el apartado B de la base V del artículo 41 de la Constitución, o a cargo del Instituto en caso de que la autoridad nacional le delegue el ejercicio de dicha facultad, de conformidad con lo dispuesto en el artículo 125 de la Ley General de Instituciones y Procedimientos Electorales.
 
-### Capítulo V. Del Procedimiento para el Registro de Candidatos
+### Capítulo IV. De la Campaña Electoral
 
 ###### Artículo 178.
 
@@ -2411,7 +2511,7 @@ En todo caso los poseedores o propietarios de los espacios comerciales donde se 
 
 Cualquier infracción a las disposiciones relativas, a la propaganda electoral será sancionada en los términos de esta ley y demás disposiciones jurídicas aplicables.
 
-### Capítulo VI. Del Registro de Representantes
+### Capítulo V. Del Procedimiento para el Registro de Candidatos
 
 ###### Artículo 187.
 
@@ -2519,7 +2619,7 @@ II. Vencido el plazo a que se refiere la fracción anterior, solo podrán sustit
 
 III. En los casos en que la renuncia del candidato fuera notificada por éste a los órganos electorales que correspondan, se hará del conocimiento del partido político o coalición que lo registró para que proceda, en su caso, a la sustitución.
 
-### Capítulo VII. De la Documentación y el Material Electoral
+### Capítulo VI. Del Registro de Representantes
 
 ###### Artículo 196.
 
@@ -2621,7 +2721,7 @@ Los nombramientos de los representantes generales deberán contener los mismos d
 
 De estos nombramientos se formará una lista que deberá entregarse a los Presidentes de las Mesas Directivas de Casilla.
 
-### Capítulo VIII. De la Jornada Electoral
+### Capítulo VII. De la Documentación y el Material Electoral
 
 ###### Artículo 204.
 
@@ -2719,7 +2819,7 @@ Los Consejos Distritales fijarán, dentro de los cinco días previos al día de 
 
 Asimismo mandará publicar en los diarios de mayor circulación, el día de la jornada electoral, la lista conteniendo la ubicación de las casillas electorales y su integración por municipios, distrito electoral, sección y número de casilla según corresponda.
 
-### Capítulo IX. De la Recepción de Paquetes Electorales y la Información Preliminar de Resultados
+### Capítulo VIII. De la Jornada Electoral
 
 ###### Artículo 216.
 
@@ -3137,7 +3237,7 @@ III. El apoyo necesario para practicar las diligencias que les sean demandadas p
 
 IV. La información de los hechos que puedan influir o alterar el resultado de las elecciones.
 
-### Capítulo X. De los Cómputos Distritales y Municipales y del Recuento de Votos
+### Capítulo IX. De la Recepción de Paquetes Electorales y la Información Preliminar de Resultados
 
 ###### Artículo 249.
 
@@ -3171,7 +3271,7 @@ Las reglas, lineamientos, criterios y formatos en materia de resultados prelimin
 
 El Instituto, de conformidad con los artículos 104, inciso k) de la Ley General de Instituciones y Procedimientos Electorales deberá implementar y operar el Programa de Resultados Electorales Preliminares de las elecciones que se lleven a cabo en la entidad, de conformidad con las reglas, lineamientos, criterios y formatos que para el efecto emita el Instituto Nacional Electoral y el artículo 219 de la misma ley general.
 
-### Capítulo XI. Del Cómputo Estatal
+### Capítulo X. De los Cómputos Distritales y Municipales y del Recuento de Votos
 
 ###### Artículo 252.
 
@@ -3349,7 +3449,7 @@ Las presidencias de los Consejos Distritales y Municipales conservarán en su po
 
 Asimismo, tomarán las medidas necesarias para el depósito y salvaguarda de toda la documentación electoral, en el lugar que para tal efecto se determine, por el tiempo que sea necesario, hasta que el Consejo General acuerde su destrucción; cualquier acto que contravenga esta disposición, será sancionado en los términos de la legislación penal aplicable.
 
-### Capítulo XII. De la Calificación de las Elecciones
+### Capítulo XI. Del Cómputo Estatal
 
 ###### Artículo 262.
 
@@ -3429,7 +3529,7 @@ g) Los demás elementos que estime pertinentes para la resolución; y,
 
 II. Una vez integrado los expedientes correspondientes al o los recursos interpuestos, deberán remitirlos al Tribunal Electoral y, en su caso, anexar el expediente de la elección o elecciones impugnadas.
 
-### Capítulo I. Sujetos Responsables
+### Capítulo XII. De la Calificación de las Elecciones
 
 ###### Artículo 266.
 
@@ -3445,7 +3545,7 @@ El Bando Solemne se publicará en las cabeceras municipales.
 
 ## TÍTULO SÉPTIMO. De los Regímenes Sancionador Electoral y Disciplinario Interno de las Infracciones Electorales y Sanciones
 
-### Capítulo II. Infracciones de los Partidos Políticos
+### Capítulo I. Sujetos Responsables
 
 ###### Artículo 268.
 
@@ -3477,7 +3577,7 @@ X. Los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier re
 
 XI. Los demás sujetos obligados en los términos de la presente ley.
 
-### Capítulo III. De las Infracciones de las y los Aspirantes, Precandidatos y Candidatos
+### Capítulo II. Infracciones de los Partidos Políticos
 
 ###### Artículo 270.
 
@@ -3517,7 +3617,7 @@ XV. Realizar dolosamente propuestas de precampaña o campaña electoral que aten
 
 XVI. La comisión de cualquier conducta que contravenga las disposiciones de esta ley.
 
-### Capítulo IV. De las Infracciones de los Ciudadanos, Miembros y Dirigentes de los Partidos Políticos
+### Capítulo III. De las Infracciones de las y los Aspirantes, Precandidatos y Candidatos
 
 ###### Artículo 271.
 
@@ -3577,7 +3677,7 @@ XIV. La omisión o el incumplimiento de la obligación de proporcionar en tiempo
 
 XV. El incumplimiento de cualquiera de las disposiciones contenidas en esta ley y demás disposiciones aplicables.
 
-### Capítulo V. De las Infracciones de los Observadores Electorales y sus Organizaciones
+### Capítulo IV. De las Infracciones de los Ciudadanos, Miembros y Dirigentes de los Partidos Políticos
 
 ###### Artículo 273.
 
@@ -3607,7 +3707,7 @@ La sanción que se imponga, en su caso, deberá de valorar el grado de frivolida
 
 V. El incumplimiento de cualquiera de las disposiciones contenidas en esta ley.
 
-### Capítulo VI. De las Infracciones de Servidores Públicos
+### Capítulo V. De las Infracciones de los Observadores Electorales y sus Organizaciones
 
 ###### Artículo 274.
 
@@ -3623,7 +3723,7 @@ III. Externar cualquier expresión de calumnia en contra de las instituciones, a
 
 IV. Declarar el triunfo de algún candidato o partido político.
 
-### Capítulo VII. De las Infracciones de los Notarios Públicos
+### Capítulo VI. De las Infracciones de Servidores Públicos
 
 ###### Artículo 275.
 
@@ -3639,19 +3739,19 @@ IV. La utilización de programas sociales y de sus recursos, del ámbito federal
 
 V. El incumplimiento de cualquiera de las disposiciones contenidas en esta ley y demás disposiciones jurídicas aplicables.
 
-### Capítulo VIII. De las Infracciones de los Extranjeros
+### Capítulo VII. De las Infracciones de los Notarios Públicos
 
 ###### Artículo 276.
 
 Constituyen infracciones a la presente ley, de las y los notarios públicos, el incumplimiento de las obligaciones de mantener abiertas sus oficinas el día de la elección y de atender las solicitudes que les hagan las autoridades electorales, los funcionarios de casilla, los ciudadanos, los representantes de partidos políticos y candidatos independientes, para dar fe de hechos o certificar documentos concernientes a la elección.
 
-### Capítulo IX. De las Infracciones de Organizaciones de Ciudadanos que pretendan formar Partidos Políticos
+### Capítulo VIII. De las Infracciones de los Extranjeros
 
 ###### Artículo 277.
 
 Constituyen infracciones de los extranjeros a la presente ley las conductas que violen lo dispuesto por el artículo 33 de la Constitución Política de los Estados Unidos Mexicanos y las leyes aplicables.
 
-### Capítulo X. De las Infracciones de Organizaciones Sindicales, Laborales o Patronales
+### Capítulo IX. De las Infracciones de Organizaciones de Ciudadanos que pretendan formar Partidos Políticos
 
 ###### Artículo 278.
 
@@ -3663,7 +3763,7 @@ II. Permitir que en la creación del partido político intervengan organizacione
 
 III. Realizar o promover la afiliación colectiva de ciudadanos a la organización o al partido para el que se pretenda registro.
 
-### Capítulo XI. De las Infracciones de los Ministros de Culto, Asociaciones o Agrupaciones de Cualquier Religión
+### Capítulo X. De las Infracciones de Organizaciones Sindicales, Laborales o Patronales
 
 ###### Artículo 279.
 
@@ -3673,7 +3773,7 @@ I. Intervenir en la creación y registro de un partido político o en actos de a
 
 II. El incumplimiento, de cualquiera de las disposiciones contenidas en esta ley.
 
-### Capítulo XII. De las Sanciones
+### Capítulo XI. De las Infracciones de los Ministros de Culto, Asociaciones o Agrupaciones de Cualquier Religión
 
 ###### Artículo 280.
 
@@ -3685,9 +3785,9 @@ II. Realizar o promover aportaciones económicas a un partido político, aspiran
 
 III. Incurrir en cualquier conducta que les sea prohibida por esta ley.
 
-### Capítulo I. Disposiciones Generales
+### Capítulo XII. De las Sanciones
 
-### Capítulo II. Del Procedimiento Sancionador Ordinario
+### Capítulo I. Disposiciones Generales
 
 ###### Artículo 281.
 
@@ -3829,7 +3929,7 @@ Las multas que se impongan a los sujetos del régimen sancionador electoral, que
 
 ## TÍTULO OCTAVO. Del Procedimiento Sancionador
 
-### Capítulo III. Del Procedimiento Sancionador Especial
+### Capítulo II. Del Procedimiento Sancionador Ordinario
 
 ###### Artículo 289.
 
@@ -3930,6 +4030,8 @@ En el caso de existir imposibilidad material para compulsar las copias simples q
 ###### Artículo 293.
 
 Para la resolución expedita de las quejas con el objeto de determinar en una sola resolución sobre dos o más de ellas, procederá decretar la acumulación por litispendencia, conexidad, o cuando exista vinculación de dos o más expedientes de procedimientos porque existan varias quejas contra un mismo denunciado, respecto de una misma conducta y provengan de una misma causa.
+
+### Capítulo III. Del Procedimiento Sancionador Especial
 
 ###### Artículo 294.
 
@@ -4282,3 +4384,23 @@ P.O. 15 DE JUNIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 156 QUE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 20, RECORRIENDO EL SUBSECUENTE, DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE SINALOA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 26 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 158 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES OE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+Segundo. El Congreso del Estado, dentro de los 180 días siguientes a la publicación de este Decreto, iniciará los procesos de designación de los titulares de los órganos internos de control de los organismos a los que la Constitución Política del Estado de Sinaloa les otorga autonomía y que ejerzan recursos públicos del Presupuesto de Egresos de la Federación previstos en este Decreto.
+
+Lo anterior, con excepción de aquellos titulares de los órganos internos de control de los organismos a los que la Constitución Política del Estado de Sinaloa les otorga autonomía y que ejercen recursos públicos que se encontraban en funciones a la entrada en vigor del Decreto por el que se reforman, adicionan, y derogan diversas disposiciones de la Constitución Política del Estado de Sinaloa, en materia de combate a la corrupción, publicado en el Periódico Oficial "El Estado de Sinaloa" el 17 de marzo de 2017, los cuales continuarán en su encargo en los términos en los que fueron nombrados.
+
+Tercero. Los órganos de gobierno de los organismos a los que la Constitución Política del Estado de Sinaloa les otorga autonomía y que ejercen recursos públicos, tendrán un plazo de ciento ochenta días, a partir de la publicación del presente Decreto, para armonizar su normatividad interna en los términos del presente Decreto.
+
+Cuarto. Los recursos humanos, financieros y materiales que actualmente se encuentran asignados a las Contralorías, se entenderán asignados a los órganos internos de control a que se refiere el presente Decreto.
+
+Quinto. Las referencias relativas a la Ley General de Responsabilidades Administrativas se entenderán a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos hasta que este ordenamiento legal se abrogue el 17 de julio de 2017.
+
+Sexto. Los Ayuntamientos, dentro de los 180 días siguientes a la publicación de este Decreto, iniciarán los procesos de designación de los titulares de los órganos internos de control que ejerzan recursos públicos, previstos en este Decreto.
+
+Lo anterior, con excepción de aquellos titulares de los órganos internos de control de los organismos que ejercen recursos públicos que se encontraban en funciones a la entrada en vigor del Decreto por el que se reforman, adicionan, y derogan diversas disposiciones de la Constitución Política del Estado de Sinaloa, en materia de combate a la corrupción, publicado en el Periódico Oficial "El Estado de Sinaloa" el 17 de marzo de 2017, los cuales continuarán en su encargo en los términos en los que fueron nombrados.
