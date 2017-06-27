@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-fiscal-708
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-13"
-last_updated: "2016-02-10"
+last_updated: "2017-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70849&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-11-11"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE JUNIO DE 2017.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 13 de noviembre de 2009.
 
@@ -627,13 +627,13 @@ XXIX. Sur del Estado de México, que comprende los municipios de: Acambay, Almol
 
 En las regiones señaladas en el artículo anterior, la sede, denominación y el número de Salas Regionales, serán las siguientes:
 
-I. Región del Noroeste I: Dos Salas que se denominarán, “Primera Sala Regional del Noroeste I” y “Segunda Sala Regional del Noroeste I”, con sede en la Ciudad de Tijuana, Estado de Baja California;
+I. Región del Noroeste I: Dos Salas que se denominarán, "Primera Sala Regional del Noroeste I" y "Segunda Sala Regional del Noroeste I", con sede en la Ciudad de Tijuana, Estado de Baja California;
 
-II. Región del Noroeste II: Una Sala que se denominará “Sala Regional del Noroeste II”, con sede en Ciudad Obregón, Estado de Sonora;
+II. Región del Noroeste II: Una Sala que se denominará "Sala Regional del Noroeste II", con sede en Ciudad Obregón, Estado de Sonora;
 
-III. Región del Noroeste III: Una Sala que se denominará “Sala Regional del Noroeste III”, con sede en la Ciudad de Culiacán, Estado de Sinaloa;
+III. Región del Noroeste III: Una Sala que se denominará "Sala Regional del Noroeste III", con sede en la Ciudad de Culiacán, Estado de Sinaloa;
 
-IV. Región del Norte-Centro I: Una Sala que se denominará “Sala Regional del Norte-Centro I”, con sede en la Ciudad de Chihuahua, Estado de Chihuahua;
+IV. Región del Norte-Centro I: Una Sala que se denominará "Sala Regional del Norte-Centro I", con sede en la Ciudad de Chihuahua, Estado de Chihuahua;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -645,45 +645,45 @@ V. Región del Norte-Centro II: Dos Salas que se denominarán, "Primera Sala Reg
 
 VI. Región del Noreste: Tres Salas que se denominarán, "Primera Sala Regional del Noreste", "Segunda Sala Regional del Noreste", y 'Tercera Sala Regional del Noreste", todas con sede en San Pedro Garza García, Nuevo León;
 
-VII. Región de Occidente: Tres Salas que se denominarán, “Primera Sala Regional de Occidente”, “Segunda Sala Regional de Occidente” y “Tercera Sala Regional de Occidente”, todas con sede en la Ciudad de Guadalajara, Estado de Jalisco;
+VII. Región de Occidente: Tres Salas que se denominarán, "Primera Sala Regional de Occidente", "Segunda Sala Regional de Occidente" y "Tercera Sala Regional de Occidente", todas con sede en la Ciudad de Guadalajara, Estado de Jalisco;
 
-VIII. Región del Centro I: Una Sala que se denominará “Sala Regional del Centro I”, con sede en la Ciudad de Aguascalientes, Estado de Aguascalientes;
+VIII. Región del Centro I: Una Sala que se denominará "Sala Regional del Centro I", con sede en la Ciudad de Aguascalientes, Estado de Aguascalientes;
 
-IX. Región del Centro II: Una Sala que se denominará “Sala Regional del Centro II”, con sede en la Ciudad de Querétaro, Estado de Querétaro;
+IX. Región del Centro II: Una Sala que se denominará "Sala Regional del Centro II", con sede en la Ciudad de Querétaro, Estado de Querétaro;
 
-X. Región del Centro III: Una Sala que se denominará “Sala Regional del Centro III”, con sede en la Ciudad de Celaya, Estado de Guanajuato;
+X. Región del Centro III: Una Sala que se denominará "Sala Regional del Centro III", con sede en la Ciudad de Celaya, Estado de Guanajuato;
 
 > <small>(REFORMADA, D.O.F. 28 DE OCTUBRE DE 2015)</small>
 
-XI. Región Norte-Este del Estado de México: Dos Salas que se denominarán, “Primera Sala Regional Norte-Este del Estado de México” y “Segunda Sala Regional Norte-Este del Estado de México”, con sede en Tlalnepantla, Estado de México.
+XI. Región Norte-Este del Estado de México: Dos Salas que se denominarán, "Primera Sala Regional Norte-Este del Estado de México" y "Segunda Sala Regional Norte-Este del Estado de México", con sede en Tlalnepantla, Estado de México.
 
 > <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2015)</small>
 
-XII. Región de Oriente: Dos salas que se denominaran, “Primera Sala Regional de Oriente” y “Segunda Sala Regional de Oriente”, con sede en el municipio de San Andrés Cholula, Estado de Puebla;
+XII. Región de Oriente: Dos salas que se denominaran, "Primera Sala Regional de Oriente" y "Segunda Sala Regional de Oriente", con sede en el municipio de San Andrés Cholula, Estado de Puebla;
 
 > <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2015)</small>
 
-XIII. Región del Golfo: Una Sala que se denominará “Sala Regional del Golfo”, con sede en la ciudad de Xalapa-Enríquez, Estado de Veracruz de Ignacio de la Llave;
+XIII. Región del Golfo: Una Sala que se denominará "Sala Regional del Golfo", con sede en la ciudad de Xalapa-Enríquez, Estado de Veracruz de Ignacio de la Llave;
 
-XIV. Región del Pacífico: Una Sala que se denominará “Sala Regional del Pacífico”, con sede en la Ciudad de Acapulco, Estado de Guerrero;
+XIV. Región del Pacífico: Una Sala que se denominará "Sala Regional del Pacífico", con sede en la Ciudad de Acapulco, Estado de Guerrero;
 
-XV. Región del Sureste: Una Sala que se denominará “Sala Regional del Sureste”, con sede en la Ciudad de Oaxaca, Estado de Oaxaca;
+XV. Región del Sureste: Una Sala que se denominará "Sala Regional del Sureste", con sede en la Ciudad de Oaxaca, Estado de Oaxaca;
 
-XVI. Región Peninsular: Una Sala que se denominará “Sala Regional Peninsular”, con sede en la Ciudad de Mérida, Estado de Yucatán;
+XVI. Región Peninsular: Una Sala que se denominará "Sala Regional Peninsular", con sede en la Ciudad de Mérida, Estado de Yucatán;
+
+> <small>(REFORMADA, D.O.F. 27 DE JUNIO DE 2017)</small>
+
+XVII. Región Metropolitana: Trece Salas que se denominarán, "Primera Sala Regional Metropolitana", "Segunda Sala Regional Metropolitana", "Tercera Sala Regional Metropolitana", "Quinta Sala Regional Metropolitana", "Sexta Sala Regional Metropolitana", "Séptima Sala Regional Metropolitana", "Octava Sala Regional Metropolitana", "Novena Sala Regional Metropolitana", "Décima Sala Regional Metropolitana", "Décimo Primera Sala Regional Metropolitana", "Décimo Segunda Sala Regional Metropolitana", "Décimo Tercera Sala Regional Metropolitana" y "Décimo Cuarta Sala Regional Metropolitana", todas con sede en la Ciudad de México;
+
+XVIII. Región del Golfo-Norte: Una Sala que se denominará "Sala Regional del Golfo-Norte", con sede en Ciudad Victoria, Estado de Tamaulipas;
 
 > <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2015)</small>
 
-XVII. Región Metropolitana: Catorce Salas que se denominarán, “Primera Sala Regional Metropolitana”, “Segunda Sala Regional Metropolitana”, “Tercera Sala Regional Metropolitana”, “Cuarta Sala Regional Metropolitana”, “Quinta Sala Regional Metropolitana”, “Sexta Sala Regional Metropolitana”, “Séptima Sala Regional Metropolitana”, “Octava Sala Regional Metropolitana”, “Novena Sala Regional Metropolitana”, “Décima Sala Regional Metropolitana”, “Décimo Primera Sala Regional Metropolitana”, “Décimo Segunda Sala Regional Metropolitana”, “Décimo Tercera Sala Regional Metropolitana” y “Décimo Cuarta Sala Regional Metropolitana”, todas con sede en la Ciudad de México, Distrito Federal.
+XIX. Región de Chiapas: Una Sala que se denominará "Sala Regional de Chiapas", con sede en la Ciudad de Tuxtla Gutiérrez, Estado de Chiapas;
 
-XVIII. Región del Golfo-Norte: Una Sala que se denominará “Sala Regional del Golfo-Norte”, con sede en Ciudad Victoria, Estado de Tamaulipas;
+XX. Región del Caribe: Una Sala que se denominará "Sala Regional del Caribe", con sede en la ciudad de Cancún, Municipio de Benito Juárez, Estado de Quintana Roo, y
 
-> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2015)</small>
-
-XIX. Región de Chiapas: Una Sala que se denominará “Sala Regional de Chiapas”, con sede en la Ciudad de Tuxtla Gutiérrez, Estado de Chiapas;
-
-XX. Región del Caribe: Una Sala que se denominará “Sala Regional del Caribe”, con sede en la ciudad de Cancún, Municipio de Benito Juárez, Estado de Quintana Roo, y
-
-XXI. Región del Pacífico-Centro: Una Sala que se denominará “Sala Regional del Pacífico-Centro”, con sede en la ciudad de Morelia, Estado de Michoacán.
+XXI. Región del Pacífico-Centro: Una Sala que se denominará "Sala Regional del Pacífico-Centro", con sede en la ciudad de Morelia, Estado de Michoacán.
 
 > <small>(ADICIONADA, D.O.F. 8 DE ENERO DE 2013)</small>
 
@@ -691,31 +691,31 @@ XXII. Región del Norte-Centro III: una Sala que se denominará "Sala Regional d
 
 > <small>(ADICIONADA, D.O.F. 21 DE AGOSTO DE 2013)</small>
 
-XXIII. Región del Norte-Centro IV: una Sala que se denominará “Sala Regional del Norte-Centro IV”, con sede en la ciudad de Zacatecas, Estado de Zacatecas.
+XXIII. Región del Norte-Centro IV: una Sala que se denominará "Sala Regional del Norte-Centro IV", con sede en la ciudad de Zacatecas, Estado de Zacatecas.
 
 > <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2015)</small>
 
-XXIV. Región de Morelos: Una Sala que se denominará “Sala Regional de Morelos”, con sede en la Ciudad de Cuernavaca, Estado de Morelos;
+XXIV. Región de Morelos: Una Sala que se denominará "Sala Regional de Morelos", con sede en la Ciudad de Cuernavaca, Estado de Morelos;
 
 > <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2015)</small>
 
-XXV. Región de San Luis Potosí: Una Sala que se denominará “Sala Regional de San Luis Potosí”, con sede en la Ciudad de San Luis Potosí, Estado de San Luis Potosí;
+XXV. Región de San Luis Potosí: Una Sala que se denominará "Sala Regional de San Luis Potosí", con sede en la Ciudad de San Luis Potosí, Estado de San Luis Potosí;
 
 > <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2015)</small>
 
-XXVI. Región de Tabasco: Una Sala que se denominará “Sala Regional de Tabasco”, con sede en la Ciudad de Villahermosa, Estado de Tabasco.
+XXVI. Región de Tabasco: Una Sala que se denominará "Sala Regional de Tabasco", con sede en la Ciudad de Villahermosa, Estado de Tabasco.
 
 > <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2015)</small>
 
-XXVII. Región Hidalgo: Una Sala que se denominará “Sala Regional de Hidalgo” con sede en la Ciudad de Pachuca, Estado de Hidalgo.
+XXVII. Región Hidalgo: Una Sala que se denominará "Sala Regional de Hidalgo" con sede en la Ciudad de Pachuca, Estado de Hidalgo.
 
 (ADICIONADA, D.O.F. 19 DE JUNIO DE 2015) (F. DE E., D.O.F. 13 DE ENERO DE 2016)
 
-XXVIII. Región Tlaxcala: Una Sala que se denominará “Sala Regional de Tlaxcala”, con sede en el Municipio de Apetatitlán de Antonio Carvajal, Estado de Tlaxcala.
+XXVIII. Región Tlaxcala: Una Sala que se denominará "Sala Regional de Tlaxcala", con sede en el Municipio de Apetatitlán de Antonio Carvajal, Estado de Tlaxcala.
 
 > <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2015)</small>
 
-XXIX. Región Sur del Estado de México: Una Sala que se denominará “Sala Regional Sur del Estado de México”, con sede en la Ciudad de Toluca, Estado de México.
+XXIX. Región Sur del Estado de México: Una Sala que se denominará "Sala Regional Sur del Estado de México", con sede en la Ciudad de Toluca, Estado de México.
 
 > <small>(REFORMADO, D.O.F. 28 DE OCTUBRE DE 2011)</small>
 
@@ -783,6 +783,10 @@ b) La Segunda Sala Especializada en Materia de Comercio Exterior, con sede en el
 
 c) La Tercera Sala Especializada en Materia de Comercio Exterior, que será también la Quinta Sala Auxiliar, con sede en la ciudad de Xalapa-Enríquez, Estado de Veracruz de Ignacio de la Llave, que tendrá competencia territorial limitada a los Estados de Campeche, Tabasco y Veracruz de Ignacio de la Llave.
 
+> <small>(ADICIONADA, D.O.F. 27 DE JUNIO DE 2017)</small>
+
+V.- Una Sala Especializada en Materia del Juicio de Resolución Exclusiva de Fondo, con sede en la Ciudad de México y competencia material para tramitar y resolver, en todo el territorio nacional, los juicios que se promuevan en términos del capítulo XII de la Ley Federal de Procedimiento Contencioso Administrativo.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE ENERO DE 2013)</small>
 
 ###### Artículo 23
@@ -816,6 +820,10 @@ VII. Séptima Sala Auxiliar, con sede en la ciudad de Zacatecas, Estado de Zacat
 > <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2015)</small>
 
 VIII. Octava Sala Auxiliar, con sede en la ciudad de Cuernavaca, Estado de Morelos, que será la Sala Regional de Morelos, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional, conforme a los artículos 21 fracción XXIV, y 22 fracción XXIV, de este Reglamento, en relación con los diversos 31 y 32 de la Ley.
+
+> <small>(ADICIONADA, D.O.F. 27 DE JUNIO DE 2017)</small>
+
+IX. Sala Auxiliar Metropolitana, con sede en la Ciudad de México, que será también la Sala Regional Especializada en Materia del Juicio de Resolución Exclusiva de Fondo, conforme a lo establecido en el artículo 23, fracción V, de este Reglamento. El auxilio de esta Sala se circunscribe en la tramitación y resolución hasta su total conclusión, incluso la instancia de aclaración de sentencia, queja y en el cumplimiento de ejecutorias del Poder Judicial de la Federación, de los asuntos radicados en la entonces Cuarta Sala Regional Metropolitana, a la fecha de la entrada en vigor de este Acuerdo.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -3228,3 +3236,17 @@ PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los juicios que se encuentren en trámite en la Sala Especializada en Materia Ambiental y de Regulación, a la entrada en vigor del presente Acuerdo, en los que se controviertan resoluciones emitidas por la Comisión Nacional del Agua o alguna de sus unidades administrativas, permanecerán en dicha Sala hasta su total conclusión.
 
 TERCERO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
+
+D.O.F. 27 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO SS/8/2017 POR EL QUE SE REFORMA LA FRACCIÓN XVII DEL ARTÍCULO 22 Y SE ADICIONAN UNA FRACCIÓN V AL ARTÍCULO 23 Y UNA FRACCIÓN IX AL ARTÍCULO 23-BIS, TODOS DEL REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA”.]
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Sala Regional Especializada en Materia del Juicio de Resolución Exclusiva de Fondo que se crea iniciará sus operaciones el 01 de julio de 2017.
+
+TERCERO.- La Junta de Gobierno y Administración deberá dictar los demás acuerdos que sean necesarios para la operación de la Sala Regional Especializada en Materia del Juicio de Resolución Exclusiva de Fondo, para establecer las reglas de atención de los juicios y la remisión de los expedientes que sean enviados a la Sala Especializada de nueva creación por solicitud de los demandantes, en cumplimiento a lo dispuesto en el artículo Tercero Transitorio de la Ley Federal de Procedimiento Contencioso Administrativo.
+
+CUARTO.- Se instruye a la Secretaría Operativa de Administración y a la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones, para que a partir de la aprobación del presente Acuerdo, se realicen todas las gestiones, acciones, trámites administrativos y presupuestales, entre otros, para implementar lo dispuesto en el presente Acuerdo.
+
+QUINTO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
