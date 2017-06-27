@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-procuraduria-general-de-justicia-del-103900"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-11-30"
-last_updated: "2016-04-30"
+last_updated: "2017-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103900&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE JULIO DE 2017 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE JUNIO DE 2017.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 30 de noviembre de 2014.
 
@@ -83,6 +85,10 @@ k) Código Civil: al Código Civil para el Estado de Baja California Sur; y
 
 l) Reglamento Interior: al Reglamento Interior de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Baja California Sur.
 
+> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2017)</small>
+
+m) Fiscalía Anticorrupción: Fiscalía Especializada en Combate a la Corrupción.
+
 ###### ARTÍCULO 4.
 
 Compete a la Procuraduría:
@@ -117,7 +123,13 @@ XIV. Instrumentar los mecanismos de coordinación y colaboración con las depend
 
 XV. Establecer mecanismos de prevención del delito en el ámbito de su competencia; y
 
-XVI. Las demás que establezcan las disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 27 DE JUNIO DE 2017)</small>
+
+XVI. Investigar y perseguir los delitos en materia de corrupción que establezcan las leyes del Estado, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], B.O. 27 DE JUNIO DE 2017)</small>
+
+XVII. Las demás que establezcan las disposiciones legales aplicables.
 
 ###### ARTÍCULO 5.
 
@@ -131,45 +143,85 @@ En la investigación de hechos delictuosos, serán auxiliares del Ministerio Pú
 
 La Procuraduría General de Justicia es la dependencia del Ejecutivo del Estado, dotada de autonomía técnica, operativa y de criterio jurídico, en la que se deposita la Institución del Ministerio Público, y se integra por:
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], B.O. 27 DE JUNIO DE 2017)</small>
+
 I. Procurador General de Justicia;
 
-II. Subprocuraduría Regional de Procedimientos Penales Zona Centro;
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 27 DE JUNIO DE 2017)</small>
 
-III. Subprocuraduría Regional de Procedimientos Penales Zona Sur;
+II. Fiscalía Especializada en materia de Combate a la Corrupción;
 
-IV. Subprocuraduría Regional de Procedimientos Penales Zona Norte;
+> <small>(REFORMADA [N. DE E. REUBICADA], B.O. 27 DE JUNIO DE 2017)</small>
 
-V. Subprocuraduría de Justicia Alternativa;
+III. Subprocuraduría Regional de Procedimientos Penales Zona Centro;
 
-VI. Subprocuraduría de Atención a Delitos de Alto Impacto;
+> <small>(REFORMADA [N. DE E. REUBICADA], B.O. 27 DE JUNIO DE 2017)</small>
 
-VII. Subprocuraduría de Atención a Víctimas de Delitos contra la Libertad Sexual y la Familia;
+IV. Subprocuraduría Regional de Procedimientos Penales Zona Sur;
 
-VIII. Subprocuraduría Jurídica y de Amparo;
+> <small>(REFORMADA [N. DE E. REUBICADA], B.O. 27 DE JUNIO DE 2017)</small>
 
-IX. Dirección de Servicios Periciales;
+V. Subprocuraduría Regional de Procedimientos Penales Zona Norte;
 
-X. Dirección de la Policía Ministerial;
+> <small>(REFORMADA [N. DE E. REUBICADA], B.O. 27 DE JUNIO DE 2017)</small>
 
-XI. Dirección de Atención a Víctimas del Delito;
+VI. Subprocuraduría de Justicia Alternativa;
 
-XII. Órgano de Control Interno;
+> <small>(REFORMADA [N. DE E. REUBICADA], B.O. 27 DE JUNIO DE 2017)</small>
 
-XIII. Oficialía Mayor;
+VII. Subprocuraduría de Atención a Delitos de Alto Impacto;
 
-XIV. Instituto Interdisciplinario de Ciencias Penales;
+> <small>(REFORMADA [N. DE E. REUBICADA], B.O. 27 DE JUNIO DE 2017)</small>
 
-XV. Coordinaciones Regionales;
+VIII. Subprocuraduría de Atención a Víctimas de Delitos contra la Libertad Sexual y la Familia;
 
-> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], B.O. 27 DE JUNIO DE 2017)</small>
 
-XVI. Unidad de Inteligencia;
+IX. Subprocuraduría Jurídica y de Amparo;
 
-> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], B.O. 27 DE JUNIO DE 2017)</small>
 
-XVII. Unidad de Política Criminal y Estadística; y
+X. Dirección de Servicios Periciales;
 
-XVIII. Las demás áreas que establezca el Reglamento Interior.
+> <small>(REFORMADA [N. DE E. REUBICADA], B.O. 27 DE JUNIO DE 2017)</small>
+
+XI. Dirección de la Policía Ministerial;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], B.O. 27 DE JUNIO DE 2017)</small>
+
+XII. Dirección de Atención a Víctimas del Delito;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], B.O. 27 DE JUNIO DE 2017)</small>
+
+XIII. Órgano de Control Interno;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 27 DE JUNIO DE 2017)</small>
+
+XIV. Visitaduría;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], B.O. 27 DE JUNIO DE 2017)</small>
+
+XV. Oficialía Mayor;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], B.O. 27 DE JUNIO DE 2017)</small>
+
+XVI. Instituto Interdisciplinario de Ciencias Penales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], B.O. 27 DE JUNIO DE 2017)</small>
+
+XVII. Coordinaciones Regionales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 27 DE JUNIO DE 2017)</small>
+
+XVIII. Unidad de Análisis de Información;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], B.O. 27 DE JUNIO DE 2017)</small>
+
+XIX. Unidad de Política Criminal y Estadística, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], B.O. 27 DE JUNIO DE 2017)</small>
+
+XX. Las demás áreas que establezca el Reglamento Interior.
 
 ###### ARTÍCULO 7.
 
@@ -765,7 +817,9 @@ XLIII. Excusarse de conocer de los asuntos en los casos previstos por la ley;
 
 XLIV. Promover la recusación de jueces o magistrados que tengan impedimento legal para conocer de un asunto;
 
-XLV. Certificar copia de los datos de prueba, actuaciones, documentos y medios de investigación que obren en su poder con motivo o en ejercicio de sus funciones;
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
+
+XLV. Autenticar copia de los datos de prueba, actuaciones, documentos y medios de investigación que obren en su poder con motivo o en ejercicio de sus funciones;
 
 XLVI. Coadyuvar con el Ministerio Público de la Federación, del Distrito Federal y de las demás Entidades Federativas en los términos de las leyes y de los convenios de colaboración respectivos; y
 
@@ -983,6 +1037,8 @@ XXIV. Las demás que establezca el Procurador y demás disposiciones aplicables.
 
 ### CAPÍTULO X. DEL ÓRGANO DE CONTROL INTERNO
 
+> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 47.
 
 Para ser Director de Atención a Víctimas del Delito se deberán cumplir con los requisitos establecidos para ser Subprocurador.
@@ -1043,83 +1099,83 @@ XXV. Promover, fomentar, impulsar y aplicar acciones, programas o estrategias pa
 
 XXVI. Las que le encomiende el Procurador y le otorguen el Reglamento Interior y demás disposiciones legalmente aplicables.
 
-### CAPITULO XI. DEL PROCEDIMIENTO ADMINISTRATIVO
+> <small>(REFORMADA SU DENOMINACIÓN. B.O. 27 DE JUNIO DE 2017)</small>
+
+### CAPÍTULO X BIS. DE LA VISITADURÍA
+
+> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2017)</small>
+
+ARTÍCULO 52 BIS. La Procuraduría contará con la adscripción de Visitaduría, que tendrá a su cargo llevar a cabo las revisiones técnicas jurídicas y las administrativas.
+
+El Visitador dependerá directamente del Procurador y es el responsable de vigilar la legalidad de las actividades desarrolladas por las partes integrantes de la Procuraduría, siendo competente para:
+
+I. Elaborar un plan de trabajo de las visitas ordinarias de revisión, a las diversas áreas de la Procuraduría y someterlo a consideración del Procurador General de Justicia en el Estado;
+
+II. Practicar las visitas ordinarias de revisiones técnico-jurídicas y administrativas a las diversas áreas de la Procuraduría, estableciendo las observaciones, recomendaciones e instrucciones que procedan en base a las omisiones o faltas detectadas en las actuaciones ministeriales;
+
+III. Llevar a cabo visitas de inspección y revisión extraordinarias, con motivo de quejas o denuncias de particulares o de servidores públicos de la Institución presentadas;
+
+IV. Solicitar en auxilio a los Coordinadores Regionales Zona Norte y Zona Sur, sea llevada a cabo la visita extraordinaria al área de la Procuraduría de su adscripción que corresponda, cuando por la urgencia de los hechos que motivaron la queja tratándose de violaciones de derechos humanos, ésta deba realizarse inmediatamente;
+
+IV (SIC). Intervenir para efectos de verificación, en los actos de entrega-recepción, de las agencias del Ministerio Público, Comandancias y Dirección de Servicios Periciales;
+
+V. Verificar a través de visitas técnico-jurídicas el cumplimiento de la Constitución, los tratados, las leyes que de ella emanan, así como de las demás disposiciones normativas a que estén constreñidos los Agentes del Ministerio Público, Policía Ministerial y Dirección de Servicios Periciales;
+
+VI. Realizar, la práctica de visitas de inspección y revisión a las direcciones, coordinaciones, unidades y, a las diversas áreas de la Procuraduría, verificando desde el punto de vista legal, técnico y administrativo, que los servidores públicos de la institución cumplan con los protocolos de actuación, políticas operativas, solicitudes del Ministerio Público, ordenamientos en vigor, así como con los criterios normativos establecidos para mejorar el servicio, realizando las observaciones y recomendaciones conducentes, y en su caso dar vista al Órgano de Control Interno;
+
+VII. Realizar la práctica de visitas de inspección y revisión extraordinarias mediante las cuales se realice el seguimiento del cumplimiento a las observaciones, recomendaciones o instrucciones hechas a las actuaciones ministerial, policial, pericial y administrativa derivadas de las visitas de inspección que le fueran practicadas con anterioridad;
+
+IX (SIC). Vigilar que las unidades administrativas de la Procuraduría cumplan con las disposiciones de racionalidad, austeridad y disciplina presupuestal establecidas en las normas jurídicas aplicables y en los lineamientos que al efecto emita el Procurador;
+
+X. Informar por escrito al Procurador, de las visitas que se hayan practicado y asentar en actas el resultado de las mismas;
+
+XI. Sugerir las medidas necesarias para reducir la incidencia de faltas administrativas entre los servidores públicos de la Institución;
+
+XII. Formular las actas recomendaciones e instrucciones a los servidores públicos de la Procuraduría que sean procedentes por irregularidades halladas en el ejercicio de sus funciones;
+
+XIII. Denunciar ante el Agente del Ministerio Público si de los hechos puestos de su conocimiento se desprende la posible comisión de conductas que pudiera (sic) constituir un hecho sancionado como delito;
+
+XIV. Formular opinión en la elaboración de los manuales de procedimientos de actuación del Ministerio Público, facilitadores, policía ministerial y servicios periciales;
+
+XV. Al momento de concluir la visita de revisión en la cual se haya detectado alguna falta administrativa o hechos probablemente constitutivos de delito, acordará en la misma acta de visita, dar vista mediante oficio al que acompañará con copia autenticada del acta de revisión a la autoridad correspondiente, la cual remitirá dentro de las veinticuatro horas siguientes, y
+
+XVI. Las demás que le confiera la ley y demás ordenamientos, así como las que le ordene el Procurador General de Justicia en el Estado, en el ámbito de su competencia.
 
 ###### ARTÍCULO 49.
 
-El Órgano de Control Interno estará a cargo de un Titular que dependerá directamente del Procurador, y es el responsable de vigilar la legalidad, disciplina y el debido cumplimiento de las actividades desarrolladas por los servidores públicos que integran la Procuraduría y contará con el personal técnico y administrativo que determine el reglamento y de acuerdo con la suficiencia presupuestaria de la Procuraduría.
+La Procuraduría contará con la adscripción de un Órgano Interno de Control que tendrá a su cargo de (sic) promover, evaluar y fortalecer el buen funcionamiento del control interno, así como la investigación, substanciación y calificación de las faltas administrativas de su competencia.
 
-El Órgano de Control Interno se integrará por dos áreas:
+En el Ejercicio de las funciones y facultades que la Ley de Responsabilidades Administrativas otorgue al Órgano Interno de Control se sujetará a los principios de legalidad, imparcialidad, objetividad, congruencia, verdad material y respeto a los derechos humanos.
 
-I. Una encargada de llevar a cabo las revisiones técnico jurídicas y, las administrativas;
-
-II. Una encargada de recibir las quejas, denuncias, o actas de visita de revisión o inspección ordinarias o extraordinarias en las que se adviertan irregularidades por actos u omisiones de los servidores públicos, investigar los hechos y la sustanciación del procedimiento.
+> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 50.
 
-Para ser Director del Órgano de Control Interno se deberán cumplir con los requisitos establecidos para ser Subprocurador.
+El Órgano Interno de Control dependerá jerárquica y funcionalmente de la Contraloría General y estará administrativa y presupuestalmente adscrito a la Procuraduría General de Justicia, contará con el personal técnico y administrativo que determine el reglamento y de acuerdo con la suficiencia presupuestaria de la Procuraduría.
+
+> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 51.
 
-Los procedimientos administrativos, una vez sustanciados, serán sometidos ante el titular del Órgano de Control Interno y éste determinará si procede la imposición de una corrección disciplinaria o una sanción administrativa, de conformidad con lo establecido en la Ley del Sistema Estatal de Seguridad Pública de Baja California Sur.
+El órgano Interno de Control estará a cargo de un Titular quien será nombrado por el Titular de la Contraloría General y será el responsable de vigilar la legalidad, disciplina y el debido cumplimiento de las actividades desarrolladas por los servidores públicos que integran la Procuraduría.
 
-De proceder la imposición de una sanción administrativa, resolverá si los datos de prueba son suficientes para presentar el asunto que dio origen a la presunta falta administrativa ante la Comisión de Honor y Justicia.
-
-De ser procedente la amonestación, será el mismo titular del Órgano de Control Interno, quien resuelva el procedimiento y aplique corrección disciplinaria;
+> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 52.
 
-El titular del Órgano de Control Interno será competente para:
+El titular del órgano Interno de Control contará con las áreas siguientes:
 
-I. Atender e investigar de los asuntos que de manera expresa le encomiende el Procurador en el ámbito de su competencia;
+I. Auditoría;
 
-II. Recibir por medio del área correspondiente, las quejas o denuncias que se presenten en contra de los servidores públicos de la Procuraduría e investigar los hechos puestos en su conocimiento;
+II. Quejas; y
 
-III. Practicar por sí o por el personal a su cargo las visitas de revisión técnico-jurídicas y administrativas a las unidades y agencias del Ministerio Público, estableciendo las observaciones, recomendaciones e instrucciones que procedan con base en las omisiones o faltas detectadas en las actuaciones ministeriales;
+III. Responsabilidades administrativas.
 
-IV. Llevar a cabo por sí o por el personal a su cargo, las visitas de inspección y revisión extraordinarias, con motivo de quejas o denuncias en contra de los propios servidores públicos de la Institución;
+> <small>(REFORMADO [N. DE E. ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA], B.O. 27 DE JUNIO DE 2017)</small>
 
-V. Realizar, y en su caso, ordenar al personal que corresponda la práctica de visitas de inspección y revisión a las Direcciones, Coordinaciones y Unidades de la Procuraduría, verificando desde el punto de vista legal, técnico y administrativo, que los servidores públicos de la Institución cumplan con los protocolos de actuación, políticas operativas, solicitudes del Ministerio Público, ordenamientos en vigor y criterios normativos establecidos para mejorar el servicio, realizando las observaciones y recomendaciones conducentes;
-
-VI. Realizar, y en su caso, ordenar la práctica de visitas de inspección y revisión extraordinarias mediante las cuales se realice el seguimiento del cumplimiento a las observaciones, recomendaciones o instrucciones hechas a las actuaciones ministerial, policial, pericial y administrativa, derivadas de las visitas de inspección que le fueran practicadas con anterioridad;
-
-VII. Vigilar que las unidades administrativas de la Procuraduría cumplan con las disposiciones de racionalidad, austeridad y disciplina presupuestal establecidas en las normas jurídicas aplicables y en los lineamientos que al efecto emita el Procurador;
-
-VIII. Informar por escrito al Procurador, de las visitas que se hayan practicado y asentar en actas el resultado de las mismas;
-
-IX. Sugerir las medidas necesarias para reducir la incidencia de faltas administrativas entre los servidores públicos de la institución;
-
-X. Emitir recomendaciones y dar las instrucciones procedentes a los Servidores Públicos de la Institución, encaminadas a prevenir irregularidades administrativas;
-
-XI. Formular las actas, recomendaciones e instrucciones a los Servidores Públicos de la Procuraduría que sean procedentes, por irregularidades halladas en el ejercicio de sus funciones;
-
-XII. Imponer la amonestación a los servidores públicos de la Procuraduría que sean procedentes derivadas de los procedimientos sometidos a su conocimiento;
-
-XIII. Proponer al Procurador, la suspensión temporal con carácter preventivo al personal de la Procuraduría, cuando derivado de una queja, denuncia o visita de revisión o inspección ordinaria o extraordinaria, se adviertan irregularidades por actos u omisiones de el o los elementos de la institución, las cuales pudieren encuadrarse en las causales de responsabilidades contenidas en la Ley del Sistema Estatal de Seguridad Pública de Baja California Sur, la presente Ley, el Reglamento Interior y demás disposiciones legales aplicables;
-
-XIV. Proponer al Procurador la separación temporal del servidor público, con carácter preventivo, del área donde presuntamente se originó la conducta infractora, sin necesidad de la existencia de una visita de revisión o inspección, cuando la conducta encuadre en las causales de responsabilidad contenidas en la Ley del Sistema Estatal de Seguridad Pública de Baja California Sur, la presente Ley, el Reglamento Interior y demás disposiciones legales aplicables;
-
-XV. Instar ante la Comisión de Honor y Justicia los procedimientos de responsabilidad que correspondan a fin de imponer a los servidores públicos de la Procuraduría las sanciones que procedan, siempre que el probable infractor sea policía, perito o ministerio público conforme a la Ley del Sistema Estatal de Seguridad Pública de Baja California Sur, la presente Ley, el Reglamento Interior y demás disposiciones legales aplicables;
-
-XVI. Instar ante la Contraloría General del Estado los procedimientos de responsabilidad que correspondan a fin de imponer a los servidores públicos de la Procuraduría las correcciones disciplinarias que procedan;
-
-XVII. Fungir como Secretario Técnico ante la Comisión de Honor y Justicia;
-
-XVIII. Vigilar que se cumplan las determinaciones que emita la Comisión de Honor y Justicia en cuanto a sanciones, estímulos, premios, recompensas y condecoraciones impuestas a los servidores públicos de la Procuraduría;
-
-XIX. Denunciar ante el Ministerio Público, si de los hechos puestos de su conocimiento, se desprende la posible comisión de conductas que pudiera constituir un hecho sancionado como delito;
-
-XX. Desarrollar y mantener actualizado un sistema de registro sobre correcciones disciplinarias y sanciones administrativas impuestas a los servidores públicos de la Procuraduría;
-
-XXI. Formular opinión en la elaboración de los manuales de procedimientos de actuación del Ministerio Público, Facilitadores, Policía Ministerial y Servicios Periciales; y
-
-XXII. Las demás que determinen las disposiciones legales aplicables, la presente Ley y el Reglamento Interior.
-
-Para el cumplimiento de sus funciones el órgano de Control Interno, contará con el número de visitadores adjuntos que para el cumplimiento de sus funciones adscriba el Procurador.
+### CAPITULO XI. DEL PROCEDIMIENTO ADMINISTRATIVO
 
 ### CAPÍTULO XII. DE LA OFICIALÍA MAYOR
-
-### CAPITULO XIII. DEL FONDO AUXILIAR PARA LA PROCURACIÓN DE JUSTICIA
 
 ###### ARTÍCULO 53.
 
@@ -1345,7 +1401,7 @@ En caso de incumplimiento de alguno de los requisitos de permanencia señalados 
 
 Cuando la Comisión de Honor y Justicia resuelva la terminación del servicio de carrera, se procederá a la cancelación del certificado del servidor público, debiéndose hacer la anotación respectiva en el Registro Nacional de Personal de Seguridad Pública.
 
-### CAPÍTULO XIV. DEL INSTITUTO INTERDISCIPLINARIO DE CIENCIAS PENALES
+### CAPITULO XIII. DEL FONDO AUXILIAR PARA LA PROCURACIÓN DE JUSTICIA
 
 ###### ARTÍCULO 68.
 
@@ -1427,7 +1483,7 @@ XIV. Ejecutar las determinaciones del Comité Administrador del Fondo Auxiliar p
 
 XV. Las demás que determinen el Reglamento Interior, las disposiciones legales aplicables, y las que por la naturaleza de sus funciones le encomiende el Procurador.
 
-### CAPÍTULO XVI. DE LA UNIDAD DE INTELIGENCIA Y DE LA UNIDAD DE POLÍTICA CRIMINAL Y ESTADÍSTICA
+### CAPÍTULO XIV. DEL INSTITUTO INTERDISCIPLINARIO DE CIENCIAS PENALES
 
 ###### ARTÍCULO 71.
 
@@ -1501,7 +1557,77 @@ VI. Adquisición, construcción o remodelación de inmuebles para el establecimi
 
 VII. Las demás que determine el Comité.
 
-### CAPITULO XVII. DE LOS REQUISITOS DE INGRESO Y PERMANENCIA DE MINISTERIOS PÚBLICO (SIC), PERITOS Y POLICIAS MINISTERIALES
+### CAPÍTULO XV. DE LA FISCALÍA ESPECIALIZADA EN EL COMBATE A LA CORRUPCIÓN
+
+> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2017)</small>
+
+ARTÍCULO 79 BIS. La Fiscalía especializada en el combate a la corrupción, es el órgano con autonomía técnica y operativa para investigar y perseguir los hechos que las leyes del estado consideran como delitos en materia de corrupción.
+
+Contará con el personal capacitado para el debido cumplimiento de sus funciones, los fiscales especializados en combate a los hechos que las leyes estatales consideran como delitos en materia de corrupción y las unidades administrativas necesarias para el seguimiento de las investigaciones.
+
+> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2017)</small>
+
+ARTÍCULO 79 TER. La Fiscalía Especializada o las homologas en otras especializaciones, se equiparán jerárquica y administrativamente a una Subprocuraduría y sus titulares deberán cumplir con los requisitos establecidos en la Constitución Política del Estado Libre y Soberano de Baja California Sur.
+
+> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2017)</small>
+
+ARTÍCULO 79 QUATER. La Fiscalía Especializada en el combate a la corrupción contará con las siguientes atribuciones:
+
+I. Ejercer las facultades que la Constitución, las leyes, los reglamentos y demás disposiciones jurídicas confieren al Fiscal Especializado o Ministerio Público en lo relativo a los hechos que la ley considera hechos de corrupción constitutivos de delito, cometidos por servidores públicos o por particulares;
+
+II. Participar como integrante en el Comité Coordinador del Sistema Estatal Anticorrupción;
+
+III. Diseñar e implementar estrategias y líneas de acción para combatir los hechos que la ley considera como delitos en materia de corrupción;
+
+IV. Implementar programas destinados a detectar la comisión de los hechos que las leyes estatales consideran como delitos en materia de corrupción. Dichos programas deberán ser aprobados por el Procurador General de Justicia del Estado;
+
+IV (SIC). Instrumentar mecanismos de colaboración con otras autoridades para la elaboración de estrategias y programas tendientes a combatir los hechos que las leyes consideran como delitos en materia de corrupción;
+
+V. Emitir los acuerdos internos, circulares, instructivos, bases, lineamientos, reglas de operación, Manuales de Organización, de Procedimientos técnicos, guías y demás normas administrativas necesarias que rijan la actuación de la Fiscalía en el ámbito de su competencia. En ningún caso podrán contradecir las normas administrativas emitidas por el Procurador General de Justicia (sic) Estado;
+
+VI. Fortalecer e implementar en materia de su competencia, mecanismos de cooperación y colaboración con otras autoridades;
+
+VII. Diseñar e implementar proyectos, estudios y programas permanentes de información y fomento de la cultura de la denuncia y de la legalidad en materia de los hechos que la ley considera como delitos en materia de corrupción;
+
+IX (SIC). Implementar mecanismos de colaboración con autoridades que ejerzan facultades de fiscalización a fin de fortalecer el desarrollo de las investigaciones;
+
+X. Requerir a las instancias de gobierno la información que resulte útil o necesaria para sus investigaciones, la que por ningún motivo le podrá ser negada;
+
+XI. Diseñar, integrar e implementar sistemas y mecanismos de análisis de la información fiscal, financiera y contable para que pueda ser utilizada por ésta y otras unidades competentes de la Procuraduría General de Justicia del Estado, en especial la relacionada con la investigación de los hechos que la ley considera como delitos en materia de corrupción;
+
+XII. Conducir la investigación para la obtención de datos o medios de prueba vinculados a hechos que la ley considera como delitos en materia de corrupción;
+
+XIII. Nombrar, previo acuerdo con el Procurador General de Justicia (sic) Estado, a los titulares de las unidades administrativas de la Fiscalía Especializada en materia de delitos relacionados con hechos de corrupción, salvo aquellas que no realicen funciones sustantivas, en cuyo caso, el nombramiento y su remoción serán exclusivos del Fiscal Especializado;
+
+XIV. Contar con los agentes del Ministerio Público y policías de investigación, que le estarán adscritos y resulten necesarios para la atención de los casos que correspondan a la Fiscalía, sobre los que ejercerá mando directo;
+
+XV. Proponer a la unidad administrativa competente el contenido teórico práctico de los programas de capacitación, actualización y especialización para los agentes del Ministerio Público adscritos a la Fiscalía Especializada;
+
+XVI. Coordinar y supervisar la actuación de la policía de investigación en materia de su competencia;
+
+XVII. Diseñar e implementar proyectos, estudios y programas permanentes de información y fomento de la cultura de la denuncia y de la legalidad en materia de los hechos que la ley considera como delitos en materia de corrupción;
+
+XVIII. Coadyuvar con otras áreas competentes de la Procuraduría General de Justicia del Estado, en el desarrollo de herramientas de inteligencia con metodologías interdisciplinarias de análisis e investigación de las distintas variables criminales, socioeconómicas y financieras, para conocer la evolución de las actividades relacionadas con los hechos que la ley considera como delitos en materia de corrupción;
+
+XIX. Generar sus propias herramientas metodológicas para el efecto de identificar los patrones de conducta que pudieran estar relacionados con operaciones con recursos de procedencia ilícita;
+
+XX. Emitir guías y manuales técnicos, en conjunto con las demás unidades administrativas de la Procuraduría General de Justicia del Estado para la formulación de dictámenes en materia de análisis fiscal, financiero y contable que requieran los agentes del Ministerio Público en el cumplimiento de sus funciones de investigación y persecución de los hechos que la ley considera como delitos en materia de corrupción;
+
+XXI. Conducir la investigación para la obtención de datos o medios de prueba vinculados a hechos que la ley considera como delitos en materia de corrupción;
+
+XXII. Proponer al Procurador General de Justicia del Estado la celebración de convenios con las diferentes instancias de Gobierno en la entidad y de otras entidades federativas para el intercambio de información, así como para tener acceso directo a la información disponible en los Registros Públicos de la Propiedad así como de las unidades de inteligencia patrimonial de las entidades federativas, para la investigación y persecución de los hechos que la ley considera como delitos en materia de corrupción;
+
+XXIII. Dirigir, coordinar y realizar la investigación de los hechos que la Ley señale como delitos del fuero Común en materia de su competencia;
+
+XXIV. Ordenar el aseguramiento de bienes muebles e inmuebles propiedad del imputado, así como de aquellos respecto de los cuales se conduzcan como dueños, o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga al producto, los instrumentos u objetos del hecho delictivo cuando éstos hayan desaparecido o no se localicen por causa atribuible al imputado;
+
+XXV. Solicitar las providencias precautorias establecidas en el artículo 138 del Código Nacional de Procedimientos Penales;
+
+XXVI. Promover la extinción de dominio de los bienes de los imputados o sentenciados, así como de aquellos respecto de los cuales se conduzcan como dueños, o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga a los bienes desaparecidos o no localizados por causa atribuible al imputado o sentenciado, cuando estos bienes estén vinculados con hechos que la ley considera como delitos en materia de corrupción que sean susceptibles de la acción de extinción de dominio, en los términos de la Ley aplicable, y
+
+XXVII. Las demás que en su caso le confieran otras disposiciones legales aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 27 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 77.
 
@@ -1565,21 +1691,25 @@ XXIII. Participar en los procesos de evaluación de conocimientos y, en su caso 
 
 XXIV. Las demás que de acuerdo a sus funciones le ordene el Procurador, así como las que determinen las disposiciones legales aplicables, la presente Ley Orgánica y el Reglamento Interior.
 
-> <small>(REFORMADA SU DENOMINACIÓN, B.O. 30 DE ABRIL DE 2016)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 27 DE JUNIO DE 2017)</small>
+
+### CAPÍTULO XVI. DE LA UNIDAD DE ANÁLISIS DE LA INFORMACIÓN, Y DE LA UNIDAD DE POLÍTICA CRIMINAL Y ESTADISTICA
+
+> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2017)</small>
+
+### CAPITULO XVII. DE LOS REQUISITOS DE INGRESO Y PERMANENCIA DE MINISTERIOS PÚBLICO (SIC), PERITOS Y POLICIAS MINISTERIALES
 
 ### CAPÍTULO XVIII. DEL SERVICIO CIVIL Y PROFESIONAL DE CARRERA
 
 ### CAPÍTULO XIX. DE LA SECRETARÍA TÉCNICA
 
-### CAPÍTULO IV (SIC). INCOMPATIBILIDADES, IMPEDIMENTOS Y EXCUSAS
-
 ###### ARTÍCULO 80.
 
-La Unidad de Inteligencia estará a cargo de un titular, que será nombrado y removido libremente por el Procurador de quien dependerá directamente.
+La Unidad de Análisis de la Información estará a cargo de un titular, que será nombrado y removido libremente por el Procurador de quien dependerá directamente.
 
-Para ser titular de la Unidad de Inteligencia se deben cumplir con los requisitos establecidos para ser Ministerio Público.
+Para ser titular de la Unidad de Análisis de la Información se deben cumplir con los requisitos establecidos para ser Ministerio Público, a excepción de contar con título de licenciado en Derecho, este rubro se tendrá colmado con tener acreditado haber cursado una carrera profesional, y contar con título y cedula profesional de la misma.
 
-Para efecto del desarrollo de las funciones propias de la Unidad de Inteligencia, contará con el personal profesional, técnico y administrativo, que disponga el Reglamento Interior y demás disposiciones aplicables.
+Para efecto del desarrollo de las funciones propias de la Unidad de Análisis de la Información, contará con la Policía Cibernética y el personal profesional, técnico y administrativo, que disponga el Reglamento Interior y demás disposiciones aplicables.
 
 > <small>(ADICIONADO, B.O. 30 DE ABRIL DE 2016)</small>
 
@@ -1589,11 +1719,15 @@ Para efecto del desarrollo de las funciones propia (sic) de la Unidad de Políti
 
 Corresponde a la Unidad de Política criminal y Estadística, la recopilación y análisis de la información estadística de los delitos del fuero común y de los factores económicos, sociales y normativos que permita el diseño de la Política Criminal del Estado. Así como proporcionar la información estadística al Centro Nacional de Información, y las demás atribuciones que se establezcan el en (sic) Reglamento interior y las que ordene el Procurador dentro del ámbito de su competencia.
 
+> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 81.
 
-Corresponde a la Unidad de Inteligencia la conformación de bancos de datos criminales, que permita el establecimiento y detección de redes o vínculos de personas o bandas delictivas, informes de inteligencia para la toma de decisiones y una agenda de riesgos estatales en materia de seguridad pública, así como en el intercambio o cruce de información con autoridades municipales, federales y de otras entidades federativas y la aportación de datos e informes al Ministerio Público para la integración de las Carpetas de Investigación.
+Corresponde a la Unidad de Análisis de la Información la conformación de bancos de datos criminales, que permita (sic) el establecimiento y detección de redes o vínculos de personas o bandas delictivas, informes de inteligencia para la toma de decisiones y una agenda de riesgos estatales en materia de seguridad pública, así como en el intercambio o cruce de información con autoridades municipales, federales y de otras entidades federativas y la aportación de datos e informes al Ministerio Público para la integración de las Carpetas de Investigación.
 
-Para el desempeño de sus funciones la Unidad de Inteligencia contará con un Manual Interno de operación, conforme a lo establecido en el Reglamento Interior y demás disposiciones aplicables.
+Para el desempeño de sus funciones la Unidad de Análisis de la Información contará con un Manual Interno de operación, conforme a lo establecido en el Reglamento Interior y demás disposiciones aplicables.
+
+### CAPÍTULO IV (SIC). INCOMPATIBILIDADES, IMPEDIMENTOS Y EXCUSAS
 
 ###### ARTÍCULO 82.
 
@@ -1880,3 +2014,19 @@ B.O. 30 DE ABRIL DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 27 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2452 SE REFORMA (SIC) Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur, con excepción de las atribuciones de la Fiscalía especializada que entrarán en vigor el mismo día en que el Poder Legislativo del Estado emita el nombramiento del Titular de la Fiscalía Especializada en combate a la corrupción.
+
+SEGUNDO. El Acuerdo emitido por el Procurador General de Justicia del Estado de Baja California Sur, que se publicó en el Boletín Oficial del Gobierno del Estado número 33 de fecha diez de junio de 2005, que crea la Agencia del Fuero Común Investigadora Especializada en Delitos Cometidos por Servidores Públicos, con residencia en la Ciudad de la Paz, Baja California Sur, seguirá vigente hasta en tanto concluya los asuntos en trámite y bajo su responsabilidad.
+
+TERCERO. Los recursos Humanos adscritos a la Unidad Especializada de Investigación de Delitos Cometidos por Servidores Públicos y su Judicialización y a la Agencia del Ministerio Público del Fuero Común Investigador especializado en Delitos Cometidos por Servidores Públicos, así como los recursos materiales y financieros que le son asignados para su funcionamiento, se transfieren a la Fiscalía Especializada en Combate a la Corrupción.
+
+CUARTO. Los asuntos que se encuentren en trámite en la Unidad Especializada de Investigación de delitos cometidos por Servidores Públicos y su Judicialización y a la Agencia del Ministerio Público del Fuero Común Investigador especializado en delitos cometidos por Servidores Públicos, hasta la entrada en vigor del presente Decreto, se transferirán a la Fiscalía Especializada en Combate a la Corrupción.
+
+QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto a partir de su entrada en vigor.
+
+SEXTO. El Titular del Poder Ejecutivo del Estado de Baja California Sur, por conducto de la Secretaría de Finanzas y Administración, deberá realizar los ajustes presupuestales necesarios para efecto de poder dar cumplimiento a lo previsto en esta Ley, y en su momento remitir al H. Congreso del Estado, la Iniciativa con Proyecto de Decreto mediante la que proponga se realicen modificaciones al Presupuesto de Egresos del Estado de Baja California Sur para el Ejercicio Fiscal 2017, con el fin de establecer las previsiones presupuestales necesarias para la operación de la Fiscalía Especializada en Combate a la Corrupción y demás áreas que se crean con éste decreto.
