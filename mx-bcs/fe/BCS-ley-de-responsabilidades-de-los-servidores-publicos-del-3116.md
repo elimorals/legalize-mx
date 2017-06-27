@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-responsabilidades-de-los-servidores-publicos-del-3116"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-03"
-last_updated: "2017-06-22"
+last_updated: "2017-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y DE LOS MUNICIPIOS DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEXTO DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR, PUBLICADA EN EL B.O. DE 27 DE JUNIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO, CON EXCEPCIÓN DE LO PREVISTO EN EL TÍTULO SEGUNDO RELATIVO AL "PROCEDIMIENTO ANTE EL CONGRESO DEL ESTADO EN MATERIA DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA" DE LA LEY QUE SE ABROGA, EN TANTO SE EXPIDE UNA NUEVA LEY EN LA MATERIA.]</small>
+
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE JUNIO DE 2017.
 
 Ley publicada en Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el 3 de febrero de 1984.
 
@@ -1084,3 +1086,27 @@ SEGUNDO.- El Poder Ejecutivo en lo que respecta a su ámbito de su competencia, 
 De igual forma, el Poder Judicial por conducto del Consejo de la Judicatura, así como el Poder Legislativo y los organismos públicos autónomos, en el ámbito de sus respectivas competencias deberán expedir en el mismo plazo, su correspondiente Reglamento.
 
 Los Ayuntamientos, por conducto de sus respectivas contralorías deberán expedir dentro de un término de 90 días naturales, el Reglamento para la práctica de los exámenes toxicológicos a que se refiere el presente Decreto.
+
+B.O. 27 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2448 SE EXPIDE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR".]
+
+Primero.- El presente Decreto entrará en vigor el día diecinueve de julio de dos mil diecisiete, una vez publicado en el Boletín Oficial del Gobierno del Estado, sin perjuicio de lo previsto en los transitorios siguientes.
+
+Segundo.- Los Entes Públicos y Entidades, así como los Órganos Constitucionales Autónomos, en el ámbito de sus respectivas competencias, deberán realizar las adecuaciones normativas correspondientes de conformidad con lo previsto en el presente Decreto.
+
+Tercero.- En tanto entra en vigor la Ley que contiene el presente Decreto en la fecha a que se refiere el Transitorio primero que antecede, continuará aplicándose la legislación en materia de Responsabilidades de los Servidores Públicos vigente en Baja California Sur a la fecha de entrada en vigor del presente Decreto.
+
+Cuarto.- El cumplimiento de las obligaciones previstas en la Ley de Responsabilidades Administrativas, una vez que ésta entre en vigor, serán exigibles, en lo que resulte aplicable, hasta en tanto el Comité Coordinador del Sistema Estatal Anticorrupción, de conformidad con la ley de la materia, emita los lineamientos, criterios y demás resoluciones conducentes de su competencia.
+
+Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor de esta Ley, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
+
+Quinto.- A la fecha de entrada en vigor de la presente Ley, todas las menciones relativas a la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios de Baja California Sur, se entenderán referidas a esta Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur, que contiene este Decreto.
+
+Una vez entrada en vigor esta Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur y hasta en tanto la autoridad competente determine los formatos para la presentación de las declaraciones patrimonial y de intereses, los servidores públicos de todos los órdenes de gobierno, presentarán sus declaraciones en los formatos que, a la entrada en vigor de la referida Ley, se utilicen en el Estado.
+
+Sexto.- Con la entrada en vigor de la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur quedará abrogada la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios de Baja California Sur, así como todas aquellas disposiciones que se opongan a lo previsto en la Ley que contiene este Decreto, con excepción de lo previsto en el Título Segundo relativo al “Procedimiento ante el Congreso del Estado en Materia de Juicio Político y Declaración de Procedencia” de la Ley que se abroga, en tanto se expide una nueva ley en la materia.
+
+Séptimo.- El Titular del Poder Ejecutivo del Estado de Baja California Sur, por Conducto de la Secretaría de Finanzas y Administración, deberá realizar los ajustes presupuestales necesarios para efecto de poder dar cumplimiento a lo previsto en esta Ley, y en su momento, remitir al Congreso del Estado la Iniciativa con Proyecto de Decreto mediante la que proponga se realicen modificaciones al Presupuesto de Egresos del Estado de Baja California Sur para el Ejercicio Fiscal de 2017, con el fin de establecer en este los ajustes presupuestales que fueron necesarios realizar para la aplicación de la presente Ley.
+
+Octavo.- El Poder Ejecutivo, por conducto de la Contraloría General del Estado, deberá expedir dentro de un término de 90 días naturales, contados a partir de la entrada en vigor de este Decreto, el Reglamento para la práctica de los exámenes toxicológicos a que se refieren los artículos 32 y 49 de este Decreto, mismo plazo con el que contarán los Ayuntamientos para la expedición del Reglamento correspondiente.
