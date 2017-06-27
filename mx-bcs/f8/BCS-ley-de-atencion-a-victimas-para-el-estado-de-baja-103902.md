@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-atencion-a-victimas-para-el-estado-de-baja-103902"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-30"
-last_updated: "2016-10-31"
+last_updated: "2017-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103902&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE JUNIO DE 2017.
 
 Ley Publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 30 de noviembre de 2014.
 
@@ -67,7 +67,9 @@ Glosario. Para los efectos de esta Ley, además de los conceptos contenidos en e
 
 I. Asesor Jurídico: Asesor Jurídico del Estado para la Atención a Víctimas del Delito;
 
-II. Asesoría Jurídica Estatal: Asesoría Jurídica estatal de Atención a Víctimas;
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
+
+II. Coordinación Estatal de Víctimas de Delito: La Coordinación Estatal de Asesoría Jurídica para la Atención a Víctimas de Delito;
 
 III. Comisión Ejecutiva Estatal: Comisión Ejecutiva Estatal de Atención a
 
@@ -209,9 +211,17 @@ VI. El Secretario de Salud del Estado;
 
 VII. El Titular del Sistema Estatal para el Desarrollo Integral de la Familia;
 
-VIII. La Titular del Instituto Sudcaliforniano de las Mujeres; y
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
 
-IX. El Titular de la Subsecretaria de Seguridad Pública.
+VIII. La Titular del Instituto Sudcaliforniano de las Mujeres;
+
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
+
+IX. El Titular de la Subsecretaria de Seguridad Pública, y
+
+> <small>(ADICIONADA, B.O. 27 DE JUNIO DE 2017)</small>
+
+X. El Titular de la Subsecretaria de la Consejería Jurídica;
 
 2. Poder Legislativo del Estado:
 
@@ -285,7 +295,9 @@ Integración de la Comisión Ejecutiva Estatal. La Comisión Ejecutiva Estatal e
 
 I. El Director de Atención a Víctimas del Delito de la Procuraduría General de Justicia del Estado quien la presidirá;
 
-II. El Coordinador Regional de Asesores Jurídicos que designe el Director General de la Defensoría Pública; y
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
+
+II. El Coordinador Estatal de Víctimas de Delitos perteneciente a la Subsecretaria de la Consejería Jurídica del Gobierno del Estado; y
 
 III. Un representante de la sociedad civil:
 
@@ -775,17 +787,23 @@ Incapacidad del Fondo Estatal para reparar. Si no pudiese hacer efectiva total o
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2017)</small>
+
 ###### Artículo 55.
 
-De la Asesoría Jurídica Estatal. La Asesoría Jurídica Estatal a Víctimas del Delito estará a cargo de la Dirección General de Defensoría Pública, por medio de sus coordinaciones regionales de asesores jurídicos, como área especializada en asesoría jurídica para víctimas del delito, y la asesoría jurídica estatal a víctimas de violación a derechos humanos corresponderá a la Comisión Estatal de Derechos Humanos, por medio de sus asesores jurídicos.
+De la Asesoría Jurídica Estatal. La Asesoría Jurídica Estatal a Víctimas del Delito estará a cargo de la Coordinación Estatal de Atención a Víctimas del Delito, por medio de sus coordinaciones regionales de asesores jurídicos, como área especializada en asesoría jurídica para víctimas del delito, y la asesoría jurídica estatal a víctimas de violación a derechos humanos corresponderá a la Comisión Estatal de Derechos Humanos, por medio de sus asesores jurídicos.
+
+> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2017)</small>
 
 ###### Artículo 56.
 
-Integración. La Asesoría Jurídica Estatal estará integrada por asesores jurídicos en los términos de la Ley Orgánica de la Defensoría Pública del Estado de Baja California Sur y de la Ley de la Comisión Estatal de Derechos Humanos del estado de Baja California Sur.
+Integración. La Asesoría Jurídica Estatal estará integrada por asesores jurídicos en los términos de ésta Ley y de la Ley de la Comisión Estatal de Derechos Humanos del Estado de Baja California Sur.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE JUNIO DE 2017)</small>
 
 ###### Artículo 57.
 
-Funciones del Director General de la Defensoría Pública. El Director General de la Defensoría Pública por medio de sus coordinaciones regionales de asesores jurídicos, tendrá además de las funciones que establezca la ley de la materia:
+Funciones del Coordinador Estatal de Atención a Víctimas del Delito. El (sic) Coordinación Estatal de Atención a Víctimas del Delito por medio de sus coordinaciones regionales de asesores jurídicos, tendrá además de las funciones que establezca la ley de la materia:
 
 I. Coordinar el servicio de asesoría jurídica para víctimas, a fin de garantizar los derechos de las víctimas contenidos en esta Ley, en tratados internacionales y demás disposiciones aplicables;
 
@@ -807,9 +825,11 @@ IX. Elaborar un informe anual de labores sobre las actividades integrales desarr
 
 X. Las demás que sean necesarias para cumplir con el objeto de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE JUNIO DE 2017)</small>
+
 ###### Artículo 58.
 
-Derecho a la Asesoría Jurídica. La víctima tendrá derecho a nombrar un asesor jurídico. En caso de no contar con uno, la Dirección General de Defensoría Pública deberá proporcionárselo.
+Derecho a la Asesoría Jurídica. La víctima tendrá derecho a nombrar un asesor jurídico. En caso de no contar con uno, la Coordinación Estatal de Atención a Víctimas del Delito deberá proporcionárselo.
 
 La víctima tendrá el derecho de que su asesor jurídico comparezca a todos los actos en los que ésta sea requerida.
 
@@ -827,9 +847,11 @@ V. Integrantes de comunidades indígenas; y
 
 VI. Las personas que por cualquier razón social o económica tengan la necesidad de estos servicios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE JUNIO DE 2017)</small>
+
 ###### Artículo 59.
 
-Funciones del Asesor Jurídico. El Asesor Jurídico tendrá además de las funciones establecidas en la Ley Orgánica de la Defensoría Pública, las siguientes:
+Funciones del Asesor Jurídico. El Asesor Jurídico tendrá además de las funciones establecidas en ésta Ley y su reglamento interior, las siguientes:
 
 I. Informar a la víctima, respecto al sentido y alcance de las medidas de protección, ayuda, asistencia, atención y reparación integral, y en su caso, tramitarlas ante las autoridades judiciales y administrativas;
 
@@ -839,17 +861,21 @@ III. Tramitar y entregar copias de su expediente a la víctima, en caso de que �
 
 IV. Las demás que se requieran para la defensa integral de los derechos de las víctimas.
 
+> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2017)</small>
+
 ###### Artículo 60.
 
-Asignación del Asesor Jurídico. El Asesor Jurídico será asignado inmediatamente por la Dirección General de Defensoría Pública, sin más requisitos que la solicitud formulada por la víctima o a petición de alguna institución, organismo de derechos humanos u organización de la sociedad civil.
+Asignación del Asesor Jurídico. El Asesor Jurídico será asignado inmediatamente por la Coordinación Estatal de Atención a Víctimas del Delito, sin más requisitos que la solicitud formulada por la víctima o a petición de alguna institución, organismo de derechos humanos u organización de la sociedad civil.
 
 ## TÍTULO SÉPTIMO. DEL ASESOR VICTIMOLÓGICO
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE JUNIO DE 2017)</small>
+
 ###### Artículo 61.
 
-Asesor victimológico. Las instituciones de seguridad pública del Estado, la Procuraduría General de Justicia y la Comisión Estatal de Derechos Humanos, a través del área respectiva, contarán con asesores victimológicos, capacitados, con el fin de brindar atención especializada en forma directa y personalizada a la víctima en el ámbito de sus respectivas competencias.
+Asesor victimológico. Las instituciones de seguridad pública del Estado, la Coordinación Estatal de Atención a Víctimas del Delito y la Comisión Estatal de Derechos Humanos, a través del área respectiva, contarán con asesores victimológicos, capacitados, con el fin de brindar atención especializada en forma directa y personalizada a la víctima en el ámbito de sus respectivas competencias.
 
 Los Asesores Victimológicos deberán tener la capacitación necesaria para atender debidamente a las víctimas de delitos o de violación a derechos humanos.
 
@@ -960,3 +986,11 @@ B.O. 31 DE OCTUBRE DE 2016.
 PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
+
+B.O. 27 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2451 SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA; LEY ORGÁNICA DE LA DEFENSORÍA PÚBLICA Y LEY DE ATENCIÓN A VÍCTIMAS, TODAS DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
