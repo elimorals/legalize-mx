@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-administracion-publica-del-estado-de-109821"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-09-09"
-last_updated: "2016-10-31"
+last_updated: "2017-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109821&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE JUNIO DE 2017.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el miércoles 9 de septiembre de 2015.
 
@@ -251,7 +251,9 @@ XVIII. Representar legalmente al Poder Ejecutivo y a su titular, en los procedim
 
 XIX. Encargarse de las funciones del Ejecutivo del Estado, en materia del Notariado de conformidad con las leyes respectivas, incluyendo la autorización, organización, vigilancia y sanción de las actividades de los notarios titulares y notarios adscritos; así como organizar, dirigir y supervisar el Archivo General de Notarias;
 
-XX. Coordinar, supervisar, controlar y vigilar las acciones correspondientes a la organización, desempeño y funcionamiento de la Dirección General de la Defensoría Pública, de conformidad con su Ley Orgánica y reglamento interno;
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
+
+XX. Coordinar, supervisar, controlar y vigilar las acciones correspondientes a la organización, desempeño y funcionamiento de la Dirección General de la Defensoría Pública, de conformidad con su Ley Orgánica y reglamento interno; así como de la Coordinación Estatal de Asesoría a Víctimas del Delito conforme a la Ley;
 
 XXI. Previo acuerdo por escrito con el Gobernador del Estado, expedir las licencias, autorización, permisos y refrendos, cuyas facultades no estén asignadas específicamente a otras secretarías del despacho o dependencias;
 
@@ -323,7 +325,9 @@ V. Organizar y llevar la contabilidad de la hacienda pública estatal;
 
 VI. Ejercer el Presupuesto de Egresos en los términos de las leyes respectivas;
 
-VII. Elaborar los informes de la gestión financiera con los conceptos de gastos realizados y el cumplimiento de los objetivos específicos contenidos en los programas que conforman la cuenta pública del Estado, de conformidad con la legislación aplicable, y solventar conjuntamente con la Controlaría General las observaciones que le formule el Órgano de Fiscalización Superior del Congreso del Estado;
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
+
+VII. Elaborar los informes de la gestión financiera con los conceptos de gastos realizados y el cumplimiento de los objetivos específicos contenidos en los programas que conforman la cuenta pública del Estado, de conformidad con la legislación aplicable, y solventar conjuntamente con la Contraloría General, las observaciones que le formule la Auditoria Superior del Estado.
 
 VIII. Ejecutar los pagos de acuerdo a los programas y presupuestos aprobados;
 
@@ -699,6 +703,8 @@ XIII. Las demás que le señalen las leyes aplicables.
 
 La Procuraduría General de Justicia del Estado es la institución encargada de ejercer las atribuciones conferidas al Ministerio Público por la Constitución Política de los Estados Unidos Mexicanos, representar el interés de la sociedad y garantizar el Estado de Derecho en el ámbito de su competencia; asimismo, le competen las facultades y funciones que la Constitución Política del Estado Libre y Soberano de Baja California Sur y la Ley Orgánica de la Procuraduría General de Justicia del Estado le otorga, así como las demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 32.
 
 A la Contraloría General le corresponde el ejercicio de las siguientes atribuciones:
@@ -715,31 +721,75 @@ V. Participar en la elaboración del Presupuesto de Egresos del Estado;
 
 VI. Vigilar el registro, ejecución, avance físico y financiero, publicación, liquidación y entrega de recursos que ejerza el Gobierno del Estado;
 
-> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2015)</small>
+VII. Establecer, conjuntamente con la Secretaría de Finanzas y Administración, el sistema de control de la eficiencia en la aplicación del gasto público, de evaluación respecto del presupuesto de egresos y las políticas en los programas gubernamentales, así como de los ingresos y del uso de los recursos patrimoniales de propiedad o al cuidado del Gobierno del Estado y vigilar su cumplimiento;
 
-VII. Recibir y registrar las declaraciones patrimoniales y de Conflicto de intereses de los servidores públicos conforme de la ley aplicable, en su caso requerir información adicional, así como realizar investigaciones y denuncias correspondientes;
+VIII. Vigilar el cumplimiento de las normas de control, fiscalización y evaluación que deban observar las dependencias y entidades de la administración pública del Estado, así como establecer los procedimientos para la práctica de auditorías externas o internas a las mismas;
 
-VIII. Establecer, conjuntamente con la Secretaría de Finanzas y Administración, el sistema de control de la eficiencia en la aplicación del gasto público, de evaluación respecto del presupuesto de egresos y las políticas en los programas gubernamentales, así como de los ingresos y del uso de los recursos patrimoniales de propiedad o al cuidado del Gobierno del Estado y vigilar su cumplimiento;
+IX. Vigilar que en las licitaciones, asignaciones de obra pública, concesiones, así como las adquisiciones de bienes o servicios, contratos a largo plazo y los derivados de las asociaciones público privadas se observen las disposiciones legales y administrativas correspondientes;
 
-IX. Fijar las normas de control, fiscalización y evaluación que deban observar las dependencias y entidades de la administración pública del Estado, así como establecer los procedimientos para la práctica de auditorias externas o internas a las mismas;
+X. Coordinarse con las dependencias y entidades de la administración pública del Estado y la Auditoria Superior del Estado, así como con el Gobierno Federal y los Municipios, atendiendo a la naturaleza de sus funciones para el establecimiento de programas, sistemas y procedimientos que permitan el cumplimiento eficaz de sus respectivas responsabilidades;
 
-X. Vigilar que en las licitaciones, asignaciones de obra pública, concesiones, así como las adquisiciones de bienes o servicios se observen las disposiciones legales y administrativas correspondientes;
+XI. Verificar y evaluar en coordinación con los municipios, la aplicación de los fondos federales y estatales, de conformidad con la legislación respectiva y los convenios y acuerdos que al respecto se celebren;
 
-XI. Coordinarse con las dependencias y entidades de la administración pública del Estado y con el Órgano de Fiscalización Superior del Estado de Baja California Sur, así como con el Gobierno Federal y los municipios, atendiendo a la naturaleza de sus funciones para el establecimiento de programas, sistemas y procedimientos que permitan el cumplimiento eficaz de sus respectivas responsabilidades;
+XII. Fungir como órgano de asesoría y capacitación hacia las demás dependencias y entidades de la administración pública del Estado y municipal cuando lo soliciten, en materia de control y vigilancia de los recursos públicos, responsabilidades y aplicación de la normatividad administrativa;
 
-XII. Verificar y evaluar en coordinación con los municipios, la aplicación de los fondos federales y estatales, de conformidad con la legislación respectiva y los convenios y acuerdos que al respecto se celebren;
+XIII. Procurar el resarcimiento de los daños patrimoniales ocasionados a la administración pública del Estado por la actividad irregular u omisión de los servidores públicos;
 
-XIII. Fungir como órgano de asesoría y capacitación hacia las demás dependencias y entidades de la administración pública del Estado y municipal cuando lo soliciten, en materia de control y vigilancia de los recursos públicos, responsabilidades y aplicación de la normatividad administrativa;
+XIV. Conocer de los procedimientos por la vía administrativa en materia de responsabilidad patrimonial y procurar la indemnización a las personas que sin la obligación jurídica de soportarlo sufran una lesión en cualquiera de sus bienes posesiones o derechos como consecuencia de la actividad administrativa del Estado;
 
-XIV. Conocer e investigar los actos y omisiones que puedan constituir responsabilidades de los servidores públicos, substanciar el procedimiento administrativo disciplinario que establezca la ley de la materia; y en su caso hacerlo del conocimiento de las autoridades correspondientes;
+XV. Integrar, coordinar, supervisar y evaluar a las contralorías internas en las dependencias y entidades de la administración pública estatal, conforme lo establezca el reglamento interior correspondiente;
 
-XV. Procurar el resarcimiento de los daños patrimoniales ocasionados a la administración pública del Estado por la actividad irregular u omisión de los servidores públicos;
+XVI. Seleccionar a los integrantes de los órganos internos de control, garantizando la igualdad de oportunidades en el acceso a la función pública, atrayendo a los mejores candidatos para ocupar los puestos, a través de procedimientos transparentes, objetivos y equitativos;
 
-XVI. Conocer de los procedimientos por la vía administrativa en materia de responsabilidad patrimonial y procurar la indemnización a las personas que sin la obligación jurídica de soportarlo sufran una lesión en cualquiera de sus bienes posesiones o derechos como consecuencia de la actividad administrativa del Estado:
+XVII. Designar y remover a los titulares de los órganos internos de control de las dependencias y entidades de la Administración Pública Estatal y en la Procuraduría General de Justicia del Estado, quienes se integrarán orgánicamente a aquellas, pero dependerán jerárquica y funcionalmente de la Contraloría General;
 
-XVII. Integrar, coordinar, supervisar y evaluar a las controlarías internas que pertenecen a la administración pública estatal, conforme lo establezca el Reglamento Interior correspondiente, y
+XVIII. Expedir las normas secundarias que regulen los instrumentos y procedimientos de control interno de la Administración Pública Estatal, para lo cual podrá requerir de las dependencias competentes la expedición de normas complementarias para el ejercicio del control administrativo. Lo anterior, sin menoscabo de las bases y principios de coordinación y recomendaciones emitidas por el Comité Coordinador del Sistema Estatal Anticorrupción;
 
-XVIII Las demás que le señalen las leyes aplicables.
+XIX. Vigilar, en colaboración con las autoridades que integren el Comité Coordinador del Sistema Estatal Anticorrupción, el cumplimiento de las normas de control interno y fiscalización, así como asesorar y apoyar a los órganos internos de control en las dependencias y entidades de la Administración Pública del Estado;
+
+XX. Coordinar y supervisar el sistema de control interno, establecer las bases generales para la realización de auditorías internas, transversales y externas; expedir las normas que regulen los instrumentos y procedimientos en dichas materias en las dependencias y entidades de la Administración Pública Estatal y en la Procuraduría General de Justicia del Estado, así como realizar las auditorías que se requieran en éstas, en sustitución o apoyo de los órganos internos de control;
+
+XXI. Realizar, por sí o a solicitud de la Secretaría de Finanzas y Administración o la coordinadora de sector correspondiente de los organismos descentralizados, auditorías, revisiones y evaluaciones a las dependencias y entidades de la Administración Pública Estatal, con el objeto de examinar, fiscalizar y promover la eficiencia y legalidad en su gestión y encargo;
+
+XXII. Fiscalizar directamente o a través de los órganos internos de control, que las dependencias y entidades de la Administración Pública Estatal y en la Procuraduría General (sic) Justicia del Estado cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y remuneraciones de personal, contratación de adquisiciones, arrendamientos, arrendamiento financiero, servicios y ejecución de obra pública, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de la Administración Pública Estatal;
+
+XXIII. Ejercer las atribuciones que le conceda la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur, por sí o a través de los Órganos Internos de Control;
+
+XXIV. Designar y remover a los titulares de las áreas de auditoría, quejas y responsabilidades de los órganos internos de control, quienes tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que estos emitan que emitan (sic) en la esfera administrativa y ante los Tribunales competentes, representando a la Contraloría General; sin que con ello ésta renuncie a comparecer por sí misma en defensa de las determinaciones;
+
+XXV. Registrar y certificar a los auditores externos, así como normar y controlar su desempeño, para poder ser contratados por la Administración Pública en los términos de la legislación aplicable;
+
+XXVI. Designar y remover para el mejor desarrollo del sistema de control y evaluación de la gestión gubernamental a los comisarios públicos de los órganos de vigilancia de las entidades de la Administración Pública Paraestatal y de la Procuraduría General de Justicia del Estado; así como normar y controlar su desempeño;
+
+XXVII. Recurrir las determinaciones de la Fiscalía Especializada en materia de Combate a la Corrupción y del Tribunal de Justicia Administrativa del Estado, así como colaborar en el marco del Sistema Estatal Anticorrupción y del Sistema Estatal de Fiscalización, en el establecimiento de las bases y principios de coordinación necesarios, que permitan el mejor cumplimiento de las responsabilidades de sus integrantes;
+
+XXVIII. Implementar las acciones que acuerde el Sistema Estatal Anticorrupción, en términos de las disposiciones aplicables;
+
+XXIX. Informar periódicamente al Comité Coordinador del Sistema Estatal Anticorrupción, así como al Gobernador del Estado, sobre el resultado de la evaluación respecto de la gestión de las dependencias y entidades de la Administración Pública Estatal y en la Procuraduría General de Justicia del Estado, así como del resultado de la revisión del ingreso, manejo, custodia y ejercicio de recursos públicos estatales.
+
+XXX. Promover ante las autoridades competentes, las acciones que procedan para corregir las irregularidades detectadas;
+
+XXXI. Llevar y normar el registro de servidores públicos de la Administración Pública Estatal, recibir y registrar las declaraciones patrimoniales y de conflicto de intereses que deban presentar, así como verificar su contenido mediante las investigaciones que resulten pertinentes de acuerdo con las disposiciones aplicables. También registrará la información sobre las sanciones administrativas que, en su caso, les hayan sido impuestas;
+
+XXXII. Atender las quejas e inconformidades que presenten los particulares con motivo de convenios o contratos que celebren con las dependencias y entidades de la Administración Pública Estatal y en la Procuraduría General de Justicia del Estado, salvo los casos en que otras leyes establezcan procedimientos de impugnación diferentes;
+
+XXXIII. Conocer e investigar las conductas de los servidores públicos de la Administración Pública Estatal que puedan constituir responsabilidades administrativas, graves o no graves, así como substanciar los procedimientos correspondientes conforme a lo establecido en la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur por sí, o por conducto de los órganos internos de control que correspondan a cada dependencia la (sic) Administración Pública Estatal. De igual forma respecto a los particulares que intervengan en actos vinculados con faltas administrativas. Se aplicaran las sanciones que correspondan en los casos que no sean de la competencia del Tribunal de Justicia Administrativa del Estado de Baja California Sur y, cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante ese Tribunal; así como presentar las denuncias correspondientes ante la Fiscalía Especializada en materia de Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones aplicables;
+
+XXXIV. Establecer mecanismos internos que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas;
+
+XXXV. Emitir conjuntamente, según corresponda, con la Secretaría de Finanzas y Administración y con la Secretaría de Planeación Urbana, Infraestructura y Transporte los lineamientos, manuales, procedimientos y demás instrumentos análogos que se requieran en materia de contrataciones públicas reguladas por la Ley de Adquisiciones, Arrendamientos y Servicios así como por la Ley de Obras Públicas y Servicios Relacionados con las mismas, ambas del Estado, así como proporcionar, en su caso, asesoría normativa con carácter preventivo en los procedimientos de contratación regulados por las mencionadas leyes que realicen las dependencias y entidades de la Administración Pública Estatal;
+
+XXXVI. Emitir los lineamientos generales o guías para la elaboración por parte de las dependencias estatales de los manuales, lineamientos, acuerdos y demás instrumentos legales que sean necesarios a las dependencias y entidades de la Administración Pública del Estado, respecto a que se ajusten a las normas emitidas por la propia Contraloría en el ámbito de su competencia;
+
+XXXVII. Formular y conducir en apego y de conformidad con las bases de coordinación que establezca el Comité Coordinador del Sistema Estatal Anticorrupción, la política general de la Administración Pública Estatal para establecer acciones que propicien la integridad y la transparencia en la gestión pública, la rendición de cuentas y el acceso por parte de los particulares a la información que aquélla genere;
+
+XXXVIII. Ejercer las facultades que la Constitución Política del Estado Libre y Soberano de Baja California Sur le otorga a los órganos internos de control para revisar, mediante las auditorías a que se refiere el presente artículo, el ingreso, manejo, custodia y ejercicio de recursos públicos;
+
+XXXIX. Implementar las políticas de coordinación que promueva el Comité Coordinador del Sistema Estatal Anticorrupción, en materia de combate a la corrupción en la Administración Pública Estatal;
+
+XL. Emitir y actualizar el Código de Ética de los servidores públicos del Gobierno del Estado y las Reglas de Integridad para el ejercicio de la función pública; y
+
+XLI. Las demás que le señalen las leyes aplicables.
 
 ## TÍTULO TERCERO. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL
 
@@ -1042,3 +1092,27 @@ SEGUNDO.- Se abroga la Ley de Presupuesto y Control del Gasto Público Estatal, 
 TERCERO.- Se abroga la Ley de Deuda Pública para el Estado de Baja California Sur, publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur número 48 de fecha 25 de noviembre del 2006.
 
 CUARTO.- Los Poderes del Estado de Baja California Sur, las Dependencias y Entidades del Poder Ejecutivo y los Organismos Autónomos deberán efectuar los ajustes correspondientes en sus Reglamentos Internos o equivalentes.
+
+B.O. 27 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2450 SE REFORMAN LA FRACCIÓN VII DEL ARTÍCULO 22 Y EL ARTÍCULO 32 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Las dependencias y entidades del Poder Ejecutivo del Estado que corresponda deberán realizar las modificaciones a sus reglamentos respectivos para ajustarlos al presente Decreto, en un término de 180 días hábiles a partir de su entrada en vigor.
+
+###### ARTÍCULO TERCERO.
+
+El Titular del Poder Ejecutivo del Estado de Baja California Sur, por conducto de la Secretaria de Finanzas y Administración deberá realizar los ajustes presupuestales necesarios para efecto de poder dar cumplimiento a lo previsto en el presente Decreto, y en su momento remitir al Congreso del Estado de Baja California Sur, la Iniciativa con Proyecto de Decreto mediante la cual proponga se realicen modificaciones al Presupuesto de Egresos del Estado de Baja California Sur para el Ejercicio Fiscal 2017, con el fin de establecer en este los ajustes presupuestales que fueron necesarios para dar cumplimiento al presente Decreto.
+
+B.O. 27 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2451 SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA; LEY ORGÁNICA DE LA DEFENSORÍA PÚBLICA Y LEY DE ATENCIÓN A VÍCTIMAS, TODAS DEL ESTADO DE BAJA CALIFORNIA SUR."]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
