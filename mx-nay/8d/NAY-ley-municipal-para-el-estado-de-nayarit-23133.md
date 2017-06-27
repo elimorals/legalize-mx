@@ -4,7 +4,7 @@ identifier: "NAY-ley-municipal-para-el-estado-de-nayarit-23133"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-04"
-last_updated: "2016-12-23"
+last_updated: "2017-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,61 +21,27 @@ state: "NAY"
 ---
 # LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
-REGLAMENTO DE LA GACETA MUNICIPAL DEL MUNICIPIO DE VILLA TEJUPAM DE LA UNIÓN, DISTRITO DE TEPOSCOLULA, OAXACA
+LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2017.
 
-Reglamento publicado en la Quinta Sección del Número 18 del Periódico Oficial del Estado de Oaxaca, el sábado 3 de mayo de 2025.
+Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de agosto del 2001.
 
-REGLAMENTO DE LA GACETA MUNICIPAL DEL MUNICIPIO DE VILLA TEJUPAM DE LA UNIÓN, DISTRITO DE TEPOSCOLULA, OAXACA.
+C.P. ANTONIO ECHEVARRIA DOMINGUEZ, Gobernador Constitucional del Estado Libre y Soberano de Nayarit, a los habitantes del mismo, sabed:
 
-C. Felipe Filogonio Montes Rojas, Presidente Municipal Constitucional de Villa Tejupam de la Unión, Distrito de Teposcolula, Oaxaca, en cumplimiento de lo dispuesto en los artículos 43 fracción I, 56 fracción XVIII, 68 fracción IV y 136 de la Ley Orgánica Municipal del estado de Oaxaca, a todos los habitantes del municipio hago saber:
+Que el H. Congreso Local se ha servido dirigirme para su promulgación, el siguiente:
 
-Que el Ayuntamiento de Villa Tejupam de la Unión, Distrito de Teposcolula, Oaxaca, en Sesión Extraordinaria celebrada el día 09 de abril del 2025, ha tenido a bien aprobar y expedir los siguientes acuerdos:
+DECRETO NUMERO 8345
 
-PRIMERO. Se aprueba la creación de la Gaceta Municipal del H. Ayuntamiento de Villa Tejupam de la Unión, Distrito de Teposcolula, Oaxaca.
+El H. Congreso del Estado Libre y Soberano de Nayarit, representado por su XXVI Legislatura
 
-SEGUNDO. Se aprueba la expedición del reglamento de la gaceta municipal del H. Ayuntamiento de Villa Tejupam de la Unión, Distrito de Teposcolula, Oaxaca, para quedar como sigue:
+D E C R E T A
+
+LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
 ## TÍTULO PRIMERO
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
-
-###### Artículo 1.
-
-El presente reglamento es de orden público e interés social y tiene por objeto regular la elaboración, publicación y distribución de la Gaceta Municipal de Villa Tejupam de la Unión, Distrito de Teposcolula, Oaxaca.
-
-###### Artículo 2.
-
-El presente reglamento tiene como objeto realizar la publicación y divulgación de las determinaciones del Ayuntamiento.
-
-###### Artículo 3.
-
-Corresponde al Presidente Municipal la publicación de los reglamentos, circulares y disposiciones administrativas de observancia general que emita el Ayuntamiento, debiendo realizarse en la Gaceta Municipal para efectos de su difusión y vigencia legal.
-
-###### Artículo 4.
-
-El Presidente Municipal se auxiliará de la Secretaría del Ayuntamiento, para dar cumplimiento a lo dispuesto en el presente reglamento.
-
-###### Artículo 5.
-
-Corresponde a la Secretaría Municipal, lo siguiente:
-
-I. La operación, control y vigilancia de las publicaciones efectuadas en la Gaceta Municipal.
-
-II. Realizar la publicación fiel y oportuna en la Gaceta Municipal de Documentos de Carácter General y Documentos de Naturaleza Interna, que sean remitidos para el efecto.
-
-III. Instrumentar los registros estadísticos de las publicaciones de la Gaceta Municipal.
-
-IV. Conservar, controlar y organizar las publicaciones.
-
-V. Informar al Presidente Municipal cuando hubiere necesidad de realizar la fe de erratas de los textos publicados, así como corregir los errores cuando lo justifique plenamente el mismo o lo determine el Ayuntamiento.
-
-VI. Las demás que señalen los reglamentos Municipales.
-
-###### Artículo 6.
-
-Las publicaciones deberán realizarse preferentemente en días hábiles y por excepción en días inhábiles.
+### CAPÍTULO ÚNICO. Disposiciones generales al régimen municipal
 
 ###### ARTICULO 1o.
 
@@ -121,7 +87,9 @@ XI.- Gasto etiquetado: las erogaciones que realizan los Municipios con cargo a l
 
 XII.- Gasto no etiquetado: las erogaciones que realizan los Municipios con cargo a sus ingresos de libre disposición y financiamientos. En el caso de los Municipios, se excluye el gasto que realicen con recursos del Estado con un destino específico;
 
-XII (SIC).- Gasto total: la totalidad de las erogaciones aprobadas en el presupuesto de egresos, con cargo a los ingresos previstos en la Ley de Ingresos, las cuales no incluyen las operaciones que darían lugar a la duplicidad en el registro del gasto;
+> <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+XIII.- Gasto total: La totalidad de las erogaciones aprobadas en el presupuesto de egresos, con cargo a los ingresos previstos en la Ley de Ingresos, las cuales no incluyen las operaciones que darían lugar a la duplicidad en el registro del gasto;
 
 XIV.- Ingresos de libre disposición: los ingresos municipales y las participaciones federales, así como los recursos que, en su caso, reciban del Fondo de Estabilización de los ingresos del Estado y cualquier otro recurso que no esté destinado a un fin específico;
 
@@ -175,7 +143,9 @@ VIII.- Administrar con base en los principios de legalidad, honestidad, eficacia
 
 IX.- Ejercer sus facultades y atribuciones de manera colegiada;
 
-X.- Crear el marco jurídico municipal consistente en los bandos, reglamentos, circulares y disposiciones administrativas de observancia general; y
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2017)</small>
+
+X.- Crear el marco jurídico municipal consistente en los bandos, reglamentos, circulares y disposiciones administrativas de observancia general;
 
 XI.- Cumplir y hacer cumplir los mandatos que aluden atribuciones y competencia del municipio contenidas en la Constitución Federal, la particular del estado y las leyes que de ellas emanen, específicamente:
 
@@ -193,43 +163,17 @@ f) Que las controversias entre la administración y los particulares, se diriman
 
 g) Coadyuvar con las autoridades y organismos competentes en materia de defensa y respeto a los derechos humanos y sujetarse a las disposiciones que sobre esa materia señale esta ley.
 
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2017)</small>
+
+XII.- Crear y mantener condiciones estructurales y normativas que permitan el adecuado funcionamiento del Estado en su conjunto, y la actuación ética y responsable de cada servidor público, y
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2017)</small>
+
+XIII.- Implementar los mecanismos y políticas públicas que establezca el Comité Coordinador del Sistema Local Anticorrupción e informar a dicho órgano de los avances y resultados que estos tengan, a través de sus órganos internos de control.
+
 ## TÍTULO SEGUNDO
 
-### CAPÍTULO SEGUNDO. DEL CONTENIDO Y PERIODICIDAD DE LA PUBLICACIÓN
-
-###### Artículo 7.
-
-Se publicará en la Gaceta Municipal lo siguiente:
-
-I. El bando de Policía y Gobierno, los reglamentos que emita el Ayuntamiento.
-
-II. Plan de desarrollo Municipal.
-
-III. Los acuerdos, circulares y disposiciones que sean de observancia general.
-
-IV. Los acuerdos, convenios o cualquier otro compromiso de interés para el Municipio y sus habitantes.
-
-V. Las convocatorias para la celebración de consultas a la ciudadanía y circulares;
-
-VI. La información de carácter institucional o reseñas culturales, biográficas y geográficas de interés para el municipio; y
-
-VII. Aquellos actos que por su propia importancia social lo determine así el Presidente Municipal o el Ayuntamiento.
-
-###### Artículo 8.
-
-La Gaceta Municipal al publicarse deberá contener los siguientes datos:
-
-I. El nombre;
-
-II. El escudo oficial del Ayuntamiento
-
-III. Año de publicación; y
-
-IV. Número de ejemplar.
-
-###### Artículo 9.
-
-Los acuerdos o resoluciones a que se refiere el artículo 7, aprobados por el Ayuntamiento, deberán ser expedidos y promulgados por el Presidente Municipal para su publicación y firmados por la Secretaria Municipal.
+### CAPÍTULO I. Organización territorial y administrativa de los municipios
 
 ###### ARTICULO 5o.
 
@@ -251,15 +195,23 @@ El nombre de los municipios y sus cabeceras, así como las categorías y denomin
 
 Para erigir nuevos municipios dentro de los límites de los ya existentes, modificar su territorio o suprimir aquellos que no reúnan las condiciones para proveer a su existencia política, se aplicarán los procedimientos y reunirán los requisitos que señala la Ley de División Territorial del Estado. La resolución que emita el Congreso será inatacable.
 
-###### Artículo 10.
+###### ARTICULO 10.
 
-La Gaceta Municipal se imprimirá en cantidad suficiente y necesaria para su debida difusión y distribución. Se distribuirá de manera gratuita a los integrantes del Ayuntamiento, en la Agencia Municipal, a los organismos auxiliares municipales, así como a cualquier institución o particular que lo solicite.
+Para su organización administrativa y territorial, los municipios se dividirán en:
+
+I.- Cabeceras municipales;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2014)</small>
+
+II.- Delegaciones municipales, para ciudades y poblaciones que cuenten con mayor número de población y/o para aquellas que se encuentren asentadas en los lugares que geográficamente permitan el mejor desempeño de sus respectivas atribuciones, y
+
+III.- Juzgados auxiliares, para rancherías y pequeñas comunidades.
 
 ### CAPÍTULO II. De la población del municipio
 
-###### Artículo 11.
+###### ARTICULO 11.
 
-Los errores contenidos en las publicaciones serán corregidos con la errata respectiva y siempre que se constante que existe discrepancia entre el texto del dictamen aprobado y la publicación efectuada en la Gaceta Municipal.
+Son habitantes de un municipio las personas que residan habitual o permanentemente en su territorio.
 
 ###### ARTICULO 12.
 
@@ -977,9 +929,9 @@ IX.- Informar por escrito dentro de los primeros diez días del mes de noviembre
 
 Dicho informe se publicará en la Gaceta Municipal;
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2017)</small>
 
-X.- Manejar los recursos financieros que integran la hacienda pública municipal y los recursos provenientes de convenios de coordinación que celebre con el estado y la federación por conducto de la Tesorería Municipal, verificando a través de la Dirección de la Contraloría Municipal que los egresos municipales se ajusten al presupuesto de egresos municipal y demás legislación aplicable;
+X.- Manejar los recursos financieros que integran la hacienda pública municipal y los recursos provenientes de convenios de coordinación que celebre con el estado y la federación por conducto de la Tesorería Municipal, verificando a través de la Contraloría Municipal que los egresos municipales se ajusten al presupuesto de egresos municipal y demás legislación aplicable;
 
 XI.- Vigilar la recaudación en todas las ramas de la hacienda pública municipal, cuidando que la inversión de los fondos se haga con estricto apego al presupuesto y a las leyes correspondientes;
 
@@ -1531,6 +1483,10 @@ La Comisión Municipal de Derechos Humanos es un organismo descentralizado de lo
 
 Los procedimientos que se sigan ante la comisión deberán ser breves, sencillos y estarán sujetos a las mínimas formalidades esenciales requeridas para la integración del expediente respectivo. Se seguirán, además, de acuerdo con los principios de inmediatez, concentración y rapidez, procurando, en la medida de lo posible, el contacto directo con los quejosos, denunciantes, autoridades y servidores públicos, para evitar la dilación de las comunicaciones escritas, haciéndose efectiva en todos los casos la suplencia de la queja de conformidad con el reglamento que expida el Ayuntamiento.
 
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2017)</small>
+
+La Comisión Municipal de Derechos Humanos podrá contar con un órgano interno de control cuando así lo estime conveniente la Contraloría Municipal, mismo que tendrá autonomía técnica y de gestión, la fiscalización de todos los ingresos y egresos de la Comisión, así como las facultades establecidas en la Constitución y demás leyes aplicables.
+
 ###### ARTICULO 103.
 
 Los Ayuntamientos reglamentarán la instalación, funcionamiento y marco atributivo de los integrantes de la Comisión, la situación del personal que preste sus servicios y el procedimiento para elaborar y aprobar su respectivo presupuesto, conforme a las reglas siguientes:
@@ -1577,7 +1533,9 @@ II.- Realizar denuncias de oficio o a instancia de cualquier persona ante las co
 
 III.- Solicitar a las autoridades municipales señaladas como responsables, informe sobre el asunto sujeto a su investigación. Para dar cumplimiento a la atribución que se precisa en el inciso I, las autoridades municipales estarán obligadas a atender cualquier solicitud de la Comisión Municipal de Derechos Humanos, en el desempeño de sus funciones;
 
-Las autoridades municipales que no atiendan y auxilien en las investigaciones a la Comisión Municipal de Derechos Humanos, se harán acreedoras a las sanciones y responsabilidades señaladas en la Ley de Responsabilidades de los Servidores Públicos del Estado y en las demás disposiciones jurídicas aplicables dictadas por el Ayuntamiento;
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2017)</small>
+
+Las autoridades municipales que no atiendan y auxilien en las investigaciones a la Comisión Municipal de Derechos Humanos, se harán acreedoras a las sanciones y responsabilidades señaladas en la Ley en materia de responsabilidades administrativas y en las demás disposiciones jurídicas aplicables dictadas por el Ayuntamiento;
 
 Los particulares que presten servicios públicos municipales concesionados que no colaboren con la Comisión Municipal de Derechos Humanos, en el ejercicio de sus investigaciones, serán sancionados por la autoridad municipal conforme a derecho;
 
@@ -1641,7 +1599,9 @@ El Ayuntamiento implementará el reglamento correspondiente en el cual se establ
 
 Los integrantes de los Comités de Acción Ciudadana se nombrarán por elección directa y democrática de los vecinos del municipio, con base en la convocatoria y requisitos que expida el Ayuntamiento; la elección se llevará a cabo en los primeros 60 días del ejercicio constitucional; durarán en su cargo tres años, pero serán removidos cuando exista causa grave en el ejercicio de sus funciones, la que calificará el Ayuntamiento.
 
-IV.- Los organismos auxiliares podrán aceptar y administrar recursos económicos con la obligación de destinatario a las obras o servicios públicos que sean de interés y beneficio general; debiendo informar y comprobar periódicamente el Ayuntamiento su manejo y aplicación; sus actividades de promoción, gestión y ejecución serán en apego a los planes y programas aprobados por el Ayuntamiento; se concede acción popular para denunciar o demandar las irregularidades en que incurrieren los miembros de los organismos auxiliares, con la intervención de la Dirección de la Contraloría y Desarrollo Administrativo municipal;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2017)</small>
+
+IV.- Los organismos auxiliares podrán aceptar y administrar recursos económicos con la obligación de destinarlo a las obras o servicios públicos que sean de interés y beneficio general; debiendo informar y comprobar periódicamente el Ayuntamiento su manejo y aplicación; sus actividades de promoción, gestión y ejecución serán en apego a los planes y programas aprobados por el Ayuntamiento; se concede acción popular para denunciar o demandar las irregularidades en que incurrieren los miembros de los organismos auxiliares, con la intervención de la Contraloría Municipal;
 
 V.- Las funciones y obligaciones principales de los organismos auxiliares, serán:
 
@@ -1715,13 +1675,19 @@ Dos o más municipios vecinos podrán convenir en la designación de un cronista
 
 La administración pública municipal será centralizada y paraestatal. El Ayuntamiento podrá crear dependencias que estén subordinadas administrativamente al Presidente Municipal, así como fusionar, modificar o suprimir las ya existentes atendiendo a sus necesidades y capacidad financiera. Asimismo, tendrá la facultad para crear órganos desconcentrados, subordinados jerárquicamente a las dependencias, con las facultades y obligaciones específicas que fije el reglamento y/o acuerdos respectivos.
 
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2017)</small>
+
+La Contraloría Municipal considerando la cuantía o el monto de los recursos materiales y humanos que ejerzan las entidades de la administración pública municipal, podrá optar por designar a un titular de un órgano interno de control, o en su caso supervisar directamente el sistema de control interno de las entidades referidas.
+
 La administración municipal comprenderá esencialmente, de manera declarativa y no limitativa, las siguientes dependencias:
 
 1.- La Secretaría del Ayuntamiento;
 
 2.- La Tesorería Municipal;
 
-3.- Dirección de Contraloría y Desarrollo Administrativo;
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2017)</small>
+
+3.- Contraloría Municipal;
 
 4.- Dirección de Planeación y Desarrollo Municipal;
 
@@ -1750,6 +1716,10 @@ La administración municipal comprenderá esencialmente, de manera declarativa y
 > <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2009)</small>
 
 La administración paraestatal de los municipios se integrará por los organismos públicos descentralizados, los fideicomisos y empresas de participación municipal que, a fin de dar cumplimiento a las funciones y servicios municipales de carácter prioritario y estratégico, determinen los propios Ayuntamientos mediante disposiciones de carácter general. A estos entes se les denominará genéricamente como entidades municipales.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2017)</small>
+
+La Contraloría Municipal emitirá los criterios para la clasificación de las entidades paraestatales conforme a sus objetivos y actividades, en aquellas que cumplan una función institucional y las que realicen fines comerciales con el propósito de, en su caso, establecer mecanismos diferenciados que hagan eficiente su organización, funcionamiento, control y evaluación. Dichos mecanismos contemplarán un análisis sobre los beneficios y costos de instrumentar prácticas de gobierno corporativo en las entidades con fines comerciales, a efecto de considerar la conveniencia de su adopción.
 
 > <small>(REFORMADO, P.O. 15 DE ABRIL DE 2009)</small>
 
@@ -1797,9 +1767,9 @@ f) Poseer la cualidad necesaria para el desempeño del cargo apegándose a los p
 
 g) No estar inhabilitado para ocupar cargo alguno en la administración pública federal, estatal ni municipal. Dicha condición se acreditará con las constancias correspondientes que emitan las autoridades competentes.
 
-> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2017)</small>
 
-Del cumplimiento de estos requisitos se deberá dar cuenta en el expediente personal de cada uno de los servidores públicos referidos que deberá obrar en la Dirección de la Contraloría Municipal.
+Del cumplimiento de estos requisitos se deberá dar cuenta en el expediente personal de cada uno de los servidores públicos referidos que deberá obrar en la Contraloría Municipal.
 
 ### CAPÍTULO II. De la Secretaría del Ayuntamiento
 
@@ -1921,7 +1891,9 @@ d) La tabla de valores unitarios de suelo y construcciones, en los términos de 
 
 VIII.- Coadyuvar con el Presidente Municipal en la remisión, de la cuenta, informes contables y financieros al Congreso del Estado en los términos de ley;
 
-IX.- Intervenir para dar solución oportuna a las observaciones que haga el Organo de Fiscalización Superior respecto de los informes de la cuenta pública municipal;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2017)</small>
+
+IX.- Intervenir para dar solución oportuna a las observaciones que haga la Auditoría Superior del Estado respecto de los informes de la cuenta pública municipal;
 
 > <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
 
@@ -1959,9 +1931,9 @@ XXI.- Formular y presentar los estados financieros y complementarios y sus respe
 
 XXII.- Elaborar anualmente los anteproyectos de Ley de Ingresos y Presupuesto de Egresos; así como su clasificador por objeto de gasto, conforme lo establecido en la presente Ley, en la Ley General de Contabilidad Gubernamental y las normas que para tal efecto emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; deberá ser congruente con el Plan Municipal de Desarrollo y los programas derivados del mismo. El anteproyecto propuesto deberá contribuir a un balance presupuestario sostenible;
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2017)</small>
 
-XXIII.- Informar mensualmente al Síndico y al Secretario de las afectaciones que se registren en el patrimonio municipal, así como de las adquisiciones e inversiones que se realicen con fondos municipales. El incumplimiento a los (sic) anterior será causa de responsabilidad grave y será sancionada en los términos que establece la Ley de Responsabilidades de los Servidores Públicos del Estado;
+XXIII.- Informar mensualmente al Síndico y al Secretario de las afectaciones que se registren en el patrimonio municipal, así como de las adquisiciones e inversiones que se realicen con fondos municipales. El incumplimiento a lo anterior será causa de responsabilidad grave y será sancionada en los términos que establece la Ley en materia de responsabilidades administrativas;
 
 > <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
 
@@ -1987,31 +1959,37 @@ XXVIII.- Entregar la información financiera que solicite la Secretaría de Admi
 
 XXIX.- Las demás que le señalen las leyes y reglamentos municipales.
 
-### CAPÍTULO IV. De la Dirección de Contraloría y Desarrollo Administrativo
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2013)</small>
+### Capítulo IV. De la Contraloría Municipal
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 118.
 
-La Dirección de Contraloría y Desarrollo Administrativo es la dependencia del Ayuntamiento responsable de establecer los sistemas de planeación y organización del control, evaluación y vigilancia de los actos administrativos del gobierno municipal. Esta dependencia tendrá como superior jerárquico a la Comisión de Hacienda y Cuenta Pública. Su titular deberá reunir los mismos requisitos que para ser Tesorero Municipal.
+La Contraloría Municipal es la dependencia del Ayuntamiento responsable de establecer los sistemas de planeación y organización del control, evaluación y vigilancia de los actos administrativos del gobierno municipal y de los órganos internos de control. Esta dependencia tendrá como superior jerárquico a la Comisión de Hacienda y Cuenta Pública. Su titular deberá reunir los mismos requisitos que para ser Tesorero Municipal.
 
 ###### ARTICULO 119.
 
 Son atribuciones del Contralor Municipal:
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2017)</small>
 
-I.- Proponer y verificar la aplicación de las normas y criterios en materia de organización, control y evaluación, que deban observar las dependencias centralizadas y paraestatales;
+I.- Proponer y verificar la aplicación de las normas y criterios en materia de organización, control y evaluación, que deban observar las dependencias centralizadas y paraestatales y los órganos internos de control;
 
 II.- Verificar el cumplimiento del Plan de Desarrollo Municipal y sus programas;
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2017)</small>
 
-III.- Realizar al menos una auditoría por año a cada una de las dependencias y entidades de la administración municipal; de sus resultados, cada año en el mes de enero se deberán remitir la documentación correspondiente al Órgano de Fiscalización Superior;
+III.- Realizar al menos una auditoría por año a cada una de las dependencias y entidades de la administración municipal; de sus resultados, cada año en el mes de enero se deberán (sic) remitir la documentación correspondiente a la Auditoria Superior del Estado;
 
-IV.- Vigilar la correcta aplicación del gasto público;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2017)</small>
 
-V.- Informar al Ayuntamiento, por conducto del Presidente Municipal, los resultados y comportamiento de la administración del municipio;
+IV.- Vigilar la correcta aplicación del gasto público y su congruencia con los presupuestos de egresos;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2017)</small>
+
+V.- Informar al Ayuntamiento, por conducto del Presidente Municipal, así como al Comité Coordinador del Sistema Local Anticorrupción, los resultados y comportamiento de la administración del municipio;
 
 VI.- Informar bimestralmente al Ayuntamiento de las actividades de la Contraloría;
 
@@ -2025,25 +2003,103 @@ X.- Establecer y operar un sistema de quejas, denuncias y sugerencias;
 
 XI.- Participar en la entrega-recepción de las dependencias y entidades de la administración municipal;
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2017)</small>
 
-XII.- Verificar los estados financieros de la Tesorería municipal, así como la remisión de la cuenta pública y los informes de avance de gestión financiera al Órgano de Fiscalización Superior del Estado;
+XII.- Verificar los estados financieros de la Tesorería municipal, así como la remisión de la cuenta pública y los informes de avance de gestión financiera a la Auditoría Superior del Estado;
 
-XIII.- Vigilar el comportamiento de la situación patrimonial de los servidores públicos municipales, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2017)</small>
 
-XIV.- Establecer convenios de coordinación con el Órgano de Fiscalización Superior así como con la Contraloría General del Gobierno del Estado, que permitan el cabal cumplimiento de sus respectivas atribuciones y deberes;
+XIII.- Vigilar el comportamiento de la situación patrimonial de los servidores públicos municipales; llevar y normar el registro de servidores públicos de la Administración Pública Municipal; recibir y registrar las declaraciones patrimoniales y de intereses que deban presentar, así como verificar su contenido mediante las investigaciones que resulten pertinentes; también registrará la información sobre las sanciones administrativas que, en su caso, les hayan sido impuestas, en los términos de la Ley en materia de responsabilidades administrativas;
 
-XV.- Fincar las responsabilidades administrativas de los servidores públicos, cuando procedan;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2017)</small>
 
-XVI.- Vigilar el desarrollo administrativo de las dependencias y entidades de la administración municipal, a fin de aplicar con eficiencia los recursos humanos y patrimoniales;
+XIV.- Establecer convenios de coordinación con la Auditoría Superior del Estado, así como con la Contraloría General del Gobierno del Estado, que permitan el cabal cumplimiento de sus respectivas atribuciones y deberes;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2017)</small>
+
+XV.- Conocer e investigar las conductas de los servidores públicos de la Administración Pública Municipal que puedan constituir responsabilidades administrativas, así como substanciar los procedimientos correspondientes conforme a lo establecido en la Ley en materia de responsabilidades administrativas, por sí, o por conducto de los órganos internos de control que correspondan a cada área de la Administración Pública Municipal; para lo cual podrán aplicar las sanciones que correspondan en los casos que no sean de la competencia del Tribunal de Justicia Administrativa y, cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante ese Tribunal; así como presentar las denuncias correspondientes ante la Fiscalía Especializada en Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2017)</small>
+
+XVI.- Vigilar el desarrollo administrativo integral de las dependencias y entidades de la administración municipal, a fin de aplicar con eficiencia los recursos humanos y patrimoniales con criterios de eficacia, legalidad, eficiencia y simplificación administrativa;
 
 > <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
 
 XVII.- Requerir a las dependencias y entidades municipales la documentación e información necesaria para el cumplimiento de sus atribuciones;
 
-XVIII.- Promover la capacitación y actualización de los servidores públicos municipales para el mejor desempeño de sus funciones administrativas; y
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2017)</small>
 
-XIX.- Las demás que le confiera ésta y otras leyes, y los reglamentos municipales.
+XVIII.- Promover la capacitación y actualización de los servidores públicos municipales para el mejor desempeño de sus funciones administrativas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2017)</small>
+
+XIX.- Designar y remover a los titulares de los órganos internos de control de la Administración Pública Municipal;
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2017)</small>
+
+XX.- Implementar las acciones que acuerde el Sistema Local Anticorrupción, en términos de las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2017)</small>
+
+XXI.- Expedir las normas que regulen los instrumentos y procedimientos de control interno de la Administración Pública Municipal, para lo cual podrá requerir de las dependencias competentes la expedición de normas complementarias para el ejercicio del control administrativo. Lo anterior, sin menoscabo de las bases y principios de coordinación y recomendaciones emitidas por el Comité Coordinador del Sistema Local Anticorrupción;
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2017)</small>
+
+XXII.- Vigilar, en colaboración con las autoridades que integren el Comité Coordinador del Sistema Local Anticorrupción, el cumplimiento de las normas de control interno y fiscalización, así como asesorar y apoyar a los órganos internos de control de las entidades de la Administración Pública Municipal;
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2017)</small>
+
+XXIII.- Establecer las bases generales para la realización de auditorías internas, transversales y externas; expedir las normas que regulen los instrumentos y procedimientos en dichas materias en las dependencias y entidades de la Administración Pública Municipal, así como realizar las auditorías que se requieran en éstas, en sustitución o apoyo de sus propios órganos internos de control;
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2017)</small>
+
+XXIV.- Fiscalizar directamente o a través de los órganos internos de control, que las dependencias y entidades de la Administración Pública Municipal cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y remuneraciones de personal, contratación de adquisiciones, arrendamientos, arrendamiento financiero, servicios y ejecución de obra pública, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de la Administración Pública Municipal;
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2017)</small>
+
+XXV.- Designar y remover a los auditores externos de las entidades municipales, así como normar y controlar su desempeño;
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2017)</small>
+
+XXVI.- Establecer mecanismos internos para la Administración Pública Municipal que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas;
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2017)</small>
+
+XXVII.- Formular y conducir en apego y de conformidad con las bases de coordinación que establezca el Comité Coordinador del Sistema Local Anticorrupción, la política general de la Administración Pública Municipal para establecer acciones que propicien la integridad y la transparencia en la gestión pública, la rendición de cuentas y el acceso por parte de los particulares a la información que aquélla genere; así como promover dichas acciones hacia la sociedad;
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2017)</small>
+
+XXVIII.- Ejercer las facultades que la Constitución Política del Estado le otorga a los órganos internos de control para revisar, mediante las auditorías que realice, el ingreso, manejo, custodia y ejercicio de recursos públicos federales y estatales;
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2017)</small>
+
+XXIX.- Implementar las políticas de coordinación que promueva el Comité Coordinador del Sistema Local Anticorrupción, en materia de combate a la corrupción en la Administración Pública Municipal;
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2017)</small>
+
+XXX.- Emitir normas, lineamientos específicos y manuales que, dentro del ámbito de su competencia, integren disposiciones y criterios que impulsen la simplificación administrativa, para lo cual deberán tomar en consideración las bases y principios de coordinación y recomendaciones generales que emita el Comité Coordinador del Sistema Local Anticorrupción;
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2017)</small>
+
+XXXI.- Seleccionar a los integrantes de los órganos internos de control, garantizando la igualdad de oportunidades en el acceso a la función pública, atrayendo a los mejores candidatos para ocupar los puestos, a través de procedimientos transparentes, objetivos y equitativos;
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2017)</small>
+
+XXXII.- Aprobar y registrar las estructuras orgánicas y ocupacionales de las dependencias y entidades de la Administración Pública Municipal y sus modificaciones; previo dictamen presupuestal favorable de la Tesorería Municipal, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE JUNIO DE 2017)</small>
+
+XXXIII.- Las demás que le confiera ésta y otras leyes, y los reglamentos municipales.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2017)</small>
+
+ARTICULO 119 bis.- Los titulares de los órganos internos de control de las entidades de la Administración Pública Municipal, serán responsables de mantener el control interno de la entidad a la que se encuentren adscritos. Asimismo, tendrán como función apoyar la política de control interno y la toma de decisiones relativas al cumplimiento de los objetivos y políticas institucionales, así como al óptimo desempeño de servidores públicos y órganos, a la modernización continua y desarrollo eficiente de la gestión administrativa y al correcto manejo de los recursos públicos.
+
+Los órganos internos de control, en ejercicio de su función de auditoría, prevista en la fracción XXVIII del artículo 119 de esta Ley, se regirán por las leyes y disposiciones sobre adquisiciones, obra pública, presupuesto, contabilidad, procedimiento administrativo, transparencia y acceso a la información, responsabilidades, combate a la corrupción y otras afines a la materia, y por las bases y principios de coordinación que emitan el Comité Coordinador del Sistema Local Anticorrupción respecto de dichos asuntos, así como sobre la organización, funcionamiento y supervisión de los sistemas de control interno, mejora de gestión en las dependencias y entidades de la Administración Pública Municipal y presentación de informes por parte de dichos órganos.
+
+Los titulares de las unidades encargadas de la función de auditoría de la Contraloría Municipal, en los meses de mayo y noviembre entregarán informes al titular de dicha Contraloría, sobre hallazgos en la gestión y recomendaciones en relación con las acciones correctivas, preventivas y oportunidades de mejora respecto de la calidad y eficiencia de los distintos procesos internos y sobre la relación de los procedimientos por faltas administrativas y de sanciones aplicadas por los órganos internos de control; las acciones de responsabilidad presentadas ante el Tribunal de Justicia Administrativa y las sanciones correspondientes; las denuncias por actos de corrupción que presenten ante la Fiscalía Especializada en Combate a la Corrupción; así como un informe detallado del porcentaje de los procedimientos iniciados por los órganos internos de control que culminaron con una sanción firme y a cuánto ascienden, en su caso, las indemnizaciones efectivamente cobradas durante el periodo del informe.
+
+Con base en dichos informes, así como de las recomendaciones y las bases y principios de coordinación que emita el Comité Coordinador del Sistema Local Anticorrupción, tanto las dependencias y entidades, así como la Contraloría Municipal, implementarán las acciones pertinentes para mejora de la gestión.
 
 ## TÍTULO NOVENO
 
@@ -2241,9 +2297,11 @@ Los usuarios de los servicios públicos deberán hacer uso racional y adecuado d
 
 En caso de destrucción o daños causados a la infraestructura de los servicios públicos municipales, la autoridad municipal deslindará la responsabilidad e impondrá las sanciones administrativas que correspondan, sin perjuicio de que se denuncie penalmente al infractor ante las autoridades competentes y, en su caso, se efectúe la reparación del daño en los términos de la ley de la materia.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2017)</small>
+
 ###### ARTICULO 135.
 
-El servicio público de agua potable, alcantarillado y saneamiento podrá ser prestado por el Ayuntamiento, preferentemente por medio de un organismo público descentralizado, creado en los términos de esta ley y su reglamento correspondiente.
+El servicio público de agua potable, alcantarillado y saneamiento podrá ser prestado por el Ayuntamiento, preferentemente por medio de un organismo público descentralizado, creado en los términos de esta ley y su reglamento correspondiente; además podrá contar con un órgano interno de control cuando así lo estime conveniente la Contraloría Municipal, mismo que tendrá autonomía técnica y de gestión, la fiscalización de todos los ingresos y egresos, así como las facultades establecidas en la Constitución y demás leyes aplicables.
 
 ###### ARTICULO 136.
 
@@ -2563,11 +2621,11 @@ Los ingresos excedentes derivados de ingresos de libre disposición podrán dest
 
 Las leyes no establecerán exenciones o subsidios a favor de persona o institución alguna respecto de dichas contribuciones. Sólo estarán exentos los bienes de dominio público de la federación, de los estados o los municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 164.
 
-La vigilancia de la hacienda pública municipal corresponderá, en primer término, al Ayuntamiento a través de las comisiones competentes, al Presidente, al Síndico y al Contralor Municipal. El Órgano de Fiscalización Superior del Estado tendrá la intervención que le señalan las leyes.
+La vigilancia de la hacienda pública municipal corresponderá, en primer término, al Ayuntamiento a través de las comisiones competentes, al Presidente, al Síndico y al Contralor Municipal. La Auditoría Superior del Estado tendrá la intervención que le señalan las leyes.
 
 Se concede acción popular para denunciar ante el Congreso del Estado la indebida disposición de fondos de la hacienda pública o de los hechos ilícitos que cometieren los integrantes de los Ayuntamientos en el ejercicio de sus funciones.
 
@@ -3033,7 +3091,9 @@ b) Los elementos, que comprenderán la misión, los objetivos, las metas con bas
 
 El presupuesto de egresos deberá ser aprobado por la mayoría absoluta del Ayuntamiento. En el acta que se levante se asentarán las cifras que por cada programa y ramo se hayan autorizado, y deberá publicarse en la Gaceta Municipal, en el Periódico Oficial y en la página internet del Ayuntamiento a más tardar el 31 de diciembre del año previo al ejercicio fiscal correspondiente.
 
-El Ayuntamiento remitirá una copia autorizada del presupuesto con todos sus anexos al Congreso del Estado, por conducto del Órgano de Fiscalización para su registro, en los primeros quince días del mes de enero del año de su vigencia.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2017)</small>
+
+El Ayuntamiento remitirá una copia autorizada del presupuesto con todos sus anexos al Congreso del Estado, por conducto de la Auditoría Superior del Estado para su registro, en los primeros quince días del mes de enero del año de su vigencia.
 
 > <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
@@ -3249,7 +3309,9 @@ La planeación municipal se desarrollará en base a la metodología de la planea
 
 Los planes municipales deberán contener como mínimo, un análisis de sus fortalezas, oportunidades, debilidades y amenazas; la misión y visión institucional; los objetivos estratégicos alineados a los planes nacional y estatal de desarrollo; las acciones y proyectos; unidades responsables de su ejecución; su cronograma de ejecución, así como los indicadores de impacto o de gestión. Lo anterior, con independencia de los requisitos que se establecen en la ley.
 
-La evaluación del desempeño se realizará por la Dirección de Contraloría y Desarrollo Administrativo, para ello verificará el grado de cumplimiento de objetivos y metas, con base en indicadores estratégicos y de gestión que permitan identificar la eficiencia, economía, eficacia y calidad de la administración pública municipal, así como el impacto social del ejercicio del gasto público y, en su caso, las medidas pertinentes para alcanzar las metas y objetivos programados.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2017)</small>
+
+La evaluación del desempeño se realizará por la Contraloría Municipal, para ello verificará el grado de cumplimiento de objetivos y metas, con base en indicadores estratégicos y de gestión que permitan identificar la eficiencia, economía, eficacia y calidad de la administración pública municipal, así como el impacto social del ejercicio del gasto público y, en su caso, las medidas pertinentes para alcanzar las metas y objetivos programados.
 
 ###### ARTICULO 210.
 
@@ -3565,17 +3627,21 @@ Son servidores públicos municipales, todos los integrantes del Ayuntamiento y d
 
 Dichos servidores públicos serán responsables por el manejo indebido de recursos públicos y la deuda pública.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 15 DE ABRIL DE 2009)</small>
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2017)</small>
+
+Los servidores públicos del Municipio estarán obligados a presentar las declaraciones de situación patrimonial y de intereses, bajo protesta de decir verdad y ante la Contraloría Municipal o su respectivo Órgano interno de control. Asimismo, deberán presentar su declaración fiscal anual, en los términos que disponga la ley de la materia.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 238.
 
-La declaración de situación patrimonial deberá presentarse en los plazos y términos que se establecen en la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit.
+La declaración de situación patrimonial y de intereses deberá presentarse en los plazos y términos que se establecen en la Ley en materia de responsabilidades administrativas.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 15 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 239.
 
-El Contralor Municipal será el responsable del registro, control y custodia de las declaraciones patrimoniales de los servidores públicos obligados.
+El Contralor Municipal será el responsable del registro, control y custodia de las declaraciones patrimoniales y de intereses de los servidores públicos obligados.
 
 ###### ARTICULO 240.
 
@@ -3899,36 +3965,6 @@ VII.- Desahogadas las pruebas, la comisión deberá emitir su dictamen dentro de
 
 ## TRANSITORIOS
 
-PRIMERO. El presente Reglamento entrara en vigor a partir del día siguiente a su publicación en el Periódico Oficial del Estado de Oaxaca.
-
-SEGUNDO. Se derogan todas las disposiciones que se opongan al Presente Reglamento en materia de publicaciones.
-
-C. FELIPE FILOGONIO MONTES ROJAS.
-
-PRESIDENTE MUNICIPAL
-
-C. ARTEMIA TRUJILLO ORTIZ
-
-SINDICO MUNICIPAL
-
-C. FELIX RUIZ CRUZ
-
-REGIDOR DE HACIENDA
-
-C. ADRIÁN PÉREZ ROJAS
-
-REGIDOR DE ECOLOGÍA
-
-C. GLORIA BETANZOS GUTIÉRREZ
-
-REGIDORA DE PANTEÓN.
-
-C. JHOSELIN ESPINOZA CRUZ
-
-SECRETARIA MUNICIPAL
-
-En términos del artículo 92 Fracción IV de la Ley Orgánica Municipal para el Estado de Oaxaca.
-
 ###### ARTICULO PRIMERO.
 
 La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
@@ -4005,7 +4041,7 @@ El Secretario General de Gobierno
 
 Lic. Adán Meza Barajas
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 4 DE JUNIO DE 2003
 
@@ -4150,3 +4186,19 @@ P.O. 8 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 66 DE LA LEY MUNICIPAL PARA EL ESTADO DE NAYARIT".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 27 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY MUNICIPAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE COMBATE A LA CORRUPCIÓN."]
+
+Primero. El presente Decreto entrará en vigor el dieciocho de julio del dos mil diecisiete, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo. A partir de la entrada en vigor del presente Decreto, cada titular de la Contraloría Municipal, según estime conveniente, iniciará el procedimiento respectivo para la designación de los titulares de los Órganos Internos de Control y ejercerán sus atribuciones en los términos de este Decreto.
+
+Tercero. Las entidades de la administración municipal proporcionarán a los órganos internos de control los espacios físicos, los recursos humanos, materiales y presupuestarios que requieran a la entrada en vigor del presente Decreto.
+
+Cuarto. El titular de la Contraloría de cada Municipio, será ratificados (sic) por mayoría absoluta del Ayuntamiento a la entrada en vigor del presente ordenamiento.
+
+Quinto. En tanto se realizan las modificaciones conducentes a los formatos, papelería, sellos y demás documentación que obre en las Direcciones de Contraloría y Desarrollo Administrativo, se seguirá utilizando hasta que dichas Direcciones realicen las adecuaciones conducentes sin exceder 180 días naturales a la entrada del presente Decreto.
+
+Sexto. Las referencias establecidas en otras leyes y disposiciones reglamentarias y administrativas, a la Dirección de Contraloría y Desarrollo Administrativo, se entenderán por realizadas a la Contraloría Municipal y a su titular.
