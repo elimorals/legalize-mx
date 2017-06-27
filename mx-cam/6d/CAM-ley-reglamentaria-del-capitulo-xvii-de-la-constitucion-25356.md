@@ -4,7 +4,7 @@ identifier: "CAM-ley-reglamentaria-del-capitulo-xvii-de-la-constitucion-25356"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-03"
-last_updated: "2012-11-15"
+last_updated: "2017-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY REGLAMENTARIA DEL CAPITULO XVII DE LA CONSTITUCION POLITICA DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DEL DECRETO NÚMERO 162 POR EL QUE SE REFORMAN, SE ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 27 DE JUNIO DE 2017, "CON LA ENTRADA EN VIGOR DE LA LEGISLACIÓN GENERAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS SE DEROGA PARCIALMENTE LA LEY REGLAMENTARIA DEL CAPÍTULO XVII DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE, QUEDANDO VIGENTES SUS DISPOSICIONES QUE RIGEN LO RELATIVO AL JUICIO POLÍTICO, HASTA EN TANTO EL CONGRESO DEL ESTADO EXPIDA LA NUEVA LEY DE LA MATERIA, ASÍ COMO PARA TODOS LOS ASUNTOS Y PROCEDIMIENTOS ADMINISTRATIVOS EN TRÁMITE ANTE LAS DIVERSAS INSTANCIAS COMPETENTES"]</small>
+
 LEY REGLAMENTARIA DEL CAPÍTULO XVII DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el miércoles 3 de julio de 2002.
 
@@ -796,3 +798,47 @@ Tercero.- Los servidores públicos del Poder Legislativo que antes de la entrada
 P.O. 15 DE NOVIEMBRE DE 2012.
 
 ÚNICO.- El presente decreto entrará en vigor a los tres días siguientes de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 162 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 54 FRACCIONES XXI, XXII Y XXXVIII; LA FRACCIÓN III DEL ARTÍCULO 71; 78; 80; 83; 84; 87; 88; 89; 96; 98; 99; 108 BIS; SE ADICIONAN LOS PÁRRAFOS DUODÉCIMO, DÉCIMO TERCERO Y DÉCIMO CUARTO A LA FRACCIÓN VII DEL ARTÍCULO 24; LAS FRACCIONES XXXIX, XL, XLI Y XLII AL ARTÍCULO 54; 78 BIS; 89 BIS; UN CAPÍTULO XVII BIS DENOMINADO “DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE CAMPECHE” CON EL ARTÍCULO 101 TER; UN CAPÍTULO XVII TER DENOMINADO “DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE CAMPECHE” CON EL ARTÍCULO 101 QUÁTER; UN CAPÍTULO XVII QUÁTER DENOMINADO DE LA FISCALÍA ESPECIALIZADA EN COMBATE A LA CORRUPCIÓN DEL ESTADO DE CAMPECHE CON EL ARTÍCULO 101 QUINQUIES Y, SE DEROGAN LOS ARTÍCULOS 81 Y 101, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, atendiendo a las disposiciones previstas en los transitorios siguientes.
+
+Segundo. El Congreso del Estado expedirá la legislación y realizará las adecuaciones normativas necesarias dentro de los plazos dispuestos en el artículo transitorio segundo del decreto por el que se expidió la Ley General del Sistema Nacional Anticorrupción; la Ley General de Responsabilidades Administrativas y la Ley Orgánica del Tribunal Federal de Justicia Administrativa, publicado en el Diario Oficial de la Federación el 18 de julio de 2016.
+
+Tercero. Se autoriza a la Secretaría de Finanzas del Gobierno del Estado a realizar las asignaciones o reasignaciones presupuestales necesarias para el cumplimiento oportuno de todos los efectos que se derivan del presente decreto.
+
+Cuarto. Para garantizar el escalonamiento en la renovación de los integrantes del Consejo de la Judicatura, el nombramiento de quienes ocupen los cargos de Consejeros deberá realizarse siguiendo el procedimiento establecido en el artículo 78 bis de este decreto y conforme a lo siguiente:
+
+I. La designación de los Consejeros deberá hacerse dentro de los plazos legales para su oportuna entrada en funciones.
+
+II. Por única ocasión, en razón de que se nombrarán a cuatro Consejeros de la Judicatura del Tribunal Superior de Justicia, el Congreso del Estado establecerá períodos diferentes para cada uno de ellos, de la siguiente forma:
+
+a) Los dos Consejeros designados por el Poder Judicial del Estado durarán cuatro años.
+
+b) El Consejero designado por el Gobernador del Estado y el Consejero designado por el Congreso del Estado durarán cinco años.
+
+Cuando se realice la designación de los Consejeros se les informará el período de duración del cargo, con fundamento en lo establecido en el presente decreto.
+
+Quinto. Con la entrada en vigor de la legislación general en materia de responsabilidades administrativas se deroga parcialmente la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche, quedando vigentes sus disposiciones que rigen lo relativo al juicio político, hasta en tanto el Congreso del Estado expida la nueva ley de la materia, así como para todos los asuntos y procedimientos administrativos en trámite ante las diversas instancias competentes.
+
+Sexto. Al iniciar sus funciones el Tribunal de Justicia Administrativa del Estado no serán transferidos los expedientes y documentación de los asuntos que se encuentren en curso en el Tribunal Superior de Justicia del Estado, continuando éste los trámites de los referidos expedientes en los términos de la legislación vigente en el momento de su inicio hasta su conclusión.
+
+Séptimo. Conforme a lo dispuesto en el artículo 78 del presente decreto respecto a la duración en el cargo de los Magistrados se establece lo siguiente:
+
+I.- Los Magistrados que se encuentren en el ejercicio de su encargo, que no hayan cumplido 6 años en el ejercicio de éste, se entenderán como ratificados conforme a lo dispuesto en el artículo 116 de la Constitución Política de los Estados Unidos Mexicanos e iniciarán un nuevo periodo con una duración de 15 años a partir de la entrada en vigor del presente decreto.
+
+II.- Los Magistrados que tengan más de 6 años, pero menos de 15 años en el ejercicio de sus cargos, permanecerán en éstos 10 años más a partir de la entrada en vigor del presente decreto, a cuyo término serán sustituidos y tendrán derecho a un haber de retiro que durará 2 años a partir del momento que dejen de fungir como Magistrados, de conformidad con la suficiencia presupuestal.
+
+III.- Los Magistrados que tengan 15 años o más en el ejercicio de su encargo serán sustituidos de manera escalonada dependiendo del tiempo que ya tengan en el cumplimiento de su encargo; en el entendido de que se sustituirá primero al que más antigüedad tenga a la entrada en vigor del presente decreto. Asimismo, se les establecerá un haber de retiro que durará 2 años a partir del momento en que dejen de fungir como Magistrados, de conformidad con la suficiencia presupuestal y demás requisitos que señale la Ley Orgánica del Poder Judicial del Estado. La sustitución de todos los Magistrados que estén en este supuesto no podrá exceder de un plazo de 150 días naturales contados a partir de la entrada en vigor de este decreto.
+
+Octavo. Conforme a lo dispuesto en el artículo 84 del presente decreto respecto a la duración en el cargo de los Jueces de Primera Instancia se establece lo siguiente:
+
+I.- Los Jueces de primera instancia que se encuentren en el ejercicio de su encargo que no hayan cumplido 6 años en el ejercicio de éste, iniciarán un nuevo periodo con una duración de 15 años a partir de la entrada en vigor del presente decreto. Al cumplir los 15 años de ejercicio a que se refiere la parte final del párrafo anterior serán sustituidos.
+
+II.- Los Jueces de primera instancia que tengan más de 6 años en el ejercicio de sus cargos permanecerán en éstos 10 años más a partir de la entrada en vigor del presente decreto, a cuyo término serán sustituidos de manera escalonada dependiendo del tiempo que ya tengan en el cumplimiento de su encargo, en el entendido de que se sustituirá primero al que más antigüedad tenga a la entrada en vigor del presente decreto. Asimismo, se les establecerá un apoyo por retiro a partir del momento en que dejen de fungir como Jueces de conformidad con la suficiencia presupuestal y demás requisitos que señale la Ley Orgánica del Poder Judicial del Estado.
+
+Noveno. En tanto entran en vigor las Leyes que derivan del presente decreto se seguirán aplicando las Leyes vigentes respectivas.
+
+Décimo. Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, que se opongan al contenido del presente decreto.
