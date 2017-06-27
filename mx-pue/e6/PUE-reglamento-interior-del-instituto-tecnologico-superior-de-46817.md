@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-instituto-tecnologico-superior-de-46817
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-10-24"
-last_updated: "2005-10-24"
+last_updated: "2017-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO TECNOLOGICO SUPERIOR DE HUAUCHINANGO
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DEL REGLAMENTO INTERIOR DEL INSTITUTO TECNOLÓGICO SUPERIOR DE HUAUCHINANGO, PUBLICADO EN EL P.O. DE 27 DE JUNIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO TECNOLÓGICO SUPERIOR DE HUAUCHINANGO, PUBLICADO EN EL P.O. DE 27 DE JUNIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-REGLAMENTO INTERIOR DEL INSTITUTO TECNOLOGICO SUPERIOR DE HUAUCHINANGO
+REGLAMENTO INTERIOR DEL INSTITUTO TECNOLÓGICO SUPERIOR DE HUAUCHINANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Octava Sección del Periódico Oficial del Estado de Puebla, el lunes 24 de octubre de 2005.
 
@@ -33,7 +33,9 @@ ACUERDO de la Junta Directiva del Instituto Tecnológico Superior de Huauchinang
 
 Al margen un logotipo del Instituto que dice: ITSH.- Instituto Tecnológico Superior de Huauchinango.
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Que en mérito de lo expuesto y en ejercicio de las facultades que a este Órgano Colegiado le confieren los artículos 45 de la Ley Orgánica de la Administración Pública del Estado; 12, 52 fracciones VIII y IX de la Ley de Entidades Paraestatales del Estado de Puebla, y 9 fracciones I y III del Decreto que crea el Organismo Público Descentralizado, denominado Instituto Tecnológico Superior de Huauchinango, tiene a bien aprobar y expedir el siguiente:
 
@@ -438,3 +440,15 @@ TERCERO.- Las menciones o disposiciones contenidas en cualquier acuerdo aprobado
 Dado en el seno de la Honorable Junta Directiva del Organismo Público Descentralizado denominado "Instituto Tecnológico Superior de Huauchinango", a los veintiún días del mes de septiembre de dos mil cinco.
 
 Integrantes de la Honorable Junta Directiva.- Presidente Suplente Representante del Gobierno del Estado.- LICENCIADO MIGUEL CHOY LÓPEZ.- Rúbrica.- Vocal Suplente Representante del Gobierno del Estado.- LICENCIADO RODOLFO FLORES ROJAS.- Rúbrica.- Vocal Suplente Representante del Gobierno Federal.- INGENIERO FERNANDO VELÁZQUEZ VALDÉS.- Rúbrica.- Vocal Suplente Representante del Gobierno Federal.- MAESTRO ERASMO NAVA ESPÍRITU.- Rúbrica.- Vocal Suplente Representante del Gobierno Municipal de Huauchinango, Pue.- CIUDADANO PEDRO ALBERTO RODRÍGUEZ AVELLANEDA.- Rúbrica.- Secretario de Acuerdos.- MAESTRO FRANCISCO JAVIER CONTLA MUNGUÍA.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL EJECUTIVO DEL ESTADO POR EL QUE SE EXPIDE EL REGLAMENTO INTERIOR DEL INSTITUTO TECNOLÓGICO SUPERIOR DE HUAUCHINANGO".]
+
+PRIMERO. El presente Reglamento entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior del Instituto Tecnológico Superior de Huauchinango, publicado en el Periódico Oficial del Estado con fecha veinticuatro de octubre de dos mil cinco.
+
+TERCERO. Se dejan sin efecto las disposiciones de la misma naturaleza que se opongan al presente Reglamento.
