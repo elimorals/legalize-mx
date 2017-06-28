@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-elecciones-y-participacion-ciudadana-del-estado-12195
 country: "mx"
 rank: "codigo"
 publication_date: "2017-06-14"
-last_updated: "2017-06-14"
+last_updated: "2017-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHP"
 ---
 # CODIGO DE ELECCIONES Y PARTICIPACION CIUDADANA DEL ESTADO DE CHIAPAS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 28 DE JUNIO DE 2017 EN LA 6A. Y 7A. SECCIONES RESPECTIVAMENTE, DEL P.O. DEL ESTADO DE CHIAPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA DEL ESTADO DE CHIAPAS
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 28 DE JUNIO DE 2017.]</small>
 
 Código publicado en la Tercera Sección al Número 299 del Periódico Oficial del Estado de Chiapas, el miércoles 14 de junio de 2017.
 
@@ -1397,7 +1397,9 @@ g. En el convenio de coalición se deberá manifestar que los partidos político
 
 ###### Artículo 61.
 
-1. Los partidos políticos podrán postular candidatos comunes para las elecciones de diputados por el principio de mayoría relativa o integrantes de ayuntamientos, bajo las siguientes bases:
+> <small>(F. DE E., P.O. 28 DE JUNIO DE 2017)</small>
+
+1. Los partidos políticos podrán postular candidatos comunes para las elecciones de Gobernador, diputados por el principio de mayoría relativa o integrantes de ayuntamientos, bajo las siguientes bases:
 
 I. Ningún partido político podrá participar en más de un acuerdo para registrar candidaturas comunes para la misma elección. Dichas candidaturas, no podrán ser diferentes, en lo que hace a los partidos que las integran;
 
@@ -4351,7 +4353,9 @@ b) Los partidos políticos deberán solicitar el uso de los locales con suficien
 
 2. Para la elección de Gobernador se observara lo siguiente:
 
-I. El tope máximo de gastos de campaña será equivalente al cuarenta por ciento del financiamiento público establecido para todos los partidos políticos en el último año de elección de gobernador.
+> <small>(F. DE E., P.O. 28 DE JUNIO DE 2017)</small>
+
+I. El tope máximo de gastos de campaña será equivalente al financiamiento público otorgado para todos los partidos en el año de la elección de gobernador.
 
 3. Para las campañas electorales de diputados y de miembros de los ayuntamientos tendrán un tope de gastos que fijará el Instituto para cada campaña, en razón a los estudios que el propio Instituto realice, por sí o por terceras personas, así como demás información que resulte necesaria e idónea para tales fines.
 
@@ -7845,8 +7849,8 @@ El Contralor General que se encuentre en funciones a partir de la vigencia del p
 
 El Ejecutivo del Estado, dispondrá se publique, circule y se dé el debido cumplimiento al presente Decreto.
 
-Dado en el Salón de Sesiones "Sergio Armando Valls Hernández" del Honorable Congreso del Estado Libre y Soberano de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas a los 18 días del mes de Mayo del año dos mil Diecisiete. D. P. C. Eduardo Ramirez Aguilar. D. S. C. Silvia Lilian Garcés Quiroz. Rúbricas.
+Dado en el Salón de Sesiones “Sergio Armando Valls Hernández” del Honorable Congreso del Estado Libre y Soberano de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas a los 18 días del mes de Mayo del año dos mil Diecisiete. D. P. C. Eduardo Ramirez Aguilar. D. S. C. Silvia Lilian Garcés Quiroz. Rúbricas.
 
 De conformidad con la fracción I, del artículo 59 de la Constitución Política local y para su observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo del Estado, en la ciudad de Tuxtla Gutiérrez, Chiapas, a los 12 días del mes de junio del año dos mil diecisiete.
 
-Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Juan Carlos Gómez Aranda, Secretario General de Gobierno.- Rúbricas.
+Manuel Velasco Coello, Gobernador del Estado de Chiapas.– Juan Carlos Gómez Aranda, Secretario General de Gobierno.- Rúbricas.
