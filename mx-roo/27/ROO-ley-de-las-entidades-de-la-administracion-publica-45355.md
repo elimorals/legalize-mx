@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-las-entidades-de-la-administracion-publica-45355"
 country: "mx"
 rank: "ley"
 publication_date: "2003-01-22"
-last_updated: "2013-08-19"
+last_updated: "2017-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LAS ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2017.
 
 Ley publicada en el Número 4 Extraordinario Bis del Periódico Oficial del Estado de Quintana Roo, el 22 de enero de 2003.
 
@@ -261,7 +261,9 @@ El director general será designado por el Gobernador del Estado o, a indicació
 
 El nombramiento del director general deberá recaer en personas que reúnan los siguientes requisitos:
 
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos.
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2017)</small>
+
+I. Ser ciudadana o ciudadano mexicano, con calidad de quintanarroense de conformidad con el artículo 37 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, en pleno goce de sus derechos políticos.
 
 II. Haber desempeñado cargos de alto nivel decisorio, cuyo ejercicio requiera conocimientos y experiencia en materia administrativa; y
 
@@ -738,3 +740,11 @@ Vigésimo Cuarto. Dentro de los tres días siguientes a la entrada en vigor del 
 Vigésimo Quinto. Dentro de los tres días siguientes a la entrada en vigor del presente Decreto, la Junta Directiva de la Universidad de Quintana Roo tomará las providencias necesarias para la debida incorporación de los representantes de la Oficialía Mayor y de la Secretaría de Planeación y Finanzas.
 
 Vigésimo Sexto. Se derogan todas las disposiciones de igual o menor jerarquía, que se opongan al presente Decreto.
+
+P.O. 28 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 059 POR EL QUE SE REFORMA EL ARTÍCULO 28 DE LA LEY DE LAS ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUINTANA ROO”]
+
+PRIMERO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones jurídicas que se contrapongan al presente Decreto.
