@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-la-juventud-del-estado-libre-y-soberano-de-quintana-9394
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-09"
-last_updated: "2015-10-30"
+last_updated: "2017-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93948&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LA JUVENTUD DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2017.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el 9 de abril de 2013.
 
@@ -41,43 +41,57 @@ LEY DE LA JUVENTUD DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
 ### CAPÍTULO ÚNICO. DEL OBJETO Y ÁMBITO DE APLICACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2017)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de esta ley son de orden público e interés social y tiene por objeto establecer el marco normativo y los lineamientos que contribuyan al desarrollo integral de los jóvenes del Estado de Quintana Roo, garantizando el respeto de sus derechos fundamentales.
+Las disposiciones de esta ley son de orden público e interés social y tiene por objeto establecer el marco normativo y los lineamientos que contribuyan al desarrollo integral de los jóvenes del Estado de Quintana Roo, a través de las políticas, programas, servicios y acciones, garantizando el respeto de sus derechos fundamentales.
 
 Asimismo, la presente ley establece principios rectores, cuya finalidad es la de proteger los derechos de la juventud e inspirar a la sociedad en general a propiciar la participación de todos los sectores en las políticas públicas del Estado en la materia.
 
-Su aplicación y ejecución corresponde en el ámbito de su competencia al Poder Ejecutivo del Estado y a los Ayuntamientos del Estado.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
+
+Su aplicación y ejecución corresponde al Instituto Quintanarroense de la Juventud en el ámbito de competencia del Poder Ejecutivo del Estado y a los Ayuntamientos del Estado.
 
 ###### Artículo 2.
 
 Para efectos de esta Ley, se entiende por:
 
-I.- Ayuntamientos: Los órganos colegiados a los que les corresponde la representación política y jurídica del municipio, la administración de los asuntos municipales y el cuidado de los intereses de la comunidad dentro de su circunscripción territorial;
+I. Ayuntamientos: Los órganos colegiados a los que les corresponde la representación política y jurídica del municipio, la administración de los asuntos municipales y el cuidado de los intereses de la comunidad dentro de su circunscripción territorial;
 
-II.- COJUDEQ: La Comisión para la Juventud y el Deporte de Quintana Roo;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2017)</small>
 
-III.- Congreso Juvenil: al Congreso Juvenil del Estado de Quintana Roo;
+II. Congreso Juvenil: al Congreso Juvenil del Estado de Quintana Roo;
 
-IV.- Comisión: La Comisión de Desarrollo Juvenil con Igualdad de Oportunidades del Congreso del Estado;
+III. Comisión: La Comisión de Desarrollo Juvenil con Igualdad de Oportunidades del Congreso del Estado;
 
-V.- Consejo: El Consejo Estatal de la Juventud;
+IV. Consejo: El Consejo Estatal de la Juventud;
 
-VI.- Consejo Municipal: Los Consejos Municipales que se establezcan en los Ayuntamientos del Estado;
+V. Consejo Municipal: Los Consejos Municipales que se establezcan en los Ayuntamientos del Estado.
 
-VII.- Dependencias: Las dependencias de la Administración Pública Estatal Centralizada, establecidas en el artículo 19 de la Ley Orgánica de la Administración Pública del Estado de Quintana Roo;
+VI. Dependencias: Las dependencias de la Administración Pública Estatal Centralizada, establecidas en el artículo 19 de la Ley Orgánica de la Administración Pública del Estado de Quintana Roo;
 
-VIII.- Estado: al Estado Libre y Soberano de Quintana Roo;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2017)</small>
 
-IX.- Jóvenes: Son todas aquellas personas cuya edad comprende el rango de 12 a 29 años, identificado como un actor social estratégico para la transformación y mejoramiento de nuestro Estado;
+VII. Estado: El Estado Libre y Soberano de Quintana Roo;
 
-X.- Ley: Ley de la Juventud del Estado Libre y Soberano de Quintana Roo;
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2017)</small>
 
-XI.- Municipios: Los municipios del Estado de Quintana Roo;
+VIII. Instituto: El Instituto Quintanarroense de la Juventud;
 
-XII.- Poder Ejecutivo: Al Titular del Poder Ejecutivo del Estado de Quintana Roo; y
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2017)</small>
 
-XIII.- Programa: El Programa Estatal de Juventud;
+IX. Jóvenes: Son todas aquellas personas cuya edad comprende el rango de 12 a 29 años, identificadas como un actor social estratégico para el desarrollo y crecimiento de nuestro Estado; considerándose de manera especial para la protección en términos de la ley en la materia a los adolescentes, comprendidos éstos a los que se encuentren en un rango de edad de entre 12 años cumplidos y menos de 18 años de edad.
+
+X. Ley: Ley de la Juventud del Estado Libre y Soberano de Quintana Roo;
+
+XI. Municipios: Los municipios del Estado de Quintana Roo;
+
+XII. Poder Ejecutivo: Al Titular del Poder Ejecutivo del Estado de Quintana Roo; y
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2017)</small>
+
+XIII. Programa: El Programa Institucional de Juventud;
 
 ###### Artículo 3.
 
@@ -267,9 +281,11 @@ Los jóvenes del Estado, tienen derecho a contar con un espacio físico en donde
 
 En la aplicación y operación de programas y servicios de atención a la juventud, se buscará en todo momento la cooperación y coordinación entre las diversas instancias de gobierno.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
+
 ###### Artículo 21.
 
-La COJUDEQ fungirá como gestor, facilitador y difusor de los programas y servicios para los jóvenes en coordinación con las diversas instancias de gobierno.
+El Instituto fungirá como gestor, facilitador y difusor de los programas y servicios para los jóvenes en coordinación con las diversas instancias de gobierno.
 
 #### SECCIÓN IX. DEL DERECHO A LA LIBERTAD DE EXPRESIÓN
 
@@ -291,11 +307,15 @@ La única limitación a estos derechos, será en casos de ataque a la moral, afe
 
 Los jóvenes del Estado tienen derecho a recibir, analizar, sistematizar y difundir información objetiva y oportuna que les sea de importancia para sus proyectos de vida, sus intereses colectivos y para el bien del Estado, misma que podrán solicitar en las diferentes Instituciones, Dependencias y Organismos Públicos, en las formas que establezca la legislación aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2017)</small>
+
 ###### Artículo 25.
 
-El Poder Ejecutivo, a través de la COJUDEQ, creará, promoverá y apoyará un Sistema de Información de la Juventud, que permita a los jóvenes del Estado obtener, procesar, intercambiar y difundir información relacionada a temas de su interés.
+El Poder Ejecutivo, a través del Instituto, creará, promoverá y apoyará un Sistema de Información de la Juventud, que permita a los jóvenes del Estado obtener, procesar, intercambiar y difundir información relacionada a temas de su interés.
 
-La COJUDEQ, será la encargada de administrar el Sistema de Información de la Juventud. Dicho sistema, deberá ser actualizado en forma permanente y deberá publicarse en el portal electrónico oficial de la COJUDEQ, así como a través de los medios y tecnologías de la información y comunicación disponibles.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
+
+El Instituto será la instancia encargada de administrar el Sistema de Información de la Juventud. Dicho sistema, deberá ser actualizado en forma permanente y deberá publicarse en el portal electrónico oficial del Instituto, así como a través de los medios y tecnologías de la información y comunicación disponibles.
 
 Los Ayuntamientos, en su caso, a través de sus Unidades Administrativas en materia de Juventud, coadyuvarán a la integración y actualización del Sistema de Información de la Juventud del Estado.
 
@@ -307,9 +327,11 @@ El Gobierno del Estado promoverá con las estaciones radiofónicas y televisivas
 
 #### SECCIÓN XI. DEL DERECHO DE ORGANIZACIÓN
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
+
 ###### Artículo 26.
 
-Los jóvenes del Estado tienen derecho a formar organizaciones juveniles que busquen hacer realidad sus demandas, aspiraciones y proyectos colectivos, contando con el reconocimiento y apoyo del Estado y los Municipios, y de otros actores sociales e institucionales.
+Los jóvenes del Estado tienen derecho a formar organizaciones juveniles, que busquen hacer realidad sus demandas, aspiraciones y proyectos colectivos, contando con el reconocimiento y apoyo del Estado y los Municipios, y de otros actores sociales e institucionales, en los términos del artículo 8º de la Ley para el Fomento a las Actividades Realizadas por las Organizaciones Civiles del Estado de Quintana Roo.
 
 #### SECCIÓN XII. DE LOS DERECHOS DE LOS JÓVENES EN ESTADO DE VULNERABILIDAD
 
@@ -319,7 +341,9 @@ Los jóvenes del Estado tienen derecho a formar organizaciones juveniles que bus
 
 Los jóvenes en estado de vulnerabilidad como pobreza, indigencia, situación de calle, analfabetismo, discapacidad, privación de la libertad, exclusión social y étnica, drogadicción, o sean jóvenes embarazadas en desventaja, madres solteras, víctimas del delito, migrantes, enfermos crónicos, entre otros, tiene (sic) derecho a integrarse a la sociedad y a ser sujetos de derechos y oportunidades que les permitan acceder de manera efectiva a servicios y beneficios sociales que mejoren su calidad de vida.
 
-Asimismo, el Poder Ejecutivo y los Ayuntamientos, deberán procurar dar información, orientación y apoyo para la protección de sus derechos y para ser sujetos y beneficiarios de las políticas, programas y acciones de desarrollo social y humano.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
+
+Asimismo, el Instituto y los Ayuntamientos, deberán procurar dar información, orientación y apoyo para la protección de sus derechos y para ser sujetos y beneficiarios de las políticas, programas y acciones de desarrollo social y humano.
 
 ###### Artículo 28.
 
@@ -331,9 +355,9 @@ En ningún caso los jóvenes rehabilitados, podrán ser privados del acceso y di
 
 Las mujeres jóvenes en estado de gravidez gozarán de todos los derechos estipulados en esta ley y otros ordenamientos legales, sin limitación alguna.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
 
-La COJUDEQ, la Secretaría de Salud, el Instituto Quintanarroense de la Mujer y el DIF Estatal y Municipal en coordinación con las distintas dependencias, implementará programas de apoyo y sensibilización que permitan a las y los jóvenes alcanzar la aceptación consciente de su maternidad o paternidad en su caso, para relacionarse adecuadamente con su hijo.
+El Instituto, en coordinación con las distintas dependencias, implementará programas de apoyo y sensibilización que permitan a las jóvenes embarazadas alcanzar la aceptación consciente de su maternidad y relacionarse adecuadamente con su(s) hijo(s).
 
 > <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
@@ -345,7 +369,9 @@ Son derechos de los jóvenes del Estado con discapacidad, los siguientes:
 
 I.- Acceder en igualdad de condiciones a la capacitación laboral y su incorporación a la vida productiva;
 
-II.- Contar con el apoyo de la COJUDEQ y demás instancias estatales y municipales en lo relativo a la garantía, ejercicio y respeto de sus derechos;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2017)</small>
+
+II.- Contar con el apoyo del Instituto y demás instancias estatales y municipales en lo relativo a la garantía, ejercicio y respeto de sus derechos;
 
 > <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
@@ -503,11 +529,17 @@ a) La Secretaría del Trabajo y Previsión Social;
 
 b) La Secretaría de Educación y Cultura;
 
-c) El Instituto Quintanarroense de la Mujer;
+c) (DEROGADO, P.O. 28 DE JUNIO DE 2017)
 
 d) La Secretaría de Salud
 
-e) La COJUDEQ; y
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
+
+e) El Instituto; y
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2017)</small>
+
+f) La Secretaría de Desarrollo Social.
 
 II.- Los Ayuntamientos del Estado.
 
@@ -529,11 +561,11 @@ III.- Procurar la generación y permanencia de los empleos dirigidos a las jóve
 
 IV.- Las demás que contribuyan al su desarrollo armónico e integral de la juventud quintanarroense.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
 
 ###### Artículo 37.
 
-El Poder Ejecutivo, a través de la Secretaría de Educación y Cultura del Estado impulsará y apoyará niveles educativos de calidad tendientes a desarrollar armónicamente todas las facultades del ser humano, el fomento al aprendizaje e impulso a la investigación, motivando a la juventud a generar proyectos para un mejor desarrollo del Estado.
+El Poder Ejecutivo, a través de la Secretaría de Educación del Estado, impulsará y apoyará niveles educativos de calidad tendientes a desarrollar armónicamente todas las facultades del ser humano; apoyará el fomento al aprendizaje e impulso a la investigación para motivar a la juventud a generar proyectos para un mejor desarrollo del Estado; y promoverá a través de las instancias de cultura, su participación en actividades y eventos artísticos y culturales, regionales, nacionales o internacionales.
 
 ###### Artículo 38.
 
@@ -541,23 +573,25 @@ El Poder Ejecutivo, a través de la Secretaría de Salud, procurará el acceso d
 
 La Secretaría de Salud, velará por la plena efectividad del derecho a la salud juvenil, adoptando políticas, programas y campañas de salud orientados a la prevención de enfermedades, combate al consumo de alcohol, tabaco y drogas, salud sexual y reproductiva, planificación familiar, trastornos alimenticios, higiene, salud mental, promoción estilos de vida saludables, así como todo aquello que favorezca el cuidado y salud personal de los jóvenes quintanarroenses.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
-
 ###### Artículo 39.
 
-El Poder Ejecutivo, a través de la Secretaría de Educación y Cultura, promoverá la participación para realización de actividades y eventos artísticos y culturales, regionales, nacionales o internacionales, en los que participen los jóvenes del Estado.
+(DEROGADO, P.O. 28 DE JUNIO DE 2017)
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
 
 ###### Artículo 40.
 
-El Poder Ejecutivo, a través de la COJUDEQ, deberá aprobar, ejecutar y evaluar el Programa Estatal de Juventud estableciendo los objetivos, metas, estrategias, lineamientos y acciones para la difusión, promoción, fomento, investigación, práctica, supervisión y evaluación de las actividades de atención a la juventud.
+El Poder Ejecutivo, a través del Instituto, deberá aprobar, ejecutar y evaluar el Programa Estatal de Juventud estableciendo los objetivos, metas, estrategias, lineamientos y acciones para la difusión, promoción, fomento, investigación, práctica, supervisión y evaluación de las actividades de atención a la juventud.
 
 ###### Artículo 41.
 
 El Poder Ejecutivo a través de las instancias correspondientes, promoverá una cultura que permita la conservación, vigilancia y uso responsable de los recursos naturales, en la que participen los jóvenes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2017)</small>
+
 ###### Artículo 42.
 
-El Poder Ejecutivo a fin de promover la participación social de los jóvenes, como instrumento eficaz en el desarrollo del Estado, proveerá, a través de las instancias correspondientes, las condiciones para generar oportunidades que les permitan su autorrealización, su integración a la sociedad y su participación en la toma de decisiones de interés público.
+El Poder Ejecutivo a fin de promover la participación social de los jóvenes, como instrumento eficaz en el desarrollo del Estado, proveerá, a través del Instituto y de las instancias correspondientes, las condiciones para generar oportunidades que les permitan su autorrealización, su integración a la sociedad y su participación en la toma de decisiones de interés público.
 
 Lo anterior se manifiesta en:
 
@@ -577,9 +611,227 @@ VII.- Participar en forma voluntaria en distintas actividades de índole social,
 
 VIII.- Las demás que contribuyan al desarrollo armónico e integral de la juventud quintanarroense.
 
-### CAPÍTULO III. DE LOS AYUNTAMIENTOS
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE JUNIO DE 2017)</small>
 
-### CAPÍTULO I. DEL CONSEJO ESTATAL DE LA JUVENTUD
+### CAPÍTULO II-BIS. DEL INSTITUTO QUINTANARROENSE DE LA JUVENTUD
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 28 DE JUNIO DE 2017)</small>
+
+#### SECCIÓN PRIMERA. DE LA NATURALEZA Y OBJETO DEL INSTITUTO
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2017)</small>
+
+###### Artículo 42-A.
+
+Se crea el instituto Quintanarroense de la Juventud, como Organismo Público Descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Desarrollo Social, dotado de autonomía técnica y de gestión para el cumplimiento de su objeto y atribuciones.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2017)</small>
+
+###### Artículo 42-B.
+
+El Instituto tendrá por objeto y fines el de formular e instrumentar la política estatal de la juventud, acorde con los objetivos, estrategias y líneas de acción contenidos en el Plan Estatal de Desarrollo, así como vigilar el Cumplimiento de la presente Ley.
+
+El Instituto tendrá su sede en la ciudad de Chetumal, Quintana Roo, y podrá contar con las unidades administrativas y de representación de acuerdo con su capacidad presupuestal, las cuales se podrán crear o establecer a través de los convenios de coordinación y colaboración que se suscriban con los Ayuntamientos del Estado de Quintana Roo, así como demás organismos públicos, privados y sociales.
+
+Para el cumplimiento de su objeto y el ejercicio de las atribuciones, el Instituto Quintanarroense de la Juventud, en todo momento estará sujeto a las normas, lineamientos, directrices y mecanismos de coordinación, control y evaluación que determine la Secretaría de Desarrollo Social, en su calidad de coordinadora de sector del mismo.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 28 DE JUNIO DE 2017)</small>
+
+#### SECCIÓN SEGUNDA. DE LOS ÓRGANOS DE GOBIERNO
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2017)</small>
+
+###### Artículo 42-C.
+
+Para el cumplimiento de su objeto y el ejercicio de sus atribuciones, el instituto contará con los siguientes órganos de gobierno:
+
+I. La Junta Directiva; y
+
+II. La Dirección General.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2017)</small>
+
+###### Artículo 42-D.
+
+La Junta Directiva es el órgano máximo de gobierno del Instituto y estará integrada por:
+
+I. El Gobernador del Estado, quien ocupará la Presidencia;
+
+II. El Titular de la Secretaría de Desarrollo Social, quien fungirá como Vicepresidente;
+
+III. El Titular de la Secretaría de Finanzas y Planeación, Vocal;
+
+IV. El titular de la Secretaría de Educación, Vocal;
+
+V. El Titular de la Secretaría de Salud, Vocal;
+
+VI. El Titular de la Secretaría del Trabajo y Previsión Social, Vocal;
+
+VII. El Titular de la Secretaría de Desarrollo Económico, Vocal; y
+
+VIII. El Titular de la Oficialía Mayor, Vocal.
+
+El órgano de gobierno contará con su Secretario Técnico con voz pero sin voto y fungirá como tal, el Titular del Instituto Quintanarroense de la Juventud.
+
+Por cada uno de los miembros propietarios se nombrará un suplente, quien tendrá las mismas atribuciones de aquél. La designación y, en su caso, sustitución de los suplentes, deberá hacerse por escrito por parte del integrante propietario que dirigirá al Presidente. Las ausencias del Presidente serán suplidas por el Vicepresidente.
+
+Podrán integrarse a la Junta Directiva, con carácter de invitados y solo con derecho a voz, los servidores públicos de la Administración Pública Federal, Estatal y Municipal que tengan a su cargo acciones relacionadas con el objeto del Instituto.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2017)</small>
+
+###### Artículo 42-E.
+
+La Junta Directiva tendrá las siguientes facultades y obligaciones:
+
+I. Establecer en congruencia con el Plan Estatal de Desarrollo, las políticas generales y definir las prioridades a las que deberá sujetarse el Instituto para el cumplimiento de su objeto;
+
+II. Aprobar el Programa Institucional de Juventud en coordinación con la Secretaria de Finanzas y Planeación, los programa (sic) de acción, así como el Programa Operativo Anual del Instituto, su presupuesto de ingresos y egresos y sus modificaciones en los términos de la legislación aplicable;
+
+III. Conocer y aprobar el cumplimiento del Programa Institucional, de los programas de acción y del Programa Operativo Anual en correlación con el Presupuesto de Ingresos y ejercicio del Presupuesto de Egresos;
+
+IV. Aprobar los convenios de cooperación que celebre el organismo con instituciones extranjeras;
+
+V. Aprobar la estructura básica del Instituto y las modificaciones que procedan a la misma;
+
+VI. Aprobar el Reglamento Interior del Instituto, así como las disposiciones reglamentarias que rijan la organización, funcionamiento, control y evaluación del Instituto, así como sus modificaciones;
+
+VII. Aprobar las disposiciones jurídico-administrativas y los mecanismos orientados a mejorar la organización y funcionamiento, en su caso;
+
+VIII. Conocer y resolver los asuntos de su competencia de conformidad con la presente Ley, el Reglamento Interior y demás disposiciones legales aplicables;
+
+IX. Analizar y en su caso, aprobar los informes trimestrales y anual que rinda el Director General sobre el desempeño del Instituto, con la intervención que corresponda al Comisario;
+
+X. Aprobar y el (sic) modificar el proyecto de los derechos por los servicios que preste el Instituto a fin de incorporarlos al presupuesto de ingresos del Organismo, con excepción de aquellos que determine el Ejecutivo del Estado;
+
+XI. Aprobar la propuesta del Director General para la creación de unidades administrativas en los municipios, zonas o regiones de la entidad, para apoyar la programación estratégica y la supervisión de la marcha normal del Instituto, atender los problemas de administración y organización, así como para el cumplimiento de sus fines y que permitan elevar la productividad y eficiencia; y
+
+XII. Las demás que le confieran su órgano de gobierno u otras disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2017)</small>
+
+###### Artículo 42-F.
+
+El Director General será designado y removido por el Gobernador del Estado, y deberá cumplir con los requisitos previstos en el artículo 28 de la Ley de Entidades de la Administración Pública del Estado de Quintana Roo, con las salvedades siguientes:
+
+I. Ser ciudadano mexicano, en pleno goce de sus derechos;
+
+II. Haber desempeñado preferentemente cargos de alto nivel decisorio en actividades de servicio público, sociales o académicas, cuyo ejercicio requiera conocimiento y experiencia en materia administrativa relacionadas con el objeto de esta Ley;
+
+III. Tener como máximo 29 años de edad, a la fecha de su nombramiento;
+
+IV. Tener un modo honesto de vivir y de reconocida probidad;
+
+V. No haber sido condenado por delito doloso, ni estar sujeto a procedimiento administrativo de responsabilidad de servidores públicos o haber sido sancionado administrativamente en funciones públicas; y
+
+VI. Los demás que establezcan otras disposiciones legales que le sean aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2017)</small>
+
+###### Artículo 42-G.
+
+El Director General tendrá las siguientes facultades y obligaciones:
+
+I. Representar legalmente al Instituto;
+
+II. Establecer, programar, dirigir, controlar y evaluar los programas, proyectos, servicios y actividades correspondientes a los bienes, servicios y apoyos que el Estado provee a su juventud a través del Instituto;
+
+III. Conducir la política de atención a la juventud mediante la formulación de programas, en beneficio de los jóvenes, procurando que los mismos los mismos (sic) reconozcan e incentiven su naturaleza y capacidades para que asuman un papel estratégico en el desarrollo del Estado;
+
+IV. Programar y dirigir los programas de Atención a la Juventud aplicándolos en todos los municipios del Estado, creando los mecanismos de coordinación y concertación que garanticen la adecuada atención a las demandas y características de la Juventud en las diferentes localidades;
+
+V. Ejecutar los programas por convenio que celebre el Instituto con otras instancias de los sectores público, social y privado dentro y fuera de la entidad, para beneficio de los jóvenes quintanarroenses;
+
+VI. Elaborar, proponer y gestionar la celebración de convenios de colaboración entre el Instituto y las instancias municipales de juventud, así como con instituciones públicas, privadas y sociales, a fin de generar una oferta de empleo atractiva y conveniente a las necesidades y posibilidades de los jóvenes del Estado;
+
+VII. Coordinar la difusión de los programas del Instituto a través de los medios institucionales y las distintas instancias de servicios que tengan contacto directo con la población destinataria;
+
+VIII. Proponer la celebración de convenios destinados a promover la incorporación de los jóvenes a los sectores productivos de la entidad;
+
+IX. Dirigir los programas institucionales destinados a crear espacios integrales de convivencia juvenil y de servicios diversos, así como información, orientación y demás apoyos útiles para su formación y en las diversas áreas que se vinculan con sus preocupaciones, necesidades e intereses;
+
+X. Dirigir y evaluar estudios dirigidos a los jóvenes para detectar sus necesidades, preferencias, carencias y problemas, y adecuar, en consecuencia, la orientación de los programas institucionales que correspondan;
+
+XI. Organizar, coordinar y controlar el sistema de estadísticas en materia de juventud y de los resultados de los programas institucionales en el entorno del desarrollo de la población joven del Estado;
+
+XII. Organizar los informes, dictámenes y estudios que sirvan para brindar la asesoría en materia de políticas de juventud al Ejecutivo del Estado y sus dependencias y entidades;
+
+XIII. Controlar y evaluar el sistema de apoyos económicos, en especie y servicios de bienestar que provea el Instituto para los jóvenes;
+
+XIV. Planear, programar, organizar, dirigir, controlar y evaluar, en el marco de las competencias propias del Instituto, todas aquellas actividades concernientes a reconocimientos y estímulos especiales a la juventud destacada, premios y certámenes, encuentros juveniles a nivel estatal, municipal y nacional;
+
+XV. Promover, coordinar y apoyar el establecimiento de Consejos Municipales de la Juventud y la participación de los mismos en los programas del instituto;
+
+XVI. Coordinar la realización de eventos que fortalezcan las redes de participación y organización juvenil;
+
+XVII. Coordinar y supervisar la planeación, organización y ejecución de acciones que faciliten la participación de los jóvenes en actividades de educación, cultura, ciencia y tecnología;
+
+XVIII. Programar y prever los recursos presupuestarios para la realización de cursos de adiestramiento y actualización para los operadores de los programas del Instituto y de otras instancias a nivel estatal;
+
+XIX. Implementar campañas de difusión para la capacitación de jóvenes a fin de que realicen su servicio social y prácticas profesionales a través del instituto;
+
+XX. Coordinar programas y actividades de servicio voluntario sin fines académicos, de jóvenes que deseen participar en actividades que beneficien a la comunidad y al Estado;
+
+XXI. Proponer la celebración de convenios institucionales con instancias académicas públicas y privadas, de nivel técnico, medio y superior, a fin de concertar la prestación del servicio social y prácticas profesionales en el Instituto;
+
+XXII. Establecer y promover programas de capacitación profesional para jóvenes y cursos relacionados con temas de sexualidad, salud reproductiva y prevención de conductas adictivas y respeto a los Derechos Humanos, entre otros;
+
+XXIII. Delegar funciones a las unidades administrativas adscritas a la Dirección General de acuerdo con los programas establecidos para cada una;
+
+XXIV. Integrar el Programa Operativo Anual y el Manual de Procedimientos del área de su adscripción;
+
+XXV. Administrar los recursos humanos, materiales y presupuestarios de la Dirección General de conformidad con las normas de operación vigentes en el Instituto;
+
+XXVI. Controlar y evaluar la correcta aplicación y realización de cada programa, de conformidad con los lineamientos vigentes y las políticas de la Dirección General;
+
+XXVII. Instruir los trámites y gestiones necesarias, ante el área de Planeación y Administración, para la obtención de recursos económicos destinados a premiaciones y reconocimientos que se otorguen en los diferentes certámenes y eventos comprometidos por el instituto;
+
+XXVIII. Validar los informes, estadísticas y demás datos relacionados con el avance de los programas y presupuestos y reportarlos a la Unidad de Planeación y Administración, de conformidad con los lineamientos establecidos en dicha materia; y
+
+XXIX. Las demás que le asigne el Ejecutivo del Estado y las que se establezcan en las normas y lineamientos jurídicos y administrativos de la institución.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 28 DE JUNIO DE 2017)</small>
+
+#### SECCIÓN TERCERA. DEL PATRIMONIO DEL INSTITUTO
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2017)</small>
+
+###### Artículo 42-H.
+
+El patrimonio del instituto se integrara con:
+
+I. Los bienes muebles e inmuebles que le asigne el Ejecutivo Estatal y los que adquiera por cualquier título legal, y
+
+II. Las asignaciones presupuestales, transferencias, subsidios, participaciones, donaciones, y legados que reciba y, en general, con los ingresos que obtenga por actividades relacionadas con su objeto, previstas por la ley.
+
+Cuando alguno de los bienes citados deje de utilizarse y no sean adecuados a los fines del Instituto, se procederá a la desincorporación de ellos, en términos de lo dispuesto por la Ley del Patrimonio del Estado.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2017)</small>
+
+###### Artículo 42-I.
+
+El Instituto administrará y dispondrá libremente de su patrimonio para el cumplimiento de su objeto, en términos de las disposiciones legales aplicables a los organismos descentralizados.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 28 DE JUNIO DE 2017)</small>
+
+#### SECCIÓN CUARTA. DEL ÓRGANO DE CONTROL Y VIGILANCIA
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2017)</small>
+
+###### Artículo 42-J.
+
+El Instituto, contará con un Órgano de Vigilancia integrado por un Comisario Público Propietario que para tal efecto designe el Titular de la Secretaría de la Gestión Pública, quien participará en las sesiones de la Junta Directiva con voz, pero sin voto, y tendrá las facultades que le otorga la Ley de Entidades de la Administración Publica Paraestatal del Estado de Quintana Roo, y demás disposiciones legales aplicables. De igual forma se deberá de nombrar a un suplente de éste.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 28 DE JUNIO DE 2017)</small>
+
+#### SECCIÓN QUINTA. DEL RÉGIMEN LABORAL
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2017)</small>
+
+###### Artículo 42-K.
+
+Las relaciones laborales con el personal del Instituto se regirán por lo establecido en la Ley de los Trabajadores al Servicio de los Poderes Legislativo, Ejecutivo y Judicial, de los Ayuntamientos y Organismos Descentralizados del Estado de Quintana Roo.
+
+### CAPÍTULO III. DE LOS AYUNTAMIENTOS
 
 ###### Artículo 43.
 
@@ -613,13 +865,13 @@ X. Las demás que le otorgue esta Ley y demás ordenamientos aplicables.
 
 ## TÍTULO CUARTO. DE LOS CONSEJOS JUVENILES
 
-### CAPÍTULO II
+### CAPÍTULO I. DEL CONSEJO ESTATAL DE LA JUVENTUD
 
-DE LOS CONSEJOS MUNICIPALES DE LA JUVENTUD.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2017)</small>
 
 ###### Artículo 44.
 
-El Consejo es un órgano colegiado de consulta de la COJUDEQ, integrado por jóvenes que representen a sectores de la sociedad y a organismos, asociaciones o instituciones identificados por su trabajo con los jóvenes.
+El Consejo es un órgano colegiado de consulta del Instituto, integrado por jóvenes que representen a sectores de la sociedad y a organismos, asociaciones o instituciones identificados por su trabajo con los jóvenes.
 
 Los integrantes del Consejo, durarán en su cargo hasta dos años y sus nombramientos serán honoríficos, por lo que no se percibirá remuneración alguna en su desempeño.
 
@@ -627,9 +879,13 @@ Los integrantes del Consejo, durarán en su cargo hasta dos años y sus nombrami
 
 El Reglamento determinará la integración del Consejo, su número, designación de sus miembros y todos aquellos lineamientos para su operatividad.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
+
 ###### Artículo 46.
 
-Los integrantes del Consejo, no podrán ser parte del personal administrativo de la COJUDEQ, mientras ejerzan esta responsabilidad.
+Los integrantes del Consejo, no podrán ser parte del personal administrativo del Instituto, mientras ejerzan esta responsabilidad.
+
+> <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE EL PRESENTE ARTÍCULO CONTABA CON OCHO FRACCIONES; Y CON LA REFORMA PUBLICADA EN EL P.O. DE 28 DE JUNIO DE 2017, SE PRECISAN ÚNICAMENTE SEIS FRACCIONES. VÉASE LITERALIDAD DEL DECRETO, PÁGINAS 51 Y 52.]</small>
 
 > <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
@@ -637,25 +893,33 @@ Los integrantes del Consejo, no podrán ser parte del personal administrativo de
 
 Al Consejo le corresponden las atribuciones siguientes:
 
-I.- Proponer a la COJUDEQ las medidas convenientes para alcanzar el cumplimiento de sus acciones de trabajo;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2017)</small>
 
-II.- Presentar a la COJUDEQ opinión sobre las propuestas, estudios y proyectos orientados a convenir programas de coordinación con dependencias y organismos federales, estatales y municipales;
+I. Proponer al Instituto las medidas convenientes para alcanzar el cumplimiento de sus acciones de trabajo;
 
-III.- Participar, a solicitud del Presidente de la COJUDEQ, como enlace entre este organismo y las organizaciones sociales vinculadas al sector, con la finalidad de atender las demandas y requerimientos sociales;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2017)</small>
 
-IV.- Sugerir a la COJUDEQ acciones que contribuyan al mejoramiento de la condición social de los jóvenes;
+II. Presentar al Instituto opinión sobre las propuestas, estudios y proyectos orientados a convenir programas de coordinación con dependencias y organismos federales, estatales y municipales;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2017)</small>
+
+III. Participar, a solicitud del Director General del Instituto, como enlace entre este organismo y las organizaciones sociales vinculadas al sector, con la finalidad de atender las demandas y requerimientos sociales;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2017)</small>
+
+IV. Sugerir al Instituto acciones que contribuyan al mejoramiento de la condición social de los jóvenes;
 
 V.- Podrán participar en la elaboración del Programa;
 
-VI.- Analizar los objetivos del Programa y dar seguimiento a las metas alcanzadas para fortalecer los proyectos y acciones previstos en tal instrumento;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2017)</small>
 
-VII.- Velar por el cumplimiento de los objetivos de la COJUDEQ, y
+VI.- Las que determine el Instituto y demás disposiciones aplicables.
 
-VIII.- Las que determine la COJUDEQ y demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
 
 ###### Artículo 48.
 
-La COJUDEQ proporcionará al Consejo, las instalaciones, materiales, herramientas y todas las facilidades para su operatividad.
+El Instituto proporcionará al Consejo, las instalaciones, materiales, herramientas y todas las facilidades para su operatividad.
 
 > <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
@@ -663,7 +927,9 @@ La COJUDEQ proporcionará al Consejo, las instalaciones, materiales, herramienta
 
 La COJUDEQ deberá presentar trimestralmente al Consejo y a la Legislatura del Estado un informe detallado por escrito sobre el avance de metas y de los programas a la fecha en que presente el informe.
 
-### CAPÍTULO ÚNICO. DEL PROGRAMA ESTATAL DE LA JUVENTUD
+### CAPÍTULO II
+
+DE LOS CONSEJOS MUNICIPALES DE LA JUVENTUD.
 
 ###### Artículo 49.
 
@@ -703,17 +969,25 @@ IX.- Promover espacios de opinión y consulta a la población juvenil en general
 
 Los Ayuntamientos, a través de las Unidades Administrativas en materia de Juventud, proporcionarán a sus Consejos Municipales, las instalaciones, materiales, herramientas y todas las facilidades para su operatividad.
 
-## TÍTULO QUINTO. DEL PROGRAMA ESTATAL DE LA JUVENTUD
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE JUNIO DE 2017)</small>
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+## TÍTULO QUINTO. DEL PROGRAMA INSTITUCIONAL DE JUVENTUD
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE JUNIO DE 2017)</small>
+
+### CAPÍTULO ÚNICO. DEL PROGRAMA INSTITUCIONAL DE JUVENTUD
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
 
 ###### Artículo 53.
 
-La COJUDEQ, será la responsable de elaborar y presentar al Ejecutivo del Estado, el Programa Estatal de Juventud estableciendo los objetivos, metas, estrategias, lineamientos y acciones para la difusión, promoción, fomento, investigación, práctica, supervisión y evaluación de las actividades de atención a la juventud, con la participación del Estado, los municipios y los sectores público y privado, con el fin de garantizar la atención integral a la juventud en forma ordenada y planificada.
+El Instituto, será el responsable de elaborar y presentar al Ejecutivo del Estado, el Programa Institucional de Juventud estableciendo los objetivos, metas, estrategias, lineamientos y acciones para la difusión, promoción, fomento, investigación, práctica, supervisión y evaluación de las actividades de atención a la juventud, con la participación del Estado, los municipios y los sectores público y privado, con el fin de garantizar la atención integral a la juventud en forma ordenada y planificada.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
 
 ###### Artículo 54.
 
-Queda a vigilancia del Presidente de la COJUDEQ, la elaboración, presentación, desarrollo y supervisión del Programa Estatal.
+Queda a vigilancia del Director General del Instituto, la elaboración, presentación, desarrollo y supervisión de los programas que en el ámbito de su competencia sean asignados al Instituto.
 
 ###### Artículo 55.
 
@@ -733,11 +1007,15 @@ Los ayuntamientos, a través de las Unidades Administrativas en materia de Juven
 
 Los Programas Estatal y Municipales, deberá ser elaborados y actualizados cada tres años, en el que se tomarán en cuenta las necesidades actuales de los jóvenes quintanarroenses.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
+
 ###### Artículo 59.
 
-La COJUDEQ generará los mecanismos necesarios para la participación del Estado en programas Federales, para el financiamiento de proyectos juveniles, promoviendo la creación de un Fondo con la participación de los sectores Social y Privado.
+El Instituto generará los mecanismos necesarios para la participación del Estado en programas federales, para el financiamiento de proyectos juveniles, promoviendo la creación de un Fondo con la participación de los sectores social y privado.
 
 ## TÍTULO SEXTO. DEL CONGRESO JUVENIL DEL ESTADO DE QUINTANA ROO
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 60.
 
@@ -844,3 +1122,47 @@ SEGUNDO.- Se derogan todas las disposiciones de igual o menor jerarquía que se 
 P.O. 30 DE OCTUBRE DE 2015.
 
 ÚNICO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 28 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 061 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LA JUVENTUD DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Junta Directiva del Instituto deberá de quedar instalada dentro de los treinta días siguientes a la fecha de publicación del presente Decreto, y dentro del mismo plazo el Instituto Quintanarroense de la Juventud deberá de entrar en funciones.
+
+###### ARTÍCULO CUARTO.
+
+La Junta Directiva del Instituto Quintanarroense de la Juventud cuenta con un plazo de treinta días hábiles contados a partir de la fecha de su instalación, para la expedición del Reglamento Interior, y de noventa días para los Manuales de Organización y de Procedimientos.
+
+###### ARTÍCULO QUINTO.
+
+Se establece un plazo de treinta días hábiles contados a partir de la fecha de publicación del presente Decreto, para que el Titular del Poder Ejecutivo determine la adecuación y armonización del marco jurídico de Dependencias y Entidades, que con motivo del presente Decreto corresponda.
+
+###### ARTÍCULO SEXTO.
+
+Los compromisos, programas y procedimientos administrativos y/o legales que en materia de juventud, correspondían a la Comisión de la Juventud y el Deporte de Quintana Roo a la entrada en vigor del presente Decreto, serán transferidos y asumidos por el Instituto Quintanarroense de la Juventud.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los órganos administrativos, con sus recursos humanos, materiales y financieros, que a la entrada en vigor del presente Decreto, se encuentren asignados en materia de juventud a la Comisión de la Juventud y el Deporte de Quintana Roo, serán transferidos al Instituto Quintanarroense de la Juventud.
+
+###### ARTÍCULO OCTAVO.
+
+Las Dependencias normativas de la Administración Pública Estatal, en el ámbito de sus respectivas competencias llevarán a cabo lo conducente, a efecto de la transferencia al Instituto de los recursos asignados a la Comisión de la Juventud y el Deporte de Quintana Roo, previstos en el artículo transitorio anterior, y la adecuación de las estructuras administrativas correspondientes.
+
+###### ARTÍCULO NOVENO.
+
+El personal de la Comisión de la Juventud y el Deporte de Quintana Roo que, en aplicación de este Decreto pase al Instituto Quintanarroense de la Juventud, en ninguna forma resultará afectado en los derechos y prestaciones laborales que haya adquirido con motivo de su relación laboral con la Administración Pública Estatal.
+
+###### ARTÍCULO DÉCIMO.
+
+El Gobierno del Estado deberá efectuar las previsiones presupuestales necesarias para la operación y el cumplimiento del presente Decreto; para ello la Secretaría de Finanzas y Planeación deberá realizar los ajustes necesarios tendientes a que el presupuesto otorgado a la Comisión de la Juventud y el Deporte de Quintana Roo para el ejercicio fiscal 2017, sea transferido al Instituto Quintanarroense de la Juventud, y las previsiones presupuestales en el proyecto de presupuesto de egresos correspondiente al próximo ejercicio fiscal, así como prever lo correspondiente para los ejercicios presupuestales subsecuentes.
