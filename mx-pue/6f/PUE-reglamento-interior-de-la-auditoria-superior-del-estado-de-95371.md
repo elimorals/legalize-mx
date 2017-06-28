@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-auditoria-superior-del-estado-de-9537
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-07-31"
-last_updated: "2013-07-31"
+last_updated: "2017-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DE LA AUDITORIA SUPERIOR DEL ESTADO DE PUEBLA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE PUEBLA, PUBLICADO EN EL P.O. DE 28 DE JUNIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE PUEBLA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL DÍA DIECISIETE DE SEPTIEMBRE DE DOS MIL TRECE.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el miércoles 31 de julio de 2013.
 
@@ -1024,3 +1024,31 @@ OCTAVO.- Las unidades administrativas de la Auditoría Superior del Estado de Pu
 NOVENO.- Se dejan sin efecto las disposiciones que se opongan al presente Acuerdo.
 
 Dado en la H. Puebla de Zaragoza, a los veinticinco días del mes de julio del año dos mil trece.- El Auditor Superior del Estado de Puebla.- DOCTOR DAVID VILLANUEVA LOMELÍ.- Rúbrica.
+
+P.O. 28 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Acuerdo deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el primer día del mes de julio del año dos mil diecisiete.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Auditoría Superior del Estado de Puebla, emitido mediante Acuerdo publicado en el Periódico Oficial del Estado con fecha treinta y uno de julio de dos mil trece.
+
+TERCERO. Se ratifica el contenido de los convenios, acuerdos, contratos, circulares, guías, manuales, lineamientos, bases, así como demás normatividad y disposiciones administrativas que a la entrada en vigor del presente Reglamento, hubieren suscrito o emitido las autoridades competentes de la Auditoría Superior del Estado de Puebla, hasta en tanto se modifiquen, sustituyan o dejen sin efectos.
+
+CUARTO. Las atribuciones, funciones, referencias, remisiones o contenidos del presente Reglamento que estén vinculados con la legislación aplicable en el Estado en materia de responsabilidades administrativas, del Sistema Estatal Anticorrupción y del Tribunal de Justicia Administrativa del Estado, entrarán en vigor cuando los respectivos ordenamientos legales entren en vigor.
+
+QUINTO. Los procedimientos legales, administrativos, de fiscalización superior y demás asuntos que a la entrada en vigor del presente Reglamento, se encuentren en trámite o substanciación ante las unidades administrativas de la Auditoría Superior del Estado de Puebla o en los que éstas sean parte, continuarán substanciándose por la unidad administrativa a la que le sean conferidas las facultades que correspondan conforme a este Reglamento, hasta su total conclusión, conforme a las disposiciones vigentes al momento de su inicio; disposiciones que también serán aplicables, para los asuntos que deriven o sean consecuencia de los mismos o de la fiscalización superior realizada conforme a la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Puebla, aplicable hasta el treinta y uno de diciembre de dos mil dieciséis, incluyendo los procedimientos administrativos de determinación de responsabilidades cuyo inicio se haya autorizado por el H. Congreso del Estado de Puebla como resultado de la fiscalización superior.
+
+SEXTO. Las atribuciones y funciones de fiscalización y revisión para el ejercicio del año en curso y de ejercicios anteriores a que se hace referencia en el presente Reglamento, serán aplicables a partir de las Cuentas Públicas del ejercicio 2016.
+
+SÉPTIMO. Las menciones que en las leyes, reglamentos y demás disposiciones jurídicas o administrativas, se hagan del Reglamento Interior de la Auditoría Superior del Estado de Puebla, se entenderán referidas al presente Reglamento.
+
+OCTAVO. Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material, que a la entrada en vigor del presente Reglamento se refiera a unidades administrativas que desaparecen o modifican su denominación, se entenderá atribuida a las unidades administrativas a que se refiere el presente Reglamento a las que atribuya la competencia específica que en cada caso se relacione.
+
+NOVENO. Los titulares de las unidades administrativas de la Auditoría Superior del Estado de Puebla que a la entrada en vigor del presente Reglamento se encuentren en funciones, continuarán ejerciendo su cargo, hasta en tanto el Auditor Superior emita los nombramientos que conforme a este ordenamiento correspondan y sus actuaciones tendrán plena validez.
+
+DÉCIMO. Las unidades administrativas de la Auditoría Superior del Estado de Puebla, en tanto realizan las modificaciones conducentes a los sellos, formatos, papelería y demás documentación oficial que utilizan para el desarrollo de sus funciones, continuarán utilizando aquélla con que cuenten a la entrada en vigor del presente Reglamento Interior.
+
+DÉCIMO PRIMERO. La Auditoría Superior, a través de la unidad administrativa correspondiente, llevará a cabo la actualización de los manuales de organización y procedimientos a que haya lugar, con motivo de la entrada en vigor del presente Reglamento.
+
+DÉCIMO SEGUNDO. Se dejan sin efecto las disposiciones que se opongan al presente Acuerdo.
