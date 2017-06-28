@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-sistema-para-el-desarrollo-integral-de-la-7245
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-01-15"
-last_updated: "2015-11-17"
+last_updated: "2017-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial el 15 de enero de 1985.
 
@@ -51,39 +51,41 @@ El Sistema para el Desarrollo Integral de la Familia del Estado de Quintana Roo,
 
 El Sistema tendrá por objeto:
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2017)</small>
 
-I.- Promover el bienestar social y prestar al efecto, tanto en forma directa como coordinada con los Sistemas Municipales DIF, servicios de asistencia social, con apoyo en las normas que dicta la Secretaría de Salud, el Sistema Nacional para el Desarrollo Integral de la Familia, así como los del propio Estado incidan en la materia;
+I.- Promover el bienestar social y prestar al efecto, tanto en forma directa como coordinada con las instituciones federales, estatales y municipales y con los Sistemas Municipales DIF, servicios de asistencia social, con apoyo en las normas que dicta la Secretaría de Salud, el Sistema Nacional para el Desarrollo Integral de la Familia, así como servicios de gestión trámite y vinculación ciudadana con instancias gubernamentales;
 
 II.- Apoyar el Desarrollo de la Familia y la Comunidad.
 
 III.- Impulsar el sano crecimiento físico y mental de la niñez quintanarroense.
 
-IV.- Coordinar y apoyar las actividades de los Sistemas Municipales DIF, de acuerdo a los convenios que al efecto celebren cada Municipio con el Sistema Estatal.
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2017)</small>
+
+IV.- Celebrar convenios de coordinación y colaboración con los sistemas municipales DIF, así como con las instancias públicas y privadas, para el cumplimiento de las facultades y obligaciones atribuidas al Sistema Estatal DIF, por la presente Ley;
 
 V.- Fomentar la educación, que propicie la integración social; así como las actividades socio-culturales y deportivas que beneficien a la familia.
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2017)</small>
 
-VI.- Realizar estudios e investigaciones sobre los problemas de la familia, de niñas, niños y adolescentes, de personas adultas mayores y de personas con discapacidad;
+VI.- Realizar estudios e investigaciones sobre los problemas de la familia, de los grupos en situación de vulnerabilidad y en su caso dar seguimiento y atención a este tipo de problemática vinculándola y canalizándola con las instancias competentes para su atención;
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2017)</small>
 
-VII.- Operar establecimientos de Asistencia Social en beneficio de niñas, niños y adolescentes, de personas adultas mayores y de personas con discapacidad;
+VII.- Operar establecimientos de Asistencia Social en beneficio de los grupos en situación de vulnerabilidad;
 
 VIII.- Atender las funciones de auxilio a las Instituciones de Asistencia Privada que le confíe la dependencia competente, con sujeción a lo que disponga la ley relativa.
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2017)</small>
 
-IX.- Prestar gratuitamente servicios de asistencia jurídica y de orientación a niñas, niños y adolescentes, personas adultas mayores y personas con discapacidad sin recursos y en estado de abandono;
+IX.- Prestar gratuitamente servicios de asistencia jurídica y de orientación social a los grupos en situación de vulnerabilidad del Estado;
 
 > <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
 X.- Intervenir en el ejercicio de la tutela de niñas, niños y adolescentes, que corresponda al Estado o al Municipio, en los términos de las leyes respectivas;
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2017)</small>
 
-XI.- Auxiliar al Ministerio Publico en la protección de niñas, niños y adolescentes, de personas adultas mayores y de personas con discapacidad en estado de abandono y en los procedimientos civiles y familiares que les afecten, de acuerdo con las leyes y reglamentos respectivos;
+XI.- Auxiliar al Ministerio Público en la protección de los grupos en situación de vulnerabilidad y en los procedimientos civiles y familiares que les afecten, de acuerdo con las leyes y reglamentos respectivos;
 
 XII.- Procurar permanente la adecuación y cumplimiento de los objetivos y programas del Sistema Estatal, así como los de los Sistemas Municipales, con los que lleve a cabo el Sistema Nacional, a través de Decretos, Acuerdos, Convenios o cualquier figura jurídica, encaminada a la obtención del bienestar social.
 
@@ -91,15 +93,45 @@ XII.- Procurar permanente la adecuación y cumplimiento de los objetivos y progr
 
 XIII.- Desarrollar, coordinar y cumplir con los programas que le encomiende al Sistema Estatal y a los Municipales, y la Secretaría de Salud del Estado, mediante convenios que para ese efecto se celebren;
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2017)</small>
 
-XIV.- Promover ante los Tribunales del Estado todo tipo de juicios en los que, se vean afectados los derechos de niñas, niños y adolescentes, de personas adultas mayores y de personas con discapacidad, respetando en todos los casos las funciones o atribuciones que las leyes encomienden a otras Dependencias o instituciones;
+XIV.- Promover ante los Tribunales del Estado todo tipo de juicios en los que, a criterio discrecional del propio Sistema, se vean afectados los derechos de los grupos en situación de vulnerabilidad, respetando en todos los casos las funciones o atribuciones que las leyes encomienden a otras Dependencias o Instituciones;
 
 > <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
 XV.- Intervenir en los juicios de adopción de conformidad con las disposiciones aplicables;
 
-XVI.- Los demás que les encomienden las Leyes, Decretos, Acuerdos y Reglamentos en vigor en el Estado y los Convenios que celebre con la Federación, Sistema Nacional, Municipios e Instituciones Públicas o Privadas, Nacionales o Extranjeras.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE JUNIO DE 2017)</small>
+
+XVI.- Coadyuvar en el establecimiento (sic) las políticas que se requieran para la planeación, programación, presupuestación y evaluación de los programas de atención ciudadana, así como en la dirección y control de las mismas;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2017)</small>
+
+XVII.- Brindar atención inmediata a los grupos vulnerables en un marco de respeto a los derechos humanos, en los asuntos que se recepcionen para su debido trámite y/o gestión;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2017)</small>
+
+XVIII.- Asesorar y orientar a los ciudadanos en condición de vulnerabilidad sobre forma y requerimientos para presentar quejas o denuncias ante las instancias competentes y en su caso, gestionar la información del estado que guarden;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2017)</small>
+
+XIX.- Implementar los mecanismos necesarios que coadyuven a conseguir los recursos financieros, materiales y/o humanos para organizar las distintas brigadas de ayuda a regiones y grupos en situación de vulnerabilidad;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2017)</small>
+
+XX.- Realizar convenios de colaboración con las distintas instituciones gubernamentales y no gubernamentales con la finalidad de obtener recursos, por conducto de programas y apoyos destinados a la ciudadanía, así como elaborar foros y convenios en los temas que sean de relevancia actual para la atención ciudadana;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2017)</small>
+
+XXI.- Recibir todo tipo de donaciones, tanto de organismos gubernamentales como no gubernamentales que fortalezcan el desarrollo de sus funciones en beneficio de la ciudadanía;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2017)</small>
+
+XXII.- Establecer un programa operativo anual en relación a programas de atención ciudadana; así como rendir un informe de las labores realizadas en el proceso a la Dirección General del Sistema, para la formulación de los informes correspondientes, y
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2017)</small>
+
+XXIII.- Las demás que les encomienden las leyes, decretos, acuerdos y reglamentos en vigor en el Estado y los convenios que celebre con la Federación, Sistema Nacional, Municipios e Instituciones Públicas o Privadas, Nacionales o Extranjeras.
 
 ## TITULO II
 
@@ -283,9 +315,9 @@ La Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia es 
 
 I.- Proporcionar orientación y asistencia jurídica a las personas de escasos recursos para la defensa de sus derechos derivados de la relación familiar, así como en lo relacionado con el estado civil de las personas.
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2017)</small>
 
-II.- Promover ante las autoridades y Tribunales competentes todo tipo de acciones, cuando se vean afectados los derechos de niñas, niños y adolescentes; personas mayores de edad incapaces; personas adultas mayores y personas con discapacidad, respetando siempre las atribuciones y funciones que las leyes encomiendan a otras autoridades;
+II.- Promover ante las autoridades y Tribunales competentes todo tipo de acciones, cuando a criterio discrecional del Sistema se vean afectados los derechos de los grupos en situación de vulnerabilidad, respetando siempre las atribuciones y funciones que las leyes encomiendan a otras autoridades;
 
 > <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
@@ -395,7 +427,7 @@ a).- Un Presidente, el cual será designado y removido libremente por el Preside
 
 b).- Un Secretario, que será el Director General del Sistema Municipal.
 
-c).- Un Tesorero, que será el C. Tesorero Municipal. ,
+c).- Un Tesorero, que será el C. Tesorero Municipal.
 
 a).- Y un mínimo de cinco vocales designados entre las instituciones, asociaciones o agrupaciones, tanto de los sectores público y privado como del social y profesional de cada Municipio. El Coordinador de zona del Sistema Estatal será también vocal. Las funciones y atribuciones del Patronato serán similares en lo conducente con los del Patronato del Sistema Estatal.
 
@@ -492,3 +524,13 @@ P.O. 17 DE NOVIEMBRE DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE JUNIO DE 2017
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 060 POR El QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se dejan sin efecto todas las disposiciones legales de igual o menor jerarquía que se opongan al presente decreto.
+
+TERCERO. El Sistema para el Desarrollo Integral de la Familia en el Estado de Quintana Roo, cuenta con 30 días hábiles contados a partir de la fecha de la entrada en vigor del presente Decreto, para la modificación de sus reglamentos respectivos.
