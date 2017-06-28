@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-proteccion-civil-para-el-municipio-de-linares-157
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-11-19"
-last_updated: "1997-11-19"
+last_updated: "2017-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE LINARES, NUEVO LEON
 
-REGLAMENTO DE PROTECCION CIVIL MUNICIPAL DE LINARES, NUEVO LEON
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE PROTECCIÓN CIVIL DEL MUNICIPIO DE LINARES, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 28 DE JUNIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DE PROTECCIÓN CIVIL MUNICIPAL DE LINARES, NUEVO LEÓN
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2017 (ABROGADO).
 
 Reglamento publicado en Periódico Oficial del Estado de Nuevo León, el miércoles 19 de noviembre de 1997.
 
@@ -436,3 +438,13 @@ PRESIDENTE MUNICIPAL
 C. LIC. MANUEL JOSE PENA DORIA
 
 SRIO. DEL R. AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE “SE APRUEBA EL REGLAMENTO DE PROTECCIÓN CIVIL DEL MUNICIPIO DE LINARES, N.L.”.]
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Se abroga el Reglamento de Protección Civil Municipal, publicado en el Periódico Oficial del Estado en fecha 19 de noviembre de 1997.
