@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "2016-12-12"
+last_updated: "2017-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2017.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -187,7 +189,9 @@ II. Preservar y enriquecer su lengua sin limitación alguna;
 
 III. Decidir sus formas internas de convivencia y organización social, económica, política y cultural;
 
-IV. Elegir de acuerdo con sus normas, procedimientos y prácticas tradicionales, a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando la equidad de género, en un marco que respete el pacto federal y la soberanía del Estado;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2017)</small>
+
+IV. Elegir de acuerdo con sus normas, procedimientos y prácticas tradicionales, a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando la igualdad de género, en un marco que respete el pacto federal y la soberanía del Estado;
 
 V. De acuerdo con sus normas, procedimientos y prácticas tradicionales, elegir en cada pueblo o comunidad a un ciudadano indígena que los represente ante el ayuntamiento, mismo que tendrá derecho a voz en las sesiones del cabildo en que se traten asuntos relacionados con la población correspondiente, así como las demás facultades y obligaciones que las leyes secundarias le confieran;
 
@@ -423,7 +427,7 @@ APARTADO A.- De los Partidos Políticos y los Candidatos Independientes.
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
 
-l. Los partidos políticos son entidades de interés público, la ley determinará las normas y requisitos para su registro legal, así como las formas específicas de su intervención en el proceso electoral, incluyendo otras formas de participación o asociación, con el fin de postular candidatos, conforme lo señala el artículo 85, párrafo 5, de la Ley General de Partidos Políticos.
+I.- Los partidos políticos son entidades de interés público, la ley determinará las normas y requisitos para su registro legal, así como las formas específicas de su intervención en el proceso electoral, incluyendo otras formas de participación o asociación, con el fin de postular candidatos, conforme lo señala el artículo 85, párrafo 5, de la Ley General de Partidos Políticos.
 
 Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política y como organizaciones de ciudadanos hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto, directo, personal e intransferible.
 
@@ -431,17 +435,17 @@ II.- Sólo los ciudadanos podrán formar partidos políticos y afiliarse libre e
 
 > <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2014)</small>
 
-III. Los ciudadanos tendrán derecho de solicitar por sí mismos, su registro como candidatos independientes a cargos de elección popular por el principio de mayoría relativa.
+III.- Los ciudadanos tendrán derecho de solicitar por sí mismos, su registro como candidatos independientes a cargos de elección popular por el principio de mayoría relativa.
 
 De conformidad con lo señalado por el artículo 116, fracción IV, inciso k), de la Constitución Política de los Estados Unidos Mexicanos, la ley electoral del estado regulará el régimen aplicable a la postulación, registro, derechos y obligaciones de los candidatos independientes, garantizando su derecho al financiamiento público y al acceso a la radio y la televisión en los términos establecidos en la Constitución de la República y en las leyes correspondientes;
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
 
-IV. Los partidos políticos en la selección de sus candidatos garantizarán la paridad de género en las candidaturas a legisladores locales y regidores, por ambos principios, conforme lo disponga la ley. Esta disposición será aplicable, en lo referente a planillas de regidores, para las candidaturas independientes;
+IV.- Los partidos políticos en la selección de sus candidatos garantizarán la paridad de género en las candidaturas a legisladores locales y regidores, por ambos principios, conforme lo disponga la ley. Esta disposición será aplicable, en lo referente a planillas de regidores, para las candidaturas independientes;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2014)</small>
 
-V. La ley regulará los procesos de selección de candidatos y el proselitismo que realicen los aspirantes a ocupar los diversos puestos de elección popular al interior de los partidos políticos, así como los procesos de obtención de apoyos ciudadanos de los aspirantes a las candidaturas independientes; asimismo establecerá las reglas para la realización de precampañas y campañas electorales. Del mismo modo se fijarán en la ley los impedimentos para la participación de servidores públicos en activo durante las precampañas de los partidos.
+V.- La ley regulará los procesos de selección de candidatos y el proselitismo que realicen los aspirantes a ocupar los diversos puestos de elección popular al interior de los partidos políticos, así como los procesos de obtención de apoyos ciudadanos de los aspirantes a las candidaturas independientes; asimismo establecerá las reglas para la realización de precampañas y campañas electorales. Del mismo modo se fijarán en la ley los impedimentos para la participación de servidores públicos en activo durante las precampañas de los partidos.
 
 Las precampañas sólo tendrán lugar dentro de los procesos internos de selección de candidatos de los partidos políticos;
 
@@ -449,7 +453,7 @@ Toda persona que realice actos de proselitismo o de promoción personal de cualq
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
 
-VI. La duración de las campañas en el año de elecciones para Gobernador, diputados, presidentes municipales y regidores, será de setenta y cinco días; en el año en que sólo se elijan Diputados locales y Ayuntamientos, las campañas serán de cuarenta y cinco días. En ningún caso las precampañas excederán las dos terceras partes del tiempo previsto para las campañas electorales respectivas;
+VI.- La duración de las campañas en el año de elecciones para Gobernador, diputados, presidentes municipales y regidores, será de setenta y cinco días; en el año en que sólo se elijan Diputados locales y Ayuntamientos, las campañas serán de cuarenta y cinco días. En ningún caso las precampañas excederán las dos terceras partes del tiempo previsto para las campañas electorales respectivas;
 
 La violación a estas disposiciones por los partidos, aspirantes, candidatos o cualquier otra persona física o jurídica colectiva será sancionada conforme a la ley;
 
@@ -461,9 +465,11 @@ Al partido político local que no obtenga, al menos, el tres por ciento del tota
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2014)</small>
 
-VIII. El financiamiento público para los partidos políticos que mantengan su registro y alcancen el tres por ciento de la votación en la elección para Gobernador o de Diputados por el principio de mayoría relativa inmediata anterior, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, así como las tendientes a la obtención del voto durante los procesos electorales y las de carácter específico, el que se otorgará conforme a lo siguiente y a lo que disponga la ley:
+VIII.- El financiamiento público para los partidos políticos que mantengan su registro y alcancen el tres por ciento de la votación en la elección para Gobernador o de Diputados por el principio de mayoría relativa inmediata anterior, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, así como las tendientes a la obtención del voto durante los procesos electorales y las de carácter específico, el que se otorgará conforme a lo siguiente y a lo que disponga la ley:
 
-a) El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, multiplicando el número total de ciudadanos inscritos en el padrón electoral del estado por el sesenta y cinco por ciento del salario mínimo diario vigente para el estado. El 30% de la cantidad total que resulte de acuerdo a lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el 70% restante se distribuirá entre los mismos de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de Diputados inmediata anterior;
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
+
+a) El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, multiplicando el número total de ciudadanos inscritos en el padrón electoral del estado por el sesenta y cinco por ciento del valor diario de la Unidad de Medida y Actualización. El 30% de la cantidad total que resulte de acuerdo a lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el 70% restante se distribuirá entre los mismos de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de Diputados inmediata anterior;
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
 
@@ -485,7 +491,7 @@ La propia ley establecerá el monto máximo que tendrán las aportaciones de sus
 
 > <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2014)</small>
 
-VIII-Bis. Asimismo las leyes, general o estatal, según corresponda, establecerán las reglas y límites a que se sujetará el financiamiento público y privado de las actividades de los ciudadanos que obtengan su registro como candidatos independientes dentro de un proceso electoral, así como los procedimientos para el control y vigilancia del origen, uso y destino de todos los recursos con los que cuenten, incluyendo aquellos que hubiesen utilizado para financiar las actividades tendentes a obtener dicho registro y dispondrán las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
+VIII Bis.- Asimismo las leyes, general o estatal, según corresponda, establecerán las reglas y límites a que se sujetará el financiamiento público y privado de las actividades de los ciudadanos que obtengan su registro como candidatos independientes dentro de un proceso electoral, así como los procedimientos para el control y vigilancia del origen, uso y destino de todos los recursos con los que cuenten, incluyendo aquellos que hubiesen utilizado para financiar las actividades tendentes a obtener dicho registro y dispondrán las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
 
 IX.- Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen esta Constitución y la ley; y
 
@@ -501,21 +507,21 @@ En el ámbito estatal los partidos políticos tendrán derecho al uso en forma p
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
 
-I. El Instituto Nacional Electoral administrará el tiempo que corresponda al Estado de Tabasco en radio y televisión, destinado para fines electorales y al ejercicio del derecho de los partidos políticos y, en su caso, de los candidatos independientes en el ámbito estatal, conforme a lo que establecen el apartado B de la base III del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos y las leyes aplicables;
+I.- El Instituto Nacional Electoral administrará el tiempo que corresponda al Estado de Tabasco en radio y televisión, destinado para fines electorales y al ejercicio del derecho de los partidos políticos y, en su caso, de los candidatos independientes en el ámbito estatal, conforme a lo que establecen el apartado B de la base III del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos y las leyes aplicables;
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
 
-II. Los partidos políticos, los aspirantes, precandidatos o candidatos a cargos de elección popular, no podrán contratar o adquirir en ningún momento, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión;
+II.- Los partidos políticos, los aspirantes, precandidatos o candidatos a cargos de elección popular, no podrán contratar o adquirir en ningún momento, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión;
 
 III.- Ninguna persona física o jurídicas-colectivas, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor, ni en contra de partidos políticos o de candidatos a cargos de elección popular. Queda prohibida la transmisión en territorio de la entidad de este tipo de mensajes contratados en otras entidades federativas o en el extranjero;
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
 
-IV. En la propaganda política o electoral se privilegiará la difusión de la ideología, principios, propuestas de los partidos o candidatos, el respeto a las instituciones o la promoción de la participación ciudadana para el ejercicio del poder público. En la propaganda política o electoral que difundan los partidos y candidatos deberán abstenerse de expresiones que calumnien a las personas;
+IV.- En la propaganda política o electoral se privilegiará la difusión de la ideología, principios, propuestas de los partidos o candidatos, el respeto a las instituciones o la promoción de la participación ciudadana para el ejercicio del poder público. En la propaganda política o electoral que difundan los partidos y candidatos deberán abstenerse de expresiones que calumnien a las personas;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2014)</small>
 
-V. Durante el tiempo que comprendan las precampañas y campañas electorales y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de los poderes federales y estatales, como de los municipios, órganos autónomos, organismos descentralizados, fideicomisos públicos, órganos desconcentrados, empresas paraestatales y paramunicipales, y cualquier otro ente público.
+V.- Durante el tiempo que comprendan las precampañas y campañas electorales y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de los poderes federales y estatales, como de los municipios, órganos autónomos, organismos descentralizados, fideicomisos públicos, órganos desconcentrados, empresas paraestatales y paramunicipales, y cualquier otro ente público.
 
 Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.
 
@@ -527,7 +533,7 @@ APARTADO C.- Del Instituto Electoral y de Participación Ciudadana de Tabasco.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2014)</small>
 
-I. La organización de las elecciones estatal, distritales y municipales es una función pública del Estado que se realiza a través de un organismo público autónomo denominado Instituto Electoral y de Participación Ciudadana de Tabasco, dotado de personalidad jurídica y patrimonio propios, en cuya integración participan el Instituto Nacional Electoral, el Poder Legislativo del Estado, los partidos políticos, nacionales y locales, así como los ciudadanos en los términos que ordene la ley. En el ejercicio de esa función estatal, la certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad serán sus principios rectores. El Instituto cumplirá sus funciones conforme a las siguientes bases:
+I.- La organización de las elecciones estatal, distritales y municipales es una función pública del Estado que se realiza a través de un organismo público autónomo denominado Instituto Electoral y de Participación Ciudadana de Tabasco, dotado de personalidad jurídica y patrimonio propios, en cuya integración participan el Instituto Nacional Electoral, el Poder Legislativo del Estado, los partidos políticos, nacionales y locales, así como los ciudadanos en los términos que ordene la ley. En el ejercicio de esa función estatal, la certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad serán sus principios rectores. El Instituto cumplirá sus funciones conforme a las siguientes bases:
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
 
@@ -593,13 +599,13 @@ III.- La retribución económica que perciban los consejeros electorales, incluy
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
 
-IV. El Consejo Estatal, por conducto de su Consejero Presidente deberá dar cumplimiento a lo establecido en el artículo 41 de esta Constitución, remitiendo al Congreso, a través del Órgano Superior de Fiscalización, su cuenta pública para su examen y fiscalización correspondiente.
+IV.- El Consejo Estatal, por conducto de su Consejero Presidente deberá dar cumplimiento a lo establecido en el artículo 41 de esta Constitución, remitiendo al Congreso, a través del Órgano Superior de Fiscalización, su cuenta pública para su examen y fiscalización correspondiente.
 
 APARTADO D.- Del Sistema de Medios de Impugnación.
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
 
-l. Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, así como en los procesos de consulta popular, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la ley, mismo que incluirá las causales de nulidad para las elecciones locales por violaciones graves, dolosas y determinantes, previstas en el párrafo segundo, Base VI, del Artículo 41 de la Constitución General de la República. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y de consulta popular, y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación, en los términos del artículo 63 bis de esta Constitución y de las demás disposiciones jurídicas aplicables;
+I.- Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, así como en los procesos de consulta popular, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la ley, mismo que incluirá las causales de nulidad para las elecciones locales por violaciones graves, dolosas y determinantes, previstas en el párrafo segundo, Base VI, del Artículo 41 de la Constitución General de la República. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y de consulta popular, y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación, en los términos del artículo 63 bis de esta Constitución y de las demás disposiciones jurídicas aplicables;
 
 II.- La ley establecerá los presupuestos, requisitos de procedencia y el trámite del sistema de impugnación;
 
@@ -609,15 +615,15 @@ IV.- La ley fijará los procedimientos y plazos convenientes para el desahogo de
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
 
-V. Los fallos del Pleno del Tribunal Electoral de Tabasco serán definitivos;
+V.- Los fallos del Pleno del Tribunal Electoral de Tabasco serán definitivos;
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
 
-VI. En materia electoral la interposición de los medios de impugnación, constitucionales y legales, no producirá efectos suspensivos sobre la resolución o el acto impugnado; y
+VI.- En materia electoral la interposición de los medios de impugnación, constitucionales y legales, no producirá efectos suspensivos sobre la resolución o el acto impugnado; y
 
 > <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2014)</small>
 
-VII. Las impugnaciones en contra de los actos que, conforme a la base V del artículo 41 de la Constitución General de la República, realice el Instituto Nacional Electoral con motivo de los procesos electorales locales, serán resueltas por el Tribunal Electoral del Poder Judicial de la Federación, según lo determine la ley.
+VII.- Las impugnaciones en contra de los actos que, conforme a la base V del artículo 41 de la Constitución General de la República, realice el Instituto Nacional Electoral con motivo de los procesos electorales locales, serán resueltas por el Tribunal Electoral del Poder Judicial de la Federación, según lo determine la ley.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -723,9 +729,9 @@ II.- Tener veintiún años cumplidos el día de la elección;
 
 III.- No estar en servicio activo en el Ejército ni tener mando de algún cuerpo policial en el distrito donde se haga la elección, cuando menos noventa días naturales antes de la fecha de la elección;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2017)</small>
 
-IV.- No ser titular de alguna dependencia de la Administración Pública Estatal, ni Fiscal General del Estado de Tabasco; ni Magistrado del Tribunal Superior de Justicia, del Tribunal de lo Contencioso Administrativo, o del Tribunal de Conciliación y Arbitraje; ni Presidente Municipal, regidor, secretario de ayuntamiento o titular de alguna dirección en las administraciones municipales, ni servidor público federal con rango de Director General o superior, a menos que permanezca separado definitivamente de sus funciones desde noventa días naturales antes de la fecha de la elección;
+IV.- No ser titular de alguna dependencia de la Administración Pública Estatal, ni Fiscal General del Estado de Tabasco; ni Magistrado del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa o del Tribunal de Conciliación y Arbitraje; ni Presidente Municipal, regidor, concejal, secretario de ayuntamiento o titular de alguna dirección en las administraciones municipales, ni servidor público federal con rango de Director General o superior, a menos que permanezca separado definitivamente de sus funciones desde noventa días naturales antes de la fecha de la elección;
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
 
@@ -776,8 +782,6 @@ Los Diputados tendrán fuero desde el día en que hayan rendido la protesta de L
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ### CAPITULO III. INSTALACION Y PERIODOS DE SESIONES DEL CONGRESO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
@@ -835,17 +839,19 @@ Las inasistencias de los diputados a las sesiones del Pleno o de comisiones, sin
 
 En los períodos ordinarios de sesiones el Congreso se ocupará de expedir, reformar, adicionar, derogar y abrogar leyes y decretos para la mejor administración del Estado, sin perjuicio de las demás atribuciones que constitucional y legalmente le correspondan.
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 26.
 
-El Congreso declarará al examinar y calificar la cuenta pública, si las cantidades percibidas y gastadas están de acuerdo con las partidas presupuestales respectivas, si los gastos están justificados o ha lugar a exigir responsabilidades.
+El Congreso declarará al examinar y calificar la cuenta pública, si las cantidades percibidas y gastadas están de acuerdo con las partidas presupuestales respectivas; y si los gastos están justificados.
 
-Para tales efectos, el Congreso tiene facultades para practicar las investigaciones que considere procedentes.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
+
+Para tales efectos, el Congreso tiene facultades para practicar las investigaciones que considere procedentes, por conducto del Órgano Superior de Fiscalización.
+
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 1998)</small>
 
 La resolución que emita el Congreso al calificar la cuenta pública, es inatacable.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1017,9 +1023,9 @@ El Congreso del Estado, por el voto de cuando menos las dos terceras partes de s
 
 El Ejecutivo y los Municipios podrán contratar obligaciones a corto plazo, sin requerir autorización expresa del Congreso, conforme a las bases, montos, porcentajes y condiciones que se establecen en la Ley general citada en el párrafo anterior;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2017)</small>
 
-XIII.- Supervisar, coordinar y evaluar, sin perjuicio de su autonomía técnica y de gestión, al Órgano Superior de Fiscalización del Estado y expedir la Ley que regule su organización y atribuciones. Designar y remover al titular de dicho Órgano, en los términos que señalen las leyes aplicables;
+XIII.- Supervisar, coordinar y evaluar, sin perjuicio de su autonomía técnica y de gestión, al Órgano Superior de Fiscalización del Estado. Expedir la Ley que regule su organización y atribuciones, así como los ordenamientos que normen la gestión, control y evaluación de los Poderes del Estado, los municipios y demás entes públicos estatales y municipales;
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
@@ -1029,9 +1035,9 @@ XIV.- Reclamar ante la Suprema Corte de Justicia de la Nación, o ante la Sala E
 
 XV.- Decretar recompensas y honores a los que se distingan por servicios prestados a la Patria o a la Humanidad;
 
-XVI.- Legislar de acuerdo con las facultades concedidas por la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2017)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEXTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XVI.- Expedir la Ley que establezca el Sistema Estatal Anticorrupción, de conformidad con lo señalado en el artículo 113 de la Constitución Política de los Estados Unidos Mexicanos, y demás ordenamientos en la materia;
 
 > <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2014)</small>
 
@@ -1043,9 +1049,9 @@ XVIII.- Conceder al Ejecutivo, por tiempo limitado y por el voto de las dos terc
 
 En caso de ser necesario y de encontrarse reunido el Congreso, se solicitará la intervención de los Poderes de la Unión, en términos del artículo 119 de la Constitución general;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2017)</small>
 
-XIX.- Designar al Fiscal General del Estado y al Contralor General del Instituto Electoral y de Participación Ciudadana de Tabasco. Otorgar o negar su aprobación a los nombramientos de los Magistrados del Tribunal de lo Contencioso Administrativo, que realice el Gobernador; y nombrar al Presidente del Tribunal de Conciliación y Arbitraje, de una terna propuesta por el mismo Gobernador. Designar a los Magistrados del Tribunal Superior de Justicia, así como a los Consejeros del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública, en los términos de ley;
+XIX.- Designar al Fiscal General del Estado, al titular del Órgano Superior de Fiscalización del Estado, a los Magistrados del Tribunal Superior de Justicia, así como a los Consejeros del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública y al Contralor General del Instituto Electoral y de Participación Ciudadana de Tabasco, y a los titulares de los órganos de control interno de los órganos constitucionales autónomos. Ratificar, en su caso, la designación de Magistrados del Tribunal de Justicia Administrativa que haga el Gobernador del Estado; y nombrar al Presidente del Tribunal de Conciliación y Arbitraje, de una terna propuesta por el Gobernador. En cada caso, de conformidad con esta Constitución y las leyes aplicables;
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
@@ -1093,9 +1099,9 @@ XXVIII.- Expedir la Ley Orgánica de los Municipios y demás leyes sobre la orga
 
 XXIX.- Autorizar la enajenación o gravámen de bienes inmuebles del Estado;
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2017)</small>
 
-XXX.- Recibir la protesta constitucional a los diputados, al gobernador, a los magistrados del Tribunal Superior de Justicia, a los magistrados del Tribunal de lo Contencioso Administrativo; al titular de la Presidencia de la Comisión Estatal de los Derechos Humanos; al Fiscal General del Estado, al Contralor General del Instituto Electoral y de Participación Ciudadana de Tabasco; a los consejeros del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública y al Magistrado Presidente del Tribunal de Conciliación y Arbitraje;
+XXX.- Recibir la protesta constitucional a los diputados; al Gobernador, a los magistrados del Tribunal Superior de Justicia, a los magistrados del Tribunal de Justicia Administrativa; al titular de la Presidencia de la Comisión Estatal de los Derechos Humanos; al Fiscal General del Estado, al Titular del Órgano Superior de Fiscalización, al Contralor General del Instituto Electoral y de Participación Ciudadana de Tabasco; a los consejeros del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública y al Magistrado Presidente del Tribunal de Conciliación y Arbitraje;
 
 XXXI.- Crear y suprimir empleos públicos del Estado según los requerimientos del servicio público y señalar, aumentar o disminuir las respectivas partidas presupuestarias atendiendo a las circunstancias del Erario;
 
@@ -1133,19 +1139,25 @@ XXXVIII.- Designar, previo a la clausura de los períodos de sesiones ordinarias
 
 XXXIX.- Legislar sobre la forma en que los poderes del Estado, órganos autónomos y los Ayuntamientos deberán establecer los tabuladores desglosados de las remuneraciones que habrán de percibir sus servidores públicos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2017)</small>
 
-XL.- Legislar en materia de Justicia Administrativa, determinando la organización, competencia, funcionamiento y procedimientos para la defensa de los derechos de los Gobernados frente a los actos de las Autoridades Estatales, Municipales o de sus Organismos Descentralizados;
+XL.- Expedir la Ley que instituya al Tribunal de Justicia Administrativa, le dote de plena autonomía y establezca su organización, funcionamiento, procedimientos y, en su caso, los recursos contra sus resoluciones, de conformidad con lo señalado en el artículo 116 de la Constitución General de la República y en esta Constitución;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 XLI.- Revisar, fiscalizar y calificar las cuentas públicas de los tres Poderes del Estado, de los Municipios y de los demás entes fiscalizables, por períodos anuales, sin perjuicio de las evaluaciones trimestrales, a más tardar en el período de sesiones ordinario siguiente al de la entrega del informe de resultados, con base en los reportes técnicos, financieros y los demás soportes documentales suficientes, que en términos de Ley presente el Órgano Superior de Fiscalización del Estado.
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
 
-Cuando el Congreso se encuentre en receso, la calificación podrá realizarse dentro de un período extraordinario, o bien, dentro de los primeros treinta días del siguiente período ordinario de sesiones;
+Cuando el Congreso se encuentre en receso, la calificación podrá realizarse dentro de un período extraordinario, o bien, dentro de los primeros treinta días del siguiente período ordinario de sesiones.
 
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2017)</small>
+
+La revisión de la Cuenta Pública la realizará la Cámara de Diputados a través del Órgano Superior de Fiscalización. Si de dicha revisión aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley. En el caso de la revisión sobre el cumplimiento de los objetivos de los programas, el Órgano Superior de Fiscalización sólo podrá emitir las recomendaciones para la mejora en el desempeño de los mismos, en los términos de la Ley.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2017)</small>
+
+En la evaluación del desempeño del Órgano Superior de Fiscalización que realice la Cámara de Diputados, le podrá requerir informes sobre la evolución de sus trabajos de fiscalización;
 
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1235,11 +1247,19 @@ IX. Las demás que le otorguen esta Constitución y otras disposiciones legales.
 
 ### CAPITULO VII. DE LA FISCALIZACION SUPERIOR DEL ESTADO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 40.
 
-El Órgano Superior de Fiscalización del Estado dependerá del Congreso y, sin excepción, revisará y fiscalizará las cuentas del erario estatal, de los municipios y de los organismos autónomos. Será un órgano con autonomía técnica y de gestión en el ejercido (sic) de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la ley. La función de fiscalización a cargo de esta entidad se desarrollará conforme a los principios de legalidad, imparcialidad y confiabilidad.
+El Órgano Superior de Fiscalización del Estado dependerá del Congreso y, sin excepción, revisará y fiscalizará las cuentas del erario estatal, de los municipios y de los organismos autónomos. Será un órgano con autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la ley. La función de fiscalización a cargo de dicha entidad se desarrollará conforme a los principios de legalidad, definitividad, imparcialidad y confiabilidad.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2017)</small>
+
+El Órgano Superior de Fiscalización del Estado podrá iniciar el proceso de fiscalización a partir del primer día hábil siguiente de la fecha de vencimiento de la entrega del Informe de Autoevaluación, sin perjuicio de que las observaciones o recomendaciones que, en su caso realice, deberán referirse a la información definitiva presentada en la Cuenta Pública.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2017)</small>
+
+El Órgano Superior de Fiscalización podrá requerir y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenezca la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de los programas. Las observaciones y recomendaciones que emita el Órgano Superior de Fiscalización, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2002)</small>
 
@@ -1249,19 +1269,33 @@ El Órgano Superior de Fiscalización del Estado, tendrá las siguientes faculta
 
 I.- Revisar y fiscalizar las acciones de los Poderes del Estado, los Municipios y demás entes públicos locales, en materia de fondos, recursos locales y deuda pública. Los informes de auditoría de la entidad estatal de fiscalización tendrán carácter público;
 
-II.- Fiscalizará los recursos que como aportaciones del erario federal a la Hacienda estatal o municipal, administren y ejerzan las entidades del Gobierno del Estado, los municipios, y en su caso, los particulares, en los términos de la Constitución Política de los Estados Unidos Mexicanos, y demás leyes que de ella emanen;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2017)</small>
 
-III.- Investigar los actos u omisiones que impliquen alguna irregularidad en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos públicos, y efectuar visitas domiciliarias, únicamente para exigir la exhibición de libros, documentos o archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas para los cateos;
+II.- Fiscalizar, los recursos que como aportaciones participaciones, convenios, transferencias, asignaciones, subsidios y otras ayudas del erario federal a la Hacienda estatal o municipal, reciban, administren y ejerzan los entes públicos del Estado y los municipios, incluidos los recursos que se obtengan en contraprestación a los servicios que brinden o bienes que comercialicen y demás ingresos propios; y, en su caso, los particulares, en los términos de la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ellas emanen;
 
-IV.- Entregar, sin perjuicio de las evaluaciones que por períodos trimestrales establece esta Constitución respecto al gasto público ejercido, el informe final técnico y financiero de la revisión de la Cuenta Pública que corresponda, a la Cámara de Diputados a más tardar el 1° de agosto del año siguiente al de su presentación. Dentro de dicho informe se incluirán los dictámenes de su revisión y el apartado correspondiente a la fiscalización y verificación del cumplimiento de los programas, que comprenderá los comentarios y observaciones de los auditados, mismo que, después de su calificación, tendrá carácter público.
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2017)</small>
 
-V.- Determinar las responsabilidades administrativas, así como los daños o perjuicios que afecten la Hacienda Pública del Estado, de los Municipios o el patrimonio de los entes públicos locales, derivados de la fiscalización realizada y, sin detrimento de otras medidas disciplinarias o punitivas del órgano o autoridad competente, podrá fincar a los servidores públicos y demás sujetos obligados, mediante el pliego respectivo, las responsabilidades, indemnizaciones y sanciones pecuniarias procedentes, mismas que, para estos fines, las dos últimas se harán efectivas por conducto de la autoridad Hacendaria del Estado, en términos del Código Fiscal Local, reintegrándose las cantidades correspondientes a la entidad que haya sufrido directamente el perjuicio patrimonial; las demás sanciones, pasarán a favor del erario de que se trate.
+III.- Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos públicos; y efectuar visitas domiciliarias, únicamente para exigir la exhibición de libros, documentos o archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas para los cateos;
 
-El Poder Ejecutivo a través de su dependencia competente, y en específico, para estos fines, como autoridad hacendaria para ambos casos del erario estatal y municipal, aplicará el procedimiento administrativo de ejecución para el cobro de las indemnizaciones y sanciones pecuniarias a que se refiere la fracción V del presente artículo, en los términos previstos por el Código Fiscal del Estado, debiendo reintegrar las cantidades respectivas al ente que sufrió directamente la afectación, con motivo de la conducta de que se trate;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2017)</small>
 
-VI.- En las situaciones excepcionales determinadas por la ley, podrá requerir a los sujetos de fiscalización, que procedan a la revisión de los conceptos que estime pertinentes y le rindan un informe. Si dichos requerimientos no fueren atendidos en los plazos y términos señalados por la ley, dará lugar al fincamiento de las responsabilidades que correspondan;
+IV.- Entregar a la Cámara de Diputados, sin perjuicio de las evaluaciones que por períodos trimestrales establece esta Constitución respecto al gasto público ejercido, a más tardar el 31 de agosto del año de la presentación de la Cuenta Pública, el informe final técnico y financiero de la revisión correspondiente. Dentro de dicho informe se incluirán los dictámenes de su revisión y el apartado correspondiente a la fiscalización y verificación del cumplimiento de los programas, que comprenderá los comentarios y observaciones de los auditados, mismo que tendrá carácter público;
 
-VII.- Promover, previa autorización del Congreso, ante las autoridades competentes las denuncias y querellas penales, en los asuntos derivados de la fiscalización de las cuentas públicas; en cuyos procedimientos tendrá la intervención que señale la ley; y
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2017)</small>
+
+V.- Determinar la existencia o inexistencia de actos u omisiones que la ley señale como faltas administrativas y, en su caso, calificarlas como graves o no graves; así como precisar los daños o perjuicios que afecten la Hacienda Pública del Estado, de los Municipios o el patrimonio de los entes públicos locales, derivados de la fiscalización realizada.
+
+Derivado de lo anterior, substanciará el procedimiento por las faltas administrativas graves; y dará cuenta a los órganos internos de control, según corresponda, cuando en el desarrollo de sus funciones detecte posibles faltas administrativas no graves, para que continúen la investigación respectiva y promuevan las acciones que procedan. En los casos en que, derivado de sus investigaciones, se presuma la comisión de delitos o faltas graves, presentará las denuncias correspondientes ante el fiscal del ministerio público competente o el Tribunal de Justicia Administrativa.
+
+Las sanciones económicas impuestas por el Tribunal de Justicia Administrativa constituirán créditos fiscales a favor de la Hacienda Pública estatal o municipal, o del patrimonio de los entes públicos, según corresponda. Dichos créditos fiscales se harán efectivos mediante el procedimiento administrativo de ejecución, por la Dependencia competente del Poder Ejecutivo del Estado, a la cual será notificada la resolución emitida por dicho Tribunal, conforme a la normatividad correspondiente;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2017)</small>
+
+VI.- Sin perjuicio de lo previsto en las fracciones anteriores, en las situaciones que determine la Ley, derivado de denuncias, el Órgano Superior de Fiscalización, previa autorización de su Titular, podrá revisar durante el ejercicio fiscal en curso a los entes fiscalizados, así como respecto de ejercicios anteriores. Los entes fiscalizados proporcionarán la información que se solicite para la revisión, en los plazos y términos señalados por la Ley y, en caso de incumplimiento, serán aplicables las sanciones previstas en la misma. El Órgano Superior de Fiscalización rendirá un informe específico a la Cámara de Diputados y, en su caso, promoverá las acciones que correspondan ante el Tribunal de Justicia Administrativa, la Fiscalía Especializada en Combate a la Corrupción o las autoridades competentes;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2017)</small>
+
+VII.- Promover ante las autoridades competentes las denuncias y querellas penales, en los asuntos derivados de la fiscalización de las cuentas públicas; en cuyos procedimientos tendrá la intervención que señale la ley; y
 
 VIII.- Suscribir sin detrimento de sus atribuciones, y para el mejor cumplimiento de sus deberes, convenios de colaboración con el ente público similar de la federación, para los fines de la fiscalización de los recursos que con respecto al Estado o municipios, sean convenidos, transferidos o reasignados por las entidades fiscalizadas del ámbito federal; así como con los órganos de control preventivo de los entes estatales y municipales, obligados a rendir cuenta pública.
 
@@ -1303,9 +1337,9 @@ d). Poseer el día de la designación, cédula profesional, indistintamente, de 
 
 e). Haber residido en el país durante los dos años anteriores al día de la designación;
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
 
-f). No haber sido en la entidad, Secretario o equivalente de la Administración Pública, Fiscal General del Estado de Tabasco, Magistrado del Tribunal Contencioso Administrativo, del Tribunal de Conciliación y Arbitraje o Diputado local, durante el año previo al día de su nombramiento; y
+f). No haber sido en la entidad, Secretario o equivalente de la Administración Pública, Fiscal General del Estado de Tabasco o Magistrado del Tribunal de Conciliación y Arbitraje; Senador, Diputado federal o local; Presidente Municipal o regidor; titular o, en su caso, comisionado de algún órgano constitucional autónomo; dirigente, tesorero, titular de las finanzas o de la administración de algún partido político; ni haber sido postulado para cargo de elección popular alguno, durante los dos años previos al día de su elección; y
 
 g). Las demás que se señalen en la Ley de Fiscalización Superior del Estado.
 
@@ -1327,21 +1361,21 @@ Los entes públicos deberán entregar sus cuentas públicas al Congreso del Esta
 
 Conforme a la ley de la materia, el Órgano podrá solicitar la documentación soporte de las acciones que consideren pertinentes durante el período de fiscalización. Una vez calificada la cuenta pública y de no existir mandato en contrario, será devuelta oportunamente la documentación remitida, para su debida guarda y custodia.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
 
-Así mismo, el Órgano deberá concluir la fiscalización y entregar el informe de resultados, al Congreso del Estado, a más tardar el 31 de agosto del año siguiente de que se trate. El incumplimiento de este precepto imputable a los servidores públicos del citado órgano, es causa de responsabilidad en los términos de las leyes aplicables. Los informes (sic) resultados que presente el Órgano tendrán carácter público.
+Así mismo, el Órgano deberá concluir la fiscalización y entregar el informe de resultados, al Congreso del Estado, a más tardar el 31 de agosto del año siguiente de que se trate. El incumplimiento de este precepto imputable a los servidores públicos del citado Órgano, es causa de responsabilidad en los términos de las leyes aplicables. Los informes de resultados que presente el Órgano tendrán carácter público.
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2011)</small>
 
 Sin perjuicio de lo dispuesto en el párrafo primero, el Congreso del Estado, por conducto del Órgano Superior de Fiscalización del Estado en el ejercicio de sus facultades y obligaciones, realizará evaluaciones que comprendan períodos trimestrales del ejercicio fiscal de que se trate, las cuales tendrán carácter de provisional y podrán iniciarse a partir del mes subsecuente al que procediere la evaluación correspondiente, con apoyo en los informes de autoevaluación que remitan dentro del término de treinta días las entidades ejecutoras del gasto. En el desarrollo de tal actividad, habrán de realizarse la revisión, fiscalización y auditoría del gasto público ejercido a dicha fecha. Cuando así lo requiera, el órgano técnico, podrá auxiliarse para el ejercicio de sus atribuciones, de despachos o profesionistas especializados en las diversas tareas de fiscalización que le competen.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
 
-De la evaluación que practique el Órgano Superior de Fiscalización del Estado en forma trimestral, deberá hacer las observaciones para que se realicen las solventaciones correspondientes. De encontrarse irregularidades que ameriten la intervención del Congreso del Estado, dicho órgano técnico lo hará del conocimiento de éste, sin necesidad de esperar el examen y calificación anual; satisfaciéndose las formalidades legales se emitirá la resolución que en derecho procediere.
+De la evaluación que practique el Órgano Superior de Fiscalización del Estado en forma trimestral, deberá hacer las observaciones para que se realicen las solventaciones correspondientes. De encontrarse irregularidades, se procederá en los términos que disponga la Ley aplicable.
 
-> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
 
-En los términos de la Ley de Responsabilidades de los Servidores Públicos, y con respecto a los informes que mensualmente, y con carácter obligatorio rinden las entidades sujetas a cuenta pública; los respectivos órganos internos de control o de vigilancia, según se trate, en cada nivel de gobierno, estarán obligados a remitir la información necesaria sobre el contenido de los mismos, proporcionando en igual término los pormenores de las acciones de control, evaluación y en su caso de autoevaluación que al efecto se hubieren realizado.
+Con respecto a los informes que mensualmente y con carácter obligatorio rinden los entes fiscalizables sujetos a cuenta pública, los respectivos órganos internos de control o de vigilancia en cada orden de gobierno, estarán obligados a remitir la información necesaria sobre el contenido de los mismos, proporcionando en igual término lo (sic) pormenores de las acciones de control, evaluación y, en su caso, de autoevaluación que al efecto se hubieren realizado.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -1381,9 +1415,9 @@ II.- Tener treinta años o más al día de la elección;
 
 III.- No ser ministro de culto religioso alguno;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2017)</small>
 
-IV. No ser titular de alguna dependencia de la Administración Pública del Estado, ni Fiscal General del Estado de Tabasco; o titular de Organismos Autónomos; ni Presidente Municipal, regidor, secretario de ayuntamiento o titular de alguna dirección en las administraciones municipales; ni Magistrado del Tribunal Superior de Justicia, del Tribunal de lo Contencioso Administrativo o del Tribunal de Conciliación y Arbitraje; ni diputado al Congreso del Estado; ni ser miembro de las fuerzas armadas, ni haber tenido mando de fuerza pública o policial alguna, ni legislador o servidor público federal con rango de Director General o superior, a menos que permanezca separado definitivamente de sus funciones desde ciento veinte días naturales antes de la fecha de la elección;
+IV.- No ser titular de alguna dependencia de la Administración Pública del Estado, ni Fiscal General del Estado de Tabasco; o titular de Organismos Autónomos; ni Presidente Municipal, regidor, secretario de ayuntamiento o titular de alguna dirección en las administraciones municipales; ni Magistrado del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa o del Tribunal de Conciliación y Arbitraje; ni diputado al Congreso del Estado; ni ser miembro de las fuerzas armadas, ni haber tenido mando de fuerza pública o policial alguna, ni legislador o servidor público federal con rango de Director General o superior, a menos que permanezca separado definitivamente de sus funciones desde ciento veinte días naturales antes de la fecha de la elección.
 
 No ser titular de alguno de los organismos descentralizados u órganos desconcentrados de la Administración Pública Estatal, a menos que se separe definitivamente de sus funciones ciento veinte días naturales antes de la fecha de la elección;
 
@@ -1605,8 +1639,6 @@ El ejercicio de estas atribuciones se realizará de conformidad con la Ley Orgá
 
 ### CAPITULO UNICO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2014)</small>
 
 ARTICULO 54 TER. El Ministerio Público se organizará en una Fiscalía General del Estado de Tabasco, como órgano público autónomo, dotado de personalidad jurídica y de patrimonio propios.
@@ -1615,7 +1647,7 @@ Para ser Fiscal General del Estado de Tabasco se requiere: Ser ciudadano mexican
 
 El Fiscal General durará en su encargo nueve años, y será designado y removido conforme a lo siguiente:
 
-l. A partir de la ausencia definitiva del Fiscal General, el Gobernador del Estado contará con veinte días para integrar una terna de candidatos al cargo, la cual enviará al Congreso del Estado.
+I. A partir de la ausencia definitiva del Fiscal General, el Gobernador del Estado contará con veinte días para integrar una terna de candidatos al cargo, la cual enviará al Congreso del Estado.
 
 II. El Congreso, con base en la terna y previa comparecencia de las personas propuestas, designará al Fiscal General con el voto de las dos terceras partes de los miembros presentes dentro del plazo de diez días.
 
@@ -1628,6 +1660,10 @@ IV. En los recesos del Congreso, la Comisión Permanente lo convocará de inmedi
 V. Las ausencias del Fiscal General serán suplidas en los términos que determine la ley.
 
 Corresponde al Ministerio Público la persecución, ante los tribunales, de todos los delitos del orden local; y, por lo mismo, solicitará las medidas cautelares contra los imputados; buscará y presentará las pruebas que acrediten la participación de éstos en hechos que la (sic) leyes señalen como delito; procurará que los juicios en materia penal se sigan con toda regularidad para que la impartición de justicia sea pronta y expedita; pedirá la aplicación de las penas, e intervendrá en todos los asuntos que la ley determine.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2017)</small>
+
+La Fiscalía General contará, al menos, con las fiscalías especializadas en materia de delitos electorales y de combate a la corrupción, cuyos titulares serán nombrados y removidos por el Fiscal General del Estado. El nombramiento y remoción de los fiscales especializados antes referidos podrán ser objetados por el Congreso del Estado por el voto de las dos terceras partes de los miembros presentes, en el plazo que fije la ley; si el Congreso no se pronunciare en este plazo, se entenderá que no tiene objeción.
 
 La ley establecerá las bases para la formación y actualización de los servidores públicos de la Fiscalía, así como para el desarrollo de la carrera profesional de los mismos, la cual se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
 
@@ -1725,7 +1761,9 @@ Independientemente de lo señalado en el Título Séptimo de esta Constitución 
 
 ARTICULO 55 TER. El Magistrado Presidente del Tribunal Superior de Justicia del Estado y del Consejo de la Judicatura, habrá de elaborar y presentar oportunamente a la consideración de los Plenos, el presupuesto del Poder Judicial, el cual una vez, respectivamente autorizado, en su proyección conjunta, será remitido al titular del Poder Ejecutivo para su inclusión en el proyecto de presupuesto general de egresos del Estado, que será sometido a la aprobación del Congreso. La ley determinará lo concerniente a la correcta administración y ejercicio de los recursos asignados a los órganos que conforman el Poder Judicial de la Entidad.
 
-El Poder Judicial administrará con autonomía su presupuesto y destinará, en renglones separados, los recursos para el Tribunal Superior de Justicia, Consejo de la Judicatura, Juzgados y demás órganos que lo integran, debiendo su Magistrado Presidente rendir informe anual ante el Congreso del Estado, acerca de su ejercicio.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
+
+Sin perjuicio de las atribuciones de las entidades de fiscalización competentes respecto del manejo, custodia y aplicación de recursos públicos, el Poder Judicial administrará con autonomía su presupuesto y destinará, en renglones separados, los recursos para el Tribunal Superior de Justicia, Consejo de la Judicatura, Juzgados y demás órganos que lo integran, debiendo su Magistrado Presidente rendir informe anual ante el Congreso del Estado, acerca de su ejercicio.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2015)</small>
 
@@ -1743,7 +1781,9 @@ Los magistrados serán sustituidos antes de que concluya ese plazo, cuando sobre
 
 Los jueces del Poder Judicial y demás servidores públicos que integren sus estructuras orgánicas, forman el Servicio Profesional de Carrera del Poder Judicial del Estado de Tabasco, de carácter obligatorio y permanente, conforme al cual se regularán el ingreso, la compensación, la permanencia y la separación o baja del mismo; todo ello, con base en la evaluación periódica y objetiva de su desempeño. Sus integrantes serán seleccionados, nombrados y promovidos en consideración a los principios de mérito y capacidad por el Consejo de la Judicatura, mediante concurso de oposición, de acuerdo a los requisitos y procedimientos que establezca la ley.
 
-En la elección, designación o nombramiento de magistrados del Tribunal Superior de Justicia, de los miembros del Consejo de la Judicatura, de los jueces del Poder Judicial, se procurará impulsar la equidad de género.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
+
+En la elección, designación o nombramiento de magistrados del Tribunal Superior de Justicia, de los miembros del Consejo de la Judicatura, de los Jueces del Poder Judicial, se procurará impulsar la igualdad de género.
 
 Los jueces que en los términos de esta Constitución y de la ley en la materia fueren designados, protestarán el cargo, en su orden, ante los plenos del Tribunal Superior de Justicia y del Consejo de la Judicatura.
 
@@ -1773,9 +1813,9 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite
 
 V.- Haber residido en el país durante los dos años anteriores al día de la designación; y
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2017)</small>
 
-VI.- No haber sido en la entidad, Secretario o equivalente de la Administración Pública, Fiscal General del Estado de Tabasco, Magistrado del Tribunal Contencioso Administrativo, del Tribunal de Conciliación y Arbitraje o Diputado local, durante el año previo al día de su nombramiento.
+VI.- No haber sido en la entidad, Secretario o equivalente de la Administración Pública, Fiscal General del Estado de Tabasco, Senador, Diputado federal o Diputado local, durante el año previo al día de su elección.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2015)</small>
 
@@ -1969,6 +2009,40 @@ Asimismo, contará con un Órgano de Control y Evaluación cuyas atribuciones se
 
 El Tribunal Electoral de Tabasco, por conducto de su Presidente deberá dar cumplimiento a lo establecido en el artículo 41 de la Constitución del Estado, remitiendo al Congreso, a través de su Órgano Superior de Fiscalización su cuenta pública para el examen y calificación correspondiente.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE JUNIO DE 2017)</small>
+
+## TITULO V BIS. Del Tribunal de Justicia Administrativa
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE JUNIO DE 2017)</small>
+
+### CAPITULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2017)</small>
+
+###### ARTICULO 63 Ter.
+
+El Tribunal de Justicia Administrativa del Estado de Tabasco es el órgano jurisdiccional, dotado de plena autonomía, encargado de dirimir las controversias que se susciten entre la administración pública, del Estado o de los municipios, y los particulares. La ley establecerá su organización, funcionamiento, procedimientos y, en su caso, recursos contra sus resoluciones. Las resoluciones que emita el Tribunal deberán apegarse a los principios de legalidad, máxima publicidad, respeto a los derechos humanos, verdad material, razonabilidad, proporcionalidad, presunción de inocencia, tipicidad y debido proceso.
+
+Como parte integrante del Sistema Estatal Anticorrupción, será también competencia del Tribunal de Justicia Administrativa imponer, en los términos que disponga la ley, las sanciones a los servidores públicos del Estado y de los municipios por faltas administrativas graves y, en su caso, a los particulares que incurran en actos vinculados con este tipo de faltas; así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos estatales o municipales.
+
+Las sentencias definitivas que emita el Tribunal de Justicia Administrativa podrán ser impugnadas por las partes en las controversias a que se refiere el párrafo primero de este artículo; o, en los procedimientos señalados en el párrafo segundo, por el Órgano Superior de Fiscalización, por la Secretaría de Contraloría o los órganos internos de control correspondientes, así como por los servidores públicos o particulares involucrados, en los términos que prevea la ley aplicable.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2017)</small>
+
+###### ARTICULO 63 Quater.
+
+El Tribunal de Justicia Administrativa se compone de una Sala Superior integrada por tres magistrados; y cinco salas unitarias. Funcionará en Pleno o en Salas. De las salas unitarias, una fungirá como sala Especializada en la resolución de los procedimientos a que se refiere el párrafo segundo del Artículo anterior.
+
+Son requisitos para ser Magistrado de la Sala Superior del Tribunal de Justicia Administrativa, los señalados en el artículo 57 de esta Constitución para ser Magistrado del Tribunal Superior de Justicia del Poder Judicial del Estado. Para ser Magistrado de las salas unitarias, se requiere tener 30 años de edad al día de la designación; contar con título profesional de licenciado en derecho con cinco años de antigüedad; además de los requisitos indicados en el párrafo primero, fracciones I, IV, V y VI, y segundo párrafo del mencionado artículo 57.
+
+Los Magistrados de la Sala Superior serán designados por el Gobernador y ratificados por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado o, en sus recesos, por la Comisión Permanente. Durarán en su encargo siete años, pudiendo ser designados para un solo periodo más.
+
+Los Magistrados de Sala Unitaria serán designados por el Gobernador del Estado y ratificados por la mayoría de los miembros presentes del Congreso del Estado o, en sus recesos, por la Comisión Permanente. Durarán en su encargo siete años, pudiendo ser designados para un solo periodo más.
+
+La ratificación de los Magistrados de la Sala Superior y las unitarias se hará dentro de un plazo improrrogable de veinte días naturales a partir de la fecha de la comunicación al Congreso. Si el Congreso no resolviere dentro de ese plazo, se entenderá como ratificada y ocupará el cargo de Magistrado la persona que haya designado el Gobernador del Estado.
+
+Los Magistrados sólo podrán ser removidos de sus cargos por las causas graves que señale la ley.
+
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ## TITULO VI. MUNICIPIO LIBRE
@@ -1978,14 +2052,6 @@ El Tribunal Electoral de Tabasco, por conducto de su Presidente deberá dar cump
 ### CAPITULO UNICO
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 1983)</small>
-
-## TITULO VII. RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS Y PATRIMONIAL DEL ESTADO
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
-### CAPITULO UNICO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 64.
 
@@ -2005,7 +2071,11 @@ III.- (DEROGADA, P.O. 25 DE JULIO DE 2001)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2014)</small>
 
-IV. Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos popularmente por elección directa, podrán ser reelectos para el período inmediato por una sola ocasión. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado para el primer período, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. Quienes hayan sido registrados como candidatos independientes podrán ser reelectos para un período inmediato, cumpliendo con los requisitos establecidos en la ley; igualmente, podrán ser postulados por un partido o coalición para ser reelectos, siempre y cuando se hayan afiliado al partido que les postule o a un partido de los que integren la coalición, en su caso, antes de la mitad de su mandato.
+IV.- Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos popularmente por elección directa, podrán ser reelectos para el período inmediato por una sola ocasión. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado para el primer período, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. Quienes hayan sido registrados como candidatos independientes podrán ser reelectos para un período inmediato, cumpliendo con los requisitos establecidos en la ley; igualmente, podrán ser postulados por un partido o coalición para ser reelectos, siempre y cuando se hayan afiliado al partido que les postule o a un partido de los que integren la coalición, en su caso, antes de la mitad de su mandato.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2017)</small>
+
+Quienes sean postulados para ser reelectos deberán separarse del cargo en el plazo establecido en el inciso f), fracción XI, de este artículo y satisfacer, en lo conducente, los requisitos establecidos en el mismo y en la Ley. Dicha separación deberá mantenerse hasta que concluya el proceso electoral correspondiente.
 
 > <small>(ADICIONADO, P.O. 25 DE JULIO DE 2001)</small>
 
@@ -2039,9 +2109,9 @@ d) No tener antecedentes penales;
 
 e) Haber cumplido 21 años antes del día de la elección;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2017)</small>
 
-f).- No ser titular en alguna de las dependencias de la Administración Pública Estatal, Fiscal General del Estado de Tabasco; o titular de Organismos Autónomos, Magistrado del Tribunal Superior de Justicia, del Tribunal de lo Contencioso Administrativo, ni del Tribunal de Conciliación y Arbitraje; Secretario de Ayuntamiento o titular de alguna de las direcciones de la propia administración municipal; ni servidor público federal con rango de Director General o superior, a menos que permanezca separado definitivamente de sus funciones desde noventa días naturales antes de la fecha de la elección;
+f).- No ser titular en alguna de las dependencias de la Administración Pública Estatal, Fiscal General del Estado de Tabasco; o titular de Organismos Autónomos, Magistrado del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa, ni del Tribunal de Conciliación y Arbitraje; Presidente Municipal, Sindico o Regidor; Secretario de Ayuntamiento o titular de alguna de las dependencias, entidades o direcciones de la propia administración municipal; ni servidor público federal con rango de Director General o superior, a menos que permanezca separado definitivamente de sus funciones desde noventa días naturales antes de la fecha de la elección;
 
 No ser titular de alguna de las entidades u organismos descentralizados o desconcentrados de la Administración Pública Estatal, a menos que se separe definitivamente de sus funciones noventa días naturales antes de la fecha de la elección;
 
@@ -2197,61 +2267,67 @@ En lo conducente y de conformidad con los fines señalados en el párrafo tercer
 
 IX.- Convocar en los términos establecidos por esta Constitución y las leyes respectivas a consultas populares.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE JUNIO DE 2017)</small>
 
-## TITULO VIII. PREVENCIONES GENERALES
+## TITULO VII. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS Y DEL SISTEMA ESTATAL ANTICORRUPCIÓN
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
 
-### CAPITULO UNICO
+### CAPITULO I. DE LAS RESPONSABILIDADES DE SERVIDORES PÚBLICOS Y DE PARTICULARES; Y PATRIMONIAL DEL ESTADO
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 66.
 
 Para los efectos de las responsabilidades a que alude este título, se considerarán como servidores públicos a todo aquel que desempeñe un cargo de elección popular, un empleo o una comisión en cualquiera de los tres poderes del Estado, en los ayuntamientos y en los órganos desconcentrados, organismos descentralizados, órganos autónomos en los términos de esta Constitución, entidades paraestatales y paramunicipales, empresas de participación estatal o municipal, fideicomisos públicos, órganos jurisdiccionales y en general toda persona física que perciba una retribución con cargo al erario, quienes serán responsables por actos u omisiones en que incurran en el desempeño de su (sic) respectivas funciones.
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1983)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
 
-El Gobernador del Estado, para los efectos de este Título, sólo será responsable en los términos del Artículo 110, segundo párrafo de la Constitución Federal.
+Todo servidor público del Estado o de los municipios y los entes públicos en ambos órdenes de gobierno, cualquiera que sea su naturaleza jurídica; así como cualquier entidad, persona física o moral, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan recursos públicos federales o estatales, deberán proporcionar la información y documentación que soliciten la Auditoría Superior de la Federación o el Órgano Superior de Fiscalización, según corresponda, de conformidad con los procedimientos establecidos en las leyes. En caso de no proporcionar la información, los responsables serán sancionados en los términos que establezca la Ley.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
 
-Los Diputados al Congreso del Estado, los Magistrados del Poder Judicial del Estado, los Titulares de las dependencias del Poder Ejecutivo, los integrantes de los Ayuntamientos y los titulares de los órganos autónomos, serán responsables por violaciones que cometan en contra de la Constitución Política de los Estados Unidos Mexicanos, de esta Constitución, de las leyes federales y locales que de ellas emanen, así como por el manejo indebido de fondos y recursos públicos y la deuda pública del Estado y de los Municipios.
+Todos los servidores públicos, conforme a sus respectivas facultades y obligaciones, serán responsables por violaciones que cometan en contra de la Constitución Política de los Estados Unidos Mexicanos, de esta Constitución, de las leyes federales y locales que de ellas emanen, así como por el manejo indebido de fondos y recursos públicos y la deuda pública del Estado y de los Municipios.
 
 > <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2016)</small>
 
 Los servidores públicos a que se refiere el presente artículo estarán obligados a presentar, bajo protesta de decir verdad, su declaración patrimonial y de intereses ante las autoridades competentes y en los términos que determine la ley. Asimismo deberán presentar su declaración fiscal anual, conforme lo disponga la legislación de la materia.
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1983)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 67.
 
-La Legislatura del Estado. Expedirá la Ley de Responsabilidades de los Servidores Públicos y las demás normas conducentes a sancionar a quienes, teniendo este carácter, incurran en responsabilidad de acuerdo con las siguientes prevenciones:
+El Congreso del Estado expedirá la Ley de Responsabilidades de los Servidores Públicos y las demás normas conducentes a sancionar a quienes, teniendo este carácter, incurran en responsabilidades de orden político o penal, de acuerdo con las siguientes prevenciones:
 
-I.- Se impondrán, mediante Juicio Político, las sanciones indicadas en esta Constitución a los servidores Públicos en ella señalados, cuando en el Ejercicio de sus Funciones incuran (sic) en Actos u omisiones que redunden en perjuicio de los intereses Públicos fundamentales o de su Buen Despacho.
+I. Se impondrán, mediante Juicio Político, las sanciones indicadas en esta Constitución a los servidores públicos en ella señalados, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
 
-No procede al Juicio Político por la mera expresión de ideas;
+No procede el Juicio Político por la mera expresión de ideas; y
 
-II.- La Comisión de delitos por parte de cualquier servidor Público será perseguida y sancionada en los términos de la Legislación Penal; y
+II. La comisión de delitos por parte de cualquier servidor público será perseguida y sancionada en los términos de la Legislación Penal.
 
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2015)</small>
+Es competencia de la Primera Sala de lo Penal del Tribunal Superior de Justicia, fungir como tribunal de enjuiciamiento; y del tribunal compuesto por los tres magistrados presidentes de las salas Segunda, Tercera y Cuarta de la misma materia, conocer en alzada en los juicios penales en los que se impute la responsabilidad de los servidores públicos señalados en el artículo 69 de esta Constitución, una vez emitida la respectiva declaración de procedencia. Dichos tribunales serán igualmente competentes para conocer de juicios en los que se impute la comisión de cualquiera de los delitos establecidos en el Título Segundo del Código Penal para el Estado de Tabasco, denominado Delitos contra el Erario y el Servicio Públicos; en ambos supuestos el juez de control de mayor antigüedad con sede en la capital del Estado será competente para sustanciar la etapa inicial del proceso.
 
-Es competencia de la Primera Sala de lo Penal del Tribunal Superior de Justicia, fungir como tribunal de enjuiciamiento; y del tribunal compuesto por los tres magistrados presidentes de las salas Segunda, Tercera y Cuarta de la misma materia, conocer en alzada en los juicios penales en los que se impute la responsabilidad de los servidores públicos señalados en el artículo 69 de esta Constitución, una vez emitida la respectiva declaración de procedencia. Dichos tribunales serán igualmente competentes para conocer de juicios en los que se impute la comisión de cualquiera de los delitos establecidos en el Título Segundo del Código Penal para el Estado de Tabasco, denominado Delitos contra el Erario y el Servicio Públicos; en ambos supuestos el juez de control de mayor antigüedad con sede en la capital del Estado será competente para sustanciar la etapa inicial del proceso; y
+De conformidad con la Ley General de Responsabilidades Administrativas y los ordenamientos estatales aplicables, se aplicarán sanciones Administrativas a los servidores públicos cuyos actos u omisiones afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones. De igual modo, conforme a lo señalado en el Artículo 109, fracción IV, de la Constitución General de la República, se sancionará a los particulares que incurran en actos vinculados con faltas administrativas graves.
 
-III.- Se aplicarán sanciones Administrativas a los servidores públicos por aquellos actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones.
+Tratándose de las responsabilidades administrativas de los Servidores Públicos del Poder Judicial del Estado, serán competentes para investigar e imponer las sanciones que correspondan, el Tribunal Superior de Justicia y el Consejo de la Judicatura del Poder Judicial, según corresponda. Lo anterior, sin perjuicio de las atribuciones del Órgano Superior de Fiscalización, en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
 
-Los procedimientos para la aplicación de las sanciones mencionadas se desarrollarán automáticamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
+Los entes públicos estatales y municipales tendrán órganos internos de control, dotados de las facultades que determine la ley, para prevenir, investigar y corregir actos u omisiones que pudieran constituir responsabilidades administrativas; para sancionar aquellas distintas de las que son facultad del Tribunal de Justicia Administrativa del Estado; revisar el ingreso, egreso, manejo, custodia y aplicación de recursos de que disponen; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito, ante las autoridades que corresponda.
 
-Las Leyes determinarán los casos y las circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito a los servidores Públicos que durante el tiempo de su encargo, o por motivo del mismo, por si o por interposita persona, aumenten substancialmente su patrimonio, adquieran bienes o se conduzcan como dueño sobre ellos, y cuya procedencia licita no pudiesen justificar. Las Leyes Penales Sancionarán con el decomiso y con la privación de la propiedad de dichos bienes; además de las otras penas que correspondan.
+Los procedimientos para la aplicación de las sanciones mencionadas en este artículo se desarrollarán en forma autónoma. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
 
-Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de pruebas, podrán formular denuncia ante la Cámara de Diputados del Estado, respecto de las conductas a las que se refiere el presente artículo.
+Las Leyes determinarán los casos y las circunstancias en los que se deba sancionar penalmente por causas de enriquecimiento ilícito a los servidores Públicos que durante el tiempo de su encargo, o por motivo del mismo, por sí o por interpósita persona, aumenten substancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, y cuya procedencia lícita no pudiesen justificar. Las leyes respectivas sancionarán con el decomiso y con la privación de la propiedad de dichos bienes o la extinción de dominio; además de las otras penas que corresponden.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2015)</small>
+Cualquier persona, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante la Cámara de Diputados del Estado, respecto de las conductas a las que se refiere el presente artículo.
+
+En el cumplimiento de sus atribuciones, a los órganos responsables de la investigación y sanción de responsabilidades administrativas y hechos de corrupción no les serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios.
+
+El Órgano Superior de Fiscalización, la Secretaría de Contraloría del Gobierno del Estado y los órganos internos de control de los entes públicos, podrán recurrir las determinaciones de la Fiscalía Especializada en Combate a la Corrupción y del Tribunal de Justicia Administrativa, de conformidad con lo previsto en la normatividad correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 68.
 
-Podrán ser sujetos de Juicio Político los diputados a la Legislatura local, los magistrados del Tribunal Superior de Justicia, los integrantes del Consejo de la Judicatura, el Consejero Presidente, los consejeros electorales y el Secretario Ejecutivo del Instituto Electoral y de Participación Ciudadana de Tabasco, los magistrados del Tribunal Electoral de Tabasco, los integrantes de los demás órganos constitucionales autónomos, los titulares de las Secretarías, los directores de la Administración Pública Estatal, el Fiscal General del Estado y los servidores públicos de mando superior de la Fiscalía hasta el nivel de director, los agentes del Ministerio Público, los presidentes municipales, los concejales, los síndicos de Hacienda, los directores generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos.
+Podrán ser sujetos de Juicio Político el Gobernador del Estado, los Diputados a la Legislatura Local, los magistrados del Tribunal Superior de Justicia, los integrantes del Consejo de la Judicatura, los magistrados del Tribunal de Justicia Administrativa, el Titular del Órgano Superior de Fiscalización, el Consejero Presidente, los consejeros electorales y el Secretario Ejecutivo del Instituto Electoral y de Participación Ciudadana de Tabasco, los magistrados del Tribunal Electoral de Tabasco, los integrantes de los demás órganos constitucionales autónomos, los titulares de las Dependencias, los directores de la Administración Pública Estatal, el Fiscal General del Estado y los servidores públicos de mando superior de la Fiscalía hasta el nivel de director, los agentes del Ministerio Público, los presidentes municipales, los concejales, los síndicos de Hacienda, los directores generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos.
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
 
@@ -2269,11 +2345,11 @@ Conociendo de la acusación, el Tribunal Superior de Justicia, erigido en Jurado
 
 Las declaraciones y resoluciones de la Cámara de Diputados y del Tribunal Superior de Justicia son inatacables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 69.
 
-Para proceder penalmente contra los diputados al Congreso del Estado, magistrados del Tribunal Superior de Justicia, magistrados del Tribunal Electoral de Tabasco, magistrados del Tribunal de lo Contencioso Administrativo, consejeros de la Judicatura, titulares de las Secretarías, Fiscal General del Estado de Tabasco, presidentes municipales, los concejales, los síndicos de Hacienda, así como el Consejero Presidente y los consejeros electorales del Consejo Estatal del Instituto Electoral y de Participación Ciudadana de Tabasco, así como los miembros de los demás órganos constitucionales autónomos, por la comisión de delitos durante el tiempo de su encargo, la Cámara de Diputados declarará, por mayoría absoluta de sus miembros presentes en sesión, si ha o no lugar a proceder contra el imputado.
+Para proceder penalmente contra el Gobernador del Estado, los diputados al Congreso del Estado, los magistrados del Tribunal Superior de Justicia, los magistrados del Tribunal Electoral de Tabasco, los magistrados del Tribunal de Justicia Administrativa, el Titular del Órgano Superior de Fiscalización, los consejeros de la Judicatura, los titulares de las Dependencias, el Fiscal General del Estado de Tabasco, los presidentes municipales, los concejales, los síndicos de Hacienda, así como el Consejero Presidente y los consejeros electorales del Consejo Estatal del Instituto Electoral y de Participación Ciudadana de Tabasco, así como los miembros de los demás órganos constitucionales autónomos, por la comisión de delitos durante el tiempo de su encargo, la Cámara de Diputados declarará, por mayoría absoluta de sus miembros presentes en sesión, si ha lugar o no a proceder contra el imputado.
 
 > <small>(REFORMADO, P.O. 7 DE JULIO DE 2012)</small>
 
@@ -2295,9 +2371,9 @@ El efecto de la declaración de que ha lugar a proceder contra el imputado será
 
 En demandas del órden Civil que se entablen contra cualquier servidor público, no se requerirá declaración de procedencia.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
 
-Las sanciones penales se aplicarán de acuerdo con lo dispuesto en la Legislación Penal.
+Las sanciones penales se aplicarán de acuerdo con lo dispuesto en la legislación penal, y tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, deberán graduarse de acuerdo con el lucro obtenido y con la necesidad de satisfacer los daños y perjuicios causados por su conducta ilícita.
 
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 1983)</small>
 
@@ -2311,15 +2387,13 @@ No se requerirá declaración de procedencia de la Cámara de Diputados, cuando 
 
 Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados en el artículo 69, se procederá de acuerdo con lo dispuesto en dicho precepto.
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1983)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 71.
 
-Las Leyes sobre responsabilidades Administrativas de los servidores Públicos determinarán sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señalen las Leyes, consistirán en suspención (sic), destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable, y con los daños y perjuicios patrimoniales causados por sus actos u omisiones a que se refiere la fracción III del artículo 67, pero que no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
+Los Servidores Públicos observarán en el desempeño de su empleo, cargo o comisión, los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público. Para la efectiva aplicación de dichos principios, los Servidores Públicos observarán las directrices establecidas por la ley, en el marco de los sistemas Nacional y Estatal Anticorrupción.
 
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2003)</small>
-
-La responsabilidad de los poderes del Estado, la de los ayuntamientos y la de los organismos autónomos, por los daños que con motivo de su actividad administrativa irregular causen en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes secundarias. El poder público de que se trate, estará facultado para ejercitar, con las formalidades del caso, en la vía o acción que se prevea en la ley de la materia; en contra del servidor público responsable, la resarción al patrimonio hacendario, del monto que por este motivo hubiere erogado.
+La responsabilidad de los poderes del Estado, la de los ayuntamientos y la de los organismos autónomos, por los daños que con motivo de su actividad administrativa irregular causen en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes secundarias. El ente público de que se trate estará facultado para ejercitar, con las formalidades del caso y en la vía o acción que se prevea en la ley de la materia, en contra del servidor público responsable del daño causado, la restitución a la Hacienda Pública del monto que se hubiere erogado con motivo de la responsabilidad referida en este párrafo. Lo anterior, independientemente de las responsabilidades de orden administrativo o penal a que hubiere lugar, en caso de acreditarse dolo o negligencia inexcusable por parte del servidor público responsable.
 
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 1983)</small>
 
@@ -2331,7 +2405,9 @@ Las sanciones correspondientes se apliccarán (sic) en un periódo no mayor de u
 
 La responsabilidad por delitos cometidos durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la Ley Penal, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeña alguno de los encargos a que hace referencia el artículo 69.
 
-La Ley señalará los casos de prescripción de la responsabilidad administrativa, tomando en cuenta la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción III del artículo 67. Cuando dichos actos u omisiones fuesen graves, los plazos de prescripción no serán inferiores a tres años.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
+
+La Ley señalará los casos de prescripción de la responsabilidad administrativa, tomando en cuenta la naturaleza y consecuencia de los actos y omisiones a que hace referencia el párrafo segundo del Artículo 67 de esta Constitución. Cuando dichos actos u omisiones fuesen graves, los plazos de prescripción no serán inferiores a siete años.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -2351,21 +2427,59 @@ La propaganda, bajo cualquier modalidad de comunicación social, que difundan co
 
 Las leyes, en sus respectivos ámbitos de aplicación, garantizarán el estricto cumplimiento de lo previsto en los dos párrafos anteriores, incluyendo el régimen de sanciones a que haya lugar.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE JUNIO DE 2017)</small>
+
+### CAPITULO II. DEL SISTEMA ESTATAL ANTICORRUPCIÓN
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2017)</small>
+
+###### ARTICULO 73 Bis.
+
+El Sistema Estatal Anticorrupción es la instancia de coordinación entre las autoridades de los órdenes de gobierno local y municipal en el Estado de Tabasco, competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como para la fiscalización y control de recursos públicos.
+
+Como parte integrante del Sistema Nacional Anticorrupción, el Sistema Estatal deberá coadyuvar al cumplimiento de los principios, bases generales, políticas públicas y procedimientos de coordinación que se establezcan en el marco del Sistema Nacional y la Ley General de la materia.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2017)</small>
+
+###### ARTICULO 73 Ter.
+
+El Sistema Estatal Anticorrupción se integra por:
+
+I. Los Integrantes del Comité Coordinador; y
+
+II. El Comité de Participación Ciudadana.
+
+El Comité Coordinador se formará con:
+
+I. Un representante del Comité de Participación Ciudadana, quien lo presidirá;
+
+II. El titular del Órgano Superior de Fiscalización del Estado;
+
+III. El titular de la Fiscalía Especializada en Combate a la Corrupción, de la Fiscalía General del Estado;
+
+IV. El titular de la Secretaría de Contraloría del Gobierno del Estado;
+
+V. El Presidente del Tribunal de Justicia Administrativa del Estado;
+
+VI. El Presidente del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública; y
+
+VII. Un representante del Consejo de la Judicatura del Estado.
+
+El Comité de Participación Ciudadana del Sistema tiene como objetivo coadyuvar, en términos de la ley, al cumplimiento de los objetivos del Comité Coordinador y del Sistema Estatal. Estará formado por cinco ciudadanos tabasqueños que se hayan distinguido por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción, quienes serán designados conforme a lo que establezca la ley.
+
+El Sistema Estatal Anticorrupción contará con una Secretaría Ejecutiva que se organizará y funcionará como un organismo descentralizado, con personalidad jurídica y patrimonio propio, no sectorizado, con autonomía técnica y de gestión.
+
+La Ley del Sistema Estatal Anticorrupción determinará la integración y atribuciones, así como la estructura orgánica y operativa necesaria para el adecuado cumplimiento de sus objetivos y fines, de conformidad con las bases que ordena la Ley General de la materia.
+
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
-### CAPITULO I. REFORMAS DE LA CONSTITUCION
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
-
-## TITULO IX. DE LAS REFORMAS Y DE LA INVIOLABILIDAD DE LA CONSTITUCION
+## TITULO VIII. PREVENCIONES GENERALES
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
-### CAPITULO II. INVIOLABILIDAD DE LA CONSTITUCION
+### CAPITULO UNICO
 
-> <small>N. DE E. DE LA LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. 13 DE SEPTIEMBRE DE 2013, PÁGINA 17, SE ADVIERTE LA ADICIÓN DEL CONTENIDO AL PRIMER PÁRRAFO RECORRIÉNDOSE EN SU ORDEN EL ANTERIOR PRIMERO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ###### ARTICULO 74.
 
@@ -2375,13 +2489,17 @@ Ningún ciudadano podrá desempeñar a la vez dos o más cargos de elección pop
 
 Todo funcionario y empleado público del Estado o de los Municipios, sin excepción alguna, antes de tomar posesión de su cargo otorgará ante quien corresponda protesta de cumplir las obligaciones que contrae, guardar y hacer guardar sin reserva alguna la Constitución General de la República, la del Estado y las Leyes que de ellas emanen, usándose la forma prevista en el Artículo 58 adaptándola a cada caso.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 75.
 
-El Gobernador del Estado, los diputados, los magistrados del Tribunal Superior de Justicia; del Tribunal Electoral de Tabasco; del Tribunal de Conciliación y Arbitraje, y del Tribunal de lo Contencioso Administrativo, los integrantes del Instituto Electoral y de Participación Ciudadana de Tabasco, del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública, los regidores de los Ayuntamientos y los demás servidores públicos del Estado y de los municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones, órganos y organismos autónomos y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que será proporcional a sus responsabilidades.
+El Gobernador del Estado, los diputados, los magistrados del Tribunal Superior de Justicia; del Tribunal Electoral de Tabasco; del Tribunal de Conciliación y Arbitraje; del Tribunal de Justicia Administrativa, los integrantes del Instituto Electoral y de Participación Ciudadana de Tabasco, del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública, los regidores de los Ayuntamientos y los demás servidores públicos del Estado y de los municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones, órganos y organismos autónomos y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que será proporcional a sus responsabilidades.
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2010)</small>
 
 Los poderes Legislativo, Ejecutivo y Judicial del Estado, los Ayuntamientos, así como los organismos con autonomía reconocida en esta Constitución o por la Ley, deberán incluir en sus proyectos de presupuestos, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos.
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2010)</small>
 
 Dicha remuneración será determinada anual y equitativamente en los presupuestos de egresos correspondientes, bajo las siguientes bases:
 
@@ -2433,7 +2551,7 @@ El Estado coadyuvará con la Federación, promoviendo las condiciones para el de
 
 El Estado impulsará también, junto con la Federación, la organización para la producción, industrialización y comercialización, que requiera la economía estatal y el beneficio de los campesinos.
 
-> <small>N. DE E. EN TÉRMINOS DEL TERCERO TRANSITORIO DEL DECRETO DE REFORMA, SE MANTIENEN VIGENTES LOS DOCE PÁRRAFOS ANTERIORES.</small>
+> <small>[N. DE E. EN TÉRMINOS DEL TERCERO TRANSITORIO DEL DECRETO DE REFORMA, SE MANTIENEN VIGENTES LOS DOCE PÁRRAFOS ANTERIORES.]</small>
 
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2015)</small>
 
@@ -2497,11 +2615,13 @@ La ciudad de Villahermosa es la Capital del Estado y la residencia de los Podere
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
-## Título Duodécimo.
+## TITULO IX. DE LAS REFORMAS Y DE LA INVIOLABILIDAD DE LA CONSTITUCION
 
-REFORMA A LA CONSTITUCION.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
-(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
+### CAPITULO I. REFORMAS DE LA CONSTITUCION
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 83.
 
@@ -2512,6 +2632,12 @@ La presente Constitución puede ser adicionada o reformada. Para que las adicion
 El Congreso o la Comisión Permanente, en su caso, harán el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobadas las adiciones o reformas.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+
+### CAPITULO II. INVIOLABILIDAD DE LA CONSTITUCION
+
+> <small>[N. DE E. DE LA LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. 13 DE SEPTIEMBRE DE 2013, PÁGINA 17, SE ADVIERTE LA ADICIÓN DEL CONTENIDO AL PRIMER PÁRRAFO RECORRIÉNDOSE EN SU ORDEN EL ANTERIOR PRIMERO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 84.
 
@@ -3141,7 +3267,35 @@ P.O. 24 DE ABRIL DE 2004.
 
 Este decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
 
-P.O. 12 DE DICIEMBRE DE 2016.
+P.O. 8 DE MARZO DE 2006.
+
+PRIMERO. El presente Decreto entrará en vigor a partir del 1 de enero del año 2007.
+
+P.O. 8 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose expedir y en su caso reformar las leyes; así como crear y adecuar las instituciones y autoridades que se requieran para su aplicación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, háganse llegar a cada uno de los 17 Ayuntamientos del Estado, copia fiel y exacta del Acuerdo del pleno y de su expediente, para que emitan su voto de aprobación o rechazo a las reformas y adición acordadas por la soberanía legislativa, con la previsión que si dentro del término de 15 días naturales siguientes a la fecha de su recepción y notificación respectiva, no emiten su voto, se le tendrá como aprobatorio el voto del Ayuntamiento omiso.
+
+P. O. 17 DE FEBRERO DE 2007.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Hasta en tanto no se hagan las reformas pertinentes a las disposiciones jurídicas secundarias seguirán aplicándose las vigentes en lo que no se opongan al presente Decreto.
+
+TERCERO.- Al Instituto Tabasqueño de Transparencia y Acceso a la Información Pública, creado por mandato de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco, publicada en el suplemento C, al Periódico Oficial 6723, el 10 de febrero de 2007, le será otorgada de manera inmediata la autonomía de gestión y presupuestaria con personalidad jurídica y patrimonio propio, sin que para ello deba crearse un nuevo Instituto, ni elegirse en consecuencia nuevos consejeros.
+
+CUARTO.- De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, háganse llegar a cada uno de los 17 Ayuntamientos del Estado, copia fiel y exacta del correspondiente Decreto, para que emitan su voto de aprobación o rechazo a las reformas y adición acordada, por la soberanía legislativa, con la previsión que si dentro del término de 15 días naturales siguientes a la fecha de su recepción y notificación respectiva, no emiten su voto, se tendrá como aprobatorio el voto del Ayuntamiento omiso.
+
+P.O. 8 DE NOVIEMBRE DE 2008.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3471,6 +3625,8 @@ SEGUNDO.- La Sexagésima Primera Legislatura deberá expedir la nueva Ley que no
 
 TERCERO.- En tanto se expiden las nuevas disposiciones legales y reglamentarias seguirán aplicándose, en lo conducente, las disposiciones de la Ley Orgánica del Poder Legislativo y del Reglamento Interior del Congreso, en todo lo que no se opongan a este Decreto.
 
+P.O. 12 DE DICIEMBRE DE 2016.
+
 ## [N. DE E. TRANSITORIOS DEL DECRETO 032 POR EL QUE “SE REFORMAN: LA FRACCIÓN XII DEL ARTICULO 36; EL PÁRRAFO PRIMERO Y LA FRACCIÓN I DEL PÁRRAFO SEGUNDO, DEL ARTÍCULO 40; LOS PÁRRAFOS PRIMERO Y TERCERO DEL ARTICULO 41; LA FRACCIÓN VII DEL ARTICULO 51; LOS PÁRRAFOS CUARTO, QUINTO Y SÉPTIMO DE LA FRACCIÓN VI DEL ARTICULO 65; EL PÁRRAFO TERCERO DEL ARTÍCULO 66; Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 76. SE ADICIONAN: UNA FRACCIÓN XXIV AL ARTÍCULO 36; UN PÁRRAFO OCTAVO A LA FRACCIÓN VI DEL ARTICULO 65; Y UN PÁRRAFO CUARTO AL ARTÍCULO 66; TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO”.]
 
 PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
@@ -3479,32 +3635,38 @@ SEGUNDO.- EI Congreso del Estado deberá realizar las adecuaciones normativas a 
 
 TERCERO.- De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, las presentes reformas y adiciones fueron aprobadas por los Ayuntamientos de la entidad.
 
-P.O. 8 DE MARZO DE 2006.
+P.O. 28 DE JUNIO DE 2017.
 
-PRIMERO. El presente Decreto entrará en vigor a partir del 1 de enero del año 2007.
+[TRANSITORIOS DEL DECRETO 103 POR EL QUE “SE REFORMAN: LOS ARTÍCULOS 9, APARTADO A, FRACCIÓN VIII, INCISO A); 15, PÁRRAFO PRIMERO, FRACCIÓN IV, SU PRIMER PÁRRAFO; 26, PÁRRAFOS PRIMERO Y SEGUNDO; 36, FRACCIONES XIII, XVI, XIX, XXX, XL Y XLI SEGUNDO PÁRRAFO; 40, EL PÁRRAFO PRIMERO, LAS FRACCIONES II A LA VII DEL PÁRRAFO SEGUNDO Y EL INCISO F) DEL PÁRRAFO NOVENO; 41, LOS PÁRRAFOS TERCERO, QUINTO Y SEXTO; 44, LA FRACCIÓN IV SU PÁRRAFO PRIMERO; 55 TER EL PÁRRAFO SEGUNDO; 57, PÁRRAFO PRIMERO, FRACCIÓN VI; 64 FRACCIÓN XI, INCISO F) SU PÁRRAFO PRIMERO; LA DENOMINACIÓN DEL TÍTULO SÉPTIMO, LLAMADO "RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS Y PATRIMONIAL DEL ESTADO", PARA SER "DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS Y DEL SISTEMA ESTATAL ANTICORRUPCIÓN" Y SU CAPÍTULO ÚNICO PARA SER EL CAPITULO I, DE NOMBRE "DE LAS RESPONSABILIDADES DE SERVIDORES PÚBLICOS Y DE PARTICULARES; Y PATRIMONIAL DEL ESTADO"; 66, PÁRRAFOS SEGUNDO Y TERCERO; 67; 68, PÁRRAFO PRIMERO; 69, PÁRRAFOS PRIMERO Y SÉPTIMO; 71; 72, PÁRRAFO CUARTO; Y 75, PÁRRAFO PRIMERO. SE ADICIONAN: LOS PÁRRAFOS TERCERO Y CUARTO A LA FRACCIÓN XLI DEL ARTÍCULO 36; LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 40 Y SE RECORREN EN SU ORDEN LOS ACTUALES PÁRRAFOS DEL SEGUNDO AL UNDÉCIMO, PARA SER LOS PÁRRAFOS CUARTO AL DÉCIMO TERCERO; UN PÁRRAFO QUINTO AL ARTÍCULO 54 TER, RECORRIÉNDOSE EN SU ORDEN LOS ACTUALES PÁRRAFOS QUINTO AL OCTAVO, PARA SER DEL SEXTO AL NOVENO; UN TÍTULO V BIS DENOMINADO "DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA" QUE CONSTA DE UN CAPÍTULO ÚNICO INTEGRADO POR LOS ARTÍCULOS 63 TER Y 63 QUATER; UN CAPÍTULO II AL TÍTULO SÉPTIMO, DENOMINADO DEL SISTEMA ESTATAL ANTICORRUPCIÓN, INTEGRADO POR LOS ARTÍCULOS 73 BIS Y 73 TER; TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO”.]
 
-P.O. 8 DE SEPTIEMBRE DE 2006.
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco, sin perjuicio de lo señalado en los artículos subsecuentes.
 
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose expedir y en su caso reformar las leyes; así como crear y adecuar las instituciones y autoridades que se requieran para su aplicación.
+SEGUNDO. El Congreso del Estado expedirá la Ley del Sistema Estatal Anticorrupción y la Ley de Justicia Administrativa del Estado de Tabasco, así como realizará las reformas conducentes a las leyes de Responsabilidades de los Servidores Públicos que reglamenta el Título Séptimo de la Ley Fundamental del Estado de Tabasco, de Fiscalización Superior del Estado, Orgánica del Poder Ejecutivo del Estado de Tabasco, Orgánica del Poder Judicial del Estado de Tabasco, Orgánica de los Municipios del Estado de Tabasco, Orgánica de la Fiscalía General del Estado de Tabasco y al Código Penal para el Estado de Tabasco, así como a los demás ordenamientos legales que resulte necesario, a más tardar el 18 de julio de 2017.
 
-SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+TERCERO. En tanto se expiden y reforman los ordenamientos señalados en el artículo anterior, continuarán en vigor las disposiciones actuales, en lo que no se opongan a las reformas a que se refiere el presente Decreto, en términos de lo establecido por el régimen transitorio del Decreto del 27 de mayo de 2015, por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de combate a la corrupción; y del diverso del 18 de julio de 2016, por el que se expide la Ley General del Sistema Nacional Anticorrupción; la Ley General de Responsabilidades Administrativas, y la Ley Orgánica del Tribunal Federal de Justicia Administrativa, respectivamente, ambos publicados en el Diario Oficial de la Federación.
 
-TERCERO.- De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, háganse llegar a cada uno de los 17 Ayuntamientos del Estado, copia fiel y exacta del Acuerdo del pleno y de su expediente, para que emitan su voto de aprobación o rechazo a las reformas y adición acordadas por la soberanía legislativa, con la previsión que si dentro del término de 15 días naturales siguientes a la fecha de su recepción y notificación respectiva, no emiten su voto, se le tendrá como aprobatorio el voto del Ayuntamiento omiso.
+En su caso, las nuevas leyes del Sistema Estatal Anticorrupción y de Justicia Administrativa del Estado de Tabasco, deberán prever el régimen de transición adecuado y suficiente para que la integración de las nuevas instituciones en las materias que regulan y los procedimientos que se encuentren en desarrollo conforme a las actuales instituciones y ordenamientos, continúen siendo tramitados.
 
-P. O. 17 DE FEBRERO DE 2007.
+De igual manera, en el régimen transitorio de cada ordenamiento que se expida o reforme, según corresponda, se garantizarán tanto la suficiencia presupuestaria para la adecuada operación de las nuevas instituciones, como el respeto de los derechos de los servidores públicos que laboran actualmente en ellas.
 
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+CUARTO. Con las salvedades señaladas en los artículos transitorios que anteceden, se derogan todas las disposiciones que se opongan al presente Decreto.
 
-SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+P.O. 28 DE JUNIO DE 2017.
 
-P.O. 22 DE DICIEMBRE DE 2007.
+## [N. DE E. TRANSITORIOS DEL DECRETO 104 POR EL QUE “SE REFORMAN, LA FRACCIÓN IV, DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 3, Y EL SÉPTIMO PÁRRAFO DEL ARTÍCULO 56, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO.- Hasta en tanto no se hagan las reformas pertinentes a las disposiciones jurídicas secundarias seguirán aplicándose las vigentes en lo que no se opongan al presente Decreto.
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
 
-TERCERO.- Al Instituto Tabasqueño de Transparencia y Acceso a la Información Pública, creado por mandato de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco, publicada en el suplemento C, al Periódico Oficial 6723, el 10 de febrero de 2007, le será otorgada de manera inmediata la autonomía de gestión y presupuestaria con personalidad jurídica y patrimonio propio, sin que para ello deba crearse un nuevo Instituto, ni elegirse en consecuencia nuevos consejeros.
+P.O. 28 DE JUNIO DE 2017.
 
-CUARTO.- De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, háganse llegar a cada uno de los 17 Ayuntamientos del Estado, copia fiel y exacta del correspondiente Decreto, para que emitan su voto de aprobación o rechazo a las reformas y adición acordada, por la soberanía legislativa, con la previsión que si dentro del término de 15 días naturales siguientes a la fecha de su recepción y notificación respectiva, no emiten su voto, se tendrá como aprobatorio el voto del Ayuntamiento omiso.
+## [N. DE E. TRANSITORIOS DEL DECRETO 105 POR EL QUE “SE ADICIONA UN PÁRRAFO A LA FRACCIÓN IV, QUE SE UBICA COMO SEGUNDO Y SE RECORRE EL ACTUAL, QUEDANDO COMO TERCERO; Y SE REFORMA EL INCISO F), DE LA FRACCIÓN XI, AMBAS DEL ARTÍCULO 64, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO”.]
 
-P.O. 8 DE NOVIEMBRE DE 2008.
+PRIMERO.- El correspondiente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- El Congreso del Estado deberá realizar las adecuaciones normativas a las Leyes Locales que en su caso sean necesarias.
+
+TERCERO.- De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, las presentes reformas y adiciones fueron aprobadas por los Ayuntamientos de la entidad.
+
+CUARTO.- Se derogan las disposiciones que se opongan al presente decreto.
