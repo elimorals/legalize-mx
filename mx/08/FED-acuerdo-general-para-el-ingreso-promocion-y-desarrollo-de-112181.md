@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-para-el-ingreso-promocion-y-desarrollo-de-11218
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-02-02"
-last_updated: "2016-10-27"
+last_updated: "2017-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112181&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-01-22"
 
 ACUERDO GENERAL PARA EL INGRESO, PROMOCIÓN Y DESARROLLO DE LA CARRERA JUDICIAL CON PARIDAD DE GÉNERO, EN EL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE JUNIO DE 2017.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el martes 2 de febrero de 2016.
 
@@ -259,35 +259,43 @@ El Centro de Capacitación aplicará los exámenes preferentemente en las instal
 
 Sólo podrán inscribirse en los exámenes de aptitud, las personas que reúnan los requisitos previstos en los artículos 216 y 217 de la Ley Orgánica y los establecidos en el Catálogo de Puestos.
 
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2017)</small>
+
 ###### Artículo 26.
 
-Con el propósito de otorgar mayor eficiencia a los procedimientos de publicidad de las convocatorias, etapa de inscripción y realización de exámenes en condiciones de paridad de género, se privilegiará el uso de sistemas informáticos.
-
-Para ello, en caso de que se posibilite a las y los aspirantes la remisión de su documentación por medios electrónicos, éstos deberán manifestar bajo protesta de decir verdad, que la información que envían por ese conducto es auténtica y que se comprometen a presentarla en cualquier momento que les sea solicitada, ya sea en original o copia certificada.
-
-En caso de no presentarla, sin causa justificada y comprobada, dentro de los plazos que se les otorgue para ello, se les excluirá del proceso de selección correspondiente.
-
-Las evaluaciones serán videograbadas y puestas a disposición del público a través del portal de internet del Tribunal Electoral para fomentar la transparencia del procedimiento, garantizando la protección de los datos personales.
+Con el propósito de otorgar mayor eficiencia a los procedimientos de publicidad de las convocatorias, etapa de inscripción, realización de exámenes y entrevistas en condiciones de paridad de género, se privilegiará el uso de sistemas informáticos.
 
 ###### Artículo 27.
 
 La elaboración de los exámenes de aptitud será responsabilidad del Centro de Capacitación, en coordinación con la Secretaría General de Acuerdos y la Coordinación de Jurisprudencia Seguimiento y Consulta de la Sala Superior del Tribunal Electoral.
 
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2017)</small>
+
 ###### Artículo 28.
 
-Para coadyuvar en la calificación de los exámenes de aptitud, se integrará un Comité Evaluador conformado por personas integrantes del Secretariado Instructor o de Estudio y Cuenta de Sala Superior y del Comité Académico, designadas por las Magistradas y los Magistrados de la Sala Superior, el cual estará integrado igualmente bajo el principio de paridad de género.
+Para coadyuvar en la calificación de los exámenes de aptitud, así como para realizar las entrevistas se integrará un Comité Evaluador, el cual será conformado, bajo el principio de paridad de género, por personas integrantes del Secretariado Instructor o de Estudio y Cuenta de Sala Superior y del Comité Académico, designadas por las Magistradas y los Magistrados de la Sala Superior.
 
-De la evaluación
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 28 DE JUNIO DE 2017)</small>
+
+De la evaluación y entrevistas
+
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2017)</small>
 
 ###### Artículo 29.
 
-Los exámenes de aptitud evaluarán los conocimientos y habilidades de las y los aspirantes a ingresar en cada categoría del Sistema de Carrera Judicial, y estarán conformados por dos etapas. En cada etapa se asignarán puntos, los cuales se sumarán para obtener la calificación final en una escala en la que cien puntos será el puntaje máximo que podrá obtener una persona. La calificación mínima aprobatoria será de ochenta puntos sobre cien.
+Los exámenes de aptitud evaluarán los conocimientos y habilidades de las y los aspirantes a ingresar en cada categoría del Sistema de Carrera Judicial, y estarán conformados por dos etapas. La primera etapa consistirá en el examen práctico y la segunda en el examen teórico. En ambas etapas se asignarán puntos, los cuales se sumarán para obtener la calificación final en una escala en la que cien puntos será el puntaje máximo que podrá obtenerse. La calificación mínima aprobatoria será de ochenta puntos sobre cien.
+
+La tercera etapa consistirá en la entrevista y para acceder a ella, será necesario que las y los aspirantes obtengan, previamente, la calificación mínima aprobatoria a que se refiere el párrafo anterior. La entrevista se realizará por el Comité Evaluador en forma presencial o a través del sistema de videoconferencia, de acuerdo con los rubros y puntos que se establezcan en la convocatoria.
+
+La entrevista no será determinante para la habilitación en el Sistema de Carrera Judicial del Tribunal Electoral, sino un elemento adicional para la evaluación de habilidades y aptitudes de las y los aspirantes, relativas a: la capacidad de comprender y expresar problemas y conocimientos, incluida la expresión oral, capacidad de análisis y de presentación de las causas judiciales, capacidad de argumentar y debatir acerca de los criterios jurisprudenciales, de su aplicación a casos concretos y posible impacto en el proceso electoral; mismas que podrán ser tomadas en cuenta por la o el titular del área o ponencia para su adscripción a éstas, sin perjuicio de lo establecido en el artículo 38 del presente acuerdo.
+
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2017)</small>
 
 ###### Artículo 30.
 
 La primera etapa aportará hasta sesenta puntos de la calificación final y consistirá en la redacción de la parte considerativa de una sentencia o en la redacción de actuaciones actuariales.
 
-De tales ejercicios se evaluará:
+Para la puntuación de tales ejercicios se evaluarán los siguientes rubros:
 
 a) Para el Secretariado Instructor y de Estudio y Cuenta de Sala Superior, y Secretariado de Estudio y Cuenta de Sala Regional:
 
@@ -311,13 +319,11 @@ los puntos controvertidos que deben ser
 
 estudiados.
 
-Redacción y sintaxis. El proyecto de sentencia Hasta cinco
+Redacción y sintaxis. Evalúa el apego a las Hasta quince
 
-deberá estar redactado con apego a las reglas
+reglas de la sintaxis y la ortografía.
 
-de la sintaxis y la ortografía.
-
-Orden, congruencia y visión integral del caso. Hasta veinte
+Orden, congruencia y visión integral del caso. Hasta quince
 
 Tiene como objetivo evaluar la claridad,
 
@@ -325,7 +331,7 @@ congruencia, exhaustividad y secuencia lógica
 
 de las consideraciones que se formulen.
 
-Argumentación, solidez de los razonamientos y Hasta veinticinco
+Argumentación, solidez de los razonamientos y Hasta veinte
 
 sustento normativo, jurisprudencial y teórico.
 
@@ -341,13 +347,17 @@ derechos humanos.
 
 b) Para la Actuaría, en cada actuación se calificará:
 
+RUBRO QUE SE EVALÚA PUNTAJE PARA CADA
+
+RUBRO
+
 Motivo y materia. Se deberá motivar Hasta diez
 
 el actuar atendiendo a lo ordenado
 
 en la sentencia.
 
-Fundamento normativo: Se deberá Hasta cinco
+Fundamento normativo: Se deberá Hasta quince
 
 identificar con exactitud las disposiciones
 
@@ -367,7 +377,7 @@ estar redactadas con apego a las reglas
 
 de la sintaxis y a la ortografía.
 
-Orden, congruencia del motivo o materia: Hasta veinticinco
+Orden, congruencia del motivo o materia: Hasta quince
 
 En cada actuación la o el aspirante
 
@@ -404,6 +414,34 @@ La o el aspirante podrá inconformarse por los resultados obtenidos dentro de lo
 ###### Artículo 37.
 
 El Comité de Capacitación y Carrera Judicial resolverá las inconformidades dentro del plazo de veinte días hábiles posteriores a su recepción. La resolución emitida será definitiva e inatacable, y deberá ser notificada de manera personal, vía correo electrónico, al reclamante, o bien, en el domicilio que señale para tal efecto.
+
+> <small>(ADICIONADO, D.O.F. 28 DE JUNIO DE 2017)</small>
+
+###### Artículo 37 Bis.
+
+El día hábil siguiente a que se den a conocer los resultados de los exámenes de aptitud, el Centro de Capacitación publicará, en el sitio de internet del Tribunal Electoral, las fechas y horas en que se realizarán las entrevistas por el Comité Evaluador.
+
+Las entrevistas se programarán para efectuarse dentro de los diez días hábiles siguientes a la publicación indicada en el párrafo anterior.
+
+Dentro de los cinco días hábiles siguientes a la realización de la última entrevista, el Centro de Capacitación publicará, en el sitio de internet del Tribunal Electoral, los resultados obtenidos en esta etapa. Dicha publicación surtirá efectos de notificación para las y los aspirantes.
+
+> <small>(ADICIONADO, D.O.F. 28 DE JUNIO DE 2017)</small>
+
+###### Artículo 37 Ter.
+
+Las y los aspirantes podrán solicitar la revisión de los resultados obtenidos en la entrevista al Comité Evaluador. Para ello, deberán enviar un correo electrónico, dentro de los tres días hábiles siguientes a la publicación de los resultados, a la dirección electrónica que indique el Centro de Capacitación en la misma publicación
+
+El Comité Evaluador resolverá las solicitudes que se presenten, en única instancia y dentro del plazo de diez días hábiles siguientes a la recepción del correo electrónico respectivo.
+
+Para tal efecto, el Comité Evaluador integrará un grupo revisor con tres de sus miembros que no hayan participado en las entrevistas de las y los aspirantes que solicitan la revisión.
+
+Las resoluciones del grupo revisor tendrán carácter definitivo, deberán estar fundadas y motivadas, y serán notificadas por el mismo grupo revisor a las y los aspirantes, mediante correo electrónico.
+
+Una vez que el Comité de Capacitación y Carrera Judicial resuelva en definitiva las inconformidades a que se refiere el artículo 37, relativas a las etapas determinantes para la habilitación en el Sistema de Carrera Judicial del Tribunal Electoral, deberá esperar a que el Comité Evaluador resuelva las solicitudes de la etapa de entrevista para aprobar la lista de habilitados.
+
+Lo anterior, a fin de que en la lista de habilitados generada se puedan integrar los resultados que se deriven de la etapa de entrevista, con independencia de no ser determinantes para la habilitación en el Sistema de Carrera Judicial del Tribunal Electoral.
+
+Corresponde al Centro de Capacitación publicar, en el sitio de internet del Tribunal Electoral, la lista de habilitados respectiva el día hábil siguiente a aquel en que el Comité de Capacitación y Carrera Judicial la apruebe. Dicha publicación surtirá efectos de notificación para las y los interesados.
 
 De los Nombramientos
 
@@ -620,3 +658,7 @@ SEGUNDO. Se derogan todas aquellas disposiciones que contravengan la adición ap
 TERCERO. Para su mayor difusión, publíquese en las páginas de Intranet e Internet del Tribunal Electoral del Poder Judicial de la Federación.
 
 CUARTO. Todas aquellas personas que se encontraban en la lista de habilitados al momento de entrar en vigor el Acuerdo General para el Ingreso, Promoción y Desarrollo de la Carrera Judicial con Paridad de Género, en el Tribunal Electoral del Poder Judicial de la Federación, que por alguna razón hayan causado baja de la plaza de Carrera Judicial, conservarán su habilitación por un período de tres años, posterior a la determinación de dicha baja, en términos de lo dispuesto por el párrafo cuarto del artículo 23 del propio Acuerdo General.
+
+D.O.F. 28 DE JUNIO DE 2017.
+
+> <small>[N. DE E. LAS "MODIFICACIONES AL ACUERDO GENERAL PARA EL INGRESO, PROMOCIÓN Y DESARROLLO DE LA CARRERA JUDICIAL CON PARIDAD DE GÉNERO EN EL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN", NO SEÑALAN DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3°. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
