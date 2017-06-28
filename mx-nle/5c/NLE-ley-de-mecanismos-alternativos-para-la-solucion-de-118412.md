@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-mecanismos-alternativos-para-la-solucion-de-118412"
 country: "mx"
 rank: "ley"
 publication_date: "2017-01-13"
-last_updated: "2017-01-13"
+last_updated: "2017-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118412&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # LEY DE MECANISMOS ALTERNATIVOS PARA LA SOLUCION DE CONTROVERSIAS PARA EL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE MECANISMOS ALTERNATIVOS PARA LA SOLUCIÓN DE CONTROVERSIAS PARA EL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el viernes 13 de enero de 2017.
 
@@ -153,13 +155,21 @@ III. Flexibilidad. El procedimiento de que se trate evitará sujetarse al cumpli
 
 IV. Honestidad. Es obligación del facilitador excusarse de participar en un procedimiento por falta de aptitudes suficientes, o cuando se ubique en alguno de los supuestos de impedimentos y excusas a que alude la legislación procesal aplicable al conflicto;
 
-V. Imparcialidad: El facilitador debe contener sus impulsos naturales de simpatía, agrado o concordancia con determinadas ideas, situaciones o partes que se encuentren involucradas en un mecanismo alternativo. Asimismo, el facilitador deberá evitar situaciones que le generen dependencia entre él y las partes que pueda o que al menos parezca que pueda, afecte la libertad del facilitador para desempeñar su encargo. Así las partes reciben el mismo trato y pueden percibir que el facilitador es una persona libre de favoritismos respecto de su controversia, que ha asumido el compromiso de apoyarlos por igual, sin propiciar ventajas para una u otra parte;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2017)</small>
 
-VI. Neutralidad: Es la obligación del facilitador para abstenerse de emitir juicios u opiniones que puedan influir en las conclusiones a que arriben las partes, con excepción del procedimiento de conciliación y de aquellos casos en los que éste advierta la existencia de posibles hechos delictivos o de violencia familiar, en cuyo caso deberá dar por terminado el procedimiento correspondiente, tomando las medidas que sean necesarias para proteger la integridad física y emocional de los participantes;
+V. Independencia: La persona propuesta como facilitador debe dar a conocer a las partes cualesquiera hechos o circunstancias susceptibles, desde el punto de vista de las partes, de poner en duda su independencia, así como cualquier circunstancia que pudiere dar a lugar a dudas razonables sobre su imparcialidad. El facilitador de que se trate será confirmado en su encargo cuando las declaraciones que haya manifestado no contengan ninguna reserva respecto de su imparcialidad e independencia o, si la contiene, ésta no haya provocado alguna objeción de las partes;
 
-VII. Voluntariedad: Las partes deberán estar libres de presión alguna para acudir, permanecer o retirarse del mecanismo alternativo de que se trate; aportar la información que consideren pertinente; así como decidir si llegan o no a un convenio, elaborado por ellos mismos; y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE JUNIO DE 2017)</small>
 
-VIII. Independencia: La persona propuesta como facilitador debe dar a conocer a las partes cualesquiera hechos o circunstancias susceptibles, desde el punto de vista de las partes, de poner en duda su independencia, así como cualquier circunstancias (sic) que pudiere dar a lugar a dudas razonables sobre su imparcialidad. El facilitador de que se trate será confirmado en su encargo cuando las declaraciones que haya manifestado no contienen ninguna reserva respecto de su imparcialidad e independencia o, si la contiene, ésta no haya provocado alguna objeción de las partes.
+VI. Imparcialidad: El facilitador debe contener sus impulsos naturales de simpatía, agrado o concordancia con determinadas ideas, situaciones o partes que se encuentren involucradas en un mecanismo alternativo. Asimismo, el facilitador deberá evitar situaciones que le generen dependencia entre él y las partes que pueda o que al menos parezca que pueda, afecte la libertad del facilitador para desempeñar su encargo. Así las partes reciben el mismo trato y pueden percibir que el facilitador es una persona libre de favoritismos respecto de su controversia, que ha asumido el compromiso de apoyarlos por igual, sin propiciar ventajas para una u otra parte;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2017)</small>
+
+VII. Neutralidad: Es la obligación del facilitador para abstenerse de emitir juicios u opiniones que puedan influir en las conclusiones a que arriben las partes, con excepción del procedimiento de conciliación y de aquellos casos en los que éste advierta la existencia de posibles hechos delictivos o de violencia familiar, en cuyo caso deberá dar por terminado el procedimiento correspondiente, tomando las medidas que sean necesarias para proteger la integridad física y emocional de los participantes; y
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2017)</small>
+
+VIII. Voluntariedad: Las partes deberán estar libres de presión alguna para acudir, permanecer o retirarse del mecanismo alternativo de que se trate; aportar la información que consideren pertinente; así como decidir si llegan o no a un convenio, elaborado por ellos mismos.
 
 Las partes tendrán la libertad de continuar o no en el procedimiento respectivo, cuando por disposición legal o en virtud de una cláusula compromisoria, se encuentren obligadas a sujetarse a la solución de una controversia por el mecanismo alternativo antes de acudir a una instancia jurisdiccional.
 
@@ -185,7 +195,9 @@ Los facilitadores deberán de excusarse de intervenir en la tramitación o resol
 
 ## TITULO SEGUNDO. Del Instituto de Mecanismos Alternativos para la Solución de Controversias del Poder Judicial del Estado de Nuevo León
 
-### Capítulo I. Objetivos Generales
+> <small>(REFORMADO EN SU NUMERACIÓN, P.O. 28 DE JUNIO DE 2017)</small>
+
+### Capítulo Único. Objetivos Generales
 
 ###### Artículo 8.
 
@@ -257,7 +269,9 @@ III. A instancia de una de las partes; y
 
 IV. Por la existencia de una cláusula compromisoria o acuerdo de mecanismo alternativo, antes del surgimiento de la controversia, o después del surgimiento del mismo, cuando no se ha instaurado respecto de esta causa administrativa o jurisdiccional alguna.
 
-En caso de que uno o más de los participantes no deseen abordar la controversia en el mecanismo alternativo elegido, podrá optarse por otro, o solicitarse de común acuerdo, en su caso, la reanudación de la investigación o procedimiento jurisdiccional suspendido, en términos de la legislación procesal aplicable; en este último caso, si sólo una de las partes desea reanudar la causa judicial de que se trate, la autoridad deberá notificar de esta circunstancia, de manera fehaciente, a todas las partes involucradas, a cargo de la autoridad correspondiente.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
+
+En caso de que uno o más de los participantes no deseen abordar la controversia en el mecanismo alternativo elegido, podrá optarse por otro, o solicitarse de común acuerdo, en su caso, la reanudación del procedimiento jurisdiccional suspendido, en términos de la legislación procesal aplicable; en este último caso, si sólo una de las partes desea reanudar la causa judicial de que se trate, la autoridad deberá notificar de esta circunstancia, de manera fehaciente, a todas las partes involucradas, a cargo de la autoridad correspondiente.
 
 Las partes que hayan acordado abordar la controversia respectiva a través de un mecanismo alternativo distinto, bien sea por iniciativa propia o por sugerencia del facilitador, podrán hacerlo, dejándose constancia de este acto en el expediente respectivo, debiéndose abrir uno nuevo.
 
@@ -265,9 +279,11 @@ Las partes que hayan acordado abordar la controversia respectiva a través de un
 
 La cláusula compromisoria, así como el acuerdo o compromiso para someterse a un mecanismo alternativo, pueden determinar el sujetar todas o algunas de las diferencias que se susciten en relación con un asunto o contrato determinado; si éstas no se especifican, se presume que el mecanismo alternativo elegido será aplicable en todas las diferencias que puedan surgir de los mismos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2017)</small>
+
 ###### Artículo 15.
 
-Los interesados en solucionar una controversia mediante un mecanismo alternativo, deberán comparecer personalmente a las sesiones; no obstante, tratándose de asuntos de naturaleza civil, mercantil y administrativa, podrán hacerlo por conducto de apoderado en los términos del Código Civil para el Estado de Nuevo León; y, tratándose de personas morales, lo harán por conducto de apoderado que cuente con poder general para pleitos y cobranzas, o especial para someter la solución de controversias a través del mecanismo alternativo elegido, endosatario en propiedad o procuración para el cobro de títulos de crédito.
+Los interesados en solucionar una controversia mediante un mecanismo alternativo, deberán comparecer personalmente a las sesiones; no obstante, tratándose de asuntos de naturaleza civil, y administrativa, podrán hacerlo por conducto de apoderado, siempre y cuando se acredite que materialmente es imposible su comparecencia; y, tratándose de personas morales, lo harán por conducto de apoderado que cuente con poder general para pleitos y cobranzas o especial para someter la solución de controversias a través del mecanismo alternativo elegido.
 
 En el caso de menores de edad o incapaces, deberá comparecer quien ejerza la patria potestad o la tutela. Las personas menores de edad podrán ser invitadas a las sesiones de mecanismos alternativos o cuando su intervención sea útil, a juicio del facilitador.
 
@@ -337,9 +353,11 @@ VIII. Previa lectura que en voz alta haga el facilitador, suscribir el convenio 
 
 IX. Las demás que se deriven de las disposiciones legales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2017)</small>
+
 ###### Artículo 22.
 
-Los intervinientes que soliciten y reciban servicios de mecanismos alternativos están obligadas (sic) a:
+Los intervinientes que soliciten y reciban servicios de mecanismos alternativos están obligados a:
 
 I. Asistir a cada una de las sesiones de mecanismos alternativos personalmente o por conducto de su representante, según corresponda;
 
@@ -381,13 +399,19 @@ De la declaración de improcedencia o conclusión del mecanismo alternativo, se 
 
 La justicia restaurativa se podrá obtener a través de cualquier metodología a elección de las partes, incluidos los mecanismos alternativos contemplados por la presente Ley, únicamente debiendo de observar los siguientes principios:
 
-A). Encuentro entre los intervinientes;
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
+
+A). Encuentro entre las personas involucradas en la controversia;
 
 B). Enmiendas acordadas por las partes como compensación o restauración del daño y/o perjuicio sufrido por la parte ofendida, sea de naturaleza moral o patrimonial;
 
-C). Reintegración dentro de la comunidad para la parte ofensora; y
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
 
-D). Inclusión de todas las partes dentro del proceso de justicia restaurativa.
+C). Responsabilidad y restauración dentro de la comunidad para todos (sic) las personas involucradas; y
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
+
+D). Inclusión de todas las personas involucradas en la controversia dentro del proceso de justicia restaurativa.
 
 La justicia restaurativa se podrá aplicar para la reparación del daño o perjuicio derivados de cualquier controversia, independientemente de su origen o materia, sin embargo, la justicia restaurativa, para los términos de esta ley, únicamente se podrá aplicar para solucionar controversias que se susciten en materia familiar, civil, escolar y comunitaria.
 
@@ -399,7 +423,9 @@ De los efectos de los mecanismos alternativos de solución de controversias.
 
 El inicio y tramitación de un mecanismo alternativo deberá considerarse para los efectos de la prescripción. Cuando las partes acudan formalmente a dar inicio a un mecanismo alternativo ante un facilitador, se entenderá que el cómputo del plazo para la prescripción quedara interrumpido durante el tiempo que dure el proceso alternativo.
 
-Cuando el mecanismo alternativo concluya sin lograrse ningún convenio o resolución, el cómputo volverá a correr desde el día en que se interrumpió el plazo, contando a partir del día siguiente en que el facilitador declare la terminación del proceso alternativo.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
+
+Cuando el mecanismo alternativo concluya sin lograrse ningún convenio o resolución, el cómputo volverá a correr a partir del día siguiente en que el facilitador declare la terminación del proceso alternativo.
 
 ###### Artículo 26.
 
@@ -411,7 +437,9 @@ II. Señalar lugar y fecha de su celebración;
 
 III. Señalar el nombre, razón social o denominación social y los generales de los participantes, así como los datos de la documentación oficial con fotografía con la que acrediten la identidad personal. Cuando en la tramitación del mecanismo alternativo hayan intervenido representantes o apoderados legales, deberá hacerse constar el documento con el que acreditaron dicho carácter;
 
-IV. Describir la controversia y demás antecedentes que resulten pertinentes;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2017)</small>
+
+IV. Describir brevemente la naturaleza y materia de la controversia y demás antecedentes que resulten pertinentes;
 
 V. Especificar los acuerdos a que hubieren llegado los participantes, debiendo precisar las obligaciones de dar, hacer o no hacer que hubieren acordado los participantes, así como el lugar, el modo, la substancia y el tiempo en que estas deberán cumplirse, las penas convencionales o las modalidades pactadas, en su caso. Las obligaciones de contenido ético o moral podrán constar en este documento, más no serán susceptibles de ejecución coactiva;
 
@@ -423,13 +451,17 @@ VIII. Contener el nombre, la firma o huella dactilares, según sea el caso y nú
 
 IX. El convenio se suscribirá por tantos números de originales como intervinientes hayan participado; entregándose un ejemplar a cada una (sic) de ellos. Cuando el convenio se presente para su ratificación o registro, se deberán acompañar en original junto con los documentos a los que se refiere la fracción III del presente artículo.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
+
 ###### Artículo 27.
 
-El convenio del mecanismo alternativo, en el supuesto de que derive de un procedimiento jurisdiccional, deberá ser presentado ante la autoridad que conozca sobre dicho procedimiento, para el efecto de que constate que el mismo no sea contrario al orden público, ni se afecten derechos de terceros, a efecto de que sea sancionado y se le den efectos de cosa juzgada o, en su caso, de sentencia ejecutoriada, en los casos que proceda.
+El convenio del mecanismo alternativo, en el supuesto de que derive de un procedimiento jurisdiccional, deberá ser presentado ante la autoridad que conozca sobre dicho procedimiento, para el efecto de que constate que el mismo no sea contrario al orden público, ni se afecten derechos de terceros. Hecho lo anterior será sancionado, surtiendo los efectos de cosa juzgada o, en su caso, de sentencia ejecutoriada, en los supuestos que proceda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2017)</small>
 
 ###### Artículo 28.
 
-El convenio de mecanismo alternativo celebrado ante los facilitadores del Instituto ratificado por los intervinientes y sancionado por el Director, tiene igual eficacia y autoridad que la cosa juzgada o que la sentencia ejecutoriada, una vez cumplidas las disposiciones legales aplicables. La ejecución forzosa se realizará por la vía de apremio en la forma y términos que señala la legislación procesal para las sentencias dictadas por los jueces del Estado.
+El convenio de mecanismo alternativo celebrado ante los facilitadores del Instituto ratificado por los intervinientes y sancionado por el Director, tiene igual eficacia y autoridad que la cosa juzgada o que la sentencia ejecutoriada, una vez cumplidas las disposiciones legales aplicables. En caso de incumplimiento, y ante la inejecución voluntaria de lo pactado, la ejecución forzosa procederá por la vía de apremio en la forma y términos que señala la legislación procesal para las sentencias dictadas por los jueces del Estado.
 
 Surtirán el mismo efecto los convenios emanados de mecanismos alternativos conducidos por facilitadores privados certificados por el Instituto que sean celebrados con las formalidades que señala esta Ley, cuando sean debidamente registrados por los intervinientes, sancionados por el Director del Instituto y registrados en los términos previstos por esta Ley, el Reglamento y demás disposiciones aplicables.
 
@@ -441,19 +473,19 @@ Con excepción de la materia familiar, los convenios celebrados por facilitadore
 
 El facilitador privado presentará ante el Instituto, para su registro, un ejemplar del convenio producto del mecanismo alternativo, junto con los documentos a que se refiere la fracción III del artículo 26 de la Ley, y entregará a los intervinientes un original a cada uno de ellos, debiendo conservar otro para sus archivos.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
+
 ###### Artículo 30.
 
-Tratándose de convenios producto de un mecanismo alternativo en la materia familiar, cuando dicho mecanismos (sic) se haya tramitado antes del inicio de cualquier procedimiento jurisdiccional, satisfaciéndose los requisitos de esta Ley, podrán ser ratificados ante el Director del Instituto, quien extenderá la certificación de ratificación correspondiente. En caso, de no existir un representante de las autoridades antes señaladas, la ratificación podrá hacerse ante el Síndico o Síndico segundo, del Municipio donde se haya celebrado el convenio. Tratándose de ratificaciones ante el Instituto, el convenio del mecanismo alternativo deberá haber sido tramitado ante un facilitador certificado en los términos de la presente Ley.
+Tratándose de convenios producto de un mecanismo alternativo, cuando dicho mecanismo se haya tramitado antes del inicio de cualquier procedimiento jurisdiccional, satisfaciéndose los requisitos de esta Ley, podrán ser ratificados ante el Director del Instituto, el Instituto de la Defensoría Pública o el Notario que los participantes de común acuerdo designen quienes extenderán la certificación de ratificación correspondiente. En caso, de no existir un representante de las autoridades antes señaladas, la ratificación podrá hacerse ante el Síndico o Síndico segundo del Municipio donde se haya celebrado el convenio. Tratándose de ratificaciones ante el Instituto, el convenio del mecanismo alternativo deberá haber sido tramitado ante un facilitador certificado en los términos de la presente Ley.
 
-Una vez ratificado el convenio en materia familiar ante las autoridades antes señaladas, adquirirá el carácter de cosa juzgada cuando sean elevados a tal rango por la autoridad judicial competente o el Director del Instituto, en los términos de esta Ley y del Código de Procedimientos Civiles del Estado de Nuevo León, dándole vista al Ministerio Público para sus consideraciones.
+Una vez ratificado el convenio ante las autoridades antes señaladas, y sancionado por el Director del Instituto o por la Autoridad Judicial competente, adquirirá el carácter de cosa juzgada o sentencia ejecutoriada en los términos de esta Ley y del Código de Procedimientos Civiles del Estado de Nuevo León, dándole vista al Ministerio Público para sus consideraciones tratándose de menores o incapaces.
 
-Corresponderá a los Centros de Mecanismos Alternativos y facilitadores privados promover la solicitud para que los convenios sean elevados a categoría de cosa juzgada, cuando así les sea solicitado por los intervinientes.
-
-Los convenios no serán elevados a categoría de cosa juzgada o de sentencia ejecutoriada en caso de que los acuerdos que contengan no sean susceptibles de convenio, contravengan normas de orden público, o afecten derechos de terceros.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2017)</small>
 
 ###### Artículo 31.
 
-Para que sean elevados a la categoría de cosa juzgada o, en su caso, de sentencia ejecutoriada, los convenios en materia familiar resultantes de los mecanismos alternativos realizados antes del inicio de un procedimiento jurisdiccional para la solución de la controversia, deberán atenderse las siguientes reglas:
+Para que sean elevados a la categoría de cosa juzgada o, en su caso de sentencia ejecutoriada, los convenios resultantes de los mecanismos alternativos realizados antes del inicio de un procedimiento jurisdiccional para la solución de la controversia, deberán atenderse las siguientes reglas:
 
 I. Las partes conjunta o separadamente, presentarán el convenio resultante, con el fin de que se constate que se haya observado lo dispuesto en esta Ley y demás disposiciones aplicables;
 
@@ -463,15 +495,17 @@ III. En caso de que el convenio cumpla los requisitos anteriormente señalados, 
 
 IV. Si el convenio fuere oscuro, irregular o incompleto, el Director señalará en concreto sus defectos y prevendrá tanto a las partes como al facilitador, para que dentro de un plazo máximo de treinta días hábiles, la aclaren, corrijan o completen; hecho lo cual le dará curso, y en caso contrario, denegará su trámite.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2017)</small>
+
 ###### Artículo 32.
 
-Los participantes conservarán sus derechos para resolver la controversia ante los Tribunales y podrán ejercerlos en caso de que no se llegue a un convenio para la solución total o parcial de la controversia. Sin embargo, las partes se abstendrán de iniciar nuevos procesos o acciones judiciales relacionados al objeto del mecanismo alternativo que ya se encuentre activo mientras éste no haya sido concluido, salvo en el caso de que implique la pérdida de un derecho.
+Los participantes conservarán sus derechos para resolver la controversia ante los Tribunales y podrán ejercerlos en caso de que no se llegue a un convenio para la solución total o parcial de la controversia.
 
 Cuando se logre una solución parcial de la controversia, quedarán a salvo los derechos sobre los cuales no se hubiere llegado a un convenio.
 
 El juez ante quien se someta un litigio sobre un asunto que sea objeto de una clausula compromisoria, remitirá a las partes al mecanismo alternativo que corresponda, si dicho mecanismo no se ha agotado previamente, a menos que se compruebe que dicha cláusula es nula, ineficaz o de ejecución imposible.
 
-No obstante que ya se haya iniciado la acción judicial a que se refiere el párrafo anterior, se podrán iniciar o proseguir las actuaciones en el mecanismo alternativo que corresponda y llegar a un convenio hasta antes de que se emita la resolución judicial respectiva.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 28 DE JUNIO DE 2017)</small>
 
 ###### Artículo 33.
 
@@ -483,21 +517,13 @@ DE LA PRESTACIÓN DE SERVICIOS DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTRO
 
 ### Capítulo I. De los Facilitadores en Mecanismos Alternativos de Solución de Controversias
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
+
 ###### Artículo 34.
 
-Los facilitadores serán personas físicas y podrán ejercer esta función, en la modalidad respectiva, dentro del Instituto, en los Centros de Mecanismos Alternativos acreditados, o desarrollar su actividad en forma independiente, debiendo acreditar que cuentan con estudios en mecanismos alternativos aprobados por el Instituto, además de cumplir con los siguientes requisitos:
+Los facilitadores serán personas físicas y podrán ejercer esta función, en la modalidad respectiva, dentro del Instituto, en los Centros de Mecanismos Alternativos acreditados, o desarrollar su actividad en forma independiente, debiendo acreditar que cuentan con estudios en mecanismos alternativos aprobados por el Instituto, además de cumplir con los demás requisitos determinados en la presente Ley y su Reglamento.
 
-I. Poseer grado de Licenciatura afín a las labores que deberán desarrollar, con cédula profesional con registro federal;
-
-II. Acreditar la certificación que establece esta Ley;
-
-III. Acreditar las evaluaciones de control de confianza que establecen las disposiciones aplicables para los miembros de instituciones de procuración de justicia;
-
-IV. No haber sido sentenciados por delito doloso, y
-
-V. Los demás requisitos que establezca esta Ley y su Reglamento.
-
-Para el caso de facilitadores que tengan certificación especializada además de lo anterior, deberán contar con veinticinco años de edad al momento de iniciar el proceso de certificación y acreditar conocimientos de derecho suficientes.
+Para el caso de facilitadores que tengan certificación especializada además de lo anterior, deberán contar con veinticinco años de edad al momento de iniciar el proceso de certificación y acreditar conocimientos de derecho suficientes, además de cumplir con los demás requisitos determinados en la presente Ley y su Reglamento.
 
 ###### Artículo 35.
 
@@ -561,7 +587,9 @@ Los Centros de Mecanismos Alternativos deberán acreditarse ante el Instituto, d
 
 I. Acreditar jurídicamente su constitución, existencia y representación;
 
-II. Contar con el mínimo de facilitadores debidamente certificados requeridos por el Instituto;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2017)</small>
+
+II. Contar con el mínimo de dos facilitadores debidamente certificados requeridos por el Instituto;
 
 III. Contar con un reglamento interno y un código de ética de la institución en los términos que marca la presente ley y que se encuentren avalados por el Instituto;
 
@@ -591,13 +619,15 @@ En las etapas del proceso el facilitador deberá conducirse de manera asertiva p
 
 Las partes podrán asistir por sí solas a las sesiones o hacerse acompañar por persona de su confianza, quienes podrán intervenir en el procedimiento siempre que lo hagan con respeto a las expresiones de las partes y con el consentimiento de éstas.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
+
 ###### Artículo 43.
 
-Solamente mediante acuerdo por escrito de las partes, éstas podrán optar por la resolución de sus controversias por la vía jurisdiccional o mediante algún mecanismo alternativo. En el caso de que se haya iniciado el procedimiento por la vía jurisdiccional, en el acuerdo de radicación, el Juez notificará a las partes el derecho que tienen de optar por el procedimiento alternativo, señalándoles un plazo de 5 días hábiles para que manifiesten lo que a su derecho convenga, siendo necesario que si optan por éste, se exprese por escrito la voluntad de todas las partes. En el caso de (sic) cualquiera de las partes sea omisa en responder al requerimiento judicial, se les tendrá por optando la vía jurisdiccional.
+En los procesos contenciosos del orden familiar, preferentemente deberán agotarse los mecanismos alternativos de conciliación y mediación que garanticen los derechos de los menores, incapacitados así como los derechos inherentes que derivan del matrimonio.
 
-En su caso, la autoridad judicial o el Instituto proveerán la lista de centros de mediación y conciliación públicos y privados acreditados, así como los facilitadores privados certificados vigentes para que las partes elijan el facilitador respectivo, o en su caso puedan solicitar al Instituto dicho servicio.
+Iniciado el procedimiento por la vía jurisdiccional contenciosa del orden familiar, el Juez en el auto de radicación, en caso de que no haya apercibido a las partes de los mecanismos de conciliación descritos en el párrafo anterior, deberá darles vista de los Mecanismos Alternativos previstos en esta Ley, a fin de que si las partes así lo convienen resuelvan su controversia, proveyendo la lista de centros de mediación y conciliación públicos o privados acreditados, así como los facilitadores privados certificados vigentes para que las partes elijan el facilitador respectivo, o en su caso puedan solicitar al Instituto dicho servicio.
 
-Una vez que obre constancia expedida por el Instituto, algún centro de mecanismos alternativos o del facilitador que haya sido designado, mediante el cual las partes justifiquen haber intentado los procesos de mediación o conciliación y de no haber llegado a un acuerdo total, se proseguira el juicio por sus demás etapas procesales. En caso de llegar a un acuerdo parcial, el juicio continuara por los conceptos que no haya sido posible convenir.
+De no haber llegado a un acuerdo para someterse a los Mecanismos Alternativos, se proseguirá el juicio por sus demás etapas procesales. En caso de llegar a un acuerdo parcial, el juicio continuará por los conceptos que no haya sido posible convenir.
 
 ###### Artículo 44.
 
@@ -625,9 +655,9 @@ El facilitador podrá proponer la alternativa que considere más viable para la 
 
 ## TÍTULO SEXTO. DEL RÉGIMEN DE SANCIONES
 
-### Capítulo I
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE JUNIO DE 2017)</small>
 
-Del Procedimiento de Queja.
+### Capítulo I. Del Procedimiento de Inconformidad
 
 ###### Artículo 47.
 
@@ -637,15 +667,17 @@ El incumplimiento de las disposiciones establecidas en la presente ley por los f
 
 Para determinar la procedencia de una sanción por responsabilidad de los facilitadores que dependan directamente del Instituto, se estará a las disposiciones de la Ley de Responsabilidad de los Servidores Públicos.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
+
 ###### Artículo 49.
 
-Para determinar la procedencia de una sanción por responsabilidad de los facilitadores privados, cualquiera de las partes deberá presentar queja por escrito ante el Instituto dentro de los diez días hábiles siguientes a aquel en que hubiere ocurrido el hecho u omisión que se impute a uno o más facilitadores, con independencia de los supuestos previstos en otros ordenamientos jurídicos aplicables.
+Para determinar la procedencia de una sanción por responsabilidad de los facilitadores privados, cualquiera de las partes deberá presentar inconformidad por escrito ante el Instituto dentro de los diez días hábiles siguientes a aquel en que hubiere ocurrido el hecho u omisión que se impute a uno o más facilitadores, con independencia de los supuestos previstos en otros ordenamientos jurídicos aplicables.
 
-En dicho escrito deberán ofrecerse las pruebas con las que presuntamente se acrediten los hechos de la queja y deberán acompañarse copias suficientes del mismo para notificar al facilitador o facilitadores señalados como responsables.
+En dicho escrito deberán ofrecerse las pruebas con las que presuntamente se acrediten los hechos de la inconformidad y deberán acompañarse copias suficientes del mismo para notificar al facilitador o facilitadores señalados como responsables.
 
-Dentro del plazo de cinco días contados a partir del siguiente a aquel en que hubiere recibido el escrito, el Instituto radicará la queja y notificará al facilitador o facilitadores señalados como responsables para que ejerzan su derecho de audiencia, mediante informe escrito que deberán presentar dentro de los diez días hábiles siguientes a aquel en que hubieren recibido la notificación antes señalada.
+Dentro del plazo de cinco días hábiles contados a partir del siguiente a aquel en que hubiere recibido el escrito, el Instituto radicará la inconformidad y notificará al facilitador o facilitadores señalados como responsables para que ejerzan su derecho de audiencia, mediante informe escrito que deberán presentar dentro de los diez días hábiles siguientes a aquel en que hubieren recibido la notificación antes señalada.
 
-Una vez presentado el informe a que alude el párrafo anterior, el Instituto deberá resolver sobre los puntos de la queja dentro de los diez días hábiles siguientes al de la presentación del mismo, pudiendo para ello allegarse de elementos de convicción para mejor proveer.
+Una vez presentado el informe a que alude el párrafo anterior, el Instituto deberá resolver sobre los puntos de la inconformidad dentro de los diez días hábiles siguientes al de la presentación del mismo, pudiendo para ello allegarse de elementos de convicción para mejor proveer.
 
 ###### Artículo 50.
 
@@ -683,7 +715,9 @@ II. No contar con la certificación vigente exigida en términos de la presente 
 
 III. Que los facilitadores adscritos que ofrezcan los servicios de mecanismos alternativos por parte del mismo no cuenten con la certificación vigente exigida en términos de la presente Ley;
 
-IV. Acumular en un periodo de un año tres o más quejas que hayan procedido ante el Instituto derivadas de los facilitadores y/o procesos de mecanismos alternativos ofrecidos por el centro en cuestión; e
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2017)</small>
+
+IV. Acumular en un periodo de un año tres o más inconformidades que hayan procedido ante el Instituto derivadas de los facilitadores y/o procesos de mecanismos alternativos ofrecidos por el centro en cuestión; e
 
 V. Incumplir con cualquiera de las obligaciones establecidas en general en esta Ley.
 
@@ -705,17 +739,21 @@ V. Cancelación definitiva de la autorización para ofrecer servicios como centr
 
 Las multas que se impongan como sanción se considerarán créditos fiscales a favor del Estado y podrán hacerse efectivas mediante el procedimiento administrativo de ejecución que establece el Código Fiscal del Estado de Nuevo León.
 
-### Capitulo II. Del Recurso de Inconformidad
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE JUNIO DE 2017)</small>
+
+### Capitulo II. Del Procedimiento de Queja
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
 
 ###### Artículo 55.
 
-Las resoluciones del Instituto podrán ser impugnadas a través del recurso de inconformidad, el cual será resuelto por el Director del Instituto.
+Las resoluciones del Instituto podrán ser sustanciadas a través del procedimiento de queja, el cual será resuelto por el Consejo de (sic) Judicatura.
 
-La determinación impugnada se presentará por escrito dentro de un plazo máximo de tres días hábiles, contados a partir de que el recurrente haya sido notificado de la conducta cuestionada.
+La queja se presentará por escrito dentro de un plazo máximo de tres días hábiles, contados a partir de que el interesado haya sido notificado de la conducta cuestionada.
 
-Dicho recurso deberá ser resuelto a los cinco días hábiles siguientes a su interposición.
+Dicho procedimiento deberá ser resuelto en un plazo de quince días hábiles siguientes a su presentación.
 
-No obstante lo anterior, el Instituto y la parte recurrente podrán someterse a un proceso de Mediación a fin de resolver el conflicto materia del recurso de inconformidad. Dicho Mecanismo Alternativo se realizará en una sola sesión.
+No obstante lo anterior, el Instituto y la parte recurrente podrán someterse a un proceso de Mediación a fin de resolver el conflicto materia del recurso de queja. Dicho Mecanismo Alternativo se realizará en una sola sesión.
 
 T R A N S I T O R I O S
 
@@ -768,3 +806,17 @@ CARLOS ALBERTO GARZA IBARRA
 EL C. PROCURADOR GENERAL DE JUSTICIA DEL ESTADO
 
 C. ROBERTO CARLOS FLORES TREVIÑO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 272. SE REFORMAN POR MODIFICACIÓN LAS FRACCIONES DE LA V A LA VIII DEL ARTÍCULO 5; SE MODIFICA LA DENOMINACIÓN DEL CAPÍTULO PRIMERO DEL TÍTULO SEGUNDO DEL INSTITUTO ALTERNATIVO PARA LA SOLUCIÓN DE CONTROVERSIAS DEL PODER JUDICIAL DEL ESTADO DE NUEVO LEÓN, PARA SER CAPÍTULO ÚNICO, OBJETIVOS GENERALES QUE COMPRENDERÁ LOS ARTÍCULOS DEL 8 AL 12; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 13; EL PRIMER PÁRRAFO DEL ARTÍCULO 15; EL PRIMER PÁRRAFO DEL ARTÍCULO 22; INCISOS A), C) Y D) DEL ARTÍCULO 24; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 25; FRACCIÓN IV DEL ARTÍCULO 26; EL ARTÍCULO 27; EL PRIMER PÁRRAFO DEL ARTÍCULO 28; EL ARTÍCULO 30; POR MODIFICACIÓN DEL PRIMER PÁRRAFO DEL ARTÍCULO 31; MODIFICACIÓN DEL PRIMER PÁRRAFO Y DEROGACIÓN DEL CUARTO PÁRRAFO DEL ARTÍCULO 32; POR MODIFICACIÓN DEL ARTÍCULO 34, 39 FRACCIÓN II, 43; MODIFICACIÓN DE LA DENOMINACIÓN DEL CAPÍTULO I TÍTULO SEXTO PARA SER, DEL PROCEDIMIENTO DE INCONFORMIDAD; EL ARTÍCULO 49; FRACCIÓN IV DEL ARTÍCULO 52, LA DENOMINACIÓN DEL CAPÍTULO II TÍTULO SEXTO PARA QUEDAR COMO, DEL PROCEDIMIENTO, Y MODIFICACIÓN AL ARTÍCULO 55 TODOS DE LA LEY DE MECANISMOS ALTERNATIVOS PARA LA SOLUCIÓN DE CONTROVERSIAS DEL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Los procedimientos cuya tramitación se hubiera iniciado antes de la entrada en vigor de este decreto, proseguirán la misma conforme a la normativa vigente con anterioridad a dicho inicio de vigencia.
+
+Tercero.- La aplicación de lo consignado en el Artículo 43 de la presente Ley entrará en vigor de la siguiente manera:
+
+I. Para los asuntos del orden civil, se aplicará a partir del 1 de enero de 2018. Para los asuntos de materia familiar, se aplicará a partir del 2019.
