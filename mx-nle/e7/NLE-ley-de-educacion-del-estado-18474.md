@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-educacion-del-estado-18474"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-16"
-last_updated: "2016-12-06"
+last_updated: "2017-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2000.
 
@@ -505,7 +505,7 @@ XVIII.- Las demás que con tal carácter establezca esta Ley y otras disposicion
 
 ###### Artículo 22.
 
-Adicionalmente a las atribuciones exclusivas a que se refiere el Artículo anterior de esta Ley, a la autoridad educativa estatal y de manera concurrente con la autoridad educativa federal, le corresponde el ejercicio de las siguientes atribuciones:
+Adicionalmente a las atribuciones exclusivas a que se refiere el Artículo anterior de esta Ley, a la autoridad educativa estatal y de manera concurre (sic) con la autoridad educativa federal, le corresponde el ejercicio de las siguientes atribuciones:
 
 I.- Determinar y formular planes y programas de estudio distintos a los de la educación básica obligatoria y a los de la formación de maestros de educación básica, además promover y prestar servicios educativos distintos de los previstos en las fracciones I y IV del Artículo 22, de acuerdo con las necesidades nacionales, regionales y estatales;
 
@@ -567,15 +567,21 @@ XVI.- Promover la transparencia en las escuelas públicas y particulares en las 
 
 XVII.- Instrumentar un sistema accesible a los ciudadanos y docentes para la presentación y seguimiento de quejas y sugerencias respecto del servicio público educativo del estado de Nuevo León;
 
-> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2017)</small>
 
-XVIII.- Diseñar y aplicar programas y acciones tendientes a fortalecer la autonomía de gestión de las escuelas, acorde a los lineamientos que expida la Secretaría de Educación Pública; y
+XVIII.- Diseñar y aplicar programas y acciones tendientes a fortalecer la autonomía de gestión de las escuelas, acorde a los lineamientos que expida la Secretaría de Educación Pública;
 
-> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2017)</small>
 
-XIX.- Las demás que con tal carácter establezca esta Ley y otras disposiciones legales aplicables.
+XIX.- Fomentar el uso responsable y seguro de las tecnologías de la información y la comunicación en el sistema educativo, para apoyar el aprendizaje de los estudiantes, ampliar sus competencias para la vida y favorecer su inserción en la sociedad del conocimiento a través de los planes y programas de estudio; y
 
-El Gobierno Estatal celebrará convenios con el Ejecutivo Federal para coordinar o unificar las actividades educativas a las que se refiere esta Ley, con excepción de aquéllas que, con carácter exclusivo, le confiere el Artículo 13 de la Ley General.
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2017)</small>
+
+XX.- Las demás que con tal carácter establezca esta Ley y las otras disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
+
+El Gobierno Estatal celebrará convenios con el Ejecutivo Federal, para coordinar o unificar las actividades educativas a las que se refiere esta Ley, con excepción de aquéllas que, con carácter exclusivo, le confiere el Artículo 13 de la Ley General.
 
 > <small>(ADICIONADO, P.O. 14 DE MARZO DE 2014)</small>
 
@@ -2030,3 +2036,9 @@ Segundo.- Se derogan todas aquellas disposiciones que contravengan el presente D
 Tercero.- En un término que no exceda los 120 días naturales a partir de la entrada en vigor del presente Decreto, los Ayuntamientos, en el ámbito de sus respectivas competencias realizarán las adecuaciones a las disposiciones reglamentarias vinculadas con el presente Decreto.
 
 Cuarto.- La Dirección de Protección Civil Estatal deberá elaborar y presentar en un plazo no mayor de 120 días naturales para su aprobación el Programa Escolar de Protección Civil a que se refiere el Artículo Primero del presente Decreto.
+
+P.O. 28 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 275. SE REFORMA POR MODIFICACIÓN LAS FRACCIONES XVIII Y XIX Y SE ADICIONA UNA FRACCIÓN XX DEL ARTÍCULO 22 DE LA LEY DE EDUCACIÓN DEL ESTADO."
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
