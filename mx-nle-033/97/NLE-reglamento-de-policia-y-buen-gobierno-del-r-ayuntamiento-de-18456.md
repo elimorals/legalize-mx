@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-del-r-ayuntamiento-de-184
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-05-26"
-last_updated: "2012-09-28"
+last_updated: "2017-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL R. AYUNTAMIENTO DE LINARES, NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE LINARES, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 28 DE JUNIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE LINARES, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 26 de mayo de 2000.
 
@@ -548,3 +550,15 @@ SECRETARIO DEL R. AYUNTAMIENTO.
 P.O. 28 DE SEPTIEMBRE DE 2012.
 
 ÚNICO.- LA PRESENTE ADICIÓN, ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.
+
+P.O. 28 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE "SE APRUEBA EL REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE LINARES, N.L."]
+
+PRIMERO.- Se abroga el Reglamento de Policía y Buen Gobierno, publicado en el Periódico Oficial del Estado el día 26 de mayo de 2000 y sus reformas publicadas en el Periódico Oficial del Estado para los años 2012 y 2013; el presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas (sic) disposiciones municipales que contravengan lo dispuesto en el presente Reglamento.
+
+TERCERO.- Mándese Publicar en el Periódico Oficial del Estado el nuevo reglamento señalado en el punto anterior, para los efectos de su entrada en vigor, y posteriormente ordénese publicar en la Gaceta Municipal.
+
+CUARTO.- Mientras tanto no se dé cumplimiento a lo señalado en el punto anterior, el reglamento a abrogar e identificado en el punto primero de este acuerdo seguirá en vigor.
