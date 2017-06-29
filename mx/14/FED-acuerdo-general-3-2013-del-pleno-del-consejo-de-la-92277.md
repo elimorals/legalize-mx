@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2017-05-15"
+last_updated: "2017-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE JUNIO DE 2017.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -879,7 +879,7 @@ QUINTO. Centros Auxiliares Regionales:
 
 Todos los órganos jurisdiccionales antes citados tendrán jurisdicción en toda la República Mexicana y su competencia será mixta, a excepción del Juzgado Tercero de Distrito del Centro Auxiliar de la Primera Región que además se especializa en materia de extinción de dominio.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 36/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. DE 9 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. DE 9 DE JUNIO DE 2016)</small>
 
 QUINTO BIS. Centros de Justicia Penal Federal:
 
@@ -917,7 +917,13 @@ XVI. El Centro de Justicia Penal Federal en el Estado de Hidalgo se integrará p
 
 XVII. El Centro de Justicia Penal Federal en el Estado de Jalisco se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en el complejo penitenciario Puente Grande.
 
-XVIII. El Centro de Justicia Penal Federal en el Estado de México se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en Nezahualcóyotl, Estado de México.
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2017)</small>
+
+XVIII. El Centro de Justicia Penal Federal en el Estado de México, con residencia en Nezahualcóyotl, Estado de México se integrará por tres jueces de Distrito, y un Tribunal de Alzada.
+
+> <small>(ADICIONADA, D.O.F. 29 DE JUNIO DE 2017)</small>
+
+XVIII Bis. El Centro de Justicia Penal Federal en el Estado de México, con residencia en Almoloya de Juárez (Altiplano) se integrará por tres jueces de Distrito, y un Tribunal de Alzada.
 
 XIX. El Centro de Justicia Penal Federal en el Estado de Michoacán se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en Morelia, Michoacán.
 
@@ -957,7 +963,7 @@ XXXVI. El Centro de Justicia Penal Federal en el Estado de Yucatán se integrar�
 
 XXXVII. Centro de Justicia Penal Federal en el Estado de Zacatecas se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en la ciudad del mismo nombre.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 36/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. DE 9 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. DE 9 DE JUNIO DE 2016)</small>
 
 QUINTO TER. Los órganos jurisdiccionales de los Centros de Justicia Penal Federal serán competentes en todo el territorio de la entidad federativa de su residencia, con excepción de lo siguiente:
 
@@ -968,6 +974,14 @@ II. Centro de Justicia Penal Federal en el Estado de Baja California, con sede e
 III. Centro de Justicia Penal Federal en el Estado de Coahuila de Zaragoza, son sede en Torreón: cuya jurisdicción territorial comprenderá dicha entidad federativa y los municipios de Durango señalados en la fracción siguiente;
 
 IV. Centro de Justicia Penal Federal en el Estado de Durango, con sede en la ciudad del mismo nombre: cuya jurisdicción territorial comprenderá el Estado de Durango, salvo los municipios de General Simón Bolívar, Gómez Palacio, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo;
+
+> <small>(ADICIONADA, D.O.F. 29 DE JUNIO DE 2017)</small>
+
+IV Bis. Centro de Justicia Penal Federal en el Estado de México, con sede en Nezahualcóyotl cuya jurisdicción territorial comprenderá los municipios de Acolman; Amecameca; Atenco; Atlautla; Axapusco; Ayapango; Cocotitlán; Chalco; Chiautla; Chicoloapan; Chiconcuac; Chimalhuacán; Ecatzingo; Ixtapaluca; Juchitepec; La Paz; Nezahualcóyotl; Nopaltepec; Otumba; Ozumba; Papalotla; San Martín de las Pirámides; Tecámac; Temamatla; Temascalapa; Tenango del Aire; Teotihuacán; Tepetlaoxtoc; Tepetlixpa; Texcoco; Tezoyuca; Tlalmanalco; Valle de Chalco Solidaridad; Apaxco; Atizapán de Zaragoza; Coacalco de Berriozábal; Coyotepec; Cuautitlán; Cuautitlán Izcalli; Ecatepec de Morelos; Huehuetoca; Hueypoxtla; Jaltenco; Melchor Ocampo; Nextlalpan; Nicolás Romero; Polotitlán; Soyaniquilpan de Juárez; Teoloyucán; Tepotzotlán; Tequixquiac; Timilpan; Tlalnepantla de Baz; Tonanitla; Tultepec; Tultitlán y Zumpango; todos ellos del Estado de México.”
+
+> <small>(ADICIONADA, D.O.F. 29 DE JUNIO DE 2017)</small>
+
+IV Ter. Centro de Justicia Penal Federal en el Estado de México, con sede en Almoloya de Juárez (Altiplano): cuya jurisdicción territorial comprenderá los municipios de La jurisdicción territorial de los juzgadores del Centro comprenderá los siguientes municipios (sic): Acambay de Ruíz Castañeda; Almoloya de Alquisiras; Almoloya de Juárez; Almoloya del Río; Amanalco; Amatepec; Atizapán; Atlacomulco; Calimaya; Capulhuac; Coatepec Harinas; Chapultepec; Donato Guerra; El Oro; Ixtapan de la Sal; Ixtapan del Oro; Ixtlahuaca; Jiquipilco; Jocotitlán; Joquicingo; Lerma; Luvianos; Malinalco; Metepec; Mexicaltzingo; Morelos; Naucalpan de Juárez; Ocoyoacac; Ocuilan; Otzoloapan; Otzolotepec; Rayón; San Antonio la Isla; San Felipe del Progreso; San José del Rincón; San Mateo Atenco; San Simón de Guerrero; Santo Tomás; Sultepec; Tejupilco; Temascalcingo; Temascaltepec; Temoaya; Tenancingo; Tenango del Valle; Texcaltitlán; Texcalyacac; Tianguistenco; Tlatlaya; Toluca; Tonatico; Valle de Bravo; Villa de Allende; Villa Guerrero; Villa Victoria; Xalatlaco; Xonacatlán; Zacazonapan; Zacualpan; Zinacantepec; Zumpahuacán; Aculco; Chapa de Mota; Huixquilucan; Isidro Fabela; Jilotepec; Jilotzingo y Villa del Carbón; todos ellos del Estado de México.
 
 V. Centro de Justicia Penal Federal en el Estado de Nayarit, con sede en Tepic: cuya jurisdicción territorial comprenderá dicha entidad federativa y el territorio del archipiélago de las Islas Marías;
 
@@ -3865,6 +3879,56 @@ DÉCIMO CUARTO. Se reforman los artículos 1; 2; 5, fracción II; 6; 7; 12, pár
 
 "Artículo 1. Son competentes para conocer de los asuntos a que se refiere este Acuerdo los Juzgados Primero y Segundo Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones.
 
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 5/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE MÉXICO, CON RESIDENCIA EN EL MUNICIPIO DE ALMOLOYA DE JUÁREZ (ALTIPLANO)”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el uno de julio de dos mil diecisiete, con excepción de lo dispuesto en los párrafos siguientes:
+
+Para las áreas administrativas del Consejo de la Judicatura Federal, entrará en vigor el día de su aprobación, para adoptar con la debida anticipación las medidas necesarias para que el Centro de Justicia Penal a que se refiere este Acuerdo, entre en operación en la fecha señalada en este artículo.
+
+El Administrador del Centro llevará a cabo las acciones de coordinación que sean necesarias para garantizar el funcionamiento del mismo en dicha fecha.
+
+SEGUNDO. Hasta en tanto se crea el Tribunal de Alzada a que se refiere el artículo 4 de este Acuerdo, se habilita a los Tribunales Unitarios de Circuito Primero, Segundo, Cuarto, Quinto y Sexto, todos del Segundo Circuito y con residencia en Toluca, Estado de México, para conocer, en el orden numérico de su denominación de los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, sin perjuicio de lo dispuesto en el artículo 17, último párrafo, de este Acuerdo.
+
+Los Tribunales Unitarios habilitados precisarán en los actos procesales que celebren la denominación con la que actúen, dependiendo si lo hacen conforme al citado Código o al Código Federal de Procedimientos Penales.
+
+Estos Tribunales Unitarios quedan exceptuados de la obligación a que se refiere el artículo 14 de este Acuerdo, y para efectos del artículo 18 del mismo instrumento normativo se regirá por las disposiciones aplicables como tribunal unitario de Circuito.
+
+TERCERO. Las Direcciones Generales de Estadística Judicial y de Tecnologías de la Información implementarán los mecanismos de coordinación entre el sistema automatizado de turno y distribución de asuntos de la Oficialía de Partes del Centro y la Oficina de Correspondencia Común de los Tribunales Unitarios de Circuito habilitados, para en su caso compensar entre ellos la carga de trabajo en su doble función, prevista en los artículos 17 último párrafo y transitorio SEGUNDO del presente Acuerdo.
+
+CUARTO. En materia de ejecución de sanciones penales se deberá observar lo dispuesto en el Acuerdo General 28/2015, del Pleno del Consejo de la Judicatura Federal, mediante el cual se habilita a los Jueces de Distrito de los Centros de Justicia Penal Federal para que ejerzan funciones de ejecución de sanciones penales.
+
+QUINTO. En tanto se ordena la utilización de los libros de control electrónicos, el Administrador del Centro con el apoyo de su personal deberá realizar los registros de los asuntos que ingresen en libretas auxiliares.
+
+SEXTO. Los asuntos que se encuentren ingresados en el Centro de Justicia Penal Federal en el Estado de México, con residencia en Nezahualcóyotl, con anterioridad a la entrada en vigor del presente Acuerdo, continuarán siendo del conocimiento de dicho Centro.
+
+SÉPTIMO. Se reforma el artículo 6 del Acuerdo General 4/2016, del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de México, con residencia en Nezahualcóyotl, para quedar como sigue:
+
+“Artículo 6. La jurisdicción territorial de los juzgadores del Centro comprenderá los siguientes municipios: Acolman; Amecameca; Atenco; Atlautla; Axapusco; Ayapango; Cocotitlán; Chalco; Chiautla; Chicoloapan; Chiconcuac; Chimalhuacán; Ecatzingo; Ixtapaluca; Juchitepec; La Paz; Nezahualcóyotl; Nopaltepec; Otumba; Ozumba; Papalotla; San Martín de las Pirámides; Tecámac; Temamatla; Temascalapa; Tenango del Aire; Teotihuacán; Tepetlaoxtoc; Tepetlixpa; Texcoco; Tezoyuca; Tlalmanalco; Valle de Chalco Solidaridad; Apaxco; Atizapán de Zaragoza; Coacalco de Berriozábal; Coyotepec; Cuautitlán; Cuautitlán Izcalli; Ecatepec de Morelos; Huehuetoca; Hueypoxtla; Jaltenco; Melchor Ocampo; Nextlalpan; Nicolás Romero; Polotitlán; Soyaniquilpan de Juárez; Teoloyucán; Tepotzotlán; Tequixquiac; Timilpan; Tlalnepantla de Baz; Tonanitla; Tultepec; Tultitlán y Zumpango; todos ellos del Estado de México.”
+
+OCTAVO. Se reforma la fracción XVIII del numeral QUINTO BIS; y se adicionan una fracción XVIII Bis al numeral QUINTO BIS, y las fracciones IV Bis y IV Ter al numeral QUINTO TER del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+“QUINTO BIS. ...
+
+I. a XVII. ...
+
+XVIII. El Centro de Justicia Penal Federal en el Estado de México, con residencia en Nezahualcóyotl, Estado de México se integrará por tres jueces de Distrito, y un Tribunal de Alzada.
+
+XVIII Bis. El Centro de Justicia Penal Federal en el Estado de México, con residencia en Almoloya de Juárez (Altiplano) se integrará por tres jueces de Distrito, y un Tribunal de Alzada.
+
+XIX. a XXXVII. …
+
+QUINTO TER. …
+
+I. a IV. ...
+
+IV Bis. Centro de Justicia Penal Federal en el Estado de México, con sede en Nezahualcóyotl cuya jurisdicción territorial comprenderá los municipios de Acolman; Amecameca; Atenco; Atlautla; Axapusco; Ayapango; Cocotitlán; Chalco; Chiautla; Chicoloapan; Chiconcuac; Chimalhuacán; Ecatzingo; Ixtapaluca; Juchitepec; La Paz; Nezahualcóyotl; Nopaltepec; Otumba; Ozumba; Papalotla; San Martín de las Pirámides; Tecámac; Temamatla; Temascalapa; Tenango del Aire; Teotihuacán; Tepetlaoxtoc; Tepetlixpa; Texcoco; Tezoyuca; Tlalmanalco; Valle de Chalco Solidaridad; Apaxco; Atizapán de Zaragoza; Coacalco de Berriozábal; Coyotepec; Cuautitlán; Cuautitlán Izcalli; Ecatepec de Morelos; Huehuetoca; Hueypoxtla; Jaltenco; Melchor Ocampo; Nextlalpan; Nicolás Romero; Polotitlán; Soyaniquilpan de Juárez; Teoloyucán; Tepotzotlán; Tequixquiac; Timilpan; Tlalnepantla de Baz; Tonanitla; Tultepec; Tultitlán y Zumpango; todos ellos del Estado de México.”
+
+IV Ter. Centro de Justicia Penal Federal en el Estado de México, con sede en Almoloya de Juárez (Altiplano): cuya jurisdicción territorial comprenderá los municipios de La jurisdicción territorial de los juzgadores del Centro comprenderá los siguientes municipios (sic): Acambay de Ruíz Castañeda; Almoloya de Alquisiras; Almoloya de Juárez; Almoloya del Río; Amanalco; Amatepec; Atizapán; Atlacomulco; Calimaya; Capulhuac; Coatepec Harinas; Chapultepec; Donato Guerra; El Oro; Ixtapan de la Sal; Ixtapan del Oro; Ixtlahuaca; Jiquipilco; Jocotitlán; Joquicingo; Lerma; Luvianos; Malinalco; Metepec; Mexicaltzingo; Morelos; Naucalpan de Juárez; Ocoyoacac; Ocuilan; Otzoloapan; Otzolotepec; Rayón; San Antonio la Isla; San Felipe del Progreso; San José del Rincón; San Mateo Atenco; San Simón de Guerrero; Santo Tomás; Sultepec; Tejupilco; Temascalcingo; Temascaltepec; Temoaya; Tenancingo; Tenango del Valle; Texcaltitlán; Texcalyacac; Tianguistenco; Tlatlaya; Toluca; Tonatico; Valle de Bravo; Villa de Allende; Villa Guerrero; Villa Victoria; Xalatlaco; Xonacatlán; Zacazonapan; Zacualpan; Zinacantepec; Zumpahuacán; Aculco; Chapa de Mota; Huixquilucan; Isidro Fabela; Jilotepec; Jilotzingo y Villa del Carbón; todos ellos del Estado de México.
+
+V. a XIII. …”
+
+NOVENO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
 ###### Artículo 2.
 
 La residencia de los Juzgados a que se refiere este Acuerdo será la Ciudad de México, en las instalaciones que determine el Consejo de la Judicatura Federal.
@@ -3908,6 +3972,8 @@ Tan luego se firme y autorice la resolución deberá incorporarse al sistema ele
 ###### Artículo 14.
 
 En caso de que un juez, que conozca de un proceso penal, requiera copia certificada de una resolución que conceda o niegue una medida cautelar que se encuentre relacionada con esa causa penal, el Juez Federal Penal Especializado que la haya emitido formará un testimonio de la resolución que enviará al juez requirente, cuando así procediere.
+
+D.O.F. 29 DE JUNIO DE 2017.
 
 ###### Artículo 15.
 
