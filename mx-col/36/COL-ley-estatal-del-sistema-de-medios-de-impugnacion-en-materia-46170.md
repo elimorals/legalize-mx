@@ -4,7 +4,7 @@ identifier: "COL-ley-estatal-del-sistema-de-medios-de-impugnacion-en-materia-461
 country: "mx"
 rank: "ley"
 publication_date: "2005-08-31"
-last_updated: "2016-11-22"
+last_updated: "2017-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ESTATAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2017.
 
 Ley publicada en la Edición Especial del Periódico Oficial del Estado de Colima, el miércoles 31 de agosto de 2005.
 
@@ -205,11 +205,11 @@ Los escritos de los coadyuvantes se resolverán con la resolución definitiva de
 
 ### CAPÍTULO III. De los plazos y de los términos
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
 
 ###### Artículo 11.
 
-Los recursos y juicios a que se refiere el artículo 5º de esta LEY, serán interpuestos dentro de los 3 días hábiles siguientes a partir de que el promovente tenga conocimiento o se ostente como sabedor, o bien, se hubiese notificado el acto o la resolución que se impugna.
+Los recursos y juicios a que se refiere el artículo 5° de esta ley, serán interpuestos dentro de los 4 días hábiles siguientes a partir de que el promovente tenga conocimiento o se ostente como sabedor, o bien, se hubiese notificado el acto o la resolución que se impugna.
 
 ###### Artículo 12.
 
@@ -317,7 +317,7 @@ III.- El tercero interesado, que será el ciudadano, partido político, precandi
 
 > <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2008)</small>
 
-IV.- El Instituto Político responsable, que es el PARTIDO POLÏTICO (SIC) que emitió el acto de expulsión la inhabilitación respectiva o bien determinó la anulación de un proceso interno.
+IV.- El Instituto Político responsable, que es el PARTIDO POLÏTICO que emitió el acto de expulsión la inhabilitación respectiva o bien determinó la anulación de un proceso interno.
 
 ### CAPÍTULO VI. De las reglas del procedimiento para la tramitación de los recursos
 
@@ -371,9 +371,9 @@ Los recursos de revisión y apelación se interpondrán ante el órgano del INST
 
 El órgano del INSTITUTO que reciba un recurso de revisión, o apelación, lo hará del conocimiento público mediante cédula que fijará en los estrados, dentro de las 24 horas siguientes a su recepción.
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
 
-Los representantes de los PARTIDOS POLITICOS, candidatos independientes o coadyuvantes terceros interesados, podrán presentar los escritos que consideren pertinentes dentro de las 48 horas siguientes a la fijación de la cédula respectiva.
+Los representantes de los partidos políticos, candidatos independientes o coadyuvantes terceros interesados, podrán presentar los escritos que consideren pertinentes dentro de las 72 horas siguientes a la fijación de la cédula respectiva.
 
 Los escritos mencionados en el párrafo anterior deberán cumplir con los siguientes requisitos:
 
@@ -445,7 +445,9 @@ Una vez admitido el recurso de apelación, el Secretario General de Acuerdos int
 
 El Magistrado ponente, en coordinación con el Presidente del TRIBUNAL, realizará todos los actos y diligencias necesarias para la completa y debida integración del o los expedientes del recurso de apelación, de manera que los ponga en estado de resolución, con lo que se entenderá cerrada la instrucción, recayendo al efecto el acuerdo correspondiente que firmará el Presidente y el Secretario General de Acuerdos.
 
-El TRIBUNAL dispondrá de 10 días, contados a partir del día siguiente al en que se dicte la resolución de admisión, para substanciar y resolver este recurso.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+El TRIBUNAL dispondrá de 15 días, contados a partir del día siguiente al en que se dicte la resolución de admisión, para substanciar y resolver este recurso.
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2011)</small>
 
@@ -745,7 +747,9 @@ II.- Los ciudadanos o todo aquel que acredite su interés legítimo.
 
 Las resoluciones definitivas que recaigan al recurso de apelación, tendrán como efecto confirmar, modificar o revocar el acto o resolución impugnada.
 
-Los recursos de apelación serán resueltos por el TRIBUNAL dentro de los 10 días siguientes a aquel en que se admitan.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+Los recursos de apelación serán resueltos por el TRIBUNAL dentro de los 15 días siguientes a aquel en que se admitan.
 
 ### CAPÍTULO V. De las notificaciones
 
@@ -803,7 +807,9 @@ II.- Los ciudadanos o todo aquel que acredite su interés legítimo.
 
 Las resoluciones que recaigan al recurso de revisión, tendrán como efecto confirmar, modificar o revocar el acto o resolución recurrida.
 
-Los recursos de revisión serán resueltos por el CONSEJO GENERAL dentro de los 10 días siguientes a aquel en que se admitan.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+Los recursos de revisión serán resueltos por el CONSEJO GENERAL dentro de los 15 días siguientes a aquel en que se admitan.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 30 DE AGOSTO DE 2011)</small>
 
@@ -937,9 +943,9 @@ IX.- Determinar la nulidad de elección o, en su caso, revocar la constancia de 
 
 X.- Todos aquellos que conforme a la ley, resulten necesarios a la naturaleza jurídica de la sentencia.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
 
-Los juicios de inconformidad serán resueltos por el TRIBUNAL dentro de los 10 días siguientes a aquél en que se admitan.
+Los juicios de inconformidad serán resueltos por el TRIBUNAL dentro de los 15 días siguientes a aquel en que se admitan.
 
 ###### Artículo 60.
 
@@ -1033,7 +1039,9 @@ VII.- (DEROGADA, P.O. 31 DE AGOSTO DE 2008)
 
 Una vez recibido el escrito por el que se promueva juicio para la defensa ciudadana electoral por el TRIBUNAL, inmediatamente se dictará auto de radicación. Acto seguido, el Secretario General de Acuerdos, dentro de las 24 horas siguientes a su recepción, deberá revisar que reúne todos los requisitos señalados en la presente LEY y se analice si se actualiza alguna causal de improcedencia, para que con posterioridad, dicho funcionario realice el proyecto de resolución de admisión o desechamiento correspondiente y lo someta a la consideración del PLENO.
 
-Asimismo, el funcionario en mención, dentro del término antes establecido, fijará cédula de publicitación en los estrados del TRIBUNAL, a efecto de que en un término de 48 horas contadas a partir de la fijación de la cédula correspondiente, los terceros interesados comparezcan al juicio.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+Asimismo, el funcionario en mención, dentro del término antes establecido, fijará cédula de publicitación en los estrados del TRIBUNAL, a efecto de que en un término de 72 horas contadas a partir de la fijación de la cédula correspondiente, los terceros interesados comparezcan al juicio.
 
 Admitido este medio de impugnación, el Secretario General de Acuerdos integrará hasta ese momento el expediente correspondiente, comunicándolo así al Magistrado Presidente para que éste lo turne al Magistrado designado como ponente y, auxiliado del proyectista respectivo, presente un proyecto de resolución a fin de que lo someta a la decisión del PLENO dentro del término establecido para su resolución.
 
@@ -1047,7 +1055,9 @@ El Magistrado ponente, en coordinación con el Presidente del TRIBUNAL, realizar
 
 La resolución que recaiga al juicio para la defensa ciudadana electoral, garantizará la restitución o protección, en su caso, de los derechos políticos electorales del ciudadano.
 
-El juicio deberá resolverse con los elementos con que se cuente a más tardar dentro de los 10 días contados a partir de su admisión.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+El juicio deberá resolverse con los elementos con que se cuente a más tardar dentro de los 15 días siguientes a su admisión.
 
 ## TÍTULO QUINTO. De las nulidades
 
@@ -1221,7 +1231,7 @@ Dado en Palacio de Gobierno, al día 30 de del mes de agosto del año dos mil ci
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, C. ARNOLDO OCHOA GONZÁLEZ. Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 31 DE AGOSTO DE 2008.
 
@@ -1242,3 +1252,9 @@ P.O. 22 DE NOVIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
+
+P.O. 29 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 320 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO ELECTORAL DEL ESTADO DE COLIMA; A LA LEY ESTATAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL; Y A LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
