@@ -4,7 +4,7 @@ identifier: "COL-codigo-electoral-del-estado-de-colima-82705"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-08-30"
-last_updated: "2016-11-22"
+last_updated: "2017-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # CODIGO ELECTORAL DEL ESTADO DE COLIMA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JULIO DE 2017 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO ELECTORAL DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2017.
 
 Código publicado en el suplemento No. 1 del Periódico Oficial del Estado de Colima, el martes 30 de agosto de 2011.
 
@@ -39,7 +41,9 @@ D E C R E T O
 
 EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE LOS ARTÍCULOS 33 FRACCIÓN IX, Y 39 DE LA CONSTITUCIÓN POLÍTICA LOCAL, EN NOMBRE DEL PUEBLO, Y
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+
+[...]
 
 Por lo anteriormente expuesto se expide el siguiente
 
@@ -303,15 +307,17 @@ La elección del GOBERNADOR será popular y directa, por el principio de mayorí
 
 ### CAPÍTULO III. DE LA ELECCIÓN DE DIPUTADOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 20.
 
-El Poder Legislativo del ESTADO se deposita en una Asamblea de Diputados denominada CONGRESO, y se integrará con 16 Diputados electos por el principio de mayoría relativa y nueve por el de representación proporcional. Su elección se realizará mediante votación popular y directa.
+El Poder Legislativo del Estado se deposita en una Asamblea de Diputados denominada CONGRESO, que se integrará con 16 diputados electos por el principio de mayoría relativa y 9 por el de representación proporcional. A dicha Asamblea se le denomina Legislatura, la cual durará 3 años, cambiando su nomenclatura para adoptar el número progresivo que le corresponda. La elección de los diputados se realizará mediante votación popular y directa, quienes podrán ser electos para un periodo consecutivo con el carácter de propietarios o de suplentes.
 
 Se entiende por distrito electoral uninominal la demarcación territorial donde se elegirá a un diputado por el principio de mayoría relativa y por circunscripción electoral plurinominal la extensión territorial del Estado, donde se elegirán los Diputados por el principio de representación proporcional.
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
 
-Por cada Diputado propietario electo por el principio de mayoría relativa se elegirá un suplente. Los diputados electos bajo el principio de representación proporcional no tendrán suplentes. La totalidad del CONGRESO se renovará cada tres años. Los Diputados podrán ser electos por un período consecutivo.
+Por cada Diputado propietario electo por el principio de mayoría relativa se elegirá un suplente. Los diputados electos bajo el principio de representación proporcional no tendrán suplentes.
 
 ###### ARTÍCULO 21.
 
@@ -323,11 +329,19 @@ II. Estar inscrito en la LISTA;
 
 III. No estar en servicio activo de las fuerzas armadas y de los cuerpos de seguridad pública, a menos que se separe cuando menos un día antes del inicio del período de registro;
 
-IV. No ser Magistrado del Supremo Tribunal de Justicia, Secretario, Procurador General de Justicia ni desempeñar el cargo de Juez de Distrito en el ESTADO, a menos que se separe cuando menos un día antes del inicio del período de registro;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
 
-V. No ser Presidente municipal, en el lugar donde se realicen las elecciones a menos que se separe del cargo, por lo menos un día antes del inicio del período de registro de candidatos; y
+IV. No ser Magistrado del Supremo Tribunal de Justicia, Secretario de la Administración Pública Estatal, Consejero Jurídico, Fiscal General del Estado, ni desempeñar el cargo de Juez de Distrito en el Estado, a menos que se separe del cargo, por lo menos, un día antes del inicio del periodo de registro de candidatos.
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+V. No ser Presidente Municipal en el lugar donde se realicen las elecciones, a menos que se separe del cargo, dentro de los cinco días anteriores al inicio del periodo de registro de candidatos; y
 
 VI. No ser ministro de algún culto religioso, salvo que se haya separado cinco años antes de la elección.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+En el caso de elección consecutiva no será requisito separarse del cargo.
 
 > <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
 
@@ -345,25 +359,53 @@ Los diputados por el principio de representación proporcional, serán asignados
 
 El Municipio constituye la base de la división territorial y de la organización política y administrativa del ESTADO.
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
 
-Los presidentes municipales, síndicos y regidores serán electos popularmente por votación directa y podrán ser electos para un período consecutivo.
+Los presidentes municipales, síndicos y regidores serán electos popularmente por votación directa y podrán ser electos para un periodo consecutivo por el mismo cargo que estén ocupando dentro del Cabildo: La postulación correspondiente sólo podrá ser realizada por el mismo partido o, en el caso de la candidatura común o coalición, por cualquiera que lo haya postulado, salvo que hayan renunciado o perdido su militancia en él antes de la mitad del periodo de su mandato.
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 14 DE JUNIO DE 2014)</small>
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+Las personas que por elección indirecta, por nombramiento o designación de alguna autoridad, desempeñen las funciones propias de munícipes, cualquiera que sea la denominación que se les dé, podrán ser registrados como candidatos para el mismo cargo en el propio Cabildo, únicamente para el periodo inmediato.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 25.
 
-En los términos de los artículos 89 de la CONSTITUCIÓN y 27 de la Ley del Municipio Libre del Estado de Colima, para ocupar el cargo de munícipe se requiere:
+En los términos de los artículos 90 de la CONSTITUCIÓN y 27 de la Ley del Municipio Libre del Estado de Colima, para ocupar el cargo de munícipe se requiere:
 
 I. Ser ciudadano mexicano por nacimiento y no poseer otra nacionalidad;
 
-II. Estar inscrito en la LISTA, y en pleno goce de sus derechos;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
 
-III. Contar con una residencia en el municipio correspondiente no menor de tres años antes del día de la elección;
+II. Ser originario del MUNICIPIO de que se trate con una residencia inmediata anterior al día de la elección de un año ininterrumpido o, no siéndolo, contar con una residencia ininterrumpida no menor de tres años antes del día de la elección;
 
-IV. No ser ministro de algún culto, salvo que se haya separado cinco años antes del día de la elección; y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
 
-V. No ser servidor público en ejercicio de la Federación, ESTADO y Municipios, así como de organismos descentralizados o de participación estatal o municipal a que se refiera la Ley, ni estar en servicio activo de las fuerzas armadas o de los cuerpos de seguridad pública, a menos que se separe del cargo, un día antes del inicio del período de registro de candidatos.
+III. Estar en pleno ejercicio de sus derechos civiles y políticos;
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+IV. Estar inscrito en la LISTA;
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+V. No estar en servicio activo de las fuerzas armadas o de los cuerpos de seguridad pública, salvo que se separe del cargo, por lo menos, un día antes del inicio del periodo del registro de candidatos;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+VI. No ser ministro de cualquier culto religioso, salvo que se separe del cargo cinco años antes del día de la elección;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+VII. No ser integrante de los organismos electorales;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+VIII. No ser Presidente Municipal en el lugar donde se realicen las elecciones, salvo que se separe del cargo dentro de los cinco días anteriores al inicio del periodo de registro de candidatos; y
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+IX. No ser servidor público en ejercicio de la Federación, Estado o municipios, así como de organismos descentralizados y empresas de participación estatal o municipal, salvo que se separe del cargo, por lo menos, un día antes del inicio del periodo de registro de candidatos.
 
 ### CAPÍTULO V. DE LAS ELECCIONES ORDINARIAS Y EXTRAORDINARIAS
 
@@ -437,7 +479,9 @@ El presente Libro regula los procedimientos para la constitución, registro, que
 
 Los PARTIDOS POLÍTICOS son entidades de interés público con personalidad jurídica y patrimonio propios, inscritos o con registro legal ante el INE o ante el INSTITUTO y tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público.
 
-Los PARTIDOS POLÍTICOS promoverán los valores cívicos y la cultura democrática entre niñas, niños y adolescentes, y buscarán la participación efectiva de ambos géneros en la integración de sus órganos, así como en la postulación de candidatos. En el ESTADO gozarán de las mismas prerrogativas que les confiere la CONSTITUCIÓN FEDERAL.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+Los PARTIDOS POLÍTICOS promoverán los valores cívicos y la cultura democrática entre niñas, niños y adolescentes, y buscarán la participación efectiva de ambos géneros y de los jóvenes en la integración de sus órganos de dirección, así como en la postulación de candidatos. En el ESTADO, gozarán de las mismas prerrogativas que les confiere la CONSTITUCIÓN FEDERAL.
 
 ###### ARTÍCULO 37.
 
@@ -751,23 +795,37 @@ XVIII. Abstenerse de realizar, en cualquier tiempo, actos de proselitismo y prom
 
 XIX. Abstenerse de realizar afiliaciones corporativas de ciudadanos;
 
-XX. Promoverán y garantizarán la equidad y la paridad de los géneros en sus órganos de dirección y en las candidaturas a cargos de elección popular;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+XX. Promover y garantizar la equidad y la paridad entre mujeres y hombres en sus órganos de dirección y en las candidaturas a cargos de elección popular;
 
 > <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
 
 XXI. Registrar candidaturas en los porcentajes y para los cargos de elección popular siguientes:
 
-a) Diputados por el principio de mayoría relativa, hasta el 50% de candidaturas de un mismo género, considerando para el porcentaje, la suma total de los candidatos que proponga respecto de los distritos de la entidad, las fórmulas de candidaturas deberán ser tanto propietarios y suplentes del mismo género;
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
 
-b) Diputados por el principio de representación proporcional, hasta cinco candidatos de un mismo género, quienes se ubicarán de manera alternada en la lista;
+a) En las diputaciones por el principio de mayoría relativa, hasta el 50% de candidaturas de un mismo género cuando éstas correspondan a un número par, en caso de que se trate de número impar, el porcentaje de cada género será el más cercano al 50%, considerando en ambos casos, para el porcentaje, la suma total de las candidatas y candidatos propietarios que propongan respecto de los distritos de la entidad, quienes deberán tener suplentes de su mismo género;
 
-c) En el caso de los Ayuntamientos cuyo número total de Presidentes Municipales, Síndicos y Regidores sea par, el porcentaje para cada uno de los géneros será del 50% y cuando se trate de un número impar, será hasta un 60% para un mismo género, las candidaturas deberán ser tanto propietarios y suplentes del mismo género, y
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
 
-d) Los PARTIDOS POLÍTICOS garantizarán la inclusión de jóvenes entre los 18 y 29 años de edad, en las candidaturas de diputados por ambos principios de representación y miembros de los Ayuntamientos.
+b) En las diputaciones por el principio de representación proporcional, cada partido político presentará una lista de prelación, alternando propuestas de uno y otro género, por la totalidad de los cargos correspondientes;
 
-Se exceptúan de lo dispuesto en la fracción anterior, aquellas candidaturas de mayoría relativa que sean resultado de un proceso de selección democrático, conforme a los estatutos de cada partido.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
 
-El incumplimiento a las obligaciones contenidas en esta fracción, dará lugar a la negativa del registro, por parte de la autoridad electoral competente, de las candidaturas a que la misma se refiere, previo requerimiento que dicha autoridad realice en caso de ser posible al partido político o coalición de que se trate, hasta por el tiempo que la misma considere conveniente, tomando como límite el período respectivo para efectuar los registros de las candidaturas correspondientes;
+c) En el caso de los ayuntamientos, si se registra un número par de candidatos a presidentes municipales, el 50% de las candidaturas corresponderá a un mismo género; en caso de que se trate de número impar, el porcentaje de cada género será el más cercano a dicha cifra. En cada planilla deberán alternarse las propuestas de uno y otro género; las candidaturas deberán ser tanto propietarios y suplentes del mismo género;
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+d) En el caso de las diputaciones por ambos principios e integrantes de los ayuntamientos, garantizarán la inclusión de jóvenes entre los 18 y 29 años de edad, en los porcentajes que determinen sus respectivos estatutos; procurarán la representación de la población indígena, personas con discapacidad, personas de la diversidad sexual y otros grupos vulnerables en las candidaturas de diputaciones por ambos principios de representación y en las candidaturas para integrar los Ayuntamientos. Para el cumplimiento de lo dispuesto en esta fracción, los PARTIDOS POLÍTICOS, adaptarán, conforme a sus estatutos y reglamentos, los procesos internos de selección de sus candidatos.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+e) Determinar y hacer públicos criterios objetivos para garantizar la paridad de género en las candidaturas a diputaciones y munícipes. En ningún caso se admitirán criterios que tengan como resultado que a alguno de los géneros le sean asignados exclusivamente aquellos distritos en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE JUNIO DE 2017)</small>
+
+El incumplimiento de cualquiera de las obligaciones contenidas en los incisos a) al d) de esta fracción, dará lugar a la negativa del registro de las candidaturas a que la misma se refiere. En caso de ser posible, atendiendo a la fecha de conclusión del periodo para efectuar los registros de las candidaturas, la autoridad electoral competente requerirá a los PARTIDOS POLÍTICOS para que subsanen las irregularidades que hubiere detectado, en el término que al efecto señale dentro de dicho periodo.
 
 XXII. Cumplir con las obligaciones que este CÓDIGO les establece en materia de transparencia y acceso a su información;
 
@@ -787,9 +845,17 @@ XXV. Publicar y difundir en el ESTADO, así como en los tiempos que les correspo
 
 XXVI. Actuar y conducirse sin ligas de dependencia o subordinación con partidos políticos, personas físicas o morales extranjeras, organismos o entidades internacionales y de ministros de culto de cualquier religión, y
 
-> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
 
-XXVII. Las demás que señale este CÓDIGO y otras disposiciones aplicables.
+XXVII. Contar con una página de Internet en la que difundan sus actos de campaña y de proselitismo político;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+XXVIII. Promover y establecer acciones para prevenir, atender, sancionar y erradicar la violencia política en contra de las mujeres, con el fin de proteger y garantizar el acceso y el ejercicio pleno de sus derechos político-electorales; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 29 DE JUNIO DE 2017)</small>
+
+XXIX. Las demás que señale este CÓDIGO y otras disposiciones aplicables.
 
 ###### ARTÍCULO 52.
 
@@ -1109,187 +1175,131 @@ Para el caso que el INSTITUTO deba realizar procedimientos relativos a la revisi
 
 (DEROGADO, P.O. 14 DE JUNIO DE 2014)
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE JUNIO DE 2017)</small>
 
-### CAPÍTULO IX. DE LOS FRENTES
+### CAPÍTULO IX. DE LAS CANDIDATURAS COMUNES
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 72.
 
-Los PARTIDOS POLÍTICOS podrán constituir frentes, para alcanzar objetivos políticos y sociales compartidos de índole no electoral, mediante acciones y estrategias específicas comunes.
+La candidatura común es la unión de dos o más PARTIDOS POLÍTICOS, sin mediar coalición, para postular al mismo candidato, fórmulas o planillas, cumpliendo los requisitos de este CÓDIGO.
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 73.
 
-Los partidos de nuevo registro no podrán convenir frentes, antes de la conclusión de la primera elección inmediata posterior a su registro.
+Los PARTIDOS POLÍTICOS tendrán derecho a postular candidaturas comunes para la elección de GOBERNADOR, diputados e integrantes de los ayuntamientos, y podrán ejercerlo mediante un convenio firmado por sus dirigentes o representantes que cuenten con facultades para ello, el cual presentarán para su REGISTRO ante el INSTITUTO, a más tardar treinta días antes del inicio del periodo de precampaña de la elección de que se trate.
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 74.
 
-Para constituir un frente deberá celebrarse un convenio en el que se hará constar:
+El convenio de candidatura común deberá contener:
 
-I. Su duración;
+I. Nombre de los partidos que la conforman, así como el tipo de elección de que se trate;
 
-II. Las causas que lo motiven;
+II. Emblema común de los partidos que la conforman y el color o colores con que se participa y que aparecerán en las boletas electorales;
 
-III. Los propósitos que persiguen, y
+III. La manifestación por escrito de proporcionar al INSTITUTO, una vez concluidos sus procesos internos, el nombre, apellidos, edad, lugar de nacimiento, domicilio, clave de la credencial para votar y el consentimiento por escrito del candidato común;
 
-IV. La forma que convengan los PARTIDOS POLÍTICOS para ejercer en común sus prerrogativas, dentro de los señalamientos de este CÓDIGO.
+IV. La aprobación del convenio por parte de los órganos directivos correspondientes de cada uno de los PARTIDOS POLÍTICOS postulantes del candidato común;
 
-El convenio que se celebre para integrar un frente deberá presentarse al INSTITUTO, el que dentro del término de diez días hábiles resolverá si cumple los requisitos legales y en su caso dispondrá su publicación en el Periódico Oficial del ESTADO para que surta sus efectos.
+V. La forma en que se acreditarán los votos a cada uno de los PARTIDOS POLÍTICOS que postulan la candidatura común, para efectos de la conservación del REGISTRO, para el otorgamiento del financiamiento público y, en su caso, para aquellos otros que establezca este CÓDIGO;
 
-Los PARTIDOS POLÍTICOS que integren un frente, conservarán su personalidad jurídica, su registro y su identidad.
+VI. Indicar las aportaciones en porcentajes de cada uno de los partidos para gastos de campaña, sujetándose a los límites de contratación de los medios de comunicación distintos a radio y televisión, así como a los topes de gastos de campaña determinados por el CONSEJO GENERAL; y
+
+VII. Para las elecciones de diputados e integrantes de los ayuntamientos, determinar el partido político al que pertenecerán los candidatos, en caso de resultar electos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 75.
 
-(DEROGADO, P.O. 14 DE JUNIO DE 2014)
+Al convenio de candidatura común se acompañará lo siguiente:
+
+I. El compromiso por escrito de que los PARTIDOS POLÍTICOS postulantes del candidato común entregarán en tiempo y forma al INSTITUTO su plataforma electoral por cada uno de ellos;
+
+II. Las actas que acrediten que los partidos aprobaron de conformidad con sus estatutos, la firma del convenio de candidatura común para la elección que corresponda; y
+
+III. El consentimiento por escrito del candidato común.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 76.
 
-(DEROGADO, P.O. 14 DE JUNIO DE 2014)
+El CONSEJO GENERAL, dentro de los cinco días siguientes a la presentación de la solicitud de registro del convenio de candidatura común, deberá resolver lo conducente sobre la procedencia del mismo y publicará su acuerdo en el periódico oficial "El Estado de Colima".
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 77.
 
-(DEROGADO, P.O. 14 DE JUNIO DE 2014)
+Los PARTIDOS POLÍTICOS que postulen candidatos comunes no podrán postular candidatos propios, independientes, ni de otros PARTIDOS POLÍTICOS para la elección que convinieron la candidatura común.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 78.
 
-(DEROGADO, P.O. 14 DE JUNIO DE 2014)
+Los PARTIDOS POLÍTICOS que postulen candidatos comunes mantendrán su autonomía y serán responsables de sus actos para los efectos de la integración de los órganos electorales, financiamiento, asignación de tiempos de radio y televisión, así como de la responsabilidad en materia electoral y civil.
+
+Los votos se computarán a favor del candidato común y la acreditación del porcentaje de votación será conforme al convenio de candidatura común registrado ante el INSTITUTO. La votación que se acredite a los PARTIDOS POLÍTICOS con motivo de su participación en una candidatura común, será válida para determinar la asignación de diputados por el principio de representación proporcional, en base a la lista que cada uno de ellos hubiera registrado.
+
+En la boleta deberá aparecer en un mismo espacio el emblema común de los partidos.
+
+Los PARTIDOS POLÍTICOS que participen en la postulación de candidaturas comunes, no podrán convenir otras formas de participación con otros partidos en la misma elección.
+
+Los PARTIDOS POLÍTICOS que participen en la postulación de candidaturas comunes, recibirán íntegro el financiamiento público a que tengan derecho para actos tendientes a la obtención del voto.
+
+Los PARTIDOS POLÍTICOS que participen en la postulación de candidaturas comunes podrán realizar modificaciones a su convenio en cualquier momento y hasta 10 días antes de la jornada electoral correspondiente, pero las mismas deberán invariablemente ser sometidas a la aprobación del CONSEJO GENERAL, mismo que resolverá en un término máximo de 48 horas respecto de su procedencia. Los acuerdos que se pronuncien sobre la solicitud de modificaciones a los convenios de candidatura común, deberán publicarse en el periódico oficial "El Estado de Colima". Llegada la etapa de la celebración de la jornada electoral, el Consejo no podrá pronunciarse con respecto a ninguna modificación de los convenios, manteniéndose los mismos en los términos previamente aprobados.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 79.
 
-(DEROGADO, P.O. 14 DE JUNIO DE 2014)
+La candidatura común quedará disuelta al concluir el proceso electoral o, en su caso, en el momento en que se resuelva la última instancia impugnativa de la elección de que se trate, debiendo en su oportunidad el CONSEJO GENERAL emitir la declaración correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 80.
 
-(DEROGADO, P.O. 14 DE JUNIO DE 2014)
+Los PARTIDOS POLÍTICOS de nuevo registro no podrán convenir una candidatura común, antes de la conclusión de la primera elección local inmediata posterior a su REGISTRO.
 
-> <small>N. DE E. DEROGADAS SECCIÓN PRIMERA Y SECCIÓN SEGUNDA DEL CAPÍTULO X, P.O. 14 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE JUNIO DE 2014)</small>
+### CAPÍTULO X. DE LOS FRENTES, LAS COALICIONES Y LAS FUSIONES
 
-### CAPÍTULO X. DE LAS COALICIONES
-
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 81.
 
-Los PARTIDOS POLÍTICOS podrán formar coaliciones totales, parciales y flexibles.
-
-I. Se entiende como coalición total, aquella en la que los PARTIDOS POLÍTICOS coaligados postulan en un mismo proceso, a la totalidad de sus candidatos a puestos de elección popular bajo una misma plataforma electoral.
-
-Si dos o más partidos se coaligan en forma total para las elecciones de diputados, deberán coaligarse para la elección de Gobernador.
-
-Si una vez registrada la coalición total, la misma no registrara a los candidatos a los cargos de elección, en los términos del párrafo anterior, y dentro de los plazos señalados para tal efecto en el presente CÓDIGO, la coalición y el registro del candidato para la elección de Gobernador quedarán automáticamente sin efectos;
-
-II. Coalición parcial es aquella en la que los PARTIDOS POLÍTICOS coaligados postulan en un mismo proceso, al menos al cincuenta por ciento de sus candidatos a puestos de elección popular bajo una misma plataforma electoral, y
-
-III. Se entiende como coalición flexible, aquella en la que los PARTIDOS POLÍTICOS coaligados postulan en un mismo proceso electoral local, al menos a un veinticinco por ciento de candidatos a puestos de elección popular bajo una misma plataforma electoral.
-
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+Los frentes, coaliciones y fusiones de los PARTIDOS POLÍTICOS se rigen por lo dispuesto en la Ley General de Partidos Políticos, la LEGIPE, el Reglamento de Elecciones del Instituto Nacional Electoral y demás disposiciones relativas emitidas por la autoridad competente.
 
 ###### ARTÍCULO 82.
 
-Los PARTIDOS POLÍTICOS podrán coaligarse para postular candidaturas de convergencia en las elecciones locales, siempre que hayan participado, cuando menos, en la elección inmediata anterior, de conformidad con las siguientes bases
-
-I. Para postular candidato o candidatos coaligados deberá acreditarse el convenio suscrito por los PARTIDOS POLÍTICOS;
-
-II. El convenio para registrar candidaturas coaligados podrá celebrarse por dos o más PARTIDOS POLÍTICOS;
-
-III. Las fórmulas o planillas que postulen dos o más PARTIDOS POLÍTICOS, deberán estar integradas, sin excepción, por los mismos candidatos propietarios y suplentes, en su caso;
-
-IV. Los PARTIDOS POLÍTICOS no podrán postular candidatos propios donde ya hubiere registradas candidaturas coaligadas de las que ellos formen parte;
-
-V. Ningún partido político podrá registrar como candidato propio a quien ya haya sido registrado como candidato coaligado por otros partidos;
-
-VI. Los PARTIDOS POLÍTICOS o coaliciones no podrán postular como candidato común a quien ya haya sido registrado como candidato por algún otro partido político o coalición;
-
-VII. Los candidatos a Diputados y a miembros de los Ayuntamientos que participen como candidatos coaligados y que resulten electos, quedarán comprendidos en el partido político o grupo parlamentario que se haya señalado en el convenio;
-
-VIII. Independientemente del tipo de elección, acuerdo y términos que en el mismo adopten los partidos con candidaturas coaligadas, cada uno de ellos aparecerá con su propio emblema en la boleta electoral, según la elección de que se trate;
-
-IX. La coalición deberá presentar, con la solicitud de registro de las candidaturas de convergencia, la constancia de que las mismas fueron aprobadas por parte de los órganos de gobierno estatales de cada partido coaligado;
-
-X. Para efectos del registro de la lista de candidatos para Diputados por el principio de representación proporcional, cada partido político presentará su lista por separado; y
-
-XI. Ningún partido político podrá participar en más de un acuerdo para formar una coalición para la misma elección. Dichas candidaturas, no podrán ser diferentes, en lo que hace a los partidos que las integran.
-
-Los PARTIDOS POLÍTICOS deberán acreditar, que sus órganos de gobierno estatal o equivalente aprobaron verificar coalición. Concluido el proceso electoral terminará automáticamente el acuerdo de coalición.
-
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+(DEROGADO, P.O. 29 DE JUNIO DE 2017)
 
 ###### ARTÍCULO 83.
 
-Los PARTIDOS POLÍTICOS deberán presentar, por lo menos 30 días antes del inicio del período de precampaña de la elección de que se trate, ante el CONSEJO GENERAL o ante los CONSEJOS MUNICIPALES, según corresponda, el convenio para registrar coalición. En el caso de coalición total, el acuerdo se registrará ante el CONSEJO GENERAL.
-
-Los órganos referidos deberán resolver lo conducente dentro de los diez días siguientes.
-
-El acuerdo para registrar coalición contendrá:
-
-I. Los PARTIDOS POLÍTICOS que la forman;
-
-II. Elección o elecciones que la motivan;
-
-III. Se deberá acompañar la plataforma electoral, así como los documentos en que conste la aprobación de la misma por los órganos partidistas correspondientes;
-
-IV. El procedimiento que seguirá cada partido para la selección de candidatos que serán postulados por la coalición;
-
-V. El señalamiento, de ser el caso, del partido político al que pertenece originalmente cada uno de los candidatos coaligados y el señalamiento del grupo parlamentario o partido político en el que quedarían comprendidos, de resultar electos, y
-
-VI. Para el caso de la interposición de los medios de impugnación previstos en la ley de la materia, quien ostentaría la representación de la coalición.
-
-En el convenio de coalición se deberá manifestar que los partidos políticos coaligados, según el tipo de coalición de que se trate, se sujetarán a los topes de gastos de campaña que se hayan fijado para las distintas elecciones, como si se tratara de un solo partido. De la misma manera, deberá señalarse el monto de las aportaciones de cada partido político coaligado para el desarrollo de las campañas respectivas, así como la forma de reportarlo en los informes correspondientes.
-
-A las coaliciones totales, parciales y flexibles les será otorgada la prerrogativa de acceso a tiempo en radio y televisión en los términos previstos por la LEGIPE.
-
-En todo caso, los mensajes en radio y televisión que correspondan a candidatos de coalición deberán identificar esa calidad y el partido responsable del mensaje.
-
-Es aplicable a las coaliciones electorales, cualquiera que sea su ámbito territorial y tipo de elección, en todo tiempo y circunstancia, lo establecido en el segundo párrafo del Apartado A de la Base III del artículo 41 de la CONSTITUCIÓN FEDERAL.
-
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+(DEROGADO, P.O. 29 DE JUNIO DE 2017)
 
 ###### ARTÍCULO 84.
 
-Los PARTIDOS POLÍTICOS que postulen candidato o candidatos coaligados parcialmente, conservarán cada uno sus obligaciones y prerrogativas, así como su propia representación en los Consejos del INSTITUTO y ante las mesas directivas de casilla.
-
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+(DEROGADO, P.O. 29 DE JUNIO DE 2017)
 
 ###### ARTÍCULO 85.
 
-Los votos obtenidos a través de candidaturas coaligadas se sujetaran al siguiente procedimiento:
-
-I. En las actas de escrutinio y cómputo de las casillas y de los CONSEJOS MUNICIPALES, los votos se acreditarán a cada partido político;
-
-II. Se sumarán los votos de los PARTIDOS POLÍTICOS, a los del candidato coaligado; y
-
-III. Los votos obtenidos por cada partido político les serán tomados en cuenta para determinar su porcentaje en la votación total correspondiente y para los efectos de la asignación de diputados y regidores por el principio de representación proporcional.
+(DEROGADO, P.O. 29 DE JUNIO DE 2017)
 
 ###### ARTÍCULO 86.
 
-(DEROGADO, P.O. 14 DE JUNIO DE 2014)
+(DEROGADO, P.O. 14 DE JUNIO DE 2014) (REPUBLICADO, P.O. 29 DE JUNIO DE 2017)
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE JUNIO DE 2017)</small>
 
 ### CAPÍTULO XI. DE LAS FUSIONES
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
-
 ###### ARTÍCULO 87.
 
-La fusión de partidos sólo podrá realizarse entre dos o más PARTIDOS POLÍTICOS locales.
-
-Los PARTIDOS POLÍTICOS locales que decidan fusionarse, deberán celebrar un convenio en el que invariablemente se establecerán las características del nuevo partido; o cuál de los partidos políticos locales conserva su personalidad jurídica y la vigencia de su registro; y qué partido o partidos quedarán fusionados. El convenio de fusión deberá ser aprobado por la asamblea estatal o equivalente de cada uno de los partidos que participen en la fusión.
-
-Para todos los efectos legales, la vigencia del registro del nuevo partido será la que corresponda al registro del partido más antiguo entre los que se fusionen.
-
-Los derechos y prerrogativas que correspondan al nuevo partido le serán reconocidos y asignados tomando como base la suma de los porcentajes de votación que los partidos fusionados obtuvieron en la última elección para diputados locales por el principio de representación proporcional.
-
-El convenio de fusión deberá presentarse al presidente del CONSEJO GENERAL, para que, una vez hecha la revisión a que se refiere el párrafo segundo de este artículo lo someta a la consideración del CONSEJO GENERAL.
-
-El CONSEJO GENERAL resolverá sobre la vigencia del registro del nuevo partido, dentro del término de treinta días siguientes a su presentación y, en su caso, dispondrá su publicación en el Periódico Oficial del Estado.
-
-Para fines electorales, el convenio de fusión deberá comunicarse al presidente del CONSEJO GENERAL a más tardar un año antes al día de la elección.
+(DEROGADO, P.O. 29 DE JUNIO DE 2017)
 
 ### CAPÍTULO XII. DE LA PÉRDIDA DE REGISTRO Y CANCELACIÓN DE INSCRIPCIÓN
 
@@ -1719,7 +1729,9 @@ XXXI. Intervenir en materia de observación electoral en base a los lineamientos
 
 XXXII. Solicitar directamente o por medio de sus órganos y dependencias, el auxilio de la fuerza pública necesaria para garantizar en los términos de este CÓDIGO el desarrollo del proceso electoral;
 
-XXXIII. Dictar todo tipo de acuerdos y previsiones para hacer efectivas las disposiciones de este CÓDIGO;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+XXXIII. Aprobar todo tipo de acuerdos, formatos y previsiones para hacer efectivas las disposiciones de este CÓDIGO;
 
 XXXIV. Aplicar las sanciones que le competan de acuerdo con este CÓDIGO;
 
@@ -2061,7 +2073,7 @@ Las mesas directivas de casilla y sus funcionarios, en los términos de este CÓ
 
 I. De los integrantes de las mesas directivas de casilla:
 
-a) Instalar y clausurar la casilla en los términos de este esta (sic) Ley;
+a) Instalar y clausurar la casilla en los términos de este (sic) esta Ley;
 
 b) Recibir la votación;
 
@@ -2221,13 +2233,9 @@ Ningún ciudadano podrá participar simultáneamente en procesos de selección i
 
 Se entenderán como actos de precampaña y propaganda preelectoral los actos y conjunto de elementos señalados en el artículo 173 y 174 de este CÓDIGO que lleven a cabo, produzcan y difundan los precandidatos que participen en los procesos internos de los PARTIDOS POLÍTICOS.
 
-(NOTA: EL 22 DE SEPTIEMBRE DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 32/2014, Y SU ACUMULADA, 33/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE SEPTIEMBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
-
 ###### ARTÍCULO 144.
 
-No se considerará proselitismo o actos de precampaña la realización de actividades propias de la gestión o realización de informes inherentes de un puesto de elección popular, ni tampoco la entrevista esporádica en medios de comunicación, en períodos distintos a los de precampañas, en las cuales se exprese la intención de buscar una candidatura. En estos casos habrá de considerarse las disposiciones que para tal efecto establezcan la CONSTITUCIÓN FEDERAL, la LEGIPE y demás leyes o reglamentos aplicables.
+(DEROGADO, P.O. 29 DE JUNIO DE 2017)
 
 ###### ARTÍCULO 145.
 
@@ -2355,23 +2363,47 @@ V. Las aportaciones en bienes deberán destinarse única y exclusivamente para e
 
 ### CAPÍTULO II. DEL PROCEDIMIENTO DE REGISTRO DE CANDIDATOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 160.
 
-Corresponde exclusivamente a los PARTIDOS POLÍTICOS el derecho de solicitar el registro de candidatos a cargos de elección popular, de conformidad con las siguientes reglas:
+Los PARTIDOS POLÍTICOS podrán solicitar el registro de candidatos a cargos de elección popular, de conformidad con las siguientes reglas:
 
-I. Para la candidatura de GOBERNADOR, se registrará un ciudadano por cada PARTIDO POLÍTICO o coalición;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
 
-II. Las candidaturas a Diputados por el principio de mayoría relativa se registrarán por fórmulas compuestas cada una por un propietario y un suplente;
+I. Para la candidatura a GOBERNADOR, un ciudadano por cada partido político, por convenio de coalición o de candidatura común;
 
-III. Los diputados por representación proporcional se registrarán por lista integrada únicamente por nueve candidatos propietarios; y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
 
-IV. Para los Ayuntamientos, las candidaturas se comprenderán en una sola planilla que enliste ordenadamente a los candidatos a Presidente Municipal, Síndico y Regidores, con sus respectivos suplentes, debiendo observar las bases establecidas en el artículo 89 de la CONSTITUCIÓN.
+II. Para las candidaturas a diputados por el principio de mayoría relativa, se integrarán fórmulas compuestas cada una por un propietario y un suplente de un mismo género. Asimismo, del total de los distritos electorales en los que participen, de manera individual, en candidatura común o en coalición, presentarán candidatos de un mismo género en el 50% de los mismos. Si la participación comprende un número impar de distritos, las candidaturas de un mismo género no podrán ser mayores de una fórmula;
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
 
-Ningún partido político podrá registrar a un candidato independiente, ni de otro partido, salvo en este último caso que se trate de una coalición, previo registro del convenio correspondiente ante el CONSEJO GENERAL o el Consejo Municipal respectivo.
+III. Para las candidaturas a diputados por el principio de representación proporcional, se presentará una lista de prelación, integrada por nueve candidatos propietarios, alternando propuestas de uno y otro género; y
 
-En el caso de que para un mismo cargo de elección popular se solicite el registro de diferentes candidatos por un mismo partido político, el Secretario Ejecutivo del CONSEJO respectivo, una vez detectada esta situación, requerirá al partido a efecto de que informe al consejo correspondiente, en un término de 24 horas, qué candidato o fórmula prevalece. En caso de no hacerlo se entenderá que el partido político opta por la última de las solicitudes de registro presentada, quedando sin efecto los demás.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+IV. Para los ayuntamientos, las candidaturas se comprenderán en una sola planilla que enliste ordenadamente a los candidatos a Presidente Municipal, Síndico y regidores, con sus respectivos suplentes, debiendo observar las bases establecidas en los artículos 86 Bis, 89 y 90 de la CONSTITUCIÓN.
+
+Cada fórmula de los cargos citados en el párrafo anterior estará integrada por un propietario y un suplente del mismo género; se enlistarán ordenadamente candidatos de género distinto, de manera alternada, atendiendo al orden de prelación hasta agotar la planilla correspondiente.
+
+Las personas que por elección indirecta, por nombramiento o designación de alguna autoridad, desempeñen las funciones propias de munícipes, cualquiera que sea la denominación que se les dé, podrán ser registradas como candidatos para el mismo cargo en el propio Cabildo, únicamente para el periodo inmediato.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+Ningún partido político podrá registrar a un candidato de otro partido, salvo que se trate de una coalición o candidatura común, previo registro del convenio correspondiente ante el CONSEJO GENERAL o el Consejo Municipal respectivo.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+En el caso de elección consecutiva, no podrán registrar como candidato a un Diputado o munícipe, propietario o suplente, de otro partido, que haya renunciado o perdido su militancia en él, después de la mitad del periodo del mandato correspondiente.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+Cuando el CONSEJO respectivo detecte que para un mismo cargo de elección popular se solicita el registro de diferentes candidatos por un mismo partido político, el Secretario Ejecutivo requerirá al partido a efecto de que informe qué candidato o fórmula prevalece, concediéndole para ello un término que no excederá del periodo de registro. En caso de no hacerlo, prevalecerá la última de las solicitudes de registro presentada.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+Los candidatos independientes no podrán ser registrados por ningún partido, coalición o candidatura común.
 
 ###### ARTÍCULO 161.
 
@@ -2449,9 +2481,21 @@ b) Copia certificada del acta de nacimiento;
 
 c) Copia certificada del anverso y reverso de la CREDENCIAL;
 
-d) Documentación que acredite que los ciudadanos postulados cumplen con los requisitos de elegibilidad; y
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
 
-e) Constancia de que el partido político o coalición cumplió con lo establecido en el artículo 51 en sus fracciones V, X, XI y XXI de este ordenamiento.
+d) Documentación que acredite que los ciudadanos postulados cumplen con los requisitos de elegibilidad;
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+e) Constancia de que el partido político o coalición cumplió con lo establecido en el artículo 51 en sus fracciones V, X, XI y XXI de este ordenamiento;
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+f) Declaración de situación patrimonial y de no conflicto de intereses bajo el formato que apruebe el INSTITUTO, así como copia de su declaración fiscal, tanto de propietarios como de suplentes, las cuales deberá publicar en su página de Internet; y
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+g) Dirección de la página de Internet en la que difundirán sus actos de campaña y de proselitismo político.
 
 ###### ARTÍCULO 165.
 
@@ -3099,7 +3143,7 @@ En todo caso el apartado correspondiente al cierre de votación contendrá la ho
 
 ### CAPÍTULO IV. DEL ESCRUTINIO Y CÓMPUTO
 
-###### ARTICULO 229.
+###### ARTÍCULO 229.
 
 Una vez cerrada la votación, llenado y firmado el apartado correspondiente del acta de la jornada electoral, los integrantes de la mesa directiva de casilla procederán al escrutinio y cómputo de los votos sufragados.
 
@@ -3539,23 +3583,45 @@ I. Revisará las actas de cómputo distrital y tomará nota de sus resultados;
 
 II. Sumará los votos que cada partido político haya obtenido en todos los distritos uninominales, así como los obtenidos para la elección de Diputados plurinominales en las casillas especiales, levantando acta donde conste el resultado del cómputo total;
 
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
 
-III. En el caso de coalición, se procederá a determinar la votación correspondiente a cada partido según se trate; y
+III. En el caso de coalición o candidatura común, se procederá a determinar la votación correspondiente a cada partido según se trate; y
 
 IV. Después de realizar lo que disponen las fracciones anteriores, el CONSEJO GENERAL, procederá a la asignación de Diputados por el principio de representación proporcional.
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 258.
 
-La circunscripción electoral comprenderá la totalidad del territorio del ESTADO y en ella, la votación válida emitida será el resultante de deducir de la votación total, las votaciones de los PARTIDOS POLÍTICOS que no hayan alcanzado el 3% de la votación estatal emitida, los votos nulos y los votos obtenidos por los candidatos independientes.
+La circunscripción electoral comprenderá la totalidad del territorio del ESTADO y en ella, la votación válida emitida se entenderá como la votación efectiva a que refiere el artículo 22 de la CONSTITUCIÓN, que será la resultante de deducir de la votación emitida, los votos de los PARTIDOS POLÍTICOS que no hayan alcanzado el 3% de dicha votación, los votos nulos, los obtenidos por los candidatos independientes y por los candidatos no registrados.
 
-Todo partido político que alcance por lo menos el 3% de la votación estatal y haya cumplido con lo dispuesto por el artículo 165 de este CÓDIGO, tendrá derecho a participar en la asignación de Diputados por el principio de representación proporcional y, en su caso, a que le sean atribuidos diputados por dicho principio.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
 
-Al partido político que cumpla con lo dispuesto en el párrafo anterior, independiente y adicionalmente a las constancias de mayoría relativa que hubiesen obtenido sus candidatos, le serán asignados por el principio de representación proporcional de acuerdo con su votación el número de diputados que le corresponda.
+Todo partido político que alcance, por lo menos, el 3% de la votación emitida y haya cumplido con lo dispuesto por el artículo 165 de este CÓDIGO, tendrá derecho a participar en la asignación de diputados por el principio de representación proporcional y, en su caso, a que le sean atribuidos diputados por dicho principio, de conformidad con el artículo siguiente.
 
-Ningún partido político o coalición podrá contar con más de 16 diputados por ambos principios. De igual manera, su número no representará un porcentaje del total de la legislatura que exceda en 8 puntos su porcentaje de votación emitida. Esta disposición no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento. Para reconocer y garantizar la representación y pluralidad de las fuerzas políticas que contiendan en la entidad federativa, la asignación de diputados locales de representación proporcional se realizará conforme al procedimiento previsto en el artículo siguiente.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+Al partido político que cumpla con lo dispuesto en el párrafo anterior, adicionalmente a las constancias de mayoría relativa que hubiesen obtenido sus candidatos, le serán asignados por el principio de representación proporcional, el número de diputados que le corresponda.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+Ningún partido político o coalición podrá contar con más de 16 diputados por ambos principios.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+De igual manera, su número no representará un porcentaje del total de la legislatura que exceda en 8 puntos su porcentaje de la votación válida emitida.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+Lo dispuesto en el párrafo anterior no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje con base a la votación válida emitida más el ocho por ciento.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+Para reconocer y garantizar la representación y pluralidad de las fuerzas políticas que contiendan en el ESTADO, la asignación de diputados locales de representación proporcional se realizará conforme al procedimiento previsto en el artículo siguiente.
 
 > <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
 
@@ -3573,13 +3639,19 @@ Para la asignación de diputaciones por el principio de representación proporci
 
 a) El CONSEJO GENERAL, para iniciar con el procedimiento de asignación, primero determinará el porcentaje mínimo y el cociente de asignación a que se refieren las fracciones I y II de este artículo, respectivamente;
 
-b) En una primera ronda, se asignará un diputado a cada partido político que no se encuentre en el supuesto del cuarto párrafo del artículo 258 y que hayan obtenido por lo menos el 3.0% de la votación efectiva.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2017)</small>
+
+b) En una primera ronda, se asignará un diputado a cada partido político que no se encuentre en los supuestos señalados en los párrafos cuarto al sexto del artículo anterior y que hayan obtenido por lo menos el 3% de la votación válida emitida.
 
 De la totalidad de la votación de cada partido político se restarán los votos que hayan sido utilizados en esta ronda de asignación;
 
-c) En una segunda ronda y si existieran más diputaciones por repartir, se realizará la asignación por la base de cociente de asignación de manera alternada entre cada partido político con base a su votación restante; dicha asignación seguirá un orden de mayor a menor porcentaje de la votación válida emitida que cada partido político hubiera obtenido, iniciando con el partido político que hubiere obtenido mayor porcentaje de votación efectiva; dicha distribución se hará con base en la fracción I del artículo 260 de este CÓDIGO, y
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
 
-d) En una tercera ronda y si existieran más diputaciones por distribuir, se iniciará la repartición por resto mayor, observando lo dispuesto por la fracción II del artículo 260 de este CÓDIGO.
+c) Si existieran más diputaciones por repartir, en una segunda ronda, se realizará la distribución por la base del cociente de asignación, de manera alternada entre cada partido político con base en su votación restante; dicha asignación seguirá un orden de mayor a menor porcentaje de la votación válida emitida que cada partido político hubiera obtenido, iniciando con el que cuente con el mayor porcentaje de votación válida emitida; dicha distribución se hará con base en la fracción I del artículo siguiente; y
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+d) Si aun quedaren más diputaciones por distribuir, en una tercera ronda, se efectuará la repartición por resto mayor, observando lo dispuesto por la fracción II del artículo siguiente.
 
 ###### ARTÍCULO 260.
 
@@ -3591,7 +3663,7 @@ II. Si después de aplicarse el cociente de asignación quedan diputaciones por 
 
 III. Todas las asignaciones seguirán el orden que los candidatos a diputados plurinominales tengan en las listas respectivas.
 
-###### ARTICULO 261.
+###### ARTÍCULO 261.
 
 El CONSEJO GENERAL expedirá a cada partido político las constancias de asignación de diputados de representación proporcional. Así mismo entregará a cada uno de los candidatos a quienes no se haya entregado constancia de asignación, una donde se exprese el orden de prelación conforme aparecieron en la lista de registro de diputados por dicho principio, para efectos de lo dispuesto en el artículo 22 de la CONSTITUCIÓN.
 
@@ -4247,6 +4319,10 @@ II. Realizar o promover aportaciones económicas a un partido político, aspiran
 
 III. El incumplimiento, en lo conducente, de de (sic) las disposiciones contenidas en la LEGIPE, la Ley General de Partidos Políticos, este CÓDIGO y demás normatividad aplicable.
 
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+ARTÍCULO 295 BIS.- Se considerarán infracciones de cualquiera de los sujetos señalados en el artículo 285 del CÓDIGO, los actos u omisiones relacionados con la materia electoral que constituyan violencia política en contra de la mujer, en los términos que disponen los artículos 30 Ter, 30 Quáter y 30 Quinquies de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Colima.
+
 > <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
 
 ###### ARTÍCULO 296.
@@ -4847,11 +4923,13 @@ II. Imponer las sanciones que resulten procedentes en términos de lo dispuesto 
 
 ###### ARTÍCULO 326.
 
-Se considerará como delito electoral todo acto u omisión dolosa que contravenga lo dispuesto por el presente CÓDIGO y se encuentre previsto en la ley penal, ya sea que se cometa antes, durante o después de la jornada electoral.
+(DEROGADO, P.O. 29 DE JUNIO DE 2017)
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 327.
 
-A los servidores públicos, funcionarios electorales y ciudadanos en general que incurran en algún delito electoral, se les aplicarán las penas establecidas en el capítulo X, denominado "De los Delitos Electorales", del Título Primero, Sección Segunda del Código Penal para el Estado de Colima. A los servidores públicos, además de las sanciones ya mencionadas, se les podrán aplicar las establecidas por la Ley Estatal de Responsabilidades de los Servidores Públicos.
+A los servidores públicos, funcionarios electorales y ciudadanos en general que incurran en algún delito previsto por la Ley General en Materia de Delitos Electorales, además de las penas establecidas en dicho ordenamiento, se les podrán aplicar las sanciones establecidas por la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
 > <small>(ADICIONADO CON EL TÍTULO, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE JUNIO DE 2014)</small>
 
@@ -4919,7 +4997,9 @@ II. Los cargos electivos para los que se convoca;
 
 III. Los requisitos para que los ciudadanos emitan los respaldos a favor de los aspirantes, que en ningún caso excederán a los previstos en este CÓDIGO;
 
-IV. El calendario que establezca fechas, horarios y lugares en los cuales se deberán presentar las solicitudes de aspirantes y la comparecencia de los ciudadanos que acudan personalmente a manifestarles su apoyo;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+IV. El calendario que establezca fechas, horarios y lugares en los cuales se deberán presentar las solicitudes de aspirantes, así como los formatos de respaldo ciudadano, acompañados de la relación de nombres, firmas y copias de las credenciales de elector, para su validación por parte del INE;
 
 V. La forma de llevar a cabo el cómputo de dichos respaldos, y
 
@@ -4955,11 +5035,21 @@ IV. Clave de Elector;
 
 V. Tratándose del registro de fórmulas y planillas, deberá especificarse el propietario y suplente;
 
-VI. La designación de un representante, así como del responsable del registro, administración y gasto de los recursos a utilizar en la obtención del respaldo ciudadano;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
 
-VII. La identificación de los colores y, en su caso, emblema que pretendan utilizar en la propaganda para obtener el respaldo ciudadano, los cuales no podrán ser iguales o semejantes a los utilizados por los partidos políticos con registro o acreditación vigente. Si dos o más aspirantes coinciden en estos elementos, prevalecerá el que haya sido presentado en primer término, solicitando al resto que modifiquen su propuesta, y
+VI. Designación de un representante, así como del responsable del REGISTRO, administración y gasto de los recursos a utilizar en la obtención del respaldo ciudadano;
 
-VIII. La designación de domicilio y personas autorizadas para oír y recibir notificaciones; mismo que se ubicará en la capital del Estado o cabecera municipal, según la elección que se trate.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+VII. Identificación de los colores y, en su caso, emblema que pretendan utilizar en la propaganda para obtener el respaldo ciudadano, los cuales no podrán ser iguales o semejantes a los utilizados por los PARTIDOS POLÍTICOS. Si dos o más aspirantes coinciden en estos elementos, prevalecerá el que haya sido presentado en primer término;
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+VIII. Declaración de situación patrimonial, de no conflicto de intereses y copia de su declaración fiscal así como, en su caso, la de sus suplentes, las cuales deberá publicar en su página de Internet; y
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+IX. Designación de domicilio para oír y recibir notificaciones, el que se ubicará en la capital del Estado o cabecera municipal, según la elección que se trate, pudiendo acreditar también personas para tales efectos.
 
 Para efectos de la fracción VII de este artículo, no se podrán utilizar los colores que el Consejo General del INE apruebe para la impresión de las boletas electorales.
 
@@ -4979,9 +5069,17 @@ IV. Constancia original de residencia;
 
 V. El programa de trabajo que promoverán en caso de ser registrados como candidatos independientes,
 
-VI. La Plataforma Electoral en la cual basará sus propuestas; y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
 
-VII. Manifestación escrita, bajo protesta de decir verdad, que cumple con los requisitos señalados por la CONSTITUCIÓN para el cargo de elección popular de que se trate.
+VI. Plataforma electoral en la que basarán sus propuestas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JUNIO DE 2017)</small>
+
+VII. Los formatos de la declaración de situación patrimonial y de no conflicto de intereses aprobados por el INSTITUTO, así como copia de su declaración fiscal y, en su caso, la de sus suplentes; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 29 DE JUNIO DE 2017)</small>
+
+VIII. Manifestación escrita, bajo protesta de decir verdad, que cumple con los requisitos señalados por la CONSTITUCIÓN para el cargo de elección popular de que se trate.
 
 > <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2014)</small>
 
@@ -4997,7 +5095,9 @@ Si de la verificación realizada se advierte la omisión de uno o varios requisi
 
 El CONSEJO GENERAL deberá emitir los acuerdos definitivos relacionados con el registro de aspirantes a candidaturas que procedan, a más tardar el 17 de enero del año de la elección.
 
-Dichos acuerdos se publicaran en los estrados del órgano electoral del INSTITUTO que corresponda y en la página de Internet del INSTITUTO, dentro de las siguientes doce horas en que hayan sido aprobados.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+Dichos acuerdos se notificarán personalmente a todos los interesados, dentro de las veinticuatro horas siguientes, además de fijarse en los estrados del órgano electoral que corresponda y en la página de Internet del INSTITUTO.
 
 > <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2014)</small>
 
@@ -5061,37 +5161,57 @@ X. Retirar la propaganda utilizada, dentro de los tres días posteriores a la fi
 
 XI. Las demás que establezcan este CÓDIGO y los ordenamientos electorales aplicables.
 
-> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 343.
 
-Los ciudadanos que decidan apoyar a un determinado aspirante a candidato independiente deberán comparecer personalmente en los lugares destinados para tal efecto, con su CREDENCIAL, conforme a las siguientes reglas:
+Los ciudadanos que decidan apoyar a un determinado aspirante a candidato independiente, deberán hacerlo por escrito, utilizando los formatos de respaldo aprobados por el CONSEJO GENERAL, acompañando a los mismos copia de su CREDENCIAL, conforme a las siguientes reglas:
 
-I. Las manifestaciones de respaldo se requisitarán en el momento de su entrega en el formato correspondiente que para tal efecto apruebe el CONSEJO GENERAL y contendrán la firma o huella del ciudadano directamente interesado;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
 
-II. La recepción de las manifestaciones se hará ante la presencia de los funcionarios electorales que al efecto se designen y de los representantes que, en su caso, designen los PARTIDOS POLÍTICOS y que los propios aspirantes decidan acreditar;
+I. Los escritos de respaldo contendrán la firma o huella del ciudadano directamente interesado;
 
-III. Las manifestaciones de respaldo para aspirantes a candidatos a GOBERNADOR serán presentadas en las (sic) lugares señalados en la convocatoria y que correspondan al domicilio del ciudadano que otorga el respaldo;
+II. (DEROGADA, P.O. 29 DE JUNIO DE 2017)
 
-IV. Las manifestaciones de respaldo para aspirantes a candidatos a Diputados serán presentadas exclusivamente por ciudadanos con domicilio en ese ámbito territorial, y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
 
-V. Las manifestaciones de apoyo para aspirantes a los Ayuntamientos serán presentadas exclusivamente por los ciudadanos con domicilio en el municipio de que se trate.
+III. Los formatos de respaldo para aspirantes a candidatos a GOBERNADOR serán presentados por los aspirantes, los responsables del REGISTRO a que se refiere la fracción VI del artículo 334 de este CÓDIGO o por los propios ciudadanos, en los lugares señalados en la convocatoria y que correspondan a la demarcación del domicilio del ciudadano que otorga el respaldo;
 
-En la Convocatoria y el Reglamento se establecerán lineamientos para la adecuada recepción de las manifestaciones de respaldo, incluyendo, en su caso, la instalación de módulos que acuerde, en su caso, el CONSEJO GENERAL.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
 
-> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2014)</small>
+IV. Los formatos de respaldo para aspirantes a candidatos a diputados serán presentados por los aspirantes, los responsables del REGISTRO a que se refiere la fracción VI del artículo 334 de este CÓDIGO o por los ciudadanos con domicilio en el distrito electoral que corresponda, en los lugares señalados en la convocatoria; y
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+V. Los formatos de respaldo para aspirantes a los ayuntamientos serán presentados por los aspirantes, los responsables del REGISTRO a que se refiere la fracción VI del artículo 334 de este CÓDIGO o por los ciudadanos con domicilio en el MUNICIPIO de que se trate, en los lugares señalados en la convocatoria.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+En la convocatoria y el reglamento se establecerán lineamientos para la adecuada recepción de los formatos de respaldo, incluyendo, en su caso, la instalación de módulos que acuerde el CONSEJO GENERAL.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 344.
 
-Las manifestaciones de respaldo ciudadano serán nulas en los siguientes casos:
+Los escritos de respaldo ciudadano serán nulos en los siguientes casos:
 
-I. Cuando se haya presentado, por la misma persona, más de una manifestación a favor del mismo aspirante, debiendo prevalecer únicamente la primera que haya sido registrada;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+I. Cuando se haya presentado, por la misma persona, más de un formato de respaldo en favor del mismo aspirante, debiendo prevalecer únicamente el primero que haya sido registrado;
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2014)</small>
 
 II. Cuando se hayan expedido por la misma persona a dos ó más aspirantes al mismo cargo de elección popular;
 
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2014)</small>
+
 III. Cuando carezcan de la firma o, en su caso, huella o datos de identificación en el formato previsto para tal efecto; o bien, cuando tales datos no sean localizados en el padrón electoral;
 
-IV. Cuando los ciudadanos que las expidan hayan sido dados de baja del padrón electoral por encontrarse en alguno de los supuestos señalados en la legislación aplicable, y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+IV. Cuando los ciudadanos que las expidan hayan sido dados de baja de la LISTA, por encontrarse en alguno de los supuestos señalados en la legislación aplicable; y
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2014)</small>
 
 V. Cuando los ciudadanos que las expidan no correspondan al ámbito estatal, distrital o municipal según sea el caso por el que el aspirante pretenda competir.
 
@@ -5105,7 +5225,9 @@ La declaratoria de candidatos independientes que tendrán derecho a ser registra
 
 I. El INSTITUTO verificará la cantidad de manifestaciones de apoyo válidas obtenidas por cada uno de los aspirantes a ser registrados como candidatos independientes a los distintos cargos de elección popular, y
 
-II. De todos los aspirantes registrados a un mismo cargo de elección popular, solamente tendrá derecho a registrarse como candidato independiente aquel que de manera individual, por fórmula o planilla, según sea el caso, haya obtenido la mayoría de las manifestaciones de apoyo válidas, siempre y cuando dichos apoyos sea igual o mayor del 3% del Padrón Electoral de la demarcación territorial de la elección que corresponda.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+II. De todos los aspirantes registrados a un mismo cargo de elección popular, solamente tendrá derecho a registrarse como candidato independiente aquel que de manera individual, por fórmula o planilla, según sea el caso, haya obtenido la mayoría de las manifestaciones de apoyo válidas, siempre y cuando dicho apoyo sea igual o mayor del 3% del último corte de la LISTA de la demarcación territorial de la elección que corresponda.
 
 > <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2014)</small>
 
@@ -5133,9 +5255,21 @@ Los ciudadanos que hayan obtenido el derecho a registrarse como candidatos indep
 
 I. Ratificar el programa de trabajo y la plataforma electoral previamente registrado;
 
-II. El nombramiento de un representante y un responsable de la administración de los recursos financieros y de la presentación de los informes de campaña, y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
 
-III. Señalar los colores y, en su caso, emblema que pretendan utilizar en su propaganda electoral, los cuales no podrán ser iguales o semejantes a los utilizados por los PARTIDOS POLÍTICOS ya existentes.
+II. Nombrar un representante y un responsable de la administración de los recursos financieros y de la presentación de los informes de campaña;
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+III. Señalar los colores y, en su caso, emblema que pretendan utilizar en su propaganda electoral, los cuales no podrán ser iguales o semejantes a los utilizados por los PARTIDOS POLÍTICOS ya existentes;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+IV. Exhibir su declaración de situación patrimonial y de no conflicto de intereses bajo el formato que apruebe el INSTITUTO, así como copia de su declaración fiscal, tanto de propietarios como de suplentes, en su caso; y
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+V. Contar con una página de Internet para difundir sus actos de campaña y de proselitismo político.
 
 Para efectos de la fracción III de este artículo, no se podrán utilizar los colores que el INE apruebe para la impresión de las boletas electorales.
 
@@ -5170,6 +5304,10 @@ El CONSEJO GENERAL deberá resolver la procedencia o improcedencia del registro 
 Los candidatos independientes que obtengan su registro no podrán ser sustituidos en ninguna de las etapas del proceso electoral.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE JUNIO DE 2014)</small>
+
+### CAPÍTULO I. DISPOSICIONES PRELIMINARES
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 353.
 
@@ -5211,9 +5349,21 @@ VI. Proporcionar al INSTITUTO, la información y documentación que éste solici
 
 VII. Utilizar las prerrogativas y aplicar el financiamiento exclusivamente para los gastos de campaña;
 
-VIII. Presentar, en los mismos términos en que lo hagan los PARTIDOS POLÍTICOS, los informes de campaña sobre el origen y monto de todos sus ingresos, así como su aplicación y empleo, conforme a los lineamientos que para tal efecto emita el INE, y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
 
-IX. Las demás que establezcan este CÓDIGO y los ordenamientos electorales, en lo conducente, a los candidatos de los partidos políticos y coaliciones.
+VIII. Presentar, en los mismos términos en que lo hagan los PARTIDOS POLÍTICOS, los informes de campaña sobre el origen y monto de todos sus ingresos, así como su aplicación y empleo, conforme a los lineamientos que para tal efecto emita el INE;
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+IX. Exhibir su declaración de situación patrimonial y de no conflicto de intereses bajo el formato que apruebe el INSTITUTO, así como copia de su declaración fiscal, tanto de propietarios como de suplentes, en su caso;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+X. Proporcionar la dirección de su página de Internet en la que difundirán sus actos de campaña y de proselitismo político; y
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+XI. Las demás que establezcan este CÓDIGO y los ordenamientos electorales, en lo conducente, a los candidatos de los partidos políticos, coaliciones y candidaturas comunes.
 
 > <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2014)</small>
 
@@ -5236,6 +5386,88 @@ Los candidatos independientes que no utilicen la totalidad del financiamiento p�
 ###### ARTÍCULO 357.
 
 Los aspirantes o candidatos independientes que incumplan con la normatividad electoral que les resulte aplicable, podrán ser sancionados en términos de este CÓDIGO, con independencia de la responsabilidad penal que en su caso pudiere resultar.
+
+> <small>(ADICIONADO CON EL TÍTULO, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE JUNIO DE 2017)</small>
+
+# LIBRO OCTAVO. DE LAS ELECCIONES CONSECUTIVAS
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE JUNIO DE 2017)</small>
+
+## TÍTULO ÚNICO. DEL PROCEDIMIENTO DE LAS ELECCIONES CONSECUTIVAS
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE JUNIO DE 2017)</small>
+
+### CAPÍTULO II. DEL PROCEDIMIENTO DE REGISTRO
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+###### ARTÍCULO 358.
+
+Los ciudadanos que desempeñen los cargos de Diputado, Presidente Municipal, Síndico y Regidor, tendrán derecho a ser electos consecutivamente para el mismo cargo dentro del Cabildo, para un periodo adicional.
+
+Las personas que por elección indirecta, por nombramiento o designación de alguna autoridad, desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, podrán ser electas para un periodo consecutivo por el mismo cargo dentro del Cabildo.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+###### ARTÍCULO 359.
+
+La postulación correspondiente sólo podrá ser realizada por el mismo partido o, en el caso de la candidatura común o coalición, por cualquiera que lo hubiera postulado, salvo que hayan renunciado o perdido su militancia en él antes de la mitad del periodo de su mandato.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE JUNIO DE 2017)</small>
+
+### CAPÍTULO III. OBLIGACIONES DE LOS SERVIDORES PÚBLICOS MUNICIPALES
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+###### ARTÍCULO 360.
+
+Los diputados e integrantes de un Ayuntamiento que pretendan ser electos de manera consecutiva, deberán cumplir los requisitos previstos en los artículos 24 y 90 de la CONSTITUCIÓN, así como 21 y 25 de este CÓDIGO, respectivamente.
+
+En el caso de que los sujetos señalados en el párrafo anterior hayan militado en un partido político y busquen la elección consecutiva en sus cargos por un partido político distinto, además de lo señalado en el artículo 164 del CÓDIGO, deberán acompañar una carta en la que especifique:
+
+I. La fecha en que renunció o perdió la militancia del partido que lo postuló;
+
+II. La manifestación de estar cumpliendo los requisitos establecidos por la CONSTITUCIÓN en materia de elección consecutiva; y
+
+III. La fecha en que se separó de sus funciones, en el caso de un Presidente Municipal.
+
+A dicha carta deberá anexar la documentación que acredite lo señalado.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+###### ARTÍCULO 361.
+
+Los diputados que busquen la elección consecutiva, podrán ser registrados para cualquier distrito electoral, así como también por el principio de representación proporcional.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+###### ARTÍCULO 362.
+
+Los integrantes de los ayuntamientos que pretendan la elección consecutiva, deberán ser registrados para el mismo MUNICIPIO en que fueron electos inicialmente.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+###### ARTÍCULO 363.
+
+Los presidentes municipales en funciones que pretendan ser postulados para una elección consecutiva, tendrán que separarse del cargo público dentro de los cinco días anteriores al inicio del periodo de registro de candidatos, debiendo señalar de forma expresa el motivo de su separación.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE JUNIO DE 2017)</small>
+
+###### ARTÍCULO 364.
+
+Cuando los munícipes participen en el proceso de elección consecutiva, los servidores públicos que colaboren en las administraciones municipales, respetarán y vigilarán estrictamente que la aplicación de los recursos públicos y la utilización de programas sociales que se encuentren bajo su responsabilidad, se apliquen con imparcialidad, para no influir en la equidad de la contienda electoral entre los precandidatos, candidatos y PARTIDOS POLÍTICOS.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+###### ARTÍCULO 365.
+
+Cuando los munícipes participen en un proceso de elección consecutiva, los servidores públicos municipales observarán la correcta aplicación de los lineamientos en materia de propaganda gubernamental que, bajo cualquier modalidad de comunicación social, difunda la administración pública municipal y vigilarán que la propaganda gubernamental sea de carácter institucional y cumpla con los fines informativos, educativos o de orientación social, así como que en ningún caso, dicha propaganda incluya nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier munícipe con licencia que participe como precandidato o candidato.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+###### ARTÍCULO 366.
+
+Para los efectos de lo dispuesto en los dos artículos anteriores, cuando los servidores públicos municipales cometan alguna infracción prevista en la CONSTITUCIÓN FEDERAL, en la CONSTITUCIÓN o en este CÓDIGO, se dará vista al superior jerárquico y se presentará la queja ante la autoridad competente por actos u omisiones que pudieran constituir responsabilidad administrativa, así como las denuncias o querellas ante la autoridad penal, a fin de que se proceda en los términos de las leyes aplicables.
 
 ## TRANSITORIOS
 
@@ -5310,3 +5542,9 @@ P.O. 22 DE NOVIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
+
+P.O. 29 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 320 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO ELECTORAL DEL ESTADO DE COLIMA; A LA LEY ESTATAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL; Y A LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
