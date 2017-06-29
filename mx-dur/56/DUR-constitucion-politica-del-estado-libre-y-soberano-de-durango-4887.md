@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2017-03-16"
+last_updated: "2017-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2017.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -2695,6 +2695,10 @@ Todo servidor público, antes de tomar posesión de su cargo protestará guardar
 
 ###### Artículo 175.
 
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2017)</small>
+
+Para los efectos de las responsabilidades a que alude este Título, se consideran servidores públicos a los representantes de elección popular; a los miembros del Poder Judicial del Estado y de los órganos constitucionales autónomos; los integrantes de los concejos municipales; y en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en las dependencias, entidades y organismos en los poderes públicos, en los municipios y en los órganos constitucionales autónomos. Dichos servidores públicos serán responsables por el manejo indebido de recursos públicos y la deuda pública.
+
 Son principios rectores que rigen el servicio público los siguientes: legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, eficiencia, eficacia, equidad, transparencia, economía, integridad y competencia por mérito.
 
 Se sancionará administrativamente a los servidores públicos por los actos (sic) omisiones que afecten la legalidad, honradez, imparcialidad y eficiencia que deben observar en el desempeño de su empleo, cargo o comisión; dichas sanciones consistirán en amonestación, suspensión, destitución e inhabilitación, así como en sanciones económicas y deberán imponerse de acuerdo con los beneficios económicos que en su caso haya obtenido el responsable y con los daños y perjuicios patrimoniales causados por los actos u omisiones. La ley establecerá los procedimientos para la investigación y sanción de dichos actos u omisiones.
@@ -3860,3 +3864,11 @@ Séptimo.- El Congreso del Estado en los términos que previene la legislación 
 Octavo.- Las declaraciones de situación patrimonial, fiscal y de intereses de los Servidores Públicos a los que alude el presente Decreto serán presentadas ante la Entidad de Auditoria Superior del Estado en la fecha que al efecto señale la legislación aplicable.
 
 Noveno.- Se deroga el Artículo Octavo Transitorio del Decreto 540, expedido por la LXV Legislatura, publicado en el Periódico Oficial del Estado Número. 69 de fecha 29 de agosto de 2013.
+
+P.O. 29 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 164.- POR EL QUE SE ADICIONA UN PRIMER PARRAFO AL ARTICULO 175 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO".]
+
+PRIMERO.- El presente Decreto entrara en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
