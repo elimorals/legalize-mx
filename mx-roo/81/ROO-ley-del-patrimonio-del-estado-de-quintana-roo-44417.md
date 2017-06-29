@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-patrimonio-del-estado-de-quintana-roo-44417"
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-28"
-last_updated: "2014-07-15"
+last_updated: "2017-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44417&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "ROO"
 
 LEY DEL PATRIMONIO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 15 DE JULIO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el 28 de marzo de 2005.
 
@@ -47,35 +45,41 @@ LEY DEL PATRIMONIO DEL ESTADO DE QUINTANA ROO
 
 La presente Ley es de orden público e interés general, reglamenta los Artículos 112, 113 y 114 de la Constitución Política del Estado de Quintana Roo y tiene por objeto regular la administración, conservación y enajenación de los bienes del Estado.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
 
 ###### Artículo 2.
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Comité: El Comité del Patrimonio Inmobiliario Estatal;
+I. Agencia: Agencia de Proyectos Estratégicos del Estado de Quintana Roo;
 
-II. Concesión: El acto administrativo por virtud del cual, el Ejecutivo Estatal confiere a una persona física o moral, bienes del dominio público para su uso, aprovechamiento, explotación o para la prestación de un servicio público, acto que deberá ser autorizado por la Legislatura del Estado;
+II. Comité: El Comité Técnico Asesor de la Agencia de Proyectos Estratégicos del Estado de Quintana Roo;
 
-III. Dependencias: Las referidas como tal en la Ley Orgánica de la Administración Pública del Estado de Quintana Roo, incluyendo sus Órganos desconcentrados y demás Unidades Administrativas;
+III. Concesión: El acto administrativo por virtud del cual, el Ejecutivo Estatal confiere a una persona física o moral, bienes del dominio público para su uso, aprovechamiento, explotación o para la prestación de un servicio público, acto que deberá ser autorizado por la Legislatura del Estado;
 
-IV. Entidades: Los Organismos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos, referidos como tal en la Ley de Entidades Paraestatales;
+IV. Junta: La Junta de Gobierno de la Agencia;
 
-V. Estado: El Orden de Gobierno que en los términos de esta Ley ejerce sus facultades en materia de bienes, a través de los poderes Legislativo, Ejecutivo o Judicial, según corresponda;
+V. Dependencias: Las referidas como tal en la Ley Orgánica de la Administración Pública del Estado de Quintana Roo, incluyendo sus Órganos desconcentrados y demás Unidades Administrativas;
 
-VI. Instituto: El Instituto del Patrimonio Inmobiliario de la Administración Pública Estatal;
+VI. Director General: El Director General de la Agencia;
 
-VII. Ley Orgánica: La Ley Orgánica de la Administración Pública del Estado;
+VII. Entidades: Los Organismos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos, referidos como tal en la Ley de Entidades Paraestatales;
 
-VIII. Ley: La Ley del Patrimonio del Estado de Quintana Roo;
+VIII. Estado: El Estado Libre y Soberano de Quintana Roo;
 
-IX. Oficialía Mayor: La Oficialía Mayor del Gobierno del Estado;
+IX. Ley Orgánica: La Ley Orgánica de la Administración Pública del Estado de Quintana Roo;
 
-X. Permiso: El acto administrativo por virtud del cual, el Ejecutivo del Estado entrega a una persona física o moral el uso de bienes inmuebles ya sea de dominio público o privado estatal, con carácter temporal y revocable;
+X. Ley: La Ley del Patrimonio del Estado de Quintana Roo.
 
-XI. Registro: El Registro del Patrimonio Público del Estado, y
+XI. Oficialía Mayor: La Oficialía Mayor del Gobierno del Estado;
 
-XII. Secretaría: La Secretaría de Finanzas y Planeación.
+XII. Permiso: El acto administrativo por virtud del cual, el Ejecutivo del Estado entrega a una persona física o moral el uso de bienes inmuebles ya sea de dominio público o privado estatal, con carácter temporal y revocable;
+
+XIII. Proyectos de Asociación Público Privada: Aquellos proyectos de asociación público privada que sean realizados conforme a la Ley de Asociaciones Público Privadas para el Estado y los Municipios de Quintana Roo;
+
+XIV. Registro: El Registro del Patrimonio Público del Estado, y
+
+XV. Secretaría: La Secretaría de Desarrollo Económico.
 
 ###### Artículo 3.
 
@@ -95,9 +99,15 @@ II. Los inmuebles destinados por el Gobierno del Estado, a un servicio público;
 
 III. Los muebles que normalmente sean insustituibles, tales como los expedientes de las oficinas, archivos, libros raros, piezas históricas o arqueológicas, obras de arte y demás que no sean del dominio de la Federación o los Municipios.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+
 ###### Artículo 5.
 
-Son bienes de dominio privado del Estado los que le pertenecen en propiedad y los que en el futuro ingresen a su patrimonio, por cualesquiera formas de adquisición de la propiedad, no previstos en el artículo precedente.
+Son bienes muebles e inmuebles, así como derechos tangibles e intangibles de dominio privado del Estado, los que le pertenecen en propiedad y los que en el futuro ingresen a su patrimonio, por cualesquiera formas de adquisición de la propiedad, no previstos en el artículo precedente.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+Dichos bienes, incluyendo los derechos de cobro y derechos fideicomisarios de los que el Estado o sus entidades sean titulares, podrán gravarse con aprobación de la Junta, cuando la misma determine que sea conveniente para el financiamiento, obra, servicio, Proyecto de Asociación Pública Privada o el acto jurídico respectivo. Igualmente, podrán emitirse bonos u obligaciones sobre los mismos, que se regirán por las disposiciones que dicte la Legislatura del Estado, de conformidad con la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y la Ley de Deuda Pública del Estado de Quintana Roo y sus Municipios.
 
 ###### Artículo 6.
 
@@ -143,9 +153,11 @@ Los aprovechamientos accidentales o accesorios, compatibles con la naturaleza de
 
 No se podrá imponer servidumbre pasiva sobre los bienes del dominio público. Los derechos de tránsito, de vista, de luz, de derrames y otros similares se regirán exclusivamente por las Leyes y disposiciones aplicables en la materia.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+
 ###### Artículo 15.
 
-Sólo podrán desincorporarse del régimen de dominio público los bienes correspondientes, cuando así lo decrete la Legislatura del Estado. Para tal efecto el Ejecutivo Estatal, previo dictamen del Comité, solicitará a la Legislatura que así lo acuerde. En todo caso el Ejecutivo Estatal motivará y fundamentará su solicitud.
+Solo podrán desincorporarse del régimen de dominio público los bienes correspondientes, cuando así lo decrete la Legislatura del Estado. Para tal efecto el Ejecutivo Estatal, previo dictamen de la Junta, solicitará a la Legislatura que así lo decrete. En todo caso el Ejecutivo Estatal motivará y fundamentará su solicitud.
 
 ###### Artículo 16.
 
@@ -157,7 +169,13 @@ II. Los propietarios, los poseedores y los usufructuarios de predios colindantes
 
 III. Igual derecho gozarán quienes hayan sido los últimos propietarios privados de los bienes afectados por un procedimiento de derecho público, cuando el mismo se vaya a desincorporar del régimen de dominio público y se proceda a su enajenación.
 
-Para el caso de las dos fracciones anteriores, el aviso a los propietarios se dará por correo certificado con acuse de recibo; cuando se ignore el domicilio, mediante una sola publicación en el Periódico Oficial del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+Para el caso de las dos fracciones anteriores, el aviso a los propietarios se realizará por correo certificado con acuse de recibo; cuando se ignore el domicilio, mediante una sola publicación en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+Se exceptúa del derecho de tanto a que hace referencia en el presente artículo, según determine la Agencia, en los casos en que el interés público del Estado sea prioritario, cuando se vayan a enajenar terrenos desincorporados del régimen de dominio público.
 
 ###### Artículo 17.
 
@@ -167,11 +185,17 @@ I. El destino de los bienes inmuebles del Estado al servicio de las Dependencias
 
 II. Las Dependencias y las Entidades, así como los Gobiernos Federal y Municipales, deberán iniciar la utilización de los inmuebles que se les destinen, dentro del plazo que fije el Titular del Poder Ejecutivo en el decreto respectivo, mismo que se computará a partir de la fecha en que oficialmente quede a su disposición el bien. El destino de los inmuebles no transmite propiedad de los mismos, ni otorga derecho real alguno;
 
-III. Si no se da cumplimiento a lo dispuesto en la fracción anterior, o se deja de utilizar o de necesitar el inmueble, o se le da un uso distinto al aprobado conforme a esta Ley, los destinatarios deberán entregarlo con todas sus mejoras y accesiones al Instituto, sin que tengan derecho a indemnización alguna. En caso de que los destinatarios incurran en omisión, el Instituto podrá proceder a requerir la entrega del bien, y en su defecto, a tomar posesión de él en forma administrativa, para destinarlo a los usos que, de acuerdo a la política inmobiliaria del Gobierno del Estado, resulten más convenientes;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
 
-IV. Los destinatarios deberán utilizar los inmuebles de una manera óptima, atendiendo a los lineamientos que para tal efecto expidan la Secretaría y el Instituto, y
+III. Si no se da cumplimiento a lo dispuesto en la fracción anterior, o se deja utilizar o de necesitar el inmueble, o se le da un uso distinto al aprobado conforme a esta Ley, los destinatarios deberán entregarlo con todas sus mejoras y accesiones a la Agencia, sin que tengan derecho a indemnización alguna. En caso de que los destinatarios incurran en omisión, la Agencia podrá proceder a requerir la entrega del bien, y en su defecto, a tomar posesión de el en forma administrativa, para destinarlo a los usos que, de acuerdo a la política inmobiliaria del Gobierno del Estado, resulten más convenientes;
 
-V. Las Dependencias y Entidades de los Gobiernos Federal y Municipales que tengan a su disposición inmuebles estatales, que no requieran usar en su totalidad, o cuyo uso o aprovechamiento no se tenga previsto para el cumplimiento de sus funciones o para la realización de programas autorizados, deberán hacerlo del conocimiento del Instituto, y poner a su disposición las áreas libres o la totalidad del inmueble, según se trate.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+IV. Los destinatarios deberán utilizar los inmuebles de una manera óptima, atendiendo a los lineamientos que para tal efecto expidan la Secretaría y la Agencia, y
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+V. Las Dependencias y Entidades de los Gobiernos Federal y Municipales que tengan a su disposición inmuebles estatales, que no requieran usar en su totalidad, o cuyo uso o aprovechamiento no se tenga previsto para el cumplimiento de sus funciones o para la realización de programas autorizados, deberán hacerlo del conocimiento de la Agencia, y poner a su disposición las áreas libres o la totalidad del inmueble, según se trate.
 
 ###### Artículo 18.
 
@@ -181,19 +205,23 @@ Respecto de los bienes inmuebles destinados a un servicio público, no se podrá
 
 Los inmuebles que estando destinados a un servicio público, de hecho o por derecho, fueren aprovechados temporalmente, en todo o en parte, en otros fines distintos que no puedan considerarse como servicio público, no pierden su carácter de bienes de dominio público.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+
 ###### Artículo 20.
 
-Cuando se requiera ejecutar obras de construcción, modificación, adaptación, conservación y mantenimiento de los inmuebles propiedad del Estado, así como para lograr su óptimo aprovechamiento, intervendrá la Secretaría en coordinación con el Instituto, dentro del ámbito de sus respectivas competencias.
-
-Tratándose de inmuebles que tengan el carácter de históricos o artísticos, que estén bajo el dominio de la administración del Estado, las autoridades federales competentes tendrán la intervención que les corresponda, en los términos de los ordenamientos legales aplicables.
+Cuando se requiera ejecutar obras de construcción, modificación, adaptación, conservación y mantenimiento de los inmuebles propiedad del Estado, así como para lograr su óptimo aprovechamiento, intervendrá la Agencia en coordinación con la Secretaría, dentro del ámbito de sus respectivas competencias.
 
 ###### Artículo 21.
 
 Los inmuebles se destinarán o asignarán para el uso exclusivo de las Dependencias y Entidades que los ocupe o los tenga a su servicio. Las obras, el aprovechamiento de espacios y la conservación y mantenimiento de los mismos, estarán sujetos a lo siguiente:
 
-I. Deberán ser autorizadas por el Instituto de acuerdo con los proyectos que se formulen y con cargo al presupuesto de los ocupantes;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
 
-II. En los casos de obras de adaptación y de aprovechamiento de espacios de los inmuebles correspondientes, los proyectos deberán ser remitidos al Instituto para su autorización y supervisión, y
+I. Deberán ser autorizadas por la Agencia de acuerdo con los proyectos que se formulen y con cargo al presupuesto de los ocupantes;
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+II. En los casos de obras de adaptación y de aprovechamiento de espacios de los inmuebles correspondientes, los proyectos deberán ser remitidos a la Agencia para su autorización y supervisión, y
 
 III. La conservación y mantenimiento de los inmuebles de que se trate, se llevarán a cabo de acuerdo con los programas anuales que se formulen y autoricen al efecto.
 
@@ -203,19 +231,27 @@ Cuando diversas instituciones públicas, estuvieran alojadas en un mismo inmuebl
 
 I. Cuando los gobiernos federal o municipales tengan a su servicio una porción o área del inmueble, deberán realizar la aportación económica correspondiente, en los términos de los convenios o acuerdos de coordinación que para tal efecto se celebren;
 
-II. El Instituto determinará la redistribución o reasignación de áreas entre las instituciones públicas, para cuyo efecto dictará y tramitará las medidas administrativas que sean necesarias;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
 
-III. Cuando se trate de un inmueble propiedad del Estado que esté al servicio de una o más Dependencias o Entidades Estatales, el Instituto determinará la aportación económica que les corresponda, y
+II. La Agencia determinará la redistribución o reasignación de áreas entre las instituciones públicas, para cuyo efecto dictará y tramitará las medidas administrativas que sean necesarias;
 
-IV. La conservación y mantenimiento de los inmuebles a que se refiere este artículo, se realizará de acuerdo con el programa que para cada caso concreto formule el Instituto, con las aportaciones y participación de las instituciones ocupantes. La conservación y mantenimiento de los locales interiores del edificio que sirvan para el uso exclusivo de alguna dependencia o autoridad, quedará a cargo de la misma.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+III. Cuando se trate de un inmueble propiedad del Estado que esté al servicio de una o más Dependencias o Entidades Estatales, la Agencia determinará la aportación económica que les corresponda, y
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+IV. La conservación y mantenimiento de los inmuebles a que se refiere este artículo, se realizará de acuerdo con el programa que para cada caso concreto formule la Agencia, con las aportaciones y participación de las instituciones ocupantes. La conservación y mantenimiento de los locales interiores del edificio que sirvan para el uso exclusivo de alguna dependencia o autoridad, quedará a cargo de la misma.
 
 ###### Artículo 23.
 
 Los servidores públicos, empleados y los particulares, se abstendrán de habitar u ocupar para beneficio propio, los inmuebles destinados a servicios públicos, excepto quienes sean beneficiarios de instituciones que presten un servicio social, o cuando se trate de personas que por razón de su función o de la del inmueble, deban habitarlo u ocuparlo. La observancia y aplicación de este precepto estará a cargo de las Dependencias y Entidades que tengan destinados a su servicio los inmuebles.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2017)</small>
+
 ###### Artículo 24.
 
-Los bienes muebles de dominio público a que se refiere el Artículo 4 de esta Ley, deberán inventariarse por la autoridad que los tenga en custodia, quien turnará el inventario correspondiente al Instituto para su registro.
+Los bienes muebles de dominio público a que se refiere el artículo 4 de esta Ley, deberán inventariarse por la autoridad que los tenga en custodia, quien turnará el inventario correspondiente a la Agencia para su registro.
 
 El cambio de uso o destino de dichos bienes será determinado por el Comité a propuesta de la Oficialía Mayor, atendiendo a las características específicas de cada uno, debiéndose observar las siguientes reglas:
 
@@ -233,11 +269,19 @@ IV. La Oficialía Mayor, deberá inspeccionar el uso, conservación y cuidado qu
 
 Los bienes de dominio privado del Estado pueden ser muebles e inmuebles.
 
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+En las operaciones jurídicas de enajenación, donación o cualquier otra que afecte los bienes de dominio privado del Estado, deberá garantizarse su publicidad a través del Periódico Oficial del Estado de Quintana Roo y otros medios electrónicos oficiales que la Agencia considere pertinentes.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+En la enajenación de bienes de dominio privado la Agencia deberá procurar que el valor de la operación que se realice, no sea inferior a los precios mínimos establecidos de conformidad con la Ley de Valuación para el Estado de Quintana Roo y para casos excepcionales con los lineamientos que aquella publique en el Periódico Oficial del Estado de Quintana Roo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2017)</small>
+
 ###### Artículo 26.
 
-Los inmuebles de dominio privado son inembargables e imprescriptibles, y se destinarán preferentemente al servicio de los Poderes Legislativo, Ejecutivo y Judicial, en cuyo caso deberán incorporarse al régimen de dominio público.
-
-Dichos bienes podrán gravarse con aprobación del Gobernador del Estado, cuando sea conveniente para el mejor financiamiento de las obras y servicios del Estado. Igualmente, podrán emitirse bonos u obligaciones sobre los mismos, que se regirán por las disposiciones que dicte la Legislatura del Estado.
+Los inmuebles de dominio privado, cuando se destinen al servicio de los Poderes Legislativo, Ejecutivo o Judicial, quedarán incorporados al régimen de dominio público, los cuales serán inembargables e imprescriptibles.
 
 ###### Artículo 27.
 
@@ -257,9 +301,11 @@ VI. Dación en pago, por concepto de indemnización en los procedimientos exprop
 
 VII. Los demás de carácter oneroso que se justifiquen y autoricen, en los términos de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2017)</small>
+
 ###### Artículo 28.
 
-En la enajenación de inmuebles del dominio privado del Estado, para el desarrollo o vivienda, el Instituto cumplirá con los programas de desarrollo urbano correspondientes, y vigilará, en todo caso:
+En la enajenación de inmuebles del dominio privado del Estado, para el desarrollo o vivienda, la Agencia cumplirá con los programas de desarrollo urbano correspondientes, y vigilará, en todo caso:
 
 I. La aptitud de los bienes para ser utilizados en los programas correspondientes;
 
@@ -269,19 +315,25 @@ III. Que los solicitantes cuenten con un programa financiero que contenga la pre
 
 IV. Que se cumpla con las disposiciones en materia de desarrollo urbano y equilibrio ecológico correspondiente, y
 
-V. Que el valor de la operación que se realice, no sea inferior a los precios mínimos establecidos por el Instituto.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+V. Que el valor de la operación que se realice, no sea inferior a los precios mínimos establecidos en el párrafo tercero del artículo 25.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
 
 ###### Artículo 29.
 
-En la enajenación de inmuebles que realice el Instituto, no se requerirá el otorgamiento de escritura ante notario.
+En la enajenación de inmuebles que realice la Agencia, no se requerirá el otorgamiento de escritura ante notario.
 
-El documento que consigne el contrato respectivo será un título expedido por el Instituto que deberá reunir los requisitos necesarios para su inscripción en el Registro Público de la Propiedad y del Comercio que corresponda.
+El documento que consigne el contrato respectivo será un título expedido por la Agencia que deberá reunir los requisitos necesarios para su inscripción en el Registro Público de la Propiedad y del Comercio que corresponda.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
 
 ###### Artículo 30.
 
-Mientras no esté totalmente pagado el importe de la enajenación, el adquirente no podrá hipotecar el inmueble o constituir sobre él derechos reales a favor de terceros, ni tampoco afectar las construcciones levantadas, sin autorización previa del Instituto. En los contratos respectivos deberá estipularse que la falta de pago en los términos convenidos, así como la violación a las disposiciones legales correspondientes, será causa de rescisión del contrato por parte del Instituto.
+Mientras no esté totalmente pagado el importe de la enajenación, el adquirente no podrá hipotecar el inmueble o constituir sobre él derechos reales a favor de terceros, ni tampoco afectar las construcciones levantadas, sin autorización previa de la Agencia. En los contratos respectivos deberá estipularse que la falta de pago en los términos convenidos, así como la violación a las disposiciones legales correspondientes, será causa de rescisión del contrato por parte de la Agencia.
 
-También será causa de rescisión, que el adquirente de los inmuebles los dañe o enajene, sin contar con autorización del Instituto.
+También será causa de rescisión, que el adquirente de los inmuebles los dañe o enajene, sin contar con autorización de la Agencia.
 
 ###### Artículo 31.
 
@@ -291,15 +343,17 @@ En los contratos de permuta sobre inmuebles del dominio privado, deberá acredit
 
 Los muebles de dominio privado del Estado son inembargables. Los particulares podrán adquirir estos bienes por prescripción. La prescripción se regirá por el Código Civil, pero se duplicarán los plazos establecidos por ese Código para que aquella opere.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+
 ###### Artículo 33.
 
-Corresponde a las Dependencias y Entidades, la enajenación mediante subasta pública, de los bienes muebles de dominio privado estatal que figuren en sus respectivos inventarios, y que por su uso, aprovechamiento o estado de conservación, no sean ya adecuados para el servicio o resulte inconveniente seguirlos utilizando en el mismo.
+Corresponde a la Oficialía Mayor o en su caso a las Dependencias y Entidades cuando así corresponda la enajenación mediante subasta pública de los bienes muebles de dominio privado estatal que figuren en sus inventarios, y que por su uso, aprovechamiento o estado de conservación, no sean ya adecuados para el servicio o resulte inconveniente seguirlos utilizando en el mismo.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
 
 ###### Artículo 34.
 
-La convocatoria para la subasta pública que al efecto emita la Dependencia o Entidad de que se trate, o en su defecto la Oficialía Mayor, deberá publicarse en el Periódico Oficial del Estado de Quintana Roo, y en uno de los diarios de mayor circulación en el Estado, cuando menos con treinta días naturales de anticipación a la celebración de la misma.
+La convocatoria para la subasta pública que al efecto emita la Oficialía Mayor o en su caso, la Dependencia o Entidad de que se trate, deberá publicarse en el Periódico Oficial del Estado de Quintana Roo, y en uno de los diarios de mayor circulación en el Estado, cuando menos con treinta días naturales de anticipación a la celebración de la misma.
 
 ###### Artículo 35.
 
@@ -375,7 +429,9 @@ Tratándose de inmuebles considerados como monumentos históricos o artísticos 
 
 Los Poderes del Estado deberán conformar su respectivo inventario, catastro y centro de documentación e información, relativos a los inmuebles a que se refiere el Artículo anterior, así como tramitar la inscripción de los títulos previstos en la fracción I del Artículo 108 de la presente Ley, en el Registro.
 
-Para tal efecto, emitirán las normas y procedimientos para que sus responsables inmobiliarios realicen el acopio y actualización de la información y documentación necesaria. Adicionalmente, proporcionarán al Instituto la información relativa a dichos inmuebles, a efecto de que sea incorporada al Sistema de Información Inmobiliaria Estatal, mismo que servirá de apoyo al sistema de Administración Inmobiliaria Estatal.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+Para tal efecto, emitirán las normas y procedimientos para que sus responsables inmobiliarios realicen el acopio y actualización de la información y documentación necesaria. Adicionalmente, proporcionarán a la Agencia la información relativa a dichos inmuebles, a efecto de que sea incorporada al Sistema de Información Inmobiliaria Estatal, mismo que servirá de apoyo al sistema de Administración Inmobiliaria Estatal.
 
 ###### Artículo 46.
 
@@ -391,9 +447,11 @@ Las adquisiciones por vías de derecho público se regirán por la presente Ley,
 
 Las Dependencias y Entidades deberán presentar al Instituto, un programa anual calendarizado, previamente aprobado por la Secretaría, que contenga sus necesidades inmobiliarias a fin de contar con la información que apoye las políticas y decisiones que se adopten en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2017)</small>
+
 ###### Artículo 49.
 
-Para satisfacer los requerimientos de inmuebles que planteen las Dependencias y Entidades, el Instituto, con base en el programa a que se refiere el Artículo anterior, deberá:
+Para satisfacer los requerimientos de inmuebles que planteen las Dependencias y Entidades, la Agencia, con base en el programa a que se refiere el artículo anterior, deberá:
 
 I. Cuantificar y calificar los requerimientos, atendiendo a las características de los inmuebles solicitados y su localización;
 
@@ -403,29 +461,227 @@ III. Asignar los inmuebles disponibles, y
 
 IV. Adquirir, en su caso, los inmuebles con cargo a la partida presupuestal autorizada a la dependencia o entidad interesada, y realizar las gestiones necesarias para la formalización de la operación.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+
 ###### Artículo 50.
 
-Las Dependencias y Entidades podrán arrendar bienes inmuebles para su servicio cuando no sea posible o conveniente su adquisición, en cuyo caso están obligadas a acreditar tales supuestos ante el Instituto. Tanto en la adquisición como en el arrendamiento de inmuebles para oficinas públicas, se requerirá el dictamen estructural emitido por la Secretaría de Infraestructura y Transporte, independientemente de la competencia o intervención que les corresponda a otras dependencias.
+Las Dependencias y Entidades podrán arrendar bienes inmuebles para su servicio cuando no sea posible o conveniente su adquisición, en cuyo caso están obligadas a acreditar tales supuestos ante la Agencia. Tanto en la adquisición como en el arrendamiento de inmuebles para oficinas públicas, se requerirá el dictamen estructural emitido por la Secretaría de Infraestructura y Transporte, independientemente de la competencia o intervención que les corresponda a otras dependencias.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
 
 ###### Artículo 51.
 
-El Ejecutivo Estatal, de conformidad con su presupuesto de egresos y tomando como base la información que aporten las Dependencias y Entidades relativas a sus necesidades inmobiliarias, podrá adquirir por compraventa los inmuebles que considere indispensables. El Instituto determinará en todo caso el valor máximo que deba pagarse a los propietarios o poseedores de los bienes inmuebles de que se trate.
+El Ejecutivo Estatal, de conformidad con su presupuesto de egresos y tomando como base la información que aporten las Dependencias y Entidades relativas a sus necesidades inmobiliarias, podrá adquirir por compraventa los inmuebles que considere indispensables. La Agencia determinará en todo caso el valor máximo que deba pagarse a los propietarios o poseedores de los bienes inmuebles de que se trate.
 
 ###### Artículo 52.
 
 Cuando el Ejecutivo Estatal adquiera inmuebles para cumplir con sus funciones, podrá convenir con los propietarios o poseedores derivados o precarios, la forma y términos de su adquisición.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+
 ###### Artículo 53.
 
-Una vez formalizada la operación de compraventa, o donación, deberá darse aviso al Instituto, a efecto de que realice la inscripción correspondiente en el Registro y se procedan a efectuar las anotaciones respectivas en el Registro Público de la Propiedad y del Comercio que corresponda.
+Una vez formalizada la operación de compraventa, o donación, deberá darse aviso a la Agencia, a efecto de que realice la inscripción correspondiente en el Registro y se procedan a efectuar las anotaciones respectivas en el Registro Público de la Propiedad y del Comercio que corresponda.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
 
 ###### Artículo 54.
 
-El Instituto, tomando en consideración las opiniones de las demás Dependencias y Entidades, y en consulta previa al Comité y a la Secretaría, elaborará un programa de aprovechamiento inmobiliario anual, a fin de establecer mecanismos eficaces de control que permitan identificar, controlar y administrar el patrimonio inmobiliario del Estado.
+La Agencia, tomando en consideración las opiniones de las demás Dependencias y Entidades, y en consulta previa a la Junta y a la Secretaría, elaborará un programa de aprovechamiento inmobiliario anual, a fin de establecer mecanismos eficaces de control que permitan identificar, controlar y administrar el patrimonio inmobiliario del Estado.
 
-## TÍTULO CUARTO. DE LA DISTRIBUCIÓN DE COMPETENCIAS
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE JUNIO DE 2017)</small>
 
-### CAPÍTULO ÚNICO
+## TÍTULO TERCERO BIS. DE LA AGENCIA DE PROYECTOS ESTRATÉGICOS DEL ESTADO DE QUINTANA ROO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE JUNIO DE 2017)</small>
+
+### CAPÍTULO ÚNICO. DE LA AGENCIA DE PROYECTOS ESTRATÉGICOS DEL ESTADO DE QUINTANA ROO
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+###### Artículo 54 Bis.
+
+La Agencia de Proyectos Estratégicos del Estado de Quintana Roo, es un organismo público Descentralizado de la administración pública estatal, sectorizado a la Secretaría de Desarrollo Económico, con personalidad jurídica y patrimonio propio.
+
+La Agencia tendrá su oficina central en la ciudad de Chetumal, pudiendo tener las delegaciones y oficinas que estime necesarias para el cumplimiento de su objeto, en otras ciudades del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+###### Artículo 54 Ter.
+
+La Agencia tendrá por objeto la administración eficaz y el óptimo aprovechamiento del patrimonio inmobiliario de la Administración Pública Estatal, así como la constitución, administración y disposición estratégica de las reservas territoriales del dominio privado del Estado y las Asociaciones Público Privadas, con el propósito de coadyuvar a la consecución de los fines del Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+###### Artículo 54 Quáter.
+
+El patrimonio de la Agencia, se integrará con:
+
+I. Los bienes muebles e inmuebles, derechos y demás, que le asigne o trasmita el Gobierno del Estado;
+
+II. Las aportaciones federales, estatales y municipales que le realicen;
+
+III. Los subsidios, donaciones o aportaciones que en su caso reciba;
+
+IV. Los recursos que obtenga a través de créditos para la realización de sus fines y las deudas a su favor;
+
+V. Las herencias o legados que en efectivo o en especie le otorguen;
+
+VI. Los recursos que obtenga por la comercialización o ejecución de los programas y servicios que realice;
+
+VII. Las acciones, derechos o productos que adquiera por cualquier otro título legal, y
+
+VIII. Los demás bienes, servicios, derechos y aprovechamientos que le fijen las leyes y reglamentos, y los que provengan de otros fondos y aportaciones legalmente establecidos.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+###### Artículo 54 Quinquies.
+
+Los bienes muebles e inmuebles propiedad de la Agencia gozarán de las franquicias, prerrogativas, exenciones y demás privilegios concedidos a los fondos y bienes del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+###### Artículo 54 Sexies.
+
+Para el cumplimiento de su objeto y el ejercicio de sus atribuciones, la Agencia contará con los siguientes órganos de gobierno:
+
+I. La Junta de Gobierno, y
+
+II. La Dirección General.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+###### Artículo 54 Septies.
+
+La Junta de Gobierno será el órgano superior de la Agencia y se integra por:
+
+I. El Gobernador del Estado, quien ocupará la Presidencia;
+
+II. El Titular de la Secretaría de Desarrollo Económico, en calidad de Vicepresidente, quien suplirá las ausencias del Presidente;
+
+III. El Titular de la Secretaría de Desarrollo Urbano y Vivienda, en calidad de Vocal;
+
+IV. El Titular de la Secretaría de Ecología y Medio Ambiente, en calidad de Vocal;
+
+V. El Titular de la Secretaría de Finanzas y Planeación, en calidad de Vocal;
+
+VI. El Titular de la Oficialía Mayor, en calidad de Vocal, y
+
+VII. Tres ciudadanos del Estado que sean designados por el Comité.
+
+La Junta contará en apoyo de sus actividades con un Secretario Técnico, que será el Director General de la Agencia.
+
+Cada uno de los integrantes propietarios podrá designar un suplente, que deberá tener nivel de Subsecretario o su equivalente. Los cargos de los integrantes son honoríficos y no percibirán remuneración alguna.
+
+La Junta funcionará válidamente con la concurrencia de la mayoría de sus miembros, entre los cuales deberá estar el Presidente o quien deba suplirlo. Sus acuerdos y resoluciones se tomarán por mayoría de votos de los miembros presentes. En caso de empate el Presidente o quien deba suplirlo, tendrá voto de calidad.
+
+La Junta se reunirá por lo menos cuatro veces al año en sesión ordinaria, y en sesión extraordinaria las veces que fuere necesario a convocatoria del Presidente.
+
+La vigilancia de la Agencia estará a cargo de un Comisario Público Propietario y un suplente, designados por la Secretaría de la Gestión Pública.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+###### Artículo 54 Octies.
+
+La Junta, para el cumplimiento de los objetivos de la Agencia, tendrá, de manera enunciativa y no limitativa, las siguientes atribuciones:
+
+I. Establecer la política inmobiliaria estatal, en congruencia con los programas estatales, regionales y municipales de desarrollo, y definir las prioridades, normas generales y criterios a los que deberán sujetarse las actividades de la Agencia;
+
+II. Conocer, examinar y, en su caso, aprobar el proyecto de presupuesto de egresos del ejercicio fiscal correspondiente, estados financieros y balances anuales de la Agencia;
+
+III. Aprobar la gestión de créditos sobre Inmuebles del dominio privado del Estado que requiera la Agencia para el cumplimiento de sus fines;
+
+IV. Considerar las propuestas y recomendaciones que realice el Comité, así como las propuestas y recomendaciones que realicen los ciudadanos del Estado en materia de política inmobiliaria y de Proyectos de Asociación Pública Privada;
+
+V. Aprobar los convenios, contratos y acuerdos que la Agencia celebre con Instituciones públicas o privadas, y personas morales o físicas, a fin de coadyuvar en el cumplimiento de su objeto;
+
+VI. Establecer los lineamientos, criterios, prioridades, y orientación social, que deberán observarse en la adquisición, conservación y comercialización de la reserva territorial;
+
+VII. Emitir lineamientos en ejercicio de sus facultades, incluyendo Proyectos de Asociación Público Privada y lineamientos respecto de la integración y funcionamiento del Comité;
+
+VIII. Aprobar el Reglamento interior de la Agencia, determinar su organización interna y autorizar los manuales de organización y procedimientos necesarios para el óptimo funcionamiento de la misma;
+
+IX. Otorgar, revocar o sustituir poderes especiales o generales;
+
+X. Aprobar los programas de trabajo;
+
+XI. Establecer los términos de las leyes aplicables, sistemas de cooperación y coordinación con las entidades de los sectores público, social y privado que se vinculen al objeto social de la Agencia;
+
+XII. Autorizar la contratación de servicios de asesoría, relacionados con los objetivos de la Agencia, cuando lo estime conveniente;
+
+XIII. Recibir y, en su caso, aprobar los informes del Director General;
+
+XIV. Autorizar las ausencias del Director General cuando sean por un plazo mayor de quince días;
+
+XV. Disponer lo conducente para la adecuada administración del patrimonio de la Agencia y cuidar su eficiente manejo;
+
+XVI. Solicitar al Comité dictámenes u opiniones sobre la viabilidad de los proyectos de Asociaciones público privadas, de conformidad con la Ley de Asociaciones Público Privadas para el Estado y los Municipios de Quintana Roo;
+
+XVII. Aprobar la viabilidad de los proyectos de Asociaciones público privadas, de conformidad con la Ley de Asociaciones Público Privadas para el Estado y los Municipios de Quintana Roo;
+
+XVIII. Celebrar los contratos de Asociaciones público privadas y cualquier otro acto jurídico necesario y conveniente de conformidad con la Ley de Asociaciones Público Privadas para el Estado y los Municipios de Quintana Roo, y
+
+XIX. Las demás que se requieran para el cumplimiento del objeto de la Agencia, o que le confieran esta Ley u otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+###### Artículo 54 Nonies.
+
+El Director General será designado y removido libremente por el Gobernador del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+###### Artículo 54 Decies.
+
+Para ser Director General se requiere:
+
+I. Ser ciudadano mexicano en pleno goce de sus derechos y contar con la calidad de quintanarroense;
+
+II. Contar con estudios profesionales, conocimientos o experiencia relacionados con el objeto de la Agencia, y
+
+III. No haber sido sentenciado por delitos patrimoniales, inhabilitado para desempeñar empleo, cargo o comisión en el servicio público, y no tener cargo de elección popular al momento de su designación.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+Artículo 54 Undecies.- El Director General tendrá las siguientes facultades y obligaciones:
+
+I. Representar técnica, administrativa y legalmente a la Agencia, con poder general para pleitos, cobranzas y actos de administración y dominio, con todas las facultades, aun las que requieran cláusula o poder especial, sin limitación alguna, conforme a la legislación aplicable;
+
+II. Proponer a la Junta los planes y programas que deba desarrollar la Agencia y ejecutar los que resulten aprobados;
+
+III. Someter a consideración de la Junta el informe de las actividades del ejercicio anterior, el proyecto de presupuesto, los estados financieros y los balances anuales;
+
+IV. Dirigir, administrar y supervisar todos los asuntos de la competencia de la Agencia;
+
+V. Participar en el Comité e informar a la Junta de la Agencia de las propuestas y recomendaciones que emita el Comité;
+
+VI. Proponer a la Junta las medidas que considere convenientes para el mejor funcionamiento de la Agencia, así como las modificaciones que correspondan al Reglamento Interior, a las Condiciones Generales de Trabajo, así como a la estructura y organización de la Agencia;
+
+VII. Contratar, convenir y suscribir los actos jurídicos necesarios para la obtención de créditos, recursos o inmuebles necesarios para el cumplimiento del objeto social de la Agencia, previa aprobación de la Junta;
+
+VIII. Firmar los títulos de propiedad a que se refiere el artículo 59 fracción XXI de esta ley;
+
+IX. Celebrar contratos con instituciones públicas federales, estatales y municipales, así como con personas físicas o morales, relacionados con el objeto de la Agencia y con la aplicación de la Ley;
+
+X. Otorgar poderes especiales y generales para pleitos y cobranzas y actos de administración con todas las facultades generales. Los que requieran cláusula especial para actos de dominio, deberán ser autorizados previamente por la Junta;
+
+XI. Seleccionar, contratar y remover al personal de la Agencia;
+
+XII. Establecer los sistemas administrativos, estadísticos, de control y evaluación, necesarios para la consecución de los objetivos de la Agencia y la actualización y desarrollo permanente de su organización, e informar a la Junta anualmente sobre la evaluación de la gestión;
+
+XIII. Formular y mantener actualizado el inventario de los bienes y recursos que integran el patrimonio de la Agencia;
+
+XIV. Asistir a las sesiones de la Junta en calidad de secretario, con derecho de voz, pero sin voto;
+
+XV. Cumplir y hacer cumplir la presente ley, los acuerdos de la Junta y demás disposiciones legales aplicables;
+
+XVI. Rendir a la Junta, los informes relativos a la administración del patrimonio del Estado, así como de la intervención de la Agencia en los proyectos a que se refiere la Ley de Asociaciones Público Privadas del Estado y Municipios de Quintana Roo, y
+
+XVII. Las demás que determine la Junta, el Ejecutivo del Estado o que deriven de la Ley y las demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+Artículo 54 Duodecies.- Las relaciones laborales entre la Agencia y sus trabajadores se regirán por lo dispuesto en la Ley de los Trabajadores al Servicio de los Poderes Legislativo, Ejecutivo y Judicial y de los Ayuntamientos y Organismos Descentralizados del Estado de Quintana Roo y, en su caso, por las disposiciones legales supletorias que correspondan.
 
 ###### Artículo 55.
 
@@ -435,9 +691,9 @@ Para los efectos del Artículo anterior las Dependencias y Entidades, deberán r
 
 Todas las Dependencias y Entidades estatales están obligadas a garantizar la seguridad y la certeza jurídica de las operaciones inmobiliarias que realicen.
 
-## TÍTULO QUINTO. DE LAS CONCESIONES Y PERMISOS
+## TÍTULO CUARTO. DE LA DISTRIBUCIÓN DE COMPETENCIAS
 
-### CAPÍTULO I. DE LAS CONCESIONES
+### CAPÍTULO ÚNICO
 
 ###### Artículo 57.
 
@@ -471,9 +727,9 @@ XIII. Emitir las disposiciones reglamentarias de esta Ley, y
 
 XIV. Las demás que se establezcan en este y otros ordenamientos legales aplicables.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
 
-Estas atribuciones las ejercerá directamente, sin perjuicio de que las delegue en la Secretaría, el Instituto del Patrimonio Inmobiliario de la Administración Pública Estatal, que como organismo descentralizado al efecto se constituya, la Oficialía Mayor o la Secretaría de Desarrollo Urbano y Vivienda, atendiendo a sus respectivos ámbitos de competencia, salvo disposición en contrario.
+Estas atribuciones las ejercerá directamente, sin perjuicio de que las delegue en la Secretaría o la Agencia.
 
 ###### Artículo 58.
 
@@ -481,17 +737,23 @@ Corresponde a la Secretaría:
 
 I. Formular, conducir y evaluar la política patrimonial sobre los bienes inmuebles del Estado, en congruencia con el Programa Estatal de Desarrollo Urbano;
 
-II. En coordinación con el Instituto, proponer políticas para el aprovechamiento de la reserva territorial propiedad del Estado, así como de los inmuebles susceptibles de utilizarse para satisfacer necesidades de vivienda;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
 
-III. Formular, en coordinación con el Instituto, los programas de conservación de los inmuebles de dominio público, con la participación de las Dependencias y Entidades que los ocupan;
+II. En coordinación con la Agencia, proponer políticas para el aprovechamiento de la reserva territorial propiedad del Estado, así como de los inmuebles susceptibles de utilizarse para satisfacer necesidades de vivienda;
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+III. Formular, en coordinación con la Agencia, los programas de conservación de los inmuebles de dominio público, con la participación de las Dependencias y Entidades que los ocupan;
 
 IV. Promover, opinar e intervenir en la constitución de empresas de participación estatal, fideicomisos, asociaciones, sociedades civiles o asimiladas a estas, cuando tengan como propósito la realización de operaciones relacionadas con los bienes inmuebles del Estado, y
 
 V. Las demás que se establezcan en este y otros ordenamientos legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2017)</small>
+
 ###### Artículo 59.
 
-Corresponde al Instituto:
+Corresponde a la Agencia, a través de su Junta:
 
 I. Administrar, vigilar, controlar, custodiar y disponer, según el caso, de los bienes inmuebles de dominio del Estado;
 
@@ -509,9 +771,121 @@ VII. Transmitir a los municipios, con autorización del Comité, los bienes inmu
 
 VIII. Realizar los actos de administración y dominio a que se refiere el Artículo 27 de esta Ley, cuando los inmuebles estén a su custodia o disposición, y celebrar los actos y contratos que permitan el incremento del patrimonio inmobiliario del Estado;
 
-IX. Emitir los lineamientos administrativos de modernización y simplificación administrativa, de conservación, control y custodia que deban adoptarse en las Entidades, Dependencias, Concesiones y personas usuarias de los bienes inmuebles, para la debida administración del patrimonio del Estado, y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
 
-X. Las demás que se establezcan en este y otros ordenamientos legales aplicables y en su decreto de creación.
+IX. Emitir los lineamientos administrativos de modernización y simplificación administrativa, de conservación, control y custodia que deban adoptar las entidades, dependencias, concesiones y personas usuarias de los bienes inmuebles y de Proyectos de Asociación Público Privada, para la debida administración del patrimonio del Estado;
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+X. Otorgar y celebrar, los contratos de Asociación Público Privada y gestionar la terminación anticipada de los mismos, en términos de la Ley de Asociaciones Público Privadas para el Estado y los Municipios de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+XI. Formular y conducir la política inmobiliaria de la Administración Pública Estatal;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+XII. Establecer un Sistema de Administración Inmobiliaria Estatal, que permita adquirir, regular, poseer, administrar, conservar, controlar y aprovechar, por sí o a través de las Dependencias y Entidades del Estado, los Inmuebles estatales;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+XIII. Integrar y mantener permanentemente actualizados el Registro del Patrimonio Público del Estado y el Sistema de Información Inmobiliaria Estatal; en el que se consoliden los activos inmobiliarios de la administración pública estatal y para estatal (sic), incluyendo los de los organismos autónomos, así como difundirlo en términos de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+XIV. Revisar, evaluar, intervenir y celebrar contratos, convenios y demás actos jurídicos relacionados con la compraventa, arrendamiento, donación, Asociaciones público privadas y demás de carácter inmobiliario o de infraestructura estatal, así como proyectos en materia de desarrollo, infraestructura y cualesquier otros que de conformidad con el Plan Estatal de Desarrollo se requieran, que suscriban las entidades y dependencias de la Administración Pública Estatal y las personas de derecho público estatal con autonomía derivada de la Constitución Política del Estado Libre y Soberano de Quintana Roo, de conformidad con lo establecido en la Ley de Asociaciones Público Privadas para el Estado y los Municipios de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+XV. En el ámbito de sus facultades, otorgar, en coordinación con la Secretaría, concesiones, permisos o autorizaciones para el uso o aprovechamiento de los bienes muebles o inmuebles de la Administración Pública Estatal; y gestionar las revocaciones y caducidad de las mismas incluyendo las autorizaciones relacionadas con Proyectos de Asociación Público Privadas;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+XVI. Establecer, adquirir, administrar y controlar las reservas territoriales del dominio privado del Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+XVII. Realizar los actos de disposición y dominio de las reservas territoriales, bienes inmuebles o bienes muebles, que coadyuven al desarrollo urbano, económico o turístico de la Entidad, en coordinación, según el caso, con la Federación y los Municipios, y con otras dependencias y entidades de la Administración Pública Estatal;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+XVIII. Determinar y convenir, conjuntamente con la Secretaría, las prioridades y requerimientos de suelo para vivienda;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+XIX. Desarrollar y participar en programas, negocios, empresas y acciones, a nivel nacional e internacional, que permiten fomentar, promover y orientar el mercado de tierras, e impulsar el desarrollo urbano, turístico y económico de la Entidad así como de Proyectos de Asociación Público Privada;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+XX. Celebrar contratos de crédito, fideicomisos o cualquier otro acto jurídico permitido por la ley, emitir títulos de crédito, establecer los gravámenes que se requieran sobre los inmuebles del dominio privado del Estado, de conformidad con lo establecido por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, o cualquier otra disposición legal, conforme a lo establecido en la presente ley para el cumplimiento de sus objetivos;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+XXI. Otorgar los títulos de propiedad sobre la enajenación de los inmuebles del dominio del Estado que realice;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+XXII. Vigilar el uso y aprovechamiento de los inmuebles donados por el Estado y, en su caso, proceder a ejercer el derecho de reversión, sobre los mismos;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+XXIII. Instaurar los procedimientos judiciales y administrativos correspondientes, para obtener, retener o recuperar la posesión o propiedad de los inmuebles estatales, así como respecto de aquellos bienes inmuebles que hayan sido enajenados por debajo de los precios establecidos de conformidad con el artículo 25 párrafo tercero de esta ley;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+XXIV. Solicitar el auxilio de las autoridades competentes que deban intervenir en diligencias judiciales relacionadas con los inmuebles del dominio del Gobierno del Estado;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+XXV. Dictar las disposiciones necesarias para el cumplimiento de esta Ley;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+XXVI. Emitir las opiniones, dictámenes y estudios que le corresponda de conformidad con la Ley de Asociaciones Público Privadas para el Estado y los Municipios de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+XXVII. Efectuar las transferencias, inversiones y aportaciones en propiedad o administración, de recursos materiales o financieros estatales, así como el otorgamiento del uso o goce temporal del Estado, a título oneroso o gratuito;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+XXVIII. Disponer, directa o indirectamente, previas autorizaciones respectivas en su caso, de los recursos y remanentes que tenga dentro de su patrimonio, fideicomiso y demás entidades del sector paraestatal del Estado, estando facultado para afectarlos en garantía, transferirlos en préstamo o en propiedad a otras entidades paraestatales o utilizarlos en el financiamiento del presupuesto de egresos del Estado o de Proyectos de Asociación Público Privada;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+XXIX. Gestionar y contratar con asesores y empresas, los servicios de consultoría necesarios para el análisis de los proyectos de su competencia, así como gestionar las erogaciones necesarias que deba cubrir por dichos servicios, conforme a la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles del Estado de Quintana Roo y la disponibilidad presupuestal;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+XXX. Celebrar con las autoridades federales, estatales, municipales, Dependencias, Entidades y con los particulares, los contratos y convenios necesarios para el cumplimiento de sus atribuciones, así como requerir a cualquier Dependencia o Entidad Estatal su participación en cualquier etapa del proceso preparatorio o de ejecución de proyectos de Asociación Pública Privada, en conjunto con la Agencia, por así determinarlo necesario y conveniente para el interés público;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+XXXI. Adquirir y enajenar bienes muebles e inmuebles; realizar y celebrar actos y contratos, y suscribir los documentos públicos y privados necesarios para la realización de objeto y administración de su patrimonio;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+XXXII. Coordinar con la Secretaría, la instrumentación de la estrategia para financiar el desarrollo de Proyectos de Asociaciones Público Privados.
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+XXXIII. Obtener, en coordinación con la Secretaría, el financiamiento de contraparte, que es el monto que las entidades públicas requieren de invertir los Proyectos de Asociación público privado;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+XXXIV. Diseñar e instrumentar en coordinación con la Secretaría, mecanismos para captar flujos de efectivo presupuestales para el pago y/o arrendamiento de los Proyectos de Asociación Público Privada;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+XXXV. Diseñar e instrumentar, en coordinación con la Secretaría, los proyectos de los decretos, mandatos, contratos, reglas de operación y demás documentos legales que se requieran;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+XXXVI. Cualquier otro acto jurídico necesario para instrumentar los Proyectos de Asociación Públicos Privada, y
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+XXXVII. Las demás que establezcan esta ley y otros ordenamientos legales aplicables.
 
 ###### Artículo 60.
 
@@ -583,31 +957,25 @@ XVIII. Promover y realizar investigaciones, estudios y proyectos, sobre las nece
 
 XIX. Las demás que se establezcan en la Ley Orgánica de la Administración Pública del Estado de Quintana Roo de acuerdo a sus facultades y competencias plenas, así como las que se requieran para el cumplimiento de sus fines o que dispongan otros ordenamientos.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+
 ###### Artículo 61.
 
-Las Dependencias, Entidades y concesionarios, en su calidad de usuarios o depositarios de los bienes inmuebles del patrimonio del Estado, informarán al Instituto de los actos y procedimientos que realicen en relación a dichos bienes, cuando con motivo de tales actos, se alteren los registros o controles correspondientes.
+Las Dependencias, Entidades y concesionarios, en su calidad de usuarios o depositarios de los bienes inmuebles del patrimonio del Estado, informarán a la Agencia de los actos y procedimientos que realicen en relación a dichos bienes, cuando con motivo de tales actos, se alteren los registros o controles correspondientes.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
 
 ###### Artículo 62.
 
-Se constituye el Comité del Patrimonio Inmobiliario Estatal, como un órgano de consulta y apoyo, para que la administración, enajenación, información, control y verificación de los bienes tutelados por esta Ley, respondan a los objetivos estratégicos y prioridades del Plan Estatal de Desarrollo y a los programas sectoriales, regionales y especiales que del mismo se deriven, y se sujeten a la legislación estatal aplicable.
+El Comité es un órgano de consulta y apoyo de la Agencia, para que la administración, enajenación, información, control y verificación de los bienes tutelados por esta Ley, respondan a los objetivos estratégicos y prioridades del Plan Estatal de Desarrollo y a los programas sectoriales, regionales y especiales que del mismo se deriven, y se sujeten a la legislación estatal aplicable.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
 
 ###### Artículo 63.
 
-El Comité del Patrimonio Inmobiliario Estatal, estará presidido por el Gobernador del Estado y se integrará por los titulares de las siguientes Dependencias y Entidades:
+El Comité será el órgano competente para asesorar a la Agencia en el otorgamiento de contratos de asociaciones público privadas, según se establezca en su reglamento interior o en los lineamientos que emita la Agencia.
 
-I. La Secretaría;
-
-II. La Oficialía Mayor;
-
-III. El Instituto;
-
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2014)</small>
-
-IV. La Secretaría de la Gestión Pública, y
-
-V. Las demás Dependencias y Entidades que a juicio del Ejecutivo Estatal deban participar, por razón de su competencia.
-
-El Comité operará y funcionará de acuerdo con el Reglamento Interior que al efecto emita el Ejecutivo del Estado.
+El Comité operará y funcionará de acuerdo con el Reglamento Interior que al efecto emita el Ejecutivo del Estado y los lineamientos que emita la Agencia respecto de su integración y funcionamiento.
 
 ###### Artículo 64.
 
@@ -615,13 +983,17 @@ Los bienes muebles e inmuebles propiedad de las Entidades, con personalidad jur�
 
 En todo caso, las Entidades y Organismos Públicos Autónomos, deberán tramitar la inscripción de los Títulos a que se refiere la fracción I del Artículo 108, en el Registro del Patrimonio Público del Estado.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+
 ###### Artículo 65.
 
-El Ejecutivo Estatal, por conducto del Instituto o de la Oficialía Mayor, según el caso, celebrará acuerdos o convenios con los gobiernos Federal y municipales, así como con los sectores social y privado, para conjuntar recursos y esfuerzos para la eficaz realización de las acciones que fortalezcan la administración, incremento, uso y aprovechamiento del Patrimonio Estatal.
+El Ejecutivo Estatal, por conducto de la Agencia celebrará acuerdos o convenios con los gobiernos Federal y municipales, así como los sectores social y privado, para conjuntar recursos y esfuerzos para la eficaz realización de las acciones que fortalezcan la administración, incremento, uso y aprovechamiento del Patrimonio Estatal; así como aquellos que se consideren necesarios para la eficaz y eficiente ejecución de los proyectos a que hacen mención la Ley de Asociaciones Público Privadas para el Estado y los Municipios de Quintana Roo.
 
-## TÍTULO SEXTO. DE LAS RECUPERACIONES ADMINISTRATIVAS Y JUDICIALES
+Las Dependencias o Entidades Estatales correspondientes, deberán facilitar y colaborar con la Agencia, en la ejecución de los proyectos de Asociación Público Privada, en el ámbito de su competencia, conforme al principio establecido en el artículo 3 de la Ley de Asociaciones Público Privadas para el Estado y los Municipios de Quintana Roo.
 
-### CAPÍTULO II. DE LOS PERMISOS ADMINISTRATIVOS
+## TÍTULO QUINTO. DE LAS CONCESIONES Y PERMISOS
+
+### CAPÍTULO I. DE LAS CONCESIONES
 
 ###### Artículo 66.
 
@@ -951,13 +1323,15 @@ En caso de resistencia o negativa al cumplimiento de esta disposición, podrán 
 
 Cuando se dé cualquiera de las causas de extinción de las Concesiones previstas en el Artículo 87 de esta Ley, la autoridad podrá tomar de inmediato posesión del bien concesionado o del servicio público amparado por la misma, según sea el caso. Lo anterior, salvo que alguna ley especial disponga lo contrario. Como consecuencia de la extinción de la concesión, los bienes afectos a la explotación del bien de que se trate o a la explotación del servicio público concesionado revertirán en favor del Estado sin indemnización alguna, independientemente de quien sea el propietario de tales bienes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2017)</small>
+
 ###### Artículo 98.
 
-Las obras e instalaciones que deba construir y realizar el concesionario conforme al título de concesión, sólo podrán llevarse a cabo, previa aprobación de los estudios y proyectos correspondientes por parte de la Autoridad Auxiliar, con la intervención que conforme a la ley le corresponda a la Secretaría de Infraestructura y Transporte y al Instituto. La ejecución, construcción, reconstrucción o realización de las obras e instalaciones se llevará a cabo bajo la supervisión técnica de la Autoridad Auxiliar, quién a su vez tendrá la obligación de asistirse del personal especializado en la materia.
+Las obras e instalaciones que deba construir y realizar el concesionario conforme al título de concesión, sólo podrán llevarse a cabo, previa aprobación de los estudios y proyectos correspondientes por parte de la Dependencia o Entidad correspondiente conforme a la Ley Orgánica de la Administración Pública del Estado de Quintana Roo, con la intervención que conforme a la ley le corresponda a la Secretaría de Infraestructura y Transporte y la Agencia. La ejecución, construcción, reconstrucción o realización de las obras e instalaciones se llevará a cabo bajo la supervisión técnica de la Dependencia o Entidad correspondiente conforme a la Ley Orgánica de la Administración Pública del Estado de Quintana Roo, quién a su vez tendrá la obligación de asistirse del personal especializado en la materia.
 
 Los concesionarios estarán obligados a prestar el servicio y a conservar las obras, instalaciones y equipo afectos a la explotación de la concesión, de conformidad con las disposiciones legales, Normas Oficiales Mexicanas y las de referencia que resulten aplicables. El cumplimiento de estas obligaciones estará sometido a la vigilancia de la Autoridad Auxiliar.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO II. DE LOS PERMISOS ADMINISTRATIVOS
 
 ###### Artículo 99.
 
@@ -965,9 +1339,9 @@ Los Permisos Administrativos podrán ser:
 
 I. A título gratuito, cuando no se exija al particular una contraprestación pecuniaria o en especie a cambio del uso y goce temporal del bien permisionado, y
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
 
-II. A título oneroso cuando se exija una contraprestación pecuniaria o en especie, a cambio del uso y goce del bien permisionado, la que en todo caso deberá estar fijada previamente por Oficialía Mayor o el Instituto, según se trate, y la Secretaría.
+II. A título oneroso cuando se exija una contraprestación pecuniaria o en especie, a cambio del uso y goce del bien permisionado, la que en todo caso deberá estar fijada previamente por la Agencia y la Secretaría.
 
 El presente Capítulo se aplicará de manera supletoria y en lo que no se oponga a los Permisos regulados por leyes específicas.
 
@@ -1027,9 +1401,11 @@ IV. Dañar ecosistemas como consecuencia del uso, aprovechamiento o explotación
 
 V. Por las demás causas que señalen otras leyes y disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2017)</small>
+
 ###### Artículo 105.
 
-Cuando se establezca en un Permiso que los inmuebles construidos por los permisionarios en terrenos del Estado pasarán a formar parte del patrimonio del mismo, el Instituto deberá:
+Cuando se establezca en un Permiso que los inmuebles construidos por los permisionarios en terrenos del Estado pasarán a formar parte del patrimonio del mismo, la Agencia deberá:
 
 I. Gestionar ante el Registro Público de la Propiedad y del Comercio del Estado, la inscripción de los documentos en que conste el derecho a que se refiere el párrafo anterior;
 
@@ -1037,7 +1413,7 @@ II. Autorizar cuando sea procedente, y en coordinación con la autoridad que cor
 
 III. Autorizar en coordinación con la autoridad que corresponda, la imposición de gravámenes sobre los inmuebles de dominio privado permisionados. En este caso los interesados deberán otorgar fianza a favor del Estado por una cantidad igual a la del gravamen.
 
-## TÍTULO SÉPTIMO. DEL REGISTRO DEL PATRIMONIO PÚBLICO DEL ESTADO
+## TÍTULO SEXTO. DE LAS RECUPERACIONES ADMINISTRATIVAS Y JUDICIALES
 
 ### CAPÍTULO ÚNICO
 
@@ -1061,15 +1437,19 @@ I. La Autoridad deberá notificar personalmente al interesado, o por edicto cuan
 
 II. El interesado tendrá un plazo de 15 días para desocupar el bien de que se trate y devolverle la posesión del mismo al Estado, cuando se haya extinguido por cualquier causa el acto administrativo por virtud del cual el particular tenga la posesión del bien respectivo, y
 
-III. Presentada la demanda, a solicitud del Instituto o de la Oficialía Mayor, por conducto de la Procuraduría General de Justicia del Estado, y siempre que exista una causa debidamente comprobada que así lo justifique, el Juez competente correspondiente, podrá autorizar la ocupación provisional de los inmuebles, cuando la autoridad promovente señale como finalidad de dicha ocupación un interés social, o la necesidad de impedir su detentación por terceros, o cuando se destinen a propósitos que dificulten su reivindicación o su destino a fines de interés social.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
 
-## TÍTULO OCTAVO. DE LOS MEDIOS DE IMPUGNACIÓN Y DE LAS SANCIONES
+III. Presentada la demanda, a solicitud de la Agencia, por conducto de la autoridad competente y siempre que exista una causa debidamente comprobada que así lo justifique, el Juez competente correspondiente, podrá autorizar la ocupación provisional de los inmuebles, cuando la autoridad promovente señale como finalidad de dicha ocupación un interés social, o la necesidad de impedir su detentación por terceros, o cuando se destinen a propósitos que dificulten su reivindicación o su destino a fines de interés social.
 
-### CAPÍTULO I. DE LOS MEDIOS DE IMPUGNACIÓN
+## TÍTULO SÉPTIMO. DEL REGISTRO DEL PATRIMONIO PÚBLICO DEL ESTADO
+
+### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2017)</small>
 
 ###### Artículo 108.
 
-El Instituto llevará el Registro del Patrimonio Público del Estado, en el que se inscribirán:
+La Agencia llevará el Registro del Patrimonio Público del Estado, en el que se inscribirán:
 
 I. Los títulos y documentos por los cuales se adquiera, transmita, grave, modifique, afecte o extinga el dominio, la posesión y los demás derechos reales sobre los bienes inmuebles del Estado;
 
@@ -1083,9 +1463,11 @@ V. Los Decretos por los que se determine la expropiación de bienes, cuando ést
 
 VI. Cualquier otro acto que incida en la administración del patrimonio inmobiliario del Estado.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+
 ###### Artículo 109.
 
-El Instituto cuidará que los actos y documentos a que se refiere el Artículo anterior, se inscriban también en el Registro Público de la Propiedad y del Comercio del Estado que corresponda.
+La Agencia cuidará que los actos y documentos a que se refiere el artículo anterior, se inscriban también en el Registro Público de la Propiedad y del Comercio del Estado que corresponda.
 
 ###### Artículo 110.
 
@@ -1107,7 +1489,9 @@ III. Cuando se declare la nulidad del título que originó la inscripción.
 
 En la cancelación de las inscripciones se anotarán los datos necesarios para precisar la inscripción que se cancela y las causas por las que se realiza.
 
-### CAPÍTULO II. DE LAS SANCIONES
+## TÍTULO OCTAVO. DE LOS MEDIOS DE IMPUGNACIÓN Y DE LAS SANCIONES
+
+### CAPÍTULO I. DE LOS MEDIOS DE IMPUGNACIÓN
 
 ###### Artículo 113.
 
@@ -1162,6 +1546,8 @@ c) De no haber necesidad de abrir periodo probatorio, o concluido éste, se decl
 VI. La valoración de los motivos de inconformidad y de las pruebas se harán atento a las reglas de la lógica, la experiencia y la recta razón, y
 
 VII. Dictada la resolución, se remitirá a la autoridad emisora del acto, para que en un lapso no mayor a 48 horas lo notifique de manera personal al inconforme.
+
+### CAPÍTULO II. DE LAS SANCIONES
 
 ###### Artículo 114.
 
@@ -1226,3 +1612,29 @@ Artículo Primero. El presente Decreto entrara en vigor al día siguiente de su 
 > <small>(F. DE E., P.O. 15 DE JULIO DE 2014)</small>
 
 Artículo Segundo. Se derogan todas las disposiciones jurídicas que se opongan al presente decreto.
+
+P.O. 29 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 080 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL PATRIMONIO DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El Ejecutivo del Estado contará con un plazo de hasta 180 días naturales posteriores a la entrada en vigor del presente decreto, para emitir el Reglamento Interior de la Agencia de Proyectos Estratégicos del Estado de Quintana Roo.
+
+TERCERO. La Agencia de Proyectos Estratégicos del Estado de Quintana Roo, contará con un plazo de hasta 180 días hábiles posteriores a la entrada en vigor del presente decreto, para emitir los lineamientos en materia de Proyectos de Asociación Público Privadas, los cuales deberán ser publicados dentro de ese mismo plazo por el Ejecutivo del Estado.
+
+CUARTO. El Ejecutivo del Estado contará con un plazo de 180 días hábiles posteriores a la entrada en vigor del presente decreto, para realizar las adecuaciones correspondientes al Reglamento Interior de la Secretaría de Planeación y Finanzas y a la Secretaría de Desarrollo Económico del Estado de Quintana Roo y demás disposiciones reglamentarias, en los términos del presente Decreto, en la Ley de Disciplina Financiera de las Entidades Federativas y Municipios y la Ley de Deuda Pública del Estado de Quintana Roo y sus Municipios.
+
+QUINTO. A la entrada en vigor del presente Decreto, la Secretaría de Finanzas y Planeación, la Secretaría de Desarrollo Económico y la Oficialía Mayor, coordinarán la transferencia de recursos humanos, materiales y financieros del Instituto del Patrimonio Inmobiliario de la Administración Pública del Estado de Quintana Roo a la Agencia de Proyectos Estratégicos del Estado de Quintana Roo, en términos del presente decreto.
+
+La transición de los bienes y activos que por motivo de esta Ley deban realizarse del Instituto del Patrimonio Inmobiliario de la Administración Pública del Estado de Quintana Roo a la Agencia de Proyectos Estratégicos del Estado de Quintana Roo, incluirán las adecuaciones presupuestarias derivadas de las modificaciones a la estructura programática y financiera, a los calendarios financieros y de metas, así como los traspasos de recursos humanos y de los activos patrimoniales que el Instituto del Patrimonio Inmobiliario de la Administración Pública del Estado de Quintana Roo haya utilizado para los asuntos a su cargo.
+
+SEXTO. Los asuntos que con motivo de esta Ley, deban pasar del Instituto del Patrimonio del Estado de Quintana Roo a la Agencia de Proyectos Estratégicos del Estado de Quintana Roo, seguirán su despacho por ésta última.
+
+Los juicios, recursos, procesos, procedimientos o cualquier otra acción legal o administrativa, en los que sea parte el Instituto del Patrimonio Inmobiliario de la Administración Pública del Estado de Quintana Roo, tenga interés o haya participado, y que a la fecha de entrada en vigor del presente Decreto se encuentren en trámite, continuarán substanciándose por la Agencia de Proyectos Estratégicos del Estado de Quintana Roo, por sí o por conducto de terceros autorizados en términos de las disposiciones aplicables, hasta su total conclusión.
+
+Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material, que a la entrada en vigor del presente Decreto se refiera al Instituto del Patrimonio Inmobiliario de la Administración Pública del Estado de Quintana Roo, se entenderá a la Agencia de Proyectos Estratégicos del Estado de Quintana Roo que absorbe las facultades de aquél conforme al presente Decreto.
+
+SÉPTIMO. En todo caso, deberán respetarse los derechos legalmente adquiridos con anterioridad a la entrada en vigor de la presente Ley.
+
+OCTAVO. Se dejan sin efecto todas las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
