@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-organizacion-y-funcionamiento-de-las-73110"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-15"
-last_updated: "2015-05-27"
+last_updated: "2017-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73110&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO DE ORGANIZACION Y FUNCIONAMIENTO DE LAS DEFENSORIAS MUNICIPALES DE DERECHOS HUMANOS DEL ESTADO DE MEXICO
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS DEFENSORÍAS MUNICIPALES DE DERECHOS HUMANOS, PUBLICADO EN LA G.O. DE 29 DE JUNIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS DEFENSORÍAS MUNICIPALES DE DERECHOS HUMANOS, PUBLICADO EN LA G.G. DE 29 DE JUNIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 REGLAMENTO DE ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS DEFENSORÍAS MUNICIPALES DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE JUNIO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el lunes 15 de febrero de 2010.
 
@@ -498,3 +498,15 @@ G.G. 27 DE MAYO DE 2015.
 Primero. Publíquese este acuerdo en el Periódico Oficial del Gobierno del Estado de México "Gaceta del Gobierno".
 
 Segundo. Las reformas y adiciones aprobadas entrarán en vigor al día siguiente de su publicación, derogándose las disposiciones de igual o menor jerarquía que se opongan a las mismas.
+
+G.G. 29 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS DEFENSORÍAS MUNICIPALES DE DERECHOS HUMANOS”.]
+
+PRIMERO.- Publíquese en el Periódico Oficial “Gaceta del Gobierno” del Estado, así como en la Gaceta de Derechos Humanos de la Comisión de Derechos Humanos.
+
+SEGUNDO.- Este Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Se abroga el Reglamento de Organización y Funcionamiento de las Defensorías Municipales de Derechos Humanos del Estado de México publicado en el Periódico Oficial “Gaceta del Gobierno” el 15 de febrero de 2010.
+
+CUARTO.- Las Visitadurías Generales de la Comisión de Derechos Humanos del Estado que a la entrada en vigor de este Reglamento no tengan instalados los Comités Municipales conforme a la distribución territorial que establece este ordenamiento, lo deberán hacer dentro de los treinta días hábiles siguientes.
