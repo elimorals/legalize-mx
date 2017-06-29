@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-concurso-progol-de-pronosticos-para-la-31947"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-18"
-last_updated: "2012-07-09"
+last_updated: "2017-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31947&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-05-19"
 
 REGLAMENTO DEL CONCURSO PROGOL DE PRONÓSTICOS PARA LA ASISTENCIA PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE JUNIO DE 2017.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 18 de junio de 2003.
 
@@ -35,9 +35,13 @@ REGLAMENTO DEL CONCURSO PROGOL DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
 El presente reglamento tiene por objeto regular el concurso Progol de conformidad con el Decreto de Creación de Pronósticos para la Asistencia Pública, publicado en el Diario Oficial de la Federación el 24 de febrero de 1978, sus reformas y adiciones.
 
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2017)</small>
+
 ###### Artículo 2o.
 
-Se denomina concurso PROGOL al evento que sobre resultados de partidos de fútbol soccer realizará Pronósticos y que se inicia en el momento de aceptación del pago del importe de las quinielas o combinaciones seleccionadas por cada concursante, y que termina con el acto denominado Selección de Ganadores, en el cual se determinarán las quinielas y combinaciones ganadoras y el importe de los premios correspondientes.
+El concurso Progol consiste en una quiniela que hacen los aspirantes a un premio con base en los resultados de un conjunto de 14 (catorce) partidos de fútbol soccer, que figuren en competencias autorizadas de Ligas o Federaciones de Fútbol oficiales o sus similares en los ámbitos nacional e internacional, y que inicia en el momento de aceptación del pago de Progol y termina con el acto denominado “Determinación de Ganadores”, en el cual se define cuáles fueron las quinielas o combinaciones ganadoras, así como el importe de los premios correspondientes.
+
+El boleto con el que se participa en Progol llevará impreso la marca de “Progol”.
 
 ###### Artículo 3o.
 
@@ -51,9 +55,9 @@ Para los efectos de este reglamento, se entenderá por:
 
 2.- Terminal.- Cualquier dispositivo de punto de venta que se utilice para la comercialización de concursos, sorteos, productos y servicios que ofrece Pronósticos.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2017)</small>
 
-3.- Concurso.- El proceso que tiene lugar desde la captación oficial de quinielas, la selección de ganadores o determinación de ganadores y hasta su cierre; en el que los poseedores o titulares de un boleto mediante la selección previa de un resultado deportivo o competencia, obtienen el derecho a participar en un procedimiento previamente estipulado y aprobado por la Secretaría de Gobernación, conforme al cual se determina uno o varios ganadores de un premio.
+3.- Concurso.- El proceso que tiene lugar desde la captación oficial de quinielas, la determinación de ganadores y hasta su cierre; en el que los poseedores o titulares de un boleto mediante la selección previa de un resultado deportivo o competencia, obtienen el derecho a participar en un procedimiento previamente estipulado y aprobado por la Secretaría de Gobernación, conforme al cual se determina uno o varios ganadores de un premio.
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
 
@@ -85,9 +89,9 @@ El documento impreso a que se refiere el párrafo anterior constituye un documen
 
 12.- Monto acumulativo (polla o bolsa).- La cantidad repartible correspondiente al primer lugar que se haya declarado vacante por falta de ganadores y que es adicionada al monto del primer premio del siguiente concurso.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2017)</small>
 
-13.- Selección de ganadores.- Es el evento mediante el cual se determina, con base en los resultados de los partidos de cada concurso, los boletos que obtuvieron premiación y el monto de la misma.
+13.- Determinación de Ganadores.- Es el evento mediante el cual se determina, con base en los resultados de los partidos de cada concurso, los boletos que obtuvieron premiación y el monto de la misma.
 
 14.- Bolsa garantizada.- Es el monto mínimo que Pronósticos se compromete a entregar al primer lugar acorde con lo establecido en los artículos 20o. y 21o. del presente Reglamento.
 
@@ -99,9 +103,9 @@ El documento impreso a que se refiere el párrafo anterior constituye un documen
 
 16.- Medios electrónicos.- Cualquier dispositivo electrónico con el que Pronósticos comercialice sus concursos.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2017)</small>
 
-17.- Ceremonia.- Acto oficial de selección de ganadores en el que se establecen las quinielas ganadoras de acuerdo a los resultados de los partidos.
+17.- Ceremonia.- Acto oficial de determinación de ganadores en el que se establecen las quinielas ganadoras de acuerdo a los resultados de los partidos.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE DICIEMBRE DE 2011)</small>
 
@@ -135,53 +139,73 @@ El documento impreso a que se refiere el párrafo anterior constituye un documen
 
 25.- Lista de juegos.- Conjunto de partidos y momios difundidos por Pronósticos que integra la programación para un concurso determinado.
 
+> <small>(ADICIONADO, D.O.F. 29 DE JUNIO DE 2017)</small>
+
+26.- Resultado Final (RF): Resultado Final de un partido de fútbol.
+
+> <small>(ADICIONADO, D.O.F. 29 DE JUNIO DE 2017)</small>
+
+27.-Resultado Primer Tiempo (1T): El concursante deberá escoger cuál será el resultado al término del primer tiempo de un partido.
+
+> <small>(ADICIONADO, D.O.F. 29 DE JUNIO DE 2017)</small>
+
+28.- Doble Oportunidad (DO): Pronóstico que hace el concursante escogiendo, de las opciones, dos de los tres resultados posibles, cuál será el resultado al término del partido
+
+> <small>(ADICIONADO, D.O.F. 29 DE JUNIO DE 2017)</small>
+
+29.- Total de Goles (TG): Pronóstico que hace el concursante sobre el número de goles que se anotarán durante todo un partido determinado.
+
+> <small>(ADICIONADO, D.O.F. 29 DE JUNIO DE 2017)</small>
+
+30.- Ambos equipos Anotan (AA): Pronóstico que hace el concursante, escogiendo si, durante el juego, los dos equipos anotan al menos (1) un gol.
+
 ### Capítulo II. Partidos de fútbol base de los concursos
 
 ###### Artículo 4o.
 
 Pronósticos dará a conocer oportunamente al público los partidos que integrarán cada concurso, así como el periodo que los comprenda, en los volantes que para el efecto emita Pronósticos.
 
-> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2017)</small>
 
 ###### Artículo 5o.
 
-Se considerará como resultado definitivo de cada partido, el oficial, del cual se tomará conocimiento antes de la Selección de Ganadores. Para todos los efectos legales, la Selección de Ganadores se realizará con base en los datos de los resultados oficiales de los partidos concluidos en la quiniela, que la Institución obtenga a partir de la consulta a diversas fuentes informativas y noticiosas, y dicha selección de ganadores se realizará el mismo día o al día siguiente de celebrado el último de los partidos incluidos en la quiniela.
+Se considerará como resultado definitivo de cada partido, el oficial, del cual se tomará conocimiento antes de la Determinación de Ganadores. Para todos los efectos legales, la Determinación de Ganadores se realizará con base en los datos de los resultados oficiales de los partidos concluidos en la quiniela, que la Institución obtenga a partir de la consulta a diversas fuentes informativas y noticiosas, y dicha determinación de ganadores se realizará el mismo día o al día siguiente de celebrado el último de los partidos incluidos en la quiniela.
 
-> <small>(ADICIONADO, D.O.F. 29 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2017)</small>
 
 ###### Artículo 5o.
 
-bis.- En caso de que por cualquier causa el resultado oficial de un partido no se conozca o se conozca anticipadamente por no haberse iniciado o por no haberse concluido en el tiempo reglamentario sea cual fuere el tiempo que faltase, o por haberse adelantado o pospuesto a la fecha de su celebración programada y siempre que aquella fecha salga del lapso de celebración de los otros partidos comprendidos en la quiniela programada o que por cualquier causa, motivo, razón o circunstancia, el resultado oficial de un partido, no se conozca antes de efectuar la selección de ganadores, de inmediato se realizará un sorteo en los términos de los artículos 10o. y 11o. de este reglamento, independientemente de lo que al respecto pudiera señalar la reglamentación de la Federación de Fútbol correspondiente o cualquiera otra reglamentación.
+bis.- En caso de que por cualquier causa el resultado oficial de un partido no se conozca o se conozca anticipadamente por no haberse iniciado o por no haberse concluido en el tiempo reglamentario sea cual fuere el tiempo que faltase, o por haberse adelantado o pospuesto a la fecha de su celebración programada y siempre que aquella fecha salga del lapso de celebración de los otros partidos comprendidos en la quiniela programada o que por cualquier causa, motivo, razón o circunstancia, el resultado oficial de un partido, no se conozca antes de efectuar la determinación de ganadores, de inmediato se realizará un sorteo en los términos de los artículos 10o. y 11o. de este reglamento, independientemente de lo que al respecto pudiera señalar la reglamentación de la Federación de Fútbol correspondiente o cualquiera otra reglamentación.
 
-> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2017)</small>
 
 ###### Artículo 6o.
 
-En cualquier partido que se programe y que deba concluir con la determinación de un equipo ganador, Pronósticos, para los fines de este reglamento, sólo tomará como resultado oficial, el obtenido durante el tiempo reglamentario, excluyendo tiempos extras o cualquier otra condición, que se haya pactado entre los equipos contendientes.
+Para los fines de este Reglamento, en cualquier partido que se programe y que deba concluir con la determinación del equipo ganador, Pronósticos sólo tomará como resultado oficial el obtenido durante el tiempo reglamentario, excluyendo tiempos extras o definiciones por penales, o cualquier otra condición que se haya pactado entre las Ligas o Federaciones oficiales, tanto nacionales como internacionales.
 
-> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2017)</small>
 
 ###### Artículo 7o.
 
-La anulación o modificación posterior a la fecha de la selección de ganadores de los resultados de un partido de fútbol, por parte de autoridades deportivas o judiciales que tengan competencia para ello, no tendrá efectos en relación con un concurso determinado, el que siempre se basará en los resultados oficiales que se conozcan antes de la selección de ganadores, de acuerdo con lo establecido en el artículo 10o. de este reglamento.
+La anulación o modificación posterior a la fecha de la determinación de ganadores de los resultados de un partido de fútbol, por parte de autoridades deportivas o judiciales que tengan competencia para ello, no tendrá efectos en relación con un concurso determinado, el que siempre se basará en los resultados oficiales que se conozcan antes de la determinación de ganadores, de acuerdo con lo establecido en el artículo 10o. de este reglamento.
 
-> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2017)</small>
 
 ###### Artículo 8o.
 
-Si después de iniciado un partido de fútbol programado para un concurso, fuere suspendido por cualquier motivo, y el resultado oficial de éste no se determinara antes de la selección de ganadores, se considerará como resultado oficial el que se obtenga mediante el procedimiento señalado en el artículo 10o. de este reglamento.
+Si después de iniciado un partido de fútbol programado para un concurso, fuere suspendido por cualquier motivo, y el resultado oficial de éste no se determinará antes de la determinación de ganadores, se considerará como resultado oficial el que se obtenga mediante el procedimiento señalado en el artículo 10o. de este reglamento.
 
 ###### Artículo 9o.
 
 No se considerará realizado el partido cuando éste no se inicie por cualquier razón, inclusive por falta de comparecencia de los equipos, y que motive la declaratoria de las autoridades deportivas de un resultado oficial en favor del equipo que sí se haya presentado.
 
-> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2017)</small>
 
 ###### Artículo 10o.
 
-En los casos de suspensión, o cuando se considere no realizado un partido, para el solo efecto de llevar a cabo la selección de ganadores de un concurso, se realizará a la brevedad posible y antes de la celebración de este acto un sorteo público en la oficina matriz de Pronósticos para obtener un resultado oficial del partido no realizado o no concluido, considerándosele, según resulte el sorteo, favorable a alguno de los equipos o bien un empate.
+En los casos de suspensión, o cuando se considere no realizado un partido, para el solo efecto de llevar a cabo la determinación de ganadores de un concurso, se realizará a la brevedad posible y antes de la celebración de este acto un sorteo público en la oficina matriz de Pronósticos para obtener un resultado oficial del partido no realizado o no concluido, considerándosele, según resulte el sorteo, favorable a alguno de los equipos o bien un empate.
 
-El resultado del sorteo se considerará como resultado oficial para la selección de ganadores como si el partido se hubiere realizado o concluido.
+El resultado del sorteo se considerará como resultado oficial para la determinación de ganadores como si el partido se hubiere realizado o concluido.
 
 ###### Artículo 11o.
 
@@ -267,7 +291,9 @@ La firma electrónica del archivo de participaciones será grabada en un disposi
 
 El archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el concurso en el sistema central de captación de transacciones en línea al cual, conforme a lo previsto en el segundo párrafo de este Artículo, dicho sistema le asignó una firma electrónica que garantiza su integridad, será grabado en un dispositivo de almacenamiento de datos y depositado por el representante de la Subdirección General de Informática en la caja de seguridad a que se refiere el presente Artículo.
 
-### Capítulo IV. Selección de ganadores
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE JUNIO DE 2017)</small>
+
+### Capítulo IV. Determinación de ganadores
 
 > <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2012)</small>
 
@@ -295,13 +321,17 @@ Los siguientes resultados serán de carácter informativo únicamente:
 
 Si hubiera alguna diferencia entre los resultados publicados y los oficiales, estos últimos prevalecerán.
 
-> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE JUNIO DE 2017)</small>
 
 ###### Artículo 19o.
 
-Conocidos los resultados de los partidos de fútbol base de un concurso o determinados por sorteo en la forma en que se indica en el Capítulo II de este reglamento, se procederá a seleccionar al ganador o ganadores del primero, segundo, tercero, cuarto y quinto premios. Estos se determinarán de acuerdo con la información contenida en el archivo de quinielas concursantes, única que tendrá validez para estos efectos, sin admitirse pruebas suplementarias. A este acto se le denomina Selección de Ganadores definido en los términos del punto 13 del artículo 3o. de este reglamento.
+Conocidos los resultados de los partidos de fútbol base de un concurso o determinados por sorteo en la forma en que se indica en el Capítulo II de este reglamento, se procederá a determinar al ganador o ganadores del primero, segundo, tercero, cuarto y quinto premios. Estos se determinarán de acuerdo con la información contenida en el archivo de quinielas concursantes, única que tendrá validez para estos efectos, sin admitirse pruebas suplementarias. A este acto se le denomina Determinación de Ganadores definido en los términos del punto 13 del artículo 3o. de este reglamento.
+
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 Concluida la ceremonia e identificadas las quinielas ganadoras, se levantará acta en la que se harán constar los antecedentes del concurso, sus resultados y cualquier incidente que ocurriera durante el mismo. Dicha acta se elaborará con la participación del Inspector designado por la Secretaría de Gobernación y de los funcionarios mencionados en el párrafo segundo del artículo 17o. de este reglamento, quienes deben intervenir y suscribir el documento, para todos los efectos legales.
+
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 El Director General hará la designación de su representante, entre aquellos funcionarios que ocupen hasta el cuarto nivel inferior al del Director General.
 
@@ -363,11 +393,11 @@ Si el porcentaje de la venta destinado al cuarto y quinto lugar resultara insufi
 
 Pronósticos podrá modificar las bases especificadas en este artículo, para aquellos concursos que por su naturaleza y en beneficio del público así lo requieran y, en estos casos, dará al procedimiento a seguir la más amplia difusión para conocimiento del público.
 
-> <small>(REFORMADO, D.O.F. 29 DE JULIO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2017)</small>
 
 ###### Artículo 22o.
 
-Los resultados de la selección de ganadores se harán constar en acta mencionada en el artículo 19o. En el acta se anotarán, además, las particularidades e incidentes fundamentales ocurridos durante el acto y a la misma se anexará archivo electrónico en el que se hará constar la lista producida por el sistema de computación que contenga los números de los boletos ganadores del primero, segundo, tercero, cuarto y quinto premios, así como el importe correspondiente a cada uno de ellos.
+Los resultados de la determinación de ganadores se harán constar en acta mencionada en el artículo 19o. En el acta se anotarán, además, las particularidades e incidentes fundamentales ocurridos durante el acto y a la misma se anexará archivo electrónico en el que se hará constar la lista producida por el sistema de computación que contenga los números de los boletos ganadores del primero, segundo, tercero, cuarto y quinto premios, así como el importe correspondiente a cada uno de ellos.
 
 > <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
@@ -379,9 +409,11 @@ En el supuesto a que se refiere el párrafo anterior, se hará entrega del acta 
 
 ### Capítulo V. De las reclamaciones
 
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2017)</small>
+
 ###### Artículo 23o.
 
-Dentro de los cinco días hábiles siguientes a la publicación de los resultados futbolísticos, que definieron la quiniela ganadora, los concursantes que tengan interés legítimo, podrán impugnar los resultados de la Selección de Ganadores mediante la presentación por escrito de sus inconformidades ante Pronósticos, en el que expongan sus razonamientos acompañados del comprobante en que funden su reclamación.
+Dentro de los cinco días hábiles siguientes a la publicación de los resultados, que definieron la quiniela ganadora, los concursantes que tengan interés legítimo, podrán impugnar los resultados de la Determinación de Ganadores mediante la presentación por escrito de sus inconformidades ante Pronósticos, en el que expongan sus razonamientos acompañados del comprobante en que funden su reclamación.
 
 > <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
 
@@ -451,15 +483,15 @@ En los términos establecidos por el artículo 29o. del presente Reglamento, el 
 
 ### Capítulo VII. Disposiciones generales de Progol Revancha
 
-> <small>(ADICIONADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2017)</small>
 
 ###### Artículo 34o.
 
 Para poder participar en la modalidad de Progol Revancha, el participante debe estar participando en la de Progol.
 
-El concurso Progol Revancha, consiste en una competencia entre los aspirantes a un premio con base en la predicción o pronósticos de los resultados de un conjunto mínimo de 7 (siete) partidos de fútbol soccer que figuren en competiciones autorizadas por la Federación Mexicana de Fútbol o sus similares en el ámbito internacional y que se inicia en el momento de aceptación del pago de Progol Revancha y termina con el acto denominado “Selección de Ganadores”, en el cual se determinarán las quinielas y combinaciones ganadoras, así como el importe de los premios correspondientes.
+El concurso Progol Revancha, consiste en una quiniela que hacen los aspirantes a un premio con base en los resultados de un conjunto de 7 (siete) partidos de fútbol soccer mismos que figuren en competencias autorizadas por las Ligas o Federaciones de Fútbol oficiales, o sus similares, en los ámbitos nacional e internacional, e inicia en el momento de aceptación del pago de Progol Revancha y termina con el acto denominado "Determinación de Ganadores", en el cual se define cuáles fueron las quinielas o combinaciones ganadoras, así como el importe de los premios correspondientes.
 
-Con el mismo boleto con que se participa en Progol, se participa en Progol Revancha, por lo que en este caso el boleto lleva impresa la nota “Revancha”.
+Con el mismo boleto con que se participa en Progol, se participa en Progol Revancha, por lo que en este caso el boleto llevará impresa la marca "Revancha".
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 31 DE AGOSTO DE 2007)</small>
 
@@ -471,9 +503,9 @@ Con el mismo boleto con que se participa en Progol, se participa en Progol Revan
 
 Para poder participar en la modalidad Progol Revancha, el participante deberá de observar los procedimientos que señalan los Artículos 4o. al 16o. de este Reglamento, debido a que se aplican en los mismos términos para Progol Revancha.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 31 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE JUNIO DE 2017)</small>
 
-### Capítulo IX. Selección de ganadores de Progol Revancha
+### Capítulo IX. Determinación de ganadores de Progol Revancha
 
 > <small>(ADICIONADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
 
@@ -555,11 +587,11 @@ a) Si no hay cuando menos una quiniela con 7 (siete) aciertos, entonces el premi
 
 b) Si no hay cuando menos una quiniela con 1 (un) acierto, entonces el concurso se declara desierto y el monto del fondo será destinado a las Reservas existentes.
 
-> <small>(REFORMADO, D.O.F. 29 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2017)</small>
 
 ###### Artículo 41o.
 
-Los resultados de la selección de ganadores se harán constar en el acta mencionada en el artículo 19o. En dicha acta se anotarán, además las particularidades e incidentes fundamentales ocurridos durante el acto y a la misma se anexará archivo electrónico en el que se hará constar la lista producida por el sistema de computación que contenga los números de los boletos ganadores de la única categoría de premiación conforme a lo establecido en el artículo 40o., así como el importe correspondiente a la única categoría de premiación.
+Los resultados de la determinación de ganadores se harán constar en el acta mencionada en el artículo 19o. En dicha acta se anotarán, además las particularidades e incidentes fundamentales ocurridos durante el acto y a la misma se anexará archivo electrónico en el que se hará constar la lista producida por el sistema de computación que contenga los números de los boletos ganadores de la única categoría de premiación conforme a lo establecido en el artículo 40o., así como el importe correspondiente a la única categoría de premiación.
 
 > <small>(ADICIONADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
 
@@ -573,11 +605,11 @@ En el supuesto a que se refiere el párrafo anterior, se hará entrega del acta 
 
 ### Capítulo X. De las reclamaciones de Progol Revancha
 
-> <small>(ADICIONADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2017)</small>
 
 ###### Artículo 43o.
 
-El participante que tenga interés legítimo, podrá impugnar los resultados de la Selección de Ganadores conforme a lo establecido en los Artículos 23o. al 28o. de este Reglamento.
+El participante que tenga interés legítimo, podrá impugnar los resultados de la Determinación de Ganadores conforme a lo establecido en los Artículos 23o. al 28o. de este Reglamento.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 31 DE AGOSTO DE 2007)</small>
 
@@ -593,11 +625,13 @@ El participante ganador podrá cobrar el premio al que fue acreedor conforme a l
 
 ### Capítulo XII. Disposiciones Generales de Progol Media Semana
 
-> <small>(ADICIONADO, D.O.F. 29 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2017)</small>
 
 ###### Artículo 45o.
 
-El concurso Progol Media Semana, consiste en una competencia entre los aspirantes a un premio con base en la predicción o pronóstico de los resultados de un conjunto de 9 (nueve) partidos de fútbol soccer que figuren en competiciones que se encuentren autorizadas por las Instituciones competentes en el ámbito nacional, así como en el internacional y que se inicia en el momento de aceptación del pago de Progol Media Semana y termina con el acto denominado "Selección de Ganadores", en el cual se determinarán las quinielas y combinaciones ganadoras, así como el importe de los premios correspondientes.
+El concurso Progol Media Semana, consiste en una competencia entre los aspirantes a un premio con base en la predicción o pronóstico de los resultados de un conjunto de 9 (nueve) partidos de fútbol soccer que figuren en competencias que se encuentren autorizadas por las Ligas o Federaciones de Fútbol oficiales o sus similares en los ámbitos nacional e internacional y que se inicia en el momento de la aceptación del pago de Progol Media Semana y termina con el acto denominado "Determinación de Ganadores", en el cual se define cuáles fueron las quinielas o combinaciones ganadoras, así como el importe de los premios correspondientes.
+
+El boleto con el que se participa en Progol Media Semana llevará impreso la marca de “Progol Media Semana”.
 
 > <small>(ADICIONADO, D.O.F. 29 DE MARZO DE 2010)</small>
 
@@ -609,9 +643,9 @@ El concurso Progol Media Semana, consiste en una competencia entre los aspirante
 
 Para poder concursar en la modalidad Progol Media Semana, el participante deberá de observar los procedimientos que señalan los artículos 4o. al 16o. de este Reglamento, debido a que aplican en los mismos términos para el presente concurso.
 
-> <small>(ADICIONADO, D.O.F. 29 DE MARZO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE JUNIO DE 2017)</small>
 
-### Capítulo XIV. Selección de ganadores de Progol Media Semana
+### Capítulo XIV. Determinación de ganadores de Progol Media Semana
 
 > <small>(ADICIONADO, D.O.F. 29 DE MARZO DE 2010)</small>
 
@@ -619,13 +653,17 @@ Para poder concursar en la modalidad Progol Media Semana, el participante deber�
 
 La suspensión de las ventas y la verificación de las ceremonias se llevará a cabo conforme a lo establecido en los artículos 36o. y 37o. del presente Reglamento.
 
-> <small>(ADICIONADO, D.O.F. 29 DE MARZO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE JUNIO DE 2017)</small>
 
 ###### Artículo 48o.
 
-Conocidos los resultados de los partidos de fútbol soccer de la modalidad Progol Media Semana de un concurso o determinados por sorteo en la forma en que se indica en el Capítulo II de este Reglamento, se procederá a seleccionar al ganador o ganadores, comparando cada una de las quinielas contenidas en el archivo de quinielas concursantes, con los resultados definitivos de cada partido considerado en el concurso, en los términos previstos por el artículo 5o. del presente Reglamento, con el fin de seleccionar todas aquellas quinielas participantes que coincidan con los resultados oficiales de los partidos programados para el concurso Progol Media Semana. Las quinielas que logren mayor número de aciertos se harán acreedoras a la parte proporcional del número asignado a la única categoría de premiación del concurso Progol Media Semana.
+Conocidos los resultados de los partidos de fútbol soccer de la modalidad Progol Media Semana de un concurso o determinados por sorteo en la forma en que se indica en el Capítulo II de este Reglamento, se procederá a determinar al ganador o ganadores, comparando cada una de las quinielas contenidas en el archivo de quinielas concursantes, con los resultados definitivos de cada partido considerado en el concurso, en los términos previstos por el artículo 5o. del presente Reglamento, con el fin de seleccionar todas aquellas quinielas participantes que coincidan con los resultados oficiales de los partidos programados para el concurso Progol Media Semana. Las quinielas que logren mayor número de aciertos se harán acreedoras a la parte proporcional del número asignado a la única categoría de premiación del concurso Progol Media Semana.
 
-A este acto se le denomina Selección de Ganadores definido en los términos del numeral 13 del artículo 3o. de este Reglamento.
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2017)</small>
+
+A este acto se le denomina Determinación de Ganadores definido en los términos del numeral 13 del artículo 3o. de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MARZO DE 2010)</small>
 
 Concluida la ceremonia e identificadas las quinielas ganadoras, se levantará acta con la intervención del Inspector designado por la Secretaría de Gobernación y de los servidores públicos mencionados en el párrafo segundo del artículo 36o. de este Reglamento, quienes deben intervenir y suscribir el documento, para todos los efectos legales; en la cual se harán constar los antecedentes del concurso, sus resultados y cualquier incidente que ocurriera durante el mismo. A dicha acta se anexará archivo electrónico en el que se hará constar la lista producida por el sistema de computación que contenga los números de los boletos ganadores de la única categoría de premiación conforme a lo establecido en el artículo 50o., así como el importe correspondiente a la única categoría de premiación.
 
@@ -681,33 +719,55 @@ El participante ganador podrá cobrar el premio al que fue acreedor conforme a l
 
 ### Capítulo XVI. De las reclamaciones de Progol Media Semana
 
-> <small>(ADICIONADO, D.O.F. 29 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2017)</small>
 
 ###### Artículo 53o.
 
-El participante que tenga interés directo, podrá impugnar los resultados de la Selección de Ganadores conforme a lo establecido en los artículos 23o. al 28o. de este Reglamento.
+El participante que tenga interés directo, podrá impugnar los resultados de la Determinación de Ganadores conforme a lo establecido en los artículos 23o. al 28o. de este Reglamento.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
 
 ### Capítulo XVII. Disposiciones Generales de Mi progol
 
-> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2017)</small>
 
 ###### Artículo 54o.
 
-Se denomina Mi Progol, al concurso mediante el cual se realiza un pronóstico sobre resultados de partidos de fútbol soccer a celebrarse a nivel nacional e internacional a los cuales se les establecen momios, eligiendo el concursante para cada partido un monto de participación o apuesta, e inicia en el momento de aceptación del pago de Mi Progol y termina con la determinación de ganadores del último partido del concurso correspondiente.
+Se denomina Mi Progol, al concurso mediante el cual se realizan pronósticos sobre resultados finales o parciales de partidos de fútbol soccer que figuren en competencias autorizadas por las Ligas o Federaciones de Fútbol oficiales o sus similares, en los ámbitos nacional e internacional, a los cuales se les establecen momios que el concursante debe elegir para cada partido con un monto de participación o apuesta, e inicia en el momento de la aceptación del pago de Mi Progol y termina con la Determinación de Ganadores del último partido del concurso correspondiente.
 
-> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2017)</small>
 
 ###### Artículo 55o.
 
-Pronósticos dará a conocer oportunamente al público la Lista de juegos que integren el Concurso, la fecha de celebración de los mismos, así como los momios correspondientes a los tres posibles resultados (L, E, V) de cada partido.
+Pronósticos dará a conocer oportunamente al público la lista de juegos que integren el Concurso, la fecha de celebración de los mismos, así como los momios correspondientes a los diferentes tipos de apuestas disponibles para cada partido.
 
-> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+Los equipos determinados por Pronósticos como Local se encuentran al lado izquierdo en la lista de juegos bajo la palabra “Local”, mientras que los equipos de Visita se encuentran al lado derecho en la lista de juegos bajo la palabra Visita.
+
+En la lista de juegos se colocarán los momios correspondientes a los posibles resultados de cada tipo de apuestas para cada partido.
+
+> <small>(ADICIONADO, D.O.F. 29 DE JUNIO DE 2017)</small>
+
+###### Artículo 55o.
+
+bis.- Un partido incluido en la lista de juegos, podrá tener disponible para el apostador al menos 1 (uno) de los siguientes tipos de apuesta:
+
+1) Resultado Final (RF): Al concursante se le pide que haga un pronóstico sobre el resultado final de un partido de fútbol. El concursante deberá marcar sus predicciones usando Local (L), Empate (E) o Visitante (V), donde L indica triunfo del equipo local, la E indica empate y la V indica el triunfo del equipo visitante.
+
+2) Resultado Primer Tiempo (1T): Al concursante se le pide que haga un pronóstico sobre el resultado al término del primer tiempo de un partido de fútbol. El concursante deberá marcar sus predicciones usando Local (L), Empate (E) o Visitante (V), donde L indica triunfo del equipo local, la E indica un empate y la V indica el triunfo del equipo visitante.
+
+3) Doble Oportunidad (DO): Al concursante se le pide que haga un pronóstico sobre el resultado final de un partido, usando LE (Local o Empate) que indica que el resultado final del partido es un triunfo del equipo local o un empate, un LV (Local o Visitante) que indica que el resultado final del partido es un triunfo del equipo local o un triunfo del equipo de visita, y una EV (Empate o Visitante) que indica que el resultado final del partido es un empate o un triunfo del equipo de visitante (sic).
+
+4) Total de Goles (TG): Al concursante se le pide que haga un pronóstico sobre el total de goles de un partido de fútbol. El número de total de goles marcados en un partido de fútbol es la suma de goles convertidos por ambos equipos, según lo anunciado oficialmente por Pronósticos y se basa en el resultado producido al final del tiempo regular del partido. El concursante deberá marcar sus predicciones usando 0 a 1 (cero a uno), 2 a 3 (dos a tres) o, 4 o más (cuatro o más), donde 0 (cero) a 1 (uno) indica que el total de goles del partido será 0 (cero) o 1 (un) gol, la 2 (dos) a 3 (tres) indica que el total de goles del partido será 2 (dos) o 3 (tres) goles y 4 (cuatro) o más indica que el total de goles del partido será 4 o más goles.
+
+5) Ambos Equipos Anotan (AA): Al concursante se le pide que haga un pronóstico sobre si ambos equipos anotarán por lo menos 1 (un) gol en el partido de fútbol. El concursante deberá marcar su predicción usando SI o NO, donde SI indica que ambos equipos anotarán por lo menos 1 (un) gol en el partido de fútbol y NO indica que por lo menos un equipo del partido de fútbol no anotará un gol.
+
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2017)</small>
 
 ###### Artículo 56o.
 
-En cualquier partido que se programe, Pronósticos, para los fines de este reglamento, sólo tomará como resultado oficial, el obtenido durante el tiempo reglamentario, excluyendo tiempos extras o cualquier otra condición que se haya pactado entre los equipos contendientes.
+Para los fines de este Reglamento y en cualquier partido que se programe Pronósticos, sólo tomará como resultado oficial, para los tipos de apuestas Resultado Final (RF), Total de Goles (TG), Doble Oportunidad (DO) y Ambos equipos Anotan (AA), el obtenido durante el tiempo reglamentario, excluyendo tiempos extras o cualquier otra condición que se haya pactado entre las Ligas o Federaciones a las que pertenezcan los equipos contendientes.
+
+En el caso del tipo de apuesta Resultado Primer Tiempo (1T), se tomará como resultado oficial el obtenido al término del primer tiempo del partido de fútbol.
 
 > <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
 
@@ -743,11 +803,13 @@ No se considerará realizado el partido cuando no se inicie por cualquier razón
 
 Se podrá participar en la modalidad Mi Progol, utilizando los volantes oficiales emitidos por Pronósticos, por dictado del concursante al comercializador o por cualquier otro medio o dispositivo electrónico autorizado por Pronósticos.
 
-> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2017)</small>
 
 ###### Artículo 62o.
 
-El concursante deberá realizar la selección del (los) partido(s) de entre los programados para la modalidad Mi Progol, debiendo elegir para cada partido sólo uno de los tres posibles resultados L, E, V, así como el monto de participación o apuesta con la que concursará.
+El concursante deberá realizar la selección del (los) partido(s) de entre los programados para la modalidad Mi Progol, debiendo elegir para cada partido sólo uno de los tipos de apuestas ofrecidos, así como el monto de participación o apuesta con la que concursará.
+
+En un mismo boleto, no está permitido apostar a más de un tipo de apuesta para un mismo partido, en caso contrario el mismo será nulo.
 
 > <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
 
@@ -781,7 +843,7 @@ Los comercializadores autorizados recibirán de los concursantes el pago del pre
 
 Cuando por causa de fuerza mayor o caso fortuito debidamente comprobado, no se haya registrado la participación en el sistema central de captación de transacciones en línea, el titular de la participación que no haya sido registrada en los términos mencionados, tendrá el derecho a la devolución del importe efectivamente pagado.
 
-> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2017)</small>
 
 ###### Artículo 67o.
 
@@ -789,27 +851,29 @@ El boleto deberá contener cuando menos los siguientes datos:
 
 1.- Número, nombre y fecha del concurso.
 
-2.- Quiniela (s).
+2.- Quiniela(s).
 
-3.- Los momios correspondientes a la quiniela (s).
+3.- Tipo de Apuesta
 
-4.- Importe del monto invertido.
+4.- Los momios correspondientes a tipo de apuesta.
 
-5.- El número de identificación del boleto.
+5.- Importe del monto invertido.
 
-6.- Claves de seguridad.
+6.- El número de identificación del boleto.
 
-7.- Hora y fecha de emisión.
+7.- Claves de seguridad.
 
-8.- Número de terminal.
+8.- Hora y fecha de emisión.
 
-9.- Número de Serie.
+9.- Número de terminal.
 
-10.- El término de caducidad del derecho al cobro del premio.
+10.- Número de Serie.
 
-11.- Mención de que es un documento al portador comprendido en el artículo 6o. de la Ley General de Títulos y Operaciones de Crédito, y no un título de crédito, ya que sirve únicamente para identificar a su tenedor. Dicho documento consigna un contrato de adhesión y sólo tendrá efectos probatorios cuando se corrobore que los códigos de seguridad y las numeraciones contenidas en él sean legales.
+11.- El término de caducidad del derecho al cobro del premio.
 
-12.- El importe del premio en caso de resultar ganador.
+12.- Mención de que es un documento al portador comprendido en el artículo 6o. de la Ley General de Títulos y Operaciones de Crédito, y no un título de crédito, ya que sirve únicamente para identificar a su tenedor. Dicho documento consigna un contrato de adhesión y sólo tendrá efectos probatorios cuando se corrobore que los códigos de seguridad y las numeraciones contenidas en él sean legales.
+
+13.- El importe del premio en caso de resultar ganador.
 
 > <small>(REFORMADO, D.O.F. 9 DE JULIO DE 2012)</small>
 
@@ -818,6 +882,12 @@ El boleto deberá contener cuando menos los siguientes datos:
 Pronósticos, a través del Sistema Central de Transacciones en Línea, suspenderá la recepción de participaciones para los partidos, indefectiblemente diez (10) minutos antes de la hora programada para su inicio, sin embargo, se podrá seguir participando para los partidos subsecuentes disponibles.
 
 En caso de que por algún motivo no se llegara a suspender la recepción de participaciones diez (10) minutos antes de que inicie el partido, o que se haya cambiado el horario del mismo, es decir, se adelante o retrase, sin ser notificado, el momio aplicable a cada resultado de ese partido para todas aquellas apuestas que hubiesen sido ingresadas después de los 10 (diez) minutos previos al inicio proporcionado en la Lista de Juegos será de uno (1)
+
+> <small>(ADICIONADO, D.O.F. 29 DE JUNIO DE 2017)</small>
+
+###### Artículo 68o.
+
+bis.- Cuando después de iniciado el partido de fútbol incluido en la lista del concurso, fuere suspendido por cualquier motivo y el resultado oficial de esté no se conociera antes del inicio del concurso siguiente, el momio aplicable a cada uno de los resultados posibles será uno. En el caso particular del tipo de apuesta Resultado del Primer Tiempo, si la suspensión del partido de fútbol ocurre durante el primer tiempo, aplicará la misma regla ya mencionada, pero si la suspensión es posterior al término del primer tiempo, se aceptará como valido el resultado para este tipo de apuesta.
 
 > <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
 
@@ -1017,26 +1087,10 @@ ACUERDO POR EL QUE SE REFORMA EL ARTÍCULO 68 DEL REGLAMENTO DEL CONCURSO PROGOL
 
 UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 120.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO, DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO Y DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO”.]
+D.O.F. 29 DE JUNIO DE 2017.
 
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial 'Gaceta del Gobierno”.
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMAN LOS ARTÍCULOS 2º, 6º, 34º, 45º, 54º 55°, 56°, 62°, 67°; SE ADICIONAN LOS ARTÍCULOS 55° BIS, 68° BIS Y LOS NUMERALES 26 A 30 DEL ARTÍCULO 3°, Y SE MODIFICA EN LOS ARTÍCULOS 3°, 5°, 5° BIS, 7°, 8°, 10°, 19°, 22°, 23°, 41°, 43°, 48°, 53° Y LOS TÍTULOS DE LOS CAPÍTULOS IV, IX Y XIV EL TÉRMINO SELECCIÓN DE GANADORES POR DETERMINACIÓN DE GANADORES, DEL REGLAMENTO DEL CONCURSO PROGOL”.]
 
-SEGUNDO. El presente Decreto entrará en vigor el primero de enero de dos mil diecisiete.
+PRIMERO.- El presente Acuerdo entrará en vigor el día 29 de junio del año 2017.
 
-TERCERO. La Comisión Estatal de Factibilidad se deberá instalar en un plazo máximo de 30 días naturales siguientes a la entrada en vigor del presente Decreto.
-
-CUARTO. La Comisión Estatal de Factibilidad emitirá su Reglamento interior dentro de los 30 días naturales posteriores a su instalación.
-
-QUINTO. A la entrada en vigor del presente decreto, los dictámenes y las prórrogas emitidas con anterioridad, conservarán la vigencia que tengan establecida.
-
-SEXTO. Los procedimientos iniciados antes de la entrada en vigor del presente decreto serán concluidos conforme a la legislación aplicable al momento en que se iniciaron.
-
-La persona física o jurídico colectiva que haya iniciado procedimientos antes de la entrada en vigor del presente decreto, podrá elegir la continuidad del mismo, o bien, reiniciar bajo los procedimientos establecidos en el presente decreto, en cuyo caso se admitirán los dictámenes ya obtenidos de las diferentes dependencias del Gobierno del Estado de México.
-
-SÉPTIMO. Cuando en otros ordenamientos se haga referencia a los dictámenes de factibilidad se tendrá por entendido que serán suplidos por el Dictamen Único de Factibilidad emitido por la Comisión Estatal de Factibilidad.
-
-OCTAVO. El Ejecutivo Estatal contará con un plazo no mayor a 30 días naturales posteriores a la entrada en vigor del presente Decreto, para emitir los ordenamientos jurídicos reglamentarios, en donde se establecerán los tiempos de respuesta por parte de las autoridades.
-
-NOVENO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
-
-G.G. 20 DE DICIEMBRE DE 2016.
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
