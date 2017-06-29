@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-proyectos-de-prestacion-de-servicios-para-el-estado-8042
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-22"
-last_updated: "2011-03-22"
+last_updated: "2017-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE PROYECTOS DE PRESTACION DE SERVICIOS PARA EL ESTADO Y LOS MUNICIPIOS DE QUINTANA ROO
 
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO SEGUNDO DEL DECRETO NÚMERO 081 POR EL QUE SE EXPIDE LA LEY DE ASOCIACIONES PÚBLICO-PRIVADAS PARA EL ESTADO Y LOS MUNICIPIOS DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 29 DE JUNIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PROYECTOS DE PRESTACION DE SERVICIOS PARA EL ESTADO Y LOS MUNICIPIOS DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2017 (ABROGADA).
 
 Ley publicada en el Número 28 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 22 de marzo de 2011.
 
@@ -730,3 +732,21 @@ LIC. EDUARDO OVANDO MARTINEZ
 EL SECRETARIO ESTATAL DE HACIENDA DEL ESTADO DE QUINTANA ROO.
 
 C.P. GONZALO ABELARDO HERRERA CASTILLA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 081 POR EL QUE SE EXPIDE LA LEY DE ASOCIACIONES PÚBLICO-PRIVADAS PARA EL ESTADO Y LOS MUNICIPIOS DE QUINTANA ROO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo. Se abroga la ley de Proyectos de Prestación de Servicios para el Estado y los Municipios de Quintana Roo publicada en el Periódico Oficial el 22 de marzo del 2011.
+
+Tercero. Los Proyectos equiparables a los proyectos de prestación de servicios regulados por la Ley de Proyectos de Prestación de Servicios para el Estado y los Municipios de Quintana Roo, que se hayan Iniciado con anterioridad a la entrada en vigor de la presente ley y se encuentren en procedimiento de estructuración, contratación, ejecución o desarrollo a la entrada en vigor del presente Decreto, continuarán rigiéndose conforme a la Ley de Proyectos de Prestación de Servicios para el Estado y los Municipios de Quintana Roo.
+
+Cuarto. Las Autorizaciones a que hace referencia la Fracción IV del artículo 10 de la Ley, que hayan sido otorgadas por el Ejecutivo del Estado y los Municipios antes de la entrada en vigor de la presente Ley, continuarán sujetándose a los ordenamientos legales bajo los cuales hayan sido otorgadas, salvo aquéllas en que en los títulos respectivos se establezca lo contrario.
+
+Quinto. El Ejecutivo del Estado deberá expedir el Reglamento de la presente Ley en un término que no exceda los 180 días naturales, a partir de la publicación de esta Ley en el Periódico Oficial del Estado.
+
+Sexto. En tanto se expiden el Reglamento y los lineamientos de la presente Ley, se podrán llevar a cabo los actos y procedimientos para desarrollar Proyectos de Asociación Público-Privada, siempre y cuando se cumplan los requisitos de esta Ley.
