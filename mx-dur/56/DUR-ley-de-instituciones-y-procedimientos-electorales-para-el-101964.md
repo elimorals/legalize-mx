@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-instituciones-y-procedimientos-electorales-para-el-10196
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2017-03-19"
+last_updated: "2017-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101964&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 3 de julio de 2014.
 
@@ -187,13 +187,17 @@ ARTÍCULO 10
 
 1. Los ciudadanos que reúnan los requisitos establecidos en la Constitución Local y en esta Ley, son elegibles en los términos de la misma para los cargos de diputados al Congreso, de Gobernador, de presidentes municipales, síndicos y regidores de los ayuntamientos, según corresponda.
 
-2. Los ministros de cualquier culto religioso que aspiren a algún cargo de elección popular, además de cumplir con los requisitos establecidos en el párrafo anterior, deberán haber renunciado formal, material y definitivamente de su ministerio, cuando menos con cinco años de antelación al día en que se celebre la elección.
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
 
-3. Son duranguenses migrantes, las personas nativas del Estado, y los mexicanos nacidos fuera del mismo, hijos de padre o madre duranguense, que posean domicilio simultáneo en el extranjero y en el territorio de la Entidad Federativa.
+2. Para el caso de diputados que aspiren a la elección consecutiva, deberán separarse del cargo noventa días antes de la elección.
 
-4. Es causa de inhabilidad para asumir el cargo si se acredita que un ciudadano duranguense migrante electo como diputado posee o adquiere una nacionalidad extranjera antes del día en que rinda la protesta de ley. En tal caso, será sustituido por el diputado suplente.
+3. Los ministros de cualquier culto religioso que aspiren a algún cargo de elección popular, además de cumplir con los requisitos establecidos en el párrafo anterior, deberán haber renunciado formal, material y definitivamente de su ministerio, cuando menos con cinco años de antelación al día en que se celebre la elección.
 
-5. Los ciudadanos duranguenses migrantes que resulten electos como diputados y hayan asumido el cargo, serán suspendidos en sus funciones y separados del cargo, en su caso, cuando se acredite ante el Congreso, mediante los medios de prueba pertinentes, que posee o adquirió una nacionalidad extranjera antes o durante el ejercicio de su encargo. En caso de ser separado del cargo, será sustituido por el diputado suplente.
+4. Son duranguenses migrantes, las personas nativas del Estado, y los mexicanos nacidos fuera del mismo, hijos de padre o madre duranguense, que posean domicilio simultáneo en el extranjero y en el territorio de la Entidad Federativa.
+
+5. Es causa de inhabilidad para asumir el cargo si se acredita que un ciudadano duranguense migrante electo como diputado posee o adquiere una nacionalidad extranjera antes del día en que rinda la protesta de ley. En tal caso, será sustituido por el diputado suplente.
+
+6. Los ciudadanos duranguenses migrantes que resulten electos como diputados y hayan asumido el cargo, serán suspendidos en sus funciones y separados del cargo, en su caso, cuando se acredite ante el Congreso, mediante los medios de prueba pertinentes, que posee o adquirió una nacionalidad extranjera antes o durante el ejercicio de su encargo. En caso de ser separado del cargo, será sustituido por el diputado suplente.
 
 ARTÍCULO 11
 
@@ -1017,7 +1021,9 @@ ARTÍCULO 86
 
 ARTÍCULO 87
 
-1. Para desempeñar las atribuciones que le correspondan en el proceso electoral, el Consejo General se reunirá dentro de la primera semana del mes de octubre del año anterior al de las elecciones ordinarias. A partir de esta fecha y hasta la conclusión del proceso, el Consejo sesionará de manera ordinaria una vez al mes, y en forma extraordinaria, las veces que sean necesarias.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+1. Para desempeñar las atribuciones que le correspondan en el proceso electoral, el Consejo General se reunirá el primer día del mes de noviembre del año anterior al de las elecciones ordinarias. A partir de esta fecha y hasta la conclusión del proceso, el Consejo sesionará de manera ordinaria una vez al mes, y en forma extraordinaria, las veces que sean necesarias.
 
 2. Durante los años de receso electoral, el Consejo General se reunirá en sesión ordinaria trimestralmente. El Consejo General podrá sesionar en forma extraordinaria a convocatoria expresa que haga su Presidente, siempre y cuando el asunto a tratar así lo amerite, o los tiempos legales fijados por esta Ley, así lo requieran.
 
@@ -2359,7 +2365,9 @@ ARTÍCULO 163
 
 ARTÍCULO 164
 
-1. El proceso electoral ordinario se inicia en el mes de octubre del año anterior al de la elección y concluye con la declaración de validez de la elección y de Gobernador electo, o con las resoluciones que en su caso emita el Tribunal Electoral.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+1. El proceso electoral ordinario se inicia el primer día del mes de noviembre del año anterior al de la elección y concluye con la declaración de validez de la elección y de Gobernador electo, o con las resoluciones que en su caso emita el Tribunal Electoral.
 
 2. En las elecciones ordinarias para la renovación del Congreso y de los integrantes de los Ayuntamientos, en donde no se elija al Gobernador del Estado, concluirá con la declaración de validez de la elección de diputados por el principio de representación proporcional. En todo caso, la conclusión será una vez que el Tribunal Electoral haya resuelto el último de los medios de impugnación que se hubieren interpuesto o cuando se tenga constancia de que no se presentó ninguno.
 
@@ -3973,13 +3981,15 @@ ARTÍCULO 300
 
 1. Se entiende por actos tendentes a recabar el apoyo ciudadano, el conjunto de reuniones públicas, asambleas, marchas y todas aquellas actividades dirigidas a la ciudadanía en general, que realizan los aspirantes con el objeto de obtener el apoyo ciudadano para satisfacer el requisito en los términos de esta Ley.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+
 ARTÍCULO 301
 
-1. Para la candidatura de Gobernador del Estado, la cédula de respaldo deberá contener cuando menos la firma de una cantidad de ciudadanos equivalente al tres por ciento, de la lista nominal de electores con corte al treinta y uno de agosto del año previo al de la elección y estar integrada por electores de por lo menos veinte municipios, que sumen cuando menos el dos por ciento, de ciudadanos que figuren en la lista nominal de electores en cada una de ellas.
+1. Para la candidatura de Gobernador del Estado, la cédula de respaldo deberá contener cuando menos la firma de una cantidad de ciudadanos equivalente al uno por ciento, de la lista nominal de electores con corte al treinta y uno de agosto del año previo al de la elección y estar integrada por electores de por lo menos veinte municipios, que sumen cuando menos el 0.5·por ciento, de ciudadanos que figuren en la lista nominal de electores en cada una de ellas.
 
-2. Para fórmulas de diputados de mayoría relativa, la cédula de respaldo deberá contener cuando menos la firma de una cantidad de ciudadanos equivalente al tres por ciento de la lista nominal de electores correspondiente al distrito de que se trate, con corte al treinta y uno de agosto del año previo al de la elección, y estar integrada por ciudadanos de por lo menos la mitad de las secciones electorales que comprenda, que sumen como mínimo el dos por ciento de ciudadanos que figuren en la lista nominal de electores en cada una de ellas.
+2. Para fórmulas de diputados de mayoría relativa, la cédula de respaldo deberá contener cuando menos la firma de una cantidad de ciudadanos equivalente al uno por ciento de la lista nominal de electores correspondiente al distrito de que se trate, con corte al treinta y uno de agosto del año previo al de la elección, y estar integrada por ciudadanos de por lo menos la mitad de las secciones electorales que comprenda, que sumen como mínimo el 0.5 por ciento de ciudadanos que figuren en la lista nominal de electores en cada una de ellas.
 
-3. Para los integrantes de ayuntamientos por el principio de mayoría relativa, la cédula de respaldo deberá contener cuando menos la firma de una cantidad de ciudadanos equivalente al tres ciento de la lista nominal de electores correspondiente al Municipio en cuestión, con corte al treinta y uno de agosto del año previo al de la elección y estar integrada por ciudadanos de por lo menos la mitad de las secciones electorales que sumen cuando menos el dos por ciento, de ciudadanos que figuren en la lista nominal de electores en cada una de ellas.
+3. Para los integrantes de ayuntamientos por el principio de mayoría relativa, la cédula de respaldo deberá contener cuando menos la firma de una cantidad de ciudadanos equivalente al uno ciento (sic) de la lista nominal de electores correspondiente al Municipio en cuestión, con corte al treinta y uno de agosto del año previo al de la elección y estar integrada por ciudadanos de por lo menos la mitad de las secciones electorales que sumen cuando menos el 0.5 por ciento, de ciudadanos que figuren en la lista nominal de electores en cada una de ellas.
 
 ARTÍCULO 302
 
@@ -5366,3 +5376,11 @@ SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado po
 TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 29 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 186.- POR EL QUE SE ADICIONAN DIVERSOS ARTICULOS DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales, en lo que se opongan al presente decreto.
