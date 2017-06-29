@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-ingresos-del-estado-de-campeche-para-el-ejercicio-118153
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2016-12-22"
-last_updated: "2016-12-22"
+last_updated: "2017-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118153&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE INGRESOS DEL ESTADO DE CAMPECHE PARA EL EJERCICIO FISCAL 2017
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el jueves 22 de diciembre de 2016.
 
@@ -46,6 +46,8 @@ LEY DE INGRESOS DEL ESTADO DE CAMPECHE PARA EL EJERCICIO FISCAL 2017
 En el ejercicio fiscal 2017, el Estado de Campeche, percibirá los ingresos provenientes de impuestos, derechos, productos, aprovechamientos, participaciones, fondos de aportaciones federales, convenios, ingresos derivados de financiamientos e incentivos en las cantidades estimadas que a continuación se enumeran:
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 22 DE DICIEMBRE DE 2016, PÁGINAS 44 A LA 48.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. 29 DE JUNIO DE 2017, PÁGINA 1.]</small>
 
 Cuando una ley que establezca alguno de los ingresos previstos en este artículo, contenga disposiciones que señalen otros ingresos, estos últimos se considerarán comprendidos en la fracción que corresponda a los ingresos a que se refiere este artículo.
 
@@ -75,63 +77,75 @@ El Programa Financiero Estatal correspondiente al rubro de Ingresos Derivados de
 
 Las autorizaciones materia de la presente Ley en favor del Gobierno del Estado de Campeche, se entenderán a su vez en favor de, y podrán ser ejercidas, por el Poder Ejecutivo del Estado y su titular y/o la Secretaría de Finanzas y su titular; según lo requieran conforme a lo establecido en la legislación aplicable, en función de la naturaleza de los actos aquí autorizados.
 
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+###### ARTÍCULO 5
+
+Bis. De conformidad con el artículo 117, fracción VIII, tercer párrafo de la Constitución Política de los Estados Unidos Mexicanos, se autoriza al Ejecutivo del Estado de Campeche, previo análisis del destino y capacidad de pago y, en su caso, el otorgamiento de garantías y/o el establecimiento de la fuente de pago, para llevar a cabo operaciones directa y/o indirectamente a través de financiamientos, bancarios y/o bursátiles, así como afectar un porcentaje necesario y suficiente de los derechos y/o ingresos derivados de las Participaciones que le correspondan al Estado de Campeche conforme a los términos y condiciones establecidos en la legislación aplicable y en la presente Ley, como fuente de pago y/o de garantía de los empréstitos, obligaciones y demás operaciones autorizadas que contraiga al amparo de la presente Ley.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 6.
 
-Con base en el artículo 15 y demás aplicables de la Ley de Obligaciones, Financiamientos y Deuda Pública del Estado de Campeche y sus Municipios, se autoriza al Gobierno del Estado de Campeche a contratar Deuda Pública hasta por un monto máximo de $ 495 000 000 (Son: Cuatrocientos noventa y cinco millones de pesos 00/100 M.N.) o su equivalente en Unidades de Inversión.
+Hecho el análisis a que hace referencia el artículo 5 bis de esta Ley y con base en el artículo 15 y demás aplicables de la Ley de Obligaciones, Financiamientos y Deuda Pública del Estado de Campeche y sus Municipios se autoriza al Poder Ejecutivo del Estado de Campeche a contratar Deuda Pública hasta por un monto máximo de $806'250,000.00 (Son: Ochocientos seis millones doscientos cincuenta mil pesos 00/100 M.N.) o su equivalente en Unidades de Inversión.
 
-El Gobierno del Estado de Campeche podrá contratar el o los financiamientos en los términos y condiciones establecidos en la presente Ley y, considerando entre otras, los siguientes términos y condiciones:
+El Poder Ejecutivo podrá contratar, en nombre del Estado de Campeche, el o los financiamientos en los términos y condiciones establecidos en la presente Ley y, considerando entre otras, los siguientes términos y condiciones:
 
-I. Monto máximo del o los financiamientos: $ 495,000,000 (Son: Cuatrocientos noventa y cinco millones de pesos 00/100), o su equivalente en Unidades de Inversión [más], intereses, Gastos Adicionales, así como cualesquiera otros gastos financieros, impuestos, comisiones, gastos de estructuración, gastos legales y/u otros conceptos necesarios para instrumentar las operaciones autorizadas en la presente Ley.
+I. Monto máximo del o los financiamientos: $806'250,000.00 (Son: Ochocientos seis millones doscientos cincuenta mil Pesos 00/100 M.N.) o su equivalente en Unidades de Inversión incluyendo la constitución de fondos de reserva, así como gastos y costos relacionados con la contratación, como pueden ser, impuestos, comisiones, gastos de estructuración, honorarios de asesores financieros, legales, fiduciarios, notariales, de agencias calificadoras y/u otros conceptos necesarios para instrumentar las operaciones autorizadas en la presente Ley, siempre y cuando los gastos y costos relacionados con la contratación del o los financiamientos cumplan con los requisitos establecidos en el artículo 27 del Reglamento del Registro Público Único de Financiamientos y Obligaciones de Entidades Federativas y Municipios
 
-II. Gastos Adicionales: Los referidos en el Artículo 12 de la presente Ley.
+El importe del o los financiamientos a que se refiere el presente artículo no comprende los intereses, ni los accesorios legales y financieros que deriven de los mismos.
 
-II. Destino: Inversiones Públicas Productivas en términos de la normatividad aplicable; en el entendido que los recursos obtenidos podrán destinarse para cubrir también las erogaciones previas en el Artículo 12 de la presente Ley.
+II. Gastos Adicionales: Los referidos en el Artículo 12 de la presente Ley
 
-IV. Plazo de contratación: durante los ejercicios fiscales 2017 y/o 2018.
+III. Destino: Inversiones Públicas Productivas dentro del Programa de Infraestructura para el Desarrollo Económico del Estado de Campeche, cuya finalidad específica deberá ser: (i) la construcción, mejoramiento, rehabilitación y/o reposición de bienes de dominio público; (ii) la adquisición de bienes asociados al equipamiento de dichos bienes de dominio público, comprendidos de manera limitativa en los conceptos de mobiliario y equipo de administración, mobiliario y equipo educacional, equipo médico e instrumental médico y de laboratorio, equipo de defensa y seguridad, y maquinaria, de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable; o (iii) la adquisición de bienes para la prestación de un servicio público específico, comprendidos de manera limitativa en los conceptos de vehículos de transporte público, terrenos y edificios no residenciales, de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable,de (sic) conformidad con lo establecido en la fracción XXV del artículo 2 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y la fracción II del artículo 2 de la Ley de Obligaciones, Financiamientos y Deuda Pública del Estado de Campeche y sus Municipios. Lo anterior en el entendido que los recursos obtenidos podrán destinarse para cubrir también las erogaciones previstas en el artículo 12 de la presente Ley.
 
-V. Fuente de pago y/o de garantía primaria: la referida en el Artículo 10 de la presente Ley.
+IV. Plazo de contratación: durante los ejercicios fiscales 2017 y/o 2018
 
-VI. Tipo de instrumentación: El financiamiento autorizado podrá instrumentarse mediante la contratación directa de uno o varios créditos bancarios y/o la emisión directa de uno o varias emisiones bursátiles y estará sujeto a lo establecido en el inciso XI siguiente.
+V. Fuente de pago y/o de garantía: la referida en el artículo 10 de la presente Ley.
+
+VI. Tipo de instrumentación: El financiamiento autorizado podrá instrumentarse mediante la contratación directa y/o indirecta de uno o varios créditos bancarios y/o la emisión directa y/o indirecta de una o varias emisiones bursátiles y estará sujeto a lo establecido en el inciso XI siguiente.
 
 VII. Mecanismo de contratación, administración, fuente de pago y/o de garantía: Los referidos en el Artículo 9 de la presente Ley.
 
-VIII. Vigencia del o los financiamientos: para cada financiamiento 20 años, contados a partir de la fecha en que:
+VIII. Vigencia del o los financiamientos: Para cada financiamiento hasta 20 años, equivalentes aproximadamente hasta 7300 días, contados a partir de la fecha en que:
 
-a) Se ejerza la primera o única disposición del o de los crédito(s) bancario(s) respectivos; y/o
+a) Se celebre(n) el o los créditos bancarios respectivos;
 
 b) Se lleve(n) a cabo la(s) emisión(es) bursátil(es) correspondiente(s). En cualquier caso, los contratos y los títulos y/o valores mediante los cuales se formalice(n) dichas operaciones, estarán vigentes mientras existan obligaciones pendientes de pago a favor de los acreedores respectivos.
 
-IX. Contratación de Instrumentos Derivados: El Gobierno del Estado de Campeche podrá contratar instrumentos Derivados para cubrir hasta la totalidad de los montos expuestos, derivados de cada financiamiento contratado. En su caso, los derivados podrán compartir la fuente de pago del financiamiento respectivo. En caso que dicha contratación genere deuda contingente, se estará apegado a lo establecido en el artículo 29 de la Ley de Obligaciones, Financiamientos y Deuda Pública del Estado de Campeche y sus Municipios.
+IX. Contratación de Instrumentos Derivados: El Pode (sic) Ejecutivo del Estado de Campeche podrá contratar instrumentos Derivados para cubrir hasta la totalidad de los montos expuestos, derivados de cada financiamiento contratado. En su caso, los derivados podrán compartir la fuente de pago del financiamiento respectivo. En caso que dicha contratación genere deuda contingente, se estará apegado a lo establecido en el artículo 29 de la Ley de Obligaciones, Financiamientos y Deuda Pública del Estado de Campeche y sus Municipios.
 
 X. Garantías de pago: Las referidas en el Artículo 8 de la presente Ley.
 
-XI. Otros: El esquema de amortización, la cobertura, así como los intereses, gastos y demás términos y condiciones del o de los crédito(s) bancario(s) y/o de la(s) emisión(es) bursátil(es) correspondiente(s), podrán ser contratados directamente por el Gobierno del Estado de Campeche y serán los que se establezcan en los documentos que al efectos se celebren, con base en lo establecido en el Artículo 11.
-
-XII. Naturaleza del financiamiento: Las operaciones de financiamiento y, en su caso, de las Garantías de Pago autorizadas al amparo de la presente Ley, en todos los casos deberán considerar que el único medio de pago de los contratos, títulos y/o valores que documenten el financiamiento y, en su caso, las Garantías de Pago, serán los recursos que constituyan el patrimonio de los mecanismos de contratación, administración, fuente de pago y/o de garantía referidos en el Artículo 9 de la presente Ley.
+XI. Otros: El esquema de amortización, la cobertura, así como los intereses, gastos y demás términos y condiciones del o de los crédito(s) bancario(s) y/o de la(s) emisión(es) bursátil(es) correspondiente(s), podrán ser contratados directamente por el Gobierno del Estado de Campeche y serán los que se establezcan en los documentos que al efecto se celebren, con base en lo establecido en el Artículo 11.
 
 ###### ARTÍCULO 7.
 
 Cada Financiamiento contratado deberá buscar las mejores condiciones de mercado para el Gobierno del Estado de Campeche. Para efectos de lo anterior, el Gobierno del Estado de Campeche, directa o indirectamente a través de los terceros que, en su caso, contrate para dichos efectos, implementará los procesos competitivos que resulten aplicables conforme a lo establecido en los artículos 25 y 26 de la Ley de Obligaciones, Financiamientos y Deuda Pública del Estado de Campeche y sus Municipios, según corresponda; en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, así como en los Lineamientos de la Metodología para el Cálculo del Menor Costo Financiero y de los Procesos Competitivos de los Financiamientos y Obligaciones a Contratar por Parte de las Entidades Federativas, los Municipios y sus Entes Públicos.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 8.
 
-Con la finalidad de fortalecer la estructura y garantizar al o a los acreedores de cada financiamiento que contrate el Gobierno del Estado de Campeche en términos de la presente Ley, el Gobierno del Estado de Campeche podrá contratar con la Banca de Desarrollo o con cualquier otra institución de crédito de nacionalidad mexicana, cualquier tipo de Garantías de Pago oportuno u operaciones similares, denominadas en pesos o en Unidades de Inversión, pagaderas en moneda nacional y dentro del territorio del país, con un plazo máximo de 20 años.
+Con la finalidad de fortalecer la estructura y garantizar al o a los acreedores de cada financiamiento que contrate el Estado de Campeche por conducto del Poder Ejecutivo en términos de la presente Ley, el Estado de Campeche, a través del Poder Ejecutivo podrá contratar con la Banca de Desarrollo o con cualquier otra institución financiera de nacionalidad mexicana, cualquier tipo de Garantías de Pago oportuno u operaciones similares, denominadas en pesos o en Unidades de Inversión, pagaderas en moneda nacional y dentro del territorio del país, con un plazo máximo de hasta 25 años y hasta por un monto máximo adicional de endeudamiento equivalente hasta el 30% (treinta por ciento) del monto total del financiamiento autorizado en virtud de la presente Ley.
 
 Las Garantías de Pago podrán tener como fuente de pago y/o de garantía, la referida en el Artículo 10 de la presente Ley.
 
-Las Garantías de Pago podrán ser contratadas directamente por el Gobierno del Estado de Campeche, o bien, indirectamente a través de los mecanismos de contratación, administración, fuente de pago y/o de garantía que constituya y/o modifique para dichos efectos conforme a la presente Ley.
+Las Garantías de Pago podrán ser contratadas directamente por el Poder Ejecutivo del Estado de Campeche, o bien, indirectamente a través de los mecanismos de contratación, administración, fuente de pago y/o de garantía que constituya y/o modifique el Poder Ejecutivo del Estado de Campeche para dichos efectos conforme a la presente Ley.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 9.
 
-Para efectos de cumplir con sus obligaciones y celebrar los actos autorizados en el mismo, se autoriza al Gobierno del Estado de Campeche para constituir y, en su caso, modificar el o los mecanismos de contratación, administración, fuente de pago y/o garantía, o cualquier otro acto jurídico análogo, que considere necesarios; por lo que podrá afectar los derechos e ingresos, como fuente de pago y/o de garantía del financiamiento y de las Garantías de Pagos autorizados en la presente Ley.
+Para efectos de cumplir con sus obligaciones al amparo del presente Decreto y celebrar los actos autorizados en el mismo, se autoriza al Poder Ejecutivo del Estado para que, en nombre del Estado de Campeche, constituya y, en su caso, modifique el o los mecanismos de contratación, administración, fuente de pago y/o garantía, celebrar mandatos y/o cualquier otro acto jurídico análogo, que considere necesarios para cumplir con sus obligaciones e instrumentar las operaciones autorizadas en la presente Ley; incluyendo fideicomisos, a los que podrá afectar los derechos e ingresos establecidos en el Artículo 10 de la presente Ley, como fuente de pago y/o de garantía del financiamiento y de las Garantías de Pago autorizados en la presente Ley.
 
-En caso que el Gobierno del Estado de Campeche instrumente los mecanismos de contratación, administración, fuente de pago y/o de garantía previos en el presente Artículo, mediante fideicomisos, éstos no serán considerados en ningún caso como fideicomisos públicos, ni parte de la administración pública paraestatal, en el entendido que su supervisión y control estarán sujetos a lo dispuesto en las disposiciones legales aplicables. Asimismo, dichos fideicomisos serán irrevocables y, por lo tanto, sólo podrán ser terminados de conformidad con lo que expresamente se pacte en él o los mismos.
+En caso que el Poder Ejecutivo del Estado de Campeche instrumente los mecanismos de contratación, administración, fuente de pago y/o de garantía previstos en el presente artículo, a través de fideicomisos, éstos no serán considerados en ningún caso parte de la administración pública paraestatal, en el entendido que su supervisión y control estarán sujetos a lo dispuesto en las disposiciones legales aplicables. Asimismo, dichos fideicomisos serán irrevocables y, por lo tanto, sólo podrán ser terminados de conformidad con lo que expresamente se pacte en él o los mismos.
 
-El o los mecanismos de contratación, administración, fuente de pago y/o de garantía que constituya y/o modifique el Gobierno del Estado de Campeche conforme al presente Artículo, serán el o los únicos medios de pago del financiamiento y de las Garantías de Pago, por lo que los recursos que constituyan su patrimonio, serán la única y exclusiva fuente de pago y/o de garantía de dicho financiamiento y, en su caso de las Garantías de Pago.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 10.
 
-Se autoriza al Gobierno del Estado de Campeche para afectar, como fuente de pago y/o de garantía primaria de las obligaciones derivadas del o de los financiamientos y de las Garantías de Pagos autorizados en la presente Ley, el porcentaje necesario y suficiente de los derechos al cobro y/o de los flujos derivados de las Participaciones y/o de remanentes de Participaciones que le correspondan el Gobierno del Estado de Campeche conforme a la legislación aplicable.
+Se autoriza al Poder Ejecutivo del Estado de Campeche para afectar, como fuente de pago y/o de garantía de las obligaciones derivadas del o los financiamientos y de las Garantías de Pago autorizados en la presente Ley, el porcentaje necesario y suficiente de los derechos al cobro y/o de los flujos derivados de las Participaciones y/o de remanentes de Participaciones que le correspondan al Estado de Campeche conforme a la legislación aplicable.
 
 El Gobierno del Estado de Campeche deberá realizar las afectaciones antes referidas de manera irrevocable y hasta por el plazo suficiente y necesario para liquidar totalmente las obligaciones al amparo del financiamiento y de las Garantías de Pago autorizadas en la presente Ley.
 
@@ -251,9 +265,9 @@ Se derogan las disposiciones que establezcan que los ingresos que obtengan las d
 
 TERCERO.- Hasta en tanto entre en pleno funcionamiento el Servicio de Administración Fiscal del Estado de Campeche, las funciones inherentes a este nuevo órgano desconcentrado seguirán ejerciéndose por las actuales autoridades administrativas y fiscales de la Secretaría de Finanzas.
 
-CUARTO.- De conformidad con el “Decreto por el que se reforman, adicionan, derogan y abrogan diversas disposiciones de la Ley de Coordinación Fiscal, de la Ley del Impuesto Sobre Tenencia o Uso de Vehículos y de la Ley del Impuesto Especial Sobre Producción y Servicios”, publicado en el Diario Oficial de la Federación del 21 de diciembre de 2007, que en su Artículo Tercero abroga la Ley del Impuesto Sobre Tenencia o Uso de Vehículos, publicada en el Diario Oficial de la Federación el 30 de diciembre de 1980 y, que este mismo Artículo Tercero del precitado Decreto entrara en vigor el 1 de enero de 2012. En consecuencia, las obligaciones derivadas de la mencionada Ley de Impuesto sobre Tenencia o Uso de Vehículos que se abroga según el mencionado Decreto, que hubieran nacido durante su vigencia por la realización de las situaciones jurídicas previstas en dichos ordenamientos, deberán ser cumplidas en las formas y plazos establecidos en los mismos y en las demás disposiciones aplicables, así como a lo dispuesto por los Artículos 6 y 146 del Código Fiscal de la Federación, respecto a las facultades delegadas al Estado en el Convenio de Colaboración Administrativa en Materia Fiscal Federal.
+CUARTO.- De conformidad con el "Decreto por el que se reforman, adicionan, derogan y abrogan diversas disposiciones de la Ley de Coordinación Fiscal, de la Ley del Impuesto Sobre Tenencia o Uso de Vehículos y de la Ley del Impuesto Especial Sobre Producción y Servicios", publicado en el Diario Oficial de la Federación del 21 de diciembre de 2007, que en su Artículo Tercero abroga la Ley del Impuesto Sobre Tenencia o Uso de Vehículos, publicada en el Diario Oficial de la Federación el 30 de diciembre de 1980 y, que este mismo Artículo Tercero del precitado Decreto entrara en vigor el 1 de enero de 2012. En consecuencia, las obligaciones derivadas de la mencionada Ley de Impuesto sobre Tenencia o Uso de Vehículos que se abroga según el mencionado Decreto, que hubieran nacido durante su vigencia por la realización de las situaciones jurídicas previstas en dichos ordenamientos, deberán ser cumplidas en las formas y plazos establecidos en los mismos y en las demás disposiciones aplicables, así como a lo dispuesto por los Artículos 6 y 146 del Código Fiscal de la Federación, respecto a las facultades delegadas al Estado en el Convenio de Colaboración Administrativa en Materia Fiscal Federal.
 
-De conformidad con el Decreto número 4 publicado en el Periódico Oficial de Estado el día 20 de noviembre de 2015, la determinación de los pagos del Impuesto Sobre Tenencia o Uso de Vehículos de carácter estatal, correspondiente a ejercicios fiscales de 2015 y anteriores se realizarán conforme a las disposiciones jurídicas vigentes en el ejercicio fiscal correspondiente en tal sentido las obligaciones derivadas de este impuesto abrogado que hubieran nacido durante su vigencia por la realización de las situaciones jurídicas previstas en la Ley de Hacienda del Estado de Campeche, deberán ser cumplidas en las formas y plazos establecidos en la misma y en las demás disposiciones jurídicas aplicables y que se encuentra señalado en esta Ley en su artículo 1, fracción 1.9 “Impuestos no comprendidos en las fracciones anteriores de la Ley de Ingresos causados en ejercicios fiscales anteriores pendientes de liquidación o pago”.
+De conformidad con el Decreto número 4 publicado en el Periódico Oficial de Estado el día 20 de noviembre de 2015, la determinación de los pagos del Impuesto Sobre Tenencia o Uso de Vehículos de carácter estatal, correspondiente a ejercicios fiscales de 2015 y anteriores se realizarán conforme a las disposiciones jurídicas vigentes en el ejercicio fiscal correspondiente en tal sentido las obligaciones derivadas de este impuesto abrogado que hubieran nacido durante su vigencia por la realización de las situaciones jurídicas previstas en la Ley de Hacienda del Estado de Campeche, deberán ser cumplidas en las formas y plazos establecidos en la misma y en las demás disposiciones jurídicas aplicables y que se encuentra señalado en esta Ley en su artículo 1, fracción 1.9 "Impuestos no comprendidos en las fracciones anteriores de la Ley de Ingresos causados en ejercicios fiscales anteriores pendientes de liquidación o pago".
 
 QUINTO.- Los contribuyentes que tributen conforme a los regímenes que administra el Estado de Campeche con base en el Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus Anexos, así como los contribuyentes de impuestos estatales que declaren en ceros, deberán presentar sus declaraciones exclusivamente en medios electrónicos a través de la página: www.finanzas.campeche.gob.mx
 
@@ -271,6 +285,10 @@ Del mismo modo para el Fondo de Aportaciones para la Seguridad Pública, se pres
 
 DÉCIMO.- El Gasto Etiquetado comprendido en los rubros de Seguro Popular y de las Instituciones Educativas que se ejercen a través de los convenios respectivos, se presenta en montos estimados debido a que en el Decreto de Presupuesto de Egresos de la Federación no se encuentran los montos desagregados.
 
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+UNDÉCIMO. Para dotarlo de plena validez y certeza jurídica el presente Decreto cumple con lo dispuesto en la fracción VIII, del artículo 117, de la Constitución Política de los Estados Unidos Mexicanos, el artículo 23 de la Ley de Disciplina Financiera de las Entidades Federativas y de los Municipios; con el inciso f), de la fracción II, del artículo 25 del Registro Público Único de Financiamientos y Obligaciones de Entidades Federativas y Municipios; con el artículo 9 de la Ley de Obligaciones, Financiamientos y Deuda Pública del Estado de Campeche y sus Municipios, así como con el voto de las dos terceras partes de los miembros presentes de la Legislatura Local.
+
 Dado en el Salón de Sesiones del Palacio Legislativo, en la ciudad de San Francisco de Campeche, Campeche, a los ocho días del mes de diciembre del año dos mil dieciséis.
 
 C. Juan Carlos Damián Vera, Diputado Presidente.- C. Leticia del Rosario Enríquez Cachón, Diputada Secretaria.- C. Sandra Guadalupe Sánchez Díaz, Diputada Secretaria.- Rúbricas.
@@ -285,4 +303,20 @@ EL GOBERNADOR DEL ESTADO DE CAMPECHE, LIC. RAFAEL ALEJANDRO MORENO CÁRDENAS.- E
 
 > <small>[N. DE E. VÉASE ANEXO 1 EN EL P.O. DE 22 DE DICIEMBRE DE 2016, PÁGINAS DE LA 58 A LA 62.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS AL ANEXO 1 EN EL P.O. 29 DE JUNIO DE 2017, PÁGINAS 3 A LA 17.]</small>
+
 > <small>[N. DE E. VÉASE ANEXO 2 EN EL P.O. DE 22 DE DICIEMBRE DE 2016, PÁGINAS DE LA 63 A LA 148.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 175 POR EL QUE “SE REFORMAN EL ARTÍCULO 1, RUBROS: CONCEPTO Y TOTAL, APARTADO 0 Y 0.1; EL ARTÍCULO 6; EL ARTÍCULO 8; ARTÍCULO 9; EL PRIMER PÁRRAFO DEL ARTÍCULO 10 Y EL PROGRAMA FINANCIERO ESTATAL CONTENIDO EN EL ANEXO 1, EN SU TOTALIDAD”; Y “SE ADICIONAN UN ARTÍCULO 5-BIS Y UN ARTÍCULO UNDÉCIMO TRANSITORIO AL DECRETO NO. 102 DE LA LXII LEGISLATURA DEL H. CONGRESO DEL ESTADO DE CAMPECHE, MEDIANTE EL CUAL SE EXPIDIÓ LA LEY DE INGRESOS DEL ESTADO DE CAMPECHE PARA EL EJERCICIO FISCAL 2017, EN LA QUE, A SU VEZ, SE AUTORIZÓ LA CONTRATACIÓN DE DEUDA PÚBLICA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE CAMPECHE EL DÍA 22 DE DICIEMBRE DE 2016.”]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deberá incluir anualmente en el presupuesto de egresos de cada ejercicio fiscal, en tanto existan obligaciones pendientes de pago asociadas al financiamiento que se formalice con base a las modificaciones realizadas a la Ley de Ingresos del Estado de Campeche para el Ejercicio Fiscal 2017 al amparo del presente decreto, el monto para el servicio de la deuda y sus accesorios, bajo los términos contratados, hasta la total liquidación.
+
+TERCERO. El Ejecutivo del Estado deberá realizar las adecuaciones necesarias al Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2017 relacionadas con las modificaciones autorizadas a la contratación de Deuda Pública contenidas en el presente decreto y someterlo a aprobación del H. Congreso local.
+
+CUARTO. Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
