@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-medios-de-impugnacion-en-materia-electoral-y-de-64673"
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-16"
-last_updated: "2017-03-19"
+last_updated: "2017-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 16 de noviembre de 2008.
 
@@ -645,7 +645,9 @@ ARTÍCULO 41
 
 l. Los partidos políticos o coaliciones con interés legítimo;
 
-II. Los candidatos, exclusivamente cuando por motivos de inelegibilidad la autoridad electoral correspondiente decida no otorgarles la constancia de mayoría. En todos los demás casos, sólo podrán intervenir como coadyuvantes;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
+
+II. Los candidatos, para impugnar irregularidades que consideren que hayan afectado la validez de la elección en la que participaron; así como cuando por motivos de inelegibilidad, la autoridad electoral correspondiente decida no otorgarles la constancia de mayoría.
 
 III Las organizaciones o agrupaciones políticas o de ciudadanos; a través de sus representantes legítimos, de conformidad con los estatutos respectivos o en los términos de la legislación aplicable;
 
@@ -853,9 +855,11 @@ ARTÍCULO 58
 
 1. En los casos previstos por las fracciones I a la III del párrafo 1 del artículo anterior, los ciudadanos agraviados deberán agotar previamente la instancia administrativa que establezca la ley. En estos supuestos, las autoridades responsables les proporcionarán orientación y pondrán a su disposición los formatos que sean necesarios para la presentación de la demanda respectiva.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+
 ARTÍCULO 59
 
-I. Cuando por causa de inelegibilidad de los candidatos, las autoridades electorales competentes determinen no otorgar o revocar la constancia de mayoría o de asignación respectiva, el candidato agraviado solo podrá impugnar dichos actos o resoluciones a través del Juicio Electoral.
+1. Cuando el candidato agraviado pretenda impugnar irregularidades que considere que afectaron la validez de la elección en la que hubiere participado, o bien, cuando por causa de inelegibilidad, las autoridades electorales competentes determinen no otorgar, o en su caso, revocar la constancia de mayoría o de asignación respectiva, el candidato sólo podrá impugnar dichos actos o resoluciones, a través del Juicio Electoral.
 
 ARTÍCULO 60
 
@@ -1048,3 +1052,11 @@ SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado po
 TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 29 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 172.- POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales, en lo que se opongan a la presente iniciativa de decreto.
