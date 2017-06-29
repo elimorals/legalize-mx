@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-reguladora-de-energia-121174"
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-04-28"
-last_updated: "2017-04-28"
+last_updated: "2017-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121174&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2017-04-12"
 
 REGLAMENTO INTERNO DE LA COMISIÓN REGULADORA DE ENERGÍA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE JUNIO DE 2017.
 
 Reglamento publicado en la Segunda Sección al Número 20 del Diario Oficial de la Federación, el viernes 28 de abril de 2017.
 
@@ -197,7 +197,9 @@ II. Reprogramar los asuntos pendientes.
 
 Corresponde al Órgano de Gobierno el ejercicio de las atribuciones que la Ley, la Ley de Hidrocarburos, la Ley de la Industria Eléctrica, la Ley de Transición Energética, la Ley General de Cambio Climático, los reglamentos respectivos y las demás disposiciones jurídicas le confieren a la Comisión.
 
-El Órgano de Gobierno ejercerá de manera exclusiva las siguientes atribuciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE JUNIO DE 2017)</small>
+
+El Órgano de Gobierno ejercerá las siguientes atribuciones:
 
 I. Aprobar, emitir y modificar las disposiciones administrativas de carácter general o de carácter interno, resoluciones, acuerdos, directivas, bases y en general la regulación necesaria para el cumplimiento de sus atribuciones, con base en la normatividad aplicable;
 
@@ -281,9 +283,15 @@ XL. Acordar la corrección de erratas en los acuerdos y resoluciones que éste e
 
 XLI. Resolver sobre las aclaraciones de las resoluciones o acuerdos que le sean presentadas;
 
-XLII. En ausencia definitiva del Presidente, las previstas en los artículos 23, fracciones I, II, VI, VII, VIII, IX, XI y XII de la Ley y 23, fracciones VI, VII, IX, XII, XIV, XV, XVIII, XIX y XXI de este Reglamento, sin perjuicio de lo dispuesto en el artículo 7 de la Ley, y
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2017)</small>
 
-XLIII. Las demás que sean necesarias para el ejercicio de sus funciones o que le confieran las disposiciones legales y administrativas que resulten aplicables.
+XLII. En ausencia definitiva del Presidente, las previstas en los artículos 23, fracciones I, II, VI, VII, VIII, IX, XI y XII de la Ley y 23, fracciones VI, VII, IX, XII, XIV, XV, XVIII, XIX y XXI de este Reglamento, sin perjuicio de lo dispuesto en el artículo 7 de la Ley;
+
+> <small>(ADICIONADA, D.O.F. 29 DE JUNIO DE 2017)</small>
+
+XLIII. Delegar en servidores públicos de la Comisión cualesquiera de sus facultades, excepto aquellas que por disposición de ley o por su propia naturaleza deban ser ejercidas directamente por el Órgano de Gobierno, y
+
+XLIV. Las demás que sean necesarias para el ejercicio de sus funciones o que le confieran las disposiciones legales y administrativas que resulten aplicables.
 
 ###### Artículo 19.
 
@@ -791,9 +799,11 @@ XXX. Las demás atribuciones que le encomienden el Órgano de Gobierno o el Pres
 
 ### CAPÍTULO X. Del Jefe de la Unidad de Gas Natural
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE JUNIO DE 2017)</small>
+
 ###### Artículo 33.
 
-El Jefe de la Unidad de Gas Natural tendrá las atribuciones siguientes en materia de Gas Natural y Petróleo:
+El Jefe de la Unidad de Gas Natural tendrá las atribuciones siguientes en materia de Gas Natural, Petróleo, condensados, líquidos del Gas Natural e hidratos de metano:
 
 I. Proponer el marco regulatorio y su actualización en materia de las actividades de transporte, almacenamiento, distribución, sistemas integrados, compresión, descompresión, licuefacción, regasificación, comercialización, venta de primera mano y expendio al público, en coordinación con la Unidad de Asuntos Jurídicos;
 
@@ -1216,3 +1226,11 @@ DÉCIMO PRIMERO.- Los Servidores Públicos que, por virtud de la reestructuraci�
 Ciudad de México, a 12 de abril de 2017.- El Presidente, Guillermo Ignacio García Alcocer.- Rúbrica.- Los Comisionados: Marcelino Madrigal Martínez, Luis Guillermo Pineda Bernal, Cecilia Montserrat
 
 Ramiro Ximénez, Jesús Serrano Landeros, Guillermo Zúñiga Martínez.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 29 DE JUNIO DE 2017.
+
+> <small>[N. DE E. SE TRANSCRIBE EL PUNTO DEL “ACUERDO DE LA COMISIÓN REGULADORA DE ENERGÍA QUE MODIFICA EL REGLAMENTO INTERNO DE LA COMISIÓN REGULADORA DE ENERGÍA”, QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+TERCERO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación, el cual entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
