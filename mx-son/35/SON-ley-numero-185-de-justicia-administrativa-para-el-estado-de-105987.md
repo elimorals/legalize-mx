@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-185-de-justicia-administrativa-para-el-estado-de-105
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-04"
-last_updated: "2017-05-11"
+last_updated: "2017-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105987&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "SON"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 29 DE JUNIO DE 2017, 03 DE JULIO DE 2017 Y 10 DE JULIO DE 2017 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE MAYO DE 2017.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 29 DE JUNIO DE 2017.]</small>
 
 Ley publicada en la Sección IV del Boletín Oficial del Estado de Sonora, el jueves 4 de diciembre de 2014.
 
@@ -1381,9 +1381,11 @@ B.O. 11 DE MAYO DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 130 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA".]
 
+> <small>(F. DE E., B.O. 29 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor el día 19 de Julio del año 2017, previa publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -1395,9 +1397,15 @@ Tratándose de los Magistrados de la Sala Especializada, éstos se designarán e
 
 Los procedimientos que se encuentren en trámite, relacionados con las modificaciones a los preceptos legales contemplados en el presente Decreto, se resolverán de conformidad con las disposiciones que les dieron origen.
 
+> <small>(F. DE E., B.O. 29 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO CUARTO.
 
-Previo a la entrada en vigor de la presente ley, el Titular del Ejecutivo Estatal deberá enviar al Congreso del Estado, las propuestas de nombramientos de Magistrados que integren las Salas Especializadas, a más tardar en el periodo ordinario de sesiones inmediato anterior a la entrada en vigor de la Ley General de Responsabilidades Administrativas. Los Magistrados que sean designados entrarán en funciones el diecinueve de julio de dos mil diecisiete.
+El Titular del Ejecutivo Estatal deberá enviar al Congreso del Estado, las propuestas de nombramientos de Magistrados que integren las Salas Especializadas, a más tardar en el periodo ordinario de sesiones inmediato anterior a la entrada en vigor de la Ley General de Responsabilidades Administrativas.
+
+> <small>(F. DE E., B.O. 29 DE JUNIO DE 2017)</small>
+
+Los Magistrados que sean designados en los términos del párrafo anterior, entrarán en funciones jurisdiccionales el diecinueve de julio de dos mil diecisiete. No obstante, al día siguiente de su toma de protesta ante el pleno del Congreso de Estado, entrarán en funciones para efectos administrativos y podrán celebrar reuniones de pleno de dicha naturaleza, con el objeto de llevar a cabo todo tipo de actos necesarios para la entrada en funciones de la Sala Especializada.
 
 ###### ARTÍCULO QUINTO.
 
