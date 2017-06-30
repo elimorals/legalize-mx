@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-instituto-de-servicios-de-salud-del-estado-de-81663"
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-13"
-last_updated: "2017-02-27"
+last_updated: "2017-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81663&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DEL INSTITUTO DE SERVICIOS DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de junio de 2011.
 
@@ -141,7 +141,7 @@ El Instituto establecerá como prioridad en la planeación y ejecución de sus p
 
 El patrimonio del Instituto se integrará con:
 
-l. Los bienes muebles, inmuebles y derechos, que le asignen o transfieran los gobiernos Federal, Estatal y municipales;
+I. Los bienes muebles, inmuebles y derechos, que le asignen o transfieran los gobiernos Federal, Estatal y municipales;
 
 II. Las aportaciones que le realicen los gobiernos Federal, Estatal y municipales;
 
@@ -251,9 +251,9 @@ XII. Analizar y, en su caso, aprobar las políticas, bases y programas generales
 
 XIII. Analizar y, en su caso, aprobar los informes periódicos que rinda el Director General;
 
-XIV Analizar y, en su caso, aprobar la aceptación de herencias, legados, donaciones y demás liberalidades;
+XIV. Analizar y, en su caso, aprobar la aceptación de herencias, legados, donaciones y demás liberalidades;
 
-XV Autorizar la creación de comisiones de apoyo y emitir las bases de su funcionamiento;
+XV. Autorizar la creación de comisiones de apoyo y emitir las bases de su funcionamiento;
 
 XVI. Fijar o proponer, según corresponda, las cuotas de recuperación por los servicios que proporcione el Instituto;
 
@@ -301,7 +301,7 @@ III. Ejecutar los acuerdos y disposiciones de la Junta de Gobierno;
 
 IV. Ejercer los actos de autoridad que derivan de esta Ley, pudiendo delegar esta facultad en otros servidores públicos, por acuerdo de la Junta de Gobierno;
 
-V Presentar a la Junta de Gobierno el proyecto de presupuesto, los estados financieros, los balances anuales y cualquier tipo de informe;
+V. Presentar a la Junta de Gobierno el proyecto de presupuesto, los estados financieros, los balances anuales y cualquier tipo de informe;
 
 VI. Dirigir, administrar y supervisar todos los asuntos competencia del Instituto, con sujeción a las instrucciones de la Junta de Gobierno;
 
@@ -351,17 +351,51 @@ Para el cumplimiento de las funciones del Comisario Público, la Junta de Gobier
 
 ### CAPÍTULO ÚNICO. Disposiciones Generales
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 26.
 
-(DEROGADO, P.O. 18 DE JULIO DE 2016)
+Para la prestación de los servicios de salud, el Instituto se auxiliará, entre otros, de los siguientes hospitales:
+
+I. Centenario Hospital Miguel Hidalgo; y
+
+II. Hospital de Psiquiatría "Dr. Gustavo León Mojica García".
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 27.
 
-(DEROGADO, P.O. 18 DE JULIO DE 2016)
+Los hospitales enunciados en el Artículo anterior serán unidades administrativas del Instituto, dotadas de autonomía de gestión, estarán sujetas a la normatividad administrativa y financiera del Instituto, y orientarán sus acciones bajo las siguientes bases:
+
+I. Proporcionarán servicios médicos a toda persona que lo solicite;
+
+II. La prestación de sus servicios estará regida por un criterio de universalidad, sin distinción de raza, género, clase o condición social;
+
+III. La atención médica que proporcionen deberá ser retribuida mediante cuotas de recuperación que aportarán el usuario o la persona que funja como responsable del mismo ante el hospital, de acuerdo a la investigación socioeconómica que se realice; y
+
+IV. En ningún caso la recuperación de cuotas deberá desvirtuar la función social del hospital de que se trate y, en su caso, se podrá exceptuar del pago a que se refiere la Fracción anterior, sólo en el caso de que se acredite la imposibilidad económica del usuario para hacerlo, o por resolución judicial o administrativa.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 28.
 
-(DEROGADO, P.O. 18 DE JULIO DE 2016)
+Los hospitales enunciados en el Artículo 26 de la Ley tendrán, en el ámbito de su especialidad y competencia, las siguientes atribuciones:
+
+I. Contribuir al desarrollo y ejecución de los programas prioritarios en materia de salud y conforme a las especialidades con que cuenta;
+
+II. Participar en la ejecución de los programas sectoriales de salud, en el ámbito de su competencia;
+
+III. Proporcionar servicios de salud en aspectos preventivos, curativos y de rehabilitación en las especialidades con que cuenta;
+
+IV. Proporcionar consulta externa, atención hospitalaria y servicios de urgencia a la población, en el ámbito de sus especialidades;
+
+V. Administrar los recursos inherentes a la prestación de los servicios correspondientes, de conformidad con las normas, políticas y procedimientos aplicables;
+
+VI. Fomentar la investigación y la formación de recursos humanos en el campo de la salud en coordinación con instituciones públicas y privadas, nacionales e internacionales;
+
+VII. Establecer y mantener congruencia y racionalidad en sus acciones y programas, de acuerdo a las políticas que determine la Secretaría y el Instituto; y
+
+VIII. Las demás que le correspondan conforme a la Ley, le instruya el Director General y le confieran las demás disposiciones aplicables.
 
 ## TÍTULO CUARTO. DISPOSICIONES ADMINISTRATIVAS
 
@@ -532,3 +566,41 @@ A efecto de que el Instituto de Servicios de Salud del Estado de Aguascalientes 
 ###### ARTÍCULO QUINTO.
 
 El Programa "El Médico en Tu Casa" será aplicado en concordancia con las demás disposiciones de atención médica que se establecen en la Ley de Salud del Estado de Aguascalientes así como en los acuerdos y convenios que para el efecto se suscriban.
+
+P.O. 30 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 113.- SE REFORMA LA LEY DEL INSTITUTO DE SALUD DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley del Centenario Hospital Miguel Hidalgo del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado de Aguascalientes en fecha 18 de julio de 2016 en su edición vespertina, mediante el Decreto Número 356, así como su respectivo Reglamento y disposiciones normativas aplicables.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley del Hospital de Psiquiatría "Dr. Gustavo León Mojica García" del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado de Aguascalientes en fecha 18 de julio de 2016 en su edición vespertina, mediante el Decreto Número 357, así como su respectivo Reglamento y disposiciones normativas aplicables.
+
+###### ARTÍCULO CUARTO.
+
+Los recursos humanos, financieros y materiales que se encuentran asignados al Centenario Hospital Miguel Hidalgo y al Hospital de Psiquiatría "Dr. Gustavo León Mojica García" del Estado de Aguascalientes, pasarán a formar parte del Instituto de Servicios de Salud del Estado de Aguascalientes, de conformidad con los acuerdos de transferencia que para tal efecto suscriban las autoridades responsables.
+
+###### ARTÍCULO QUINTO.
+
+Los derechos laborales de los trabajadores de los citados hospitales serán respetados en todos sus términos.
+
+###### ARTÍCULO SEXTO.
+
+El Reglamento interior y los manuales de organización y procedimientos del Instituto de Servicios de Salud del Estado de Aguascalientes, deberán reformarse en relación a la incorporación de los Hospitales a que hace referencia el presente Decreto, dentro (sic) los ciento ochenta días siguientes al inicio de su vigencia.
+
+En tanto se reforman las disposiciones reglamentarias correspondientes, en lo que no se opongan a esta Ley, seguirán aplicándose los ordenamientos reglamentarios y administrativos vigentes a esta fecha.
+
+###### ARTÍCULO SÉPTIMO.
+
+El personal, patrimonio, expedientes, archivos, mobiliario y bienes de los hospitales mencionados, se incorporarán al patrimonio del Instituto de Servicios de Salud del Estado de Aguascalientes y seguirán adscritos, según corresponda, al hospital respectivo.
+
+###### ARTÍCULO OCTAVO.
+
+La transferencia de los recursos humanos, financieros y materiales que se encuentran asignados a los hospitales Centenario Hospital Miguel Hidalgo y Hospital de Psiquiatría "Dr. Gustavo León Mojica García" del Estado de Aguascalientes deberá llevarse a cabo a más tardar el día 31 de diciembre del 2017, pasando a formar parte del Instituto de Servicios de Salud del Estado de Aguascalientes, de conformidad con los acuerdos de transferencia que para tal efecto suscriban el Director General del Instituto y los Directores Titulares de los Hospitales objeto del presente decreto.
