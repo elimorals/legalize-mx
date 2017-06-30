@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-104484"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-15"
-last_updated: "2017-04-28"
+last_updated: "2017-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104484&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2015-01-06"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE JUNIO DE 2017.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 15 de enero de 2015.
 
@@ -2879,6 +2879,10 @@ Los órganos jurisdiccionales que no cuenten con el SISE, quedarán exentos de l
 
 Las Comisiones de Disciplina y de Vigilancia, Información y Evaluación, así como la Visitaduría Judicial, en el ámbito de sus respectivas competencias, vigilarán el debido cumplimiento de lo dispuesto en el presente Capítulo.
 
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2017)</small>
+
 ###### Artículo 212.
 
 Los listados de captura de datos de los asuntos del conocimiento de los órganos jurisdiccionales, con excepción de los que formen parte de los Centros de Justicia Penal, se publicarán para su consulta en Internet.
@@ -3092,6 +3096,28 @@ La Comisión de Administración es competente para interpretar este Título.
 ###### Artículo 247.
 
 La Coordinación de Administración Regional y la Dirección General de Comunicación Social, serán competentes para resolver cualquier aclaración o duda que surja con motivo del contenido de este Título.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 30 DE JUNIO DE 2017)</small>
+
+## TÍTULO SEXTO. PUBLICIDAD DE LOS PROYECTOS DE SENTENCIA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 30 DE JUNIO DE 2017)</small>
+
+###### Artículo 248.
+
+En los proyectos de resolución de amparos indirectos en revisión y de amparos directos de la competencia de los Tribunales Colegiados de Circuito en los que se proponga abordar el estudio de constitucionalidad o convencionalidad de una norma general, y amparos colectivos, con independencia de que el planteamiento respectivo se hubiere formulado en la demanda o se introduzca con posterioridad, se observará lo previsto en el artículo 73, párrafos segundo y tercero de la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos. Salvo cuando los proyectos de que se trate, únicamente propongan la inoperancia de los agravios respectivos.
+
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2017)</small>
+
+###### Artículo 249.
+
+La publicación de los proyectos de resolución, mencionados en el artículo anterior, debe realizarse al difundir la lista con la anticipación de cuando menos tres días hábiles a la fecha señalada para la celebración de la sesión respectiva, sin contar el de la publicación ni el de la sesión.
+
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2017)</small>
+
+###### Artículo 250.
+
+La versión pública del proyecto de resolución de que se trate será generada por el secretario de Tribunal de Circuito que elaboró el proyecto de resolución, quien la remitirá a la secretaría de acuerdos, a efecto de que ésta sin mayor trámite la ingrese al vínculo relativo del SISE."
 
 ## TRANSITORIOS
 
@@ -3472,3 +3498,11 @@ SEXTO. Los asuntos que se relacionen con las atribuciones que se confieren a la 
 SÉPTIMO. La Contraloría del Poder Judicial de la Federación, intervendrá dentro de su ámbito de competencia en el cumplimiento del presente Acuerdo.
 
 OCTAVO. Las secretarías ejecutivas de Administración; y de Finanzas y Servicios Personales deberán formular los manuales específicos de organización y de puestos; y los manuales de procedimientos respectivos dentro de los cuarenta y cinco días hábiles posteriores a la entrada en vigor del presente Acuerdo, y remitirlos para los efectos correspondientes a la Dirección General de Innovación, Planeación y Desarrollo Institucional.
+
+D.O.F. 30 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, RELATIVO A LA PUBLICIDAD DE PROYECTOS DE SENTENCIA TRATÁNDOSE DE RESOLUCIONES SOBRE LA CONSTITUCIONALIDAD O CONVENCIONALIDAD DE UNA NORMA GENERAL Y AMPAROS COLECTIVOS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
