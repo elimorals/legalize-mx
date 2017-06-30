@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interno-de-la-comision-estatal-de-arbitraje-39943"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-04"
-last_updated: "2004-06-04"
+last_updated: "2017-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # REGLAMENTO INTERNO DE LA COMISION ESTATAL DE ARBITRAJE MEDICO DE CAMPECHE
 
-REGLAMENTO INTERNO DE LA COMISION ESTATAL DE ARBITRAJE MEDICO DE CAMPECHE
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISIÓN DE CONCILIACIÓN Y ARBITRAJE MÉDICO DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 30 DE JUNIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL DE ARBITRAJE MÉDICO DE CAMPECHE
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Sección Administrativa del Periódico Oficial del Estado de Campeche, el viernes 4 de junio de 2004.
 
@@ -520,3 +522,15 @@ Segundo.- Se derogan todas las disposiciones administrativas y reglamentarias em
 Tercero.- Las unidades administrativas previstas en este Reglamento iniciarán sus funciones en la fecha que determine el Consejo y conforme lo permitan las previsiones presupuestales de la Comisión.
 
 Por unanimidad de votos, así lo acordó el Consejo de la Comisión Estatal de Arbitraje Médico de Campeche, en sesión celebrada en la Ciudad de Campeche, Municipio y Estado del mismo nombre, el veinticinco de mayo de dos mil cuatro, instruyendo a la Secretaría Técnica parar que proceda a realizar los trámites que sean necesarios para su publicación en el Periódico Oficial del Estado.- Dr. Octavio Arcila Rodríguez, Presidente.- Dr. Jorge Enrique Farfán Boldo, Consejero.- Dra. Doris Marlene Cambranis Díaz, Consejera.- Dr. Roque Durán del Rivero, Consejero.- Dr. David Manuel Valencia Delgado, Consejero.- E.Q. Nidia de la Cruz Segovia Manzano Consejera.- Dra. Rosa del Carmen Ortega Marín, Consejera.- Q.F.B. Nidia de las Mercedes Cárdenas Barrera, Consejera.- L.T.S. María del Rosario Reyes Sánchez, Consejera.- Dr. Gabriel Jesús Méndez Lanz, Consejero.- Dr. Miguel Jesús Queb Coyoc, Consejero.- Licda. Karla Daniela Cuevas Valencia, Secretaría Técnica.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA COMISIÓN DE CONCILIACIÓN Y ARBITRAJE MÉDICO DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO. - El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. - Se abroga el Reglamento Interno de la Comisión Estatal de Arbitraje Médico de Campeche publicado en el Periódico Oficial del Estado el día 04 de junio de 2004.
+
+TERCERO. - Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente Reglamento.
