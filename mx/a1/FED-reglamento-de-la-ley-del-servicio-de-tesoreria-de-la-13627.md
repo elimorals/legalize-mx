@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-del-servicio-de-tesoreria-de-la-13627"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-03-15"
-last_updated: "2012-10-10"
+last_updated: "2017-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13627&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1999-02-22"
 ---
 # REGLAMENTO DE LA LEY DEL SERVICIO DE TESORERIA DE LA FEDERACION
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE TESORERÍA DE LA FEDERACIÓN, PUBLICADO EN EL D.O.F. DE 30 DE JUNIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA LEY DEL SERVICIO DE TESORERÍA DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE JUNIO DE 2017 (ABROGADO).
 
 Reglamento Publicado en la Primera Sección del Diario Oficial de la Federación el lunes 15 de marzo de 1999.
 
@@ -2099,7 +2101,7 @@ Cuando se descubran irregularidades por actos u omisiones que impliquen incumpli
 
 ###### Artículo 222.
 
-Los pliegos preventivos de responsabilidades que se formulen deberán contener, además de lo señalado en las fracciones l a VII del artículo 220, lo siguiente:
+Los pliegos preventivos de responsabilidades que se formulen deberán contener, además de lo señalado en las fracciones I a VII del artículo 220, lo siguiente:
 
 I. Nombre, puesto, tipo de responsabilidad y domicilio particular de los presuntos responsables;
 
@@ -2338,3 +2340,31 @@ NOVENO.- En tanto entran en vigor las reformas y derogaciones a que se refieren 
 Cualquier referencia contenida en el Reglamento Interior de la Secretaría de Hacienda y Crédito Público respecto a las fracciones I, II, IV y VI del artículo 28-B del mismo, se entenderá extensiva a las entidades previstas en este artículo hasta en tanto queden sin efectos.
 
 DÉCIMO.- Los procedimientos de revocación de las autorizaciones para la constitución y operación de sociedades de ahorro y préstamo que se encuentren llevando a cabo, y que hasta la fecha de entrada en vigor de este Decreto estén en curso, serán concluidos de manera definitiva por la Secretaría de Hacienda y Crédito Público, de conformidad con las disposiciones que se encontraban vigentes al momento de iniciarse el procedimiento respectivo.
+
+D.O.F. 30 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA LEY DE TESORERÍA DE LA FEDERACIÓN”.]
+
+Primero. El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga el Reglamento de la Ley del Servicio de Tesorería de la Federación publicado el 15 de marzo de 1999 en el Diario Oficial de la Federación.
+
+Tercero. Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Reglamento.
+
+Cuarto. La Tesorería de la Federación convocará en un plazo de sesenta días hábiles, contado a partir de la entrada en vigor del presente Reglamento, a las dependencias y entidades de la Administración Pública Federal para llevar a cabo su incorporación al Sistema de Cuenta Única de Tesorería de conformidad con lo dispuesto en la Ley y este Reglamento, para efecto de lo cual realizará el análisis y evaluación de las cuentas bancarias de éstas a fin de determinar si es necesario mantenerlas, o bien, si son susceptibles de ser canceladas.
+
+Las dependencias y entidades de la Administración Pública Federal tendrán un plazo de sesenta días hábiles, contado a partir de la fecha de la comunicación que emita la Tesorería de la Federación, para cancelar las cuentas bancarias que así se determine, o bien, para realizar el registro definitivo de las que mantendrán. La Tesorería de la Federación, previa justificación de la dependencia o entidad, podrá ampliar el plazo para cancelar una cuenta bancaria.
+
+Quinto. La Tesorería de la Federación podrá mantener las cuentas bancarias autorizadas o autorizar nuevas para que las dependencias y entidades de la Administración Pública Federal lleven a cabo la administración descentralizada de recursos, en términos del artículo 18, cuarto párrafo de la Ley, en tanto dicha administración se pueda realizar en forma centralizada.
+
+Sexto. El Comité de Continuidad Operativa de Funciones de Tesorería se deberá constituir a más tardar a los treinta días hábiles siguientes a la entrada en vigor del presente Reglamento
+
+Séptimo. Para la operación del sistema de compensación, en un plazo de noventa días naturales siguientes a la entrada en vigor del presente Reglamento, las dependencias y entidades de la Administración Pública Federal que no estén inscritas en el sistema de compensación a que se refiere el artículo 42 de la Ley de Tesorería de la Federación, estarán obligadas a:
+
+I. Inscribirse, y
+
+II. Registrar todos los créditos y adeudos líquidos y exigibles a su favor y a su cargo en términos de lo dispuesto en el artículo 42 de la Ley.
+
+Octavo. Las unidades administrativas que participan en la compensación a que se refiere el artículo 68 del presente Reglamento implementarán las acciones conducentes para establecer el procedimiento transversal a más tardar al año siguiente al de la entrada en vigor del mismo.
+
+Noveno. Los asuntos que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor del presente Reglamento, deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento de su inicio o tramitación.
