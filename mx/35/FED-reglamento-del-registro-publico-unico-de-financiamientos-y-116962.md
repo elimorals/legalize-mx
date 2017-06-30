@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-registro-publico-unico-de-financiamientos-y-1169
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-10-25"
-last_updated: "2016-10-25"
+last_updated: "2017-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116962&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-10-24"
 
 REGLAMENTO DEL REGISTRO PÚBLICO ÚNICO DE FINANCIAMIENTOS Y OBLIGACIONES DE ENTIDADES FEDERATIVAS Y MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE JUNIO DE 2017.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 25 de octubre de 2016.
 
@@ -631,9 +631,13 @@ Las Obligaciones a corto plazo no podrán ser objeto de Refinanciamiento o Reest
 
 #### Sección I. Fuente de Pago
 
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2017)</small>
+
 ###### Artículo 30.
 
-Para la inscripción en el Registro Público Único de Financiamientos u Obligaciones que tengan como Fuente de Pago participaciones federales, además de lo señalado en los artículos 25 o 26 del presente Reglamento, el Solicitante Autorizado de la Entidad Federativa y Municipio deberá establecer en el instrumento jurídico en el que conste el Financiamiento u Obligación, los fondos a afectar, señalando el porcentaje de Afectación de conformidad con la Ley de Coordinación Fiscal, específicamente del Fondo General de Participaciones, del Fondo de Fomento Municipal, o bien, de los recursos a que se refiere el artículo 4o.-A, fracción I de dicho ordenamiento legal y, en su caso, indicar que incluye un fideicomiso maestro, el cual cuenta con una Afectación general para el pago del Financiamientos u Obligaciones.
+Para la inscripción en el Registro Público Único de Financiamientos u Obligaciones que tengan como Fuente de Pago participaciones federales, además de lo señalado en los artículos 25 o 26 del presente Reglamento, el Solicitante Autorizado de la Entidad Federativa y Municipio deberá establecer en el instrumento jurídico en el que conste el Financiamiento u Obligación, los fondos a afectar de conformidad con el artículo 9 de la Ley de Coordinación Fiscal, específicamente del Fondo General de Participaciones, del Fondo de Fomento Municipal, o bien, de los recursos a que se refiere el artículo 4o.-A, fracción I de dicho ordenamiento legal, señalando el porcentaje de Afectación a dichos fondos o recursos y, en su caso, que se realiza a través de un fideicomiso maestro, que contemple una Afectación general para el pago de los Financiamientos u Obligaciones.
+
+En el caso de que la Entidad Federativa o Municipio realice la Afectación a que se refiere el párrafo anterior, a través de un fideicomiso público sin estructura que funja como acreditado en el Financiamiento u Obligación correspondiente, el Solicitante Autorizado deberá presentar, debidamente suscrito por el fiduciario, el secretario de finanzas de la Entidad Federativa y, en su caso, por el tesorero municipal o sus equivalentes, el mandato de dicha Entidad Federativa, actuando en nombre propio o del Municipio, según el caso, para la entrega de las participaciones afectadas en Garantía o Fuente de Pago que correspondan, para efecto de que la Secretaría acepte el mismo. En los reportes que en términos de la Ley deban presentarse respecto de los Financiamientos y Obligaciones a que se refiere este párrafo, éstos serán consolidados con los Financiamientos y Obligaciones de la Entidad Federativa o del Municipio, según el caso.
 
 ###### Artículo 31.
 
@@ -916,3 +920,11 @@ DÉCIMO. La información de tasa de interés, fecha de última modificación en 
 DÉCIMO PRIMERO. Los requisitos y la información relacionados con el Sistema de Alertas a que se refiere el presente Reglamento, serán aplicables a partir de la entrada en vigor del Reglamento del Sistema de Alertas, y en los términos del mismo.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veinticuatro de octubre de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Antonio Meade Kuribreña.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 30 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 30 DEL REGLAMENTO DEL REGISTRO PÚBLICO ÚNICO DE FINANCIAMIENTOS Y OBLIGACIONES DE ENTIDADES FEDERATIVAS Y MUNICIPIOS”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
