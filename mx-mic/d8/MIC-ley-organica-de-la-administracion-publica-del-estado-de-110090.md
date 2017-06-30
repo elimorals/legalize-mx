@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-administracion-publica-del-estado-de-110090"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-09-29"
-last_updated: "2016-11-18"
+last_updated: "2017-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110090&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2017.
 
 Ley publicada en la Décima Sección del Periódico Oficial del Estado de Michoacán, el martes 29 de septiembre de 2015.
 
@@ -187,17 +187,17 @@ V. Secretaría de Desarrollo Económico;
 
 VI. Secretaría de Turismo;
 
-VII. Secretaría de Innovación, Ciencia y Desarrollo Tecnológico;
+VII. (DEROGADA, P.O. 30 DE JUNIO DE 2017)
 
 VIII. Secretaría de Desarrollo Rural y Agroalimentario;
 
 IX. Secretaría de Comunicaciones y Obras Públicas;
 
-X. Secretaría de Medio Ambiente, Recursos Naturales y
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2017)</small>
 
-Cambio Climático;
+X. Secretaría de Medio Ambiente, Cambio Climático y Desarrollo Territorial;
 
-XI. Secretaría de Desarrollo Territorial, Urbano y Movilidad;
+XI. (DEROGADA, P.O. 30 DE JUNIO DE 2017)
 
 XII. Secretaría de Educación;
 
@@ -205,9 +205,11 @@ XIII. Secretaría de Cultura;
 
 XIV. Secretaría de Salud;
 
-XV. Secretaria de Política Social;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2017)</small>
 
-XVI. Secretaría de los Pueblos Indígenas;
+XV. Secretaría de Desarrollo Social y Humano;
+
+XVI. (DEROGADA, P.O. 30 DE JUNIO DE 2017)
 
 XVII. Secretaría del Migrante; y,
 
@@ -241,7 +243,9 @@ IX. Coadyuvar con las autoridades del Gobierno de la República, en la vigilanci
 
 X. Proporcionar asesoría jurídica a los ayuntamientos que lo soliciten;
 
-XI. Representar jurídicamente al Gobernador del Estado;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2017)</small>
+
+XI. Representar jurídicamente al Gobernador del Estado por sí, o a través de la Consejería Jurídica del Ejecutivo del Estado, la cual contará con las atribuciones legales que se establecen en el Decreto de creación correspondiente;
 
 XII. Proporcionar asesoría jurídica a las dependencias y entidades de la Administración Pública Estatal;
 
@@ -299,11 +303,41 @@ XXXVIII. Organizar y operar mecanismos de capacitación para los organismos de p
 
 XXXIX. Intervenir en los asuntos de seguridad interior del Estado;
 
-XL. Proponer al Gobernador del Estado en conjunto con el Secretario de Seguridad Pública, los programas relativos al sistema penitenciario, en materia de reinserción social de las personas sujetas a una pena de prisión;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2017)</small>
 
-XLI. Asegurar la aplicación de la política nacional y estatal de población; y,
+XL. Asegurar la aplicación de la política nacional y estatal de población;
 
-XLII. Las demás que le confieran las normas jurídicas aplicables.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2017)</small>
+
+XLI. Coordinar los asuntos de la Administración Pública Estatal que le sean instruidos por el Gobernador del Estado, así como convocar y coordinar las reuniones de gabinete;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2017)</small>
+
+XLII. Instrumentar y operar el sistema de acceso a la información pública del Ejecutivo;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2017)</small>
+
+XLIII. Proponer al Gobernador del Estado, los programas relativos al Sistema Penitenciario, en materia de reinserción social de las personas sujetas a una pena de prisión;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2017)</small>
+
+XLIV. Coordinar la operación de los programas tendientes a la reinserción social de las personas privadas de su libertad en los Centros Penitenciarios y de Internamiento en el Estado;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2017)</small>
+
+XLV. Dirigir y evaluar los Centros Penitenciarios y de Internamiento en el Estado, observando las normas y políticas relativas al Sistema Penitenciario;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2017)</small>
+
+XLVI. Proponer al Gobernador del Estado la celebración de convenios para la reclusión de procesados y sentenciados del fuero federal e internos del fuero común que requieran medidas especiales de seguridad o de vigilancia, y para que los sentenciados de origen michoacano que se encuentren compurgando penas en países extranjeros, puedan ser trasladados a Centros Penitenciarios situados en el Estado;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2017)</small>
+
+XLVII. Evaluar la profesionalización del personal dedicado a las tareas de reinserción social; y,
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2017)</small>
+
+XLVIII. Las demás que le confieran las normas jurídicas aplicables.
 
 ###### Artículo 19.
 
@@ -313,13 +347,19 @@ I. Dictar las políticas, normas y lineamientos relacionados con el manejo de fo
 
 II. Custodiar los documentos que constituyan valores, acciones y demás derechos que formen parte del patrimonio del Estado;
 
-III. Formular y actualizar el sistema para el ejercicio presupuestal, en coadyuvancia con la Coordinación General de Gabinete y Planeación;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2017)</small>
+
+III. Formular y actualizar el sistema para el ejercicio presupuestal;
 
 IV. Formular en coordinación con las dependencias y entidades de la Administración Pública Estatal, los programas y presupuestos de inversión pública;
 
-V. Administrar, ejecutar y controlar el ejercicio del presupuesto del Gobierno del Estado, con base en los programas para cada una de las dependencias y entidades de la Administración Pública Estatal, de conformidad con el Presupuesto aprobado por el Congreso del Estado y de acuerdo con las políticas, objetivos y lineamientos aprobados en colaboración con la Coordinación General de Gabinete y Planeación;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2017)</small>
 
-VI. Evaluar el ejercicio del gasto público y del Presupuesto de Egresos del Estado, de acuerdo con las leyes de la materia, en coadyuvancia con la Coordinación General de Gabinete y Planeación;
+V. Administrar, ejecutar y controlar el ejercicio del presupuesto del Gobierno del Estado, con base en los programas para cada una de las dependencias y entidades de la Administración Pública Estatal, de conformidad con el Presupuesto aprobado por el Congreso del Estado y de acuerdo con las políticas, objetivos y lineamientos aprobados;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2017)</small>
+
+VI. Evaluar el ejercicio del gasto público y del Presupuesto de Egresos del Estado, de acuerdo con las leyes de la materia;
 
 VII. Emitir los lineamientos que en materia presupuestal y contable deben observar y cumplir las dependencias y entidades de la Administración Pública Estatal y organismos autónomos;
 
@@ -328,8 +368,6 @@ VIII. Mantener el control, registro y seguimiento de la deuda pública del Gobie
 IX. Controlar, supervisar y dar seguimiento a la deuda pública contratada por los gobiernos municipales y sus entidades paramunicipales, cuando éstos cuenten con la responsabilidad solidaria del Gobierno del Estado;
 
 X. Intervenir en todas las operaciones en que el Estado haga uso del crédito público;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2016)</small>
 
@@ -349,7 +387,9 @@ XVII. Participar en el establecimiento de los criterios y montos de los estímul
 
 XVIII. Elaborar el proyecto anual de Ley de Ingresos del Gobierno del Estado para su análisis y aprobación del Congreso del Estado;
 
-XIX. Elaborar en conjunto con la Coordinación General de Gabinete y Planeación, el proyecto anual del Presupuesto de Egresos del Estado para su análisis y aprobación del Congreso del Estado;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2017)</small>
+
+XIX. Elaborar el proyecto anual del Presupuesto de Egresos del Estado para su análisis y aprobación del Congreso del Estado;
 
 XX. Supervisar y coordinar las actividades de las administraciones de rentas y oficinas recaudadoras;
 
@@ -405,9 +445,37 @@ XLV. Administrar los bienes muebles e inmuebles propiedad del Estado;
 
 XLVI. Establecer un departamento de avalúos profesional y acreditado para la adquisición, arrendamiento y enajenación de bienes inmuebles;
 
-XLVII. Establecer y mantener actualizado el registro de bienes muebles e inmuebles propiedad del Estado y asegurar su conservación; y,
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2017)</small>
 
-XLVIII. Las demás que le confieran las normas jurídicas aplicables.
+XLVII. Establecer y mantener actualizado el registro de bienes muebles e inmuebles propiedad del Estado y asegurar su conservación;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2017)</small>
+
+XLVIII. Revisar y registrar el ejercicio del presupuesto del Gobierno del Estado, con base en los programas, para cada una de las dependencias y entidades de la Administración Pública Estatal, de conformidad con las políticas, objetivos y lineamientos establecidos por el Gobernador del Estado;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2017)</small>
+
+XLIX. Revisar el resultado de los proyectos de inversión para la obra y los programas de desarrollo estatal;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2017)</small>
+
+L. Proporcionar a los ayuntamientos cuando lo soliciten, asesoría y apoyo técnico para la elaboración de programas de inversión;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2017)</small>
+
+LI. Apoyar a los ayuntamientos a fin de que fortalezcan su capacidad administrativa y con ello estén en condiciones de que la Federación o el Estado, les transfieran funciones o programas federales o estatales, así como los recursos financieros correspondientes, para que se consolide el proceso de descentralización;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2017)</small>
+
+LII. Integrar el inventario de programas, obras e inversiones que realicen en el Estado, las dependencias y entidades de la Administración Pública Federal y Estatal;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2017)</small>
+
+LIII. Coordinar y administrar las funciones de recolección de datos, almacenamiento, procesamiento y distribución de la información para el gobierno en red, así como la interacción con otros sistemas de información mediante la asesoría a las dependencias y entidades para la realización o contratación de servicios de las tecnologías de la información y comunicaciones, para el debido uso del sistema de gobierno en la red y desarrollo del gobierno digital; y,
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2017)</small>
+
+LIV. Las demás que le confieran las normas jurídicas aplicables.
 
 ###### Artículo 20.
 
@@ -491,31 +559,37 @@ XX. Proveer de equipo y tecnología óptima, en materia de seguridad pública a 
 
 XXI. Operar y coordinar el Sistema de Radiocomunicaciones de Seguridad del Estado;
 
-XXII. Proponer al Gobernador del Estado en conjunto con el Secretario de Gobierno, los programas relativos al sistema penitenciario en materia de reinserción social de las personas sujetas a una pena de prisión;
+XXII. (DEROGADA, P.O. 30 DE JUNIO DE 2017)
 
-XXIII. Ejecutar y evaluar los programas tendientes a la reinserción social de las personas sujetas a una pena de prisión en los centros de reinserción social estatales y municipales;
+XXIII. (DEROGADA, P.O. 30 DE JUNIO DE 2017)
 
-XXIV. Administrar los centros de reinserción social estatales y coordinar la observancia de las normas y políticas relativas a la materia en el ámbitomunicipal (sic);
+XXIV. (DEROGADA, P.O. 30 DE JUNIO DE 2017)
 
-XXV. Proponer al Gobernador del Estado la celebración de convenios, para que los sentenciados por delitos del orden común extingan su condena en los establecimientos dependientes del Ejecutivo Federal, y para que los sentenciados de origen michoacano que se encuentren compurgando penas en países extranjeros, puedan ser trasladados a establecimientos situados en el Estado;
+XXV. (DEROGADA, P.O. 30 DE JUNIO DE 2017)
 
-XXVI. Conocer sobre el otorgamiento o revocación del beneficio de la preliberación, lo relativo a la libertad anticipada y la remisión parcial de la sanción, de acuerdo con la ley de la materia;
+XXVI. (DEROGADA, P.O. 30 DE JUNIO DE 2017)
 
-XXVII. Administrar las instituciones de internamiento para menores infractores y vigilar el establecimiento de instituciones y normas preventivas tutelares de menores infractores;
+XXVII. (DEROGADA, P.O. 30 DE JUNIO DE 2017)
 
-XXVIII. Formular, implementar, desarrollar y evaluar la profesionalización del personal dedicado a las tareas de reinserción social, a través de una rigurosa selección de los aspirantes, de su capacitación de manera sistemática, permanente y continua;
+XXVIII. (DEROGADA, P.O. 30 DE JUNIO DE 2017)
 
-XXIX. Otorgar a los tribunales y autoridades judiciales, el auxilio que soliciten para el debido ejercicio de sus funciones;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2017)</small>
 
-XXX. Coadyuvar con autoridades de la Federación, en la vigilancia y cumplimiento de los acuerdos, leyes y reglamentos en materia de seguridad pública;
+XXIX. Coadyuvar con autoridades de la Federación, en la vigilancia y cumplimiento de los acuerdos, leyes y reglamentos en materia de seguridad pública;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2017)</small>
 
-XXXI. Supervisar los programas de las instituciones del Gobierno del Estado, que tengan como función formar o capacitar elementos de seguridad pública;
+XXX. Supervisar los programas de las instituciones del Gobierno del Estado, que tengan como función formar o capacitar elementos de seguridad pública;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2017)</small>
 
-XXXII. Promover la práctica de la denuncia., la asesoría y el acompañamiento a la víctima en la presentación de la misma; y,
+XXXI. Otorgar a la Autoridad Penitenciaria, tribunales y autoridades judiciales, el auxilio que soliciten para el debido ejercicio de sus funciones; y,
+
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICA A LA FRACCIÓN XXXIII]</small>
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2017)</small>
+
+XXXII. Las demás que le confieran las normas jurídicas aplicables.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 18 DE NOVIEMBRE DE 2016)</small>
 
@@ -539,9 +613,9 @@ VI. Impulsar y promover el fortalecimiento del mercado interno, el comercio a co
 
 VII. Coadyuvar, con las dependencias correspondientes, en el aprovechamiento y preservación racional y sustentable de los recursos naturales y culturales en las actividades productivas del Estado;
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2017)</small>
 
-VIII. En coordinación con la Secretaría de Medio Ambiente, Recursos Naturales y Cambio Climático, impulsar y desarrollar en el ámbito de su competencia, energías limpias y alternas y su aplicación en la cadena productiva.
+VIII. En coordinación con la Secretaría de Medio Ambiente, Cambio Climático y Desarrollo Territorial, impulsar y desarrollar en el ámbito de su competencia, energías limpias y alternas y su aplicación en la cadena productiva;
 
 IX. Participar en la elaboración del Programa de Obra Pública del Estado, con propuestas y observaciones sobre infraestructura pública que detone, conserve o fortalezca la inversión privada productiva;
 
@@ -553,7 +627,9 @@ XII. Asesorar técnicamente a los emprendedores para garantizar la viabilidad de
 
 XIII. Divulgar la existencia, utilización y beneficios de tecnologías aplicadas a procesos productivos; fomentar la generación y promoción de proyectos, así como los servicios y asistencia técnica y de capacitación para el desarrollo de empresas;
 
-XIV. En coordinación con la Secretaría de Innovación, Ciencia y Desarrollo Tecnológico, orientar y estimular a empresarios y emprendedores conforme a la legislación aplicable en materia de propiedad intelectual e industrial;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2017)</small>
+
+XIV. Orientar y estimular a empresarios y emprendedores conforme a la legislación aplicable en materia de propiedad intelectual e industrial;
 
 XV. Realizar y coordinar los estudios e investigaciones para el desarrollo de la actividad económica del Estado y mantener actualizada la información estadística estatal, relativa a las actividades proactivas del Estado, coordinadamente con las dependencias federales, estatales y municipales que corresponda, emitiendo los datos, documentos o informes que sean necesarios para la integración y actualización de los sistemas de información y estadística;
 
@@ -597,11 +673,21 @@ XXXIV. Fomentar la creación y desarrollo de empresas turísticas en coordinaci�
 
 XXXV. Organizar y coordinar el Servicio Nacional del Empleo en el Estado;
 
-XXXVI. Evaluar conjuntamente con la Secretaría de Política Social, los programas de desarrollo económico y social del Estado, y vigilar que sean integrales y armónicos, para que beneficien en forma equitativa a las diferentes localidades, regiones y a los distintos sectores de la población, revisando periódicamente los resultados obtenidos;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2017)</small>
 
-XXXVII. Impulsar la protección de los productos endógenos, con fama ganada por medio de las marcas, marcas colectivas, denominaciones de origen e indicaciones geográficas, y coadyuvar con la Secretaría de Innovación, Ciencia y Desarrollo Tecnológico en los temas de propiedad intelectual e industrial; y,
+XXXVI. Evaluar conjuntamente con la Secretaría de Desarrollo Social y Humano, los programas de desarrollo económico y social del Estado, y vigilar que sean integrales y armónicos, para que beneficien en forma equitativa a las diferentes localidades, regiones y a los distintos sectores de la población, revisando periódicamente los resultados obtenidos;
 
-XXXVIII. Las demás que le confieran las normas jurídicas aplicables.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2017)</small>
+
+XXXVII. Impulsar la protección de los productos endógenos, con fama ganada por medio de las marcas, marcas colectivas, denominaciones de origen e indicaciones geográficas;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2017)</small>
+
+XXXVIII. Diseñar, aplicar y evaluar la política de innovación, investigación científica y tecnológica del Estado, en coordinación con la Federación y los municipios, así como las instituciones de educación superior y tecnológica en el Estado; la ejecución de esta política se realizará a través del organismo estatal competente en la materia; y,
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2017)</small>
+
+XXXIX. Las demás que le confieran las normas jurídicas aplicables.
 
 ###### Artículo 23.
 
@@ -643,73 +729,7 @@ XVII. Las demás que le confieran las normas jurídicas aplicables.
 
 ###### Artículo 24.
 
-A la Secretaría de Innovación, Ciencia y Desarrollo Tecnológico, le corresponde el ejercicio de las atribuciones siguientes:
-
-I. Diseñar y ejecutar el Programa de Innovación, Ciencia y Tecnología de acuerdo con el Plan de Desarrollo Integral del Estado de Michoacán;
-
-II. Diseñar, aplicar y evaluar la política de innovación, investigación científica y tecnológica del Estado, en coordinación con la Federación y los municipios, así como las instituciones de educación superior y tecnológica en el Estado;
-
-III. Participar en la planeación, instrumentación, ejecución, seguimiento, evaluación y difusión de las políticas y estrategias en materia de ciencia, tecnología e innovación, y su vinculación con el desarrollo estatal, formulando las propuestas de corto, mediano y largo plazo, para la presupuestación y financiamiento de los programas correspondientes;
-
-IV. Coordinar la participación de las instituciones de los sectores público, social y privado en la ejecución de las políticas, acciones en áreas estratégicas y programas prioritarios de desarrollo científico tecnológico y de innovación en el Estado;
-
-V. Impulsar y emprender las incubadoras de empresas en las instituciones académicas y en las organizaciones sociales del Estado;
-
-VI. Administrar la información científica y tecnológica, de recursos humanos, materiales, organizativos y financieros en coordinación con los programas federales, destinados a la investigación científica y al desarrollo tecnológico del Estado, remitiendo los datos, documentos o informes que sean necesarios para la integración y actualización de los sistemas de información y estadística;
-
-VII. Participar en la planeación, programación, coordinación, orientación, sistematización, promoción, difusión e impulso de las actividades relacionadas con la ciencia, la tecnología y la innovación del sector productivo, en particular de las micro, pequeñas y medianas empresas;
-
-VIII. Apoyar los procesos de protección y regulación de la propiedad intelectual y de transferencia de tecnología de las instituciones de educación superior y tecnológica al sector productivo en el Estado;
-
-IX. Garantizar la vinculación con las instituciones de los sectores, público, privado y social para que la investigación científica, tecnológica y la innovación contribuyan a la promoción del desarrollo, la competitividad económica, la transformación del sistema educativo, la generación y apropiación del conocimiento y la promoción de la cultura científica de la sociedad;
-
-X. Celebrar convenios con instituciones u organismos nacionales y extranjeros, para el cumplimiento de sus fines;
-
-XI. Financiar y apoyar por medio de los fondos o fideicomisos, la investigación científica, humanística y tecnológica en el Estado, mediante el estímulo a programas, proyectos, acciones y actividades que respondan a necesidades de la sociedad;
-
-XII. Promover, impulsar y canalizar la inversión pública y privada, nacional y extranjera, en ciencia, tecnología e innovación del sector productivo, para garantizar el desarrollo sustentable del Estado y la creación de nuevas empresas;
-
-XIII. Elaborar y difundir diagnósticos estatales sobre necesidades, problemas y alternativas de solución en materia de ciencia, tecnología e innovación del sector productivo;
-
-XIV. Asesorar y orientar a los centros de investigación y las instituciones de educación superior y tecnológica en la elaboración de programas, intercambio de profesores e investigadores, formación de recursos humanos especializados, información y servicios de apoyo;
-
-XV. Orientar a empresarios y emprendedores conforme a la legislación aplicable, en materia de propiedad intelectual e industrial;
-
-XVI. Identificar, considerar y preservar los conocimientos tradicionales de los pueblos y grupos étnicos en el Estado, así como coadyuvar con las instituciones responsables para el respeto de sus derechos, en términos de las leyes aplicables;
-
-XVII. Gestionar ante las autoridades competentes, la expedita internación al país de investigadores y profesores extranjeros invitados al mismo, para realizar investigación en el Estado;
-
-XVIII. Promover, apoyar, gestionar y coordinar el desarrollo científico y tecnológico en el Estado, a través de los programas federales en la materia;
-
-XIX. Coadyuvar para que los investigadores científicos, tecnológicos y de innovación en el Estado, cuenten con condiciones idóneas para el desarrollo de sus trabajos y proyectos, así como reconocer y estimular sus méritos;
-
-XX. Vincular la política de innovación, investigación científica y tecnológica con la Universidad Michoacana de San Nicolás de Hidalgo, universidades, Institutos Tecnológicos y Centros de Investigación públicos y privados en el Estado;
-
-XXI. Promover, apoyar y gestionar una coordinación integral entre las instituciones de investigación y enseñanza superior y tecnológica, el Estado y los usuarios de la investigación;
-
-XXII. Promover, gestionar y coadyuvar el intercambio de profesores, investigadores y técnicos nacionales y extranjeros, y otorgamiento de becas para el desarrollo de investigación científica, tecnológica e innovación en áreas estratégicas para el Estado;
-
-XXIII. Coadyuvar y promover la capacitación, especialización y actualización de conocimientos en ciencia, tecnología e innovación;
-
-XXIV. Promover las publicaciones científicas y tecnológicas, así como la difusión de los trabajos y proyectos de investigadores estatales;
-
-XXV. Promover la creación y operación de Institutos y Centros de Investigación, laboratorios y empresas de base científica, tecnológica y de innovación;
-
-XXVI. Vigilar y coadyuvar en la prestación de los servicios de educación superior y tecnológica a cargo del Estado, sin perjuicio de la competencia concurrente con otras instituciones educativas estatales con autonomía;
-
-XXVII. Coadyuvar con la Secretaría de Educación, en la prestación de los servicios de educación tecnológica a cargo de los particulares conforme a la ley, sin perjuicio de la competencia concurrente con otras instituciones educativas estatales con autonomía;
-
-XXVIII. Generar la política pública para proteger las innovaciones y el patrimonio intelectual e industrial;
-
-XXIX. Proponer iniciativas para estímulos fiscales, financiamiento y promoción de la ciencia, la tecnología y la innovación, así como en materia administrativa e industrial, en los términos de las leyes aplicables;
-
-XXX. Impulsar, a través de las instituciones de educación en el Estado, un Programa Estatal de promoción del talento científico en niños y jóvenes;
-
-XXXI. Fomentar y fortalecer la investigación básica, aplicada y tecnológica, promoviendo la realización del Congreso Anual de Ciencia, Tecnología e Innovación;
-
-XXXII. Diseñar, aprobar e implementar, un sistema de información que permita identificar plenamente los recursos que el Gobierno del Estado destina para la investigación científica, el desarrollo tecnológico y la innovación;
-
-XXXIII. Las demás que le confieran las disposiciones legales.
+(DEROGADO, P.O. 30 DE JUNIO DE 2017)
 
 ###### Artículo 25.
 
@@ -777,9 +797,9 @@ VIII. Definir, conservar, supervisar, promover y desarrollar las vías estatales
 
 IX. Construir y conservar en buen estado las carreteras, caminos vecinales, aeropistas y demás vías de jurisdicción estatal;
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2017)</small>
 
-X. En coordinación con la Secretaría de Medio Ambiente, Recursos Naturales y Cambio Climático, auxiliar a las autoridades municipales en la elaboración de estudios y proyectos, así como en la operación y organización administrativa de los sistemas de agua potable, alcantarillado y saneamiento, procurando la autosuficiencia técnica y financiera de los mismos;
+X. En coordinación con la Secretaría de Medio Ambiente, Cambio Climático y Desarrollo Territorial, auxiliar a las autoridades municipales en la elaboración de estudios y proyectos, así como en la operación y organización administrativa de los sistemas de agua potable, alcantarillado y saneamiento, procurando la autosuficiencia técnica y financiera de los mismos;
 
 XI. Coadyuvar con la Secretaría de Cultura, en la conservación del patrimonio histórico y cultural, en coordinación con las autoridades federales, estatales y municipales;
 
@@ -789,25 +809,35 @@ XIII. Formular y proponer al Gobernador del Estado, la celebración de convenios
 
 XIV. En coordinación con la Secretaría de Desarrollo Rural y Agroalimentario, programar y promover la construcción y realización de obras públicas de pequeña irrigación, bordos, canales, tajos, abrevaderos y jagüeyes que competa ejecutar al Gobierno Estatal, o en cooperación con la Federación, los municipios y con los particulares;
 
-XV. Proyectar y construir en coadyuvancia con la Secretaría de Turismo los centros vacacionales y recreativos del Gobierno del Estado; y,
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2017)</small>
 
-XVI. Las demás que le confieran las normas jurídicas aplicables.
+XV. Proyectar y construir en coadyuvancia con la Secretaría de Turismo los centros vacacionales y recreativos del Gobierno del Estado;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2017)</small>
+
+XVI. Ejecutar los programas de infraestructura educativa para la construcción de espacios educativos en el Estado, en los niveles básico, medio superior y medio terminal; y,
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2017)</small>
+
+XVII. Las demás que le confieran las normas jurídicas aplicables.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2017)</small>
 
 ###### Artículo 27.
 
-A la Secretaría de Medio Ambiente, Recursos Naturales y Cambio Climático, le corresponde el ejercicio de las atribuciones siguientes:
+A la Secretaría de Medio Ambiente, Cambio Climático y Desarrollo Territorial, le corresponde el ejercicio de las atribuciones siguientes:
 
-I. Proteger el ambiente; fomentar la protección, restauración y conservación de los ecosistemas, de los recursos naturales y de los bienes y servicios ambientales en la entidad; prevenir y gestionar los residuos de manejo especial y coordinar las acciones de mitigación y adaptación en materia de cambio climático;
+I. Aplicar y vigilar el cumplimiento del marco normativo estatal y federal en materia de medio ambiente, desarrollo territorial, urbano y movilidad;
 
-II. Elaborar, ejecutar, revisar y difundir los planes y programas estatales de protección al ambiente, recursos naturales, cambio climático, residuos y demás instrumentos relacionados en el marco del Plan de Desarrollo Integral del Estado de Michoacán;
+II. Elaborar, ejecutar, revisar y difundir los planes y programas estatales de protección al medio ambiente, desarrollo urbano y ordenamiento territorial, transporte en todas sus modalidades, así como la movilidad de las personas en el territorio estatal;
 
-III. Formular y conducir la política estatal en materia ambiental, de recursos naturales, de residuos y de cambio climático, así como en materia forestal y de agua con la participación que corresponda a otras dependencias y entidades, así como aplicar y vigilar el cumplimiento de la legislación aplicable en esas materias;
+III. Formular, conducir, evaluar y difundir las políticas estatales en materia ambiental, de recursos naturales, de residuos y de cambio climático, así como en materia forestal, de agua, desarrollo territorial, urbano y de movilidad con la participación que corresponda a otras dependencias y entidades;
 
-IV. Conservar, preservar, restaurar y proteger los ecosistemas de jurisdicción estatal en las materias que no estén expresamente reservadas a la federación;
+IV. Conservar, preservar, restaurar y proteger los ecosistemas de jurisdicción estatal en las materias que no estén expresamente reservadas a la Federación;
 
-V. Proteger, conservar y fomentar el aprovechamiento sustentable de los recursos naturales, comprendiendo flora, fauna y bosques del Estado, con el objeto de contribuir al desarrollo social, económico y ambiental, mediante el manejo integral y sustentable de los ecosistemas que correspondan a las cuencas hidrológicas forestales de la entidad;
+V. Proteger, conservar y fomentar el aprovechamiento sustentable de los recursos naturales, comprendiendo flora, fauna y bosques del Estado;
 
-VI. Prevenir y controlar la contaminación atmosférica generada por fuentes fijas que funcionen como establecimientos industriales y por fuentes móviles que no sean de competencia de la federación;
+VI. Prevenir y controlar la contaminación atmosférica generada por fuentes fijas que funcionen como establecimientos industriales y por fuentes móviles que no sean competencia de la Federación;
 
 VII. Regular las actividades riesgosas para el ambiente de jurisdicción estatal;
 
@@ -815,7 +845,7 @@ VIII. Elaborar y someter a consideración del Gobernador del Estado, las declara
 
 IX. Organizar y administrar las áreas naturales protegidas estatales, y supervisar las labores de conservación, protección y vigilancia de dichas áreas cuando su administración recaiga en gobiernos municipales o en personas físicas o morales;
 
-X. Regular y vigilar los sistemas de recolección, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos de manejo especial y coadyuvar con los municipios a regular y vigilar los sistemas de recolección, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos urbanos.
+X. Regular y vigilar los sistemas de recolección, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos de manejo especial y coadyuvar con los municipios a regular y vigilar los sistemas de recolección, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos urbanos;
 
 XI. Evaluar y resolver las manifestaciones de impacto ambiental y los estudios de riesgo ambiental de las obras o actividades de jurisdicción estatal;
 
@@ -825,131 +855,63 @@ XIII. Diseñar y operar, con la participación que corresponda a otras dependenc
 
 XIV. Prevenir y controlar la contaminación generada por la emisión de ruido, vibraciones, energía térmica y lumínica, radiaciones electromagnéticas y olores perjudiciales al equilibrio ecológico o al ambiente, provenientes de fuentes fijas que funcionen como establecimientos industriales y de fuentes móviles que no sean competencia de la Federación;
 
-XV. Prevenir y controlar la contaminación de las aguas de jurisdicción estatal, las aguas nacionales que estén asignadas al Estado, y regular aprovechamiento sustentable;
+XV. Prevenir y controlar la contaminación de las aguas de jurisdicción estatal, las aguas nacionales que estén asignadas al Estado, y regular el aprovechamiento sustentable;
 
-XVI. Elaborar y publicar el Ordenamiento Ecológico del Territorio del Estado, así como los ordenamientos ecológicos regionales y promoverlos en coordinación con las autoridades municipales y los particulares;
+XVI. Elaborar el Ordenamiento Ecológico del Territorio del Estado, así como los ordenamientos ecológicos regionales y promoverlos en coordinación con las autoridades municipales y los particulares;
 
 XVII. Prevenir y controlar la contaminación generada por el aprovechamiento de las sustancias no reservadas a la Federación, que constituyan depósitos de naturaleza similar a los componentes de estos suelos, que sólo puedan utilizarse para la fabricación de materiales de construcción u ornamento de obras;
 
-XVIII. Asesorar y proponer políticas, programas y acciones, en materia de cambio climático y para asuntos que afecten al equilibrio ecológico o al ambiente de regiones que comprendan dos o más municipios;
+XVIII. Asesorar, proponer y ejecutar políticas públicas, programas y acciones, en materia de cambio climático y para asuntos que afecten al equilibrio ecológico o ambiental del Estado; así como vincular dichas políticas estatales con las investigaciones realizadas por instituciones académicas;
 
 XIX. Promover el desarrollo de proyectos de generación de energía a partir de fuentes alternativas y sustentables;
 
-XX. Participar y coadyuvar en las emergencias y contingencias ambientales conforme a las políticas y programas de protección civil, que al efecto se establezcan;
+XX. Vigilar el cumplimiento de las normas oficiales mexicanas en materia ambiental y las derivadas de las leyes y reglamentos de jurisdicción estatal;
 
-XXI. Vigilar el cumplimiento de las normas oficiales mexicanas en materia ambiental y las derivadas de las leyes y reglamentos de jurisdicción estatal;
+XXI. Emitir recomendaciones en materia ambiental, de recursos naturales, cambio climático y residuos, a las autoridades estatales y municipales, con el propósito de coadyuvar y facilitar el cumplimiento de las leyes de la materia;
 
-XXII. Realizar tareas de divulgación y participación ciudadana en materia ambiental, de manejo sustentable de recursos naturales, de gestión y manejo integral de residuos, y de cambio climático;
+XXII. Asesorar a los municipios, comunidades, ejidos y pueblos indígenas, sobre el manejo y vigilancia de las áreas naturales protegidas;
 
-XXIII. Promover en coordinación con la Secretaría de Educación del Estado, la incorporación de contenidos ambientales, en la política educativa y en los planes y programas de estudio, encausadas hacia el desarrollo sustentable del Estado;
+XXIII. En coadyuvancia con la Secretaría de Gobierno, y con la Secretaría de Comunicaciones y Obras Públicas, elaborar diversos atlas de riesgo en las diferentes regiones del territorio del Estado con el objetivo de identificar zonas de riesgo a los desastres naturales, tanto en su impacto en las poblaciones como en la economía, e identificando soluciones en la materia;
 
-XXIV. Coordinar, concertar y ejecutar proyectos de formación, capacitación y actualización para mejorar la capacidad de gestión ambiental y el uso sustentable de recursos naturales en el Estado; estimular que las instituciones de educación superior y los centros de investigación realicen programas de formación de especialistas, proporcionen conocimientos ambientales e impulsen la investigación científica y tecnológica en la materia, y promover que los organismos de promoción de la cultura y los medios de comunicación social contribuyan a la formación de actitudes y valores de protección ambiental y de conservación del patrimonio natural;
+XXIV. Elaborar, promover y difundir el uso de instrumentos técnicos, participativos, económicos y jurídicos para la gestión de suelo, desarrollo urbano y ordenamiento territorial;
 
-XXV. Emitir recomendaciones en materia ambiental, de recursos naturales, cambio climático y residuos, a las autoridades estatales y municipales, con el propósito de coadyuvar y facilitar el cumplimiento de las leyes de la materia;
+XXV. Regular, normar y establecer de acuerdo a la vocación del suelo, al valor, características naturales, ambientales y a las políticas de desarrollo urbano, el ordenamiento del territorio del Estado;
 
-XXVI. Asesorar a los municipios, comunidades, ejidos y pueblos indígenas, sobre el manejo y vigilancia de las áreas naturales protegidas, y para la realización de programas y acciones tendientes a cumplir y vigilar el cumplimiento de los fines previstos en la ley de la materia;
+XXVI. Formular, instrumentar y difundir conjuntamente con los municipios y dependencias que corresponda, el Programa Estatal de Desarrollo Urbano, los Programas Regionales de Desarrollo Urbano, los Programas de Ordenación y Regulación de Zonas Conurbadas y Metropolitanas, y los que de ellos se deriven, dándoles seguimiento, vigilando y evaluando su cumplimiento conforme al Sistema Estatal de Planeación del Ordenamiento Territorial y el Desarrollo Urbano Sustentable;
 
-XXVII. Establecer programas y políticas públicas tendientes a mitigar el cambio climático reduciendo las emisiones de gases de efecto invernadero, de conformidad con la legislación federal en la materia y, en coordinación con la Secretaria (sic) Desarrollo Territorial, Urbano y Movilidad, promover programas y esquemas de política pública para adaptar a las comunidades, poblaciones y ciudades del Estado a los efectos del cambio climático, con el objeto de obtener resiliencia en las mismas frente a estos fenómenos naturales;
+XXVII. Fomentar, asesorar y apoyar a las autoridades municipales que lo soliciten en la formulación, ejecución, evaluación y actualización de los programas de desarrollo urbano municipales, de ordenación y regulación de zonas conurbadas y metropolitanas de los centros de población y los que de ellos se deriven;
 
-XXVIII. En coordinación con la Secretaría de Desarrollo Rural y Agroalimentario, establecer programas, políticas públicas e instrumentos con el fin de prevenir y adaptar a el (sic) campo michoacano a los eventos naturales resultado de los cambios climáticos globales y proteger a la sociedad de dichos desastres;
+XXVIII. Coadyuvar con las autoridades federales y municipales en la regularización de la tenencia de la tierra urbana, así como en la protección del patrimonio cultural y del equilibrio ecológico de los centros de población;
 
-XXIX. En coadyuvancia con la Secretaría de Gobierno, con la Secretaria (sic) Desarrollo Territorial, Urbano y Movilidad y con la Secretaría de Comunicaciones y Obras Públicas, elaborar diversos atlas de riesgo en las diferentes regiones del territorio del Estado con el objetivo de identificar zonas de riesgo a los desastres naturales, tanto en su impacto en las poblaciones como en la economía, e identificando soluciones en la materia, derivando esto en los programas respectivos;
+XXIX. Inducir el desarrollo territorial y urbano ordenado, a través de la regularización de uso de suelo en los centros de población, en coordinación con los municipios y las correspondientes dependencias y entidades de la Administración Pública Federal y Estatal;
 
-XXX. Proponer al Gobernador del Estado, la celebración de convenios con la Federación, estados, el Distrito Federal y municipios del estado, con los sectores social y privado en materia de coordinación, acciones e inversiones para el desarrollo sustentable de la entidad, protección del ambiente, manejo sustentable de los recursos naturales, preservación y restauración de ecosistemas, cambio climático, residuos, agua y pesca; y,
+XXX. Emitir opinión técnica en los proyectos de infraestructura y equipamiento urbano y territorial que, las dependencias y entidades de la Administración Pública Estatal, desarrollen de conformidad a la legislación de la materia;
 
-XXXI. Las demás que le confieran las normas jurídicas aplicables.
+XXXI. Emitir opinión técnica entre los ayuntamientos respectivos, sobre el proyecto de vías públicas en los centros de población que incidan en la vialidad y espacio público;
+
+XXXII. Coordinar de acuerdo con las políticas, lineamientos, normas y mecanismos que al efecto se establezcan, el Programa Estatal de Vivienda y su ejecución, en la forma que se acuerde con el Gobierno Federal, los organismos descentralizados, los municipios del Estado y los sectores social y privado;
+
+XXXIII. Emitir opinión técnica, legal y apoyar a solicitud de los ayuntamientos, en las regularizaciones de los fraccionamientos de interés social y popular de urbanización progresiva que realicen los grupos organizados, previo cumplimiento de los requisitos que señala la ley de la materia;
+
+XXXIV. Formular los estudios y proyectos de construcción y conservación de los servicios y espacios públicos de su competencia;
+
+XXXV. Definir los criterios y emitir las disposiciones para el otorgamiento de concesiones y permisos de transporte público;
+
+XXXVI. Otorgar concesiones y permisos de transporte público y de carga estatal de acuerdo a la Ley y reglamentos en la materia;
+
+XXXVII. Expedir las normas técnicas necesarias en materia de transporte de carga en el Estado;
+
+XXXVIII. Fijar los requisitos a los que se debe someter el transporte de carga en el Estado, a partir de la normatividad estatal y federal en la materia;
+
+XXXIX. Fijar las políticas de concesión, operación, autorización, coordinación, control y supervisión del servicio público de transporte en todas sus modalidades;
+
+XL. Integrar y presidir el Comité Técnico Consultivo de Transporte, así como las comisiones municipales, necesarias para la mejor prestación del servicio público de autotransporte; y,
+
+XLI. Las demás que le confieran las normas jurídicas aplicables.
 
 ###### Artículo 28.
 
-A la Secretaría de Desarrollo Territorial, Urbano y Movilidad, le corresponde el ejercicio de las atribuciones siguientes:
-
-I. Aplicar, vigilar y ejercer las atribuciones conferidas en las normas federales y estatales en materia de desarrollo territorial, urbano y movilidad, que incidan en este ámbito de competencia del Estado;
-
-II. Elaborar, ejecutar, revisar y difundir los planes y programas estatales de desarrollo urbano, ordenamiento territorial, transporte en todas sus modalidades, así como la movilidad de las personas en el territorio estatal;
-
-III. Elaborar, promover y difundir el uso de instrumentos técnicos, participativos, económicos y jurídicos para la gestión de suelo, desarrollo urbano y ordenamiento territorial;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
-
-IV. Formular, conducir, evaluar y difundir las políticas de desarrollo territorial, urbano y de movilidad en el Estado;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
-
-V. En coordinación con la Secretaría de Medio Ambiente, Recursos Naturales y Cambio Climático, regular, normar y establecer, de acuerdo a la vocación del suelo, al valor, características naturales, ambientales y a las políticas de desarrollo urbano, el ordenamiento del territorio del Estado;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
-
-VI. En coadyuvancia con la Secretaría de Medio Ambiente, Recursos Naturales y Cambio Climático, prevenir, controlar y corregir la contaminación atmosférica generada por fuentes fijas que funcionen como establecimientos industriales y por fuentes móviles que no sean de competencia de la Federación;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
-
-VII. En colaboración con la Secretaria de Medio Ambiente, Recursos Naturales y Cambio Climático, regular y vigilar los sistemas de recolección, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos e industriales, que no se consideren como peligrosos para el ambiente, de conformidad con lo dispuesto en la legislación en la materia;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
-
-VIII. En colaboración con la Secretaría de Medio Ambiente, Recursos Naturales y Cambio Climático, asesorar y proponer políticas, programas y acciones, para asuntos que afecten al equilibrio ecológico o al ambiente de regiones que comprendan dos o más municipios;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
-
-IX. Formular, instrumentar y difundir conjuntamente con los municipios y dependencias que corresponda, el Programa Estatal de Desarrollo Urbano, los Programas Regionales de Desarrollo Urbano, los Programas de Ordenación y Regulación de Zonas Conurbadas y Metropolitanas, y los que de ellos se deriven, dándoles seguimiento, vigilando y evaluando su cumplimiento conforme al Sistema Estatal de Planeación del Ordenamiento Territorial y el Desarrollo Urbano Sustentable;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
-
-X. Fomentar, asesorar y apoyar a las autoridades municipales que lo soliciten en la formulación, ejecución, evaluación y actualización de los programas de desarrollo urbano municipales, de ordenación y regulación de zonas conurbadas y metropolitanas de los centros de población y los que de ellos se deriven;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
-
-XI. En colaboración con la Secretaría de Medio Ambiente, Recursos Naturales y Cambio Climático, fomentar y participar en la constitución y administración de reservas territoriales en el Estado, coadyuvando con las autoridades federales y municipales en la regularización de la tenencia de la tierra urbana, así como en la protección del patrimonio cultural y del equilibrio ecológico de los centros de población;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
-
-XII. Inducir el desarrollo territorial y urbano ordenado, a través de la regularización de uso de suelo en los centros de población, en coordinación con los municipios y las correspondientes dependencias y entidades de la Administración Pública Federal y Estatal;
-
-XIII. Emitir opinión técnica en los proyectos de infraestructura y equipamiento urbano y territorial que las dependencias y entidades de la Administración Pública Estatal desarrollen de conformidad a la legislación de la materia;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
-
-XIV. Emitir opinión técnica entre los ayuntamientos respectivos, sobre el proyecto de vías públicas en los centros de población que incidan en la vialidad y espacio público;
-
-XV. Coordinar de acuerdo con las políticas, lineamientos, normas y mecanismos que al efecto se establezcan, el Programa Estatal de Vivienda y su ejecución, en la forma que se acuerde con el Gobierno Federal, los organismos descentralizados, los municipios del Estado y los sectores social y privado;
-
-XVI. Emitir opinión técnica, legal y apoyar a solicitud de los ayuntamientos, en las regularizaciones de los fraccionamientos de interés social y popular de urbanización progresiva que realicen los grupos organizados, previo cumplimiento de los requisitos que señala la ley de la materia;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
-
-XVII. Formular los estudios y proyectos de construcción y conservación de los servicios y espacios públicos de su competencia;
-
-XVIII. Solicitar a la Secretaría de Comunicaciones y Obras Públicas la realización de las obras y servicios públicos de su competencia, convenidos por el Gobierno del Estado;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
-
-XIX. Definir los criterios y emitir las disposiciones para el otorgamiento de concesiones y permisos de transporte público;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
-
-XX. Otorgar concesiones y permisos de transporte público y de carga estatal de acuerdo a la Ley y reglamentos en la materia;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
-
-XXI. Expedir las normas técnicas necesarias en materia de transporte de carga en el Estado;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
-
-XXII. Fijar los requisitos a los que se debe someter el transporte de carga en el Estado, a partir de la normatividad estatal y federal en la materia;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
-
-XXIII. Fijar las políticas de concesión, operación, autorización, coordinación, control y supervisión del servicio público de transporte en todas sus modalidades;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
-
-XXIV. Integrar y presidir el Comité Técnico Consultivo de Transporte, así como las comisiones municipales, necesarias para la mejor prestación del servicio público de autotransporte; y,
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
-
-XXV. Las demás que le confieran las normas jurídicas aplicables.
-
-XXVI. (DEROGADA, P.O. 22 DE ABRIL DE 2016)
+(DEROGADO, P.O. 30 DE JUNIO DE 2017)
 
 ###### Artículo 29.
 
@@ -977,7 +939,7 @@ X. Promover, coordinar y fomentar los programas educativos de salud pública y m
 
 XI. Promover y realizar en coordinación con las dependencias y entidades correspondientes, programas de capacitación técnica especializada en las ramas agropecuaria, industrial y de servicios;
 
-XII. Ejecutar los programas de infraestructura educativa para la construcción de espacios educativos en el Estado, en los niveles básico, medio superior y medio terminal;
+XII. (DEROGADA, P.O. 30 DE JUNIO DE 2017)
 
 XIII. Coadyuvar con las autoridades competentes y la sociedad civil, la realización de campañas de educación para prevenir y combatir las adicciones en el Estado; y,
 
@@ -1091,9 +1053,11 @@ XVI. Normar, regular y fortalecer el desarrollo de los servicios de infraestruct
 
 XVII. Las demás que le confieran las normas jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2017)</small>
+
 ###### Artículo 32.
 
-A la Secretaría de Política Social, le corresponde el ejercicio de las atribuciones siguientes:
+A la Secretaría de Desarrollo Social y Humano, le corresponde el ejercicio de las atribuciones siguientes:
 
 I. Formular, normar y coordinar políticas y programas generales para el desarrollo social con la participación ciudadana, que coadyuven al mejoramiento de las condiciones de vida de la población;
 
@@ -1135,71 +1099,21 @@ XIX. Llevar a cabo estudios e investigaciones para la identificación de técnic
 
 XX. Colaborar en coordinación con las dependencias competentes en acciones de consulta, asesoría, asistencia técnica, que incidan en el desarrollo institucional, en materia de política social; y,
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2017)</small>
 
-XXI. Diseñar, crear, impulsar y ejecutar programas y acciones encaminados a atender a las personas adultas mayores en condiciones de pobreza extrema; y
+XXI. Diseñar, crear, impulsar y ejecutar programas y acciones encaminados a atender a las personas adultas mayores en condiciones de pobreza extrema;
 
-> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2017)</small>
 
-XXII. Las demás que le confieran las normas jurídicas aplicables.
+XXII. Promover el respeto de los derechos humanos de las personas indígenas, de sus comunidades y pueblos que expresamente les confieren la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, los tratados, acuerdos y convenios internacionales celebrados por el Estado Mexicano y los demás ordenamientos jurídicos aplicables; así como establecer la política pública estatal en la materia; y,
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2017)</small>
+
+XXIII. Las demás que le confieran las normas jurídicas aplicables.
 
 ###### Artículo 33.
 
-A la Secretaría de Pueblos Indígenas, le corresponderá el ejercicio de las atribuciones siguientes:
-
-I. Promover el respeto de los derechos humanos de las personas indígenas, de sus comunidades y pueblos que expresamente les confieren la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, los tratados, acuerdos y convenios internacionales celebrados por el Estado mexicano y los demás ordenamientos jurídicos aplicables;
-
-II. Formular, dirigir, ejecutar y evaluar la planeación del desarrollo social, humano, cultural, jurídico, económico y político de las comunidades y pueblos indígenas, con su participación permanente;
-
-III. Formular, implementar, coordinar, gestionar, ejecutar y evaluar planes, programas, proyectos y acciones para el desarrollo sustentable de los pueblos y comunidades indígenas;
-
-IV. Proponer, elaborar, implementar, ejecutar, coordinar y evaluar las políticas públicas que propicien el desarrollo de los pueblos indígenas;
-
-V. Coordinar las acciones y políticas públicas de las distintas dependencias de la Administración Pública Estatal, que atiendan el desarrollo de los pueblos y comunidades indígenas;
-
-VI. Coordinar sus acciones y programas con la Federación, los estados y municipios para el desarrollo de los pueblos y con unidades indígenas;
-
-VII. Establecer mecanismos para preservar y fortalecer las instituciones, patrimonio cultural, sistemas normativos, los territorios y el régimen primordial de tenencia comunal y ejidal de la tierra, como bases fundamentales para el desarrollo de los pueblos indígenas;
-
-VIII. Coadyuvar en la defensa de los derechos humanos de las personas indígenas para la solución pacífica de los conflictos y el rezago agrario;
-
-IX. Coadyuvar en la solución pacífica de los conflictos y problemas entre los pueblos indígenas con criterios de equidad y justicia;
-
-X. Conducir, normar, garantizar, adecuar y evaluar las políticas que le permita la coordinación interinstitucional con los gobiernos federal, de los estados, del Distrito Federal y municipios, orientadas al desarrollo de los pueblos y comunidades indígenas;
-
-XI. Proponer y coadyuvar en el sistema de educación indígena estatal, en la formulación de planes y programas de estudios indígenas y apoyar la educación no formal de las comunidades y pueblos indígenas;
-
-XII. Formular, ejecutar, promover y apoyar programas y proyectos para la seguridad y autonomía alimentaria en las comunidades y pueblos indígenas;
-
-XIII. Establecer y desarrollar medidas y acciones para garantizar el acceso pleno de las comunidades y pueblos indígenas a la justicia y promover el fortalecimiento del régimen de justicia indígena;
-
-XIV. Coadyuvar con la Comisión Ejecutiva Estatal de Atención a Víctimas, en lo relativo a los pueblos y comunidades indígenas;
-
-XV. Elaborar, ejecutar y evaluar, con la participación de las comunidades y pueblos indígenas, programas y acciones tendientes a fomentar, recuperar, restaurar, conservar y proteger la biodiversidad y sus características genéticas; así como a generar alternativas de trabajo y aprovechamiento en los distintos campos de la producción;
-
-XVI. Promover el reconocimiento y el respeto de los derechos humanos de la mujer, migrantes, de la niñez, jóvenes, adultos mayores y de personas con capacidades diferentes al interior de los pueblos indígenas, así como la adopción de los valores y políticas de toda forma de justicia social;
-
-XVII. Promover la extinción de cualquier forma de discriminación, de exclusión y de marginación en contra de los individuos y los pueblos indígenas, así como las que se pudieran suscitar al interior de las comunidades;
-
-XVIII. Garantizar y fortalecer los esquemas económicos y sistemas productivos propios y culturales de los pueblos indígenas;
-
-XIX. Fomentar los procesos de formación y capacitación para la organización de productores indígenas, que tengan por objeto impulsar proyectos y empresas estratégicas de producción, comercialización y consumo;
-
-XX. Promover la creación de instancias y mecanismos de ahorro y financiamiento a la actividad productiva para el desarrollo productivo y social propio de los pueblos indígenas;
-
-XXI. Promover las iniciativas y las acciones de los pueblos indígenas relativos al rescate, preservación, difusión y estudio de la cosmovisión, de las tradiciones, lenguas, expresiones culturales y artísticas, conocimientos naturales e históricos, valores y formas de educación, así como a proteger su patrimonio intelectual, en coordinación de la Secretaría de Cultura;
-
-XXII. Promover e impulsar el fortalecimiento, respeto y reconocimiento jurídico de las instituciones comunitarias;
-
-XXIII. Formular y aplicar instrumentos y metodologías para garantizar la participación de la población indígena en las acciones gubernamentales que tengan lugar en sus territorios;
-
-XXIV. Coadyuvar a generar las condiciones que faciliten a los pueblos indígenas la instalación, administración, operación y control de sus propios medios de comunicación y difusión, que permitan revalorar, fortalecer y desarrollar sus culturas;
-
-XXV. Promover y fortalecer la práctica de la medicina tradicional y promover que se incluyan en los programas estatales de salud y nutrición;
-
-XXVI. Garantizar la promoción, difusión y aplicación de los derechos, educación y cultura de los indígenas entre las instituciones públicas y privadas; y,
-
-XXVII. Las demás que le confieran las normas jurídicas aplicables.
+(DEROGADO, P.O. 30 DE JUNIO DE 2017)
 
 ###### Artículo 34.
 
@@ -1319,81 +1233,23 @@ XXIV. Las demás que le confieran las normas jurídicas aplicables.
 
 A la Procuraduría General de Justicia del Estado le corresponde ejercer las atribuciones conferidas por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, la Ley Orgánica de la Procuraduría General de Justicia del Estado, su Reglamento y demás disposiciones legales aplicables.
 
-## TÍTULO TERCERO. DE LAS COORDINACIONES AUXILIARES DE LA OFICINA DEL GOBERNADOR
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE JUNIO DE 2017)</small>
 
-### CAPÍTULO ÚNICO. DE LA COORDINACIÓN GENERAL DE GABINETE Y PLANEACIÓN Y DE LA COORDINACIÓN DE COMUNICACIÓN SOCIAL
+## TÍTULO TERCERO. DE LA COORDINACIÓN AUXILIAR DE LA OFICINA DEL GOBERNADOR
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE JUNIO DE 2017)</small>
+
+### CAPÍTULO ÚNICO. DE LA COORDINACIÓN GENERAL DE COMUNICACIÓN SOCIAL
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2017)</small>
 
 ###### Artículo 36.
 
-Las Coordinaciones Auxiliares de la Oficina del Gobernador, serán:
-
-I. Coordinación General de Gabinete y Planeación; y,
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
-
-II. Coordinación General de Comunicación Social.
+La Coordinación General de Comunicación Social es una dependencia auxiliar de la Oficina del Gobernador.
 
 ###### Artículo 37.
 
-A la Coordinación General de Gabinete y Planeación, le corresponde el ejercicio de las atribuciones siguientes:
-
-I. Coordinar los asuntos de la Administración Pública Estatal que le sean instruidos por el Gobernador del Estado y garantizar la transversalidad de la administración y el cumplimiento del Plan de Desarrollo Integral del Estado de Michoacán; así como convocar y coordinar las reuniones de gabinete;
-
-II. Coordinar el diseño, elaboración y actualización periódica del Plan de Desarrollo Integral del Estado de Michoacán, así como de los Programas de las distintas áreas del Gobierno del Estado, con la participación de las dependencias y entidades de la Administración Pública Estatal, de los ayuntamientos, de las organizaciones sociales y privadas y de los ciudadanos, de acuerdo a la legislación vigente en la materia, cuidando que exista congruencia entre los mismos;
-
-III. Asegurar que las diversas dependencias desarrollen sus responsabilidades en forma coordinada y alineada, que sus programas y acciones están encaminadas a garantizar los derechos humanos y los principios rectores de la Administración Pública Estatal;
-
-IV. Coadyuvar con la Secretaría de Finanzas y Administración, que los proyectos anuales de la Ley de Ingresos y Presupuesto de Egresos, se ajusten al Plan de Desarrollo Integral del Estado de Michoacán;
-
-V. Revisar y registrar el ejercicio del presupuesto del Gobierno del Estado, con base en los programas, para cada una de las dependencias y entidades de la Administración Pública Estatal, de conformidad con las políticas, objetivos y lineamientos establecidos por el Gobernador del Estado;
-
-VI. Coadyuvar con la Secretaría de Finanzas y Administración en la formulación y actualización del sistema para el ejercicio presupuestal;
-
-VII. Diseñar, establecer y aplicar los parámetros de medición, seguimiento y evaluación del Plan de Desarrollo Integral del Estado de Michoacán y los programas estatales, así como las herramientas y metodologías para su revisión, con el fin de lograr una evaluación eficaz del desempeño de las dependencias y entidades de la Administración Pública Estatal frente a los objetivos y metas planteados en los mismos;
-
-VIII. Coadyuvar con la Secretaría de Finanzas y Administración el ejercicio del gasto público y del Presupuesto de Egresos del Estado, de acuerdo con las leyes de la materia;
-
-IX. Coordinar las consultas públicas y los mecanismos de participación ciudadana tanto en la elaboración del Plan de Desarrollo Integral del Estado de Michoacán y los Programas estatales, como en los procesos de evaluación y seguimiento de los mismos;
-
-X. Revisar el resultado de los proyectos de inversión para la obra y los programas de desarrollo estatal;
-
-XI. Celebrar convenios o contratos con los ayuntamientos que resulten de los programas de desarrollo institucional e integral municipal y de desarrollo regional, evaluando el cumplimiento de los mismos;
-
-XII. Orientar a las dependencias y entidades de la Administración Pública Estatal, para que sus programas y acciones concurran al cumplimiento de los objetivos y metas contenidos en el Plan de Desarrollo Integral del Estado de Michoacán;
-
-XIII. Representar al Gobernador del Estado ante el Comité de Planeación para el Desarrollo del Estado de Michoacán y fungir como Coordinador General del mismo, en los términos de la legislación aplicable;
-
-XIV. Coordinar e integrar la programación con visión municipal y regional, las acciones que realicen las dependencias y entidades de la Administración Pública Estatal;
-
-XV. Coordinar las acciones que la Federación y el Gobernador del Estado convengan con los gobiernos municipales, para el desarrollo integral de las diversas regiones del Estado;
-
-XVI. Promover la celebración de convenios de coordinación y colaboración con los municipios para la realización de acciones, estudios, proyectos, obras, prestación de servicios públicos y en general cualquier propósito de beneficio común;
-
-XVII. Fortalecer el desarrollo en los municipios del Estado y coadyuvar en el mejoramiento de la capacidad de gestión de las administraciones municipales, así como en su profesionalización;
-
-XVIII. Participar en los comités, consejos y demás órganos de coordinación de la Administración Pública Estatal, vinculados con la promoción del desarrollo municipal y regional;
-
-XIX. Proporcionar a los ayuntamientos cuando lo soliciten, asesoría y apoyo técnico para la elaboración de programas de inversión;
-
-XX. Apoyar a los ayuntamientos a fin de que fortalezcan su capacidad administrativa y con ello estén en condiciones de que la Federación o el Estado, les transfieran funciones o programas federales o estatales, así como los recursos financieros correspondientes, para que se consolide el proceso de descentralización;
-
-XXI. Coordinar con las dependencias de la Administración Pública Estatal y los ayuntamientos, la elaboración de los programas de capacitación para los servidores públicos municipales;
-
-XXII. Integrar el inventario de programas, obras e inversiones que realicen en el Estado, las dependencias y entidades de la Administración Pública Federal y Estatal y obtener la información necesaria para la elaboración del Informe de Gobierno;
-
-XXIII. Coordinar y administrar las funciones de recolección de datos, almacenamiento, procesamiento y distribución de la información para el gobierno en red, así como la interacción con otros sistemas de información mediante la asesoría a las secretarías y dependencias para la realización o contratación de servicios de las tecnologías de la información para el debido uso del sistema de gobierno en la red y desarrollo del gobierno digital;
-
-XXIV. Coordinar y promover la investigación para el desarrollo municipal y regional;
-
-XXV. Generar, procesar, presentar y difundir la información estadística y geográfica del Estado, para la planeación del desarrollo y coordinar las instancias que integren el Sistema Estatal de Información;
-
-XXVI. Instrumentar y operar el sistema de acceso a la información pública del Ejecutivo;
-
-XXVII. Establecer, con la anuencia del Gobernador del Estado, la política internacional del Gobierno del Estado y promover al Estado en el extranjero con el fin de lograr atraer inversiones estratégicas para que lo beneficien;
-
-XXVIII. En coordinación con las dependencias federales y con las distintas dependencias y entidades del Estado de Michoacán, promover la celebración de convenios de cooperación, en distintas materias, con gobiernos extranjeros, ciudades de otros países e instituciones de los mismos, con el fin de lograr obtener beneficios para estudiantes, académicos, investigadores, profesionistas, empresas del sector privado, dependencias y entidades del sector público del Estado y organizaciones no gubernamentales; y,
-
-XXIX. Las demás que le determine el Gobernador del Estado, que expresamente se señalen en esta Ley y en la legislación aplicable.
+(DEROGADO, P.O. 30 DE JUNIO DE 2017)
 
 ###### Artículo 38.
 
@@ -1599,6 +1455,48 @@ P.O. 18 DE NOVIEMBRE DE 2016.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
+P.O. 30 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 380 POR EL QUE "SE REFORMAN LAS FRACCIONES X, Y XV DEL ARTÍCULO 17; LAS FRACCIONES XI, XL, XLI Y XLII DEL ARTÍCULO 18; LAS FRACCIONES III, V, VI, XIX, XLVII Y XLVIII DEL ARTÍCULO 19; LAS FRACCIONES DE LA XXIX A LA XXXII DEL ARTÍCULO 21; LAS FRACCIONES VIII, XIV, XXXVI, XXXVII Y XXXVIII DEL ARTÍCULO 22; LAS FRACCIONES X, XV Y XVI DEL ARTÍCULO 26; EL ARTÍCULO 27; LAS FRACCIONES XXI Y XXII DEL ARTÍCULO 32; LA DENOMINACIÓN DEL TÍTULO TERCERO Y SU CAPÍTULO ÚNICO Y EL ARTÍCULO 36, SE ADICIONAN LAS FRACCIONES XLIII A LA XLVIII AL ARTÍCULO 18; LAS FRACCIONES DE LA XLIX A LA LIV AL ARTÍCULO 19; LA FRACCIÓN XXXIX AL ARTÍCULO 22, LA FRACCIÓN XVII AL ARTÍCULO 26; LA FRACCIÓN XXIII AL ARTÍCULO 32; Y SE DEROGAN LAS FRACCIONES VII, XI Y XVI DEL ARTÍCULO 17; LAS FRACCIONES XXII A LA XXVIII DEL ARTÍCULO 21; 24; 28; LA FRACCIÓN XII DEL ARTÍCULO 29 Y LOS ARTÍCULOS 33 Y 37 TODOS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, salvo lo correspondiente a las derogaciones a las fracciones VII y XVI del artículo 17 y los artículos 24, 33 y 37; y la reforma al artículo 36 del presente Decreto, las cuales entrarán en vigor al día siguiente de la publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo del Decreto o Ley que cree las áreas rectoras de Innovación, Ciencia y Desarrollo Tecnológico en el Estado, de Pueblos Indígenas y de Planeación.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado en un término no mayor de treinta días hábiles propondrá las reformas normativas o administrativas para crear las áreas rectoras de la Innovación, Ciencia y Desarrollo Tecnológico en el Estado; del Plan de Desarrollo Integral del Estado de Michoacán; y de la política pública de los Pueblos Indígenas.
+
+###### ARTÍCULO TERCERO.
+
+Las transferencias que por motivo de las modificaciones a esta Ley deba realizar el Ejecutivo del Estado de una dependencia o entidad de la Administración Pública Estatal a otra, incluirán las adecuaciones presupuestales que comprenden las modificaciones a las estructuras organizacionales, programáticas y financieras, a los calendarios financieros y de metas, así como las transferencias de recursos humanos y de los activos patrimoniales tales como bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, sistemas, maquinaria, archivos y, en general, los demás que la dependencia o entidad haya utilizado para los asuntos a su cargo. Los derechos laborales del personal de base que, en virtud de lo dispuesto en la presente Ley, pasen de una dependencia o entidad a otra, se reconocerán conforme a las normas jurídicas aplicables.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos que, con motivo de las modificaciones a la presente Ley, deban pasar de una dependencia o entidad a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los despachen se incorporen a la dependencia o entidad que señale el mismo, a excepción de aquellos urgentes o sujetos a término, los cuales se atenderán por las dependencias que los venían despachando.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo del Estado, por conducto de la Secretaría de Gobierno, Secretaría de Finanzas y Administración y Secretaría de Contraloría, con la participación de las dependencias y entidades de la Administración Pública Estatal correspondientes, serán responsables directos y deberán concluir aquellas adecuaciones presupuestarias y traspasos de recursos humanos, materiales y financieros, así como de activos patrimoniales, en un plazo no mayor de sesenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Las menciones contenidas en esta u otras leyes, decretos, reglamentos, convenios y en general en cualquier disposición respecto de las dependencias, coordinaciones y entidades de la Administración Pública Estatal, cuyas funciones se reforman por virtud de este Decreto, se entenderán referidas a las dependencias, coordinaciones y entidades que respectivamente asuman tales funciones.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Ejecutivo del Estado contará con un plazo no mayor de sesenta días hábiles posteriores a la entrada en vigor del presente Decreto para adecuar el Reglamento Interior de la Administración Pública Centralizada del Estado de Michoacán de Ocampo, en tanto, las Dependencias y Entidades de la Administración Pública Estatal, seguirán aplicando la reglamentación vigente, siempre y cuando no se oponga a lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+El Ejecutivo Estatal deberá presentar a esta Soberanía en un periodo de hasta treinta días hábiles a partir de la publicación del presente Decreto la Iniciativa de reforma al Decreto Legislativo número 337 que contiene el Presupuesto de Egresos del Gobierno del Estado de Michoacán de Ocampo, para el Ejercicio Fiscal del año 2017, con respecto de las Entidades que sufran modificaciones en el presente Decreto, incluyendo las Entidades Paraestatales de la Administración Pública Descentralizada, que se pretendan extinguir, conforme a lo previsto por los artículos 16 párrafo segundo, 20 fracciones II, V, VIII, XI, XII y XIII y 40 de la Ley de Planeación Hacendaria, Presupuesto, Gasto Público y Contabilidad Gubernamental del Estado de Michoacán de Ocampo y demás disposiciones aplicables.
+
+###### ARTÍCULO NOVENO.
+
+El Ejecutivo Estatal deberá elaborar la proyección de previsiones salariales y económicas de índole laboral para la extinción de plazas y recortes en el rubro de servicios personales de las estructuras orgánicas, los cuales deberán desglosarse en los subsecuentes informes trimestrales.
+
+Así mismo deberá establecer en un apartado específico en los subsecuentes informes trimestrales la contención del gasto con respecto de las Entidades que sufran modificaciones en el presente Decreto con respecto al ejercicio fiscal 2017, incluyendo las entidades Paraestatales de la Administración Pública Descentralizada.
+
 ###### ARTÍCULO DÉCIMO.
 
-En lo correspondiente a lo establecido por el artículo 19 fracción XI de este Decreto, entrará en vigor a partir del 1 de enero de 2017.
+Se derogan todas las disposiciones administrativas que se opongan al presente decreto.
