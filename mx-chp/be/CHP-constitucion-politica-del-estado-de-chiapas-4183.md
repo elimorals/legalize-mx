@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2017-04-19"
+last_updated: "2017-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2017.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -2085,7 +2085,7 @@ La Fiscalía General del Estado, contará con los órganos de control y vigilanc
 
 ### Capítulo III. De las Autoridades Electorales
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2017)</small>
 
 ###### Artículo 98.
 
@@ -2161,13 +2161,9 @@ El Congreso del Estado asignará anualmente a la Comisión Estatal de los Derech
 
 El Instituto de Elecciones y Participación Ciudadana y el Tribunal Electoral del Estado de Chiapas, tendrán a su cargo la organización de las elecciones y la resolución de las controversias que se susciten sobre esta materia, por lo que estos organismos gozarán de autonomía funcional, administrativa y presupuestaria e independencia en sus decisiones. Dichas autoridades ejercerán sus atribuciones de acuerdo con lo establecido en esta Constitución y las leyes secundarias que de ella emanen. Las demás autoridades y los particulares estarán obligados a acatar sus requerimientos.
 
-Para garantizar que los referidos organismos electorales gocen de autonomía financiera, el Congreso del Estado deberá asignarles un porcentaje fijo del Gasto Neto Total previsto en el Presupuesto de Egresos del Estado, mismo que no podrá ser reducido en ningún caso.
+Para garantizar que los referidos organismos electorales gocen de autonomía financiera, el Congreso del Estado deberá asignarles el presupuesto necesario para el cumplimiento de sus fines, de conformidad con la suficiencia presupuestal en el ejercicio correspondiente.
 
-Para el caso del Instituto de Elecciones y Participación Ciudadana, en los años en que no se celebren elecciones, se le otorgara un porcentaje que no podrá ser menor al 0.3% del Gasto Neto Total; en los años en que se inicie el proceso electoral, el porcentaje no podrá ser menor al 0.5% del Gasto Neto Total; mientras que en los años en que se celebren elecciones, dicho porcentaje no podrá ser menor al 1% del Gasto Neto Total.
-
-En el caso del Tribunal Electoral en los años en que no se celebren elecciones, se le otorgara un porcentaje que no podrá ser menor al 0.1% del Gasto Neto Total, mientras que en los años en que se celebren elecciones, el porcentaje no podrá ser menor al 0.2% del Gasto Neto Total.
-
-Dichos organismos electorales están obligados a cumplir con todas las disposiciones que se establezcan para la administración de recursos públicos, Y deberán ejercer sus presupuestos bajo los criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas y equidad de género.
+Dichos organismos electorales están obligados a cumplir con todas las disposiciones que se establezcan para la administración de recursos públicos, y deberán ejercer sus presupuestos bajo los criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas y equidad de género.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -2207,7 +2203,9 @@ Para garantizar los principios de constitucionalidad y legalidad de los actos y 
 
 El Tribunal Electoral del Estado de Chiapas es un organismo constitucional autónomo, de carácter permanente con personalidad jurídica y patrimonio propios, independiente en sus decisiones que será la máxima autoridad jurisdiccional en la materia, con la jurisdicción y competencia que determinen la Constitución Política de los Estados Unidos Mexicanos, las Leyes Generales, esta Constitución y la ley local de la materia. Contará con el personal jurídico y administrativo necesario para su adecuado funcionamiento.
 
-El Tribunal Electoral del Estado de Chiapas funcionará en Pleno, se integrará por cinco Magistrados designados por el Senado de la República y sus emolumentos serán los previstos en el presupuesto de egresos del Estado del ejercicio fiscal del año correspondiente.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2017)</small>
+
+El Tribunal Electoral del Estado de Chiapas funcionará en Pleno, se integrará por tres Magistrados designados por el Senado de la República y sus emolumentos serán los previstos en el presupuesto de egresos del Estado del ejercicio fiscal del año correspondiente.
 
 Los Magistrados del Tribunal Electoral del Estado (sic) Chiapas designarán de entre ellos, por mayoría de votos, a su Presidente. La Presidencia deberá ser rotatoria por un periodo de dos años conforme al procedimiento y requisitos establecidos en la ley.
 
@@ -4250,3 +4248,19 @@ Artículo Segundo: Se derogan todas las disposiciones que se opongan al presente
 Artículo Tercero: La reforma a los artículos 45 fracción XX y 50, entraran en vigor a partir de la revisión y fiscalización de las cuentas públicas del Estado y Municipios del Ejercicio Fiscal 2017, por lo que la revisión y fiscalización de las cuentas públicas de los Ejercicios 2016 y anteriores, así como los procedimientos iniciados con anterioridad a la presente reforma, serán atendidos en los términos de los artículos vigentes hasta el día 29 de diciembre del 2016.
 
 Artículo Cuarto: El Auditor Superior del Estado que se encuentra en funciones a partir de la vigencia del presente Decreto, continuará en el cargo por el periodo por el cual fue designado.
+
+P.O. 30 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 220 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se Derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los actuales Magistrados del Tribunal Electoral que se encuentren en funciones a la entrada en vigor del presente Decreto, continuarán en su encargo hasta concluir el periodo por el que fueron designados.
