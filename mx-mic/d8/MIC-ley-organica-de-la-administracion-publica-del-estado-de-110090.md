@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-administracion-publica-del-estado-de-110090"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-09-29"
-last_updated: "2016-11-18"
+last_updated: "2017-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110090&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,21 +21,33 @@ state: "MIC"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO
+LEY ORGANICA DE LA CASA DE LAS ARTESANIAS DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2016.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2003.
 
-Ley publicada en la Décima Sección del Periódico Oficial del Estado de Michoacán, el martes 29 de septiembre de 2015.
+Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 2 de agosto de 1989.
 
-SALVADOR JARA GUERRERO, Gobernador del Estado Libre y Soberano de Michoacán de Ocampo, a todos sus habitantes hace saber:
+LICENCIADO PATROCINIO GONZALEZ BLANCO GARRIDO, GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS, A SUS HABITANTES HACE SABER: QUE LA HONORABLE QUINCUAGESIMA SEPTIMA LEGISLATURA DEL MISMO, SE HA SERVIDO DIRIGIR AL EJECUTIVO DE SU CARGO EL SIGUIENTE:
 
-El H. Congreso del Estado, se ha servido dirigirme el siguiente:
+DECRETO NUMERO 71
 
-DECRETO
+LA HONORABLE QUINCUAGESIMA SEPTIMA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS, EN USO DE LAS FACULTADES QUE LE CONCEDE LA CONSTITUCION POLITICA LOCAL, Y
 
-EL CONGRESO DE MICHOACÁN DE OCAMPO DECRETA:
+CONSIDERANDO:
 
-NÚMERO 557
+LA NECESIDAD DE QUE EN LA ENTIDAD OPERE UN ORGANISMO QUE LOGRE CONJUNTAR LAS DIVERSAS ACCIONES QUE LOS SECTORES PUBLICO, PRIVADO Y SOCIAL DESARROLLEN O PRETENDAN REALIZAR EN MATERIA DE ARTESANIAS Y ARTES POPULARES;
+
+QUE ES NECESARIO ESTABLECER LOS APOYOS INSTITUCIONALES Y CONVOCAR A LA PARTICIPACION POPULAR EN LA PRESERVACION, RESCATE, FOMENTO, PRODUCCION Y COMERCIALIZACION DE LAS ARTESANIAS Y ARTICULOS DE ARTE ESTATAL Y REGIONAL, DENTRO DEL MARCO DE LA EXPRESION NATURAL DE LOS VALORES CULTURALES DE LOS PUEBLOS, PREVIENDO QUE ESTOS APOYOS PROVENGAN DE FUENTES ALTERNAS Y QUE LAS ACTIVIDADES TENGAN LA PLANEACION Y PROGRAMACION CORRESPONDIENTES QUE IMPIDAN ACTITUDES AISLADAS O DE IMPROVISACION TEMPORAL;
+
+QUE EN LA ENTIDAD DESARROLLAN ACTIVIDADES DIRECTAS O CONEXAS CON LAS ARTESANIAS Y ARTES POPULARES DIVERSAS CORPORACIONES PUBLICAS O PRIVADAS, ASI COMO GRUPOS ARTESANALES QUE LABORAN EN EL SENO DE LAS COMUNIDADES RURALES QUE DEBEN COOPERAR CON EL CONCURSO DE SU EXPERIENCIA Y PUEDEN SER BENEFICIADOS CON LOS FRUTOS DE UNA ACCION CONSOLIDADA, PLANEADA Y DECIDIDA DEMOCRATICAMENTE, BAJO EL PRINCIPIO DEL RESPETO A LA TRADICION HISTORICA Y SOCIAL DE LOS ARTESANOS.
+
+POR LAS CONSIDERACIONES ANTERIORES, ESTA PROPIA LEGISLATURA, EXPIDE LA SIGUIENTE:
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+LEY ORGANICA DEL INSTITUTO DE LAS ARTESANIAS
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTÍCULO ÚNICO.
 
@@ -45,601 +57,317 @@ LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
 ## TÍTULO PRIMERO. DE LA ADMINISTRACIÓN PÚBLICA ESTATAL
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+### CAPITULO I.
 
-###### Artículo 1.
+DE LA PERSONALIDAD DEL ORGANISMO.
 
-La presente Ley es de orden público e interés social, y tiene por objeto regular la organización y el funcionamiento de la Administración Pública del Estado de Michoacán de Ocampo.
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2003)</small>
 
-###### Artículo 2.
+###### ARTICULO 1.
 
-La legalidad, honradez, lealtad, imparcialidad, eficiencia, institucionalidad, transversalidad, Gobernanza, transparencia, rendición de cuentas, sustentabilidad e igualdad sustantiva, serán los principios rectores de la Administración Pública Estatal, los cuales se entenderán por:
+POR LA PRESENTE LEY ORGANICA SE CREA UN ORGANISMO PUBLICO DESCENTRALIZADO DE LA ADMINISTRACION PUBLICA DEL ESTADO, DENOMINADO "INSTITUTO DE LAS ARTESANIAS", CUYO OBJETIVO ES LA PRESERVACION, RESCATE, FOMENTO, PRODUCCION Y COMERCIALIZACION DE ARTESANIAS Y ARTES POPULARES.
 
-I. Legalidad. Que su actuar se apegue a la Ley y demás disposiciones jurídicas y administrativas vigentes;
+###### ARTICULO 2.
 
-II. Honradez. Se ajustarán con rectitud e integridad en su obrar en el manejo de los recursos públicos;
+EL ORGANISMO QUE ESTA LEY CREA GOZARA DE PERSONALIDAD JURIDICA Y PATRIMONIO PROPIOS.
 
-III. Lealtad. La prestación de sus servicios se hará en cumplimiento de sus obligaciones a favor de la sociedad;
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2003)</small>
 
-IV. Imparcialidad. En el desempeño diario actuará con rectitud sin preferencia o prevención anticipada a favor de persona alguna;
+###### ARTICULO 3.
 
-V. Eficiencia. En el cumplir de sus obligaciones, lograr los objetivos y resultados que se esperan;
+LAS ACTIVIDADES DEL INSTITUTO DE LAS ARTESANIAS, SE REGIRAN POR LAS DISPOSICIONES DE LA PRESENTE LEY Y POR LOS ESTATUTOS Y REGLAMENTOS QUE EXPIDA.
 
-VI. Institucionalidad. Que su actuar sea conforme a la misión, visión y objetivos, de los planes y programas de las dependencias y entidades de la Administración Pública Estatal;
+###### ARTICULO 4.
 
-VII. Transversalidad. En la instrumentación de los programas, actividades, objetivos de las dependencias, los servidores públicos harán coincidir los recursos necesarios para la ejecución de las políticas públicas integrales;
+LAS ACTIVIDADES DEL ORGANISMO, SERAN DE INTERES PUBLICO Y CONTARAN CON LA PARTICIPACION EN LOS CASOS QUE LO AMERITEN, DE LAS DEPENDENCIAS, ORGANISMOS Y ENTIDADES DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CHIAPAS.
 
-VIII. Gobernanza. El desempeño del servicio público, incentivando y aceptando la participación corresponsable de la sociedad;
+###### ARTICULO 5.
 
-IX. Transparencia Utilizar de manera responsable y clara los recursos públicos; ofrecer a la sociedad el acceso a la información, bajo la premisa de máxima publicidad;
+EL INSTITUTO DE LAS ARTESANIAS, TIENE LAS SIGUIENTES ATRIBUCIONES:
 
-X. Rendición de Cuentas. En ejercicio de sus atribuciones utilizará los recursos públicos únicamente para cumplir la misión institucional, adoptando criterios de racionalidad, asignándolos de manera transparente e imparcial, e informará de forma puntual y correcta de sus acciones frente a las y los ciudadanos, de acuerdo a las disposiciones legales vigentes;
+I. FOMENTAR EL AUTODIAGNOSTICO COMUNITARIO EN MATERIA DE ARTESANIAS Y ARTES POPULARES, PARA LOGRAR LA ESPONTANEA Y VERDADERA MOVILIZACION DE LOS PRODUCTORES EN ESOS RAMOS.
 
-XI. Sustentabilidad. En el desempeño de sus actividades cotidianas y en la ejecución de sus funciones, se procurará en todo momento un uso sustentable de la energía y de los recursos naturales con el fin de lograr el mejoramiento de la calidad de vida de las y los michoacanos y dejar un mundo mejor para las futuras generaciones; y,
+II. RESCATAR Y FOMENTAR EL DESARROLLO DE LAS ARTESANIAS EN EL ESTADO DE CHIAPAS, APOYANDO SU ESTRUCTURA PRODUCTIVA.
 
-XII. Igualdad sustantiva. Actuar con igualdad en el ejercicio de la función pública, sin distinciones ni discriminación hacia las personas.
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 1999)</small>
 
-###### Artículo 3.
+III. PROMOVER Y DESARROLLAR LAS ACTIVIDADES ARTESANALES, EN AQUELLAS COMUNIDADES DEL ESTADO QUE LAS HAN VENIDO GENERANDO COMO PATRIMONIO CULTURAL DE SUS HABITANTES, RESPETANDO SUS USOS Y COSTUMBRES, ASI COMO FOMENTAR LA PARTICIPACION SOCIAL Y ESTIMULAR LA MICRO Y PEQUEÑA INDUSTRIA RURAL.
 
-El ejercicio del Poder Ejecutivo se deposita en un sólo individuo denominado Gobernador del Estado y tendrá las atribuciones, facultades y obligaciones que señala la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, la presente Ley y demás disposiciones jurídicas vigentes en el Estado.
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 1999)</small>
 
-###### Artículo 4.
+IV. INCENTIVAR Y FOMENTAR LA ASISTENCIA TECNICA, Y ADMINISTRATIVA, ASI COMO ESTABLECER PROGRAMAS DE ESTIMULO Y FINANCIAMIENTO REGULADOS EN LAS LEYES, PARA LAS ORGANIZACIONES DE PRODUCTORES ARTESANALES DEL ESTADO DE CHIAPAS.
 
-Todas las autoridades de la Administración Pública Estatal, en el ámbito de su competencia, tiene la obligación de promover, respetar, proteger y garantizar el cumplimiento de los derechos humanos estipulados en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado mexicano forma parte, la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, la legislación secundaria, normas y reglamentos; en todo momento las dependencias y entidades se guiarán y actuarán bajo los principios de universalidad, interdependencia, indivisibilidad y progresividad, así como con igualdad de oportunidades igualdad sustantiva, respeto a la cultura y protección de los pueblos indígenas.
+V. FOMENTAR EN COORDINACION Y APOYO CON LAS DEPENDENCIAS COMPETENTES DEL EJECUTIVO, LA CONCURRENCIA, PENETRACION Y PERMANENCIA DE LAS UNIDADES DE COMERCIALIZACION A LOS MERCADOS REGIONALES, ESTATALES, NACIONALES E INTERNACIONALES CON LA PRODUCCION ARTESANAL ELABORADA EN EL ESTADO DE CHIAPAS.
 
-###### Artículo 5.
+VI. FOMENTAR EL ESTABLECIMIENTO DE TALLERES, CENTROS DE CAPACITACION Y ADIESTRAMIENTO EN TODAS LAS ACTIVIDADES RELACIONADAS CON LA ARTESANIA, PROMOVIENDO EL ARRAIGO DE LOS PRODUCTORES Y LA ARMONIA ECOLOGICA EN LA PRODUCCION DE ARTESANIAS.
 
-La promulgación y la orden de publicación de las leyes en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán, se harán constar mediante la firma del Gobernador del Estado y del Secretario de Gobierno. Todos los decretos, reglamentos, órdenes, acuerdos y circulares de observancia general que contengan disposiciones sobre asuntos administrativos, deberán ser firmados por el Gobernador del Estado, el Secretario de Gobierno y los titulares de las dependencias a que el asunto corresponda, requisito sin el cual no serán obligatorios.
+VII. ESTABLECER Y CUMPLIR CALENDARIOS PERMANENTES DE AUTODIAGNOSTICO Y AUTOEVALUACION COMUNITARIA DE LOS DIVERSOS PROCESOS DE LA PRODUCCION ARTESANAL, OYENDO A LOS PRODUCTORES Y CORRESPONSABILIZANDOLOS EN DICHA ACCION.
 
-###### Artículo 6.
+VIII. FOMENTAR, ORGANIZAR Y ASESORAR LA CREACION, ADMINISTRACION Y DESARROLLO DE INDUSTRIAS RURALES, DIRECTA O INDIRECTAMENTE VINCULADAS A LA PRODUCCION ARTESANAL EN EL ESTADO.
 
-El Gobernador del Estado expedirá, reformará, derogará o abrogará los reglamentos interiores, acuerdos, circulares y demás disposiciones jurídicas que regulen el funcionamiento o la estructura interna de las dependencias y entidades de la Administración Pública Estatal para proveer en la esfera administrativa el exacto y eficaz cumplimiento de sus atribuciones.
+IX. FOMENTAR, ORGANIZAR Y CELEBRAR EVENTOS PUBLICOS EN LOS QUE LOS PRODUCTORES DEL ESTADO DE CHIAPAS Y DE OTRAS ENTIDADES DE LA REPUBLICA, ASI COMO DE EMPRESAS DEDICADAS A LA COMERCIALIZACION NACIONAL E INTERNACIONAL, INTERCAMBIEN EXPERIENCIAS, DESARROLLEN EVALUACIONES Y CONCRETEN RECOMENDACIONES OPERATIVAS EN MATERIA DE COMERCIALIZACION ARTESANAL.
 
-###### Artículo 7.
+X. DIRIGIR Y ADMINISTRAR LAS UNIDADES OPERATIVAS DE COMERCIALIZACION, EXHIBICION E INVESTIGACION, ASI COMO LAS UNIDADES DE PRODUCCION ARTESANAL QUE SE ESTABLEZCAN PARA EL DESEMPEÑO Y LOGRO DE SUS FINES OBJETIVOS.
 
-El Gobernador del Estado podrá crear, modificar, fusionar o extinguir, mediante decreto o acuerdo administrativo, conforme al Presupuesto de Egresos del Estado, organismos descentralizados y desconcentrados, así como empresas de participación estatal, comisiones, comités, patronatos y entidades de la administración pública paraestatal, independientemente de la denominación que se les dé, y asignarles las funciones que estime conveniente. En el caso de los fideicomisos, su constitución se sujetará a lo que establezcan las leyes respectivas.
+XI. ADQUIRIR, ENAJENAR O ARRENDAR BIENES MUEBLES, INMUEBLES, INSTALACIONES Y EQUIPO NECESARIO PARA EL DESARROLLO Y EFICACIA DE SUS OBJETIVOS.
 
-###### Artículo 8.
+XII. CELEBRAR TODOS LOS ACTOS JURIDICOS, CONVENIOS Y CONTRATOS NECESARIOS PARA EL CUMPLIMIENTO DE SUS OBJETIVOS.
 
-El Gobernador del Estado podrá convenir con el Ejecutivo Federal, los gobiernos de las entidades federativas, el Distrito Federal y los ayuntamientos del Estado de Michoacán, la ejecución y operación de programas, obras, acciones y servicios, cuando el desarrollo económico y social lo haga necesario.
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 1999)</small>
 
-Asimismo, el Gobernador del Estado podrá celebrar convenios de concertación con los sectores social y privado dentro del ámbito de sus atribuciones con apego a la Ley.
+XIII. ESTABLECER MECANISMOS DE COMERCIALIZACION EN EL AMBITO NACIONAL E INTERNACIONAL PARA MEJORAR EL NIVEL DE VIDA DE LOS ARTESANOS CHIAPANECOS.
 
-###### Artículo 9.
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 1999)</small>
 
-El despacho de los asuntos que competen al Gobernador del Estado, se realizará a través de las dependencias y entidades de la Administración Pública Estatal, conforme a la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo y las leyes que de ella emanen, de acuerdo con el Presupuesto de Egresos del Estado.
+XIV. ANALIZAR Y COORDINAR LOS PLANES Y PROGRAMAS DE LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACION PUBLICA DEL ESTADO PREVIAMENTE A SU EJECUCION, CUANDO LOS MISMOS SE RELACIONEN CON LOS FINES DE ESTA ENTIDAD.
 
-###### Artículo 10.
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 1999)</small>
 
-Cuando el Gobernador del Estado, sin abandonar sus funciones, salga del territorio del Estado, el Secretario de Gobierno quedará encargado del despacho del Poder Ejecutivo, salvo el caso de falta temporal o impedimento de éste, será reemplazado por el Secretario de Finanzas y Administración, de conformidad a la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+XV. COORDINAR LA EJECUCION DE ACCIONES EN MATERIA DE CAPACITACION PARA LA ORGANIZACION, PARA LA PRODUCCION Y PARA LA ADMINISTRACION DE LAS FIGURAS ASOCIATIVAS, ASI COMO PARA LA COMERCIALIZACION QUE REALICEN LAS DEPENDENCIAS Y ENTIDADES EN CHIAPAS.
 
-###### Artículo 11.
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 1999)</small>
 
-Al frente de cada dependencia y entidad de la Administración Pública Estatal, habrá un titular, quien para el despacho de los asuntos de su competencia, se auxiliará con los servidores públicos que se establezcan en el Reglamento Interior de la Administración Pública Centralizada.
+XVI. OPINAR Y RESOLVER SOBRE LA PROCEDENCIA DE TODOS LOS PROGRAMAS Y PROYECTOS QUE EN MATERIA DE ARTESANIAS SE IMPLEMENTEN EN CHIAPAS, TANTO POR LAS DEPENDENCIAS ESTATALES, COMO POR LAS FEDERALES Y MUNICIPALES.
 
-###### Artículo 12.
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 1999)</small>
 
-Los titulares de las dependencias y entidades de la Administración Pública Estatal y las coordinaciones auxiliares señaladas en esta Ley, tienen las siguientes atribuciones de carácter general:
+XVII. COORDINAR Y VALIDAR LAS ACCIONES QUE SE REALICEN EN MATERIA DE ARTESANIAS Y ARTES POPULARES EN EL ESTADO DE CHIAPAS.
 
-I. Convenir conforme a sus facultades y atribuciones y a la disponibilidad, la celebración de convenios de coordinación con dependencias y entidades de la Administración Pública Federal, con gobiernos estatales, del Distrito Federal y los municipios, así como con particulares;
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 1999)</small>
 
-II. Proponer y emitir opinión sobre el diseño, ejecución, seguimiento y evaluación de las políticas públicas, con la finalidad de eliminar inequidades y desigualdades, a través de la aplicación de objetivos y ejes transversales que permitan el logro efectivo de las estrategias y acciones establecidas en el Plan de Desarrollo Integral del Estado de Michoacán;
+XVIII. TODAS LAS DEMAS ATRIBUCIONES QUE LE SEÑALE LAS LEYES, ESTATUTOS Y DISPOSICIONES RELATIVAS.
 
-III. Conducir sus actividades conforme a los principios rectores de la Administración Pública Estatal;
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE DICIEMBRE DE 2003)</small>
 
-IV. Ser responsables de la administración de los recursos financieros, humanos y materiales asignados;
+###### ARTICULO 6.
 
-V. Gestionar los nombramientos, retribuciones, remociones, renuncias, licencias, pensiones y jubilaciones de los servidores públicos a su cargo;
+LOS ORGANOS DE GOBIERNO DEL INSTITUTO DE LAS ARTESANIAS, SON:
 
-VI. Contar con un órgano interno de control para la prevención y transparencia en el ejercicio del gasto público, mismo que será designado por la Secretaría de Contraloría; en el caso de las entidades estás se sujetarán al órgano interno de control de la dependencia del sector que les corresponda de acuerdo a su sectorización;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2000)</small>
 
-VII. Contar con una Unidad de Igualdad Sustantiva, que funcionará con el personal adscrito a la dependencia.
+I. LA JUNTA DE GOBIERNO.
 
-VIII. Formular, en el ámbito de su competencia proyectos de ley, decretos, reglamentos, acuerdos y convenios, y remitirlos para su autorización al Gobernador del Estado, a través del Secretario de Gobierno;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2000)</small>
 
-IX. Implementar la mejora regulatoria y la simplificación administrativa como política pública;
+II. EL DIRECTOR GENERAL, Y.
 
-X. Atender las observaciones emitidas por la Auditoría Superior de Michoacán;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2000)</small>
 
-XI. Orientar y asesorar a las dependencias, entidades y a los municipios, en las materias de su competencia; y,
+III. UN COMISARIO.
 
-XII. Las demás que expresamente se señalen en esta Ley, en las leyes del Estado y en los ordenamientos reglamentarios respectivos.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 2003)</small>
 
-###### Artículo 13.
+###### ARTICULO 7.
 
-El Gobernador del Estado, nombrará y removerá libremente a los titulares de las dependencias y entidades, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo o en las leyes.
+LA JUNTA DE GOBIERNO SERA EL ORGANO SUPREMO DE GOBIERNO DEL INSTITUTO DE LAS ARTESANIAS Y ESTARA INTEGRADA POR:
 
-Los titulares de las dependencias de la Administración Pública Estatal, designarán a los servidores públicos dentro de las dependencias a que se refiere la presente ley, previo acuerdo con el Gobernador del Estado.
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 1999)</small>
 
-Los titulares de las entidades serán designados por el Gobernador del Estado. El Gobernador, sin embargo, podrá delegar dicha función al Secretario del ramo en cuestión. En lo relativo a los servidores públicos de las entidades, estos serán designados por el titular del ramo a propuesta del titular de la entidad.
+I. UN PRESIDENTE, QUE SERA EL GOBERNADOR DEL ESTADO.
 
-La contratación de personas físicas que no formen parte de la estructura establecida en esta Ley y su Reglamento, se ajustarán a la disponibilidad presupuestal de cada dependencia y entidad de la Administración Pública Estatal.
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 1999)</small>
 
-###### Artículo 14.
+II. UN SECRETARIO TECNICO QUE SERA EL DIRECTOR DE PROMOCION ECONOMICA Y CAPACITACION EMPRESARIAL, DE LA SECRETARIA DE DESARROLLO ECONOMICO.
 
-Los titulares de las dependencias y entidades de la Administración Pública Estatal, ejercerán sus funciones de acuerdo con las leyes de su competencia y su reglamento interior, y dictarán las resoluciones que les competan, pudiendo delegar a sus subalternos cualquiera de sus facultades para resolver asuntos, salvo en los casos en que la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo y las leyes que de ella emanen, dispongan que deben ser resueltos por ellos mismos.
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 1999)</small>
 
-###### Artículo 15.
+III. SEIS VOCALES, FUNGIENDO COMO TALES:
 
-Al tomar posesión de su cargo, los titulares de las dependencias y entidades de la Administración Pública Estatal, deberán mediante acta de entrega-recepción, con la intervención de la Secretaría de Contraloría, recibir y verificar el inventario de los bienes que tengan en posesión y la relación de los asuntos en trámite, asumiendo la responsabilidad administrativa y legal de lo que reciban de conformidad con las leyes de la materia.
+A) LA PRESIDENTA DE LOS PATRONATOS DIF CHIAPAS Y VOLUNTARIADO ESTATAL.
 
-Los servidores públicos de las dependencias y entidades de la Administración Pública Estatal, al momento de terminar con su encomienda, deberán entregar la dependencia o entidad a su cargo en términos de la legislación aplicable.
+B) EL PRESIDENTE DE LA COMISION DE ARTESANIAS DEL CONGRESO DEL ESTADO.
 
-###### Artículo 16.
+C) EL SECRETARIO DE HACIENDA DEL ESTADO.
 
-El Gobernador del Estado resolverá cualquier duda sobre la competencia de las dependencias y entidades de la Administración Pública Centralizada.
+D) EL SECRETARIO PARA LA ATENCION DE LOS PUEBLOS INDIGENAS.
+
+E) EL SECRETARIO DE DESARROLLO ECONOMICO.
+
+F) EL CONTRALOR GENERAL DEL ESTADO.
+
+POR CADA MIEMBRO PROPIETARIO DE LA JUNTA DE GOBIERNO HABRA UN SUPLENTE QUE DEBERA ESTAR DEBIDAMENTE ACREDITADO. LOS CARGOS DESCRITOS CON ANTELACION SERAN HONORIFICOS POR LO QUE NO PERCIBIRAN REMUNERACION ALGUNA.
+
+###### ARTICULO 8.
+
+(DEROGADO, P.O. 11 DE AGOSTO DE 1999)
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 9.
+
+PRESIDENTE DE LA JUNTA DE GOBIERNO DEL INSTITUTO DE LAS ARTESANIAS, PODRA INVITAR A LAS SESIONES DE LA MISMA, CUANDO ASI LO CONSIDERE NECESARIO, A LOS REPRESENTANTES DE LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACION PUBLICA FEDERAL, ESTATAL Y MUNICIPAL, A LOS REPRESENTANTES DE LAS INSTITUCIONES PUBLICAS; ASI COMO A LOS REPRESENTANTES DEL SECTOR SOCIAL Y PRIVADO, CUYAS ACTIVIDADES ESTEN RELACIONADAS CON EL OBJETIVO DE ESTE ORGANISMO, QUIENES TENDRAN UNICAMENTE VOZ.
+
+###### ARTICULO 10.
+
+(DEROGADO, P.O. 11 DE AGOSTO DE 1999)
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 11.
+
+EL DIRECTOR GENERAL DEL INSTITUTO DE LAS ARTESANIAS, SERA NOMBRADO Y REMOVIDO LIBREMENTE POR EL GOBERNADOR DEL ESTADO, Y PARA LA EJECUCION DE LOS FINES DE ESTE ORGANISMO, CONTARA CON LOS RECURSOS HUMANOS, MATERIALES Y FINANCIEROS NECESARIOS.
+
+###### ARTICULO 12.
+
+POR CADA MIEMBRO DE LA JUNTA DE GOBIERNO SE NOMBRARA A UN SUPLENTE A EXCEPCION DE LA PRESIDENCIA QUE PODRA SER DELEGADA EN CASOS JUSTIFICADOS.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 13.
+
+LA JUNTA DE GOBIERNO DEL INSTITUTO DE LAS ARTESANIAS, CELEBRARA SESIONES ORDINARIAS TRIMESTRALMENTE Y EXTRAORDINARIAS CUANDO ASI LO DETERMINE EL PRESIDENTE O LO SOLICITE CUALQUIERA DE LOS MIEMBROS.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+EL QUORUM PARA SESIONAR SE FORMARA CON EL CINCUENTA POR CIENTO MAS UNO DE SUS INTEGRANTES Y EN TAL PROPORCION SE TOMARAN SUS ACUERDOS.
+
+###### ARTICULO 14.
+
+LAS SESIONES DE LA JUNTA DE GOBIERNO SE CELEBRARAN PREVIA CONVOCATORIA GIRADA A SUS MIEMBROS CUANDO MENOS CON DIEZ DIAS DE ANTICIPACION; LA CONVOCATORIA LA EXPEDIRA EL SECRETARIO TECNICO.
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 15.
+
+LOS ACUERDOS Y RESOLUCIONES EMITIDOS EN EL SENO DE LA JUNTA DE GOBIERNO, DEL INSTITUTO DE LAS ARTESANIAS; MISMOS QUE DEBERAN OBRAR SIEMPRE EN EL LIBRO DE ACTAS DE SU SECRETARIA TECNICA, SERAN EJECUTADOS POR SU DIRECTOR GENERAL.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 16.
+
+SON ATRIBUCIONES DE LA JUNTA DE GOBIERNO, DEL INSTITUTO DE LAS ARTESANIAS:
+
+I. DICTAR LAS NORMAS Y LOS CRITERIORES (SIC) GENERALES QUE ORIENTEN LAS ACTIVIDADES DEL ORGANISMO.
+
+II. INICIAR, DISCUTIR Y APROBAR LOS ESTATUTOS GENERALES DEL ORGANISMO Y SUS REGLAMENTOS ESPECIFICOS.
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2003)</small>
+
+III.- APROBAR LOS PROYECTOS, PLANES Y PROGRAMAS PARA EL DESARROLLO DE LAS FUNCIONES DEL INSTITUTO DE LAS ARTESANIAS;
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2003)</small>
+
+IV.- CONOCER Y APROBAR EN SU CASO, LOS ESTADOS FINANCIEROS Y BALANCES ANUALES; ASI COMO LOS INFORMES GENERALES Y ESPECIALES DEL INSTITUTO DE ARTESANIAS, PREVIAMENTE AL DIRECTOR GENERAL DE LA MISMA;
+
+V. APROBAR LOS PRESUPUESTOS ANUALES DE INGRESOS Y DE EGRESOS DEL ORGANISMO.
+
+VI. (DEROGADA, P.O. 11 DE AGOSTO DE 1999) (REPUBLICADA SU DEROGACION, P.O. 3 DE DICIEMBRE DE 2003)
+
+VII. (DEROGADA, P.O. 11 DE AGOSTO DE 1999) (REPUBLICADASU DEROGACION, P.O. 3 DE DICIEMBRE DE 2003)
+
+VIII. LAS DEMAS QUE SE DERIVEN DE LA PRESENTE LEY Y DE LOS ORDENAMIENTOS CORRESPONDIENTES.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 2003)</small>
 
 ## TÍTULO SEGUNDO. DE LAS DEPENDENCIAS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL CENTRALIZADA
 
-###### Artículo 17.
+###### ARTICULO 17.
 
-En el ejercicio de sus atribuciones y para el despacho de los negocios del orden administrativo encomendados al Gobernador del Estado, habrá las siguientes dependencias de la Administración Pública Estatal Centralizada:
+EL INSTITUTO DE LAS ARTESANIAS CONTARA CON UN ORGANO PERMANENTE DE VIGILANCIA, A CARGO DE UN COMISARIO QUE SERA DESIGNADO POR LA JUNTA DE GOBIERNO.
 
-I. Secretaría de Gobierno;
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2003)</small>
 
-II. Secretaría de Finanzas y Administración;
+LOS ORGANOS DE ADMINISTRACION DEL INSTITUTO DE LAS ARTESANIAS PROPORCIONARAN AL COMISARIO LA INFORMACION QUE LES SOLICITE Y LE PRESTARAN LAS FACILIDADES NECESARIAS PARA COMPROBAR Y VIGILAR QUE LAS POLITICAS, NORMAS, PROCEDIMIENTOS Y DEMAS DISPOSICIONES SE APLIQUEN CORRECTAMENTE.
 
-III. Secretaría de Contraloría;
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-IV. Secretaría de Seguridad Pública;
+LOS ORGANOS DE ADMINISTRACION DEL INSTITUTO DE LAS ARTESANIAS PROPORCIONARAN AL COMISARIO LA INFORMACION QUE LES SOLICITE Y LE PRESTARAN LAS FACILIDADES NECESARIAS PARA COMPROBAR Y VIGILAR QUE LAS POLITICAS, NORMAS, PROCEDIMIENTOS Y DEMAS DISPOSICIONES SE APLIQUEN CORRECTAMENTE.
 
-V. Secretaría de Desarrollo Económico;
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1999)</small>
 
-VI. Secretaría de Turismo;
+EL COMISARIO DEBERA ELABORAR LAS INFORMACIONES DERIVADAS DE LAS REVISIONES PRACTICADAS Y PROPONER A LA JUNTA DIRECTIVA Y AL DIRECTOR GENERAL DEL ORGANISMO LAS MEDIDAS QUE TIENDA A MEJORAR EL CONTROL INTERNO, ESTABLECIENDO EL SEGUIMIENTO PARA SU APLICACIÓN.
 
-VII. Secretaría de Innovación, Ciencia y Desarrollo Tecnológico;
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1999)</small>
 
-VIII. Secretaría de Desarrollo Rural y Agroalimentario;
+EL COMISARIO PARTICIPARA EN LAS SESIONES DE LA JUNTA DIRECTIVA CON DERECHO A VOZ PERO SIN VOTO.
 
-IX. Secretaría de Comunicaciones y Obras Públicas;
+###### ARTICULO 18.
 
-X. Secretaría de Medio Ambiente, Recursos Naturales y
+SERAN FACULTADES Y OBLIGACIONES DEL SECRETARIO TECNICO:
 
-Cambio Climático;
+I. FUNGIR COMO SECRETARIO DE LA JUNTA DE GOBIERNO.
 
-XI. Secretaría de Desarrollo Territorial, Urbano y Movilidad;
+II. ASESORAR AL ORGANISMO EN SUS FUNCIONES ORDINARIAS.
 
-XII. Secretaría de Educación;
+III. VIGILAR LA EJECUCION DE LOS ACUERDOS DEL CONSEJO Y ESTATUTOS GENERALES DEL ORGANISMO.
 
-XIII. Secretaría de Cultura;
+IV. TODOS AQUELLOS QUE LA JUNTA DE GOBIERNO LE ENCOMIENDE EN CUMPLIMIENTO DE LA PRESENTE LEY.
 
-XIV. Secretaría de Salud;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 2003)</small>
 
-XV. Secretaria de Política Social;
+###### ARTICULO 19.
 
-XVI. Secretaría de los Pueblos Indígenas;
+EL DIRECTOR GENERAL DEL INSTITUTO DE LAS ARTESANIAS, TENDRA LAS SIGUIENTES ATRIBUCIONES:
 
-XVII. Secretaría del Migrante; y,
+I. DIRIGIR LAS FUNCIONES Y ACCIONES DEL ORGANISMO VIGILANDO Y EVALUANDO LA EJECUCION DE LAS MISMAS Y REPRESENTAR AL ORGANISMO LEGALMENTE CON CLAUSULA GENERAL Y LAS ESPECIALES QUE REQUIERAN CLAUSULA ESPECIAL CONFORME A LA LEY, SALVO EN AQUELLOS ACTOS JURIDICOS QUE IMPLIQUEN TRASLACION DE DOMINIO, ACEPTACION Y REMISION DE OBLIGACIONES PATRIMONIALES, LAS QUE SE SUJETARAN A LA APROBACION EXPRESA DE LA JUNTA DE GOBIERNO.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(F. DE E., P.O. 23 DE AGOSTO DE 1989)</small>
 
-XVII bis. Secretaría de Igualdad Sustantiva y Desarrollo de las Mujeres Michoacanas; y,
+II. FORMULAR Y SOMETER A LA APROBACION DE LA JUNTA DE GOBIERNO LOS ESTADOS FINANCIEROS MENSUALES, INFORMES GENERALES Y ESPECIALES DEL ORGANISMO, PUBLICANDO SUS BALANCES ANUALES EN EL PERIODICO OFICIAL DEL ESTADO.
 
-XVIII. Procuraduría General de Justicia.
+III. CONVOCAR EN COORDINACION CON EL SECRETARIO TECNICO A LAS SESIONES DE LA JUNTA DE GOBIERNO Y DEL CONSEJO ESTATAL DE LAS ARTESANIAS.
 
-###### Artículo 18.
+IV. FORMULAR Y SOMETER A LA APROBACION DE LA JUNTA DE GOBIERNO, LOS PROGRAMAS Y PROYECTOS PRESUPUESTADOS PARA EL SIGUIENTE EJERCICIO ANUAL, DISEÑANDO LOS MANUALES ADMINISTRATIVOS Y CONTROLES INTERNOS Y EXTERNOS QUE LO REGULEN.
 
-A la Secretaría de Gobierno, le corresponden las atribuciones que expresamente le confieren la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo y las siguientes:
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2003)</small>
 
-I. Conducir las relaciones del Poder Ejecutivo con los demás poderes del Estado, poderes federales, con los gobiernos de los estados, con los gobiernos municipales y los organismos autónomos;
+V.- NOMBRAR, REMOVER Y REUBICAR AL PERSONAL TECNICO Y ADMINISTRATIVO DEL INSTITUTO DE LAS ARTESANIAS; DISTRIBUYENDO EL TRABAJO Y DETERMINANDO SUS ATRIBUCIONES Y RETRIBUCIONES CONFORME A LAS ASIGNACIONES GLOBALES DEL PRESUPUESTO APROBADO POR EL PROPIO ORGANO;
 
-II. Convocar a las dependencias y entidades de la Administración Pública Estatal para los asuntos que le confieren la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, esta Ley, y demás disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2003)</small>
 
-III. Conducir los asuntos del orden político interno del Estado con gobernanza;
+VI.- LAS DE UN APODERADO PARA PLEITOS Y COBRANZAS Y ACTOS DE ADMINISTRACION, EN LOS TERMINOS DEL ARTICULO 2528 DEL CODIGO CIVIL DEL ESTADO DE CHIAPAS VIGENTE, ASI COMO PARA FORMULAR DENUNCIAS Y QUERELLAS, EN LOS CASOS DE PLEITOS QUE SOLO PUEDEN PERSEGUIR A PETICION DE LA PARTE OFENDIDA Y PARA OTORGAR EL PERDON EXTINTIVO DE LA ACCION PENAL.
 
-IV. Cumplir y hacer cumplir los decretos, acuerdos, órdenes, circulares y demás disposiciones administrativas emitidas por el Gobernador del Estado;
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2003)</small>
 
-V. Ejercer la vigilancia que en materia electoral le señalen las leyes o los convenios que para este efecto se celebren;
+DE IGUAL MANERA, PODRA OTORGAR Y REVOCAR PODERES GENERALES Y ESPECIALES PARA PLEITOS Y COBRANZAS, MEDIANTE CARTA PODER O SIMPLE OFICIO, PERO CUANDO SEAN A FAVOR DE PERSONAS AJENAS AL INSTITUTO, DEBERA DAR CUENTA A LA HONORABLE JUNTA DE GOBIERNO.
 
-VI. Expedir, previo acuerdo del Gobernador del Estado las licencias gubernativas, autorizaciones, concesiones y permisos de su competencia;
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE DICIEMBRE DE 2003)</small>
 
-VII. Revisar los proyectos de ley, reglamento, decreto, acuerdo y cualquier otro ordenamiento jurídico que deba presentarse al Gobernador del Estado;
+### CAPITULO IV.
 
-VIII. Ser el conducto para presentar al Congreso del Estado las iniciativas de ley y decretos del Gobernador del Estado, y realizar la publicación de leyes, decretos, reglamentos y demás disposiciones que deban regir en el Estado;
+DEL PATRIMONIO DEL INSTITUTO DE LAS ARTESANIAS.
 
-IX. Coadyuvar con las autoridades del Gobierno de la República, en la vigilancia y cumplimiento de las leyes y reglamentos federales;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 2003)</small>
 
-X. Proporcionar asesoría jurídica a los ayuntamientos que lo soliciten;
+###### ARTICULO 20.
 
-XI. Representar jurídicamente al Gobernador del Estado;
+EL PATRIMONIO DEL ORGANISMO SE INTEGRARA CON:
 
-XII. Proporcionar asesoría jurídica a las dependencias y entidades de la Administración Pública Estatal;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2003)</small>
 
-XIII. Coordinar a las áreas jurídicas de las dependencias y entidades paraestatales de la Administración Pública Estatal, para la actualización del orden normativo y el establecimiento de criterios legales que deberán regir su actuación;
+I.- LOS BIENES, DERECHOS, PRERROGATIVAS Y COMPROMISOS DEL INSTITUTO DE LA ARTESANIA CHIAPANECA, ASI COMO LOS DE CUALQUIERA OTRA DEPENDENCIA, ORGANISMO O ENTIDAD CREADOS EN EL ESTADO DE CHIAPAS CON FINES SIMILARES A LOS DEL INSTITUTO DE LAS ARTESANIAS QUE PASARAN A FORMAR PARTE DEL PATRIMONIO DEL ORGANISMO DENOMINADO "INSTITUTO LAS ARTESANIAS" QUE ESTA LEY CREA.
 
-XIV. Dirigir y publicar el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo;
+II. LOS SUBSIDIOS TEMPORALES O PERMANENTES QUE PROVENGAN DE LOS GOBIERNOS FEDERAL, ESTATAL Y MUNICIPAL.
 
-XV. Formular y publicar anualmente el Calendario Oficial Cívico que regirá en el Estado y vigilar su cumplimiento;
+III. LOS CREDITOS LEGALMENTE CONTRATADOS POR EL ORGANISMO.
 
-XVI. Llevar el registro de autógrafos y legalizar las firmas de los servidores públicos estatales y demás a quienes esté encomendada la fe pública;
+IV. LOS PASIVOS Y LAS OBLIGACIONES LEGALMENTE CONTRAIDAS.
 
-XVII. Organizar, dirigir y vigilar el Instituto de la Defensoría Pública del Estado de Michoacán;
+V. LOS PRODUCTOS, APROVECHAMIENTOS, DONATIVOS, OPERACIONES Y DEMAS INGRESOS QUE ADQUIERA POR EL DESARROLLO DE SU OBJETIVO.
 
-XVIII. Coordinar las acciones en materia de Derechos Humanos y vigilar que las dependencias y entidades de la Administración Pública Estatal garanticen su respeto;
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2003)</small>
 
-XIX. Vigilar el desempeño de la función notarial;
+###### ARTICULO 21.
 
-XX. Editar, compilar, coordinar y supervisar las ediciones oficiales de la legislación del Estado;
+LAS UTILIDADES LIQUIDAS DEL INSTITUTO DE LAS ARTESANIAS SE DESTINARAN PRIMORDIALMENTE AL INCREMENTO DE SUS ACTIVIDADES Y SUBSIDIARIAMENTE A LA REALIZACION DE OBRAS DE BENEFICIO SOCIAL.
 
-XXI. Cumplir las disposiciones del Gobernador del Estado, sobre las facultades que a éste le corresponden en materia de administración de trabajo y previsión social;
+### CAPITULO V.
 
-XXII. Proporcionar los apoyos administrativos que requiera el funcionamiento de las Juntas Locales de Conciliación y Arbitraje y el Tribunal de Conciliación y Arbitraje;
+DISPOSICIONES GENERALES.
 
-XXIII. Coadyuvar con las autoridades competentes en la atención y solución de los asuntos agrarios en el Estado;
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2003)</small>
 
-XXIV. Aplicar las normas que al Estado se asignan en materia de excedentes de la pequeña propiedad;
+###### ARTICULO 22.
 
-XXV. Ejecutar los acuerdos del Gobernador del Estado relativos a la expropiación, ocupación temporal y limitación de dominio en los casos de utilidad pública;
+EL INSTITUTO DE LAS ARTESANIAS GOZARA DE LAS FRANQUICIAS, PRERROGATIVAS Y EXENCIONES.
 
-XXVI. Vigilar los asuntos relativos a la demarcación y conservación de los límites territoriales del Estado;
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2003)</small>
 
-XXVII. Hacer del conocimiento del Consejo del Poder Judicial del Estado, las quejas presentadas por deficiencias que acuse la administración de justicia, para que proceda conforme a la ley de la materia;
+###### ARTICULO 23.
 
-XXVIII. Tramitar lo relacionado con el integrante del Consejo del Poder Judicial que designará el Gobernador del Estado;
+LAS RELACIONES DE TRABAJO ENTRE DEL (SIC) INSTITUTO DE LAS ARTESANIAS Y SUS EMPLEADOS, SE REGIRAN POR LA LEY DEL SERVICIO CIVIL DEL ESTADO Y LOS MUNICIPIOS DE CHIAPAS.
 
-XXIX. Formular y proponer al Gobernador del Estado, la adopción de medidas y el establecimiento de mecanismos de coordinación entre el Estado y los municipios;
-
-XXX. Intervenir en auxilio o coordinación con las autoridades federales, en los términos de las leyes en materia de cultos religiosos, detonantes y pirotecnia, portación de armas, loterías, rifas, juegos prohibidos y migración;
-
-XXXI. Organizar, dirigir y vigilar las funciones y archivos del Registro Civil en el Estado;
-
-XXXII. Organizar, dirigir y vigilar las funciones del Registro Público de la Propiedad;
-
-XXXIII. Auxiliar a las autoridades municipales cuando lo soliciten, en la realización de trámites y gestiones ante las autoridades federales y estatales;
-
-XXXIV. Organizar y administrar el Archivo General del Estado;
-
-XXXV. Organizar y administrar el Archivo del Poder Ejecutivo;
-
-XXXVI. Conducir en coadyuvancia con la Secretaría de Finanzas y Administración las relaciones laborales con los trabajadores al servicio de las dependencias y entidades de la Administración Pública Estatal y sus representaciones sindicales, así como elaborar y difundir los acuerdos e instructivos derivados de las condiciones generales de trabajo y vigilar su cumplimiento;
-
-XXXVII. Regular las actividades de Coordinación Estatal de Protección Civil, con la participación de los sectores público, social y privado en la materia, de acuerdo con los programas de la Federación, del Estado y de los municipios;
-
-XXXVIII. Organizar y operar mecanismos de capacitación para los organismos de protección civil;
-
-XXXIX. Intervenir en los asuntos de seguridad interior del Estado;
-
-XL. Proponer al Gobernador del Estado en conjunto con el Secretario de Seguridad Pública, los programas relativos al sistema penitenciario, en materia de reinserción social de las personas sujetas a una pena de prisión;
-
-XLI. Asegurar la aplicación de la política nacional y estatal de población; y,
-
-XLII. Las demás que le confieran las normas jurídicas aplicables.
-
-###### Artículo 19.
-
-A la Secretaría de Finanzas y Administración, le corresponde el ejercicio de las atribuciones siguientes:
-
-I. Dictar las políticas, normas y lineamientos relacionados con el manejo de fondos y valores de la Administración Pública Estatal;
-
-II. Custodiar los documentos que constituyan valores, acciones y demás derechos que formen parte del patrimonio del Estado;
-
-III. Formular y actualizar el sistema para el ejercicio presupuestal, en coadyuvancia con la Coordinación General de Gabinete y Planeación;
-
-IV. Formular en coordinación con las dependencias y entidades de la Administración Pública Estatal, los programas y presupuestos de inversión pública;
-
-V. Administrar, ejecutar y controlar el ejercicio del presupuesto del Gobierno del Estado, con base en los programas para cada una de las dependencias y entidades de la Administración Pública Estatal, de conformidad con el Presupuesto aprobado por el Congreso del Estado y de acuerdo con las políticas, objetivos y lineamientos aprobados en colaboración con la Coordinación General de Gabinete y Planeación;
-
-VI. Evaluar el ejercicio del gasto público y del Presupuesto de Egresos del Estado, de acuerdo con las leyes de la materia, en coadyuvancia con la Coordinación General de Gabinete y Planeación;
-
-VII. Emitir los lineamientos que en materia presupuestal y contable deben observar y cumplir las dependencias y entidades de la Administración Pública Estatal y organismos autónomos;
-
-VIII. Mantener el control, registro y seguimiento de la deuda pública del Gobierno del Estado, que permita vigilar su adecuado cumplimiento, informando al Gobernador del Estado y al Congreso del Estado, sobre el estado de la misma, de las amortizaciones de capital y pago de intereses;
-
-IX. Controlar, supervisar y dar seguimiento a la deuda pública contratada por los gobiernos municipales y sus entidades paramunicipales, cuando éstos cuenten con la responsabilidad solidaria del Gobierno del Estado;
-
-X. Intervenir en todas las operaciones en que el Estado haga uso del crédito público;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2016)</small>
-
-XI. Ministrar a las dependencias y entidades de la Administración Pública Estatal, los recursos programados de acuerdo al calendario y presupuestos aprobados para cada ejercicio presupuestal. Tratándose de obra pública, los recursos financieros serán transferidos oportunamente a efecto de que sean aplicados bajo la responsabilidad de las propias dependencias y entidades ejecutoras;
-
-XII. Emitir o autorizar, según el caso, los catálogos de cuentas para la contabilidad del gasto público del Estado en apego a los lineamientos que se emitan en materia de armonización contable.
-
-XIII. Organizar y mantener la contabilidad de la Hacienda Pública Estatal y formular las estadísticas financieras;
-
-XIV. Formular mensualmente el estado de origen y aplicación de los fondos públicos del Gobierno del Estado;
-
-XV. Formular y publicar los informes trimestrales de los ingresos y ejercicio del gasto;
-
-XVI. Formular la cuenta pública que debe rendir el Gobierno del Estado, en los términos de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo;
-
-XVII. Participar en el establecimiento de los criterios y montos de los estímulos fiscales, en coordinación con las dependencias a quienes corresponde el fomento de actividades productivas;
-
-XVIII. Elaborar el proyecto anual de Ley de Ingresos del Gobierno del Estado para su análisis y aprobación del Congreso del Estado;
-
-XIX. Elaborar en conjunto con la Coordinación General de Gabinete y Planeación, el proyecto anual del Presupuesto de Egresos del Estado para su análisis y aprobación del Congreso del Estado;
-
-XX. Supervisar y coordinar las actividades de las administraciones de rentas y oficinas recaudadoras;
-
-XXI. Recaudar los impuestos, derechos, productos, aprovechamientos, contribuciones especiales y demás conceptos que al Gobierno del Estado correspondan, tanto por ingresos propios como los que por ley o convenios reciba de la Federación y de los municipios, en forma eficiente, eficaz y buscando la simplificación de los pagos de impuestos y derechos;
-
-XXII. Ejercer las atribuciones y funciones que en materia de administración fiscal federal y municipal se convengan;
-
-XXIII. Integrar y mantener actualizado el registro de contribuyentes que establezcan las leyes fiscales del Estado;
-
-XXIV. Promover esquemas de recaudación con el fin de ampliar la base tributaria;
-
-XXV. Celebrar convenios con la Secretaría de Hacienda y Crédito Público en materia de recaudación fiscal, impuestos y otros derechos federales;
-
-XXVI. Ordenar y practicar visitas de auditoría a los contribuyentes, de conformidad al reglamento establecido para tales fines.
-
-XXVII. Aplicar y, en su caso, condonar las multas por infracciones y recargos a las leyes y demás disposiciones fiscales aplicables;
-
-XXVIII. Ejercer la facultad económico coactiva, conforme a las leyes;
-
-XXIX. Ejercer la función catastral del Estado, de conformidad con las leyes de la materia;
-
-XXX. Proporcionar asesoría en materia de interpretación y aplicación de las leyes fiscales estatales, que le sea solicitada por las dependencias, entidades paraestatales del Estado y contribuyentes, así como realizar una labor permanente de difusión, orientación y asistencia fiscal;
-
-XXXI. Evaluar el ejercicio del gasto público y del Presupuesto de Egresos del Estado, de acuerdo con las leyes de la materia;
-
-XXXII. Intervenir en los juicios y procedimientos que se ventilen ante cualquier tribunal o autoridad competente, cuando lo disponga la ley o tenga interés la Hacienda Pública del Estado y su atención no corresponda a otra dependencia;
-
-XXXIII. Programar, promover, organizar y coordinar el desarrollo, modernización y simplificación administrativa integral en las dependencias y entidades de la Administración Pública Estatal, a fin de que los recursos humanos, materiales, financieros y los procedimientos técnicos, sean aprovechados y aplicados en base a los principios rectores de la Administración Pública Estatal; para lo que podrá realizar o encomendar investigaciones, estudios y análisis necesarios sobre estas materias, y dictar las disposiciones administrativas necesarias al efecto;
-
-XXXIV. Coadyuvar con la Secretaría de Desarrollo Económico para implementar un proceso continuo de revisión de la regulación estatal, diagnosticar los efectos de su aplicación y elaborar propuestas de mejora regulatoria;
-
-XXXV. Coordinar la formulación y actualización permanente del programa de calidad y mejora continua, a fin de que en las dependencias y entidades de la Administración Pública Estatal, los servidores públicos adquieran una nueva cultura de profesionalización, de trabajo eficiente y eficaz centrado en el servicio adecuado y oportuno al ciudadano;
-
-XXXVI. Establecer el nivel de las remuneraciones de los trabajadores al servicio del Estado de acuerdo a las distintas jerarquías y responsabilidades conforme a la ley aplicable en la materia;
-
-XXXVII. Vigilar las aplicaciones presupuestales de recursos humanos en todas las dependencias y entidades de la Administración Pública Estatal;
-
-XXXVIII. Dar trámite a los nombramientos, remociones, renuncias, licencias, pensiones y jubilaciones de los servidores públicos de la Administración Pública Estatal;
-
-XXXIX. Ejecutar los acuerdos relativos a la creación de nuevas unidades administrativas, que requieran las dependencias y entidades de la Administración Pública Estatal;
-
-XL. Elaborar y mantener actualizado el escalafón de los trabajadores del Poder Ejecutivo y del magisterio dependiente del Estado;
-
-XLI. Tramitar la prestación de servicios médicos, asistenciales, sociales y culturales para el personal al servicio del Gobierno del Estado, a través de instituciones de seguridad social o de instituciones privadas;
-
-XLII. Ejecutar los acuerdos de los titulares de las dependencias, relativos a la aplicación, reducción y revocación de las sanciones administrativas, en los términos de las disposiciones aplicables;
-
-XLIII. Contratar y administrar los seguros del Gobierno del Estado;
-
-XLIV. Celebrar los contratos y convenios necesarios para el cumplimiento de sus funciones;
-
-XLV. Administrar los bienes muebles e inmuebles propiedad del Estado;
-
-XLVI. Establecer un departamento de avalúos profesional y acreditado para la adquisición, arrendamiento y enajenación de bienes inmuebles;
-
-XLVII. Establecer y mantener actualizado el registro de bienes muebles e inmuebles propiedad del Estado y asegurar su conservación; y,
-
-XLVIII. Las demás que le confieran las normas jurídicas aplicables.
-
-###### Artículo 20.
-
-A la Secretaría de Contraloría, le corresponde el ejercicio de las atribuciones siguientes:
-
-I. Vigilar y prevenir el cumplimiento de las leyes, atribuciones, facultades, reglamentos y normatividad administrativa y financiera por parte de las dependencias y entidades de la Administración Pública Estatal;
-
-II. Realizar y dar seguimiento a los resultados de las revisiones, inspecciones, fiscalizaciones, evaluaciones y auditorías practicadas en las dependencias o entidades de la Administración Pública Estatal, en forma directa o por conducto de auditores externos, a fin de asegurar que se corrijan las deficiencias detectadas, o en su caso deslindar las responsabilidades;
-
-III. Informar al Gobernador del Estado, sobre el resultado de las evaluaciones y revisiones a las dependencias y entidades de la Administración Pública Estatal y turnar el resultado, cuando proceda, a las autoridades competentes o dictar las acciones para corregir las irregularidades;
-
-IV. Proponer al Gobernador del Estado, la contratación de los auditores y evaluadores externos de las dependencias y entidades de la Administración Pública Estatal, a los comisarios o a sus equivalentes en los órganos de gobierno, normando y controlando su desempeño;
-
-V. Coadyuvar con la Auditoría Superior de Michoacán y en su caso con la Auditoría Superior de la Federación, para el establecimiento de los procedimientos y mecanismos que permitan el cumplimiento de sus atribuciones, según lo establece la Ley de Planeación Hacendaria, Gasto Público y Contabilidad Gubernamental del Estado de Michoacán de Ocampo;
-
-VI. Supervisar que el ejercicio presupuestal se apegue a lo establecido en la legislación aplicable;
-
-VII. Coordinarse con las dependencias públicas federales competentes para la fiscalización, control y evaluación de los recursos, que el Ejecutivo Federal transfiera al Estado para su ejercicio;
-
-VIII. Registrar las declaraciones patrimoniales que deben presentar los servidores de las dependencias y entidades de la Administración Pública Estatal y practicar las investigaciones que fueren pertinentes;
-
-IX. Atender las quejas y denuncias que sobre el desempeño de los servidores públicos, presenten los ciudadanos en los términos de la ley de la materia;
-
-X. Conocer, investigar y sancionar las conductas de los servidores públicos que puedan constituir responsabilidades administrativas y remitirla (sic), en los casos que la ley señale, a la autoridad competente para que se determine la aplicación de las sanciones correspondientes;
-
-XI. Establecer los lineamientos y controles para la entrega y recepción de los asuntos, bienes y valores propiedad o al cuidado del Gobierno del Estado, a cargo de servidores públicos, hasta el nivel y puesto que determine, en las dependencias y entidades de la Administración Pública Estatal;
-
-XII. Vigilar y supervisar la entrega y recepción que se haga de los asuntos y bienes inventariados, en la toma de posesión de los titulares de las dependencias y entidades de la Administración Pública Estatal;
-
-XIII. Supervisar que el ejercicio de las atribuciones de los servidores públicos del Estado, se lleve a cabo con apego a las leyes y lineamientos vigentes en materia de transparencia y rendición de cuentas; y,
-
-XIV. Las demás que le confieran las normas jurídicas aplicables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2016)</small>
-
-###### Artículo 21.
-
-A la Secretaría de Seguridad Pública, le corresponde el ejercicio de las atribuciones siguientes:
-
-I. Coordinarse para el cumplimiento de sus funciones con la Federación y los municipios;
-
-II. Proponer al Gobernador del Estado los programas relativos a la protección de los habitantes, al orden público y a la prevención de los delitos;
-
-III. Conservar y mantener en el Estado, el orden, la tranquilidad, la seguridad pública y la prevención social contra la delincuencia;
-
-IV. Formular, conducir y evaluar las políticas y programas relativos a la seguridad pública, de conformidad con el Sistema Nacional de Seguridad Pública, los planes Nacional y Estatal de Desarrollo;
-
-V. Proponer al Gobernador del Estado, las políticas y medidas que propicien una conducta policial basada en los principios de legalidad, eficiencia, profesionalismo y honradez, así como aplicar y dirigir estas políticas en el ámbito de su competencia;
-
-VI. Combatir de manera enérgica y eficaz cualquier abuso o corrupción en la conducta policial;
-
-VII. Formular, desarrollar, implementar y evaluar la profesionalización del personal dedicado a las tareas de seguridad pública, a través de una rigurosa selección, formación, ingreso, permanencia, evaluación, reconocimiento y certificación de los integrantes de esta Secretaría, así como de su capacitación en instalaciones adecuadas de manera sistemática, permanente y continua;
-
-VIII. Promover, en coordinación con la sociedad, campañas tendientes a la prevención de los delitos, así como elaborar, implementar, difundir y evaluar instrumentos, mecanismos de participación ciudadana y programas de educación preventiva y de organización vecinal para la prevención del delito, apoyándose en medios eficaces de promoción y comunicación masiva;
-
-IX. Promover y difundir, en coordinación con la Secretaría de Educación del Estado, la incorporación de contenidos tendientes a la prevención del delito en la política educativa y en los planes y programas de estudio encauzados hacia una cultura de la legalidad, respeto a los derechos humanos y seguridad pública;
-
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
-
-X. Planear, organizar y promover campañas de difusión, relativas al cumplimiento de las disposiciones legales aplicables y los programas que tienen que ver con la seguridad pública, el tránsito y la práctica de la denuncia;
-
-XI. Ejercer el mando y dirección del Sistema Estatal de Seguridad Pública, así como de las corporaciones de seguridad pública y de policía preventiva del Estado;
-
-XII. Coordinar dentro del Sistema Estatal de Seguridad Pública, los esfuerzos de los diversos sectores sociales para enfrentar los problemas de esta materia;
-
-XIII. Formular y proponer al Gobernador del Estado, el establecimiento de mecanismos de coordinación entre el Estado y los municipios en materia de seguridad pública;
-
-XIV. Establecer y operar el Sistema de Información sobre Seguridad Pública, mediante la creación de bancos de información que permitan el establecimiento de programas especiales, que conlleven a la formación de una estrategia de prevención y combate a la delincuencia, y a la coordinación de los diferentes cuerpos policiales de la Federación, estados y municipios;
-
-XV. Aplicar las normas, políticas y programas que deriven del Sistema Nacional de Seguridad Pública;
-
-XVI. Controlar en coordinación con la Procuraduría General de Justicia del Estado, la portación de armas, de acuerdo a las leyes de la materia y los convenios celebrados con las dependencias federales;
-
-XVII. Dirigir y controlar el tránsito en las carreteras y caminos de jurisdicción estatal, así como proveer los servicios de policía y vigilancia que se requieran;
-
-XVIII. Llevar el registro, control y supervisión de las empresas que presten y desarrollen servicios de seguridad privada en el Estado, y en su caso, coordinar el apoyo que brinden a las corporaciones de seguridad pública del Estado;
-
-XIX. Organizar, supervisar y controlar, por acuerdo del Gobernador del Estado, a las corporaciones de seguridad pública del Estado;
-
-XX. Proveer de equipo y tecnología óptima, en materia de seguridad pública a las corporaciones de seguridad pública y de policía preventiva del Estado;
-
-XXI. Operar y coordinar el Sistema de Radiocomunicaciones de Seguridad del Estado;
-
-XXII. Proponer al Gobernador del Estado en conjunto con el Secretario de Gobierno, los programas relativos al sistema penitenciario en materia de reinserción social de las personas sujetas a una pena de prisión;
-
-XXIII. Ejecutar y evaluar los programas tendientes a la reinserción social de las personas sujetas a una pena de prisión en los centros de reinserción social estatales y municipales;
-
-XXIV. Administrar los centros de reinserción social estatales y coordinar la observancia de las normas y políticas relativas a la materia en el ámbitomunicipal (sic);
-
-XXV. Proponer al Gobernador del Estado la celebración de convenios, para que los sentenciados por delitos del orden común extingan su condena en los establecimientos dependientes del Ejecutivo Federal, y para que los sentenciados de origen michoacano que se encuentren compurgando penas en países extranjeros, puedan ser trasladados a establecimientos situados en el Estado;
-
-XXVI. Conocer sobre el otorgamiento o revocación del beneficio de la preliberación, lo relativo a la libertad anticipada y la remisión parcial de la sanción, de acuerdo con la ley de la materia;
-
-XXVII. Administrar las instituciones de internamiento para menores infractores y vigilar el establecimiento de instituciones y normas preventivas tutelares de menores infractores;
-
-XXVIII. Formular, implementar, desarrollar y evaluar la profesionalización del personal dedicado a las tareas de reinserción social, a través de una rigurosa selección de los aspirantes, de su capacitación de manera sistemática, permanente y continua;
-
-XXIX. Otorgar a los tribunales y autoridades judiciales, el auxilio que soliciten para el debido ejercicio de sus funciones;
-
-XXX. Coadyuvar con autoridades de la Federación, en la vigilancia y cumplimiento de los acuerdos, leyes y reglamentos en materia de seguridad pública;
-
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
-
-XXXI. Supervisar los programas de las instituciones del Gobierno del Estado, que tengan como función formar o capacitar elementos de seguridad pública;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2016)</small>
-
-XXXII. Promover la práctica de la denuncia., la asesoría y el acompañamiento a la víctima en la presentación de la misma; y,
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 18 DE NOVIEMBRE DE 2016)</small>
-
-XXXIII. Las demás que le confieran las normas jurídicas aplicables.
-
-###### Artículo 22.
-
-A la Secretaría de Desarrollo Económico, le corresponde el ejercicio de las atribuciones siguientes:
-
-I. Promover, desarrollar, dirigir, fomentar, coordinar y vigilar conforme a la legislación aplicable, la ejecución de las políticas y los programas de desarrollo económico, de acuerdo con el Plan de Desarrollo Integral del Estado de Michoacán;
-
-II. Promover la competitividad y el incremento de la productividad en las actividades económicas del Estado;
-
-III. Elaborar los estudios y proyectos de inversión para la realización de los programas públicos en apoyo a los sectores productivos;
-
-IV. Promover y fomentar la atracción de inversiones y coinversiones local, regional, nacional y extranjera, en los sectores productivos del Estado;
-
-V. Proponer los mecanismos y estímulos económico fiscales que faciliten el establecimiento de las empresas y otras formas de desarrollo y fomento económico en las regiones del Estado, de acuerdo a su vocación;
-
-VI. Impulsar y promover el fortalecimiento del mercado interno, el comercio a corta distancia, el cooperativismo y la economía social;
-
-VII. Coadyuvar, con las dependencias correspondientes, en el aprovechamiento y preservación racional y sustentable de los recursos naturales y culturales en las actividades productivas del Estado;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
-
-VIII. En coordinación con la Secretaría de Medio Ambiente, Recursos Naturales y Cambio Climático, impulsar y desarrollar en el ámbito de su competencia, energías limpias y alternas y su aplicación en la cadena productiva.
-
-IX. Participar en la elaboración del Programa de Obra Pública del Estado, con propuestas y observaciones sobre infraestructura pública que detone, conserve o fortalezca la inversión privada productiva;
-
-X. Promover, asesorar y gestionar el comercio exterior;
-
-XI. Promover el desarrollo de la micro, pequeñas y medianas empresas, cooperativas y la organización de productores y prestadores de servicios;
-
-XII. Asesorar técnicamente a los emprendedores para garantizar la viabilidad de sus proyectos;
-
-XIII. Divulgar la existencia, utilización y beneficios de tecnologías aplicadas a procesos productivos; fomentar la generación y promoción de proyectos, así como los servicios y asistencia técnica y de capacitación para el desarrollo de empresas;
-
-XIV. En coordinación con la Secretaría de Innovación, Ciencia y Desarrollo Tecnológico, orientar y estimular a empresarios y emprendedores conforme a la legislación aplicable en materia de propiedad intelectual e industrial;
-
-XV. Realizar y coordinar los estudios e investigaciones para el desarrollo de la actividad económica del Estado y mantener actualizada la información estadística estatal, relativa a las actividades proactivas del Estado, coordinadamente con las dependencias federales, estatales y municipales que corresponda, emitiendo los datos, documentos o informes que sean necesarios para la integración y actualización de los sistemas de información y estadística;
-
-XVI. Promover la coordinación de los programas de desarrollo económico del Gobierno del Estado, con los de la Administración Pública Federal y de los municipios de la entidad;
-
-XVII. Coadyuvar en apego a la legislación aplicable, en la organización y funcionamiento de centros de comercialización de productos básicos y actividades similares, para que toda la población acceda a ellos a los precios más bajos posibles, en coordinación con los sectores productivos y sociales y las dependencias competentes de la Administración Pública Estatal;
-
-XVIII. Promover la producción artesanal de las industrias familiares y proponer los estímulos necesarios para su desarrollo, así como la asociación y capacitación de los productores;
-
-XIX. Participar en la planeación y programación de las obras e inversiones en cumplimiento a la legislación aplicable, tendientes a promover la racional explotación de los recursos minerales en el Estado;
-
-XX. Coordinar las ediciones gubernamentales sobre información y difusión de actividades productivas, así como, auxiliar a los organismos y empresas privadas que lo soliciten, en la preparación de materiales y su difusión;
-
-XXI. Promover la realización de congresos, seminarios, ferias, exposiciones, eventos y concursos, con alcance estatal, regional, nacional e internacional, de las actividades, con fines promocionales;
-
-XXII. Asesorar en materia económica a entidades públicas y privadas que desarrollen actividades productivas en el Estado;
-
-XXIII. Apoyar y asesorar a los sectores, público, privado y social, en las gestiones de crédito y asistencia técnica que deban realizar ante las dependencias, entidades, organismos internacionales, federales y estatales, cuando se trate de inversiones que contribuyan al fomento y desarrollo de las actividades productivas;
-
-XXIV Fomentar la creación de fuentes de empleo propiciando el establecimiento de la micro, pequeña, mediana y grandes empresas, así como la creación de parques, corredores y ciudades industriales en el Estado, así como centros comerciales y de abasto;
-
-XXV. Apoyar la organización de los productores primarios, fomentar y promover los programas de investigación y enseñanza tecnológica industrial, para facilitarles el acceso al crédito y a la tecnología, así como mejorar los sistemas de producción y comercialización;
-
-XXVI. Desarrollar y proponer con base en la legislación aplicable, nuevos modelos de financiamiento para el desarrollo de proyectos productivos;
-
-XXVII. Fomentar la creación y el desarrollo de agroindustrias y empresas en el medio rural en coordinación con la Secretaría de Desarrollo Rural y Agroalimentario;
-
-XXVIII. Promover, apoyar y coordinar la participación activa de las comunidades en las actividades productivas en las regiones del Estado de acuerdo con su vocación;
-
-XXIX. Fomentar la creación de unidades de atracción de inversión y desarrollo de proyectos productivos en los municipios del Estado;
-
-XXX. Integrar y coordinar la unidad de mejora regulatoria a fin de lograr una simplificación de trámites en apoyo a la actividad económica del Estado;
-
-XXXI. Asesorar y coordinar a los municipios para el fomento de la simplificación de trámites;
-
-XXXII. Elaborar y publicar anualmente en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, un informe sobre el estado que guarda la mejora regulatoria en la entidad;
-
-XXXIII. Coordinar el Registro Estatal de Trámites y Servicios y el Registro Único de Personas Acreditadas;
-
-XXXIV. Fomentar la creación y desarrollo de empresas turísticas en coordinación con la Secretaría de Turismo;
-
-XXXV. Organizar y coordinar el Servicio Nacional del Empleo en el Estado;
-
-XXXVI. Evaluar conjuntamente con la Secretaría de Política Social, los programas de desarrollo económico y social del Estado, y vigilar que sean integrales y armónicos, para que beneficien en forma equitativa a las diferentes localidades, regiones y a los distintos sectores de la población, revisando periódicamente los resultados obtenidos;
-
-XXXVII. Impulsar la protección de los productos endógenos, con fama ganada por medio de las marcas, marcas colectivas, denominaciones de origen e indicaciones geográficas, y coadyuvar con la Secretaría de Innovación, Ciencia y Desarrollo Tecnológico en los temas de propiedad intelectual e industrial; y,
-
-XXXVIII. Las demás que le confieran las normas jurídicas aplicables.
-
-###### Artículo 23.
-
-A la Secretaría de Turismo, le corresponde el ejercicio de las atribuciones siguientes:
-
-I. Programar, organizar, promover y coordinar proyectos, actividades e inversiones para desarrollar el potencial turístico del Estado, de acuerdo a los objetivos y metas del Plan de Desarrollo Integral del Estado de Michoacán;
-
-II. Proponer al Gobernador del Estado, la declaración de zonas turísticas y elaborar los proyectos de reglamentos correspondientes;
-
-III. Controlar y supervisar de acuerdo con la legislación aplicable, los servicios turísticos de transporte, hospedaje, alimentación y similares que se presten en el Estado;
-
-IV. Otorgar permisos y concesiones de acuerdo con la legislación, para la explotación y establecimiento de centros, zonas y lugares turísticos, así como negocios, guías y ayudas turísticas;
-
-V. Elaborar los estudios y proyectos de inversión, para la realización de los programas públicos del sector turístico;
-
-VI. Formular e instrumentar programas turísticos para beneficio de la población con menor posibilidad de acceso a este sector, así como promover y ejecutar acciones que fomenten la participación colectiva y la sustentabilidad de los programas y acciones en la materia;
-
-VII. Organizar y vigilar la adecuada prestación de los servicios de información, ayuda y protección al turista, así como promover y fomentar la preparación y actualización de los recursos humanos del sector;
-
-VIII. Fomentar y mantener relaciones con organizaciones turísticas regionales, nacionales e internacionales, con el fin de dar a conocer los atractivos turísticos del Estado;
-
-IX. Promover la formación de organismos que fomenten el turismo en el Estado;
-
-X. Coordinar las ediciones gubernamentales sobre información y difusión turística, y auxiliar a los organismos y empresas privadas que lo soliciten, en la preparación de materiales y difusión turística;
-
-XI. Promover e incrementar el desarrollo de actividades culturales y eventos tradicionales y folklóricos del Estado, en coordinación con la Secretaría de Cultura;
-
-XII. Realizar en coadyuvancia con la Coordinación de Comunicación Social, labor permanente de difusión de los centros y lugares turísticos; y, en coordinación con la Secretaría de Cultura, de los valores culturales del Estado;
-
-XIII. Promover, proyectar, desarrollar y administrar los centros vacacionales y recreativos con que cuenta el Gobierno del Estado;
-
-XIV. Intervenir conforme a la normatividad aplicable, en las actividades del fideicomiso administrador de los recursos financieros derivados de la recaudación del impuesto al hospedaje;
-
-XV. Orientar y estimular las medidas de protección al turismo;
-
-XVI. Realizar y ejecutar en coordinación con la Secretaría de Cultura y otras dependencias de la Administración Pública Estatal, una agenda con objetivos comunes que promuevan el patrimonio e identidad artístico y cultural de Michoacán; y,
-
-XVII. Las demás que le confieran las normas jurídicas aplicables.
+T R A N S I T O R I O S :
 
 ###### Artículo 24.
 
@@ -1321,7 +1049,11 @@ A la Procuraduría General de Justicia del Estado le corresponde ejercer las atr
 
 ## TÍTULO TERCERO. DE LAS COORDINACIONES AUXILIARES DE LA OFICINA DEL GOBERNADOR
 
-### CAPÍTULO ÚNICO. DE LA COORDINACIÓN GENERAL DE GABINETE Y PLANEACIÓN Y DE LA COORDINACIÓN DE COMUNICACIÓN SOCIAL
+### CAPITULO II.
+
+DE LAS ATRIBUCIONES DEL ORGANISMO.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 36.
 
@@ -1447,7 +1179,11 @@ El nombramiento y remoción del Presidente de la Junta Local de Conciliación y 
 
 ## TÍTULO QUINTO. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL
 
-### CAPÍTULO ÚNICO. DE LAS ENTIDADES PARAESTATALES
+### CAPITULO III.
+
+DE LOS ORGANOS DE GOBIERNO DEL INSTITUTO DE LAS ARTESANIAS.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 40.
 
@@ -1475,25 +1211,37 @@ En materia de remuneraciones y prestaciones salariales, las entidades de la admi
 
 ## TRANSITORIOS
 
-###### ARTÍCULO PRIMERO.
+###### ARTICULO PRIMERO.
 
-Remítase el presente Decreto al Gobernador del Estado para los efectos constitucionales correspondientes.
+LA PRESENTE LEY ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
 
-###### ARTÍCULO SEGUNDO.
+###### ARTICULO SEGUNDO.
 
-El presente Decreto entrará en vigor el día 1 de octubre del año 2015, con excepción del artículo 28.
+SE ABROGA EL DECRETO NUMERO 58 DE FECHA CUATRO DE JULIO DE MIL NOVECIENTOS OCHENTA, PUBLICADO EN EL ALCANCE NUMERO 53 DEL TREINTA Y UNO DE DICIEMBRE DEL MISMO AÑO, EN EL PERIODICO OFICIAL DEL ESTADO, QUE CREO EL INSTITUTO DE LA ARTESANIA CHIAPANECA.
 
-###### ARTÍCULO TERCERO.
+###### ARTICULO TERCERO.
 
-Se abroga la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el día 9 de enero de 2008, con excepción de los artículos 30, 36 y 38 que mantendrán su vigencia hasta el 31 de diciembre de 2015.
+(DEROGADO, P.O. 25 DE JULIO DE 1990)
 
-Los recursos humanos, materiales y financieros correspondientes a las Secretarías de la Mujer y de los Jóvenes, se transferirán a los organismos que creará el Gobernador del Estado para estos sectores.
+###### ARTICULO CUARTO.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+SE DEROGAN TODAS LAS DISPOSICIONES QUE SE OPONGAN A LA PRESENTE LEY.
 
-###### ARTÍCULO CUARTO.
+EL EJECUTIVO DISPONDRA SE PUBLIQUE, CIRCULE Y SE LE DE EL DEBIDO CUMPLIMIENTO.
 
-El Gobernador del Estado emitirá el Decreto de creación del organismo rector de la política pública para la Juventud, así como los lineamientos para su operación, en un periodo no mayor a noventa días, contado a partir de la entrada en vigor del presente Decreto.
+DADO EN EL SALON DE SESIONES DEL PALACIO DEL H. PODER LEGISLATIVO DEL ESTADO, EN TUXTLA GUTIERREZ, CHIAPAS, A LOS 20 DIAS DEL MES DE JULIO DE 1989.- D.P. DR. LUIS AGUILAR CUETO.- D.S. LIC. FRANCISCO J. ZORILLA RABELO.- D.S. LIC. JOSE DEL C. INURRETA GONZALEZ.- RUBRICAS.
+
+DE CONFORMIDAD CON LA FRACCION I DEL ARTICULO 42 DE LA CONSTITUCION POLITICA LOCAL Y PARA SU OBSERVANCIA, PROMULGO EL PRESENTE DECRETO EN EL PALACIO DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE TUXTLA GUTIERREZ, CHIAPAS, A LOS VEINTISEIS DIAS DEL MES DE JULIO DE MIL NOVECIENTOS OCHENTA Y NUEVE.
+
+LIC. PATROCINIO GONZALEZ BLANCO GARRIDO.- GOBERNADOR CONSTITUCIONAL DEL ESTADO DE CHIAPAS.- LIC. JUAN LARA DOMINGUEZ.- SECRETARIO DE GOBIERNO.- LIC. FEDERICO FALCONI ALEGRIA.- SECRETARIO DE PROGRAMACION Y PRESUPUESTO.- LIC. MILTON MORALES DOMINGUEZ.- SECRETARIO DE DESARROLLO RURAL Y FOMENTO ECONOMICO.- ING. ABELARDO SANTILLAN BARCENAS.- SECRETARIO DE EDUCACION CULTURA Y SALUD.- LIC. ROGER GRAJALES GONZALEZ.- OFICIAL MAYOR DE GOBIERNO.- LIC. RAFAEL MORENO BALLINAS.- CONTRALOR GENERAL DE GOBIERNO.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE JULIO DE 1990.
+
+UNICO.- ESTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
+
+P.O. 11 DE AGOSTO DE 1999.
 
 ###### ARTÍCULO QUINTO.
 
@@ -1599,6 +1347,38 @@ P.O. 18 DE NOVIEMBRE DE 2016.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
+###### ARTICULO PRIMERO.
+
+EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
+
+###### ARTICULO SEGUNDO.
+
+SE DEROGAN TODAS LAS DISPOSICIONES QUE SE OPONGAN AL PRESENTE DECRETO.
+
+P.O. 8 DE DICIEMBRE DE 2000.
+
+###### ARTICULO TERCERO.
+
+EL TITULAR DEL PODER EJECUTIVO DEL ESTADO A TRAVES DE LA SECRETARIA DE GOBIERNO, REALIZARA LOS ACTOS NECESARIOS PARA EL DEBIDO CUMPLIMIENTO DEL PRESENTE DECRETO.
+
+P.O. 3 DE DICIEMBRE DE 2003.
+
 ###### ARTÍCULO DÉCIMO.
 
 En lo correspondiente a lo establecido por el artículo 19 fracción XI de este Decreto, entrará en vigor a partir del 1 de enero de 2017.
+
+###### ARTICULO PRIMERO.
+
+EL PRESENTE DECRETO ENTRARA EN VIGOR EL DIA OCHO DE DICIEMBRE DEL AÑO DOS MIL.
+
+###### ARTICULO SEGUNDO.
+
+LA MODIFICACION A QUE SE REFIERE EL PRESENTE DECRETO SERA APLICABLE AL TEXTO DE LOS DECRETOS DE CREACION DE LOS ORGANISMOS DESCENTRALIZADOS OBJETO DEL MISMO, Y DEBERA SER ADECUADA LA LEGISLACION ESTATAL, CUANDO ESTA SE REFIERA A SU DENOMINACION ANTERIOR.
+
+###### ARTICULO PRIMERO.
+
+EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
+
+###### ARTICULO SEGUNDO.
+
+SE DEROGAN LAS DISPOSICIONES QUE SE OPONGAN AL PRESENTE DECRETO.
