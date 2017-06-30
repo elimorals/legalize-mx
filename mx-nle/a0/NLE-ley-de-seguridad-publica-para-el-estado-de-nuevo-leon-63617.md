@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-seguridad-publica-para-el-estado-de-nuevo-leon-63617"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-22"
-last_updated: "2017-06-21"
+last_updated: "2017-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de septiembre de 2008.
 
@@ -73,7 +73,9 @@ Para los efectos de esta Ley, se entiende por:
 
 I. Certificado con efectos de Patente Policial.- Es el documento que otorga la Universidad de Ciencias de la Seguridad del Estado de Nuevo León para el ejercicio de la función Policial;
 
-II. Centro de Control de Confianza: Al Centro de Información para la Seguridad de Estado, de Evaluación y Control de Confianza, Órgano Administrativo desconcentrado adscrito a la Secretaría General de Gobierno;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2017)</small>
+
+II. Centros de Control de Confianza: Al Centro de Información para la Seguridad de Estado, de Evaluación y Control de Confianza, Órgano Administrativo desconcentrado adscrito a la Secretaría General de Gobierno y a los Centros de Evaluación y Control de Confianza Municipales, que cuenten con la acreditación del Centro Nacional de Certificación y Acreditación;
 
 III. Comisión: la Comisión de Honor y Justicia;
 
@@ -177,9 +179,11 @@ c) Internamiento y adaptación de adolescentes infractores;
 
 IV. Las demás instancias auxiliares.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2017)</small>
+
 ###### Artículo 7.
 
-Son instituciones auxiliares de la autoridad, en materia de seguridad pública:
+Son instituciones auxiliares de las Instituciones Policiales, en materia de seguridad pública:
 
 I. El Instituto Estatal de Seguridad Pública;
 
@@ -187,11 +191,15 @@ II. Los Consejos de Participación Ciudadana en Materia de Seguridad Pública de
 
 III. Los Servicios de Seguridad Privada, en cualquiera de las modalidades previstas en la Ley de Seguridad Privada para el Estado de Nuevo León;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2017)</small>
 
-IV. La Universidad; y
+IV. La Universidad;
 
-V. Las demás organizaciones del sector público, privado, social, empresarial o académico que realicen actividades relacionadas con el objeto y fines de esta Ley.
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2017)</small>
+
+V. Los cuerpos de Guardia Municipal o Guardia Auxiliar que presten servicios asimilados a la seguridad privada y funcionen en coparticipación con vecinos de colonias, fraccionamientos y zonas residenciales; y
+
+VI. Las demás organizaciones del sector público, privado, social, empresarial o académico que realicen actividades relacionadas con el objeto y fines de esta Ley.
 
 ###### Artículo 8.
 
@@ -1735,6 +1743,10 @@ Las labores de investigación para la prevención, invariablemente, deberán aju
 
 Las Instituciones Policiales de los Municipios adoptarán, en su ámbito territorial, un esquema de organización y funcionamiento para la consecución del orden, la paz y tranquilidad públicos; previniendo los delitos y las infracciones administrativas de acuerdo a la normatividad aplicable. Para ello, desplegarán acciones de proximidad, comunicación y participación directa con los ciudadanos.
 
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2017)</small>
+
+Para lograr los fines descritos en este artículo, las Instituciones Policiales de los Municipios podrán auxiliarse con las figuras previstas en la fracción V del Artículo 7 del presente ordenamiento.
+
 > <small>(REFORMADO, P.O. 19 DE ENERO DE 2013)</small>
 
 ###### Artículo 131.
@@ -1875,6 +1887,10 @@ La prestación de las funciones complementarias deberá seguir en todo caso las 
 
 La vigilancia especifica en barrios, colonias, fraccionamientos, comunidades o sectores urbanos delimitados, se otorgará previa formación de un comité ciudadano integrado por residentes del sector y cumpliendo los requisitos que al efecto se establezcan.
 
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2017)</small>
+
+La Guardia Municipal o Guardia Auxiliar a que se refiere la fracción V del artículo 7 de este ordenamiento, estará facultada para realizar las funciones de vigilancia a que se refiere el párrafo anterior. El Reglamento de Guardias Municipales, o de Guardias Auxiliares, establecerá las condiciones en las cuales éstas podrán funcionar sin la previa formación de un Comité Ciudadano.
+
 > <small>(REFORMADO, P.O. 19 DE ENERO DE 2013)</small>
 
 ###### Artículo 141.
@@ -1917,6 +1933,10 @@ Para el caso de la vigilancia de sectores urbanos delimitados, deberá conformar
 
 IV. Realizar el pago de derechos correspondientes, ante la Tesorería General del Estado o la Tesorería Municipal que corresponda.
 
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2017)</small>
+
+El Reglamento de Guardias Municipales, o de Guardias Auxiliares, establecerá las condiciones en las cuales pueda exceptuarse el cumplimiento de las fracciones III y IV de este Artículo.
+
 ### CAPÍTULO QUINTO. DE LOS GRUPOS OPERATIVOS ESPECIALES
 
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2010)</small>
@@ -1953,15 +1973,17 @@ VII. Justificar, mediante Certificado con efectos de Patente Policial, expedida 
 
 VIII. Acreditar que sus integrantes estén inscritos en el Registro Estatal del Personal de Seguridad Pública y contar con cédula única de identificación policial;
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2017)</small>
 
-IX. Aprobar las pruebas de control de confianza a que se refiere el Artículo 198 Bis 29 y (sic) de este ordenamiento. Mismas que serían aplicadas por el Centro de Control de Confianza y bajo supervisión de la Secretaría; y
+IX. Aprobar las pruebas de control de confianza a que se refiere el Artículo 198 Bis 29 de este ordenamiento. Mismas que serían aplicadas por el Centro de Control de Confianza Estatal, bajo supervisión de la Secretaría General de Gobierno, y los Centros de Control de Confianza Municipales, bajo supervisión de las Contralorías Municipales; y
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2017)</small>
 
-X. Acreditar que sus integrantes cuenten con la certificación expedido (sic) por el Centro de Control y confianza, a que se refiere el Artículo 198 Bis 27.
+X. Acreditar que sus integrantes cuenten con la certificación expedido (sic) por los Centros de Control de Confianza Estatal y Municipales, a que se refiere el Artículo 198 Bis 27.
 
-La Secretaría extenderá la certificación correspondiente, la cual tendrá vigencia de un año y únicamente podrá ser revalidada mediante la actualización de los requisitos anteriores. La Secretaría validará las certificaciones otorgadas por la Autoridad Federal correspondiente en el marco del sistema nacional de seguridad pública sujetándose a las condiciones que prevé este ordenamiento.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2017)</small>
+
+La Secretaría y los Centros de Control de Confianza Municipales, extenderán la certificación correspondiente, la cual tendrá vigencia de un año y únicamente podrá ser revalidada mediante la actualización de los requisitos anteriores. La Secretaría validará las certificaciones otorgadas por la Autoridad Federal correspondiente en el marco del sistema nacional de seguridad pública sujetándose a las condiciones que prevé este ordenamiento.
 
 Los funcionarios o servidores públicos que en contravención a esta disposición ejerzan funciones que no les correspondan o carezcan de la certificación respectiva, serán sancionados conforme al Código Penal vigente en el Estado, por el delito de ejercicio indebido de funciones públicas establecido en el Artículo 208 fracción I del citado Código y los demás que en su caso les resulten.
 
@@ -2739,7 +2761,9 @@ La Carrera Policial comprende el grado policial, la antigüedad, las insignias, 
 
 I. Las Instituciones Policiales deberán consultar los antecedentes de cualquier aspirante en el Registro Nacional y en el Registro Estatal, antes de que se autorice su ingreso a las mismas;
 
-II. Todo aspirante deberá tramitar, obtener y mantener actualizado el Certificado Único Policial, que expedirá el centro de control de confianza del Estado;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2017)</small>
+
+II. Todo aspirante deberá tramitar, obtener y mantener actualizado el Certificado Único Policial, que expedirán los Centros de Control de Confianza del Estado y Municipales;
 
 > <small>(REFORMADA, P.O. 15 DE ABRIL DE 2016)</small>
 
@@ -2782,6 +2806,10 @@ Dentro del Servicio de Carrera de la Policía sólo se podrá ingresar, permanec
 ###### Artículo 198 Bis 4.
 
 El ingreso es el procedimiento de integración de los candidatos a la estructura institucional y tendrá verificativo con el Certificado con efectos de Patente Policial que obtenga al terminar la etapa de formación inicial o capacitación en la Universidad, el período de prácticas correspondiente y acrediten el cumplimiento de los requisitos previstos en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2017)</small>
+
+Tratándose de aspirantes a ingresar a las instituciones policiales que hayan pertenecido a la Secretaría de la Defensa Nacional o de la Secretaría de Marina y no hayan sido separados del cargo, destituidos o desertado, se les podrá expedir el Certificado con efectos de patente, para lo cual se les tendrá acreditada la formación inicial equivalente, pero cursarán el período de prácticas correspondiente, acrediten (sic) el cumplimiento de los requisitos previstos en la presente Ley y aprobarán la pruebas de control de confianza requeridas para el cargo.
 
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
@@ -2853,7 +2881,9 @@ III. Cumplir con sus obligaciones, así como con las comisiones que le sean asig
 
 IV. Obtener y mantener actualizado el Certificado con efectos de Patente Policial expedido por la Universidad de Ciencias de la Seguridad.
 
-V. Aprobar los procesos de evaluación de control de confianza, los cuales tendrán una vigencia de dos años;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2017)</small>
+
+IV (SIC). Aprobar los procesos de evaluación de control de confianza, los cuales tendrán una vigencia de tres años;
 
 VI. Aprobar las evaluaciones del desempeño;
 
@@ -3091,11 +3121,13 @@ La Secretaría tratándose de elementos estatales y las dependencias municipales
 
 ### CAPÍTULO SÉPTIMO. DE LO PROCESOS DE CERTIFICACIÓN
 
-> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2017)</small>
 
 ###### Artículo 198 Bis 27.
 
-La certificación es el proceso mediante el cual los integrantes de las Instituciones Policiales, incluidos sus titulares, mandos medios y superiores, se someten a las evaluaciones permanentes, periódicas y obligatorias establecidas por el Centro de Control de Confianza, para comprobar el cumplimiento de los perfiles de personalidad, éticos, socioeconómicos y médicos, en los procedimientos de ingreso, promoción y permanencia.
+La certificación es el proceso mediante el cual los integrantes de las Instituciones Policiales, incluidos sus titulares, mandos medios y superiores, se someten a las evaluaciones permanentes, periódicas y obligatorias establecidas por los Centros de Control de Confianza Estatal y Municipales, según corresponda, para comprobar el cumplimiento de los perfiles de personalidad, éticos, socioeconómicos y médicos, en los procedimientos de ingreso, promoción y permanencia.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 Las Instituciones Policiales contratarán únicamente al personal que cuente con el certificado expedido en los términos del párrafo anterior.
 
@@ -3121,11 +3153,13 @@ V. Notoria buena conducta, no haber sido condenado por sentencia ejecutoriada po
 
 VI. Cumplimiento de los deberes establecidos en esta Ley.
 
-> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2017)</small>
 
 ###### Artículo 198 Bis 29.
 
-La certificación comprenderá las evaluaciones que determine el Centro de Control de Confianza, con sujeción a los lineamientos aplicables.
+La certificación comprenderá las evaluaciones que determinen los Centros de Control de Confianza, con sujeción a los lineamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 Las evaluaciones incluirán los siguientes exámenes:
 
@@ -3139,7 +3173,9 @@ IV. Los médicos; y
 
 V. La aplicación de pruebas de polígrafo;
 
-El Consejo de Coordinación podrá proponer al Centro de Control y de Confianza elementos adicionales para las evaluaciones a que refiere el presente artículo.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2017)</small>
+
+El Consejo de Coordinación podrá proponer a los Centros de Control de Confianza, elementos adicionales para las evaluaciones a que refiere el presente artículo.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE OCTUBRE DE 2010)</small>
 
@@ -3335,7 +3371,9 @@ III. Conocer y resolver sobre las modificaciones a la operación de los procesos
 
 IV. Coordinarse con la Universidad, a fin de participar en la elaboración de los planes de estudio, así como mantener un registro de los estudios realizados por los Integrantes, así como de los resultados;
 
-V. Coordinarse con el Centro de Información para la Seguridad de Estado, de Evaluación y Control de Confianza, a fin de tener conocimiento sobre los resultados emitidos para cada uno de los Integrantes;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2017)</small>
+
+V. Coordinarse con el Centro de Información para la Seguridad de Estado, de Evaluación y Control de Confianza y los Centros de Control de Confianza municipales, a fin de tener conocimiento sobre los resultados emitidos para cada uno de los Integrantes;
 
 VI. Decidir sobre los ascensos de los Integrantes, así como del otorgamiento de estímulos, recompensas y condecoraciones;
 
@@ -3772,3 +3810,13 @@ P.O. 21 DE JUNIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 265. SE REFORMA EL ARTÍCULO 331 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEÓN; SE ADICIONA UN ARTÍCULO 32 BIS (SIC) LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN, SE REFORMAN LAS FRACCIONES XII Y XIII, ASIMISMO SE ADICIONA UNA FRACCIÓN XIV AL ARTÍCULO 15 DE LA LEY DE PROTECCIÓN CIVIL PARA EL DEL (SIC) ESTADO DE NUEVO LEÓN; SE REFORMAN LAS FRACCIONES XVI Y XVII AL ARTÍCULO 9; POR MODIFICACIÓN EL NOMBRE DEL CAPÍTULO III; ASÍ MISMO SE ADICIONA UNA FRACCIÓN XVIII AL ARTÍCULO 9; Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 10, TODOS DE LA LEY PARA LA PROMOCIÓN DE VALORES Y CULTURA DE LA LEGALIDAD DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 269. SE REFORMA POR MODIFICACIÓN DE LOS ARTÍCULOS 3 FRACCIÓN II; 7 FRACCIÓN IV; 148 FRACCIONES IX, X Y SEGUNDO PÁRRAFO; 198 BIS 2 FRACCIÓN II; 198 BIS 9 FRACCIÓN V; 198 BIS 27 PRIMER PÁRRAFO; 198 BIS 29 PRIMERO Y ÚLTIMO PÁRRAFOS Y 217 FRACCIÓN V; ASÍ COMO POR ADICIÓN DE UNA FRACCIÓN V AL ARTÍCULO 7, RECORRIÉNDOSE LA ACTUAL V PARA SER LA VI; DE UN SEGUNDO PÁRRAFO AL ARTÍCULO 130; DE UN SEGUNDO PÁRRAFO AL ARTÍCULO 140; UN ÚLTIMO PÁRRAFO AL ARTÍCULO 145, Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 198 BIS 4, DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN; SE REFORMA POR MODIFICACIÓN DE LOS ARTÍCULOS 2, EN SUS FRACCIONES I, II EN SU INCISO C) Y LA FRACCIÓN IV; ARTÍCULOS 7 SEGUNDO PÁRRAFO, PASANDO LA ACTUAL A SER TERCERA; 17 CON UN ÚLTIMO PÁRRAFO; 24 CON UN ÚLTIMO PÁRRAFO; 27 FRACCIÓN VI CON UN SEGUNDO PÁRRAFO A LA FRACCIÓN VI; 28; 31 FRACCIÓN VIII CON UN SEGUNDO PÁRRAFO Y 35 DE UN TERCER PÁRRAFO; TODOS LOS ANTERIORES DE LA LEY DE SEGURIDAD PRIVADA PARA EL ESTADO DE NUEVO LEÓN".]
+
+Primero.- El Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Para el funcionamiento de las Guardias Municipales o Guardias Auxiliares, los Municipios o el Estado deberán expedir previamente el Reglamento correspondiente.
+
+Tercero.- Las evaluaciones de control de confianza expedidas con anterioridad a la vigencia del presente decreto se sujetarán al término señalado en el último párrafo del artículo 6 de los Lineamientos del Certificado Único Policial (CUP) aprobados por el Consejo Nacional de Seguridad Pública, en cumplimiento del Acuerdo CNSP 13/XXXIX/15, publicados en fecha 9 de septiembre de 2016 en el Diario Oficial de la Federación.
