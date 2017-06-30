@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-seguridad-privada-para-el-estado-de-nuevo-leon-56448"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-25"
-last_updated: "2010-12-24"
+last_updated: "2017-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SEGURIDAD PRIVADA PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 25 de julio de 2007.
 
@@ -51,7 +51,9 @@ La presente Ley tiene por objeto regular la prestación de servicios de segurida
 
 Para los efectos de esta Ley, se entenderá por:
 
-I.- Seguridad Privada.- Actividad a cargo de los particulares, cuyo objeto es regular la prestación de los servicios de seguridad privada en materia de protección, vigilancia, custodia de personas, información, bienes inmuebles, muebles o valores, incluidos su traslado, instalación, operación de sistemas y equipos de seguridad; aportar datos para la investigación de delitos y apoyar en caso de siniestros o desastres, en su carácter de auxiliares a la función de Seguridad Pública.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2017)</small>
+
+I.- Seguridad Privada. Actividad a cargo de los particulares o de los Municipios en acuerdo, y coparticipación con los vecinos de una o más colonias, fraccionamientos y zonas residenciales, cuyo objeto es regular la prestación de los servicios de seguridad privada en materia de protección, vigilancia, custodia de personas, información, bienes inmuebles, muebles o valores, incluidos su traslado, instalación, operación de sistemas y equipos de seguridad; aportar datos para la investigación de delitos y apoyar en caso de siniestros o desastres, en su carácter de auxiliares a la función de Seguridad Pública;
 
 II.- Prestador de Servicios.- Persona física o moral que presta servicios de seguridad privada, y que pueden ser:
 
@@ -59,7 +61,9 @@ a) Los organismos de seguridad privada, organizados internamente por institucion
 
 b) Las personas morales legalmente constituidas cuyo objeto social contemple la prestación de servicios de seguridad privada, ya sea para la guarda o custodia de locales o para la transportación de valores. Quedan asimilados a este grupo las personas físicas que presten el servicio de seguridad privada por conducto de terceros empleados a su cargo;
 
-c) Los grupos de seguridad en áreas urbanas que a su costa organicen los habitantes de colonias, fraccionamientos y zonas residenciales de áreas urbanas para ejercer, en cualquier horario la función única y exclusiva de resguardar las casas habitación ubicadas en las áreas que previamente se señalan;
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2017)</small>
+
+c) Los grupos de seguridad en áreas urbanas que a su costa, o en coparticipación con la administración municipal de su territorio, organicen los habitantes de las colonias, fraccionamientos y zonas residenciales en áreas urbanas para ejercer, en cualquier horario la función única y exclusiva de resguardar casas habitación ubicadas en las áreas que previamente se señalan;
 
 d) Los custodios de personas, que presten servicios de seguridad personal a costa de quienes reciben tal servicio;
 
@@ -77,7 +81,9 @@ j) Las personas físicas o morales cuya actividad esté relacionada directa o in
 
 III.- Persona física.- Quien sin constituir una empresa, presta servicios de seguridad privada, incluyendo en esta categoría a las escoltas, custodios, guardias o vigilantes que no pertenezcan a una empresa;
 
-IV.- Personal Operativo.- Los individuos que prestan servicios de seguridad privada, contratados por personas físicas o morales privadas;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2017)</small>
+
+IV.- Personal Operativo. Los individuos que prestan servicios de seguridad privada, contratados por personas físicas, morales privadas o por los Municipios, con el objeto de brindar el servicio en colonias, fraccionamientos y zonas residenciales;
 
 V.- Secretaría.- La Secretaría de Seguridad Pública del Estado;
 
@@ -134,6 +140,10 @@ La autorización obtenida para funcionar como prestador de servicios de segurida
 No se podrá prestar el servicio de seguridad privada sin el registro y la autorización correspondiente; las personas físicas o morales que sin haberlos obtenido proporcionen el servicio en cualquiera de sus modalidades serán sancionados en los términos previstos en esta Ley y su Reglamento, sin perjuicio de la responsabilidad civil y penal que pudiere resultar.
 
 Los prestadores de servicios con autorización federal antes de ejercer sus actividades en el Estado deberán de efectuar el registro correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2017)</small>
+
+Cuando el servicio sea prestado por los Municipios, bastará que éstos notifiquen a la Secretaría de Seguridad Pública la intención de brindar el servicio, para que la Dirección de Seguridad Privada pueda ejercer las facultades que le confieren las fracciones II a la X del artículo siguiente.
 
 ## TÍTULO SEGUNDO. De la Dirección y la Coordinación Interinstitucional
 
@@ -267,6 +277,10 @@ VI.- ACTIVIDAD VINCULADA CON SERVICIOS DE BLINDAJE. Se refiere a la actividad re
 
 VII.- ACTIVIDAD VINCULADA CON SERVICIOS DE SISTEMAS DE ALARMAS. Se refiere a todas aquellas actividades relacionadas con la prestación del servicio de sistemas de alarmas a establecimientos industriales, comerciales o a casas habitación.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2017)</small>
+
+Los Municipios solo podrán brindar el servicio de seguridad privada en la modalidad prevista en la fracción II del presente artículo. Pero en ningún caso podrán perseguir fines de lucro con dicha actividad, misma que estará encaminada a mantener bajo el número de delitos, reducir la incidencia delictiva, elevar la percepción de seguridad, coadyuvar en la prevención social en el ámbito comunitario así como coadyuvar en la prevención social en su ámbito situacional, en los términos que determine la normatividad municipal correspondiente.
+
 ### Capítulo II. De la Autorización, Revalidación y Modificación
 
 ###### Artículo 18.
@@ -347,6 +361,10 @@ XIX.- En caso de que se utilicen vehículos blindados en la prestación del serv
 
 XX.-Tratándose de prestadores de servicios que operen en la modalidad prevista en la fracción III del artículo 17 de la presente Ley, y específicamente para el traslado de valores, será indispensable contar con vehículos blindados, y exhibir constancia expedida por el proveedor del servicio de blindaje, con la que se acredite el nivel del mismo.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2017)</small>
+
+Los Municipios no necesitarán autorización, pero sí deberán cumplir los requisitos previstos en las fracciones: V, VI en lo conducente, VII, VIII, IX, X, XI, XII, XIV, XV Y XVIII. Se considerarán satisfechos los requisitos previstos en las fracciones VII y VIII si la Academia Municipal cuenta con reconocimiento vigente de la Universidad de Ciencias de la Seguridad del Estado como extensión de ésta y sus instructores o docentes están certificados por dicha institución educativa.
+
 ###### Artículo 25.
 
 De ser procedente la autorización, el solicitante deberá presentar dentro de los diez días hábiles siguientes a la notificación de procedencia:
@@ -401,13 +419,19 @@ V.- No haber sido separado de las Fuerzas Armadas o de instituciones de segurida
 
 VI.- No ser miembros en activo de alguna institución de seguridad pública federal, estatal o municipal, de procuración de justicia federal o estatal o de las Fuerzas Armadas.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2017)</small>
+
+Este requisito no aplicará tratándose de los Municipios.
+
 ### Capítulo V. De la Capacitación
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2017)</small>
 
 ###### Artículo 28.
 
-Los prestadores de servicios estarán obligados a capacitar a su personal operativo. Dicha capacitación podrá llevarse a cabo en la Academia Estatal de Policía o en centros de capacitación privados, mismos que deberán ser autorizados y revalidados anualmente por la Dirección. El Reglamento establecerá los tiempos, formas y plazos para ello.
+Los prestadores de servicios estarán obligados a capacitar a su personal operativo. Dicha capacitación podrá llevarse a cabo en la Universidad de Ciencias de la Seguridad, o en centros de capacitación privados, mismos que deberán ser autorizados y revalidados anualmente por la Dirección. El Reglamento establecerá los tiempos, formas y plazos para ello.
 
-La capacitación que se imparta será acorde a las modalidades en que se autorice el servicio, y tendrá como fin que los elementos se conduzcan bajo los principios de legalidad, eficiencia, profesionalismo y honradez.
+Tratándose de los Municipios, su personal deberá formarse en sus Academias de Policía, con una capacitación diferenciada, de acuerdo a su función.
 
 ###### Artículo 29.
 
@@ -456,6 +480,10 @@ g) Por obligar a sus subalternos a entregarle dinero u otras dádivas bajo cualq
 h) Por irregularidades en su conducta o haber sido sentenciado por delito doloso.
 
 VIII.- Utilizar el término "seguridad" siempre acompañado de la palabra "privada";
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2017)</small>
+
+Tratándose de Municipios, se deberá usar la leyenda "Guardia Municipal" o "Guardia Auxiliar", según lo disponga la normatividad municipal aplicable.
 
 IX.- Los vehículos que utilicen, deberán presentar una cromática uniforme, atendiendo a las especificaciones que al efecto señale el Reglamento, además de ostentar en forma visible, en los vehículos que utilicen, la denominación, logotipo y número de registro;
 
@@ -530,6 +558,10 @@ La Dirección podrá ordenar en cualquier momento la práctica de visitas de ver
 El objeto de la verificación será comprobar el cumplimiento a las disposiciones legales y reglamentarias aplicables, así como de las obligaciones y restricciones a que se sujeta la autorización o revalidación.
 
 La verificación será física cuando se practique sobre los bienes muebles o inmuebles; al desempeño, cuando se refiera a la actividad; al desarrollo laboral o profesional de los elementos, o bien de legalidad, cuando se analice y cerciore el cumplimiento de las disposiciones legales que se tiene la obligación de acatar.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2017)</small>
+
+En lo que respecta a los Municipios, la verificación se realizará por escrito. Sin perjuicio de lo anterior, cada Municipio deberá contar con un Área de control con la cual mantener al día el cumplimiento de las obligaciones que les impone esta Ley.
 
 ## TÍTULO SEXTO. Medidas de Seguridad, Sanciones y Medios de Impugnación
 
@@ -670,3 +702,13 @@ ANTONIO GARZA GARCÍA
 P.O. 24 DE DICIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 269. SE REFORMA POR MODIFICACIÓN DE LOS ARTÍCULOS 3 FRACCIÓN II; 7 FRACCIÓN IV; 148 FRACCIONES IX, X Y SEGUNDO PÁRRAFO; 198 BIS 2 FRACCIÓN II; 198 BIS 9 FRACCIÓN V; 198 BIS 27 PRIMER PÁRRAFO; 198 BIS 29 PRIMERO Y ÚLTIMO PÁRRAFOS Y 217 FRACCIÓN V; ASÍ COMO POR ADICIÓN DE UNA FRACCIÓN V AL ARTÍCULO 7, RECORRIÉNDOSE LA ACTUAL V PARA SER LA VI; DE UN SEGUNDO PÁRRAFO AL ARTÍCULO 130; DE UN SEGUNDO PÁRRAFO AL ARTÍCULO 140; UN ÚLTIMO PÁRRAFO AL ARTÍCULO 145, Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 198 BIS 4, DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN; SE REFORMA POR MODIFICACIÓN DE LOS ARTÍCULOS 2, EN SUS FRACCIONES I, II EN SU INCISO C) Y LA FRACCIÓN IV; ARTÍCULOS 7 SEGUNDO PÁRRAFO, PASANDO LA ACTUAL A SER TERCERA; 17 CON UN ÚLTIMO PÁRRAFO; 24 CON UN ÚLTIMO PÁRRAFO; 27 FRACCIÓN VI CON UN SEGUNDO PÁRRAFO A LA FRACCIÓN VI; 28; 31 FRACCIÓN VIII CON UN SEGUNDO PÁRRAFO Y 35 DE UN TERCER PÁRRAFO; TODOS LOS ANTERIORES DE LA LEY DE SEGURIDAD PRIVADA PARA EL ESTADO DE NUEVO LEÓN."]
+
+Primero.- El Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Para el funcionamiento de las Guardias Municipales o Guardias Auxiliares, los Municipios o el Estado deberán expedir previamente el Reglamento correspondiente.
+
+Tercero.- Las evaluaciones de control de confianza expedidas con anterioridad a la vigencia del presente decreto se sujetarán al término señalado en el último párrafo del artículo 6 de los Lineamientos del Certificado Único Policial (CUP) aprobados por el Consejo Nacional de Seguridad Pública, en cumplimiento del Acuerdo CNSP 13/XXXIX/15, publicados en fecha 9 de septiembre de 2016 en el Diario Oficial de la Federación.
