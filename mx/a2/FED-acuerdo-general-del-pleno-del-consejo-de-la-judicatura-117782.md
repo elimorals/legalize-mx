@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-117782"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-12-30"
-last_updated: "2016-12-30"
+last_updated: "2017-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117782&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2016-12-07"
 ---
 # ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [POR EL QUE SE EXPIDEN LOS LINEAMIENTOS BASICOS PARA REGULAR EL PROCEDIMIENTO ADMINISTRATIVO INTERNO DE ACCESO A LA INFORMACION PUBLICA, ASI COMO EL FUNCIONAMIENTO Y ATRIBUCIONES DEL COMITE DE TRANSPARENCIA DEL PROPIO CONSEJO]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS PARA REGULAR EL PROCEDIMIENTO ADMINISTRATIVO INTERNO DE ACCESO A LA INFORMACIÓN PÚBLICA, ASÍ COMO EL FUNCIONAMIENTO Y ATRIBUCIONES DEL COMITÉ DE TRANSPARENCIA DEL PROPIO CONSEJO, PUBLICADO EN EL D.O.F. DE 30 DE JUNIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDEN LOS LINEAMIENTOS BÁSICOS PARA REGULAR EL PROCEDIMIENTO ADMINISTRATIVO INTERNO DE ACCESO A LA INFORMACIÓN PÚBLICA, ASÍ COMO EL FUNCIONAMIENTO Y ATRIBUCIONES DEL COMITÉ DE TRANSPARENCIA DEL PROPIO CONSEJO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE JUNIO DE 2017 (ABROGADO).
 
 Acuerdo publicado en la Cuarta Sección del Diario Oficial de la Federación, el viernes 30 de diciembre de 2016.
 
@@ -370,3 +372,19 @@ SEGUNDO. Se derogan todas aquellas disposiciones normativas que se opongan al ob
 TERCERO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGÁN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General del Pleno del Consejo de la Judicatura Federal, por el que se expiden los lineamientos básicos para regular el procedimiento administrativo interno de acceso a la información pública, así como el funcionamiento y atribuciones del comité de transparencia del propio Consejo, fue aprobado por el Pleno del Consejo, en sesión ordinaria de siete de diciembre de dos mil dieciséis, por unanimidad de votos de los señores Consejeros: Presidente Ministro Luis María Aguilar Morales, Felipe Borrego Estrada, Jorge Antonio Cruz Ramos, Rosa Elena González Tirado, Alfonso Pérez Daza y J. Guadalupe Tafoya Hernández.- Ciudad de México, a siete de diciembre de dos mil dieciséis.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 30 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS PARA REGULAR EL PROCEDIMIENTO ADMINISTRATIVO INTERNO DE ACCESO A LA INFORMACIÓN PÚBLICA, ASÍ COMO EL FUNCIONAMIENTO Y ATRIBUCIONES DEL COMITÉ DE TRANSPARENCIA DEL PROPIO CONSEJO”.]
+
+PRIMERO. El presente Acuerdo General entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan todas aquellas disposiciones normativas que se opongan al presente Acuerdo, y se abroga el Acuerdo General del Pleno del Consejo de la Judicatura Federal, por el que se expiden los Lineamientos Básicos para regular el procedimiento administrativo interno de acceso a la información pública, así como el funcionamiento y atribuciones del Comité de Transparencia del propio Consejo, publicado en el Diario Oficial de la Federación el treinta de diciembre de dos mil dieciséis.
+
+Las referencias que se hagan en cualquier disposición a la Dirección para el Trámite de Solicitudes de Acceso a la Información del Consejo de la Judicatura Federal se entenderán hechas a la Secretaria para el Trámite de Solicitudes de Acceso a la Información.
+
+TERCERO. Dentro de los treinta días siguientes a la publicación del presente Acuerdo deberán expedirse, para efectos de armonización, los ajustes normativos relacionados con la organización y funcionamiento del Consejo de la Judicatura Federal.
+
+CUARTO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
