@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-hospital-de-psiquiatria-dr-gustavo-leon-mojica-115744"
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-18"
-last_updated: "2016-07-18"
+last_updated: "2017-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115744&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DEL HOSPITAL DE PSIQUIATRIA "DR. GUSTAVO LEON MOJICA GARCIA" DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 113, PUBLICADO EN EL P.O. DE 30 DE JUNIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL HOSPITAL DE PSIQUIATRÍA “DR. GUSTAVO LEÓN MOJICA GARCÍA” DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2017 (ABROGADA).
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 18 de julio de 2016.
 
@@ -390,3 +392,43 @@ Dip. Oswaldo Rodríguez García,
 SEGUNDO SECRETARIO.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalienes (sic) y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado en la Ciudad de Aguascalientes, Ags., a 15 de julio de 2016.- Carlos Lozano de la Torre.- Rúbrica.- Lic. Alejandro Bernal Rubalcava, en suplencia del Secretario General de Gobierno por ministerio de Ley. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 113.- SE REFORMA LA LEY DEL INSTITUTO DE SALUD DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley del Centenario Hospital Miguel Hidalgo del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado de Aguascalientes en fecha 18 de julio de 2016 en su edición vespertina, mediante el Decreto Número 356, así como su respectivo Reglamento y disposiciones normativas aplicables.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley del Hospital de Psiquiatría "Dr. Gustavo León Mojica García" del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado de Aguascalientes en fecha 18 de julio de 2016 en su edición vespertina, mediante el Decreto Número 357, así como su respectivo Reglamento y disposiciones normativas aplicables.
+
+###### ARTÍCULO CUARTO.
+
+Los recursos humanos, financieros y materiales que se encuentran asignados al Centenario Hospital Miguel Hidalgo y al Hospital de Psiquiatría "Dr. Gustavo León Mojica García" del Estado de Aguascalientes, pasarán a formar parte del Instituto de Servicios de Salud del Estado de Aguascalientes, de conformidad con los acuerdos de transferencia que para tal efecto suscriban las autoridades responsables.
+
+###### ARTÍCULO QUINTO.
+
+Los derechos laborales de los trabajadores de los citados hospitales serán respetados en todos sus términos.
+
+###### ARTÍCULO SEXTO.
+
+El Reglamento interior y los manuales de organización y procedimientos del Instituto de Servicios de Salud del Estado de Aguascalientes, deberán reformarse en relación a la incorporación de los Hospitales a que hace referencia el presente Decreto, dentro (sic) los ciento ochenta días siguientes al inicio de su vigencia.
+
+En tanto se reforman las disposiciones reglamentarias correspondientes, en lo que no se opongan a esta Ley, seguirán aplicándose los ordenamientos reglamentarios y administrativos vigentes a esta fecha.
+
+###### ARTÍCULO SÉPTIMO.
+
+El personal, patrimonio, expedientes, archivos, mobiliario y bienes de los hospitales mencionados, se incorporarán al patrimonio del Instituto de Servicios de Salud del Estado de Aguascalientes y seguirán adscritos, según corresponda, al hospital respectivo.
+
+###### ARTÍCULO OCTAVO.
+
+La transferencia de los recursos humanos, financieros y materiales que se encuentran asignados a los hospitales Centenario Hospital Miguel Hidalgo y Hospital de Psiquiatría "Dr. Gustavo León Mojica García" del Estado de Aguascalientes deberá llevarse a cabo a más tardar el día 31 de diciembre del 2017, pasando a formar parte del Instituto de Servicios de Salud del Estado de Aguascalientes, de conformidad con los acuerdos de transferencia que para tal efecto suscriban el Director General del Instituto y los Directores Titulares de los Hospitales objeto del presente decreto.
