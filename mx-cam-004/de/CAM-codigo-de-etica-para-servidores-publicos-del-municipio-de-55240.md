@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-etica-para-servidores-publicos-del-municipio-de-55240
 country: "mx"
 rank: "codigo"
 publication_date: "2007-04-19"
-last_updated: "2007-04-19"
+last_updated: "2017-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "CAM"
 ---
 # CODIGO DE ETICA PARA SERVIDORES PUBLICOS DEL MUNICIPIO DE CHAMPOTON, CAMPECHE
 
-CODIGO DE ETICA PARA SERVIDORES PUBLICOS DEL MUNICIPIO DE CHAMPOTON, CAMPECHE
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ÚNICO DEL CÓDIGO DE ÉTICA Y CONDUCTA PARA LOS SERVIDORES PÚBLICOS DEL MUNICIPIO DE CHAMPOTÓN, PUBLICADO EN EL P.O. DE 30 DE JUNIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
 
-TEXTO ORIGINAL.
+CÓDIGO DE ÉTICA PARA SERVIDORES PÚBLICOS DEL MUNICIPIO DE CHAMPOTÓN, CAMPECHE
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2017 (DEROGADO).
 
 Código publicado en la Sección Administrativa al Periódico Oficial del Estado de Campeche, el jueves 19 de abril de 2007.
 
@@ -208,3 +210,11 @@ Los servidores públicos, que durante el ejercicio de su encargo incumplan algun
 ## TRANSITORIO
 
 ÚNICO.- El presente Código de Ética entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial del Estado de Campeche; derogando en su totalidad el anterior Código publicado con fecha 8 de marzo de 2006.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “CÓDIGO DE ÉTICA Y CONDUCTA PARA LOS SERVIDORES PÚBLICOS DEL MUNICIPIO DE CHAMPOTÓN”.]
+
+ÚNICO.- El presente Código de Ética y Conducta entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Campeche, derogando el anterior Código de Ética publicado con fecha 19 de abril de 2007.
