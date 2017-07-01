@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-procedimientos-civiles-para-el-estado-de-tabasco-1503
 country: "mx"
 rank: "codigo"
 publication_date: "1997-04-12"
-last_updated: "2014-12-31"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE TABASCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2017.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 12 de abril de 1997.
 
@@ -305,7 +307,7 @@ La jurisdicción concurrente, en los casos de aplicación de leyes federales, se
 
 Competencia exclusiva de los juzgadores de primera instancia
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 Cualquiera que sea el valor del negocio, los jueces de primera instancia, conocerán de los siguientes asuntos:
 
@@ -2071,8 +2073,6 @@ b) Las costas serán a cargo del actor, salvo convenio en contrario. En este cas
 
 II.- Por caducidad de la instancia. En este caso se aplicarán las reglas siguientes:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
 a) La caducidad de la instancia operará de pleno derecho cualquiera que sea el estado del proceso, desde la presentación de la demanda hasta la citación para sentencia, si transcurridos ciento veinte días hábiles contados a partir de que no hubiere promoción de cualquiera de las partes que tienda a impulsar el procedimiento;
@@ -3157,7 +3157,7 @@ Si por causa que sea imputable a alguna de las partes se retrasa la resolución 
 
 Audiencia previa y de conciliación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2007)</small>
 
 Una vez contestada la demanda y, en su caso, la reconvención, el juzgador señalará fecha y hora para la celebración de una audiencia previa y de conciliación dentro de los treinta días siguientes, dando vista a la parte que corresponda con las excepciones previas que se hubieren opuesto en su contra, por un plazo de seis días.
 
@@ -3313,7 +3313,7 @@ El periodo de ofrecimiento de pruebas es de diez días, que empezarán a contars
 
 Requisitos del ofrecimiento
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O.13 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O.13 DE DICIEMBRE DE 2008)</small>
 
 Las pruebas deberán ser ofrecidas en relación con los hechos que se pretendan demostrar, de los escritos con los que se fija el debate. Las que no reúnan éste requisito serán desechadas. En el ofrecimiento de pruebas deberá, además, observarse lo siguiente:
 
@@ -4609,7 +4609,7 @@ En el escrito de expresión de agravios deberá, además, indicarse si el apelan
 
 Admisión del recurso
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 Si el recurso de apelación fue interpuesto dentro de los plazos previstos en el artículo 353, contiene la expresión de agravios y se hizo acompañar de las copias a que se refiere el artículo anterior, el juzgador ordenará su admisión y señalará el efecto en que lo admite. Si no concurre cualquiera de los dos primeros requisitos, el juzgador tendrá por no interpuesto el recurso. Cuando no se acompañen las copias del escrito de expresión de agravios o se omita el señalamiento de las constancias que deberán integrar el testimonio, antes de admitir el recurso, se requerirá al apelante para que lo haga dentro del término de veinticuatro horas siguientes a la notificación, apercibido que de no cumplir se tendrá por no interpuesto. Salvo en los asuntos relacionados con menores, incapaces y tratándose de alimentos cuando la parte apelante sea la acreedora alimentista, en cuyo caso, para su admisión sólo se exigirá, se interponga dentro del plazo legal.
 
@@ -6451,11 +6451,11 @@ Contra las resoluciones pronunciadas por los jueces de paz no procederá recurso
 
 ###### ARTICULO 476.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 Ejecución de las sentencias y convenios
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 Los jueces de paz tendrán obligación de proveer a la eficaz e inmediata ejecución de sus sentencias y convenios; a ese efecto, dictarán todas las medidas necesarias, en la forma y términos que a su juicio fueren procedentes, sin contrariar las reglas siguientes:
 
@@ -6491,7 +6491,7 @@ Cuando la sentencia condene a entregar cosa determinada, para obtener el cumplim
 
 Si ni aun así se obtuviera la entrega, el Juez fijará la cantidad que como reparación se deba resarcir a la parte que obtuvo, procediéndose a exigir su pago con arreglo a la ejecución de sentencia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO V. EJECUCIÓN
 
@@ -6519,7 +6519,7 @@ Nulidad de actuaciones
 
 Las promociones de nulidad de actuaciones por falta o defecto de citación o notificación, o por defectos u omisiones procesales, serán resueltas de plano por el juzgador, sin formar artículo ni suspender el procedimiento.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE MAYO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE MAYO DE 2007)</small>
 
 ### CAPITULO VI. DEL REGISTRO EXTEMPORANEO DE LAS ACTAS DEL ESTADO CIVIL
 
@@ -6559,7 +6559,7 @@ Comunicación oficial del Registro Civil.
 
 Una vez que la sentencia haya adquirido autoridad de cosa juzgada, se enviará copia autorizada al Oficial del Registro Civil para que levante el acta respectiva.
 
-> <small>(REFORMADA SU NUMERACION [N. DE E. ANTES CAPITULO VI], P.O. 2 DE MAYO DE 2007)</small>
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO VI], P.O. 2 DE MAYO DE 2007)</small>
 
 ### CAPITULO VII. REGLAS GENERALES
 
@@ -6717,13 +6717,9 @@ Legitimación procesal
 
 Sólo las personas a quienes el Código Civil concede este derecho podrán pedir la nulidad del matrimonio. El derecho para pedirla no es transmisible por herencia o de cualquier otra manera; pero los herederos podrán continuar la acción ya comenzada por el autor de la herencia.
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
-
 ###### ARTICULO 497.
 
-Representación de cónyuges menores de edad
-
-En los juicios sobre nulidad de matrimonio, los cónyuges menores de edad requerirán de un representante legítimo o un tutor para litigar. La demanda será suscrita también con la firma del menor y con la huella dígito pulgar derecha del mismo, quien la ratificará en la presencia judicial.
+(DEROGADO, P.O. 1 DE JULIO DE 2017)
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -6783,13 +6779,9 @@ Legitimación activa
 
 La acción de divorcio sólo podrá ejercerse por los cónyuges. El divorcio necesario sólo podrá ser demandado por el cónyuge que no haya dado causa a él. Cuando se trate de la fracción IX del artículo 272 del Código Civil, cualquiera de los cónyuges podrá demandar el divorcio.
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
-
 ###### ARTICULO 502.
 
-Representación de menores de edad
-
-Los cónyuges menores de edad requerirán de un representante legítimo o de tutor para intervenir en asuntos de divorcio. La demanda será suscrita también con la firma del menor y con la huella dígito pulgar derecha del mismo, quien la ratificará en la presencia judicial.
+(DEROGADO, P.O. 1 DE JULIO DE 2017)
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -6929,7 +6921,7 @@ Si el juicio se entablare por medio de apoderado, no será admitida la personali
 
 Modalidades de los juicios
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 Los asuntos sobre paternidad y filiación sólo podrán decidirse mediante sentencia declarativa que se dicte en juicio contradictorio, dándose intervención además al Registro Civil, que se tramitará de acuerdo con las reglas del juicio ordinario, con las siguientes modalidades:
 
@@ -7087,7 +7079,7 @@ El que promueva dolosamente el juicio de interdicción, incurrirá en las penas 
 
 Legitimación
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2007)</small>
 
 Podrán pedir la rectificación de un acta del estado civil:
 
@@ -10019,7 +10011,7 @@ LIC. VÍCTOR MANUEL BARCELÓ RODRÍGUEZ
 
 SECRETARIO DE GOBIERNO
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.]</small>
 
 P.O. 15 DE OCTUBRE DE 2003.
 
@@ -10077,8 +10069,20 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publi
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-31 DE DICIEMBRE DE 2014.
+P.O. 31 DE DICIEMBRE DE 2014.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 1 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 097 POR EL QUE “SE DEROGAN LOS ARTÍCULOS 497 Y 502 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las personas que hayan contraído matrimonio hasta antes de la entrada en vigor del presente Decreto, siendo menores de dieciocho años y mediante dispensa, se regirá de acuerdo a las disposiciones legales que se encontraban vigentes a la celebración del mismo.
+
+TERCERO.- En los juicios sobre nulidad de matrimonio y divorcio, en los que se requiera representación de cónyuges menores de edad, seguirán rigiéndose por las disposiciones del Código de Procedimientos Civiles que se encontraban vigentes al momento de contraer matrimonio.
+
+CUARTO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
