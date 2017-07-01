@@ -4,7 +4,7 @@ identifier: "COL-ley-de-fomento-economico-para-el-estado-de-colima-12442"
 country: "mx"
 rank: "ley"
 publication_date: "1998-08-29"
-last_updated: "2017-04-01"
+last_updated: "2017-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 29 de agosto de 1998.
 
@@ -139,9 +139,9 @@ XXII.- Promover la participación del Estado en eventos nacionales e internacion
 
 XXIII.- Impulsar el establecimiento de las industrias maquiladoras de exportación;
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2017)</small>
 
-XXIV.- incentivar la generación de empleos para personas mayores de 45 años de edad;
+XXIV.- Incentivar la generación de empleos para jóvenes de 18 a 30 años de edad, así como para personas mayores de 45 años de edad; y
 
 > <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2017)</small>
 
@@ -187,15 +187,13 @@ e) De promoción de una cultura de la calidad mediante acciones de normalizació
 
 f) De impulso, diversificación e incremento de programas de inversión en la capacitación y adiestramiento de recursos humanos
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2017)</small>
 
-g) Empresas que cuenten con una política de contratación que contemple puestos específicamente destinados a personas mayores de 45 años de edad.
+g) Empresas que cuenten con una política de contratación que contemple puestos específicamente destinados a jóvenes de 18 a 30 años de edad, así como a personas mayores de 45 años de edad.
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2017)</small>
 
-###### ARTICULO 6o Bis.
-
-Las empresas a que se refiere el inciso g) del párrafo segundo del artículo anterior, para ser sujetas a los incentivos y apoyos del Gobierno del Estado, deberán brindar a los empleados mayores de 45 años, las mismas prestaciones de ley que al resto de sus trabajadores, y contratos a término indefinido.
+ARTICULO 6o BIS.- Las empresas a que se refiere el inciso g) de la fracción IX del artículo anterior, para ser sujetas a los incentivos y apoyos del Gobierno del Estado, deberán brindar a los empleados de 18 a 30 años y mayores de 45 años, las mismas prestaciones de ley que al resto de sus trabajadores, y contratos a término indefinido.
 
 ### CAPITULO III. DE LOS INCENTIVOS Y APOYOS A LAS EMPRESAS
 
@@ -313,9 +311,9 @@ IX.- Volumen de exportaciones:
 
 X.- Integración y fortalecimiento de cadenas productivas;
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2017)</small>
 
-XI.- Inclusión de trabajadores mayores a 45 años de edad, y
+XI.- Inclusión de trabajadores de 18 a 30 años y mayores a 45 años de edad, y
 
 XII.- Incorporación al Programa de Proveedores de la entidad.
 
@@ -435,11 +433,13 @@ I.- El Gobernador del Estado, con el carácter de Presidente;
 
 II.- El Secretario de Fomento Económico, quien fungirá como Secretario Ejecutivo; y
 
-III.- Doce vocales que serán:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+III.- Catorce vocales que serán:
 
-a).- Los Secretarios de Planeación, de Finanzas y Administración, de Turismo, de Desarrollo Urbano y de Desarrollo Rural;
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2017)</small>
+
+a).- Los Secretarios de Planeación y Finanzas, de Administración y Gestión Pública, de Turismo, de Infraestructura y Desarrollo Urbano, de Desarrollo Rural, de la Juventud y de Desarrollo Social;
 
 b).- Cinco representantes del sector privado, que a convocatoria del Presidente del Consejo, serán propuestos por los organismos empresariales y de productores. Durarán en su cargo un año, pudiendo ser ratificados por un período más; y
 
@@ -495,9 +495,9 @@ XV.- Proponer modificaciones a la operación, en áreas del gobierno estatal y m
 
 XVI.- Orientar los objetivos y estrategias de fomento económico para la elaboración de planes y programas de los sectores productivos de la entidad;
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2017)</small>
 
-XVII.- Promover el empleo de personas mayores de 45 años de edad en las empresas colimenses;
+XVII.- Promover el empleo de personas de 18 a 30 años de edad y mayores de 45 años de edad en las empresas colimenses;
 
 > <small>(REFORMADA, P.O. 1 DE ABRIL DE 2017)</small>
 
@@ -589,59 +589,93 @@ El Comité estará integrado de manera honoraria y permanente con un representan
 
 I.- Organismos Operadores de Agua Potable, Drenaje y Alcantarillado;
 
-II.- Secretaría de Planeación del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2017)</small>
 
-III.- Secretaría de Desarrollo Urbano del Gobierno del Estado;
+II.- Secretaría de Planeación y Finanzas del Gobierno del Estado;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2017)</small>
 
-IV.- Secretaría de Finanzas y Administración del Gobierno del Estado;
+III.- Secretaría de Infraestructura y Desarrollo Urbano del Gobierno del Estado;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2017)</small>
 
-V.- Contraloría General del Gobierno del Estado;
+IV.- Secretaría de Administración y Gestión Pública del Gobierno del Estado;
 
-VI.- Banco Nacional de Comercio Exterior;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2017)</small>
 
-VII.- Nacional Financiera;
+V.- Secretaría de Turismo del Gobierno del Estado;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2017)</small>
 
-VIII.- Secretaría de Economía;
+VI.- Secretaría de la Juventud del Gobierno del Estado;
 
-IX.- Secretaría de Comunicaciones y Transportes;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2017)</small>
 
-X.- Comisión Federal de Electricidad;
+VII.- Secretaría de Desarrollo Social;
 
-XI.- Secretaría de Hacienda y Crédito Publico;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2017)</small>
 
-XII.- Secretaría de Desarrollo Social;
+VIII.- Contraloría General del Gobierno del Estado;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2017)</small>
 
-XIII. - Secretaría de Medio Ambiente y Recursos Naturales;
+IX.- Banco Nacional de Comercio Exterior;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2017)</small>
 
-XIV.- Instituto para el Medio Ambiente y Desarrollo Sustentable del Estado de Colima;
+X.- Nacional Financiera;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2017)</small>
 
-XV.- Delegación de la Procuraduría Federal de Protección al Ambiente;
+XI.- Secretaría de Economía;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2017)</small>
 
-XVI.- Delegación de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+XII.- Secretaría de Comunicaciones y Transportes;
 
-XVII.- Secretaría de Desarrollo Rural del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2017)</small>
 
-XVIII.- Los representantes de las cámaras del sector empresarial;
+XIII.- Comisión Federal de Electricidad;
 
-XIX.- Los representantes de asociaciones ganaderas, y de agricultores del Estado;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2017)</small>
 
-XX.- Los H. Ayuntamientos de los Municipios de la Entidad que en cada caso resulten interesados;
+XIV.- Secretaría de Hacienda y Crédito Público;
 
-XXI.- Las demás Instituciones y Dependencias que por sus funciones puedan coadyuvar al logro de los objetivos de esta ley.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2017)</small>
+
+XV.- Secretaría de Medio Ambiente y Recursos Naturales;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2017)</small>
+
+XVI.- Instituto para el Medio Ambiente y Desarrollo Sustentable del Estado de Colima;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2017)</small>
+
+XVII.- Delegación de la Procuraduría Federal de Protección al Ambiente;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2017)</small>
+
+XVIII.- Delegación de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2017)</small>
+
+XIX.- Secretaría de Desarrollo Rural del Gobierno del Estado;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2017)</small>
+
+XX.- Los representantes de las cámaras del sector empresarial;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2017)</small>
+
+XXI.- Los representantes de asociaciones ganaderas, y de agricultores del Estado;
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2017)</small>
+
+XXII.- Los H. Ayuntamientos de los Municipios de la Entidad que en cada caso resulten interesados;
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2017)</small>
+
+XXIII.- Las demás Instituciones y Dependencias que por sus funciones puedan coadyuvar al logro de los objetivos de esta ley.
 
 Las Dependencias y Organismos de la Administración Publica Federal y de los Gobiernos Municipales, se integrarán al Comité mediante invitación que en su caso formule el Secretario Ejecutivo del Consejo.
 
@@ -703,25 +737,25 @@ VI.- Omitir la presentación del informe de cambio o variación de su calidad de
 
 Las infracciones a que se refiere el artículo anterior, serán sancionadas en los siguientes términos:
 
-> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2017)</small>
 
-I.- Hasta con 1,000 unidades de medida y actualización, en los casos previstos en las fracciones I, III, IV y VI.
+I.- Hasta con 1,000 unidades de medida y actualización vigente en el Estado, en los casos previstos en las fracciones I, III, IV y VI;
 
-> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2017)</small>
 
-II.- Hasta con 500 unidades de medida y actualización, en los casos previstos en la fracción II; y
+II.- Hasta con 500 unidades de medida y actualización vigente en el Estado, en los casos previstos en la fracción II; y
 
-> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2017)</small>
 
-III.- Hasta con 250 unidades de medida y actualización, en el caso de lo previsto en la fracción V.
+III.- Hasta con 250 unidades de medida y actualización vigente en el Estado, en el caso de lo previsto en la fracción V.
 
 Independientemente de las sanciones administrativas establecidas en las fracciones anteriores, la Secretaría podrá determinar la suspensión o cancelación de los incentivos o apoyos que hubiere otorgado a la empresa beneficiada.
 
 En caso de que se determine la cancelación o suspensión de los incentivos o apoyos, además de las sanciones antes señaladas, el infractor que hubiese gozado de los beneficios otorgados, deberá reintegrar al Estado el importe de los bienes, costos de infraestructura, de capacitación y adiestramiento, así como otros beneficios que hubieran representado algún costo para la entidad que hubiere concedido dichos incentivos, considerando el valor comprobado de los mismos, más sus intereses y demás accesorios.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2017)</small>
 
-Asimismo, el infractor que hubiere gozado de los beneficios de la fracción I del artículo 7 de la presente Ley, deberá pagar a la Secretaría de Finanzas y Administración, las contribuciones que hubiere dejado de pagar, adicionando los recargos, actualizaciones y multas, con base en las leyes fiscales aplicables, tomando en cuenta para calcularlos, las fechas en que deberían haberse pagado, de no haberse resuelto favorablemente su solicitud de incentivo.
+Asimismo, el infractor que hubiere gozado de los beneficios de la fracción I del artículo 7 de la presente Ley, deberá pagar a la Secretaría de Planeación y Finanzas, las contribuciones que hubiere dejado de pagar, adicionando los recargos, actualizaciones y multas, con base en las leyes fiscales aplicables, tomando en cuenta para calcularlos, las fechas en que deberían haberse pagado, de no haberse resuelto favorablemente su solicitud de incentivo.
 
 ###### ARTICULO 42.
 
@@ -747,11 +781,11 @@ La Secretaría procederá a determinar cuáles pruebas son de admitirse, conside
 
 Una vez desahogadas las pruebas o cuando la empresa no hubiere comparecido a defender sus derechos en el plazo concedido, la Secretaría notificará a la empresa la resolución definitiva, en un plazo no mayor de tres días hábiles.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 46.
 
-La Secretaría fundará y motivará su resolución, debiendo comunicarla a la Secretaría de Finanzas y Administración del Gobierno del Estado para que proceda al cobro de la misma, mediante el procedimiento económico coactivo.
+La Secretaría fundará y motivará su resolución, debiendo comunicarla a la Secretaría de Planeación y Finanzas del Gobierno del Estado para que proceda al cobro de la misma, mediante el procedimiento económico coactivo.
 
 ###### ARTICULO 47.
 
@@ -816,3 +850,11 @@ P.O. 1 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 262, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROMOCIÓN E IMPULSO AL JOVEN EMPRENDEDOR DEL ESTADO DE COLIMA Y DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE COLIMA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 1 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 263 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE COLIMA.”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Queda derogada toda disposición que contravenga lo dispuesto por el presente decreto.
