@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-civil-del-estado-de-jalisco-10544"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-25"
-last_updated: "2016-12-31"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -442,6 +442,14 @@ Para llevar a cabo el registro de un nacimiento, el Oficial del Registro Civil e
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
 Cuando no se de asistencia profesional durante el parto, para registrar el nacimiento se requiere, información rendida y apoyada por dos testigos vecinos o conocidos de la madre que sepan y les conste la gravidez y fecha de nacimiento, cuya declaración se efectuará ante el Oficial del Registro Civil, Presidente Municipal, Servidor Público responsable del Sistema para el Desarrollo Integral de la Familia en la localidad o del Ministerio Público, quienes tendrán la obligación de cerciorarse de la veracidad de la información ante ellos vertida.
+
+> <small>(ADICIONADO, P. O. 1 DE JULIO DE 2017)</small>
+
+###### Artículo 41 Bis.
+
+Las personas nacidas fuera del territorio nacional, que sean hijos de padre o madre mexicanos, tendrán derecho a que se les expida acta de nacimiento en el Estado de Jalisco, acreditando los requisitos que prevén las leyes, los reglamentos de esta Ley y su nacimiento y filiación con documento expedido por autoridad extranjera, debidamente legalizado o apostillado y traducido al español, el cual se resguardará en el apéndice del archivo, asentando los apellidos de ambos padres y nombres completos de los ascendientes de conformidad con la legislación aplicable.
+
+La apostilla o legalización de los documentos emitidos por autoridades extranjeras a que se refiere el párrafo anterior, podrán dispensarse cuando existan, entre los Estados Unidos Mexicanos y el país de origen del documento extranjero, convenios o tratados internacionales vigentes conforme a la Constitución Política de los Estados Unidos Mexicanos, que prevean medios simplificados para constatar el nacimiento y la filiación. La información que por estos medios conozcan los oficiales del registro civil será impresa y certificada por los mismos y se guardará en el apéndice del archivo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2006)</small>
 
@@ -1564,5 +1572,11 @@ P.O. 11 DE OCTUBRE DE 2016.
 P.O. 31 DE DICIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26181/LXI/16 SE REFORMAN LOS ARTÍCULOS 19, 20, 41, 43, 82, 87, 102, 103, 120 Y 128 DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO; 69 DE LA LEY DE HACIENDA DE JALISCO; Y 28 DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO, PARA EL EJERCICIO 2016”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P. O. 1 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26377/LXI/17 QUE ADICIONA EL ARTÍCULO 41 BIS A LA LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
