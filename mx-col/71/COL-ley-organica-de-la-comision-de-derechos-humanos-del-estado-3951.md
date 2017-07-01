@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-comision-de-derechos-humanos-del-estado-3951
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-05-30"
-last_updated: "2017-01-14"
+last_updated: "2017-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 30 de mayo de 1992.
 
@@ -59,11 +59,11 @@ La presente Ley rige en todo el Estado de Colima; sus disposiciones son de orden
 
 En el estado de Derecho que rige nuestra Entidad, todo ser humano gozará de las garantías y derechos que le confiere la Constitución Política de los Estados Unidos Mexicanos, las leyes que de ella emanen, Acuerdos y Tratados Internacionales vigentes en la Nación y el Ordenamiento Constitucional de esta entidad federativa y las leyes que de ella se deriven.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 3.
 
-La Comisión de Derechos Humanos del Estado de Colima es el organismo público descentralizado, con personalidad jurídica, patrimonio propio, de control constitucional, autónomo y con participación de la sociedad civil, a través de su consejo, que tiene como objeto la observancia, promoción, protección, estudio y divulgación de los derechos humanos.
+La Comisión de Derechos Humanos del Estado de Colima es el organismo público descentralizado, con personalidad jurídica, patrimonio propio, con autonomía presupuestaria, técnica y de gestión en el ejercicio de sus atribuciones, de control constitucional, autónomo y con participación de la sociedad civil, a través de su consejo, que tiene como objeto la observancia, promoción, protección, estudio y divulgación de los derechos humanos.
 
 Para los efectos de la presente Ley, el término de "COMISION'' se entenderá referido a dicho organismo.
 
@@ -664,3 +664,9 @@ P.O. 14 DE ENERO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 234 POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 23 DE LA LEY ORGÁNICA DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 1 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 315 POR EL QUE SE APRUEBA REFORMAR EL ARTÍCULO 3º DE LA LEY ORGÁNICA DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
