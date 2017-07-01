@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2017-04-01"
+last_updated: "2017-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2017.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -118,6 +118,22 @@ III.- Cuando exista la necesidad de conocer información sobre la aplicación de
 ###### ARTICULO 9º.
 
 Toda propuesta para citar a los servidores públicos mencionados en el artículo anterior, deberá ser aprobada por el Congreso o la Comisión respectiva, lo que será comunicado al Gobernador del Estado o a los Titulares de las Entidades respectivas, para su cumplimiento en la fecha que acuerden el Poder Ejecutivo y el Poder Legislativo o determine el Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2017)</small>
+
+###### ARTICULO 9º Bis.
+
+Para las comparecencias de las autoridades o servidores públicos a los que hace referencia el tercer párrafo del artículo 86 de la Constitución Política del Estado Libre y Soberano de Colima, que hayan sido aprobadas por el Pleno a solicitud de la Comisión de Derechos Humanos del Estado de Colima, se estará a lo siguiente:
+
+I.- Una vez que ingrese al lugar destinado para sesionar el servidor público compareciente, el Presidente de la Mesa Directiva en turno del H. Congreso procederá a tomarle protesta correspondiente de decir verdad y le hará saber las responsabilidades de los servidores públicos que incurren en falsedad.
+
+II.- Posteriormente, el Presidente de la Mesa Directiva en turno del H. Congreso le otorgará el uso de la voz para que exponga de manera fundada y motivada su negativa para no dar cumplimiento a la recomendación que le emitió la Comisión Estatal de Derechos Humanos.
+
+III.- Hecha la exposición, hará uso de la palabra un legislador por cada uno de los Grupos Parlamentarios y los diputados únicos de partido que deseen hacerlo. Estas intervenciones se realizarán en orden creciente, en razón del número de legisladores de cada Grupo Parlamentario y cada una de ellas no excederá de diez minutos.
+
+IV.- A continuación, un legislador de cada Grupo Parlamentario y los diputados únicos, podrán formular sus preguntas de manera directa al servidor público compareciente. Al final de cada una de ellas, el servidor público citado hará uso de la palabra para dar respuesta a cada una de ellas.
+
+V.- Una vez finalizados los cuestionamientos el servidor público compareciente emitirá un mensaje final, acto seguido el Presidente de la Mesa Directiva en turno del H. Congreso hará uso de la palabra para un mensaje final sobre el tema para el que fue citado el servidor público.
 
 ###### ARTICULO 10.
 
@@ -1510,3 +1526,9 @@ P.O. 1 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 261 POR EL QUE SE REFORMA EL ARTÍCULO 79 BIS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 1 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 308 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO Y SU REGLAMENTO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación, debiéndose publicar en el Periódico Oficial "El Estado de Colima".
