@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-de-seguridad-publica-para-el-estado-de-88677"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-21"
-last_updated: "2017-01-17"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DEL SISTEMA DE SEGURIDAD PUBLICA PARA EL ESTADO DE JALISCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 21 de julio de 2012.
 
@@ -83,9 +85,7 @@ I. Carrera ministerial: al servicio profesional de carrera de las Instituciones 
 
 Procuración de Justicia;
 
-II. Carrera pericial: al servicio profesional de carrera del Instituto Jalisciense de
-
-Ciencias Forenses;
+II. Carrera pericial: al servicio profesional de carrera del Instituto Jalisciense de Ciencias Forenses;
 
 III. Carrera policial: al servicio profesional de carrera policial;
 
@@ -104,8 +104,6 @@ VIII. Consejo Estatal: el Consejo Estatal de Seguridad Pública;
 IX. Consejo Ciudadano: Consejo Ciudadano de Seguridad y Procuración de Justicia;
 
 X. Cuerpos de seguridad pública del Estado: las corporaciones a que se refiere el artículo 26 de la presente ley;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
@@ -143,7 +141,9 @@ XXII. Supervisor de Libertad: la autoridad administrativa que depende del Poder 
 
 Las instituciones de seguridad pública serán de carácter civil, disciplinado y profesional.
 
-Las relaciones jurídicas de los ministerios públicos, secretarios y actuarios del Ministerio Público, los peritos y los elementos operativos de las instituciones policiales se regirán por la fracción XIII, del apartado B, del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública, la presente ley y demás disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2017)</small>
+
+Las relaciones jurídicas de los ministerios públicos, peritos y los elementos operativos de las Instituciones policiales se regirán por la fracción XIII, del apartado B, del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Publica, la presente ley y demás disposiciones legales aplicables.
 
 ###### Artículo 5°.
 
@@ -1045,13 +1045,9 @@ Los ayuntamientos del estado podrán establecer academias municipales, las cuale
 
 Las academias y los institutos antes referidos tendrán la atribución de emitir el documento que establezca la homologación por desempeño a que se refiere la fracción IV, inciso a), numeral 1, del artículo 79 de la presente ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
 ### Capítulo VI. De los Primeros Auxilios
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(ADICIONADO P.O. 20 DE DICIEMBRE DE 2014)</small>
 
@@ -1059,15 +1055,11 @@ Las academias y los institutos antes referidos tendrán la atribución de emitir
 
 Todos los elementos que pertenezcan a las áreas operativas de prevención, deberán estar capacitados en primeros auxilios, y todos los vehículos que utilicen deberán de contar con un botiquín médico que contenga los materiales necesarios para su debida prestación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
 > <small>(ADICIONADO P.O. 20 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 68 Ter.
 
 Los cursos de capacitación en materia de primeros auxilios, deberán brindarse a los elementos operativos de manera constante y en ningún caso excederán de dos años entre ellos, cuyo cumplimiento será supervisado por el Secretario Ejecutivo del Consejo Estatal de Seguridad Pública.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(ADICIONADO P.O. 20 DE DICIEMBRE DE 2014)</small>
 
@@ -1231,13 +1223,11 @@ Los titulares de las categorías jerárquicas estarán facultados para ejercer l
 
 El ingreso es el procedimiento de integración de los candidatos a la estructura institucional, el cual tendrá verificativo al terminar la etapa de formación inicial o capacitación en las academias, en el Instituto de Formación y Profesionalización de la Fiscalía General o el Instituto Jalisciense de Ciencias Forenses; el periodo de prácticas correspondiente y la acreditación del cumplimiento de los requisitos previstos en la presente ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2017)</small>
+
 ###### Artículo 78.
 
 La permanencia es el resultado del cumplimiento constante de los requisitos establecidos en la presente ley y demás disposiciones aplicables, para continuar en el servicio activo de las instituciones de seguridad pública.
-
-Los requisitos de ingreso y permanencia para actuarios y secretarios del Ministerio Público serán establecidos en la Ley Orgánica de la Procuraduría.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
@@ -2616,3 +2606,9 @@ P.O. 17 DE ENERO DE 2017.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. El titular del Poder Ejecutivo deberá realizar todas las modificaciones presupuestales y administrativas para dar cumplimiento con lo establecido en el presente decreto.
+
+P.O. 1 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26375/LXL/17 QUE REFORMA LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO, LA LEY DE CONTROL DE CONFIANZA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
