@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2017-03-04"
+last_updated: "2017-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,15 @@ state: "COL"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2017.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
 EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE LOS ARTÍCULOS 33 FRACCIÓN II Y 39, DE LA CONSTITUCIÓN POLÍTICA LOCAL, EN NOMBRE DEL PUEBLO, Y
 
-CONSIDERANDO...
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto, se expide el siguiente
 
@@ -117,9 +119,11 @@ Cuando con autorización o a solicitud expresa del Presidente del Congreso o de 
 
 Para dar cumplimiento a lo dispuesto por el segundo párrafo del artículo 7° de la Ley, el Presidente, por conducto de la Secretaría, conminará a quien viole la prohibición contenida en el precepto legal de referencia, para que la suspenda inmediatamente o abandone el Recinto Legislativo y en caso de negativa, pedirá el auxilio de la fuerza pública para hacer cumplir su determinación.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2017)</small>
+
 ###### Artículo 8º.
 
-Cuando un servidor público de los señalados por el artículo 8º de la Ley, sea citado a comparecer a una sesión, ocupará el lugar que al efecto se le asigne, debiéndosele otorgar las facilidades necesarias para que tenga comunicación con sus colaboradores o asesores, quienes invariablemente deberán ocupar un lugar en las galerías.
+Cuando un servidor público de los señalados por los artículos 8º y 9º Bis de la Ley, sea citado a comparecer a una sesión, ocupará el lugar que al efecto se le asigne, debiéndosele otorgar las facilidades necesarias para que tenga comunicación con sus colaboradores o asesores, quienes invariablemente deberán ocupar un lugar en las galerías.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -931,7 +935,7 @@ IV.- Participar en la promoción de la creación o actualización de los planes 
 
 V.- Impulsar la realización de estudios técnicos en materia de desarrollo urbano, que le permita al gobierno del Estado, conocer las tendencias y los índices de crecimiento del fenómeno de urbanización, que le permitan eficientar la toma de decisiones, en materia de inversión pública, para la creación de infraestructura social o productiva o como parte de sus estrategias y políticas en materia de fomento de la inversión productiva y de promoción económica;
 
-VI.- Contribuir en el impulso de programas institucionales en materia de urbanización, para la consolidación de los principales centros de población, sobre la base de un sólido sistema de ciudades, a partir del cual se esté en posibilidades de materializar los proyectos de urbanización necesarios, que hagan posible, en el mediano y largo plazo, la integración un (sic) sistema metropolitano de ciudades y municipios, que mejore las expectativas de crecimiento y desarrollo de las diversas regiones del estado, basado en la cooperación y la coordinación interinstitucional e intersectorial;
+VI.- Contribuir en el impulso de programas institucionales en materia de urbanización, para la consolidación de los principales centros de población, sobre la base de un sólido sistema de ciudades, a partir del cual se esté en posibilidades de materializar los proyectos de urbanización necesarios, que hagan posible, en el mediano y largo plazo, la integración (sic) un sistema metropolitano de ciudades y municipios, que mejore las expectativas de crecimiento y desarrollo de las diversas regiones del estado, basado en la cooperación y la coordinación interinstitucional e intersectorial;
 
 VII.- Revisar y adecuar, en su caso, la legislación vigente en materia de vivienda en el Estado, así como en materia de asentamientos humanos, que privilegie la regulación y la inducción del fenómeno de urbanización conforme a los planes y programas de desarrollo urbano del gobierno del estado y los municipios de la entidad;
 
@@ -2978,3 +2982,9 @@ P.O. 4 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 271 POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 50 Y ADICIONAR (SIC) LOS ARTÍCULOS 63 BIS Y 63 TER DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación debiéndose publicar en el Periódico Oficial "El Estado de Colima".
+
+P.O. 1 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 308 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO Y SU REGLAMENTO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación, debiéndose publicar en el Periódico Oficial "El Estado de Colima".
