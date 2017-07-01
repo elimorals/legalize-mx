@@ -4,7 +4,7 @@ identifier: "COL-ley-estatal-de-responsabilidades-de-los-servidores-publicos-405
 country: "mx"
 rank: "ley"
 publication_date: "1984-12-08"
-last_updated: "2016-11-22"
+last_updated: "2017-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4052&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 8 de diciembre de 1984.
 
@@ -373,7 +373,9 @@ XVI.- Abstenerse de desempeñar un empleo, cargo o comisión oficiales, obtenido
 
 XVII.- Abstenerse de intervenir o participar indebidamente en la selección, nombramiento, designación, contratación, promoción, suspensión, remoción, cese o sanción de cualquier servidor público, cuando tenga interés personal, Familiar o de negocios en el caso, o pueda derivar alguna ventaja o beneficio para él o para las personas a las que se refiere la fracción XIII.
 
-XVIII.- Presentar con oportunidad y veracidad la declaración de situación patrimonial ante la Contraloría General del Estado, en los términos que señala la Ley.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2017)</small>
+
+XVIII.- Presentar con oportunidad y veracidad la declaración de situación patrimonial y la de posible conflicto de interés, ante la Contraloría General del Estado en los términos que señala la ley.
 
 XIX.- Informar al superior jerárquico de todo acto, u omisión de los servidores públicos sujetos a su dirección, que pueda implicar inobservancia de las obligaciones a que se refieren las fracciones de este Artículo, y en los términos de las normas que al efecto se expidan.
 
@@ -434,6 +436,12 @@ Cuando el planteamiento que formule el servidor público a su superior jerárqui
 Para los efectos de esta Ley se entenderá por Contraloría a la Contraloría General del Estado.
 
 Para los mismos efectos, se entenderá por superior jerárquico al Titular de la dependencia y en el caso de las demás dependencias del Poder Ejecutivo al Titular de cada una de ellas, quien deberá aplicar las sanciones cuya imposición se atribuya a través de la Dirección de Control y Evaluación Financiera de la Contraloría General.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2017)</small>
+
+###### ARTICULO 45 Bis.
+
+Para los efectos de este ordenamiento legal, se entenderá por posible conflicto de interés la afectación del desempeño imparcial y objetivo de las funciones de los Servidores Públicos en razón de intereses personales, familiares o de negocios.
 
 ### CAPITULO II.
 
@@ -695,9 +703,11 @@ La prescripción se interrumpirá al iniciarse los procedimientos previstos por 
 
 REGISTRO PATRIMONIAL DE LOS SERVIDORES PUBLICOS.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2017)</small>
+
 ###### ARTICULO 75.
 
-La Contraloría llevará el registro de la situación patrimonial de los servidores públicos de conformidad con esta Ley y demás disposiciones aplicables.
+La Contraloría llevará el registro de la situación patrimonial y de la declaración de posible conflicto de interés de los servidores públicos de conformidad con esta Ley y demás disposiciones aplicables.
 
 ###### ARTICULO 76.
 
@@ -729,21 +739,33 @@ IX.- En los Municipios: Todos los funcionarios municipales, desde jefes de depar
 
 Asimismo, deberán presentar la declaración de la que se trata en este precepto los demás servidores públicos que determinen conjuntamente el Contralor General del Estado y el Procurador General de Justicia mediante disposiciones generales debidamente motivadas y fundadas.
 
-###### ARTICULO 77.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2017)</small>
 
-La declaración de Situación Patrimonial deberá presentarse en los siguientes plazos:
+###### ARTÍCULO 77.
 
-I.- Dentro de los sesenta días naturales siguientes a la toma de posesión.
+La declaración de Situación Patrimonial y de Posible Conflicto de Interés, deberá presentarse en los siguientes plazos:
 
-II.- Dentro de los treinta días naturales siguientes a la conclusión del encargo; y
+I. Dentro de los sesenta días naturales siguientes a la toma de posesión.
 
-III.- Durante el mes de mayo de cada año deberá presentarse la declaración de situación patrimonial, acompañada de una copia de la declaración anual presentada por personas físicas para los efectos de la Ley de Impuesto sobre la Renta, salvo que en ese mismo año se hubiese presentado la declaración a que se refiere la fracción I.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2017)</small>
+
+II. Dentro de los treinta días naturales siguientes a la conclusión del encargo;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2017)</small>
+
+III. Durante el mes de mayo de cada año deberá presentarse la declaración de situación patrimonial, acompañada de una copia de la declaración anual presentada por personas físicas para los efectos de la Ley del Impuesto sobre la Renta, salvo que en ese mismo año se hubiese presentado la declaración a que se refiere la fracción I; y
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2017)</small>
+
+IV. En cualquier momento en que un servidor público considere que pudiera acontecer un posible conflicto de interés en el desempeño de su responsabilidad.
 
 Si transcurrido el plazo a que hace referencia la fracción I, no se hubiese presentado la declaración correspondiente, sin causa justificada, quedará sin efectos el nombramiento respectivo. Lo mismo ocurrirá cuando se omita la declaración contemplada en la fracción III.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2017)</small>
+
 ###### ARTICULO 78.
 
-El Titular del Poder Ejecutivo expedirá las normas y los formatos bajo los cuales el servidor público deberá presentar la declaración de situación patrimonial, así como los manuales o instructivos que indicarán lo que es obligatorio declarar.
+El Titular del Poder Ejecutivo expedirá las normas y los formatos bajo los cuales el servidor público deberá presentar la declaración de situación patrimonial y de posible conflicto de interés, así como los manuales o instructivos que indicarán lo que es obligatorio declarar.
 
 ###### ARTICULO 79.
 
@@ -850,3 +872,9 @@ P.O. 22 DE NOVIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
+
+P.O. 1 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 316 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES A LA LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima"
