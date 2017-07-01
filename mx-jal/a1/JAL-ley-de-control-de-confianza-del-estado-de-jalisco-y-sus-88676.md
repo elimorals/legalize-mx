@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-control-de-confianza-del-estado-de-jalisco-y-sus-88676"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-21"
-last_updated: "2015-11-12"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88676&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DE CONTROL DE CONFIANZA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE CONTROL DE CONFIANZA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2017.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 21 de julio de 2012.
 
@@ -48,8 +50,6 @@ Ley de Control de Confianza del Estado de Jalisco y sus Municipios
 ###### Artículo 1.
 
 °
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
@@ -209,9 +209,9 @@ En el caso de los SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN DE JUSTICIA Y defen
 
 1. La evaluación de control de confianza se aplicará, cuando menos, cada dos años y se realizará con el apoyo de las unidades administrativas, órganos y organismos competentes.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2017)</small>
 
-2. A los ministerios públicos, secretarios del Ministerio Público, actuarios de la Fiscalía General, así como a los peritos se les aplicará cuando menos cada tres años.
+2. A los ministerios públicos, así como a los peritos se les aplicará cuando menos cada tres años.
 
 ###### Artículo 15.
 
@@ -357,7 +357,7 @@ VÍCTOR MANUEL GONZÁLEZ ROMERO
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 18 DE DICIEMBRE DE 2014.
 
@@ -378,3 +378,9 @@ QUINTO. Hasta en tanto se realicen las adecuaciones correspondientes, continuar�
 SEXTO. Hasta en tanto se lleven a cabo las reformas a los reglamentos, protocolos, manuales y demás ordenamientos jurídicos o administrativos, cualquier alusión en estos a la Policía Vial, deberá entenderse que depende de la Secretaría de Movilidad.
 
 SÉPTIMO. El Titular del Poder Ejecutivo deberá instrumentar las acciones necesarias para garantizar, a la brevedad posible, la correspondiente aplicación del examen de control de confianza al titular de la Dirección Operativa de la Policía Vial del Estado de Jalisco.
+
+P.O. 1 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26375/LXI/17 QUE REFORMA LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO, LA LEY DE CONTROL DE CONFIANZA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
