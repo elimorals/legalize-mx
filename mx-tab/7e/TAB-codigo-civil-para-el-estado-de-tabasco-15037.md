@@ -4,7 +4,7 @@ identifier: "TAB-codigo-civil-para-el-estado-de-tabasco-15037"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-04-09"
-last_updated: "2016-01-13"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2017.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 9 de abril de 1997.
 
@@ -33,7 +33,7 @@ Que el H. Congreso del Estado, se ha servido dirigirme lo siguiente:
 
 LA QUINCUAGESIMA QUINTA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 36, FRACCIONES I Y XXXIX, DE LA CONSTITUCION POLITICA LOCAL Y EN BASE A LA SIGUIENTE:
 
-...
+[...]
 
 Que este Honorable Congreso está facultado en términos del artículo 36, fracciones I y XXXIX de la Constitución Política Local, para expedir, reformar, adicionar, derogar y abrogar leyes y decretos para la mejor administración del Estado, planeando su desarrollo económico y social, por lo que en consecuencia hemos tenido a bien emitir el siguiente:
 
@@ -555,11 +555,13 @@ VII.- Si es necesario testar alguna palabra, se pasará sobre ella una línea de
 
 VIII.- Al final de cada acta se salvará con toda claridad lo entrerrenglonado y lo testado, conforme a la fracción anterior.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2017)</small>
+
 ###### ARTICULO 68.
 
 Representación por mandatario
 
-Si los interesados no pueden concurrir personalmente, podrán hacerse representar por un mandatario especial para el acto, cuyo nombramiento conste en instrumento público o privado otorgado ante dos testigos. En los casos de matrimonio o de reconocimiento de hijos, se necesita poder otorgado en escritura pública o mandato extendido en escrito privado firmado por el otorgante y dos testigos y ratificadas las firmas ante el Juez de primera instancia o Notario Público.
+Si los interesados no pueden concurrir personalmente, podrán hacerse representar por un mandatario especial para el acto, cuyo nombramiento conste en instrumento público o privado otorgado ante dos testigos. En los casos de matrimonio o de reconocimiento de hijos, se necesita poder otorgado en escritura pública o mandato extendido en escrito privado firmado por el otorgante, quien necesariamente deberá ser mayor de edad y dos testigos y ratificadas las firmas ante el Juez de primera instancia o Notario Público.
 
 ###### ARTICULO 69.
 
@@ -917,13 +919,15 @@ IV.- Un documento emitido por la Secretaría de Salud del Estado o por otra inst
 
 V.- Copia certificada de la constancia relativa a: defunción del cónyuge, del divorcio administrativo, parte resolutiva de la sentencia de divorcio judicial o de nulidad del matrimonio, en caso de que cualquiera de los contrayentes hubiere sido casado anteriormente; y
 
-VI.- Copia de la dispensa de impedimentos, si los hubo.
+VI.- (DEROGADA, P.O. 1 DE JULIO DE 2017)
 
 ###### ARTICULO 117.
 
 Reconocimiento de firmas
 
-El Oficial del Registro Civil a quien se presente una solicitud de matrimonio que llene los requisitos enumerados en los artículos anteriores, hará que los pretendientes y los ascendientes, o tutores que deben otorgar su consentimiento, reconozcan ante él y por separado sus firmas.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2017)</small>
+
+El Oficial del Registro Civil a quien se presente una solicitud de matrimonio que llene los requisitos enumerados en los artículos anteriores, hará que los pretendientes reconozcan ante él y por separado sus firmas.
 
 Las declaraciones de los testigos a que se refiere al artículo 116 en su fracción III, serán ratificadas bajo protesta de decir verdad ante el mismo Oficial del Registro Civil. Este, cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce el certificado médico presentado, solicitando la ratificación de la misma ante su presencia.
 
@@ -949,19 +953,19 @@ Se levantará el acta de matrimonio en que se hará constar:
 
 I.- Nombres, edad, ocupación, domicilio, nacionalidad y lugar de nacimiento de los contrayentes;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2017)</small>
 
-II.- Que son mayores de edad, salvo las excepciones que este Código establece.
+II.- Que son mayores de edad.
 
 III.- Nombres, domicilio y nacionalidad de sus padres;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2017)</small>
 
-IV.- El consentimiento de los contrayentes o de las autoridades que deban suplirlo, si son menores de edad;
+IV.- El consentimiento de los contrayentes.
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2017)</small>
 
-V.- Que no hubo impedimento legal para el matrimonio o, en su caso, que éste se dispensó;
+V.- Que no hubo impedimento legal para el matrimonio.
 
 VI.- La declaración de los pretendientes de ser su voluntad unirse en matrimonio y la de haber quedado unidos, que hará el Oficial del Registro Civil en nombre de la ley y de la sociedad;
 
@@ -1259,13 +1263,13 @@ El matrimonio debe celebrarse ante los funcionarios que establece la ley y con l
 
 Habrá concubinato cuando una pareja de hombre y mujer, sin impedimento para contraer matrimonio vivan juntos públicamente como si fueran marido y mujer, durante un año, o menos si hubiere hijos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 154.
 
-Quiénes pueden contraerlo
+Quiénes pueden contraerlo.
 
-Pueden contraer matrimonio: el hombre y la mujer que han cumplido dieciocho años de edad. El Gobernador del Estado o el Presidente Municipal del lugar, pueden conceder dispensa, en casos excepcionales y por causas graves y justificadas.
+Pueden contraer matrimonio: el hombre y la mujer que hayan cumplido dieciocho años de edad.
 
 ###### ARTICULO 155.
 
@@ -1319,9 +1323,9 @@ XII.- La disminución o perturbación de la inteligencia; y
 
 XIII.- El vínculo de un matrimonio anterior subsistente al tiempo en que se pretenda contraer otro.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2017)</small>
 
-De estos impedimentos sólo son dispensables la falta de edad, en los casos previstos por este Código, y el parentesco de consanguinidad en línea colateral desigual.
+De estos impedimentos sólo es dispensable el parentesco de consanguinidad en línea colateral desigual
 
 ###### ARTICULO 161.
 
@@ -1333,17 +1337,13 @@ Impedimento por adopción
 
 El adoptante o los ascendientes de éste no pueden contraer matrimonio con el adoptado o sus descendientes, en tanto dure el lazo jurídico resultante de la adopción.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 163.
 
 Impedimento por tutela
 
-Quien desempeñe el cargo de tutor, en ningún caso podrá contraer matrimonio con quien esté bajo su tutela.
-
-Quien haya desempeñado la tutela no puede contraer matrimonio con quien hubiere estado bajo su guarda, a no ser que obtenga dispensa del Juez competente, cuando hayan sido aprobadas legalmente las cuentas de la tutela. La prohibición contenida en este artículo comprende también a los curadores y a los ascendientes y descendientes de éstos y de los tutores.
-
-En todos los casos previstos en este Artículo el régimen patrimonial del matrimonio será el de separación de bienes, aunque el matrimonio se hubiere contraído bajo el régimen de sociedad conyugal expresa o tácitamente.
+Quien desempeñe el cargo de tutor, en ningún caso podrá contraer matrimonio con quien esté bajo su tutela. Quien haya desempeñado la tutela no puede contraer matrimonio con quien hubiere estado bajo su guarda. La prohibición contenida en este artículo comprende también a los curadores y a los ascendientes y descendientes de éstos y de los tutores
 
 ###### ARTICULO 164.
 
@@ -1415,17 +1415,17 @@ Libertad de empleo
 
 Los cónyuges podrán desempeñar cualquier empleo, ejercer una profesión, industria, oficio o comercio, siendo lícitos. Sólo puede oponerse uno de los cónyuges a que el otro realice la actividad que desempeñe, cuando ésta dañe a la familia o ponga en peligro su estabilidad.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2017)</small>
+
 ###### ARTICULO 171.
 
 Libre disposición de bienes
 
-Los cónyuges mayores de edad tienen capacidad para administrar, contratar o disponer de sus bienes propios y ejercitar las acciones u oponer las excepciones que les corresponda, sin que para tal objeto necesite del consentimiento uno del otro.
+Los cónyuges tienen capacidad para administrar, contratar o disponer de sus bienes propios y ejercitar las acciones u oponer las excepciones que les corresponda, sin que para tal objeto necesite del consentimiento uno del otro
 
 ###### ARTICULO 172.
 
-Administración de bienes de cónyuges menores
-
-Los cónyuges menores de edad tendrán la administración de sus bienes en los términos del artículo que precede; pero necesitarán autorización judicial para enajenarlos, gravarlos o hipotecarlos y un tutor para sus negocios judiciales.
+(DEROGADO, P.O. 1 DE JULIO DE 2017)
 
 ###### ARTICULO 173.
 
@@ -1775,9 +1775,7 @@ II.- Por el adulterio o separación injustificada de la casa conyugal, con aband
 
 ###### ARTICULO 226.
 
-Donación de menores
-
-Los menores pueden hacer donaciones antenupciales; pero sólo con intervención de sus padres o tutores o con aprobación judicial.
+(DEROGADO, P.O. 1 DE JULIO DE 2017)
 
 ###### ARTICULO 227.
 
@@ -1805,7 +1803,7 @@ I.- Pueden ser revocadas libremente y en todo tiempo por los donantes;
 
 II.- Los cónyuges no necesitan autorización judicial para revocarlas;
 
-III.- Estas donaciones no se anularán por la supervenencia de hijos, pero se reducirán cuando sean inoficiosas en los mismos términos que las comunes; y
+III.- Estas donaciones no se anularán por la supervenencia (sic) de hijos, pero se reducirán cuando sean inoficiosas en los mismos términos que las comunes; y
 
 IV.- Sólo se confirmarán con la muerte del donante.
 
@@ -1971,23 +1969,23 @@ Matrimonio ilícito
 
 Es ilícito y, además, nulo el matrimonio:
 
-I.- Cuando se ha contraído estando pendiente la decisión de un impedimento que sea susceptible de dispensa; y
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+I.- Cuando se ha contraído estando pendiente la decisión de un impedimento que sea susceptible de dispensa, no se considera como pendiente de decisión la edad requerida para ello;
 
-II.- Cuando no se ha otorgado la previa dispensa que requiere el artículo 163.
+II.- (DEROGADA, P.O. 1 DE JULIO DE 2017)
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 En los casos anteriores, la nulidad sólo podrá ser exigida por quien acredite interés jurídico o por el Ministerio Público, dentro del término de noventa días de celebrado el matrimonio.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 255.
 
 Sanciones por infracción
 
-Los que infrinjan el artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con un menor y quienes en contravención de la ley autoricen los matrimonios con menores de edad, incurrirán en los delitos que señale el Código de la materia.
+Los que infrinjan el artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con un menor, incurrirán en los delitos que señale el Código de la materia.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
@@ -2099,11 +2097,15 @@ El divorcio voluntario no procede sino pasado un año de la celebración del mat
 
 Solicitud de divorcio
 
-Cuando ambos consortes convengan en divorciarse y sean mayores de edad, no tengan hijos y de común acuerdo hubieren liquidado la sociedad conyugal, si conforme a ese régimen se encontraba sujeto el matrimonio, se presentarán personalmente ante el Oficial del Registro Civil del lugar de su domicilio; comprobarán con las copias certificadas respectivas que son casados y mayores de edad, manifestarán de una manera terminante y explícita su voluntad de divorciarse.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2017)</small>
+
+Cuando ambos consortes convengan en divorciarse, no tengan hijos y de común acuerdo hubieren liquidado la sociedad conyugal, si conforme a ese régimen se encontraba sujeto el matrimonio, se presentarán personalmente ante el Oficial del Registro Civil del lugar de su domicilio; comprobarán con las copias certificadas respectivas que son casados y manifestarán de una manera terminante y explícita su voluntad de divorciarse.
 
 El Oficial del Registro Civil, previa identificación de los consortes, levantará un acta en que hará constar la solicitud de divorcio y citará a los cónyuges para que se presenten a ratificarla a los quince días. Si los consortes hacen la ratificación y no se logra la reconciliación, el Oficial del Registro Civil los declarará divorciados, levantando el acta respectiva y haciendo la anotación correspondiente en la del matrimonio anterior.
 
-El divorcio así obtenido no surtirá efectos legales si se comprueba que los cónyuges tienen hijos, son menores de edad o no han liquidado la sociedad conyugal, y entonces aquéllos sufrirán las penas que establezca el Código de la materia.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2017)</small>
+
+El divorcio así obtenido no surtirá efectos legales si se comprueba que los cónyuges tienen hijos, o no han liquidado la sociedad conyugal, y entonces aquéllos sufrirán las penas que establezca el Código de la materia
 
 ###### ARTICULO 269.
 
@@ -3095,7 +3097,7 @@ Las acciones civiles que se intenten contra el hijo por los bienes que ha adquir
 
 ###### ARTICULO 377.
 
-Imprescribilidad de la acción
+Imprescribilidad (sic) de la acción
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -21645,7 +21647,7 @@ Lo dispuesto en los artículos 2767 y 2768 es aplicable a los aperos de la finca
 
 Concepto
 
-Por el contrato de habitación en tiempo compartido, el compartidor se obliga a conceder al compartidario el uso de un inmueble amueblado por un determinado plazo; y el compartidiario se obliga a pagar por ese uso un precio cierto y en dinero, así como una cantidad adicional de dinero, que puede ser variable, para gastos que se causen por el servicio de mantenimiento.
+Por el contrato de habitación en tiempo compartido, el compartidor se obliga a conceder al compartidario el uso de un inmueble amueblado por un determinado plazo; y el compartidiario (sic) se obliga a pagar por ese uso un precio cierto y en dinero, así como una cantidad adicional de dinero, que puede ser variable, para gastos que se causen por el servicio de mantenimiento.
 
 El compartidario podrá pagar al compartidor el precio del uso en una sola exhibición o en abonos.
 
@@ -25641,7 +25643,7 @@ LIC. VICTOR MANUEL BARCELO RODRIGUEZ
 
 SECRETARIO DE GOBIERNO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 3 DE MAYO DE 2003.
 
@@ -25758,6 +25760,18 @@ P.O. 13 DE ENERO DE 2016.
 ## [N. DE E. TRANSITORIO DEL DECRETO 265 POR EL QUE “SE ADICIONA EL CAPÍTULO VI BIS DENOMINADO “DE LA GESTACIÓN ASISTIDA Y SUBROGADA”; INTEGRADO POR LOS ARTÍCULOS: 380 BIS; 380 BIS 1; 380 BIS 2; 380 BIS 3; 380 BIS 4; 380 BIS 5; 380 BIS 6 Y 380 BIS 7, AL TÍTULO OCTAVO “DE LA FILIACIÓN”, PERTENECIENTE AL LIBRO PRIMERO, DEL CÓDIGO CIVIL PARA EL ESTADO DE TABASCO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+P.O. 1 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 097 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 68; EL PRIMER PÁRRAFO DEL ARTÍCULO 117; LAS FRACCIONES II, IV Y V, DEL ARTÍCULO 120; 154; EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 160; 163 Y 171; LA FRACCIÓN I DEL ARTÍCULO 254; EL ARTÍCULO 255; EL PRIMER Y TERCER PÁRRAFO DEL ARTÍCULO 268; Y SE DEROGAN LA FRACCIÓN VI DEL ARTÍCULO 116; 172 Y 226; LA FRACCIÓN II DEL ARTÍCULO 254; TODOS DEL CÓDIGO CIVIL PARA EL ESTADO DE TABASCO".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las personas que hayan contraído matrimonio hasta antes de la entrada en vigor del presente Decreto, siendo menores de dieciocho años y mediante dispensa, se regirá de acuerdo a las disposiciones legales que se encontraban vigentes a la celebración del mismo.
+
+TERCERO.- En los juicios sobre nulidad de matrimonio y divorcio, en los que se requiera representación de cónyuges menores de edad, seguirán rigiéndose por las disposiciones del Código de Procedimientos Civiles que se encontraban vigentes al momento de contraer matrimonio.
+
+CUARTO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
 
 ###### ARTICULO PRIMERO.
 
