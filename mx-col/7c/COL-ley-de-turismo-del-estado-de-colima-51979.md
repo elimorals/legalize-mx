@@ -4,7 +4,7 @@ identifier: "COL-ley-de-turismo-del-estado-de-colima-51979"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-23"
-last_updated: "2014-05-03"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51979&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE TURISMO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2017.
 
 Ley publicada en el Suplemento No. 8 al Periódico Oficial del Estado de Colima, el sábado 23 de septiembre de 2006.
 
@@ -37,7 +37,7 @@ EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN E
 
 CONSIDERANDOS
 
-.
+[...]
 
 Por lo antes expuesto se tiene a bien expedir el siguiente:
 
@@ -915,9 +915,21 @@ IV. Recibir del prestador de servicios turísticos, los bienes y servicios de ca
 
 V. Recibir los servicios sin ser discriminado;
 
-VI. Disfrutar el libre acceso y goce de todo el patrimonio turístico, así como su permanencia en las instalaciones de dichos servicios, sin las limitaciones que las derivadas de los reglamentos específicos de cada actividad; y
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2017)</small>
 
-VII. Contar con las condiciones de higiene y seguridad de sus personas y bienes en las instalaciones y servicios turísticos, en los términos establecidos por las leyes correspondientes.
+VI. Disfrutar el libre acceso y goce de todo el patrimonio turístico, así como su permanencia en las instalaciones de dichos servicios, sin las limitaciones que las derivadas de los reglamentos específicos de cada actividad;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2017)</small>
+
+VII. Contar con las condiciones de higiene y seguridad de sus personas y bienes en las instalaciones y servicios turísticos, en los términos establecidos por las leyes correspondientes;
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2017)</small>
+
+VIII. Presentar quejas y denuncias sobre la prestación de servicios turísticos ante las autoridades competentes; y
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2017)</small>
+
+IX. Hacer uso de las demás prerrogativas que establezcan esta ley y otras disposiciones legales y reglamentarias aplicables.
 
 > <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
@@ -929,9 +941,29 @@ I. Observar las normas usuales de convivencia en los establecimientos turístico
 
 II. Respetar el entorno natural y patrimonio cultural de los sitios en los que se realice una actividad turística;
 
-III. Acatar las prescripciones particulares de establecimientos mercantiles y empresas cuyos servicios turísticos disfruten o contraten y, particularmente las normas y reglamentos mercantiles de uso o régimen interior; y
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2017)</small>
 
-IV. Pagar el precio de los servicios utilizados en el momento de la presentación de la factura o documento que ampare el pago en el plazo pactado.
+III. Acatar las prescripciones particulares de establecimientos mercantiles y empresas cuyos servicios turísticos disfruten o contraten y, particularmente las normas y reglamentos mercantiles de uso o régimen interior;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2017)</small>
+
+IV. Pagar el precio de los servicios utilizados en el momento de la presentación de la factura o documento que ampare el pago en el plazo pactado;
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2017)</small>
+
+V. Evitar cualquier daño al patrimonio natural del Estado, a los ecosistemas o a cualquier elemento de la diversidad biológica;
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2017)</small>
+
+VI. Cuidar el agua, la energía y demás recursos naturales de manera responsable;
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2017)</small>
+
+VII. Hacer del conocimiento a las autoridades competentes, el posible daño o perjuicio a una zona turística por la conducta negligente de los prestadores de servicios; y
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2017)</small>
+
+VIII. Las demás disposiciones que establezcan esta Ley, su reglamento y demás normatividad aplicable.
 
 ###### Artículo 53.
 
@@ -1016,3 +1048,9 @@ P.O. 1 DE SEPTIEMBRE DE 2012.
 P.O. 3 DE MAYO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 1 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 310 POR EL QUE SE REFORMAN LAS FRACCIONES VI Y VII DEL ARTÍCULO 52 VIS (SIC) Y LAS FRACCIONES III Y IV DEL ARTÍCULO 52 BIS I; SE ADICIONAN LAS FRACCIONES VIII Y IX AL ARTÍCULO 52 BIS Y LAS FRACCIONES V, VI, VII Y VIII AL ARTÍCULO 52 BIS 1, TODOS DE LA LEY DE TURISMO DEL ESTADO DE COLIMA."]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
