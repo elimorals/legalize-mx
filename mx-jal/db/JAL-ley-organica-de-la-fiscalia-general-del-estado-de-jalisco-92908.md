@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-fiscalia-general-del-estado-de-jalisco-92908
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-02-27"
-last_updated: "2017-04-04"
+last_updated: "2017-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2017.
 
 Ley publicada en la Edición Especial del Periódico Oficial del Estado de Jalisco, el miércoles 27 de febrero de 2013.
 
@@ -903,7 +903,9 @@ SEGUNDO. El titular del Poder Ejecutivo del Estado deberá presentar al Congreso
 
 TERCERO. En el proceso de creación e instalación de las Dependencias del Poder Ejecutivo del Estado a que se refiere el presente decreto, serán respetados los derechos laborales de los servidores públicos y trabajadores en los términos de ley.
 
-De igual forma serán respetados los derechos de los ministerios públicos, secretarios y actuarios del Ministerio Público, los peritos y los elementos operativos de las instituciones policiales se regirán por la fracción XIII del apartado B, del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública y demás disposiciones legales aplicables.
+> <small>(REFORMADO, P. O. 1 DE JULIO DE 2017)</small>
+
+De igual forma serán respetados los derechos de los ministerios públicos, peritos y los elementos operativos de las instituciones policiales se regirán por la fracción XIII del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública y demás disposiciones legales aplicables.
 
 CUARTO. Los recursos económicos, humanos y materiales, así como los derechos, valores, fondos y obligaciones de las dependencias que se modifican, fusionan, escinden, o extinguen en los términos de la presente ley pasarán a las nuevas Dependencias, de conformidad con el presente Decreto y en los términos que determine el Gobernador del Estado.
 
@@ -1232,3 +1234,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se concede un término de 90 días hábiles para que el Gobernador del Estado realice las adecuaciones reglamentarias correspondientes.
 
 TERCERO. Se autoriza al Gobernador del Estado para que, por conducto de la Secretaría de Planeación, Administración y Finanzas, efectúe las gestiones y los cambios presupuestales y administrativos correspondientes para el cumplimiento del presente decreto, dentro de los siguientes ciento ochenta días hábiles posteriores a su publicación.
+
+P. O. 1 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26375/LXI/17 QUE REFORMA LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO, LA LEY DE CONTROL DE CONFIANZA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
