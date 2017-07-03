@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-participacion-ciudadana-del-estado-de-aguascalientes-227
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-26"
-last_updated: "2008-09-01"
+last_updated: "2017-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2001.
 
@@ -719,9 +719,11 @@ V.- Los artículos transitorios contenidos en la Iniciativa Popular.
 
 ### CAPITULO UNICO. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+
 ###### ARTICULO 69.
 
-En el Procedimiento de la Iniciativa Popular, deberán observarse las reglas de interés general, abstracto e impersonal, por lo cual no se debe afectar el orden público, debiendo evitarse por consecuencia proferir injurias y conceptos que denigren a la sociedad, a un sector de ella, o a las autoridades respectivas, de lo contrario, quienes suscriban la petición de una Iniciativa Popular se harán acreedores, por sí mismos o por conducto de su representante legal a una multa establecida por el Congreso del Estado conforme a la gravedad de la falta, desde trescientos hasta quinientos días de salario mínimo general vigente en el Estado al momento de la presentación de la Iniciativa Popular; cuyo importe se depositará en la Secretaría General del Congreso del Estado, la cual lo destinará al Sistema Estatal del Desarrollo Integral de la Familia, para fortalecer sus programas sociales.
+En el Procedimiento de la Iniciativa Popular, deberán observarse las reglas de interés general, abstracto e impersonal, por lo cual no se debe afectar el orden público, debiendo evitarse por consecuencia proferir injurias y conceptos que denigren a la sociedad, a un sector de ella, o a las autoridades respectivas, de lo contrario, quienes suscriban la petición de una Iniciativa Popular se harán acreedores, por sí mismos o por conducto de su representante legal a una multa establecida por el Congreso del Estado conforme a la gravedad de la falta, desde trescientas hasta quinientas veces el valor diario de la unidad de medida y actualización al momento de la presentación de la Iniciativa Popular; cuyo importe se depositará en la Secretaría General del Congreso del Estado, la cual lo destinará al Sistema Estatal del Desarrollo Integral de la Familia, para fortalecer sus programas sociales.
 
 ###### ARTICULO 70.
 
@@ -787,7 +789,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 1 DE SEPTIEMBRE DE 2008.
 
@@ -807,6 +809,14 @@ III.- Exposición de motivos contenida en la solicitud del peticionario.
 
 ## TITULO SEGUNDO. DE LA PROCEDENCIA O IMPROCEDENCIA DEL PLEBISCITO
 
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 3 DE JULIO DE 2017.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
