@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-asientos-aguascalientes-90788"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-31"
-last_updated: "2013-12-31"
+last_updated: "2017-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE ASIENTOS, AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 31 de diciembre de 2012.
 
@@ -719,7 +719,9 @@ VI. Las cantidades que se paguen por el derecho a reservar localidades en los es
 
 Las empresas de espectáculos o diversiones públicas deberán otorgar fianza, a satisfacción de la Tesorería Municipal, cuando soliciten su permiso, la que perderán en caso de cancelar. Asimismo exhibirán ante la Tesorería Municipal el boletaje que se utilizará para permitir el acceso al público a efecto de que sea autorizado y sellado.
 
-En caso de que se sorprenda un boletaje no autorizado por la Tesorería Municipal, se impondrá al referido empresario una sanción consistente en el importe de diez a quinientos días de salario mínimo general vigente en el Estado de Aguascalientes al momento de cometerse la infracción.
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+
+En caso de que se sorprenda un boletaje no autorizado por la Tesorería Municipal, se impondrá al referido empresario una sanción consistente en el importe de diez a quinientas veces el valor diario de la unidad de medida y actualización.
 
 ###### ARTÍCULO 85.
 
@@ -1298,3 +1300,11 @@ P.O. 31 DE DICIEMBRE DE 2013.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
