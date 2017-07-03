@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-185-de-justicia-administrativa-para-el-estado-de-105
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-04"
-last_updated: "2017-06-29"
+last_updated: "2017-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105987&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE MAYO DE 2017.
 
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 29 DE JUNIO DE 2017.]</small>
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL B.O. DE 3 DE JULIO DE 2017.]</small>
 
 Ley publicada en la Sección IV del Boletín Oficial del Estado de Sonora, el jueves 4 de diciembre de 2014.
 
@@ -257,7 +257,9 @@ II.- Impondrá sanciones que correspondan a los servidores públicos y particula
 
 III.- Dictar las medidas preventivas y cautelares para evitar que el procedimiento sancionador quede sin materia, y el desvío de recursos obtenidos de manera ilegal, conforme a las disposiciones y procedimientos establecidos en la (sic) de la materia; y
 
-IV.- De los recursos que se hagan valer en contra de las resoluciones definitivas que impongan sanciones administrativas a los servidores públicos en términos de la Ley de la materia, así como contra las que decidan los recursos administrativos previstos en dicho ordenamiento.
+> <small>(F. DE E., B.O. 3 DE JULIO DE 2017)</small>
+
+IV.- De los juicios y recursos que se hagan valer en contra de las resoluciones definitivas que impongan sanciones administrativas a los servidores públicos en términos de la Ley de la materia, así como contra las que decidan los recursos administrativos previstos en dicho ordenamiento.
 
 Para el ejercicio de las facultades y atribuciones que la Constitución Política del Estado de Sonora, esta ley y la Ley de la materia le concede (sic) la Sala Especializada en materia de Anticorrupción y Responsabilidades Administrativas del Tribunal de Justicia Administrativa, realizará la sustanciación, instrucción y tramite de los procedimientos de su competencia de manera unitaria, hasta la elaboración del proyecto correspondiente, debiendo ser resuelto por el pleno de los Magistrados que la integran.
 
