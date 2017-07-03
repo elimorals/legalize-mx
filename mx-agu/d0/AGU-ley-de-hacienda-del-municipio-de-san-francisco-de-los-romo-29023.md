@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-san-francisco-de-los-romo-2902
 country: "mx"
 rank: "ley"
 publication_date: "1995-07-16"
-last_updated: "2017-05-15"
+last_updated: "2017-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE SAN FRANCISCO DE LOS ROMO, AGS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1995.
 
@@ -289,7 +289,9 @@ d).- Se recabe de los servidores públicos y de los federativos los informes y d
 
 e).- Emplear cualquiera de los siguientes medios de apremio, que juzgue eficaz, para hacer cumplir sus determinaciones:
 
-1.- La multa de uno a 30 días de salario mínimo general vigente, la cual se aumentará hasta 50 en caso de reincidencia;
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+
+1.- La multa de una a 30 veces el valor diario de la unidad de medida y actualización, la cual se aumentará hasta 50 en caso de reincidencia;
 
 2.- El auxilio de la fuerza pública;
 
@@ -881,7 +883,9 @@ VI.- Las cantidades que se paguen por el derecho a reservar localidades en los e
 
 Las empresas de espectáculos o diversiones públicas deberán otorgar fianza, a satisfacción de la Dirección de Finanzas, cuando soliciten su permiso, la que perderán en caso de cancelar. Asimismo exhibirán ante la Dirección de Finanzas el boletaje que se utilizará para permitir el acceso al público a efecto de que sea autorizado y sellado.
 
-En caso de que sorprenda un boletaje no autorizado por la Dirección de Finanzas, se impondrá al referido empresario una infracción consistente en el importe de diez a quinientos días de salario mínimo vigente en el Municipio al momento de cometerse la violación.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+
+En caso de que sorprenda un boletaje no autorizado por la Dirección de Finanzas, se impondrá al referido empresario una infracción consistente en el importe de diez a quinientas veces el valor diario de la unidad de medida y actualización al momento de cometerse la violación.
 
 ###### ARTICULO 76.
 
@@ -1684,3 +1688,11 @@ P.O. 15 DE MAYO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
