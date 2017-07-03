@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-fomento-para-el-desarrollo-forestal-sustentable-del-5166
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-11"
-last_updated: "2011-07-04"
+last_updated: "2017-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51663&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE AGUASCALIENTES
 
-LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE AGUASCALlENTES
+LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 11 de septiembre de 2006.
 
@@ -39,7 +39,7 @@ Decreto Número 196
 
 Se aprueba la Ley de Fomento para el Desarrollo Forestal Sustentable del Estado de Aguascalientes, para quedar en los siguientes términos:
 
-LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE AGUASCALlENTES
+LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE AGUASCALIENTES
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -79,7 +79,7 @@ XII. Diseñar, operar y regular un sistema de información forestal confiable pa
 
 XIII. Promover la instalación y operación de una ventanilla única de atención institucional en el Gobierno del Estado, así como en los Municipios para los usuarios del Sector Forestal;
 
-XlV. Dotar de mecanismos de coordinación, concertación y cooperación a las Instituciones Estatales y Municipales del Sector Forestal, así como con otras instancias afines;
+XIV. Dotar de mecanismos de coordinación, concertación y cooperación a las Instituciones Estatales y Municipales del Sector Forestal, así como con otras instancias afines;
 
 > <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
 
@@ -249,7 +249,7 @@ XII. En coordinación con la Federación y con base en los convenios y acuerdos 
 
 XIII. En coordinación con la Federación y con base en los convenios y acuerdos que en la materia se celebren, recibir las solicitudes y autorizar el aprovechamiento de los recursos forestales maderables y no maderables, así como expedir por excepción, y previo acuerdo del Consejo, las autorizaciones de cambio de uso del suelo en terrenos forestales y preferentemente forestales y dictaminar, autorizar y evaluar los programas de manejo forestal, así como evaluar y asistir a los servicios técnicos forestales;
 
-XlV. En coordinación con la Federación y con base en los convenios y acuerdos que en la materia se celebren, evaluar el impacto ambiental de las obras o actividades forestales a que se refiere el Artículo 28 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+XIV. En coordinación con la Federación y con base en los convenios y acuerdos que en la materia se celebren, evaluar el impacto ambiental de las obras o actividades forestales a que se refiere el Artículo 28 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
 XV. Impulsar proyectos que contribuyan a la integración y competitividad de las cadenas productivas en materia forestal, basados en criterios de sustentabilidad;
 
@@ -305,7 +305,7 @@ XII. Promover y participar en la restauración de los ecosistemas forestales afe
 
 XIII. Realizar y supervisar, conforme a los convenios y acuerdos de coordinación que al efecto se celebren con la Federación, las labores de conservación, protección y restauración de los terrenos estatales forestales;
 
-XlV. Elaborar y aplicar de forma coordinada con Municipios programas de reforestación y forestación en zonas degradadas que no sean competencia de la Federación, así como llevar a cabo acciones de protección y mantenimiento de las zonas reforestadas o forestadas;
+XIV. Elaborar y aplicar de forma coordinada con Municipios programas de reforestación y forestación en zonas degradadas que no sean competencia de la Federación, así como llevar a cabo acciones de protección y mantenimiento de las zonas reforestadas o forestadas;
 
 XV. Diseñar, desarrollar y aplicar instrumentos económicos para promover el desarrollo forestal del Estado, de conformidad con la presente Ley y la política nacional y estatal forestal;
 
@@ -397,7 +397,7 @@ III. La Procuraduría Estatal de Protección al Ambiente; y
 
 IV. La Comisión para el Desarrollo Agropecuario del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 17.
 
@@ -795,7 +795,7 @@ La Secretaría, en caso de que así lo establezcan los acuerdos y convenios que 
 
 #### SECCION PRIMERA. De la Prevención, Detección, Combate, Control y Extinción de los Incendios Forestales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 55.
 
@@ -817,7 +817,7 @@ El Gobierno del Estado y los Municipios, procurarán la participación de los or
 
 La autoridad municipal deberá participar activamente en el combate y control de incendios; y en el caso de que los mismos superen su capacidad financiera y operativa de respuesta, acudirá a la Procuraduría y al Gobierno del Estado, y en ambos casos se deberá informar a la Comisión Nacional Forestal, la cual actuará de acuerdo con los programas y procedimientos respectivos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 58.
 
@@ -861,7 +861,7 @@ Quedan prohibidas las quemas en terrenos que estén a una distancia igualo menor
 
 ### CAPITULO V. Regulación de los Aprovechamientos Pecuarios y Agrícolas en Terrenos Forestales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 66.
 
@@ -919,7 +919,7 @@ El Estado, a través de la Comisión, promoverá y apoyará el desarrollo de pla
 
 ### CAPITULO VII. Del cambio de Uso de Suelo en los Terrenos Forestales y preferentemente Forestales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 75.
 
@@ -1055,7 +1055,7 @@ El Estado promoverá y en su caso implementará incentivos económicos de acuerd
 
 #### SECCION TERCERA. Del Fondo Forestal Estatal
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 93.
 
@@ -1079,7 +1079,7 @@ V Los demás recursos legítimos que obtenga por cualquier otro concepto.
 
 ### CAPITULO II. De la Cultura, Educación y Capacitación Forestal
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 95.
 
@@ -1099,7 +1099,7 @@ VI. Promover los criterios de política forestal previstos en la presente Ley; y
 
 VII. Otras que sean de interés para desarrollar y fortalecer la cultura forestal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 96.
 
@@ -1217,7 +1217,7 @@ El Gobierno del Estado, en coordinación con la Federación y Municipios, y con 
 
 ### CAPITULO II. De la Denuncia Popular
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 106.
 
@@ -1341,11 +1341,17 @@ En el caso de las fracciones III y IV de este artículo, la Procuraduría ordena
 
 La imposición de las multas a que se refiere el artículo anterior, se determinará en la forma siguiente:
 
-I. Con el equivalente de 40 a 1,000 veces de salario mínimo a quien cometa las infracciones señaladas en las fracciones V, VI, VIII, XII, XV, XVI, XVIII, XX Y XXIV del Artículo 110 de esta Ley; y
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-II. Con el equivalente de 100 a 20,000 veces de salario mínimo a quien cometa las infracciones señaladas en las fracciones I, II, III, IV, VII, IX, X, XI, XIII, XIV, XVII, XIX, XXI, XXII Y XXIII del Artículo 110 de esta Ley.
+I. Con el equivalente de 40 a 1,000 veces el valor diario de la unidad de medida y actualización a quien cometa las infracciones señaladas en las fracciones V, VI, VIII, XII, XV, XVI, XVIII, XX Y XXIV del Artículo 110 de esta Ley; y
 
-Para la imposición de las multas servirá de base el salario mínimo general diario vigente para el Estado de Aguascalientes al momento de cometerse la infracción.
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+
+II. Con el equivalente de 100 a 20,000 veces el valor diario de la unidad de medida y actualización a quien cometa las infracciones señaladas en las fracciones I, II, III, IV, VII, IX, X, XI, XIII, XIV, XVII, XIX, XXI, XXII Y XXIII del Artículo 110 de esta Ley.
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+
+Para la imposición de las multas servirá de base el valor diario de la unidad de medida y actualización al momento de cometerse la infracción.
 
 A los reincidentes se les aplicará el doble de las multas previstas en este artículo, según corresponda.
 
@@ -1446,3 +1452,11 @@ P.O. 4 DE JULIO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
