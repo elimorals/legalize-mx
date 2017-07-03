@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interno-de-la-comision-estatal-de-derechos-46156"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-08-26"
-last_updated: "2011-09-30"
+last_updated: "2017-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # REGLAMENTO INTERNO DE LA COMISION ESTATAL DE DERECHOS HUMANOS
 
-REGLAMENTO INTERNO DE LA COMISION ESTATAL DE DERECHOS HUMANOS
+REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS
 
-ULTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 30 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 3 DE JULIO DE 2017.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el viernes 26 de agosto de 2005.
 
@@ -33,37 +33,43 @@ REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS
 
 ### Capítulo único
 
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
+
 ###### Artículo 1.
 
-El presente ordenamiento reglamenta la Ley de la Comisión Estatal de Derechos Humanos, y regula su estructura, atribuciones y funcionamiento como organismo autónomo de estado, con personalidad jurídica y patrimonio propio, cuyo objeto esencial es la protección, defensa, observancia, promoción, estudio y divulgación de los Derechos Humanos previstos por el orden jurídico mexicano.
+El presente ordenamiento reglamenta la Ley de la Comisión Estatal de Derechos Humanos, y regula su estructura, atribuciones y funcionamiento como organismo autónomo de estado, con personalidad jurídica y patrimonio propio, cuyo objeto esencial es la protección, defensa, observancia, promoción, estudio y divulgación de los Derechos Humanos previstos por el orden jurídico mexicano y los convenios y tratados internacionales en la materia de los que el Estado Mexicano sea parte.
 
 La Comisión Estatal de Derechos Humanos es también un órgano de la sociedad y defensor de ésta, competente para promover y vigilar el cumplimiento de la política estatal en materia de Derechos Humanos.
+
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
 
 ###### Artículo 2.
 
 Para los fines del presente Reglamento, se entenderá por:
 
-I. Comisión Estatal u Organismo: a la Comisión Estatal de Derechos Humanos del Estado de Veracruz de Ignacio de la Llave;
+I. Comisión Estatal u Organismo: A la Comisión Estatal de Derechos Humanos del Estado de Veracruz de Ignacio de la Llave;
 
-II. Ley: a la Ley número 483 de la Comisión Estatal de Derechos Humanos, publicada en la Gaceta Oficial del Estado, el día veintisiete de diciembre de 2002;
+II. Ley: A la Ley número 483 de la Comisión Estatal de Derechos Humanos, publicada en la Gaceta Oficial del Estado, el día veintisiete de diciembre de 2002;
 
-III. Reglamento: al reglamento interno de la Comisión Estatal de Derechos Humanos del Estado de Veracruz de Ignacio de la Llave;
+III. Reglamento: Al reglamento interno de la Comisión Estatal de Derechos Humanos del Estado de Veracruz de Ignacio de la Llave;
 
-IV. Comisión Nacional: la Comisión Nacional de los Derechos Humanos;
+IV. Comisión Nacional: La Comisión Nacional de los Derechos Humanos;
 
-V. Precedente: a la aplicación de una recomendación, conciliación, documento de no responsabilidad o acuerdo de archivo, anterior en un caso igual o semejante al que se presenta;
+V. Precedente: A la aplicación de una recomendación, conciliación o acuerdo de archivo, anterior en un caso igual o semejante al que se presenta;
 
-VI. Organizaciones de la sociedad civil legalmente constituidas: las personas morales dedicadas a la promoción, defensa y difusión de los Derechos Humanos, y que tenga su registro ante la Comisión Estatal. Se comprenden dentro de esas organizaciones los organismos de colaboración y participación ciudadana o vecinal, que se constituyan conforme a la legislación de la materia; y
+VI. Organizaciones de la sociedad civil: Personas morales legalmente constituidas, sin fines de lucro, dedicadas a la protección, vigilancia, defensa, promoción, difusión, estudio y/o cualquier otro tema concerniente a los derechos humanos; y
 
-VII. Evidencia o prueba: a los medios de convicción que pueda allegarse la Comisión Estatal para resolver el expediente de queja o el recurso de inconformidad correspondiente.
+VII. Evidencia o prueba: A los medios de convicción que pueda allegarse la Comisión Estatal para resolver el expediente de queja o el recurso de inconformidad correspondiente.
 
 ###### Artículo 3.
 
 Para el desarrollo y cumplimiento de las funciones y atribuciones que corresponden a la Comisión Estatal, ésta contará con los órganos y estructura administrativa que establece su Ley y este Reglamento.
 
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
+
 ###### Artículo 4.
 
-En el desempeño de sus atribuciones y en el ejercicio de su autonomía, la Comisión Estatal no recibirá instrucciones o indicaciones de autoridad o servidor público alguno. Sus recomendaciones, observaciones generales, conciliaciones, documentos de no responsabilidad, sus acuerdos y resoluciones en general, sólo estarán basados en los elementos de evidencia o prueba que consten en los respectivos expedientes.
+En el desempeño de sus atribuciones y en el ejercicio de su autonomía, la Comisión Estatal no recibirá instrucciones o indicaciones de autoridad o servidor público alguno. Sus recomendaciones, observaciones generales, conciliaciones, acuerdos de archivo y resoluciones en general, sólo estarán basados en los elementos de evidencia o prueba que consten en los respectivos expedientes.
 
 ###### Artículo 5.
 
@@ -81,25 +87,33 @@ Los procedimientos que se sigan ante la Comisión Estatal, serán breves y senci
 
 Asimismo, durante la tramitación de los expedientes, se buscará que a la brevedad posible se realice la investigación a que haya lugar.
 
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
+
 ###### Artículo 8.
 
 Todas las actuaciones de la Comisión Estatal serán gratuitas. Esta disposición deberá ser informada explícitamente a quienes recurran a ella. Cuando para el trámite de los procedimientos los interesados decidan contar con la asistencia de un abogado o representante, se les deberá hacer la indicación de que ello no es necesario y se les explicará la gratuidad de los servicios que proporciona este Organismo.
 
 En aquellos casos en los que el quejoso señale representante, la Comisión Estatal le hará saber la necesidad de establecer comunicación inmediata con el directamente agraviado.
 
-Cualquier persona con capacidad mental diferente o menor de dieciocho años de edad, podrá interponer queja sin la intervención de su legítimo representante, cuando éste se halle ausente, en tal caso, sin perjuicio de dictar las medidas necesarias, la Comisión Estatal podrá nombrar un representante especial para que intervenga en el expediente de queja.
+Cualquier persona con discapacidad o menor de dieciocho años de edad, podrá interponer queja sin la intervención de su legítimo representante, cuando éste se halle ausente, en tal caso, sin perjuicio de dictar las medidas necesarias, la Comisión Estatal podrá nombrar un representante especial para que intervenga en el expediente de queja.
 
 En el caso de los menores de edad, si la persona es mayor de catorce años, podrá hacer la designación de representante en el escrito de queja.
+
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
 
 ###### Artículo 9.
 
 Las investigaciones que realice el personal de la Comisión Estatal, los trámites de procedimiento que se lleven a cabo en cada expediente, así como la documentación recibida de la autoridad y los quejosos, se manejarán con la más absoluta reserva, en los términos del artículo 33 de la Ley.
 
-Lo anterior, sin perjuicio de las consideraciones que en casos concretos se puedan formular a través de las recomendaciones, conciliaciones, documentos de no responsabilidad, las observaciones o sugerencias generales y los Informes anuales o especiales.
+Lo anterior, sin perjuicio de las consideraciones que en casos concretos se puedan formular a través de las recomendaciones, conciliaciones, acuerdos de archivo, las observaciones o sugerencias generales y los Informes anuales o especiales.
+
+Igualmente deberán observar lo previsto en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Veracruz de Ignacio de la Llave y la Ley para la Tutela de los Datos Personales en el Estado de Veracruz de Ignacio de la Llave, las recomendaciones, conciliaciones, acuerdos de archivo, las recomendaciones generales y los informes anuales o especiales.
+
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
 
 ###### Artículo 10.
 
-Los servidores públicos que laboren en la Comisión Estatal, no estarán obligados a rendir testimonio ante ninguna autoridad administrativa o jurisdiccional, y tampoco cuando dicha prueba haya sido ofrecida en procesos civiles, penales o administrativos, en ambos casos que el testimonio se encuentre relacionado con su intervención en el tratamiento de los procedimientos de investigación de violaciones a Derechos Humanos radicados en este Organismo.
+Los servidores públicos que laboren en la Comisión Estatal, no estarán obligados a rendir testimonio ante ninguna autoridad administrativa o jurisdiccional, y tampoco cuando dicha prueba haya sido ofrecida en procesos civiles, penales o administrativos, en ambos casos cuando el testimonio se encuentre relacionado con su intervención en el tratamiento de los procedimientos de investigación de violaciones a Derechos Humanos radicados en este Organismo.
 
 ###### Artículo 11.
 
@@ -115,13 +129,13 @@ En caso de que alguno hiciere uso indebido de la credencial, será sujeto a resp
 
 Si la Comisión Estatal determina como indispensable, para la resolución de un expediente, la práctica de una investigación que requiera de conocimientos en un área diversa de la jurídica, podrá solicitar el auxilio de organismos técnicos especializados.
 
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
+
 ###### Artículo 14.
 
-La Comisión Estatal contará con un instrumento oficial de difusión, cuya periodicidad será cuatrimestral y en ella se publicarán, cuando se considere pertinente hacerlo, las recomendaciones, conciliaciones, observaciones o sugerencias generales, documentos de no responsabilidad, informes especiales, o las síntesis de todos los antes señalados, y cualquier trabajo, investigación, artículo, ensayo o doctrina relativa a los Derechos Humanos, que por su importancia, y de acuerdo con el órgano editorial de la Comisión Estatal, merezcan darse a conocer mediante dicha publicación.
+La Comisión Estatal contará con un instrumento oficial de difusión, que podrá ser en formato impreso o electrónico, vía red de cómputo, que deberá contar con registro ante el Instituto Nacional de Derechos de Autor.
 
-La periodicidad de publicación podrá aumentarse a juicio del presidente de la Comisión Estatal, sin necesidad de reformar este Reglamento y cuando así lo amerite el material del que se disponga.
-
-El instrumento deberá tener el certificado de reserva de derechos al uso exclusivo del título; número internacional normalizado para publicaciones (ISSN) así como el certificado de licitud de título y contenido.
+En este formato se publicará información relativa a las recomendaciones, conciliaciones, artículos, campañas de difusión, datos estadísticos y en general lo que sugiera el órgano colegiado que para la materia editorial designe el Consejo Consultivo de la Comisión Estatal. La periodicidad de este formato será cuatrimestral.
 
 ## TÍTULO SEGUNDO. FUNCIONES DE LA COMISIÓN ESTATAL
 
@@ -133,19 +147,23 @@ Las funciones y atribuciones de la Comisión Estatal son las que establece el ar
 
 ### Capítulo II. Competencia en materia de presuntas violaciones a Derechos Humanos
 
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
+
 ###### Artículo 16.
 
-Para los efectos de lo dispuesto por los artículos 3 y 4 de la Ley, la Comisión Estatal tendrá competencia en todo el territorio del Estado de Veracruz de Ignacio de la Llave, para conocer de quejas relacionadas con presuntas violaciones a los Derechos Humanos cuando éstas fueren atribuibles a autoridades y servidores públicos de carácter estatal o municipal.
+Para los efectos de lo dispuesto por los artículos 3 y 4 de la Ley, la Comisión Estatal tendrá competencia en todo el territorio del Estado de Veracruz de Ignacio de la Llave, para conocer de quejas relacionadas con presuntas violaciones a los Derechos Humanos cuando éstas sean atribuibles a autoridades y servidores públicos de carácter estatal o municipal.
 
 ###### Artículo 17.
 
 Para los efectos de lo dispuesto por los artículos 3 párrafo primero y 7 fracción II de la Ley, se entiende por actos u omisiones de naturaleza administrativa, los provenientes de autoridades o servidores públicos de carácter estatal o municipal, dentro de instituciones, dependencias u organismos tanto de la administración pública estatal o municipal, como paraestatal y paramunicipal, en tanto que tales actos u omisiones puedan considerarse en ejercicio del empleo, cargo o comisión que desempeñe como autoridad.
 
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
+
 ###### Artículo 18.
 
 Para los efectos de lo dispuesto por los artículos 4 fracción II, 7 fracción II y 8 de la Ley y para la aplicación de este Reglamento, se entiende como:
 
-I. Violación de lesa humanidad, cualquiera de los actos siguientes cuando se cometa como parte de un ataque generalizado o sistemático en contra de una comunidad o grupo social en su conjunto y dicho ataque sea con anuencia o tolerancia de la autoridad:
+I. Violación de lesa humanidad: Cualquiera de los actos siguientes, cuando las agresiones contra los derechos humanos se perpetran en el marco de un contexto general o sistemático y dichas agresiones sean con anuencia o tolerancia de la autoridad:
 
 a) Asesinato;
 
@@ -165,6 +183,8 @@ h) Desaparición forzada de personas; y
 
 i) Otros actos inhumanos de carácter similar que causen intencionalmente grandes sufrimientos o atenten gravemente contra la integridad física o la salud mental.
 
+Para efectos de esta fracción, la generalidad consiste en el efecto acumulativo de violaciones a derechos humanos o una sola de extraordinaria magnitud; la sistematicidad depende de la naturaleza organizada de los actos de violencia que demuestre que los actos lesivos de los derechos de las personas no hubieran ocurrido de manera aleatoria o sin la intervención de una persona o un grupo de éstas, de tal manera que constituyan un patrón repetitivo no accidental de conductas similares.
+
 II. Violación grave, todo acto u omisión que atente en contra de los derechos fundamentales de la persona como libertad, vida y salud, así como su integridad física y psíquica.
 
 ###### Artículo 19.
@@ -175,11 +195,13 @@ Para los efectos de lo dispuesto por el artículo 4 fracción VII de la Ley, en 
 
 Para los efectos de lo dispuesto por el artículo 4 fracción IV de la Ley, se entiende por incumplimiento reiterado: los precedentes que se sustenten en tres recomendaciones en un mismo sentido en contra de una misma autoridad o servidor público y por hechos similares o análogos.
 
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
+
 ###### Artículo 21.
 
 Para los efectos de lo dispuesto en el artículo 5 de la Ley, se entiende por:
 
-I. Asuntos electorales, a los actos y resoluciones de organismos y autoridades electorales, los emitidos por el Congreso del Estado constituido en colegio electoral y por el Instituto Electoral Veracruzano;
+I. Asuntos electorales, a los actos y resoluciones de organismos y autoridades electorales, los emitidos por el Congreso del Estado constituido en colegio electoral y por el Organismo Público Local Electoral de Veracruz;
 
 II. Asuntos laborales, a los conflictos suscitados entre uno o varios patrones y uno o más trabajadores, incluso cuando el patrón sea una autoridad o dependencia estatal o municipal. Sólo podrán admitirse o conocer quejas contra actos u omisiones de autoridades laborales, cuando dichos actos u omisiones tengan carácter administrativo;
 
@@ -191,17 +213,19 @@ b. Las sentencias interlocutorias que se emitan durante el proceso;
 
 c. Los autos y acuerdos dictados por el juez o magistrado, o por el personal del juzgado o tribunal, para cuya expedición se haya realizado una valoración y determinación jurídica;
 
-d. Las determinaciones de ejercicio o no de la acción penal, que emite el Ministerio Público respecto de la investigación ministerial, como son el archivo y consignación; y
+d. Las determinaciones de ejercicio o no de la acción penal, que emite el ministerio público respecto de la investigación ministerial, como son el archivo y consignación; y
 
 e. En materia administrativa, los análogos a los señalados en esta fracción.
 
-Todos los demás actos u omisiones de autoridades o servidores públicos, señalados en esta última fracción serán considerados con el carácter de administrativos, en consecuencia, susceptibles de ser reclamados vía queja.
+Todos los demás actos u omisiones de autoridades o servidores públicos, señalados en esta última fracción serán considerados con el carácter de administrativos, y en consecuencia, susceptibles de ser reclamados vía queja.
+
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
 
 ###### Artículo 22.
 
-La Comisión Estatal, conocerá de manera exclusiva las quejas y asuntos que planteen los indígenas que habitan dentro del Estado de Veracruz, en que se involucren autoridades o servidores públicos estatales o municipales, en los términos previstos por los artículos 3 al 11 de la Ley.
+La Comisión Estatal, conocerá de manera exclusiva las quejas y asuntos que planteen las personas indígenas que habiten o transiten en el Estado de Veracruz, en que se involucren autoridades o servidores públicos estatales o municipales, en los términos previstos por los artículos 3 al 11 de la Ley.
 
-Cuando la Comisión Estatal considere que la violación a los derechos de individuos indígenas, constituyan además actos violatorios de Derechos Humanos de la comunidad o etnia a la que pertenecen, con independencia de la forma de solución que se dé al caso, podrá expedir un pronunciamiento general sobre el problema planteado, atendiendo al contenido del convenio 169 sobre pueblos indígenas y tribales de la Organización Internacional del Trabajo.
+Cuando la Comisión Estatal considere que la violación a los derechos de las personas indígenas, constituyan además actos violatorios de Derechos Humanos de la comunidad o etnia a la que pertenecen, con independencia de la forma de solución que se dé al caso, podrá expedir un pronunciamiento general sobre el problema planteado, atendiendo al contenido del Convenio 169 Sobre Pueblos Indígenas y Tribales de la Organización Internacional del Trabajo.
 
 ## TÍTULO TERCERO. ESTRUCTURA ORGÁNICA Y SUS ATRIBUCIONES DE LA COMISIÓN ESTATAL
 
@@ -211,27 +235,39 @@ Cuando la Comisión Estatal considere que la violación a los derechos de indivi
 
 La Comisión Estatal se integrará con un presidente, hasta cinco visitadores generales, un secretario ejecutivo, así como el número de directores, delgados, jefes de área, visitadores adjuntos o auxiliares y personal profesional, técnico y administrativo necesario para la realización de sus funciones.
 
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
+
 ###### Artículo 24.
 
-La Comisión Estatal, para ejercicio de sus atribuciones, contará con los órganos y las áreas de apoyo que especifiquen la Ley y su Reglamento.
+La Comisión Estatal, para el ejercicio de sus atribuciones, contará con los órganos y las áreas de apoyo que especifiquen la Ley y su Reglamento.
 
-Las normas contenidas en este ordenamiento son reglamentarias a las señaladas en la ley, y por lo tanto no son limitativas, sino descriptivas de las mismas.
+Las normas contenidas en este ordenamiento son reglamentarias a las señaladas en la Ley, y por lo tanto no son limitativas, sino descriptivas de las mismas.
+
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
 
 ###### Artículo 25.
 
 Los órganos de la Comisión Estatal, son los siguientes:
 
-I. La presidencia;
+I. La Presidencia;
 
-II. El consejo consultivo;
+II. El Consejo Consultivo;
 
-III. Las visitadurías generales;
+III. Las Visitadurías Generales;
 
-IV. La contraloría interna;
+IV. La Contraloría Interna;
 
-V. La secretaría ejecutiva; y
+V. La Secretaría Ejecutiva;
 
-VI. Las direcciones o áreas que se establezcan en los correspondientes acuerdos, tomando en consideración la capacidad presupuestal y los programas de la Comisión Estatal
+VI. La Secretaría Técnica del Consejo Consultivo;
+
+VII. Las Delegaciones Regionales y Étnicas;
+
+VIII. La Unidad de Género;
+
+IX. La Unidad de Transparencia;
+
+X. Las Direcciones o Áreas que se establezcan en los correspondientes acuerdos, tomando en consideración la capacidad presupuestal y los programas de la Comisión Estatal
 
 Los órganos colegiados de este organismo, a excepción del Consejo Consultivo, son auxiliares de la presidencia.
 
@@ -247,9 +283,11 @@ Las visitadurías generales son los órganos sustantivos de la Comisión Estatal
 
 La secretaría ejecutiva y la secretaría técnica del Consejo Consultivo auxiliarán a la presidencia de la Comisión Estatal de conformidad con este Reglamento.
 
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
+
 ###### Artículo 27.
 
-El nombramiento del presidente de la Comisión Estatal, los requisitos que deba reunir para ocupar el cargo, la duración en el mismo, el procedimiento de destitución y el régimen jurídico, que como funcionario le son aplicables, los que se establecen en los artículos 15, 16, 17, 26, 29, 30 y 34 de la Ley.
+El nombramiento del presidente de la Comisión Estatal, los requisitos que deba reunir para ocupar el cargo, la duración en el mismo, el procedimiento de destitución y el régimen jurídico, que como funcionario le es aplicable, son los que se establecen en los artículos 15, 16, 17, 26, 29, 30 y 34 de la Ley.
 
 ###### Artículo 28.
 
@@ -307,11 +345,15 @@ En la última sesión de cada año, el presidente de la Comisión Estatal presen
 
 El informe sobre el ejercicio presupuestal se presentará en la última sesión de cada año, siempre y cuando hubiese concluido la cuenta pública. El presidente de la Comisión Estatal solicitará a los miembros del Consejo Consultivo la autorización para que el titular del área de administración se incorpore a la sesión, rinda la explicación relativa al presupuesto ejercido y realice la presentación del presupuesto autorizado para el ejercicio presupuestal en curso.
 
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
+
 ###### Artículo 35.
 
 Los miembros del Consejo Consultivo podrán solicitar al presidente de la Comisión Estatal informes o datos adicionales sobre algún asunto en particular que se encuentre en trámite o se hubiere resuelto, para ello podrán realizar su solicitud de manera verbal en sesión o por escrito dirigido al presidente del Consejo en el cual se incluyan datos mínimos que permitan identificar lo solicitado y se especifique la información requerida.
 
-El presidente al recibir una solicitud de informes, la turnará a la correspondiente área, la cual en un plazo no mayor a treinta días deberán preparar el informe respectivo a través del cual el presidente de la Comisión Estatal ponga a disposición del consejero la información correspondiente.
+El presidente al recibir una solicitud de informes, la turnará a la correspondiente área, la cual en un plazo no mayor a treinta días deberán preparar el informe respectivo a través del cual el Presidente de la Comisión Estatal ponga a disposición del Consejero la información correspondiente.
+
+Los miembros del Consejo Consultivo, deberán guardar la secrecía de los asuntos de la Comisión, que tengan conocimiento con motivo de su encargo.
 
 ###### Artículo 36.
 
@@ -377,11 +419,11 @@ Al término de la última ronda, si ninguno de los miembros del Consejo Consulti
 
 Concluida la última ronda de oradores, los consejeros podrán razonar su voto, sin excederse de quince minutos en su intervención.
 
-> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
 
 ###### Artículo 46.
 
-Cuando el caso lo amerite, se podrá emitir voto secreto, voto circular y voto fuera de sesión, en este último caso, siempre y cuando alguno de los Integrantes del Consejo Consultivo, por motivos justificados no pueda asistir a la sesión, manifestará su voto por escrito, vía fax o por correo electrónico con un mínimo de veinticuatro horas antes de la celebración de la sesión ordinaria y 12 horas cuando sea sesión extraordinaria.
+Cuando el caso lo amerite, se podrá emitir voto secreto, voto particular y voto fuera de sesión, en este último caso, siempre y cuando alguno de los Integrantes del Consejo Consultivo, por motivos justificados no pueda asistir a la sesión, manifestará su voto por escrito, vía fax o por correo electrónico con un mínimo de veinticuatro horas antes de la celebración de la sesión ordinaria y 12 horas cuando sea sesión extraordinaria.
 
 ###### Artículo 47.
 
@@ -397,25 +439,41 @@ De cada sesión se levantará un acta que contendrá los datos de la sesión; la
 
 El Consejo Consultivo de la Comisión Estatal contará con una secretaría técnica, cuyo titular será designado en los términos del artículo 21 fracción III de la Ley.
 
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
+
 ###### Artículo 50.
 
-La secretaría técnica del Consejo Consultivo tendrá las siguientes atribuciones:
+La Secretaría Técnica del Consejo Consultivo tendrá las siguientes atribuciones:
 
-I. Remitir oportunamente a los consejeros los citatorios, órdenes del día y el material indispensable para realizar las sesiones ordinarias y extraordinarias;
+I. Enviar oportunamente a los miembros del Consejo Consultivo la convocatoria de las sesiones ordinarias y extraordinarias respectivas;
 
-II. Brindar a los consejeros el apoyo necesario para el mejor cumplimiento de sus responsabilidades;
+II. Brindar a los miembros del Consejo Consultivo el apoyo necesario para el mejor cumplimiento de sus responsabilidades;
 
 III. Proponer el proyecto de acta de las sesiones ordinarias y extraordinarias que el Consejo Consultivo celebre;
 
-IV. Organizar y remitir a la secretaría ejecutiva, el material que en sesión se haya aprobado para efectos de su difusión;
+IV. Organizar y difundir el material que en sesión del órgano consultivo se haya aprobado;
 
-V. Coadyuvar con la secretaría ejecutiva en la promoción, fortalecimiento e impulso en la colaboración y relaciones con las organizaciones de la sociedad civil a favor de los Derechos Humanos en el país, en los temas del ámbito de sus atribuciones;
+V. Proponer al Consejo Consultivo y al presidente de la Comisión Estatal, las políticas generales que en materia de Derechos Humanos habrá de seguir la Comisión Estatal ante los organismos gubernamentales y de la sociedad civil, nacionales e internacionales;
 
-VI. Elaborar el proyecto de informe anual de actividades de la Comisión Estatal, con base en los programas, objetivos y acciones proyectadas por cada una de las áreas;
+VI. Realizar la promoción, fortalecimiento e impulso pertinente en la colaboración y vinculación con las organizaciones de la sociedad civil a favor de los Derechos Humanos en el país, en los temas del ámbito de sus atribuciones;
 
-VII. Coordinar las relaciones interinstitucionales de la Comisión Estatal con los poderes del Estado y organismos autónomos; y
+VII. Promover la celebración de acuerdos, convenios y bases de coordinación con entidades públicas o privadas para el fortalecimiento de la cultura de respeto a los Derechos Humanos;
 
-VIII. Las demás que le confieran las disposiciones legales, así como aquellas que le asigne el presidente de la Comisión Estatal o el Consejo Consultivo.
+VIII. Desarrollar programas de capacitación en materia de los Derechos Humanos para servidores públicos del estado y público en general interesado;
+
+IX. Contribuir al estudio y/o investigaciones de la materia objeto de este organismo, con personal de este (sic) Comisión Estatal, investigadores, especialistas y público en general;
+
+X. Realizar difusión para promover la cultura de respeto a los derechos humanos, haciendo uso de todos los medios posibles;
+
+XI. Editar contenidos que contribuyan a la mayor y mejor difusión del trabajo de este organismo autónomo;
+
+XII. Diseñar y ejecutar los programas de distribución, difusión y comercialización de las publicaciones de la Comisión Estatal;
+
+XIII. Organizar el material y supervisar la elaboración y publicación del instrumento oficial de difusión de la Comisión Estatal;
+
+XIV. Incrementar, mantener y custodiar el acervo documental del Organismo en el centro de información bibliohemerográfico, así como coordinar estudios e investigaciones o apoyar a través de los servicios bibliotecarios con los que cuenta, a las áreas de la Comisión Estatal, investigadores, especialistas y público en general; y
+
+XV. Las demás que le confieran las disposiciones legales, así como aquellas que le asigne el presidente de la Comisión Estatal o el Consejo Consultivo.
 
 ###### Artículo 51.
 
@@ -467,9 +525,11 @@ La Comisión Estatal contará para el buen desempeño de sus atribuciones, hasta
 
 Las visitadurías generales serán identificadas de manera progresiva partiendo desde el número uno.
 
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
+
 ###### Artículo 55.
 
-Los visitadores generales serán los titulares de cada visitaduría y serán designados y removidos de manera libre por la presidencia de la Comisión Estatal.
+Los visitadores generales serán los titulares de cada visitaduría, independientemente de las comisiones que se les asignen, y serán designados y removidos de manera libre por la presidencia de la Comisión Estatal; así como cambiados de adscripción a cualquier otro lugar de trabajo atendiendo a las necesidades del servicio.
 
 Para ser designado visitador general deberá reunir, los siguientes requisitos:
 
@@ -489,57 +549,63 @@ Las ausencias o faltas temporales de los visitadores generales podrán ser cubie
 
 El ejercicio de las facultades, atribuciones y obligaciones durante el tiempo que dure la ausencia o falta temporal del visitador general, corresponderán al servidor público que se determine en el acuerdo respectivo.
 
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
+
 ###### Artículo 57.
 
 Las visitadurías generales tendrán las siguientes facultades y obligaciones:
 
-I. Iniciar o continuar a petición de parte la investigación de las quejas que le sean presentadas o de oficio, discrecionalmente, aquellas sobre denuncias de violación graves a los derechos humanos que aparezcan en los medios de comunicación y por acuerdo de la presidencia de la Comisión Estatal;
+I. Iniciar o continuar a petición de parte la investigación de las quejas que le sean presentadas o de oficio, discrecionalmente, aquellas sobre denuncias de violación (sic) graves a los derechos humanos que aparezcan en los medios de comunicación y por acuerdo de la presidencia de la Comisión Estatal;
 
-II. Tramitar los expedientes de queja, que previa calificación como presunta violación a Derechos Humanos, sean registrados, cualquier dirección o delegación;
+II. Tramitar los expedientes de queja, que previa calificación como presunta violación a Derechos Humanos, sean iniciados por cualquier dirección o delegación;
 
-III. Solicitar en cualquier momento a las autoridades competentes que se tomen las medidas precautorias, de conservación o de restitución necesarias para evitar la consumación irreparable por violaciones a los Derechos Humanos de que tenga conocimiento;
+III. Solicitar en cualquier momento a las autoridades competentes que se tomen las medidas cautelares, de conservación o de restitución necesarias para evitar la consumación irreparable por violaciones a los Derechos Humanos de que tenga conocimiento;
 
-IV. Solicitar en casos urgentes a las autoridades federales y a las entidades federativas, que de manera inmediata se tomen las medidas precautorias, de conservación o de restitución necesarias para evitar la consumación irreparable por violaciones a los Derechos Humanos de que tenga conocimiento;
+IV. Solicitar en casos urgentes a las autoridades federales y a las entidades federativas, que de manera inmediata se tomen las medidas cautelares, de conservación o de restitución necesarias para evitar la consumación irreparable por violaciones a los Derechos Humanos de que tenga conocimiento;
 
-V. Allegarse, con apoyo del personal médico adscrito a la Comisión Estatal, del certificado médico de lesiones y, si es necesario, los análisis clínicos, tanto de laboratorio como de gabinete, cuando la parte quejosa refiera haber sido objeto de tortura, tratos crueles, inhumanos o degradantes;
+V. Allegarse, con apoyo del personal médico adscrito a la Comisión Estatal, del certificado médico de lesiones y, si es necesario, los análisis clínicos, tanto de laboratorio como de gabinete;
 
-VI. Investigar y entrevistar a aquellas autoridades que estén involucradas en los asuntos que se tramitan, cuando se considere que es indispensable hacerlo para esclarecer los hechos;
+VI. Cuando la parte quejosa refiera haber sido objeto de tortura, tratos crueles, inhumanos o degradantes, solicitar a las autoridades competentes, la aplicación del Protocolo de Estambul;
 
-VII. Realizar las acciones necesarias para lograr, por medio de la conciliación, la solución inmediata de las violaciones de Derechos Humanos que por su propia naturaleza así lo permitan;
+VII. Investigar y entrevistar aquellas autoridades que estén involucradas en los asuntos que se tramitan, cuando se considere que es indispensable hacerlo para esclarecer los hechos;
 
-VIII. Realizar las investigaciones y estudios necesarios para formular los proyectos de recomendación, conciliación, observación general, documentos de no responsabilidad o acuerdos, que se someterán al presidente de la Comisión Estatal para su consideración;
+VIII. Realizar las acciones necesarias para lograr, por medio de un procedimiento conciliatorio, la solución inmediata de las violaciones de derechos humanos que por su propia naturaleza así lo permitan;
 
-IX. Realizar visitas o inspecciones en los lugares que estén relacionados con los hechos motivo de la investigación;
+IX. Realizar las investigaciones y estudios necesarios para formular los proyectos de recomendación, conciliación, recomendación general, acuerdos de archivo, que se someterán al presidente de la Comisión Estatal para su consideración;
 
-X. Solicitar por escrito los informes a las autoridades involucradas en los procedimientos de investigación que se inicien en la visitaduría, para su debida integración y resolución;
+X. Realizar visitas o inspecciones en los lugares que estén relacionados con los hechos motivo de la investigación;
 
-XI. Solicitar informes a las autoridades que, aunque no estén involucradas directamente como responsables, puedan ofrecer datos que ayuden a esclarecer los casos que se investigan;
+XI. Solicitar por escrito los informes a las autoridades involucradas en los procedimientos de investigación que se inicien en la visitaduría, para su debida integración y resolución;
 
-XII. Solicitar la comparecencia de los servidores públicos a los que se imputen violaciones a los Derechos Humanos y de aquellos que tengan relación con los hechos motivo de la queja, sobre todo en los casos que se plantee una conciliación;
+XII. Solicitar informes a las autoridades que, aunque no estén involucradas directamente como responsables, puedan ofrecer datos que ayuden a esclarecer los casos que se investigan;
 
-XIII. Entrevistar a los testigos presenciales sobre los hechos motivo de la investigación, y realizar las diligencias de inspección ocular, auditiva y de identificación cuando el caso lo amerite;
+XIII. Solicitar la comparecencia de los servidores públicos a los que se imputen violaciones a los Derechos Humanos y de aquellos que tengan relación con los hechos motivo de la queja, sobre todo en los casos que se siga un procedimiento conciliatorio;
 
-XIV. Citar a las personas que deban comparecer como peritos o testigos;
+XIV. Entrevistar a los testigos presenciales sobre los hechos motivo de la investigación, y realizar las diligencias de inspección ocular, auditiva y de identificación cuando el caso lo amerite;
 
-XV. Informar al presidente de la Comisión Estatal, de los procedimientos de investigación iniciados en su visitaduría y del trámite de los mismos;
+XV. Citar a las personas que deban comparecer como peritos o testigos;
 
-XVI. Solicitar que se analice la posible responsabilidad de los servidores públicos que obstaculicen la investigación. Para ello, la Comisión Estatal denunciará ante los órganos competentes estos hechos, con el objeto de que se impongan las sanciones correspondientes;
+XVI. Informar al presidente de la Comisión Estatal, de los procedimientos de investigación iniciados en su visitaduría y del trámite de los mismos;
 
-XVII. Integrar los expedientes para el estudio y formulación de proyectos de recomendación, conciliación, observaciones generales o documentos de no responsabilidad, que deberán presentarse al presidente de la Comisión Estatal;
+XVII. Solicitar que se analice la posible responsabilidad de los servidores públicos que obstaculicen la investigación. Para ello, la Comisión Estatal denunciará ante los órganos competentes estos hechos, con el objeto de que se impongan las sanciones correspondientes;
 
-XVIII. Turnar los proyectos de recomendación, conciliación, observación general y documentos de no responsabilidad a la presidencia para su aprobación;
+XVIII. Integrar los expedientes para el estudio y formulación de proyectos de recomendación, conciliación, observaciones generales o acuerdos de archivo, que deberán presentarse al Presidente de la Comisión Estatal;
 
-XIX. Aprobar, previo acuerdo con el presidente, las conciliaciones en los procedimientos de investigación;
+XIX. Turnar los proyectos de recomendación, conciliación, observación general y acuerdos de archivo a la Presidencia para su aprobación;
 
-XX. Elaborar los informes y certificar las constancias que obren en los expedientes de queja a su cargo, que deban remitirse a la Comisión Nacional por la interposición de los recursos previstos en la Ley y el Reglamento de ese Organismo;
+XX. Aprobar, previo acuerdo con el presidente, las conciliaciones en los procedimientos de investigación;
 
-XXI. Efectuar la reapertura del expediente de queja, ya sea a solicitud o no de los directamente quejosos, previo análisis y acuerdo razonado y motivado, que realice este Organismo estatal sobre la reapertura o no del expediente;
+XXI. Elaborar los informes y certificar las constancias que obren en los expedientes de queja a su cargo, que deban remitirse a la Comisión Nacional por la interposición de los recursos previstos en la Ley y el Reglamento de ese Organismo;
 
-XXII. Intervenir de oficio y por acuerdo de la presidencia de la Comisión Estatal, en el juicio de protección de Derechos Humanos, conforme a la legislación de la materia; y
+XXII. Efectuar la reapertura del expediente de queja, ya sea a solicitud o no de los quejosos, previo análisis y acuerdo razonado y motivado, que realice este Organismo estatal sobre la reapertura o no del expediente;
 
-XXIII. Las demás que le señale la Ley, el Reglamento o por acuerdo del presidente de la Comisión Estatal, y se consideren necesarias para el cumplimiento de sus funciones.
+XXIII. Intervenir de oficio y por acuerdo de la presidencia de la Comisión Estatal, en el Juicio de Protección de Derechos Humanos, conforme a la legislación de la materia;
 
-El titular de la visitaduría general ejercerá directamente las funciones relativas a la formulación de los proyectos de recomendación, conciliación o documentos de no responsabilidad que deberá pasar a firma del presidente. Las demás facultades que por Ley o Reglamento tiene encomendadas, las podrá delegar en los visitadores adjuntos o auxiliares, según amerite el caso.
+XXIV. Asignarle número a las recomendaciones y conciliaciones que emita la Comisión Estatal; y
+
+XXV. Las demás que le señale la Ley, el Reglamento o por acuerdo del presidente de la Comisión Estatal, y se consideren necesarias para el cumplimiento de sus funciones.
+
+El titular de la visitaduría general ejercerá directamente las funciones relativas a la formulación de los proyectos de recomendación, conciliación o acuerdos de archivo que deberá (sic) pasar a firma del Presidente. Las demás facultades que por Ley o Reglamento tiene encomendadas, las podrá delegar en los visitadores adjuntos o auxiliares, según amerite el caso.
 
 ###### Artículo 58.
 
@@ -597,27 +663,29 @@ IV. Gozar de buena reputación; y
 
 V. Tener la experiencia necesaria para el desempeño de las funciones que le correspondan.
 
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
+
 ###### Artículo 64.
 
 Tanto los visitadores adjuntos y auxiliares apoyarán al titular del área a la cual se encuentren adscritos, actuarán bajo su estricta supervisión y tendrán las funciones siguientes:
 
-I. Acordar con el titular del área correspondiente, los proyectos de escritos de las solicitudes de información, así como las medidas precautorias, de restitución o conservación, que se formulen a las distintas autoridades o servidores públicos;
+I. Acordar con el titular del área correspondiente, los proyectos de solicitudes de informes, así como las medidas cautelares, de restitución o conservación, que se formulen a las distintas autoridades o servidores públicos;
 
 II. Acordar con el titular del área las actuaciones y diligencias que se requieran, con la finalidad de supervisar su correcta realización;
 
 III. Suscribir, previo acuerdo del titular del área correspondiente, los escritos dirigidos a la parte quejosa, con el fin de que ratifiquen, precisen o amplíen los escritos de solicitud de intervención o quejas, aporten documentos necesarios o presenten pruebas;
 
-IV. Dirigir los equipos de investigación que se integren para documentar los procedimientos de investigación de violaciones a los Derechos Humanos;
+IV. Dirigir los equipos de investigación que se integren para documentar los procedimientos de investigación de violaciones a los derechos humanos;
 
-V. Entrevistarse con la parte quejosa que tengan dudas o reclamaciones, respecto del tratamiento que se le esté dando a sus respectivos expedientes;
+V. Entrevistarse con la parte quejosa que tengan (sic) dudas o reclamaciones, respecto del tratamiento que se le esté dando a sus respectivos expedientes;
 
 VI. Presentar al titular del área respectiva los informes que se les soliciten sobre el desarrollo de las quejas;
 
-VII. Realizar los proyectos de recomendación, conciliaciones, observaciones generales, documentos de no responsabilidad y acuerdos de archivo, en la realización de los proyectos de recomendación y conciliación deberán los visitadores, consultar precedentes emitidos por este Organismo y la federación mexicana de organismos públicos de Derechos Humanos;
+VII. Realizar los proyectos de recomendación, conciliaciones, observaciones generales y acuerdos de archivo. En la realización de los proyectos de recomendación y conciliación los visitadores deberán consultar precedentes emitidos por este Organismo, la Federación Mexicana de Organismos Públicos de Derechos Humanos, los criterios de la Comisión Interamericana de Derechos Humanos, la jurisprudencia de la Corte Interamericana de Derechos Humanos, así como las interpretaciones autorizadas de los órganos de vigilancia y aplicación de tratados de Derechos Humanos.
 
-VIII. Realizar, por instrucciones de su superior inmediato, inspecciones a las oficinas administrativas, centros de reclusión de menores infractores o juveniles, de readaptación social, de procuración o impartición de justicia, inclusive sin necesidad que medie queja alguna; y
+VIII. Realizar, por instrucciones de su superior inmediato, inspecciones a las oficinas administrativas, centros de reclusión de menores infractores o juveniles, de reinserción social, de procuración o impartición de justicia, inclusive sin necesidad que medie queja alguna; y
 
-IX. Las demás que les confiera la Ley y el Reglamento, el presidente y su superior jerárquico inmediato de acuerdo con los ordenamientos internos.
+XIX (SIC). Las demás que les confiera la Ley y el Reglamento, el presidente y su superior jerárquico inmediato de acuerdo con los ordenamientos internos.
 
 ###### Artículo 65.
 
@@ -645,31 +713,41 @@ IV. Gozar de buena reputación; y
 
 V. No tener más de 65 años de edad.
 
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
+
 ###### Artículo 68.
 
-La secretaría ejecutiva tendrá las siguientes funciones:
+La Secretaría Ejecutiva tendrá las siguientes funciones:
 
-I. Promover el estudio, investigación, análisis, capitación y difusión en materia de los Derechos Humanos en el Estado;
+I. Integrar informes temáticos sobre la situación de derechos humanos en la entidad;
 
-II. Proponer al Consejo Consultivo y al presidente de la Comisión Estatal, las políticas generales que en materia de Derechos Humanos habrá de seguir la Comisión Estatal ante los organismos gubernamentales y de la sociedad civil, nacionales e internacionales;
+II. Elaborar el proyecto de informe anual de actividades de la Comisión Estatal, con base en los programas, objetivos y acciones proyectadas por cada una de las áreas;
 
-III. Promover y fortalecer las relaciones con las organizaciones gubernamentales y de la sociedad civil en favor de los Derechos Humanos en el Estado;
+III. Realizar estudios sobre los tratados y convenciones internacionales en materia de Derechos Humanos;
 
-IV. Realizar estudios sobre los tratados y convenciones internacionales en materia de Derechos Humanos;
+IV. Promover la armonización de las leyes estatales con el marco normativo nacional e internacional a través de iniciativas de ley;
 
-V. Promover la celebración de acuerdos, convenios y bases de coordinación con entidades públicas o privadas para el fortalecimiento de la cultura de respeto a los Derechos Humanos;
+V. Elaborar proyectos de acciones de inconstitucionalidad;
 
-VI. Coordinar la edición de las publicaciones que realice la Comisión Estatal;
+VI. Integrar y coordinar la presentación de opiniones amicus curiae;
 
-VII. Diseñar y ejecutar los programas de distribución, difusión y comercialización de las publicaciones de la Comisión Estatal;
+VII. Proponer a la presidencia y coordinar la implementación de políticas internas para la Comisión Estatal;
 
-VIII. Organizar el material y supervisar la elaboración y publicación del instrumento oficial de difusión de la Comisión Estatal;
+VIII. Coordinar las acciones de fortalecimiento institucional, mediante el diseño y ejecución de actividades orientadas a la optimización de las labores desempeñadas en la Comisión Estatal;
 
-IX. Diseñar y ejecutar actividades orientadas a la optimización de las labores desempeñadas en la Comisión Estatal;
+IX. Coordinar la integración, sistematización y análisis de la información generada por las direcciones y visitadurías de la Comisión Estatal;
 
-X. Incrementar, mantener y custodiar el acervo documental del Organismo en el centro de información bibliohemerográfico, así como coordinar estudios e investigaciones o apoyar a través de los servicios bibliotecarios con los que cuenta, a las áreas de la Comisión Estatal, investigadores, especialistas y público en general; y
+X. Dar seguimiento a la sustanciación de distintos proce-dimientos (sic) por parte de las direcciones y visitadurías generales;
 
-XI. Las demás funciones que las disposiciones legales y reglamentarias le atribuyan así como aquellas que se consideren necesarias para el buen funcionamiento del Organismo y por acuerdo de la presidencia.
+XI. Coordinar con las direcciones y visitadurías generales la revisión, modificación o elaboración de manuales, lineamientos o disposiciones normativas;
+
+XII. Coordinar las relaciones interinstitucionales de la Comisión Estatal con los poderes del Estado y organismos autónomos;
+
+XIII. Coadyuvar con dependencias y organismos estatales para el diseño de políticas públicas con enfoque en derechos humanos;
+
+XIV. Supervisar las actividades de control de gestión; y
+
+XV. Las demás funciones que las disposiciones legales y reglamentarias le atribuyan así como aquellas que se consideren necesarias para el buen funcionamiento del Organismo y por acuerdo de la Presidencia.
 
 ### Capítulo VII. De las direcciones
 
@@ -717,13 +795,15 @@ IV. Gozar de buena reputación; y
 
 V. No tener más de 65 años de edad.
 
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
+
 ###### Artículo 73.
 
-Las direcciones serán auxiliares directos del presidente de la Comisión Estatal, actuarán bajo su estricta supervisión y tendrán las siguientes atribuciones:
+Las Direcciones serán auxiliares directos del Presidente de la Comisión Estatal, actuarán bajo su estricta supervisión y tendrán las siguientes atribuciones:
 
-I. Suscribir los acuerdos de calificación, así como el comunicado correspondiente de la admisión de la instancia;
+I. Suscribir los acuerdos de radicación, así como el comunicado correspondiente de la admisión de la instancia;
 
-II. Suscribir las solicitudes de información o de ampliación, que se formulen a las distintas autoridades o servidores públicos, sean o no responsables;
+II. Suscribir las solicitudes de informes o de ampliación, que se formulen a las distintas autoridades o servidores públicos, sean o no responsables;
 
 III. Suscribir los escritos dirigidos a los quejosos, con el fin de que ratifiquen, precisen o aclaren sus escritos de queja, aporten documentos necesarios y presenten evidencias;
 
@@ -731,9 +811,9 @@ IV. Dirigir los equipos de investigación que se integren para documentar los ex
 
 V. Atender a los quejosos que tengan dudas o peticiones relacionadas con el trámite de su expediente;
 
-VI. Presentar al presidente de la Comisión Estatal los informes sobre el desarrollo de los expedientes de queja y los demás que se le soliciten;
+VI. Presentar al Presidente de la Comisión Estatal los informes sobre el desarrollo de los expedientes de queja y los demás que se le soliciten;
 
-VII. Dar seguimiento a las conciliaciones y recomendaciones que estén bajo su responsabilidad y reportar su estado al presidente del Organismo;
+VII. Dar seguimiento a las conciliaciones y recomendaciones que estén bajo su responsabilidad y reportar su estado al Presidente del Organismo;
 
 VIII. Dirigir y tener bajo su responsabilidad, a los visitadores adjuntos y auxiliares, de conformidad con lo dispuesto por este reglamento, en el manual general de organización y demás lineamientos de actuación;
 
@@ -753,35 +833,41 @@ XV. Entrevistar a todas aquellas personas que pudieran aportar datos importantes
 
 XVI. Elaborar los informes y certificar las constancias que obren en los expedientes de queja a su cargo, que deban remitirse a la Comisión Nacional por la interposición de los recursos previstos en la Ley y el Reglamento de ese Organismo;
 
-XVII. Turnar las quejas registradas en el orden correspondiente, a la visitaduría que corresponda, inmediatamente después de que se hayan acordado; y
+XVII. Remitir las quejas inmediatamente después de que se hayan acordado, a la visitaduría general en turno, por conducto de la Dirección de Informática para su adecuado registro, actualización de datos y turno.
 
-XVIII. Las demás funciones que las disposiciones legales y reglamentarias le atribuyan así como aquellas que se consideren necesarias para el buen funcionamiento del Organismo y por acuerdo de la presidencia.
+XVIII. Las demás funciones que las disposiciones legales y reglamentarias le atribuyan así como aquellas que se consideren necesarias para el buen funcionamiento del Organismo y por acuerdo de la Presidencia.
 
 ###### Artículo 74.
 
 Las atribuciones contenidas en este capítulo, serán ejercidas, conjunta o separadamente, por las direcciones y delegaciones, de acuerdo con lo establecido en la Ley, en el Reglamento, el manual general de organización y los acuerdos emanados de la presidencia del Organismo o del Consejo Consultivo.
 
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
+
 ###### Artículo 75.
 
 Las atribuciones que ejercerá el área en materia de orientación y queja son las siguientes:
 
-I. Realizar labores de atención al público, por cualquier medio de comunicación; cuando de las quejas que directamente se presenten se desprenda fehacientemente que no se trata de violaciones a Derechos Humanos, se orientará al interesado respecto de la naturaleza de su problema y las posibles formas de solución; se le proporcionarán los datos del servidor público ante el que puede acudir, así como su domicilio y, en su caso, el número telefónico;
+I. Realizar labores de atención al público, por cualquier medio de comunicación; cuando de las quejas que directamente se presenten se desprenda fehacientemente que no se trata de violaciones a derechos humanos, se orientará al interesado respecto de la naturaleza de su problema y las posibles formas de solución; se le proporcionarán los datos del servidor público ante el que puede acudir, así como su domicilio y, en su caso, el número telefónico;
 
-II. Recibir, registrar y turnar los escritos calificados como quejas por presuntas violaciones a Derechos Humanos, o asuntos diversos a las áreas que correspondan, para su análisis y conclusión;
+II. Recibir, registrar y turnar los escritos calificados como quejas por presuntas violaciones a derechos humanos, o asuntos diversos a las áreas que correspondan, para su análisis y conclusión;
 
-III. Atender a las personas que se comunican telefónicamente a la Comisión Estatal, para solicitar información en materia de Derechos Humanos y a los quejosos o agraviados brindarles información sobre el curso de los escritos presentados ante este organismo, o sobre el número de expediente que le corresponde a su asunto y el nombre del visitador responsable de su tramitación;
+III. Atender a las personas que se comunican telefónicamente a la Comisión Estatal, para solicitar información en materia de derechos humanos y a los quejosos o agraviados brindarles información sobre el curso de los escritos presentados ante este organismo, o sobre el número de expediente que le corresponde a su asunto y el nombre del visitador responsable de su tramitación;
 
-IV. Turnar a las visitadurías de procedimiento, inmediatamente después de que se hayan registrado, los escritos relacionados con presuntas violaciones a Derechos Humanos, así como la respuesta a la solicitud de informes o documentos que estén relacionados con los expedientes;
+IV. Turnar a las Visitadurías Generales, inmediatamente después de que se hayan registrado, los escritos relacionados con presuntas violaciones a derechos humanos, así como la respuesta a la solicitud de informes o documentos que estén relacionados con los expedientes;
 
-V. Asignar el número de expediente, según corresponda, y registrarlos en la base de datos respectiva;
+V. Mediante el sistema de gestión de expedientes en operación, asignar el número de expediente, según corresponda y requisitar los datos necesarios de la ficha de registro, para mantener actualizada la base de datos respectiva;
 
-VI. Atender los escritos que reciba la Comisión Estatal y remitir la respuesta al quejoso o formular la remisión correspondiente sobre asuntos en los que se desprenda indubitablemente la ausencia de violaciones a Derechos Humanos, así como en los que se derive ostensiblemente la competencia de otras instancias;
+VI. Atender los escritos que reciba la Comisión Estatal y remitir la respuesta al quejoso o formular la remisión correspondiente sobre asuntos en los que se desprenda indubitablemente la ausencia de violaciones a derechos humanos, así como en los que se derive ostensiblemente la competencia de otras instancias;
 
 VII. Despachar toda la correspondencia concerniente a la atención de los expedientes de queja;
 
-VIII. Organizar, custodiar, resguardar y administrar el archivo general de la Comisión Estatal respecto de los expedientes de queja, recursos de inconformidad, orientación directa o remisión, siempre y cuando el trámite se encuentre concluido, así como de las recomendaciones y conciliaciones cuyo seguimiento haya finalizado; y
+VIII. Actuar como unidad receptora y ejercer las facultades que al respecto establecen la Ley, el Reglamento y el Manual General de Organización.
 
-IX. Actuar como unidad receptora y ejercer las facultades que al respecto establecen la Ley, el reglamento y el manual general de organización.
+IX. Realizar el reporte y actualización de los datos que den evidencia de la actividad realizada, respecto a avances en el trámite procesal de los expedientes, a la Dirección de Informática para el registro y actualización de los mismos en el banco de datos institucional, o en su caso, mediante la actualización en el sistema de gestión en uso correspondiente.
+
+Será motivo de actualización de datos la ejecución de las siguientes acciones procesales: Solicitud de medidas cautelares, de conservación o de restitución, Acumulación de expedientes, Reclasificación de Violación a Derechos Humanos, Acuerdo de archivo del expediente, calificación de causal de archivo del expediente, reasignación de expediente para su tramitación, regreso del expediente para su perfeccionamiento a alguna área de la CEDHV, envío al archivo de concentración, turno de resoluciones a la dirección de seguimiento y conclusión, y todas aquellas acciones procesales que implique (sic) un ajuste de información o de ubicación para el seguimiento correspondiente.
+
+X. Las quejas que reciba para trámite, serán turnadas por la Dirección de Informática, mediante el registro formal que acredite la entrega del expediente, siendo responsable de informar a la misma dirección, a qué visitador auxiliar o adjunto fue asignado el expediente o en su caso cuando se reasigne el expediente a otro visitador.
 
 ###### Artículo 76.
 
@@ -799,83 +885,93 @@ V. Presentar ante el presidente de la Comisión Estatal, los estudios y propuest
 
 VI. Supervisar el respeto de los Derechos Humanos de los internos en los centros de internamiento y readaptación Social del Estado de Veracruz, sin necesidad de que medie queja alguna.
 
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
+
 ###### Artículo 77.
 
-Las atribuciones en materia de atención a grupos vulnerables son las siguientes:
+Las atribuciones en materia de atención a mujeres, grupos vulnerables y víctimas son las siguientes:
 
-I. Desarrollar y actualizar el catálogo de los grupos de personas que se consideren como las más vulnerables en sus Derechos Humanos;
+I. Desarrollar y actualizar el catálogo de los grupos de personas que se consideren como las más vulnerables en sus derechos humanos;
 
-II. Recibir, registrar y tramitar los escritos de queja o asuntos que se planteen ante este Organismo, en aquellos casos en que se involucren menores (sic) edad, adultos mayores, y en general cualquier grupo que sea considerado como vulnerable;
+II. Recibir, registrar y tramitar los escritos de queja o asuntos que se planteen ante este Organismo, en aquellos casos en que se involucren menores de edad, adultos mayores, y en general cualquier grupo que sea considerado como vulnerable;
 
 III. Apoyar, asesorar o gestionar a las personas cuyas características especiales requieran ayuda de tipo humanitario, ya sea por no poder realizar un trámite ante otras instituciones u organismos tanto públicos como privados; así como requerir de recursos, en dinero o en especie, para remediar necesidades urgentes, prioritarias o apremiantes, siempre previo análisis y evaluación por parte del personal de la propia Comisión Estatal.
 
-La ayuda humanitaria está dirigida principalmente a la atención de personas desprotegidas, que por cualquier condición sean más susceptibles de ser vulnerables en sus Derechos Humanos;
+La ayuda humanitaria está dirigida principalmente a la atención de personas desprotegidas, que por cualquier condición sean más susceptibles de ser vulnerables en sus derechos humanos;
 
-IV. Brindar asesoría y apoyo psicológico a las personas que así lo determine el personal especializado para ello, sobre todo tratándose de víctimas que sufren de violencia intrafamiliar;
+IV. Brindar asesoría y gestionar apoyo psicológico a las personas que así lo determine el personal especializado para ello, sobre todo tratándose de víctimas que sufren de violencia intrafamiliar;
 
-V. Conocer de todos aquellos asuntos en los que se detecte una presunta violación a los Derechos Humanos de los grupos vulnerables en el Estado de Veracruz;
+V. Conocer de todos aquellos asuntos en los que se detecte una presunta violación a los Derechos Humanos de los grupos vulnerables en el estado de Veracruz;
 
 VI. Brindar atención a las víctimas del delito que se presenten a esta Comisión Estatal, y si es el caso, canalizar al área correspondiente;
 
 VII. Iniciar de oficio, previo acuerdo con la presidencia, el expediente de queja en aquellos casos en que se vean involucrados cualquier grupo vulnerable, cuando los hechos, por su gravedad, puedan ser considerados violaciones graves y de lesa humanidad;
 
-VIII. Supervisar de oficio, en coordinación con el área encargada en materia penitenciaria, la observancia de los Derechos Humanos en los centros de reclusión en el Estado en donde haya personas con capacidad mental diferente y adultos mayores, supervisando también, los centros de reclusión de menores infractores o juvenil;
+VIII. Coadyuvar con el área especializada en materia penitenciaria en la observancia de los derechos humanos en los centros de reclusión en el estado, en donde haya personas con discapacidad mental o psicosocial y personas mayores, así como en los centros de reinserción social para menores en conflicto con la ley;
 
-IX. Podrá supervisar de oficio la observancia de los Derechos Humanos en los procesos penales de las personas que se encuentran internas en los centros de readaptación social del Estado de Veracruz, que padezcan de sus facultades mentales, gestionando, cuando se requiera, su atención médica ante las autoridades correspondientes; y
+IX. Podrá supervisar de oficio la observancia de los derechos humanos en los procesos penales de las personas con discapacidad mental o psicosocial que se encuentran internas en los centros de reinserción social del estado de Veracruz, gestionando, cuando se requiera, su atención médica ante las autoridades correspondientes; y
 
 X. Conocer, investigar, formular propuestas y desarrollar programas que den solución a los asuntos que se planteen en los que se encuentren involucradas personas de los grupos vulnerables.
+
+XI. En aquellos casos donde se involucren menores, deberá resguardarse su identidad.
+
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
 
 ###### Artículo 78.
 
 Las atribuciones en materia de seguimiento y conclusión son las siguientes:
 
-I. Asignar número a las recomendaciones y conciliaciones que emita la Comisión Estatal, realizar su notificación a la autoridad a que se dirijan y registrar en la base de datos respectiva todas las acciones llevadas a cabo sobre el seguimiento del cumplimiento de las mismas;
+I. Notificar las recomendaciones y conciliaciones emitidas por esta Comisión Estatal;
 
-II. Dar seguimiento y llevar el control de las recomendaciones, conciliaciones, gestorías y otros documentos, hasta su conclusión, que sean emitidas por esta Comisión Estatal a autoridades estatales y/o municipales;
+II. Dar seguimiento y llevar el control de las recomendaciones, conciliaciones y otros documentos, hasta su conclusión;
 
 III. Despachar toda la correspondencia concerniente a la atención de los expedientes de queja sobre inconformidad, remisión y de seguimiento de recomendaciones, así como recabar los acuses de recepción correspondientes;
 
 IV. Solicitar informes y constancias a las autoridades estatales y/o municipales que acrediten el cumplimiento de las recomendaciones, conciliaciones o cualquier otro documento que les sea emitido por la Comisión Estatal;
 
-V. Requerir y reiterar en un término de ocho días a las autoridades estatal y/o municipales la solicitud de las constancias de cumplimiento de las gestorías, conciliaciones y recomendaciones;
+V. Requerir en un término de ocho días a las autoridades estatales y/o municipales las constancias de cumplimiento de las recomendaciones, una vez cumplido el plazo señalado en el artículo 172 sin que se hayan recibido dichas constancias;
 
 VI. Notificar al quejoso de las conciliaciones y recomendaciones tanto de la emisión como de su aceptación;
 
-VII. Notificar al quejoso de la no aceptación o del cumplimiento insuficiente de las recomendaciones, a efecto de que interpongan ante este Organismo estatal el correspondiente recurso de impugnación;
+VI (SIC). Notificar al quejoso de la no aceptación o del cumplimiento insuficiente de las recomendaciones, a efecto de que interpongan ante este Organismo estatal el correspondiente recurso de impugnación;
 
-VIII. Contestar los recursos que sean interpuestos por el incumplimiento o rechazo de las recomendaciones ante la Comisión Nacional y darle seguimiento hasta su conclusión;
+VII. Contestar los recursos que sean interpuestos por el incumplimiento o rechazo de las recomendaciones ante la Comisión Nacional y darle seguimiento hasta su conclusión;
 
-IX. Llevar el control de todos los servidores públicos sancionados o no sancionados, dentro de los expedientes de conciliaciones y recomendaciones emitidas por este Organismo con sus generales plenamente especificados;
+VIII. Llevar el control de todos los servidores públicos sancionados dentro de los expedientes de conciliaciones y recomendaciones emitidas por este Organismo con sus generales plenamente especificados;
 
-X. Informar adecuadamente a los quejosos sobre el seguimiento de recomendaciones y conciliaciones, motivo de la queja presentada por ellos;
+IX. Informar adecuadamente a los quejosos sobre el seguimiento de recomendaciones y conciliaciones, motivo de la queja presentada por ellos;
 
-XI. Coordinar con el área respectiva la digitalización de la documentación más importante de los expedientes de queja y orientación, concluidos, así como de las recomendaciones y conciliaciones cuyo seguimiento ha concluido; y
+X. Coordinar con el área respectiva la digitalización de la documentación más importante de los expedientes de queja y orientación, concluidos, así como de las recomendaciones y conciliaciones cuyo seguimiento ha concluido; y
 
-XII. Remitir a la visitaduría correspondiente, en caso de incumplimiento de las conciliaciones emitidas, del expediente de queja para la elaboración de la recomendación.
+XI. Remitir a la visitaduría correspondiente, en caso de incumplimiento de las conciliaciones emitidas, del expediente de queja para la elaboración de la recomendación.
+
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
 
 ###### Artículo 79.
 
 Las atribuciones en materia indígena son las siguientes:
 
-I. Conocer de todos aquellos asuntos en los que se detecte una presunta violación a los Derechos Humanos de los indígenas en el Estado de Veracruz;
+I. Conocer de todos aquellos asuntos en los que se detecte una presunta violación a los derechos humanos de las personas indígenas en el Estado de Veracruz;
 
-II. En coordinación con el área encargada de los asuntos penitenciarios, prestar atención y realizar los trámites necesarios de las peticiones verbales o por escrito, formuladas por los indígenas internos en los centros de readaptación social o de internación en el Estado;
+II. En coordinación con el área encargada de los asuntos penitenciarios, prestar atención y realizar los trámites necesarios de las peticiones verbales o por escrito, formuladas por las personas indígenas internas en los centros de readaptación social o de internación en el estado;
 
-III. Desarrollar y vigilar los programas de la Comisión Estatal, relacionados con la atención a los indígenas en particular o a grupos étnicos indígenas;
+III. Desarrollar y vigilar los programas de la Comisión Estatal, relacionados con la atención a las personas indígenas en particular o a grupos étnicos indígenas;
 
-IV. Coordinar con las delegaciones regionales y étnicas, las actividades que se consideren necesarias para ofrecer la mejor atención e información, en su propia lengua, a las comunidades indígenas, con la finalidad de crear una verdadera cultura de Derechos Humanos;
+IV. Coordinar con las delegaciones regionales y étnicas, las actividades que se consideren necesarias para ofrecer la mejor atención e información, en su propia lengua, a las comunidades indígenas, con la finalidad de crear una verdadera cultura de derechos humanos;
 
-V. Para ofrecer con mayor eficacia la atención a la población indígena, el área encargada contará con el apoyo de los delegados étnicos en cada zona étnica ubicada en el Estado;
+V. Para ofrecer con mayor eficacia la atención a la población indígena, el área encargada contará con el apoyo de los delegados étnicos en cada zona étnica ubicada en el estado;
 
-VI. Conocer, investigar, formular propuestas y desarrollar programas que den solución a los asuntos que se planteen en los que se encuentren involucrados indígenas; y
+VI. Conocer, investigar, formular propuestas y desarrollar programas que den solución a los asuntos en los que se encuentren involucradas personas indígenas; y
 
-VII. En todos los asuntos de su competencia, formular los estudios y propuestas que tiendan a mejorar la situación de los indígenas.
+VII. En todos los asuntos de su competencia, formular los estudios y propuestas que tiendan a mejorar la situación de las personas indígenas.
+
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
 
 ###### Artículo 80.
 
-El área encargada de los asuntos jurídicos de la Comisión Estatal tendrá como atribuciones:
+La Dirección de Asuntos Jurídicos de la Comisión Estatal tendrá como atribuciones:
 
-I. Promover, desahogar, formular, y en general cualquier intervención legal que se requiera dentro del juicio de protección de Derechos Humanos;
+I. Promover, desahogar, formular, y en general cualquier intervención legal que se requiera dentro del Juicio de Protección de Derechos Humanos;
 
 II. Formular las denuncias y querellas que procedan ante la autoridad correspondiente, otorgar el perdón, solicitar los desistimientos que correspondan y, en general, acudir ante toda clase de autoridades en defensa de los intereses de la Comisión Estatal;
 
@@ -885,9 +981,17 @@ IV. Promover las demandas y representar a la Comisión Estatal en toda clase de 
 
 V. Ejercer, ante los tribunales competentes, las acciones que competan a la Comisión Estatal, así como hacer valer toda clase de derechos, excepciones y defensas en cualquier procedimiento;
 
-VI. Formular las bases y revisar los requisitos legales a que deban someterse los convenios y contratos a celebrar por la Comisión Estatal, de acuerdo con los requerimientos de las áreas respectivas, así como los instrumentos jurídicos de cualquier naturaleza relativos a los derechos y obligaciones patrimoniales del Organismo, y
+VI. Formular los informes justificados en los Juicios de Amparo en los que la Comisión sea señalada como autoridad responsable o cualquier otro que le sea requerido por autoridad competente y en su caso vigilar los procedimientos correspondientes;
 
-VII. Las demás que por acuerdo del presidente de la Comisión Estatal le sean encomendadas.
+VII. Realizar el estudio y anteproyecto de acciones de inconstitucionalidad, de conformidad con lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Veracruz de Ignacio de la Llave;
+
+VIII. Formular las bases y revisar los requisitos legales a que deban someterse los convenios y contratos a celebrar por la Comisión Estatal, de acuerdo con los requerimientos de las áreas respectivas, así como los instrumentos jurídicos de cualquier naturaleza relativos a los derechos y obligaciones patrimoniales del Organismo;
+
+IX. Asistir y participar en las sesiones de Comités y Subcomités de la Comisión, conforme a las disposiciones aplicables; y
+
+X. Las demás que le sean encomendadas por el Presidente de la Comisión Estatal le sean encomendadas (sic).
+
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
 
 ###### Artículo 81.
 
@@ -907,9 +1011,9 @@ VI. Conservar y custodiar los bienes muebles e inmuebles de la Comisión Estatal
 
 VII. Ejercer, por acuerdo del presidente de la Comisión Estatal, la representación legal de la Comisión Estatal exclusivamente en el ámbito administrativo institucional;
 
-VIII. Proponer al presidente de la Comisión Estatal la formulación y actualización de la estructura orgánica de los órganos y las áreas de la Comisión Estatal;
+VIII. Proponer al presidente de la Comisión Estatal la formulación y actualización de la estructura orgánica de las áreas de la Comisión Estatal;
 
-IX. Elaborar, desarrollar y ejecutar el programa de capacitación del personal de la Comisión Estatal, en coordinación con la secretaría ejecutiva;
+IX. Elaborar, desarrollar y ejecutar el programa de capacitación del personal de la Comisión Estatal, en coordinación con la Secretaría Ejecutiva;
 
 X. Coordinar el ejercicio del gasto conforme a los lineamientos generales y específicos establecidos en la materia y ejecutar el gasto conforme al presupuesto autorizado;
 
@@ -925,11 +1029,15 @@ XV. Suscribir los contratos, convenios y acuerdos relativos al ejercicio de sus 
 
 XVI. Conducir las relaciones laborales de la Comisión Estatal conforme a la normatividad establecida al efecto;
 
-XVII. Establecer las políticas de contratación y desarrollo laboral, así como supervisar su cumplimiento e implementar el servicio civil de carrera;
+XVII. Establecer las políticas de contratación y desarrollo laboral, así como supervisar su cumplimiento e implementar el Servicio Civil de Carrera;
 
-XVIII. Establecer, controlar y evaluar el programa interno de protección civil y de administración de riesgos y aseguramiento para el personal, instalaciones, bienes, información y documentación de la Comisión Estatal; y
+XVIII. Establecer, controlar y evaluar el programa interno de protección civil y de administración de riesgos y aseguramiento para el personal, instalaciones, bienes, información y documentación de la Comisión Estatal;
 
-XIX. Establecer y operar el sistema de telecomunicaciones de la Comisión Estatal.
+XIX. Establecer y operar el sistema de telecomunicaciones de la Comisión Estatal; y
+
+XX. Organizar, custodiar, resguardar y administrar el archivo general de la Comisión Estatal respecto de los expedientes de queja, recursos de inconformidad, orientación directa o remisión, siempre y cuando el trámite se encuentre concluido, así como de las recomendaciones y conciliaciones cuyo seguimiento haya finalizado.
+
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
 
 ###### Artículo 82.
 
@@ -941,7 +1049,7 @@ II. Diseñar e instalar la infraestructura de cómputo de la Comisión Estatal, 
 
 III. Recibir, organizar y distribuir a las áreas que les corresponda, la documentación e información electrónica recibidas en la Comisión Estatal;
 
-IV. Diseñar e impartir los programas de capacitación en uso y manejo de los sistemas de información para el personal de la Comisión Estatal, en coordinación con la secretaría ejecutiva;
+IV. Diseñar e impartir los programas de capacitación en uso y manejo de los sistemas de información para el personal de la Comisión Estatal, en coordinación con la Secretaría Ejecutiva;
 
 V. Analizar y evaluar las nuevas tendencias tecnológicas para su posible aplicación en la Comisión Estatal;
 
@@ -951,9 +1059,27 @@ VII. Levantar el acta de baja del equipo de cómputo, en mal estado, inservible,
 
 VIII. Coordinar el archivo electrónico de los expedientes de la Comisión Estatal, manteniendo el uso adecuado y confidencial de los mismos;
 
-IX. Sistematizar la información que sea recibida o se genere dentro de la Comisión Estatal y proporcionarla solamente a las áreas que les corresponda; y
+IX. Sistematizar la información que sea recibida o se genere dentro de la Comisión Estatal y proporcionarla solamente a las áreas que les corresponda;
 
-X. Proporcionar a la presidencia información basada en estadísticas para su evaluación.
+X. Proporcionar a la presidencia información basada en estadísticas para su evaluación;
+
+XI. Generar los datos estadísticos para la actualización de indicadores e informes que se requieran para la toma de decisiones.
+
+XII. Sistematizar y procesar información estadística con una periodicidad semanal y un corte mensual estadístico, de las actividades sustantivas de la CEDH, para su turno a todas las áreas sustantivas y administrativas en apoyo de las actividades que desempeñan;
+
+XIII. Coordinar la implementación y supervisión de los sistemas de registro electrónico de actividades sustantivas de la CEDH;
+
+XIV. Registrar y sistematizar la información, que sobre las diferentes actividades de difusión, capacitación, representación, y todas aquellas inherentes a la actividad sustantiva y adjetiva realicen las diferentes áreas que integran la CEDH, y que representa evidencia y memoria fotográfica de las actividades, para su difusión y uso en redes sociales, página WEB, informes, revista de la CEDH, entre otros;
+
+XV. Dar respuesta a las solicitudes de información remitidas por la Unidad de Transparencia de la CEDH y apoyar al cumplimiento de las obligaciones en materia de transparencia, de conformidad con la normatividad en el Estado y en la actualización del portal de transparencia del Organismo;
+
+XVI. Gestionar y actualizar los contenidos de la página WEB y del portal de transparencia del organismo;
+
+XVII. Turnar diariamente a las diversas áreas, la información difundida a través de medios electrónicos que tengan relación con la CEDH y los derechos humanos;
+
+XVIII. Fungir como enlace estadístico con organismos e instituciones coordinar al interior del Organismo la integración de los reportes e informes que se requieran a la CEDH; y
+
+XIX. Programar, sistematizar y elaborar los informes mensuales estadísticos y sobre el trabajo sustantivo que son requeridos por: Presidencia, Secretaría Ejecutiva, Secretaría Técnica, Dirección de Administración, y los demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellos que se consideren necesarios.
 
 ###### Artículo 83.
 
@@ -971,13 +1097,37 @@ V. Coordinar las reuniones de prensa del presidente y demás funcionarios de la 
 
 ### Capítulo VIII. De las delegaciones
 
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
+
 ###### Artículo 84.
 
 En apoyo a sus atribuciones la Comisión Estatal, podrá crear delegaciones en el Estado a propuesta de su Presidente y con aprobación del Consejo Consultivo, de acuerdo a las necesidades operativas y la capacidad presupuestal. El trabajo que se realice en dichas oficinas, se sujetará a lo dispuesto por la Ley y el Reglamento Interno.
 
 Las delegaciones regionales y étnicas podrán contar con un delegado, visitadores adjuntos y auxiliares, así como el personal administrativo y técnico que se requiera para el desempeño de sus funciones. Será responsabilidad del delegado el buen funcionamiento de la delegación.
 
-La competencia por territorio será fijada en el acuerdo que expida la presidencia de este organismo, con ese fin.
+En el cumplimiento de sus funciones y atribuciones a los Delegados de las Delegaciones Regionales, les compete atender los siguientes municipios:
+
+Delegación Pánuco: El Higo, Ozuluama, Pánuco, Platón Sánchez, Pueblo Viejo, Tampico Alto, Tempoal De Sánchez, Tantoyuca, Chontla, Citlaltépetl, Tamalín, Tantima.
+
+Delegación Tuxpan: Álamo Temapache, Castillo De Teayo, Cazones De Herrera, Cerro Azul, Chinampa De Gorostiza, Naranjos Amatlán, Poza Rica, Tamiahua, Tancoco, Tepetzintla, Tihuatlán, Tuxpan.
+
+Delegación Xalapa: Acajete, Acatlán, Actopan, Alto Lucero, Altotonga, Apazapan, Atzalan, Ayahualulco, Banderilla, Chiconquiaco, Coacoatzintla, Coatepec, Colipa, Cosautlán De Carvajal, Emiliano Zapata, Ixhuacán De Los Reyes, Jalacingo, Jalcomulco, Jilotepec, Juchique De Ferrer, Landero Y Coss, Las Minas, Las Vigas, Martínez De La Torre, Miahuatlán, Misantla, Naolinco De Victoria, Nautla, Perote, Puente Nacional, Rafael Lucio, San Rafael, Tatatila, Tenochtitlán, Teocelo, Tepetlán, Tlacolulan, Tlalnelhuayocan, Tlaltetela, Tlapacoyan, Tonayán, Vega De Alatorre, Villa Aldama, Xalapa Enríquez, Xico, Yecuatla, Totutla.
+
+Delegación Veracruz: Acula, Alvarado, Amatitlán, Ángel R. Cabada, Boca Del Río, Camarón De Tejeda, Carlos A. Carrillo, Chacaltianguis, Cosamaloapan, Cotaxtla, Ignacio De La Llave, Ixmatlahuacan, Jamapa, La Antigua, Lerdo De Tejada, Manlio Fabio Altamirano, Medellín De Bravo, Paso De Ovejas, Soledad De Doblado, Tlacotalpan, Tlalixcoyan, Úrsulo Galván, Veracruz, Tres Valles, Tuxtilla, Tierra Blanca, Tlacojalpan, Otatitlán, Salta Barranca.
+
+Delegación Córdoba: Alpatláhuac, Amatlán De Los Reyes, Aquila, Atoyac, Calcahualco, Camerino Z. Mendoza, Carrillo Puerto, Chocamán, Comapa, Córdoba, Coscomatepec De Bravo, Cuichapa, Cuitláhuac, Fortín De Las Flores, Huatusco, Huiloapan De Cuauhtémoc, Ixhuatlán Del Café, Ixhuatlancillo, Ixtaczoquitlán, La Perla, Maltrata, Mariano Escobedo, , (sic) Paso Del Macho, Río Blanco, Sochiapa, Tenampa, Tepatlaxco, Tezonapa, Tlacotepec De Mejía, Tomatlán, Yanga, Zentla, Naranjal, Nogales, Omealca, Orizaba, Atzacan.
+
+Delegación Coatzacoalcos: Agua Dulce, Coatzacoalcos, Cosoleacaque, Hidalgotitlán, Ixhuatlán Del Sureste, Jáltipan, Las Choapas, Minatitlán, Moloacán, Nanchital, Zaragoza, Chinameca, Oteapan.
+
+En el cumplimiento de sus funciones y atribuciones a los Delegados de las Delegaciones Étnicas, les compete atender los siguientes municipios:
+
+Delegación Chicontepec: Benito Juárez, Chicontepec De Tejeda, Huayacocotla, Ilamatlán, Ixcatepec, Ixhuatlán De Madero, Texcatepec, Tlachichilco, Zacualpan, Zontecomatlán, Chalma, Chiconamel.
+
+Delegación Papantla: Chumatlán, Coahuitlán, Coxquihui, Coyutla, Espinal, Filomena Mata, Gutierrez Zamora, Mecatlán, Papantla De Olarte, Tecolutla, Zozocolco De Hidalgo, Coatzintla.
+
+Delegación Zongolica: Astacinga, Atlahuilco, Los Reyes, Magdalena, Mixtla De Altamirano, Rafael Delgado, San Andrés Tenejapan, Soledad Atzompa, Tehuipango, Tequila, Texhuacán, Tlaquilpa, Tlilapan, Xoxocotla, Zongolica, Acultzingo, Coetzala.
+
+Delegación Acayucan: Acayucan, Catemaco, Hueyapan De Ocampo, Jesús Carranza, Mecayapan, Oluta,, (sic) Pajapan, San Andrés Tuxtla, San Juan Evangelista, Santiago Tuxtla, Sayula De Alemán, Soconusco, Soteapan, Tatahuicapan De Juárez, Texistepec, Uxpanapa, José Azueta, Juan Rodríguez Clara, Isla, Playa Vicente, Santiago Sochiapan.
 
 ###### Artículo 85.
 
@@ -987,31 +1137,41 @@ Con la finalidad de satisfacer las necesidades de atención, orientación y gest
 
 Los delegados regionales y étnicos tendrán el carácter de visitadores adjuntos, por lo que deberán cubrir los requisitos establecidos en el artículo 62 de este Reglamento, para su nombramiento.
 
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
+
 ###### Artículo 87.
 
 Las delegaciones, tendrán las siguientes funciones:
 
 I. Atender, orientar y gestionar a favor de las personas que así lo soliciten, ya sea de manera personal o por cualquier medio de comunicación;
 
-II. Recibir, dar trámite e integrar los escritos calificados como queja que se presenten por presuntas violaciones de derechos humanos, turnando los expedientes calificados e integrados a la visitaduría que corresponda, para su análisis y conclusión;
+II. Recibir, dar trámite e integrar los escritos calificados como queja que se presenten por presuntas violaciones de derechos humanos, mediante la Ficha de Atención Electrónica turnando los expedientes calificados e integrados a (sic) Dirección de Informática para su turno a la visitaduría o dirección que corresponda, para su análisis y conclusión;
 
-III. Acusar recibo a los quejosos de la admisión de su escrito; en caso necesario solicitar al agraviado que precise, amplíe o aclare sus quejas, aportando pruebas o documentos;
+III. Recibir, dar trámite e integrar los expedientes de los escritos calificados como Orientación, Gestoría y Ayuda Humanitaria, turnando los expedientes tramitados e integrados a la Dirección de Informática para su conclusión y archivo;
 
-IV. Solicitar informes a las autoridades señaladas como responsables y a todas aquellas que en auxilio de las labores de este Organismo puedan proporcionar datos o informes para la debida integración del expediente;
+IV. Asignar mediante el sistema de gestión de expedientes en operación, el número de expediente, según corresponda, y requisitar los datos necesarios de la ficha de registro, para mantener actualizada la base de datos respectiva;
 
-V. Llevar a cabo las diligencias que le sean solicitadas por las visitadurías, direcciones y demás áreas que corresponda, de la Comisión Estatal;
+V. Acusar recibo a los quejosos de la admisión de su escrito; en caso necesario solicitar al agraviado que precise, amplíe o aclare sus quejas, aportando pruebas o documentos;
 
-VI. Practicar con apoyo del médico adscrito a la delegación, el certificado médico de lesiones y si es necesario, él o los análisis clínicos de laboratorio, cuando el quejoso refiera haber sido objeto de malos tratos;
+VI. Solicitar informes a las autoridades señaladas como responsables y a todas aquellas que en auxilio de las labores de este Organismo puedan proporcionar datos o informes para la debida integración del expediente;
 
-VII. Entrevistar a los testigos presenciales de los hechos, motivo de la investigación, realizar diligencias de inspección ocular, y allegarse de documentos que existan en los archivos o registros de dependencias u organismos estatales y municipales, cuando el caso así lo amerite;
+VII. Llevar a cabo las diligencias que le sean solicitadas por las visitadurías, direcciones y demás áreas que corresponda, de la Comisión Estatal;
 
-VIII. Informar periódicamente sobre las actividades realizadas en la zona, así como de manera inmediata cuando se trate de casos que por su naturaleza se consideren urgentes;
+VIII. Practicar con apoyo del médico adscrito a la delegación, el certificado médico de lesiones y si es necesario, él o los análisis clínicos de laboratorio, cuando el quejoso refiera haber sido objeto de malos tratos;
 
-IX. Apoyar todas las acciones encaminadas a la formación de una cultura de Derechos Humanos entre la población;
+IX. Entrevistar a los testigos presénciales de los hechos, motivo de la investigación, realizar diligencias de inspección ocular, y allegarse de documentos que existan en los archivos o registros de dependencias u organismos estatales y municipales, cuando el caso así lo amerite;
 
-X. Administrar adecuadamente los recursos con que cuente la delegación y supervisar el buen desempeño del personal adscrito a la misma; y
+X. Informar periódicamente sobre las actividades realizadas en la zona, así como de manera inmediata cuando se trate de casos que por su naturaleza se consideren urgentes;
 
-XI. Las demás que le sean encomendadas por la presidencia.
+XI. Apoyar todas las acciones encaminadas a la formación de una cultura de derechos humanos entre la población;
+
+XII. Administrar adecuadamente los recursos con que cuente la delegación y supervisar el buen desempeño del personal adscrito a la misma;
+
+XIII. Realizar el reporte y actualización de los datos que den evidencia de la actividad realizada, relativa a avances en el trámite procesal de los expedientes, a la Dirección de informática para el registro y actualización de los mismos en el banco de datos institucional, o en su caso, mediante su actualización en el sistema de gestión en uso correspondiente;
+
+XIV. Será motivo de actualización de datos la ejecución de las siguientes acciones procesales: Solicitud de medidas cautelares, de conservación o de restitución, Acumulación de expedientes, Reclasificación de Violación a Derechos Humanos, Acuerdo de archivo del expediente, calificación de causal de archivo del expediente, reasignación de expediente para su tramitación, regreso del expediente para su perfeccionamiento a alguna área de la CEDHV, envío al archivo de concentración, turno de quejas a Visitadurías generales, y todas aquellas acciones procesales que implique (sic) un ajuste de información o de ubicación para el seguimiento correspondiente; y
+
+XV. Las demás que le sean encomendadas por la Presidencia.
 
 ###### Artículo 88.
 
@@ -1081,13 +1241,17 @@ El número de folio se marcará en la esquina superior derecha de la hoja. La nu
 
 Las evidencias en soporte electrónico, magnético, electromagnético o de cualquier otra índole se acompañarán al expediente en sobre cerrado que deberá ser foliado en los términos antes previstos, salvo que por seguridad deban mantenerse separados del expediente. En ese supuesto, el visitador deberá levantar el acta circunstanciada correspondiente y adjuntarla al expediente.
 
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
+
 ###### Artículo 96.
 
-El principio de confidencialidad no operará en los casos siguientes; recomendaciones, observaciones generales, conciliaciones, documentos de no responsabilidad, informes especiales y en el seguimiento a las recomendaciones o cuando exista autorización expresa por el quejoso.
+El principio de confidencialidad no operará en los casos siguientes; recomendaciones, observaciones generales, conciliaciones, acuerdos de archivo, informes especiales y en el seguimiento a las recomendaciones o cuando exista autorización expresa por el quejoso.
+
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
 
 ###### Artículo 97.
 
-Las recomendaciones, observaciones generales, conciliaciones, documentos de no responsabilidad, informes especiales y acuerdos de archivo que emita la Comisión Estatal estarán basados en las pruebas que, de manera fehaciente, consten en los respectivos expedientes, y deberán estar fundados y motivados en la norma interna e internacional que sea aplicable, apegándose al principio de buena fe y las formalidades esenciales del procedimiento.
+Las recomendaciones, observaciones generales, conciliaciones, acuerdos de archivo e informes especiales que emita la Comisión Estatal estarán basados en las pruebas que, de manera fehaciente, consten en los respectivos expedientes, y deberán estar fundados y motivados en la norma interna e internacional que sea aplicable, apegándose al principio de buena fe y las formalidades esenciales del procedimiento.
 
 ### Capítulo II. De la presentación, recepción y registro de la queja
 
@@ -1137,11 +1301,13 @@ Lo previsto en el párrafo anterior no se aplicará a la parte quejosa que se en
 
 Se desglosará, la petición que exponga hechos distintos, que se refieran a más de una persona y que podría constituir diversas violaciones sin conexión en el tiempo y el espacio, será desglosada y tramitada en expedientes separados, a condición de que reúna todos los requisitos del artículo 100.
 
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
+
 ###### Artículo 104.
 
-Se considerará anónimo el escrito de queja que no esté firmado, no contenga huella digital o no cuente con los datos de identificación del quejoso. Esa situación se hará saber, si ello es posible, al quejoso para que ratifique el escrito de queja dentro de los cinco días siguientes a su presentación, contados a partir del momento en que el quejoso reciba la comunicación de la Comisión Estatal de que debe subsanar la omisión. De preferencia la comunicación al quejoso se hará vía telefónica, en cuyo caso se redactará el acta circunstanciada por parte del personal de la Comisión Estatal que hizo el requerimiento telefónico. De no contar con número telefónico, el requerimiento para ratificar la queja se hará por cualquier otro medio de comunicación, sea correo electrónico, telefax, telegrama, o correo certificado. En cualquier supuesto, el término de los cinco días se contará a partir del correspondiente acuse de recepción o del momento en que se tenga la certeza de que el quejoso recibió el requerimiento para ratificar la queja.
+Cuando un escrito de queja no esté firmado, no contenga huella digital o no cuente con los datos de identificación del quejoso, se le hará saber, si ello es posible para que ratifique el escrito de queja dentro de los cinco días siguientes a su presentación, contados a partir del momento en que el quejoso reciba la comunicación de la Comisión Estatal de que debe subsanar la omisión. De preferencia la comunicación al quejoso se hará vía telefónica, en cuyo caso se redactará el acta circunstanciada por parte del personal de la Comisión Estatal que hizo el requerimiento telefónico. De no contar con número telefónico, el requerimiento para ratificar la queja se hará por cualquier otro medio de comunicación, sea correo electrónico, telefax, telegrama, o correo certificado. En cualquier supuesto, el término de los cinco días se contará a partir del correspondiente acuse de recepción o del momento en que se tenga la certeza de que el quejoso recibió el requerimiento para ratificar la queja.
 
-Se excepcionan de lo establecido en el párrafo anterior, aquellas quejas que no contengan nombre, firma o huella digital de la parte quejosa, como consecuencia del temor a represalias que puedan atentar contra su integridad física o moral; en este supuesto, se iniciará de oficio la investigación a fin de que, si es procedente, se solicite el establecimiento de medidas precautorias, de conservación o restitución a favor de la parte quejosa. Para ello, bajo estricta confidencialidad, la Comisión Estatal solicitará datos de identificación de la parte quejosa con el único fin de tenerla ubicada y poder de esta forma realizar las gestiones necesarias para la preservación de sus Derechos Humanos.
+Se excepcionan de lo establecido en el párrafo anterior, aquellas quejas que no contengan nombre, firma o huella digital de la parte quejosa, como consecuencia del temor a represalias que puedan atentar contra su integridad física o moral; en este supuesto, se iniciará de oficio la investigación a fin de que, si es procedente, se solicite el establecimiento de medidas cautelares, de conservación o restitución a favor de la parte quejosa. Para ello, bajo estricta confidencialidad, la Comisión Estatal solicitará datos de identificación de la parte quejosa con el único fin de tenerla ubicada y poder de esta forma realizar las gestiones necesarias para la preservación de sus derechos humanos.
 
 Para la continuación del trámite y del procedimiento de investigación a cargo de la Comisión Estatal, se requerirá acuerdo del Presidente, si, bajo su responsabilidad, considera que no ha lugar para continuar con la investigación, ésta concluirá con la actuación que se hubiese realizado inicialmente. En caso contrario, se seguirá con la investigación hasta su conclusión en los términos que señalen la Ley y este Reglamento.
 
@@ -1155,9 +1321,11 @@ Una queja que carezca de domicilio, teléfono o cualquier dato suficiente, agota
 
 En caso de que la parte quejosa sea extranjera, la Comisión Estatal podrá dar aviso a la representación de su país de origen a petición de la misma.
 
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
+
 ###### Artículo 107.
 
-Cuando un quejoso solicite que sus datos y/o de los testigos se mantenga en estricta confidencialidad, la Comisión Estatal evaluará los hechos y discrecionalmente, determinará sobre la confidencialidad de los datos bajo el acuerdo respectivo. La violación de este principio será responsabilidad del visitador encargado del expediente de queja.
+Cuando un quejoso solicite que sus datos y/o de los testigos se mantenga en estricta confidencialidad, el visitador emitirá el acuerdo respectivo. La violación de este principio será responsabilidad del visitador encargado del expediente de queja.
 
 ###### Artículo 108.
 
@@ -1171,15 +1339,17 @@ Los escritos o peticiones que se reciban posteriormente al inicio de un expedien
 
 De igual manera, todo escrito que se reciba después de que la queja hubiere sido concluida se incorporará al expediente respectivo, previo el análisis que realice el visitador quien concluyera el mismo, siempre y cuando se refiera a los mismos hechos respecto de los cuales la Comisión Estatal concluyó el expediente; dicha situación se asentará con el acuerdo correspondiente.
 
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
+
 ###### Artículo 110.
 
-Cualquier persona podrá denunciar presuntas violaciones a los Derechos Humanos y acudir ante las oficinas de la Comisión Estatal para presentar, ya sea directamente o por medio de representante, quejas contra dichas violaciones.
+Cualquier persona podrá denunciar presuntas violaciones a los derechos dumanos (sic) y acudir ante las oficinas de la Comisión Estatal para presentar, ya sea directamente o por medio de representante, quejas contra dichas violaciones.
 
 Cuando los interesados estén privados de su libertad o se desconozca su paradero, los hechos se podrán denunciar por los parientes o vecinos de los afectados, inclusive por menores de edad.
 
-Cuando se traten de presuntas violaciones a Derechos Humanos de los menores de edad o las personas con capacidad mental diferente, sólo bastará la queja presentada por cualquiera de sus padres, familiares o tutores.
+Cuando se traten de presuntas violaciones a derechos humanos de los menores de edad o las personas con discapacidad, solo bastará la queja presentada por cualquiera de sus padres, familiares o tutores.
 
-Las organizaciones de la sociedad civil legalmente constituidas podrán acudir ante la Comisión Estatal para denunciar las violaciones de Derechos Humanos respecto de personas que por sus condiciones físicas, mentales, económicas y culturales, no tengan la capacidad efectiva de presentar quejas de manera directa.
+Las organizaciones de la sociedad civil legalmente constituidas podrán acudir ante la Comisión Estatal para denunciar las violaciones de derechos humanos respecto de personas que por sus condiciones físicas, mentales, económicas y culturales, no tengan la capacidad efectiva de presentar quejas de manera directa.
 
 ###### Artículo 111.
 
@@ -1201,9 +1371,11 @@ I. Infracción grave a los derechos fundamentales de la persona, su libertad, la
 
 II. Violaciones de lesa humanidad.
 
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
+
 ###### Artículo 114.
 
-La Comisión Estatal podrá radicar de oficio quejas por supuestas violaciones a derechos humanos. Para ello será indispensable que así lo acuerde la presidencia de la Comisión Estatal por sí o a propuesta de alguno de los titulares de las áreas.
+La Comisión Estatal podrá radicar de oficio quejas por presuntas violaciones a derechos humanos a propuesta de alguno de los titulares de las áreas.
 
 La queja radicada de oficio, seguirá en lo conducente, el mismo trámite que las quejas radicadas a petición de los particulares, pero no podrá ser concluida por falta de interés de los agraviados ni por desistimiento.
 
@@ -1213,11 +1385,13 @@ En el supuesto de que los quejosos o denunciantes no puedan identificar a las au
 
 En este caso, se procurará la identificación de las autoridades o servidores públicos, durante el curso de la investigación de la queja, valiéndose de los medios a su alcance, con aquellos que las autoridades deberán poner a su disposición y los derivados de la intervención que al quejoso le corresponda.
 
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
+
 ###### Artículo 116.
 
 Si de la presentación de la queja no se deducen los elementos que permitan la intervención de la Comisión Estatal, ésta podrá requerir por escrito al quejoso para que la aclare. Si después de dos requerimientos el quejoso no contesta, se enviará la queja al archivo por falta de interés.
 
-El término que deberá mediar entre los dos requerimientos hechos al quejoso, será de quince días naturales, para efectos de que aclare el escrito de la queja.
+El término que deberá mediar entre los dos requerimientos hechos al quejoso, será de quince días naturales.
 
 El término referido se contará a partir de la fecha de acuse de recibo del primer requerimiento, por lo que dentro del segundo requerimiento se podrá apercibir al quejoso respecto al archivo de su queja, en caso de no contestar al mismo. Si el quejoso no contesta dentro de los diez días naturales siguientes a la fecha del acuse de recibo del segundo requerimiento se hará efectivo el apercibimiento y su queja se enviará sin más trámite al archivo por falta de interés del propio quejoso.
 
@@ -1265,15 +1439,19 @@ Asimismo, en el acuse de recibo respectivo, y en el acuerdo de admisión, se har
 
 Además se le informará el nombre del visitador encargado del expediente, la gratuidad de los servicios, la no necesaria asistencia de un abogado, y el número telefónico al cual se puede comunicar para enterarse sobre el trámite del expediente, y se le invitará a mantener comunicación con dicho visitador durante la tramitación del expediente.
 
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
+
 ###### Artículo 123.
 
-Desde el momento en que se admita la queja el encargado del expediente, se pondrá en contacto inmediato con la autoridad señalada como responsable de la presunta violación de Derechos Humanos para intentar lograr una conciliación entre los intereses de las partes involucradas, siempre dentro del respeto de los Derechos Humanos que se consideren afectados, a fin de lograr una solución inmediata del conflicto.
+Desde el momento en que se admita la queja el encargado del expediente, se pondrá en contacto inmediato con la autoridad señalada como responsable de la presunta violación de derechos humanos para intentar lograr una solución inmediata del conflicto, siempre dentro del respeto de los derechos humanos que se consideren afectados.
 
 De lograrse una solución satisfactoria o el allanamiento del o de los responsables, la Comisión Estatal lo hará constar así y ordenará el archivo del expediente, el cual podrá reabrirse cuando los quejosos o denunciantes expresen al Organismo que no se ha cumplido con el compromiso en un plazo de noventa días. Para estos efectos, la Comisión Estatal en el término de setenta y dos horas dictará el acuerdo correspondiente, y en su caso, proveerá las acciones y determinaciones conducentes.
 
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
+
 ###### Artículo 124.
 
-Cuando la queja haya sido calificada como de no competencia de la Comisión Estatal, el titular del área correspondiente o el delegado, enviará al quejoso el acuerdo respectivo en él que, con toda la claridad posible, se señalará la causa de no competencia y sus fundamentos legales y reglamentarios, de tal suerte que el quejoso tenga explicación sobre esa determinación.
+Cuando la queja o petición planteada haya sido calificada como de no competencia de la Comisión Estatal, el titular del área correspondiente o el delegado, notificará al quejoso el acuerdo respectivo en el que, con toda la claridad posible, se señalará la causa de no competencia y sus fundamentos legales y reglamentarios, de tal suerte que el quejoso tenga explicación sobre esa determinación.
 
 ###### Artículo 125.
 
@@ -1297,9 +1475,11 @@ De ser posible el desglose del caso, por lo que se refiere al acto u omisión de
 
 En los casos de incompetencia que señala el artículo 5 de la Ley, si la queja se recibiera en forma verbal, se podrá levantar el escrito de petición o bien, proporcionarle los datos necesarios al quejoso para que acuda de manera directa a la autoridad competente, a elección del mismo; en estos casos se tendrá por inadmitida la instancia orientándosele.
 
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
+
 ###### Artículo 129.
 
-Cuando la queja haya sido calificada como de no competencia, pero exista la posibilidad de orientar jurídicamente al quejoso, el visitador, previo acuerdo con su superior inmediato, enviará el respectivo documento de orientación en el que se explicará de manera breve y sencilla la naturaleza del problema y sus posibles formas de solución. En estos casos se señalará el nombre de la dependencia o institución pública que debe atender al quejoso. A dicha entidad pública se enviará un oficio en el cual se señale que la Comisión Estatal ha orientado al quejoso y le pedirá que éste sea recibido para la atención de su asunto.
+Cuando la queja haya sido calificada como de no competencia, pero exista la posibilidad de orientar jurídicamente al quejoso, el visitador, previo acuerdo con su superior inmediato, enviará el respectivo documento de orientación en el que se explicará de manera breve y sencilla la naturaleza del problema y sus posibles formas de solución. En estos casos se señalará el nombre de la dependencia o institución pública que debe atender al quejoso.
 
 ###### Artículo 130.
 
@@ -1325,11 +1505,13 @@ Una vez admitida la queja, deberá ponerse en conocimiento de las autoridades se
 
 En el informe se solicitará a las autoridades o servidores públicos que rindan un informe sobre los actos, omisiones o resoluciones que se les atribuyan en la queja, el cual deberán presentar dentro de un plazo máximo de quince días naturales y por los medios que sean convenientes, de acuerdo con el caso. En las situaciones que a juicio de la Comisión Estatal se consideren urgentes, dicho plazo podrá ser reducido, además el correspondiente oficio de solicitud de información se razonarán someramente los motivos de urgencia.
 
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
+
 ###### Artículo 135.
 
 En el informe que deberán rendir las autoridades señaladas como responsables contra las que se interponga queja, se deberá hacer constar los antecedentes del asunto, los fundamentos y motivaciones de los actos u omisiones impugnados, si efectivamente éstos existieron, así como los elementos de información que consideren necesarios para la documentación del asunto.
 
-La falta de rendición del informe o de la documentación que lo apoye, así como el retraso injustificado en su presentación, además de la responsabilidad respectiva, tendrá el efecto de que en relación con el trámite de la queja se tengan por ciertos los hechos materia de la misma, salvo prueba en contrario, por ello la autoridad será apercibida en estos términos.
+La falta de rendición del informe y de la documentación que lo apoye en los términos del artículo 143, hará que se tengan por ciertos los hechos materia de la queja, sin perjuicio de que el área encargada de la tramitación del expediente pueda realizar diligencias para mejor proveer.
 
 Toda la documentación que remita la autoridad judicial o administrativa a la Comisión Estatal, como parte de la información solicitada, preferentemente deberá estar certificada, cuando el servidor público al que se le solicitó la información cuente con la facultad legal para ello; asimismo, deberá estar debidamente foliada.
 
@@ -1341,9 +1523,11 @@ En los casos en que algún funcionario de la Comisión Estatal entable comunicac
 
 Se apercibirá a la autoridad responsable que ante el incumplimiento reiterado de las recomendaciones, el organismo podrá hacerlos del conocimiento del Congreso del Estado y de la autoridad que estime pertinente, para los efectos legales procedentes. Así como también que en los procedimientos de queja, la carga de la prueba le corresponde a la autoridad señalada como responsable.
 
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
+
 ###### Artículo 138.
 
-La respuesta de la autoridad se podrá hacer del conocimiento del quejoso en aquellos casos en que exista una contradicción evidente entre lo manifestado por el propio quejoso y la información proporcionada por la autoridad; en que la autoridad pida al quejoso se presente para resarcirle la presunta violación, y en todos los demás en que a juicio del visitador se haga necesario que el quejoso conozca el contenido de la respuesta de la autoridad.
+La respuesta de la autoridad se hará del conocimiento del quejoso en aquellos casos en que exista una contradicción evidente entre lo manifestado por el propio quejoso y la información proporcionada por la autoridad; en que la autoridad pida al quejoso se presente para resarcirle la presunta violación, y en todos los demás en que a juicio del visitador se haga necesario que el quejoso conozca el contenido de la respuesta de la autoridad.
 
 En los casos anteriores se concederá al quejoso un plazo máximo de quince días contados a partir del acuse de recibo, para que manifieste lo que a su derecho convenga. De no hacerlo en el plazo fijado, se ordenará el envío del expediente al archivo por falta de interés, siempre y cuando exista negación de los hechos materia de la queja por parte de la autoridad presuntamente responsable y no se cuente con evidencias que permitan acreditar lo contrario.
 
@@ -1375,15 +1559,23 @@ En caso de que la autoridad estime de carácter reservado la documentación, lo 
 
 La falta de colaboración de las autoridades a las labores de los funcionarios de la Comisión Estatal podrá ser motivo de la presentación de una protesta ante su superior jerárquico en su contra, independientemente de las responsabilidades administrativas y/o penales a que haya lugar y de la solicitud de amonestación pública o privada según el caso, al titular de la dependencia de que se trate.
 
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
+
 ###### Artículo 143.
 
-Se podrá requerir hasta en dos ocasiones a la autoridad a la que se corrió traslado de una queja para que rinda el informe o envié la documentación solicitada. El traslado de la queja no operará en el caso de aquellas iniciadas de oficio o en las cuales la Comisión Estatal deba guardar reserva. El lapso que deberá correr entre los dos requerimientos será por lo menos de quince días contados a partir de la fecha de acuse de recibo del primer requerimiento.
+Vencido el plazo señalado en el artículo 134, se podrá requerir hasta en una ocasión a la autoridad a la que se corrió traslado de una queja para que rinda el informe o envié la documentación solicitada. El traslado de la queja no operará en el caso de aquellas iniciadas de oficio o en las cuales la Comisión Estatal deba guardar reserva.
 
-Los dos requerimientos procederán tanto en el caso de que la autoridad no rinda el informe, como para el supuesto de que lo rinda pero no envié la documentación solicitada. De no recibir respuesta, o en el caso de que la respuesta sea incompleta, el visitador general, el director o delegado podrá disponer que algún funcionario de la Comisión Estatal acuda a la oficina de la autoridad para hacer la investigación respectiva.
+Una vez realizado el requerimiento la autoridad contará con quince días naturales para hacer llegar a la Comisión el informe y la documentación solicitadas (sic). De no hacerlo se tendrán por ciertos los hechos materia de la queja.
 
-Si del resultado de la investigación se acredita la violación a Derechos Humanos, la consecuencia inmediata será una recomendación, en la que se precise la falta de rendición del informe a cargo de la autoridad. En estos casos no habrá posibilidad de conciliación ni operará la prueba en contrario. El envío de la recomendación no impedirá que la Comisión Estatal pueda solicitar la aplicación de las responsabilidades administrativas o penales en contra del funcionario respectivo.
+El término para exhortar a la autoridad, en los términos que preceden, será de quince días hábiles, a partir de la fecha de acuse de recibido, de la solicitud inicial.
 
-Si al concluir la investigación no se acredita violación de Derechos Humanos alguna, se hará del conocimiento del quejoso y, en su caso, se le orientará o gestionará. En esta específica situación, se elaborará el acuerdo de archivo, y no habrá lugar a elaborar documento de no responsabilidad a la autoridad.
+El requerimiento a que se refiere el párrafo que antecede, procederá tanto en el caso de que la autoridad no rinda el informe, como para el supuesto de que lo rinda pero no envié la documentación solicitada. De no recibir respuesta, o en el caso de que la respuesta sea incompleta, el visitador general, el director o delegado podrá disponer que algún funcionario de la
+
+Comisión Estatal acuda a la oficina de la autoridad para hacer la investigación respectiva.
+
+Si del resultado de la investigación se acredita la violación a derechos humanos, la consecuencia inmediata será una recomendación, en la que se precise la falta de rendición del informe a cargo de la autoridad. En estos casos no habrá posibilidad de conciliación ni operará la prueba en contrario. El envío de la recomendación no impedirá que la Comisión Estatal pueda solicitar la aplicación de las responsabilidades administrativas o penales en contra del funcionario respectivo.
+
+Si al concluir la investigación no se acredita violación de derechos humanos alguna, se hará del conocimiento del quejoso y, en su caso, se le orientará o gestionará. En esta específica situación, se elaborará el acuerdo de archivo, y no habrá lugar a elaborar documento de no responsabilidad a la autoridad.
 
 ###### Artículo 144.
 
@@ -1401,31 +1593,39 @@ Para el efecto de documentar debidamente las evidencias de un expediente de quej
 
 Así mismo, los expedientes de queja podrán fundamentarse en los tratados internacionales que en materia de Derechos Humanos se hayan celebrado y qué estén ratificados por el Congreso de la Unión.
 
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
+
 ###### Artículo 147.
 
-El titular de la visitaduría, dirección o delegación tendrá la facultad de solicitar en cualquier momento a las autoridades competentes, que se tomen todas las medidas precautorias o cautelares necesarias para evitar la consumación irreparable de las violaciones denunciadas o reclamadas, o la producción de daños de difícil reparación a los afectados, así como solicitar su modificación cuando cambien las situaciones que las justificaron.
+El titular de la visitaduría, dirección o delegación tendrá la facultad de solicitar en cualquier momento a las autoridades competentes, que se tomen todas las medidas cautelares necesarias para evitar la consumación irreparable de las violaciones denunciadas o reclamadas, o la producción de daños de difícil reparación a los afectados, así como solicitar su modificación cuando cambien las situaciones que las justificaron.
 
 Dichas medidas pueden ser de conservación o restitutorias, según lo requiera la naturaleza del asunto.
 
-Se entienden por medidas precautorias o cautelares, todas aquellas acciones o abstenciones previstas como tales en el orden jurídico y que se soliciten a las autoridades competentes para que, sin sujeción a mayores formalidades, se conserve o restituya a una persona en el goce de sus Derechos Humanos.
+Se entienden por medidas cautelares, todas aquellas acciones o abstenciones previstas como tales en el orden jurídico y que se soliciten a las autoridades competentes para que, sin sujeción a mayores formalidades, se conserve o restituya a una persona en el goce de sus derechos humanos.
+
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
 
 ###### Artículo 148.
 
-El titular de la visitaduría, dirección o delegación podrán requerir a las autoridades para que adopten medidas precautorias o cautelares ante la noticia de la violación reclamada cuando ésta se considere grave y sin necesidad de que estén comprobados los hechos u omisiones aducidos, constituyendo razón suficiente en el que, de ser ciertos los mismos, resulte difícil o imposible la reparación del daño causado o la restitución al agraviado en el goce de sus Derechos Humanos.
+El titular de la visitaduría, dirección o delegación podrán requerir a las autoridades para que adopten medidas cautelares ante la noticia de la violación reclamada cuando ésta se considere grave y sin necesidad de que estén comprobados los hechos u omisiones aducidos, constituyendo razón suficiente en el que, de ser ciertos los mismos, resulte difícil o imposible la reparación del daño causado o la restitución al agraviado en el goce de sus derechos humanos.
 
-Las medidas precautorias o cautelares solicitadas, se notificarán a los titulares de las áreas o a quienes los sustituyan en sus funciones, utilizando para tal efecto cualquier medio de comunicación escrito o electrónico. Las autoridades o servidores públicos a quienes se haya solicitado una medida precautoria o cautelar contarán con un plazo máximo de tres días naturales para notificar a la Comisión Estatal, si dicha medida ha sido aceptada. En caso de que la solicitud se realice vía telefónica, se deberá elaborar acta circunstanciada, que se integrará al expediente.
+Las medidas cautelares solicitadas, se notificarán a los titulares de las áreas o a quienes los sustituyan en sus funciones, utilizando para tal efecto cualquier medio de comunicación escrito o electrónico. Las autoridades o servidores públicos a quienes se haya solicitado una medida cautelar contarán con un plazo máximo de tres días naturales para notificar a la Comisión Estatal, si dicha medida ha sido aceptada. En caso de que la solicitud se realice vía telefónica, se deberá elaborar acta circunstanciada, que se integrará al expediente.
+
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
 
 ###### Artículo 149.
 
-Cuando siendo ciertos los hechos, la autoridad a la que se notifique el requerimiento de la Comisión Estatal para que decrete una medida cautelar o precautoria negare los mismos o no adoptare la medida requerida, esta circunstancia se hará notar en la recomendación que se emita, una vez realizadas las investigaciones, a efecto de que se hagan efectivas las responsabilidades del caso. Cuando los hechos violatorios no resulten ciertos, las medidas solicitadas quedarán sin efecto.
+Cuando siendo ciertos los hechos, la autoridad a la que se notifique el requerimiento de la Comisión Estatal para que decrete una medida cautelar negare los mismos o no adoptare la medida requerida, esta circunstancia se hará notar en la recomendación que se emita, una vez realizadas las investigaciones, a efecto de que se hagan efectivas las responsabilidades del caso. Cuando los hechos violatorios no resulten ciertos, las medidas solicitadas quedarán sin efecto.
+
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
 
 ###### Artículo 150.
 
-Las medidas precautorias o cautelares se solicitarán, cuando la naturaleza del caso lo amerite, por un plazo cierto que no podrá ser superior a treinta días, el cual podrá ser prorrogado por el tiempo que resulte necesario; en este caso se notificará tres días antes de que culmine el plazo anterior a la autoridad a la que se hubieren solicitado las medidas precautorias o cautelares sobre la solicitud de prórroga y los motivos de la misma.
+Las medidas cautelares se solicitarán, cuando la naturaleza del caso lo amerite, por un plazo cierto que no podrá ser superior a treinta días, el cual podrá ser prorrogado por el tiempo que resulte necesario; en este caso se notificará tres días antes de que culmine el plazo anterior a la autoridad a la que se hubieren solicitado las medidas cautelares sobre la solicitud de prórroga y los motivos de la misma.
 
-La autoridad a la que se le solicite una prórroga de las medidas cautelares o precautorias deberá formular su respuesta dentro de los tres días siguientes; en caso contrario, se entenderá su respuesta en sentido negativo.
+La autoridad a la que se le solicite una prórroga de las medidas cautelares deberá formular su respuesta dentro de los tres días siguientes; en caso contrario, se entenderá su respuesta en sentido negativo.
 
-Durante el lapso en que se estén ejecutando las medidas precautorias, la Comisión Estatal deberá integrar el expediente de queja y, de ser posible, concluir su estudio y realizar el pronunciamiento de fondo que corresponda.
+Durante el lapso en que se estén ejecutando las medidas cautelares, la Comisión Estatal deberá integrar el expediente de queja y, de ser posible, concluir su estudio y realizar el pronunciamiento de fondo que corresponda.
 
 ### Capítulo V. De la conciliación
 
@@ -1439,21 +1639,25 @@ En el supuesto señalado en el artículo anterior, el titular del área que corr
 
 Cuando se solicite el inicio de procedimiento administrativo a través de un documento de conciliación, deberá turnarse copia al órgano interno de control del organismo, dependencia o entidad de que se trate, además de un oficio mediante el cual se requiera a dicho órgano interno de control, informe a esta Comisión Estatal de las gestiones y resultados que se obtengan en torno a ese procedimiento.
 
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
+
 ###### Artículo 153.
 
-La autoridad o servidor público a quien se envía una propuesta de conciliación, dispondrá de un plazo de hasta quince días naturales para responder a la propuesta por escrito, y también enviar las pruebas correspondientes a su cumplimiento en caso de aceptación; la omisión a lo anterior, surtirá efectos de no aceptación.
+La autoridad o servidor público a quien se envía una propuesta de conciliación, dispondrá de un plazo de hasta siete días naturales para responder a la propuesta por escrito, y también enviar las pruebas correspondientes a su cumplimiento en caso de aceptación; la omisión a lo anterior, surtirá efectos de no aceptación.
 
 Si durante los treinta días siguientes a la aceptación de la propuesta de conciliación, la autoridad no la hubiere cumplido totalmente, el quejoso lo podrá hacer saber a la Comisión Estatal para que, en su caso, se resuelva sobre la reapertura del expediente, determinándose las acciones que correspondan y, en su caso, se emita la recomendación correspondiente.
 
-En caso de incumplimiento injustificado de una conciliación, el director de seguimiento y conclusión podrá acordar la reapertura del expediente de queja, lo cual hará del conocimiento del quejoso y de la autoridad identificada como responsable en la conciliación; y remitirá el expediente al área que haya resuelto la conciliación.
+En caso de incumplimiento injustificado de una conciliación, transcurrido el plazo señalado en el párrafo anterior, el director de seguimiento y conclusión deberá acordar la reapertura del expediente de queja, lo cual hará del conocimiento del quejoso y de la autoridad identificada como responsable en la conciliación; y remitirá el expediente al área que haya resuelto la conciliación.
 
 ###### Artículo 154.
 
 El visitador a quien corresponda el conocimiento de un expediente de queja susceptible de ser solucionada por la vía conciliatoria, inmediatamente dará aviso al quejoso o agraviado de esta circunstancia, aclarándole en qué consiste el procedimiento, su contenido y sus ventajas, remitiendo el caso al área que corresponda para el seguimiento de la misma. Así mismo, el titular del área mantendrá informado al quejoso del avance del trámite conciliatorio hasta su total conclusión.
 
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
+
 ###### Artículo 155.
 
-Cuando la autoridad o servidor público al cual se le dirigió la conciliación, no realice manifestación, no acepte o incumpla con la propuesta de conciliación formulada por la Comisión Estatal, la consecuencia inmediata será la iniciación de la elaboración del proyecto de recomendación que corresponda. Para lo cual el visitador que haya elaborado el proyecto de conciliación, podrá ser asignado para la elaboración del proyecto de recomendación.
+Cuando la autoridad o servidor público al cual se le dirigió la conciliación, no realice manifestación, no acepte o incumpla con la propuesta de conciliación formulada por la Comisión Estatal, en los plazos establecidos por el artículo 153, la consecuencia inmediata será la iniciación de la elaboración del proyecto de recomendación que corresponda. Para lo cual el visitador que haya elaborado el proyecto de conciliación, podrá ser asignado para la elaboración del proyecto de recomendación.
 
 ###### Artículo 156.
 
@@ -1461,13 +1665,15 @@ Durante el trámite conciliatorio, la autoridad o servidor público correspondie
 
 ### Capítulo VI. De las causas de conclusión de los expedientes
 
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
+
 ###### Artículo 157.
 
 Los expedientes que hubieran sido abiertos podrán ser concluidos por las siguientes causas:
 
 I. Por no competencia de la Comisión Estatal para conocer de la queja planteada;
 
-II. Cuando por no tratarse de violaciones a Derechos Humanos, se oriente jurídicamente al quejoso o se le gestione un servicio;
+II. Cuando por no tratarse de violaciones a derechos humanos, se oriente jurídicamente al quejoso o se le gestione un servicio;
 
 III. Por haberse dictado la recomendación correspondiente, quedando abierto el caso exclusivamente para los efectos del seguimiento de la misma;
 
@@ -1475,7 +1681,7 @@ IV. Por haberse establecido una conciliación, quedando abierto el caso exclusiv
 
 V. Por haberse enviado a la autoridad o servidor público señalado como responsable, un documento de no responsabilidad;
 
-VI. Por desistimiento del quejoso, previo acuerdo de la presidencia de este Organismo;
+VI. Por desistimiento expreso del quejoso;
 
 VII. Por falta de interés del quejoso en la continuación del procedimiento;
 
@@ -1483,13 +1689,13 @@ VIII. Por acuerdo de acumulación de expedientes;
 
 IX. Por haberse solucionado la queja mediante los procedimientos de conciliación o durante el trámite respectivo;
 
-X. Por fallecimiento del quejoso;
+X. Por fallecimiento del quejoso, siempre y cuando la muerte no sea consecuencia o derivada de la violación a los derechos humanos;
 
-XI. Cuando el servidor público estatal o municipal señalado como responsable haya causado baja;
+XI. Cuando el servidor público estatal o municipal señalado como responsable haya causado baja, siempre que se considere que no exista forma de exigir a la autoridad la reparación integral por la violación de los derechos humanos;
 
 XII. Por no existir materia para seguir conociendo del expediente de queja, y
 
-XIII. Por no haberse acreditado de manera fehaciente, violación de Derechos Humanos.
+XIII. Por no haberse acreditado de manera fehaciente, violación de derechos humanos.
 
 ###### Artículo 158.
 
@@ -1567,19 +1773,25 @@ VI. Recomendaciones específicas, que son las acciones que se solicitan a la aut
 
 Cuando del contenido de la recomendación se desprenda la solicitud de inicio de procedimientos administrativos, se remitirá copia a los órganos internos de control correspondientes y se les solicitará, en colaboración, la determinación e informe respecto del procedimiento respectivo.
 
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
+
 ###### Artículo 168.
 
-Una vez que la recomendación haya sido suscrita por el presidente, ésta se notificará de inmediato a la autoridad o servidor público a la que vaya dirigida, a fin de que ésta adopte las medidas necesarias para el cumplimiento de la recomendación. La misma se dará a conocer a la opinión pública. Cuando las acciones solicitadas en la recomendación no requieran de discreción para su cabal cumplimiento, éstas se podrán dar a conocer de inmediato a los medios de comunicación.
+Una vez que la recomendación haya sido suscrita por el presidente, ésta se notificará de inmediato a la autoridad o servidor público a la que vaya dirigida, a fin de que ésta adopte las medidas necesarias para el cumplimiento de la recomendación. Cuando las acciones solicitadas en la recomendación no requieran de discreción para su cabal cumplimiento, éstas se podrán dar a conocer de inmediato a los medios de comunicación.
+
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
 
 ###### Artículo 169.
 
-Las recomendaciones serán dadas a conocer a la opinión pública mediante su publicación en el instrumento oficial de difusión, un boletín de prensa y en la página en internet de la Comisión Estatal, así como mediante las acciones que el área de comunicación acuerde con el presidente de la Comisión Estatal.
+Las recomendaciones serán dadas a conocer a la sociedad mediante una versión pública en el instrumento oficial de difusión, un boletín de prensa y en la página en internet de la Comisión Estatal, así como mediante las acciones que el área de comunicación acuerde con el presidente de la Comisión Estatal.
 
-Los boletines de prensa, preferentemente, no deberán incluir nombres de agraviados ni de los servidores públicos involucrados en la violación a Derechos Humanos, a fin de respetar el honor y buen nombre de las personas.
+Los boletines de prensa, no deberán incluir nombres de los agraviados ni de los servidores públicos involucrados en la violación a derechos humanos, a fin de respetar el derecho a la protección de datos personales.
+
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
 
 ###### Artículo 170.
 
-Las recomendaciones se publicarán ya sea de manera íntegra o una síntesis de la misma, en el instrumento oficial de difusión de la Comisión Estatal. Cuando la naturaleza del caso lo requiera, sólo el presidente del Organismo podrá disponer que ésta no sea publicada.
+Cuando la naturaleza del caso lo requiera, sólo el presidente del Organismo podrá disponer que la recomendación no se difunda.
 
 ###### Artículo 171.
 
@@ -1643,35 +1855,45 @@ Las recomendaciones generales contendrán en su texto los siguientes elementos:
 
 Las recomendaciones generales no requieren aceptación por parte de las autoridades a quienes vayan dirigidas. Se publicarán en el instrumento oficial de difusión de la Comisión Estatal y en la Gaceta Oficial del estado. El registro de las recomendaciones generales se realizará de forma separada, y la verificación del cumplimiento se hará mediante la realización de estudios generales.
 
-### Capítulo IX. De los documentos de no responsabilidad
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 3 DE JULIO DE 2017)</small>
+
+### Capítulo IX. De los Acuerdos de Archivo
+
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
 
 ###### Artículo 177.
 
-Concluida la investigación y en caso de existir los elementos de convicción necesarios para demostrar la no existencia de violaciones a Derechos Humanos, o de no haberse acreditado éstos de manera fehaciente, el visitador lo hará del conocimiento de su superior inmediato a fin de que, de resultar procedente, se inicie la elaboración del documento de no responsabilidad correspondiente o el documento de conclusión correspondiente.
+Concluida la investigación y en caso de existir los elementos de convicción necesarios para demostrar la no existencia de violaciones a derechos humanos, o de no haberse acreditado éstos de manera fehaciente, el visitador lo hará del conocimiento de su superior inmediato a fin de que, de resultar procedente, se inicie la elaboración del acuerdo de archivo correspondiente.
+
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
 
 ###### Artículo 178.
 
-La formulación del proyecto del documento de no responsabilidad y su consecuente aprobación, se realizará de acuerdo con los lineamientos que para los efectos de las recomendaciones establecen los artículos 164 y 166 del presente Reglamento.
+El acuerdo de archivo deberá estar fundado y motivado, de conformidad con las causales de conclusión previstas por este Reglamento.
+
+> <small>(REFORMAD, G.O. 3 DE JULIO DE 2017)</small>
 
 ###### Artículo 179.
 
-Los textos de los documentos de no responsabilidad contendrán los siguientes elementos:
+Los textos de los acuerdos de archivo contendrán los siguientes elementos:
 
-I. Los antecedentes de los hechos que fueron alegados como violatorios de Derechos Humanos;
+I. Los hechos que fueron alegados como violatorios de derechos humanos;
 
-II. La enumeración de las evidencias que demuestran la no violación de Derechos Humanos o la inexistencia de aquellas en las que se soporta la violación;
+II. El análisis de las causas de no violación a derechos humanos; y
 
-III. El análisis de las causas de no violación a Derechos Humanos; y
+III. Conclusiones.
 
-IV. Conclusiones.
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
 
 ###### Artículo 180.
 
-Los documentos de no responsabilidad serán de inmediato notificados a los quejosos y a las autoridades o servidores públicos a los que vayan dirigidos. Estos documentos se podrán hacer del conocimiento de los medios de comunicación o publicados en el instrumento oficial de difusión de la Comisión Estatal, con las modalidades que establezca la presidencia del Organismo.
+Los acuerdos de archivo serán de inmediato notificados a los quejosos y a las autoridades o servidores públicos a los que vayan dirigidos. Estos documentos se podrán hacer del conocimiento de los medios de comunicación o publicados en el instrumento oficial de difusión de la Comisión Estatal, con las modalidades que establezca la presidencia del Organismo.
+
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
 
 ###### Artículo 181.
 
-Los documentos de no responsabilidad que expide la Comisión Estatal se refieren a casos concretos cuyo origen es una situación específica. En consecuencia, dichos documentos no son de aplicación general y no eximen de responsabilidad a la autoridad respecto a otros casos de la misma índole.
+Los acuerdos de archivo que expide la Comisión Estatal se refieren a casos concretos cuyo origen es una situación específica. En consecuencia, dichos documentos no son de aplicación general y no eximen de responsabilidad a la autoridad respecto a otros casos de la misma índole.
 
 ### Capítulo X. De los recursos
 
@@ -1713,13 +1935,13 @@ Sólo quienes hayan sido quejosos en un expediente integrado por la Comisión Es
 
 El presidente de la Comisión Estatal deberá enviar un informe anual o especial de actividades al H. Congreso del Estado o la diputación permanente, que también será difundido ampliamente para conocimiento de la sociedad.
 
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2017)</small>
+
 ###### Artículo 190.
 
-Los informes anuales del presidente de la Comisión Estatal deberán comprender una descripción del número y características de las quejas y denuncias que se hayan presentado, los efectos de la labor de conciliación; las investigaciones realizadas, las recomendaciones y los documentos de no responsabilidad que se hubiesen formulado; los resultados obtenidos así como las estadísticas, los programas desarrollados y demás datos que se consideren convenientes.
+Los informes anuales del presidente de la Comisión Estatal deberán comprender una descripción del número y características de las quejas y denuncias que se hayan presentado, los efectos de la labor de conciliación; las investigaciones realizadas, las recomendaciones, gestiones y orientaciones que se hubieren formulado; los resultados obtenidos así como las estadísticas, los programas desarrollados y demás datos que se consideren convenientes.
 
-El informe podrá contener proposiciones dirigidas a las autoridades y servidores públicos competentes, tanto estatales como municipales, para promover la expedición o modificación de disposiciones legislativas y reglamentarias, así como para perfeccionar las prácticas administrativas correspondientes con el objeto de tutelar de manera efectiva los Derechos Humanos de los gobernados y lograr una mayor eficiencia en la prestación de los servicios públicos.
-
-En él se podrán omitir los datos personales de los quejosos, para evitar su identificación.
+El informe podrá contener propuestas dirigidas a las autoridades y servidores públicos competentes, tanto estatales como municipales, para promover la expedición o modificación de disposiciones legislativas y reglamentarias, así como para perfeccionar las prácticas administrativas correspondientes con el objeto de tutelar de manera efectiva los Derechos Humanos de los gobernados y lograr una mayor eficiencia en la prestación de los servicios públicos.
 
 ###### Artículo 191.
 
@@ -1875,8 +2097,14 @@ Lic. Julio César Sosa Miros
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 G.O. 30 DE SEPTIEMBRE DE 2011.
 
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE VERACRUZ.
+
+G.O. 3 DE JULIO DE 2017.
+
+> <small>[N. DE E. SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO]</small>
+
+Segundo. Se ordena se publiquen las reformas y adiciones en la Gaceta Oficial del Estado, que entrarán en vigor al día siguiente de su publicación.
