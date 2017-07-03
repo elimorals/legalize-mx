@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-profesiones-del-estado-de-aguascalientes-16091"
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-25"
-last_updated: "2000-03-06"
+last_updated: "2017-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16091&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROFESIONES DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MARZO DE 2000.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el 25 de julio de 1999.
 
@@ -631,9 +631,11 @@ IX.- No exhibir el título en lugar visible en su domicilio profesional; y
 
 X.- No dar el aviso a que se refiere el Artículo 27 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2017)</small>
+
 ###### ARTICULO 48.
 
-A quien que (sic) cometa cualquiera de las infracciones previstas en el Artículo anterior se le impondrá multa de cincuenta a quinientas veces el salario mínimo general vigente en el Estado, multa que se duplicará en caso de reincidencia.
+A quien cometa cualquiera de las infracciones previstas en el Artículo anterior se le impondrá multa de cincuenta a quinientas veces el valor diario de la unidad de medida y actualización, multa que se duplicará en caso de reincidencia.
 
 Estas sanciones se aplicarán sin perjuicio de las previstas en la legislación penal.
 
@@ -715,7 +717,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 6 DE MARZO DE 2000.
 
@@ -736,3 +738,11 @@ El registro de Títulos y grados académicos para la expedición de cédulas o p
 ###### ARTICULO CUARTO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
