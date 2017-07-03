@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-comision-de-derechos-humanos-del-estado-de-94548"
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-10"
-last_updated: "2015-06-08"
+last_updated: "2017-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de junio de 2013.
 
@@ -142,6 +142,10 @@ VI. Solicitar al Congreso del Estado llame a comparecer a la Autoridad Responsab
 > <small>(REFORMADA, P.O. 8 DE JUNIO DE 2015)</small>
 
 VII. Supervisar que las condiciones de las personas privadas de su libertad que se encuentren en los separos de la Policía Ministerial, Seguridad Pública, Centros de Internamiento o Centros de Reinserción Social, estén apegadas a la ley y se garantice el pleno respeto de sus Derechos Humanos, pudiendo solicitar el reconocimiento médico de los detenidos cuando se aleguen malos tratos o torturas. El personal de la Comisión deberá tener acceso a los quejosos privados de su libertad;
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+Una vez que el personal se identifique como perteneciente a la Comisión, los servidores públicos de las instalaciones a que se hace referencia en esta Fracción deberán dar acceso inmediato a las instalaciones. Queda prohibida la práctica de solicitar que la petición de acceso se haga con anticipación a la presencia del personal de la Comisión en la instalación correspondiente.
 
 VIII. Formular opiniones de carácter general dirigidas a servidores públicos, relativos a procedimientos administrativos vigentes, que contribuyan al conocimiento y difusión de la cultura del respeto a los Derechos Humanos, en términos de lo que disponga el Reglamento Interior;
 
@@ -443,7 +447,7 @@ El Presidente también lo será del Consejo y tendrá voto de calidad.
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
 
-Los consejeros deberán contar, al menos, con título profesional de licenciatura o equivalente, tener conocimiento en diversas materias técnicas, científicas y humanistas, y cumplir con los requisitos establecidos en el Articulo 16 de esta Ley, a excepción del previsto en su Fracción II; su elección se realizará mediante el mismo procedimiento previsto en el Artículo 17 de esta Ley con la salvedad de que el Pleno los elegirá con el voto de la mayoría de los Diputados que integran el Congreso del Estado.
+Los consejeros deberán contar, al menos, con título profesional de licenciatura o equivalente, tener conocimiento en diversas materias técnicas, científicas y humanistas, y cumplir con los requisitos establecidos en el Artículo 16 de esta Ley, a excepción del previsto en su Fracción II; su elección se realizará mediante el mismo procedimiento previsto en el Artículo 17 de esta Ley con la salvedad de que el Pleno los elegirá con el voto de la mayoría de los Diputados que integran el Congreso del Estado.
 
 Durarán en el cargo cuatro años sin posibilidad de reelección en el período inmediato.
 
@@ -809,6 +813,10 @@ La Autoridad Responsable, en un término no mayor a tres días hábiles contados
 
 La falta de informe o su entrega fuera del plazo otorgado, tendrá por consecuencia la presunción de que son ciertos los hechos imputados a la Autoridad Responsable y el Presidente podrá imponer una multa de cincuenta a quinientos días de salario mínimo general vigente en el Estado al funcionario requerido.
 
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+El Presidente remitirá la determinación que contenga la multa a la Secretaría de Finanzas del Gobierno del Estado para que la haga efectiva, debiendo informar sobre su ejecución en un plazo de treinta días naturales.
+
 ###### ARTÍCULO 60.
 
 Las partes podrán comparecer ante la Comisión a fin de presentar las pruebas y alegatos que considere pertinentes.
@@ -1118,3 +1126,11 @@ La Comisión deberá ajustar sus disposiciones reglamentarias en un plazo no may
 ###### ARTÍCULO TERCERO.
 
 En tanto no inicie su vigencia la autonomía de la Fiscalía General del Estado, la referencia al Fiscal General del Estado contenida en el presente Decreto, se entenderán (sic) hecha al Procurador General de Justicia del Estado.
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 107.- SE ADICIONA LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES."]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
