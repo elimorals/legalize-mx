@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-y-fomento-del-patrimonio-cultural-del-21708"
 country: "mx"
 rank: "ley"
 publication_date: "2001-07-02"
-last_updated: "2014-09-29"
+last_updated: "2017-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21708&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el 2 de julio de 2001.
 
@@ -967,9 +967,13 @@ XI. No inscriba ante el Registro Público un bien declarado como patrimonio cult
 
 A quien incurra en las infracciones a que se refiere el artículo anterior se les sancionará con:
 
-I. Multa equivalente de 5 a 10,000 días de salario mínimo general diario vigente en el Estado a quienes incurran en los supuestos mencionados en las Fracciones III, IV, IX y XI; y
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-II. Multa equivalente de 16,000 a 25,000 días de salario mínimo general diario vigente en el Estado a quienes incurran en los supuestos mencionados en las Fracciones I, II, V, VI, VII, VIII y X.
+I. Multa equivalente de 5 a 10,000 veces el valor diario de la unidad de medida y actualización, a quienes incurran en los supuestos mencionados en las Fracciones III, IV, IX y XI; o
+
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+
+II. Multa equivalente de 16,000 a 25,000 veces el valor diario de la unidad de medida y actualización, a quienes incurran en los supuestos mencionados en las Fracciones I, II, V, VI, VII, VIII y X.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
 
@@ -1066,3 +1070,11 @@ P.O. 29 DE SEPTIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES."]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
