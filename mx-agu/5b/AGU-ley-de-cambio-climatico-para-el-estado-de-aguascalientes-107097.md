@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-cambio-climatico-para-el-estado-de-aguascalientes-107097
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-06"
-last_updated: "2015-04-06"
+last_updated: "2017-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107097&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 6 de abril de 2015.
 
@@ -639,17 +639,21 @@ Las personas físicas o morales responsables de las fuentes emisoras que sean re
 
 ### CAPÍTULO XII. Sanciones
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+
 ###### Artículo 45.
 
 Cuando de las visitas de inspección realizadas a las personas físicas o morales responsables de las fuentes emisoras, sujetas a reporte se determine que existe riesgo inminente derivado de contravenir las disposiciones de la presente Ley o cuando los actos u omisiones pudieran dar lugar a la imposición de sanciones, la Procuraduría podrá ordenar las medidas de seguridad previstas en la Ley de Protección Ambiental para el Estado de Aguascalientes.
 
 ###### Artículo 46.
 
-En caso de que las personas físicas o morales responsables de las fuentes emisoras sujetas a reporte no entreguen la información, datos o documentos requeridos por la Secretaría en el plazo señalado, la Procuraduría podrá imponer una multa de quinientos a tres mil días de salario mínimo general vigente en el Estado, sin menoscabo del cumplimiento inmediato de dicha obligación.
+En caso de que las personas físicas o morales responsables de las fuentes emisoras sujetas a reporte no entreguen la información, datos o documentos requeridos por la Secretaría en el plazo señalado, la Procuraduría podrá imponer una multa de quinientos a tres mil veces el valor diario de la unidad de medida y actualización, sin menoscabo del cumplimiento inmediato de dicha obligación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2017)</small>
 
 ###### Artículo 47.
 
-En caso de encontrarse falsedad en la información proporcionada, así como incumplir con los plazos y términos para su entrega, la Procuraduría aplicará una multa de tres mil y hasta diez mil días de salario mínimo general vigente en el Estado. La multa será independiente de cualquier otra responsabilidad de los órdenes civil y penal que pudieran derivarse.
+En caso de encontrarse falsedad en la información proporcionada, así como incumplir con los plazos y términos para su entrega, la Procuraduría aplicará una multa de tres mil y hasta diez mil veces el valor diario de la unidad de medida y actualización. La multa será independiente de cualquier otra responsabilidad de los órdenes civil y penal que pudieran derivarse.
 
 La Procuraduría tendrá la obligación de hacer del conocimiento de las autoridades competentes dichos actos.
 
@@ -712,3 +716,13 @@ Dip. Oswaldo Rodríguez García,
 SEGUNDO SECRETARIO.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 31 de marzo de 2015.- Carlos Lozano de la Torre.- Rúbrica.- El Jefe de Gabinete, Antonio Javier Aguilera García.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES."]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
