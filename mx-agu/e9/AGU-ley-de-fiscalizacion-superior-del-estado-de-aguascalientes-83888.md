@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-fiscalizacion-superior-del-estado-de-aguascalientes-8388
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-21"
-last_updated: "2015-07-27"
+last_updated: "2017-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83888&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de noviembre de 2011.
 
@@ -185,7 +185,9 @@ Las obligaciones establecidas en esta Ley se actualizan conforme se realizan las
 
 Los servidores públicos y las personas físicas o morales, públicas o privadas, que capten, reciban, recauden, administren, manejen, ejerzan y custodien recursos públicos municipales, estatales y en su caso, federales, deberán atender los requerimientos que les formule el Órgano Superior de Fiscalización durante la planeación, desarrollo de las auditorías y el seguimiento de las acciones que emita dentro de los plazos establecidos en esta Ley, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades.
 
-Cuando los servidores públicos o los particulares no atiendan los requerimientos a que se refiere este Artículo, salvo que exista disposición legal o mandato judicial que se los impida, el Auditor Superior podrá imponerles una multa de cien a seiscientas veces el monto del salario mínimo general vigente en el Estado.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+
+Cuando los servidores públicos o los particulares no atiendan los requerimientos a que se refiere este Artículo, salvo que exista disposición legal o mandato judicial que se los impida, el Auditor Superior podrá imponerles una multa de cien a seiscientas veces el valor diario de la unidad de medida y actualización.
 
 La reincidencia se sancionará con una multa hasta del doble de la ya impuesta, sin perjuicio de que se deba atender el requerimiento respectivo.
 
@@ -379,7 +381,7 @@ A) Si las cantidades correspondientes a los ingresos o a los egresos, se ajustar
 
 B) Si los programas y su ejecución se ajustan a los términos y montos aprobados en el presupuesto y en las disposiciones aplicables;
 
-C) Si los recursos provenientes de financiamiento se obtuvieron en los términos autorizados y se aplicaron con la periodicidad y forma (sic) establecidas por las leyes y demás disposiciones aplicables, si se cumplieron los compromisos adquiridos en los actos respectivos; y
+C) Si los recursos provenientes de financiamiento se obtuvieron en los términos autorizados y se aplicaron con la periodicidad y forma establecidas por las leyes y demás disposiciones aplicables, si se cumplieron los compromisos adquiridos en los actos respectivos; y
 
 D) Si las desviaciones presupuestales, en caso de existir, tienen justificación en cambios de la economía local y nacional.
 
@@ -679,7 +681,9 @@ II. En los demás casos, cinco días hábiles contados a partir del día siguien
 
 El plazo a que se refiere la Fracción anterior, podrá ampliarse por el Órgano Superior de Fiscalización por cinco días hábiles más, cuando se trate de información cuyo contenido sea difícil de proporcionar o de difícil obtención.
 
-El incumplimiento a las obligaciones previstas en esta disposición se sancionará con una multa de cien a seiscientas veces el monto del salario mínimo general vigente en el Estado. En caso de reincidencia la multa será hasta por el doble de la impuesta en la primera ocasión.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+
+El incumplimiento a las obligaciones previstas en esta disposición se sancionará con una multa de cien a seiscientas veces el valor diario de la unidad de medida y actualización. En caso de reincidencia la multa será hasta por el doble de la impuesta en la primera ocasión.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MARZO DE 2015)</small>
 
@@ -691,7 +695,9 @@ El incumplimiento a las obligaciones previstas en esta disposición se sancionar
 
 El Órgano Superior de Fiscalización enviará a las Entidades Fiscalizadas y a sus ex funcionarios cuando el proceso de fiscalización corresponda al período de su gestión, y de ser procedente a otras autoridades competentes, a más tardar el treinta y uno de julio el Informe de Observaciones Preliminares, las recomendaciones y acciones promovidas que correspondan en términos del Artículo 22 de esta Ley.
 
-Las Entidades Fiscalizadas deberán presentar la información y las consideraciones que estimen pertinentes al Órgano Superior de Fiscalización para su solventación o atención dentro de un plazo de veinte días hábiles, contados a partir de la fecha en que reciban las observaciones, recomendaciones y acciones promovidas. En caso de no hacerlo, el Órgano Superior de Fiscalización podrá aplicar a los titulares de las áreas administrativas auditadas una multa de cien a seiscientas veces el monto del salario mínimo diario general vigente en el Estado, además de promover las acciones legales que correspondan. Lo anterior, no aplicará a los pliegos de observaciones y a las promociones de responsabilidad administrativa sancionatoria, las cuales se sujetarán a los procedimientos y términos que establezca la presente Ley.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+
+Las Entidades Fiscalizadas deberán presentar la información y las consideraciones que estimen pertinentes al Órgano Superior de Fiscalización para su solventación o atención dentro de un plazo de veinte días hábiles, contados a partir de la fecha en que reciban las observaciones, recomendaciones y acciones promovidas. En caso de no hacerlo, el Órgano Superior de Fiscalización podrá aplicar a los titulares de las áreas administrativas auditadas una multa de cien a seiscientas veces el valor diario de la unidad de medida y actualización, además de promover las acciones legales que correspondan. Lo anterior, no aplicará a los pliegos de observaciones y a las promociones de responsabilidad administrativa sancionatoria, las cuales se sujetarán a los procedimientos y términos que establezca la presente Ley.
 
 Los ex funcionarios de las Entidades Fiscalizadas, tendrán el derecho de contestar las observaciones que formule el Órgano Superior de Fiscalización con motivo de los procesos de fiscalización que correspondan al periodo de su gestión, dentro del plazo señalado en el párrafo inmediato anterior. Para el efecto de contestar las observaciones tendrán derecho a solicitar por escrito la información que consideren pertinente a las Entidades Fiscalizadas, quienes estarán obligadas a entregar al órgano de Fiscalización Superior la información con que se cuente en sus archivos, dentro de un plazo improrrogable de diez días hábiles contados a partir del día siguiente al de la fecha de la presentación de la solicitud correspondiente. También tendrán derecho a solicitar las copias certificadas que requieran.
 
@@ -815,7 +821,9 @@ Los resultados del informe de situación excepcional y, en su caso, de las sanci
 
 Para los efectos de esta Ley, se entenderá por situaciones excepcionales aquéllas en las cuales, de la denuncia que al efecto se presente, se acredite alguna de las circunstancias siguientes:
 
-I. Un daño patrimonial provocado por las conductas previstas en el Artículo 61 de esta Ley, que afecte a las haciendas públicas estatal o municipal o al patrimonio de los Entes Públicos Estatales y Municipales, por un monto que resulte superior a seis mil veces el monto del salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+
+I. Un daño patrimonial provocado por las conductas previstas en el Artículo 61 de esta Ley, que afecte a las haciendas públicas estatal o municipal o al patrimonio de los Entes Públicos Estatales y Municipales, por un monto que resulte superior a seis mil veces el valor diario de la unidad de medida y actualización;
 
 II. La presunta comisión de actos que actualicen tipos penales protectores de la Administración Pública en los términos de la legislación penal vigente y aplicable;
 
@@ -849,9 +857,11 @@ VII. Fecha de presentación.
 
 Las Entidades Fiscalizadas estarán obligadas a realizar una revisión para elaborar el informe de situación excepcional que el Órgano Superior de Fiscalización les requiera, sin que dicha revisión interfiera u obstaculice el ejercicio de las funciones o atribuciones que conforme a la ley sean competencia de las autoridades y de los servidores públicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 55.
 
-Transcurrido el plazo señalado en el Artículo 51 de esta Ley, la entidad fiscalizada sin causa justificada, no presenta el informe de situación excepcional, el Órgano Superior de Fiscalización impondrá a los servidores públicos responsables una multa de cien a seiscientas veces el monto del salario mínimo general vigente en el Estado, previo acuerdo tomado con la Comisión, sin perjuicio de la promoción de otras responsabilidades ante las autoridades competentes ni del ejercicio de otras facultades que esta Ley le confiere.
+Transcurrido el plazo señalado en el Artículo 51 de esta Ley, la entidad fiscalizada sin causa justificada, no presenta el informe de situación excepcional, el Órgano Superior de Fiscalización impondrá a los servidores públicos responsables una multa de cien a seiscientas veces el valor diario de la unidad de medida y actualización, previo acuerdo tomado con la Comisión, sin perjuicio de la promoción de otras responsabilidades ante las autoridades competentes ni del ejercicio de otras facultades que esta Ley le confiere.
 
 La reincidencia se podrá sancionar con una multa hasta por el doble de la ya impuesta, además de que se podrá promover la destitución de los servidores públicos responsables ante las autoridades competentes.
 
@@ -951,7 +961,9 @@ Las sanciones que determine el Órgano Superior de Fiscalización, deberán ser 
 
 El Órgano Superior de Fiscalización con base en las disposiciones de esta Ley, formulará y notificará a las Entidades Fiscalizadas y a los ex funcionarios de las mismas cuando el proceso de revisión corresponda al período de su gestión, los pliegos de observaciones derivados de la revisión y Fiscalización Superior de las Cuentas Públicas, en los que se determinará en cantidad líquida, la presunta responsabilidad de los infractores, la cual deberá contabilizarse de inmediato.
 
-En los casos en que la irregularidad no exceda de cien veces el monto del salario mínimo diario general vigente en el Estado en la fecha en que se cometa la infracción, no se formulará el pliego de observaciones respectivo, sin perjuicio de las acciones que se promuevan ante las instancias de control competentes para el fincamiento de responsabilidades administrativas sancionatorias.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+
+En los casos en que la irregularidad no exceda de cien veces el valor diario de la unidad de medida y actualización, no se formulará el pliego de observaciones respectivo, sin perjuicio de las acciones que se promuevan ante las instancias de control competentes para el fincamiento de responsabilidades administrativas sancionatorias.
 
 > <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
 
@@ -1049,9 +1061,11 @@ La Secretaría de Finanzas y las tesorerías municipales, deberán informar seme
 
 El importe de las sanciones resarcitorias que se recuperen en los términos de esta Ley, deberá ser entregado, por la Secretaría de Finanzas a las respectivas áreas administrativas de los poderes del Estado y Entes Públicos Estatales que sufrieron el daño o perjuicio respectivo; lo propio se hará en el caso de los Municipios y los entes públicos municipales. Dicho importe quedará en las áreas administrativas o tesorerías en calidad de disponibilidades y sólo podrá ser ejercido de conformidad con lo establecido en el correspondiente presupuesto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 76.
 
-El Órgano Superior de Fiscalización podrá abstenerse de sancionar al infractor, por una sola vez, cuando lo estime pertinente, justificando las causas de la abstención, siempre que se trate de hechos que no revistan gravedad ni exista dolo, cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por éste no exceda de cien veces el monto del salario mínimo general mensual vigente en el Estado en la fecha en que se cometa la infracción. Los infractores no podrán recibir este beneficio dos veces y se harán acreedores a un apercibimiento por escrito.
+El Órgano Superior de Fiscalización podrá abstenerse de sancionar al infractor, por una sola vez, cuando lo estime pertinente, justificando las causas de la abstención, siempre que se trate de hechos que no revistan gravedad ni exista dolo, cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por éste no exceda de cien veces el valor diario de la unidad de medida y actualización. Los infractores no podrán recibir este beneficio dos veces y se harán acreedores a un apercibimiento por escrito.
 
 Cuando el presunto responsable cubra, antes de que se emita la resolución, a satisfacción del Órgano Superior de Fiscalización, el importe de los daños o perjuicios, o ambos, causados al Estado y a los Municipios en su Hacienda Pública, o en su caso, al patrimonio de los Entes Públicos Estatales o Municipales, con su actualización correspondiente, el Órgano Superior de Fiscalización sobreseerá el procedimiento resarcitorio.
 
@@ -1085,7 +1099,9 @@ I. Apercibimiento;
 
 II. Amonestación por escrito;
 
-III. Multas de cien a seiscientas veces el monto del salario mínimo diario general vigente en el Estado.
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+
+III. Multas de cien a seiscientas veces el valor diario de la unidad de medida y actualización.
 
 > <small>(ADICIONADO, P.O. 23 DE MARZO DE 2015)</small>
 
@@ -1137,7 +1153,7 @@ La tramitación del recurso se sujetará a las disposiciones siguientes:
 
 I. Se iniciará mediante escrito en el que se deberán expresar los agravios que a juicio de la Entidad Fiscalizada y, en su caso, del servidor público o del particular, persona física o moral, le cause la multa o resolución impugnada, acompañando copia de ésta y constancia de la notificación de la misma, así como el ofrecimiento y exhibición de las pruebas supervenientes si las hubiere;
 
-II. Órgano (sic) Superior de Fiscalización acordará sobre la admisión o el desechamiento del recurso y de las pruebas ofrecidas, desechando de plano las que no fuesen idóneas para desvirtuar los hechos en que se basa la resolución o no hayan sido ofrecidas conforme a derecho; y
+II. (sic) Órgano Superior de Fiscalización acordará sobre la admisión o el desechamiento del recurso y de las pruebas ofrecidas, desechando de plano las que no fuesen idóneas para desvirtuar los hechos en que se basa la resolución o no hayan sido ofrecidas conforme a derecho; y
 
 III. Desahogadas las pruebas supervenientes, se dictara resolución.
 
@@ -1729,7 +1745,7 @@ Una actitud de escepticismo profesional significa que el auditor hace una evalua
 
 El auditor debe conservar el adecuado criterio en las auditorías que practique, ejerciendo al máximo sus conocimientos, experiencia y capacidad profesional, garantizando en forma clara y transparente el alcance y objetivos de la fiscalización.
 
-Durante los trabajos de auditoría, el auditor, deberá identificar medios de control preventivo y de reducción de riesgos, daños o desperdicios de recursos oferten (sic) la oportunidad, suficiencia, utilidad y confiabilidad de la información financiera y de gestión, así como aumentar la eficiencia en el uso de los recursos.
+Durante los trabajos de auditoría, el auditor, deberá identificar medios de control preventivo y de reducción de riesgos, daños o desperdicios de recursos (sic) oferten la oportunidad, suficiencia, utilidad y confiabilidad de la información financiera y de gestión, así como aumentar la eficiencia en el uso de los recursos.
 
 El auditor debe actuar con dedicación, honestidad y calidad profesional, desempeñando la función encomendada con la capacidad, habilidad profesional, minuciosidad, esmero, buena fe e integridad; verificando que los trabajos de auditoría e informes se realicen de conformidad con:
 
@@ -2002,3 +2018,11 @@ El presente Decreto iniciará su vigencia al día siguiente al de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, las referencias a dicha Fiscalía contenidas en el presente Decreto, se entenderán echas (sic) a la Procuraduría General de la Republica.
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
