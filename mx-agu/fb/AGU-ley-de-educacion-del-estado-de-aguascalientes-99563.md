@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-99563"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-11"
-last_updated: "2016-07-18"
+last_updated: "2017-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 11 de marzo de 2014.
 
@@ -987,7 +987,7 @@ III. Otros organismos que las autoridades estatales o municipales decidan crear 
 
 ###### Artículo 61.
 
-El Gobierno del Estado y los municipios de la Entidad, de conformidad con lo establecido en capitulo del financiamiento de la Ley General de Educación y en lo dispuesto en sus respectivas Leyes de Ingresos y Presupuesto de Egresos que resulten aplicables, concurrirán al financiamiento de los servicios educativos y respetarán los siguientes criterios:
+El Gobierno del Estado y los municipios de la Entidad, de conformidad con lo establecido en capítulo del financiamiento de la Ley General de Educación y en lo dispuesto en sus respectivas Leyes de Ingresos y Presupuesto de Egresos que resulten aplicables, concurrirán al financiamiento de los servicios educativos y respetarán los siguientes criterios:
 
 I. Los recursos federales recibidos para el servicio educativo por el Estado y los municipios se aplicarán exclusivamente a la prestación de este servicio en la propia Entidad;
 
@@ -2181,7 +2181,9 @@ Corresponde al Instituto de Educación de Aguascalientes sancionar las infraccio
 
 I. Amonestación por escrito;
 
-II. Multa de hasta cinco mil veces el salario mínimo general diario vigente en el área geográfica cuyo monto dependerá de la gravedad de la falta y en la fecha en que se cometa la infracción. Las multas impuestas podrán duplicarse, en caso de reincidencia;
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+
+II. Multa de hasta cinco mil veces el valor diario de la unidad de medida y actualización cuyo monto dependerá de la gravedad de la falta y en la fecha en que se cometa la infracción. Las multas impuestas podrán duplicarse, en caso de reincidencia;
 
 III. Revocación de la autorización o retiro del reconocimiento de validez oficial de estudios correspondiente; o
 
@@ -2460,3 +2462,11 @@ La obligación del Estado de promover la universalidad de la educación inicial,
 ###### ARTÍCULO TERCERO.
 
 En un plazo no mayor a los 180 días naturales contados a partir de que inicie su vigencia el presente decreto, se deberán realizar las adecuaciones reglamentarias conducentes.
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
