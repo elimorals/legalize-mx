@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-la-direccion-de-asuntos-internos-de-seguridad-643
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-11-03"
-last_updated: "2008-11-03"
+last_updated: "2017-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64352&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,15 +23,19 @@ state: "AGU"
 ---
 # REGLAMENTO DE LA DIRECCION DE ASUNTOS INTERNOS DE SEGURIDAD PUBLICA Y TRANSITO ADSCRITA A LA SECRETARIA DEL H. AYUNTAMIENTO DE AGUASCALIENTES Y DIRECCION GENERAL DE GOBIERNO, AGUASCALIENTES
 
-REGLAMENTO DE LA DIRECCION DE ASUNTOS INTERNOS DE SEGURIDAD PUBLICA Y TRANSITO ADSCRITA A LA SECRETARIA DEL H. AYUNTAMIENTO Y DIRECCION GENERAL DE GOBIERNO
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE LA DIRECCIÓN DE ASUNTOS INTERNOS DE SEGURIDAD PÚBLICA Y TRÁNSITO ADSCRITA A LA SECRETARÍA DEL H. AYUNTAMIENTO Y DIRECCIÓN GENERAL DE GOBIERNO, PUBLICADO EN EL PERIÓDICO OFICIAL DE 3 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DE LA DIRECCIÓN DE ASUNTOS INTERNOS DE SEGURIDAD PÚBLICA Y TRÁNSITO ADSCRITA A LA SECRETARÍA DEL H. AYUNTAMIENTO Y DIRECCIÓN GENERAL DE GOBIERNO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 3 de noviembre de 2008.
 
 ING. FRANCISCO GABRIEL ARELLANO ESPINOSA, Presidente Municipal de Aguascalientes, en ejercicio de las facultades contenidas en los artículos 16, 38, fracciones I y II de la Ley Municipal para el Estado de Aguascalientes; y las demás propias de su cargo, a los habitantes del Municipio de Aguascalientes hace saber que el Honorable Ayuntamiento 2008-2010, tuvo a bien aprobar el decreto mediante el cual se expide el Reglamento de la Coordinación de Asuntos Internos de Seguridad Pública y Tránsito del Municipio de Aguascalientes, de conformidad con la siguiente:
 
-EXPOSICIÓN DE MOTIVOS.
+EXPOSICIÓN DE MOTIVOS
+
+[...]
 
 El presente Reglamento cuenta con ciento veintinueve artículos que se encuentran divididos en quince capítulos distribuidos en tres títulos, mismos que son los siguientes:
 
@@ -998,3 +1002,17 @@ Ing. Francisco Gabriel Arellano Espinosa, Presidente Municipal de Aguascalientes
 Por lo que tiene el honor de comunicarlo, para su conocimiento y efectos legales conducentes. En tal ver, promulga y ordena se de publicidad para su debido cumplimiento. 17 de Octubre de 2008.- Ing. Francisco Gabriel Arellano Espinosa.- Rúbrica.
 
 El Subsecretario del H. Ayuntamiento y Subdirector General de Gobierno.- Lic. Alberto Gómez Velasco.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA DIRECCIÓN DE ASUNTOS INTERNOS DE SEGURIDAD PÚBLICA Y TRÁNSITO ADSCRITA A LA SECRETARÍA DEL H. AYUNTAMIENTO Y DIRECCIÓN GENERAL DE GOBIERNO”.]
+
+PRIMERO.- Se aprueba el Reglamento de la Dirección de Asuntos Internos de Seguridad Pública y Tránsito, adscrita a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno.
+
+SEGUNDO.- El presente Reglamento entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+TERCERO.- Una vez que inicie su vigencia el presente Reglamento en el Periódico Oficial del Estado de Aguascalientes, se abroga el Reglamento de la Dirección (sic) Asuntos Internos de Seguridad Pública y Tránsito adscrita a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, publicado en el Periódico Oficial del Estado el día tres del mes de noviembre del año dos mil ocho.
+
+CUARTO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente Reglamento, se tramitarán conforme a éste, salvo aquellos en que, de manera clara y fehaciente, no sea en beneficio de los Presuntos Infractores.
