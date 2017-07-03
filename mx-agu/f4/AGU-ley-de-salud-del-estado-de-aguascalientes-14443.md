@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2017-02-27"
+last_updated: "2017-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -409,8 +409,6 @@ IV.- Organizar, operar, supervisar y evaluar la prestación de los servicios de 
 
 a).- La atención médica, preferentemente en beneficio de grupos vulnerables;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE DICIEMBRE DE 2009)</small>
 
 b).- La atención materno-infantil y Geriátrica;
@@ -429,13 +427,9 @@ h).- La información relativa a las condiciones, recursos y servicios de salud;
 
 i).- La educación para la salud;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2008)</small>
 
 j).- La orientación y vigilancia en materia de nutrición, dando mayor importancia a los programas de nutrición destinados a los niños y niñas;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2009)</small>
 
@@ -455,8 +449,6 @@ q).- El programa contra el alcoholismo;
 
 r).- El programa contra el tabaquismo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2008)</small>
 
 s).- Ejercer la verificación y el control sanitario de los establecimientos que expendan o suministren al público alimentos y bebidas no alcohólicas y alcohólicas, en estado natural, mezclados, preparados, adicionados o acondicionados, para su consumo dentro o fuera del mismo establecimiento, basándose en los reglamentos y normas oficiales mexicanas que al efecto se emitan.
@@ -465,15 +457,13 @@ s).- Ejercer la verificación y el control sanitario de los establecimientos que
 
 En el caso de establecimientos que expidan alimentos y bebidas en las escuelas de educación básica, además verificará que sean de los autorizados en los programas de nutrición;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, P.O. 1 DE MARZO DE 2010)</small>
 
 t).- La creación de una unidad administrativa encargada de recibir, recabar, resguardar y supervisar el cumplimiento de los cuidados paliativos que soliciten los pacientes en etapa terminal en los términos de la ley aplicable a la materia;
 
 > <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
 
-u).- Publicar anualmente en el Periódico Oficial del Estado la relación de profesionales, técnicos y auxiliares de la salud que presten atención médica de cualquier tipo en el Estado de Aguascalientes, así como publicar permanentemente dicha relación en la página web de la Secretaría de Salud, y las actualizaciones de la misma. En las publicaciones correspondientes deberá aparecer la leyenda “Médico Oficialmente Registrado”;
+u).- Publicar anualmente en el Periódico Oficial del Estado la relación de profesionales, técnicos y auxiliares de la salud que presten atención médica de cualquier tipo en el Estado de Aguascalientes, así como publicar permanentemente dicha relación en la página web de la Secretaría de Salud, y las actualizaciones de la misma. En las publicaciones correspondientes deberá aparecer la leyenda "Médico Oficialmente Registrado";
 
 > <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
 
@@ -641,8 +631,6 @@ II.- La prevención y el control de las enfermedades transmisibles de atención 
 
 III.- La atención médica integral, que comprende actividades preventivas, curativas, de rehabilitación y paliativas, incluyendo la atención de urgencias;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE DICIEMBRE DE 2009)</small>
 
 IV.- La atención materno-infantil y Geriátrica;
@@ -807,8 +795,6 @@ b).- Copia de la constancia de haber tomado como mínimo un curso por año de ac
 
 Los colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud, informarán al Instituto de Salud acerca de las altas y bajas de sus integrantes, así como de los datos generales de cada asociado, de la misma forma podrán gestionar los registros y refrendos de sus integrantes ante el Instituto sin cobro alguno.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, P.O. 1 DE MARZO DE 2010)</small>
 
 El Instituto de Salud del Estado de Aguascalientes deberá publicar la relación de profesionales, técnicos y auxiliares de la salud que presten atención médica de cualquier tipo en el Estado de Aguascalientes, así como publicar permanentemente dicha relación en la página web del propio Instituto, y las actualizaciones de la misma, en los términos del Artículo 28, Fracción IV, inciso u) de esta Ley.
@@ -971,13 +957,9 @@ En materia de higiene escolar, corresponde al Gobierno del Estado, aplicar las n
 
 La prestación de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación que se establezcan entre las autoridades sanitarias estatales, municipales y educativas competentes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO V BIS. Atención Geriátrica
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
@@ -986,8 +968,6 @@ La prestación de servicios de salud a los escolares se efectuará de conformida
 La atención geriátrica comprende el conjunto de niveles de atención médica, sanitaria, psicológica y social que deben otorgar las instituciones públicas y privadas, encargadas de la atención y el cuidado de los adultos mayores, en su correspondiente ámbito de actuación y responsabilidad.
 
 Tiene como objetivo garantizar la calidad de vida, buscando en todo momento preservar la salud física, sanitaria, psicológica y social.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
@@ -1015,8 +995,6 @@ IX. Suministro de cuidados paliativos; y
 
 X. Las demás que confiera la ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 74 Quater.
@@ -1030,8 +1008,6 @@ II. Los programas para promover la atención geriátrica;
 III. Las actividades recreativas de esparcimiento y culturales destinadas a fortalecer las actividades ocupacionales del adulto mayor; y
 
 IV. Las demás que coadyuven a la salud y bienestar del adulto mayor.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
@@ -1127,7 +1103,7 @@ Las autoridades que integran el Sistema Estatal de Salud formularán el Programa
 
 I. Elaboración de información científica sobre las causas del suicidio y su dinámica en el Estado;
 
-II Establecer y difundir ampliamente líneas de comunicación de contacto directo, atendidas por especialistas, para asistencia a víctimas potenciales y recibir denuncias preventivas de terceros;
+II. Establecer y difundir ampliamente líneas de comunicación de contacto directo, atendidas por especialistas, para asistencia a víctimas potenciales y recibir denuncias preventivas de terceros;
 
 III. Formular recomendaciones a las autoridades de los municipios a fin de capacitar a los comerciantes de objetos comúnmente utilizados para auto infringirse lesiones con el propósito de identificar a suicidas potenciales y dar aviso a las autoridades sanitarias; y
 
@@ -1449,8 +1425,6 @@ En cualquier tratamiento de una persona enferma, el médico podrá utilizar nuev
 
 ### CAPITULO III. Nutrición
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 105.
@@ -1517,8 +1491,6 @@ Las autoridades sanitarias estatales y municipales en coordinación con las auto
 
 El Gobierno del Estado formulará y desarrollará programas de nutrición estatales, promoviendo la participación en los mismos, de las unidades estatales del sector salud, cuyas actividades se relacionen con la nutrición y la disponibilidad de alimentos, así como de los comités o subcomités municipales y los sectores social y privado, a través del Consejo Estatal de Nutrición que se integrará en los términos previstos en el Reglamento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2008)</small>
 
 Se deberá dar prioridad a la elaboración de programas nutricionales destinados a los niños y niñas, en los que se indique el tipo de alimentos y bebidas que pueden ser distribuidos en las tiendas ubicadas en las escuelas de educación básica.
@@ -1532,8 +1504,6 @@ En los programas a que se refiere el artículo anterior, se incorporarán accion
 ###### ARTICULO 113.
 
 Las autoridades sanitarias del Estado establecerán las normas, tomarán las medidas y realizarán las actividades a que se refiere esta Ley, tendientes a la protección de la salud humana ante los riesgos y daños derivados de las condiciones del ambiente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2009)</small>
 
@@ -2873,29 +2843,29 @@ IV.- La calidad de reincidente del infractor; y
 
 V.- El beneficio obtenido por el infractor como resultado de la infracción.
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 278.
 
-Se sancionará con multa equivalente hasta mil veces el salario mínimo general diario vigente en el Estado de Aguascalientes, la violación de las disposiciones contenidas en los Artículos 44 Bis, 49, 61, 62, 85, 87, 92, 104, 106, 127, 129, 137, 167, 168, 174, 176, 186, 192, 194, 210, 218, 221, 224, 233; 247, 248 y 250 de esta ley.
+Se sancionará con multa equivalente hasta mil veces el valor diario de la unidad de medida y actualización, la violación de las disposiciones contenidas en los Artículos 44 Bis, 49, 61, 62, 85, 87, 92, 104, 106, 127, 129, 137, 167, 168, 174, 176, 186, 192, 194, 210, 218, 221, 224, 233; 247, 248 y 250 de esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 279.
 
-Se sancionará con multa equivalente de cien hasta cuatro mil veces el salario mínimo general diario vigente en el Estado de Aguascalientes, la violación a las disposiciones contenidas en los Artículos 55 segundo párrafo, 122, 123, 124, 125, 133, 166, 170, 173, 175, 177, 178, 179, 182, 183, 190, 198, 200, 201, 202, 207, 212, 213, 214, 220, 257 y 271 de esta Ley.
+Se sancionará con multa equivalente de cien hasta cuatro mil veces el valor diario de la unidad de medida y actualización, la violación a las disposiciones contenidas en los Artículos 55 segundo párrafo, 122, 123, 124, 125, 133, 166, 170, 173, 175, 177, 178, 179, 182, 183, 190, 198, 200, 201, 202, 207, 212, 213, 214, 220, 257 y 271 de esta Ley.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 280.
 
-Se sancionará con multa equivalente de cuatro mil hasta diez mil veces el salario mínimo general diario vigente en el Estado de Aguascalientes, la violación de las disposiciones contenidas en los Artículos 75,100, 103 y 139 duodecies de esta Ley.
+Se sancionará con multa equivalente de cuatro mil hasta diez mil veces el valor diario de la unidad de medida y actualización, la violación de las disposiciones contenidas en los Artículos 75, 100, 103 y 139 duodecies de esta Ley.
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 281.
 
-Las infracciones no previstas en este Capítulo serán sancionadas con multa equivalente hasta por diez mil veces el salario mínimo general diario vigente en el Estado de Aguascalientes, atendiendo a las reglas de calificación que se establecen en el Artículo 277 de esta Ley.
+Las infracciones no previstas en este Capítulo serán sancionadas con multa equivalente hasta por diez mil veces el valor diario de la unidad de medida y actualización, atendiendo a las reglas de calificación que se establecen en el Artículo 277 de esta Ley.
 
 ###### ARTICULO 282.
 
@@ -3420,3 +3390,11 @@ A efecto de que el Instituto de Servicios de Salud del Estado de Aguascalientes 
 ###### ARTÍCULO QUINTO.
 
 El Programa "El Médico en Tu Casa" será aplicado en concordancia con las demás disposiciones de atención médica que se establecen en la Ley de Salud del Estado de Aguascalientes así como en los acuerdos y convenios que para el efecto se suscriban.
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
