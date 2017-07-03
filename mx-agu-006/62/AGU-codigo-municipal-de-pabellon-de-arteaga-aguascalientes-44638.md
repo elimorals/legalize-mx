@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-pabellon-de-arteaga-aguascalientes-44638"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-04-18"
-last_updated: "2017-03-27"
+last_updated: "2017-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Código publicado en el Periódico Oficial del estado de Aguascalientes, el lunes 18 de abril de 2005.
 
@@ -19179,7 +19179,361 @@ Los trabajadores de los establecimientos autorizados para el ejercicio de la pro
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO PRIMERO. De los Eventos de Diversión y Entretenimiento
+### CAPITULO CUARTO. De la compra, venta, acopio y reciclado de materiales
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+ARTICULO 1560 BIS A.- Para los efectos de este Capítulo se entiende por:
+
+I.- Chatarrera: Todo establecimiento dedicado a la compra, venta, acopio y reciclado de materiales tales como metales, vidrio, plástico, papel cartón hule y cualquier otro material susceptible de ser reutilizado;
+
+II.- Padrón de Proveedores: El libro que tienen la obligación de llevar las chatarreras objeto del presente capítulo y en el que deberán de asentar, de manera fidedigna, la identidad con fotografía, el nombre, domicilio y número telefónico de sus proveedores, así como el registro de los materiales de rehúso y las cantidades que les suministren;
+
+III.- Proveedor: La persona física o moral, que dota de materiales reutilizables en general a las chatarreras objeto del presente Reglamento;
+
+IV.- Secretaría: La Secretaría del H. Ayuntamiento.
+
+V.- Departamento: El Departamento de Reglamentos y Licencias dependiente de la Secretaría del H. Ayuntamiento, y
+
+VI.- Registro: El padrón municipal de las chatarreras sujetos a este capítulo que llevarán a cabo la Secretaría a través del Departamento.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+ARTICULO 1560 BIS B.- Para operar las chatarreras se requiere de una licencia especial expedida por la Secretaría, previo cumplimiento de los requisitos que señalen las disposiciones contenidas en este código y los demás ordenamientos jurídicos aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+ARTÍCULO 1560 BIS C.- La Secretaría evaluará el funcionamiento de las chatarreras llevando un control estricto de sus actividades y con base en él refrendará su licencia de funcionamiento, asimismo actualizará anualmente el Registro de las chatarreras que operan en el Municipio.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+ARTICULO 1560 BIS D.- El Departamento además de las facultades prevista (sic) en el presente código tendrá las siguientes atribuciones:
+
+I.- Llevar y mantener actualizado el Registro de las chatarreras en forma permanente;
+
+II.- Supervisar que las chatarreras funcionen de acuerdo con lo establecido en el presente capítulo y en las demás disposiciones aplicables a los establecimientos mercantiles en general;
+
+III.- Realizar visitas de inspección o verificación;
+
+IV.- Levantar las actas correspondientes cuando en las visitas de supervisión o verificación se detecten violaciones al presente código o cualquier otra normatividad aplicable a las chatarreras;
+
+V.- Notificar legalmente a las chatarreras de todo tipo de oficios, órdenes, acuerdos o resoluciones de la autoridad competente, para lo cual seguirá el procedimiento correspondiente y contará con fe pública respecto de estas diligencias;
+
+VI.- Ejecutar las órdenes de clausura temporal o definitiva decretadas por violaciones al presente Reglamento y retirar los sellos de clausura, previa resolución de la Secretaría o de la autoridad judicial;
+
+VII.- Dar aviso, a la brevedad posible a las autoridades competentes en materia de desarrollo urbano, ecología, uso de suelo y ordenamiento territorial, salud, persecución de delitos, protección civil y seguridad pública, cuando en ejercicio de sus atribuciones, conozcan de hechos o conductas que puedan contravenir lo dispuesto en las demás disposiciones legales que con motivo del funcionamiento de las chatarreras sean aplicables;
+
+VIII.- Certificar que las chatarreras se encuentren inscritas en el Registro, y
+
+IX.- Vigilar que las chatarreras no operen de manera clandestina.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+ARTICULO 1560 BIS E.- Además de los requisitos previstos en el artículo 1457 del presente código, para la expedición de la licencia especial prevista en este capítulo se deberán anexar los documentos siguientes:
+
+I.- Solicitud por escrito dirigida a la Secretaría,
+
+II.- Original y copia de la constancia de compatibilidad urbanística expedida por la Subdirección de Desarrollo Urbano del municipio;
+
+III.- Formato de solicitud de licencia que contenga la lista de firmas de los vecinos próximos al establecimiento;
+
+IV.- Identificación oficial con fotografía del solicitante;
+
+V.- Comprobante de domicilio del solicitante;
+
+VI.- Clave Única de Registro de Población (CURP) del solicitante;
+
+VII.- Nombre y fotografía reciente del solicitante y domicilio para recibir notificaciones,
+
+VIII.- Tratándose de personas morales, escritura constitutiva; Registro Federal de Contribuyentes (RFC);
+
+IX.- Tratándose de personas físicas, Registro Federal de Contribuyentes (RFC);
+
+X.- Permiso ambiental de funcionamiento emitido por el Departamento de Ecología del municipio conforme a lo establecido en las leyes en materia ecológica;
+
+XI.- Plan de manejo de desechos sólidos y medidas de seguridad certificado por la Unidad de Protección Civil y Servicio de Bomberos mismo que deberá ser renovado cada año;
+
+XII.- Ubicación exacta del lugar donde se pretende establecer el giro solicitado, anexando croquis de la ubicación del mismo;
+
+XIII.- Evidencia fotográfica tanto del interior como del exterior del establecimiento, y
+
+XIV.- Los demás que establezcan las Leyes, el Código Municipal, el presente Capítulo y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+ARTICULO 1560 BIS F.- El registro comporta el padrón de las chatarreras ubicados dentro del Municipio con el propósito de llevar un mejor control sobre su funcionamiento y operación. Con esta medida, se pretende garantizar seguridad y certeza jurídica a los propietarios, dependientes representantes y administradores de las chatarreras, así como también a quienes participan como proveedores y/o compradores.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+ARTICULO 1560 BIS G.- Es obligación de los propietarios de las chatarreras inscribirse en el registro que la Secretaría llevará para tal efecto. La inscripción implica la obligación de los propietarios de someterse a la regulación y control del funcionamiento y operación de su actividad, así como el cumplimiento de la normatividad aplicable en la materia.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+ARTICULO 1560 BIS H.- El registro estará conformado por una base de datos integrada por la información que cada propietario proporcione y la que se obtenga de las demás autoridades municipales y de otros órdenes de gobierno.
+
+La Secretaría, basándose en los datos que los propietarios de las chatarreras le proporcionen, así como en la información que obtenga de otras autoridades municipales y estatales, inscribirá a cada establecimiento en el Registro según corresponda.
+
+En caso de que la información proporcionada a la Secretaría por el propietario, para los efectos de los párrafos anteriores, sea falsa, se procederá a la clausura temporal o definitiva en los términos que prescriba la normatividad que para tal efecto establezca el presente código y demás leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+ARTICULO 1560 BIS I.- El registro contendrá por cada establecimiento, la información siguiente:
+
+I.- La denominación o razón social;
+
+II.- El domicilio;
+
+III.- El giro comercial;
+
+IV.- La constancia de compatibilidad urbanística expedida por la Subdirección de Desarrollo Urbano;; (sic)
+
+V.- La licencia especial expedida por la Secretaría a través del Departamento;
+
+VI.- El alta ante la Secretaría de Hacienda y Crédito Público:
+
+VII.- El informe preventivo de evaluación de impacto ambiental expedido por la Secretaría del Medio Ambiente del estado;
+
+VIII.- El certificado de medidas de seguridad emitido por la Unidad de Protección Civil y el Servicio de Bomberos;
+
+IX.- El nombre del o los dependientes, administrador y representantes del establecimiento, debiendo entregar al Departamento copia de las identificaciones oficiales de cada uno de ellos;
+
+X.- El nombre del representante legal, copia certificada del poder correspondiente e identificación oficial, tratándose de personas morales, y
+
+XI.- La relación de proveedores frecuentes acompañada con a (sic) copia de identificación oficial que deberá entregar al Departamento cada tres meses.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+ARTICULO 1560 BIS J.- El Departamento abrirá expediente físico y digital de la información recabada para la inscripción en el registro de las chatarreras y expedirá constancia de inscripción a los propietarios.
+
+Además, en dicho registro se llevará el control de las visitas de verificación realizadas por Departamento a cada uno de las chatarreras, así como el historial de las sanciones que en su caso se hayan hecho acreedores y el seguimiento de las mismas hasta su cumplimiento en todos sus términos.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+ARTICULO 1560 BIS K.- Los propietarios de las chatarreras deberán observar su constancia de inscripción en el registro y tenerlo a la vista en el establecimiento y estarán obligados a notificar al Departamento cualquier cambio en los datos a que hace referencia el artículo 1560 BIS I del presente capítulo en el momento que se efectúen.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+ARTICULO 1560 BIS L.- La inscripción de las chatarreras en el registro es obligatoria y deberá realizarse anualmente junto con el trámite para la expedición o renovación de la licencia especial.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+ARTICULO 1560 BIS M.- El propietario del establecimiento deberá acompañar a la solicitud para el registro correspondiente, copia de los documentos que contengan la información a que hace referencia el artículo 1560 BIS I del presente código, así como cualquier otra documentación que le requiera el Departamento en apego a la normatividad municipal, el presente capítulo y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+ARTICULO 1560 BIS N.- Son obligaciones de los propietarios, representantes, administradores y empleados de las chatarreras, las siguientes:
+
+I.- Tener a la vista en el establecimiento la licencia especial original que ampare al funcionamiento y operación del establecimiento, así como la constancia de inscripción en el registro;
+
+II.- Mantener aseados tanto el interior como el exterior de las chatarreras;
+
+III.- Contar con los dispositivos de seguridad necesarios para evitar siniestros;
+
+IV.- Realizar las actividades comerciales dentro de las chatarreras y en horarios autorizados;
+
+V.- Señalar las salidas de emergencia y medidas de seguridad en casos necesarios;
+
+VI.- Contar con botiquín para la prestación de primeros auxilios y extintores para prevenir y controlar incendios;
+
+VII.- Presentar aviso de terminación, cuando no se quiera continuar desarrollando la actividad comercial amparada en la licencia y/o permiso;
+
+VIII.- Hacer del conocimiento inmediato de la autoridad competente en caso de un siniestro;
+
+IX.- Cumplir fielmente todas y cada una de las disposiciones que establezcan las leyes y reglamentos de la materia, así como las que emanen administrativamente de las autoridades municipales;
+
+X.- Proporcionar con veracidad los datos e informes que se les soliciten;
+
+XI.- Observar fielmente las disposiciones sobre cierre, anuncios, orden, ornato y demás que dicten las autoridades municipales;
+
+XII.- Cooperar con la autoridad municipal en todo aquello que tienda al orden, salubridad, comodidad, seguridad y decoro de la población;
+
+XIII.- Usar invariablemente las pesas y medidas que hayan sido aprobadas por la autoridad competente;
+
+XIV.- Colocar catálogos informativos, tanto en el exterior como en el interior y cerca de las básculas de pesaje donde se indique la prohibición de la compraventa de los materiales propiedad del gobierno o de particulares que no son sujetos de compraventa, mismos que le serán indicados por la autoridad municipal. Estos catálogos indicarán además el delito en que incurren el que vende y el que compra;
+
+XV.- Contar con letreros que indiquen "No se compra material robado o de dudosa procedencia en este establecimiento" y con los que indiquen el precio de compra y de venta de los materiales;
+
+XVI.- Observar estrictamente y hacer que las personas proveedoras cumplan con las normas de este Reglamento;
+
+XVII.- Tener debidamente aseados los sanitarios;
+
+XVIII.- Dar mantenimiento a las instalaciones eléctricas;
+
+XIX.- Contar con certificado de fumigación del establecimiento debidamente actualizado cada seis meses;
+
+XX.- Contar con anuncio donde se establezca la denominación del establecimiento, debiendo cumplir con la normatividad respectiva;
+
+XXI.- Recibir capacitación sobre los materiales de reciclaje en general, que no son susceptibles de compraventa como medidores de agua, cable de alumbrado público, postes de alumbrado público, alcantarillas, anuncios viales, cercos de contención, barras de cercos, acumuladores automotrices, materiales de empresas privadas y públicas dedicadas a la prestación de algún servicio público. Los cursos de capacitación referidos serán impartidos por el Departamento previo acuerdo con las instancias de gobierno o personas tanto físicas como morales que por la naturaleza de su actividad o prestación de servicios sean afectadas de manera importante, y
+
+XXII.- Las demás previstas en las Leyes, este capítulo y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+ARTICULO 1560 BIS Ñ.- Son prohibiciones para los propietarios, representantes, administradores, y empleados de las chatarreras, las siguientes:
+
+I.- Realizar las actividades comerciales a que se refiere el presente capítulo sin la licencia especial expedida por la Secretaría, conforme a lo establecido en este código y demás disposiciones aplicables;
+
+II.- La compra, de materiales reciclables que por sus características físicas se infiere que son propiedad municipal, estatal, federal o de alguna empresa prestadora de servicios públicos;
+
+III.- Cambiar o ampliar el giro para el cual se otorgó la licencia especial, sin la autorización respectiva;
+
+IV.- Consumir bebidas alcohólicas en el interior del establecimiento y/o realizar sus labores en visible estado de ebriedad o bajo el influjo de drogas enervantes;
+
+V.- Fundir metales sin autorización expresa de las autoridades competentes;
+
+VI.- Traspasar o ceder los derechos de las licencias o permisos, sin autorización de la autoridad municipal;
+
+VII.- Causar ruidos, producir malos olores o sustancias contaminantes;
+
+VIII.- Arrojar desechos o sustancias contaminantes a los drenajes, alcantarillas o en la vía pública;
+
+IX.- Incinerar desperdicios de hule, plástico, basura y similares;
+
+X.- Emitir o permitir que se emitan sustancias contaminantes o tóxicas a la atmósfera;
+
+XI.- Realizar conductas que ponga (sic) en peligro la salud pública o que cause molestias o incomodidades a las personas por el polvo, gases, humos o cualquier otra materia;
+
+XII.- Realizar actividades comerciales fuera de los horarios autorizados;
+
+XIII.- Adquirir materiales de menores de edad y personas que se encuentren en estado de ebriedad o bajo el influjo de enervantes, y
+
+XIV.- Las demás previstas expresamente (sic) las leyes, el presente código y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+ARTÍCULO 1560 BIS O.- Las chatarreras que regula el presente Capítulo deberán observar las disposiciones siguientes:
+
+I.- Los locales comerciales deberán contar, como mínimo, con los siguientes requisitos:
+
+a).- No estar construidos con materiales inflamables;
+
+b).- Contar con los servicios sanitarios adecuados;
+
+c).- Tener instalación eléctrica con las garantías de seguridad necesarias;
+
+d).- Tener en cielos y muros pinturas que permita la fácil y constante limpieza;
+
+e).- Tener como mínimo, pisos de cemento, o materiales similares;
+
+f).- Contar con los suficientes extinguidores de conformidad con las recomendaciones expedidas por la Unidad de Protección Civil del municipio;
+
+g).- Contar con salidas de emergencias con sus respectivos señalamientos, y
+
+h).- Las demás que le atribuyen expresamente las Leyes, este Capítulo y además disposiciones jurídicas aplicables;
+
+II.- Contar y llevar a la práctica un plan de manejo de residuos sólidos y medidas de seguridad debidamente documentado y aprobado por el Departamento de Ecología y la Unidad de Protección Civil del municipio, y
+
+III.- Contar con separadores específicos para almacenaje de acuerdo a la composición, formas y dimensiones de la materia acopiada objeto del presente Reglamento.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+ARTICULO 1560 BIS P.- Dentro de las chatarreras se prohíbe la compra, venta y el acopio de recipientes metálicos contenedores de Gas L.P., recipientes contenedores de líquidos inflamables y/o corrosivos, llantas o neumáticos y acumuladores automotrices.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+ARTICULO 1560 BIS Q.- Todos (sic) las chatarreras llevarán un padrón de proveedores habituales en el que se incluirán aquellos que proveen un volumen grande de material. Dicho Padrón tendrá los rubros siguientes:
+
+I.- Nombre del proveedor;
+
+II.- Domicilio del proveedor;
+
+III.- Números telefónicos del proveedor;
+
+IV.- Copia de la identificación oficial con fotografía del proveedor;
+
+V.- Fecha y hora de la operación comercial;
+
+VI.- Cantidad y descripción de los materiales comprados por el proveedor;
+
+VII.- Procedencia de los materiales, y
+
+VIII.- Firma del proveedor.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+ARTICULO 1560 BIS R.- En el mismo Padrón de Proveedores se harán constar las ventas mayores a $5,000.00 (CINCO MIL PESOS 00/100 MONEDA NACIONAL), asentando lo siguiente:
+
+I.- Nombre de quien realiza la venta;
+
+II.- Fecha y hora de la operación comercial;
+
+III.- Cantidad y descripción de los materiales vendidos;
+
+IV.- Nombre del comprador;
+
+V.- Domicilio del comprador;
+
+VI.- Copia de la identificación oficial con fotografía del comprador;
+
+VII.- Números telefónicos del comprador, y
+
+VIII.- Firma del comprador.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+ARTICULO 1560 BIS S.- Los propietarios deberán remitir al Departamento una copia legible de su Padrón de Proveedores mensualmente.
+
+El departamento tendrá la obligación de resguardar y mantener en orden y en estricta confidencialidad cada una de las copias que les sean remitidas.
+
+Asimismo, el Departamento pondrá a disposición de la Secretaría de Planeación y desarrollo Municipal, dichos documentos a efecto de que realice las debidas verificaciones.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+ARTICULO 1560 BIS T.- Si con motivo de una visita de verificación las autoridades administrativas conocieran del incumplimiento a las disposiciones de las leyes, del Código Municipal o los Reglamentos por parte del particular se procederá a levantar el acta correspondiente en los términos previstos por el presente código y la Ley del Procedimiento Administrativo del Estado.
+
+De no encontrar violaciones a las leyes, al Código Municipal o a los reglamentos vigentes se hará constar tal circunstancia en el acta dejando el original al particular, entendiendo con ello concluida la verificación, y se remitirá copia de todo lo actuado al expediente del establecimiento.
+
+En caso de que las violaciones detectadas sean competencia de una autoridad estatal o federal, la Secretaría turnará mediante oficio la información correspondiente.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+ARTICULO 1560 BIS U.- Cuando en las actas de verificación, se encuentren circunstancias hechos u omisiones que puedan constituir infracciones a las leyes, al Código Municipal y demás ordenamientos aplicables a la materia, la Secretaría deberá notificar por conducto del Departamento al presunto infractor el inicio del procedimiento, para que éste, dentro del plazo de 10 días hábiles, exponga lo que a su derecho convenga y ofrezca pruebas que considere convenientes en relación con las actuaciones realizadas por parte de la autoridad.
+
+Además de notificar el inicio del procedimiento administrativo, la Secretaría podrá ordenar las medidas de seguridad que procedan conforme a la ley y el presente código.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+ARTICULO 1560 BIS V.- El verificador solicitará el auxilio de la fuerza pública, para efectuar la verificación, ejecutar sanciones y medidas de seguridad que sean impuestas, cuando alguna o algunas personas obstaculicen o no permitan la práctica de la diligencia, independientemente de las sanciones a que haya lugar.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+ARTICULO 1560 BIS W.- Además de las infracciones previstas para los establecimientos mercantiles, industriales y de servicios previstos en el presente título del presente Código, serán infracciones de las chatarreras las siguientes conductas:
+
+I.- Permitir el consumo de bebidas alcohólicas dentro del establecimiento;
+
+II.- No tener a la vista del público el catálogo de materiales que no son susceptibles de compra, venta y acopio conforme a las leyes, el presente código y demás disposiciones aplicables;
+
+III.- Depositar fuera del establecimiento los materiales de compra, venta y/o acopio;
+
+IV.- Depositar en los contenedores para desecho doméstico materiales reciclables que requieran un tratamiento especial y no sean entregados a las instancias correspondientes para su confinamiento;
+
+V.- Comprar, vender y/o acopiar productos altamente tóxicos que pongan en riesgo la salud y el medio ambiente;
+
+VI.- Omitir su inscripción en el Registro;
+
+VII.- No efectuar el Padrón de Proveedores, y
+
+VIII.- No remitir al Departamento el Padrón de Proveedores mensualmente.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+ARTICULO 1560 BIS X.- Cualquier persona física o moral podrá denunciar ante la autoridad municipal la compraventa ilícita de materiales reciclados y todo acto u omisión que contravenga las disposiciones del presente capítulo, o aquellas que puedan producir daño al medio ambiente y a la salud de la población.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+ARTICULO 1560 BIS Y.- Cuando por infracción a las disposiciones establecidas en el presente capítulo se hubieren ocasionado daños y perjuicios al denunciante de los hechos, independientemente de la sanción que la autoridad municipal aplique al infractor, el interesado puede solicitar al municipio, la formulación de un dictamen técnico con el fin de que el interesado lo haga valer ante la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+ARTICULO 1560 BIS Z.- procederá la revocación de la licencia especial para chatarrera.
+
+I.- Cuando se realice la compra, venta y/o acopio de materiales en contravención a lo dispuesto por el presente código y/o ocasiones (sic) con su actividad riesgo o daño a la salud o al medio ambiente;
+
+II.- Cuando el propietario proporcione datos falsos en forma dolosa, tanto en la inscripción en el Registro como dentro del Padrón de proveedores;
+
+III.- Cuando resulten falsos los datos o documentos proporcionados por el titular de la licencia, y
+
+IV.- Por incumplimiento a las disposiciones del Código Municipal, el presente capítulo y demás normatividad aplicable.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -19211,9 +19565,9 @@ Las farmacias en general deberán contar, con un químico fármaco biólogo, leg
 
 No podrán expender sin receta médica los medicamentos que determine la Secretaría de Salud.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE JULIO DE 2017)</small>
 
-### CAPITULO SEGUNDO. De los Eventos Deportivos
+### CAPITULO PRIMERO. De los Eventos de Diversión y Entretenimiento
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -19221,7 +19575,7 @@ No podrán expender sin receta médica los medicamentos que determine la Secreta
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO TERCERO. De los Bailes Públicos
+### CAPITULO SEGUNDO. De los Eventos Deportivos
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -19281,7 +19635,7 @@ Los espectadores que originen falsas alarmas infundiendo pánico en el público 
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO PRIMERO. De las Disposiciones Generales
+### CAPITULO TERCERO. De los Bailes Públicos
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -19333,7 +19687,7 @@ La Presidencia Municipal por conducto de la Secretaría del H. Ayuntamiento, aut
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEGUNDO. De la Autoridad
+### CAPITULO PRIMERO. De las Disposiciones Generales
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -19363,7 +19717,7 @@ VIII.- Las demás que se establezcan en el presente Código y demás normas jur�
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO TERCERO. De las Características de las Plazas de Toros
+### CAPITULO SEGUNDO. De la Autoridad
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -19415,7 +19769,7 @@ XXI.- Indulto: Beneficio otorgado por el Juez de Plaza a una res, debido a su ex
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO CUARTO. De las Clases de Espectáculos Taurinos
+### CAPITULO TERCERO. De las Características de las Plazas de Toros
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -19487,7 +19841,7 @@ La empresa proveerá de todo lo necesario para el buen funcionamiento de los ser
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO QUINTO. De los Derechos y Obligaciones de los Espectadores
+### CAPITULO CUARTO. De las Clases de Espectáculos Taurinos
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -19545,7 +19899,7 @@ Las plazas de toros, deberán tener instalaciones sanitarias separadas y en núm
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEXTO. De las Reses de Lidia
+### CAPITULO QUINTO. De los Derechos y Obligaciones de los Espectadores
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -19641,7 +19995,7 @@ Las empresas deberán acatar todos los acuerdos y disposiciones que dicten las a
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEPTIMO. De la Cuadra de Caballos
+### CAPITULO SEXTO. De las Reses de Lidia
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -19695,7 +20049,7 @@ El espectador que durante la permanencia de una res en el ruedo se lance al mism
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO OCTAVO. De los Actos Previos a la Lidia
+### CAPITULO SEPTIMO. De la Cuadra de Caballos
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -19751,7 +20105,7 @@ En las becerradas, festivales en que los diestros actúen con traje corto y en c
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO NOVENO. Del Desarrollo de la Lidia
+### CAPITULO OCTAVO. De los Actos Previos a la Lidia
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -19799,7 +20153,7 @@ Los caballos que resulten con heridas graves a juicio de los Veterinarios, en el
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO DÉCIMO. Del Rejoneo y los Forcados
+### CAPITULO NOVENO. Del Desarrollo de la Lidia
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -19917,7 +20271,7 @@ Queda prohibido el uso simultáneo de los colores verde, blanco y rojo en el ado
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO PRIMERO. De las Disposiciones Generales
+### CAPITULO DÉCIMO. Del Rejoneo y los Forcados
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -20237,11 +20591,9 @@ Durante la lidia estará prohibida la venta de cualquier mercancía. Entre una r
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEGUNDO
+### CAPITULO PRIMERO. De las Disposiciones Generales
 
-Del Patronato de Ferias y Fiestas Municipales de Pabellón de Arteaga, Ags.
-
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 1681.
 
@@ -20365,9 +20717,11 @@ Los toros para forcados podrán estar sin puntas, embolados o cubrir los cuernos
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO TERCERO. De los Comités
+### CAPITULO SEGUNDO
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+Del Patronato de Ferias y Fiestas Municipales de Pabellón de Arteaga, Ags.
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 1698.
 
@@ -20419,7 +20773,7 @@ VI.- Los Comités.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO CUARTO. De los Expositores y Feriantes
+### CAPITULO TERCERO. De los Comités
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -20625,9 +20979,9 @@ Asimismo, el Patronato deberá rendir un informe semestral al ayuntamiento de to
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO QUINTO. De la Feria Regional de la Revolución Mexicana de Pabellón de Arteaga
+### CAPITULO CUARTO. De los Expositores y Feriantes
 
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 1718.
 
@@ -20767,7 +21121,7 @@ El representante del Patronato, exigirá la rendición de cuentas a los comités
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEXTO. De la Supervisión, Sanciones y Estímulos
+### CAPITULO QUINTO. De la Feria Regional de la Revolución Mexicana de Pabellón de Arteaga
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -21143,7 +21497,7 @@ La violación de los artículos relativos a la celebración de actos mediante au
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO PRIMERO. De los Principios Generales
+### CAPITULO SEXTO. De la Supervisión, Sanciones y Estímulos
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -21197,7 +21551,7 @@ Los fondos que se obtengan de la administración de la Feria Regional de la Revo
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEGUNDO. Del Procedimiento Administrativo
+### CAPITULO PRIMERO. De los Principios Generales
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -21279,7 +21633,7 @@ Una vez realizada la auditoría a la fiesta o feria, el H. Ayuntamiento en pleno
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO TERCERO. De los Términos
+### CAPITULO SEGUNDO. Del Procedimiento Administrativo
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -21343,7 +21697,7 @@ En los actos administrativos de carácter general tendrá efectos de notificaci�
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO CUARTO. De las Notificaciones
+### CAPITULO TERCERO. De los Términos
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -21453,7 +21807,7 @@ En ningún trámite administrativo se admitirá la gestión de negocios.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO QUINTO. De las Verificaciones e Inspecciones
+### CAPITULO CUARTO. De las Notificaciones
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -21499,9 +21853,9 @@ En los términos fijados en días por disposiciones generales, o por autoridades
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEXTO. De los Jueces Calificadores de Seguridad Pública y Vialidad
+### CAPITULO QUINTO. De las Verificaciones e Inspecciones
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 1822.
 
@@ -21551,9 +21905,9 @@ La manifestación que haga el interesado, su representante legal o quien esté a
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEPTIMO. De los Centros de Detención
+### CAPITULO SEXTO. De los Jueces Calificadores de Seguridad Pública y Vialidad
 
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 1828.
 
@@ -21893,11 +22247,11 @@ La información contenida en el Registro de Infractores tendrá como objeto el d
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO OCTAVO. Del Procedimiento en los Centros de Detención
+### CAPITULO SEPTIMO. De los Centros de Detención
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO NOVENO. De los Receptores de Presuntos Infractores y Pertenencias
+### CAPITULO OCTAVO. Del Procedimiento en los Centros de Detención
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -22027,7 +22381,7 @@ Cualquier irregularidad que se detecte en el área de celdas deberá ser reporta
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO PRIMERO. De las Disposiciones Generales
+### CAPITULO NOVENO. De los Receptores de Presuntos Infractores y Pertenencias
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -22287,7 +22641,7 @@ La persona que incurra en alguna irregularidad en relación a este capítulo, se
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEGUNDO. De las Faltas Cívicas
+### CAPITULO PRIMERO. De las Disposiciones Generales
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -22353,7 +22707,7 @@ Cuando el valor de los objetos exceda de dicho valor se procederá a solicitar s
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO TERCERO. De las Reglas para la Imposición de Sanciones y Medidas de Seguridad
+### CAPITULO SEGUNDO. De las Faltas Cívicas
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -22503,7 +22857,7 @@ En caso de clausura provisional como medida de seguridad, ésta podrá prolongar
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO CUARTO. Del Procedimiento ante el Juez Calificador
+### CAPITULO TERCERO. De las Reglas para la Imposición de Sanciones y Medidas de Seguridad
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -22677,7 +23031,7 @@ XII.- Expender o proporcionar a menores de edad bebidas alcohólicas, tabaco, t�
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO PRIMERO. De las Sanciones en Materia de Faltas Cívicas
+### CAPITULO CUARTO. Del Procedimiento ante el Juez Calificador
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -22837,7 +23191,7 @@ Si existiere una condena en cantidad líquida, se enviará copia de la resoluci�
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEGUNDO. De las Sanciones en Materia de Servicios Públicos
+### CAPITULO PRIMERO. De las Sanciones en Materia de Faltas Cívicas
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -23065,7 +23419,7 @@ Para toda violación a las normas y disposiciones municipales previstas en el pr
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO TERCERO. De las Sanciones en Materia de Desarrollo Urbano
+### CAPITULO SEGUNDO. De las Sanciones en Materia de Servicios Públicos
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -23261,7 +23615,7 @@ En el caso de reincidentes adictos al alcohol y a las drogas, el Juez Calificado
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO CUARTO. De las Sanciones en Materia de Actividades Comerciales, Industriales y de Prestación de Servicios
+### CAPITULO TERCERO. De las Sanciones en Materia de Desarrollo Urbano
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -23307,7 +23661,7 @@ En materia de mercados, las establecidas en el capítulo correspondiente.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO QUINTO. De las Sanciones en Materia de Espectáculos Públicos
+### CAPITULO CUARTO. De las Sanciones en Materia de Actividades Comerciales, Industriales y de Prestación de Servicios
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -23473,7 +23827,7 @@ IV.- La revocación de Licencia será pronunciada por la Autoridad que haya emit
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEXTO. De las Sanciones en Materia de Espectáculos Taurinos
+### CAPITULO QUINTO. De las Sanciones en Materia de Espectáculos Públicos
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -23581,7 +23935,7 @@ Del procedimiento de cancelación de licencias y permisos, conocerá y resolver�
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEPTIMO. De las Sanciones en Materia de Comercio en la Vía Pública
+### CAPITULO SEXTO. De las Sanciones en Materia de Espectáculos Taurinos
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -23647,7 +24001,7 @@ d) Por no contar el establecimiento en que se celebra el evento o espectáculo, 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO OCTAVO. De las Sanciones en Materia de Prostitución
+### CAPITULO SEPTIMO. De las Sanciones en Materia de Comercio en la Vía Pública
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -23673,7 +24027,7 @@ Para efectos de la aplicación de sanciones, empresarios y ganaderos son solidar
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO PRIMERO. De la Interposición del Recurso
+### CAPITULO OCTAVO. De las Sanciones en Materia de Prostitución
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -23765,7 +24119,7 @@ Se procederá a la reubicación del comerciante, cuando la estructura del puesto
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEGUNDO. De la Resolución del Recurso
+### CAPITULO PRIMERO. De la Interposición del Recurso
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -23889,7 +24243,7 @@ DE LA INDIVIDUALIZACION DE SANCIONES.
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO TERCERO. De la Impugnación de las Notificaciones
+### CAPITULO SEGUNDO. De la Resolución del Recurso
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -23972,6 +24326,10 @@ V.- Tratándose de multas, el recurrente garantice el crédito fiscal en cualqui
 La autoridad deberá acordar, en su caso, la suspensión o la denegación de la suspensión dentro de los cinco días siguientes a su interposición, en cuyo defecto se entenderá otorgada la suspensión.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
+
+### CAPITULO TERCERO. De la Impugnación de las Notificaciones
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 2055.
 
@@ -24302,3 +24660,15 @@ El presente Acuerdo entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones jurídicas de carácter reglamentario municipal que se opongan al contenido del presente acuerdo.
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO POR MEDIO DEL CUAL SE APRUEBA LA REFORMA AL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS."]
+
+###### ARTÍCULO PRIMERO.
+
+El presente acuerdo de adiciones al Código Municipal de Pabellón de Arteaga, Ags., entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los establecimientos que actualmente operan en el municipio con licencia ordinaria tramitarán su licencia especial a partir del año 2018, para lo cual durante el presente año de 2017 deberán ir recabando los requisitos establecidos en la presente reforma. Los nuevos establecimientos, así como aquellos que no cuentan con licencia deberán ajustarse a la presente reforma a partir de su entrada en vigor.
