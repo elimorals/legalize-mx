@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-gestion-empresarial-y-mejora-regulatoria-para-el-96608"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-11"
-last_updated: "2015-06-15"
+last_updated: "2017-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96608&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE GESTIÓN EMPRESARIAL Y MEJORA REGULATORIA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 11 de noviembre de 2013.
 
@@ -1137,7 +1137,9 @@ II. Suspensión en el empleo, cargo o comisión en los casos de las infracciones
 
 III. Destitución en el empleo, cargo o comisión en los casos de las infracciones previstas en el Artículo anterior fracciones V, IX y XI; y
 
-IV. Sanción económica, hasta de 30 salarios mínimos que rijan en el Estado, en los casos de las infracciones previstas en el Artículo anterior Fracción VI.
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+
+IV. Sanción Económica, hasta de 30 veces el valor diario de la Unidad de Medida y Actualización, en los casos de las infracciones previstas en el Artículo anterior Fracción VI.
 
 Para la aplicación de las sanciones que correspondan con motivo de las mencionadas infracciones, se estará a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes y en la Ley Municipal para el Estado de Aguascalientes, sin perjuicio de la responsabilidad civil o penal en que puedan incurrir los servidores públicos.
 
@@ -1313,7 +1315,7 @@ PROSECRETARIO EN FUNCIONES DE SEGUNDO SECRETARIO
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 8 de noviembre de 2013.- Carlos Lozano de la Torre.- Rúbrica.- El Jefe de Gabinete, Antonio Javier Aguilera García.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 15 DE JUNIO DE 2015.
 
@@ -1336,3 +1338,11 @@ El Reglamento del Instituto de Gestión Empresarial y Mejora Regulatoria, deber�
 ###### ARTÍCULO QUINTO.
 
 La Oficialía Mayor del Gobierno del Estado tramitará la asignación de los recursos materiales y humanos necesarios para iniciar la operación y funcionamiento del Instituto de Gestión Empresarial y Mejora Regulatoria.
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
