@@ -4,7 +4,7 @@ identifier: "NLE-codigo-penal-para-el-estado-de-nuevo-leon-7411"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-26"
-last_updated: "2017-06-28"
+last_updated: "2017-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7411&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "NLE"
 CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEÓN
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2017.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 3 DE JULIO DE 2017 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 7 DE JUNIO DE 2017.]</small>
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de marzo de 1990.
 
@@ -8725,9 +8727,9 @@ P.O. 6 DE DICIEMBRE DE 2016.
 
 P.O. 26 DE DICIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 175. SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 296 DEL CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEÓN".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 175. SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 296 DEL CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEÓN”.]
 
-Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+Único.- EI presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 29 DE MARZO DE 2017.
 
@@ -8775,7 +8777,7 @@ P.O. 28 DE JUNIO DE 2017.
 
 P.O. 28 DE JUNIO DE 2017.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 274. SE REFORMA (SIC) POR MODIFICACIÓN, LOS ARTÍCULOS 305 EN SU SEGUNDO PÁRRAFO Y 318 EN SU SEGUNDO PÁRRAFO, AMBOS DEL CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEÓN".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 274. SE REFORMA (SIC) POR MODIFICACIÓN, LOS ARTÍCULOS 305 EN SU SEGUNDO PÁRRAFO Y 318 EN SU SEGUNDO PÁRRAFO, AMBOS DEL CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto, entrará en Vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
