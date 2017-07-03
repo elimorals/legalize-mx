@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-5052
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-22"
-last_updated: "2016-11-07"
+last_updated: "2017-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 111 POR EL QUE SE EXPIDE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS, PUBLICADO EN EL P.O. DE 3 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 22 de mayo de 2006.
 
@@ -760,3 +762,35 @@ Los asuntos que se encuentren en trámite o pendientes de resolución a la entra
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 Queda derogada cualquier disposición que contravenga los principios, bases, procedimientos y derechos estipulados en el presente Decreto.
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 111.- LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS EN EL ESTADO DE AGUASCALIENTES."]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se Abroga la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado el 22 de mayo de 2006, mediante Decreto Número 169; asimismo, se derogan todas aquellas disposiciones en materia de protección de datos personales, de carácter estatal y municipal, que contravengan lo dispuesto por la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+El ITEA deberá expedir los Reglamentos, lineamientos, parámetros, criterios y demás disposiciones de las diversas materias a que se refiere la presente Ley, a más tardar dentro de los ciento ochenta días naturales siguientes, contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Congreso del Estado de Aguascalientes deberá considerar las previsiones conducentes en razón del presente Decreto, en el Presupuesto de Egreso del Estado de Aguascalientes, correspondiente al Ejercicio Fiscal 2018 y subsecuentes.
+
+###### ARTÍCULO QUINTO.
+
+Los responsables expedirán sus Avisos de Privacidad en los términos previstos en la presente Ley y demás disposiciones aplicables, a más tardar dentro de los ciento ochenta días siguientes de la entrada en vigor de esta Ley.
+
+###### ARTÍCULO SEXTO.
+
+Los responsables deberán observar lo dispuesto en el Capítulo II, del Título Primero de la presente Ley, a más tardar un año después de la entrada en vigor de la misma.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los procedimientos iniciados durante la vigencia de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes se sustanciarán hasta su conclusión conforme al ordenamiento señalado.
