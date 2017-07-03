@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-agua-para-el-estado-de-aguascalientes-17314"
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-24"
-last_updated: "2017-05-22"
+last_updated: "2017-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de julio de 2000.
 
@@ -1601,25 +1601,25 @@ XIII. Quienes se opongan a las visitas de inspección y verificación a que se r
 
 Las infracciones a que se refiere el artículo anterior serán sancionadas administrativamente por el municipio, o el Instituto, a el organismo operador, según corresponda, con multas por el equivalente a:
 
-> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-I. De diez a doscientas veces el salario mínimo diario general vigente en el Estado, tratándose de infracciones señaladas en las Fracciones I, III y VII;
+I. De diez a doscientas veces el valor diario de la unidad de medida y actualización, tratándose de infracciones señaladas en las Fracciones I, III y VII;
 
-> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-II. De diez a trescientas veces el salario mínimo diario general vigente en el Estado, tratándose de infracciones señaladas en las Fracciones II, IV y VI;
+II. De diez a trescientas veces el valor diario de la unidad de medida y actualización, tratándose de infracciones señaladas en las Fracciones II, IV y VI;
 
-> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-III. De diez a cien veces el salario mínimo diario general vigente en el Estado, tratándose de la infracción señalada en la Fracción V;
+III. De diez a cien veces el valor diario de la unidad de medida y actualización, tratándose de la infracción señalada en la Fracción V;
 
-> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-IV. De quinientas a mil veces el salario mínimo diario general vigente en el Estado, tratándose de la infracción señalada en las Fracciones VIII, XI, XII y XIII; y
+IV. De quinientas a mil veces el valor diario de la unidad de medida y actualización, tratándose de la infracción señalada en las Fracciones VIII, XI, XII y XIII; y
 
-> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-V. De mil a dos mil veces el salario mínimo diario general vigente en el Estado, tratándose de la infracción señalada en las Fracciones IX y X.
+V. De mil a dos mil veces el valor diario de la unidad de medida y actualización, tratándose de la infracción señalada en las Fracciones IX y X.
 
 Para sancionar las faltas, se calificarán las infracciones tomando en consideración la gravedad de la misma, los daños causados, las condiciones económicas del infractor y la reincidencia.
 
@@ -1675,19 +1675,31 @@ VIII. No cumplir con lo establecido en el segundo párrafo del Artículo 78;
 
 IX. Cualquier otra infracción a esta Ley o a su reglamento que no esté expresamente prevista en esta Sección.
 
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2017)
+
 ###### ARTICULO 131.
 
 Las infracciones a que se refiere el artículo anterior, serán sancionadas por el Municipio, o en su caso por el Instituto, con multas por el equivalente a:
 
-I. De cien a mil veces el salario mínimo diario general vigente en el Estado, tratándose de la infracción señalada en la fracción III;
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-II. De quinientos a dos mil veces el salario mínimo diario general vigente en el Estado, tratándose de infracciones señaladas en las fracciones I, IV y VIII;
+I. De cien a mil veces el valor diario de la unidad de medida y actualización, tratándose de la infracción señalada en la fracción III;
 
-III. De mil a cuatro mil veces el salario mínimo diario general vigente en el Estado, tratándose de la infracción señalada en la fracción II;
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-IV. De mil a cinco mil veces el salario mínimo diario general vigente en el Estado, tratándose de infracciones señaladas en las fracciones V, VI y VII; y
+II. De quinientos a dos mil veces el valor diario de la unidad de medida y actualización, tratándose de infracciones señaladas en las fracciones I, IV y VIII;
 
-V. De hasta quinientas veces el salario mínimo diario general vigente en el Estado, tratándose de infracciones señaladas en la fracción IX.
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+
+III. De mil a cuatro mil veces el valor diario de la unidad de medida y actualización, tratándose de la infracción señalada en la fracción II;
+
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+
+IV. De mil a cinco mil veces el valor diario de la unidad de medida y actualización, tratándose de infracciones señaladas en las fracciones V, VI y VII; y
+
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+
+V. De hasta quinientas veces el valor diario de la unidad de medida y actualización, tratándose de infracciones señaladas en la fracción IX.
 
 Para sancionar las faltas, se calificarán las infracciones tomando en consideración la gravedad de la misma, los daños causados y la reincidencia.
 
@@ -1814,3 +1826,11 @@ P.O. 22 DE MAYO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
