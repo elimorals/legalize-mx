@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-asociaciones-publico-privadas-y-proyectos-de-96610"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-11"
-last_updated: "2017-02-27"
+last_updated: "2017-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PROYECTOS DE PRESTACIÓN DE SERVICIOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 11 de noviembre de 2013.
 
@@ -317,7 +317,7 @@ VII. Solicitar la autorización del Congreso de las Fracciones anteriores.
 
 ###### ARTÍCULO 26.
 
-En caso de haberse obtenido las aprobaciones indicadas en los Capítulos I y II del Título Cuarto de la Ley, el Administrador del Proyecto integrará la documentación necesaria a fin de que el Titular del Poder Ejecutivo o el Presidente Municipal, remita la solicitud al Congreso y obtener, en su caso, de conformidad con la Fracción XXXIV del Artículo 27 de la Constitución Política del Estado de Aguascalientes, el Decreto de autorización correspondiente para (sic)
+En caso de haberse obtenido las aprobaciones indicadas en los Capítulos I y II del Título Cuarto de la Ley, el Administrador del Proyecto integrará la documentación necesaria a fin de que el Titular del Poder Ejecutivo o el Presidente Municipal, remita la solicitud al Congreso y obtener, en su caso, de conformidad con la Fracción XXXIV del Artículo 27 de la Constitución Política del Estado de Aguascalientes, el Decreto de autorización correspondiente para
 
 I. Realizar el Proyecto;
 
@@ -751,6 +751,8 @@ Dentro de los diez días posteriores a partir de su inscripción en el Registro 
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 59.
 
 La forma y términos en que las autoridades contratantes deberán remitir a la Secretaría de Fiscalización o a las Contralorías Municipales, la información relativa a los actos y los Contratos materia de la Ley, serán establecidos por dichas autoridades, en el ámbito de sus respectivas atribuciones.
@@ -773,7 +775,7 @@ El resultado de la inspección se hará constar en acta que será firmada por la
 
 ###### ARTÍCULO 62.
 
-Quienes infrinjan las disposiciones contenidas en esta Ley, serán sancionados por la Secretaría de Fiscalización o las Contralorías Municipales, con multa equivalente a la cantidad de cincuenta a trescientas veces el salario mínimo general vigente en el Estado elevado al mes, en la fecha de la infracción, independientemente a las indemnizaciones a las que pudiera hacerse acreedor con motivo de la aplicación del contrato y lo establecido en los Códigos Civil y Penal del Estado.
+Quienes infrinjan las disposiciones contenidas en esta Ley, serán sancionados por la Secretaría de Fiscalización o las Contralorías Municipales, con multa equivalente a la cantidad de cincuenta a trescientas veces el valor diario de la unidad de medida y actualización, independientemente a las indemnizaciones a las que pudiera hacerse acreedor con motivo de la aplicación del contrato y lo establecido en los Códigos Civil y Penal del Estado.
 
 ###### ARTÍCULO 63.
 
@@ -811,7 +813,9 @@ II. Los Inversionistas Prestadores que se encuentren en estado de incumplimiento
 
 III. Los Inversionistas Prestadores que no cumplan con sus obligaciones contractuales por causas imputables a ellos, y que, como consecuencia, causen daños o perjuicios graves a las autoridades contratantes; así como, aquellos que presten servicios con especificaciones distintas de las convenidas;
 
-IV. Cuando una inconformidad se resuelva como no favorable al promovente por resultar improcedente y se advierta que se hizo con el único propósito de retrasar y entorpecer la continuación del procedimiento de contratación, se impondrá al promovente, a sus representantes, al abogado, o a quien corresponda, según sea el caso, una multa de doscientos a quinientos días de salario diario mínimo general vigente en el Estado; y
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+
+IV. Cuando una inconformidad se resuelva como no favorable al promovente por resultar improcedente y se advierta que se hizo con el único propósito de retrasar y entorpecer la continuación del procedimiento de contratación, se impondrá al promovente, a sus representantes, al abogado, o a quien corresponda, según sea el caso, una multa de doscientos a quinientas veces el valor diario de la unidad de medida y actualización; y
 
 V. Cuando un Inversionista Prestador reciba de la Secretaría de Fiscalización o de las Contralorías Municipales dos fallos desfavorables del acto impugnado, denuncia o inconformidad.
 
@@ -923,6 +927,8 @@ SEGUNDO SECRETARIO.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 8 de noviembre de 2013.- Carlos Lozano de la Torre.- Rúbrica.- El Jefe de Gabinete, Antonio Javier Aguilera García.- Rúbrica.
 
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
 P.O. 27 DE FEBRERO DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 64.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY DE PRESUPUESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA”.]
@@ -968,3 +974,11 @@ El porcentaje a que hace referencia el Artículo 22 Quáter de la Ley de Presupu
 ###### ARTÍCULO NOVENO.
 
 Se Derogan todas las disposiciones jurídicas que se opongan a lo establecido en el presente Decreto.
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
