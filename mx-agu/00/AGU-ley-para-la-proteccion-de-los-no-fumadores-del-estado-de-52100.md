@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-proteccion-de-los-no-fumadores-del-estado-de-52100"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-30"
-last_updated: "2015-06-15"
+last_updated: "2017-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52100&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA LA PROTECCIÓN DE LOS NO FUMADORES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el 30 de octubre de 2006.
 
@@ -507,9 +507,13 @@ III. Clausura Temporal.
 
 Se sancionarán de conformidad a lo que señalen los Códigos Municipales o Bandos de Policía y Buen Gobierno, las infracciones a lo dispuesto por la presente ley en los siguientes términos:
 
-I. Con multa de diez hasta cien veces el salario mínimo general vigente en el Estado, a las personas que fumen en los lugares que prohíbe el presente ordenamiento;
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-II. Con multa de diez hasta veinte veces el salario mínimo general vigente en el Estado a las personas que:
+I. Con multa de diez hasta cien veces el valor diario de la unidad de medida y actualización, a las personas que fumen en los lugares que prohíbe el presente ordenamiento;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2017)</small>
+
+II. Con multa de diez hasta veinte veces el valor diario de la unidad de medida y actualización a las personas que:
 
 A. Interfieran o se opongan al desahogo de la visita de inspección o verificación;
 
@@ -517,7 +521,9 @@ B. Obstaculicen la imposición del estado de clausura temporal o definitiva del 
 
 C. Con conocimiento del estado de clausura temporal del local o establecimiento que haga caso omiso de la misma y proporcione el servicio al público, en contravención a lo ordenado en la resolución administrativa respectiva.
 
-III. Con multa de cincuenta a cien veces el salario mínimo diario general vigente en el Estado, a los propietarios, poseedores o responsable de los locales cerrados, establecimientos o medios de transporte, que permitan fumar en lugares prohibidos o contravengan lo dispuesto en el Artículo 12 de la presente ley.
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+
+III. Con multa de cincuenta a cien veces el valor diario de la unidad de medida y actualización, a los propietarios, poseedores o responsable de los locales cerrados, establecimientos o medios de transporte, que permitan fumar en lugares prohibidos o contravengan lo dispuesto en el Artículo 12 de la presente ley.
 
 > <small>(REFORMADO, P.O. 30 DE MARZO DE 2009)</small>
 
@@ -531,7 +537,9 @@ En caso de continuar con la reincidencia, independientemente de la clausura, se 
 
 A juicio de la autoridad competente, las sanciones económicas a que se refiere esta Ley, podrán conmutarse total o parcialmente, con la asistencia del infractor a cursos, talleres o su participación en programas permanentes sobre tabaquismo.
 
-Se descontará diez veces el salario mínimo diario general vigente en el Estado, por cada dos horas de asistencia a las actividades antes mencionadas.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+
+Se descontará diez veces el valor diario de la unidad de medida y actualización, por cada dos horas de asistencia a las actividades antes mencionadas.
 
 La autoridad, tratándose de la aplicación de sanciones económicas a personas fumadoras infractoras de la presente Ley, se ajustará a lo previsto por el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -630,3 +638,11 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Dentro de los ciento veinte días naturales siguientes al inicio de vigencia del presente Decreto, se deberán realizar las adecuaciones reglamentarias conducentes, a fin de utilizar el término de “personas con discapacidad”.
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
