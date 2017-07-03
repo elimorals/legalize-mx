@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-jesus-maria-aguascalientes-723
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-25"
-last_updated: "2017-06-05"
+last_updated: "2017-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE JESÚS MARÍA, AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de enero de 2010.
 
@@ -381,7 +381,9 @@ D) Se recabe de los servidores públicos y de los federativos, los informes y da
 
 E) Emplear cualquiera de los siguientes medios de apremio, que juzgue eficaz, para hacer cumplir sus determinaciones:
 
-1. La multa de 1 a 30 días de salario mínimo general vigente, la cual se aumentará hasta 50 en caso de reincidencia;
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+
+1. La multa de 1 a 30 veces el valor diario de la unidad de medida y actualización, la cual se aumentará hasta 50 veces en caso de reincidencia;
 
 2. El auxilio de la fuerza pública.
 
@@ -863,9 +865,11 @@ VII. No permitir u obstaculizar la práctica de inspecciones a los inmuebles, va
 
 VIII. No cubrir los requisitos exigidos por los distintos ordenamientos fiscales municipales.
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 73.
 
-La comisión de las infracciones señaladas en el Artículo anterior, se sancionará con una multa de 5 a 40 veces el salario mínimo general diario vigente en el Estado de Aguascalientes, a la fecha de que se trate.
+La comisión de las infracciones señaladas en el Artículo anterior, se sancionará con una multa de 5 a 40 veces el valor diario de la unidad de medida y actualización, a la fecha de que se trate.
 
 ###### ARTÍCULO 74.
 
@@ -885,9 +889,11 @@ VI. Faltar a la obligación de guardar secreto respecto de los asuntos que conoz
 
 VII. Exigir o recibir bajo el título de cooperación o colaboración u otro semejante, cualquier prestación que no esté expresamente prevista en esta Ley, aun cuando se aplique a la realización de las funciones propias de su cargo.
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 75.
 
-La comisión de las infracciones señaladas en el Artículo anterior, se sancionará con una multa de 10 a 50 veces el salario mínimo general diario vigente en el Estado de Aguascalientes, a la fecha de que se trate.
+La comisión de las infracciones señaladas en el Artículo anterior, se sancionará con una multa de 10 a 50 veces el valor diario de la unidad de medida y actualización, a la fecha de que se trate.
 
 ###### ARTÍCULO 76.
 
@@ -911,9 +917,11 @@ VIII. No enterar oportunamente las cantidades que para el pago de créditos fisc
 
 IX. Resistirse por cualquier medio a las visitas domiciliarias o auditorías, no mostrar los datos o informes que legalmente puedan exigir los inspectores o auditores, no mostrarles los libros, documentos, registros y, en general, los elementos necesarios para la práctica de la visita.
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 77.
 
-La comisión de las infracciones señaladas en el Artículo anterior, se sancionará con una multa de 10 a 50 veces el salario mínimo general diario vigente en el Estado de Aguascalientes, a la fecha de que se trate.
+La comisión de las infracciones señaladas en el Artículo anterior, se sancionará con una multa de 10 a 50 veces el valor diario de la unidad de medida y actualización, a la fecha de que se trate.
 
 ###### ARTÍCULO 78.
 
@@ -923,9 +931,11 @@ I. Colaborar a la alteración, inscripción de cuentas, asientos o datos falsos 
 
 II. Ser cómplice en cualquier forma, en la comisión de infracciones fiscales municipales.
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 79.
 
-La comisión de las infracciones señaladas en el Artículo anterior, se sancionará con una multa de 5 a 30 veces el salario mínimo general diario vigente en el Estado de Aguascalientes, a la fecha de que se trate.
+La comisión de las infracciones señaladas en el Artículo anterior, se sancionará con una multa de 5 a 30 veces el valor diario de la unidad de medida y actualización, a la fecha de que se trate.
 
 ###### ARTÍCULO 80.
 
@@ -963,9 +973,11 @@ Cuando la notificación se efectúe personalmente y el notificador no encuentre 
 
 Tratándose de actos relativos al procedimiento administrativo de ejecución, el citatorio será siempre para la espera antes señalada y, si la persona citada o su representante legal no esperaren, se practicará la diligencia con quien se encuentre en el domicilio o en su defecto con un vecino. En caso de que estos últimos se negasen a recibir la notificación, ésta se hará por medio de instructivo que se fijará en lugar visible de dicho domicilio, debiendo el notificador asentar razón de tal circunstancia para dar cuenta a la Dirección de Finanzas del Municipio.
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 84.
 
-Cuando se deje sin efectos una notificación practicada ilegalmente, se impondrá al notificador una multa de 3 a 5 veces el salario mínimo general diario vigente en el Estado de Aguascalientes, que corresponda.
+Cuando se deje sin efectos una notificación practicada ilegalmente, se impondrá al notificador una multa de 3 a 5 veces el valor diario de la unidad de medida y actualización, que corresponda.
 
 ###### ARTÍCULO 85.
 
@@ -2414,3 +2426,11 @@ P.O. 5 DE JUNIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
