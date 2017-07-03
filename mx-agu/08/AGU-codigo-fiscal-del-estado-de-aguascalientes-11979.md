@@ -4,7 +4,7 @@ identifier: "AGU-codigo-fiscal-del-estado-de-aguascalientes-11979"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "2015-12-31"
+last_updated: "2017-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11979&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "AGU"
 
 CÓDIGO FISCAL DEL ESTADO DE AGUASCALIENTES
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2014, LAS REFERENCIAS A LA SALA ADMINISTRATIVA, SE ENTENDERÁN HECHAS A LA SALA ADMINISTRATIVA Y ELECTORAL.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Aguascalientes, el jueves 31 de diciembre de 1981.
 
@@ -1577,11 +1575,13 @@ III.- Efectúe la elaboración empleando materias primas distintas de las manife
 
 IV.- Se dedique al ejercicio del comercio por más de dos meses sin cumplir con los requisitos que para iniciar esas operaciones establezcan las leyes fiscales.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 85.
 
-Se impondrá sanción de tres meses a seis años de prisión, al depositario o interventor designado por las autoridades fiscales que, con perjuicio del fisco del Estado, disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto no excede de un monto superior a ocho mil veces el salario mínimo general diario vigente en el Estado; cuando exceda, la sanción será de tres a nueve años de prisión.
+Se impondrá sanción de tres meses a seis años de prisión, al depositario o interventor designado por las autoridades fiscales que, con perjuicio del fisco del Estado, disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto no excede de un monto superior a ocho mil veces el valor diario de la unidad de medida y actualización; cuando exceda, la sanción será de tres a nueve años de prisión.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 Igual sanción, de acuerdo al valor de dichos bienes, se aplicará al depositario que los oculte o no los ponga a disposición de la autoridad competente.
 
@@ -1673,7 +1673,7 @@ Los funcionarios y empleados públicos, que en ejercicio de sus funciones conozc
 
 ###### ARTICULO 94.
 
-El personal que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias está obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes, o por terceros con ellos relacionados. Dicha reserva no comprenderá los casos que señalen las disposiciones fiscales y aquellos en que deban suministrarse datos a los funcionarios encargados de la administración y defensa de los intereses fiscales del Estado, a las autoridades judiciales en procesos del orden penal, o a los tribunales competentes que conozcan de pensiones alimenticias, o en el supuesto previsto en el artículo95, segundo párrafo de este Código.
+El personal que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias está obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes, o por terceros con ellos relacionados. Dicha reserva no comprenderá los casos que señalen las disposiciones fiscales y aquellos en que deban suministrarse datos a los funcionarios encargados de la administración y defensa de los intereses fiscales del Estado, a las autoridades judiciales en procesos del orden penal, o a los tribunales competentes que conozcan de pensiones alimenticias, o en el supuesto previsto en el artículo 95, segundo párrafo de este Código.
 
 ###### ARTICULO 95.
 
@@ -1829,7 +1829,7 @@ Las promociones deberán presentarse preferentemente en las formas que al efecto
 
 I.- Constar por escrito.
 
-II.- El nombre, la denominación o razón social y el domicilio fiscal manifestado ante el Padrón de Contribuyentes del Estado. Se deberá acompañar el documento con el que se acredite el carácter de representante legal de la persona que firme el escrito, conforme a (sic) lo establece el artículo 99 de este Código.
+II.- El nombre, la denominación o razón social y el domicilio fiscal manifestado ante el Padrón de Contribuyentes del Estado. Se deberá acompañar el documento con el que se acredite el carácter de representante legal de la persona que firme el escrito, conforme a lo establece el artículo 99 de este Código.
 
 III.- Señalar la autoridad a la que se dirige el propósito de la promoción.
 
@@ -3910,3 +3910,11 @@ P.O. 31 DE DICIEMBRE DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
