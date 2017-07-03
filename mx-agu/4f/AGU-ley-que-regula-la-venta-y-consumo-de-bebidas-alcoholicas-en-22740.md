@@ -4,7 +4,7 @@ identifier: "AGU-ley-que-regula-la-venta-y-consumo-de-bebidas-alcoholicas-en-227
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-26"
-last_updated: "2001-11-26"
+last_updated: "2017-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY QUE REGULA LA VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el 26 de noviembre de 2001.
 
@@ -389,21 +389,27 @@ VIII.- Cancelación de la licencia, permiso, autorización o empadronamiento mun
 
 Las sanciones señaladas en el artículo anterior no constituyen obligación de la autoridad para aplicarla en forma progresiva, éstas se impondrán sin respetar orden alguno y atendiendo a la gravedad de la falta.
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+
 ###### ARTICULO 36.
 
-Cuando el infractor demuestre fehacientemente ser jornalero, obrero, trabajador no asalariado o pensionado, la multa no excederá de un día de salario mínimo general vigente en el Estado.
+Cuando el infractor demuestre fehacientemente ser jornalero, obrero, trabajador no asalariado o pensionado, la multa no excederá de una vez el valor diario de la unidad de medida y actualización.
 
 ###### ARTICULO 37.
 
 A los establecimientos que vendan bebidas alcohólicas se les impondrá:
 
-I.- Sanción de uno a cinco días de salario mínimo general vigente en el Estado por:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2017)</small>
+
+I.- Sanción de uno a cinco veces el valor diario de la unidad de medida y actualización por:
 
 a) No exhibir en un lugar visible la licencia de funcionamiento, así como el permiso o comprobante de pago para la venta de bebidas alcohólicas o similares; y
 
 b) Funcionar sin revalidar su licencia anual o permiso correspondiente;
 
-II.- Sanción de seis a treinta veces de salario mínimo general vigente en el Estado por:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2017)</small>
+
+II.- Sanción de seis a treinta veces el valor diario de la unidad de medida y actualización por:
 
 a) Permitir que en el interior de sus establecimientos comerciales y de servicios se fijen leyendas, anuncios impresos o propaganda que sean atentatorias a la moral o a las buenas costumbres;
 
@@ -411,7 +417,9 @@ b) Permitir el consumo de bebidas alcohólicas dentro del establecimiento, trat�
 
 c) No tener a la vista del público las tarifas de precios de los servicios que se proporcionen;
 
-III.- Sanción de diez a ciento cincuenta veces de salario mínimo general vigente en el Estado por:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2017)</small>
+
+III.- Sanción de diez a ciento cincuenta veces el valor diario de la unidad de medida y actualización por:
 
 a) Permitir el acceso a menores de edad a diversiones o espectáculos sólo para mayores de edad, tales como: centros nocturnos, bares, cabarets, discotecas, billares, cines, teatros y similares;
 
@@ -423,7 +431,9 @@ d) Expendios de vino que permanezcan operando al público después del horario e
 
 e) Expendios que operen sin la licencia debidamente revalidada, y realicen actividad diversa a la permitida o cambiar de domicilio sin previa autorización;
 
-IV. Sanción de veinte a setecientas cincuenta veces de salario mínimo general vigente por:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2017)</small>
+
+IV. Sanción de veinte a setecientas cincuenta veces el valor diario de la unidad de medida y actualización por:
 
 a) Operar restaurantes, bares, billares, loncherías, centros nocturnos y en general todo tipo de comercio o establecimiento que venda bebidas alcohólicas al público que operen sin tener licencia debidamente reglamentada;
 
@@ -596,3 +606,13 @@ Felipe González González.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
