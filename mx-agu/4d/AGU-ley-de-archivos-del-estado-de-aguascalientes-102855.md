@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-archivos-del-estado-de-aguascalientes-102855"
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-29"
-last_updated: "2014-09-29"
+last_updated: "2017-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ARCHIVOS DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes el lunes 29 de septiembre de 2014.
 
@@ -565,9 +565,11 @@ La depuración documental se deberá hacer de acuerdo a los Lineamientos que par
 
 Los servidores públicos que incumplan cualquiera de las disposiciones establecidas en esta Ley, realicen un acto u omisión que provoque daño a los archivos que forman parte del Sistema o se lo permitan a un tercero, serán sancionados en términos de lo previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, sin perjuicio de la responsabilidad penal o civil en que puedan incurrir.
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+
 ###### Artículo 54.
 
-Los particulares incurrirán en infracción a la presente Ley, cuando por cualquier motivo y sin derecho sustraigan, destruyan o alteren los documentos de Archivos Administrativos o Archivos Históricos, por lo que se harán acreedores a una multa que va desde cinco hasta trescientos días de salario mínimo general vigente en el Estado al momento de cometerse la falta, sin perjuicio de la responsabilidad penal o civil en que puedan incurrir.
+Los particulares incurrirán en infracción a la presente Ley, cuando por cualquier motivo y sin derecho sustraigan, destruyan o alteren los documentos de Archivos Administrativos o Archivos Históricos, por lo que se harán acreedores a una multa que va desde cinco hasta trescientas veces el valor diario de la unidad de medida y actualización, sin perjuicio de la responsabilidad penal o civil en que puedan incurrir.
 
 ###### Artículo 55.
 
@@ -628,3 +630,13 @@ Dip. Salvador Dávila Montoya,
 SEGUNDO SECRETARIO
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 29 de septiembre de 2014.- Carlos Lozano de la Torre.- Rúbrica.- El Jefe de Gabinete, Antonio Javier Aguilera García.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
