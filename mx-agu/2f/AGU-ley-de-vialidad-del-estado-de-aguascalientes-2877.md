@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-vialidad-del-estado-de-aguascalientes-2877"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-29"
-last_updated: "2017-05-15"
+last_updated: "2017-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE VIALIDAD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Ley publicada en el Suplemento a la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994.
 
@@ -2405,11 +2405,11 @@ Los Municipios, en el ámbito de su competencia, fijarán los procedimientos y m
 
 La determinación del monto de la multa que corresponda a cada tipo de infracción cometida, se establecerá en las leyes de ingresos de cada uno de los municipios del Estado, en su caso, atendiendo al tipo de vehículo y a la clasificación de las infracciones establecidas en términos de la presente ley.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 155.
 
-Para establecer el monto de las multas a que se refiere esta Ley, se tomará como unidad en moneda nacional el importe del Salario Diario Mínimo General Vigente (S. D. M. G. V.) en el Estado en la fecha en que se cometa la infracción.
+Para establecer el monto de las multas a que se refiere esta Ley, se tomará como unidad en moneda nacional, el importe del valor diario de la unidad de medida y actualización.
 
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
@@ -2825,11 +2825,9 @@ a) Todo tipo de vehículo:
 
 V.- Quien obstruya o se estacione en bahías, rampas o espacios para uso exclusivo de personas con discapacidad, el infractor se hará acreedor a la multa que se determine en la Ley de Ingresos del Municipio que corresponda.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
-> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2008)</small>
-
-Las demás infracciones a la presente Ley, serán sancionadas de acuerdo con la falta cometida, con multa de uno a veinte días de salario mínimo general vigente en el Estado.
+Las demás infracciones a la presente Ley, serán sancionadas de acuerdo con la falta cometida, con multa de una a veinte veces el valor diario de la unidad de medida y actualización.
 
 ###### ARTICULO 158.
 
@@ -3210,3 +3208,11 @@ Aquellos Ayuntamientos que deseen implementar el uso de terminales electrónicas
 ###### ARTÍCULO TERCERO.
 
 En su caso, el Poder Ejecutivo Estatal y los ayuntamientos deberán disponer lo necesario para que los agentes autorizados puedan utilizarlas (sic) terminales electrónicas móviles y la contratación del servicio de las terminales electrónicas móviles serán contratadas como lo señala la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes y sus Municipios.
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
