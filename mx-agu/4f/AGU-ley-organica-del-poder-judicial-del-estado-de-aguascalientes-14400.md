@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-judicial-del-estado-de-aguascalientes-14
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-08-15"
-last_updated: "2017-05-08"
+last_updated: "2017-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Ley publicada en el Suplemento al No. 33 del Periódico Oficial del Estado de Aguascalientes, el domingo 15 de agosto de 1993.
 
@@ -183,7 +183,9 @@ XVII.- Recibir las quejas e informes sobre excesos o faltas en que incurran los 
 
 XVIII.- Registrar en el libro correspondiente los oficios que envíen los Notarios Públicos al Supremo Tribunal de Justicia, en cumplimiento de lo ordenado por el Artículo 93 de la Ley del Notariado;
 
-XIX.- Castigar económicamente con extrañamiento, multa hasta por cincuenta días de salario mínimo o con suspensión de empleo hasta por quince días, a los Jueces, Secretarios y demás empleados del Ramo, por faltas que cometieren en el desempeño de sus funciones y por aquellos actos que redunden en desprestigio del Poder Judicial, siempre que no importen la comisión de un delito; previa audiencia de parte;
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+
+XIX.- Castigar económicamente con extrañamiento, multa hasta por cincuenta veces el valor diario de la unidad de medida y actualización o con suspensión de empleo hasta por quince días, a los Jueces, Secretarios y demás empleados del Ramo, por faltas que cometieren en el desempeño de sus funciones y por aquellos actos que redunden en desprestigio del Poder Judicial, siempre que no importen la comisión de un delito; previa audiencia de parte;
 
 XX.- Conceder licencia a los Magistrados que no excedan de treinta días;
 
@@ -195,13 +197,9 @@ XXII.- Conocer y resolver las controversias que se susciten entre los miembros d
 
 XXIII.- Ejercitar las demás facultades que le confieren las Leyes;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 8 DE JUNIO DE 2015)</small>
 
 XXIV.- Aprobar el presupuesto anual de egresos del Poder Judicial; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 8 DE JUNIO DE 2015)</small>
 
@@ -2558,3 +2556,11 @@ La sesión de instalación del Comité Coordinador del Sistema Estatal Anticorru
 La Secretaría Ejecutiva deberá iniciar sus operaciones, a más tardar a los treinta días naturales siguientes a la sesión de instalación del Comité Coordinador del Sistema Estatal Anticorrupción.
 
 Para tal efecto, el Ejecutivo Estatal y el Congreso del Estado proveerán los recursos humanos, financieros y materiales correspondientes en términos de las disposiciones aplicables.
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
