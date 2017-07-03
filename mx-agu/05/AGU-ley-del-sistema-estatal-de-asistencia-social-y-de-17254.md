@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-asistencia-social-y-de-17254"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-10"
-last_updated: "2016-01-25"
+last_updated: "2017-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,73 +21,41 @@ state: "AGU"
 ---
 # LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACION FAMILIAR, DEL ESTADO DE AGUASCALIENTES
 
-ACUERDO GENERAL 35/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACION, RESIDENCIA, COMPETENCIA, JURISDICCION TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONAMIENTO DEL DECIMOSEXTO TRIBUNAL COLEGIADO EN MATERIA ADMINISTRATIVA DEL PRIMER CIRCUITO; ASI COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCION Y DISTRIBUCION DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS DE LA MATERIA Y CIRCUITO INDICADOS
+LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACIÓN FAMILIAR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 19 de junio de 2006.
+Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de abril de 2000.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
+FELIPE GONZALEZ GONZALEZ, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes, sabed:
 
-ACUERDO GENERAL 35/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACION, RESIDENCIA, COMPETENCIA, JURISDICCION TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONAMIENTO DEL DECIMOSEXTO TRIBUNAL COLEGIADO EN MATERIA ADMINISTRATIVA DEL PRIMER CIRCUITO; ASI COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCION Y DISTRIBUCION DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS DE LA MATERIA Y CIRCUITO INDICADOS.
+Que por el H. Congreso del Estado, se me ha comunicado lo siguiente:
 
-CONSIDERANDO
+El H. Congreso del Estado en sesión extraordinaria celebrada hoy, tuvo a bien expedir el siguiente Decreto:
 
-PRIMERO.- En términos de lo dispuesto por los artículos 94, párrafo segundo; 100, párrafos primero y octavo, de la Constitución Política de los Estados Unidos Mexicanos; 68 y 81, fracción II, de la Ley Orgánica del Poder Judicial de la Federación, el Consejo de la Judicatura Federal es el órgano encargado de la administración, vigilancia y disciplina del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral; con independencia técnica, de gestión y para emitir sus resoluciones; además, está facultado para expedir acuerdos generales que permitan el adecuado ejercicio de sus funciones;
+"NUMERO 102
 
-SEGUNDO.- El artículo 17 de la Constitución Federal establece que toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes;
+La H. LVII Legislatura del Estado Libre y Soberano de Aguascalientes, en uso de las facultades que le conceden los Artículos 27, fracción I, 32 y 35 de la Constitución Política Local, en nombre del pueblo, decreta:
 
-TERCERO.- El artículo 94, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos y los artículos 81, fracciones IV, V y XXIV; y 144 de la Ley Orgánica del Poder Judicial de la Federación, establecen que son atribuciones del Consejo de la Judicatura Federal determinar el número y límites territoriales y, en su caso, la especialización por materia de los tribunales colegiados, en cada uno de los Circuitos en que se divide el territorio de la República Mexicana, así como dictar las disposiciones necesarias para regular el turno de los asuntos de la competencia de los tribunales de Circuito, cuando en un mismo lugar haya varios de ellos; atribución, esta última, que ejerce a través de la Comisión de Creación de Nuevos Organos, en términos del artículo 65, fracción III, del Acuerdo General 48/1998, del Pleno del propio Consejo;
-
-CUARTO.- A fin de dar cumplimiento al artículo 17 de la Constitución General de la República, el Pleno del Consejo de la Judicatura Federal, en sesión de veintiocho de febrero de dos mil seis, aprobó la creación del Decimosexto Tribunal Colegiado en Materia Administrativa del Primer Circuito;
-
-QUINTO.- De acuerdo con la información proporcionada por la Secretaría Ejecutiva de Obra, Recursos Materiales y Servicios Generales del Consejo de la Judicatura Federal, en la actualidad se cuenta con la infraestructura física para la instalación de dicho tribunal colegiado, lo cual hace necesario determinar los aspectos inherentes al inicio de su funcionamiento.
-
-En consecuencia, con fundamento en las disposiciones constitucionales y legales citadas, el Pleno del Consejo de la Judicatura Federal expide el siguiente
-
-ACUERDO
-
-PRIMERO.- El nuevo órgano jurisdiccional se denominará Decimosexto Tribunal Colegiado en Materia Administrativa del Primer Circuito, y tendrá igual residencia, competencia y jurisdicción territorial que los tribunales colegiados de la misma materia y Circuito, que actualmente funcionan en el Distrito Federal.
-
-SEGUNDO.- El Decimosexto Tribunal Colegiado en Materia Administrativa del Primer Circuito iniciará funciones el uno de agosto de dos mil seis, con la plantilla autorizada a ese órgano jurisdiccional.
-
-Su domicilio será el ubicado en Boulevard Adolfo López Mateos número 2321, colonia Tlacopac, San Angel, Delegación Alvaro Obregón, código postal 01760, México, Distrito Federal.
-
-TERCERO.- Los actuales tribunales colegiados del Primer Circuito conservarán la denominación, competencia, sede y jurisdicción territorial que tienen asignadas.
-
-CUARTO.- Desde la fecha señalada en el punto segundo precedente, la Oficina de Correspondencia Común de los Tribunales Colegiados en Materia Administrativa del Primer Circuito, lo será también del nuevo órgano jurisdiccional.
-
-A partir del uno al trece de agosto de dos mil seis, los asuntos nuevos que se presenten en la Oficina de Correspondencia Común de los Tribunales Colegiados en Materia Administrativa del Primer Circuito se distribuirán, conforme al sistema computarizado que se utiliza para esos efectos, entre los tribunales colegiados primero, segundo, tercero, cuarto, quinto, sexto, séptimo, noveno, décimo, decimotercero, decimoquinto y decimosexto, todos en materia administrativa del propio Circuito; con excepción de aquellos asuntos que tengan relación con los que se encuentran en alguno de los tribunales colegiados en materia administrativa actualmente en funciones en el Circuito y sede mencionados, en cuyo caso se turnarán al respectivo órgano jurisdiccional, con el propósito de evitar el pronunciamiento de resoluciones contradictorias, conforme a lo dispuesto en el Acuerdo General 23/2002 del Pleno del Consejo de la Judicatura Federal.
-
-Los tribunales colegiados octavo, decimoprimero, decimosegundo y decimocuarto en materia administrativa del Primer Circuito, quedarán excluidos del turno durante el periodo que comprende del uno al trece de agosto de dos mil seis.
-
-A partir del día siguiente al en que concluya el lapso establecido en el párrafo anterior, los órganos jurisdiccionales excluidos se incorporarán al turno de nuevos asuntos, conforme al sistema computarizado que se utiliza para esos efectos.
-
-QUINTO.- Al finalizar el período de exclusión otorgado en el tercer párrafo del punto cuarto precedente, los presidentes de los tribunales colegiados octavo, decimoprimero, decimosegundo y decimocuarto en materia administrativa del Primer Circuito, deberán informar a la Comisión de Creación de Nuevos Organos sobre la productividad obtenida.
-
-SEXTO.- Se modifica el Acuerdo General 23/2001 del Pleno del Consejo de la Judicatura Federal, de dieciséis de abril de dos mil uno, en el punto SEGUNDO, apartado I.- PRIMER CIRCUITO, número 1, para quedar como sigue:
-
-"SEGUNDO.- ...
-
-I.- PRIMER CIRCUITO:
-
-1.- Cincuenta y cinco tribunales colegiados especializados: diez en materia penal, dieciséis en materia administrativa, catorce en materia civil y quince en materia de trabajo, todos con residencia en el Distrito Federal.”
-
-SEPTIMO.- El Pleno y las Comisiones de Creación de Nuevos Organos y de Administración del Consejo de la Judicatura Federal, en el ámbito de sus respectivas competencias, resolverán cualquier cuestión administrativa que pudiera suscitarse con motivo de la aplicación del presente acuerdo.
+LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACION FAMILIAR
 
 ## TITULO PRIMERO. DE LA ASISTENCIA PUBLICA
 
 ### CAPITULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2016)</small>
+
 ###### ARTICULO 1o.
 
-Las disposiciones de la presente Ley son de orden público e interés social y tienen por objeto crear y establecer las bases y procedimientos de un Sistema Estatal de Asistencia Social, que promueve la prestación de los servicios de asistencia social, que establece la Ley Estatal de Salud y coordine el acceso de los mismos, así como la concurrencia y colaboración del Gobierno Federal, Gobierno Estatal y Municipal, y la participación de los sectores social y privado, según la competencia que establezca la Ley General de Salud y la Ley sobre el Sistema Nacional de Asistencia Social.
+Las disposiciones de la presente Ley son de orden público e interés social y tienen por objeto crear y establecer las bases y procedimientos de un Sistema Estatal de Asistencia Social, que promueve la prestación de los servicios de asistencia social, que establece la Ley Estatal de Salud y coordine el acceso de los mismos, así como la concurrencia y colaboración del Gobierno Federal, Gobierno Estatal y Municipal, y la participación de los sectores social y privado, según la competencia que establezca la Ley General de Salud y la Ley de Asistencia Social.
 
 ###### ARTICULO 2o.
 
 El Gobierno del Estado en forma prioritaria proporcionará servicios de asistencia social, encaminados al desarrollo integral de la familia y apoyará en su formación, subsistencia y desarrollo a individuos con carencias familiares esenciales, no superables en forma autónoma por ellos.
 
-Para los efectos de lo mencionado en el párrafo anterior, el Gobierno del Estado procurará proporcionar a los beneficiarios de esta Ley los servicios básicos en materia de asistencia social de acuerdo a los recursos disponibles, para lo cual deberá observar la normatividad técnica que emita la Secretaría de Salud y por el Instituto de Salud del Estado de Aguascalientes, en el ámbito de sus respectivas competencias.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2016)</small>
+
+Para los efectos de lo mencionado en el párrafo anterior, el Gobierno del Estado procurará proporcionar a los beneficiarios de esta Ley los servicios básicos en materia de asistencia social de acuerdo a los recursos disponibles, para lo cual deberá observar la normatividad técnica que emita la Secretaría de Salud del Gobierno Federal y por la Secretaría de Salud del Estado de Aguascalientes, en el ámbito de sus respectivas competencias.
 
 > <small>(REFORMADO, P.O. 27 DE ABRIL DE 2009)</small>
 
@@ -103,19 +71,25 @@ I.- La Familia, considerándola como parte fundamental de la sociedad;
 
 II.- Menores en estado de abandono, desamparo, desnutrición o personas maltratadas;
 
-III.- Menores infractores en lo referente a su atención integral y reintegración a la familia y a la sociedad, sin menoscabo de lo que establezca la legislación penal o reglamentos aplicables;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+III.- Adolescentes a quienes se atribuya la comisión de un hecho punible, en lo referente a su atención integral y reintegración a la familia y a la sociedad, sin menoscabo de lo que establezcan las disposiciones del sistema de justicia para adolescentes o los reglamentos aplicables;
 
 IV.- Menores sujetos a patria potestad o tutela; cuando se esté llevando a cabo un juicio de naturaleza familiar;
 
-V.- Alcohólicos, farmacodependientes y enfermos mentales;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
-VI.- Mujeres en períodos de gestación o lactancia;
+V.- Alcohólicos, farmacodependientes, enfermos terminales y enfermos mentales, así como sus dependientes menores de edad;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+VI.- Mujeres en períodos de gestación o lactancia y las madres adolescentes;
 
 VII.- Personas con discapacidad por causa de ceguera, debilidad visual, sordera, mudez, alteraciones de sistema neuro-músculo-esquelético, deficiencias mentales, problemas de lenguaje u otras deficiencias;
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
-VIII.- Personas Adultas Mayores, con incapacidad, marginados o sujetos a maltrato;
+VIII.- Personas Adultas Mayores, con incapacidad, marginados, sujetos a maltrato o que tengan bajo su custodia a menores de 18 años;
 
 IX.- Indigentes;
 
@@ -135,9 +109,9 @@ XIV.- Habitantes del medio rural o urbano marginados, que carezcan de lo indispe
 
 XV.- Personas afectadas por desastre o siniestro;
 
-> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2009)</small>
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
-XVI.- Las madres o padres solteros, que tengan conferida la custodia, que sean jefes de familia, que carezcan de empleo, ingresos fijos o bienes suficientes para garantizar su supervivencia, y que sus hijos sean menores de 12 años; y
+XVI.- Las madres o padres solteros, que tengan conferida la custodia, que sean jefes de familia, que carezcan de empleo, ingresos fijos o bienes suficientes para garantizar su supervivencia, y que sus hijos sean menores de 18 años; y
 
 > <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2009)</small>
 
@@ -153,9 +127,11 @@ En el caso de la Fracción XVI del presente Artículo, los servicios de asistenc
 
 El Gobierno del Estado podrá participar en la prestación de servicios de asistencia social de competencia Federal o Municipal, siempre y cuando se convenga para ello.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2016)</small>
+
 ###### ARTICULO 6o.
 
-De acuerdo a lo dispuesto en la Ley General de Salud, corresponde al Instituto de Salud del Estado de Aguascalientes, como autoridad local, en materia de salubridad general, organizar, operar, supervisar y evaluar la prestación de los servicios de salud en materia de asistencia social, dentro de la jurisdicción territorial y con base a las normas técnicas que al efecto establezca la Secretaría de Salud.
+De acuerdo a lo dispuesto en la Ley General de Salud, corresponde a la Secretaría de Salud del Estado de Aguascalientes, como autoridad local, en materia de salubridad general, organizar, operar, supervisar y evaluar la prestación de los servicios de salud en materia de asistencia social, dentro de la jurisdicción territorial y con base a las normas técnicas que al efecto establezca la Secretaría de Salud del Gobierno Federal.
 
 ###### ARTICULO 7o.
 
@@ -165,7 +141,9 @@ Los servicios de salud, en materia de asistencia social, que presten el Estado, 
 
 Se entiende por Servicios Básicos de Salud de Atención Local en materia de Asistencia Social a las no reservadas a la Federación o a la acción coordinada de ésta con la Entidad.
 
-La operación de Servicios Básicos de Salud de Atención Local en materia de Asistencia Social se sujetará a la normatividad técnica que emita la Secretaría de Salud y el Instituto de Salud del Estado de Aguascalientes, en el ámbito de sus respectivas competencias.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2016)</small>
+
+La operación de Servicios Básicos de Salud de Atención Local en materia de Asistencia Social se sujetará a la normatividad técnica que emita la Secretaría de Salud del Gobierno Federal y la Secretaría de Salud del Estado de Aguascalientes, en el ámbito de sus respectivas competencias.
 
 ###### ARTICULO 9o.
 
@@ -205,7 +183,9 @@ VII.- Coordinar a través de los acuerdos respectivos con los Municipios, la pre
 
 VIII.- Concertar acciones con los sectores social y privado, mediante convenios y contratos en los que se regulen la prestación y promoción de los servicios de la salud en materia de asistencia social, con la participación que corresponda a las dependencias o entidades del Gobierno Federal, del Estado y de los Municipios;
 
-IX.- Coordinar, evaluar y dar seguimiento a los servicios de salud que en materia de asistencia social presten las instituciones de seguridad social, federales cuando así se convenie (sic), o del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+IX.- Coordinar, evaluar y dar seguimiento a los servicios de salud que en materia de asistencia social presten las instituciones de seguridad social, federales cuando así se convenga, o del Gobierno del Estado;
 
 X.- Realizar investigaciones sobre las causas y efectos de los problemas prioritarios de las personas y familias más vulnerables; y
 
@@ -407,11 +387,15 @@ IV.- Las aportaciones, donaciones, legados y demás liberalidades que reciba de 
 
 V.- Los rendimientos, recuperaciones, bienes, derechos y demás ingresos que le generen sus inversiones, bienes y operaciones;
 
-VI.- Las concesiones, permisos, licencias y autorizaciones que se le otorguen conforme a la Ley;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+VI.- Las concesiones, permisos, licencias y autorizaciones que se le otorguen conforme a la Ley; y
 
 VII.- En general, los demás bienes, derechos e ingresos que obtengan por cualquier título.
 
-El Organismo estará exento de todos los impuestos, derechos y obligaciones fiscales locales; y
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2016)</small>
+
+El Organismo estará exento de todos los impuestos, derechos y obligaciones fiscales locales.
 
 ###### ARTICULO 22.
 
@@ -429,7 +413,9 @@ IV.- Un Comisario Público, que será el órgano de vigilancia del organismo.
 
 El Consejo Directivo del Organismo estará integrado por los titulares de las siguientes dependencias:
 
-I.- Instituto de Salud del Estado;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+I.- Secretaría de Salud del Estado;
 
 II.- Instituto de Educación del Estado;
 
@@ -441,7 +427,9 @@ IV.- Secretaría de Finanzas del Estado;
 
 V.- Secretaría General de Gobierno del Estado;
 
-VI.- Secretaría de Desarrollo Social; y
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+VI.- Secretaría de Bienestar y Desarrollo Social; y
 
 VII.- Ayuntamiento del Municipio de la Capital.
 
@@ -515,7 +503,9 @@ I.- Emitir opinión y recomendaciones sobre los planes de labores, presupuestos,
 
 II.- Apoyar las actividades del Organismo y formular sugerencias tendientes a su mejor desempeño;
 
-III.- Contribuir a la obtención de recursos que permitan el incremento del patrimonio del Organismos (sic) y el cumplimiento de su objeto; y
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+III.- Contribuir a la obtención de recursos que permitan el incremento del patrimonio del Organismo y el cumplimiento de su objeto; y
 
 IV.- Designar a su Presidente y el Secretario de sesiones.
 
@@ -709,9 +699,13 @@ IV.- Operar y coordinar las unidades de atención de esta materia y vigilar que 
 
 V.- Proponer al Instituto de Educación de Aguascalientes el desarrollo dentro de la currícula escolar, programas educativos en los distintos niveles de educación básica, la prevención de la violencia intrafamiliar o institucional;
 
-VI.- Promover conferencias de orientación y sensibilización en cada una de las instituciones públicas y privadas a fin de estimular respeto a los derecho (sic) de las personas, la convivencia familiar y la denuncia de violencia intrafamiliar o institucional;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
-VII.- Llevar a cabo programas de sensibilización, así como proporcionar la formación y capacitación sobre cómo prevenir la violencia intrafamiliar a los usuarios en salas de consulta externa de los hospitales generales, materno-infantiles y pediátricos del Estado, así como al personal médico dependientes del Instituto de Salud del Estado, y de los Centros de Desarrollo y estancias infantiles del Sistema para el Desarrollo Integral de la Familia del Estado y de los Municipios;
+VI.- Promover conferencias de orientación y sensibilización en cada una de las instituciones públicas y privadas a fin de estimular el respeto a los derechos de las personas, la convivencia familiar y la denuncia de violencia intrafamiliar o institucional;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+VII.- Llevar a cabo programas de sensibilización, así como proporcionar la formación y capacitación sobre cómo prevenir la violencia intrafamiliar a los usuarios en salas de consulta externa de los hospitales generales, materno-infantiles y pediátricos del Estado, así como al personal médico dependiente del Instituto de Servicios de Salud del Estado, y de los Centros de Desarrollo y estancias infantiles del Sistema para el Desarrollo Integral de la Familia del Estado y de los Municipios;
 
 VIII.- Celebrar convenios con instituciones públicas y privadas de asistencia social para que lleven a cabo los programas antes mencionados;
 
@@ -787,11 +781,13 @@ El Gobierno del Estado, a través del Organismo, con la participación de las de
 
 I.- Definición de las responsabilidades que asuman los integrantes de los sectores social y privado que participen;
 
-II.- Determinación de las acciones de orientación, estimulo y apoyo que llevará a cabo el Gobierno del Estado, por conducto del Organismo;
+II.- Determinación de las acciones de orientación, estímulo y apoyo que llevará a cabo el Gobierno del Estado, por conducto del Organismo;
 
 III.- Fijación del objeto, materia y alcances jurídicos de los compromisos que asuman las partes con reserva de las funciones de autoridad que competan al Gobierno del Estado; y
 
-IV.- Expresión de las demás estipulaciones que de común acuerdo establezcan las partes, siempre y cuando no sean contrarias a la moral o al derecho vigentes (sic).
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+IV.- Expresión de las demás estipulaciones que de común acuerdo establezcan las partes, siempre y cuando no sean contrarias a la moral o al derecho vigente.
 
 ###### ARTICULO 56.
 
@@ -1147,7 +1143,9 @@ VI.- Remitir al Organismo los documentos y rendirle oportunamente los informes q
 
 VII.- Practicar las operaciones que determinen los estatutos de las instituciones a su cargo y las que autoriza la Ley;
 
-VIII.- Ejercitar las acciones y defensas que correspondan a dichas instituciones, y hacer que se cumpla el objeto para que fueron constituidas, acatando estrictamente sus estatutos;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+VIII.- Ejercitar las acciones y defensas que correspondan a dichas instituciones, y hacer que se cumpla el objeto para el que fueron constituidas, acatando estrictamente sus estatutos;
 
 IX.- Obedecer las instrucciones del Organismo, cuando éstos tiendan a corregir un error o una práctica viciosa;
 
@@ -1167,11 +1165,9 @@ Los empleados de las instituciones que manejen fondos estarán obligados a const
 
 A más tardar el primero de diciembre de cada año, los patronatos de las instituciones de beneficencia privada, deberán remitir al Organismo, la estimación de los ingresos probables, así como el Presupuesto de Egresos para el ejercicio anual siguiente, calculados en forma que establece el Reglamento de esta Ley. El ejercicio comprenderá de los meses de enero a diciembre de cada año.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR EL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
-
-ARTICULO 115 bis.- En lo que se refiere a la administración de Recursos Públicos que se otorguen, se observarán las normas establecidas en la Ley que Regula las Organizaciones de la Sociedad Civil del Estado de Aguascalientes.
+ARTICULO 115 BIS.- En lo que se refiere a la administración de recursos públicos que se otorguen, se observarán las normas establecidas en la Ley de Fomento a las Organizaciones de la Sociedad Civil del Estado de Aguascalientes.
 
 ###### ARTICULO 116.
 
@@ -1339,15 +1335,19 @@ Al declarar la extinción o liquidación de una institución, el Organismo resol
 
 El patronato de la institución protocolizará ante notario público la resolución que declare la disolución, así como el nombramiento de los liquidadores y enviará al Organismo la escritura pública una vez registrada.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2016)</small>
+
 ###### ARTICULO 148.
 
-Los Notarios Públicos no autorizarán ningún documento donde se proceda a la liquidación de instituciones de beneficencia privada cuando no se ajusten a los (sic) dispuesto en la presente Ley. Igual obligación tendrá el Director del Registro Público de la Propiedad y del Comercio, así como las autoridades judiciales que ordenen las inscripciones relativas.
+Los Notarios Públicos no autorizarán ningún documento donde se proceda a la liquidación de instituciones de beneficencia privada cuando no se ajusten a lo dispuesto en la presente Ley. Igual obligación tendrá el Director del Registro Público de la Propiedad y del Comercio, así como las autoridades judiciales que ordenen las inscripciones relativas.
 
 ###### ARTICULO 149.
 
 Las instituciones de beneficencia privada no podrán ser objeto de concurso o liquidación judicial ni acogerse a los beneficios de ésta.
 
-## TITULO SEXTO (SIC). DE LAS RESPONSABILIDADES
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 25 DE ENERO DE 2016)</small>
+
+## TITULO TERCERO. DE LAS RESPONSABILIDADES
 
 ### CAPITULO I. De las Disposiciones Generales
 
@@ -1373,7 +1373,9 @@ II.- No dar cumplimiento a las normas que el presente ordenamiento establece par
 
 III.- No acatar las prevenciones que dicten con fundamento en la presente Ley, el Ejecutivo del Estado o el Organismo, los responsables de las instituciones de beneficencia;
 
-IV.- La autorización que realicen los Notarios Público (sic) sin aviso previo, ni aprobación del Organismo, actos jurídicos que afecten los intereses de las instituciones de beneficencia privada.
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+IV.- La autorización que realicen los Notarios Públicos sin previo aviso, ni aprobación del Organismo, actos jurídicos que afecten los intereses de las instituciones de beneficencia privada.
 
 V.- La omisión de los jueces de rendir al Organismo, los informes previstos por esta Ley o no cumplir con las obligaciones que este ordenamiento fija dentro del trámite de los juicios sucesorios que a la beneficencia privada interesan.
 
@@ -1403,13 +1405,17 @@ IV.- Por la negativa a reformar los estatutos de su institución, cuando así lo
 
 V.- La distracción o inversión de fondos de la institución para fines personales o distintos a los asistenciales.
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+
 ###### ARTICULO 156.
 
-La resistencia de un patrono a separarse de sus funciones, una vez resuelta su remoción, se sancionará por el Organismo, con multa de cinco a treinta días de salario mínimo general vigente en el Estado, sin perjuicio de poner los hechos del conocimiento del Ministerio Público por la responsabilidad penal que pueda resultar.
+La resistencia de un patrono a separarse de sus funciones, una vez resuelta su remoción, se sancionará por el Organismo, con multa de cinco a treinta veces el valor diario de la unidad de medida y actualización, sin perjuicio de poner los hechos del conocimiento del Ministerio Público por la responsabilidad penal que pueda resultar.
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 157.
 
-La violación a lo dispuesto por la fracción I del Artículo 153 de esta Ley se sancionará con una multa de cincuenta veces el salario mínimo general vigente en el Estado, que se hará efectiva a los responsables.
+La violación a lo dispuesto por la fracción I del Artículo 153 de esta Ley se sancionará con una multa de hasta cincuenta veces el valor diario de la unidad de medida y actualización, que se hará efectiva a los responsables.
 
 ###### ARTICULO 158.
 
@@ -1435,13 +1441,17 @@ La infracción a lo establecido en esta Ley por parte de los funcionarios y empl
 
 Cuando un vocal falte sin justificación a las sesiones, por más de cuatro veces en forma consecutiva, se le separará del cargo y se procederá a cubrir la vacante, en los términos del Reglamento de esta Ley.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2016)</small>
+
 ###### ARTICULO 161.
 
-Los Notarios Públicos que autoricen escrituras en las que intervengan instituciones de beneficencia o que en alguna forma afecten los intereses de alguna de ellas sin conocimiento del Organismo, en los casos que conforme a la Ley sea necesaria la autorización para la celebración del acto, podrán ser sancionado (sic) en términos de la Ley del Notariado para el Estado de Aguascalientes.
+Los Notarios Públicos que autoricen escrituras en las que intervengan instituciones de beneficencia o que en alguna forma afecten los intereses de alguna de ellas sin conocimiento del Organismo, en los casos que conforme a la Ley sea necesaria la autorización para la celebración del acto, podrán ser sancionados en términos de la Ley del Notariado para el Estado de Aguascalientes.
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 162.
 
-Los Notarios Públicos que no envíen al Organismo dentro del término de treinta días naturales contados a partir de su celebración aviso de testimonio de las escrituras a que se refiere el Artículo 78 de esta Ley, podrán ser sancionados por el Gobernador del Estado a través del Secretario General de Gobierno, con una amonestación y en caso de reincidencia con una multa de treinta veces el salario mínimo general vigente en el Estado.
+Los Notarios Públicos que no envíen al Organismo dentro del término de treinta días naturales contados a partir de su celebración aviso de testimonio de las escrituras a que se refiere el Artículo 78 de esta Ley, podrán ser sancionados por el Gobernador del Estado a través del Secretario General de Gobierno, con una amonestación y en caso de reincidencia con una multa de hasta treinta veces el valor diario de la unidad de medida y actualización.
 
 ###### ARTICULO 163.
 
@@ -1467,11 +1477,45 @@ El Estado coadyuvará con las funciones que desempeñen estas instituciones, y e
 
 ## TRANSITORIOS
 
-PRIMERO.- Este acuerdo entrará en vigor el uno de agosto de dos mil seis.
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Aguascalientes.
 
-SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+SEGUNDO.- Se deroga la Ley del Sistema Social y de Asistencia Social publicada en el suplemento cuarenta y cinco del Periódico Oficial del Estado en fecha nueve de noviembre de mil novecientos ochenta y seis.
 
-EL MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 35/2006, del Pleno del Consejo de la Judicatura Federal, Relativo a la Denominación, Residencia, Competencia, Jurisdicción Territorial, Domicilio y Fecha de Inicio de Funcionamiento del Decimosexto Tribunal Colegiado en Materia Administrativa del Primer Circuito; así como a las Reglas de Turno, Sistema de Recepción y Distribución de Asuntos entre los Tribunales Colegiados de la Materia y Circuito Indicados, fue aprobado por el Pleno del propio Consejo, en sesión de siete de junio de dos mil seis, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Luis María Aguilar Morales, Constancio Carrasco Daza, Elvia Díaz de León D´Hers, María Teresa Herrera Tello y Miguel A. Quirós Pérez.- México, Distrito Federal, a siete de junio de dos mil seis.- Conste.- Rúbrica.
+TERCERO.- El Reglamento Interior del Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes, deberá expedirse dentro de los noventa días siguientes a la fecha de la entrada en vigor de la presente Ley y deberá inscribirse en el Registro Público de la Propiedad y del Comercio en la sección correspondiente dentro de los treinta días siguientes a la fecha de su publicación.
+
+Al Ejecutivo para su sanción.
+
+Dado en el salón de sesiones del H. Congreso del Estado, a los treinta días del mes de marzo del año dos mil.- D.P., Cecilia Cristina Franco Ruiz Esparza.- D.S., Jesús Adrián Castillo Serna.- D.S., Juan Francisco Ovalle Peña.- Rúbricas".
+
+Y tenemos el honor de comunicarlo a usted para su conocimiento y publicación en el Periódico Oficial del Estado, reiterándole las seguridades de nuestra consideración distinguida.
+
+SUFRAGIO EFECTIVO. NO REELECCION.
+
+DIPUTADA PRESIDENTE,
+
+Cecilia Cristina Franco Ruiz Esparza.
+
+DIPUTADO SECRETARIO,
+
+Jesús Adrián Castillo Serna.
+
+DIPUTADO SECRETARIO,
+
+Juan Francisco Ovalle Peña.
+
+Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+Aguascalientes, Ags., 6 de abril de 2000.
+
+Felipe González González.
+
+EL SECRETARIO GENERAL DE GOBIERNO,
+
+Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+
+P.O. 27 DE ABRIL DE 2009.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -1526,3 +1570,19 @@ El presente Decreto iniciará su vigencia al día siguiente al de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, las referencias a dicha Fiscalía contenidas en el presente Decreto, se entenderán echas (sic) a la Procuraduría General de la Republica.
+
+P.O. 25 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 286.- SE REFORMA LA LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACIÓN FAMILIAR”.]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
