@@ -4,7 +4,7 @@ identifier: "AGU-ley-municipal-para-el-estado-de-aguascalientes-34210"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-06"
-last_updated: "2017-02-27"
+last_updated: "2017-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de octubre de 2003.
 
@@ -2061,9 +2061,9 @@ Las infracciones a las normas contenidas en el Bando de Policía y Gobierno o re
 
 I. Amonestación;
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-II. Multa por el equivalente de un día a cinco mil días de salario mínimo general vigente en el Estado en el momento de imponer la sanción, misma que se impondrá tomando en consideración las condiciones económicas del infractor y la gravedad del hecho, sin perjuicio de que otras disposiciones legales dispongan otro tipo de sanciones y montos;
+II. Multa por el equivalente de una a cinco mil veces el valor diario de la unidad de medida y actualización, misma que se impondrá tomando en consideración las condiciones económicas del infractor y la gravedad del hecho, sin perjuicio de que otras disposiciones legales dispongan otro tipo de sanciones y montos;
 
 III. Suspensión temporal o cancelación del permiso o licencia según el caso;
 
@@ -2309,7 +2309,7 @@ Los Presidentes Municipales, Regidores y Síndicos que resultaron electos en la 
 
 Para la Protesta de Ley materia de la presente reforma, los Ayuntamientos deberán ajustarse a los períodos constitucionales correspondientes.
 
-P.O. 27 DE FEBRERO DE 2017
+P.O. 27 DE FEBRERO DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 64.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY DE PRESUPUESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARÍA".]
 
@@ -2354,3 +2354,11 @@ El porcentaje a que hace referencia el Artículo 22 Quáter de la Ley de Presupu
 ###### ARTÍCULO NOVENO.
 
 Se Derogan todas las disposiciones jurídicas que se opongan a lo establecido en el presente Decreto.
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
