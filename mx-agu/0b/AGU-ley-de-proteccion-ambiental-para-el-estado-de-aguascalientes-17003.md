@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-ambiental-para-el-estado-de-aguascalientes-17
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2017-01-16"
+last_updated: "2017-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado Aguascalientes, el lunes 4 de febrero de 2000.
 
@@ -173,7 +173,7 @@ XXXVIII. LEY: Ley de Protección Ambiental para el Estado de Aguascalientes;
 
 XXXIX. LEY GENERAL: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
-XL. MANEJO INTEGRAL DE RESIDUOS: Actividades de reducción en la fuente, separación, reutilización, reciclaje, coprocesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento , recolección, transporte y disposición final de los residuos sólidos, realizadas individualmente o combinadas de manera apropiada, cumpliendo objetivos y valorización, eficiencia sanitaria, ambiental y tecnológica, económica y social;
+XL. MANEJO INTEGRAL DE RESIDUOS: Actividades de reducción en la fuente, separación, reutilización, reciclaje, coprocesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, recolección, transporte y disposición final de los residuos sólidos, realizadas individualmente o combinadas de manera apropiada, cumpliendo objetivos y valorización, eficiencia sanitaria, ambiental y tecnológica, económica y social;
 
 XLI. MANIFIESTO DE IMPACTO AMBIENTAL: El documento mediante el cual se da a conocer, con base en estudios detallados el impacto ambiental que generaría una obra o actividad, así como la forma de evitarlo o mitigarlo en caso de que sea negativo para el entorno natural;
 
@@ -3429,7 +3429,9 @@ Las violaciones a los preceptos de esta Ley, sus reglamentos y demás disposicio
 
 I. Apercibimiento;
 
-II. Multa por el equivalente de dos a veinte mil días de salario mínimo general vigente en la región, al momento de imponer la sanción;
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+
+II. Multa por el equivalente de dos a veinte mil veces el valor diario de la unidad de medida y actualización;
 
 III. Clausura temporal o definitiva, parcial o total, cuando:
 
@@ -3545,11 +3547,11 @@ Igualmente la autoridad ambiental proporcionará los dictámenes técnicos o per
 
 ### CAPÍTULO VI. Responsabilidad de los Servidores Públicos
 
-> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 224.
 
-Al servidor público que incumpla con las obligaciones que le imponen ésta Ley, sus reglamentos, los programas de ordenamiento ecológico, las declaratorias de áreas naturales protegidas, las normas oficiales mexicanas y los demás ordenamientos aplicables y relacionados con la materia ambiental; así como al que contravenga, desacate o actúe fuera de los plazos y términos que los ordenamientos jurídicos y administrativos citados señalan, se les impondrá una multa de 100 a 500 veces el salario diario mínimo general vigente en el Estado, cuyo monto dependerá de la gravedad de la falta y será sometido a los procedimientos y a las consecuencias jurídicas que establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, sin perjuicio de las acciones y sanciones penales y civiles que pudieran derivarse de su actuar contrario a derecho.
+Al servidor público que incumpla con las obligaciones que le imponen ésta Ley, sus reglamentos, los programas de ordenamiento ecológico, las declaratorias de áreas naturales protegidas, las normas oficiales mexicanas y los demás ordenamientos aplicables y relacionados con la materia ambiental; así como al que contravenga, desacate o actúe fuera de los plazos y términos que los ordenamientos jurídicos y administrativos citados señalan, se les impondrá una multa de 100 a 500 veces el valor diario de la unidad de medida y actualización, cuyo monto dependerá de la gravedad de la falta y será sometido a los procedimientos y a las consecuencias jurídicas que establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, sin perjuicio de las acciones y sanciones penales y civiles que pudieran derivarse de su actuar contrario a derecho.
 
 TRANSITORIOS:
 
@@ -3722,6 +3724,14 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Quedan derogadas todas las disposiciones normativas o reglamentarias que se opongan al presente Decreto.
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 ###### ARTICULO 2°.
 
