@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-turismo-del-estado-de-aguascalientes-55083"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-16"
-last_updated: "2010-06-28"
+last_updated: "2017-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE TURISMO DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de abril de 2007.
 
@@ -39,7 +39,7 @@ Decreto Número 303
 
 Se aprueba la Ley de Turismo del Estado de Aguascalientes, para quedar como sigue:
 
-LEY DE TURISMO DEL ESTADO DE AGUASCALlENTES
+LEY DE TURISMO DEL ESTADO DE AGUASCALIENTES
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -399,7 +399,7 @@ III. Fideicomisos públicos que tengan por objeto la promoción, planeación y d
 
 B) Los Ayuntamientos del Estado:
 
-l. Las dependencias y organizaciones auxiliares de la Administración Pública Municipal, orientadas a la promoción y desarrollo de la actividad turística, así como a la atención, seguridad y auxilio al turista.
+I. Las dependencias y organizaciones auxiliares de la Administración Pública Municipal, orientadas a la promoción y desarrollo de la actividad turística, así como a la atención, seguridad y auxilio al turista.
 
 C) Sector privado y social:
 
@@ -895,13 +895,17 @@ Las violaciones a la presente Ley, a sus reglamentos, a las Normas Oficiales Mex
 
 Por violaciones a esta Ley, la Secretaría podrá imponer las siguientes sanciones:
 
-I. Por infracciones a lo dispuesto en el Artículo 13 fracciones II, III, IV y V, se impondrá una multa de 3 hasta por el equivalente a 50 veces el salario mínimo general vigente en el Estado.
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2010)</small>
+I. Por infracciones a lo dispuesto en el Artículo 13 fracciones II, III, IV y V, se impondrá una multa de 3 hasta por el equivalente a 50 veces el valor diario de la unidad de medida y actualización.
 
-II. Por infracciones a lo dispuesto en las Fracciones I a la XVII del Artículo 16, se impondrá una multa de 50 hasta por el equivalente a 200 veces el salario mínimo general vigente en el Estado. En el caso de las Fracciones XIX y XX, se podrá imponer una multa de 200 a 400 veces el salario mínimo general vigente; y
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-III. Las infracciones a lo establecido por el Artículo 42, se impondrá una multa de 50 hasta por el equivalente a 300 veces el salario mínimo general vigente en el Estado.
+II. Por infracciones a lo dispuesto en las Fracciones I a la XVII del Artículo 16, se impondrá una multa de 50 hasta por el equivalente a 200 veces el valor diario de la unidad de medida y actualización. En el caso de las Fracciones XIX y XX, se podrá imponer una multa de 200 a 400 veces el valor diario de la unidad de medida y actualización; y
+
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+
+III. Las infracciones a lo establecido por el Artículo 42, se impondrá una multa de 50 hasta por el equivalente a 300 veces el valor diario de la unidad de medida y actualización.
 
 ###### Artículo 91.
 
@@ -957,10 +961,18 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Jorge Mauricio Martínez Estebanez.
 
-> <small>[N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 28 DE JUNIO DE 2010.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
