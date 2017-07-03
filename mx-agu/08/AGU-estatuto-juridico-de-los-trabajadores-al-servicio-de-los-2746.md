@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-juridico-de-los-trabajadores-al-servicio-de-los-2746"
 country: "mx"
 rank: "estatuto"
 publication_date: "1992-06-07"
-last_updated: "2017-06-05"
+last_updated: "2017-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS Y ORGANISMOS DESCENTRALIZADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Estatuto publicado en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 7 de junio de 1992.
 
@@ -1449,7 +1449,9 @@ Por su orden, las correcciones disciplinarias que pueden imponerse son:
 
 I.- Amonestación;
 
-II.- Multa que no podrá exceder de veinte veces el salario mínimo general vigente en el Estado; y
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+
+II.- Multa que no podrá exceder de veinte veces el valor diario de la unidad de medida y actualización; y
 
 III.- Expulsión del local del Tribunal. La persona que se resista a cumplir la orden, será desalojada con el auxilio de la fuerza pública.
 
@@ -1457,7 +1459,9 @@ III.- Expulsión del local del Tribunal. La persona que se resista a cumplir la 
 
 El presidente del Tribunal podrá emplear conjunta o indistintamente cualquiera de los medios de apremio, necesarios para que las personas concurran a las audiencias, en las que su presencia sea indispensable, o para asegurar el cumplimiento de sus resoluciones, para lo cual puede aplicar las siguientes medidas de apremio:
 
-I.- Multa hasta de cien veces el salario mínimo vigente en el Estado;
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+
+I.- Multa hasta de cien veces el valor diario de la unidad de medida y actualización;
 
 II.- El auxilio de la fuerza pública; y
 
@@ -1729,9 +1733,11 @@ III.- El Tribunal citará a una audiencia que deberá llevarse a cabo dentro de 
 
 De resultar procedente la reclamación, se modificará, en lo factible, la medida de apremio o la corrección disciplinaria.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2017)</small>
+
 ###### ARTICULO 178.
 
-El presidente del Tribunal, según corresponda, podrá imponer a la parte que promueva recursos notoriamente improcedentes, una multa hasta por diez veces el salario mínimo general vigente.
+El presidente del Tribunal, según corresponda, podrá imponer a la parte que promueva recursos notoriamente improcedentes, una multa hasta por diez veces el valor diario de la unidad de medida y actualización.
 
 Se entenderá que es notoriamente improcedente un recurso, cuando a juicio del presidente o del Tribunal, aparezca que se promueva con el propósito de demorar y entorpecer la administración de la justicia.
 
@@ -2058,3 +2064,11 @@ P.O. 5 DE JUNIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
