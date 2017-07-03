@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-civil-para-el-estado-de-aguascalientes-95032"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-08"
-last_updated: "2016-06-06"
+last_updated: "2017-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 8 de julio de 2013.
 
@@ -1391,17 +1391,25 @@ Las sanciones podrán ser:
 
 I. Clausura temporal o definitiva, parcial o total;
 
-II. Multa de 100 a 15000 veces el salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-III. En los casos de reincidencia de los particulares la multa a imponer será del monto sancionado en la primera ocasión hasta 15000 veces el salario Mínimo Vigente en el Estado.
+II. Multa de 100 a 15000 veces el valor diario de la unidad de medida y actualización; o
+
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+
+III. En los casos de reincidencia de los particulares la multa a imponer será del monto sancionado en la primera ocasión hasta 15000 veces el valor diario de la unidad de medida y actualización.
 
 ###### ARTÍCULO 149.
 
 La contravención a las disposiciones de esta Ley, se sancionarán en la forma siguiente:
 
-I. Las infracciones a los Artículos 5º, 6° y 7º de la presente Ley, se sancionarán con el equivalente a una multa de cien a quince mil días de salario mínimo general vigente en el Estado, existiendo siempre la posibilidad de que además se determine la clausura en caso de que la autoridad competente lo estime necesario de manera fundada y motivada.
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-II. En caso de incumplimiento a cualquiera otra obligación que determine esta Ley, o poner en riesgo a la población, se impondrá al infractor una sanción equivalente de cien a quince mil días de salario mínimo general vigente en el Estado, existiendo siempre la posibilidad de que además se determine la clausura en caso de que la autoridad competente lo estime necesario de manera fundada y motivada.
+I. Las infracciones a los Artículos 5°, 6° y 7° de la presente Ley, se sancionarán con el equivalente a una multa de cien a quince mil veces el valor diario de la unidad de medida y actualización, existiendo siempre la posibilidad de que además se determine la clausura en caso de que la autoridad competente lo estime necesario de manera fundada y motivada.
+
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+
+II. En caso de incumplimiento a cualquiera otra obligación que determine esta Ley, o poner en riesgo a la población, se impondrá al infractor una sanción equivalente de cien a quince veces el valor diario de la unidad de medida y actualización, existiendo siempre la posibilidad de que además se determine la clausura en caso de que la autoridad competente lo estime necesario de manera fundada y motivada.
 
 Para la aplicación de las sanciones pecuniarias a que se hace referencia en este Artículo, la autoridad que las imponga, tomará en cuenta la gravedad de la infracción, la capacidad económica y otras condiciones del infractor.
 
@@ -1490,3 +1498,11 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Los procedimientos penales iniciados con antelación al inicio de vigencia de este Decreto, se regirán por las disposiciones vigentes al momento de su inicio.
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
