@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-extincion-de-dominio-para-el-estado-de-aguascalientes-10
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-22"
-last_updated: "2015-12-14"
+last_updated: "2017-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108765&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 22 de junio de 2015.
 
@@ -547,7 +547,9 @@ II. La fecha de la audiencia de desahogo de pruebas y formulación de alegatos, 
 
 III. Las demás determinaciones que considere pertinentes.
 
-La audiencia se celebrará estén o no presentes las partes, excepto el Ministerio Público, así como los peritos o testigos cuya presentación quedará a cargo de la parte que los ofrezca. La falta de asistencia de los peritos o testigos que el Juez haya citado para la audiencia, tampoco impedirá su celebración, pero se impondrá a los faltistas debidamente notificados una multa de treinta a cien días de salario mínimo general vigente en el Estado de Aguascalientes.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+
+La audiencia se celebrará estén o no presentes las partes, excepto el Ministerio Público, así como los peritos o testigos cuya presentación quedará a cargo de la parte que los ofrezca. La falta de asistencia de los peritos o testigos que el Juez haya citado para la audiencia, tampoco impedirá su celebración, pero se impondrá a los faltistas debidamente notificados una multa de treinta a cien veces el valor diario de la unidad de medida y actualización.
 
 De no ser posible por la hora o por cuestiones procesales, el Juez suspenderá la audiencia y citará para su continuación dentro de los tres días hábiles siguientes.
 
@@ -990,3 +992,11 @@ P.O. 14 DE DICIEMBRE DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
