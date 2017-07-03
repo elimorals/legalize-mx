@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2017-06-15"
+last_updated: "2017-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -279,9 +279,9 @@ La correspondencia que bajo cualquier forma circule en el Estado, estará exenta
 
 La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque a la moral, los derechos de tercero, provoque algún delito, o perturbe el orden público; el derecho de réplica será ejercido en los términos dispuestos por la ley. El derecho a la información será garantizado por el Estado.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
-El derecho de acceso a la información y la protección de datos personales será garantizado por un órgano público autónomo, especializado, imparcial y colegiado, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, de gestión, independencia funcional y financiera, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, denominado Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo. El presupuesto de egresos del instituto no podrá ser menor al cero punto diez por ciento del presupuesto de Egresos del Estado para el ejercicio fiscal de que se trate y en ningún caso, será menor al presupuesto otorgado en el año inmediato anterior, para tal efecto, el proyecto de presupuesto de egresos del Instituto será remitido a la legislatura para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 15 de noviembre del año anterior al ejercicio fiscal que corresponda. En todo caso, el proyecto de presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
+El derecho de acceso a la información y la protección de datos personales será garantizado por un órgano público autónomo, especializado, imparcial y colegiado, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, de gestión, independencia funcional y financiera, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, denominado Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo. Este Instituto contará con un órgano interno de control, cuyo titular será designado por la Legislatura del Estado o la Diputación Permanente, en su caso; durará cuatro años en su encargo sin posibilidad de reelección, y no podrá durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia. El presupuesto de egresos del Instituto no podrá ser menor al cero punto diez por ciento del presupuesto de Egresos del Estado para el ejercicio fiscal de que se trate y en ningún caso, será menor al presupuesto otorgado en el año inmediato anterior, para tal efecto, el proyecto de presupuesto de egresos del Instituto será remitido a la Legislatura para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 15 de noviembre del año anterior al ejercicio fiscal que corresponda. En todo caso, el proyecto de presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
 
 Este órgano garante estará integrado por tres comisionados que durarán en su encargo siete años, serán nombrados en los términos que prevea la ley, procurando la equidad de género y cumpliendo como mínimo con los requisitos previstos en las fracciones I, II, IV, V, VI y VII del artículo 101 de la Constitución Política del Estado Libre y Soberano de Quintana Roo. No podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones docentes, científicas o de beneficencia, sólo podrán ser removidos de su cargo en los términos del Título Cuarto de esta Constitución y serán sujetos de juicio político.
 
@@ -337,7 +337,9 @@ No se considerará confiscación la aplicación de bienes de una persona cuando 
 
 I. Será jurisdiccional y autónomo del de materia penal;
 
-II. Procederá en los casos de delitos contra la salud, secuestro, robo de vehículos y trata de personas, respecto de los bienes siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2017)</small>
+
+II.- Procederá en los casos de delitos contra la salud, secuestro, robo de vehículos, trata de personas y enriquecimiento ilícito, respecto de los bienes siguientes:
 
 a) Aquellos que sean instrumento, objeto o producto del delito, aún cuando no se haya dictado la sentencia que determine la responsabilidad penal, pero existan elementos suficientes para determinar que el hecho ilícito sucedió.
 
@@ -807,11 +809,15 @@ LA RENOVACIÓN DE LOS PODERES LEGISLATIVO Y EJECUTIVO SE REALIZARÁ MEDIANTE ELE
 
 I.- El sufragio constituye la expresión soberana de la voluntad popular. Los ciudadanos, los partidos políticos y las autoridades velarán por su respeto y cuidarán que los procesos electorales sean preparados, organizados, desarrollados, vigilados y calificados por órganos profesionales conforme a los principios rectores de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad. La Ley establecerá las sanciones por violaciones al sufragio.
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2017)</small>
 
-II.- La preparación, organización, desarrollo y vigilancia de los procesos para las elecciones de Gobernador, Diputados a la Legislatura del Estado y Ayuntamientos, así como la instrumentación de las formas de participación ciudadana que señale la Ley, son una función estatal que se realizará a través del Instituto Nacional Electoral y del organismo público denominado Instituto Electoral de Quintana Roo, cuya integración será designada por el Instituto Nacional Electoral en los términos que disponga la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Instituciones y Procedimientos Electorales. Este organismo será autoridad en la materia, tendrá personalidad jurídica y patrimonio propios, plena autonomía en su funcionamiento e independencia en sus decisiones, con el carácter de permanente y profesional en su desempeño.
+II.- La preparación, organización, desarrollo y vigilancia de los procesos para las elecciones de Gobernador, Diputados a la Legislatura del Estado y Ayuntamientos, así como la instrumentación de las formas de participación ciudadana que señale la Ley, son una función estatal que se realizará a través del Instituto Nacional Electoral y del Instituto Electoral de Quintana Roo, cuya integración será designada por el Instituto Nacional Electoral en los términos que disponga la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Instituciones y Procedimientos Electorales. El Instituto Electoral de Quintana Roo es un órgano público autónomo, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, de gestión, independencia funcional y financiera, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, con el carácter de permanente y profesional en su desempeño.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
 El Instituto Electoral de Quintana Roo, tendrá a su cargo en forma integral y directa, además de las que determine la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Instituciones y Procedimientos Electorales, esta Constitución y la Ley, las actividades relativas a derechos y el acceso a las prerrogativas de los candidatos y partidos políticos, educación cívica, preparación de la jornada electoral, impresión de documentos y la producción de materiales electorales, escrutinios y cómputos de las elecciones locales, declaración de validez y el otorgamiento de constancias en las elecciones locales, cómputo de la elección del titular del Poder Ejecutivo, resultados preliminares, encuestas o sondeos de opinión, observación electoral y conteos rápidos conforme a los lineamientos establecidos en la Constitución Federal, organización, desarrollo, cómputo y declaración de resultados en los mecanismos de participación ciudadana, en su caso, así como ejercer las atribuciones a que se refiere el inciso a) del Apartado B de la fracción III del artículo 41 de la Constitución Federal, cuando sean delegadas por el Instituto Nacional Electoral, sin perjuicio de aquellas facultades que no estén reservadas a dicho Órgano. El Instituto Electoral de Quintana Roo podrá suscribir convenios con autoridades municipales, estatales y federales, que tengan el propósito de coadyuvar con éste en la función estatal encomendada.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
 De igual forma, el Instituto Electoral de Quintana Roo, podrá coadyuvar en la organización de las elecciones para elegir a los integrantes de las Alcaldías, Delegaciones y Subdelegaciones Municipales, en los términos que señale la ley de los Municipios, así también, el Instituto deberá regular y vigilar los debates públicos que se celebren durante los procesos electorales y que no sean organizados por éste, de conformidad con lo dispuesto en la Ley.
 
@@ -819,27 +825,43 @@ De igual forma, el Instituto Electoral de Quintana Roo, podrá coadyuvar en la o
 
 El Instituto Electoral de Quintana Roo, contará en su estructura con órganos de dirección, ejecutivos y técnicos. El Consejo General será su órgano máximo de dirección y responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de velar por que las actividades del Instituto se guíen por los principios rectores de la función estatal electoral de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad; se integrará con siete Consejeros Electorales con voz y voto, uno de los cuales fungirá como Presidente, y concurrirán, con voz pero sin voto, un representante de cada partido político y un Secretario General. LA LEY DETERMINARÁ LAS REGLAS PARA LA ORGANIZACIÓN Y FUNCIONAMIENTO DE SUS ÓRGANOS, ASÍ COMO LAS RELACIONES DE MANDO ENTRE ÉSTOS, CON BASE EN LAS DISPOSICIONES ESTABLECIDAS EN LA LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+
 Los Consejeros Electorales tendrán un período de desempeño de siete años y no podrán ser reelectos; percibirán una remuneración acorde con sus funciones y podrán ser removidos por el Consejo General del Instituto Nacional Electoral, por las causas graves que establezca la Ley General de Instituciones y Procedimientos Electorales.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
 Las disposiciones de la Ley General de Instituciones y Procedimientos Electorales y del Estatuto del Servicio Profesional Nacional Electoral, regirán las relaciones de trabajo de los servidores del organismo público. Los órganos ejecutivos y técnicos dispondrán del personal calificado necesario para prestar el servicio profesional electoral.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+
 Las sesiones de todos los órganos colegiados de dirección serán públicas, en los términos que señale la Ley.
 
-El Tribunal Electoral de Quintana Roo, tendrá personalidad jurídica y patrimonio propio, autonomía en su funcionamiento e independencia en sus decisiones y será la máxima autoridad jurisdiccional en la materia, y tendrá el carácter de permanente; tendrá competencia y organización para funcionar en pleno y sus sesiones serán públicas. Las resoluciones del Tribunal serán emitidas con plenitud de jurisdicción en una sola instancia y sus fallos serán definitivos. Estará integrado por tres Magistrados, unos de los cuales fungirá como Presidente, quienes serán electos por las dos terceras partes de los miembros presentes de la Cámara de Senadores, previa convocatoria pública, y serán renovados cada siete años, lo anterior de conformidad con lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Instituciones y Procedimientos Electorales.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
-El Tribunal Electoral de Quintana Roo y el Instituto Electoral de Quintana Roo contarán con una Contraloría Interna con autonomía técnica y de gestión, responsable de la fiscalización, vigilancia, y control del uso, manejo y destino de los recursos, así como del desempeño de los órganos, funcionarios y servidores electorales. Son órganos adscritos administrativamente al Consejo General del Instituto Electoral de Quintana Roo y al Pleno del Tribunal Electoral de Quintana Roo respectivamente. Los contralores internos tanto del Instituto como del Tribunal Electoral de quintana Roo, durarán en su encargo seis años y serán elegidos por el voto de las dos terceras partes de los miembros de la Legislatura del Estado o de la Diputación Permanente en los recesos de ésta, de entre las propuestas que formulen los Grupos Parlamentarios, con base en los requisitos y en los términos que disponga la Ley, y estarán sujetos al régimen de responsabilidades públicas previsto por esta Constitución para los servidores públicos del Estado.
+El Tribunal Electoral de Quintana Roo es un órgano público autónomo, con personalidad jurídica y patrimonio propios, independencia en sus decisiones, con plena autonomía técnica, de gestión, independencia funcional y financiera, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, y será la máxima autoridad jurisdiccional en la materia, con el carácter de permanente; tendrá competencia y organización para funcionar en pleno y sus sesiones serán públicas. Las resoluciones del Tribunal serán emitidas con plenitud de jurisdicción en una sola instancia y sus fallos serán definitivos. Estará integrado por tres Magistrados, unos (sic) de los cuales fungirá como Presidente, quienes serán electos por las dos terceras partes de los miembros presentes de la Cámara de Senadores, previa convocatoria pública, y serán renovados cada siete años, lo anterior de conformidad con lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Instituciones y Procedimientos Electorales.
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+
+El Tribunal Electoral de Quintana Roo y el Instituto Electoral de Quintana Roo contarán cada uno con un órgano interno de control, cuyos titulares serán designados por la Legislatura del Estado o la Diputación Permanente, en su caso; durarán cuatro años en su encargo sin posibilidad de reelección y no podrán durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia. Los órganos internos de control son órganos adscritos administrativamente al Consejo General del Instituto Electoral de Quintana Roo y al Pleno del Tribunal Electoral de Quintana Roo respectivamente.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
 El Secretario General del Instituto Electoral de Quintana Roo, será electo por las (sic) terceras partes del Consejo General, a propuesta de su Consejero Presidente y durará en su encargo del tiempo que determine la Ley.
 
-La Ley General de Instituciones y Procedimientos Electorales establece los requisitos que deben reunir los Consejeros Electorales, así como los Magistrados Electorales. La ley establecerá los requisitos que deban reunir para la designación del Contralor Interno y el Secretario General del Instituto Electoral de Quintana Roo y el Contralor Interno del Tribunal Electoral de Quintana Roo, los que estarán sujetos al régimen de responsabilidades públicas previsto por esta Constitución para los servidores públicos del Estado.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
-Los funcionarios señalados en el párrafo que antecede, no podrán, durante su ejercicio, desempeñar ningún otro empleo, cargo o comisión oficial y sólo podrán recibir percepciones derivadas de actividades profesionales, regalías, derechos de autor o publicaciones siempre que no se afecte la independencia, imparcialidad y equidad que debe regir el ejercicio de su función; también podrán ejercer cargos no remunerados en asociaciones científicas, literarias o de beneficencia.
+La Ley General de Instituciones y Procedimientos Electorales establece los requisitos que deben reunir los Consejeros Electorales, así como los Magistrados Electorales. La ley establecerá los requisitos y el procedimiento para la designación y remoción de los titulares de los órganos Internos de control y Secretarios Generales del Instituto Electoral de Quintana Roo y del Tribunal Electoral de Quintana Roo, respectivamente, los que estarán sujetos al régimen de responsabilidades previsto por esta Constitución para los servidores públicos del Estado.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+> <small>(DEROGADO DÉCIMO SEGUNDO PÁRRAFO, P.O. 3 DE JULIO DE 2017)</small>
 
-La retribución que perciban los Consejeros Electorales, así como los Magistrados Electorales, será la prevista en el presupuesto de egresos del Instituto Electoral de Quintana Roo y del Tribunal Electoral de Quintana Roo, respectivamente. Durante los intervalos entre los procesos electorales estarán obligados a realizar tareas de investigación y difusión acerca de temas electorales. La retribución de los Contralores Internos será la misma que se señale para los Consejeros y Magistrados Electorales, según corresponda. En todo caso, el Presupuesto de Egresos del Gobierno del Estado, deberá incluir el tabulador desglosado de las remuneraciones que perciban los servidores públicos del Instituto Electoral de Quintana Roo, sujetándose a lo dispuesto en el artículo 165 de esta Constitución. El Instituto Electoral de Quintana Roo, presentará su presupuesto de egresos ante la instancia correspondiente para su inclusión en el Presupuesto de Egresos del Estado, del año que corresponda. El presupuesto de egresos del Tribunal Electoral de Quintana Roo no podrá ser menor al cero punto doce por ciento del presupuesto de Egresos del Estado, para el ejercicio fiscal de que se trate y en ningún caso, será menor al presupuesto otorgado en el año inmediato anterior, para tal efecto, el proyecto de presupuesto de egresos del Tribunal, será remitido a la Legislatura, para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 15 de noviembre del año anterior al ejercicio fiscal que corresponda. En todo caso, el Presupuesto de Egresos del Gobierno del Estado, deberá incluir el tabulador desglosado de las remuneraciones que perciban los servidores públicos del Tribunal Electoral de Quintana Roo, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
-El Instituto Electoral de Quintana Roo contará con servidores públicos investidos de fe pública para actos de naturaleza electoral, cuyas atribuciones y funcionamiento serán reguladas por ley.
+La retribución que perciban los Consejeros Electorales, así como los Magistrados Electorales, será la prevista en el presupuesto de egresos del Instituto Electoral de Quintana Roo y del Tribunal Electoral de Quintana Roo, respectivamente. Durante los intervalos entre los procesos electorales estarán obligados a realizar tareas de investigación y difusión acerca de temas electorales. La retribución de los titulares de los órganos internos de control será la misma que se señale para los Consejeros y Magistrados Electorales, según corresponda. En todo caso, el Presupuesto de Egresos del Gobierno del Estado, deberá incluir el tabulador desglosado de las remuneraciones que perciban los servidores públicos del Instituto Electoral de Quintana Roo, sujetándose a lo dispuesto en el artículo 165 de esta Constitución. El Instituto Electoral de Quintana Roo, presentará su presupuesto de egresos ante la instancia correspondiente para su inclusión en el Presupuesto de Egresos del Estado, del año que corresponda. El presupuesto de egresos del Tribunal Electoral de Quintana Roo no podrá ser menor al cero punto doce por ciento del presupuesto de Egresos del Estado, para el ejercicio fiscal de que se trate y en ningún caso, será menor al presupuesto otorgado en el año inmediato anterior, para tal efecto, el proyecto de presupuesto de egresos del Tribunal, será remitido a la Legislatura, para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 15 de noviembre del año anterior al ejercicio fiscal que corresponda. En todo caso, el Presupuesto de Egresos del Gobierno del Estado, deberá incluir el tabulador desglosado de las remuneraciones que perciban los servidores públicos del Tribunal Electoral de Quintana Roo, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+
+El Instituto Electoral de Quintana Roo contará con servidores públicos investidos de fe pública para actos de naturaleza electoral, cuyas atribuciones y funcionamiento serán reguladas por la ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
@@ -941,9 +963,7 @@ En caso de nulidad de la elección, se convocará a una elección extraordinaria
 
 VI.- La Ley respectiva tipificará los delitos y determinará las faltas y responsabilidades en materia electoral, así como las sanciones que por ellos deban imponerse;
 
-> <small>(ADICIONADA, P.O. 3 DE MARZO DE 2009)</small>
-
-VII.- La Ley respectiva tipificará los delitos y determinará las faltas y responsabilidades en materia electoral, así como las sanciones que por ellos deban imponerse;
+VII.- (DEROGADA, P.O. 3 DE JULIO DE 2017)
 
 (NOTA: EL 14 DE MARZO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2012 Y SUS ACUMULADAS 68/2012 Y 69/2012, DECLARÓ LA INVALIDEZ EN SU TOTALIDAD DEL DECRETO 170 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE MARZO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -966,6 +986,10 @@ La Legislatura del Estado o en los recesos de ésta, la Diputación Permanente, 
 > <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 1997)</small>
 
 En los demás casos, el Estado estará representado en la forma que prevea la ley.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+ARTICULO 51 BIS.- Esta constitución reconoce que los órganos públicos autónomos, tendrán personalidad jurídica y patrimonio propios, plena autonomía técnica, de gestión, independencia funcional y financiera, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna. Los titulares de los órganos públicos autónomos, así como los servidores públicos que en ellos presten sus servicios, se sujetarán a las disposiciones contenidas en esta Constitución y demás leyes que de ella emanen.
 
 ### CAPITULO II. Del Poder Legislativo
 
@@ -1045,9 +1069,9 @@ No podrá ser diputado:
 
 I.- El Gobernador en ejercicio, aún cuando se separe definitivamente de su puesto, cualesquiera sea su calidad, el origen y la forma de designación.
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-II.- Los Secretarios de Despacho dependientes del Ejecutivo, el Fiscal General del Estado, el Titular del Órgano de Fiscalización Superior del Estado, los Magistrados del Tribunal Superior de Justicia, los Jueces y cualquier otro servidor público que desempeñe cargo público estatal, a menos que se separe definitivamente de su cargo noventa días antes de la fecha de la elección.
+II.- Los Secretarios de Despacho dependientes del Ejecutivo, el Fiscal General del Estado, el Titular de la Auditoría Superior del Estado, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal de Justicia Administrativa del Estado, los Jueces y cualquier otro servidor público que desempeñe cargo público estatal, a menos que se separe definitivamente de su cargo noventa días antes de la fecha de la elección.
 
 III.- Los presidentes municipales o quienes ocupen cualquier cargo municipal, a menos que se separe (sic) del mismo 90 días antes de la elección.
 
@@ -1235,11 +1259,11 @@ II.- Expedir leyes reglamentarias y ejercer las facultades explícitas otorgadas
 
 III.- Iniciar leyes y decretos ante el Congreso de la Unión.
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-IV.- Expedir su Ley Orgánica y su Reglamento Interior, así como la Ley del Órgano de Fiscalización Superior del Estado y su Reglamento Interior.
+IV.- Expedir su Ley Orgánica y su Reglamento Interior, así como para expedir las leyes que regulen la organización y facultades de la Auditoría Superior del Estado y su Reglamento Interno y las demás que normen la gestión, control y evaluación de los Poderes del Estado y de los entes públicos estatales; así como para expedir la ley que establezca la integración, atribuciones y funcionamiento del Sistema Estatal Anticorrupción a que se refiere el artículo 161 de esta Constitución.
 
-La Legislatura del Estado coordinará y evaluará, a través de la Comisión de Hacienda, Presupuesto y Cuenta, sin perjuicio de su autonomía técnica y de gestión, el desempeño de las funciones del Órgano de Fiscalización Superior del Estado, en los términos que disponga la ley.
+La Legislatura del Estado coordinará y evaluará, a través de la Comisión de Hacienda, Presupuesto y Cuenta, sin perjuicio de su autonomía técnica y de gestión, el desempeño de las funciones de la Auditoría Superior del Estado, en los términos que disponga la ley.
 
 > <small>(REFORMADA, P.O. 17 DE JULIO DE 2002)</small>
 
@@ -1259,13 +1283,15 @@ VIII.- Convocar a elecciones extraordinarias de Diputados y Ayuntamientos, los c
 
 IX.- Erigirse en Colegio electoral para elegir Gobernador sustituto para que concluya el período constitucional, en caso de falta absoluta de éste ocurrida dentro de los cuatro últimos años de dicho período, de conformidad al artículo 83 de esta Constitución.
 
-X.- Conceder a los diputados y magistrados del Tribunal Superior de Justicia, licencia temporal para separarse de sus cargos.
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+
+X.- Conceder a los diputados y magistrados del Tribunal Superior de Justicia y del Tribunal de Justicia Administrativa, licencia temporal para separarse de sus cargos.
 
 XI.- Decidir sobre las solicitudes de renuncia que formule (sic) los diputados y Gobernador del Estado para separarse definitivamente de sus cargos.
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-XII.- Designar mediante el procedimiento previsto en esta Constitución y en las leyes respectivas, a los Contralores Internos del Instituto Electoral y del Tribunal Electoral de Quintana Roo y tomarles la protesta de Ley;
+XII.- Designar y remover a los titulares de los órganos Internos de control de los órganos públicos autónomos reconocidos en esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado. La Ley que los rija determinará los requisitos y el procedimiento para su designación y remoción;
 
 XIII.- Cambiar la sede de los poderes del Estado.
 
@@ -1285,9 +1311,9 @@ XVIII.- Declarar si ha lugar o no a formación de causa de que habla el artícul
 
 XIX.- Elegir la Diputación Permanente.
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-XX.- Designar a los Magistrados del Tribunal Superior de Justicia del Estado así como a los Consejeros Ciudadanos del Consejo de la Judicatura y aprobar o rechazar, en su caso, las renuncias o destituciones de éstos, en los términos de esta Constitución.
+XX.- Designar a los Magistrados del Tribunal Superior de Justicia, así como a los Consejeros Ciudadanos del Consejo de la Judicatura; y a los Magistrados del Tribunal de Justicia Administrativa del Estado, así como aprobar o rechazar, en su caso, las renuncias o destituciones de éstos, en los términos de esta Constitución;
 
 > <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
 
@@ -1313,17 +1339,19 @@ XXVI.- Legislar acerca de la administración, conservación y enajenación de lo
 
 XXVII.- Aprobar o rechazar las concesiones otorgadas por el ejecutivo.
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-XXVIII.- Nombrar y remover, conforme al procedimiento previsto en esta Constitución o en la Ley correspondiente, al Titular del Órgano de Fiscalización Superior del Estado;
+XXVIII.- Nombrar y remover, conforme al procedimiento previsto en esta Constitución y en la ley de la materia, al Titular de la Auditoría Superior del Estado; así como ratificar con el voto de las dos terceras partes de los miembros presentes el nombramiento de los auditores especiales;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-XXIX.- Examinar, aprobar y sancionar, en su caso, la Cuenta Pública de las entidades fiscalizables señaladas en la Ley del Órgano de Fiscalización Superior del Estado;
+XXIX.- Aprobar o rechazar los Informes de Resultados que presente la auditoría Superior del Estado de conformidad con lo establecido en el artículo 77 de esta Constitución.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2010)</small>
+Así como revisar y fiscalizar la Cuenta Pública del año anterior que deberán presentar las entidades fiscalizables ante la Auditoría Superior del Estado, con el objeto de evaluar los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados por el presupuesto y verificar el cumplimiento de los objetivos contenidos en los programas.
 
-Para la revisión de la cuenta pública, la legislatura se apoyará en el Órgano de Fiscalización Superior del Estado. Si del examen que éste realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y a las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la ley. En el caso de la revisión sobre el cumplimiento de los objetivos de los programas, el Órgano de Fiscalización Superior del Estado podrá emitir las recomendaciones para la mejora en el desempeño de los mismos, en los términos de la ley.
+Para la revisión de la cuenta pública, la legislatura se apoyará en la Auditoría Superior del Estado. Si del examen que ésta realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y a las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la ley. En el caso de la revisión sobre el cumplimiento de los objetivos de los programas, la Auditoría Superior del Estado podrá emitir las recomendaciones para la mejora en el desempeño de los mismos, en los términos de la ley.
+
+La Legislatura del Estado evaluará el desempeño de la Auditoría Superior del Estado y al efecto le podrá requerir que le informe sobre la evolución de sus trabajos de fiscalización.
 
 > <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
 
@@ -1336,6 +1364,10 @@ La Legislatura del Estado, al aprobar el Presupuesto de Egresos del Estado, no p
 > <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
 
 En todo caso, dicho señalamiento deberá respetar las bases previstas en el artículo 165 de esta Constitución y las disposiciones de las leyes que en la materia expida la Legislatura.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+Sólo se podrán ampliar los plazos previstos en los artículos 91 y 118, para la presentación de la iniciativa de Ley de Ingresos y del Proyecto de Presupuesto de Egresos, cuando medie solicitud del Ejecutivo suficientemente justificada a juicio de la Legislatura, debiendo comparecer en todo caso el Secretario del Despacho correspondiente a informar de las razones que lo motiven.
 
 XXXI.- Crear y suprimer (sic) empleos públicos y fijar sus emolumentos.
 
@@ -1373,9 +1405,9 @@ XLII.- Determinar el patrimonio familiar señalando los bienes que lo integran, 
 
 XLIII.- Legislar en materia de seguridad social, teniendo como objetivo la permanente superación del nivel de vida de la población, el mejoramiento de su salud y la conservación del medio ambiente, y
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-XLIV.- Integrar la lista de candidatos a Fiscal General del Estado; designar y remover a dicho servidor público de conformidad con esta Constitución y la ley de la materia, así como tomarle la protesta.
+XLIV.- Integrar la lista de candidatos a Fiscal General del Estado; designar y remover a dicho servidor público de conformidad con esta Constitución y la ley en la materia, así como tomarle protesta. Así como designar al titular de la fiscalía especializada en combate a la corrupción en los términos que establezca esta constitución y la ley;
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
 
@@ -1399,15 +1431,25 @@ XLVIII. Expedir leyes encaminadas a combatir el alcoholismo;
 
 XLIX.- Nombrar a los comisionados del órgano garante previsto en el artículo 21 de ésta Constitución, en los términos establecidos en la ley de la materia.
 
-L.- (DEROGADA, P.O. 1 DE AGOSTO DE 2016)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JULIO DE 2017)</small>
 
-> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2016)</small>
+L.- Expedir la Ley Orgánica del Tribunal de Justicia Administrativa del Estado, para establecer su organización, funcionamiento y procedimientos;
 
-LI.- Expedir todas las leyes y decretos que sean necesarios para hacer efectivas las facultades anteriores.
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+
+LI.- Ratificar al Titular de la Secretaría encargada del Control Interno del Poder Ejecutivo Estatal;
 
 > <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
 
 LII. Autorizar la celebración de los convenios del Estado o sus Municipios, en caso de adherirse al mecanismo de contratación de Deuda Estatal Garantizada de conformidad con la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2017)</small>
+
+LIII.- Expedir las leyes que señale el Título Octavo de esta Constitución, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE JULIO DE 2017)</small>
+
+LIV.- Expedir todas las leyes y decretos que sean necesarios para hacer efectivas las facultades anteriores.
 
 #### SECCION QUINTA. De la Diputación Permanente
 
@@ -1425,21 +1467,23 @@ I.- Acordar por sí o a propuesta del Ejecutivo, la convocatoria a sesiones extr
 
 II.- Instalar y presidir la primera Junta Preparatoria de la nueva Legislatura;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-III.- Nombrar interinamente al Titular del Órgano de Fiscalización Superior del Estado.
+III.- Nombrar y remover, conforme al procedimiento previsto en esta Constitución y en la ley de la materia, al Titular de la Auditoría Superior del Estado; así como ratificar con el voto de las dos terceras partes de los miembros presentes el nombramiento de los auditores especiales;
 
 IV.- Resolver los asuntos de su competencia y recibir durante los recesos de la Legislatura las iniciativas de ley y proposiciones que le dirijan turnándolas para dictamen, a fin de que se despachen en el período inmediato de sesiones;
 
-V.- Conceder licencias temporales a los Diputados y Magistrados del Tribunal Superior de Justicia;
+REFORMADA, P.O. 3 DE JULIO DE 2017)
+
+V.- Conceder licencias temporales a los Diputados, a los Magistrados del Tribunal Superior de Justicia y a los Magistrados del Tribunal de Justicia Administrativa;
 
 VI.- Nombrar Gobernador provisional en los casos previstos en esta Constitución;
 
 VII.- Designar por el voto de las dos terceras partes de sus integrantes a los miembros de los Consejos Municipales en los casos previstos por esta Constitución y por la Ley de los Municipios;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-VIII.- Designar a los Magistrados del Tribunal Superior de Justicia del Estado así como a los Consejeros Ciudadanos del Consejo de la Judicatura y aprobar o rechazar, en su caso, las renuncias o destituciones de éstos, en los términos de ésta Constitución.
+VIII.- Designar a los Magistrados del Tribunal Superior de Justicia, a los Consejeros Ciudadanos del Consejo de la Judicatura y a los Magistrados del Tribunal de Justicia Administrativa del Estado. Así como aprobar o rechazar, en su caso, las renuncias o destituciones de éstos, en los términos de esta Constitución.
 
 IX.- Recibir la protesta de Ley al Gobernador interino, provisional, sustituto o quien haga sus veces;
 
@@ -1451,9 +1495,9 @@ X.- Convocar a periodo extraordinario para llevar a cabo la designación o remoc
 
 XI.- Designar mediante el procedimiento que la Ley determine, al Presidente y a los integrantes del Consejo Consultivo de la Comisión de los Derechos Humanos del Estado de Quintana Roo, así como recibirles la protesta de ley;
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-XII.- Designar mediante el procedimiento previsto en esta Constitución y en las leyes respectivas, a los Contralores Internos del Instituto Electoral de Quintana Roo y del Tribunal Electoral de Quintana Roo y tomarles la protesta de Ley;
+XII.- Designar y remover a los titulares de los Órganos Internos de Control de los órganos públicos autónomos reconocidos en esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado. La Ley que los rija determinará los requisitos y el procedimiento para su designación y remoción; así como ratificar al Titular de la Secretaría encargada del Control Interno del Poder Ejecutivo Estatal.
 
 > <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
 
@@ -1465,109 +1509,69 @@ XIV.- (DEROGADA, P.O. 1 DE AGOSTO DE 2016)
 
 XV.- Las demás que le confiera expresamente esta Constitución.
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JULIO DE 2017)</small>
 
-#### SECCION SEXTA. De la Fiscalización del Estado
+#### SECCION SEXTA. De la Revisión y Fiscalización del Estado
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 77.
 
-El Órgano de Fiscalización Superior del Estado, de la Legislatura, tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones en los términos que disponga la ley. Asimismo, contará con personalidad jurídica y patrimonio propio. El presupuesto de egresos del Órgano de Fiscalización Superior no podrá ser menor al cero punto cuarenta y uno por ciento del presupuesto de Egresos del Estado, para el ejercicio fiscal de que se trate y en ningún caso, será menor al presupuesto otorgado en el año inmediato anterior.
+La Auditoría Superior del Estado, de la Legislatura, tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones en los términos que disponga la ley. Asimismo, contará con personalidad jurídica y patrimonio propio. El presupuesto de egresos de la Auditoría Superior del Estado no podrá ser menor al cero punto cuarenta y uno por ciento del presupuesto de Egresos del Estado, para el ejercicio fiscal de que se trate y en ningún caso, será menor al presupuesto otorgado en el año inmediato anterior.
 
-> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2010)</small>
+La función de fiscalización será ejercida conforme a los principios de legalidad, definitividad, imparcialidad y confiabilidad.
 
-La función de fiscalización se desarrollará conforme a los principios de posterioridad, anualidad, legalidad, imparcialidad y confiabilidad.
+El Titular de la Auditoría Superior del Estado será electo por el voto de las dos terceras partes de los miembros presentes de la Legislatura del Estado. Los auditores especiales serán nombrados por el Titular de la Auditoría Superior del Estado, y ratificados por la Legislatura o en su caso, por la Diputación Permanente. Los auditores especiales auxiliarán al Titular en sus funciones. El titular durará en su encargo siete años y podrá ser nombrado nuevamente por una sola vez. Los auditores especiales, durarán en su encargo siete años, con la posibilidad de ser nombrados por un periodo adicional de tres años. El titular de la Auditoría Superior del Estado podrá ser removido, exclusivamente, por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por causas y conforme a los procedimientos previstos en el título octavo de esta Constitución. El titular y los auditores especiales no podrán, durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2010)</small>
+Para ser Titular de la Auditoría Superior del Estado, se requiere cumplir los requisitos establecidos en las fracciones I, II, IV y V del artículo 101 de esta Constitución y los que señale la Ley de la materia. En todo caso, deberá contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades. Para ser auditor especial, se deberán cubrir los mismos requisitos que para ser titular. La ley determinará el procedimiento para la designación y remoción del titular y los auditores especiales.
 
-El Titular del Órgano de Fiscalización Superior del Estado será electo por el voto de las dos terceras partes de los miembros presentes de la Legislatura. La ley correspondiente determinará el procedimiento para su designación. Dicho titular durará en su encargo siete años y no podrá, durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia.
+La Auditoría Superior del Estado podrá iniciar el proceso de fiscalización a partir del primer día hábil del ejercicio fiscal siguiente, sin perjuicio de que las observaciones o recomendaciones que, en su caso realice, deberán referirse a la información definitiva presentada en la Cuenta Pública.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2010)</small>
+Asimismo, por lo que corresponde a los trabajos de planeación de las auditorías, la Auditoría Superior del Estado podrá solicitar información del ejercicio en curso, respecto de procesos concluidos.
 
-Para ser Titular del Órgano de Fiscalización Superior del Estado, se requiere cumplir, además de los requisitos establecidos en las fracciones I, II, IV y V del artículo 101 de esta Constitución, los que señale la Ley del Órgano de Fiscalización Superior del Estado. En todo caso, deberá contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades.
+La Auditoría Superior del Estado tendrá a su cargo:
 
-> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2010)</small>
+I. Revisar y fiscalizar en forma posterior la cuenta pública que los gobiernos, estatal y municipales le presenten sobre su gestión financiera, incluyendo las acciones en materia de fondos, recursos locales y deuda pública, a efecto de comprobar que la recaudación, manejo, custodia y aplicación de los ingresos y egresos durante un ejercicio fiscal, se ejercieron con apego a los criterios y disposiciones legales aplicables y determinar el grado de cumplimiento de los objetivos contenidos en los planes y programas aprobados conforme a la ley. La fiscalización también procederá respecto a la recaudación, administración, manejo o ejercicio de los recursos públicos que realice cualquier persona física o moral, pública o privada.
 
-La Legislatura del Estado, al elegir al Titular del Órgano de Fiscalización Superior, elegirá un titular suplente, en los términos previstos en los dos párrafos anteriores, quien cubrirá las ausencias o falta (sic) definitivas del Titular del Órgano de Fiscalización del Estado.
+También fiscalizará los recursos estatales y municipales que administre o ejerza el Estado y los municipios, en términos que establezcan las leyes. Y en términos que establezca la ley fiscalizará en coordinación con la Auditoría Superior de la Federación las participaciones federales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2010)</small>
+Asimismo, fiscalizará los recursos que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, fondos y mandatos, públicos o privados, o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
 
-El Órgano de Fiscalización Superior del Estado tendrá a su cargo:
+Las entidades fiscalizadas a que se refieren los párrafos anteriores deberán llevar el control y registro contable, patrimonial y presupuestario de los recursos estatales y municipales que les sean transferidos y asignados, de acuerdo con los criterios que establezcan las leyes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2016)</small>
+La Cuenta Pública del año anterior deberá ser enviada a la Legislatura, a través de la Auditoría Superior del Estado, a más tardar el 30 de abril. Sólo se podrá ampliar el plazo de presentación cuando medie solicitud por escrito suficientemente justificada, a juicio de la Legislatura, para lo cual deberá comparecer el titular del ente fiscalizable respectivo, según se trate de cuenta pública estatal o municipal, a informar de las razones que motiven la solicitud. Tratándose de la Cuenta Pública de los Poderes Ejecutivo y Judicial, podrán comparecer los titulares de las Dependencias o quien se designe para tal efecto.
 
-I.- Revisar y fiscalizar en forma posterior la cuenta pública que los gobiernos, estatal y municipales le presenten sobre su gestión financiera, incluyendo las acciones en materia de fondos, recursos locales y deuda pública, a efecto de comprobar que la recaudación, manejo, custodia y aplicación de los ingresos y egresos durante un ejercicio fiscal, se ejercieron con apego a los criterios y disposiciones legales aplicables y determinar el grado de cumplimiento de los objetivos contenidos en los planes y programas aprobados conforme a la ley. La fiscalización también procederá respecto a la recaudación, administración, manejo o ejercicio de los recursos públicos que realice cualquier persona física o moral, pública o privada.
+En caso de ampliación del plazo de presentación de la cuenta pública del ejercicio fiscal correspondiente; la prórroga no deberá exceder de 30 días naturales y, en tal supuesto, la Auditoría Superior del Estado contará con el mismo tiempo adicional para la presentación del Informe General Ejecutivo del resultado de la revisión y fiscalización superior de la cuenta pública.
 
-También fiscalizará directamente los recursos estatales y municipales que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, mandatos, fondos o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los usuarios del sistema financiero.
+La Auditoria Superior del Estado podrá solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de los programas estatales y municipales. Las observaciones y recomendaciones que, respectivamente, el Órgano de Fiscalización Superior del Estado emita, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
 
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2014)</small>
+Sin perjuicio de lo previsto en el párrafo anterior, en las situaciones que determine la Ley, derivado de denuncias, la Auditoria Superior del Estado, previa autorización de su Titular, podrá revisar durante el ejercicio fiscal en curso a las entidades fiscalizadas, así como respecto de ejercicios anteriores.
 
-Las Cuentas Públicas a que se refiere la presente fracción, deberán ser presentadas por las entidades fiscalizables ante el Órgano de Fiscalización Superior del Estado, a más tardar el 31 de marzo del año posterior al del ejercicio fiscal que corresponda;
+Las entidades fiscalizadas proporcionarán la información que se solicite para la revisión, en los plazos y términos señalados por la Ley y, en caso de incumplimiento, serán aplicables las sanciones previstas en la misma. La Auditoria Superior del Estado rendirá un informe específico a la Legislatura del Estado y, en su caso, promoverá las acciones que correspondan ante el Tribunal de Justicia Administrativa del Estado, la Fiscalía Especializada en Combate a la Corrupción del Estado o las autoridades competentes;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+II. Entregar a la Legislatura del Estado, el último día hábil de los meses de junio y octubre, así como el 20 de febrero del año siguiente al de la presentación de la Cuenta Pública, los informes individuales de auditoría que concluya durante el periodo respectivo. Asimismo, en esta última fecha, entregar el Informe General Ejecutivo del Resultado de la Fiscalización Superior de la Cuenta Pública, el cual se someterá a la consideración del Pleno de la Legislatura del Estado. El Informe General Ejecutivo y los informes individuales serán de carácter público y tendrán el contenido que determine la ley; estos últimos incluirán como mínimo el dictamen de su revisión, un apartado específico con las observaciones de la Auditoria Superior del Estado, así como las justificaciones y aclaraciones que, en su caso, las entidades fiscalizadas hayan presentado sobre las mismas.
 
-II.- Entregar a la Legislatura Estatal el informe de resultados de la revisión y fiscalización de la cuenta pública, a más tardar el 5 de septiembre del mismo año de su presentación al Órgano de Fiscalización Superior del Estado de Quintana Roo. Dicho informe contendrá al menos, las auditorías practicadas, los dictámenes de su revisión, el apartado correspondiente a la fiscalización del manejo de los recursos estatales o municipales, así como de las participaciones federales o estatales en su caso, por parte de las entidades fiscalizadas y a la verificación del desempeño en el cumplimiento de los objetivos de los programas estatales o municipales, el cumplimiento de las normas de información financiera para el sector público, los resultados de la gestión financiera, la comprobación de que las entidades se ajustaron a la ley de la materia o al presupuesto de egresos que corresponda, el análisis de las desviaciones presupuestarias en su caso, así como también un apartado específico con las observaciones del Órgano de Fiscalización Superior del Estado que incluya las justificaciones y aclaraciones que, en su caso, las entidades fiscalizadas hayan presentado sobre las mismas.
+Para tal efecto, de manera previa a la presentación del Informe General Ejecutivo y de los informes individuales de auditoría, se darán a conocer a las entidades fiscalizadas la parte que les corresponda de los resultados de su revisión, a efecto de que éstas presenten las justificaciones y aclaraciones que correspondan, las cuales deberán ser valoradas por la Auditoria Superior del Estado para la elaboración de los informes individuales de auditoría.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2010)</small>
+El Titular de la Auditoria Superior del Estado, enviará a las entidades fiscalizadas los informes individuales de auditoría que les corresponda, a más tardar a los 10 días hábiles posteriores a que haya sido entregado el informe individual de auditoría respectivo a la Legislatura del Estado, mismos que contendrán las recomendaciones y acciones que correspondan para que, en un plazo de hasta 30 días hábiles, presenten la información y realicen las consideraciones que estimen pertinentes; en caso de no hacerlo se harán acreedores a las sanciones establecidas en Ley. Lo anterior, no aplicará a las promociones de responsabilidades ante el Tribunal de Justicia Administrativa del Estado, las cuales se sujetarán a los procedimientos y términos que establezca la Ley.
 
-Para tal efecto, de manera previa a la presentación del informe del resultado, se darán a conocer a las entidades fiscalizadas la parte que les corresponda de los resultados de su revisión, a efecto de que éstas presenten las justificaciones y aclaraciones que correspondan, las cuales deberán ser valoradas por el Órgano de Fiscalización Superior del Estado para la elaboración del informe del resultado de la revisión de la Cuenta Pública.
+La Auditoria Superior del Estado deberá pronunciarse en un plazo de 120 días hábiles sobre las respuestas emitidas por las entidades fiscalizadas, en caso de no hacerlo, se tendrán por atendidas las recomendaciones y acciones promovidas.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2010)</small>
+En el caso de las recomendaciones, las entidades fiscalizadas deberán precisar ante la Auditoria Superior del Estado las mejoras realizadas, las acciones emprendidas o, en su caso, justificar su improcedencia.
 
-El Titular del Órgano de Fiscalización Superior del Estado enviará a las entidades fiscalizadas, a más tardar a los 3 días hábiles posteriores a que sea entregado a la Legislatura el informe del resultado, las recomendaciones y acciones promovidas que correspondan para que, en un plazo de hasta 5 días hábiles, presenten la información y realicen las consideraciones que estimen pertinentes; en caso de no hacerlo se harán acreedores a las sanciones establecidas en la ley. Este término podrá ser ampliado hasta por 5 días hábiles más, previa petición y si a juicio del Titular del Órgano de Fiscalización Superior así lo amerita el caso en concreto. Los plazos anteriores no aplicarán a los pliegos de observaciones y a las promociones de responsabilidades, las cuales se sujetarán a los procedimientos y términos que establezca la ley.
+La Auditoria Superior del Estado deberá entregar a la Legislatura del Estado, los días 1 de los meses de mayo y noviembre de cada año, un informe sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas, correspondientes a cada uno de los informes individuales de auditoría que haya presentado en los términos de esta fracción. En dicho informe, el cual tendrá carácter público, la Auditoría incluirá los montos efectivamente resarcidos a la Hacienda Pública Estatal o municipal, al patrimonio de los entes públicos estatales y municipales, como consecuencia de sus acciones de fiscalización, las denuncias penales presentadas y los procedimientos iniciados ante el Tribunal de Justicia Administrativa del Estado.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2010)</small>
+La Auditoría Superior del Estado deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los informes individuales de auditoría y el Informe General Ejecutivo a la Legislatura del Estado a que se refiere esta fracción; la ley establecerá las sanciones aplicables a quienes infrinjan esta disposición;
 
-El Órgano de Fiscalización Superior del Estado deberá pronunciarse en un plazo de 15 días hábiles sobre las respuestas emitidas por las entidades fiscalizadas; en caso de no hacerlo, se tendrán por atendidas las recomendaciones y acciones promovidas.
+III. Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos estatales y municipales y efectuar visitas domiciliarias, únicamente para exigir la exhibición de libros, papeles y archivos indispensables para realizar sus investigaciones, sujetándose a las leyes respectivas y a las formalidades prescritas para los cateos.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2010)</small>
+IV. Derivado de sus investigaciones, promover las responsabilidades que sean procedentes ante el Tribunal de Justicia Administrativa y la Fiscalía Especializada en Combate a la Corrupción del Estado, para la imposición de las sanciones que correspondan a los servidores públicos estatales y, en el caso de los párrafos segundo y tercero de la fracción I de este artículo, a los servidores públicos estatales, municipales, y a los particulares.
 
-En el caso de las recomendaciones al desempeño, las entidades fiscalizadas deberán precisar ante el Órgano de Fiscalización Superior del Estado las mejoras realizadas o, en su caso, justificar su improcedencia.
+Los Poderes del Estado, los municipios y las demás entidades fiscalizadas facilitarán los auxilios que requiera la Auditoria Superior del Estado para el ejercicio de sus funciones y, en caso de no hacerlo, se harán acreedores a las sanciones que establezca la Ley. Asimismo, los servidores públicos estatales y municipales, así como cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan recursos públicos estatales y municipales, deberán proporcionar la información y documentación que solicite la Auditoria Superior del Estado, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero. En caso de no proporcionar la información, los responsables serán sancionados en los términos que establezca la Ley.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2010)</small>
-
-El Órgano de Fiscalización Superior del Estado deberá entregar a la Legislatura, en los meses de julio y noviembre de cada año, un informe sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas.
-
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2010)</small>
-
-El Órgano de Fiscalización Superior del Estado tendrá la obligación de guardar reserva respecto de sus actuaciones e informaciones hasta la fecha en que se entregue a la Legislatura el informe de resultados.
-
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2002)</small>
-
-III.- Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos estatales y municipales y efectuar visitas domiciliarias, únicamente para exigir la exhibición de libros y documentos indispensables para realizar sus investigaciones, sujetándose a las leyes respectivas y a las formalidades prescritas para los cateos.
-
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2002)</small>
-
-IV.- Determinar los daños y perjuicios que afecten la Hacienda Pública o al Patrimonio de los Poderes del Estado o de los Municipios, o al patrimonio de los entes públicos estatales y municipales y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades, incluyendo las referidas en el título Octavo de esta Constitución y presentar las denuncias o querellas penales, en los términos y con las formalidades que señale la ley.
-
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2010)</small>
-
-Los Poderes del Estado, los Municipios y demás entes públicos que deban ser fiscalizados facilitarán los auxilios que requiera el Órgano de Fiscalización Superior del Estado para el ejercicio de sus funciones.
-
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2002)</small>
+La Legislatura del Estado concluirá la revisión de la Cuenta Pública a más tardar el 31 de octubre del año siguiente al de su presentación, con base en el análisis de su contenido y en las conclusiones técnicas del Informe General Ejecutivo del resultado de la Fiscalización Superior, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por la Auditoría Superior del Estado, sigan su curso en términos de lo dispuesto en este artículo;
 
 V.- Las demás facultades y atribuciones que le otorguen las leyes respectivas.
-
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2010)</small>
-
-La fiscalización que realice el Órgano de Fiscalización Superior del Estado, se ejercerá de manera posterior a la gestión financiera y tiene carácter externo por lo que se llevará a cabo de manera independiente y autónoma de cualquier otra forma de control o fiscalización interna de los sujetos que sean fiscalizables conforme a la ley de la materia.
-
-> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2010)</small>
-
-Sin perjuicio del principio de anualidad, el Órgano de Fiscalización Superior podrá solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la cuenta pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de los programas estatales o municipales. Las observaciones y recomendaciones, que al respecto emita el Órgano de Fiscalización Superior del Estado, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
-
-> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2010)</small>
-
-Asimismo, sin perjuicio del principio de posterioridad, en las situaciones excepcionales que determine la ley, derivado de denuncias, podrá requerir a las entidades fiscalizadas que procedan a la revisión, durante el ejercicio fiscal en curso, de los conceptos denunciados y le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la ley, se impondrán las sanciones previstas en la misma. El Órgano de Fiscalización Superior rendirá un informe específico a la Legislatura y, en su caso, fincará las responsabilidades correspondientes o promoverá otras responsabilidades ante las autoridades competentes.
-
-> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2010)</small>
-
-De igual forma, los servidores públicos estatales y municipales, así como cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan recursos públicos federales, estatales o municipales deberán proporcionar la información y documentación que solicite el Órgano de Fiscalización Superior del Estado, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades. En caso de no proporcionar la información, los responsables serán sancionados en los términos que establezca la ley.
-
-> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2010)</small>
-
-Las entidades fiscalizadas, deberán llevar el control y registro contable, patrimonial y presupuestario de los recursos que les sean transferidos y asignados.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
 
@@ -1613,13 +1617,13 @@ III.- No pertenecer al estado eclesiástico ni ser ministro de algún culto reli
 
 IV.- No ser militar en servicio activo o ciudadano con mando en los cuerpos de seguridad pública, dentro de los noventa días anteriores a la fecha de la elección.
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-V.- No ser Secretario de Estado o Jefe de Departamento, Ministro de la Suprema Corte de Justicia de la Nación o Fiscal General de la República, en funciones, dentro de los noventa días anteriores a la fecha de la elección.
+V.- No ser Secretario de Estado, Diputado o Senador, Ministro de la Suprema Corte de Justicia de la Nación, Fiscal General de la República, Fiscal Federal Especializado en Combate a la Corrupción, en funciones, a menos que se separe del cargo noventa días anteriores a la fecha de la elección;
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-VI.- No ser Secretario o Subsecretario del despacho, Director de Organismos Descentralizados o Empresas de Participación Estatal, Oficial Mayor, Fiscal General del Estado, Titular del Órgano de Fiscalización Superior del Estado o Magistrado del Tribunal Superior de Justicia, a menos que se separe del cargo noventa días antes de la fecha de la elección.
+VI.- No ser Secretario o Subsecretario del despacho, Director de Organismos Descentralizados o Empresas de Participación Estatal, Oficial Mayor, Fiscal General del Estado, Fiscal Especializado en Combate a la Corrupción del Estado, Titular de la Auditoría Superior del Estado, Magistrado del Tribunal Superior de Justicia o Magistrado del Tribunal de Justicia Administrativa del Estado, a menos que se separe del cargo noventa días antes de la fecha de la elección.
 
 VII.- No estar comprendido en alguna de las prohibiciones establecidas por el artículo 89 de esta Constitución.
 
@@ -1697,7 +1701,9 @@ I.- Nombrar y remover libremente a los Secretarios de Despacho de la Administrac
 
 II.- (DEROGADA, P.O. 9 DE JULIO DE 1998)
 
-III.- (DEROGADA, P.O. 9 DE JULIO DE 1998)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JULIO DE 2017)</small>
+
+III.- Expedir los reglamentos, acuerdos y decretos en el ámbito de su competencia dentro de la administración pública centralizada y descentralizada, empresas de participación estatal, fideicomisos y demás órganos que se creen en la forma en que determinen las leyes;
 
 IV.- (DEROGADA, P.O. 9 DE JULIO DE 1998)
 
@@ -1801,9 +1807,9 @@ Tratándose de los decretos promulgatorios de las leyes o decretos expedidos por
 
 La Legislatura Estatal, mediante la ley o decreto que al efecto expida, establecerá un Organismo de Protección de los Derechos Humanos, en el marco que otorga el orden jurídico vigente, el cual conocerá de quejas en contra de actos u omisiones de naturaleza administrativa, provenientes de cualquier autoridad o servidor público, del Estado o de los Ayuntamientos que violen estos derechos.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
-El Organismo que establezca la legislatura se denominará Comisión de los Derechos Humanos del Estado de Quintana Roo; contará con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios. El presupuesto de egresos de la Comisión de los Derechos Humanos de Quintana Roo no podrá ser menor al cero punto quince por ciento del presupuesto de Egresos del Estado, para el ejercicio fiscal de que se trate y en ningún caso, será menor al presupuesto otorgado en el año inmediato anterior, para tal efecto, el proyecto de presupuesto de egresos de la Comisión, será remitido a la Legislatura, para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 15 de noviembre del año anterior al ejercicio fiscal que corresponda. El proyecto de presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos de la Comisión, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
+El Organismo que establezca la legislatura se denominará Comisión de los Derechos Humanos del Estado de Quintana Roo, el cual será órgano público autónomo, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, de gestión, independencia funcional y financiera, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna. Esta Comisión contará con un órgano interno de control, cuyo titular será designado por la Legislatura o la Diputación Permanente, en su caso; durará cuatro años sin posibilidad de reelección, y no podrá durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia. La Ley establecerá los requisitos y el procedimiento para la designación del titular del órgano interno de control. El presupuesto de egresos de la Comisión de los Derechos Humanos de Quintana Roo no podrá ser menor al cero punto quince por ciento del presupuesto de Egresos del Estado, para el ejercicio fiscal de que se trate y en ningún caso, será menor al presupuesto otorgado en el año inmediato anterior, para tal efecto, el proyecto de presupuesto de egresos de la Comisión, será remitido a la Legislatura, para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 15 de noviembre del año anterior al ejercicio fiscal que corresponda. El proyecto de presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos de la Comisión, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
 
 La Comisión de los Derechos Humanos del Estado de Quintana Roo, tendrá un Consejo Consultivo integrado por un Presidente y seis Consejeros, que serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Legislatura o, en sus recesos, por la Diputación Permanente, con la misma votación calificada. La ley determinará los procedimientos a seguir para la presentación de las propuestas, la duración del encargo y los requisitos para acceder a éste.
 
@@ -1845,11 +1851,13 @@ Tratándose de lo dispuesto en la fracción I del presente artículo, podrá ser
 
 ### Capítulo IV. De la Fiscalía General del Estado
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 96.
 
-El Ministerio Público se organizará en una Fiscalía General como órgano constitucional autónomo, dotado de personalidad jurídica y patrimonio propio.
+El Ministerio Público se organizará en una Fiscalía General como un órgano público autónomo, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, de gestión, independencia funcional y financiera, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
 
 Para ser Fiscal General se requiere:
 
@@ -1867,6 +1875,8 @@ VI.- Tener modo honesto de vivir, y
 
 VII.- No haber sido condenado por delito doloso.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
+
 A.- El Fiscal General del Estado durará en su encargo nueve años, y será designado y removido conforme a lo siguiente:
 
 a) A partir de la ausencia definitiva del Fiscal General del Estado, la Legislatura del Estado contará con veinte días naturales para integrar una lista de diez candidatos al cargo, aprobada por las dos terceras partes de los miembros integrantes de la Legislatura, la cual se enviará al Ejecutivo Estatal.
@@ -1876,6 +1886,10 @@ La presidencia de la Legislatura o de la Diputación Permanente, convocará a lo
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
 
 Si el Ejecutivo no recibe la lista en el plazo señalado en el primer párrafo del presente inciso, enviará libremente a la Legislatura del Estado una terna y designará provisionalmente al Fiscal General, quien ejercerá sus funciones hasta en tanto se realice la designación definitiva conforme a lo establecido en este artículo. En este caso, el Fiscal General designado podrá formar parte de la terna.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+En el caso de ausencia definitiva del Fiscal General, el Gobernador del Estado designará a un Fiscal Interino en los términos previstos por este artículo, en tanto la Legislatura inicia el procedimiento de designación del Fiscal General en los términos establecidos en el primer párrafo de este inciso.
 
 b) Recibida la lista a que se refiere el inciso anterior, dentro de los diez días naturales siguientes el Ejecutivo formulará la terna y la enviará a la consideración de la Legislatura del Estado.
 
@@ -1895,6 +1909,8 @@ e) En los recesos de la Legislatura del Estado, la Diputación Permanente convoc
 
 f) Las ausencias del Fiscal General del Estado serán suplidas en los términos que determiné la ley.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
+
 B.- Corresponde al Ministerio Público la persecución, ante los tribunales, de todos los delitos del orden común; y, por lo mismo, solicitará las medidas cautelares contra los imputados; buscará y presentará las pruebas que acrediten la participación de éstos en hechos que las leyes señalen como delito; procurará que los juicios en materia penal se sigan con toda regularidad para que la impartición de justicia sea pronta y expedita; pedirá la aplicación de las penas, e intervendrá en todos los asuntos que la ley determine.
 
 La ley establecerá las bases para la formación y actualización de los servidores públicos de la Fiscalía General del Estado, así como para el desarrollo de la carrera profesional de los mismos, la cual se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
@@ -1902,6 +1918,8 @@ La ley establecerá las bases para la formación y actualización de los servido
 El Fiscal General del Estado presentará anualmente a los Poderes Legislativo y Ejecutivo un informe de actividades. Comparecerá ante el Poder Legislativo cuando se le cite a rendir cuentas o a informar sobre su gestión.
 
 El Fiscal General del Estado y sus agentes, serán responsables de toda falta, omisión o violación a la ley en que incurran con motivo de sus funciones.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
 
 C.- La Fiscalía General del Estado administrará con autonomía su presupuesto; el Fiscal General del Estado elaborará el anteproyecto de presupuesto de egresos de la Fiscalía General.
 
@@ -1913,7 +1931,17 @@ El presupuesto de egresos para la Fiscalía General del Estado no podrá ser men
 
 La Cuenta Pública de la Fiscalía General del Estado se sujetará a lo dispuesto por esta Constitución y las leyes aplicables en la materia.
 
-D.- (DEROGADO, P.O. 28 DE OCTUBRE DE 2016)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JULIO DE 2017)</small>
+
+D. La Fiscalía General contará, al menos, con una Fiscalía Especializada en materia de Combate a la Corrupción.
+
+El nombramiento del fiscal se sujetará a la remisión de una terna por parte del Fiscal General del Estado a la Legislatura o en su caso, a la Diputación Permanente, quien deberá designar de entre los candidatos al Titular de la Fiscalía Especializada de Combate a la Corrupción, sujetándose al procedimiento que se establezca en la ley.
+
+El Fiscal Especializado en Combate a la Corrupción deberá cubrir los mismos requisitos para ser Fiscal General y durará en su encargo siete años sin posibilidad de ser reelecto.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+E. La Fiscalía General contará con un órgano interno de control, cuyo titular será designado por la Legislatura del Estado o la Diputación Permanente, en su caso; durará cuatro años en su cargo sin posibilidad de reelección, y no podrá durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia. La Ley establecerá los requisitos y el procedimiento para su designación.
 
 > <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2016)</small>
 
@@ -1951,13 +1979,13 @@ El Tribunal Superior de Justicia se integra por doce Magistrados Numerarios y el
 
 El Pleno del Tribunal se integrará solamente con los magistrados numerarios, con la excepción de los supuestos previstos en esta Constitución y en la Ley Orgánica del Poder Judicial.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
-Las Salas se integrarán por Magistrados Numerarios o Supernumerarios organizadas por materia o circuito, pudiendo ser unitarias o colegiadas con la conformación, integración, jurisdicción y competencia que determine el Pleno con sujeción a la ley. Las Salas Colegiadas se integrarán con tres magistrados. La Sala Constitucional y Administrativa se integrará con un Magistrado Numerario.
+Las Salas se integrarán por Magistrados Numerarios o Supernumerarios organizadas por materia o circuito, pudiendo ser unitarias o colegiadas con la conformación, integración, jurisdicción y competencia que determine el Pleno con sujeción a la ley. Las Salas Colegiadas se integrarán con tres magistrados. La Sala Constitucional se integrará con un Magistrado Numerario.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
-Las apelaciones en los juicios de oralidad serán resueltas de forma unitaria o colegiada, por los Magistrados en los casos previstos por la ley o determinación fundada del Pleno, con excepción del Magistrado Presidente, el Magistrado de la Sala Constitucional y Administrativa y el Magistrado Consejero.
+Las apelaciones en los juicios de oralidad serán resueltas de forma unitaria o colegiada, por los Magistrados en los casos previstos por la ley o determinación fundada del Pleno, con excepción del Magistrado Presidente, el Magistrado de la Sala Constitucional y el Magistrado Consejero.
 
 > <small>(ADICIONADO, P.O. 18 DE JULIO DE 2014)</small>
 
@@ -2117,11 +2145,13 @@ En los términos que la ley disponga las sesiones del Pleno y de las Salas será
 
 El control constitucional se erige dentro del régimen interior del Estado, como un medio para mantener la eficacia y vigencia de esta Constitución; tiene por objeto dirimir de manera definitiva e inatacable en el orden jurídico estatal, los conflictos que por la constitucionalidad de sus actos o disposiciones generales, surjan en el ámbito interior del Estado entre el Poder Ejecutivo y el Legislativo o entre uno de ellos y los municipios que conforman el Estado, o entre dos o más municipios, sin perjuicio de lo previsto en los artículos 76 fracción VII, 103, 105, 107 y último párrafo de la fracción II del 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 105.
 
-El Tribunal Superior de Justicia contará con una Sala Constitucional y Administrativa, integrada por un Magistrado Numerario, la cual tendrá competencia para:
+El Tribunal Superior de Justicia contará con una Sala Constitucional, integrada por un Magistrado numerario, que tendrá competencia para:
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
 APARTADO A. En cumplimiento de las atribuciones señaladas en la fracción VIII del artículo 103 de esta Constitución, deberá substanciar y formular en los términos de la ley respectiva, los correspondientes proyectos de resolución definitiva que se someterán al Pleno del Tribunal Superior de Justicia, en los siguientes medios de control:
 
@@ -2145,7 +2175,17 @@ II. De las acciones de inconstitucionalidad que tengan por objeto plantear la po
 
 a) Cuando menos la tercera parte de los miembros del Congreso del Estado.
 
-b) El Fiscal General del Estado, en contra de leyes de carácter estatal.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+
+b) El Gobernador del Estado, por conducto del Consejero Jurídico del Poder Ejecutivo, en contra de normas de carácter estatal;
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+c) El Fiscal General del Estado, respecto de leyes en materia penal, así como, las relacionadas en el ámbito de sus funciones, y
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+d) El Organismo Garante que establece el artículo 21 de esta Constitución en contra de leyes de carácter local, que vulneren el derecho al acceso a la información pública y la protección de datos personales.
 
 La admisión de una acción de inconstitucionalidad no dará lugar a la suspensión de la norma impugnada.
 
@@ -2161,27 +2201,11 @@ La resolución que emita el Pleno del Tribunal Superior de Justicia que decrete 
 
 En dicha resolución se determinará un plazo para que se expida la Ley o Decreto de que se trate la omisión, a más tardar en el período ordinario que curse o el inmediato siguiente de la Legislatura del Estado, pudiendo disminuir este plazo cuando el interés público lo amerite.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
 APARTADO B. De oficio o a petición de parte, también conocerá de las contradicciones de tesis que se contengan en las resoluciones de las demás salas, debiendo presentar el proyecto al Pleno del Tribunal para los efectos de la fracción IV del artículo 103 de esta Constitución. La Ley establecerá los términos en los que el Pleno del Tribunal Superior de Justicia emita jurisprudencia, sobre la interpretación de leyes, decretos y reglamentos locales, así como los requisitos para su interrupción y modificación.
 
-APARTADO C. Conocerá y resolverá de los recursos o medios de defensa que la ley señale como de su competencia, que tengan por objeto dirimir las controversias que se susciten entre los particulares y la administración pública estatal o municipal:
-
-I. De los juicios en contra de actos administrativos que las autoridades de la Administración Pública del Estado o de los Ayuntamientos dicten, ordenen, ejecuten o traten de ejecutar, en agravio de personas físicas o morales;
-
-II. De los juicios en contra de los actos administrativos de la Administración Pública Paraestatal del Estado o los Municipios, cuando actúen con el carácter de autoridades;
-
-III. De los juicios en contra de las resoluciones definitivas dictadas por la Administración Pública del Estado o de los Ayuntamientos en las que se determine la existencia de una obligación fiscal, se fije ésta en cantidad líquida o se den las bases para su liquidación, nieguen la devolución de un ingreso indebidamente percibido o cualesquiera otras que causen agravio en materia fiscal;
-
-IV. De los juicios en contra de la falta de contestación de las mismas autoridades, dentro de un término de treinta días naturales, a las promociones presentadas ante ellas por los particulares, a menos que las leyes y reglamentos fijen otros plazos o la naturaleza del asunto lo requiera;
-
-V. De los juicios en contra de resoluciones de negativa ficta en materia fiscal, que se configurarán transcurridos cuatro meses a partir de la recepción por parte de las autoridades demandadas competentes de la última promoción presentada por él o los demandantes, a menos que las leyes fiscales fijen otros plazos;
-
-VI. De los juicios en que se demande la resolución de afirmativa ficta, cuando lo establezcan expresamente las disposiciones legales aplicables y en los plazos en que éstas lo determinen;
-
-VII. De los juicios en que se impugne la negativa de la autoridad a certificar la configuración de la afirmativa ficta, cuando así lo establezcan las leyes;
-
-VIII. De los juicios que promuevan las autoridades para que sean nulificadas las resoluciones fiscales favorables a las personas físicas o morales y que causen una lesión a la Hacienda Pública del Estado o de los Ayuntamientos, y
-
-IX. De los demás que expresamente se señalen en esta Constitución y la Ley.
+APARTADO C. (DEROGADO, P.O. 3 DE JULIO DE 2017)
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
 
@@ -2241,17 +2265,81 @@ La Cuenta Pública del Poder Judicial del Estado será revisada por la Legislatu
 
 La Ley establecerá las bases para el manejo de dicho fondo.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], P.O. 3 DE JULIO DE 2017)</small>
 
-### CAPÍTULO VI. DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE QUINTANA ROO
+### CAPÍTULO VI. Del Tribunal de Justicia Administrativa del Estado de Quintana Roo
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 110.
 
-(DEROGADO, P.O. 1 DE AGOSTO DE 2016)
+El Tribunal de Justicia Administrativa del Estado de Quintana Roo, es un órgano público autónomo, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, de gestión, independencia funcional y financiera, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna.
+
+Las resoluciones del Tribunal de Justicia Administrativa del Estado serán emitidas con plenitud de jurisdicción en una sola instancia y sus fallos serán definitivos.
+
+El Tribunal de Justicia Administrativa del Estado se integrará por cinco magistrados, uno de los cuales fungirá como su Presidente. La Presidencia será rotativa en los términos que establezca la ley.
+
+El Tribunal de Justicia Administrativa del Estado, funcionará de manera permanente en Pleno o en Salas.
+
+El Tribunal contará cuando menos, con una Sala Especializada en materia anticorrupción y responsabilidades administrativas, con la integración y competencia que establezca la Ley.
+
+Para ser Magistrado del Tribunal de Justicia Administrativa del Estado, se deberán reunir los mismos requisitos exigidos para ser Magistrado del Tribunal Superior de Justicia y los que determine la ley.
+
+Los Magistrados del Tribunal de Justicia Administrativa serán designados por la Legislatura del Estado o la Diputación Permanente, en su caso, con el voto de las dos terceras partes de sus miembros presentes, y durarán en su encargo ocho años, con posibilidad de ser nombrados por la Legislatura del Estado por cuatro años adicionales. Los Magistrados del Tribunal de Justicia Administrativa del Estado rendirán protesta ante la Legislatura del Estado o la Diputación Permanente.
+
+El procedimiento para la designación de los Magistrados se deberá sujetar a los principios de paridad de género y máxima publicidad, y se llevará a cabo de conformidad con las siguientes disposiciones generales:
+
+a) La Legislatura del Estado o en su caso, la Diputación Permanente, emitirá una convocatoria pública abierta, en la que se establecerán las bases para participar y conformar la lista de candidatos a Magistrados del Tribunal de Justicia Administrativa. Dicha convocatoria deberá ser emitida y publicada en el Periódico Oficial del Estado, dos periódicos de mayor circulación y en la página web oficial del Poder Legislativo del Estado.
+
+b) Una vez recibidas las solicitudes de las personas que deseen participar y que hayan cumplido con lo estipulado en las bases de la convocatoria, la Legislatura del Estado o en su caso, la Diputación Permanente, a través de la Comisión de Anticorrupción, Participación Ciudadana y Órganos Autónomos, determinará qué aspirantes cumplieron los requisitos constitucionales y legales y los entrevistará a efecto de emitir el dictamen que corresponda.
+
+c) Posteriormente, la Legislatura del Estado o en su caso, la Diputación Permanente, remitirá el dictamen de la Comisión de Anticorrupción, Participación Ciudadana y Órganos Autónomos al Ejecutivo del Estado, para que conforme cinco binas, las cuales deberán ser remitidas a la Legislatura del Estado o la Diputación Permanente en su caso, dentro de los tres días posteriores.
+
+d) La Legislatura o en su caso, la Diputación Permanente, una vez llevado a cabo lo dispuesto en el inciso anterior, designará por cada bina propuesta a un magistrado.
+
+La ley desarrollará de manera específica los términos del procedimiento de designación antes mencionado.
+
+Los Magistrados del Tribunal de Justicia Administrativa del Estado sólo podrán ser removidos de sus cargos por la Legislatura del Estado o en su caso, la Diputación Permanente, por las causas graves que señale la ley.
+
+Los magistrados no podrán tener, servir o desempeñar al mismo tiempo otro empleo, cargo o comisión diverso, con excepción de la docencia y los cargos honoríficos en instituciones públicas o privadas, asociaciones o sociedades científicas, literarias, culturales, educativas, deportivas, de investigación científica o de beneficencia, cuyo desempeño no perjudique las funciones o labores propias de su cargo.
+
+La retribución que perciban los Magistrados del Tribunal de Justicia Administrativa del Estado, será la equivalente a la de un Magistrado Numerario del Tribunal Superior de Justicia del Estado.
+
+El proyecto de presupuesto de egresos del Tribunal, será remitido a la Legislatura, para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 15 de noviembre del año anterior al ejercicio fiscal que corresponda. El presupuesto de egresos del Tribunal de Justicia Administrativa del Estado, deberá incluir los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
+
+El Tribunal de Justicia Administrativa del Estado contará con un órgano interno de control, cuyo titular será designado por la Legislatura del Estado o la Diputación Permanente, en su caso; durará cuatro años en su cargo, sin posibilidad de reelección, y no podrá durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 111.
 
-(DEROGADO, P.O. 1 DE AGOSTO DE 2016)
+El Tribunal de Justicia Administrativa del Estado de Quintana Roo, tendrá a su cargo:
+
+I. Dirimir las controversias que se susciten entre la administración pública estatal y municipal y los particulares, derivados de:
+
+a) Los juicios en contra de actos administrativos que las autoridades de la Administración Pública del Estado o de los Ayuntamientos dicten, ordenen, ejecuten o traten de ejecutar, en agravio de personas físicas o morales;
+
+b) Los juicios en contra de los actos administrativos de la Administración Pública Paraestatal del Estado o los Municipios, cuando actúen con el carácter de autoridades;
+
+c) Los juicios en contra de las resoluciones definitivas dictadas por la Administración Pública del Estado o de los Ayuntamientos en las que se determine la existencia de una obligación fiscal, se fije ésta en cantidad líquida o se den las bases para su liquidación, nieguen la devolución de un ingreso indebidamente percibido o cualesquiera otras que causen agravio en materia fiscal;
+
+d) Los juicios en contra de la falta de contestación de las mismas autoridades, dentro de un término de treinta días naturales, a las promociones presentadas ante ellas por los particulares, a menos que las leyes y reglamentos fijen otros plazos o la naturaleza del asunto lo requiera;
+
+e) Los juicios en contra de resoluciones de negativa ficta en materia fiscal, que se configurarán transcurridos cuatro meses a partir de la recepción por parte de las autoridades demandadas competentes de la última promoción presentada por el o los demandantes, a menos que las leyes fiscales fijen otros plazos;
+
+f) Los juicios en que se demande la resolución de afirmativa ficta, cuando lo establezcan expresamente las disposiciones legales aplicables y en los plazos en que éstas lo determinen;
+
+g) Los juicios en que se impugne la negativa de la autoridad a certificar la configuración de la afirmativa ficta, cuando así lo establezcan las leyes, y
+
+h) Los juicios que promuevan las autoridades para que sean nulificadas las resoluciones fiscales favorables a las personas físicas o morales y que causen una lesión a la Hacienda Pública del Estado o de los Ayuntamientos;
+
+II. Imponer, en los términos que disponga la ley, las sanciones a los servidores públicos estatales y municipales por responsabilidad administrativa grave, y a los particulares que incurran en actos vinculados con faltas administrativas graves;
+
+III. Fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos estatales o municipales;
+
+IV. Aprobar, modificar o dejar sin efectos la jurisprudencia y tesis relevantes que se deriven de las sentencias del Tribunal de Justicia Administrativa del Estado, y
+
+V. Las demás atribuciones que expresamente se señalen en la Constitución Política de los Estados Unidos Mexicanos, esta Constitución, su ley orgánica y demás disposiciones aplicables.
 
 ## TITULO QUINTO. De la División de Poderes
 
@@ -2321,11 +2409,11 @@ Si al iniciarse el año fiscal no se hubiere aprobado el Presupuesto de Egresos 
 
 No podrá hacerse pago alguno que no esté comprendido en el Presupuesto de Egresos o determinado por ley posterior.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 122.
 
-Las cuentas de los caudales públicos deberán glosarse sin excepción por el Órgano de Fiscalización Superior del Estado.
+Las cuentas de los caudales públicos deberán glosarse sin excepción por la Auditoría Superior del Estado.
 
 ###### ARTICULO 123.
 
@@ -2795,8 +2883,6 @@ EST P.V. X Y
 
 42 43 S 65°25'58"E 833.981 467675.680 2257242.454 42
 
-43 1
-
 43 1 Sobre la línea de costa 468434.164 2256895.718 43
 
 del Mar Caribe hacia
@@ -3215,7 +3301,7 @@ Los Ayuntamientos se integran en la siguiente forma:
 
 > <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-l. En los Municipios de Othón P. Blanco, Benito Juárez y Solidaridad, con un Presidente, un Síndico, nueve Regidores electos según el principio de mayoría relativa y seis Regidores electos según el principio de representación proporcional;
+I. En los Municipios de Othón P. Blanco, Benito Juárez y Solidaridad, con un Presidente, un Síndico, nueve Regidores electos según el principio de mayoría relativa y seis Regidores electos según el principio de representación proporcional;
 
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
@@ -3263,7 +3349,9 @@ II. Ser de reconocida probidad y solvencia moral.
 
 III. No desempeñar, con excepción de los docentes, cargo o comisión del Gobierno Federal, Estatal o Municipal a menos que se separe con noventa días de anticipación al día de la elección. Esta disposición no será aplicable a quienes participen con el carácter de suplentes.
 
-IV. No ser Magistrado del Tribunal Electoral del Estado, ni Consejero, Secretario General o Director del Instituto Electoral del Estado, a menos que se separe dos años antes de la fecha de inicio del proceso electoral.
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+
+IV. No ser Magistrado del Tribunal de Justicia Administrativa del Estado, ni del Tribunal Electoral del Estado, ni Consejero, Secretario General o Director del Instituto Electoral del Estado, a menos que se separe dos años antes de la fecha de inicio del proceso electoral.
 
 V. No ser ministro de cualquier culto, a menos que se separe formal y definitivamente de su ministerio cuando menos cinco años antes del inicio del proceso electoral.
 
@@ -3583,21 +3671,57 @@ Las relaciones laborales entre los Municipios y sus trabajadores se regirán por
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE OCTUBRE DE 2003)</small>
 
-### CAPITULO UNICO. De la Responsabilidad de los Servidores Públicos
+### CAPITULO UNICO. De las Responsabilidades de los Servidores Públicos y Particulares Vinculados con Faltas Administrativas Graves o Hechos de Corrupción
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 160.
 
-Para los efectos de las responsabilidades a que alude este Título, se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial, funcionarios y empleados del gobierno del Estado y de los ayuntamientos y en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en los poderes Legislativo, Ejecutivo y Judicial, ayuntamientos, organismos descentralizados de la administración pública estatal o municipal, empresas de participación estatal o municipal y fideicomisos públicos del estado o de los municipios, así como a los funcionarios y empleados del Instituto Electoral de Quintana Roo, del Tribunal Electoral de Quintana Roo, del Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo y de la Fiscalía General del Estado de Quintana Roo, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones; así como, por el manejo indebido de recursos públicos y la deuda pública.
+Para los efectos de las responsabilidades a que alude este Título, se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial del Estado, y en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en el Poder Legislativo del Estado, el Poder Judicial o en la Administración Pública Estatal o Municipal, entidades paraestatales y paramunicipales y órganos públicos autónomos a los que esta Constitución les otorga dicha calidad, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones, y por el manejo indebido de recursos públicos y la deuda pública.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
-La Legislatura del Estado expedirá una Ley de Responsabilidades de los Servidores Públicos, así como las demás disposiciones que sancionen conductas que entrañen responsabilidad de los servidores públicos conforme a las siguientes prevenciones:
+Los servidores públicos y particulares que incurran en responsabilidad frente al Estado, serán sancionados conforme a lo siguiente:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2016)</small>
+I. Se impondrá mediante juicio político:
 
-I. Se impondrá mediante juicio político: a la o el Gobernador del Estado, a las o los Diputados de la Legislatura, las y los Magistrados del Tribunal Superior de Justicia, las y los Magistrados del Tribunal Electoral de Quintana Roo, las y los Consejeros de la Judicatura del Poder Judicial, a la o al Titular del Órgano de Fiscalización Superior, a las o los comisionados del Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo, a las o los Consejeros Electorales del Consejo General, así como a la o el Secretario General del Instituto Electoral de Quintana Roo, las y los Secretarios y Subsecretarios del Despacho, a la o el Fiscal General del Estado, las y los Directores Generales o sus equivalentes de los organismos descentralizados del Estado o de los Municipios, empresas de participación estatal o municipal, fideicomisos del Estado o de los Municipios y miembros de los Ayuntamientos; sanciones consistentes en destitución del cargo e inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público, cuando incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. Cualquier ciudadano bajo su más estricta responsabilidad y aportando los elementos de prueba, podrá formular denuncia ante la Legislatura, de las conductas a que se refiere esta fracción.
+a) A la o el Gobernador del Estado;
+
+b) A las y los Diputados de la Legislatura del Estado;
+
+c) A las y los Magistrados del Tribunal Superior de Justicia;
+
+d) A las y los Magistrados del Tribunal de Justicia Administrativa del Estado;
+
+e) A las y los Consejeros de la Judicatura del Poder Judicial;
+
+f) A la o el Titular de la Auditoría Superior del Estado;
+
+g) A las o los comisionados del Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo;
+
+h) A las o los Consejeros Electorales del Consejo General del Instituto Electoral de Quintana Roo;
+
+i) A las o los Secretarios Generales del Instituto Electoral de Quintana Roo y del Tribunal Electoral de Quintana Roo, respectivamente;
+
+j) A la o el Presidente de la Comisión de los Derechos Humanos del Estado;
+
+k) A las y los Secretarios y Subsecretarios del Despacho;
+
+l) A la o el Fiscal General del Estado;
+
+m) A las y los Directores Generales o sus equivalentes de los organismos descentralizados del Estado o de los Municipios, empresas de participación estatal o municipal, fideicomisos del Estado o de los Municipios;
+
+n) A las y los miembros de los Ayuntamientos, y
+
+o) A los titulares de los órganos internos de control de los órganos públicos autónomos reconocidos en esta Constitución.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+Las sanciones a los sujetos antes mencionados serán las consistentes en destitución del cargo e inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público, cuando incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho, en los términos que establezca la ley.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+El procedimiento de juicio político sólo podrá iniciarse durante el periodo en el que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en un período no mayor de un año a partir de iniciado el procedimiento.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -3623,17 +3747,31 @@ II. El Gobernador del Estado, los Diputados a la Legislatura, los Magistrados de
 
 III. La legislación penal del Estado prevendrá como delito común el enriquecimiento ilícito de los servidores públicos que durante el tiempo de su encargo o por motivos del mismo, por sí o por interpósita persona aumenten sustancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, sin comprobar su legal procedencia, estableciendo además de la sanción pecuniaria y corporal que corresponda, el decomiso de los bienes que no pudiera justificar legalmente. Asimismo perseguirá y sancionará la comisión de delitos por parte de cualquier servidor público.
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-IV. Se aplicarán sanciones administrativas a los servidores públicos por actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones, mismas que serán determinadas en las leyes, reglamentos o decretos de las Dependencias, Instituciones u Organismos que los creen o regulen su funcionamiento, previniendo el procedimiento la autoridad encargada de aplicarla y la forma de oír al responsable en su defensa.
+IV. Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones. Dichas sanciones consistirán en amonestación, suspensión, destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos que, en su caso, haya obtenido el responsable y con los daños y perjuicios patrimoniales causados por los actos u omisiones. La investigación y sanción de dichos actos u omisiones se realizará en apego a las leyes aplicables en materia de Responsabilidades Administrativas.
 
-Los procedimientos para la aplicación de las sanciones mencionadas se desarrollarán autónomamente.
+Las faltas administrativas graves serán investigadas y substanciadas por la Auditoría Superior del Estado y los órganos internos de control, según corresponda, y serán resueltas por el Tribunal de Justicia Administrativa del Estado. Las demás faltas y sanciones administrativas, serán conocidas y resueltas por los órganos internos de control.
 
-No podrá imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
+Para la investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Poder Judicial del Estado, se observará lo previsto en la ley respectiva, sin perjuicio de las atribuciones de la Auditoría Superior del Estado en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2003)</small>
+La ley establecerá los supuestos y procedimientos para impugnar la clasificación de las faltas administrativas como no graves, que realicen los órganos internos de control.
 
-V. La Ley de Responsabilidades de los Servidores Públicos, determinará las obligaciones de éstos, las sanciones aplicables por los actos u omisiones indebidos que señala este Título, los procedimientos a seguir y las autoridades encargadas de su aplicación.
+La clasificación de las faltas administrativas que realicen los órganos internos de control podrá ser impugnada en términos que establezca la Ley.
+
+Los entes públicos estatales y municipales, así como los órganos públicos autónomos, contarán con órganos internos de control con las facultades que determine la ley para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas; para sancionar aquéllas distintas a las que son competencia del Tribunal de Justicia Administrativa del Estado; revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos estatales y municipales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción a que se refiere esta Constitución.
+
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+
+V. El Tribunal de Justicia Administrativa impondrá a los particulares que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, las sanciones económicas; inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas; así como el resarcimiento de los daños y perjuicios ocasionados a la Hacienda Pública o a los entes públicos estatales y municipales.
+
+Las personas morales serán sancionadas en los términos de esta fracción cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella.
+
+También podrá ordenarse la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública o a los entes públicos estatales y municipales, siempre que la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que la resolución sea definitiva. Las leyes establecerán los procedimientos para la investigación e imposición de las sanciones aplicables de dichos actos u omisiones.
+
+En el cumplimiento de sus atribuciones, a los órganos responsables de la investigación y sanción de responsabilidades administrativas y hechos de corrupción no les serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios; en términos que establezcan las leyes.
+
+La Auditoría Superior del Estado y la Secretaría del Ejecutivo Estatal responsable del control interno, podrán recurrir las determinaciones de la Fiscalía Especializada en Combate a la Corrupción de conformidad con lo previsto en el artículo 26, Apartado C, fracción VII en su primer párrafo de esta Constitución;
 
 > <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -3647,11 +3785,77 @@ VII. En los juicios de orden civil no existe fuero ni inmunidad de ningún servi
 
 VIII. Las declaraciones y resoluciones que se dicten a quienes se sujeten a Juicio Político son inatacables.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+Los servidores públicos a que se refiere el presente artículo estarán obligados a presentar, bajo protesta de decir verdad, su declaración patrimonial y de intereses ante las autoridades competentes y en los términos que determine la ley.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+La responsabilidad por los delitos cometidos durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la Ley penal, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeña alguno de los encargos a que hace referencia el primer párrafo de este artículo.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+Para el caso de faltas administrativas no graves, las facultades de la Secretaría de la Gestión Pública o de los órganos internos de control para imponer las sanciones, prescribirán en tres años, contados a partir del día siguiente al que se hubieren cometido las infracciones, o a partir del momento en que hubieren cesado.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+Cuando se trate de faltas administrativas graves o faltas de particulares, el plazo de prescripción será de siete años, contados en los mismos términos del párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+La prescripción se interrumpirá en los términos que establezca la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+Los procedimientos para la aplicación de las sanciones mencionadas se desarrollarán autónomamente. No podrá imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 161.
 
-La responsabilidad oficial sólo podrá exigirse durante el tiempo que el funcionario o empleado desempeñe el encargo, y hasta un año después.
+El Sistema Estatal Anticorrupción es la instancia de coordinación entre las autoridades de los órdenes de gobierno estatal y municipal competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos, en apego a las bases, mecanismos y políticas del Sistema Nacional Anticorrupción. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
+
+I. El Sistema contará con un Comité Coordinador que estará integrado por los titulares de la Auditoría Superior del Estado, de la Fiscalía Especializada en Combate a la Corrupción, de la Secretaría del Ejecutivo responsable del control interno, el Presidente del Tribunal de Justicia Administrativa del Estado, el Presidente del organismo garante que establece el artículo 21 de esta Constitución, así como por un representante del Consejo de la Judicatura del Poder Judicial del Estado y otro del Comité de Participación Ciudadana;
+
+II. El Comité de Participación Ciudadana del Sistema deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados conforme al siguiente procedimiento:
+
+a) La Legislatura del Estado constituirá una Comisión de Selección integrada por cinco mexicanos, residentes del Estado, por un periodo de tres años, de la siguiente manera:
+
+1. Convocará a las instituciones de educación superior y de investigación del Estado, para proponer candidatos a fin de integrar la Comisión de selección, para lo cual deberán enviar los documentos que acrediten el perfil solicitado en la convocatoria, en un plazo no mayor a quince días, para seleccionar a tres miembros basándose en los elementos decisorios que se hayan plasmado en la convocatoria, tomando en cuenta que se hayan destacado por su contribución en materia de fiscalización, de rendición de cuentas y combate a la corrupción.
+
+2. Convocará a organizaciones de la sociedad civil que tengan experiencia comprobada en materia de fiscalización, de rendición de cuentas y combate a la corrupción, para seleccionar a dos miembros, en los mismos términos del inciso anterior.
+
+3. El cargo de miembro de la Comisión de selección será honorario. Quienes funjan como miembros no podrán ser designados como integrantes del Comité de Participación Ciudadana por un periodo de seis años contados a partir de la disolución de la Comisión de selección.
+
+b) La Comisión de selección deberá emitir una convocatoria, con el objeto de realizar una amplia consulta pública en el Estado, dirigida a toda la sociedad, para que presenten sus postulaciones de aspirantes a ocupar el cargo. Para ello, definirá la metodología, plazos y criterios de selección de los integrantes del Comité de Participación Ciudadana Estatal y deberá hacerlos públicos; en donde deberá considerar al menos las siguientes características:
+
+1. El método de registro y evaluación de los aspirantes;
+
+2. Hacer pública la lista de las y los aspirantes;
+
+3. Hacer públicos los documentos que hayan sido entregados para su inscripción en versiones públicas;
+
+4. Hacer público el cronograma de audiencias;
+
+5. Podrán efectuarse audiencias públicas en las que se invitará a participar a investigadores, académicos y a organizaciones de la sociedad civil, especialistas en la materia, y
+
+6. El plazo en que se deberá hacer la designación que al efecto se determine, y que se tomará, en sesión pública, por el voto de la mayoría de sus miembros.
+
+En caso de que se generen vacantes imprevistas, el proceso de selección del nuevo integrante no podrá exceder el límite de noventa días y el ciudadano que resulte electo desempeñará el encargo por el tiempo restante de la vacante a ocupar.
+
+III. Corresponderá al Comité Coordinador del Sistema, en los términos que determine la Ley:
+
+a) El establecimiento de mecanismos de coordinación con los sistemas locales de otras entidades federativas y con el sistema nacional;
+
+b) El diseño y promoción de políticas integrales en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción, en especial sobre las causas que los generan;
+
+c) La determinación de los mecanismos de suministro, intercambio, sistematización y actualización de la información que sobre estas materias generen las instituciones competentes de los órdenes de gobierno estatal y municipal;
+
+d) El establecimiento de bases y principios para la efectiva coordinación de las autoridades de los órdenes de gobierno estatal y municipal en materia de fiscalización y control de los recursos públicos, y
+
+e) La elaboración de un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia.
+
+Derivado de este informe, podrá emitir recomendaciones no vinculantes a las autoridades estatales y municipales, con el objeto de que adopten medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como al mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al Comité sobre la atención que brinden a las mismas.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -3667,7 +3871,9 @@ Siempre que se trate de alguno de los servidores públicos especificados en la f
 
 (REUBICADO, P.O. 24 DE OCTUBRE DE 2003)
 
-## TITULO OCTAVO. (REUBICADO, P.O. 24 DE OCTUBRE DE 2003)
+## TITULO OCTAVO
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JULIO DE 2017)</small>
 
 ### CAPITULO UNICO. De las Reformas a la Constitución
 
@@ -4894,3 +5100,69 @@ P.O. 15 DE JUNIO DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- En un plazo no mayor a treinta días naturales contados a partir de la entrada en vigor del presente Decreto, se deberán implementar las adecuaciones a la legislación secundaria en congruencia con la presente reforma.
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “DECLARATORIA NÚMERO: 002 POR EL (SIC) QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, EN MATERIA DE COMBATE A LA CORRUPCIÓN”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo, sin perjuicio de lo previsto en los transitorios siguientes.
+
+SEGUNDO. El Sistema Estatal Anticorrupción a que hace referencia el presente decreto, iniciará su operatividad el primero de enero del año 2018.
+
+TERCERO. El proceso de revisión y fiscalización de las cuentas públicas a que hace referencia el artículo 75 fracción XXIX y 77 de esta Constitución, iniciará su operatividad a partir del primero de enero del año 2018. En ese sentido, los entes fiscalizables y la Auditoría Superior del Estado, deberán ajustarse a los plazos estipulados en dichos artículos.
+
+CUARTO. La ley a que se refiere el artículo 75 fracción L, establecerá que, observando lo dispuesto en la Ley de Presupuesto y Gasto Público del Estado de Quintana Roo, el Tribunal de Justicia Administrativa del Estado:
+
+a) Aprobará su proyecto de presupuesto, con sujeción a los criterios generales de política económica y los techos globales de gasto establecidos por el Ejecutivo Estatal;
+
+b) Ejercerá directamente su presupuesto aprobado por La Legislatura del Estado, sin sujetarse a las disposiciones emitidas por la Secretaría de Finanzas y Planeación;
+
+c) Autorizará las adecuaciones presupuestarias sin requerir la autorización de la Secretaría de Finanzas y Planeación, siempre y cuando no rebase su techo global aprobado por la Legislatura del Estado;
+
+d) Determinará los ajustes que correspondan a su presupuesto en caso de disminución de ingresos durante el ejercicio fiscal, y
+
+e) Realizará los pagos, llevará la contabilidad y elaborará sus informes, a través de su propia tesorería, en los términos de las leyes aplicables.
+
+QUINTO. Por única ocasión la duración del nombramiento de los Magistrados del Tribunal de Justicia Administrativa será de la siguiente forma:
+
+a) Dos Magistrados que durarán en su encargo 6 años, quienes podrán ser reelectos por un periodo de igual duración, y
+
+b) Tres Magistrados que durarán en su encargo 8 años, quienes podrán ser reelectos por un periodo de cuatro años adicionales.
+
+El Tribunal de Justicia Administrativa del Estado quedará instalado para efectos de llevar a cabo su organización y funcionamiento administrativo, dentro de los treinta días hábiles posteriores a la designación de los Magistrados, de conformidad con la presente Constitución y la Ley de la materia.
+
+Para iniciar su labor jurisdiccional, el Tribunal de Justicia Administrativa del Estado quedará legalmente instalado el primer día hábil del mes de enero del año dos mil dieciocho, previa Declaratoria de la Legislatura del Estado.
+
+SEXTO. La Sala Constitucional del Tribunal Superior de Justicia del Estado de Quintana Roo, seguirá conociendo de los asuntos previstos en la Ley de Justicia Administrativa que actualmente se encuentren en trámite y aquellos que se verifiquen hasta en tanto se realicen las modificaciones a las respectivas leyes y la Legislatura del Estado emita una declaratoria de inicio de funciones del Tribunal de Justicia Administrativa del Estado, la cual no podrá exceder del primero de enero del año 2018.
+
+SÉPTIMO. El titular de la Fiscalía General del Estado de Quintana Roo, deberá remitir la terna a la Legislatura para designar al Fiscal Especializado en Combate a la Corrupción, a los sesenta días siguientes a la entrada en vigor del presente decreto.
+
+OCTAVO. La Legislatura del Estado, designará a los nuevos titulares de los órganos internos de control de los órganos públicos autónomos reconocidos en esta Constitución, en un plazo de noventa días a partir de la entrada en vigor del presente decreto.
+
+Los Contralores o titulares de los órganos internos de control del Instituto de Acceso a la Información y Protección de Datos Personales, del Tribunal Electoral, del Instituto Electoral, de la Comisión de los Derechos Humanos y de la Fiscalía General, todos del Estado de Quintana Roo, que se encuentren en funciones a la entrada en vigor de este decreto continuarán en su encargo hasta en tanto se realicen los nuevos nombramientos.
+
+Los Contralores o los titulares de los órganos interno de control a que se refiere el párrafo anterior serán elegibles para un nuevo nombramiento, en los términos de esta Constitución.
+
+NOVENO. La Legislatura del Estado o la Diputación Permanente, en su caso, en los términos previstos por esta Constitución y la ley de la materia, designará en un plazo de sesenta días posteriores a la entrada en vigor del presente Decreto, al Titular de la Auditoría Superior del Estado.
+
+DÉCIMO. Dentro de los treinta días siguientes a la expedición de la Ley del Sistema Estatal Anticorrupción, la Legislatura del Estado, deberá designar a los integrantes de la Comisión de Selección, en los términos previstos por el artículo 161 fracción II de esta Constitución.
+
+La Comisión de Selección nombrará a los integrantes del Comité de Participación Ciudadana, en los términos siguientes:
+
+a) Un integrante que durará en su encargo un año, a quién corresponderá la representación del Comité de Participación Ciudadana ante el Comité Coordinador.
+
+b) Un integrante que durará en su encargo dos años.
+
+c) Un integrante que durará en su encargo tres años.
+
+d) Un integrante que durará en su encargo cuatro años.
+
+e) Un integrante que durará en su encargo cinco años.
+
+Los integrantes del Comité de Participación Ciudadana a que se refieren los incisos anteriores se rotarán la representación ante el Comité Coordinador en el mismo orden en que fueron nombrados.
+
+La sesión de instalación del Comité Coordinador del Sistema Estatal Anticorrupción, se llevará a cabo dentro del plazo de treinta días naturales posteriores a que se haya integrado en su totalidad el Comité de Participación Ciudadana en los términos de los párrafos anteriores.
+
+DÉCIMO PRIMERO. La Secretaría de Finanzas y Planeación, realizará las acciones necesarias para proveer de recursos a la Fiscalía General del Estado, en virtud de la creación de la Fiscalía Especializada de Combate a la Corrupción y al Tribunal de Justicia Administrativa del Estado; para el óptimo desempeño de sus funciones, en tanto se aprueban el presupuesto de egresos por la Legislatura del Estado en términos de esta Constitución, lo cual no podrá exceder del 15 de diciembre de 2017. El presupuesto aprobado deberá cubrir los capítulos de servicios personales, materiales y suministros, así como de servicios generales necesarios.
+
+DÉCIMO SEGUNDO. La Legislatura del Estado o en su caso la Diputación Permanente, deberá ratificar al Titular de la Secretaría encargada del Control Interno del Poder Ejecutivo Estatal, en un plazo no mayor a sesenta días posteriores a la entrada en vigor del presente Decreto.
