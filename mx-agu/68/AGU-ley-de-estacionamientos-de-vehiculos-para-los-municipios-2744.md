@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-estacionamientos-de-vehiculos-para-los-municipios-2744"
 country: "mx"
 rank: "ley"
 publication_date: "1989-04-09"
-last_updated: "2016-03-07"
+last_updated: "2017-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2744&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ESTACIONAMIENTOS DE VEHÍCULOS PARA LOS MUNICIPIOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Aguascalientes, el 9 de abril de 1989.
 
@@ -101,7 +101,7 @@ II.- Edificios que para prestar dicho servicio hayan sido acondicionados de acue
 
 III.- Terrenos no edificados que cuenten con las instalaciones y reúnan los requisitos indispensables para la prestación del servicio; y
 
-IV.- Las vías públicas, por lo que se refiere a estacionamiento exclusivamente, salvo las disposiciones. o señalamientos en contrario.
+IV.- Las vías públicas, por lo que se refiere a estacionamiento exclusivamente, salvo las disposiciones o señalamientos en contrario.
 
 ###### ARTICULO 10.
 
@@ -121,7 +121,7 @@ Su establecimiento y funcionamiento no requiere de licencia o permiso otorgado p
 
 III.- Privados, los establecidos en áreas, inmuebles, edificaciones o instalaciones que se utilizan fuera de la vía pública para el estacionamiento y/o guarda de vehículos, siempre que el acceso sea exclusivo y controlado y el servicio gratuito.
 
-En estos casos, no se requiere licencia o permiso para su establecimiento y funcionamiento ; y
+En estos casos, no se requiere licencia o permiso para su establecimiento y funcionamiento; y
 
 IV.- De vía pública, que son las áreas de la misma que la autoridad municipal determine utilizadas para el estacionamiento pagado o gratuito de vehículos, salvo disposiciones o señalamientos en contrario.
 
@@ -223,7 +223,7 @@ El estacionamiento de vehículos en la vía pública será libre salvo las dispo
 
 Podrán solicitar y obtener, en su caso, las licencias o permisos para el establecimiento y funcionamiento de estacionamientos públicos:
 
-I.- Las dependencias y entidades de la administración pública y cualquier otra institución publica;
+I.- Las dependencias y entidades de la administración pública y cualquier otra institución pública;
 
 II.- Las personas físicas; y
 
@@ -235,7 +235,7 @@ El interesado en obtener una licencia o permiso para el establecimiento y funcio
 
 I.- Nombre, domicilio y nacionalidad del solicitante. Si es extranjero deberá comprobar que está autorizado por la Secretaría de Gobernación para dedicarse a esa actividad. Si se trata de persona moral se acompañará copia certificada de la escritura constitutiva y de sus modificaciones, así como del acta en que conste la designación de administradores o apoderados para acreditar su personalidad y las facultades otorgadas;
 
-II.- Ubicación del inmueble donde se pretenda establecer y funcionar el estacionamiento publico, señalando su superficie, medidas y colindancias. Se deberá anexar croquis de localización;
+II.- Ubicación del inmueble donde se pretenda establecer y funcionar el estacionamiento público, señalando su superficie, medidas y colindancias. Se deberá anexar croquis de localización;
 
 III.- La constancia o licencia de uso del suelo, el alineamiento y el número oficial vigentes, en los que se señale que el uso o destino del inmueble respectivo es compatible con el de estacionamiento público.
 
@@ -315,7 +315,7 @@ No se podrá modificar el tipo de estacionamiento para vehículos que se haya au
 
 Los estacionamientos públicos de paga deberán reunir los siguientes requisitos:
 
-I.- Estar pavimentados, drenados adecuadamente y bardeados en sus colidancias con los predios vecinos;
+I.- Estar pavimentados, drenados adecuadamente y bardeados en sus colidancias (sic) con los predios vecinos;
 
 II.- Tener carriles de entrada y salida de vehículos por separado, para que los vehículos en ningún caso utilicen un mismo carril y entren o salgan en reversa;
 
@@ -363,7 +363,7 @@ Si el solicitante cumple con todos los requisitos previstos en este ordenamiento
 
 ###### ARTICULO 34.
 
-El Ayuntamiento notificará al solicitante lo conducente, dentro de los cinco días hábiles siguientes al en que emita la resolución a que se refiere el articulo anterior.
+El Ayuntamiento notificará al solicitante lo conducente, dentro de los cinco días hábiles siguientes al en que emita la resolución a que se refiere el artículo anterior.
 
 En caso de que la resolución sea favorable, el Ayuntamiento hará entrega al solicitante de la licencia o permiso respectivo, previo el pago de los derechos que determine la Ley de Ingresos del Municipio y cubiertos los requisitos legales.
 
@@ -607,7 +607,9 @@ Las sanciones administrativas podrán consistir en:
 
 I.- Clausura temporal o definitiva, total o parcial, del estacionamiento de cualquier tipo;
 
-II.- Multa equivalente al importe de hasta dos mil días de salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+
+II.- Multa equivalente al importe de hasta dos mil veces el valor diario de la unidad de medida y actualización;
 
 III.- La revocación de las licencias o permisos para el establecimiento y funcionamiento de estacionamientos públicos;
 
@@ -716,3 +718,11 @@ P.O. 7 DE MARZO DE 2016.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
