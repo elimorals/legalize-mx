@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2017-05-15"
+last_updated: "2017-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # CODIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -523,11 +525,11 @@ Lo dispuesto en el artículo anterior se observará también cuando se haya omit
 
 Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará copia fotostática certificada del registro que lo compruebe para que el Oficial del Registro Civil lo inserte en su parte relativa en el formato de registro.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
 ###### Artículo 73.
 
-La omisión del registro en el caso del artículo anterior no suspende los efectos legales al reconocimiento hecho conforme a las disposiciones de este Código; pero a los responsables de la omisión se les aplicará una multa de treinta a cincuenta días de salario mínimo general vigente en el Estado.
+La omisión del registro en el caso del artículo anterior no suspende los efectos legales al reconocimiento hecho conforme a las disposiciones de este Código; pero a los responsables de la omisión se les aplicará una multa de treinta a cincuenta veces el valor diario de la unidad de medida y actualización.
 
 > <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2008)</small>
 
@@ -587,11 +589,11 @@ DE LAS ACTAS DE TUTELA.
 
 Pronunciado el auto de discernimiento de la tutela, el Juez mandará publicarlo en los términos que disponga el Código de Procedimientos Civiles y remitirá copia del mismo dentro de las 72 horas al Oficial del Registro Civil, para que levante el acta respectiva, previniendo al tutor nombrado que se presente ante dicho funcionario y cuidando de remitir, con la copia antes dicha, todos los datos exigidos por el Artículo 83 de este Código. El curador vigilará del cumplimiento de este artículo.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
 ###### Artículo 82.
 
-La omisión del registro de tutela no impide al tutor iniciar en el ejercicio de su encargo ni puede alegarse por ninguna persona como causa para dejar de tratar con él, pero hace responsables al tutor y al curador de esta omisión, la que se sancionará con multa de treinta a cincuenta días de salario mínimo general vigente en el Estado.
+La omisión del registro de tutela no impide al tutor iniciar en el ejercicio de su encargo ni puede alegarse por ninguna persona como causa para dejar de tratar con él, pero hace responsables al tutor y al curador de esta omisión, la que se sancionará con multa de treinta a cincuenta veces el valor diario de la unidad de medida y actualización.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2000)</small>
 
@@ -823,11 +825,11 @@ El Oficial del Registro Civil que autorice un matrimonio teniendo conocimiento d
 
 Los Oficiales del Registro Civil sólo podrán negarse a autorizar un matrimonio, cuando por los términos de la solicitud, por el conocimiento de los interesados o por denuncia en forma, tuvieren noticias de que alguno de los pretendientes, o los dos carecen de aptitud legal para celebrar el matrimonio.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
 ###### Artículo 104.
 
-El Oficial del Registro Civil que sin motivo justificado retarde la celebración de un matrimonio, será sancionado, por primera vez con una multa de treinta a cincuenta días de salario mínimo general vigente en el Estado, y en caso de reincidencia, con la destitución de su cargo, según la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
+El Oficial del Registro Civil que sin motivo justificado retarde la celebración de un matrimonio, será sancionado, por primera vez con una multa de treinta a cincuenta veces el valor diario de la unidad de medida y actualización, y en caso de reincidencia, con la destitución de su cargo, según la Ley en materia de responsabilidades de los servidores públicos.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -4937,9 +4939,9 @@ III.- Los bienes muebles de la casa de conformidad con lo dispuesto en el Artíc
 
 IV.- La maquinaria, instrumentos y animales propios para el cultivo agrícola, en caso de que uno o varios miembros de la familia se dediquen a esta actividad; y
 
-> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-V.- Un vehículo automotriz cuya propiedad esté debidamente acreditada y que en su primera factura de enajenación la suma de su valor total y del Impuesto al Valor Agregado no exceda los 4515 días de salario mínimo general vigente en el Estado.
+V.- Un vehículo automotriz cuya propiedad esté debidamente acreditada y que en su primera factura de enajenación la suma de su valor total y del Impuesto al Valor Agregado no exceda las 4515 veces el valor diario de la unidad de medida y actualización.
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
@@ -10371,8 +10373,6 @@ Cuando sin el empleo de mecanismos, instrumentos, etc., a que se refiere el art�
 
 La reparación del daño debe consistir en el restablecimiento de la situación anterior a él, y cuando ello sea imposible, en el pago de daños y perjuicios.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2010)</small>
 
 ###### Artículo 1790.
@@ -10446,8 +10446,6 @@ En los casos previstos por los artículos 1797, 1798 y 1799 el que sufra el dañ
 ###### Artículo 1801.
 
 El que paga el daño causado por sus sirvientes, empleados u operarios, puede repetir de ellos lo que hubiere pagado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### ARTICULO 1802.
 
@@ -17017,8 +17015,6 @@ P.O. 22 DE JUNIO DE 2015.
 
 El presente Decreto iniciará su vigencia a los treinta días hábiles siguientes al de su publicación en el Periódico Oficial del Estado de Aguascalientes, quedando sin efecto todas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2015)</small>
 
 Por lo que hace a los juicios de divorcio en trámite, será potestativo para cualquiera de las partes acogerse a las reformas establecidas en el presente Decreto, para lo cual se tendrá que presentar la propuesta de convenio referido en el Artículo 289 del Código Civil. En caso de que los cónyuges no logren un acuerdo respecto a dicho convenio, las cuestiones controvertidas se sustanciarán vía incidental en términos de lo dispuesto por el Artículo 295 del Código Civil, y al resolverlas el Juez deberá considerar las pruebas que, en su caso, haya admitido o desahogado antes de la presentación de la propuesta de convenio y que tengan relación con los puntos controvertidos.
@@ -17130,3 +17126,11 @@ P.O. 15 DE MAYO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 La presente reforma entrará en vigor al día siguiente de su publicación en la (sic) Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
