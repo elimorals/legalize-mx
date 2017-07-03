@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-informacion-estadistica-y-geografica-del-estado-de-20098
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-12"
-last_updated: "2005-08-08"
+last_updated: "2017-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY DE INFORMACION ESTADISTICA Y GEOGRAFICA DEL ESTADO DE AGUASCALIENTES
 
-LEY DE INFORMACION ESTADISTICA Y GEOGRAFICA DEL ESTADO DE AGUASCALIENTES
+LEY DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el 12 de febrero de 2001.
 
@@ -603,11 +603,17 @@ Para los efectos de este artículo, son considerados como recolectores las perso
 
 La comisión de cualesquiera de las infracciones a que se refieren los Artículos 42, 43 y 44 dará lugar a que la Secretaría aplique sanciones administrativas, que consistirán en:
 
-I.- Multa de una hasta doscientas veces el Salario Mínimo General Vigente para el Estado de Aguascalientes en el momento de la comisión de la infracción, para los supuestos de infracción a que se refieren los Artículos 42 Fracción V; 43 Fracciones VI y VII; y 44 Fracción I de esta Ley;
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-II.- Multa de doscientos una hasta cuatrocientas veces el Salario Mínimo General Vigente para el Estado de Aguascalientes en el momento de la comisión de la infracción, para los supuestos de infracción a que se refieren los Artículos 42 Fracción IV; y 43 Fracciones IV y V;
+I.- Multa de una hasta doscientas veces el valor diario de la unidad de medida y actualización en el momento de la comisión de la infracción, para los supuestos de infracción a que se refieren los Artículos 42 Fracción V; 43 Fracciones VI y VII; y 44 Fracción I de esta Ley;
 
-III.- Multa de cuatrocientos una hasta seiscientas veces el Salario Mínimo General Vigente para el Estado de Aguascalientes en el momento de la comisión de la infracción, para los supuestos de infracción a que se refieren los Artículos 42 Fracciones I, II y III; 43 Fracciones I, II y III; y 44 Fracción II de esta Ley.
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+
+II.- Multa de doscientas una hasta cuatrocientas veces el valor diario de la unidad de medida y actualización en el momento de la comisión de la infracción, para los supuestos de infracción a que se refieren los Artículos 42 Fracción IV; y 43 Fracciones IV y V;
+
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+
+III.- Multa de cuatrocientos una hasta seiscientas veces el valor diario de la unidad de medida y actualización en el momento de la comisión de la infracción, para los supuestos de infracción a que se refieren los Artículos 42 Fracciones I, II y III; 43 Fracciones I, II y III; y 44 Fracción II de esta Ley.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
 
@@ -672,3 +678,11 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuarán su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
