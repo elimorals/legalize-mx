@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-estado-de-aguascalientes-10055"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-01"
-last_updated: "2015-12-31"
+last_updated: "2017-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10055&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Ley publicada en el Suplemento al Número 1, Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 1 de enero de 1984.
 
@@ -181,9 +181,9 @@ Será base para el pago de este impuesto el monto establecido por las partes en 
 
 Si las obligaciones pecuniarias se estipulan a base de obligaciones periódicas, su monto se calculará por la suma de todas ellas.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
-En el caso de que no exista o no pudiera ser determinable una obligación pecuniaria derivada de los contratos y/o actos jurídicos y notariales, el impuesto se determinará a razón de un salario mínimo general diario vigente en el Estado de Aguascalientes, por cada acto jurídico que obre en el instrumento respectivo.
+En el caso de que no exista o no pudiera ser determinable una obligación pecuniaria derivada de los contratos y/o actos jurídicos y notariales, el impuesto se determinará a razón de una vez el valor diario de la unidad de medida y actualización, por cada acto jurídico que obre en el instrumento respectivo.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -201,13 +201,13 @@ II.- Por la fusión de sociedades civiles y mercantiles la base del impuesto ser
 
 III.- Por los aumentos de capital de sociedades civiles y mercantiles la base será el importe del capital aumentado y sobre dicho monto se causará el impuesto a razón de seis al millar;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-IV.- Por la disolución y liquidación de sociedades, se causará el impuesto a razón de un salario mínimo general diario, vigente en el Estado de Aguascalientes, por cada acto;
+IV.- Por la disolución y liquidación de sociedades, se causará el impuesto a razón de una vez el valor diario de la unidad de medida y actualización, por cada acto;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-V.- Por cualquier otra modificación a escrituras constitutivas de sociedades, se causará el impuesto a razón de un salario mínimo general diario, vigente en el Estado de Aguascalientes, por cada acto;
+V.- Por cualquier otra modificación a escrituras constitutivas de sociedades, se causará el impuesto a razón de una vez el valor diario de la unidad de medida y actualización, por cada acto;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -215,29 +215,29 @@ VI.- Por los contratos de mutuo entre particulares con o sin garantía, así com
 
 VII.- Por la cesión de los derechos derivados de los actos y contratos previsto en la Fracción inmediata anterior la base del impuesto será el monto de los actos jurídicos y sobre dicho monto se causará el impuesto a razón de seis al millar;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-VIII.- Por el otorgamiento, sustitución, renuncia o revocación de poderes, se causará el impuesto a razón de un salario mínimo general diario, vigente en el Estado de Aguascalientes, por cada acto;
+VIII.- Por el otorgamiento, sustitución, renuncia o revocación de poderes, se causará el impuesto a razón de una vez el valor diario de la unidad de medida y actualización, por cada acto;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-IX.- Por las rectificaciones o ratificaciones de cualquier acto o contrato, se causará el impuesto a razón de un salario mínimo general diario, vigente en el Estado de Aguascalientes, por cada acto;
+IX.- Por las rectificaciones o ratificaciones de cualquier acto o contrato, se causará el impuesto a razón de una vez el valor diario de la unidad de medida y actualización, por cada acto;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-X.- Por la celebración de instrumentos privados, se causará el impuesto a razón de un salario mínimo general diario, vigente en el Estado de Aguascalientes, por cada acto;
+X.- Por la celebración de instrumentos privados, se causará el impuesto a razón de una vez el valor diario de la unidad de medida y actualización, por cada acto;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 XI.- Por la celebración de contratos de arrendamiento puro o financiero en todas sus modalidades, entre personas de derecho privado, la base será el monto del contrato y sobre dicho monto se causará el impuesto, a razón de seis al millar;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-XII.- Por cualquier otro tipo de acto o contrato que represente o no intereses pecuniarios para los otorgantes, siempre que el acto contenido en éstos no esté gravado por otro impuesto estatal, así como las actas notariales que contengan certificación de hechos, se causará el impuesto a razón de un salario mínimo general diario, vigente en el Estado de Aguascalientes, por cada acto;
+XII.- Por cualquier otro tipo de acto o contrato que represente o no intereses pecuniarios para los otorgantes, siempre que el acto contenido en éstos no esté gravado por otro impuesto estatal, así como las actas notariales que contengan certificación de hechos, se causará el impuesto a razón de una vez el valor diario de la unidad de medida y actualización, por cada acto;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-XIII.- Cuando no exista o no pudiera ser determinable una obligación pecuniaria derivada de los contratos y/o actos jurídicos y notariales objeto de la presente contribución, se causará el impuesto a razón de un salario general diario, vigente en el Estado de Aguascalientes, por cada acto.
+XIII.- Cuando no exista o no pudiera ser determinable una obligación pecuniaria derivada de los contratos y/o actos jurídicos y notariales objeto de la presente contribución, se causará el impuesto a razón de una vez el valor diario de la unidad de medida y actualización, por cada acto.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1613,13 +1613,13 @@ II.- Si la contabilidad y documentación del contribuyente no permite reconstrui
 
 Con la finalidad de verificar los ingresos que se reciban durante el citado periodo, el verificador designado por la Autoridad Fiscal Estatal, podrá acudir e ingresar a las instalaciones del contribuyente, debiendo esté último permitir su entrada al establecimiento.
 
-Cuando la autoridad fiscal ejerza las facultades de determinación estimativa previstas en las Fracciones I y II anteriores, la base para la determinación del ingreso percibido por el contribuyente, deberá considerar el valor de las contraprestaciones que el contribuyente haya recibido en el periodo sujeto a revisión y no el valor de las contraprestaciones que reciba en el momento en el que se ejerzan las facultades de determinación presuntiva. En caso de que la Autoridad Fiscal Estatal no pueda determinar el valor de las contraprestaciones en el periodo sujeto a revisión, aplicará el factor deflacionario al valor de las contraprestaciones que perciba en el momento en que se ejerzan las facultades de determinación estimativa hasta el periodo sujeto a revisión, conforme al factor de actualización a que se refiere la Ley de Ingresos del Estado vigente en el ejercicio fiscal en se (sic) determine estimativamente el ingreso correspondiente. Dicho factor se obtendrá dividendo el Índice Nacional de Precios al Consumidor del mes anterior al en que se apliquen las facultades de determinación estimativa entre el citado índice correspondiente a cada mes del periodo sujeto a revisión.
+Cuando la autoridad fiscal ejerza las facultades de determinación estimativa previstas en las Fracciones I y II anteriores, la base para la determinación del ingreso percibido por el contribuyente, deberá considerar el valor de las contraprestaciones que el contribuyente haya recibido en el periodo sujeto a revisión y no el valor de las contraprestaciones que reciba en el momento en el que se ejerzan las facultades de determinación presuntiva. En caso de que la Autoridad Fiscal Estatal no pueda determinar el valor de las contraprestaciones en el periodo sujeto a revisión, aplicará el factor deflacionario al valor de las contraprestaciones que perciba en el momento en que se ejerzan las facultades de determinación estimativa hasta el periodo sujeto a revisión, conforme al factor de actualización a que se refiere la Ley de Ingresos del Estado vigente en el ejercicio fiscal en (sic) se determine estimativamente el ingreso correspondiente. Dicho factor se obtendrá dividendo el Índice Nacional de Precios al Consumidor del mes anterior al en que se apliquen las facultades de determinación estimativa entre el citado índice correspondiente a cada mes del periodo sujeto a revisión.
 
 III.- Si la contabilidad y documentación del contribuyente no permite reconstruir ninguna de las operaciones realizadas, la Secretaría de Finanzas del Estado además de la facultad prevista en la Fracción inmediata anterior, podrá optar por considerar como base del impuesto los ingresos que correspondan a una ocupación promedio del 60% durante el periodo sujeto a revisión, de conformidad con las tarifas utilizadas por el prestador de servicios de hospedaje en dicho periodo. En caso de que la Autoridad Fiscal Estatal no pueda determinar el valor de las contraprestaciones en el periodo sujeto a revisión, aplicará el factor deflacionario al valor de las contraprestaciones que perciba en el momento en que se ejerzan las facultades de determinación estimativa hasta el periodo sujeto a revisión, conforme al valor de actualización a que se refiere la Ley de Ingresos del Estado vigente en el ejercicio fiscal en que se determine estimativamente el ingreso correspondiente. Dicho factor se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes anterior al en que se apliquen las facultades de determinación estimativa entre el citado índice correspondiente a cada mes del periodo sujeto a revisión.
 
 Al ingreso determinado estimativamente por alguno de los procedimientos anteriores, se le aplicará la tasa o tarifa impositiva que corresponda.
 
-Las facultades descritas en el presente Artículo son independientes y no excluyen la aplicación de las facultades de determinación estimativa previstas el (sic) Código Fiscal del Estado de Aguascalientes.
+Las facultades descritas en el presente Artículo son independientes y no excluyen la aplicación de las facultades de determinación estimativa previstas (sic) el Código Fiscal del Estado de Aguascalientes.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -2964,3 +2964,11 @@ y 2015
 2019 2014 y 2015
 
 2020 2015
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
