@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-desarrollo-ganadero-para-el-estado-de-aguascalientes-220
 country: "mx"
 rank: "ley"
 publication_date: "2001-07-23"
-last_updated: "2016-06-06"
+last_updated: "2017-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22016&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE DESARROLLO GANADERO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 23 de julio de 2001.
 
@@ -36,8 +36,6 @@ El H. Congreso del Estado en sesión ordinaria celebrada hoy, tuvo a bien expedi
 "NUMERO 184
 
 La H. LVII Legislatura del Estado Libre y Soberano de Aguascalientes, en uso de las facultades que le conceden los Artículos 27, fracción I, 32 y 35 de la Constitución Política Local, en nombre del pueblo decreta:
-
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 216, PUBLICADO EN EL P.O. DE 27 DE JULIO DE 2015, “EN TANTO NO INICIE SU VIGENCIA LA AUTONOMÍA DE LA FISCALÍA GENERAL DE LA REPÚBLICA, LAS REFERENCIAS A DICHA FISCALÍA CONTENIDAS EN EL PRESENTE DECRETO, SE ENTENDERÁN HECHAS A LA PROCURADURÍA GENERAL DE LA REPÚBLICA”.</small>
 
 LEY DE DESARROLLO GANADERO PARA EL ESTADO DE AGUASCALIENTES
 
@@ -931,15 +929,21 @@ Al que infrinja las disposiciones señaladas en la presente Ley que sean calific
 
 I. Amonestación; o
 
-II. Multa de uno a cincuenta días de salario mínimo diario general vigente en el Estado o arresto hasta por doce horas a elección del infractor.
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+
+II. Multa de uno a cincuenta veces el valor diario de la unidad de medida y actualización o arresto hasta por doce horas a elección del infractor.
+
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 136.
 
-Al que infrinja las disposiciones señaladas en la presente Ley y que sean calificadas por la misma como medias, podrá sancionársele con multa de cincuenta a doscientos cincuenta días de salario mínimo diario general vigente en el Estado o arresto hasta por treinta y seis horas a elección del infractor.
+Al que infrinja las disposiciones señaladas en la presente Ley y que sean calificadas por la misma como medias, podrá sancionársele con multa de cincuenta a doscientas cincuenta veces el valor diario de la unidad de medida y actualización o arresto hasta por treinta y seis horas a elección del infractor.
+
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 137.
 
-Al que infrinja las disposiciones señaladas en la presente Ley y que sean calificadas como graves, se le sancionará con multa de cien a mil días de salario mínimo diario general vigente en el Estado.
+Al que infrinja las disposiciones señaladas en la presente Ley y que sean calificadas como graves, se le sancionará con multa de cien a mil veces el valor diario de la unidad de medida y actualización.
 
 ###### ARTICULO 138.
 
@@ -1050,3 +1054,11 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Los procedimientos penales iniciados con antelación al inicio de vigencia de este Decreto, se regirán por las disposiciones vigentes al momento de su inicio.
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
