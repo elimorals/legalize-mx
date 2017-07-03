@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-video-vigilancia-del-estado-de-aguascalientes-68994"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-22"
-last_updated: "2015-07-27"
+last_updated: "2017-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE VIDEO VIGILANCIA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 22 de junio de 2009.
 
@@ -391,15 +391,25 @@ El ejercicio de los derechos establecidos en el presente Capítulo, podrá ser n
 
 Para garantizar el debido cumplimiento de esta Ley, se aplicará:
 
-I. Multa de 100 a 500 días de salario mínimo general vigente en el Estado, destitución del cargo e inhabilitación para desempeñar cargos públicos hasta por tres anos, al servidor público encargado de la custodia de las grabaciones que dé acceso a éstas a un tercero sin derecho a ello; la misma sanción se aplicará al servidor público que no proporcione grabaciones a la autoridad correspondiente en la forma y términos que dispone esta Ley;
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-II. Multa de 400 a 1,000 días de salario mínimo general vigente en el Estado, al prestador de servicio de Seguridad Privada que realice actividades de Video Vigilancia y no cumpla con lo establecido en la presente Ley, apercibiéndole de que en caso de reincidir se le cancelará la autorización correspondiente;
+I. Multa de 100 a 500 veces el valor diario de la unidad de medida y actualización, destitución del cargo e inhabilitación para desempeñar cargos públicos hasta por tres años, al servidor público encargado de la custodia de las grabaciones que dé acceso a éstas a un tercero sin derecho a ello; la misma sanción se aplicará al servidor público que no proporcione grabaciones a la autoridad correspondiente en la forma y términos que dispone esta Ley;
 
-III. Multa de 200 a 1,000 días de salario mínimo general vigente en el Estado, destitución del cargo e inhabilitación para desempeñar cargos públicos hasta por cinco anos, al servidor público que participe en la difusión de grabaciones obtenidas al amparo de la presente Ley;
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-IV. Multa de 100 a 500 días de salario mínimo general vigente en el Estado, al servidor público que sea superior jerárquico, de quienes estén encargados del manejo del sistema de tratamiento de imágenes con o sin sonido, o bien, al prestador de servicio de Seguridad Privada, que permitan la operación de los sistemas de Video Vigilancia en condiciones distintas a las establecidas en la autorización; y
+II. Multa de 400 a 1,000 veces el valor diario de la unidad de medida y actualización, al prestador de servicio de Seguridad Privada que realice actividades de Video Vigilancia y no cumpla con lo establecido en la presente Ley, apercibiéndole de que en caso de reincidir se le cancelará la autorización correspondiente;
 
-V. Multa de 200 a 2,000 días de salario mínimo general vigente en el Estado al prestador de servicio de Seguridad Privada que participe en la difusión de grabaciones obtenidas al amparo de la presente Ley; la misma sanción se aplicará al prestador de servicio de Seguridad Privada que no proporcione grabaciones a la autoridad correspondiente en la forma y términos que dispone esta Ley así como al encargado de la custodia de las grabaciones que dé acceso a éstas a un tercero sin derecho a ello, independientemente de la cancelación de la autorización.
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+
+III. Multa de 200 a 1,000 veces el valor diario de la unidad de medida y actualización, destitución del cargo e inhabilitación para desempeñar cargos públicos hasta por cinco años, al servidor público que participe en la difusión de grabaciones obtenidas al amparo de la presente Ley;
+
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+
+IV. Multa de 100 a 500 veces el valor diario de la unidad de medida y actualización, al servidor público que sea superior jerárquico, de quienes estén encargados del manejo del sistema de tratamiento de imágenes con o sin sonido, o bien, al prestador de servicio de Seguridad Privada, que permitan la operación de los sistemas de Video Vigilancia en condiciones distintas a las establecidas en la autorización; y
+
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+
+V. Multa de 200 a 2,000 veces el valor diario de la unidad de medida y actualización al prestador de servicio de Seguridad Privada que participe en la difusión de grabaciones obtenidas al amparo de la presente Ley; la misma sanción se aplicará al prestador de servicio de Seguridad Privada que no proporcione grabaciones a la autoridad correspondiente en la forma y términos que dispone esta Ley así como al encargado de la custodia de las grabaciones que dé acceso a éstas a un tercero sin derecho a ello, independientemente de la cancelación de la autorización.
 
 Lo obtenido por la imposición de estas multas se destinará al Fondo de Atención a Víctimas u Ofendidos del Delito.
 
@@ -479,7 +489,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 Lic. Juan Ángel José Pérez Talamantes.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 27 DE JULIO DE 2015.
 
@@ -490,3 +500,11 @@ El presente Decreto iniciará su vigencia al día siguiente al de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, las referencias a dicha Fiscalía contenidas en el presente Decreto, se entenderán echas (sic) a la Procuraduría General de la Republica.
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
