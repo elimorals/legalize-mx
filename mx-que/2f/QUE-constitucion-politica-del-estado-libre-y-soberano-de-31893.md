@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "2016-12-21"
+last_updated: "2017-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -88,6 +88,10 @@ Es derecho de todos acceder a la solución de sus conflictos y las controversias
 > <small>(ADICIONADO, P.O. 13 DE MAYO DE 2016)</small>
 
 Para favorecer la profesionalización de los agentes del Ministerio Público, peritos, policías, custodios penitenciarios, defensores públicos y jueces, las leyes promoverán el servicio de carrera en las instituciones a los que pertenezcan dichos servidores públicos.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+El sistema penitenciario se organizará sobre la base del respeto a los Derechos Humanos, del trabajo, la capacitación para el mismo, la educación, la salud, la cultura y el deporte como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios previstos en las leyes. Los Poderes Judicial y Ejecutivo se organizarán, en el ámbito de sus respectivas competencias, garantizando la cooperación con las autoridades penitenciarias e instituciones que intervienen en la ejecución de la prisión preventiva, de las sanciones penales y de las medidas de seguridad impuestas.
 
 El Estado respeta, reconoce, protege y garantiza el derecho a la vida de todo ser humano, desde el momento de la fecundación, como un bien jurídico tutelado y se le reputa como nacido para todos los efectos legales correspondientes, hasta la muerte. Esta disposición no deroga las excusas absolutorias ya contempladas en la legislación penal.
 
@@ -521,9 +525,9 @@ VIII. Expedir decretos y acuerdos de carácter administrativo para la eficaz pre
 
 IX. Celebrar convenios con la Federación, con otros Estados, con los Municipios y con particulares para el mejor cumplimiento de sus atribuciones y cuando el desarrollo económico y social lo haga necesario;
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-X. Rendir ante la Legislatura, el cuarto domingo del mes de julio de cada año, por escrito, un informe del estado general que guarda la administración pública en los términos que establezca la Ley.
+X. Rendir ante la Legislatura durante el mes de septiembre de cada año, por escrito, un informe del estado general que guarda la administración pública en los términos que establezca la Ley, salvo el último año de ejercicio constitucional, en el cual el informe a que se refiere el presente artículo se rendirá en el mes de julio;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -871,11 +875,17 @@ Los cargos de los integrantes del Ayuntamiento son renunciables por causa grave 
 
 Cuando el Ayuntamiento haya desaparecido o por falta absoluta de la mayoría de sus integrantes, la Legislatura del Estado nombrará un Concejo Municipal que fungirá hasta terminar el período municipal.
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 37.
 
-El Presidente Municipal, en el mes de julio de cada año, rendirá ante el Ayuntamiento, un informe por escrito de la situación general que guarde la administración municipal, en los términos que establezca la Ley.
+El Presidente Municipal, en el mes de septiembre de cada año, rendirá ante el Ayuntamiento, un informe por escrito de la situación general que guarde la administración municipal, en los términos que establezca la Ley, salvo el último año de ejercicio constitucional, en el cual el informe a que se refiere el presente artículo se rendirá en el mes de julio.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+
+ARTÍCULO 37 bis. Son servidores públicos las personas que desempeñan un empleo, cargo o comisión de cualquier naturaleza, sea cual fuere la forma de su elección o nombramiento, en los Poderes Legislativo y Judicial, los órganos constitucionales autónomos, las dependencias y entidades de la Administración Pública Estatal, los municipios del Estado y sus dependencias y entidades; así como cualquier otro ente sobre el que tenga control cualquiera de los poderes y órganos públicos citados, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+
+Los servidores públicos de elección popular por el tiempo en el cual ejercen su función, no generan antigüedad laboral por la naturaleza de su encargo.
 
 > <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
 
@@ -1806,3 +1816,13 @@ El Pleno de la Sala Superior del Tribunal de Justicia Administrativa del Estado 
 El Tribunal de lo Contencioso Administrativo del Estado de Querétaro continuará funcionando con su actual organización y atribuciones, así como substanciando los asuntos que se encuentren en trámite, hasta la entrada en vigor de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Querétaro a la que se refiere el Artículo Cuarto Transitorio de esta Constitución.
 
 Artículo Séptimo. Los servidores públicos a que se refieren los párrafos segundo y tercero de la fracción IV, del artículo 17 de la presente Constitución que se encuentren en funciones a la entrada en vigor de la presente reforma continuarán en su encargo en los términos en los que fueron nombrados.
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO."]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Constitución.
+
+Artículo Tercero. Para efectos de lo dispuesto por los artículos 22, fracción X y 37 de esta Constitución, los informes del Gobernador del Estado y los Presidentes Municipales correspondientes al año en curso serán rendidos en el mes de septiembre de este mismo ejercicio.
