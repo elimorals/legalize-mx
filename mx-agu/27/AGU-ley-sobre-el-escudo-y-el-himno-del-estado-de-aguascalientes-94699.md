@@ -4,7 +4,7 @@ identifier: "AGU-ley-sobre-el-escudo-y-el-himno-del-estado-de-aguascalientes-946
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-17"
-last_updated: "2013-06-17"
+last_updated: "2017-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY SOBRE EL ESCUDO Y EL HIMNO DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de junio de 2013.
 
@@ -199,9 +199,11 @@ Es obligatoria la enseñanza e interpretación del Himno del Estado de Aguascali
 
 ### CAPÍTULO IV. De las Sanciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 17.
 
-Las contravenciones a la presente Ley que impliquen desacato o falta de respeto a los símbolos del Estado, se sancionarán, según la gravedad y la condición del infractor, a juicio de la Secretaría de Gobierno, con multa de uno a doscientas cincuenta veces el salario mínimo general vigente en el Estado, o con arresto hasta por treinta y seis horas.
+Las contravenciones a la presente Ley que impliquen desacato o falta de respeto a los símbolos del Estado, se sancionarán, según la gravedad y la condición del infractor, a juicio de la Secretaría de Gobierno, con multa de uno (sic) a doscientas cincuenta veces el valor diario de la unidad de medida y actualización, o con arresto hasta por treinta y seis horas.
 
 Si la infracción es cometida por un servidor público o éste consiente o interviene en la ejecución de la misma, la multa se duplicará.
 
@@ -256,3 +258,13 @@ Dip. Gilberto Carlos Ornelas,
 PROSECRETARIO EN FUNCIONES DE SEGUNDO SECRETARIO.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 13 de junio de 2013.- Carlos Lozano de la Torre.- Rúbrica.- El Jefe de Gabinete, Antonio Javier Aguilera García.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
