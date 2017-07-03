@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-procedimientos-civiles-del-estado-de-2593"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-16"
-last_updated: "2017-06-19"
+last_updated: "2017-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1989.
 
@@ -353,7 +353,9 @@ Son correcciones disciplinarias:
 
 I.- Apercibimiento;
 
-II.- Multa que no exceda del monto de diez días de salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+
+II.- Multa que no exceda del monto de diez veces el valor diario de la unidad de medida y actualización;
 
 III.- Desalojo de la sala de audiencia o del local del juzgado.
 
@@ -375,7 +377,9 @@ Los Jueces y Magistrados podrán ordenar que se subsane toda omisión que notare
 
 Los Tribunales, para hacer cumplir sus determinaciones pueden emplear, a discreción, los siguientes medios de apremio:
 
-I.- Multa hasta de diez días de salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+
+I.- Multa hasta de diez veces el valor diario de la unidad de medida y actualización:
 
 II.- El auxilio de la fuerza pública;
 
@@ -1027,7 +1031,9 @@ Decidida la competencia, el tribunal mandará sin retardo los autos al juez decl
 
 El litigante que hubiere optado por uno de los medios de promover una competencia, no podrá abandonarlo y recurrir al otro, tampoco podrá emplearlos sucesivamente.
 
-Cuando no proceda la inhibitoria deberá pagar las costas el que la promovió y una multa hasta de veinte días de salario mínimo general vigente en el Estado que, según la importancia del negocio, le impondrá el superior en favor del colitigante.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+
+Cuando no proceda la inhibitoria deberá pagar las costas el que la promovió y una multa hasta de veinte veces el valor diario de la unidad de medida y actualización, según la importancia del negocio, le impondrá el superior en favor del colitigante.
 
 ###### ARTICULO 150.
 
@@ -1111,11 +1117,11 @@ Cuando se acumulen los autos, se suspenderá el curso del juicio que estuviere m
 
 Es válido todo lo practicado por los jueces competentes antes de la acumulación; lo que practiquen después de pedida ésta es nulo y causa de responsabilidad, salvo cuando la ley dispone otra cosa.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 162.
 
-En caso de no proceder la acumulación, si el tribunal advierte mala fe o temeridad, impondrá al promovente o a su abogado o a ambos, una multa por el equivalente de 10 a 50 días de salario mínimo general vigente en el Estado. No se dará curso a la acumulación intentada, si el promovente no exhibe billete de depósito por el máximo de la multa, la que se aplicará a la parte contraria si la hubiere, por vía de indemnización y en caso contrario a la Secretaría de Finanzas.
+En caso de no proceder la acumulación, si el tribunal advierte mala fe o temeridad, impondrá al promovente o a su abogado o a ambos, una multa por el equivalente de 10 a 50 veces el valor diario de la unidad de medida y actualización. No se dará curso a la acumulación intentada, si el promovente no exhibe billete de depósito por el máximo de la multa, la que se aplicará a la parte contraria si la hubiere, por vía de indemnización y en caso contrario a la Secretaría de Finanzas.
 
 ## TITULO CUARTO. DE LOS IMPEDIMENTOS, RECUSACIONES Y EXCUSAS
 
@@ -1231,9 +1237,9 @@ Si el recusado fuere un magistrado, el Supremo Tribunal de Justicia requerirá e
 
 Recibido el negocio en el tribunal que deba decidir la recusación, se resolverá por el procedimiento incidental.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
-Si se declara improcedente o no probada la causa de recusación, se impondrá al recusante una multa de hasta veinte días de salario mínimo general vigente en el Estado. No se dará curso a la recusación si no exhibe el recusante al interponerla, billete de depósito por el máximo de la multa la que en su caso, se aplicará al colitigante si lo hubiere, por vía de indemnización y en caso contrario, a la Secretaría de Finanzas.
+Si se declara improcedente o no probada la causa de recusación, se impondrá al recusante una multa de hasta veinte veces el valor diario de la unidad de medida y actualización. No se dará curso a la recusación si no exhibe el recusante al interponerla, billete de depósito por el máximo de la multa la que en su caso, se aplicará al colitigante si lo hubiere, por vía de indemnización y en caso contrario, a la Secretaría de Finanzas.
 
 La resolución que decida una recusación es irrevocable.
 
@@ -2069,7 +2075,9 @@ La sustitución deberá de realizarse dentro del término de tres días contados
 
 Rendidos los dictámenes de los peritos de las partes, el juez los examinará y si discordaren en alguno o algunos de los puntos esenciales, designará al perito tercero en discordia, a quien se le hará saber el cargo a fin de que, en tres días, manifieste si lo acepta o no. En caso de negativa o si no manifestare nada al respecto, se nombrará a otro.
 
-Una vez aceptado el cargo, deberá rendir el dictamen en el término de ocho días, citándolo si procediere a la audiencia de juicio, apercibiéndole que en caso de no emitir el dictamen o no comparecer a la audiencia, se hará uso de los medios de apremio. En caso de negativa a rendir el dictamen, el juez podrá sustituirlo de manera discrecional, imponiéndole una multa hasta de veinte días de salario mínimo general vigente en el Estado.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+
+Una vez aceptado el cargo, deberá rendir el dictamen en el término de ocho días, citándolo si procediere a la audiencia de juicio, apercibiéndole que en caso de no emitir el dictamen o no comparecer a la audiencia, se hará uso de los medios de apremio. En caso de negativa a rendir el dictamen, el juez podrá sustituirlo de manera discrecional, imponiéndole una multa hasta de veinte veces el valor diario de la unidad de medida y actualización.
 
 En cualesquiera de los casos, el Juez expedirá el nombramiento respectivo a los peritos designados, a fin de que cumplan con su mandato.
 
@@ -2099,7 +2107,9 @@ El perito tercero puede ser recusado dentro de los tres días siguientes a su de
 
 La recusación se tramitará conforme a lo previsto en el primer párrafo del Artículo 175 de este Código, a menos que el perito confesare la causa, caso en el cual se procederá al nombramiento de otro perito.
 
-En caso de oposición del perito a la recusación, de resultar fundada ésta, se le impondrá una multa de hasta veinte días de salario mínimo general vigente en el Estado.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+
+En caso de oposición del perito a la recusación, de resultar fundada ésta, se le impondrá una multa de hasta veinte veces el valor diario de la unidad de medida y actualización.
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2000)</small>
 
@@ -2437,9 +2447,11 @@ III.- Que se designe, en caso de ser prueba instrumental, los archivos públicos
 
 El juez, al calificar la admisibilidad de las pruebas, resolverá sobre la dilación y determinará el monto de la cantidad que el promovente deberá depositar para asegurar el pago del máximo de la multa que se le impondrá en caso de no rendirse la prueba. Sin este depósito no surtirá efectos el término concedido.
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+
 ###### ARTICULO 356.
 
-El litigante a quien se hubiere concedido la dilación probatoria y si no se rindiese las pruebas que hubiere propuesto, sin justificar que para ello tuvo impedimento bastante a juicio del juez, será condenado, al extinguirse la dilación probatoria, a pagar a su contraparte el equivalente de 10 a 30 días de salario mínimo general vigente en el Estado.
+El litigante a quien se hubiere concedido la dilación probatoria y si no se rindiese las pruebas que hubiere propuesto, sin justificar que para ello tuvo impedimento bastante a juicio del juez, será condenado, al extinguirse la dilación probatoria, a pagar a su contraparte el equivalente de 10 a 30 veces el valor diario de la unidad de medida y actualización.
 
 ###### ARTICULO 357.
 
@@ -2725,9 +2737,11 @@ El juez dentro de los tres días siguientes, remitirá al Superior su informe co
 
 Dentro del tercer día de recibido el informe del juez, el Superior resolverá lo que proceda.
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+
 ###### ARTICULO 406.
 
-Si la queja no resulta apoyada en hecho cierto, si no estuviere fundada en derecho o procediere otro recurso contra la resolución reclamada, será desechada por el superior, el que impondrá al quejoso y a su abogado, solidariamente, multa que no exceda de diez días de salario mínimo general vigente en el Estado.
+Si la queja no resulta apoyada en hecho cierto, si no estuviere fundada en derecho o procediere otro recurso contra la resolución reclamada, será desechada por el superior, el que impondrá al quejoso y a su abogado, solidariamente, multa que no exceda de diez veces el valor diario de la unidad de medida y actualización.
 
 ###### ARTICULO 407.
 
@@ -3315,7 +3329,9 @@ Aprobado el remate, el Juez, prevendrá al comprador para que consigne ante el p
 
 El depósito a que se refiere el Artículo 485 se aplicará a beneficio del ejecutado, pero se aplicará al ejecutante si éste lo solicita, en abono a su crédito.
 
-Cuando se trate de un procedimiento de liquidación de una mancomunidad y el comprador no realice la consignación del remanente del precio completo del remate, en el plazo previsto al efecto en el párrafo primero de este Artículo, ya no podrá presentarse como postor en futuras subasta (sic) dentro del mismo procedimiento y el tribunal le impondrá una multa hasta por el equivalente de 900 días de salario mínimo general vigente en el Estado.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+
+Cuando se trate de un procedimiento de liquidación de una mancomunidad y el comprador no realice la consignación del remanente del precio completo del remate, en el plazo previsto al efecto en el párrafo primero de este Artículo, ya no podrá presentarse como postor en futuras subastas dentro del mismo procedimiento y el tribunal le impondrá una multa hasta por el equivalente de 900 veces el valor diario de la unidad de medida y actualización.
 
 ###### ARTICULO 495.
 
@@ -4243,9 +4259,11 @@ La junta de verificación y graduación será presidida por el juez, procediénd
 
 En este informe del Síndico estarán contenidos los dictámenes que rinda sobre cada uno de los créditos presentados y de los cuales con anticipación se le hubiere corrido traslado. En el informe deberá también clasificar los créditos de acuerdo con sus privilegios según el Código Civil.
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+
 ###### ARTICULO 625.
 
-Si el síndico no presentare el informe al principiar la junta, perderá el derecho de cobrar honorarios; será removido de plano y se impondrá además una multa de diez días de salario mínimo general vigente en el Estado.
+Si el síndico no presentare el informe al principiar la junta, perderá el derecho de cobrar honorarios; será removido de plano y se impondrá además una multa de diez veces el valor diario de la unidad de medida y actualización.
 
 ###### ARTICULO 626.
 
@@ -5423,7 +5441,9 @@ I.- Mientras no se pronuncie sentencia irrevocable, la tutela interina debe limi
 
 II.- El estado de demencia puede probarse por testigos o documentos; pero en todo caso se requiere certificación de tres peritos médicos por lo menos, que nombrará el juez, sin perjuicio de la prueba pericial que las partes promuevan. El tutor puede nombrar un médico para que tome parte en el reconocimiento o reconocimientos que se practiquen y se oiga su dictamen;
 
-III.- El que promueva dolosamente la interdicción, incurrirá en las penas que la ley impone por falsedad y difamación y sin perjuicio de la responsabilidad civil en que incurra; deberá pagar una multa de diez a noventa días de salario mínimo general vigente en el Estado, que se distribuirá por mitad entre el supuesto incapacitado y el tutor interino; y
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+
+III.- El que promueva dolosamente la interdicción, incurrirá en las penas que la ley impone por falsedad y difamación y sin perjuicio de la responsabilidad civil en que incurra; deberá pagar una multa de diez a noventa veces el valor diario de la unidad de medida y actualización, que se distribuirá por mitad entre el supuesto incapacitado y el tutor interino; y
 
 > <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
@@ -6380,3 +6400,11 @@ P.O. 19 DE JUNIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
