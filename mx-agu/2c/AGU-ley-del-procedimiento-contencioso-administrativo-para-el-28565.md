@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-procedimiento-contencioso-administrativo-para-el-28565"
 country: "mx"
 rank: "ley"
 publication_date: "1999-09-19"
-last_updated: "2013-02-11"
+last_updated: "2017-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28565&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 19 de septiembre de 1999.
 
@@ -241,9 +241,9 @@ La Sala para hacer cumplir sus determinaciones, con independencia de las previst
 
 I. Amonestación;
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-II. Multa que podrá ser de uno hasta treinta días de salario mínimo general vigente en el Estado de Aguascalientes;
+II. Multa que podrá ser de una hasta treinta veces el valor diario de la unidad de medida y actualización;
 
 > <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
 
@@ -373,11 +373,11 @@ La Sala resolverá de plano la admisión de la recusación; en contra de esta re
 
 En caso de que la excusa o la recusación del Magistrado sea procedente, el asunto será enviado al Pleno del H. Supremo Tribunal de Justicia del Estado para la continuación y resolución del mismo.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 25.
 
-Si se declara improcedente o no probada la causa de recusación, se impondrá al recusante una multa hasta por el equivalente a veinte días de salario mínimo general vigente en el Estado de Aguascalientes.
+Si se declara improcedente o no probada la causa de recusación, se impondrá al recusante una multa hasta por el equivalente a veinte veces el valor diario de la unidad de medida y actualización.
 
 ### CAPITULO IV. De la Improcedencia y de Sobreseimiento
 
@@ -655,7 +655,9 @@ A fin de que las partes puedan rendir sus pruebas, las autoridades tienen la obl
 
 En los casos en que la autoridad requerida no sea parte, la Sala procederá en los mismos términos del párrafo anterior.
 
-Al interesado que de manera maliciosa, o con el solo propósito de obtener la prórroga de la audiencia, ocurra quejándose de la falta de expedición de las copias de los documentos solicitados a que se refiere el primer párrafo de este artículo, o informe a la Sala que se le ha negado la expedición, se le impondrá multa de hasta el equivalente de un mes de salario mínimo general vigente en el Estado de Aguascalientes.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+
+Al interesado que de manera maliciosa, o con el solo propósito de obtener la prórroga de la audiencia, ocurra quejándose de la falta de expedición de las copias de los documentos solicitados a que se refiere el primer párrafo de este artículo, o informe a la Sala que se le ha negado la expedición, se le impondrá multa de hasta el equivalente a treinta veces el valor diario de la unidad de medida y actualización.
 
 ###### ARTICULO 47.
 
@@ -683,9 +685,9 @@ II.- El de nulidad de notificaciones; y
 
 III.- El de falta de personalidad.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
-Mientras estén pendientes de resolución los incidentes mencionados, el juicio continuará hasta antes de la de la celebración de la audiencia, si el incidente hecho valer es notoriamente frívolo e improcedente, se desechará de plano y se impondrá, a quien lo promueva, una multa hasta por el equivalente a un mes del salario mínimo general vigente en el Estado.
+Mientras estén pendientes de resolución los incidentes mencionados, el juicio continuará hasta antes de la de la (sic) celebración de la audiencia, si el incidente hecho valer es notoriamente frívolo e improcedente, se desechará de plano y se impondrá, a quien lo promueva, una multa hasta por el equivalente a treinta veces el valor diario de la unidad de medida y actualización.
 
 ###### ARTICULO 49.
 
@@ -895,11 +897,11 @@ REFORMADO, P.O. 27 DE AGOSTO DE 2012)
 
 Cuando haya causado ejecutoria una sentencia favorable al actor, la Sala la notificará a las autoridades y organismos demandados para su cumplimiento. En el mismo oficio en que se haga la notificación, se les prevendrá para que informen sobre el cumplimiento que se dé a la sentencia correspondiente, en el término de diez días prorrogables por una vez.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 67.
 
-La Sala se cerciorará si las autoridades u organismos correspondientes han cumplido con los términos de la sentencia y en el plazo señalado para ello, y de no ser así, de oficio o a petición de parte, los requerirá para que la cumplan, previniéndolas de que, en caso de desacato, se les impondrá una multa de hasta por el equivalente a doscientos cincuenta días de salario mínimo vigente en el Estado.
+La Sala se cerciorará si las autoridades u organismos correspondientes han cumplido con los términos de la sentencia y en el plazo señalado para ello, y de no ser así, de oficio o a petición de parte, los requerirá para que la cumplan, previniéndolas de que, en caso de desacato, se les impondrá una multa de hasta por el equivalente a doscientas veces el valor diario de la unidad de medida y actualización.
 
 > <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
@@ -1161,11 +1163,9 @@ Sin perjuicio de lo anterior, en aquellos casos en que así lo soliciten los Tri
 
 En caso que la Sala advierta que alguna persona modificó, alteró, destruyó o provocó la pérdida de información contenida en el Sistema de Justicia en Línea, se tomarán las medidas de protección necesarias, para evitar dicha conducta hasta que concluya el juicio, el cual se continuará tramitando a través del Juicio en la vía tradicional. Si el responsable es usuario del Sistema, se cancelará su Firma Electrónica Avanzada, Clave y Contraseña para ingresar al Sistema de Justicia en Línea y no tendrá posibilidad de volver a promover Juicios en Línea.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
-
-Sin perjuicio de lo anterior, y de las responsabilidades penales respectivas, se impondrá al responsable una multa de trescientas a quinientas veces el salario mínimo general vigente en el Estado al momento de cometer la infracción.
+Sin perjuicio de lo anterior, y de las responsabilidades penales respectivas, se impondrá al responsable una multa de trescientas a quinientas veces el valor diario de la unidad de medida y actualización.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2012)</small>
 
@@ -1396,3 +1396,11 @@ P.O. 11 DE FEBRERO DE 2013.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
