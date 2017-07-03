@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-fomento-a-las-organizaciones-de-la-sociedad-civil-77386"
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-15"
-last_updated: "2017-03-13"
+last_updated: "2017-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE FOMENTO A LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Ley publicada en la Primera Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 15 de noviembre de 2010.
 
@@ -807,7 +807,9 @@ Cuando una Organización de la Sociedad Civil con empadronamiento vigente cometa
 
 I. Apercibimiento: en el caso de que la organización haya incurrido por primera vez en alguna de las conductas que constituyen infracciones conforme a lo dispuesto por el Artículo anterior, se le apercibirá para que, en un plazo no mayor a treinta días hábiles, contados a partir de la notificación respectiva, subsane la irregularidad;
 
-II. Multa: en caso de no cumplir con el apercibimiento en el término a que se refiere la Fracción anterior o en los casos de incumplimiento de los supuestos a que se refieren las infracciones VII, VIII, IX, X, XI, XII y XIII del Artículo 55 de esta Ley; se multará de 50 hasta por el equivalente a trescientos días de salario mínimo general vigente en el Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+
+II. Multa: en caso de no cumplir con el apercibimiento en el término a que se refiere la Fracción anterior o en los casos de incumplimiento de los supuestos a que se refieren las infracciones VII, VIII, IX, X, XI, XII y XIII del Artículo 55 de esta Ley; se multará de 50 hasta por el equivalente a trescientas veces el valor diario de la unidad de medida y actualización;
 
 III. Suspensión: por un año de su inscripción en el Padrón, contado a partir de la notificación, en el caso de reincidencia con respecto a la violación de una obligación establecida por esta Ley, que hubiere dado origen ya a una multa a la organización; y
 
@@ -817,11 +819,11 @@ Las sanciones a que se refiere este Artículo, se aplicarán sin perjuicio de la
 
 En caso de que una Organización sea sancionada con suspensión o cancelación definitiva del Padrón, la Comisión, por conducto de la Secretaría Técnica, deberá dar aviso, dentro de los quince días hábiles posteriores a la notificación de la sanción, a la autoridad fiscal correspondiente, a efecto de que ésta conozca y resuelva de acuerdo con la normatividad vigente, respecto de los beneficios fiscales que se hubiesen otorgado en el marco de esta Ley, y publicará en el Periódico Oficial del Estado el nombre (sic) la Organización de la Sociedad Civil sancionada y el tipo de sanción impuesta.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 57.
 
-Los Notarios Públicos enviarán a la Comisión dentro del término de treinta días naturales contados a partir de su celebración, el aviso de testimonio de las escrituras a que se refiere el Artículo 15 de esta Ley; de no hacerlo podrán ser sancionados por el Secretario de Gobierno, con una amonestación y en caso de reincidencia con una multa irá de diez hasta treinta veces el salario mínimo general vigente en el Estado.
+Los Notarios Públicos enviarán a la Comisión dentro del término de treinta días naturales contados a partir de su celebración, el aviso de testimonio de las escrituras a que se refiere el Artículo 15 de esta Ley; de no hacerlo podrán ser sancionados por el Secretario de Gobierno, con una amonestación y en caso de reincidencia con una multa (sic) irá de diez hasta treinta veces el valor diario de la unidad de medida y actualización.
 
 ###### ARTÍCULO 58.
 
@@ -930,3 +932,11 @@ Quedan derogadas todas las disposiciones normativas y/o reglamentarias que se op
 El titular del Poder Ejecutivo del Estado deberá en un plazo no mayor a 180 días hábiles, Expedir, o en su caso Reformar y/o Adicionar, el Reglamento de la presente Ley.
 
 Así como el Secretario Técnico de la Comisión deberá en un plazo no mayor a 180 días hábiles, Expedir, o en su caso Reformar y/o Adicionar, el Reglamento Interno de la Comisión de Fortalecimiento de Organizaciones de la Sociedad Civil del Estado de Aguascalientes.
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
