@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-a-los-animales-para-el-estado-de-22781"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2016-08-22"
+last_updated: "2017-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 5 de noviembre de 2001.
 
@@ -173,8 +173,6 @@ XXVI. Ley: La Ley de Protección a los Animales para el Estado de Aguascalientes
 
 XXVII. Limitación razonable del tiempo e intensidad de trabajo: El tiempo e intensidad de trabajo que realizan los animales de monta, cargo y tiro y los animales para espectáculos que, de acuerdo a su especie, cumplan con las disposiciones que esta Ley, su Reglamento y las normas zoológicas y las normas oficiales mexicanas establezcan;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
 XXVIII. Mascotas: Los perros y gatos, así como los demás animales y especies de fauna silvestre que sirven de compañía o recreación del ser humano;
@@ -209,25 +207,17 @@ XXXV. Secretaría: Secretaría de Medio Ambiente;
 
 XXXVI. Sufrimiento: El padecimiento o dolor innecesario por daño físico a cualquier animal;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
 
 XXXVII. Subprocuraduría: La Subprocuraduría de Protección, Defensa y Bienestar de los Animales, de la Procuraduría Estatal de Protección al Ambiente del Estado de Aguascalientes.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
 
 XXXVIII. Trato digno y respetuoso: Las medidas que esta Ley, su Reglamento, las normas zoológicas y las normas oficiales mexicanas establecen para evitar dolor innecesario o angustia durante su posesión o propiedad, crianza, captura, traslado, exhibición, cuarentena, comercialización, aprovechamiento, adiestramiento y sacrificio;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
 
 XXXIX. Vivisección: Abrir vivo a un animal; y
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2016)</small>
 
@@ -279,8 +269,6 @@ III. La regulación para el manejo, control, remediación y prevención de los p
 
 IV. La celebración de convenios de concertación con los sectores social y privado;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
 V. La expedición de certificados de venta de animales, a los establecimientos comerciales, ferias y exposiciones que se dediquen a la venta de mascotas;
@@ -288,8 +276,6 @@ V. La expedición de certificados de venta de animales, a los establecimientos c
 > <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2009)</small>
 
 VI. En coordinación con las instituciones competentes, públicas y privadas, elaborar los correspondientes reglamentos, las normas zoológicas y las guías informativas a los que se refiere la presente Ley, así como la elaboración de manuales y planes de manejo de acuerdo a la especie de animal en cuestión que coadyuven al cumplimiento de esta Ley;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
@@ -303,8 +289,6 @@ VIII. Las demás que esta Ley y aquellos ordenamientos jurídicos aplicables le 
 
 ARTICULO 5o BIS.- Corresponde a la Procuraduría:
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
 
 I. Vigilar el cumplimiento de las disposiciones de la presente Ley y demás ordenamientos que emanen de ella, derivadas de la presentación de denuncia ciudadana o sin mediar denuncia interpuesta, cuando los hechos ameriten su participación tratándose de alguna emergencia, que ponga en riesgo la vida o la integridad física del animal, y poner a disposición de las autoridades competentes a quien infrinja las disposiciones de la presente Ley;
@@ -313,31 +297,21 @@ II. Dar aviso a las autoridades federales competentes, cuando la tenencia de alg
 
 III. Emitir recomendaciones, en cuanto a su competencia, a las autoridades estatales y municipales en las materias derivadas de la presente Ley, y sancionar cuando corresponda; y
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
 
 IV. Conocer e investigar sobre actos, hechos u omisiones que puedan ser constitutivos de violaciones, incumplimiento o falta de aplicación de las disposiciones jurídicas en materia de protección, defensa y bienestar de los animales, dentro del ámbito de su competencia;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2016)</small>
 
 V. Vigilar el cumplimiento de los convenios de colaboración celebrados entre asociaciones protectoras de animales legalmente constituidas y los municipios, referidos en la Ley de Protección a los Animales;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2016)</small>
 
 VI. Coadyuvar con las autoridades federales, estatales y municipales para la protección, defensa y bienestar de los animales; y
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2016)</small>
 
 VII. Las demás que esta Ley, su Reglamento y demás disposiciones jurídicas aplicables le confieran.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2016)</small>
 
@@ -381,19 +355,13 @@ IX. Conocer, a través de la unidad administrativa correspondiente, cualquier he
 
 X. Establecer campañas permanentes de vacunación antirrábica, campañas sanitarias para el control y erradicación de enfermedades zoonóticas, de desparasitación, y de esterilización, en coordinación con la Secretaría de Salud;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
 XI. Vigilar el cumplimiento y observancia de las normas señaladas en el Capítulo V de esta Ley, en los términos de su jurisdicción;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
 XII. Crear y operar el Padrón Municipal de Mascotas dentro de su jurisdicción, expidiendo a los interesados la constancia de registro correspondiente, para lo cual se pedirá apoyo a los colegios de veterinarios en el Estado; y
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, P.O. 25 DE ENERO DE 2016)</small>
 
@@ -472,8 +440,6 @@ C. Nombre del propietario;
 D. Domicilio del propietario; y
 
 E. Las demás que establezca el Reglamento.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 25 DE ENERO DE 2016)</small>
 
@@ -939,8 +905,6 @@ En los procedimientos de control y supervisión en empresas o cualquier establec
 
 El propietario, poseedor o encargado de animales será responsable de éstos y de los daños y perjuicios que ocasione. Las indemnizaciones correspondientes serán exigidas mediante el procedimiento que señalen las leyes aplicables, sin perjuicio de las sanciones que correspondan conforme a esta Ley.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ENERO DE 2016)</small>
 
 ###### ARTÍCULO 42.
@@ -967,8 +931,6 @@ V.- Cuando saque a la vía pública al animal, se deberán tomar las medidas de 
 
 VI.- Los perros y gatos deberán portar la placa de identificación que contenga: nombre del animal, nombre del propietario y domicilio; identificación oficial vigente de vacunación antirrábica, el cual deberá ser un collar oficial emitido por la autoridad competente; así como en los casos en los que se saquen a la vía pública, estos animales deberán llevar collar y cadena;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
 VII.- Colocarles correa al transitar con ellas en la vía pública y recoger el excremento tanto en la vía pública como en los lugares de resguardo;
@@ -980,8 +942,6 @@ VIII.- En caso de vejez, enfermedad dolorosa, accidente grave, se deberá dar en
 > <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2009)</small>
 
 IX.- Toda persona que no pueda hacerse cargo de su mascota está obligada a buscarle alojamiento y cuidado y bajo ninguna circunstancia podrá abandonarlos en la vía pública o en zonas rurales; y
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
@@ -1261,13 +1221,9 @@ Las autoridades estatales y municipales en el ámbito de sus respectivas compete
 
 El personal designado al efecto debe contar con la suficiente capacitación y con conocimientos de las materias que regula la presente Ley.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2016)</small>
 
 Toda persona podrá denunciar ante la Procuraduría y las instancias municipales competentes, según corresponda, todo hecho, acto u omisión que contravenga a las disposiciones de la presente Ley y demás ordenamientos jurídicos aplicables.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2016)</small>
 
@@ -1351,7 +1307,9 @@ Las violaciones a la presente Ley serán sancionadas de la siguiente manera:
 
 I.- Amonestación por escrito;
 
-II.- Multa de cinco a quinientos días de salario mínimo general vigente en el Estado al momento de imponer la sanción;
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+
+II.- Multa de cinco a quinientas veces el valor diario de la unidad de medida y actualización;
 
 III.- Suspensión temporal, parcial o total, de las autorizaciones o permisos que correspondan;
 
@@ -1451,11 +1409,17 @@ A las personas que se dediquen a la cría, expendio, exhibición, venta, entrena
 
 Las autoridades correspondientes, en el ámbito de sus respectivas competencias, se encargarán de la aplicación de las sanciones previstas en este ordenamiento, de acuerdo con lo siguiente:
 
-I.- De cinco a ciento cincuenta días de salario mínimo general vigente en el Estado al momento en que se cometan las infracciones señaladas en las fracciones III y XII del artículo 79 de esta Ley;
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-II.- De ciento cincuenta y un días a trescientos días de salario mínimo general vigente en el Estado al momento en que se cometan las infracciones señaladas en las fracciones IV, V, VI, VII, VIII, IX y X del artículo 79 de esta Ley; y
+I.- De cinco a ciento cincuenta veces el valor diario de la unidad de medida y actualización, por las infracciones señaladas en las fracciones III y XII del artículo 79 de esta Ley;
 
-III.- De trescientos uno a quinientos días de salario mínimo general vigente en el Estado al momento en que se cometa (sic) las infracciones señaladas en las fracciones I, II, XI y XIII del artículo 79 de esta Ley.
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+
+II.- De ciento cincuenta y uno a trescientas veces el valor diario de la unidad de medida y actualización a quienes cometan las infracciones señaladas en las fracciones IV, V, VI, VII, VIII, IX y X del artículo 79 de esta Ley; y
+
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+
+III.- De trescientas una a quinientas veces el valor diario de la unidad de medida y actualización a quienes cometan las infracciones señaladas en las fracciones I, II, XI y XIII del artículo 79 de esta Ley.
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2003)</small>
 
@@ -1594,3 +1558,11 @@ El presente Decreto iniciará su vigencia el 1° de enero de 2017.
 ###### ARTÍCULO SEGUNDO.
 
 Las modificaciones al Reglamento de la Ley de la Procuraduría Estatal de Protección al Ambiente, deberán ser expedidas en un término no mayor a noventa días contados a partir de inicio de vigencia del presente Decreto.
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
