@@ -4,7 +4,7 @@ identifier: "VER-reglamento-del-servicio-publico-de-carrera-del-organo-de-89140"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-07-02"
-last_updated: "2012-07-02"
+last_updated: "2017-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89140&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "VER"
 ---
 # REGLAMENTO DEL SERVICIO PUBLICO DE CARRERA DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PÚBLICO DE CARRERA DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADO EN LA G.O. DE 3 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DEL SERVICIO PÚBLICO DE CARRERA DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO TERCERO DEL PRESENTE REGLAMENTO, TODOS LOS DOCUMENTOS OFICIALES QUE ALUDAN AL SERVICIO FISCALIZADOR DE CARRERA, DEBERÁN ENTENDERSE REFERIDOS AL SERVICIO PÚBLICO DE CARRERA DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE JULIO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Veracruz, el lunes 2 de julio de 2012.
 
@@ -552,3 +552,21 @@ C.P.C. Mauricio Martín Audirac Murillo
 Auditor General del Órgano de Fiscalización Superior
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DEL SERVICIO PÚBLICO DE CARRERA DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO".]
+
+Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se abroga el Reglamento del Servicio Público de Carrera del ORFIS, publicado en la Gaceta Oficial del Estado número extraordinario 216 del 2 de julio de 2012.
+
+Tercer (sic). Queda sin efecto la categoría de Servidor Público de Carrera Temporal, a través de la 1ª. Convocatoria de Ingreso al Servicio Público de Carrera que se efectúe a partir de la emisión del presente Reglamento en la que únicamente el personal con este estatus será el que podrá participar. En caso de no aprobar los requisitos para ingresar al Servicio Público de Carrera, quedarán contratados como Servidores Públicos Eventuales.
+
+Cuarto. Los nombramientos efectuados al personal del Servicio Público de Carrera con antelación, se ratifican y surtirán los mismos efectos que los señalados en este Reglamento.
+
+Quinto. Todo el personal que se encuentre laborando en el ORFIS a la entrada de (sic) vigor de este Reglamento, asume todos los derechos y obligaciones del mismo.
+
+Sexto. Dentro de los treinta días siguientes a la entrada en vigor de este Reglamento, se expedirán los Lineamientos que regulan los procesos del Servicio Público de Carrera, así como demás documentación necesaria para su funcionamiento.
