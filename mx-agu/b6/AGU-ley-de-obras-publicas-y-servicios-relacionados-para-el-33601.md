@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-obras-publicas-y-servicios-relacionados-para-el-33601"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-25"
-last_updated: "2015-06-15"
+last_updated: "2017-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de agosto de 2003.
 
@@ -383,23 +383,35 @@ En el desarrollo de las sesiones de los Comités Internos de Licitación de los 
 
 La responsabilidad de la asignación de las obras públicas o los servicios relacionados con las mismas será siempre de la convocante, por lo que los Comités Internos de Licitación se crean como apoyo para la toma de decisiones y total transparencia en las asignaciones.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2017)</small>
 
 ###### Artículo 26.
 
-Sin perjuicio de lo señalado en el Artículo 46 de la presente Ley, los Sujetos de la Ley, bajo su responsabilidad, podrán contratar obras públicas o servicios relacionados con las mismas, sin sujetarse al procedimiento de licitación pública, a través de los de invitación restringida a cuando menos cinco licitantes o de asignación directa, cuando el importe de cada contrato no exceda de los montos máximos que se obtengan de acuerdo al número de salarios mínimos vigentes que se establecen en el presente Artículo.
+Sin perjuicio de lo señalado en el Artículo 46 de la presente Ley, los Sujetos de la Ley, bajo su responsabilidad, podrán contratar obras públicas o servicios relacionados con las mismas, sin sujetarse al procedimiento de licitación pública, a través de los de invitación restringida a cuando menos cinco licitantes o de asignación directa, cuando el importe de cada contrato no exceda de los montos máximos que se obtengan de acuerdo al número de veces del valor diario de la unidad de medida y actualización que se establecen en el presente Artículo.
 
-El número de salarios mínimos con el que se obtendrán los montos máximos de adjudicación directa y los de invitación restringida a cuando menos cinco licitantes tanto para obras públicas como para servicios relacionados con las mismas se muestran en la siguiente tabla.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+
+El número de veces del valor diario de la unidad de medida y actualización con el que se obtendrán los montos máximos de adjudicación directa y los de invitación restringida a cuando menos cinco licitantes tanto para obras públicas como para servicios relacionados con las mismas se muestran en la siguiente tabla:
 
 (VÉASE ARCHIVO ANEXO)
 
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
+
 A los montos derivados de la conversión en pesos que se obtengan de la tabla anterior deberá agregársele el Impuesto al Valor Agregado. El presupuesto para realizar obras públicas y servicios relacionados con las mismas será el total a ejercer por Sujeto de la Ley en el ejercicio presupuestal que corresponda. La SEPLADE, en el ámbito estatal y sus similares en los municipios, dentro de los quince días siguientes a la autorización del Programa Anual de Obra Pública por parte del Titular del Poder Ejecutivo Estatal o Municipal, según corresponda, de cada ejercicio presupuestal, serán las responsables de informar, por escrito, a las dependencias ejecutoras de obras públicas y servicios relacionados con las mismas que les correspondan, el presupuesto con el que cuenta cada una. El monto del presupuesto deberá actualizarse dentro de los primeros cinco días hábiles de cada mes, siendo aplicable para los Sujetos de la Ley tres días hábiles posteriores a la recepción de la notificación de la actualización referida. Los recursos a los que se refiere el presente párrafo son aquellos en los que aplica la presente Ley.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
 
 En casos excepcionales, cuando no sea posible determinar por parte de la SEPLADE el techo financiero al inicio del ejercicio presupuestal, se tomará como referencia únicamente para efectos de definir los rangos de la tabla arriba señalada, el techo financiero con el que se concluyó el ejercicio presupuestal inmediato anterior por cada sujeto de la Ley.
 
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
+
 La suma de los montos de los contratos que se realicen a través del procedimiento de asignación directa, no podrá exceder del veinte por ciento del presupuesto autorizado a cada Sujeto de la Ley para realizar obras públicas y servicios relacionados con las mismas en cada ejercicio presupuestal.
 
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
+
 En los procedimientos de contratación deberán establecerse los mismos requisitos y condiciones para todos los participantes, especialmente por lo que se refiere a tiempo y lugar de entrega, plazo de ejecución, normalización aplicable en términos de la Ley Federal sobre Metrología y Normalización, forma y tiempo de pago, penas convencionales, anticipos y garantías, debiendo proporcionar a todos los interesados igual acceso a la información relacionada con dichos procedimientos, a fin de evitar favorecer a algún participante.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
 
 La licitación pública inicia con la publicación de la convocatoria, en el caso de la invitación restringida a cuando menos cinco licitantes con la entrega de la primera invitación y la adjudicación directa con la entrega de los requisitos mínimos para cotizar; todos los procedimientos concluyen con la formalización del contrato, sin embargo, aquellos procedimientos que se declaren desiertos, sean suspendidos o sean cancelados de acuerdo a lo indicado por esta Ley o su Reglamento, terminarán al momento de declararse desiertos, suspenderse o cancelarse, debiendo iniciar un nuevo procedimiento.
 
@@ -1629,4 +1641,12 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 
 ###### ARTÍCULO SEGUNDO.
 
-Dentro de los ciento veinte días naturales siguientes al inicio de vigencia del presente Decreto, se deberán realizar las adecuaciones reglamentarias conducentes, a fin de utilizar el término de “personas con discapacidad”.
+Dentro de los ciento veinte días naturales siguientes al inicio de vigencia del presente Decreto, se deberán realizar las adecuaciones reglamentarias conducentes, a fin de utilizar el término de "personas con discapacidad".
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
