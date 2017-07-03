@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-asistencia-social-y-de-17254"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-10"
-last_updated: "2016-01-25"
+last_updated: "2017-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACIÓN FAMILIAR
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de abril de 2000.
 
@@ -781,7 +781,7 @@ El Gobierno del Estado, a través del Organismo, con la participación de las de
 
 I.- Definición de las responsabilidades que asuman los integrantes de los sectores social y privado que participen;
 
-II.- Determinación de las acciones de orientación, estimulo y apoyo que llevará a cabo el Gobierno del Estado, por conducto del Organismo;
+II.- Determinación de las acciones de orientación, estímulo y apoyo que llevará a cabo el Gobierno del Estado, por conducto del Organismo;
 
 III.- Fijación del objeto, materia y alcances jurídicos de los compromisos que asuman las partes con reserva de las funciones de autoridad que competan al Gobierno del Estado; y
 
@@ -1405,13 +1405,17 @@ IV.- Por la negativa a reformar los estatutos de su institución, cuando así lo
 
 V.- La distracción o inversión de fondos de la institución para fines personales o distintos a los asistenciales.
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+
 ###### ARTICULO 156.
 
-La resistencia de un patrono a separarse de sus funciones, una vez resuelta su remoción, se sancionará por el Organismo, con multa de cinco a treinta días de salario mínimo general vigente en el Estado, sin perjuicio de poner los hechos del conocimiento del Ministerio Público por la responsabilidad penal que pueda resultar.
+La resistencia de un patrono a separarse de sus funciones, una vez resuelta su remoción, se sancionará por el Organismo, con multa de cinco a treinta veces el valor diario de la unidad de medida y actualización, sin perjuicio de poner los hechos del conocimiento del Ministerio Público por la responsabilidad penal que pueda resultar.
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 157.
 
-La violación a lo dispuesto por la fracción I del Artículo 153 de esta Ley se sancionará con una multa de cincuenta veces el salario mínimo general vigente en el Estado, que se hará efectiva a los responsables.
+La violación a lo dispuesto por la fracción I del Artículo 153 de esta Ley se sancionará con una multa de hasta cincuenta veces el valor diario de la unidad de medida y actualización, que se hará efectiva a los responsables.
 
 ###### ARTICULO 158.
 
@@ -1443,9 +1447,11 @@ Cuando un vocal falte sin justificación a las sesiones, por más de cuatro vece
 
 Los Notarios Públicos que autoricen escrituras en las que intervengan instituciones de beneficencia o que en alguna forma afecten los intereses de alguna de ellas sin conocimiento del Organismo, en los casos que conforme a la Ley sea necesaria la autorización para la celebración del acto, podrán ser sancionados en términos de la Ley del Notariado para el Estado de Aguascalientes.
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+
 ###### ARTICULO 162.
 
-Los Notarios Públicos que no envíen al Organismo dentro del término de treinta días naturales contados a partir de su celebración aviso de testimonio de las escrituras a que se refiere el Artículo 78 de esta Ley, podrán ser sancionados por el Gobernador del Estado a través del Secretario General de Gobierno, con una amonestación y en caso de reincidencia con una multa de treinta veces el salario mínimo general vigente en el Estado.
+Los Notarios Públicos que no envíen al Organismo dentro del término de treinta días naturales contados a partir de su celebración aviso de testimonio de las escrituras a que se refiere el Artículo 78 de esta Ley, podrán ser sancionados por el Gobernador del Estado a través del Secretario General de Gobierno, con una amonestación y en caso de reincidencia con una multa de hasta treinta veces el valor diario de la unidad de medida y actualización.
 
 ###### ARTICULO 163.
 
@@ -1572,3 +1578,11 @@ P.O. 25 DE ENERO DE 2016.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
