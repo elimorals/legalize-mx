@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2016-08-22"
+last_updated: "2017-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -1775,7 +1775,9 @@ I. Amonestación por escrito;
 
 II. Cancelación de las autorizaciones o registros otorgados;
 
-III. Multa de quince a mil quinientos días de salario mínimo general vigente en el Estado al momento de realizarse la conducta sancionada;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2017)</small>
+
+III. Multa de quince a mil quinientas veces el valor diario de la unidad de medida y actualización;
 
 En caso de reincidencia se duplicará la multa impuesta, sin que su monto exceda del doble del máximo previsto en esta ley. Se considerará reincidente al que:
 
@@ -1932,3 +1934,11 @@ P.O. 22 DE AGOSTO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
