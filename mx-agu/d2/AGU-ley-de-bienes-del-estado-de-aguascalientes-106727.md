@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-bienes-del-estado-de-aguascalientes-106727"
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-23"
-last_updated: "2017-06-19"
+last_updated: "2017-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106727&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE BIENES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 23 de marzo de 2015.
 
@@ -723,9 +723,11 @@ Las normas a que se refiere el Artículo 61 de esta Ley, precisarán cuáles son
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+
 ###### Artículo 73.
 
-Se sancionará con prisión de dos a doce años y multa de trescientas a mil veces el salario mínimo general diario vigente para el Estado a quien, vencido el término señalado en la concesión, permiso o autorización que se haya otorgado para la explotación, uso o aprovechamiento de un bien sujeto al régimen de dominio público del Estado, no lo devolviere a la autoridad correspondiente dentro del término de treinta días naturales siguientes a la fecha de notificación del requerimiento administrativo que le sea formulado.
+Se sancionará con prisión de dos a doce años y multa de trescientas a mil veces el valor diario de la unidad de medida y actualización (sic), vencido el término señalado en la concesión, permiso o autorización que se haya otorgado para la explotación, uso o aprovechamiento de un bien sujeto al régimen de dominio público del Estado, no lo devolviere a la autoridad correspondiente dentro del término de treinta días naturales siguientes a la fecha de notificación del requerimiento administrativo que le sea formulado.
 
 ###### Artículo 74.
 
@@ -735,9 +737,11 @@ La pena señalada en el artículo anterior se impondrá a quien use, aproveche o
 
 Las obras e instalaciones que sin concesión, permiso, autorización o contrato se realicen en inmuebles del Gobierno del Estado, se perderán en beneficio del Estado. En su caso, la Secretaría ordenará que las obras o instalaciones sean demolidas por cuenta del infractor, sin que proceda indemnización o compensación alguna.
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+
 ###### Artículo 76.
 
-A los notarios públicos, que autoricen actos jurídicos en contravención de las disposiciones de esta Ley o sus reglamentos, o no cumplan con las mismas, independientemente de la responsabilidad civil o penal en que incurran, la Secretaría podrá sancionarlos con multa de veinte a cinco mil veces el salario mínimo general diario vigente para el Estado.
+A los notarios públicos, que autoricen actos jurídicos en contravención de las disposiciones de esta Ley o sus reglamentos, o no cumplan con las mismas, independientemente de la responsabilidad civil o penal en que incurran, la Secretaría podrá sancionarlos con multa de veinte a cinco mil veces el valor diario de la unidad de medida y actualización.
 
 T R A N S I T O R I O S :
 
@@ -808,3 +812,11 @@ P.O. 19 DE JUNIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
