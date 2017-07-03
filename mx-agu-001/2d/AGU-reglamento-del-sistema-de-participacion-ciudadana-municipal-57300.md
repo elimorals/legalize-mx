@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-sistema-de-participacion-ciudadana-municipal-573
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-10-15"
-last_updated: "2014-06-16"
+last_updated: "2017-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "AGU"
 ---
 # REGLAMENTO DEL SISTEMA DE PARTICIPACION CIUDADANA MUNICIPAL DE AGUASCALIENTES, AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SISTEMA DE PARTICIPACIÓN CIUDADANA MUNICIPAL DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 3 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DEL SISTEMA DE PARTICIPACIÓN CIUDADANA MUNICIPAL DE AGUASCALIENTES, AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 15 de octubre de 2007.
 
@@ -1136,3 +1138,13 @@ UNICO.- Publíquese en (sic) el Presente Reglamento en el Periódico Oficial del
 P.O. 16 DE JUNIO DE 2014.
 
 Primero.- Publíquese para los efectos legales a que haya lugar, entrando en vigor al día siguiente de su publicación.
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DEL SISTEMA DE PARTICIPACIÓN CIUDADANA MUNICIPAL DE AGUASCALIENTES."]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO. Se abroga el Reglamento del Sistema de Participación Ciudadana Municipal de Aguascalientes, publicado en el Periódico Oficial del Estado el quince de octubre de dos mil siete.
+
+TERCERO: El Consejo de la Ciudad de Aguascalientes, contará con un periodo de sesenta días hábiles contados a partir de la entrada en vigor del presente Reglamento del Sistema de Participación Ciudadana Municipal de Aguascalientes, para proponer al pleno del Honorable Ayuntamiento de Aguascalientes, las reformas conducentes al Reglamento Interno del Consejo de la Ciudad de Aguascalientes, con el propósito de armonizar las normas jurídicas.
