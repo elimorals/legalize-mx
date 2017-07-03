@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-catastro-del-estado-de-aguascalientes-95959"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-23"
-last_updated: "2013-09-23"
+last_updated: "2017-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CATASTRO DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 23 de septiembre de 2013.
 
@@ -1069,13 +1069,19 @@ VIII. Realicen avalúos que no cumplan con las normas de valuación establecidas
 
 IX. Realizar cualquier acción o incurrir en omisión a los preceptos de esta Ley o de sus reglamentos, que sean distintas a las previstas en las Fracciones anteriores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 105.
 
-Las infracciones a la presente Ley señaladas en el Artículo anterior, serán sancionadas por el Instituto, con multa expresada en unidades de salario mínimo diario vigente de la zona económica a la que pertenece el Estado, conforme a los siguientes montos:
+Las infracciones a la presente Ley señaladas en el Artículo anterior, serán sancionadas por el Instituto, con multa expresada en unidades de medida y actualización, conforme a los siguientes montos:
 
-I. De diez a treinta unidades a los sujetos cuya conducta corresponda a lo previsto por las Fracciones I, II, III, V, VI, VII y X del Artículo anterior;
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
-II. De veinte a cincuenta unidades a los sujetos cuya conducta corresponda a lo previsto por las Fracciones IV, VIII y IX del Artículo anterior.
+I. De diez a treinta veces el valor diario de la unidad de medida y actualización a los sujetos cuya conducta corresponda a lo previsto por las Fracciones I, II, III, V, VI, VII y X del Artículo anterior;
+
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+
+II. De veinte a cincuenta veces el valor diario de la unidad de medida y actualización a los sujetos cuya conducta corresponda a lo previsto por las Fracciones IV, VIII y IX del Artículo anterior.
 
 Las sanciones señaladas en este Artículo serán aplicadas por el Instituto, tomando en consideración la gravedad de la infracción cometida y previo el procedimiento que establece la Ley del Procedimiento Administrativo del Estado de Aguascalientes pudiendo solicitar el auxilio de la fuerza pública.
 
@@ -1144,3 +1150,13 @@ Dip. Kendor Gregorio Macías Martínez,
 SEGUNDO SECRETARIO.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 20 de septiembre de 2013.- Carlos Lozano de la Torre.- Rúbrica.- El Jefe de Gabinete, Antonio Javier Aguilera García.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
