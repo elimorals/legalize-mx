@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5777
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-27"
-last_updated: "2014-12-09"
+last_updated: "2017-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2017.
 
 Ley publicada en el Extraordinario Número 77 al Periódico Oficial del Estado de Quintana Roo, el martes 27 de noviembre de 2007.
 
@@ -55,7 +55,7 @@ En la aplicación e interpretación de esta ley se considerarán los principios 
 
 Para los efectos de la presente ley se entenderá por:
 
-l. Ley: Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo;
+I. Ley: Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo;
 
 II. Ley General: Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
 
@@ -77,15 +77,27 @@ X. Modalidades de Violencia: Las formas, manifestaciones o los ámbitos de ocurr
 
 XI. Víctima: La mujer de cualquier edad a quien se le inflige cualquier tipo de violencia;
 
-XlI. Agresor: La persona que inflige cualquier tipo de violencia contra las mujeres;
+XII. Agresor: La persona que inflige cualquier tipo de violencia contra las mujeres;
 
 XIII. Derechos Humanos de las Mujeres: Refiere a los derechos que son parte inalienable, integrante e indivisible de los derechos humanos universales contenidos en la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW), la Convención sobre los Derechos de la Niñez, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer (Belem Do Pará) y demás instrumentos internacionales en la materia;
 
 XIV. Perspectiva de Género: Es una visión científica, analítica y política sobre las mujeres y los varones. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los varones tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
 
-XV. Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades; y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
 
-XVI. Misoginia: Son conductas de odio hacia la mujer y se manifiesta en actos violentos y crueles contra ella por el hecho de ser mujer.
+XV. Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+XVI. Misoginia: Son conductas de odio hacia la mujer y se manifiesta en actos violentos y crueles contra ella por el hecho de ser mujer;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2017)</small>
+
+XVII. Equidad: El principio que busca alcanzar la justicia social con responsabilidad, mediante la valoración de la individualidad, considerando las diferencias existentes entre personas y grupos, para establecer mecanismos que les permitan alcanzar la igualdad, desde sus diversas circunstancias y características, y
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2017)</small>
+
+XVIII. Igualdad: El principio que establece el acceso a las garantías, oportunidades, bienes, servicios y demás derechos constitucionales y legales, sin discriminación por condiciones de sexo, edad, estado civil, religión, idioma, raza, preferencia sexual, estado de salud, o cualquiera otra situación de las personas.
 
 ###### ARTÍCULO 3.
 
@@ -95,7 +107,7 @@ Todas las medidas que se deriven de la presente ley, garantizarán la prevenció
 
 Los principios rectores para el acceso de todas las mujeres a una vida libre de violencia que deberán ser observados en la elaboración y ejecución de las políticas públicas del Estado y los municipios son:
 
-l. La igualdad jurídica entre la mujer y el varón;
+I. La igualdad jurídica entre la mujer y el varón;
 
 II. El respeto a la dignidad humana de las mujeres;
 
@@ -115,17 +127,25 @@ III. La violencia patrimonial.- Es cualquier acto u omisión que afecta la super
 
 IV. La violencia económica.- Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
 
-V. La violencia sexual.- Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la Víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto; y (sic)
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
 
-VI. La violencia moral.- Se reputa como tal todo acto u omisión encaminados a la vejación, escarnio y mofa de la víctima que se sienta afectada en su calidad humana y en su moral como persona, cuya finalidad esencial sea exponerla al desprecio de los demás y le impida el buen desarrollo a la integración social.
+V. La violencia sexual.- Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto;
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
 
-VII. La violencia obstétrica.- Es toda acción u omisión intencional por parte del personal de salud, que dañe, lastime o denigre a la mujer durante el embarazo y parto, así como la negligencia en su atención médica que se exprese en un trato deshumanizado, en un abuso de medicalización y patologización de los procesos naturales, trayendo consigo pérdida de autonomía y capacidad de decidir libremente sobre sus cuerpos y sexualidad; considerando como tales, la omisión de la atención oportuna y eficaz de las emergencias obstétricas y practicar el parto por vía de cesárea, existiendo condiciones para el parto natural, sin obtener el consentimiento voluntario, expreso e informado de la mujer; y
+VI. La violencia moral.- Se reputa como tal todo acto u omisión encaminados a la vejación, escarnio y mofa de la víctima que se sienta afectada en su calidad humana y en su moral como persona, cuya finalidad esencial sea exponerla al desprecio de los demás y le impida el buen desarrollo a la integración social;
 
-> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
 
-VIII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+VII. La violencia obstétrica.- Es toda acción u omisión intencional por parte del personal de salud, que dañe, lastime o denigre a la mujer durante el embarazo y parto, así como la negligencia en su atención médica que se exprese en un trato deshumanizado, en un abuso de medicalización y patologización de los procesos naturales, trayendo consigo pérdida de autonomía y capacidad de decidir libremente sobre sus cuerpos y sexualidad; considerando como tales, la omisión de la atención oportuna y eficaz de las emergencias obstétricas y practicar el parto por vía de cesárea, existiendo condiciones para el parto natural, sin obtener el consentimiento voluntario, expreso e informado de la mujer;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE JULIO DE 2017)</small>
+
+VIII. La violencia contra los derechos reproductivos.- Toda acción u omisión que limite o vulnere el derecho de las mujeres a decidir libre y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, y acceso a una maternidad elegida y segura, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE JULIO DE 2017)</small>
+
+IX. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 ## TÍTULO SEGUNDO. MODALIDADES DE LA VIOLENCIA
 
@@ -141,7 +161,7 @@ La definición de violencia familiar prevista en este artículo, se establece si
 
 Los modelos de atención, prevención y sanción que establezcan el Estado y los municipios son el conjunto de medidas y acciones para proteger a las víctimas de violencia familiar como parte de sus obligaciones de garantizar a las mujeres su seguridad y el ejercicio pleno de sus derechos humanos. Para ello, deberán tomar en consideración:
 
-l. Proporcionar atención, asesoría jurídica y tratamiento psicológico especializado y gratuito a las víctimas, que favorezcan su empoderamiento y reparen el daño causado por dicha violencia;
+I. Proporcionar atención, asesoría jurídica y tratamiento psicológico especializado y gratuito a las víctimas, que favorezcan su empoderamiento y reparen el daño causado por dicha violencia;
 
 II. Brindar servicios reeducativos integrales, especializados y gratuitos al agresor para erradicar las conductas violentas a través de una educación que elimine los estereotipos de supremacía masculina, y los patrones machistas que generaron su violencia;
 
@@ -185,17 +205,25 @@ El acoso sexual es una forma de violencia en la que, si bien no existe la subord
 
 El Estado y los municipios, en el ámbito de sus respectivas competencias, tomarán en consideración:
 
-l. Establecer las políticas públicas que garanticen el derecho de las mujeres a una vida libre de violencia en sus relaciones laborales, de docencia o ambas;
+I. Establecer las políticas públicas que garanticen el derecho de las mujeres a una vida libre de violencia en sus relaciones laborales, de docencia o ambas;
 
-II. Promover y difundir en la sociedad que el hostigamiento sexual y el acoso sexual son delitos en el Estado, y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
 
-III. Diseñar programas que brinden servicios reeducativos integrales para víctimas y agresores.
+II. Promover y difundir en la sociedad que el hostigamiento sexual y el acoso sexual son delitos en el Estado;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+III. Diseñar programas que brinden servicios reeducativos integrales para víctimas y agresores, y
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2017)</small>
+
+IV. Fortalecer el marco de la legislación penal para asegurar las sanciones a quienes hostiguen y acosen.
 
 ###### ARTÍCULO 13.
 
 Para efectos del hostigamiento sexual o el acoso sexual, el Estado y los municipios deberán:
 
-l. Reivindicar la dignidad de las mujeres en todos los ámbitos de la vida;
+I. Reivindicar la dignidad de las mujeres en todos los ámbitos de la vida;
 
 II. Establecer mecanismos que favorezcan su erradicación en escuelas y centros laborales privados o públicos, mediante acuerdos y convenios con instituciones escolares, empresas y sindicatos;
 
@@ -219,7 +247,7 @@ Por violencia en la comunidad se entienden aquellos actos individuales o colecti
 
 El Estado y los municipios, en el ámbito de sus respectivas competencias, deben garantizar a las mujeres la erradicación de la violencia en la comunidad, a través de:
 
-l. La reeducación libre de estereotipos y la información de alerta sobre el estado de riesgo que enfrentan las mujeres en una sociedad desigual y discriminatoria;
+I. La reeducación libre de estereotipos y la información de alerta sobre el estado de riesgo que enfrentan las mujeres en una sociedad desigual y discriminatoria;
 
 II. El diseño de un sistema de monitoreo del comportamiento violento de los individuos y de la sociedad contra las mujeres, y
 
@@ -241,7 +269,47 @@ El Estado y los municipios, en el ámbito de sus respectivas competencias, tiene
 
 Para cumplir con su obligación de garantizar el derecho de las mujeres a una vida libre de violencia, el Estado y los municipios, en el ámbito de sus respectivas competencias deben prevenir, atender, investigar, sancionar y reparar el daño que les inflige.
 
-### CAPÍTULO I. DE LA PARTICIPACIÓN DEL ESTADO Y LOS MUNICIPIOS EN El SISTEMA NACIONAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+### CAPÍTULO VII. DE LA VIOLENCIA POLÍTICA
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2017)</small>
+
+ARTÍCULO 32 BIS.- Son aquellas conductas de acción, u omisión propias o consentidas, en contra de la mujer o su familia, de forma individual o grupal que, tengan por objeto o resultado menoscabar o anular el reconocimiento, goce y/o ejercicio de los derechos políticos o de las prerrogativas inherentes a un cargo público, conculcando el derecho de las mujeres a una vida libre de violencia y el derecho a participar en los asuntos políticos y públicos en condiciones de igualdad con los hombres, en el marco del ejercicio de derechos político-electorales.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2017)</small>
+
+ARTÍCULO 32 TER.- Constituye violencia política:
+
+I. Imponer estereotipos de género y la realización de actividades y tareas ajenas a las funciones y atribuciones de su cargo;
+
+II. Impedir u obstaculizar el ejercicio pleno de sus derechos políticos mediante el condicionamiento o la restricción de recursos, ocultamiento de información, aplicar de (sic) sanciones que no estén debidamente fundadas y motivadas, amenazas o amedrentamiento hacia su persona o familia;
+
+III. Registrar a las mujeres como candidatas en distritos electorales en los que el partido político que las postule, haya obtenido el más bajo porcentaje de votación en las anteriores elecciones, sean municipales, estatales o federales;
+
+IV. Dar información indebida dolosa, falsa o imprecisa a las mujeres candidatas o electas, titulares o suplentes o designadas para una función pública que las induzca al inadecuado ejercicio de sus funciones políticas públicas;
+
+V. Inducir, obligar o instruir a las mujeres a realizar u omitir actos inadecuados a las funciones públicas propias de su encargo;
+
+VI. Imponerles o asignarles responsabilidades que limiten el ejercicio de las funciones propias del cargo;
+
+VII. Evitar u obstruir por cualquier medio que las mujeres electas, titulares o suplentes o nombradas para una función pública, asistan a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que impliqué la toma de decisiones, impidiendo o suprimiendo el derecho a voz y voto en igualdad de condición que los hombres;
+
+VIII. Proporcionar al Organismo Público Local Electoral datos falsos o información incompleta o errónea o fuera de periodo señalado sobre la identidad de la mujer o mujeres candidatas a algún cargo de elección popular, con la finalidad de limitar o impedir su participación o que se le declare inelegible;
+
+IX. Imponer estereotipos de género y la realización de actividades y tareas ajenas a las funciones;
+
+X. Impedir o restringir a las mujeres, la reincorporación al cargo público al que fueren nombradas o electas, posterior al ejercicio de una licencia o permiso justificado;
+
+XI. Restringir o impedir el uso de las facultades inherentes en la Constitución Política del Estado, así como de las leyes electorales, para proteger sus derechos frente a los actos que violenten o limiten el ejercicio de su representación política;
+
+XII. Efectuar cualquier acto de discriminación previsto en la Constitución Política para el Estado Libre y Soberano de Quintana Roo, o en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana, Roo, (sic) o en el artículo 132 del Código Penal para el Estado Libre y Soberano de Quintana Roo y que tengan como resultado impedir, negar, anular o menoscabar la dignidad y el ejercicio de los derechos humanos de las mujeres electas o en el ejercicio de su representación política;
+
+XIII. Publicar o revelar información, de manera directa o indirecta, personal, privada o falsa, de las mujeres candidatas, electas, designadas o en el ejercicio de su representación política, con el fin de difamar o menoscabar su dignidad humana, y obtener con estas acciones, la renuncia y/o licencia al cargo electo o en ejercicio;
+
+XIV. Obligar, intimidar para que participen en proyectos o adopten decisiones en contra de su voluntad o del interés público, aprovechándose de su representación política;
+
+XV. Impedir, manipular o restringir a las mujeres, la reincorporación al cargo público al que fueren nombradas o electas, posterior a que haya obtenido sentencia favorable ante las autoridades electorales, y
+
+XVI. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 ###### ARTÍCULO 19.
 
@@ -255,7 +323,7 @@ Por alerta de violencia de género se entiende el conjunto de acciones gubername
 
 La alerta de violencia de género contra las mujeres, en términos del Artículo 23 de la Ley General, tendrá como objetivo fundamental garantizar la seguridad de las mismas, el cese de la violencia en su contra y eliminar las desigualdades que agravian sus derechos humanos, por lo que el Estado, a través del Sistema Estatal, deberá:
 
-l. Establecer un grupo interinstitucional y multidisciplinario con perspectiva de género que dé el seguimiento respectivo;
+I. Establecer un grupo interinstitucional y multidisciplinario con perspectiva de género que dé el seguimiento respectivo;
 
 II. Implementar las acciones preventivas, de seguridad y justicia, para enfrentar y abatir la violencia feminicida;
 
@@ -269,7 +337,9 @@ V. Hacer del conocimiento público el motivo de la alerta de violencia de géner
 
 La declaratoria de alerta de violencia de género contra las mujeres, de conformidad con lo dispuesto en el artículo 24 de la Ley General se emitirá cuando:
 
-l. Los delitos del orden común contra la vida, la libertad, la integridad y la seguridad de las mujeres, perturben la paz social en un territorio determinado y la sociedad así lo reclame;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+I. Los delitos del orden común contra la vida, la libertad, la integridad y la seguridad de las mujeres, perturben la paz social en el Estado de Quintana Roo y la sociedad así lo reclame;
 
 II. Exista un agravio comparado que impida el ejercicio pleno de los derechos humanos de las mujeres, y
 
@@ -281,27 +351,93 @@ Corresponderá al Gobierno Federal a través de la Secretaria de Gobernación de
 
 El Poder Ejecutivo del Estado recibirá, a través de la Secretaría de Gobierno del Estado, la notificación de la declaratoria de alerta de violencia de género contra las mujeres que dicte el Gobierno Federal en términos de los artículos 24 y 25 de la Ley General.
 
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2017)</small>
+
+La Secretaría de Gobierno será la encargada de coordinar y dar seguimiento a la ejecución de las acciones necesarias para el cumplimiento de la Declaratoria de Alerta de Violencia de Género.
+
 ###### ARTÍCULO 24.
 
 Ante la violencia feminicida, se deberá resarcir el daño conforme a lo dispuesto por la Ley General.
 
-### CAPÍTULO II. DEL SISTEMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR, Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+### CAPÍTULO I. DE LA PARTICIPACIÓN DEL ESTADO Y LOS MUNICIPIOS EN El SISTEMA NACIONAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
 ###### ARTÍCULO 25.
 
 Las órdenes de protección son actos de protección y de urgente aplicación en función del interés superior de la víctima y son fundamentalmente precautorias y cautela res. Deberán otorgarse por la autoridad competente, inmediatamente que conozcan de hechos probablemente constitutivos de infracciones o delitos que impliquen violencia contra las mujeres.
 
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2017)</small>
+
+La orden de protección deberá contener:
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2017)</small>
+
+a. Hora, lugar y fecha de expedición;
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2017)</small>
+
+b. Vigencia;
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2017)</small>
+
+c. Número de expediente que se genere;
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2017)</small>
+
+d. Tipo de orden de que se trate;
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2017)</small>
+
+e. Autoridad que la emite;
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2017)</small>
+
+f. Datos generales de la víctima;
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2017)</small>
+
+g. Datos generales del solicitante, en caso de que no sea la víctima, así como su relación con ésta;
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2017)</small>
+
+h. Datos del agresor;
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2017)</small>
+
+i. Relación entre la víctima y el agresor;
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2017)</small>
+
+j. Si ha denunciado al mismo agresor con anterioridad;
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2017)</small>
+
+k. Situación económica y familiar de la víctima;
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2017)</small>
+
+l. Hechos y motivos por los que solicita la orden de protección, y
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2017)</small>
+
+m. Datos del asistente jurídico, en su caso.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2017)</small>
+
+El Ejecutivo del Estado por conducto de las instancias de gobierno correspondientes, difundirá a través de los medios de comunicación, el procedimiento para solicitar las órdenes de protección, así como sus efectos.
+
 ###### ARTÍCULO 26.
 
 Las órdenes de protección que consagra la presente ley son personalísimas e intransferibles y podrán ser:
 
-l. De emergencia;
+I. De emergencia;
 
 II. Preventivas, y
 
 III. De naturaleza Civil.
 
-Las órdenes de protección de emergencia y preventivas, otorgada por autoridad administrativa, tendrán una temporalidad no mayor de 72 horas y deberán expedirse dentro de las 24 horas siguientes al conocimiento de los hechos que las generan, salvo tratándose de aquellas que impliquen la retención de bienes, necesarios para la investigación del hecho de que se trate, en las que la temporalidad podrá prolongarse por el tiempo necesario y se expedirán aún fuera de dicho plazo conforme a la legislación aplicable.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+
+Las órdenes de protección de emergencia y preventivas, otorgadas por autoridad administrativa, tendrán una temporalidad de 72 horas y serán prorrogables por el tiempo que sea necesario para proteger a la víctima; deberán expedirse de manera inmediata, sin exceder las 24 horas siguientes al conocimiento de los hechos que las generan; tratándose de aquellas que impliquen la retención de bienes necesarios para la investigación del hecho de que se trate, la temporalidad podrá prolongarse por el tiempo necesario y se expedirán aún fuera de dicho plazo conforme a la legislación aplicable.
 
 Las órdenes de protección de emergencia y preventivas, otorgadas por autoridad judicial, durarán el tiempo que sea necesario para proteger a la víctima, y deberán expedirse dentro de las 24 horas siguientes al conocimiento de los hechos que las generan.
 
@@ -309,19 +445,29 @@ Las órdenes de protección de emergencia y preventivas, otorgadas por autoridad
 
 Son órdenes de protección de emergencia las siguientes:
 
-l. Desocupación por el agresor, del domicilio conyugal o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
 
-II. Prohibición al probable responsable de acercarse al domicilio, lugar de trabajo, de estudios, del domicilio de las y los ascendientes y descendientes o cualquier otro que frecuente la víctima;
+I. Desocupación inmediata por el agresor, del domicilio conyugal o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+II. Prohibición inmediata al agresor de acercarse al domicilio, lugar de trabajo, de estudios, del domicilio de las y los ascendientes y descendientes o cualquier otro que frecuente la víctima;
 
 III. Reingreso de la víctima al domicilio, una vez que se salvaguarde de su seguridad, y
 
-IV. Prohibición de intimidar o molestar a la víctima en su entorno social, así como a cualquier integrante de su familia.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+IV. Prohibir al agresor de hostigar, intimidar, amenazar, dañar o poner en peligro la vida de la víctima, así como la de algún integrante de su familia, de cualquier forma, que atente contra su vida, integridad física o bienes.
 
 ###### ARTÍCULO 28.
 
 Son órdenes de protección preventivas las siguientes:
 
-l. Retención y guarda de armas de fuego, punzocortantes, punzocontundentes u otras, que independientemente de su uso, hayan sido utilizadas por el agresor para amenazar o lesionar a la víctima;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+I. Retención y guarda de armas de fuego propiedad del agresor o de alguna institución privada de seguridad, independientemente si las mismas se encuentran registradas conforme a la normatividad de la materia.
+
+Es aplicable lo anterior a las armas punzocortantes, punzocontundentes u otras, que independientemente de su uso, hayan sido utilizadas para amenazar o lesionar a la víctima;
 
 II. Elaboración de un inventario de los bienes muebles e inmuebles de propiedad o uso común, incluyendo los implementos de trabajo de la víctima;
 
@@ -335,11 +481,13 @@ VI. Auxilio policíaco de reacción inmediata a favor de la víctima, con autori
 
 VII. Solicitar se brinden servicios reeducativos, integrales, especializados y gratuitos con perspectiva de género al agresor en instituciones públicas debidamente acreditadas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 29.
 
-Corresponderá a las autoridades del Estado y de los municipios, en el ámbito de sus respectivas competencias y de conformidad con la Ley Orgánica de la Procuraduría General de Justicia, la Ley de Seguridad Pública, la Ley Orgánica del Poder Judicial y los Códigos Civil y Penal, así como con los demás ordenamientos legales aplicables, todos del Estado de Quintana Roo, otorgar las órdenes emergentes y preventivas de la presente ley, quienes tomarán en consideración:
+Corresponderá al Ministerio Público y a los Jueces Penales, Familiares y Civiles, en el ámbito de sus respectivas competencias, y de conformidad con la Ley Orgánica de la Fiscalía General del Estado, la Ley Orgánica del Poder Judicial, los Códigos Civil y Penal, así como con los demás ordenamientos legales aplicables en el Estado, otorgar las órdenes emergentes y preventivas de la presente Ley, quienes tomarán en consideración:
 
-l. El riesgo o peligro existente;
+I. El riesgo o peligro existente;
 
 II. La seguridad de la víctima, y
 
@@ -349,7 +497,7 @@ III. Los elementos con que se cuente.
 
 Son órdenes de protección de naturaleza civil las siguientes:
 
-l. Suspensión temporal al agresor del régimen de visitas y convivencia con sus descendientes;
+I. Suspensión temporal al agresor del régimen de visitas y convivencia con sus descendientes;
 
 II. Prohibición al agresor de enajenar o hipotecar bienes de su propiedad cuando se trate del domicilio conyugal; y en cualquier caso cuando se trate de bienes de la sociedad conyugal;
 
@@ -367,15 +515,23 @@ Corresponde a las autoridades jurisdiccionales competentes valorar las órdenes 
 
 Las autoridades jurisdiccionales competentes valorarán de forma inmediata, en cuanto tengan conocimiento de los hechos, las órdenes de protección de emergencia y preventivas, cuando sea procedente conforme a su propia naturaleza, a fin de ratificarlas hasta por el tiempo que consideren necesario para proteger a la victima o desestimarlas decretando que cesen. Dichas órdenes de protección podrán ser dictadas por las autoridades jurisdiccionales, por el tiempo que consideren necesario para proteger a la victima, aun cuando no fueren decretadas con anterioridad por autoridad administrativa.
 
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2017)</small>
+
+ARTÍCULO 31 BIS.- Las autoridades emisoras de las órdenes de protección, mencionadas en el artículo 29 de esta Ley, tendrán la obligación de registrar las mismas dentro de los cinco días hábiles posteriores a su emisión, en las bases de datos del Banco Nacional de Datos e Información sobre Casos de Violencia contra las Mujeres, BANAVIM, y del Banco Estatal de Datos e Información sobre casos de Violencia contra las Mujeres, BAESVIM.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 32.
 
-Las personas mayores de 12 años de edad podrán solicitar, por sí mismas, a las autoridades competentes que los representen en sus solicitudes y acciones, a efecto de que las autoridades correspondientes puedan de manera oficiosa dar el otorgamiento de las órdenes. Cuando se trate de personas menores de 12 años de edad, cualquier persona que tenga conocimiento de un hecho violento en su contra podrá informar a las autoridades competentes para que éstas de manera oficiosa otorguen las órdenes correspondientes.
+Las personas mayores de 12 años de edad podrán solicitar por sí mismas a las autoridades competentes que los representen en sus solicitudes y acciones, a efecto de que las autoridades correspondientes puedan de manera oficiosa dar el otorgamiento de las órdenes. Cuando se trate de personas menores de 12 años de edad, cualquier persona que tenga conocimiento de un hecho violento en su contra o el menor a través de sus representantes, podrá informar a las autoridades competentes para que éstas de manera oficiosa otorguen las órdenes correspondientes.
 
-### CAPÍTULO III. DEL PROGRAMA ESTATAL INTEGRAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE JULIO DE 2017)</small>
+
+### CAPÍTULO II. DEL SISTEMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR, Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
 ## TÍTULO TERCERO. DE LAS COMPETENCIAS, SISTEMAS Y PROGRAMAS
 
-### CAPÍTULO IV. DE LA DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
+### CAPÍTULO III. DEL PROGRAMA ESTATAL INTEGRAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
 ###### ARTÍCULO 33.
 
@@ -383,7 +539,7 @@ El Estado y los Municipios, se coordinarán con la Federación para la integraci
 
 Todas las medidas que lleve a cabo el Estado deberán ser realizadas sin discriminación alguna. Por ello, considerará el idioma, lengua, dialecto, edad, condición social, preferencia sexual, o cualquier otra condición, para que puedan acceder a las políticas públicas en la materia.
 
-### CAPÍTULO I. DE LA ATENCIÓN A LAS VÍCTIMAS
+### CAPÍTULO IV. DE LA DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
 
 ###### ARTÍCULO 34.
 
@@ -391,15 +547,19 @@ El Estado y los Municipios se coordinarán a fin de establecer el Sistema Estata
 
 El Sistema Estatal se conformará por las y los titulares de:
 
-l. La Secretaría de Gobierno, quien lo presidirá;
+I. La Secretaría de Gobierno, quien lo presidirá;
 
 II. El Instituto Quintanarroense de la Mujer, quien ocupará la Secretaría Ejecutiva;
 
-III. La Secretaría de Planeación y Desarrollo Regional;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+III. La Secretaría de Desarrollo Social;
 
 IV. La Secretaría de Seguridad Pública;
 
-V. La Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+V. La Fiscalía General del Estado;
 
 VI. La Secretaría de Educación;
 
@@ -407,7 +567,25 @@ VII. La Secretaría de Salud;
 
 VIII. El Sistema para el Desarrollo Integral de la Familia del Estado y los sistemas municipales; y
 
-IX. Los organismos y dependencias instituidos en el ámbito municipal para la protección de los derechos de la mujer.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+IX. Los organismos instituidos en el ámbito municipal para la atención y protección de los derechos de la mujer;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2017)</small>
+
+X. La Secretaría del Trabajo y Previsión Social;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2017)</small>
+
+XI. La Secretaría de Desarrollo Agropecuario, Rural y Pesquero;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2017)</small>
+
+XII. La Comisión para la Igualdad de Género de la Legislatura del Estado, y
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2017)</small>
+
+XIII. El Instituto Electoral de Quintana Roo.
 
 El Titular del Poder Ejecutivo del Estado de Quintana Roo, a través de la Secretaría de Gobierno, podrá invitar a participar en las sesiones del Sistema Estatal a las demás autoridades estatales y federales que estime conveniente, a especialistas en la materia y a la sociedad civil.
 
@@ -415,15 +593,17 @@ El Titular del Poder Ejecutivo del Estado de Quintana Roo, a través de la Secre
 
 La Secretaría Ejecutiva del Sistema Estatal elaborará el proyecto de reglamento para el funcionamiento del mismo y lo presentará a sus integrantes para su consideración y aprobación, en su caso, por el titular del Poder ejecutivo del Estado.
 
-### CAPÍTULO II. DE LOS REFUGIOS PARA LAS VÍCTIMAS DE VIOLENCIA
+### CAPÍTULO I. DE LA ATENCIÓN A LAS VÍCTIMAS
 
 ###### ARTÍCULO 36.
 
 El Programa Estatal contendrá las acciones con perspectiva de género para:
 
-l. Impulsar y fomentar el conocimiento y el respeto a los derechos humanos de las mujeres;
+I. Impulsar y fomentar el conocimiento y el respeto a los derechos humanos de las mujeres;
 
-II. Fomentar la transformación de los modelos socioculturales de conducta de mujeres y varones, con la finalidad de prevenir, atender y erradicar las conductas estereotipadas que permiten, fomentan y toleran la violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+II. Fomentar la transformación de los modelos socioculturales de conducta de mujeres y hombres, con la finalidad de prevenir, atender y erradicar las conductas estereotipadas que permiten, fomentan y toleran la violencia contra las mujeres;
 
 III. Educar y capacitar en materia de derechos humanos al personal encargado de la procuración de justicia, policías y demás funcionarios encargados de las políticas de prevención, atención, sanción y eliminación de la violencia contra las mujeres;
 
@@ -451,6 +631,8 @@ El Programa Estatal deberá considerar los programas que señalan las fracciones
 
 El Ejecutivo del Estado propondrá en el Proyecto de Presupuesto de Egresos del Estado asignar una partida presupuestaria para garantizar el cumplimiento de los objetivos del Sistema Estatal y del Programa Estatal.
 
+### CAPÍTULO II. DE LOS REFUGIOS PARA LAS VÍCTIMAS DE VIOLENCIA
+
 ###### ARTÍCULO 38.
 
 El Estado y los Municipios, coadyuvarán para el cumplimiento de los objetivos de esta ley y de la Ley General de conformidad con las competencias previstas en el presente ordenamiento y demás instrumentos legales aplicables.
@@ -471,7 +653,9 @@ IV. Coadyuvar en la adopción y consolidación del Sistema Nacional y del Estata
 
 V. Participar en la elaboración del Programa Nacional;
 
-VI. Reforzar a las instituciones públicas y privadas que prestan atención a las víctimas;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+VI. Fortalecer e impulsar la creación de las instituciones públicas y privadas que prestan atención a las víctimas;
 
 VII. Integrar el Sistema Estatal y establecer los lineamientos que permitan coordinarse con el Sistema Nacional;
 
@@ -485,9 +669,11 @@ X. Proveer de los recursos presupuestarios, humanos y materiales, a los programa
 
 XI. Impulsar la creación de refugios para las víctimas conforme al modelo de atención diseñado por el Sistema Estatal y por el Sistema Nacional;
 
-XII. Promover programas de información en la materia a la población;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
 
-XlII. Impulsar programas reeducativos integrales de los agresores;
+XII. Promover programas de información que fomenten el conocimiento y la observancia del derecho de la mujer a una vida libre de violencia, y el derecho a que se respeten y protejan sus derechos humanos;
+
+XIII. Impulsar programas reeducativos integrales de los agresores;
 
 XIV. Difundir por todos los medios de comunicación el contenido de esta Ley;
 
@@ -497,19 +683,37 @@ XVI. Promover investigaciones sobre las causas y las consecuencias de la violenc
 
 XVII. Revisar y evaluar la eficacia de las acciones, las políticas públicas y los programas estatales, con base en los resultados de las investigaciones previstas en la fracción anterior;
 
-XVlII. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de las mujeres, en la ejecución de los programas estatales;
+XVIII. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de las mujeres, en la ejecución de los programas estatales;
 
 XIX. Recibir de las organizaciones privadas, las propuestas y recomendaciones sobre la prevención, atención y sanción de la violencia contra mujeres, a fin de mejorar los mecanismos para su erradicación;
 
 XX. Proporcionar a las instancias encargadas de realizar estadísticas, la información necesaria para la elaboración de éstas;
 
-XXI. Impulsar reformas, en el ámbito de su competencia, para el cumplimiento de los objetivos de la presente ley;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
 
-XXII. Celebrar convenios de cooperación, coordinación y concertación en la materia, y
+XXI. Impulsar reformas legislativas que incluyan la perspectiva de género, para el cumplimiento de los objetivos de la presente Ley;
 
-XXIII. Las demás aplicables a la materia, que les conceda la ley u otros ordenamientos legales.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
 
-Los programas a los que se refieren las fracciones VIII, IX, XII y XIII se integrarán al Programa Estatal.
+XXII. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE JULIO DE 2017)</small>
+
+XXIII. Especializar a las y los trabajadores del Poder Judicial, agentes del ministerio público, peritos y personal que atiende a víctimas, a través de programas y cursos permanentes en:
+
+a) Derechos humanos y género;
+
+b) Perspectiva de género para la debida diligencia en la conducción de averiguaciones previas y procesos judiciales relacionados con discriminación, violencia y feminicidio;
+
+c) Incorporación de la perspectiva de género en los servicios periciales, y eliminación de estereotipos sobre el rol social de las mujeres.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE JULIO DE 2017)</small>
+
+XXIV. Las demás aplicables a la materia, que les conceda la ley u otros ordenamientos legales.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+
+Los programas a los que se refieren las fracciones VIII, IX, XII, XIII y XXIII se integrarán al Programa Estatal.
 
 #### Sección Segunda. De la Secretaría de Gobierno
 
@@ -517,7 +721,9 @@ Los programas a los que se refieren las fracciones VIII, IX, XII y XIII se integ
 
 Corresponde a la Secretaria de Gobierno:
 
-I. Presidir el Sistema Estatal y recibir la notificación de la declaratoria de alerta de violencia de género contra las mujeres que dicte el Gobierno Federal a través de la Secretaría de Gobernación en términos de los artículos 24 y 25 de la Ley General;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+I. Presidir el Sistema Estatal, recibir la notificación de la declaratoria de alerta de violencia de género, así como coordinar y dar seguimiento a la ejecución de las acciones para el cumplimiento de la misma;
 
 II. Diseñar la política integral con perspectiva de género para promover la cultura del respeto a los derechos humanos de las mujeres;
 
@@ -539,17 +745,21 @@ X. Realizar un Diagnóstico Estatal y otros estudios complementarios de manera p
 
 XI. Difundir a través de diversos medios, los resultados del Sistema Estatal y del Programa Estatal;
 
-XII. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+XII. Celebrar y dar seguimiento a convenios de cooperación, coordinación y concertación en la materia, y
 
 XIII. Las demás previstas para el cumplimiento de la presente ley.
 
 #### Sección Tercera. De la Secretaría de Planeación y Desarrollo Regional
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 41.
 
-Corresponde a la Secretaría de Planeación y Desarrollo Regional:
+Corresponde a la Secretaría de Desarrollo Social:
 
-l. Fomentar el desarrollo social desde la visión de protección integral de los derechos humanos de las mujeres con perspectiva de género, para garantizarles una vida libre de violencia;
+I. Fomentar el desarrollo social desde la visión de protección integral de los derechos humanos de las mujeres con perspectiva de género, para garantizarles una vida libre de violencia;
 
 II. Coadyuvar en la promoción de los Derechos Humanos de las Mujeres;
 
@@ -573,19 +783,25 @@ IX. Las demás previstas para el cumplimiento de la presente ley.
 
 Corresponde a la Secretaria de Seguridad Pública:
 
-l. Capacitar al personal de las diferentes instancias policiales para atender los casos de violencia contra las mujeres;
+I. Capacitar al personal de las diferentes instancias policiales para atender los casos de violencia contra las mujeres;
 
 II. Tomar medidas y realizar las acciones necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente ley;
 
 III. Integrar el Banco Estatal de Datos e Información Sobre Casos de Violencia Contra las Mujeres y proceder conforme a la fracción IX del artículo 36 de esta Ley;
 
-IV. Diseñar la política integral para la prevención de delitos violentos contra las mujeres, en los ámbitos público y privado;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
 
-V. Establecer las acciones, y medidas que se deberán tomar para la reeducación y reinserción social del agresor;
+IV. Diseñar la política integral para la prevención de delitos cometidos contra mujeres, en especial mujeres indígenas y migrantes, en los ámbitos público y privado;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+V. Establecer protocolos, acciones, medidas y dar seguimiento a los tratamientos psicoterapéuticos reeducativos con perspectiva de género de los agresores y su debida reinserción social;
 
 VI. Ejecutar y dar seguimiento a las acciones del Programa que le correspondan;
 
-VII. Formular acciones y programas orientados a fomentar la cultura del respeto a los derechos humanos de las mujeres;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+VII. Formular acciones y programas orientados a fomentar la cultura del respeto a los derechos humanos de las mujeres, especialmente de las reclusas, indígenas y migrantes;
 
 VIII. Diseñar, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de los delitos violentos contra las mujeres;
 
@@ -599,13 +815,17 @@ XI. Las demás previstas para el cumplimiento de la presente ley.
 
 ###### ARTÍCULO 43.
 
-Corresponde a la Secretaria de Educación:
+Corresponde a la Secretaría de Educación:
 
-l. Definir en las políticas educativas los principios de igualdad, equidad y no discriminación entre mujeres y varones, así como el respeto pleno a los derechos humanos;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+I. Definir en las políticas educativas los principios de igualdad, equidad y no discriminación entre mujeres y hombres, así como el respeto pleno a los derechos humanos;
 
 II. Garantizar acciones y mecanismos que favorezcan el adelanto de las mujeres en todas las etapas del proceso educativo;
 
-III. Garantizar el derecho de las niñas y mujeres a la educación, a la alfabetización, y al acceso, permanencia y terminación de estudios en todos los niveles, a través de la obtención de becas y otras subvenciones;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+III. Garantizar el derecho de las niñas y mujeres, en especial las de las zonas indígenas y rurales, a la educación, a la alfabetización, y al acceso, permanencia y terminación de estudios en todos los niveles, a través de la obtención de becas y otras subvenciones;
 
 IV. Desarrollar investigación multidisciplinaria encaminada a crear modelos de detección de la violencia contra las mujeres en los centros educativos;
 
@@ -621,9 +841,17 @@ IX. Establecer, utilizar, supervisar y mantener todos los instrumentos y accione
 
 X. Diseñar, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de los delitos violentos contra las mujeres, susceptibles de cometerse en los centros educativos;
 
-XI. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
 
-XII. Las demás previstas para el cumplimiento de la presente ley.
+XI. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE JULIO DE 2017)</small>
+
+XII. Desarrollar programas educativos, en todos los niveles de escolaridad, que fomenten la cultura de una vida libre de violencia contra las mujeres y el respeto a su dignidad y derechos; así como la comprensión adecuada al ejercicio del derecho a una paternidad y maternidad libre, responsable e informada, como función social y el reconocimiento de la responsabilidad compartida de hombres y mujeres en cuanto a la educación y el desarrollo de sus hijos, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE JULIO DE 2017)</small>
+
+XIII. Las demás previstas para el cumplimiento de la presente ley.
 
 #### Sección Sexta. De la Secretaría de Salud
 
@@ -631,7 +859,7 @@ XII. Las demás previstas para el cumplimiento de la presente ley.
 
 Corresponde a la Secretaría de Salud:
 
-l. En el marco de la política de salud integral de las mujeres, diseñar con perspectiva de género, la política de prevención, atención y erradicación de la violencia en su contra;
+I. En el marco de la política de salud integral de las mujeres, diseñar con perspectiva de género, la política de prevención, atención y erradicación de la violencia en su contra;
 
 II. Brindar por medio de las instituciones del sector salud de manera integral e interdisciplinaria atención médica y psicológica con perspectiva de género a las víctimas;
 
@@ -639,21 +867,29 @@ III. Crear programas de capacitación para el personal del sector salud, respect
 
 IV. Establecer programas y servicios profesionales y eficaces, con horario de veinticuatro horas en las dependencias públicas relacionadas con la atención de la violencia contra las mujeres;
 
-V. Brindar servicios reeducativos integrales a las víctimas y a los agresores; a fin de que logren estar en condiciones de participar plenamente en la vida pública, social y privada;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2014)</small>
+V. Brindar tratamientos psicoterapéuticos reeducativos con perspectiva de género a las víctimas y a los agresores, a fin de que logren estar en condiciones de participar plenamente en la vida pública, social y privada;
 
-VI. Difundir en las instituciones del Sector Salud, material referente a la prevención y atención de la violencia contra las mujeres; así como a las personas físicas y morales del sector social y privado, que presten servicios de salud previa celebración del Acuerdo o Convenio respectivo;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+VI. Difundir en las instituciones del sector salud, así como a las personas físicas y morales del sector social y privado, que presten servicios de salud, previa celebración del Acuerdo o Convenio respectivo, el cumplimiento de las Normas Oficiales Mexicanas en materia de salud, derechos reproductivos y violencia contra las mujeres, y material referente a la prevención y atención de la violencia contra las mujeres;
 
 VII. Canalizar a las víctimas a las instituciones que prestan atención y protección a las mujeres;
 
-VIII. Mejorar la calidad de la atención, que se preste a las mujeres víctimas;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+VIII. Asegurar la calidad de la atención, que se preste a las mujeres víctimas, en especial a las indígenas, migrantes y reclusas;
 
 IX. Participar activamente, en la ejecución del Programa Estatal, en el diseño de nuevos modelos de prevención, atención y erradicación de la violencia contra las mujeres, en colaboración con las demás autoridades encargadas de la aplicación de la presente ley;
 
-X. Asegurar que en la prestación de los servicios del sector salud sean respetados los derechos humanos de las mujeres;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
 
-XI. Capacitar al personal del sector salud, con la finalidad de que detecten la violencia contra las mujeres;
+X. Asegurar que en la prestación de los servicios del sector salud sean respetados los derechos humanos de las mujeres, en especial de las indígenas, migrantes, adolescentes y reclusas;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+XI. Capacitar al personal del sector salud, en la aplicación de las Normas Oficiales Mexicanas, que se relacionen con la prestación de servicios de salud en violencia familiar, sexual y contra las mujeres;
 
 XII. Apoyar a las autoridades encargadas de efectuar investigaciones en materia de violencia contra las mujeres, proporcionando la siguiente información:
 
@@ -667,25 +903,51 @@ d) Los efectos causados por la violencia en las mujeres; y
 
 e) Los recursos erogados en la atención de las víctimas.
 
-XIII. Celebrar convenios de cooperación, coordinación y concertación en la materia; y (sic)
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+XIII. Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
 > <small>(REFORMADA, P.O. 28 DE MAYO DE 2014)</small>
 
 XIV. Capacitar y sensibilizar a través de programas a los prestadores de servicios de salud, de los sectores público, social y privado, así como a sus trabajadores, respecto de la violencia obstétrica;
 
-> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE JULIO DE 2017)</small>
 
-XV. Las demás previstas para el cumplimiento de la presente Ley.
+XV. Implementar programas para proporcionar a las mujeres, adolescentes, indígenas, migrantes y reclusas, información y formación en salud sexual, derechos sexuales y reproductivos;
 
-#### Sección Séptima. De la Procuraduría General de Justicia del Estado
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2017)</small>
+
+XVI. Brindar atención médica a las mujeres víctimas de violencia sexual que se encuentren embarazadas y que decidan interrumpir el embarazo por medio de un aborto médico; siempre y cuando el embarazo sea resultado de la violación, que haya sido denunciada ante el Ministerio Público, y que el aborto se practique dentro del término de 90 días de la gestación;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2017)</small>
+
+XVII. Deberán prestar servicios de aborto médico a solicitud de la víctima interesada, en caso de ser menor de edad, a solicitud de su padre y/o su madre, o a falta de éstos, de su tutor, siempre y cuando el embarazo sea resultado de una violación, que haya sido denunciada ante el Ministerio Público, y que el aborto se practique dentro del término de 90 días de la gestación;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2017)</small>
+
+XVIII. Brindar a la víctima del delito de violación, en forma previa a la intervención médica, información completa sobre los posibles riesgos y consecuencias del aborto, a efecto de garantizar que la decisión de la víctima sea una decisión informada, y se lleve a cabo conforme a las disposiciones legales aplicables del Código Penal para el Estado Libre y Soberano de Quintana Roo, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE JULIO DE 2017)</small>
+
+XIX. Las demás previstas para el cumplimiento de la presente Ley.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE JULIO DE 2017)</small>
+
+#### Sección Séptima
+
+De la Fiscalía General del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 45.
 
-Corresponde a la Procuraduría General de Justicia del Estado:
+Corresponde a la Fiscalía General del Estado:
 
-l. Promover la formación y especialización de Agentes de la Policía Judicial del Estado, Agentes del Ministerio Público y de todo el personal encargado de la procuración de justicia en materia de derechos humanos de las mujeres;
+I. Promover la formación y especialización de Agentes de la Policía Judicial del Estado, Agentes del Ministerio Público y de todo el personal encargado de la procuración de justicia en materia de derechos humanos de las mujeres;
 
-II. Proporcionar a las víctimas orientación y asesoría para su eficaz atención, y otorgar las órdenes de protección de emergencia y preventiva, de conformidad con esta Ley, la Ley Orgánica de la Procuraduría General de Justicia del Estado, su Reglamento y los demás ordenamientos aplicables;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+II. Proporcionar a las víctimas orientación y asesoría para su eficaz atención, y otorgar las órdenes de protección de emergencia y preventiva, de conformidad con esta Ley, la Ley de la Fiscalía General del Estado, su Reglamento y los demás ordenamientos aplicables;
 
 III. Dictar las medidas necesarias para que la víctima reciba atención médica de emergencia;
 
@@ -693,13 +955,31 @@ IV. Establecer el Banco de Datos al cual se refiere la fracción III del artícu
 
 V. Brindar a las víctimas la información integral sobre las instituciones públicas o privadas encargadas de su atención;
 
-VI. Proporcionar a las víctimas información objetiva que les permita reconocer su situación;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+VI. Coadyuvar en la política estatal de prevención; y en la atención de la violencia contra las mujeres;
 
 VII. Promover la cultura de la denuncia y el respeto a los derechos humanos de las mujeres, así como garantizar la seguridad de quienes denuncian;
 
-VIII. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
 
-IX. Las demás previstas para el cumplimiento de la presente ley.
+VIII. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE JULIO DE 2017)</small>
+
+IX. Crear un registro público sistemático de los delitos cometidos en contra de mujeres, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos, características sociodemográficas de las víctimas y del sujeto activo, especificando su tipología, relación entre el sujeto activo y pasivo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, consignación, sanción y reparación del daño. Este registro se integrará a la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2017)</small>
+
+X. Aplicar el Protocolo Alba y otros especializados con perspectiva de género en la búsqueda inmediata de mujeres, niñas y adolescentes desaparecidas, para la investigación de los delitos de discriminación, feminicidio, trata de personas y contra el libre desarrollo de la personalidad;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2017)</small>
+
+XI. Operar el Centro de Justicia para Mujeres, de conformidad con el artículo 30 de la Ley de la Fiscalía General del Estado, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 4 DE JULIO DE 2017)</small>
+
+XII. Las demás previstas para el cumplimiento de la presente Ley.
 
 #### Sección Octava. Del Instituto Quintanarroense de la Mujer
 
@@ -707,7 +987,7 @@ IX. Las demás previstas para el cumplimiento de la presente ley.
 
 Corresponde al Instituto Quintanarroense de la Mujer:
 
-l. Fungir como Secretaría Ejecutiva del Sistema Estatal, a través de su Director General;
+I. Fungir como Secretaría Ejecutiva del Sistema Estatal, a través de su Director General;
 
 II. Integrar las investigaciones promovidas por las dependencias de la Administración Pública Estatal sobre las causas, características y consecuencias de la violencia en contra de las mujeres, así como la evaluación de las medidas de prevención, atención y erradicación, y la información derivada de cada una de las instituciones encargadas de promover los derechos humanos de las mujeres en los municipios. Los resultados de dichas investigaciones serán dados a conocer públicamente para tomar las medidas pertinentes hacia la erradicación de la violencia;
 
@@ -725,9 +1005,17 @@ VIII. Promover y vigilar que la atención ofrecida en las diversas instituciones
 
 IX. Difundir la cultura de respeto a los derechos humanos de las mujeres y promover que las instancias de procuración de justicia garanticen la integridad física de quienes denuncian;
 
-X. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
 
-XI. Las demás previstas para el cumplimiento de la ley.
+X. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE JULIO DE 2017)</small>
+
+XI. Recibir de las organizaciones privadas, las propuestas y recomendaciones sobre la prevención, atención y sanción de la violencia contra las mujeres, a fin de mejorar los mecanismos para su erradicación, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 4 DE JULIO DE 2017)</small>
+
+XII. Las demás previstas para el cumplimiento de la Ley.
 
 #### Sección Novena. Del Sistema para el Desarrollo Integral de la Familia
 
@@ -737,7 +1025,7 @@ Del Estado y los Sistemas Municipales
 
 Corresponde al Sistema para el Desarrollo Integral de la Familia del Estado y a los Sistemas Municipales, en el ámbito de sus respectivas competencias:
 
-l. Coadyuvar de manera integral, coordinada y directa al cumplimiento de las disposiciones de esta ley;
+I. Coadyuvar de manera integral, coordinada y directa al cumplimiento de las disposiciones de esta ley;
 
 II. Participar activamente en el diseño de estrategias y programas que garanticen el respeto de los derechos humanos de las mujeres y promuevan la erradicación de la violencia en su contra en los términos que le soliciten las instancias facultadas para ello;
 
@@ -751,7 +1039,7 @@ IV. Coadyuvar en la adopción y consolidación del Sistema Estatal.
 
 Corresponde a los Municipios, de conformidad con esta Ley, la Ley General, las leyes locales en la materia y acorde con la perspectiva de género, las siguientes atribuciones:
 
-l. Instrumentar y articular, en concordancia con la política nacional y estatal, la política municipal orientada a erradicar la violencia contra las mujeres;
+I. Instrumentar y articular, en concordancia con la política nacional y estatal, la política municipal orientada a erradicar la violencia contra las mujeres;
 
 II. Coadyuvar con la Federación y con el Estado, en la adopción y consolidación del Sistema Nacional y del Sistema Estatal;
 
@@ -773,13 +1061,121 @@ X. Celebrar convenios de cooperación, coordinación y concertación en la mater
 
 XI. La atención de los demás asuntos que en materia de violencia contra las mujeres les conceda esta Ley, la Ley General u otros ordenamientos jurídicos.
 
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE JULIO DE 2017)</small>
+
+#### Sección Décima Primera. De la Secretaría del Trabajo y Previsión Social
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2017)</small>
+
+ARTÍCULO 48 BIS.- Corresponde (sic) la Secretaría del Trabajo y Previsión Social:
+
+I. Impulsar acciones que propicien la igualdad de oportunidades y la no discriminación de mujeres y de hombres en materia de trabajo y previsión social;
+
+II. Diseñar, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de la violencia laboral contra las mujeres;
+
+III. Promover la cultura de respeto a los derechos humanos de las mujeres en el ámbito laboral;
+
+IV. Diseñar y difundir materiales que promuevan la prevención, atención y erradicación de la violencia contra las mujeres en los centros de trabajo;
+
+V. Orientar a las víctimas de violencia laboral sobre las instituciones que prestan atención y protección a las mujeres;
+
+VI. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+VII. Promover programas de inclusión de las mujeres de manera paritaria en espacios laborales;
+
+VIII. Elaborar, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa;
+
+IX. Tomar medidas y realizar las acciones necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente Ley;
+
+XI (SIC). Elaborar y promover la aplicación de un protocolo para proteger los derechos laborales de las mujeres víctimas de violencia familiar, cuando se ausentan de su centro laboral, por incorporación a un refugio, y
+
+XII. Las demás necesarias para el cumplimiento de la presente ley.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE JULIO DE 2017)</small>
+
+#### Sección Décima Segunda. De la Secretaría de Desarrollo Agropecuario, Rural y Pesca
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2017)</small>
+
+ARTÍCULO 48 TER.- Corresponde a la Secretaría de Desarrollo Agropecuario, Rural y Pesquero:
+
+I. Promover la inclusión de la perspectiva de género, en la formulación de las políticas y programas sectoriales de desarrollo, promoción y fomento económico, en materia de agricultura, fruticultura, horticultura, apicultura, ganadería, agroindustria, desarrollo rural y de aprovechamiento forestal;
+
+II. Coordinar acciones que propicien la igualdad de oportunidades y la no discriminación de mujeres y hombres en los programas sectoriales que desarrolle la Secretaría;
+
+III. Fomentar a través de programas de capacitación internos, la cultura del respeto a los derechos humanos de las mujeres que habitan en zonas rurales, incluyendo a las de origen étnico;
+
+IV. Tomar medidas y realizar las acciones necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente Ley;
+
+V. Elaborar estadísticas de programas y apoyos otorgados en las comunidades rurales, desagregadas por género y edad;
+
+VI. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa, y
+
+VII. Las demás previstas para el cumplimiento de la presente Ley.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE JULIO DE 2017)</small>
+
+#### Sección Décima Tercera. De la Comisión para la Igualdad de Género de la Legislatura del Estado
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2017)</small>
+
+ARTÍCULO 48 QUÁTER.- Corresponde a la Comisión para la Igualdad de Género de la Legislatura del Estado:
+
+I. Verificar y sugerir, en su caso, que la actividad oficial de las y los integrantes del Sistema Estatal, se realice con apego y diligencia en el cumplimiento de la presente Ley, el Programa Estatal, el Plan de Trabajo Anual del Sistema Estatal y aquellos documentos normativos emitidos por el Estado o la Federación en materia de Derechos Humanos de las Mujeres;
+
+II. Dar puntual seguimiento y apoyo a los trabajos que realice el Sistema Estatal, en el ámbito de su competencia;
+
+III. Para el cumplimiento de las fracciones anteriores quien presida la Comisión para la Igualdad de Género, podrá solicitar informes a las y los integrantes del Sistema Estatal;
+
+IV. Promover ante la Legislatura del Estado la transversalización de la perspectiva de género y temas que se relacionan con las problemáticas que atraviesan las mujeres en el Estado de Quintana Roo;
+
+V. Promover ante la Legislatura del Estado, las propuestas e iniciativas generadas con motivo de los trabajos del Sistema Estatal, que contribuyan al acceso de las mujeres a igualdad de condiciones y la no violencia y discriminación en su contra;
+
+VI. Promover reformas legislativas en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+
+VIII (SIC). Elaborar, promover y conducir el trabajo legislativo de armonización del marco normativo estatal o municipal con el fin de actualizar cada uno de sus preceptos para eliminar las desigualdades, y la discriminación mediante la perspectiva de género;
+
+IX. Fungir como integrante en la Mesa de Armonización del Sistema Estatal, y
+
+X. Las demás previstas para el cumplimiento de la presente Ley.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE JULIO DE 2017)</small>
+
+#### Sección Décimo Cuarta. Del Instituto Electoral de Quintana Roo
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2017)</small>
+
+ARTÍCULO 48 QUINQUIES. Corresponde al Instituto Electoral de Quintana Roo:
+
+I. Coadyuvar de manera integral, coordinada y directa al cumplimiento de las disposiciones de esta Ley;
+
+II. Participar activamente en el diseño de estrategias y programas que garanticen el respeto de los derechos humanos de las mujeres y promuevan la erradicación de la violencia política en contra de las mujeres;
+
+III. Fomentar una cultura de respeto a los derechos político-electorales de las mujeres y otros grupos en situación de vulnerabilidad y evitar conductas de violencia política mediante la formación y capacitación;
+
+IV. Proponer a las autoridades encargadas de la aplicación de la presente ley, los programas, las medidas y las acciones que consideren pertinentes, con la finalidad de erradicar la violencia contra las mujeres;
+
+V. Promover programas educativos sobre la igualdad y la equidad entre los géneros para eliminar la violencia política contra las mujeres;
+
+VI. Celebrar con los partidos políticos, convenios de cooperación, coordinación y concertación en la materia, y
+
+VII. Las demás previstas para el cumplimiento de la Ley.
+
 ## TÍTULO CUARTO. DE LAS VÍCTIMAS
+
+### CAPÍTULO ÚNICO. DE LAS RESPONSABILIDADES Y SANCIONES
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 49.
 
 Las autoridades Estatales y municipales en el ámbito de sus respectivas competencias deberán prestar atención a las víctimas, consistente en:
 
-l. Fomentar la adopción y aplicación de acciones y programas, por medio de los cuales se les brinde protección;
+I. Fomentar la adopción y aplicación de acciones y programas, por medio de los cuales se les brinde protección;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+II. Promover la atención a víctimas por parte de las diversas instituciones del sector salud, seguridad pública, y demás instancias públicas involucradas con la atención, así como de las instituciones de carácter privado;
 
 II. Promover la atención a víctimas por parte de las diversas instituciones del sector salud, así como de atención y de servicio, tanto públicas como privadas;
 
@@ -793,15 +1189,19 @@ V. Informar a la autoridad competente de los casos de violencia que ocurran en l
 
 Las víctimas de cualquier tipo de violencia tendrán los derechos siguientes:
 
-l. Ser tratada con respeto a su integridad y al ejercicio pleno de sus derechos;
+I. Ser tratada con respeto a su integridad y al ejercicio pleno de sus derechos;
 
 II. Contar con protección inmediata y efectiva por parte de las autoridades;
 
 III. Recibir información veraz y suficiente que les permita decidir sobre las opciones de atención;
 
-IV. Contar con asesoría jurídica gratuita y expedita;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
 
-V. Recibir información médica y psicológica;
+IV. Recibir la atención médica, psicológica y jurídica necesaria de manera integral, expedita y gratuita, de acuerdo con los protocolos establecidos para tal fin;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+V. Recibir asesoría y acompañamiento para incorporarse a una actividad productiva laboral, o desarrollo de micro empresa, en especial a las mujeres indígenas, madres adolescentes o migrantes;
 
 VI. Contar con un refugio, mientras lo necesite;
 
@@ -809,15 +1209,17 @@ VII. Ser valoradas y educadas libres de estereotipos de comportamiento y prácti
 
 VIII. En los casos de violencia familiar, las mujeres que tengan hijas, hijos, o ambos, podrán acudir a los refugios con éstos.
 
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 51.
 
-El Agresor deberá participar obligatoriamente en los programas de reeducación integral, cuando se le determine por mandato de autoridad competente.
+El agresor debe participar obligatoriamente en los tratamientos psicoterapéuticos reeducativos con perspectiva de género, cuando se le determine por mandato de autoridad competente.
 
 ###### ARTÍCULO 52.
 
 Corresponde a los refugios, desde la perspectiva de género:
 
-l. Aplicar el Programa Estatal;
+I. Aplicar el Programa Estatal;
 
 II. Velar por la seguridad de las mujeres que se encuentren en ellos;
 
@@ -827,9 +1229,17 @@ IV. Dar información a las víctimas sobre las instituciones encargadas de prest
 
 V. Brindar a las víctimas la información necesaria que les permita decidir sobre las opciones de atención;
 
-VI. Contar con el personal debidamente capacitado y especializado en la materia, y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
 
-VII. Todas aquellas inherentes a la prevención, protección y atención de las personas que se encuentren en ellos.
+VI. Contar con el personal debidamente capacitado y especializado en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE JULIO DE 2017)</small>
+
+VII. Procurar la vinculación de la víctima con instituciones que promuevan el empleo, autoempleo, desarrollo empresarial, o la capacitación para el trabajo, con el fin de que obtenga una actividad ocupacional que pueda ser remunerada y sirva de sustento a su familia, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE JULIO DE 2017)</small>
+
+VIII. Todas aquellas inherentes a la prevención, protección y atención de las personas que se encuentren en ellos.
 
 ###### ARTÍCULO 53.
 
@@ -839,7 +1249,7 @@ Los refugios deberán ser lugares seguros para las víctimas, por lo que no se p
 
 Los refugios deberán prestar a las víctimas y, en su caso, a sus hijas e hijos los siguientes servicios especializados y gratuitos:
 
-l. Hospedaje;
+I. Hospedaje;
 
 II. Alimentación;
 
@@ -868,6 +1278,16 @@ Para efectos del artículo anterior, el personal médico, psicológico y jurídi
 ###### ARTÍCULO 57.
 
 En ningún caso se podrá mantener a las víctimas en los refugios en contra de su voluntad.
+
+> <small>(ADICIONADA CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRA, P.O. 4 DE JULIO DE 2017)</small>
+
+## TÍTULO QUINTO. DE LAS RESPONSABILIDADES Y SANCIONES
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE JULIO DE 2017)</small>
+
+###### ARTÍCULO 58.
+
+Será causa de responsabilidad administrativa el incumplimiento de esta Ley y se sancionará conforme a las Leyes en la materia.
 
 ## TRANSITORIOS
 
@@ -932,3 +1352,15 @@ P.O. 9 DE DICIEMBRE DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Se concede un plazo de trescientos sesenta y cinco días naturales, contados a partir de la fecha en que entren en vigor estas reformas, para que las instituciones, dependencias, entidades y, en general todos los obligados conforme a este Decreto efectúen las adecuaciones físicas necesarias para dar cumplimiento a las disposiciones de la ley correspondiente.
+
+P.O. 4 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 075 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
