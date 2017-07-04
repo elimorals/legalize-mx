@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-822-para-la-integracion-de-las-personas-con-74107"
 country: "mx"
 rank: "ley"
 publication_date: "2010-03-11"
-last_updated: "2015-07-14"
+last_updated: "2017-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74107&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 822 PARA LA INTEGRACIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE JULIO DE 2017.
 
 Ley publicada en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 11 de marzo de 2010.
 
@@ -687,9 +687,17 @@ XVI. Fomentar la elaboración, publicación y distribución de material informat
 
 XVII. Propiciar la participación ciudadana en actividades y proyectos dirigidos a la plena inclusión de las personas con discapacidad en la vida económica, política, social y cultural;
 
-XVIII. Impulsar la ejecución de programas de gobierno y la labor de organizaciones, para la atención e inclusión de las personas con discapacidad, así como coadyuvar en su vigilancia y evaluar su implementación; y
+> <small>(REFORMADA, G.O. 4 DE JULIO DE 2017)</small>
 
-XIX. Las demás que establezca esta Ley.
+XVIII. Impulsar la ejecución de Programas de Gobierno y la labor de organizaciones, para la atención e inclusión de las personas con discapacidad, así como coadyuvar en su vigilancia y evaluar su implementación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE JULIO DE 2017)</small>
+
+XIX. Fomentar la coordinación entre las instituciones de salud pública para que, mediante un programa específico implementen y ejecuten la capacitación y certificación de los familiares de personas con discapacidad; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 4 DE JULIO DE 2017)</small>
+
+XX. Las demás que establezca esta ley.
 
 ### CAPÍTULO II. DE LA INTEGRACIÓN DEL CONSEJO
 
@@ -860,5 +868,13 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 G.O. 14 DE JULIO DE 2015.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 4 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 294 QUE REFORMA LAS FRACCIONES XVIII Y XIX Y ADICIONA UNA FRACCIÓN XX, AL ARTÍCULO 45 DE LA LEY PARA LA INTEGRACIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
