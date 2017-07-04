@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2017-02-20"
+last_updated: "2017-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE JULIO DE 2017.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1895,7 +1895,7 @@ No constituye pornografía el empleo de programas preventivos, educativos o info
 
 ### CAPÍTULO II. ABIGEATO
 
-> <small>(REFORMADO, G.O. 2 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, G.O. 4 DE JULIO DE 2017)</small>
 
 ###### Artículo 191.
 
@@ -2127,9 +2127,43 @@ INSOLVENCIA FRAUDULENTA EN PERJUICIO DE ACREEDORES.
 
 ###### Artículo 210.
 
-A quien en el medio rural se apodere de una o más cabezas de ganado, sin consentimiento de quien legalmente pueda disponer de ellas, se le impondrán de seis a doce años de prisión y multa hasta de trescientos días de salario.
+Comete el delito de abigeato quien, por sí o por interpósita persona:
 
-Cuando ese apoderamiento se realice sobre ganado vacuno o caballar, se impondrán de seis a quince años de prisión y multa hasta de quinientos días de salario.
+I. Se apodere de ganado, sin consentimiento de quien legalmente pueda disponer de aquél o darlo;
+
+II. Disponga para sí o para otro de ganado del que se le haya transmitido la tenencia y no el dominio; o
+
+III. Sacrifique ganado sin el consentimiento de quien legalmente pueda otorgarlo.
+
+Al responsable de este delito se le impondrán de seis a doce años de prisión y multa de hasta trescientas unidades de medida y actualización, pero si el apoderamiento, disposición o sacrificio a los que se hace referencia en las fracciones anteriores fuere de ganado bovino o caballar, se impondrán de seis a quince años de prisión y multa hasta de trescientas unidades de medida y actualización.
+
+> <small>(ADICIONADO, G.O. 4 DE JULIO DE 2017)</small>
+
+###### Artículo 210 Bis.
+
+Las sanciones previstas en el artículo 210 de este Código se agravarán hasta en una mitad más si en la comisión de (sic) delito ocurre alguna de las circuntancias (sic) siguientes:
+
+I. Sea realizado por tres o más personas;
+
+II. Sea ejecutado con violencia;
+
+III. Sea cometido en horarios nocturnos;
+
+IV. Si el sujeto activo tuviere o hubiese tenido relación laboral con el propietario del ganado;
+
+V. Si el sujeto activo tuviere relación de parentesco en cualquier grado con el propietario del ganado;
+
+VI. Sea realizado por un servidor público municipal, estatal o federal, o por integrantes de instituciones de seguridad pública;
+
+VII. Si el sujeto activo se valiere de un desastre natural, una emergencia, disturbio civil o desorden público;
+
+VIII. Si el sujeto activo se valiere de una discapacidad, enfermedad o vulnerabilidad del ofendido;
+
+IX. Si el que lo cometa se hiciera pasar por autoridad;
+
+X. Cuando el ganado fuere de registro para el mejoramiento genético; o
+
+XI. Cuando el sujeto activo fuere integrante de una asociación o unión de productores ganaderos o empleado de éstas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE ENERO DE 2012)</small>
 
@@ -4382,3 +4416,11 @@ G.O. 20 DE FEBRERO DE 2017.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Segundo. Se deroga cualquier disposición que contravenga al presente Decreto.
+
+G.O. 4 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 295 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE."]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
