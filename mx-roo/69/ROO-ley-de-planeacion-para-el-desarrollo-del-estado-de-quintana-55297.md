@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-planeacion-para-el-desarrollo-del-estado-de-quintana-552
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-30"
-last_updated: "2015-09-30"
+last_updated: "2017-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55297&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,29 +21,69 @@ state: "ROO"
 ---
 # LEY DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO
 
-LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO
+REGLAMENTO INTERIOR DE LA PROMOTORA INDUSTRIAL AGRO-INDUSTRIAL, COMERCIAL Y ARTESANAL DE TLAXCALA, S.A. DE C.V.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL NOVENO, DÉCIMO SEGUNDO, DÉCIMO SEXTO Y DÉCIMO NOVENO TRANSITORIOS DEL DECRETO NÚMERO 306 DE REFORMAS PUBLICADO EN EL P.O. DE 19 DE AGOSTO DE 2013, TODAS LAS MENCIONES O REFERENCIAS QUE SE HAGAN AL INSTITUTO FORESTAL DE QUINTANA ROO; A LA COMISIÓN ESTATAL DE MEJORA REGULATORIA; A LA COMISIÓN PARA EL DESARROLLO DE LA ETNIA MAYA Y COMUNIDADES INDÍGENAS DEL ESTADO DE QUINTANA ROO, Y AL INSTITUTO DE FOMENTO A LA VIVIENDA Y REGULARIZACIÓN DE LA PROPIEDAD DEL ESTADO, SE ENTENDERÁN HECHAS A LA SECRETARÍA DE ECOLOGÍA Y MEDIO AMBIENTE; A LA SECRETARÍA DE LA GESTIÓN PÚBLICA; A LA SECRETARÍA DE DESARROLLO SOCIAL E INDÍGENA, Y A LA SECRETARÍA DE DESARROLLO URBANO Y VIVIENDA RESPECTIVAMENTE.</small>
+TEXTO ORIGINAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2015.
+Reglamento publicado en el Periódico Oficial del Estado de Tlaxcala, el miércoles 9 de abril de 1986.
 
-Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de marzo de 2007.
+Al margen un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos.- Gobernador del Estado de Tlaxcala.
 
-DECRETO NÚMERO: 141
-
-POR EL QUE SE APRUEBA LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO.
-
-LA HONORABLE XI LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO,
-
-D E C R E T A:
-
-LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO
+Reglamento Interior de la Promotora Industrial Agro-industrial, Comercial y Artesanal de Tlaxcala, S.A. de C.V.
 
 ## TÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
-### Capítulo Único
+### CAPITULO I. DE LA COMPETENCIA Y ORGANIZACION DE LA PROMOTORA
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+###### ARTICULO 1o.
+
+La Promotora Industrial, Agroindustrial, Comercial y Artesanal de Tlaxcala, S.A. de C.V., como sociedad mercantil auxiliar de la Administración Pública del Estado de Tlaxcala, tiene a su cargo los asuntos que expresamente le encomienda el acta constitutiva, leyes, decretos y acuerdos.
+
+###### ARTICULO 2o.
+
+Cuando en este Reglamento se mencione el término Promotora, se entenderá que se refiere a la "Promotora Industrial, Agroindustrial, Comercial y Artesanal de Tlaxcala, S.A. de C.V.
+
+###### ARTICULO 3o.
+
+La Promotora, tendrá como objeto:
+
+I.- Establecer, adquirir y operar empresas o unidades de producción de bienes y servicios en cualquiera de los ramos de la actividad económica a que se refiere este objeto;
+
+II.- Invertir y participar en empresas o unidades de producción de bienes y servicios en cualquiera de los ramos de la actividad económica a que se refiere este objeto;
+
+III.- Producir, maquilar, industrializar y comercializar toda clase de artículos vinculados al objeto social;
+
+IV.- Girar en el ramo de comisiones, mediaciones y aceptar el desempeño de negociaciones de cualquier especie vinculadas con este objeto;
+
+V.- Realizar estudios relativos a la vialidad o factibilidad para la ejecución de proyectos;
+
+VI.- Asesorar o apoyar a los interesados en establecer unidades económicas;
+
+VII.- Ser organismo de consulta para el desarrollo de las actividades que constituyen su objeto;
+
+VIII.- Promover la generación de unidades económicas que se organicen en el estado bajo cualquier forma permitida por la Ley;
+
+IX.- Gestionar toda clase de financiamiento ante instituciones de crédito para la ejecución de proyectos aprobados;
+
+X.- Celebrar contratos, convenios y toda clase de actos jurídicos vinculados al objeto social.
+
+###### ARTICULO 4o.
+
+Para el estudio, planeación y despacho de los asuntos que le competen, la Promotora contará con:
+
+CONSEJO DE ADMINISTRACION
+
+DIRECCION GENERAL
+
+GERENCIA ADMINISTRATIVA
+
+GERENCIA OPERATIVA
+
+DEPARTAMENTO JURIDICO
+
+###### ARTICULO 5o.
+
+El Consejo de Administración en coordinación con el Director General de la Promotora, podrán autorizar la creación de unidades administrativas.
 
 ###### Artículo 1.
 
@@ -243,69 +283,259 @@ XVIII. La igualdad de oportunidades de los habitantes de las islas y la aplicaci
 
 Las autoridades y órganos responsables de la planeación, se coordinarán para participar en la organización del Sistema Estatal, con la participación de los particulares, organismos, instituciones y representantes del sector social y privado, en el que se recogerán sus aspiraciones y demandas para incorporarlas a la estrategia de desarrollo.
 
-###### Artículo 10.
+###### ARTICULO 10.
 
-Es responsabilidad del Titular del Poder Ejecutivo conducir la planeación para el desarrollo del Estado y, al interior de los Municipios, dicha responsabilidad recaerá en los Ayuntamientos, quienes lo harán con base en las disposiciones legales y en ejercicio de sus atribuciones, con respeto irrestricto a las garantías constitucionales, así como al fortalecimiento del pacto federal y del municipio libre y autónomo.
+Son facultades del Consejo de Administración:
 
-###### Artículo 11.
+I.- Establecer los lineamientos y políticas, así como determinar las normas y criterios técnicos aplicables conforme a los cuales deberá operar la Promotora;
 
-El Titular del Poder Ejecutivo remitirá al Congreso, para su examen y opinión el Plan Estatal y, en su caso, los programas que de éste se deriven. En el ejercicio de sus atribuciones constitucionales y legales y en las diversas ocasiones previstas por esta Ley, el Congreso formulará, asimismo, las observaciones que estime pertinentes durante la ejecución, revisión y adecuación del propio Plan.
+II.- Ejecutar a través del Director General, las resoluciones de la Asamblea de Accionistas;
 
-Los Presidentes Municipales remitirán al Congreso, para su conocimiento, los Planes Municipales y, en su caso, los Programas que de éstos se deriven.
+III.- Fomentar la inversión, participación, establecimiento, adquisición y operación de empresas y unidades de producción de bienes y servicios en cualquiera de los ramos de la actividad económica a que se refiere el objeto de la Promotora;
 
-###### Artículo 12.
+IV.- Evaluar los programas y autorizar los presupuestos de la Dirección, supervisando su ejecución;
 
-El Titular del Poder Ejecutivo al informar ante el Congreso, sobre el estado general que guarda la Administración Pública Estatal, hará referencia a las decisiones adoptadas para la formulación, instrumentación, control, seguimiento, evaluación y actualización del plan estatal, así como de los programas que de éste se deriven, así como del avance en el cumplimiento de dicho Plan y programas.
+V.- Conferir poderes generales o especiales y revocarlos;
 
-El contenido de la cuenta anual de la Hacienda Pública Estatal deberá relacionarse, en lo conducente, con la información a que alude el párrafo que antecede, para permitir al Congreso el análisis de las cuentas con relación a los objetivos y prioridades de la Planeación Estatal, referentes a las materias objeto de dichos documentos.
+VI.- Autorizar el establecimiento de sucursales, agencias o dependencias y suprimirlas;
 
-###### Artículo 13.
+VII.- Nombrar y remover al Director General, determinando sus facultades y obligaciones;
 
-Los Presidentes Municipales, al informar a su Ayuntamiento respectivo sobre el estado general que guarda la Administración Pública Municipal, harán referencia a las decisiones adoptadas para la formulación, instrumentación, control, seguimiento, evaluación y actualización del plan municipal correspondiente y de los programas que de éste se deriven; así como del avance en el cumplimiento de dicho Plan y programas.
+VIII.- Administrar y ejercitar en nombre de la sociedad, poderes y representaciones de personas o negociaciones nacionales o extranjeras, ya sea para contratar en nombre de ella o para comparecer en juicio;
 
-El contenido de la Cuenta Anual de la Hacienda Pública Municipal deberá relacionarse, en lo conducente, con la información a que alude el párrafo que antecede, para permitir al Congreso el análisis de las cuentas con relación a los objetivos y prioridades de la Planeación Municipal, referentes a las materias objeto de dichos documentos.
+IX.- Las demás atribuciones que le confieran la Asamblea de Accionistas y otras disposiciones legales;
 
-###### Artículo 14.
+X.- La Asamblea de Accionistas podrá limitar las facultades antes mencionadas sin que se entiendan reformados estos estatutos.
 
-Tanto en el ámbito Estatal como Municipal, los Presupuestos de Egresos y Leyes de Ingresos y la aplicación de los instrumentos de política económica y social, deberán ser congruentes con los objetivos y prioridades del Plan Estatal y el Plan Municipal, según corresponda. Para tal efecto el Congreso verificará el cumplimiento de lo dispuesto en este párrafo.
+###### ARTICULO 11.
 
-Las iniciativas de leyes y decretos que formulen las autoridades competentes, señalaran las relaciones que, en su caso, existan entre el proyecto de que se trate con los Planes Estatal y Municipales y los programas respectivos, según corresponda; para tal efecto, el Congreso verificará el cumplimiento de lo dispuesto en este párrafo.
+El Consejo de Administración celebrará por lo menos dos sesiones ordinarias al año y extraordinarias cada vez que se requiera.
 
-###### Artículo 15.
+###### ARTICULO 12.
 
-El Titular del Poder Ejecutivo al enviar al Congreso la iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos correspondientes, informará del contenido general de dichos documentos y su relación con los Programas operativos anuales que deberán elaborarse para la ejecución del Plan Estatal.
+Al frente de la Dirección General habrá un Director el cual tendrá a su cargo la representación, trámite y resolución de los asuntos de la competencia de la Promotora.
 
-###### Artículo 16.
+###### ARTICULO 13.
 
-Las autoridades responsables de la planeación, a solicitud del Congreso, darán cuenta a éste del estado que guarden sus respectivos ramos, informarán el avance y grado de cumplimiento de los objetivos y prioridades fijados en el Plan Estatal, que por razón de su competencia les corresponda, así como de los resultados de las acciones previstas. También informarán sobre el desarrollo y los resultados de la aplicación de los instrumentos de política económica y social de acuerdo con dichos objetivos y prioridades. En su caso, explicarán las desviaciones ocurridas y las medidas; que se adopten para corregirlas.
+Son facultades del Director General:
 
-Las autoridades a que alude el párrafo anterior de este artículo, que sean citadas por el Congreso para que informen cuando se discuta una ley o se estudie un asunto concerniente a sus respectivos ramos o actividades, señalarán las relaciones que hubiere entre el proyecto de ley o asunto de que se trate y los objetivos del plan estatal, relativos a sus respectivos ámbitos de competencia.
+I.- Interponer y desistirse por medio del Departamento Jurídico, de toda clases de juicios y recursos aún el de amparo y los que enumera el Artículo dos mil quinientos ochenta y siete del Código Civil para el Distrito Federal y para toda la República en materia federal, discutir, celebrar y revisar contratos colectivos de trabajo, hacer las renuncias, suministros y convenios que fueren necesarios de acuerdo con el artículo 27 Constitucional y su legislación reglamentaria o interpretativa, así como la Ley de Nacionalización y Naturalización;
 
-###### Artículo 17.
+II.- Ejecutar los acuerdos del Consejo de Administración y representar a la Promotora en todos los actos que requieran su intervención;
 
-Las autoridades responsables de la planeación, deberán planear y conducir sus actividades con sujeción a los objetivos y prioridades previstos en el Plan Estatal, buscando congruencia con las acciones que la Administración Pública Federal realice en el Estado, dentro del contexto del Plan Nacional de Desarrollo.
+III.- Presentar al Consejo de Administración un informe anual del estado que guarde la administración de la Promotora;
 
-###### Artículo 18.
+IV.- Someter a la aprobación del Consejo de Administración, el programa anual de la Promotora;
 
-Los proyectos de iniciativa de leyes, decretos, reglamentos y acuerdos que dentro del ámbito de sus respectivas competencias formulen las autoridades responsables de la planeación, señalarán las relaciones que, en su caso, existan entre el proyecto de que se trate y los Planes Estatal y Municipales y los Programas respectivos, según corresponda.
+V.- Conocer, aprobar y expedir el reglamento interior y los Manuales de Organización y de Procedimientos Administrativos;
+
+VI.- Nombrar y remover gerentes, subgerentes, agentes y empleados de la sociedad y determinar sus facultades, obligaciones y remuneraciones;
+
+VII.- Ejercer el presupuesto asignado a la Promotora, observando las políticas y normas que establezca el Consejo de Administración;
+
+VIII.- Celebrar, modificar y rescindir contratos inherentes al objeto de la sociedad;
+
+IX.- Presentar al Consejo de Administración los estados financieros e informes generales y especiales, que permitan conocer la situación financiera, operativa y administrativa de la Promotora;
+
+X.- Desempeñar las comisiones y funciones especiales que le encomiende el Consejo de Administración;
+
+XI.- Representar a la Sociedad cuando forme parte de otras sociedades, comprando o suscribiendo acciones o participaciones, o bien, interviniendo como parte en su constitución;
+
+XII.- Manejar cuentas bancarias;
+
+XIII.- Constituir y retirar toda clase de depósitos;
+
+XIV.- Otorgar, emitir, girar, aceptar, endosar, avalar o por cualquier otro concepto suscribir títulos de crédito, así como protestarlos;
+
+XV.- Las demás facultades que le delegue el Consejo de Administración y que están señaladas en el acta constitutiva de la Promotora.
+
+###### ARTICULO 14.
+
+El Director General, para el mejor desempeño de sus funciones, podrá auxiliarse de los Funcionarios y de las unidades que para tal efecto sean creadas, asignándoles funciones, atribuciones y remuneraciones.
+
+###### ARTICULO 15.
+
+Al frente de la Gerencia Administrativa, habrá un Gerente quien será auxiliado por Jefes de Departamento y de Oficina que se requieran de acuerdo a las necesidades, así como por el personal técnico y administrativo que sea determinado por el Director General y figure en el presupuesto.
+
+###### ARTICULO 16.
+
+Son facultades del Gerente Administrativo:
+
+I.- Planear, programar, organizar, dirigir, controlar y evaluar las funciones encomendadas al área a su cargo;
+
+II.- Cumplir las normas y políticas generales que apruebe el Consejo de Administración de la Promotora;
+
+III.- Formular los anteproyectos de programas que correspondan al área de su responsabilidad y cumplirlos una vez aprobados;
+
+IV.- Acordar con el Director General el despacho de los asuntos de las unidades administrativas bajo su adscripción, así como proporcionar los informes que le solicite el Director General;
+
+V.- Desempeñar las comisiones que le encomiende el Director General;
+
+VI.- Administrar y proporcionar los recursos humanos, materiales y financieros que requieran las unidades administrativas y de producción de la Promotora;
+
+VII.- Organizar y realizar programas de capacitación administrativa; emitir normas en materia de capacitación y desarrollo del personal de la Promotora y vigilar su cumplimiento a fin de lograr su superación y mejorar la productividad;
+
+VIII.- Coordinar y vigilar el establecimiento y operación de los sistemas de almacén e inventarios de los recursos materiales de la Promotora;
+
+IX.- Implantar y coordinar el establecimiento de los procedimientos para la adquisición, administración y utilización del material y equipo necesario para el cumplimiento de los programas y objetivos de la Promotora;
+
+X.- Implantar sistemas de supervisión que permitan verificar periódicamente el adecuado funcionamiento de las unidades administrativas bajo su adscripción;
+
+XI.- Elaborar el anteproyecto del presupuesto anual de egresos de la Promotora en Coordinación con la Gerencia Operativa y la Dirección General;
+
+XII.- Llevar los adecuados registros contables, presupuestales y estadísticos, así como vigilar que el ejercicio y modificaciones al presupuesto se realicen de acuerdo con los lineamientos establecidos;
+
+XIII.- Formular y coordinar los estudios tendientes a mejorar el funcionamiento administrativo de la Promotora y promover, en su caso, modificaciones a la estructura orgánica, funciones y procedimientos administrativos;
+
+XIV.- Determinar los planes, programas y presupuestos para administrar al personal, llevarlos a efecto y evaluar su resultado;
+
+XV.- Elaborar, establecer y vigilar las políticas sobre admisión de personal en la Promotora, determinar la metodología conducente en el reclutamiento, selección, inducción, orientación y mejoramiento del personal y vigilar su observancia;
+
+XVI.- Elaborar el programa anual de adquisiciones de la Promotora con base en los proyectos de las Unidades de Producción y administrativa y turnarlos al acuerdo de la Dirección General;
+
+XVII.- Realizar los estudios e informes que contribuyan a la mejor selección de proveedores;
+
+XVIII.- Proveer a las unidades de producción y administrativas de la Promotora, los bienes que requieran;
+
+XIX.- Establecer normas, sistemas, procedimientos, y controles de operación de cuentas por pagar;
+
+XX.- Informar a la Dirección General sobre el desarrollo y grado de avance de los programas, así como las desviaciones presentadas, causas que las originaron y sus repercusiones; y
+
+XXI.- Las demás funciones que le confiera el Director General.
+
+###### ARTICULO 17.
+
+Al frente de la Gerencia Operativa, habrá un Gerente, quién será auxiliado por Jefes de Departamento y de Oficina que se requieran, de acuerdo a las necesidades, así como por el personal técnico y administrativo que sea determinado por el Director General y figure en el presupuesto.
+
+###### ARTICULO 18.
+
+Son facultades del Gerente Operativo:
+
+I.- Planear, programar, organizar, dirigir, controlar y evaluar el desarrollo de las actividades encomendadas a las unidades de producción;
+
+II.- Acordar con el Director General, el despacho de los asuntos relevantes que son responsabilidad de la Gerencia Operativa;
+
+III.- Proponer al Director General la organización de la Gerencia Operativa, así como las modificaciones que correspondan conforme a las medidas técnicas y administrativas establecidas;
+
+IV.- Formular las propuestas de programas y de presupuesto relativas a la gerencia;
+
+V.- Proponer al Director General las políticas y medidas de fomento, regulación, financiamiento, inversión y coordinación para apoyar el desarrollo de las unidades de producción;
+
+VI.- Formular y someter a la aprobación superior las políticas de operación, administración y productividad para ser aplicados en las unidades de producción;
+
+VII.- Diseñar en coordinación con los administradores, sistemas que permitan mejorar los procesos de producción;
+
+VIII.- Elaborar las estadísticas relativas a producción y materia prima;
+
+IX.- Operar en coordinación con la Gerencia administrativa;
+
+X.- Determinar qué productos son los más rentables y establecer la producción de aquellos que permitan obtener mayor utilidad;
+
+XI.- Establecer controles para evitar posibles pérdidas de materia prima y de productos terminados;
+
+XII.- Controlar los recursos humanos de las unidades de producción y formular propuestas para la promoción de personal;
+
+XIII.- Aplicar el programa de mantenimiento preventivo con el fin de conservar en buenas condiciones la maquinaria y el equipo de la Promotora;
+
+XIV.- Controlar los reportes de producción y ventas, así como la existencia de productos disponibles; y
+
+XV.- Las demás funciones que le confiera el Director General.
 
 ## TÍTULO SEGUNDO. DEL SISTEMA DE PLANEACIÓN DEMOCRÁTICA DEL ESTADO DE QUINTANA ROO
 
-### Capítulo Primero. De su naturaleza y objeto
+### CAPITULO II. DEL CONSEJO DE ADMINISTRACION
 
-###### Artículo 19.
+###### ARTICULO 6o.
 
-El Sistema Estatal es un mecanismo permanente de planeación participativa que se integra con los siguientes elementos: Un marco normativo, una estructura institucional, un proceso de planeación y una infraestructura de apoyo, los cuales se vincularán funcional mente para llevar a cabo en forma obligada, coordinada, concertada e inducida, la planeación del desarrollo estatal.
+El Consejo de Administración se integra de la siguiente manera:
 
-Para efecto de lo anterior, las actuaciones de las autoridades y órganos responsables de la planeación; así como de los particulares, organismos, instituciones y representantes del sector social y privado en el marco del Sistema Estatal, se regirán por los principios de autonomía, coordinación, consistencia, continuidad, participación, sustentabilidad ambiental, desarrollo armónico de las regiones, eficiencia, eficacia, viabilidad, coherencia, subsidiariedad y colaboracionismo, los cuales se definirán en el Reglamento de esta Ley.
+Presidente:
 
-###### Artículo 20.
+El Gobernador del Estado.
 
-La planeación del Estado se realizará en los términos de esta Ley, a través del Sistema Estatal, mediante el cual se llevará a cabo la formulación, instrumentación, control, seguimiento, evaluación y actualización de los Planes Estatal y Municipales, así como los programas señalados en esta Ley, en el marco de la estrategia nacional del desarrollo.
+Vice-Presidente:
 
-###### Artículo 21.
+El Secretario de Desarrollo y Fomento Económico.
 
-El Sistema Estatal tendrá por objeto garantizar el desarrollo integral del Estado y de los Municipios, atendiendo principalmente a las necesidades básicas para mejorar la calidad de vida de sus habitantes y la conformación armónica y adecuada de las relaciones funcionales entre las diferentes regiones de la entidad, así como la planeación democrática mediante la intervención y consulta de los particulares, organismos, instituciones y representantes del sector social y privado, a través de los mecanismos de participación social para la planeación, para que la población exprese sus opiniones para la formulación, instrumentación, control, seguimiento, evaluación y actualización de los Planes Estatales y Municipales y los Programas Regionales, Sectoriales, Institucionales, Especiales y operativos anuales a que se refiere esta Ley.
+Secretario:
+
+El Director de Fomento Industrial y Artesanal.
+
+Tesorero:
+
+El Oficial Mayor de Gobierno.
+
+Comisario:
+
+El Contralor del Ejecutivo Estatal.
+
+Delegado Consejero:
+
+El que designe el Consejo de Administración.
+
+Vocales:
+
+El Secretario de Obras Públicas, Desarrollo Urbano y Ecología.
+
+El Director de Fomento Agropecuario.
+
+El Director de Comercio.
+
+El Delegado de la Secretaría de Agricultura y Recursos Hidráulicos en el Estado.
+
+El Delegado de la Secretaría de la Reforma Agraria en el Estado.
+
+El Gerente del Banco Nacional de Crédito Rural del Centro Sur en Tlaxcala.
+
+El Delegado de la Secretaría de Comercio y Fomento Industrial en el Estado.
+
+###### ARTICULO 7o.
+
+Por cada Miembro propietario del Consejo de Administración se nombrará un suplente, el cual hará la sustitución correspondiente en las faltas temporales, a excepción hecha por el Presidente.
+
+###### ARTICULO 8o.
+
+Las faltas temporales del Presidente del Consejo de Administración, serán suplidas por el representante que designe él mismo.
+
+###### ARTICULO 9o.
+
+Los acuerdos del Consejo de Administración, se tomarán por mayoría de votos de los miembros presentes, en caso de empate, el Presidente o quien haga sus veces, tendrá voto de calidad.
+
+###### ARTICULO 19.
+
+Son atribuciones del Departamento Jurídico:
+
+I.- Revisar y formular conforme a los lineamientos del Consejo de Administración y del Director General, los proyectos de leyes, reglamentos y acuerdos que se relacionen con las actividades de la Promotora;
+
+II.- Proponer las políticas de la Promotora en materia de asuntos jurídicos y auxiliar en su aplicación;
+
+III.- Compilar las leyes, decretos, reglamentos y acuerdos que se relacionen con las actividades de la Promotora;
+
+IV.- Elaborar los informes de los juicios de amparo y las contestaciones de demandas en lo judicial y contencioso-administrativo;
+
+V.- Ejercitar las acciones judiciales y contencioso administrativas que competan a la Promotora y denunciar ante el Ministerio Público los hechos que lo ameriten, así como representar al Director General en los juicios laborales;
+
+VI.- Dictaminar sobre los contratos a celebrar por la Promotora y llevar el registro de los mismos;
+
+VII.- Realizar los trámites legales para la adquisición, regularización y protección jurídica de los bienes inmuebles propiedad de la Promotora y asesorar acerca de la contratación de los servicios especiales que se requieran;
+
+VIII.- Proponer las resoluciones a las consultas de carácter legal que le formulen los funcionarios de la Promotora;
+
+IX.- Presentar quejas y querellas de carácter penal, otorgar perdones, así como constituirse en coadyuvante del Ministerio Público;
+
+X.- Cumplir, actualizar y supervisar la observancia de las disposiciones legales aplicables en las relaciones laborales, en coordinación con la Dirección General; y
+
+XI.- Las demás funciones que le confiera el Director General.
+
+###### ARTICULO 20.
+
+El Director General será suplido en sus ausencias temporales por el Gerente Administrativo, y en ausencia de éste por el funcionario que designe el Titular de la Promotora.
+
+###### ARTICULO 21.
+
+Los Gerentes de la Promotora serán suplidos en sus ausencias por los funcionarios que designe el Titular de la Promotora.
+
+T R A N S I T O R I O S
 
 ###### Artículo 22.
 
@@ -317,7 +547,7 @@ El Sistema Estatal vinculará a los participantes en la planeación y apoyará a
 
 Las disposiciones reglamentarias de esta Ley establecerán, entre otras, las normas de organización y funcionamiento del Sistema Estatal, así como los lineamientos a que deberán sujetarse las actividades conducentes a la formulación, instrumentación, control, seguimiento, evaluación y actualización de los planes y programas a que se refiere esta Ley.
 
-### Capítulo Segundo. De sus elementos
+### CAPITULO III. DE LA DIRECCION GENERAL
 
 ###### Artículo 24.
 
@@ -441,7 +671,7 @@ b).- Los organismos, instituciones y representantes del sector privado:
 
 c).- Los demás organismos, instituciones y representantes de la misma naturaleza que los anteriores, así como los particulares a iniciativa propia.
 
-### Capítulo Tercero. De su estructura institucional
+### CAPITULO IV. DE LA GERENCIA ADMINISTRATIVA
 
 ###### Artículo 25.
 
@@ -899,7 +1129,7 @@ IX. Rendir un informe anual a la dependencia coordinadora de sector y, en su cas
 
 X. Las demás que les confieran esta Ley, otras leyes y demás disposiciones normativas aplicables en la materia.
 
-### Capítulo Cuarto. Del Marco Normativo
+### CAPITULO V. DE LA GERENCIA OPERATIVA
 
 #### Sección Única. De los Planes y Programas de Desarrollo
 
@@ -1055,7 +1285,7 @@ III. Programas de corto plazo. Los que tengan como vigencia un período máximo 
 
 Los Programas Estatales y Municipales que se deriven de los Planes Estatal y Municipal respectivamente, deberían especificar su naturaleza, el espacio en que operarán, sus expectativas sociales y económicas, los plazos de operación y las bases para su coordinación y control.
 
-### Capítulo Quinto. Del Proceso de Planeación
+### CAPITULO VI. DEL DEPARTAMENTO JURIDICO
 
 #### Sección Primera. Disposiciones Generales
 
@@ -1401,7 +1631,7 @@ En caso de desastre o calamidad, en el Estado o en algún Municipio, el Ejecutiv
 
 Los lineamientos para la aplicación de los instrumentos normativos de control y seguimiento que se prevén en esta Ley, se establecerán en el Reglamento de este ordenamiento.
 
-### Capítulo Sexto. De la Infraestructura de Apoyo
+### CAPITULO VII. DE LA SUPLENCIA DE LOS FUNCIONARIOS
 
 #### Sección Única. De la participación Social para la Planeación Democrática
 
@@ -1704,3 +1934,21 @@ Vigésimo Sexto. Se derogan todas las disposiciones de igual o menor jerarquía,
 P.O. 30 DE SEPTIEMBRE DE 2015.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTICULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Reglamento.
+
+###### ARTICULO TERCERO.
+
+En tanto se expidan los Manuales necesarios para la aplicación del presente Reglamento, el Director General de la Promotora queda facultado para resolver las cuestiones que los mismos deban regular.
+
+Tlaxcala de Xicohténcatl a 7 de Abril de 1986
+
+C.P. RUMEL HERNANDEZ AVENDAÑO
+
+Director General.
