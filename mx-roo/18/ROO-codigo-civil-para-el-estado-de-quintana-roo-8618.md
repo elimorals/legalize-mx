@@ -4,7 +4,7 @@ identifier: "ROO-codigo-civil-para-el-estado-de-quintana-roo-8618"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-08"
-last_updated: "2016-05-30"
+last_updated: "2017-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2017.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 8 de octubre de 1980.
 
@@ -45,13 +45,23 @@ CODIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
 Las disposiciones de este título, salvo precepto expreso en contrario, son comunes a todo el Derecho Positivo del Estado de Quintana Roo, y las de este Código son supletorias, en lo conducente, de las demás leyes quintanarroenses.
 
-Las disposiciones de este Código que se refieran a la familia son de orden público, de observancia obligatoria y de carácter social y tutelares fundamentalmente de la mujer, de las personas menores de edad, de los mayores discapacitados y de los adultos mayores.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+
+Las disposiciones de este Código que se refieran a la familia son de orden público, de observancia obligatoria y de carácter social y tutelares fundamentalmente de la mujer, de las personas menores de edad, de los discapacitados y de los adultos mayores.
 
 ###### Artículo 2.
 
 Las leyes del Estado se aplicarán a todos los habitantes de Quintana Roo sin distinción de personas cualquiera (sic) sea su sexo, o nacionalidad, estén domiciliadas en el Estado o se hallen en él de paso.
 
 Las leyes que establecen excepciones a las reglas generales, no son aplicables a caso alguno que no esté expresamente especificado en las mismas leyes.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2017)</small>
+
+El hombre y la mujer son iguales ante la ley; en consecuencia, la mujer no queda sometida, por razón de su sexo, a restricción alguna en la adquisición y ejercicio de sus derechos civiles.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2017)</small>
+
+Se tendrán como principios rectores del presente Código, la perspectiva de género, la igualdad y el interés superior de la niñez.
 
 ###### Artículo 3.
 
@@ -3317,7 +3327,9 @@ III.- Los nombres, apellidos, edad y nacionalidad de los testigos, si fueren par
 
 IV.- Los nombres de los padres del difunto si se supieren;
 
-V.- La clase de enfermedad o causa que determinó la muerte; todos los informes que se tengan en caso de muerte violenta; el día y hora del fallecimiento si se supiere; y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+V.- La clase de enfermedad o causa que determinó la muerte; todos los informes que se tengan en caso de muerte violenta, anotando si se trata de violencia familiar o feminicidio, previa valoración judicial; el día y hora del fallecimiento si se supiere, y
 
 VI.- El panteón en que se sepultará el cadáver.
 
@@ -3669,41 +3681,33 @@ Para contraer matrimonio es necesario que ambos contrayentes sean mayores de eda
 
 (DEROGADO, P.O. 19 DE DICIEMBRE DE 2014)
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+
 ###### Artículo 700.
 
 Son impedimentos para celebrar el contrato de matrimonio:
 
-I.- (DEROGADA, P.O. 26 DE JUNIO DE 2009)
+I.- El parentesco de consanguinidad sin limitación de grado en la línea recta. En la línea colateral igual, el impedimento se extiende a los hermanos y medios hermanos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa;
 
-II.- (DEROGADA, P.O. 19 DE DICIEMBRE DE 2014)
+II.- El parentesco de afinidad en línea recta, sin limitación alguna;
 
-III.- El parentesco de consanguinidad sin limitación de grado en la línea recta. En la línea colateral igual, el impedimento se extiende a los hermanos y medios hermanos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa;
+III.- El atentado contra la vida de alguno de los casados para contraer matrimonio con el que quede libre;
 
-IV.- El parentesco de afinidad en línea recta, sin limitación alguna;
+IV.- El miedo grave. En caso de rapto, subsistirá el impedimento entre el raptor y la raptada, mientras ésta no sea restituida a lugar seguro donde libremente pueda manifestar su voluntad;
 
-V.- El atentado contra la vida de alguno de los casados para contraer matrimonio con el que quede libre;
+V.- La embriaguez habitual;
 
-VI.- El miedo grave. En caso de rapto, subsistirá el impedimento entre el raptor y la raptada, mientras ésta no sea restituida a lugar seguro donde libremente pueda manifestar su voluntad;
+VI.- El uso no terapéutico de enervantes, estupefacientes o psicotrópicos o de cualquier otra sustancia que altere la conducta y produzca dependencia;
 
-VII.- La embriaguez habitual;
+VII.- La impotencia por causa física para entrar en el estado matrimonial siempre que sea incurable;
 
-VIII.- El uso no terapéutico de enervantes, estupefacientes o psicotrópicos o de cualquier otra substancia que altere la conducta y produzca dependencia;
+VIII.- Cualquiera otra enfermedad crónica o incurable que sea además contagiosa y/o hereditaria;
 
-IX.- La impotencia por causa física para entrar en el estado matrimonial siempre que sea incurable;
+IX.- La locura, el idiotismo y la imbecilidad, y
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2013)</small>
+X.- El matrimonio subsistente con persona distinta de aquélla con quien se pretenda contraer, o subsistente con ésta.
 
-X.- Cualquiera otra enfermedad crónica o incurable que sea además contagiosa y/o hereditaria;
-
-XI.- La locura, el idiotismo y la imbecilidad; y
-
-XII.- El matrimonio subsistente con persona distinta de aquélla con quien se pretenda contraer, o subsistente con ésta.
-
-> <small>(DEROGADO PENÚLTIMO PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2014)</small>
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE JULIO DE 2013)</small>
-
-En el caso a que se refiere la fracción II del Artículo 682 en relación a la fracción X de este artículo, el certificado médico será dispensable cuando ambos contrayentes acrediten por escrito, su consentimiento, estando informados de la enfermedad de que se trate, y signado por ambos para contraer matrimonio.
+En el caso a que se refiere la fracción II del Artículo 682 en relación a la fracción VIII de este artículo, el certificado médico será dispensable cuando ambos contrayentes acrediten por escrito, su consentimiento, estando informados de la enfermedad de que se trate, y signado por ambos para contraer matrimonio.
 
 ###### Artículo 701.
 
@@ -3801,13 +3805,13 @@ El contrato de compraventa sólo puede celebrarse entre los cónyuges cuando el 
 
 Los cónyuges, durante el matrimonio, no podrán ejercitar los derechos y acciones que tengan el uno en contra del otro; pero la prescripción entre ellos no corre mientras dure el matrimonio.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### Artículo 717.
 
-Cualquier disensión que surja entre los cónyuges con motivo del ejercicio de los derechos a que se refieren los artículos 705 y 706 o en cualquiera otra situación similar, el Juez de Primera Instancia del lugar del domicilio conyugal, con excepción de los casos de violencia familiar remitirá la controversia al Centro de Justicia Alternativa, en observancia a lo dispuesto por el capítulo primero del Título Sexto del Código de Procedimientos Civiles para el Estado de Quintana Roo.
+Cualquier disensión que surja entre los cónyuges con motivo del ejercicio de los derechos a que se refieren los artículos 705 y 706 o en cualquiera otra situación similar, el Juez de primera instancia del lugar del domicilio conyugal, con excepción de los casos de violencia familiar, deberá remitir, la controversia al Centro de Justicia Alternativa, en observancia a lo dispuesto por el capítulo primero del título sexto del Código de Procedimientos Civiles para el Estado Libre y Soberano de Quintana Roo. En este caso, se dará vista de inmediato al Ministerio Público.
 
-En ningún caso se favorecerá que existan prácticas de sumisión y dependencia de un género hacia otro, o prácticas de obediencia entre los cónyuges, y sí existiera violencia de género o familiar, deberá sin dilación alguna dictar las medidas precautorias y ordenes de protección que correspondan.
+En ningún caso se favorecerá que existan prácticas de sumisión y dependencia de un género hacia otro, o prácticas de obediencia entre los cónyuges, y sí existiera violencia familiar deberá, de manera inmediata, y a más tardar en un plazo no mayor de 24 horas contados a partir de que tome conocimiento de la petición, dictar las medidas precautorias y órdenes de protección que correspondan.
 
 ###### Artículo 718.
 
@@ -4071,9 +4075,9 @@ Habrá nulidad relativa del matrimonio:
 
 I.- Por error cuando entendiendo un cónyuge celebrar su matrimonio con determinada persona lo contrae con otra;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
 
-II.- Cuando se haya celebrado concurriendo alguno de los impedimentos enumerados en las fracciones I, V, VI, VII, VIII, IX, X y XI del artículo 700;
+II.- Cuando se haya celebrado concurriendo alguno de los impedimentos enumerados en las fracciones III, IV, V, VI, VII, VIII, IX, del artículo 700;
 
 III.- Cuando se haya celebrado sin observar las formalidades señaladas en los artículos 685 y 688.
 
@@ -4123,13 +4127,17 @@ III.- Que uno u otra hayan subsistido al tiempo de celebrarse el matrimonio.
 
 La acción que nace de esta causa de nulidad sólo puede deducirse por el cónyuge agraviado, dentro de los sesenta días contados a partir de la fecha en que cesó la violencia o intimidación.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+
 ###### Artículo 779.
 
-La nulidad que se funde en alguna de las causas expresadas en las fracciones VII a X del artículo 700, sólo puede ser pedida por cualquiera de los cónyuges, dentro del término de sesenta días contados desde que se celebró el matrimonio.
+La nulidad que se funde en alguna de las causas expresadas en las fracciones V a VIII del artículo 700, sólo puede ser pedida por cualquiera de los cónyuges, dentro del término de sesenta días contados desde que se celebró el matrimonio.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### Artículo 780.
 
-Tiene derecho de pedir la nulidad que se funde en la fracción XI del artículo 700, el otro cónyuge o el tutor del incapacitado.
+Tiene derecho de pedir la nulidad que se funde en la fracción IX del artículo 700, el otro cónyuge o el tutor del incapacitado.
 
 ###### Artículo 781.
 
@@ -4227,97 +4235,49 @@ Los que infrinjan el artículo anterior, y los que con conocimiento de causa, au
 
 ### CAPITULO SEPTIMO. Del divorcio
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+
 ###### Artículo 798.
 
-La disolución por divorcio del vínculo matrimonial es de estricto derecho y sólo podrá decretarse por las causas previstas en la ley y si plenamente se demuestra su existencia.
+El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro. Podrá ser promovido de cualquiera de las siguientes formas:
+
+I. Podrá demandarse por uno de los cónyuges cuando cualquiera de ellos lo reclame de manera unilateral ante la autoridad judicial, manifestando su voluntad de no querer continuar con el matrimonio, sin que se requiera señalar el motivo por el que se solicita;
+
+II. Podrá solicitarse por mutuo consentimiento por los cónyuges, bajo los términos establecidos en este Código.
+
+La demanda o solicitud de divorcio se presentará siempre, junto con una copia certificada del acta de matrimonio y una copia certificada de las actas de nacimiento de los hijos menores de edad o mayores incapaces, si los hay.
+
+En ambos casos, solo se decretará el divorcio cuando se cumplan los requisitos exigidos para cada uno de ellos.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### Artículo 799.
 
-Son causas de divorcio:
+El cónyuge que desee promover el juicio de divorcio deberá acompañar a su demanda una propuesta de convenio para regular las consecuencias inherentes a la disolución del vínculo matrimonial.
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+En caso de tratarse de divorcio por mutuo consentimiento, se deberá presentar de igual modo el documento que regule las consecuencias de la disolución del vínculo matrimonial, pero en este caso deberá ser presentado como convenio suscrito por ambos solicitantes.
 
-I.- El adulterio debidamente acreditado de alguno de los cónyuges;
+Tanto la propuesta de convenio, como en su caso el convenio, deberá contener los siguientes requisitos:
 
-II.- El hecho de que la mujer dé a luz, durante el matrimonio, un hijo concebido antes de celebrarse este contrato y que judicialmente se declare que no es hijo del marido;
+I. La designación de la persona que tendrá la guarda y custodia de los hijos menores o incapaces;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+II. Las modalidades bajo las cuales el progenitor, que no tenga la guarda y custodia, ejercerá el derecho de visitas, respetando los horarios de comidas, descanso y estudio de los hijos, lo anterior tanto mientras dure el procedimiento como después de ejecutoriado;
 
-III.- La propuesta de un cónyuge para prostituir al otro cónyuge, no sólo cuando el mismo lo haya hecho directamente, sino cuando se pruebe que ha recibido dinero o cualquiera remuneración con el objeto expreso de permitir que otro tenga relaciones sexuales, lo anterior, sin menoscabo de la comisión de otras conductas delictivas previstas en el Código Penal para el Estado de Quintana Roo;
+III. El modo de atender las necesidades de los hijos y, en su caso, del cónyuge a quien deba darse alimentos, especificando la forma, lugar y fecha de pago de la obligación alimentaria, así como la garantía para asegurar su debido cumplimiento;
 
-IV.- La violencia ejercida por un cónyuge sobre el otro para incitarlo a cometer algún delito, aunque no sea de incontinencia carnal;
+IV. Designación del cónyuge al que corresponderá el uso del domicilio conyugal, en caso de que se hubiese establecido dicho domicilio, y del menaje;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+V. La designación de los domicilios donde habitarán los cónyuges, tanto durante como después de ejecutoriado el divorcio;
 
-V.- La conducta de alguno de los cónyuges con el fin de corromper a los hijos, ya sean éstos de ambos, ya de uno solo de ellos, así como la tolerancia en su corrupción;
+VI. La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y hasta que se liquide, así como la forma de liquidarla, exhibiendo para ese efecto, en su caso, las capitulaciones matrimoniales, el inventario, avalúo y el proyecto de partición, y
 
-VI.- Padecer cualquiera enfermedad crónica e incurable, que sea, además, contagiosa y hereditaria;
+VII. En el caso de que los cónyuges hayan celebrado el matrimonio bajo el régimen de separación de bienes, deberá señalarse la compensación, en los términos del artículo 822 de este Código.
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
-
-VII.- La impotencia sexual irreversible, que sobrevenga después de celebrado el matrimonio, si no se debe a edad avanzada;
-
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
-
-VIII.- Padecer trastorno mental incurable, previa declaración judicial de interdicción que se haga respecto del cónyuge enfermo;
-
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
-
-IX.- La separación de la casa conyugal por más de seis meses sin causa justificada, siempre que no exista algún tipo de violencia familiar;
-
-X.- La declaración de ausencia legalmente hecha;
-
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
-
-XI.- La sevicia, o violencia psicoemocional contra uno de los cónyuges;
-
-XII.- La difamación que sea hecha por un cónyuge en perjuicio del otro;
-
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
-
-XIII.- Las amenazas o las injurias graves, que generen miedo a un evento grave e inminente;
-
-XIV.- La negativa de los cónyuges a darse alimentos y darlos a los hijos, de acuerdo con lo dispuesto en los artículos 708 a 709 siempre que no puedan hacerlos efectivos judicialmente;
-
-XV.- La acusación calumniosa hecha por un cónyuge contra el otro, por delito que merezca pena mayor de dos años de prisión;
-
-XVI.- Haber cometido uno de los cónyuges un delito que no sea político, pero que sea infamante, por el cual tenga que sufrir una pena de prisión mayor de dos años;
-
-XVII.- Los hábitos de juego o de embriaguez o el uso no terapéutico de enervantes, estupefacientes o psicotrópicos o de cualquier otra substancia que altere la conducta y produzca dependencia, cuando amenazan causar la ruina de la familia o constituyen un continuo motivo de desavenencia conyugal;
-
-XVIII.- Cometer un cónyuge contra la persona o los bienes del otro un acto que sería punible si se tratare de persona extraña, siempre que tal acto tenga señalada en la ley una pena que pase de un año de prisión;
-
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
-
-XIX.- La incompatibilidad de caracteres, que sólo podrá invocarse después de un año de celebrado el matrimonio;
-
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
-
-XX.- La bigamia que sólo puede ser invocada por el cónyuge del primer matrimonio;
-
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 2004)</small>
-
-XXI. La separación de los cónyuges por más de dos años, independientemente del motivo que haya originado la separación, la cual podrá ser invocada por cualesquiera de ellos;
-
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
-
-XXII.- Las conductas de violencia familiar cometidas o permitidas por uno de los cónyuges contra el otro o hacia los hijos de ambos o de alguno de ellos. Para los efectos de este Artículo se entiende por violencia familiar lo dispuesto por el Artículo 983 ter de este Código;
-
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
-
-XXIII.- El incumplimiento injustificado por parte de uno de los cónyuges respecto de las determinaciones de las autoridades administrativas o judiciales que se hayan ordenado, consistentes en el tratamiento psicoterapéutico, reeducativo y correctivo de los actos de violencia familiar hacia el otro cónyuge o los hijos, exclusivamente por el cónyuge obligado a ello y que sea considerado generador de la misma;
-
-XXIV.- (DEROGADA, P.O. 10 DE DICIEMBRE DE 2010)
-
-> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2004)</small>
-
-XXV. El mutuo consentimiento.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### Artículo 800.
 
-Cuando ambos consortes, teniendo más de un año de casados, convengan en divorciarse, no tengan hijos, o si los tuviesen no fueran menores de edad y de común acuerdo hubieran liquidado su comunidad de bienes, si bajo este régimen se casaron, se presentarán personalmente ante el Oficial del Registro Civil o ante el Notario Público del lugar del domicilio conyugal; comprobarán con las copias certificadas respectivas que son casados y que, si tienen hijos éstos son mayores de edad; y manifestarán terminante y explícita su voluntad de divorciarse.
+Cuando ambos consortes convengan en divorciarse, la cónyuge no se encuentra embarazada, no tengan hijos, o si los tuviesen no fueran menores de edad y de común acuerdo hubieran liquidado su comunidad de bienes si bajo este régimen se casaron, se presentarán personalmente ante el Oficial del Registro Civil o ante el Notario Público del lugar del domicilio conyugal; comprobarán con las copias certificadas respectivas que son casados y que, si tienen hijos éstos son mayores de edad; y manifestarán terminante y explícita su voluntad de divorciarse.
 
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 2007)</small>
 
@@ -4333,115 +4293,91 @@ Para el caso de que opten por realizar el trámite de divorcio ante del Notario 
 
 El Oficial del Registro Civil, o en su caso, el Notario Público, previa identificación de los consortes y haciéndoles saber el contenido del Artículo 802, levantará un acta en que hará constar la solicitud de divorcio y la ratificación de la misma, en consecuencia, ya sea el Oficial del Registro Civil o el Notario Público, declarará la disolución del vínculo matrimonial, y solicitará se haga la anotación correspondiente en el Libro de Registro.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### Artículo 802.
 
-El divorcio obtenido en esa forma será nulo absolutamente si se comprueba que los cónyuges tienen hijos menores de edad o que no han liquidado su comunidad conyugal.
+El divorcio obtenido conforme a los dos artículos anteriores, será nulo absolutamente si se comprueba que la cónyuge se encuentra embarazada, los cónyuges tienen hijos menores de edad o que no han liquidado su comunidad conyugal.
 
 ###### Artículo 803.
 
-Los consortes que no se encuentren en el caso previsto en el artículo 800, pueden divorciarse por mutuo consentimiento, ocurriendo al Juez en los términos que ordena el Código de Procedimientos Civiles.
+(DEROGADO, P.O. 4 DE JULIO DE 2017)
 
 ###### Artículo 804.
 
-Los cónyuges que pidan su divorcio por mutuo consentimiento, están obligados a presentar al juzgado un convenio en que se fijen los siguientes puntos:
-
-> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
-
-I. Designación de la persona a quien sea confiado el cuidado de los hijos menores del matrimonio y el sistema de visitas, tanto durante el procedimiento como después de ejecutoriado el divorcio;
-
-II.- El modo de subvenir a las necesidades de los hijos, tanto durante el procedimiento como después de ejecutoriado el divorcio; y la garantía que se ofrece para asegurar esta obligación, garantía que debe comprender por lo menos el importe de la pensión alimenticia de un año;
-
-III.- La casa que servirá de habitación a cada uno de los cónyuges durante el procedimiento;
-
-IV.- La cantidad que en su caso y a título de alimentos un cónyuge debe pagar al otro durante el procedimiento, la forma de hacer el pago y la garantía que debe darse para asegurarlo;
-
-V.- La manera de administrar, durante el procedimiento, la comunidad conyugal y la de liquidar ésta después de ejecutoriado el divorcio, y para ello se acompañará un inventario, avalúo y balance de la comunidad conyugal.
+(DEROGADO, P.O. 4 DE JULIO DE 2017)
 
 ###### Artículo 805.
 
-El divorcio por mutuo consentimiento no puede pedirse sino pasado un año de la celebración del matrimonio.
+(DEROGADO, P.O. 4 DE JULIO DE 2017)
 
 ###### Artículo 806.
 
-Mientras que se decrete el divorcio, el Juez autorizará la separación de los cónyuges de una manera provisional y dictará las medidas necesarias, para asegurar la subsistencia de los hijos a quienes haya obligación de dar alimentos.
+(DEROGADO, P.O. 4 DE JULIO DE 2017)
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### Artículo 807.
 
-Los cónyuges que hayan solicitado el divorcio por mutuo consentimiento, podrán reunirse de común acuerdo en cualquier tiempo, con tal de que el divorcio no hubiere sido decretado. No podrán volver a solicitar el divorcio por mutuo consentimiento sino pasado un año desde su reconciliación.
+Los cónyuges que hayan solicitado el divorcio por mutuo consentimiento, podrán reunirse de común acuerdo en cualquier tiempo, con tal de que el divorcio no hubiere sido decretado.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### Artículo 808.
 
-El cónyuge que no quiera pedir el divorcio fundado en las causas enumeradas en las fracciones VI y VIII del artículo 799 podrá, sin embargo, solicitar, en forma de juicio, que se suspenda su obligación de cohabitar con el otro cónyuge y el Juez con conocimiento de causa podrá decretar esa suspensión quedando subsistentes las demás obligaciones creadas por el matrimonio.
+El cónyuge que no quiera pedir el divorcio podrá, sin embargo, solicitar que se suspenda su obligación de cohabitar con el otro cónyuge, cuando éste se encuentre en alguno de los siguientes casos:
+
+I. Padezca cualquier enfermedad incurable que sea, además, contagiosa o hereditaria, o
+
+II. Padezca trastorno mental incurable, previa declaración de interdicción que se haga respecto del cónyuge enfermo.
+
+En estos casos, el Juez, con conocimiento de causa, podrá decretar esa suspensión; quedando subsistentes las demás obligaciones creadas por el matrimonio.
 
 ###### Artículo 809.
 
-El divorcio sólo puede ser demandado por el cónyuge que no haya dado causa a él.
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+(DEROGADO, P.O. 4 DE JULIO DE 2017)
 
 ###### Artículo 810.
 
-El divorcio necesario debe demandarse por hechos que se imputen al cónyuge demandado, que sean causas legales de divorcio y dentro de los seis meses posteriores a que hayan llegado al conocimiento del autor los hechos en que se funda la demanda; pero se exceptúan de esta caducidad las causales de tracto sucesivo o de realización continuada.
-
-El divorcio por conductas de violencia familiar, se podrá demandar en cualquier momento.
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+(DEROGADO, P.O. 4 DE JULIO DE 2017)
 
 ###### Artículo 811.
 
-El perdón expreso o tácito del cónyuge ofendido extingue la acción de divorcio necesario a excepción de la causal de conductas de violencia familiar.
+(DEROGADO, P.O. 4 DE JULIO DE 2017)
 
 ###### Artículo 812.
 
 La reconciliación de los cónyuges pone fin al juicio de divorcio en cualquier estado en que se encuentre, si aún no hubiere sentencia ejecutoriada y en este caso, los interesados deberán denunciar su reconciliación al Juez, sin que la omisión de esta denuncia destruya los efectos producidos por la reconciliación.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### Artículo 813.
 
-El cónyuge actor en el juicio de divorcio puede, antes de que se pronuncie la sentencia que ponga fin al litigio, desistirse de la acción y en este caso, no puede pedir de nuevo el divorcio por los mismos hechos que motivaron el juicio anterior, pero sí por otros nuevos, aunque sean de la misma especie, salvo por la causal de violencia familiar que podrá alegarse en todo momento.
+El cónyuge que haya recibido violencia familiar, podrá acreditarla mediante el ofrecimiento de las denominadas pruebas preconstituidas que se encuentran en su poder, o bien aquellas que obren en instrumentales públicas de instituciones o dependencias que hayan atendido dicha problemática con antelación, para ser tomadas en cuenta por el Juzgador, en los términos del artículo 287 del Código Procedimental de la materia.
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+Artículo 813 BIS.- (DEROGADO, P.O. 4 DE JULIO DE 2017)
 
-Artículo 813 BIS.- El cónyuge que haya recibido violencia familiar, podrá acreditarla mediante el ofrecimiento de las denominadas pruebas preconstituidas que se encuentran en su poder o bien aquellas que obren en instrumentales públicas de instituciones o dependencias que hayan atendido dicha problemática con antelación, para ser tomadas en cuenta por el Juzgador, en los términos del artículo 287 del Código Procedimental de la materia.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### Artículo 814.
 
-Al admitirse la demanda de divorcio, o antes si hubiere urgencia, se dictarán provisionalmente y sólo mientras dure el juicio, sin necesidad de audiencia previa o vista a las partes conforme a las disposiciones siguientes:
+Al admitirse la demanda de divorcio, se dictarán, sin necesidad de audiencia previa o vista a las partes, las medidas provisionales pertinentes, mismas que subsistirán sólo mientras dure el juicio, conforme a las disposiciones siguientes:
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+I. Separar a los cónyuges en todo caso. Para este efecto, el Juez tendrá en cuenta el interés familiar, la posible existencia de violencia familiar, y lo que más convenga a los hijos, cuál de los cónyuges continuará en el uso de la vivienda familiar y asimismo, previo inventario, de los bienes y enseres que continúen en ésta y ordenará se le entregue su ropa y los bienes que sean necesarios para el ejercicio de la profesión, arte u oficio a que está dedicado. Deberá el cónyuge informar al Juez el lugar de su residencia. Si sobre esto se suscitare controversia el Juez decidirá sumariamente oyendo a ambos cónyuges;
 
-I.- Separar a los cónyuges en todo caso. Para este efecto, el Juez tendrá en cuenta el interés familiar, la posible existencia de violencia familiar, y lo que más convenga a los hijos, cuál de los cónyuges continuará en el uso de la vivienda familiar y asimismo, previo inventario, de los bienes y enseres que continúen en ésta y ordenará se le entregue su ropa y los bienes que sean necesarios para el ejercicio de la profesión, arte u oficio a que está dedicado. Deberá el cónyuge informar al Juez el lugar de su residencia. Si sobre esto se suscitare controversia el Juez decidirá sumariamente oyendo a ambos cónyuges;
+II. Sólo a solicitud de la mujer se le autorizará a separarse del hogar conyugal. Deberá la mujer informar al Juez el lugar de su residencia y el Juez ordenará se le entreguen su ropa y los bienes que sean necesarios para el ejercicio de la profesión, arte u oficio a que esté dedicada;
 
-La separación conyugal decretada por el Juez interrumpe los términos a que se refiere el artículo 799 de este ordenamiento;
+III. Prevenir a ambos cónyuges que no se molesten uno a otro en ninguna forma;
 
-II.- Sólo a solicitud de la mujer se le autorizará a separarse del hogar conyugal. Deberá la mujer informar al Juez el lugar de su residencia y el Juez ordenará se le entreguen su ropa y los bienes que sean necesarios para el ejercicio de la profesión, arte u oficio a que esté dedicada;
+IV. Señalar y asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos;
 
-III.- Prevenir a ambos cónyuges que no se molesten uno a otro en ninguna forma;
+V. Dictar las medidas que se estimen convenientes para que los cónyuges no se causen perjuicios en sus respectivos bienes ni en los de la comunidad conyugal, en su caso, asimismo se decretará la prohibición a los cónyuges de enajenar o hipotecar bienes de su propiedad cuando se trate del domicilio conyugal y en cualquier caso cuando se trate de bienes de la sociedad conyugal. Asimismo, ordenar cuando existan bienes que puedan pertenecer a ambos cónyuges, la anotación preventiva de la demanda en el Registro Público de la Propiedad y el Comercio del Estado de Quintana Roo y de aquellos lugares en que se conozca que tienen bienes;
 
-IV.- Señalar y asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos;
+VI. Dictar, en su caso, las medidas precautorias que la ley establece respecto a la mujer que quede embarazada;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+VII. Poner a los hijos al cuidado de la persona que de común acuerdo designen los cónyuges, debiendo ser uno de éstos y pudiéndose compartir la custodia, respetando en todo momento las disposiciones de este Código al respecto. A falta de acuerdo, el Juez de lo Familiar resolverá lo conducente, considerando que las personas menores de doce años quedarán bajo la custodia y cuidado de la madre, además de establecer las modalidades del derecho de visita o convivencia con sus padres, de conformidad con el artículo 1024 Bis, el cumplimiento de las obligaciones de crianza, tomando en cuenta la opinión de la persona menor de edad, la cual podrá ser asistida por el Oficial de Menores de Edad, adscrito a la Procuraduría de Protección de las Niñas Niños y Adolescentes del Estado de Quintana Roo. El Juez, en cualquier tiempo y antes que termine ejecutoriadamente el juicio, podrá prudentemente modificar sus determinaciones, estableciendo las modalidades y medidas que estime necesarias en beneficio de las personas menores de edad y de los bienes de éstos, sin más limitación que este mismo beneficio, pudiendo confiar la custodia de las personas menores de edad a un tercero o institución educativa y confiar la administración de los bienes a una institución fiduciaria;
 
-V.- Dictar las medidas que se estimen convenientes para que los cónyuges no se causen perjuicios en sus respectivos bienes ni en los de la comunidad conyugal, en su caso, asimismo se decretará la prohibición a los cónyuges de enajenar o hipotecar bienes de su propiedad cuando se trate del domicilio conyugal y en cualquier caso cuando se trate de bienes de la sociedad conyugal;
-
-Asimismo, ordenar cuando existan bienes que puedan pertenecer a ambos cónyuges, la anotación preventiva de la demanda en el Registro Público de la Propiedad del Estado de Quintana Roo y de aquellos lugares en que se conozca que tienen bienes;
-
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
-
-VI.- Dictar, en su caso, las medidas precautorias que la ley establece respecto a la mujer que quede embarazada;
-
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
-
-VII.- Poner a los hijos al cuidado de la persona que de común acuerdo designen los cónyuges, debiendo ser uno de éstos y pudiéndose compartir la custodia, respetando en todo momento las disposiciones de este Código al respecto. A falta de acuerdo, el Juez de lo Familiar resolverá lo conducente, considerando que las personas menores de doce años quedarán bajo la custodia y cuidado de la madre, además de establecer las modalidades del derecho de visita o convivencia con sus padres, de conformidad con el artículo 1024 Bis, el cumplimiento de las obligaciones de crianza, tomando en cuenta la opinión de la persona menor de edad, la cual podrá ser asistida por el Oficial de Menores de Edad, adscrito a la Procuraduría de la Defensa del Menor y la Familia del Estado de Quintana Roo. El Juez, en cualquier tiempo y antes que termine ejecutoriadamente el juicio, podrá prudentemente modificar sus determinaciones, estableciendo las modalidades y medidas que estime necesarias en beneficio de las personas menores de edad y de los bienes de éstos, sin más limitación que este mismo beneficio, pudiendo confiar la custodia de las personas menores de edad a un tercero o institución educativa y confiar la administración de los bienes a una institución fiduciaria;
-
-> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
-
-VIII.- En los casos en que se alegue la violencia familiar, el juez podrá decretar, atendiendo a las evidencias y con el fin de salvaguardar la integridad y seguridad de los interesados, las medidas precautorias siguientes:
+VIII. En los casos en que se alegue la violencia familiar, el Juez podrá decretar, atendiendo a las evidencias y con el fin de salvaguardar la integridad y seguridad de los interesados, las medidas precautorias siguientes:
 
 a) Ordenar la salida del cónyuge demandado de la vivienda donde habita el grupo familiar.
 
@@ -4449,19 +4385,15 @@ b) Prohibición al cónyuge demandado de ir a lugar determinado, tales como el d
 
 c) Suspender la custodia y la patria potestad al cónyuge presuntamente agresor y prohibir que éste se acerque a los agraviados a la distancia que el propio Juez considere pertinente. Esta suspensión será independiente del cumplimiento del presunto agresor de las obligaciones referidas a la pensión alimenticia.
 
-Cualquier otra medida de protección de emergencia, preventiva o de naturaleza civil de conformidad con la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo.
+IX. Requerirá a ambos cónyuges para que le exhiban, bajo protesta de decir verdad, un inventario de sus bienes y derechos, así como de los que se encuentren bajo el régimen de comunidad conyugal, en su caso, especificando además el titulo bajo el cual se adquirieron o poseen, el valor que estime que tienen, as (sic) capitulaciones matrimoniales y un proyecto de partición, y
 
-> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+X. Las demás que considere necesarias.
 
-IX.- Requerirá a ambos cónyuges para que le exhiban, bajo protesta de decir verdad, un inventario de sus bienes y derechos, así como de los que se encuentren bajo el régimen de comunidad conyugal, en su caso, especificando además el titulo bajo el cual se adquirieron o poseen, el valor que estime que tienen, las capitulaciones matrimoniales y un proyecto de partición; y
+Durante el procedimiento, el Juez recabará la información complementaria y comprobación de datos que en su caso precise, pudiéndolo hacer incluso de oficio.
 
-> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+En caso de que las personas menores de doce años sean sujetos de violencia familiar, éstos deberán quedar al cuidado de la madre, excepto cuando sea ésta quien la origine. No será obstáculo para la preferencia maternal en la custodia, el hecho de que la madre carezca de recursos económicos.
 
-X.- Durante el procedimiento, recabará la información complementaria y comprobación de datos que en su caso precise.
-
-En caso de que las personas menores de doce años sean sujetos de violencia familiar éstos deberán quedar al cuidado de la madre, excepto cuando sea ésta quien la origine. No será obstáculo para la preferencia maternal en la custodia, el hecho de que la madre carezca de recursos económicos.
-
-Cualquier otra medida de protección de emergencia, Preventiva o de naturaleza civil de conformidad con la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo.
+El Juez podrá ordenar cualquier otra medida de protección de emergencia, preventiva o de naturaleza civil de conformidad con la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo.
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
@@ -4481,85 +4413,77 @@ IV.- Las demás que sean necesarias para garantizar el bienestar, el desarrollo,
 
 Las medidas de protección para los hijos podrán incluir también las medidas de seguridad, seguimiento para el demandado y su asistencia a terapias reeducativas dirigidas a evitar y corregir los actos de violencia familiar, las cuales podrán ser suspendidas o modificadas, según se trate el caso y de conformidad con lo dispuesto por el Código de Procedimientos Civiles para el Estado de Quintana Roo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### Artículo 816.
 
 Para cumplir con lo dispuesto en el artículo anterior, el Juez durante el procedimiento deberá de oficio o a petición de parte interesada, allegarse de los elementos necesarios y tendrá que:
 
-I.- Oír al Ministerio Público, a un tutor que el Juez nombre a los hijos, a los abuelos, tíos, hermanos mayores, y en general a las personas que por ser amigas o parientes de la familia de los cónyuges puedan informar al Juez respecto a la forma mejor de la custodia de los menores;
+I. Oír al Ministerio Público, a un tutor que el Juez nombre a los hijos, a los abuelos, tíos, hermanos mayores, y en general a las personas que por ser amigas o parientes de la familia de los cónyuges puedan informar al Juez respecto a la forma mejor de la custodia de los menores;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+II. Oír a las personas menores de edad si éstos pueden expresarse, debidamente asistidos por el Oficial de Menores de Edad, adscrito a (sic) Procuraduría de Protección de las Niñas Niños y Adolescentes del Estado de Quintana Roo, y
 
-II.- Oír a las personas menores de edad si éstos pueden expresarse, debidamente asistidos por el Oficial de Menores de Edad, adscrito a la Procuraduría de la Defensa del Menor y la Familia del Estado de Quintana Roo;
-
-III.- Asegurar a los hijos menores los alimentos y en todo momento pueden ser modificadas por el Juez las resoluciones que a este respecto dicte, mientras los hijos no lleguen a la mayoridad.
+III. Asegurar a los hijos menores los alimentos y en todo momento pueden ser modificadas por el Juez las resoluciones que a este respecto dicte, mientras los hijos no lleguen a la mayoridad.
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 Artículo 816 BIS.- En el caso de que los padres hayan acordado la guarda y custodia conjuntamente en términos de lo establecido en la fracción VII del artículo 814, el Juez, en la sentencia de divorcio, deberá garantizar que los divorciantes cumplan con las obligaciones de crianza, sin que ello implique un riesgo en la vida cotidiana para los hijos.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
-
 ###### Artículo 817.
 
-El cónyuge que diere causa al divorcio perderá todo lo que se le hubiere dado o prometido por, su cónyuge o por otra persona en consideración al matrimonio. El cónyuge que no dio causa al divorcio conservará lo recibido y podrá reclamar lo pactado en su provecho.
+(DEROGADO, P.O. 4 DE JULIO DE 2017)
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### Artículo 818.
 
-El Juez fijará en la sentencia que decrete el divorcio, tomando en consideración en su caso, los datos recabados en términos del artículo 814 de este ordenamiento lo relativo a la división de los bienes.
+El Juez fijará en la sentencia que decrete el divorcio, tomando en consideración en su caso, los datos recabados en términos de la fracción IX del artículo 814 de este ordenamiento lo relativo a la división de los bienes.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes de la comunidad conyugal y se tomarán las precauciones necesarias, para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos. Los consortes divorciados tendrán obligación de contribuir, en proporción a sus bienes e ingresos, a las necesidades, subsistencia y educación de sus hijos y para proporcionarles algún oficio, arte o profesión honesta y adecuada a sus circunstancias personales, y a su elección sin ninguna acción por pertenecer a un género determinado.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### Artículo 819.
 
-En los casos de divorcio necesario, el Juez de lo Familiar sentenciará al cónyuge que dio causa al divorcio, al pago de alimentos a favor del cónyuge que no dio causa al divorcio, tomando en cuenta las circunstancias del caso, entre ellas, las siguientes:
+En caso de divorcio, el Juez resolverá en sentencia definitiva sobre el pago de alimentos a favor del cónyuge que, teniendo la necesidad de recibirlos, durante el matrimonio se haya dedicado preponderantemente a las labores del hogar, al cuidado de los hijos, esté imposibilitado para trabajar, o carezca de bienes, tomando en cuenta las siguientes circunstancias:
 
-I.- La edad y el estado de salud de los cónyuges;
+I. La edad y el estado de salud de los cónyuges;
 
-II.- Su calificación profesional y posibilidad de acceso a un empleo;
+II. Su calificación profesional y posibilidad de acceso a un empleo;
 
-III.- Duración del matrimonio y dedicación en el pasado a la familia;
+III. Duración del matrimonio y dedicación pasada;
 
-IV.- El apoyo con las actividades propias del hogar y el cuidado de los hijos, que hayan permitido al cónyuge que dio causa al divorcio, el desarrollo de actividades económicas en beneficio de la familia conformada desde el matrimonio;
+IV. El apoyo con las actividades propias del hogar y el cuidado de los hijos, que hayan permitido al otro cónyuge, el desarrollo de actividades económicas en beneficio de la familia conformada desde el matrimonio;
 
-V.- La capacidad para trabajar de los cónyuges, su situación y medios económicos;
+V. Medios económicos de uno y otro cónyuge, así como de sus necesidades, y
 
-VI.- Las demás obligaciones que tenga el cónyuge deudor, siempre que se hayan generado en el lapso de duración del matrimonio y con motivo del mismo.
+VI. Las demás obligaciones que tenga el cónyuge deudor.
 
-En todos los casos, el cónyuge que no dio causa al divorcio que carezca de bienes o que durante el matrimonio se haya dedicado preponderantemente a las labores del hogar o al cuidado de los hijos, tendrá derecho a alimentos por el mismo lapso en que duró el matrimonio.
+En la resolución se fijarán las bases para actualizar la pensión y las garantías para su efectividad.
 
-En caso de que el cónyuge que no dio causa al divorcio se encuentre imposibilitado para trabajar por dolencia de una discapacidad o enfermedad, tendrá derecho a alimentos con una duración vitalicia.
+El derecho a los alimentos a que se refiere este artículo, se extingue cuando el acreedor contraiga nuevas nupcias o se una en concubinato, o viva maritalmente en forma permanente y estable por un periodo mínimo de dos años con otra persona impedida legalmente para contraer matrimonio, o haya transcurrido un término igual a la duración del matrimonio.
 
-En la resolución se fijarán las bases para actualizar la pensión y las garantías para su Efectividad. El derecho a los alimentos, en caso de divorcio necesario, se extingue cuando el acreedor contraiga nuevas nupcias o se una en concubinato, o viva maritalmente en forma permanente y estable por un periodo mínimo de dos años con otra persona impedida legalmente para contraer matrimonio.
-
-El cónyuge que no dio causa al divorcio tiene derecho, además del pago de alimentos, a que el cónyuge que dio causa al divorcio lo indemnice por los daños y perjuicios que el divorcio le haya causado. Los daños y perjuicios, así como la indemnización a que se refiere el presente artículo, se rigen por lo dispuesto en este Código para los hechos ilícitos.
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+En caso de que exista un cónyuge que durante el matrimonio, no haya sido generador de violencia familiar, y se encuentre imposibilitado para trabajar por dolencia de una discapacidad o enfermedad tendrá derecho a alimentos hasta por el tiempo que dure el padecimiento o de manera vitalicia.
 
 ###### Artículo 820.
 
-Cuando con el divorcio sanción se originen daños o perjuicios a los intereses del cónyuge que no dio causa al divorcio, el cónyuge que dio causa al divorcio, responderá de ellos como autor de un hecho ilícito.
+(DEROGADO, P.O. 4 DE JULIO DE 2017)
 
 ###### Artículo 821.
 
-Cuando el divorcio sea decretado por las causales establecidas en las fracciones VI y VIII del artículo 799, el cónyuge enfermo tendrá derecho a alimentos a cargo del sano, si carece de bienes y está imposibilitado para trabajar.
+(DEROGADO, P.O. 4 DE JULIO DE 2017)
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### Artículo 822.
 
-En el caso del divorcio por mutuo consentimiento vía judicial, el cónyuge que se haya dedicado preponderantemente a las labores del hogar y el cuidado de los hijos que no cuente con ingresos suficientes que le permitan su subsistencia, mientras no contraiga nuevas nupcias o se una en concubinato, o viva maritalmente en forma permanente y estable por un periodo mínimo de dos años con otra persona impedida legalmente para contraer matrimonio, tendrá derecho a recibir alimentos por el mismo lapso que haya durado el matrimonio.
+En la demanda de divorcio, los cónyuges podrán demandar del otro, una indemnización de hasta el 50% del valor de los bienes que hubiere adquirido durante el matrimonio, siempre que, hubieren estado casados bajo el régimen de separación de bienes, el demandante se haya dedicado en el lapso que duró el matrimonio, preponderantemente al desempeño del trabajo del hogar y, en su caso, al cuidado de los hijos y que durante el matrimonio, el demandante no haya adquirido bienes propios o habiéndolos adquirido, sean notoriamente menores a los de la contraparte.
 
-> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2010)</small>
+El Juez de lo Familiar resolverá en la sentencia de divorcio, previa valoración de cada caso. No podrán considerarse para efectos de cuantificar la indemnización, bienes del cónyuge obtenidos por herencia, donación o suerte de la fortuna, aún en los casos en que se hayan recibido durante el matrimonio.
 
-Artículo 822 BIS.- En la demanda de divorcio, los cónyuges podrán demandar del otro, una indemnización de hasta el 50% del valor de los bienes que hubiere adquirido durante el matrimonio, siempre que, hubieren estado casados bajo el régimen de separación de bienes; el demandante se haya dedicado en el lapso que duró et matrimonio, preponderantemente al desempeño del trabajo del hogar y, en su caso, al cuidado de los hijos y que durante el matrimonio, el demandante no haya adquirido bienes propios o habiéndolos adquirido, sean notoriamente menores a los de la contraparte.
-
-El Juez de lo Familiar resolverá, en la sentencia de divorcio, previa valoración de cada caso. No podrán considerarse para efectos de cuantificar la indemnización, bienes del cónyuge obtenidos por herencia, donación o suerte de la fortuna, aún en los casos en que se hayan recibido durante el matrimonio.
+Artículo 822 BIS.- (DEROGADO, P.O. 4 DE JULIO DE 2017)
 
 ###### Artículo 823.
 
@@ -4631,11 +4555,11 @@ II.- Cuando la unión sexual sea accidental, no exista entre ellos impedimento p
 
 III.- Cuando siendo accidental la unión sexual, tenga la mujer por virtud de ella un hijo y exista entre ésta y el varón algún impedimento para contraer matrimonio.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### Artículo 830.
 
-La asimilación a que se refiere el artículo anterior sólo comprende a los parientes consanguíneos en línea recta ascendente o descendente, sin limitación de grado y su único efecto es constituir un impedimento para el matrimonio como lo dispone el artículo 700 fracción IV.
+La asimilación a que se refiere el artículo anterior sólo comprende a los parientes consanguíneos en línea recta ascendente o descendente, sin limitación de grado y su único efecto es constituir un impedimento para el matrimonio como lo dispone el artículo 700 fracción II.
 
 ###### Artículo 831.
 
@@ -4675,21 +4599,15 @@ Los cónyuges están obligados a proporcionarse alimentos. La obligación alimen
 
 El concubinario y la concubina también están obligados, en igual forma que los cónyuges, a darse alimentos.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+
 ###### Artículo 839.
 
 Los padres están obligados a dar alimentos a sus hijos. A falta o por imposibilidad de los padres, la obligación recae en los demás ascendientes por cualquiera de ambas líneas que estuvieren más próximos en grado.
 
-> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2012)</small>
-
 Los hijos al adquirir la mayoría de edad tendrán derecho a recibir los alimentos siempre y cuando estén estudiando con la finalidad de adquirir un oficio, arte o profesión, pero lo será hasta la conclusión de los estudios correspondientes, cuando los lleven a cabo sin interrupción y no rebasen los 25 años de edad, salvo que no sean concluidos por causa suficiente que lo justifique.
 
-> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2012)</small>
-
-Cesará la obligación alimentaria del deudor si el hijo mayor de edad se encuentra cursando estudios acordes a su edad, pero no vive honestamente, contrae matrimonio, vive en concubinato o le sobreviene un hijo producto de una relación consensuada.
-
-> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2012)</small>
-
-En caso de que el acreedor alimentista, se encuentre imposibilitado para adquirir por sus propios medios algún trabajo con motivo de ser una persona con discapacidad o enfermo terminal, tendrá derecho a recibir los alimentos hasta por el tiempo que dure el padecimiento o de manera vitalicia, previa valoración que haga el juez respecto de las condiciones especiales, tanto del acreedor como del deudor alimentario.
+En caso de que el acreedor alimentista sea un hijo, se encuentre imposibilitado para adquirir por sus propios medios algún trabajo con motivo de ser una persona con discapacidad o enfermo terminal, tendrá derecho a recibir los alimentos hasta por el tiempo que dure el padecimiento o de manera vitalicia, previa valoración que haga el Juez respecto de las condiciones especiales, tanto del acreedor como del deudor alimentario.
 
 ###### Artículo 840.
 
@@ -4737,9 +4655,9 @@ El deudor alimentista no podrá pedir que se incorpore a su familia al que debe 
 
 Los alimentos han de ser proporcionados a la posibilidad del que debe darlos y a la necesidad del que debe recibirlos.
 
-> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
-Determinados por convenio o sentencia, de manera exclusiva las alimentos que haya sido fijado como base para su cuantificación, un porcentaje determinado, tendrá un incremento automático mínimo equivalente al aumento porcentual del salario mínimo general diario vigente en la zona económica correspondiente al deudor, salvo que el deudor alimentario demuestre que sus ingresos no aumentaron en igual proporción, en este caso, el incremento en los alimentos se ajustará al que realmente hubiese obtenido el deudor. Estas prevenciones deberán expresarse siempre en las sentencias o convenio correspondiente.
+Determinados por convenio o sentencia, de manera exclusiva los alimentos que hayan sido fijados teniendo como base para su cuantificación, un porcentaje determinado, tendrán un incremento automático mínimo equivalente al aumento porcentual del salario mínimo general diario vigente, salvo que el deudor alimentario demuestre que sus ingresos no aumentaron en igual proporción. En este caso, el incremento en los alimentos se ajustará al que realmente hubiese obtenido el deudor. Estas prevenciones deberán expresarse siempre en las sentencias o convenio correspondiente.
 
 > <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2012)</small>
 
@@ -4803,11 +4721,17 @@ II.- Cuando el alimentista deja de necesitar los alimentos;
 
 III.- En caso de violencia familiar, injuria, falta o daños graves inferidos intencionalmente por el alimentista contra quien debe prestarlos;
 
-IV.- Cuando la necesidad de los alimentos dependa de la conducta viciosa o de la falta de aplicación al trabajo del alimentista, mientras subsisten estas causas; y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2012)</small>
+IV.- Cuando la necesidad de los alimentos dependa de la conducta viciosa o de la falta de aplicación al trabajo del alimentista, mientras subsisten estas causas;
 
-V.- Cuando el alimentista mayor de edad, sin consentimiento del que debe dar los alimentos, abandona la casa de éste por causas injustificables.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+V.- Cuando el alimentista mayor de edad, sin consentimiento del que debe dar los alimentos, abandona la casa de éste por causas injustificables, y
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+VI.- Cuando el alimentista mayor de edad se encuentra cursando estudios acordes a su edad, pero no vive honestamente, contrae matrimonio, vive en concubinato o le sobreviene un hijo producto de una relación.
 
 ###### Artículo 856.
 
@@ -5089,13 +5013,15 @@ El Oficial, Delegado o Subdelegado del Registro Civil y el notario que violen el
 
 Si ambos padres se hubieren casado, en el acta de reconocimiento que haga uno de ellos, podrá asentarse el nombre del otro consorte como su progenitor. En este caso quedará probada la filiación del hijo respecto de ambos, aunque al contraer matrimonio no hubieren cumplido con el deber que impone la fracción III del artículo 897; y sin perjuicio del consorte no presente en el acto, de contradecir la imputación que se le haga, dentro de los sesenta días siguientes al en que tuvo conocimiento de la misma.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+
 ###### Artículo 902.
 
-El padre puede reconocer, sin consentimiento de su esposa, a un hijo habido con persona distinta a ésta antes o durante el matrimonio, pero el reconocimiento hecho en el segundo caso no prueba por sí solo el adulterio del que reconoce, en caso de divorcio en su contra por esa causal.
+Cualquier cónyuge puede reconocer, sin consentimiento del otro, a un hijo habido con persona distinta a ésta antes o durante el matrimonio.
 
 ###### Artículo 903.
 
-La mujer casada puede reconocer, sin consentimiento del esposo a un hijo habido con persona distinta a éste antes de su matrimonio.
+(DEROGADO, P.O. 4 DE JULIO DE 2017)
 
 ###### Artículo 904.
 
@@ -17502,3 +17428,13 @@ P.O. 30 DE MAYO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 402 POR EL QUE SE REFORMAN LOS ARTÍCULOS 602 BIS, 826, 827, 830, 983, 1190, 1527, Y SE DEROGAN LOS ARTÍCULOS 831, 1526 Y 1538, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 4 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 073 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO Y DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Los juicios de divorcio iniciados con anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones procesales vigentes al momento de iniciarse dichos procedimientos.
+
+TERCERO. Se derogan todas las disposiciones que contravengan al presente decreto.
