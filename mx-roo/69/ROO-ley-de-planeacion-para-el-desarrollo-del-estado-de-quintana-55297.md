@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-planeacion-para-el-desarrollo-del-estado-de-quintana-552
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-30"
-last_updated: "2015-09-30"
+last_updated: "2017-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55297&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "ROO"
 
 LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL NOVENO, DÉCIMO SEGUNDO, DÉCIMO SEXTO Y DÉCIMO NOVENO TRANSITORIOS DEL DECRETO NÚMERO 306 DE REFORMAS PUBLICADO EN EL P.O. DE 19 DE AGOSTO DE 2013, TODAS LAS MENCIONES O REFERENCIAS QUE SE HAGAN AL INSTITUTO FORESTAL DE QUINTANA ROO; A LA COMISIÓN ESTATAL DE MEJORA REGULATORIA; A LA COMISIÓN PARA EL DESARROLLO DE LA ETNIA MAYA Y COMUNIDADES INDÍGENAS DEL ESTADO DE QUINTANA ROO, Y AL INSTITUTO DE FOMENTO A LA VIVIENDA Y REGULARIZACIÓN DE LA PROPIEDAD DEL ESTADO, SE ENTENDERÁN HECHAS A LA SECRETARÍA DE ECOLOGÍA Y MEDIO AMBIENTE; A LA SECRETARÍA DE LA GESTIÓN PÚBLICA; A LA SECRETARÍA DE DESARROLLO SOCIAL E INDÍGENA, Y A LA SECRETARÍA DE DESARROLLO URBANO Y VIVIENDA RESPECTIVAMENTE.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de marzo de 2007.
 
@@ -73,43 +71,75 @@ c) El Consejo para el Desarrollo Insular del Estado Libre y Soberano de Quintana
 
 La participación de los representantes de las Dependencias y Entidades Federales en el Estado, se hará de acuerdo a lo previsto en los convenios que al efecto se celebren entre las Autoridades y Órganos antes señalados y el Gobierno Federal.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### Artículo 3.
 
-Para los efectos de esta ley se entiende por:
+Para los efectos de esta Ley se entenderá por:
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
 I. Congreso: El Congreso del Estado de Quintana Roo;
 
-II. Consejo Estatal: El Consejo Estatal de Participación Social para la Planeación Democrática de Quintana Roo;
+II. (DEROGADA, P.O. 4 DE JULIO DE 2017)
 
-III. Consejo Municipal: El Consejo Municipal de Participación Social para la Planeación Democrática, que se instituya en cada Municipio del Estado de Quintana Roo;
+III. (DEROGADA, P.O. 4 DE JULIO DE 2017)
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
 IV. COPLADE: El Comité de Planeación para el Desarrollo del Estado de Quintana Roo;
 
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
 V. COPLADEMUN: El Comité de Planeación para el Desarrollo que se instituya en cada Municipio del Estado de Quintana Roo;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
 VI. Consejo Insular: El Consejo para el Desarrollo Insular del Estado Libre y Soberano de Quintana Roo;
 
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
 VII. Ley: La Ley de Planeación para el Desarrollo del Estado de Quintana Roo;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
 VIII. Ley de Planeación: La Ley de Planeación en el ámbito Federal;
 
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
 IX. Plan Estatal: El Plan Estatal de Desarrollo;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
 X. Plan Nacional: El Plan Nacional de Desarrollo;
 
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
 XI. Planes Municipales: El Plan Municipal de Desarrollo de cada Municipio;
 
-XII. Programas: Los Programas Regionales, Sectoriales, Institucionales, Especiales y Operativos Anuales;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+XII. Programas: Los programas regionales, sectoriales, institucionales, especiales y anuales.
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
 XIII. Registro Estatal: El Registro de Planes y Programas de Desarrollo del Estado de Quintana Roo;
 
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
 XIV. Secretaría: La Secretaría de Finanzas y Planeación;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
 XV. Sistema de Información: El Sistema de Información para la Planeación del Desarrollo del Estado de Quintana Roo, y
 
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
 XVI. Sistema Estatal: El Sistema de Planeación Democrática del Estado de Quintana Roo.
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2017)</small>
+
+XVII. Perspectiva de Igualdad de Género: Se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las Mujeres, que se pretende justificar con base en las diferencias biológicas entre Hombres y Mujeres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de género.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2013)</small>
 
@@ -135,9 +165,13 @@ III. Las bases de integración y funcionamiento del Sistema Estatal;
 
 IV. Las bases para promover y garantizar la participación democrática, dinámica y responsable de los particulares, organismos, instituciones y representantes del sector social y privado, en la formulación, instrumentación, control, seguimiento, evaluación y actualización de los planes y programas a que se refiere esta Ley;
 
-V. Las bases para la formulación de los planes estatal y municipales de desarrollo; los programas regionales, sectoriales, institucionales y especiales correspondientes; así como los programas operativos anuales que serán ejecutados por las dependencias y entidades de la Administración Pública Estatal y Municipal y Órganos Autónomos;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
 
-VI. Las bases para la instrumentación de los programas operativos anuales que serán ejecutados por las Dependencias y Entidades de la Administración Pública Estatal y Municipal y Órganos Autónomos;
+V. Las bases para la formulación de los planes estatal y municipales de desarrollo; los programas regionales, sectoriales, institucionales y especiales correspondientes; así como los programas anuales que serán ejecutados por las dependencias y entidades de la Administración Pública Estatal y Municipal y Órganos Autónomos.
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+VI. Las bases para la instrumentación de los programas anuales que serán ejecutados por las Dependencias y Entidades de la Administración Pública Estatal y Municipal y Órganos Autónomos;
 
 VII. Las bases mediante las cuales, las autoridades y órganos responsables de la planeación se obligan al cumplimiento de los objetivos contenidos en los planes y programas de desarrollo del Sistema Estatal;
 
@@ -150,6 +184,10 @@ X. Las bases para el control, seguimiento, evaluación y actualización de los p
 XI. Las bases para la integración y funcionamiento del Registro Estatal; y
 
 XII. Las bases para la integración y funcionamiento del Sistema de Información.
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2017)</small>
+
+XIII. Las bases para la incorporación de la perspectiva de igualdad de género en los planes y programas a que se refiere la presente Ley.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
@@ -239,9 +277,19 @@ XVII. El desarrollo de una política educativa para fortalecer el aprecio por la
 
 XVIII. La igualdad de oportunidades de los habitantes de las islas y la aplicación de medidas específicas para lograr la integración de los territorios insulares al desarrollo del Estado.
 
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2017)</small>
+
+XIX. El de bienestar social, para garantizar la igualdad de derechos y oportunidades entre mujeres y hombres, el desarrollo integral de los pueblos y comunidades indígenas, la atención de las necesidades básicas de la población y la mejoría, en todos los aspectos de la calidad de la vida, con el objeto de lograr una sociedad más igualitaria, garantizando un ambiente adecuado para el desarrollo de la población.
+
 ###### Artículo 9.
 
 Las autoridades y órganos responsables de la planeación, se coordinarán para participar en la organización del Sistema Estatal, con la participación de los particulares, organismos, instituciones y representantes del sector social y privado, en el que se recogerán sus aspiraciones y demandas para incorporarlas a la estrategia de desarrollo.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2017)</small>
+
+###### Artículo 9 Bis.
+
+Las Dependencias y Entidades de la administración pública estatal y municipal, deberán planear y conducir sus actividades con sujeción a los objetivos, estrategias y prioridades de la planeación estatal del desarrollo y las que fijen el gobernador y los presidentes municipales respectivamente, observando siempre la igualdad entre mujeres y hombres a través de la incorporación de la perspectiva de género desde su planeación.
 
 ###### Artículo 10.
 
@@ -271,19 +319,27 @@ Tanto en el ámbito Estatal como Municipal, los Presupuestos de Egresos y Leyes 
 
 Las iniciativas de leyes y decretos que formulen las autoridades competentes, señalaran las relaciones que, en su caso, existan entre el proyecto de que se trate con los Planes Estatal y Municipales y los programas respectivos, según corresponda; para tal efecto, el Congreso verificará el cumplimiento de lo dispuesto en este párrafo.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+
 ###### Artículo 15.
 
-El Titular del Poder Ejecutivo al enviar al Congreso la iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos correspondientes, informará del contenido general de dichos documentos y su relación con los Programas operativos anuales que deberán elaborarse para la ejecución del Plan Estatal.
+El Titular del Poder Ejecutivo al enviar al Congreso la iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos correspondientes, informará del contenido general de dichos documentos y su relación con los Programas anuales que deberán elaborarse para la ejecución del Plan Estatal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### Artículo 16.
 
-Las autoridades responsables de la planeación, a solicitud del Congreso, darán cuenta a éste del estado que guarden sus respectivos ramos, informarán el avance y grado de cumplimiento de los objetivos y prioridades fijados en el Plan Estatal, que por razón de su competencia les corresponda, así como de los resultados de las acciones previstas. También informarán sobre el desarrollo y los resultados de la aplicación de los instrumentos de política económica y social de acuerdo con dichos objetivos y prioridades. En su caso, explicarán las desviaciones ocurridas y las medidas; que se adopten para corregirlas.
+Las autoridades responsables de la planeación, a solicitud del Congreso, darán cuenta a éste del estado que guarden sus respectivos ramos, informarán el avance y grado de cumplimiento de los objetivos y prioridades fijados en la planeación estatal, que por razón de su competencia les corresponda, así como de los resultados de las acciones previstas. También informarán sobre el desarrollo y los resultados de la aplicación de los instrumentos de política económica y social de acuerdo con dichos objetivos y prioridades, precisando el impacto específico y diferencial que generen en mujeres y hombres. En su caso, explicarán las desviaciones ocurridas y las medidas; que se adopten para corregirlas.
 
-Las autoridades a que alude el párrafo anterior de este artículo, que sean citadas por el Congreso para que informen cuando se discuta una ley o se estudie un asunto concerniente a sus respectivos ramos o actividades, señalarán las relaciones que hubiere entre el proyecto de ley o asunto de que se trate y los objetivos del plan estatal, relativos a sus respectivos ámbitos de competencia.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+
+Las autoridades a que alude el párrafo anterior de este artículo, que sean citadas por el Congreso para que informen cuando se discuta una ley o se estudie un asunto concerniente a sus respectivos ramos o actividades, señalarán las relaciones que hubiere entre el proyecto de ley o asunto de que se trate y los objetivos de la planeación estatal, relativos a sus respectivos ámbitos de competencia.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### Artículo 17.
 
-Las autoridades responsables de la planeación, deberán planear y conducir sus actividades con sujeción a los objetivos y prioridades previstos en el Plan Estatal, buscando congruencia con las acciones que la Administración Pública Federal realice en el Estado, dentro del contexto del Plan Nacional de Desarrollo.
+Las autoridades responsables de la planeación, deberán planear y conducir sus actividades con sujeción a los objetivos y prioridades previstos en la planeación Estatal, buscando congruencia con las acciones que la Administración Pública Federal realice en el Estado, dentro del contexto del Plan Nacional de Desarrollo.
 
 ###### Artículo 18.
 
@@ -303,9 +359,11 @@ Para efecto de lo anterior, las actuaciones de las autoridades y órganos respon
 
 La planeación del Estado se realizará en los términos de esta Ley, a través del Sistema Estatal, mediante el cual se llevará a cabo la formulación, instrumentación, control, seguimiento, evaluación y actualización de los Planes Estatal y Municipales, así como los programas señalados en esta Ley, en el marco de la estrategia nacional del desarrollo.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+
 ###### Artículo 21.
 
-El Sistema Estatal tendrá por objeto garantizar el desarrollo integral del Estado y de los Municipios, atendiendo principalmente a las necesidades básicas para mejorar la calidad de vida de sus habitantes y la conformación armónica y adecuada de las relaciones funcionales entre las diferentes regiones de la entidad, así como la planeación democrática mediante la intervención y consulta de los particulares, organismos, instituciones y representantes del sector social y privado, a través de los mecanismos de participación social para la planeación, para que la población exprese sus opiniones para la formulación, instrumentación, control, seguimiento, evaluación y actualización de los Planes Estatales y Municipales y los Programas Regionales, Sectoriales, Institucionales, Especiales y operativos anuales a que se refiere esta Ley.
+El Sistema Estatal tendrá por objeto garantizar el desarrollo integral del Estado y de los Municipios, atendiendo principalmente a las necesidades básicas para mejorar la calidad de vida de sus habitantes y la conformación armónica y adecuada de las relaciones funcionales entre las diferentes regiones de la entidad, así como la planeación democrática mediante la intervención y consulta de los particulares, organismos, instituciones y representantes del sector social y privado, a través de los mecanismos de participación social para la planeación, para que la población exprese sus opiniones para la formulación, instrumentación, control, seguimiento, evaluación y actualización de los Planes Estatales y Municipales y los Programas Regionales, Sectoriales, Institucionales, Especiales y operativos a que se refiere esta Ley.
 
 ###### Artículo 22.
 
@@ -355,7 +413,9 @@ b).- Operativos:
 
 5.- Convenios de concertación; y
 
-6.- Programas Operativos Anuales Estatales y Municipales.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+
+6.- Programas Anuales Estatales y Municipales.
 
 c).- De control:
 
@@ -463,7 +523,11 @@ III. Aprobar y ordenar la publicación y divulgación del Plan Estatal en los t�
 
 IV. Aplicar las medidas disciplinarias en el ámbito de su competencia, a quien viole la presente Ley o no cumpla con los planes y programas señalados en la misma, a través de la Secretaría de la Gestión Pública, y
 
-V. Las demás que le confieran esta Ley, otras leyes y ordenamientos aplicables en la materia.
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2017)</small>
+
+V. Establecer y proveer criterios para la formulación, instrumentación, ejecución, control y evaluación del Plan Estatal de Desarrollo, Planes Sectoriales y Programas, en congruencia con el plan nacional de desarrollo, identificando y registrando la población objetivo y la tendida por dichos planes y programas, desagregada por sexo y grupo de edad en los indicadores para resultados y en los padrones de beneficiarias y beneficiarios que corresponda, y
+
+VI. Las demás que le confieran esta Ley, otras leyes y ordenamientos aplicables en la materia.
 
 ###### Artículo 27.
 
@@ -481,7 +545,11 @@ V. Participar en la estrategia del desarrollo del Estado, formulando las propues
 
 VI. Aplicar las medidas disciplinarias en el ámbito de su competencia, a quien viole la presente Ley o no cumpla con los planes y programas señalados en la misma, a través de la Contraloría Municipal; y
 
-VII. Las demás que les confieran esta Ley, otras leyes e instrumentos normativos en la materia.
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2017)</small>
+
+VII. Verificar que la programación del gasto público municipal se sujete a la técnica del presupuesto por programa y con perspectiva de igualdad de género; y
+
+VIII. Las demás que les confieran esta Ley, otras leyes e instrumentos normativos en la materia.
 
 ###### Artículo 28.
 
@@ -491,9 +559,13 @@ l. Intervenir en la materia que les competa en la elaboración del Plan Estatal;
 
 II. Elaborar sus programas que se deriven del plan estatal;
 
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
 III. Elaborar sus programas operativos y presupuesto por programa anual;
 
-IV. Mantener la congruencia de sus programas con el Plan Estatal;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+IV. Asegurar la congruencia de sus programas con el Plan Estatal;
 
 V. Elaborar y rendir ante el Congreso del Estado los informes relativos a sus respectivos programas;
 
@@ -511,7 +583,13 @@ XI. Evaluar anualmente la relación que guarde su respectivo programa y presupue
 
 XII. Actualizar su programa y remitirlo para la consideración del COPLADE;
 
-XIII. Las demás que les confieran esta ley, otras leyes e instrumentos normativos en la materia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE JULIO DE 2017)</small>
+
+XIII. Elaborar los presupuestos para le ejecución de los programas anuales correspondientes con perspectiva de igualdad de género, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE JULIO DE 2017)</small>
+
+XIV. Las demás que les confieran esta ley, otras leyes e instrumentos normativos en la materia.
 
 #### Sección Segunda. De los órganos
 
@@ -525,7 +603,9 @@ Del COPLADE, su naturaleza, integración y atribuciones
 
 El COPLADE es un organismo de carácter técnico y consultivo, dependiente de la Secretaría, cuyo objeto consiste en participar, coordinar, promover y coadyuvar en la formulación, instrumentación, control, seguimiento y evaluación de la planeación en el Estado de Quintana Roo.
 
-Para el desempeño de sus funciones, el COPLADE se apoyará en Subcomités Regionales, Sectoriales, Institucionales y Especiales, cuya integración, organización y funcionamiento se regularán en las Reglas de Operación que al efecto se emitan.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+
+Para el desempeño de sus funciones, el COPLADE se apoyará en Subcomités Regionales, Sectoriales, Institucionales y Especiales, cuya integración, organización y funcionamiento se regularán en el Reglamento que al efecto se emitan (sic).
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2013)</small>
 
@@ -543,7 +623,7 @@ IV. Los Titulares de las Dependencias y Entidades de la Administración Pública
 
 Asimismo, podrán participar como invitados:
 
-V. Un representante del Consejo Estatal;
+V. (DEROGADA, P.O. 4 DE JULIO DE 2017)
 
 VI. Los Titulares de las Delegaciones u Órganos de representación de las Dependencias y Entidades de la Administración Pública Federal, que actúen en la entidad, en el marco de los instrumentos de coordinación que se celebren al respecto;
 
@@ -561,9 +641,9 @@ XI. Los demás que considere el Titular del Poder Ejecutivo.
 
 Contará con un Director Operativo que será el responsable de llevar a cabo todos los compromisos y obligaciones derivados de la coordinación de las actividades de la planeación estatal de desarrollo.
 
-> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
-Para los efectos referidos en el párrafo que antecede, su Director Operativo tendrá las facultades que se determine en las Reglas de Operación, como instrumento normativo de las actividades de dicho organismo.
+Para los efectos referidos en el párrafo que antecede, su Director Operativo tendrá las facultades que se determine (sic) en el Reglamento, como instrumento normativo de las actividades de dicho organismo.
 
 ###### Artículo 31.
 
@@ -591,7 +671,13 @@ X. Evaluar anualmente la relación que guarden los programas y presupuestos de l
 
 XI. Verificar los programas municipales en términos de los convenios de coordinación que se celebren al respecto para tal efecto; y
 
-XII. Las demás que le confieran esta Ley, otras leyes y demás ordenamientos aplicables en la materia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE JULIO DE 2017)</small>
+
+XII. Coordinarse con los Titulares de las representaciones federales en el estado, para verificar que los programas, proyectos y acciones que se desarrollan en la entidad, garanticen su efectiva ejecución, perspectiva de igualdad de género y beneficio social en el marco de la planeación del desarrollo, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE JULIO DE 2017)</small>
+
+XIII. Las demás que le confieran esta Ley, otras leyes y demás ordenamientos aplicables en la materia.
 
 ###### Artículo 32.
 
@@ -599,7 +685,9 @@ Las atribuciones del Titular del Poder Ejecutivo dentro del COPLADE, serán las 
 
 l. Aprobar los Programas Regionales, Sectoriales, Institucionales y Especiales derivados del Plan Estatal;
 
-II. Aprobar los Programas Operativos Anuales de la Administración Pública Estatal;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+II. Aprobar los Programas Anuales de la Administración Pública Estatal;
 
 III. Ordenar la asignación de recursos en el ámbito de su competencia;
 
@@ -657,7 +745,9 @@ l. Intervenir respecto a las materias que les competan, en la formulación, inst
 
 II. Coordinar las actividades que en materia de planeación correspondan a las entidades paraestatales que se agrupen en el sector de cuya coordinación se encarguen;
 
-III. Formular y proponer al Titular del Poder Ejecutivo para su aprobación, por conducto de la Secretaría, sus respectivos Programas Sectoriales y operativos anuales, atendiendo a las previsiones en materia de planeación contenidas en el Plan Estatal y tomando en cuenta las propuestas que le presenten las Entidades Paraestatales del sector correspondiente;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+III. Formular y proponer al Titular del Poder Ejecutivo para su aprobación, por conducto de la Secretaría, sus respectivos Programas Sectoriales y Anuales, atendiendo a las previsiones en materia de planeación contenidas en el Plan Estatal y tomando en cuenta las propuestas que le presenten las Entidades del Sector, así como las opiniones de los grupos sociales y de los pueblos y comunidades indígenas interesados;
 
 IV. Garantizar la congruencia de los Programas Sectoriales con el Plan Estatal y los Planes Municipales, así como con los Programas Regionales, Institucionales y Especiales que determine el Titular del Poder Ejecutivo;
 
@@ -687,7 +777,9 @@ l. Intervenir respecto de las materias que les competen en la elaboración del P
 
 II. Participar en la elaboración de los Programas Sectoriales y Especiales, mediante la presentación de propuestas que procedan en relación con sus funciones y objetivos, a la Dependencia del ramo que coordine el sector correspondiente;
 
-III. Formular y proponer al Titular del Poder Ejecutivo para su aprobación, por conducto de la Secretaría, previo visto bueno de la Dependencia coordinadora de sector, sus respectivos Programas Institucionales y operativos anuales, atendiendo las previsiones contenidas en el Programa Sectorial correspondiente;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+III. Formular y proponer al Titular del Poder Ejecutivo para su aprobación, por conducto de la Secretaría, previo visto bueno de la Dependencia coordinadora de sector, sus respectivos Programas Institucionales y Anuales, atendiendo las previsiones contenidas en el Programa Sectorial correspondiente;
 
 IV. Considerar el ámbito territorial de sus acciones atendiendo a las propuestas de los Subcomités Regionales y los Municipios, a través de la Dependencia coordinadora del sector;
 
@@ -723,7 +815,7 @@ III. Los Titulares de las Dependencias y Entidades de la Administración Públic
 
 Asimismo, podrán participar como invitados:
 
-IV. Un representante del Consejo Municipal;
+IV. (DEROGADA, P.O. 4 DE JULIO DE 2017)
 
 V. Un representante del COPLADE;
 
@@ -817,7 +909,9 @@ VII. Fomentar la participación democrática de la población, para el logro de 
 
 VIII. Formular las iniciativas de leyes de ingresos y aprobar los Presupuestos de Egresos Municipales de acuerdo con los objetivos del Plan Municipal;
 
-IX. Aprobar los programas operativos anuales, para la ejecución de los programas municipales;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+IX. Aprobar los programas anuales, para la ejecución de los programas municipales;
 
 X. Asegurar la congruencia del Plan Municipal con el Plan Estatal y el Plan Nacional de Desarrollo, así como con los Programas Regionales, Sectoriales, Institucionales y Especiales que se deriven de éstos últimos, manteniendo una continuidad programática de mediano y largo plazo;
 
@@ -871,7 +965,9 @@ XI. Verificar periódicamente que las Entidades de la Administración Pública M
 
 XII. Verificar periódicamente la relación que guarden sus actividades, así como los resultados de su ejecución con los objetivos y prioridades de su programa;
 
-XIII. Formular sus programas operativos y presupuesto por programa anual; y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+XIII. Formular sus programas anuales y presupuesto, y
 
 XIV. Las demás que les confieran esta Ley, otras leyes y demás disposiciones normativas aplicables en la materia.
 
@@ -885,7 +981,9 @@ II. Participar en la elaboración de los programas sectoriales y especiales, med
 
 III. Formular y proponer al Ayuntamiento para su aprobación, por conducto del Presidente Municipal, previo visto bueno de la dependencia coordinadora de sector, sus respectivos programas institucionales, atendiendo las previsiones contenidas en el programa sectorial correspondiente;
 
-IV. Formular sus programas operativos y presupuesto por programa anual;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+IV. Formular sus programas anuales y presupuesto;
 
 V. Considerar el ámbito territorial de sus acciones atendiendo a las propuestas de los Subcomités Regionales y los Municipios, a través de la dependencia coordinadora del sector;
 
@@ -945,9 +1043,11 @@ El Plan Municipal es el instrumento normativo de largo plazo, rector del proceso
 
 Los Planes Estatal y Municipales considerarán los propósitos y objetivos de la planeación nacional del desarrollo, determinarán su instrumentación y regirán el contenido de los programas que se generen en el Sistema Estatal.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+
 ###### Artículo 51.
 
-Los Planes Estatal y Municipales respectivamente, indicarán los Programas Regionales, Sectoriales, Institucionales, Especiales y operativos anuales que deberán ser elaborados conforme a este Capítulo.
+Los Planes Estatal y Municipales respectivamente, indicarán los Programas Regionales, Sectoriales, Institucionales, Especiales y anuales que deberán ser elaborados conforme a este Capítulo.
 
 ###### Artículo 52.
 
@@ -957,17 +1057,45 @@ l. Presentación;
 
 II. Introducción;
 
-III. Visión;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
 
-IV. Ejes;
+III. Marco Jurídico;
 
-V. Objetivos estratégicos;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
 
-VI. Estrategias y líneas de acción;
+IV. Diagnóstico;
 
-VII. Programas de desarrollo; y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
 
-VIII. Lineamientos para la evaluación y actualización de planes y programas.
+V. Misión y Visión;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+VI. Ejes;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+VII. Objetivos Estratégicos;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+VIII. Estrategias y Líneas de Acción;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2017)</small>
+
+IX. Indicadores y Metas;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2017)</small>
+
+X. Programas de Desarrollo;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2017)</small>
+
+XI. Lineamientos para la Evaluación y Actualización de Planes y Programas, y
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2017)</small>
+
+XII. Los demás aspectos que sean necesarios para el logro de los objetivos del Plan.
 
 Los rubros temáticos de la estructura de los Planes Estatal y Municipales serán establecidos en las disposiciones reglamentarias correspondientes.
 
@@ -999,7 +1127,9 @@ III. Programas Institucionales;
 
 IV. Programas Especiales; y
 
-V. Programas Operativos Anuales.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+V. Programas Anuales.
 
 ###### Artículo 57.
 
@@ -1017,19 +1147,23 @@ Los Programas Institucionales son los instrumentos normativos que deberán elabo
 
 Los Programas Especiales son los instrumentos normativos que harán referencia a las prioridades del desarrollo integral del Estado y los Municipios fijadas en el Plan Estatal o en los Planes Municipales respectivamente; a las actividades relacionadas con dos o más dependencias coordinadoras de sector, así como a los que dicte, mediante acuerdo, el Titular del Poder Ejecutivo o los Ayuntamientos en el ámbito de sus respectivas competencias.
 
-El COPLADE y el COPLADEMUN formularán Programas Especiales Indígenas, previa consulta a los pueblos indígenas, de conformidad con lo dispuesto en el artículo 2º de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+
+El COPLADE y el COPLADEMUN supervisarán la formulación de Programas Especiales Indígenas, previa consulta a los pueblos indígenas, de conformidad con lo dispuesto en el artículo 2º de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### Artículo 61.
 
-Para la ejecución de los Planes Estatal y Municipales y sus respectivos programas, las autoridades responsables de la planeación, en el ámbito de sus respectivas competencias, elaborarán programas operativos anuales, que incluirán los aspectos administrativos y de política económica y social correspondientes.
+Para la ejecución de los Planes Estatal y Municipales y sus respectivos programas, las autoridades responsables de la planeación, en el ámbito de sus respectivas competencias, elaborarán programas anuales, que incluirán los aspectos administrativos y de política económica, social y perspectiva de igualdad de género correspondientes.
 
-Estos programas operativos anuales, deberán ser congruentes entre sí y tomar en cuenta las medidas para coadyuvar al cumplimiento de los objetivos y prioridades de los planes estatal y municipales y los programas establecidos en esta Ley, regirán las actividades de las autoridades y órganos responsables de la planeación y servirán de base para la integración de los anteproyectos de presupuesto anuales, que las propias autoridades deberán elaborar conforme a la legislación aplicable.
+Estos programas anuales, deberán ser congruentes entre sí y tomar en cuenta las medidas para coadyuvar al cumplimiento de los objetivos y prioridades de los planes estatal y municipales y los programas establecidos en esta Ley, regirán las actividades de las autoridades y órganos responsables de la planeación y servirán de base para la integración de los anteproyectos de presupuesto anuales, que las propias autoridades deberán elaborar conforme a la legislación aplicable.
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### Artículo 62.
 
-La definición de los lineamientos para la formulación de los Programas Operativos Anuales, así como su revisión, serán responsabilidad de la Secretaría cuando se trate de Programas Estatales y, en caso del Municipio, ésta responsabilidad será del Tesorero.
+La definición de los lineamientos para la formulación de los Programas Anuales, así como su revisión, serán responsabilidad de la Secretaría cuando se trate de Programas Estatales y, en caso del Municipio, ésta responsabilidad será del Tesorero.
 
 ###### Artículo 63.
 
@@ -1103,11 +1237,17 @@ El tiempo para la elaboración, validación, aprobación y publicación del Plan
 
 Las Autoridades y Órganos de la Administración Pública Estatal responsables de la elaboración de los programas que le correspondan, son los siguientes:
 
-l. COPLADE: Programas Regionales y Especiales;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
 
-II. Dependencias: Programas Sectoriales; y
+I.- COPLADE: Programas Regionales;
 
-III. Entidades: Programas Institucionales.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+II.- Dependencias: Programas Sectoriales y Especiales que le sean designados, y
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+III.- Entidades: Programas Institucionales y Especiales que le sean designados.
 
 ###### Artículo 74.
 
@@ -1115,19 +1255,31 @@ Las Autoridades y Órganos de la Administración Pública Estatal que elaboren a
 
 En el caso de los Programas Institucionales, deberán ser sometidos para su visto bueno al Titular de la Dependencia Coordinadora de sector, previo a remitirlos a la Secretaría para la validación a que hace referencia el párrafo anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2017)</small>
+
 ###### Artículo 75.
 
-El plazo para la elaboración de los Programas de la Administración Pública Estatal será de tres meses contados a partir de la publicación del Plan Estatal; con excepción del especial que, además del plazo anterior, también podrá ser elaborado en el plazo de tres meses, contados a partir de la publicación del acuerdo mediante el cual se autorice su elaboración por parte de la autoridad competente.
+El plazo para la elaboración de los Programas de la Administración Pública Estatal será de tres meses contados a partir de la publicación del Plan Estatal; con excepción del especial y regional que, además del plazo anterior, también podrá ser elaborado en el plazo de tres y seis meses, respectivamente, contados a partir de la publicación del acuerdo mediante el cual se autorice su elaboración por parte de la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2017)</small>
+
+En caso de existir en el primer periodo comprendido en el párrafo anterior, una publicación de Ley o Decreto en materia administrativa, de reformas, adiciones o derogaciones a disposiciones normativas que modifiquen sustancialmente las atribuciones de las Dependencias y Entidad de Administración Publica en su ámbito Estatal o Municipal, el plazo establecido tendrá una ampliación por excepción de hasta 60 días para la elaboración de los Programas.
 
 ###### Artículo 76.
 
 Las Autoridades y Órganos responsables de la elaboración de los Programas Municipales son las siguientes:
 
-l. COPLADEMUN: Programas Regionales y Especiales;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
 
-II. Dependencias: Programas Sectoriales; y
+I.- COPLADEMUN: Programas Regionales;
 
-III. Entidades: Programas Institucionales.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+II.- Dependencias: Programas Sectoriales y Especiales que le sean designados, y
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+III.- Entidades: Programas Institucionales y Especiales que le sean designados.
 
 ###### Artículo 77.
 
@@ -1139,9 +1291,11 @@ En el caso de los programas institucionales, deberán ser sometidos para su vist
 
 El plazo para la elaboración de los Programas Municipales será de tres meses contados a partir de la publicación del Plan Municipal; con excepción del especial que, además del plazo anterior, también podrá ser elaborado en el plazo de tres meses, contados a partir de la publicación del acuerdo mediante el cual se autorice su elaboración por parte de la autoridad competente.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+
 ###### Artículo 79.
 
-Los Órganos Autónomos, independientemente de la elaboración de sus programas operativos anuales, formulará su programa institucional respectivo.
+Los Órganos Autónomos, independientemente de la elaboración de sus programas anuales, formulará (sic) su programa institucional respectivo.
 
 ###### Artículo 80.
 
@@ -1149,33 +1303,41 @@ Para los Órganos Autónomos, el plazo para la formulación de sus respectivos p
 
 #### Sección Tercera. De la Instrumentación
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+
 ###### Artículo 81.
 
-La Instrumentación, es el conjunto de actividades encaminadas a la formulación y ejecución de los programas operativos en el plazo de un año, en los que los lineamientos, estrategias, líneas de acción y objetivos de corto, mediano y largo plazo establecidos en los Planes Estatal y Municipales y sus programas respectivos, se expresan en términos de objetivos específicos; precisando los mecanismos y acciones que habrán de ponerse en práctica en cada ejercicio, los indicadores estratégicos de evaluación, los recursos que con tal propósito se asignarán a la realización de cada acción prevista; así como la determinación de responsables y tiempos de ejecución.
+La Instrumentación, es el conjunto de actividades encaminadas a la formulación y ejecución de los programas anuales, en el plazo de un año, en los que los lineamientos, estrategias, líneas de acción y objetivos de corto, mediano y largo plazo establecidos en los Planes Estatal y Municipales y sus programas respectivos, se expresan en términos de objetivos específicos; precisando los mecanismos y acciones que habrán de ponerse en práctica en cada ejercicio, los indicadores estratégicos de evaluación, los recursos que con tal propósito se asignarán a la realización de cada acción prevista; así como la determinación de responsables y tiempos de ejecución.
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### Artículo 82.
 
-Las Dependencias y Entidades de la Administración Pública Estatal que elaboren los programas operativos anuales, deberán turnarlos a la Secretaría para validar su compatibilidad con el Plan Estatal y sus programas respectivos, una vez validada la compatibilidad de referencia, los integrará al proyecto de Presupuesto Anual que deberá presentarse ante el Congreso, en términos de la legislación aplicable a la materia.
+Las Dependencias y Entidades de la Administración Pública Estatal que elaboren los programas anuales, deberán turnarlos a la Secretaría para validar su compatibilidad con el Plan Estatal y sus programas respectivos, una vez validada la compatibilidad de referencia, los integrará al proyecto de Presupuesto Anual que deberá presentarse ante el Congreso, en términos de la legislación aplicable a la materia.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### Artículo 83.
 
-Las Dependencias y Entidades de la Administración Pública Municipal que elaboren los programas operativos anuales, deberán turnarlos al Presidente Municipal para validar su compatibilidad con el Plan Municipal y sus programas respectivos, una vez validada la compatibilidad de referencia, este último lo remitirá al Ayuntamiento para su aprobación e integración al proyecto de presupuesto anual correspondiente, en términos de la legislación aplicable a la materia.
+Las Dependencias y Entidades de la Administración Pública Municipal que elaboren los programas anuales, deberán turnarlos al Presidente Municipal para validar su compatibilidad con el Plan Municipal y sus programas respectivos, una vez validada la compatibilidad de referencia, este último lo remitirá al Ayuntamiento para su aprobación e integración al proyecto de presupuesto anual correspondiente, en términos de la legislación aplicable a la materia.
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### Artículo 84.
 
-En el caso de los Órganos Autónomos, una vez elaborados sus programas operativos anuales por sus Unidades Administrativas de Planeación, deberán turnarlos a sus respectivos Órganos de Control Interno para su validación, los cuales una vez hecho lo anterior, los regresarán a sus autoridades representantes, para que los presenten ante la Secretaríay (sic) ésta los integre al proyecto de Presupuesto Anual que deberá presentarse ante el Congreso, en términos de la legislación aplicable a la materia.
+En el caso de los Órganos Autónomos, una vez elaborados sus programas anuales por sus Unidades Administrativas de Planeación, deberán turnarlos a sus respectivos Órganos de Control Interno para su validación, los cuales una vez hecho lo anterior, los regresarán a sus autoridades representantes, para que los presenten ante la Secretaría y ésta los integre al proyecto de Presupuesto Anual que deberá presentarse ante el Congreso, en términos de la legislación aplicable a la materia.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### Artículo 85.
 
-El plazo para la elaboración de los programas operativos anuales será a más tardar en el mes de agosto de cada año.
+El plazo para la elaboración de los programas anuales será a más tardar en el mes de agosto de cada año.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### Artículo 86.
 
-Para optimizar los recursos públicos y maximizar los resultados del programa operativo anual, la etapa de instrumentación se llevará a cabo mediante las siguientes cuatro vertientes:
+Para optimizar los recursos públicos y maximizar los resultados del programa anual, la etapa de instrumentación se llevará a cabo mediante las siguientes cuatro vertientes:
 
 l. Vertiente de obligación;
 
@@ -1207,9 +1369,11 @@ V. Las demás leyes, reglamentos y disposiciones administrativas aplicables.
 
 La vertiente de coordinación es el conjunto de acciones de coordinación, que en materia de planeación se convengan entre los diferentes niveles de Gobierno, en el ámbito de sus respectivas competencias y jurisdicciones, para la consecución de los objetivos de la Planeación Nacional, Estatal y Municipal.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+
 ###### Artículo 90.
 
-Los Gobiernos Estatal y Municipal podrán convenir entre ellos, así como con el Federal, de otros Estados y con Municipios de estos últimos, la coordinación que se requiera, satisfaciendo las formalidades que en cada caso procedan, a efecto de que dichos Gobiernos participen en la planeación estatal del desarrollo y coadyuven, en el ámbito de sus respectivas jurisdicciones, a la consecución de los objetivos de la planeación general; para que los Planes Nacional, Estatal y Municipales tenga (sic) congruencia entre sí y para que los programas operativos de los diferentes ámbitos de gobierno guarden la debida coordinación.
+Los Gobiernos Estatal y Municipal podrán convenir entre ellos, así como con el Federal, de otros Estados y con Municipios de estos últimos, la coordinación que se requiera, satisfaciendo las formalidades que en cada caso procedan, a efecto de que dichos Gobiernos participen en la planeación estatal del desarrollo y coadyuven, en el ámbito de sus respectivas jurisdicciones, a la consecución de los objetivos de la planeación general; para que los Planes Nacional, Estatal y Municipales tenga (sic) congruencia entre sí y para que los programas anuales de los diferentes ámbitos de gobierno guarden la debida coordinación.
 
 ###### Artículo 91.
 
@@ -1295,9 +1459,11 @@ Los convenios que se celebren conforme a esta sección, se considerarán de dere
 
 Los Convenios de coordinación sobre la planeación del desarrollo, que se celebren en los términos de esta sección, deberán publicarse en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+
 ###### Artículo 99.
 
-La vertiente de concertación comprende las acciones que se efectúen en forma negociada entre el Gobierno del Estado, el Gobierno Municipal o ambos y los particulares, organismos, instituciones y representantes del sector social y privado, para promover la participación corresponsable de la sociedad en la solución de sus problemas y demandas; mediante la ejecución conjunta de los Planes Estatal y Municipales y los Programas a que hace referencia esta Ley, cuyos alcances y condiciones se especificarán en los programas operativos anuales.
+La vertiente de concertación comprende las acciones que se efectúen en forma negociada entre el Gobierno del Estado, el Gobierno Municipal o ambos y los particulares, organismos, instituciones y representantes del sector social y privado, para promover la participación corresponsable de la sociedad en la solución de sus problemas y demandas; mediante la ejecución conjunta de los Planes Estatal y Municipales y los Programas a que hace referencia esta Ley, cuyos alcances y condiciones se especificarán en los programas anuales.
 
 ###### Artículo 100.
 
@@ -1415,41 +1581,21 @@ Podrán realizarse foros de consulta popular en los que participarán los Diputa
 
 ###### Artículo 119.
 
-El Consejo Estatal será la instancia permanente para la participación social en materia de planeación del desarrollo, a través del cual la infraestructura de apoyo, conformada por los particulares, organismos, instituciones y representantes del sector social y privado, podrá participar en el proceso de planeación, analizando las políticas de desarrollo y presentando las propuestas que satisfagan sus necesidades comunes.
+(DEROGADO, P.O. 4 DE JULIO DE 2017)
 
 ###### Artículo 120.
 
-El Consejo Estatal aprobará su Reglamento Interno, en el cual establecerá su integración, organización y funcionamiento y realizará sus actividades con los recursos y medios que le proporcionará la Secretaría.
+(DEROGADO, P.O. 4 DE JULIO DE 2017)
 
 ###### Artículo 121.
 
-Las atribuciones del Consejo Estatal serán las siguientes:
+(DEROGADO, P.O. 4 DE JULIO DE 2017)
 
-l. Participar, en coordinación con el COPLADE, los Organismos Autónomos, en las diversas etapas del proceso de planeación;
-
-II. Intervenir en las reuniones del COPLADE, en los términos que establece la presente Ley y su Reglamento;
-
-III. Participar en la vigilancia del cumplimiento y evaluación del Plan Estatal y sus Programas;
-
-IV. Analizar, discutir y elaborar las propuestas sobre la modificación o corrección de desviaciones en la instrumentación del Plan Estatal y sus Programas;
-
-V. Promover la participación de particulares, organismos, instituciones y representantes del sector social y privado;
-
-VI. Analizar, seleccionar y desarrollar las propuestas que le sean presentadas por sus integrantes y, en su caso, remitirlas al COPLADE, para su incorporación en el Plan Estatal, en términos de su procedencia;
-
-VII. Analizar, seleccionar y desarrollar las propuestas que le sean presentadas por sus integrantes y, en su caso, remitirlas al COPLADE, u Órganos Autónomos, de acuerdo a su ámbito de competencia; para su incorporación en los programas que les correspondan, en términos de su procedencia;
-
-VIII. Recoger las opiniones y demandas de los ciudadanos que sustentarán las propuestas para la instrumentación, control, seguimiento, evaluación y actualización del Plan Estatal y sus Programas;
-
-IX. Coadyuvar con el COPLADE y Órganos Autónomos, en la realización de los mecanismos de participación social;
-
-X. Brindar asesoría y capacitación a los particulares, organismos, instituciones y representantes del sector social y privado en materia de planeación; y
-
-XI. Las demás que les confieran esta Ley, otras leyes e instrumentos normativos en la materia.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### Artículo 122.
 
-La participación social en el ámbito municipal operará a través de los Consejos Municipales y demás instancias que sean creadas por los COPLADEMUN, en los términos de las disposiciones legales aplicables.
+La participación social en el ámbito municipal operará a través de las instancias que sean creadas por los COPLADEMUN, en los términos de las disposiciones legales aplicables.
 
 Apartado Segundo
 
@@ -1617,7 +1763,7 @@ DIPUTADO SECRETARIO:
 
 LIC. JUAN CARLOS PALLARES BUENO.
 
-CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTÍCULOS 91, FRACCIÓN II Y 93, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO Y PARA SU DEBIDA OBASERVANCIA, MANDO SE PUBLIQUE EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO, EL DECRETO NÚMERO: 141 POR EL QUE SE APRUEBA LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO. EXPEDIDO POR LA HONORABLE XI LEGISLATURA DEL ESTADO, A LOS VEINTINUEVE DÍAS DEL MES DE MARZO DEL AÑO DOS MIL SIETE. DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS 30 DÍAS DEL MES DE MARZO DEL AÑO DOS MIL SIETE.
+CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTÍCULOS 91, FRACCIÓN II Y 93, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO Y PARA SU DEBIDA OBSERVANCIA, MANDO SE PUBLIQUE EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO, EL DECRETO NÚMERO: 141 POR EL QUE SE APRUEBA LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO. EXPEDIDO POR LA HONORABLE XI LEGISLATURA DEL ESTADO, A LOS VEINTINUEVE DÍAS DEL MES DE MARZO DEL AÑO DOS MIL SIETE. DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS 30 DÍAS DEL MES DE MARZO DEL AÑO DOS MIL SIETE.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE QUINTANA ROO.
 
@@ -1704,3 +1850,13 @@ Vigésimo Sexto. Se derogan todas las disposiciones de igual o menor jerarquía,
 P.O. 30 DE SEPTIEMBRE DE 2015.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 4 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 074 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE PLANEACIÓN PARA EL DESARROLLO DE (SIC) ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se dejan sin efecto todas las disposiciones legales de igual o menor jerarquía que se opongan a la presente ley.
+
+TERCERO. El plazo para la elaboración de los programas regionales, sectoriales, institucionales y especiales, de la Administración Pública Estatal, mismos que fueron reasignados a las autoridades y órganos responsables para su elaboración por medio de la presente Ley, tendrá una ampliación por excepción de 60 días al establecido en el artículo 75 de la presente ley, a fin de que las Dependencias de la Administración Pública Estatal y Municipal puedan realizar las adecuaciones jurídico-administrativas correspondientes.
