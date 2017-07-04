@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-113-de-salud-del-estado-de-veracruz-de-ignacio-9080"
 country: "mx"
 rank: "ley"
 publication_date: "1988-05-17"
-last_updated: "2017-02-17"
+last_updated: "2017-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE JULIO DE 2017.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 17 de mayo de 1988.
 
@@ -260,6 +260,12 @@ Los productos cuyo contenido alcohólico sea mayor de 55 grados G. L. se conside
 (ADICIONADA [N. DE E. REFORMADA], G.O. 9 DE FEBRERO DE 2016) (F. DE E., G.O. 13 DE DICIEMBRE DE 2016)
 
 XVII.- Salud Sexual y Reproductiva: Es el enfoque integral para analizar y responder a las necesidades de hombres y mujeres respecto a la sexualidad y la reproducción, otorgar la capacidad de disfrutar de una vida sexual responsable y sin riesgos, garantizar el derecho de decisión y frecuencia de procrear y fomentar un estado general de bienestar físico, mental y social, en todos los aspectos relacionados con el sistema reproductivo, sus funciones y procesos.
+
+> <small>(ADICIONADA, G.O. 4 DE JULIO DE 2017)</small>
+
+XVIII.- Salud: Estado de completo bienestar físico, mental y social y no solamente la ausencia de afecciones o enfermedades.
+
+Para efectos de complementariedad, el concepto previsto en esta fracción se tendrá por referido a lo dispuesto por el artículo 1° bis de la Ley General de Salud.
 
 ## TITULO SEGUNDO. SISTEMA ESTATAL DE SALUD
 
@@ -3390,3 +3396,11 @@ G.O. 17 DE FEBRERO DE 2017.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 4 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 292 QUE ADICIONA LA FRACCIÓN XVIII AL ARTÍCULO 4° DE LA LEY DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
