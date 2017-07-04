@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2017-05-31"
+last_updated: "2017-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 9 ORGANICA DEL MUNICIPIO LIBRE, VERACRUZ
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE JULIO DE 2017.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -252,8 +254,6 @@ II. No ser ministro de algún culto religioso, a menos que se separe conforme a 
 III. No ser servidor público en ejercicio de autoridad, en los últimos sesenta días anteriores al día de la elección ordinaria, o a partir del quinto día posterior a la publicación de la convocatoria para la elección extraordinaria; y
 
 IV. No tener antecedentes penales por la comisión de delitos realizados con dolo, exceptuando aquellos en los que se hayan concedido los beneficios de conmutación o suspensión condicional de la sanción.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2010)</small>
 
@@ -1807,8 +1807,6 @@ El Congreso del Estado o la Diputación Permanente, en su caso, podrán ordenar 
 
 El Congreso del Estado informará a los Ayuntamientos el resultado de las acciones a que se refiere el párrafo anterior.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 15 DE FEBRERO DE 2010)</small>
 
 #### SECCIÓN TERCERA. DE LA DIRECCIÓN DE OBRAS PÚBLICAS
@@ -1818,8 +1816,6 @@ El Congreso del Estado informará a los Ayuntamientos el resultado de las accion
 ###### Artículo 73 Bis.
 
 Cada Ayuntamiento contará con una Dirección de Obras Públicas, cuyo titular deberá reunir los requisitos establecidos en el artículo 68 de esta Ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
 
@@ -3115,9 +3111,7 @@ La elección de Agentes y Subagentes municipales, es un proceso que se realizar�
 
 ### CAPÍTULO I
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, G.O. 4 DE JULIO DE 2017)</small>
 
 ###### Artículo 186.
 
@@ -3233,27 +3227,19 @@ El dictamen se someterá, dentro de los quince días naturales siguientes, al co
 
 Sometido a su consideración el dictamen, el Ayuntamiento emitirá el acuerdo correspondiente, en vía de opinión y, dentro de los quince días naturales siguientes, remitirá copia del expediente de entrega y recepción al Congreso del Estado a través de la Secretaria de Fiscalización, para el efecto de revisión de las cuentas públicas municipales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.O. 15 DE FEBRERO DE 2010)</small>
 
 ## TÍTULO DÉCIMO. DE LA PLANEACIÓN MUNICIPAL Y DE LA CONTRALORÍA SOCIAL
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 15 DE FEBRERO DE 2010)</small>
 
 ### CAPÍTULO II
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 191.
 
-El Consejo de Planeación para el Desarrollo Municipal es un órgano de participación ciudadana y consulta, auxiliar del Ayuntamiento en las funciones relativas a la planeación, integrado por ciudadanos distinguidos y organizaciones sociales, representativas de los sectores público, social y privado del municipio, designados por el Cabildo, a propuesta del Presidente Municipal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+El Consejo de Planeación para el Desarrollo Municipal es un órgano de Participación Ciudadana y Consulta, auxiliar del Ayuntamiento en las funciones relativas a la planeación, integrado por ciudadanos, organizaciones sociales y los sectores público y privado del municipio, designados por el Cabildo, que serán invitados mediante Convocatoria Pública.
 
 > <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
 
@@ -3279,8 +3265,6 @@ VII. Emitir opinión respecto de las consultas que en las materias relacionadas 
 
 VIII. Formar comisiones de estudio sobre asuntos determinados, relacionados con la planeación municipal y metropolitana, si fuera el caso.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 193.
@@ -3289,15 +3273,11 @@ Los Ayuntamientos deberán elaborar, en forma democrática y participativa, sus 
 
 Los Planes Municipales de Desarrollo se publicarán en la Gaceta Oficial del estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 194.
 
 La formulación, aprobación, ejecución, control y evaluación del Plan y Programas Municipales estarán a cargo de los órganos, dependencias o servidores públicos que determinen los Ayuntamientos, conforme a las normas legales de la materia y las que cada Cabildo determine.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
 
@@ -3319,8 +3299,6 @@ V. Aplicar de manera racional los recursos financieros para el cumplimiento del 
 
 VI. Propiciar la igualdad de oportunidades entre las mujeres y los hombres del municipio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 196.
@@ -3333,15 +3311,11 @@ El Plan de Desarrollo Municipal contendrá, por lo menos, un diagnóstico sobre 
 
 El Plan de Desarrollo Municipal se complementará con programas anuales sectoriales de la administración municipal y, en su caso, con el Programa Sectorial de Desarrollo Metropolitano Municipal, así como por los posprogramas especiales de los organismos desconcentrados y descentralizados de carácter municipal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 198.
 
 Los Ayuntamientos, en términos de esta Ley y demás disposiciones aplicables, podrán convenir con los de otros municipios del Estado o de otras Entidades Federativas, la elaboración conjunta de planes de desarrollo para las regiones en las que se ubiquen.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
 
@@ -3349,15 +3323,11 @@ Los Ayuntamientos, en términos de esta Ley y demás disposiciones aplicables, p
 
 En la elaboración del Plan de Desarrollo Municipal, cada Ayuntamiento proveerá lo necesario para promover la participación y consulta popular.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 200.
 
 El Plan de Desarrollo Municipal y los programas que de éste se deriven, serán obligatorios para las dependencias de la administración pública municipal, y en general para las entidades públicas de carácter municipal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
 
@@ -3365,15 +3335,11 @@ El Plan de Desarrollo Municipal y los programas que de éste se deriven, serán 
 
 Los planes y programas podrán ser modificados mediante el mismo procedimiento requerido para su elaboración, aprobación y publicación, cuando así lo demande el interés ciudadano o las necesidades de carácter técnico o económico.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 15 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 202.
 
 Los Ayuntamientos promoverán la constitución de Comités de Contraloría Social, que serán responsables de supervisar la obra pública municipal. Para cada obra se constituirá un Comité de Contraloría Social, salvo que las características técnicas o las dimensiones de la obra exijan la integración de más de uno.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
 
@@ -3382,8 +3348,6 @@ Los Ayuntamientos promoverán la constitución de Comités de Contraloría Socia
 Los Comités de Contraloría Social estarán integrados por tres vecinos de la localidad en la que se construya la obra, quienes serán elegidos en asamblea general por los ciudadanos beneficiados por aquélla.
 
 El cargo de integrante del Comité será honorífico. No podrán ser integrantes de los Comités los dirigentes de organizaciones políticas o servidores públicos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
 
@@ -3974,3 +3938,9 @@ G.O. 31 DE MAYO DE 2017.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 4 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 293 QUE REFORMA EL ARTÍCULO 191 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
