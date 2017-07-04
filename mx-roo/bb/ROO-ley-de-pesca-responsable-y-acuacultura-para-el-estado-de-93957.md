@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-pesca-responsable-y-acuacultura-para-el-estado-de-93957"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-09"
-last_updated: "2013-04-09"
+last_updated: "2017-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE PESCA RESPONSABLE Y ACUACULTURA PARA EL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2017.
 
 Ley publicada en el Número 21 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 9 de abril de 2013.
 
@@ -95,7 +95,7 @@ IX.- Guía de pesca: El documento que ampara el transporte por vía terrestre, m
 
 X.- Inocuidad: La garantía de que el consumo de los productos pesqueros y acuícolas, se encuentren libres de contaminación;
 
-XI.- Instituto: El Instituto de Pesca y Acuacultura del Estado de Quintana Roo;
+XI.- (DEROGADA, P.O. 4 DE JULIO DE 2017)
 
 XII.- Ley: La Ley de Pesca Responsable y Acuacultura para el Estado de Quintana Roo;
 
@@ -127,11 +127,15 @@ XXV.- Repoblación: El acto de introducir organismos acuáticos vivos nativos en
 
 XXVI.- Sanidad: El conjunto de acciones, prácticas, procedimientos y medidas establecidas en normas oficiales, encaminadas a la prevención, diagnóstico, control y erradicación de las enfermedades que afectan a dichas especies;
 
-XXVII.- Sistema Estatal: El Sistema Estatal de Información Pesquera y Acuícola;
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2017)</small>
 
-XXVIII.- Veda: El acto administrativo por el que se prohíbe llevar a cabo la pesca en un período o zona específica, establecido mediante acuerdos o normas oficiales, con el fin de resguardar los procesos de reproducción y reclutamiento de una especie; y
+XXVII. Secretaría: La Secretaría de Desarrollo Agropecuario, Rural y Pesca;
 
-XXIX.- Zona de escasa prevalencia: Área geográfica determinada en donde se presenta una frecuencia mínima de casos recientes de una enfermedad en especies acuáticas, en una especie y período específicos.
+XXVIII. Sistema Estatal: El Sistema Estatal de Información Pesquera y Acuícola;
+
+XXIX. Veda: El acto administrativo por el que se prohíbe llevar a cabo la pesca en un periodo o zona específica, establecido mediante acuerdos o normas oficiales, con el fin de resguardar los procesos de reproducción y reclutamiento de una especie, y
+
+XXX. Zona de Escasa prevalencia: Área geográfica determinada en donde se presenta una frecuencia mínima de casos recientes de una enfermedad en especies acuáticas, en una especie y periodos específicos.
 
 ###### Artículo 5.
 
@@ -143,7 +147,9 @@ A falta de disposición expresa en esta Ley, se estará a lo dispuesto en la Con
 
 El Estado y los Municipios ejercerán sus atribuciones en materia de pesca y acuacultura sustentables de conformidad con la distribución de competencias prevista en esta Ley y en otros ordenamientos legales aplicables.
 
-La aplicación de la presente Ley corresponde al Poder Ejecutivo a través del Instituto.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+
+La aplicación de la presente Ley corresponde al Poder Ejecutivo a través de la Secretaría.
 
 ###### Artículo 7.
 
@@ -155,9 +161,11 @@ II.- Los Ayuntamientos.
 
 El Poder Ejecutivo y los Ayuntamientos en el ámbito de sus competencias, y para el ejercicio de sus atribuciones observarán y aplicarán los principios generales a que se refiere el artículo 17 de la Ley General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2017)</small>
+
 ###### Artículo 8.
 
-El Poder Ejecutivo, a través del Instituto, tendrá las siguientes atribuciones:
+El Poder Ejecutivo, a través de la Secretaría, tendrá las siguientes atribuciones:
 
 I. Diseñar y aplicar la política, los instrumentos y los programas para la pesca y la acuacultura estatal, en concordancia con la Política Nacional de Pesca y Acuacultura Sustentables, vinculándolos con los programas nacionales, sectoriales y regionales, así como con su respectivo Plan Estatal de Desarrollo;
 
@@ -197,11 +205,15 @@ XVI. Las demás que no estén otorgadas expresamente a la Federación y que se d
 
 El Poder Ejecutivo del Estado, para la consecución de los fines de la presente Ley, podrá celebrar convenios o acuerdos de coordinación en materia de pesca y acuacultura conforme a la Ley General, con la Federación.
 
-Cuando, por razón de la materia se requiera la intervención de otras dependencias, el Instituto ejercerá sus atribuciones en coordinación con las mismas.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+
+Cuando, por razón de la materia se requiera la intervención de otras dependencias, la Secretaría ejercerá sus atribuciones en coordinación con las mismas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### Artículo 10.
 
-El Poder Ejecutivo del Estado, a través del Instituto, derivado de los convenios o acuerdos, podrá ejercer las siguientes funciones en materia de pesca y acuacultura:
+El Poder Ejecutivo del Estado, a través de la Secretaría, derivado de los convenios o acuerdos, podrá ejercer las siguientes funciones en materia de pesca y acuacultura:
 
 I.- La administración de los permisos para la realización de pesca deportiva y recreativa;
 
@@ -257,7 +269,9 @@ Las medidas, programas e instrumentos económicos relativos al desarrollo de la 
 
 El Estado, con la colaboración de los productores pesqueros y acuícolas, en coordinación con los Municipios y otras instituciones públicas formulará, operará y evaluará el Programa Integral de Inspección y Vigilancia Pesquera y Acuícola para el Combate a la Pesca Ilegal, especialmente en las zonas sobreexplotadas y de repoblación, para enfrentarla con diversas acciones, así como para prevenir actos sancionados por la presente Ley y otras disposiciones aplicables.
 
-El Instituto dispondrá de los recursos humanos, técnicos, financieros y materiales necesarios para la ejecución de las acciones previstas en el Programa Integral de Inspección y Vigilancia Pesquera y Acuícola para el Combate a la Pesca Ilegal y promoverá la participación de las demás dependencias y entidades de la Administración Pública Estatal y de los Municipios, en los términos de la distribución de competencias y de los acuerdos o convenios que para tal efecto se celebren.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+
+La Secretaría dispondrá de los recursos humanos, técnicos, financieros y materiales necesarios para la ejecución de las acciones previstas en el Programa Integral de Inspección y Vigilancia Pesquera y Acuícola para el Combate a la Pesca Ilegal y promoverá la participación de las demás dependencias y entidades de la Administración Pública Estatal y de los Municipios, en los términos de la distribución de competencias y de los acuerdos o convenios que para tal efecto se celebren.
 
 ### CAPÍTULO V. Del Consejo de Pesca y Acuacultura
 
@@ -271,15 +285,21 @@ El Consejo se integrará de la siguiente forma:
 
 I. Un Presidente, que será el titular del Poder Ejecutivo;
 
-II. Un Vicepresidente, que será el titular de la Secretaría de Desarrollo Económico, quien fungirá como suplente en ausencia del Presidente;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
 
-III. Un Secretario Técnico, que será el titular del Instituto;
+II.- Un Vicepresidente, que será el Titular de la Secretaría de Desarrollo Agropecuario, Rural y Pesca, quien fungirá como suplente en ausencia del Presidente;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+III.- Un Secretario Técnico, que será un Representante de la Secretaría de Desarrollo Agropecuario, Rural y Pesca con nivel inmediato inferior al del Titular;
 
 IV. El titular de la Secretaría de Medio Ambiente;
 
 VI (SIC). El titular de la Procuraduría del Medio Ambiente;
 
-VII. Un representante de la Secretaría de Desarrollo Agropecuario, Rural e Indígena;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+VII.- El Titular de la Secretaría de Turismo;
 
 VIII. Un Diputado integrante de la Comisión de Desarrollo Rural y Pesquero del H. Congreso del Estado;
 
@@ -317,7 +337,9 @@ III.- Promover la coordinación entre la autoridad federal, estatal y municipal,
 
 IV.- Proponer a la autoridad competente mecanismos de participación ordenada en las actividades de pesca y acuacultura en el Estado, sin contravenir las disposiciones legales, normativas y administrativas aplicables; y
 
-V.- Coadyuvar con el Instituto en los mecanismos de participación de los productores dedicados a las actividades pesqueras y acuícolas.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+V.- Coadyuvar con la Secretaría en los mecanismos de participación de los productores dedicados a las actividades pesqueras y acuícolas.
 
 ###### Artículo 19.
 
@@ -327,15 +349,21 @@ El Consejo sesionará en forma ordinaria al menos una vez cada tres meses y en f
 
 Las demás funciones del Consejo se harán de acuerdo a lo establecido en los términos que dicte el Reglamento de la presente Ley.
 
-### CAPÍTULO VI. Del Instituto de Pesca y Acuacultura
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE JULIO DE 2017)</small>
+
+### CAPÍTULO VI. De la Secretaría de Desarrollo Agropecuario, Rural y Pesca
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### Artículo 21.
 
-El Instituto es un organismo descentralizado de la Administración Pública Paraestatal, auxiliar del Poder Ejecutivo, con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría de Desarrollo Económico.
+La Secretaría de Desarrollo Agropecuario Rural y Pesca forma parte de la Administración Pública Central.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### Artículo 22.
 
-El Instituto tendrá las siguientes facultades y obligaciones:
+La Secretaría tendrá las siguientes facultades y obligaciones:
 
 I. Proponer, y ejecutar la Política de Pesca y Acuacultura en el Estado, en congruencia con la Política Nacional en la materia;
 
@@ -375,19 +403,15 @@ XVIII. Las demás que le atribuyan las leyes, reglamentos, decretos y acuerdos s
 
 ###### Artículo 23.
 
-El titular del Instituto, será nombrado y en su caso removido por el Gobernador del Estado, debiendo reunir además de los requisitos mencionados en la Ley Orgánica de la Administración Pública del Estado de Quintana Roo, los siguientes:
-
-I. Contar con título profesional de estudios, preferentemente de posgrado, y preponderantemente en el área de la pesca o acuacultura;
-
-II. Tener cuando menos veinticinco años de edad cumplidos;
-
-III. Contar, preferentemente, con experiencia en el campo de la investigación científica y o la docencia, en las áreas que comprendan la pesca y la acuacultura.
+(DEROGADO, P.O. 4 DE JULIO DE 2017)
 
 ### CAPÍTULO VII. Del Fomento a la Pesca
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2017)</small>
+
 ###### Artículo 24.
 
-El Instituto, en coordinación con las dependencias y entidades de la Administración Pública Estatal competentes, y en lo que corresponda, con los Municipios, realizará las acciones necesarias para fomentar y promover el desarrollo de la pesca y la acuacultura, en todas sus modalidades y niveles de inversión, y para tal efecto:
+La Secretaría, en coordinación con las dependencias y entidades de la Administración Pública Estatal competentes, y en lo que corresponda, con los Municipios, realizará las acciones necesarias para fomentar y promover el desarrollo de la pesca y la acuacultura, en todas sus modalidades y niveles de inversión, y para tal efecto:
 
 I.- Coadyuvará con las instituciones dedicadas a la investigación en reproducción, genética, nutrición, sanidad y extensionismo, entre otros, para apoyar a las personas y organizaciones que se dediquen a esas actividades;
 
@@ -445,9 +469,11 @@ V. El Contribuir con las autoridades competentes para el establecimiento de medi
 
 ### CAPÍTULO IX. Del Programa Estatal de Pesca Responsable y Acuacultura
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+
 ###### Artículo 26.
 
-El Programa Estatal de Pesca Responsable y Acuacultura deberá emitirse en congruencia con el Plan Nacional de Desarrollo, Programa Nacional de Pesca y Acuacultura, Plan Estatal de Desarrollo así como de aquellos que incidan en el ordenamiento del desarrollo pesquero y acuícola en el Estado. Será autorizado por el Ejecutivo del Estado, previa elaboración y análisis del Instituto.
+El Programa Estatal de Pesca Responsable y Acuacultura deberá emitirse en congruencia con el Plan Nacional de Desarrollo, Programa Nacional de Pesca y Acuacultura, Plan Estatal de Desarrollo, así como de aquellos que incidan en el ordenamiento del desarrollo pesquero y acuícola en el Estado. Será autorizado por el Ejecutivo del Estado, previa elaboración y análisis de la Secretaría.
 
 ###### Artículo 27.
 
@@ -477,9 +503,11 @@ XI.- Elaboración de estudios o diagnóstico dinámico de las poblaciones pesque
 
 ### CAPÍTULO X. Del Sistema Estatal de Información Pesquera y Acuícola
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+
 ###### Artículo 28.
 
-El Instituto integrará el Sistema Estatal, que tendrá por objeto organizar, actualizar y difundir la información sobre actividades del sector que se desarrollen en el Estado.
+La Secretaría integrará el Sistema Estatal, que tendrá por objeto organizar, actualizar y difundir la información sobre actividades del sector que se desarrollen en el Estado.
 
 ###### Artículo 29.
 
@@ -501,15 +529,19 @@ VII.- El anuario estadístico de pesca y acuacultura; y,
 
 VIII.- Las demás que considere el Instituto relacionadas con el sector pesquero y acuícola.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+
 ###### Artículo 30.
 
-El Instituto, de conformidad con lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo, deberá difundir la información señalada en el artículo anterior.
+La Secretaría, de conformidad con lo establecido en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Quintana Roo, deberá difundir la información señalada en el artículo anterior.
 
 ### CAPÍTULO XI. Del Registro Estatal de Pesca y Acuacultura
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2017)</small>
+
 ###### Artículo 31.
 
-El Registro Estatal estará a cargo del Instituto, tendrá carácter público y tiene por objeto la inscripción, organización, difusión y actualización obligatoria de la siguiente información relativa a la actividad pesquera y acuícola:
+El Registro Estatal estará a cargo de la Secretaría, tendrá carácter público y tiene por objeto la inscripción, organización, difusión y actualización obligatoria de la siguiente información relativa a la actividad pesquera y acuícola:
 
 I.- Las personas físicas o morales que se dediquen a la pesca y la acuacultura en el Estado, con excepción de las personas físicas que realicen actividades de pesca para consumo doméstico;
 
@@ -529,21 +561,29 @@ VII.- Las escuelas pesqueras y los centros dedicados a la investigación o ense�
 
 VIII.- Las personas físicas que realicen actividades de pesca deportiva a través de torneos organizados en el Estado.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+
 ###### Artículo 32.
 
-El Instituto expedirá el certificado de registro correspondiente. Los Ayuntamientos contribuirán a la integración, actualización y funcionamiento del Registro, en la forma y términos que establezcan las disposiciones reglamentarias.
+La Secretaría expedirá el certificado de registro correspondiente. Los Ayuntamiento contribuirán a la integración, actualización y funcionamiento del Registro, en la forma y términos que establezcan las disposiciones reglamentarias.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### Artículo 33.
 
-El Instituto en forma semestral, remitirá la información del Registro Estatal a la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación del gobierno federal, para la actualización del Registro Nacional.
+La Secretaría en forma semestral, remitirá la información del Registro Estatal a la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación del gobierno federal, para la actualización del Registro Nacional.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### Artículo 34.
 
-Las personas físicas o morales que se dediquen a las actividades reguladas por esta Ley, están obligados a registrarse ante el Instituto, para la Integración y actualización del Registro Estatal.
+Las personas físicas o morales que se dediquen a las actividades reguladas por esta Ley, están obligados a registrarse ante la Secretaría, para la integración y actualización del Registro Estatal.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### Artículo 35.
 
-El Estado, a través del Instituto, integrará una Red de Información Acuícola, que concentrará la información de los diversos organismos y entidades respecto a esta actividad e incluirá, entre otros, la identificación de las especies y ubicación de áreas apropiadas para la acuacultura, los planes de ordenamiento, y en su caso, los estudios de factibilidad realizados, los resultados de los proyectos de investigación, así como las estadísticas de producción e información de precios, oferta y demanda de los productos acuícolas.
+El Estado, a través de la Secretaría, integrará una Red de Información Acuícola, que concentrará la información de los diversos organismos y entidades respecto a esta actividad e incluirá, entre otros, la identificación de las especies y ubicación de áreas apropiadas para la acuacultura, los planes de ordenamiento, y en su caso, los estudios de factibilidad realizados, los resultados de los proyectos de investigación, así como las estadísticas de producción e información de precios, oferta y demanda de los productos acuícolas.
 
 ###### Artículo 36.
 
@@ -551,17 +591,23 @@ La organización y funcionamiento del Registro se determinarán en las disposici
 
 ### CAPÍTULO XII. De las concesiones y permisos de Pesca y Acuacultura
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+
 ###### Artículo 37.
 
-El Estado a través del Instituto podrá otorgar concesiones y permisos para la realización de actividades pesqueras y acuícolas previstas en la presente Ley, previo el cumplimiento de los requisitos establecidos en la misma y conforme a los planes, según corresponda.
+El Estado a través de la Secretaría podrá otorgar concesiones y permisos para la realización de actividades pesqueras y acuícolas previstas en la presente Ley, previo el cumplimiento de los requisitos establecidos en la misma y conforme a los panes, según corresponda.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### Artículo 38.
 
-Se requiere permiso del Instituto para la realización de Pesca en su modalidad Deportivo-recreativa.
+Se requiere permiso de la Secretaría para la realización de pesca en su modalidad deportivo- recreativa.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### Artículo 39.
 
-No se requerirá concesión o permiso del Instituto para realizar pesca de consumo doméstico, su resultado, no podrá comercializarse.
+No se requerirá concesión o permiso de la Secretaría para realizar pesca de consumo doméstico, su resultado, no podrá comercializarse.
 
 Sólo podrá efectuarse con redes y líneas manuales que pueda utilizar individualmente el pescador, observando y respetando las vedas y las Normas Oficiales que expida la autoridad federal en la materia.
 
@@ -577,9 +623,11 @@ II. Cumplir con las especificaciones contenidas en la concesión o en su caso, e
 
 III. Las demás que se establezcan en esta Ley y en las demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+
 ###### Artículo 41.
 
-Las concesiones y los permisos que otorgue el Instituto serán personales e intransferibles y no podrá constituirse sobre ellos ningún gravamen en el Reglamento de la presente Ley se regulará el procedimiento mediante el cual se entregue la concesión o el permiso y en su caso, la revocación de los mismos.
+Las concesiones y los permisos que otorgue la Secretaría serán personales e intransferibles y no podrá constituirse sobre ellos ningún gravamen en el Reglamento de la presente Ley se regulará el procedimiento mediante el cual se entregue la concesión o el permiso y en su caso, la revocación de los mismos.
 
 #### SECCIÓN I. De la pesca deportivo - recreativa
 
@@ -609,9 +657,11 @@ Los permisos de pesca deportivo-recreativa tendrán una vigencia desde un día h
 
 Quienes realicen pesca deportivo-recreativa no deberán comercializar los recursos pesqueros capturados al amparo del permiso correspondiente.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+
 ###### Artículo 46.
 
-El Instituto podrá promover y organizar torneos de pesca deportivo-recreativa. Las personas interesadas en participar en dichos torneos tendrán que tramitar el permiso correspondiente.
+La Secretaría podrá promover y organizar torneo de pesca deportivo-recreativa. Las personas interesadas en participar en dichos torneos tendrán que tramitar el permiso correspondiente.
 
 #### SECCIÓN II. De la Pesca Comercial
 
@@ -655,9 +705,11 @@ XVII. Vincular las actividades científicas con el proceso productivo y la explo
 
 ### CAPÍTULO XIII. De la Propiedad y Legal Procedencia
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+
 ###### Artículo 48.
 
-Al Instituto le corresponde coadyuvar con las autoridades federales en las disposiciones de acreditación de la legal propiedad de los productos pesqueros y acuícolas en la entidad, regulados conforme a la Ley General, según corresponda, en los términos y requisitos establecidos en los convenios respectivos.
+A la Secretaría le corresponde coadyuvar con las autoridades federales en las disposiciones de acreditación de la legal propiedad de los productos pesqueros y acuícolas en la entidad, regulados conforme a la Ley General, según corresponda, en los términos y requisitos establecidos en los convenios respectivos.
 
 ###### Artículo 49.
 
@@ -691,17 +743,21 @@ El Estado podrá establecer un plan de manejo acuícola, como instrumentos de pl
 
 ### CAPÍTULO XV. De la Sanidad, Calidad e Inocuidad
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+
 ###### Artículo 54.
 
-El Instituto participará en coordinación con las autoridades federales en el desarrollo de las medidas necesarias para la protección y combate permanente de las enfermedades, buscando con ello, la conservación de la salud humana, induciendo el cumplimiento de las disposiciones legales y las medidas de seguridad y sanidad establecidas.
+La Secretaría participará en coordinación con las autoridades federales en el desarrollo de las medidas necesarias para la protección y combate permanente de las enfermedades, buscando con ello, la conservación de la salud humana, induciendo el cumplimiento de las disposiciones legales y las medidas de seguridad y sanidad establecidas.
 
 ###### Artículo 55.
 
 Para la coordinación y aplicación de las medidas sanitarias, se atenderá a la declaratoria emitida por la autoridad federal competente del estatus sanitario que corresponda, como zona libre, zona en vigilancia, zona de escasa prevalencia o zona infectada con relación a las especies acuáticas de la entidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2017)</small>
+
 ###### Artículo 56.
 
-El Instituto podrá participar en la medida de su competencia con propuestas en la integración de las normas oficiales con relación a los siguientes asuntos:
+La Secretaría podrá participar en la medida de su competencia con propuestas en la integración de las normas oficiales con relación a los siguientes asuntos:
 
 I. Campañas sanitarias, entendidas como el conjunto de medidas para prevenir, controlar o erradicar enfermedades de las especies acuáticas vivas en un área o zona determinada;
 
@@ -719,9 +775,11 @@ Ante la presencia de enfermedades en las especies acuáticas vivas en un área o
 
 ### CAPÍTULO XVI. De la Inspección y Vigilancia
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+
 ###### Artículo 58.
 
-Para verificar y comprobar el cumplimiento de esta Ley, sus disposiciones reglamentarias, las normas oficiales que de ella deriven, el Instituto conforme a su competencia realizará los actos de inspección y vigilancia, por conducto del personal debidamente autorizado.
+Para verificar y comprobar el cumplimiento de esta Ley, sus disposiciones reglamentarias, las normas oficiales que de ella deriven, la Secretaría conforme a su competencia realizará los actos de inspección y vigilancia, por conducto del personal debidamente autorizado.
 
 ###### Artículo 59.
 
@@ -729,15 +787,19 @@ En las labores de inspección y vigilancia del cumplimiento de esta Ley y de las
 
 Los elementos que arrojen los instrumentos a que se refiere este Artículo se considerarán como medios de prueba, y tendrán el valor probatorio que se determine en las disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+
 ###### Artículo 60.
 
-Corresponderá al Instituto, la inspección y vigilancia del cumplimiento de la Ley General y demás disposiciones que de ella deriven, conforme a los acuerdos de coordinación que se establezcan con la autoridad federal competente en la materia.
+Corresponderá a la Secretaría, la inspección y vigilancia del cumplimiento de la Ley General y demás disposiciones que de ella deriven, conforme a los acuerdos de coordinación que se establezcan con la autoridad federal competente en la materia.
 
 ### CAPÍTULO XVII. De las Infracciones, Sanciones y Medios de Defensa
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2017)</small>
+
 ###### Artículo 61.
 
-Las infracciones a los preceptos de esta Ley y sus reglamentos, se sancionarán administrativamente por el Instituto conforme a su competencia y serán:
+Las infracciones a los preceptos de esta Ley y sus reglamentos, se sancionarán administrativamente por la Secretaría conforme a su competencia y serán:
 
 I.- Amonestación con apercibimiento;
 
@@ -751,9 +813,11 @@ Las sanciones administrativas a que se refiere el artículo anterior se aplicar�
 
 Los criterios de la imposición de las sanciones y sus correspondientes infracciones a que se refiere el artículo anterior, será conforme lo establezca el reglamento de ésta Ley.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+
 ###### Artículo 63.
 
-Los interesados afectados por los actos o resoluciones del Instituto podrán interponer el recurso dispuesto en la Ley de Procedimiento Administrativo del Estado de Quintana Roo.
+Los interesados afectados por los actos o resoluciones de la Secretaría podrán interponer el recurso dispuesto en la Ley de Procedimiento Administrativo del Estado de Quintana Roo.
 
 ARTÍCULOS TRANSITORIOS:
 
@@ -788,3 +852,25 @@ M. EN A. JOSÉ GABRIEL CONCEPCIÓN MENDICUTI LORÍA.
 EL SECRETARIO DE DESARROLLO ECONOMICO DEL ESTADO DE QUINTANA ROO.
 
 ING. FRANCISCO JAVIER DÍAZ CARVAJAL.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 077 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PESCA RESPONSABLE Y ACUACULTURA PARA EL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- La Secretaría de Desarrollo Agropecuario, Rural y Pesca cuenta con un plazo de treinta días hábiles contados a partir de la fecha de instalación, para la expedición del Reglamento Interior y de noventa días para los Manuales de Organización y Procedimientos.
+
+TERCERO.- Se establece un plazo de treinta días hábiles contados a partir de la fecha de publicación del presente Decreto, para que el Titular del Poder Ejecutivo determine la adecuación y armonización del marco jurídico de las dependencias implicadas, que con motivo del presente Decreto corresponda.
+
+CUARTO.- Los compromisos, programas y procedimientos administrativos y/o legales que, en materia de pesca y acuacultura, correspondían a la Secretaría de Desarrollo Económico a la entrada en vigor del presente Decreto, serán transferidos y asumidos por la Secretaría de Desarrollo Agropecuario, Rural y Pesca.
+
+QUINTO.- Los órganos administrativos, con sus recursos humanos, materiales y financieros, que, a la entrada en vigor del presente Decreto, se encuentren asignados a la Secretaría de Desarrollo Económico, serán transferidos a la Secretaría de Desarrollo Agropecuario, Rural y Pesca.
+
+SEXTO.- El personal de la Secretaría de Desarrollo Económico, que en aplicación de este Decreto pase a la Secretaría de Desarrollo Agropecuario, Rural y Pesca en ninguna forma resultarán afectados en los derechos y prestaciones laborales que hayan adquirido con motivo de su relación laboral con la Administración Pública Estatal.
+
+SÉPTIMO.- El Gobierno del Estado deberá hacer las previsiones presupuestales necesarias para la operación el cumplimiento del presente Decreto, para ello la Secretaría de Finanzas y Planeación deberá realizar los ajustes necesarios tendientes a que el presupuesto otorgado a la Secretaría de Desarrollo Económico para el ejercicio fiscal 2017, sea transferido a la Secretaría de Desarrollo Agropecuario, Rural y Pesca, y las previsiones presupuestales en el proyecto de presupuesto de egresos correspondiente al próximo ejercicio fiscal, así como prever lo correspondiente para los ejercicios presupuestales subsecuentes.
+
+OCTAVO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
