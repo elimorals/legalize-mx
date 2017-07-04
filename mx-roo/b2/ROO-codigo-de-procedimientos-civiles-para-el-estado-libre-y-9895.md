@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-procedimientos-civiles-para-el-estado-libre-y-9895"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-01-08"
-last_updated: "2015-07-24"
+last_updated: "2017-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9895&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ROO"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO ÚNICO DEL DECRETO NÚMERO 150, PUBLICADO EN EL P.O. DE 14 DE NOVIEMBRE DE 2014, EL PROCEDIMIENTO ORAL EN MATERIA CIVIL, PREVISTO EN EL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, ENTRA EN VIGOR EN EL DISTRITO JUDICIAL DE CHETUMAL, CON CABECERA EN LA CIUDAD DEL MISMO NOMBRE, EL CUAL COMPRENDE LA CIRCUNSCRIPCIÓN TERRITORIAL DEL MUNICIPIO DE OTHÓN P. BLANCO Y BACALAR DEL ESTADO DE QUINTANA ROO, CUANDO EL PRESENTE DECRETO SE PUBLIQUE EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUINTANA ROO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el jueves 8 de enero de 1981.
 
@@ -6143,8 +6143,6 @@ En todo lo no previsto regirán las reglas generales de este Código en cuanto n
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO VÉASE TRANSITORIO PRIMERO; RESPECTO A LA ENTRADA EN VIGOR DE LOS PROCEDIMIENTOS ORALES EN MATERIA FAMILIAR ESTABLECIDOS EN LAS FRACCIONES I, II, III, IV, V Y X VÉASE TRANSITORIOS PRIMERO Y SEGUNDO; Y EN CUANTO A LA ENTRADA EN VIGOR DE LOS PROCEDIMIENTOS ORALES EN MATERIA CIVIL ESTABLECIDOS EN LAS FRACCIONES VI A LA IX VÉASE TRANSITORIO TERCERO, TODOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, P.O. 30 DE AGOSTO DE 2013.</small>
-
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 888.
@@ -6193,7 +6191,9 @@ En todos estos casos se le dará intervención al Ministerio Público.
 
 Se sujetarán al procedimiento oral:
 
-I. Las controversias que se susciten con motivo de alimentos y convivencia de menores, cuando éstas constituyan el objeto de la acción principal;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+I. Las controversias que se susciten con motivo de alimentos, custodia y convivencia de menores, cuando éstas constituyan el objeto de la acción principal;
 
 II. Las solicitudes de divorcio por mutuo consentimiento;
 
@@ -6203,7 +6203,9 @@ III. Los actos de jurisdicción que versen sobre enajenación de bienes de menor
 
 IV. Las nulidades y rectificaciones de actas del estado civil;
 
-V. Las solicitudes del divorcio incausado;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
+V. Las solicitudes de divorcio unilateral;
 
 VI. Los medios preparatorios a juicio oral;
 
@@ -7141,9 +7143,9 @@ Cuando alguna de las partes tenga conocimiento de una prueba documental superven
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
 
-### CAPÍTULO PRIMERO. DIVORCIO POR MUTUO CONSENTIMIENTO
+### CAPITULO PRIMERO. Del divorcio
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2017)</small>
 
 #### SECCIÓN PRIMERA. ALIMENTOS
 
@@ -7291,9 +7293,7 @@ La sentencia se ejecutará, si así se solicita, sin necesidad de fianza.
 
 ## TÍTULO VIGÉSIMO SEGUNDO. PROCEDIMIENTOS ORALES ESPECIALES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE JULIO DE 2017)</small>
 
 ### CAPÍTULO SEGUNDO. JURISDICCIÓN VOLUNTARIA
 
@@ -7301,27 +7301,33 @@ La sentencia se ejecutará, si así se solicita, sin necesidad de fianza.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
 
-#### SECCIÓN PRIMERA. PROCEDIMIENTO
+#### SECCIÓN PRIMERA. Disposiciones generales
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### Artículo 977.
 
-Los cónyuges que convengan en divorciarse en los términos del artículo 803 del Código Civil para el Estado, están obligados a presentar ante el Juez de Instrucción con la solicitud de divorcio, una copia certificada del acta de matrimonio, una copia certificada de las actas de nacimientos de los hijos menores de edad o mayores incapaces, si los hay, y el convenio que señala el artículo 804 del Código referido.
+Los cónyuges que convengan en divorciarse por mutuo consentimiento, o en su caso, el cónyuge que de manera unilateral reclame el divorcio, están obligados a presentar ante el Juez de Instrucción la demanda solicitando el divorcio, junto con los requisitos exigidos en el artículo 798 del Código Civil para el Estado de Quintana Roo.
 
-Si la solicitud, el convenio o la documentación fueren insuficientes, el Juez de Instrucción concederá a los solicitantes un plazo de tres días para que los completen.
+De igual manera la demanda deberá ser acompañada del convenio o de la propuesta de convenio, según sea el caso, que ordena el artículo 799 del Código Civil para el Estado de Quintana Roo.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+En cualquier caso, si la documentación que acompañe a la demanda fuere insuficiente o el convenio o la propuesta de convenio no se ajusta a lo establecido por el mencionado artículo 799, el Juez de Instrucción prevendrá al o a los solicitantes, para que en un plazo de tres días lo completen. De no solventar la prevención se decretará el sobreseimiento.
 
-#### SECCIÓN SEGUNDA. ENAJENACIÓN DE BIENES DE MENORES O INCAPACITADOS Y TRANSACCIÓN ACERCA DE SUS DERECHOS
+En la demanda, se podrá pedir la aplicación de medidas provisionales o precautorias, acompañando en su caso, la documentación que se estime necesaria.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+En caso de que sea solo uno de los cónyuges quien demande el divorcio, se exhibirá copia de la demanda de solicitud de divorcio, de la propuesta de convenio y documentos exhibidos, para su traslado.
 
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+Presentada la demanda conforme todo lo anterior, el Juez de Instrucción la admitirá a trámite.
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2017)</small>
+
+#### SECCIÓN SEGUNDA. Divorcio por mutuo consentimiento
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### Artículo 978.
 
-Hecha la solicitud y cumplidas las exigencias del artículo anterior, el Juez de Instrucción, por conducto del Administrador de Gestión Judicial, citará a los cónyuges y al Ministerio Público a una audiencia ante el Juez Oral, de entre ocho y quince días.
+En el caso de la promoción del divorcio por mutuo consentimiento, hecha la solicitud y cumplidas las exigencias del artículo anterior, el Juez de Instrucción, por conducto del Administrador de Gestión Judicial, citará a los cónyuges y al Ministerio Público a una audiencia ante el Juez Oral, de entre ocho y quince días.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -7393,103 +7399,55 @@ En el caso que en el convenio que se apruebe decrete el pago de alimentos, deber
 
 Ejecutoriada la sentencia de divorcio, el Juez mandará remitir copia de ésta y del convenio aprobado, al oficial del registro civil del lugar en que el matrimonio se efectuó para que levante el acta de divorcio respectiva y haga las anotaciones correspondientes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2017)</small>
 
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+#### SECCIÓN TERCERA. Divorcio unilateral
 
-###### Artículo 985
-
-Bis.- El Divorcio es incausado cuando cualquiera de los conyugues lo solicita, manifestando su voluntad de no querer continuar con el matrimonio, sin que sea necesario señalar la razón que lo motiva, el cual podrá pedirse después de un año de haberse celebrado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### Artículo 985
 
-Ter.- A la solicitud de divorcio incausado, se deberá acompañar lo siguiente:
-
-l. Acta de matrimonio en copia certificada;
-
-II. Acta de nacimiento de los hijos, en copia certificada; y
-
-III. Propuesta de convenio que habrá de regular las consecuencias de la disolución del vínculo matrimonial, debiendo contener:
-
-a) La designación sobre la guarda y custodia de los hijos menores o incapaces y, el domicilio donde vivirán;
-
-b) El régimen de visita y convivencia respecto del progenitor que no ejercerá la guarda y custodia de los menores;
-
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
-
-c) La designación de los domicilios donde habitarán los cónyuges, tanto durante como después de ejecutoriado el divorcio;
-
-d) La cantidad que por concepto de alimentos se propone, para atender las necesidades de los hijos y en su caso del cónyuge a quien deba darse alimentos, la forma, lugar y temporalidad para hacerlo, los elementos que permitan al Juez fijar la pensión propuesta, así como la garantía para asegurar su cumplimiento;
-
-e) La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y hasta que se liquide, así como la forma de liquidarla, después de decretado el divorcio; y
-
-f) (DEROGADO, P.O. 24 DE JULIO DE 2015)
-
-En la solicitud, se podrá pedir la aplicación de medidas precautorias, acompañando en su caso, la documentación que se estime necesaria.
-
-Se exhibirá copia de la solicitud y documentos exhibidos para traslado.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2015)</small>
-
-###### Artículo 985
-
-Quater.- Presentada la solicitud, el Juez de Instrucción admitirá a trámite la petición, dando vista al otro cónyuge y proveerá sobre las medidas precautorias y provisionales solicitadas o las que estime necesarias para salvaguardar el interés superior de los menores o incapaces.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+Bis.- Presentada la demanda, el Juez de Instrucción la admitirá a trámite, dando vista al otro cónyuge y proveerá sobre las medidas precautorias y provisionales solicitadas o las que estime necesarias para salvaguardar el interés superior de los menores o incapaces.
 
 Además, se señalará día y hora para una audiencia de avenencia que tendrá verificativo después de nueve y antes de quince días, contados a partir de la notificación del propio auto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### Artículo 985
 
-Quinquies.- En la audiencia de avenencia, el Juez tratará de conciliar a las partes, para continuar con el matrimonio. De no obtenerse la conciliación, la audiencia continuará y el Juez escuchará a las partes sobre la propuesta del convenio, en la que se podrán modificar o adicionar las cláusulas del mismo a petición de los interesados.
+Ter.- En la audiencia de avenencia, el Juez tratará de conciliar a las partes, para continuar con el matrimonio. De no obtenerse la conciliación, la audiencia continuará y el Juez escuchará a las partes sobre la propuesta del convenio, en la que se podrán modificar o adicionar las cláusulas del mismo a petición de los interesados.
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
+De manifestar su conformidad con los términos de la propuesta de convenio y, de no haber observación alguna por el juzgador, se aprobará y elevará a la categoría de cosa juzgada, decretando mediante sentencia definitiva la disolución del vínculo matrimonial y, en su caso, la terminación de la sociedad conyugal.
 
-De manifestar su conformidad con los términos del convenio y, de no haber observación alguna por el juzgador, se aprobará y elevará a la categoría de cosa juzgada, decretando mediante sentencia definitiva la disolución del vínculo matrimonial y, en su caso, la terminación de la sociedad conyugal.
+La aprobación de la propuesta de convenio podrá ser sólo sobre los puntos en que haya consenso, respecto de los restantes, se procederá conforme al precepto legal siguiente.
 
-La aprobación del convenio podrá ser sólo sobre los puntos en que haya consenso, respecto de los restantes se procederá conforme al precepto legal siguiente.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### Artículo 985
 
-Sexties.- De no llegar a un acuerdo sobre la totalidad de los puntos del convenio o de no asistir a la audiencia respectiva el cónyuge citado, se decretará la disolución del vínculo matrimonial y, en su caso, la terminación de la sociedad conyugal; apercibiendo a las partes en la sentencia definitiva de abstenerse de ocultar, enajenar, dilapidar bienes y efectos patrimoniales generados durante el matrimonio hasta en tanto se liquide la sociedad conyugal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+Quater.- De no llegar a un acuerdo sobre la totalidad de los puntos de la propuesta de convenio, o de no asistir a la audiencia respectiva el cónyuge citado, se decretará la disolución del vínculo matrimonial y, en su caso, la terminación de la sociedad conyugal; apercibiendo a las partes en la sentencia definitiva de abstenerse de ocultar, enajenar, dilapidar bienes y efectos patrimoniales generados durante el matrimonio hasta en tanto se liquide la sociedad conyugal.
 
 En la propia audiencia, se decidirá sobre las medidas precautorias y provisionales, entre otras las referentes a los alimentos, guarda y custodia de menores o incapaces y, régimen de convivencia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
-
 Se otorgará a las partes un plazo común de cinco días para que conforme a los requisitos de una demanda, formulen sus pretensiones, hechos y ofrezcan sus medios de prueba, respecto de los puntos que no hayan sido objeto de consenso y los demás que estimen convenientes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
-
-Con los escritos que presenten las partes, se les dará vista para que manifiesten lo que a su interés convenga, opongan defensas y excepciones y ofrezca los medios de prueba respectivos, por un plazo de cinco días.
-
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### Artículo 985
 
-Septies.- Hecha la solicitud y cumplidas las exigencias del artículo anterior, el Juez de Instrucción, citará al Ministerio Público a la audiencia inicial ante el Juez Oral, dentro de un plazo entre ocho y quince días; y la secuencia procesal seguirá las mismas reglas del Título Vigésimo Primero denominado del Procedimiento Oral, resolviéndose mediante sentencia interlocutoria el incidente de pretensiones planteado respecto de los puntos que no hayan sido objeto del consenso.
+Quinquies.- Hecha la solicitud y cumplidas las exigencias del artículo anterior, el Juez de Instrucción, citará al Ministerio Público a la audiencia inicial ante el Juez Oral, dentro de un plazo entre ocho y quince días; y la secuencia procesal seguirá las mismas reglas del Título Vigésimo Primero denominado del Procedimiento Oral, resolviéndose mediante sentencia interlocutoria el incidente de pretensiones planteado respecto de los puntos que no hayan sido objeto del consenso.
 
 La sentencia definitiva que decrete la disolución del vínculo matrimonial será irrecurrible.
+
+Con los escritos que presenten las partes, se les dará vista para que manifiesten lo que a su interés convenga, opongan defensas y excepciones y ofrezcan los medios de prueba respectivos, por un plazo de cinco días.
+
+###### Artículo 985
+
+Sexties.- (DEROGADO, P.O. 4 DE JULIO DE 2017)
+
+###### Artículo 985
+
+Septies.- (DEROGADO, P.O. 4 DE JULIO DE 2017)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -7500,6 +7458,10 @@ La sentencia definitiva que decrete la disolución del vínculo matrimonial ser�
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+#### SECCIÓN PRIMERA. PROCEDIMIENTO
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
 
 ###### Artículo 986.
 
@@ -7522,6 +7484,12 @@ En la audiencia a que se refiere el artículo anterior, se desahogarán las prue
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+
+#### SECCIÓN SEGUNDA. ENAJENACIÓN DE BIENES DE MENORES O INCAPACITADOS Y TRANSACCIÓN ACERCA DE SUS DERECHOS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 989.
 
@@ -8512,3 +8480,21 @@ P.O. 24 DE JULIO DE 2015.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
+
+P.O. 4 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 069 POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 892 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 073 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO Y DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Los juicios de divorcio iniciados con anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones procesales vigentes al momento de iniciarse dichos procedimientos.
+
+TERCERO. Se derogan todas las disposiciones que contravengan al presente decreto.
