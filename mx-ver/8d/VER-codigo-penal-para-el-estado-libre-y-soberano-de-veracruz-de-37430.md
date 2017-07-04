@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2017-02-20"
+last_updated: "2017-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE JULIO DE 2017.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1895,7 +1895,7 @@ No constituye pornografía el empleo de programas preventivos, educativos o info
 
 ### CAPÍTULO II. ABIGEATO
 
-> <small>(REFORMADO, G.O. 2 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, G.O. 4 DE JULIO DE 2017)</small>
 
 ###### Artículo 191.
 
@@ -2127,9 +2127,43 @@ INSOLVENCIA FRAUDULENTA EN PERJUICIO DE ACREEDORES.
 
 ###### Artículo 210.
 
-A quien en el medio rural se apodere de una o más cabezas de ganado, sin consentimiento de quien legalmente pueda disponer de ellas, se le impondrán de seis a doce años de prisión y multa hasta de trescientos días de salario.
+Comete el delito de abigeato quien, por sí o por interpósita persona:
 
-Cuando ese apoderamiento se realice sobre ganado vacuno o caballar, se impondrán de seis a quince años de prisión y multa hasta de quinientos días de salario.
+I. Se apodere de ganado, sin consentimiento de quien legalmente pueda disponer de aquél o darlo;
+
+II. Disponga para sí o para otro de ganado del que se le haya transmitido la tenencia y no el dominio; o
+
+III. Sacrifique ganado sin el consentimiento de quien legalmente pueda otorgarlo.
+
+Al responsable de este delito se le impondrán de seis a doce años de prisión y multa de hasta trescientas unidades de medida y actualización, pero si el apoderamiento, disposición o sacrificio a los que se hace referencia en las fracciones anteriores fuere de ganado bovino o caballar, se impondrán de seis a quince años de prisión y multa hasta de trescientas unidades de medida y actualización.
+
+> <small>(ADICIONADO, G.O. 4 DE JULIO DE 2017)</small>
+
+###### Artículo 210 Bis.
+
+Las sanciones previstas en el artículo 210 de este Código se agravarán hasta en una mitad más si en la comisión de (sic) delito ocurre alguna de las circuntancias (sic) siguientes:
+
+I. Sea realizado por tres o más personas;
+
+II. Sea ejecutado con violencia;
+
+III. Sea cometido en horarios nocturnos;
+
+IV. Si el sujeto activo tuviere o hubiese tenido relación laboral con el propietario del ganado;
+
+V. Si el sujeto activo tuviere relación de parentesco en cualquier grado con el propietario del ganado;
+
+VI. Sea realizado por un servidor público municipal, estatal o federal, o por integrantes de instituciones de seguridad pública;
+
+VII. Si el sujeto activo se valiere de un desastre natural, una emergencia, disturbio civil o desorden público;
+
+VIII. Si el sujeto activo se valiere de una discapacidad, enfermedad o vulnerabilidad del ofendido;
+
+IX. Si el que lo cometa se hiciera pasar por autoridad;
+
+X. Cuando el ganado fuere de registro para el mejoramiento genético; o
+
+XI. Cuando el sujeto activo fuere integrante de una asociación o unión de productores ganaderos o empleado de éstas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE ENERO DE 2012)</small>
 
@@ -4383,121 +4417,13 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 Segundo. Se deroga cualquier disposición que contravenga al presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE GUARDIA NACIONAL”.]
+G.O. 4 DE JULIO DE 2017.
 
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 295 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE."]
 
-El Congreso de la Unión dentro de los 60 días naturales siguientes a la entrada en vigor de este Decreto, expedirá la Ley de la Guardia Nacional y hará las adecuaciones legales conducentes.
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
-Asimismo, expedirá las leyes nacionales que reglamenten el uso de la fuerza y del registro de detenciones dentro de los 90 días naturales siguientes a la entrada en vigor de este Decreto.
-
-Segundo. La Guardia Nacional se constituirá a la entrada en vigor del presente Decreto con los elementos de la Policía Federal, la Policía Militar y la Policía Naval que determine en acuerdos de carácter general el Presidente de la República. En tanto se expide la ley respectiva, la Guardia Nacional asumirá los objetivos, atribuciones y obligaciones previstas en los artículos 2 y 8 de la Ley de la Policía Federal, con la gradualidad que se requiera para asegurar la continuidad de operaciones y la transferencia de recursos humanos, materiales y financieros que correspondan. De igual forma, el Ejecutivo Federal dispondrá lo necesario para la incorporación de los elementos de las policías Militar y Naval a la Guardia Nacional y designará al titular del órgano de mando superior y a los integrantes de la instancia de coordinación operativa interinstitucional formada por representantes de las secretarías del ramo de seguridad, de la Defensa Nacional y de Marina.
-
-> <small>[N. DE E. SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS DEL "DECRETO POR EL QUE SE DECLARA APROBADA LA INTERPRETACIÓN AL ALCANCE DEL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE GUARDIA NACIONAL, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 26 DE MARZO DEL AÑO 2019", D.O.F. 22 DE MARZO DE 2024.]</small>
-
-Tercero. Los elementos de las policías Militar y Naval, así como otros elementos de mando y servicios de apoyo de la Fuerza Armada permanente, que sean asignados a la Guardia Nacional, conservarán su rango y prestaciones; la ley garantizará que cuando un elemento sea reasignado a su cuerpo de origen, ello se realice respetando los derechos con que contaba al momento de ser asignado a aquélla, así como el reconocimiento del tiempo de servicio en la misma, para efectos de su antigüedad. Lo anterior será aplicable, en lo conducente, a los elementos de la Policía Federal que sean adscritos a la Guardia Nacional.
-
-Cuarto. Al expedir las leyes a que se refiere la fracción XXIII del artículo 73 de esta Constitución, el Congreso de la Unión estará a lo siguiente:
-
-I. Las reformas a la Ley General del Sistema Nacional de Seguridad Pública deberán contemplar, al menos, los siguientes elementos:
-
-1. La normativa sobre la formación y actuación de las instituciones de policía encargadas de la seguridad pública en términos de la doctrina policial civil establecida en el artículo 21 de esta Constitución, y
-
-2. La regulación del sistema nacional de información en seguridad pública a que se refiere el inciso b) del párrafo décimo del artículo 21 constitucional.
-
-II. La Ley de la Guardia Nacional contendrá, al menos, los siguientes elementos:
-
-1. Los supuestos para la coordinación y colaboración de la Guardia Nacional con las instituciones de seguridad pública de las entidades federativas y de los Municipios;
-
-2. Las reglas para determinar las aportaciones de las entidades federativas y Municipios cuando soliciten la colaboración de la Guardia Nacional para la atención de tareas de seguridad pública de competencia local;
-
-3. Lo relativo a la estructura jerárquica, regímenes de disciplina que incluya faltas, delitos y sanciones a la disciplina policial, responsabilidades y servicios, ascensos, prestaciones, ingreso, educación, capacitación, profesionalización y el cumplimiento de las responsabilidades y tareas que puedan homologarse, en lo conducente a las disposiciones aplicables en el ámbito de la Fuerza Armada permanente;
-
-4. Los criterios de evaluación del desempeño de sus integrantes;
-
-5. La regulación sobre la disposición, posesión, portación y uso de armas de fuego, atendiendo los estándares y mejores prácticas internacionales;
-
-6. Las hipótesis para la delimitación de la actuación de sus integrantes;
-
-7. Los requisitos que deberán cumplir sus integrantes, conforme a las leyes aplicables, y
-
-8. Los componentes mínimos del informe anual a que se refiere la fracción IV del artículo 76 de esta Constitución.
-
-III. La Ley Nacional sobre el Uso de la Fuerza establecerá, por lo menos, las siguientes previsiones:
-
-1. La finalidad, alcance y definición del uso de la fuerza pública;
-
-2. Los sujetos obligados al cumplimiento del ordenamiento y los derechos y obligaciones de los integrantes de instituciones con atribuciones para llevar a cabo el ejercicio de la fuerza pública;
-
-3. La sujeción del uso de la fuerza a los principios de legalidad, necesidad, proporcionalidad, racionalidad y oportunidad;
-
-4. La previsión del adiestramiento en medios, métodos, técnicas y tácticas del uso de la fuerza mediante el control físico, el empleo de armas incapacitantes, no letales y de armas letales;
-
-5. Los niveles para el uso de la fuerza pública por los servidores públicos en el ejercicio de sus atribuciones para hacer cumplir la ley;
-
-6. La distinción y regulación de las armas e instrumentos incapacitantes, no letales y letales;
-
-7. Las reglas sobre la portación y uso de armas de fuego entre los integrantes de instituciones con atribuciones para llevar a cabo el ejercicio de la fuerza pública, así como sus responsabilidades y sanciones;
-
-8. Las previsiones de actuación de los integrantes de instituciones con atribuciones para llevar a cabo el ejercicio de la fuerza pública, con relación a personas detenidas, bajo su custodia o en manifestaciones públicas;
-
-9. Las normas para la presentación de informes de los servidores públicos que hagan uso de armas de fuego en el desempeño de sus funciones, así como para su sistematización y archivo, y
-
-10. Las reglas básicas de adiestramiento y gestión profesional del uso de la fuerza pública.
-
-IV. La Ley Nacional del Registro de Detenciones incorporará, al menos, las siguientes previsiones:
-
-1. Las características del Registro y los principios que rigen su conformación, uso y conservación;
-
-2. El momento de realizar el registro de la persona dentro del procedimiento de detención;
-
-3. El tratamiento de los datos personales de la persona detenida, en términos de las leyes en la materia;
-
-4. Los criterios para clasificar la información como reservada o confidencial;
-
-5. Las personas autorizadas para acceder a la base de datos del Registro y los niveles de acceso;
-
-6. Las atribuciones de los servidores públicos que desempeñen funciones en el Registro y sus responsabilidades en la recepción, administración y seguridad de la información, y
-
-7. La actuación que deberá desplegar el Registro y su personal en caso de ocurrir hechos que pongan en riesgo o vulneren su base de datos.
-
-> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2022)</small>
-
-Quinto. Durante los nueve años siguientes a la entrada en vigor del presente Decreto, en tanto la Guardia Nacional desarrolla su estructura, capacidades e implantación territorial, el Presidente de la República podrá disponer de la Fuerza Armada permanente en tareas de seguridad pública. Conforme a los términos planteados por la Suprema Corte de Justicia de la Nación, esa participación deberá ser:
-
-I. Extraordinaria, de tal manera que se acredite la absoluta necesidad, que sea temporal y solicitada de forma expresa y justificada por la autoridad civil;
-
-II. Regulada, para que cumpla con un estricto apego al orden jurídico previsto en esta Constitución, en las leyes que de ella emanen y los tratados internacionales que estén de acuerdo con la misma;
-
-III. Fiscalizada, de manera que exista la constante revisión o supervisión del funcionamiento institucional a través de la rendición de cuentas, y
-
-IV. Subordinada y complementaria, de forma tal que las labores de apoyo que la Fuerza Armada preste a las instituciones de seguridad pública solo puedan realizarse en su auxilio o complemento, y se encuentren fundadas y motivadas.
-
-La Fuerza Armada permanente realizará las tareas de seguridad pública con su organización y medios, y deberá capacitarse en la doctrina policial civil establecida en el artículo 21 de esta Constitución.
-
-Las acciones que lleve a cabo la Fuerza Armada permanente, en ningún caso tendrán por objeto sustituir a las autoridades civiles de otros órdenes de gobierno en el cumplimiento de sus competencias o eximir a dichas autoridades de sus responsabilidades.
-
-El Ejecutivo Federal presentará al Congreso de la Unión un informe semestral sobre el uso de la facultad anterior, proporcionando los indicadores cuantificables y verificables que permitan evaluar los resultados obtenidos en el periodo reportado en materia de seguridad pública, y corroborar el respeto a los derechos humanos y a los de los pueblos y comunidades indígenas y afromexicanas.
-
-Para el análisis y dictamen de los informes establecidos en el párrafo anterior, en un plazo no mayor a sesenta días, contados a partir de la entrada en vigor del presente Decreto, y hasta la conclusión del plazo señalado en el primer párrafo, se integrará una comisión bicameral, en los términos que acuerden los órganos de dirección política de las Cámaras del Congreso de la Unión.
-
-La comisión se reunirá cada que la convoque su directiva; para la emisión del dictamen semestral convocará, si así lo requiere, a los titulares de las secretarías de Gobernación, de Seguridad y Protección Ciudadana, de Defensa Nacional y de Marina. El dictamen evaluará el cumplimiento de las condiciones establecidas en el primer párrafo del presente artículo para la participación de la Fuerza Armada permanente en labores de seguridad pública y deberá señalar aquellas entidades federativas donde deje de ser requerida la presencia permanente de las Fuerzas Armadas en esas labores. Asimismo, contendrá las recomendaciones que contribuyan al cumplimiento del plazo establecido en ese mismo párrafo.
-
-La comisión bicameral remitirá a cada una de las Cámaras del Congreso de la Unión los dictámenes semestrales, para su discusión y aprobación. Una vez aprobados se remitirán al Ejecutivo Federal, el que deberá informar de la atención que brindó a las recomendaciones emitidas.
-
-La Cámara de Senadores, al analizar y aprobar los informes anuales que sobre las actividades de la Guardia Nacional le rinda el Ejecutivo Federal, evaluará la participación de la Fuerza Armada permanente en labores de seguridad pública, realizadas al amparo del presente artículo transitorio, a fin de garantizar que a la conclusión del plazo señalado en el párrafo primero del mismo la Fuerza Armada permanente concluya su participación en labores de seguridad pública, y la Guardia Nacional y las demás instituciones de seguridad pública asuman a plenitud las facultades establecidas en el artículo 21 de esta Constitución.
-
-Las personas titulares del Poder Ejecutivo de las entidades federativas remitirán anualmente a las correspondientes legislaturas locales y al Consejo Nacional de Seguridad Pública la evaluación integral, en una perspectiva de seis años, contados a partir de la entrada en vigor de la reforma al presente artículo transitorio, del programa señalado en el Artículo Séptimo transitorio. Los resultados de esas evaluaciones serán la base para los ajustes del referido programa y su calendario de ejecución, por los órganos correspondientes.
-
-Sexto. Durante el periodo a que se refiere el artículo anterior, para la conformación y funcionamiento de la Guardia Nacional, las secretarías de los ramos de Defensa Nacional y de Marina participarán, conforme a la ley, con la del ramo de seguridad, para el establecimiento de su estructura jerárquica, sus regímenes de disciplina, de cumplimiento de responsabilidades y tareas, y de servicios, así como para la instrumentación de las normas de ingreso, educación, capacitación, profesionalización, ascensos y prestaciones, que podrán estar homologados en lo conducente, a las disposiciones aplicables en el ámbito de la Fuerza Armada permanente.
-
-Séptimo. Los Ejecutivos de las entidades federativas presentarán ante el Consejo Nacional de Seguridad Pública, en un plazo que no podrá exceder de 180 días a partir de la entrada en vigor del presente Decreto, el diagnóstico y el programa para el fortalecimiento del estado de fuerza y las capacidades institucionales de sus respectivos cuerpos policiales estatales y municipales.
-
-Para la ejecución del programa, se establecerán las previsiones necesarias en los presupuestos de Egresos de la Federación y de las entidades federativas, sobre la base de la corresponsabilidad a partir del ejercicio fiscal de 2020.
-
-Un año después de haberse emitido el programa referido, el Ejecutivo local enviará anualmente a la Legislatura de la entidad federativa correspondiente y al Consejo Nacional de Seguridad Pública, la evaluación integral del mismo con el informe sobre los avances en los objetivos señalados y su cumplimiento en un horizonte de seis años. Los resultados de la evaluación serán considerados para el ajuste del programa y su calendario de ejecución, por los órganos correspondientes.
-
-D.O.F. 12 DE ABRIL DE 2019.
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DECLARA REFORMADO EL ARTÍCULO 19 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS”.]
 
