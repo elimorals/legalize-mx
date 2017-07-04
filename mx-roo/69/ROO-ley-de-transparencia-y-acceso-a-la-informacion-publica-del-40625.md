@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-4062
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-31"
-last_updated: "2016-05-03"
+last_updated: "2017-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "ROO"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE QUINTANA ROO
 
+[NOTA 1: DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 3 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO; POR LO QUE EN TANTO NO SE EXPIDA LA LEY GENERAL Y LA LEY LOCAL EN MATERIA DE DATOS PERSONALES PERMANECERÁ VIGENTE LA NORMATIVIDAD LOCAL EN LA MATERIA.]
+
+[NOTA 2: DE CONFORMIDAD CON EL TRANSITORIO NOVENO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 4 DE JULIO DE 2017, SE DEROGA EL CAPÍTULO SEXTO DENOMINADO "DE LA PROTECCIÓN DE DATOS PERSONALES", DEL TÍTULO PRIMERO DENOMINADO "DISPOSICIONES COMUNES PARA LOS SUJETOS OBLIGADOS" QUE REGULA LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO.]
+
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 3 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2016 (ABROGADA).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2017.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 31 de mayo de 2004.
 
@@ -273,7 +275,7 @@ XVII. Las iniciativas de ley o decreto que se presenten en la Legislatura del Es
 
 XVIII. Un resumen financiero, respetando la autonomía de los Sujetos Obligados;
 
-XIX. El origen y monto de los ingresos mensuales de los fondos auxiliares especiales que tuviesen o llegasen a tener los Sujetos Obligados, así como la aplicación de los mismos; y (sic)
+XIX. El origen y monto de los ingresos mensuales de los fondos auxiliares especiales que tuviesen o llegasen a tener los Sujetos Obligados, así como la aplicación de los mismos; y
 
 XX. La relación de solicitudes de acceso a la información pública y las respuestas que se les den;
 
@@ -475,49 +477,29 @@ VI. La que por mandato expreso de una ley sea considerada confidencial o secreta
 
 Cuando los particulares entreguen a los Sujetos Obligados la información a que se refiere la fracción I del artículo anterior, deberán señalar si autorizan o no, que se proporcionen junto con la demás información en donde se encuentren, en caso de ser solicitados. A falta de autorización expresa, se entenderá como no autorizado la difusión de los mismos.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL TRANSITORIO NOVENO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE QUINTANA ROO, P.O. 4 DE JULIO DE 2017)</small>
+
 ### CAPÍTULO SEXTO. DE LA PROTECCIÓN DE DATOS PERSONALES
 
 ###### Artículo 31.
 
-Los Sujetos Obligados que posean por cualquier título, sistemas de datos personales, deberán hacerlo del conocimiento del Instituto, quien mantendrá un listado actualizado de los sistemas de datos personales, a partir de la información que estos les proporcionen.
+(DEROGADO POR EL TRANSITORIO NOVENO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE QUINTANA ROO, P.O. 4 DE JULIO DE 2017)
 
 ###### Artículo 32.
 
-Sin perjuicio de lo que dispongan otras leyes, sólo los interesados o sus representantes podrán solicitar a una Unidad de Vinculación, previa acreditación, que les proporcionen sus datos personales que obren en un sistema de datos personales. Aquélla deberá entregarle, en un plazo de diez días hábiles contados desde la presentación de la solicitud, en formato comprensible para el solicitante, la información correspondiente, o bien, le comunicará por escrito que ese sistema de datos personales no contiene los referidos al solicitante.
-
-La entrega de los datos personales será gratuita, debiendo cubrir el individuo únicamente los gastos de envío de conformidad con las tarifas aplicables. No obstante, si la misma persona realiza una nueva solicitud respecto del mismo sistema de datos personales en un período menor a doce meses a partir de la última solicitud, los costos se determinarán de acuerdo con lo establecido en el Artículo 36 del presente ordenamiento.
+(DEROGADO POR EL TRANSITORIO NOVENO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE QUINTANA ROO, P.O. 4 DE JULIO DE 2017)
 
 ###### Artículo 33.
 
-Los Sujetos Obligados serán responsables de la debida protección de los datos personales que se encuentren en sus archivos; en relación con estos, deberán:
-
-I. Adoptar los procedimientos adecuados para recibir y responder las solicitudes de acceso y corrección de datos, así como capacitar a los servidores públicos encargados para tal efecto;
-
-II. Utilizar los datos personales sólo cuando estos sean adecuados, pertinentes y no excesivos en relación con los propósitos para los cuales se hayan obtenido;
-
-III. Informar a los individuos el propósito por el cual se recaban sus datos personales;
-
-IV. Procurar que los datos personales sean exactos y actualizados. Para ello deberán sustituir, rectificar o completar de oficio, los datos personales que fueren inexactos o incompletos; y
-
-V. Adoptar las medidas necesarias que garanticen la seguridad de los datos personales y eviten su alteración, pérdida, transmisión y acceso no autorizado.
+(DEROGADO POR EL TRANSITORIO NOVENO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE QUINTANA ROO, P.O. 4 DE JULIO DE 2017)
 
 ###### Artículo 34.
 
-Los Sujetos Obligados no podrán difundir, distribuir o comercializar los datos personales contenidos en los sistemas de acceso a la información pública, desarrollados en el ejercicio de sus funciones, salvo que haya mediado el consentimiento expreso de los individuos a que haga referencia la información pública.
+(DEROGADO POR EL TRANSITORIO NOVENO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE QUINTANA ROO, P.O. 4 DE JULIO DE 2017)
 
 ###### Artículo 35.
 
-No se requerirá el consentimiento de los titulares de los datos personales para proporcionarlos en los siguientes casos:
-
-I. Cuando en situaciones de urgencia, peligre la vida o la integridad personal y se requieran para la prestación de asistencia en salud;
-
-II. Cuando se entreguen por razones estadísticas, científicas o de interés general previstas en la ley. En estos casos los Sujetos Obligados entregarán la información de tal manera que no puedan asociarse los datos personales con el individuo a quien se refieran;
-
-III. Cuando se transmitan entre Sujetos Obligados en términos de las leyes aplicables;
-
-IV. Cuando exista una orden judicial; y
-
-V. Cuando el Sujeto Obligado contrate a terceros para la prestación de un servicio que requiera el tratamiento de datos personales. Dichos terceros no podrán utilizar los datos personales para propósitos distintos a aquellos para los cuales se les hubieren transmitido.
+(DEROGADO POR EL TRANSITORIO NOVENO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE QUINTANA ROO, P.O. 4 DE JULIO DE 2017)
 
 ### CAPÍTULO SÉPTIMO. CUOTAS DE ACCESO
 
@@ -1256,3 +1238,25 @@ En el mismo plazo que se señala en el párrafo anterior, el Instituto Electoral
 Noveno. Los titulares de los poderes públicos estatales, ayuntamientos y órganos autónomos, entregarán al Instituto, dentro de los treinta días siguientes a la entrada en vigor de la presente Ley, un listado de las personas físicas, morales y sindicatos a quienes les entreguen recursos públicos, los montos asignados para el presente año, objeto de la ministración, y en su caso, la normatividad para su ejercicio.
 
 Décimo. La información que, hasta la fecha de entrada en vigor de la presente Ley, obre en los sistemas electrónicos de los sujetos obligados, formará parte de la Plataforma Nacional de Transparencia, conforme a los lineamientos que, para el efecto, emita el Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
+
+P.O. 4 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 066 POR EL QUE SE EXPIDE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Los procedimientos para el ejercicio de los derechos ARCO y los recursos de revisión que se encuentren en trámite o pendientes de resolución ante los Responsables a la entrada en vigor de esta Ley, se sustanciarán y concluirán de conformidad con las disposiciones vigentes al momento en que iniciaron.
+
+TERCERO. Los Responsables expedirán sus avisos de privacidad en los términos previstos en la presente Ley y demás disposiciones aplicables, a más tardar tres meses después de la entrada en vigor de la presente Ley.
+
+CUARTO. Los Responsables de esta Ley deberán tramitar, expedir o modificar su normatividad interna armonizándola conforme a lo establecido en esta Ley, a más tardar un año después de la entrada en vigor de la presente Ley.
+
+QUINTO. En caso que los Responsables, omitan total o parcialmente expedir o adecuar su normatividad correspondiente que haya lugar en el plazo establecido en el párrafo anterior, resultará aplicable de manera directa la presente Ley.
+
+SEXTO. No se podrán reducir o ampliar en la normatividad interna de los Responsables, los procedimientos y plazos vigentes aplicables en la materia, en perjuicio de los Titulares de datos personales.
+
+SÉPTIMO. La Legislatura del Estado de Quintana Roo deberá hacer las previsiones presupuestales necesarias, para la aplicación y operación de la presente Ley y establecer las partidas presupuestales específicas en el Presupuesto de Egresos del Gobierno del Estado de Quintana Roo para el Ejercicio Fiscal 2018.
+
+OCTAVO. Se derogan todas aquellas disposiciones de carácter estatal y municipal, en materia de protección de datos personales que contravengan lo dispuesto por la presente Ley.
+
+NOVENO. Se deroga el Capítulo Sexto denominado “De la Protección de Datos Personales”, del Título Primero denominado “Disposiciones Comunes para los sujetos obligados” que regula la Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo, expedida mediante Decreto número 109 de la H. X Legislatura del Estado de Quintana Roo y publicada en el Periódico Oficial del Gobierno del Estado, en fecha 31 de mayo de 2004.
