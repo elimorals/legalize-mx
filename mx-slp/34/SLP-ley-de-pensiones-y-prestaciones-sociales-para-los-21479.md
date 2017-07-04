@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-pensiones-y-prestaciones-sociales-para-los-21479"
 country: "mx"
 rank: "ley"
 publication_date: "2001-05-21"
-last_updated: "2013-10-26"
+last_updated: "2017-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21479&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 21 de mayo de 2001.
 
@@ -2255,8 +2255,24 @@ CUARTO. Los trabajadores del sector Sección 26, Telesecundaria del SNTE, que a 
 
 QUINTO. A la entrada en vigor de este Decreto, los actuales pensionados y jubilados que adquirieron sus derechos conforme a la Ley de Pensiones del 2001, seguirán percibiendo los aumentos a su pensión, en los términos de la ley bajo la cual se pensionaron.
 
-SEXTO. Se establece un bono a la permanencia de sesenta días de sueldo cotizado ante la Dirección de Pensiones del Estado, para aquellos trabajadores que cumplan un año más de servicio ininterrumpido, después de los derechos adquiridos para pensionarse por jubilación, el cual se les entregará anualmente, según las disposiciones del reglamento.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+
+SEXTO. Se establece un bono a la permanencia para los trabajadores del sector telesecundarias de la Sección 26 del Sindicato Nacional de Trabajadores de la Educación, de noventa días de sueldo cotizado ante la Dirección de Pensiones del Estado, el cual será entregado anualmente a aquellos trabajadores que cumplan años adicionales de servicio ininterrumpido despues de haber cumplido los años laborados y cotizados para acceder a una pensión por jubilación.
+
+El bono será pagado por cada año adicional de prestación de servicio cotizado ante la Dirección de Pensiones del Estado, con cargo al fondo del Sector Telesecundarias de la Sección 26.
+
+Una vez recibido el primer pago deberán permanecer en servicio por lo menos tres años; de lo contrario, estará obligado a reintegrar en una sola exhibición, que no exceda de tres meses, a la Dirección de Pensiones del Estado, las cantidades recibidas de forma anual por dicho concepto, según las disposiciones del reglamento.
+
+Los trabajadores que cumplan un año adicional de servicio ininterrumpido despues de haber cumplido los años laborados y cotizados para acceder a una pensión por jubilación, durante el año dos mil diecisiete y que se jubilen durante el transcurso del mismo año, se les pagará por única vez el bono a la permanencia de sesenta días de sueldo cotizado ante la Dirección de Pensiones del Estado; y los que continuen en servicio y sigan cotizando se sujetarán a las nuevas disposiciones.
 
 SEPTIMO. Todo lo dispuesto en el Título Noveno de este Decreto, será aplicable a los trabajadores adscritos al Subsistema de Telesecundaria de la Secretaría de Educación de (sic) Gobierno del Estado, sindicalizados, que inicien a trabajar y a cotizar a la Dirección de Pensiones del Estado, posteriormente a la entrada en vigor de este Decreto; y lo que no se encuentre dentro de la ley y sea señalado en el Título Noveno referido, de beneficio para los trabajadores que ya se encuentren laborando, regirá también para ellos.
 
 OCTAVO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0662.- SE REFORMA EL ARTÍCULO SEXTO TRANSITORIO DEL DECRETO LEGISLATIVO NO. 373, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE FECHA 26 DE OCTUBRE DE 2013”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
