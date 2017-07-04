@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2016-09-20"
+last_updated: "2017-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -339,13 +339,13 @@ XII.- Tratamiento en internamiento o en libertad de inimputables o de imputables
 
 XIII.- Intervención, remoción, prohibición de realizar determinadas operaciones y extinción de las personas jurídico-colectivas y;
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
 
-XIV.- Tratamiento psicoterapéutico reeducativo;
+XIV.- Tratamiento psicoterapéutico reeducativo con perspectiva de género;
 
 > <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
-XV. La separación del agresor, como medida de seguridad dictada por autoridad judicial competente, en la cual se establezca con precisión la prohibición expresa de acercarse a cierta distancia de la víctima, en el afán de proteger a la misma en cualquier tipo y modalidad de violencia, y
+XV.- La separación del agresor, como medida de seguridad dictada por autoridad judicial competente, en la cual se establezca con precisión la prohibición expresa de acercarse a cierta distancia de la víctima, en el afán de proteger a la misma en cualquier tipo y modalidad de violencia, y
 
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
@@ -507,7 +507,7 @@ La extensión de la jornada de trabajo será fijada por el Juez tomando en cuent
 
 ### CAPITULO XI. PROHIBICION DE IR A UNA CIRCUNSCRIPCION TERRITORIAL O DE RESIDIR EN ELLA
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 38.
 
@@ -549,7 +549,7 @@ Si el delito por el que se impone la publicación de sentencia fue cometido a tr
 
 ###### ARTICULO 43.
 
-El Juez tornando en cuenta las circunstancias del delito y las propias del delincuente, podrá disponer que éste no vaya a una circunscripción territorial determinada o que no resida en ella. Esta prohibición no excederá de cinco años, salvo cuando se trate de sentenciados por homicidio doloso, lesiones calificadas, violencia familiar y violación, en cuyo caso el juez podrá ampliar la prohibición hasta diez años, a partir de la fecha en que se extinga la sanción principal privativa de libertad.
+El Juez tomando en cuenta las circunstancias del delito y las propias del delincuente, podrá disponer que éste no vaya a una circunscripción territorial determinada o que no resida en ella. Esta prohibición no excederá de cinco años, salvo cuando se trate de sentenciados por feminicidio, homicidio doloso, lesiones calificadas, violencia familiar y violación, en cuyo caso el juez podrá ampliar la prohibición hasta diez años, a partir de la fecha en que se extinga la sanción principal privativa de libertad.
 
 ### CAPITULO XIV
 
@@ -573,13 +573,9 @@ Los objetos o valores que se encuentren a disposición de la autoridad judicial 
 
 En el caso de bienes que se encuentren a disposición de la autoridad judicial o ministerial, que no se deban destruir y que no se puedan conservar o sean de costoso mantenimiento, se procederá a su venta inmediata en subasta pública y el producto y sus rendimientos se dejará a disposición de quien tenga derecho a reclamarlos, en los términos estipulados en el párrafo anterior.
 
-### CAPITULO XV. TRATAMIENTO PSICOTERAPÉUTICO REEDUCATIVO
+### CAPITULO XV. TRATAMIENTO PSICOTERAPÉUTICO REEDUCATIVO CON PERSPECTIVA DE GÉNERO
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
-
-ARTICULO 51 BIS.- El tratamiento psicoterapéutico reeducativo consiste en el proceso psicoterapéutico que deconstruya los patrones de violencia del sentenciado y será aplicado por las instituciones públicas o privadas que cuenten con la debida acreditación y autorización para proporcionarlo, las cuales estarán acordes con lo señalado en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo, y en la ley en materia de violencia familiar vigente en el Estado.
-
-Este tratamiento bajo ninguna circunstancia será aplicable a los sentenciados por alguno de los delitos previstos en el Titulo Cuarto de la Sección Primera del Libro Segundo del presente código, cuyo tratamiento de rehabilitación corresponderá a las autoridades penitenciarias respectivas.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 47.
 
@@ -631,11 +627,19 @@ La intervención consiste en la remoción de sus cargos a los administradores de
 
 Cuando se imponga la intervención, el interventor o interventores tendrán todas las facultades y obligaciones correspondientes al órgano de administración de la persona jurídica y ejercerán privativamente la administración de la misma, por todo el tiempo fijado en la sentencia y, además podrán solicitar la declaración de quiebra o concurso de la persona jurídica en los casos que proceda conforme a la Ley.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE JULIO DE 2017)</small>
 
 ### CAPITULO II. PUNIBILIDAD DE LOS DELITOS CULPOSOS
 
 > <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
+
+###### ARTICULO 51
+
+BIS.- El tratamiento psicoterapéutico reeducativo con perspectiva de género consiste en el proceso psicoterapéutico que deconstruya los patrones de violencia del sentenciado y será aplicado por las instituciones públicas o privadas que cuenten con la debida acreditación y autorización para proporcionarlo, las cuales estarán acordes con lo señalado en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo, y en la ley en materia de violencia familiar vigente en el Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+Este tratamiento bajo ninguna circunstancia será aplicable a los sentenciados por alguno de los delitos previstos en el Titulo Cuarto de la Sección Primera del Libro Segundo del presente código, cuyo tratamiento de rehabilitación corresponderá a las autoridades penitenciarias respectivas.
 
 ## TITULO CUARTO. APLICACIONES DE PENAS Y MEDIDAS DE SEGURIDAD
 
@@ -719,7 +723,7 @@ En caso de delito continuado a que se refiere el Artículo 13 de este Código, l
 
 ###### ARTICULO 61.
 
-Para los casos señalados en las fracciones IV, V y VI del artículo 16 de este Código, se impondrán hasta las tres cuartas partes de la pena o medida de seguridad señalada para el delito cometido.
+Para los casos señalados en las fracciones IV, V y VI del artículo 16 de este Código, se impondrán hasta las tres cuartas partes de la pena o medida de seguridad señala para el delito cometido.
 
 ### CAPITULO II. CUMPLIMIENTO DE LA PENA O MEDIDA DE SEGURIDAD
 
@@ -989,11 +993,13 @@ Al que prive de la vida a otro se le impondrá de diez a veinticinco años de pr
 
 Al que prive de la vida a otro en riña se le impondrá de ocho a quince años de prisión y de setecientos a mil días multa, si tiene el carácter de provocador y de cinco a diez años de prisión y de quinientos a setecientos cincuenta días multa si se trata del provocado.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 88.
 
-Al que dolosamente prive de la vida a cualquier ascendiente o descendiente en línea recta, a su hermano, cónyuge, concubino, adoptante o adoptado, con conocimiento de ese parentesco o relación se le impondrá de veinte a cuarenta años de prisión y de mil doscientos a dos mil quinientos días multa.
+Al que dolosamente prive de la vida a cualquier ascendiente o descendiente en línea recta, cónyuge, concubino o concubina, hermano o hermana, adoptante, adoptado u adoptada con conocimiento de ese parentesco o relación se le impondrá de veinte a cuarenta años de prisión y de mil doscientos a dos mil quinientos días multa.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2010)</small>
 
 A los sentenciados por el delito previsto en este artículo, no se le concederán ninguno de los beneficios comprendidos en la Ley de Normas Mínimas para la Readaptación Social de Sentenciados en el Estado de Quintana Roo.
 
@@ -1017,29 +1023,67 @@ Se impondrá prisión de veinticinco a cincuenta años y de mil quinientos a tre
 
 A los sentenciados por el delito previsto en este artículo, no se le concederán ninguno de los beneficios comprendidos en la Ley de Normas Mínimas para la Readaptación Social de Sentenciados en el Estado de Quintana Roo.
 
-> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
-###### ARTICULO 89
-
-BIS.- Comete delito de feminicidio, el que dolosamente prive de la vida a una mujer por razones de género. Se le impondrá prisión de veinticinco a cincuenta años y de mil quinientos a tres mil días multa.
+ARTICULO 89 BIS.- Comete delito de feminicidio, el que dolosamente prive de la vida a una mujer por razones de género. Se le impondrá prisión de veinticinco a cincuenta años y de mil quinientos a tres mil días multa.
 
 Existen razones de género cuando se presente cualquiera de los siguientes supuestos:
 
-I.- Que existan antecedentes de que el sujeto activo haya ejercido sobre la víctima violencia familiar en términos del artículo 176 bis del Código Penal;
+I. Que existan antecedentes o datos de cualquier tipo de violencia en el ámbito familiar, laboral o escolar, del sujeto activo en contra de la víctima;
 
-II.- Que el cuerpo de la víctima presente signos de violencia sexual de cualquier tipo;
+II. Que el cuerpo de la víctima presente signos de violencia sexual de cualquier tipo;
 
-III.- Que a la víctima se le haya infligido lesiones infamantes, degradantes o mutilaciones, previa o posteriormente a la privación de la vida;
+III. Que a la víctima se le hayan infligido lesiones o mutilaciones infamantes o degradantes, previas o posteriores a la privación de la vida o actos de necrofilia;
 
-IV.- Que existan antecedentes de acoso u hostigamiento sexual ejercidos por el activo contra la víctima;
+IV. Que existan antecedentes o datos que establezcan que hubo amenazas relacionadas con el hecho delictuoso, acoso u hostigamiento sexual, o lesiones del sujeto activo en contra de la víctima;
 
-V.- Que el cuerpo de la víctima sea exhibido públicamente con la evidente intención de demostrar el odio que el activo tenía hacia la víctima por ser mujer;
+V. Que el cuerpo de la víctima sea expuesto o exhibido en un lugar público;
 
-VI.- Que el activo haya obligado a la víctima a ejercer la prostitución, o haya ejercido actos de trata de personas en agravio de la víctima.
+VI. Que el activo haya obligado a la víctima a ejercer la prostitución, o haya ejercido actos de trata de personas en agravio de la víctima;
+
+VII. Que haya existido entre el activo y la víctima una relación sentimental, afectiva o de confianza;
+
+VIII. Que la víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de la vida.
 
 Además de la sanción anterior el sujeto activo perderá todos los derechos con relación a la víctima, incluido los de carácter sucesorio.
 
-> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2012)</small>
+En caso de que no se acredite el feminicidio, se aplicarán las reglas del homicidio.
+
+En la configuración del delito, no es necesario que se acredite la personalidad misógina del inculpado.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+
+ARTICULO 89 TER.- Se impondrán de dos a cinco años de prisión, de mil a cinco mil días multa y destitución e inhabilitación del cargo o comisión de cinco a diez años, al servidor público que con motivo de sus funciones y atribuciones tenga a su cargo la investigación o impartición de justicia del delito señalado en el artículo anterior y realice cualquiera de las siguientes conductas:
+
+I. Omita realizar las diligencias y actuaciones correspondientes para integrar la carpeta de investigación, en los términos que establecen el Código Penal para el Estado Libre y Soberano de Quintana Roo y el Código Nacional de Procedimientos Penales, sin causa justificada;
+
+II. Efectúe actos de discriminación, coacción e intimidación, contra el denunciante u ofendido del delito, o;
+
+III. Retarde o entorpezca intencionalmente o por negligencia la procuración o administración de justicia, sin causa justificada.
+
+###### Artículo 89
+
+Ter.- .
+
+I.- Omita realizar las diligencias y actuaciones correspondientes a la integración de la averiguación previa en los términos que establecen el Código Penal para el Estado Libre y Soberano de Quintana Roo y el Código de Procedimientos Penales para el Estado Libre y Soberano de Quintana Roo, sin causa justificada;
+
+II.- .
+
+III.- .
+
+SEGUNDO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 30 DE NOVIEMBRE DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 5 DE DICIEMBRE DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
+
+P.O. 7 DE DICIEMBRE DE 2012.
 
 ###### ARTICULO 89
 
@@ -1235,9 +1279,11 @@ Las lesiones a que se refiere este artículo solo se perseguirá (sic) a petici�
 
 No se aplicará pena alguna a quien por culpa en el manejo de vehículo de motor ocasione lesiones u homicidio en agravio de un ascendiente o descendiente consanguíneo en línea recta, hermano, cónyuge, concubino, adoptante o adoptado, siempre y cuando el agente no se encuentre voluntariamente bajo el efecto de bebidas embriagantes, estupefacientes o sustancias que produzcan efectos similares sin que medie prescripción médica.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2017)</small>
+
 ###### ARTICULO 109.
 
-El juzgador, si lo estima pertinente, además de las penas que se señalan para los delitos de homicidio y lesiones, podrá en su caso:
+El juzgador, sí lo estima pertinente, además de las penas que se señalan para los delitos de feminicidio, homicidio y lesiones, podrá en su caso:
 
 I.- Declarar a los reos sujetos a vigilancia de la autoridad, y/o
 
@@ -1261,13 +1307,31 @@ Al que abandone una persona incapaz de valerse por sí misma, teniendo la obliga
 
 Al que con motivo de tránsito de vehículo atropelle a una persona y no le preste el auxilio o no solicite la asistencia que requiere pudiendo hacerlo, se le aplicará de seis meses a un año de prisión o trabajo en favor de la comunidad de quince a noventa días, independientemente de la pena que corresponda con motivo del atropellamiento.
 
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2017)</small>
+
+ARTICULO 112 BIS.- Comete el delito de violencia obstétrica el personal de salud que:
+
+I. No atienda o no brinde atención oportuna y eficaz a las mujeres en el embarazo, parto, puerperio o en emergencias obstétricas;
+
+II. Altere el proceso natural del parto de bajo riesgo, mediante el uso de técnicas de aceleración, sin obtener el consentimiento voluntario, expreso e informado de la mujer;
+
+III. No obstante existir condiciones para el parto natural, practique el parto por vía de cesárea, sin obtener el consentimiento voluntario, expreso e informado de la mujer;
+
+IV. Acose o presione psicológica u ofensivamente a una parturienta, con el fin de inhibir la libre decisión de su maternidad, o
+
+V. Sin causa médica justificada, obstaculice el apego del niño o la niña con su madre, mediante la negación a ésta de la posibilidad de cargarle o de amamantarle inmediatamente después de nacer.
+
+A quien realice las conductas señaladas en las fracciones I, II, III y IV, se le impondrán de tres a seis años de prisión y de doscientos hasta trescientos días multa; y quien incurra en los supuestos descritos en la fracción V será sancionado con prisión de seis meses a tres años y de cien hasta doscientos días multa.
+
+Si el sujeto activo del delito fuera servidor público, además de las penas señaladas en el párrafo primero y las que correspondan a la ley de la materia, se le podrá inhabilitar para el ejercicio de la profesión médica hasta por un año.
+
 ###### ARTICULO 113.
 
 Al que sabiendo que padece algún mal grave y transmisible ponga por cualquier medio en peligro de contagio la salud de otro, se le impondrá de seis meses a un año de prisión o multa de diez a cincuenta días. Si la puesta en peligro es violado un deber de cuidado, solo se pondrá al agente a disposición de las autoridades sanitarias para su tratamiento médico adecuado.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
-Si el peligro de contagio se da entre cónyuges o concubinos, solo se procederá por querella de la víctima o del ofendido.
+Si el peligro de contagio se da entre cónyuges o concubinos o entre personas que conformen una pareja derivada de una relación de hecho, solo se procederá por querella de la víctima o del ofendido.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 2009)</small>
 
@@ -1445,13 +1509,19 @@ Si el medio empleado fuere la violencia, la pena se aumentará hasta en una mita
 
 ### CAPITULO IV. ACOSO SEXUAL
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2017)</small>
 
-ARTICULO 130 BIS.- A quien asedie o acose sexualmente a persona de cualquier sexo o solicite favores de naturaleza sexual, para sí o para un tercero, se le impondrá de seis meses a un año de prisión y de doscientos a cuatrocientos días de multa.
+ARTICULO 130 BIS.- A quien asedie o acose sexualmente a persona de cualquier sexo o solicite favores de naturaleza sexual, para sí o para un tercero, se le impondrá de seis meses a dos años de prisión y trescientos a quinientos días multa.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 Cuando el acoso sexual se cometa contra una persona menor de dieciocho años de edad, o con alguna discapacidad o que no tenga la capacidad para comprender el significado del hecho o por cualquier causa no pueda resistirlo, la pena de prisión se aumentará hasta en una tercera parte de la prevista en el párrafo anterior y se perseguirá de oficio.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
 Si el sujeto activo fuese servidor público, docente o parte del personal administrativo de cualquier institución educativa o de asistencia social, el delito será perseguible de oficio, y además de las penas señaladas, se le destituirá del cargo y se le inhabilitará para ocupar cualquier otro en el sector público hasta por dos años, en caso de reincidencia, la inhabilitación será definitiva.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 Al que reincidiere en la comisión de este delito, se le aplicará el doble de la pena de prisión señalada en los párrafos anteriores y quinientos días de multa.
 
@@ -1469,9 +1539,9 @@ Cuando el secreto se revele o se use en beneficio propio o ajeno por persona que
 
 ### CAPITULO V. HOSTIGAMIENTO SEXUAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2017)</small>
 
-ARTICULO 130 TER.- A quien asedie o acose sexualmente a persona de cualquier sexo o solicite favores de naturaleza sexual, para sí o para un tercero, valiéndose de su posición jerárquica derivada de relaciones laborales, docentes, domésticas o cualquier otra que implique una posición de poder, de autoridad o ambas del activo para con el pasivo, se le impondrá de uno a dos años de prisión y de trescientos a quinientos días multa.
+ARTICULO 130 TER.- A quien asedie o acose sexualmente a persona de cualquier sexo o solicite favores de naturaleza sexual, para sí o para un tercero, valiéndose de su posición jerárquica derivada de relaciones laborales, docentes, domésticas o cualquier otra que implique una subordinación, se le impondrá de seis meses a dos años de prisión y de trescientos a quinientos días multa.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
@@ -1522,6 +1592,10 @@ III.- Cuando la violación sea cometida por dos o más personas.
 > <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
 
 IV.- Cuando la violación sea cometida aprovechando la confianza depositada en el agente, sin que éste tenga relación de parentesco con la víctima.
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2017)</small>
+
+V.- Cuando la violación sea cometida en medios de transportes públicos o lugares solitarios o carreteras.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2010)</small>
 
@@ -1877,7 +1951,7 @@ ARTICULO 151 BIS.- Se equipara al Abuso de confianza y se sancionará con la mis
 
 ### CAPITULO PRIMERO. INCUMPLIMIENTO DE LAS OBLIGACIONES DE ASISTENCIA FAMILIAR
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 152.
 
@@ -2065,35 +2139,39 @@ VIOLENCIA ECONÓMICA.- Es toda acción u omisión del agresor que afecta la supe
 
 ###### ARTICULO 167.
 
-A quien sin causa justificada deje de cumplir con la obligación de proporcionar alimentos a sus hijos, cónyuge, concubino o cualquier otro familiar con quien tenga el deber de asistencia conforme al Código Civil, se le impondrá de uno a cuatro años de prisión y suspensión o privación de los derechos de familia en relación con la víctima o el ofendido y pago como reparación del daño de las cantidades no suministradas oportunamente a la parte ofendida. En el caso de que los acreedores sean ancianos o enfermos, o si del incumplimiento resultare alguna lesión o la muerte de los acreedores, este delito será perseguible de oficio.
+Al que incumpla con la obligación de dar alimentos a las personas que tienen derecho conforme al Código Civil, se le impondrá de uno a cinco años de prisión y suspensión o privación de los derechos de familia en relación con la víctima o el ofendido y pago como reparación del daño de las cantidades no suministradas oportunamente a la parte ofendida, desde la fecha en que dejó de cumplir el deber de proporcionar los alimentos hasta la sentencia condenatoria.
 
-Si la omisión en el cumplimiento de las obligaciones alimentarias, ocurre en desacato de una resolución judicial, se impondrá de uno a cinco años de prisión
+En el caso de que los acreedores alimentarios sean personas adultos mayores o enfermas, o si del incumplimiento resultare alguna lesión o la muerte de los acreedores, el delito se perseguirá de oficio.
+
+Para los efectos de este artículo, se entenderá como obligación de dar alimentos, la definición prevista en el Código Civil para el Estado Libre y Soberano de Quintana Roo vigente.
+
+Si la omisión en el cumplimiento de las obligaciones alimentarias, ocurre en desacato de una resolución judicial, se impondrá de uno a cinco años de prisión.
+
+Para los efectos de éste artículo, se tendrá por consumado el delito aun cuando el o los acreedores alimentarios se dejen al cuidado o reciban ayuda de un tercero.
 
 Las sanciones anteriores se aumentarán hasta en una cuarta parte, cuando el deudor alimentista, con el propósito de eludir o suspender el cumplimiento de sus obligaciones alimentarias decretadas por autoridad judicial, renuncie, abandone su trabajo, obtenga licencia sin causa justificada o se coloque dolosamente en estado de insolvencia.
 
-Se impondrá de seis meses a dos años de prisión, a aquellas personas que obligadas a informar acerca de los ingresos de quienes deban cumplir con todas las obligaciones señaladas en el artículo anterior, incumplan con la orden judicial de hacerlo, o informen cantidades menores a las reales.
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+ARTICULO 167 BIS.- Se impondrá pena de un año a cuatro años de prisión y de doscientos a quinientos días multa, a aquellas personas que obligadas a informar acerca de los ingresos reales de quienes deban cumplir con todas las obligaciones señaladas en los artículos anteriores, incumplan con la orden judicial de hacerlo o haciéndolo no lo hagan dentro del término ordenado por el Juez u omitan realizar de inmediato el descuento ordenado.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 168.
 
-El delito previsto en el artículo anterior, se perseguirá por querella de la víctima o del ofendido o de su legítimo representante y a falta de éste, el Ministerio Público procederá de oficio, a reserva de que se promueva la designación de un tutor especial.
+El delito previsto en el artículo 167, se perseguirá por querella de la víctima u ofendido o su legítimo representante o cualquiera de los sujetos previstos por el artículo 852 del Código Civil del (sic) para el Estado de Quintana Roo. Ante la ausencia de cualquiera de los sujetos antes señalados, el Ministerio Público procederá de oficio, a reserva de que se promueva la designación de un tutor especial.
 
 ###### ARTICULO 169.
 
 No se impondrá pena alguna o se dejará de aplicar la impuesta, cuando el obligado a proporcionar los medios indispensables de subsistencia pague todas las cantidades que hubiere dejado de ministrar por el concepto de alimentos o se someta al régimen de pago que el Juez o la autoridad ejecutora, en su caso, determinen, garantizando el pago de las cantidades que en el futuro le corresponda satisfacer.
 
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
-Para que el perdón concedido por el ofendido o su representante pueda producir efectos, el responsable deberá pagar todas las cantidades que hubiere dejado de ministrar por concepto de alimentos, durante el periodo que señala el artículo siguiente y durante la substanciación del proceso.
-
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2009)</small>
+Para que el perdón concedido por el ofendido o su representante pueda producir efectos, el responsable deberá pagar todas las cantidades que hubiere dejado de ministrar por concepto de alimentos, durante el período que señala el artículo 167 y durante la substanciación del proceso.
 
 ###### ARTICULO 170.
 
-En los delitos previstos por este Capítulo, solo podrá reclamarse como reparación del daño, hasta el equivalente a un año de los alimentos que se hubieren dejado de ministrar, previo a la presentación de la querella y los que se generen durante la tramitación del juicio; sin perjuicio del derecho o acción que le corresponda al acreedor alimentario para ejecutar la resolución judicial o convenio respecto de adeudos anteriores.
-
-El monto de la reparación del daño que se señale como fianza para obtener la libertad o bien la conmutación de la pena, será entregado íntegramente al pasivo o pasivos del delito por sí o través de quien legalmente los represente; esto con el fin de pagar los alimentos adecuados.
+(DEROGADO, P.O. 4 DE JULIO DE 2017)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE OCTUBRE DE 2006)</small>
 
@@ -2239,9 +2317,9 @@ Para efectos del presente artículo, se entenderá por relación de hecho aquél
 
 ARTICULO 176 QUÁTER. Al que cometa el delito de violencia familiar se le impondrá de seis meses a cinco años de prisión, pérdida de la patria potestad o pérdida de la custodia, de los derechos hereditarios y de alimentos, y en su caso a juicio del juez, prohibición de ir a una circunscripción territorial determinada o de residir en ella; y si de la comisión de la violencia familiar resultare como consecuencia la comisión de otro u otros delitos tipificados por este Código, se aplicarán las reglas del concurso de que se trate.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
-Asimismo, se sujetará al activo del delito a participar en servicios reeducativos integrales, especializados y gratuitos; y a tratamiento psicoterapéutico reeducativo para corregir las conductas de violencia familiar, hasta por el mismo tiempo de duración de la pena de prisión
+Asimismo, se sujetará al activo del delito a participar en servicios reeducativos integrales, especializados y gratuitos; y a tratamiento psicoterapéutico reeducativo con perspectiva de género para corregir las conductas de violencia familiar, hasta por el mismo tiempo de duración de la pena de prisión.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
@@ -3685,7 +3763,7 @@ TRANSITORIO:
 
 P.O. 30 DE JUNIO DE 2010.
 
-DECRETO NÚMERO 291, POR EL QUE SE REFORMA EL ARTÍCULO 156 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+DECRETO NUMERO 291, POR EL QUE SE REFORMA EL ARTÍCULO 156 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
@@ -3900,3 +3978,11 @@ P.O. 20 DE SEPTIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 002 POR EL QUE SE REFORMAN LOS ARTÍCULOS 155, 209 PRIMER PÁRRAFO, 212 PRIMER PÁRRAFO, 252 PRIMER PÁRRAFO, 256 Y 259; Y SE DEROGA EL CUARTO PÁRRAFO DEL ARTÍCULO 206; TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
 
 ÚNICO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 4 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 062 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
