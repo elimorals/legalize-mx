@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-usos-de-agua-del-estado-de-tabasco-44954"
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-21"
-last_updated: "2015-02-21"
+last_updated: "2017-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44954&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE USOS DE AGUA DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 21 de mayo de 2005.
 
@@ -1453,13 +1453,17 @@ VI. Impulsar el mejoramiento de la calidad del agua; y
 
 VII. Considerar el costo de operación y todas las actividades inherentes al mismo. Así como la ampliación de coberturas.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 78.
 
-Los derechos y tarifas resultantes se determinarán y actualizarán por quien preste los servicios, previa aprobación del Congreso del Estado, con base en lo que defina el organismo operador, en los procedimientos se establecerán los parámetros y su interrelación para el cálculo de las tarifas medias de equilibrio, mismas que se determinarán en veces salarios mínimos.
+Los derechos y tarifas resultantes se determinarán y actualizarán por quien preste los servicios, previa aprobación del Congreso del Estado, con base en lo que defina el organismo operador, en los procedimientos se establecerán los parámetros y su interrelación para el cálculo de las tarifas medias de equilibrio, mismas que se determinarán en veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 Las tarifas medias de equilibrio deberán ser suficientes para cubrir los costos derivados de la operación, el mantenimiento y administración de los sistemas; la rehabilitación y mejoramiento de la infraestructura existente; la amortización de las inversiones realizadas; los gastos financieros de los pasivos; y las inversiones necesarias para la expansión de la infraestructura. Los procedimientos deberán reflejar el efecto que, en su caso, tengan en las tarifas medias de equilibrio, las aportaciones que realicen los gobiernos estatal, federal o municipal, o cualquier otra instancia pública, privada o social. Estas también deberán tomar en cuenta explícitamente el efecto de la eficiencia física, comercial, operativa y financiera de los prestadores de los servicios.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 Una vez aprobados los derechos y tarifas por el Congreso del Estado, serán publicadas en el Periódico Oficial y en el periódico de mayor circulación en el Municipio.
 
@@ -1699,19 +1703,29 @@ XXV. No registrar las instalaciones u obras hidráulicas ante la Comisión y Org
 
 XXVI. Incurrir en cualquier otra violación a los preceptos que señala esta Ley y su Reglamento.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 105.
 
-Las faltas a que se refiere el artículo anterior, serán sancionadas administrativamente por la autoridad estatal, municipal o los organismos operadores con multas equivalentes a días de salario mínimo general vigente en el área geográfica y en el momento en que se cometa la Infracción:
+Las faltas a que se refiere el artículo anterior, serán sancionadas administrativamente por la autoridad estatal, municipal o los organismos operadores con multas equivalentes al valor diario de la Unidad de Medida y Actualización en el momento en que se cometa la Infracción:
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 I. De uno a treinta en el caso de violación a las fracciones III, V, VI, IX y XVI;
 
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 II. De treinta a quinientos en el caso de violación a las fracciones IV, VIII, X, XI, XII, XIII, XIV, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV y XXVI; y
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 III. De quinientos a mil en el caso de violación a las fracciones I, II, VII y XV.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 Para sancionar las faltas anteriores, se calificarán las infracciones tomando en consideración la gravedad de la falta, los daños causados, las condiciones económicas del infractor y la reincidencia, en caso procedente.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 Cuando los hechos que contravengan las disposiciones de esta Ley o su reglamento presuntamente constituyeren un delito, se formulará denuncia ante las autoridades competentes, sin perjuicio de aplicar las sanciones administrativas que procedan.
 
@@ -1757,15 +1771,25 @@ VI. Cualquier otra infracción a esta Ley o a su reglamento, que no esté expres
 
 Las infracciones a que se refiere el artículo anterior, serán ejecutadas por la autoridad competente, según corresponda, con base en lo siguiente:
 
-I. Con multa de quinientos a dos mil días de salario mínimo diario general vigente en el Estado, al momento de cometerse la infracción, tratándose de las fracciones I y IV;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-II. Con multa de mil a cuatro mil días de salario mínimo diario general vigente en el Estado, al momento de cometerse la infracción, en caso de la fracción II;
+I. Con multa de quinientos a dos mil veces el valor diario de la Unidad de Medida y Actualización, al momento de cometerse la infracción, tratándose de las fracciones I y IV;
 
-III. Con multas de cien a mil días de salario mínimo diario general vigente en el Estado, al momento de cometerse la infracción, tratándose de la fracción III;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-IV. Con multa de mil a cinco mil días de salario mínimo diario general vigente en el Estado, al momento de cometerse la infracción, tratándose de la fracción V; y
+II. Con multa de mil a cuatro mil veces el valor diario de la Unidad de Medida y Actualización, al momento de cometerse la infracción, en caso de la fracción II;
 
-V. Con multa de hasta quinientos días de salario mínimo diario general vigente en el Estado, al momento de cometerse la infracción, en el caso de la fracción VI.
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+III. Con multas de cien a mil veces el valor diario de la Unidad de Medida y Actualización, al momento de cometerse la infracción, tratándose de la fracción III;
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+IV. Con multa de mil a cinco mil veces el valor diario de la Unidad de Medida y Actualización, al momento de cometerse la infracción, tratándose de la fracción V; y
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+V. Con multa de hasta quinientas veces el valor diario de la Unidad de Medida y Actualización, al momento de cometerse la infracción, en el caso de la fracción VI.
 
 En caso de reincidencia, la autoridad competente, según corresponda, podrá imponer una sanción equivalente hasta por el doble de la cuantía señalada.
 
@@ -1839,7 +1863,7 @@ LIC. JAIME HUMBERTO LASTRA BASTAR
 
 SECRETARIO DE GOBIERNO.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 24 DE OCTUBRE DE 2009.
 
@@ -1868,3 +1892,21 @@ P.O. 21 DE FEBRERO DE 2015.
 PRIMERO.- El Presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones jurídicas que se opongan al presente decreto.
+
+P.O. 5 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 089 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 78, PRIMER PÁRRAFO; 105, PRIMER PÁRRAFO Y 110, FRACCIONES DE LA I A LA V DEL PRIMER PÁRRAFO, TODOS DE LA LEY DE USOS DE AGUA DEL ESTADO DE TABASCO".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- El valor diario de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Estadística y Geografía, y publique en el Diario Oficial de la Federación, con fundamento en el artículo 26, apartado B, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
+
+TERCERO.- Quedan derogadas las disposiciones legales que se opongan al presente Decreto.
+
+CUARTO.- A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes, así como en cualquier disposición jurídica que emane de las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
+
+QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha de entrada en vigor de este Decreto, que utilicen el salario mínimo como referencia para cualquier efecto, no se modificarán por la Unidad de Medida y Actualización, salvo que las partes acuerden expresamente lo contrario. Lo anterior, sin perjuicio de que a partir de la entrada en vigor de este Decreto los contratantes puedan utilizar como índice o referencia a la Unidad de Medida y Actualización.
+
+SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
+
+Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
