@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-proteccion-y-fomento-del-patrimonio-cultural-para-el-925
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-29"
-last_updated: "2012-12-29"
+last_updated: "2017-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE PROTECCIÓN Y FOMENTO DEL PATRIMONIO CULTURAL PARA EL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
 
 Ley publicada en el Suplemento R del Periódico Oficial del Estado de Tabasco, el sábado 29 de diciembre de 2012.
 
@@ -1269,9 +1269,13 @@ XI. Omita inscribir ante el Registro un bien declarado como Patrimonio Cultural.
 
 A quien incurra en las infracciones a que se refiere el artículo anterior se les sancionará con:
 
-I. Multa equivalente de 1000 a 10,000 días de salario mínimo general diario vigente en el Estado a quienes incurran en los supuestos mencionados en las fracciones III, IV, VI, y XI; y
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-II. Multa equivalente de 11,000 a 25,000 días de salario mínimo general diario vigente en el estado a quienes incurran en los supuestos mencionados en las fracciones I, II, V, VII, VIII, IX y X.
+I. Multa equivalente de 1000 a 10,000 veces el valor diario de la Unidad de Medida y Actualización a quienes incurran en los supuestos mencionados en las fracciones III, IV, VI, y XI; y
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+II. Multa equivalente de 11,000 a 25,000 veces el valor diario de la Unidad de Medida y Actualización a quienes incurran en los supuestos mencionados en las fracciones I, II, V, VII, VIII, IX y X.
 
 ###### ARTÍCULO 112.
 
@@ -1362,3 +1366,23 @@ CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO.
 LIC. RAFAEL MIGUEL GONZÁLEZ LASTRA
 
 SECRETARIO DE GOBIERNO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 089 POR EL QUE "SE REFORMA EL ARTÍCULO 111, FRACCIONES I Y II, DE LA LEY DE PROTECCIÓN Y FOMENTO DEL PATRIMONIO CULTURAL PARA EL ESTADO DE TABASCO".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- El valor diario de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Estadística y Geografía, y publique en el Diario Oficial de la Federación, con fundamento en el artículo 26, apartado B, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
+
+TERCERO.- Quedan derogadas las disposiciones legales que se opongan al presente Decreto.
+
+CUARTO.- A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes, así como en cualquier disposición jurídica que emane de las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
+
+QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha de entrada en vigor de este Decreto, que utilicen el salario mínimo como referencia para cualquier efecto, no se modificarán por la Unidad de Medida y Actualización, salvo que las partes acuerden expresamente lo contrario. Lo anterior, sin perjuicio de que a partir de la entrada en vigor de este Decreto los contratantes puedan utilizar como índice o referencia a la Unidad de Medida y Actualización.
+
+SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
+
+Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
