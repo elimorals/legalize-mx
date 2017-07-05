@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-desarrollo-rural-sustentable-del-estado-de-tabasco-68573
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-29"
-last_updated: "2009-04-29"
+last_updated: "2017-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68573&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
 
 Ley publicada en el Suplemento F del Periódico Oficial del Estado de Tabasco, el miércoles 29 de abril de 2009.
 
@@ -123,7 +123,7 @@ XXX. Recursos Naturales. Todos aquellos bienes naturales renovables y no renovab
 
 XXXI. Secretaría. La Secretaría de Desarrollo Agropecuario, Forestal y Pesca;
 
-XXXII. Seguridad Alimentaria. El abasto oportuno, suficiente e incluyente de alimentos a la población;
+XXXII. Seguridad Alimentaria: El abasto oportuno, suficiente e incluyente de alimentos a la población;
 
 XXXIII. Servicios Ambientales (sinónimo: beneficios ambientales). Los beneficios que obtiene la sociedad de los recursos naturales, tales como la provisión y calidad del agua, la captura de contaminantes, la mitigación del efecto de los fenómenos naturales adversos, el paisaje y la recreación, entre otros;
 
@@ -131,7 +131,7 @@ XXXIV. Sistema. Mecanismo de concurrencia y coordinación de las funciones de la
 
 XXXV. Sistema-Producto. El conjunto de elementos y agentes concurrentes de los procesos productivos de las actividades agropecuarias, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución, comercialización y consumo;
 
-XXXVI. Soberanía Alimentaria: La libre determinación del país en materia de producción, abasto y acceso de alimentos a toda la población, garantía de tener los alimentos que la población requiere mediante su propia producción; y,
+XXXVI. Soberanía Alimentaria. La libre determinación del país en materia de producción, abasto y acceso de alimentos a toda la población, garantía de tener los alimentos que la población requiere mediante su propia producción; y,
 
 XXXVII. Sustentabilidad. Acción que integra criterios e indicadores de carácter ambiental, económico social que tienda a mejorar la calidad de vida y productividad de la población, con medidas apropiadas de preservación y protección del ambiente natural, el desarrollo económico equilibrado y la cohesión social, sin comprometer la satisfacción de las necesidades de las futuras generaciones.
 
@@ -403,7 +403,7 @@ La Comisión Intersecretarial Estatal, a petición del Ejecutivo estatal, hará 
 
 El Programa Estatal Concurrente al que se refiere el artículo anterior, fomentará acciones en las siguientes materias:
 
-l. Actividades económicas de la sociedad rural;
+I. Actividades económicas de la sociedad rural;
 
 II. Educación para el desarrollo rural sustentable;
 
@@ -607,7 +607,7 @@ Los convenios a que se refiere este capítulo establecerán los lineamientos con
 
 Dichos convenios establecerán las bases para determinar las formas de participación de ambos órdenes de gobierno, incluyendo, entre otras, las siguientes:
 
-l. La intervención de las autoridades municipales en el ejercicio descentralizado de las atribuciones que asigna a la Secretaría la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco, en los términos de esta Ley y de las disposiciones que regulan las materias consideradas en ella;
+I. La intervención de las autoridades municipales en el ejercicio descentralizado de las atribuciones que asigna a la Secretaría la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco, en los términos de esta Ley y de las disposiciones que regulan las materias consideradas en ella;
 
 II. La programación de las actividades que especifique las responsabilidades operativas y presupuestales en el cumplimiento de los objetivos y metas del Programa Sectorial y en el que deban aplicarse recursos estatales;
 
@@ -1893,7 +1893,9 @@ XI. No cumplir con las disposiciones legales en materia de salud agropecuaria pr
 
 La Secretaría podrá imponer discrecionalmente atendiendo a la gravedad de la infracción, cualquiera de las siguientes sanciones:
 
-l. Multa de veinte a veinte mil días de salario mínimo general vigente en el Estado al momento de cometerse la infracción;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+I. Multa de veinte a veinte mil veces el valor diario de la Unidad de Medida y Actualización al momento de cometerse la infracción;
 
 II. Clausura definitiva, parcial o total;
 
@@ -2112,3 +2114,23 @@ GOBERNADOR DEL ESTADO DE TABASCO.
 LIC. MIGUEL ALBERTO ROMERO PÉREZ
 
 CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 089 POR EL QUE “SE REFORMA EL ARTÍCULO 181, PRIMER PÁRRAFO, FRACCIÓN I, DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- El valor diario de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Estadística y Geografía, y publique en el Diario Oficial de la Federación, con fundamento en el artículo 26, apartado B, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
+
+TERCERO.- Quedan derogadas las disposiciones legales que se opongan al presente Decreto.
+
+CUARTO.- A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes, así como en cualquier disposición jurídica que emane de las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
+
+QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha de entrada en vigor de este Decreto, que utilicen el salario mínimo como referencia para cualquier efecto, no se modificarán por la Unidad de Medida y Actualización, salvo que las partes acuerden expresamente lo contrario. Lo anterior, sin perjuicio de que a partir de la entrada en vigor de este Decreto los contratantes puedan utilizar como índice o referencia a la Unidad de Medida y Actualización.
+
+SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
+
+Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
