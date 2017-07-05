@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-operaciones-inmobiliarias-del-estado-de-tabasco-70490"
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-07"
-last_updated: "2009-10-07"
+last_updated: "2017-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE OPERACIONES INMOBILIARIAS DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 7 de octubre de 2009.
 
@@ -33,7 +33,9 @@ Que el H. Congreso del Estado, se ha servido dirigirme lo siguiente:
 
 LA QUINCUAGÉSIMA NOVENA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO, EN EJERCICIO DE LAS FACULTADES CONFERIDAS POR EL ARTÍCULO 36, FRACCIÓN VI DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO, Y:
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 SEXTO.- Que en ese contexto siendo facultad de este Honorable Congreso, de conformidad con lo dispuesto por el artículo 36, fracción I de la Constitución Política Local, expedir, reformar, adicionar, derogar y abrogar las Leyes y Decretos para la mejor administración del Estado, planeando su desarrollo económico y social, se emite el siguiente:
 
@@ -57,19 +59,25 @@ Las disposiciones de esta Ley son de orden público, de interés social y tienen
 
 Para los efectos de esta Ley, se entenderá por:
 
-I. Agente Inmobiliario o Agentes Inmobiliarios: Todas aquellas personas físicas o jurídicas colectivas que se dediquen con la respectiva licencia expedida por la Secretaría de Desarrollo Económico, de forma habitual y retribuida dentro del Estado de Tabasco, a asesorar o intervenir como mediador para la celebración de un acto jurídico en el que se transmita el dominio, uso o goce temporal de un bien inmueble;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+I. Agente Inmobiliario o Agentes Inmobiliarios: Todas aquellas personas físicas o jurídicas colectivas que se dediquen con la respectiva licencia expedida por la Secretaría de Desarrollo Económico y Turismo, de forma habitual y retribuida dentro del Estado de Tabasco, a asesorar o intervenir como mediador para la celebración de un acto jurídico en el que se transmita el dominio, uso o goce temporal de un bien inmueble;
 
 II. Bienes Inmuebles: Son bienes inmuebles para los efectos de la presente Ley, aquellos establecidos en el artículo 848 del Código Civil Vigente en el Estado de Tabasco;
 
 III. Intermediado: Toda persona física o jurídica colectiva que contrata a un Agente Inmobiliario con el objeto de que le oriente o ayude a realizar operaciones inmobiliarias;
 
-IV. Licencia: La autorización, otorgada por la Secretaría de Desarrollo Económico a las personas físicas o jurídicas colectivas, para realizar operaciones inmobiliarias por cuenta propia o por cuenta de terceros en el Estado de Tabasco;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+IV. Licencia: La autorización, otorgada por la Secretaría de Desarrollo Económico y Turismo a las personas físicas o jurídicas colectivas, para realizar operaciones inmobiliarias por cuenta propia o por cuenta de terceros en el Estado de Tabasco;
 
 V. Operaciones Inmobiliarias: Es el acto de intermediación, tendiente a la celebración de un contrato de compraventa, arrendamiento, aparcería, donación, mutuo con garantía hipotecaria, transmisión de dominio, fideicomiso, adjudicación, cesión y/o cualquier otro contrato traslativo de dominio o de uso o usufructo de bienes inmuebles, así como la administración, comercialización y consultoría sobre los mismos;
 
 VI. Registro: El Registro Estatal de Agentes Inmobiliarios; y
 
-VII. Secretaría: Secretaría de Desarrollo Económico.
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+VII. Secretaría: Secretaría de Desarrollo Económico y Turismo.
 
 ###### ARTÍCULO 3.
 
@@ -299,15 +307,19 @@ I. Amonestación;
 
 II. Apercibimiento;
 
-III. Multa de hasta mil veces el salario mínimo general vigente en el lugar donde se cometa la infracción;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+III. Multa de hasta mil veces el valor diario de la Unidad de Medida y Actualización;
 
 IV. Suspensión de la licencia respectiva e inscripción en el Registro, en su caso, hasta por treinta días hábiles; y
 
 V. Cancelación de la licencia respectiva y de la inscripción en el Registro.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 18.
 
-A las personas físicas que se ostenten como Agentes Inmobiliarios con licencia estatal y que realicen operaciones inmobiliarias sin que cuenten con la Licencia respectiva se les aplicará la sanción consistente en multa de hasta por 600 días de salario mínimo vigente en el Estado, según el caso particular y tomando en cuenta las circunstancias previstas en el artículo 19 de esta Ley.
+A las personas físicas que se ostenten como Agentes Inmobiliarios con licencia estatal y que realicen operaciones inmobiliarias sin que cuenten con la Licencia respectiva se les aplicará la sanción consistente en multa de hasta por 600 veces el valor diario de la Unidad de Medida y Actualización, según el caso particular y tomando en cuenta las circunstancias previstas en el artículo 19 de esta Ley.
 
 A los Agentes Inmobiliarios con registro estatal que durante la vigencia de su registro hubieran sido condenados por delito de carácter patrimonial, serán sancionados con la cancelación del registro y, en su caso, revocación de la Licencia respectiva.
 
@@ -482,3 +494,23 @@ GOBERNADOR DEL ESTADO DE TABASCO.
 LIC. MIGUEL ALBERTO ROMERO PÉREZ
 
 CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 089 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 2, FRACCIONES I, IV Y VII; 17, FRACCIÓN III; Y 18, PRIMER PÁRRAFO; TODOS DE LA LEY DE OPERACIONES INMOBILIARIAS DEL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- El valor diario de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Estadística y Geografía, y publique en el Diario Oficial de la Federación, con fundamento en el artículo 26, apartado B, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
+
+TERCERO.- Quedan derogadas las disposiciones legales que se opongan al presente Decreto.
+
+CUARTO.- A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes, así como en cualquier disposición jurídica que emane de las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
+
+QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha de entrada en vigor de este Decreto, que utilicen el salario mínimo como referencia para cualquier efecto, no se modificarán por la Unidad de Medida y Actualización, salvo que las partes acuerden expresamente lo contrario. Lo anterior, sin perjuicio de que a partir de la entrada en vigor de este Decreto los contratantes puedan utilizar como índice o referencia a la Unidad de Medida y Actualización.
+
+SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
+
+Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
