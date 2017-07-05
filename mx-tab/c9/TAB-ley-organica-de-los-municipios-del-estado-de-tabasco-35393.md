@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-de-los-municipios-del-estado-de-tabasco-35393"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-12-03"
-last_updated: "2017-04-08"
+last_updated: "2017-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 3 de diciembre de 2003.
 
@@ -33,7 +35,7 @@ Que el H. Congreso del Estado, se ha servido dirigirme lo siguiente:
 
 LA QUINCUAGÉSIMA SÉPTIMA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 36 FRACCIONES I, XVI, XXVIII Y XXXIX DE LA CONSTITUCIÓN POLÍTICA LOCAL; Y
 
-....
+[...]
 
 DECRETO 246
 
@@ -973,7 +975,9 @@ I. Amonestación;
 
 II. Apercibimiento;
 
-III. Multa de una a treinta veces el salario mínimo diario vigente en el Estado, respetándose las restricciones que para el efecto dispone la Constitución federal.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
+
+III. Multa de una a treinta veces el valor diario de la Unidad de Medida y Actualización respetándose las restricciones que para el efecto dispone la Constitución federal.
 
 Para el pago de la multa y atendiendo a la situación económica del infractor, se le podrá conceder un plazo hasta de tres días si es persona conocida en la comunidad; si pasado este término no hace el pago después de haber sido requerido, se le impondrá el arresto correspondiente que no excederá en ningún caso de treinta y seis horas;
 
@@ -1099,8 +1103,6 @@ También se declarará desaparecido un Ayuntamiento en caso de renuncia o falta 
 
 En el caso de que se puedan celebrar nuevas elecciones, un Concejo Municipal se encargará provisionalmente de las funciones del Ayuntamiento en tanto toman posesión los nuevos integrantes de éste.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 27 DE JULIO DE 2016)</small>
 
 Los concejales deben reunir los mismos requisitos que esta Ley exige para los regidores. En forma obligatoria se deberá considerar la paridad de género en la conformación del Concejo, así como en las fórmulas de Concejales propietarios y suplentes. El Concejo Municipal deberá reproducir el mismo equilibrio de género que existía en el Ayuntamiento desaparecido.
@@ -1181,13 +1183,9 @@ Para aplicar la suspensión o revocación a que se refieren los artículos 59 y 
 
 Si alguno de los miembros propietarios de los ayuntamientos dejara de desempeñar su cargo, será sustituido por su suplente.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 27 DE JULIO DE 2016)</small>
 
 Si se tratare de quien ocupa la Presidencia Municipal, será sustituido por su suplente o, en su caso, por uno de los regidores o por un vecino del Municipio que deberán de ser del mismo género de la persona que genera la vacante; en los dos últimos supuestos, cualquiera de ellos será designado por la mayoría de los integrantes del Ayuntamiento.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 27 DE JULIO DE 2016)</small>
 
@@ -3213,9 +3211,11 @@ El presidente municipal es responsable por las violaciones a la Constitución Po
 
 Para la determinación de las responsabilidades, procedimientos, sanciones y recursos administrativos se estará a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### Artículo 220.
 
-El Ayuntamiento a través de su órgano de control interno, podrá abstenerse de sancionar al infractor, por una sola vez, cuando lo estime pertinente, justificando la causa de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por éste no exceda de cien veces el salario mínimo diario vigente en el Estado.
+El Ayuntamiento a través de su órgano de control interno, podrá abstenerse de sancionar al infractor, por una sola vez, cuando lo estime pertinente, justificando la causa de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por éste no exceda de cien veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 221.
 
@@ -3315,8 +3315,6 @@ IV. Indicar el uso de suelo del predio;
 
 V. La exposición de motivos en que se fundamente la solicitud; además de la mención del acto jurídico que habrá de formalizarla;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
 VI. Acreditar que el adquiriente no sea familiar por afinidad, ni por consanguinidad hasta el segundo grado, de alguno de los integrantes del Ayuntamiento, en cuyo caso la enajenación será nula;
@@ -3329,13 +3327,9 @@ Tratándose de personas jurídicas colectivas se expresará su denominación, do
 
 VIII. Superficie, medidas, linderos y ubicación exacta del inmueble, acompañando el plano correspondiente;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
 IX. Certificación del Registro Público de la Propiedad y del Comercio, de que el solicitante, cuando es un particular, y el predio se destina para una vivienda, no es propietario de algún inmueble;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 X. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2009)
 
@@ -3344,8 +3338,6 @@ XI. Comprobación de que el inmueble no está ni será destinado al servicio pú
 XII. Certificación de que el inmueble no tiene un valor arqueológico, histórico o artístico, en caso de que exista indicio de ello, la que deberá ser expedida por la Institución competente.
 
 Una vez recibida la solicitud, el Cabildo emitirá por acuerdo de las dos terceras partes de sus integrantes la resolución que corresponda, sujetándose a lo señalado en esta Ley y a las demás disposiciones aplicables, ordenándose la publicación de los resolutivos correspondientes en el Periódico Oficial del Estado. Asimismo, en su oportunidad se deberán inscribir el o los títulos de propiedad que se expidan.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
@@ -3775,7 +3767,7 @@ LIC. JAIME HUMBERTO LASTRA BASTAR
 
 SECRETARIO DE GOBIERNO.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 13 DE DICIEMBRE DE 2006.
 
@@ -3946,3 +3938,21 @@ P.O. 8 DE ABRIL DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones en lo que se opongan al presente decreto.
+
+P.O. 5 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 089 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 50, FRACCIÓN III; Y 220, AMBOS DE LA LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- El valor diario de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Estadística y Geografía, y publique en el Diario Oficial de la Federación, con fundamento en el artículo 26, apartado B, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
+
+TERCERO.- Quedan derogadas las disposiciones legales que se opongan al presente Decreto.
+
+CUARTO.- A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes, así como en cualquier disposición jurídica que emane de las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
+
+QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha de entrada en vigor de este Decreto, que utilicen el salario mínimo como referencia para cualquier efecto, no se modificarán por la Unidad de Medida y Actualización, salvo que las partes acuerden expresamente lo contrario. Lo anterior, sin perjuicio de que a partir de la entrada en vigor de este Decreto los contratantes puedan utilizar como índice o referencia a la Unidad de Medida y Actualización.
+
+SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
+
+Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
