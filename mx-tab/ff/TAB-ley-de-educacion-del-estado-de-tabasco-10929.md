@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-educacion-del-estado-de-tabasco-10929"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-26"
-last_updated: "2014-03-12"
+last_updated: "2017-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY DE EDUCACION DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE EDUCACIÓN DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 26 de febrero de 1997.
 
@@ -33,7 +35,7 @@ Que el H. Congreso del Estado, se ha servido dirigirme lo siguiente:
 
 LA QUINCUAGÉSIMA QUINTA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 36, FRACCIONES I Y VI, DE LA CONSTITUCIÓN POLÍTICA LOCAL, Y
 
-....
+[....]
 
 Ha tenido a bien emitir el siguiente:
 
@@ -101,11 +103,9 @@ VI.- Fomentar el conocimiento de la geografía e historia nacional y del Estado,
 
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 2009)</small>
 
-VII.-Propiciar la práctica de la democracia como forma de gobierno, y la convivencia armónica que permita a todos participar en la toma de decisiones para el mejoramiento de la sociedad. Asimismo, fomentará los valores cívicos como medio para contribuir a la consolidación de un sistema que garantice los derechos fundamentales de las personas y la solidaridad social;
+VII.- Propiciar la práctica de la democracia como forma de gobierno, y la convivencia armónica que permita a todos participar en la toma de decisiones para el mejoramiento de la sociedad. Asimismo, fomentará los valores cívicos como medio para contribuir a la consolidación de un sistema que garantice los derechos fundamentales de las personas y la solidaridad social;
 
 VIII.- Ampliar espacios de convivencia humana a través de una educación que manifieste el respeto a la dignidad de la persona y a la integridad de la familia;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VEÁSE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 2009)</small>
 
@@ -255,8 +255,6 @@ XIII.- Distribuir, en forma oportuna y eficiente, los libros de texto gratuito y
 
 XIV.- Vigilar que la educación primaria, la secundaria, la media superior y la normal que proporcionen los particulares, sean impartidas conforme a los planes y programas autorizados. En cuanto a la educación inicial y preescolar, vigilar que cumplan con los requisitos técnico-pedagógicos que fije la autoridad educativa federal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 2009)</small>
 
 XV.- Disponer el uso temporal de los planteles educativos oficiales para albergue de la población, cuando por razón de siniestros naturales u otro tipo de contingencias sean requeridos;
@@ -301,13 +299,9 @@ III.- Revalidar y otorgar equivalencias de estudios de educación media superior
 
 IV.- Otorgar, negar o retirar el reconocimiento de validez oficial a estudios distintos de los de educación primaria, secundaria, normal y demás para la formación de docentes de educación básica que proporcionen los particulares;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 2009)</small>
 
 V.- Editar en su caso, todo tipo de libros y material didáctico de apoyo a la educación, incluyendo el especial para los alumnos con discapacidad visual, a excepción de los libros de texto gratuito proporcionados por la Federación;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 2009)</small>
 
@@ -497,13 +491,9 @@ El otorgamiento de los reconocimientos, distinciones, estímulos y recompensas q
 
 Artículo 25 Para ejercer la docencia en instituciones establecidas por el Estado, los docentes deberán satisfacer los requisitos que, en su caso, señalen las autoridades competentes; para ejercer la docencia en la educación básica y media superior, deberán observar lo dispuesto por la Ley General del Servicio Profesional Docente y por esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 2009)</small>
 
 Las instituciones de educación especial, deberán ser atendidas por personal especializado y multidisciplinario, debiendo actualizarse de forma permanente para cumplir eficazmente con la incorporación educativa de las personas con discapacidad.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 27 DE MAYO DE 2009)</small>
 
@@ -539,8 +529,6 @@ Artículo 29 Las autoridades educativas estatal y municipales tomarán las medid
 
 Asimismo buscarán lograr la equidad en el ámbito geográfico atendiendo todas las regiones del Estado, llevando y mejorando el servicio educativo a mayor número de poblaciones.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 2009)</small>
 
 La implementación de programas compensatorios, en coordinación con la autoridad educativa federal, se orientará al alcance de la equidad entre grupos sociales, atendiendo especialmente las necesidades educativas de indígenas, campesinos, obreros, migrantes, personas con discapacidad, y en general, de la población en estado de vulnerabilidad.
@@ -548,8 +536,6 @@ La implementación de programas compensatorios, en coordinación con la autorida
 Esas autoridades trabajarán para asegurar la igualdad entre hombres y mujeres, promoviendo el acceso, permanencia y promoción educativa, de conformidad con lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la del Estado y demás legislación aplicable.
 
 Igualmente, actuarán para lograr la equidad entre instituciones educativas públicas, superando las condiciones de las rurales y elevando su calidad.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 2009)</small>
 
@@ -576,8 +562,6 @@ VI.- Desarrollar programas educativos que tiendan a elevar los niveles culturale
 VII.- Desarrollar a través de los distintos medios de comunicación, programas educativos dirigidos a los padres de familia, que orienten a los mismos sobre el desarrollo y la atención que deben dar a sus hijos;
 
 VIII.- Promover el apoyo de los particulares al financiamiento y a las actividades a que se refiere este capítulo;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 2009)</small>
 
@@ -666,8 +650,6 @@ Con el fin de evitar el uso indebido e irracional de los recursos públicos dest
 La autoridad educativa estatal decidirá la atención a la demanda escolar emergente mediante la modalidad educativa que considere pertinente.
 
 #### Sección 2. DE LA SUPERVISIÓN
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 2009)</small>
 
@@ -879,8 +861,6 @@ IV.- La educación preescolar, además de atender las particularidades geográfi
 
 Artículo 62 La educación primaria es obligatoria y tiene como finalidad promover el desarrollo integral y armónico de las facultades del educando, dotándolo de conocimientos y habilidades que fundamenten cualquier aprendizaje posterior que lo integre hacia una mejor convivencia social, crear el aprecio a la dignidad humana, la conciencia de la independencia, soberanía, democracia y justicia social, así como el amor a la patria, el respeto a la Constitución Federal y Local, y a los símbolos patrios nacionales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 2012)</small>
 
 Artículo 63 La educación primaria fortalecerá en el educando su identidad individual y su integración plena a la familia, a la escuela y a la comunidad; fomentará en él los hábitos de la lectura, la conservación, mejoramiento de su salud personal, incrementar la actividad física e implementar una alimentación o nutrición saludable, le proporcionará conocimientos básicos para la preservación de su medio ecológico, y el ejercicio de sus derechos y de sus deberes cívico-sociales; también motivará en él una actitud de aprendizaje permanente que lo prepare para el trabajo útil asímismo, a su familia y a su comunidad.
@@ -916,8 +896,6 @@ Artículo 67 La educación secundaria tiene como finalidad: fortalecer el desarr
 Artículo 68 Este servicio educativo podrá prestarse a través de planes y programas de secundarias: generales, técnicas y telesecundarias.
 
 Artículo 69 La educación secundaria tenderá a:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 26 DE MAYO DE 2012)</small>
 
@@ -1035,19 +1013,13 @@ III.- Desarrollar actitudes de autoestima y competencia para el trabajo producti
 
 IV.- Promover la orientación y capacitación de los docentes de la educación básica regular, bajo un programa de apoyo técnico multiprofesional;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 2009)</small>
 
 V.- Desarrollar estrategias de apoyo profesional técnico y de infraestructura educativa acorde a las condiciones de discapacidad para el logro de objetivos comunes en la educación física;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 2009)</small>
 
 VI.- Promover la asistencia a talleres, instituciones o empresas para que las personas que por su edad no puedan ingresar o continuar en un centro de educación especial, reciban capacitación laboral que les permita una vida autónoma y productiva; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 27 DE MAYO DE 2009)</small>
 
@@ -1196,8 +1168,6 @@ I. Ampliando la participación de educadores y organizaciones no gubernamentales
 > <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
 II. Fomentar con las empresas privadas, el desarrollo de programas de educación ambiental para sus trabajadores.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE MAYO DE 2012)</small>
 
@@ -2261,7 +2231,9 @@ Artículo 193 Las personas jurídicas colectivas y los particulares con autoriza
 
 I.- Apercibimiento por escrito;
 
-II.- Sanción pecuniaria hasta por el equivalente a cinco mil veces el salario mínimo diario vigente en la zona económica correspondiente al estado, y en la fecha que se cometa, la cual podrá duplicarse en caso de reincidencia;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+II.- Sanción pecuniaria hasta por el equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización, correspondiente a la fecha en que se cometa, la cual podrá duplicarse en caso de reincidencia;
 
 III.- Revocación de la autorización o el retiro del reconocimiento de validez oficial de estudios correspondiente. La imposición de esta sanción no excluye la posibilidad de que sea impuesta alguna multa; y
 
@@ -2500,3 +2472,21 @@ El personal que no se sujete a los procesos de evaluación o no se incorpore a l
 QUINTO.- La Secretaría de Educación del Gobierno del Estado, en el ámbito de su competencia, tomará las medidas que resulten necesarias para la adecuada y oportuna implementación en el Estado de Tabasco, de las acciones que derivan de este Decreto, de la Ley General de Educación, de la Ley del Instituto Nacional para la Evaluación de la Educación y de la Ley General del Servicio Profesional Docente; así como de los lineamientos que en ejercicio de sus atribuciones dicten las autoridades competentes.
 
 SEXTO.- El Ejecutivo del Estado expedirá los reglamentos necesarios para la exacta aplicación de las reformas a que se refiere este Decreto.
+
+P.O. 5 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 089 POR EL QUE “SE REFORMA EL ARTÍCULO 193, PRIMER PÁRRAFO, FRACCIÓN II, DE LA LEY DE EDUCACIÓN DEL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- El valor diario de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Estadística y Geografía, y publique en el Diario Oficial de la Federación, con fundamento en el artículo 26, apartado B, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
+
+TERCERO.- Quedan derogadas las disposiciones legales que se opongan al presente Decreto.
+
+CUARTO.- A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes, así como en cualquier disposición jurídica que emane de las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
+
+QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha de entrada en vigor de este Decreto, que utilicen el salario mínimo como referencia para cualquier efecto, no se modificarán por la Unidad de Medida y Actualización, salvo que las partes acuerden expresamente lo contrario. Lo anterior, sin perjuicio de que a partir de la entrada en vigor de este Decreto los contratantes puedan utilizar como índice o referencia a la Unidad de Medida y Actualización.
+
+SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
+
+Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
