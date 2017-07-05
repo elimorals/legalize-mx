@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-procedimientos-civiles-para-el-estado-de-tabasco-1503
 country: "mx"
 rank: "codigo"
 publication_date: "1997-04-12"
-last_updated: "2017-07-01"
+last_updated: "2017-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 12 de abril de 1997.
 
@@ -35,7 +35,7 @@ Que el H. Congreso del Estado, se ha servido dirigirme lo siguiente:
 
 LA QUINCUAGESIMA QUINTA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 36, FRACCIONES I Y XXXIX, DE LA CONSTITUCION POLITICA LOCAL, Y EN BASE A LA SIGUIENTE:
 
-...
+[...]
 
 Que este Honorable Congreso está facultado con fundamento en el artículo 36, fracciones I y XXXIX de la Constitución Política Local, para expedir, reformar, adicionar, derogar y abrogar las Leyes y Decretos para la mejor administración del Estado, planeando su desarrollo económico y social, por lo que en consecuencia hemos tenido a bien emitir el siguiente:
 
@@ -1451,13 +1451,15 @@ Se entenderá por corrección disciplinaria:
 
 I.- La amonestación;
 
-II.- La multa, que en los juzgados de paz será hasta por el equivalente de sesenta días del salario mínimo general vigente en el Estado al momento de la comisión de la falta; en los de primera instancia, será hasta por el equivalente de ciento veinte días de salario mínimo, y en el Tribunal Superior de Justicia, hasta por el equivalente de ciento ochenta días de salario mínimo; y
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+II.- La multa, que en los juzgados de paz será hasta por el equivalente de sesenta veces el valor diario de la Unidad de Medida y Actualización al momento de la comisión de la falta; en los de primera instancia, será hasta por el equivalente de ciento veinte veces el valor diario de la Unidad de Medida y Actualización, y en el Tribunal Superior de Justicia, hasta por el equivalente de ciento ochenta veces el valor diario de la Unidad de Medida y Actualización; y
 
 III.- La suspensión, que no podrá exceder de ocho días de trabajo.
 
 Dentro de los tres días de haberse hecho saber una corrección disciplinaria a la persona a quien se le impuso, ésta podrá pedir al tribunal que lo oiga en justicia. Para tal fin, el tribunal citará para una audiencia, dentro del tercer día, en la que resolverá sin más recurso que el de queja.
 
-Cuando en este Código se señalen días de salario mínimo o salarios mínimos diarios, deberán entenderse referidos a días de salario mínimo general vigente en el Estado de Tabasco.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -1709,7 +1711,9 @@ Medios de apremio
 
 Los juzgadores, para hacer cumplir sus determinaciones, podrán emplear de los siguientes medios de apremio, el que sea más eficaz:
 
-I.- Multa de veinte y hasta de doscientos salarios mínimos generales, que se duplicarán en caso de reincidencia;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+I.- Multa de veinte y hasta doscientas veces el valor diario de la Unidad de Medida y Actualización que se duplicarán en caso de reincidencia;
 
 II.- El auxilio de la fuerza pública, que deberá prestarse en el momento en que sea solicitado;
 
@@ -3363,13 +3367,13 @@ III.- Que se hayan designado en los escritos que fijan el debate, en caso de ser
 
 El juzgador, al calificar la admisibilidad de las pruebas, determinará la cantidad que el oferente deberá depositar para garantizar el pago de la multa, en caso de que la prueba no se rinda dentro del plazo respectivo. Si el oferente no hace este depósito dentro de los tres días siguientes a la notificación del auto que admitió la prueba, éste quedará sin efecto jurídico y precluirá el derecho del oferente a que se practique dicha prueba.
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 249.
 
 Entrega de exhortos y sanciones
 
-A la parte a la que se le hubiere concedido el período extraordinario de prueba a que se refiere el artículo anterior, se le entregarán los exhortos para su diligenciación y si no devolviere el exhorto debidamente diligenciado dentro de los plazos señalados en el artículo anterior, sin justificar que para ello tuvo impedimento bastante, se le impondrá una multa que fijará el juzgador hasta por quinientos días de salario mínimo general; asimismo, se le condenará a pagar indemnización de daños y perjuicios en beneficio de su contraparte y se declarará desierta la prueba.
+A la parte a la que se le hubiere concedido el período extraordinario de prueba a que se refiere el artículo anterior, se le entregarán los exhortos para diligenciarlos y si no devolviere el exhorto debidamente diligenciado dentro de los plazos señalados en el artículo anterior, sin justificar que para ello tuvo impedimento bastante, se le impondrá una multa que fijará el juzgador hasta por quinientas veces el valor diario de la Unidad de Medida y Actualización; asimismo, se le condenará a pagar indemnización de daños y perjuicios en beneficio de su contraparte y se declarará desierta la prueba.
 
 ### CAPITULO IV. CONFESION
 
@@ -3809,7 +3813,9 @@ En la audiencia, las partes podrán formular a los peritos las preguntas que est
 
 En este caso se observarán las siguientes prevenciones:
 
-I.- El perito que dejare de concurrir sin justa causa a la audiencia, se hará acreedor a una multa hasta de ciento veinte veces el salario mínimo general, y será responsable de los daños causados por su culpa, sin perjuicio de que pueda ser removido por el juzgador;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+I.- El perito que dejare de concurrir sin justa causa a la audiencia, se hará acreedor a una multa hasta de ciento veinte veces el valor diario de la Unidad de Medida y Actualización, y será responsable de los daños causados por su culpa, sin perjuicio de que pueda ser removido por el juzgador;
 
 II.- Los peritos emitirán su dictamen en la misma audiencia, siempre que lo permita la naturaleza del asunto; de lo contrario, el juzgador les señalará un plazo prudente para que lo rindan.
 
@@ -4863,13 +4869,13 @@ Tramitación de la queja contra secretarios y actuarios
 
 La queja en contra de secretarios y actuarios se hará valer ante el juzgador que conozca del negocio. Interpuesto el recurso, dentro de los tres días siguientes el juzgador oirá verbalmente al secretario o notificador en contra de quien se presentó la queja y dentro del tercer día resolverá de plano lo que proceda. De estimarse fundada la queja, él ordenará:
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-a) En el caso de la fracción I del artículo 366, corregir o reponer los actos que la motive, imponiendo al responsable una multa hasta de veinte veces el salario mínimo general, o bien, suspensión en el desempeño de su cargo hasta por ocho días;
+a) En el caso de la fracción I del artículo 366, corregir o reponer los actos que la motive, imponiendo al responsable una multa hasta de veinte veces el valor diario de la Unidad de Medida y Actualización, o bien, suspensión en el desempeño de su cargo hasta por ocho días;
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-b) En el caso de las fracciones II y III del artículo 366, podrá imponerse al infractor multa hasta de cuarenta veces el salario mínimo general o suspensión en el desempeño de su cargo hasta por ocho días.
+b) En el caso de las fracciones II y III del artículo 366, podrá imponerse al infractor multa hasta de cuarenta veces el valor diario de la Unidad de Medida y Actualización o suspensión en el desempeño de su cargo hasta por ocho días.
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -5837,7 +5843,9 @@ b) Para intervenir en el acto de remate y hacer al juzgador las observaciones qu
 
 c) Para recurrir la resolución que apruebe o desapruebe el remate o la adjudicación;
 
-IV.- Hecho el avalúo, se sacarán los bienes a pública subasta, convocándose postores por medio de la publicación de edictos por dos veces de siete en siete días, en el Periódico Oficial y en uno de los periódicos de mayor circulación. A petición de cualquiera de las partes, y a su costa, el juzgador podrá usar, además, cualquier otro medio de publicidad para convocar postores. Si el valor del inmueble no excede de mil veces el salario mínimo general, para anunciar el remate bastará que se fijen avisos en la puerta del juzgado y en el sitio que al efecto tengan las autoridades fiscales de la localidad;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+IV.- Hecho el avalúo, se sacarán los bienes a pública subasta, convocándose postores por medio de la publicación de edictos por dos veces de siete en siete días, en el Periódico Oficial y en uno de los periódicos de mayor circulación. A petición de cualquiera de las partes, y a su costa, el juzgador podrá usar, además, cualquier otro medio de publicidad para convocar postores. Si el valor del inmueble no excede de mil veces el valor diario de la Unidad de Medida y Actualización, para anunciar el remate bastará que se fijen avisos en la puerta del juzgado y en el sitio que al efecto tengan las autoridades fiscales de la localidad;
 
 V.- Si los bienes raíces estuvieren ubicados en diversos lugares, se librará exhorto para el efecto de que se fijen los edictos en la puerta del juzgado de cada localidad y en la de las oficinas fiscales. En este caso, se ampliará el plazo para la publicación de los edictos concediéndose un día más por cada cincuenta kilómetros o fracción y se señalará el plazo tomando en cuenta la distancia mayor a que se hallen los bienes. Si el juzgador lo estima oportuno, podrá ordenar que se hagan también publicaciones en algún periódico del lugar en que se encuentren ubicados los bienes; y
 
@@ -6205,7 +6213,9 @@ Los jueces de paz, conocerán de los siguientes asuntos:
 
 I.- De la conciliación en materia civil y familiar fuera de juicio, a excepción de los asuntos relativos a interdicción, pérdida, suspensión o restricción de la patria potestad, cuestiones del estado civil, nulidad de actos jurídicos, nulidad de cosa juzgada, sucesiones, nombramiento de tutor o curador, autorización que afecte derecho de incapaz o ausente, y todos aquellos casos análogos en que por su naturaleza o por disposición de la ley no ha lugar a la conciliación;
 
-II.- De los juicios civiles cuyo monto no exceda del importe de doscientos cincuenta veces el salario mínimo diario general vigente en el Estado de Tabasco;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+II.- De los juicios civiles cuyo monto no exceda del importe de doscientas cincuenta veces el valor diario de la Unidad de Medida y Actualización;
 
 III.- De los actos preparatorios a juicio en su competencia, salvo consignaciones de rentas;
 
@@ -6319,7 +6329,9 @@ I.- El actuario se cerciorará si el demandado se encuentra en el lugar designad
 
 II.- Si no lo encontrare, se cerciorará que el lugar designado es alguno de los que se enumeran en el artículo anterior, y hecho esto, entregará la citación a cualquier persona adulta que habite en la casa;
 
-III.- El recibo de la citación se firmará por la persona a quien se entregue, a menos de que no supiere o no pudiere firmar, en cuyo caso lo hará a su ruego un testigo; si no quisiere firmar o presentar testigo que lo hagan, firmará el testigo requerido al efecto por el notificador. El testigo no podrá negarse, bajo multa hasta de veinte días de salario mínimo.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
+
+III.- El recibo de la citación se firmará por la persona a quien se entregue, a menos de que no supiere o no pudiere firmar, en cuyo caso lo hará a su ruego un testigo; si no quisiere firmar o presentar testigo que lo hagan (sic), firmará el testigo requerido al efecto por el notificador. El testigo no podrá negarse, bajo multa hasta de veinte veces el valor diario de la Unidad de Medida y Actualización.
 
 En el duplicado de la citación y en la libreta se asentará razón de lo ocurrido, y se pondrán en su caso las firmas que procedan;
 
@@ -6373,13 +6385,13 @@ El que se presente como actor o como demandado usando el nombre de otro para hac
 
 ### CAPITULO III. JUICIO
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 469.
 
 Incomparecencia del actor
 
-Si al anunciar el despacho del negocio no estuviere presente el actor injustificadamente y sí el demandado, se impondrá a aquél una multa de hasta veinte veces el salario mínimo general vigente en el Estado de Tabasco, que se aplicará al demandado por vía de indemnización. Sin que se justifique haberse hecho el pago, no se citará de nuevo para juicio.
+Si al anunciar el despacho del negocio no estuviere presente el actor injustificadamente y sí el demandado, se impondrá a aquél una multa de hasta veinte veces el valor diario de la Unidad de Medida y Actualización, que se aplicará al demandado por vía de indemnización. Sin que se justifique haberse hecho el pago, no se citará de nuevo para juicio.
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -6579,13 +6591,13 @@ Suspensión de las audiencias
 
 Cuando fuere necesario esperar alguna persona a quien se hubiere llamado a la audiencia, o conceder tiempo a los peritos para que examinen las cosas acerca de las que hayan de emitir dictamen u ocurriera algún otro caso que lo exija, a juicio del juzgador, se suspenderá la audiencia por un plazo prudente, no mayor de una hora, y si fuere enteramente indispensable, dispondrá el juzgador la continuación para el día siguiente, a más tardar. La violación de este precepto amerita corrección disciplinaria que impondrá el superior y será anotada en el expediente que a cada funcionario judicial corresponda.
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 484.
 
 Cuestiones de mínima cuantía
 
-En los asuntos de menos de cien veces el salario mínimo, no se requerirá ni la formación de expedientes, bastando con asentar en el libro de gobierno el asunto de la demanda y la contestación que se diere, sucintamente relatadas, y los puntos resolutivos de la sentencia con los preceptos legales que le sirvieron de fundamento.
+En los asuntos de menos de cien veces el valor diario de la Unidad de Medida y Actualización, no se requerirá ni la formación de expedientes, bastando con asentar en el libro de gobierno el asunto de la demanda y la contestación que se diere, sucintamente relatadas, y los puntos resolutivos de la sentencia con los preceptos legales que le sirvieron de fundamento.
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -7063,13 +7075,13 @@ Impugnación de la resolución
 
 La sentencia que resuelve la solicitud de interdicción podrá ser impugnada en apelación por todos los que tengan el derecho de impugnarla, aunque no hayan intervenido en el juicio, y por el tutor o curador interinos. Podrá impugnarla también la persona declarada en interdicción.
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 525.
 
 Sanciones en caso del ejercicio doloso de la acción
 
-El que promueva dolosamente el juicio de interdicción, incurrirá en las penas que la ley impone por falsedad y calumnia; responderá civilmente de los daños y perjuicios que cause al supuesto incapaz, y se le impondrá además una multa hasta de quinientas veces el salario mínimo. El demandante deberá, además, pagar los gastos y costas del juicio.
+El que promueva dolosamente el juicio de interdicción, incurrirá en las penas que la ley impone por falsedad y calumnia; responderá civilmente de los daños y perjuicios que cause al supuesto incapaz, y se le impondrá además una multa hasta de quinientas veces el valor diario de la Unidad de Medida y Actualización. El demandante deberá, además, pagar los gastos y costas del juicio.
 
 ### CAPITULO VII. DE LA RECTIFICACION Y DEL REGISTRO EXTEMPORANEO DE ACTAS DEL ESTADO CIVIL
 
@@ -8927,7 +8939,9 @@ Designación del partidor
 
 Cuando el albacea no haga la partición por sí mismo, promoverá dentro del quinto día de aprobado el inventario, la elección de un contador o abogado con título debidamente registrado, para que la efectúe. El juzgador convocará a los herederos a junta, dentro de los tres días siguientes, para que se haga en su presencia la elección. Si no hubiere mayoría el juzgador nombrará partidor, eligiéndolo entre los propuestos.
 
-El cónyuge, aunque no tenga el carácter de heredero, será tenido como parte, si entre los bienes hereditarios los hubiere de la sociedad conyugal. El juzgador pondrá a disposición del partidor los expedientes, y bajo inventario los papeles y documentos relativos al caudal hereditario, para que proceda a la partición, señalándole un plazo que nunca excederá de treinta días, para que presente el proyecto partitorio, bajo el apercibimiento de ser separado de plano de su encargo, y multa hasta de doscientas veces el salario mínimo general vigente en el lugar y fecha en que se aplique la sanción, en proporción a la cuantía del acervo hereditario.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+El cónyuge, aunque no tenga el carácter de heredero, será tenido como parte, si entre los bienes hereditarios los hubiere de la sociedad conyugal. El juzgador pondrá a disposición del partidor los expedientes, y bajo inventario los papeles y documentos relativos al caudal hereditario, para que proceda a la partición, señalándole un plazo que nunca excederá de treinta días, para que presente el proyecto partitorio, bajo el apercibimiento de ser separado de plano de su encargo, y multa hasta de doscientas veces el valor diario de la Unidad de Medida y Actualización a la fecha en que se aplique la sanción, en proporción a la cuantía del acervo hereditario.
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -9757,7 +9771,9 @@ II.- Derechos reales sobre inmuebles;
 
 III.- Alhajas y muebles preciosos; y
 
-IV.- Acciones de sociedades mercantiles, cuyo valor en conjunto exceda de cien veces el salario mínimo.
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+IV.- Acciones de sociedades mercantiles, cuyo valor en conjunto exceda de cien veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -10086,3 +10102,21 @@ SEGUNDO.- Las personas que hayan contraído matrimonio hasta antes de la entrada
 TERCERO.- En los juicios sobre nulidad de matrimonio y divorcio, en los que se requiera representación de cónyuges menores de edad, seguirán rigiéndose por las disposiciones del Código de Procedimientos Civiles que se encontraban vigentes al momento de contraer matrimonio.
 
 CUARTO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 5 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 089 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 107, PRIMER PÁRRAFO, FRACCIÓN II; 129, PRIMER PÁRRAFO, FRACCIÓN I; 249; 284, TERCER PÁRRAFO, FRACCIÓN I; 369, INCISOS A) Y B); 433, FRACCIÓN IV, 457, SEGUNDO PÁRRAFO, FRACCIÓN II; 465, EL PRIMER PÁRRAFO DE LA FRACCIÓN III; 469; 484; 525; 670, SEGUNDO PÁRRAFO; 743, FRACCIÓN IV; Y SE DEROGA EL TERCER PÁRRAFO DEL ARTÍCULO 107, TODOS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- El valor diario de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Estadística y Geografía, y publique en el Diario Oficial de la Federación, con fundamento en el artículo 26, apartado B, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
+
+TERCERO.- Quedan derogadas las disposiciones legales que se opongan al presente Decreto.
+
+CUARTO.- A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes, así como en cualquier disposición jurídica que emane de las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
+
+QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha de entrada en vigor de este Decreto, que utilicen el salario mínimo como referencia para cualquier efecto, no se modificarán por la Unidad de Medida y Actualización, salvo que las partes acuerden expresamente lo contrario. Lo anterior, sin perjuicio de que a partir de la entrada en vigor de este Decreto los contratantes puedan utilizar como índice o referencia a la Unidad de Medida y Actualización.
+
+SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
+
+Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
