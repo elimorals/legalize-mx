@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-justicia-administrativa-para-el-estado-de-tabasco-11461"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-19"
-last_updated: "1997-02-26"
+last_updated: "2017-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE TABASCO, PUBLICADA EN EL P.O. DE 15 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 19 de febrero de 1997.
 
@@ -433,7 +435,9 @@ I.- Amonestación;
 
 II.- Amonestación y apercibimiento;
 
-III.- Multa equivalente al monto de 5 a 150 días de salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+III.- Multa equivalente al monto de 5 a 150 veces el valor diario de la Unidad de Medida y Actualización;
 
 IV.- Suspensión hasta por 15 días;
 
@@ -447,7 +451,9 @@ Si algún acto llegare a constituir delito, se levantará acta circunstanciada y
 
 El Tribunal, para hacer cumplir sus determinaciones, podrá emplear indistintamente cualquiera de los siguientes medios de apremio:
 
-I.- Multa equivalente al monto de 5 a 150 días de salario mínimo general vigente en el Estado; y
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+I.- Multa equivalente al monto de 5 a 150 veces el valor diario de la Unidad de Medida y Actualización; y
 
 II.- Requerimiento al superior jerárquico de la autoridad obligada al cumplimiento de un mandato del Tribunal.
 
@@ -687,7 +693,9 @@ La suspensión será revocable por la Sala en cualquier momento del juicio, oyen
 
 Tratándose de créditos fiscales, se concederá la suspensión si quien la solicita garantiza el interés fiscal ante las oficinas exactoras correspondientes, en cualquiera de las formas previstas por la Ley.
 
-El Magistrado podrá conceder discrecionalmente la suspensión, sin necesidad de que se garantice el importe del crédito, principalmente cuando el asunto planteado no rebase la cantidad que resulte de multiplicar por ciento cincuenta el salario mínimo general vigente en el Estado de Tabasco. El auto que dispense el otorgamiento de la garantía no será recurrible.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+El Magistrado podrá conceder discrecionalmente la suspensión, sin necesidad de que se garantice el importe del crédito, principalmente cuando el asunto planteado no rebase la cantidad que resulte de multiplicar por ciento cincuenta el valor diario de la Unidad de Medida y Actualización. El auto que dispense el otorgamiento de la garantía no será recurrible.
 
 > <small>(F. DE E., P.O. 26 DE FEBRERO DE 1997)</small>
 
@@ -959,7 +967,9 @@ Cuando haya causado ejecutoria una sentencia favorable al actor, la Sala o en su
 
 Cuando las autoridades u organismos demandados, no den cumplimiento a la sentencia dentro del término de tres días o al señalado por la Sala, o en su caso, el Pleno, de oficio o a petición de parte, dará vista a los mismos para que en el término de tres días manifiesten lo que a su derecho convenga.
 
-La Sala, o en su caso el Pleno, resolverá si las enjuiciadas han cumplido con los términos de la sentencia y de no ser así, las requerirá para que la cumplan amonestándolas y previniéndolas que, en caso de renuencia, se les impondrá una multa hasta por la cantidad equivalente a 250 días de salario mínimo general vigente en el Estado de Tabasco.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+La Sala, o en su caso el Pleno, resolverá si las enjuiciadas han cumplido con los términos de la sentencia y de no ser así, las requerirá para que la cumplan amonestándolas y previniéndolas que, en caso de renuencia, se les impondrá una multa hasta por la cantidad equivalente a 250 veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(F. DE E., P.O. 26 DE FEBRERO DE 1997)</small>
 
@@ -1043,7 +1053,9 @@ El recurso deberá interponerse por escrito, ante la Sala que conozca del asunto
 
 Admitido el recurso, la Sala requerirá a la autoridad u organismo contra el que se haya interpuesto, para que rinda informe sobre la materia de la queja, dentro del término de tres días y, dentro de los tres días siguientes dictará la resolución que proceda.
 
-La falta o deficiencia de los informes, establece la presunción de ser ciertos los hechos respectivos y hará incurrir a las autoridades omisas en una multa de cinco a sesenta días del salario mínimo general vigente en el Estado de Tabasco, que impondrá de plano la Sala que conozca de la queja en la misma resolución que dicte sobre ella.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+La falta o deficiencia de los informes, establece la presunción de ser ciertos los hechos respectivos y hará incurrir a las autoridades omisas en una multa de cinco a sesenta veces el valor diario de la Unidad de Medida y Actualización, que impondrá de plano la Sala que conozca de la queja en la misma resolución que dicte sobre ella.
 
 > <small>(F. DE E., P.O. 26 DE FEBRERO DE 1997)</small>
 
@@ -1218,3 +1230,21 @@ LIC. ROBERTO MADRAZO PINTADO
 LIC. VICTOR MANUEL BARCELO RODRIGUEZ
 
 SECRETARIO DE GOBIERNO
+
+P.O. 5 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 089 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 35, PRIMER PÁRRAFO, FRACCIÓN III; 36, PRIMER PÁRRAFO, FRACCIÓN I; 59, SEGUNDO PÁRRAFO; 90, SEGUNDO PÁRRAFO Y 99, TERCER PÁRRAFO; TODOS DE LA LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- El valor diario de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Estadística y Geografía, y publique en el Diario Oficial de la Federación, con fundamento en el artículo 26, apartado B, último párrafo de la Constitución Política de los Estados Unidos Mexicanos.
+
+TERCERO.- Quedan derogadas las disposiciones legales que se opongan al presente Decreto.
+
+CUARTO.- A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes, así como en cualquier disposición jurídica que emane de las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
+
+QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha de entrada en vigor de este Decreto, que utilicen el salario mínimo como referencia para cualquier efecto, no se modificarán por la Unidad de Medida y Actualización, salvo que las partes acuerden expresamente lo contrario. Lo anterior, sin perjuicio de que a partir de la entrada en vigor de este Decreto los contratantes puedan utilizar como índice o referencia a la Unidad de Medida y Actualización.
+
+SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
+
+Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
