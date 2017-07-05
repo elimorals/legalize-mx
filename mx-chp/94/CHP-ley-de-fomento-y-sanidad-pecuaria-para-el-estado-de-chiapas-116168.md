@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-fomento-y-sanidad-pecuaria-para-el-estado-de-chiapas-116
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-06"
-last_updated: "2016-07-06"
+last_updated: "2017-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116168&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE FOMENTO Y SANIDAD PECUARIA PARA EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 6 de julio de 2016.
 
@@ -51,9 +51,11 @@ Ley de Fomento y Sanidad Pecuaria para el Estado de Chiapas
 
 Las disposiciones de esta ley son de orden público, interés social, de aplicación y de observancia general para todos los que se dediquen a la actividad pecuaria en el Estado de Chiapas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### Artículo 2°.
 
-La presente ley tiene por objeto regular, proteger y fomentar la actividad pecuaria en el Estado de Chiapas, a través de:
+La presente Ley tiene por objeto regular, proteger y fomentar la actividad pecuaria en el Estado de Chiapas, a través de:
 
 I. Establecer las bases para promover el desarrollo sustentable de la producción, la sanidad, inocuidad, calidad, clasificación, control de la movilización y comercialización de semovientes, productos y subproductos pecuarios;
 
@@ -69,7 +71,9 @@ VI. El registro de la propiedad de los animales;
 
 VII. El control de la movilización de animales, productos y subproductos;
 
-VIII. La construcción, rehabilitación, equipamiento y operación de los centros de sacrificio animal;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+VIII. Establecer bases y directrices para la construcción, rehabilitación, equipamiento y operación de los Centros de Sacrificio;
 
 IX. El sacrificio Humanitario de las diferentes especies pecuarias; y,
 
@@ -99,129 +103,141 @@ VIII. Los usos y costumbres de cada lugar.
 
 Quedan sujetos a las disposiciones de la presente ley y su reglamento, toda persona física o jurídica colectiva, pública o privada que en forma temporal o permanente, directa o indirectamente, esté relacionada con la producción, movilización, transformación, industrialización y comercialización de especies pecuarias, productos y subproductos y todos aquellos que intervengan en la prestación de servicios relacionados con la actividad pecuaria.
 
-###### Artículo 5°.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-Para los efectos de esta ley, se entenderá por:
+###### Artículo 5.
 
-Actividades Comerciales Relacionadas con la Actividad Pecuaria: Las transacciones mercantiles de las diversas especies de animales, sus productos y subproductos;
+Para los efectos de esta Ley se entenderá por:
 
-Actividades Industriales Conexas a la Actividad Pecuaria: El procesamiento o transformación con fines de explotación económica de las especies animales, sus productos y subproductos;
+Acopiador: A la persona física o moral que se dedique a la compra o venta, engorda, producción, movilización y comercialización de ganado.
 
-Acopiador: Persona Física o Moral que se dedique a la compra o venta, engorda, Producción, movilización y comercialización de Ganado;
+Actividades Comerciales relacionadas con la Actividad Pecuaria: A las transacciones mercantiles de las diversas especies de animales, sus productos y subproductos.
 
-Análisis de Riesgo: Estudio de los factores que puedan deteriorar el desarrollo de la actividad pecuaria en una determinada región;
+Actividades Industriales conexas a la Actividad Pecuaria: Al procesamiento o transformación con fines de explotación económica de las especies animales, sus productos y subproductos.
 
-Avicultura: La cría, reproducción, explotación y mejoramiento de las especies y variedades de aves útiles para la alimentación humana, al deporte y al ornato; así como, el aprovechamiento de productos y subproductos;
+Análisis de Riesgo: Al estudio de los factores que puedan deteriorar el desarrollo de la actividad pecuaria en una determinada región.
 
-Campañas Zoosanitarias: Conjunto de medidas para la prevención, control, tratamiento y erradicación de enfermedades o plagas de los animales en un área geográfica determinada;
+Animales y/o Semovientes: Al ganado bovino, equino, mular, asnal, caprino, ovino, porcino, aves de cualquier especie y género, conejos, abejas y animales de peletería.
 
-Centro de Acopio: Empresa pecuaria que se dedica a la compra o venta, engorda, Producción, movilización y comercialización de Ganado;
+Asociaciones Ganaderas: A la organización que agrupa a ganaderos que se dedican a la explotación racional de cualquier especie animal, en un municipio determinado.
 
-Centro de Sacrificio: A los rastros municipales o regionales, galeras sanitarias o unidad de sacrificio, siendo los establecimientos donde se lleva a cabo el sacrificio humanitario de los animales para el consumo humano;
+Avicultura: A la cría, reproducción, explotación y mejoramiento de las especies y variedades de aves útiles para la alimentación humana, al deporte y al ornato; así como, el aprovechamiento de productos y subproductos.
 
-Certificado Zoosanitario: Documento oficial federal otorgado por la SAGARPA o por quienes estén autorizados o acreditados para constatar el cumplimiento de las normas oficiales mexicanas, que deberá estar firmado por un Médico Veterinario Zootecnista autorizado para este efecto;
+Campañas Zoosanitarias: Al conjunto de medidas para la prevención, control, tratamiento y erradicación de enfermedades o plagas de los animales en un área geográfica determinada.
 
-CFPP: Al Comité de Fomento y Protección Pecuaria del Estado de Chiapas, Asociación Civil;
+Campos Experimentales: Al área geográfica delimitada que se dedica para realizar proyectos de investigación en materia agropecuaria.
 
-Cordón Zoosanitario: Medidas de acciones que se instrumentan para delimitar un área geográfica, con el fin de protegerla o aislarla para el control de enfermedades o plagas;
+Centro de Acopio: Aquellos lugares que cuentan con infraestructura y equipo, con las características técnicas apropiadas, para conjuntar animales en pie para su comercialización.
 
-CIRCS: A la Comisión Interinstitucional para la Regulación de los Centros de Sacrificio;
+Centro de Sacrificio: A los Centros de Sacrificio de Especies Pecuarias.
 
-Comisión de Ganado y Carnes: A la Comisión Estatal de clasificación de Ganado y Carnes;
+Certificado Zoosanitario: Al documento oficial federal otorgado por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación o por quienes estén autorizados o acreditados para constatar el cumplimiento de las Normas Oficiales Mexicanas.
 
-Comisión de Movilización: A la Comisión de Inspección y Vigilancia para la Revisión y Verificación Legal de la Movilización de Animales producto y subproducto en el Estado de Chiapas;
+CFPP: Al Comité de Fomento y Protección Pecuaria del Estado de Chiapas, Asociación Civil.
 
-Cuarentena: Medida zoosanitaria basada en el aislamiento, observación y restricción de la movilización de animales, productos, subproductos, desechos y esquilmos, por la sospecha o existencia de una enfermedad o plaga sujeta a control y diagnóstico;
+CIRCS: A la Comisión Interinstitucional para la Regulación de los Centros de Sacrificio.
 
-CPA: Comisión México-Estados Unidos para la Prevención de la Fiebre Aftosa y otras Enfermedades Exóticas de los Animales;
+Cordón Zoosanitario: A las medidas y acciones que se instrumentan para delimitar un área geográfica, con el fin de protegerla o aislarla para el control de enfermedades o plagas.
 
-Declaratoria de Emergencia Zoosanitaria: Consiste en la aplicación emergente de medidas zoosanitarias por la presencia de una enfermedad o plaga de animales emitida por una autoridad Federal o Estatal;
+Cuarentena: A la medida zoosanitaria basada en el aislamiento, observación y restricción de la movilización de animales, productos, subproductos, desechos y esquilmos, por la sospecha o existencia de una enfermedad o plaga sujeta a control y diagnóstico.
 
-Diagnóstico: Estudio basado en el análisis del conjunto de signos clínicos observados en los animales, que permite descartar o confirmar la sospecha de una enfermedad o plaga, mediante pruebas de laboratorio;
+Declaratoria de Emergencia Zoosanitaria: A la aplicación emergente de medidas zoosanitarias por la presencia de una enfermedad o plaga de animales emitida por una autoridad Federal o Estatal.
 
-E-Mogan: Al sistema estadístico de movilización ganadera;
+Despojos: A las cabezas, vísceras, colas, miembros anteriores y posteriores, que forman partes (sic) del cuerpo del ganado mayor, menor y especies diversas que en el proceso de sacrificio quedan separadas de la canal.
 
-Enfermedad Enzoótica: Enfermedad de los animales que se encuentra presente en el territorio del Estado;
+Diagnóstico: Al estudio basado en el análisis del conjunto de signos clínicos observados en los animales, que permite descartar o confirmar la sospecha de una enfermedad o plaga, mediante pruebas de laboratorio.
 
-Enfermedad Epizoótica: Enfermedad que se presenta en determinada población animal durante un intervalo dado, con una frecuencia mayor a la esperada;
+Enfermedad Enzoótica: A la enfermedad de los animales que se encuentra presente en el territorio del Estado.
 
-Enfermedad o Plaga Exótica: La que es extraña en el territorio estatal o en una región del mismo;
+Enfermedad Epizoótica: A la enfermedad que se presenta en determinada población animal durante un intervalo, con una frecuencia mayor a la esperada.
 
-Enfermedad Zoonótica: Enfermedad transmisible de los animales al humano;
+Enfermedad o Plaga Exótica: A la enfermedad que es extraña en el territorio estatal.
 
-Erradicación: Eliminación total de una enfermedad o plaga de los animales en un área geográfica determinada;
+Enfermedad Zoonótica: A la enfermedad transmisible de los animales al humano.
 
-Ganado: Al conjunto de animales domésticos que se crían para su explotación racional orientadas a la producción de carne, leche, huevo, miel, piel, lana y otras de interés zootécnico, con la finalidad de satisfacer necesidades vitales o del desarrollo humano. El ganado se clasifica como mayor, menor y las especies diversas;
+Erradicación: A la eliminación total de una enfermedad o plaga de los animales en un área geográfica determinada.
 
-Ganadería: Es una actividad económica que consiste en la crianza de animales para su aprovechamiento;
+Ganadería: A la actividad económica que consiste en la crianza de animales para su aprovechamiento.
 
-Guía de Tránsito: Documento oficial estatal otorgado por la Secretaria, que permite a los productores pecuarios movilizar por el territorio estatal a sus animales, sus productos y subproductos;
+Ganado: Al conjunto de animales domésticos que se crían para su explotación racional orientadas (sic) a la producción de carne, leche, huevo, miel, piel, lana y otras de interés zootécnico, con la finalidad de satisfacer necesidades vitales o del desarrollo humano. El ganado se clasifica como mayor, menor y las especies diversas.
 
-GEESA: Grupo Estatal de Emergencia de Sanidad Animal;
+GEESA: Al Grupo Estatal de Emergencia de Sanidad Animal.
 
-Incidencia: Número de nuevos casos en que la población animal determinada, aparece una enfermedad, durante un periodo específico y en área geográfica definida;
+Guía de Tránsito: Al documento oficial estatal otorgado por la Secretaría del Campo, que permite a los productores pecuarios movilizar por el territorio estatal a sus animales, productos y subproductos.
 
-Ingeniero Agrónomo Zootecnista: La persona que posee los estudios concluidos de esta profesión;
+Identificador Oficial: Al arete o dispositivo autorizado por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, para su uso obligatorio de la identificación, trazabilidad y sanidad de los animales.
 
-Laboratorio de Diagnóstico: Instalación que dispone del equipo necesario y el personal calificado para efectuar pruebas y análisis en materia zoosanitaria;
+Incidencia: Al número de nuevos casos que en una población animal determinada, aparece una enfermedad, durante un periodo específico y en área geográfica definida.
 
-Ley: Ley de Fomento y Sanidad Pecuaria para el Estado de Chiapas;
+Ingeniero Agrónomo Zootecnista: A la persona que posea título y cédula profesional que lo acredite como Ingeniero Agrónomo Zootecnista.
 
-Médico Veterinario Zootecnista: La persona que posee los estudios concluidos de esta profesión;
+Laboratorio de Diagnóstico: A la instalación física que dispone del equipo necesario y del personal calificado para efectuar pruebas y análisis en materia zoosanitaria.
 
-Movilización: El embarque, transporte o arreo de animales para la venta, abasto o cambio de agostadero, así como, el transporte de productos, subproductos y desechos de origen animal, cuyo desplazamiento se haga dentro o fuera del Estado;
+Ley: A la Ley de Fomento y Sanidad Pecuaria para el Estado de Chiapas.
 
-NOM: La Norma Oficial Mexicana;
+Médico Veterinario Zootecnista: A la persona que posea título y cédula profesional que lo acredite como Médico Veterinario Zootecnista.
 
-CCZ: Centro de Certificación Zoosanitaria acreditado que realiza funciones de certificación, para el cumplimiento de las NOM en materia de movilización de animales, productos y subproductos;
+Movilización: Al embarque, transporte o arreo de animales para la venta, abasto o cambio de agostadero, así como, el transporte de productos, subproductos y desechos de origen animal, cuyo desplazamiento se haga dentro o fuera del Estado.
 
-Organizaciones Ganaderas: A las (sic) Confederación Nacional de Organizaciones Ganaderas, las Uniones Ganaderas Regionales Generales o Estatales y Especializadas, las Asociaciones Ganaderas Locales, Generales y Especializadas, y todas ellas debidamente constituidas en los términos de la Ley de Organizaciones Ganaderas;
+NOM´s y acuerdos: A las Normas Oficiales Mexicanas y acuerdos emitidos por la federación en materia zoosanitaria.
 
-Ovinocultura: La cría, reproducción y explotación de ovinos;
+Organizaciones Ganaderas: A la Confederación Nacional de Organizaciones Ganaderas, las Uniones Ganaderas Regionales Generales o Estatales y Especializadas, las Asociaciones Ganaderas Locales, Generales y Especializadas, debidamente constituidas en los términos de la Ley de Organizaciones Ganaderas.
 
-PGN: Al Padrón Ganadero Nacional;
+Oficial Estatal: Al Servidor Público adscrito a la Secretaría del Campo y acreditado por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, encargado de llevar a cabo las acciones de verificación e inspección vinculadas a la movilización agropecuaria, acuícola y pesquera.
 
-Planta Tipo Inspección Federal (TIF): Establecimiento autorizado por la SAGARPA para el sacrificio de animales y la industrialización de productos cárnicos;
+Ovinocultura: A la cría, reproducción y explotación de ovinos.
 
-Plaga: Presencia de un agente biológico en un área determinada, que causa enfermedad o alteración en la salud de la población;
+PG: A la persona poseedora de ganado.
 
-Porcicultura: La cría, reproducción y explotación de cerdos;
+PGN: Al padrón ganadero nacional.
 
-Prevención: Conjunto de medidas zoosanitarias basadas en estudios epizootiológicos, que tienen por objeto evitar la presencia de una enfermedad o plaga de los animales;
+Plaga: A la presencia de un agente biológico en un área determinada, que causa enfermedad o alteración en la salud de la población.
 
-Productos Biológicos: Los reactivos biológicos, sueros y vacunas, que pueden utilizarse para diagnosticar, tratar y prevenir enfermedades de los animales, así como las hormonas y material genético de origen animal que sirva para fines reproductivos;
+Planta Tipo Inspección Federal (TIF): Al Establecimiento autorizado por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación para el sacrificio de animales y la industrialización de productos cárnicos.
 
-PVI-I: Punto de Verificación e Inspección Interna aprobado por la SAGARPA, para constatar el cumplimiento de la presente Ley y demás normas aplicables en materia de movilización de las mercancías agropecuarias;
+Porcicultura: A la cría, reproducción y explotación de cerdos.
 
-PVI-F: Punto de Verificación e Inspección federal aprobado por la SAGARPA, para constatar el cumplimiento de la presente Ley y demás normas aplicables en materia de movilización de las mercancías agropecuarias;
+Prevención: Al conjunto de medidas zoosanitarias basadas en estudios epizootiológicos, que tienen por objeto evitar la presencia de una enfermedad o plaga de los animales.
 
-Reglamento: Al Reglamento de la Ley de Fomento y Sanidad Pecuaria para el Estado de Chiapas;
+Productor Pecuario: A la persona propietaria de cualquier especie animal a que se refiere esta ley, que realicen (sic) funciones de dirección y administración de una unidad de producción pecuaria.
 
-Productor Pecuario: Toda persona propietaria de cualquier especie animal a que se refiere esta ley, que realicen funciones de dirección y administración de una unidad de producción pecuaria;
+Productos Biológicos: A los reactivos biológicos, sueros y vacunas, que pueden utilizarse para diagnosticar, tratar y prevenir enfermedades de los animales, así como las hormonas y material genético de origen animal que sirva para fines reproductivos.
 
-SAGARPA: Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+PSG: Al prestador de servicios ganaderos.
 
-Sanidad Pecuaria: La que tiene por objeto prevenir y preservar la salud, controlar y en su caso erradicar las enfermedades y plagas de los animales, con excepción de los que tengan como hábitat el medio acuático;
+PVI-F: Al punto de verificación e inspección operado por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, para constatar el cumplimiento de la presente Ley y demás normas aplicables en materia de movilización de las mercancías agropecuarias.
 
-Secretaría: La Secretaría del Campo;
+PVI-I: Al punto de verificación e inspección operado por la Secretaría del Campo y autorizado por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, para constatar el cumplimiento de la presente Ley y demás normas aplicables en materia de movilización de las mercancías agropecuarias.
 
-SENASICA: Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria;
+Reglamento: Al Reglamento de la Ley de Fomento y Sanidad Pecuaria para el Estado de Chiapas.
 
-Secretaría De Salud: A la Secretaría de Salud del Estado, y/o Instituto de Salud;
+SAGARPA: A la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
 
-Sistema Producto Pecuario: Al comité Estatal regulado por la Ley de Desarrollo Rural Sustentable que conjuga los elementos y agentes concurrentes de los procesos productivos de los productos agropecuarios;
+Sanidad Pecuaria: A las acciones que tienen por objeto prevenir y preservar la salud, controlar y en su caso erradicar las enfermedades y plagas de los animales, con excepción de los que tengan como hábitat el medio acuático.
 
-Supervisor Regional Pecuario: Aquella persona autorizada por la Secretaría para realizar las funciones de inspección y verificación a lo que establece la presente Ley;
+Secretaría: A la Secretaría del Campo.
 
-Terrenos De Agostadero: Son aquellos cubiertos con una vegetación natural, introducida o inducida, cuyo uso principal es el pastoreo del ganado y la fauna silvestre y que técnicamente no sean considerados susceptibles de agricultura;
+SENASICA: Al Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria.
 
-Trazabilidad: Al conjunto de acciones, medidas y procedimientos técnicos que permiten identificar y registrar al Ganado desde su nacimiento, hasta el final de la cadena de comercialización;
+Sistema Producto Pecuario: Al comité estatal regulado por la Ley de Desarrollo Rural Sustentable, que conjuga los elementos y agentes concurrentes de los procesos productivos de los productos pecuarios.
 
-UMAS: Son las Unidades de Manejo para la Conservación de la Vida Silvestre, autorizadas por la autoridad federal;
+Sistemas Informáticos: A los sistemas informáticos que implemente la Secretaría del Campo para el control estadístico pecuario.
 
-UPP: Unidad de Producción Pecuaria donde se realizan actividades cuyo objeto es obtener un beneficio económico;
+Supervisor Regional Pecuario: A la persona autorizada por la Secretaría del Campo para realizar las funciones de inspección y verificación a lo que establece la presente Ley.
 
-Verificación: Constancia ocular o comprobación mediante muestreo y análisis de laboratorio aprobado o acreditado.
+Terrenos de Agostadero: A los terrenos cubiertos con una vegetación natural, introducida o inducida, cuyo uso principal es el pastoreo del ganado y la fauna silvestre y que técnicamente no sean considerados susceptibles de agricultura.
+
+Trazabilidad: Al conjunto de acciones, medidas y procedimientos técnicos que permiten identificar y registrar al ganado desde su nacimiento, hasta el final de la cadena de comercialización.
+
+UMAS: A las unidades de manejo para la conservación de la vida silvestre, autorizadas por la autoridad federal.
+
+Unión Ganadera: A la organización que agrupa a cuando menos el treinta por ciento de las asociaciones ganaderas locales, generales en una región ganadera o en un Estado.
+
+UPP: A la unidad de producción pecuaria donde se realizan actividades cuyo objeto es obtener un beneficio económico.
+
+Verificación: A la constatación ocular o comprobación mediante muestreo y análisis de laboratorio aprobado o acreditado.
+
+Verificador Pecuario: A la persona autorizada por la Secretaría del Campo para realizar las funciones de verificación a lo que establece la presente Ley y su Reglamento.
 
 ## Título Segundo. De las Autoridades Competentes y Auxiliares
 
@@ -245,11 +261,15 @@ d) El Jefe de la Unidad de Apoyo Jurídico de la Secretaría; y,
 
 e) Los Delegados Regionales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### Artículo 7°.
 
-Son autoridades auxiliares para la aplicación de la presente ley y su reglamento, en el ámbito de sus respectivas competencias:
+Son autoridades competentes para la aplicación de la presente ley y su reglamento, en el ámbito de sus respectivas competencias:
 
-I. La Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+I. La Fiscalía General del Estado de Chiapas.
 
 II. La Secretaria de Seguridad y Protección Ciudadana;
 
@@ -279,21 +299,31 @@ Son organismos auxiliares de cooperación para la aplicación de la presente ley
 
 I. El Comité de Fomento y Protección Pecuaria del Estado de Chiapas, A.C.;
 
-II. Las Organizaciones Ganaderas;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+II. Las Organizaciones Ganaderas y de productores legalmente constituidas y registradas por la autoridad competente;
 
 III. Colegio Estatal de Médicos Veterinarios Zootecnistas A.C.;
 
 IV. Facultad de Medicina Veterinaria y Zootecnia de la Universidad Autónoma de Chiapas; y,
 
-V. Las demás que determine la Secretaría.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE JULIO DE 2017)</small>
+
+V. El Sistema Producto Pecuario, y;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE JULIO DE 2017)</small>
+
+VI. Las demás que determine la Secretaría.
 
 ###### Artículo 9°.
 
 Las autoridades auxiliares y de organismos auxiliares de cooperación mencionadas en los apartados anteriores, apoyaran a la Secretaria, en las actividades que sean de su competencia, atribuciones que se señalan en el reglamento de la presente Ley.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### Artículo 10.
 
-Las organizaciones pecuarias legalmente constituidas, las comisiones y los comités que se integren con éstas, funcionarán como órganos de consulta y asesoría respecto a la formulación de programas pecuarios y zoosanitarios.
+Las Organizaciones Ganaderas, así como las comisiones y los comités que se integren con éstas, funcionarán como órganos de consulta y asesoría respecto a la formulación de programas pecuarios y zoosanitarios.
 
 ### Capítulo II. De las Facultades
 
@@ -437,9 +467,17 @@ II. Bancos de semen y embriones;
 
 III. Centros de transferencia de embriones;
 
-IV. Centros de capacitación en reproducción y genética; y,
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-V. Las demás que sean necesarias.
+IV. Centros de capacitación en reproducción y genética.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE JULIO DE 2017)</small>
+
+V. Campos experimentales; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE JULIO DE 2017)</small>
+
+VI. Las demás que sean necesarias.
 
 ###### Artículo 20.
 
@@ -453,9 +491,13 @@ III. Realizar y certificar pruebas de fertilidad en machos;
 
 IV. Producir semen y embriones para la venta a costos accesibles;
 
-V. Prestar servicios de extensionismo en medicina veterinaria, investigación, demostración y enseñanza zootécnica;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-VI. Prestar servicios de diagnóstico de gestación.
+V. Prestar servicios de diagnóstico de gestación, extensionismo en medicina veterinaria, investigación, demostración y enseñanza zootécnica.
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+VI. Contar con los servicios de un Médico Veterinario Zootecnista.
 
 ###### Artículo 21.
 
@@ -471,15 +513,19 @@ IV. Procesar y clasificar los embriones que se obtengan de las hembras donadoras
 
 V. Mantener informado a los productores pecuarios sobre los avances genéticos.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### Artículo 22.
 
 Los centros de monta directa, bancos de semen y trasplante de embriones, tendrán a su cargo las siguientes funciones:
 
-I. Proporcionar a los ganaderos servicios de inseminación artificial o de monta directa con sementales de razas puras;
+I. Proporcionar a los ganaderos, servicios de inseminación artificial o de monta directa con sementales de razas puras;
 
-II. Seleccionar a las hembras destinadas a ser cubiertas por los sementales de los centros; y a las hembras donadoras y receptoras de embriones; y,
+II. Seleccionar a las hembras destinadas a ser preñadas por los sementales de los centros de monta y a las hembras donadoras y receptoras de embriones;
 
-III. Prestar servicios de medicina veterinaria, investigación, demostración y enseñanza zootécnica.
+III. Prestar servicios de medicina veterinaria, investigación y demostración y enseñanza zootécnica; y,
+
+IV. Contar con los servicios de un Médico Veterinario Zootecnista.
 
 ###### Artículo 23.
 
@@ -493,9 +539,17 @@ III. Llevar a cabo investigaciones para determinar las especies, razas y varieda
 
 IV. Impartir conocimientos prácticos en materia pecuaria en las áreas de reproducción, producción, alimentación y sanidad animal;
 
-V. Instrumentar campañas zoosanitarias; y,
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-VI. Prestar servicios de medicina veterinaria, investigación, demostración y enseñanza zootécnica.
+V. Instrumentar campañas zoosanitarias;
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+VI. Prestar servicios de medicina veterinaria, investigación, demostración y enseñanza zootécnica; y,
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2017)</small>
+
+VII. Contar con los servicios de un Médico Veterinario Zootecnista.
 
 ### Capítulo III. Del Fomento a la Actividad Pecuaria
 
@@ -545,43 +599,63 @@ XVII. Promover, fortalecer y orientar a los productores pecuarios, en la realiza
 
 ### Capítulo Único. De las Organizaciones
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### Artículo 26.
 
-La constitución, funcionamiento y disolución de las organizaciones ganaderas se regirán por la Ley de Organizaciones Ganaderas y su reglamento.
+Para los efectos de la presente Ley, la Secretaría reconocerá a aquellas Organizaciones Ganaderas constituidas en términos de la Ley de Organizaciones Ganaderas.
+
+Todo productor que se dedique a la explotación pecuaria en el Estado, con apego a lo dispuesto en la presente Ley, podrá afiliarse a la asociación ganadera de su preferencia.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 27.
 
-Las organizaciones ganaderas constituidas legalmente, deberán registrarse ante la Secretaría para prestar los servicios de expedición de guías de tránsito contemplados en la presente Ley y su reglamento, en caso de no cumplir con su registro no podrán recibir, ni expedir guías de transito tanto a sus socios activos como a los que no pertenezcan a ninguna otra organización ganadera, las cuales deberán estar coordinadas con la Secretaría y la SAGARPA.
+La SAGARPA y la Secretaría, en términos de lo dispuesto en la presente Ley, su Reglamento y demás disposiciones legales aplicables, ejercerán sus atribuciones para el desempeño de las actividades que realizan las Organizaciones Ganaderas.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 28.
 
-Los productores pecuarios deberán estar inscritos en el Padrón Ganadero Nacional, contar con su clave del registro de UPP, e identificar el 100% de su hato con identificador oficial.
-
-Es indispensable presentarse ante las organizaciones ganaderas con su clave de la Unidad de Producción Pecuaria (UPP), la identificación con arete SINNIGA de los animales a movilizar, el Titulo del Fierro Marcador o la credencial del registro de fierro vigente del productor pecuario expedida por la Secretaría, a través de los H. Ayuntamientos Municipales como requisito previo para realizar los trámites para la facturación y guía de tránsito.
+Las Organizaciones Ganaderas que no cumplan con lo dispuesto por esta Ley, su Reglamento y demás ordenamientos legales, serán acreedoras a las sanciones respectivas en términos de la legislación aplicable, sin perjuicio de las demás responsabilidades en que incurran con motivo del incumplimiento.
 
 ###### Artículo 29.
 
-La expedición de la credencial del registro de fierro del productor pecuario y Título de Propiedad del Fierro, causará el pago que señala la Ley de Ingresos del Estado, debiendo cubrirse el mismo en las oficinas de recaudación estatal, ubicadas en los municipios, dependientes de la Secretaría de Hacienda.
+(DEROGADO, P.O. 5 DE JULIO DE 2017)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 30.
 
-Las organizaciones ganaderas, además de las facultades que les otorga la presente ley, tendrán las atribuciones y obligaciones siguientes:
+Las Organizaciones Ganaderas, además de las facultades que les otorga la presente ley, tendrán las atribuciones y obligaciones siguientes:
 
-I. Pugnar por el mejoramiento y desarrollo de la ganadería del Estado;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+I. Impulsar en coordinación con la Secretaría, el mejoramiento y desarrollo de la Ganadería del Estado;
 
 II. Procurar la adopción de métodos y técnicas que propicien el incremento de la productividad;
 
 III. Apoyar y promover las acciones del gobierno para mejorar la ganadería de los productores de bajos ingresos;
 
-IV. Vigilar que sus miembros cumplan con la reforestación del área perimetral y aquellas que no sean aptas para la unidad de producción;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-V. Promover que en los centros de sacrificio, curtidurías y establecimientos de productos y subproductos pecuarios, cumplan con las disposiciones de esta ley y su reglamento;
+IV. Establecer y ejecutar acciones para la conservación y mejoramiento de la condición zoosanitaria en el Estado;
 
-VI. Promover en coordinación con las dependencias que correspondan la realización de todas aquellas actividades relacionadas con el mejoramiento, producción, comercialización de semovientes, productos y subproductos pecuarios;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-VII. Participar activamente en el padrón ganadero y otros programas de ejecución nacional;
+V. Promover, en coordinación con las dependencias que correspondan, la realización de actividades relacionadas con el mejoramiento, producción, comercialización de Semovientes, productos y subproductos pecuarios;
 
-VIII. Informar a la Secretaria, de los diferentes programas de sanidad pecuaria con carácter permanente mediante sistemas estadísticos de trazabilidad y rastreabilidad que permitan identificar el origen, historia, ubicación y trayectoria de los semovientes, productos y subproductos que afecten la salud pública;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+VI. Abstenerse de realizar y denunciar ante la Secretaría, todas aquellas situaciones que representen riesgo para la salud pública, sanidad animal, impacto ambiental y cualquier otro en demerito de la actividad pecuaria del Estado, así como las presuntas violaciones que se susciten de las disposiciones de esta Ley y su Reglamento;
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+VII. Coadyuvar con la Secretaría, para la correcta ejecución de los diferentes programas de sanidad pecuaria con carácter permanente mediante campañas, vigilancia epidemiológica, inocuidad pecuaria, inspección y control de la movilización, notificación oportuna de brotes, apego a las medidas cuarentenarias, entre otras;
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+VIII. Coadyuvar con la Secretaría, para el impulso de políticas públicas orientadas a la generación de valor agregado en la actividad pecuaria del Estado, mediante la correcta ejecución de programas de trazabilidad y rastreabilidad que permitan garantizar la certificación del origen, historia, ubicación y trayectoria de los semovientes, productos y subproductos;
 
 IX. Proporcionar informes que la Secretaría solicite con relación al mejoramiento, desarrollo de la actividad pecuaria y la movilización de animales, productos y subproductos; y,
 
@@ -591,17 +665,23 @@ X. Las demás que le confiere esta ley y su reglamento, así como otros ordenami
 
 ### Capítulo Único. De la Enseñanza e Investigación Pecuarias
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### Artículo 31.
 
-Las instituciones que impartan educación pecuaria, ya sean de nivel medio general, tecnológico, técnico profesional y superior, otorgarán espacios y oportunidades a los productores para el aprendizaje de las técnicas pecuarias, organizando cursos, talleres, mesas de trabajo, simposios y foros.
+La Secretaría podrá establecer convenios de colaboración con las instituciones de educación superior, orientados a la capacitación, actualización y asistencia técnica de los productores pecuarios y de todo aquel personal involucrado en los programas de sanidad e inocuidad pecuaria, así como el fomento a la Ganadería.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 32.
 
-Las autoridades competentes y auxiliares, tendrán la obligación, en coordinación con las instituciones educativas, de organizar eventos de capacitación y vinculación relacionados con las actividades pecuarias, su impartición será para las organizaciones de productores y para quienes, sin pertenecer a ellas, lo requieran.
+En beneficio de la actividad pecuaria del Estado, la Secretaría podrá establecer convenios de colaboración con las instituciones de educación superior, para el desarrollo de investigaciones tendientes a la generación de nuevas tecnologías, desarrollo de nuevos productos, soluciones para la atención de la problemática ganadera, diagnóstico sobre la condición zoosanitaria del Estado, análisis estadístico y epidemiológico de alto nivel, formación de recursos humanos, entre otros.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 33.
 
-Para el cumplimiento de lo establecido en el artículo anterior, los alumnos de las escuelas y facultades agropecuarias, de las Universidades de Chiapas e Institutos Tecnológicos y profesionales en la materia, tendrán la opción de prestar su servicio social, práctica o residencia profesional mediante esta modalidad.
+La Secretaría podrá establecer convenios de colaboración con las instituciones de educación superior, para la ejecución total o parcial de los programas estratégicos en materia de fomento y Sanidad Pecuaria.
 
 ## Título Sexto. Comisión de Movilización
 
@@ -615,15 +695,19 @@ La Comisión de Movilización, operará en los términos que se establezcan en s
 
 ###### Artículo 35.
 
-La Comisión de Movilización, para su debida instalación y funcionamiento, estará integrado de manera honorífica y sin retribución alguna, por miembros e invitados permanentes señalados en los Lineamientos Operativos de la Comisión.
+La Comisión de Movilización, para su debida instalación y funcionamiento, estará integrado (sic) de manera honorífica y sin retribución alguna, por miembros e invitados permanentes señalados en los Lineamientos Operativos de la Comisión.
 
 ###### Artículo 36.
 
 La Comisión, tendrá las atribuciones siguientes:
 
-I. Establecer los mecanismos necesarios para la obligatoriedad de la revisión, control y verificación de la movilización de animales, productos y subproductos en la entidad, de acuerdo a lo establecido en la presente ley, las NOM, la Ley Federal de Sanidad Animal, y otras disposiciones aplicables;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-II. Integrar grupos operativos, que serán los responsables de verificar física y documentalmente que se cumplan con los requisitos establecidos en la legislación federal y estatal, NOM y las disposiciones que establezca el reglamento de la presente ley;
+I. Establecer los mecanismos necesarios para la obligatoriedad de la revisión, control y verificación de la movilización de animales, productos y subproductos en la entidad, de acuerdo a lo establecido en la presente Ley, la Ley Federal de Sanidad Animal, las NOM’s y acuerdos específicos en la materia y demás disposiciones aplicables.
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+II. Integrar grupos operativos, que serán los responsables de analizar y, consecuentemente, proponer a la Comisión la adopción de diversas acciones y medidas para la debida atención de la problemática en materia de movilización, en apego a las disposiciones legales vigentes.
 
 III. Acordar políticas estatales de inspección y vigilancia con las autoridades federales competentes en materia de sanidad animal;
 
@@ -631,7 +715,9 @@ IV. Verificar que el aprovechamiento, transformación y transporte de los produc
 
 V. Coordinar e implementar operativos con apoyo de las corporaciones policíacas, estableciendo revisiones fijas y móviles en el Estado para verificar el cumplimiento de la normatividad en el transporte y movilización de animales, productos y subproductos pecuarios;
 
-VI. Vigilar la actuación de los integrantes de los grupos operativos, estableciendo los mecanismos legales necesarios para evitar el abuso de autoridad, actos de corrupción y acciones aisladas en las actividades propias de los operativos;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+VI. Vigilar la actuación de los integrantes de los grupos operativos, estableciendo los mecanismos legales necesarios para prevenir abusos de autoridad, actos de corrupción, descoordinación o desvinculación; así como la atención de eventos aislados que pudieran suscitarse en las actividades propias de los operativos;
 
 VII. Elaborar y expedir instructivos, manuales, folletos, trípticos y los anexos que se consideren necesarios en materia de legislación y regulación de la movilización animal, productos y subproductos; y,
 
@@ -679,37 +765,41 @@ VI. Las demás instituciones que considere necesaria la Comisión de Movilizaci�
 
 ### Capítulo Único. De su Integración y Atribuciones
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### Artículo 43.
 
-Se crea la Comisión Interinstitucional para la Regulación de los Centros de Sacrificio, que tendrá como objetivo analizar, revisar y verificar que los proyectos para la construcción, rehabilitación, equipamiento y operación de dichos centros, cumplan con las normas federales y estatales que correspondan, y en su caso validar y autorizar los mismos; vigilando el debido cumplimiento de las NOM's.
+Se crea la Comisión Interinstitucional para la Regulación de los Centros de Sacrificio, que tendrá como objetivo analizar, revisar y verificar que los proyectos para la construcción, rehabilitación, equipamiento y operación de dichos centros, así como sus reglamentos, cumplan con las normas federales y estatales que correspondan, y en su caso validar y autorizar los mismos; vigilando el debido cumplimiento de las NOM´s y acuerdos.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 44.
 
-La Comisión Interinstitucional a que se refiere el artículo anterior, para su debida instalación y funcionamiento, estará integrada de manera honorífica por miembros e invitados permanentes, señalados en los Lineamientos Operativos de la comisión.
+La CIRCS, para su debida instalación y funcionamiento, estará integrada de manera honorífica por miembros e invitados permanentes, señalados en los lineamientos operativos de la comisión.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 45.
 
-La Comisión, tendrá las atribuciones siguientes:
+La CIRCS, tendrá las atribuciones siguientes:
 
-I. Establecer los mecanismos necesarios para la obligatoriedad de las NOM, legislaciones estatales y otras disposiciones legales aplicables;
+I. Establecer los mecanismos necesarios para la observancia y debido cumplimiento de las NOM´s y acuerdos, la presente Ley, el Reglamento y demás disposiciones legales aplicables;
 
-II. Integrar grupos de trabajo, que serán los responsables de verificar física y documentalmente que se cumplan con los requisitos establecidos en las NOM y legislaciones estatales;
+II. Integrar grupos de trabajo, que serán los responsables de verificar física y documentalmente que se cumpla con lo establecido en la fracción I de este artículo;
 
-III. Acordar la adecuada planeación de los proyectos integrales de los centros de sacrificio municipales;
+III. Acordar la adecuada planeación de los proyectos integrales en los Centros de Sacrificio municipales;
 
-IV. Verificar permanentemente que en los centros de sacrificio exista un médico veterinario que se encargará de la inspección y vigilancia ante morten y posmorten así como de la documentación de ingreso a sacrificio estableciendo un programa de trazabilidad.
+IV. Verificar permanentemente que en los Centros de Sacrificio exista un Médico Veterinario Zootecnista, quien se encargará de la inspección y vigilancia ante morten (sic) y posmorten (sic), así como de la documentación de ingreso a sacrificio, estableciendo un programa de Trazabilidad.
 
-V. Integrar grupos operativos para la supervisión y verificación del transporte de productos y subproductos de origen animal, y que cumplan con las legislaciones federales y estatales;
+V. Revisar, y en su caso validar, las propuestas de reglamento de los Centros de Sacrificio.
 
-VI. Coordinar e implementar con apoyo de las corporaciones policíacas, operativos en establecimientos y expendios de productos y subproductos de origen animal, realizando revisiones fijas y móviles en el Estado para corroborar el cumplimiento de la NOM y de la legislación estatal;
+VI. Coordinar e implementar, con apoyo de las autoridades auxiliares, operativos de supervisión y verificación en Centros de Sacrificio para corroborar la observancia y el cumplimiento de la (sic) NOM´s y acuerdos, la presente Ley, el Reglamento y demás disposiciones legales;
 
-VII. Integrar grupos de difusión regional para coordinar las instancias interinstitucionales, desarrollando a través de estos un proceso amplio de divulgación sobre el consumo de productos y subproductos de origen animal inocuo;
+VII. Integrar el grupo técnico que se encargará de la revisión de proyectos de construcción, equipamiento o remodelación de Centros de Sacrificio solicitados por autoridades municipales y particulares;
 
-VIII. Vigilar la actuación de los integrantes de los grupos operativos, estableciendo los mecanismos legales necesarios para evitar el abuso de autoridad, actos de corrupción y acciones aisladas en las actividades propias de los operativos;
+VIII. Elaborar y expedir instructivos, manuales en buenas prácticas de higiene y procesos de limpieza, folletos, trípticos y anexos que se consideren necesarios para la regulación del sacrificio animal, así como para la movilización de productos y subproductos; y,
 
-IX. Elaborar y expedir instructivos, manuales, folletos, trípticos y anexos que se consideren necesarios en materia de legislación y regulación del sacrificio, además de la movilización de productos y subproductos; y,
-
-X. Las demás que señale en los Lineamientos Operativos de la comisión.
+IX. Las demás que señale (sic) en los lineamientos operativos de la comisión.
 
 ###### Artículo 46.
 
@@ -719,13 +809,17 @@ Los integrantes de las vocalías en el ámbito de su competencia llevarán a cab
 
 ### Capítulo Único. De su Objeto, Integración y Atribuciones
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### Artículo 47.
 
-El Grupo Estatal de Emergencias de Sanidad Animal (GEESA), es un órgano Interinstitucional, que tiene como objeto reunirse cuando se presente alguna contingencia zoosanitaria dentro del Estado de Chiapas, el cual para su funcionamiento deberá cumplir con las disposiciones establecidas en la legislación Federal, Estatal y Municipal, en las NOM en materia zoosanitaria y otras disposiciones legales aplicables.
+El Grupo Estatal de Emergencia de Sanidad Animal, es un órgano interinstitucional, que tiene como objeto reunirse cuando se presente alguna contingencia zoosanitaria dentro del Estado de Chiapas, el cual para su funcionamiento deberá cumplir con las disposiciones establecidas en la legislación Federal, Estatal y Municipal, en las NOM´s y acuerdos y otras disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 48.
 
-El Grupo Estatal a que se refiere el artículo anterior, para su debida instalación y funcionamiento, estará integrado de manera honorífica, por miembros e invitados permanentes, señalados en las Reglas de Operación del Grupo.
+El GEESA, para su debida instalación y funcionamiento, estará integrado de manera honorífica, por miembros e invitados permanentes, señalados en el Reglamento.
 
 ###### Artículo 49.
 
@@ -849,9 +943,7 @@ VIII. Las demás que sean necesarias para el fortalecimiento de los productores 
 
 ###### Artículo 58.
 
-Quedan prohibidas las prácticas de explotación extensiva en áreas con recursos naturales, que tiendan a disminuir la condición de productividad y equilibrio del ecosistema.
-
-En los predios debidamente diversificados en su aprovechamiento, los propietarios podrán establecer áreas de fomento de la ganadería diversificada, mediante las UMAS, para la comercialización cinegética racional de especies no vedadas, previa autorización y apegada a los programas de la Secretaría de Medio Ambiente y Recursos Naturales, así como de la Secretaría y la Secretaría del Medio Ambiente e Historia Natural.
+(DEROGADO, P.O. 5 DE JULIO DE 2017)
 
 ###### Artículo 59.
 
@@ -931,37 +1023,51 @@ Incurrirá en responsabilidad, todo aquel productor que ocasione daños a semovi
 
 Toda persona que intencionalmente corte y/o destruya las cercas de alambre o las naturales, será sancionada conforme a lo establecido en el Código Penal para el Estado de Chiapas.
 
-## Título Décimo. Clasificación de Productos y Subproductos Pecuarios
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE JULIO DE 2017)</small>
 
-### Capítulo I. De la Clasificación de los Productos y Subproductos
+## Título Décimo. De la Inocuidad y las Buenas Prácticas Pecuarias
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+### Capítulo Único. Generalidades
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 71.
 
-Los productos y subproductos pecuarios serán clasificados conforme al reglamento que se expida para tal efecto, sin perjuicio de las normas oficiales mexicanas y normas mexicanas que se emitan al respecto.
+La Secretaría coadyuvará, a petición de la SAGARPA, en la verificación y supervisión que en materia de inocuidad y buenas prácticas pecuarias, se establezca en el Reglamento.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 72.
 
-Los productos y subproductos pecuarios que se encuentren empaquetados, pero no etiquetados que se introduzcan a la entidad, serán identificados como no clasificados, por lo que no se podrán comercializar como productos de primera calidad.
+La Secretaría, en materia de inocuidad y buenas prácticas pecuarias, se apegará en todo momento a lo establecido en la Ley Federal de Sanidad Animal.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 73.
 
-El reglamento de la Ley contendrá las normas sobre procedimientos para comprobar las características sobre los grados de calidad y, en su caso, de rendimiento, así como el equipo adecuado para efectuarlos y para establecer con mayor exactitud la selección y clasificación de productos y subproductos pecuarios destinados para el consumo humano.
+Los Centros de Sacrificio deberán contar con instalaciones y equipos, que permitan realizar las buenas prácticas de higiene, proceso sanitario de la carne y buenas prácticas de manufactura; para elevar la calidad sanitaria de los productos cárnicos obtenidos.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 74.
 
-La Secretaría promoverá de manera permanente, a través de los reglamentos que expida el Ejecutivo del Estado, el cumplimiento de las normas oficiales mexicanas y normas mexicanas para los productos y subproductos pecuarios producidos en el Estado y fomentará, la implementación de estándares superiores a los mínimos establecidos en dichas normas.
+El Ejecutivo del Estado podrá crear, con la cooperación de las Organizaciones Ganaderas, un cuerpo de técnicos e inspectores, dependientes de la Secretaría, para que coadyuven con las autoridades competentes y auxiliares en las labores de inspección a las UPP, PSG y PG, con el fin de promover la inocuidad y buenas practicas pecuaria (sic) en apego a lo establecido en las Legislaciones Federales y Estatales.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 75.
 
-La Secretaría, de manera conjunta con la Secretaría de Salud, otorgará los permisos para el establecimiento de expendios de carne clasificada de las especies domésticas productivas, conforme a la calidad y cortes de los productos que se vayan a comercializar, en la inteligencia de que se almacenarán y expenderán únicamente las clases de carnes y de las especies que señale la autorización concedida.
+Queda prohibido a los propietarios de granjas y establos, Centros de Sacrificio, plantas empacadoras, industrializadoras, Centros de Acopio, los transportadores e introductores, así como los expendios, y a la población en general, el uso de sustancias no autorizadas, contaminadas y/o procedentes de animales enfermos, para la elaboración, producción y comercialización de productos y subproductos pecuarios para la alimentación animal y consumo humano; en caso de incumplimiento del presente artículo se sujetaran a las sanciones que establece (sic) artículo 252 de la presente Ley, sin perjuicio de la aplicación de otras sanciones previstas en diversos ordenamientos legales.
 
 ###### Artículo 76.
 
-Los productos y subproductos de las diversas especies pecuarias serán clasificados conforme al reglamento que se expida para tal efecto, sin perjuicio de las NOM que se emitan al respecto.
+(DEROGADO, P.O. 5 DE JULIO DE 2017)
 
 ###### Artículo 77.
 
-El Ejecutivo del Estado podrá crear, un cuerpo de técnicos e inspectores dependientes de la Secretaría, para que coadyuven con las autoridades competentes y auxiliares en las labores de inspección de las explotaciones, establos, centros de sacrificio, centros de acopio animal, comercializadores y expendios autorizados de carne, con el fin de vigilar y controlar la inocuidad y calidad del producto.
+(DEROGADO, P.O. 5 DE JULIO DE 2017)
 
 ###### Artículo 78.
 
@@ -969,73 +1075,99 @@ El personal de la Secretaría en coadyuvancia con las autoridades de salud, real
 
 Cuando en ejercicio de sus funciones el personal observe anomalías que expongan a un riesgo la salud de la población o contravengan la legislación sanitaria, deberá dar aviso a las autoridades de salud.
 
-## Título Décimo Primero. De las Especies Pecuarias
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE JULIO DE 2017)</small>
 
-### Capítulo II. De la Industria Cárnica
+## Título Décimo Primero. De la Clasificación de las Especies Pecuarias
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE JULIO DE 2017)</small>
+
+### Capítulo I. Del Ganado Bovino
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 79.
 
-La industria cárnica en el Estado de Chiapas, es considerada como un factor determinante tanto en la alimentación como en la economía estatal, ya que estos productos contienen un alto nivel proteínico además de la existencia de establecimientos dedicados al procesamiento de la carne.
+El ganado bovino se clasifica en:
+
+a) Ganado bovino productor de carne.
+
+b) Ganado bovino productor de leche.
+
+c) Ganado bovino de doble propósito.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 80.
 
-En las instalaciones físicas, equipos y procesos de los establecimientos en los cuales se sacrifican animales para abasto y consumo humano, deberán contar con buenos hábitos de higiene y buenas prácticas de manufactura; elevando la calidad sanitaria de los productos cárnicos obtenidos con la finalidad de evitar riesgos a la salud pública.
+Se entiende por ganado bovino productor de carne, a los semovientes de razas reconocidas y a las cruzas que permitan la producción de carne para su comercialización.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 81.
 
-Es facultad de la Secretaría, autoridades de salud, ambientales y ayuntamientos municipales, señalar y autorizar el radio distante de los centros de población, para la instalación de unidades de producción pecuarias, centros de sacrificio pecuarios, plantas procesadoras y comercializadoras, observando lo que establece la Ley Federal de Sanidad Animal y las NOM; así como las leyes y reglamentos de cada una de las dependencias involucradas.
+Se entiende por ganado bovino productor de leche, a los semovientes de razas reconocidas que permitan la producción de leche para su comercialización.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 82.
 
-Se declara de interés público la organización y fomento de la producción de carne en el Estado, con el fin de abatir los costos que se erogan para obtenerla de otros Estados.
+Se entiende por ganado bovino de doble propósito a los semovientes de razas reconocidas por sus cruzas que permiten la producción de carne y leche para su comercialización.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 83.
 
-Con el objeto de preservar la salud pública, toda UPP deberá realizar anualmente las pruebas de tuberculosis y brucelosis, y todas aquellas que indiquen las autoridades sanitarias.
+Es obligación de los productores de ganado bovino, estar debidamente registrados ante el PGN, así como también que la totalidad de los semovientes que integren su hato ganadero cuenten con Identificador Oficial.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 84.
 
-La Secretaría promoverá con las organizaciones ganaderas el establecimiento de plantas procesadoras, cámaras de refrigeración y comercializadoras de carne en las poblaciones en donde no sea posible el establecimiento de centros de sacrificio, para el consumo humano, estando sujetos a las NOM y legislaciones estatales.
+El personal de la Secretaría en coadyuvancia con las autoridades auxiliares y organismos auxiliares de cooperación, realizará verificaciones o inspecciones sanitarias generales, en establos, plantas industriales, Centros de Acopio y corrales de engorda.
+
+Cuando en ejercicio de sus funciones, el personal observe anomalías que representen un riesgo a la salud animal o pública o contravengan la legislación sanitaria, estas deberán aviso (sic) a las autoridades competentes.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 85.
 
-Los propietarios de granjas y establos, de los centros de sacrificio, de plantas empacadoras, industrializadoras, centros de acopio, los transportadores e introductores, así como los expendios, son responsables respecto a la carne que se comercialice con sustancias no autorizadas, contaminadas y/o procedentes de animales enfermos.
+La Secretaría fomentará en los productores de ganado, integrarse en un Sistema Producto Pecuario para la creación de regiones o cuencas productoras para garantizar el abasto, producción y comercialización de los productos en la entidad.
 
 ###### Artículo 86.
 
-La Secretaría fomentará el establecimiento de UPP de leche, granjas agropecuarias y la realización de cuencas lecheras; asimismo, organizará e integrará a los productores de leche a las necesidades de la planificación agropecuaria.
+(DEROGADO, P.O. 5 DE JULIO DE 2017)
 
 ###### Artículo 87.
 
-El Ejecutivo del Estado podrá crear, con la cooperación de las organizaciones ganaderas, un cuerpo de técnicos e inspectores, dependientes de la Secretaría, para coadyuvar con las autoridades competentes y auxiliares en las labores de inspección a los establos, plantas pasteurizadoras, centros de acopio, distribuidores y expendios autorizados de leche líquida, con el fin de vigilar y controlar la pureza, precio y calidad del producto.
-
-Cuando en ejercicio de sus funciones el personal observe anomalías que pongan en riesgo la salud de la población o contravengan la legislación sanitaria deberá dar aviso a las autoridades de Salud.
+(DEROGADO, P.O. 5 DE JULIO DE 2017)
 
 ###### Artículo 88.
 
-Es obligación del productor de leche, registrar su asiento de producción ante las autoridades competentes y auxiliares; pudiendo para ello, constituirse como un sector especializado dentro de la organización.
+(DEROGADO, P.O. 5 DE JULIO DE 2017)
 
 ###### Artículo 89.
 
-Se entiende como industria lechera, que tiene como materia prima la leche, procedente del animal bovino, siendo unos (sic) de los alimentos básicos de la humanidad. Los subproductos que genera esta industria se categorizan como lácteos e incluyen una amplia gama de subproductos.
+(DEROGADO, P.O. 5 DE JULIO DE 2017)
 
 ###### Artículo 90.
 
-Se declara de interés público la organización y fomento de la industrialización de leche en el Estado, con el fin de abatir los costos que se erogan para obtenerla de otros Estados. Así también la Secretaria promoverá el consumo de productos y subproductos lácteos que se producen en la entidad.
+(DEROGADO, P.O. 5 DE JULIO DE 2017)
 
 ###### Artículo 91.
 
-Con el objeto de preservar la salud pública, toda explotación lechera deberá someterse anualmente a las pruebas de tuberculosis, brucelosis, mastitis y todas aquellas otras que indiquen las autoridades sanitarias.
+(DEROGADO, P.O. 5 DE JULIO DE 2017)
 
 ###### Artículo 92.
 
-La Secretaría promoverá con las organizaciones ganaderas el establecimiento de plantas procesadoras de leche, en las poblaciones en donde no existan dichos establecimientos, estando sujetos a las NOM y legislaciones federales y estatales.
+(DEROGADO, P.O. 5 DE JULIO DE 2017)
 
 ###### Artículo 93.
 
-Los propietarios de establos, los transportadores, los dueños de plantas industriales, centros de acopio, así como los propietarios y encargados de los expendios, son responsables y acreedores a las sanciones previstas en la presente Ley, de la leche adulterada o contaminada.
+(DEROGADO, P.O. 5 DE JULIO DE 2017)
 
-### Capítulo III. Del Ganado Lechero
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ANTES CAPÍTULO I], P.O. 5 DE JULIO DE 2017)</small>
+
+### Capítulo II. De la Avicultura
 
 ###### Artículo 94.
 
@@ -1069,7 +1201,9 @@ Para el control sanitario y la movilización de las aves, productos y subproduct
 
 Para la introducción o salida del Estado de aves, productos y subproductos en estado natural, refrigerados, congelados o industrializados, será aplicable lo establecido en el capítulo relativo a movilización de animales, en todo aquello que sea procedente.
 
-### Capítulo IV. De la Industria Lechera
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ANTES CAPÍTULO II], P.O. 5 DE JULIO DE 2017)</small>
+
+### Capítulo III. De la Apicultura
 
 ###### Artículo 102.
 
@@ -1147,7 +1281,9 @@ La Secretaría, promoverá el mejoramiento genético de la especie abeja, median
 
 Los productores apícolas están obligados a cooperar en las campañas zoosanitarias y para el control de la abeja africana, conforme lo establezcan las autoridades correspondientes.
 
-### Capítulo I. De la Avicultura
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ANTES CAPÍTULO III], P.O. 5 DE JULIO DE 2017)</small>
+
+### Capítulo IV. De la Porcicultura
 
 ###### Artículo 121.
 
@@ -1173,7 +1309,9 @@ Se faculta a las autoridades Competentes, auxiliares y de competencia, para que 
 
 Para el control sanitario y movilización de cerdos, productos y subproductos, se observará lo dispuesto en los capítulos de sanidad y movilización que contiene la presente ley, en todo aquello que les fuere aplicable.
 
-### Capítulo II. De la Apicultura
+> <small>(ADICIONADO [N. DE E. ANTES CAPÍTULO IV], P.O. 5 DE JULIO DE 2017)</small>
+
+### Capítulo V. De la Ovinocultura y Caprinocultura
 
 ###### Artículo 127.
 
@@ -1205,7 +1343,7 @@ Para el control sanitario y movilización de Ovinos y Caprinos, productos y subp
 
 ## Título Décimo Segundo. De la Sanidad, Inocuidad y de las Medidas Zoosanitarias
 
-### Capítulo III. De la Porcicultura
+### Capítulo I. De la Sanidad Pecuaria
 
 ###### Artículo 134.
 
@@ -1229,47 +1367,61 @@ III. Comprar, vender, trasladar o realizar cualquier operación con animales o s
 
 La Secretaría, en coordinación con las autoridades auxiliares y de cooperación, promoverá la implementación de sistemas de desnaturalización y procesamiento de despojos de animales, productos y subproductos que representen un riesgo sanitario e implementará acciones para fomentar la sanidad e inocuidad de las especies domesticas productivas, apegándose a lo establecido por las NOM'S.
 
-### Capítulo IV. De la Ovinocultura y Caprinocultura
+### Capítulo II. De las Campañas y Medidas Zoosanitarias
 
 ###### Artículo 138.
 
 Se declara (sic) de observancia obligatoria y de interés público, las campañas zoosanitarias para la prevención, control y erradicación de enfermedades que dicten las autoridades federales al respecto, por lo que es de carácter general la obligación de acatar las disposiciones y participar activamente en estas para la protección de la salud animal y pública.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### Artículo 139.
 
-El Gobierno del Estado a través de la Secretaría y en Coordinación con la Secretaría Federal del ramo, implementara las estrategias que requieran las campañas zoosanitarias en el territorio del Estado, en caso de un diagnostico o bajo sospecha de la presencia de alguna enfermedad que ponga en riesgo la salud animal o publica, lo anterior en apoyo de la normatividad federal aplicable.
+La Secretaría en coordinación con el SENASICA y los Ayuntamientos, implementará las estrategias que requieran las campañas zoosanitarias en el territorio del Estado, en caso de un diagnóstico o bajo sospecha de la presencia de alguna enfermedad o plaga que ponga en riesgo la salud animal o pública.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 140.
 
-El Gobierno del Estado a través de la Secretaría, podrá dictar medidas zoosanitarias para prevenir, controlar y evitar la propagación de enfermedades y plagas que afecten a las especies pecuarias, así como a la fauna silvestre; teniendo vigencia esta disposición en el área afectada y será obligatoria para todos los productores de esta especie durante el tiempo para el que se establezcan, siempre y cuando no contravengan las disposiciones federales en materia de salud animal.
+Con el objetivo de preservar la sanidad animal y la salud pública, toda UPP, así como todo PSG y PG, deberán participar anualmente en las campañas zoosanitarias oficiales, y en todas aquellas de vigilancia epidemiológica que determine la autoridad sanitaria en el Estado.
 
 ###### Artículo 141.
 
 Cuando se compruebe los avances obtenidos en una campaña zoosanitaria dentro del Estado y se cumplan los requisitos para obtener de la autoridad federal el reconocimiento oficial de un nuevo Estatus zoosanitario, el Gobierno del Estado, a petición de las organizaciones de productores pecuarios, solicitara a la autoridad federal la certificación correspondiente.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### Artículo 142.
 
-Para la implementación de las campañas zoosanitaria (sic), el Gobierno del Estado podrá auxiliarse de las organizaciones pecuarias y de los organismos auxiliares de cooperación, con forme (sic) a las bases que el primero establezca.
+Para la implementación de las campañas zoosanitarias en el Estado, la Secretaría podrá auxiliarse de los organismos auxiliares de cooperación, conforme a las bases que establezca.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 143.
 
-El control, diagnostico de las enfermedades, la vacunación y la desinfección de las explotaciones pecuaria (sic), deberán ser efectuadas por personal oficial, personal de los organismos auxiliares o por médicos veterinarios zootecnistas debidamente identificados y aprobados por la autoridad federal competente.
+El control, diagnostico de enfermedades, vacunación y desinfección de las explotaciones pecuarias, serán efectuadas por personal oficial, personal de los organismos auxiliares o por Médicos Veterinarios Zootecnistas, afiliados al Colegio Estatal de Médicos Veterinarios Zootecnistas de Chiapas y autorizados por la SAGARPA y la Secretaría.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 144.
 
-Los médicos veterinarios zootecnistas oficiales o aprobados deberán extender constancias de vacunación, pruebas de campo, desinfección o desinfestación, en las cuales se hará constar el nombre y ubicación de la explotación pecuaria, la especie y número de animales, la enfermedad contra la que se haya vacunado o controlado y la fecha en que se efectuó.
+La Secretaría podrá dictar medidas zoosanitarias para prevenir, controlar y evitar la propagación de enfermedades o Plagas que afecten a las especies pecuarias, así como a la fauna silvestre, las cuales serán de observancia obligatoria, estableciendo el área de aplicación y la vigencia de dichas medidas, siendo obligatoria su observancia para todos los productores relacionados, y cumpliendo las disposiciones de la Ley Federal de Salud Animal y las que resulten aplicables.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 145.
 
-Cuando algún productor se negare, sin causa justificada, a efectuar en su explotación pecuaria las disposiciones que se establezcan en las campañas zoosanitarias que se lleven a cabo, las autoridades competentes procederán a hacerlo, cobrando el importe de los gastos al propietario y aplicando las sanciones a que se haga acreedor conforme a la Ley.
+Cuando algún Productor Pecuario se negare, sin causa justificada, a efectuar en su explotación pecuaria las disposiciones que establezcan las campañas zoosanitarias, las autoridades competentes procederán a realizarlas, ejecutando el cobro del importe de los gastos originados al productor, lo anterior sin perjuicio de la infracción prevista en la fracción VIII del artículo 251 de la presente Ley.
 
 ###### Artículo 146.
 
 Cuando la autoridad federal declare emergencias o contingencias zoosanitarias, el Gobierno del Estado, las autoridades municipales y los productores de las zonas afectadas tendrán la obligación de cooperar con los organismos federales, estatales y demás autoridades competentes, en las actividades de diagnóstico, detección, prevención, control, erradicación de la enfermedad que se trate y la desinfección y despoblación de la explotación pecuaria, según sea el caso.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### Artículo 147.
 
-La Secretaría y las autoridades auxiliares deberán vigilar que en la alimentación de animales o en la elaboración de los productos y subproductos derivados de los mismos, no se utilicen sustancias prohibidas que pongan en riesgo a la salud pública.
+Los Ayuntamientos están obligados a colaborar con las autoridades competentes, así como con las autoridades auxiliares, a efecto de que se realicen las campañas y medidas zoosanitarias dentro del territorio del municipio.
 
 ###### Artículo 148.
 
@@ -1277,47 +1429,59 @@ Los ayuntamientos municipales, coadyuvarán con las autoridades competentes y de
 
 La inspección zoosanitaria se deberá realizar constantemente, así como dar a conocer a las autoridades competentes y auxiliares sobre el resultado que se obtenga.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### Artículo 149.
 
-Mientras se encuentre vigente la declaración de cuarentena de una región o de una explotación pecuaria, no se expedirán a los propietarios y/o comercializadores guías de tránsito y certificados zoosanitarios para los animales de la zona o predio afectado, exceptuando a los animales destinados al sacrificio inmediato, previa inspección zoosanitaria y orden de sacrificio otorgado por una autoridad competente.
+Mientras se encuentre vigente la declaración de cuarentena de una región o de una explotación pecuaria, no se expedirán a los propietarios y/o comercializadores Guías de Tránsito y demás requisitos que establezca la SAGARPA, para los Animales de la zona o predios afectados, exceptuando a los Animales destinados al sacrificio inmediato, previa inspección zoosanitaria y orden de sacrificio otorgado por una autoridad competente.
 
 ###### Artículo 150.
 
 La Secretaría Coadyuvará con las autoridades competentes y auxiliares en la emisión de la restricción de la movilización de animales de las UPP, que resulten sospechosos y/o positivos de alguna enfermedad infectocontagiosa.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### Artículo 151.
 
-Los productores que sus animales resulten reactores y/o positivos a alguna enfermedad infectocontagiosa están obligados en un término no mayor a 10 días naturales a enviarlos a sacrificio inmediato con inspección veterinaria oficial, previa orden de sacrificio otorgada por una autoridad competente.
+Es obligatorio que los Productores Pecuarios envíen a sacrificio inmediato, con inspección veterinaria oficial, a los Animales que resulten reactores y/o positivos a alguna enfermedad infectocontagiosa, en un término no mayor a 10 días naturales previa orden de sacrificio otorgada por una autoridad competente.
 
 ###### Artículo 152.
 
 Se prohíbe la entrada o salida del Estado, de animales infectados de enfermedades infectocontagiosas transmisibles.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### Artículo 153.
 
-Serán (sic) de carácter obligatorio la observancia de las medidas que en materia de sanidad animal establezcan las instituciones del sector Federal o Estatal.
+Serán (sic) de carácter obligatorio la observancia de las medidas que en materia de sanidad animal establezcan la SAGARPA, la Secretaría y demás autoridades competentes.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 154.
 
-Sin perjuicio de lo previsto por la Ley Federal de Sanidad Animal y sus NOM, se consideran como medidas zoosanitarias las que se establecen en el reglamento de la presente Ley.
+Para el caso de medidas zoosanitarias no previstas en la Ley Federal de Sanidad Animal, la Secretaría las establecerá en el Estado, teniendo éstas el mismo carácter de obligatorio.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 155.
 
-Se consideran como enfermedades exóticas o epizoóticas, zoonóticas, infecciosas y parasitarias las que se describan en el reglamento correspondiente.
+El Reglamento establecerá las enfermedades que se considerarán exóticas, epizoóticas, zoonóticas, enzoóticas, infecciosas y parasitarias.
 
 ###### Artículo 156.
 
 Los oficiales de inspectoría pecuaria y de los centros de sacrificio, así como los inspectores pecuarios, que detecten en el embarque, desembarque y/o en tránsito, ganado mayor y/o especies menores afectados por heridas, plagas o enfermedades riesgosas, deberán detenerlo y comunicarlo de inmediato a la Secretaría, a la SAGARPA y al Ayuntamiento Municipal que corresponda, en término de lo establecido por la presente Ley.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### Artículo 157.
 
-Queda prohibido a los Médicos Veterinarios Zootecnistas, que en el ejercicio libre de su profesión retiren los aretes originales que posean los animales cuando se les realicen nuevas pruebas diagnósticas contra la Tuberculosis Bovina y Brucelosis, en caso de que el animal de que se trate no cuente con identificación alguna, se deberá colocar obligatoriamente el identificador oficial.
+Queda prohibido a los Médicos Veterinarios Zootecnistas, así como los acopiadores, engordadores, comercializadores y productores, y en general a cualquier persona, retirar el Identificador Oficial que posean los Animales cuando se les realicen nuevas pruebas diagnosticas contra la tuberculosis bovina y brucelosis. En caso de que el Animal de que se trate no cuente con Identificador Oficial, se le deberá colocar inmediatamente el correspondiente, lo anterior sin perjuicio de la aplicación de la sanción establecida en las fracciones XXXVI y XL del artículo 252 de la presente Ley.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 158.
 
-Toda persona que tenga conocimiento de la aparición de cualquier plaga o enfermedad que afecte a los animales deberá comunicarlo de inmediato a la Secretaria y/o autoridades auxiliares en materia sanitaria para que se tomen las medidas pertinentes.
-
-Los propietarios y encargados de los animales, deberán tomar las medidas para evitar la propagación de enfermedades o plagas, éstas podrán ser: el aislamiento, tratamiento médico y otras que se especificaran en el reglamento de esta Ley, debiendo cooperar en los trabajos de prevención y combate de las enfermedades.
+Toda persona que tenga conocimiento de la aparición de cualquier plaga o enfermedad que afecte a los animales deberá comunicarlo de inmediato a la Secretaría y/o autoridades auxiliares en materia sanitaria para que se tomen las medidas pertinentes.
 
 ###### Artículo 159.
 
@@ -1327,21 +1491,25 @@ Independientemente de lo establecido en el artículo anterior, desde el momento 
 
 Toda persona que venda, acepte o lleve a cabo cualquier operación o contrato con el despojo de algún animal muerto a causa de una enfermedad infecto-contagiosa, será sancionada en los términos de esta ley, sin perjuicio de las sanciones a que se haga acreedor con base en otros ordenamientos legales.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### Artículo 161.
 
-Es obligación de todos los productores y comercializadores pecuarios acatar y cumplir con las NOM y las disposiciones emitidas por la Secretaría, respecto a las campañas zoosanitarias oficiales y de interés estatal.
+Es obligación de todos los productores, engordadores, acopiadores y comercializadores pecuarios acatar y cumplir con las NOM´s, acuerdos y demás disposiciones emitidas por la Secretaría, respecto de las campañas zoosanitarias oficiales y de interés estatal.
 
 ###### Artículo 162.
 
 Las disposiciones del presente capítulo serán aplicables en lo conducente a las demás especies animales a que se refiere esta Ley y su Reglamento.
 
-### Capítulo I. De la Sanidad Pecuaria
+### Capítulo III. De la Inspección y Verificación Pecuaria
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 163.
 
-La inspección y verificación pecuaria, tiene como objeto explorar, examinar, revisar física y documentalmente los animales pecuarios, productos y subproductos e instalaciones con la finalidad de dar cumplimiento con lo establecido en la presente Ley y demás aplicaciones vigentes para su desarrollo y aprovechamiento.
+La inspección y verificación pecuaria, tiene como objeto explorar, examinar, revisar físicamente en dinámica, estática y documentalmente los animales, productos y subproductos e instalaciones con la finalidad de dar cumplimiento con lo establecido en la presente Ley y demás aplicaciones vigentes para su desarrollo y aprovechamiento.
 
-En general en todo lo relacionado a la preservación, explotación racional de la especie, sanidad e inocuidad, la regulación de la movilización de los animales y el abigeato;
+En general en todo lo relacionado a la preservación, explotación racional de la especie, sanidad e inocuidad, la regulación de la movilización de los animales y el abigeato.
 
 ###### Artículo 164.
 
@@ -1354,6 +1522,14 @@ II. Los Oficiales de Inspectoría Pecuaria en Centros de Sacrificio;
 III. Los Inspectores Pecuarios;
 
 IV. Autoridades Competentes, auxiliares y de cooperación.
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2017)</small>
+
+V. Los Verificadores Pecuarios; y
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2017)</small>
+
+VI. El Oficial Estatal, de acuerdo al convenio respectivo con la SENASICA.
 
 ###### Artículo 165.
 
@@ -1373,7 +1549,9 @@ f) Los puntos de verificación e inspección de movilización pecuaria internas 
 
 g) Las demás que se establezcan en el reglamento de la presente Ley.
 
-Siendo obligación de los propietarios, transportistas y comercializadores, otorgar todas las facilidades para llevar a cabo la correcta verificación e inspección física y documental de la movilización de animales pecuarios, productos y subproductos.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+Los propietarios, engordadores, acopiadores, transportistas y comercializadores, están obligados a otorgar todas las facilidades para llevar a cabo la correcta verificación e inspección física y documental de la movilización de animales pecuarios, productos y subproductos.
 
 ###### Artículo 166.
 
@@ -1387,9 +1565,15 @@ Los verificadores, para practicar visitas, deberán estar provistos de orden esc
 
 Al iniciar la visita, el verificador deberá exhibir credencial vigente con fotografía, expedida por la autoridad competente que lo acredite para desempeñar dicha función, así como la orden expresa a la que se refiere el artículo anterior de la presente Ley, de la que deberá dejar copia al propietario, responsable, encargado u ocupante del establecimiento.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### Artículo 169.
 
-De toda visita de verificación se levantará acta circunstanciada, en presencia de dos testigos propuestos por la persona con quien se hubiere entendido la diligencia o por quien la practique si aquélla se hubiere negado a proponerlos. De toda acta se dejará copia a la persona con quien se entendió la diligencia, aunque se hubiere negado a firmar, lo que no afectará la validez de la diligencia ni del documento de que se trate, siempre y cuando el verificador haga constar tal circunstancia en la propia acta.
+De toda visita de verificación se levantará acta circunstanciada, en presencia de dos testigos propuestos por la persona con quien se hubiere entendido la diligencia o por el verificador si aquélla se hubiere negado a proponerlos.
+
+De toda acta se dejará copia a la persona con quien se entendió la diligencia, aunque se hubiere negado a firmar, lo que no afectará la validez de la diligencia ni del acta, debiendo el verificador hacer constar en la propia acta tal negativa.
+
+En caso de no encontrarse la persona con quien ha de verificarse la visita de verificación, en el domicilio a verificar, se procederá a dejar citatorio de espera en un lugar visible, notificándole la hora y fecha de la próxima visita.
 
 ###### Artículo 170.
 
@@ -1413,9 +1597,11 @@ VIII. Declaración del visitado, si quisiera hacerla; y,
 
 IX. Nombre y firma de quienes intervinieron en la diligencia incluyendo los de quien la hubiere llevado a cabo. Si se negaren a firmar el visitado o su representante legal, ello no afectará la validez del acta, debiendo el verificador asentar la razón relativa.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### Artículo 171.
 
-Los visitados a quienes se haya levantado acta de verificación podrán formular observaciones en el acto de la diligencia y ofrecer pruebas en relación a los hechos contenidos en ella, o bien, por escrito, hacer uso de tal derecho dentro del término de cinco días siguientes a la fecha en que se hubiere levantado.
+Los visitados podrán formular observaciones en el acto de la diligencia y ofrecer pruebas en relación a los hechos contenidos en ella, o bien, presentarlas por escrito, para su defensa dentro del término de cinco días hábiles siguientes a la fecha en que se realizó la visita de verificación.
 
 ###### Artículo 172.
 
@@ -1435,7 +1621,7 @@ Toda persona podrá denunciar ante las autoridades municipales, estatales o fede
 
 ## Título Décimo Tercero. De los Laboratorios de Diagnóstico Clínico Veterinario
 
-### Capítulo II. De las Campañas y Medidas Zoosanitarias
+### Capítulo Único. De los Laboratorios
 
 ###### Artículo 176.
 
@@ -1449,27 +1635,49 @@ Los laboratorios públicos y privados deberán obtener de la Federación a trav�
 
 Las funciones y condiciones mínimas de bioseguridad de los laboratorios de diagnóstico clínico veterinario, se desarrollaran en los términos establecidos en el Reglamento de esta Ley.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### Artículo 179.
 
-El Ejecutivo del Estado a través de la Secretaría podrá suscribir convenios de colaboración y/o acuerdos de coordinación con la Federación, con instituciones de investigación y académicas en materia de laboratorios de pruebas y/o diagnóstico clínico veterinario.
+La Secretaría podrá suscribir convenios de colaboración y/o acuerdos de coordinación con la Federación, con el Colegio de Médicos Veterinarios Zootecnista (sic) de Chiapas, instituciones de investigación y académicas en materia de laboratorios de pruebas y/o diagnóstico clínico veterinario.
 
 ## Título Décimo Cuarto. De la Movilización, Trazabilidad, Abigeato y Permisos Pecuarios
 
-### Capítulo III. De la Inspección y Verificación Pecuaria
+### Capítulo I. De la Movilización
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 180.
 
-La Secretaría, tiene la facultad exclusiva del diseño, validación, distribución y control de las guías de tránsito, siendo el único documento oficial para la movilización de animales, productos y subproductos; las cuales deberán delegarse para su expedición a través de las uniones ganaderas regionales o Estatales debidamente constituidas de conformidad a la ley de organizaciones ganaderas y su reglamento; en casos específicos a solicitud de parte interesada, previo acuerdo que la Secretaría determine, quienes deberán cumplir con las disposiciones de esta Ley y su reglamento.
+La Secretaría, tiene la facultad exclusiva del diseño, validación, impresión, distribución y control de las Guías de Tránsito, siendo el único documento oficial estatal para la movilización de Animales, productos y subproductos.
+
+Para la obtención de la Guía de Tránsito, los Productores Pecuarios, deberán presentar los requisitos siguientes:
+
+I. Clave de UPP, PSG o PG, según sea el caso.
+
+II. Número del Identificador Oficial que porte el Animal a movilizar.
+
+III. Título de Fierro Marcador o Credencial de registro de fierro vigente.
+
+IV. Las demás que determine el Reglamento.
+
+Las Guías de Tránsito se expedirán por triplicado, pudiendo su obtención realizarse de manera electrónica de acuerdo a las disposiciones que para tal efecto prevea el Reglamento.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 181.
 
-Las Uniones Ganaderas Regionales o Estatales están obligadas a otorgar las guías de tránsito a sus organizaciones ganaderas afiliadas previa solicitud, siempre y cuando estas cumplan con sus estatutos y en lo establecido en la presente ley y su Reglamento.
+La Secretaría, a solicitud de las Uniones Ganaderas, bajo control y previo pago de los derechos correspondientes, otorgará formatos de Guías de Tránsito para su distribución a quienes entre sus agremiados la soliciten, exigiendo para su otorgamiento que se cumplan con los requisitos que exige esta Ley.
 
-En caso de que estas organizaciones ganaderas se afiliaran a otra unión ganadera, las guías de transito deberán ser retornadas a la unión que se las otorgo perdiendo el derecho del pago de estas.
+En aquellas regiones o municipios en los cuales los Productores no estén constituidos en Asociaciones Ganaderas, la Secretaría, bajo control y previo pago de los derechos correspondientes, otorgará formatos de Guías de Tránsito a los Ayuntamientos, para que éstos las provean a quienes la soliciten, verificando que para tal efecto se cumplan los requisitos de esta Ley.
+
+Las Uniones Ganaderas que soliciten a la Secretaría el otorgamiento de Guías de Tránsito, para su distribución entre sus agremiados, deberán primeramente cumplir con el registro de funcionalidad que deberá prever el Reglamento.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 182.
 
-Para los efectos del artículo anterior, las guías de tránsito enumeradas progresivamente, expedidas por las organizaciones ganaderas locales, generales y en los casos específicos; tendrán la obligación de capturar la información de las movilizaciones autorizadas diariamente en el Sistema informático que la Secretaria determine, debiendo informar mensualmente a la unión ganadera regional o estatal afiliada, sobre el uso y destino de las guías, enviando copias a la Secretaría; en forma y término establecido en el Reglamento de esta Ley.
+Las Uniones Ganaderas y los Ayuntamientos, deberán capturar la información relacionada al suministro de las Guías de Tránsito en el Sistema Informático, remitiendo a la Secretaría copias de la documentación presentada relativas al trámite, con la periodicidad que ésta determine.
 
 ###### Artículo 183.
 
@@ -1491,21 +1699,27 @@ Con el fin de autorizar la guía de tránsito, se deberá contar con la presenci
 
 Para que las organizaciones ganaderas puedan expedir las guías de tránsito esta (sic) deberán realizarlo dentro de la demarcación territorial de acuerdo a su acta constitutiva y los interesados deberán cumplir con los requisitos que se establecen en el reglamento de la presente Ley.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### Artículo 186.
 
-Las normas establecidas para la movilización de las especies pecuarias, tendrá vigencia en el Estado y dentro del territorio nacional, de acuerdo a las zonas de origen y destino, motivos de movilización y las que se establezcan en el reglamento de la presente Ley.
+Para la movilización de las especies pecuarias dentro y fuera del territorio del Estado, serán de carácter obligatorio, además de las disposiciones de la presente Ley y su Reglamento, las establecidas en las NOM´s y acuerdos, atendiendo a las zonas de origen, destino, y motivos de movilización.
 
 ###### Artículo 187.
 
 Las guías de tránsito deberán ser autorizadas por el inspector pecuario del municipio al que se encuentre adscrito, así mismo, bajo ningún motivo, el inspector pecuario podrá firmar para otra organización ganadera y Municipio que no corresponda a su acreditación de acuerdo a las disposiciones emitidas por esta ley y su reglamento.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### Artículo 188.
 
-Las guías de tránsito se expedirán por quintuplicado, o de manera electrónica especificándose claramente los requisitos que se establezcan en el reglamento de la presente Ley.
+Las Asociaciones Ganaderas que estando afiliadas a una Unión Ganadera decidan afiliarse a otra, deberán hacerlo del conocimiento inmediato de la Secretaría exhibiendo su baja y alta respectiva. Teniendo la obligación de hacer la devolución de las Guías de Tránsito que les fueron otorgadas a la Unión Ganadera de la cual se separan.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 189.
 
-Para el control sanitario y movilización interna, de ingreso o salida del Estado de animales, productos y subproductos, estas deberán ampararse con: factura, guía de tránsito, certificado zoosanitario e identificación individual OFICIAL y demás requisitos que señale la NOM en materia zoosanitaria, así como las disposiciones estatales y las que contemple el Reglamento de la presente Ley.
+Las Uniones Ganaderas, anualmente, deberá (sic) remitir a la Secretaría el listado con el nombre de las Asociaciones Ganaderas que tenga activas entre sus agremiados, el incumplimiento de esta disposición las hará acreedoras a la pérdida de su registro de funcionalidad.
 
 ###### Artículo 190.
 
@@ -1519,37 +1733,45 @@ III. Que realice la movilización de manera ilegal sin documentación;
 
 IV. Y demás que señale la presente Ley y su reglamento.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### Artículo 191.
 
-A los conductores de vehículos que movilicen o trasladen animales, productos y subproductos, tienen la obligación de identificarse y exhibir la documentación que ampare la movilización de los mismos, caso contrario se tomaran las medidas y aplicación de las sanciones establecidas en la presente Ley.
+Los conductores de vehículos que movilicen o trasladen Animales, productos y subproductos, tienen la obligación de detenerse en los PVI-I, identificarse y exhibir las Guías de Tránsito que amparen la movilización de las especies pecuarias, de no hacerlo así se estará a lo dispuesto por lo establecido para el caso por esta Ley.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 192.
 
-Si por causa de fuerza mayor o caso fortuito, las especies pecuarias, productos y subproductos no llegan al lugar de su destino, el propietario o conductor deberá presentarse ante el inspector de la zona donde se encuentre, quien previo cumplimiento de los requisitos legales podrá cancelar las guías, expresando las razones que lo justifiquen.
+Si por causa de fuerza mayor o caso fortuito, Animales, productos y subproductos no llegan al lugar de su destino, el propietario o conductor deberá presentarse ante el inspector de la Secretaría de la zona donde se encuentre, para informar el motivo de su omisión, quien dará pauta para cancelar las guías, expresando las razones que lo justifiquen.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 193.
 
-Toda persona, que por cualquier título traspasé la propiedad de cualquier especie pecuaria, está obligada a entregar la factura, que ampare la venta del mismo; quedando el vendedor obligado a tramitar la guía de tránsito para efectuar la movilización. Si no cumple, el vendedor no podrá el comprador ser el adquiriente; y en consecuencia, no podrá movilizar la especie de que se trate. Así también deberá cumplir con lo establecido en el artículo 183 de la presente Ley.
+Los oficiales de inspectoría pecuaria y los inspectores pecuarios, que detecten en el embarque, desembarque y/o en tránsito, ganado mayor y/o especies menores afectados por heridas, plagas o gusaneras, deberán aplicar el procedimiento establecido por el Reglamento.
 
 ###### Artículo 194.
 
 En los casos de la movilización de animales con destino al sacrificio, se deberá entregar al administrador del centro de sacrificio la documentación requerida en términos del reglamento de la presente Ley. Lo mismo se efectuará en caso de hatos cuarentenados o en caso de que exista evidencia de utilización de sustancias prohibidas.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### Artículo 195.
 
-Todos los requisitos para la movilización de especies pecuarias, se establecerán concretamente y en cada caso en el reglamento que se expida para tal efecto.
+Los requisitos para la movilización en casos específicos de especies pecuarias, se establecerán en el Reglamento.
 
 ###### Artículo 196.
 
 Las organizaciones ganaderas, observaran y darán cumplimiento a las disposiciones establecidas en el presente capitulo y el reglamento respectivo.
 
-### Capítulo Único. De los Laboratorios
+### Capítulo II. Trazabilidad
 
 ###### Artículo 197.
 
 La Secretaría podrá implementar diversos sistemas o herramientas que permitan registrar e identificar los procesos relacionados con el origen de los animales, la ubicación desde su nacimiento, crianza, engorda, reproducción, movilización, sacrificio y procesamiento de un animal hasta su consumo, logrando su trazabilidad y rastreabilidad en cada etapa, su ubicación espacial y en su caso los factores de riesgos zoosanitarios y de contaminación que pueden estar presentes en cada una de las actividades contempladas en la presente Ley y su reglamento.
 
-### Capítulo I. De la Movilización
+### Capítulo III. Abigeato
 
 ###### Artículo 198.
 
@@ -1561,7 +1783,7 @@ Para la protección de la propiedad de los semovientes en los términos de la pr
 
 Los registros de entrada de ganado, sacrificio y de cueros frescos de los rastros podrán ser revisados en todo momento por los inspectores Pecuarios de la zona y Supervisores Regionales y otras autoridades auxiliares, para constatar el cumplimiento de esta Ley y su Reglamento.
 
-### Capítulo II. Trazabilidad
+### Capítulo IV. De los Permisos
 
 ###### Artículo 200.
 
@@ -1587,7 +1809,7 @@ El incumplimiento a las disposiciones anteriores, hará acreedores a los respons
 
 ## Título Décimo Quinto. De la Propiedad, Marcas y Señales de las Especies Pecuarias
 
-### Capítulo III. Abigeato
+### Capítulo I. De la Propiedad
 
 ###### Artículo 204.
 
@@ -1633,7 +1855,7 @@ Los animales orejanos que se encuentren en propiedades ganaderas se presumirán 
 
 Toda posesión sobre la propiedad de animales orejanos, será resuelta en vía de conciliación por la autoridad municipal consultando a la asociación ganadera y a la representación oficial que se encuentre en el lugar, observándose lo establecido en el reglamento, en términos del artículo anterior.
 
-### Capítulo IV. De los Permisos
+### Capítulo II. Marcas, Señales y Tatuajes de las Especies Pecuarias
 
 ###### Artículo 215.
 
@@ -1647,9 +1869,11 @@ Queda estrictamente prohibido herrar con plancha llena, alambres, ganchos, argol
 
 Todo dueño de ganado mayor o de especies menores para su explotación, tienen la obligación de identificarlos conforme a lo que establece el reglamento de la presente Ley.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### Artículo 218.
 
-Todos los fierros, marcas, tatuajes o aretes que sirvan para demostrar la propiedad del ganado mayor y especies menores, deberán ser registrados ante la presidencia municipal, de la jurisdicción del domicilio del criador propietario, en la y con las condiciones establecidas en el Reglamento de esta Ley.
+Todo fierro o marca de herrar que sirva para acreditar la propiedad de los Animales y/o Semovientes, deberá ser registrado por su propietario ante la presidencia municipal de su domicilio, lo anterior atendiendo a lo que para tal efecto disponga el Reglamento.
 
 ###### Artículo 219.
 
@@ -1659,13 +1883,15 @@ Cada propietario de ganado, podrá tener un fierro, marca, señal o tatuaje, aun
 
 La periodicidad con la que debe revalidarse el registro de fierro, marcas y señales, será al inicio de cada administración municipal, de conformidad con lo establecido en el Reglamento de la presente Ley.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### Artículo 221.
 
-Una vez que los solicitantes hayan cumplido con los requisitos establecidos en el reglamento para obtener el registro correspondiente del fierro, marca, señal de sangre o tatuaje, los Ayuntamientos Municipales expedirán mediante el Sistema de Registro de Fierro, el Título del Fierro Marcador, la credencial del registro de fierro vigente del productor pecuario expedida por la Secretaría, a través de los H. Ayuntamientos Municipales una constancia de propiedad respectiva, remitiendo copia de la misma a la Secretaría.
+Los Ayuntamientos expedirán la constancia de registro de fierro marcador, el título de fierro y la credencial del registro respectiva, mediante el sistema de registro de fierro que determine la Secretaría, remitiendo las copias de los documentos a la Secretaría en la forma que establezca el Reglamento.
 
 ## Título Décimo Sexto. Créditos, Exposiciones, Tianguis y Concursos Pecuarios
 
-### Capítulo I. De la Propiedad
+### Capítulo I. Crédito Pecuario
 
 ###### Artículo 222.
 
@@ -1679,7 +1905,7 @@ Los créditos a que se refiere el artículo anterior, se destinarán entre otros
 
 Las dependencias estatales correspondientes podrán constituir los fideicomisos públicos necesarios para el apoyo de las actividades de producción, comercialización e industrialización de los productos y subproductos, en los términos de lo dispuesto por la Ley Orgánica de la Administración Pública del Estado de Chiapas.
 
-### Capítulo II. Marcas, Señales y Tatuajes de las Especies Pecuarias
+### Capítulo II. Exposiciones, Tianguis y Concurso Pecuarios
 
 ###### Artículo 225.
 
@@ -1697,55 +1923,77 @@ Cuando en algún evento se requiera de jurado calificador para las actividades a
 
 El desarrollo de los concursos y tianguis pecuarios se efectuara conforme a las reglas que establezcan los organizadores de los eventos, sin contravenir las disposiciones establecidas en la presente Ley y su Reglamento.
 
-## Título Décimo Séptimo. De los Centros de Sacrificio de Animales y Comercialización de los Productos Pecuarios
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE JULIO DE 2017)</small>
 
-### Capítulo I. Crédito Pecuario
+## Título Décimo Séptimo. De los Centros de Sacrificio de Animales, Comercialización de los Productos Pecuarios e Inocuidad y Buenas Prácticas
+
+### Capítulo Único. De los Centros de Sacrificio de Especies Pecuarias
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 229.
 
-Será de carácter obligatorio los centros de sacrificio de especies pecuarias en los municipios del Estado, los cuales se establecerán conforme a las NOM, estatales, municipales, y de acuerdo al crecimiento económico y a las necesidades del propio municipio.
+En los municipios se establecerán Centros de Sacrificio de Especies Pecuarias, atendiendo al crecimiento económico y a las necesidades del propio municipio, los cuales para su funcionamiento se regirán por lo establecido en la presente Ley, el Reglamento, las NOM´s y acuerdos, así como por la legislación municipal en la materia, estas disposiciones serán obligatorias para los usuarios eventuales y permanentes de dichos centros.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 230.
 
-Los centros de sacrificios de especies pecuarias deberán ubicarse fuera de la zona urbana, de acuerdo al estudio del crecimiento poblacional e impacto ambiental, y demás requisitos que se detallaran en el reglamento que al efecto se expida.
+Es facultad de la CIRCS, señalar y autorizar el radio distante de los centros de población, para la instalación de los Centros de Sacrificio, de conformidad a lo que establece la presente Ley, la Ley Federal de Sanidad Animal, la Ley General de Salud, las NOM´s y acuerdos y el Reglamento.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 231.
 
-Será obligatorio en toda la entidad, el control del sacrificio de especies pecuarias para el consumo humano, correspondiendo a la autoridad Municipal y/o representante legal de dicho centro.
+Los Centros de Sacrificio serán objeto de visitas de verificación, en cuanto a su infraestructura, operatividad, funcionamiento y acatamiento a las disposiciones legales que deben observar, lo anterior en los términos que para tal efecto prevea el Reglamento y demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 232.
 
-Los centros de sacrificio de especies pecuarias se clasifican en:
+Los Centros de Sacrificio se clasifican en:
 
-I. TIF;
+I. TIF.
 
-II. Registrado;
+II. Rastro.
 
-III. Rastro; y,
+III. Unidad de Sacrificio.
 
-IV. Unidad de Sacrificio o Mataderos.
+IV. Mataderos.
+
+La Secretaría fomentará con los Ayuntamientos y las Organizaciones Ganaderas, la instalación de plantas procesadoras, cámaras de refrigeración y comercializadoras de carne en el territorio estatal.
 
 ###### Artículo 233.
 
 Cada centro de sacrificio privado, concesionado o municipal en el ámbito de su competencia, coadyuvará con las autoridades competentes y autoridades auxiliares para la observancia de esta Ley.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### Artículo 234.
 
-La autoridad Municipal y/o representante legal del centro de sacrificio de animales, deberá contratar el servicio de un médico veterinario zootecnista, acreditado por la Secretaría, quien será el responsable de vigilar el cumplimiento de las disposiciones que al respecto se contemplen en la presente Ley y su Reglamento.
+La autoridad municipal, representante legal o concesionario del Centro de Sacrificio, deberá contratar los servicios de un Médico Veterinario Zootecnista, acreditado por la Secretaría, quien será el responsable de vigilar el cumplimiento de las disposiciones previstas en la presente Ley y su Reglamento, haciéndose acreedores a las sanciones que los mismos ordenamientos jurídicos establecen para el caso de su incumplimiento.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 235.
 
-En los casos de la movilización de animales con destino al sacrificio, se deberá entregar el original de la guía de tránsito y demás documentos que exige la presente ley, al administrador del centro de sacrificio, estando dichos expedientes a la disposición del oficial de Inspectoría pecuaria y las autoridades competentes y/o auxiliares.
+Para la movilización de Animales con destino al sacrificio, se deberá entregar la Guía de Tránsito y demás documentos que exige la presente Ley al administrador del Centro de Sacrificio, esta documentación deberá permanecer en el Centro de Sacrificio a la disposición de las autoridades competentes, auxiliares y de cooperación. De no cumplir con lo establecido en este artículo se hará acreedor a las sanciones que la presente Ley, el Reglamento y demás disposiciones legales establezcan.
 
-Para la movilización de bovinos para el sacrificio provenientes de hatos cuarentenados, solo se expedirán las guías de tránsito cuando se presente la autorización oficial expedida por la SAGARPA.
+Para el sacrificio de ganado bovino procedente de hatos cuarentenados, además de la documentación establecida en el primer párrafo de este artículo, se deberá presentar la orden de sacrificio expedida por el oficial del SENASICA.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 236.
 
-Para el funcionamiento de centros de sacrificio regionales o locales, los municipios y comunidades deberán contar con los vehículos de transporte necesarios para la distribución de los productos y subproductos, además de cumplir con la Normatividad Federal, Estatal, municipal y lo que marque el Reglamento de la presente Ley.
+La autoridad municipal podrá otorgar concesiones para el establecimiento de Centros de Sacrificio, por un periodo máximo de tres años a partir del inicio de su administración, en la cual en el ámbito de su competencia, coadyuvará con las autoridades competentes y autoridades auxiliares para la observancia de esta Ley.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 237.
 
-Los responsables de los Centros de sacrificio deberán de informar diariamente, a la Secretaría y Autoridades Municipales del resultado de sus operaciones, mediante el uso del Sistema Único para el Registro de Información de los Centros de Sacrificio Animal (SURICSA) o el que determine la Secretaría.
+Queda Prohibido a todo productor, introductor, tablajero o comercializador retirar en pie Animales que hayan ingresado a los Centros de Sacrificio para su sacrificio, únicamente podrán retirarlos en canal.
+
+El sacrificio de Animales deberá realizarse en un plazo no mayor de 48 horas, en caso de no realizarlo el oficial de inspectoría pecuaria en Centros de Sacrificio, ordenará el suministro de alimento a los Animales, mismo que será a costa del introductor hasta su sacrificio, esta disposición será aplicable para los administradores o concesionarios de los Centros de Sacrificio, el incumplimiento a lo establecido en el presente artículo, será sancionado en los términos que establezca la presente Ley.
 
 ###### Artículo 238.
 
@@ -1755,13 +2003,19 @@ La observancia de la presente Ley y su Reglamento, será obligatoria para los ta
 
 Cuando el propietario o productor pecuario tuviere la necesidad de sacrificar ganado para la subsistencia de los rancheros, vaqueros y pastores, o porque los animales fueran broncos, deberá apegarse a lo ordenado en el Reglamento de la presente Ley.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### Artículo 240.
 
-Las disposiciones contenidas en la presente Ley y su Reglamento, también serán obligatorias para los usuarios eventuales y/o permanentes de los centros de sacrificios de especies pecuarias en lo que corresponda.
+Únicamente podrán ser sacrificados Animales previa inspección ante-mortem, realizada por el oficial de inspectoría pecuaria en Centros de Sacrificio.
+
+Los Centros de Sacrificio, deberán contar con vehículos de transporte acondicionados para la distribución de los productos y subproductos, en los términos que para tal efecto prevea el Reglamento.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 241.
 
-La verificación sanitaria a los centros de sacrificios se realizará en la forma y términos que se establezcan en el Reglamento de la presente Ley.
+El administrador o concesionario de los Centros de Sacrificio, deberán informar mensualmente y mediante formato específico, o a través del sistema que establezca la Secretaría para tal fin, la operatividad y las actividades realizadas en los Centros de Sacrificio, en los términos que señale el Reglamento.
 
 ###### Artículo 242.
 
@@ -1769,23 +2023,29 @@ La Secretaría podrá celebrar convenios con las autoridades federales y municip
 
 ## Título Décimo Octavo. De los Centros de Acopio Pecuario
 
-### Capítulo II. Exposiciones, Tianguis y Concurso Pecuarios
+### Capítulo Único. De los Centros
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 243.
 
-Para los efectos de esta Ley, se entiende por Centros de Acopio Pecuario a los lugares que tengan infraestructura y equipo, con las características técnicas apropiadas, para almacenar los productos y subproductos de origen animal, para ser posteriormente comercializados.
+Son Centros de Acopio Pecuario, aquellos lugares que cuentan con infraestructura y equipo, con las características técnicas apropiadas, para conjuntar animales en pie para su comercialización.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 244.
 
-El Ejecutivo del Estado, a través de la Secretaría coadyuvara con productores, comercializadores e industriales, para establecer centros de acopio pecuario, que faciliten la comercialización de los productos o subproductos y el máximo rendimiento de la inversión pecuaria en la entidad.
+La Secretaría podrá coadyuvar con Productores Pecuarios, comercializadores e industriales, para establecer Centros de Acopio estratégicos, que faciliten la comercialización de Animales, así como para el fortalecimiento de los controles zoosanitarios en la entidad.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 245.
 
-Las personas físicas y morales que se dediquen al acopio de ganado bovino, ovino, porcino y de las especies avícola, están obligadas a registrarse ante la Secretaría, para formar parte del padrón estatal, quienes deberán llevar un libro de registro, previo trámite y aprobación de los requisitos establecidos en el Reglamento de la presente Ley.
+Para efectos de conservar y mejorar los estatus zoosanitarios y la Trazabilidad, los propietarios, concesionarios que se dediquen al acopio de Animales y/o Semovientes, están obligados a registrarse ante la Secretaría, para formar parte del padrón estatal, debiendo informar sus actividades mediante el Sistema Informático, o en su caso llevar un libro de registro donde describirán las movilizaciones de ganado que realicen y demás operaciones que determine el Reglamento.
 
 ## Título Décimo Noveno. Del Procedimiento Administrativo
 
-### Capítulo Único. De los Centros de Sacrificio de Especies Pecuarias
+### Capítulo I. Disposiciones Generales
 
 ###### Artículo 246.
 
@@ -1807,7 +2067,7 @@ III. Que los animales, productos y subproductos, movilizados o comercializados, 
 
 IV. Que en la transportación y movilización, no cuenten con la documentación oficial y obligatoria.
 
-### Capítulo Único. De los Centros
+### Capítulo II. De las Infracciones y Sanciones Administrativas
 
 ###### Artículo 249.
 
@@ -1931,7 +2191,9 @@ XXV. A las organizaciones ganaderas que autoricen o permitan la expedición de l
 
 XXVI. A Las uniones ganaderas, que sin causa justificada, no otorguen las guías de tránsito a las asociaciones ganaderas filiales;
 
-XXVII. Las asociaciones ganaderas que no entreguen oportunamente la información requerida en el Sistema E-Mogan o la que implemente la Secretaría.
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+XXVII. Las Asociaciones Ganaderas que no entreguen oportunamente la información requerida en el Sistema que implemente la Secretaría.
 
 XXVIII. A los inspectores pecuarios que dejen guías de transito firmadas en blanco.
 
@@ -1943,7 +2205,9 @@ XXXI. A las uniones ganaderas regionales o estatales que otorguen guías de trá
 
 XXXII. A las organizaciones ganaderas que intercambien o se otorguen guías de tránsito y pertenezcan a diferentes uniones ganaderas regionales o estatales.
 
-XXXIII. Los centros de sacrificio de las especies pecuarias que no proporcionen oportunamente la información requerida para el Sistema Único para el Registro de Información de Centro de Sacrificio (SURICSA), o la que implemente la Secretaría, así como quienes no permitan realizar la verificación sanitaria;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+XXXIII. Los Centros de Sacrificio que no proporcionen oportunamente la información requerida a través del Sistema que establezca la Secretaría.
 
 XXXIV. Al productor pecuario que viole una cuarentena precautoria o definitiva y movilice o comercialice bovinos a otras upp;
 
@@ -1951,7 +2215,25 @@ XXXV. Al productor pecuario que movilice a las especies bovina, ovina, caprina y
 
 XXXVI. A los Acopiadores, engordadores, comercializadores y centros de sacrifico que no cuenten con su registro de Prestadores de Servicios Ganaderos (PSG), adquieran especies bovinas sin identificador oficial y no cumplan con los requisitos establecidos en la presente Ley y su reglamento;
 
-XXXVII. Las Análogas no previstas en la presente Ley.
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+XXXVII. Retirar Animales en pie de los Centros de Sacrificio.
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2017)</small>
+
+XXXVIII. No contar con la documentación oficial que ampare el ingreso de los animales en los Centros de Sacrificio.
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2017)</small>
+
+XXXIX. A los administradores o concesionarios que no permitan la verificación en los Centros de Sacrificio.
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2017)</small>
+
+XL. Retirar el Identificador Oficial que posean los Animales.
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2017)</small>
+
+XLI. Las demás que establezca el Reglamento.
 
 ###### Artículo 253.
 
@@ -1974,8 +2256,6 @@ I. Se contravengan las disposiciones previstas en la presente Ley con relación 
 II. Incumpla con las obligaciones o facultades otorgadas en materia zoosanitaria.
 
 ### Capítulo III. Del Procedimiento Administrativo
-
-### Capítulo I. Disposiciones Generales
 
 ###### Artículo 257.
 
@@ -2028,8 +2308,6 @@ Las infracciones a esta Ley que no tengan sanción especialmente señalada, se c
 Los servidores públicos, inspectores pecuarios y autoridades estatales y municipales que infrinjan la presente Ley y su Reglamento, además de las sanciones administrativas a que se hagan acreedores se efectuara la denuncia correspondiente conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas.
 
 ### Capítulo IV. Del Recurso de Revocación
-
-### Capítulo II. De las Infracciones y Sanciones Administrativas
 
 ###### Artículo 265.
 
@@ -2092,3 +2370,13 @@ Dado en la Sede del Honorable Congreso del Estado Libre y Soberano de Chiapas, e
 De conformidad con la fracción I del artículo 44 de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la ciudad de Tuxtla Gutiérrez, Chiapas; a los 29 días del mes de junio de dos mil dieciséis, con los refrendos de los CC. Secretario General de Gobierno y Secretario del Campo.
 
 Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Juan Carlos Gómez Aranda, Secretario General de Gobierno.- José Antonio Aguilar Bodegas, Secretario del Campo.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 204 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO Y SANIDAD PECUARIA PARA EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que contravengan a lo establecido en el presente Decreto.
