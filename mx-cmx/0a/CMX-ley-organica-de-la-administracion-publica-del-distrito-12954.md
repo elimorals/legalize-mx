@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-administracion-publica-del-distrito-12954"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-29"
-last_updated: "2017-03-09"
+last_updated: "2017-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12954&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-14"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 9 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 5 DE JULIO DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -1141,6 +1141,10 @@ XIX. Las demás que le atribuyan expresamente las leyes y reglamentos.
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 17 DE JUNIO DE 2011)</small>
 
 XX. Coordinar sus programas y actividades con la Subsecretaría del Sistema Penitenciario del Distrito Federal, para el impulso de las actividades y el cumplimiento de los ejes de la reinserción social.
+
+> <small>(ADICIONADA, G.O. 5 DE JULIO DE 2017)</small>
+
+XXI. Coordinará a las dependencias, entidades, órganos desconcentrados de la administración pública del Distrito Federal, de otras entidades federativas y de la Federación en materia de Desarme Voluntario con la finalidad de promover la cultura de la paz y la no violencia.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 24 DE ENERO DE 2008)</small>
 
@@ -2857,3 +2861,15 @@ CUARTO.- Se tienen por derogadas todas las disposiciones que contravengan el pre
 QUINTO.- El Jefe de Gobierno contará con treinta días para ajustar las disposiciones reglamentarias que contravengan el presente decreto.
 
 SEXTO.- El Jefe de Gobierno contará con treinta días para girar sus instrucciones a quien corresponda, para ajustar dentro de este periodo el programa "sistemas de control, supervisión y cobro de estacionamiento de vehículos en la vía pública" para no contravenir el presente decreto.
+
+G.O. 5 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PREVENCIÓN SOCIAL DEL DELITO Y LA VIOLENCIA PARA EL DISTRITO FEDERAL; DE LA LEY DE DESARROLLO SOCIAL PARA EL DISTRITO FEDERAL; DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL Y DE LA LEY ORGÁNICA DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- El presente Decreto entrara en vigor el día siguiente de su publicación en la gaceta oficial de Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de Ciudad de México, para su conocimiento y para mayor difusión en el Diario Oficial de la Federación.
+
+TERCERO.- La Asamblea Legislativa del Distrito Federal para el ejercicio fiscal 2018, debe destinar recursos suficientes a la Secretaría de Desarrollo Social, para la implementación de la Acción Interinstitucional denominada “Por tu Familia, Desarme Voluntario" y su modalidad "Por Tu Familia, Desarme Voluntario te Acompaña Desde Tu Casa''.
+
+CUARTO.- La Secretaría de Finanzas realizará las gestiones necesarias para la asignación presupuestal a la Secretaría de Desarrollo Social.
