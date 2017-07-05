@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-del-distrito-federal-70074"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-17"
-last_updated: "2017-05-29"
+last_updated: "2017-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70074&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-08-26"
 
 LEY DE SALUD DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 29 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 5 DE JULIO DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 17 de septiembre de 2009.
 
@@ -782,7 +782,11 @@ XXXI. Formular y organizar, en coordinación con la Secretaría del Medio Ambien
 
 XXXII. Diseñar, planear, operar, controlar y evaluar aquellas tecnologías de información en salud, que en su caso sean implementadas, con el objeto de mejorar la calidad en los servicios de salud que presta el Gobierno del Distrito Federal.
 
-XXXIII. Las demás que señale esta Ley y los instrumentos jurídicos aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE JULIO DE 2017)</small>
+
+XXXIII. Realizar la prueba del antígeno prostático en toda la red hospitalaria, primordialmente en centros de salud de la Ciudad de México, para la detección temprana de cáncer de próstata; así como para el seguimiento de pacientes que han tenido este tipo de cáncer. Además de desarrollar campañas de información sobre la prevención y detección oportuna de cáncer de próstata.
+
+XXXIV. Las demás que señale esta Ley y los instrumentos jurídicos aplicables.
 
 ### Capítulo VI. De los Servicios de Salud Pública del Distrito Federal
 
@@ -3291,6 +3295,14 @@ El presente decreto entrará en vigor al día siguiente de su publicación en la
 G.O. 29 DE MAYO DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL DISTRITO FEDERAL".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente a su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su conocimiento, y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 5 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL DISTRITO FEDERAL”.]
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente a su publicación en la Gaceta Oficial de la Ciudad de México.
 
