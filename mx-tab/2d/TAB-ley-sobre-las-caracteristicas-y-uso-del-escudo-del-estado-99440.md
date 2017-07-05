@@ -4,7 +4,7 @@ identifier: "TAB-ley-sobre-las-caracteristicas-y-uso-del-escudo-del-estado-99440
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-15"
-last_updated: "2012-12-15"
+last_updated: "2017-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY SOBRE LAS CARACTERÍSTICAS Y USO, DEL ESCUDO DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
 
 Ley publicada en el Suplemento V del Periódico Oficial del Estado de Tabasco, el sábado 15 de diciembre de 2012.
 
@@ -151,9 +151,11 @@ Se prohíbe el uso del Escudo, en cualquier símbolo o sigla de partidos políti
 
 ### CAPÍTULO CUARTO. DE LAS SANCIONES Y DEL PROCEDIMIENTO PARA APLICARLAS
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 15.
 
-Las infracciones del presente ordenamiento se castigarán con multa de uno hasta por el equivalente a doscientos salarios mínimos vigente en el estado o arresto hasta por treinta y seis horas. La imposición de una sanción económica se graduará conforme a la gravedad de la falta y la condición económica del infractor, pero si la infracción se comete con fines de lucro, la multa podrá imponerse hasta por el equivalente al doble de la cantidad antes mencionada.
+Las infracciones del presente ordenamiento se castigarán con multa de uno hasta por el equivalente a doscientas veces el valor diario de la Unidad de Medida y Actualización o arresto hasta por treinta y seis horas. La imposición de una sanción económica se graduará conforme a la gravedad de la falta y la condición económica del infractor, pero si la infracción se comete con fines de lucro, la multa podrá imponerse hasta por el equivalente al doble de la cantidad antes mencionada.
 
 ###### ARTÍCULO 16.
 
@@ -222,3 +224,23 @@ CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO.
 LIC. RAFAEL MIGUEL GONZÁLEZ LASTRA
 
 SECRETARIO DE GOBIERNO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 089 POR EL QUE "SE REFORMA EL ARTÍCULO 15 DE LA LEY SOBRE LAS CARACTERÍSTICAS Y USO DEL ESCUDO DEL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- El valor diario de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Estadística y Geografía, y publique en el Diario Oficial de la Federación, con fundamento en el artículo 26, apartado B, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
+
+TERCERO.- Quedan derogadas las disposiciones legales que se opongan al presente Decreto.
+
+CUARTO.- A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes, así como en cualquier disposición jurídica que emane de las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
+
+QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha de entrada en vigor de este Decreto, que utilicen el salario mínimo como referencia para cualquier efecto, no se modificarán por la Unidad de Medida y Actualización, salvo que las partes acuerden expresamente lo contrario. Lo anterior, sin perjuicio de que a partir de la entrada en vigor de este Decreto los contratantes puedan utilizar como índice o referencia a la Unidad de Medida y Actualización.
+
+SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
+
+Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
