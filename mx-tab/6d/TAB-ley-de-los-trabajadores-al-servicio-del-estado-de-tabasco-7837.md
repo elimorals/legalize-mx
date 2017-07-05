@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-los-trabajadores-al-servicio-del-estado-de-tabasco-7837"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-31"
-last_updated: "2015-10-28"
+last_updated: "2017-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el sábado 31 de marzo de 1990.
 
@@ -1005,7 +1005,9 @@ III.- Orientar y asesorar a los trabajadores, sus sindicatos o beneficiarios sob
 
 IV.- Intervenir en la defensa del trabajador burócrata, en aquellos casos en que legalmente no estuviese representado en las comparecencias ante el Tribunal de Conciliación y Arbitraje. Para este efecto el órgano jurisdiccional dará conocimiento inmediato a esta Institución;
 
-V.- Recibir de los trabajadores, sus sindicatos o beneficiarios, las quejas por el incumplimiento y violación a las normas de trabajo y de previsión y seguridad sociales y, en su caso, citar a las entidades públicas o sindicatos, para que comparezcan a manifestar lo que a su derecho convenga, apercibiéndolos que de no comparecer se les aplicará, como medida de apremio, una multa de hasta cien veces el salario mínimo general diario vigente en la zona;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+V.- Recibir de los trabajadores, sus sindicatos o beneficiarios, las quejas por el incumplimiento y violación a las normas de trabajo y de previsión y seguridad sociales y, en su caso, citar a las entidades públicas o sindicatos, para que comparezcan a manifestar lo que a su derecho convenga, apercibiéndolos que de no comparecer se les aplicará, como medida de apremio, una multa de hasta cien veces el valor diario de la Unidad de Medida y Actualización;
 
 VI.- Formular las denuncias que correspondan ante las autoridades competentes por el incumplimiento y violación a las normas de trabajo y de previsión y seguridad sociales, y ante el Ministerio Público los hechos que presuntamente constituyan ilícitos penales;
 
@@ -1153,9 +1155,11 @@ La demanda, la citación para absolver posiciones, la declaratoria de caducidad,
 
 Todos los términos correrán a partir del día hábil siguiente a aquel en que se haga el emplazamiento, citación o notificación y no se contará en ellos el día del vencimiento.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### ARTICULO 123.
 
-El Tribunal sancionará las faltas de respeto que se cometan, ya sea por escrito o en cualquiera otra forma. Las sanciones consistirán en amonestación o multa. Esta no excederá de siete veces el salario mínimo general vigente en el Estado.
+El Tribunal sancionará las faltas de respeto que se cometan, ya sea por escrito o en cualquiera otra forma. Las sanciones consistirán en amonestación o multa. Esta no excederá de siete veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 124.
 
@@ -1175,13 +1179,17 @@ Las autoridades están obligadas a prestar auxilio al Tribunal de Conciliación 
 
 ### CAPITULO III. DE LOS MEDIOS DE APREMIO
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### ARTICULO 128.
 
-El Tribunal, para hacer cumplir sus determinaciones, podrán imponer multas hasta de siete días de salario mínimo general vigente en el Estado, tratándose de los trabajadores y los titulares de las Entidades Públicas a que se refiere esta Ley.
+El Tribunal, para hacer cumplir sus determinaciones, podrán imponer multas hasta de siete veces el valor diario de la Unidad de Medida y Actualización; tratándose de los trabajadores y los titulares de las Entidades Públicas a que se refiere esta Ley.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 129.
 
-Las multas se harán efectivas por la Secretaría de Finanzas; para lo cual el Tribunal girará el oficio correspondiente. La Secretaría aludida informará al Tribunal de haber hecho efectiva la multa, señalando los datos relativos que acrediten su cobro.
+Las multas se harán efectivas por la Secretaría de Planeación y Finanzas; para lo cual el Tribunal girará el oficio correspondiente. La Secretaría aludida informará al Tribunal de haber hecho efectiva la multa, señalando los datos relativos que acrediten su cobro.
 
 ### CAPITULO IV. EJECUCION
 
@@ -1292,3 +1300,21 @@ P.O. 28 DE OCTUBRE DE 2015.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se deroga cualquier disposición que contravenga lo dispuesto en el presente decreto.
+
+P.O. 5 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 089 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 104 BIS-C, FRACCIÓN V; 123; 128 Y 129; TODOS DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE TABASCO".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- El valor diario de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Estadística y Geografía, y publique en el Diario Oficial de la Federación, con fundamento en el artículo 26, apartado B, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
+
+TERCERO.- Quedan derogadas las disposiciones legales que se opongan al presente Decreto.
+
+CUARTO.- A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes, así como en cualquier disposición jurídica que emane de las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
+
+QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha de entrada en vigor de este Decreto, que utilicen el salario mínimo como referencia para cualquier efecto, no se modificarán por la Unidad de Medida y Actualización, salvo que las partes acuerden expresamente lo contrario. Lo anterior, sin perjuicio de que a partir de la entrada en vigor de este Decreto los contratantes puedan utilizar como índice o referencia a la Unidad de Medida y Actualización.
+
+SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
+
+Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
