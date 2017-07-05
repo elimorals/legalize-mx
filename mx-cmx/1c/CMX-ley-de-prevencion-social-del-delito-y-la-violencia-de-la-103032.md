@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-prevencion-social-del-delito-y-la-violencia-de-la-103032
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-28"
-last_updated: "2014-10-28"
+last_updated: "2017-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103032&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2014-10-06"
 
 LEY DE PREVENCIÓN SOCIAL DEL DELITO Y LA VIOLENCIA PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE JULIO DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 28 de octubre de 2014.
 
@@ -428,6 +428,8 @@ V. Incentivarán la participación ciudadana y comunitaria, para un adecuado dia
 
 Las políticas de prevención social deberán ser evaluadas con la participación de instituciones académicas, profesionales, especialistas en la materia y organizaciones de la sociedad civil.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, [N. DE E. REPUBLICADO], G.O. 5 DE JULIO DE 2017)</small>
+
 ###### Artículo 26.
 
 En el cumplimiento del objeto de esta Ley, el Gobierno y las Delegaciones, en el ámbito de sus atribuciones, deberán:
@@ -447,6 +449,12 @@ VI. Generar bases de datos especializadas que permitan administrar la Prevenció
 VII. Realizar estudios periódicos sobre victimización y delincuencia; y
 
 VIII. Impulsar la participación ciudadana y comunitaria en la Prevención Social del Delito y la Violencia.
+
+> <small>(ADICIONADO, G.O. 5 DE JULIO DE 2017)</small>
+
+###### Artículo 26 Bis.
+
+El Gobierno de Ciudad de México, atenderá el desarme voluntario, a través de las acciones y/o Programas conforme a los lineamientos que la Secretaría de Desarrollo Social emita para su implementación.
 
 ### CAPÍTULO QUINTO. DEL PROGRAMA PREVENTIVO PARA LA PREVENCIÓN SOCIAL DEL DELITO Y LA VIOLENCIA DEL DISTRITO FEDERAL
 
@@ -567,3 +575,17 @@ Se abroga el Acuerdo por el que se establece el Consejo para la Prevención del 
 Recinto de la Asamblea Legislativa del Distrito Federal, a los nueve días del mes de junio del año dos mil catorce.- POR LA MESA DIRECTIVA.- DIP. SANTIAGO TABOADA CORTINA, PRESIDENTE.- DIP. JORGE AGUSTÍN ZEPEDA CRUZ, SECRETARIO.- DIP. ALBERTO EMILIANO CINTA MARTÍNEZ, SECRETARIO.- (Firmas)
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los seis días del mes de octubre del año dos mil catorce.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, DR. MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- EL SECRETARIO DE GOBIERNO, HÉCTOR SERRANO CORTÉS.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 5 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PREVENCIÓN SOCIAL DEL DELITO Y LA VIOLENCIA PARA EL DISTRITO FEDERAL; DE LA LEY DE DESARROLLO SOCIAL PARA EL DISTRITO FEDERAL; DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL Y DE LA LEY ORGÁNICA DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- El presente Decreto entrara en vigor el día siguiente de su publicación en la gaceta oficial de (sic) Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de (sic) Ciudad de México, para su conocimiento y para mayor difusión en el Diario Oficial de la Federación.
+
+TERCERO.- La Asamblea Legislativa del Distrito Federal para el ejercicio fiscal 2018, debe destinar recursos suficientes a la Secretaría de Desarrollo Social, para la implementación de la Acción Interinstitucional denominada “Por Tu Familia, Desarme Voluntario” y su modalidad “Por Tu Familia, Desarme Voluntario te Acompaña Desde Tu Casa”.
+
+CUARTO.- La Secretaría de Finanzas realizará las gestiones necesarias para la asignación presupuestal a la Secretaría de Desarrollo Social.
