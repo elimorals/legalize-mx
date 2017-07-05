@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "2017-03-14"
+last_updated: "2017-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -175,11 +175,19 @@ VII.- La división;
 
 VIII.- La excusión;
 
-IX.- En general las que, sin atacar en su fondo la acción deducida, tiendan a impedir legalmente el procedimiento.
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 1997)</small>
+IX.- La improcedencia de la vía, y
 
-ART. 36.- En los juicios ordinarios, sólo formarán artículo de previo y especial pronunciamiento la incompetencia, la litispendencia, la conexidad y la falta de personalidad. En los juicios extraordinarios sólo impiden el curso del juicio la incompetencia y la falta de personalidad en el actor, excepto en el caso que establece el artículo 449 de este Código.
+X.- En general las que, sin atacar en su fondo la acción deducida, tiendan a impedir legalmente el procedimiento.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2017)</small>
+
+Cuando se declare la improcedencia de la vía su efecto será el de continuar el procedimiento para el trámite del juicio en la vía que se considere procedente, declarando la validez de todo lo actuado, sin perjuicio del juez para regularizar el procedimiento.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+ART. 36.- En los juicios ordinarios, sólo formarán artículo de previo y especial pronunciamiento la incompetencia, la litispendencia, la conexidad, la falta de personalidad y la improcedencia de la vía. En los juicios extraordinarios sólo impiden el curso del juicio la incompetencia, la falta de personalidad en el actor y la improcedencia de la vía, excepto en el caso que establece el artículo 449 de este Código.
 
 ART. 37.- La incompetencia puede promoverse por declinatoria o por inhibitoria que se substanciará conforme al Capítulo III, Título III.
 
@@ -332,8 +340,6 @@ ART. 75.- Las nulidades a que se refiere el artículo anterior se promoverán an
 > <small>(REFORMADO, P.O. 10 DE JULIO DE 1990)</small>
 
 En el caso de que proceda la nulidad se impondrá al responsable una multa de uno a tres días de salario mínimo vigente en la región y se le condenará al pago de las costas y gastos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2012)</small>
 
@@ -618,8 +624,6 @@ ART. 136.- Se exceptúan de lo prevenido en el artículo anterior:
 I.- Los casos en que desestimada la demanda, lo sea igualmente la reconvención y aquellos en que tanto una como la otra se encontraren en parte procedentes;
 
 II.- Cuando ejercitada una acción sólo se estime procedente en parte, por las excepciones que hubiere hecho valer el demandado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2012)</small>
 
@@ -1165,8 +1169,6 @@ ART. 260.- Se presumirán confesados por el demandado todos los hechos de la dem
 
 ART. 261.- Las excepciones y la reconvención se discutirán al propio tiempo y se decidirán en la misma sentencia. Si se opusiere como única excepción la de cosa juzgada, a petición del demandado, se podrá continuar y decidir el pleito como juicio extraordinario.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
 
 ART. 262.- Si entre las excepciones opuestas hubiere de previo y especial pronunciamiento, se sustanciarán, dejando en suspenso el principal, como se dispone en los capítulos II del Título I, y III, del Título III, de este Código. Resueltas que sean, de oficio se ordenará, en su caso, que continúe el curso del juicio.
@@ -1191,8 +1193,6 @@ ART. 267.- Confesada la demanda en todas sus partes o allanándose a ella o mani
 
 ART. 268.- Queda abolida la práctica de oponer excepciones o defensas contradictorias, aun cuando sea con el carácter de subsidiarias, debiendo los jueces desechar éstas de plano.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2012)</small>
 
 ART. 268 BIS.- En los juicios del orden civil, familiar y mercantil, una vez contestada la demanda y resueltas las excepciones de previo y especial pronunciamiento relativas a la legitimación de las partes, el Juez convocará a las partes a una audiencia, a fin de que comparezcan personalmente y conozcan la posibilidad de someter el conflicto a los mecanismos alternativos de mediación y conciliación, a través del Centro Estatal o de los Centros Públicos o Privados.
@@ -1208,8 +1208,6 @@ Las partes de común acuerdo podrán solicitar en cualquier etapa del procedimie
 > <small>(ADICIONADO, P.O. 14 DE MARZO DE 2017)</small>
 
 En el caso de que las partes logren la construcción de un acuerdo por medio del procedimiento de mediación y conciliación, lo harán del conocimiento del Juez, quien decretará la conclusión del procedimiento y lo archivará como corresponda. En caso de que las partes no hubieren aceptado el procedimiento, o habiéndolo iniciado no fuera posible llegar a un acuerdo dentro del plazo señalado, lo harán saber al Juez del conocimiento, para que dicte el proveído que corresponda y levante la suspensión del procedimiento, continuando con su tramitación.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
 
@@ -1248,8 +1246,6 @@ ART. 278.- Cuando una de las partes se oponga a la inspección o reconocimiento 
 ART. 279.- Los terceros están obligados, en todo tiempo, a prestar auxilio a los tribunales en la averiguación de la verdad. En consecuencia, deben, sin demora, exhibir documentos y cosas que tengan en su poder, cuando para ello fueren requeridos.
 
 Los tribunales tienen la facultad y el deber de compeler a terceros, por los apremios más eficaces, para que cumplan con esta obligación; y en caso de oposición, oirán las razones en que la funden y resolverán sin ulterior recurso.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2012)</small>
 
@@ -1294,8 +1290,6 @@ ART. 286.- Las partes están obligadas, al ofrecer la prueba de documentos que n
 ART. 287.- Los documentos que ya se exhibieron antes de este período y las constancias de autos se tomarán como prueba aunque no se ofrezcan.
 
 ART. 288.- Al solicitarse la inspección judicial se determinarán los puntos sobre que deba de versar.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2016)</small>
 
@@ -1351,8 +1345,6 @@ ART. 298.- Las diligencias de prueba sólo podrán practicarse dentro del térmi
 
 ART. 299.- Las pruebas documentales que se presenten fuera del término, serán admitidas en cualquier estado del juicio hasta la citación para sentencia, protestando la parte que antes no supo de ellas y dándose conocimiento de las mismas a la contraria, para que dentro del término de tres días exponga lo que a sus derechos convenga, reservándose la decisión de los puntos que se suscitaren hasta la sentencia definitiva.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO, P.O. 24 DE MAYO DE 2016)</small>
 
 El auto que niegue la admisión de estas pruebas no admite recurso alguno.
@@ -1360,8 +1352,6 @@ El auto que niegue la admisión de estas pruebas no admite recurso alguno.
 ART. 300.- Las diligencias de prueba practicadas en otros juzgados, en virtud del requerimiento del juez de los autos, durante la suspensión del término, serán válidas y surtirán sus efectos mientras el requerido no tenga aviso de suspenderlas.
 
 #### Sección II. De la Confesión
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
 
@@ -1403,8 +1393,6 @@ Si la negativa se fundare en ilegalidad de las posiciones, el juez en el acto de
 
 ART. 310.- Si fueren varios los que hayan de absolver posiciones y al tenor de un mismo interrogatorio, las diligencias se practicarán separadamente y en un mismo acto, evitando que los que absuelvan primero se comuniquen con los que han de absolver después.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
 
 ART. 311.- En ningún caso se permitirá que la parte que ha de absolver posiciones esté asistida por abogado, procurador ni otra persona, ni se le dará traslado ni copia de las posiciones, ni término para que se aconseje; pero si el absolvente fuere extranjero, o indígena, podrá ser asistido por un intérprete, en cuyo caso, el juez lo nombrará.
@@ -1434,8 +1422,6 @@ En el primer caso el juez abrirá el pliego y calificará las posiciones antes d
 ART. 318.- No podrá ser declarado confeso el llamado a absolver posiciones, si no hubiere sido apercibido legalmente.
 
 La declaración se hará cuando la parte contraria lo pidiere, después de contestada la demanda hasta la citación para sentencia.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
 
@@ -1535,8 +1521,6 @@ Si la profesión, el arte o la industria no estuvieren legalmente reglamentados 
 
 ART. 342.- Cada parte, dentro de los tres días siguientes a la notificación del auto que ordene el dictamen pericial, nombrará un perito, a no ser que se pusieren de acuerdo en el nombramiento de uno solo. El tercero en discordia será nombrado por el juez.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2016)</small>
 
 ART. 343.- El juez designará, de oficio, los peritos que corresponda nombrar a cada parte, en los casos siguientes:
@@ -1619,8 +1603,6 @@ ART. 358.- Al Presidente de la República, a los Secretarios de Estado, Senadore
 
 ART. 359.- Para el examen de los testigos no se presentarán interrogatorios escritos. Las preguntas serán formuladas verbal y directamente por las partes, tendrán relación directa con los puntos controvertidos y no serán contrarias al derecho o a la moral; deberán estar concebidas en términos claros y precisos, procurando que en una sola no se comprenda más de un hecho. El juez deberá cuidar de que se cumplan estas condiciones impidiendo preguntas que las contraríen. Contra la desestimación de las preguntas o repreguntas no cabe recurso alguno; pero se asentarán literalmente en autos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 11 DE JULIO DE 2013)</small>
 
 ART. 360.- La protesta y examen de los testigos se harán en presencia de las partes que concurran a la diligencia. Interrogará primero el promovente de la prueba, y a continuación la parte contraria podrá repreguntar; pero en ningún caso podrá hacer más de cinco repreguntas sobre cada una de las preguntas directas, y de su respectiva respuesta.
@@ -1630,8 +1612,6 @@ ART. 361.- No obstante lo dispuesto en el artículo anterior, cuando el testigo 
 Para el examen de los testigos que no residan en el lugar del negocio, se librará recado al tribunal que ha de practicar la diligencia, acompañándole en pliego cerrado, los interrogatorios, previa la calificación correspondiente.
 
 ART. 362.- Después de tomarle al testigo la protesta de conducirse con verdad y de advertirle de las penas en que incurren los testigos falsos, se hará constar el nombre, edad, estado, domicilio y ocupación; si es pariente por consanguinidad o afinidad y en qué grado, de alguno de los litigantes; si es dependiente o empleado del que lo presente, o tiene con él sociedad o alguna otra relación de intereses; si tiene interés directo o indirecto en el pleito, si es amigo íntimo o enemigo de alguno de los litigantes. A continuación se procederá al examen.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2012)</small>
 
@@ -1943,15 +1923,11 @@ VII.- Las pólizas originales de contratos celebrados con intervención de corre
 
 VIII.- El juicio uniforme de contadores, si las partes ante el juez o por escritura pública o por escrito privado reconocido judicialmente, se hubieren sujetado a él expresamente o lo hubieren aprobado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2012)</small>
 
 IX.- Los acuerdos o convenios no reconocidos judicialmente o sin certificar por la autoridad competente, que resulten con motivo de la aplicación del procedimiento de los mecanismos alternativos de solución de conflictos, en los términos previstos por la Ley de la materia.
 
 ART. 419.- Las sentencias que causen ejecutoria y los convenios judiciales, laudos o juicios de contadores, motivarán ejecución si el interesado no intentare la vía de apremio.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2012)</small>
 
@@ -3635,15 +3611,11 @@ ART. 786.- Decretada la suspensión, surtirá efectos mientras el Ministerio Pú
 
 ART. 787.- Concluída la averiguación criminal continuará el curso de los autos civiles y si el procedimiento penal termina sin decidir sobre la falsedad o autenticidad del documento, el tribunal de lo civil concederá un término de diez días para que rindan las partes sus pruebas, a fin de que, en la sentencia, se decida sobre el valor probatorio del documento.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE MAYO DE 2016)</small>
 
 ## TITULO DECIMO PRIMERO. Suspensión, Interrupción, y Caducidad del Proceso
 
 ### CAPITULO I. Suspensión
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2012)</small>
 
@@ -3655,13 +3627,11 @@ II. Alguna de las partes o su representante procesal en su caso, sin culpa algun
 
 > <small>(REFORMADA, P.O. 14 DE MARZO DE 2017)</small>
 
-IV. Cuando las partes han consentido en acudir a un Centro para la solución de conflictos para intentar algún avenimiento que ponga fin al asunto, en los términos de la Ley de Mediación y Conciliación para el Estado de San Luis Potosí, y
+IV. (SIC) Cuando las partes han consentido en acudir a un Centro para la solución de conflictos para intentar algún avenimiento que ponga fin al asunto, en los términos de la Ley de Mediación y Conciliación para el Estado de San Luis Potosí, y
 
 V. En cualquier otro caso determinado por este Código y otras disposiciones legales.
 
 ART. 789.- También se suspende cuando no puede pronunciarse la decisión sino hasta que se pronuncie una resolución en otro negocio, y en cualquier otro caso especial determinado por la Ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2012)</small>
 
@@ -3691,13 +3661,9 @@ ART. 795.- Es aplicable al caso de interrupción, lo dispuesto por el artículo 
 
 Para los efectos de este artículo, la interrupción se retrotraerá a la fecha del fallecimiento.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE MAYO DE 2016)</small>
 
 ### CAPITULO III. Caducidad
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, P.O. 24 DE MAYO DE 2016)</small>
 
@@ -3715,19 +3681,13 @@ Lo dispuesto en este artículo será aplicable en ambas instancias, tanto en el 
 
 Caducado el negocio principal, caducarán también los incidentes. En cambio, la caducidad de los incidentes solamente producirá la del juicio, cuando a virtud de los mismos, se haya suspendido el procedimiento en éste.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO, P.O. 24 DE MAYO DE 2016)</small>
 
 ART. 795 TER.- Cuando en el caso de los supuestos señalados en el artículo anterior, no se comprendan todas las cuestiones litigiosas para cuya resolución se haya abierto el proceso, éste continuará solamente en lo relativo a las cuestiones restantes.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO, P.O. 24 DE MAYO DE 2016)</small>
 
 ART. 795 QUÁTER.- El auto o resolución que decrete la caducidad será dictado por el juez o tribunal, inmediatamente que tenga conocimiento de los hechos que la motiven.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, P.O. 24 DE MAYO DE 2016)</small>
 
@@ -3745,15 +3705,11 @@ V. La caducidad decretada en la segunda instancia deja firme la resolución apel
 
 VI. Puede ser decretada por auto o en sentencia.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO, P.O. 24 DE MAYO DE 2016)</small>
 
 ART. 795 SEXTIES.- Contra la resolución de primera instancia que decrete la caducidad procederá el recurso de apelación en ambos efectos. La negativa del juez a decretarla será apelable en el efecto devolutivo.
 
 La resolución de segunda instancia que niegue la caducidad de la misma, podrá ser impugnada a través del recurso de reposición. La que decrete tal caducidad no admitirá ningún recurso.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, P.O. 24 DE MAYO DE 2016)</small>
 
@@ -3778,8 +3734,6 @@ VIII. Cuando se haya citado a las partes para oír sentencia;
 IX. En materia de ejecución de sentencias firmes, y
 
 X. Tratándose de negocios que se encuentren en segunda instancia para revisión oficiosa de la resolución pronunciada por el juez.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, P.O. 24 DE MAYO DE 2016)</small>
 
@@ -4235,8 +4189,6 @@ ART. 935.- En los juicios extraordinarios la revocación se tramitará y resolve
 
 ### CAPITULO II. De la Apelación
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
 
 ART. 936.- La apelación tiene por objeto esencial que el tribunal de segunda instancia confirme, revoque o modifique la sentencia o el auto dictado en primera instancia, en los puntos relativos a los agravios expresados.
@@ -4260,8 +4212,6 @@ No puede apelar el que obtuvo lo que pidió; pero el vencedor que sólo parcialm
 ART. 938.- El procurador podrá apelar aún cuando el poder no tenga cláusula especial para ello.
 
 ART. 939.- La parte que venció puede adherirse a la apelación interpuesta al notificársele su admisión, o dentro de las veinticuatro horas siguientes a esta notificación. En este caso la adhesión al recurso sigue la suerte de éste.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
 
@@ -4297,15 +4247,11 @@ Cuando en nombre de un menor o incapaz se interpone un recurso de apelación en 
 
 ART. 943.- La apelación admitida en ambos efectos suspende desde luego la ejecución de la sentencia o del auto hasta que éstos causen ejecutoria, y, entretanto, sólo podrán dictarse las resoluciones que se refieran a administración, custodia o conservación de bienes embargados o intervenidos judicialmente, siempre que la apelación no verse sobre alguno de esos puntos.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
 
 ART. 944.- La apelación admitida sólo en el efecto devolutivo, no suspende la ejecución de la sentencia o del auto apelado.
 
 Si el recurso se hubiere interpuesto contra una sentencia, se dejará en el juzgado copia certificada de ella y de las constancias necesarias.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
 
@@ -4339,13 +4285,9 @@ IV.- Los gastos legales que acredite el interesado haber hecho para constituir e
 
 En este caso y en el del artículo anterior, la garantía se calificará con audiencia de la contraparte
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
 
 ART. 950.- Llegados los autos o el testimonio, en su caso, al Supremo Tribunal de Justicia, serán turnados desde luego a la Sala que corresponda, la cual, sin necesidad de vista o informes, dentro de los tres días siguientes resolverá sobre la admisión del recurso, la calificación de grado y la oportuna expresión de agravios y su contestación.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
 
@@ -4353,13 +4295,9 @@ ART. 951.- Si la apelación admitida sólo en el efecto devolutivo se declara ad
 
 Cuando la apelación admitida en ambos efectos se declare admisible sólo en el devolutivo, si la resolución recurrida fuere sentencia, se enviará al Juzgado de procedencia la copia a que se refiere el artículo 944 de este Código; si fuere auto, se devolverán los originales, dejándose en el tribunal copia certificada de las constancias que las partes señalen y exhiban dentro de los tres días siguientes a la notificación del auto respectivo.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
 
 ART. 952.- Declarada inadmisible la apelación, se devolverán los autos al juez y se declarará firme la sentencia o auto apelados.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
 
@@ -4367,49 +4305,27 @@ ART. 953.- Si se declara admisible la apelación, por estar satisfechos los requ
 
 ART. 954.- (DEROGADO, P.O. 23 DE JUNIO DE 2016)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
 
 ART. 955.- En toda sentencia de segunda instancia se declarará expresamente si hay condenación en costas a quien debe pagar éstas.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 ART. 956.- (DEROGADO, P.O. 24 DE MAYO DE 2016)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ART. 957.- (DEROGADO, P.O. 24 DE MAYO DE 2016)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 ART. 958.- (DEROGADO, P.O. 24 DE MAYO DE 2016)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ART. 959.- (DEROGADO, P.O. 24 DE MAYO DE 2016)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 ART. 960.- (DEROGADO, P.O. 24 DE MAYO DE 2016)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ART. 961.- (DEROGADO, P.O. 24 DE MAYO DE 2016)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 ART. 962.- (DEROGADO, P.O. 24 DE MAYO DE 2016)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ART. 963.- (DEROGADO, P.O. 24 DE MAYO DE 2016)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 ART. 964.- (DEROGADO, P.O. 24 DE MAYO DE 2016)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ART. 965.- (DEROGADO, P.O. 24 DE MAYO DE 2016)
 
@@ -4471,8 +4387,6 @@ ART. 976.- Si el juez no rinde el informe a que se refiere este Capítulo, será
 
 ART. 977.- Procede la vía de apremio a instancia de parte, siempre que se trate de la ejecución de una sentencia o de un convenio celebrado en el juicio, ya sea por las partes o por terceros que hayan venido al juicio por cualquier motivo que sea.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2012)</small>
 
 También procede la vía de apremio en la ejecución de convenios aprobados por la Procuraduría Federal del Consumidor, en la ejecución de laudos emitidos por dicha Procuraduría y en· la ejecución de convenios o acuerdos certificados por el Centro Estatal de Solución de Conflictos del Poder Judicial del Estado celebrados con motivo de los mecanismos alternativos para la solución de conflictos previstos en la Ley de la materia.
@@ -4481,19 +4395,13 @@ ART. 978.- La ejecución de sentencia que hubiere causado ejecutoria o que deba 
 
 La ejecución de las interlocutorias firmes que resuelvan un incidente queda a cargo del juez que conozca del principal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2012)</small>
 
 La ejecución de las transacciones o convenios celebrados en juicio o reconocidos judicialmente, se hará por el juez que conozca del negocio en la primera instancia; pero no procederá en la vía de apremio si no consta en escritura pública o judicialmente en autos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2012)</small>
 
 Cuando las transacciones o los convenios se celebren en las Salas, se tendrá por concluido el trámite del recurso y serán ejecutados por el Juzgado que conoció en primera instancia, a cuyo efecto la Sala devolverá los autos al inferior, acompañándole testimonio del convenio.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2012)</small>
 
@@ -4504,8 +4412,6 @@ ART. 979.- El tribunal que dicte sentencia ejecutoria, dentro de los tres días 
 ART. 980.- La ejecución de las sentencias arbitrales, se hará por el juez competente designado por las partes, y, en su defecto, por el juez del lugar del juicio; si hubiere varios, por el de número más bajo.
 
 ART. 981.- La ejecución de las sentencias y convenios, en la vía ejecutiva, se efectuará conforme a las reglas generales de los juicios ejecutivos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2012)</small>
 
@@ -4557,7 +4463,7 @@ ART. 996.- Cuando la sentencia condene a rendir cuentas, el juez señalará un t
 
 ART. 997.- El obligado, en el término que se le fije y que no podrá prorrogarse sino por una vez por causa grave, a juicio del tribunal, rendirá su cuenta presentando los documentos que tenga en su poder y los que el acreedor tenga en el suyo y que debe presentar poniéndolos a la disposición del deudor en la secretaría.
 
-Las cuentas deberán contener un preámbulo en el que se expongan suscintamente los hechos que dieron lugar a la gestión y la resolución judicial que ordene la rendición de cuentas, la indicación de las sumas recibidas y gastadas y el balance de las entradas y salidas, acompañando los documentos justificativos, como recibos, comprobantes de gastos y demás.
+Las cuentas deberán contener un preámbulo en el que se expongan suscintamente (sic) los hechos que dieron lugar a la gestión y la resolución judicial que ordene la rendición de cuentas, la indicación de las sumas recibidas y gastadas y el balance de las entradas y salidas, acompañando los documentos justificativos, como recibos, comprobantes de gastos y demás.
 
 ART. 998.- Si el deudor presenta sus cuentas en el término señalado, quedarán éstas por seis días a la vista de las partes en el tribunal y dentro del mismo tiempo presentarán sus observaciones determinando las partidas que no se consientan.
 
@@ -4594,8 +4500,6 @@ ART. 1008.- Contra la ejecución de la sentencia y convenios judiciales, no se a
 ART. 1009.- Los términos fijados en el artículo anterior se contarán desde la fecha de la sentencia o convenio, a no ser que en ellos se fije el plazo para el cumplimiento de la obligación, en cuyo caso el término se computará desde el día en que venció el plazo o desde que pudo exigirse la última prestación vencida, si se tratare de prestaciones periódicas.
 
 ART. 1010.- Todo lo que en este Capítulo se dispone respecto de la sentencia, comprende las transacciones, convenios judiciales y los laudos que ponen fin a los juicios arbitrales.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2012)</small>
 
@@ -5005,7 +4909,7 @@ ART. 1106.- Si la reconvención es por una cantidad mayor de ciento ochenta y do
 
 ART. 1107.- Todas las acciones y excepciones o defensas, se harán valer en el acto mismo de la audiencia, sin substanciar artículos o incidentes de previo y especial pronunciamiento. Si de lo que expongan las partes resultare demostrada la procedencia de alguna excepción dilatoria, el juez lo declarará así desde luego y dará por terminada la audiencia.
 
-ART. 1108.- Oídas la demanda y al contestación, el juez procurará que las partes lleguen a un avenimiento. Si lo obtuviese, después de hacer constar los términos del mismo, condenará a aquéllas a estar y pasar por lo que hubieren convenido, con efectos de cosa juzgada y dará por concluído el negocio.
+ART. 1108.- Oídas la demanda y la contestación, el juez procurará que las partes lleguen a un avenimiento. Si lo obtuviese, después de hacer constar los términos del mismo, condenará a aquéllas a estar y pasar por lo que hubieren convenido, con efectos de cosa juzgada y dará por concluído el negocio.
 
 ART. 1109.- Si no se logra el avenimiento, prevendrá luego el juez a las partes que ofrezcan las pruebas que estimen pertinentes rendir para demostrar las acciones y excepciones que respectivamente hubieren hecho valer; resolverá sobre la admisión de las pruebas en el mismo acto; dará luego por concluída la audiencia y señalará día y hora para que se presenten a una nueva audiencia, que se verificará en un término no mayor de diez días, previniéndoles que en ella se recibirán sus pruebas, se oirán sus alegatos y se pronunciará la sentencia que corresponda.
 
@@ -5714,3 +5618,11 @@ P.O. 14 DE MARZO DE 2017.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0667.- SE REFORMA EL ARTÍCULO 36; Y ADICIONA AL ARTÍCULO 35 UNA FRACCIÓN, DE Y AL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
