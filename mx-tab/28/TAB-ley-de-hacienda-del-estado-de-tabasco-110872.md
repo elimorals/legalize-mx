@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-hacienda-del-estado-de-tabasco-110872"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-30"
-last_updated: "2016-12-24"
+last_updated: "2017-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110872&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "TAB"
 
 LEY DE HACIENDA DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 30 de diciembre de 2015.
 
@@ -67,9 +67,13 @@ I. Autoridades Fiscales: Las señaladas en el artículo 8 del Código Fiscal del
 
 II. Secretaría: La Secretaría de Planeación y Finanzas del Estado de Tabasco;
 
-III. Vivienda de interés social: Aquélla cuyo valor al término de su edificación no exceda del monto que resulte de multiplicar por trescientos, el salario mínimo general diario vigente en el Estado, elevado a treinta días; y
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-IV. Vivienda popular: Aquélla cuyo valor al término de su edificación no exceda del monto que resulte de multiplicar por trescientos cincuenta, el salario mínimo general diario vigente en el Estado, elevado a treinta días.
+III. Vivienda de interés social: Aquélla cuyo valor al término de su edificación no exceda del monto que resulte de multiplicar por trescientos, el valor diario de la Unidad de Medida y Actualización, elevado a treinta días; y
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+IV. Vivienda popular: Aquélla cuyo valor al término de su edificación no exceda del monto que resulte de multiplicar por trescientos cincuenta, el valor diario de la Unidad de Medida y Actualización, elevado a treinta días.
 
 ###### Artículo 4.
 
@@ -331,17 +335,23 @@ se hacen constar en escritura pública
 
 o documento privado. 0.5%
 
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
 VII. Cuando se trate de poder o mandato hecho
 
 constar en escritura pública o en escrito privado,
 
-exprese o no cantidad, sea especial o general. 1.0 DSMGV
+exprese o no cantidad, sea especial o general. 1.0 UMA
 
 VIII. Los demás contratos, actos, instrumentos notariales de índole contractual, sin valor pecuniario, los protestos, protocolizaciones, expedición de testimonio o compulsas de documentos, libros y cualquier otra certificación, cuando no se transmitan derechos, acciones y obligaciones:
 
-a) Por las primeras tres hojas. 1.5 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-b) Por cada hoja subsecuente. 0.2 DSMGV.
+a) Por las primeras tres hojas. 1.5 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+b) Por cada hoja subsecuente. 0.2 UMA
 
 ###### Artículo 24.
 
@@ -401,9 +411,11 @@ Lo que los municipios del Estado enteren por concepto de impuesto sobre nómina 
 
 Es base de este impuesto, el monto total de los pagos a que se refiere el artículo 26 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### Artículo 30.
 
-Este impuesto se causará, liquidará y pagará en razón de las siguientes tasas, sobre el monto total de los pagos a que se refiere el artículo anterior, aun cuando no excedan del salario mínimo general vigente en el Estado:
+Este impuesto se causará, liquidará y pagará en razón de las siguientes tasas, sobre el monto total de los pagos a que se refiere el artículo anterior, aun cuando no excedan del valor diario de la Unidad de Medida y Actualización:
 
 I. Cuando se trate de los Poderes del Estado,
 
@@ -785,17 +797,25 @@ El recibo oficial de pago para efectuar los diversos trámites que contempla la 
 
 Por búsqueda en los archivos del Gobierno del Estado, se causarán y pagarán los derechos siguientes:
 
-I. Documentos de fecha fija. 2.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-II. Documentos de fecha indeterminada. 5.0 DSMGV
+I. Documentos de fecha fija. 2.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+II. Documentos de fecha indeterminada. 5.0 UMA
 
 ###### Artículo 68.
 
 Por los certificados, constancias o copias certificadas que expidan las oficinas del Gobierno del Estado, no incluidas en el presente título, se causarán y pagarán los derechos siguientes:
 
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
 I. Constancia de pagos efectuados por
 
-concepto de impuestos, derechos y aprovechamientos. 6.0 DSMGV
+concepto de impuestos, derechos y aprovechamientos. 6.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 II. Por cada certificación o constancia que expidan
 
@@ -805,17 +825,25 @@ estén autorizados para ello, distintos de los
 
 contemplados en la fracción II del artículo 70
 
-de la presente Ley. 3.0 DSMGV
+de la presente Ley. 3.0 UMA
 
 III. Copia certificada de los documentos, actuaciones o datos que obren en Los Poderes del Estado, sus Dependencias, Órganos Administrativos Desconcentrados y Entidades, así como los Órganos Autónomos, distintas a las contempladas en la fracción II del artículo 70 de la presente Ley:
 
-a) Primera hoja. 2.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-b) Por cada hoja subsecuente. 0.1 DSMGV
+a) Primera hoja. 2.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+b) Por cada hoja subsecuente. 0.1 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 IV. Por la ratificación de firmas ante cualquier
 
-Autoridad administrativa o judicial. 3.0 DSMGV
+Autoridad administrativa o judicial. 3.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 V. Por los trámites de nueva expedición de
 
@@ -829,7 +857,7 @@ Internet a cargo de servidores públicos del
 
 Poder Ejecutivo del Estado, a partir de la
 
-segunda ocasión que se solicite. 5.0 DSMGV
+segunda ocasión que se solicite. 5.0 UMA
 
 Cuando se trate de viviendas de interés social o popular, se cobrará en el primer caso el 25 por ciento; y en el segundo, el 50 por ciento del monto total de las contribuciones señaladas en este artículo.
 
@@ -849,29 +877,45 @@ III. Las certificaciones o copias certificadas que expida la Coordinación Catas
 
 Por los servicios que prestan las Dependencias, órganos desconcentrados y organismos descentralizados de la Administración Pública Estatal cuando les sean solicitados documentos físicos o en medios magnéticos u ópticos, tratándose de obtención de información pública en términos de la legislación y reglamentación aplicable, las personas interesadas pagarán las cantidades siguientes:
 
-I. Por la expedición de copia simple. 0.01 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+I. Por la expedición de copia simple. 0.01 UMA
 
 II. Por la expedición de copias certificadas por las que no se tenga que pagar otra contribución de conformidad con lo que se establece en la presente Ley:
 
-a) Por la primera hoja. 0.3 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-b) Por cada hoja subsecuente. 0.01 DSMGV
+a) Por la primera hoja. 0.3 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+b) Por cada hoja subsecuente. 0.01 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 III. Por cada disco compacto para almacenar
 
-y entregar la información requerida. 0.2 DSMGV
+y entregar la información requerida. 0.2 UMA
 
 IV. Por cada disco compacto en formato DVD para almacenar y entregar la información requerida en ese medio, bajo la siguiente característica:
 
-a) DVD. 0.3 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-b) DVD regrabable. 0.6 DSMGV
+a) DVD. 0.3 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+b) DVD regrabable. 0.6 UMA
 
 V. Por cada hoja impresa:
 
-a) Tamaño carta. 0.02 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-b) Tamaño oficio. 0.03 DSMGV
+a) Tamaño carta. 0.02 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+b) Tamaño oficio. 0.03 UMA
 
 El establecimiento de estos costos no contraviene las facultades que la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco confiere al organismo público autónomo garante.
 
@@ -887,41 +931,61 @@ SERVICIO ESTATAL DE ADMINISTRACIÓN DE BIENES ASEGURADOS, ABANDONADOS O DECOMISA
 
 Por los servicios prestados por la Secretaría de Gobierno; relacionados con asuntos jurídicos, se causarán y pagarán los derechos siguientes:
 
-I. Por la expedición del Fiat para el ejercicio notarial. 90.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-II. Por el nombramiento de notarios adscritos o sustitutos. 45.0 DSMGV
+I. Por la expedición del Fiat para el ejercicio notarial. 90.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+II. Por el nombramiento de notarios adscritos o sustitutos. 45.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 III. Por la autorización de cada libro
 
-para el protocolo de los notarios. 10.0 DSMGV
+para el protocolo de los notarios. 10.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 IV. Por la autorización de cada 150 folios o 300
 
-números para la integración o uso de protocolo abierto. 10.0 DSMGV
+números para la integración o uso de protocolo abierto. 10.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 V. Por el registro de sello y firma que
 
-utiliza el notario público. 9.0 DSMGV
+utiliza el notario público. 9.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 VI. Por la legalización de exhortos provenientes
 
-de autoridad administrativa o judicial. 3.0 DSMGV
+de autoridad administrativa o judicial. 3.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 VII. Por la presentación de examen de suficiencia
 
-sobre el ejercicio notarial. 50.0 DSMGV
+sobre el ejercicio notarial. 50.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 VIII. Cada legalización de firmas autógrafas
 
-del Ejecutivo del Estado. 3.0 DSMGV
+del Ejecutivo del Estado. 3.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 IX. La legalización de firmas autógrafas en la
 
 documentación de cada alumno de estudios
 
-de bachillerato o equivalentes y profesionales. 2.0 DSMGV
+de bachillerato o equivalentes y profesionales. 2.0 UMA
 
-X. Por adhesión de apostilla, por cada documento. 3.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+X. Por adhesión de apostilla, por cada documento. 3.0 UMA
 
 La Secretaría con motivo de programas colectivos y específicos de beneficio social que emprenda el Gobierno del Estado a solicitud de la dependencia o entidad que preste el servicio de que se trate, podrá exentar o en su caso reducir el pago, del derecho establecido en la fracción IX del presente artículo.
 
@@ -931,29 +995,41 @@ La Secretaría con motivo de programas colectivos y específicos de beneficio so
 
 Por los servicios relacionados con el Registro Civil y sus Oficialías, se causarán y pagarán los derechos siguientes:
 
-I. Búsqueda de cualquier registro en el Archivo Central. 2.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+I. Búsqueda de cualquier registro en el Archivo Central. 2.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 II. Por las anotaciones de resoluciones
 
-judiciales y administrativas. 3.0 DSMGV
+judiciales y administrativas. 3.0 UMA
 
 III. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2016)
 
 IV. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2016)
 
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
 V. Por expedición de constancia positiva
 
-o negativa de registro de nacimiento. 1.0 DSMGV
+o negativa de registro de nacimiento. 1.0 UMA
 
-VI. Por certificación de actas de nacimiento. 1.0 DSMGV
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
+
+VI. Por certificación de actas de nacimiento. 1.0 UMA
 
 No obstante, cuando se trate del registro del nacimiento y de la expedición de la primera copia certificada del acta de nacimiento, no se cobrará este derecho.
 
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
 VII. Por certificación de acta de defunción,
 
-supervivencia y matrimonio se pagará. 2.0 DSMGV
+supervivencia y matrimonio se pagará. 2.0 UMA
 
-VIII. Por certificación de acta de divorcio. 5.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+VIII. Por certificación de acta de divorcio. 5.0 UMA
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
@@ -973,37 +1049,55 @@ La Secretaría con motivo de programas colectivos y específicos de beneficio so
 
 Por inserción de anuncios, circulares y publicaciones en el Periódico Oficial del Estado, se causaran y pagarán los derechos siguientes:
 
-I. Por suscripción mensual al Periódico Oficial. 3.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-II. Pago por suscripción anual al Periódico Oficial. 33.62 DSMGV
+I. Por suscripción mensual al Periódico Oficial. 3.0 UMA
 
-III. Por cada ejemplar del Periódico Oficial. 0.25 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-IV. Por cada ejemplar atrasado del Periódico Oficial. 1.0 DSMGV
+II. Pago por suscripción anual al Periódico Oficial. 33.62 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+III. Por cada ejemplar del Periódico Oficial. 0.25 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+IV. Por cada ejemplar atrasado del Periódico Oficial. 1.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 V. Por publicar en el Periódico Oficial los avisos
 
 de cambio de denominación, domicilio, actividad
 
-y cancelaciones. 3.0 DSMGV
+y cancelaciones. 3.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 VI. Por publicar 3 veces en el Periódico
 
-Oficial los edictos. 6.0 DSMGV
+Oficial los edictos. 6.0 UMA
 
-VII. Por cada publicación adicional. 3.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+VII. Por cada publicación adicional. 3.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 VIII. Por publicar las sentencias de juicios civiles,
 
 cédulas hipotecarias, anuncios de remate y
 
-comerciales, por cada inserción. 3.0 DSMGV
+comerciales, por cada inserción. 3.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 IX. Por cualquier otra publicación de las que
 
 no estén especificadas, por cada inserción,
 
-hasta 100 palabras o fracción. 3.0 DSMGV
+hasta 100 palabras o fracción. 3.0 UMA
 
 #### SECCIÓN TERCERA. COORDINACIÓN ESTATAL PARA LA REGULARIZACIÓN DE LA TENENCIA DE LA TIERRA
 
@@ -1011,35 +1105,49 @@ hasta 100 palabras o fracción. 3.0 DSMGV
 
 #### SECCIÓN CUARTA. JUNTA ESTATAL DE CAMINOS
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### Artículo 74.
 
 Por los servicios prestados por la Secretaría de Seguridad Pública, relacionados con la seguridad privada se causarán y pagarán los derechos siguientes:
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 I. Por verificación de los requisitos establecidos
 
 en las disposiciones jurídicas y administrativas
 
-en la solicitud del permiso o autorización o su revalidación. 40.0 DSMGV
+en la solicitud del permiso o autorización o su revalidación. 40.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 II. Por la expedición de la autorización o permiso para
 
-la prestación del servicio en cualquiera de sus modalidades. 265.0 DSMGV
+la prestación del servicio en cualquiera de sus modalidades. 265.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 III. Por cada consulta en el sistema de antecedentes de
 
 los aspirantes al personal operativo de los prestadores
 
-de servicio de seguridad privada. 1.0 DSMGV
+de servicio de seguridad privada. 1.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 IV. Por revalidación del permiso o autorización para la
 
-prestación del servicio en cualquiera de sus modalidades. 130.0 DSMGV
+prestación del servicio en cualquiera de sus modalidades. 130.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 V. Por la inscripción de cada uno de los integrantes
 
 del personal directivo, administrativo y operativo en el
 
-Registro de los Servicios de Seguridad Privada y de Personal. 2.0 DSMGV
+Registro de los Servicios de Seguridad Privada y de Personal. 2.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 VI. Por expedición de la cédula de identificación
 
@@ -1047,7 +1155,9 @@ que lo acredita como personal directivo, administrativo
 
 u operativo de los prestadores de servicio de seguridad
 
-privada inscrito en el registro. 1.0 DSMGV
+privada inscrito en el registro. 1.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 VII. Por cada inscripción de registro de licencia para
 
@@ -1055,23 +1165,29 @@ portación de armas de fuego expedida por las autoridades
 
 federales en el Registro de los Servicios de Seguridad
 
-Privada y de Personal. 2.0 DSMGV
+Privada y de Personal. 2.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 VIII. Por cada cambio de representante o apoderado legal
 
 que se asiente en el Registro de los Servicios de Seguridad
 
-Privada y de Personal. 5.0 DSMGV
+Privada y de Personal. 5.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 IX. Por cada cambio de accionistas o socios que se
 
 asiente en el Registro de los Servicios de Seguridad
 
-Privada y de Personal. 5.0 DSMGV
+Privada y de Personal. 5.0 UMA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
 
 X. Por cambio o aumento de modalidad de prestación
 
-del servicio de seguridad privada. 60.0 DSMGV
+del servicio de seguridad privada. 60.0 UMA
 
 Las inscripciones al Registro de los Servicios de Seguridad Privada y de Personal a que se refiere esta fracción, se cobrarán sólo la primera vez que sean asentadas.
 
@@ -1083,73 +1199,115 @@ Por los servicios prestados por la Policía Estatal, órgano desconcentrado de l
 
 I. Por expedición y reposición de licencia para conducir de dos años:
 
-a. Chofer. 8.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-b. Automovilista. 7.0 DSMGV
+a. Chofer. 8.0 UMA
 
-c. Motociclista. 3.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+b. Automovilista. 7.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+c. Motociclista. 3.0 UMA
 
 II. Por expedición y reposición de licencia para conducir de cinco años:
 
-a. Chofer. 18.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-b. Automovilista. 16.0 DSMGV
+a. Chofer. 18.0 UMA
 
-c. Motociclista. 7.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+b. Automovilista. 16.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+c. Motociclista. 7.0 UMA
 
 III. Por expedición y reposición de licencia para conducir de diez años:
 
-a. Chofer. 34.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-b. Automovilista. 30.0 DSMGV
+a. Chofer. 34.0 UMA
 
-c. Motociclista. 13.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+b. Automovilista. 30.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+c. Motociclista. 13.0 UMA
 
 IV. Por expedición, renovación o reposición de permisos de conducir:
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 a. Para menores de edad en los términos del
 
 artículo 26 de la Ley General de Tránsito y
 
-Vialidad del Estado de Tabasco. 5.0 DSMGV
+Vialidad del Estado de Tabasco. 5.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 b. Para extranjeros en los términos del artículo 27
 
 de la Ley General de Tránsito y Vialidad del Estado
 
-de Tabasco con una vigencia de seis meses. 5.0 DSMGV
+de Tabasco con una vigencia de seis meses. 5.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 c. Para extranjeros en los términos del artículo 27
 
 de la Ley General de Tránsito y Vialidad del Estado
 
-de Tabasco con una vigencia de un año. 10.0 DSMGV
+de Tabasco con una vigencia de un año. 10.0 UMA
 
 V. Por el servicio de resguardo de vehículos, por cada día:
 
-a. Vehículo de hasta 3 toneladas. 1.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-b. Vehículo de más de 3 toneladas. 5.0 DSMGV
+a. Vehículo de hasta 3 toneladas. 1.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+b. Vehículo de más de 3 toneladas. 5.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 VI. Por expedición de permiso de circulación para
 
-vehículos nuevos, con vigencia de setenta y dos horas. 5.0 DSMGV
+vehículos nuevos, con vigencia de setenta y dos horas. 5.0 UMA
 
-VII. Vehículo Detenido. 11.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-VIII. Documento en Garantía. 14.0 DSMGV
+VII. Vehículo Detenido. 11.0 UMA
 
-IX. Permiso de traslado por 72 horas. 5.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-X. Por la expedición de la constancia de no infracción. 3.0 DSMGV
+VIII. Documento en Garantía. 14.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+IX. Permiso de traslado por 72 horas. 5.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+X. Por la expedición de la constancia de no infracción. 3.0 UMA
 
 ###### Artículo 76.
 
 Por el servicio de grúa que se preste como consecuencia de la comisión de infracciones, remoción de vehículo o movimiento de éste, el propietario del vehículo pagará el derecho de grúa, conforme a lo siguiente:
 
-I. Por los primeros 25 kilómetros. 8.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-II. Por cada kilómetro o fracción siguiente. 0.25 DSMGV
+I. Por los primeros 25 kilómetros. 8.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+II. Por cada kilómetro o fracción siguiente. 0.25 UMA
 
 #### SECCIÓN SEGUNDA. CENTRO DE INTERPRETACIÓN Y CONVIVENCIA CON LA NATURALEZA “YUMKA”
 
@@ -1333,39 +1491,59 @@ b) Por semestre. 2130.0 UMA
 
 c) Por año. 4260.0 UMA
 
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
 XII. Por servicio extraordinario de 12 horas con
 
-elemento de la policía desarmado. 25.0 DSMGV
+elemento de la policía desarmado. 25.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 XIII. Por servicio extraordinario de 12 horas con
 
-elemento de la policía armado. 30.0 DSMGV
+elemento de la policía armado. 30.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 XIV. Por servicio de 6 rondines en turno de
 
-12 horas con patrulla. 25.0 DSMGV
+12 horas con patrulla. 25.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 XV. Por servicio de patrulla establecida
 
-en turno de 12 horas. 50.0 DSMGV
+en turno de 12 horas. 50.0 UMA
 
-XVI. Por servicio de una hora por elemento desarmado. 6.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-XVII. Por servicio de una hora por elemento armado. 8.0 DSMGV
+XVI. Por servicio de una hora por elemento desarmado. 6.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+XVII. Por servicio de una hora por elemento armado. 8.0 UMA
 
 XVIII. Por la Custodia de Valores y Mercancía:
 
-a) Por transporte de valores o mercancía de lunes a viernes. 114.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+a) Por transporte de valores o mercancía de lunes a viernes. 114.0 UMA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
 
 b) Por kilómetro adicional en trayectos fuera
 
-de la ciudad de Villahermosa. 0.32 DSMGV
+de la ciudad de Villahermosa. 0.32 UMA
 
 En este caso los gastos de peaje se pagarán por el particular que contrata el servicio.
 
-c) Cuotas de riesgo por valor de traslado local. 0.09 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-d) Cuotas de riesgo por valor de traslado foráneo. 0.11 DSMGV
+c) Cuotas de riesgo por valor de traslado local. 0.09 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+d) Cuotas de riesgo por valor de traslado foráneo. 0.11 UMA
 
 Los derechos a que se refiere el presente artículo, deberán pagarse a más tardar durante los siguientes 5 días a aquel en que terminó la prestación del servicio.
 
@@ -1403,161 +1581,261 @@ j) Firma del solicitante del servicio.
 
 Por los servicios prestados por la Secretaría de Planeación y Finanzas, relacionados con el catastro se causarán y pagarán los derechos siguientes:
 
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
 I. Por la expedición y certificación del valor
 
-catastral de la propiedad raíz a petición de parte. 4.0 DSMGV
+catastral de la propiedad raíz a petición de parte. 4.0 UMA
 
-II. Por la expedición de cada plano. 10.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+II. Por la expedición de cada plano. 10.0 UMA
 
 III. Por la expedición de avalúos de
 
 propiedad raíz, sobre el valor catastral. 0.2 %
 
-IV. Certificación de documentos catastrales. 5.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+IV. Certificación de documentos catastrales. 5.0 UMA
 
 V. Rectificación de medidas y colindancias:
 
-a) Predio urbano lote tipo hasta 105 metros cuadrados. 7.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+a) Predio urbano lote tipo hasta 105 metros cuadrados. 7.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 (a) 106.00 metros cuadrados hasta
 
-200.00 metros cuadrados. 10.0 DSMGV
+200.00 metros cuadrados. 10.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 (b) 201.00 metros cuadrados hasta
 
-300.00 metros cuadrados. 15.0 DSMGV
+300.00 metros cuadrados. 15.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 (c) 301.00 metros cuadrados hasta
 
-600.00 metros cuadrados. 25.0 DSMGV
+600.00 metros cuadrados. 25.0 UMA
 
-(d) 601.00 metros cuadrados en adelante. 50.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+(d) 601.00 metros cuadrados en adelante. 50.0 UMA
 
 b) Predio rústico.
 
-(a) Hasta una hectárea. 20.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-(b) De 1-00-00 Hectárea (sic) a 3-00-00 hectáreas. 40.0 DSMGV
+(a) Hasta una hectárea. 20.0 UMA
 
-(c) De 3-00-00 Hectárea (sic) a 5-00-00 hectáreas. 60.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-(d) De 5-00-00 Hectárea (sic) a 10-00-00 hectáreas. 80.0 DSMGV
+(b) De 1-00-00 Hectáreas a 3-00-00 hectáreas. 40.0 UMA
 
-(e) De 10-00-00 Hectárea (sic) en adelante. 100.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+(c) De 3-00-00 Hectáreas a 5-00-00 hectáreas. 60.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+(d) De 5-00-00 Hectáreas a 10-00-00 hectáreas. 80.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+(e) De 10-00-00 Hectáreas en adelante. 100.0 UMA
 
 VI. Copia de los planos cartográficos:
 
-a) Tamaño carta de 20x25 centímetros. 2.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-b) Tamaño oficio de 20x32 centímetros. 4.0 DSMGV
+a) Tamaño carta de 20x25 centímetros. 2.0 UMA
 
-c) Tamaño lámina de 60x90 centímetros. 8.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-VII. Planos manzaneros de 90 x 200 centímetros. 20.0 DSMGV
+b) Tamaño oficio de 20x32 centímetros. 4.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+c) Tamaño lámina de 60x90 centímetros. 8.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+VII. Planos manzaneros de 90 x 200 centímetros. 20.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 VIII. A solicitud del interesado verificación
 
 de predio, planos, de fraccionamientos urbanizados,
 
-por cada manzana. 4.0 DSMGV
+por cada manzana. 4.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 IX. Verificación de la poligonal del terreno de
 
 los predios rústicos en caso de fraccionamiento,
 
-por metro cuadrado. 0.05 DSMGV
+por metro cuadrado. 0.05 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 X. Aprobación, registro de planos y otorgamiento
 
-de claves catastrales, por cada predio. 1.0 DSMGV
+de claves catastrales, por cada predio. 1.0 UMA
 
 XI. Por trámites efectuados vía módem:
 
-a) Por la expedición y certificación del valor catastral. 6.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-b) Por el registro de escrituras. 6.0 DSMGV
+a) Por la expedición y certificación del valor catastral. 6.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+b) Por el registro de escrituras. 6.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 c) Consulta de información documental
 
-almacenada en disco compacto, por documento. 1.0 DSMGV
+almacenada en disco compacto, por documento. 1.0 UMA
 
-XII. Constancia de no propiedad. 2.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-XIII. Constancia de propiedad por predio. 5.0 DSMGV
+XII. Constancia de no propiedad. 2.0 UMA
 
-XIV. Por levantamiento topográfico: incluye generación del polígono, georreferenzación de puntos con coordenadas métricas UTM, impreso en papel en medida de 60x90 centímetros, en la escala que se requiera:
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-a) Predio urbano lote tipo hasta 105 metros cuadrados. 10.0 DSMGV
+XIII. Constancia de propiedad por predio. 5.0 UMA
 
-(a) 106.00 metros cuadrados hasta 200.00 metros cuadrados. 11.0 DSMGV
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
 
-(b) 201.00 metros cuadrados hasta 300.00 metros cuadrados. 12.0 DSMGV
+XIV. Por levantamiento topográfico: incluye generación del polígono, georreferenciación de puntos con coordenadas métricas UTM, impreso en papel en medida de 60x90 centímetros, en la escala que se requiera:
 
-(c) 301.00 metros cuadrados hasta 600.00 metros cuadrados. 13.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-(d) 601.00 metros cuadrados en adelante. 14.0 DSMGV
+a) Predio urbano lote tipo hasta 105 metros cuadrados. 10.0 UMA
 
-b) Tratándose de predios rústicos, en transición con pendiente ascendente (+) o descendente (-) a partir del punto de origen del levantamiento, por hectárea o fracción:
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-(a) De 0 a 15 grados. 10.0 DSMGV
+(a) 106.00 metros cuadrados hasta 200.00 metros cuadrados. 11.0 UMA
 
-(b) Mayor a 15 grados y menor o igual a 45 grados. 11.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-(c) Mayor a 45 grados. 13.0 DSMGV
+(b) 201.00 metros cuadrados hasta 300.00 metros cuadrados. 12.0 UMA
 
-XV. Por levantamiento topográfico: incluye generación del polígono, georreferenzación de puntos con coordenadas métricas UTM, curvas de nivel a cada 10 metros, impreso en papel en medida de 60x80 centímetros, en la escala que se requiera:
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-a) Predio urbano lote tipo hasta 105 metros cuadrados. 20.0 DSMGV
+(c) 301.00 metros cuadrados hasta 600.00 metros cuadrados. 13.0 UMA
 
-(a) 106.00 metros cuadrados hasta 200.00 metros cuadrados. 22.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-(b) 201.00 metros cuadrados hasta 300.00 metros cuadrados. 24.0 DSMGV
-
-(c) 301.00 metros cuadrados hasta 600.00 metros cuadrados. 28.0 DSMGV
-
-(d) 601.00 metros cuadrados en adelante. 32.0 DSMGV
+(d) 601.00 metros cuadrados en adelante. 14.0 UMA
 
 b) Tratándose de predios rústicos, en transición con pendiente ascendente (+) o descendente (-) a partir del punto de origen del levantamiento, por hectárea o fracción:
 
-(a) De 0 a 15 grados. 20.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-(b) Mayor a 15 grados y menor o igual a 45 grados. 22.0 DSMGV
+(a) De 0 a 15 grados. 10.0 UMA
 
-(c) Mayor a 45 grados. 26.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+(b) Mayor a 15 grados y menor o igual a 45 grados. 11.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+(c) Mayor a 45 grados. 13.0 UMA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
+
+XV. Por levantamiento topográfico: incluye generación del polígono, georreferenciación de puntos con coordenadas métricas UTM, curvas de nivel a cada 10 metros, impreso en papel en medida de 60x80 centímetros, en la escala que se requiera:
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+a) Predio urbano lote tipo hasta 105 metros cuadrados. 20.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+(a) 106.00 metros cuadrados hasta 200.00 metros cuadrados. 22.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+(b) 201.00 metros cuadrados hasta 300.00 metros cuadrados. 24.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+(c) 301.00 metros cuadrados hasta 600.00 metros cuadrados. 28.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+(d) 601.00 metros cuadrados en adelante. 32.0 UMA
+
+b) Tratándose de predios rústicos, en transición con pendiente ascendente (+) o descendente (-) a partir del punto de origen del levantamiento, por hectárea o fracción:
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+(a) De 0 a 15 grados. 20.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+(b) Mayor a 15 grados y menor o igual a 45 grados. 22.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+(c) Mayor a 45 grados. 26.0 UMA
 
 XVI. Archivos de ortofotos o imagen satelital en formato de imagen satelital estándar, a las siguientes escalas:
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 a) 1:10,000 contenido: fotografía con precisión
 
 métrica, coordenadas UTM; por cobertura de
 
-20 kilómetros cuadrados. 20.0 DSMGV
+20 kilómetros cuadrados. 20.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 b) 1:1,000 contenido: fotografía con precisión
 
 métrica, coordenadas UTM; por cobertura de
 
-0.2 kilómetros cuadrados. 3.0 DSMGV
+0.2 kilómetros cuadrados. 3.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 XVII. Por cada punto terrestre georreferenciado
 
-en la cartografía. 3.0 DSMGV
+en la cartografía. 3.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 XVIII. Por elaboración de propuestas de
 
 zonificación y tablas de valores catastrales
 
-de suelo y construcción, por zona catastral. 30.0 DSMGV
+de suelo y construcción, por zona catastral. 30.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 XIX. Por consultoría aplicada a Sistemas
 
 de Información Geográfica, por hora y un
 
-máximo de 8 personas. 20.0 DSMGV
+máximo de 8 personas. 20.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 XX. Por coordinación de Programas de
 
-Actualización Catastral, por predio. 0.50 DSMGV
+Actualización Catastral, por predio. 0.50 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 XXI. Por la expedición anual de constancia
 
@@ -1565,39 +1843,53 @@ que acredite su inscripción como perito
 
 valuador o perito topógrafo en la Secretaría
 
-de Planeación y Finanzas. 14.0 DSMGV
+de Planeación y Finanzas. 14.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 XXII. Por la expedición anual de constancia
 
 que acredite su inscripción como dibujante técnico
 
-en la Secretaría de Planeación y Finanzas. 7.0 DSMGV
+en la Secretaría de Planeación y Finanzas. 7.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 XXIII. Por revisión y validación de avalúo comercial
 
 a peritos registrados ante la Secretaría de Planeación
 
-y Finanzas. 10.0 DSMGV
+y Finanzas. 10.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 XXIV. Por revisión y validación de avalúo catastral
 
 a peritos registrados ante la Secretaría de Planeación
 
-y Finanzas. 5.0 DSMGV
+y Finanzas. 5.0 UMA
 
-XXV. Por consulta de valor catastral de zona, por calle. 1.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+XXV. Por consulta de valor catastral de zona, por calle. 1.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 XXVI. Expedición de cada folio para realizar Avalúo
 
-Comercial de predio urbano. 2.0 DSMGV
+Comercial de predio urbano. 2.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 XXVII. Expedición de cada folio para realizar Avalúo
 
-Comercial de predio rústico. 1.0 DSMGV
+Comercial de predio rústico. 1.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 XXVIII. Expedición de cada folio para realizar Avalúo
 
-Catastral en predios rústicos y urbanos. 1.0 DSMGV
+Catastral en predios rústicos y urbanos. 1.0 UMA
 
 Cuando se trate de viviendas de interés social o popular, se cobrará en el primer caso el 25 por ciento; y en el segundo, el 50 por ciento del monto total de las contribuciones señaladas en las fracciones I y II del presente artículo.
 
@@ -1785,101 +2077,175 @@ I. Por la expedición de licencia para el funcionamiento de establecimiento cuyo
 
 a) En envase cerrado:
 
-(a) Abarrotes. 1,750.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-(b) Expendio. 2,000.0 DSMGV
+(a) Abarrotes. 1,750.0 UMA
 
-(c) Minisúper. 3,000.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-(d) Supermercado. 4,000.0 DSMGV
+(b) Expendio. 2,000.0 UMA
 
-(e) Ultramarino. 2,000.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-(f) Distribuidora. 5,000.0 DSMGV
+(c) Minisúper. 3,000.0 UMA
 
-(g) Tienda de Conveniencia. 4,000.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+(d) Supermercado. 4,000.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+(e) Ultramarino. 2,000.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+(f) Distribuidora. 5,000.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+(g) Tienda de Conveniencia. 4,000.0 UMA
 
 b) En envase abierto:
 
-(a) Bar. 3,500.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-(b) Bar con presentación de espectáculos. 6,500.0 DSMGV
+(a) Bar. 3,500.0 UMA
 
-(c) Casino. 9,000.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-(d) Centro de Espectáculos. 1,500.0 DSMGV
+(b) Bar con presentación de espectáculos. 6,500.0 UMA
 
-(e) Club deportivo. 4,500.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-(f) Desarrollo turístico y recreativo. 4,000.0 DSMGV
+(c) Casino. 9,000.0 UMA
 
-(g) Fábrica de bebidas alcohólicas. 10,000.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-(h) Discoteca. 5,500.0 DSMGV
+(d) Centro de Espectáculos. 1,500.0 UMA
 
-(i) Hoteles. 4,500.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-(j) Restaurante. 2,500.0 DSMGV
+(e) Club deportivo. 4,500.0 UMA
 
-(k) Restaurante-Bar. 4,000.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-(l) Salón de baile. 1,500.0 DSMGV
+(f) Desarrollo turístico y recreativo. 4,000.0 UMA
 
-(m) Productor de bebidas alcohólicas Artesanal. 1,500.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-(n) Moteles. 3,500.0 DSMGV
+(g) Fábrica de bebidas alcohólicas. 10,000.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+(h) Discoteca. 5,500.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+(i) Hoteles. 4,500.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+(j) Restaurante. 2,500.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+(k) Restaurante-Bar. 4,000.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+(l) Salón de baile. 1,500.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+(m) Productor de bebidas alcohólicas Artesanal. 1,500.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+(n) Moteles. 3,500.0 UMA
 
 Cuando la expedición de la licencia sea con vigencia de más de un año, a la cantidad que resulte de la expedición de la licencia con vigencia de un año, el pago de los derechos se incrementarán en un 15.0 por ciento por cada uno de los años subsecuentes, en cada uno de los giros que se señalan en esta fracción.
 
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
 II. Por el refrendo anual de la licencia, en
 
-cualquiera de los giros establecidos en la Ley. 300.0 DSMGV
+cualquiera de los giros establecidos en la Ley. 300.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 III. Por el cambio de domicilio en cualquiera de los
 
-giros establecidos en Ley. 600.0 DSMGV
+giros establecidos en Ley. 600.0 UMA
 
 IV. Permisos para el Funcionamiento Temporal:
 
-a) Permiso para stand en playa por día; 25.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+a) Permiso para stand en playa por día; 25.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 b) Permiso temporal en ejidos, ranchería, poblados,
 
-villas o localidades pequeñas, por día. 20.0 DSMGV
+villas o localidades pequeñas, por día. 20.0 UMA
 
 V. Permiso temporal en ferias por día:
 
-a) De 5 metros cuadrados hasta 50 metros cuadrados; 20.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-b) De 51 metros cuadrados a 100 metros cuadrados; 40.0 DSMGV
+a) De 5 metros cuadrados hasta 50 metros cuadrados; 20.0 UMA
 
-c) De 101 metros cuadrados en adelante; 70.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-VI. Permiso temporal en cabeceras municipales, por día. 50.0 DSMGV
+b) De 51 metros cuadrados a 100 metros cuadrados; 40.0 UMA
 
-VII. Permiso temporal para eventos masivos, por día. 250.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+c) De 101 metros cuadrados en adelante; 70.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+VI. Permiso temporal en cabeceras municipales, por día. 50.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+VII. Permiso temporal para eventos masivos, por día. 250.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 VIII. Permiso temporal para degustación
 
-de bebidas alcohólicas. 50.0 DSMGV
+de bebidas alcohólicas. 50.0 UMA
 
-IX. Autorización de ampliación de horario, por hora. 10.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-X. La reposición de la licencia, permiso o autorización. 50.0 DSMGV
+IX. Autorización de ampliación de horario, por hora. 10.0 UMA
 
-XI. Por cambio de giro. 600.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+X. La reposición de la licencia, permiso o autorización. 50.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+XI. Por cambio de giro. 600.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 XII. Autorización anual para venta de bebidas
 
 alcohólicas en horario extendido, en aquellos
 
-giros permitidos por la Ley de la materia. 600.0 DSMGV
+giros permitidos por la Ley de la materia. 600.0 UMA
 
-XIII. Por autorización de cambio de titular de una licencia. 1,500.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+XIII. Por autorización de cambio de titular de una licencia. 1,500.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 XIV. Por autorización de cambio de titular
 
-de una licencia por fallecimiento. 200.0 DSMGV
+de una licencia por fallecimiento. 200.0 UMA
 
 #### SECCIÓN SEGUNDA. INSTITUTO DE PROTECCIÓN CIVIL
 
@@ -1887,27 +2253,41 @@ de una licencia por fallecimiento. 200.0 DSMGV
 
 Por los servicios derivados, relacionados o prestados como consecuencia de la aplicación de la Ley que Regula las Casas de Empeño en el Estado de Tabasco, se causarán y pagarán los siguientes derechos:
 
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
 I. Por la expedición de licencia nueva de
 
-funcionamiento de cada establecimiento. 1,500.0 DSMGV
+funcionamiento de cada establecimiento. 1,500.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 II. Por la revalidación anual de la licencia
 
-de casas de empeño. 300.0 DSMGV
+de casas de empeño. 300.0 UMA
 
-III. Por el cambio de domicilio de cada establecimiento. 500.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+III. Por el cambio de domicilio de cada establecimiento. 500.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 IV. Por la revisión y validación anual de cada
 
-póliza de seguro otorgada por compañía autorizada. 50.0 DSMGV
+póliza de seguro otorgada por compañía autorizada. 50.0 UMA
 
-V. Por el Cambio de Titular de la Licencia. 700.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-VI. Por la reposición de la Licencia por extravío o robo. 50.0 DSMGV
+V. Por el Cambio de Titular de la Licencia. 700.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+VI. Por la reposición de la Licencia por extravío o robo. 50.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 VII. Por modificación de cada permiso de
 
-cada establecimiento. 100.0 DSMGV
+cada establecimiento. 100.0 UMA
 
 #### SECCIÓN TERCERA. CENTRAL DE ABASTO DE VILLAHERMOSA
 
@@ -1981,65 +2361,113 @@ Por los servicios relacionados con vehículos particulares, se causarán y pagar
 
 I. Por registro, emisión de tarjeta de circulación, calcomanía y otorgamiento de juego de placas:
 
-a) Vehículos. 15.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-b) Motocicletas, motocarro y motonetas. 3.0 DSMGV
+a) Vehículos. 15.0 UMA
 
-c) Bicicletas y Triciclos. 2.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+b) Motocicletas, motocarro y motonetas. 3.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+c) Bicicletas y Triciclos. 2.0 UMA
 
 II. Por reposición de juegos de placas, calcomanía y emisión de tarjeta de circulación:
 
-a) Vehículos. 10.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-b) Motocicletas, motocarro y motonetas. 3.0 DSMGV
+a) Vehículos. 10.0 UMA
 
-c) Bicicletas y Triciclos. 2.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+b) Motocicletas, motocarro y motonetas. 3.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+c) Bicicletas y Triciclos. 2.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 III. Por la modificación, reexpedición de tarjeta
 
 de circulación o recibo de pago de contribuciones
 
-vehiculares. 5.0 DSMGV
+vehiculares. 5.0 UMA
 
 IV. Por el refrendo anual de placa de circulación, tarjeta de circulación y calcomanía para:
 
-a) Vehículos. 10.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-b) Motocicletas, motocarro y motonetas. 3.0 DSMGV
+a) Vehículos. 10.0 UMA
 
-c) Bicicletas y Triciclos. 1.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+b) Motocicletas, motocarro y motonetas. 3.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+c) Bicicletas y Triciclos. 1.0 UMA
 
 V. Por canje de placas y emisión de documentos que amparen a la unidad para que circule legalmente en la vía pública:
 
-a) Vehículos. 10.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-b) Motocicletas, motocarro y motonetas. 3.0 DSMGV
+a) Vehículos. 10.0 UMA
 
-c) Bicicletas y Triciclos. 1.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+b) Motocicletas, motocarro y motonetas. 3.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+c) Bicicletas y Triciclos. 1.0 UMA
 
 VI. Por baja de vehículos de servicio particular por:
 
-a) Destrucción de Vehículo. 5.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-b) Cambio de propietario. 5.0 DSMGV
+a) Destrucción de Vehículo. 5.0 UMA
 
-c) Cambio de estado o municipio. 5.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-d) Robo de Vehículo. 5.0 DSMGV
+b) Cambio de propietario. 5.0 UMA
 
-e) Extravío de placas. 5.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-f) Robo de placas. 5.0 DSMGV
+c) Cambio de estado o municipio. 5.0 UMA
 
-g) Cambio de servicio. 5.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-h) Deterioro de placas. 5.0 DSMGV
+d) Robo de Vehículo. 5.0 UMA
 
-i) Devolución de unidad. 5.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-j) Pérdida total. 5.0 DSMGV
+e) Extravío de placas. 5.0 UMA
 
-k) Cambio de motor o chasis. 3.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+f) Robo de placas. 5.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+g) Cambio de servicio. 5.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+h) Deterioro de placas. 5.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+i) Devolución de unidad. 5.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+j) Pérdida total. 5.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+k) Cambio de motor o chasis. 3.0 UMA
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
@@ -2057,111 +2485,195 @@ De los servicios relacionados con el transporte público se causarán y pagarán
 
 I. Por registro, emisión de tarjeta de circulación, calcomanía y otorgamiento de juego de placas.
 
-a) Vehículos. 15.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-b) Motocarro. 3.0 DSMGV
+a) Vehículos. 15.0 UMA
 
-c) Remolque Tipo Góndola. 5.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-d) Equipo especial móvil de la industria del comercio. 15.0 DSMGV
+b) Motocarro. 3.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+c) Remolque Tipo Góndola. 5.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+d) Equipo especial móvil de la industria del comercio. 15.0 UMA
 
 II. Por reposición de juego de placas, calcomanía y emisión de tarjeta de circulación.
 
-a) Vehículos. 10.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-b) Motocarro. 3.0 DSMGV
+a) Vehículos. 10.0 UMA
 
-c) Remolque Tipo Góndola. 3.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-d) Equipo especial móvil de la industria del comercio. 15.0 DSMGV
+b) Motocarro. 3.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+c) Remolque Tipo Góndola. 3.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+d) Equipo especial móvil de la industria del comercio. 15.0 UMA
 
 III. Por la modificación y reexpedición de tarjeta de circulación por:
 
-a) Cambio de ruta. 5.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-b) Cambio de jurisdicción. 5.0 DSMGV
+a) Cambio de ruta. 5.0 UMA
 
-c) Ampliación de ruta. 5.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-d) Nueva Ruta. 5.0 DSMGV
+b) Cambio de jurisdicción. 5.0 UMA
 
-e) Reubicación de Terminal. 5.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-f) Cambio de Cromática. 5.0 DSMGV
+c) Ampliación de ruta. 5.0 UMA
 
-g) Cambio de Modalidad de Transporte Público. 5.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-h) Reubicación de base de inicio y cierre de ruta. 5.0 DSMGV
+d) Nueva Ruta. 5.0 UMA
 
-i) Cambio de nombre o razón social. 5.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-j) Fusión de Rutas. 5.0 DSMGV
+e) Reubicación de Terminal. 5.0 UMA
 
-k) Enrolamiento interno de vehículos 5.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-l) Modificación de Itinerario. 5.0 DSMGV
+f) Cambio de Cromática. 5.0 UMA
 
-m) Modificación de horario. 5.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-n) Otros. 5.0 DSMGV
+g) Cambio de Modalidad de Transporte Público. 5.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+h) Reubicación de base de inicio y cierre de ruta. 5.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+i) Cambio de nombre o razón social. 5.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+j) Fusión de Rutas. 5.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+k) Enrolamiento interno de vehículos 5.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+l) Modificación de Itinerario. 5.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+m) Modificación de horario. 5.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+n) Otros. 5.0 UMA
 
 IV. Por el refrendo anual de placa de circulación, tarjeta de circulación y calcomanía para vehículos de servicio público:
 
-a) Vehículo. 10.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-b) Motocarro. 2.0 DSMGV
+a) Vehículo. 10.0 UMA
 
-c) Remolque Tipo Góndola. 3.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-d) Equipo especial móvil de la industria del comercio. 15.0 DSMGV
+b) Motocarro. 2.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+c) Remolque Tipo Góndola. 3.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+d) Equipo especial móvil de la industria del comercio. 15.0 UMA
 
 V. Por canje de placas y emisión de documentos que amparen a la unidad para que circule legalmente en la vía pública:
 
-a) Vehículos. 10.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-b) Motocarro. 3.0 DSMGV
+a) Vehículos. 10.0 UMA
 
-c) Remolque Tipo Góndola. 3.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-d) Equipo especial móvil de la industria del comercio. 15.0 DSMGV
+b) Motocarro. 3.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+c) Remolque Tipo Góndola. 3.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+d) Equipo especial móvil de la industria del comercio. 15.0 UMA
 
 VI. Por baja de vehículos de servicio público:
 
-a) Sustitución de unidad. 5.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-b) Cambio de servicio. 5.0 DSMGV
+a) Sustitución de unidad. 5.0 UMA
 
-c) Extravío o robo de placas. 5.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-d) Robo de vehículo o pérdida total por siniestro. 5.0 DSMGV
+b) Cambio de servicio. 5.0 UMA
 
-e) Devolución de unidad. 5.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+c) Extravío o robo de placas. 5.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+d) Robo de vehículo o pérdida total por siniestro. 5.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+e) Devolución de unidad. 5.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 f) Cambio de propietario por sucesión de derechos
 
-o cesión de derechos. 5.0 DSMGV
+o cesión de derechos. 5.0 UMA
 
-g) Deterioro de placas. 5.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-h) Cambio de motor o chasis. 5.0 DSMGV
+g) Deterioro de placas. 5.0 UMA
 
-i) Motocarro. 5.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-j) Otros. 5.0 DSMGV
+h) Cambio de motor o chasis. 5.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+i) Motocarro. 5.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+j) Otros. 5.0 UMA
 
 ###### Artículo 87.
 
 Por los servicios relacionados con vehículos nuevos no enajenados se causarán y pagarán los derechos siguientes:
 
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
 I. Por la emisión, canje o reposición de juegos
 
 de placas de demostración para vehículos
 
-nuevos, incluyendo tarjeta de circulación. 10.0 DSMGV
+nuevos, incluyendo tarjeta de circulación. 10.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 II. Por el uso anual del sistema informático para
 
-la expedición de permisos para vehículos en traslado. 100.0 DSMGV
+la expedición de permisos para vehículos en traslado. 100.0 UMA
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
@@ -2185,17 +2697,29 @@ la expedición de permisos para vehículos en traslado. 100.0 DSMGV
 
 Por los servicios prestados por la Secretaría de Administración, relacionados con el uso diario de los bienes de dominio público del Estado, se causarán y pagarán los derechos siguientes:
 
-I. Gran Salón del Centro de Convenciones. 1191.68 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-II. Salón Framboyanes del Centro de Convenciones. 878.73 DSMGV
+I. Gran Salón del Centro de Convenciones. 1191.68 UMA
 
-III. Salón Tulipanes del Centro de Convenciones. 507.47 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-IV. Salón Bugambilias del Centro de Convenciones. 292.91 DSMGV
+II. Salón Framboyanes del Centro de Convenciones. 878.73 UMA
 
-V. Salón Girasoles del Centro de Convenciones. 292.91 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-VI. Salón Gardenias del Centro de Convenciones. 292.91 DSMGV
+III. Salón Tulipanes del Centro de Convenciones. 507.47 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+IV. Salón Bugambilias del Centro de Convenciones. 292.91 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+V. Salón Girasoles del Centro de Convenciones. 292.91 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+VI. Salón Gardenias del Centro de Convenciones. 292.91 UMA
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
@@ -2215,7 +2739,9 @@ X. Estacionamiento I, II y III del Parque Tabasco Dora María,
 
 por cada uno. 219.68 UMA
 
-XI. Casa de la Laguna 219.68 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+XI. Casa de la Laguna 219.68 UMA
 
 > <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
@@ -2265,27 +2791,37 @@ La Secretaría, con motivo de eventos de promoción turística o cultural que em
 
 Por los servicios prestados por el Servicio Estatal de Administración de Bienes Asegurados, órgano desconcentrado de la Secretaría de Administración relacionados con el resguardo de bienes inmuebles, muebles y numerarios, se causarán y pagarán los derechos siguientes:
 
-I. Por el servicio de devolución. 1.00 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+I. Por el servicio de devolución. 1.00 UMA
 
 II. Por bienes muebles:
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 a) Cobro diario, a partir de la recepción
 
-de la unidad motriz, por gastos de administración. 1.00 DSMGV
+de la unidad motriz, por gastos de administración. 1.00 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 b) Cobro diario, a partir de la recepción de los
 
-objetos asegurados, por gastos de administración. 1.00 DSMGV
+objetos asegurados, por gastos de administración. 1.00 UMA
 
 III. Por bienes inmuebles:
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 a) Cobro diario, a partir de la recepción
 
-del inmueble, por gastos de administración. 1.00 DSMGV
+del inmueble, por gastos de administración. 1.00 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 IV. Para el caso de aseguramiento de
 
-numerarios se cobrará por día. 1.00 DSMGV
+numerarios se cobrará por día. 1.00 UMA
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
@@ -2315,175 +2851,299 @@ Por los servicios prestados por la Secretaría de Comunicaciones y Transportes, 
 
 I. A solicitud de parte, por realizar los estudios y dictámenes técnicos para la realización de:
 
-a) Cambio de capacidad de unidad. 10.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-b) Cambio de tipo de servicio. 20.0 DSMGV
+a) Cambio de capacidad de unidad. 10.0 UMA
 
-c) Cambio de nombre o razón social. 10.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-d) Cambio de diseño de unidad del transporte público. 20.0 DSMGV
+b) Cambio de tipo de servicio. 20.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+c) Cambio de nombre o razón social. 10.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+d) Cambio de diseño de unidad del transporte público. 20.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 e) Enrolamiento de unidad entre dos o más
 
-agrupaciones en rutas autorizadas. 40.0 DSMGV
+agrupaciones en rutas autorizadas. 40.0 UMA
 
-f) Enrolamiento interno de unidad en rutas autorizadas. 40.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-g) Verificación de planos de ruta. 40.0 DSMGV
+f) Enrolamiento interno de unidad en rutas autorizadas. 40.0 UMA
 
-h) Ubicación o reubicación de terminal. 20.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+g) Verificación de planos de ruta. 40.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+h) Ubicación o reubicación de terminal. 20.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 i) Ubicación o reubicación de base de
 
-inicio y cierre de Circuito. 20.0 DSMGV
+inicio y cierre de Circuito. 20.0 UMA
 
-j) Ubicación y reubicación de sitio de taxi. 20.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-k) Ubicación o reubicación de paradero. 20.0 DSMGV
+j) Ubicación y reubicación de sitio de taxi. 20.0 UMA
 
-l) Servicio privado de Transporte. 20.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-m) Modificación de itinerario. 20.0 DSMGV
+k) Ubicación o reubicación de paradero. 20.0 UMA
 
-n) Modificación de horario. 20.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-o) Permiso especial de paso o permiso complementario. 40.0 DSMGV
+l) Servicio privado de Transporte. 20.0 UMA
 
-p) Nueva ruta. 18.68 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-q) Otros. 20.0 DSMGV
+m) Modificación de itinerario. 20.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+n) Modificación de horario. 20.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+o) Permiso especial de paso o permiso complementario. 40.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+p) Nueva ruta. 18.68 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+q) Otros. 20.0 UMA
 
 II. A solicitud de parte, para el otorgamiento de concesiones y permisos de transporte público:
 
 a) Por la autorización de nuevo título de concesión o sustitución de permiso de transporte público por título de concesión en términos de lo estipulado en la Ley de Transportes para el Estado de Tabasco vigente, por:
 
-(a) Vehículo. 60.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-(b) Motocarro. 25.0 DSMGV
+(a) Vehículo. 60.0 UMA
 
-b) Por la prórroga de la concesión, por vehículo. 40.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+(b) Motocarro. 25.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+b) Por la prórroga de la concesión, por vehículo. 40.0 UMA
 
 c) Por la prórroga del permiso de transporte público, por:
 
-(a) Vehículo. 40.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-(b) Motocarro. 40.0 DSMGV
+(a) Vehículo. 40.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+(b) Motocarro. 40.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 d) Permiso provisional para el servicio público de
 
-transporte, por cada vehículo, por mes. 10.0 DSMGV
+transporte, por cada vehículo, por mes. 10.0 UMA
 
 e) Por incremento de vehículo dentro de una concesión o nuevo permiso de transporte público, por vehículo para:
 
-(a) El servicio de transporte público individual. 240.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-(b) El servicio de transporte público colectivo. 120.0 DSMGV
+(a) El servicio de transporte público individual. 240.0 UMA
 
-(c) Permiso de servicio de transporte escolar. 120.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-(d) Permiso servicio de transporte de personal. 120.0 DSMGV
+(b) El servicio de transporte público colectivo. 120.0 UMA
 
-(e) Permiso servicio de transporte turístico. 120.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+(c) Permiso de servicio de transporte escolar. 120.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+(d) Permiso (sic) servicio de transporte de personal. 120.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+(e) Permiso (sic) servicio de transporte turístico. 120.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 (f) Servicio de Arrendamiento de vehículos
 
-con o sin chofer. 60.0 DSMGV
+con o sin chofer. 60.0 UMA
 
-(g) Permiso servicio de carga en general. 60.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-(h) Servicio de carga de materiales para construcción a granel con vehículo con capacidad de 7 hasta 14 metros cúbicos. 60.0 DSMGV
+(g) Permiso (sic) servicio de carga en general. 60.0 UMA
 
-(i) Servicio de carga de materiales para construcción a granel con vehículo con capacidad de 14 hasta 30 metros. cúbicos. 100.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-(j) Permiso servicio público de grúa o remolque,
+(h) Servicio de carga de materiales para construcción a granel con vehículo con capacidad de 7 hasta 14 metros cúbicos. 60.0 UMA
 
-por Unidad. 240.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-(k) Permiso de Depósito de Vehículos. 120.0 DSMGV
+(i) Servicio de carga de materiales para construcción a granel con vehículo con capacidad de 14 hasta 30 metros. cúbicos. 100.0 UMA
 
-(l) Permiso servicio de carga especializada. 120.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-(m) Permiso servicio de transporte mixto, por unidad. 120.0DSMGV
+(j) Permiso (sic) servicio público de grúa o remolque,
 
-(n) Permiso servicio de transporte con motocarro o
+por Unidad. 240.0 UMA
 
-vehículo mecánico sin motor. 80.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+(k) Permiso de Depósito de Vehículos. 120.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+(l) Permiso (sic) servicio de carga especializada. 120.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+(m) Permiso (sic) servicio de transporte mixto, por unidad. 120.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+(n) Permiso (sic) servicio de transporte con motocarro o
+
+vehículo mecánico sin motor. 80.0 UMA
 
 Para el otorgamiento de cualquiera de los permisos, autorizaciones y concesiones a que se refiere esta fracción será necesario que el interesado presente su inscripción en el Registro Federal de Contribuyentes.
 
 III. A solicitud de parte, para el otorgamiento de constancias y localización de información:
 
-a) Constancia de explotación de servicio público de transporte. 5.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-b) Constancia de no concesión. 5.0 DSMGV
+a) Constancia de explotación de servicio público de transporte. 5.0 UMA
 
-c) Constancia de no infracción. 5.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+b) Constancia de no concesión. 5.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+c) Constancia de no infracción. 5.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 d) Constancia de antigüedad de prestación del
 
-servicio público de transporte. 5.0 DSMGV
+servicio público de transporte. 5.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 e) Búsqueda de documentos inscritos en el Registro
 
-Estatal de Comunicaciones y Transportes. 5.0 DSMGV
+Estatal de Comunicaciones y Transportes. 5.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 f) Constancia de designación de beneficiarios para
 
-sucesión de derechos. 5.0 DSMGV
+sucesión de derechos. 5.0 UMA
 
-g) Constancia de historial de chofer. 10.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+g) Constancia de historial de chofer. 10.0 UMA
 
 IV. A solicitud de parte, para autorizaciones y trámites adicionados al Transporte Público:
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 a) Inscripción de lista de beneficiarios por
 
 persona física concesionaria o permisionario
 
-en caso de muerte, incapacidad o declaración de ausencia. 10.0 DSMGV
+en caso de muerte, incapacidad o declaración de ausencia. 10.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 b) Pre autorización de cesión de derechos de concesión
 
-o permiso de transporte público. 5.0 DSMGV
+o permiso de transporte público. 5.0 UMA
 
-c) Cesión de Derechos. 50.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-d) Sucesión de Derechos. 20.0 DSMGV
+c) Cesión de Derechos. 50.0 UMA
 
-e) Autorizaciones de ampliaciones, modificaciones y nuevas rutas. 100.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+d) Sucesión de Derechos. 20.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+e) Autorizaciones de ampliaciones, modificaciones y nuevas rutas. 100.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 f) Autorizaciones para cambio de ruta, cambio
 
-de tipo de servicio, y fusión de rutas. 60.0 DSMGV
+de tipo de servicio, y fusión de rutas. 60.0 UMA
 
-g) Autorizaciones para Ubicación o reubicación de terminal, cambio de diseño de vehículos de transporte público, ubicación o reubicación de base de inicio y cierre de circuito, ubicación o reubicación de paraderos, modificación de itinerario o modificación de horarios. 40.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+g) Autorizaciones para Ubicación o reubicación de terminal, cambio de diseño de vehículos de transporte público, ubicación o reubicación de base de inicio y cierre de circuito, ubicación o reubicación de paraderos, modificación de itinerario o modificación de horarios. 40.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 h) Autorizaciones para permiso especial de paso
 
-o permiso complementario. 80.0 DSMGV
+o permiso complementario. 80.0 UMA
 
-i) Actualización de oficios de autorización. 5.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+i) Actualización de oficios de autorización. 5.0 UMA
 
 j) Tarjeta de identificación Gafete:
 
-(a) Por 1 año. 8.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-(b) Por 2 años 15.0 DSMGV
+(a) Por 1 año. 8.0 UMA
 
-(c) Por 3 años 22.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-k) Permiso servicio privado de transporte, por año, por vehículo. 60.0 DSMGV
+(b) Por 2 años 15.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+(c) Por 3 años 22.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+k) Permiso (sic) servicio privado de transporte, por año, por vehículo. 60.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 l) Autorización de reprogramación para asistir
 
-a los cursos de capacitación. 2.0 DSMGV
+a los cursos de capacitación. 2.0 UMA
 
-m) Inscripción de Documentación al Padrón de Choferes. 2.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-n) Permiso especial de viaje. 5.0 DSMGV
+m) Inscripción de Documentación al Padrón de Choferes. 2.0 UMA
 
-o) Otros. 10.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-V. Corrección o cancelación de trámite. 5.0 DSMGV
+n) Permiso especial de viaje. 5.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+o) Otros. 10.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+V. Corrección o cancelación de trámite. 5.0 UMA
 
 ### CAPÍTULO DÉCIMO TERCERO. DE LOS SERVICIOS PRESTADOS POR LA COORDINACIÓN GENERAL DE ASUNTOS JURÍDICOS
 
@@ -2491,7 +3151,9 @@ V. Corrección o cancelación de trámite. 5.0 DSMGV
 
 Por los servicios prestados por la Secretaría de Desarrollo Económico y Turismo, se causarán y pagarán los siguientes derechos:
 
-I. Por la búsqueda y expedición de cada documento que contenga información relativa al Registro Estatal de Agentes Inmobiliarios. 4.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+I. Por la búsqueda y expedición de cada documento que contenga información relativa al Registro Estatal de Agentes Inmobiliarios. 4.0 UMA
 
 ### CAPÍTULO DÉCIMO CUARTO. ORGANISMOS DESCENTRALIZADOS
 
@@ -2503,9 +3165,13 @@ Por los Servicios prestados por la Secretaría de Ordenamiento Territorial y Obr
 
 I. Derechos por trámites en materia de impacto urbano:
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 a) Por la recepción, evaluación y resolución
 
-del Dictamen de Impacto Urbano General. 250.0 DSMGV
+del Dictamen de Impacto Urbano General. 250.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 b) Por la recepción, evaluación y resolución
 
@@ -2513,17 +3179,25 @@ del Dictamen de Impacto Urbano para
 
 instalaciones y estaciones de servicio
 
-de Gas Licuado de Petróleo y gasolinas. 300.0 DSMGV
+de Gas Licuado de Petróleo y gasolinas. 300.0 UMA
 
 II. Por el cobro de los trámites de Dictamen para la Convivencia y Forma de Penetración en el territorio:
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 a) Kilómetro base, desde la revisión
 
-hasta el dictamen. 700.0 DSMGV
+hasta el dictamen. 700.0 UMA
 
-b) Kilómetro suplementario sin edificaciones. 80.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-c) Kilómetro suplementario con edificaciones. 160.0 DSMGV
+b) Kilómetro suplementario sin edificaciones. 80.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+c) Kilómetro suplementario con edificaciones. 160.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 d) Baterías, localizaciones de pozos, estaciones de
 
@@ -2531,11 +3205,13 @@ compresión, centrales de almacenamiento y bombeo,
 
 centrales de recolección, áreas de trampas, cabezales de
 
-recolección y otros. 700.0 DSMGV
+recolección y otros. 700.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 e) Visita de campo adicional por causas
 
-imputables al solicitante. 300.0 DSMGV
+imputables al solicitante. 300.0 UMA
 
 ###### Artículo 96.
 
@@ -2659,11 +3335,13 @@ w) Pavimentadora con operador y 2 ayudantes
 
 en otro Estado, línea BG260, marca Barber Greene. 86.83 UMA
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 x) Cuando el equipo sea excedente de dimensiones,
 
 como norma preventiva, se cobrará un vehículo
 
-piloto guía. 17.83 DSMGV
+piloto guía. 17.83 UMA
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
@@ -2699,53 +3377,89 @@ ff) Maquila mezcla en caliente por metro cúbico ADM-SPL-110. 4.79 UMA
 
 II. Cuando las dependencias, órganos administrativos desconcentrados y entidades de la administración pública estatal, municipal o federal soliciten el uso diario de la maquinaria siguiente:
 
-a) Motoconformadora línea 120-B, marca Caterpillar. 25.68 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-b) Motoconformadora línea 140-B, marca Caterpillar. 26.45 DSMGV
+a) Motoconformadora línea 120-B, marca Caterpillar. 25.68 UMA
 
-c) Motoconformadora línea 120-G, marca Caterpillar. 27.24 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-d) Motoconformadora línea 12-G, marca Caterpillar. 27.24 DSMGV
+b) Motoconformadora línea 140-B, marca Caterpillar. 26.45 UMA
 
-e) Tractor de orugas línea D5-B, marca Caterpillar. 24.54 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+c) Motoconformadora línea 120-G, marca Caterpillar. 27.24 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+d) Motoconformadora línea 12-G, marca Caterpillar. 27.24 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+e) Tractor de orugas línea D5-B, marca Caterpillar. 24.54 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 f) Compactador Vibratorio línea CA-25-DD,
 
-marca Dinapac. 17.73 DSMGV
+marca Dinapac. 17.73 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 g) Compactador pata de cabra línea CP 433C,
 
-marca Caterpillar. 19.43 DSMGV
+marca Caterpillar. 19.43 UMA
 
-h) Duo Pactor / compactador neumático 15.05 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-i) Retroexcavadora línea 416 CAT, marca Caterpillar. 17.98 DSMGV
+h) Duo Pactor / compactador neumático 15.05 UMA
 
-j) Excavadora línea 320 C, marca Caterpillar. 37.26 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-k) Excavadora marca John Deere. 37.26 DSMGV
+i) Retroexcavadora línea 416 CAT, marca Caterpillar. 17.98 UMA
 
-l) Grúa Hiab TCG-039, marca Kenworth Kenmex 24.43 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+j) Excavadora línea 320 C, marca Caterpillar. 37.26 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+k) Excavadora marca John Deere. 37.26 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+l) Grúa Hiab TCG-039, marca Kenworth Kenmex 24.43 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 m) Camión de volteo 7 metros cúbicos, marca Dodge o
 
-Chevrolet. 15.13 DSMGV
+Chevrolet. 15.13 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 n) Camión de volteo 14 metros cúbicos,
 
-marca Freightliner. 30.26 DSMGV
+marca Freightliner. 30.26 UMA
 
-o) Pipa de agua de 10,000 litros, marca Chevrolet. 14.32 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+o) Pipa de agua de 10,000 litros, marca Chevrolet. 14.32 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 p) Petrolizadora Diesel capacidad 8,000 litros,
 
-marca Chevrolet. 27.42 DSMGV
+marca Chevrolet. 27.42 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 q) Planta mezcladora en frío línea GOM-10,
 
-marca GOMO. 16.34 DSMGV
+marca GOMO. 16.34 UMA
 
-r) Planta mezcladora en caliente, marca ADM SPL-110 205.04 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+r) Planta mezcladora en caliente, marca ADM SPL-110 205.04 UMA
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
@@ -2755,9 +3469,11 @@ s) Tractocamión con tanque, marca Freightliner. 25.14 UMA
 
 t) Tractocamión marca Freightliner. 14.76 UMA
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 u) Pavimentadora con operador y 2 ayudantes en el
 
-municipio de Centro, línea BG260, Barber Greene. 76.15 DSMGV
+municipio de Centro, línea BG260, Barber Greene. 76.15 UMA
 
 v) Pavimentadora con operador y 2 ayudantes en
 
@@ -2765,15 +3481,19 @@ cualquier otro municipio del Estado, línea BG260,
 
 marca Barber Greene. 82.01 DSMGV
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 w) Pavimentadora con operador y 2 ayudantes en otro
 
-Estado, línea BG260, marca Barber Greene. 87.87 DSMGV
+Estado, línea BG260, marca Barber Greene. 87.87 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 x) Cuando el equipo sea excedente de dimensiones,
 
 como norma preventiva, se cobrará un vehículo
 
-piloto guía. 17.83 DSMGV
+piloto guía. 17.83 UMA
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
@@ -2847,59 +3567,107 @@ Por los servicios relacionados con la Coordinación Estatal para la Regularizaci
 
 I. Por la expedición de Títulos de Propiedad:
 
-a) 105.00 metros cuadrados a 500.00 metros cuadrados. 5.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-b) 501.00 metros cuadrados a 1000.00 metros cuadrados. 7.0 DSMGV
+a) 105.00 metros cuadrados a 500.00 metros cuadrados. 5.0 UMA
 
-c) 1001.00 metros cuadrados a 1500.00 metros cuadrados. 10.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-d) 1501.00 metros cuadrados a 2000.00 metros cuadrados. 12.0 DSMGV
+b) 501.00 metros cuadrados a 1000.00 metros cuadrados. 7.0 UMA
 
-e) 2001.00 metros cuadrados a 2500.00 metros cuadrados. 14.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-f) 2501.00 metros cuadrados a 3000.00 metros cuadrados. 17.0 DSMGV
+c) 1001.00 metros cuadrados a 1500.00 metros cuadrados. 10.0 UMA
 
-g) 3001.00 metros cuadrados a 6000.00 metros cuadrados. 20.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-h) 6001.00 metros cuadrados a 1 hectárea. 22.0 DSMGV
+d) 1501.00 metros cuadrados a 2000.00 metros cuadrados. 12.0 UMA
 
-i) 1 hectárea a 5 hectáreas. 25.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-j) 5 hectáreas a 10 hectáreas. 27.0 DSMGV
+e) 2001.00 metros cuadrados a 2500.00 metros cuadrados. 14.0 UMA
 
-k) 10 hectáreas a 15 hectáreas. 30.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-l) 15 hectáreas a 20 hectáreas. 32.0 DSMGV
+f) 2501.00 metros cuadrados a 3000.00 metros cuadrados. 17.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+g) 3001.00 metros cuadrados a 6000.00 metros cuadrados. 20.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+h) 6001.00 metros cuadrados a 1 hectárea. 22.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+i) 1 hectárea a 5 hectáreas. 25.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+j) 5 hectáreas a 10 hectáreas. 27.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+k) 10 hectáreas a 15 hectáreas. 30.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+l) 15 hectáreas a 20 hectáreas. 32.0 UMA
 
 II. Por la asistencia técnica consistente en asesoría y servicio topográfico y cartográfico:
 
-a) 105.00 metros cuadrados a 500.00 metros cuadrados 3.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-b) 501.00 metros cuadrados a 1000.00 metros cuadrados. 5.0 DSMGV
+a) 105.00 metros cuadrados a 500.00 metros cuadrados 3.0 UMA
 
-c) 1001.00 metros cuadrados a 1500.00 metros cuadrados. 7.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-d) 1501.00 metros cuadrados a 2000.00 metros cuadrados. 9.0 DSMGV
+b) 501.00 metros cuadrados a 1000.00 metros cuadrados. 5.0 UMA
 
-e) 2001.00 metros cuadrados a 2500.00 metros cuadrados. 11.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-f) 2501.00 metros cuadrados a 3000.00 metros cuadrados. 13.0 DSMGV
+c) 1001.00 metros cuadrados a 1500.00 metros cuadrados. 7.0 UMA
 
-g) 3001.00 metros cuadrados a 6000.00 metros cuadrados. 15.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-h) 6001.00 metros cuadrados a 1 hectárea. 17.0 DSMGV
+d) 1501.00 metros cuadrados a 2000.00 metros cuadrados. 9.0 UMA
 
-i) 1 hectárea a 5 hectáreas. 40.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-j) 5 hectáreas a 10 hectáreas. 65.0 DSMGV
+e) 2001.00 metros cuadrados a 2500.00 metros cuadrados. 11.0 UMA
 
-k) 10 hectáreas a 15 hectáreas. 73.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-l) 15 hectáreas a 20 hectáreas. 81.0 DSMGV
+f) 2501.00 metros cuadrados a 3000.00 metros cuadrados. 13.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+g) 3001.00 metros cuadrados a 6000.00 metros cuadrados. 15.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+h) 6001.00 metros cuadrados a 1 hectárea. 17.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+i) 1 hectárea a 5 hectáreas. 40.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+j) 5 hectáreas a 10 hectáreas. 65.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+k) 10 hectáreas a 15 hectáreas. 73.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+l) 15 hectáreas a 20 hectáreas. 81.0 UMA
 
 ###### Artículo 98.
 
-Por los servicios relacionados con la Junta Estatal de Caminos, órgano desconcentrado de la Secretaría de Ordenamiento Territorial y Obras Públicas, se causarán y pagarán por concepto de permiso carretero 585.83 DSMGV.
+Por los servicios relacionados con la Junta Estatal de Caminos, órgano desconcentrado de la Secretaría de Ordenamiento Territorial y Obras Públicas, se causarán y pagarán por concepto de permiso carretero 585.83 UMA.
 
 ### CAPÍTULO DÉCIMO QUINTO. DE LOS SERVICIOS PRESTADOS POR LOS PODERES LEGISLATIVO Y JUDICIAL Y LOS ÓRGANOS AUTÓNOMOS
 
@@ -2913,13 +3681,21 @@ Por los servicios prestados por la Secretaría de Contraloría, se causarán y p
 
 I. Servicios relacionados con el padrón de contratistas del Estado:
 
-a) Inscripción 25.00 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-b) Revalidación anual. 20.00 DSMGV
+a) Inscripción 25.00 UMA
 
-c) Por modificación en clave o capital. 15.00 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-d) Por modificación menor. 10.00 DSMGV
+b) Revalidación anual. 20.00 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+c) Por modificación en clave o capital. 15.00 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+d) Por modificación menor. 10.00 UMA
 
 II. Servicios relacionados con la constancia de no inhabilitación:
 
@@ -2939,33 +3715,45 @@ Por los servicios prestados por la Secretaría de Energía, Recursos Naturales y
 
 I. Derechos por trámites en materia de impacto y riesgo ambiental:
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 a) Por la recepción, evaluación y resolución
 
 de la manifestación de impacto ambiental,
 
-modalidad general. 250.0 DSMGV
+modalidad general. 250.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 b) Por la recepción, evaluación y resolución
 
 de la manifestación de impacto ambiental,
 
-modalidad particular. 100.0 DSMGV
+modalidad particular. 100.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 c) Por la recepción, evaluación y resolución
 
 estudios de impacto ambiental, modalidad
 
-informe preventivo. 50.0 DSMGV
+informe preventivo. 50.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 d) Por la recepción, revisión y resolución de
 
-estudio de riesgo ambiental 120.0 DSMGV
+estudio de riesgo ambiental 120.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 e) Por la renovación y modificación de vigencia
 
 de resoluciones en materia de impacto y riesgo
 
-ambiental e informe preventivo. 100.0 DSMGV
+ambiental e informe preventivo. 100.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 f) Por cualquier modificación de resolutivos o
 
@@ -2975,11 +3763,15 @@ autorizaciones, o modificación de proyectos,
 
 en materia de impacto y riesgo ambiental e
 
-informe preventivo. 50.0 DSMGV
+informe preventivo. 50.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 g) Por la solicitud de exención de evaluación
 
-del impacto ambiental. 5.0 DSMGV
+del impacto ambiental. 5.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 h) Por la autorización o renovación de
 
@@ -2993,19 +3785,27 @@ ambiental, estudios de riesgo ambiental,
 
 evaluación de daños ambientales y
 
-programa de prevención de accidentes. 40.0 DSMGV
+programa de prevención de accidentes. 40.0 UMA
 
 II. Derechos por trámites en materia de aprovechamiento de recursos naturales de competencia del Estado.
 
-a) Por el aprovechamiento y extracción de recursos naturales de competencia estatal, material pétreo por metro cubico. 0.18 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-b) Por el aprovechamiento y extracción de recursos naturales por competencia estatal como arena, arcilla, suelo o cualquier otro material, por metro cúbico. 0.10 DSMGV
+a) Por el aprovechamiento y extracción de recursos naturales de competencia estatal, material pétreo por metro cubico. 0.18 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+b) Por el aprovechamiento y extracción de recursos naturales por competencia estatal como arena, arcilla, suelo o cualquier otro material, por metro cúbico. 0.10 UMA
 
 III. Derechos por trámites en materia de manejo integral de residuos de manejo especial.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 a) Por el registro como generador de residuos
 
-de manejo especial. 20.0 DSMGV
+de manejo especial. 20.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 b) Por la presencia de la Secretaría de Energía,
 
@@ -3015,59 +3815,103 @@ la realización del protocolo de pruebas
 
 tecnológicas para el tratamiento de residuos
 
-de manejo especial. 60.0 DSMGV
+de manejo especial. 60.0 UMA
 
-c) Por la disposición final de residuos de manejo especial en sitios de disposición final autorizada por tonelada. 0.3 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-d) Por la renovación de la vigencia de autorizaciones de residuos de manejo especial. 100.0 DSMGV
+c) Por la disposición final de residuos de manejo especial en sitios de disposición final autorizada por tonelada. 0.3 UMA
 
-e) Por la modificación de autorizaciones de residuos de manejo especial. 100.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-f) Por la transferencia de derechos y obligaciones de autorizaciones de residuos de manejo especial. 100.0 DSMGV
+d) Por la renovación de la vigencia de autorizaciones de residuos de manejo especial. 100.0 UMA
 
-g) Por la autorización para la prestación de servicios de manejos de residuos de manejo especial por más de 3 actividades. 500.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-h) Por la autorización para la recolección y acopio de residuos de manejo especial. 100.0 DSMGV
+e) Por la modificación de autorizaciones de residuos de manejo especial. 100.0 UMA
 
-i) Por la autorización de residuos de manejo especial. 150.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-j) Por la autorización para el transporte de residuos de manejo especial. 150.0 DSMGV
+f) Por la transferencia de derechos y obligaciones de autorizaciones de residuos de manejo especial. 100.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+g) Por la autorización para la prestación de servicios de manejos de residuos de manejo especial por más de 3 actividades. 500.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+h) Por la autorización para la recolección y acopio de residuos de manejo especial. 100.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+i) Por la autorización de residuos de manejo especial. 150.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+j) Por la autorización para el transporte de residuos de manejo especial. 150.0 UMA
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
 k) Por la autorización para ingresar al Estado residuos de manejo especial por cualquier medio de transporte. 150.0 UMA
 
-l) Por la autorización para la reutilización, reciclaje o utilización en procesos productivos de residuos de manejo especial. 100.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-m) Por la autorización para el almacenamiento temporal de residuos de manejo especial. 150.0 DSMGV
+l) Por la autorización para la reutilización, reciclaje o utilización en procesos productivos de residuos de manejo especial. 100.0 UMA
 
-n) Por la autorización para la utilización en tratamientos térmicos o incineración de residuos de manejo especial. 66.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-o) Por la operación de centros de acopio de residuos de manejo especial. 100.0 DSMGV
+m) Por la autorización para el almacenamiento temporal de residuos de manejo especial. 150.0 UMA
 
-p) Por el Registro de Plan de Manejo de residuos de manejo especial. 30.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-q) Por la autorización para el almacenamiento de residuos de manejo especial. 100.0 DSMGV
+n) Por la autorización para la utilización en tratamientos térmicos o incineración de residuos de manejo especial. 66.0 UMA
 
-r) Por la autorización para la disposición final de residuos de manejo especial. 200.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-s) Por la autorización para el tratamiento de residuos de manejo especial. 140.0 DSMGV
+o) Por la operación de centros de acopio de residuos de manejo especial. 100.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+p) Por el Registro de Plan de Manejo de residuos de manejo especial. 30.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+q) Por la autorización para el almacenamiento de residuos de manejo especial. 100.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+r) Por la autorización para la disposición final de residuos de manejo especial. 200.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+s) Por la autorización para el tratamiento de residuos de manejo especial. 140.0 UMA
 
 IV. Derechos por trámites en materia de prevención y control de la contaminación atmosférica:
 
-a) Por la recepción, evaluación y emisión de la licencia de funcionamiento en materia de emisiones a la atmósfera. 100.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-b) Por la actualización de la licencia de funcionamiento en materia de emisiones a la atmósfera. 70.0 DSMGV
+a) Por la recepción, evaluación y emisión de la licencia de funcionamiento en materia de emisiones a la atmósfera. 100.0 UMA
 
-c) Por la recepción de la cédula de operación anual –Cédula de Operación Anual o Cédula de Operación Anual de Registro de Emisiones y Transferencia de Contaminantes. 30.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+b) Por la actualización de la licencia de funcionamiento en materia de emisiones a la atmósfera. 70.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+c) Por la recepción de la cédula de operación anual -Cédula de Operación Anual o Cédula de Operación Anual de Registro de Emisiones y Transferencia de Contaminantes-. 30.0 UMA
 
 V. Derechos por actividades dentro de áreas naturales protegidas:
 
-a) Por el otorgamiento o expedición de concesiones para la exploración, explotación o aprovechamiento de recursos en las áreas naturales protegidas de competencia estatal. 500.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-b) Por el otorgamiento o expedición de licencias para la exploración, explotación o aprovechamiento de recursos en las áreas naturales protegidas de competencia estatal. 300.0 DSMGV
+a) Por el otorgamiento o expedición de concesiones para la exploración, explotación o aprovechamiento de recursos en las áreas naturales protegidas de competencia estatal. 500.0 UMA
 
-c) Por el otorgamiento o expedición de permisos para la exploración, explotación o aprovechamiento de recursos en las áreas naturales protegidas de competencia estatal. 100.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+b) Por el otorgamiento o expedición de licencias para la exploración, explotación o aprovechamiento de recursos en las áreas naturales protegidas de competencia estatal. 300.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+c) Por el otorgamiento o expedición de permisos para la exploración, explotación o aprovechamiento de recursos en las áreas naturales protegidas de competencia estatal. 100.0 UMA
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
@@ -3077,17 +3921,25 @@ VI. Por los servicios de monitoreo de una muestra realizada por el laboratorio a
 
 VII. Por los servicios de análisis de una muestra en el laboratorio ambiental. 15.0 UMA
 
-VIII. Por el servicio de opiniones técnicas de compatibilidad. 35.08 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+VIII. Por el servicio de opiniones técnicas de compatibilidad. 35.08 UMA
 
 ###### Artículo 101.
 
-Por los servicios relacionados con el Centro de Interpretación y Convivencia con la Naturaleza “Yumká” del Estado de Tabasco, órgano desconcentrado de la Secretaría de Energía, Recursos Naturales y Protección Ambiental, se causarán y pagarán previamente a la prestación del servicio los derechos siguientes:
+Por los servicios relacionados con el Centro de Interpretación y Convivencia con la Naturaleza "Yumká" del Estado de Tabasco, órgano desconcentrado de la Secretaría de Energía, Recursos Naturales y Protección Ambiental, se causarán y pagarán previamente a la prestación del servicio los derechos siguientes:
 
 I. Entrada general:
 
-a) Niño. 0.71 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-b) Adulto. 1.42 DSMGV
+a) Niño. 0.71 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+b) Adulto. 1.42 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 c) Adulto mayor con tarjeta
 
@@ -3095,7 +3947,7 @@ expedida por el Instituto
 
 Nacional de las Personas
 
-Adultas Mayores. 0.71 DSMGV
+Adultas Mayores. 0.71 UMA
 
 En relación a los servicios establecidos en el presente artículo, se otorgan los beneficios siguientes:
 
@@ -3113,13 +3965,15 @@ d) A los maestros, así como a los estudiantes siempre que éstos sean mayores d
 
 Para poder ser beneficiados con los descuentos otorgados en la presente fracción, los maestros y estudiantes deberán presentar copia del documento que los acredite como tales respectivamente.
 
-III. En apoyo al bienestar cultural y recreativo de los trabajadores de las dependencias, órganos desconcentrados, organismos descentralizados de la administración pública estatal, Poderes Legislativo y Judicial, así como los órganos autónomos y los Municipios, se les otorgará el 50 por ciento de descuento siempre que éstas suscriban convenios con el Centro de Interpretación y Convivencia con la Naturaleza “Yumká” del Estado de Tabasco.
+III. En apoyo al bienestar cultural y recreativo de los trabajadores de las dependencias, órganos desconcentrados, organismos descentralizados de la administración pública estatal, Poderes Legislativo y Judicial, así como los órganos autónomos y los Municipios, se les otorgará el 50 por ciento de descuento siempre que éstas suscriban convenios con el Centro de Interpretación y Convivencia con la Naturaleza "Yumká" del Estado de Tabasco.
 
-IV. A los maestros y estudiantes que a través del organismo descentralizado denominado Sistema para el Desarrollo Integral de la Familia del Estado de Tabasco, sean canalizadas al Centro de Interpretación y Convivencia con la Naturaleza “Yumká” del Estado de Tabasco en apoyo al bienestar familiar, recibirán el 80 por ciento de descuento, de igual forma se otorgará el 70 por ciento de descuento a los padres de familia de dichos estudiantes.
+IV. A los maestros y estudiantes que a través del organismo descentralizado denominado Sistema para el Desarrollo Integral de la Familia del Estado de Tabasco, sean canalizadas al Centro de Interpretación y Convivencia con la Naturaleza "Yumká" del Estado de Tabasco en apoyo al bienestar familiar, recibirán el 80 por ciento de descuento, de igual forma se otorgará el 70 por ciento de descuento a los padres de familia de dichos estudiantes.
 
 ###### Artículo 102.
 
 Por los servicios prestados por la Coordinación General de Asuntos Jurídicos, se causarán y pagarán los derechos siguientes:
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 I. Por el trámite de la anuencia expedida por
 
@@ -3127,13 +3981,15 @@ el Titular del Ejecutivo para el uso de
 
 sustancias explosivas, vinculada al permiso
 
-otorgado por la Secretaría de la Defensa Nacional. 75.0 DSMGV
+otorgado por la Secretaría de la Defensa Nacional. 75.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 II. Por el trámite de la anuencia expedida
 
 por el Titular del Ejecutivo para la venta
 
-de cartuchos de uso deportivo. 40.0 DSMGV
+de cartuchos de uso deportivo. 40.0 UMA
 
 ###### Artículo 103.
 
@@ -3203,251 +4059,463 @@ del Estado. 36.61 UMA
 
 Por los servicios relacionados con el Instituto de Protección Civil, organismo público descentralizado del Gobierno del Estado, se causarán y pagarán los derechos siguientes:
 
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
 I. Dictaminar y autorizar programas internos
 
-de protección civil. 50.0 DSMGV
+de protección civil. 50.0 UMA
 
-II. Dictaminar y autorizar programas de mantenimiento de instalaciones. 50.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-III. Dictaminar y autorizar planes de contingencia. 50.0 DSMGV
+II. Dictaminar y autorizar programas de mantenimiento de instalaciones. 50.0 UMA
 
-IV. Dictaminar y autorizar estudios y análisis de riesgo. 100.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-V. Dictaminar y autorizar peritajes de protección civil. 100.0 DSMGV
+III. Dictaminar y autorizar planes de contingencia. 50.0 UMA
 
-VI. Dictaminar y autorizar unidades internas de protección civil. 50.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-VII. Dictaminar y autorizar proyectos de factibilidad en materia de protección civil. 50.0 DSMGV
+IV. Dictaminar y autorizar estudios y análisis de riesgo. 100.0 UMA
 
-VIII. Dictamen técnico sobre predios de 11 a 200 metros cuadrados. 50.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-IX. Dictamen técnico sobre predios de 200.01 a 500 metros cuadrados. 75.0 DSMGV
+V. Dictaminar y autorizar peritajes de protección civil. 100.0 UMA
 
-X. Dictamen técnico sobre predios de 500.01 a 1000 metros cuadrados. 100.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-XI. Dictamen técnico sobre predios de 1,000.01 a 10,000 metros cuadros. 175.0 DSMGV
+VI. Dictaminar y autorizar unidades internas de protección civil. 50.0 UMA
 
-XII. Dictamen técnico sobre predios de 10,000.01 a 50,000 metros cuadrados. 400.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-XIII. Dictamen técnico sobre predios de 50,000.01 metros cuadrados en adelante. 450.0 DSMGV
+VII. Dictaminar y autorizar proyectos de factibilidad en materia de protección civil. 50.0 UMA
 
-XIV. Dictamen de seguridad e inspección en inmuebles de 0.01 a 20 metros cuadrados. 60.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-XV. Dictamen de seguridad e inspección en inmuebles de 20.01 a 50 metros cuadrados. 100.0 DSMGV
+VIII. Dictamen técnico sobre predios de 11 a 200 metros cuadrados. 50.0 UMA
 
-XVI. Dictamen de seguridad e inspección en inmuebles de 50.01 a 100.00 metros cuadrados. 125.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-XVII. Dictamen de seguridad e inspección en inmuebles de 100.01 a 200 metros cuadrados. 150.0 DSMGV
+IX. Dictamen técnico sobre predios de 200.01 a 500 metros cuadrados. 75.0 UMA
 
-XVIII. Dictamen de seguridad e inspección en inmuebles de 200.01 metros cuadrados en adelante. 250.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-XIX. Dictamen de riesgo en predios de 0.01 a 1.00 hectárea. 60.0 DSMGV
+X. Dictamen técnico sobre predios de 500.01 a 1000 metros cuadrados. 100.0 UMA
 
-XX. Dictamen de riesgo en predios de 1.01 a 5.00 hectáreas. 90.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-XXI. Dictamen de riesgo en predios de 5.01 a 10.00 hectáreas. 170.0 DSMGV
+XI. Dictamen técnico sobre predios de 1,000.01 a 10,000 metros cuadros. 175.0 UMA
 
-XXII. Dictamen de riesgo en predios de 10.01 a 20.00 hectáreas. 320.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-XXIII. Dictamen de riesgo en predios de 20.01 a 50.00 hectáreas. 770.0 DSMGV
+XII. Dictamen técnico sobre predios de 10,000.01 a 50,000 metros cuadrados. 400.0 UMA
 
-XXIV. Dictamen de riesgo en predios de 50.01 a más hectáreas. 920.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-XXV. Dictamen de riesgo químico. 300.0 DSMGV
+XIII. Dictamen técnico sobre predios de 50,000.01 metros cuadrados en adelante. 450.0 UMA
 
-XXVI. Resguardo de eventos socio-organizativos. 150.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-XXVII. Autorización de registros a organizaciones civiles, empresas capacitadoras e instructores independientes en materia de protección civil. 100.0 DSMGV
+XIV. Dictamen de seguridad e inspección en inmuebles de 0.01 a 20 metros cuadrados. 60.0 UMA
 
-XXVIII. Renovación registros a organizaciones civiles, empresas capacitadoras e instructores independientes en materia de protección civil. 100.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-XXIX. Autorización para certificación de medidas de seguridad en establecimientos públicos o privados de nueva creación o que se encuentren operando. 50.0 DSMGV
+XV. Dictamen de seguridad e inspección en inmuebles de 20.01 a 50 metros cuadrados. 100.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+XVI. Dictamen de seguridad e inspección en inmuebles de 50.01 a 100.00 metros cuadrados. 125.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+XVII. Dictamen de seguridad e inspección en inmuebles de 100.01 a 200 metros cuadrados. 150.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+XVIII. Dictamen de seguridad e inspección en inmuebles de 200.01 metros cuadrados en adelante. 250.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+XIX. Dictamen de riesgo en predios de 0.01 a 1.00 hectárea. 60.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+XX. Dictamen de riesgo en predios de 1.01 a 5.00 hectáreas. 90.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+XXI. Dictamen de riesgo en predios de 5.01 a 10.00 hectáreas. 170.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+XXII. Dictamen de riesgo en predios de 10.01 a 20.00 hectáreas. 320.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+XXIII. Dictamen de riesgo en predios de 20.01 a 50.00 hectáreas. 770.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+XXIV. Dictamen de riesgo en predios de 50.01 a más hectáreas. 920.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+XXV. Dictamen de riesgo químico. 300.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+XXVI. Resguardo de eventos socio-organizativos. 150.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+XXVII. Autorización de registros a organizaciones civiles, empresas capacitadoras e instructores independientes en materia de protección civil. 100.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+XXVIII. Renovación registros a organizaciones civiles, empresas capacitadoras e instructores independientes en materia de protección civil. 100.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+XXIX. Autorización para certificación de medidas de seguridad en establecimientos públicos o privados de nueva creación o que se encuentren operando. 50.0 UMA
 
 XXX. Cursos de capacitación, adiestramiento y actualización en materia de protección civil que se imparten al personal de los establecimientos de nueva creación o que se encuentren operando, sean estos públicos o privados, por persona:
 
-a) Curso básico de primeros auxilios. 8.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-b) Curso de prevención y control de incendios. 8.0 DSMGV
+a) Curso básico de primeros auxilios. 8.0 UMA
 
-c) Curso de simulacro de evacuación. 8.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-d) Curso de brigadas internas de protección civil. 8.0 DSMGV
+b) Curso de prevención y control de incendios. 8.0 UMA
 
-e) Curso de señales y avisos para la protección civil. 8.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+c) Curso de simulacro de evacuación. 8.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+d) Curso de brigadas internas de protección civil. 8.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+e) Curso de señales y avisos para la protección civil. 8.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 f) Curso de antecedentes del Sistema Nacional
 
-de Protección Civil. 8.0 DSMGV
+de Protección Civil. 8.0 UMA
 
-g) Curso de tipos de riesgos que afectan a la población. 8.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-h) Cursos especiales de protección civil 25.0 DSMGV
+g) Curso de tipos de riesgos que afectan a la población. 8.0 UMA
 
-XXXI. Emisión de copias certificadas 5.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-XXXII. Atención a incendios por derrame o volcadura de pipas con materiales peligrosos 500.0 DSMGV
+h) Cursos especiales de protección civil 25.0 UMA
 
-XXXIII. Atención a incendios en bodegas recicladoras, chatarreras y retenes. 500.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-XXXIV. Atención a incendios en centros comerciales como plazas, cines, auditorios y similares. 500.0 DSMGV
+XXXI. Emisión de copias certificadas 5.0 UMA
 
-XXXV. Poda de árbol en domicilio o establecimientos particulares. 30.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-XXXVI. Atención de fugas de gas a establecimientos comerciales o industriales. 20.0 DSMGV
+XXXII. Atención a incendios por derrame o volcadura de pipas con materiales peligrosos 500.0 UMA
 
-XXXVII. Atención de sistemas de contención de agua como cisternas y tinacos por cada uno de ellos. 15.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-XXXVIII. Resguardos de eventos acuáticos particulares como competencias de pesca deportiva, carreras de lanchas, eventos religiosos y similares. 100.0 DSMGV
+XXXIII. Atención a incendios en bodegas recicladoras, chatarreras y retenes. 500.0 UMA
 
-XXXIX. Retiro de espectaculares de las vías públicas, así como de propiedad privada. 10.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-XL. Recorridos y arrastres de lanchas y chalanes en medio acuático. 45.0 DSMGV
+XXXIV. Atención a incendios en centros comerciales como plazas, cines, auditorios y similares. 500.0 UMA
 
-XLI. Cursos de manejo de hidrantes en zonas industriales. 15.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-XLII. Rescate de vehículos particulares en aguas profundas. 20.0 DSMGV
+XXXV. Poda de árbol en domicilio o establecimientos particulares. 30.0 UMA
 
-XLIII. Combate de abejas africanizadas en predios particulares. 3.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-XLIV. Cursos para el manejo de motores fuera de borda. 30.0 DSMGV
+XXXVI. Atención de fugas de gas a establecimientos comerciales o industriales. 20.0 UMA
 
-XLV. Inspección para presurizar hidrantes en empresas o centros comerciales. 15.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-XLVI. Captura de animales domésticos en azoteas y áreas confinadas. 10.0 DSMGV
+XXXVII. Atención de sistemas de contención de agua como cisternas y tinacos por cada uno de ellos. 15.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+XXXVIII. Resguardos de eventos acuáticos particulares como competencias de pesca deportiva, carreras de lanchas, eventos religiosos y similares. 100.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+XXXIX. Retiro de espectaculares de las vías públicas, así como de propiedad privada. 10.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+XL. Recorridos y arrastres de lanchas y chalanes en medio acuático. 45.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+XLI. Cursos de manejo de hidrantes en zonas industriales. 15.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+XLII. Rescate de vehículos particulares en aguas profundas. 20.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+XLIII. Combate de abejas africanizadas en predios particulares. 3.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+XLIV. Cursos para el manejo de motores fuera de borda. 30.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+XLV. Inspección para presurizar hidrantes en empresas o centros comerciales. 15.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+XLVI. Captura de animales domésticos en azoteas y áreas confinadas. 10.0 UMA
 
 ###### Artículo 111.
 
 Por los servicios prestados por la Central de Abasto de Villahermosa, organismo público descentralizado del Gobierno del Estado, se causarán y pagarán los siguientes derechos:
 
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
 I. Por el uso anual de espacio para publicidad en
 
-espectacular A. 499.28 DSMGV
+espectacular A. 499.28 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 II. Por el uso anual de espacio para publicidad en
 
-espectacular B. 1155.49 DSMGV
+espectacular B. 1155.49 UMA
 
-III. Servicio de Báscula I. 0.5 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-IV. Servicio de Báscula II. 1.0 DSMGV
+III. Servicio de Báscula I. 0.5 UMA
 
-V. Servicio de Báscula III. 1.25 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-VI. Servicio de Báscula IV. 1.5 DSMGV
+IV. Servicio de Báscula II. 1.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+V. Servicio de Báscula III. 1.25 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+VI. Servicio de Báscula IV. 1.5 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 VII. Por el uso mensual del suelo en
 
-la zona de comercio de Tianguis. 2.86 DSMGV
+la zona de comercio de Tianguis. 2.86 UMA
 
-VIII. Servicio de mantenimiento I. 2.14 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-IX. Servicio de mantenimiento II. 3.57 DSMGV
+VIII. Servicio de mantenimiento I. 2.14 UMA
 
-X. Por la autorización de cesión de derechos a familiares. 570.61 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-XI. Por la autorización de cesión de derecho a terceros. 855.92 DSMGV
+IX. Servicio de mantenimiento II. 3.57 UMA
 
-XII. Por el derecho de peaje de pickup. 0.22 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-XIII. Por el derecho de peaje de socios del tianguis. 0.29 DSMGV
+X. Por la autorización de cesión de derechos a familiares. 570.61 UMA
 
-XIV. Por el derecho de peaje de camioneta de 3 toneladas. 0.36 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-XV. Por el derecho de peaje de camión rabón. 0.43 DSMGV
+XI. Por la autorización de cesión de derecho a terceros. 855.92 UMA
 
-XVI. Por el derecho de peaje de camión torton. 0.71 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-XVII. Por el derecho de peaje de tráiler. 0.86 DSMGV
+XII. Por el derecho de peaje de pickup. 0.22 UMA
 
-XVIII. Por el derecho de expedición de constancia de no adeudo. 5.00 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-XIX. Por el derecho de transbordo de tráiler a camioneta. 7.13 DSMGV
+XIII. Por el derecho de peaje de socios del tianguis. 0.29 UMA
 
-XX. Por el derecho de transbordo de torton a otro vehículo. 5.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-XXI. Por el derecho de uso diario del suelo para exhibición de autos. 7.13 DSMGV
+XIV. Por el derecho de peaje de camioneta de 3 toneladas. 0.36 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+XV. Por el derecho de peaje de camión rabón. 0.43 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+XVI. Por el derecho de peaje de camión torton. 0.71 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+XVII. Por el derecho de peaje de tráiler. 0.86 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+XVIII. Por el derecho de expedición de constancia de no adeudo. 5.00 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+XIX. Por el derecho de transbordo de tráiler a camioneta. 7.13 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+XX. Por el derecho de transbordo de torton a otro vehículo. 5.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+XXI. Por el derecho de uso diario del suelo para exhibición de autos. 7.13 UMA
 
 XXII. Por el uso mensual de los siguientes bienes:
 
-a) Bodega. 456.17 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-b) Comedor 1. 104.93 DSMGV
+a) Bodega. 456.17 UMA
 
-c) Comedor 2. 51.77 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-d) Local 1. 95.39 DSMGV
+b) Comedor 1. 104.93 UMA
 
-e) Local 2. 83.03 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-f) Local 3. 65.62 DSMGV
+c) Comedor 2. 51.77 UMA
 
-g) Sanitario 1. 109. 84 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-h) Sanitario 2. 63.72 DSMGV
+d) Local 1. 95.39 UMA
 
-i) Bodega 19. 324.10 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-j) Bodega 20. 324.10 DSMGV
+e) Local 2. 83.03 UMA
 
-k) Bodega 21. 285.30 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-l) Bodega 01 de la nave I. 293.86 DSMGV
+f) Local 3. 65.62 UMA
 
-m) Bodega 02 de la nave I. 293.86 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-n) Bodega 03 de la nave I. 285.30 DSMGV
+g) Sanitario 1. 109. 84 UMA
 
-o) Bodega 04 de la nave I. 293.86 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-p) Bodega 05 de la nave I. 285.30 DSMGV
+h) Sanitario 2. 63.72 UMA
 
-q) Bodega 10 de la nave I. 285.30 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-r) Bodega 17 de la nave I. 285.30 DSMGV
+i) Bodega 19. 324.10 UMA
 
-s) Bodega 20 de la nave I. 285.30 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-t) Bodega 24 de la nave I. 285.30 DSMGV
+j) Bodega 20. 324.10 UMA
 
-u) Bodega 34 de la nave I. 165.47 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-v) Bodega 35 de la nave I. 165.47 DSMGV
+k) Bodega 21. 285.30 UMA
 
-w) Local 01 de la nave I. 99.85 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-x) Comedor de la nave II. 109.84 DSMGV
+l) Bodega 01 de la nave I. 293.86 UMA
 
-y) Local 01 de la nave II. 107.30 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-z) Local 02 de la nave II. 171.68 DSMGV
+m) Bodega 02 de la nave I. 293.86 UMA
 
-aa) Local 03 de la nave II. 47.48 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-bb) Local 04 de la nave II. 57.12 DSMGV
+n) Bodega 03 de la nave I. 285.30 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+o) Bodega 04 de la nave I. 293.86 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+p) Bodega 05 de la nave I. 285.30 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+q) Bodega 10 de la nave I. 285.30 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+r) Bodega 17 de la nave I. 285.30 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+s) Bodega 20 de la nave I. 285.30 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+t) Bodega 24 de la nave I. 285.30 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+u) Bodega 34 de la nave I. 165.47 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+v) Bodega 35 de la nave I. 165.47 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+w) Local 01 de la nave I. 99.85 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+x) Comedor de la nave II. 109.84 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+y) Local 01 de la nave II. 107.30 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+z) Local 02 de la nave II. 171.68 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+aa) Local 03 de la nave II. 47.48 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+bb) Local 04 de la nave II. 57.12 UMA
 
 ###### Artículo 112.
 
 Por los servicios relacionados al Instituto de Vivienda de Tabasco, organismo público descentralizado del Gobierno del Estado, se causarán y pagarán los derechos siguientes:
 
-I. Por el trámite de Escrituración. 14.64 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+I. Por el trámite de Escrituración. 14.64 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 II. Por la cesión de derechos
 
 de propiedades, celebrada entre
 
-personas con vínculo familiar. 7.32 DSMGV
+personas con vínculo familiar. 7.32 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 III. Por la cesión de derechos
 
 de propiedades, celebrada entre
 
-personas sin vínculo familiar. 14.64 DSMGV
+personas sin vínculo familiar. 14.64 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 IV. Certificación a particulares de
 
 documentos relacionados con la
 
-venta de lotes y viviendas. 2.80 DSMGV
+venta de lotes y viviendas. 2.80 UMA
 
 ###### Artículo 113.
 
@@ -3455,31 +4523,55 @@ Por los servicios prestados por la Comisión Estatal de Agua y Saneamiento, orga
 
 I. Por la recaudación de los Derechos de Agua Doméstico:
 
-a) Popular. 0.27 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-b) Medio. 0.34 DSMGV
+a) Popular. 0.27 UMA
 
-c) Múltiple. 0.51 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-d) Residencial. 0.79 DSMGV
+b) Medio. 0.34 UMA
 
-e) Comercial. 1.73 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+c) Múltiple. 0.51 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+d) Residencial. 0.79 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+e) Comercial. 1.73 UMA
 
 II. Por la recaudación de los Derechos de Agua Comercial:
 
-a) Básico. 2.30 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-b) General. 4.0 DSMGV
+a) Básico. 2.30 UMA
 
-c) Especial. 15.88 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-d) Macro medición. 49.93 DSMGV
+b) General. 4.0 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+c) Especial. 15.88 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+d) Macro medición. 49.93 UMA
 
 III. Por la recaudación de los Derechos de Agua Industrial:
 
-a) Servicios. 15.88 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-b) Producción. 89.87 DSMGV
+a) Servicios. 15.88 UMA
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+b) Producción. 89.87 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 IV. Por la recaudación de
 
@@ -3487,7 +4579,7 @@ los Derechos de Agua en
 
 inmuebles destinados al
 
-servicio público. 9.57 DSMGV
+servicio público. 9.57 UMA
 
 ###### Artículo 114.
 
@@ -3501,39 +4593,67 @@ Por los servicios prestados por el Poder Judicial, relacionados con la impartici
 
 I. Por certificación expedida por jueces y magistrados, se pagarán:
 
-a. Hasta las primeras 10 hojas. 2.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-b. Por cada hoja subsecuente. 0.01 DSMGV
+a. Hasta las primeras 10 hojas. 2.0 UMA
 
-II. Otros no especificados en esta sección. 5.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+b. Por cada hoja subsecuente. 0.01 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+II. Otros no especificados en esta sección. 5.0 UMA
 
 ###### Artículo 116.
 
 Por los servicios prestados por la Fiscalía General del Estado, se causarán y pagarán los derechos siguientes:
 
-I. Por la expedición de certificado de legalidad de cada vehículo para el otorgamiento de concesión de servicio público de transporte. 20.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-II. Por la expedición de constancia de no sujeto a investigación. 3.0 DSMGV
+I. Por la expedición de certificado de legalidad de cada vehículo para el otorgamiento de concesión de servicio público de transporte. 20.0 UMA
 
-III. Por el rastreo y expedición a particulares de certificado de reporte de no robo de los vehículos que circulen en el Estado. 10.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+II. Por la expedición de constancia de no sujeto a investigación. 3.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+III. Por el rastreo y expedición a particulares de certificado de reporte de no robo de los vehículos que circulen en el Estado. 10.0 UMA
 
 IV. Por la certificación de diversos documentos que tenga facultad para emitir el Fiscal del Ministerio Público:
 
-a) Hasta las primeras 50 hojas. 2.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-b) Por cada hoja subsecuente. 0.05 DSMGV
+a) Hasta las primeras 50 hojas. 2.0 UMA
 
-V. Por los avalúos y peritajes solicitados por particulares, que no sirvan como criterios orientadores para el Fiscal del Ministerio Público dentro de una averiguación previa, carpeta de investigación o actas ministeriales. 20.0 DSMGV
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-VI. Por los avalúos y peritajes solicitados por autoridades administrativas o judiciales, dentro de un procedimiento a petición o en beneficio de particulares. 5.0 DSMGV
+b) Por cada hoja subsecuente. 0.05 UMA
 
-VII. Expedición de copias certificadas de la denuncia que genera el inicio de un acta circunstanciada por pérdida y extravío de documentos y objetos. 3.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-VIII. Por la certificación de causa de la muerte y causa que la produjo, siempre que no sirvan como criterios orientadores para el Fiscal del Ministerio Público dentro de una averiguación previa, carpeta de investigación o actas ministeriales. 2.0 DSMGV
+V. Por los avalúos y peritajes solicitados por particulares, que no sirvan como criterios orientadores para el Fiscal del Ministerio Público dentro de una averiguación previa, carpeta de investigación o actas ministeriales. 20.0 UMA
 
-IX. Por el resguardo diario de unidades motrices en instalaciones de la Fiscalía General del Estado. 1.0 DSMGV
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-X. Por el servicio de grúa que se presta como consecuencia de la localización y traslado de vehículos relacionados con algún delito o abandonados. 8.0 DSMGV
+VI. Por los avalúos y peritajes solicitados por autoridades administrativas o judiciales, dentro de un procedimiento a petición o en beneficio de particulares. 5.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+VII. Expedición de copias certificadas de la denuncia que genera el inicio de un acta circunstanciada por pérdida y extravío de documentos y objetos. 3.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+VIII. Por la certificación de causa de la muerte y causa que la produjo, siempre que no sirvan como criterios orientadores para el Fiscal del Ministerio Público dentro de una averiguación previa, carpeta de investigación o actas ministeriales. 2.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+IX. Por el resguardo diario de unidades motrices en instalaciones de la Fiscalía General del Estado. 1.0 UMA
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+X. Por el servicio de grúa que se presta como consecuencia de la localización y traslado de vehículos relacionados con algún delito o abandonados. 8.0 UMA
 
 ## TÍTULO CUARTO. DE LOS PRODUCTOS, APROVECHAMIENTOS Y PARTICIPACIONES
 
@@ -3619,9 +4739,11 @@ COORDINADOR GENERAL DE ASUNTOS JURÍDICOS
 
 > <small>[N. DE E. VÉASE ANEXO PRIMERO DE LA LEY DE HACIENDA DEL ESTADO DE TABASCO EN EL P.O. DE 30 DE DICIEMBRE DE 2015, PÁGINAS DE LA 88 A LA 136.]</small>
 
-> <small>[N. DE E. VÉANSE REFORMAS AL ANEXO PRIMERO, P.O. 24 DE DICIEMBRE DE 2016, PÁGINAS DE LA 54 A LA 65.]</small>
+> <small>[N. DE E. VÉANSE REFORMAS AL ANEXO PRIMERO, P.O. 24 DE DICIEMBRE DE 2016, PÁGINAS DE LA 54 A LA 65; 5 DE JULIO DE 2017, PÁGINAS DE LA 55 A LA 85.]</small>
 
 > <small>[N. DE E. VÉASE ANEXO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE TABASCO EN EL P.O. DE 30 DE DICIEMBRE DE 2015, PÁGINAS DE LA 137 A LA 351.]</small>
+
+> <small>[N. DE E. VÉANSE REFORMAS AL ANEXO SEGUNDO, P.O. 5 DE JULIO DE 2017, PÁGINAS DE LA 86 A LA 234.]</small>
 
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
@@ -3762,3 +4884,21 @@ DÉCIMO OCTAVO. Los recursos económicos, pagos y otros actos que se encuentren 
 DÉCIMO NOVENO. A partir de la fecha de entrada en vigor del presente Decreto, cuando en las leyes, reglamentos, acuerdos, decretos y demás disposiciones normativas se haga referencias al Instituto Registral del Estado de Tabasco, se entenderán hechas a la Secretaría de Planeación y Finanzas, a través de la Coordinación Catastral y Registral.
 
 VIGÉSIMO. Las Secretarías de Gobierno, de Administración, de Contraloría, la Coordinación General de Asuntos Jurídicos y las demás dependencias del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, proveerán lo necesario para garantizar la correcta aplicación del presente Decreto.
+
+P.O. 5 DE JULIO DE 2017.
+
+## N. DE E. TRANSITORIOS DEL DECRETO 089 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA DEL ESTADO DE TABASCO.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- El valor diario de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Estadística y Geografía, y publique en el Diario Oficial de la Federación, con fundamento en el artículo 26, apartado B, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
+
+TERCERO.- Quedan derogadas las disposiciones legales que se opongan al presente Decreto.
+
+CUARTO.- A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes, así como en cualquier disposición jurídica que emane de las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
+
+QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha de entrada en vigor de este Decreto, que utilicen el salario mínimo como referencia para cualquier efecto, no se modificarán por la Unidad de Medida y Actualización, salvo que las partes acuerden expresamente lo contrario. Lo anterior, sin perjuicio de que a partir de la entrada en vigor de este Decreto los contratantes puedan utilizar como índice o referencia a la Unidad de Medida y Actualización.
+
+SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
+
+Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
