@@ -4,7 +4,7 @@ identifier: "TAB-ley-general-de-transito-y-vialidad-del-estado-de-tabasco-50298"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-03-29"
-last_updated: "2015-12-23"
+last_updated: "2017-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50298&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY GENERAL DE TRÁNSITO Y VIALIDAD DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 29 de marzo de 2006.
 
@@ -43,7 +43,7 @@ DECRETO 134
 
 Se emite la Ley General de Tránsito y Vialidad del Estado de Tabasco:
 
-LEY GENERAL DE TRÁNSITO Y VIALlDAD DEL ESTADO DE TABASCO
+LEY GENERAL DE TRÁNSITO Y VIALIDAD DEL ESTADO DE TABASCO
 
 ## TÍTULO PRIMERO. ÁMBITOS DE APLICACIÓN Y COMPETENCIA DE AUTORIDADES
 
@@ -927,7 +927,9 @@ Constituyen faltas graves en materia de tránsito y vialidad las siguientes:
 
 I. Las violaciones genéricas y específicas a esta ley, su reglamento y demás legislación relativa aplicable;
 
-II. La falta de precaución y previsión personal que deriven en incidentes de tránsito que ocasiones (sic) daños materiales a bienes privados o públicos, de cuantía mayor al equivalente a doscientos días de salario mínimo, lesiones simples, graves o la muerte de otro conductor, pasajero y/o peatón. Los salarios mínimos serán los vigentes en la zona;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+II. La falta de precaución o de previsión personal, que deriven en incidentes de tránsito y ocasionen daños materiales a bienes privados o públicos, de cuantía mayor al equivalente a doscientas veces el valor diario de la Unidad de Medida y Actualización; o causen lesiones simples, graves o la muerte de otro conductor, pasajero y/o peatón;
 
 III. Las que significan obstrucción a la circulación, y por lo tanto, ataques a las vías generales de comunicación terrestre;
 
@@ -1025,7 +1027,7 @@ CUARTO. Los ciudadanos del Estado de Tabasco contarán con un año de gracia com
 
 DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO DEL ESTADO,
 
-EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO; A LOS DOS DÍAS DEL MES DE MARZO DEL AÑO DOS MIL SEIS, DIP. CARLOS MARIO OCAMPO CANO, PRESIDENTE; DIP. MIGUEL SALlM NAZUR RIVERA, SECRETARIO.- RÚBRICAS.
+EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO; A LOS DOS DÍAS DEL MES DE MARZO DEL AÑO DOS MIL SEIS, DIP. CARLOS MARIO OCAMPO CANO, PRESIDENTE; DIP. MIGUEL SALIM NAZUR RIVERA, SECRETARIO.- RÚBRICAS.
 
 Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
@@ -1084,3 +1086,21 @@ Se derogan las disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 El Ejecutivo del Estado deberá hacer las adecuaciones reglamentarias correspondientes en un periodo no mayor a 90 días a partir de la aprobación del presente decreto.
+
+P.O. 5 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 089 POR EL QUE "SE REFORMA EL ARTÍCULO 74, FRACCIÓN II, DE LA LEY GENERAL DE TRÁNSITO Y VIALIDAD DEL ESTADO DE TABASCO.”]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- El valor diario de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Estadística y Geografía, y publique en el Diario Oficial de la Federación, con fundamento en el artículo 26, apartado B, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
+
+TERCERO.- Quedan derogadas las disposiciones legales que se opongan al presente Decreto.
+
+CUARTO.- A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes, así como en cualquier disposición jurídica que emane de las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
+
+QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha de entrada en vigor de este Decreto, que utilicen el salario mínimo como referencia para cualquier efecto, no se modificarán por la Unidad de Medida y Actualización, salvo que las partes acuerden expresamente lo contrario. Lo anterior, sin perjuicio de que a partir de la entrada en vigor de este Decreto los contratantes puedan utilizar como índice o referencia a la Unidad de Medida y Actualización.
+
+SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
+
+Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
