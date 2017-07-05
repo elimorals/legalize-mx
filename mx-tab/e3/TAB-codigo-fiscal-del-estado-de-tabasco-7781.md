@@ -4,7 +4,7 @@ identifier: "TAB-codigo-fiscal-del-estado-de-tabasco-7781"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-09-25"
-last_updated: "2016-12-24"
+last_updated: "2017-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CÓDIGO FISCAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Tabasco, el sábado 25 de septiembre de 1993.
 
@@ -1963,11 +1963,11 @@ IV. Presentar declaraciones o solicitudes que sin derecho hayan dado lugar a una
 
 V. No presentar aviso de cambio de domicilio o presentarlo fuera de los plazos que señala este Código, salvo, cuando la presentación se efectúe en forma espontánea.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 69.
 
-A quien cometa las infracciones relacionadas con las obligaciones de presentar declaraciones, solicitudes o avisos, así como de pagar las contribuciones a las que se encuentren sujetos o de expedir las constancias a que las (sic) se refiere el artículo 68, se impondrán las multas siguientes:
+A quien cometa las infracciones relacionadas con las obligaciones de presentar declaraciones, solicitudes o avisos, así como de pagar las contribuciones a las que se encuentren sujetos o de expedir las constancias a que se refiere el artículo 68, se impondrán las multas siguientes:
 
 I. Para la señalada en la fracción I:
 
@@ -2049,9 +2049,9 @@ A quien cometa las infracciones señaladas en el artículo anterior, se impondr�
 
 I. De cuarenta a cien veces el valor diario de la Unidad de Medida y Actualización a las comprendidas en la fracción I; y
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-II. De veinte a doscientos (sic) veces el valor diario de la Unidad de Medida y Actualización a las establecidas en la fracción II.
+II. De veinte a doscientas veces el valor diario de la Unidad de Medida y Actualización a las establecidas en la fracción II.
 
 ###### Artículo 74.
 
@@ -2071,9 +2071,9 @@ A quien cometa las infracciones señaladas en el artículo 74, se impondrán las
 
 I. De veinte a ciento setenta y cinco veces el valor diario de la Unidad de Medida y Actualización a las comprendidas en la fracción I; y
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-II. De veinte a setecientos (sic) veces el valor diario de la Unidad de Medida y Actualización a las establecidas en las fracciones II y III.
+II. De veinte a setecientas veces el valor diario de la Unidad de Medida y Actualización a las establecidas en las fracciones II y III.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
@@ -2113,7 +2113,9 @@ Cuando el término medio aritmético de la pena privativa de libertad que corres
 
 En caso de que el procesado hubiere pagado o garantizado el interés fiscal, a entera satisfacción de la Secretaría de Planeación y Finanzas, la autoridad judicial, a solicitud del procesado, podrá reducir hasta en un veinte por ciento el monto de la caución.
 
-Para los efectos de este Código, se entiende por salario, el salario mínimo general diario de la zona económica correspondiente al Estado de Tabasco, vigente en el momento de la comisión del delito o de la infracción. Se consideran mercancías: los productos, artículos y cualquier otro bien, aún cuando las leyes los consideren inalienables o irreductibles a propiedad particular.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+Para los efectos de este Código, se entenderá por valor de la Unidad de Medida y Actualización (UMA), aquél vigente en el momento de la comisión del delito o de la infracción. Se consideran mercancías: los productos, artículos y cualquier otro bien, aun cuando las leyes los consideren inalienables o irreductibles a propiedad particular.
 
 ###### Artículo 78.
 
@@ -2693,7 +2695,9 @@ La declaratoria de prescripción de los créditos fiscales podrá realizarse de 
 
 Las Autoridades fiscales podrán cancelar créditos fiscales en las cuentas públicas, por incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios, dicha cancelación no libera de su pago.
 
-Se consideran créditos de cobro incosteable, aquéllos cuyo importe sea inferior o igual al equivalente en moneda nacional a 16 D.S.M.G.V en esta entidad; aquéllos cuyo importe sea inferior o igual al equivalente en moneda nacional a 1,611 D.S.M.G.V en esta entidad, cuyo costo de recuperación rebase el 75% del importe del crédito, así como aquéllos cuyo costo de recuperación sea igual o mayor a su importe.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+Se consideran créditos de cobro incosteable, aquéllos cuyo importe sea inferior o igual al equivalente en moneda nacional a 16 veces el valor diario de la Unidad de Medida y Actualización (UMA) en esta entidad; aquéllos cuyo importe sea inferior o igual al equivalente en moneda nacional a 1,611 veces el valor diario de la Unidad de Unidad de (sic) Medida y Actualización (UMA) en esta entidad, cuyo costo de recuperación rebase el 75% del importe del crédito, así como aquéllos cuyo costo de recuperación sea igual o mayor a su importe.
 
 Se consideran insolventes los deudores o los responsables solidarios cuando no tengan bienes embargables para cubrir el crédito o éstos ya se hubieran realizado, cuando no se puedan localizar o cuando hubieran fallecido sin dejar bienes que puedan ser objeto del procedimiento administrativo de ejecución.
 
@@ -3971,71 +3975,23 @@ DÉCIMO NOVENO. A partir de la fecha de entrada en vigor del presente Decreto, c
 
 VIGÉSIMO. Las Secretarías de Gobierno, de Administración, de Contraloría, la Coordinación General de Asuntos Jurídicos y las demás dependencias del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, proveerán lo necesario para garantizar la correcta aplicación del presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE COMERCIO Y DEL CÓDIGO PENAL FEDERAL”.]
+P.O. 5 DE JULIO DE 2017.
 
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIOS DEL DECRETO 089 POR EL QUE "SE REFORMAN: LOS ARTÍCULOS 69, PRIMER PÁRRAFO; 73, FRACCIÓN II; 75 SEGUNDA FRACCIÓN; 77, SÉPTIMO PÁRRAFO; Y 116 BIS, SEGUNDO PÁRRAFO; TODOS DEL CÓDIGO FISCAL DEL ESTADO DE TABASCO".]
 
-Segundo. La Secretaría expedirá, en un plazo de 360 días naturales, contados a partir de la entrada en vigor del presente Decreto, los lineamientos de carácter general que sean necesarios, a fin de establecer los procedimientos que hagan tecnológica y operativamente viable la implementación de las presentes reformas.
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
 
-D.O.F. 16 DE JUNIO DE 2016.
+SEGUNDO.- El valor diario de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Estadística y Geografía, y publique en el Diario Oficial de la Federación, con fundamento en el artículo 26, apartado B, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>[N. DE E. DEBIDO A SU IMPORTANCIA, SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LA LEY NACIONAL DE EJECUCIÓN PENAL, PUBLICADA EN LA EDICIÓN VESPERTINA DEL D.O.F. DE 16 DE JUNIO DE 2016.]</small>
+TERCERO.- Quedan derogadas las disposiciones legales que se opongan al presente Decreto.
 
-Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+CUARTO.- A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes, así como en cualquier disposición jurídica que emane de las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
 
-Para los efectos señalados en el párrafo tercero del artículo segundo transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 18 de junio de 2008, se declara que la presente legislación recoge el sistema procesal penal acusatorio y entrará en vigor de acuerdo a los artículos transitorios siguientes.
+QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha de entrada en vigor de este Decreto, que utilicen el salario mínimo como referencia para cualquier efecto, no se modificarán por la Unidad de Medida y Actualización, salvo que las partes acuerden expresamente lo contrario. Lo anterior, sin perjuicio de que a partir de la entrada en vigor de este Decreto los contratantes puedan utilizar como índice o referencia a la Unidad de Medida y Actualización.
 
-Segundo. Las fracciones III y X y el párrafo séptimo del artículo 10; los artículos 26 y 27, fracción II del artículo 28; fracción VII del artículo 108; los artículos 146, 147, 148, 149, 150 y 151 entrarán en vigor a partir de un año de la publicación de la presente Ley o al día siguiente de la publicación de la Declaratoria que al efecto emitan el Congreso de la Unión o las legislaturas de las entidades federativas en el ámbito de sus competencias, sin que pueda exceder del 30 de noviembre de 2017.
+SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
 
-Los artículos 31, 32, 33, 34, 35, 36, 59, 60, 61, 75, 77, 78, 80, 82, 83, 86, 91, 92, 93, 94, 95, 96, 97, 98, 99, 128, 136, 145, 153, 165, 166, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 192, 193, 194, 195, 200, 201, 202, 203, 204, 205, 206 y 207 entrarán en vigor a más tardar dos años después de la publicación de la presente Ley o al día siguiente de la publicación de la Declaratoria que al efecto emitan el Congreso de la Unión o las legislaturas de las entidades federativas en el ámbito de sus competencias, sin que pueda exceder del 30 de noviembre de 2018.
-
-En el orden Federal, el Congreso de la Unión emitirá la Declaratoria, previa solicitud conjunta del Consejo de Coordinación para la Implementación del Sistema de Justicia Penal o la instancia que, en su caso, quede encargada de coordinar la consolidación del Sistema de Justicia Penal, y la Conferencia Nacional del Sistema Penitenciario.
-
-En el caso de las entidades federativas, el órgano legislativo correspondiente, emitirá la Declaratoria previa solicitud de la autoridad encargada de la implementación del Sistema de Justicia Penal en cada una de ellas.
-
-En las entidades federativas donde esté vigente el nuevo Sistema de Justicia Penal, el órgano legislativo correspondiente deberá emitir dentro de los siguientes diez días el anexo a la Declaratoria para el inicio de vigencia de la presente Ley.
-
-Tercero. A partir de la entrada en vigor de la presente Ley, quedarán abrogadas la Ley que Establece las Normas Mínimas Sobre Readaptación Social de Sentenciados y las que regulan la ejecución de sanciones penales en las entidades federativas.
-
-Los procedimientos que se encuentren en trámite a la entrada en vigor del presente ordenamiento, continuarán con su sustanciación de conformidad con la legislación aplicable al inicio de los mismos, debiendo aplicar los mecanismos de control jurisdiccional previstos en la presente Ley, de acuerdo con el principio pro persona establecido en el artículo 1o. Constitucional.
-
-A partir de la entrada en vigor de la presente Ley, se derogan todas las disposiciones normativas que contravengan la misma.
-
-Cuarto. A partir de la entrada en vigor de la presente Ley, se derogan las normas contenidas en el Código Penal Federal y leyes especiales de la federación relativas a la remisión parcial de la pena, libertad preparatoria y sustitución de la pena durante la ejecución.
-
-Las entidades federativas deberán adecuar su legislación a efecto de derogar las normas relativas a la remisión parcial de la pena, libertad preparatoria y sustitución de la pena durante la ejecución, en el ámbito de sus respectivas competencias.
-
-Las entidades federativas deberán legislar en sus códigos penales sobre las responsabilidades de los supervisores de libertad.
-
-Quinto. En un plazo que no exceda de ciento ochenta días naturales después de publicado el presente Decreto, la Federación y las entidades federativas deberán publicar las reformas a sus leyes que resulten necesarias para la implementación de esta Ley, así como lo dispuesto en el artículo 92, fracción V en materia de seguridad social.
-
-A la entrada en vigor de la presente Ley, en aquellos lugares donde se determine su inicio, tanto en el ámbito federal como local, se deberá contar con las disposiciones administrativas de carácter general correspondientes, pudiendo preverse la homologación de criterios metodológicos, técnicos y procedimentales, para lo cual podrán coordinarse las autoridades involucradas.
-
-Sexto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para el Poder Judicial de la Federación, las dependencias y entidades de la Administración Pública Federal, se cubrirán con cargo a sus presupuestos para el presente ejercicio fiscal y los subsecuentes.
-
-Asimismo, las entidades federativas deberán realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a las obligaciones establecidas en este Decreto.
-
-Séptimo. El Consejo de la Judicatura Federal, el Instituto Federal de la Defensoría Pública, la Procuraduría General de la República, la Secretaría de Gobernación, la Secretaría del Trabajo y Previsión Social, la Secretaría de Economía, la Secretaría de Educación Pública, la Secretaría de Cultura, la Secretaría de Desarrollo Social, la Secretaría de Salud, la Comisión Nacional de Cultura Física y Deporte, la Comisión Ejecutiva de Atención a Víctimas y toda dependencia o entidad de la Administración Pública Federal y sus equivalentes en las entidades federativas a las que se confieran responsabilidades directas o indirectas en esta Ley, deberán prever en sus programas la adecuada y correcta implementación, y deberán establecer dentro de los proyectos de presupuesto respectivos, las partidas necesarias para atender la ejecución de esos programas, las obras de infraestructura, la contratación de personal, la capacitación y todos los demás requerimientos necesarios para cumplir los objetivos de la presente Ley.
-
-Octavo. El Consejo de Coordinación para la Implementación del Sistema de Justicia Penal constituirá un Comité para la Implementación, Evaluación y Seguimiento del Sistema de Ejecución Penal que estará presidido por la Conferencia Nacional del Sistema Penitenciario, el cual rendirá un informe semestral al Consejo de Coordinación. Lo anterior con la finalidad de coordinar, coadyuvar y apoyar a las autoridades federales y a las entidades federativas cuando así lo soliciten.
-
-La Autoridad Penitenciaria contará con un plazo de cuatro años, a partir de la publicación de este Decreto, para capacitar, adecuar los establecimientos penitenciarios y su capacidad instalada, equipar, desarrollar tecnologías de la información y comunicaciones, así como adecuar su estructura organizacional. Todo ello de conformidad con los planes de actividades registrados ante el Comité al que se refiere el párrafo anterior.
-
-El Consejo de Coordinación presentará anualmente ante las Cámaras del Congreso de la Unión, un informe anual del seguimiento a la implementación del Sistema de Ejecución Penal.
-
-Noveno. Dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, la Conferencia Nacional del Sistema Penitenciario deberá emitir un Acuerdo General en el que se establezca un régimen gradual por virtud del cual las Autoridades Penitenciarias, en el ámbito de su competencias, destinarán espacios especiales de reclusión, dentro de los establecimientos penitenciarios, para los sentenciados por los delitos de delincuencia organizada y secuestro, previstos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, así como aquellas personas privadas de la libertad que requieran medidas especiales de seguridad.
-
-Décimo. A partir de la entrada en vigor del presente Decreto, podrán acceder, de manera inmediata y sin tener que satisfacer los requisitos establecidos en las fracciones IV y VII del artículo 141 de la presente Ley, al beneficio de libertad anticipada todas las personas que hayan sido sentenciadas con penas privativas de la libertad por la comisión de los siguientes delitos:
-
-I. La comisión del delito de robo cuyo valor de lo robado no exceda de 80 veces la Unidad de Medida y Actualización, y cuando en la comisión del delito no haya mediado ningún tipo de violencia, o
-
-II. La comisión del delito de posesión sin fines de comercio o suministro, de Cannabis Sativa, Indica o Marihuana, contemplado en el artículo 477 de la Ley General de Salud, en cualquiera de sus formas, derivados o preparaciones, y cuando en la comisión del delito no haya mediado ningún tipo de violencia, ni la concurrencia de más delitos.
-
-Para tal efecto, la autoridad jurisdiccional requerirá a la Autoridad Penitenciaria el informe sobre el cumplimiento de los requisitos a que alude el párrafo anterior.
-
-Décimo Primero. Los procuradores o fiscales generales de la Federación y de las entidades federativas, en su ámbito de competencia respectivo, podrán solicitar ante la autoridad jurisdiccional competente, la aplicación de los beneficios de libertad anticipada referidos en el artículo transitorio décimo. Asimismo, las autoridades judiciales competentes sustanciarán el procedimiento respectivo de manera oficiosa o a solicitud de la persona a quien aplique dicho beneficio.
-
-Décimo Segundo. El Poder Judicial de la Federación y los poderes judiciales de las entidades federativas emitirán acuerdos generales, para determinar la competencia territorial de excepción de los juzgados de ejecución con la finalidad de conocer de los diversos asuntos en razón de seguridad y medidas especiales, en tanto entra en vigor la Ley; para lo cual podrá suscribir los convenios correspondientes con las instancias operadoras del Sistema de Justicia Penal.
+Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE EXPIDE LA LEY NACIONAL DE EJECUCIÓN PENAL; SE ADICIONAN LAS FRACCIONES XXXV, XXXVI Y XXXVII Y UN QUINTO PÁRRAFO, Y SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 225 DEL CÓDIGO PENAL FEDERAL”.]
 
