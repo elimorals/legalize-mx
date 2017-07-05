@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-hacienda-municipal-del-estado-de-tabasco-7808"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-30"
-last_updated: "2013-12-21"
+last_updated: "2017-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 30 de diciembre de 1992.
 
@@ -55,7 +55,7 @@ LEY DE HACIENDA MUNICIPAL DEL ESTADO DE TABASCO
 
 ###### Artículo 1.
 
-Esta Ley es de orden público e interés social y tiene (sic) por objeto regular los impuestos, derechos, productos, aprovechamientos, participaciones y aportaciones a favor de los municipios del Estado de Tabasco, establecidas por esta Ley y otras disposiciones fiscales aplicables.
+Esta Ley es de orden público e interés social y tienen (sic) por objeto regular los impuestos, derechos, productos, aprovechamientos, participaciones y aportaciones a favor de los municipios del Estado de Tabasco, establecidas por esta Ley y otras disposiciones fiscales aplicables.
 
 ###### Artículo 2.
 
@@ -649,9 +649,13 @@ Son aportaciones federales que corresponden a los Municipios, los recursos, dist
 
 Para los efectos de esta Ley se considera:
 
-I. Vivienda de interés social: aquélla cuyo valor al término de su edificación no exceda del monto que resulte de multiplicar por trescientos, el salario mínimo general diario vigente en el Estado, elevado a treinta días.
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-II. Vivienda popular: aquélla cuyo valor al término de su edificación no exceda del monto que resulte de multiplicar por trescientos cincuenta, el salario mínimo general diario vigente en el Estado, elevado a treinta días.
+I. Vivienda de interés social: aquélla cuyo valor al término de su edificación no exceda del monto que resulte de multiplicar por trescientos, el valor diario de la Unidad de Medida y Actualización, elevado a treinta días.
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+II. Vivienda popular: aquélla cuyo valor al término de su edificación no exceda del monto que resulte de multiplicar por trescientos cincuenta, el valor diario de la Unidad de Medida y Actualización, elevado a treinta días.
 
 ###### Artículo 79.
 
@@ -665,13 +669,17 @@ Todos los ingresos públicos municipales se destinarán a cubrir los gastos auto
 
 Queda prohibida la celebración de igualas o convenios para el cobro de impuestos o derechos, así como el remate o arrendamiento de esas contribuciones, salvo los casos que estudie el Cabildo o Concejo Municipal Municipal (sic) y expresamente los autorice el Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### Artículo 82.
 
-Las tarifas establecidas que se causan en días del salario mínimo vigente en el Estado, se refieren en esta Ley con las siglas, "d.s.m.g.v."
+Las tarifas establecidas que se causan en valor diario de la Unidad de Medida y Actualización, se refieren en esta Ley con las siglas, "v.d.u.m.a."
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 83.
 
-Los montos de pagos de las contribuciones señaladas en esta Ley, se pagarán en nuevos pesos.
+Los montos de pagos de las contribuciones señaladas en esta Ley, se pagarán en pesos.
 
 ###### Artículo 84.
 
@@ -825,11 +833,13 @@ En el caso de subdivisión o fusión de predios, el impuesto se causará a parti
 
 Para el predio urbano registrado en el catastro como no edificado, o cuya construcción o barda esté en condiciones ruinosas, será sujeto a una sobretasa que variará de 0 a 30%, de acuerdo a la propuesta del Cabildo o Concejo Municipal aprobada por el Congreso del Estado. Se exceptuarán del porcentaje anterior, a los predios determinados como reserva de la Federación, del Estado y de los Municipios.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### Artículo 98.
 
-El impuesto anual mínimo sobre la propiedad raíz rústica no será inferior a tres salarios mínimos diarios vigentes, y para la urbana a cuatro salarios mínimos diarios vigentes en el Estado.
+El impuesto anual mínimo sobre la propiedad raíz rústica no será inferior a tres veces el valor diario de la Unidad de Medida y Actualización, y para la urbana, a cuatro veces el valor diario de la Unidad de Medida y Actualización.
 
-Los Cabildos o Concejos Municipales podrán determinar impuestos mínimos por zona catastral que ceberán (sic) ser aprobados por el Congreso del Estado.
+Los Cabildos o Concejos Municipales podrán determinar impuestos mínimos por zona catastral que deberán ser aprobados por el Congreso del Estado.
 
 ###### Artículo 99.
 
@@ -981,7 +991,9 @@ II.- El valor del inmueble determinado mediante el avalúo que practique perito 
 
 III.- El Valor Catastral.
 
-Tratándose de viviendas de interés social y popular, la base gravable del impuesto a que se refiere el párrafo anterior, será el valor del inmueble después de reducirlo en 12 veces el salario mínimo general vigente, elevado al año en el Estado.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+Tratándose de viviendas de interés social y popular, la base gravable del impuesto a que se refiere el párrafo anterior, será el valor del inmueble después de reducirlo en 12 veces el valor diario de la Unidad de Medida y Actualización, elevado al año en el Estado.
 
 El impuesto se calculará aplicando a la base gravable la tasa que establece el artículo quinto transitorio de esta ley.
 
@@ -1011,9 +1023,11 @@ En caso de que la Dirección de Finanzas o Tesorería Municipal no acepte fundad
 
 Dichos avalúos deberán comprender tanto el terreno como las construcciones y demás accesorios y deberá ser lo más apegado al valor comercial aún cuando se traslade el dominio únicamente del terreno, o bien solamente de las construcciones o accesorios pues el impuesto se causará sobre la suma de valores del terreno y de las construcciones o accesorios en su caso, salvo que se pruebe que adquirente construyó con fondos propios las construcciones o que las adquirió con anterioridad habiendo cubierto el impuesto respectivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### Artículo 112.
 
-Para efectuar la reducción a que se refiere el Artículo 110, se aplicará el salario mínimo correspondiente al año del calendario en que se esté en los supuestos de pago del impuesto a que se refiere el Artículo 108 de esta Ley.
+Para efectuar la reducción a que se refiere el Artículo 110, se aplicará el valor diario de la Unidad de Medida y Actualización correspondiente al año del calendario en que se esté en los supuestos de pago del impuesto a que se refiere el Artículo 108 de esta Ley.
 
 La reducción que se señala en el párrafo que antecede, se realizará conforme a lo siguiente:
 
@@ -1357,29 +1371,41 @@ Por la expedición de títulos de terrenos Municipales, se pagarán los siguient
 
 Las personas físicas o jurídicas colectivas que lleven a cabo los actos enumerados en este artículo, pagarán este servicio de acuerdo a la siguiente tarifa:
 
-I.- Búsqueda de cualquier documento en
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-Los Archivos Municipales: 2 d.s.m.g.v.
+I.- Búsqueda de cualquier documento en los Archivos Municipales: 2 v.d.u.m.a.
 
 II.- Certificados y Copias Certificadas:
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 A) Por certificación de registro de fierros y señales
 
-para marcar ganado y madera: 3 d.s.m.g.v.
+para marcar ganado y madera: 3 v.d.u.m.a.
 
-B) Certificación del número oficial y alineamiento: 2 d.s.m.g.v.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-C) Por certificación de acta de nacimiento: 1 d.s.m.g.v.
+B) Certificación del número oficial y alineamiento: 2 v.d.u.m.a.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+C) Por certificación de acta de nacimiento: 1 v.d.u.m.a.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 D) Por certificación de acta de defunción, supervivencia,
 
 matrimonio, firmas y constancias de actos positivos o
 
-negativos, en cada caso se pagará: 2 d.s.m.g.v.
+negativos, en cada caso se pagará: 2 v.d.u.m.a.
 
-E) Por certificación de acta de divorcio: 5 d.s.m.g.v.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-F) Por certificación de tipo de predio: 8 d.s.m.g.v.
+E) Por certificación de acta de divorcio: 5 v.d.u.m.a.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+F) Por certificación de tipo de predio: 8 v.d.u.m.a.
 
 No causarán derechos, las copias certificadas y certificados que se expidan por mandato judicial o en los que esté interesado el Municipio, el Estado o la Federación.
 
@@ -1387,51 +1413,69 @@ Las Copias de Actas registradas, deberán contener la anotación de que fueron c
 
 III.- Actos e Inscripciones en el Registro Civil:
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 A) Por cada acto de asentamiento o exposición,
 
-reconocimiento, designación, y supervivencia
+reconocimiento, designación, y supervivencia celebrado a domicilio: 10 v.d.u.m.a.
 
-celebrado a domicilio: 10 d.s.m.g.v.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 B) Por cada acto de reconocimiento celebrado
 
-en las oficinas del Registro Civil: 1 d.s.m.g.v.
+en las oficinas del Registro Civil: 1 v.d.u.m.a.
 
-C) Por cada acto de reconocimiento, de supervivencia,
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-por emancipación, cuando el incapacitado tenga
+C) Por cada acto de reconocimiento, de supervivencia, por
 
-bienes y entra a administrarlos, y por acta de tutela,
+emancipación, cuando el incapacitado tenga bienes y entra a
 
-cuando el interesado tenga bienes: 5 d.s.m.g.v.
+administrarlos, y por acta de tutela, cuando el interesado tenga bienes: 5 v.d.u.m.a.
 
-D) Por celebración de matrimonio efectuado a
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-domicilio en horas hábiles: 30 d.s.m.g.v.
+D) Por celebración de matrimonio efectuado a domicilio
 
-E) Por celebración de matrimonio efectuado a domicilio
+en horas hábiles: 30 v.d.u.m.a.
 
-en horas extraordinarias: 50 d.s.m.g.v.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-F) Por celebración de matrimonio efectuado en el
+E) Por celebración de matrimonio efectuado
 
-Registro Civil en horas hábiles: 4 d.s.m.g.v.
+a domicilio en horas extraordinarias: 50 v.d.u.m.a.
 
-G) Por celebración de matrimonio efectuado en
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-el Registro Civil en horas extraordinarias: 10 d.s.m.g.v.
+F) Por celebración de matrimonio efectuado
 
-H) Por acto de divorcio administrativo: 50 d.s.m.g.v.
+en el Registro Civil en horas hábiles: 4 v.d.u.m.a.
 
-I) Por disolución de sociedad conyugal, aceptando
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-el régimen de separación de bienes: 60 d.s.m.g.v.
+G) Por celebración de matrimonio efectuado en el
 
-Cuando los actos del Registro Civil deban verificarse fuera de la población en que resida la oficina, además de los pagos correspondientes a las cuotas señaladas, cobrará la Dirección de Finanzas o Tesorería Municipal un derecho adicional equivalente a 0.4 días de salario mínimo diario general vigente en el Estado, por kilómetro de distancia.
+Registro Civil en. horas extraordinarias: 10 v.d.u.m.a.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+H) Por acto de divorcio administrativo: 50 v.d.u.m.a.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+I) Por disolución de sociedad conyugal,
+
+aceptando el régimen de separación de bienes: 60 v.d.u.m.a.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+Cuando los actos del Registro Civil deban verificarse fuera de la población en que resida la oficina, además de los pagos correspondientes a las cuotas señaladas, cobrará la Dirección de Finanzas o Tesorería Municipal un derecho adicional equivalente a 0.4 veces el valor diario de la Unidad de Medida y Actualización por kilómetro de distancia.
 
 La Dirección de Finanzas o Tesorería Municipal mandará a imprimir las formas especiales de solicitud de matrimonio, que serán llenadas gratuitamente por los empleados del Registro Civil.
 
-Por registro extemporáneo de las personas, conforme al Código Civil del Estado y el Reglamento del Registro Civil, pagarán un derecho por un monto equivalente a 5 días de salario mínimo diario vigente en el Estado.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+Por registro extemporáneo de las personas, conforme al Código Civil del Estado y el Reglamento del Registro Civil, pagarán un derecho por un monto equivalente a 5 veces el valor diario de la Unidad de Medida y Actualización.
 
 Queda estrictamente prohibido a los oficiales y empleados del Registro Civil, efectuar cobros de derechos, pues éstos se deberán cubrir en la Dirección de Finanzas o Tesorería Municipal.
 
@@ -1766,3 +1810,21 @@ P.O. 21 DE DICIEMBRE DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones aplicables que se opongan al presente ordenamiento.
+
+P.O. 5 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 089 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 78 FRACCIONES I Y II; 82; 83; 98; 110, SEGUNDO PÁRRAFO; 112, PRIMER PÁRRAFO; 133, FRACCIONES I, II INCISO A), B), C), D), E), F), Y III, PRIMER PÁRRAFO, INCISOS A), B), C), D), E), F), G), H), H), E I), Y LOS PÁRRAFOS SEGUNDO Y CUARTO, TODOS DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE TABASCO".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- El valor diario de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Estadística y Geografía, y publique en el Diario Oficial de la Federación, con fundamento en el artículo 26, apartado B, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
+
+TERCERO.- Quedan derogadas las disposiciones legales que se opongan al presente Decreto.
+
+CUARTO.- A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes, así como en cualquier disposición jurídica que emane de las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
+
+QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha de entrada en vigor de este Decreto, que utilicen el salario mínimo como referencia para cualquier efecto, no se modificarán por la Unidad de Medida y Actualización, salvo que las partes acuerden expresamente lo contrario. Lo anterior, sin perjuicio de que a partir de la entrada en vigor de este Decreto los contratantes puedan utilizar como índice o referencia a la Unidad de Medida y Actualización.
+
+SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
+
+Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
