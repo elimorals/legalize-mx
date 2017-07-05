@@ -4,7 +4,7 @@ identifier: "TAB-codigo-penal-para-el-estado-de-tabasco-12339"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-05"
-last_updated: "2016-12-07"
+last_updated: "2017-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CÓDIGO PENAL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 5 de febrero de 1997.
 
@@ -505,11 +505,11 @@ La prohibición de concurrencia o de residencia consiste en impedir al sentencia
 
 ### CAPITULO VIII. MULTA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 24.
 
-La multa consiste en el pago de una cantidad de dinero al Estado que se fijará en días multa. El mínimo será de veinte y el máximo de cinco mil. El día multa equivale a la suma total de las percepciones diarias netas del sentenciado en el momento de la consumación del delito, pero nunca podrá ser inferior al salario mínimo diario vigente en el lugar en que se cometió el delito.
+La multa consiste en el pago de una cantidad de dinero al Estado que se fijará en días multa. El mínimo será de veinte y el máximo de cinco mil. El día multa equivale al valor diario de la Unidad de Medida y Actualización en el momento de la consumación del delito.
 
 > <small>(F. DE E., P.O. 8 DE FEBRERO DE 1997)</small>
 
@@ -1695,21 +1695,31 @@ II.- Cuando de no practicarse el aborto, la mujer embarazada corra peligro de mu
 
 ### CAPITULO VI. DE LOS DELITOS DE VENTA Y DISTRIBUCION ILICITA DE BEBIDAS ALCOHOLICAS
 
-> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
 
-Artículo 136 bis.- Se sancionará con prisión de dos a siete años y multa de doscientos a tres mil días de salario mínimo vigente en la entidad, a quien realice las siguientes conductas:
+Artículo 136 bis.- Se sancionará con prisión de dos a siete años y multa de doscientos a tres mil veces el valor diario de la Unidad de Medida y Actualización, a quien realice las siguientes conductas:
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2001)</small>
 
 I.- Sin licencia o permiso de la autoridad competente venda o distribuya bebidas alcohólicas;
 
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2001)</small>
+
 II.- Permita, auspicie, induzca o realice la venta o distribución de bebidas alcohólicas en casa-habitación o en lugares no permitidos por la Ley;
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2001)</small>
 
 III.- Permita, auspicie, induzca, ordene o realice la venta o distribución de bebidas alcohólicas a vendedores clandestinos;
 
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2001)</small>
+
 IV.- Permita, auspicie, induzca, ordene o realice la distribución o venta de bebidas alcohólicas en los días prohibidos por la Ley.
 
-> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
 
-Artículo 136 bis 1.- A quienes cometan en forma reiterada alguno de los delitos señalados en este capítulo se les considerará como reincidentes y, se les aplicará de cinco a nueve años de prisión, y multa de mil a tres mil días de salario mínimo vigente en la entidad.
+Artículo 136 bis 1.- A quienes cometan en forma reiterada alguno de los delitos señalados en este capítulo se les considerará como reincidentes y, se les aplicará de cinco a nueve años de prisión, y multa de mil a tres mil veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2001)</small>
 
 La forma reiterada de comisión de alguno de los delitos señalados en este capítulo, se considera como delito grave.
 
@@ -2109,13 +2119,21 @@ Si el agente conoció o recibió el secreto o comunicación reservada con motivo
 
 Al que, con ánimo de dominio y sin consentimiento de quien legalmente pueda otorgarlo, se apodere de una cosa mueble ajena se le impondrá:
 
-I. Prisión de tres meses a dos años y de cincuenta a cien días multa, cuando el valor de lo robado no exceda de quince veces el salario mínimo;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-II. Prisión de dos a tres años y de cien a doscientos días multa, cuando el valor de lo robado exceda de quince pero no de doscientas cincuenta veces el salario mínimo;
+I. Prisión de tres meses a dos años y de cincuenta a cien días multa, cuando el valor de lo robado no exceda de quince veces el valor diario de la Unidad de Medida y Actualización;
 
-III. Prisión de tres a cuatro años y de doscientos a quinientos días multa, cuando el valor de lo robado exceda de doscientas cincuenta pero no de setecientas cincuenta veces el salario mínimo; y
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-IV. Prisión de cuatro a diez años y de quinientos a setecientos días multa, cuando el valor de lo robado exceda de setecientas cincuenta veces el salario mínimo.
+II. Prisión de dos a tres años y de cien a doscientos días multa, cuando el valor de lo robado exceda de quince pero no de doscientas cincuenta veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+III. Prisión de tres a cuatro años y de doscientos a quinientos días multa, cuando el valor de lo robado exceda de doscientas cincuenta pero no de setecientas cincuenta veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+IV. Prisión de cuatro a diez años y de quinientos a setecientos días multa, cuando el valor de lo robado exceda de setecientas cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
 
@@ -2173,9 +2191,9 @@ VII.- Por quien haya recibido la cosa en detentación subordinada;
 
 VIII.- En despoblado;
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-IX.- En lugar abierto al público, excepto cuando el valor de lo robado no exceda de quince veces el salario mínimo vigente;
+IX.- En lugar abierto al público, excepto cuando el valor de lo robado no exceda de quince veces el valor diario de la Unidad de Medida y Actualización;
 
 X.- Por dos o más personas armadas o portando instrumentos peligrosos;
 
@@ -2321,13 +2339,21 @@ La reincidencia en el delito previsto en este artículo se castigará con prisi�
 
 Al poseedor derivado de una cosa mueble ajena, que con perjuicio de alguien disponga de ella para sí o para otro, se le aplicarán:
 
-I.- Trabajo en favor de la comunidad de sesenta a ciento veinte días y multa de treinta a noventa días multa, cuando el valor de lo dispuesto no exceda de treinta veces el salario mínimo, o no sea posible determinar su valor;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-II.- Prisión de seis meses a dos años seis meses y multa de noventa a doscientos días multa, cuando el monto de la disposición exceda de treinta pero no de trescientos cincuenta veces el salario mínimo;
+I.- Trabajo en favor de la comunidad de sesenta a ciento veinte días y multa de treinta a noventa días multa, cuando el valor de lo dispuesto no exceda de treinta veces el valor diario de la Unidad de Medida y Actualización, o no sea posible determinar su valor;
 
-III.- Prisión de dos años seis meses a cuatro años seis meses y multa de doscientos a cuatrocientos cincuenta días multa, cuando el valor de lo dispuesto exceda de trescientos cincuenta pero no de setecientos cincuenta veces el salario mínimo;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-IV.- Prisión de cuatro años seis meses a once años y multa de cuatrocientos cincuenta a seiscientos cincuenta días multa, si el monto de la disposición excede de setecientos cincuenta veces el salario mínimo.
+II.- Prisión de seis meses a dos años seis meses y multa de noventa a doscientos días multa, cuando el monto de la disposición exceda de treinta pero no de trescientos (sic) cincuenta veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+III.- Prisión de dos años seis meses a cuatro años seis meses y multa de doscientos a cuatrocientos cincuenta días multa, cuando el valor de lo dispuesto exceda de trescientos (sic) cincuenta pero no de setecientos (sic) cincuenta veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+IV.- Prisión de cuatro años seis meses a once años y multa de cuatrocientos cincuenta a seiscientos cincuenta días multa, si el monto de la disposición excede de setecientos (sic) cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 188.
 
@@ -2343,7 +2369,7 @@ IV.- A los gerentes, directivos, administradores, mandatarios o intermediarios d
 
 ### CAPITULO XI. EXTORSION
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 189.
 
@@ -2359,15 +2385,21 @@ II.- Después del incumplimiento a que se refiere la fracción anterior, haya si
 
 Al que engañando a alguien o aprovechándose del error en que éste se halla, se hace ilícitamente de alguna cosa o alcanza un lucro indebido en beneficio propio o de un tercero, se le aplicarán:
 
-I.- Trabajo en favor de la comunidad de sesenta a ciento veinte días y multa de treinta a noventa días multa cuando el valor de lo defraudado no exceda de treinta veces el salario mínimo, o no sea posible determinar su valor;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-II.- Prisión de seis meses a dos años seis meses y multa de noventa a doscientos días multa, cuando el valor de lo defraudado exceda de treinta pero no de trescientas cincuenta veces el salario mínimo;
+I.- Trabajo en favor de la comunidad de sesenta a ciento veinte días y multa de treinta a noventa días multa cuando el valor de lo defraudado no exceda de treinta veces el valor diario de la Unidad de Medida y Actualización, o no sea posible determinar su valor;
 
-> <small>(F. DE E., P.O. 8 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-III.- Prisión de dos años seis meses a cuatro años seis meses y multa de doscientos a cuatrocientos cincuenta días multa, cuando el valor de lo defraudado exceda de trescientos cincuenta pero no de setecientos cincuenta veces el salario mínimo; y
+II.- Prisión de seis meses a dos años seis meses y multa de noventa a doscientos días multa, cuando el valor de lo defraudado exceda de treinta pero no de trescientas cincuenta veces el valor diario de la Unidad de Medida y Actualización;
 
-IV.- Prisión de cuatro años seis meses a once años y multa de cuatrocientos cincuenta a seiscientos cincuenta días multa, cuando el valor de lo defraudado exceda de setecientos cincuenta veces el salario mínimo.
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+III.- Prisión de dos años seis meses a cuatro años seis meses y multa de doscientos a cuatrocientos cincuenta días multa, cuando el valor de lo defraudado exceda de trescientos (sic) cincuenta pero no de setecientos (sic) cincuenta veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+IV.- Prisión de cuatro años seis meses a once años y multa de cuatrocientos cincuenta a seiscientos cincuenta días multa, cuando el valor de lo defraudado exceda de setecientos (sic) cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 Las mismas sanciones se impondrán a quien por los medios descritos en el primer párrafo cause a otro un perjuicio patrimonial indebido, aunque el agente no obtenga una cosa o un lucro para sí o para otro.
 
@@ -2475,7 +2507,7 @@ IV. Cuando para acreditar un préstamo, se exija como garantía que se suscriba 
 
 ###### Artículo 196.
 
-Se impondrá prisión de cuatro a trece años y multa de quinientos a mil días de salario, al que para procurarse a sí mismo o a un tercero un lucro indebido, obligue a una persona a dar, hacer, tolerar o dejar de hacer algo en perjuicio de sus propios bienes patrimoniales o de los de otra persona.
+Se impondrá prisión de cuatro a trece años y multa de quinientos a mil veces el valor diario de la Unidad de Medida y Actualización, al que para procurarse a sí mismo o a un tercero un lucro indebido, obligue a una persona a dar, hacer, tolerar o dejar de hacer algo en perjuicio de sus propios bienes patrimoniales o de los de otra persona.
 
 Las penas se aumentarán en una mitad más si el constreñimiento se realiza por una asociación delictuosa, o por servidor público o ex servidor público o por miembros o ex miembros de alguna corporación policial. En este caso se impondrá, además al responsable, destitución del empleo, cargo o comisión y la inhabilitación de uno a cinco años para desempeñar empleo, cargo o comisión públicos.
 
@@ -2859,9 +2891,11 @@ A quienes actuando bajo coacción o amenaza lleven a cabo alguna de las conducta
 
 ### CAPITULO VIII-BIS. EJERCICIO INDEBIDO DE ATRIBUCIONES Y FACULTADES
 
-> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
 
-Artículo 240 bis.- Comete el delito de ejercicio indebido de atribuciones y facultades el servidor público que por razón de sus funciones u obligaciones en el cumplimiento de la Ley que Regula la Venta, Distribución y Consumo de Bebidas Alcohólicas en el Estado de Tabasco, encubra, favorezca o permita la venta o distribución ilegal de bebidas alcohólicas. Dicho delito se sancionará de dos a nueve años de prisión y multa de cien a mil días de salario mínimo vigente en la Entidad.
+Artículo 240 bis.- Comete el delito de ejercicio indebido de atribuciones y facultades el servidor público que por razón de sus funciones u obligaciones en el cumplimiento de la Ley que Regula la Venta, Distribución y Consumo de Bebidas Alcohólicas en el Estado de Tabasco, encubra, favorezca o permita la venta o distribución ilegal de bebidas alcohólicas. Dicho delito se sancionará de dos a nueve años de prisión y multa de cien a mil veces el valor diario de la Unidad de Medida y Actualización vigente.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2001)</small>
 
 Además de la sanción anterior, se aplicará por la autoridad judicial la destitución e inhabilitación por el mismo término de la pena impuesta para obtener y desempeñar un empleo, cargo o comisión de cualquier naturaleza en el servicio público; dicha resolución deberá ser comunicada a las instancias administrativas correspondientes, tanto del ámbito de la adscripción del servidor público sancionado, como aquella que en su caso, por virtud del control que el Estado o Municipios llevare de su personal, se tuviere que informar para los fines de la mejor ejecución de la pena pública.
 
@@ -2941,9 +2975,13 @@ Comete el delito de concusión el servidor público que con el carácter de tal 
 
 Al que cometa el delito de concusión se le impondrán las siguientes sanciones:
 
-Cuando la cantidad o el valor de lo exigido indebidamente no exceda del equivalente de quinientas veces el salario mínimo diario vigente en el lugar y en el momento en que se cometa el delito, o no sea valuable, se impondrá prisión de seis meses a dos años y multa de treinta a trescientos días multa.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-Cuando la cantidad o el valor de lo exigido indebidamente exceda de quinientas veces el salario mínimo, antes señalado, se impondrá prisión de dos a doce años y multa de trescientos a quinientos días multa.
+Cuando la cantidad o el valor de lo exigido indebidamente no exceda del equivalente de quinientas veces el valor diario de la Unidad de Medida y Actualización vigente en el momento en que se cometa el delito, o no sea valuable, se impondrá prisión de seis meses a dos años y multa de treinta a trescientos días multa.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+Cuando la cantidad o el valor de lo exigido indebidamente exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización antes señalado, se impondrá prisión de dos a doce años y multa de trescientos a quinientos días multa.
 
 ### CAPITULO XIV. USURPACION DE FUNCIONES PUBLICAS
 
@@ -2969,11 +3007,13 @@ II.- Valiéndose de la información que posea por razón de su empleo, cargo o c
 
 Al que comete el delito de ejercicio abusivo de funciones se le impondrán las siguientes sanciones:
 
-Cuando la cuantía a que asciendan las operaciones a que hace referencia este artículo no exceda del equivalente a quinientas veces el salario mínimo diario vigente en el lugar y momento en que se cometa el delito, o no sea valuable, se impondrá prisión de seis meses a dos años y multa de cien a doscientos días multa.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-> <small>(F. DE E., P.O. 8 DE FEBRERO DE 1997)</small>
+Cuando la cuantía a que asciendan las operaciones a que hace referencia este artículo no exceda del equivalente a quinientas veces el valor diario de la Unidad de Medida y Actualización vigente en el momento en que se cometa el delito, o no sea valuable, se impondrá prisión de seis meses a dos años y multa de cien a doscientos días multa.
 
-Cuando la cuantía a que asciendan las operaciones a que hace referencia este artículo exceda del equivalente a quinientas veces el salario antes anotado, se impondrá prisión de dos a doce años y multa de treinta a doscientos días multa.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+Cuando la cuantía a que asciendan las operaciones a que hace referencia este artículo exceda del equivalente a quinientas veces el importe antes anotado, se impondrá prisión de dos a doce años y multa de treinta a doscientos días multa.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE DICIEMBRE DE 2001)</small>
 
@@ -2999,9 +3039,13 @@ Comete el delito de cohecho el servidor público que por sí o por interpósita 
 
 Al servidor público que cometa el delito de cohecho se le impondrán las siguientes sanciones:
 
-Cuando la cantidad o valor de la dádiva o promesa no exceda del equivalente a quinientas veces el salario mínimo diario vigente en el lugar y momento en que se comete el delito, o no sea valuable, se impondrá de seis meses a dos años de prisión, y multa de treinta a trescientos días multa.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-Cuando la cantidad o el valor de la dádiva, promesa o prestación exceda de quinientas veces el salario mínimo antes anotado, se le impondrá prisión de dos a doce años, y multa de trescientos a quinientos días multa.
+Cuando la cantidad o valor de la dádiva o promesa no exceda del equivalente a quinientas veces el valor diario de la Unidad de Medida y Actualización vigente en el momento en que se comete el delito, o no sea valuable, se impondrá de seis meses a dos años de prisión, y multa de treinta a trescientos días multa.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+Cuando la cantidad o el valor de la dádiva, promesa o prestación excedan de quinientas veces el importe antes anotado, se le impondrá prisión de dos a doce años, y multa de trescientos a quinientos días multa.
 
 En ningún caso se devolverá a los responsables del delito de cohecho, el dinero o dádivas entregadas, que se aplicarán en beneficio de la procuración y la administración de justicia del Estado.
 
@@ -3019,11 +3063,17 @@ II.- Utilice fondos públicos u otorgue alguno de los actos a que se refiere el 
 
 Al servidor público que cometa el delito de peculado se le impondrán las siguientes sanciones:
 
-Cuando el monto de lo distraído o de los fondos utilizados indebidamente no exceda del equivalente a cien veces el salario mínimo diario vigente en el lugar y el momento en que se comete el delito, o no sea valuable, se impondrá prisión de seis meses a dos años y multa de treinta a trescientos días multa.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-Cuando el monto de lo distraído o de los fondos utilizados indebidamente exceda del equivalente a cien veces el salario mínimo antes anotado, pero no de quinientas veces se impondrá prisión de dos a cinco años.
+Cuando el monto de lo distraído o de los fondos utilizados indebidamente no exceda del equivalente a cien veces el valor diario de la Unidad de Medida y Actualización vigente al momento en que se comete el delito, o no sea valuable, se impondrá prisión de seis meses a dos años y multa de treinta a trescientos días multa.
 
-Cuando exceda de quinientas veces dicho salario mínimo, se impondrá prisión de cinco a catorce años y multa de trescientos a quinientos días multa.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+Cuando el monto de lo distraído o de los fondos utilizados indebidamente exceda del equivalente a cien veces el importe antes anotado, pero no de quinientas veces se impondrá prisión de dos a cinco años.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+Cuando exceda de quinientas veces dicho valor, se impondrá prisión de cinco a catorce años y multa de trescientos a quinientos días multa.
 
 ### CAPITULO VI. FUNCION PERSECUTORIA Y JUDICIAL INDEBIDA
 
@@ -3033,11 +3083,13 @@ Comete el delito de enriquecimiento ilícito el servidor público que, fuera de 
 
 Al servidor público que cometa el delito de enriquecimiento ilícito se le impondrán las siguientes sanciones:
 
-Cuando el monto a que ascienda el enriquecimiento ilícito no exceda del equivalente a cinco mil veces el salario mínimo diario vigente en el lugar y el momento en que se comete el delito, se impondrá prisión de seis meses a dos años y multa de treinta a trescientos días multa.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-> <small>(F. DE E., P.O. 8 DE FEBRERO DE 1997)</small>
+Cuando el monto a que ascienda el enriquecimiento ilícito no exceda del equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento en que se comete el delito, se impondrá prisión de seis meses a dos años y multa de treinta a trescientos días multa.
 
-Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente a cinco mil veces el salario mínimo antes anotado, se impondrá prisión de dos a doce años y multa de ciento cincuenta a trescientos días multa.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente a cinco mil veces el importe antes anotado, se impondrá prisión de dos a doce años y multa de ciento cincuenta a trescientos días multa.
 
 Asimismo se aplicará decomiso en beneficio de la procuración y la administración de justicia del Estado de aquellos bienes cuya procedencia no se logre acreditar de acuerdo con lo dispuesto en la legislación sobre responsabilidades de los servidores públicos.
 
@@ -3069,9 +3121,13 @@ II.- Cuando el cohechador hubiere actuado por motivos nobles, para beneficiar a 
 
 Al particular que solicite o acepte realizar una promoción de la imagen política o social de un servidor público o de un tercero, o una denigración de cualquier persona con fondos públicos utilizados indebidamente, se le aplicará:
 
-I.- Prisión de tres meses a dos años y multa de treinta a trescientos días multa, cuando el monto de los fondos utilizados indebidamente no exceda del equivalente a quinientas veces el salario mínimo vigente en el lugar y el momento en que se cometió el delito; y
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-II.- Prisión de dos a nueve años y multa de trescientos a quinientos días multa, cuando el monto de los fondos utilizados indebidamente exceda del salario mínimo antes anotado.
+I.- Prisión de tres meses a dos años y multa de treinta a trescientos días multa, cuando el monto de los fondos utilizados indebidamente no exceda del equivalente a quinientas veces el valor diario de la Unidad de Medida y Actualización vigente al momento en que se cometió el delito; y
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+II.- Prisión de dos a nueve años y multa de trescientos a quinientos días multa, cuando el monto de los fondos utilizados indebidamente exceda del importe antes anotado.
 
 > <small>(F. DE E., P.O. 8 DE FEBRERO DE 1997)</small>
 
@@ -3085,9 +3141,13 @@ Se estará a los términos del artículo 187 cuando el particular obligado legal
 
 Al que haga figurar como suyos, bienes que un servidor público adquiera o haya adquirido en contravención de lo dispuesto en la legislación sobre responsabilidades de los servidores públicos, se le aplicará:
 
-I.- De tres meses a dos años de prisión y multa de treinta a trescientos días multa, cuando el monto de los bienes no exceda del equivalente de cinco mil veces el salario mínimo diario vigente en el lugar y el momento en que se cometió el delito; o
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-II.- De dos a catorce años de prisión y multa de trescientos a quinientos días multa, cuando el monto de los bienes exceda del equivalente a dicho múltiplo del salario mínimo.
+I.- De tres meses a dos años de prisión y multa de treinta a trescientos días multa, cuando el monto de los bienes no exceda del equivalente de cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento en que se cometió el delito; o
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+II.- De dos a catorce años de prisión y multa de trescientos a quinientos días multa, cuando el monto de los bienes exceda del equivalente a dicho múltiplo del valor diario de la Unidad de Medida y Actualización.
 
 ### CAPITULO VIII. DISPOSICIONES COMUNES
 
@@ -4125,7 +4185,9 @@ Las mismas sanciones se aplicarán a quien fabrique los citados objetos o comerc
 
 Comete el delito contra la seguridad y el orden en un centro de detención o internamiento para adolescentes o adultos detenidos, procesados o sentenciados, quien introduzca o permita introducir al área de visita u otra destinada para la estancia o permanencia de los internos, uno o más de los siguientes objetos: radiolocalizadores, teléfonos celulares, computadoras, radios o cualquier otro aparato de comunicación, así como cualquier estupefaciente, psicotrópico, bebida embriagante u otra sustancia que produzca efectos similares.
 
-Al responsable de este delito se le impondrá pena de tres a seis años de prisión y multa de cien a doscientos días de salario. Cuando el sujeto activo sea servidor público, la pena se incrementará en una mitad.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+Al responsable de este delito se le impondrá pena de tres a seis años de prisión y multa de cien a doscientas veces el valor diario de la Unidad de Medida y Actualización. Cuando el sujeto activo sea servidor público, la pena se incrementará en una mitad.
 
 Las mismas sanciones se impondrán a los internos que tengan en su poder o posesión, cualquiera de los objetos o sustancias señaladas en el primer párrafo del presente artículo.
 
@@ -4141,7 +4203,7 @@ Se aplicará prisión de uno a cuatro años y multa de cien a trescientos días 
 
 ### CAPITULO VI. DELITOS CONTRA LAS ACTIVIDADES DE LAS INSTITUCIONES OFICIALES
 
-> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 340.
 
@@ -4339,13 +4401,21 @@ A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a o
 
 ###### Artículo 366.
 
-Se impondrá una pena de cuatro años seis meses a doce años de prisión y multa de doscientos a quinientos días de salario a quien:
+Se impondrá una pena de cuatro años seis meses a doce años de prisión y multa de doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización, a quien:
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2011)</small>
 
 I. Aceche, vigile o realice actos tendientes a obtener la información sobre la ubicación de las actividades, los operativos o en general las labores de seguridad pública, de persecución o sanción del delito o ejecución de penas, en beneficio de una asociación delictuosa u organización criminal; o
 
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2011)</small>
+
 II. Aceche o vigile en cualquier lugar, o realice acto tendiente a evitar la captura de algún miembro de una asociación delictuosa u organización criminal.
 
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2011)</small>
+
 Además de las penas previstas en el párrafo anterior, se aumentará en una mitad más de la sanción privativa de libertad que le corresponda al que realice la conducta descrita en este artículo utilizando para ello cualquier vehículo de servicio público de transporte o que por sus características exteriores sea semejante a los vehículos destinados a dicho servicio.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2011)</small>
 
 Las penas señaladas en este artículo se aumentarán en una mitad de la pena que le corresponda y se impondrá además la destitución del cargo o comisión e inhabilitación de tres a diez años para ocupar otro, cuando el delito sea cometido por un servidor o ex servidor público de alguna de las instituciones de seguridad pública, procuración o administración de justicia, o integrante o ex integrante de las Fuerzas Armadas Mexicanas.
 
@@ -4650,3 +4720,21 @@ P.O. 7 DE DICIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL DECRETO 031 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 18, PÁRRAFO PRIMERO; Y 115 BIS, FRACCIONES I A IX DEL PÁRRAFO PRIMERO, Y SU PÁRRAFO SEGUNDO. SE ADICIONAN LOS PÁRRAFOS QUINTO Y SEXTO, AL ARTÍCULO 115 BIS; AMBOS DEL CÓDIGO PENAL PARA EL ESTADO DE TABASCO".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+P.O. 5 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 089 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 24, PRIMER PÁRRAFO; 136 BIS, PRIMER PÁRRAFO; 136 BIS 1, PRIMER PÁRRAFO; 175, FRACCIONES I, II, III Y IV; 179, FRACCIÓN IX; 187, FRACCIONES I, II, III Y IV; 190, PRIMER PÁRRAFO, FRACCIONES I, II, III Y IV; 196, PRIMER PÁRRAFO; 238, TERCERO Y CUARTO PÁRRAFOS; 240, TERCERO Y CUARTO PÁRRAFOS; 240 BIS, PRIMER PÁRRAFO; 242, TERCER Y CUARTO PÁRRAFOS; 243, TERCER, CUARTO Y QUINTO PÁRRAFOS; 244, TERCER Y CUARTO PÁRRAFOS; 248, FRACCIONES I Y II; 250, FRACCIONES I Y II; 338 BIS, SEGUNDO PÁRRAFO; 366, PRIMER PÁRRAFO, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE TABASCO."]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- El valor diario de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Estadística y Geografía, y publique en el Diario Oficial de la Federación, con fundamento en el artículo 26, apartado B, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
+
+TERCERO.- Quedan derogadas las disposiciones legales que se opongan al presente Decreto.
+
+CUARTO.- A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes, así como en cualquier disposición jurídica que emane de las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
+
+QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha de entrada en vigor de este Decreto, que utilicen el salario mínimo como referencia para cualquier efecto, no se modificarán por la Unidad de Medida y Actualización, salvo que las partes acuerden expresamente lo contrario. Lo anterior, sin perjuicio de que a partir de la entrada en vigor de este Decreto los contratantes puedan utilizar como índice o referencia a la Unidad de Medida y Actualización.
+
+SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
+
+Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
