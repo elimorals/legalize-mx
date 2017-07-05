@@ -4,7 +4,7 @@ identifier: "TAB-ley-que-regula-la-venta-distribucion-y-consumo-de-bebidas-23619
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-21"
-last_updated: "2014-12-24"
+last_updated: "2017-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAB"
 ---
 # LEY QUE REGULA LA VENTA, DISTRIBUCION Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE TABASCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY QUE REGULA LA VENTA, DISTRIBUCIÓN Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE TABASCO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 24 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL 1 DE ENERO DE 2015.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Tabasco, el jueves 21 de diciembre de 2001.
 
@@ -833,19 +833,25 @@ Las prohibiciones contempladas en el presente capítulo, deberán ser observadas
 
 Las infracciones a esta Ley, se sancionarán:
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
 
-I. Con multa de cien a doscientos días de salario mínimo general vigente:
+I. Con multa de cien a doscientas veces el valor diario de la Unidad de Medida y Actualización:
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 a) Por no mostrar en lugar visible, la licencia vigente y en su caso el permiso original respectivo, salvo que la primera se encuentre en refrendo, lo cual podrá acreditarse con el acuse de recibo;
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 b) A quienes, estando obligados a ello, no fijen letreros visibles en el exterior de sus establecimientos, dando a conocer la prohibición de la venta o entrada a menores de edad o personas que no estén en pleno goce de sus facultades mentales; y
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 c) Por no contar con señalamientos alusivos a la campaña de conductor designado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
 
-II. Con multa de doscientos a quinientos días de salario mínimo vigente en la entidad, y clausura temporal hasta por un plazo de treinta días, en los siguientes casos:
+II. Con multa de doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización, y clausura temporal hasta por un plazo de treinta días, en los siguientes casos:
 
 a) A quienes permitan el consumo de bebidas alcohólicas en el interior de los establecimientos mencionados en los artículos 5 y 7 de esta Ley;
 
@@ -873,9 +879,9 @@ h) A los que incumplan con lo señalado en el artículo 30 de la presente Ley; y
 
 i) A los que incumplan con lo señalado en el artículo 33 de la presente Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
 
-III. Con multa de quinientos a mil días de salario mínimo vigente en la entidad, y clausura temporal hasta por un plazo de sesenta días en los siguientes casos:
+III. Con multa de quinientas a mil veces el valor diario de la Unidad de Medida y Actualización, y clausura temporal hasta por un plazo de sesenta días en los siguientes casos:
 
 a) A los que vendan bebidas alcohólicas a las personas señaladas en el artículo 31 de esta ley, con excepción de los menores de edad cuya sanción se señala en la fracción siguiente;
 
@@ -889,9 +895,9 @@ e) A las distribuidoras que incumplan lo señalado en el artículo 34 de la pres
 
 f) A los licenciatarios o permisionarios que permitan, auspicien, induzcan, ordenen o realicen la distribución o venta de bebidas alcohólicas fuera de los horarios establecidos en la presente Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
 
-IV. Con multa de mil a dos mil días de salario mínimo vigente en la entidad y clausura hasta por un plazo de 90 días, y en caso de reincidencia, la revocación de la licencia o permiso, en los siguientes casos:
+IV. Con multa de mil a dos mil veces el valor diario de la Unidad de Medida y Actualización, y clausura hasta por un plazo de 90 días, y en caso de reincidencia, la revocación de la licencia o permiso, en los siguientes casos:
 
 a) A los que en cualquier forma vendan, cedan, graven, arrienden, asocien, donen u otorguen en comodato o cualquier otra clase de convenios, la licencia o permiso en contravención a lo dispuesto por esta Ley;
 
@@ -1144,3 +1150,21 @@ Los licenciatarios que tienen actividad como Hotel o Motel, y cuenten con alguna
 ###### ARTÍCULO SEXTO.
 
 En caso de que los Licenciatarios no cumplan lo señalado en los artículos cuarto y quinto transitorios de este decreto en el tiempo indicado, su solicitud de cambio de giro se acatará a lo establecido en el artículo 10 de esta Ley y el artículo 67 fracción VIII de la Ley de Hacienda del Estado.
+
+P.O. 5 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 089 POR EL QUE "SE REFORMA EL ARTÍCULO 37, FRACCIONES I, II, III Y IV, DE LA LEY QUE REGULA LA VENTA, DISTRIBUCIÓN Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE TABASCO.”]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- El valor diario de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Estadística y Geografía, y publique en el Diario Oficial de la Federación, con fundamento en el artículo 26, apartado B, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
+
+TERCERO.- Quedan derogadas las disposiciones legales que se opongan al presente Decreto.
+
+CUARTO.- A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes, así como en cualquier disposición jurídica que emane de las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
+
+QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha de entrada en vigor de este Decreto, que utilicen el salario mínimo como referencia para cualquier efecto, no se modificarán por la Unidad de Medida y Actualización, salvo que las partes acuerden expresamente lo contrario. Lo anterior, sin perjuicio de que a partir de la entrada en vigor de este Decreto los contratantes puedan utilizar como índice o referencia a la Unidad de Medida y Actualización.
+
+SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
+
+Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
