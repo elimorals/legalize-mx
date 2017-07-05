@@ -4,7 +4,7 @@ identifier: "TAB-ley-del-notariado-para-el-estado-de-tabasco-35499"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-20"
-last_updated: "2006-12-30"
+last_updated: "2017-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el sábado 20 de diciembre de 2003.
 
@@ -33,7 +33,7 @@ Que el H. Congreso del Estado, se ha servido dirigirme lo siguiente:
 
 LA QUINCUAGÉSIMA SÉPTIMA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 36 FRACCIONES I, Y XXXIX DE LA CONSTITUCIÓN POLÍTICA LOCAL; Y
 
-.
+[...]
 
 DECRETO 290
 
@@ -229,9 +229,11 @@ Deberá llevar también el "Fíat" o nombramiento, el retrato, la filiación y l
 
 La expedición del "Fíat" o nombramiento, se hará saber al público por medio del Periódico Oficial del Estado, y se comunicará además por oficio al Tribunal Superior de Justicia, al Director del Archivo General de Notarías, al Presidente Municipal de la adscripción del Notario, a las Oficinas Hacendarias Federales y Locales de la residencia del Notario, al Director General del Registro Público de la Propiedad y el Comercio y al Colegio de Notarios.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 26.
 
-Antes de iniciar el ejercicio de sus funciones, los notarios deberán rendir ante el Gobernador del Estado, la Protesta de Ley que se exige a los servidores públicos. El acta de protesta se formulará por duplicado, debiendo conservar un tanto el protestante y el otro agregarse al expediente respectivo que llevará la Secretaría de Gobierno. Igualmente, el Notario deberá otorgar garantía, a favor del Fisco del Estado, por la cantidad que resulte del importe de quinientos días de salario mínimo vigente en el Estado, a satisfacción del Poder Ejecutivo del Estado, para responder de las obligaciones que le impone esta Ley; siendo potestativo para el Notario constituir hipoteca, depósito numerario o fianza de compañía legalmente autorizada, por la cantidad antes señalada y sustituir ésta por otra, según le convenga, previa aprobación del Poder Ejecutivo.
+Antes de iniciar el ejercicio de sus funciones, los notarios deberán rendir ante el Gobernador del Estado, la Protesta de Ley que se exige a los servidores públicos. El acta de protesta se formulará por duplicado, debiendo conservar un tanto el protestante y el otro agregarse al expediente respectivo que llevará la Secretaría de Gobierno. Igualmente, el Notario deberá otorgar garantía, a favor del Fisco del Estado, por la cantidad que resulte del importe de quinientas veces el valor diario de la Unidad de Medida y Actualización, a satisfacción del Poder Ejecutivo del Estado, para responder de las obligaciones que le impone esta Ley; siendo potestativo para el Notario constituir hipoteca, depósito numerario o fianza de compañía legalmente autorizada, por la cantidad antes señalada y sustituir ésta por otra, según le convenga, previa aprobación del Poder Ejecutivo.
 
 #### SECCIÓN CUARTA. DE LAS LICENCIAS, LOS CONVENIOS DE SUPLENCIA O DE ASOCIACIÓN Y DE LAS PERMUTAS
 
@@ -685,9 +687,11 @@ El Notario no podrá autorizar acto alguno, sino haciéndolo constar en el proto
 
 Antes de que se otorgue una escritura relativa a bienes inmuebles, el Notario examinará el título o los títulos respectivos, observando las reglas que sobre el particular se establecen tanto en la Ley de Catastro del Estado y su Reglamento, como en el Reglamento del Registro Público de la Propiedad y el Comercio.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 90.
 
-Las enajenaciones de bienes inmuebles cuyo valor comercial sea mayor a quinientos días de salario mínimo vigente en el Estado y la constitución o transmisión de derechos reales estén estimados en la misma cantidad o que garanticen un crédito por mayor cantidad que la mencionada, para su validez deberán constar en escritura otorgada ante Notario, excepto en los casos precisados por el segundo párrafo del artículo 2588 del Código Civil vigente en el Estado y tratándose de bienes inmuebles que en términos de las disposiciones legislativas sean enajenados por los poderes públicos, respecto al patrimonio hacendario y que así se determine, mediante el decreto correspondiente.
+Las enajenaciones de bienes inmuebles cuyo valor comercial sea mayor a quinientas veces el valor diario de la Unidad de Medida y Actualización y la constitución o transmisión de derechos reales estén estimados en la misma cantidad o que garanticen un crédito por mayor cantidad que la mencionada, para su validez deberán constar en escritura otorgada ante Notario, excepto en los casos precisados por el segundo párrafo del artículo 2588 del Código Civil vigente en el Estado y tratándose de bienes inmuebles que en términos de las disposiciones legislativas sean enajenados por los poderes públicos, respecto al patrimonio hacendario y que así se determine, mediante el decreto correspondiente.
 
 ###### ARTÍCULO 91.
 
@@ -879,7 +883,9 @@ Se sancionará administrativamente a los Notarios por violaciones a cualquiera d
 
 I. Amonestación por oficio;
 
-II. Multa de 50 a 500 días de salario mínimo vigente en el Estado;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+II. Multa de 50 a 500 veces el valor diario de la Unidad de Medida y Actualización;
 
 III. Suspensión del cargo hasta por un año; y
 
@@ -915,11 +921,11 @@ La ejecución de las sanciones administrativas impuestas en resolución firme, s
 
 Las sanciones económicas que se impongan constituirán créditos fiscales a favor del erario estatal, que en caso de incumplimiento voluntario, se harán efectivas mediante el procedimiento económico coactivo de ejecución, tendrán la prelación prevista para dichos créditos y se sujetarán en todo a las disposiciones fiscales aplicables a esta materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 125.
 
-Para todo lo no previsto en esta Ley y en el ejercicio de su función pública, los Notarios estarán sujetos al Reglamento de está Ley y a los Estatutos de la Asociación Civil, denominada “Colegio de Notarios del Estado de Tabasco A.C”, así como sus actuales órganos legalmente electos.
+Para todo lo no previsto en esta Ley y en el ejercicio de su función pública, los Notarios estarán sujetos al Reglamento de está Ley y a los Estatutos de la Asociación Civil, denominada "Colegio de Notarios del Estado de Tabasco A.C", así como sus actuales órganos legalmente electos.
 
 Lo anterior, independientemente de otras vías, en que las acciones y omisiones en que incurra un Notario puedan dar lugar al procedimiento previsto en la ley de que se trate.
 
@@ -1001,7 +1007,7 @@ Los visitadores harán constar en el acta las irregularidades que observen, cons
 
 ### CAPÍTULO XII. DEL COLEGIO DE NOTARIOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 138.
 
@@ -1125,7 +1131,7 @@ LIC. JAIME HUMBERTO LASTRA BASTAR
 
 SECRETARIO DE GOBIERNO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 30 DE DICIEMBRE DE 2006.
 
@@ -1144,3 +1150,21 @@ El Ejecutivo Estatal deberá adecuar conforme al presente Decreto, las disposici
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 089 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 26; 90; Y 120, FRACCIÓN II DE LA LEY DEL NOTARIADO PARA EL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- El valor diario de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Estadística y Geografía, y publique en el Diario Oficial de la Federación, con fundamento en el artículo 26, apartado B, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
+
+TERCERO.- Quedan derogadas las disposiciones legales que se opongan al presente Decreto.
+
+CUARTO.- A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes, así como en cualquier disposición jurídica que emane de las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
+
+QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha de entrada en vigor de este Decreto, que utilicen el salario mínimo como referencia para cualquier efecto, no se modificarán por la Unidad de Medida y Actualización, salvo que las partes acuerden expresamente lo contrario. Lo anterior, sin perjuicio de que a partir de la entrada en vigor de este Decreto los contratantes puedan utilizar como índice o referencia a la Unidad de Medida y Actualización.
+
+SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
+
+Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
