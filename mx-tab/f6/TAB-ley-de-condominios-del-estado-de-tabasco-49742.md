@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-condominios-del-estado-de-tabasco-49742"
 country: "mx"
 rank: "ley"
 publication_date: "2006-03-01"
-last_updated: "2006-03-01"
+last_updated: "2017-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49742&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE CONDOMINIOS DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
 
 Ley publicada en el Suplemento B del Periódico Oficial del Estado de Tabasco, el miércoles 1 de marzo de 2006.
 
@@ -793,19 +793,31 @@ Toda persona que sea Administrador, miembro del Comité de Administración o el 
 
 Los condóminos que incumplan las obligaciones que les son impuestas por la presente Ley, el Reglamento o en la Escritura Constitutiva, podrán ser sancionados, siempre que exista queja por escrito de la Asamblea o de algún vecino en particular, deberán ser sancionados con:
 
-I.- Por faltas que afecten la tranquilidad o la comodidad de la vida condominal, se aplicará multa por el equivalente de 1 a 50 días de salario mínimo general vigente en el Estado de Tabasco;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-II.- Por faltas que afecten el estado físico del inmueble sin que esto signifique poner en riesgo la seguridad de los demás condóminos; que impidan u obstaculicen el uso adecuado de las instalaciones y áreas comunes; o que afecten el funcionamiento del condominio, se aplicará multa por el equivalente de 1 a 100 días de salario mínimo general vigente en el Estado de Tabasco;
+I.- Por faltas que afecten la tranquilidad o la comodidad de la vida condominal, se aplicará multa por el equivalente de 1 a 50 veces el valor diario de la Unidad de Medida y Actualización;
 
-III.- Por aquellas faltas que provoquen un daño patrimonial, o pongan en riesgo la seguridad del inmueble o las personas, se aplicará multa por el equivalente de 50 a 300 días de salario mínimo general vigente en el Estado de Tabasco;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-IV.- Por incumplimiento en el pago oportuno de las cuotas ordinarias, extraordinarias, de servicio, de mantenimiento y las correspondientes al fondo de reserva, se aplicará multa que no podría ser mayor a 50 días de salario mínimo general vigente en el Estado de Tabasco;
+II.- Por faltas que afecten el estado físico del inmueble sin que esto signifique poner en riesgo la seguridad de los demás condóminos; que impidan u obstaculicen el uso adecuado de las instalaciones y áreas comunes; o que afecten el funcionamiento del condominio, se aplicará multa por el equivalente de 1 a 100 veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+III.- Por aquellas faltas que provoquen un daño patrimonial, o pongan en riesgo la seguridad del inmueble o las personas, se aplicará multa por el equivalente de 50 a 300 veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+IV.- Por incumplimiento en el pago oportuno de las cuotas ordinarias, extraordinarias, de servicio, de mantenimiento y las correspondientes al fondo de reserva, se aplicará multa que no podría ser mayor a 50 veces el valor diario de la Unidad de Medida y Actualización;
 
 V.- Los Administradores o Comités de Vigilancia que a juicio de la Asamblea, no hagan un buen manejo o vigilancia de las cuotas de servicios, mantenimiento y/o extraordinarias, por el abuso de su cargo o incumplimiento de sus funciones, estarán sujetos a las sanciones establecidas en las fracciones I, II, III y IV de este artículo, aumentando un 50% la sanción que le corresponda, independiente de las responsabilidades o sanciones a que haya lugar, contempladas en otras Leyes. Lo anterior será determinado por la Asamblea;
 
-VI.- Se aplicará multa de 50 días de salario mínimo general vigente en el Estado de Tabasco al Administrador o persona que tenga bajo su custodia el Libro de Actas debidamente autorizado y que habiendo sido notificado de una Asamblea legalmente constituida no lo presente para el desahogo de la misma; y
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-VII.- Se aplicará de 50 a 300 días de salario mínimo general vigente en el Estado de Tabasco por el incumplimiento a lo dispuesto en el Artículo 35 segundo párrafo de la presente Ley.
+VI.- Se aplicará multa de 50 veces el valor diario de la Unidad de Medida y Actualización al Administrador o persona que tenga bajo su custodia el Libro de Actas debidamente autorizado y que habiendo sido notificado de una Asamblea legalmente constituida no lo presente para el desahogo de la misma; y
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+VII.- Se aplicará de 50 a 300 veces el valor diario de la Unidad de Medida y Actualización por el incumplimiento a lo dispuesto en el Artículo 35 segundo párrafo de la presente Ley.
 
 En caso de reincidencia, se aplicará hasta el doble de la sanción originalmente impuesta.
 
@@ -836,3 +848,23 @@ GOBERNADOR DEL ESTADO DE TABASCO.
 LIC. JAIME HUMBERTO LASTRA BASTAR
 
 SECRETARIO DE GOBIERNO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 089 POR EL QUE "SE REFORMA EL ARTÍCULO 69, PRIMER PÁRRAFO, FRACCIONES I, II, III, IV, VI Y VII, DE LA LEY DE CONDOMINIOS DEL ESTADO DE TABASCO."]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- El valor diario de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Estadística y Geografía, y publique en el Diario Oficial de la Federación, con fundamento en el artículo 26, apartado B, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
+
+TERCERO.- Quedan derogadas las disposiciones legales que se opongan al presente Decreto.
+
+CUARTO.- A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes, así como en cualquier disposición jurídica que emane de las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
+
+QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha de entrada en vigor de este Decreto, que utilicen el salario mínimo como referencia para cualquier efecto, no se modificarán por la Unidad de Medida y Actualización, salvo que las partes acuerden expresamente lo contrario. Lo anterior, sin perjuicio de que a partir de la entrada en vigor de este Decreto los contratantes puedan utilizar como índice o referencia a la Unidad de Medida y Actualización.
+
+SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
+
+Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
