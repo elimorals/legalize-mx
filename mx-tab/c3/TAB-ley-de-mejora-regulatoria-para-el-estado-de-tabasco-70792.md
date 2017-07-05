@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-mejora-regulatoria-para-el-estado-de-tabasco-70792"
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-24"
-last_updated: "2011-06-01"
+last_updated: "2017-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE MEJORA REGULATORIA PARA EL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 24 de octubre de 2009.
 
@@ -77,9 +77,13 @@ IX. RUPEA: El Registro Único de Personas y Empresas Autorizadas;
 
 X. SARE: El Sistema de Apertura Rápida de Empresas;
 
-XI. Secretario: El Secretario de Desarrollo Económico;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-XII. Secretaría: La Secretaría de Desarrollo Económico;
+XI. Secretario: El Secretario de Desarrollo Económico y Turismo;
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+XII. Secretaría: La Secretaría de Desarrollo Económico y Turismo;
 
 XIII. Simplificación Administrativa: Proceso de la mejora regulatoria que consiste en eliminar y disminuir fases del proceso administrativo, así como de requisitos y trámites con la finalidad de ganar prontitud, oportunidad y eficiencia en la prestación de los servicios públicos o trámites administrativos, y
 
@@ -215,7 +219,9 @@ VI. Elaborar los informes de actividades;
 
 VII. Organizar y dirigir técnica y administrativamente a la Unidad;
 
-VIII. Dictaminar y resolver, en coordinación con la Consejería Jurídica del Poder Ejecutivo y con la Secretaría de Administración y Finanzas los estudios de impacto regulatorio de los anteproyectos de ordenamientos jurídicos que formulen las dependencias y entidades estatales, así como las que, en su caso, le presenten los Ayuntamientos;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+VIII. Dictaminar y resolver, en coordinación con la Coordinación General de Asuntos Jurídicos del Poder Ejecutivo y con la Secretaría de Planeación y Finanzas los estudios de impacto regulatorio de los anteproyectos de ordenamientos jurídicos que formulen las dependencias y entidades estatales, así como las que, en su caso, le presenten los Ayuntamientos;
 
 IX. Recibir de los diversos sectores de la sociedad en general, las opiniones, sugerencias y recomendaciones para eficientar los trámites, procedimientos y regulaciones estatales, para el mejor cumplimiento de su objeto y funciones;
 
@@ -297,19 +303,27 @@ VIII. Las demás que esta Ley, su Reglamento o la Unidad establezcan;
 
 La manifestación de impacto regulatoria siempre deberá de ir acompañada del anteproyecto de regulación a la que se haga referencia.
 
-Una vez que la Unidad reciba la manifestación de impacto regulatorio, inmediatamente correrá copia de ésta a la consejería Jurídica del Poder Ejecutivo y a la Secretaría de Administración y Finanzas a fin de cumplir con lo establecido en la fracción VIII del artículo 11 de esta Ley.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+Una vez que la Unidad reciba la manifestación de impacto regulatorio, inmediatamente correrá copia de ésta a la Coordinación General de Asuntos Jurídicos del Poder Ejecutivo y a la Secretaría de Planeación y Finanzas a fin de cumplir con lo establecido en la fracción VIII del artículo 11 de esta Ley.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 17.
 
-Si a juicio de la Unidad, de la Consejería Jurídica del Poder Ejecutivo o de la Secretaría de Administración y Finanzas la manifestación de impacto regulatorio que reciba no es satisfactoria, deberá solicitar a la dependencia o entidad correspondiente, dentro de los cinco días naturales siguientes a la fecha en que la haya recibido, que realice las ampliaciones o correcciones que estime pertinentes.
+Si a juicio de la Unidad, de la Coordinación General de Asuntos Jurídicos del Poder Ejecutivo o de la Secretaría de Planeación y Finanzas la manifestación de impacto regulatorio que reciba no es satisfactoria, deberá solicitar a la dependencia o entidad correspondiente, dentro de los cinco días naturales siguientes a la fecha en que la haya recibido, que realice las ampliaciones o correcciones que estime pertinentes.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 18.
 
-La Unidad, en coordinación con la Consejería Jurídica del Poder Ejecutivo y la Secretaría de Administración y Finanzas, emitirá y entregará a la dependencia o entidad que corresponda, un dictamen parcial o total de la manifestación de impacto regulatorio y del anteproyecto respectivo, dentro de los quince días hábiles siguientes a la recepción de la manifestación, o en su caso, de las ampliaciones o correcciones de la misma. El dictamen considerará las opiniones que, en su caso, reciba la Unidad de los sectores interesados.
+La Unidad, en conjunto con la Coordinación General de Asuntos Jurídicos del Poder Ejecutivo y la Secretaría de Planeación y Finanzas, emitirá y entregará a la dependencia o entidad que corresponda, un dictamen parcial o total de la manifestación de impacto regulatorio y del anteproyecto respectivo, dentro de los quince días hábiles siguientes a la recepción de la manifestación, o en su caso, de las ampliaciones o correcciones de la misma. El dictamen considerará las opiniones que, en su caso, reciba la Unidad de los sectores interesados.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 19.
 
-Una vez que las dependencias, o entidades reciban el dictamen emitido por la Unidad, en coordinación con la Consejería Jurídica del Poder Ejecutivo y la Secretaría de Administración y Finanzas, deberán realizar al anteproyecto las adecuaciones necesarias para cumplir con lo señalado en el dictamen, para, en un plazo máximo de diez días, regresarlo a la Unidad para la elaboración de un dictamen final. En caso de no cumplir con las recomendaciones hechas por la Unidad, las dependencias o entidades públicas, deberán hacer una justificación clara de los motivos por los que se hizo caso omiso a las recomendaciones señaladas en el dictamen.
+Una vez que las dependencias, o entidades reciban el dictamen emitido por la Unidad, en conjunto con la Coordinación General de Asuntos Jurídicos del Poder Ejecutivo y la Secretaría de Planeación y Finanzas, deberán realizar al anteproyecto las adecuaciones necesarias para cumplir con lo señalado en el dictamen, para, en un plazo máximo de diez días, regresarlo a la Unidad para la elaboración de un dictamen final. En caso de no cumplir con las recomendaciones hechas por la Unidad, las dependencias o entidades públicas, deberán hacer una justificación clara de los motivos por los que se hizo caso omiso a las recomendaciones señaladas en el dictamen.
 
 En caso de que el primer dictamen de la Unidad sea positivo, el proyecto de regulación seguirá su curso, de conformidad con las disposiciones aplicables.
 
@@ -361,7 +375,9 @@ XIV. Números de teléfono, fax, página web y correo electrónico, así como la
 
 XV. La demás información que requiera esta Ley, su Reglamento, la Unidad o que las dependencias o entidades, consideren que pueda ser de utilidad para los interesados.
 
-Una vez aprobada por la Unidad en coordinación con la Consejería Jurídica del Poder Ejecutivo y a la Secretaría de Administración y Finanzas, cualquier modificación a la información inscrita en el Registro deberá de actualizarse dentro de los cinco días hábiles posteriores a que entre en vigor la disposición que de origen a dicha modificación.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+Una vez aprobada por la Unidad en conjunto con la Coordinación General de Asuntos Jurídicos del Poder Ejecutivo y a la Secretaría de Planeación y Finanzas, cualquier modificación a la información inscrita en el Registro deberá de actualizarse dentro de los cinco días hábiles posteriores al que entre en vigor la disposición que de origen a dicha modificación.
 
 ###### Artículo 24.
 
@@ -421,9 +437,11 @@ El RUPEA es el procedimiento que tiene por objeto inscribir, por única ocasión
 
 El interesado deberá de proporcionar bajo su más estricta responsabilidad la información y documentación señalada en el párrafo anterior.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### Artículo 32.
 
-La Unidad, previo acuerdo con el Secretario y en coordinación con la Secretaría de la Contraloría, la Secretaría de Administración y Finanzas y con la Secretaría, emitirá los lineamientos para la creación, operación e interconexión informática del RUPEA, los cuales contendrán los mecanismos y procedimientos para establecer los formatos de inscripción y las claves de identificación.
+La Unidad, previo acuerdo con el Secretario y en coordinación con la Secretaría de Contraloría, la Secretaría de Planeación y Finanzas, emitirá los lineamientos para la creación, operación e interconexión informática del RUPEA, los cuales contendrán los mecanismos y procedimientos para establecer los formatos de inscripción y las claves de identificación.
 
 ###### Artículo 33.
 
@@ -544,3 +562,21 @@ P.O. 1 DE JUNIO DE 2011.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
 
 SEGUNDO.- El Ejecutivo y los Ayuntamientos de los 17 municipios de la entidad, deberán proceder a expedir o ajustar las disposiciones reglamentarias que sean aplicables, para coadyuvar a la apertura de las empresas en el plazo señalado.
+
+P.O. 5 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 089 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 2, FRACCIONES XI Y XII; 11, FRACCIÓN VIII; 16, TERCER PÁRRAFO; 17; 18; 19, PRIMER PÁRRAFO; 23, SEGUNDO PÁRRAFO Y 32, TODOS DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- El valor diario de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Estadística y Geografía, y publique en el Diario Oficial de la Federación, con fundamento en el artículo 26, apartado B, último párrafo de la Constitución Política de los Estados Unidos Mexicanos.
+
+TERCERO.- Quedan derogadas las disposiciones legales que se opongan al presente Decreto.
+
+CUARTO.- A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes, así como en cualquier disposición jurídica que emane de las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
+
+QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha de entrada en vigor de este Decreto, que utilicen el salario mínimo como referencia para cualquier efecto, no se modificarán por la Unidad de Medida y Actualización, salvo que las partes acuerden expresamente lo contrario. Lo anterior, sin perjuicio de que a partir de la entrada en vigor de este Decreto los contratantes puedan utilizar como índice o referencia a la Unidad de Medida y Actualización.
+
+SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
+
+Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
