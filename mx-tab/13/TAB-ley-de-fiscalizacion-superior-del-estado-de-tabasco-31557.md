@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-fiscalizacion-superior-del-estado-de-tabasco-31557"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-17"
-last_updated: "2014-06-04"
+last_updated: "2017-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31557&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el sábado 17 de mayo de 2003; republicada el sábado 24 de mayo de 2003.
 
@@ -33,7 +33,7 @@ Que el H. Congreso del Estado, se ha servido dirigirme lo siguiente:
 
 LA QUINCUAGÉSIMA SÉPTIMA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 36 FRACCIONES I Y XXXIX DE LA CONSTITUCIÓN POLÍTICA LOCAL; Y
 
-...
+[...]
 
 DECRETO 220
 
@@ -125,7 +125,7 @@ XVIII. Informe de Resultados: Informe técnico-financiero resultante de la fisca
 
 > <small>(REFORMADA, P.O. 4 DE JUNIO DE 2014)</small>
 
-XIX.- Muestra: Es la operación que resulta de seleccionar del cien por ciento del total de los recursos ejercidos por el ente fiscalizable en el ejercicio fiscal que corresponda, el porcentaje a revisar y fiscalizar;
+XIX. Muestra: Es la operación que resulta de seleccionar del cien por ciento del total de los recursos ejercidos por el ente fiscalizable en el ejercicio fiscal que corresponda, el porcentaje a revisar y fiscalizar;
 
 > <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
 
@@ -279,7 +279,7 @@ En los términos de la Ley de Responsabilidades de los Servidores Públicos y co
 
 La Cuenta Pública que se rinda al Congreso deberá consolidar toda la información remitida en tos Informes de Autoevaluación y los avances financieros y presupuestales que de manera periódica rindan los entes fiscalizables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2009)</small>
 
 ###### Artículo 10.
 
@@ -577,7 +577,9 @@ Las entidades fiscalizadas, deberán rendir al Órgano, en un plazo que no exced
 
 Para los efectos de esta Ley, se entenderá por situaciones excepcionales aquéllas en las cuales, de la denuncia que al efecto se presente, se deduzca alguna de las circunstancias siguientes:
 
-a) Un daño patrimonial que afecte a la Hacienda Pública Estatal o Municipal o al patrimonio de cualquiera de los entes públicos fiscalizables, por un monto que resulte superior a quince mil veces el salario mínimo general vigente en el Estado;
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+a) Un daño patrimonial que afecte a la Hacienda Pública Estatal o Municipal o al patrimonio de cualquiera de los entes públicos fiscalizables, por un monto que resulte superior a quince mil veces el valor diario de la Unidad de Medida y Actualización;
 
 b) Hechos de corrupción determinados por autoridad competente;
 
@@ -599,9 +601,11 @@ f) El desvío de recursos hacia fines distintos a los que estén autorizados.
 
 Los sujetos de fiscalización coadyuvarán en la revisión que el Órgano Superior de Fiscalización del Estado les requiera, sin que dicha revisión interfiera u obstaculice el ejercicio de las funciones o atribuciones de control y evaluación, principalmente, que conforme a la ley competa a las autoridades y a los servidores públicos de los Poderes del Estado, o de los Ayuntamientos o de cualquiera de los entes fiscalizables.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### Artículo 35.
 
-Si transcurrido el plazo señalado en el artículo 32 de esta Ley, la entidad fiscalizada, sin causa justificada, no presenta el informe a que el mismo numeral se refiere, el Órgano, impondrá a los servidores públicos responsables una multa de cien a trescientos días de salario mínimo general vigente en el Estado.
+Si transcurrido el plazo señalado en el artículo 32 de esta Ley, la entidad fiscalizada, sin causa justificada, no presenta el informe a que el mismo numeral se refiere, el Órgano, impondrá a los servidores públicos responsables una multa de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 36.
 
@@ -731,9 +735,11 @@ El importe de las sanciones resarcitorias que se recupere en los términos de es
 
 La Secretaría, para llevar a cabo las acciones y cumplir con las obligaciones que se le imponen, en el presente Capítulo y demás señaladas en esta Ley, podrá a través del Titular de la misma, celebrar convenios de coordinación con los Ayuntamientos de la entidad, los cuales habrán de ser publicados en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### Artículo 53.
 
-El Órgano, podrá abstenerse de sancionar al infractor, por una sola vez, cuando lo estime pertinente, justificando las causas de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por éste no exceda de cincuenta veces el salario mínimo general vigente en el Estado en la fecha en que cometa la infracción.
+El Órgano, podrá abstenerse de sancionar al infractor, por una sola vez, cuando lo estime pertinente, justificando las causas de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por éste no exceda de cincuenta veces el valor diario de la Unidad de Medida y Actualización, en la fecha en que cometa la infracción.
 
 > <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2014)</small>
 
@@ -741,11 +747,11 @@ Cuando el presunto responsable cubra antes de que se emita la resolución a sati
 
 ### Capítulo IV. De las medidas de apremio
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 54.
 
-Sin perjuicio de las sanciones previstas en esta Ley, el Órgano, podrá imponer a los servidores públicos responsables en términos de la Ley aplicable, como medida de apremio, multa por el equivalente de cincuenta a quinientos días de salario mínimo general vigente en el Estado, en los siguientes casos:
+Sin perjuicio de las sanciones previstas en esta Ley, el Órgano, podrá imponer a los servidores públicos responsables en términos de la Ley aplicable, como medida de apremio, multa por el equivalente de cincuenta a quinientas veces el valor diario de la Unidad de Medida y Actualización, en los siguientes casos:
 
 > <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
 
@@ -887,7 +893,7 @@ La autonomía técnica y de gestión, permiten al Órgano, no solo resolver lo c
 
 El presupuesto del Órgano forma parte del que corresponde al Poder Legislativo, la Secretaría tomará las medidas necesarias para entregar la parte que le corresponde al órgano quién será el responsable directo de su ejercicio, de conformidad con el calendario del presupuesto de egresos autorizado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2009)</small>
 
 ###### Artículo 73.
 
@@ -1131,7 +1137,7 @@ Son trabajadores de base los que desempeñen labores en puestos no incluidos en 
 
 La relación jurídica de trabajo se entiende establecida entre el Órgano Superior de Fiscalización del Estado, a través de su titular y los trabajadores a su servicio para todos los efectos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE JULIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE JULIO DE 2009)</small>
 
 ### Capitulo II. De las Responsabilidades de los Servidores Públicos del Órgano Superior de Fiscalización del Estado
 
@@ -1301,7 +1307,7 @@ LIC. JAIME HUMBERTO LASTRA BASTAR
 
 SECRETARIO DE GOBIERNO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 4 DE JULIO DE 2009.
 
@@ -1328,3 +1334,21 @@ QUINTO.- El Titular de la Dirección de Control y Evaluación, deberá ser desig
 El Congreso del Estado deberá expedir el Reglamento de la Dirección de Control y Evaluación, en un plazo no mayor a 120 días naturales, a partir de la entrada en vigor del presente decreto.
 
 SEXTO.- El Órgano, deberá realizar las adecuaciones respectivas a su Reglamento Interior, en un plazo no mayor a 120 días naturales, a partir de la entrada en vigor del presente decreto.
+
+P.O. 5 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 089, POR EL QUE “SE REFORMAN LOS ARTÍCULOS 33, INCISO A); 35; 53, PRIMER PÁRRAFO Y 54, PRIMER PÁRRAFO; TODOS DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- El valor diario de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Estadística y Geografía, y publique en el Diario Oficial de la Federación, con fundamento en el artículo 26, apartado B, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
+
+TERCERO.- Quedan derogadas las disposiciones legales que se opongan al presente Decreto.
+
+CUARTO.- A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes, así como en cualquier disposición jurídica que emane de las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
+
+QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha de entrada en vigor de este Decreto, que utilicen el salario mínimo como referencia para cualquier efecto, no se modificarán por la Unidad de Medida y Actualización, salvo que las partes acuerden expresamente lo contrario. Lo anterior, sin perjuicio de que a partir de la entrada en vigor de este Decreto los contratantes puedan utilizar como índice o referencia a la Unidad de Medida y Actualización.
+
+SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
+
+Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
