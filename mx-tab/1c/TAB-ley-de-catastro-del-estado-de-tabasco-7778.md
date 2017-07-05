@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-catastro-del-estado-de-tabasco-7778"
 country: "mx"
 rank: "ley"
 publication_date: "1993-01-23"
-last_updated: "2000-11-18"
+last_updated: "2017-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE CATASTRO DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 2000.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el 23 de Enero de 1993.
 
@@ -33,7 +33,7 @@ Que el H. Congreso del Estado se ha servido dirigirme lo siguiente:
 
 La H. Quincuagésima Cuarta Legislatura del Estado Libre y Soberano de Tabasco, en uso de las facultades conferidas por el Artículo 36 Fracción I de la Constitución Política Local, y
 
-.
+[...]
 
 En consecuencia, ha tenido a bien emitir el siguiente:
 
@@ -867,9 +867,13 @@ VII.- No realizar las manifestaciones para la inscripción de inmuebles propieda
 
 Las infracciones a la presente Ley serán sancionadas por la autoridad catastral competente con las multas siguientes:
 
-a) De una a doscientas veces el salario mínimo diario vigente en el Estado, a los sujetos cuya conducta corresponda a lo previsto por las fracciones I, II, III, IV, V y VI del artículo anterior; y
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-b) De quinientas a mil veces el salario mínimo diario vigente en el Estado, a las personas que se encuentren en los supuestos de la fracción VII del artículo 71 de esta Ley.
+a) De una a doscientas veces el valor diario de la Unidad de Medida y Actualización, a los sujetos cuya conducta corresponda a lo previsto por las fracciones I, II, III, IV, V y VI del artículo anterior; y
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+b) De quinientas a mil veces el valor diario de la Unidad de Medida y Actualización, a las personas que se encuentren en los supuestos de la fracción VII del artículo 71 de esta Ley.
 
 En caso de reincidencia la autoridad catastral podrá duplicar el monto de las multas señaladas en los incisos anteriores. Las sanciones a que este artículo se refiere serán aplicadas tomando en consideración la gravedad de la infracción cometida, la Zona Catastral, el valor del predio y la condición económica del infractor, y serán pagadas en un plazo de quince días hábiles, contados a partir del día siguiente al de la notificación.
 
@@ -947,7 +951,7 @@ LIC. ENRIQUE PRIEGO OROPEZA.
 
 SECRETARIO DE GOBIERNO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 18 DE NOVIEMBRE DE 2000.
 
@@ -962,3 +966,21 @@ Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 Las solicitudes y recursos que se estén tramitando antes de la entrada en vigor del presente Decreto, se substanciarán por las autoridades catastrales que conforme a este Decreto y a los convenios celebrados tengan facultades para hacerlo.
+
+P.O. 5 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 089 POR EL QUE "SE REFORMA EL ARTÍCULO 72, PRIMER PÁRRAFO, INCISOS A) Y B), DE LA LEY DE CATASTRO DEL ESTADO DE TABASCO".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- El valor diario de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Estadística y Geografía, y publique en el Diario Oficial de la Federación, con fundamento en el artículo 26, apartado B, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
+
+TERCERO.- Quedan derogadas las disposiciones legales que se opongan al presente Decreto.
+
+CUARTO.- A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes, así como en cualquier disposición jurídica que emane de las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
+
+QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha de entrada en vigor de este Decreto, que utilicen el salario mínimo como referencia para cualquier efecto, no se modificarán por la Unidad de Medida y Actualización, salvo que las partes acuerden expresamente lo contrario. Lo anterior, sin perjuicio de que a partir de la entrada en vigor de este Decreto los contratantes puedan utilizar como índice o referencia a la Unidad de Medida y Actualización.
+
+SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
+
+Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
