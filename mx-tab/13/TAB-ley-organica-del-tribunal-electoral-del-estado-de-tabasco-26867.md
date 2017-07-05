@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-tribunal-electoral-del-estado-de-tabasco-26867
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-11-29"
-last_updated: "2016-03-19"
+last_updated: "2017-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26867&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el viernes 29 de noviembre de 2002.
 
@@ -33,7 +33,7 @@ Que el H. Congreso del Estado, se ha servido dirigirme lo siguiente:
 
 LA QUINCUAGÉSIMA SÉPTIMA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 36 FRACCIONES I Y V DE LA CONSTITUCIÓN POLÍTICA LOCAL; Y
 
-.
+[...]
 
 DECRETO 195
 
@@ -329,7 +329,9 @@ XX. Fijar los lineamientos para la selección, capacitación, designación y pro
 
 XXI. Vigilar que se cumplan las disposiciones del Reglamento Interior del Tribunal;
 
-XXII. Apercibir, amonestar, e imponer multas de diez a cien días, el importe del salario mínimo vigente en la entidad, al momento de cometerse la falta, a aquellas personas que falten al respeto a algún miembro del Tribunal, en las sesiones;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+XXII. Apercibir, amonestar, e imponer multas de diez a cien veces el valor diario de la Unidad de Medida y Actualización, al momento de cometerse la falta, a aquellas personas que falten al respeto a algún miembro del Tribunal, en las sesiones;
 
 XXIII. Conocer de las responsabilidades de los servidores públicos del Tribunal, con excepción de los Magistrados, y aplicar las sanciones a que se refiere la presente Ley;
 
@@ -747,9 +749,11 @@ En todo caso, se considerarán como faltas graves, el incumplimiento de las obli
 
 Con independencia de si el motivo de la queja da o no lugar a responsabilidad, el Presidente del Tribunal, dictará las providencias oportunas para su corrección o remedio inmediato.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### Artículo 49.
 
-Si se estimare que la queja fue interpuesta sin motivo, se impondrá al quejoso, a su representante o abogado, o a ambos, una multa de diez a cien días de salario mínimo vigente en el estado al momento de interponerse la queja.
+Si se estimare que la queja fue interpuesta sin motivo, se impondrá al quejoso, a su representante o abogado, o a ambos, una multa de diez a cien veces el valor diario de la Unidad de Medida y Actualización al momento de interponerse la queja.
 
 ###### Artículo 50.
 
@@ -855,11 +859,11 @@ Cuando se presenten quejas o denuncias en contra del titular de la Contraloría 
 
 De igual manera, en caso de impedimento legal o ausencia del titular de la Contraloría Interna, el Presidente del Tribunal, será competente en lo que corresponda para investigar, tramitar, sustanciar y resolver los procedimientos y recursos correspondientes.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 14 DE MARZO DE 2009)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE MARZO DE 2009)</small>
 
 ## TÍTULO SEXTO. DEL SERVICIO PROFESIONAL DE CARRERA
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 14 DE MARZO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE MARZO DE 2009)</small>
 
 ### CAPÍTULO PRIMERO. GENERALIDADES
 
@@ -975,7 +979,7 @@ LIC. JAIME HUMBERTO LASTRA BASTAR
 
 SECRETARIO DE GOBIERNO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 12 DE DICIEMBRE DE 2008.
 
@@ -1048,3 +1052,21 @@ P.O. 19 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL DECRETO 005 POR EL QUE “SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO 118 DE FECHA 2 DE JULIO DE 2014 PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE TABASCO, SUPLEMENTO C N° 7494”.]
 
 ÚNICO.- El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 089 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 18, FRACCIÓN XXII Y 49, DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DE TABASCO".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- El valor diario de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Estadística y Geografía, y publique en el Diario Oficial de la Federación, con fundamento en el artículo 26, apartado B, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
+
+TERCERO.- Quedan derogadas las disposiciones legales que se opongan al presente Decreto.
+
+CUARTO.- A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes, así como en cualquier disposición jurídica que emane de las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
+
+QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha de entrada en vigor de este Decreto, que utilicen el salario mínimo como referencia para cualquier efecto, no se modificarán por la Unidad de Medida y Actualización, salvo que las partes acuerden expresamente lo contrario. Lo anterior, sin perjuicio de que a partir de la entrada en vigor de este Decreto los contratantes puedan utilizar como índice o referencia a la Unidad de Medida y Actualización.
+
+SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
+
+Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
