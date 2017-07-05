@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-transportes-del-estado-de-chiapas-12058"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-24"
-last_updated: "2016-06-08"
+last_updated: "2017-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12058&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE TRANSPORTES DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Chiapas, el miércoles 24 de junio de 1998.
 
@@ -565,9 +565,13 @@ F) UN REPRESENTANTE DE CADA ORGANIZACION DE TRANSPORTISTAS LEGALMENTE CONSTITUID
 
 ARTICULO 50 QUATER.- EL COMITE CONSULTIVO EN MATERIA DE TRANSPORTE PUBLICO, SESIONARA EN FORMA PUBLICA PARA EL ANALISIS Y DICTAMEN CORRESPONDIENTE AL OTORGAMIENTO DE CONCESIONES Y PERMISOS EN EL RECINTO QUE SE DESIGNE PARA ELLO, PRIORIZANDO LA SEGURIDAD DE LOS INTEGRANTES, PREVIA CONVOCATORIA QUE EMITA EL SECRETARIO DE TRANSPORTES A SOLICITUD DEL TITULAR DEL EJECUTIVO DEL ESTADO.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2014)</small>
+
 LA CONVOCATORIA PARA LA SESION ORDINARIA DEBERA REALIZARSE CON CINCO DIAS DE ANTICIPACION A LA CELEBRACION DE LA MISMA, Y PARA EL CASO DE LA EXTRAORDINARIA DEBERA REALIZARSE CON CUANDO MENOS VEINTICUATRO HORAS DE ANTICIPACION A SU CELEBRACION.
 
-NO PODRA CONVOCARSE A SESION DEL COMITE CONSULTIVO EN MATERIA DE TRANSPORTE PUBLICO, UN AÑO ANTES Y DESPUES DE UNA JORNADA ELECTORAL, PARA EL OTORGAMIENTO DE CONCESIONES Y PERMISOS.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+NO PODRA CONVOCARSE A SESION DEL COMITE CONSULTIVO EN MATERIA DE TRANSPORTE PUBLICO, PARA EL OTORGAMIENTO DE CONCESIONES Y PERMISOS, EN EL LAPSO DE TRES MESES PREVIOS A UNA JORNADA ELECTORAL.
 
 ### CAPITULO X. DE LOS HORARIOS, ITINERARIOS O RUTAS, ZONAS Y TARIFAS
 
@@ -1118,3 +1122,13 @@ Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispu
 Artículo Tercero.- El Titular de la Secretaría de Transportes, en el ámbito de su respectiva competencia, realizará las acciones necesarias para el debido cumplimiento del presente Decreto.
 
 Artículo Cuarto.- El Titular de la Secretaría de Transportes, deberá someter a consideración del Titular del Ejecutivo del Estado, las adecuaciones que correspondan al marco jurídico de su actuación, a efecto de hacerlos congruentes con las disposiciones del presente Decreto.
+
+P.O. 5 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 205 POR EL QUE SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 50 QUATER DE LA LEY DE TRANSPORTES DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en Vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- El titular de la Secretaría de Transportes, en el ámbito de su competencia, realizará las acciones necesarias para el debido cumplimento del presente Decreto.
+
+Artículo Tercero.- El Titular de la Secretaría de Transportes deberá someter a consideración del Titular del Ejecutivo del Estado, las adecuaciones correspondientes en el marco jurídico de su actuación, a efecto de hacerlos congruentes con las disposiciones del presente Decreto.
