@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-ordenamiento-sustentable-del-territorio-del-estado-48657
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-28"
-last_updated: "2015-07-29"
+last_updated: "2017-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48657&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE ORDENAMIENTO SUSTENTABLE DEL TERRITORIO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 28 de diciembre de 2005.
 
@@ -37,7 +37,7 @@ LA QUINCUAGÉSIMA OCTAVA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO, EN EJERCI
 
 CONSIDERANDO
 
-.
+[...]
 
 Por lo que se emite el siguiente:
 
@@ -2381,7 +2381,9 @@ En el caso de los fraccionamientos industriales se deberá incluir en el proyect
 
 A efecto de ampliar las posibilidades de acceso a la vivienda a las familias de bajos ingresos o sectores de la población más desprotegidos, el Gobierno del Estado en acuerdo con el Ayuntamiento o Concejo Municipal respectivo, en atención a la urgencia inmediata de resolver problemas de vivienda, podrá autorizar la realización de fraccionamientos sociales progresivos, con los requisitos mínimos de urbanización que éste determine.
 
-Asimismo, se permitirá el fraccionamiento de lotes de seis metros por quince metros en todos los tipos de fraccionamientos, siempre y cuando en los mismos se contemple un treinta por ciento como mínimo de desarrollo de vivienda de interés social progresiva, con un valor de ciento diecisiete punto cero seis veces el salarios (sic) mínimos (sic) vigente en la región, en caso de no presentarse el porcentaje indicado subsistirán las medidas de lote para cada tipo de fraccionamiento específico.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+Asimismo, se permitirá el fraccionamiento de lotes de seis metros por quince metros en todos los tipos de fraccionamientos, siempre y cuando en los mismos se contemple un treinta por ciento como mínimo de desarrollo de vivienda de interés social progresiva, con un valor de ciento diecisiete punto cero seis veces el valor diario de la Unidad de Medida y Actualización, en caso de no presentarse el porcentaje indicado subsistirán las medidas de lote para cada tipo de fraccionamiento específico.
 
 ###### Artículo 199.
 
@@ -3455,9 +3457,11 @@ VI. El plazo de prescripción de las sanciones será de cinco años y empezará 
 
 Para el cumplimiento de las infracciones impuestas, la Secretaría y los Ayuntamientos o Concejos Municipales podrán solicitar el auxilio de la fuerza Pública.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### Artículo 314.
 
-La Secretaría o los Ayuntamientos o Concejo Municipal sancionarán con multa equivalente a la cantidad de quinientas hasta dos mil quinientas veces el salario mínimo general vigente en el Estado, a las personas físicas y jurídicas colectivas que cometan las siguientes infracciones:
+La Secretaría o los Ayuntamientos o Concejo Municipal sancionarán con multa equivalente a la cantidad de quinientas hasta dos mil quinientas veces el valor diario de la Unidad de Medida y Actualización, a las personas físicas y jurídicas colectivas que cometan las siguientes infracciones:
 
 I. Cuando se realice un fraccionamiento sin contar con las autorizaciones respectivas, divida un terreno en lotes, transfiera la propiedad, posesión o cualquiera otro derecho o ejecute cualquier acto que signifique la realización de un fraccionamiento;
 
@@ -3625,7 +3629,7 @@ LIC. JAIME HUMBERTO LASTRA BASTAR
 
 SECRETARIO DE GOBIERNO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 14 DE MARZO DE 2009.
 
@@ -3670,3 +3674,21 @@ SEGUNDO. Se derogan las demás disposiciones legales de igual naturaleza que se 
 TERCERO. El Titular del Poder Ejecutivo, así como los ayuntamientos, conforme a sus respectivas competencias, procederán a realizar las adecuaciones reglamentarias correspondientes de conformidad con el presente Decreto, en un término no mayor a ciento veinte días naturales, a partir de la entrada en vigor de este Decreto.
 
 En tanto se expidan los nuevos ordenamientos que regulen aspectos sustantivos y adjetivos de este Decreto, seguirán aplicándose en lo conducente y en todo lo que no se oponga al mismo, las disposiciones reglamentarias y administrativas que regulaban los aspectos previstos en el presente.
+
+P.O. 5 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 089 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 198, SEGUNDO PÁRRAFO; Y 314, PRIMER PÁRRAFO, AMBOS DE LA LEY DE ORDENAMIENTO SUSTENTABLE DEL TERRITORIO DEL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- El valor diario de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Estadística y Geografía, y publique en el Diario Oficial de la Federación, con fundamento en el artículo 26, apartado B, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
+
+TERCERO.- Quedan derogadas las disposiciones legales que se opongan al presente Decreto.
+
+CUARTO.- A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes, así como en cualquier disposición jurídica que emane de las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
+
+QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha de entrada en vigor de este Decreto, que utilicen el salario mínimo como referencia para cualquier efecto, no se modificarán por la Unidad de Medida y Actualización, salvo que las partes acuerden expresamente lo contrario. Lo anterior, sin perjuicio de que a partir de la entrada en vigor de este Decreto los contratantes puedan utilizar como índice o referencia a la Unidad de Medida y Actualización.
+
+SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
+
+Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
