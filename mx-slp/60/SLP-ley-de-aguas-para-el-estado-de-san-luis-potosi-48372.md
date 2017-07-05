@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2017-05-20"
+last_updated: "2017-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -475,11 +475,11 @@ XI. Ejecutar los acuerdos de la Junta de Gobierno;
 
 XII. Rendir, dentro de los tres primeros meses del siguiente año, su informe anual de actividades a la Junta de Gobierno de la Comisión, mismo que deberá incluir:
 
-a) El cumplimiento de acuerdos de la Junta de Gobierno o su estado de avance;
+a) El cumplimiento de acuerdos de la Junta de Gobierno o su estado de avance.
 
 b) Los estados financieros.
 
-c) Evaluación y control de las metas establecidas en los instrumentos documentales referidos en el Capítulo II de la Ley de Planeación para el Estado y municipios de San Luis Potosí;
+c) Evaluación y control de las metas establecidas en los instrumentos documentales referidos en el Capítulo II de la Ley de Planeación para el Estado y municipios de San Luis Potosí.
 
 d) Cumplimiento de los programas de obras y erogaciones en las mismas o su estado de avance;
 
@@ -731,27 +731,27 @@ La elaboración, seguimiento, evaluación y actualización de la programación h
 
 El Consejo Hídrico Estatal será un órgano colegiado de participación ciudadana, conformado por los representantes de los usuarios de aguas, las organizaciones de la sociedad y la Comisión.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 31.
 
-El Consejo Hídrico Estatal se conformará con representantes de los siguientes sectores:
+En la conformación del Consejo Hídrico Estatal se procurará contar con la representación de los siguientes sectores:
 
-I. Un representante de las instituciones educativas de sus diferentes niveles en el Estado;
+I. Instituciones educativas de sus diferentes niveles en el Estado;
 
-II. Un representante de organizaciones empresariales;
+II. Organizaciones empresariales;
 
-III. Un representante de las organizaciones de la sociedad civil, involucradas con el tema hídrico;
+III. Organizaciones de la sociedad civil, involucradas con el tema hídrico;
 
-IV. Un representante de asociaciones de usuarios;
+IV. Asociaciones de usuarios;
 
-V. Un representante del Consejo Consultivo de Organismos Operadores de Agua en el Estado;
+V. Consejo Consultivo de organismos operadores de agua en la Entidad;
 
-VI. Un representante de organizaciones campesinas, y
+VI. Organizaciones campesinas, y
 
-VII. Un representante de las comunidades indígenas.
+VII. Comunidades indígenas.
 
-Los miembros del Consejo, no percibirán emolumento alguno por su labor.
+Los miembros del Consejo no perciben emolumento alguno por su labor.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
@@ -777,13 +777,13 @@ VIII. Colaborar con la Comisión a efecto de promover modificaciones a la ley, r
 
 Cuando así lo considere conveniente el Consejo Hídrico Estatal, podrá invitar a sus sesiones a las dependencias y entidades de la administración pública que estén involucradas en materia de agua y protección al ambiente.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 33.
 
-Para llevar a cabo la elección de las personas que integrarán el Consejo Hídrico Estatal, el Congreso del Estado a través de la Comisión del Agua, emitirá una convocatoria pública dentro de los primeros treinta días naturales del mes de julio de cada dos años, para la elección y designación de los miembros del Consejo Hídrico Estatal, de entre los cuales se designará a las personas titulares de la Presidencia, Secretaría y cinco vocalías.
+Para la elección y designación de las personas que integrarán el Consejo Hídrico Estatal, el Congreso del Estado, a través de la Comisión del Agua, emitirá convocatoria pública dentro de los primeros treinta días naturales del mes de julio de cada tres años.
 
-La convocatoria deberá exhortar a las organizaciones, asociaciones e instituciones involucradas en el tema hídrico a participar en el procedimiento de selección y obligatoriamente debe reflejar de forma clara y precisa, los requisitos necesarios a cumplir por quien aspire a integrar el Consejo. La Comisión Legislativa del Agua elaborará el dictamen correspondiente con elementos que justifiquen de forma clara y precisa, bajo los principios de legalidad y transparencia, la elección de los aspirantes a fin de presentar ante el Pleno a las personas seleccionadas como integrantes del Consejo Hídrico Estatal.
+La convocatoria deberá exhortar a las organizaciones, asociaciones, instituciones y público en general, involucrados en el tema hídrico, a participar en el procedimiento de elección; dicha convocatoria deberá reflejar de forma clara y precisa los requisitos necesarios a cumplir por quien aspire a integrar el Consejo. La Comisión Legislativa del Agua elaborará el dictamen correspondiente con elementos que justifiquen de forma clara y precisa, bajo los principios de legalidad y transparencia, la elección de los aspirantes a fin de presentar ante el Pleno a las personas señaladas, para, en su caso, integrarse el Consejo Hídrico Estatal.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
@@ -825,13 +825,19 @@ VI. Asuntos generales, y
 
 VII. Clausura.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
+
+ARTICULO 35 TER. El Congreso del Estado elegirá a las personas que fungirán como consejeros titulares y suplentes. Para el caso de los suplentes, la Comisión Legislativa del Agua elaborará una lista de las personas idóneas a ocupar dicho cargo.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+Sólo a falta definitiva de algún consejero titular, pasará a ocupar las respectivas funciones la primera persona que se encuentre en la prelación y, así sucesivamente, de la lista de suplentes que al efecto se elijan. Igual procedimiento se llevará a cabo cuando haya una nueva ausencia definitiva. Los mismos requisitos aplicados para seleccionar a las y los consejeros titulares, se dispondrán para quienes deberán ser los suplentes.
+
 > <small>(ADICIONADO, P.O. 22 DE JULIO DE 2011)</small>
 
-ARTICULO 35 TER. El Congreso del Estado elegirá a las personas que fungirán como consejeros titulares y suplentes. Sólo a falta definitiva de un Consejero titular, pasará a ocupar el cargo la persona primera de la lista de suplentes y, así sucesivamente, cuando haya una nueva ausencia definitiva.
-
-Las mismas reglas aplicadas para seleccionar a las y los consejeros titulares, se usarán para designar a quienes sean suplentes.
-
 Las y los consejeros serán designados por el Congreso del Estado, y durarán tres años en su cargo; podrán ser reelectos por única ocasión para un segundo periodo de tres años.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2011)</small>
 
 Los miembros del Consejo tendrán derecho a voz y voto en la toma de acuerdos, respecto a los asuntos que se traten, los que deberán ser votados por la mitad más uno de las personas que (sic) integren.
 
@@ -2561,7 +2567,7 @@ Cuando no sea posible medir el consumo debido a la destrucción total o parcial 
 
 ###### ARTICULO 183.
 
-Toda persona usuaria está obligada al pago mensual de los servicio públicos de agua potable, alcantarillado y saneamiento, con base en las cuotas o tarifas fijadas en los términos de la presente Ley, con excepción de aquellas quienes reciben estos servicios por parte de un organismo operador intermunicipal, mismos que deberán pagar bimestralmente.
+Toda persona usuaria está obligada al pago mensual de los servicio (sic) públicos de agua potable, alcantarillado y saneamiento, con base en las cuotas o tarifas fijadas en los términos de la presente Ley, con excepción de aquellas quienes reciben estos servicios por parte de un organismo operador intermunicipal, mismos que deberán pagar bimestralmente.
 
 > <small>(ADICIONADO, P.O. 18 DE JULIO DE 2015)</small>
 
@@ -3468,5 +3474,13 @@ P.O. 20 DE MAYO DE 2017.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0634.- SE ADICIONA PÁRRAFO SEGUNDO AL ARTÍCULO DÉCIMO TERCERO TRANSITORIO, DE LA LEY DE AGUAS PARA EL ESTADO".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 0669.- SE REFORMA LOS ARTÍCULOS, 31, 33, Y 35 TER EN SUS PÁRRAFOS, PRIMERO, Y SEGUNDO, DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto estará vigente al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
