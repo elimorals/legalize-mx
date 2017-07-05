@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-medios-de-impugnacion-en-materia-electoral-del-65483"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-12"
-last_updated: "2016-03-19"
+last_updated: "2017-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65483&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
 
 Ley publicada en el Número 51 Extraordinario del Periódico Oficial del Estado de Tabasco, el viernes 12 de diciembre de 2008.
 
@@ -197,7 +197,7 @@ d) Cuando no se hayan agotado las instancias previas establecidas por las leyes 
 
 e) Cuando en un mismo escrito se pretenda impugnar más de una elección, salvo los casos señalados en los párrafos 2 y 3 del artículo 54 del presente ordenamiento.
 
-f) Cuando en el medio .de impugnación se solicite, en forma exclusiva, la no aplicación de una norma general en materia electoral, cuya validez haya sido declarada por la Suprema Corte de Justicia de la Nación.
+f) Cuando en el medio de impugnación se solicite, en forma exclusiva, la no aplicación de una norma general en materia electoral, cuya validez haya sido declarada por la Suprema Corte de Justicia de la Nación.
 
 ###### Artículo 11.
 
@@ -589,7 +589,9 @@ a) Apercibimiento;
 
 b) Amonestación;
 
-c) Multa de cincuenta hasta cinco mil veces el salario mínimo diario general vigente en el estado. En caso de reincidencia se podrá aplicar hasta el doble de la cantidad señalada;
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+c) Multa de cincuenta hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización. En caso de reincidencia se podrá aplicar hasta el doble de la cantidad señalada;
 
 d) Auxilio de la fuerza pública; y
 
@@ -1398,3 +1400,21 @@ P.O. 19 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL DECRETO 005 POR EL QUE “SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO 118 DE FECHA 2 DE JULIO DE 2014 PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE TABASCO, SUPLEMENTO C N° 7494”.]
 
 ÚNICO.- El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 089 POR EL QUE "SE REFORMA EL ARTÍCULO 34, NUMERAL 1, INCISO C), DE LA LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE TABASCO".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- El valor diario de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Estadística y Geografía, y publique en el Diario Oficial de la Federación, con fundamento en el artículo 26, apartado B, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
+
+TERCERO.- Quedan derogadas las disposiciones legales que se opongan al presente Decreto.
+
+CUARTO.- A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes, así como en cualquier disposición jurídica que emane de las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
+
+QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha de entrada en vigor de este Decreto, que utilicen el salario mínimo como referencia para cualquier efecto, no se modificarán por la Unidad de Medida y Actualización, salvo que las partes acuerden expresamente lo contrario. Lo anterior, sin perjuicio de que a partir de la entrada en vigor de este Decreto los contratantes puedan utilizar como índice o referencia a la Unidad de Medida y Actualización.
+
+SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
+
+Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
