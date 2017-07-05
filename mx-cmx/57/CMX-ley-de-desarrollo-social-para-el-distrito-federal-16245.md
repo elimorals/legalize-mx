@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-social-para-el-distrito-federal-16245"
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-23"
-last_updated: "2016-11-28"
+last_updated: "2017-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16245&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-04-24"
 
 LEY DE DESARROLLO SOCIAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 5 DE JULIO DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 23 de mayo de 2000.
 
@@ -343,6 +343,14 @@ XIV. Implementar en caso de ser necesario los planes de acción específicos par
 > <small>(ADICIONADA, G.O. 11 DE FEBRERO DE 2009)</small>
 
 XV. Recibir del Consejo de Evaluación para su inserción en el Sistema de Información del Desarrollo Social, las mediciones que éste realice sobre la desigualdad, la pobreza y el grado de desarrollo social de las unidades territoriales en la Ciudad de México; y los resultados de la evaluación del programa de Desarrollo Social y las evaluaciones de los programas sociales.
+
+> <small>(ADICIONADA, G.O. 5 DE JULIO DE 2017)</small>
+
+XVI. Coordinará a las dependencias, entidades, órganos desconcentrados de la administración pública de la Ciudad de México, de la Federación y de otras entidades federativas, en los ámbitos de su competencia, de acuerdo con lo establecido por las disposiciones jurídicas en materia de Desarme Voluntario, con la finalidad de promover la cultura de la paz y la no violencia.
+
+> <small>(ADICIONADA, G.O. 5 DE JULIO DE 2017)</small>
+
+XVII. La Secretaría en coordinación con la Secretaría de Seguridad Pública coordinarán, acciones, actividades y desarrollarán programas para generar un ambiente de paz, con la finalidad de establecer acciones de prevención delictiva.
 
 > <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
@@ -1060,7 +1068,7 @@ La Junta se reunirá con la periodicidad que señale el Estatuto Orgánico del C
 
 Las acciones de las organizaciones civiles para la realización de proyectos o programas públicos de Desarrollo Social deberán sujetarse a la evaluación de la instancia gubernamental responsable de la instrumentación del programa, sin perjuicio de la evaluación interna que realicen.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 16 DE MAYO DE 2005)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 16 DE MAYO DE 2005)</small>
 
 ### CAPÍTULO DÉCIMO. DE LA DENUNCIA CIUDADANA
 
@@ -1094,7 +1102,7 @@ Todo proceso por el cual resulte una resolución a favor o en contra del asunto 
 
 Las faltas en las que incurran quienes se hallen legalmente facultados para la aplicación de la presente Ley, se sujetarán a los procedimientos y sanciones que señala la Ley Federal de Responsabilidades de los Servidores Públicos, además de las leyes aplicables.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 16 DE MAYO DE 2005)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 16 DE MAYO DE 2005)</small>
 
 CAPÍTULO DECIMOPRIMERO
 
@@ -1239,3 +1247,15 @@ CUARTO.- Las Demarcaciones territoriales (Delegaciones) contarán un plazo de ci
 QUINTO.- La Secretaría de Desarrollo Social contará con un plazo de ciento ochenta días, para la sistematización e integración de los padrones de personas derechohabientes o beneficiarias de los programas de desarrollo social a su cargo.
 
 SEXTO.- La Secretaría de Desarrollo Social contará con un plazo de trescientos sesenta y cinco días, para la sistematización, integración, unificación y publicación de la información relacionada con los padrones de personas derechohabientes o beneficiarias de los programas de desarrollo social, tanto de las demarcaciones territoriales (Delegaciones), como de los programas a su cargo.
+
+G.O. 5 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PREVENCIÓN SOCIAL DEL DELITO Y LA VIOLENCIA PARA EL DISTRITO FEDERAL; DE LA LEY DE DESARROLLO SOCIAL PARA EL DISTRITO FEDERAL; DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL Y DE LA LEY ORGÁNICA DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL".]
+
+PRIMERO.- El presente Decreto entrara en vigor el día siguiente de su publicación en la gaceta oficial de (sic) Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de (sic) Ciudad de México, para su conocimiento y para mayor difusión en el Diario Oficial de la Federación.
+
+TERCERO.- La Asamblea Legislativa del Distrito Federal para el ejercicio fiscal 2018, debe destinar recursos suficientes a la Secretaría de Desarrollo Social, para la implementación de la Acción Interinstitucional denominada "Por Tu Familia, Desarme Voluntario" y su modalidad "Por Tu Familia, Desarme Voluntario te Acompaña Desde Tu Casa".
+
+CUARTO.- La Secretaría de Finanzas realizará las gestiones necesarias para la asignación presupuestal a la Secretaría de Desarrollo Social.
