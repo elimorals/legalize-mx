@@ -4,7 +4,7 @@ identifier: "TAB-ley-forestal-del-estado-de-tabasco-50295"
 country: "mx"
 rank: "ley"
 publication_date: "2006-04-01"
-last_updated: "2006-04-01"
+last_updated: "2017-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50295&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY FORESTAL DEL ESTADO DE TABASCO.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el sábado 1 de abril de 2006.
 
@@ -161,7 +161,7 @@ Terreno temporalmente forestal: Las superficies agropecuarias que se dediquen te
 
 Unidades de manejo forestal: Territorio cuyas condiciones físicas, ambientales, sociales y económicas guardan cierta similitud para fines de ordenación, manejo forestal y conservación de los recursos;
 
-Uso doméstico: El aprovechamiento, sin propósitos comerciales, de los recursos forestales extraídos del medio natural en el que se encuentran, para usos rituales o satisfacer las necesidades de energía calorífica, vivienda, aperos de .labranza y otros usos por parte de las comunidades rurales o productores forestales en la satisfacción de sus necesidades básicas; y
+Uso doméstico: El aprovechamiento, sin propósitos comerciales, de los recursos forestales extraídos del medio natural en el que se encuentran, para usos rituales o satisfacer las necesidades de energía calorífica, vivienda, aperos de labranza y otros usos por parte de las comunidades rurales o productores forestales en la satisfacción de sus necesidades básicas; y
 
 Vegetación Primaria Nativa: El conjunto de plantas y hongos que crecen y se desarrollan en forma natural, formando los bosques, selvas tropicales y otros ecosistemas de la región, dando lugar al desarrollo y convivencia equilibrada de otros recursos y procesos naturales.
 
@@ -337,7 +337,7 @@ I. Promover e impulsar el establecimiento de plantaciones forestales comerciales
 
 II. Coadyuvar con el gobierno federal a lograr que el aprovechamiento sustentable de los ecosistemas forestales sea fuente permanente de ingresos y mejores condiciones de vida para sus propietarios o poseedores, generando una oferta suficiente para la demanda social, industrial y la exportación, así como fortalecer la capacidad productiva de los ecosistemas;
 
-III. Dar atención integral y cercana a los productores forestales, a través del sistema de ventanilla única .establecida en los municipios;
+III. Dar atención integral y cercana a los productores forestales, a través del sistema de ventanilla única establecida en los municipios;
 
 IV. La creación de mecanismos económicos para compensar, apoyar o estimular a los productores forestales por la generación de proyectos productivos con viabilidad económica;
 
@@ -487,7 +487,7 @@ La Comisión Estatal deberá presentar ante la SEMARNAT y la CONAFOR, con base e
 
 ###### Artículo 33.
 
-La Comisión Estatal participará .junto con la CONAFOR en la delimitación de las unidades de manejo forestal en las zonas forestales maderables y no maderables, con el propósito de lograr una ordenación forestal sustentable, una planeación ordenada de las actividades de protección, conservación, restauración y en general, el manejo eficiente de los recursos forestales.
+La Comisión Estatal participará junto con la CONAFOR en la delimitación de las unidades de manejo forestal en las zonas forestales maderables y no maderables, con el propósito de lograr una ordenación forestal sustentable, una planeación ordenada de las actividades de protección, conservación, restauración y en general, el manejo eficiente de los recursos forestales.
 
 ###### Artículo 34.
 
@@ -615,7 +615,7 @@ I. Promover la capacitación y actualización de los servidores públicos del ra
 
 II. Apoyar la capacitación y actualización de los prestadores de Servicios Técnicos Forestales, en sistemas de manejo forestal;
 
-III. Impulsar programas de educación y capacitación forestal destinados a propietarios y productores forestales, .así como a los pobladores de regiones forestales, en materia de conservación, protección, restauración y aprovechamiento sustentable de los recursos forestales, así como en materia de contingencias, emergencias e incendios forestales; y
+III. Impulsar programas de educación y capacitación forestal destinados a propietarios y productores forestales, así como a los pobladores de regiones forestales, en materia de conservación, protección, restauración y aprovechamiento sustentable de los recursos forestales, así como en materia de contingencias, emergencias e incendios forestales; y
 
 IV. Las demás que le señalen las disposiciones legales aplicables.
 
@@ -677,7 +677,7 @@ VI. Solicitar autorización para modificar el programa técnico de manejo.
 
 ###### Artículo 56.
 
-El manejo del aprovechamiento de los recursos forestales estará a cargo del titular del .aprovechamiento. En el caso de que éste decida contratar a un prestador de servicios técnicos forestales, dicho prestador será responsable solidario con el titular.
+El manejo del aprovechamiento de los recursos forestales estará a cargo del titular del aprovechamiento. En el caso de que éste decida contratar a un prestador de servicios técnicos forestales, dicho prestador será responsable solidario con el titular.
 
 ###### Artículo 57.
 
@@ -933,13 +933,19 @@ III. Imposición de multa; y
 
 IV. Devolución de los recursos económicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### Artículo 84.
 
-La imposición de las multas a que se refiere el artículo anterior, la determinará la Comisión Estatal y serán aplicadas por la Secretaría de Finanzas del Gobierno del Estado, en la forma siguiente:
+La imposición de las multas a que se refiere el artículo anterior, la determinará la Comisión Estatal y serán aplicadas por la Secretaría de Planeación y Finanzas del Gobierno del Estado, en la forma siguiente:
 
-I. Con un equivalente de 10 a 500 veces de salario mínimo vigente en el Estado a quien cometa las infracciones señaladas en las fracciones I, II y III del artículo 82 de esta Ley; y
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-II. Con el equivalente de 100 a 2,000 veces de salario mínimo vigente en el Estado a quien cometa las infracciones señaladas en las fracciones IV, V, VI Y VII del artículo 82 de esta Ley.
+I. Con un equivalente de 10 a 500 veces el valor diario de la Unidad de Medida y Actualización a quien cometa las infracciones señaladas en las fracciones I, II y III del artículo 82 de esta Ley; y
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+II. Con el equivalente de 100 a 2,000 veces el valor diario de la Unidad de Medida y Actualización a quien cometa las infracciones señaladas en las fracciones IV, V, VI Y VII del artículo 82 de esta Ley.
 
 Si el infractor fuese jornalero, obrero, trabajador, no podrá ser sancionado con multa mayor del importe de su jornal correspondiente a un día; tratándose de trabajadores no asalariados, la multa no excederá al equivalente a un día de su ingreso.
 
@@ -1028,3 +1034,23 @@ GOBERNADOR DEL ESTADO DE TABASCO.
 LIC. JAIME HUMBERTO LASTRA BASTAR
 
 SECRETARIO DE GOBIERNO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 089 POR EL QUE "SE REFORMA EL ARTÍCULO 84, PRIMER PÁRRAFO Y SUS FRACCIONES I Y II, DE LA LEY FORESTAL DEL ESTADO DE TABASCO".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- El valor diario de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Estadística y Geografía, y publique en el Diario Oficial de la Federación, con fundamento en el artículo 26, apartado B, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
+
+TERCERO.- Quedan derogadas las disposiciones legales que se opongan al presente Decreto.
+
+CUARTO.- A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes, así como en cualquier disposición jurídica que emane de las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
+
+QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha de entrada en vigor de este Decreto, que utilicen el salario mínimo como referencia para cualquier efecto, no se modificarán por la Unidad de Medida y Actualización, salvo que las partes acuerden expresamente lo contrario. Lo anterior, sin perjuicio de que a partir de la entrada en vigor de este Decreto los contratantes puedan utilizar como índice o referencia a la Unidad de Medida y Actualización.
+
+SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
+
+Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
