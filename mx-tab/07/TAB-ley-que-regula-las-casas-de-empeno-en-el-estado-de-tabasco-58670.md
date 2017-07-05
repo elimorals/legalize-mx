@@ -4,7 +4,7 @@ identifier: "TAB-ley-que-regula-las-casas-de-empeno-en-el-estado-de-tabasco-5867
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-22"
-last_updated: "2014-12-24"
+last_updated: "2017-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58670&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY QUE REGULA LAS CASAS DE EMPEÑO EN EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
 
 Ley publicada en el Suplemento 6813 al Periódico Oficial del Estado de Tabasco, el sábado 22 de diciembre de 2007.
 
@@ -37,7 +37,7 @@ LA QUINCUAGÉSIMA NOVENA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SO
 
 ANTECEDENTES
 
-.
+[...]
 
 UNDÉCIMO.- En virtud de lo anterior, siendo facultad del Congreso del Estado, de conformidad con lo establecido en el artículo 36 fracción I de la Constitución Política del Estado Libre y Soberano de Tabasco, expedir, reformar, adicionar, derogar y abrogar leyes y decretos para la mejor administración del Estado; se emite el siguiente:
 
@@ -499,11 +499,11 @@ Las casas de empeño deberán cumplir con el requisito de registrar el contrato 
 
 Son susceptibles de empeño todo tipo de bienes muebles, con excepción de aquellos que se inscriban en registros oficiales, los semovientes y los fungibles.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 33.
 
-Las Casas de Empeño a que se refiere el artículo 1 de esta Ley sólo otorgarán préstamos con garantía prendaria hasta por un monto máximo de 2,500 salarios mínimos por transacción y hasta por un plazo máximo de 4 meses contados a partir de la celebración del contrato, y con opción a tres refrendos.
+Las Casas de Empeño a que se refiere el artículo 1 de esta Ley sólo otorgarán préstamos con garantía prendaria hasta por un monto máximo de 2,500 veces el valor diario de la Unidad de Medida y Actualización por transacción y hasta por un plazo máximo de 4 meses contados a partir de la celebración del contrato, y con opción a tres refrendos.
 
 Si al quinto mes nominal el deudor no desempeña o refrenda la prenda en los términos del párrafo anterior, se llevará a cabo la comercialización correspondiente directamente en las almonedas de la casa de empeño o a través de remate, a elección del establecimiento. El plazo máximo para refrendar será de dos días hábiles anteriores a la fecha que la casa de empeño haya fijado para la comercialización.
 
@@ -695,11 +695,11 @@ II El día, hora y lugar en que tendrá verificativo la audiencia de declaració
 
 Desahogada la audiencia a que se refiere la fracción II del artículo anterior, la Secretaría, dentro de los ocho días hábiles siguientes a su celebración, resolverá sobre la procedencia o improcedencia de la sanción y notificará al licenciatario la resolución.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 51.
 
-Se impondrá multa de cien a quinientos salarios mínimos, cuando:
+Se impondrá multa de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización, cuando:
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -892,3 +892,21 @@ SEGUNDO.- Los establecimientos que a la entrada en vigor de la presente Ley, hay
 TERCERO.- Los establecimientos que actualmente se encuentren funcionando legalmente dentro del territorio del Estado, contarán con 60 días naturales posteriores a la publicación de la presente Ley, para realizar el cambio de permiso a Licencia, sin pago del derecho correspondiente.
 
 CUARTO.- En caso de que los Contribuyentes no cumplan con lo señalado en el artículo transitorio anterior en el tiempo indicado, su solicitud de cambio de Permiso a Licencia se acatará a lo establecido en el Capítulo II Sección Tercera de la presente Ley y en el artículo 60 fracción VI de la Ley de Hacienda del Estado.
+
+P.O. 5 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 089 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 33, PRIMER PÁRRAFO Y 51, PRIMER PÁRRAFO AMBOS DE LA LEY QUE REGULA LAS CASAS DE EMPEÑO EN EL ESTADO DE TABASCO".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- El valor diario de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Estadística y Geografía, y publique en el Diario Oficial de la Federación, con fundamento en el artículo 26, apartado B, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
+
+TERCERO.- Quedan derogadas las disposiciones legales que se opongan al presente Decreto.
+
+CUARTO.- A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes, así como en cualquier disposición jurídica que emane de las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
+
+QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha de entrada en vigor de este Decreto, que utilicen el salario mínimo como referencia para cualquier efecto, no se modificarán por la Unidad de Medida y Actualización, salvo que las partes acuerden expresamente lo contrario. Lo anterior, sin perjuicio de que a partir de la entrada en vigor de este Decreto los contratantes puedan utilizar como índice o referencia a la Unidad de Medida y Actualización.
+
+SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
+
+Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
