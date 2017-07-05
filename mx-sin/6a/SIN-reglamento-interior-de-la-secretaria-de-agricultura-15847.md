@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-de-la-secretaria-de-agricultura-15847"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-03-03"
-last_updated: "2003-11-21"
+last_updated: "2017-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15847&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA, GANADERIA Y PESCA
 
-REGLAMENTO INTERIOR DE LA SECRETARÍA DE AGRICULTURA, GANADERÍA Y PESCA
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE AGRICULTURA Y GANADERÍA, PUBLICADO EN EL P.O. DE 5 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2003.
+REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA, GANADERIA Y PESCA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 3 de marzo de 2000.
 
@@ -211,7 +213,7 @@ Unidad de Enlace y Evaluación de Programas de Desarrollo
 
 #### SECCIÓN I. DE LA SECRETARÍA PARTICULAR
 
-###### Articulo 8°.
+###### Artículo 8°.
 
 Corresponde a la Secretaría Particular del Secretario de Agricultura, Ganadería y Pesca el ejercicio de las siguientes atribuciones:
 
@@ -543,7 +545,7 @@ Departamento de Operación y Seguimiento
 
 ###### Artículo 23.
 
-Además de las facultades, genéricas de los subsecretarios, al Subsecretario de Ganadería le corresponde:
+Además de las facultades genéricas de los subsecretarios, al Subsecretario de Ganadería le corresponde:
 
 I. Definir las políticas, lineamientos y criterios que se requieren para la formulación, revisión, actualización, seguimiento y evaluación de los planes y programas del sector, así como de los proyectos estratégicos que de ellos se deriven;
 
@@ -767,7 +769,7 @@ XI. Las demás que le confieran las leyes, decretos, reglamentos, convenios, cir
 
 #### SECCIÓN II. DA LA DIRECCIÓN ACUACULTURA Y AGUAS CONTINENTALES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA, GANADERIA Y PESCA, P.O. 21 DE NOVIEMBRE DE 2003.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
 
@@ -852,3 +854,15 @@ Jesús Vega Acuña
 P.O. 21 DE NOVIEMBRE DE 2003.
 
 Artículo Único. El presente Decreto entrará en vigor el día primero de enero de dos mil cuatro.
+
+P.O. 5 DE JULIO DE 2017.
+
+[N. DE E. TRANSITORIOS DEL”REGLAMENTO INTERIOR DE LA SECRETARÍA DE AGRICULTURA Y GANADERÍA”
+
+Artículo Primero.- El presente Reglamento entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo segundo.- Se abroga el Reglamento Interior de la Secretaría de Agricultura, Ganadería y Pesca, publicado en el Periódico Oficial "El Estado de Sinaloa", de fecha 3 de marzo de 2000.
+
+Artículo Tercero.- Se derogan todas las disposiciones reglamentarias y administrativas que se opongan a lo establecido por este reglamento.
+
+Artículo Cuarto.- La Secretaría formulará dentro de un plazo de sesenta días hábiles, contados a partir de la entrada en vigor de este Reglamento, su manual de organización, de procedimientos y de servicios al público.
