@@ -4,7 +4,7 @@ identifier: "TAB-codigo-civil-para-el-estado-de-tabasco-15037"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-04-09"
-last_updated: "2017-07-01"
+last_updated: "2017-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 9 de abril de 1997.
 
@@ -655,7 +655,9 @@ Cuando los vicios o defectos de las actas no son substanciales, no producen la n
 
 Responsabilidad por omisión
 
-La omisión del registro de reconocimiento en el caso del artículo 107, del registro de tutela y de la autorización de la adopción, no priva de sus efectos legales el reconocimiento, tutela y adopción, respectivamente, ni impide a los padres, tutores o adoptantes el ejercicio de sus facultades como tales, ni puede alegarse por ninguna persona en perjuicio del reconocido o del incapaz a que se refieran esos actos; pero los responsables de la omisión incurrirán en una multa hasta por el equivalente a quince días de salario mínimo general vigente en la Entidad, que impondrá el Oficial del Registro Civil del lugar donde se haya hecho la declaración extemporánea de nacimiento y que deberá enterarse en la oficina fiscal del Estado, de su jurisdicción. Respecto de la imposición de la multa a que se refiere este artículo, los oficiales del Registro Civil, gozarán de las facultades que se concede a los Jueces en el artículo 12 de este Código.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+La omisión del registro de reconocimiento en el caso del artículo 107, del registro de tutela y de la autorización de la adopción, no priva de sus efectos legales el reconocimiento, tutela y adopción, respectivamente, ni impide a los padres, tutores o adoptantes el ejercicio de sus facultades como tales, ni puede alegarse por ninguna persona en perjuicio del reconocido o del incapaz a que se refieran esos actos; pero los responsables de la omisión incurrirán en una multa hasta por el equivalente a quince veces el valor diario de la Unidad de Medida y Actualización que impondrá el Oficial del Registro Civil del lugar donde se haya hecho la declaración extemporánea de nacimiento y que deberá enterarse en la oficina fiscal del Estado, de su jurisdicción. Respecto de la imposición de la multa a que se refiere este artículo, los oficiales del Registro Civil, gozarán de las facultades que se concede a los Jueces en el artículo 12 de este Código.
 
 ###### ARTICULO 83.
 
@@ -723,7 +725,9 @@ Deber de reconocer al hijo
 
 Tanto la madre como el padre, que no estuvieren casados entre sí, tienen el deber de reconocer a su hijo; pero si no cumplen con este deber voluntariamente, no se asentará en el acta de nacimiento el nombre de los mismos y simplemente, se anotará la hora, día, mes año y lugar del nacimiento, así como el nombre propio y apellidos que se pongan a la persona cuyo nacimiento sea registrado. Si el padre o la madre o ambos piden por sí o por apoderado que en el acta de nacimiento se asiente su nombre, se hará constar éste y se mencionará en su caso la petición que en este sentido hagan el padre, la madre, o ambos, o el apoderado. Cuando el hijo sea presentado por uno de los progenitores, se asentará únicamente el nombre del que lo presente.
 
-En el acta de nacimiento no se hará ninguna mención que califique la filiación en forma alguna. Las palabras "hijo legítimo", "hijo natural", "hijo ilegítimo", "hijo de padres desconocidos", "hijo de padre desconocido", "hijo de madre desconocida", o "habido como consecuencia de cualquier método de reproducción humana artifical (sic)", que se inserten con infracción de este artículo, se testarán de oficio, de manera que queden ilegibles. El Oficial del Registro Civil que inserte en el acta alguna de estas menciones será sancionado, la primera vez con una multa por el equivalente a quince días de salario mínimo general vigente en la Entidad y la segunda con destitución del cargo. La investigación de la paternidad y de la maternidad está permitida en los términos establecidos por este Código.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+En el acta de nacimiento no se hará ninguna mención que califique la filiación en forma alguna. Las palabras "hijo legítimo", "hijo natural”, "hijo ilegítimo", "hijo de padres desconocidos", "hijo de padre desconocido", "hijo de madre desconocida", o "habido como consecuencia de cualquier método de reproducción humana artificial", que se inserten con infracción de este artículo, se testarán de oficio, de manera que queden ilegibles. El Oficial del Registro Civil que inserte en el acta alguna de estas menciones será sancionado, la primera vez con una multa por el equivalente a quince veces el valor diario de la Unidad de Medida y Actualización y la segunda con destitución del cargo. La investigación de la paternidad y de la maternidad está permitida en los términos establecidos por este Código.
 
 En el caso de los hijos nacidos como resultado de la participación de una madre gestante sustituta, se presumirá la maternidad de la madre contratante que la presenta, ya que este hecho implica su aceptación. En los casos en los que participe una madre subrogada, deberá estarse a lo ordenado para la adopción plena.
 
@@ -1045,7 +1049,9 @@ Los oficiales del Registro Civil sólo podrán negarse a autorizar un matrimonio
 
 Sanción por retardo
 
-El Oficial del Registro Civil que sin motivo justificado retarde la celebración de un matrimonio, será sancionado por primera vez con una multa hasta de veinticinco días de salario mínimo general vigente en la Entidad y, en caso de reincidencia, con la destitución de su cargo.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+El Oficial del Registro Civil que sin motivo justificado retarde la celebración de un matrimonio, será sancionado por primera vez con una multa hasta de veinticinco veces el valor diario de la Unidad de Medida y Actualización y, en caso de reincidencia, con la destitución de su cargo.
 
 ###### ARTICULO 131.
 
@@ -1109,7 +1115,9 @@ VIII.- Nombre, edad, nacionalidad, domicilio del declarante y grado de parentesc
 
 Obligación de avisar
 
-Los dueños o habitantes de la casa en que se verifique un fallecimiento, los superiores, los directores y administrativos de los cuarteles, colegios, hospitales, prisiones, asilos o cualquier casa de comunidad, los encargados de los mesones y hoteles, y los caseros de las casas de vecindad, tienen obligación de dar aviso, dentro de las veinticuatro horas siguientes de ocurrida la muerte, al Oficial del Registro Civil. El incumplimiento de esta obligación se sancionará con multa por el equivalente de hasta treinta veces el salario mínimo general vigente en la Entidad.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+Los dueños o habitantes de la casa en que se verifique un fallecimiento, los superiores, los directores y administrativos de los cuarteles, colegios, hospitales, prisiones, asilos o cualquier casa de comunidad, los encargados de los mesones y hoteles, y los caseros de las casas de vecindad, tienen obligación de dar aviso, dentro de las veinticuatro horas siguientes de ocurrida la muerte, al Oficial del Registro Civil. El incumplimiento de esta obligación se sancionará con multa por el equivalente de hasta treinta veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 138.
 
@@ -2931,9 +2939,9 @@ La disposición anterior no es aplicable si el hijo tiene a su favor la presunci
 
 Sanción por revelar el nombre del progenitor
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-El Oficial del Registro Civil y el Notario que violen el artículo 354, serán sancionados con multa hasta por el equivalente a treinta días de salario mínimo general vigente en el Estado.
+El Oficial del Registro Civil y el Notario que violen el artículo 354, serán sancionados con multa hasta por el equivalente a treinta veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 357.
 
@@ -4075,7 +4083,9 @@ Tampoco pueden desempeñarse por personas que tengan entre sí parentesco en cua
 
 Aviso al Juez del fallecimiento de quien ejercía la patria potestad.
 
-Cuando fallezca una persona que tenga bajo su potestad un menor o incapacitado a quien deba nombrarse su tutor, el ejecutor testamentario y en caso de intestado, los parientes y personas con quienes haya vivido el difunto, deben, bajo la pena de multa hasta por el equivalente a quince días de salario mínimo general vigente en el Estado, dar parte del fallecimiento dentro de quince días al Juez del lugar, a fin de que provea a la tutela. El Oficial del Registro Civil y las autoridades administrativas y judiciales tienen el deber de dar aviso al Juez de primera instancia, de los casos en que sea necesario nombrar tutor y que llegue a su conocimiento en el ejercicio de sus funciones.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+Cuando fallezca una persona que tenga bajo su potestad un menor o incapacitado a quien deba nombrarse su tutor, el ejecutor testamentario y en caso de intestado, los parientes y personas con quienes haya vivido el difunto, deben, bajo la pena de multa hasta por el equivalente a quince veces el valor diario de la Unidad de Medida y Actualización, dar parte del fallecimiento dentro de quince días al Juez del lugar, a fin de que provea a la tutela. El Oficial del Registro Civil y las autoridades administrativas y judiciales tienen el deber de dar aviso al Juez de primera instancia, de los casos en que sea necesario nombrar tutor y que llegue a su conocimiento en el ejercicio de sus funciones.
 
 ###### ARTICULO 469.
 
@@ -5019,9 +5029,9 @@ Cuando los bienes pertenezcan en copropiedad
 
 Cuando se trate de enajenar, gravar o hipotecar a título oneroso bienes que pertenezcan al incapacitado como copropietario, la operación se practicará calculada por cantidades si así lo determina la mayoría de copartícipes, no sujetándose a las reglas establecidas para bienes de incapacitados, sino cuando dicha mayoría estuviere representada por una o más personas sujetas a tutela.
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-Para todos los gastos extraordinarios que no sean de conservación ni de reparación, el tutor necesita ser autorizado por el Juez. Igualmente se requiere licencia judicial para que el tutor pueda transigir o comprometer en árbitros los negocios del incapacitado. Cuando el objeto de la transacción consista en bienes inmuebles, muebles preciosos o valores mercantiles o industriales cuya cuantía exceda de 730 días de salario mínimo general vigente en el Estado, se necesita del consentimiento del curador y de la aprobación judicial.
+Para todos los gastos extraordinarios que no sean de conservación ni de reparación, el tutor necesita ser autorizado por el Juez. Igualmente se requiere licencia judicial para que el tutor pueda transigir o comprometer en árbitros los negocios del incapacitado. Cuando el objeto de la transacción consista en bienes inmuebles, muebles preciosos o valores mercantiles o industriales cuya cuantía exceda de 730 veces el valor diario de la Unidad de Medida y Actualización, se necesita del consentimiento del curador y de la aprobación judicial.
 
 ###### ARTICULO 582.
 
@@ -6117,7 +6127,9 @@ Cada familia sólo puede constituir un patrimonio. Los que se constituyan subsis
 
 Valor máximo
 
-El valor máximo de los bienes afectos al patrimonio de familia, será el equivalente a quince mil días del salario mínimo general o su equivalente vigente en el estado.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+El valor máximo de los bienes afectos al patrimonio de familia, será el equivalente a quince mil veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -7305,7 +7317,9 @@ El Ministerio Público, si estima que procede, deducirá ante el Juez competente
 
 Apoderamiento
 
-El que se apodere de un bien vacante sin cumplir lo prevenido en este Capítulo, pagará una multa por el equivalente de hasta trescientos sesenta y cinco veces el importe del salario mínimo general vigente en el Estado, sin perjuicio de las penas que señale la ley respectiva.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+El que se apodere de un bien vacante sin cumplir lo prevenido en este Capítulo, pagará una multa por el equivalente de hasta trescientos sesenta y cinco veces el importe del valor diario de la Unidad de Medida y Actualización, sin perjuicio de las penas que señale la ley respectiva.
 
 ###### ARTICULO 873.
 
@@ -20171,7 +20185,9 @@ a).- Los intereses que pacten, no podrán ser superiores al de los préstamos co
 
 b).- No podrá ser rescindido por incumplimiento del comprador, sino mediante resolución judicial que así lo declare y que se funde en la falta de pago de cuatro o más de los abonos pactados, salvo que se trate de los últimos.
 
-c).- La rescisión a que se refiere el inciso anterior, quedará sin causa y, por tanto, deberá subsistir en sus términos el contrato celebrado, si antes de que se cite a las partes para oír sentencia definitiva en el juicio respectivo, el comprador paga al vendedor el importe total de los abonos vencidos hasta la fecha de pago, más los intereses ordinarios y moratorios causados, así como una cantidad equivalente a setenta y cinco días de salario mínimo general vigente por concepto de indemnización.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+c).- La rescisión a que se refiere el inciso anterior, quedará sin causa y, por tanto, deberá subsistir en sus términos el contrato celebrado, si antes de que se cite a las partes para oír sentencia definitiva en el juicio respectivo, el comprador paga al vendedor el importe total de los abonos vencidos hasta la fecha de pago, más los intereses ordinarios y moratorios causados, así como una cantidad equivalente a setenta y cinco veces el valor diario de la Unidad de Medida y Actualización por concepto de indemnización.
 
 d).- Respecto del incumplimiento del comprador en cuanto a las demás obligaciones que resulten a su cargo, el vendedor podrá exigir en todo tiempo su cumplimiento forzoso y, en su caso, el pago de daños y perjuicios.
 
@@ -20197,9 +20213,9 @@ El contrato de compraventa no requiere para su validez formalidad especial algun
 
 De inmuebles
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
 
-La venta de un inmueble que tenga un valor equivalente hasta la cantidad de quinientos días de salario mínimo general vigente en el Estado, podrá hacerse en documento privado que firmarán el vendedor y el comprador ante dos testigos, ratificado ante el director del Registro Público de la Propiedad, jefe de la oficina registral correspondiente o ante Notario Público.
+La venta de un inmueble que tenga un valor equivalente hasta la cantidad de quinientas veces el valor diario de la Unidad de Medida y Actualización, podrá hacerse en documento privado que firmarán el vendedor y el comprador ante dos testigos, ratificado ante el director del Registro Público de la Propiedad, jefe de la oficina registral correspondiente o ante Notario Público.
 
 La compraventa de inmuebles, así como las hipotecas, que celebren las instituciones que tiene como objeto proporcionar viviendas terminadas o lotes de interés social, y que hayan sido creadas para cumplir esa finalidad, tanto por el Gobierno Federal como por el Estatal o Municipal, con beneficiados que sean de escasos recursos, podrá hacerse constar en documento privado en los términos del párrafo anterior, cualquiera que sea su costo.
 
@@ -20221,13 +20237,17 @@ De dicho instrumento se formarán tres originales, uno para cada parte y el otro
 
 Cuándo será en escritura pública
 
-Con excepción de lo previsto por el segundo párrafo del artículo 2588, si el valor del inmueble excede del equivalente a quinientos días de salario mínimo general vigente en el Estado, su venta se hará en escritura pública.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+Con excepción de lo previsto por el segundo párrafo del artículo 2588, si el valor del inmueble excede del equivalente a quinientas veces el valor diario de la Unidad de Medida y Actualización, su venta se hará en escritura pública.
 
 ###### ARTICULO 2592.
 
 Transmisión por endoso
 
-Tratándose de bienes inscritos en el Registro y cuyo valor no exceda del equivalente a quinientos días de salario mínimo general vigente en el Estado, cuando la venta sea al contado, puede hacerse transmitiendo el dominio por endoso puesto en el certificado de propiedad que el registrador tiene obligación de expedir al vendedor a cuyo favor están inscritos los bienes.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
+
+Tratándose de bienes inscritos en el Registro y cuyo valor no exceda del equivalente a quinientas veces el valor diario de la Unidad de Medida y Actualización, cuando la venta sea al contado, puede hacerse transmitiendo el dominio por endoso puesto en el certificado de propiedad que el registrador tiene obligación de expedir al vendedor a cuyo favor están inscritos los bienes.
 
 El endoso será ratificado ante el registrador, quien tiene obligación de cerciorarse de la identidad de las partes y de la autenticidad de las firmas, y previa comprobación de que están cubiertos los impuestos correspondientes a la compraventa realizada en esta forma, hará una nueva inscripción de los bienes vendidos, en favor del comprador.
 
@@ -20341,11 +20361,13 @@ La donación puede hacerse verbalmente o por escrito.
 
 En escrito privado o público
 
-La donación de bienes muebles cuyo valor exceda del importe de diez días de salario mínimo general vigente en el Estado, constará por escrito.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+La donación de bienes muebles cuyo valor exceda del importe de diez veces el valor diario de la Unidad de Medida y Actualización, constará por escrito.
 
-Este será privado cuando el valor de los bienes donados no pase del equivalente a quinientos días del salario mínimo general vigente en el Estado; si excede de dicha cantidad, el contrato se hará constar en escritura pública.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+Este será privado cuando el valor de los bienes donados no pase del equivalente a quinientas veces el valor diario de la Unidad de Medida y Actualización; si excede de dicha cantidad, el contrato se hará constar en escritura pública.
 
 ###### ARTICULO 2610.
 
@@ -20493,7 +20515,9 @@ Cuándo no se revocará por superveniencia de hijos
 
 La donación no podrá ser revocada por superveniencia de hijos:
 
-I.- Cuando su importe sea menor de quinientos días de salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+I.- Cuando su importe sea menor de quinientas veces el valor diario de la Unidad de Medida y Actualización;
 
 II.- Cuando sea antenupcial;
 
@@ -20819,7 +20843,9 @@ La renta o precio del arrendamiento puede consistir en una suma de dinero o en c
 
 Formalidad
 
-El arrendamiento debe otorgarse siempre por escrito; pero si el bien arrendado fuere rústico y la renta anual excediere del equivalente de quinientos días de salario mínimo general vigente en el Estado, el contrato se otorgará en escritura pública.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+El arrendamiento debe otorgarse siempre por escrito; pero si el bien arrendado fuere rústico y la renta anual excediere del equivalente a quinientas veces el valor diario de la Unidad de Medida y Actualización, el contrato se otorgará en escritura pública.
 
 ###### ARTICULO 2673.
 
@@ -21683,9 +21709,9 @@ Para celebrar el contrato de habitación en tiempo compartido deberá obtenerse 
 
 Sanciones por incumplimiento
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-Los contratos celebrados sin la licencia a que se refiere el artículo anterior estarán afectados de nulidad absoluta, y el compartidor será sancionado por la autoridad municipal, con multa hasta del equivalente a cinco mil días de salario mínimo general vigente en el Estado.
+Los contratos celebrados sin la licencia a que se refiere el artículo anterior estarán afectados de nulidad absoluta, y el compartidor será sancionado por la autoridad municipal, con multa hasta del equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 2787.
 
@@ -21705,7 +21731,9 @@ La duración del contrato será de cinco años forzosos para ambas partes, renov
 
 No podrá hacerse ninguna renovación si los cinco años de ella no están comprendidos dentro del tiempo probable de vida del inmueble. Para los efectos de esta disposición la autoridad municipal, con la periodicidad que proceda, mandará practicar estudios técnicos que determinen dicha vida probable y cuyo resultado notificará al compartidor para su conocimiento y efecto.
 
-La renovación que se haga contrariando el párrafo anterior de este precepto, estará afectada de nulidad absoluta y además, independientemente de que se promueva o no tal nulidad, el compartidor infractor será sancionado con quinientos días de salario mínimo general vigente en la Entidad, que en cada caso le impondrá la autoridad municipal.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+La renovación que se haga contrariando el párrafo anterior de este precepto, estará afectada de nulidad absoluta y además, independientemente de que se promueva o no tal nulidad, el compartidor infractor será sancionado con quinientas veces el valor diario de la Unidad de Medida y Actualización, que en cada caso le impondrá la autoridad municipal.
 
 ###### ARTICULO 2789.
 
@@ -22217,13 +22245,17 @@ Para que el mandatario pueda hacer donaciones en nombre o por cuenta del mandant
 
 En carta poder
 
-El mandato podrá otorgarse en carta poder firmada ante dos testigos, sin que sea necesaria la previa ratificación de las firmas cuando el interés del negocio para el que se confiere se encuentre comprendido entre el equivalente de tres a diez días de salario mínimo general vigente en la entidad.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+El mandato podrá otorgarse en carta poder firmada ante dos testigos, sin que sea necesaria la previa ratificación de las firmas cuando el interés del negocio para el que se confiere se encuentre comprendido entre el equivalente de tres a diez veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 2861.
 
 Ratificación ante Notario
 
-Puede otorgarse el mandato en carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante Notario, cuando el interés del negocio para el que se confiere se encuentre comprendido entre el equivalente de once a noventa y nueve días de salario mínimo general vigente en la entidad.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+Puede otorgarse el mandato en carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante Notario, cuando el interés del negocio para el que se confiere se encuentre comprendido entre el equivalente de once a noventa y nueve veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 2862.
 
@@ -22231,7 +22263,9 @@ En escritura pública
 
 El mandato debe otorgarse en escritura pública:
 
-I.- Cuando el interés del negocio para que se confiere exceda del equivalente a noventa y nueve días de salario mínimo general vigente en la Entidad;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+I.- Cuando el interés del negocio para que se confiere exceda del equivalente a noventa y nueve veces el valor diario de la Unidad de Medida y Actualización;
 
 II.- Cuando sea general;
 
@@ -22773,7 +22807,9 @@ Serán a cargo del empresario la pérdida o los deterioros de la obra si ocurren
 
 Por ajuste cerrado
 
-Siempre que el empresario se encargue, por ajuste cerrado, de la obra en bien inmueble cuyo valor exceda del equivalente a cien días de salario mínimo general vigente en la Entidad, se otorgará el contrato por escrito, incluyéndose en él una descripción pormenorizada y en los casos que lo requieran, un plano, diseño, presupuesto y tiempo para la ejecución de la obra.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+Siempre que el empresario se encargue, por ajuste cerrado, de la obra en bien inmueble cuyo valor exceda del equivalente a cien veces el valor diario de la Unidad de Medida y Actualización, se otorgará el contrato por escrito, incluyéndose en él una descripción pormenorizada y en los casos que lo requieran, un plano, diseño, presupuesto y tiempo para la ejecución de la obra.
 
 ###### ARTICULO 2931.
 
@@ -23127,7 +23163,9 @@ Responsabilidad de los dueños
 
 Los dueños de establecimientos en donde se reciben huéspedes son responsables del deterioro, destrucción o pérdida de los efectos introducidos en el establecimiento por las personas que allí se alojen, con su consentimiento o el de sus empleados autorizados; a menos que prueben que el daño sufrido es imputable a estas personas, a sus acompañantes, a los que las visiten, o que proviene de caso fortuito, de fuerza mayor o vicios de los expresados efectos.
 
-La responsabilidad de que habla el párrafo anterior no excederá de la suma del importe de cincuenta días de salario mínimo general vigente en el Estado, cuando no se pueda imputar culpa al hostelero o a su personal.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+La responsabilidad de que habla el párrafo anterior no excederá de la suma del importe de cincuenta veces el valor diario de la Unidad de Medida y Actualización, cuando no se pueda imputar culpa al hostelero o a su personal.
 
 ###### ARTICULO 2976.
 
@@ -25061,7 +25099,9 @@ Este convenio no puede perjudicar los derechos de tercero.
 
 Cuándo deberá otorgarse en escritura pública
 
-Cuando el crédito hipotecario exceda del importe de trescientos días del salario mínimo general vigente en la Entidad, la hipoteca debe otorgarse en escritura pública.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+Cuando el crédito hipotecario exceda del importe de trescientas veces el valor diario de la Unidad de Medida y Actualización, la hipoteca debe otorgarse en escritura pública.
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -25772,6 +25812,24 @@ SEGUNDO.- Las personas que hayan contraído matrimonio hasta antes de la entrada
 TERCERO.- En los juicios sobre nulidad de matrimonio y divorcio, en los que se requiera representación de cónyuges menores de edad, seguirán rigiéndose por las disposiciones del Código de Procedimientos Civiles que se encontraban vigentes al momento de contraer matrimonio.
 
 CUARTO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 5 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 089. POR EL QUE “SE REFORMAN LOS ARTÍCULOS 82; 92, SEGUNDO PÁRRAFO; 130; 137; 356; 468; 581, SEGUNDO PÁRRAFO; 732; 872; 2585, INCISO C); 2588, PRIMER PÁRRAFO; 2591; 2592, PRIMER PÁRRAFO; 2609; 2630, FRACCIÓN I; 2672; 2786; 2788, TERCER PÁRRAFO; 2860; 2861; 2862, FRACCIÓN I; 2930; 2975, SEGUNDO PÁRRAFO; 3214, PRIMER PÁRRAFO; TODOS DEL CÓDIGO CIVIL PARA EL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. El valor diario de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Estadística y Geografía, y publique en el Diario Oficial de la Federación, con fundamento en el artículo 26, apartado B, último párrafo de la Constitución Política de los Estados Unidos Mexicanos.
+
+TERCERO.- Quedan derogadas las disposiciones legales que se opongan al presente Decreto.
+
+CUARTO.- A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes, así como en cualquier disposición jurídica que emane de las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
+
+QUINTO. Los contratos y convenios de cualquier naturaleza, vigentes a la fecha de entrada en vigor de este Decreto, que utilicen el salario mínimo como referencia para cualquier efecto, no se modificarán por la Unidad de Medida y Actualización, salvo que las partes acuerden expresamente lo contrario. Lo anterior, sin perjuicio de que a partir de la entrada en vigor de este Decreto los contratantes puedan utilizar como índice o referencia a la Unidad de Medida y Actualización.
+
+SEXTO. Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
+
+Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
 
 ###### ARTICULO PRIMERO.
 
