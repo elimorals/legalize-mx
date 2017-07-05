@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-secretaria-de-seguridad-publica-del-31414"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-05-20"
-last_updated: "2011-07-15"
+last_updated: "2017-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31414&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2003-04-07"
 ---
 # LEY ORGANICA DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL DISTRITO FEDERAL
 
-LEY ORGANICA DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL DISTRITO FEDERAL
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE JULIO DE 2011.
+LEY ORGÁNICA DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 5 DE JULIO DE 2017.
 
 Ley Orgánica publicada en la Gaceta Oficial del Distrito Federal, el martes 20 de mayo de 2003.
 
@@ -77,6 +79,8 @@ VIII. Secretario: al Secretario de Seguridad Pública del Distrito Federal;
 IX. Unidades Administrativas Policiales: a las unidades dotadas de atribuciones de decisión y ejecución en el ámbito de las funciones operativas de la Policía del Distrito Federal; y
 
 X. Unidades Administrativas de Apoyo Técnico Operativo Policial: a las unidades que asisten técnica y operativamente a las unidades administrativas policiales, y que preparan los elementos necesarios para que se emitan o ejecuten los actos administrativos en el ámbito de las funciones operativas de la Policía del Distrito Federal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 3°.
 
@@ -140,21 +144,19 @@ XXVII. Establecer las características de la identificación oficial de los serv
 
 XXVIII. Autorizar los procedimientos administrativos de la Secretaría en materia de administración de recursos humanos, materiales y servicios generales de la misma, atendiendo los lineamientos y normas que al efecto emita la Oficialía Mayor del Distrito Federal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, G.O. 15 DE JULIO DE 2011)</small>
 
 XXIX. Difundir a la sociedad a través de los órganos de representación ciudadana, comités ciudadanos, consejos del pueblo y comités delegacionales de seguridad publica, los resultados de la supervisión de la actuación policial y de la verificación del cumplimiento de las obligaciones de los elementos de policía, así como de los mecanismos de medición de su desempeño;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
 
 XXX. Realizar acciones de prevención de faltas administrativas y comisión de delitos ambientales en suelo urbano y suelo de conservación, así como en áreas de valor ambiental y áreas naturales protegidas de la competencia del Distrito Federal, en coordinación con la Secretaría del Medio Ambiente del Distrito Federal para tal efecto; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(ADICIONADA, G.O. 5 DE JULIO DE 2017)</small>
 
-> <small>(ADICIONADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+XXX BIS. Coadyuvar con la Secretaría de Desarrollo Social de la Ciudad de México en el desarrollo de la Acción Interinstitucional denominada “Por Tu Familia, Desarme Voluntario” y su modalidad “por Tu Familia, Desarme Voluntario te Acompaña Desde Tu Casa”, para generar un ambiente de paz, con la finalidad de establecer acciones de prevención delictiva a través de promover la cultura de la paz y no violencia;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 5 DE JULIO DE 2017)</small>
 
 XXXI. Las demás que le atribuyan las leyes, así como los reglamentos, decretos, acuerdos y órdenes del Presidente de la República y del Jefe de Gobierno, en el ámbito de sus respectivas competencias.
 
@@ -534,19 +536,13 @@ VI. Vigilar y proteger los espacios públicos y de acceso al público en el Dist
 
 VII. Vigilar lugares estratégicos para la seguridad pública del Distrito Federal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
 
 VIII. Actuar en coordinación con otras instituciones de seguridad pública e instancias de gobierno, federales, estatales o municipales, cuando las necesidades del servicio lo requieran;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
 
 IX. Realizar funciones de control, supervisión y regulación del tránsito de personas y vehículos en la vía pública; y
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, G.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -672,8 +668,6 @@ VIII. Instrumentar en coordinación con otras dependencias, programas y campaña
 
 IX.- Formular, ejecutar y difundir programas de control y preventivos en la ingesta de bebidas alcohólicas y consumo de estupefacientes, preferentemente en la cercanía de puntos de mayor consumo y vialidades de alta incidencia en accidentes automovilísticos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, G.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 34 Bis.
@@ -740,21 +734,15 @@ e) Diseño y ejecución de dispositivos, tácticas y estrategias para la vigilan
 
 f) Realización de labores de rescate y auxilio médico prehospitalario en casos de siniestros y situaciones de emergencia; y (sic)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, G.O. 31 DE OCTUBRE DE 2008)</small>
 
 g) Ejecución de dispositivos, tácticas y estrategias en auxilio de la Secretaría del Medio Ambiente, para el patrullaje, control y supervisión para proteger, resguardar y prevenir actos o hechos constitutivos de delito o infracción administrativa en materia ambiental en suelo de conservación y suelo urbano, así como en áreas de valor ambiental y áreas naturales protegidas de competencia del Distrito Federal, y verificar su cumplimiento.
 
 En ese sentido, los policías ambientales deberán coordinarse con los bomberos forestales en términos de lo establecido en el artículo 34 bis de esta Ley;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, G.O. 31 DE OCTUBRE DE 2008)</small>
 
 h) Realización de labores de patrullaje para la prevención de la comisión de delitos e infracciones administrativas cometidas en en (sic) suelo urbano y suelo de conservación, áreas naturales protegidas y áreas de valor ambiental competencia del Distrito Federal, en auxilio de la Secretaría del Medio Ambiente; y
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -950,8 +938,6 @@ En el catálogo de puestos correspondiente se contemplarán las percepciones dif
 
 La profesionalización de la Policía será permanente y obligatoria conforme al sistema de carrera policial. Para permanecer al servicio de la Secretaría dentro de la carrera policial, los interesados deberán participar en los programas de formación y actualización profesional, a tal efecto, el órgano responsable de la formación policial difundirá en todas las instalaciones de la Secretaría los cursos a su cargo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, G.O. 31 DE OCTUBRE DE 2008)</small>
 
 Aquellos policías que en auxilio de la Secretaría del Medio Ambiente realicen acciones destinadas al patrullaje y prevención de delitos e infracciones administrativas en materia ambiental en suelo urbano y de conservación, áreas naturales protegidas y áreas de valor ambiental de competencia del Distrito Federal, además de la obligación de participar en los programas de formación a que se refiere el párrafo anterior, deberán ser capacitados en materia ambiental y para responder ante incendios forestales y apoyar a los bomberos, en coordinación con la Secretaría del Medio Ambiente y el Heroico Cuerpo de Bomberos, ambos del Distrito Federal.
@@ -1022,8 +1008,6 @@ VI. La realización de actividades de colaboración para el desempeño de accion
 
 En los programas cuya formulación, instrumentación, control o evaluación correspondan a la Secretaría, se contemplarán acciones tendientes a:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, G.O. 15 DE JULIO DE 2011)</small>
 
 I. Lograr el respeto de la comunidad a los elementos de la Policía y el reconocimiento de sus funciones, mediante la participación en reuniones a que fueren convocados por los órganos de representación ciudadana electos en las colonias y pueblos o por vecinos organizados residentes de las áreas geográficas de atención correspondientes;
@@ -1034,7 +1018,7 @@ III. Desarrollar diagnósticos y programas comunitarios de prevención, para def
 
 IV. Capacitar y entrenar a los elementos de la policía en métodos de trabajo con la comunidad, estrategias de resolución de problemas, mediación y desarrollo de proyectos;
 
-V. Coordinar la actuación de la unidad de protección ciudadana correspondiente con otras dependencias o entidades públicas con el objeto de reducir la incidencia delictiva así como para resolver problemas específicos en rubros como lugares de venta de armas de fuego y de estupefacientes y psicotrópicos, prostitución, alumbrado público, limpia y recolección de basura, balizamiento, pavimentación, bacheo, banquetas, desazolve, poda, nomenclatura, espacios públicos, terrenos baldíos, infraestructura y mobiliario urbano, y en general sobre la prestación de servicios públicos en la zona; y (sic)
+V. Coordinar la actuación de la unidad de protección ciudadana correspondiente con otras dependencias o entidades públicas con el objeto de reducir la incidencia delictiva así como para resolver problemas específicos en rubros como lugares de venta de armas de fuego y de estupefacientes y psicotrópicos, prostitución, alumbrado público, limpia y recolección de basura, balizamiento, pavimentación, bacheo, banquetas, desazolve, poda, nomenclatura, espacios públicos, terrenos baldíos, infraestructura y mobiliario urbano, y en general sobre la prestación de servicios públicos en la zona; y
 
 VI. Realizar jornadas de seguridad y participación ciudadana, visitas de puerta a puerta, campañas de prevención, información y educación y de responsabilidad del ciudadano, en asuntos de competencia de la Secretaría;
 
@@ -1044,17 +1028,13 @@ VII. Realizar y difundir semestralmente, por unidades y coordinaciones territori
 
 La Secretaría podrá celebrar los convenios necesarios con las instancias competentes, para implementar dichas jornadas de difusión, prevención, educación y comunicación, respecto de los temas previstos en esta fracción.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, G.O. 15 DE JULIO DE 2011)</small>
 
 ###### Artículo 63.
 
 La Secretaría difundirá entre los vecinos y habitantes de las áreas geográficas de atención, los cuadrantes de patrullaje, los vehículos asignados para el mismo así como los elementos responsables de llevarlo a cabo y promoverá entre los mismos la elección, mediante asamblea ciudadana convocada para tal efecto por el comité ciudadano o consejo del pueblo electo, y esta será preparada a través del coordinador interno que haya sido asignado en la coordinación de seguridad ciudadana y prevención del delito dentro del comité o consejo del pueblo, sin menoscabar la función y responsabilidad del presidente del comité o consejo del pueblo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE JULIO DE 2011)</small>
 
 ###### Artículo 64.
 
@@ -1068,17 +1048,13 @@ III. Tiempos de respuesta a las llamadas de auxilio o solicitud de presencia.
 
 A dichas reuniones acudirán el titular de la Unidad de Protección Ciudadana de que se trate, el oficial a cargo del grupo que actúa en la zona de que se trate y un elemento del mismo grupo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, G.O. 15 DE JULIO DE 2011)</small>
 
 ###### Artículo 65.
 
 Los órganos de representación ciudadana electos en las colonias y pueblos a que se refiere el artículo anterior, mediante sesión interna de comité ciudadano o consejo del pueblo designarán al coordinador interno que se hará cargo de la coordinación de seguridad ciudadana y de prevención del delito dentro del comité ciudadano o consejo del pueblo en los términos de la ley de participación ciudadana; que a su vez fungirá como enlace entre la Unidad de Protección Ciudadana y los vecinos y habitantes del cuadrante de patrullaje, a efecto de poner en conocimiento de la misma las necesidades en materia de acciones policiales de prevención del delito, referentes principalmente a la identificación de lugares o zonas de comisión recurrente de ilícitos, detección de presuntos delincuentes o infractores, funcionamiento deficiente o insuficiente de los elementos de la Policía y en general a la adopción de acciones y medidas tendientes a incrementar los niveles de seguridad vecinal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE JULIO DE 2011)</small>
 
 ###### Artículo 66.
 
@@ -1122,7 +1098,7 @@ PRESIDENTE, DIP. TOMÁS LÓPEZ GARCÍA.- SECRETARIO, DIP. CARLOS ORTIZ CHÁVEZ,-
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b) de la Constitución Política de los Estados Unidos Mexicanos, 48, 49 y 67 fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México a los siete días del mes de abril de dos mil tres.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, LIC. ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MARCELO EBRARD CASAUBÓN.- FIRMA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 G.O. 7 DE JUNIO DE 2006.
 
@@ -1173,3 +1149,15 @@ G.O. 15 DE JULIO DE 2011.
 PRIMERO. Publíquese el presente en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
 
 SEGUNDO. El presente decreto entrara en vigor a los noventa días siguientes de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 5 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PREVENCIÓN SOCIAL DEL DELITO Y LA VIOLENCIA PARA EL DISTRITO FEDERAL; DE LA LEY DE DESARROLLO SOCIAL PARA EL DISTRITO FEDERAL; DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL Y DE LA LEY ORGÁNICA DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL".]
+
+PRIMERO.- El presente Decreto entrara en vigor el día siguiente de su publicación en la gaceta oficial de (sic) Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de (sic) Ciudad de México, para su conocimiento y para mayor difusión en el Diario Oficial de la Federación.
+
+TERCERO.- La Asamblea Legislativa del Distrito Federal para el ejercicio fiscal 2018, debe destinar recursos suficientes a la Secretaría de Desarrollo Social, para la implementación de la Acción Interinstitucional denominada “Por Tu Familia, Desarme Voluntario” y su modalidad “Por Tu Familia, Desarme Voluntario te Acompaña Desde Tu Casa”.
+
+CUARTO.- La Secretaría de Finanzas realizará las gestiones necesarias para la asignación presupuestal a la Secretaría de Desarrollo Social.
