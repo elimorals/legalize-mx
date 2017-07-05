@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-salud-del-estado-de-tabasco-71585"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-12"
-last_updated: "2015-12-23"
+last_updated: "2017-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71585&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE SALUD DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 12 de diciembre de 2009.
 
@@ -2301,7 +2301,7 @@ IV.- Coadyuvar con el Centro Nacional de Trasplantes presentando sus programas d
 
 V.- Operar y mantener actualizado el Registro Estatal de Trasplantes, de conformidad a la normatividad aplicable;
 
-VI.- Proporcionar al Registro Nacional, la información en •materia de Trasplantes generada en el Estado y colaborar con sus acciones, en los términos de los acuerdos de coordinación y colaboración que se celebren;
+VI.- Proporcionar al Registro Nacional, la información en materia de Trasplantes generada en el Estado y colaborar con sus acciones, en los términos de los acuerdos de coordinación y colaboración que se celebren;
 
 VII.- Difundir y proporcionar, con el auxilio de las unidades de atención ciudadana, hospitales y centros de salud, el formato en que deba registrarse el consentimiento expreso de la persona que desea ser donador de órganos, tejidos y células, así como el de consentimiento de donación que realicen las personas a que se refieren los artículos 323 y 324 de la Ley General de Salud;
 
@@ -3815,25 +3815,29 @@ IV. La calidad de reincidente del infractor; y
 
 V. El beneficio obtenido por el infractor como resultado de la infracción.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 416.
 
-Se sancionará con multa de hasta mil veces de acuerdo al salario mínimo general vigente en el Estado, la violación de las disposiciones contenidas en los artículos 49, 59, 61, 78, 88, 123, 131, 167, 177, 205, 238-bis 8, 249, 272, 274, 283, 289, 293, 295, 296, 311, 318, 320, 334, 335, 340, 355, 360, 363, 364 y 369 de esta Ley; pero la autoridad sancionadora, podrá conmutar la multa por una y hasta diez horas de terapia de rehabilitación en las instalaciones de salud pública del Estado, cuyo acreditamiento se realizará en los términos reglamentarios.
+Se sancionará con multa de hasta mil veces el valor diario de la Unidad de Medida y Actualización, la violación de las disposiciones contenidas en los artículos 49, 59, 61, 78, 88, 123, 131, 167, 177, 205, 238-bis 8, 249, 272, 274, 283, 289, 293, 295, 296, 311, 318, 320, 334, 335, 340, 355, 360, 363, 364 y 369 de esta Ley; pero la autoridad sancionadora, podrá conmutar la multa por una y hasta diez horas de terapia de rehabilitación en las instalaciones de salud pública del Estado, cuyo acreditamiento se realizará en los términos reglamentarios.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 417.
 
-Se sancionará con multa equivalente de mil hasta diez mil veces el salario mínimo general vigente en el Estado, la violación a las disposiciones contenidas en los artículos 83, 87, 142, 162, 168, 175, 176, 179, 190, 225, 226, 233, 236, 277, 298, 302, 303, 314, 316, 324, 328, 392, 343, 345 de esta Ley.
+Se sancionará con multa equivalente de mil hasta diez mil veces el valor diario de la Unidad de Medida y Actualización la violación a las disposiciones contenidas en los artículos 83, 87, 142, 162, 168, 175, 176, 179, 190, 225, 226, 233, 236, 277, 298, 302, 303, 314, 316, 324, 328, 392, 343 y 345 de esta Ley.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 418.
 
-Se sancionará con multa equivalente de cuatro mil hasta diez mil veces el salario mínimo general vigente en el Estado, la violación de las disposiciones contenidas en los artículos 141, 146, 147, 174, 242, 261 de esta Ley.
+Se sancionará con multa equivalente de cuatro mil hasta diez mil veces el valor diario de la Unidad de Medida y Actualización, la violación de las disposiciones contenidas en los artículos 141, 146, 147, 174, 242, 261 de esta Ley.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 419.
 
-Las infracciones a esta Ley, no señaladas en los artículos anteriores de este capítulo, serán sancionadas con multa equivalentes de uno y hasta por diez mil veces el salario mínimo general vigente en el Estado.
+Las infracciones a esta Ley, no señaladas en los artículos anteriores de este capítulo, serán sancionadas con multa equivalentes de una y hasta por diez mil veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTÍCULO 420.
 
@@ -3841,17 +3845,23 @@ En caso de reincidencia se duplicará el monto de la multa que corresponda.
 
 Para los efectos de este capítulo se entiende por reincidencia que el infractor cometa la misma violación a las disposiciones de esta Ley o sus reglamentos dos o más veces dentro de un período de dos años, contando a partir de la fecha en que se hubiera notificado la sanción inmediata anterior.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 421.
 
-A quien adultere, contamine, altere o permita la adulteración contaminación o alteración de alimentos, bebidas no alcohólicas, bebidas alcohólicas, medicamentos o cualquier otra sustancia o producto de uso o consumo humano, con inminente peligro para la salud, se le aplicará multa equivalente de cuatro mil a diez mil días de salario mínimo general vigente en el Estado, sin perjuicio de las penas a que se haga acreedor.
+A quien adultere, contamine, altere o permita la adulteración contaminación o alteración de alimentos, bebidas no alcohólicas, bebidas alcohólicas, medicamentos o cualquier otra sustancia o producto de uso o consumo humano, con inminente peligro para la salud, se le aplicará multa equivalente de cuatro mil a diez mil veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de las penas a que se haga acreedor.
 
-###### ARTÍCULO 422.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-Al que por si o por interpósita persona, teniendo conocimiento o a sabiendas de ello, autorice u ordene, por razón de su cargo en las instituciones alimentarías a que se refiere el artículo 162 de este ordenamiento, la distribución de alimentos en descomposición o mal estado o medicamentos caducos, que ponga en peligro la salud de otro; se le impondrá multa de cuatro a diez mil días de salario mínimo general vigente en el Estado. Sin perjuicio de las penas a que fuera acreedor conforme a otras disposiciones legales, para lo cual en su caso, la autoridad sanitaria dará vista al Ministerio Público respectivo.
+###### ARTICULO 422.
 
-###### ARTÍCULO 423.
+Al que por si o por interpósita persona, teniendo conocimiento o a sabiendas de ello, autorice u ordene, por razón de su cargo en las instituciones alimentarías a que se refiere el artículo 162 de este ordenamiento, la distribución de alimentos en descomposición o mal estado o medicamentos caducos, que ponga en peligro la salud de otro; se le impondrá multa de cuatro a diez mil veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de las penas a que fuera acreedor conforme a otras disposiciones legales, para lo cual en su caso, la autoridad sanitaria dará vista al Ministerio Público respectivo.
 
-Al que induzca o propicie que menores de edad o incapaces consuman, mediante cualquier forma, substancias que produzcan efectos psicotrópicos, serán sancionados con multa de hasta de diez mil veces el salario mínimo general vigente en el Estado. Sin perjuicio de las penas a que fuera acreedor conforme a otras disposiciones legales, para lo cual en su caso, la autoridad sanitaria dará vista al Ministerio Público respectivo.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+###### ARTICULO 423.
+
+Al que induzca o propicie que menores de edad o incapaces consuman, mediante cualquier forma, substancias que produzcan efectos psicotrópicos, serán sancionados con multa de hasta de diez mil veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de las penas a que fuera acreedor conforme a otras disposiciones legales, para lo cual en su caso, la autoridad sanitaria dará vista al Ministerio Público respectivo.
 
 ###### ARTÍCULO 424.
 
@@ -4164,3 +4174,21 @@ El Titular del Ejecutivo, por conducto de la Secretaría de Planeación y Finanz
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones en lo que se opongan al presente Decreto.
+
+P.O. 5 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 089 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 416; 417; 418; 419; 421, 422 Y 423, TODOS DE LA LEY DE SALUD DEL ESTADO DE TABASCO".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- El valor diario de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Estadística y Geografía, y publique en el Diario Oficial de la Federación, con fundamento en el artículo 26, apartado B, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
+
+TERCERO.- Quedan derogadas las disposiciones legales que se opongan al presente Decreto.
+
+CUARTO.- A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes, así como en cualquier disposición jurídica que emane de las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
+
+QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha de entrada en vigor de este Decreto, que utilicen el salario mínimo como referencia para cualquier efecto, no se modificarán por la Unidad de Medida y Actualización, salvo que las partes acuerden expresamente lo contrario. Lo anterior, sin perjuicio de que a partir de la entrada en vigor de este Decreto los contratantes puedan utilizar como índice o referencia a la Unidad de Medida y Actualización.
+
+SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
+
+Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
