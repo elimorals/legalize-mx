@@ -4,7 +4,7 @@ identifier: "TAB-ley-electoral-y-de-partidos-politicos-del-estado-de-tabasco-101
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-02"
-last_updated: "2016-07-27"
+last_updated: "2017-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ELECTORAL Y DE PARTIDOS POLÍTICOS DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 2 de julio de 2014.
 
@@ -971,7 +971,9 @@ II. Financiamiento privado.
 
 I. Para el sostenimiento de actividades ordinarias permanentes:
 
-a) El Consejo Estatal determinará anualmente, el monto total por distribuir entre los Partidos Políticos, para lo cual multiplicará el número total de ciudadanos inscritos en el padrón electoral correspondiente al Estado de Tabasco, a la fecha de corte de julio de cada año, por el sesenta y cinco por ciento del salario mínimo diario vigente para el Estado.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+a) El Consejo Estatal determinará anualmente, el monto total por distribuir entre los Partidos Políticos, para lo cual multiplicará el número total de ciudadanos inscritos en el padrón electoral correspondiente al Estado de Tabasco, a la fecha de corte de julio de cada año, por el sesenta y cinco por ciento del valor diario de la Unidad de Medida y Actualización;
 
 b) El resultado de las operaciones señaladas en el inciso anterior constituye el financiamiento público anual a los Partidos Políticos por sus actividades ordinarias permanentes y se distribuirá en la forma que establecen el inciso a), de la Base II, del artículo 41 de la Constitución Federal; y el inciso a) de la fracción VIII del Apartado A del artículo 9, de la Constitución Local;
 
@@ -4355,17 +4357,23 @@ III. El incumplimiento, en lo conducente, de cualquiera de las disposiciones con
 
 I. Con amonestación pública;
 
-II. Con multa de hasta diez mil días de salario mínimo general vigente para el Estado, según la gravedad de la falta;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+II. Con multa de hasta diez mil veces el valor diario de la Unidad de Medida y Actualización, según la gravedad de la falta;
 
 III. Según la gravedad de la falta, con la reducción de hasta el cincuenta por ciento de las ministraciones del financiamiento público que les corresponda, por el periodo que señale la resolución, y
 
-IV. La violación a lo dispuesto en el artículo 56, fracción XVI, de esta Ley se sancionará con multa de hasta veinte mil días de salario mínimo general vigente para el Estado.
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+IV. La violación a lo dispuesto en el artículo 56, fracción XVI, de esta Ley se sancionará con multa de hasta veinte mil veces el valor diario de la Unidad de Medida y Actualización.
 
 3. Respecto de las agrupaciones políticas:
 
 I. Con amonestación pública;
 
-II. Con multa de hasta diez mil días de salario mínimo general vigente para el Estado, según la gravedad de la falta, y
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+II. Con multa de hasta diez mil veces el valor diario de la Unidad de Medida y Actualización, según la gravedad de la falta, y
 
 III. Con la suspensión o cancelación de su registro, que en el primer caso no podrá ser menor a seis meses.
 
@@ -4373,7 +4381,9 @@ III. Con la suspensión o cancelación de su registro, que en el primer caso no 
 
 I. Con amonestación pública;
 
-II. Con multa de hasta diez mil días de salario mínimo general vigente para el estado;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+II. Con multa de hasta diez mil veces el valor diario de la Unidad de Medida y Actualización;
 
 III. Con la pérdida del derecho del aspirante a ser registrado como precandidato en el proceso de selección interno, y
 
@@ -4383,15 +4393,21 @@ IV. Con la pérdida del derecho del precandidato infractor a ser registrado como
 
 I. Con amonestación pública;
 
-II. Respecto de los ciudadanos, o de los dirigentes y afiliados a los Partidos Políticos: con multa de hasta mil quinientos días de salario mínimo general vigente para el estado; en el caso de aportaciones que violen lo dispuesto en esta Ley, o en lo relativo a la difusión de propaganda política o electoral, que infrinjan las disposiciones de esta Ley, con multa de hasta de cinco mil días de salario mínimo general vigente para el Estado, y
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
-III. Respecto de las personas jurídico-colectivas por las conductas señaladas en la fracción anterior: con multa de hasta cien mil días de salario mínimo general vigente para el Estado, en el caso de aportaciones que violen lo dispuesto en esta Ley, o en lo relativo a la difusión de propaganda política o electoral, que infrinjan las disposiciones de esta Ley, con multa de hasta doscientos mil días de salario mínimo general vigente para el Estado.
+II. Respecto de los ciudadanos, o de los dirigentes y afiliados a los Partidos Políticos: con multa de hasta mil quinientas veces el valor diario de la Unidad de Medida y Actualización; en el caso de aportaciones que violen lo dispuesto en esta Ley, o en lo relativo a la difusión de propaganda política o electoral, que infrinjan las disposiciones de esta Ley, con multa de hasta de cinco mil veces el valor diario de la Unidad de Medida y Actualización, y
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+III. Respecto de las personas jurídico-colectivas por las conductas señaladas en la fracción anterior: con multa de hasta cien mil veces el valor diario de la Unidad de Medida y Actualización, en el caso de aportaciones que violen lo dispuesto en esta Ley, o en lo relativo a la difusión de propaganda política o electoral, que infrinjan las disposiciones de esta Ley, con multa de hasta doscientas mil veces el valor diario de la Unidad de Medida y Actualización.
 
 6. Respecto de las organizaciones de ciudadanos que pretendan constituir Partidos Políticos:
 
 I. Con amonestación pública;
 
-II. Con multa de hasta cinco mil días de salario mínimo general vigente para el Estado, según la gravedad de la falta, y
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+II. Con multa de hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización, según la gravedad de la falta, y
 
 III. Con la cancelación del procedimiento tendente a obtener el registro como Partido Político local.
 
@@ -4399,7 +4415,9 @@ III. Con la cancelación del procedimiento tendente a obtener el registro como P
 
 I. Con amonestación pública, y
 
-II. Con multa de hasta cinco mil días de salario mínimo general vigente para el Estado, según la gravedad de la falta.
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+II. Con multa de hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización, según la gravedad de la falta.
 
 8. Los Partidos Políticos y las agrupaciones políticas que infrinjan las obligaciones en materia de transparencia y acceso a la información pública serán sancionados conforme los criterios establecidos en la legislación estatal en la materia.
 
@@ -5076,3 +5094,21 @@ P.O. 27 DE JULIO DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor a partir del 30 de junio del año 2017.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones en lo que se opongan al presente decreto.
+
+P.O. 5 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 089 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 72, INCISO A), DE LA FRACCIÓN I DEL NUMERAL 1; 347, LAS FRACCIONES II Y IV DEL NUMERAL 2, II DEL NUMERAL 3, II DEL NUMERAL 4, II Y III DEL NUMERAL 5, II DEL NUMERAL 6 Y II DEL NUMERAL 7, AMBOS DE LA LEY ELECTORAL Y DE PARTIDOS POLÍTICOS DEL ESTADO DE TABASCO."]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- El valor diario de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Estadística y Geografía, y publique en el Diario Oficial de la Federación, con fundamento en el artículo 26, apartado B, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
+
+TERCERO.- Quedan derogadas las disposiciones legales que se opongan al presente Decreto.
+
+CUARTO.- A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes, así como en cualquier disposición jurídica que emane de las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
+
+QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha de entrada en vigor de este Decreto, que utilicen el salario mínimo como referencia para cualquier efecto, no se modificarán por la Unidad de Medida y Actualización, salvo que las partes acuerden expresamente lo contrario. Lo anterior, sin perjuicio de que a partir de la entrada en vigor de este Decreto los contratantes puedan utilizar como índice o referencia a la Unidad de Medida y Actualización.
+
+SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
+
+Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
