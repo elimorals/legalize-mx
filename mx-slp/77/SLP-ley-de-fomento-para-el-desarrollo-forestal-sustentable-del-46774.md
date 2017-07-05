@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-para-el-desarrollo-forestal-sustentable-del-4677
 country: "mx"
 rank: "ley"
 publication_date: "2005-10-18"
-last_updated: "2016-12-20"
+last_updated: "2017-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 18 de octubre de 2005.
 
@@ -401,6 +401,10 @@ I. De proyección correspondiente a los periodos constitucionales que correspond
 
 II. De proyección de más largo plazo, por 25 años o más, que se expresan en el Programa Estratégico Forestal Estatal.
 
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2017)</small>
+
+La planeación de largo plazo se revisará y, en su caso, se actualizará cada tres años.
+
 ###### ARTICULO 26.
 
 En la elaboración de la planeación del desarrollo forestal estatal y municipal, deberá tomarse en cuenta al Consejo Forestal Estatal.
@@ -408,6 +412,10 @@ En la elaboración de la planeación del desarrollo forestal estatal y municipal
 ###### ARTICULO 27.
 
 En la elaboración de la planeación de desarrollo forestal, se considerarán además de los anteriores, los instrumentos de política ambiental como las áreas naturales protegidas de interés estatal y las transferidas por la federación que conforman el Sistema de Áreas Naturales Protegidas del Estado, así como los planes y programas de ordenamiento ecológico en el Estado.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2017)</small>
+
+Así mismo, se elaborarán programas regionales, los cuales considerarán las diferencias de las condiciones climáticas, hidrológicas, de suelos y de relieve en la planeación forestal para cada región del Estado.
 
 ###### ARTICULO 28.
 
@@ -980,3 +988,11 @@ P.O. 20 DE DICIEMBRE DE 2016.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente.
+
+P.O. 5 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0668.- SE ADICIONA A LOS ARTÍCULOS 25 EL PÁRRAFO CUARTO, Y 27 EL PÁRRAFO SEGUNDO, DE LA LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado" Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
