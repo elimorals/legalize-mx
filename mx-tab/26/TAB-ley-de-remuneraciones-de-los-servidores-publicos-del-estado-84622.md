@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-remuneraciones-de-los-servidores-publicos-del-estado-846
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-28"
-last_updated: "2011-12-28"
+last_updated: "2017-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84622&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE REMUNERACIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TABASCO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
 
 Ley Publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 28 de diciembre de 2011.
 
@@ -233,13 +233,19 @@ Los servidores públicos que violen lo dispuesto por esta Ley serán sancionados
 
 Las entidades públicas, presentarán la querella ante las autoridades competentes cuando se vea afectado en su patrimonio por daños a su hacienda pública, en el incumplimiento a las disposiciones contenidas en la presente ley, ello sin perjuicio de las facultades que las leyes le otorgan al Órgano Superior de Fiscalización del Estado, al ejercer sus facultades de revisión, auditoría o fiscalización.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### Artículo 21.
 
-El servidor público que en razón de su cargo, empleo o comisión hubiere infringido las disposiciones de esta ley, cause daño patrimonial a las haciendas públicas del estado o de los municipios, será sancionado con tres meses a un año de prisión y multa de hasta cien veces el salario mínimo general vigente en el estado, siempre y cuando el monto del daño acumulado no rebase el equivalente a los cien días del referido salario.
+El servidor público que en razón de su cargo, empleo o comisión hubiere infringido las disposiciones de esta ley, cause daño patrimonial a las haciendas públicas del estado o de los municipios, será sancionado con tres meses a un año de prisión y multa de hasta cien veces el valor diario de la Unidad de Medida y Actualización siempre y cuando el monto del daño acumulado no rebase el equivalente a los cien días del referido importe.
 
-Cuando el monto acumulado rebase los cien días de salarios, pero no exceda de mil, la sanción será de uno a tres años de prisión y multa de cien a quinientas veces de salario.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-En caso de que el daño exceda de mil salarios, la prisión será de tres a seis años, y multa de quinientas a cinco mil veces de salario.
+Cuando el monto acumulado rebase las cien veces el valor diario de la Unidad de Medida y Actualización pero no exceda de mil, la sanción será de uno a tres años de prisión y multa de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+En caso de que el daño exceda de mil veces el valor diario de la Unidad de Medida y Actualización la prisión será de tres a seis años, y multa de quinientas a cinco mil veces el valor diario de la Unidad de Medida y Actualización.
 
 Se considera daño patrimonial a las haciendas públicas del estado o de los municipios, cuando los servidores públicos a que se refiere esta Ley, realicen cualquier pago por concepto de remuneración, sin que previamente estén determinados en el tabulador respectivo, o que estándolo, no haya sido aprobado. En este último caso, se considera no aprobado un tabulador cuando en el ejercicio fiscal de que se trate, el presupuesto no contenga dicho tabulador.
 
@@ -284,3 +290,23 @@ CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO.
 LIC. RAFAEL MIGUEL GONZÁLEZ LASTRA
 
 SECRETARIO DE GOBIERNO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 089 POR EL QUE "SE REFORMA EL ARTÍCULO 21, PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO DE LA LEY DE REMUNERACIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TABASCO Y SUS MUNICIPIOS."]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- El valor diario de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Estadística y Geografía, y publique en el Diario Oficial de la Federación, con fundamento en el artículo 26, apartado B, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
+
+TERCERO.- Quedan derogadas las disposiciones legales que se opongan al presente Decreto.
+
+CUARTO.- A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes, así como en cualquier disposición jurídica que emane de las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
+
+QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha de entrada en vigor de este Decreto, que utilicen el salario mínimo como referencia para cualquier efecto, no se modificarán por la Unidad de Medida y Actualización, salvo que las partes acuerden expresamente lo contrario. Lo anterior, sin perjuicio de que a partir de la entrada en vigor de este Decreto los contratantes puedan utilizar como índice o referencia a la Unidad de Medida y Actualización.
+
+SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
+
+Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
