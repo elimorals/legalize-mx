@@ -4,7 +4,7 @@ identifier: "TAB-ley-del-libro-y-bibliotecas-publicas-del-estado-libre-y-88511"
 country: "mx"
 rank: "ley"
 publication_date: "2012-06-06"
-last_updated: "2012-06-06"
+last_updated: "2017-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88511&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DEL LIBRO Y BIBLIOTECAS PÚBLICAS DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
 
 Ley publicada en el Suplemento D del Periódico Oficial del Estado de Tabasco, el miércoles 6 de junio de 2012.
 
@@ -33,7 +33,9 @@ Que el H. Congreso del Estado, se ha servido dirigirme lo siguiente:
 
 LA SEXAGÉSIMA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO, EN EJERCICIO DE LAS FACULTADES CONFERIDAS POR EL ARTÍCULO 36, FRACCIÓN I, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO, CON BASE EN LO SIGUIENTE:
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 TERCERO.- Que en virtud de lo anterior, estando facultado el Congreso del Estado, de conformidad con lo dispuesto por el artículo 36 fracción I de la Constitución Política del Estado Libre y Soberano de Tabasco, para expedir leyes y decretos y legislar en la materia, Ha tenido a bien emitir el siguiente:
 
@@ -253,7 +255,7 @@ e. Asesorar el desarrollo del acervo de las bibliotecas públicas que lo solicit
 
 f. Dotar a las bibliotecas públicas de nueva creación de un acervo de publicaciones informativas, recreativas y formativas, en diferentes formatos, incluyendo el Sistema Braille, para que respondan a las necesidades de información de los habitantes de la localidad;
 
-g. Enviar periódicamente a las bibliotecas que integran la Red Estatal, los (sic) colecciones señalados en el inciso anterior;
+g. Enviar periódicamente a las bibliotecas que integran la Red Estatal, los (sic) colecciones señalados (sic) en el inciso anterior;
 
 h. Recibir de las bibliotecas que integran la Red Estatal, las colecciones obsoletas o poco utilizadas, redistribuirlos y/o darles de baja;
 
@@ -989,21 +991,31 @@ Las Depositarias realizarán semestralmente un inventario de los ejemplares que 
 
 De las Sanciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### Artículo 68.
 
-Los editores, productores y autores residentes en el Estado que no cumplan con la obligación de realizar el depósito legal establecido en esta Ley, se harán acreedores a una multa de hasta 80 salarios mínimos vigentes.
+Los editores, productores y autores residentes en el Estado que no cumplan con la obligación de realizar el depósito legal establecido en esta Ley, se harán acreedores a una multa de hasta 80 veces el valor diario de la Unidad de Medida y Actualización.
 
-A los editores, productores o autores que tengan su domicilio o residencia fuera del Estado y no cumplan con lo dispuesto en esta Ley se les hará un primer exhorto y, de persistir el incumplimiento se harán acreedores a una multa equivalente a 100 salarios mínimos vigentes de su lugar de residencia.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-Para las obras de distribución gratuita, la multa será de 10 salarios mínimos vigentes en el estado.
+A los editores, productores o autores que tengan su domicilio o residencia fuera del Estado y no cumplan con lo dispuesto en esta Ley se les hará un primer exhorto y, de persistir el incumplimiento se harán acreedores a una multa equivalente a 100 veces el valor diario de la Unidad de Medida y Actualización.
 
-El Instituto será la dependencia facultada para aplicar las sanciones correspondientes establecidas en esta Ley: La multa que determine deberá ser turnada a la Secretaría de Administración y Finanzas para el cobro correspondiente, en términos de la legislación fiscal estatal vigente.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+Para las obras de distribución gratuita, la multa será de 10 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+El Instituto será la dependencia facultada para aplicar las sanciones correspondientes establecidas en esta Ley: La multa que determine deberá ser turnada a la Secretaría de Planeación y Finanzas para el cobro correspondiente, en términos de la legislación fiscal estatal vigente.
 
 La aplicación de la sanción no excusa al infractor de cumplir con la entrega de los ejemplares.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
 ###### Artículo 69.
 
-El monto de las multas, aplicadas conforme a esta Ley, y que se recuperen por medio de la Secretaría de Administración y Finanzas del Gobierno del Estado, deberá ser transferido al Instituto con la finalidad de que éste lo destine a la adquisición de materiales bibliográficos, hemerográficos y documentales, que enriquezca el acervo de las depositarias.
+El monto de las multas, aplicadas conforme a esta Ley, y que se recuperen por medio de la Secretaría de Planeación y Finanzas del Gobierno del Estado, deberá ser transferido al Instituto con la finalidad de que éste lo destine a la adquisición de materiales bibliográficos, hemerográficos y documentales, que enriquezca el acervo de las depositarias.
 
 ## TRANSITORIOS
 
@@ -1038,3 +1050,23 @@ CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO.
 LIC. RAFAEL MIGUEL GONZÁLEZ LASTRA
 
 SECRETARIO DE GOBIERNO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 089 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 68, PRIMERO, SEGUNDO, TERCER Y CUARTO PÁRRAFOS, Y 69 DE LA LEY DEL LIBRO Y BIBLIOTECAS PÚBLICAS DEL ESTADO LIBRE Y SOBERANO DE TABASCO".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- El valor diario de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Estadística y Geografía, y publique en el Diario Oficial de la Federación, con fundamento en el artículo 26, apartado B, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
+
+TERCERO.- Quedan derogadas las disposiciones legales que se opongan al presente Decreto.
+
+CUARTO.- A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes, así como en cualquier disposición jurídica que emane de las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
+
+QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha de entrada en vigor de este Decreto, que utilicen el salario mínimo como referencia para cualquier efecto, no se modificarán por la Unidad de Medida y Actualización, salvo que las partes acuerden expresamente lo contrario. Lo anterior, sin perjuicio de que a partir de la entrada en vigor de este Decreto los contratantes puedan utilizar como índice o referencia a la Unidad de Medida y Actualización.
+
+SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
+
+Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
