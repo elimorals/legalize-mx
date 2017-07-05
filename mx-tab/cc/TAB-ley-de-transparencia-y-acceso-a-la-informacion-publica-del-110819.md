@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1108
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-15"
-last_updated: "2015-12-15"
+last_updated: "2017-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Tabasco, el martes 15 de diciembre de 2015.
 
@@ -1959,7 +1959,7 @@ En el caso de que la información solicitada consista en bases de datos se deber
 
 ###### Artículo 136.
 
-Cuando la información requerida por el solicitante ya esté disponible al público en medios impresos, tales como libros, compendios, trípticos, registros públicos, en formatos electrónicos disponibles en Internet o en cualquier otro medio, se le hará saber por el medio requerido .por el solicitante la fuente, el lugar y la forma en que puede consultar, reproducir o adquirir dicha información en un plazo no mayor a cinco días.
+Cuando la información requerida por el solicitante ya esté disponible al público en medios impresos, tales como libros, compendios, trípticos, registros públicos, en formatos electrónicos disponibles en Internet o en cualquier otro medio, se le hará saber por el medio requerido por el solicitante la fuente, el lugar y la forma en que puede consultar, reproducir o adquirir dicha información en un plazo no mayor a cinco días.
 
 ###### Artículo 137.
 
@@ -2359,7 +2359,9 @@ El Instituto, en el ámbito de su competencia, podrá imponer al servidor públi
 
 I. Amonestación pública; y
 
-II. Multa de ciento cincuenta hasta mil quinientas veces el salario mínimo general vigente.
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+
+II. Multa de ciento cincuenta hasta mil quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 178.
 
@@ -2497,19 +2499,29 @@ Las infracciones a lo previsto en la presente Ley serán sancionadas a los:
 
 I. Sujetos Obligados que cuenten con la calidad de Servidor Público, con:
 
-a) Multa de trescientos a dos mil días de salario mínimo general vigente en el estado, para que el Sujeto Obligado cumpla su obligación de manera inmediata, tratándose de los supuestos previstos en las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XIV, XVI, XVII, XVIII y XIX del artículo 181 de esta Ley.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-b) Multa de trescientos a dos mil quinientas veces el salario mínimo general vigente, para que el servidor público cumpla su obligación en un plazo no mayor a tres días en los casos previstos en las fracciones XII, XIII, XV, XX, XXI, XXII, XXIII y XIV del artículo 181 de esta Ley.
+a) Multa de trescientas a dos mil veces el valor diario de la Unidad de Medida y Actualización, para que el Sujeto Obligado cumpla su obligación de manera inmediata, tratándose de los supuestos previstos en las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XIV, XVI, XVII, XVIII y XIX del artículo 181 de esta Ley.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+b) Multa de trescientas a dos mil quinientas veces el valor diario de la Unidad de Medida y Actualización, para que el servidor público cumpla su obligación en un plazo no mayor a tres días en los casos previstos en las fracciones XII, XIII, XV, XX, XXI, XXII, XXIII y XIV del artículo 181 de esta Ley.
 
 II. Sujetos obligados que no cuenten con la calidad de Servidor Público, con:
 
 a) El apercibimiento, por única ocasión, para que el Sujeto Obligado cumpla su obligación de manera inmediata, tratándose de los supuestos previstos en las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XIV, XVI, XVII, XVIII y XIX del artículo 181 de esta Ley.
 
-Si una vez hecho el apercibimiento no se cumple de manera inmediata con la obligación, en los términos previstos en esta Ley, tratándose de los supuestos mencionados en esta fracción, se aplicará multa de ciento cincuenta a doscientos cincuenta días de salario mínimo general vigente en el estado.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
-b) Multa de doscientas a mil veces el salario mínimo general vigente, para que el sujeto obligado cumpla su obligación, en un plazo no mayor a tres días en los casos previstos en las fracciones XII, XIII, XV, XX, XXI, XXII, XXIII y XXIV del artículo 181 de esta Ley.
+Si una vez hecho el apercibimiento no se cumple de manera inmediata con la obligación, en los términos previstos en esta Ley, tratándose de los supuestos mencionados en esta fracción, se aplicará multa de ciento cincuenta a doscientos cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
-Se aplicará multa adicional de hasta cincuenta días de salario mínimo general vigente, por día, a quien persista en las infracciones citadas en las fracciones anteriores.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+b) Multa de doscientas a mil veces el valor diario de la Unidad de Medida y Actualización, para que el sujeto obligado cumpla su obligación, en un plazo no mayor a tres días en los casos previstos en las fracciones XII, XIII, XV, XX, XXI, XXII, XXIII y XXIV del artículo 181 de esta Ley.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+
+Se aplicará multa adicional de hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización, por día, a quien persista en las infracciones citadas en las fracciones anteriores.
 
 ###### Artículo 190.
 
@@ -2570,3 +2582,23 @@ SECRETARIO DE GOBIERNO.
 LIC. JUAN JOSÉ PERALTA FOCIL.
 
 COORDINADOR GENERAL DE ASUNTOS JURÍDICOS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 089 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 177, FRACCIÓN II; 189, LOS INCISOS A) Y B) DE LA FRACIÓN I, Y EL SEGUNDO PÁRRAFO DEL INCISO A) Y EL INCISO B) DE LA FRACCIÓN II DEL PRIMER PÁRRAFO, Y EL SEGUNDO PÁRRAFO TODOS DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TABASCO".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- El valor diario de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Estadística y Geografía, y publique en el Diario Oficial de la Federación, con fundamento en el artículo 26, apartado B, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
+
+TERCERO.- Quedan derogadas las disposiciones legales que se opongan al presente Decreto.
+
+CUARTO.- A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes, así como en cualquier disposición jurídica que emane de las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
+
+QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha de entrada en vigor de este Decreto, que utilicen el salario mínimo como referencia para cualquier efecto, no se modificarán por la Unidad de Medida y Actualización, salvo que las partes acuerden expresamente lo contrario. Lo anterior, sin perjuicio de que a partir de la entrada en vigor de este Decreto los contratantes puedan utilizar como índice o referencia a la Unidad de Medida y Actualización.
+
+SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
+
+Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
