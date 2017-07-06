@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-del-equilibrio-ecologico-y-la-proteccion-al-5820"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "2017-03-16"
+last_updated: "2017-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 6 de junio de 1989.
 
@@ -1188,6 +1188,14 @@ III. El origen y destino de los recursos financieros para la administración de 
 IV. Los tipos y forma como se ha de llevar a cabo la investigación y la experimentación en las áreas naturales protegidas federales; y
 
 V. Las formas y esquemas de concertación con la comunidad, los grupos sociales, científicos y académicos.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2017)</small>
+
+###### Artículo 60 Bis.
+
+Una vez decretada y delimitada un área natural protegida, la autoridad municipal podrá constituir un Comité Técnico, que coadyuvará en el cumplimiento de los objetivos y acciones contenidas en el Programa de Aprovechamiento respectivo.
+
+El Comité se integrará en los términos que disponga la autoridad correspondiente, sus integrantes durarán en el cargo el tiempo que ésta determine y no percibirán remuneración alguna, por tanto no tendrán relación laboral con la autoridad por virtud de su encargo dentro del Comité.
 
 ###### Artículo 61.
 
@@ -2629,6 +2637,12 @@ P.O. 17 DE ENERO DE 2017.
 
 P.O. 16 DE MARZO DE 2017.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO 26294/LXI/17 QUE REFORMA LOS ARTÍCULOS 3°, 5°, 6°, 8°, 9°, 23, 37 DE LA LEY ESTATAL DE EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, Y REFORMA EL ARTÍCULO 94 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO".]
+## [N. DE E. TRANSITORIO DEL “DECRETO 26294/LXI/17 QUE REFORMA LOS ARTÍCULOS 3°, 5°, 6°, 8°, 9°, 23, 37 DE LA LEY ESTATAL DE EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, Y REFORMA EL ARTÍCULO 94 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]
 
-ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 6 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26376/LXI/17 QUE ADICIONA EL ARTÍCULO 60 BIS A LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
