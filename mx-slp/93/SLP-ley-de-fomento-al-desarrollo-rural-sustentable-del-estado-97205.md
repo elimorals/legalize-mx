@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-al-desarrollo-rural-sustentable-del-estado-97205
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-07"
-last_updated: "2017-05-20"
+last_updated: "2017-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97205&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FOMENTO AL DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 7 de diciembre de 2013.
 
@@ -43,9 +43,11 @@ LEY DE FOMENTO AL DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ
 
 ### Capítulo Único
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 1°.
 
-Esta Ley es de orden público e interés social, establece las disposiciones que se sujetarán las actividades agrícolas, pecuarias, silvícolas, pesqueras, acuícolas, apícolas, y de flora y fauna silvestres, para promover el aprovechamiento sustentable de los recursos naturales del Estado, a efecto de promover el desarrollo rural integral.
+Esta Ley es de orden público e interés social, establece las disposiciones que se sujetarán las actividades agrícolas, y de flora y fauna silvestres, para promover el aprovechamiento sustentable de los recursos naturales del Estado, a efecto de promover el desarrollo rural integral.
 
 ###### ARTÍCULO 2°.
 
@@ -55,7 +57,9 @@ I. Impulsar acciones de desarrollo del medio rural del Estado, bajo los criterio
 
 II. Propiciar el desarrollo rural sustentable en el Estado, respetando el derecho al uso y disfrute preferente de los recursos naturales de los lugares que ocupan y habitan las comunidades indígenas;
 
-III. Planear, organizar, regular y promover el desarrollo, industrialización y comercialización agrícola, pecuaria, pesquera, apícola, acuícola, silvícola, agroindustrial, así como los bienes, servicios y todas aquellas acciones tendientes a la elevación de la calidad de vida de la población rural, atendiendo las necesidades de protección ambiental del Estado;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
+
+III. Planear, organizar, regular y promover el desarrollo, industrialización y comercialización agrícola, agroindustrial, así como los bienes, servicios y todas aquellas acciones tendientes a la elevación de la calidad de vida de la población rural, atendiendo las necesidades de protección ambiental del Estado;
 
 IV. Fomentar el desarrollo y protección de la biodiversidad genérica y el mejoramiento de la calidad de los recursos naturales, así como implementar acciones con el fin de lograr su aprovechamiento sustentable;
 
@@ -63,11 +67,21 @@ V. Valorar las diversas funciones económicas, ambientales, sociales y culturale
 
 VI. Coadyuvar a la organización y capacitación de los productores, impulsando su acceso al crédito, al seguro para la producción, innovaciones tecnológicas, canales de comercialización, almacenaje y mejores sistemas de administración;
 
-VII. Promover la conservación, mejoramiento y explotación racional de los terrenos agrícolas, ganaderos y de los recursos hidráulicos;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
 
-VIII. Conservar y mejorar la infraestructura hidráulica en el sector rural, y
+VII. Promover la conservación, mejoramiento y explotación racional de los terrenos agrícolas, y de los recursos hidráulicos;
 
-IX. Determinar los mecanismos de coordinación entre las instituciones públicas federal, estatales, municipales o privadas que incidan en el sector rural, con la participación de las organizaciones de productores, en los procesos de planeación, regulación, fomento y promoción del desarrollo agrícola, hidráulico, pecuario, pesquero, acuícola, apícola, ecoturismo y agroindustrial del Estado.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
+
+VIII. Conservar y mejorar la infraestructura hidráulica en el sector rural;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
+
+IX. Determinar los mecanismos de coordinación entre las instituciones públicas federal, estatales, municipales o privadas que incidan en el sector rural, con la participación de las organizaciones de productores, en los procesos de planeación, regulación, fomento y promoción del desarrollo agrícola, hidráulico, ecoturismo y agroindustrial del Estado, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE JULIO DE 2017)</small>
+
+X. Impulsar acciones para alcanzar la Seguridad Alimentaria en el sector rural en la entidad.
 
 ###### ARTÍCULO 3°.
 
@@ -75,17 +89,17 @@ Para los efectos de esta Ley se entenderá por:
 
 I. Agricultura orgánica: sistema de producción en el cual se utilizan insumos naturales para producir alimentos libres de residuos tóxicos, mediante un programa de manejo que no daña y proteja al medio ambiente y la salud humana; incluye el uso de pesticidas, fertilizantes, ni otros productos de origen químico para producir;
 
-II. Establecimiento Tipo Inspección Federal (TIF): cualquier negociación o empresa facultada por la SAGARPA para sacrificar, conservar, beneficiar o aprovechar los ganados de abasto o sus carnes, productos o subproductos, en el que se observan los lineamientos vigentes sobre; instalaciones, equipamiento y proceso sanitario de la carne;
+II. (DEROGADA, P.O. 6 DE JULIO DE 2017)
 
-III. Fierro: reseña o marca de herrar: la que se graba de manera visible en cualquier parte del cuerpo del ganado mayor y menor, con hierro candente o marcado en frío;
+III. (DEROGADA, P.O. 6 DE JULIO DE 2017)
 
-IV. Identificación electrónica: elemento electromagnético que se implanta por vía subcutánea o intramuscular en el animal, el cual contiene los datos de identidad del mismo y de su propietario;
+IV. (DEROGADA, P.O. 6 DE JULIO DE 2017)
 
 V. INIFAP: Instituto Nacional de Investigación Forestal, Agrícola y Pecuaria;
 
 VI. Mejoramiento del pastizal: prácticas de manejo tendientes a elevar la condición de éste, como fertilización, conservación del suelo y agua, control de plantas indeseables y división de potreros, entre otras;
 
-VII. Patente: documento que la SEDARH o la autoridad municipal expide al ganadero para comprobar que su fierro, marca, señal o tatuaje ha quedado legalmente registrado o revalidado;
+VII. (DEROGADA, P.O. 6 DE JULIO DE 2017)
 
 VIII. SAGARPA: Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, de la administración pública federal;
 
@@ -93,13 +107,13 @@ IX. SEDARH: Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos, de l
 
 X. SEGAM: Secretaría de Ecología y Gestión Ambiental, de la administración pública estatal;
 
-XI. SEIPP: Sistema Estatal de Identificación de Propiedades Pecuarias;
+XI. (DEROGADA, P.O. 6 DE JULIO DE 2017)
 
 XII. SEMARNAT: Secretaría del Medio Ambiente y Recursos Naturales, de la administración pública federal;
 
-XIII. Señal de sangre: cortes, incisiones o perforaciones que se hacen en las orejas del ganado mayor y menor, y
+XIII. (DEROGADA, P.O. 6 DE JULIO DE 2017)
 
-XIV. Tatuaje: dibujos, números o signos que se graban en la piel del ganado mayor, mediante el uso de substancias químicas.
+XIV. (DEROGADA, P.O. 6 DE JULIO DE 2017)
 
 ###### ARTÍCULO 4°.
 
@@ -109,17 +123,23 @@ Facilitar y otorgar los apoyos a que se refiere el párrafo anterior, los que no
 
 Para lo anterior, el Estado promoverá lo necesario para formular y llevar a cabo programas de atención especial, con la concurrencia de los diversos órdenes de gobierno que aplican los instrumentos de política de desarrollo social y de población, a cargo de las dependencias y entidades de la administración pública estatal y municipal competentes.
 
-###### ARTÍCULO 5º.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2017)</small>
 
-Se considera de utilidad pública para el Estado, el desarrollo rural sustentable mediante el manejo racional, la utilización adecuada, conservación y el mejoramiento de los recursos naturales, así como la investigación científica aplicada a las actividades agrícolas, pecuarias, acuícolas, apícola, flora y fauna silvestre, y agroindustrial, en todos sus aspectos.
+###### ARTÍCULO 5°.
+
+Se considera de utilidad pública para el Estado, el desarrollo rural sustentable mediante el manejo racional, la utilización adecuada, conservación y el mejoramiento de los recursos naturales, así como la investigación científica aplicada a las actividades agrícolas, flora y fauna silvestre, y agroindustrial, en todos sus aspectos.
 
 ###### ARTÍCULO 6º.
 
 Quedan sujetos a las disposiciones de esta Ley:
 
-I. Las personas físicas o morales que directa o indirectamente, ya sea que habitual u ocasionalmente; accidentalmente se dediquen a las diferentes actividades incluidas en la agricultura, ganadería, silvicultura, pesca, apicultura, hidráulica, acuacultura, ecoturismo, agroindustrial, o la prestación de servicios relacionados con las mismas;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
 
-II. Los predios, cualquiera que sea su régimen de propiedad e infraestructura dedicados directa o indirectamente a la producción, explotación, comercialización y movilización de especies agrícolas, avícolas, ganaderas, pesqueras, sus productos y subproductos dentro del Estado;
+I. Las personas físicas o morales que directa o indirectamente, ya sea que habitual u ocasionalmente; accidentalmente se dediquen a las diferentes actividades incluidas en la agricultura, hidráulica, acuacultura, ecoturismo, agroindustrial, o la prestación de servicios relacionados con las mismas;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
+
+II. Los predios, cualquiera que sea su régimen de propiedad e infraestructura dedicados directa o indirectamente a la producción, explotación, comercialización y movilización de especies agrícolas, sus productos y subproductos dentro del Estado;
 
 III. Los vegetales silvestres o cultivados que se aprovechen en estado natural, beneficiados o ensilados, así como los demás productos agrícolas o industriales, naturales o procesados que se utilicen en la alimentación animal, apícola o acuícola, y
 
@@ -131,13 +151,13 @@ A falta de disposición expresa en la presente Ley, se aplicarán en forma suple
 
 I. Ley General de Desarrollo Rural Sustentable;
 
-II. Ley de Organizaciones Ganaderas;
+II. (DEROGADA, P.O. 6 DE JULIO DE 2017)
 
 III. Ley General de Salud;
 
 IV. Ley Estatal de Salud;
 
-V. Ley Estatal de Protección a los Animales;
+V. (DEROGADA, P.O. 6 DE JULIO DE 2017)
 
 VI. Códigos, Civil y Penal del Estado;
 
@@ -191,9 +211,13 @@ II. Fomentar la reconversión productiva de aquellas áreas rurales de baja prod
 
 III. Promover el mejoramiento de las instalaciones e infraestructura productiva del sector agropecuario;
 
-IV. Fomentar y promover la educación, investigación científica y el uso de nuevas tecnologías en la actividad agropecuaria;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
 
-V. Promover la elaboración de estudios tendientes a fomentar el desarrollo y que a su vez, permitan identificar las técnicas y actividades que resulten más productivas para el sector agropecuario;
+IV. Fomentar y promover la educación, investigación científica y el uso de nuevas tecnologías en la actividad agroindustrial;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
+
+V. Promover la elaboración de estudios tendientes a fomentar el desarrollo y que a su vez, permitan identificar las técnicas y actividades que resulten más productivas para el sector agroindustrial;
 
 VI. Promover y apoyar todo proyecto productivo viable del medio rural;
 
@@ -203,43 +227,73 @@ VIII. Celebrar convenios de coordinación con la federación, los municipios y l
 
 IX. Celebrar convenios de coordinación con organizaciones e instituciones para la transferencia de tecnología;
 
-X. Celebrar convenios de coordinación con los ayuntamientos a fin de descentralizar los programas de desarrollo rural, agricultura, ganadería, pesca;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
 
-XI. Celebrar los acuerdos y convenios necesarios con el gobierno federal, los ayuntamientos, las asociaciones y organizaciones legalmente constituidas de productores agrícolas, pecuarios, apiarios, silvícolas, pesqueros, acuícolas, ya sea industriales, turísticos o artesanales, así como con las instituciones de enseñanza superior e investigación, las asociaciones o colegios de profesionistas del ramo a efecto de concurrir en la aplicación y el logro de los objetivos de la presente Ley;
+X. Celebrar convenios de coordinación con los ayuntamientos a fin de descentralizar los programas de desarrollo rural, agricultura;
 
-XII. Aplicar todas aquellas medidas tendientes a resolver de manera congruente e integral, los problemas que deriven del aprovechamiento de recursos naturales del Estado, en lo relativo a las actividades agropecuarias del sector rural;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
 
-XIII. Promover la creación y el desarrollo de agroindustrias que fortalezcan el desarrollo agropecuario, acuícola y apícola de la Entidad;
+XI. Celebrar los acuerdos y convenios necesarios con el gobierno federal, los ayuntamientos, las asociaciones y organizaciones legalmente constituidas de productores agrícolas, ya sea industriales, turísticos o artesanales, así como con las instituciones de enseñanza superior e investigación, las asociaciones o colegios de profesionistas del ramo a efecto de concurrir en la aplicación y el logro de los objetivos de la presente Ley;
 
-XIV. Conservar, reproducir, mejorar, desarrollar y proteger la biodiversidad genérica de las especies agrícolas, ganaderas, flora y faunas silvestres y pesqueras, con el fin de lograr su aprovechamiento sustentable;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
+
+XII. Aplicar todas aquellas medidas tendientes a resolver de manera congruente e integral, los problemas que deriven del aprovechamiento de recursos naturales del Estado, en lo relativo a las actividades agroindustriales del sector rural;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
+
+XIII. Promover•la creación y el desarrollo de agroindustrias que fortalezcan el desarrollo de la Entidad;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
+
+XIV. Conservar, reproducir, mejorar, desarrollar y proteger la biodiversidad genérica de las especies agrícolas, flora y faunas silvestres con el fin de lograr su aprovechamiento sustentable;
 
 XV. Promover convenios con los ingresos azucareros presentes en el Estado, para que se formalice la venta de la melaza a los productores de toda la Entidad, antes de comprometer su distribución para otros usos, y
 
 XVI. Las demás que señalen las leyes y reglamentos aplicables al sector rural.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 10.
 
-Corresponde a la Secretaría General de Gobierno, coordinarse con la Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos, además de las atribuciones que le confiere la Ley Orgánica de la Administración Pública Estatal para promover la elaboración de estudios tendientes a fomentar el desarrollo rural en el Estado y que a su vez, permitan identificar las técnicas y actividades que resulten más productivas para el sector agropecuario.
+Corresponde a la Secretaría General de Gobierno, coordinarse con la Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos, además de las atribuciones que le confiere la Ley Orgánica de la Administración Pública Estatal para promover la elaboración de estudios tendientes a fomentar el desarrollo rural en el Estado y que a su vez, permitan identificar las técnicas y actividades que resulten más productivas para los sectores agrícola, hidráulico y desarrollo rural en el Estado.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 11.
 
-Corresponde a la Secretaría de Salud, además de las atribuciones que le confiere la Ley de Salud para el Estado de San Luis Potosí, coordinarse con la SEDARH, para implementar las estrategias conjuntas Promover el mejoramiento de las instalaciones e infraestructura productiva del fomento al sector agropecuario de acuerdo a la materia de salud.
+Corresponde a la Secretaría de Salud, además de las atribuciones que le confiere la Ley de Salud para el Estado de San Luis Potosí, coordinarse con la SEDARH, para implementar las estrategias conjuntas Promover el mejoramiento de las instalaciones e infraestructura productiva del fomento a los sectores agrícola, y desarrollo rural de acuerdo a la materia de salud.
 
 ###### ARTÍCULO 12.
 
 Corresponde a la Secretaría de Desarrollo Social y Regional del Estado, además de las atribuciones que le confiere la Ley de la Administración Pública del Estado de San Luis Potosí, las siguientes:
 
-I. Coordinarse con las diversas autoridades, para llevar los programas de fomento al sector productivo agropecuario para la ejecución y cumplimento de la presente Ley, y
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
 
-II. Las demás que señalen las leyes, reglamentos, normatividad aplicable, así como de los convenios celebrados entre el Estado y los ayuntamientos.
+I. Coordinarse con las diversas autoridades, para llevar los programas de fomento al sector productivo agrícola para la ejecución y cumplimento de la presente Ley;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
+
+II. Coordinarse con las diversas autoridades, para realizar acciones de fomento a la Seguridad Alimentaria en el sector rural, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE JULIO DE 2017)</small>
+
+III. Las demás que señalen las leyes, reglamentos, normatividad aplicable, así como de los convenios celebrados entre el Estado y los ayuntamientos.
 
 ###### ARTÍCULO 13.
 
 Corresponde a la Secretaría de Educación de Gobierno del Estado, además de las atribuciones que le confiere la Ley Orgánica de la Admiración (sic) Pública del Estado de San Luis Potosí, las siguientes:
 
-I. Coordinarse con las diversas autoridades del sector agropecuario, para llevar los programas de fomento al desarrollo rural, y
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
 
-II. Las demás que señalen las leyes, reglamentos, normatividad aplicable, así como de los convenios celebrados entre el Estado y los ayuntamientos.
+I. Coordinarse con las diversas autoridades del sector agroindustrial, para llevar los programas de fomento al desarrollo rural;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
+
+II. Promover la incorporación de contenidos enfocados al desarrollo rural sustentable, en los diversos ciclos educativos, a efecto de incidir en la formación cultural, respeto del medio ambiente y el fomento de prácticas agrícolas tradicionales, así como la promoción de huertos de traspatio, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE JULIO DE 2017)</small>
+
+III. Las demás que señalen las leyes, reglamentos, normatividad aplicable, así como de los convenios celebrados entre el Estado y los ayuntamientos.
 
 ###### ARTÍCULO 14.
 
@@ -249,11 +303,15 @@ I. Organizar y planear la producción y actividades del sector rural del Estado,
 
 II. Promover la participación de los municipios, de las organizaciones vinculadas a la actividad rural, así como los sectores social y privado, a través de sus organizaciones sociales y económicas legalmente reconocidas y demás formas de participación que emanen de los diversos agentes de la sociedad rural, en la formulación de planes municipales y microregionales de desarrollo rural, que se integrarán al Plan Estatal de Desarrollo Rural;
 
-III. Impulsar la creación y desarrollo de empresas rurales, agrícolas, pecuarias piscícolas, apícolas, de servicios turísticos y artesanales, que permitan agregar valor a los productos agropecuarios, acuícolas y apícolas mediante su procesamiento, transformación, prestación de servicios y comercialización;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
+
+III. Impulsar la creación y desarrollo de empresas rurales, agrícolas, y de servicios turísticos y artesanales, que permitan agregar valor a los productos agroindustriales, y acuícolas mediante su procesamiento, transformación, prestación de servicios y comercialización;
 
 IV. Impulsar la formación de empresas de las familias rurales en actividades alternas a la producción primaria, orientadas al aprovechamiento integral de los recursos naturales del Estado;
 
-V. Fomentar la creación de despachos agropecuarios que coadyuven en la formulación de proyectos integrales para los productores, y promover su acreditación ante la Comisión Estatal de Peritos, en los términos que establece la Ley de Peritos en el Estado;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
+
+V. Fomentar la creación de despachos agroindustriales que coadyuven en la formulación de proyectos integrales para los productores, y promover su acreditación ante la Comisión Estatal de Peritos, en los términos que establece la Ley de Peritos en el Estado;
 
 VI. Proponer la coordinación de acciones con las diversas dependencias, tanto federales, estatales y municipales, en los términos de la legislación aplicable;
 
@@ -273,7 +331,7 @@ XIII. Intervenir en la construcción de obras de conservación del suelo y agua,
 
 XIV. Promover la conservación de la estructura del suelo a través de la instalación de drenes, y tratamientos químicos en predios agrícolas que se rieguen con aguas de alto contenido de sales;
 
-XV. Promocionar el diseño y construcción de infraestructura para el fomento acuícola, buscando aprovechar fuentes que abastezcan por gravedad o a través de equipos electromecánicos;
+XV. (DEROGADA, P.O. 6 DE JULIO DE 2017)
 
 XVI. Coadyuvar con los usuarios en las acciones de estabilización de acuíferos cuyas condiciones geohidrológicas son las de sobre-explotación, siendo de importancia fundamental para ello, los estudios que den a conocer la capacidad de respuesta de extracción del agua en el acuífero;
 
@@ -317,25 +375,35 @@ XXXV. Determinar las bases para el desarrollo de la floricultura, horticultura y
 
 XXXVI. Elaborar y distribuir el presupuesto entre los diversos programas, definiendo montos para cada uno de ellos;
 
-XXXVII. Ejecutar y vigilar los planes y programas en el ámbito de su competencia, que la Federación destine al Estado en materia de fomento agrícola, ganadero, acuícola y pesquero;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
 
-XXXVIII. Promover la organización de los productores agropecuarios y acuícolas para mejorar los niveles de producción, productividad y comercialización de sus productos;
+XXXVII. Ejecutar y vigilar los planes y programas en el ámbito de su competencia, que la Federación destine al Estado en materia de fomento agrícola;
 
-XXXIX. Diseñar y promover nuevos modelos de apoyos financieros para los productores agropecuarios;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
 
-XL. Fomentar y promover el servicio de asesoría y asistencia técnica, jurídica, financiera y organizativa a los productores agropecuarios del Estado;
+XXXVIII. Promover la organización de los productores agroindustriales para mejorar los niveles de producción, productividad y comercialización de sus productos;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
+
+XXXIX. Diseñar y promover nuevos modelos de apoyos financieros para los productores agroindustriales;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
+
+XL. Fomentar y promover el servicio de asesoría y asistencia técnica, jurídica, financiera y organizativa a los productores agroindustriales del Estado;
 
 XLI. Fomentar y promover la capacitación técnica, empresarial y administrativa de los productores;
 
 XLII. Realizar y mantener actualizados los estudios técnicos sobre aptitud productiva, clasificación de los recursos naturales y centros de intercambio económico;
 
-XLIII. Llevar el censo ganadero en el Estado, en coordinación con los ayuntamientos, la SAGARPA y las organizaciones de productores; así como la identificación de los hatos y rebaños, además de las estadísticas en relación con el desarrollo de la industria agropecuaria en la Entidad;
+XLIII. (DEROGADA, P.O. 6 DE JULIO DE 2017)
 
 XLIV. Proporcionar a los productores agrícolas de la Entidad que lo soliciten, asesoría para la obtención de crédito en las mejores condiciones posibles ante entidades financieras públicas y privadas en beneficio de la modernización tecnológica, la productividad y la competitividad del sector.
 
-XLV. Celebrar, en coordinación con las organizaciones de productores, patronatos y autoridades municipales, exposiciones, concursos, subastas y eventos agrícolas, ganaderos similares, de conformidad con la legislación aplicable;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
 
-XLVI. Disponer la realización de corridas de ganado, de acuerdo al procedimiento que para el efecto establezca el Reglamento de esta Ley;
+XLV. Celebrar, en coordinación con las organizaciones de productores, patronatos y autoridades municipales, exposiciones, concursos, subastas y eventos agroindustriales de conformidad con la legislación aplicable;
+
+XLVI. (DEROGADA, P.O. 6 DE JULIO DE 2017)
 
 XLVII. Promover en coordinación con la autoridad competente, la preservación y restauración de la biodiversidad de los ecosistemas;
 
@@ -345,21 +413,43 @@ XLIX. Impulsar en todo el Estado la certificación orgánica de productos, con a
 
 L. Promover la capacitación de productores, técnicos e inspectores en producción orgánica, a través de congresos, seminarios y cursos;
 
-LI. Supervisar en coordinación con la SAGARPA para controlar las actividades de certificación orgánica de productos agropecuarios, de sus procesos productivos y de comercialización nacional e internacional, así como establecer los mecanismos de aprobación, registro y control que fueran necesarios para esta actividad;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
+
+LI. Supervisar en coordinación con la SAGARPA para controlar las actividades de certificación orgánica de productos agroindustriales, de sus procesos productivos y de comercialización nacional e internacional, así como establecer los mecanismos de aprobación, registro y control que fueran necesarios para esta actividad;
 
 LII. Crear el Consejo Estatal para la Agricultura Orgánica;
 
 LIII. Llevar un registro base de productores que se encuentran realizando actividades propias del proceso de transición. Los productores voluntariamente podrán adherirse a este registro, el cual no podrá extenderse por un periodo mayor a tres años;
 
-LIV. Llevar el registro de los laboratorios públicos y privados, que realicen análisis de productos agropecuarios orgánicos e insumos para su producción, previa acreditación conforme las regulaciones establecidas por ésta;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
 
-LV. Determinar y aplicar las sanciones que se deriven del incumplimiento de esta Ley y su Reglamento, y
+LIV. Llevar el registro de los laboratorios públicos y privados, que realicen análisis de productos agroindustriales, orgánicos e insumos para su producción, previa acreditación conforme las regulaciones establecidas por ésta ley;
 
-LVI. Las demás que señalen las leyes y reglamentos aplicables al sector agropecuario.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
+
+LV. Determinar y aplicar las sanciones que se deriven del incumplimiento de esta Ley y su Reglamento;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
+
+LVI. En coordinación con las diferentes instancias y organismos de gobierno, promover y realizar acciones para el fomento a la Seguridad Alimentaria en el sector rural;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE JULIO DE 2017)</small>
+
+LVII. Implementar el programa para promover, impulsar la creación de los Centros TruEco-Alimentarios, y vigilar que adquieran exclusivamente los productos que serán canjeados por residuos sólidos urbanos reciclables, a los productores locales, a excepción de aquellos productos que no se logren obtener en la misma zona;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE JULIO DE 2017)</small>
+
+LVIII. Fomentar y promover la capacitación para la pequeña producción campesina en cultivos de hortalizas básicos y de traspatio con tecnologías de agricultura sustentable, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE JULIO DE 2017)</small>
+
+LIX. Las demás que señalen las leyes y reglamentos aplicables en la materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 15.
 
-Corresponde a la Secretaría de Ecología y Gestión Ambiental, además de las atribuciones que le confiere la Ley Ambiental del Estado, coordinarse con la SEDARH, a efecto de que se asegure la conservación y reordenamiento territorial, protección del suelo y biodiversidad agrícola, ganadera, de la flora y la fauna silvestre; así como piscícola en sus niveles genético, de ecosistemas y de especies; y se controle adecuadamente el daño ambiental que pueda ocasionar el desarrollo de obras o actividades de carácter público o privado.
+Corresponde a la Secretaría de Ecología y Gestión Ambiental, además de las atribuciones que le confiere la Ley Ambiental del Estado, coordinarse con la SEDARH, a efecto de que se asegure la conservación y reordenamiento territorial, protección del suelo y biodiversidad agrícola y de la flora y la fauna silvestre se controle adecuadamente el daño ambiental que pueda ocasionar el desarrollo de obras o actividades de carácter público o privado.
 
 Al efecto, deberá evitar o prohibir el uso de tecnología, equipos, sistemas, maquinarias, insecticidas y fertilizantes, que no hayan sido debidamente probados en su efectividad, y que no cuenten con la patente legalmente registrada, así como certificación o validación por parte de las autoridades competentes del sector agropecuario, con objeto de prevenir efectos contaminantes adversos y, por consecuencia, daños o molestias a la salud humana y, en general, al ambiente.
 
@@ -367,9 +457,7 @@ La autoridad estatal no otorgará permisos de operación cuando no se disponga d
 
 ###### ARTÍCULO 16.
 
-La SEDARH podrá crear, modificar o suprimir zonas de inspección ganadera, de acuerdo con las comunidades rurales, vías de comunicación, rutas pecuarias y centros de comercialización, para lo cual solicitará la opinión de las organizaciones de ganaderos.
-
-Los predios ganaderos comprendidos en dos o más zonas, se considerará que corresponden a la que determine la propia SEDARH.
+(DEROGADO, P.O. 6 DE JULIO DE 2017)
 
 ###### ARTÍCULO 17.
 
@@ -382,6 +470,8 @@ II. Elaborar el Plan de Desarrollo Rural Sustentable del municipio;
 III. Fomentar la participación de las organizaciones de productores, en los beneficios derivados de esta Ley;
 
 IV. Planear y elaborar los programas para el fomento de actividades productivas en el ámbito municipal;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
 
 V. Llevar las estadísticas y toda aquella información necesaria para la planeación de la producción agropecuaria, pesquera y agroindustrial del municipio;
 
@@ -397,9 +487,9 @@ X. Difundir los planes, programas y acciones que coadyuven al desarrollo rural s
 
 XI. Validar, en el caso de Planes de Desarrollo Municipal ya formulados y ante el cambio de administración, con los productores y el Comité de Desarrollo Rural Municipal;
 
-XII. Tramitar el procedimiento administrativo para enajenar en pública subasta los animales mostrencos, orejanos y los que sean retirados del derecho de vía;
+XII. (DEROGADA, P.O. 6 DE JULIO DE 2017)
 
-XIII. Comunicar a la organización ganadera de la localidad y autoridades de los municipios circunvecinos, el extravío de los animales comprendidos en esta Ley;
+XIII. (DEROGADA, P.O. 6 DE JULIO DE 2017)
 
 XIV. Vigilar y proveer el buen funcionamiento del desarrollo agrícola en el municipio;
 
@@ -417,7 +507,9 @@ Corresponde a los Delegados y autoridades en congregaciones, comunidades y ranch
 
 I. Vigilar el exacto cumplimiento de esta Ley, dando cuenta al presidente municipal de las infracciones que se lleguen a cometer, para que se impongan, en su caso, las sanciones que correspondan, y
 
-II. Reportar de inmediato a las autoridades competentes que correspondan, el sacrificio clandestino de animales.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
+
+II. Reportar de inmediato a las autoridades competentes que correspondan, detección, de focos de infestación de plagas que representen riesgo para la agricultura y la movilización de vegetales, productos o subproductos si (sic) la documentación correspondiente.
 
 ## TÍTULO TERCERO. DEL DESARROLLO RURAL
 
@@ -440,6 +532,12 @@ V. Los programas regionales, sectoriales, especiales y el concurrente;
 VI. Los convenios de coordinación celebrados entre los ámbitos de gobierno, y
 
 VII. Los demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2017)</small>
+
+ARTÍCULO 19 BIS. Las actividades de planeación, programación y evaluación del Desarrollo Rural Sustentable deberán incorporar una división regional del Estado, atendiendo a sus diferencias ambientales, sociales y económicas.
+
+Para esos efectos, la SEDARH, en coordinación con el Consejo Estatal para el Desarrollo Rural Sustentable, establecerá los criterios de demarcación regional.
 
 ###### ARTÍCULO 20.
 
@@ -473,11 +571,19 @@ II. Investigación para la producción de semillas mejoradas;
 
 III. Multiplicación de las especies y variedades vegetales endémicas;
 
-IV. Desarrollo de metodologías para la solución de problemáticas en actividades agropecuarias;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
+
+IV. Desarrollo de metodologías para la solución de problemáticas en actividades agroindustriales;
 
 V. Impulso a la biotecnología, y
 
-VI. Las demás que se consideren de interés colectivo.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
+
+VI. Desarrollo de programas de prospección, conservación y uso sustentable de los recursos filogenéticos, como base para el mejoramiento y desarrollo de nuevas especies, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE JULIO DE 2017)</small>
+
+VII. Las demás que se consideren de interés colectivo.
 
 ###### ARTÍCULO 22.
 
@@ -501,9 +607,21 @@ VIII. La sustentabilidad de las actividades socioeconómicas;
 
 IX. Equidad de género, la protección de la familia, y el adulto mayor;
 
-X. Impulso a la cultura y al desarrollo de las formas específicas de organización social y capacidad productiva de los pueblos indígenas, particularmente para su integración al desarrollo regional, y
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
 
-XI. Las demás que determine el Ejecutivo Estatal.
+X. Impulso a la cultura y al desarrollo de las formas específicas de organización social y capacidad productiva de los pueblos indígenas, particularmente para su integración al desarrollo regional;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
+
+XI. La descentralización de los programas, generando alternativas de programación e implementación por regiones y por municipio, según el caso;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE JULIO DE 2017)</small>
+
+XII. Cultura del reciclaje, separación de residuos y aprovechamiento de los mismos en el medio rural, atreves (sic) de los centros TruEco- alimentario, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE JULIO DE 2017)</small>
+
+XIII. Las demás que determine el Ejecutivo Estatal.
 
 ###### ARTÍCULO 23.
 
@@ -517,7 +635,9 @@ El Programa Anual para el Desarrollo Rural Sustentable deberá contener cuando m
 
 I. Enumeración de los proyectos de desarrollo en el periodo de su vigencia;
 
-II. Capacitación para la producción, comercialización y mercado de los productos y subproductos agropecuarios, y servicios proporcionados en el medio rural, impulsando su valor agregado, a través de la cadena y de las agroindustrias, así como el turismo rural;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
+
+II. Capacitación para la producción, comercialización y mercado de los productos y subproductos y servicios proporcionados en el medio rural, impulsando su valor agregado, a través de la cadena y de las agroindustrias, así como el turismo rural;
 
 III. Disponibilidad de asistencia técnica y apoyo financiero para el desarrollo de proyectos productivos, y
 
@@ -599,9 +719,11 @@ El programa Especial Concurrente Estatal es un instrumento de planeación, progr
 
 El Programa Especial Concurrente constituye la propuesta de programación anual para la coinversión del Estado de San Luis Potosí, la federación y el nivel municipal, que integra los ejes de política agropecuaria y del desarrollo rural sustentable.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 33.
 
-En la integración del Programa Especial Concurrente Estatal participarán las dependencias y organismos del Gobierno Federal y Estatal que inciden en el sector rural, para fines de planear, acordar y evaluar los programas y acciones que de manera concurrente se establezcan para el fomento agropecuario y el desarrollo rural, acorde a lo que señalan las leyes federales y estatales en la materia.
+En la integración del Programa Especial Concurrente Estatal participarán las dependencias y organismos del Gobierno Federal y Estatal que inciden en el sector rural, para fines de planear, acordar y evaluar los programas y acciones que de manera concurrente se establezcan para el fomento agroindustrial y el desarrollo rural, acorde a lo que señalan las leyes federales y estatales en la materia.
 
 ###### ARTÍCULO 34.
 
@@ -655,7 +777,9 @@ Se integrarán Comités del Sistema Producto que serán el órgano de planeació
 
 La Comisión Intersecretarial promoverá la organización e integración de sistemas producto con enfoque territorial, como comités del consejo estatal, distrital y municipal para el desarrollo rural sustentable, con la participación de las distintas cadenas, y que tienen por objeto, entre otros:
 
-I. Concertar los programas de producción agropecuaria y acuícola;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
+
+I. Concertar los programas de producción agroindustrial;
 
 II. Establecer planes de expansión y estrategias territoriales de los volúmenes de calidad de cada producto, de acuerdo a las tendencias de los mercados y las condiciones del Estado;
 
@@ -751,11 +875,13 @@ II. Los representantes en el municipio correspondiente, de las dependencias esta
 
 III. Los funcionarios que el Gobierno del Estado designe;
 
-IV. Las instituciones de educación e investigación pública y privada agropecuaria;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 20 DE MAYO DE 2017)</small>
+IV. Las instituciones de educación e investigación pública y privada;
 
-V. Las asociaciones o colegios de profesionistas, relacionados con actividades agropecuarias;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
+
+V. Las asociaciones o colegios de profesionistas, relacionados con actividades agroindustrial, y
 
 > <small>(REFORMADA, P.O. 20 DE MAYO DE 2017)</small>
 
@@ -781,9 +907,13 @@ La SEDARH privilegiará apoyos para proyectos que promuevan la creación de empr
 
 I. Promover inversiones de capital privado para promover la producción, industrialización, comercialización y exportación de los productos agropecuarios acuícolas y apícolas del Estado;
 
-II. Fomentar el desarrollo de la industria agropecuaria privilegiando la asociación entre productores, industriales, agentes técnicos y comerciales, alentando la conformación de figuras jurídicas de asociación;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
 
-III. Promover la capacitación y asistencia técnica en procesos administrativos, financieros, de mercados, reconvención productiva y todo lo relativo al desarrollo empresarial de las actividades agropecuarias, acuícolas, apícolas y eco turísticas, y
+II. Fomentar el desarrollo de la agroindustria privilegiando la asociación entre productores, industriales, agentes técnicos y comerciales, alentando la conformación de figuras jurídicas de asociación;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
+
+III. Promover la capacitación y asistencia técnica en procesos administrativos, financieros, de mercados, reconvención productiva y todo lo relativo al desarrollo empresarial de las actividades agroindustriales y eco turísticas, y
 
 IV. Promocionar los productos locales en otros Estados o en el ámbito internacional.
 
@@ -803,9 +933,11 @@ El Reordenamiento Territorial consiste en el conjunto de programas y acciones de
 
 Los apoyos y subsidios que otorgue el Estado darán prioridad a los proyectos que favorezcan la reordenación territorial, fomentando que los cultivos y explotaciones diversas se establezcan acordes al mejor potencial productivo de cada de la Entidad.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 56.
 
-La SEDARH y las instituciones del sector diseñarán estímulos o apoyos diferenciados, para aquellos productores que realicen prácticas o actividades agropecuarias estratégicas, y que impulsen el reordenamiento territorial.
+La SEDARH y las instituciones del sector diseñarán estímulos o apoyos diferenciados, para aquellos productores que realicen prácticas o actividades agroindustriales estratégicas, y que impulsen el reordenamiento territorial.
 
 ###### ARTÍCULO 57.
 
@@ -815,9 +947,11 @@ La SEDARH y las instituciones del sector promoverán la realización de estudios
 
 La SEDARH emitirá recomendaciones para cada zona del Estado, basadas en análisis climatológicos, sugiriendo el tipo de cultivo o actividad ideal para cada una, así como las fechas ideales del ciclo productivo.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 59.
 
-La SEDARH realizará obras de conservación del suelo y el agua a efecto de apoyar a los productores agropecuarios a enfrentar las nuevas condiciones que plantean los cambios climáticos, impulsando un programa de reconversión productiva, en la que se sugieran cultivos y actividades alternativas que ayuden a paliar las condiciones climáticas difíciles.
+La SEDARH realizará obras de conservación del suelo y el agua a efecto de apoyar a los productores agropecuarios a enfrentar las nuevas condiciones que plantean los cambios climáticos, impulsando y fortaleciendo los programas de reconversión productiva, en los que se sugieran cultivos y actividades alternativas que ayuden a disminuir las condiciones climáticas difíciles e incorporen estructuras productivas sustentables que contribuyan a la seguridad alimentaria con el objetivo de alcanzar una mayor productividad y rentabilidad en el campo.
 
 ###### ARTÍCULO 60.
 
@@ -891,161 +1025,113 @@ III. La rehabilitación integral o parcial de pozos que permita aumentar su efic
 
 IV. El ahorro del agua mediante acciones que eficienticen la conducción y su aplicación como son: revestimiento de canales o utilización de sistemas presurizados en los distritos y unidades de riego del Estado, para mejorar la distribución del recurso hídrico a través de estructuras de manejo y control.
 
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRA, P.O. 6 DE JULIO DE 2017)</small>
+
 ## TÍTULO SÉPTIMO. DE LA GANADERÍA
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRA, P.O. 6 DE JULIO DE 2017)</small>
 
 ### Capítulo I. Del Fomento y Mejoramiento de la Ganadería
 
 ###### ARTÍCULO 72.
 
-La SEDARH, en coordinación con las autoridades municipales y las organizaciones de productores pecuarios, promoverá y dictará las medidas que sean necesarias tendientes al fomento y desarrollo de los predios e industrias pecuarias, para obtener la elevación de las condiciones de vida y trabajo en el campo; asimismo, instrumentará, fomentará y difundirá los programas tendientes al mejoramiento de las especies y razas más adecuadas para el Estado y el incremento de su productividad.
+(DEROGADO, P.O. 6 DE JULIO DE 2017)
 
 ###### ARTÍCULO 73.
 
-La SEDARH, en coordinación con las autoridades municipales, las organizaciones de productores pecuarios y los organismos auxiliares de cooperación, promoverá, estructurará, elaborará, e impulsará la ejecución de los programas de mejoramiento genético de las especies domésticas que se producen en el Estado, a través del empleo de reproductores seleccionados, de la inseminación artificial, la transferencia de embriones, y demás técnicas e insumos aplicables.
+(DEROGADO, P.O. 6 DE JULIO DE 2017)
 
 ###### ARTÍCULO 74.
 
-La SEDARH promoverá ante las autoridades educativas de la entidad, la impartición de cursos de nociones elementales de zootecnia a los alumnos de los niveles medio, y superior, en las escuelas de jurisdicción estatal que se estime conveniente.
+(DEROGADO, P.O. 6 DE JULIO DE 2017)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRA, P.O. 6 DE JULIO DE 2017)</small>
 
 ### Capítulo II. De los Beneficios y Estímulos a la Ganadería
 
 ###### ARTÍCULO 75.
 
-Se faculta al Ejecutivo del Estado para conceder, parcial o totalmente, y a través de las instituciones del sector, los siguientes beneficios y estímulos:
-
-I. Servicios técnicos en general que sus distintos órganos tengan establecidos;
-
-II. Servicios financieros acordes con las disposiciones aplicables;
-
-III. Primacía en la adquisición de aquellos productos e insumos que el Gobierno requiera para sus servicios asistenciales;
-
-IV. Preferencia en las ventas que el propio gobierno realice de productos, materiales o servicios útiles a la ganadería, que éste tenga disponibles o adquiera para fines de promoción;
-
-V. Concesiones o contratos para abastecimiento, servicios y obras que el gobierno necesite;
-
-VI. Subsidios en efectivo o en especie destinados al fomento de la ganadería;
-
-VII. Incentivos fiscales por el monto y tiempo que en cada caso acuerde, y
-
-VIII. Cualesquiera otras prerrogativas o franquicias que de acuerdo con las leyes el Ejecutivo pueda conceder, siempre que redunden en el mejor desarrollo de la ganadería.
+(DEROGADO, P.O. 6 DE JULIO DE 2017)
 
 ###### ARTÍCULO 76.
 
-El Ejecutivo otorgará los beneficios de que alude el artículo anterior, a los productores pecuarios y empresas pecuarias agrupados en asociaciones, y en forma individual, cuando no existan éstas, aun para favorecer su formación, siempre y cuando los interesados se ajusten a los requisitos que se determinen en los lineamientos operativos de cada caso en particular y, que de manera preferente, cumplan las recomendaciones siguientes:
+(DEROGADO, P.O. 6 DE JULIO DE 2017)
 
-I. Que utilicen en sus explotaciones un cincuenta por ciento o más de equipo y materias primas de origen nacional;
-
-II. Que reinviertan en sus explotaciones un treinta por ciento o más de sus utilidades, hasta satisfacer la demanda estatal de productos pecuarios;
-
-III. Que hagan partícipes de sus utilidades a sus trabajadores;
-
-IV. Que coadyuven con el servicio de extensión pecuaria del Estado;
-
-V. Cuando se establezcan atendiendo a la políticas de reordenación territorial, y
-
-VI. Cuando favorezcan la capacitación y especialización de su personal como trabajadores de tiempo completo.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRA, P.O. 6 DE JULIO DE 2017)</small>
 
 ### Capítulo III. De las Exposiciones Ganaderas
 
 ###### ARTÍCULO 77.
 
-La SEDARH fomentará, en coordinación con las organizaciones de productores pecuarios, la organización de eventos ganaderos en donde se promuevan especies, razas, equipos, maquinaria e infraestructura ganadera, así como la difusión de nuevas tecnologías, productos y servicios en beneficio de los productores ganaderos.
+(DEROGADO, P.O. 6 DE JULIO DE 2017)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRA, P.O. 6 DE JULIO DE 2017)</small>
 
 ### Capítulo IV. De las Postas Zootécnicas
 
 ###### ARTÍCULO 78.
 
-Las organizaciones de productores pecuarios, instituciones o particulares que pretendan instalar una posta zootécnica o campo experimental, están obligadas a registrarla ante la SEDARH, estableciendo las especies, funciones zootécnicas y programas de trabajo que se pretenden llevar a cabo.
+(DEROGADO, P.O. 6 DE JULIO DE 2017)
 
 ###### ARTÍCULO 79.
 
-Es obligatorio para quienes instalen establecimientos ganaderos, campos experimentales o postas zootécnicas, proporcionar información a las autoridades competentes que lo soliciten y hacer las demostraciones necesarias a productores y grupos escolares de acuerdo con la legislación aplicable.
+(DEROGADO, P.O. 6 DE JULIO DE 2017)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRA, P.O. 6 DE JULIO DE 2017)</small>
 
 ### Capítulo V. De la Conservación y Mejoramiento de Tierras Dedicadas a la Ganadería
 
 ###### ARTÍCULO 80.
 
-Las SEDARH, en coordinación con las instituciones del sector, fomentarán que en los ejidos y comunidades agrarias se destinen áreas de exclusión para la explotación ganadera, en los terrenos de uso común, con la finalidad de hacer una explotación racional de los recursos de conformidad en lo establecido en el presente capítulo.
+(DEROGADO, P.O. 6 DE JULIO DE 2017)
 
 ###### ARTÍCULO 81.
 
-Se consideran protegidas las áreas de terrenos dedicadas al pastoreo, y será obligatorio para los ganaderos del Estado:
-
-I. El manejo racional, la utilización adecuada, la conservación, la adaptación de terrenos para agostaderos, y el mejoramiento de los recursos naturales relacionados con la ganadería;
-
-II. El cumplimiento de la carga animal óptima;
-
-III. El mejoramiento de los pastizales deteriorados, incluyendo el control de especies nocivas y la construcción de infraestructura;
-
-IV. Las obras y construcciones para la conservación del suelo y agua;
-
-V. El fomento de la investigación y la educación sobre la importancia, valor y conservación de los recursos naturales de los pastizales, y
-
-VI. La conservación y fomento de la fauna y flora silvestre, con el fin de mantener el equilibrio del ecosistema.
+(DEROGADO, P.O. 6 DE JULIO DE 2017)
 
 ###### ARTÍCULO 82.
 
-La SEDARH se coordinará con las autoridades correspondientes del sector agropecuario, para la ejecución de las siguientes actividades:
-
-I. Inspecciones y estudios de terrenos ganaderos que tengan por objeto dictaminar sobre las condiciones de los recursos naturales y sus tendencias, los dictámenes establecerán, en su caso, las medidas y recomendaciones para el uso de todos los recursos; y serán hechos del conocimiento del propietario o poseedor del predio y de la unión ganadera regional correspondiente;
-
-II. La vigilancia del uso de los recursos naturales en los agostaderos;
-
-III. Emitir recomendaciones para prevenir incendios, plagas y enfermedades de la vegetación de los agostaderos;
-
-IV. La realización de acciones para la protección de la fauna y flora silvestre, y
-
-V. La realización de campañas de revegetación en aquellos lugares donde se haya removido la vegetación nativa, y se requiera de esta práctica para la preservación del ecosistema y de la actividad ganadera.
+(DEROGADO, P.O. 6 DE JULIO DE 2017)
 
 ###### ARTÍCULO 83.
 
-El dictamen se fundará en las observaciones y estudios practicados sobre el predio, y recomendará a su propietario o poseedor, la aplicación de una o varias de las siguientes medidas:
-
-I. El manejo de pastizales; la construcción de obras tales como, cercos, represas, abrevaderos, praderas y otros, a fin de aumentar el coeficiente de agostadero en su estado natural e intensificar la explotación pecuaria, y
-
-II. El desalojo de ganado que resulte excedente. Esta medida se indicará en los casos en que no sea posible o hasta en tanto se realicen las obras señaladas en la fracción anterior, o cuando, aunque se establecieran, resultaren insuficientes para mantener la cantidad de ganado en el predio.
+(DEROGADO, P.O. 6 DE JULIO DE 2017)
 
 ###### ARTÍCULO 84.
 
-Si pasado el término señalado en el dictamen, se observa que en el predio de que se trate los recursos naturales relacionados con la ganadería continúan en malas condiciones, con tendencia a la degradación, la SEDARH notificará al propietario o poseedor, el término que tiene para el desalojo del ganado excedente, procurando evitar una disminución de la capacidad productora de la zona y la baja de precio del ganado.
+(DEROGADO, P.O. 6 DE JULIO DE 2017)
 
-Si transcurrido el plazo no se hubiere efectuado el desalojo voluntariamente, podrá ordenarse corrida de ganado para ese efecto y, en su caso, el remate.
-
-Para la observancia de lo anterior, se tomarán en cuenta las disposiciones que sobre esta materia señalen las disposiciones vigentes.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRA, P.O. 6 DE JULIO DE 2017)</small>
 
 ### Capítulo VI. De la Preservación Ecológica y del Medio Ambiente
 
 ###### ARTÍCULO 85.
 
-Todas las actividades que procedan del presente capítulo, se ajustarán a lo dispuesto en las disposiciones vigentes en materia del equilibrio ecológico y protección al medio ambiente.
+(DEROGADO, P.O. 6 DE JULIO DE 2017)
 
 ###### ARTÍCULO 86.
 
-La SEDARH mantendrá una coordinación permanente con las autoridades en materia de ecología y medio ambiente, a efecto de impulsar acciones de protección y restauración de la fauna y la flora en el medio rural, coadyuvando a la preservación y restauración de los ecosistemas, especialmente de aquéllos que se encuentren en riesgo de deterioro o degradación.
+(DEROGADO, P.O. 6 DE JULIO DE 2017)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRA, P.O. 6 DE JULIO DE 2017)</small>
 
 ### Capítulo VII. De la Diversificación Ganadera y la Protección a la Fauna
 
 ###### ARTÍCULO 87.
 
-La SEDARH, en coordinación con la autoridad competente, promoverá la repoblación de la flora y fauna silvestres, para preservar y restaurar la biodiversidad de los ecosistemas.
+(DEROGADO, P.O. 6 DE JULIO DE 2017)
 
 ###### ARTÍCULO 88.
 
-La SEDARH impulsará el aprovechamiento de especies animales que representen alternativas económicas para los habitantes del Estado, tales como explotación de peces, ranas y otras afines.
+(DEROGADO, P.O. 6 DE JULIO DE 2017)
 
 ###### ARTÍCULO 89.
 
-Se declara de utilidad pública:
-
-I. La conservación, fomento, restauración y propagación de los animales silvestres útiles al hombre, que habiten temporal o permanentemente dentro de los límites del Estado;
-
-II. El control de los animales silvestres, ya sean útiles o perjudiciales al hombre, o a las demás especies animales, de modo que no afecte de forma adversa al ecosistema, y
-
-III. La conservación y propagación de los recursos que sirven de alimentación y abrigo a la fauna silvestre.
+(DEROGADO, P.O. 6 DE JULIO DE 2017)
 
 ###### ARTÍCULO 90.
 
-La protección de la fauna se ejercerá de acuerdo con los preceptos de este capítulo y de las Leyes y disposiciones vigentes, que al respecto dicte la autoridad correspondiente.
+(DEROGADO, P.O. 6 DE JULIO DE 2017)
 
 ## TÍTULO OCTAVO. DE LAS INFRACCIONES Y SANCIONES
 
@@ -1059,21 +1145,21 @@ La infracción a las disposiciones de la presente Ley será sancionada por las a
 
 Se establecen como infracciones las siguientes:
 
-I. Evite registrar la instalación de una posta zootécnica o campo experimental ante la SEDARH;
+I. (DEROGADA, P.O. 6 DE JULIO DE 2017)
 
-II. Poner cercos o cultivos que impidan el libre acceso del ganado a los aguajes, abrevaderos o embarcaderos de uso común;
+II. (DEROGADA, P.O. 6 DE JULIO DE 2017)
 
-III. Realizar movilizaciones de ganado en un rancho, mientras que se esté efectuado en él una corrida de ganado;
+III. (DEROGADA, P.O. 6 DE JULIO DE 2017)
 
-IV. Pastar animales en calles, plazas públicas, jardines, parques, áreas de reforestación o derechos de vía de carreteras y ferrocarriles;
+IV. (DEROGADA, P.O. 6 DE JULIO DE 2017)
 
-V. Realizar cualquier acto que afecte, altere o dañe sin justa causa el destino, condición, productividad y equilibrio de las áreas dedicadas al pastoreo;
+V. (DEROGADA, P.O. 6 DE JULIO DE 2017)
 
 VI. Realizar acciones que vayan en contra de lo establecido en esta Ley, respecto a la protección y conservación de la fauna silvestre;
 
-VII. Maltratar, inutilizar o matar animales ajenos, cuando hayan dañado o se encuentren pastando sin permiso en una propiedad ganadera diferente a la de su propietario o dueño;
+VII. (DEROGADA, P.O. 6 DE JULIO DE 2017)
 
-VIII. Realizar corridas parciales de ganado en predios ajenos sin el previo consentimiento de sus dueños, o bien extender las que hagan dentro de sus predios a predios colindantes;
+VIII. (DEROGADA, P.O. 6 DE JULIO DE 2017)
 
 IX. Obstaculizar o impedir que se realicen inspecciones o visitas por parte de las autoridades competentes, para verificar el cumplimiento de las disposiciones de esta Ley;
 
@@ -1089,13 +1175,17 @@ Las infracciones establecidas en el artículo anterior de esta Ley serán sancio
 
 La imposición de las multas a que se refiere el artículo anterior, se determinará en la forma siguiente:
 
-I. Con el equivalente de veinte días de salario mínimo vigente en la Entidad, a quién cometa las infracciones señaladas en las fracciones I, II, III y IV del artículo 92 de esta Ley;
+I. (DEROGADA, P.O. 6 DE JULIO DE 2017)
 
-II. Con el equivalente de diez hasta cincuenta días de salario mínimo vigente en la Entidad, a quien cometa las infracciones estipuladas en las fracciones V, VI, y VII, del artículo 92 de esta Ley;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
 
-III. Con el equivalente de veinte y hasta doscientos días de salario mínimo vigente en la Entidad, a quien cometa la infracción referida en la fracción VIII del artículo 92 de esta Ley, y
+II. Con el equivalente de diez hasta cincuenta días del valor de la unidad de medida de actualización vigente, a quien cometa la infracción estipulada en la fracción VI del artículo 92 de esta Ley;
 
-IV. Con el equivalente de diez hasta quinientos días de salario mínimo vigente en la Entidad, a quien cometa las infracciones consideradas en las fracciones IX y X del artículo 92 de esta Ley.
+III. (DEROGADA, P.O. 6 DE JULIO DE 2017)
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
+
+IV. Con el equivalente de diez hasta quinientos días del valor de la unidad de medida de actualización vigente, a quien cometa las infracciones consideradas en las fracciones IX y X del artículo 92 de esta Ley.
 
 Lo anterior, sin perjuicio de las sanciones administrativas a que se hagan acreedores.
 
@@ -1105,7 +1195,7 @@ Lo anterior, sin perjuicio de las sanciones administrativas a que se hagan acree
 
 El procedimiento para la aplicación de sanciones, es el siguiente:
 
-I. Detectada la infracción u omisión por la autoridad competente, o a requerimiento de cualquier otra, a petición de parte agraviada o a solicitud escrita y justificada de un tercero, la SEDARH iniciará procedimiento administrativo de infracción que comenzará con el emplazamiento al presunto infractor, para que comparezca a una audiencia que se celebrará en un plazo de cinco días hábiles posteriores a aquél en que haya sido notificado , para que en ella y con la documentación correspondiente, haga valer lo que a su derecho convenga, quedando apercibido de que si no compareciere en la fecha y hora señaladas, se desahogará la misma sin su presencia;
+I. Detectada la infracción u omisión por la autoridad competente, o a requerimiento de cualquier otra, a petición de parte agraviada o a solicitud escrita y justificada de un tercero, la SEDARH iniciará procedimiento administrativo de infracción que comenzará con el emplazamiento al presunto infractor, para que comparezca a una audiencia que se celebrará en un plazo de cinco días hábiles posteriores a aquél en que haya sido notificado, para que en ella y con la documentación correspondiente, haga valer lo que a su derecho convenga, quedando apercibido de que si no compareciere en la fecha y hora señaladas, se desahogará la misma sin su presencia;
 
 II. En la audiencia a que se refiere la fracción anterior, se reiterará el objeto del procedimiento y se dejará constancia de la defensa presentada, así como de las pruebas que hayan sido desahogadas y que hubieran sido ofrecidas en la misma por el presunto infractor;
 
@@ -1127,9 +1217,11 @@ La SEDARH celebrará convenios con la Secretaría de Finanzas para que todos los
 
 ### Capítulo Único
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 98.
 
-En contra de los actos y las resoluciones dictadas en los procedimientos administrativos, con motivo de la aplicación de esta Ley o su Reglamento, procederán los medios de defensa establecidos en la Ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí, en la forma y términos que al efecto establezca dicho ordenamiento.
+En contra de los actos y las resoluciones dictadas en los procedimientos administrativos, con motivo de la aplicación de esta Ley o su Reglamento, procederán los medios de defensa establecidos en la legislación vigente en materia de procedimientos administrativos, en la forma y términos que al efecto establezca dicho ordenamiento.
 
 ## TRANSITORIOS
 
@@ -1174,5 +1266,13 @@ P.O. 20 DE MAYO DE 2017.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0631.- SE REFORMA EL ARTÍCULO 50 EN SUS FRACCIONES, V, Y VI; Y ADICIONA AL MISMO ARTÍCULO 50, LA FRACCIÓN VII, DE Y A LA LEY DE FOMENTO AL DESARROLLO RURAL SUSTENTABLE DEL ESTADO”.]
 
 PRIMERO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 6 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0671.- REFORMAS, ADICIONES Y DEROGACIONES A LA LEY DE FOMENTO AL DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
