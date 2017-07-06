@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2017-02-22"
+last_updated: "2017-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY DE HACIENDA DEL ESTADO DE SONORA
 
-[NOTA 1. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]
+[NOTA 3. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2017, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 6 DE JULIO DE 2017.]
 
 [NOTA 2. DE ACUERDO AL ARTÍCULO TRANSITORIO TERCERO DEL DECRETO NÚMERO 106, PUBLICADO EN EL B.O. DE 26 DE DICIEMBRE DE 2016, CUANDO SE SEÑALE EN EL CÓDIGO FISCAL DEL ESTADO Y LEY DE HACIENDA DEL ESTADO, LA MENCIÓN DE SALARIOS MÍNIMOS EN EL ÁREA GEOGRÁFICA "B", DEBERÁ ENTENDERSE COMO LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN, EN VIRTUD DEL ACUERDO DE LA JUNTA DE GOBIERNO POR EL QUE SE APRUEBAN LAS REFORMAS AL REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN CON FECHA 22 DE DICIEMBRE DE 2015, CON VIGENCIA PARA LOS ARTÍCULOS 19 Y 23 DEL CITADO REGLAMENTO, UNA VEZ QUE ESTÉ VIGENTE EL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO, DECRETO QUE FUE PUBLICADO EN EL MISMO ÓRGANO DE DIFUSIÓN CON FECHA 27 DE ENERO DE 2016, VIGENTE EL DÍA SIGUIENTE AL DE SU CITADA PUBLICACIÓN Y POR ÚLTIMO CON RELACIÓN A LA PUBLICACIÓN EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE FECHA 28 DE ENERO DE 2016, EN EL QUE SE DETERMINARON EL VALOR DIARIO, MENSUAL Y ANUAL EN EL AÑO 2016.]
+
+[NOTA 1. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
@@ -3359,13 +3361,13 @@ Para la realización del Programa de Carreteras Estatales que desarrollará el G
 
 Estas contribuciones se recaudarán en la misma forma y simultáneamente con los impuestos normales respectivos sobre producción y sacrificio de ganado vacuno y sobre producción agrícola.
 
-> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2017, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 6 DE JULIO DE 2017.]</small>
 
 ## TITULO CUARTO. De los Derechos
 
 ### Capítulo Tercero. Servicios por la Expedición, Revalidación y Canje de Licencias Para la Venta de Bebidas con Contenido Alcohólico
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2017, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 6 DE JULIO DE 2017.]</small>
 
 ###### Artículo 297.
 
@@ -3381,13 +3383,9 @@ Para la determinación de las cuotas de los derechos, se tendrá en cuenta el co
 
 I.- Cuando el solicitante del servicio acredite su calidad de jubilado, pensionado o persona adulta de 60 años o más edad o que presta sus servicios como socorrista de Cruz Roja Mexicana I. A. P., en cualquiera de sus Delegaciones o Bases en el Estado de Sonora, con una antigüedad de, por lo menos, cuatro años, y sea el beneficiario directo del mismo, se aplicarán a las cuotas del ejercicio fiscal en curso que correspondan a los servicios que a continuación se detallan, reducidas en un 50%, excepto tratándose de aquellos cuyas cuotas o tarifas contemplen reducciones en los términos de esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 a).- Derechos por expedición, canje o revalidación de placas de transporte privado, para un solo vehículo de su propiedad; ésta reducción será efectiva en el derecho que corresponda al ejercicio fiscal en curso.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
@@ -3400,8 +3398,6 @@ c).- Derechos por los servicios que presta el Registro Público de la Propiedad.
 > <small>(REFORMADA, B.O. 17 DE DICIEMBRE DE 2007)</small>
 
 d).- En general por la legalización de firmas, expedición de certificados y certificaciones por cuyos servicios deban pagarse derechos en los términos de la presente Ley, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
 
@@ -3463,13 +3459,9 @@ Los incrementos en las cuotas o tarifas de los Derechos se calcularán sobre el 
 
 Para determinar las cuotas de los derechos establecidos en esta Ley, se considerarán, inclusive, las fracciones del nuevo peso; no obstante lo anterior, para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de 1 hasta 50 centavos se ajusten a la unidad del nuevo peso inmediata anterior y las que contengan cantidades de 51 a 99 centavos se ajusten a la unidad del nuevo peso inmediata superior.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 La cuota de derechos por el servicio ordinario de expedición de actas del Registro Civil en las oficialías, a que se refiere el artículo 325 fracción II de esta Ley, no será objeto de la actualización a que se refiere el presente artículo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
@@ -3487,19 +3479,17 @@ Cuando el pago de derechos deba efectuarse con posterioridad a la prestación de
 
 ### Capítulo Cuarto. Servicios de Ganadería
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2017, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 6 DE JULIO DE 2017.]</small>
 
 ###### Artículo 301.
 
 Los derechos por servicios de empadronamiento a que se refieren diversos preceptos del Código Fiscal del Estado de Sonora y de esta Ley de Hacienda, causarán una cuota de $ 25.00.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 6 DE AGOSTO DE 2012)</small>
 
 ### Capítulo Quinto. Servicios por Expedición, Inscripción y Registro de Títulos y por Autorización para ejercer cualquier Profesión o Especialidad
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2017, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 6 DE JULIO DE 2017.]</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -3515,13 +3505,9 @@ a).- Fábrica. $300,000.00
 
 b).- Agencia distribuidora. $300,000.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 c).- Expendio. $495,596.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
@@ -3539,8 +3525,6 @@ h).- Tienda departamental. $175,000.00
 
 i).- Tienda de abarrotes. $200,000.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 j).- Centro nocturno. $495,596.00
@@ -3555,13 +3539,9 @@ n).- Porteadora. $30,000.00
 
 ñ).- Autorizaciones con fines determinados. Por día. $1,500.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 o).- Billar o boliche. $263,049.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
@@ -3572,8 +3552,6 @@ semidesnudos de hombres y/o mujeres, mayores
 de edad. $495,596.00
 
 q).- (DEROGADO, B.O. 19 DE DICIEMBRE DE 2013)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -3589,11 +3567,11 @@ Fabricación (Hectolitros)
 
 Hasta 2,000 10,000
 
-2,001 – 4,000 20,000
+2,001 - 4,000 20,000
 
-4001 – 6,000 30,000
+4001 - 6,000 30,000
 
-6001 – 10,000 40,000
+6001 - 10,000 40,000
 
 > <small>(ADICIONADO, B.O. 4 DE DICIEMBRE DE 2014)</small>
 
@@ -3613,13 +3591,9 @@ b).- Fábrica de producto regional típico. $3,000.00
 
 c).- Agencia distribuidora. $45,000.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 d).- Expendio. $43,814.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
@@ -3631,8 +3605,6 @@ f).- Restaurante. $5,000.00
 
 f) (sic).- Restaurante con bar anexo o Cine VIP. $8,000.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 g).- Tienda de autoservicio. $27,123.00
@@ -3640,8 +3612,6 @@ g).- Tienda de autoservicio. $27,123.00
 h).- Tienda departamental. $45,000.00
 
 i).- Tienda de abarrotes. $5,000.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
@@ -3655,13 +3625,9 @@ m).- Hotel o motel. $10,000.00
 
 n).- Porteadora. $3,750.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 ñ).- Billar o boliche. $16,196.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
@@ -3670,8 +3636,6 @@ o).- Centro nocturno con espectáculos de
 baile semidesnudos de hombres y/o mujeres,
 
 mayores de edad. $65,722.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
@@ -3687,11 +3651,11 @@ Volumen Anual en Hectolitros Revalidación
 
 Hasta 2,000 10,000
 
-2,001 – 4,000 15,000
+2,001 - 4,000 15,000
 
-4001 – 6,000 20,000
+4001 - 6,000 20,000
 
-6001 – 10,000 25,000
+6001 - 10,000 25,000
 
 > <small>(ADICIONADO, B.O. 4 DE DICIEMBRE DE 2014)</small>
 
@@ -3708,8 +3672,6 @@ III.- Por expedición de guías para porteadores. $500.00
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 IV.- Por cada certificación expedida por la Dirección General de Bebidas Alcohólicas. $320.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
@@ -3737,8 +3699,6 @@ Cuando en un solo trámite se realicen simultáneamente dos o más trámites, so
 
 VI.- Por los servicios que a continuación se indican se causarán los siguientes derechos:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 a).- Por ampliación provisional de horario,
@@ -3763,13 +3723,9 @@ ampliación provisional de horario, por hora, por día
 
 será de: $6,000.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 b).- Por reposición de la licencia o permiso. $ 2,408.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
@@ -3789,13 +3745,9 @@ cambio de giro o cambio de nombre comercial. $5, 000.00
 
 VII.- Durante el período correspondiente a los trámites administrativos relacionados con la obtención de la licencia de funcionamiento para la venta y consumo de bebidas con contenido alcohólico, a petición del solicitante y previa evaluación de los motivos que la justifiquen, la Secretaría de Hacienda podrá expedir permisos provisionales, previo pago de los derechos correspondientes, hasta por tres meses, renovable por una sola ocasión por el plazo solicitado inicialmente, sin que su expedición implique la autorización de la licencia definitiva.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 La expedición de estos permisos provisionales causará derechos por cada mes o fracción, a razón de un 12% de la tarifa establecida en la fracción I del presente artículo, para el giro correspondiente a la licencia en trámite.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, B.O. 6 DE AGOSTO DE 2012)</small>
 
@@ -3845,8 +3797,6 @@ q).- Establecimiento de prestación de
 
 servicios de juegos con apuestas. $68,569.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 r).- Fábrica de Cerveza Artesanal, de acuerdo a la siguiente tabla:
@@ -3869,19 +3819,15 @@ Hasta 2,000 10,417.00
 
 s).- Restaurante Rural $1,042.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 t).- Hoteles o Moteles Rurales $2,083.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 Cuando se realice el canje de la licencia correspondiente, no se cobrarán los derechos de revalidación contenida en la fracción II de este artículo.
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2017, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 6 DE JULIO DE 2017.]</small>
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -3889,7 +3835,7 @@ Cuando se realice el canje de la licencia correspondiente, no se cobrarán los d
 
 Las personas físicas o morales titulares de licencias o permisos para operar alguno o algunos de los establecimientos a que se refiere el Artículo 302 de este Capítulo, deberán presentar el aviso de inscripción ante el registro estatal de contribuyentes en la oficina recaudadora que corresponda a su domicilio fiscal.
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2017, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 6 DE JULIO DE 2017.]</small>
 
 > <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
@@ -3909,13 +3855,13 @@ Cuando se compruebe la transmisión del permiso sin que para ello se haya seguid
 
 Cuando se lleven a cabo traspasos, cambios de propietarios o de razón social y cambios de domicilio, con autorización de la Secretaría de Finanzas del Estado, quedarán los permisionarios sujetos a los derechos que se señalen, los que serán equivalentes a los que haya venido pagando el propietario anterior. Se cobrarán estos derechos en forma proporcional a los meses o fracciones del año fiscal de que se trate.
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 29 DE FEBRERO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2017, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 6 DE JULIO DE 2017.]</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
 ### Capítulo Sexto. Por Servicios de Certificaciones, Constancias y Autorizaciones
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2017, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 6 DE JULIO DE 2017.]</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -3989,11 +3935,11 @@ h) (DEROGADO, B.O. 2 DE ABRIL DE 2007)
 
 i) (DEROGADO, B.O. 2 DE ABRIL DE 2007)
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 29 DE FEBRERO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2017, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 6 DE JULIO DE 2017.]</small>
 
 ### Capítulo Séptimo. Servicios prestados por la Dirección General de Notarías
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2017, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 6 DE JULIO DE 2017.]</small>
 
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -4017,13 +3963,13 @@ cualquier profesión o especialidad. N$ 100.00
 
 del punto anterior, por cada prórroga. N$ 50.00
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS CONCEPTOS, MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 29 DE FEBRERO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2017, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 6 DE JULIO DE 2017.]</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
 ### Capítulo Octavo. De los servicios prestados por la Dirección General de Documentación y Archivo
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2017, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 6 DE JULIO DE 2017.]</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -4093,8 +4039,6 @@ b).- Copia certificada $50.00
 
 8.- Por constancia de no servidor público. $130.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 9.- Por expedición de certificados sobre antecedentes
@@ -4104,8 +4048,6 @@ Penales, por cada uno. $ 70.00
 > <small>(ADICIONADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 10.- Por expedición de constancia de adeudo o no adeudo fiscal y/o no inscripción en el registro estatal de contribuyentes. $50.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 26 DE DICIEMBRE DE 2008)</small>
 
@@ -4155,8 +4097,6 @@ o actualización bianual de datos, a petición del
 
 solicitante: $ 240.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
 12.- Por los servicios relativos a la inscripción, permiso de operación y revalidación trianual, así como por constancias de reposición, de conformidad con la Ley que determina las Bases de Operación de las Casas de Empeño del Estado de Sonora:
@@ -4173,21 +4113,19 @@ e).- Revalidación trianual, que deberá solicitarse en los primeros cuatro mese
 
 f).- Reposición de la constancia de revalidación trianual a petición del solicitante. $ 244.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 13.- Por constancia de no inhabilitación de
 
 servidor público. $176.00
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 29 DE FEBRERO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2017, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 6 DE JULIO DE 2017.]</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ### Capítulo Noveno. Servicios por Expedición de Placas de Vehículos, Revalidaciones, Licencias para Manejar y Permisos
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2017, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 6 DE JULIO DE 2017.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
@@ -4211,8 +4149,6 @@ b).- Copia certificada. $64.00
 
 6.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
 7.- Por la recepción de cada libro y de cada uno de los apéndices del protocolo notarial para su guarda y custodia, ya sea por antigüedad o por cierre de notaría pública: $77.00
@@ -4229,45 +4165,35 @@ b).- Copia certificada. $64.00
 
 12.- Por la sola búsqueda y localización de información relativa a escrituras públicas y antecedentes notariales y brindar información al interesado sin que esto implique la expedición y cobro del documento correspondiente:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
 a).- Por notario y por cada año de búsqueda. $150.00
 
 13.- Por los servicios urgentes a petición del usuario se causará un derecho adicional equivalente al 50% sobre la cantidad fijada para el servicio que se solicita. Se considerarán servicios urgentes cuando se proporcione dentro de las veinticuatro horas siguientes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
 14.- Por la presentación de examen de aspirante a notario. $ 15,000.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
 15.- Por presentación de examen de oposición para ser titular de una notaría pública. $ 25,000.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
 16.- Por la autorización de proyectos de escrituras a los jueces locales en funciones de Notario Público por Ministerio de Ley, por cada instrumento, que requiera autorización. $ 250.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
 17.- Por la inscripción de disposiciones testamentarias en el Registro Nacional de Testamentos y el Registro Local de Testamentos. $ 120.00 Por cada disposición testamentaria.
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS CONCEPTOS, MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 29 DE FEBRERO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2017, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 6 DE JULIO DE 2017.]</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ### Capítulo Décimo. Derechos por Servicios en materia de Autotransportes y Otros
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2017, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 6 DE JULIO DE 2017.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -4345,17 +4271,15 @@ XI.- Por la expedición de constancias del archivo administrativo de Servidores 
 
 ### Capítulo Décimo Primero. Servicios del Registro Público de la Propiedad y del Comercio
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2017, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 6 DE JULIO DE 2017.]</small>
 
-> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 91, PUBLICADO EN EL B.O. 19 DE DICIEMBRE DE 2013, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
+> <small>[N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 91, PUBLICADO EN EL B.O. 19 DE DICIEMBRE DE 2013, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.]</small>
 
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 312.
 
 Las placas tipo único para todos los vehículos, se clasifican en los siguientes grupos, aplicándose para su expedición, revalidación o baja, los siguientes derechos conforme a sus especificaciones:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE AGOSTO DE 2012)</small>
 
@@ -4395,8 +4319,6 @@ Por los servicios a que se refieren los incisos a), b) y c) anteriores, tratánd
 
 a).- Por expedición. $785.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 b) Por la revalidación anual de placas, dentro del
@@ -4417,8 +4339,6 @@ Por la revalidación extemporánea se pagará un adicional sobre el gravamen anu
 
 c) Por baja. $100.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 3.- Por expedición de tarjeta de circulación, incluyendo
@@ -4430,8 +4350,6 @@ vehículos o maquinaria, agrícolas. $100.00
 El pago de la tarjeta de circulación no causará contribuciones adicionales ni se le aplicará el factor de actualización.
 
 4.- PLACAS FRONTERIZAS: Ostentarán placas fronterizas los vehículos de propulsión mecánica, importados a las zonas o perímetros libres del Estado y causarán los derechos según la clase o uso a que se destine el vehículo, conforme a las especificaciones anteriores,
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -4487,8 +4405,6 @@ Tratándose de permisos para circular sin placas por el traslado de vehículos e
 
 El pago de los derechos por la expedición de placas se efectuará dentro de los 15 días siguientes al de la fecha de adquisición tratándose de vehículos nuevos; en los casos de cambio de propietario, de uso o de destino, se efectuará dentro de los 15 días siguientes a partir de que se realice la operación de que se trate y tratándose de vehículos importados a las zonas o perímetros libres del Estado o interior del País, a partir de los 15 días de efectuada la importación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 El pago de los derechos por revalidación anual de placas se efectuará durante los tres primeros meses del año de calendario que corresponda para todo tipo de placas.
@@ -4501,7 +4417,7 @@ Las placas que se expidan para la circulación de vehículos tendrán el caráct
 
 Las autoridades estatales o municipales competentes en el Estado, en la actualización del registro de vehículos por altas, revalidación, cambios o bajas de placas, deberán cerciorarse que no existan adeudos por concepto de contribuciones en materia vehicular, correspondientes a los últimos 5 años. En caso de que existan adeudos, dichas autoridades procederán a llevar a cabo su cobro, salvo en los casos en que el contribuyente acredite que se encuentra liberado de esta obligación.
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2017, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 6 DE JULIO DE 2017.]</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -4512,8 +4428,6 @@ Los remolques y semiremolques de transporte privado o de servicio público deber
 > <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
 1.- Por expedición $386.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -4549,7 +4463,7 @@ Las placas de demostración causarán derechos conforme a la tarifa de transport
 
 En el caso a que se refiere el párrafo anterior, se expedirá un juego de placas en el año, por cada 5 vehículos que se tengan en venta, al momento de la solicitud del servicio.
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2017, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 6 DE JULIO DE 2017.]</small>
 
 > <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
@@ -4559,15 +4473,11 @@ En caso de extravío de una o ambas placas, su reposición implicará la asignac
 
 Tratándose de baja de placas por robo de vehículo previa la acreditación de la presentación de la denuncia respectiva ante la autoridad competente, no se cobrará el derecho correspondiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, B.O. 1 DE DICIEMBRE DE 2014)</small>
 
 Tratándose de baja de placas en caso de robo, previa acreditación de la presentación de la denuncia respectiva ante la autoridad competente, el Estado estará obligado a otorgar un descuento del cincuenta por ciento en el costo por concepto de expedición del nuevo juego de placas.
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2017, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 6 DE JULIO DE 2017.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE AGOSTO DE 2012)</small>
 
@@ -4578,8 +4488,6 @@ La expedición o renovación de licencias para conducir, así como los permisos 
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
 1.- Licencias:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -4599,11 +4507,7 @@ Por cuatro años. $650.00
 
 Por cinco años. $1,000.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(DEROGADO SÉPTIMO PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2015)</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -4619,11 +4523,7 @@ Por tres años. $620.00
 
 Por cuatro años. $780.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(DEROGADO SEXTO PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2015)</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -4633,13 +4533,9 @@ Por dos años. $456.00
 
 Por tres años. $620.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 d).- De motociclista como sigue:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
@@ -4653,11 +4549,7 @@ Por tres años. $517.00
 
 Permanente $1,090.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(DEROGADO SEXTO PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2015)</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -4676,8 +4568,6 @@ a).- (DEROGADO, B.O. 19 DE DICIEMBRE DE 2013)
 b).- (DEROGADO, B.O. 19 DE DICIEMBRE DE 2013)
 
 c).- (DEROGADO, B.O. 19 DE DICIEMBRE DE 2013)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -4699,7 +4589,7 @@ Cuando la expedición o renovación de licencias de conducir sea solicitada con 
 
 Las licencias descritas en el presente artículo deberán incluir una póliza de seguro de responsabilidad civil a favor del titular de la licencia, sin que dicha póliza impacte en el costo de la referida licencia. Condicionada dicha póliza al pago de un deducible hasta por la cantidad de 200 veces el salario mínimo diario vigente en la ciudad de Hermosillo por parte del titular de la licencia y el seguro que incluirá la licencia de conducir vigente será hasta una responsabilidad de $50,000.00 pesos, por lo que deberán presupuestarse los recursos necesarios para que la Secretaría de Hacienda licite la póliza que cubra lo previsto en este párrafo, debiendo contratarse una empresa que se encuentre debidamente registrada ante la Comisión Nacional de Seguros y Fianzas y dicha empresa deberá contar con garantías de servicio en siniestros debidamente estipuladas en las condiciones del seguro de referencia al deducible citado y hasta el monto de garantía de responsabilidad señalado, cantidades éstas que han sido especificadas con anterioridad.
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2017, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 6 DE JULIO DE 2017.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
@@ -4710,8 +4600,6 @@ Los derechos por expedición de placas de motocicletas y motonetas, revalidació
 > <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
 1.- Por expedición $406.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -4747,7 +4635,7 @@ hasta diez días. $ 70.00
 
 motocicletas y motonetas. $ 75.00
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2017, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 6 DE JULIO DE 2017.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
@@ -4755,15 +4643,13 @@ motocicletas y motonetas. $ 75.00
 
 La expedición, canje o baja de placas, así como la expedición de las licencias para manejar, a que se refiere esta ley, se autorizarán previo el cumplimiento de los requisitos establecidos en la Ley de Tránsito del Estado de Sonora.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 > <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
 La Secretaría de Hacienda deberá mantener permanentemente actualizado el Registro Estatal Vehicular, así como el Registro de Licencias para conducir vehículos, para lo cual podrá celebrar convenios de colaboración administrativa con los municipios del Estado.
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2017, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 6 DE JULIO DE 2017.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -4799,7 +4685,7 @@ antigüedad a y más
 
 $400.00 $200.00 $100.00
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 29 DE FEBRERO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2017, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 6 DE JULIO DE 2017.]</small>
 
 ### Capítulo Décimo Segundo. Inspección Sanitaria
 
@@ -4831,31 +4717,21 @@ b).- Carga. $1,450.00
 
 a).- Pasaje. $800.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 1.-Automóvil de alquiler $1,181.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 2.- Urbano $1,181.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 3.- Suburbano $1,181.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 4.- Foráneo $1,181.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
@@ -4865,19 +4741,13 @@ personas con discapacidad y de la
 
 tercera edad $1,181.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 6.- Exclusivo de turismo $1,181.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 7.- Especializado de personal $1,181.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
@@ -4912,8 +4782,6 @@ a).- Pasaje $ 100.00
 > <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
 b).- Carga $ 100.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -4963,8 +4831,6 @@ a).- Que exceda del 50% del radio de acción Autorizado en la concesión, por un
 
 b).- Que no exceda del 50% del radio de acción Autorizado en la concesión, por unidad. N$ 75.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 10.- Por expedición de concesiones para la explotación de centrales y terminales camioneras:
@@ -4985,15 +4851,13 @@ a).- Por cada hoja N$ 20.00
 
 b).- Por la búsqueda N$ 20.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 14.- Por autorización o reubicación en la modalidad de automóviles de alquiler.
 
-a) Autorización o reubicación de sitio … (sic)
+a) Autorización o reubicación de sitio . (sic)
 
-b) Reubicación de lugar de sitio por unidad … (sic)
+b) Reubicación de lugar de sitio por unidad . (sic)
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -5049,8 +4913,6 @@ a).- Por cada hoja $41.00
 
 b).- Por la búsqueda $41.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 c).- Por certificación de inscripción. $61.00
@@ -5095,8 +4957,6 @@ a) Pasaje $180.00
 
 b) Carga $180.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 23.- Por autorización para fijar y/o permitir publicidad y/o propaganda en el vehículo autorizado para la explotación del servicio público de transporte a razón de $75.00 por metro cuadrado.
@@ -5107,7 +4967,7 @@ Las personas físicas o morales titulares de concesiones o permisos para operar 
 
 ### Capítulo Décimo Tercero. Servicios del Registro Civil
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2017, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 6 DE JULIO DE 2017.]</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -5161,13 +5021,9 @@ Por lo que hace al patrimonio familiar:
 
 $400.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 f).- Por el que cancele inscripción referente a gravamen, limitante, que pese sobre un bien inmueble, testamento ológrafo o poder, por cada antecedente se cobrará: $522.00
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
@@ -5271,8 +5127,6 @@ $150.00
 
 $500.00
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
 4.- En todos aquellos documentos públicos o privados que contengan lotificación, condominio, subdivisión, fusión, o fraccionamiento del inmueble, por captura de cada lote o área exclusiva condominal resultante en sistema de gestión registral se cobrará:
@@ -5297,19 +5151,13 @@ Para el caso, de que el documento no esté consultable en formato digital, su ve
 
 $5,000.00
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
 9.- Se causará un derecho adicional equivalente al 50% sobre la cantidad fijada, siempre y cuando el peticionario del servicio lo solicite, con el fin de que el servicio registral requerido le sea entregado dentro de las 24 horas hábiles siguientes a la solicitud, derechos éstos que se destinarán el 60% como estímulo a todo el personal adscrito a la Dirección General de Servicios Registrales, así como a las áreas del Instituto Catastral y Registral del Estado de Sonora que colaboren directa e indirectamente en el proceso registral, y el 40% para modernización de los servicios registrales en el Estado.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
 10.- Se causará un derecho adicional equivalente al 150% a petición del usuario, sobre la cantidad fijada para el servicio que se solicita, siempre y cuando la operatividad y naturaleza del acto lo permita, este mismo trámite deberá de ser entregado antes del término del horario laboral establecido. Los derechos causados se destinarán exclusivamente al fondo de modernización para ser distribuido en cada Oficina Jurisdiccional que haya prestado el citado servicio.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
@@ -5321,13 +5169,13 @@ $262.00
 
 VI.- Tratándose del testamento publico simplificado o de títulos de propiedad que expidan los entes públicos facultados, derivados de programas oficiales para satisfacer necesidades de vivienda, los derechos por los servicios registrales señalados en los puntos e incisos aquí enunciados se reducirán en un 75%.
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2017, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 6 DE JULIO DE 2017.]</small>
 
 ###### Artículo 322.
 
 Las tarifas de este Capítulo cuando comprendan dos o más cuotas y ya sean especificadas o proporcionales, se aplicarán progresivamente y acumulativamente.
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2017, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 6 DE JULIO DE 2017.]</small>
 
 > <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -5347,7 +5195,7 @@ Asimismo, se exceptúan de los derechos por registro de documentos públicos o p
 
 ### Capitulo Décimo Cuarto. Otros Servicios
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2017, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 6 DE JULIO DE 2017.]</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -5355,7 +5203,7 @@ Asimismo, se exceptúan de los derechos por registro de documentos públicos o p
 
 (DEROGADO, B.O. 31 DE DICIEMBRE DE 1979)
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 29 DE FEBRERO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2017, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 6 DE JULIO DE 2017.]</small>
 
 ### Capítulo Unico
 
@@ -5371,8 +5219,6 @@ I.- Por las inscripciones de:
 
 1.1.- Registro y expedición de la primera copia certificada al interesado. Gratuita
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 1.2.- Con la entrega de la copia al interesado. $90.00
@@ -5383,8 +5229,6 @@ I.- Por las inscripciones de:
 
 2.1.- Sin la entrega de la copia al interesado. Gratuita
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 2.2. - Con la entrega de la copia al interesado. $90.00
@@ -5393,19 +5237,13 @@ I.- Por las inscripciones de:
 
 3.1.- Sin la entrega de la copia al interesado. Gratuita
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 3.2.- Con la entrega de copia al interesado. $75.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 3.3.- Realizadas fuera del horario establecido para las guardias $755.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -5417,21 +5255,15 @@ I.- Por las inscripciones de:
 
 sociales y domicilios particulares). $2,245.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 5.- Actos del estado civil de los mexicanos realizados
 
 en el extranjero. $865.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 6.- Resoluciones judiciales relativas a:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
@@ -5439,21 +5271,15 @@ en el extranjero. $865.00
 
 6.2.- Divorcios. $771.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 7.- Otras resoluciones judiciales que conforme al
 
 Código Civil deban registrarse. $630.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 8.- Expedición de Actas Interestatales $280.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -5461,15 +5287,11 @@ II.- Por la expedición de actas del Registro Civil en las oficialías, Archivo 
 
 1.- Servicio Ordinario.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 1.1.- Impreso del libro (medio electrónico, expedición
 
 en línea y cajeros automáticos). $90.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -5483,11 +5305,7 @@ III.- Por las anotaciones marginales:
 
 1.- De reconocimiento de hijos. Gratuita
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 2.- (DEROGADO, B.O. 14 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -5495,21 +5313,15 @@ III.- Por las anotaciones marginales:
 
 de actas por la vía administrativa $400.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 4.- Que se realicen en cumplimiento de disposiciones
 
 jurídicas o de resoluciones judiciales. $400.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 Excluyendo la que se realice por sentencia ejecutoriada que declara la nulidad del matrimonio, la cual será gratuita.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -5519,8 +5331,6 @@ fuera de la oficina, en horas inhábiles, excepto el de
 
 matrimonio y defunción, causarán una cuota de: $860.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 6.- Por la búsqueda manual de 1 a 5 años que se
@@ -5528,8 +5338,6 @@ matrimonio y defunción, causarán una cuota de: $860.00
 efectúe para la localización de un acta, cuando el
 
 solicitante no proporcione los datos necesarios. $115.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -5541,13 +5349,11 @@ del Registro Civil en el Estado. $115.00
 
 El Ejecutivo del Estado por conducto de la dependencia que corresponda, previo estudio socioeconómico, podrá autorizar la exención de los derechos a que se refieren los puntos 1 y 6 de la fracción I de este artículo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 Dichos Servicios no causarán el pago de la Contribución para el Fortalecimiento a la Infraestructura Educativa.
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2017, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 6 DE JULIO DE 2017.]</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -5563,11 +5369,7 @@ I.- Por la expedición de actas:
 
 1.2.- Transcripción del libro (mecanografiada). $50.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 1.3.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2009)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -5575,17 +5377,17 @@ II.- Por la búsqueda que se efectúe para la localización de un acta, de uno a
 
 1.- Por la expedición de certificados de inexistencia respectivo. $50.00
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2017, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 6 DE JULIO DE 2017.]</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
 Artículo 325 Bis B.- La expedición de documentos que realice la Institución del Registro Civil a otro estado causará el derecho correspondiente al servicio solicitado; independientemente de los derechos que se causen deberá pagarse el costo de envío que determine el usuario.
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2017, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 6 DE JULIO DE 2017.]</small>
 
 Artículo 325 Bis C.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 29 DE FEBRERO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2017, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 6 DE JULIO DE 2017.]</small>
 
 ###### Artículo 326.
 
@@ -5873,11 +5675,7 @@ transporte concesionado por el Estado. N$3,000.00
 
 aspectos de desarrollo urbano $122.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 11.- (DEROGADO, B.O. 26 DE DICIEMBRE DE 2008)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 26 DE DICIEMBRE DE 2008)</small>
 
@@ -5885,43 +5683,27 @@ aspectos de desarrollo urbano $122.00
 
 de estudio de impacto ambiental:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 a).- Autorización de actividad riesgosa. $7,315.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 b).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2009)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 c).- Autorización en materia de evaluación de impacto ambiental. $7,064.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 d).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 e).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2009)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
 
 13.- Por los servicios de evaluación e información y dictamen para:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 a).- Autorización de licencia de funcionamiento. $6,246.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -5943,25 +5725,17 @@ correspondiente de dicha Ley, cuando no requieran
 
 autorización en materia de impacto ambiental. $1,853.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 c).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2009)
 
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 14.- Por la inscripción en el Registro Estatal de:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 a).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2009)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 b).- Prestadores de servicios ambientales. $4,789.000
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -5993,31 +5767,21 @@ desarrollos turísticos, industriales o campestres,
 
 fuera del límite del centro de población $3,500.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 18.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2012)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 19.- Resolución de permisos para la exploración, explotación y aprovechamiento de minerales y sustancias no reservadas a la Federación, $0.53 por cada metro cúbico extraído, tratándose de arenas, graves, tezontle, tepetate y de materiales como mármol, cantera, granito, ónix $50.00 por cada metro cúbico extraído.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 20.- Autorización de permiso de combustión a cielo abierto. $816.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 21.- Autorización para la utilización de residuos de manejo
 
 especial en procesos productivos. $1,308.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -6029,15 +5793,11 @@ de Terceros y en general la Realización de Cualquiera de
 
 las Actividades relacionadas con el Manejo de éstos. $1,308.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 23.- Autorización para la incineración de residuos de
 
 manejo especial. $3,158.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -6047,15 +5807,11 @@ confinamientos para residuos de manejo especial dentro de
 
 las instalaciones en las que éstos se generen. $1,588.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 25.- Autorización para el establecimiento de sitios de
 
 disposición final de residuos de manejo especial. $9,362.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -6063,15 +5819,11 @@ disposición final de residuos de manejo especial. $9,362.00
 
 por microgeneradores. $3,483.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 27.- Autorización para la prestación de servicios
 
 para el manejo de residuos de manejo especial. $1,225.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -6079,13 +5831,9 @@ para el manejo de residuos de manejo especial. $1,225.00
 
 y tratamiento de residuos de manejo especial. $1,308.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 29.- La transferencia de autorizaciones expedidas por la Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora, de manejo y disposición final de residuos y su manejo integral, 25% del pago de derechos de la Autorización que se pretenda transferir.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
@@ -6094,8 +5842,6 @@ y tratamiento de residuos de manejo especial. $1,308.00
 empresa generadora de residuos de
 
 manejo especial. $ 1,000.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -6267,8 +6013,6 @@ cadáveres cuando esta sea decretada por autoridad
 
 judicial o por el Ministerio Público en un proceso penal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
 
 20.- Guía para examen de responsable técnico de
@@ -6307,13 +6051,9 @@ c).- De educación superior. $210.00
 
 estudios. N$10.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 6. Exámenes a título de suficiencia:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
@@ -6389,13 +6129,9 @@ técnicos, universitarios y tecnológicos. $140.00
 
 14.- Registro de colegio de profesionistas. $3,000.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
 15.- Registro de titulo profesional. Gratuito
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -6403,15 +6139,11 @@ técnicos, universitarios y tecnológicos. $140.00
 
 para el Ejercicio Profesional. $658.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 17.- Expedición de cédula profesional de profesionista
 
 certificado. $255.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -6419,21 +6151,15 @@ certificado. $255.00
 
 medio superior. $26.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 19.- Gestión de registro de titulo, grado, especialidad
 
 y expedición ante la Federación. $227.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 20.- Duplicado de cédula profesional. $255.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -6441,31 +6167,21 @@ y expedición ante la Federación. $227.00
 
 Grado Académico y Diploma de Especialidad $800.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 22.- Expedición de Cédula de Técnico Superior Universitario $400.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 23.- Expedición de Cédula de Técnicos $200.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 24.- Duplicado de Cédula $255.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 25.- Expedición de Cédula de Profesionista Certificado $255.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -6473,13 +6189,9 @@ Grado Académico y Diploma de Especialidad $800.00
 
 de validez para la impartición e (sic) educación continua $200.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 27.- Certificación de Título Profesional $62.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -6523,23 +6235,17 @@ elementos prospectos de seguridad privada. $ 65.00
 
 Los ingresos que se perciban por los derechos a que se refieren los puntos 3 y 4 anteriores, serán destinados exclusivamente para el fortalecimiento de los programas a cargo del Secretario Ejecutivo de Seguridad Pública y demás erogaciones necesarias para la adecuada y eficaz prestación del servicio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 5.- (DEROGADO, B.O. 6 DE AGOSTO DE 2012)
 
 > <small>(ADICIONADA, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
 VI.- Servicios prestados por la Secretaría de la Contraloría General.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 1.- Por el servicio de vigilancia, inspección y control que las leyes de la materia encomiendan a la Secretaría de la Contraloría General, los proveedores y contratistas con quienes se celebren contratos de adquisiciones y servicios derivados de licitaciones públicas, de obra pública y de servicios relacionados con dichas materias, pagarán un derecho equivalente al 2 al millar sobre el importe de cada una de las estimaciones o adquisiciones derivadas de los contratos.
 
 La Secretaría de Hacienda y las entidades paraestatales de la administración pública estatal, al hacer el pago de las estimaciones de obra o adquisiciones, retendrán el importe del derecho a que se refiere el párrafo anterior,
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -6567,8 +6273,6 @@ personas o bien representen un riesgo de daños
 
 para la población, por hora incluyendo entregable. $200.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 2.- Por dictaminar y/o autorizar los programas internos
@@ -6594,8 +6298,6 @@ mediano riesgo $5,000.00
 2.3.- Inmuebles, edificaciones o establecimientos de
 
 alto riesgo $7,000.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -6631,8 +6333,6 @@ b)-3.- De 20 a 29 personas. $30,000.00
 
 b)-4.- De 30 o más personas. $40,000.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 5.- Por la autorización de diagnóstico de riesgo en
@@ -6646,8 +6346,6 @@ uso y destino concentren o reciban una afluencia
 masiva de personas, o bien representen un riesgo de
 
 daños para la población. $3,000.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -6787,8 +6485,6 @@ VIII.- Servicios prestados por la Comisión Estatal de Bienes y Concesiones.
 
 1.- Por el uso, goce, aprovechamiento o explotación de bienes del dominio público del Estado, se causarán las siguientes cuotas:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 a) Por el uso y explotación de un espacio
@@ -6796,8 +6492,6 @@ a) Por el uso y explotación de un espacio
 público para la instalación de maquinas
 
 expendedoras de café, mensualmente. $ 400.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
@@ -6808,8 +6502,6 @@ público para la instalación de maquinas
 expendedoras de snack y sodas,
 
 mensualmente. $ 500.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
@@ -6832,8 +6524,6 @@ en taquilla. ingresos
 tarifarios
 
 anuales
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
@@ -6858,8 +6548,6 @@ e) Empresarios locales para obras infantiles,
 por función. $ 7,000.00
 
 f) Instituciones privadas, por día. $15,000.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -7618,3 +7306,11 @@ B.O. 22 DE FEBRERO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 6 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA LEY DE HACIENDA DEL GOBIERNO DEL ESTADO DE SONORA, PARA EL SEGUNDO SEMESTRE DEL AÑO 2017”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
