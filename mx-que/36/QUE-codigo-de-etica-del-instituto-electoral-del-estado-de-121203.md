@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-etica-del-instituto-electoral-del-estado-de-121203"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-04-07"
-last_updated: "2017-04-07"
+last_updated: "2017-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121203&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO DE ÉTICA DEL INSTITUTO ELECTORAL DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el viernes 7 de abril de 2017.
 
@@ -113,7 +113,7 @@ El presente Código es de observancia obligatoria para quienes presten sus servi
 
 Quienes ejerzan el servicio público deberán:
 
-l. Desempeñar sus funciones de forma veraz, oportuna, apegada a los hechos y a la legislación aplicable, y
+I. Desempeñar sus funciones de forma veraz, oportuna, apegada a los hechos y a la legislación aplicable, y
 
 II. Cumplir oportunamente las determinaciones que se establezcan en el desempeño de sus funciones.
 
@@ -123,7 +123,7 @@ II. Cumplir oportunamente las determinaciones que se establezcan en el desempeñ
 
 Quienes ejerzan el servicio público deberán:
 
-l. Sustentar su actuación única y exclusivamente en la convencionalidad, constitucionalidad y legalidad, y
+I. Sustentar su actuación única y exclusivamente en la convencionalidad, constitucionalidad y legalidad, y
 
 II. Actualizar constantemente sus conocimientos respecto a la normatividad aplicable a sus responsabilidades.
 
@@ -133,7 +133,7 @@ II. Actualizar constantemente sus conocimientos respecto a la normatividad aplic
 
 Quienes ejerzan el servicio público deberán:
 
-l. Ejercer sus funciones de manera objetiva sin otorgar privilegios con motivo de sus actuaciones que pongan en riesgo la autonomía del Instituto, y
+I. Ejercer sus funciones de manera objetiva sin otorgar privilegios con motivo de sus actuaciones que pongan en riesgo la autonomía del Instituto, y
 
 II. Abstenerse de compromisos e intereses particulares que desacrediten sus funciones y pongan en riesgo las actividades del Instituto.
 
@@ -143,7 +143,7 @@ II. Abstenerse de compromisos e intereses particulares que desacrediten sus func
 
 Quienes ejerzan el servicio público deberán:
 
-l. Conceder un trato equitativo a los partidos políticos, candidaturas independientes, asociaciones políticas y a la sociedad, y
+I. Conceder un trato equitativo a los partidos políticos, candidaturas independientes, asociaciones políticas y a la sociedad, y
 
 II. Abstenerse de proporcionar a cualquier persona información de los asuntos que estén bajo su conocimiento y resguardo, por lo que deberán guardar reserva de los asuntos que se generen con motivo del desempeño de sus funciones.
 
@@ -153,35 +153,29 @@ II. Abstenerse de proporcionar a cualquier persona información de los asuntos q
 
 Quienes ejerzan el servicio público deberán:
 
-l. Difundir a través de los medios institucionales a su alcance, toda la información que tenga el carácter de pública, y
+I. Difundir a través de los medios institucionales a su alcance, toda la información que tenga el carácter de pública, y
 
 II. Proporcionar la información que tenga bajo su resguardo y le sea requerida en términos de la normatividad en materia de transparencia y acceso a la información pública.
 
-### CAPÍTULO VII. EQUIDAD
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES CAPÍTULO VIII], P.O. 7 DE JULIO DE 2017)</small>
+
+### CAPÍTULO VII. OBJETIVIDAD
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 8], P.O. 7 DE JULIO DE 2017)</small>
 
 ###### Artículo 7.
 
 Quienes ejerzan el servicio público deberán:
 
-l. Abstenerse de realizar conductas que vulneren el principio de equidad en la contienda electoral, y
-
-II. Realizar acciones afirmativas para fomentar la igualdad sustantiva en la sociedad.
-
-### CAPÍTULO VIII. OBJETIVIDAD
-
-###### Artículo 8.
-
-Quienes ejerzan el servicio público deberán:
-
-l. Desarrollar la función electoral fuera de visiones y opiniones personales;
+I. Desarrollar la función electoral fuera de visiones y opiniones personales;
 
 II. Respetar la diversidad, el pluralismo y el diálogo, y
 
 III. Escuchar, dialogar con razones y empatía.
 
-### CAPÍTULO IX. VALORES DEMOCRÁTICOS
+### CAPÍTULO VIII. VALORES DEMOCRÁTICOS
 
-###### Artículo 9.
+###### Artículo 8.
 
 Quienes ejerzan el servicio público deberán conducirse en todo momento observando los valores democráticos del diálogo, respeto, participación, tolerancia, igualdad, legalidad y pluralismo, cuidando el prestigio de la institución.
 
@@ -196,3 +190,19 @@ Lic. Carlos. Rubén Eguiarte Mereles
 Secretario Ejecutivo
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE JULIO DE 2017.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE QUERÉTARO, RELATIVO AL DICTAMEN MEDIANTE EL CUAL LA COMISIÓN JURÍDICA SOMETE A LA CONSIDERACIÓN DEL ÓRGANO DE DIRECCIÓN SUPERIOR, LA REFORMA DEL CÓDIGO DE ÉTICA DEL INSTITUTO ELECTORAL DEL ESTADO DE QUERÉTARO”.]</small>
+
+PRIMERO. Se aprueba el Dictamen mediante el cual la Comisión Jurídica somete a la consideración del Consejo General, la reforma del Código de Ética del Instituto Electoral del Estado de Querétaro, el cual como anexo es parte de este acuerdo.
+
+SEGUNDO. Se aprueba la reforma del Código de Ética del Instituto Electoral del Estado de Querétaro.
+
+TERCERO. La reforma del Código de Ética del Instituto Electoral del Estado de Querétaro entrará en vigor a partir de la aprobación de este acuerdo.
+
+CUARTO. Remítase copia certificada de la presente determinación a la Contraloría General del Instituto, para los efectos legales conducentes.
+
+QUINTO. Notifíquese y publíquese como corresponda en términos de la Ley de Medios de Impugnación en Materia Electoral del Estado de Querétaro, así como del Reglamento Interior del Instituto Electoral del Estado de Querétaro.
