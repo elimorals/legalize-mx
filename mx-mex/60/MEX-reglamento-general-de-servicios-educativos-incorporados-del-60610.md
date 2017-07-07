@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-general-de-servicios-educativos-incorporados-del-606
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-03-28"
-last_updated: "2016-02-29"
+last_updated: "2017-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO GENERAL DE SERVICIOS EDUCATIVOS INCORPORADOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE JULIO DE 2017.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 28 de marzo de 2007.
 
@@ -71,11 +71,15 @@ VIII. Particular, Persona física o jurídica colectiva;
 
 IX. Plantel, Institución que cuenta con instalaciones donde se impartan estudios incorporados al Sistema Educativo Estatal;
 
-X. Reconocimiento de Validez Oficial de Estudios, Acuerdo que otorga validez a los estudios impartidos por un particular de tipo medio superior o superior;
+> <small>(REFORMADA, G.G. 7 DE JULIO DE 2017)</small>
+
+X. Reconocimiento de Validez Oficial de Estudios, Acuerdo que otorga validez a los estudios impartidos por un particular de tipo inicial, medio superior o superior.
 
 XI. Registro, Documento que se otorga a los particulares que impartan estudios que no requieren de Reconocimiento de Validez Oficial de Estudios;
 
-XII. Retiro de Reconocimiento de Validez Oficial de Estudios, Resolución de la Autoridad Educativa mediante la cual se deja sin efecto el Reconocimiento de Validez Oficial de Estudios impartidos por el particular de tipo medio superior o superior;
+> <small>(REFORMADA, G.G. 7 DE JULIO DE 2017)</small>
+
+XII. Retiro de Reconocimiento de Validez Oficial de Estudios, Resolución de la Autoridad Educativa a través de la cual se deja sin efecto el Reconocimiento de Validez Oficial de Estudios impartidos por el particular de tipo inicial, medio superior o superior.
 
 XIII. Revocación de Autorización, Resolución de la Autoridad Educativa que deja sin efectos la Autorización otorgada al particular para impartir educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica;
 
@@ -110,6 +114,10 @@ Los particulares que cuenten con Reconocimiento de Validez Oficial de Estudios e
 Son atribuciones de la Autoridad Educativa, las siguientes:
 
 I. Otorgar, negar y revocar la Autorización a los Particulares para impartir educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica y ordenar su publicación en el periódico oficial "Gaceta del Gobierno";
+
+> <small>(ADICIONADA, G.G. 7 DE JULIO DE 2017)</small>
+
+I. Bis. Otorgar, negar y revocar la autorización a los Centros de Atención que en términos de la Ley de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil en el Estado de México y su Reglamento, que cumplan los requisitos previstos en la Ley y el presente Reglamento, así como, en su caso, instrumentar los mecanismos de transición que permitan a los Centros de Atención, impartir educación preescolar conforme a los programas y modelos educativos y pedagógicos correspondientes, con la finalidad de facilitar la transición o incorporación de las niñas y niños a la educación básica en el marco del Sistema Educativo Nacional, para lo cual podrán celebrarse convenios de colaboración o coordinación, según corresponda, los cuales deberán publicarse en el periódico oficial “Gaceta del Gobierno”.
 
 > <small>(REFORMADA, G.G. 29 DE FEBRERO DE 2016)</small>
 
@@ -209,9 +217,11 @@ La Secretaría, en el ámbito de su competencia, formulará las recomendaciones 
 
 La Incorporación de los Particulares al Sistema Educativo Estatal se obtendrá mediante la Autorización o Reconocimiento de Validez Oficial de Estudios que otorguen la Secretaría, SEIEM y, en su caso, los organismos públicos descentralizados de carácter educativo que tengan facultades para ello, siempre que se cumplan los requisitos establecidos en este Reglamento y en los Acuerdos Específicos que expida la Autoridad Educativa.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 7 DE JULIO DE 2017)</small>
+
 ###### Artículo 9.
 
-Para impartir la educación preescolar, primaria, secundaria, normal y otros estudios para la formación de maestros de educación básica, los Particulares deberán obtener previamente, en cada caso, la Autorización expresa de la Autoridad Educativa.
+Para impartir la educación preescolar, primaria, secundaria, normal y otros estudios para la formación de maestros de educación básica, así como la educación inicial en los casos previstos en el artículo 14 Bis del presente Reglamento, los Particulares deberán obtener previamente, en cada caso, la Autorización expresa de la Autoridad Educativa.
 
 > <small>(REFORMADO, G.G. 29 DE FEBRERO DE 2016)</small>
 
@@ -296,6 +306,14 @@ XIV. Los demás documentos que le requiera la Autoridad Educativa.
 ###### Artículo 14.
 
 En la impartición de la educación básica, media superior y superior, los particulares, además de lo señalado en este Reglamento, deberán cumplir con las medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base de respeto a su dignidad y garanticen que la aplicación de la disciplina escolar sea compatible con su edad.
+
+> <small>(ADICIONADO, G.G. 7 DE JULIO DE 2017)</small>
+
+###### Artículo 14 Bis.
+
+La Autoridad Educativa podrá celebrar instrumentos jurídicos con los Centros de Atención buscando proteger el interés superior de los menores, ello con el propósito de garantizar su derecho a la educación. En dichos instrumentos se establecerán los mecanismos y estrategias que permitan facilitar el tránsito de la educación inicial a la educación preescolar, con el propósito que los niños y las niñas accedan a la educación básica en el marco del Sistema Educativo Nacional.
+
+Para efecto de lo anterior, la Autoridad Educativa establecerá las acciones necesarias para emitir la autorización correspondiente y en su caso, realizar la incorporación al Sistema Educativo Estatal, a efecto de dar cumplimiento a lo dispuesto por el presente Reglamento y demás disposiciones aplicables.
 
 ### CAPÍTULO CUARTO. DEL PROCEDIMIENTO PARA LA INCORPORACIÓN
 
@@ -394,6 +412,10 @@ VII. El personal directivo autorizado.
 ###### Artículo 21.
 
 El Acuerdo de Autorización o de Reconocimiento de Validez Oficial de Estudios se otorgará por tipo, nivel, modalidad, vertiente y turno.
+
+> <small>(ADICIONADO, G.G. 7 DE JULIO DE 2017)</small>
+
+Para lo anterior, también se considerará a los Centros de Atención que se encuentren en el supuesto previsto en el artículo 14 Bis de este Reglamento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE FEBRERO DE 2016)</small>
 
@@ -760,5 +782,15 @@ G.G. 29 DE FEBRERO DE 2016.
 PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
+
+G.G. 7 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL EJECUTIVO DEL ESTADO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE MÉXICO Y DEL REGLAMENTO GENERAL DE SERVICIOS EDUCATIVOS INCORPORADOS DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
