@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-municipal-de-proteccion-civil-de-ensenada-baja-16467
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-04-28"
-last_updated: "2011-05-13"
+last_updated: "2017-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16467&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE ENSENADA BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2017.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 28 de abril de 2000.
 
@@ -757,9 +757,11 @@ Cualquier evento deportivo, cultural ó social que involucre la concentración m
 
 Las empresas, comercios e instalaciones prioritarias (hospitales, escuelas, centro de concentración de personas, etc.), deberán colocar en sitios visibles y de fácil acceso equipos de seguridad, señales informativas, preventivas, restrictivas y de obligación, conforme a la Norma Oficial Mexicana número NOM-S-PC-1- 1992, señales y avisos para Protección Civil, luces de emergencia, instructivos y manuales para situaciones de emergencia, instructivos y manuales para situaciones de emergencia los cuales consignarán las reglas y orientaciones que deberán observarse en caso de una contingencia y señalarán las zonas de seguridad, además de contar con un Plan de Contingencias y su Programa Interno de Protección Civil.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2017)</small>
+
 ###### Artículo 60.
 
-Las empresas, comercios e instalaciones prioritarias (hospitales, escuelas, centros de concentración de personas, etc.) deberán de contar con el dictamen aprobatorio de las unidades verificadoras en materia de gas y electricidad. Se deberá de enviar copia de dicho documento a la Unidad Municipal de Protección Civil.
+Las empresas, comercios e instalaciones prioritarias (hospitales, escuelas, centros de concentración de personas, etc.) deberán de contar con el dictamen aprobatorio de las unidades verificadoras en materia de gas y electricidad. Se deberá de enviar copia de dicho documento a la Unidad Municipal de Protección Civil y a la Dirección de Bomberos
 
 ###### Artículo 61.
 
@@ -1288,3 +1290,9 @@ Rubrica.
 P.O. 13 DE MAYO DE 2011.
 
 UNICO.- Siendo aprobada la presente reforma, incorpórese en el libro de actas y publíquese en el Periódico Oficial del Gobierno del Estado, para efectos de iniciar la vigencia al siguiente día de su publicación en todo el territorio del Municipio de Ensenada, Baja California.
+
+P.O. 7 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA EL DICTAMEN 001/2017, RELATIVO A LA REFORMA DEL ARTÍCULO 60 DEL REGLAMENTO DE PROTECCIÓN CIVIL DE ENSENADA, BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Baja California y/o Gaceta Municipal.
