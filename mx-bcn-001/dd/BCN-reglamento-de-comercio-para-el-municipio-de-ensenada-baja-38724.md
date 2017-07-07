@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-comercio-para-el-municipio-de-ensenada-baja-38724
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-19"
-last_updated: "2017-04-21"
+last_updated: "2017-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "BCN"
 
 REGLAMENTO DE COMERCIO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2017.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 19 de marzo de 2004.
 
@@ -227,9 +227,13 @@ c) Por llamado judicial;
 
 Debiéndose incorporar el titular del permiso una vez terminado el plazo otorgado.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 15.
 
 Los vendedores en la vía pública enmarcados por este Reglamento tendrán derecho única y exclusivamente a un sólo permiso, consecuentemente a quien se le compruebe que tiene dos o más, se le cancelarán los excedentes, y únicamente si reincide se le cancelarán en su totalidad; y a quien cuente con licencia para comercio establecido se le cancelará el que ejerza en la vía pública; sin perjuicio de las sanciones administrativas que prevé este Reglamento.
+
+Los permisionarios que laboren en los mercados comunes, podrán solicitar el desplazamiento ante el Departamento de Comercio, Alcoholes y Espectáculos Públicos a efecto de que puedan llevar a cabo sus actividades de comercio entre Delegaciones, siempre y cuando hayan realizados (sic) los pagos correspondientes, previo anuencia del Delegado.
 
 > <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
 
@@ -834,3 +838,9 @@ P.O. 21 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 4, 6, 14, 16, 17, 22, 23, 25, 26, 27, 35, 43, 45, 46, 48, 49 BIS, 50, 54, 55, 59 Y 67 DEL REGLAMENTO DE COMERCIO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, RELATIVO A DICTAMEN 005/2017”.]
 
 ÚNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California a excepción del artículo 49 bis que entrará en vigor en el ejercicio fiscal 2018.
+
+P.O. 7 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA DICTAMEN 008/2017, RELATIVO A LA REFORMA AL ARTÍCULO 15 DEL REGLAMENTO DE COMERCIO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California y/ o la Gaceta Municipal.
