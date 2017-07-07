@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-fondo-de-cultura-economica-26083"
 country: "mx"
 rank: "estatuto"
 publication_date: "2002-10-15"
-last_updated: "2017-06-20"
+last_updated: "2017-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26083&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2002-07-11"
 ---
 # ESTATUTO ORGANICO DEL FONDO DE CULTURA ECONOMICA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ESTATUTO ORGÁNICO DEL FONDO DE CULTURA ECONÓMICA, PUBLICADO EN EL D.O.F. DE 21 DE FEBRERO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL FONDO DE CULTURA ECONÓMICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JULIO DE 2017.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 15 de octubre de 2002.
 
@@ -357,7 +359,9 @@ XIII. Coordinar la oportuna formulación y recepción de los estados financieros
 
 XIV. Desempeñar las funciones y responsabilidades, en los términos establecidos por el Director General, en los comités y comisiones del Fondo de Cultura Económica y cuidar la oportuna formulación de los proyectos de programas y presupuestos correspondientes, y
 
-XV. Las demás atribuciones que le sean autorizadas por acuerdo expreso del Director General.
+> <small>(REFORMADA, D.O.F. 7 DE JULIO DE 2017)</small>
+
+XV. Las demás que le sean asignadas por el Director General.
 
 ### Capítulo Sexto. DE LAS GERENCIAS Y COORDINACIONES GENERALES
 
@@ -367,7 +371,9 @@ Los titulares de las gerencias y coordinaciones generales tienen las siguientes 
 
 I. Representar a la entidad en los actos jurídico-administrativos de sus respectivas competencias, de conformidad con las facultades legalmente otorgadas;
 
-II. Observar y hacer cumplir, en el ámbito de sus respectivas competencias, las normas, manuales, políticas, bases y lineamientos aplicables a la entidad, así como las disposiciones que rijan las funciones generales que se les encomienden;
+> <small>(REFORMADA, D.O.F. 7 DE JULIO DE 2017)</small>
+
+II. Observar y hacer cumplir, en el ámbito de su competencia, las disposiciones aplicables a la entidad, así como aquellas que rijan a sus facultades y obligaciones, a las actividades que les sean asignadas y a las facultades que ejerzan en suplencia.
 
 III. Proponer al Director General o, en su caso, al Gerente General, según su adscripción, los lineamientos, procedimientos e instrumentos operativos que les permitan sustentar técnicamente el desarrollo de las funciones y programas de sus respectivas competencias, así como sus correspondientes indicadores de gestión;
 
@@ -385,7 +391,9 @@ IX. Proponer al Director General o al Gerente General, según su adscripción, e
 
 X. Acordar con el Director General o con el Gerente General, según su adscripción, los asuntos inherentes al ejercicio de las funciones encomendadas en el ámbito de sus respectivas competencias, y
 
-XI. Las demás atribuciones que en la materia de su competencia les sean autorizadas por acuerdo expreso del Director General o que les asigne el presente Estatuto.
+> <small>(REFORMADA, D.O.F. 7 DE JULIO DE 2017)</small>
+
+XI. Las demás que les asigne el Director General y aquellas de naturaleza análoga a las que el presente Estatuto prevé para el ámbito de su competencia.
 
 ###### Artículo 20.
 
@@ -401,13 +409,9 @@ IV. Proponer estrategias para la venta de derechos de autor de las obras publica
 
 V. Proponer los criterios que guíen la publicación de títulos para mantener la calidad editorial y la apertura a las diversas corrientes de pensamiento;
 
-> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2013)</small>
+VI. (DEROGADA, D.O.F. 7 DE JULIO DE 2017)
 
-VI. Establecer los lineamientos de los proyectos de promoción a la lectura, en especial en el ámbito escolar, que sean congruentes con el objeto del Fondo de Cultura Económica;
-
-> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2013)</small>
-
-VII. Elaborar programas de promoción de la lectura y participar en la elaboración de los programas de ventas, promoción y difusión en materia de obras para niños y jóvenes;
+VII. (DEROGADA, D.O.F. 7 DE JULIO DE 2017)
 
 > <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2013)</small>
 
@@ -435,7 +439,9 @@ El Gerente de Producción tiene las siguientes facultades y obligaciones:
 
 I. Proponer el programa de producción, así como las políticas y criterios técnicos que deban aplicarse para el debido cumplimiento de los objetivos institucionales;
 
-II. Programar, organizar y dirigir las etapas de producción de las obras, independientemente del formato físico que adopte la presentación final de las mismas;
+> <small>(REFORMADA, D.O.F. 7 DE JULIO DE 2017)</small>
+
+II. Programar, organizar y dirigir las etapas de producción de las obras, en cualquier formato;
 
 III. Definir los lineamientos y criterios de calidad que debe cumplir el material editado;
 
@@ -473,13 +479,11 @@ VII. Aplicar los criterios y las políticas autorizadas para las compras y consi
 
 VIII. Coordinar y administrar las librerías del Fondo de Cultura Económica, incluyendo las operaciones que se realicen por Internet;
 
-> <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 7 DE JULIO DE 2017)</small>
 
-IX. Planear y establecer políticas en materia de mercadotecnia y difusión para incentivar las ventas en el mercado nacional y por medio de las librerías del Fondo de Cultura Económica;
+IX. Planear, establecer e instrumentar estrategias, políticas y programas de mercadotecnia y difusión, con el objeto de incentivar e incrementar las ventas del Fondo de Cultura Económica por medio de sus librerías, en el mercado nacional;
 
-> <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2013)</small>
-
-X. Instrumentar estrategias, políticas y programas de mercadotecnia y difusión con el objeto de incrementar las ventas en el mercado nacional y por medio de las librerías del Fondo de Cultura Económica; y
+X. (DEROGADA, D.O.F. 7 DE JULIO DE 2017)
 
 > <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2013)</small>
 
@@ -519,6 +523,10 @@ IX. Establecer las políticas de otorgamiento de créditos y recuperación de ca
 
 X. Conservar, durante el tiempo que establezcan las disposiciones jurídicas aplicables, los libros, registros auxiliares, información y documentos justificativos y comprobatorios de las operaciones presupuestales y financieras del organismo.
 
+> <small>(ADICIONADA, D.O.F. 7 DE JULIO DE 2017)</small>
+
+XI. Instrumentar actas administrativas al personal de la entidad, por presuntas violaciones a las disposiciones laborales aplicables en la misma.
+
 > <small>(REFORMADO, D.O.F. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 24.
@@ -547,15 +555,21 @@ El Coordinador General de Asuntos Jurídicos tiene las siguientes facultades y o
 
 I. Proponer el programa de actividades del Fondo de Cultura Económica en materia de asuntos jurídicos, así como las políticas, lineamientos y criterios técnicos que deban aplicarse en la materia, para el debido cumplimiento de los objetivos de la entidad;
 
-II. Representar al Fondo de Cultura Económica ante toda clase de autoridades, mediante las acciones pertinentes, haciendo valer las defensas y oponiendo las excepciones procedentes de orden mercantil, civil, administrativo, laboral, fiscal, penal y constitucional, teniendo las facultades generales que señalan los artículos 2554 y 2587 del Código Civil para el Distrito Federal;
+> <small>(REFORMADA, D.O.F. 7 DE JULIO DE 2017)</small>
+
+II. Representar al Fondo de Cultura Económica en la defensa de sus intereses, así como a sus unidades administrativas por actos derivados del ejercicio de sus facultades, en todos aquellos procedimientos en que se requiera su intervención, cualquiera que sea la naturaleza, materia, especialidad o fuero del órgano que conozca y en cualquier instancia en que actúe; con la suma de facultades generales y especiales que se requieran según el caso, y conforme a lo señalado en los artículos 2554 y 2587 del Código Civil para el Distrito Federal;
 
 III. Representar al Fondo de Cultura Económica en los trámites relacionados con los derechos de autor y propiedad industrial en defensa de sus intereses; gestionando ante las autoridades competentes el uso exclusivo de títulos, así como la protección legal mediante el registro de obras, revistas y demás publicaciones editadas por el propio organismo, apegándose a la Ley Federal del Derecho de Autor y demás disposiciones jurídicas aplicables;
 
-IV. Verificar el cumplimiento de la normatividad aplicable a las actividades del Fondo de Cultura Económica;
+> <small>(REFORMADA, D.O.F. 7 DE JULIO DE 2017)</small>
+
+IV. Verificar el cumplimiento de la normativa aplicable a las actividades del Fondo de Cultura Económica, en los actos que sean sometidos a su conocimiento;
 
 V. Dictaminar, en el aspecto legal, sobre los instrumentos normativos internos, convenios y contratos que se apliquen a las actividades del organismo, y coordinar su correcta formalización;
 
-VI. Registrar ante las autoridades correspondientes los títulos de propiedad de inmuebles, contratos, convenios y acuerdos en que el Fondo de Cultura Económica sea parte, así como guardarlos y custodiarlos incluyendo a sus filiales y representaciones; asimismo registrar y custodiar los documentos originales relativos a los nombramientos, firmas y rúbricas de los servidores públicos del organismo, en el país y en el extranjero;
+> <small>(REFORMADA, D.O.F. 7 DE JULIO DE 2017)</small>
+
+VI. Guardar y custodiar los títulos de propiedad de los inmuebles del Fondo de Cultura Económica, así como los actos jurídicos en los que el organismo sea parte;
 
 VII. Proporcionar la asesoría jurídica necesaria para el ejercicio de las facultades y obligaciones de los órganos colegiados y unidades administrativas del Fondo de Cultura Económica;
 
@@ -563,11 +577,21 @@ VII. Proporcionar la asesoría jurídica necesaria para el ejercicio de las facu
 
 VIII. Recopilar los ordenamientos jurídicos aplicables a la entidad y distribuirlos en las unidades administrativas, así como los criterios de interpretación y de aplicación, cuando le sean solicitados;
 
-IX. Someter a la atención del Director General las resoluciones de los recursos que interpongan los servidores públicos del organismo, respecto de resoluciones que les impongan sanciones administrativas, de conformidad con las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 7 DE JULIO DE 2017)</small>
 
-X. Formular y dictaminar las actas administrativas que se levanten al personal de la entidad por violación a las disposiciones laborales aplicables, así como reconsiderar, en su caso, las resoluciones de cese que se hubieran emitido, e
+IX. Integrar y mantener actualizado el registro de firmas y rúbricas de los servidores públicos del Fondo de Cultura Económica;
 
-XI. Interpretar la normatividad jurídica aplicable a la operación del Fondo de Cultura Económica.
+> <small>(REFORMADA, D.O.F. 7 DE JULIO DE 2017)</small>
+
+X. Dictaminar, en el aspecto jurídico, las actas administrativas que se instrumenten al personal de la entidad, por presuntas violaciones a las disposiciones laborales aplicables;
+
+> <small>(REFORMADA, D.O.F. 7 DE JULIO DE 2017)</small>
+
+XI. Interpretar las disposiciones jurídicas aplicables a la operación del Fondo de Cultura Económica, cuando le sea solicitado; y
+
+> <small>(ADICIONADA, D.O.F. 7 DE JULIO DE 2017)</small>
+
+XII. Certificar los documentos que obren en los archivos del Fondo de Cultura Económica para ser exhibidos ante las autoridades judiciales, administrativas o del trabajo y, en general, para cualquier trámite, juicio, procedimiento o investigación.
 
 > <small>(REFORMADO, D.O.F. 5 DE NOVIEMBRE DE 2010)</small>
 
@@ -575,17 +599,17 @@ XI. Interpretar la normatividad jurídica aplicable a la operación del Fondo de
 
 El Coordinador General de Comercio Internacional tiene las siguientes facultades y obligaciones:
 
-> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 7 DE JULIO DE 2017)</small>
 
-I. Coordinar la operación de los proyectos y programas de las subsidiarias del Fondo de Cultura Económica en el extranjero;
+I. Coordinar las operación de los proyectos y programas de las subsidiarias del Fondo de Cultura Económica en el extranjero, así como integrar el archivo que contenga y sistematice la información y documentos de dichas subsidiarias, en lo concerniente a su constitución, seguimiento de sus asambleas de accionistas y de sus órganos de administración, los contratos de sus gerentes, poderes que otorguen, estados financieros, títulos de propiedad de bienes inmuebles, títulos accionarios, los documentos análogos a los referidos, y todos aquellos necesarios para mantener una supervisión adecuada de las empresas subsidiarias en el extranjero;
 
-> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 7 DE JULIO DE 2017)</small>
 
-II. Establecer relaciones internacionales en procesos productivos, editoriales y comerciales con las subsidiarias del Fondo de Cultura Económica;
+II. Establecer relaciones internacionales en procesos productivos, editoriales y comerciales, con las subsidiarias del Fondo de Cultura Económica en el extranjero;
 
-> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 7 DE JULIO DE 2017)</small>
 
-III. Organizar y coordinar la participación del Fondo de Cultura Económica en ferias internacionales del libro, exposiciones y conferencias en eventos organizados por las subsidiarias, así como en países en donde no se tiene representación;
+III. Organizar y coordinar la participación del Fondo de Cultura Económica en ferias internacionales del libro, exposiciones y conferencias, en eventos organizados por sus subsidiarias en el extranjero, así como en países en donde la entidad no tiene representación;
 
 IV. Coordinar la promoción de las publicaciones inter-compañías y del catálogo del Fondo de Cultura Económica, para lograr una mayor presencia en el mercado internacional;
 
@@ -595,9 +619,9 @@ V. Coordinar la integración y formulación del presupuesto anual de las subsidi
 
 VI. Coordinar las operaciones relacionadas con la importación y exportación de libros y otros materiales editoriales para que se realicen conforme a la normatividad aduanal y demás disposiciones jurídicas aplicables;
 
-> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 7 DE JULIO DE 2017)</small>
 
-VII. Asegurar que todas las subsidiarias del Fondo de Cultura Económica en el extranjero, conozcan los acuerdos, políticas y directrices que regulan su operación;
+VII. Asegurar que todas las subsidiarias del Fondo de Cultura Económica en el extranjero conozcan los acuerdos, políticas y directrices que regulan su operación; y coordinar las acciones que permitan difundir la imagen institucional del Fondo de Cultura Económica, en dichas subsidiarias;
 
 VIII. Evaluar áreas de oportunidad de puntos de venta a nivel internacional para la exportación de otros fondos editoriales mexicanos en los países donde se tiene representación y contribuir a la promoción de los libros y autores mexicanos;
 
@@ -605,9 +629,9 @@ VIII. Evaluar áreas de oportunidad de puntos de venta a nivel internacional par
 
 IX. Evaluar periódicamente la operación de las subsidiarias en el extranjero, con el apoyo de la (sic) áreas especializadas de la casa matriz en los aspectos administrativo, financiero, editorial y comercial, con la finalidad de precisar los aspectos que requieran de ajuste o fortalecimiento;
 
-> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 7 DE JULIO DE 2017)</small>
 
-X. Coordinar las acciones que permitan difundir la imagen institucional del Fondo de Cultura Económica en las subsidiarias;
+X. Ostentar la titularidad del capital accionario del Fondo de Cultura Económica en aquellas subsidiarias en el extranjero en las que éste no pueda ser propietario del cien por ciento del mismo y siempre que la legislación del país lo permita; así como transmitir a título gratuito dicha titularidad al entregar el cargo, a quien el Director General designe para ello.
 
 XI. Apoyar la promoción en el extranjero de autores mexicanos del catálogo del Fondo de Cultura Económica;
 
@@ -637,7 +661,7 @@ VI. Instrumentar mecanismos y campañas que permitan informar a la sociedad sobr
 
 VII. Determinar el perfil de los segmentos de mercado y los medios publicitarios a utilizar para dar a conocer los títulos, autores y actividades del Fondo de Cultura Económica, y
 
-VIII. Dictaminar sobre la viabilidad comercial de las obras susceptibles de ser editadas con base en los criterios mercadológicos.
+VIII. (DEROGADA, D.O.F. 7 DE JULIO DE 2017)
 
 > <small>(REFORMADO, D.O.F. 20 DE JUNIO DE 2017)</small>
 
@@ -689,15 +713,13 @@ El Fondo de Cultura Económica tendrá un órgano interno de control, que será 
 
 Al frente del órgano interno de control habrá un titular designado con fundamento en lo establecido por el artículo 37 fracción XII de la Ley Orgánica de la Administración Pública Federal, el cual para el debido ejercicio de sus atribuciones, se auxiliará por los titulares de las áreas de Responsabilidades, Auditoría y Quejas.
 
-> <small>(REFORMADO, D.O.F. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 7 DE JULIO DE 2017)</small>
 
 ###### Artículo 34.
 
-Los servidores públicos a que hace referencia el artículo anterior del presente Estatuto, ejercerán las funciones establecidas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y demás legislación jurídica y ordenamientos de carácter administrativo que resulten aplicables, conforme a lo dispuesto por el articulo 47 fracciones III y IV del Reglamento Interior de la Secretaría de la Función Pública.
+Los servidores públicos a que hace referencia el artículo anterior ejercerán las funciones establecidas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y en las demás disposiciones legales y administrativas aplicables, conforme a lo dispuesto en el artículo 80, fracciones I a III, del Reglamento Interior de la Secretaría de la Función Pública.
 
-> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2013)</small>
-
-Asimismo, con fundamento en el precepto invocado en último término, para la programación y realización de auditorías, inspecciones o visitas de cualquier tipo por parte de los servidores públicos a que se refiere el artículo 33 de este Estatuto, a las subsidiarias en el extranjero del Fondo de Cultura Económica en apoyo de las funciones encomendadas a las unidades administrativas de dicha entidad, se requiere previamente la solicitud expresa debidamente fundada y motivada del Director General de la misma y del acuerdo expreso que apruebe dicha solicitud, por parte del Coordinador General de Organos de Vigilancia y Control de la Secretaría de la Función Pública.
+Asimismo, en términos del precepto mencionado en el párrafo anterior, para la programación y realización de auditorías, inspecciones o visitas de cualquier tipo por parte de los servidores públicos a que se refiere el artículo 33 de este Estatuto, a las subsidiarias en el extranjero del Fondo de Cultura Económica en apoyo de las funciones encomendadas a las unidades administrativas de dicha entidad, se requiere previamente la solicitud expresa debidamente fundada y motivada del Director General de la misma y del acuerdo expreso que apruebe dicha solicitud, por parte del Coordinador General de Órganos de Vigilancia y Control de la Secretaría de la Función Pública.
 
 ###### Artículo 35.
 
@@ -767,13 +789,19 @@ Corresponde al Comité Interno de Selección de Obras:
 
 I. Analizar y evaluar las recomendaciones de obras provenientes de los Comités Editoriales;
 
-II. Aprobar la contratación de nuevos títulos, buscando el equilibrio por área temática, con base en la disponibilidad de recursos, capacidad de producción y diagnóstico comercial;
+> <small>(REFORMADA, D.O.F. 7 DE JULIO DE 2017)</small>
+
+II. Aprobar la contratación y publicación de nuevos títulos, buscando el equilibrio por área temática, con base en la disponibilidad de recursos, capacidad de producción y diagnóstico comercial;
 
 III. Aprobar los Programas de Reimpresiones del Fondo de Cultura Económica, bajo las premisas de pertinencia comercial, demanda del mercado y valor cultural;
 
 IV. Aprobar, en su caso, la clasificación que del catálogo hacen la Gerencia Editorial y la Gerencia de Comercialización en términos de vigencia de derechos autorales, y
 
 V. Establecer subcomités auxiliares de trabajo.
+
+> <small>(ADICIONADA, D.O.F. 7 DE JULIO DE 2017)</small>
+
+VI. Aprobar la cancelación de publicación de obras que propongan, de manera conjunta, los titulares de las gerencias Editorial y de Producción hasta antes de la publicación, únicamente por causas supervinientes e imprevisibles de carácter técnico, y siempre que exista evidencia suficiente que acredite los motivos que hagan inviable la publicación.
 
 ###### Artículo 43.
 
@@ -909,15 +937,25 @@ El Comité de Control y Desempeño Institucional lo integran el Director General
 
 ### Capítulo Noveno. DE LA AUSENCIA Y SUPLENCIA DE LOS SERVIDORES PUBLICOS
 
-> <small>(REFORMADO, D.O.F. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE JULIO DE 2017)</small>
 
 ###### Artículo 53.
 
-Durante las ausencias del Director General del organismo, el despacho y resolución de los asuntos quedarán a cargo del Gerente General y, en ausencia de éste, del Titular de la Gerencia de Administración y Finanzas. Asimismo, el Gerente General suplirá en su ausencia al Director General en la presidencia de las comisiones y comités internos señalados en el presente Estatuto.
+Las ausencias temporales del Director General serán suplidas por el servidor público que éste designe por escrito. A falta de designación, sus ausencias temporales serán suplidas en los términos previstos para la ausencia definitiva.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JULIO DE 2017)</small>
+
+La ausencia definitiva del Director General, será suplida por el Gerente General, por el Gerente de Administración y Finanzas o por el Coordinador General de Asuntos Jurídicos, en ese orden.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE JULIO DE 2017)</small>
 
 ###### Artículo 54.
 
-Los titulares de las gerencias y Coordinaciones Generales serán sustituidos en sus ausencias temporales por los funcionarios de la jerarquía inmediata inferior de su respectiva adscripción que designe, por acuerdo, el Director General.
+Las ausencias temporales del Gerente General, de los coordinadores generales y de los gerentes, serán suplidas por los servidores públicos de su adscripción que para tal efecto designen por escrito. A falta de designación, sus ausencias temporales serán suplidas en los términos previstos para las ausencias definitivas a que se refiere el siguiente párrafo.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JULIO DE 2017)</small>
+
+Las ausencias definitivas del Gerente General, de los coordinadores generales y de los gerentes, serán suplidas por los servidores públicos de la jerarquía inmediata inferior en su adscripción, en relación con los asuntos de su competencia.
 
 ### Capítulo Décimo. DE LAS MODIFICACIONES AL ESTATUTO
 
@@ -956,6 +994,14 @@ LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS E
 D.O.F. 20 DE JUNIO DE 2017.
 
 ## [N. DE E. TRANSITORIOS DE LAS “MODIFICACIONES AL ESTATUTO ORGÁNICO DEL FONDO DE CULTURA ECONÓMICA”.]
+
+PRIMERO. Las presentes modificaciones entrarán en vigor al día siguiente de su aprobación por su Junta Directiva debiéndose publicar en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan todas aquellas disposiciones estatutarias o administrativas que se opongan a las presentes.
+
+D.O.F. 7 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LAS "MODIFICACIONES AL ESTATUTO ORGÁNICO DEL FONDO DE CULTURA ECONÓMICA".]
 
 PRIMERO. Las presentes modificaciones entrarán en vigor al día siguiente de su aprobación por su Junta Directiva debiéndose publicar en el Diario Oficial de la Federación.
 
