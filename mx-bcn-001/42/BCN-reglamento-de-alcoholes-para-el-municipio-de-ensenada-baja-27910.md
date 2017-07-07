@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-alcoholes-para-el-municipio-de-ensenada-baja-2791
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-01-10"
-last_updated: "2017-04-21"
+last_updated: "2017-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE ALCOHOLES PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2017.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 10 de enero de 2003.
 
@@ -65,7 +65,7 @@ LIC. MARIA ELOISA TALAVERA HERNÁNDEZ,
 
 SECRETARIA DEL AYUNTAMIENTO
 
-EL H. XVII Ayuntamiento Constitucional del municipio de Ensenada, B.C., con fundamento en los artículos 21 y 115 fracción II y III de la Constitución Política de los Estado Unidos Mexicanos; 27 fracción I y 81 inciso I) de la Constitución Política del Estado Libre y Soberano de Baja California; 1, 2 y 3 fracción I y IV, 18 y 20 de la Ley del Régimen Municipal para el Estado de Baja California; 2 fracción III de la Ley para la Venta, Almacenaje y Consumo Público de Bebidas Alcohólicas del Estado Baja (sic) California;
+EL H. XVII Ayuntamiento Constitucional del municipio de Ensenada, B.C., con fundamento en los artículos 21 y 115 fracción II y III de la Constitución Política de los Estado Unidos Mexicanos; 27 fracción I y 81 inciso I) de la Constitución Política del Estado Libre y Soberano de Baja California; 1, 2 y 3 fracción I y IV, 18 y 20 de la Ley del Régimen Municipal para el Estado de Baja California; 2 fracción III de la Ley para la Venta, Almacenaje y Consumo Público de Bebidas Alcohólicas del Estado (sic) Baja California;
 
 Tiene a bien expedir el siguiente:
 
@@ -85,11 +85,11 @@ El objeto del presente ordenamiento es regular la venta, almacenaje y consumo de
 
 La venta, almacenaje y consumo público de bebidas alcohólicas, sólo podrán realizarse en los establecimientos o lugares que establezca éste ordenamiento, previo permiso que para tal efecto, otorgue el Ayuntamiento de Ensenada o el Ejecutivo municipal en su caso.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O.10 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 3.
 
-Para los efectos de este Reglamento, se entenderá por:
+Para los efectos de éste Reglamento, se entenderá por:
 
 (REPUBLICADA, P.O. 1 DE JULIO DE 2016)
 
@@ -111,7 +111,11 @@ VIII. Distribución.- Acto por el cual las empresas legalmente constituidas tien
 
 IX. Permiso permanente.- Autorización que emite el Ayuntamiento erigido en Cabildo, para operar un establecimiento, en las condiciones exigidas por este ordenamiento.
 
-X. Permiso eventual o temporal.- Autorización que emite el Ejecutivo Municipal.
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2017)</small>
+
+X. A) Permiso eventual o temporal.- Autorización que emite el Ejecutivo Municipal.
+
+B) Permiso eventual para Salones Sociales.- Autorización eventual por escrito expedida por el Departamento de Comercio, Alcoholes y Espectáculos Públicos, para el consumo de bebidas con graduación alcohólica que tendrá vigencia únicamente para el evento social que se solicite, siendo el responsable de solicitarlo el organizador del evento.
 
 XI. Permiso para celebraciones varias o espectáculos públicos.- Es el titulo necesario para operar una sola ocasión en eventos particulares o públicos que otorga el Presidente Municipal, o el Secretario Fedatario, según sea el caso, para algún evento o establecimiento en forma temporal o eventual, que no podrá exceder de sesenta días.
 
@@ -135,13 +139,13 @@ XX. Regularización.- Procedimiento que realiza el Ayuntamiento para otorgar per
 
 XXI. Co-titularidad.- Es la autorización por el presidente municipal a una persona física y una persona moral a compartir los derechos para operar un establecimiento mercantil, donde se expenda bebidas alcohólicas y/o cerveza, únicamente en envase cerrado. Estas licencias deberán reunir todos los requisitos exigidos por este reglamento.
 
-> <small>(REFORMADA, P.O.10 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2017)</small>
 
-XXII.- Cancelación.- Resolución emitida por el Presidente Municipal una vez aprobado por el Cabildo, mediante la cual queda sin efecto el permiso, conforme al procedimiento establecido en el presente ordenamiento.
+XXII. Cancelación.- Resolución emitida por el Presidente Municipal una vez aprobado por el Cabildo, mediante la cual queda sin efecto el permiso, conforme al procedimiento establecido en el presente ordenamiento.
 
 > <small>(ADICIONADA, P.O. 1 DE JULO DE 2016)</small>
 
-XXIII.- CERVECERÍA ARTESANAL: Espacio donde se almacena para su venta en envase abierto o cerrado, cerveza de producción propia y/o de un diverso productor de cerveza artesanal, como actividad principal;
+XXIII. CERVECERÍA ARTESANAL: Espacio donde se almacena para su venta en envase abierto o cerrado, cerveza de producción propia y/o de un diverso productor de cerveza artesanal, como actividad principal;
 
 ###### ARTÍCULO 4.
 
@@ -309,7 +313,13 @@ IX.- Iniciar el procedimiento para la cancelación de las licencias o permisos.
 
 X.- Coordinar y dirigir a los inspectores de la dirección; y
 
-XI.- Las demás que las confiere este ordenamiento y otras leyes aplicables.
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2017)</small>
+
+XI.- Expedir permiso eventual para salones sociales.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JULIO DE 2017)</small>
+
+XII.- Las demás que las (sic) confiere este ordenamiento y otras leyes aplicables.
 
 ###### ARTÍCULO 15.
 
@@ -399,7 +409,7 @@ VI.- Depósito, Agencia y Sub-agencia.- Son los establecimientos cuya actividad 
 
 VII.- Bodega.- Establecimiento habilitado exclusivamente para almacenar bebidas alcohólicas mercancías diversas para su posterior distribución al mayoreo; y
 
-(REPUBLICADO PRIMER PÁRRAFO, P.O.10 DE FEBRERO DE 2017)
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2017)
 
 ###### ARTÍCULO 20.
 
@@ -421,7 +431,7 @@ VII.- Salón Social.- Establecimiento mercantil, que cuenta con las dimensiones 
 
 VIII.- Discoteca, Café cantante.- Son los establecimientos cuya actividad principal son el esparcimiento y la venta de bebidas alcohólicas cualquiera que sea su graduación en envase abierto, sin alimentos, mismos que deberán contar con la mayoría de los servicios adicionales, como lo son, pista de baile, música grabada, música en vivo, espectáculo artístico.
 
-> <small>(REFORMADA, P.O.10 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2017)</small>
 
 IX.- Centro de espectáculos, Cabaret.- Establecimiento mercantil cuya actividad accesoria es la venta de bebidas alcohólicas, cualquiera que sea su graduación, siendo por ello su actividad principal, la presentación de espectáculos artísticos consistentes en la presentación de artistas profesionales, actuaciones de bailes artísticos denominados "tabledance" o "chippendale".
 
@@ -457,51 +467,69 @@ d).- Espectáculo y baile artístico.
 
 ### CAPITULO CUARTO. OBLIGACIONES Y PROHIBICIONES DE TITULARES DE LOS ESTABLECIMIENTOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 23.
 
-Son obligaciones de los titulares de los permisos permanentes, eventuales y/o temporales o sus representantes, administradores y/o encargados de los establecimientos a los que se refiere el presente ordenamiento, las siguientes:
+Los titulares de los permisos permanentes, eventuales y/o temporales, así como sus representantes, administradores y/o encargados de los establecimientos, tendrán las siguientes obligaciones:
 
-I.- Contar con el Permiso correspondiente que permita al establecimiento iniciar su actividad y tener a la vista el (sic) y/o encargados de los establecimientos a los que se refiere el presente ordenamiento, las siguientes:
+I. Contar con el permiso correspondiente que permita al establecimiento iniciar su actividad y tener a la vista el permiso original en el interior del local, así como la revalidación o refrendo anual respectivo.
 
-I (SIC).- Contar con el Permiso correspondiente que permita al establecimiento iniciar su actividad y tener a la vista el permiso original en el interior del local, así como la revalidación o refrendo anual respectivo.
+En caso de que el permisionario, quiera suspender las actividades del permiso, deberá presentarla solicitud por escrito ante la Tesorería, señalando los motivos por los que desea suspender las actividades, una vez aprobada, será registrada en el padrón de permisos en suspensión para efectos de inspección.
 
-En caso de que el permisionario, quiera suspender las actividades del permiso, deberá presentarla por escrito ante la Secretaria del Ayuntamiento.
+II. Operar únicamente el giro o giros autorizados.
 
-II.- Operar únicamente el giro o giros autorizados.
+III. Contar con instalaciones higiénicas, adecuadas y seguras según el giro.
 
-III.- Contar con instalaciones higiénicas, adecuadas y seguras según el giro.
+IV. Contar con el dictamen de uso de suelo, expedido por la Dirección de Administración Urbana, Ecología y Medio Ambiente, que haga viable la operatividad del establecimiento.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PUNTO DE ACUERDO PRIMERO, PUBLICADO P.O. 5 DE AGOSTO DE 2016.]</small>
+V. Cumplir con el horario a que se refiere el presente ordenamiento. Los negocios contemplados en el artículo 20 del presente ordenamiento, contarán con 30 minutos adicionales al horario permitido, para desalojar a la clientela del establecimiento, sin que, durante este lapso autorizado, se permita la venta o consumo de bebidas alcohólicas; una vez desalojada la clientela deberán de cerrar sus puertas.
 
-IV.- Contar con el dictamen de uso de suelo expedido por la Dirección de Desarrollo Urbano y Ecología que haga viable la operatividad del establecimiento.
+En el caso de los establecimientos que establece la fracción I del artículo 20 del presente ordenamiento, que vendan comida preparada como actividad primordial, y tengan permiso para expender alimentos durante las veinticuatro horas, no tendrán la obligación de desalojar a los comensales, pero no podrán venderles bebidas alcohólicas bajo ningún motivo, después del horario permitido, para la venta de bebidas con graduación alcohólica.
 
-V.- Cumplir con el horario a que se refiere el presente ordenamiento. Los negocios contemplados en el artículo 20 del presente ordenamiento, contarán con 30 minutos adicionales al horario permitido, para desalojar a la clientela del establecimiento, sin que durante este lapso autorizado, se permita la venta o consumo de bebidas alcohólicas; una vez desalojada la clientela deberán de cerrar sus puertas.
+VI. Permitir el libre acceso a las autoridades encargadas de la regulación de los establecimientos conforme a las disposiciones de este reglamento y demás normas aplicables, esto en ejercicio de sus funciones y previa identificación oficial expedida en términos de ley.
 
-En el caso de los establecimientos que establece la fracción I del articulo 20 del presente ordenamiento, que vendan comida preparada como actividad primordial, y tengan permiso para expender alimentos durante las veinticuatro horas, no tendrán la obligación de desalojar a los comensales, pero no podrán venderles bebidas alcohólicas bajo ningún motivo, después del horario permitido, para la venta de bebidas con graduación alcohólica.
+VII. Avisar a la autoridad competente cuando haya riñas o escándalos que alteren el orden, así como la presencia de personas con armas blancas o de fuego.
 
-VI.- Permitir el libre acceso a las autoridades encargadas de la regulación de los establecimientos conforme a las disposiciones de éste reglamento y demás normas aplicables, esto en ejercicio de sus funciones y previa identificación oficial expedida en términos de ley.
+VIII. Evitar que los clientes permanezcan en el interior del establecimiento fuera del horario autorizado.
 
-VII.- Avisar a la autoridad competente cuando haya riñas o escándalos que alteren el orden, así como la presencia de personas con armas blancas o de fuego.
+IX. Abstenerse de utilizar las banquetas, las calles y los estacionamientos, para la realización de las actividades propias del giro.
 
-VIII.- Evitar que los clientes permanezcan en el interior del establecimiento fuera del horario autorizado.
+X. Notificar el aviso de suspensión de actividades, cancelación, cambio de domicilio, de titular, cambio de giro o cambio de nombre comercial, según sea el caso, ante la Tesorería.
 
-IX.- Abstenerse de utilizar las banquetas, las calles y los estacionamientos, para la realización de las actividades propias del giro.
+XI. Respetar y mantener los signos y símbolos de clausura impuestos por la autoridad municipal, hasta en tanto se dicte disposición en contra.
 
-X.- Notificar el aviso de suspensión de actividades, cancelación, cambio de domicilio, de titular o cambio de razón social, según sea el caso, ante la Secretaria del Ayuntamiento.
+XII. Inscribirse en la Tesorería al inicio de sus actividades, una vez otorgado el permiso respectivo.
 
-XI.- Respetar y mantener los signos y símbolos de clausura impuesto por la autoridad municipal hasta en tanto se dicte disposición en contra.
+XIII. Revalidar cada año el empadronamiento de su permiso ante la Dirección de Recaudación, a partir del primer día hábil del mes de enero hasta el último del mes de marzo. Con excepción de los permisos eventuales.
 
-XII.- Inscribirse en la tesorería municipal al inicio de sus actividades, una vez otorgado el permiso respectivo.
+XIV. Los propietarios de bares, cabaret, discotecas, cantinas, cervecerías, centros nocturnos, billares, salones, terrazas, patios para fiestas y demás establecimientos similares, deberán efectuar las obras necesarias que impidan la visibilidad hacia el interior del local y que eviten que la música o el ruido se escuchen fuera del local, los clientes arrojen objetos o algún otro material, a efecto de no dar molestia a los vecinos y transeúntes.
 
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2015)</small>
+XV. Los permisionarios que tengan su establecimiento ubicado dentro de la zona turística, sus empleados deberán portar gafete con las siguientes medidas y contenido:
 
-XIII.- Revalidar cada año el empadronamiento de su permiso ante Recaudación de Rentas Municipal, a partir del primer día hábil del mes de enero hasta el último día hábil del mes de marzo. Con excepción de los permisos eventuales.
+a) 10 cm de largo por 8 cm de ancho,
 
-XIV.- Los propietarios de bares, cabaret, discotecas, cantinas, cervecerías, centros nocturnos, billares, salones, terrazas, patios para fiestas y demás establecimientos similares, deberán efectuar las obras necesarias que impidan la visibilidad hacia el interior del local y que eviten que la música o el ruido se escuchen fuera del local, los clientes arrojen objetos o algún otro material, a efecto de no dar molestia a los vecinos y transeúntes.
+b) Logo del establecimiento,
 
-XV.- Las demás que fije la Ley y el presente ordenamiento.
+c) Fotografía tamaño credencial,
+
+d) Nombre completo del empleado, y
+
+e) Validación y sello de la Dirección de Comercio, Alcoholes y Espectáculos Públicos.
+
+Asimismo, se obliga al permisionario contar con un expediente por cada empleado, en el que archivará, por lo menos, los siguientes documentos:
+
+a) Copia del Acta de Nacimiento,
+
+b) Copia del comprobante de domicilio,
+
+c) Copia de la Credencial para votar y,
+
+d) Carta de antecedentes penales.
+
+En caso de que se suscite la comisión de algún delito en su establecimiento que involucre a alguno(s) de sus empleados, el permisionario deberá proporcionar la información contenida en el expediente previamente señalado a las autoridades competentes.
+
+XVI. Los demás que fije la Ley y el presente ordenamiento.
 
 ###### ARTÍCULO 24.
 
@@ -617,7 +645,9 @@ f). - Hotel de 10:00 a.m. a 24:00 hrs.
 
 g).- Discoteca, Café Cantante, Centro de Espectáculos, etc. De 10 a.m. a 03:00 hrs.
 
-h).- Salones Sociales: Quedará a juicio de la autoridad municipal, la autorización, el aumento o disminución del horario de operación, dependiendo la zona de ubicación y en los casos en los que se afecte la paz, tranquilidad e interés social de los vecinos aledaños a los establecimientos.
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2017)</small>
+
+h).- Salones Sociales: Los horarios quedarán sujetos a lo establecido por en (sic) el Reglamento para el Funcionamiento de Salones Sociales para el Municipio de Ensenada, Baja California.
 
 (REPUBLICADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2016)
 
@@ -1055,7 +1085,7 @@ XI.- Los inspectores podrán solicitar el auxilio de la fuerza pública para hac
 
 Son responsables de las infracciones que se comentan a la Ley para la Venta, Almacenaje y Consumo Público de Bebidas Alcohólicas y al presente ordenamiento: los propietarios, administradores y los encargados de los establecimientos, así como aquellas personas que organicen cualquier evento público o privado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O.10 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2017)</small>
 
 ###### ARTÍCULO 70.
 
@@ -1187,7 +1217,7 @@ Recibida el acta de infracción, el Secretario del Ayuntamiento por conducto de 
 
 Si del acta de infracción se desprendieren causales señaladas en el artículo 78 de este reglamento, se ordenará por el Secretario del Ayuntamiento la clausura definitiva, cuando no se hayan desvirtuado en la audiencia a la que fue citado el interesado, los hechos que motivaron el levantamiento de los reportes o actas de las que se le dio vista.
 
-> <small>(REFORMADO, P.O.10 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2017)</small>
 
 ###### ARTÍCULO 82.
 
@@ -1484,3 +1514,17 @@ P.O. 21 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 57, 59, 60 Y 61, ASÍ COMO LA ADICIÓN DEL 59 BIS DEL REGLAMENTO DE ALCOHOLES DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA RELATIVO A DICTAMEN 020/2017”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
+
+P.O. 7 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA DICTAMEN 074/2017, RELATIVO A LA REFORMA A LOS ARTÍCULOS 3 FRACCIÓN X, 14 FRACCIÓN XI Y 27 INCISO H, DEL REGLAMENTO DE ALCOHOLES PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO NO. 02, DE FECHA 10 DE ENERO DE 2003, SECCIÓN I, TOMO CX".]
+
+ÚNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California y/ o la Gaceta Municipal.
+
+P.O. 7 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA DICTAMEN 075/2017, RELATIVO A LA REFORMA AL ARTÍCULO 23 DEL REGLAMENTO DE ALCOHOLES, PUBLICADO EN EL PERIÓDICO OFICIAL NO. 02, DE FECHA 10 DE ENERO DE 2003, TOMO CX, SECCIÓN I, TEXTO VIGENTE PUBLICADO EN EL PERIÓDICO OFICIAL EN FECHA 01 DE JULIO DE 2016”.]
+
+PRIMERO.- La presente reforma entrara en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Baja California y/o Gaceta Municipal.
+
+SEGUNDO.- Lo establecido en el artículo 23 en la fracción XV del presente ordenamiento entrara en vigor 10 días posteriores a su publicación en el Periódico Oficial del Estado de Bajo California y/o Gaceta Municipal a efecto de que los permisionarios cumplan con la normatividad reformada en el presente dictamen.
