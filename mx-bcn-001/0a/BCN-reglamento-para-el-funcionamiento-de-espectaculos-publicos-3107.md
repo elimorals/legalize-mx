@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-el-funcionamiento-de-espectaculos-publicos-3107
 country: "mx"
 rank: "reglamento"
 publication_date: "1986-05-20"
-last_updated: "2015-12-28"
+last_updated: "2017-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3107&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA EL FUNCIONAMIENTO DE ESPECTÁCULOS PÚBLICOS Y CENTROS DE REUNIÓN PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el martes 20 de mayo de 1986.
 
@@ -53,9 +53,11 @@ El presente Reglamento es de observancia general y obligatoria dentro de los lí
 
 (DEROGADO, P.O. 4 DE ENERO DE 2008)
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2017)</small>
+
 ###### Artículo 3o.
 
-El órgano Oficial a cuyo cargo queda la expedición de las licencias para el funcionamiento de los salones o lugares abiertos para expectáculos (sic) públicos y centros de reunión para el esparcimiento de las personas y la vigilancia del cumplimiento de las disposiciones de este Reglamento, lo es el Gobierno Municipal, siempre y cuando la expedición de tales licencias no esté reservada a otra autoridad por leyes o reglamentos en vigor.
+El órgano Oficial a cuyo cargo queda la expedición de las licencias para el funcionamiento de lugares abiertos para espectáculos públicos y centros de reunión para el esparcimiento de las personas y la vigilancia del cumplimiento de las disposiciones de este Reglamento, lo es el Gobierno Municipal, siempre y cuando la expedición de tales licencias no esté reservada a otra autoridad por leyes o reglamentos en vigor, para el caso del permiso de salones sociales se estará a lo dispuesto en el Reglamento para el Funcionamiento de Salones Sociales para el Municipio de Ensenada, Baja California.
 
 ###### Artículo 4o.
 
@@ -495,11 +497,13 @@ De la infracción de esta disposición serán responsables las personas a favor 
 
 ### Capítulo Segundo.. De los Bailes, Fiestas o Reunión en Casa de Particulares Sin Fines de Especulación
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2017)</small>
 
 ###### Artículo 42o.
 
-Las personas que deseen organizar algún baile, fiesta o reunión en domicilio particular o en salones que se alquilen para ello pero el evento sea privado sin fines de lucro, deberán obtener el permiso correspondiente de la Presidencia Municipal, solicitándolo con dos días de anticipación a la fecha en que deba verificarse, y pagarán la cantidad correspondiente que fije la Ley de Ingresos Municipales en vigor en la fecha de la solicitud, en el entendido que el permiso en mención tendrá vigencia hasta las 23:59 horas del día del evento.
+Las personas que deseen organizar algún baile, fiesta o reunión en domicilio particular, deberán obtener el permiso correspondiente de la Presidencia Municipal, solicitándolo con 72 horas de anticipación a la fecha en que deba verificarse, y pagarán la cantidad correspondiente que fije la Ley de Ingresos Municipales en vigor en la fecha de la solicitud, en el entendido que el permiso en mención tendrá vigencia hasta las 23:59 horas del día del evento.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2015)</small>
 
 En los domicilios particulares en los que se pretenda efectuar algún baile, fiesta o reunión no podrán producir ruido con aparatos musicales o por cualquier otro medio sonoro, usado con elevada intensidad que provoque molestia, interfiera con el sueño, trabajo o descanso o que lesione o dañe física o psicológicamente al individuo, la flora, la fauna y a los bienes públicos o privados, en los términos del Artículo 175 fracción II del Reglamento para el Control de la Calidad Ambiental del Municipio de Ensenada, Baja California.
 
@@ -974,3 +978,9 @@ P.O. 28 DE DICIEMBRE DE 2015.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS REGLAMENTOS PARA EL FUNCIONAMIENTO DE ESPECTÁCULOS PÚBLICOS Y CENTROS DE REUNIÓN, CONTROL DE LA CALIDAD AMBIENTAL Y AL ARTÍCULO 26 DEL BANDO DE POLICÍA Y BUEN GOBIERNO, TODOS DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA”.]
 
 ÚNICO. La presente reforma entrara en vigor al día siguiente a su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
+
+P.O. 7 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA DICTAMEN 007/2017, RELATIVO A REFORMAR LOS ARTÍCULOS 3 Y 42 PÁRRAFO PRIMERO, DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE ESPECTÁCULOS PÚBLICOS Y CENTROS DE REUNIÓN PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA".]
+
+ÚNICO. La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California y/o la Gaceta Municipal.
