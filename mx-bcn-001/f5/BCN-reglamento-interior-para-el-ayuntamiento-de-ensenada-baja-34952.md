@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-para-el-ayuntamiento-de-ensenada-baja-34952
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-14"
-last_updated: "2017-04-28"
+last_updated: "2017-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE ENSENADA, B. C.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 14 de noviembre de 2003.
 
@@ -1459,7 +1459,9 @@ XI.- Educación, Cultura, Ciencia y Tecnología;
 
 XII.- Comercio y Espectáculos;
 
-XIII.- Desarrollo Rural Sustentable y Delegaciones;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2017)</small>
+
+XIII.- Desarrollo Regional Sustentable y Delegaciones;
 
 XIV.- Asuntos Indígenas;
 
@@ -1749,23 +1751,47 @@ I.- Dictaminar sobre proyectos de Reglamentos, iniciativas de ley, decretos y di
 
 II.- Proponer al Ayuntamiento la adopción de políticas y medidas para la atención, inspección, regulación y control de las materias señaladas en la fracción anterior, supervisando el correcto desempeño de las unidades administrativas y vigilando el cumplimiento de los programas correspondientes.
 
-COMISION DE DELEGACIONES.
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2017)</small>
+
+COMISIÓN DE DESARROLLO REGIONAL SUSTENTABLE Y DELEGACIONES.
 
 ###### ARTÍCULO 127.
 
-Atribuciones:
-
-I.- Dictaminar sobre proyectos de Reglamentos, disposiciones normativas de observancia general relacionadas con la estructura y funcionamiento de las Delegaciones Municipales y sus autoridades.
+I.- Dictaminar sobre proyectos de Reglamentos, disposiciones normativas de observancia general relacionadas con el Desarrollo Regional Sustentable del municipio; así como de la estructura y funcionamiento de las Delegaciones Municipales y sus autoridades;
 
 II.- Proponer al Ayuntamiento o al Presidente Municipal:
 
-a).- Programas y acciones en favor del fortalecimiento y desconcentración de funciones hacia las Delegaciones Municipales.
+a) Programas y acciones en favor del fortalecimiento y desconcentración de funciones hacia las Delegaciones Municipales.
 
-b).- Los mecanismos y acciones necesarias para mejorar la atención de las dependencias y entidades de la Administración Pública Municipal en la zona rural del Municipio y resolver sus necesidades o problemas.
+b) Los mecanismos y acciones necesarias para mejorar la atención de las dependencias y entidades de lo Administración Pública Municipal en la zona regional del Municipio o gestionar la atención de sus necesidades o problemas; y,
 
-III.- Supervisar el desempeño de los Delegados Municipales y coadyuvar en la promoción de sus acciones; y
+c) Reformas a la normatividad vigente, reglamentos de nueva creación y puntos de acuerdo relativos a las zonas regionales y delegaciones municipales.
 
-IV.- Vigilar que el funcionamiento de las Juntas de Mejoramiento Moral, Cívico y Material, cumplan con lo establecido en la normatividad respectiva y con los planes y programas del Gobierno Municipal.
+III.- Supervisar el desempeño de los Delegados Municipales y coadyuvar en la promoción de sus acciones;
+
+IV.- Vigilar que el funcionamiento de las Juntas de Mejoramiento Moral, Cívico y Material, cumplan con lo establecido en la normatividad respectiva;
+
+V.- apoyar en la gestión política necesarias (sic) para la elaboración del diagnóstico y del Programa Municipal Concurrente de Desarrollo Regional Sustentable y Delegaciones.
+
+VI.- Impulsar la participación social en el proceso de gestión de políticas municipales destinadas al desarrollo de sus espacios del medio regional.
+
+VII.- Supervisar el cumplimiento de las disposiciones legales que señalan obligaciones al Ayuntamiento en materia de tierras, bosques, tala de árboles, minas y aguas.
+
+VIII.- Promover las prácticas de Organización Comunitaria y Planeación Participativa para atender las necesidades de la población del entorno regional del Municipio.
+
+XI.- Apoyar como enlace y vinculación entre el Ayuntamiento, las autoridades municipales del mismo y las autoridades Ejidales y Comunales y demás representantes de las organizaciones existentes en el medio rural.
+
+X.- Promover ante lo Autoridad Municipal la provisión de bienes y servicios de desarrollo social destinados a las Comunidades Rurales y delegaciones.
+
+XI.- Promover, con el apoyo de la Dirección de Desarrollo Regional y Delegaciones del Municipio, ante otras instancias y sus autoridades, la realización de cursos del uso de las tecnologías, en la zona regional y delegacional del municipio.
+
+XII.- Fomentar y canalizar ante las Dependencias o Entidades Federales, Estatales y Municipales, que los habitantes de las Delegaciones, reciban asesarías y apoyos en gestiones diversas, a fin de fomentar el uso de recursos naturales en forma más productiva y razonable.
+
+XIII.- Vigilar el desempeño de la Dirección de Desarrollo Regional y Delegaciones y demás dependencias con funciones vinculadas al medio rural, y dictaminar los reportes, avances y resultados físico-financieros de los programas y proyectos involucrados, tanto los que correspondan de manera directa a la Administración Municipal, como aquellos derivados de convenios celebrados entre el Municipio, el Estado y la Federación.
+
+XIV. Coadyuvar con la Dirección de Desarrollo Regional y Delegaciones, a fin de mejorar las condiciones de vida de las zonas rurales y las delegaciones municipales; y,
+
+XV.- Las demás que expresamente le señalen las leyes aplicables.
 
 > <small>(ADICIONADO, P.O. 6 DE MARZO DE 2009)</small>
 
@@ -2318,3 +2344,9 @@ P.O. 28 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA DICTAMEN 064/2017, RELATIVO A LA REFORMA DEL ARTÍCULO 113 DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California
+
+P.O. 7 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA DICTAMEN 001/2017, RELATIVO A REFORMAR EL ARTÍCULO 114 Y 127 DEL REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA".]
+
+ÚNICO.- Lo presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California y/o la Gaceta Municipal.
