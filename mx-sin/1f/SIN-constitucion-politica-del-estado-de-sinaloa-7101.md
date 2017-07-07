@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2017-06-12"
+last_updated: "2017-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2017.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -903,9 +903,17 @@ XXII Bis A. Expedir la ley que regule la organización de la Auditoría Superior
 
 XXII Bis B. Coordinar y evaluar, sin perjuicio de su autonomía técnica y de gestión, el desempeño de las funciones de la Auditoría Superior del Estado, en términos de la ley;
 
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 2003)</small>
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2017)</small>
 
-XXIII. Autorizar al Estado, a los Municipios, a los organismos descentralizados, a las empresas de participación estatal o municipal mayoritaria y a los fideicomisos públicos que formen parte de la Administración Pública Paraestatal o Paramunicipal, para la obtención de empréstitos o créditos, el otorgamiento de garantías o avales y demás modalidades y actos jurídicos que correspondan conforme a lo establecido por el artículo 84 de esta Constitución. Asimismo, autorizar por mayoría calificada al Ejecutivo Estatal y a los Ayuntamientos para constituirse en avalista de organismos sociales legalmente instituidos que tengan por objeto obtener créditos para la realización de obras de interés social, cuando existan garantías de la recuperación del financiamiento.
+XXIII. Autorizar por el voto de las dos terceras partes de sus miembros presentes los montos máximos para en las mejores condiciones del mercado contratar empréstitos y obligaciones por parte del Estado, organismos autónomos, los Municipios así como los organismos públicos descentralizados estatales y municipales, empresas de participación estatal o municipal, y fideicomisos públicos estatales y municipales, previo análisis de su destino, capacidad de pago y en su caso, el otorgamiento de garantía o el establecimiento de la fuente de pago, de conformidad con las bases de las leyes establecidas de la materia.
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2017)</small>
+
+XXIII Bis. Ejercer las acciones necesarias para el debido cumplimiento de las disposiciones en materia de disciplina financiera, equilibrio presupuestario y responsabilidad hacendaria, en términos de la legislación aplicable.
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2017)</small>
+
+XXIII Bis A. Autorizar al Ejecutivo del Estado la celebración de convenios con la Secretaría de Hacienda y Crédito Público para adherirse al mecanismo de contratación de deuda estatal garantizada.
 
 XXIV. Reconocer, aprobar y ordenar el pago de la Deuda Preferente del Estado.
 
@@ -1285,6 +1293,10 @@ VI. Presentar al Congreso del Estado, a más tardar el último sábado del mes d
 
 VII. Cuidar de que la recaudación e inversión de los caudales públicos se hagan con arreglo a las leyes.
 
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2017)</small>
+
+VII Bis. Aplicar las reglas y criterios de disciplina financiera, equilibrio presupuestario y responsabilidad hacendaria.
+
 > <small>(REFORMADA, P.O. 13 DE MAYO DE 1948)</small>
 
 VIII. Visitar las poblaciones del Estado cuando menos una vez en su sexenio.
@@ -1323,17 +1335,17 @@ XIX. Velar por la moralidad pública, impidiendo enérgicamente el establecimien
 
 XX. Otorgar concesiones en los términos que establezcan las leyes o sobre las bases que fije el Congreso en defecto de aquéllas.
 
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 2003)</small>
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2017)</small>
 
-XXI. Previa autorización del Congreso del Estado, celebrar empréstitos, otorgar garantías o avales, y formalizar las demás modalidades y actos jurídicos que correspondan conforme a lo previsto en el artículo 84 de esta Constitución. Asimismo, bajo las mismas condiciones señaladas anteriormente, el Ejecutivo podrá constituirse en avalista de organismos sociales legalmente instituidos, que tengan por objeto obtener créditos para la realización de obras de interés social, cuando existan garantías de la recuperación del financiamiento.
+XXI. Previa autorización por el Congreso del Estado de los montos máximos, contratar empréstitos y obligaciones en las mejores condiciones del mercado, previo análisis de su destino, capacidad de pago y en su caso, el otorgamiento de garantía o el establecimiento de la fuente de pago, de conformidad con lo establecido en el artículo 84 de esta Constitución, y las bases de las leyes establecidas de la materia;
 
 > <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 XXI Bis. Previa autorización del Congreso del Estado, celebrar contratos de colaboración público privada;
 
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2017)</small>
 
-XXI Bis A. Previa autorización del Congreso del Estado, otorgar garantías y avales, afectar como fuente o garantía de pago, o en cualquier otra forma, los ingresos del Estado o, en su caso, los derechos al cobro derivados de los mismos, respecto del cumplimiento de todo tipo de obligaciones o empréstitos, contratos de colaboración público privada o de cualesquier otros actos jurídicos relacionados con los mismos;
+XXI Bis A. Previa autorización del Congreso del Estado en términos de lo dispuesto por el artículo 84 de esta Constitución, otorgar garantías y avales, afectar como fuente o garantía de pago, o en cualquier otra forma, los ingresos del Estado o, en su caso, los derechos al cobro derivados de los mismos, respecto del cumplimiento de todo tipo de obligaciones o empréstitos, contratos de colaboración público privada o de cualesquier otros actos jurídicos relacionados con los mismos;
 
 > <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -1359,9 +1371,13 @@ XXIII. Condonar adeudos fiscales a favor del Estado, en los términos de la Ley 
 
 XXIII Bis. Formalizar toda clase de acuerdos, contratos y convenios.
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 1981)</small>
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2017)</small>
 
-XXIV. Los demás que le confieren la Constitución de los Estados Unidos Mexicanos y esta Constitución y las derivadas de ellas que no estén expresamente atribuidas o reservadas a los Poderes de la Federación o a los otros Poderes del Estado.
+XXIV. Previa Autorización del Congreso del Estado celebrar convenio correspondiente con la Secretaría de Hacienda y Crédito Público para adherirse al mecanismo de contratación de deuda estatal garantizada.
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2017)</small>
+
+XXV. Las demás que le confieren la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las derivadas de ellas que no estén expresamente atribuidas o reservadas a los Poderes de la Federación o a los otros Poderes del Estado.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE DICIEMBRE DE 1972)</small>
 
@@ -1625,13 +1641,15 @@ La dirección de la política fiscal del Estado en la esfera administrativa y la
 
 Ningún servidor público del Estado o de los Municipios que tengan a su cargo el manejo de caudales públicos entrará a ejercer sus funciones sin haberlo caucionado suficientemente. La omisión de esta formalidad hace responsable a las autoridades a quienes la Ley encomienda hacer efectivo este requisito.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2017)</small>
 
 ###### Art. 84.
 
-Sólo podrán contraerse obligaciones o empréstitos por el Estado o sus Municipios, u obligaciones o créditos por sus organismos descentralizados, empresas de participación estatal o municipal mayoritaria y fideicomisos públicos que formen parte de la Administración Pública Paraestatal o Paramunicipal, cuando se destinen a inversiones públicas productivas, conforme a las bases que establezca en una ley el Congreso del Estado, quien mediante el voto de las dos terceras partes de la totalidad de sus miembros, deberá autorizar previamente la obtención de los financiamientos respectivos, el otorgamiento de garantías o avales, y las demás modalidades y actos jurídicos que así lo requieran de acuerdo a lo previsto por la Ley.
+El Estado, los organismos autónomos, los Municipios, así como los organismos públicos descentralizados estatales y municipales, empresas de participación estatal o municipal, y fideicomisos públicos estatales y municipales no podrán contraer obligaciones o empréstitos sino cuando se destinen a inversiones públicas productivas y a su refinanciamiento o reestructura, mismas que deberán realizarse bajo las mejores condiciones del mercado y, en el caso del Estado, adicionalmente para otorgar garantías respecto al endeudamiento de los Municipios. Lo anterior, conforme a las bases que establezca la Ley correspondiente, en el marco de lo previsto en la Constitución Política de los Estados Unidos Mexicanos, esta Constitución, y por los conceptos y hasta por los montos que el Congreso del Estado apruebe. El Ejecutivo del Estado informará de su ejercicio al rendir la cuenta pública. En ningún caso se podrá destinar empréstitos para cubrir gasto corriente.
 
-El Estado únicamente podrá constituirse en garante o avalista de los Municipios o de las Entidades de la Administración Pública Paramunicipal, en los casos en que la magnitud o el impacto social del proyecto que se pretenda financiar así lo amerite, o cuando existan circunstancias extraordinarias, plenamente justificadas que así lo requieran y que pongan en grave riesgo la solvencia y el crédito público de los Municipios, tales como la ocurrencia de desastres naturales, o, en su caso, la viabilidad financiera de las Entidades de la Administración Pública Paramunicipal.
+El Congreso del Estado por el voto de las dos terceras partes de sus miembros presentes, deberá autorizar los montos máximos para, en las mejores condiciones del mercado, contratar dichos empréstitos y obligaciones previo análisis de su destino, capacidad de pago y, en su caso, el otorgamiento de garantía o el establecimiento de la fuente de pago.
+
+Sin perjuicio de lo anterior, el Estado y los Municipios podrán contratar obligaciones para cubrir sus necesidades de corto plazo, sin rebasar los límites máximos y condiciones que establezca la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios. Las obligaciones a corto plazo deberán liquidarse a más tardar tres meses antes del término del periodo de gobierno correspondiente y no podrán contratarse nuevas obligaciones durante esos últimos tres meses.
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
 
@@ -2381,7 +2399,9 @@ b) Los casos en que se requiera el acuerdo de las dos terceras partes de los mie
 
 c) Las normas de aplicación general para celebrar los convenios a que se refieren las fracciones III y IV del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, así como el segundo párrafo de la fracción VII del artículo 116 de dicho texto;
 
-d) El procedimiento y condiciones para que el Gobierno del Estado asuma una función o servicio municipal cuando, al no existir convenio correspondiente, el Congreso del Estado considere que el municipio de que se trate esté imposibilitado para ejercerlos o prestarlos; siendo necesario en este caso solicitud previa del ayuntamiento respectivo, aprobada por cuando menos las dos terceras partes de sus integrantes; y
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2017)</small>
+
+d) El procedimiento y condiciones para que el Gobierno del Estado asuma una función o servicio municipal cuando al no existir convenio correspondiente, el Congreso del Estado considere que el municipio de que se trate esté imposibilitado para ejercerlos o prestarlos; siendo necesario en este caso solicitud previa del ayuntamiento respectivo, aprobada por cuando menos las dos terceras partes de sus integrantes; y
 
 e) Las disposiciones aplicables en aquellos municipios que no cuenten con los bandos o reglamentos correspondientes.
 
@@ -2431,13 +2451,13 @@ IX. Ejercer en forma directa, o por quien los ayuntamientos autoricen conforme a
 
 X. Autorizar en el Presupuesto de Egresos las erogaciones plurianuales para aquellos proyectos de inversión en infraestructura que se determinen conforme a lo dispuesto en las leyes y las erogaciones plurianuales necesarias para cubrir las obligaciones derivadas de empréstitos y de contratos de colaboración público privada; las erogaciones correspondientes deberán incluirse en los subsecuentes Presupuestos de Egresos;
 
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2017)</small>
 
-XI. Previa autorización del Congreso del Estado, celebrar empréstitos, siempre que los recursos correspondientes se destinen a inversiones públicas productivas conforme a las bases que, en términos de lo dispuesto por el artículo 84 de esta Constitución, establezca el Congreso del Estado en la ley respectiva;
+XI. Previa autorización por el Congreso del Estado de los montos máximos, contratar empréstitos y obligaciones en las mejores condiciones del mercado, previo análisis de su destino, capacidad de pago y en su caso, el otorgamiento de garantía o el establecimiento de la fuente de pago, de conformidad con lo establecido en el artículo 84 de esta Constitución, y las bases de las leyes establecidas de la materia;
 
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2017)</small>
 
-XII. Previa autorización del Congreso del Estado, otorgar garantías y avales, afectar como fuente o garantía de pago, o en cualquier otra forma, los ingresos del Municipio o, en su caso, los derechos al cobro derivados de los mismos, respecto del cumplimiento de todo tipo de obligaciones o empréstitos; contratos de colaboración público privada que, en términos de la legislación aplicable, impliquen obligaciones que constituyan deuda pública, o de cualesquier otros actos jurídicos relacionados con los mismos; y,
+XII. Previa autorización del Congreso del Estado en términos de lo dispuesto por el artículo 84 de esta Constitución, otorgar garantías y avales, afectar como fuente o garantía de pago, o en cualquier otra forma, los ingresos del Municipio o, en su caso, los derechos al cobro derivados de los mismos, respecto del cumplimiento de todo tipo de obligaciones o empréstitos; contratos de colaboración público privada que, en términos de la legislación aplicable, impliquen obligaciones que constituyan deuda pública, o de cualesquier otros actos jurídicos relacionados con los mismos; y,
 
 > <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -4209,13 +4229,15 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 SEGUNDO. El Congreso del Estado de Sinaloa en un plazo de 90 días posteriores al inicio de vigencia del presente Decreto, deberá armonizar la legislación electoral del Estado conforme al presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 232.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO, DE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, DE LA LEY QUE CREA LA COMISIÓN ESTATAL DE SEGURIDAD CIUDADANA DEL ESTADO DE MÉXICO, DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSPECCIÓN GENERAL DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO DE MÉXICO Y DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+P.O. 7 DE JULIO DE 2017.
 
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 141 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA, EN MATERIA DE DISCIPLINA FINANCIERA”.]
 
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
-G.G. 8 DE SEPTIEMBRE DE 2017.
+SEGUNDO. Se derogan las disposiciones que se opongan al presente decreto.
+
+TERCERO. Una vez que la autoridad federal establezca los lineamientos a que se refiere el artículo Sexto Transitorio de la reforma a la Constitución Federal en materia de Disciplina Financiera publicada en el Diario Oficial de la Federación el día 26 de mayo de 2015, el Estado y los Municipios enviarán al Ejecutivo Federal y al Congreso de la Unión un informe sobre los empréstitos y obligaciones de pago vigentes.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 241.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO, DE LA LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, DE LA LEY DE FOMENTO ECONÓMICO DEL ESTADO DE MÉXICO, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO, DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO, DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO Y DEL CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO".]
 
