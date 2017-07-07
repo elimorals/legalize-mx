@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-comision-estatal-de-servicios-22970"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-11-16"
-last_updated: "2001-11-16"
+last_updated: "2017-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # REGLAMENTO INTERNO DE LA COMISION ESTATAL DE SERVICIOS PUBLICOS DE TIJUANA
 
-REGLAMENTO INTERNO DE LA COMISION ESTATAL DE SERVICIOS PUBLICOS DE TIJUANA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL DE SERVICIOS PÚBLICOS DE TIJUANA, PUBLICADO EN EL P.O. DE 7 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL DE SERVICIOS PÚBLICOS DE TIJUANA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial en el Estado de Baja California, el viernes 16 de noviembre de 2001.
 
@@ -1022,3 +1024,17 @@ C.P. JORGE RAMOS.
 EL SECRETARIO DE ASENTAMIENTOS HUMANOS Y OBRAS PÚBLICAS,
 
 ING. FERNANDO ACEVES SALMON.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL DE SERVICIOS PÚBLICOS DE TIJUANA".]
+
+PRIMERO.- El presente Reglamento entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Los asuntos que se encontraren en trámite al momento de entrar en vigor el presente ordenamiento, serán resueltos por la unidad administrativa que corresponda, conforme a las atribuciones que este reglamento le confiere.
+
+TERCERO.- En tanto no se expidan los manuales administrativos que este reglamento menciona, el Director queda facultado para resolver los asuntos que conforme a dichos manuales se deban regular.
+
+CUARTO.- El presente Reglamento abroga el Reglamento Interno de la Comisión Estatal de Servicios Públicos de Tijuana, publicado en el Periódico Oficial del Estado de Baja California No. 50 de fecha 16 de noviembre de 2001.
