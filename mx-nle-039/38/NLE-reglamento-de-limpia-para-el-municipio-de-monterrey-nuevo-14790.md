@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-limpia-para-el-municipio-de-monterrey-nuevo-14790
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-08-05"
-last_updated: "2016-02-27"
+last_updated: "2017-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE LIMPIA PARA EL MUNICIPIO DE MONTERREY, NUEVO LEON
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 REGLAMENTO DE LIMPIA PARA EL MUNICIPIO DE MONTERREY, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 5 de agosto 1996.
 
@@ -161,13 +163,11 @@ c).- Que los servicios de recolección y traslado de desechos sólidos no peligr
 
 En todo caso, los vehículos deberán estar cubiertos y debidamente equipados para evitar la diseminación de residuos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADO, P.O. 10 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2017)</small>
 
 ###### Art. 12.
 
-Las personas físicas o morales, cuyo objeto sea la prestación de los servicios de recolección y traslado de residuos dentro del territorio municipal de Monterrey, así cerno los vehículos destinados para la prestación de dichos servicios, deberán contar con la autorización de la Secretaria de Servicios Públicos, refrendándose anualmente dicha autorización.
+Las personas físicas o morales cuyo objetivo sea la prestación de los servicios de recolección y traslado de residuos dentro del territorio municipal de Monterrey, así como los vehículos automotores autorizados en términos del presente reglamento, para la prestación de dichos servicios, deberán contar con la autorización de la Secretaría de Servicios Públicos, refrendándose anualmente dicha autorización.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -215,7 +215,7 @@ Desmonte.- La acción de cortar y retirar del predio baldío aquellos arbustos d
 
 Desyerba.- La acción de cortar y retirar del predio baldío aquellas plantas de tallo herbáceo que se encuentren en el mismo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2008)</small>
 
 ###### Art. 16.
 
@@ -233,15 +233,17 @@ Cuando sea necesario hacer el barrido en la noche entre las 19:00 y 21:00 horas,
 
 A fin de concientizar a los habitantes del municipio de Monterrey, de los beneficios sociales que se obtienen al mantener la ciudad limpia se concertarán con los medíos de comunicación masiva y con la comunidad en general, en coordinación con la Secretaría de Servicios Públicos y la Comisión de Servicios Públicos, campañas de limpieza.
 
-> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
-
 ###### Art. 19.
 
 Los propietarios o encargados de obras, bodegas, almacenes, cuidarán de que al cargar o descargar no se esparzan los materiales o residuos de las mercancías o sus empaques, debiendo ordenar, en su caso y tan luego como se terminen esas maniobras, que se hagan labores de limpieza y barrido en el lugar.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2017)</small>
+
 ###### Art. 18.
 
-Los vehículos destinados al transporte de materiales deberán cubrirse con el equipo adecuado para evitar que la carga se esparza y realizar la limpieza de los mismos de tal forma que queden libres de residuos en el mismo sitio en el que hayan descargado.
+Los vehículos automotores de carga destinados al transporte de materiales deberán cubrirse con el equipo adecuado para evitar que la carga se esparza y realizar la limpieza de los mismos de tal forma que queden libres de residuos en el mismo sitio en el que hayan descargado, debiendo en todo momento observar las disposiciones contenidas en los Reglamentos de Policía y Buen Gobierno y de Tránsito y Vialidad del Municipio de Monterrey.
+
+Los vehículos a los que hace referencia el presente artículo deberán registrarse en el padrón autorizado de la Secretaría de Servicios Públicos.
 
 ###### Art. 20.
 
@@ -335,8 +337,6 @@ Los comerciantes ambulantes, propietarios y encargados de puestos fijos y semifi
 
 Queda estrictamente prohibido:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
 > <small>(REFORMADA, P.O. 10 DE ENERO DE 2003)</small>
 
 I.- Sacar a la banqueta los botes, depósitos o recipientes de basura, antes de ser anunciado el paso del camión recolector.
@@ -351,11 +351,9 @@ V.- No limpiar o barrer la vía pública, cuando se riegan macetas instaladas en
 
 VI.- Extraer la basura y desperdicios de los botes colectores instalados en la vía pública.
 
-> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2017)</small>
 
-VII.- Arrojar o abandonar basura o cualquier tipo de desecho en la vía pública, parques o plazas y, en general, en sitios no autorizados.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+VII.- Arrojar, abandonar, conservar, almacenar o acumular basura o cualquier tipo de escombro, ramas, chatarra o desecho en la vía pública, parques o plazas, enfrente de los domicilios y, en general, en sitios no autorizados.
 
 > <small>(REFORMADA, P.O. 10 DE ENERO DE 2003)</small>
 
@@ -369,13 +367,9 @@ XI.- Cuando se afecte a terceros, lavar en la vía pública toda clase de vehíc
 
 XII.- Lavar en la vía pública toda clase de muebles, vasijas, herramientas, animales y objetos de uso doméstico, así como la reparación de vehículos, fabricación de muebles y la ejecución de cualquier actividad similar.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 2003)</small>
 
 Los dueños o personas a cuyo cargo se encuentren en estos supuestos y los mencionados en la fracción anterior, o quienes personalmente ejecuten esos actos, son responsables solidarios por la infracción que se cometa a estas disposiciones.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADA, P.O. 10 DE ENERO DE 2003)</small>
 
@@ -412,6 +406,14 @@ XXIV.- Tirar escombro en la vía pública.
 > <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
 
 XXV.- Fijar anuncios o cualquier tipo de propaganda con adherentes o materiales que en el proceso de instalar o retirar los mismos, exista el riesgo de dañar los recubrimientos o el espacio en sí, de paredes, pasos a desnivel o peatonales, bancas, arbotantes, árboles, infraestructura vial o de servicios que se encuentren en áreas o en vías públicas, o colocarlos sin el permiso correspondiente de la autoridad municipal.
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2017)</small>
+
+XXVI.- Realizar dentro del Municipio actividad comercial o de recolección de residuos orgánicos e inorgánicos, escombro, chatarra o cualquier desecho, que involucre el uso de vehículos de tracción animal, triciclos o similares.
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2017)</small>
+
+XXVII.- Realizar dentro del Municipio actividad comercial o de recolección de residuos orgánicos e inorgánicos, escombro, chatarra o cualquier desecho, que involucre el uso de vehículos automotores sin autorización de la autoridad, o en inobservancia de lo establecido en el artículo 18 del presente Reglamento.
 
 ### CAPITULO QUINTO. DE LA CLASIFICACIÓN DE LOS RESIDUOS
 
@@ -541,13 +543,13 @@ La infracción a lo dispuesto por las fracciones I a VI del artículo 31, así c
 
 La infracción a lo dispuesto por las fracciones VII a XX del artículo 31, así como a los artículos 15, fracciones I y II, 18, 19, 21, 25, 26 y 30 de este reglamento, se sancionarán con multa equivalente de 51 a 100 días de salario mínimo general vigente en el municipio de Monterrey.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2017)</small>
 
 ###### Art. 46.
 
-La infracción a lo dispuesto por las fracciones XXI a XXV, del artículo 31, así como a los artículos 10, 11 y 12 de este reglamento, se sancionará con multa equivalente de 101 a 200 días de salario mínimo general vigente en el municipio de Monterrey.
+La infracción a lo dispuesto por las fracciones XXI a XXVII, del artículo 31, así como a los artículos 10, 11 y 12 de este reglamento, se sancionará con multa equivalente de 101 a 200 días de salario mínimo general vigente en el municipio de Monterrey.
 
-En caso de incumplimiento de lo establecido en el artículo 15 fracción III de este Reglamento, se impondrá una multa de uno a tres tantos de los derechos por limpieza de lote baldío que le correspondería pagar, conforme a las cuotas establecidas en la Ley de Hacienda para los Municipios, dependiendo de la reincidencia. El pago de la multa que se impusiere al infractor no lo exime de las obligaciones establecidas en este Reglamento. Para efectos de este párrafo, se considera que se presenta la reincidencia cuando no se cumpla en más de una ocasión, en el plazo de un año, con la obligación que establece el artículo 15 fracción III de este Reglamento, habiéndose requerido previamente por el Municipio.
+Aunado a lo dispuesto en el párrafo anterior, ante la infracción a lo dispuesto por las fracciones XXVI y XXVII, la autoridad municipal competente procederá al retiro del vehículo. Tratándose de vehículo de tracción animal, se retirará la carreta, el triciclo o similar, conservando el propietario el animal del que se trate.
 
 > <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
 
@@ -704,3 +706,17 @@ P.O. 27 DE FEBRERO DE 2016.
 ## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE “SE APRUEBAN LAS REFORMAS DEL REGLAMENTO DE LIMPIA PARA EL MUNICIPIO DE MONTERREY”.]
 
 ÚNICO. Las presentes reformas entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LOS "ACUERDOS DE LA SESIÓN ORDINARIA DE FECHA 30 DE JUNIO DE 2017: SE APRUEBA LA REFORMA AL REGLAMENTO DE LIMPIA PARA EL MUNICIPIO DE MONTERREY, N.L.".]
+
+PRIMERO. Las presentes reformas entrarán en vigor el día 01 (sic) septiembre de 2017, previa publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO. Durante los meses de julio y agosto de 2017 la Administración Pública Municipal, a través de la Secretaría de Servicios Públicos, Administración, Desarrollo Económico y Desarrollo Social llevarán a cabo una campaña de información del contenido de las presentes reformas, así como del programa de inserción laboral correspondiente, el cual comenzará su aplicación a partir del mes de agosto a noviembre de 2017.
+
+TERCERO. Respecto a lo señalado en el artículo 46, segundo párrafo del presente Reglamento, cuando las personas requieran entregar voluntariamente el caballo o cualquier otro tipo de animal de tiro a las autoridades para su disposición, la autoridad municipal podrá ser conducto para facilitar la remisión de los animales a las autoridades sanitarias o de control y protección animal en el Estado, así como en su caso a las Organizaciones Ciudadanas que protejan a los animales.
+
+CUARTO. La Secretaría de Servicios Públicos y demás dependencias municipales competentes realizarán una campaña de concientización y descacharrización, en los sectores identificados en donde se realizan las descargas de desechos materiales.
+
+Así mismo, todas las menciones a salario mínimo general vigente como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en el presente Reglamento, se entenderán referidas a la Unidad de Medida y Actualización.
