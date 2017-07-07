@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-instituto-del-deporte-del-estado-de-yucatan-antes-18744
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-23"
-last_updated: "2003-05-02"
+last_updated: "2017-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18744&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # LEY DEL INSTITUTO DEL DEPORTE DEL ESTADO DE YUCATAN - ANTES LEY DEL INSTITUTO DE LA JUVENTUD Y EL DEPORTE DEL ESTADO DE YUCATAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL DECRETO 499/2017 POR EL QUE SE MODIFICA LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE YUCATÁN, PUBLICADO EN EL SUPLEMENTO DEL D.O. DE 7 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL INSTITUTO DEL DEPORTE DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 2 DE MAYO DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE JULIO DE 2017 (ABROGADA).
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 23 de junio de 1989.
 
@@ -255,10 +257,46 @@ ING. MILTON RUBIO MADERA.
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-P.O. 2 DE MAYO DE 2003.
+D.O. 2 DE MAYO DE 2003.
 
 PRIMERO.- Se derogan las disposiciones legales que se opongan a lo dispuesto en el presente Decreto.
 
 SEGUNDO.- En un plazo no mayor de ciento ochenta días naturales deberá expedirse el Reglamento Interior del Instituto del Deporte de Yucatán.
 
 TERCERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 7 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 499/2017 POR EL QUE SE MODIFICA LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE YUCATÁN."]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del gobierno del estado.
+
+Segundo. Abrogación
+
+Se abroga el Decreto 121/1989 por el que se emite la Ley del Instituto del Deporte del Estado de Yucatán, publicado en el diario oficial del gobierno del estado el 23 de junio de 1989.
+
+Tercero. Adecuación del reglamento
+
+El gobernador deberá expedir las modificaciones al Reglamento de la Ley de Cultura Física y Deporte del Estado de Yucatán, para adecuarlo a las disposiciones de este decreto, en un plazo de ciento ochenta días naturales, contado a partir de su entrada en vigor.
+
+Cuarto. Instalación del consejo estatal
+
+El Consejo Estatal de Cultura Física y Deporte deberá instalarse en un plazo de treinta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Quinto. Expedición del reglamento interno del consejo estatal
+
+El Consejo Estatal de Cultura Física y Deporte deberá expedir su reglamento interno en un plazo de noventa días naturales, contado a partir de su instalación.
+
+Sexto. Expedición del estatuto orgánico del IDEY
+
+El director general deberá presentar al Consejo Directivo del Instituto del Deporte del Estado de Yucatán, para su aprobación, el proyecto de estatuto orgánico, de conformidad con las disposiciones de este decreto, en un plazo de noventa días naturales, contado a partir de su entrada en vigor.
+
+Séptimo. Actualización en el Registro de Entidades Paraestatales
+
+El director general del Instituto del Deporte del Estado de Yucatán deberá inscribir este decreto en el Registro de Entidades Paraestatales de la Secretaría de Administración y Finanzas dentro de un plazo de treinta días naturales, contado a partir de su entrada en vigor.
+
+Octavo. Adecuación de reglamentos municipales
+
+Los ayuntamientos deberán adecuar o, en su caso, emitir sus reglamentos de cultura física y deporte, para ajustarse a las disposiciones de este decreto, dentro del primer año siguiente a su entrada en vigor.
