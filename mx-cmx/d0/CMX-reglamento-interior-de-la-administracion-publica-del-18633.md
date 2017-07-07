@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2017-06-01"
+last_updated: "2017-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 1 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 7 DE JULIO DE 2017.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -754,11 +754,17 @@ XV. A la Consejería Jurídica y de Servicios Legales:
 
 4. Dirección General del Registro Civil del Distrito Federal;
 
-> <small>(ADICIONADO, G.O. 24 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, G.O. 7 DE JULIO DE 2017)</small>
 
-5.- Dirección General de Regularización Territorial; y
+5.- Dirección General de Regularización Territorial;
 
-6.- Dirección Ejecutiva de Justicia Cívica.
+> <small>(REFORMADA, G.O. 7 DE JULIO DE 2017)</small>
+
+6.- Dirección General de la Unidad Técnica Especializada para la Prevención Social de las Violencias; y
+
+> <small>(ADICIONADA, G.O. 7 DE JULIO DE 2017)</small>
+
+7.- Dirección Ejecutiva de Justicia Cívica.
 
 > <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
@@ -838,11 +844,11 @@ Al interior de cada Dependencia, incluyendo la Secretaría de Seguridad Pública
 
 ### Capítulo III. De los Gabinetes
 
-(REFORMADO, G.O. 18 DE JUNIO DE 2013) (F. DE E., G.O. 20 DE JUNIO DE 2013)
+> <small>(REFORMADO, G.O. 7 DE JULIO DE 2017)</small>
 
 ###### Artículo 10.
 
-La Administración Pública, para su mejor funcionamiento se integra con ocho Gabinetes permanentes, los cuales cuentan con un secretario técnico, cada uno, designado por el Jefe de Gobierno.
+La Administración Pública, para su mejor funcionamiento se integra con nueve Gabinetes permanentes, los cuales cuentan con un secretario técnico, cada uno, designado por el Jefe de Gobierno.
 
 > <small>(REFORMADO, G.O. 11 DE JUNIO DE 2007)</small>
 
@@ -869,6 +875,12 @@ VII. De Protección Civil, integrado por la (sic) Secretarías de, Protección C
 > <small>(ADICIONADA, G.O. 18 DE JUNIO DE 2013)</small>
 
 VIII. De Desarrollo Rural, integrado por las Secretarias de, Desarrollo Rural y Equidad para las Comunidades; Gobierno; del Medio Ambiente; Desarrollo Económico; Desarrollo Social; Ciencia, Tecnología e Innovación y la Procuraduría Ambiental y del Ordenamiento Territorial.
+
+> <small>(ADICIONADA, G.O. 7 DE JULIO DE 2017)</small>
+
+IX.- De Prevención Social de las Violencias, que estará integrado de conformidad con lo previsto en la Ley.
+
+Este Gabinete contará también con una Unidad Técnica Especializada, que será su área de coordinación operativa, la cual estará bajo la estructura y mando del titular de la Consejería Jurídica y de Servicios Legales.
 
 ###### Artículo 12.
 
@@ -1348,7 +1360,13 @@ XVII. Formalizar, salvo que el Jefe de Gobierno establezca disposición distinta
 
 XVIII. Coordinar directamente o a través de la Unidad Administrativa de Apoyo Técnico-Operativo correspondiente, a las áreas jurídicas de las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Organismos Descentralizados de la Administración Pública del Distrito Federal, con excepción de lo relacionado con la materia fiscal;
 
-XIX. Las demás que le atribuyan expresamente las leyes, reglamentos, decretos y acuerdos; las que le sean conferidas por el Jefe de Gobierno y las que les correspondan a las Unidades Administrativas, Órganos Desconcentrados, Unidades Administrativas de Apoyo Técnico-Operativo y Entidades a él adscritas.
+> <small>(REFORMADA, G.O. 7 DE JULIO DE 2017)</small>
+
+XIX. Coordinar los trabajos de la Unidad Técnica del Gabinete de Prevención Social de las Violencias, con la finalidad de generar políticas públicas y estrategias que impacten positivamente en materia de prevención social de las violencias.
+
+> <small>(ADICIONADA, G.O. 7 DE JULIO DE 2017)</small>
+
+XX. Las demás que le atribuyan expresamente las Leyes, Reglamentos, Decretos, y Acuerdos; las que le sean conferidas por el Jefe de Gobierno y las que les correspondan a las Unidades Administrativas, Órganos Desconcentrados, Unidades Administrativas de Apoyo Técnico-Operativo y Entidades a él adscritas.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 28 DE FEBRERO DE 2007)</small>
 
@@ -10796,6 +10814,48 @@ X. Asesorar y coordinar la instrumentación del pago de las escrituras públicas
 
 XI. Coadyuvar en la tramitación ante instancias judiciales, cuando se trate de asuntos de su competencia.
 
+> <small>(ADICIONADO, G.O. 7 DE JULIO DE 2017)</small>
+
+###### Artículo 118 Ter.
+
+Corresponde a la Dirección General de la Unidad Técnica Especializada para la Prevención Social de las Violencias:
+
+l. Recibir, integrar, sistematizar y procesar la información que le proporcionen las diferentes unidades de Gasto del Gobierno de la Ciudad de México; otras del Gobierno Federal o Locales, así como gubernamentales nacionales e internacionales a efecto de incrementar los elementos necesarios para el cumplimiento de sus objetivos;
+
+II. Proponer al titular de la Consejería Jurídica y de Servicios Legales la celebración de Convenios, acuerdos o cualquier otro instrumento jurídico de colaboración, con los sectores público, social y/o privado, o combinación de éstos; nacional o internacional, mediante el cual logre la obtención de beneficios que impacten directamente en la prevención social de las violencias de la Ciudad de México;
+
+III. Proponer al titular de la Consejería Jurídica y de Servicios Legales, convenios, acuerdos o cualquier otro instrumento de vinculación de acciones que sean necesarias en materia (sic) prevención social de las violencias, con Dependencias del Poder Ejecutivo Federal, con los Gobiernos Estatales o Municipales con una perspectiva metropolitana;
+
+IV. Fomentar la inducción, promoción, utilización y adhesión en su caso, a los productos y servicios públicos derivados de los programas en materia de prevención social de las violencias;
+
+V. Formular anualmente su anteproyecto de presupuesto, conforme a las normas aplicables;
+
+VI. Establecer coordinación y vinculación constante de acciones con todas las Unidades de Gasto del Gobierno de la Ciudad de México para conocer, perfeccionar, planificar, desarrollar e implementar políticas públicas contenidas en planes y programas institucionales o nuevas con el objetivo de mejorar los impactos positivos en materia de prevención social de las violencias;
+
+VII. Construir y perfeccionar permanentemente un Modelo de Prevención Social de las Violencias, con base en las decisiones de su Gabinete;
+
+VIII. Ejecutar protocolos de actuación avalados por el Gabinete de Prevención Social de las Violencias, incluyendo metodologías, criterios y lineamientos para una intervención comunitaria eficaz e integral de Unidades de Gasto del Gobierno de la Ciudad de México, desde el punto de vista de modelo de operación;
+
+IX. Generar mecanismos para conocimiento, capacitación e instrucción sobre el Modelo en las diversas Unidades de Gasto del Gobierno de la Ciudad de México;
+
+X. Ejecutar acciones coordinadas bajo el amparo y funciones del Gabinete de Prevención Social de las Violencias, para la mejora de resultados y creación de modelos de atención particulares en comunidades violentadas por conductas antisociales;
+
+XI. Participar de manera coordinada para actualizar junto con las autoridades competentes, los mapas de riesgo en comunidades específicas;
+
+XII. Proponer al Gabinete de Prevención Social de las Violencias de la Ciudad de México, mecanismos de seguimiento de los programas para comprobar su impacto;
+
+XIII. Actualizar de manera permanente sus vínculos electrónicos de comunicación y en general de ordenamiento para administrar todos sus procesos y las líneas de acción internas;
+
+XIV. Promover ante el Gabinete de Prevención Social de las Violencias, la coordinación de esfuerzos públicos y privados para la aplicación de mejoras y optimización de las políticas públicas, mediante instrumentos jurídicos que favorezcan y den certeza sobre el desarrollo de la estrategia de prevención social de las violencias a implementar mediante el Modelo CDMX;
+
+XV. Proponer para su identificación al Gabinete de Prevención Social de las Violencias, proyectos puntuales de mejora e intervención que aseguren la participación ciudadana, tanto en su fase de diagnóstico como en la de instrumentación y puesta en marcha de los programas;
+
+XVI. Coordinarse con las instancias competentes para el seguimiento puntual de las metas que establezca el Gabinete de Prevención Social de las Violencias;
+
+XVII. Fungir como titular de la Secretaría Técnica del Gabinete de Prevención Social de las Violencia, y
+
+XVIII. Las demás que le atribuya el Titular de la Consejería Jurídica y de Servicios Legales; las que expresamente le atribuya este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+
 ###### Artículo 119.
 
 Corresponde a la Dirección Ejecutiva de justicia Cívica:
@@ -19619,3 +19679,17 @@ G.O. 1 DE JUNIO DE 2017.
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación.
+
+G.O. 7 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- A la Dirección General de la Unidad Técnica Especializada para la Prevención Social de las Violencias, se le transferirán los recursos humanos, materiales, técnicos y financieros para el desempeño adecuado de sus atribuciones, en los términos y condiciones que establezca la Oficialía Mayor y la Secretaría de Finanzas, ambas de la Ciudad de México.
+
+CUARTO.- La Consejería Jurídica y de Servicios Legales deberá adecuar su Estructura Orgánica y su Manual Administrativo.
+
+QUINTO.- Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente Decreto.
