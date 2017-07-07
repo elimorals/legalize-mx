@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2016-11-07"
+last_updated: "2017-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2017.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1271,7 +1273,7 @@ Objeto de la rehabilitación.- La rehabilitación tiene por objeto reintegrar al
 
 Efectos del indulto.- El indulto extingue las penas y medidas de seguridad impuestas en sentencia ejecutoria, salvo el decomiso de instrumentos y objetos del delito y la reparación de los daños y perjuicios.
 
-> <small>(REFORMADO POR DECRETO 545 , P.O. 9 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO POR DECRETO 545, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
 
 Es facultad discrecional del ejecutivo del Estado conceder el indulto, cuando el imputado haya prestado importantes servicios a la Nación o al Estado.
 
@@ -1765,13 +1767,9 @@ En ambos casos se impondrá tratamiento curativo obligatorio en institución ade
 
 Cuando se trate de cónyuges, concubina o concubinario sólo podrá procederse por querella del sujeto pasivo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO NÚMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2010)</small>
 
 ### CAPITULO IX. DELITOS CONTRA LA SALUD EN SU MODALIDAD DE NARCOMENUDEO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO NÚMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2010)</small>
 
@@ -2153,8 +2151,6 @@ Las penas señaladas en los artículos 176, 177 y 178, se incrementarán hasta e
 
 ### CAPITULO I. DIFAMACION
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, P.O. 19 DE SEPTIEMBRE DE 2014.</small>
-
 ###### Artículo 180.
 
 Tipo y punibilidad.- Al que sin consentimiento de una persona ejecute en ella o lo haga ejecutar un acto sexual, sin el propósito de llegar a la cópula, se le aplicarán de dos a ocho años de prisión y hasta doscientos días multa.
@@ -2209,8 +2205,6 @@ Persecución oficiosa.- El delito de abuso sexual previsto en el artículo cient
 
 ### CAPITULO II. CALUMNIA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, P.O. 19 DE SEPTIEMBRE DE 2014.</small>
-
 ###### Artículo 182.
 
 Tipo y punibilidad.- Al que realice cópula con mujer de catorce años de edad y menor de dieciocho, casta y honesta, obteniendo su consentimiento por medio de la seducción o el engaño se le impondrá de dos a seis años de prisión y hasta cien días multa.
@@ -2235,8 +2229,6 @@ Reparación del daño.- La reparación del daño en los casos de estupro, compre
 
 ### CAPITULO III. DISPOSICIONES COMUNES PARA LOS CAPITULOS PRECEDENTES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, P.O. 19 DE SEPTIEMBRE DE 2014.</small>
-
 ###### Artículo 184
 
 BIS.- Tipo y punibilidad.- Al que confines lascivos asedie reiteradamente a persona de cualquier sexo, valiéndose de su 'posición jerárquica derivada de sus relaciones laborales; docentes, domésticas o cualquiera otra que implique subordinación, se le impondrá sanción hasta de doscientos días multa.
@@ -2253,37 +2245,27 @@ Artículo 184 TER.- (DEROGADO, P.O. 17 DE FEBRERO DE 2006)
 
 ### CAPITULO II. DELITO DE ABIGEATO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2017)</small>
 
 ###### Artículo 185.
 
 (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2014)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, P.O. 19 DE SEPTIEMBRE DE 2014.</small>
-
 ###### Artículo 186.
 
 (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2014)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, P.O. 19 DE SEPTIEMBRE DE 2014.</small>
 
 ###### Artículo 187.
 
 (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2014)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, P.O. 19 DE SEPTIEMBRE DE 2014.</small>
-
 ###### Artículo 188.
 
 (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2014)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, P.O. 19 DE SEPTIEMBRE DE 2014.</small>
-
 ###### Artículo 189.
 
 (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2014)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, P.O. 19 DE SEPTIEMBRE DE 2014.</small>
 
 ###### Artículo 190.
 
@@ -2297,19 +2279,13 @@ Artículo 184 TER.- (DEROGADO, P.O. 17 DE FEBRERO DE 2006)
 
 (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2014)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, P.O. 19 DE SEPTIEMBRE DE 2014.</small>
-
 ###### Artículo 192.
 
 (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2014)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, P.O. 19 DE SEPTIEMBRE DE 2014.</small>
-
 ###### Artículo 193.
 
 (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2014)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, P.O. 19 DE SEPTIEMBRE DE 2014.</small>
 
 ###### Artículo 194.
 
@@ -2321,17 +2297,11 @@ Artículo 184 TER.- (DEROGADO, P.O. 17 DE FEBRERO DE 2006)
 
 (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2014)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, P.O. 19 DE SEPTIEMBRE DE 2014.</small>
-
 Artículo 195 BIS.- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2014)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, P.O. 19 DE SEPTIEMBRE DE 2014.</small>
 
 ###### Artículo 196.
 
 (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2014)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, P.O. 19 DE SEPTIEMBRE DE 2014.</small>
 
 ###### Artículo 197.
 
@@ -2549,29 +2519,31 @@ Artículo 208 SEXTUS.- Agravación de la pena.- Si en los actos mencionados en l
 
 ###### Artículo 209.
 
-Al que se apodere de una o más cabezas de ganado, cualquiera que sea su especie, sin consentimiento de quien legalmente pueda disponer de las mismas se le impondrá prisión de cuatro a ocho años y hasta cuatrocientos días multa. Para los efectos de éste artículo se considera como ganado mayor las especies bovina y equina, y ganado menor las especies ovina, porcina, caprina, cunicula y avícola.
+Comete el delito de abigeato al que se apodere, cambie, venda, compre o sacrifique de una o más cabezas de ganado, cualquiera que sea su especie o una o más colmenas, sin consentimiento de quien legalmente pueda disponer de las mismas y se le impondrá prisión de cinco a ocho años y hasta cuatrocientos días multa.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
-
-Cuando el abigeato, se ejecute en el medio rural, se le impondrá prisión de cuatro a doce años y de doscientos a cuatrocientos días multa.
-
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2011)</small>
-
-Se equipara al abigeato y se impondrán las penas previstas en este artículo, a quien se apodere de una o más colmenas.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2017)</small>
 
 ###### Artículo 210.
 
-Agravación de pena.- Al que sin tomar las medidas indispensables para cerciorarse de la procedencia legitima de los animales, adquiera ganado producto de abigeato, o comercie con pieles o carnes u otros derivados obtenidos del abigeato, se le impondrá prisión de cinco a doce años y hasta cuatrocientos días multa.
+Agravación de pena.- Se impondrá prisión de ocho a doce años y hasta cuatrocientos días multa.
 
-A las autoridades que intervengan en estas operaciones, sin tomar las mismas medidas, se les impondrán las sanciones que señala el Artículo 209.
+I.- A quien cometa el abigeato en el medio rural;
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+II.- Cuando el abigeato sea cometido por tres o más personas;
+
+III.- Cuando el abigeato sea ejecutado por algún sujeto que tenga relación laboral o de parentesco con el propietario del ganado o bienes objeto de abigeato;
+
+IV.- Cuando el abigeato sea cometido a través de la violencia física;
+
+V.- Cuando el abigeato sea cometido por servidores públicos.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2017)</small>
 
 ###### Artículo 211.
 
-Transportación.- Al que transporte ganado, carne, pieles u otros derivados obtenidos de abigeato, sin haber tomado las medidas necesarias para cerciorarse de su procedencia legitima, se le impondrán de un año a tres años de prisión y hasta trescientos días multa.
+Receptación y Transportación de bienes objeto de Abigeato.- A quienes sin tomar las medidas indispensables para cerciorarse de su procedencia legitima, transporten, posean, adquieran aun gratuitamente o comercien con animales, pieles o carnes u otros productos derivados, o cualquier objeto obtenido del abigeato, se les impondrá de dos a cuatro años de prisión y hasta trescientos días multa.
+
+A los servidores públicos que comentan o intervengan en las conductas a que se refiere este artículo, sin tomar las mismas medidas, se les impondrá prisión de cuatro a ocho años y hasta cuatrocientos días multa.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
@@ -2679,13 +2651,9 @@ Las instituciones y organismos auxiliares de crédito, las de fianza y las de se
 
 X.- Al fiador que habiendo garantizado la libertad por exhibición de garantía económica de un imputado, caiga deliberadamente en insolvencia para impedir que se haga efectiva la caución, a raíz de la revocación del beneficio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE OCTUBRE DE 2012)</small>
 
 XI.- A quien venda o intercambie por algún otro bien, vales de papel o cualquier dispositivo en forma de tarjeta plástica, emitido por personas morales utilizados para intercambiar o canjear bienes y servicios con conocimientos (sic) que son falso.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE OCTUBRE DE 2012)</small>
 
@@ -3429,13 +3397,9 @@ Tipo y punibilidad de falsificación de documentos.- Se impondrá prisión de se
 
 Uso de documentos falsos.- Las mismas penas se impondrán al que, a sabiendas y con los fines a que se refiere el párrafo anterior, haga uso de un documento falso o alterado, o haga uso indebido de un documento verdadero, expedido en favor de otro, como si hubiera sido expedido a su nombre.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE OCTUBRE DE 2012)</small>
 
 De igual forma comete el delito de falsificación el que sin autorización para ello, produzca, imprima, enajene, distribuya o altere vales de papel o cualquier dispositivo electrónico en forma de tarjeta plástica, emitido por personas morales utilizados para canjear bienes y servicios.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2012)</small>
 
@@ -5534,3 +5498,9 @@ P.O. 7 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 647 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UNA FRACCIÓN XVII AL ARTÍCULO 293 DEL CÓDIGO PENAL PARA EL DEL (SIC) ESTADO DE BAJA CALIFORNIA.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 91 MEDIANTE EL CUAL SE APRUEBA LA REFORMA Y ADICIÓN DE LOS ARTÍCULOS 209, 210 Y 211 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+Único.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
