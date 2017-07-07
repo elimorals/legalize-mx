@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-comision-estatal-de-servicios-22970"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-11-16"
-last_updated: "2001-11-16"
+last_updated: "2017-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,1004 +21,844 @@ state: "BCN"
 ---
 # REGLAMENTO INTERNO DE LA COMISION ESTATAL DE SERVICIOS PUBLICOS DE TIJUANA
 
-REGLAMENTO INTERNO DE LA COMISION ESTATAL DE SERVICIOS PUBLICOS DE TIJUANA
+LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
 
-Reglamento publicado en el Periódico Oficial en el Estado de Baja California, el viernes 16 de noviembre de 2001.
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]</small>
 
-LIC. ALEJANDRO GONZALEZ ALCOCER
+Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el jueves 29 de noviembre de 2012.
 
-GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, CON FUNDAMENTO EN EL ARTÍCULO 49 FRACCIONES I Y XVI DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO Y EN LOS ARTÍCULOS 3° y 9º DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO, HE TENIDO A BIEN EXPEDIR EL SIGUIENTE:
+Al margen un sello que dice: Gobierno de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno. Estados Unidos Mexicanos.
 
-REGLAMENTO INTERNO DE LA COMISION ESTATAL DE SERVICIOS PUBLICOS DE TIJUANA
+Emilio González Márquez, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente decreto
 
-### CAPITULO I. DISPOSICIONES GENERALES
+NÚMERO 24156/LIX/12
 
-###### ARTICULO 1o.
+EL CONGRESO DEL ESTADO DECRETA:
 
-El presente Reglamento Interno tiene por objeto definir la estructura orgánica y funcional de la Comisión Estatal de Servicios Públicos de Tijuana.
+SE ATIENDEN LAS OBSERVACIONES REALIZADAS POR EL EJECUTIVO DEL ESTADO A LA MINUTA DE DECRETO 24103/LIX/12, QUE ABROGA LA LEY DE PROTECCIÓN A LOS ANIMALES DEL ESTADO DE JALISCO Y CREA LA LEY DE PROTECCIÓN Y CUIDADO A LOS ANIMALES DEL ESTADO DE JALISCO.
 
-###### ARTICULO 2o.
+###### ARTÍCULO ÚNICO.
 
-Para los efectos del presente Reglamento, se entiende por Ley a la Ley de las Comisiones Estatales de Servicios Públicos del Estado de Baja California, por CESPT a la Comisión Estatal de Servicios Públicos de Tijuana y por Estado al Estado de Baja California.
+Se atienden las observaciones realizadas por el Ejecutivo del Estado a la minuta de decreto 24103/LIX/12, que abroga la Ley de Protección a los Animales del Estado de Jalisco y crea la Ley de Protección y Cuidado de los Animales del Estado de Jalisco.
 
-###### ARTICULO 3o.
+## TÍTULO PRIMERO. Disposiciones generales
 
-La CESPT realizará sus actividades mediante programas, para tal efecto en cada una se precisará la participación que corresponda a las unidades administrativas de la misma y con sujeción a los objetivos estrategias y prioridades del Plan Estatal de Desarrollo. El presupuesto de la CESPT y los lineamientos para su ejecución se sujetarán a la normatividad que el Estado, a través de la Secretaria de Planeación y Finanzas establece para organismos públicos descentralizados.
+### Capítulo I. Normas preliminares
 
-###### ARTICULO 4o.
+###### Artículo 1.
 
-Las atribuciones que le correspondan ejercer a la Dirección
+° La presente ley es de observancia general en el estado de Jalisco, sus disposiciones son de orden público e interés social, y tiene por objeto la protección y el cuidado de los animales mediante:
 
-General serán las contenidas en la Ley y su Reglamento.
+I. La generación e impulso a una cultura de protección a los animales;
 
-###### ARTICULO 5o.
+II. La coordinación y vinculación institucional para un adecuado desempeño de generación de políticas públicas en la materia de protección animal, y
 
-La CESPT podrá establecer las demás unidades y personal administrativo que autorice el Consejo de Administración, de acuerdo con el presupuesto autorizado y sujeto a las normas y lineamiento que dicte el Titular del Poder Ejecutivo del Estado.
+III. La participación de la sociedad para la realización de acciones encaminadas al bienestar animal.
 
-### CAPITULO II. DE LOS SUBDIRECTORES Y JEFES DE UNIDAD
+###### Artículo 2.
 
-###### ARTICULO 6o.
+° Los animales son integrantes de un orden natural cuya preservación es indispensable para la sustentabilidad del desarrollo humano, razón por la cual se les debe proporcionar protección y cuidado conforme a la ley, su reglamento y las disposiciones aplicables.
 
-Para el desempeño de sus funciones los Subdirectores contarán con Jefes de Departamento y demás personal técnico y administrativo, en el caso específico de la Subdirección Comercial contará además con dos Coordinadores de Área. Los Jefes de Unidad podrán contar con Jefes de Departamento y demás personal técnico y administrativo de acuerdo a lo previsto por el Artículo 6to. del presente Reglamento.
+###### Artículo 3.
 
-###### ARTICULO 7o.
+° Son objeto de tutela de esta ley todas las especies de animales; para los efectos de esta ley se entenderá por:
 
-Los Subdirectores y Jefes de Unidad responderán directamente del ejercicio de sus facultades y obligaciones ante el Director General de la CESPT. Los demás servidores públicos lo harán ante su superior inmediato.
+I. Animal doméstico: todas aquellas especies que se ha logrado domesticar y están bajo el cuidado del hombre, exceptuando aquellas que competen a las leyes federales;
 
-###### ARTICULO 8o.
+II. Animal en exhibición: todos aquellos que se encuentran en cautiverio en zoológicos y espacios similares de propiedad pública o privada;
 
-Los Subdirectores y Jefes de Unidad tendrán las facultades y obligaciones siguientes:
+III. Animal para espectáculo: los animales que son utilizados para o en un espectáculo público o privado, fijo o itinerante, bajo el adiestramiento del ser humano, o en la práctica de algún deporte;
 
-I. Informar al Director General de la CESPT sobre el desarrollo de las actividades de las unidades administrativas adscritas, así como resolver previo acuerdo superior los asuntos especiales que se planteen como resultado de sus facultades;
+IV. Animal para la investigación científica: el animal que es utilizado para la generación de nuevos conocimientos, por instituciones científicas;
 
-II. Preparar los asuntos que sean competencia de las mismas y que deban someterse a la consideración del Consejo, previo acuerdo con el Director General de la CESPT;
+V. Animal para monta, carga y tiro: los caballos, yeguas, ponis, mulas, asnos, reses, sus mezclas y demás análogos que son utilizados por el ser humano para transportar personas o productos o para realizar trabajos de tracción y/o que su uso reditúe beneficios económicos a su propietario, poseedor o encargado;
 
-III. Auxiliar al Director General de la CESPT en la tramitación de los asuntos y demás acciones que tenga que desarrollar en cumplimiento de sus funciones;
+VI. Animal silvestre: especies no domésticas sujetas a procesos evolutivos y que se desarrollan ya sea en su hábitat, o poblaciones e individuos de éstas que se encuentran bajo el control del ser humano;
 
-IV. Aplicar mecanismos de coordinación, concertación y colaboración para el debido cumplimiento a los sistemas de documentación, transmisión e intercambio de información;
+VII. Enfermedades zoonóticas: cualquier enfermedad que puede transmitirse de animales a seres humanos;
 
-V. Proponer al Director General de la CESPT la celebración de bases de coordinación, concertación y colaboración con otras Dependencias, Entidades, Instituciones Públicas o Privadas, con el objeto de facilitar el despacho de los asuntos que les corresponda atender;
+VIII. Secretaría: Secretaría de Salud;
 
-VI. Coordinar, supervisar y verificar que la organización, funcionamiento y operación de las unidades administrativas a ellos adscritas, así como los proyectos a Su cargo, se ajusten a las disposiciones legales y administrativas, además formular las observaciones e indicadores derivados de la supervisión, inspección y vigilancia a las mismas unidades;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-VII. Participar en forma activa en los diversos Comités del Organismo, y desempeñar las funciones correspondientes;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
-VIII. Autorizar los procedimientos de trabajo de los departamentos a su cargo;
+IX. Médico: médico veterinario zootecnista titulado con cédula profesional vigente;
 
-IX. Proponer ante el Director General para su aprobación las políticas y funcionamiento de cada una de las áreas que la conforman;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-X. Revisar, validar y dar seguimiento a la parte correspondiente al programa anual de trabajo de las áreas a su cargo;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
-XI. Recopilar, revisar, validar y enviar a la Subdirección de Planeación los indicadores de gestión de las áreas a su cargo;
+X. Consejo: Consejo para la Atención y Bienestar de los Animales del Estado de Jalisco; y
 
-XII. Coordinar la elaboración del presupuesto de egresos de los diferentes departamentos a su cargo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XIII. Dar trámite a los traspasos presupuestales internos para su aprobación correspondiente;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE AGOSTO DE 2015)</small>
 
-XIV. Llevar a cabo las demás actividades que dentro del área de su competencia, se deriven de las disposiciones legales y administrativas aplicables;
+XI. Circo: Espectáculo artístico generalmente itinerante en el que se presentan diversos artistas en un edificio o recinto cubierto o no por una carpa, con gradería para los espectadores, conformado por una o varias pistas.
 
-XV. Trabajar en forma coordinada con los otros subdirectores y Jefes de Unidad en apoyo para el logro de los objetivos del Organismo;
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2014)</small>
 
-XVI. Promover entre el personal a su cargo la búsqueda de la eficiencia a través de la mejora continua;
+###### Artículo 3° Bis.
 
-XVII. Ejercer las demás facultades que le sean delegadas por el Director General y;
+Los aspectos fundamentales para la protección y el debido cuidado de los animales por parte de las autoridades con la participación de la sociedad son los siguientes:
 
-XVIII. Las demás que le señale este reglamento u otra disposición aplicable.
+I. La salud;
 
-###### ARTICULO 10.
+II. La alimentación; y
 
-Corresponden a los Jefes de Departamento el ejercicio de las siguientes facultades y obligaciones:
+III. El buen trato.
 
-I. Elaborar el programa anual de trabajo del área a su cargo y entregar mensualmente el avance respectivo;
+### Capítulo II. De la competencia
 
-II. Elaborar presupuesto anual de gastos del área a su cargo;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
-III. Elaborar y presentar al Subdirector los informes estadísticos de Indicadores de Gestión de cada una de las áreas a su cargo;
+###### Artículo 4.
 
-IV. Supervisar y coordinarse junto con el personal a su cargo para el alcance de metas del departamento;
+° Corresponde a la Secretaría de Medio Ambiente y Desarrollo Territorial el ejercicio de las siguientes facultades:
 
-V. Elaborar y presentar para su autorización al Subdirector los procedimientos de trabajo del área a su cargo y; (sic)
+I. Celebrar convenios de coordinación con las autoridades federales y municipales para la generación de políticas públicas en materia de protección animal, así como para el cumplimiento de los ordenamientos en la materia;
 
-VI. Ejercer las facultades que le sean delegadas por el Subdirector o el Coordinador de Area según corresponda y;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-VII. Las demás que le señale este reglamento u otra disposición aplicable.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
-###### ARTICULO 11.
+II. La promoción de información y difusión que genere una cultura cívica de protección a favor de los animales;
 
-Corresponden a la Subdirección de Planeación las siguientes atribuciones:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-I. Coordinar la elaboración e implantación de proyectos de consolidación del Organismo;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
-II. Analizar y evaluar los sistemas administrativos de la CESPT para reestructurar y mejorar las prácticas administrativas;
+III. Promover la colocación de animales que se utilicen en espectáculos circenses dentro (sic) lugares apropiados para su debida preservación y conservación;
 
-III. Coadyuvar a las diferentes áreas operativas de la CESPT en el mejoramiento e implantación de sus procedimientos operativos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-IV. Establecer un enlace de comunicación e integración de los departamentos a su cargo con el resto del organismo;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE AGOSTO DE 2015)</small>
 
-V. Coordinar oportunamente la elaboración del proyecto de presupuesto anual de ingresos y egresos del Organismo, para sus aprobaciones correspondientes;
+IV. Presentar denuncias ante la Procuraduría Federal de Protección al Ambiente cuando detecte violaciones a las leyes federales de la materia; y
 
-VI. Coordinar los proyectos y programas en las distintas áreas evaluando su avance y en caso de inconsistencias darle seguimiento hasta su corrección o justificación;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-VII. Proporcionar apoyo para la evaluación financiera de los proyectos de inversión en las distintas áreas;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE AGOSTO DE 2015)</small>
 
-VIII. Establecer los formatos en los que deben de registrarse los Indicadores de Gestión, para su presentación ante el Director General;
+V. Las demás que le confieran esta ley y demás ordenamientos jurídicos aplicables.
 
-IX. Analizar y recomendar mejoras en la obtención de los indicadores gerenciales;
+###### Artículo 5.
 
-X. Trabajar en conjunto con los Subdirectores y Jefes de Unidad, en (sic) el propósito de incrementar la eficiencia y eficacia en la administración de procesos;
+° Corresponde a la Secretaría de Educación del Estado de Jalisco:
 
-XI. Presentar ante el Consejo de Administración las creaciones o modificaciones a la estructura organizacional que se requiera;
+I. El fomento y difusión de las actividades ecológicas y que propicien una cultura de respeto y protección a los animales;
 
-XII. Coordinar y supervisar la elaboración y actualización de los manuales de: organización, de servicios al público y de procedimientos del Organismo;
+II. Impulsar la creación de programas de mejoramiento del medio ambiente, preservación ecológica y protección y cuidado a los animales, que sean implementados dentro de los planteles de educación en todos los niveles;
 
-XIII. Validar y enviar la información requerida por otras instituciones gubernamentales y no gubernamentales;
+III. Vigilar que en los planteles educativos de tipo básico no se efectúen prácticas o experimentos con animales, así como supervisar que las prácticas de vivisección y experimentación realizadas con animales vivos en las instituciones educativas de tipo medio superior y superior que son de su competencia se efectúen con apego a lo dispuesto por el Capítulo del Título Tercero de esta ley, y en su caso, aplicar las sanciones que correspondan, y
 
-XIV. Coordinar los proyectos de nuevas fuentes de abastecimiento y reuso de aguas residuales, así como nuevas tecnologías que busquen la eficiencia del sistema hidráulico, el ahorro del agua y de energía eléctrica y;
+IV. Las demás que esta ley y demás ordenamientos jurídicos aplicables le confieran.
 
-XV. Las demás que le señale este reglamento u otra disposición aplicable.
+###### Artículo 6.
 
-###### ARTICULO 12.
+° Corresponde a la Secretaría de Salud del Estado de Jalisco:
 
-Para el cumplimiento de las atribuciones conferidas a la Subdirección de Planeación, ésta contará con los Departamentos de Organización y Métodos, Control y Distribución Central, Evaluación y Control y Planeación de la Operación.
+I. Vigilar que el manejo de animales se realice en condiciones que no afecten su salud;
 
-### CAPITULO III. DE LOS COORDINADORES DE AREA
+II. Expedir la licencia sanitaria e inspeccionar los establecimientos donde se realice la cría, atención veterinaria, venta y adiestramiento de animales, o cualquier otro donde se utilicen o aprovechen animales para cualquier fin lícito;
 
-###### ARTICULO 9o.
+III. La regulación y el control sanitario de establos, granjas, zahúrdas y demás establecimientos de cría o explotación de animales;
 
-Corresponden a los Coordinadores de Área el ejercicio de las siguientes facultades y obligaciones:
+IV. La creación de los centros antirrábicos, en coordinación con los ayuntamientos;
 
-I. Supervisar el desarrollo de las actividades para la consecución de las metas de cada uno de los departamentos adscritos a la coordinación;
+V. Realizar campañas de vacunación antirrábica, sanitarias para el control y erradicación de enfermedades zoonóticas y de esterilización;
 
-II. Establecer un enlace de comunicación e integración de los departamentos a su cargo con el resto del organismo;
+VI. Vigilar que cuando se lleven a cabo sacrificios humanitarios de animales, investigación científica, así como campañas de esterilización de animales, éstas se realicen de acuerdo con las Normas Oficiales Mexicanas, así como con los ordenamientos en materia de protección animal;
 
-III. Analizar, definir y proponer ante el Subdirector, conjuntamente con los Jefes de Departamento adscritos a la coordinación, políticas y mecanismos de solución a los problemas que presenten cada una de las áreas que la conforman;
+VII. Presidir el Consejo para la Atención y Bienestar de los Animales del Estado de Jalisco, y
 
-IV. Coordinar el trabajo diario interrelacionado de los diferentes departamentos a su cargo;
+VIII. Las demás que esta ley y los demás ordenamientos jurídicos aplicables le confieran.
 
-V. Coordinar la elaboración del presupuesto de egresos de los diferentes departamentos a su cargo;
+###### Artículo 7.
 
-VI. Informar periódicamente al Subdirector de las actividades y avances de los diferentes proyectos asignados a la coordinación;
+° Corresponde a la Secretaría de Desarrollo Rural del Estado de Jalisco:
 
-VII. Revisar conjuntamente con los Jefes de Departamento las necesidades de traspasos o incrementos presupuestales internos, antes de ser turnados para su trámite con el Subdirector;
+I. Otorgar, a través del inspector de ganadería, las órdenes de sacrificio de las especies domésticas productivas;
 
-VIII. Ejercer las facultades que le sean delegadas por el Subdirector y;
+II. Inspeccionar los rastros y otros lugares donde se sacrifiquen especies domésticas productivas, para verificar el estricto apego a las normas de la materia, y
 
-IX. Las demás que le señale este reglamento u otra disposición aplicable.
+III. Las demás que establezcan la presente ley, los convenios que celebre el titular del Poder Ejecutivo del Estado, la Ley de Fomento y Desarrollo Pecuario del Estado de Jalisco y demás normatividades aplicables.
 
-###### ARTICULO 13.
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2014)</small>
 
-Corresponden al Departamento de Organización y Métodos las siguientes atribuciones:
+###### Artículo 7° Bis.
 
-I. Supervisar la elaboración y actualización de los procedimientos de trabajo del Organismo de acuerdo a los formatos establecidos por la Subdirección de Planeación;
+Corresponde a las Agencias del Ministerio Público en materia de violencia contra los animales:
 
-II. Elaborar un plan de trabajo de revisiones periódicas de los procedimientos de las áreas;
+I. Auxiliarse de peritos del Instituto Jalisciense de Ciencias Forenses en materia de medicina veterinaria y zootecnia, biología, o de carreras afines para los delitos contra los animales; y
 
-III. Actualizar el manual de organización, de procedimientos y el de servicios al público;
+II. Las demás establecidas en la Ley Orgánica de la Fiscalía General del Estado de Jalisco, y disposiciones legales, reglamentarias y normativas aplicables.
 
-IV. Actualizar de manera periódica la estructura orgánica del Organismo previa autorización correspondiente;
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2014)</small>
 
-V. Realizar estudios de tiempos y movimientos para la reestructuración y mejora de los procesos que se llevan a cabo en el Organismo y;
+###### Artículo 7° Ter.
 
-VI. Las demás que le señale este reglamento u otra disposición aplicable.
+Corresponde a la Fiscalía General del Estado en coordinación con los municipios, las siguientes facultades:
 
-###### ARTICULO 14.
+I. Crear y operar la Unidad Especializada de Protección Animal, conforme a su capacidad presupuestal, la cual estará integrada por personal capacitado en las materias de medicina veterinaria, biología o carreras afines;
 
-Corresponden al Departamento de Control y Distribución Central las siguientes atribuciones:
+II. La vigilancia y prevención de los delitos derivados de actos de violencia contra los animales;
 
-I. Elaborar reportes confiables y oportunos para las áreas que integran el proceso de atención y ejecución de servicios al público;
+III. Intervenir en los casos de delitos de violencia y crueldad en contra de animales y, en su caso, poner a disposición de las autoridades municipales, estatales o federales los animales maltratados para su resguardo, lo anterior conforme las disposiciones legales aplicables; y
 
-II. Recopilar y elaborar el documento de indicadores gerenciales y datos básicos del Organismo;
+IV. Las demás establecidas en la presente ley, en la Ley Orgánica de la Fiscalía General del Estado de Jalisco, y en las disposiciones legales, reglamentarias y normativas aplicables.
 
-III. Elaborar reportes confiables y oportunos, de la información a su cargo, para las áreas que así lo requieran;
+###### Artículo 8.
 
-IV. Apoyar a los módulos de atención a usuarios, con información adicional como soporte y;
+° Corresponde a los municipios el ejercicio de las siguientes facultades:
 
-V. Las demás que le señale este reglamento u otra disposición aplicable.
+I. La celebración de convenios de colaboración con las autoridades estatales y federales, con los sectores social y privado, y asimismo con las organizaciones dedicadas a los animales, con el objeto de brindar cuidado y protección de los animales;
 
-###### ARTICULO 15.
+II. Crear y operar el Padrón de las Asociaciones Protectoras de Animales y de Organizaciones Sociales dedicadas al mismo objeto, como instrumento que permita conocer su número y actividades que realicen, así como para que participen en la realización de las tareas definidas en la presente ley;
 
-Corresponden al Departamento de Evaluación y Control las siguientes atribuciones:
+III. Asistir de manera voluntaria, con voz, a las sesiones del Consejo;
 
-I. Elaborar mensualmente el documento de avance de objetivos y metas del Organismo, así como analizar e identificar las inconsistencias de esta información;
+IV. Suscribir convenios de coordinación con las organizaciones ciudadanas dedicadas a la protección a los animales para el desarrollo de programas de educación y difusión en las materias de la presente ley;
 
-II. Preparar información relevante del Organismo requerida por diferentes instituciones gubernamentales y no gubernamentales, con la periodicidad solicitada;
+V. Crear y operar los centros de control animal en los municipios;
 
-III. Recopilar y capturar la información del presupuesto de egresos de las diferentes áreas que conforman al Organismo, así como elaborar la presentación del proyecto del presupuesto anual por programas y;
+VI. Intervenir, en los casos de crueldad en contra de animales, en el rescate de los especímenes maltratados y en la aplicación de las sanciones que correspondan;
 
-IV. Las demás que señalen este reglamento u otras disposiciones aplicables.
+VII. Proceder al sacrificio humanitario de los animales en los términos de la presente ley;
 
-###### ARTICULO 16.
+VIII. Autorizar e inspeccionar lo relativo a la cría, venta de animales y sus productos, atención médica, albergues, adiestramiento, así como cualquier otra actividad o establecimiento relacionados con el apoyo, uso o aprovechamiento de los animales;
 
-Corresponden al Departamento de Planeación de la Operación las siguientes atribuciones:
+IX. Aplicar, en su caso, la normatividad técnica mexicana relativa al sacrificio y transporte de animales y aquella que tenga relación con los objetivos de esta ley;
 
-I. Identificar proyectos de nuevas fuentes de abastecimiento que garanticen la continuidad en el suministro de agua de la población;
+X. Promover la participación de las personas, las asociaciones protectoras de animales y las organizaciones sociales, las instituciones académicas y de investigación en las acciones relacionadas con la protección y cuidado de los animales;
 
-II. Identificar proyectos de reuso de aguas residuales, para la optimización del recurso agua (sic) en la población;
+XI. Controlar el crecimiento de las poblaciones de aves urbanas empleando sistemas inofensivos o reubicarlas, cuando resulte necesario para evitar que causen problemas a las estructuras, edificaciones, obras artísticas y demás análogas en áreas públicas;
 
-III. Investigar nueva tecnología que permita la eficiencia de la infraestructura hidráulica;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-IV. Buscar tecnología que permita el ahorro de agua en residencias, comercios, industrias y gobierno;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
-V. Establecer metodologías para la planificación y programación de las actividades del área del área de operación;
+XII. Controlar la formación de poblaciones federales (sic) mediante estrategias que no provoquen sufrimiento en los animales, para evitar daños en las personas, cosas u otros animales;
 
-VI. Buscar, planear y coordinar proyectos que permitan el ahorro de consumo en energía eléctrica y;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-VII. Las demás que señalen este reglamento u otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
-###### ARTICULO 17.
+XIII. La autoridad municipal competente, deberá asegurar que en el otorgamiento de licencia o permiso para la instalación de circos, se acredite que no exhiban o utilicen ningún animal para la ejecución del espectáculo;
 
-Corresponden a la Subdirección de Operación y Mantenimiento las siguientes atribuciones:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-I. Proporcionar la prestación eficiente de los servicios de agua potable y de alcantarillado sanitario a la población, optimizando los recursos hidráulicos con los que cuenta el Organismo;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE AGOSTO DE 2015)</small>
 
-II. Coordinar el diseño de estrategias, análisis e instrumentación de acciones y la ejecución de programas específicos vinculados con las necesidades de infraestructura hidráulica, coordinándose en lo que corresponda a los sistemas foráneos existentes;
+XIV. Presentar denuncias ante la Procuraduría Federal de Protección al Ambiente cuando detecte violaciones a las leyes federales de la materia; y
 
-III. Proporcionar un desarrollo hidráulico más equilibrado a través de proyectos que cumplan con las normas y especificaciones previamente establecidas y acordes con las prioridades y planes de desarrollo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-IV. Revisar, autorizar y dar seguimiento a los programas generales de agua potable y de operación y mantenimiento de los sistemas hidráulicos existentes, bajo principios de prevención, control y protección a la salud;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE AGOSTO DE 2015)</small>
 
-V. Participar en la planeación y determinación de las necesidades existentes relativas a la construcción de obras de prevención, reposición, ampliación y de control de los sistemas hidráulicos;
+XV. Las demás que por disposición legal le correspondan.
 
-VI. Acordar actividades y medidas que permitan la programación y acción coordinada con diferentes Organismos que deban intervenir con la CESPT en materia hidráulica;
+###### Artículo 9.
 
-VII. Asesorar técnicamente dentro del ámbito de su competencia al Director General de la CESPT;
+° A quienes con motivo de la explotación de su giro comercial deban poseer algún animal de manera permanente, en su caso, se condicionará el otorgamiento y refrendo de la licencia municipal a la ejecución de un programa de bienestar animal conforme al convenio celebrado.
 
-VIII. Establecer un enlace de comunicación e integración de los departamentos a su cargo con el resto del organismo y; (sic)
+###### Artículo 10.
 
-IX. Coordinar los trabajos de mantenimiento preventivo, correctivo, mejoras y/o modificaciones de las instalaciones electromecánicas del sistema de abastecimiento de agua potable, alejamiento y tratamiento de las aguas residuales;
+Cuando por cualquier motivo los animales queden bajo la responsabilidad de las autoridades, serán alimentados y se procurará proporcionarles alojamiento amplio y ventilado, bebederos, y temperatura adecuada a la especie de acuerdo con lo establecido en la Norma Oficial Mexicana, hasta que sean entregados o sacrificados después del término que cada autoridad decida de acuerdo con las circunstancias de cada municipio, lo que en ningún caso podrá realizarse antes de los cinco días de que haya quedado a su disposición.
 
-X. Las demás que le señale este reglamento u otra disposición aplicable.
+###### Artículo 11.
 
-###### ARTICULO 18.
+Tratándose de animales domésticos que hayan sido ingresados a los centros de control animal, éstos tendrán la obligación, en los términos del reglamento correspondiente, de buscar al propietario mediante las formas de identificación que tenga el animal; transcurridos cinco días sin que sea recogido el animal por su dueño, éste podrá ser entregado en adopción a alguna persona o asociación que asuma la responsabilidad de cuidarlo.
 
-Para el cumplimiento de las atribuciones conferidas a la Subdirección de Operación y Mantenimiento, esta contará con los Departamento (sic) de Mantenimiento de Redes, Control Operacional, Electromecánico y Agua Potable.
+###### Artículo 12.
 
-###### ARTICULO 19.
+La captura de animales domésticos en la vía pública sólo puede realizarse cuando los animales deambulen sin dueño aparente, y que por sus condiciones de higiene y salud sea evidente que se trata de animales abandonados o extraviados.
 
-Corresponden al Departamento de Mantenimiento de Redes las siguientes atribuciones:
+## TÍTULO SEGUNDO. De la participación social
 
-I. Reparar fugas de agua potable en redes, tomas y en cuadro del medidor;
+### Capítulo I. Del Consejo para la Atención y Bienestar de los Animales del Estado de Jalisco
 
-II. Instalar tomas, descargas y medidores en diferentes diámetros;
+###### Artículo 13.
 
-III. Reponer medidores y válvulas de seccionamiento de diferentes diámetros; asi como, tomas, descargas y redes de agua potable y alcantarillado sanitario, en tramos menores de 100 m., de longitud o conforme a las políticas establecidas por el Organismo;
+El Consejo para la Atención y Bienestar de los Animales del Estado de Jalisco, es un órgano de coordinación institucional y participación y colaboración ciudadana, cuya integración se realizará a convocatoria de la Secretaría de Salud, misma que presidirá el Consejo y que tendrá como finalidad principal establecer acciones programáticas y fijar líneas de políticas zoológicas, ambientales y de sanidad, a efecto de garantizar la protección y el cuidado de los animales del estado de Jalisco.
 
-IV. Cumplir con los plazos de atención; asi como, con los tiempos estándares establecidos por el Organismo, en la ejecución de los servicios;
+###### Artículo 14.
 
-V. Ejecutar los cortes, reconexiones y las acciones inherentes a esta actividad según le sea solicitado por la Subdirección Comercial;
+El Consejo estará integrado de la siguiente manera:
 
-VI. Cumplir con los programas de metas anuales de los mantenimientos preventivos y correctivos, tanto para agua potable como para alcantarillado sanitario y;
+I. Un representante de cada una de las secretarías de:
 
-VII. Las demás que le señale este reglamento u otra disposición aplicable.
+a) Salud, quien presidirá el Consejo;
 
-###### ARTICULO 20.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
-Corresponde al Departamento de Control Operacional las siguientes atribuciones:
+b) Medio Ambiente y Desarrollo Territorial;
 
-I. Llevar a cabo los programas de diagnóstico de redes de agua potable, alcantarillado sanitario, reposiciones y rehabilitaciones, a fin de hacer eficiente la operación y el mantenimiento de los sistemas hidráulicos;
+c) Educación Pública, y
 
-II. Mantener actualizados el catastro de redes e instalaciones hidráulicas;
+d) Desarrollo Rural.
 
-III. Implantar los distritos hidrométricos, los programas de pitometría, macromedición y localización de fugas no visibles y;
+II. Cinco representantes de las asociaciones protectoras de animales registradas, y
 
-IV. Las demás que le señale este reglamento u otra disposición aplicable.
+III. Un Secretario Técnico.
 
-###### ARTICULO 21.
+Por lo que corresponde a los integrantes de las fracciones II y III, tendrán presencia permanente en las sesiones y contara (sic) con voz en las sesiones de las mismas.
 
-Corresponden al Departamento Electromecánico las siguientes atribuciones:
+###### Artículo 15.
 
-I. Ejecutar los trabajos de mantenimiento preventivo, correctivo, mejoras y/o modificaciones de las instalaciones electromecánicas del sistema de abastecimiento de agua potable, alejamiento y tratamiento de las aguas residuales;
+El Consejo tendrá las siguientes facultades y obligaciones:
 
-II. Ejecutar acciones tendientes al ahorro de consumo de la energía eléctrica de las diferentes instalaciones del Organismo;
+I. Vigilar por que se cumpla el presente ordenamiento;
 
-III. Coordinarse de manera permanente con la Comisión Federal de Electricidad para todos los trámites correspondientes, para el funcionamiento del sistema hidráulico;
+II. Proponer campañas y estrategias a favor del control y protección a los animales;
 
-IV. Realizar los trabajos de protección catódica en las reparaciones de los diferentes acueductos de agua potable que opera la CESPT;
+III. Promover la cultura de la adopción de los animales;
 
-V. Apoyar a las diferentes áreas del Organismo en las reparaciones de fugas tanto de agua potable, como de aguas residuales, en tuberías de acero, así como en la elaboración y fabricación de piezas especiales de acero para las diferentes instalaciones que requiera el Organismo y;
+IV. Definir e instrumentar, en coordinación con los gobiernos municipales, las políticas públicas que habrán de regir en materia de protección animal;
 
-VI. Las demás que le señale este reglamento u otra disposición aplicable.
+V. Proponer a los municipios o, en su caso, implementar las campañas de difusión que se realicen en materia de control y protección a los animales;
 
-### CAPITULO IV. DE LOS JEFES DE DEPARTAMENTO
+VI. Fomentar la práctica de las actividades que propicien una cultura de respeto y protección animal;
 
-###### ARTICULO 22.
+VII. La promoción de campañas de esterilización a animales domésticos;
 
-Corresponden al Departamento de Agua Potable las siguientes atribuciones:
+VIII. El desarrollo de las acciones establecidas en los convenios que la Secretaría establezca con los sectores sociales, privado, académico y de investigación en la materia de protección animal;
 
-I. Mantener la operación contínua de las instalaciones hidráulicas de agua potable, verificando que se cumplan las normas de calidad establecidas por las autoridades correspondientes;
+IX. El fomento a la creación de Centros de Control Animal, que tendrán como objetivo principal la atención médica preventiva y curativa, las campañas de esterilización como medio para lograr el control de las especies domésticas, y en general las de mejoramiento del bienestar animal, priorizando estas acciones por encima del sacrificio;
 
-Il. Operar la red de acueductos y tanques principales de agua potable, plantas potabilizadoras, pozos y el control de calidad del agua que se suministra a la población;
+X. El fomento a la creación de manuales de cuidados realizados por los ayuntamientos, y
 
-III. Operar y mantener el sistema de telemetría de las instalaciones de agua potable;
+XI. Las demás que se desprendan del presente ordenamiento.
 
-IV. Reparar fugas de tanques y válvulas rompedoras de presión;
+El Consejo sesionará por lo menos una vez cada tres meses y funcionará conforme a lo dispuesto por su propio reglamento y el plan de trabajo, que serán emitidos por el mismo.
 
-V. Realizar el monitoreo, análisis físico-químico y bacteriológico del agua potable que se suministra al sistema y;
+###### Artículo 16.
 
-VI. Las demás que le señale este reglamento u otra disposición aplicable.
+Los representantes de las entidades que formen parte del Consejo serán designados por los titulares de sus respectivas dependencias, mismos que tendrán conocimientos en el tema de protección animal.
 
-###### ARTICULO 23.
+Los cargos de los integrantes del Consejo serán honoríficos.
 
-Corresponden a la Subdirección de Saneamiento las siguientes atribuciones
+###### Artículo 17.
 
-I. Proporcionar la prestación eficiente de los servicios de alejamiento, tratamiento y disposición final de las aguas residuales que se generan;
+El procedimiento para la determinación de los representantes de las asociaciones protectoras de animales que habrán de acudir a las sesiones del Consejo, quedará establecido en el reglamento correspondiente.
 
-II. Trabajar de manera conjunta con la Subdirección de Planeación en los proyectos y programas de reuso de aguas residuales;
+###### Artículo 18.
 
-III. Participar en la planeación y determinación de las necesidades existentes relativas a la instalación y rehabilitación, de las plantas de tratamiento de aguas residuales;
+Los titulares de las dependencias que de acuerdo con este ordenamiento deban estar representadas, designarán a los servidores públicos que cubrirán las ausencias transitorias o definitivas de los inicialmente nombrados.
 
-IV. Participar en los programas y proyectos del saneamiento integral de la zona fronteriza Tijuana-San Diego con las autoridades correspondientes de ambos países;
+###### Artículo 19.
 
-V. Coordinar, en conjunto con las autoridades correspondientes lo relativo a los programas de control de descargas industriales, comerciales y de servicios;
+El titular de la Secretaría suplirá, de acuerdo con los lineamientos que el reglamento interior establezca, las ausencias temporales o definitivas de los ciudadanos invitados a participar en el Consejo.
 
-VI. Coordinar en conjunto con la Subdirección de Operación y Mantenimiento los programas de trabajo de mantenimiento preventivo y correctivo de las instalaciones electromecánicas;
+###### Artículo 20.
 
-VII. Establecer un enlace de comunicación e integración de los departamentos a su cargo con el resto del Organismo y;
+El Secretario Técnico del Consejo será designado por el titular de la Secretaría y gravitará en el presupuesto de la misma.
 
-VIII. Las demás que señalen este reglamento u otras disposiciones aplicables.
+###### Artículo 21.
 
-###### ARTICULO 24.
+El Consejo tendrá la facultad de convocar a gobiernos municipales, así como a ciudadanos expertos en la materia, con el fin de desarrollar de manera eficiente los temas propuestos y aportar sus conocimientos y experiencia, los cuales contarán con voz dentro de las sesiones correspondientes.
 
-Para el cumplimiento de las atribuciones conferidas a la Subdirección de Saneamiento, esta contará con el Departamento de Control de Descargas, Departamento de Tratamiento y Departamento de Alejamiento y Mantenimiento.
+Lo anterior sin menoscabo del interés de los gobiernos municipales de acudir a la sesiones, sólo con voz, en la consolidación de las acciones que de manera coordinada se realicen.
 
-###### ARTICULO 25.
+### Capítulo II. De las asociaciones y organizaciones protectoras de animales
 
-Corresponden al Departamento de Control de Descargas de Aguas Residuales las siguientes atribuciones:
+###### Artículo 22.
 
-I. Realizar los programas de monitoreo y análisis físico-químico y bacteriológicos de las aguas residuales;
+Las asociaciones podrán registrarse en el padrón de asociaciones protectoras de animales y organizaciones sociales dedicadas al mismo fin en los ayuntamientos, con la finalidad de colaborar con las autoridades correspondientes en el cumplimiento de las acciones encaminadas al bienestar de los animales.
 
-II. Interpretar el análisis físico-químico y bacteriológico de aguas residuales;
+###### Artículo 23.
 
-III. Mantener una comunicación permanente con las autoridades correspondientes en lo relativo a la normatividad del control de descargas;
+Los gobiernos municipales deberán proporcionar a las asociaciones y las organizaciones protectoras de animales toda la información necesaria para el seguimiento de un procedimiento de protección animal, en los términos de la ley de información vigente.
 
-IV. Apoyar a las autoridades normativas en la ejecución de los programas de control de descargas;
+###### Artículo 24.
 
-V. Coordinar en conjunto con el Departamento de Alejamiento y Mantenimiento de Aguas Residuales para llevar a cabo el muestreo y análisis de los lodos y;
+En los Centros de Control Animal, en los albergues y en los establecimientos públicos donde se manejen animales o se sacrifiquen se autorizará la presencia de por lo menos tres representantes de asociaciones protectoras de animales debidamente registradas, para que observen las condiciones de su trato y sacrificio humanitario y, en su caso, emitir recomendaciones.
 
-VI. Las demás que señalen este reglamento u otras disposiciones aplicables:
+###### Artículo 25.
 
-### CAPITULO V. ATRIBUCIONES DE LAS UNIDADES ADMINISTRATIVAS
+Con la autorización del gobierno municipal las asociaciones protectoras de animales podrán participar en coadyuvancia en cualquiera de las siguientes actividades:
 
-###### ARTICULO 26.
+I. Remitir animales domésticos a los centros públicos de control animal municipal o, en su caso, a sus refugios o albergues legalmente autorizados, si existe espacio disponible;
 
-Corresponden al Departamento de Tratamiento de Aguas Residuales las siguientes atribuciones:
+II. Realizar el sacrificio humanitario de animales domésticos, siempre y cuando cuenten con el personal debidamente capacitado y autorizado para dicho fin por los ayuntamientos;
 
-I. Mantener de manera eficiente la operación de las plantas de tratamiento de aguas residuales del Organismo;
+III. Abrir y atender refugios de animales domésticos con el objeto de darlos en adopción y cumpliendo con las disposiciones establecidas por los ayuntamientos, y
 
-II. Coordinar la ejecución de los trabajos de mantenimiento preventivo y correctivo civil; con el Jefe de Departamento de Alejamiento y Mantenimiento de Aguas Residuales;
+IV. Realizar campañas de esterilización de animales domésticos abandonados.
 
-III. Proponer proyectos y programas para el reuso de aguas residuales tratadas;
+### Capítulo IV (SIC). De la cultura para la protección a los animales
 
-IV. Apoyar a las dependencias correspondientes, con los análisis de la calidad de agua de las plantas de tratamiento operadas por particulares y que descargan fuera del sistema de alcantarillado;
+###### Artículo 26.
 
-V. Detectar y plantear las necesidades de nuevas plantas de tratamiento de aguas residuales y rehabilitación y ampliación de las existentes;
+Las autoridades estatales y municipales, en el ámbito de sus facultades, promoverán mediante programas y campañas de difusión la cultura de cuidado y protección a los animales.
 
-VI. las demás que señalen este reglamento u otras disposiciones aplicables.
+###### Artículo 27.
 
-###### ARTICULO 27.
+La Secretaría, en coordinación con los municipios, impartirá cursos, talleres de capacitación y actualización en el manejo de animales.
 
-Corresponden al Departamento de Alejamiento y Mantenimiento de Aguas Residuales las siguientes atribuciones:
+## TÍTULO TERCERO. De las medidas de cuidado y protección de los animales
 
-I. Mantener de manera eficiente la operación de las plantas y cárcamos de bombeo y líneas de conducción de alejamiento de aguas residuales del Organismo, así como, el manejo integral de lodos;
+### Capítulo I. Del cuidado de los animales
 
-II. Llevar a cabo los programas de mantenimiento civil de las instalaciones y desazolve de plantas y cárcamos de bombeo;
+###### Artículo 28.
 
-III. Realizar adecuadamente el transporte de los lodos, arenas y azolves hacia el sitio de disposición final de lodos;
+Toda persona que compre o adquiera por cualquier medio un animal está obligada a cumplir con las disposiciones correspondientes establecidas en la presente ley y demás ordenamientos jurídicos aplicables.
 
-IV. Operar eficientemente el sitio de disposición final de lodos;
+###### Artículo 29.
 
-V. Coordinar en conjunto con el Departamento de Control de Descargas el muestreo y análisis de los lodos;
+Está prohibido realizar cualquier acto que lesione y provoque sufrimiento a los animales.
 
-VI. Coordinar la ejecución de los trabajos de mantenimiento preventivo y correctivo civil de las plantas de tratamiento, con el Jefe de Departamento de Tratamiento de Aguas Residuales;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-VII. Investigar y proponer alternativas para el manejo adecuado y disposición final de los lodos y arenas provenientes de las plantas de bombeo y tratamiento de aguas residuales y azolves del alcantarillado sanitario y;
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
-VIII. Las demás que señalen este reglamento u otras disposiciones aplicables.
+###### Artículo 29
 
-### CAPITULO VI. DE LA SUPLENCIA DE LOS SERVIDORES PUBLlCOS
+Bis. Quedan estrictamente prohibidos los espectáculos circenses ya sean públicos o privados, en los cuales exhiban o utilicen animales cualquiera que sea su especie.
 
-###### ARTICULO 28.
+###### Artículo 30.
 
-Corresponden a la Subdirección de Construcción las siguientes atribuciones:
+Toda persona que no pueda hacerse cargo de su mascota está obligada a buscarle alojamiento y cuidado y bajo ninguna circunstancia podrá abandonarla en la vía pública o en zonas rurales.
 
-I. Autorizar el pago de anticipos, estimaciones, escalatorias y demás que sé deriven de la construcción de obras a través de contratistas;
+###### Artículo 31.
 
-II. Autorizar los precios unitarios extraordinarios de los contratos de obra vigentes;
+Tratándose de padres, tutores o los que ejerzan la patria potestad, serán responsables del trato que los menores o incapaces les den a los animales; haciéndose acreedores a las sanciones correspondientes y a resarcir los daños y perjuicios en los casos en que el animal cause daños a terceros las cosas o a otros animales lo anterior con apego a lo establecido en este ordenamiento, el Código Civil del Estado de Jalisco o, en su caso, la legislación penal vigente.
 
-III. Validar los diferentes trámites relativos a los contratos de obra;
+###### Artículo 32.
 
-IV. Revisar y validar el control físico-financiero de las obras que ejecuta el Organismo y particulares, de agua potable, alcantarillado sanitario y saneamiento;
+La propiedad o posesión de cualquier animal obliga al responsable a inmunizarlo contra enfermedades de riesgo zoonótico o epizoótico propias de la especie.
 
-V. Analizar y coordinar la elaboración de los proyectos ejecutivos de obras de saneamiento, ampliación de la cobertura de las redes de agua potable y alcantarillado sanitario así como de las reposiciones y rehabilitaciones de las mismas;
+###### Artículo 33.
 
-VI. Revisar, validar y dar seguimiento al proceso de licitación y adjudicación de obras para su ejecución conforme a la normatividad vigente;
+Cualquier persona que tenga conocimiento de un acto, hecho u omisión en perjuicio de los animales objeto de tutela de la presente ley, tiene el deber de informar a la autoridad competente de la existencia del mismo, y la autoridad competente deberá acudir de manera inmediata a verificar la existencia del acto, omisión o hecho que fue denunciado.
 
-VII. Autorizar los proyectos de los nuevos desarrollos urbanos;
+### Capítulo II. De la atención médica a los animales domésticos
 
-VIII. Validar la construcción de los sistemas de agua potable y alcantarillado sanitario de nuevos desarrollos a través de terceros;
+###### Artículo 34.
 
-IX. Validar la entrega física a las Subdirecciones de Operación y Mantenimiento y de Saneamiento, de las obras ejecutadas por particulares o a través de terceros y supervisadas por esta misma Subdirección;
+Las autoridades municipales atenderán a los siguientes lineamientos para el caso de la atención médica que se proporcione en los hospitales, clínicas y consultorios, los que deberán cumplir con los presentes requisitos:
 
-X. Verificar que se cumplan las especificaciones en materiales en las obras que se ejecuten de agua potable y alcantarillado sanitario;
+I. Estar a cargo de un médico, quien será el responsable del manejo médico;
 
-XI. Proponer ante el Director General para su autorización o negación las opiniones técnicas de desarrollo de nuevos proyectos;
+II. Contar con la licencia municipal correspondiente;
 
-XII. Coordinar la elaboración de los programas normales de obra que deberá realizar la CESPT en la introducción de los servicios de agua potable y alcantarillado sanitario y saneamiento;
+III. Contar con licencia sanitaria;
 
-XIII. Coordinar que las actividades relativas a la ejecución de las obras, se den acordes a la normatividad establecida y a lo especificado en los contratos correspondientes;
+IV. Tener los recursos materiales y humanos para la debida atención de los animales y disponer de espacios adecuados que les permita moverse con comodidad cuando sean hospitalizados;
 
-IX (SIC). Coordinar la ejecución de trabajos emergentes tales como: reposiciones, rehabilitaciones, obras de protección, reubicación de líneas, edificaciones, etc., que por su tamaño puedan ser realizadas por el personal a su cargo;
+V. Tener buenas condiciones higiénicas sanitarias y de temperatura ambiental adecuada para la atención de los animales, y
 
-XIV. Presentar ante el Director General los informes que requieran las diferentes instituciones gubernamentales y no gubernamentales, con la periodicidad solicitada;
+VI. Las demás que la autoridad municipal disponga en beneficio de la protección a los animales.
 
-XV. Establecer un enlace de comunicación e integración de los departamentos a su cargo con el resto del Organismo y;
+###### Artículo 35.
 
-XVI. Las demás que le señale este reglamento u otra disposición aplicable.
+En el caso de animales de otras especies, la atención médica será proporcionada por un médico, si es posible, especializado en la especie de que se trate; la atención médica se podrá llevar a cabo en el lugar donde el animal se encuentre.
 
-###### ARTICULO 29.
+### Capítulo III. De la cría y venta de animales
 
-Para el cumplimiento de las atribuciones conferidas a la Subdirección de Construcción, esta contará con los Departamentos de Proyectos, Departamento de Obras y Departamento de Licitaciones..(sic)
+###### Artículo 36.
 
-###### ARTICULO 30.
+Las autoridades municipales atenderán, para los casos de la cría y venta de animales, que toda persona física o jurídica pública o privada, que se dedique a la crianza y venta de animales, se obligue para ello a cumplir con los procedimientos autorizados en los ordenamientos en la materia, a fin de que reciban un buen trato de acuerdo con los adelantos científicos y puedan satisfacer el comportamiento natural de la especie.
 
-Corresponden al Departamento de Proyectos las siguientes atribuciones:
+###### Artículo 37.
 
-I. Realizar los proyectos ejecutivos de agua potable, tales como acueductos, líneas de conducción, tanques, redes de distribución, diseños funcionales y estructurales de plantas de bombeo y estructuras especiales como: cajas rompedoras de presión, estaciones reductoras de presión y obras de protección;
+En los lugares destinados a la cría y venta de animales se deberá cumplir con lo dispuesto en las Normas Oficiales Mexicanas, las leyes estatales y federales en la materia, el presente ordenamiento, las disposiciones de la autoridad municipal que estén establecidas y con los siguientes requisitos:
 
-II. Realizar los proyectos ejecutivos de redes de recolección de aguas residuales, subcolectores, colectores, interceptores, diseños funcionales y estructurales de estaciones de bombeo y estructuras especiales como desarenadores y obras de protección;
+I. Estar a cargo del manejo clínico, un médico veterinario zootecnista titulado con cédula profesional vigente, el que deberá tener los recursos necesarios para el caso de que tenga que realizar algún procedimiento de modificación de la anatomía del animal;
 
-III. Realizar los proyectos eléctricos y mecánicos de plantas de bombeo de agua potable y alcantarillado sanitario, así como la selección de equipos para sistemas hidroneumáticos;
+II. Contar con la licencia municipal correspondiente;
 
-IV. Elaborar los dictámenes de opiniones técnicas de servicios de agua potable y alcantarillado sanitario para nuevos desarrollos urbanos;
+III. Contar con licencia sanitaria;
 
-V. Revisar los proyectos de agua potable y alcantarillado sanitario de nuevos desarrollos urbanos;
+IV. Disponer de comida, agua, espacios para dormir y moverse con comodidad, evitando el hacinamiento y procurando la temperatura apropiada; quedando estrictamente prohibido, en el caso de los animales domésticos, la sobrexplotación de las hembras, tenerlas permanentemente enjauladas y sacarlas únicamente para el apareamiento. Se deberá contar para todas las especies con espacios suficientemente amplios con luz natural, para que deambulen con comodidad;
 
-VI. Realizar los levantamientos topográficos para la elaboración de proyectos de agua potable y alcantarillado sanitario;
+V. Proporcionar el cuidado diario, quedando estrictamente prohibido dejarlos sin la atención debida durante los días no laborables;
 
-VII. Elaborar los dibujos de planos, gráficas y láminas de presentación, reproducir copias de planos, llevar el control de expedientes técnicos y administrar el planero y;
+VI. Llevar a cabo, un médico, cualquier procedimiento quirúrgico, insensibilizándolos previamente con anestésicos suficientes de acuerdo con lo establecido en este ordenamiento;
 
-VIII. Las demás que le señale este reglamento u otra disposición aplicable.
+VII. Vender los animales desparasitados, vacunados y libres de toda enfermedad y con certificado médico expedido en el momento de la venta por el médico que sea el responsable del criadero;
 
-###### ARTICULO 31.
+VIII. Tener un control de producción y llevar un registro de camadas, y
 
-Corresponden al Departamento de Obras las siguientes atribuciones:
+IX. En el caso de las especies domésticas de las que no se logre su venta, procurar entregarlos en adopción, o bien, a los organizadores de eventos en los que se promueva dicha adopción.
 
-I. Supervisar la construcción de las obras de agua potable, alcantarillado sanitario y saneamiento de los proyectos de nuevos desarrollos urbanos;
+###### Artículo 38.
 
-II. Supervisar la construcción de líneas de conducción, tanques de regulación, estaciones de bombeo, estructuras rompedoras de presión, redes de distribución y estructuras especiales de agua potable y alcantarillado sanitario, que se llevan a cabo a través de contratistas;
+Los establecimientos comerciales, ferias y exposiciones que se dediquen a la venta de animales domésticos, están obligados a otorgar al comprador un manual de cuidado, albergue y dieta del animal adquirido, que incluya, además, los riesgos ambientales de su liberación al medio rural o urbano y las sanciones a las que podrían estar sujetos por el incumplimiento de las disposiciones de la presente ley.
 
-III. Llevar a cabo la construcción de trabajos emergentes tales como reposiciones, rehabilitaciones, obras de protección, reubicación de líneas, edificaciones, etc., que por su tamaño puedan ser realizadas por el personal a su cargo;
+El manual deberá estar certificado por médico veterinario zootecnista.
 
-IV. Realizar la entrega en forma oficial y física de las obras ejecutadas por particulares o a través de la CESPT, a las subdirecciones de Operación y Mantenimiento y de Saneamiento;
+###### Artículo 39.
 
-V. Llevar el control físico-financiero de las obras que ejecuta el Organismo y particulares de agua potable, alcantarillado sanitario y saneamiento;
+Las instalaciones de los Centros de Control Animal, las utilizadas para el funcionamiento de los refugios, escuelas de adiestramiento, actividades deportivas y pensiones, deberán establecerse de acuerdo a los lineamientos establecidos en el presente ordenamiento para el debido cuidado y protección de los animales.
 
-VI. Analizar propuestas de obra en el proceso de licitación y;
+###### Artículo 40.
 
-VII. Las demás que le señale este reglamento u otra disposición aplicable.
+Las instalaciones creadas para alojar temporal o permanentemente a los animales domésticos deberán contar con veterinario responsable y demás personal capacitado.
 
-###### ARTICULO 32.
+### Capítulo IV. De la comercialización
 
-Corresponden al Departamento de Licitaciones las siguientes atribuciones:
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
 
-I. Realizar el proceso de licitación, contratación, control por conceptos de obra, revisión y actualización de precios unitarios conforme a la normatividad vigente;
+###### Artículo 41.
 
-II. Revisar análisis de precios unitarios extraordinarios y ajustes de costos de obras en proceso;
+Queda prohibida la venta de animales vivos o muertos sin el permiso o licencia de la autoridad municipal competente, y en su caso de las autoridades facultadas para ello. El comercio de animales se hará obligatoriamente en establecimientos autorizados y vigilados por el ayuntamiento y por las autoridades competentes. En el caso de que además de la venta se proporcione cualquier otro servicio, éste deberá llevarse a cabo cumpliendo con lo dispuesto en el presente ordenamiento.
 
-III. Elaborar convenios modificatorios, adicionales y de finiquitos de obra y;
+###### Artículo 42.
 
-IV. Las demás que le señale este reglamento u otra disposición aplicable.
+Queda estrictamente prohibido vender, rifar u obsequiar animales vivos, especialmente cachorros, en la vía pública, escuelas, mercados, tianguis, ferias, o cualquier otro lugar en el que no se cumpla con las disposiciones del presente ordenamiento.
 
-###### ARTICULO 33.
+### Capítulo V. De los experimentos con los animales
 
-Corresponden a la Subdirección Comercial las siguientes atribuciones:
+###### Artículo 43.
 
-I. Presentar ante el Director General las estrategias de implantación de programas de promoción de obras para la ampliación de la cobertura de los servicios que brinda el Organismo;
+En el estado de Jalisco quedan expresamente prohibidas las prácticas de vivisección y de experimentación en animales vivos con fines didácticos en los planteles educativos de tipo básico. Dichas prácticas serán sustituidas por esquemas, videos, materiales biológicos y otros métodos alternativos.
 
-II. Promover estrategias para su aprobación ante el Director General para incorporar a los usuarios factibles y potenciales a los servicios que presta el Organismo;
+Los supuestos en los cuales pueden utilizarse animales vivos para prácticas de vivisección y de experimentación serán exclusivamente los precisados en el presente capítulo, los cuales deberán también ajustarse a las disposiciones que en la materia establezcan las Normas Oficiales Mexicanas existentes.
 
-III. Promover la realización de estudios necesarios que fundamenten y evalúen la política de comercialización y en especial aquellos que vayan en beneficio de los usuarios;
+###### Artículo 44.
 
-IV. Proponer para su autorización respectiva las estrategias de recuperación de la cartera vencida del Organismo;
+Cuando los casos sean permitidos, el animal objeto de prácticas de experimentación deberá previamente ser insensibilizado, según las características de la especie y el tipo del procedimiento experimental, curado y alimentado en forma debida, antes y después de la intervención. Si sus heridas son de consideración, implican mutilación grave o impiden su comportamiento o desarrollo normal de sus actividades naturales de manera permanente, serán sacrificados inmediatamente al término de la experimentación.
 
-V. Participar en la elaboración de los programas normales de obra que deberá realizar la CESPT en la introducción de los servicios de agua potable y alcantarillado sanitario y saneamiento;
+###### Artículo 45.
 
-VI. Preparar coordinadamente con las áreas a su cargo, el presupuesto de ingresos en los conceptos inherentes;
+Los experimentos con animales vivos sólo podrán realizarse cuando:
 
-VII. Proponer para su autorización respectiva políticas y mecanismos de negociación que permitan normalizar la situación irregular y el endeudamiento de usuarios y;
+I. Estén plenamente justificados en programas de estudio y protocolos de investigación autorizados por autoridades competentes;
 
-VIII. Las demás que señalen este reglamento u otras disposiciones aplicables.
+II. Los resultados experimentales deseados no puedan obtenerse por otros procedimientos o alternativas;
 
-###### ARTICULO 34.
+III. Las experiencias sean necesarias para el control, prevención, diagnóstico o tratamiento de enfermedades que afecten al ser humano o a los animales;
 
-Para el cumplimiento de las atribuciones asignadas a la Subdirección Comercial, esta contará con una Coordinación Técnica Comercial y una Coordinación de Recuperación y Asistencia, además contará con los Departamentos de Micromedición, Asistencia a Usuarios, Padrón de Usuarios, Cobranzas, Subrecaudación de Rentas adscrita a CESPT y Promoción de Obras.
+IV. Los experimentos no puedan ser sustituidos por esquemas, dibujos, películas, fotografías, videocintas, materiales biológicos o cualquier otro procedimiento análogo, y
 
-###### ARTICULO 35.
+V. Éstos se apeguen a las Normas Oficiales Mexicanas en la materia para el cuidado y uso de los animales de laboratorio.
 
-Corresponden a la Coordinación Técnica Comercial las siguientes atribuciones:
+### Capítulo VI. Del adiestramiento de animales
 
-I. Coordinar y supervisar las actividades del personal adscrito a los departamentos de Promoción de Obras, Padrón de Usuarios y Micromedición en la implantación de los diferentes procesos de la Subdirección Comercial;
+###### Artículo 46.
 
-II. Coordinar, evaluar y dar seguimiento a las estrategias de implantación de programas de promoción de obras para la ampliación de la cobertura de los servicios que brinda el Organismo;
+Es adiestramiento la alteración de la conducta del animal con la finalidad de acondicionarlo para la realización de rutinas, con fines de exhibición y entretenimiento, deportivas, para la seguridad de personas y bienes, auxilio a discapacitados o apoyo policiaco.
 
-III. Promover la vinculación e integración de los diferentes procesos de promoción de obras, mantenimiento al padrón, y facturación;
+###### Artículo 47.
 
-IV. Elaborar estrategias para incorporar a los usuarios factibles y potenciales a los servicios que presta el Organismo;
+Está prohibido el adiestramiento de un animal cuando tenga por finalidad prepararlo para hacerlo pelear en espectáculos públicos o privados.
 
-V. Coordinar la obtención de la información necesaria para la identificación física del usuario, incluyendo a usuarios activos, suspendidos, factibles y potenciales;
+###### Artículo 48.
 
-VI. Mantener una comunicación permanente con el coordinador de recuperación y asistencia para la toma de decisiones en los procesos comerciales y;
+Cuando se clausure un centro de adiestramiento por falta de licencia, la autoridad municipal tomará las medidas necesarias para el aseguramiento y protección de los animales.
 
-VII. Las demás que le señale este reglamento u otra disposición aplicable.
+### Capítulo VII. De la organización de eventos para promover la adopción de animales
 
-###### ARTICULO 36.
+###### Artículo 49.
 
-Corresponden a la Coordinación de Recuperación y Asistencia las siguientes atribuciones:
+Las personas físicas o jurídicas podrán organizar eventos en espacios abiertos o cerrados, públicos o privados, para promover la entrega de animales abandonados, previa obtención del permiso de la autoridad municipal correspondiente para lo cual contarán con el apoyo del ayuntamiento en la medida de sus posibilidades, especialmente en la difusión de dichos eventos.
 
-I. Coordinar y supervisar las actividades del personal a su cargo en lo referente a la prestación de los servicios comerciales, en los departamentos de: Asistencia a Usuarios, Cobranzas, y Subrecaudación de Rentas adscrita a CESPT, en la implantación de los diferentes procesos de la Subdirección Comercial;
+Las personas físicas y jurídicas que organicen eventos para otorgar animales en adopción, deberán entregarlos estando vacunados, desparasitados y esterilizados, haciendo además el seguimiento de éstos para que en el caso de que se detecte alguna forma de maltrato sean recuperados de inmediato. Deberán entregar a los adoptantes el manual de cuidados.
 
-II. Elaborar conjuntamente con el Jefe de Departamento de Cobranzas las estrategias de recuperación de la cartera vencida del Organismo;
+### Capítulo VIII. De los centros de control animal
 
-III. Promover la vinculación e integración de los diferentes procesos de: Cobranzas, Asistencia a Usuarios y Subrecaudación de Rentas adscrita a C.E.S.P.T;
+###### Artículo 50.
 
-IV. Coordinar y apoyar gestiones de cobro en los casos específicos de grandes usuarios para la recuperación de la cartera;
+Los municipios deberán promover el establecimiento de Centros de Control Animal.
 
-V. Mantener una comunicación permanente con el coordinador técnico comercial para la toma de decisiones en los procesos comerciales;
+###### Artículo 51.
 
-VI. Validar políticas y mecanismos de negociación que permitan normalizar la situación irregular y endeudamiento de usuarios y;
+Los Centros de Control Animal tendrán los siguientes objetivos:
 
-VII. Las demás que le señale este reglamento u otra disposición aplicable.
+I. Funcionar como refugio de animales domésticos abandonados;
 
-###### ARTICULO 37.
+II. Llevar a cabo campañas de vacunación antirrábica;
 
-Corresponden al Departamento de Micromedición las siguientes atribuciones:
+III. Desarrollar un programa permanente de esterilización;
 
-I. Tomar la lectura de los consumos de los usuarios y entregar la factura a todas y cada una de las cuentas registradas en el padrón de la CESPT;
+IV. Proporcionar atención veterinaria a bajo costo;
 
-II. Planear y dimensionar los recursos necesarios para realizar eficientemente los procesos de lectura y factura;
+V. Impartir cursos para fomentar la cultura de protección a los animales, especialmente a los niños y a los animales;
 
-III. Facturar confiable y oportunamente las cuentas de los usuarios, incluyendo aquellas cuyo consumo o codificación son consideradas como inconsistententes (sic);
+VI. Expedir certificados de salud animal;
 
-IV. Ejecutar las pruebas de volumen y estudios especiales a medidores, así como la investigación y evaluación de nuevas tecnologías de medición;
+VII. Contar con instalaciones para el servicio de sacrificio de animales, y
 
-V Elaborar estadísticas de productividad de los verificadores de consumo con el fin de mejorar el servicio constantemente y;
+VIII. Las demás que sean afines a los objetivos de esta ley.
 
-VI. Las demás que le señale este reglamento u otra disposición aplicable.
+###### Artículo 52.
 
-###### ARTICULO 38.
+Por los servicios que preste el Centro de Control Animal el municipio cobrará el pago de los derechos correspondientes, de acuerdo con lo dispuesto en la Ley de Ingresos municipal.
 
-Corresponden al Departamento de Padrón de Usuarios las siguientes atribuciones:
+###### Artículo 53.
 
-I. Revisar, registrar y dar mantenimiento al Padrón de Usuarios de Agua Potable y Alcantarillado Sanitario;
+Para prestar los servicios a cargo del Centro de Control Animal, el municipio podrá solicitar el apoyo de voluntarios o prestadores de servicio social.
 
-II. Generar las solicitudes de servicio para la instalación de tomas, descargas y medidores contratados por usuarios factibles;
+###### Artículo 54.
 
-III. Localizar y regularizar conexiones clandestinas y;
+Los centros de control animal estarán bajo la dirección de un veterinario titulado, que tenga registrada su cédula en la Dirección de Profesiones del Estado, será especialista en pequeñas especies y con una experiencia mínima de cinco años.
 
-IV. Las demás que le señale este reglamento u otra disposición aplicable.
+###### Artículo 55.
 
-###### ARTICULO 39.
+Los centros de control animal procurarán patrocinios de las casas comerciales o industriales que tengan relación con la comercialización o producción de bienes y servicios para el cuidado y atención de los animales.
 
-Corresponden al Departamento de Promoción de Obras las siguientes atribuciones:
+### Capítulo IX. De los animales de trabajo
 
-I. Motivar y organizar a las comunidades interesadas en la promoción de obras de agua potable y alcantarillado sanitario;
+###### Artículo 56.
 
-II. Atender a los Comités de Vecinos que requieren la contratación de servicios;
+Los inspectores municipales vigilarán que los animales utilizados para la realización de trabajos no sean expuestos a condiciones de sufrimiento o maltrato por parte de sus dueños o poseedores.
 
-III. Promover y dar seguimiento a la contratación y recuperación de obras;
+###### Artículo 57.
 
-IV. Elaborar estrategias de implantación de programas de promoción de obras y;
+El sometimiento de un animal a trabajos excesivos o en condiciones de maltrato, será sancionado por la autoridad municipal, observando siempre el cumplimiento de lo siguiente:
 
-V. Las demás que le señale este reglamento u otra disposición aplicable.
+I. El propietario, poseedor o encargado de animales deportivos, para la monta, carga, tiro o espectáculo, debe contar con la autorización correspondiente, alimentar y cuidar apropiadamente a sus animales sin que sean sometidos a jornadas excesivas de trabajo conforme a lo establecido en la norma zoológica correspondiente; debe mantener las instalaciones de guarda en estado higiénico y en condiciones adecuadas de espacio, así como cumplir con lo establecido en la presente ley y las Normas Oficiales Mexicanas que correspondan;
 
-###### ARTICULO 40.
+II. Cualquier clase de vehículo que sea movido por animales no podrá ser cargado con un peso excesivo o desproporcionado, teniendo en cuenta las condiciones de los animales que se emplean para su tracción;
 
-Corresponden al Departamento de Asistencia a Usuarios las siguientes atribuciones:
+III. A ningún animal podrá dejársele sin alimentación, agua y descanso por un espacio prolongado de tiempo;
 
-I. Brindar atención personalizada a los usuarios que por este medio soliciten los servicios que presta el Organismo, estableciendo con ellos un compromiso en el plazo de atención de los mismos;
+IV. Los animales enfermos, heridos, desnutridos, las hembras en el periodo próximo al parto y los impedidos para trabajar debido a su poca o avanzada edad, por ningún motivo serán utilizados para tiro y carga, y queda igualmente prohibido cabalgar sobre animales que se encuentren en estas condiciones;
 
-II. Brindar atención telefónica a los usuarios que por este medio soliciten los servicios que presta el Organismo, estableciendo con ellos un compromiso en el plazo de atención de los mismos;
+V. La exhibición de animales será realizado (sic) atendiendo a las Normas Oficiales Mexicanas;
 
-III. Notificar a los usuarios a través de los Módulos de Atención Personalizada y de Atención Telefónica, la información sobre el resultado de su solicitud de servicio, elaborado por el área de Análisis;
+VI. En toda exhibición o espectáculo público o privado, filmación de películas, programas televisivos, anuncios publicitarios y durante la elaboración de cualquier material visual o auditivo en el que participen animales vivos debe garantizarse su trato humanitario y respetuoso durante todo el tiempo que dure su utilización. Se permitirá la presencia de tres representantes de alguna asociación protectora de animales legalmente constituida y registrada, así como de un médico veterinario titulado que certifique, por parte de la autoridad municipal, el estado de salud y el buen trato de los animales para poder desempeñar las actividades que se realicen, y
 
-IV. Brindar los servicios de cobro y de atención personalizada, en instalaciones del organismo fuera de las oficinas centrales y;
+VII. El tiempo en que los animales no estén dando el servicio deberán ser ubicados en lugares que se encuentren cubiertos del sol y de la lluvia, y deberán descansar un día a la semana, no pudiendo ser prestados o alquilados en ese día para ejecutar labores.
 
-V. Las demás que le señale este reglamento u otra disposición aplicable.
+### Capítulo X. Del sacrificio de animales
 
-###### ARTICULO 41.
+###### Artículo 58.
 
-Corresponden al Departamento de Cobranzas las siguientes atribuciones:
+El sacrificio humanitario de un animal no destinado al consumo humano, sólo podrá realizarse en razón del sufrimiento que le cause un accidente, enfermedad, incapacidad física o vejez extrema, o tratándose de animales que constituyan en amenaza para la salud, la economía o los que por exceso en el número de su especie signifiquen un peligro grave para la sociedad o el entorno natural, y deberán ser sujetos a lo que las Normas Oficiales Mexicanas en la materia establezcan.
 
-I. Elaborar conjuntamente con el Coordinador de Recuperación y Asistencia las estrategias de recuperación de la cartera vencida del Organismo;
+Los animales que vayan a ser sacrificados no podrán ser inmovilizados sino en el momento en que esta operación se realice.
 
-II. Implementar las estrategias de recuperación de la cartera vencida;
+###### Artículo 59.
 
-III. Revisar cuentas problema con ejecutivos, y recomendar medidas que mejoren el trabajo de cobranzas;
+El sacrificio de los animales destinados al consumo humano se hará con la autorización expresa de las autoridades sanitarias y administrativas que señalen las leyes.
 
-IV. Analizar, definir y proponer políticas y mecanismos de negociación que permitan normalizar la situación irregular y endeudamiento de usuarios;
+###### Artículo 60.
 
-V. Atender a los usuarios morosos inconformes con las alternativas presentadas por el Organismo y;
+Nadie puede sacrificar a un animal en la vía pública, salvo por motivos de peligro inminente para las personas o para evitar el sufrimiento innecesario del animal.
 
-VI. Las demás que le señale este reglamento u otra disposición aplicable.
+###### Artículo 61.
 
-###### ARTICULO 42.
+El sacrificio de ganado, aves y demás animales de consumo, se realizará en locales adecuados, específicamente previstos para esos fines y mediante los procesos regulados en las Normas Oficiales Mexicanas.
 
-Corresponden a la Subrecaudación de Rentas adscrita a CESPT las siguientes atribuciones:
+###### Artículo 62.
 
-Las conferidas en el Artículo 22 del Reglamento Interno de la Secretaria de Planeación y Finanzas publicado en el Periódico Oficial No. 43 del día 05 de octubre de 2001.
+En cualquier caso las autoridades del rastro serán responsables por el maltrato o crueldad que se infiera en contra de los animales.
 
-###### ARTICULO 43.
+## TÍTULO CUARTO. De la fauna silvestre
 
-Corresponden a la Subdirección Administrativa y Financiera las siguientes atribuciones:
+### Capítulo I. Disposiciones generales
 
-I. Proporcionar oportunamente los recursos humanos, financieros y materiales para garantizar la adecuada operación del Organismo;
+###### Artículo 63.
 
-II. Vigilar el estricto cumplimiento de las medidas derivadas de los principios de racionalización y transparencia en el manejo y utilización de los Recursos Humanos, Materiales y Financieros del Organismo;
+Los ejemplares contemplados en las disposiciones de la Ley General de Vida Silvestre y las Normas Oficiales Mexicanas, estarán protegidos por las disposiciones establecidas en el presente ordenamiento, la legislación federal y las medidas dispuestas por las autoridades municipales.
 
-III. Establecer las acciones específicas y las actividades permanentes para conducir la política administrativa de forma eficaz y eficiente;
+###### Artículo 64.
 
-IV. Supervisar el cumplimiento de las políticas enfocadas al aprovechamiento óptimo de los recursos en términos de adquisición, prestación de servicios y suministro de bienes de consumo en cumplimiento a la normatividad vigente;
+Cualquier actividad relacionada con los animales citados en este capítulo será regida por convenios o acuerdos de coordinación entre la autoridad municipal, las estatales y federales competentes, así como las disposiciones en la materia.
 
-V. Proponer ante el Director General las modificaciones a la escala de sueldos y salarios, aplicándolas una vez autorizados;
+###### Artículo 65.
 
-VI. Supervisar el ejercicio del presupuesto en apego a la naturaleza del gasto y en estricto cumplimiento a disposiciones de disciplina presupuestal y la normatividad vigente;
+Las autoridades estatales y municipales deberán dar aviso a las autoridades federales competentes cuando tengan conocimiento del cautiverio de algún ejemplar de la vida silvestre, cuya posesión pudiere contravenir las leyes federales de la materia.
 
-VII. Analizar los informes de auditoría interna y externa, así como de aquellas unidades de evaluación, fiscalización y control del estado, implementando las acciones correctivas necesarias en su área y notificando y dando seguimiento a aquellas correspondientes a otras áreas;
+###### Artículo 66.
 
-VIII. Llevar el control, manejo y salvaguarda del archivo general del Organismo;
+Se procurará establecer en estos convenios las disposiciones necesarias para que, de ser requisados por la autoridad federal o estatal, en términos de los convenios celebrados, el ayuntamiento colabore a fin de que su confinamiento se lleve en las mejores condiciones y se evite el maltrato.
 
-IX. Establecer un enlace de comunicación e integración de los departamentos a su cargo con el resto del organismo;
+###### Artículo 67.
 
-X. Autorizar las medidas de contabilidad, financieras y normativas de control administrativo contable;
+Las autoridades estatales y municipales auxiliarán a las autoridades competentes para aplicar las medidas necesarias para la regulación del comercio de animales silvestres, sus productos o subproductos, mediante la celebración de convenios o acuerdos de coordinación, y así mismo les harán del conocimiento la venta de especimenes de fauna silvestre, sus productos o subproductos, que no cuenten con las autorizaciones correspondientes, poniendo especial atención en las prohibiciones que existen en relación con la venta de especies que se encuentren en peligro de extinción.
 
-XI. Revisar y validar los estados financieros del Organismo mensual y anualmente remitiéndolos con el Director General para su firma correspondiente;
+## TÍTULO QUINTO. De la denuncia, el procedimiento y las sanciones
 
-XII. Revisar y validar los informes de los avances presupuestales mensuales del organismo remitiéndolos con el Director General para su firma correspondiente;
+### Capítulo I. De la denuncia
 
-XIII. Coordinar la administración de los recursos humanos del Organismo;
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
 
-XIV. Coordinar la implantación y seguimiento del programa de capacitación permanente del Organismo;
+###### Artículo 68.
 
-XV. Coordinar con las instancias correspondientes los trámites de Pensiones y Jubilaciones del personal en condiciones para ello;
+Toda persona podrá denunciar ante las autoridades competentes todo hecho, acto u omisión que contravenga las disposiciones de la presente ley.
 
-XVI. Supervisar la concentración diaria de ingresos del Organismo, vigilando su correcto y oportuno registro, así como la salvaguarda del mismo;
+###### Artículo 69.
 
-XVII. Coordinar la prestación del servicio de cobro a los usuarios del Organismo;
+Si por la naturaleza de los hechos denunciados se tratare de asuntos de competencia del orden federal o sujetos a la jurisdicción de otra autoridad federativa, las autoridades deberán turnarla a la autoridad competente.
 
-XVIII. Supervisar la Contabilidad del Organismo, para que esta refleje oportuna y correctamente todas las transacciones financieras del mismo;
+###### Artículo 70.
 
-XIX. Supervisar que el padrón de activos fijos del Organismo, se mantenga debidamente actualizado y controlado a través de los resguardos administrativos correspondientes;
+La denuncia podrá presentarse por escrito, comparecencia, vía telefónica o cualquier otro medio, siempre y cuando se revelen los actos denunciados y las circunstancias de tiempo y lugar en que se realizaron.
 
-XX. Vigilar el comportamiento de los ingresos para proponer al Director General, en caso de ser necesario, la adecuación de los egresos en función de los mismos;
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
 
-XXI. Supervisar el control y seguimiento de los financiamientos externos adquiridos; asi como, el cumplimiento oportuno de los compromisos financieros y de las obligaciones fiscales del Organismo;
+###### Artículo 71.
 
-XXII. Supervisar la adecuación de los diferentes sistemas contables administrativos y de control interno de acuerdo al desarrollo del Organismo;
+Recibida la denuncia, la autoridad competente procederá a verificar los hechos señalados por el denunciante.
 
-XXIII. Vigilar que se lleven a cabo los mantenimientos preventivos y correctivos a equipo, maquinaria e instalaciones a fin de mantenerlos en óptimas condiciones de uso y operación y;
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
 
-XXIV. Las demás que le señale este reglamento u otra disposición aplicable.
+###### Artículo 72.
 
-###### ARTICULO 44.
+Cuando los animales estuvieren en condiciones de peligro para su salud, las autoridades competentes, fundando y motivando su resolución, podrán ordenar cualquiera de las siguientes medidas de seguridad:
 
-Para el cumplimiento de las atribuciones conferidas a la Subdirección Administrativa y Financiera, ésta contará con los Departamentos de Recursos Humanos, Financiero, Suministros y Mantenimiento a Maquinaria e Instalaciones para el desarrollo de sus funciones.
+I. Aseguramiento precautorio de los animales, además de los bienes, vehículos, utensilios e instrumentos directamente relacionados con la conducta a que da lugar la imposición de la medida de seguridad;
 
-###### ARTICULO 45.
+II. Clausura temporal de los establecimientos; y
 
-Corresponden al Departamento de Recursos Humanos las siguientes atribuciones.
+III. Cualquier acción legal análoga que permita la protección de los animales.
 
-I. Atender las solicitudes de los empleados respecto a los· trámites generales de la administración de personal;
+Cuando existan causas para determinar la posible comisión de delitos por violencia contra los animales, se deberá realizar la denuncia ante la autoridad competente y en su caso se ordenará la orden de visita o verificación, de acuerdo a la normatividad aplicable.
 
-II. Atender todo tipo de relaciones laborales generadas a través del Sindicato;
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
 
-III. Contratar los Recursos Humanos idóneos a la CESPT;
+###### Artículo 73.
 
-IV. Administrar las retribuciones económicas del Personal por su trabajo;
+Cuando la autoridad ejecute algunas de las medidas de seguridad previstas en este capítulo, en su caso, indicará al interesado las acciones que deberá llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se ordene el retiro de la medida de seguridad impuesta.
 
-V. Proporcionar capacitación al personal para realizar sus funciones;
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
 
-VI. Proporcionar la inducción al Organismo al personal de nuevo ingreso a la C.E.S.P.T;
+###### Artículo 74.
 
-VII. Dar seguimiento legal a los conflictos laborales con apego a las leyes, proporcionando el apoyo necesario a la Unidad Jurídica para su solución;
+Si el rescate no fuere posible por tratarse de animales abandonados en una finca deshabitada de propiedad privada, la autoridad competente pedirá opinión a las autoridades sanitarias respecto al peligro que pudieren representar para la salud de las personas o de los animales, en cuyo caso, si el dictamen revela que efectivamente existe peligro para la salud, la autoridad correspondiente realizará las gestiones y operaciones necesarias para el desalojo y protección de los animales abandonados.
 
-VIII. Solicitar, administrar y entregar los equipos de primeros auxilios en cada uno de los centros de trabajo;
+### Capítulo II. Del procedimiento de inspección y vigilancia
 
-IX. Solicitar, administrar y entregar los uniformes de empleados femeninos y masculinos;
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
 
-X. Tramitar las Prejubilaciones y Jubilaciones de los empleados que cumplen con los requisitos;
+###### Artículo 75.
 
-XI. Administrar el control de las incapacidades de los empleados según lo establecido por la normatividad laboral vigente;
+Los gobiernos municipales y las autoridades estatales en el ámbito de sus respectivas competencias, realizarán los actos de inspección y vigilancia del cumplimiento de las disposiciones contenidas en la presente Ley, así como de las que del mismo se deriven.
 
-XII. Organizar coordinadamente con la Unidad de Relaciones Publicas eventos internos fomentando las relaciones interpersonales de los empleados de C.E.S.P.T y;
+###### Artículo 76.
 
-XIII. Las demás que le señale este reglamento u otra disposición aplicable.
+El procedimiento administrativo de inspección y vigilancia podrá iniciarse de oficio o a petición de parte interesada. Los gobiernos municipales no podrán exigir más formalidades que las expresamente previstas en la ley.
 
-###### ARTICULO 46.
+### Capítulo III. De las sanciones
 
-Corresponden al Departamento Financiero las siguientes atribuciones:
+###### Artículo 77.
 
-I. Brindar el servicio de cobro en oficinas centrales del Organismo y a través de instituciones bancarias y establecimientos comerciales;
+El ayuntamiento, a través de sus órganos de inspección y vigilancia, levantará las actas donde consten las conductas que contravengan disposiciones de esta ley.
 
-II. Concentrar la información referente a los ingresos recaudados por todos los medios de cobro establecidos por el Organismo para su correcto y oportuno registro;
+Las sanciones serán calificadas por la autoridad resolutora, por principio de proporcionalidad, y se harán efectivas por la oficina encargada de la tesorería.
 
-III. Supervisar la salvaguarda de los ingresos del Organismo a través de empresas de seguridad privada e instituciones bancarias;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-IV. Mantener conciliados los saldos comerciales y contables de las cuentas de deudores por agua y deudores por obra;
+###### Artículo 78.
 
-V. Supervisar el uso y manejos de fondos fijos del Organismo;
+Se impondrán multas de diez a trescientas veces el valor diario de la Unidad de Medida y Actualización a quien realice actividades en contravención a las disposiciones de esta ley, en cuyo caso su fijación deberá determinarse atendiendo a la gravedad del hecho y a las circunstancias personales del infractor.
 
-VI. Llevar a cabo los registros contables e integrar archivos para soporte de la información financiera del Organismo;
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-VII. Mantener actualizada (sic) el padrón de los activos fijos del Organismo con el resguardo respectivo en los casos en que corresponda;
+Se sancionará con el equivalente de quinientos a dos mil veces el valor diario de la Unidad de Medida y Actualización a quién realice espectáculos circenses públicos o privados en los cuales exhiban o utilicen animales.
 
-VIII. Calcular y registrar contablemente la depreciación y actualización de los bienes del Organismo de manera mensual y oportuna;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-IX. Llevar el control y seguimiento de los financiamientos externos adquiridos por el Organismo;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE AGOSTO DE 2015)</small>
 
-X. Llevar el control presupuestal del Organismo elaborando los reportes mensuales correspondientes;
+La sanción señalada en el párrafo que antecede se aplicará independientemente de las sanciones que disponga el Código Penal para el Estado Libre y Soberano de Jalisco.
 
-XI. Llevar el control financiero de las obras que realiza el Organismo a través de contratistas;
+###### Artículo 79.
 
-XII. Administrar cuentas bancarias del Organismo; asi como, cuentas por pagar y créditos bancarios en etapa de amortización;
+Cuando la autoridad lo considere necesario y de acuerdo con el acto realizado en contravención a la ley, la conducta podrá ser sancionada con arresto administrativo, clausura y/o revocación de la licencia, de conformidad con la reglamentación correspondiente.
 
-XIII. Preparar oportunamente estados financieros mensuales y anuales para apoyar en la toma de decisiones;
+###### Artículo 80.
 
-XIV. Proponer medidas de contabilidad, financieras y normativas de control administrativo contable;
+Cuando el infractor sea reincidente se le aplicará el doble de la multa que corresponda por la conducta reprochable, que se haya impuesto con anterioridad.
 
-XV. Atender a las diferentes auditorías gubernamentales como Contaduría Mayor de Hacienda, Contraloría del Estado u otras Dependencias o particulares;
+### Capítulo IV. De los medios de defensa
 
-XVI. Desarrollar los sistemas contables y presupuestales de conformidad con el crecimiento de la C.E.S.P.T. y en cumplimiento a la normatividad vigente;
+###### Artículo 81.
 
-XVII. Atender las obligaciones fiscales a las que está sujeta la C.E.S.P.T.;
+Contra los actos de la autoridad municipal o estatal generados por la aplicación de esta ley, el afectado podrá hacer uso de los recursos administrativos previstos en la Ley del Procedimiento Administrativo del Estado de Jalisco o de los medios de defensa jurisdiccionales establecidos en la Ley de Justicia Administrativa para el Estado de Jalisco, según sea procedente en derecho y convenga a sus particulares intereses.
 
-XVIII. Informar al Director General sobre los eventos del área que puedan afectar a la C.E.S.P.T y;
+T R A N S I T O R I O S
 
-XIX. Las demás que le señale este reglamento u otra disposición aplicable.
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
-###### ARTICULO 47.
+SEGUNDO. Se tiene el término de noventa días a partir de la entrada en vigor del presente ordenamiento para la creación del reglamento del mismo.
 
-Corresponden al Departamento de Suministros las siguientes atribuciones.
+TERCERO. Se abroga la Ley de Protección a los Animales del Estado de Jalisco, publicada mediante decreto 21741 el día 30 de enero de 2007.
 
-I. Elaborar el programa anual de compras apoyándose en información de todas las áreas que integran a la CESPT;
+CUARTO. Se tiene el término de noventa días naturales, a partir de la entrada en vigor de la presente ley, para la conformación del Consejo para la Atención y Bienestar de los Animales del Estado de Jalisco.
 
-II. Vigilar y mantener las existencias de materiales en los almacenes, así como llevar a cabo su acomodo físico y control de los mismos;
+QUINTO. Se tiene un término de sesenta días naturales a partir de la conformación del Consejo para la Atención y Bienestar de los Animales del Estado de Jalisco, para la creación del reglamento del mismo.
 
-III. Mantener actualizada la información sobre proveedores y costos para la compra de materiales que se requieran para la operación del Organismo;
+SALÓN DE SESIONES DEL CONGRESO DEL ESTADO GUADALAJARA, JALISCO, 25 DE OCTUBRE DE 2012
 
-IV. Coordinar la aplicación de las políticas y procedimientos relativos a la investigación de precios y condiciones de pago, con el objeto de realizar las compras de la C.E.S.P.T.;
+Diputado Presidente
 
-V. Participar en forma activa en el Comité de Compras, conforme a la política vigente;
+ROBERTO ANTONIO MARRUFO TORRES
 
-VI. Atender las solicitudes de compra y de servicio recibidas, llevando a cabo sus respectivas cotizaciones;
+(RÚBRICA)
 
-VII. Asignar los pedidos y obtener las autorizaciones correspondientes conforme a la normatividad vigente;
+Diputada (sic) Secretario
 
-VIII. Mantener comunicación con los proveedores con el objeto de que nos sean suministrados los pedidos cualitativa y cuantitativamente correctos;
+JUAN PABLO TOLEDO HECHT
 
-IX. Supervisar que las adquisiciones de la C.E.S.P.T se lleven a cabo en total y permanente apego a las Normas y Procedimientos de Compras;
+(RÚBRICA)
 
-X. Elaborar los contratos que se requieran para formalizar los pedidos correspondientes conforme a las políticas vigentes;
+Diputado (sic) Secretaria
 
-XI. Administrar el suministro de combustibles del Organismo;
+VERÓNICA RIZO LÓPEZ
 
-XII. Supervisar la importación de materiales y equipo, gestionando ante las autoridades los permisos necesarios para la introducción legal al país;
+(RÚBRICA)
 
-XIII. Mantener actualizados los archivos de proveedores, así como del área de Compras para asegurar la transparencia en el ejercicio de los recursos y;
+En mérito de lo anterior y con fundamento en el artículo 50 fracción I de la Constitución Política del Estado de Jalisco, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.
 
-XIV. Las demás que le señale este reglamento u otra disposición aplicable.
+Emitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los 20 veinte días del mes de noviembre de 2012 dos mil doce.
 
-###### ARTICULO 48.
+El Gobernador Constitucional del Estado
 
-Corresponden al Departamento de Mantenimiento a Maquinaria e Instalaciones las siguientes atribuciones:
+EMILIO GONZÁLEZ MÁRQUEZ
 
-I. Proporcionar mantenimiento preventivo y correctivo a las unidades de transporte, maquinaria pesada y maquinaria menor con personal externo o interno;
+(RÚBRICA)
 
-II. Proporcionar mantenimiento preventivo y correctivo de todas las instalaciones de la C.E.S.P.T así como de su mobiliario y equipo de oficina con personal externo o interno;
+El Secretario General de Gobierno
 
-III. Supervisar el buen funcionamiento de los servicios externos contratados relativos al equipo de transporte, maquinaria e instalaciones del Organismo;
+VÍCTOR MANUEL GONZÁLEZ ROMERO
 
-IV. Elaborar y dar seguimiento a programas periódicos de mantenimiento preventivo a las unidades del Organismo de diesel y gasolina;
+(RÚBRICA)
 
-V. Proporcionar el servicio de vigilancia a través de personal interno o externo en las instalaciones requeridas del Organismo;
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-VI. Emitir los diagnósticos para bajas de unidades, mobiliario y equipo del Organismo y;
+P.O. 14 DE JUNIO DE 2014.
 
-VII. Las demás que le señale este reglamento u otra disposición aplicable.
+PRIMERO. El presente decreto entrará en vigor a los treinta días siguientes a su publicación en el periódico oficial El Estado de Jalisco.
 
-###### ARTICULO 49.
+SEGUNDO. El Ejecutivo del Estado deberá realizar las adecuaciones a los reglamentos aplicables para el debido cumplimiento del presente decreto.
 
-Corresponden a la Unidad de Relaciones Públicas las siguientes atribuciones:
+TERCERO. Se autoriza a la Secretaría de Planeación, Administración y Finanzas para realizar las adecuaciones presupuestales necesarias para el debido cumplimiento del presente decreto, haciendo uso en su caso, de los recursos humanos y materiales ya existentes, en coordinación con la Fiscalía General del Estado de Jalisco, lo anterior con respecto de la creación de la Unidad Especializada de Protección Animal.
 
-I. Atender a los medios masivos de comunicación;
+CUARTO. Para el seguimiento de los delitos derivados de la violencia contra los animales, el Fiscal General designará las agencias especializadas para su conocimiento conforme a las disposiciones legales, reglamentarias y normativas aplicables.
 
-II. Establecer el enlace entre el Director General y los medios de comunicación masivos;
+P.O. 20 DE DICIEMBRE DE 2014.
 
-III. Informar y orientar a los usuarios de la C.E.S.P.T. a través de los medios masivos de comunicación;
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
-IV. Organizar y realizar eventos externos para reforzar la comunicación;
+P.O. 22 DE AGOSTO DE 2015.
 
-V. Llevar a cabo el programa de Cultura del Agua;
+###### ARTÍCULO PRIMERO.
 
-VI. Planear y proponer para su autorización ante el Director General las campañas publicitarias que requiere el Organismo, coordinándolas una vez autorizadas;
+El presente decreto entrara en vigor a los ciento ochenta días naturales siguientes a su publicación en el periódico oficial “El Estado de Jalisco”.
 
-VII. Organizar coordinadamente con Recursos Humanos eventos internos fomentando las relaciones interpersonales de los empleados de C.E.S.P.T;
+###### ARTÍCULO SEGUNDO.
 
-VIII. Elaborar y distribuir publicaciones como medio de comunicación interno y externo;
+A los circos que previo a la entrada en vigor del presente decreto cuenten con permiso o autorización para operar expedidos por la autoridad municipal, no les será renovado éste.
 
-IX. Llevar a cabo el monitoreo de radio tribunas y elaborar la síntesis informativa interna y;
+###### ARTÍCULO TERCERO.
 
-X. Las demás que le señale este reglamento u otra disposición aplicable.
+Los ayuntamientos tendrán un término de noventa días para adecuar sus reglamentos al presente decreto.
 
-###### ARTICULO 50.
+###### ARTÍCULO CUARTO.
 
-Corresponden a la Unidad de Informática las siguientes atribuciones:
+Se derogan todas las disposiciones legales que se opongan al presente decreto.
 
-I. Definir y coordinar las estrategias que permitan al Organismo contar con una infraestructura moderna de sistemas de información, bases de datos, equipos de cómputo y telecomunicaciones con el objetivo de optimizar los costos operativos, los procesos y servicios, buscando elevar la calidad y productividad de los mismos;
+P.O. 11 DE OCTUBRE DE 2016.
 
-II. Coordinar el desarrollo de nuevos sistemas, modificaciones sustanciales a sistemas en operación, adecuación de los sistemas adquiridos, desarrollo de interfases entre sistemas para su integración, utilizando y actualizando metodologías y lenguajes de programación modernos, de tal manera que permitan manejar de manera eficiente datos multimedia como documentos digitalizados, mapas, videos, correo electrónico, documentos en programas de oficina, etc.;
+## [N. DE E. TRANSITORIO DEL DECRETO 25840/LXI/16 POR EL QUE "SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO; CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO; CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO; CÓDIGO ELECTORAL Y DE PARTICIPACIÓN SOCIAL DEL ESTADO DE JALISCO; CÓDIGO FISCAL DEL ESTADO DE JALISCO; CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; CÓDIGO URBANO PARA EL ESTADO DE JALISCO; DECRETO QUE CREA EL CONSEJO ESTATAL PARA EL DESARROLLO TURÍSTICO; LEY CONTRA LA DELINCUENCIA ORGANIZADA DEL ESTADO DE JALISCO; LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE JALISCO; LEY DE AUSTERIDAD Y AHORRO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO; LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO; LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO; LEY DE EDUCACIÓN DEL ESTADO DE JALISCO; LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE FOMENTO APÍCOLA Y PROTECCIÓN DE AGENTES POLINIZADORES DEL ESTADO (SIC) JALISCO; LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO; LEY DE GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE JALISCO; LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO; LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO; LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO; LEY DE LIBRE CONVIVENCIA DEL ESTADO DE JALISCO; LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO; LEY DE LOS SÍMBOLOS OFICIALES DEL ESTADO DE JALISCO; LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO; LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO; LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO; LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO PARA EL ESTADO DE JALISCO; LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES DEL ESTADO DE JALISCO; LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO; LEY DE SALUD DEL ESTADO DE JALISCO; LEY DE SUJETOS PROTEGIDOS PARA EL ESTADO DE JALISCO; LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL EN EL ESTADO DE JALISCO; LEY PARA REGULAR LA VENTA Y EL CONSUMO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE JALISCO; LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY PARA LA PROMOCIÓN DE INVERSIONES EN EL ESTADO DE JALISCO; LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE JALISCO; LEY PARA LA OPERACIÓN DE ALBERGUES DEL ESTADO DE JALISCO; LEY PARA LA INTEGRACIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO; LEY PARA EL EJERCICIO DE LAS ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO; LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO; LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO; LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO; LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL; LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE; LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO; LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO; LEY DEL NOTARIADO DEL ESTADO DE JALISCO; LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LEY DE VIVIENDA DEL ESTADO DE JALISCO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
 
-III. Planear y coordinar el desarrollo de nuevos sistemas e interfases para utilizarse en Internet;
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
-IV. Coordinar la seguridad de la red de internet; asi como, la administración de los sistemas que se encuentran en operación;
-
-V. Supervisar la asesoría y capacitación a usuarios del sistema en la operación y su seguridad así como administrar la cintoteca;
-
-VI. Supervisar y controlar la administración de la red de cómputo de la C.E.S.P.T. y de las comunicaciones entre equipos;
-
-VII. Supervisar el dimensionamiento del equipo, adquisición, uso e instalación de programas y equipos de computación, así como definir y coordinar la adquisición y uso de tecnología moderna de lenguajes de programación, bases de datos, sistemas operativos, equipo de cómputo, redes de comunicación, equipos de impresión y de almacenamiento de datos;
-
-VIII. Planear y controlar los proyectos de la Unidad de Informática tales como instalación y mantenimiento de equipo de cómputo y telecomunicaciones, desarrollo y mantenimiento de sistemas y supervisión y administración de soluciones desarrolladas por terceros;
-
-IX. Establecer un enlace de comunicación e integración de los departamentos a su cargo con el resto del organismo y;
-
-X. Las demás que le señale este reglamento u otra disposición aplicable.
-
-###### ARTICULO 51.
-
-Para el cumplimiento de las atribuciones conferidas a la Unidad de Informática, esta contará con el Departamento de Desarrollo de Sistemas, Departamento de Administración de Sistemas y Departamento de Soporte Técnico.
-
-###### ARTICULO 52.
-
-Corresponden al Departamento de Desarrollo de Sistemas las siguientes atribuciones:
-
-I. Establecer, evaluar, y mantener técnicas para desarrollo, adquisición e implementación de sistemas de información;
-
-II. Diseñar el ambiente computacional para desarrollo y operación de sistemas;
-
-III. Desarrollar nuevos sistemas e interfases para utilizarse en Internet;
-
-IV. Planear y controlar los proyectos del área de automatización de oficinas y de los nuevos sistemas que se desarrollen o adquieran para el Organismo;
-
-V. Instalar, configurar y mantener óptimamente los programas de cómputo en los servidores de bases de datos del Organismo;
-
-VI. Diseñar e instalar las bases de datos en los diferentes servidores que conforman la red metropolitana de C.E.S.P.T y;
-
-VII. Las demás que le señale este reglamento u otra disposición aplicable.
-
-###### ARTICULO 53.
-
-Corresponden al Departamento de Administración de Sistemas las siguientes atribuciones:
-
-I. Administrar y dar el mantenimiento a los sistemas de información en operación del equipo, redes de cómputo y sus unidades de almacenamiento e impresión;
-
-II. Administrar las bases de datos central y de sucursales foráneas o subdirecciones y distritos, asegurando la integridad de los datos y servicios de recuperación y respaldo de información;
-
-III. Diseñar y actualizar la bitácora para el control de actividades, fallas y actualizaciones dentro del Centro de Cómputo Central;
-
-IV. Vigilar constantemente la seguridad de los sistemas de información en cuanto al acceso de las bases de datos, diseño y propuesta de técnicas más adecuadas, acorde a las necesidades de los sistemas;
-
-V. Dar mantenimiento a los sistemas de Internet;
-
-VI. Supervisar y controlar la seguridad de la red de Internet;
-
-VII. Monitorear la red de cobertura metropolitana para asegurar la comunicación de datos entre los servidores y el funcionamiento de los sistemas;
-
-VIII. Atender y capacitar a los usuarios internos en el uso de los sistemas instalados en C.E.S.P.T, atendiendo las necesidades nacientes o cambiantes del Organismo de tal forma que cumpla con sus requerimientos;
-
-IX. Mantener actualizada la documentación de los sistemas para servir de base a la capacitación de los mismos y como pista de auditoría de sistemas y;
-
-X. Las demás que le señale este reglamento u otra disposición aplicable.
-
-###### ARTICULO 54.
-
-Corresponden al Departamento de Soporte Técnico las siguientes atribuciones:
-
-I. Supervisar el funcionamiento de las redes de datos, equipo de cómputo, de telecomunicación y periférico con el fin de mantener en óptimas condiciones de operación tanto las comunicaciones como el equipo;
-
-II. Dimensionar la adquisición y el mantenimiento preventivo y correctivo del equipo de cómputo;
-
-III. Formular y actualizar los procedimientos específicos para el mantenimiento del equipo y de redes de datos;
-
-IV. Planear y supervisar la instalación de equipo de comunicación para conectar equipo periférico y remoto al equipo central y;
-
-V. Las demás que le señale este reglamento u otra disposición aplicable.
-
-###### ARTICULO 55.
-
-Corresponden a la Unidad de Auditoría Interna las siguientes atribuciones:
-
-I. Practicar las auditorias a las diferentes áreas del Organismo conforme al programa anual de trabajo, así como las auditorias especiales requeridas durante el ejercicio;
-
-II. Informar el resultado de dichas auditorias a las instancias correspondientes;
-
-III. Dar seguimiento a las observaciones derivadas de las auditorías realizadas para su corrección o en su caso para fincar responsabilidades según la normatividad vigente;
-
-IV. Requerir y vigilar que se cuente con controles y sistemas que por sí solos protejan y promuevan, la administración correcta de los recursos, señalando fallas y haciendo sugerencias pertinentes;
-
-V. Recibir quejas y denuncias sobre el incumplimiento a las disposiciones legales y administrativas por parte de los servidores públicos dando el seguimiento legal correspondiente;
-
-VI. Vigilar el seguimiento de los programas prioritarios a fin de que, permita la identificación e interpretación de posibles desviaciones y;
-
-VII. Las demás que le señale este reglamento u otra disposición aplicable.
-
-###### ARTICULO 56.
-
-Corresponden a la Unidad Jurídica las siguientes atribuciones:
-
-I. Revisar y validar todos los contratos en que la CESPT participa vigilando los intereses de la misma, observando el cumplimiento de las normas, leyes y reglamentos vigentes;
-
-II. Representar mediante poder los intereses de la CESPT cuando existan controversias ante las diversas autoridades;
-
-III. Asesorar a las diferentes áreas de trabajo de la CESPT en aspectos legales;
-
-IV. Atender la regularización del patrimonio inmobiliario de la CESPT;
-
-V. Atender los asuntos jurídicos contenciosos, no contenciosos y juicios fiscales a través de la elaboración y contestación de demandas y;
-
-VI. Las demás que le señale este reglamento u otra disposición aplicable.
-
-###### ARTICULO 57.
-
-Corresponden a la Unidad de Desarrollo Institucional las siguientes atribuciones:
-
-I. Coordinar la elaboración e implantación de proyectos del Plan de Desarrollo Institucional;
-
-II. Supervisar y dar seguimiento a proyectos estratégicos y programas establecidos en el Plan de Desarrollo Institucional para su consolidación y mejoramiento en el corto plazo;
-
-III. Trabajar en conjunto con la Subdirección de Planeación en la definición de los proyectos estratégicos a mediano y largo plazo para todas las áreas de la organización;
-
-IV. Informar de manera permanente al Director General de los avances de los proyectos estratégicos;
-
-V. Coordinar el programa de mejora continua del Organismo y;
-
-VI. Las demás que le señale este reglamento u otra disposición aplicable.
-
-###### ARTICULO 58.
-
-Durante la ausencia del Director General de la CESPT, para el despacho y resolución de los asuntos correspondientes se estará a lo que marca la Ley.
-
-###### ARTICULO 59.
-
-Las ausencias de los Subdirectores serán suplidas para el despacho de los asuntos de su correspondiente competencia, por el Coordinador del Área o Jefe de Departamento autorizado por el Director General a propuesta de los Subdirectores.
-
-###### ARTICULO 60.
-
-De las suplencias de los Jefes de las Unidades de Relaciones Públicas, Informática, Auditoría Interna, Jurídica y Desarrollo Institucional, serán suplidas por los servidores públicos que propongan los titulares, los cuales deben ser aprobados por el Director General.
-
-###### ARTICULO 61.
-
-Las ausencias de los Jefes de Departamento serán suplidas por los Servidores Públicos de la jerarquía inmediata inferior que designen los titulares del puesto.
-
-TRANSITORIOS:
-
-PRIMERO.- El presente reglamento entrará en vigor al dia siguiente de su publicación en el Periódico Oficial del Gobierno de Estado.
-
-SEGUNDO.- Las disposiciones reglamentarias y administrativas en vigor se continuarán aplicando, salvo en lo que se opongan al presente reglamento.
-
-Dado en la residencia oficial de Poder Ejecutivo del Estado de Baja California a los 4 días del mes de septiembre del año dos mil uno.
-
-SUFRAGIO EFECTIVO NO REELECCIÓN
-
-LIC. ALEJANDRO GONZALEZ ALCOCER,
-
-GOBERNADOR CONSTITUCIONAL DEL ESTADO.
-
-EL SECRETARIO GENERAL DE GOBIERNO,
-
-C.P. JORGE RAMOS.
-
-EL SECRETARIO DE ASENTAMIENTOS HUMANOS Y OBRAS PÚBLICAS,
-
-ING. FERNANDO ACEVES SALMON.
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
