@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2017-05-13"
+last_updated: "2017-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY ESTATAL DE EDUCACION DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2017.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -533,8 +535,6 @@ XXXVIII. Invertir recursos financieros a la investigación pedagógica para la i
 
 XXXIX. Supervisar la Vigilancia del ejercicio profesional en el Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS A LA LEY.</small>
-
 > <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2009)</small>
 
 XL. Crear y sostener un sistema estatal de estímulos para estudiantes del Estado, destacados a nivel estatal, nacional e internacional, en cualesquiera de las ramas del quehacer humano, con base en la partida presupuestal que determine el Poder Legislativo del Estado;
@@ -687,19 +687,13 @@ El Estado promoverá la participación directa del municipio para dar mantenimie
 
 ARTÍCULO 15 A.- El Sistema Estatal de Becas y Créditos Educativos tendrá por objeto promover, coordinar, difundir y ejecutar las acciones necesarias para otorgar becas y créditos educativos, de naturaleza educativa, científica o de investigación, a estudiantes de todos los niveles educativos, que sean de escasos recursos económicos y/o tengan un alto desempeño académico, que provengan de instituciones públicas.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2016)</small>
 
 El Estado otorgará una beca en la modalidad de pensión educativa a los estudiantes de instituciones públicas, cuando los obligados a proporcionar alimentos conforme a lo previsto en la legislación civil o familiar, fallezcan sin haber dejado bienes suficientes o pensión que pudieran ser destinados a la educación de sus descendientes o, en su caso, caigan en estado de discapacidad que les impida cumplir con tal obligación, siempre que el solicitante sea de escasos recursos económicos.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2016)</small>
 
 Su vigencia estará comprendida desde el momento en que se determine la procedencia de la misma, hasta que el beneficiario culmine la educación obligatoria, o en su caso antes, por circunstancias plenamente acreditadas que demuestren la ausencia de necesidad de este apoyo.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2016)</small>
 
@@ -1463,6 +1457,10 @@ La educación en valores se realizará en todos los niveles del Sistema Educativ
 
 El Estado otorgará los apoyos necesarios para que la educación en valores, fundamentada en los principios y características de la participación social, cobre mayor importancia en los centros escolares.
 
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2017)</small>
+
+Al respecto, diseñará e implementará acciones permanentes para que los programas y contenidos de la educación en valores, sean aplicados a los padres y madres de familia con el apoyo de sus asociaciones, bajo los principios de la participación social en la educación, con el propósito de fortalecer y coadyuvar en la formación adecuada de sus hijos.
+
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
 ###### ARTÍCULO 70.
@@ -2195,6 +2193,14 @@ VII. Colaborar con el personal docente que atienda a sus hijas, hijos o pupilos,
 
 VIII. Informar inmediatamente a las autoridades educativas los cambios que se presenten en la conducta y actitud de sus hijas, hijos o pupilos, para que, en su caso, sean canalizados al departamento encargado de cumplir con lo dispuesto en el artículo 13, fracción XLII, de esta Ley, con el fin de determinar las posibles causas que hayan dado origen a tales cambios y generar alternativas de solución.
 
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2017)</small>
+
+IX. Colaborar con las autoridades educativas y personal docente y de apoyo a la educación, en acciones preventivas para salvaguardar la integridad y educación plena de las y los educandos.
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2017)</small>
+
+X. Participar en los programas que las autoridades competentes implementen, con el propósito de informar a las asociaciones de padres sobre la posible comisión de hechos delictivos que puedan perjudicar a sus hijos e hijas en el entorno escolar.
+
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
 ###### ARTÍCULO 132.
@@ -2331,7 +2337,9 @@ I. Coadyuvar con los docentes a la realización de las metas educativas y en el 
 
 II. Conocer los resultados de las evaluaciones que realicen las autoridades educativas;
 
-III. Propiciar la colaboración de docentes, padres y madres de familia;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2017)</small>
+
+III. Propiciar la colaboración de padres y madres de familia con las autoridades educativas y personal docente y de apoyo a la educación, en acciones preventivas para salvaguardar la integridad y la educación plena de las y los educandos.
 
 IV. Proponer estímulos, reconocimientos y distinciones de carácter social a los educandos, docentes, personal de apoyo y asistencia a la educación, y a quien realice acciones destacadas referentes a la educación o a la cultura;
 
@@ -2341,7 +2349,17 @@ VI. Llevar a cabo las acciones necesarias de participación, de coordinación y 
 
 VII. Podrá opinar sobre asuntos pedagógicos y desarrollar acciones que contribuyan a reducir las condiciones sociales adversas que influyan en la educación; y
 
-VIII. En general, podrá realizar actividades en beneficio del propio plantel.
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2017)</small>
+
+VIII. Conocer de las acciones educativas y de prevención que realicen las autoridades tanto civiles como escolares, e informarlas a las y los educandos para que estos conozcan y detecten la posible comisión de hechos delictivos que les puedan perjudicar.
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2017)</small>
+
+IX. Sensibilizar a la Asociación de Padres de Familia y a la comunidad escolar, mediante la divulgación de información que prevenga la comisión de delitos en agravio de las y los educandos, así como también, de elementos que procuren la defensa de los derechos de las víctimas de tales delitos.
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2017)</small>
+
+X. En general, podrá realizar actividades en beneficios del propio plantel.
 
 En las escuelas particulares del tipo básico de educación, podrán integrarse y operar consejos similares, que cumplan con la normatividad correspondiente.
 
@@ -3595,7 +3613,7 @@ EL SECRETARIO DE GOBIERNO
 
 LIC. FRANCISCO HUGO GUTIERREZ DAVILA.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 31 DE MAYO DE 2000.
 
@@ -4246,3 +4264,9 @@ P.O. 13 DE MAYO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXV/RFLEY/0329/2017 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY ESTATAL DE EDUCACIÓN".]
+
+ÚNICO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
