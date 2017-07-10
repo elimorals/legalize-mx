@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-libre-y-70231"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-21"
-last_updated: "2016-08-01"
+last_updated: "2017-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de septiembre de 2009.
 
@@ -65,15 +65,17 @@ Corresponde al Congreso del Estado, las facultades y obligaciones que establecen
 
 El ejercicio de las funciones de los Diputados durante el período constitucional de tres años, conforma una Legislatura, la que se identificará según el número ordinal que le corresponda.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 4.
 
-El Congreso del Estado, se integra con Diputados electos en su totalidad por sufragio universal, libre, secreto y directo, conforme a los principios de votación mayoritaria relativa y de representación proporcional, en el número y términos que determinen la Constitución Política del Estado de Hidalgo y la Legislación Electoral. La Legislatura se renovará en su totalidad cada tres años, y ninguno de sus integrantes, podrá ser reelecto para el periodo inmediato.
+El Congreso del Estado, se integra con Diputados electos en su totalidad por sufragio universal, libre, secreto y directo, conforme a los principios de votación mayoritaria relativa y de representación proporcional, en el número y términos que determinen la Constitución Política del Estado de Hidalgo y la Legislación Electoral.
 
 ###### ARTÍCULO 5.
 
 Durante su Ejercicio Constitucional, el Congreso del Estado tendrá dos Períodos Ordinarios de Sesiones cada año, en los términos previstos por el Titulo Sexto, de la Constitución Política del Estado de Hidalgo. Los períodos no podrán prorrogarse más allá de las fechas previstas en este Título.
 
-El Congreso del Estado, tendrá dos perídos de receso al año, en los que funcionará la Diputación Permanente.
+El Congreso del Estado, tendrá dos períodos de receso al año, en los que funcionará la Diputación Permanente.
 
 El Congreso, podrá celebrar Sesiones Extraordinarias durante los períodos de receso, mismas que serán convocados por la Diputación Permanente o a solicitud del Titular del Poder Ejecutivo del Estado, en dichos periodos sólo se tratarán los asuntos que se precisen en la Convocatoria, pudiendo prolongarse por el tiempo necesario hasta lograr su objetivo. Para el caso en que termine el período de receso, sin haberse resuelto el asunto motivo de la Convocatoria, éste se incluirá en la agenda de los asuntos a tratar del Periodo Ordinario de Sesiones siguiente.
 
@@ -309,7 +311,9 @@ X.- Acatar las disposiciones de la Directiva del Pleno o de la Diputación Perma
 
 XI.- Guardar prudente reserva de todos los asuntos que se traten o resuelvan en las Sesiones que tengan el carácter de secretas;
 
-XII.- Presentar declaración patrimonial, en los casos, términos y condiciones que establezca la presente Ley;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+XII.- Presentar declaración patrimonial, fiscal y de conflicto de interés, en los casos, términos y condiciones que establezca la ley;
 
 XIII.- Desempeñar en la Directiva del Pleno o de la Diputación Permanente, el cargo para el que fuere electo;
 
@@ -507,11 +511,13 @@ Los integrantes de la Directiva, tanto de la Diputación Permanente como de las 
 
 Las Sesiones Extraordinarias, serán convocadas conforme a lo dispuesto en el Tercer Párrafo del Artículo 5 de esta Ley.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 58.
 
-Una vez electa la Directiva del Congreso, deberá comunicarse por escrito a los Titulares de los Poderes Ejecutivo y Judicial del Estado. Asimismo, a los Poderes Legislativo, Ejecutivo y Judicial de la Nación, a las Legislaturas de las Entidades Federativas y a la Asamblea Legislativa del Distrito Federal.
+Una vez electa la Directiva del Congreso, deberá comunicarse por escrito a los Titulares de los Poderes Ejecutivo y Judicial del Estado. Asimismo, a los Poderes Legislativo, Ejecutivo y Judicial de la Nación y a las Legislaturas de las Entidades Federativas.
 
-Asimismo, se solicitará al Ejecutivo del Estado, que la elección de la Directiva se dé a conocer en el Periódico Oficial del Estado.
+Asimismo, se solicitará al Ejecutivo del Estado, que la integración de la Directiva se publique en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO 59.
 
@@ -695,6 +701,64 @@ Cuando el Congreso del Estado celebre Sesiones Extraordinarias, la Diputación P
 
 En la segunda Sesión del período ordinario siguiente, la Diputación Permanente dará cuenta del uso que hubiere hecho de sus facultades.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 10 DE JULIO DE 2017)</small>
+
+#### SECCIÓN CUARTA BIS. DE LA DESIGNACIÓN DE LOS TITULARES DE LOS ÓRGANOS INTERNOS DE CONTROL DE ORGANISMOS AUTÓNOMOS QUE EJERZAN RECURSOS DEL PRESUPUESTO DE EGRESOS DEL ESTADO
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+ARTÍCULO 74 BIS.- Conforme a lo previsto en el artículo 56, fracción XV BIS de la Constitución Política del Estado de Hidalgo, corresponde al Congreso nombrar, por el voto de las dos terceras partes de las y los Diputados presentes, a los titulares de los órganos internos de control de los organismos autónomos que ejerzan recursos del Presupuesto de Egresos del Estado.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+ARTÍCULO 74 TER.- La designación de los titulares de los Órganos Internos de Control se llevará a cabo de conformidad con el procedimiento siguiente:
+
+I. La Junta de Gobierno propondrá al Pleno el Acuerdo que contenga la convocatoria para la designación de cada titular de los Órganos Internos de Control a que hace referencia el artículo 74 BIS, la que deberá contemplar que los aspirantes acompañen su declaración de intereses, de conformidad con las disposiciones aplicables;
+
+II. Esta convocatoria será abierta para todas las personas, contendrá las etapas completas para el procedimiento, las fechas límite y los plazos improrrogables, así como los requisitos legales que deben satisfacer los aspirantes y los documentos que deben presentar para acreditarlos;
+
+III. Para ser titular del Órgano Interno de Control de alguno de los organismos a que hace referencia el artículo 74 BIS, además de cumplir los requisitos que establezcan las leyes de dichos organismos autónomos, se deberán cumplir los establecidos en la convocatoria respectiva;
+
+IV. Una vez aprobada la convocatoria por el Pleno, la Directiva expedirá la convocatoria pública para la elección del titular del Órgano Interno de Control, misma que deberá publicarse en el Periódico Oficial del Estado, en la página web del Congreso y, preferentemente, en 2 periódicos de circulación estatal;
+
+V. Una vez abierto el periodo a que se refiera la convocatoria correspondiente, se recibirán las solicitudes de los aspirantes, por duplicado, y la documentación a que se refiere la fracción II del presente artículo, el Presidente de la Directiva turnará los expedientes a las Comisiones Conjuntas de Comisión Inspectora de la Auditoria Superior del Estado, y de Transparencia y Anticorrupción, mismas que se encargará (sic) de realizar la revisión correspondiente a efecto de determinar aquellos aspirantes que acreditan el cumplimiento de los requisitos exigidos para el cargo por la legislación y normatividad aplicable;
+
+VI. En caso de que las Comisiones Conjuntas de Comisión Inspectora de la Auditoria Superior del Estado, y de Transparencia y Anticorrupción determinen que alguno de los aspirantes no cumple con alguno de los requisitos, procederá a desechar la solicitud;
+
+VII. Las Comisiones Conjuntas de Comisión Inspectora de la Auditoria Superior del Estado, y de Transparencia y Anticorrupción elaborarán un acuerdo que deberá publicarse en el Periódico Oficial del Estado y en la página web del Congreso, y contendrá lo siguiente:
+
+a. El listado con los aspirantes que hayan cumplido con los requisitos exigidos por la legislación y normatividad aplicable;
+
+b. El plazo con que cuentan los aspirantes, cuya solicitud haya sido desechada, para recoger su documentación y fecha límite para ello;
+
+c. El día y hora en donde tendrán verificativo las comparecencias ante las Comisiones Conjuntas Inspectora de la Auditoria Superior del Estado, y de Transparencia y Anticorrupción, de los aspirantes que hayan cumplido con los requisitos exigidos, a efecto de garantizar su garantía de audiencia y conocer su interés y razones respecto a su posible designación en el cargo;
+
+VIII. Una vez que se hayan integrado y revisado los expedientes, y desahogadas las comparecencias, las Comisiones Conjuntas Inspectora de la Auditoria Superior del Estado, y de Transparencia y Anticorrupción, sesionarán de manera conjunta con la finalidad de expedir un Acuerdo para la formulación de la lista de candidatos aptos para ser votados por el Pleno que se hará llegar a la Junta de Gobierno;
+
+IX. Los integrantes de la Junta de Gobierno determinarán por el más amplio consenso posible y atendiendo a las consideraciones y recomendaciones que establezcan las Comisiones Conjuntas Inspectora de la Auditoria Superior del Estado, y de Transparencia y Anticorrupción, la propuesta del nombre del candidato a titular del Órgano Interno de Control que corresponda, emitiendo el Acuerdo correspondiente;
+
+X. En sesión del Congreso, se dará a conocer al Pleno el Acuerdo a que se refiere la fracción anterior, y se procederá a su discusión y votación en los términos que establezca la presente Ley y su Reglamento;
+
+XI. Aprobado el Acuerdo, por el voto de las dos terceras partes de las y los Diputados presentes, el candidato cuyo nombramiento se apruebe en los términos de la presente sección, rendirá la protesta constitucional ante el Pleno.
+
+De no ser aprobado el Acuerdo, será devuelto a la Junta de Gobierno donde se evaluarán (sic) nuevamente la lista de candidatos.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 10 DE JULIO DE 2017)</small>
+
+#### SECCIÓN CUARTA TER. DE LA RESPONSABILIDAD DE LOS TITULARES DE LOS ÓRGANOS INTERNOS DE CONTROL
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+ARTÍCULO 74 QUATER.- El Congreso a través de la Auditoria Superior del Estado podrá investigar, sustanciar, y resolver sobre las faltas administrativas no graves de los titulares de los Órganos Internos de Control de los organismos autónomos que ejerzan recursos del Presupuesto de Egresos del Estado.
+
+Asimismo, será competente para investigar y sustanciar las faltas administrativas graves cuya sanción corresponde al Tribunal Estatal de Justicia Administrativa, de conformidad con lo dispuesto por la legislación en materia de Responsabilidades Administrativas y demás normas jurídicas aplicables.
+
+En el ejercicio de sus funciones, dicha instancia deberá garantizar la separación entre las áreas encargadas de la investigación, sustanciación y resolución de los procedimientos, en los términos previstos por la legislación en materia de Responsabilidades Administrativas.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+ARTÍCULO 74 QUINQUIES.- Cualquier persona, cuando presuma que los titulares de los Órganos Internos de Control de cualquiera de los organismos autónomos que ejerzan recursos del Presupuesto de Egresos del Estado, hayan incurrido en los supuestos previstos en el TÍTULO DÉCIMO de la Constitución Política del Estado de Hidalgo, podrá presentar denuncias ante las autoridades correspondientes, acompañándola de los documentos y evidencias en las cuales se sustente.
+
 #### SECCIÓN QUINTA. DE LAS COMISIONES
 
 ###### ARTÍCULO 75.
@@ -783,7 +847,9 @@ XXIV.- Comisión de Ciencia y Tecnología;
 
 XXV.- Comisión de Turismo;
 
-XXVI.- Comisión de Transparencia y Acceso a la Información Pública Gubernamental; y
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+XXVI.- Comisión de Transparencia y Anticorrupción;
 
 XXVII.- Comisión de Cultura;
 
@@ -819,23 +885,29 @@ Las Comisiones Especiales, serán aprobadas por el Pleno, a propuesta de la Junt
 
 Las Comisiones Especiales, tendrán la competencia que se les atribuya en el acto de su aprobación; contarán con el número de integrantes que el Pleno determine y fungirán por el tiempo que se requiera para el despacho de los asuntos que les dieron origen.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 81.
 
-La Comisión Inspectora de la Auditoria Superior, será presidida por el Presidente de la Junta de Gobierno.
+La Comisión Inspectora de la Auditoría Superior, será presidida por el Presidente de la Junta de Gobierno, y deberá estar integrada por Diputados representantes de los Grupos Legislativos reconocidos en la Legislatura.
+
+Tendrán las funciones y atribuciones que le confiere la Constitución Política del Estado de Hidalgo, la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Hidalgo, la legislación en materia de responsabilidades administrativas de los servidores públicos, esta Ley, su Reglamento y demás disposiciones legales y normativas aplicables.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 82.
 
-Las comisiones serán electas por mayoría simple, estarán integradas, a excepción de la de Legislación y puntos Constitucionales, Instructora y la de Hacienda, con un mínimo de tres Diputados y un máximo de cinco, actuando como Presidente el electo en primer término y los dos siguientes como Secretarios.
+Las comisiones serán electas por mayoría simple, estarán integradas, a excepción de la de Legislación y Puntos Constitucionales, y la de Hacienda y Presupuesto, con un mínimo de tres Diputados y un máximo de cinco, actuando como Presidente el electo en primer término y fungirán como secretarios los electos en segundo y tercer término respectivamente, quedando los restantes como vocales.
 
 A las presidencias de las comisiones, se accederá en forma proporcional a la representación que tengan los Grupos Legislativos.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 83.
 
-Las Comisiones de Legislación y Puntos Constitucionales y de Hacienda, se integrarán por un mínimo de cinco y un máximo de nueve diputados.
+Las Comisiones de Legislación y Puntos Constitucionales y de Hacienda y Presupuesto, se integrarán por un mínimo de cinco y un máximo de nueve diputados.
 
-La Comisión instructora se integrarán por cinco diputados y fungirá como presidente y secretarios los electos en primer, segundo y tercer término respectivamente, quedando los restantes como vocales. Tendrá las funciones y atribuciones que le confiere la Constitución Política del Estado de Hidalgo, la Ley de Responsabilidades de los Servidores Públicos esta Ley, su Reglamento y las disposiciones legales aplicables. Así mismo deberá estar integrada por Diputados representantes de los Grupos Legislativos reconocidos en la Legislatura.
+La Comisión Instructora se integrará por cinco diputados y fungirá como presidente y secretarios los electos en primer, segundo y tercer término respectivamente, quedando los restantes como vocales. Tendrán las funciones y atribuciones que le confiere la Constitución Política del Estado de Hidalgo, la legislación en materia de responsabilidades de los servidores públicos, esta Ley, su Reglamento y demás disposiciones legales y normativas aplicables.
 
 ###### ARTÍCULO 84.
 
@@ -853,13 +925,15 @@ Cuando una Comisión, considere necesario demorar o suspender el despacho de alg
 
 El Dictamen, deberá estar firmado por la mayoría de los integrantes de la Comisión; en caso de que alguno de los integrantes no estuviere de acuerdo con el mismo, presentará voto particular por escrito debidamente fundamentado, pudiendo exponer ante el Pleno o la Diputación Permanente en su caso, los motivos y fundamentos que lo originaron.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 88.
 
-Las Comisiones pueden solicitar de cualquier Dependencia del Estado y Entidades Públicas, los informes o copias de documentos que estimen necesarios para el mejor estudio de los asuntos, así como la comparecencia de servidores públicos que apruebe la Junta de Gobierno, salvo que se trate de informes o documentos que conforme a la Ley, deben mantenerse en secreto.
+Las Comisiones pueden solicitar de cualquier dependencia pública federal, estatal o municipal, los informes o copias de documentos que estimen necesarios para el mejor estudio de los asuntos, así como la comparecencia de servidores públicos siempre y cuando lo apruebe la Junta de Gobierno, salvo que se trate de informes o documentos que, conforme a la Ley, deben mantenerse en secreto.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
-Los Titulares de Dependencia o Entidad Pública, así como de los Ayuntamientos, estarán obligados a comparecer en la fecha que se señale y/o proporcionar la información, para lo cual contarán con un plazo de diez días hábiles, si así no lo hicieren, dicha omisión será calificada como falta grave y serán sujetos del procedimiento que establezca la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo.
+Los Titulares de Dependencia o Entidad Pública, así como de los Ayuntamientos, estarán obligados a comparecer en la fecha que se señale o proporcionar la información, para lo cual contarán con un plazo de diez días hábiles, si así no lo hicieren, dicha omisión será calificada como falta grave y serán sujetos del procedimiento que establezca la legislación en materia de responsabilidades de servidores públicos.
 
 Con motivo de alguna promoción o escrito dirigidos al Congreso o a alguna Comisión en particular, se deberá designar domicilio ubicado en la población donde resida el Poder Legislativo, para que se hagan las notificaciones correspondientes.
 
@@ -969,7 +1043,17 @@ V.- Proponer al Pleno del Congreso, la integración de las Comisiones Permanente
 
 VI.- Formular la Agenda Legislativa que regirá los trabajos en cada período de Sesiones Ordinarias y Extraordinarias, así como de la Diputación Permanente; y
 
-VII.- Las demás que le encomiende el Pleno del Congreso, la presente Ley, su Reglamento y demás ordenamientos legales.
+> <small>(REFORMAD [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2017)</small>
+
+VII.- Proponer al Pleno la convocatoria que contendrá el procedimiento para nombrar al Fiscal Especializado en Delitos de Corrupción, atendiendo a la (sic) dispuesto en los apartados A y C del artículo 92 (sic) Constitución Política del Estado de Hidalgo;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2017)</small>
+
+VIII.- Proponer al Pleno la convocatoria que contendrá el procedimiento para constituir la Comisión de Selección, a que hace referencia la Ley del Sistema Estatal Anticorrupción;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE JULIO DE 2017)</small>
+
+IX.- Las demás que le encomiende el Pleno del Congreso, la presente Ley, su Reglamento y demás ordenamientos legales.
 
 ###### ARTÍCULO 101.
 
@@ -1083,9 +1167,11 @@ En caso de que el Presidente de la Directiva se negare o estuviese imposibilitad
 
 En caso de persistir la falta de Quórum, podrán ser llamados los Diputados Suplentes, en los términos que la presente Ley establezca.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 112.
 
-Las Sesiones del Congreso del Estado, podrán ser Públicas o Secretas. Serán Secretas, las Sesiones en que se traten los siguientes asuntos: las acusaciones que se presenten contra los Servidores Públicos a que se refiere el Artículo 2 de la Ley de Responsabilidades de los Servidores Públicos; las comunicaciones que se dirijan a la legislatura con la nota de reservado; los trámites que la Directiva considere para tal efecto y cuando se desahoguen asuntos en que uno o más Diputados, soliciten sean tratados de ésta manera, con la aprobación de la mayoría.
+Las Sesiones del Congreso del Estado, podrán ser Públicas o Secretas. Serán Secretas, las Sesiones en que se traten los siguientes asuntos: las acusaciones que se presenten contra los Servidores Públicos a que se refieran los ordenamientos en materia de responsabilidades de servidores públicos; las comunicaciones que se dirijan a la Legislatura con la nota de reservado; los trámites que la Directiva considere para tal efecto y cuando se desahoguen asuntos en que uno o más Diputados, soliciten sean tratados de ésta manera, con la aprobación de la mayoría.
 
 A las Sesiones Secretas, podrán asistir, además de los Diputados, los Servidores Públicos del Congreso del Estado, que sean estrictamente necesarios, quienes están obligados a guardar la más absoluta reserva de Ley, sobre los asuntos tratados en ellas.
 
@@ -1097,19 +1183,17 @@ Si los hechos que la Ley señala como delitos se cometieran durante el receso o 
 
 El Presidente de la Directiva, informará inmediatamente a las Autoridades competentes de los hechos cometidos en el Recinto Oficial.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 114.
 
-Durante el Segundo Período Ordinario de Sesiones, el Congreso se ocupará preferentemente de conocer el Informe del Resultado de la Revisión de la Cuenta Pública del Estado, las de los Municipios, las de los Organismos Autónomos y de cualquier persona física o moral que reciba por cualquier título recursos públicos.
+Durante el Primer Período Ordinario de Sesiones, y para que rijan en el año siguiente, el Congreso se ocupará prioritariamente de examinar y aprobar en su caso, la Ley de Ingresos del Estado y las de los Municipios, así como el Presupuesto de Egresos del Estado, que el Gobernador deberá enviarle a más tardar el quince de diciembre.
 
-El Congreso concluirá la revisión de las cuentas públicas el 31 de octubre del año siguiente al de su presentación, con base en las conclusiones técnicas del Informe del Resultado de la Revisión, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por la Auditoria Superior del Estado, siga su curso.
+Durante el Segundo Período Ordinario de Sesiones, el Congreso se ocupará preferentemente de conocer el informe general que resulte de la fiscalización superior de la cuenta pública del Estado, las de los municipios, de los organismos autónomos y de cualquier persona física o moral que reciba por cualquier título recursos públicos.
 
-La Auditoria Superior tiene la obligación de entregar al Congreso del Estado, el Informe del Resultado de la Revisión de la Cuenta Pública, a más tardar en la segunda quincena del mes de marzo del año siguiente al de su presentación.
+El Congreso concluirá la revisión de las cuentas públicas el 31 de octubre del año siguiente al de su presentación, con base en las conclusiones técnicas del informe general de la fiscalización superior, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por la Auditoría Superior del Estado sigan su curso.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2015)</small>
-
-En el primero y para que rijan en el año siguiente se ocupará prioritariamente de examinar y aprobar, en su caso, la Ley de Ingresos del Estado y las de los Municipios, así como el Presupuesto de Egresos del Estado, que el Gobernador deberá enviarle a más tardar el 15 de diciembre de cada año.
+La Auditoria Superior tiene la obligación de entregar al Congreso del Estado, los informes que establece la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Hidalgo; cumpliendo los procedimientos, plazos y formalidades establecidas.
 
 ###### ARTÍCULO 115.
 
@@ -1131,7 +1215,9 @@ III.- Lectura del Acta de la Sesión anterior, para efecto de su aprobación, en
 
 IV.- Lectura de las comunicaciones oficiales, procedentes de los Poderes Ejecutivo y Judicial del Estado, así como de la Auditoria Superior del Estado y de los Municipios del Estado;
 
-V.- Lectura de las comunicaciones oficiales de los Poderes Federales, de los Estados, del Distrito Federal y de los Municipios de otras Entidades Federativas;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+V.- Lectura de las comunicaciones oficiales de los Poderes Federales, de los Estados y de los Municipios de otras Entidades Federativas;
 
 > <small>(ADICIONADA, P.O. 23 DE MAYO DE 2016)</small>
 
@@ -1143,13 +1229,19 @@ VII.- Lectura de las comunicaciones de la Directiva;
 
 VIII.- Lectura de las Iniciativas de Leyes o Decretos provenientes de las Autoridades señaladas en el Artículo 47 de la Constitución Política del Estado de Hidalgo, con excepción de lo dispuesto en el Artículo 127 de la presente Ley;
 
-IX.- Lectura, discusión y votación de Dictámenes;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+IX.- Lectura, discusión y votación de Dictámenes o Acuerdos Económicos;
 
 X.- Lectura de Decretos devueltos al Congreso, con observaciones del Titular del Poder Ejecutivo del Estado;
 
 XI.- Decretos pendientes de promulgación, cuando hubiera transcurrido el plazo señalado en el Artículo 53 de la Constitución Política del Estado de Hidalgo, en relación con el 51 del mismo ordenamiento legal; y
 
 XII.- Asuntos generales, los que deberán ser registrados en términos de lo dispuesto por el Reglamento de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+El orden de los asuntos, podrá modificarse, atendiendo a la necesidad de los trabajos legislativos a petición del Presidente de la Directiva y deberá ser aprobado por el Pleno.
 
 ###### ARTÍCULO 118.
 
@@ -1477,9 +1569,11 @@ Declarado el Proyecto suficientemente discutido, se preguntará si se aprueba o 
 
 En caso de votación negativa, se preguntará si el Proyecto vuelve a la Comisión. Si la resolución es afirmativa, volverá a la Comisión para el efecto de su reforma, en sentido contrario, se tendrá por desechada.
 
-> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
-ARTÍCULO 162 BIS.- Es obligación del Congreso del Estado, difundir permanentemente en la red de información Mundial denominada internet, así como en la página de internet del Congreso a más tardar al día siguiente de la Sesión, el sentido de la votación de cada uno de los Diputados respecto de Dictámenes y Acuerdos Económicos, salvo aquellas que se hagan de forma cedular.
+###### Artículo 162 Bis.
+
+La Secretaría de Servicios Legislativos deberá difundir en la página de Internet del Congreso, los Dictámenes y Acuerdos Económicos leídos y discutidos en el Pleno, así como el sentido de la votación a más tardar al día siguiente de la sesión, el sentido de la votación de cada uno de los Diputados, respecto de Dictámenes y Acuerdos Económicos, salvo aquellas que se hagan de forma cedular.
 
 ###### ARTÍCULO 163.
 
@@ -1583,6 +1677,8 @@ En los casos de elección de los Servidores Públicos, cuyo nombramiento deba ap
 
 ### CAPÍTULO I. DE LA AUDITORIA SUPERIOR DEL ESTADO
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 178.
 
 Las Leyes ó Decretos, se expedirán mediante la fórmula siguiente:
@@ -1643,13 +1739,17 @@ VI.-Instituto para el Desarrollo y Fortalecimiento Municipal;
 
 VII.- Dirección de Comunicación Social;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
 
-VIII.- Unidad Institucional de Género; y
+VIII.- Unidad Institucional de Genero;
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
 
-IX.- Contraloría Interna.
+IX.- Contraloría Interna; y
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2017)</small>
+
+X.- Unidad de Transparencia
 
 Los Órganos Técnicos y Administrativos del Congreso del Estado, tendrán las atribuciones que les señalen la Constitución Política del Estado de Hidalgo, esta Ley, su Reglamento, el propio que rija sus actividades y demás ordenamientos legales.
 
@@ -1669,27 +1769,37 @@ IV.- Contar con los conocimientos y experiencia comprobables para el buen desemp
 
 ###### ARTÍCULO 187.
 
-La facultad fiscalizadora del Congreso, se ejercerá por conducto de la Auditoria Superior del Estado de Hidalgo, dependiente del Congreso del Estado, quien tendrá a su cargo la revisión y fiscalización de la Cuenta Pública de los sujetos de la misma, que señala la Constitución Política del Estado de Hidalgo y demás leyes y Reglamentos aplicables.
+La facultad fiscalizadora del Congreso, se ejercerá por conducto de la Auditoria Superior del Estado de Hidalgo, como órgano técnico dependiente del Congreso del Estado, de conformidad con lo que establezca la Constitución Política del Estado de Hidalgo, la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Hidalgo y los ordenamientos vigentes aplicables.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 188.
 
-El titular de la Auditoria Superior del Estado será nombrado de conformidad con el procedimiento y requisitos establecidos en la Ley de la Auditoria Superior del Estado del Estado de Hidalgo.
+El titular de la Auditoría Superior del Estado será nombrado de conformidad con el procedimiento y requisitos establecidos en la Constitución Política del Estado de Hidalgo y de la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Hidalgo.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 189.
 
-La Auditoria Superior del Estado, contará con las Unidades Administrativas que señale su Ley.
+Para el despacho de los asuntos propios de la Auditoría Superior contará con los servidores públicos y unidades administrativas que al efecto señale la legislación y normatividad, con base en las disposiciones administrativas y presupuestales aplicables, y en atención a las necesidades que el servicio requiera.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 190.
 
-La Comisión Inspectora de la Auditoria Superior del Estado, recibirá y revisará el Informe del Resultado de la Revisión de las Cuentas Públicas, para su trámite correspondiente al Pleno del Congreso.
+La Comisión Inspectora de la Auditoria Superior del Estado, recibirá y revisará los informes que establece la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Hidalgo; cumpliendo los procedimientos, plazos y formalidades establecidas, para su trámite correspondiente al Pleno del Congreso.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 191.
 
-El Auditor Superior del Estado, será el responsable del resguardo y custodia de las Cuentas Públicas mientras sean exigibles, en los términos que dispone la Ley.
+El Auditor Superior del Estado será el responsable del resguardo y custodia de las Cuentas Públicas, asimismo presentará y publicará en tiempo y forma los informes correspondientes a su revisión, mientras sean exigibles, en los términos que dispone la Ley.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 192.
 
-El Auditor Superior del Estado, contará con las facultades que señala la Constitución Política del Estado, la Ley de la materia y las demás disposiciones legales aplicables.
+El Auditor Superior del Estado, contará con las facultades que señala la Constitución Política del Estado, la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Hidalgo y las demás disposiciones legales aplicables.
 
 ### CAPÍTULO IV. DE LA DIRECCIÓN GENERAL DE SERVICIOS ADMINISTRATIVOS
 
@@ -1729,11 +1839,13 @@ XV.- Coordinar a los Órganos Auxiliares del Congreso, los servicios que estos p
 
 XVI.- Llevar el registro cronológico de las Leyes, Decretos y Acuerdos Económicos que expida el Congreso;
 
-XVII.- Coordinar la Unidad de Acceso a la Información Pública Gubernamental, y vigilar que cumpla con las facultades que le conceden la Ley de Transparencia y Acceso a la Información Pública Gubernamental y el Reglamento Interior del Comité de Acceso a la Información Pública Gubernamental del Poder Legislativo del Estado de Hidalgo;
+XVII.- (DEROGADA, P.O. 10 DE JULIO DE 2017)
 
 XVIII.- Proponer Planes y Programas de Capacitación para el personal técnico y administrativo del Congreso, en materia de Proceso Legislativo;
 
-XIX.- Supervisar, autorizar y actualizar el contenido de la información que se publique en la página electrónica del Congreso, en Internet o cualquier otro medio electrónico o impreso, así como la que la Unidad de Acceso a la Información Pública Gubernamental proporcione a los peticionarios de información; y
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+XIX.- Supervisar, autorizar y actualizar el contenido de la información que deba difundirse en la Gaceta Parlamentaría, en la página web del Congreso, o cualquier otro medio electrónico o impreso, atendiendo los principios de transparencia, publicidad y acceso a la información; y
 
 XX.- Las demás que le señale esta Ley, su Reglamento y los Acuerdos emanados del Pleno o de la Diputación Permanente, en su caso.
 
@@ -1965,35 +2077,65 @@ XX.- Las demás las (sic) facultades que señalen otras disposiciones legales ap
 
 ### CAPÍTULO IX. CONTRALORÍA INTERNA
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
-ARTÍCULO 202 TER.- El Congreso del Estado contará con una Contraloría Interna, la cual será un Órgano Técnico y Administrativo y estará a cargo de un Director General designado por el Presidente de la Junta de Gobierno, teniendo las siguientes atribuciones:
+ARTÍCULO 202 TER. La Contraloría Interna del Congreso del Estado tendrá el nivel de Dirección General y su Titular será designado por la mayoría de los Diputados presentes en el Pleno a propuesta de la Junta de Gobierno, durará en su cargo 4 años y podrá ser designado por un periodo inmediato posterior.
 
-I.- Coadyuvar en el control, revisión y fiscalización del ejercicio del presupuesto de egresos del Congreso;
+Podrá ser removido de su cargo por causa grave calificada por el voto de la mayoría de los Diputados presentes.
 
-II.- Evaluar la gestión de los Órganos Técnico y Administrativos del Congreso del Estado, para medir la eficiencia, eficacia, economía y calidad en su desempeño, así como los resultados e impacto de los programas y recursos ejercidos con base en los principios de racionalidad, austeridad, proporcionalidad y equidad en todos los procesos administrativos;
+Tendrá las siguientes atribuciones:
 
-III.- Recibir y dar trámite a las quejas y denuncias que se formulen con motivo del presunto incumplimiento de las obligaciones administrativas establecidas en la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo;
+I. Coadyuvar en el control, revisión y fiscalización del ejercicio del presupuesto de egresos del Congreso;
 
-IV.- Atender e intervenir en los diferentes medios de impugnación ante autoridades competentes e interponer los recursos legales que correspondan;
+II. Evaluar la gestión de los Órganos Técnico y Administrativos del Congreso del Estado, para medir la eficiencia, eficacia, economía y calidad en su desempeño, así como los resultados e impacto de los programas y recursos ejercidos con base en los principios de racionalidad, austeridad, proporcionalidad y equidad en todos los procesos administrativos;
 
-V.- Diseñar, implementar y supervisar el sistema de control y fiscalización de los Órganos Técnicos y Administrativos del Congreso del Estado para que cumplan con las políticas y programas establecidos;
+III. Recibir y dar trámite a las quejas y denuncias que se formulen con motivo del presunto incumplimiento de las obligaciones administrativas establecidas en las leyes en materia de responsabilidades administrativas de los servidores públicos;
 
-VI.- Verificar los procedimientos, actos y contratos de adquisición de bienes y contratación de servicios que se realicen, de conformidad con la Ley en la materia y la legislación aplicable;
+IV. Atender e intervenir en los diferentes medios de impugnación ante autoridades competentes e interponer los recursos legales que correspondan;
 
-VII.- Admitir, desahogar y resolver las inconformidades o conciliaciones que se presenten con motivo de los procesos licitatorios, en términos de la Ley en la materia y la legislación aplicable;
+V. Diseñar, implementar y supervisar el sistema de control y fiscalización de los Órganos Técnicos y Administrativos del Congreso del Estado para que cumplan con las políticas y programas establecidos;
 
-VIII.- Participar conforme a sus atribuciones, en los actos de entrega-recepción, así como, en las actas administrativas en las que se solicite su intervención y/o dicte; y
+VI. Verificar los procedimientos, actos y contratos de adquisición de bienes y contratación de servicios que se realicen, de conformidad con la Ley en la materia y la legislación aplicable;
 
-IX.- Las demás que prevea la legislación aplicable y el Reglamento de la Ley Orgánica del Poder Legislativo.
+VII. Admitir, desahogar y resolver las inconformidades o conciliaciones que se presenten con motivo de los procesos licitatorios, en términos de la Ley en la materia y la legislación aplicable;
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+VIII. Participar conforme a sus atribuciones, en los actos de entrega recepción, así como, en las actas administrativas en las que se solicite su intervención y/o dicte;
 
-ARTÍCULO 202 QUATER.- La Contraloría Interna se auxiliará de las siguientes áreas, cuyas funciones se organizarán y especificarán en el Reglamento de la presente Ley.
+IX. Presentar a la Junta de Gobierno informes semestrales y anuales; y
 
-I.- Dirección de Auditoría y Desarrollo Administrativo; y
+X. Las demás que prevea el Reglamento de la Ley Orgánica del Poder Legislativo, la legislación y normatividad aplicable.
 
-II.- Dirección de Quejas y Responsabilidades.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
+ARTÍCULO 202 QUÁTER.- La Contraloría Interna tendrá a su vez, sin perjuicio de las establecidas en el Sistema Estatal Anticorrupción y demás disposiciones legales aplicables, las siguientes funciones:
+
+I. En materia de prevención:
+
+a. Implementar, en los términos establecidos por el Sistema Estatal Anticorrupción, mecanismos internos que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas o hechos de corrupción.
+
+b. Elaborar un Código de Ética conforme a los lineamientos que emita el Sistema Estatal Anticorrupción, el cual deberá ser observado por todos los servidores públicos para que en su actuación impere una conducta digna que responda a las necesidades de la sociedad y que oriente su desempeño.
+
+II. En materia de procedimientos de responsabilidades administrativas:
+
+a. En el ámbito de su competencia conforme a la legislación aplicable, la investigación, substanciación y calificación de las faltas administrativas, para lo cual recibirá las quejas y denuncias que correspondan.
+
+b. Tratándose de actos u omisiones que hayan sido calificados como faltas administrativas no graves, la Contraloría Interna será competente para iniciar, substanciar y resolver los procedimientos de responsabilidad administrativa previstos (sic) la legislación aplicable.
+
+En caso de faltas administrativas calificadas como graves, el servidor público designado, presentará las denuncias por hechos que las leyes señalen como delitos ante la Fiscalía Especializada en Delitos de Corrupción.
+
+c. Rendir ante el Comité Coordinador del Sistema Estatal de Anticorrupción, un informe detallado del porcentaje de los procedimientos iniciados que culminaron con una sanción firme y a cuánto asciende, en su caso, las indemnizaciones efectivamente cobradas durante el periodo del mismo.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+ARTÍCULO 202 QUINQUIES.- La Contraloría Interna contará con la estructura orgánica necesaria para el cumplimiento de sus atribuciones y funciones, se organizarán y especificarán en el Reglamento de la presente Ley, como mínimo contará con las siguientes áreas:
+
+I. De Auditoría y Desarrollo Administrativo; y
+
+II. De Quejas y Responsabilidades.
+
+Asimismo, contará con la estructura orgánica adicional que requiera para realizar las funciones de naturaleza investigadora y substanciadora respectivamente, garantizando así la independencia entre ambas en el ejercicio de sus funciones. A quien se encomiende la substanciación y, en su caso, resolución del procedimiento de responsabilidad administrativa, deberá ser distinta de la encargada de la investigación.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 202.
 
@@ -2013,17 +2155,49 @@ VI.- Las demás que le señalen esta Ley, su Reglamento y los ordenamientos lega
 
 (ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE JUNIO DE 2014) (F. DE E., 28 DE JULIO DE 2014)
 
+### CAPÍTULO X. DE LA UNIDAD DE TRANSPARENCIA
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+ARTÍCULO 202 SEXTIES.- El Congreso del Estado, contará con una Unidad de Transparencia, su titular será nombrado por la Presidencia de la Junta de Gobierno quien será responsable de su coordinación y vigilancia. Tendrá las siguientes funciones:
+
+I. Recabar y difundir la información a que se refieren los Capítulos II, III, IV y V del Título Quinto de la Ley General de Transparencia y Acceso a la Información Pública, así como las correspondientes de la Ley Federal y de la Ley del Estado de Hidalgo; así como propiciar que los Órganos y las Áreas del Congreso la actualicen periódicamente, conforme la normatividad aplicable;
+
+II. Recibir y dar trámite a las solicitudes de acceso a la información;
+
+III. Auxiliar a los particulares en la elaboración de solicitudes de acceso a la información y, en su caso, orientarlos sobre los sujetos obligados competentes conforme a la normatividad aplicable;
+
+IV. Realizar los trámites internos necesarios para la atención de las solicitudes de acceso a la información;
+
+V. Efectuar las notificaciones a los solicitantes;
+
+VI. Proponer al Comité de Transparencia los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información, conforme a la normatividad aplicable;
+
+VII. Proponer personal habilitado que sea necesario para recibir y dar trámite a las solicitudes de acceso a la información;
+
+VIII. Llevar un registro de las solicitudes de acceso a la información, respuestas, resultados, costos de reproducción y envío;
+
+IX. Promover e implementar políticas de transparencia proactiva procurando su accesibilidad;
+
+X. Fomentar la transparencia y accesibilidad al interior del Congreso del Estado;
+
+XI. Hacer del conocimiento de la instancia competente la probable responsabilidad por el incumplimiento de las obligaciones previstas en la legislación en materia de Transparencia y Acceso a la Información Pública y en las demás disposiciones aplicables; y
+
+XII. Las demás que se desprendan de la legislación y normatividad aplicable.
+
 ### CAPÍTULO ÚNICO. DEL RÉGIMEN DE RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS DEL CONGRESO DEL ESTADO
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
 ### CAPÍTULO ÚNICO. DEL JUICIO POLÍTICO Y DE LA DECLARACIÓN DE PROCEDENCIA
 
-### CAPÍTULO ÚNICO. DEL PROCEDIMIENTO A SEGUIR PARA RESOLVER LOS CONFLICTOS A QUE SE REFIERE LA FRACCIÓN XIII DEL ARTÍCULO 56 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
-
 ## TÍTULO SÉPTIMO
+
+### CAPÍTULO ÚNICO. DEL PROCEDIMIENTO A SEGUIR PARA RESOLVER LOS CONFLICTOS A QUE SE REFIERE LA FRACCIÓN XIII DEL ARTÍCULO 56 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
 ###### ARTÍCULO 203.
 
-Para los efectos del presente Titulo, la Auditoria Superior del Estado, será el Órgano responsable de llevar a cabo auditorias, atender y recibir quejas, realizar investigaciones y aplicar el procedimiento y las sanciones inherentes a las responsabilidades administrativas de los servidores Públicos del Congreso local, así como llevar el registro y control de sus declaraciones de situación patrimonial, previstos en la ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo.
+Para los efectos del presente Título, la Contraloría Interna, así como la Auditoria Superior del Estado, serán los Órganos responsables de llevar a cabo auditorias, atender y recibir quejas, realizar investigaciones y aplicar el procedimiento y las sanciones inherentes a las responsabilidades administrativas de los servidores públicos del Congreso Local, en el ámbito de sus respectivas facultades, así mismo, la Auditoria Superior del Estado de Hidalgo, será la encargada de llevar el registro y control de las declaraciones de situación patrimonial, previstos en las leyes en materia de responsabilidades administrativas de servidores públicos y demás disposiciones aplicables.
 
 ###### ARTÍCULO 204.
 
@@ -2039,7 +2213,7 @@ IV.- Directores Generales y de Área, Subdirectores, Auditores, Jefes de Departa
 
 ###### ARTÍCULO 205.
 
-La declaración patrimonial, deberá presentarse en los siguientes plazos:
+la declaración patrimonial, deberá presentarse en los siguientes plazos:
 
 I.- La inicial, dentro de los sesenta días hábiles siguientes al inicio de sus funciones;
 
@@ -2055,9 +2229,11 @@ Transcurridos los plazos a que hace referencia este artículo, se estará a lo d
 
 La Auditoria Superior del Estado, emitirá las bases y normas, proporcionando gratuitamente los formatos, manuales e instructivos, bajo los cuales el servidor público deberá presentar su declaración patrimonial.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 207.
 
-Con relación a este Capítulo, en lo no previsto en esta Ley y su Reglamento, se aplicara en lo que corresponda supletoriamente, la Ley de Responsabilidades de los Servidores Públicos.
+Con relación a este Capítulo, en lo no previsto en esta Ley y su Reglamento, se aplicará en lo que corresponda supletoriamente lo previsto en las leyes en materia de responsabilidades administrativas de servidores públicos.
 
 ## TÍTULO OCTAVO
 
@@ -2252,3 +2428,19 @@ P.O. 1 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 678.- QUE REFORMA LA FRACCIÓN X DEL ARTÍCULO 77 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO; Y EL PRIMER PÁRRAFO DEL ARTÍCULO 35 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 10 DE JULIO DE 2017.
+
+[N. DE E TRANSITORIOS DEL "DECRETO NUM. 202 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Sin menoscabo de la vigencia del Artículo Primero Transitorio, en materia de combate a la corrupción y responsabilidades administrativas, se estará a lo establecido en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política para el Estado de Hidalgo, en las Leyes Generales y Federales y en las Leyes Secundarias del Sistema Nacional Anticorrupción y del Sistema Estatal Anticorrupción.
+
+TERCERO. Por lo que hace a la presentación de la declaración de situación patrimonial de los síndicos y regidores, se estará a lo dispuesto en la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Hidalgo.
+
+CUARTO. El Congreso del Estado, deberá emitir las convocatorias a que hacen (sic) las fracciones VII y VIII del artículo 100 de la presente Ley, en un lapso no mayor a treinta días.
+
+Respecto a la convocatoria a que hace referencia la fracción I del artículo 74 Ter de la presente Ley, deberá ser emitida en un lapso no mayor a noventa días.
+
+QUINTO. Se derogan todas las disposiciones legales y normativas que contravengan lo estipulado en el presente decreto.
