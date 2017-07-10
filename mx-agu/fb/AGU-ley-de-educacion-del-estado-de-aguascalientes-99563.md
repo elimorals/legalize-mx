@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-99563"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-11"
-last_updated: "2017-07-03"
+last_updated: "2017-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2017.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 11 de marzo de 2014.
 
@@ -165,9 +165,13 @@ La educación que imparta, promueva o atienda el Estado, sus Organismos Descentr
 
 I. Favorecer el desarrollo de facultades para adquirir y desarrollar valores, habilidades, conocimientos científicos, humanísticos y tecnológicos, así como la capacidad de observación, análisis y reflexión críticos; fomentando aptitudes que estimulen la investigación científica y tecnológica;
 
-II. Promover valores éticos;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
 
-III. Fomentar y fortalecer la conciencia de la nacionalidad, soberanía, el aprecio por los valores cívicos, la historia, los símbolos patrios, las instituciones nacionales y las tradiciones culturales regionales y nacionales;
+II. Promover valores éticos; fomentando una conciencia de respeto a los derechos fundamentales de la persona y la sociedad, como medio para conservar la paz, la armonía y la sana convivencia, respetando la pluralidad de ideas y opiniones, así como propiciar la cultura de la legalidad, de la inclusión y la no discriminación, de la no violencia en cualquier tipo de sus manifestaciones;
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+III. Fomentar y fortalecer la conciencia sobre la diversidad y la cultura de inclusión como condiciones para el enriquecimiento social y cultural de la nacionalidad, soberanía, el aprecio por los valores cívicos, la historia, los símbolos patrios, las instituciones nacionales y las tradiciones culturales regionales y nacionales;
 
 IV. Infundir el conocimiento y la práctica de la democracia como la forma de Gobierno y convivencia que permite a todos participar en la toma de decisiones para el mejoramiento de la sociedad;
 
@@ -226,6 +230,10 @@ XIX. Resaltar y fomentar la responsabilidad de todos para hacer de los espacios 
 Todo individuo tiene derecho a recibir educación de calidad, sin discriminación alguna por motivos de raza, género, religión, lengua, ideología, impedimento físico o cualquier otra condición personal, social o económica, por lo tanto, todos los habitantes del Estado de Aguascalientes tienen las mismas oportunidades de acceso al Sistema Educativo Estatal, con sólo satisfacer los requisitos que establezcan las disposiciones generales aplicables.
 
 En el Sistema Educativo Estatal deberá asegurarse la participación activa de todos los involucrados en el proceso educativo, con sentido de responsabilidad social, privilegiando la participación de los educandos, padres de familia y docentes, para alcanzar los fines a que se refiere el Artículo 8° de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+Por consiguiente, los padres de familia reforzarán desde el hogar, el fomento a sus hijos o pupilos sobre los valores cívicos, así como el aprecio por las tradiciones culturales y artísticas de nuestra entidad federativa; propiciando un ambiente sin violencia en el núcleo familiar, privilegiando las conductas adecuadas y necesarias para poder convivir en sociedad; inculcando a sus hijos o pupilos el respeto a la autoridad del maestro o personal docente de los planteles educativos, además de las normas de convivencia social de las escuelas.
 
 ###### Artículo 10.
 
@@ -2470,3 +2478,11 @@ P.O. 3 DE JULIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 10 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 116.- SE REFORMA Y ADICIONA LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Aguascalientes.
