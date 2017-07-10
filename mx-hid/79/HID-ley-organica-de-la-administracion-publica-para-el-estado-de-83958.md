@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-administracion-publica-para-el-estado-de-839
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-21"
-last_updated: "2017-03-06"
+last_updated: "2017-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 6 DE MARZO DE 2017 NO APLICA AL ARTICULADO DEL DECRETO 166 PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de noviembre de 2011.
 
@@ -1069,41 +1067,71 @@ III.- Vigilar el cumplimiento de las normas de control y fiscalización, así co
 
 IV.- Designar a los auditores externos de las entidades paraestatales, así como normar, controlar y evaluar su actividad de acuerdo a su desempeño y comportamiento profesional;
 
-V.- Determinar los criterios y evaluar el nivel de competencias y desempeño profesional que debe reunir el titular y el personal de los Órganos Internos de Control, para autorizar su nombramiento o solicitar su remoción, opinar sobre las bases para la creación, modificación o supresión de las estructuras orgánicas de los Órganos Internos de Control de las dependencias y entidades paraestatales;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
 
-VI.- Coadyuvar e intervenir coordinadamente en la formulación y aprobación, en su caso, de los proyectos de normas de información financiera, contabilidad y de control en materia de programación, presupuestación y administración de recursos, que elaboren las dependencias correspondientes, así como en materia de contratación de deuda y manejo de fondos y valores que formule la Secretaría de Finanzas y Administración;
+V.- Determinar los criterios, evaluar el nivel de competencias y desempeño profesional que debe reunir el titular y el personal de los Órganos Internos de Control, para autorizar su nombramiento o solicitar su remoción, implementando las medidas necesarias para la profesionalización de sus miembros y opinar sobre las bases para la creación, modificación o supresión de las estructuras orgánicas de los Órganos Internos de Control de las dependencias y entidades paraestatales;
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+VI.- Coadyuvar e intervenir coordinadamente en la formulación y aprobación, en su caso, de los proyectos de normas de información financiera, contabilidad y de control en materia de programación, presupuestación y administración de recursos, que elaboren las dependencias correspondientes, así como en materia de contratación de deuda y manejo de fondos y valores que formule la Secretaría de Finanzas Publicas;
 
 VII.- Vigilar y evaluar el cumplimiento, por parte de las dependencias y entidades de la Administración Pública, sobre las obligaciones derivadas de las disposiciones en materia de planeación, programación, presupuestación, ingresos, egresos, financiamiento, inversión, deuda, patrimonio, fondos y valores de la propiedad o al cuidado del Ejecutivo del Estado;
 
-VIII.- Inspeccionar y vigilar, directamente o a través de los Órganos Internos de Control de las dependencias y entidades de la administración pública, que se cumpla con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y pago de personal, registro de proveedores y contratistas, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles o inmuebles, almacenes y demás activos y recursos materiales de la Administración Pública Central y Paraestatal;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
 
-IX.- Integrar y mantener actualizados los padrones de contratistas, concesionarios y proveedores del Ejecutivo del Estado, vigilando en la esfera de su competencia el cumplimiento de las obligaciones contraídas con la Administración Pública Estatal, solicitándoles la información relacionada con las operaciones que realicen y fincar las deductivas y responsabilidades que en su caso, procedan;
+VIII.- Inspeccionar, vigilar y fiscalizar, directamente o a través de los Órganos Internos de Control de las dependencias y entidades de la administración pública, que se cumpla con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y pago de personal, registro de proveedores y contratistas, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles o inmuebles, almacenes y demás activos y recursos materiales de la Administración Pública Central y Paraestatal;
 
-X.- Realizar auditorías, evaluaciones, inspecciones y supervisiones de obra, acciones y equipamiento a las dependencias y entidades de la Administración Pública Estatal, con el objeto de promover la eficiencia en sus operaciones y verificar el cumplimiento de los objetivos y metas contenidos en sus programas;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+IX.- Integrar y mantener actualizados los padrones de contratistas, y proveedores del Ejecutivo del Estado, vigilando en la esfera de su competencia el cumplimiento de las obligaciones contraídas con la Administración Pública Estatal, solicitándoles la información relacionada con las operaciones que realicen y fincar las deductivas y responsabilidades que en su caso, procedan;
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+X.- Realizar auditorías, revisiones, evaluaciones, inspecciones y supervisiones de obra, acciones y equipamiento a las dependencias y entidades de la Administración Pública Estatal, con el objeto de promover la eficiencia en sus operaciones y verificar el cumplimiento de los objetivos y metas contenidos en sus programas;
 
 XI.- Verificar que se efectúe, en los términos establecidos, la correcta aplicación de los subsidios que otorgue el Estado y la transferencia de recursos a los municipios, implementando los mecanismos de evaluación que correspondan, de conformidad a lo dispuesto por la fracción primera del presente Artículo;
 
 XII.- Verificar la correcta aplicación de los recursos federales y estatales que a través de los diversos ramos de inversión, se transfieran a los municipios;
 
-XIII.- Recibir, registrar y resguardar las declaraciones patrimoniales de los servidores públicos de la Administración Pública Estatal, que legalmente estén obligados a presentarlas y practicar las investigaciones que fueren pertinentes, en el ámbito de su competencia, de acuerdo con las disposiciones aplicables vigentes;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+XIII.- Recibir, registrar y resguardar las declaraciones patrimoniales, de interés y fiscal de los servidores públicos de la Administración Pública Estatal, que legalmente estén obligados a presentarlas, revisando y practicando las investigaciones o auditorias que fueren pertinentes a efecto de verificar la evolución del patrimonio de los declarantes, en el ámbito de su competencia, de acuerdo con las disposiciones aplicables vigentes;
 
 XIV.- Recibir y atender directamente, o a través de los órganos internos de control, las quejas o denuncias que presenten particulares en contra de los servidores públicos, por incumplimiento en sus obligaciones o con motivo de acuerdos o convenios que celebren con las Dependencias y Entidades de la Administración Pública Estatal, de acuerdo con las normas establecidas para tal efecto;
 
-XV.- Conocer e investigar los actos u omisiones de los servidores públicos que puedan constituir responsabilidades administrativas; aplicar las sanciones que correspondan en los términos que las leyes señalen y, en su caso, presentar las denuncias correspondientes ante el Ministerio Público, prestando para tal efecto la colaboración que le fuere requerida;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+XV.- Conocer e investigar los actos u omisiones de los servidores públicos de la Administración Pública Estatal que puedan constituir responsabilidades administrativas, así como substanciar y resolver los procedimientos correspondientes conforme a los establecido en la legislación en materia de responsabilidades administrativas aplicables en el Estado de Hidalgo, por si, o por conducto de los Órganos Internos de Control;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2017)</small>
+
+XV BIS.- Aplicar por si o a través de los Órganos Internos de Control las sanciones por faltas administrativas calificadas como no graves; y turnar a la autoridad competente las relativas a faltas administrativas calificadas como graves cometidas por servidores públicos y particulares vinculados;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2017)</small>
+
+XV TER.- Denunciar ante la Fiscalía especializada en Delitos de Corrupción los actos u omisiones que puedan constituir delitos relacionados con la corrupción;
 
 XVI.- Vigilar el cumplimiento de sus normas internas; constituir las responsabilidades administrativas de su personal aplicando las sanciones que correspondan, y hacer al efecto las denuncias a que hubiere lugar;
 
-XVII.- Informar al Titular del Poder Ejecutivo, sobre el resultado de la evaluación a las dependencias y entidades de la administración pública que hayan sido objeto de revisión, así como a otras autoridades que lo requieran de acuerdo a sus funciones y a los convenios que al efecto se celebren;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+XVII.- Informar al Titular del Poder Ejecutivo y al Comité Coordinador del Sistema Estatal Anticorrupción, sobre el resultado de la evaluación a las dependencias y entidades de la Administración Pública Estatal, respecto del ingreso, manejo, custodia y ejercicio de recursos públicos, promoviendo las acciones necesarias para corregir las irregularidades detectadas;
 
 XVIII.- Proporcionar apoyo y asesoría técnica a los municipios del Estado que lo soliciten, respecto a la asignación, ejercicio, comprobación y evaluación del gasto;
 
 XIX.- Coadyuvar en el asesoramiento y orientación a los gobiernos municipales a fin de construir y desarrollar los mecanismos, acciones y herramientas tecnológicas, electrónicas e impresas, a fin de fomentar la transparencia, rendición de cuentas y la participación ciudadana;
 
-XX.- Designar y remover a los comisarios públicos propietarios y suplentes, que constituyan el órgano de vigilancia de las Entidades Paraestatales, así como normar y controlar su desempeño;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+XX.- Designar y remover con base en las normas y controles de desempeño a los comisarios públicos propietarios y suplentes que constituyan el órgano de vigilancia de las Entidades Paraestatales;
 
-XXI.- Designar, remover y coordinar a los titulares de los órganos internos de control de las Secretarías y Entidades Paraestatales y de la Procuraduría General de Justicia, así como a los de las áreas de auditoría, quejas y responsabilidades de tales órganos, quienes dependerán jerárquica y funcionalmente de la Secretaría de Contraloría, y tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los tribunales, representando al titular de dicha Secretaría;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+XXI.- Designar, coordinar y remover a los titulares de los Órganos Internos de Control de las Dependencias, Entidades Paraestatales y de la Procuraduría General de Justicia, quienes dependerán jerárquica, funcional y presupuestalmente de la Secretaría de Contraloría, mismos que tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los tribunales, representando al Titular de dicha Secretaria;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2017)</small>
+
+XXI BIS.- Designar, coordinar y remover a los titulares de las áreas de auditoria, quejas y responsabilidades de los citados Órganos Internos de Control quienes dependerán jerárquica y funcionalmente de la Secretaria de Contraloría;
 
 XXII.- Recibir y resolver las inconformidades que presenten los proveedores y contratistas del Gobierno del Estado que consideren que sus derechos fueron afectados;
 
@@ -1129,7 +1157,9 @@ XXXII.- Conocer y resolver en el ámbito de su competencia, los recursos de revo
 
 XXXIII.- Coordinar el sistema de atención a quejas, denuncias, peticiones, sugerencias o reconocimientos que se formulen por cualquier ciudadano en relación al desempeño o actuación de los servidores públicos;
 
-XXXIV.- Implementar mecanismos idóneos para la prevención, detección y combate a la corrupción por parte de servidores públicos;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+XXXIV. Implementar los mecanismos de coordinación, bases, principios, políticas, acciones y evaluaciones, que emita el Comité Coordinador del Sistema Estatal Anticorrupción, así como atender las recomendaciones que propicien la integridad, transparencia de la gestión pública, prevención, detención y sanción de responsabilidades administrativas y hechos de corrupción.
 
 XXXV.- Regular, formular, ejecutar y coordinar las políticas y lineamientos, así como programas en materia de transparencia, acceso y difusión de la información pública gubernamental, corrección y protección de datos personales, implementando las medidas necesarias para una eficaz colaboración y asistencia técnica con el órgano garante en la materia, los organismos federales, estatales, municipales e internacionales, de conformidad con la legislación aplicable y vigente en la materia;
 
@@ -1657,7 +1687,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. JOSÉ FRANCISCO OLVERA RUIZ
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 9 DE JULIO DE 2012.
 
@@ -1724,3 +1754,9 @@ SEXTO. En todos los ordenamientos que señalen a la Secretaría de Finanzas y Ad
 SÉPTIMO. En todos los ordenamientos que señalen a la Secretaría de Contraloría y Transparencia Gubernamental, se referirá a la Secretaría de Contraloría, hasta en tanto se realice la armonización normativa correspondiente.
 
 OCTAVO. Las Dependencias del Poder Ejecutivo contempladas en el artículo 13 de esta Ley, integrarán las diversas comisiones, órganos colegiados, consejos, comités y coordinarán a las entidades paraestatales previstas en las disposiciones legales y normativas aplicables, según el ámbito de sus atribuciones.
+
+P.O. 10 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 197 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación.
