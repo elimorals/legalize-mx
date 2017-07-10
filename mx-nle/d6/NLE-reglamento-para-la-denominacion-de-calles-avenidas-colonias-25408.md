@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-la-denominacion-de-calles-avenidas-colonias-254
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-07-05"
-last_updated: "2007-03-28"
+last_updated: "2017-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25408&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO PARA LA DENOMINACION DE CALLES, AVENIDAS, COLONIAS, PLAZAS PUBLICAS, PARQUES, JARDINES, GIMNASIOS Y DEMAS BIENES DE USO COMUN Y PUBLICO DEL PATRIMONIO MPAL. Y NUMERACION DE FINCAS DEL MPIO. DE SANTA CATARINA
 
-REGLAMENTO PARA LA DENOMINACION DE CALLES, AVENIDAS, COLONIAS, PLAZAS PUBLICAS, PARQUES, JARDINES, GIMNASIOS Y DEMAS BIENES DE USO COMUN Y PUBLICO DEL PATRIMONIO MUNICIPAL, Y NUMERACION DE FINCAS DEL MUNICIPIO DE SANTA CATARINA, NUEVO LEON
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE NOMENCLATURA Y NUMERACIÓN DE BIENES INMUEBLES PARA EL MUNICIPIO DE SANTA CATARINA, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 10 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MARZO DE 2007.
+REGLAMENTO PARA LA DENOMINACIÓN DE CALLES, AVENIDAS, COLONIAS, PLAZAS PÚBLICAS, PARQUES, JARDINES, GIMNASIOS Y DEMÁS BIENES DE USO COMÚN Y PÚBLICO DEL PATRIMONIO MUNICIPAL, Y NUMERACIÓN DE FINCAS DEL MUNICIPIO DE SANTA CATARINA, NUEVO LEÓN
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del estado de Nuevo León, el viernes 5 de julio de 2002.
 
@@ -179,7 +181,7 @@ Las participaciones de los integrantes del Comité de Nomenclatura serán Honor�
 
 ### CAPITULO IV. DE LA NOMENCLATURA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE SEPTIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Articulo 11.
 
@@ -295,7 +297,7 @@ Lic. Trinidad Escobedo Aguilar
 
 RUBRICA
 
-N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 9 DE SEPTIEMBRE DE 2002.
 
@@ -308,3 +310,13 @@ TERCERO: Por lo tanto solicito enviese para su publicación en el Periódico Ofi
 P.O. 28 DE MARZO DE 2007.
 
 Único.- El presente acuerdo surtirá efectos al momento de su aprobación y publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE "SE APRUEBA LA ABROGACIÓN Y CREACIÓN DEL REGLAMENTO DE NOMENCLATURA Y NUMERACIÓN DE BIENES INMUEBLES PARA EL MUNICIPIO DE SANTA CATARINA, N.L.”.]
+
+PRIMERO.- El Presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- Se abroga el Reglamento para la Denominación de Calles, Avenidas, Colonias, Plazas Públicas, Parques, Jardines, Gimnasios y demás Bienes de Uso Común y Público del Patrimonio Municipal y numeración de Fincas del Municipio de Santa Catarina Nuevo León, Publicado en fecha 05 de Julio del 2002, en el Periódico Oficial del Estado, y posteriores reformas, quedando derogadas todas las disposiciones que se opongan al presente Reglamento.
+
+TERCERO.- Envíese al Periódico Oficial del Estado para su publicación y adicionalmente publíquese en la Gaceta Municipal, para su mejor difusión y cumplimiento.
