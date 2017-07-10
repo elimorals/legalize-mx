@@ -4,7 +4,7 @@ identifier: "CHP-ley-patrimonial-de-la-administracion-publica-del-estado-de-7760
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-27"
-last_updated: "2014-11-19"
+last_updated: "2017-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77608&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY PATRIMONIAL DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Chiapas, el miércoles 27 de octubre de 2010.
 
@@ -99,6 +99,10 @@ e) SISVEH: Al Sistema de Control Vehicular.
 
 La aplicación e interpretación de la presente Ley, corresponde al Gobernador, a través del Instituto.
 
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+Para los efectos de la presente Ley, a falta de disposición expresa y en lo que no contravenga a la misma, se aplicará supletoriamente la Ley de Procedimientos Administrativos para el Estado de Chiapas, los Códigos Civil y de Procedimientos Civiles del Estado de Chiapas, así como los demás ordenamientos legales aplicables.
+
 ###### Artículo 4°.
 
 La presente Ley se aplicará a todos los bienes del dominio público y privado del Estado de Chiapas, a cargo del Ejecutivo Estatal, con excepción de los bienes regulados por leyes específicas, en cuyo caso, esta Ley podrá aplicarse supletoriamente, siempre y cuando no se oponga a lo señalado en la norma específica conducente.
@@ -107,49 +111,53 @@ La presente Ley se aplicará a todos los bienes del dominio público y privado d
 
 En el caso de las Entidades Paraestatales, con independencia de que sometan a su órgano de máxima autoridad, deberán registrar aquellos bienes que por su valor se consideren activo fijo en los Sistemas de Control Patrimonial, en términos de lo dispuesto en la LGCG, la presente Ley; así como la CONAC.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
 ###### Artículo 5°.
 
-Son atribuciones del Titular del Instituto, en materia de bienes del patrimonio del Estado:
+El titular del Instituto, en materia de bienes del patrimonio del Estado, tendrá las atribuciones siguientes:
 
-I. Normar y administrar los bienes muebles e inmuebles.
+XXXI (SIC). Normar y administrar los bienes muebles e inmuebles.
 
-II. Suscribir y formalizar, en representación del Gobernador, los actos jurídicos relativos a la adquisición e incorporación de bienes inmuebles estatales.
+XXXII. Suscribir y formalizar, en representación del Gobernador, los actos jurídicos relativos a la adquisición e incorporación de bienes inmuebles estatales.
 
-III. Suscribir y formalizar los actos jurídicos relativos al uso temporal de bienes inmuebles estatales.
+XXXIII. Suscribir y formalizar los actos jurídicos relativos al uso temporal de bienes inmuebles estatales.
 
-IV. Enajenar, en representación del Gobernador, los bienes inmuebles estatales, previa autorización del Congreso.
+XXXIV. Someter a consideración del Honorable Congreso, en representación del Ejecutivo del Estado la autorización de desincorporación de los bienes inmuebles a cargo de la administración pública estatal, de conformidad a lo establecido en esta Ley y demás disposiciones legales aplicables.
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+XXXV. Enajenar, en representación del Gobernador, los bienes inmuebles estatales, previa autorización del Congreso del Estado.
 
-V. Conducir la política de incorporación, asignación, administración, uso y destino de los bienes muebles e inmuebles estatales y paraestatales.
+XXXVI. Conducir la política de incorporación, asignación, administración, uso y destino de los bienes muebles e inmuebles estatales y paraestatales.
 
-VI. Expedir las normas y procedimientos para la integración y actualización del Sistema de Información de Bienes inmuebles, administrando los sistemas informáticos de control que se constituyan para tales efectos.
+XXXVII. Expedir la declaratoria de adjudicación correspondiente, con base al procedimiento administrativo que establece la presente Ley.
 
-VII. Vigilar la actualización de los padrones de bienes.
+XXXVIII. Expedir las normas y procedimientos para la integración y actualización del Sistema de Información de Bienes Inmuebles, administrando los sistemas informáticos de control que se constituyan para tales efectos.
 
-VIII. Promover la recuperación en la vía correspondiente de los bienes estatales destinados por el incumplimiento a lo establecido en las actas de entrega o contratos de comodato.
+XXXIX. Vigilar la actualización de los padrones de bienes.
 
-IX. Registrar la declaratoria por la que el Estado adquiera el dominio de los bienes afectos a las concesiones, permisos o autorizaciones, siempre que lo anterior no esté previsto en leyes especiales.
+XL. Promover la recuperación en la vía correspondiente de los bienes estatales destinados por el incumplimiento a lo establecido en las actas de entrega o contratos de comodato.
 
-X. Vigilar el uso y aprovechamiento de los inmuebles donados por el Estado, y en caso de incumplimiento a lo estipulado en el Decreto, promover la reversión, de acuerdo al procedimiento que al efecto establezca el Instituto.
+XLI. Registrar la declaratoria por la que el Estado adquiera el dominio de los bienes afectos a las concesiones, permisos o autorizaciones, siempre que lo anterior no esté previsto en leyes especiales.
 
-XI. Fijar las políticas en materia de arrendamiento de inmuebles.
+XLII. Vigilar el uso y aprovechamiento de los inmuebles donados por el Estado, y en caso de incumplimiento a lo estipulado en el Decreto, promover la reversión, de acuerdo al procedimiento que al efecto establezca el Instituto.
 
-XII. Llevar el padrón de sistemas de cómputo que desarrollen o adquieran los organismos del Ejecutivo Estatal.
+XLIII. Fijar las políticas en materia de arrendamiento de inmuebles.
 
-XIII. Normar y administrar los Almacenes Generales de Gobierno.
+XLIV. Llevar el padrón de sistemas de cómputo que desarrollen o adquieran las dependencias y entidades de la administración pública estatal.
 
-XIV. Solicitar que se promueva por la autoridad competente el acuerdo de cancelación, revocación o nulidad en la vía administrativa de los acuerdos, contratos, convenios, permisos o autorizaciones que con violación a la Ley, dolo, error, mala fe, violencia, o negligencia, se hayan dictado y que perjudiquen o restrinjan los derechos sobre los bienes del dominio público, siempre que no esté previsto en leyes especiales.
+XLV. Normar y administrar los Almacenes Generales de Gobierno.
 
-XV. Solicitar de las autoridades competentes, la aplicación de sanciones administrativas y presentar, en su caso, las denuncias o notificaciones correspondientes, derivadas de incumplimiento de requerimientos formulados en torno al uso de bienes mediante cualquier título legal.
+XLVI. Iniciar por sí o por autoridad competente el procedimiento de cancelación, revocación o nulidad en la vía administrativa de los acuerdos, contratos, convenios, permisos o autorizaciones que con violación a la Ley, dolo, error, mala fe, violencia, o negligencia, se hayan dictado y que perjudiquen o restrinjan los derechos sobre los bienes del dominio público, siempre que no esté previsto en leyes especiales.
 
-XVI. Suscribir, previa autorización del Gobernador, convenios de coordinación y/o concertación con instituciones públicas de los tres órdenes de gobierno, así como con personas físicas o morales de los sectores privado y social, a fin de conjuntar recursos y esfuerzos para la eficaz realización de las acciones que en materia inmobiliaria están a su cargo.
+XLVII. Solicitar de las autoridades competentes, la aplicación de sanciones administrativas y presentar, en su caso, las denuncias o notificaciones correspondientes, derivadas de incumplimiento de requerimientos formulados en torno al uso de bienes mediante cualquier título legal.
 
-XVII. Expedir los títulos de propiedad que se deriven del proceso de subasta a que se refiere esta Ley.
+XLVIII. Suscribir, previa autorización del Gobernador, convenios de coordinación y/o concertación con instituciones públicas de los tres órdenes de gobierno, así como con personas físicas o morales de los sectores privado y social, a fin de conjuntar recursos y esfuerzos para la eficaz realización de las acciones que en materia inmobiliaria están a su cargo.
 
-XVIII. Coadyuvar, a petición de las Dependencias, en el proceso de adquisición de los inmuebles necesarios para la ejecución de obras o la solución de conflictos sociales.
+XLIX. Expedir los títulos de propiedad que se deriven del proceso de subasta a que se refiere la presente Ley.
 
-XIX. Las demás que se contemplen en esta u otras disposiciones legales y reglamentarias.
+L. Coadyuvar, a petición de las Dependencias, en el proceso de adquisición de los inmuebles necesarios para la ejecución de obras o la solución de conflictos sociales.
+
+LI. Las demás disposiciones que establece la presente Ley y otros ordenamientos legales aplicables.
 
 Las atribuciones aquí conferidas, podrán ser delegadas en el servidor público que el Titular del Instituto designe.
 
@@ -309,7 +317,7 @@ II. Construcción de obra pública y de liberación del derecho de vía.
 
 III. Promoción y fomento a la vivienda.
 
-IV. El procedimiento de adjudicación a que se refiere la presente Ley.
+IV. (DEROGADA, P.O. 10 DE JULIO DE 2017)
 
 ###### Artículo 19.
 
@@ -345,23 +353,29 @@ IV. Asignar a los solicitantes, en su caso, los inmuebles estatales disponibles 
 
 Los particulares e instituciones públicas sólo podrán adquirir el uso, aprovechamiento y explotación de los bienes sujetos al régimen de dominio público del Estado, a cargo del Ejecutivo Estatal; los derechos regulados en esta Ley y las demás que dicte el Congreso.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
 ###### Artículo 22.
 
-Cuando algún organismo del Ejecutivo Estatal ejerza la posesión, control o administración a título de dueño sobre un inmueble, del que no exista inscripción en el Registro Público de la Propiedad y del Comercio, el Gobernador podrá expedir la declaratoria de que dicho bien forma parte del patrimonio inmobiliario del Estado, bajo el siguiente procedimiento de adjudicación:
+Cuando algún organismo del Ejecutivo Estatal ejerza la posesión, control o administración a título de dueño sobre un inmueble, del que no exista inscripción en el Registro Público de la Propiedad y del Comercio, el Consejero Jurídico del Gobernador podrá expedir la declaratoria de que dicho bien forma parte del patrimonio inmobiliario del Estado, bajo el siguiente procedimiento de adjudicación:
 
 I. Integrará, por conducto del Instituto y demás autoridades competentes, el expediente técnico con la documentación correspondiente que acredite la posesión, control o administración.
 
-II. Emitirá acuerdo administrativo mediante el cual se acredite la posesión, control o administración del inmueble a título de dueño, que el inmueble es de uso común o está destinado a un servicio público o es bien propio; en el mismo determinará iniciar el procedimiento de regularización, el cual deberá contener los siguientes datos del inmueble: ubicación, denominación si la tuviere, uso actual, superficie, medidas y colindancias, planos topográficos o de localización o carta catastral respectiva, constancia de no inscripción en el Registro Público de la Propiedad y del Comercio. El acuerdo administrativo y el expediente técnico respectivo, serán presentados a la Secretaría General de Gobierno para el trámite correspondiente, los cuales quedarán a disposición de los interesados.
+II. Emitirá acuerdo administrativo mediante el cual se acredite la posesión, control o administración del inmueble a título de dueño, que el inmueble es de uso común o está destinado a un servicio público o es bien propio; en el mismo determinará iniciar el procedimiento de regularización, el cual deberá contener los siguientes datos del inmueble: ubicación, denominación si la tuviere, uso actual, superficie, medidas y colindancias, planos topográficos o de localización o carta catastral respectiva, y constancia de no inscripción en el Registro Público de la Propiedad y del Comercio, el cual quedará a disposición de los interesados.
 
-III. El acuerdo administrativo a que se refiere la fracción anterior, deberá ser publicado en el Periódico Oficial y en al menos dos de los diarios de mayor circulación en el Estado, con la finalidad de que los propietarios o poseedores de los predios colindantes del inmueble y, en general, las personas que tengan interés jurídico manifiesten lo que a su derecho convenga y aporten las pruebas pertinentes dentro de un plazo de quince días hábiles, contados a partir de la fecha de su publicación.
+III. El acuerdo administrativo a que se refiere la fracción anterior, deberá ser publicado en el Periódico Oficial y en al menos dos de los diarios de mayor circulación en el Estado, con la finalidad de que los propietarios o poseedores de los predios colindantes del inmueble y, en general, las personas que tengan interés jurídico manifiesten lo que a su derecho convenga y aporten las pruebas pertinentes dentro de un plazo de quince días hábiles, contados a partir de la fecha de la publicación.
 
-IV. Transcurrido el plazo a que se refiere la fracción anterior sin que se hubiere presentado oposición de parte interesada, el acuerdo quedará firme, y el Instituto procederá a su inscripción en la Delegación del Registro Público de la Propiedad y del Comercio de la localidad donde se ubique el inmueble.
+IV. Transcurrido el plazo a que se refiere la fracción anterior sin que se hubiere presentado oposición de parte interesada, el acuerdo administrativo quedará firme, y el Instituto procederá a realizar los trámites para la expedición de la declaratoria correspondiente.
+
+V. Una vez transcurridos los plazos anteriores y no exista impedimento alguno, el Consejero Jurídico del Gobernador expedirá y publicará la declaratoria en el Periódico Oficial, haciendo mención de que está constituye el título de propiedad sobre el bien, por lo que deberá ser inscrito en el Registro Público de la Propiedad y del Comercio.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
 ###### Artículo 23.
 
-Si dentro de los plazos señalados en el artículo anterior, alguna persona presentare oposición al procedimiento, el Gobernador, a través del Instituto, dentro de los quince días hábiles siguientes a la recepción del escrito que contenga dicha inconformidad, analizará los argumentos vertidos por el opositor, valorará las documentales aportadas y emitirá una resolución determinando si acredita su interés jurídico o no, debiendo notificar tal fallo de manera personal.
+Si dentro de los plazos señalados en el artículo anterior, alguna persona presentare oposición al procedimiento administrativo, el Instituto, dentro de los quince días hábiles siguientes a la recepción del escrito que contenga dicha inconformidad, analizará los argumentos vertidos por el opositor, valorará las documentales aportadas y emitirá una resolución determinando si acredita su interés jurídico o no, debiendo notificar el fallo correspondiente de manera personal.
 
-En caso de acreditarse el interés jurídico, el Ejecutivo Estatal se abstendrá de continuar con dicho procedimiento, dándolo por terminado, sin que ello sea óbice para que pueda ejercer acción alguna por la vía jurisdiccional, caso contrario, se procederá en los términos establecidos en la fracción IV del artículo que precede.
+En caso de acreditarse el interés jurídico, el Instituto se abstendrá de continuar con dicho procedimiento, dándolo por terminado, sin que ello sea óbice para que pueda ejercer acción alguna por la vía jurisdiccional, caso contrario, se procederá en los términos establecidos en la fracción V del artículo 22 de la presente Ley.
 
 ### Capítulo III. De la Administración
 
@@ -561,6 +575,10 @@ Como excepción a lo dispuesto en este Capítulo, podrá realizarse la desincorp
 
 Para tales efectos, el Gobernador, a través del titular del Instituto, deberá emitir el Decreto respectivo, en el cual se expondrán los razonamientos y justificaciones de la desincorporación, el cual deberá ser publicado en el Periódico Oficial. A partir de la fecha de publicación, surtirán sus efectos los actos de enajenación a que se refiere el presente artículo.
 
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+El Consejero Jurídico del Gobernador, formalizará los actos jurídicos derivados del proceso de desincorporación administrativa.
+
 ## Título Cuarto. De los Muebles del Dominio Privado del Estado
 
 ### Capítulo I. De las Obligaciones de los Destinatarios en Materia de Muebles
@@ -605,29 +623,37 @@ XVI. Otorgar facilidades para la realización de verificaciones por parte del In
 
 XVII. Las demás que emanen de leyes, reglamentos y cualquier disposición aplicable en materia de control de bienes muebles.
 
-Los destinatarios en materia de bienes muebles que vulneren lo contenido en lo dispuesto en el artículo 40 del presente ordenamiento legal, será sujeto a lo establecido por el artículo 51 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
+Los destinatarios en materia de bienes muebles que vulneren el contenido de las disposiciones de la presente ley, serán sujetos a lo establecido en la legislación en materia de Responsabilidades de los Servidores Públicos vigente en la entidad.
 
 ###### Artículo 45.
 
 Los servidores públicos que tengan asignados bienes muebles, deberán cumplir las obligaciones establecidas en la presente Ley y su Reglamento.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
 ###### Artículo 46.
 
-Cuando algún organismo del Ejecutivo Estatal ejerza la posesión, control o administración a título de dueño sobre un mueble, del que no exista la certeza de la propiedad el Gobernador podrá expedir la declaratoria de que dicho bien forma parte del patrimonio mobiliario del Estado, bajo el siguiente procedimiento de adjudicación:
+Cuando algún organismo del Ejecutivo Estatal ejerza la posesión, control o administración a título de dueño sobre un mueble, del que no exista la certeza de la propiedad el Consejero Jurídico del Gobernador podrá expedir la declaratoria de que dicho bien forma parte del patrimonio mobiliario del Estado, bajo el siguiente procedimiento de adjudicación:
 
 I. Integrará, por conducto del Instituto y demás autoridades competentes, el expediente técnico con la documentación correspondiente que acredite la posesión, control o administración.
 
-II. Emitirá acuerdo administrativo mediante el cual se acredite la posesión, control o administración del mueble a título de dueño, que el mueble es de uso común o está destinado a un servicio público o es bien propio; en el mismo determinará iniciar el procedimiento de regularización, el cual deberá contener los siguientes datos del mueble: ubicación, denominación si la tuviere, uso actual, medidas fotografías de localización, constancia de no inscripción en el Registro Público de la Propiedad y del Comercio. El acuerdo administrativo y el expediente técnico respectivo, serán presentados a la Secretaría General de Gobierno para el trámite correspondiente, los cuales quedarán a disposición de los interesados.
+II. Emitirá acuerdo administrativo mediante el cual se acredite la posesión, control o administración del mueble a título de dueño, que el mueble es de uso común o está destinado a un servicio público o es bien propio; en el mismo determinará iniciar el procedimiento de regularización, el cual deberá contener los siguientes datos del mueble: ubicación, denominación si la tuviere, uso actual, medidas y fotografías de localización, constancia de no inscripción en el Registro Público de la Propiedad y del Comercio, el cual quedará a disposición de los interesados.
 
 III. El acuerdo administrativo a que se refiere la fracción anterior, deberá ser publicado en el Periódico Oficial y en al menos dos de los diarios de mayor circulación en el Estado, con la finalidad de que los propietarios y, en general, las personas que tengan interés jurídico manifiesten lo que a su derecho convenga y aporten las pruebas pertinentes dentro de un plazo de quince días hábiles, contados a partir de la fecha de su publicación.
 
-IV. Transcurrido el plazo a que se refiere la fracción anterior sin que se hubiere presentado oposición de parte interesada, el acuerdo quedará firme, y el Instituto procederá a su inscripción en la Delegación del Registro Público de la Propiedad y del Comercio de la localidad donde se ubique el mueble.
+IV. Transcurrido el plazo a que se refiere la fracción anterior sin que se hubiere presentado oposición de parte interesada, el acuerdo administrativo quedará firme, y el Instituto procederá a realizar los trámites para la expedición de la declaratoria correspondiente.
+
+V. Una vez transcurridos los plazos anteriores y no exista impedimento alguno, el Consejero Jurídico del Gobernador expedirá y publicará la declaratoria en el Periódico Oficial, haciendo mención de que está constituye el título de propiedad sobre el bien, por lo que deberá ser inscrito en el Registro Público de la Propiedad y del Comercio.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
 ###### Artículo 47.
 
-Si dentro de los plazos señalados en el artículo anterior, alguna persona presentare oposición al procedimiento, el Gobernador, a través del Instituto, dentro de los quince días hábiles siguientes a la recepción del escrito que contenga dicha inconformidad, analizará los argumentos vertidos por el opositor, valorará las documentales aportadas y emitirá una resolución determinando si acredita su interés jurídico o no, debiendo notificar tal fallo de manera personal.
+Si dentro de los plazos señalados en el artículo anterior, alguna persona presentare oposición al procedimiento, el Instituto, dentro de los quince días hábiles siguientes a la recepción del escrito que contenga dicha inconformidad, analizará los argumentos vertidos por el opositor, valorará las documentales aportadas y emitirá una resolución determinando si acredita su interés jurídico o no, debiendo notificar el fallo de manera personal.
 
-En caso de acreditarse el interés jurídico, el Ejecutivo Estatal se abstendrá de continuar con dicho procedimiento, dándolo por terminado, sin que ello sea óbice para que pueda ejercer acción alguna por la vía jurisdiccional, caso contrario, se procederá en los términos establecidos en la fracción IV del artículo que precede.
+En caso de acreditarse el interés jurídico, el Instituto se abstendrá de continuar con dicho procedimiento, dándolo por terminado, sin que ello sea óbice para que pueda ejercer acción alguna por la vía jurisdiccional, caso contrario, se procederá en los términos establecidos en la fracción V del artículo 46 de la presente Ley.
 
 ### Capítulo II. De la Desincorporación
 
@@ -743,10 +769,22 @@ De conformidad con la fracción I, del artículo 42, de la Constitución Políti
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno. Rúbricas.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 19 DE NOVIEMBRE DE 2014.
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 208 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PATRIMONIAL DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS.”]
+
+Artículo Primero: El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo: Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Los procedimientos y recursos administrativos que actualmente se encuentren en trámite, se seguirán llevando a cabo hasta su total conclusión por las autoridades y disposiciones legales vigentes, con anterioridad a la entrada en vigor del presente Decreto.
+
+Artículo Cuarto.- El Titular del Instituto de la Consejería Jurídica y de Asistencia Legal, deberá someter a consideración del Titular del Ejecutivo del Estado, las adecuaciones que correspondan al marco jurídico de su actuación, a efecto de hacerlos congruentes con las disposiciones del presente Decreto.
