@@ -4,7 +4,7 @@ identifier: "AGU-ley-municipal-para-el-estado-de-aguascalientes-34210"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-06"
-last_updated: "2017-07-03"
+last_updated: "2017-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de octubre de 2003.
 
@@ -2043,9 +2043,17 @@ II. Conocer, calificar e imponer las sanciones administrativas municipales que p
 
 III. Apoyar a la autoridad municipal que corresponda, en la conservación del orden público y en la verificación de daños que, en su caso, se causen a los bienes propiedad municipal, haciéndolo saber a quien corresponda;
 
-IV. Llevar un libro en donde se asiente todo lo actuado; y
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
 
-V. Informar diariamente por escrito de las novedades ocurridas durante el ejercicio de sus funciones al Presidente Municipal.
+IV. Llevar un libro en donde se asiente todo lo actuado;
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+V. Informar diariamente por escrito de las novedades ocurridas durante el ejercicio de sus funciones al Presidente Municipal; y
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2017)</small>
+
+VI. Solicitar los informes de las instancias municipales facultadas para impartir cursos de concientización, referidos en el artículo 179, fracción VII de esta ley.
 
 ###### Artículo 178.
 
@@ -2069,9 +2077,17 @@ III. Suspensión temporal o cancelación del permiso o licencia según el caso;
 
 IV. Clausura;
 
-V. Arresto hasta por treinta y seis horas, en términos del artículo 21 de la Constitución General; y
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
 
-VI. Pago al erario municipal del daño causado, sin perjuicio de las demás sanciones que procedan.
+V. Arresto hasta por treinta y seis horas, en términos del artículo 21 de la Constitución General;
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+VI. Pago al erario municipal del daño causado, sin perjuicio de las demás sanciones que procedan; y
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2017)</small>
+
+VII. En caso de que la falta administrativa implique algún acto de acoso callejero, que para estos efectos será el previsto en el Artículo 8°, Fracción VII de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes, el infractor deberá acreditar su asistencia a los cursos de concientización en la materia, que deberán impartir las instancias municipales correspondientes.
 
 > <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2010)</small>
 
@@ -2362,3 +2378,15 @@ P.O. 3 DE JULIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 10 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 117.- SE REFORMA Y ADICIONA LA LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se exhorta a los Ayuntamientos del Estado a armonizar sus disposiciones reglamentarias con la presente reforma dentro de los 180 días contados a partir de la entrada en vigencia de la misma, a fin de implementar mecanismos para sancionar el acoso callejero.
