@@ -4,7 +4,7 @@ identifier: "HID-codigo-de-procedimientos-familiares-para-el-estado-de-55054"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-04-09"
-last_updated: "2016-12-31"
+last_updated: "2017-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55054&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # CODIGO DE PROCEDIMIENTOS FAMILIARES PARA EL ESTADO DE HIDALGO
 
-CODIGO DE PROCEDIMIENTOS FAMILIARES PARA EL ESTADO DE HIDALGO
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+CÓDIGO DE PROCEDIMIENTOS FAMILIARES PARA EL ESTADO DE HIDALGO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 9 de abril de 2007.
 
@@ -39,7 +41,7 @@ El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que
 
 A N T E C E D E N T E S
 
-.
+[...]
 
 POR TODO LO EXPUESTO, ESTE HONORABLE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -191,8 +193,6 @@ Por los que no se hallen en el caso del Artículo anterior, comparecerán sus re
 
 Los interesados o sus representantes legítimos podrán comparecer en juicio por sí o por medio de mandatario con poder bastante.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 22.
@@ -265,19 +265,13 @@ VI.- Para decidir las diferencias conyugales y los juicios de nulidad de matrimo
 
 VII.- En los procedimientos especiales relativos a presunción de muerte y ausencia, el del último domicilio del ausente;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
 
 VIII.- En los procesos de divorcio, el tribunal del domicilio conyugal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
 
 IX.- En caso de inexistencia de domicilio conyugal, es competente el juez del lugar donde usualmente resida la cónyuge; y
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -317,8 +311,6 @@ Promovida la competencia por cualquiera de las vías indicadas, el juez tendrá 
 
 Una vez recibido el testimonio por el superior, los pondrá a la vista del peticionario, o, en su caso, de ambas partes y del Ministerio Público, por el término de tres días para que ofrezcan pruebas, o aleguen lo que a su interés convenga.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 Cuando las pruebas que se ofrezcan, sean de admitirse, y solo en el caso de que éstas tengan que prepararse, se señalará día y hora para la celebración de la audiencia en que habrán de desahogarse, pasando a continuación al período de alegatos y citación para oír resolución, la que habrá de pronunciarse dentro del término de ocho días.
@@ -355,13 +347,9 @@ Para la tramitación y resolución de los asuntos ante el Juez Familiar, se esta
 
 Los Jueces y Magistrados podrán ordenar en cualquier etapa del procedimiento, hasta antes de dictarse la sentencia, que se subsane cualquier omisión o irregularidad procesal que notaren en la substanciación, para el sólo efecto de regularizar el procedimiento, sin que ello implique suplencia de la queja, ni violación de las formalidades del procedimiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 Existe suplencia en la deficiencia de la queja, en los casos en que se ventilen asuntos de menores e incapaces.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -446,8 +434,6 @@ Los autos que se perdieren serán repuestos a costa del que fuere responsable de
 La reposición se substanciará en incidente y sin necesidad de acuerdo judicial, el secretario hará constar desde luego la existencia anterior y falta posterior del expediente.
 
 Quedan los jueces o magistrados facultados para investigar de oficio la existencia de las piezas de autos desaparecidos, valiéndose para ello de todos los medios que no sean contrarios a la moral o al derecho.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -899,8 +885,6 @@ Los Tribunales desecharán de plano toda recusación cuando no se funde en algun
 
 Toda recusación se interpondrá ante el Juez o Tribunal que conozca del negocio, expresándose con toda claridad y precisión, la causa en que se funde.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 121.
@@ -977,49 +961,33 @@ La Ley reconoce como medios de prueba:
 
 I.- Confesión;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
 
 II.- La instrumental pública y privada.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
 
 III.- La pericial.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
 
 IV.- Reconocimiento o inspección.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
 
 V.- Testimonial.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
 
 VI.- Fotografías, copias fotostáticas, registros dactiloscópicos y en general todos aquellos elementos aportados por los descubrimientos de la ciencia.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
 
 VII.- Fama Pública.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
 
 VIII.- Presunción; y
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -1030,8 +998,6 @@ IX.- Demás medios de prueba que produzcan convicción en el Juzgador.
 ###### Artículo 136.
 
 Las pruebas se ofrecerán en los escritos de demanda, contestación, reconvención y contestación de ésta.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -1225,8 +1191,6 @@ Las partes podrán objetar los documentos presentados, la objeción sólo podrá
 
 La objeción del documento debe precisar claramente las razones en las que se funde el motivo o la causa.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 166.
@@ -1333,8 +1297,6 @@ El juez calificará de plano la recusación, debiendo presentar las partes sus p
 
 Si la recusación es improcedente, se impondrá al recusante una multa de uno a diez veces la Unidad de Medida y Actualización vigente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 183.
@@ -1342,8 +1304,6 @@ Si la recusación es improcedente, se impondrá al recusante una multa de uno a 
 Cuando una de las partes se oponga al desahogo de la prueba pericial ordenada por el Tribunal, para conocer las condiciones físicas o mentales o no conteste a las preguntas que el Tribunal autorice, éste debe tener por ciertas las afirmaciones de la contraparte, salvo prueba en contrario.
 
 Lo mismo se hará si una de las partes no permite la toma de muestras a su cargo, o no exhibe ante el tribunal la cosa o documento que tiene en su poder, para la realización de la prueba.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -1375,8 +1335,6 @@ La parte que ofrezca la inspección, debe señalar los puntos concretos sobre lo
 
 De la inspección se levantará acta pormenorizada, que firmarán todos los que a él concurran, y en la que se asentarán con exactitud los puntos que lo hayan provocado, las observaciones de los interesados, las declaraciones de los peritos si los hubiere, y todo lo que el juez creyere conveniente para esclarecer la verdad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Articulo 189.
@@ -1392,8 +1350,6 @@ Todos los que tengan conocimiento de los hechos que las partes deben probar, est
 ###### Artículo 191.
 
 El oferente de la prueba testimonial deberá presentar a sus testigos en la audiencia de pruebas. Si no lo hiciere, se declarará desierta la prueba.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -1423,8 +1379,6 @@ Cuando el oferente de la prueba testimonial designe como testigos personas inexi
 
 Los testigos serán examinados separada y sucesivamente, cuidando que no se comuniquen entre sí, si no fuere posible terminar su examen en un sólo día, la diligencia se suspenderá para continuar al día siguiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 197.
@@ -1452,8 +1406,6 @@ El juez podrá admitir como medios de prueba: fotografías, copias fotostáticas
 ###### Artículo 201.
 
 Para que se admitan como medios de prueba los elementos a que se refiere el artículo anterior, es necesario que tengan relación con el negocio que se ventila.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -1489,13 +1441,9 @@ No se admite prueba contra la presunción legal, cuando la Ley lo prohíbe expre
 
 Contra las demás presunciones legales y contra las humanas, es admisible la prueba en contrario.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE MARZO DE 2011)</small>
 
 #### SECCIÓN VIII
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -1511,15 +1459,11 @@ III.- Que sea uniforme, constante y aceptada por la generalidad de la población
 
 IV.- Que no tenga por fundamento las preocupaciones religiosas o populares ni las exageraciones de los partidos políticos, sino una tradición racional, o algunos hechos que, aunque indirectamente, la comprueben.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 208 Ter.
 
 La fama pública debe probarse con testigos que no solo sean mayores de toda excepción, sino que, por su edad, por su inteligencia y por la independencia de su posición social merezcan verdaderamente el nombre de fidedignos.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -1829,8 +1773,6 @@ I.- Simples determinaciones de trámite y entonces se llamarán acuerdos;
 
 II.- Determinaciones que se ejecuten provisionalmente y que se llaman autos provisionales;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
 
 III.- Decisiones que tienen fuerza de definitivas y que impiden o paralizan definitivamente la prosecución del juicio, y se llaman autos definitivos;
@@ -1935,8 +1877,6 @@ Las sentencias dictadas en juicios de alimentos, sobre suspensión de patria pot
 
 ### CAPITULO III. DE LA VIA DE APREMIO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 278.
@@ -1994,8 +1934,6 @@ Del precio del remate se pagará al ejecutante el importe de su crédito y se cu
 ###### Artículo 289.
 
 Si la sentencia contuviere condena al pago de cantidad líquida y de otra ilíquida, podrá procederse a hacer efectiva la primera, sin necesidad de esperar a que se liquide la segunda.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -2061,8 +1999,6 @@ En caso de no poderse entregar los bienes señalados en la sentencia, se despach
 
 Cuando la sentencia ordena la entrega de personas, el juez dictará las disposiciones más conducentes para que no quede frustrado lo fallado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 301.
@@ -2072,8 +2008,6 @@ En las resoluciones dictadas para la ejecución de una sentencia, no se admitir�
 ###### Artículo 302.
 
 Todos los gastos y costas que se originen en la ejecución de una sentencia, serán a cargo del que fue condenado en ella.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -2605,8 +2539,6 @@ El litigante al interponer la apelación ante el juez, expresará los agravios q
 
 Las apelaciones que se interpongan contra auto o interlocutoria, deberán hacerse valer en el término de seis días, y las que se interpongan contra sentencia definitiva, dentro del plazo de nueve días, contados a partir del día siguiente a aquél en que surtan efectos las notificaciones de tales resoluciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 387.
@@ -2614,8 +2546,6 @@ Las apelaciones que se interpongan contra auto o interlocutoria, deberán hacers
 Interpuesta una apelación, el Juez la admitirá sin substanciación alguna si fuere procedente, siempre que se hayan hecho valer los agravios respectivos, expresando el juzgador en su auto, si la admite en ambos efectos o en uno solo.
 
 El recurso de apelación procede en un solo efecto o en ambos efectos.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -2632,8 +2562,6 @@ Admitida la apelación en efecto devolutivo, el testimonio de apelación que se 
 ###### Artículo 390.
 
 Admitida la apelación en ambos efectos, el juez remitirá los autos originales a la sala correspondiente del Tribunal Superior de Justicia dentro del tercer día, contados a partir de la fecha en que precluyó el término de la contraparte para contestar los agravios, citando a las partes para que comparezcan ante dicho tribunal.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -2667,8 +2595,6 @@ Si la queja se declara infundada, el quejoso exhibirá ante el Juez el faltante 
 
 Se admitirán en un sólo efecto, las apelaciones en los casos en que no se halle prevenido que se admitan en ambos efectos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
 
 Se admitirán también en un solo efecto:
@@ -2676,8 +2602,6 @@ Se admitirán también en un solo efecto:
 I.- Las sentencias definitivas que hayan resuelto acciones sobre alimentos y/o custodia y/o convivencia de menores y/o, sobre diferencias conyugales respecto de la administración de bienes; y
 
 II.- Las sentencias definitivas que hayan resuelto cualquier tipo de acción nominada e innominada, conjuntamente con acciones sobre alimentos y/o custodia y/o convivencia de menores y/o, sobre diferencias conyugales respecto de la administración de bienes.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -2691,8 +2615,6 @@ Salvo las acciones descritas en el párrafo anterior, las diversas acciones nomi
 
 De los autos y de las sentencias interlocutorias de los que se derive una ejecución que pueda causar un daño irreparable o de difícil reparación y la apelación proceda en el efecto devolutivo, se admitirán en ambos efectos si el apelante lo solicita al interponer el recurso, y señalará los motivos por los que considera el daño irreparable o de difícil reparación. El juez deberá resolver si la admite en ambos efectos conforme a lo solicitado, exhibiendo garantía conforme a lo establecido en el Artículo 398 de este ordenamiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 396.
@@ -2702,8 +2624,6 @@ Al recibirse las constancias por el superior, éste ordenará notificar personal
 ###### Artículo 397.
 
 No se suspenderá la ejecución de la sentencia, auto o providencia apelados, cuando haya sido admitida la apelación en el efecto devolutivo.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -2732,8 +2652,6 @@ III.- De las sentencias interlocutorias que paralizan o ponen término al juicio
 ###### Artículo 400.
 
 No obstante de haberse admitido la apelación en ambos efectos y haberse remitido los originales al superior, el juez continuará conociendo respecto de la ejecución de la sentencia o auto apelado conforme lo dispone este capítulo, y también podrá resolver con plenitud de jurisdicción, todo lo relativo a depósitos, embargos trabados, rendición de cuentas, gastos de administración, aprobación de entrega de fondos para pagos urgentes, medidas provisionales decretadas durante el juicio, y cuestiones similares que por su urgencia no pueden esperar.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -2981,67 +2899,45 @@ La copia certificada de la sentencia de nulidad, se archivará con el mismo núm
 
 ### CAPITULO III. DEL DIVORCIO NECESARIO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 ###### Artículo 439.
 
 (DEROGADO, P.O. 31 DE MARZO DE 2011)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 440.
 
 (DEROGADO, P.O. 31 DE MARZO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 ###### Artículo 441.
 
 (DEROGADO, P.O. 31 DE MARZO DE 2011)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 442.
 
 (DEROGADO, P.O. 31 DE MARZO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 ###### Artículo 443.
 
 (DEROGADO, P.O. 31 DE MARZO DE 2011)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 444.
 
 (DEROGADO, P.O. 31 DE MARZO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 ###### Artículo 445.
 
 (DEROGADO, P.O. 31 DE MARZO DE 2011)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 446.
 
 (DEROGADO, P.O. 31 DE MARZO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 ###### Artículo 447.
 
 (DEROGADO, P.O. 31 DE MARZO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 ###### Artículo 448.
 
 (DEROGADO, P.O. 31 DE MARZO DE 2011)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -3060,8 +2956,6 @@ La disolución judicial del concubinato se tramitará conforme a las reglas del 
 ###### Artículo 451.
 
 La persona con derecho a reclamar alimentos para sí o facultada para demandarlos para otra u otras, en los términos de este Código, ocurrirá en la vía oral o en la escrita, señaladas en este ordenamiento, ante el Juez Familiar, reclamándolos del deudor alimentante.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -3083,15 +2977,11 @@ II.- Cuando los acreedores alimentistas sean los padres o solamente uno de ellos
 
 III.- Si los acreedores alimentistas son los nietos o hermanos del deudor alimentante, el Juez Familiar fijará la cantidad de acuerdo con las necesidades del acreedor alimentista y de las demás obligaciones familiares del deudor de la pensión, que será hasta del 20% de los ingresos del deudor alimentante.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 454.
 
 En caso de que se presenten varios acreedores alimentistas demandando pensión a un solo deudor, tendrán preferencia los hijos del cónyuge sobre los demás acreedores. El Juez familiar hará la prelación y proporcionalidad de los créditos.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -3121,8 +3011,6 @@ Los hijos tendrán derecho a reclamar alimentos en la forma y términos establec
 
 El aseguramiento de bienes para responder de la pensión alimenticia, será por cualquier medio legal, veraz y efectivo, por un período de cinco años, renovable hasta que cese esta obligación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 461.
@@ -3139,13 +3027,17 @@ La pensión alimenticia provisional podrá ser modificada durante el juicio, con
 
 El Juez podrá, en la sentencia definitiva, fijar cualquier porcentaje del ingreso del deudor alimentario o condenarlo al número equivalente de la Unidad de Medida y Actualización vigente, según sea el caso y, siempre atendiendo al principio de proporcionalidad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 463.
 
 Siempre que el deudor incumpla con la pensión alimenticia provisional fijada durante el procedimiento y no pudiéndose hacer efectiva ésta, el Juez podrá, en cualquier momento, ejecutar y trabar embargo, sobre bienes suficientes para cubrir los alimentos, por un período no menor a cinco años. Embargados los bienes, si el deudor alimentante no cumple con la obligación de pagar la pensión fijada, podrán sacarse a remate los bienes muebles o inmuebles propiedad de éste. En caso de embargo y remate, todos los gastos de ejecución serán por cuenta del deudor alimentante.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+###### Artículo 463 Bis.
+
+Tratándose de deudores alimentarios que hayan dejado de cumplir con sus obligaciones en materia de alimentos por un periodo mayor de sesenta días, el Juez de lo Familiar hará tal circunstancia del conocimiento al Instituto Nacional de Migración, mediante oficio para que procedan conforme al artículo 48 fracción VI de la Ley de Migración.
 
 ### CAPITULO VI. DE LA PATERNIDAD, LA FILIACION Y LA PATRIA POTESTAD
 
@@ -3160,8 +3052,6 @@ II.- La comprobación de la posesión de estado de hijo;
 III.- La investigación de la paternidad o maternidad; y
 
 IV.- La suspensión o pérdida de la patria potestad.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -3191,19 +3081,13 @@ De la sentencia ejecutoriada se remitirá copia certificada al Oficial del Regis
 
 ## TITULO NOVENO. DE LOS PROCEDIMIENTOS FAMILIARES ESPECIALES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(REFORMADA SU DENOMINACION, P.O. 31 DE MARZO DE 2011)</small>
 
 ### CAPITULO I. DEL DIVORCIO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
 
 DISPOSICIONES GENERALES
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -3211,15 +3095,11 @@ DISPOSICIONES GENERALES
 
 Del procedimiento de divorcio, conocerán siempre los jueces familiares.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 469.
 
 Los cónyuges no podrán hacerse representar por apoderados, cuando la Ley exija su presencia personal en las audiencias del procedimiento.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -3228,8 +3108,6 @@ Los cónyuges no podrán hacerse representar por apoderados, cuando la Ley exija
 El procedimiento de divorcio podrá solicitarse de manera unilateral o bilateral, en ambos casos, él o los cónyuges, deberán agregar el convenio a que se refiere el Artículo 471 de este ordenamiento, copia certificada del acta de matrimonio, de nacimiento de los hijos, los documentos con los que se acredite la propiedad de los bienes adquiridos dentro de la sociedad conyugal y, lo relativo a las medidas provisionales solicitadas.
 
 El Juez de lo Familiar revisará que el convenio propuesto se ajuste a lo establecido por el Artículo 471 del Código de Procedimiento (sic) Familiares del Estado, en su caso, deberá prevenir al o a los divorciantes para que subsanen las deficiencias existentes en un plazo no mayor de tres días, en caso de no ser así se decretará el sobreseimiento.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -3248,8 +3126,6 @@ IV.- La manera en que deberán otorgarse alimentos a los hijos, especificando la
 V.- Designación del cónyuge al que corresponderá el uso del domicilio conyugal, en su caso, y del menaje.
 
 VI.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y hasta que se liquide, así como la forma de liquidarla, exhibiendo para ese efecto, las capitulaciones matrimoniales y bajo protesta de decir verdad una relación de los bienes adquiridos durante el matrimonio con un proyecto de partición.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -3273,8 +3149,6 @@ Los menores de doce años quedarán al cuidado de la madre, salvo que se afecte 
 
 VI.- Las demás que considere necesarias.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 473.
@@ -3289,15 +3163,11 @@ Para el caso de existir controversia que resulte de los párrafos anteriores y e
 
 Terminada la audiencia, el Juez citará para sentencia de divorcio, que se dictará dentro de los diez días siguientes, en la que se considerarán las opiniones de los que intervinieron, dejándose a salvo los derechos de las partes respecto a sus inconformidades, para que los hagan valer en los juicios correspondientes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 474.
 
 En cualquier caso en que él o los cónyuges dejaren de pasar más de un mes sin continuar el procedimiento, el Tribunal declarará sin efecto la solicitud y las medidas provisionales mandando archivar el expediente, previa consideración de la opinión del Consejo de Familia vertida en la primera audiencia respecto de las medidas provisionales, el Juez ordenará las medidas pertinentes a fin de salvaguardar a los integrantes de la familia sin perjuicio de lo dispuesto por los Artículos 226 y 227 del Código de Procedimientos Familiares.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -3314,8 +3184,6 @@ III.- La declaración de que quedan a salvo los derechos de las partes para tram
 IV.- Las demás que sean necesarias para garantizar el bienestar, el desarrollo, la protección y el interés superior de los hijos menores de edad así como los hijos mayores de edad que tengan discapacidad.
 
 Para el caso de liquidación de sociedad conyugal, se deberá observar lo dispuesto por los artículos 67, 68, 69 y 70 de la Ley para la Familia del Estado.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -3347,8 +3215,6 @@ I.- Que se haya responsabilizado preponderantemente del desempeño del trabajo d
 
 II.- Que no tenga algún bien inmueble, o teniéndolo, se encuentre gravado por alguna Institución paraestatal de vivienda, adquirido durante la vigencia del matrimonio, exceptuándose lo adquirido conforme a lo dispuesto por los Artículos 67, 68, 69 y 70 de la Ley para la Familia del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 476 Ter.
@@ -3363,13 +3229,9 @@ III.- Recupere la capacidad; o
 
 IV.- Sobrevenga el nacimiento de un hijo de persona distinta al deudor.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE MARZO DE 2011)</small>
 
 ### CAPITULO II. DEL DIVORCIO BILATERAL
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -3377,19 +3239,13 @@ IV.- Sobrevenga el nacimiento de un hijo de persona distinta al deudor.
 
 Una vez cumplimentados los requisitos que establece el Artículo 470 de este Código o satisfecha la prevención que el mismo Artículo establece, el Juez ordenará la ratificación, ante su presencia, de la solicitud y convenio previamente exhibidos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
 
 Artículo 476 Quintus.- Una vez satisfechos los requisitos establecidos en el Artículo anterior, el Juez resolverá en sentencia definitiva sobre la disolución del vínculo matrimonial y la aprobación del convenio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE MARZO DE 2011)</small>
 
 ### CAPITULO III. DEL DIVORCIO UNILATERAL
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -3397,21 +3253,15 @@ Artículo 476 Sextus.- Admitida la solicitud con los documentos y copias anexas,
 
 Asimismo, el Juez ordenará poner a la vista del Ministerio Público y del Consejo de Familia de la adscripción de la solicitud de divorcio y anexos, y contrapropuesta para su debida intervención.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
 
 Artículo 476 Séptimus.- En caso de que el cónyuge notificado, manifieste su inconformidad con la propuesta del convenio inicial, el Juez señalará día y hora para llevar a cabo la audiencia, con todos los efectos señalados por el Artículo 473 del presente ordenamiento, con la presencia del Ministerio Público y los integrantes del Consejo de Familia, necesarios para investigar, analizar y valorar las circunstancias de cada asunto; para el caso de ser mediable el asunto familiar, el Juez lo remitirá al Centro Estatal de Justicia Alternativa o a cualquiera de sus sedes, según se desprenda de la competencia del Juez que conozca del asunto, para su correspondiente tramite.
 
 En caso de que el cónyuge notificado manifieste su conformidad con la propuesta del convenio inicial, el Juez ordenará la ratificación del escrito respectivo, dentro de los cinco días siguientes, si no comparece el cónyuge notificado a ratificar su conformidad con el convenio presentado se tendrá por aceptado aquel, el Juez citará para dictar sentencia, en el plazo previsto por el Artículo 473 de este ordenamiento, en el que podrá tomar en cuenta la contestación a la vista del Ministerio Público y del Consejo de Familia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
 
 Artículo 476 Octavus.- En el auto que se provea la contestación de la solicitud de divorcio y la contrapropuesta, señalará fecha y hora para la celebración de la audiencia prevista por el artículo 473 de este ordenamiento.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -4146,3 +3996,9 @@ P.O. 31 DE DICIEMBRE DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Los matrimonios y uniones celebrados por y entre menores de edad, previos a la publicación del presente Decreto, tendrán validez plena con todos los derechos y obligaciones adquiridos a partir de la celebración o unión.
+
+P.O. 10 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 195 POR EL QUE SE ADICIONA EL ARTÍCULO 463 BIS AL CÓDIGO DE PROCEDIMIENTOS FAMILIARES PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
