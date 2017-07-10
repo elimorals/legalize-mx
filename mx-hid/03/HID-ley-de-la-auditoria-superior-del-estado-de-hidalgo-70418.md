@@ -4,7 +4,7 @@ identifier: "HID-ley-de-la-auditoria-superior-del-estado-de-hidalgo-70418"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-28"
-last_updated: "2016-12-31"
+last_updated: "2017-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE LA AUDITORÍA SUPERIOR DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2017 (ABROGADA).
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 28 de septiembre de 2009.
 
@@ -1150,3 +1150,31 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
 
 TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 10 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 201 QUE CONTIENE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo, sin perjuicio de lo previsto en los transitorios subsecuentes.
+
+SEGUNDO. Se abroga la Ley de la Auditoría Superior del Estado de Hidalgo, publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, número 39 del lunes 28 de septiembre de 2009, sin perjuicio de lo dispuesto en los artículos Transitorios siguientes.
+
+TERCERO. Del contenido la presente Ley que esté vinculado con la aplicación de la legislación en el Estado en materia del Sistema Estatal Anticorrupción y de responsabilidades, así como del Tribunal de Justicia Administrativa, entrarán en vigor cuando los respectivos ordenamientos legales así lo establezcan.
+
+CUARTO. Los procedimientos legales, administrativos, de fiscalización superior y demás asuntos que, a la entrada en vigor de la presente Ley, se encuentren en trámite ante la Auditoría Superior, o en los que ésta sea parte, continuarán sustanciándose hasta su conclusión, conforme a las disposiciones que se encontraban vigentes al momento de su inicio, que también serán aplicables para los asuntos que deriven o sean consecuencia de los mismos, así como los que resulten de las funciones de fiscalización superior hasta la Cuenta Pública correspondiente al ejercicio fiscal 2016.
+
+QUINTO. Las funciones de fiscalización superior a que se refiere el Título Segundo de la Ley denominado “De la Fiscalización Superior”, entrará en vigor a partir de la Cuenta Pública correspondiente al ejercicio fiscal 2017, sin perjuicio de lo previsto en el artículo Tercero Transitorio.
+
+Para efectos de lo previsto en el artículo 45 de la presente Ley, la obligación correspondiente se cumplirá a partir de la fiscalización a la Cuenta Pública correspondiente al ejercicio fiscal 2017.
+
+SEXTO. La función de fiscalización superior para el ejercicio del año en curso y de ejercicios anteriores, entrarán en vigor a partir de las Cuentas Públicas correspondientes al ejercicio fiscal 2016.
+
+SÉPTIMO. La obligación de presentar declaraciones de situación patrimonial ante la Auditoría Superior, continuará conforme a lo dispuesto en la Ley de Responsabilidades para los Servidores Públicos y la Ley de la Auditoría Superior del Estado de Hidalgo, hasta en tanto entren en vigor los ordenamientos en materia de responsabilidades en el Estado.
+
+OCTAVO. El Reglamento Interior de la Auditoría Superior del Estado de Hidalgo, deberá emitirse dentro de los 180 días siguientes a la entrada en vigor de la presente Ley; hasta en tanto no se modifique el Reglamento Interior actual, se seguirá aplicado (sic) en lo que no se oponga a la presente Ley.
+
+En tanto se emite el acuerdo a que refiere el artículo 12 de la presente Ley, el horario de atención a los Entes Públicos, a las Entidades Fiscalizadas y al público en general, en las instalaciones de la Auditoría Superior, será el comprendido entre las 08:30 y las 16:30 horas de lunes a viernes, sin perjuicio de los días y horas hábiles para las actuaciones o diligencias que el artículo citado establece.
+
+NOVENO. Los convenios, contratos u otros instrumentos jurídicos en el que la Auditoría Superior sea parte seguirán siendo válidos.
+
+DÉCIMO. Se ratifica el contenido de los acuerdos, circulares, guías, lineamientos, manuales, procedimientos, así como demás normatividad interna o externa para las Entidades Fiscalizadas que se encuentren vigentes.
