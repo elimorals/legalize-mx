@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-tribunal-fiscal-administrativo-del-estado-5515
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-12-31"
-last_updated: "2001-08-06"
+last_updated: "2017-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY ORGANICA DEL TRIBUNAL FISCAL ADMINISTRATIVO DEL ESTADO DE HIDALGO
 
-LEY ORGANICA DEL TRIBUNAL FISCAL ADMINISTRATIVO PARA EL ESTADO DE HIDALGO
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 10 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 2001.
+LEY ORGÁNICA DEL TRIBUNAL FISCAL ADMINISTRATIVO PARA EL ESTADO DE HIDALGO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 1981.
 
@@ -567,7 +569,7 @@ Cuando se planteen cuestiones de carácter técnico el Magistrado de oficio acor
 
 ###### ARTICULO 82.
 
-El Magistrado podrá dictar en todo tiempo la repetición o ampliación de cualquier diligencia probatoria, siempre que se estime necesario, los hechos notarios no requieren prueba.
+El Magistrado podrá dictar en todo tiempo la repetición o ampliación de cualquier diligencia probatoria, siempre que se estime necesario, los hechos notarios (sic) no requieren prueba.
 
 ###### ARTICULO 83.
 
@@ -790,3 +792,17 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Tercero.- El presente Decreto deroga la Ley Orgánica del Tribunal Fiscal Administrativo del 30 de diciembre de 1981, publicada en el Periódico Oficial del Estado el 30 del mismo mes y año, por lo que respecta a su organización y atribuciones, quedando vigente lo relativo al procedimiento fiscal-administrativo, hasta en tanto se emita la Ley correspondiente.
 
 Quinto.- Dentro de los treinta días siguientes en que entre en vigor la presente Ley, deberán ser aprobados por los plenos correspondientes, los Reglamentos Interiores de los Tribunales que integran el Poder Judicial; mientras tanto, serán aplicables los vigentes.
+
+P.O. 10 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO. 199.- QUE CREA LA LEY DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE HIDALGO”.]
+
+Primero. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+Segundo. Se abroga la Ley Orgánica del Tribunal Fiscal Administrativo publicada en el Periódico Oficial del Estado el 31 de diciembre de 1981.
+
+Tercero. El Poder Judicial del Estado de Hidalgo, realizará las modificaciones orgánicas, dotará y proveerá los recursos necesarios para el funcionamiento del Tribunal de Justicia Administrativa del Estado de Hidalgo.
+
+Cuarto. Los procedimientos que se iniciaron previos a la entrada en vigor de este Decreto se desahogaran conforme a las disposiciones vigentes de ese momento.
+
+Quinto. El Tribunal de Justicia Administrativa ejercerá las facultades y competencias establecidas en este Decreto una vez que sea instalado el Comité Coordinador del Sistema Estatal Anticorrupción.
