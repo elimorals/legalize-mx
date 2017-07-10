@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-185-de-justicia-administrativa-para-el-estado-de-105
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-04"
-last_updated: "2017-07-03"
+last_updated: "2017-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105987&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE MAYO DE 2017.
 
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL B.O. DE 3 DE JULIO DE 2017.]</small>
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 10 DE JULIO DE 2017.]</small>
 
 Ley publicada en la Sección IV del Boletín Oficial del Estado de Sonora, el jueves 4 de diciembre de 2014.
 
@@ -1398,6 +1398,10 @@ Tratándose de los Magistrados de la Sala Especializada, éstos se designarán e
 ###### ARTÍCULO TERCERO.
 
 Los procedimientos que se encuentren en trámite, relacionados con las modificaciones a los preceptos legales contemplados en el presente Decreto, se resolverán de conformidad con las disposiciones que les dieron origen.
+
+> <small>(F. DE E., B.O. 10 DE JULIO DE 2017)</small>
+
+Tratándose de los medios de impugnación contemplados en el artículo 85 de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios, una vez que se cite a las partes para oír resolución, esta deberá dictarse por parte de la Sala competente del Tribunal de Justicia Administrativa, en un plazo de noventa días, el cual podrá ampliarse, cuando a criterio del Magistrado instructor, la complejidad del asunto así lo requiera.
 
 > <small>(F. DE E., B.O. 29 DE JUNIO DE 2017)</small>
 
