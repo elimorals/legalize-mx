@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-ministerio-publico-del-estado-de-hidalgo-10353
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-11-10"
-last_updated: "2016-12-31"
+last_updated: "2017-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103532&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2017.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 10 de noviembre de 2014.
 
@@ -39,7 +39,9 @@ El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que
 
 D E C R E T A:
 
-A N T E C E D E N T E...
+A N T E C E D E N T E
+
+[...]
 
 ÚNICO. En sesión ordinaria del 30 de octubre del presente año y por instrucciones de la Presidenta de la Directiva del Congreso, nos fue turnada a esta Comisión que suscribe, la iniciativa mencionada, misma que fue registrada en el Libro de Gobierno de la Comisión, con el número CSCJ/36/2014;
 
@@ -59,9 +61,11 @@ Se expide la Ley Orgánica del Ministerio Público del Estado de Hidalgo, para q
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 1.
 
-Esta Ley es de orden público e interés social, que tiene por objeto establecer la organización y regular el funcionamiento de la Institución del Ministerio Público del Estado, así como las unidades u órganos que la integran, para el despacho de los asuntos que le atribuyen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Hidalgo y las demás normas aplicables.
+Esta Ley es de orden público e interés social, que tiene por objeto establecer la organización y regular el funcionamiento de la Institución del Ministerio Público del Estado, así como las unidades u órganos que la integran, para el despacho de los asuntos que le atribuyen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Hidalgo y las demás normas aplicables.
 
 ###### ARTÍCULO 2.
 
@@ -167,13 +171,17 @@ Para el despacho de los asuntos que competen al Ministerio Público, podrá inte
 
 I. Despacho del Procurador;
 
-II. Subprocuradurías;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+II. Subprocuradurías y Fiscalías Especializadas;
 
 III. Visitaduría General;
 
 IV. Coordinaciones Generales y de Área;
 
-V. Direcciones Generales y de Área;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+V. Fiscalías, Direcciones Generales de área;
 
 VI. Subdirecciones Generales y de Área;
 
@@ -209,7 +217,13 @@ Los acuerdos por los cuales se disponga la creación de órganos o unidades admi
 
 Los Reglamentos y acuerdos establecerán el tipo, especialidad y distribución de funciones de las unidades u órganos a que se refiere el artículo 11.
 
-### CAPÍTULO III. DEL PROCURADOR
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE JULIO DE 2017)</small>
+
+### CAPÍTULO III. DEL PROCURADOR Y LAS FISCALÍAS ESPECIALIZADAS
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2017)</small>
+
+#### SECCIÓN I. DEL PROCURADOR
 
 ###### ARTÍCULO 14.
 
@@ -235,13 +249,19 @@ IX. Formular iniciativas de Leyes, reglamentos y decretos relacionados con la pr
 
 X. Celebrar Acuerdos y Convenios relacionados con la Procuración de Justicia;
 
-XI. Elaborar el anteproyecto del presupuesto anual de egresos de la institución, y remitirlo a la Secretaría de Finanzas y Administración del Estado para los efectos conducentes;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
 
-XII. Solicitar a la autoridad competente, la aplicación de sanciones a los miembros de la policía, que infrinjan disposiciones legales o reglamentarias, omitan o retarden la ejecución de un acto propio, relacionado con funciones de investigación o lo cumplan negligentemente;
+XI. Elaborar el anteproyecto del presupuesto anual de egresos de la institución y remitirlo junto con el que le envíe la Fiscalía Especializada en Delitos de Corrupción a la Secretaría de Finanzas Públicas del Estado para los efectos conducentes.
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+XII. Solicitar al Consejo de Honor y Justicia, la aplicación de sanciones a los miembros de la policía, que infrinjan disposiciones legales o reglamentarias, omitan o retarden la ejecución de un acto propio, relacionado con funciones de investigación o lo cumplan negligentemente; dando vista, en su caso, a la Fiscalía Especializada en Delitos de Corrupción;
 
 XIII. Comparecer ante el Congreso del Estado, para informar sobre los asuntos de su competencia;
 
-XIV. Coadyuvar en la política criminológica del Estado, formulando programas que estén acordes con el conjunto de actividades tendientes a prevenir, controlar y combatir la delincuencia;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+XIV. Coadyuvar en la política criminológica del Estado, formulando programas que estén acordes con el conjunto de actividades tendientes a prevenir, controlar y combatir la delincuencia, así como los hechos que la ley señala como delitos de corrupción.
 
 XV. Garantizar la autonomía técnica y de gestión de la institución;
 
@@ -289,49 +309,177 @@ II. Las señaladas dentro de los artículos 10 y 13 de esta Ley; y
 
 III. Las previstas en las fracciones I, II, III, V, VI, IX, X, XI, XII, XIII, XIV, XV, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXVIII, y XXXI del artículo 14.
 
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 10 DE JULIO DE 2017)</small>
+
+#### SECCIÓN II. DE LA FISCALÍA ESPECIALIZADA EN DELITOS DE CORRUPCIÓN
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+ARTÍCULO 15 BIS. La Fiscalía Especializada en Delitos de Corrupción, es el órgano con autonomía técnica y operativa con facultades para investigar, combatir y prevenir los hechos que la ley señale como delitos de corrupción.
+
+La Fiscalía Especializada en Delitos de Corrupción, se equipará jerárquica y administrativamente a una Subprocuraduría, dependerá directamente del Procurador y contará igualmente con Directores Generales, Directores de Área, Agentes del Ministerio Público, Auxiliares Jurídicos, Peritos, Policías de Investigación y el personal administrativo necesario para el cumplimiento de sus atribuciones las cuales son:
+
+I. Participar como integrante del Comité Coordinador del Sistema Estatal Anticorrupción;
+
+II. Prevenir, investigar, combatir, coordinar y supervisar la persecución de un hecho que la Ley señale como delito;
+
+III. Conducir y vigilar las investigaciones de los Agentes del Ministerio Público adscritos a esta fiscalía especializada, y cuando estime necesario lo realizará directamente o por medio de quien designe para la debida investigación y combate de los hechos que la Ley señala como delitos de corrupción;
+
+IV. Vigilar, con absoluto respeto a los Derechos Humanos, a los servidores públicos de quienes se tengan indicios de estar involucrados en hechos que la Ley señala como delitos de corrupción;
+
+V. Coordinar con las autoridades federales, estatales y municipales el establecimiento de programas y acciones para la prevención de hechos que la Ley señala como delitos de corrupción;
+
+VI. Fomentar la cultura de la denuncia y la legalidad a efecto de prevenir los hechos que la Ley señala como delitos de corrupción, mediante prácticas conferencias o talleres a los servidores públicos o particulares del Estado de Hidalgo;
+
+VII. Presentar anualmente al Procurador un informe de actividades sustantivas y de resultados, el cual será público, en términos de lo previsto en la Ley de Transparencia y Acceso a la Información Pública del Estado de Hidalgo. Dicho informe será remitido a su vez, al Comité Coordinador del Sistema Estatal Anticorrupción y al Congreso del Estado de Hidalgo;
+
+VIII. Proponer al Procurador la emisión de protocolos, acuerdos, circulares y demás instrumentos relacionados con la prevención e investigación de los delitos de su competencia;
+
+IX. Suscribir y ejecutar convenios y acuerdos con instituciones públicas o privadas en materia de combate a la corrupción y para facilitar el intercambio de información que contribuya en el mejoramiento del ejercicio de sus funciones;
+
+X. Elaborar el anteproyecto de presupuesto de la Fiscalía Especializada en Delitos de Corrupción, que deberá remitir al Procurador General de Justicia del Estado de Hidalgo; y
+
+XI. Las demás que establezca la normatividad aplicable.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 10 DE JULIO DE 2017)</small>
+
+#### SECCIÓN III. DE LA FISCALÍA ESPECIALIZADA EN DELITOS ELECTORALES
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+ARTÍCULO 15 TER. La Fiscalía Especializada en Delitos Electorales, es el órgano con autonomía técnica y operativa facultado para investigar, combatir y prevenir los hechos que la Ley señala como delitos electorales con el auxilio de todas las instancias correspondientes.
+
+La Fiscalía Especializada en Delitos Electorales se equipará jerárquica y administrativamente a una Subprocuraduría, dependerá directamente del Procurador y contará con una dirección de Prevención del Delito y Atención Ciudadana, Agentes del Ministerio Público, Auxiliares jurídicos y personal administrativo necesario para el cumplimiento de sus atribuciones, las cuales son:
+
+I. Dictar medidas idóneas para que las investigaciones en materia electoral se lleven a cabo bajo los principios de certeza, legalidad, independencia, imparcialidad y objetividad, así como para que el personal que le este adscrito, siga métodos que garanticen el aprovechamiento óptimo de los recursos humanos, materiales y tecnológicos a su cargo;
+
+II. Coordinar y vigilar las acciones que realicen las y los Agentes del Ministerio Público, con base en las normas aplicables y criterios institucionales;
+
+III. Proporcionar información técnica a los organismos electorales, de conformidad con las disposiciones legales aplicables;
+
+IV. Vigilar en coordinación con los Agentes del Ministerio Público, el seguimiento de los asuntos competencia de la Fiscalía Especializada hasta su total resolución, con base en las normas aplicables y criterios institucionales;
+
+V. Crear y mantener una base de datos en coordinación con la Dirección de Informática, Estadística y Telecomunicaciones, para el adecuado control del despacho de los asuntos de su competencia;
+
+VI. Promover la coordinación con la Fiscalía Especializada para la Atención de Delitos Electorales de la Procuraduría General de la República, a fin de generar estrategias y acciones conjuntas en materia de investigación, cuando se trate de elecciones federales, así como en la capacitación y actualización que en la materia se impartan;
+
+VII. Suscribir y ejecutar convenios y acuerdos en materia electoral;
+
+VIII. Diseñar e implementar proyectos, estudios y programas permanentes de información y fomento de la cultura de la denuncia y de la legalidad en materia electoral;
+
+IX. En los recesos electorales desarrollará y aplicará las políticas y programas de la Procuraduría en materia de prevención del delito y coordinará su ejecución; y
+
+X. Las demás que establezcan el Reglamento de la Ley Orgánica del Ministerio Público, otros ordenamientos jurídicos aplicables y aquellas que le confieran el Procurador o Procuradora y el personal titular de la Fiscalía.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+ARTÍCULO 15 QUATER. Todas las personas que desempeñen el cargo de Agente del Ministerio Público serán auxiliares en la investigación de delitos en la materia, por lo que deberán reportar sin dilación ni intermediación alguna a la Fiscalía Especializada en Delitos Electorales, el inicio de las investigaciones por hechos que la Ley señale como delitos electorales para efectos de asignación de número, coordinación para la práctica de diligencias básicas y su posterior remisión, debiendo observar la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+ARTÍCULO 15 QUINQUIES. La Dirección de Prevención del Delito y Atención Ciudadana, estará a cargo de un Director o Directora de Área que estará encargada de la aplicación de las políticas y programas de la Procuraduría en materia de prevención del delito, y tendrá las siguientes atribuciones y obligaciones:
+
+I. Coordinar y desarrollar campañas con la finalidad de prevenir la comisión de conductas ilícitas;
+
+II. Promover la colaboración ciudadana en la prevención del delito y en la cultura de la legalidad;
+
+III. promover el intercambio de experiencias en materia de prevención del delito con instituciones nacionales y extranjeras;
+
+IV. Participar en la promoción de la participación ciudadana en el marco del Programa Nacional de Seguridad Pública;
+
+V. Impulsar el establecimiento y operación de sistemas de vigilancia y de seguimiento de los fenómenos delincuenciales locales, para identificar zonas de riesgo, grupos vulnerables, victimas, personas victimarias y propiciar las acciones debidas en la prevención y el control de los hechos violentos o delictivos;
+
+VI. Proponer ante las instituciones de Seguridad Pública la implementación de políticas, lineamientos y protocolos en materia de atención integral a víctimas o personas ofendidas por algún delito;
+
+VII. Emitir opiniones y recomendaciones en materia de prevención del delito y participación ciudadana;
+
+VIII. Brindar apoyo y asesoría a las instituciones públicas o privadas que así lo soliciten en materia de prevención del delito;
+
+IX. Promover la participación de la comunidad, instituciones, organizaciones públicas, privadas y sociales para el fortalecimiento del respeto a los derechos humanos, así como coadyuvar en el diseño, elaboración, ejecución y evaluación de políticas públicas y programas de prevención del delito;
+
+X. Realizar cursos, coloquios, foros o cualquier otra actividad de carácter cultural o académico en materia de prevención del delito y participación ciudadana;
+
+XI. Promover la inclusión de contenidos relativos a la prevención del delito en los programas educativos, de salud, de desarrollo social y en general en los diversos programas de las dependencias y entidades estatales, así como colaborar con las entidades y los municipios en esta misma materia;
+
+XII. Requerir a las autoridades administrativas de la Procuraduría y de las instancias del Sistema Estatal de Seguridad Pública la información necesaria para realizar estudios por si o por terceras personas, sobre causas estructurales del delito, distribución geodelictiva, estadísticas de conductas ilícitas no denunciadas, tendencias históricas y patrones de comportamiento que permitan actualizar y perfeccionar la política criminal y de seguridad pública en el Estado;
+
+XIII. Realizar, por si o por terceras personas, encuestas sobre victimología, percepción de seguridad, fenómenos delictivos y otras que coadyuven a la prevención del delito;
+
+XIV. Realizar acciones para promover la cultura de la denuncia entre la sociedad;
+
+XV. Diseñar y promover políticas, programas, estrategias y acciones que fomenten en la sociedad valores culturales y cívicos, que fortalezcan el tejido social, que induzcan el respeto a la legalidad, y que promuevan la paz, la protección de las víctimas, el respeto a los derechos humanos, la participación ciudadana y una vida libre de violencia;
+
+XVI. fomentar la investigación científica y tecnológica para identificar los factores que generan las conductas antisociales;
+
+XVII. Promover ante las instituciones públicas, el establecimiento de las políticas que aseguren la prevención del delito, atención y protección de grupos vulnerables;
+
+XVIII. Promover en coordinación con las autoridades competentes, políticas para la prevención, atención, sanción y erradicación de la violencia, especialmente la ejercida con niñas, niños, jóvenes, mujeres, personas indígenas y adultos mayores;
+
+XIX. Coordinar sus actividades con los titulares de las demás unidades administrativas de la Procuraduría, para mejorar la atención de los asuntos competencia de la institución;
+
+XX. Atender y dar continuidad a las solicitudes de difusión masiva de personas desaparecidas que solicite la Procuraduría General de la República y otras Procuradurías o Fiscalías Generales;
+
+XXI. Desempeñar las comisiones y funciones que le encomiende la Fiscalía Especializada en Delitos Electorales, manteniéndola informada del cumplimiento de las mismas;
+
+XXII. Acordar con la Fiscalía Especializada en Delitos Electorales la atención de asuntos a cargo de la Dirección;
+
+XXIII. Informar a la Fiscalía Especializada en Delitos Electorales, respecto al acatamiento de las obligaciones prescritas en el presente artículo; y
+
+XXIV. Las demás que establezcan esta ley, el Reglamento, otros ordenamientos jurídicos aplicables y aquellas que le confieran el Procurador o Procuradora y la persona titular de la Fiscalía Especializada en Delitos Electorales.
+
 ### CAPÍTULO IV. DE LOS NOMBRAMIENTOS, REMOCIONES Y AUSENCIAS
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 16.
 
-Para ocupar el cargo de Procurador, se requiere:
+La persona que ocupe el cargo de Procurador General de Justicia deberá cumplir con los requisitos que establece el apartado A del artículo 92 de la Constitución Política del Estado de Hidalgo, y su nombramiento será conforme al procedimiento establecido en el apartado B del citado artículo. El Titular del Ejecutivo integrará la lista de candidatos a ocupar el cargo de Procurador General de Justicia a través de la emision de una Convocatoria Pública abierta en la que establecerá las bases generales para la participación en el procedimiento.
 
-I. Ser hidalguense en pleno goce de sus derechos;
-
-II. Ser licenciado en derecho con título legalmente expedido y acreditar un ejercicio profesional de 5 años, cuando menos;
-
-III. Tener un modo honesto de vivir; y
-
-IV. No haber sido condenado por delitos dolosos o faltas graves administrativas.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 17.
 
-El Procurador será electo por el Congreso del Estado, de entre una terna de candidatos que proponga el Gobernador.
+Para el nombramiento del Fiscal Especializado en Delitos Electorales, se deberá cumplir con los mismos requisitos y el procedimiento para designar al Procurador.
 
-Los mismos requisitos y procedimiento para ser designado Procurador, se aplicarán también para el nombramiento del Subprocurador de Asuntos Electorales.
+Para el nombramiento del Fiscal Especializado en Delitos de Corrupción, se deberán cumplir con los requisitos que establece el artículo 92 apartado A de la Constitución Política del Estado de Hidalgo, y seguir el procedimiento señalado en el apartado C del referido artículo.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 18.
 
-De las renuncias o licencias del Procurador y del Subprocurador de Asuntos Electorales, conocerá el Congreso del Estado.
-
-En caso de ausencia temporal o definitiva, derivada de licencia o renuncia, dichos funcionarios serán suplidos temporalmente por el Subprocurador que proponga el Gobernador y apruebe el Congreso del Estado.
+De las renuncias o licencias del Procurador, del Fiscal Especializado en Delitos Electorales y del Fiscal Especializado en Delitos de Corrupción, conocerá el Congreso del Estado.
 
 Las licencias serán concedidas por el tiempo estrictamente necesario de acuerdo a la exposición de motivos del solicitante, las que nunca podrán tener el carácter de indefinidas, ni podrán exceder de 90 días naturales.
 
+Las ausencias temporales del Fiscal Especializado en Delitos Electorales y del Fiscal Especializado en Delitos de Corrupción serán suplidos por el Subprocurador o funcionario que designe el Procurador.
+
+En caso de ausencia definitiva dichos funcionarios serán suplidos conforme a los procedimientos establecidos en los apartados B y C del artículo 92 de la Constitución Política del Estado de Hidalgo.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 19.
 
-Para ser Subprocurador y Visitador General se requiere cumplir los mismos requisitos que para ser Procurador.
+Para ser Subprocurador y Visitador General, se deberán cumplir los requisitos que establece el apartado A del artículo 92 de la Constitución Política del Estado de Hidalgo.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 20.
 
-Los Subprocuradores y el Visitador General, así como los titulares de los órganos a que se refiere el Artículo 11 de esta Ley y de los que señale el Reglamento, serán nombrados y removidos libremente por el Procurador, a excepción del Subprocurador de Asuntos Electorales, de los agentes del Ministerio Público y de los Peritos.
+Los titulares de las unidades administrativas u órganos a que se refiere el Artículo 11 de esta Ley y los que señale el Reglamento de la Ley serán nombrados y removidos libremente por el Procurador, a excepción de las Fiscalías Especializadas.
 
 ###### ARTÍCULO 21.
 
 (DEROGADO, P.O. 16 DE NOVIEMBRE DE 2015)
 
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+ARTÍCULO 21 BIS. La remoción del titular de las Fiscalías Especializadas en Delitos Electorales y de Corrupción, corresponderá al Congreso del Estado y solo podrá efectuarse por incurrir en causas de responsabilidad por hechos que la ley señale como delitos dolosos, de corrupción o falta administrativa grave.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 22.
 
-Los titulares de las unidades u órganos que se señalan en el artículo 11, deberán reunir los siguientes requisitos:
+Los titulares de las unidades administrativa (sic) u órganos que se señalan en el artículo 11 con excepción de las Fiscalías Especializadas, deberán reunir los siguientes requisitos:
 
 I. Ser ciudadano mexicano en pleno goce de sus derechos;
 
@@ -369,7 +517,9 @@ h) No estar sujeto o vinculado a proceso penal por delito doloso;
 
 i) No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público, en los términos de las normas aplicables;
 
-j) Ser de notoria buena conducta y no haber sido condenado por sentencia irrevocable como responsable de un delito doloso;
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
+j) Ser de notoria buena conducta y no haber sido condenado por sentencia irrevocable como responsable de un hecho que la Ley señala como delito doloso, de corrupción o falta administrativa grave;
 
 k) No hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo; y
 
@@ -425,9 +575,9 @@ c) Aprobar los procesos de evaluación de control de confianza y de evaluación 
 
 d) Los demás requisitos que establezca la Ley Nacional y otras disposiciones que resulten aplicables.
 
-> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
-ARTÍCULO 24 TER. Para ingresar y permanecer como Agente de la Policía Investigadora se requiere cumplir con los requisitos establecidos en el artículo 71 de la Ley de Seguridad Pública para el Estado de Hidalgo.
+ARTÍCULO 24 TER. Para ingresar y permanecer como Agente de la Policía Investigadora se requiere cumplir con los requisitos establecidos en el artículo 71 de la Ley de Seguridad Pública para el Estado de Hidalgo, además de no haber sido condenado por sentencia irrevocable como responsable de un hecho que la Ley señala como delito doloso, de corrupción o falta administrativa grave.
 
 > <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2015)</small>
 
@@ -485,15 +635,21 @@ II. Extraordinaria, que comprende:
 
 a) La separación del servicio por el incumplimiento de los requisitos de ingreso y permanencia en la Procuraduría; y
 
-b) La remoción por incurrir en causas de responsabilidad.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
+b) La remoción por incurrir en causas de responsabilidad por hechos que la Ley señala como delito doloso, de corrupción o falta administrativa grave.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 33.
 
-El Consejo de Profesionalización será el órgano superior del Servicio Profesional de Carrera de Procuración de Justicia en la Procuraduría, y se integrará por:
+El Consejo de Profesionalización será el órgano superior del Servicio Profesional de Carrera de Procuración de Justicia, y se integrará por:
 
 I. El Procurador General de Justicia, quien lo presidirá. En sus ausencias, lo suplirá el Subprocurador que corresponda, de conformidad con el Reglamento de esta Ley;
 
-II. Los Subprocuradores;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+II. Los Subprocuradores, el Fiscal Especializado en Delitos de Corrupción y el Fiscal Especializado en Delitos Electorales;
 
 III. El Visitador General;
 
@@ -599,9 +755,13 @@ Dicho Fondo será regulado y ejercido de conformidad al Reglamento que al efecto
 
 ### CAPÍTULO VIII. RESPONSABILIDADES Y SANCIONES
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 43.
 
-Los servidores públicos de la institución serán sujetos de las responsabilidades que correspondan por hechos u omisiones que realicen en ejercicio de sus funciones o con motivo de ellas.
+Son servidores públicos de la institución los titulares de las unidades administrativas u órganos que señala el artículo 11 de ésta Ley, los Agentes del Ministerio Público, Peritos, Facilitadores, Agentes de la Policía Investigadora, Auxiliares Jurídicos y personal administrativo; todos serán sujetos de responsabilidades que estipule la presente Ley, su Reglamento y la Ley en materia de responsabilidades administrativas que rija en el Estado, por acciones u omisiones que la Ley señale como delitos dolosos, de corrupción o faltas administrativas graves que realicen en ejercicio de sus funciones o con motivo de ellas, iniciando, substanciando y resolviendo estas conductas, conforme a sus respectivas competencias, el Consejo de Honor y Justicia, la Visitaduría General y el Órgano Interno de Control.
+
+Respecto de las Fiscalías Especializadas, incluso conocerá la Auditoría Superior del Estado de Hidalgo.
 
 ###### ARTÍCULO 44.
 
@@ -629,11 +789,11 @@ X. Incumplir cualquiera de las obligaciones a que se refiere el siguiente Artíc
 
 XI. Las demás que establezcan otras disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 45.
 
-Son obligaciones de los Agentes del Ministerio Público, Peritos, Facilitadores y Agentes de la Policía Investigadora, para salvaguardar la legalidad, eficiencia, profesionalismo, honradez, lealtad, imparcialidad y de respeto a los derechos humanos en el desempeño de su función, las siguientes:
+Son obligaciones de los Agentes del Ministerio Público, Peritos, Facilitadores, Agentes de la Policía Investigadora, Auxiliares jurídicos y personal administrativo, para salvaguardar la legalidad, eficiencia, profesionalismo, honradez, lealtad, imparcialidad y de respeto a los derechos humanos en el desempeño de su función, las siguientes:
 
 I. Conducirse siempre con apego al orden jurídico y respeto a los derechos humanos;
 
@@ -647,7 +807,9 @@ V. Abstenerse de ejercer empleo, cargo o comisión y demás actividades a que se
 
 VI. Observar un trato respetuoso con todas las personas, debiendo abstenerse de todo acto arbitrario y de limitar indebidamente las acciones o manifestaciones que en ejercicio de sus derechos constitucionales y con carácter pacífico realice la población;
 
-VII. Desempeñar su función sin solicitar ni aceptar compensaciones, pagos o gratificaciones de cualquier especie, distintas a las previstas legalmente. En particular se opondrán a cualquier acto de corrupción;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+VII. Desempeñar su función sin solicitar ni aceptar compensaciones, pagos o gratificaciones de cualquier especie, distintas a las previstas legalmente. En particular se opondrán a cualquier hecho que la ley señale como delitos de corrupción o falta administrativa grave;
 
 VIII. Incurrir en actos u omisiones que lesionen o pongan en peligro la integridad física o psicológica de las personas puesta a su disposición;
 
@@ -780,3 +942,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
 
 TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 10 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 200 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigencia al día siguiente de su publicación.
+
+SEGUNDO. Dentro de los treinta días siguientes a la entrada en vigor de este Decreto, el Congreso del Estado de Hidalgo, emitirá la convocatoria para designar al Fiscal Especializado en Delitos de Corrupción de la Procuraduría General de Justicia del Estado, conforme a lo establecido en la Constitución Política del Estado y esta Ley.
+
+TERCERO. El actual Procurador General de Justicia del Estado de Hidalgo continuará en su encargo hasta que cumpla con el periodo para el cual fue nombrado.
