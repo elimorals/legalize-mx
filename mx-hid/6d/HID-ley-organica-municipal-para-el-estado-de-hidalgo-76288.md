@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2017-06-26"
+last_updated: "2017-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2017.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -983,7 +983,15 @@ kk) Elaborar, en concordancia con la legislación y programas nacionales y estat
 
 II.- Asimismo, podrán:
 
-a).- Nombrar y remover libremente a los servidores públicos Municipales que refiere la Constitución Política del Estado;
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
+a).- Nombrar y remover libremente a los servidores públicos municipales que refiere la Constitución Política del Estado; con excepción del titular del Órgano Interno de Control, cuyo nombramiento deberá realizarse en los términos a que alude el inciso a Bis) de la fracción II del artículo 60 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+a Bis).- Proponer al Ayuntamiento en sesión del mismo, el nombramiento del titular del Órgano Interno de Control. La propuesta será sometida a la aprobación del Ayuntamiento, debiendo ser designado por el voto de cuando menos las dos terceras partes de los integrantes del Ayuntamiento y sólo podrá ser removido por el mismo número de votos.
+
+Quien sea titular del Órgano Interno de Control deberá contar con los conocimientos y experiencia relacionados con la materia que le permitan el adecuado desempeño de sus funciones.
 
 b).- Nombrar y remover a los alcaides y al personal de seguridad y administrativo de acuerdo con las disposiciones aplicables, así como, cuidar que las dependencias y oficinas Municipales se integren y funcionen con eficiencia;
 
@@ -1621,7 +1629,9 @@ IX. Las modificaciones al Presupuesto de Egresos se podrán realizar solamente d
 
 La Inspección de la Hacienda Pública Municipal compete:
 
-I.- Al Ayuntamiento por conducto del Síndico, en los términos de esta Ley; y
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+I.- Al Ayuntamiento por conducto del Síndico y al titular del Órgano Interno de Control en los términos de esta Ley y demás disposiciones legales y normativas aplicables; y
 
 II.- A la Auditoría Superior del Congreso del Estado, en términos de su Ley y cuando el Instituto para el Financiamiento del Estado sea aval de empréstitos o créditos concedidos a los Ayuntamientos o sea acreedor de estos últimos, en términos de los Artículos 2° de la Ley de Deuda Pública del Estado y 3° fracción III de la Ley que crea el Instituto para el Financiamiento del Estado.
 
@@ -3200,3 +3210,13 @@ P.O. 26 DE JUNIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA REFORMA (SIC) DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo
+
+P.O. 10 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 203.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE HIDALGO"].
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Estado de Hidalgo.
+
+SEGUNDO. Los 84 Ayuntamientos en un tiempo no mayor a sesenta días a partir de la fecha de la entrada en vigor del presente Decreto, deberán adecuar su normatividad interna y cumplir lo señalado en el inciso a Bis) de la fracción II del artículo 60 de esta Ley.
+
+TERCERO. Cuando se refiera a Órgano Interno de Control, se refiere al actual Contralor Municipal, con las facultades y obligaciones que la legislación le confiere.
