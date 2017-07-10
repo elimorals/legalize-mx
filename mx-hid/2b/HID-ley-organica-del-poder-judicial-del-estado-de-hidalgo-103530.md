@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-judicial-del-estado-de-hidalgo-103530"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-11-10"
-last_updated: "2015-06-08"
+last_updated: "2017-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2015.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 8 DE JUNIO DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2017.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 10 de noviembre de 2014.
 
@@ -69,7 +67,9 @@ a) Jurisdiccionales:
 
 I. El Tribunal Superior de Justicia y Juzgados del Fuero Común;
 
-II. El Tribunal Fiscal Administrativo; y
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+II. El Tribunal de Justicia Administrativa;
 
 III. Los demás funcionarios y auxiliares de la impartición de justicia.
 
@@ -87,9 +87,11 @@ Los auxiliares de la impartición de justicia están obligados a realizar los ac
 
 Los poderes del estado están obligados a garantizar y facilitar el ejercicio de las funciones de auxilio a la impartición de justicia a cargo del Poder Judicial.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 5.
 
-El Tribunal Superior de Justicia y los juzgados del fuero común, el Tribunal Fiscal Administrativo, tienen las siguientes atribuciones:
+El Tribunal Superior de Justicia, el Tribunal de Justicia Administrativa y los juzgados del fuero común, tienen las siguientes atribuciones:
 
 I. Ejercer la función jurisdiccional de manera pronta, completa, imparcial y gratuita;
 
@@ -135,9 +137,11 @@ El Poder Judicial tiene facultad para manejar en forma autónoma e independiente
 
 Para el adecuado funcionamiento del Poder Judicial, el monto presupuestal será el que le asigne anualmente el Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 10.
 
-El proyecto del presupuesto de egresos del Poder Judicial del Estado se integrará con el del Tribunal Superior de Justicia, el del Tribunal Fiscal Administrativo y el del Consejo de la Judicatura, el cual será presentado al Ejecutivo por el representante del Poder Judicial.
+El proyecto del presupuesto de egresos del Poder Judicial del Estado se integrará con el del Tribunal Superior de Justicia, el del Tribunal de Justicia Administrativa y el del Consejo de la Judicatura, el cual será presentado al Poder Ejecutivo por el representante del Poder Judicial.
 
 ## TÍTULO SEGUNDO. DE LA ORGANIZACIÓN DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
@@ -707,11 +711,11 @@ c) Tercer circuito, con cabecera en Tula de Allende, comprenderá los distritos 
 
 > <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
 
-d) Cuarto circuito, con cabecera en lxmiquilpan, comprenderá los distritos judiciales de lxmiquilpan, Jacala de Ledezma, Zimapan, y Huichapan; y
+d) Cuarto circuito, con cabecera en Ixmiquilpan, comprenderá los distritos judiciales de Ixmiquilpan, Jacala de Ledezma, Zimapan, y Huichapan; y
 
 > <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
 
-e) Quinto circuito, con cabecera en Huejutla de Reyes, comprenderá los distritos judiciales de Huejutla de Reyes, Zacualtipan de Ángeles, Meztitlan y Molango de Escamilla.”
+e) Quinto circuito, con cabecera en Huejutla de Reyes, comprenderá los distritos judiciales de Huejutla de Reyes, Zacualtipan de Ángeles, Meztitlan y Molango de Escamilla."
 
 Acorde a las necesidades jurisdiccionales y presupuestarias el Pleno del Consejo de la Judicatura determinara la integración de los distritos judiciales a cada uno de los circuitos y podrá establecer juzgados en municipios distintos a los de la cabecera del distrito.
 
@@ -1209,25 +1213,39 @@ XI.- Atender las solicitudes del público para consultar los registros de los pr
 
 XII.- Las demás que determine la Ley, el Reglamento y el Consejo de la Judicatura.
 
-## TÍTULO TERCERO. DEL TRIBUNAL FISCAL ADMINISTRATIVO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE JULIO DE 2017)</small>
+
+## TÍTULO TERCERO. DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 80.
 
-De conformidad con los Artículos 116, fracción V, de la Constitución Política de los Estados Unidos Mexicanos; 99, apartado B, de la Constitución Política del Estado de Hidalgo; 1 y 2 inciso a) fracción II, de esta Ley, la justicia fiscal y administrativa en el Estado de Hidalgo, se impartirá por el Tribunal Fiscal Administrativo con jurisdicción en toda la Entidad y con residencia en la Ciudad de Pachuca de Soto.
+De conformidad con los Artículos 116, fracción V, de la Constitución Política de los Estados Unidos Mexicanos; 99, apartado B, de la Constitución Política del Estado de Hidalgo y 1 y 2 inciso a) fracción II, de esta Ley, la justicia fiscal, administrativa y de responsabilidades administrativas, se impartirá por el Tribunal de Justicia Administrativa con jurisdicción en toda la Entidad y con residencia en la Ciudad de Pachuca de Soto.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 81.
 
-El Tribunal Fiscal Administrativo del Estado de Hidalgo, es un órgano autónomo de control de legalidad, con plena jurisdicción para dictar sus resoluciones e imperio para hacerlas cumplir.
+El Tribunal de Justicia Administrativa del Estado de Hidalgo, es un órgano de control de legalidad, con plena autonomía para dictar sus resoluciones e imperio para hacerlas cumplir.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 82.
 
-Corresponde al Tribunal Fiscal Administrativo, dirimir con plena autonomía las controversias que se susciten en materia fiscal y administrativa entre los particulares y la Administración Pública Estatal, Municipal y organismos descentralizados con funciones de autoridad. En ningún caso el Tribunal podrá sustituir a la Autoridad Administrativa.
+Corresponde al Tribunal de Justicia Administrativa dirimir las controversias que se susciten en materia fiscal y administrativa entre los particulares y la Administración Pública Estatal, Municipal y Organismos Descentralizados con funciones de autoridad.
+
+Además, conocerá de las acciones de responsabilidad y aplicará las sanciones por faltas administrativas calificadas como graves cometidas por servidores públicos y particulares vinculados con éstas, promovidas por los órganos internos de control estatal y municipal, o la Auditoría Superior del Estado.
+
+En ningún caso el Tribunal podrá sustituir a la autoridad administrativa.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 83.
 
-Las salas del Tribunal Fiscal Administrativo serán competentes para conocer, substanciar y resolver los juicios que se promuevan en contra de los actos administrativos siguientes:
+Las salas del Tribunal de Justicia Administrativa serán competentes para conocer, substanciar y resolver los juicios que se promuevan en contra de los actos administrativos, conductas y hechos siguientes:
 
 A) EN MATERIA FISCAL:
 
@@ -1255,35 +1273,67 @@ V.- Que se dicten en materia de interpretación y cumplimiento de contratos de o
 
 VI.- Los demás asuntos de esta materia que señalen los ordenamientos aplicables.
 
-C) EN AMBAS MATERIAS:
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
-I.- De la Queja por incumplimiento de sentencias;
+C) RESPONSABILIDADES ADMINISTRATIVAS:
 
-II.- Del recurso de Reclamación, conforme a lo dispuesto en la Ley de la materia; y
+I. Conocer de las acciones de responsabilidades administrativas promovidas por la Auditoría Superior del Estado y los Órganos Internos de Control Estatales y Municipales por faltas administrativas graves;
 
-III.- Los demás asuntos que señalen las normas aplicables.
+II. Substanciar los procesos respectivos y en su caso, imponer las sanciones que correspondan a los servidores públicos por faltas administrativas calificadas como graves y a los particulares vinculados;
+
+III. Determinar e imponer las sanciones económicas e indemnizaciones que correspondan cuando se hayan causado daños o perjuicios al patrimonio o a la Hacienda Pública del Estado o Municipios en los cuales deberá considerarse el lucro obtenido y la reparación de los daños y perjuicios causados;
+
+IV. Asegurar la recuperación de activos que hayan sido objeto, instrumento, producto o estén relacionados con faltas administrativas graves en los términos de la ley de la materia con independencia de las sanciones administrativas que correspondan; y
+
+V. De las resoluciones definitivas que impongan sanciones administrativas a los servidores públicos por faltas administrativas no graves en términos de la legislación en materia de responsabilidades para el Estado de Hidalgo, así como contra las que decidan los recursos administrativos previstos en dicho ordenamiento.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+D) RESPONSABILIDAD PATRIMONIAL DEL ESTADO:
+
+I. Las controversias que se susciten en materia de responsabilidad patrimonial del Estado y de los Municipios; y
+
+II. De los recursos que establezca la ley de la materia.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+###### ARTÍCULO 83 Bis.
+
+Las Salas de Primera Instancia conocerán:
+
+I. De la queja por incumplimiento de sentencia;
+
+II. Del recurso de reclamación conforme a los dispuesto en la ley de la materia; y
+
+III. Los demás asuntos que señalen las normas aplicables.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 84.
 
-Los Magistrados y Magistradas del Tribunal Fiscal Administrativo, serán nombrados y protestarán el cargo conforme a lo previsto por la Constitución Política del Estado de Hidalgo.
+Las Magistradas y Magistrados del Tribunal de Justicia Administrativa, serán nombrados y protestarán el cargo conforme a lo previsto por la Constitución Política del Estado de Hidalgo.
 
-Para el trámite de renuncias de los Magistrados o Magistradas del Tribunal Fiscal Administrativo, se seguirá el mismo procedimiento que para su designación
+Para el trámite de renuncias de las Magistradas o Magistrados del Tribunal de Justicia Administrativa, se seguirá el mismo procedimiento que para su designación.
 
 ###### ARTÍCULO 85.
 
 Los Magistrados y Magistradas, durarán en el ejercicio de su cargo seis años a partir de su aprobación por el Congreso; podrán ser ratificados y si lo fueren, sólo podrán ser privados de sus puestos en los términos que determina la Constitución Política del Estado de Hidalgo y las Leyes correspondientes.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 86.
 
-El Tribunal Fiscal Administrativo se integrará por tres Magistrados o Magistradas; funcionará en Pleno y en salas. El Pleno será el órgano supremo del Tribunal, con funciones jurisdiccionales y administrativas.
+El Tribunal de Justicia Administrativa se integrará por cinco Magistradas o Magistrados; funcionará en Pleno y en Salas. El Pleno será el órgano supremo del Tribunal, con funciones jurisdiccionales y administrativas.
 
 ###### ARTÍCULO 87.
 
 Las salas unitarias funcionarán como primera instancia y el Pleno como segunda instancia.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 88.
 
-El Tribunal Fiscal Administrativo tendrá un Presidente o Presidenta, que lo será también del Pleno, durará en su encargo cuatro años y no podrá ser reelecto o reelecta para el periodo inmediato.
+El Tribunal de Justicia Administrativa tendrá una Presidenta o Presidente, que lo será también del Pleno, durará en su encargo cuatro años y no podrá ser reelecta o reelecto para el periodo inmediato.
 
 ###### ARTÍCULO 89.
 
@@ -1299,7 +1349,9 @@ Tratándose de excusas del Presidente o Presidenta, el Pleno resolverá y, en su
 
 El Presidente o Presidenta, será suplido en sus ausencias temporales por el Magistrado o Magistrada de mayor antigüedad.
 
-Las ausencias temporales de los demás Magistrados o Magistradas serán suplidas por el Secretario o Secretaria General, quien actuará por ministerio de Ley, y éste, a su vez, por el Secretario, Secretaria, Actuario y Actuaria que designe el Pleno del Tribunal Fiscal Administrativo.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
+Las ausencias temporales de las demás Magistradas o Magistrados serán suplidas por la persona titular que presida la Secretaría General, quien actuará por ministerio de Ley, y ésta, a su vez, por la Secretaria, Secretario, Actuaria y Actuario que designe el Pleno del Tribunal de Justicia Administrativa.
 
 Las ausencias definitivas de los Magistrados o Magistradas, entretanto se provee a la designación, las cubrirá el Secretario o Secretaria General del Tribunal.
 
@@ -1307,7 +1359,9 @@ Las ausencias definitivas de los Magistrados o Magistradas, entretanto se provee
 
 Las ausencias definitivas de los Magistrados y Magistradas se comunicarán al Gobernador o Gobernadora del Estado para que proceda al nombramiento de quienes habrán de cubrir las vacantes, conforme al procedimiento señalado en la Constitución Política del Estado de Hidalgo.
 
-### CAPÍTULO II. DEL PLENO DEL TRIBUNAL FISCAL ADMINISTRATIVO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE JULIO DE 2017)</small>
+
+### CAPÍTULO II. DEL PLENO DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA
 
 ###### ARTÍCULO 92.
 
@@ -1333,9 +1387,13 @@ Corresponde al Pleno, en funciones de Segunda Instancia:
 
 I.- Conocer y resolver los recursos de revisión que se interpongan en contra de las sentencias definitivas de Primera Instancia.
 
-II.- Resolver las excusas por impedimento de los Magistrados y Magistradas del Tribunal Fiscal Administrativo y en su caso, designar a quien deba conocer del asunto;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
 
-III.- Resolver las contradicciones que se susciten entre las resoluciones de los Magistrados y Magistradas y establecer la Jurisprudencia del Tribunal Fiscal Administrativo;
+II.- Resolver las excusas, por impedimento, de las Magistradas y Magistrados del Tribunal de Justicia Administrativa y, en su caso, designar a quien deba conocer del asunto;
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
+III.- Resolver las contradicciones que se susciten entre las resoluciones de las Magistradas y Magistrados y establecer la Jurisprudencia del Tribunal de Justicia Administrativa; y
 
 IV.- Conocer de las excitativas que para impartición de justicia promuevan las partes cuando los Magistrados y las Magistradas de las salas de primera instancia no dicten las resoluciones que correspondan dentro de los plazos señalados por la Ley;
 
@@ -1361,9 +1419,13 @@ VII.- Dictar las medidas necesarias para el despacho pronto y expedito de los as
 
 VIII.- Analizar, discutir y aprobar, en su caso, el informe que anualmente rinda el Presidente o Presidenta;
 
-IX.- Discutir y aprobar el proyecto de presupuesto anual del Tribunal Fiscal Administrativo que presente el Magistrado o Magistrada Presidente, para su inclusión en el proyecto de presupuesto del Poder Judicial del Estado de Hidalgo;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
 
-X.- Proponer reformas a esta Ley y a su Reglamento, en lo que corresponda al Tribunal Fiscal Administrativo;
+IX.- Discutir y aprobar el proyecto de presupuesto anual del Tribunal de Justicia Administrativa que presente quien ocupe la Presidencia, para su inclusión en el proyecto de presupuesto del Poder Judicial del Estado de Hidalgo;
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+X.- Proponer reformas a esta Ley y a su Reglamento, en lo que corresponda al Tribunal de Justicia Administrativa;
 
 XI.- Proponer Iniciativas de Ley y Decretos inherentes a la impartición de justicia en su ramo;
 
@@ -1377,13 +1439,17 @@ XV.- Establecer reglas para la distribución de asuntos entre las salas de Prime
 
 XVI.- Modificar el horario de labores del Tribunal; y
 
-XVII.- Las demás obligaciones, funciones y atribuciones que establezcan, la presente Ley, la Ley Orgánica del Tribunal Fiscal Administrativo del Estado de Hidalgo, el Código Fiscal del Estado de Hidalgo y los demás ordenamientos aplicables.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+XVII.- Las demás obligaciones, funciones y atribuciones que establezcan, la presente Ley, la Ley del Tribunal de Justicia Administrativa del Estado de Hidalgo, el Código Fiscal del Estado de Hidalgo y los demás ordenamientos aplicables.
 
 ### CAPÍTULO III. DEL PRESIDENTE Y PRESIDENTA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 96.
 
-Corresponde al Magistrado y Magistrada Presidente del Tribunal Fiscal Administrativo del Estado de Hidalgo:
+Corresponde a la Magistrada o Magistrado Presidente del Tribunal de Justicia Administrativa del Estado de Hidalgo:
 
 I.- Representar al Tribunal ante toda clase de autoridades y en actos de cualquier índole, así como, delegar dicha representación;
 
@@ -1413,19 +1479,27 @@ XIII.- Hacer uso de los medios de apremio y aplicar las medidas disciplinarias e
 
 XIV.- Acordar la remisión de los expedientes concluidos de Segunda Instancia al Archivo del Poder Judicial; y
 
-XV.- Las demás obligaciones, funciones y atribuciones que le señalen la presente Ley, la Ley Orgánica del Tribunal Fiscal Administrativo del Estado de Hidalgo, el Código Fiscal del Estado de Hidalgo y los demás ordenamientos aplicables.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+XV.- Las demás obligaciones, funciones y atribuciones que le señalen la presente Ley, la Ley del Tribunal de Justicia Administrativa del Estado de Hidalgo, el Código Fiscal del Estado de Hidalgo, la ley aplicable en materia de responsabilidades administrativas y demás ordenamientos aplicables.
 
 ### CAPÍTULO IV. DE LAS SALAS UNITARIAS
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 97.
 
-Los Magistrados y Magistradas de las salas de primera instancia conocerán y resolverán en materia fiscal y administrativa. El Presidente o Presidenta no intervendrá en controversias de Primera Instancia.
+A las Magistradas y Magistrados de las Salas de Primera Instancia conocerán y resolverán los asuntos de su competencia establecidos en la presente Ley. La Presidenta o Presidente no intervendrá en controversias de Primera Instancia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 98.
 
-A las Magistrados y Magistradas de las salas corresponde:
+A las Magistradas y Magistrados de las salas corresponde:
 
-I.- Conocer y resolver los asuntos de su competencia establecidos en el Artículo 70 de esta Ley;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+I.- Conocer y resolver los asuntos de su competencia establecidos en los artículos 83 y 83 Bis de esta Ley;
 
 II.- Acordar la remisión de expedientes concluidos al Archivo del Poder Judicial;
 
@@ -1439,9 +1513,11 @@ VI.- Las demás que señale esta Ley, el Reglamento Interior y los ordenamientos
 
 ### CAPÍTULO V. DEL PERSONAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 99.
 
-El Tribunal Fiscal Administrativo, para el debido cumplimiento de sus funciones, contará con:
+El Tribunal de Justicia Administrativa, para el debido cumplimiento de sus funciones, contará con:
 
 I. Un Secretario o Secretaria General;
 
@@ -1489,7 +1565,9 @@ XI.- Remitir los expedientes concluidos de Segunda Instancia al Archivo del Pode
 
 XII.- Realizar en caso necesario las gestiones para la entrega - recepción de los expedientes concluidos al Archivo del Poder Judicial; y,
 
-XIII.- Las demás obligaciones, funciones y atribuciones que le señalen, la presente Ley, la Ley Orgánica del Tribunal Fiscal Administrativo del Estado de Hidalgo, el Código Fiscal del Estado de Hidalgo y los demás ordenamientos aplicables.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+XIII.- Las demás obligaciones, funciones y atribuciones que le señalen la presente Ley, la Ley del Tribunal de Justicia Administrativa del Estado de Hidalgo, el Código Fiscal del Estado de Hidalgo, la ley aplicable en materia de responsabilidades administrativas y demás ordenamientos aplicables.
 
 ###### ARTÍCULO 102.
 
@@ -1517,7 +1595,9 @@ V.- Practicar personalmente a las partes y demás sujetos procedimentales, las n
 
 VI.- Dar fe, con su firma, de los acuerdos, diligencias, actas y toda clase de resoluciones emitidas por la Sala respectiva;
 
-VII.- Llevar el procedimiento que establezcan la Ley Orgánica del Tribunal Fiscal Administrativo del Estado de Hidalgo, el Código Fiscal del Estado de Hidalgo y demás ordenamientos aplicables;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+VII.- Llevar el procedimiento que establezcan la Ley del Tribunal de Justicia Administrativa del Estado de Hidalgo, el Código Fiscal del Estado de Hidalgo, la Ley aplicable en materia de responsabilidades administrativas y demás ordenamientos aplicables;
 
 VIII.- Llevar los libros de registro de expedientes de la Sala correspondiente;
 
@@ -1533,7 +1613,9 @@ XIII.- Coordinar y dirigir el trabajo del personal a su cargo;
 
 XIV.- Remitir los expedientes concluidos al Archivo del Poder Judicial del Estado de Hidalgo; y
 
-XV.- Las demás obligaciones, funciones y atribuciones que les señalen la presente Ley, la Ley Orgánica del Tribunal Fiscal Administrativo del Estado de Hidalgo, el Código Fiscal del Estado de Hidalgo y los demás ordenamientos aplicables.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+XV.- Las demás obligaciones, funciones y atribuciones que les señalen: la presente Ley, la Ley del Tribunal de Justicia Administrativa del Estado de Hidalgo, el Código Fiscal del Estado de Hidalgo, la ley aplicable en materia de responsabilidades administrativas y demás ordenamientos aplicables.
 
 ###### ARTÍCULO 104.
 
@@ -1553,11 +1635,15 @@ VI.- Redactar de manera clara y con letra legible las constancias y diligencias 
 
 VII.- Auxiliar al Magistrado o Magistrada en las diligencias y actuaciones que requiera; y
 
-VIII.- Las demás obligaciones, funciones y atribuciones que les señalen la presente Ley, la Ley Orgánica del Tribunal Fiscal Administrativo del Estado de Hidalgo, el Código Fiscal del Estado de Hidalgo y los demás ordenamientos aplicables.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+VIII. Las demás obligaciones, funciones y atribuciones que les señalen la presente Ley, la Ley del Tribunal de Justicia Administrativa del Estado de Hidalgo, el Código Fiscal del Estado de Hidalgo, la ley aplicable en materia de responsabilidades administrativas y demás ordenamientos aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 105.
 
-La Oficialía de Partes del Tribunal Fiscal Administrativo del Estado de Hidalgo, estará a cargo de un titular, quien dependerá de la Secretaría General. Son sus obligaciones las siguientes:
+La Oficialía de Partes del Tribunal de Justicia Administrativa del Estado de Hidalgo, estará a cargo de un titular, quien dependerá de la Secretaría General. Son sus obligaciones las siguientes:
 
 I.- Recibir las promociones y demás escritos que presenten las partes, asentando constancia de su recepción, así como verificar el número de fojas y anexos que acompañen a las promociones.
 
@@ -1569,11 +1655,15 @@ III.- Dar cuenta de las promociones recibidas al Secretario o Secretaria General
 
 IV.- Elaborar los informes y estadísticas que le sean solicitados por el Secretario o Secretaria General; y
 
-V.- Las demás obligaciones y atribuciones dispuestas por esta Ley, la Ley Orgánica del Tribunal Fiscal Administrativo del Estado de Hidalgo, el Código Fiscal del Estado de Hidalgo y otros ordenamientos aplicables, así como las que señalen el Presidente o Presidenta del Tribunal o el Secretario y Secretaria General.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+V.- Las demás obligaciones y atribuciones dispuestas por esta Ley, la Ley del Tribunal de Justicia Administrativa del Estado de Hidalgo, el Código Fiscal del Estado de Hidalgo, la ley aplicable en materia de responsabilidades administrativas y demás ordenamientos aplicables, así como las que señalen la Presidenta o el Presidente del Tribunal o la Secretaria y Secretario General.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 106.
 
-Los magistrados y magistradas (sic) demás servidores públicos adscritos al Tribunal Fiscal Administrativo del Estado de Hidalgo, percibirán iguales emolumentos y prestaciones que los servidores públicos de similar categoría del Tribunal Superior de Justicia del Estado, los cuales no podrán ser disminuidos durante su encargo.
+Las Magistradas, Magistrados y demás servidores públicos adscritos al Tribunal de Justicia Administrativa del Estado de Hidalgo, percibirán iguales emolumentos y prestaciones que los servidores públicos de similar categoría del Tribunal Superior de Justicia del Estado, los cuales no podrán ser disminuidos durante su encargo.
 
 ### CAPÍTULO VI. DE LA UNIDAD ADMINISTRATIVA
 
@@ -1581,9 +1671,11 @@ Los magistrados y magistradas (sic) demás servidores públicos adscritos al Tri
 
 La Unidad Administrativa, estará a cargo de un Jefe o Jefa, quien tendrá la vinculación correspondiente con el Consejo de la Judicatura.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 108.
 
-El Jefe o Jefa de la Unidad Administrativa será propuesto por el Presidente o Presidenta del Tribunal Fiscal Administrativo del Estado de Hidalgo y nombrado por el Pleno.
+La Jefa o Jefe de la Unidad Administrativa será propuesto por la Presidenta o Presidente del Tribunal de Justicia Administrativa del Estado de Hidalgo y nombrado por el Pleno.
 
 ###### ARTÍCULO 109.
 
@@ -1591,7 +1683,9 @@ Corresponde al Jefe o Jefa de la Unidad Administrativa:
 
 I.- Ser el vínculo con el Consejo de la Judicatura, para los asuntos administrativos del Tribunal;
 
-II.- Acordar con el Presidente o Presidenta del Tribunal Fiscal Administrativo del Estado de Hidalgo, con el Presidente o Presidenta del Consejo de la Judicatura o con quien ellos designen, los asuntos que correspondan;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+II.- Acordar con la Presidenta o Presidente del Tribunal de Justicia Administrativa del Estado de Hidalgo, los asuntos que le correspondan;
 
 III.- Llevar a cabo los trámites correspondientes a la partida presupuestal;
 
@@ -1723,7 +1817,17 @@ XXII.- Atender la solicitud del Pleno de Magistrados y Magistradas para la prác
 
 XXIII.- Establecer las aplicaciones informáticas de gestión necesarias para que se cuente con un sistema integral de procesamiento de información de forma electrónica digital denominada Tribunal Virtual, el cual permite hacer uso de tecnologías de la información en la sustanciación de asuntos jurisdiccionales ante el Poder Judicial del Estado de Hidalgo, conforme a lo previsto en las normas aplicables procesales, en el reglamento de ésta ley y en los acuerdos generales de éste Pleno.
 
-XXIV.- Las demás que señale esta Ley y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+XXIV.- Conocer de las faltas administrativas de los funcionarios y empleados del Poder Judicial;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2017)</small>
+
+XXV.- Presentar ante la autoridad competente las denuncias por los hechos que la Ley considere como delitos de corrupción; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE JULIO DE 2017)</small>
+
+XXVI.- Las demás que señale esta Ley y demás disposiciones aplicables.
 
 ###### ARTÍCULO 119.
 
@@ -1811,7 +1915,9 @@ II.- Contar con titulo profesional en áreas contables administrativas o afines 
 
 III.- Tener como mínimo treinta años de edad;
 
-IV.- No haber sido sentenciado por delito doloso y no encontrarse inhabilitado en términos de lo que señala la Ley de Responsabilidades de los Servidores Públicos para el Estado; y
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+IV.- No haber sido sentenciado por delito doloso y no encontrarse inhabilitado en términos de lo que señala la Ley en materia de responsabilidades administrativas; y
 
 V.- Ser de reconocida probidad.
 
@@ -2265,7 +2371,7 @@ Son susceptibles de solución a través del Sistema de Justicia Alternativa, las
 
 En materia penal, procede resolver en delitos de querella necesaria, que no sean considerados graves y en los casos previstos por la ley.
 
-> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO ÚNICO DEL DECRETO PUBLICADO EN EL P.O. DE 1 DE MAYO DE 2015, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
+> <small>[N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO ÚNICO DEL DECRETO PUBLICADO EN EL P.O. DE 1 DE MAYO DE 2015, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.]</small>
 
 ###### ARTÍCULO 153.
 
@@ -2405,11 +2511,11 @@ Son Servidores Públicos de la impartición de Justicia los Magistrados, Magistr
 
 Con excepción de los Magistrados, Magistradas, Consejeros, Consejeras, Jueces y Juezas a que se refiere el Artículo 150 de la Constitución Política del Estado de Hidalgo, los demás Servidores Públicos de la impartición de Justicia, no tienen fuero.
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 166.
 
-Los Magistrados y Magistradas de los Tribunales que integran el Poder Judicial del Estado de Hidalgo, los Consejeros y Consejeras, de la Judicatura, los Jueces, Juezas y demás servidores públicos, sólo podrán ser privados de sus puestos, en la forma y términos que determina la Constitución Política del estado de Hidalgo y la Ley de Responsabilidades de los Servidores Públicos de la Entidad.
+Las Magistradas y Magistrados de los Tribunales que integran el Poder Judicial del Estado de Hidalgo, las Consejeras y Consejeros de la Judicatura, las Juezas, Jueces y demás servidores públicos, sólo podrán ser privados de sus puestos, en la forma y términos que determina la Constitución Política del Estado de Hidalgo, la ley aplicable en materia de responsabilidades administrativas y demás ordenamientos aplicables.
 
 > <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
 
@@ -2417,17 +2523,17 @@ Los Magistrados y Magistradas de los Tribunales que integran el Poder Judicial d
 
 Los Magistrados, Magistradas, Jueces y Juezas, serán responsables al establecer o fijar la interpretación de los preceptos legales en las resoluciones que dicten, cuando se compruebe que hubo cohecho o mala fe, se estará a lo dispuesto en las Leyes correspondientes.
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 168.
 
-Ningún servidor público del Poder Judicial, podrá tener ocupación que tenga relación o influencia sobre la administración de justicia, excepto aquellos que le compete como miembros de la administración de justicia, el ejercicio docente o abogacía en causa propia, en tanto no perjudique las funciones propias de su encargo, conforme lo establece el artículo 156 de la Constitución del Estado y la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo.
+Ningún servidor público del Poder Judicial, podrá tener ocupación que tenga relación o influencia sobre la administración de justicia, excepto aquellos que le compete como miembros de la administración de justicia, el ejercicio docente o abogacía en causa propia, en tanto no perjudique las funciones propias de su encargo, conforme lo establece el artículo 156 de la Constitución Política del Estado de Hidalgo y la ley aplicable en materia de responsabilidades administrativas.
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 169.
 
-Ningún nombramiento de la administración de justicia recaerá en representantes de culto religioso, ascendientes, descendientes, cónyuge o colaterales hasta el cuarto grado por consanguinidad, o segundo por afinidad, de quien lo haga, conforme lo establece la ley de responsabilidades de los Servidores públicos para el Estado de Hidalgo.
+Ningún nombramiento de la administración de justicia recaerá en representantes de culto religioso, ascendientes, descendientes, cónyuge o colaterales hasta el cuarto grado por consanguinidad, o segundo por afinidad, de quien lo haga, conforme lo establece la ley en materia de responsabilidades administrativas aplicable.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE MAYO DE 2015)</small>
 
@@ -2441,7 +2547,9 @@ La Unidad de Responsabilidades de los servidores públicos, es un órgano auxili
 
 Las facultades del Director o Directora de la Unidad de Responsabilidades, serán:
 
-I.- Recibir, tramitar, conocer y resolver según su competencia, de las quejas y denuncias que se presenten en contra de servidores públicos del Poder Judicial conforme a la Ley de Responsabilidades de los Servidores Públicos y el Reglamento de la Ley Orgánica del Poder Judicial;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+I.- Recibir, tramitar, conocer y resolver según su competencia, de las quejas y denuncias que se presenten en contra de servidores públicos del Poder Judicial conforme a esta Ley, su reglamento y la ley aplicable en materia de responsabilidades administrativas;
 
 II.- Sustanciar los procedimientos de investigación y responsabilidades;
 
@@ -2453,11 +2561,11 @@ Las demás que de acuerdo a sus funciones las leyes le confieran.
 
 De las Faltas Administrativas de los Servidores Públicos
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 171.
 
-Serán causas de responsabilidad para los servidores públicos del Poder Judicial, las previstas en la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo.
+Serán causas de responsabilidad para los servidores públicos del Poder Judicial, las previstas en la ley aplicable en materia de responsabilidades administrativas.
 
 > <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
 
@@ -2481,11 +2589,11 @@ Las resoluciones que emitan los Plenos de cada uno de los Tribunales del Poder J
 
 SANCIONES
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 173.
 
-Las sanciones por faltas administrativas serán impuestas en términos de la Ley de Responsabilidades de los Servidores Públicos y consistirán en:
+Las sanciones por faltas administrativas serán impuestas en términos de la legislación aplicable en materia de responsabilidades administrativas.
 
 I.- Amonestación;
 
@@ -2497,17 +2605,17 @@ IV.- Sanción económica;
 
 V.- Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 174.
 
-Las faltas serán valoradas y en su caso sancionadas, de conformidad con lo que señala la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo.
+Las faltas administrativas serán calificadas y en su caso sancionadas, de conformidad con lo que señala la ley aplicable en materia de responsabilidades administrativas.
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 175.
 
-Tratándose de servidores públicos, para la imposición de sanciones administrativas, se estará a lo previsto en la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo.
+Tratándose de servidores públicos, para la imposición de sanciones administrativas, se estará a lo previsto en la ley aplicable en materia de responsabilidades administrativas.
 
 > <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
 
@@ -2521,19 +2629,21 @@ Las resoluciones emitidas por la Unidad de Responsabilidades que impongan sancio
 
 Las quejas y denuncias interpuestas en contra de Magistrados o Magistradas, Consejeros o Consejeras del Poder Judicial serán recepcionadas por la Unidad de Responsabilidades, quien las deberá de integrar y turnar a cada uno de los Plenos para su resolución y será el Secretario o Secretaria de cada Pleno el facultado para ejecutarlas.
 
-De las quejas y denuncias que reciba la Unidad de Responsabilidades en contra de los demás servidores públicos, iniciará el procedimiento de investigación en el que en caso de advertir que existen elementos para iniciar un procedimiento de responsabilidad administrativa, dictará el acuerdo correspondiente en términos de lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo, lo anterior sin perjuicio de que en caso de que de la queja o denuncia se adviertan elementos para el inicio de procedimientos de responsabilidad, así se determinara.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
+De las quejas y denuncias que reciba la Unidad de Responsabilidades en contra de los demás servidores públicos, iniciará el procedimiento de investigación en el que en caso de advertir que existen elementos para iniciar un procedimiento de responsabilidad administrativa, dictará el acuerdo correspondiente en términos de lo dispuesto por la Ley en materia de responsabilidades administrativas aplicables, lo anterior sin perjuicio de que en caso de que de la queja o denuncia se adviertan elementos para el inicio de procedimientos de responsabilidad, así se determinará.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 178.
 
-Para el efecto de los términos y prescripción en la imposición de sanciones, se estará a lo señalado en la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo.
+Para el efecto de los términos y prescripción en la imposición de sanciones, se estará a lo señalado en la Ley en materia de responsabilidades administrativas aplicable.
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 179.
 
-Para los supuestos en materia de responsabilidades de los servidores públicos y no contemplados en esta Ley Orgánica, se estará a lo que dispone la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo.
+Para los supuestos en materia de responsabilidades de los servidores públicos y no contemplados en esta Ley Orgánica, se estará a lo que dispone la Ley en materia de responsabilidades administrativas.
 
 ###### ARTICULO 180.
 
@@ -2543,7 +2653,9 @@ La ejecución de las resoluciones definitivas corresponderá al titular de la Un
 
 La responsabilidad administrativa en que puedan incurrir los auxiliares de la justicia se dirimirá en los mismos términos establecidos en este capítulo, a partir de procedimientos de investigación y de procedimientos de responsabilidad administrativa previstos en esta ley y en los acuerdos generales que al efecto se expidan por parte del Pleno del Consejo de la Judicatura.
 
-Para el efecto de los términos y prescripciones para la imposición de sanciones, se estará a lo señalado en la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
+Para el efecto de los términos y prescripciones para la imposición de sanciones, se estará a lo señalado en la Ley en materia de responsabilidades administrativas aplicable.
 
 ### CAPITULO VI
 
@@ -2611,10 +2723,24 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO, LIC. JOSÉ FRANCISCO OLVERA RUIZ.- RÚBRICA.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 1 DE MAYO DE 2015.
 
 PRIMERO.- La presente reforma a la Ley Orgánica del Poder Judicial del Estado de Hidalgo, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO.- La substanciación de los procedimientos de queja o denuncia que estén en trámite al entrar en vigor este decreto que reforma, adiciona y deroga diversas fracciones y artículos de la ley, se sujetarán a las disposiciones de la Ley Orgánica del Poder Judicial aplicable al momento de la interposición de la queja o denuncia, hasta pronunciarse resolución definitiva, procedimiento que se continuará ante la Unidad de Responsabilidades.
+
+P.O. 10 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NUM. 198 "QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigencia al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Dentro de los treinta días siguientes a la entrada en vigor del presente Decreto, el titular del Ejecutivo deberá enviar al Congreso las listas de candidatos para ocupar los dos cargos de Magistrados que se crean con esta reforma.
+
+TERCERO. Los Magistrados del Tribunal Fiscal Administrativo del Estado de Hidalgo que actualmente se encuentran en funciones, cumplirán con el periodo para el que fueron electos.
+
+CUARTO. El Poder Judicial del Estado de Hidalgo, realizará las modificaciones orgánicas, dotará y proveerá los recursos necesarios para el funcionamiento del Tribunal de Justicia Administrativa del Estado de Hidalgo.
+
+QUINTO. El Tribunal de Justicia Administrativa ejercerá las facultades y competencias establecidas en este Decreto una vez que sea instalado el Comité Coordinador del Sistema Estatal Anticorrupción.
