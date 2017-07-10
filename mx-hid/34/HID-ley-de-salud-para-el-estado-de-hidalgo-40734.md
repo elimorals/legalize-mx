@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-para-el-estado-de-hidalgo-40734"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-30"
-last_updated: "2017-05-22"
+last_updated: "2017-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE SALUD PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de agosto de 2004.
 
@@ -109,9 +109,9 @@ XII.- La promoción de una vida saludable mediante el consumo de una dieta sufic
 
 XIII.- Recomendar una alimentación que cubra con las proporciones adecuadas de nutrientes de acuerdo a las características fisiológicas de cada individuo;
 
-> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
 
-XIV.- El combate a los trastornos de sobrepeso y obesidad;
+XIV.- La prevención, orientación, control y vigilancia en materia de nutrición, sobrepeso, obesidad y otros trastornos de la conducta alimentaria, diabetes, dislipidemia, enfermedades respiratorias, enfermedades cardiovasculares y aquellas atribuibles al tabaquismo;
 
 > <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2012)</small>
 
@@ -137,13 +137,41 @@ XX.- La asistencia social;
 
 XXI.- Participar con las autoridades federales en el desarrollo de los programas contra el alcoholismo y el tabaquismo;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
 
-XXII.- Las demás que establezca la Ley General de Salud y otras disposiciones legales; y
+XXII.- La Protección Social en Salud;
 
-> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2017)</small>
 
-XXIII.- Que se fomente la metodología de 5 pasos por tu salud en cada familia como una herramienta útil en la adquisición de hábitos saludables.
+XXIII.- El programa de nutrición materno-infantil en los pueblos y comunidades indígenas;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2017)</small>
+
+XXIV.- La salud visual;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2017)</small>
+
+XXV.- La salud auditiva;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2017)</small>
+
+XXVI.- La Salud bucodental;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2017)</small>
+
+XXVII.- El control sanitario de la disposición de órganos, tejidos y sus componentes y células;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2017)</small>
+
+XXVIII.- El tratamiento integral del dolor;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2017)</small>
+
+XXIX.- El fomento de la metodología de 5 pasos por tu salud en cada familia como una herramienta útil en la adquisición de hábitos saludables.; (sic) y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE JULIO DE 2017)</small>
+
+XXX.- Las demás que establezca la Ley General de Salud y otras disposiciones legales aplicables.
 
 B.- EN MATERIA DE SALUBRIDAD GENERAL, CON FACULTADES CONCEDIDAS POR ACUERDOS DE COORDINACIÓN:
 
@@ -241,7 +269,7 @@ XVI.- Establos, granjas, apiarios y otros establecimientos pecuarios;
 
 XVII.- Gasolinerías y otros establecimientos para el almacenamiento y distribución de combustible;
 
-XVIII- Gimnasios y los productos que expendan;
+XVIII.- Gimnasios y los productos que expendan;
 
 XIX.- Prostitución;
 
@@ -379,21 +407,35 @@ El Estado podrá celebrar con la Federación, acuerdos de coordinación a fin de
 
 ## TITULO CUARTO
 
+### CAPITULO I BIS. PROFESIONALES, TÉCNICOS Y AUXILIARES
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
 ### CAPITULO II. DE LOS ESTABLECIMIENTOS QUE EXPENDAN ALIMENTOS, BEBIDAS NO ALCOHOLICAS Y ALCOHOLICAS
+
+## TITULO QUINTO. VIGILANCIA SANITARIA
 
 ### CAPÍTULO II BIS. DE LAS INSTITUCIONES EDUCATIVAS QUE EXPENDAN ALIMENTOS
 
 > <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2012)</small>
 
-## TITULO QUINTO. VIGILANCIA SANITARIA
-
-### CAPITULO III. MERCADOS Y CENTRALES DE ABASTOS
-
 ###### Artículo 12.
 
 Compete al Gobierno del Estado, a través de la Secretaría de Salud, y a los Municipios en el ámbito de sus respectivas competencias, en los términos de esta Ley, de los Convenios que en ambos órdenes de Gobierno suscriban, y de las demás disposiciones legales aplicables, el control sanitario de las materias a que se refiere el Artículo 3 apartados B y C de esta ley.
 
-### CAPITULO IV. CONSTRUCCION DE EDIFICIOS Y FRACCIONAMIENTOS
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE JULIO DE 2017)</small>
+
+### CAPITULO III. MERCADOS Y CENTRALES DE ABASTOS
+
+###### Artículo 12 Bis.
+
+Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, optometría, ingeniería sanitaria, nutrición, dietología, patología y sus ramas, y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
+
+Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, odontología, optometría, veterinaria, enfermería, laboratorio clínico, radiología, terapia física, terapia ocupacional, terapia del lenguaje, prótesis y órtesis, trabajo social, nutrición, citotecnología, podología, patología, bioestadística, codificación clínica bioterios, farmacia, saneamiento, histopatología y embalsamiento y sus ramas, se requiere que los documentos que los acrediten, hayan sido legalmente expedidos y registrados por las autoridades competentes.
+
+A solicitud, la Dirección de Profesiones, proporcionará a las autoridades sanitarias estatales la relación de títulos, cedulas profesionales y demás documentos que los acrediten en el área de la salud, así como la información complementaria que sea necesaria. En el caso en que exista convenio entre el Gobierno del Estado y el Ejecutivo Federal en materia de registro profesional y expedición de cédulas profesionales, el Gobierno del Estado cuidará que se proporcione la información a que se refiere este párrafo.
+
+Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las especialidades a que se refiere este capítulo, deberán exhibir a la vista del público y de manera permanente copia legible del título profesional, diploma, certificado o grado académico según sea el caso, así como de la correspondiente cédula. Iguales menciones deberán considerarse en los documentos, receta médica y papelería que utilicen en el ejercicio de tales actividades y en la publicidad que realicen.
 
 ###### Artículo 13.
 
@@ -465,7 +507,7 @@ Artículo 16 Sextus.- Las autoridades de salud, promoverán el reconocimiento y 
 
 El sector salud, promoverá asimismo, cursos, talleres y diplomados con valor curricular, dirigidos al personal médico que radica y labora en zonas con población indígena relativos a antropología médica y medicina tradicional.
 
-### CAPITULO V. PANTEONES, CREMATORIOS Y FUNERARIAS
+### CAPITULO IV. CONSTRUCCION DE EDIFICIOS Y FRACCIONAMIENTOS
 
 ###### Artículo 17.
 
@@ -501,7 +543,7 @@ El Estado a través de la Secretaría de Salud, celebrará Convenios de regulaci
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE NOVIEMBRE DE 2012)</small>
 
-### CAPITULO VI. LIMPIEZA PUBLICA
+### CAPITULO V. PANTEONES, CREMATORIOS Y FUNERARIAS
 
 ###### Artículo 22 Bis.
 
@@ -513,7 +555,7 @@ II.- Que los Establecimientos de Consumo Escolar, de conformidad con lo establec
 
 III.- El cumplimiento de la obligación escolar de practicar 30 minutos diarios de ejercicio físico para prevenir padecimientos de sobrepeso y obesidad que ponen en peligro la salud física y mental de los menores.
 
-### CAPITULO VII. CENTROS DE CONTROL ANIMAL Y ZOONOSIS
+### CAPITULO VI. LIMPIEZA PUBLICA
 
 ###### Artículo 23.
 
@@ -539,7 +581,7 @@ El Municipio ordenará la fumigación periódica de los mercados, centrales de a
 
 Los vendedores, locatarios y personal que su actividad este vinculada con los mercados y central de abastos, estarán obligados a conservar las condiciones higiénicas indispensables para el debido mantenimiento de sus locales y el ejercicio de sus actividades se sujetarán a lo que disponga esta Ley y demás disposiciones legales aplicables.
 
-### CAPITULO VIII. RASTROS
+### CAPITULO VII. CENTROS DE CONTROL ANIMAL Y ZOONOSIS
 
 ###### Artículo 27.
 
@@ -579,7 +621,7 @@ Lo anterior se aplicará para la creación, ampliación o modificación de colon
 
 Para el cumplimiento de lo previsto en este capítulo la Secretaría de Salud, se coordinarán con las Autoridades Municipales, Estatales y Federales competentes en cada área.
 
-### CAPITULO IX. AGUA POTABLE, DRENAJE Y ALCANTARILLADO
+### CAPITULO VIII. RASTROS
 
 ###### Artículo 36.
 
@@ -613,7 +655,7 @@ La Autoridad Sanitaria podrá ordenar la ejecución de las obras o trabajos que 
 
 La Autoridad Municipal hará la declaración al momento en que se encuentre saturado un panteón y podrá prohibir que en el se realicen más inhumaciones o depósito de cadáveres, restos humanos y restos humanos áridos o cremados; así como el tratamiento que se le dará al predio.
 
-### CAPITULO X. ESTABLOS, GRANJAS, APIARIOS Y OTROS ESTABLECIMIENTOS PECUARIOS
+### CAPITULO IX. AGUA POTABLE, DRENAJE Y ALCANTARILLADO
 
 ###### Artículo 42.
 
@@ -649,7 +691,7 @@ El control sanitario de los transportes de desechos sólidos, vertederos y/o rel
 
 El transporte sanitario de los desechos sólidos deberá cumplir con los requisitos que establezcan las disposiciones legales y normas ecológicas aplicables.
 
-### CAPITULO XI. PROSTITUCION
+### CAPITULO X. ESTABLOS, GRANJAS, APIARIOS Y OTROS ESTABLECIMIENTOS PECUARIOS
 
 ###### Artículo 49.
 
@@ -709,7 +751,7 @@ Bajo ninguna circunstancia el propietario o la población podrá oponerse o impe
 
 El Municipio será responsable de reglamentar de manera específica la tenencia de mascotas en el ámbito de su competencia.
 
-### CAPITULO XII. RECLUSORIOS Y CENTROS DE READAPTACION SOCIAL
+### CAPITULO XI. PROSTITUCION
 
 ###### Artículo 63.
 
@@ -767,7 +809,7 @@ La matanza de animales en los rastros autorizados, se efectuará en los días y 
 
 Todos los rastros deberán contar con el adecuado transporte sanitario de la carne. Este servicio podrá ser concesionado a los particulares.
 
-### CAPITULO XIII. BAÑOS PUBLICOS, ALBERCAS, BALNEARIOS, SALAS DE MASAJE Y SIMILARES
+### CAPITULO XII. RECLUSORIOS Y CENTROS DE READAPTACION SOCIAL
 
 ###### Artículo 75.
 
@@ -815,7 +857,7 @@ Las Autoridades Municipales procurarán que sus poblaciones cuenten con sistemas
 
 Queda prohibido arrojar agua residual sin tratamiento a la vía pública.
 
-### CAPITULO XIV. CENTROS DE REUNION Y ESPECTACULOS
+### CAPITULO XIII. BAÑOS PUBLICOS, ALBERCAS, BALNEARIOS, SALAS DE MASAJE Y SIMILARES
 
 ###### Artículo 86.
 
@@ -841,9 +883,7 @@ Para el establecimiento de nuevos establos se deberá contar con la aprobación 
 
 Las condiciones sanitarias que deben reunir estos establecimientos estarán fijadas por esta Ley, otras disposiciones legales aplicables, y las normas oficiales y técnicas correspondientes.
 
-### CAPITULO XV
-
-ESTABLECIMIENTOS DEDICADOS A LA VENTA DE PRODUCTOS Y PRESTACIÓN DE SERVICIOS EN PELUQUERÍAS, SALONES DE BELLEZA, ASÍ COMO TATUAJES, PERFORACIONES CORPORALES ESTÉTICAS Y OTROS
+### CAPITULO XIV. CENTROS DE REUNION Y ESPECTACULOS
 
 ###### Artículo 90.
 
@@ -875,7 +915,9 @@ Queda prohibido el acceso a menores de dieciocho años de edad a donde se ejerza
 
 La Autoridad Municipal determinará los lugares en donde se permita el ejercicio de la prostitución.
 
-### CAPITULO XVI. ESTABLECIMIENTOS DEDICADOS AL SERVICIO DE TINTORERIAS, LAVANDERIAS Y PLANCHADURIAS
+### CAPITULO XV
+
+ESTABLECIMIENTOS DEDICADOS A LA VENTA DE PRODUCTOS Y PRESTACIÓN DE SERVICIOS EN PELUQUERÍAS, SALONES DE BELLEZA, ASÍ COMO TATUAJES, PERFORACIONES CORPORALES ESTÉTICAS Y OTROS
 
 ###### Artículo 97.
 
@@ -897,7 +939,7 @@ Los encargados de los servicios médicos de reclusorios y centros de readaptaci�
 
 La Secretaría de Salud, en coordinación con las autoridades competentes, vigilarán la sanidad de los reclusorios y centros de readaptación social, a fin de prevenir y evitar riesgos o daños a la salud de los internos.
 
-### CAPITULO XVII. ESTABLECIMIENTOS PARA EL HOSPEDAJE
+### CAPITULO XVI. ESTABLECIMIENTOS DEDICADOS AL SERVICIO DE TINTORERIAS, LAVANDERIAS Y PLANCHADURIAS
 
 ###### Artículo 101.
 
@@ -935,7 +977,7 @@ No se permitirá el acceso a las albercas con animales, alimentos, bebidas; o pe
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley y otras disposiciones legales aplicables.
 
-### CAPITULO XVIII. TRANSPORTE ESTATAL Y MUNICIPAL
+### CAPITULO XVII. ESTABLECIMIENTOS PARA EL HOSPEDAJE
 
 ###### Artículo 108.
 
@@ -949,7 +991,7 @@ Además de los requisitos reglamentarios respectivos, las instalaciones y edific
 
 Previo a la apertura de los centros de reunión y espectáculos, la autoridad sanitaria hará la verificación y declaración correspondiente. Asimismo, podrá en cualquier momento ordenar la clausura de los centros públicos de reunión que no cumplan las condiciones de seguridad e higiene suficientes para garantizar la vida y la salud de las personas que a ellos concurran. Dicha clausura prevalecerá entre tanto no sean corregidas las causas que la motivaron.
 
-### CAPITULO XIX. GASOLINERIAS Y OTROS ESTABLECIMIENTOS PARA ALMACENAMIENTO Y DISTRIBUCION DE COMBUSTIBLE
+### CAPITULO XVIII. TRANSPORTE ESTATAL Y MUNICIPAL
 
 ###### Artículo 111.
 
@@ -963,7 +1005,7 @@ Queda prohibido utilizar productos de belleza no autorizados ni registrados por 
 
 El funcionamiento y personal de los establecimientos señalados en el Artículo 111 de este ordenamiento, deberán apegarse a lo establecido en esta Ley y otras disposiciones legales aplicables.
 
-### CAPITULO XX. GIMNASIOS
+### CAPITULO XIX. GASOLINERIAS Y OTROS ESTABLECIMIENTOS PARA ALMACENAMIENTO Y DISTRIBUCION DE COMBUSTIBLE
 
 ###### Artículo 114.
 
@@ -973,7 +1015,7 @@ Para los efectos de esta Ley, se entiende por: tintorerías, lavanderías y plan
 
 Dichos establecimientos deberán contar con el aviso correspondiente presentado ante la Secretaría de Salud, oyendo la opinión de la Autoridad Municipal. En el aspecto sanitario, se regirán por esta Ley y otras disposiciones aplicables.
 
-### CAPITULO XXI. TERMINALES DE TRANSPORTE
+### CAPITULO XX. GIMNASIOS
 
 ###### Artículo 116.
 
@@ -993,7 +1035,7 @@ Además de los requisitos señalados en el Artículo 16 de esta Ley, en los esta
 
 En caso de contar con los servicios complementarios como restaurantes, servicio de bar, peluquerías, sala de belleza, lavandería, planchaduría y tintorería, éstos quedarán sujetos a las normas y requisitos que fijen las disposiciones aplicables, como establecimientos independientes.
 
-### CAPITULO XXII. PUESTOS SEMIFIJOS Y AMBULANTES
+### CAPITULO XXI. TERMINALES DE TRANSPORTE
 
 ###### Artículo 120.
 
@@ -1027,9 +1069,7 @@ Los transportes dedicados al traslado de carne a distancias mayores de cincuenta
 
 Queda prohibido el transporte publico de carne en vehículos que no cumplan con los requisitos sanitarios que establezcan las disposiciones aplicables y la Autoridad Sanitaria competente.
 
-### CAPITULO XXIII. ESTABLECIMIENTOS PARA LA REHABILITACION DE PERSONAS CON ADICCIONES
-
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2010)</small>
+### CAPITULO XXII. PUESTOS SEMIFIJOS Y AMBULANTES
 
 ###### Artículo 126.
 
@@ -1047,9 +1087,9 @@ Además de las disposiciones de seguridad que establezcan los ordenamientos lega
 
 Los establecimientos a los que se refiere este Capítulo, deberán presentar aviso de funcionamiento ante la Autoridad Sanitaria y estarán sujetos a verificación.
 
-### CAPITULO XXIV. PREVENCION Y CONTROL DE LAS ENFERMEDADES BUCODENTALES
+### CAPITULO XXIII. ESTABLECIMIENTOS PARA LA REHABILITACION DE PERSONAS CON ADICCIONES
 
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 130.
 
@@ -1063,11 +1103,9 @@ Los gimnasios deberán dar aviso de funcionamiento ante la Secretaría de Salud,
 
 Se prohíbe la comercialización no autorizada de artículos o productos en el interior de los gimnasios, que atenten contra la salud de las personas.
 
-### CAPITULO XXV
+### CAPITULO XXIV. PREVENCION Y CONTROL DE LAS ENFERMEDADES BUCODENTALES
 
-PREVENCIÓN Y REHABILITACIÓN DEL ALCOHOLISMO, TABAQUISMO Y LA FÁRMACODEPENDENCIA.
-
-> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 133.
 
@@ -1085,7 +1123,11 @@ La limpieza higiene y conservación de las áreas comunes de estos establecimien
 
 Los servicios sanitarios de estos establecimientos, deberán ser suficientes para los usuarios y mantenerse en permanente higiene y buen estado de conservación.
 
-### CAPITULO I. AUTORIZACIONES
+### CAPITULO XXV
+
+PREVENCIÓN Y REHABILITACIÓN DEL ALCOHOLISMO, TABAQUISMO Y LA FÁRMACODEPENDENCIA.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 137.
 
@@ -1103,7 +1145,9 @@ Los puestos semifijos o ambulantes en donde se expendan productos alimenticios, 
 
 La Autoridad Municipal será la responsable de la autorización de estos giros.
 
-### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
+### CAPITULO XXVI. PREVENCIÓN DE LA SALUD MENTAL Y LA ATENCIÓN A LAS PERSONAS CON ENFERMEDADES MENTALES
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
 
 ###### Artículo 140.
 
@@ -1127,7 +1171,7 @@ En estos establecimientos, se garantizará el respeto a los derechos humanos y a
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE OCTUBRE DE 2008)</small>
 
-### CAPITULO UNICO. DISPOSICIONES GENERALES
+### CAPITULO I. AUTORIZACIONES
 
 ###### Artículo 142 Bis 1.
 
@@ -1143,7 +1187,7 @@ IV.- Las demás acciones que directa o indirectamente contribuyan al fomento de 
 
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
 
 ###### Artículo 142 Bis 2.
 
@@ -1221,9 +1265,49 @@ Las instituciones mencionadas en el párrafo que antecede, deberán cubrir los m
 
 En el caso de que a cualquiera de dichas instituciones públicas o privadas haya sido canalizado un fármacodependiente por la Procuraduría General de Justicia Estatal, se deberá informar de manera mensual al servidor público que realizó la remisión, si el fármacodependiente ha cumplido con el tratamiento, así mismo, informará el avance del mismo.
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE JULIO DE 2017)</small>
+
+### CAPITULO UNICO. DISPOSICIONES GENERALES
+
+###### Artículo 142 Ter.
+
+Para los efectos de la presente Ley, se entiende como salud mental el estado de bienestar que una persona experimenta como resultado del funcionamiento en los aspectos cognoscitivos, afectivos y conductuales.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+###### Artículo 142 Quater.
+
+El personal encargado de los programas de salud mental deben estar debidamente acreditados para ejercer sus funciones, contando con los conocimientos adecuados y suficientes.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+###### Artículo 142 Quinquies.
+
+La prevención, atención y tratamiento de la salud mental, así como los trastornos mentales tienen el carácter de prioritarios, contando con las siguientes acciones:
+
+I.- Atención de la salud mental;
+
+II.- Elaboración de estudios que determinen los factores que afectan la salud mental;
+
+III.- Elaboración de métodos de prevención y control de enfermedades que afectan la salud mental;
+
+IV.- Desarrollo de estrategias y planes de servicios de salud mental;
+
+IV (SIC).- Desarrollo de actividades educativas y socioculturales estatales y municipales que contribuyan a detectar los factores de predisposición a enfermedades de salud mental;
+
+V.- Elaboración de campañas estatales y municipales para dar a conocer los sistemas de atención para la salud mental, así como el conocimiento y prevención de las enfermedades que la afectan;
+
+V (SIC).- Las demás que directa o indirectamente contribuyan al fomento de la salud mental.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+Artículo 142 Sexties.- La atención y tratamiento de los trastornos mentales deberá brindarse con un enfoque de reinserción psicosocial y con estricto respeto a los derechos humanos de los usuarios de estos servicios, respetando los principios de igualdad, la prohibición de discriminación, el derecho a la privacidad ya (sic) la autonomía Personal y la prohibición de tratos inhumanos y degradantes.
 
 ## TITULO SEXTO. MEDIDAS DE SEGURIDAD Y SANCIONES
+
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
 ### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
@@ -1757,6 +1841,14 @@ P.O. 10 DE ABRIL DE 2017.
 
 P.O. 22 DE MAYO DE 2017.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NUM.179 QUE ADICIONA EL ARTÍCULO 1 BIS A LA LEY DE SALUD PARA EL ESTADO DE HIDALGO”.]
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 179 QUE ADICIONA EL ARTÍCULO 1 BIS A LA LEY DE SALUD PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 10 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 194 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
