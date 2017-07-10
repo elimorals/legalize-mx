@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-administracion-publica-del-estado-de-19513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-08"
-last_updated: "2017-04-26"
+last_updated: "2017-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el viernes 8 de diciembre de 2000.
 
@@ -707,9 +707,7 @@ VII. DIRIGIR EL PERIODICO OFICIAL, ORDENANDO LA PUBLICACION DE LAS LEYES, DECRET
 
 VIII. RECOPILAR LAS NORMAS JURIDICAS APLICABLES EN EL ESTADO Y PROMOVER SU DIFUSION.
 
-> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2011)</small>
-
-IX. RECEPCIONAR LOS EXPEDIENTES DEBIDAMENTE INTEGRADOS POR PARTE DEL INSTITUTO DE LA CONSEJERIA JURIDICA Y DE ASISTENCIA LEGAL PARA ELABORAR LAS INICIATIVAS DE DESINCORPORACION EN TERMINOS DE LA FRACCION XXIV, DEL ARTICULO 44, DE LA PRESENTE LEY.
+IX. (DEROGADA, P.O. 10 DE JULIO DE 2017)
 
 X. REGISTRAR Y LEGALIZAR LAS FIRMAS AUTOGRAFAS DE LOS FUNCIONARIOS ESTATALES Y DE LOS PRESIDENTES MUNICIPALES.
 
@@ -2325,13 +2323,9 @@ XI. VIGILAR EN EL AMBITO JURIDICO PROCESAL, EL CUMPLIMIENTO DE LOS PRECEPTOS CON
 
 XII. ASESORAR AL GOBERNADOR DEL ESTADO SOBRE LOS PROYECTOS DE CONVENIOS Y CONTRATOS, A CELEBRAR CON OTROS ESTADOS, OTROS PAISES Y CON ORGANISMOS NACIONALES E INTERNACIONALES;
 
-> <small>(ADICIONADA, P.O. 7 DE ENERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
 
-XIII. SUSCRIBIR CONVENIOS DE COLABORACION E INTERCAMBIO ACADEMICO, CON INSTITUCIONES PUBLICAS Y PRIVADAS, TANTO NACIONALES COMO INTERNACIONALES, UNICAMENTE POR LO QUE SE REFIERE A LA CIENCIA DEL DERECHO Y A LA CULTURA JURIDICA;
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
-
-ASI COMO CONVENIOS CON LOS AYUNTAMIENTOS DEL ESTADO PARA LA ADMINISTRACION DE SISTEMAS Y ASESORIA EN MATERIA CATASTRAL, CON ESTRICTO APEGO A LA AUTONOMIA DE ESTOS Y EN CUMPLIMIENTO A LO DISPUESTO POR LA CONSTITUCION POLITICA ESTATAL Y DEMAS LEGISLACION APLICABLE.
+XIII.- SUSCRIBIR CONVENIOS DE COLABORACION E INTERCAMBIO ACADEMICO, CON INSTITUCIONES PUBLICAS Y PRIVADAS, TANTO NACIONALES COMO INTERNACIONALES, UNICAMENTE POR LO QUE SE REFIERE A LA CIENCIA DEL DERECHO Y A LA CULTURA JURIDICA.
 
 > <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2006)</small>
 
@@ -2385,15 +2379,17 @@ XXV. NORMAR LA ADMINISTRACION DE ALMACENES, INVENTARIOS Y AVALUOS DE LOS BIENES 
 
 XXVI. ADMINISTRAR LOS BIENES DEL ESTADO, A CARGO DE LA ADMINISTRACION PÚBLICA ESTATAL, CONFORME LO ESTABLEZCAN LAS LEYES Y LA NORMATIVIDAD APLICABLE;
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
-
-XXVII. INTEGRAR, GENERAR, ACTUALIZAR, RESGUARDAR Y ADMINISTRAR INFORMACION RELATIVA A LOS BIENES INMUEBLES QUE CONFORMAN EL TERRITORIO DEL ESTADO.
+XXVII.- (DEROGADA, P.O. 10 DE JULIO DE 2017)
 
 XXVIII. (DEROGADA, P.O. 10 DE AGOSTO DE 2016)
 
-> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2011)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2017)</small>
 
-XXIX. LOS DEMAS ASUNTOS QUE LE CORRESPONDAN EN TERMINOS DE LAS LEYES APLICABLES, SU REGLAMENTO INTERIOR Y LOS QUE LE INSTRUYA EL TITULAR DEL EJECUTIVO DEL ESTADO.
+XXIX. SOMETER A CONSIDERACION DEL HONORABLE CONGRESO, EN REPRESENTACION DEL EJECUTIVO DEL ESTADO, LA AUTORIZACION DE DESINCORPORACION DE BIENES INMUEBLES A CARGO DE LA ADMINISTRACION PUBLICA ESTATAL, DE CONFORMIDAD CON LA LEY DE LA MATERIA.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE JULIO DE 2017)</small>
+
+XXX. LOS DEMAS ASUNTOS QUE LE CORRESPONDAN EN TERMINOS DE LAS LEYES APLICABLES, SU REGLAMENTO INTERIOR Y LOS QUE LE INSTRUYA EL TITULAR DEL EJECUTIVO DEL ESTADO.
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2009)</small>
 
@@ -2497,7 +2493,7 @@ DE CONFORMIDAD CON LA FRACCION I DEL ARTICULO 42 DE LA CONSTITUCION POLITICA LOC
 
 PABLO SALAZAR MENDIGUCHIA, GOBERNADOR DEL ESTADO.- EMILIO ZEBADUA GONZALEZ, SECRETARIO DE GOBIERNO.- RUBRICAS.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 13 DE NOVIEMBRE DE 2001.
 
@@ -3616,3 +3612,25 @@ Artículo Tercero.- Los recursos materiales y financieros que a la entrada en vi
 Artículo Cuarto.- El Titular de la Secretaría de Economía, deberá someter a consideración del Titular del Ejecutivo del Estado, en un plazo no mayor a noventa días naturales, las adecuaciones que correspondan al marco jurídico de su actuación, a efecto de hacerlo congruente con las disposiciones del presente Decreto.
 
 Artículo Quinto.- Las Dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia a las disposiciones aplicables.
+
+P.O. 10 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 207 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los recursos humanos, materiales y financieros, que hasta la entrada en vigor del presente Decreto, se encontraban asignados a la Dirección de Catastro Urbano y Rural, dependiente de la Subconsejería Jurídica de Regulación Patrimonial del Instituto de la Consejería Jurídica y de Asistencia Legal, serán transferidos al Organismo Público Descentralizado que para tal efecto se cree.
+
+Artículo Tercero.- Las atribuciones y/o referencias que las disposiciones legales otorgaban a la Dirección de Catastro Urbano y Rural, dependiente de la Subconsejería Jurídica de Regulación Patrimonial del Instituto de la Consejería Jurídica y de Asistencia Legal, serán asumidas inmediatamente y se entenderán conferidas al Organismo Público Descentralizado que para tal efecto se cree.
+
+Artículo Cuarto.- Los compromisos y procedimientos que a la entrada en vigor del presente Decreto, hubiere contraído la Dirección de Catastro Urbano y Rural, dependiente de la Subconsejería Jurídica de Regulación Patrimonial del Instituto de la Consejería Jurídica y de Asistencia Legal, serán asumidos inmediatamente por el Organismo Público Descentralizado que para tal efecto se cree.
+
+Artículo Quinto.- Las Dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia a las disposiciones aplicables.
+
+Artículo Sexto.- El titular del Instituto de la Consejería Jurídica y de Asistencia Legal, deberá someter a consideración del titular del Ejecutivo del Estado, las adecuaciones que correspondan al marco jurídico de actuación del mismo, a efecto de hacerlo congruente con las disposiciones del presente Decreto.
+
+Artículo Séptimo.- Los titulares de la Secretaría General de Gobierno y del Instituto de la Consejería Jurídica y de Asistencia Legal, llevarán a cabo las adecuaciones al marco jurídico de su actuación, que resulten necesarias para el debido cumplimiento del presente Decreto.
+
+Artículo Octavo.- Las atribuciones y/o referencias que las disposiciones legales otorgaban a la Secretaría General de Gobierno, en materia de desincorporación de bienes inmuebles a cargo de la administración pública estatal, serán asumidas inmediatamente y se entenderán conferidas al Instituto de la Consejería Jurídica y de Asistencia Legal.
+
+Artículo Noveno.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
