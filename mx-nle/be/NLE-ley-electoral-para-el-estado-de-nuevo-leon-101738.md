@@ -4,7 +4,7 @@ identifier: "NLE-ley-electoral-para-el-estado-de-nuevo-leon-101738"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-08"
-last_updated: "2014-08-11"
+last_updated: "2017-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NLE"
 
 LEY ELECTORAL PARA EL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 11 DE AGOSTO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el martes 8 de julio de 2014.
 
@@ -145,7 +143,27 @@ Son elegibles para los cargos de Diputados, Gobernador y para ser miembro de un 
 
 Para formar parte de la planilla propuesta para integrar un Ayuntamiento, se deberán cumplir, al momento del registro, los requisitos que establezca la Constitución Política del Estado para ser miembro de dicho cuerpo colegiado.
 
-Para el caso de los aspirantes a integrar un Ayuntamiento, que ocupen un cargo público que tenga jurisdicción en el Municipio de dicho ayuntamiento o que hayan sido electos para ocupar un cargo de elección popular, deberán contar con licencia sin goce de sueldo al momento del registro de la candidatura correspondiente, absteniéndose de desempeñar tal cargo durante el tiempo que medie entre el registro y la toma de posesión del nuevo cargo. Quedan exceptuados de esta disposición quienes se encuentren en los casos previstos en el artículo 124 párrafo primero de la Constitución Política del Estado de Nuevo León, así como quienes se dediquen a la instrucción pública o realicen labores de beneficencia.
+(NOTA: EL 26 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 83/2017 Y SUS ACUMULADAS 88/2017, 89/2017, 91/2017, 92/2017, 96/2017 Y 98/2017, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
+Para el caso de los aspirantes a integrar un Ayuntamiento, quienes ocupen un cargo público o que hayan sido electos para ocupar un cargo de elección popular, deberán contar con licencia sin goce de sueldo al momento del registro de la candidatura correspondiente, absteniéndose de desempeñar tal cargo durante el tiempo que medie entre el registro y la toma de posesión del nuevo cargo. Quedan exceptuados de la necesidad de contar con licencia quienes se dediquen a la instrucción pública o realicen labores de beneficencia, así como los REGIDORES Y SÍNDICOS que ejerciten su derecho previsto en el artículo 124 párrafo primero de la Constitución Política del Estado de Nuevo León.
+
+(NOTA: EL 26 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 83/2017 Y SUS ACUMULADAS 88/2017, 89/2017, 91/2017, 92/2017, 96/2017 Y 98/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+PARA EL CASO DE LOS PRESIDENTES MUNICIPALES QUE EJERCITEN SU DERECHO PREVISTO EN EL ARTÍCULO 124 PÁRRAFO PRIMERO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE NUEVO LEÓN DEBERÁN SEPARASE UN DÍA ANTES DEL INICIO DE LA CAMPAÑA Y PODRÁN VOLVER A DESEMPEÑAR SU CARGO DESDE EL DÍA SIGUIENTE DE LA DECLARATORIA DE VALIDEZ Y ENTREGA DE LA CONSTANCIA DE MAYORÍA.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+Los municipios son la base de la división territorial y de la organización política de los Estados gobernado cada una (sic) por un ayuntamiento de elección popular y directa a través de planillas integradas por un Presidente Municipal y el número de regidores y síndicos que establezca la Ley. Cada municipio ejerce de forma libre su gobierno a través de ayuntamientos que son autónomos entre sí, por lo que las elecciones de cada Ayuntamiento están desvinculadas entre sí y las candidaturas registradas en uno no pueden afectar a las candidaturas registradas en otro.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+###### Artículo 10 Bis.
+
+No se considera desvío de recursos públicos para el beneficio electoral de su candidatura en términos de lo establecido en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos, el uso del personal, vehículos, equipo y demás elementos de seguirdad (sic) necesarios, que estén designados para la protección de funcionarios públicos que se encuentren en los casos previstos en el artículo 124 párrafo primero de la Constitución Política del Estado de Nuevo León.
 
 ### CAPITULO TERCERO. DE LOS OBSERVADORES ELECTORALES
 
@@ -1037,19 +1055,31 @@ VI. Haber dejado de cumplir con los requisitos necesarios para obtener el regist
 
 VII. Las demás que establezca esta Ley.
 
-### CAPITULO TERCERO. DE LAS COALICIONES, LOS FRENTES Y LAS FUSIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE JULIO DE 2017)</small>
+
+### CAPITULO TERCERO. DE LAS COALICIONES, CANDIDATURAS COMUNES, LOS FRENTES Y LAS FUSIONES
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
 ###### Artículo 73.
 
-Para fines electorales, los partidos políticos con registro podrán formar coaliciones a fin de postular candidatos en las elecciones estatales y municipales.
+En los procesos electorales, los partidos tendrán derecho a postular candidatos, fórmulas o planillas en coalición con otros partidos en los términos establecidos en la Ley General de Partidos Políticos y en esta Ley.
 
-Los partidos políticos podrán constituir frentes, para alcanzar objetivos políticos y sociales compartidos de índole no electoral, mediante acciones y estrategias específicas y comunes.
+(NOTA: EL 26 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO, ASÍ COMO EN EL RESOLUTIVO SEXTO EN VÍA DE CONSECUENCIA, DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 83/2017 Y SUS ACUMULADAS 88/2017, 89/2017, 91/2017, 92/2017, 96/2017 Y 98/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-Dos o más partidos políticos podrán fusionarse para constituir un nuevo partido o para incorporarse en uno de ellos.
+LOS PARTIDOS POLÍTICOS TAMBIÉN TENDRÁN DERECHO A POSTULAR CANDIDATOS A GOBERNADOR O PLANILLAS PARA AYUNTAMIENTOS EN CANDIDATURA COMÚN CON OTROS PARTIDOS EN LOS TÉRMINOS ESTABLECIDOS EN ESTA LEY.
 
-Los partidos de nuevo registro no podrán convenir frentes, coaliciones o fusiones con otro partido político antes de la conclusión de la primera elección inmediata posterior a su registro según corresponda.
+(NOTA: EL 26 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 83/2017 Y SUS ACUMULADAS 88/2017, 89/2017, 91/2017, 92/2017, 96/2017 Y 98/2017, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-Se presumirá la validez del convenio de coalición, del acto de asociación o participación, siempre y cuando se hubiese realizado en los términos establecidos en sus estatutos y aprobados por los órganos competentes, salvo prueba en contrario.
+LOS PARTIDOS POLÍTICOS PODRÁN CONSTITUIR FRENTES, PARA ALCANZAR OBJETIVOS POLÍTICOS Y SOCIALES COMPARTIDOS DE ÍNDOLE NO ELECTORAL, MEDIANTE ACCIONES Y ESTRATEGIAS ESPECÍFICAS Y COMUNES.
+
+(NOTA: EL 26 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 83/2017 Y SUS ACUMULADAS 88/2017, 89/2017, 91/2017, 92/2017, 96/2017 Y 98/2017, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+DOS O MÁS PARTIDOS POLÍTICOS PODRÁN FUSIONARSE PARA CONSTITUIR UN NUEVO PARTIDO O PARA INCORPORARSE EN UNO DE ELLOS.
+
+(NOTA: EL 26 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 83/2017 Y SUS ACUMULADAS 88/2017, 89/2017, 91/2017, 92/2017, 96/2017 Y 98/2017, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+SE PRESUMIRÁ LA VALIDEZ DEL CONVENIO DE COALICIÓN, DEL ACTO DE ASOCIACIÓN O PARTICIPACIÓN, SIEMPRE Y CUANDO SE HUBIESE REALIZADO EN LOS TÉRMINOS ESTABLECIDOS EN SUS ESTATUTOS Y APROBADOS POR LOS ÓRGANOS COMPETENTES, SALVO PRUEBA EN CONTRARIO.
 
 ###### Artículo 74.
 
@@ -1075,7 +1105,9 @@ Los partidos políticos no podrán celebrar más de una coalición en un mismo p
 
 Los partidos políticos no podrán distribuir o transferirse votos mediante convenio de coalición.
 
-Concluida la etapa de resultados y de declaración de validez de la elección de Diputados, terminará automáticamente la coalición por la que se hayan postulado candidatos, en cuyo caso los candidatos a Diputados de la coalición que resultaren electos quedarán comprendidos en el partido político o grupo legislativo que se haya señalado en el convenio de coalición.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
+Concluida la etapa de resultados y de declaración de validez de la elección de Diputados y Ayuntamientos, terminará automáticamente la coalición por la que se hayan postulado candidatos, en cuyo caso los candidatos a Diputados o a integrantes del Ayuntamiento de la coalición que resultaren electos quedarán comprendidos en el partido político o grupo legislativo que se haya señalado en el convenio de coalición.
 
 Independientemente del tipo de elección, convenio y términos que en el mismo adopten los partidos coaligados, cada uno de ellos aparecerá con su propio emblema en la boleta electoral, según la elección de que se trate; los votos se contabilizarán conforme al mismo procedimiento establecido en la Ley General de Instituciones y Procedimientos Electorales y la Ley General de Partidos Políticos.
 
@@ -1113,9 +1145,11 @@ En el caso de coalición, independientemente de la elección para la que se real
 
 Los partidos políticos coaligados deberán presentar los escritos de protesta y los medios de impugnación señalados en esta Ley y en las leyes generales aplicables, a través de un representante común. Tratándose de asuntos no relacionados con la coalición, esta disposición no restringe los derechos de los partidos políticos para actuar en lo particular contra actos o resoluciones que consideren les cause agravio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2017)</small>
+
 ###### Artículo 79.
 
-El convenio de coalición, para la elección de Gobernador o de uno o varios Ayuntamientos contendrá, además de lo establecido en la Ley General de Partidos Políticos, lo siguiente:
+El convenio de coalición, para la elección de Gobernador, de Diputados Locales o de uno o varios Ayuntamientos contendrá, además de lo establecido en la Ley General de Partidos Políticos, lo siguiente:
 
 I. Los partidos políticos que la forman;
 
@@ -1133,7 +1167,9 @@ VII. La forma para ejercer en común las demás prerrogativas que a los partidos
 
 VIII. La determinación del responsable financiero.
 
-Para el caso de la elección de Diputados, contendrá además el señalamiento del partido político al que pertenece originalmente cada uno de los candidatos registrados por la coalición y el señalamiento del grupo legislativo a que pertenecerán en el caso de resultar electos
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
+Para el caso de la elección de Diputados Locales y Ayuntamientos, contendrá además el señalamiento del partido político al que pertenece originalmente cada uno de los candidatos registrados por la coalición y el señalamiento del grupo legislativo o partido político a que pertenecerán en el caso de resultar electos.
 
 ###### Artículo 80.
 
@@ -1146,6 +1182,92 @@ En lo relativo a la revisión y aprobación de los gastos efectuados en las prec
 ###### Artículo 81.
 
 Los partidos políticos locales que formen parte de una coalición, conservarán su registro en los términos que establece la Ley General de Partidos Políticos y demás disposiciones legales.
+
+(NOTA: EL 26 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 83/2017 Y SUS ACUMULADAS 88/2017, 89/2017, 91/2017, 92/2017, 96/2017 Y 98/2017, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+ADICIONADO, P.O. 10 DE JULIO DE 2017)
+
+###### Artículo 81 Bis.
+
+Los partidos de nuevo registro no podrán convenir FRENTES, coaliciones, CANDIDATURAS COMUNES O FUSIONES con otro partido político antes de la conclusión de la primera elección inmediata posterior a su registro según corresponda.
+
+(NOTA: EL 26 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 83/2017 Y SUS ACUMULADAS 88/2017, 89/2017, 91/2017, 92/2017, 96/2017 Y 98/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+###### Artículo 81 Bis 1.
+
+La candidatura común es la unión de dos o más partidos políticos, sin mediar coalición, para postular al mismo candidato a Gobernador, o planillas para Ayuntamiento, cumpliendo los requisitos de esta Ley.
+
+(NOTA: EL 26 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 83/2017 Y SUS ACUMULADAS 88/2017, 89/2017, 91/2017, 92/2017, 96/2017 Y 98/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+###### Artículo 81 Bis 2.
+
+Los partidos políticos tendrán derecho a postular candidaturas comunes para la elección de Gobernador o para planillas de Ayuntamientos, para lo cual deberán suscribir un convenio firmado por sus representantes y dirigentes, mismo que presentarán para su registro ante el Presidente de la Comisión Estatal Electoral, a más tardar treinta días antes del inicio del periodo de precampaña de la elección de que se trate.
+
+(NOTA: EL 26 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 83/2017 Y SUS ACUMULADAS 88/2017, 89/2017, 91/2017, 92/2017, 96/2017 Y 98/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+###### Artículo 81 Bis 3.
+
+El convenio de candidatura común deberá contener:
+
+I. Nombre de los partidos que la conforman, así como el tipo de elección de que se trate;
+
+II. La manifestación por escrito de proporcionar a la Comisión Estatal Electoral, una vez concluido sus procesos internos, el nombre, apellidos, edad, lugar de nacimiento, domicilio, clave de la credencial para votar del candidato o los candidatos, según corresponda;
+
+III. La aprobación del convenio por parte de los órganos directivos correspondientes de cada uno de los partidos políticos postulantes del candidato común;
+
+IV. Indicar las aportaciones en porcentajes de cada uno de los partidos para gastos de la campaña, sujetándose a los límites de contratación de los medios de comunicación distintos a radio y televisión, y a los topes de gastos de campaña determinados por el Consejo General; y
+
+V. Para las elecciones de los Ayuntamientos, determinar el partido político al que pertenecerán los candidatos en caso de resultar electos.
+
+(NOTA: EL 26 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 83/2017 Y SUS ACUMULADAS 88/2017, 89/2017, 91/2017, 92/2017, 96/2017 Y 98/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+###### Artículo 81 Bis 4.
+
+Al convenio de candidatura común se acompañará lo siguiente:
+
+I. El compromiso por escrito de que los partidos políticos postulantes del candidato común entregaran en tiempo y forma al Consejo General su plataforma electoral por cada uno de ellos; y
+
+II. Las actas que acrediten que los partidos aprobaron de conformidad con sus estatutos, la firma del convenio de candidatura común para la elección que corresponda.
+
+(NOTA: EL 26 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 83/2017 Y SUS ACUMULADAS 88/2017, 89/2017, 91/2017, 92/2017, 96/2017 Y 98/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+###### Artículo 81 Bis 5.
+
+La Comisión Estatal Electoral, dentro de los cinco días siguientes a la presentación de la solicitud de registro del convenio de candidatura común, deberá resolver lo conducente sobre la procedencia del mismo y publicará su acuerdo en el Periódico Oficial del Estado.
+
+(NOTA: EL 26 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 83/2017 Y SUS ACUMULADAS 88/2017, 89/2017, 91/2017, 92/2017, 96/2017 Y 98/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+###### Artículo 81 Bis 6.
+
+Los partidos políticos que postulen candidatos comunes no podrán postular candidatos propios ni de otros partidos políticos para la elección que convinieron la candidatura común.
+
+Los partidos políticos que postulen candidaturas comunes deberán sujetarse en materia de prerrogativas, obligaciones, financiamiento, gastos de campaña, representación, y asignación de tiempo en radio y televisión a las reglas generales de coaliciones establecidas en esta ley y en las leyes generales en materia electoral.
+
+(NOTA: EL 26 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 83/2017 Y SUS ACUMULADAS 88/2017, 89/2017, 91/2017, 92/2017, 96/2017 Y 98/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+###### Artículo 81 Bis 7.
+
+Para los efectos de la representación ante los órganos electorales, del financiamiento, asignación de tiempos de radio y televisión y de la responsabilidad en materia electoral, civil y penal, los partidos políticos que postulen candidatos comunes mantendrán su autonomía y serán responsables de sus actos.
+
+Independientemente del tipo de elección, convenio y términos que en el mismo adopten los partidos que postulen candidaturas comunes, cada uno de ellos aparecerá con su propio emblema en la boleta electoral, según la elección de que se trate. Los votos se sumarán para el candidato común y contarán para cada uno de los Partidos Políticos para todos los efectos establecidos en la Ley.
+
+Los votos en los que se hubiesen marcados más de una opción de los partidos postulantes de la candidatura común, serán considerados válidos para el candidato postulado y contarán como un solo voto.
+
+En su caso, se sumarán los votos que hayan sido emitidos a favor de dos o más partidos que postulen candidatos en común y que por esa causa hayan sido consignados por separado en el apartado correspondiente del acta de escrutinio y cómputo de casilla. La suma de tales votos se distribuirá igualitariamente entre los partidos que hayan postulado la candidatura común; de existir fracción, los votos correspondientes se asignarán a los partidos de más alta votación.
 
 ###### Artículo 82.
 
@@ -1269,15 +1391,19 @@ II. Jornada electoral; y
 
 III. Resultados y declaraciones de validez de las elecciones.
 
-La etapa de preparación de la elección se inicia con la primera sesión de la Comisión Estatal Electoral, en la primera semana del mes de octubre del año anterior al de las elecciones ordinarias y concluye al iniciarse la jornada electoral.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
+La etapa de preparación de la elección se inicia con la primera sesión de la Comisión Estatal Electoral, en los primeros siete días del mes de octubre del año anterior al de las elecciones ordinarias y concluye al iniciarse la jornada electoral.
 
 La etapa de la jornada electoral se inicia a las ocho horas del día de la elección y concluye con la clausura de la casilla.
 
 La etapa de resultados y de declaración de validez de las elecciones se inicia con la remisión de los paquetes que contienen la documentación electoral a las Comisiones Municipales Electorales y a la Comisión Estatal Electoral, y concluye con los cómputos y declaraciones que realicen ambos organismos electorales, o las resoluciones que, en su caso, emita el Tribunal Electoral del Estado, una vez que causen ejecutoria.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2017)</small>
+
 ###### Artículo 92.
 
-La Comisión Estatal Electoral abrirá su período ordinario de actividad electoral durante la primera semana de octubre del año anterior al de la jornada electoral y lo hará mediante una sesión pública en la que se procederá a:
+La Comisión Estatal Electoral abrirá su período ordinario de actividad electoral durante los primeros siete días de octubre del año anterior al de la jornada electoral y lo hará mediante una sesión pública en la que se procederá a:
 
 I. Declarar formalmente abierto el Periodo de Actividad Electoral y que la Comisión Estatal Electoral está integrada conforme a los requisitos establecidos por esta Ley; y
 
@@ -1577,9 +1703,15 @@ VIII. Las demás atribuciones que le confiera la Ley o le sean asignadas por el 
 
 La Comisión Estatal Electoral designará bajo su dependencia una Mesa Auxiliar de Cómputo en cada Municipio de la entidad, para llevar a cabo exclusivamente el cómputo parcial de las elecciones de Diputados y Gobernador, con el procedimiento que para el efecto señala esta Ley.
 
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+En cada municipio se designará una mesa auxiliar de cómputo por cada cabecera distrital que la autoridad electoral competente determine.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
 ###### Artículo 109.
 
-Las Mesas Auxiliares de Cómputo serán integradas por tres ciudadanos y un suplente común, designados por la Comisión Estatal Electoral. Estos deberán reunir los requisitos que establezcan las disposiciones aplicables. Los partidos políticos y coaliciones contendientes en cada Municipio podrán nombrar un representante y un suplente en cada Mesa Auxiliar de Cómputo, por lo menos quince días antes de la jornada electoral. Los representantes de los partidos políticos y coaliciones deberán ser sufragantes en el Municipio de que se trate.
+Las Mesas Auxiliares de Cómputo serán integradas por tres ciudadanos y un suplente común, designados por la Comisión Estatal Electoral. Estos deberán reunir los requisitos que se establecen para los integrantes de las Comisiones Municipales Electorales. Los partidos políticos y coaliciones contendientes en cada Municipio podrán nombrar un representante y un suplente en cada Mesa Auxiliar de Cómputo, por lo menos quince días antes de la jornada electoral. Los representantes de los partidos políticos y coaliciones deberán ser sufragantes en el Municipio de que se trate.
 
 ###### Artículo 110.
 
@@ -1607,7 +1739,49 @@ Las Comisiones Municipales Electorales se integrarán por tres miembros designad
 
 Las ausencias del Consejero Presidente serán suplidas por el Consejero Secretario; las de éste por el Consejero Vocal, quien a su vez será cubierto por el Consejero Suplente común.
 
-Los miembros de las Comisiones Municipales Electorales deberán ser sufragantes en la circunscripción municipal de que se trate y reunir además los requisitos previstos para ser Consejero Electoral de la Comisión Estatal Electoral.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2017)</small>
+
+Los miembros de las Comisiones Municipales Electorales deberán ser sufragantes en la circunscripción municipal de que se trate y reunir además los siguientes requisitos:
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2017)</small>
+
+I. Ser ciudadano mexicano por nacimiento, que no adquiera otra nacionalidad, además de estar en pleno goce de sus derechos civiles y políticos;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2017)</small>
+
+II. Estar inscrito en el Registro Federal de Electores y contar con credencial para votar vigente;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2017)</small>
+
+III. Tener más de 30 años de edad al día de la designación;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2017)</small>
+
+IV. Gozar de buena reputación y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2017)</small>
+
+V. Ser originario del Estado o contar con una residencia efectiva de por lo menos cinco años anteriores a su designación, salvo el caso de ausencia por servicio público, educativo o de investigación por un tiempo menor de seis meses;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2017)</small>
+
+VI. No haber sido registrado como candidato ni haber desempeñado cargo alguno de elección popular en los cuatro años anteriores a la designación;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2017)</small>
+
+VII. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal en algún partido político en los cuatro años anteriores a la designación;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2017)</small>
+
+VIII. No estar inhabilitado para ejercer cargos públicos en cualquier institución pública federal o local;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2017)</small>
+
+IX. No haberse desempeñado durante los cuatro años previos a la designación como titular de secretaría o dependencia del gabinete legal o ampliado tanto del gobierno de la Federación o como de las entidades federativas, ni subsecretario u oficial mayor en la administración pública de cualquier nivel de gobierno. No ser Gobernador, ni Secretario de Gobierno. No ser Presidente Municipal, Síndico o Regidor o titular de dependencia de los ayuntamientos; y
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2017)</small>
+
+X. No ser ni haber sido miembro del Servicio Profesional Electoral Nacional durante el último proceso electoral en la entidad.
 
 #### SECCION 1. RESIDENCIA E INTEGRACION
 
@@ -1623,7 +1797,9 @@ Los partidos políticos podrán registrar indistintamente en la Comisión Estata
 
 La Comisión Estatal Electoral integrará, mediante convocatoria pública, las Comisiones Municipales Electorales, convocatoria que deberá emitirse a partir del inicio del período ordinario de actividad electoral, debiendo quedar integradas a más tardar ciento ochenta días antes de la celebración de las elecciones y las instalará dentro de los quince días siguientes a su integración.
 
-Los nombramientos de los Consejeros Electorales Municipales deberán ser notificados a los representantes de los partidos políticos a fin de que puedan realizar las observaciones correspondientes, o en su caso, se presenten los medios de impugnación respecto a la idoneidad de los mismos.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
+La propuesta para los nombramientos de los integrantes de las Comisiones Municipales Electorales deberá ser notificada a los representantes de los partidos políticos previa a su aprobación a fin de que puedan realizar las observaciones correspondientes, o en su caso, se presenten los medios de impugnación respecto a la idoneidad de los mismos.
 
 Durante el desempeño de su función los miembros de las Comisiones Municipales Electorales serán compensados económicamente por el tiempo dedicado a la misma, en los términos que acuerde la Comisión Estatal Electoral.
 
@@ -1821,7 +1997,9 @@ Al menos treinta días antes del inicio formal de los procesos internos, cada pa
 
 I. Durante los procesos electorales en los que se renueven el Gobernador, el Congreso del Estado y Ayuntamientos, las precampañas iniciarán a partir del diez de enero del año de la elección y terminarán el último día del mes de febrero; en ningún caso podrán durar más de las dos terceras partes de la duración de la respectiva campaña electoral;
 
-II. Durante los procesos electorales en los que se renueven el Congreso del Estado y Ayuntamientos, las precampañas iniciarán a partir del quince de febrero del año de la elección y terminarán la última semana del mes de marzo; en ningún caso podrán durar más de las dos terceras partes de la duración de la respectiva campaña electoral; y
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+II. Durante los procesos electorales en los que se renueven el Congreso del Estado y Ayuntamientos, las precampañas iniciarán a partir del quince de febrero del año de la elección y terminarán el último día del mes de marzo; en ningún caso podrán durar más de las dos terceras partes de la duración de la respectiva campaña electoral; y
 
 III. Los precandidatos podrán iniciar sus precampañas el día siguiente de que se apruebe el registro interno de los precandidatos. Las precampañas de todos los partidos deberán celebrarse dentro de los mismos plazos. Cuando un partido tenga prevista la celebración de una jornada de consulta directa, ésta se realizará el mismo día para todas las candidaturas.
 
@@ -1897,9 +2075,11 @@ La Comisión Estatal Electoral observará los demás reglamentos y acuerdos que 
 
 ### CAPITULO SEGUNDO. DEL REGISTRO DE CANDIDATOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2017)</small>
+
 ###### Artículo 143.
 
-El derecho de solicitar el registro de candidatos a cargos de elección popular corresponde a los partidos políticos, así como a los ciudadanos que soliciten su registro como candidatos independientes en los términos de la presente Ley.
+El derecho de solicitar el registro de candidatos a cargos de elección popular corresponde a los partidos políticos, así como a los ciudadanos que soliciten su registro como candidatos independientes en los términos de la presente Ley. Ningún ciudadano podrá registrarse para diferentes cargos de elección popular en un mismo proceso.
 
 El periodo de registro de candidatos a los cargos de elección popular dará inicio quince días antes de la campaña correspondiente y tendrá una duración de veinticinco días. El cómputo de estos plazos es de momento a momento, por lo que todos los días son hábiles y de veinticuatro horas.
 
@@ -1907,13 +2087,33 @@ En todo caso, cuando concurran las elecciones de Gobernador, Diputados y Ayuntam
 
 Las campañas concluirán tres días antes del día de la jornada electoral y solamente podrán realizarlas los candidatos que cuenten con el registro debidamente aprobado por la Comisión Estatal Electoral, y se encuentren dentro de los plazos de campaña.
 
-Los partidos políticos promoverán y garantizarán la paridad entre los géneros, en la postulación de candidatos a los cargos de elección popular para la integración del Congreso del Estado y de los Ayuntamientos, en los términos establecidos en la presente Ley.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
-La Comisión Estatal Electoral, en el ámbito de sus competencias, tendrán facultades para rechazar el registro del número de candidaturas de un género que exceda la paridad, fijando al partido un plazo improrrogable para la sustitución de las mismas. En caso de que no sean sustituidas no se aceptarán dichos registros.
+Para garantizar la paridad entre géneros en el caso de la postulación de candidatos a los cargos de elección popular para la integración del Congreso del Estado, no podrá haber más del cincuenta por ciento de candidatos de un mismo género.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+Se deberán generar dos bloques de trece distritos cada uno conforme a los porcentajes de votación y postular al menos seis fórmulas de un género distinto en cada bloque.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+Para definir los porcentajes de votación que dará la prelación de los distritos para formar los bloques, se usará optativamente por cada partido político o coalición los resultados del último proceso electoral, de los últimos dos o hasta tres procesos en la elección de Diputado local.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+Para los partidos políticos que participan por primera vez en la elección de Diputado Local, la Comisión Estatal Electoral definirá de manera aleatoria la distribución del genero entre las candidaturas para la integración del Congreso del Estado para garantizar que no haya más del cincuenta por ciento de candidatos de un mismo género.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
+La Comisión Estatal Electoral, en el ámbito de sus competencias, tendrá facultades para rechazar el registro del número de candidaturas de un género que exceda la paridad, fijando al partido un plazo improrrogable para la sustitución de las mismas. En caso de que no sean sustituidas no se aceptarán dichos registros.
+
+(NOTA: EL 26 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 83/2017 Y SUS ACUMULADAS 88/2017, 89/2017, 91/2017, 92/2017, 96/2017 Y 98/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2017)</small>
 
 ###### Artículo 144.
 
-La solicitud de registro de candidaturas deberá señalar el partido político o coalición que las postulen y los siguientes datos de los candidatos:
+La solicitud de registro de candidaturas deberá señalar el partido político, coalición O CANDIDATURA COMÚN que las postulen y los siguientes datos de los candidatos:
 
 I. Apellido paterno, apellido materno y nombre completo;
 
@@ -1927,13 +2127,15 @@ V. Folio de la Credencial para Votar con Fotografía;
 
 VI. Cargo para el que se les postule; y
 
-VII. Los candidatos a Diputados que busquen reelegirse en sus cargos, deberán acompañar una carta que especifique los periodos para los que ha sido electo en ese cargo y la manifestación de estar cumpliendo los límites establecidos por la Constitución en materia de reelección.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
 
-> <small>(F. DE E., P.O. 11 DE AGOSTO DE 2014)</small>
+VII. Los candidatos a Diputados e integrantes de los Ayuntamientos que busquen reelegirse en sus cargos, deberán acompañar una carta que especifique los periodos para los que ha sido electo en ese cargo y la manifestación de estar cumpliendo los límites establecidos por la Constitución en materia de reelección. Los candidatos a Diputados locales que ejerzan su derecho previsto en el artículo 49 de la Constitución Política del Estado Libre y Soberado (sic) de Nuevo León, no estarán obligados a separarse de sus cargos para su registro ni durante la campaña electoral.
 
-Los candidatos a integrantes de los Ayuntamientos que busquen reelegirse en sus cargos, deberán acompañar una carta con su manifestación de estar cumpliendo los límites establecidos por la Constitución en materia de reelección.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 10 DE JULIO DE 2017)</small>
 
-La solicitud deberá acompañarse de la declaración de aceptación de la candidatura, copia del acta de nacimiento y de la Credencial para Votar con fotografía así como, la constancia de residencia de propietarios y suplentes.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
+La solicitud deberá acompañarse de la declaración de aceptación de la candidatura, copia del acta de nacimiento y de la credencial para votar con fotografía así como, la constancia de residencia de propietarios y suplentes.
 
 En caso de que la autoridad administrativa municipal se niegue a emitir la constancia de residencia al solicitante, la Comisión Estatal Electoral deberá ordenar a dicha autoridad a que se pronuncie en un plazo que no exceda de veinticuatro horas. En caso de negativa infundada o de que no se emita el pronunciamiento correspondiente, la Comisión Estatal Electoral mediante pruebas idóneas podrá tener por acreditada la residencia.
 
@@ -1947,15 +2149,35 @@ La Comisión Estatal Electoral llevará un archivo con todos los datos de las ca
 
 Las candidaturas para Diputados de mayoría relativa se registrarán por fórmulas de candidatos compuestas cada una por un propietario y un suplente del mismo género.
 
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+En el caso de relección consecutiva, podrán participar con la misma o diferente formula por la que fueron electos.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+Además de los candidatos a diputados locales por el principio de mayoría relativa, cada partido político registrará una lista de dos fórmulas de candidatos por la vía plurinominal, compuestas cada una por un propietario y un suplente del mismo género. Cada formula será de un género distinto y ambas fórmulas podrán ser registradas por las dos vías de manera simultánea.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+No se considerará que ejercen su derecho de reelección previsto en el artículo 49 de la Constitución del Estado, los Diputados suplentes que no hayan entrado en funciones y que sean postulados en la elección inmediata siguiente en la que fueron electos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2017)</small>
+
 ###### Artículo 146.
 
-Las candidaturas para la renovación de Ayuntamientos se registrarán por planillas ordenadas, completas e integradas por los nombres de los candidatos a Presidente Municipal, Regidores y Síndicos, con los respectivos suplentes de éstos dos últimos, en el número que dispone la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León.
+Las candidaturas para la renovación de Ayuntamientos se registrarán por planillas ordenadas, completas e integradas por los nombres de los candidatos a Presidente Municipal, Regidores y Síndicos, con los respectivos suplentes de éstos dos últimos, en el número que dispone la Ley de Gobierno Municipal del Estado de Nuevo León y observando lo que establece el artículo 10 de esta Ley.
 
-En ningún caso la postulación de candidatos a Regidores y Síndicos para la renovación de Ayuntamientos debe contener más del cincuenta por ciento de candidatos propietarios de un mismo género. Cuando el cálculo del porcentaje antes mencionado arroje un número fraccionado, éste se elevará al entero inmediato superior cuando la fracción sea igual o superior a cero punto cinco.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
+En ningún caso la postulación de candidatos a Regidores y Síndicos para la renovación de Ayuntamientos debe contener más del cincuenta por ciento de candidatos propietarios de un mismo género. Cuando el resultado de la suma de Regidores y Síndicos sea impar, el género mayoritario será diferente al del candidato a Presidente Municipal.
+
+(NOTA: EL 26 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 83/2017 Y SUS ACUMULADAS 88/2017, 89/2017, 91/2017, 92/2017, 96/2017 Y 98/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2017)</small>
 
 ###### Artículo 147.
 
-La Comisión Estatal Electoral recibirá de los partidos políticos y de las coaliciones las listas de los candidatos con su documentación correspondiente, devolviendo sellado y fechado el duplicado de las listas. Dentro de los cinco días siguientes, revisará la documentación de los candidatos y si éstos cumplen con los requisitos previstos por esta Ley, registrará su postulación. Si la solicitud de registro de la candidatura no es acompañada por la documentación correspondiente para acreditar el cumplimiento de los requisitos previstos por la Constitución Política del Estado Libre y Soberano de Nuevo León y la presente Ley, se prevendrá a la entidad política postulante y al ciudadano cuyo registro se solicita, a fin de que en un término que no exceda de setenta y dos horas, presenten ante la Comisión Estatal Electoral la documentación faltante, en la inteligencia que de no atenderse tal prevención, se tendrá por no presentado el registro correspondiente.
+La Comisión Estatal Electoral recibirá de los partidos políticos, de las coaliciones, CANDIDATURAS COMUNES y de los candidatos independientes las listas de los candidatos con su documentación correspondiente, devolviendo sellado y fechado el duplicado de las listas. Dentro de los cinco días siguientes, revisará la documentación de los candidatos y si éstos cumplen con los requisitos previstos por esta Ley, registrará su postulación. Si la solicitud de registro de la candidatura no es acompañada por la documentación correspondiente para acreditar el cumplimiento de los requisitos previstos por la Constitución Política del Estado Libre y Soberano de Nuevo León y la presente Ley, se prevendrá a la entidad política postulante y al ciudadano cuyo registro se solicita, a fin de que en un término que no exceda de setenta y dos horas, presenten ante la Comisión Estatal Electoral la documentación faltante, en la inteligencia que de no atenderse tal prevención, se tendrá por no presentado el registro correspondiente.
 
 En caso que del análisis de la documentación presentada por el partido político o coalición postulante se desprenda que el ciudadano es inelegible para el cargo de elección popular que pretende ocupar, la Comisión Estatal Electoral rechazará el registro del candidato, fundando y motivando las causas que motivaron ese acuerdo.
 
@@ -2307,7 +2529,9 @@ I. Gobernador;
 
 II. Diputados por el principio de Mayoría Relativa; e
 
-III. Integrantes de los Ayuntamientos por el principio de Mayoría Relativa.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+III. Integrantes de los Ayuntamientos.
 
 Para obtener su registro, quienes sean dirigentes de algún partido político, nacional o local, deberán separarse definitivamente de su cargo al menos un año antes de la fecha prevista en la presente Ley para el inicio del registro de candidatos, según la elección de que se trate. Los militantes de los partidos políticos, nacionales o locales, deberán renunciar a su militancia al menos treinta días antes del inicio de las precampañas, según la elección de que se trate.
 
@@ -2341,9 +2565,11 @@ II. Obtención del respaldo ciudadano; y
 
 III. Declaratoria de procedencia, en su caso, para quienes tendrán derecho a ser registrados como candidatos independientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2017)</small>
+
 ###### Artículo 197.
 
-Dentro de los treinta días posteriores al inicio formal del proceso electoral, la Comisión Estatal Electoral aprobará los Lineamientos y la Convocatoria para que los interesados que lo deseen y cumplan con los requisitos correspondientes, participen en el procedimiento de registro para contender como aspirantes a candidatos independientes a un cargo de elección popular.
+Dentro de los treinta días posteriores a la primera sesión que inicia la etapa de preparación del proceso electoral, la Comisión Estatal Electoral aprobará los Lineamientos y la Convocatoria para que los interesados que lo deseen y cumplan con los requisitos correspondientes, participen en el procedimiento de registro para contender como aspirantes a candidatos independientes a un cargo de elección popular.
 
 La Convocatoria deberá publicarse en el Periódico Oficial del Estado, en al menos dos medios de comunicación impresos de mayor circulación en la Entidad, así como en el portal de internet de la Comisión Estatal Electoral, y estará dirigida a los ciudadanos interesados en postularse como candidatos independientes, señalando al menos los (sic) siguiente:
 
@@ -2363,9 +2589,7 @@ VI. La forma de llevar a cabo el cómputo de dichos respaldos;
 
 VII. Los términos para el rendimiento de cuentas del gasto de tope de campaña y la procedencia legal de su origen y destino, de conformidad con las leyes de la materia incluida la obligación de aperturar una cuenta bancaria para tales efectos, y nombrar un tesorero responsable (sic) su manejo y administración; y
 
-(NOTA: EL 2 DE OCTUBRE DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO TRIGÉSIMO, ASÍ COMO EN EL RESOLUTIVO NOVENO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 38/2014 Y SUS ACUMULADAS 91/2014, 92/2014 Y 93/2014, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE OCTUBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-VIII. LOS PLAZOS, TÉRMINOS Y CONDICIONES BAJO LOS CUALES DEBERÁ CONSTITUIR UNA FIANZA PARA GARANTIZAR EL CUMPLIMIENTO DE LAS OBLIGACIONES QUE LES IMPONE ESTA LEY, Y HACER FRENTE A LAS RESPONSABILIDADES QUE, EN SU CASO, DERIVEN DE SU INCUMPLIMIENTO.
+VIII. (DEROGADA, P.O. 10 DE JULIO DE 2017)
 
 ###### Artículo 198.
 
@@ -2385,7 +2609,9 @@ IV. Clave de credencial para votar;
 
 V. Tratándose de registro de fórmulas, deberán integrarse por personas del mismo género como propietario y el suplente;
 
-VI. Tratándose del registro de planillas, en ningún caso deberán integrarse con más del cincuenta por ciento de candidatos propietarios de un mismo género;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+VI. Tratándose del registro de planillas en los Ayuntamientos, deben de cumplirse los términos del artículo 146 de esta Ley;
 
 VII. La designación de un representante, así como del responsable del registro, administración y gasto de los recursos a utilizar en la obtención del respaldo ciudadano;
 
@@ -2433,39 +2659,43 @@ La Comisión Estatal Electoral aprobará el formato de la cédula de respaldo ci
 
 El formato de la cédula de respaldo ciudadano será entregado a los aspirantes a candidato independiente el día previo al inicio de la etapa de obtención de dicho respaldo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2017)</small>
+
 ###### Artículo 204.
 
-Para Gobernador, la cédula de respaldo que presenten los aspirantes a candidatos independientes deberá contener la firma de una cantidad de ciudadanos que representen al menos el equivalente al tres por ciento de la lista nominal del Estado, con corte al treinta de septiembre del año previo al de la elección, y dicho respaldo deberá estar conformado por electores de por lo menos veintiséis Municipios del Estado, que representen al menos el uno por ciento de ciudadanos que figuren en la lista nominal de cada uno de ellos.
+Para Gobernador, la cédula de respaldo que presenten los aspirantes a candidatos independientes deberá contener la firma de una cantidad de ciudadanos que representen al menos el equivalente al dos por ciento de la lista nominal del Estado, con corte al treinta de septiembre del año previo al de la elección, y dicho respaldo deberá estar conformado por electores de por lo menos veintiséis Municipios del Estado, que representen al menos el uno por ciento de ciudadanos que figuren en la lista nominal de cada uno de ellos.
 
-Para formula de Diputados, la cédula de respaldo que presenten los aspirantes a candidatos independientes deberá contener la firma de una cantidad de ciudadanos que representen al menos el equivalente al dos por ciento de la lista nominal correspondiente al distrito electoral respectivo, con corte al treinta de septiembre del año previo al de la elección, y dicho respaldo deberá estar conformado por ciudadanos de por lo menos la mitad de las secciones electorales del citado distrito, que representen al menos el uno por ciento de ciudadanos que figuren en la lista nominal de cada una de ellas.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
-> <small>(F. DE E., P.O. 11 DE AGOSTO DE 2014)</small>
+Para formula de Diputados, la cédula de respaldo que presenten los aspirantes a candidatos independientes deberá contener la firma de una cantidad de ciudadanos que representen al menos el equivalente al uno por ciento de la lista nominal correspondiente al distrito electoral respectivo, con corte al treinta de septiembre del año previo al de la elección, y dicho respaldo deberá estar conformado por ciudadanos de por lo menos la mitad de las secciones electorales del citado distrito, que representen al menos el uno por ciento de ciudadanos que figuren en la lista nominal de cada una de ellas.
 
-Para planilla de Integrantes de los Ayuntamientos, la cédula de respaldo que presenten los aspirantes a candidatos independientes deberá contener la firma de una cantidad de ciudadanos que representen al menos el equivalente al porcentaje que según corresponda, conforme a lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2017)</small>
 
-> <small>(F. DE E., P.O. 11 DE AGOSTO DE 2014)</small>
+Para planilla de Integrantes de los Ayuntamientos, la cédula de respaldo que presenten los aspirantes a candidatos independientes deberá contener la firma de una cantidad de ciudadanos que representen al menos el equivalente al porcentaje que según corresponda, conforme a lo siguiente;
 
-I. El veinte por ciento de la lista nominal del Municipio cuando ésta no exceda de cuatro mil electores;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
 
-> <small>(F. DE E., P.O. 11 DE AGOSTO DE 2014)</small>
+I. El diez por ciento de la lista nominal del Municipio cuando ésta no exceda de cuatro mil electores;
 
-II. El quince por ciento de la lista nominal del Municipio cuando ésta comprenda más de cuatro mil uno electores pero no exceda de diez mil;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
 
-> <small>(F. DE E., P.O. 11 DE AGOSTO DE 2014)</small>
+II. El siete punto cinco por ciento de la lista nominal del Municipio cuando ésta comprenda más de cuatro mil uno electores pero no exceda de diez mil;
 
-III. El diez por ciento de la lista nominal del Municipio cuando ésta comprenda más de diez mil uno electores pero no exceda de treinta mil;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
 
-> <small>(F. DE E., P.O. 11 DE AGOSTO DE 2014)</small>
+III. El cinco por ciento de la lista nominal del Municipio cuando ésta comprenda más de diez mil uno electores pero no exceda de treinta mil;
 
-IV. El siete por ciento de la lista nominal del Municipio cuando ésta comprenda más de treinta mil uno electores pero no exceda de cien mil;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
 
-> <small>(F. DE E., P.O. 11 DE AGOSTO DE 2014)</small>
+IV. El cuatro por ciento de la lista nominal del Municipio cuando ésta comprenda más de treinta mil uno electores pero no exceda de cien mil;
 
-V. El cinco por ciento de la lista nominal del Municipio cuando ésta comprenda más de cien mil uno electores pero no exceda de trescientos mil; y
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
 
-> <small>(F. DE E., P.O. 11 DE AGOSTO DE 2014)</small>
+V. El tres por ciento de la lista nominal del Municipio cuando ésta comprenda más de cien mil uno electores pero no exceda de trescientos mil; y
 
-VI. El tres por ciento de la lista nominal del Municipio cuando ésta comprenda más de trescientos mil uno electores.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+VI. El uno punto cinco por ciento de la lista nominal del Municipio cuando ésta comprenda más de trescientos mil uno electores.
 
 En los casos de los incisos (sic) anteriores, se utilizará la lista nominal respectiva con corte al treinta de septiembre del año previo al de la elección, y el respaldo señalado deberá estar conformado por ciudadanos de por lo menos la mitad de las secciones electorales del Municipio que corresponda, que representen al menos el dos por ciento de ciudadanos que figuren en la lista nominal de cada una de ellas.
 
@@ -2475,7 +2705,7 @@ Las manifestaciones de respaldo ciudadano serán nulas en los siguientes casos:
 
 I. Cuando se haya presentado por la misma persona, más de una manifestación a favor del mismo aspirante, debiendo prevalecer únicamente una manifestación de respaldo;
 
-II. Cuando se haya presentado por la misma persona, más de una manifestación a favor respecto a un mismo cargo de elección popular, debiendo prevalecer únicamente la primera que haya sido registrada;
+II. (DEROGADA, P.O. 10 DE JULIO DE 2017)
 
 III. Cuando carezca de la firma, o en su caso, huella o datos de identificación en el formato previsto para tal efecto; o bien, cuando tales datos no coincidan o sean localizados con el padrón electoral;
 
@@ -2507,7 +2737,7 @@ II. Abstenerse de solicitar el voto del electorado;
 
 III. Abstenerse de utilizar en su propaganda cualquier alusión a la vida privada, ofensas, difamación o calumnia que denigre a otros aspirantes, precandidatos, partidos políticos, instituciones públicas o privadas y terceros, incitar al desorden o utilizar símbolos, signos o motivos religiosos o discriminatorios;
 
-IV. Insertar en su propaganda de manera visible la leyenda: “aspirante a candidato independiente”;
+IV. Insertar en su propaganda de manera visible la leyenda: "aspirante a candidato independiente";
 
 V. Abstenerse de recibir apoyo en dinero o en especie de organizaciones gremiales, de partidos políticos, personas morales y de entes gubernamentales;
 
@@ -2515,7 +2745,11 @@ VI. Abstenerse de realizar actos de presión o coacción para obtener el respald
 
 VII. Retirar la propaganda, dentro de los tres días posteriores a la finalización de la etapa de obtención del respaldo ciudadano; y
 
-VIII. Las demás que establezca esta Ley, relativas a las obligaciones inherentes a los partidos políticos y coaliciones respecto de las precampañas electorales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2017)</small>
+
+VIII. Abstenerse de presentar manifestaciones de respaldo falsas; y
+
+IX. Las demás que establezca esta Ley, relativas a las obligaciones inherentes a los partidos políticos y coaliciones respecto de las precampañas electorales.
 
 ###### Artículo 208.
 
@@ -2523,7 +2757,9 @@ Al concluir el plazo para que los ciudadanos manifiesten su respaldo a favor de 
 
 La declaratoria de candidatos independientes que tendrán derecho a ser registrados como tales se llevará a cabo conforme a las siguientes reglas:
 
-I. La Comisión Estatal Electoral, a través del órgano competente, verificará la cantidad de manifestaciones de respaldo ciudadano válidas obtenidas por cada uno de los aspirantes a ser registrados candidatos independientes a los distintos cargos de elección popular;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+I. La Comisión Estatal Electoral, a través del órgano competente, verificará la cantidad de manifestaciones de respaldo ciudadano válidas obtenidas por cada uno de los aspirantes a ser registrados candidatos independientes a los distintos cargos de elección popular y establecerá un mecanismo mediante el cual, de manera aleatoria y representativa, verificará la autenticidad de las firmas presentadas. Los partidos políticos y los demás candidatos independientes al mismo cargo podrán obtener copia de las manifestaciones de respaldo ciudadano presentadas por cada uno de los aspirantes para su análisis y revisión.
 
 II. De todos los aspirantes registrados a un mismo cargo de elección popular, solamente tendrán derecho a registrarse como candidato independiente los que obtengan el número de manifestaciones de respaldo validas, requeridas por la ley; y
 
@@ -2555,11 +2791,11 @@ Los aspirantes que sin haber obtenido la declaratoria para registrarse como cand
 
 ### CAPÍTULO TERCERO. DEL REGISTRO DE LAS CANDIDATURAS INDEPENDIENTES
 
-> <small>(F. DE E., P.O. 11 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2017)</small>
 
 ###### Artículo 212.
 
-Para obtener su registro, los aspirantes a candidatos independientes que hayan obtenido la declaratoria en los términos del Capítulo anterior, de manera individual en el caso de Gobernador, mediante fórmulas o planillas para el caso de Diputados o integrantes de los Ayuntamientos de mayoría relativa, respectivamente, deberán presentar su solicitud dentro de los plazos establecidos a que haya lugar para los candidatos de los partidos políticos o coaliciones que correspondan.
+Para obtener su registro, los aspirantes a candidatos independientes que hayan obtenido la declaratoria en los términos del Capítulo anterior, de manera individual en el caso de Gobernador, mediante fórmulas o planillas para el caso de Diputados o integrantes de los Ayuntamientos, respectivamente, deberán presentar su solicitud dentro de los plazos establecidos a que haya lugar para los candidatos de los partidos políticos o coaliciones que correspondan.
 
 Los aspirantes a candidatos independientes que hayan obtenido su declaratoria en términos del capítulo anterior, no podrán ser postulados por ningún partido político o coalición en el mismo proceso electoral.
 
@@ -2607,7 +2843,17 @@ La Comisión Estatal Electoral deberá resolver la procedencia o improcedencia d
 
 Dicha resolución de registro, será notificada personalmente a los interesados, y se difundirá en el Periódico Oficial del Estado, así como en el portal de internet de la Comisión Estatal Electoral, observando el principio de máxima publicidad.
 
-Los candidatos independientes que obtengan su registro no podrán ser sustituidos en ninguna de las etapas del proceso electoral.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
+Los candidatos independientes a Gobernador, Diputado Local o integrante de Ayuntamiento, propietarios y suplentes de estos últimos, que obtengan su registro no podrán ser sustituidos en ninguna de las etapas del proceso electoral.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+En caso de fallecimiento, inhabilitación, incapacidad física o mental o renuncia de candidato propietario, el suplente asumirá la titularidad.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+En caso de fallecimiento, inhabilitación, incapacidad física o mental o renuncia de candidatos suplente (sic), éste no será sustituido y la fórmula será de un solo integrante.
 
 ### CAPÍTULO CUARTO. DE LAS PRERROGATIVAS DE LOS CANDIDATOS INDEPENDIENTES
 
@@ -2631,7 +2877,9 @@ IV. Obtener financiamiento privado y autofinanciamiento, para la etapa de la obt
 
 V. Realizar actos de campañas y difundir propaganda electoral, en los términos permitidos para los partidos políticos y coaliciones;
 
-VI. Designar a un representante propietario y a un representante suplente ante la Comisión Estatal Electoral y las Comisiones Municipales Electorales, según corresponda al tipo de elección por el que contiendan, con derecho a voz;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+VI. Designar a un representante propietario y a un representante suplente ante la Comisión Estatal Electoral y las Comisiones Municipales Electorales, según corresponda al tipo de elección por el que contiendan, con derecho a voz. En el caso del representante de una fórmula de candidatos independientes a diputados, solo podrán participar en aquellas sesiones en las que se agende un asunto que repercuta directamente en su elección y su derecho a voz será ejercido exclusivamente en el punto del orden de día en el que se desahogue dicho asunto;
 
 VII. Tener derecho de representación en las Mesas Directivas de Casillas, según corresponda al tipo de elección por el que contiendan, en los mismos términos que un partido político;
 
@@ -2675,7 +2923,7 @@ X. Abstenerse de utilizar símbolos o expresiones de carácter religioso o discr
 
 XI. Abstenerse de utilizar en su propaganda electoral cualquier alusión a la vida privada, ofensas, difamación o calumnia que denigre a otros candidatos, partidos políticos, instituciones públicas o privadas, y terceros;
 
-XII. Insertar en su propaganda electoral de manera visible la leyenda: “candidato independiente”;
+XII. Insertar en su propaganda electoral de manera visible la leyenda: "candidato independiente";
 
 XIII. Abstenerse de realizar actos de coacción o presión que limiten o condicionen el libre ejercicio de los derechos políticos constitucionales;
 
@@ -2693,7 +2941,15 @@ XIX. En su caso, reintegrar a la Comisión Estatal Electoral el remanente del fi
 
 XX. Señalar domicilio para oír y recibir notificaciones y notificar de manera inmediata cualquier cambio del mismo; y
 
-XXI. Las demás que establezca esta Ley y las normas generales de la materia, en lo conducente, a los candidatos de los partidos políticos y coaliciones.
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2017)</small>
+
+XXI. Abstenerse de hacer actos de precampaña, campaña y utilizar propaganda electoral en conjunto con un partido político o coalición; y
+
+XXII. Las demás que establezca esta Ley y las normas generales de la materia, en lo conducente, a los candidatos de los partidos políticos y coaliciones.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+La violación a la disposición contenida en la fracción XXI será sancionada con la cancelación del registro de la candidatura.
 
 #### SECCION SEGUNDA. DEL FINANCIAMIENTO
 
@@ -2704,6 +2960,10 @@ El régimen de financiamiento de los candidatos independientes tendrá las sigui
 I. Financiamiento privado; y
 
 II. Financiamiento público.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+El financiamiento privado se constituye por las aportaciones que realicen el candidato independiente y sus simpatizantes, el cual no podrá rebasar, en ningún caso, el cincuenta por ciento del tope de gasto para la elección de que se trate.
 
 ###### Artículo 220.
 
@@ -2993,13 +3253,17 @@ A las dieciocho horas del día siguiente al de la jornada electoral, las Comisio
 
 Cuando hubiere necesidad de trasladar los paquetes electorales por haberse instalado en diverso inmueble la Mesa Auxiliar de Cómputo, la Comisión Municipal Electoral deberá levantar acta circunstanciada y solicitar el apoyo de los elementos de Seguridad Pública, así como hacerlo oportunamente del conocimiento de los representantes de los partidos políticos, a fin de que quienes así lo quieran, presencien el desarrollo de este procedimiento.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
 ###### Artículo 257.
 
-En los Municipios de Monterrey, San Nicolás de los Garza, Guadalupe, Apodaca, General Escobedo, San Pedro Garza García y Santa Catarina, la Comisión Estatal Electoral designará tantas Mesas Auxiliares de Cómputo como Distritos Electorales existan en ellos.
+Cuando la totalidad de las secciones electorales de un municipio sean parte del mismo distrito electoral, el cómputo parcial se hará en la Mesa Auxiliar de Cómputo de dicho municipio.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
 ###### Artículo 258.
 
-En el caso de los Municipios de Santa Catarina y San Nicolás de los Garza, que tienen secciones electorales que corresponden a los distritos de San Pedro Garza García y General Escobedo respectivamente, las Comisiones Municipales Electorales entregarán los paquetes electorales de las elecciones de Diputados y Gobernador a la Mesa Auxiliar de Cómputo correspondiente a la cabecera del distrito.
+En el caso de los municipios que tienen secciones electorales que corresponden a distritos cuyas cabeceras se ubican en municipio diverso, las Comisiones Municipales Electorales entregarán los paquetes electorales de las elecciones de Diputados y Gobernador a la Mesa Auxiliar de Cómputo correspondiente a la cabecera del distrito.
 
 ###### Artículo 259.
 
@@ -3047,23 +3311,49 @@ a. Existan errores o inconsistencias evidentes en los distintos elementos de las
 
 b. Todos los votos hayan sido depositados a favor de un mismo partido o coalición.
 
-IV. Cuando exista indicio de que la diferencia entre el candidato presunto ganador de la elección de Diputado o Gobernador, y el que haya obtenido el segundo lugar en la votación, es igual o menor a punto cinco por ciento, y al inicio de la sesión exista petición expresa del representante del partido o coalición que postuló al segundo de los candidatos antes señalados, en estos casos la Comisión Estatal Electoral deberá realizar el recuento de votos en la totalidad de las casillas.
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN IX], P.O. 10 DE JULIO DE 2017)</small>
 
-Para estos efectos se considerará indicio suficiente la presentación ante la Comisión Estatal Electoral de la sumatoria de resultados por partido, consignados en la copia de las actas de escrutinio y cómputo de casilla de todos los distritos en el caso de la elección de Gobernador, o del distrito uninominal correspondiente en el caso de la elección de Diputados.
+IV. Terminado el cómputo de la elección de Gobernador, la Comisión Estatal Electoral declarará la validez de la elección y expedirá la constancia de mayoría a quien resulte triunfador en los comicios;
 
-V. Conforme a lo establecido en el párrafo inmediato anterior, para realizar el recuento total de votos respecto de una elección determinada, la Comisión Estatal Electoral dispondrá lo necesario para que sea realizado sin obstaculizar el escrutinio y cómputo de las demás elecciones y concluya antes del domingo siguiente al de la jornada electoral. Para tales efectos, el Presidente de la Comisión Estatal Electoral ordenará la creación de grupos de trabajo integrados por los Consejeros Electorales, los integrantes de las Mesas Auxiliares de Cómputo y los representantes de los partidos. Los grupos realizarán su tarea en forma simultánea dividiendo entre ellos en forma proporcional los paquetes que cada uno tendrá bajo su responsabilidad. Los partidos políticos o coalición tendrán derecho a nombrar a un representante en cada grupo con su respectivo suplente;
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN X], P.O. 10 DE JULIO DE 2017)</small>
 
-VI. Si durante el recuento de votos se encuentran en el paquete electoral, votos de una elección distinta, se contabilizarán para la elección de que se trate;
+V. Una vez realizado lo anterior para el cómputo distrital y terminado éste, la Comisión Estatal Electoral declarará la validez de las elecciones y expedirá de inmediato la Constancia de Mayoría a la fórmula de candidatos a Diputados que la haya obtenido; y
 
-VII. Se levantará un acta circunstanciada en la que se consignará el resultado del recuento de cada casilla y el resultado final que arroje la suma de votos por cada partido y candidato;
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XI], P.O. 10 DE JULIO DE 2017)</small>
 
-VIII. La Comisión Estatal Electoral computará en sesión plenaria la suma de los resultados consignados en el acta de cada grupo de trabajo, y asentará el resultado en el acta final de escrutinio y cómputo de la elección de que se trate;
+VI. La Comisión Estatal Electoral conservará todos los paquetes electorales de las elecciones de Diputados y Gobernador hasta que haya concluido el procedimiento contencioso electoral.
 
-IX. Terminado el cómputo de la elección de Gobernador, la Comisión Estatal Electoral declarará la validez de la elección y expedirá la constancia de mayoría a quien resulte triunfador en los comicios;
+VII. (DEROGADA, P.O. 10 DE JULIO DE 2017)
 
-X. Una vez realizado lo anterior para el cómputo distrital y terminado éste, la Comisión Estatal Electoral declarará la validez de las elecciones y expedirá de inmediato la Constancia de Mayoría a la fórmula de candidatos a Diputados que la haya obtenido; y
+VIII. (DEROGADA, P.O. 10 DE JULIO DE 2017)
 
-XI. La Comisión Estatal Electoral conservará todos los paquetes electorales de las elecciones de Diputados y Gobernador hasta que haya concluido el procedimiento contencioso electoral.
+IX. (DEROGADA, P.O. 10 DE JULIO DE 2017)
+
+X. (DEROGADA, P.O. 10 DE JULIO DE 2017)
+
+XI. (DEROGADA, P.O. 10 DE JULIO DE 2017)
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+Cuando exista indicio de que la diferencia entre el candidato presunto ganador de la elección de Diputado o Gobernador, y el que haya obtenido el segundo lugar en la votación, es igual o menor a punto cinco por ciento, y al inicio de la sesión exista petición expresa del representante del partido, coalición o candidato que postuló al segundo de los candidatos antes señalados, en estos casos la Comisión Estatal Electoral deberá realizar el recuento de votos en la totalidad de las casillas.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+Para estos efectos se considerará indicio suficiente la presentación ante la Comisión Estatal Electoral de la sumatoria de resultados por partido, consignados en la copia de las actas de escrutinio y cómputo de las casillas de todos los distritos en el caso de la elección de Gobernador, o del distrito uninominal correspondiente en el caso de la elección de Diputados.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+Conforme a lo establecido en el párrafo inmediato anterior, para realizar el recuento total de votos respecto de una elección determinada, la Comisión Estatal Electoral dispondrá lo necesario para que sea realizado sin obstaculizar el escrutinio y cómputo de las demás elecciones y concluya antes del domingo siguiente al de la jornada electoral. Para tales efectos, el Presidente de la Comisión Estatal Electoral ordenará la creación de grupos de trabajo integrados por los Consejeros Electorales, los integrantes de las Mesas Auxiliares de Cómputo y los representantes de los partidos. Los grupos realizarán su tarea en forma simultánea dividiendo entre ellos en forma proporcional los paquetes que cada uno tendrá bajo su responsabilidad. Los partidos políticos o coalición tendrán derecho a nombrar a un representante en cada grupo con su respectivo suplente;
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+Si durante el recuento de votos se encuentran en el paquete electoral, votos de una elección distinta, se contabilizarán para la elección de que se trate;
+
+Se levantará un acta circunstanciada en la que se consignará el resultado del recuento de cada casilla y el resultado final que arroje la suma de votos por cada partido y candidato;
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+La Comisión Estatal Electoral computará en sesión plenaria la suma de los resultados consignados en el acta de cada grupo de trabajo, y asentará el resultado en el acta final de escrutinio y cómputo de la elección de que se trate.
 
 #### SECCIÓN 2. DE LA CALIFICACIÓN
 
@@ -3085,9 +3375,13 @@ a. Obtengan el tres por ciento de la votación válida emitida en el Estado; y
 
 b. No hubieren obtenido la totalidad de las diputaciones de mayoría relativa.
 
-Se entiende por votación válida emitida la que resulte de deducir de la votación total, los votos a favor de los partidos políticos que no hayan obtenido el tres por ciento de dicha votación, los votos emitidos para candidatos independientes y los votos nulos;
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
-II. Las diputaciones de representación proporcional que correspondan a cada partido político serán asignadas a los candidatos que, no habiendo obtenido mayoría relativa en su distrito, hubieren obtenido el mayor porcentaje de votos en su distrito a favor de sus partidos. La suplencia será asignada a su compañero de fórmula;
+Se entiende por votación válida emitida la que resulte de deducir de la votación total los votos emitidos para candidatos no registrados y los votos nulos. La votación total es la suma de todos los votos depositados en las urnas;
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+II. Las diputaciones de representación proporcional que correspondan a cada partido político serán asignadas primero a los candidatos registrados en la lista plurinominal de cada partido político y las posteriores a los candidatos registrados por el principio de mayoría relativa que, no habiendo obtenido mayoría relativa en su distrito, hubieren obtenido el mayor porcentaje de votos en su distrito a favor de sus partidos. La suplencia será asignada a su compañero de fórmula. La asignación deberá hacerse con alternancia de género y habiendo prelación para cada partido político del genero menos favorecido en la asignación de diputaciones de mayoría relativa. Dicha prelación tendrá como límite la paridad de género del Congreso que se verificará en cada asignación. Las asignaciones iniciarán con los partidos que hayan obtenido la menor votación;
 
 III. El partido político que hubiere obtenido el mayor número de diputaciones de mayoría relativa participará de la asignación de la representación proporcional hasta completar un máximo de veintiséis Diputados; y
 
@@ -3125,15 +3419,19 @@ II. Para las curules que queden por distribuir se empleará el Cociente Electora
 
 III. Si después de aplicar el Cociente Electoral quedaren curules por repartir, éstas se asignarán por el resto mayor, siguiendo el orden decreciente de los restos de votos no utilizados.
 
-A ningún partido político se le podrán asignar más de veintiséis diputaciones por ambos principios, o contar con un número de diputados por ambos principios que representen un porcentaje del total de la Legislatura que exceda en ocho puntos su porcentaje de votación emitida. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura superior a la suma del porcentaje de su votación que hubiere recibido más ocho puntos porcentuales.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
+A ningún partido político se le podrán asignar más de veintiséis diputaciones por ambos principios, o contar con un número de diputados por ambos principios que representen un porcentaje del total de la Legislatura que exceda en ocho puntos su porcentaje de votación efectiva. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura superior a la suma del porcentaje de su votación que hubiere recibido más ocho puntos porcentuales.
 
 Además, a ningún partido se le podrán asignar más de catorce diputaciones por el principio de representación proporcional.
 
 En la integración de la Legislatura, el porcentaje de representación de un partido político no podrá ser menor al que hubiere recibido menos ocho puntos porcentuales.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
 ###### Artículo 267.
 
-Si en la aplicación de los diferentes elementos de asignación, algún partido o coalición hubiere alcanzado veintiséis diputaciones, su votación dejará de ser considerada al momento de completarlas, rehaciendo las operaciones de cálculo de los elementos de asignación a efecto de seguir la repartición de las Diputaciones restantes entre los demás partidos.
+Si en la aplicación de los diferentes elementos de asignación, algún partido o coalición hubiere alcanzado veintiséis diputaciones o un porcentaje del total de la legislatura que exceda en ocho puntos su votación efectiva, su votación dejará de ser considerada al momento de completarlas, rehaciendo las operaciones de cálculo de los elementos de asignación a efecto de seguir la repartición de las Diputaciones restantes entre los demás partidos.
 
 ###### Artículo 268.
 
@@ -3142,6 +3440,8 @@ Asignadas las Diputaciones, se extenderán las constancias a los ciudadanos que 
 ### CAPÍTULO SEGUNDO. DEL CÓMPUTO Y DECLARACIÓN DE VALIDEZ DE LAS ELECCIONES MUNICIPALES
 
 #### SECCIÓN 1. DEL CÓMPUTO
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 10 DE JULIO DE 2017, PÁGINAS DE LA 22 A LA 24.]</small>
 
 ###### Artículo 269.
 
@@ -3159,37 +3459,59 @@ a. Existan errores o inconsistencias evidentes en los distintos elementos de las
 
 b. Todos los votos hayan sido depositados a favor de un mismo partido o coalición.
 
-V. Cuando exista indicio de que la diferencia entre el candidato presunto ganador de la elección de Ayuntamiento, y el que haya obtenido el segundo lugar en la votación, es igual o menor a punto cinco por ciento, y al inicio de la sesión exista petición expresa del representante del partido o coalición que postuló al segundo de los candidatos antes señalados, en estos casos la Comisión Municipal Electoral deberá realizar el recuento de votos en la totalidad de las casillas.
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN X], P.O. 10 DE JULIO DE 2017)</small>
 
-Para estos efectos se considerará indicio suficiente la presentación ante la Comisión Municipal Electoral de la sumatoria de resultados por partido, consignados en la copia de las actas de escrutinio y cómputo de casilla de todos los distritos en el caso de la elección de Gobernador, o del distrito uninominal correspondiente en el caso de la elección de Diputados.
+V. Terminado el cómputo por parte de la Comisión Municipal Electoral, ésta realizará la declaratoria de validez y extenderá y entregará de manera inmediata la constancia de mayoría a la planilla de candidatos que haya obtenido la mayoría de votos, y extenderá y entregará de manera inmediata también la constancia de Regidores de representación proporcional a los partidos políticos o coaliciones que correspondan;
 
-VI. Conforme a lo establecido en el párrafo inmediato anterior, para realizar el recuento total de votos respecto de una elección determinada, la Comisión Municipal Electoral dispondrá lo necesario para que sea realizado sin obstaculizar el escrutinio y cómputo de las demás elecciones y concluya antes del domingo siguiente al de la jornada electoral. Para tales efectos, el Presidente de la Comisión Municipal Electoral ordenará la creación de grupos de trabajo integrados por los consejeros electorales y los representantes de los partidos. Los grupos realizarán su tarea en forma simultánea dividiendo entre ellos en forma proporcional los paquetes que cada uno tendrá bajo su responsabilidad. Los partidos políticos o coalición tendrán derecho a nombrar a un representante en cada grupo con su respectivo suplente;
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XI], P.O. 10 DE JULIO DE 2017)</small>
 
-VII. Si durante el recuento de votos se encuentran en el paquete electoral, votos de una elección distinta, se contabilizarán para la elección de que se trate;
+VI. Las Comisiones Municipales Electorales conservarán todos los paquetes electorales de las elecciones de Ayuntamiento que le correspondan, hasta que haya concluido el procedimiento contencioso electoral.
 
-VIII. Se levantará un acta circunstanciada en la que se consignará el resultado del recuento de cada casilla y el resultado final que arroje la suma de votos por cada partido o coalición y candidato;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 10 DE JULIO DE 2017)</small>
 
-IX. La Comisión Municipal Electoral computará en sesión plenaria la suma de los resultados consignados en el acta de cada grupo de trabajo, y asentará el resultado en el acta final de escrutinio y cómputo de la elección de que se trate;
+Cuando exista indicio de que la diferencia entre el candidato presunto ganador de la elección de Ayuntamiento, y el que haya obtenido el segundo lugar en la votación, es igual o menor a punto cinco por ciento, y al inicio de la sesión exista petición expresa del representante del partido o coalición que postuló al segundo de los candidatos antes señalados, en estos casos la Comisión Municipal Electoral deberá realizar el recuento de votos en la totalidad de las casillas.
 
-X. Terminado el cómputo por parte de la Comisión Municipal Electoral, ésta realizará la declaratoria de validez y extenderá y entregará de manera inmediata la constancia de mayoría a la planilla de candidatos que haya obtenido la mayoría de votos, y extenderá y entregará de manera inmediata también la constancia de Regidores de representación proporcional a los partidos políticos o coaliciones que correspondan; y
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 10 DE JULIO DE 2017)</small>
 
-XI. Las Comisiones Municipales Electorales conservarán todos los paquetes electorales de las elecciones de Ayuntamiento que le correspondan, hasta que haya concluido el procedimiento contencioso electoral.
+Para estos efectos se considerará indicio suficiente la presentación ante la Comisión Municipal Electoral de la sumatoria de resultados por partido, consignados en la copia de las actas de escrutinio y cómputo de todas las casillas del municipio.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 10 DE JULIO DE 2017)</small>
+
+Conforme a lo establecido en el párrafo inmediato anterior, para realizar el recuento total de votos respecto de una elección determinada, la Comisión Municipal Electoral dispondrá lo necesario para que sea realizado sin obstaculizar el escrutinio y cómputo de las demás elecciones y concluya antes del domingo siguiente al de la jornada electoral. Para tales efectos, el Presidente de la Comisión Municipal Electoral ordenará la creación de grupos de trabajo integrados por los consejeros electorales y los representantes de los partidos. Los grupos realizarán su tarea en forma simultánea dividiendo entre ellos en forma proporcional los paquetes que cada uno tendrá bajo su responsabilidad. Los partidos políticos o coalición tendrán derecho a nombrar a un representante en cada grupo con su respectivo suplente.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 10 DE JULIO DE 2017)</small>
+
+Si durante el recuento de votos se encuentran en el paquete electoral, votos de una elección distinta, se contabilizarán para la elección de que se trate.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 10 DE JULIO DE 2017)</small>
+
+Se levantará un acta circunstanciada en la que se consignará el resultado del recuento de cada casilla y el resultado final que arroje la suma de votos por cada partido o coalición y candidato.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 10 DE JULIO DE 2017)</small>
+
+La Comisión Municipal Electoral computará en sesión plenaria la suma de los resultados consignados en el acta de cada grupo de trabajo, y asentará el resultado en el acta final de escrutinio y cómputo de la elección de que se trate.
 
 #### SECCIÓN 2. DE LA CALIFICACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2017)</small>
+
 ###### Artículo 270.
 
-Declarada electa la planilla que hubiere obtenido la mayoría, se asignarán de inmediato las regidurías de representación proporcional que señala el artículo 121 de la Constitución Política del Estado, a los partidos políticos que:
+Declarada electa la planilla que hubiere obtenido la mayoría, se asignarán de inmediato las regidurías de representación proporcional que señala el artículo 121 de la Constitución Política del Estado, a las planillas que:
 
 I. No hayan obtenido el triunfo de mayoría; y
 
-(NOTA: EL 2 DE OCTUBRE DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VIGÉSIMO SEGUNDO, ASÍ COMO EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 38/2014 Y SUS ACUMULADAS 91/2014, 92/2014 Y 93/2014, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE OCTUBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
 
-II. Hayan obtenido el tres por ciento de la votación válida emitida en los Municipios de más de veinte mil habitantes inclusive O EL DIEZ POR CIENTO DE LOS VOTOS EMITIDOS SI EL MUNICIPIO TIENE MENOS DE VEINTE MIL HABITANTES.
+II. Hayan obtenido el tres por ciento de la votación válida emitida en los municipios.
 
-Se entiende por votación válida emitida la que resulte de deducir de la votación total, los votos a favor de los partidos políticos que no hayan obtenido el tres por ciento de dicha votación, los votos emitidos para candidatos independientes y los votos nulos;
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
-Las Regidurías de representación proporcional serán hasta un cuarenta por ciento de las que correspondan según la Ley Orgánica de la Administración Pública Municipal del Estado, salvo en lo que se refiere al último párrafo del artículo siguiente, considerando al realizar estos cálculos, el redondeo al número absoluto superior más cercano, aún y cuando en este procedimiento se sobrepase el cuarenta por ciento de las regidurías que correspondan; para su asignación se considerarán los siguientes elementos:
+Se entiende por votación válida emitida la que resulte de deducir de la votación total, los votos emitidos para candidatos no registrados y los votos nulos;
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
+Las Regidurías de representación proporcional serán hasta un cuarenta por ciento de las que correspondan según la Ley de Gobierno Municipal del Estado, salvo en lo que se refiere al último párrafo del artículo siguiente, considerando al realizar estos cálculos, el redondeo al número absoluto superior más cercano, aún y cuando en este procedimiento se sobrepase el cuarenta por ciento de las regidurías que correspondan; para su asignación se considerarán los siguientes elementos:
 
 a. Porcentaje Mínimo;
 
@@ -3199,25 +3521,37 @@ c. Resto Mayor.
 
 Por Porcentaje Mínimo se entiende el tres por ciento de la votación válida emitida en los Municipios que tengan más de veinte mil habitantes inclusive y el diez por ciento en los que tengan menos de esa cifra.
 
-Por Cociente Electoral se entiende el resultado de dividir la votación de los partidos con derecho a regidurías de representación proporcional, deducidos los votos utilizados por efecto del Porcentaje Mínimo entre el número de regidurías que falte repartir.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
-Por Resto Mayor se entiende el remanente más alto entre los restos de las votaciones de los partidos políticos después de haber participado en la distribución del Cociente Electoral.
+Por Cociente Electoral se entiende el resultado de dividir la votación de las planillas con derecho a regidurías de representación proporcional, deducidos los votos utilizados por efecto del Porcentaje Mínimo entre el número de regidurías que falte repartir.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
+Por Resto Mayor se entiende el remanente más alto entre los restos de las votaciones de las planillas después de haber participado en la distribución del Cociente Electoral.
 
 ###### Artículo 271.
 
 Para la aplicación de los elementos de asignación del artículo anterior se estará al siguiente procedimiento:
 
-I. Se asignará una regiduría a todo aquel partido que obtenga el Porcentaje Mínimo;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
 
-II. Si aún hubiere regidurías por aplicar se empleará el Cociente Electoral; en esta forma se asignarán a los partidos tantas regidurías como veces contenga su votación restante dicho cociente; y
+I. Se asignará una regiduría a toda aquella planilla que obtenga el Porcentaje Mínimo;
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+II. Si aún hubiere regidurías por aplicar se empleará el Cociente Electoral; en esta forma se asignarán a las planillas tantas regidurías como veces contenga su votación restante dicho cociente; y
 
 III. Si después de aplicar el Cociente Electoral quedaran Regidurías por aplicar, se asignarán por el Resto Mayor siguiendo el orden decreciente de los restos de votos no utilizados.
 
-Exclusivamente a los partidos que no obtengan la mayoría ni la primera minoría se les asignará una Regiduría más, si hubieren obtenido más de dos veces el porcentaje mínimo, siempre y cuando la cantidad total de Regidores de representación proporcional no sea superior a los de mayoría, ni que el partido que haya obtenido la primera minoría resulte con igual o menor número de Regidores de representación proporcional que otro partido.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
+Exclusivamente a las planillas que no obtengan la mayoría ni la primera minoría se les asignará una Regiduría más, si hubieren obtenido más de dos veces el porcentaje mínimo, siempre y cuando la cantidad total de Regidores de representación proporcional no sea superior a los de mayoría, ni que la planilla que haya obtenido la primera minoría resulte con igual o menor número de Regidores de representación proporcional que otra planilla.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
 ###### Artículo 272.
 
-Si en la asignación de las Regidurías por repartir éstas resultaran insuficientes, se dará preferencia al partido que haya obtenido el mayor número de votos.
+Si en la asignación de las Regidurías por repartir éstas resultaran insuficientes, se dará preferencia a la planilla que haya obtenido el mayor número de votos.
 
 ###### Artículo 273.
 
@@ -3255,9 +3589,9 @@ El Tribunal Electoral del Estado funcionará de forma colegiada, se compondrá p
 
 Los Magistrados del Tribunal Electoral del Estado serán electos por el Senado de la República en los términos que establece la Constitución Política de los Estados Unidos Mexicanos y la Ley General de la materia.
 
-(NOTA: EL 2 DE OCTUBRE DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VIGÉSIMO TERCERO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 38/2014 Y SUS ACUMULADAS 91/2014, 92/2014 Y 93/2014, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE OCTUBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
-DURANTE EL PERÍODO ELECTORAL, LOS MAGISTRADOS DEL TRIBUNAL ELECTORAL DEL ESTADO PERCIBIRÁN UNA REMUNERACIÓN EQUIVALENTE A LA DE UN MAGISTRADO DEL PODER JUDICIAL DEL ESTADO. CUANDO NO SEA PERIODO ELECTORAL, SU REMUNERACIÓN SERÁ EQUIVALENTE A LA DE UN JUEZ DE PRIMERA INSTANCIA DEL PODER JUDICIAL DEL ESTADO.
+Los Magistrados del Tribunal Electoral del Estado percibirán una remuneración equivalente a la de un Magistrado del Poder Judicial del Estado, así como las prestaciones que se aprueben en su presupuesto anual por el Congreso del Estado.
 
 Los Magistrados no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia.
 
@@ -3271,7 +3605,9 @@ Los Magistrados electos para integrar el Tribunal Electoral del Estado, celebrar
 
 En caso de empate la designación se hará mediante procedimiento de insaculación.
 
-El Presidente designado en el año en que inicia el proceso electoral, durará en su encargo por dos años, salvo que concluya su periodo como Magistrado, y no podrá volver a ocupar la presidencia en el siguiente periodo ordinario de actividad electoral. El Presidente designado fuera de proceso electoral, durará en su encargo por un año.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
+El Presidente designado en el año en que inicia el proceso electoral, durará en su encargo por dos años, salvo que concluya su periodo como Magistrado, y no podrá volver a ocupar la presidencia en el siguiente periodo ordinario de actividad electoral. El Presidente designado fuera de proceso electoral, durará en su encargo por un año. El Presidente podrá reelegirse de una solo ves (sic) y ocupar un periodo máximo continuo de tres años.
 
 El Presidente no podrá ser removido de este cargo salvo que exista causa de responsabilidad en los términos del Título VII de la Constitución Política del Estado. En caso de falta absoluta, los Magistrados designarán de inmediato al nuevo Presidente.
 
@@ -4107,17 +4443,11 @@ El partido político, coalición, aspirante, precandidato, candidato o persona q
 
 ###### Artículo 355.
 
-La Comisión Estatal Electoral aplicará las sanciones a que hubiere lugar, conforme al procedimiento siguiente:
-
-Una vez iniciado el procedimiento de fincamiento de responsabilidad, e integradas las pruebas por la Comisión Estatal Electoral, ésta emplazará al presunto infractor para que en el plazo de cinco días conteste por escrito lo que a su derecho convenga y aporte las pruebas que considere pertinentes.
-
-Concluido el plazo a que se refiere el segundo párrafo de este artículo, se formulará el dictamen correspondiente, el cual deberá ser resuelto dentro de los quince días siguientes, salvo que por la naturaleza de las pruebas se requiera de una prórroga, que no podrá exceder de tres días.
-
-La Comisión Estatal Electoral, para fijar la sanción, tomará en cuenta las circunstancias y la gravedad de la falta, que en caso de reincidencia implicará mayor severidad.
+(DEROGADO, P.O. 10 DE JULIO DE 2017)
 
 ###### Artículo 356.
 
-En contra de las resoluciones que pongan fin al procedimiento de fincamiento de responsabilidad de la Comisión Estatal Electoral procederá el juicio de inconformidad o el recurso de apelación según se hayan pronunciado durante el proceso electoral o entre dos procesos electorales, respectivamente.
+(DEROGADO, P.O. 10 DE JULIO DE 2017)
 
 ###### Artículo 357.
 
@@ -4129,9 +4459,17 @@ Las multas que fije la Comisión Estatal Electoral a los partidos políticos ten
 
 Son órganos competentes para la tramitación y resolución del procedimiento sancionador por la comisión de faltas administrativas que establece esta Ley:
 
-I. El Tribunal Estatal Electoral para la resolución definitiva del procedimiento sancionador; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2017)</small>
 
-II. La Dirección Jurídica de la Comisión Estatal Electoral para la sustanciación del procedimiento.
+I. La Comisión Estatal Electoral para la resolución definitiva del procedimiento ordinario sancionador;
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+II. El Tribunal Estatal Electoral para la resolución definitiva del procedimiento especial sancionador; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE JULIO DE 2017)</small>
+
+III. La Dirección Jurídica de la Comisión Estatal Electoral para la sustanciación del procedimiento.
 
 ###### Artículo 359.
 
@@ -4303,7 +4641,9 @@ b. El denunciado sea un partido político que, con posterioridad a la admisión 
 
 c. El denunciante presente escrito de desistimiento, siempre y cuando lo exhiba antes de la aprobación del proyecto de resolución por parte de la Dirección Jurídica y que a juicio de la misma, o por el avance de la investigación, no se trate de la imputación de hechos graves, ni se vulneren los principios rectores de la función electoral.
 
-El estudio de las causas de improcedencia o sobreseimiento de la queja o denuncia se realizará de oficio. En caso de advertir que se actualiza una de ellas, la Dirección Jurídica elaborará un proyecto de resolución por el que se proponga al Tribunal Electoral del Estado el desechamiento o sobreseimiento, según corresponda.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
+El estudio de las causas de improcedencia o sobreseimiento de la queja o denuncia se realizará de oficio. En caso de advertir que se actualiza una de ellas, la Dirección Jurídica elaborará un proyecto de resolución por el que se proponga al Pleno de la Comisión Estatal Electoral el desechamiento o sobreseimiento, según corresponda.
 
 Cuando durante la sustanciación de una investigación la Dirección Jurídica advierta hechos distintos al objeto de ese procedimiento que puedan constituir distintas violaciones electorales, o la responsabilidad de actores diversos a los denunciados, podrá ordenar el inicio, de oficio, de un nuevo procedimiento de investigación.
 
@@ -4347,7 +4687,9 @@ La investigación para el conocimiento cierto de los hechos se realizará por la
 
 Una vez que la Dirección Jurídica tenga conocimiento de los hechos denunciados, en su caso, dictará de inmediato las medidas necesarias para dar fe de los mismos; para impedir que se pierdan, destruyan o alteren las huellas o vestiglos, y en general para evitar que se dificulte la investigación.
 
-Admitida la queja o denuncia por la Dirección Jurídica, se allegará de los elementos de convicción que estime pertinentes para integrar el expediente respectivo. Para tal efecto, solicitará mediante oficio a los órganos de la Comisión Estatal Electoral o las Comisiones Municipales en su caso. El plazo para llevar a cabo la investigación no podrá exceder de cuarenta días, contados a partir de la recepción del escrito de queja o denuncia en la Dirección Jurídica o del inicio de oficio del procedimiento. Dicho plazo podrá ser ampliado de manera excepcional por una sola vez, hasta por un período igual al antes señalado, mediante acuerdo debidamente motivado que emita la Dirección Jurídica.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
+La queja o denuncia deberá admitirse o desecharse en un plazo máximo de setenta y dos horas. Admitida la queja o denuncia por la Dirección Jurídica, se allegará de los elementos de convicción que estime pertinentes para integrar el expediente respectivo. Para tal efecto, solicitará mediante oficio a los órganos de la Comisión Estatal Electoral o las Comisiones Municipales en su caso. El plazo para llevar a cabo la investigación no podrá exceder de cuarenta días, contados a partir de la recepción del escrito de queja o denuncia en la Dirección Jurídica o del inicio de oficio del procedimiento. Dicho plazo podrá ser ampliado de manera excepcional por una sola vez, hasta por un período igual al antes señalado, mediante acuerdo debidamente motivado que emita la Dirección Jurídica.
 
 Si dentro del plazo fijado para la admisión de la queja o denuncia, la Dirección Jurídica valora que deben dictarse medidas cautelares lo propondrá a la Comisión para que ésta resuelva en un plazo de veinticuatro horas lo conducente, a fin lograr la cesación de los actos o hechos que constituyan la infracción, evitar la producción de daños irreparables, la afectación de los principios que rigen los procesos electorales, o la vulneración de los bienes jurídicos tutelados por las disposiciones contenidas en esta Ley.
 
@@ -4355,11 +4697,15 @@ El Secretario Ejecutivo de la Comisión Estatal Electoral podrá solicitar a las
 
 Las diligencias que se realicen en el curso de la investigación deberán ser efectuadas por la Dirección Jurídica, a través del servidor público o por el apoderado legal que éste designe, quienes serán responsables del debido ejercicio de la función indagatoria.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2017)</small>
+
 ###### Artículo 369.
 
-Concluido el desahogo de las pruebas y, en su caso, agotada la investigación, la Dirección Jurídica pondrá el expediente a la vista del quejoso y del denunciado para que, en un plazo de cinco días, manifiesten lo que a su derecho convenga. Transcurrido este plazo, la Dirección Jurídica remitirá el expediente al Tribunal Electoral para que en un término no mayor a diez días contados a partir del desahogo de la última vista emita resolución.
+Concluido el desahogo de las pruebas y, en su caso, agotada la investigación, la Dirección Jurídica pondrá el expediente a la vista del quejoso y del denunciado para que, en un plazo de cinco días, manifiesten lo que a su derecho convenga. Transcurrido este plazo, la Dirección Jurídica remitirá el expediente al Pleno de la Comisión Estatal Electoral para que en un término no mayor a diez días contados a partir del desahogo de la última vista emita resolución.
 
-El Tribunal al conocer del asunto determinará:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2017)</small>
+
+El Pleno de la Comisión Estatal Electoral al conocer del asunto determinará:
 
 I. Aprobarlo en los términos en que se le presente;
 
@@ -4367,9 +4713,13 @@ II. Aprobarlo, ordenando realizar el engrose de la resolución en el sentido de 
 
 III. Modificarlo, procediendo a aprobarlo dentro de la misma sesión, siempre y cuando se considere que puede hacerse y que no contradice lo establecido en el cuerpo del dictamen;
 
-IV. Rechazarlo y elaborar un nuevo proyecto en el sentido de los argumentos, consideraciones y razonamientos expresados por la mayoría de los Magistrados.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
 
-El Magistrado Electoral que disienta de la mayoría podrá formular voto particular, el cual se insertará en el proyecto respectivo.
+IV. Rechazarlo y elaborar un nuevo proyecto en el sentido de los argumentos, consideraciones y razonamientos expresados por la mayoría de los Consejeros.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
+El Consejero Electoral que disienta de la mayoría podrá formular voto particular, el cual se insertará en el proyecto respectivo.
 
 ### CAPÍTULO CUARTO. DEL PROCEDIMIENTO ESPECIAL SANCIONADOR
 
@@ -4382,6 +4732,18 @@ I. Violen lo establecido en el octavo párrafo del artículo 134 de la Constituc
 II. Contravengan las normas sobre propaganda política o electoral; o
 
 III. Constituyan actos anticipados de precampaña o campaña.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+La Dirección Jurídica de la Comisión Estatal Electoral deberá admitir o desechar la denuncia en un plazo no mayor a 24 horas posteriores a su recepción. En caso de desechamiento, notificará al denunciante su resolución, por el medio más expedito a su alcance dentro del plazo de doce horas; tal resolución deberá ser confirmada por escrito y se informará a (sic) Tribunal Estatal Electoral, para su conocimiento.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+Cuando la Dirección Jurídica de la Comisión Estatal Electoral admita la denuncia, emplazará al denunciante y al denunciado para que comparezcan a una audiencia de pruebas y alegatos, que tendrá lugar dentro del plazo de cuarenta y ocho horas posteriores a la admisión. En el escrito respectivo se le informará al denunciado de la infracción que se le imputa y se le correrá traslado de la denuncia con sus anexos.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+Si la Dirección Jurídica de la Comisión Estatal Electoral considera necesaria la adopción de medidas cautelares, las propondrá a la Comisión Estatal Electoral dentro del mismo plazo de cuarenta y ocho horas. La Comisión Estatal Electoral notificará de manera inmediata a las partes la resolución en la que fije la adopción de medidas cautelares. La decisión de adoptar o negar medidas cautelares podrá ser impugnada ante (sic) Tribunal Estatal Electoral, la cual deberá ser resuelta en un plazo máximo de 48 horas.
 
 ###### Artículo 371.
 
@@ -4558,3 +4920,23 @@ RODRIGO MEDINA DE LA CRUZ
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 ALVARO IBARRA HINOJOSA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 286. SE REFORMA POR MODIFICACIÓN DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 10; ADICIÓN DE UN TERCER Y CUARTO PÁRRAFOS AL ARTÍCULO 10; ADICIÓN DE UN ARTÍCULO 10 BIS; MODIFICACIÓN A LA DENOMINACIÓN DEL CAPÍTULO TERCERO; ARTÍCULO 73; DOCEAVO PÁRRAFO DEL ARTÍCULO 74; PRIMER Y SEGUNDO PÁRRAFO (SIC) DEL ARTÍCULO 79; POR ADICIÓN DE LOS ARTÍCULOS 81 BIS, 81 BIS I, 81 BIS II, 81 BIS III, 81 BIS IV, 81 BIS V, 81 BIS VI, 81 BIS VII; TERCER PÁRRAFO DEL ARTÍCULO 91; PRIMER PÁRRAFO DEL ARTÍCULO 92; POR ADICIÓN DE UN SEGUNDO PÁRRAFO AL ARTÍCULO 108; PRIMER PÁRRAFO DEL ARTÍCULO 109; POR MODIFICACIÓN AL PÁRRAFO QUINTO Y ADICIÓN DE LAS FRACCIONES I) A X) DEL ARTÍCULO 113; ARTÍCULO 116 SEGUNDO PÁRRAFO; FRACCIÓN II DEL ARTÍCULO 132; PRIMER PÁRRAFO, AGREGÁNDOSE LOS PÁRRAFOS SEXTO, SÉPTIMO Y OCTAVO, RECORRIÉNDOSE EL PÁRRAFO SEXTO ACTUAL PARA SER EL NOVENO DEL ARTÍCULO 143; MODIFICACIÓN AL PRIMER PÁRRAFO, A LA FRACCIÓN VII Y LA DEROGACIÓN DEL SEGUNDO PÁRRAFO RECORRIÉNDOSE LOS SUBSECUENTES DEL ARTÍCULO 144; ADICIÓN DE UN SEGUNDO, TERCER Y CUARTO PÁRRAFOS AL ARTÍCULO 145; PRIMER Y SEGUNDO PÁRRAFO (SIC) DEL ARTÍCULO 146; PRIMER PÁRRAFO DEL ARTÍCULO 147; FRACCIÓN III DEL ARTÍCULO 191; PRIMER PÁRRAFO, DEROGACIÓN DE LA FRACCIÓN VIII DELARTÍCULO (SIC) 197; POR MODIFICACIÓN DE LA FRACCIÓN VI DEL ARTÍCULO 199; PRIMER Y SEGUNDO PÁRRAFO (SIC) Y FRACCIONES I, II, III, IV, V Y VI DEL ARTÍCULO 204; DEROGACIÓN DE LA FRACCIÓN II DEL ARTICULO 205, FRACCIÓN VIII PASANDO LA ACTUAL A SER LA FRACCIÓN IX DEL ARTÍCULO 207; FRACCIÓN I DEL ARTÍCULO 208; PRIMER PÁRRAFO DEL ARTÍCULO 212; TERCER PÁRRAFO Y ADICIÓN DE UN CUARTO Y QUINTO PÁRRAFO (SIC) DEL ARTÍCULO 216; FRACCIÓN VI DEL ARTÍCULO 217; FRACCIÓN XXI PASANDO A SER LA XXII DEL ARTÍCULO 218; SEGUNDO PÁRRAFO DEL ARTÍCULO 219; ARTÍCULO 257 Y 258; MODIFICACIÓN DE LAS FRACCIONES IV, V, Y VI Y ADICIÓN DE UN PRIMERO, SEGUNDO, TERCERO, CUARTO, QUINTO, SEXTO, SÉPTIMO, OCTAVO, NOVENO Y DECIMO PÁRRAFOS DEROGANDO LAS FRACCIONES VII, VIII, IX, X Y XI DEL ARTÍCULO 260; LA FRACCIÓN II DEL ARTÍCULO 263; SEGUNDO PÁRRAFO DEL ARTÍCULO 266; PRIMER PÁRRAFO DEL ARTÍCULO 267; ARTICULO 269; PRIMER PÁRRAFO FRACCIÓN II, TERCER Y CUARTO PÁRRAFO (SIC) DEL ARTÍCULO 270; FRACCIÓN I Y SEGUNDO PÁRRAFO DEL ARTÍCULO 271; PRIMER PÁRRAFO DEL ARTÍCULO 272; MODIFICACIÓN DEL PÁRRAFO SEGUNDO DEL ARTÍCULO 278; MODIFICACIÓN DEL PÁRRAFO TERCERO DEL ARTÍCULO 280; DEROGACIÓN DE LOS ARTÍCULOS 355 Y 356; FRACCIÓN I DEL ARTÍCULO 358; SEGUNDO PÁRRAFO DEL ARTÍCULO 366; TERCER PÁRRAFO DEL ARTÍCULO 368; SEGUNDO Y TERCER PÁRRAFO (SIC) DEL ARTÍCULO 369; ADICIÓN DE UN SEGUNDO TERCERO Y CUARTO PÁRRAFOS DEL ARTÍCULO 370; DE LA LEY ELECTORAL PARA EL ESTADO DE NUEVO LEÓN.”]
+
+(NOTA: EL 26 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 83/2017 Y SUS ACUMULADAS 88/2017, 89/2017, 91/2017, 92/2017, 96/2017 Y 98/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+Primero. EL PRESENTE DECRETO ENTRARÁ EN VIGOR EL DÍA DE SU APROBACIÓN.
+
+Segundo. Los asuntos que se encuentren en trámite en la Comisión Estatal Electoral y en el Tribunal Electoral del Estado a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes al momento de su inicio.
+
+Tercero. La Comisión Estatal Electoral deberá adecuar sus Reglamentos Internos conforme a las disposiciones del presente Decreto, en un periodo máximo de noventa días naturales, posteriores a la entrada en vigor del presente Decreto.
+
+Cuarto. Para los efectos del proceso electoral 2017-2018 en los que se renueven el Congreso del Estado y Ayuntamientos, las precampañas iniciarán a partir del quince de marzo del año de la elección y terminarán el último día del mes de abril, en virtud de que la jornada electoral del 2018 se llevará acabo el primer domingo de julio de dicho año.
+
+Quinto. Para los efectos del proceso electoral 2017-2018 en los que se renueven el Congreso del Estado y Ayuntamientos, la etapa de preparación de la elección iniciará con la primera sesión de la Comisión Estatal Electoral en los primeros siete días del mes de noviembre del año anterior al de las elecciones, en virtud de que la jornada electoral del 2018 se llevará acabo el primer domingo de julio de dicho año.
+
+Sexto. Envíese al Ejecutivo del Estado para su inmediata publicación en el Periódico Oficial del Estado.
