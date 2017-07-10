@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2017-06-19"
+last_updated: "2017-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -203,11 +203,17 @@ g) Obligar a la mujer a parir en una posición en específico, cuando existan lo
 
 h) Obstaculizar sin causa médica justificada el apego precoz del recién nacido con su madre, negándole la posibilidad de cargarlo y amamantarlo inmediatamente después de nacer;
 
-i) Retener a la mujer o al producto de la concepción en los centros de salud o instituciones análogas por su incapacidad de pago; y
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
-> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2016)</small>
+i) Retener a la mujer o al producto de la concepción en los centros de salud o instituciones análogas por su incapacidad de pago;
 
-VII. Cualesquiera otras formas análogas que, por acción u omisión, lesionen o sean susceptibles de lesionar la dignidad, integridad o libertad de las mujeres.
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2017)</small>
+
+VII. Violencia en el tránsito por espacios públicos: es todo acto de hostigamiento que se realice en contra de una persona en la vía pública, en el que haya o no contacto físico; consiste en comentarios, gestos o expresiones de connotación sexual o discriminatoria en razón del género, acecho, actos de exhibicionismo y cualquier práctica que vulnere la integridad de las personas o genere inseguridad en su transitar por los espacios públicos; y
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+VIII. Cualesquiera otras formas análogas que por acción u omisión, lesionen o sean susceptibles de lesionar la dignidad, integridad o libertad de las mujeres.
 
 ###### Artículo 9°.
 
@@ -217,9 +223,17 @@ I. En el doméstico;
 
 II. En el laboral y docente;
 
-III. En el social; y
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
 
-IV. En el de las instituciones.
+III. En el social;
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+IV. En el de las instituciones; y
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2017)</small>
+
+V. En espacios públicos.
 
 ###### Artículo 10.
 
@@ -1378,3 +1392,15 @@ P.O. 19 DE JUNIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 10 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 117.- SE REFORMA Y ADICIONA LA LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se exhorta a los Ayuntamientos del Estado a armonizar sus disposiciones reglamentarias con la presente reforma dentro de los 180 días contados a partir de la entrada en vigencia de la misma, a fin de implementar mecanismos para sancionar el acoso callejero.
