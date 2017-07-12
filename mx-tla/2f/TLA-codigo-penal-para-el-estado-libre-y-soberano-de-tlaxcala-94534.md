@@ -4,7 +4,7 @@ identifier: "TLA-codigo-penal-para-el-estado-libre-y-soberano-de-tlaxcala-94534"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-31"
-last_updated: "2016-05-19"
+last_updated: "2017-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2017.
 
 Código publicado en el No. 2 Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 31 de mayo de 2013.
 
@@ -2469,29 +2469,37 @@ Al que prive de la vida a otro en riña se le impondrá la mitad o cinco sextos 
 
 A quien cometa homicidio calificado se le impondrá de veinte a cincuenta años de prisión y multa de mil cuatrocientos cuarenta a tres mil seiscientos días de salario.
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2017)</small>
 
 ###### Artículo 229.
 
-Comete el delito de feminicidio quien, por razones de género, prive de la vida a una mujer.
+Comete el delito de feminicidio quien prive de la vida a una mujer por razones de género. Se considera que existen razones de género cuando concurra alguna de las siguientes circunstancias:
 
-Existen razones de género cuando se presente cualquiera de los siguientes supuestos:
+I. La víctima presente signos de violencia sexual de cualquier tipo;
 
-I. Se actualice violencia de género; entendiéndose por ésta, la comisión del delito asociada a la exclusión, subordinación, discriminación o explotación de la sujeto pasivo;
-
-II. El sujeto activo haya ejecutado conductas sexuales, crueles o degradantes, o mutile a la pasivo o el cadáver de ésta;
+II. A la víctima se le hayan infligido lesiones o mutilaciones infamantes o degradantes, previas o posteriores a la privación de la vida o actos de necrofilia;
 
 III. Existan antecedentes o datos de cualquier tipo de violencia en el ámbito familiar, laboral o escolar, del sujeto activo en contra de la víctima;
 
-IV. Existan datos que establezcan que hubo amenazas relacionadas con el hecho delictuoso, acoso, violencia, o lesiones del sujeto activo en contra de la víctima; o
+IV. Haya existido entre el activo y la víctima una relación sentimental, afectiva o de confianza;
 
-V. El cadáver de la víctima sea expuesto, depositado o arrojado en un lugar público.
+V. Existan datos que establezcan que hubo amenazas relacionadas con el hecho delictuoso, acoso o lesiones del sujeto activo en contra de la víctima;
 
-> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+VI. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de la vida; y
+
+VII. El cuerpo de la víctima sea expuesto o exhibido en un lugar público.
+
+A quien cometa el delito de feminicidio se le impondrán de cuarenta a sesenta años de prisión y multa de dos mil ciento setenta a cuatro mil seiscientos veinte días de salario.
+
+Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
+
+En caso de que no se acredite el feminicidio, se aplicarán las reglas del homicidio.
+
+Al servidor público que retarde o entorpezca maliciosamente o por negligencia la procuración o administración de justicia se le impondrá pena de prisión de tres a ocho años y de quinientos a mil quinientos días multa, además será destituido e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión públicos.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2017)</small>
 
 ###### Artículo 229 Bis.
-
-A quien cometa feminicidio se le impondrán de treinta a setenta años de prisión y multa de dos mil ciento setenta a cuatro mil seiscientos veinte días de salario.
 
 Si entre el activo y la víctima existió una relación sentimental, afectiva, de confianza o de parentesco, laboral, docente o cualquiera que implique subordinación o superioridad, y se acredita cualquiera de los supuestos establecidos en el artículo anterior, se impondrán de cuarenta a setenta años de prisión y multa de dos mil ciento setenta a cuatro mil seiscientos veinte días de salario.
 
@@ -2501,13 +2509,23 @@ Si entre el activo y la víctima existió una relación sentimental, afectiva, d
 
 Además de las sanciones descritas en el artículo anterior, el sujeto activo será condenado a la pérdida de los derechos que le asistieran con relación a los bienes o patrimonio de la víctima, al momento de cometer el delito; así como los que hubiera tenido respecto a su persona, si no se consumare, quedando en tentativa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2017)</small>
+
 ###### Artículo 230.
 
-A quien prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, hermano, adoptante o adoptado, cónyuge, concubina o concubinario u otra relación de pareja permanente, con conocimiento de esa relación, se le impondrá prisión de veinticinco a cincuenta años y multa de mil ochocientos a tres mil seiscientos días de salario.
+A quien prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, hermano, adoptante o adoptado, o concubinario u otra relación de pareja permanente, con conocimiento de esa relación, se le impondrá prisión de veinticinco a cincuenta años y multa de mil ochocientos a tres mil seiscientos días de salario.
 
 Si faltare el conocimiento de la relación, se estará a la punibilidad prevista para el homicidio simple intencional.
 
 Si en la comisión de este delito concurre alguna circunstancia agravante de las previstas en el artículo 239 de este código, se impondrán de treinta a sesenta años de prisión y multa de dos mil ciento sesenta a cuatro mil seiscientos veinte días de salario.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2017)</small>
+
+###### Artículo 230 Bis.
+
+A quien prive de la vida a una mujer, sea su cónyuge, concubina o haya mantenido con ella alguna otra relación de pareja permanente, con conocimiento de esa relación, se le considerara feminicidio y se estará a lo dispuesto en el artículo 229 de este código.
+
+Si faltare el conocimiento de la relación, se estará a la punibilidad prevista para el homicidio simple intencional.
 
 ###### Artículo 231.
 
@@ -2927,6 +2945,8 @@ Si se ejerciera violencia, las penas previstas se aumentarán en una mitad.
 
 ### CAPÍTULO III. ESTUPRO
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2017)</small>
+
 ###### Artículo 290.
 
 Al que sin el consentimiento de una persona, ejecute en ella o la haga ejecutar uno o varios actos de naturaleza sexual, sin el propósito de llegar a la cópula, se le impondrá prisión de uno a tres años y multa de setenta y dos a doscientos dieciséis días de salario.
@@ -2955,35 +2975,57 @@ VI. Fuere cometido en despoblado o en lugar solitario.
 
 ### CAPÍTULO IV. HOSTIGAMIENTO SEXUAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2017)</small>
+
 ###### Artículo 293.
 
-Se impondrá de seis meses a cuatro años de prisión y multa de treinta y seis a doscientos ochenta y ocho días de salario, al que tenga cópula con una persona mayor de catorce años y menor de dieciocho, obteniendo su consentimiento por medio del engaño.
+Se impondrá de seis meses a cuatro años de prisión y multa de treinta y seis a doscientos ochenta y ocho días de salario:
 
-### CAPÍTULO I. PROCREACIÓN ASISTIDA E INSEMINACIÓN ARTIFICIAL
+I. A quien tenga cópula con una persona mayor de catorce años y menor de dieciocho, obteniendo su consentimiento por medio de la seducción y el engaño; y
+
+II. A quien introduzca por vía oral, vaginal o anal cualquier parte del cuerpo humano distinto al pene, o cualquier elemento o instrumento, a una persona mayor de catorce años y menos de dieciocho, obteniendo su consentimiento por la seducción y el engaño.
+
+Se procederá contra el inculpado del estupro por querella de la parte ofendida, de sus padres o, a falta de éstos, de sus representantes legítimos.
+
+### CAPÍTULO IV BIS. ACOSO SEXUAL
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2017)</small>
 
 ###### Artículo 294.
 
-A quien acose o asedie en forma reiterada a una persona con fines sexuales, a pesar de su oposición manifiesta y amenace con causarle un mal relacionado respecto a la actividad que los vincule, se le impondrá de seis meses a tres años de prisión y multa de treinta y seis a doscientos dieciséis días de salario.
+A quien acose o asedie a una persona con fines sexuales, a pesar de su oposición manifiesta y amenace con causarle un mal relacionado respecto a la actividad que los vincule, se le impondrá de seis meses a tres años de prisión y multa de treinta y seis a doscientos dieciséis días de salario.
 
 > <small>(ADICIONADO, P.O. 19 DE MAYO DE 2016)</small>
 
 La pena prevista para el delito de hostigamiento sexual, se aumentarán en dos terceras partes, cuando el sujeto pasivo del delito sea menor de doce años.
 
-### CAPÍTULO II. MANIPULACIÓN GENÉTICA
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2017)</small>
+
+### CAPÍTULO I. PROCREACIÓN ASISTIDA E INSEMINACIÓN ARTIFICIAL
+
+###### Artículo 294 Bis.
+
+Comete el delito de acoso sexual, a quien con fines de lujuria asedie a persona de cualquier sexo, aprovechándose de cualquier circunstancia que produzca desventaja, indefensión o riesgo inminente, para la víctima.
+
+De igual forma incurre en acoso sexual quien, sin consentimiento del sujeto pasivo y con propósitos de lujuria o erótico sexual, grabe, reproduzca, fije, publique, ofrezca, almacene, exponga, envíe, transmita, importe o exporte de cualquier forma, imágenes, texto, sonidos o la voz, de una persona, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio. Si la imagen obtenida, sin consentimiento, muestra al sujeto pasivo desnudo o semidesnudo, se acredita por ese sólo hecho, los propósitos señalados en este párrafo.
+
+Comete también el delito de acoso sexual quien con fines de lujuria asedie a cualquier persona, sin su consentimiento, en instalaciones o vehículos destinados al transporte público de pasajeros.
+
+En estos casos se impondrán penas de un año a cuatro años de prisión y de cien a trescientos días de multa. Si el pasivo del delito fuera menor de edad o persona que no tenga la capacidad para comprender el significado del hecho o de resistirlo, la pena se incrementará en un tercio.
 
 ###### Artículo 295.
 
 Si el sujeto activo fuese servidor público y se aprovechare de esa circunstancia, además de las penas previstas en el artículo anterior, se le destituirá de su cargo.
 
+### CAPÍTULO II. MANIPULACIÓN GENÉTICA
+
 ### CAPÍTULO I. PELIGRO DE CONTAGIO
 
 ### CAPÍTULO II. OMISIÓN DE CUIDADO
 
-### CAPÍTULO III. OMISIÓN DE AUXILIO
-
 ## TÍTULO DÉCIMO. PROCREACIÓN ASISTIDA, INSEMINACIÓN ARTIFICIAL Y MANIPULACIÓN GENÉTICA
 
-### CAPÍTULO IV. OMISIÓN DE AUXILIO A LESIONADOS
+### CAPÍTULO III. OMISIÓN DE AUXILIO
 
 ###### Artículo 296.
 
@@ -3007,7 +3049,7 @@ Además de las penas previstas, se impondrá suspensión para ejercer la profesi
 
 Si resultan hijos a consecuencia de la comisión de alguno de los delitos previstos en el presente capítulo, la reparación del daño comprenderá además, el pago de alimentos para éstos, para la madre y el padre, en los términos que fija la legislación familiar, civil y tratados internacionales en su caso.
 
-### CAPÍTULO V. EXPOSICIÓN DE INCAPACES O MENORES DE EDAD
+### CAPÍTULO IV. OMISIÓN DE AUXILIO A LESIONADOS
 
 ###### Artículo 301.
 
@@ -3021,7 +3063,7 @@ III. Realicen procedimientos de ingeniería genética con fines ilícitos.
 
 ## TÍTULO DÉCIMO PRIMERO. DELITOS DE PELIGRO CONTRA LAS PERSONAS
 
-### CAPÍTULO ÚNICO. NARCOMENUDEO
+### CAPÍTULO V. EXPOSICIÓN DE INCAPACES O MENORES DE EDAD
 
 ###### Artículo 302.
 
@@ -3029,7 +3071,7 @@ Al que sabiendo que padece una enfermedad grave en periodo infectante, ponga en 
 
 En caso de que se trate de una enfermedad incurable, se le impondrá una pena de tres a diez años de prisión y multa de doscientos dieciséis a setecientos veinte días de salario.
 
-### CAPÍTULO I. CONTRA LA SEGURIDAD DE LA COMUNIDAD
+### CAPÍTULO ÚNICO. NARCOMENUDEO
 
 ###### Artículo 303.
 
@@ -3037,19 +3079,19 @@ Se impondrá de tres meses a dos años de prisión y multa de dieciocho a ciento
 
 Si el sujeto activo fuere ascendiente o tutor de la víctima, se le privará del derecho de heredar respecto a la persona abandonada.
 
-### CAPÍTULO II. PORTACIÓN, FABRICACIÓN E IMPORTACIÓN DE OBJETOS APTOS PARA AGREDIR
+### CAPÍTULO I. CONTRA LA SEGURIDAD DE LA COMUNIDAD
 
 ###### Artículo 304.
 
 Se impondrá de tres a seis meses de prisión y multa de dieciocho a treinta y seis días de salario, al que omita auxiliar a una persona que por cualquier circunstancia, estuviese amenazada de un peligro, cuando pudiera hacerlo sin riesgo alguno o al que no estando en condiciones de llevarlo a cabo no diere inmediato aviso a la autoridad.
 
-### CAPÍTULO III. PANDILLA Y ASOCIACIÓN DELICTUOSA
+### CAPÍTULO II. PORTACIÓN, FABRICACIÓN E IMPORTACIÓN DE OBJETOS APTOS PARA AGREDIR
 
 ###### Artículo 305.
 
 A quien después de lesionar a una persona, culposa o fortuitamente, no le preste auxilio o no solicite la asistencia que requiere pudiendo hacerlo, se le impondrá de tres a seis meses de prisión y multa de dieciocho a treinta y seis días de salario.
 
-### CAPÍTULO ÚNICO. CONTRA LA SEGURIDAD EN LOS MEDIOS INFORMÁTICOS
+### CAPÍTULO III. PANDILLA Y ASOCIACIÓN DELICTUOSA
 
 ###### Artículo 306.
 
@@ -3065,7 +3107,7 @@ No se impondrá pena alguna a los padres que entreguen a su hijo o hijos a otras
 
 ## TÍTULO DÉCIMO SEGUNDO. DELITOS CONTRA LA SALUD EN SU MODALIDAD DE NARCOMENUDEO
 
-### CAPÍTULO I. ROBO
+### CAPÍTULO ÚNICO. CONTRA LA SEGURIDAD EN LOS MEDIOS INFORMÁTICOS
 
 ###### Artículo 309.
 
@@ -3073,7 +3115,7 @@ Para los efectos de este capítulo, son punibles las conductas que se relacionan
 
 ## TÍTULO DÉCIMO TERCERO. DELITOS CONTRA LA SEGURIDAD DE LA COMUNIDAD
 
-### CAPÍTULO II. ROBO DE GANADO
+### CAPÍTULO I. ROBO
 
 ###### Artículo 310.
 
@@ -3099,7 +3141,7 @@ Al responsable del delito contra la seguridad de la comunidad, se le impondrán 
 
 Las anteriores penas se aumentarán hasta en una mitad, cuando en la ejecución del delito se utilice uno o varios menores de edad o cuando el sujeto activo sea un servidor público vinculado a la seguridad pública, al ejército o a la armada o haya tenido tal carácter en los cinco años anteriores a la ejecución de la conducta típica o haya utilizado vehículos automotores con vidrios polarizados.
 
-### CAPÍTULO III. ABUSO DE CONFIANZA
+### CAPÍTULO II. ROBO DE GANADO
 
 ###### Artículo 311.
 
@@ -3107,7 +3149,7 @@ A quien porte, fabrique, importe o acopie sin un fin lícito instrumentos que pu
 
 Los servidores públicos podrán portar las armas necesarias para el ejercicio de su cargo, sujetándose a la reglamentación de las leyes respectivas.
 
-### CAPÍTULO IV. FRAUDE
+### CAPÍTULO III. ABUSO DE CONFIANZA
 
 ###### Artículo 312.
 
@@ -3133,7 +3175,7 @@ Se presumirá que existe asociación delictuosa cuando las mismas tres o más pe
 
 ## TÍTULO DÉCIMO CUARTO. DELITOS CONTRA LA SEGURIDAD EN LOS MEDIOS INFORMÁTICOS
 
-### CAPÍTULO V. ADMINISTRACIÓN FRAUDULENTA
+### CAPÍTULO IV. FRAUDE
 
 ###### Artículo 316.
 
@@ -3185,7 +3227,7 @@ II. Dato informático o información: toda representación de hechos, manifestac
 
 ## TÍTULO DÉCIMO QUINTO. DELITOS CONTRA EL PATRIMONIO
 
-### CAPÍTULO VI. INSOLVENCIA FRAUDULENTA EN PERJUICIO DE ACREEDORES
+### CAPÍTULO V. ADMINISTRACIÓN FRAUDULENTA
 
 ###### Artículo 321.
 
@@ -3297,7 +3339,7 @@ Se aumentará hasta en una mitad de la pena de prisión impuesta, si quien comet
 
 Se aplicará la mitad de las penas que correspondan, a quien de acuerdo con las circunstancias en que adquiera o reciba, debió suponer la procedencia ilegítima de los vehículos.
 
-### CAPÍTULO VII. USURA
+### CAPÍTULO VI. INSOLVENCIA FRAUDULENTA EN PERJUICIO DE ACREEDORES
 
 ###### Artículo 331.
 
@@ -3353,7 +3395,7 @@ I. A quien sin haber tomado las medidas necesarias para cerciorarse de su proced
 
 II. A las autoridades que intervengan en la indebida legalización de documentos u operaciones conociendo la ilegítima procedencia del ganado.
 
-### CAPÍTULO VIII. DESPOJO
+### CAPÍTULO VII. USURA
 
 ###### Artículo 335.
 
@@ -3379,7 +3421,7 @@ III. Se le haya dado la cosa en guarda y custodia y no la devuelve a pesar de se
 
 Se impondrán de dos a ocho años de prisión y multa de ciento cuarenta y cuatro a quinientos setenta y seis días de salario, a quien disponga indebidamente o se niegue sin justificación a entregar un vehículo recibido en depósito de autoridad competente o, bien, éste se encuentre relacionado con delitos por tránsito de vehículos, habiendo sido requerido por autoridad que conozca o siga conociendo del caso.
 
-### CAPÍTULO X. DAÑOS
+### CAPÍTULO VIII. DESPOJO
 
 ###### Artículo 338.
 
@@ -3453,21 +3495,19 @@ Se equipara al delito de fraude y se sancionará con prisión de dos a ocho año
 
 Al que alcance un lucro indebido para sí o para otro, valiéndose de alguna manipulación informática, alteración de programas sistematizados, del empleo no autorizado de datos o artificio semejante, se le impondrá prisión de tres meses a tres años y multa de dieciocho a doscientos dieciséis días de salario
 
-### CAPÍTULO XI. ENCUBRIMIENTO POR RECEPTACIÓN
+### CAPÍTULO X. DAÑOS
 
 ###### Artículo 342.
 
 A quien por cualquier motivo, teniendo a su cargo la administración, de hecho o de derecho, de bienes de ajenos, con ánimo de lucro, perjudique al titular de éstos, alterando las cuentas o condiciones de los contratos, haciendo aparecer operaciones o gastos inexistentes o exagerando los reales, ocultando o reteniendo valores o empleándolos indebidamente, o a sabiendas, realice operaciones perjudiciales al patrimonio del titular en beneficio propio o de un tercero, se le impondrán las penas previstas para el delito de fraude.
 
-### CAPÍTULO ÚNICO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
+### CAPÍTULO XI. ENCUBRIMIENTO POR RECEPTACIÓN
 
 ###### Artículo 343.
 
 A quien se coloque en estado de insolvencia, con el objeto de eludir las obligaciones a su cargo con respecto a sus acreedores, se le impondrán de seis meses a cuatro años de prisión y multa de treinta y seis a doscientos ochenta y ocho días de salario.
 
-### CAPÍTULO I
-
-DELITOS CONTRA LA FORMACIÓN DE LAS PERSONAS MENORES DE EDAD Y PROTECCIÓN INTEGRAL DE PERSONAS QUE NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
+### CAPÍTULO ÚNICO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
 
 ###### Artículo 344.
 
@@ -3485,7 +3525,9 @@ III. A quien disimule o encubra el interés o lucro mediante títulos de crédit
 
 Para los efectos de los artículos que anteceden se entenderá que las comisiones, réditos y lucros son usurarios si su importe global, anualizado, excede de sesenta por ciento del valor real que el sujeto pasivo haya recibido con motivo de la transacción de la que derive la ganancia. Para valorar este porcentaje se aplicará, en su caso, la legislación supletoria que corresponda.
 
-### CAPÍTULO II. PROVOCACIÓN DE UN DELITO Y APOLOGÍA DE ESTE O DE ALGÚN VICIO
+### CAPÍTULO I
+
+DELITOS CONTRA LA FORMACIÓN DE LAS PERSONAS MENORES DE EDAD Y PROTECCIÓN INTEGRAL DE PERSONAS QUE NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
 
 ###### Artículo 346.
 
@@ -3503,7 +3545,7 @@ Se impondrán de seis a doce años de prisión y multa de cuatrocientos treinta 
 
 Las anteriores penas serán aplicables aunque el derecho a la posesión sea dudoso o esté sujeto a litigio.
 
-### CAPÍTULO III. ULTRAJES A LA MORAL PÚBLICA
+### CAPÍTULO II. PROVOCACIÓN DE UN DELITO Y APOLOGÍA DE ESTE O DE ALGÚN VICIO
 
 ###### Artículo 348.
 
@@ -3537,7 +3579,7 @@ Si este delito se comete en bienes de dominio público o que por su valor histó
 
 Las penas señaladas en este capítulo se aumentarán hasta en una mitad más, cuando los daños en los bienes se causen con motivo u ocasión de un espectáculo deportivo, profesional, taurino, artístico u otros similares en que tiene lugar o en sus inmediaciones, antes, durante o después de su desarrollo.
 
-### CAPÍTULO IV. DISPOSICIONES COMUNES
+### CAPÍTULO III. ULTRAJES A LA MORAL PÚBLICA
 
 ###### Artículo 352.
 
@@ -3549,7 +3591,7 @@ Además de las sanciones que correspondan conforme al artículo anterior, la pri
 
 ## TÍTULO DÉCIMO SEXTO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
 
-### CAPÍTULO I. DELITOS CONTRA EL ESTADO CIVIL
+### CAPÍTULO IV. DISPOSICIONES COMUNES
 
 ###### Artículo 354.
 
@@ -3561,7 +3603,7 @@ Para efectos de este artículo se entiende que proceden o representan el product
 
 ## TÍTULO DÉCIMO SÉPTIMO. DELITOS CONTRA EL LIBRE DESARROLLO DE LA PERSONALIDAD
 
-### CAPÍTULO II. BIGAMIA
+### CAPÍTULO I. DELITOS CONTRA EL ESTADO CIVIL
 
 ###### Artículo 355.
 
@@ -3595,11 +3637,11 @@ Las penas que señalan los artículos anteriores, se duplicarán cuando el culpa
 
 Además, perderá la patria potestad respecto de todos sus descendientes, el derecho a alimentos que le correspondieran por su relación con la víctima y el derecho que pudiera tener respecto a los bienes de ésta.
 
+### CAPÍTULO II. BIGAMIA
+
 ### CAPÍTULO I. INCUMPLIMIENTO DE LA OBLIGACIÓN ALIMENTARIA
 
-### CAPÍTULO II. VIOLENCIA FAMILIAR
-
-### CAPÍTULO III. INCESTO
+### CAPÍTULO II. VIOLENCIA FAMILIAR Y DE GÉNERO
 
 ###### Artículo 359.
 
@@ -3607,7 +3649,7 @@ Se impondrá de tres a seis meses de prisión y multa de dieciocho a treinta y s
 
 En caso contrario, se impondrá la pena que le corresponda como instigador del delito cometido.
 
-### CAPÍTULO ÚNICO. DISCRIMINACIÓN
+### CAPÍTULO III. INCESTO
 
 ###### Artículo 360.
 
@@ -3617,7 +3659,9 @@ I. Al que fabrique, produzca o publique libros, escritos, imágenes u otros obje
 
 II. Al que ejecute o haga ejecutar por otro, en público exhibiciones obscenas.
 
-### CAPÍTULO ÚNICO. VIOLACIÓN A LAS LEYES DE INHUMACIÓN Y EXHUMACIÓN
+### CAPÍTULO ÚNICO. DISCRIMINACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2017)</small>
 
 ###### Artículo 361.
 
@@ -3629,7 +3673,7 @@ Las penas que se señalan en este título se aumentarán en una mitad, cuando el
 
 ## TÍTULO DÉCIMO OCTAVO. DELITOS CONTRA LA FILIACIÓN Y LA INSTITUCIÓN DEL MATRIMONIO
 
-### CAPÍTULO I. RESPONSABILIDAD PROFESIONAL Y TÉCNICA
+### CAPÍTULO ÚNICO. VIOLACIÓN A LAS LEYES DE INHUMACIÓN Y EXHUMACIÓN
 
 ###### Artículo 363.
 
@@ -3663,7 +3707,7 @@ Además de las penas señaladas en el artículo anterior, el autor o los autores
 
 Se impondrá de tres meses a dos años de prisión y multa de dieciocho a ciento cuarenta y cuatro días de salario, a quién contraiga o autorice matrimonio con conocimiento de la existencia de un impedimento o sin que hayan transcurrido los términos suspensivos para contraer matrimonio que señala la legislación civil.
 
-### CAPÍTULO II. USURPACIÓN DE PROFESIÓN
+### CAPÍTULO I. RESPONSABILIDAD PROFESIONAL Y TÉCNICA
 
 ###### Artículo 366.
 
@@ -3679,7 +3723,7 @@ Iguales penas se impondrán a quienes ejerzan la patria potestad o la tutela que
 
 ## TÍTULO DÉCIMO NOVENO. DELITOS CONTRA LA FAMILIA
 
-### CAPÍTULO III. ABANDONO, NEGACIÓN Y PRÁCTICA INDEBIDA DEL SERVICIO MÉDICO
+### CAPÍTULO II. USURPACIÓN DE PROFESIÓN
 
 ###### Artículo 368.
 
@@ -3703,7 +3747,9 @@ Para el caso de que la persona legitimada para ello otorgue el perdón, sólo pr
 
 Si la omisión en el cumplimiento de las obligaciones alimentarias, ocurre en desacato de una resolución judicial, las sanciones se incrementarán en una mitad.
 
-### CAPÍTULO IV. RESPONSABILIDAD DE DIRECTORES, ENCARGADOS, ADMINISTRADORES O EMPLEADOS DE CENTROS DE SALUD Y AGENCIAS FUNERARIAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE JULIO DE 2017)</small>
+
+### CAPÍTULO III. ABANDONO, NEGACIÓN Y PRÁCTICA INDEBIDA DEL SERVICIO MÉDICO
 
 ###### Artículo 372.
 
@@ -3715,11 +3761,19 @@ La educación o formación del menor no será en ningún caso considerada justif
 
 Si la víctima de violencia familiar fuera una mujer en estado de gravidez, se aumentará la pena que corresponda hasta en una tercera parte en su mínimo y en su máximo, independientemente de las penas que correspondan por cualquier otro delito.
 
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2017)</small>
+
+###### Artículo 372 Bis.
+
+A quien ejerza cualquier acto de violencia en contra de una mujer, se le impondrán se (sic) seis meses a cuatro años de prisión, y multa de treinta y seis a doscientos ochenta y ocho días de salario.
+
+Por violencia contra la mujer, se estará a lo dispuesto en la Ley que Garantiza el Acceso a las Mujeres a una vida libre de Violencia en el Estado de Tlaxcala.
+
 ###### Artículo 373.
 
 En cualquier momento, el Ministerio Público podrá solicitar a la autoridad judicial, la aplicación de medidas de protección para la víctima y esta última resolverá sin dilación.
 
-### CAPÍTULO V. PRESCRIPCIÓN O SUMINISTRO DE MEDICINAS NOCIVAS O INAPROPIADAS
+### CAPÍTULO IV. RESPONSABILIDAD DE DIRECTORES, ENCARGADOS, ADMINISTRADORES O EMPLEADOS DE CENTROS DE SALUD Y AGENCIAS FUNERARIAS
 
 ###### Artículo 374.
 
@@ -3727,11 +3781,11 @@ La cópula entre ascendientes y descendientes consanguíneos en línea recta o e
 
 ## TÍTULO VIGÉSIMO. DELITOS CONTRA LA DIGNIDAD DE LAS PERSONAS
 
-### CAPÍTULO VI. RESPONSABILIDAD DE LOS DIRECTORES RESPONSABLES DE OBRA O CORRESPONSABLES
+### CAPÍTULO V. PRESCRIPCIÓN O SUMINISTRO DE MEDICINAS NOCIVAS O INAPROPIADAS
 
 ###### Artículo 375.
 
-Se impondrán de uno a tres años de prisión y multa de setenta y dos a doscientos dieciséis días de salario, al que, por razón de edad, sexo, embarazo, estado civil, raza, precedencia étnica, idioma, religión, ideología, orientación sexual, color de piel, nacionalidad, origen o posición social, trabajo o profesión, posición económica, características físicas, discapacidad o estado de salud:
+Se impondrán de uno a tres años de prisión y multa de setenta y dos a doscientos dieciséis días de salario, al que por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas:
 
 I. Provoque o incite al odio o a la violencia;
 
@@ -3745,7 +3799,7 @@ Iguales penas se impondrá al servidor público que niegue o retarde a una perso
 
 ## TÍTULO VIGÉSIMO PRIMERO. DELITOS CONTRA EL RESPETO A LOS CADÁVERES O RESTOS HUMANOS
 
-### CAPÍTULO I. ATAQUES A LAS VÍAS Y MEDIOS DE COMUNICACIÓN Y DE TRANSPORTE
+### CAPÍTULO VI. RESPONSABILIDAD DE LOS DIRECTORES RESPONSABLES DE OBRA O CORRESPONSABLES
 
 ###### Artículo 376.
 
@@ -3767,7 +3821,7 @@ Si los actos de necrofilia consisten en la introducción del miembro viril por v
 
 ## TÍTULO VIGÉSIMO SEGUNDO. DELITOS COMETIDOS EN EL EJERCICIO DE LA PROFESIÓN
 
-### CAPÍTULO II. VIOLACIÓN DE LA COMUNICACIÓN PRIVADA
+### CAPÍTULO I. ATAQUES A LAS VÍAS Y MEDIOS DE COMUNICACIÓN Y DE TRANSPORTE
 
 ###### Artículo 378.
 
@@ -3775,13 +3829,13 @@ Los profesionistas, artistas o técnicos y sus auxiliares, serán responsables d
 
 Además de las sanciones fijadas para los delitos que resulten consumados, se les impondrá de tres meses a dos años de prisión y multa de dieciocho a ciento cuarenta y cuatro días de salario, así como suspensión de un mes a dos años en el ejercicio de la profesión o definitiva en caso de reiteración y estarán obligados a la reparación del daño por sus propios actos y los de sus auxiliares, cuando éstos actúen de acuerdo con las instrucciones de aquellos.
 
-### CAPÍTULO III. DELITO CONTRA LA PRESTACIÓN DEL SERVICIO PÚBLICO DE TRANSPORTE
+### CAPÍTULO II. VIOLACIÓN DE LA COMUNICACIÓN PRIVADA
 
 ###### Artículo 379.
 
 A quien se atribuya el carácter de profesionista u ostente algún posgrado o especialidad, sin haber cursado los estudios para obtener el título o certificación expedida por autoridades u organismos legalmente facultados para ello y ofrezca o desempeñe sus servicios bajo ese carácter, se le impondrá de seis meses a cuatro años de prisión y multa de treinta y seis a doscientos ochenta y ocho días de salario.
 
-### CAPÍTULO I. FALSIFICACIÓN O ALTERACIÓN DE TÍTULOS AL PORTADOR Y DOCUMENTOS DE CRÉDITO PÚBLICO
+### CAPÍTULO III. DELITO CONTRA LA PRESTACIÓN DEL SERVICIO PÚBLICO DE TRANSPORTE
 
 ###### Artículo 380.
 
@@ -3807,7 +3861,7 @@ III. Sin autorización del paciente o de la persona que ante la imposibilidad o 
 
 IV. Practique esterilización con fines de infecundidad, sin la voluntad del paciente o ejerza presión para que éste la admita.
 
-### CAPÍTULO II. FALSIFICACIÓN DE SELLOS, MARCAS, LLAVES, CUÑOS, TROQUELES, CONTRASEÑAS Y OTROS
+### CAPÍTULO I. FALSIFICACIÓN O ALTERACIÓN DE TÍTULOS AL PORTADOR Y DOCUMENTOS DE CRÉDITO PÚBLICO
 
 ###### Artículo 383.
 
@@ -3823,7 +3877,7 @@ IV. Retarden o nieguen la entrega de un cadáver, excepto cuando se requiera ord
 
 La misma pena se impondrá a los directores, encargados, administradores o empleados de agencias funerarias que retarden o nieguen indebidamente la entrega de un cadáver.
 
-### CAPÍTULO III. ELABORACIÓN O ALTERACIÓN Y USO INDEBIDO DE PLACAS, ENGOMADOS Y DOCUMENTOS DE IDENTIFICACIÓN DE VEHÍCULOS AUTOMOTORES
+### CAPÍTULO II. FALSIFICACIÓN DE SELLOS, MARCAS, LLAVES, CUÑOS, TROQUELES, CONTRASEÑAS Y OTROS
 
 ###### Artículo 384.
 
@@ -3833,7 +3887,7 @@ Al médico o enfermero que prescriba o suministre un medicamento evidentemente i
 
 A los encargados, empleados o dependientes de una farmacia, que al surtir una receta sustituyan la medicina específicamente señalada por otra que ponga en peligro la salud o cause daño o sea evidentemente inapropiada al padecimiento para el que se prescribió, se les impondrán de tres meses a dos años de prisión y multa de dieciocho a ciento cuarenta y cuatro días de salario.
 
-### CAPÍTULO IV. FALSIFICACIÓN O ALTERACIÓN Y USO INDEBIDO DE DOCUMENTOS
+### CAPÍTULO III. ELABORACIÓN O ALTERACIÓN Y USO INDEBIDO DE PLACAS, ENGOMADOS Y DOCUMENTOS DE IDENTIFICACIÓN DE VEHÍCULOS AUTOMOTORES
 
 ###### Artículo 386.
 
@@ -3841,7 +3895,7 @@ Al Director Responsable de Obra y a quien la ejecute en su nombre que permita de
 
 ## TÍTULO VIGÉSIMO TERCERO. DELITOS CONTRA LA SEGURIDAD DE LAS VÍAS Y MEDIOS DE COMUNICACIÓN Y DE TRANSPORTE
 
-### CAPÍTULO I. DELITOS CONTRA EL CONSUMO
+### CAPÍTULO IV. FALSIFICACIÓN O ALTERACIÓN Y USO INDEBIDO DE DOCUMENTOS
 
 ###### Artículo 387.
 
@@ -3865,9 +3919,9 @@ Se impondrá de quince a treinta años de prisión y multa de mil ochenta a dos 
 
 Si alguno de los hechos a que se refieren los artículos de este capítulo, se ejecuta por medio de violencia, la pena se aumentara en dos tercios.
 
-### CAPÍTULO II. DELITOS CONTRA EL TRABAJO Y LA PREVISIÓN SOCIAL
+### CAPÍTULO I. DELITOS CONTRA EL CONSUMO
 
-### CAPÍTULO ÚNICO. DELITOS CONTRA EL AMBIENTE
+### CAPÍTULO II. DELITOS CONTRA EL TRABAJO Y LA PREVISIÓN SOCIAL
 
 ###### Artículo 392.
 
@@ -3889,7 +3943,7 @@ A quien intervenga comunicaciones privadas sin mandato de autoridad judicial com
 
 A quien revele, divulgue, utilice indebidamente o en perjuicio de otro, información o imágenes obtenidas en una intervención de comunicación privada, se le impondrán de tres a doce años de prisión y multa de doscientos dieciséis a ochocientos sesenta y cuatro días de salario.
 
-### CAPÍTULO ÚNICO. DELITOS ELECTORALES
+### CAPÍTULO ÚNICO. DELITOS CONTRA EL AMBIENTE
 
 ###### Artículo 396.
 
@@ -3906,6 +3960,8 @@ Quien conduzca un vehículo que preste servicio público de transporte con una s
 Las penas aplicables a que se refiere el artículo anterior, se aumentarán de una a dos terceras partes a quien obtenga y/o utilice indebidamente cualquier documento, tarjeta o placa de circulación y engomado que corresponda al que identifique las unidades que presten el servicio público de transporte.
 
 ## TÍTULO VIGÉSIMO CUARTO. DELITOS CONTRA LA FE PÚBLICA
+
+### CAPÍTULO ÚNICO. DELITOS ELECTORALES
 
 ###### Artículo 398.
 
@@ -4402,3 +4458,19 @@ P.O. 19 DE MAYO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 20.- SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al contenido del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Las indagatorias penales y/o carpetas de investigaciones que se inicien y los procesos penales que se instruyan con motivo de hechos probablemente constitutivos de delito, ocurridos previamente a la entrada en vigor del presente Decreto se regirán por las disposiciones del Código Penal para el Estado Libre y Soberano de Tlaxcala vigentes en el momento en que acontecieron.
