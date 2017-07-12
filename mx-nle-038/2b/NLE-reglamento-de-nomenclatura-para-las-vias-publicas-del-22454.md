@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-nomenclatura-para-las-vias-publicas-del-22454"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-10-24"
-last_updated: "2001-10-24"
+last_updated: "2017-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE: NOMENCLATURA PARA LAS VIAS PUBLICAS DEL MUNICIPIO DE MONTEMORELOS, NUEVO LEON
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 24 de octubre de 2001.
 
@@ -65,7 +65,9 @@ VII.- Nomenclatura: La denominación que se asigne a los bienes del Municipio.
 
 VIII.- Denominación: El nombre que específicamente se le asigna a una (sic) bien del Municipio.
 
-IX.- Cuota: El salario mínimo general diario vigente en este Municipio.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2017)</small>
+
+IX.- Cuota: Cuota Vigente en este Municipio.
 
 ###### Artículo 4.
 
@@ -243,6 +245,14 @@ En la medida que se modifiquen las condiciones socioeconómicas del Municipio, e
 
 Para garantizar la participación ciudadana en la revisión para la modificación o actualización, toda persona residente en el Municipio tiene la facultad de realizar por escrito sugerencias, ponencias o quejas en relación con el contenido normativo de este Reglamento, escrito que deberá dirigirse al Secretario del Ayuntamiento, a fin de que previo análisis, el Presidente Municipal dé cuenta de una síntesis de tales propuestas en sesión ordinaria del R. Ayuntamiento.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 12 DE JULIO DE 2017)</small>
+
+### CAPÍTULO VIII. DE LOS DERECHOS HUMANOS
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2017)</small>
+
+Artículo 38 (SIC).- Las dependencias y entidades administrativas de la Administración Pública Municipal responsables de la aplicación del presente reglamento tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, invisibilidad y progresividad, establecidos en la Constitución Política de los Estados Unidos Mexicanos.
+
 T R A N S I TO R I O S
 
 Artículo Primero.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -266,3 +276,11 @@ DR. HÉCTOR M. GARZA DE ALEJANDRO
 EL C. SECRETARIO DEL AYUNTAMIENTO
 
 PROFR. RICARDO A. DE LEÓN GARCÍA
+
+P.O. 12 DE JULIO DE 2017.
+
+> <small>[N. DE E. ACUERDO POR EL QUE “SE APRUEBA LA REFORMA POR MODIFICACIÓN Y ADICIÓN AL REGLAMENTO DE NOMENCLATURA PARA LAS VÍAS PÚBLICAS DEL MUNICIPIO DE MONTEMORELOS, N.L.”]</small>
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Publíquense las presentes reformas en el Periódico Oficial del Estado.
