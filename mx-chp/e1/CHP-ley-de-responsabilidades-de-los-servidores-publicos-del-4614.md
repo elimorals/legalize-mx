@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-responsabilidades-de-los-servidores-publicos-del-4614"
 country: "mx"
 rank: "ley"
 publication_date: "1989-01-25"
-last_updated: "2016-04-27"
+last_updated: "2017-07-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 25 de enero de 1989.
 
@@ -1060,3 +1060,31 @@ P.O. 27 DE ABRIL DE 2016.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 213 LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor el día diecinueve de julio del año 2017, sin perjuicio de lo previsto en los transitorios siguientes.
+
+Artículo Segundo.- En tanto entra en vigor la Ley de Responsabilidades Administrativas para el Estado de Chiapas, seguirá aplicándose en materia de responsabilidades administrativas, la legislación que se encuentra vigente al momento de la publicación de la presente Ley.
+
+Artículo Tercero.- Los procedimientos administrativos iniciados por las autoridades con anterioridad a la entrada en vigor de la presente Ley, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
+
+Artículo Cuarto.- Para darle mayor efectividad a la actuación de los órganos de control interno, los dictámenes, proyectos de acuerdo o de resolución y demás actos que al efecto emitan dentro del ámbito de sus atribuciones, no estarán sujetos a ningún tipo de aprobación o rechazo por parte de los entes públicos o de los organismos constitucionales autónomos.
+
+Los órganos de control interno, no se encontraran obligados a responder aquellos requerimientos de información realizados por los entes públicos o por los organismos constitucionales autónomos, con respecto de los cuales tengan a su cargo la promoción, evaluación y el fortalecimiento del control interno de los mismos.
+
+Serán inaplicables todas aquellas disposiciones contrarias a lo establecido en el presente artículo.
+
+Artículo Quinto.- A la fecha de entrada en vigor de la presente Ley, todas las menciones de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas, previstas en las leyes locales, así como en cualquier disposición jurídica, se entenderán referidas a la presente Ley de Responsabilidades Administrativas para el Estado de Chiapas, con excepción de lo dispuesto en el artículo segundo transitorio, y resulte aplicable la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas.
+
+Artículo Sexto.- Una vez en vigor la Ley de Responsabilidades Administrativas para el Estado de Chiapas, y hasta en tanto el Comité Coordinador del Sistema Anticorrupción del Estado de Chiapas determina los formatos para la presentación de las declaraciones patrimonial y de intereses, los servidores públicos sujetos de la presente Ley, presentarán sus declaraciones en los formatos que a la entrada en vigor de la referida Ley, se utilicen en el ámbito de sus respectivas competencias.
+
+Artículo Séptimo.- Con la entrada en vigor de la presente Ley, quedará abrogada la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas, publicada en el Periódico Oficial, mediante Decreto Número 25, de fecha 25 de enero de 1989, salvo para efectos de lo previsto en el artículo Tercero Transitorio del presente ordenamiento.
+
+Artículo Octavo.- Con la entrada en vigor de la presente Ley, quedará sin efectos el Acuerdo por el que se Emiten los Lineamientos para la Presentación de Declaración de Posible Conflicto de Interés a Cargo de los Servidores Públicos de las Dependencias y Entidades de la Administración Pública del Estado de Chiapas, publicado en (sic) Periódico Oficial número 222, Segunda Sección, Tomo III, de fecha 03 de febrero de 2016.
+
+Artículo Noveno.- Dentro de los 180 días hábiles siguientes a la entrada en vigor del presente Decreto, la Secretaría de la Contraloría General del Estado, deberá expedir su Reglamento Interior, para el debido cumplimiento de las disposiciones de la presente Ley.
+
+Artículo Décimo.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
