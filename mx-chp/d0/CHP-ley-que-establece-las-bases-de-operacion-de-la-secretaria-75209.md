@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-establece-las-bases-de-operacion-de-la-secretaria-75209
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-17"
-last_updated: "2015-12-16"
+last_updated: "2017-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75209&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el sábado 17 de abril de 2010.
 
@@ -140,6 +140,18 @@ XIII. Establecer y operar la política, acuerdos, lineamientos y normatividad pe
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2015)</small>
 
 XIV. Implementar y operar la capacitación, adiestramiento y profesionalización de las Instituciones Policiales de la Secretaría, los Municipios y los prestadores de servicios de seguridad privada.
+
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2017)</small>
+
+XV. Operar, resguardar, coordinar, planear, y evaluar la Red Estatal de Radiocomunicaciones.
+
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2017)</small>
+
+XVI. Controlar, planear, coordinar, evaluar y dirigir el servicio de llamadas de emergencia y el servicio de denuncia anónima en todo el Estado.
+
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2017)</small>
+
+XVII. Garantizar la cobertura de la Red Estatal de Telecomunicaciones que permita la intercomunicación entre las dependencias en materia de seguridad pública y protección civil de los tres niveles de gobierno, con la finalidad de poder salvaguardar la seguridad e integridad de los ciudadanos de nuestro Estado.
 
 ###### Artículo 5.
 
@@ -1104,3 +1116,11 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Artículo Tercero.- El titular de la Secretaría de Seguridad y Protección Ciudadana, deberá someter a consideración y aprobación del titular del Ejecutivo del estado, el proyecto de reforma al reglamento de la presente Ley, y demás normatividad que resulte aplicable en la materia, en un plazo no mayor a noventa días hábiles siguientes a la publicación del presente Decreto.
+
+P.O. 12 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 216 POR EL QUE SE ADICIONAN LAS FRACCIONES XV, XVI Y XVII AL ARTÍCULO 4 DE LA LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
