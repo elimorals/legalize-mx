@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-instituciones-y-procedimientos-electorales-del-101778"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-30"
-last_updated: "2017-06-08"
+last_updated: "2017-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 30 de junio de 2014.
 
@@ -2287,7 +2287,9 @@ Será pública toda la información y documentación del Instituto Electoral de 
 
 No será pública la información o documentación cuya divulgación afecte el cumplimiento de los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad o que lesione o pueda lesionar las medidas de seguridad que para la organización de los procesos electorales se requieren. Tampoco será pública la información que deba considerarse reservada y confidencial en términos de esta Ley de Instituciones y otras leyes.
 
-## TÍTULO SEGUNDO. DE LOS ÓRGANOS CENTRALES DEL INSTITUTO ELECTORAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE JULIO DE 2017)</small>
+
+## TÍTULO SEGUNDO. DE LOS ÓRGANOS CENTRALES, DIRECCIONES EJECUTIVAS, ÓRGANOS TÉCNICOS Y ÓRGANO INTERNO DE CONTROL DEL INSTITUTO ELECTORAL
 
 ### CAPÍTULO PRIMERO. DEL CONSEJO GENERAL
 
@@ -2323,7 +2325,7 @@ Los partidos políticos y los candidatos independientes podrán sustituir a sus 
 
 El Consejo General del Instituto Electoral contará con los siguientes órganos técnicos:
 
-I. Contraloría Interna;
+I. (DEROGADA, P.O. 13 DE JULIO DE 2017)
 
 II. Asesoría Jurídica;
 
@@ -2391,9 +2393,11 @@ El Presidente y los consejeros electorales que integran el Consejo General del I
 
 Los consejeros electorales, el Secretario Ejecutivo y los demás servidores públicos del Instituto Electoral desempeñarán su función con autonomía y probidad. No podrán utilizar ni divulgar en beneficio propio o de terceros, la información reservada o confidencial de que dispongan en razón de su cargo.
 
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
+
 ###### Artículo 266.
 
-El Secretario Ejecutivo y los demás servidores públicos del Instituto Electoral estarán sujetos al régimen de responsabilidades establecidas en el Capítulo XVII de la Constitución Estatal.
+El Secretario Ejecutivo y los demás servidores públicos del Instituto Electoral estarán sujetos al régimen de responsabilidades establecidas en la Ley General de Responsabilidades Administrativas.
 
 ###### Artículo 267.
 
@@ -2479,7 +2483,9 @@ III. Designar y remover al Secretario Ejecutivo por el voto de las dos terceras 
 
 IV. Designar de entre los directores ejecutivos, al que se hará cargo del despacho de la Secretaría Ejecutiva durante las ausencias temporales o accidentales de su titular;
 
-V. Designar y remover a los titulares de las Direcciones Ejecutivas, Contraloría Interna, Asesoría Jurídica, Unidad de Vinculación con el Instituto Nacional, áreas administrativas especializadas conforme a la propuesta que presente el Presidente y con la debida observancia a las disposiciones de la Ley de los Trabajadores al Servicio del Gobierno del Estado. En caso de ser delegada por el Instituto Nacional las funciones de fiscalización, se deberá designar y remover al titular de la Unidad de Fiscalización mediante el procedimiento indicado para los demás titulares;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+V. Designar y remover a los titulares de las Direcciones Ejecutivas, Asesoría Jurídica, Unidad de Vinculación con el Instituto Nacional, áreas administrativas especializadas conforme a la propuesta que presente el Presidente y con la debida observancia a las disposiciones de la Ley de los Trabajadores al Servicio del Gobierno del Estado. En caso de ser delegada por el Instituto Nacional las funciones de fiscalización, se deberá designar y remover al titular de la Unidad de Fiscalización mediante el procedimiento indicado para los demás titulares;
 
 VI. Designar conforme al procedimiento que en su oportunidad apruebe el propio Consejo General, a los consejeros electorales de los consejos municipales y distritales y a quienes fungirán como presidentes, mediante votación de la mayoría de los consejeros presentes del Consejo General, a más tardar el quince de noviembre del año anterior de la elección;
 
@@ -2517,7 +2523,9 @@ XXII. Informar al Congreso del Estado sobre el otorgamiento de las constancias d
 
 XXIII. Rendir a través de la Unidad de Vinculación el informe anual del ejercicio de las facultades delegadas al Instituto Electoral por el Instituto Nacional;
 
-XXIV. Conocer los informes trimestrales y anual que la Junta General Ejecutiva, la Contraloría Interna, la Unidad de Vinculación con el Instituto Nacional y la Unidad de Acceso a la Información Pública del Instituto Electoral rindan por conducto de los titulares respectivos;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+XXIV. Conocer los informes trimestrales y anual que la Junta General Ejecutiva, la Unidad de Vinculación con el Instituto Nacional y la Unidad de Acceso a la Información Pública del Instituto Electoral rindan por conducto de los titulares respectivos; así mismo recibir y conocer los informes trimestrales y anuales del Órgano Interno de control a través de su titular.
 
 XXV. Resolver los Recursos de Revisión que se interpongan contra actos y resoluciones de los consejos municipales y distritales y de los directores ejecutivos del Instituto y remitir a la autoridad jurisdiccional electoral local los demás medios de impugnación que contra las resoluciones del propio Consejo General se interpongan;
 
@@ -2565,13 +2573,17 @@ IV. Convocar y conducir las sesiones del Consejo General;
 
 V. Designar al Consejero Electoral que lo sustituirá en sus ausencias temporales por más de quince días hábiles;
 
-VI. Proponer al Consejo General el nombramiento de los titulares de la Secretaría Ejecutiva, de las direcciones ejecutivas, de la Contraloría Interna, de la Asesoría Jurídica, de la Unidad de Vinculación con el Instituto Nacional y de áreas administrativas especializadas; y en caso de ser delegada la función de fiscalización, al titular de la Unidad de Fiscalización en los términos de esta Ley de Instituciones;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+VI. Proponer al Consejo General el nombramiento de los titulares de la Secretaría Ejecutiva, de las Direcciones Ejecutivas, de la Asesoría Jurídica, de la Unidad de Vinculación con el Instituto Nacional y de áreas administrativas especializadas; y en caso de ser delegada la función de fiscalización, al titular de la Unidad de Fiscalización en los términos de esta Ley de Instituciones;
 
 VII. Suscribir con el Secretario Ejecutivo, los nombramientos de los servidores públicos del Instituto;
 
 VIII. Designar de entre los integrantes de la Junta General Ejecutiva a quien sustanciará y emitirá proyecto de resolución, por impedimento del Secretario Ejecutivo, respecto del Recurso de Revisión que se interponga en contra de los actos o resoluciones de los órganos o de los directores ejecutivos del Instituto Electoral;
 
-IX. Conceder licencia para separarse temporalmente de su cargo, hasta por treinta días hábiles, a los directores ejecutivos, a los titulares de la Contraloría Interna, Asesoría Jurídica del Consejo General, Unidad de Vinculación con el Instituto Nacional y, en caso, de ser delegada la función de fiscalización, al titular de la Unidad de Fiscalización. Cuando la licencia sea por tiempo mayor al antes expresado, su concesión corresponderá al referido Consejo;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+IX. Conceder licencia para separarse temporalmente de su cargo, hasta por treinta días hábiles a los Directores Ejecutivos, Titulares de los Órganos Técnicos y al Titular del Órgano Interno de Control. Cuando la licencia sea por tiempo mayor al antes expresado, su concesión corresponderá al referido Consejo.
 
 X. Remitir al titular del Poder Ejecutivo del Estado el proyecto de presupuesto del Instituto Electoral, aprobado por el Consejo General;
 
@@ -2849,11 +2861,161 @@ IX. Actuar como Secretario Técnico de la Comisión de Capacitación Electoral y
 
 X. Las demás atribuciones que le confieran esta Ley de Instituciones u otras disposiciones reglamentarias.
 
-### CAPÍTULO PRIMERO. DE LOS CONSEJOS ELECTORALES DISTRITALES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JULIO DE 2017)</small>
+
+### CAPÍTULO SEXTO. DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+
+###### Artículo 290
+
+1.- El Órgano Interno de Control es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del Instituto Electoral y de particulares vinculados con faltas no graves; para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa del Estado; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+
+###### Artículo 290
+
+2.- El Órgano Interno de Control del Instituto Electoral será el órgano facultado para conocer de las infracciones administrativas cometidas por todos los servidores públicos del Instituto Electoral, e imponer, en su caso, las sanciones aplicables de acuerdo a la normatividad correspondiente.
+
+El Titular del Órgano Interno de Control tendrá un nivel jerárquico equivalente a Director Ejecutivo.
+
+El Titular del Órgano Interno de Control del Instituto Electoral será designado por el Congreso del Estado con el voto de las dos terceras partes de sus miembros presentes a propuesta de instituciones públicas de educación superior, de conformidad con los procedimientos internos del Congreso.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+
+###### Artículo 290
+
+3.- En su desempeño, el Órgano Interno de Control se sujetará a los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+
+###### Artículo 290
+
+4.- El Titular del Órgano Interno de Control deberá reunir los mismos requisitos que esta Ley de Instituciones establece para los directores ejecutivos del Instituto Electoral, y los siguientes:
+
+a) No ser consejero electoral de cualquiera de los consejos del Instituto Electoral, salvo que se haya separado del cargo tres años antes del día de la designación;
+
+b) Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratara de robo, fraude, falsificación, abuso de confianza u otro que afecte la buena fama en el concepto público, ello lo inhabilitará para el cargo, cualquiera que haya sido la pena;
+
+c) Contar al momento de su designación con experiencia profesional de al menos cinco años en el control, manejo o fiscalización de recursos;
+
+d) Contar al día de su designación, con antigüedad mínima de cinco años, con título profesional de contador público, licenciado en economía, licenciado en administración, licenciado en derecho o cualquier otro título profesional relacionado con las actividades de fiscalización, control interno, administrativas o contenciosas, expedido por autoridad o institución legalmente facultada para ello, y
+
+e) No pertenecer o haber pertenecido en los cuatro años anteriores a su designación a despachos de consultoría o auditoría que hubieren prestado sus servicios al Instituto Electoral o a algún partido político.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+
+###### Artículo 290
+
+5.- El Titular del Órgano Interno de Control podrá ser sancionado conforme a la Ley General de Responsabilidades Administrativas por las siguientes causas graves:
+
+a) Utilizar en beneficio propio o de terceros la documentación e información confidencial en los términos de la presente Ley de Instituciones y de la legislación en la materia;
+
+b) Dejar de fincar responsabilidades o aplicar sanciones pecuniarias, en el ámbito de su competencia, cuando esté debidamente comprobada la responsabilidad e identificado el responsable como consecuencia de las revisiones e investigaciones que realice en el ejercicio de sus atribuciones;
+
+c) Sustraer, destruir, ocultar o utilizar indebidamente la documentación e información que por razón de su cargo tenga a su cuidado o custodia o que exista en el Órgano Interno de Control, con motivo del ejercicio de sus atribuciones;
+
+d) Conducirse con parcialidad en los procedimientos de supervisión e imposición de sanciones a que se refiere esta Ley de Instituciones, y
+
+e) Incurrir en alguna de las infracciones mencionadas en la Ley General de Responsabilidades Administrativas.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+
+###### Artículo 290
+
+6.- Durará seis años en el cargo y podrá ser reelecto por una sola vez. Estará adscrito administrativamente a la Presidencia del Consejo General.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+
+###### Artículo 290
+
+7.- El Órgano Interno de Control para su funcionamiento contará con un área de investigación y un área de substanciación, independientemente de otras que por sus funciones requiera. Los servidores públicos adscritos al Órgano Interno de Control del Instituto Electoral, deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo del desempeño de sus facultades así como de sus actuaciones y observaciones.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+
+###### Artículo 290
+
+8.- El Órgano Interno de Control tendrá las siguientes facultades:
+
+I. Fijar los criterios para la realización de las auditorias, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de los recursos a cargo de las áreas del Instituto Electoral, así como la supervisión del Control Interno;
+
+II. Establecer las normas, procedimientos, métodos y sistemas de contabilidad y de archivo, de los libros y documentos justificativos y comprobatorios del ingreso y del gasto, así como aquellos elementos que permitan la práctica idónea de las auditorías y revisiones, que realice en el cumplimiento de sus funciones;
+
+III. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos;
+
+IV. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos del Instituto Electoral;
+
+V. Elaborar y ejecutar el programa anual de auditoría interna; vigilando la correcta ejecución de las auditorías internas que se determinen, estableciendo la extensión y profundidad que las mismas requieran;
+
+VI. Verificar trimestralmente, que las áreas del Instituto Electoral cumplan los criterios, objetivos y programas correspondientes;
+
+VII. Verificar que las diversas áreas administrativas del Instituto Electoral que hubieren recibido, manejado, administrado o ejercido recursos, lo hagan conforme a la normatividad aplicable, los programas aprobados y los montos autorizados, así como en el caso de los egresos, con cargo a las partidas correspondientes y con apego a las disposiciones legales, reglamentarias y administrativas conducentes; que las operaciones financieras se registren contable y presupuestalmente en forma correcta y oportuna; que la calidad de los controles administrativos protejan el patrimonio del Instituto Electoral.
+
+VIII. Revisar que las operaciones presupuestales que realice el Instituto Electoral se hagan con apego a las disposiciones legales y administrativas aplicables a estas materias.
+
+IX. Verificar las obras, bienes adquiridos o arrendados y servicios contratados, para comprobar que las inversiones y gastos autorizados se han aplicado, legal y eficientemente al logro de los objetivos y metas de los programas aprobados;
+
+X. Aplicar y, en su caso, promover ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorías;
+
+XI. Formular pliegos de observaciones en materia administrativa;
+
+XII. Dar seguimiento a las recomendaciones que, como resultado de las auditorías, se hayan formulado a las áreas del Instituto Electoral;
+
+XIII. Investigar, en el ámbito de su competencia, los actos u omisiones que se registren en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Instituto Electoral;
+
+XIV. Emitir los lineamientos, instruir, desahogar y resolver los procedimientos administrativos respecto de las quejas que se presenten en contra de los servidores públicos del Instituto Electoral, y llevar el registro de los servidores públicos sancionados;
+
+XV. Recibir, tramitar y resolver las inconformidades que presenten los proveedores o contratistas, respecto de los actos de las licitaciones públicas y adjudicaciones de pedidos y contratos;
+
+XVI. Efectuar visitas a las sedes físicas de las áreas y órganos del Instituto Electoral para solicitar la exhibición de los libros y papeles indispensables para la realización de sus investigaciones, sujetándose a las formalidades respectivas;
+
+XVII. Establecer los mecanismos de orientación, asesoría y cursos de capacitación que resulten necesarios para que los servidores públicos del Instituto Electoral cumplan adecuadamente con sus responsabilidades administrativas;
+
+XVIII. Determinar los daños y perjuicios que afecten al Instituto Electoral en su patrimonio;
+
+XIX. Fincar las responsabilidades e imponer las sanciones en términos de los lineamientos respectivos;
+
+XX. Tramitar y resolver los recursos que se promuevan en contra de las resoluciones que emita en ejercicio de sus facultades, en términos establecidos en las leyes y ordenamientos aplicables;
+
+XXI. Llevar a cabo la defensa jurídica en los juicios que se promuevan en contra de las resoluciones que emita el Órgano Interno de Control, en los términos que las leyes aplicables señalen;
+
+XXII. Presentar ante el Consejo General los informes trimestrales y anual sobre el desarrollo de su gestión y acudir ante el mismo Consejo cuando así lo requiera el Consejero Presidente;
+
+XXIII. Entregar informes al Consejo General el primer día hábil de los meses de Mayo y Noviembre de sus labores en materia de Responsabilidades Administrativas, para hacerlo llegar al Sistema Estatal Anticorrupción;
+
+XXIV. Recibir y resguardar las declaraciones de situación patrimonial y de intereses, y en su caso, una copia de la declaración del Impuesto Sobre la Renta del año que corresponda, que deban presentar los servidores públicos de la Comisión, conforme a las normas, formatos y procedimientos establecidos en la Ley General de Responsabilidades Administrativas;
+
+XXV. Intervenir en los actos de entrega-recepción de los servidores públicos del Instituto Electoral, con motivo de inicio o conclusión de cargo que corresponda, en los términos de la normatividad aplicable;
+
+XXVI. Emitir opinión respecto al dictamen de no utilidad que presenta la Dirección Ejecutiva de Administración para la baja y destino final de los bienes muebles del instituto Electoral;
+
+XXVII. Ejercer acción de responsabilidad ante el Tribunal de Justicia Administrativa;
+
+XXVIII. Incorporar disposiciones técnicas y código de ética en la Comisión, conforme a la Ley General del Sistema Nacional Anticorrupción;
+
+XXIX. Presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito cometidos por servidores públicos del Instituto Electoral ante la Fiscalía Especializada en Combate a la Corrupción;
+
+XXX. Participar a través de su titular, con voz pero sin voto, en las reuniones de la Junta General Ejecutiva cuando con motivo del ejercicio de sus facultades, así lo considere necesario el Consejero Presidente, y
+
+XXXI. Las demás que le otorgue esta Ley de Instituciones, la Ley General de Responsabilidades Administrativas o las leyes aplicables en la materia
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+
+###### Artículo 290
+
+9.- Los Órganos Técnicos, áreas ejecutivas y servidores públicos del Instituto Electoral estarán obligados a proporcionar la información, permitir la revisión y atender los requerimientos que les presente el Órgano Interno de Control, sin que dicha revisión interfiera u obstaculice el ejercicio de las funciones o atribuciones que esta Ley de Instituciones o las leyes aplicables les confieren.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+
+###### Artículo 290
+
+10.- Si transcurrido el plazo establecido por el Órgano Interno de Control, el área fiscalizada, sin causa justificada, no presenta el informe o documentos que se le soliciten, se procederá a fincar las responsabilidades que correspondan conforme a derecho. El fincamiento de responsabilidades y la imposición de sanciones no relevarán al infractor de cumplir con las obligaciones o regularizar las situaciones observadas.
+
+Durante el desahogo de los procedimientos administrativos tendentes, en su caso, al fincamiento de responsabilidades, los servidores públicos tendrán asegurado el ejercicio de las garantías constitucionales.
 
 ## TÍTULO TERCERO. DE LOS CONSEJOS ELECTORALES DISTRITALES Y MUNICIPALES
 
-### CAPÍTULO SEGUNDO. DE LAS ATRIBUCIONES DE LOS PRESIDENTES Y SECRETARIOS DE LOS CONSEJOS ELECTORALES DISTRITALES
+### CAPÍTULO PRIMERO. DE LOS CONSEJOS ELECTORALES DISTRITALES
 
 ###### Artículo 291.
 
@@ -2955,7 +3117,7 @@ XI. Ejercer las atribuciones que esta Ley de Instituciones confiere a los consej
 
 XII. Las demás que les confieran esta Ley de Instituciones y otras disposiciones reglamentarias.
 
-### CAPÍTULO TERCERO. DE LOS CONSEJOS ELECTORALES MUNICIPALES
+### CAPÍTULO SEGUNDO. DE LAS ATRIBUCIONES DE LOS PRESIDENTES Y SECRETARIOS DE LOS CONSEJOS ELECTORALES DISTRITALES
 
 ###### Artículo 304.
 
@@ -2999,7 +3161,7 @@ Los presidentes serán auxiliados en sus funciones por los secretarios de los Co
 
 El Secretario del Consejo Electoral Distrital tendrá, en lo conducente, las mismas atribuciones que el Secretario Ejecutivo del Consejo General.
 
-### CAPÍTULO CUARTO. DE LAS ATRIBUCIONES DE LOS PRESIDENTES Y SECRETARIOS DE LOS CONSEJOS ELECTORALES MUNICIPALES
+### CAPÍTULO TERCERO. DE LOS CONSEJOS ELECTORALES MUNICIPALES
 
 ###### Artículo 307.
 
@@ -3089,7 +3251,7 @@ V. Enviar a las instancias correspondientes los expedientes electorales, cuya in
 
 VI. Las demás que les confieran esta Ley de Instituciones y otras disposiciones reglamentarias.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+### CAPÍTULO CUARTO. DE LAS ATRIBUCIONES DE LOS PRESIDENTES Y SECRETARIOS DE LOS CONSEJOS ELECTORALES MUNICIPALES
 
 ###### Artículo 320.
 
@@ -3133,7 +3295,7 @@ El Secretario del Consejo Electoral Municipal tendrá, en lo conducente, las mis
 
 ## TÍTULO CUARTO. DE LAS MESAS DIRECTIVAS DE CASILLA
 
-### CAPÍTULO SEGUNDO. DE SUS ATRIBUCIONES
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### Artículo 323.
 
@@ -3179,7 +3341,7 @@ VIII. Saber leer y escribir, y
 
 IX. No tener más de setenta años al día de la elección.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO SEGUNDO. DE SUS ATRIBUCIONES
 
 ###### Artículo 329.
 
@@ -3249,7 +3411,7 @@ IV. Las demás que les confiera esta Ley de Instituciones.
 
 ## TÍTULO QUINTO. DISPOSICIONES COMUNES
 
-### CAPÍTULO PRIMERO. GENERALIDADES
+### CAPÍTULO ÚNICO
 
 ###### Artículo 333.
 
@@ -3311,7 +3473,7 @@ El Consejo General del Instituto Electoral, determinará el horario de labores, 
 
 ## TÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
 
-### CAPÍTULO SEGUNDO. DE LA VINCULACIÓN CON EL REGISTRO FEDERAL DE ELECTORES
+### CAPÍTULO PRIMERO. GENERALIDADES
 
 ###### Artículo 344.
 
@@ -3333,7 +3495,7 @@ IV. El Dictamen y Declaración de Validez de la Elección de Gobernador electo c
 
 Atendiendo al principio de definitividad que rige a los procesos electorales, a la conclusión de cualquiera de sus etapas o de alguno de los actos o actividades trascendentes de los órganos electorales, el Secretario Ejecutivo del Consejo General o la autoridad jurisdiccional que corresponda, podrá difundir su realización y conclusión por los medios que estime pertinentes.
 
-### CAPÍTULO TERCERO. DE LOS OBSERVADORES ELECTORALES
+### CAPÍTULO SEGUNDO. DE LA VINCULACIÓN CON EL REGISTRO FEDERAL DE ELECTORES
 
 ###### Artículo 346.
 
@@ -3343,7 +3505,7 @@ La Unidad de Vinculación del Instituto en caso de requerirse realizará las acc
 
 Las elecciones del Estado de Campeche se sujetarán al seccionamiento electoral determinado por el Instituto Nacional, así como a las listas nominales de electores y credenciales para votar expedidas por el Registro Federal de Electores.
 
-### CAPÍTULO PRIMERO. DE LOS PROCESOS INTERNOS DE SELECCIÓN DE CANDIDATOS
+### CAPÍTULO TERCERO. DE LOS OBSERVADORES ELECTORALES
 
 ###### Artículo 348.
 
@@ -3433,7 +3595,7 @@ La violación de cualquiera de las anteriores disposiciones será sancionada con
 
 ## TÍTULO SEGUNDO. DE LOS ACTOS PREPARATORIOS DE LA ELECCIÓN
 
-### CAPÍTULO SEGUNDO. DE LAS PRECAMPAÑAS
+### CAPÍTULO PRIMERO. DE LOS PROCESOS INTERNOS DE SELECCIÓN DE CANDIDATOS
 
 ###### Artículo 361.
 
@@ -3497,7 +3659,7 @@ Solamente los precandidatos debidamente registrados por el Partido Político de 
 
 Es competencia directa de cada Partido Político, a través del órgano establecido por sus estatutos o por el Reglamento o Convocatoria correspondiente, negar o cancelar el registro a los precandidatos que incurran en conductas contrarias a esta Ley de Instituciones o a las normas que rijan el proceso interno, así como confirmar o modificar sus resultados o declarar la nulidad de todo el proceso interno de selección, aplicando en todo caso los principios legales y las normas establecidas en sus estatutos, en los reglamentos y convocatorias respectivas. Las decisiones que adopten los órganos competentes de cada partido podrán ser recurridas por los aspirantes o precandidatos ante la autoridad jurisdiccional competente, una vez agotados los procedimientos internos de justicia partidaria.
 
-### CAPÍTULO TERCERO. DEL PROCEDIMIENTO DEL REGISTRO DE CANDIDATOS
+### CAPÍTULO SEGUNDO. DE LAS PRECAMPAÑAS
 
 ###### Artículo 371.
 
@@ -3589,7 +3751,7 @@ Queda prohibido a los precandidatos a cargos de elección popular realizar activ
 
 La violación a lo previsto en el párrafo anterior será sancionada por el partido político con la cancelación del registro como precandidato del infractor, o en su defecto con la negativa a registrarlo como candidato; así como también por las sanciones que establezca el Instituto Nacional.
 
-### CAPÍTULO CUARTO. DE LAS CAMPAÑAS ELECTORALES
+### CAPÍTULO TERCERO. DEL PROCEDIMIENTO DEL REGISTRO DE CANDIDATOS
 
 ###### Artículo 385.
 
@@ -3749,7 +3911,7 @@ IV. Recibida la solicitud de sustitución se procederá, en lo conducente, confo
 
 V. Tratándose de fórmulas, planillas por el principio de Mayoría Relativa o de listas por el principio de Representación Proporcional, el sustituto ocupará exactamente el lugar para el que había sido registrado el sustituido, no siendo admisible variación alguna en el orden ya establecido.
 
-### CAPÍTULO QUINTO. DE LA INTEGRACIÓN Y UBICACIÓN DE LAS MESAS DIRECTIVAS DE CASILLA
+### CAPÍTULO CUARTO. DE LAS CAMPAÑAS ELECTORALES
 
 ###### Artículo 407.
 
@@ -3931,7 +4093,7 @@ Durante el tiempo que comprendan las campañas electorales y hasta la conclusió
 
 Cualquier infracción a las disposiciones contenidas en el presente capítulo, será sancionada en los términos de esta Ley de Instituciones.
 
-### CAPÍTULO SEXTO. DEL REGISTRO DE REPRESENTANTES DE PARTIDOS POLÍTICOS Y CANDIDATOS INDEPENDIENTES
+### CAPÍTULO QUINTO. DE LA INTEGRACIÓN Y UBICACIÓN DE LAS MESAS DIRECTIVAS DE CASILLA
 
 ###### Artículo 435.
 
@@ -4041,7 +4203,7 @@ Las publicaciones de las listas de los integrantes de las mesas directivas y la 
 
 Los consejos electorales distritales, a propuesta de sus presidentes, determinarán la instalación de casillas especiales para la recepción del voto de los electores que se encuentren transitoriamente fuera de la Sección correspondiente a su domicilio, cuidando que se homologuen a las que determine el Instituto Nacional. Para la integración de las mesas directivas y ubicación de las casillas especiales, se aplicarán las reglas establecidas en el presente Capítulo.
 
-### CAPÍTULO SÉPTIMO. DE LA DOCUMENTACIÓN Y EL MATERIAL ELECTORAL
+### CAPÍTULO SEXTO. DEL REGISTRO DE REPRESENTANTES DE PARTIDOS POLÍTICOS Y CANDIDATOS INDEPENDIENTES
 
 ###### Artículo 450.
 
@@ -4167,7 +4329,7 @@ Para garantizar a los representantes de un Partido Político o del Candidato Ind
 
 Los nombramientos de los representantes generales deberán contener los mismos datos que los nombramientos de los representantes ante las mesas directivas de casilla. De estos nombramientos se formará una lista que deberá entregarse a los presidentes de las mesas directivas de casilla. Para garantizar a los representantes generales el ejercicio de los derechos que les otorga esta Ley de Instituciones, se imprimirá en el nombramiento el texto de los artículos de esta Ley de Instituciones que correspondan.
 
-### CAPÍTULO PRIMERO. DE LA INSTALACIÓN Y APERTURA DE CASILLAS
+### CAPÍTULO SÉPTIMO. DE LA DOCUMENTACIÓN Y EL MATERIAL ELECTORAL
 
 ###### Artículo 464.
 
@@ -4299,7 +4461,7 @@ Los consejos electorales distritales y municipales darán publicidad a la lista 
 
 ## TÍTULO TERCERO. DE LA JORNADA ELECTORAL
 
-### CAPÍTULO SEGUNDO. DE LA VOTACIÓN
+### CAPÍTULO PRIMERO. DE LA INSTALACIÓN Y APERTURA DE CASILLAS
 
 ###### Artículo 481.
 
@@ -4381,7 +4543,7 @@ V. El Consejo Distrital así lo disponga por causa de fuerza mayor o caso fortui
 
 Para los casos señalados en el artículo anterior la casilla deberá quedar instalada en la misma Sección Electoral y en el lugar adecuado más próximo, debiéndose dejar aviso de la nueva ubicación en el exterior del lugar original que no reunió los requisitos.
 
-### CAPÍTULO TERCERO. DEL ESCRUTINIO Y CÓMPUTO EN LA CASILLA
+### CAPÍTULO SEGUNDO. DE LA VOTACIÓN
 
 ###### Artículo 490.
 
@@ -4523,7 +4685,7 @@ II. Causa por la que se cerró antes o después de las dieciocho horas.
 
 Los incidentes registrados durante la votación se anotarán en el apartado correspondiente del Acta de la Jornada Electoral.
 
-### CAPÍTULO CUARTO. DE LA CLAUSURA DE LA CASILLA
+### CAPÍTULO TERCERO. DEL ESCRUTINIO Y CÓMPUTO EN LA CASILLA
 
 ###### Artículo 512.
 
@@ -4729,7 +4891,7 @@ IV. El expediente de casilla.
 
 Cumplidas las acciones a que se refieren los artículos anteriores, los presidentes de las mesas directivas de casilla, fijarán avisos en lugar visible del exterior de las mismas con los resultados de cada una de las elecciones, los que serán firmados por el Presidente y los representantes que así deseen hacerlo.
 
-### CAPÍTULO QUINTO. DE LA REMISIÓN DEL PAQUETE ELECTORAL
+### CAPÍTULO CUARTO. DE LA CLAUSURA DE LA CASILLA
 
 ###### Artículo 528.
 
@@ -4741,7 +4903,7 @@ Para garantizar la inviolabilidad de la documentación electoral, con el expedie
 
 El Consejo Electoral hará constar en el acta circunstanciada de recepción de los paquetes a que refiere esta Ley de Instituciones, las causas que se invoquen para el retraso en la entrega de los paquetes.
 
-### CAPÍTULO SEXTO. DE LOS CAPACITADORES-ASISTENTES ELECTORALES
+### CAPÍTULO QUINTO. DE LA REMISIÓN DEL PAQUETE ELECTORAL
 
 ###### Artículo 530.
 
@@ -4761,7 +4923,7 @@ Los consejos electorales distritales, previo al día de la elección, podrán de
 
 Se considerará que existe causa justificada para que los paquetes electorales sean entregados, al Consejo Electoral Distrital o Municipal, fuera de los plazos establecidos, cuando medie caso fortuito o fuerza mayor. El Consejo Electoral Distrital o Municipal hará constar, en el acta circunstanciada de recepción de los paquetes electorales, las causas que se invoquen por los Presidentes de casilla como justificante del retraso.
 
-### CAPÍTULO SÉPTIMO. DISPOSICIONES COMPLEMENTARIAS
+### CAPÍTULO SEXTO. DE LOS CAPACITADORES-ASISTENTES ELECTORALES
 
 ###### Artículo 533.
 
@@ -4813,7 +4975,7 @@ IX. Los que expresamente les confiera la presente Ley de Instituciones, los acue
 
 Los partidos políticos y los candidatos independientes podrán designar a un representante facultado para acompañar en sus funciones a los capacitadores-asistentes electorales. El representante desempeñará dicha función por sus propios medios, en su caso, se emitirá el Reglamento correspondiente.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
+### CAPÍTULO SÉPTIMO. DISPOSICIONES COMPLEMENTARIAS
 
 ###### Artículo 536.
 
@@ -4849,7 +5011,7 @@ Los notarios públicos en ejercicio mantendrán abiertas sus oficinas el día de
 
 ## TÍTULO CUARTO. DE LOS ACTOS POSTERIORES A LA ELECCIÓN Y DE LOS RESULTADOS ELECTORALES
 
-### CAPÍTULO SEGUNDO. DE LA INFORMACIÓN PRELIMINAR DE LOS RESULTADOS
+### CAPÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
 
 ###### Artículo 542.
 
@@ -4867,7 +5029,7 @@ IV. El Presidente del Consejo, bajo su responsabilidad, los salvaguardará y al 
 
 De la recepción de los paquetes electorales se levantará acta circunstanciada en la que se haga constar, en su caso, los que hubieren sido recibidos sin reunir los requisitos que señala esta Ley de Instituciones.
 
-### CAPÍTULO TERCERO. DE LOS CÓMPUTOS DISTRITALES Y MUNICIPALES
+### CAPÍTULO SEGUNDO. DE LA INFORMACIÓN PRELIMINAR DE LOS RESULTADOS
 
 ###### Artículo 544.
 
@@ -4905,7 +5067,7 @@ IV. Los representantes acreditados ante los Consejos Electorales contarán con l
 
 Para el mejor conocimiento de los ciudadanos, concluido el plazo a que se refiere el artículo 530 de esta Ley de Instituciones, el Presidente deberá fijar, en el exterior del local del Consejo Electoral Distrital o Municipal, los resultados preliminares de las elecciones en el Distrito o Municipio.
 
-### CAPÍTULO CUARTO. DE LOS CÓMPUTOS EN LAS CIRCUNSCRIPCIONES PLURINOMINALES
+### CAPÍTULO TERCERO. DE LOS CÓMPUTOS DISTRITALES Y MUNICIPALES
 
 ###### Artículo 550.
 
@@ -5021,7 +5183,7 @@ El domingo siguiente al de la jornada electoral, el Secretario Ejecutivo del Con
 
 Los presidentes de los consejos electorales distritales o municipales conservarán en su poder una copia certificada de todas las actas y documentación de cada uno de los expedientes de los cómputos. Asimismo, tomarán las medidas necesarias para el depósito, en el lugar señalado para tal efecto de los sobres que contengan la documentación a que refiere el artículo 524 de esta Ley de Instituciones hasta la conclusión del proceso electoral. Concluido el proceso electoral se procederá a su destrucción, previa autorización del Consejo General.
 
-### CAPÍTULO PRIMERO. DE LAS INFRACCIONES
+### CAPÍTULO CUARTO. DE LOS CÓMPUTOS EN LAS CIRCUNSCRIPCIONES PLURINOMINALES
 
 ###### Artículo 564.
 
@@ -5165,7 +5327,7 @@ En la integración de las juntas municipales, la regiduría de Representación P
 
 ## TÍTULO ÚNICO
 
-### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO SANCIONADOR ORDINARIO
+### CAPÍTULO PRIMERO. DE LAS INFRACCIONES
 
 ###### Artículo 582.
 
@@ -5453,7 +5615,7 @@ Cuando el Instituto Electoral tenga conocimiento de que un extranjero, por cualq
 
 Cuando el Instituto Electoral tenga conocimiento de la comisión de una infracción por parte de los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión, informará a la Secretaría de Gobernación para los efectos legales conducentes.
 
-### CAPÍTULO TERCERO. DEL PROCEDIMIENTO ESPECIAL SANCIONADOR
+### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO SANCIONADOR ORDINARIO
 
 ###### Artículo 600.
 
@@ -5489,7 +5651,7 @@ IV. Aquéllas que únicamente se fundamenten en notas de opinión periodística 
 
 La sanción que se imponga, en su caso, deberá de valorar el grado de frivolidad de la queja y el daño que podría generar al Instituto Electoral la atención de este tipo de quejas.
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+### CAPÍTULO TERCERO. DEL PROCEDIMIENTO ESPECIAL SANCIONADOR
 
 ###### Artículo 603.
 
@@ -5547,7 +5709,7 @@ Los órganos competentes del Instituto en materia de quejas conforme a lo dispue
 
 La Secretaría Ejecutiva y la Junta General Ejecutiva podrán ser auxiliadas por la Oficialía Electoral para llevar a cabo el desahogo, procedimientos, diligencias, notificaciones, audiencias y demás trámites relativos a los procedimientos ordinarios sancionadores.
 
-### CAPÍTULO PRIMERO. DE LOS CRITERIOS DE INTERPRETACIÓN
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### Artículo 610.
 
@@ -5643,7 +5805,7 @@ Todas las multas que hayan sido cobradas por la Secretaría de Finanzas y Admini
 
 ## TÍTULO ÚNICO. DISPOSICIONES PRELIMINARES
 
-### CAPÍTULO SEGUNDO. DE LOS MEDIOS DE IMPUGNACIÓN
+### CAPÍTULO PRIMERO. DE LOS CRITERIOS DE INTERPRETACIÓN
 
 ###### Artículo 621.
 
@@ -5723,7 +5885,7 @@ VII. En caso de que se declare improcedente o no probada la causa que motivó la
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPÍTULO PRIMERO. PREVENCIONES GENERALES
+### CAPÍTULO SEGUNDO. DE LOS MEDIOS DE IMPUGNACIÓN
 
 ###### Artículo 631.
 
@@ -5735,7 +5897,7 @@ La interpretación del orden jurídico deberá realizarse conforme a los derecho
 
 Al momento de resolver las impugnaciones relativas a los asuntos de los partidos políticos deberá considerarse el carácter de entidad de interés público de éstos como organización de ciudadanos, su conservación de la libertad de decisión política, su derecho a la auto organización y el ejercicio de los derechos de sus afiliados o militantes.
 
-### CAPÍTULO SEGUNDO. DE LOS PLAZOS Y DE LOS TÉRMINOS
+### CAPÍTULO PRIMERO. PREVENCIONES GENERALES
 
 ###### Artículo 632.
 
@@ -5763,7 +5925,7 @@ Las autoridades estatales y municipales, así como los partidos políticos, coal
 
 ## TÍTULO SEGUNDO. DE LAS REGLAS COMUNES APLICABLES A LOS MEDIOS DE IMPUGNACIÓN
 
-### CAPÍTULO TERCERO. DE LOS REQUISITOS DEL MEDIO DE IMPUGNACIÓN
+### CAPÍTULO SEGUNDO. DE LOS PLAZOS Y DE LOS TÉRMINOS
 
 ###### Artículo 636.
 
@@ -5779,7 +5941,7 @@ El Tribunal Electoral, conforme a las disposiciones del presente ordenamiento, r
 
 Si así lo considera procedente el Magistrado instructor podrá ordenar la realización de cualquier diligencia para mejor proveer, que considere necesaria para la resolución de los asuntos que conozca.
 
-### CAPÍTULO CUARTO. DE LA IMPROCEDENCIA Y EL SOBRESEIMIENTO
+### CAPÍTULO TERCERO. DE LOS REQUISITOS DEL MEDIO DE IMPUGNACIÓN
 
 ###### Artículo 639.
 
@@ -5797,7 +5959,7 @@ Cuando la violación reclamada, en el medio de impugnación respectivo, no se pr
 
 Los medios de impugnación, previstos en esta Ley, deberán presentarse dentro de los cuatro días contados a partir del día siguiente a aquel en que se tenga conocimiento del acto o resolución impugnada, o se hubiese notificado de conformidad con la ley aplicable, salvo las excepciones previstas expresamente en el presente ordenamiento.
 
-### CAPÍTULO QUINTO. DE LAS PARTES
+### CAPÍTULO CUARTO. DE LA IMPROCEDENCIA Y EL SOBRESEIMIENTO
 
 ###### Artículo 642.
 
@@ -5825,7 +5987,7 @@ Cuando la violación reclamada verse exclusivamente sobre puntos de derecho, no 
 
 Cuando el medio de impugnación no se presente por escrito ante la autoridad correspondiente, se incumpla cualquiera de los requisitos previstos por las fracciones I a V del artículo 642, resulte evidentemente frívolo o cuya notoria improcedencia se derive de las disposiciones del presente ordenamiento, se desechará de plano. También se desechará cuando no existan hechos y agravios expuestos o sólo se señalen hechos.
 
-### CAPÍTULO SEXTO. DE LA LEGITIMACIÓN Y DE LA PERSONERÍA
+### CAPÍTULO QUINTO. DE LAS PARTES
 
 ###### Artículo 645.
 
@@ -5861,7 +6023,7 @@ I. En los casos de competencia del Tribunal Electoral, el Magistrado electoral q
 
 II. En los asuntos de competencia del Consejo General del Instituto Electoral, el Secretario Ejecutivo del mismo propondrá el sobreseimiento.
 
-### CAPÍTULO SÉPTIMO. DE LAS PRUEBAS
+### CAPÍTULO SEXTO. DE LA LEGITIMACIÓN Y DE LA PERSONERÍA
 
 ###### Artículo 648.
 
@@ -5895,7 +6057,7 @@ V. Los escritos deberán estar firmados autógrafamente.
 
 En el caso de Coaliciones, la representación legal se acreditará en los términos del convenio respectivo, de conformidad con lo dispuesto en la Ley General, la Ley General de Partidos Políticos y esta Ley.
 
-### CAPÍTULO OCTAVO. DEL TRÁMITE
+### CAPÍTULO SÉPTIMO. DE LAS PRUEBAS
 
 ###### Artículo 652.
 
@@ -5915,7 +6077,7 @@ VI. Las organizaciones o Agrupaciones Políticas o de ciudadanos, a través de s
 
 VII. Los Candidatos Independientes, a través de sus representantes legítimos, entendiéndose por éstos a los que se encuentren acreditados ante el Instituto Electoral.
 
-### CAPÍTULO NOVENO. DE LA SUSTANCIACIÓN
+### CAPÍTULO OCTAVO. DEL TRÁMITE
 
 ###### Artículo 653.
 
@@ -5995,7 +6157,7 @@ Las documentales privadas, las técnicas, las presuncionales, la instrumental de
 
 En ningún caso se tomarán en cuenta, para resolver, las pruebas ofrecidas o aportadas fuera de los plazos legales. La única excepción a esta regla será la de pruebas supervenientes, entendiéndose por tales los medios de convicción surgidos después del plazo legal en que deban aportarse los elementos probatorios, y aquellos existentes desde entonces, pero que el promovente, el compareciente o la autoridad electoral no pudieron ofrecer o aportar por desconocerlos, o por existir obstáculos que no estaban a su alcance superar, siempre y cuando se aporten antes del cierre de la instrucción.
 
-### CAPÍTULO DÉCIMO. DE LAS RESOLUCIONES Y DE LAS SENTENCIAS
+### CAPÍTULO NOVENO. DE LA SUSTANCIACIÓN
 
 ###### Artículo 666.
 
@@ -6071,7 +6233,7 @@ II. Los motivos y fundamentos jurídicos que considere pertinentes para sostener
 
 III. La firma del funcionario que lo rinde.
 
-### CAPÍTULO DÉCIMO PRIMERO. DE LAS NOTIFICACIONES
+### CAPÍTULO DÉCIMO. DE LAS RESOLUCIONES Y DE LAS SENTENCIAS
 
 ###### Artículo 674.
 
@@ -6123,7 +6285,7 @@ II. El Tribunal Electoral, deberá establecer si las inconsistencias pueden ser 
 
 III. No procederá el incidente en el caso de casillas en las que se hubiere realizado nuevo escrutinio y cómputo en la sesión de cómputo respectiva.
 
-### CAPÍTULO DÉCIMO SEGUNDO. DE LA ACUMULACIÓN
+### CAPÍTULO DÉCIMO PRIMERO. DE LAS NOTIFICACIONES
 
 ###### Artículo 680.
 
@@ -6185,7 +6347,7 @@ La resolución que recaiga se notificará a las partes; y de ella no se admitir�
 
 La resolución que aclare la sentencia, se reputará parte integrante de ésta.
 
-### CAPÍTULO DÉCIMO TERCERO. DE LOS MEDIOS DE APREMIO Y DE LAS CORRECCIONES DISCIPLINARIAS
+### CAPÍTULO DÉCIMO SEGUNDO. DE LA ACUMULACIÓN
 
 ###### Artículo 687.
 
@@ -6245,7 +6407,7 @@ El Partido Político, Coalición o Candidato Independiente cuyo representante ha
 
 No requerirán de notificación personal, y surtirán sus efectos al día siguiente de su publicación o fijación, los actos o resoluciones que, en los términos de las leyes aplicables o por acuerdo del órgano competente, deban hacerse públicos a través del Periódico Oficial del Estado o los periódicos diarios de circulación local, o en lugares públicos o mediante la fijación de cédulas en los estrados de los órganos resolutores.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+### CAPÍTULO DÉCIMO TERCERO. DE LOS MEDIOS DE APREMIO Y DE LAS CORRECCIONES DISCIPLINARIAS
 
 ###### Artículo 698.
 
@@ -6259,7 +6421,7 @@ La acumulación podrá decretarse al inicio o durante la sustanciación, o para 
 
 Para los efectos del artículo anterior, el Presidente del Tribunal Electoral, al turnar los medios de impugnación que se reciban, tendrá la precaución de remitir el nuevo asunto al Magistrado instructor a cuyo cargo esté el trámite de otro con el que se surta la indicada conexidad.
 
-### CAPÍTULO SEGUNDO. DEL RECURSO DE REVISIÓN
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### Artículo 701.
 
@@ -6281,7 +6443,7 @@ Los medios de apremio y las correcciones disciplinarias a que se refiere el art�
 
 ## TÍTULO TERCERO. DE LOS MEDIOS DE IMPUGNACIÓN Y DE LAS NULIDADES EN MATERIA ELECTORAL
 
-### CAPÍTULO TERCERO. DEL RECURSO DE APELACIÓN
+### CAPÍTULO SEGUNDO. DEL RECURSO DE REVISIÓN
 
 ###### Artículo 703.
 
@@ -6299,7 +6461,7 @@ Durante los procesos electorales extraordinarios, será procedente el medio de i
 
 Para dirimir los conflictos o diferencias laborales que surjan entre el Instituto Electoral y sus servidores se establece, como medio de impugnación, el juicio que se regula en el Título Único del Libro Noveno.
 
-### CAPÍTULO CUARTO. DEL JUICIO DE INCONFORMIDAD
+### CAPÍTULO TERCERO. DEL RECURSO DE APELACIÓN
 
 ###### Artículo 707.
 
@@ -6353,7 +6515,7 @@ II. Al órgano del Instituto Electoral, cuyo acto o resolución fue impugnado, s
 
 III. A los terceros interesados, y coadyuvantes en su caso, por correo registrado o personalmente.
 
-### CAPÍTULO PRIMERO. DE LAS REGLAS GENERALES
+### CAPÍTULO CUARTO. DEL JUICIO DE INCONFORMIDAD
 
 ###### Artículo 715.
 
@@ -6423,7 +6585,7 @@ II. Al órgano del Instituto Electoral, que hubiere realizado el acto o dictado 
 
 III. A los terceros interesados, y coadyuvantes en su caso, por correo certificado o personalmente.
 
-### CAPÍTULO SEGUNDO. DE LA NULIDAD DE LA VOTACIÓN RECIBIDA EN CASILLA
+### CAPÍTULO PRIMERO. DE LAS REGLAS GENERALES
 
 ###### Artículo 725.
 
@@ -6579,7 +6741,7 @@ Concluido el proceso electoral, el Instituto Electoral podrá solicitar copia ce
 
 ## TÍTULO CUARTO. DE LAS NULIDADES
 
-### CAPÍTULO TERCERO. DE LA NULIDAD DE LAS ELECCIONES
+### CAPÍTULO SEGUNDO. DE LA NULIDAD DE LA VOTACIÓN RECIBIDA EN CASILLA
 
 ###### Artículo 742.
 
@@ -6605,7 +6767,7 @@ Tratándose de la inelegibilidad de candidatos a diputados y regidores y síndic
 
 Los partidos políticos, coaliciones, candidatos o candidatos Independientes, no podrán invocar en su favor, en medio de impugnación alguno, causales de nulidad, hechos o circunstancias que ellos mismos hayan provocado.
 
-### CAPÍTULO CUARTO. DE LA NULIDAD DE LAS ELECCIONES LOCALES
+### CAPÍTULO TERCERO. DE LA NULIDAD DE LAS ELECCIONES
 
 ###### Artículo 748.
 
@@ -6633,9 +6795,7 @@ X. Impedir, sin causa justificada, el ejercicio del derecho de voto a los ciudad
 
 XI. Existir irregularidades graves, plenamente acreditadas y no reparables, durante la jornada electoral o en el escrutinio y cómputo que en forma evidente pongan en duda la certeza de la votación y sean determinantes para el resultado de la misma.
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2017)</small>
+### CAPÍTULO CUARTO. DE LA NULIDAD DE LAS ELECCIONES LOCALES
 
 ###### Artículo 749.
 
@@ -6675,7 +6835,9 @@ El Tribunal Electoral podrá declarar la nulidad de la elección de Gobernador, 
 
 El Tribunal Electoral podrá declarar la nulidad de la elección de Diputados o de Presidente, regidores y síndicos de ayuntamientos y juntas municipales cuando se hayan cometido, en forma generalizada, violaciones sustanciales en la jornada electoral en el Distrito, Municipio o Sección Municipal de que se trate, se encuentren plenamente acreditadas y se demuestre que las mismas fueron determinantes para el resultado de la elección, salvo que las irregularidades sean imputables a los Partidos o Coaliciones promoventes o a sus candidatos.
 
-### CAPÍTULO PRIMERO
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2017)</small>
 
 ###### Artículo 754.
 
@@ -6697,7 +6859,7 @@ A fin de salvaguardar las libertades de expresión, información y a fin de fort
 
 ## TÍTULO ÚNICO. DE LAS REGLAS PARTICULARES
 
-### CAPÍTULO SEGUNDO. DE LA SUSTANCIACIÓN Y DE LA RESOLUCIÓN
+### CAPÍTULO PRIMERO
 
 ###### Artículo 755.
 
@@ -6756,6 +6918,8 @@ II. A la autoridad u órgano partidista responsable, a más tardar dentro de los
 # LIBRO NOVENO. DEL JUICIO PARA DIRIMIR LOS CONFLICTOS O DIFERENCIAS LABORALES ENTRE EL INSTITUTO ELECTORAL DEL ESTADO DE CAMPECHE Y SUS SERVIDORES
 
 ## TÍTULO ÚNICO. DE LAS REGLAS ESPECIALES
+
+### CAPÍTULO SEGUNDO. DE LA SUSTANCIACIÓN Y DE LA RESOLUCIÓN
 
 ###### Artículo 760.
 
@@ -6894,3 +7058,17 @@ P.O. 8 DE JUNIO DE 2017.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 13 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 184 POR EL QUE "SE REFORMA LA DENOMINACIÓN DEL TÍTULO SEGUNDO "DE LOS ÓRGANOS CENTRALES DEL INSTITUTO ELECTORAL" PARA QUEDAR COMO TÍTULO SEGUNDO "DE LOS ÓRGANOS CENTRALES, DIRECCIONES EJECUTIVAS, ÓRGANOS TÉCNICOS, Y ÓRGANO INTERNO DE CONTROL DEL INSTITUTO ELECTORAL", EL ARTÍCULO 266; LAS FRACCIONES V Y XXIV DEL ARTÍCULO 278; LAS FRACCIONES VI Y IX DEL ARTÍCULO 280; Y SE ADICIONA UN CAPÍTULO SEXTO DENOMINADO "DEL ÓRGANO INTERNO DE CONTROL" CON LOS ARTÍCULOS 290-1, 290-2, 290-3, 290-4, 290-5, 290-6, 290-7, 290-8, 290-9, 290-10; Y SE DEROGA LA FRACCIÓN I DEL ARTÍCULO 257 DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente hábil a la declaración de la conclusión del Proceso Electoral Estatal Ordinario 2017-2018.
+
+SEGUNDO.- Por única ocasión el Titular de la Contraloría Interna del Instituto Electoral que se encuentra en funciones actualmente, continuará con su encargo de acuerdo a los términos y condiciones con las que fue emitido su nombramiento, una vez que entre en vigencia el presente decreto se denominará Titular del Órgano Interno de Control.
+
+TERCERO.- En un término de 90 días contados a partir de la entrada en vigor de este decreto, deberá armonizarse el marco reglamentario del Órgano Interno de Control.
+
+CUARTO.- De conformidad con las posibilidades presupuestales, deberán tomarse las previsiones administrativas que correspondan para el cumplimiento de los efectos de este decreto.
+
+QUINTO.- Se derogan todas las disposiciones legales, reglamentarias y administrativas en lo que se opongan al presente decreto.
