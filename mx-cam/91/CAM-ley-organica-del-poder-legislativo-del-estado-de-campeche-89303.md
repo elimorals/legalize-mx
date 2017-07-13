@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-poder-legislativo-del-estado-de-campeche-89303
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-08-17"
-last_updated: "2017-06-26"
+last_updated: "2017-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 17 de agosto de 2012.
 
@@ -67,7 +67,9 @@ II. La Auditoría Superior del Estado;
 
 III. El Instituto de Estudios Legislativos; y
 
-IV. La Contraloría Interna del Congreso.
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+IV. El Órgano Interno de Control del Congreso.
 
 ###### Art. 3.
 
@@ -371,7 +373,9 @@ La Junta de Gobierno y Administración sesionará únicamente cuando los asuntos
 
 A las sesiones de la Junta, a invitación de su presidente, podrán asistir, con voz pero sin voto, los diputados que no formen parte de algún Grupo Parlamentario, con el único propósito de que expresen su opinión sobre los asuntos que se traten en la respectiva sesión y que sean de su interés o del de su partido político. Cuando haya dos diputados de un mismo partido político quien asistirá a la sesión será el que de entre ellos escojan.
 
-### Capítulo Cuarto (sic). De las Comisiones de Enlace en Materias de Fiscalización y de Estudios Legislativos
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
+
+### Capítulo Cuarto bis. De las Comisiones de Enlace en Materias de Fiscalización, de Estudios Legislativos y de Control Interno
 
 ###### Art. 28.
 
@@ -472,6 +476,36 @@ Los miembros de esta Comisión serán electos por planilla, en votación nominal
 En sus faltas temporales el presidente será suplido por el vicepresidente y el secretario será suplido por el primer vocal. Cuando la falta sea definitiva la vacante o vacantes serán cubiertas por el diputado o diputados que la asamblea elija.
 
 Quienes integren la Comisión ejercerán sus cargos durante todo el ejercicio de la Legislatura, sin que suspendan actividades en los períodos de receso. Sus atribuciones se sujetarán, en lo conducente, a las de los miembros de la Mesa Directiva del Congreso.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+
+Art. 29 bis.- Para coordinar las relaciones entre el Congreso y el Órgano Interno de Control, evaluar el desempeño de éste último y constituir el enlace que permita garantizar la debida comunicación entre ambos órganos, el Congreso contará con una comisión denominada Comisión de Enlace en Materia de Control Interno. Las atribuciones de la Comisión de Enlace en Materia de Control Interno serán:
+
+I. Ser el conducto de comunicación entre el Congreso y el Órgano Interno de Control y turnar a este todos aquellos asuntos que considere deban ser de su conocimiento;
+
+II. Realizar auscultaciones entre los colegios y asociaciones de profesionistas e instituciones de educación superior para formular propuestas de candidatos para ser electos titular del Órgano Interno de Control;
+
+III. Citar, por conducto de su presidente, al titular del Órgano Interno de Control para que le informe sobre el desarrollo de las actividades del Órgano;
+
+IV. Vigilar que los servidores públicos del Órgano Interno de Control se conduzcan en términos de lo dispuesto por esta ley y demás disposiciones legales y reglamentarias aplicables;
+
+V. Aprobar los Manuales de Organización y de Procedimientos del Órgano Interno de Control;
+
+VI. Recibir quejas y denuncias derivadas del incumplimiento de las obligaciones de los servidores públicos del Órgano Interno de Control, para el fincamiento de responsabilidades e imposición de las sanciones que correspondan, en términos de la legislación general en materia de responsabilidades administrativas.
+
+VII. Aprobar el programa anual de trabajo y de evaluación del órgano Interno de Control;
+
+VIII. Evaluar las funciones del Órgano Interno de Control a efecto de verificar su desempeño, así como el cumplimiento de sus objetivos y metas de sus programas anuales;
+
+IX. Recibir el informe anual de resultados de gestión del Órgano Interno de Control y hacerlo de conocimiento del Congreso;
+
+X. Las demás que le encomiende esta ley y otras disposiciones legales y reglamentarias.
+
+La Comisión de Enlace en Materia de Control Interno estará compuesta por cinco diputados: un presidente, un vicepresidente, un secretario y dos vocales designados por número ordinal, los cuales durarán en el desempeño de su cargo todo el ejercicio de la Legislatura, sin que suspendan actividades en los períodos de receso. En la integración de la comisión deberán estar representados todos los grupos parlamentarios, respetándose el principio de igualdad de género. Sus integrantes se elegirán por planilla, a propuesta de los grupos parlamentarios, en votación nominal, y se instalará en la segunda sesión del primer periodo ordinario de sesiones del primer año de ejercicio constitucional de la Legislatura.
+
+En atención al carácter de sus atribuciones, la presidencia de esta comisión será ocupada preferentemente por un diputado que posea título profesional de contador público, licenciado en administración o licenciado en derecho.
+
+En sus faltas temporales el presidente será suplido por el vicepresidente y el secretario será suplido por el primer vocal. Cuando la falta sea definitiva la vacante o vacantes serán cubiertas por el diputado o diputados que la asamblea elija.
 
 ###### Art. 30.
 
@@ -1705,37 +1739,47 @@ VI. Elaborar los Manuales de Organización y de Procedimientos del Instituto y s
 
 En los Manuales de Organización y de Procedimientos del Instituto se establecerán las demás unidades administrativas que lo conformarán, así como sus atribuciones, incluidas las del Secretario Técnico; los requisitos que deberán satisfacer sus titulares y el demás personal a su servicio y las formas de suplencia de los mismos.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE JULIO DE 2017)</small>
+
 Capítulo Decimoctavo
 
-De la Contraloría Interna
+Del Órgano Interno de Control
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
 
 ###### Art. 141.
 
-La Contraloría Interna del Congreso, es el órgano de apoyo que tiene a su cargo ejercer, dentro del ámbito del Poder Legislativo del Estado, las atribuciones que la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche confiere a los órganos internos de control, así como las que para la Secretaría de la Contraloría de la Administración Pública del Estado de Campeche establece la legislación en materia de obras públicas y de adquisiciones, arrendamientos y prestación de servicios en bienes muebles. Dentro de sus funciones se encontrará la de revisar la aplicación de los recursos que se otorguen a los Grupos Parlamentarios así como a los diputados que no estén integrados a alguno de esos grupos.
+El Órgano Interno de Control del Congreso, es el órgano de apoyo que tiene a su cargo ejercer, dentro del ámbito del Poder Legislativo del Estado, las atribuciones que la legislación en materia de responsabilidades administrativas confiere a los órganos internos de control, así como las que establecen la legislación en materia de obras públicas y de adquisiciones, arrendamientos y prestación de servicios en bienes muebles y, la Ley que Regula los Procedimientos de Entrega-Recepción del Estado de Campeche y sus Municipios. Dentro de sus funciones se encontrará la de revisar la aplicación de los recursos que se otorguen a los grupos parlamentarios así como a los diputados que no estén integrados a alguno de esos grupos.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
 
 ###### Art. 142.
 
-La Contraloría Interna del Congreso, se integrará con:
+El Órgano Interno de Control del Congreso, se integrará con:
 
-I. Un Contralor Interno;
+I. Un Contralor;
 
 II. Un Director de Normatividad y Control;
 
 III. Un Director de Auditoría; y
 
-> <small>(F. DE E., P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+IV. El demás personal técnico y administrativo que requiera el Órgano Interno de Control para su funcionamiento y que permita la correspondiente previsión presupuestal, conforme a lo que se disponga en los Manuales de Organización y de Procedimientos del Órgano Interno de Control, cuya elaboración corresponderá a su titular y su aprobación a la Comisión de Enlace en Materia de Control Interno.
 
-IV. El demás personal técnico y administrativo que requiera la Contraloría para su funcionamiento y permita la correspondiente previsión presupuestal, conforme a lo que se disponga en los Manuales de Organización y de Procedimientos de la Contraloría Interna, cuya elaboración corresponderá a su titular y su aprobación a la Junta de Gobierno y Administración.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
 
 ###### Art. 143.
 
-El Contralor será nombrado por las dos terceras partes de los miembros presentes del Congreso, a propuesta de la Junta de Gobierno y Administración, y durará siete años en el cargo, pudiendo ser ratificado para un subsiguiente período.
+El titular del Órgano Interno de Control será nombrado por las dos terceras partes de los miembros presentes del Congreso, previa auscultación que realice la Comisión de Enlace en Materia de Control Interno, entre los colegios y asociaciones de profesionistas e instituciones de educación superior; las propuestas que se obtengan serán valoradas por la Comisión de Puntos Constitucionales y Control Interno de Convencionalidad, a fin de permitir proponer candidatos para elegir al titular del Órgano Interno de Control, rindiendo ésta el informe correspondiente a la Mesa Directiva para que el Pleno elija, y durará siete años en el cargo, pudiendo ser ratificado para un subsiguiente período.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2017)</small>
 
 ###### Art. 144.
 
-Para ser Contralor Interno se amerita reunir los siguientes requisitos:
+Para ser titular del Órgano Interno de Control del Congreso se amerita reunir los siguientes requisitos:
 
-I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos civiles y políticos;
 
 II. Tener por lo menos treinta años de edad al día de la designación;
 
@@ -1743,13 +1787,89 @@ III. Gozar de buena reputación y no haber sido condenado por delito intencional
 
 IV. Contar al momento de su designación con una experiencia de cinco años en el control, manejo o fiscalización de recursos, y
 
-V. Contar el día de su designación, con antigüedad mínima de cinco años, con título profesional de contador público, licenciado en economía, licenciado en administración o cualquier otro título profesional relacionado con las actividades de fiscalización, expedido por autoridad o institución legalmente facultada para ello.
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+V. Contar el día de su designación, con antigüedad mínima de cinco años, con título profesional de contador público, licenciado en economía, licenciado en administración, licenciado en derecho o cualquier otro título profesional relacionado con las actividades de fiscalización, control interno, administrativas o contenciosas.
 
 Para su remoción se observarán en lo conducente las disposiciones contenidas en el artículo 130 de esta misma ley.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE JULIO DE 2017)</small>
+
+Cualquier persona cuando presuma que el titular del Órgano Interno de Control del Congreso haya incurrido en los supuestos previstos en el artículo 89 bis de la Constitución Política del Estado, podrá presentar demanda o denuncia ante las autoridades correspondientes, acompañándola de los documentos y evidencias en las cuales se sustente.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
+
 ###### Art. 145.
 
-Para el nombramiento y remoción de los Directores y demás personal al servicio de la Contraloría Interna se aplicarán en lo conducente las disposiciones contenidas en los artículos 24, fracción VI, y 125, fracción III, de esta misma ley.
+Para el nombramiento y remoción de los Directores y demás personal al servicio del Órgano Interno de Control se aplicarán en lo conducente las disposiciones contenidas en los artículos 24 fracción VI, 125 fracción III de esta misma ley, y en la legislación sobre responsabilidades administrativas que corresponda.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+
+Art. 145 bis.- El Órgano Interno de Control del Congreso tendrá las atribuciones siguientes:
+
+I. Implementar los mecanismos internos que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas;
+
+II. Fijar los criterios para la realización de auditorías, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de los recursos a cargo de las áreas del Congreso;
+
+III. Realizar auditorías a las áreas del Congreso para supervisar el control interno;
+
+IV. Establecer las normas, procedimientos, métodos y sistemas de contabilidad y de archivo, de los libros y documentos justificativos y comprobatorios del ingreso y del gasto, así como aquellos elementos que permitan la práctica idónea de las auditorías y revisiones que realice en el cumplimiento de sus funciones;
+
+V. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa en el Presupuesto de Egresos otorgado al Congreso;
+
+VI. Corregir, investigar y substanciar actos u omisiones que pudieran constituir responsabilidades administrativas, para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa;
+
+VII. Ejercer acción de responsabilidad ante el Tribunal de Justicia Administrativa;
+
+VIII. Revisar el ingreso, egreso, manejo, custodia y aplicación de los recursos públicos que reciba, administre y aplique el Congreso;
+
+IX. Presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delitos cometidos por servidores públicos del Congreso ante la Fiscalía Especializada en Combate a la Corrupción;
+
+X. Incorporar disposiciones técnicas y código de ética, conforme a la Ley General del Sistema Nacional Anticorrupción;
+
+XI. Verificar las obras, bienes adquiridos o arrendados y servicios contratados, para comprobar que las inversiones y gastos autorizados se han aplicado legal y eficientemente, al logro de los objetivos y metas de los programas aprobados;
+
+XII. Requerir a terceros que hubieran contratado bienes o servicios con el Congreso la información relacionada con la documentación justificativa y comprobatoria respectiva, a efecto de realizar las compulsas que correspondan;
+
+XIII. Solicitar toda la información necesaria para el cumplimiento de sus funciones;
+
+XIV. Guardar reserva de la información que se le proporcione en ejercicio de sus atribuciones, en términos de las disposiciones que rigen en materia de transparencia y acceso a la información pública y de protección de datos personales;
+
+XV. Emitir los lineamientos, instruir, desahogar y resolver los procedimientos administrativos respecto de las quejas que se presenten en contra de los servidores públicos del Congreso, y llevar el registro de los servidores públicos sancionados;
+
+XVI. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Congreso;
+
+XVII. Efectuar visitas a las sedes físicas de las áreas del Congreso para solicitar la exhibición de los libros y papeles indispensable (sic) para la realización de sus investigaciones, sujetándose a las formalidades respectivas;
+
+XVIII. Establecer los mecanismos de orientación y cursos de capacitación que resulten necesarios para que los servidores públicos del Congreso cumplan adecuadamente con sus responsabilidades administrativas;
+
+XIX. Formular pliegos de observaciones en materia administrativa;
+
+XX. Entregar informes el primer día hábil de los meses de mayo y noviembre al Congreso del Estado, de sus labores en materia de responsabilidades administrativas;
+
+XXI. Presentar en el mes de noviembre de cada año, para la aprobación de la Comisión de Enlace en Materia de Control Interno su programa anual de trabajo y de evaluación;
+
+XXII. Presentar a la Comisión de Enlace en Materia de Control Interno, por escrito, un informe anual de resultados de su gestión, y acudir ante el Pleno cuando así se le requiera a través del Presidente de la Mesa Directiva;
+
+XXIII. Recibir y resguardar las declaraciones de situación patrimonial y de intereses, y en su caso, una copia de la declaración del Impuesto Sobre la Renta del año que corresponda, que deban presentar los servidores públicos del Congreso, conforme a las normas, formatos y procedimientos establecidos en la Ley General de Responsabilidades Administrativas;
+
+XXIV. Intervenir en los procesos de entrega recepción por inicio o conclusión de encargo de los servidores públicos que corresponda;
+
+XXV. Mantener una estrecha relación de colaboración y apoyo con la Auditoría Superior del Estado, y
+
+XXVI. Las demás que le otorgue esta ley, la Ley General de Responsabilidades Administrativas, la Ley General del Sistema Nacional Anticorrupción, la propia del Estado, su Reglamento Interior y las demás disposiciones legales y administrativas aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+
+Art. 145 ter.- Los servidores públicos adscritos al Órgano Interno de Control del Congreso, deberán apegarse a los principios de legalidad, respeto a los derechos humanos, verdad material, razonabilidad, proporcionalidad, presunción de inocencia, tipicidad y debido proceso, así como guardar estricta reserva sobre la información y documentación que conozcan con motivo del desempeño de sus atribuciones, actuaciones y observaciones.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+
+Art. 145 quáter.- Las áreas del Congreso estarán obligadas a proporcionar la información, permitir la revisión y atender los requerimientos que les presente el Órgano Interno de Control, sin que dicha revisión interfiera u obstaculice el ejercicio de sus funciones o atribuciones legales.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+
+Art. 145 quinquies.- Con motivo de los procedimientos administrativos que inicie el Órgano Interno de Control, los servidores públicos tienen garantizado el ejercicio de sus derechos fundamentales establecidos en la Constitución Política de los Estados Unidos Mexicanos, y en la particular del Estado, y podrán interponer los recursos legales procedentes para dirimir todo tipo de controversias cuando se vulneren sus derechos.
 
 Capítulo Decimonoveno
 
@@ -2084,3 +2204,17 @@ P.O. 26 DE JUNIO DE 2017.
 PRIMERO.- El presente decreto entrará en vigor a los tres días siguientes de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al contenido de este decreto.
+
+P.O. 13 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 179 POR EL QUE “SE REFORMAN LA FRACCIÓN IV DEL PÁRRAFO SEGUNDO DEL ARTÍCULO 2; LA DENOMINACIÓN DEL CAPÍTULO CUARTO “DE LAS COMISIONES DE ENLACE EN MATERIAS DE FISCALIZACIÓN Y DE ESTUDIOS LEGISLATIVOS” PARA QUEDAR COMO CAPÍTULO CUARTO BIS “DE LAS COMISIONES DE ENLACE EN MATERIAS DE FISCALIZACIÓN, DE ESTUDIOS LEGISLATIVOS Y DE CONTROL INTERNO”; LA DENOMINACIÓN DEL CAPÍTULO DECIMOCTAVO “DE LA CONTRALORÍA INTERNA”, PARA QUEDAR COMO CAPÍTULO DECIMOCTAVO “DEL ÓRGANO INTERNO DE CONTROL”; LOS ARTÍCULOS 141; 142; 143; 144 Y, EL ARTÍCULO 145; Y SE ADICIONAN LOS ARTÍCULOS 29 BIS, 145 BIS, 145 TER, 145 QUÁTER Y 145 QUINQUIES A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el 19 de julio de 2017, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El titular del Órgano Interno de Control del Congreso que se encuentre en funciones a la entrada en vigor del presente decreto, continuará en el encargo hasta la conclusión de la vigencia de su nombramiento.
+
+TERCERO.- Por única ocasión la elección de los integrantes de la Comisión de Enlace en Materia de Control Interno, se hará una vez que entre en vigor el presente decreto, en términos de lo dispuesto en el artículo 29 bis de este decreto.
+
+CUARTO.- En un término de 90 días contados a partir de la entrada en vigor de este decreto, deberá armonizarse el marco reglamentario del Órgano Interno de Control, a propuesta del titular del mismo.
+
+QUINTO.- Se derogan todas las disposiciones legales, reglamentarias y administrativas en lo que se opongan al presente decreto.
