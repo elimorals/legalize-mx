@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-tribunal-electoral-del-estado-de-campeche-1177
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-11-18"
-last_updated: "2016-11-18"
+last_updated: "2017-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "CAM"
 ---
 # LEY ORGANICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE JULIO DE 2017 EN EL P.O. DEL ESTADO DE CAMPECHE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el viernes 18 de noviembre de 2016.
 
@@ -125,7 +129,9 @@ a) Dirección Administrativa;
 
 b) Unidad de Transparencia, Acceso a la Información Pública y Comunicación Social;
 
-c) Contraloría Interna;
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
+
+af) (sic) Órgano Interno de Control;
 
 d) Los demás auxiliares administrativos, en los términos que establezca la Ley.
 
@@ -183,7 +189,9 @@ X. Suspender hasta por tres meses, por la comisión de faltas administrativas, a
 
 XI. Imponer al personal administrativo y jurisdiccional de base y eventual en su caso, las correcciones disciplinarias que procedan conforme a esta Ley y que no estén expresamente encomendadas a otras autoridades;
 
-XII. Conocer de las denuncias o quejas que se presenten en contra del Secretario General de Acuerdos del Tribunal y demás personal administrativo y jurisdiccional de base y eventual en su caso y, previa la substanciación respectiva, tomar las medidas pertinentes para subsanar las omisiones o evitar las acciones no previstas como faltas administrativas. Asimismo, en el caso de que por tales denuncias o quejas se acredite la comisión de faltas, imponer las correcciones disciplinarias a que alude el artículo anterior y, en los mismos términos, si de tal acusación se desprende la posible comisión de un delito, ordenar que, por conducto del presidente del Tribunal, se haga la denuncia respectiva al ministerio público;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+XII. Conocer de las denuncias o quejas que se presenten en contra del Secretario General de Acuerdos del Tribunal y demás personal administrativo y jurisdiccional, por conducto del Titular del Órgano Interno de Control del Tribunal Electoral, que le sean presentadas, quien deberá llevar la investigación y sustanciación correspondientes. Asimismo, en el caso de que por tales denuncias o quejas se acredite la comisión de faltas, el Titular del Órgano Interno de Control del Tribunal Electoral hará del conocimiento al Pleno por conducto de la Presidencia, de las sanciones que hubiere impuesto.
 
 XIII. Imponer correcciones disciplinarias a las partes, abogados, procuradores y litigantes cuando falten el respeto al Tribunal, a sus miembros o a cualquier otro funcionario del Tribunal Electoral, independientemente de que se formule la denuncia respectiva al ministerio público en caso de la comisión de un delito;
 
@@ -213,9 +221,11 @@ XXIV. Ejercitar las demás atribuciones que le confieran las leyes y reglamentos
 
 Para que el Pleno del Tribunal pueda sesionar se requiere la presencia de los tres magistrados numerarios y del secretario general de acuerdos, o en su caso, de quienes los sustituyan en sus funciones conforme a las disposiciones legales aplicables; sus resoluciones serán por unanimidad o por mayoría de votos.
 
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
+
 ###### Artículo 14.
 
-Para la Presidencia y el Pleno del Tribunal se designará un secretario general de acuerdos, un actuario, un director de administración, un subdirector de recursos humanos y materiales, un subdirector de contabilidad, un encargado del departamento de informática, analistas especializados y auxiliares polivalentes, así como el número de empleados que se requiera y permita el presupuesto de egresos respectivo, conforme a lo que disponga el reglamento interior del propio Tribunal.
+Para la Presidencia y el Pleno del Tribunal Electoral se designará un Secretario General de Acuerdos, un actuario, un Director de Administración, un Subdirector de Recursos Humanos y Materiales, un Subdirector de Contabilidad, un encargado del Departamento de Informática, un titular del Órgano Interno de Control, analistas especializados y auxiliares polivalentes, así como el número de empleados que se requiera y permita el presupuesto de egresos respectivo, conforme a lo que disponga el Reglamento Interior del propio Tribunal.
 
 ###### Artículo 15.
 
@@ -449,7 +459,7 @@ XVII. Entregar los expedientes a la Actuaría para su debida diligenciación;
 
 XVIII. Llevar el control de los sellos que se utilicen en los expedientes electorales y laborales;
 
-XIX: Cuidar que los expedientes sean debidamente foliados al agregarse cada una de las hojas, sellar por sí mismo las actuaciones, oficios y demás documentos que lo requieran y rubricar aquéllos en el centro del escrito;
+XIX. Cuidar que los expedientes sean debidamente foliados al agregarse cada una de las hojas, sellar por sí mismo las actuaciones, oficios y demás documentos que lo requieran y rubricar aquéllos en el centro del escrito;
 
 XX. Ejercer, la custodia y vigilancia que sea necesaria en la oficina para evitar la pérdida de los expedientes;
 
@@ -691,25 +701,35 @@ VI. Todas las demás que en él delegue el Pleno del Tribunal Electoral.
 
 El Pleno del Tribunal determinará las demás atribuciones que deban conferirse a la Dirección de Administración, así como la planta de empleados de la misma, conforme a las necesidades del servicio y las previsiones del presupuesto.
 
-### CAPÍTULO SEGUNDO. DE LA CONTRALORÍA INTERNA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE JULIO DE 2017)</small>
+
+### CAPÍTULO SEGUNDO. DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
 
 ###### Artículo 64.
 
-La Contraloría Interna del Tribunal Electoral es el órgano de apoyo que tiene a su cargo ejercer, dentro del ámbito del Tribunal Electoral, las atribuciones que la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado confiere a los órganos internos de control, así como las que establece la legislación en materia de obras públicas y de adquisiciones, arrendamientos y prestación de servicios de bienes muebles.
+El Órgano Interno de Control del Tribunal Electoral es una unidad administrativa a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno, que tiene a su cargo ejercer, dentro del ámbito del Tribunal Electoral, las atribuciones que la Constitución Política del Estado de Campeche y la General de Responsabilidades Administrativas confiere a los órganos internos de control, así como las que establece la legislación en la materia de obras públicas y de adquisiciones, arrendamientos y prestación de servicios de bienes muebles.
 
-Se exceptúan del párrafo anterior, las actuaciones que correspondan a los magistrados.
+Se exceptúan del párrafo anterior, las actuaciones que correspondan a los Magistrados.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
 
 ###### Artículo 65.
 
-La Contraloría Interna del Tribunal Electoral, dependerá del Pleno y administrativamente de la Presidencia, se integra por un Titular y el personal técnico y administrativo necesarios para el desempeño de sus atribuciones y que permita la correspondiente previsión presupuestal, conforme a lo que se disponga en los manuales de organización y de procedimientos de la Contraloría Interna, cuya elaboración corresponderá a su titular y deberá ser aprobado por el Pleno del Tribunal Electoral.
+El Órgano Interno de Control del Tribunal Electoral, dependerá del Pleno y administrativamente de la Presidencia, se integra por un Titular, el área de Investigación, el área de Sustanciación y Sanción de las responsabilidades administrativas, así como el personal técnico y administrativo necesarios para el desempeño de sus atribuciones y que permita la correspondiente previsión presupuestal, conforme a lo que se disponga en los manuales de organización y de procedimientos del Órgano Interno de Control, cuya elaboración corresponderá a su titular y deberá ser aprobado por el Pleno del Tribunal Electoral.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
 
 ###### Artículo 66.
 
-El Titular de la Contraloría Interna será nombrado por el Pleno del Tribunal Electoral, a propuesta de la Presidencia. Su designación se orientará por el principio de paridad de género.
+El Titular del Órgano Interno de Control será nombrado por el Pleno del Tribunal Electoral a propuesta de la Presidencia. Su designación se orientará por el principio de paridad de género.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
 
 ###### Artículo 67.
 
-El personal de la Contraloría Interna será nombrado por el Pleno del Tribunal Electoral. Su integración se orientará por el principio de paridad de género.
+El personal del Órgano Interno de Control será nombrado por el Pleno del Tribunal Electoral. Su integración se orientará por el principio de paridad de género.
 
 ###### Artículo 68.
 
@@ -733,53 +753,83 @@ VIII. No haber sido registrado como candidato, con excepción de los candidatos 
 
 IX. Someterse a la evaluación que determine el Pleno para acreditar los requisitos de conocimientos y experiencia en el desempeño de la labor que se pretende.
 
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
+
 ###### Artículo 69.
 
-Las ausencias temporales del Contralor Interno serán cubiertas por el servidor designado por el Pleno del Tribunal Electoral. Dicha determinación se tomará con enfoque de género.
+Las ausencias temporales del Titular del Órgano Interno de Control serán cubiertas por el servidor público designado por el Pleno del Tribunal Electoral. Dicha determinación se tomará con enfoque de género.
 
-El contralor interno no podrá tener otro empleo, cargo o comisión, con excepción de aquéllos en que actúe en representación del órgano al que pertenece y del que desempeñe en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, siempre y cuando no sea remunerado.
+El Titular del Órgano Interno de Control así como el personal que tenga bajo su mando, no podrán tener otro empleo, cargo o comisión, con excepción de aquéllos en que actúen en representación del Tribunal Electoral y del que desempeñe en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, siempre y cuando no sea remunerado.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
 
 ###### Artículo 70.
 
-La Contraloría Interna del Tribunal Electoral tendrá las siguientes atribuciones:
+El Órgano Interno de Control del Tribunal Electoral tendrá las siguientes atribuciones:
 
-I. Elaborar y proponer al Pleno los proyectos, programas, políticas, estrategias y lineamientos en materia de fiscalización, vigilancia, control y seguimiento de la aplicación de los recursos humanos, materiales y financieros asignados al Tribunal Electoral, y ejecutarlos una vez aprobados:
+I. Elaborar y proponer al Pleno del Tribunal Electoral los proyectos, programas, políticas, estrategias y lineamientos en materia de fiscalización, vigilancia, control y seguimiento de la aplicación de los recursos humanos, materiales y financieros asignados al Tribunal Electoral, y ejecutarlos una vez aprobados;
 
-II. Realizar acciones de control presupuestal y programático, así como inspecciones, verificaciones y auditorías a las diferentes áreas y unidades del Tribunal, informando periódicamente al Pleno sobre sus resultados, así como las observaciones que, en su caso, se deriven de las mismas y las solventaciones realizadas;
+II. Realizar acciones de control presupuestal y programático, así como inspecciones, verificaciones y auditorías a las diferentes áreas y unidades del Tribunal, informando periódicamente al Pleno del Tribunal Electoral sobre sus resultados, así como las observaciones que, en su caso, se deriven de las mismas y las solventaciones realizadas;
 
-III. Elaborar los contenidos del programa anual de auditoría interna del Tribunal Electoral y someterlo a la consideración del Pleno, por conducto de la Presidencia;
+III. Elaborar el contenido del programa anual de auditoría interna del Tribunal Electoral en el mes de noviembre del año en curso, aplicable en el ejercicio fiscal inmediato posterior, y someterlo a consideración del Pleno del Tribunal Electoral, por conducto de la Presidencia;
 
-IV. Ordenar la ejecución y supervisión del programa anual de auditoría interna, una vez aprobado por el Pleno, e informar sobre su desarrollo;
+IV. Ordenar la ejecución y supervisión del programa anual de auditoría interna, una vez aprobado por el Pleno del Tribunal Electoral, e informar sobre su desarrollo;
 
 V. Autorizar los programas específicos de auditoría interna que practique;
 
-VI. Vigilar la correcta ejecución de cada una de las auditorías internas, estableciendo la extensión y profundidad que las mismas requieran e informar periódicamente al Pleno, por conducto de la Presidencia;
+VI. Vigilar la correcta aplicación de cada una de las auditorías internas, estableciendo la extensión y profundidad que las mismas requieran e informar periódicamente al Pleno del Tribunal Electoral, por conducto de la Presidencia;
 
-VII. Inspeccionar el ejercicio del gasto y administración del presupuesto asignado al Tribunal Electoral;
+VII. Realizar auditorías internas para supervisar el control interno y mantener el mismo;
 
-VIII. Revisar que el ejercicio del gasto se haya realizado conforme a las disposiciones legales, normas y lineamientos que regulen su ejercicio; que las operaciones financieras se registren contable y presupuestalmente, en forma oportuna y, en su caso, determinar las desviaciones y las causas que le dieron origen, comunicándoselo al Pleno, por conducto del Presidente, para los efectos legales correspondientes;
+VIII. Apoyar las políticas de control interno;
 
-IX. Vigilar que las adquisiciones de bienes muebles, arrendamientos, contratación de bienes y servicios o de obra pública, se lleven a cabo de conformidad con lo establecido en la Constitución Local y demás leyes secundarias y normas reglamentarias en la materia;
+IX. Inspeccionar el ejercicio del gasto y administración del presupuesto asignado al Tribunal Electoral;
 
-X. Proponer al Pleno, de manera oportuna, los formatos para la presentación de las declaraciones patrimoniales y sus modificaciones que deben presentar los servidores públicos del Tribunal Electoral;
+X. Revisar que el ejercicio del gasto se haya realizado conforme a las disposiciones legales, normas y lineamientos que regulen su ejercicio; que las operaciones financieras se registren contable y presupuestalmente, en forma oportuna y, en su caso, determinar las desviaciones y las causas que le dieron origen, comunicándoselo al Pleno del Tribunal Electoral, por conducto de la Presidencia, para los efectos legales correspondientes;
 
-XI. Recibir, registrar y requerir las declaraciones patrimoniales y sus modificaciones que presenten los servidores públicos del Tribunal Electoral; comprobar la exactitud y veracidad de ellas, y comunicar al Pleno, por conducto del presidente, las irregularidades que en su caso se detecten;
+XI. Fiscalizar que el Tribunal Electoral cumpla con las disposiciones en materia de recursos humanos, materiales y financieros;
 
-XII. Auxiliar a la Presidencia del Tribunal Electoral, para vigilar que la administración del presupuesto sea eficaz, honesta y ajustada a la normatividad aplicable, y ejecutar las acciones que se instruyan y las procedentes para tal efecto, e informar de su resultado al Pleno para los efectos legales a que hubiere lugar;
+XII. Vigilar que las adquisiciones de bienes muebles, arrendamientos, contratación de bienes y servicios o de obra pública, se lleven a cabo de conformidad con lo establecido en la Constitución Local y demás leyes secundarias y normas reglamentarias en la materia;
 
-XIII. Tramitar, investigar y sustanciar los procedimientos de quejas, denuncias y los de responsabilidades administrativas de los servidores públicos del Tribunal Electoral y remitirlos al Pleno por conducto de la Presidencia del Tribunal para el dictado de la resolución correspondiente y en su caso, la aplicación de las sanciones administrativas;
+XIII. Recibir y resguardar las declaraciones de situación patrimonial y de intereses, y en su caso, una copia de la declaración del Impuesto Sobre la Renta del año que corresponda, que deban presentar los servidores públicos del Tribunal Electoral, conforme a las normas, formatos y procedimientos establecidos en la Ley General de Responsabilidades Administrativas;
 
-XIV. Mantener en sus diligencias y procedimientos la más absoluta reserva y abstenerse de comunicar fuera de los casos permitidos por la Ley, a los interesados o a terceros, el resultado de sus indagaciones;
+XIV. Comprobar la exactitud y veracidad de las declaraciones de situación patrimonial y de intereses, y comunicar al Pleno del Tribunal Electoral, por conducto de la Presidencia, las irregularidades que en su caso se detecten;
 
-XV. Participar en los actos de entrega-recepción de los servidores públicos del Tribunal Electoral, con motivo de su separación del cargo, en los términos de la normatividad aplicable:
+XV. Auxiliar a la Presidencia del Tribunal Electoral, para vigilar que la administración del presupuesto sea eficaz, honesta y ajustada a la normatividad aplicable, y ejecutar las acciones que se instruyan y las procedentes para tal efecto, e informar de su resultado al Pleno del Tribunal Electoral para los efectos legales a que hubiere lugar;
 
-XVI. Emitir observaciones y recomendaciones a los titulares de las áreas auditadas, por conducto de la Presidencia; y
+XVI. Conocer e investigar las conductas de los servidores públicos del Tribunal Electoral que pudieran constituir responsabilidades administrativas;
 
-XVII. Las demás que le confiera esta Ley y la normatividad aplicable.
+XVII. Tramitar, investigar, sustanciar y, en su caso, sancionar los procedimientos de quejas, denuncias y de responsabilidades administrativas de los servidores públicos del Tribunal Electoral, e informar al Pleno del Tribunal Electoral por conducto de la Presidencia de la resolución correspondiente y, en su caso, la aplicación de la sanción administrativa, según proceda;
+
+XVIII. Mantener en sus diligencias y procedimientos la más absoluta reserva y abstenerse de comunicar fuera de los casos permitidos por la Ley, a los interesados o a terceros, el resultado de sus indagaciones;
+
+XIX. Ejercer acción de responsabilidad ante el Tribunal de Justicia Administrativa del Estado;
+
+XX. Presentar denuncias ante la Fiscalía Especializada en Combate a la Corrupción por hechos u omisiones que pudieran resultar constitutivos de delito;
+
+XXI. Entregar al Pleno del Tribunal Electoral informes detallados el primer día hábil de los meses de mayo y noviembre de los procedimientos de responsabilidades administrativas y respecto a sus labores, para que los haga llegar al Sistema Estatal Anticorrupción;
+
+XXII. Participar en los actos de entrega-recepción de los servidores públicos del Tribunal Electoral, con motivo de su separación del cargo, en los términos de la normatividad aplicable;
+
+XXIII. Emitir observaciones y recomendaciones a los titulares de las áreas auditadas, por conducto de la Presidencia;
+
+XXIV. Regirse por las bases y principios de coordinación que emita el Sistema Estatal Anticorrupción;
+
+XXV. Incorporar normas técnicas y códigos de ética de acuerdo a la Ley General del Sistema Nacional Anticorrupción;
+
+XXVI. Implementar mejoras para fiscalizar recursos;
+
+XXVII. Implementar medidas para el fortalecimiento y profesionalización del personal bajo su mando;
+
+XXVIII. Encabezar comités de control de desempeño institucional para el seguimiento y evaluación de la gestión;
+
+XXIX. Las demás que le confiera esta Ley y la normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
 
 ###### Artículo 71.
 
-Cuando se presenten quejas o denuncias en contra del titular de la Contraloría Interna, el procedimiento de responsabilidad administrativa será tramitado por el Pleno del Tribunal Electoral, por conducto de la Presidencia, en los términos señalados en esta Ley y supletoriamente por la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche; la correspondiente resolución será emitida por el Pleno del Tribunal Electoral.
+Cuando se presenten quejas o denuncias en contra del Titular del Órgano Interno de Control del Tribunal Electoral, el procedimiento de responsabilidad administrativa será tramitado por el Pleno del Tribunal Electoral, por conducto de la Presidencia, en los términos señalados en esta Ley y en la Ley General de Responsabilidades Administrativas; la resolución que corresponda será emitida por el Pleno del Tribunal Electoral según disponga la ley de la materia.
 
 ### CAPÍTULO TERCERO. DE LA UNIDAD DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
 
@@ -1114,3 +1164,19 @@ TERCERO.- Por esta única ocasión, se designará a un nuevo Titular de la Contr
 Dado en el Salón de Sesiones del Palacio Legislativo, en la ciudad de San Francisco de Campeche, Campeche, a los quince días del mes de noviembre del año dos mil dieciséis.
 
 C. Juan Carlos Damián Vera, Diputado Presidente.- C. Sandra Guadalupe Sánchez Díaz, Diputada Secretaria.- C. Adriana de Jesús Avilez Avilez, Diputada Secretaria.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 185 POR EL QUE "SE REFORMAN EL INCISO C) DE LA FRACCIÓN II DEL ARTÍCULO 9; LA FRACCIÓN XII DEL ARTÍCULO 12, EL ARTÍCULO 14; LA DENOMINACIÓN DEL CAPÍTULO SEGUNDO "DE LA CONTRALORÍA INTERNA" PARA QUEDAR COMO CAPÍTULO SEGUNDO "DEL ÓRGANO INTERNO DE CONTROL" DEL TÍTULO CUARTO; LOS ARTÍCULOS 64, 65, 66, 67, 69, 70 Y 71 DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor el día diecinueve de julio de dos mil diecisiete, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Titular del Órgano Interno de Control que se encuentra en funciones actualmente, continuará en funciones de acuerdo a los términos y condiciones con los que fue emitido su nombramiento hasta la conclusión del periodo para el que fue nombrado.
+
+TERCERO.- En un término de 90 días contados a partir de la entrada en vigor de este decreto, deberá armonizarse el marco reglamentario del Órgano Interno de Control, a propuesta del titular del mismo.
+
+CUARTO.- Para el proyecto del Presupuesto de Egresos del Ejercicio Fiscal 2018, de conformidad con las posibilidades presupuestales se realizarán las adecuaciones necesarias en cuanto a la infraestructura en materia de recursos humanos, para homologar el sueldo mensual neto del Titular del Órgano Interno de Control a nivel de Dirección, así como la creación de las áreas detalladas en el artículo 65 del presente decreto.
+
+QUINTO.- Se derogan todas las disposiciones legales, reglamentarias y administrativas en lo que se opongan al presente decreto.
