@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-ingresos-del-estado-de-campeche-para-el-ejercicio-118153
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2016-12-22"
-last_updated: "2017-06-29"
+last_updated: "2017-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118153&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE INGRESOS DEL ESTADO DE CAMPECHE PARA EL EJERCICIO FISCAL 2017
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el jueves 22 de diciembre de 2016.
 
@@ -245,15 +245,17 @@ El Fondo destinado a mejorar y modernizar a la administración tributaria a trav
 
 El Ejecutivo Estatal, a través de la Secretaría de Finanzas, informará al Congreso del Estado, trimestralmente, dentro de los cuarenta y cinco días siguientes al trimestre vencido, sobre los ingresos percibidos por el Estado en el ejercicio fiscal de 2017, con relación a las estimaciones que se señalan en el Artículo 1 de esta Ley.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JULIO DE 2017)</small>
+
 ### Capítulo VIII. De los Derechos por Servicios Prestados por Instituciones de Salud Pública
 
 ###### ARTÍCULO 27.
 
-Se causarán y pagarán derechos al Estado por los servicios que proporcionen las instituciones de salud pública conforme a la tabla contenida en el Anexo 2 de la presente Ley.
+(DEROGADO, P.O. 13 DE JULIO DE 2017)
 
 ###### ARTÍCULO 28.
 
-Las instituciones de salud pública a través de sus áreas de servicio social y atención al público o sus equivalentes y, en su caso, la Administración de la Beneficencia Pública del Estado de Campeche, considerando el costo de los servicios y valorando las condiciones socioeconómicas de los usuarios, podrán eximir parcial o totalmente a aquellos que carezcan de recursos para cubrirlas con base en criterios de capacidad contributiva, las disposiciones normativas que regulen directamente a la institución de salud pública y demás factores que permitan adoptar las medidas de compensación necesarias para hacer efectivo el derecho a la salud, como responsabilidad social.
+(DEROGADO, P.O. 13 DE JULIO DE 2017)
 
 T R A N S I T O R I O S
 
@@ -305,13 +307,13 @@ EL GOBERNADOR DEL ESTADO DE CAMPECHE, LIC. RAFAEL ALEJANDRO MORENO CÁRDENAS.- E
 
 > <small>[N. DE E. VÉASE REFORMAS AL ANEXO 1 EN EL P.O. 29 DE JUNIO DE 2017, PÁGINAS 3 A LA 17.]</small>
 
-> <small>[N. DE E. VÉASE ANEXO 2 EN EL P.O. DE 22 DE DICIEMBRE DE 2016, PÁGINAS DE LA 63 A LA 148.]</small>
+> <small>[N. DE E. VÉASE ANEXO 2 EN EL P.O. DE 22 DE DICIEMBRE DE 2016, PÁGINAS DE LA 63 A LA 148; Y SU DEROGACIÓN 13 DE JULIO DE 2017, PÁGINA 120.]</small>
 
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 29 DE JUNIO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 175 POR EL QUE “SE REFORMAN EL ARTÍCULO 1, RUBROS: CONCEPTO Y TOTAL, APARTADO 0 Y 0.1; EL ARTÍCULO 6; EL ARTÍCULO 8; ARTÍCULO 9; EL PRIMER PÁRRAFO DEL ARTÍCULO 10 Y EL PROGRAMA FINANCIERO ESTATAL CONTENIDO EN EL ANEXO 1, EN SU TOTALIDAD”; Y “SE ADICIONAN UN ARTÍCULO 5-BIS Y UN ARTÍCULO UNDÉCIMO TRANSITORIO AL DECRETO NO. 102 DE LA LXII LEGISLATURA DEL H. CONGRESO DEL ESTADO DE CAMPECHE, MEDIANTE EL CUAL SE EXPIDIÓ LA LEY DE INGRESOS DEL ESTADO DE CAMPECHE PARA EL EJERCICIO FISCAL 2017, EN LA QUE, A SU VEZ, SE AUTORIZÓ LA CONTRATACIÓN DE DEUDA PÚBLICA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE CAMPECHE EL DÍA 22 DE DICIEMBRE DE 2016.”]
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 175 POR EL QUE "SE REFORMAN EL ARTÍCULO 1, RUBROS: CONCEPTO Y TOTAL, APARTADO 0 Y 0.1; EL ARTÍCULO 6; EL ARTÍCULO 8; ARTÍCULO 9; EL PRIMER PÁRRAFO DEL ARTÍCULO 10 Y EL PROGRAMA FINANCIERO ESTATAL CONTENIDO EN EL ANEXO 1, EN SU TOTALIDAD"; Y "SE ADICIONAN UN ARTÍCULO 5-BIS Y UN ARTÍCULO UNDÉCIMO TRANSITORIO AL DECRETO NO. 102 DE LA LXII LEGISLATURA DEL H. CONGRESO DEL ESTADO DE CAMPECHE, MEDIANTE EL CUAL SE EXPIDIÓ LA LEY DE INGRESOS DEL ESTADO DE CAMPECHE PARA EL EJERCICIO FISCAL 2017, EN LA QUE, A SU VEZ, SE AUTORIZÓ LA CONTRATACIÓN DE DEUDA PÚBLICA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE CAMPECHE EL DÍA 22 DE DICIEMBRE DE 2016."]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -320,3 +322,17 @@ SEGUNDO. Se deberá incluir anualmente en el presupuesto de egresos de cada ejer
 TERCERO. El Ejecutivo del Estado deberá realizar las adecuaciones necesarias al Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2017 relacionadas con las modificaciones autorizadas a la contratación de Deuda Pública contenidas en el presente decreto y someterlo a aprobación del H. Congreso local.
 
 CUARTO. Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 13 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 182 POR EL QUE “SE DEROGA EL CAPÍTULO VIII “DE LOS DERECHOS PRESTADOS POR INSTITUCIONES DE SALUD PÚBLICA” Y LOS ARTÍCULOS 27 Y 28 DE LA LEY DE INGRESOS DEL ESTADO DE CAMPECHE PARA EL EJERCICIO FISCAL 2017 Y SU ANEXO 2”.]
+
+Primero.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente Decreto.
+
+Tercero.- Solo la Secretaría de Finanzas a través del Servicio de Administración Fiscal del Estado de Campeche, será la dependencia competente para recaudar los ingresos que corresponden al Estado. En el caso de que alguna de las Dependencias o sus órganos administrativos desconcentrados o aquellas instituciones de salud, unidades médicas u hospitalarias del sector público, que por la causa que fuere llegaren a percibir ingresos por alguno de los conceptos que establece esta Ley, incluyendo algún concepto de derechos por servicios de salud, previstos en el artículo 79-D de esta Ley, deberán registrarlos, enterarlos y concentrarlos en la Secretaría de Finanzas a través del Servicio de Administración Fiscal del Estado de Campeche, órgano desconcentrado de la Secretaría de Finanzas del Gobierno del Estado, el día hábil siguiente al de su recepción y deberán reflejarse cualquiera que sea su naturaleza, tanto en los registros de la propia Secretaría como en la cuenta pública. El incumplimiento de esta disposición tendrá como consecuencia la responsabilidad del o los servidores públicos.
+
+Cuarto.- El Poder Ejecutivo Estatal, en un plazo que no exceda de 60 días naturales siguientes a la fecha de entrada en vigor del presente decreto, deberá emitir los Criterios Generales y la Metodología a las que deberán sujetarse los Procesos de Clasificación Socioeconómica de Pacientes de las Instituciones de Salud Pública en el Estado, a los que hace referencia el segundo párrafo del artículo 79-B de la Ley de Hacienda del Estado de Campeche.
+
+Quinto.- El Ejecutivo del Estado deberá realizar las adecuaciones normativas relacionadas con el contenido del presente decreto, en un plazo que no exceda de 90 días hábiles siguientes a la fecha de entrada en vigor del presente decreto.
