@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-los-municipios-del-estado-de-campeche-60679"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-03-03"
-last_updated: "2017-06-26"
+last_updated: "2017-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2017.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el lunes 3 de marzo de 2008.
 
@@ -337,11 +337,15 @@ Son causas graves que motivan se declare la suspensión de un Ayuntamiento:
 
 I. La existencia de conflictos entre sus miembros que hagan imposible el cumplimiento de los fines o el ejercicio de las atribuciones del Ayuntamiento.
 
-II. El que la mayoría de sus integrantes incurra en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho en términos de la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche.
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+II. El que la mayoría de sus integrantes incurra en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho en términos de la legislación en materia de juicio político.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 44.
 
-Para declarar la suspensión de un Ayuntamiento el Congreso del Estado seguirá el procedimiento, formas y términos previstos en el Capítulo Primero del Título Segundo de la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche.
+Para declarar la suspensión de un Ayuntamiento el Congreso del Estado seguirá el procedimiento, formas y términos previstos en las disposiciones de la legislación en materia de juicio político.
 
 Declarada la suspensión del Ayuntamiento el Congreso del Estado nombrará a un Concejo Municipal.
 
@@ -369,7 +373,9 @@ Declarado que ha desaparecido un Ayuntamiento, el Congreso del Estado nombrará 
 
 El Congreso del Estado podrá suspender o revocar el mandato de uno o varios integrantes de un Ayuntamiento por las siguientes causas graves:
 
-I. Realizar actos u omisiones que en términos de la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+I. Realizar actos u omisiones que en términos de la legislación en materia de juicio político redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho;
 
 II. Ocasionar daños o perjuicios a la Hacienda Pública Municipal por el indebido manejo de sus recursos;
 
@@ -391,7 +397,9 @@ IX. En los demás supuestos previstos por las leyes;
 
 El procedimiento para suspender o revocar el mandato a un integrante del Ayuntamiento deberá ser iniciado ante el Congreso del Estado, por el Presidente Municipal mediando acuerdo del Cabildo.
 
-El procedimiento se sujetará a las formas y términos previstos en el Capítulo Primero del Título Segundo de la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
+
+El procedimiento se sujetará a las formas y términos previstos en la legislación en materia de juicio político.
 
 ###### ARTÍCULO 50.
 
@@ -501,13 +509,21 @@ B. La de Hacienda, que será presidida por el Síndico de Hacienda;
 
 C. La de Protección al Medio Ambiente, que será presidida por el Presidente Municipal;
 
-D. Las que con tal carácter establezca el Ayuntamiento, que serán presididas por el integrante que determine.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
+
+D. Comisión de Fomento y Difusión de Derechos Humanos;
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+
+E. Las que con tal carácter establezca el Ayuntamiento, que serán presididas por el integrante que determine.
 
 II. Transitorias, las que el ayuntamiento establezca para la atención de problemas específicos o en situaciones eventuales, las que serán presididas por el integrante que determine.
 
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 65.
 
-El Ayuntamiento deberá establecer en su reglamento interior las Comisiones previstas en los incisos A, B y C de la fracción I del artículo anterior, así como aquellas otras que en su caso establezca con el carácter de permanentes. Las de carácter transitorio las establecerá mediante el acuerdo correspondiente.
+El Ayuntamiento deberá establecer en su reglamento interior las Comisiones previstas en los incisos A, B, C y D de la fracción I del artículo anterior, así como aquellas otras que en su caso establezca con el carácter de permanentes. Las de carácter transitorio las establecerá mediante el acuerdo correspondiente.
 
 ###### ARTÍCULO 66.
 
@@ -1059,7 +1075,9 @@ Respecto a la Administración Pública Municipal el Ayuntamiento tiene las facul
 
 I. Expedir su reglamento interior, así como los demás reglamentos, manuales de organización y circulares que requiera para regular su estructura y funcionamiento;
 
-II. Cuidar y exigir del Presidente Municipal, Regidores, Síndicos, Secretario del Ayuntamiento, Tesorero Municipal y demás funcionarios municipales el cumplimiento estricto de sus obligaciones;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+II. Cuidar y exigir del Presidente Municipal, Regidores, Síndicos, Secretario del Ayuntamiento, Tesorero Municipal, titular del Órgano Interno de Control y demás funcionarios municipales el cumplimiento estricto de sus obligaciones;
 
 III. Crear o suprimir, a propuesta del Presidente Municipal dependencias y entidades de la Administración Pública Municipal, incluidos organismos descentralizados con personalidad jurídica y patrimonio propio. Cuando dichas entidades deban constituirse conforme a leyes distintas a la presente ley, ordenar su creación o supresión;
 
@@ -1101,7 +1119,9 @@ El Ayuntamiento requiere la autorización del Congreso del Estado para:
 
 I. Coordinarse o asociarse con municipios de otras entidades federativas;
 
-II. Contratar créditos cuando el endeudamiento sea mayor al diez por ciento de su respectivo presupuesto de egresos; y
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+II. Contratar créditos cuando el endeudamiento sea mayor al 6 por ciento de los Ingresos totales aprobados en su Ley de Ingresos, de conformidad con lo dispuesto en la Ley de Obligaciones, Financiamientos y Deuda Pública del Estado de Campeche y sus Municipios;
 
 III. En los demás casos previstos en esta ley o en las disposiciones aplicables.
 
@@ -1341,7 +1361,9 @@ XX. Solicitar se realicen a la Tesorería Municipal visitas de inspección o de 
 
 XXI. Cuidar que el despacho de la oficina se haga en los días y horas fijados por el reglamento interior o señalado por el Ayuntamiento;
 
-XXII. Comunicar al Presidente Municipal las faltas oficiales en que incurran los empleados de su dependencia;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+XXII. Comunicar al Presidente Municipal las faltas administrativas en que incurran los empleados de su dependencia, y dar vista al Órgano Interno de Control para los efectos conducentes;
 
 XXIII. Cuidar bajo su responsabilidad, del arreglo y conservación del archivo, mobiliario y equipo de la oficina;
 
@@ -1367,6 +1389,14 @@ VI. Satisfacer los demás requisitos que en su caso determine el cabildo o junta
 
 VII. El titular del Órgano Interno de Control no estará obligado a otorgar caución.
 
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+
+Para el caso específico del titular del Órgano Interno de Control se requerirá que tenga por lo menos treinta años de edad al día de la designación, contar al momento de su designación con una experiencia de cinco años en el control, manejo o fiscalización de recursos, y con antigüedad mínima de cinco años con título profesional de contador público, licenciado en economía, licenciado en administración, licenciado en derecho o cualquier otro título profesional relacionado con las actividades de fiscalización, control interno, administrativas o contenciosas.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+
+Cualquier persona cuando presuma que el titular del Órgano Interno de Control del municipio haya incurrido en los supuestos previstos en el artículo 89 bis de la Constitución Política del Estado, podrá presentar demanda o denuncia ante las autoridades correspondientes, acompañándola de los documentos o evidencias en la cuales se sustente.
+
 ###### ARTÍCULO 126.
 
 Las faltas del Secretario del Ayuntamiento, del Tesorero Municipal y del titular del Órgano Interno de Control que no excedan de quince días serán suplidas por el servidor público que designe el Presidente Municipal conforme a las disposiciones municipales. Las que excedieran de dicho término serán suplidas con el carácter de titular interino por quien designe el Ayuntamiento a propuesta del Presidente Municipal. Los reglamentos de las Juntas Municipales determinarán lo relativo e (sic) los secretarios de junta municipal y de los tesoreros de sección municipal.
@@ -1377,9 +1407,11 @@ El Tesorero Municipal tomará posesión de su cargo previo el corte de caja que 
 
 Lo anterior se aplicará sin perjuicio de la observancia y cumplimiento de las disposiciones que sobre el particular determinen otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 128.
 
-Al Órgano Interno de Control corresponde el ejercicio de las atribuciones previstas para dichos órganos en la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado, respecto de la administración pública municipal y tiene a su cargo las siguientes funciones:
+Al Órgano Interno de Control corresponde el ejercicio de las atribuciones previstas para dichos órganos en la Ley General de Responsabilidades Administrativas y en la Ley que Regula los Procedimientos de Entrega-Recepción del Estado de Campeche y sus Municipios, respecto de la administración pública municipal y tiene a su cargo las siguientes funciones:
 
 I. Planear, programar, organizar y coordinar el sistema de control y evaluación municipal;
 
@@ -1411,9 +1443,81 @@ XIV. Vigilar que los ingresos municipales se enteren a la tesorería municipal c
 
 XV. Participar en la elaboración y actualización del inventario general de los bienes muebles e inmuebles propiedad del municipio, que expresará las características de identificación y destino de los mismos;
 
-XVI. Verificar que los servidores públicos municipales cumplan con la obligación de presentar oportunamente la manifestación de bienes en términos de la ley;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
 
-XVII. Las demás que le señalen las disposiciones relativas.
+XVI. Recibir y resguardar las declaraciones de situación patrimonial y de intereses, y en su caso, una copia de la declaración del Impuesto Sobre la Renta del año que corresponda, que deban presentar los servidores públicos del Municipio, conforme a las normas, formatos y procedimientos establecidos en la Ley General de Responsabilidades Administrativas;
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+XVII. Implementar los mecanismos internos que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas;
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2017)</small>
+
+XVIII. Corregir, investigar y substanciar actos u omisiones que pudieran constituir responsabilidades administrativas, para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa;
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2017)</small>
+
+XIX. Ejercer acción de responsabilidad ante el Tribunal de Justicia Administrativa;
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2017)</small>
+
+XX. Presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delitos cometidos por servidores públicos del Municipio ante la Fiscalía Especializada en Combate a la Corrupción;
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2017)</small>
+
+XXI. Incorporar disposiciones técnicas y código de ética, conforme a la Ley General del Sistema Nacional Anticorrupción;
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2017)</small>
+
+XXII. Verificar las obras, bienes adquiridos o arrendados y servicios contratados, para comprobar que las inversiones y gastos autorizados se han aplicado legal y eficientemente, al logro de los objetivos y metas de los programas aprobados;
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2017)</small>
+
+XXIII. Requerir a terceros que hubieran contratado bienes o servicios con el Municipio la información relacionada con la documentación justificativa y comprobatoria respectiva, a efecto de realizar las compulsas que correspondan;
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2017)</small>
+
+XXIV. Solicitar toda la información necesaria para el cumplimiento de sus funciones;
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2017)</small>
+
+XXV. Guardar reserva de la información que se le proporcione en ejercicio de sus atribuciones, en términos de las disposiciones que rigen en materia de transparencia y acceso a la información pública y de protección de datos personales;
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2017)</small>
+
+XXVI. Emitir los lineamientos, instruir, desahogar y resolver los procedimientos administrativos respecto de las quejas que se presenten en contra de los servidores públicos del Municipio, y llevar el registro de los servidores públicos sancionados;
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2017)</small>
+
+XXVII. Establecer los mecanismos de orientación y cursos de capacitación que resulten necesarios para que los servidores públicos del Municipio cumplan adecuadamente con sus responsabilidades administrativas;
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2017)</small>
+
+XXVIII. Entregar informes al cabildo el primer día hábil de los meses de mayo y noviembre, de sus labores en materia de responsabilidades administrativas, para que éste lo haga al Sistema Estatal Anticorrupción;
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2017)</small>
+
+XXIX. Presentar en el mes de noviembre de cada año, para la aprobación del Cabildo su programa anual de trabajo y de evaluación;
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2017)</small>
+
+XXX. Presentar al Cabildo, por escrito, un informe anual de resultados de su gestión;
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2017)</small>
+
+XXXI. Las demás que le otorgue esta ley, la Ley General de Responsabilidades Administrativas, la Ley General del Sistema Nacional Anticorrupción, la propia del Estado, la reglamentación municipal y las demás disposiciones legales y administrativas aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+
+ARTÍCULO 128 bis.- Los servidores públicos adscritos al Órgano Interno de Control de (sic) Municipio, deberán apegarse a los principios de legalidad, respeto a los derechos humanos, verdad material, razonabilidad, proporcionalidad, presunción de inocencia, tipicidad y debido proceso, así como guardar estricta reserva sobre la información y documentación que conozcan con motivo del desempeño de sus atribuciones, actuaciones y observaciones.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+
+ARTÍCULO 128 ter.- Las dependencias y entidades municipales estarán obligadas a proporcionar la información, permitir la revisión y atender los requerimientos que les presente el Órgano Interno de Control, sin que dicha revisión interfiera u obstaculice el ejercicio de sus funciones y atribuciones legales.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+
+ARTÍCULO 128 quáter.- Con motivo de los procedimientos administrativos que inicie el Órgano Interno de Control, los servidores públicos tienen garantizados el ejercicio de sus derechos fundamentales establecidos en la Constitución Política de los Estados Unidos Mexicanos, y en la particular del Estado, y podrán interponer los recursos legales procedentes para dirimir todo tipo de controversias cuando se vulneren sus derechos.
 
 #### SECCIÓN TERCERA. DEL CRONISTA MUNICIPAL
 
@@ -1465,13 +1569,17 @@ Los servidores públicos gozarán de los sueldos y prestaciones previstas en el 
 
 Todo servidor público municipal que tenga fondos a su cargo deberá caucionar su manejo en la forma que determine el ayuntamiento. Si dicha obligación no quedara satisfecha dentro de los treinta días hábiles siguientes a la asunción del cargo, el nombramiento quedará sin efectos.
 
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 133.
 
-Los titulares de las dependencias y entidades municipales estarán jerárquicamente subordinados al Presidente Municipal. En las entidades en las que por razón de su ley de creación su titular no pudiera estar jerárquicamente subordinado al Presidente Municipal, éste presidirá el órgano de gobierno.
+Los titulares de las dependencias y entidades municipales estarán jerárquicamente subordinados al Presidente Municipal, con excepción del titular del Órgano Interno de Control que estará subordinado al Cabildo. En las entidades en las que por razón de su ley de creación su titular no pudiera estar jerárquicamente subordinado al Presidente Municipal, éste presidirá el órgano de gobierno.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 134.
 
-Por los actos u omisiones que impliquen infracción a lo previsto en esta Ley, a los demás ordenamientos aplicables y a los reglamentos o bandos municipales, los servidores públicos municipales incurrirán en responsabilidades en términos de la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado, sin perjuicio de las sanciones que, en su caso, procedieran conforme a otras disposiciones legales.
+Por los actos u omisiones que impliquen infracción a lo previsto en esta Ley, a los demás ordenamientos aplicables y a los reglamentos o bandos municipales, los servidores públicos municipales incurrirán en responsabilidades en términos de la Ley General de Responsabilidades Administrativas, sin perjuicio de las sanciones que, en su caso, procedieran conforme a otras disposiciones legales.
 
 ### CAPÍTULO TERCERO. DE LA HACIENDA PÚBLICA MUNICIPAL
 
@@ -1529,11 +1637,15 @@ XI. Establecerá las bases a que deberá sujetarse la formulación y actualizaci
 
 XII. Las demás que le señalen las disposiciones correspondientes y las que determine el propio reglamento.
 
-El Ayuntamiento contará con la asesoría de la Secretaría de Finanzas y Administración para formular el proyecto del reglamento a que se refiere este artículo.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
+
+El Ayuntamiento contará con la asesoría de las Secretarías de Finanzas y, de la Contraloría de la Administración Pública Estatal para formular el proyecto del reglamento a que se refiere este artículo.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 137.
 
-La formulación de estados financieros o presupuestales se realizará conforme a lo previsto en las disposiciones legales aplicables, en base a los sistemas, procedimientos y métodos de contabilidad gubernamental que correspondan, con la participación que deba tener el Órgano de Control Interno o la instancia de fiscalización correspondiente.
+La formulación de estados financieros o presupuestales se realizará conforme a lo previsto en las disposiciones legales aplicables, en base a los sistemas, procedimientos y métodos de contabilidad gubernamental que correspondan, con la participación que deba tener el Órgano Interno de Control o la instancia de fiscalización correspondiente.
 
 ###### ARTÍCULO 138.
 
@@ -1577,19 +1689,25 @@ Es facultad del Ayuntamiento presentar ante la Legislatura del Estado iniciativa
 
 En la iniciativa de ley deberán comprenderse las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que deban servir de base para el cobro de las contribuciones sobre la propiedad inmobiliaria dentro del territorio municipal.
 
-Así mismo comprenderá los conceptos y montos del endeudamiento anual del Municipio cuando ello así se requiera conforme a las disposiciones de la ley en materia de deuda pública de los municipios.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
+
+Así mismo comprenderá los conceptos y montos del endeudamiento anual del Municipio cuando ello así se requiera conforme a las disposiciones de la legislación en materia de obligaciones, financiamientos y deuda pública y, de disciplina financiera.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 142.
 
-La iniciativa a que se refiere el artículo anterior deberá ser presentada ante la Legislatura del Estado, durante los últimos diez días del mes de noviembre de cada año.
+La iniciativa a que se refiere el artículo anterior deberá ser presentada ante la Legislatura del Estado, a más tardar el 30 de noviembre de cada año.
 
 Si la iniciativa de ley no se presentase dentro del período antes señalado, la Legislatura del Estado determinará como ingresos municipales los que hubiese aprobado para el ejercicio fiscal que estuviese en curso y prevendrá al ayuntamiento para que promueva la iniciativa de ley.
 
 En el supuesto del párrafo anterior, atendida la prevención y presentada la iniciativa de ley por el ayuntamiento, durante su siguiente período ordinario la Legislatura del Estado determinará lo que corresponda para el período del ejercicio fiscal que restare.
 
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 143.
 
-Corresponde al Cabildo aprobar anualmente el Presupuesto de Egresos Municipal para el siguiente ejercicio fiscal, previo examen, discusión y, en su caso, modificación del proyecto que someta a su consideración el Presidente Municipal antes del treinta y uno de diciembre, contemplando los ingresos que deban corresponder al Municipio.
+Corresponde al Cabildo aprobar anualmente el Presupuesto de Egresos Municipal para el siguiente ejercicio fiscal, previo examen, discusión y, en su caso, modificación del proyecto que someta a su consideración el Presidente Municipal a más tardar el día 31 de diciembre de cada año, contemplando los ingresos que deban corresponder al Municipio.
 
 ###### ARTÍCULO 144.
 
@@ -1621,13 +1739,17 @@ VIII. Los montos máximos de adjudicación directa y de adjudicación mediante i
 
 IX. Lo que adicionalmente determine el Cabildo.
 
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 145.
 
-El gasto público municipal comprende las erogaciones que por concepto de gasto corriente, inversión física, inversión financiera u obligaciones derivadas de empréstitos o créditos a cargo del Municipio en términos de las disposiciones legales en materia de deuda pública de los municipios.
+El gasto público municipal comprende las erogaciones que por concepto de gasto corriente, inversión física, inversión financiera u obligaciones derivadas de empréstitos o créditos a cargo del Municipio en términos de las disposiciones legales en materia de obligaciones, financiamientos y deuda pública y, de disciplina financiera.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 146.
 
-Para contraer obligaciones a cargo del Municipio en materia de deuda pública el Ayuntamiento se sujetará a lo previsto por disposiciones legales en materia de deuda pública de los municipios.
+Para contraer obligaciones a cargo del Municipio en materia de deuda pública el Ayuntamiento se sujetará a lo previsto por las disposiciones legales en materia de obligaciones, financiamientos y deuda pública y, de disciplina financiera.
 
 ###### ARTÍCULO 147.
 
@@ -1637,15 +1759,19 @@ El Ayuntamiento observará puntualmente lo que disponga el Presupuesto de Egreso
 
 Todo pago que se efectúe a cargo de las finanzas municipales deberá estar autorizado en el Presupuesto de Egresos Municipal y afectará a la partida correspondiente.
 
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 149.
 
-El Ayuntamiento aprobará las cuentas mensuales de la Tesorería Municipal y la cuenta anual será remitida al Congreso del Estado, para su aprobación definitiva a más tardar el 31 de enero del año siguiente al del ejercicio a que aquellas se contraigan. Tanto el Ayuntamiento, con la intervención que corresponda al Órgano Interno de Control, como el Congreso del Estado, podrán ordenar auditorías en cualquier tiempo.
+El Ayuntamiento aprobará las cuentas mensuales de la Tesorería Municipal y la cuenta anual será remitida al Congreso del Estado, para su aprobación definitiva a más tardar el primer día hábil del mes de marzo del año siguiente al ejercicio fiscal que correspondan. Tanto el Ayuntamiento, con la intervención que corresponda al Órgano Interno de Control, como el Congreso del estado, podrán ordenar auditorías en cualquier tiempo.
 
 ###### ARTÍCULO 150.
 
 El control y evaluación de la Hacienda Pública Municipal compete al Ayuntamiento por conducto del Presidente Municipal y del Síndico de Hacienda, en los términos de esta Ley, sin perjuicio del ejercicio de las funciones que correspondan al Órgano Interno de Control.
 
-El Ayuntamiento establecerá los sistemas contables y de control en el ejercicio del gasto, para lo que contará con la asesoría de la Secretaría de Finanzas y Administración.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
+
+El Ayuntamiento establecerá los sistemas contables y de control en el ejercicio del gasto, para lo que contará con la asesoría de la Secretaría de Finanzas de la administración pública estatal.
 
 #### SECCIÓN TERCERA. DE LOS BIENES DE PROPIEDAD MUNICIPAL
 
@@ -1715,7 +1841,9 @@ Los actos de transmisión de la propiedad de bienes municipales o de derechos re
 
 Los tribunales del Estado tendrán competencia exclusiva para conocer de juicios y procedimientos judiciales contenciosos relativos a bienes municipales.
 
-Compete al Síndico de Asuntos Jurídicos la representación jurídica del Municipio en toda clase de negocios judiciales o administrativos, del orden común o federal, relacionados con la defensa de los bienes del patrimonio municipal, con la intervención que, en su caso, corresponda a la Procuraduría General de Justicia del Estado.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
+
+Compete al Síndico de Asuntos Jurídicos la representación jurídica del Municipio en toda clase de negocios judiciales o administrativos, del orden común o federal, relacionados con la defensa de los bienes del patrimonio Municipal, con la intervención que, en su caso, corresponda a la Fiscalía General del Estado.
 
 ### CAPÍTULO CUARTO. DE LOS SERVICIOS PÚBLICOS
 
@@ -1973,7 +2101,13 @@ IX. Actividad industrial, comercial y de servicios a cargo de los particulares;
 
 X. Infracciones, sanciones y recursos;
 
-XI. Las demás que resulten de esta ley u otros ordenamientos aplicables, así como las que el Cabildo estime pertinentes.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JULIO DE 2017)</small>
+
+XI. Control Interno Municipal;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE JULIO DE 2017)</small>
+
+XII. Las demás que resulten de esta ley u otros ordenamientos aplicables, así como las que el Cabildo estime pertinentes.
 
 El Bando Municipal podrá modificarse en cualquier tiempo.
 
@@ -2124,3 +2258,23 @@ SEGUNDO.- Los Ayuntamientos tendrán cuarenta y cinco días a partir de la entra
 TERCERO.- Los comisarios municipales que se encuentren en ejercicio del cargo a la entrada en vigor del presente decreto, por única ocasión, continuarán en funciones hasta en tanto rindan protesta los nuevos comisarios municipales que resulten electos en los plazos que establecen las reformas contenidas en este decreto.
 
 CUARTO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 13 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 161 POR EL QUE “SE REFORMA EL INCISO “D” Y SE ADICIONA UN INCISO “E” A LA FRACCIÓN I DEL ARTÍCULO 64 Y SE REFORMA EL ARTÍCULO 65 DE LA LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 13 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 186 POR EL QUE "SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 43; EL PÁRRAFO PRIMERO DEL ARTÍCULO 44; LA FRACCIÓN I DEL ARTÍCULO 48; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 49; LA FRACCIÓN II DEL ARTÍCULO 106; LA FRACCIÓN II DEL ARTÍCULO 108; LA GRACCIÓN XXII DEL ARTÍCULO 124; EL PÁRRAFO PRIMERO Y LAS FRACCIONES XVI Y XVII DEL ARTÍCULO 128; LOS ARTÍCULOS 133 Y 134; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 136; EL ARTÍCULO 137; EL PÁRRAFO TERCERO DEL ARTÍCULO 141; EL PÁRRAFO PRIMERO DEL ARTÍCULO 142; LOS ARTÍCULOS 143, 145, 146, 149; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 150; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 158; LA FRACCIÓN XI DEL ARTÍCULO 188 Y SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 125; LAS FRACCIONES XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXX Y XXXI AL ARTÍCULO 128; LOS ARTÍCULOS 128 BIS, 128 TER Y 128 QUÁTER; UNA FRACCIÓN XII AL ARTÍCULO 188, TODOS DE LA LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE"]
+
+PRIMERO.- El presente decreto entrará en vigor el 19 de julio de 2017, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los titulares de los Órganos Internos de Control de los Municipios que se encuentren en funciones a la entrada en vigor del presente decreto, continuarán en el encargo hasta la conclusión de la vigencia de sus respectivos nombramientos.
+
+TERCERO.- En un término de 90 días contados a partir de la entrada en vigor de este decreto, los Municipios deberán armonizar el respectivo marco reglamentario.
+
+CUARTO.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido de este decreto.
