@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-la-comision-de-derechos-humanos-del-estado-de-3484"
 country: "mx"
 rank: "ley"
 publication_date: "1993-01-01"
-last_updated: "2012-08-30"
+last_updated: "2017-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2017.
 
 Ley Publicada en el Periódico Oficial del Estado de Campeche, el viernes 1º. de enero de 1993.
 
@@ -451,45 +451,113 @@ IX.- Las demás que le señale la presente Ley y el Presidente de la Comisión, 
 
 Los visitadores adjuntos auxiliarán en sus funciones a los Visitadores Generales y estarán bajo la dirección de estos en los términos que fije el Reglamento y para tal efecto deberán reunir los requisitos que establezca el mismo para su designación.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS CON LO INTEGRAN, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE JULIO DE 2017)</small>
 
-### CAPITULO VI. DEL NOMBRAMIENTO Y FACULTADES DEL ÓRGANO INTERNO DE CONTROL
+### CAPITULO VI. DEL NOMBRAMIENTO Y ATRIBUCIONES DEL ORGANO INTERNO DE CONTROL
 
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
 
-ARTICULO 23 BIS.- El titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
+ARTICULO 23 BIS.- El Órgano Interno de Control es la unidad administrativa a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno. Es un órgano de autonomía técnica y de gestión, que tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos de la Comisión de Derechos Humanos del Estado de Campeche, y de particulares vinculados con faltas graves; para la investigación, substanciación y sanción de aquellas que no son competencia del Tribunal de Justicia Administrativa del Estado de Campeche; inspeccionar el ingreso y egreso del recurso público asignado, así como presentar las denuncias por hechos u omisiones que pudieran constituir delitos ante la Fiscalía Especializada en Combate a la Corrupción del Estado de Campeche, con el fin de fortalecer el buen funcionamiento del control interno del Organismo.
 
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+El Órgano Interno de Control del (sic) Comisión de Derechos Humanos del Estado de Campeche, se integrará con:
 
-II. Gozar de buena reputación;
+I. Un Contralor Interno;
 
-III. Ser mayor de veinticinco años de edad el día de su designación; y
+II. Un responsable de Procedimientos Administrativos;
 
-IV. Tener título de Licenciado legalmente expedido en las áreas contable, jurídica, administrativa o económica.
+III. Un responsable de Auditoría de Gestión y Desempeño; y
 
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
+IV. El demás personal técnico y administrativo que requiera el Órgano Interno de Control para su funcionamiento y que permita la correspondiente previsión presupuestal.
 
-ARTICULO 23 TER.- El Órgano Interno de Control tendrá las siguientes facultades y obligaciones:
+En el desempeño de su encargo, el personal del Órgano Interno de Control se sujetará a los principios previstos en la Ley General de Responsabilidades Administrativas, a las disposiciones normativas que al efecto se emitan en el Estado, así como a sus ordenamientos internos.
 
-I.- Diseñar, desarrollar, implementar, actualizar y vigilar el cumplimiento del Manual de Organización General y los demás manuales e instructivos de organización, procedimientos y servicios;
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
 
-II.- Inspeccionar el ejercicio del gasto y administración del patrimonio de la Comisión Estatal;
+ARTICULO 23 TER.- El titular del Órgano Interno de Control será designado por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, con base en una terna propuesta por la Comisión de Derechos Humanos del Estado de Campeche, por conducto de su presidente, previa auscultación entre instituciones de educación superior y colegios de profesionistas, para que la Comisión del Congreso que corresponda, previa valoración de los requisitos de ley, rinda un informe al Pleno para que éste efectué la designación.
 
-III.- Implantar y vigilar el cumplimiento de las normas complementarias en materia de control, así cómo realizar las auditorias o revisiones que se requieran a los órganos y unidades administrativas de la Comisión Estatal, para lo cual emitirá las observaciones y recomendaciones correspondientes;
+El Órgano Interno de Control durará cinco años en el cargo, pudiendo ser ratificado para un subsiguiente periodo.
 
-IV.- Realizar auditorías de desempeño a los órganos y unidades administrativas de la Comisión Estatal de conformidad con las metas y actividades establecidas en el Programa Anual de Trabajo;
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
 
-V.- Establecer las políticas que regirán las contrataciones de auditores externos y dar seguimiento al cumplimiento de las observaciones y recomendaciones que formulen dichos auditores y las que emita la Auditoria Superior del Estado;
+ARTICULO 23 QUARTER.- Para ser titular del Órgano Interno de Control de la Comisión de Derechos Humanos del Estado de Campeche deberá reunir los siguientes requisitos:
 
-VI.- Establecer los mecanismos para difundir la obligación de presentar la declaración de situación patrimonial; por parte de los servidores públicos de la Comisión Estatal;
+I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos civiles y políticos;
 
-VII.- Recibir, registrar y custodiar las declaraciones de situación patrimonial que presenten los servidores públicos de la Comisión Estatal en términos de las disposiciones legales aplicables e intervenir en los actos de entrega y recepción del cargo de estos servidores públicos;
+II. Ser mayor de veinticinco años el día de su designación;
 
-VIII.- Recibir, investigar y resolver las quejas y denuncias que se presenten en contra de los servidores públicos de este Organismo, en los términos de la normatividad aplicable;
+III. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año.
 
-IX.- Acordar con el Presidente de la Comisión los asuntos de su competencia; y
+IV. Contar el día de su designación, con título profesional de licenciado en derecho, contador público, licenciado en economía, licenciado en administración, o cualquier otro título profesional relacionado con las actividades de fiscalización, control interno, administrativas o contenciosas; estudios especializados en derechos humanos, así como con experiencia mínima de cinco años en actividades de protección, observación o promoción de los derechos humanos.
 
-X.- Las demás que le confiera la presente ley, su reglamento y otras disposiciones legales aplicables, así como aquellas que le asigne el Presidente de la Comisión Estatal.
+V. No pertenecer o haber pertenecido en los cinco años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios a la Comisión de Derechos Humanos del Estado de Campeche o auditor externo de la Comisión Estatal, en lo individual durante su periodo.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+
+ARTICULO 23 QUINQUIES.- El Órgano Interno de Control de la Comisión de Derechos Humanos del Estado de Campeche tendrá las atribuciones siguientes:
+
+I. Implementar los mecanismos internos, estrategias de formación y capacitación, que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas;
+
+II. Establecer criterios, procedimientos y métodos para la revisión y fiscalización del ingreso, egreso, manejo, custodia y aplicación de fondos y recursos de la Comisión de Derechos Humanos del Estado de Campeche;
+
+III. Fijar criterios, procedimientos y métodos para la realización de auditorías de gestión o desempeño a los órganos y unidades administrativos de la Comisión Estatal de conformidad con las disposiciones que rigen el actuar de los servidores públicos, las metas y actividades establecidas en el Programa Anual de Trabajo y emprender las acciones administrativas y legales que se deriven de las mismas;
+
+IV. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos de la Comisión de Derechos Humanos del Estado de Campeche;
+
+V. Iniciar expediente a fin de investigar, substanciar y calificar los actos u omisiones que constituyan responsabilidades administrativas graves, las cuales se resolverán de conformidad con lo establecido en la Constitución Política Federal, la Constitución Política del Estado de Campeche, la Ley General de Responsabilidades Administrativas y normatividad local vigente.
+
+VI. Ejercer acción de responsabilidad ante el Tribunal de Justicia Administrativa.
+
+VII. Iniciar expediente a fin de investigar, substanciar y resolver los actos u omisiones de los servidores públicos, que constituyan responsabilidades administrativas no graves para aplicar las sanciones que correspondan, de conformidad a la Ley General de Responsabilidades Administrativas y demás normativa local e interna vigente.
+
+VIII. Presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito cometidos por servidores públicos de este Organismo ante la Fiscalía Especializada en Combate a la Corrupción;
+
+IX. Incorporar disposiciones técnicas y código de ética, conforme a la Ley General del Sistema Nacional Anticorrupción;
+
+X. Verificar las obras, bienes adquiridos o arrendados y servicios contratados, para comprobar con las inversiones y gastos autorizados que se han aplicado legal y eficientemente, al logro de los objetivos y metas de los programas aprobados.
+
+XI. Requerir a terceros que hubieren contratado bienes o servicios con este Organismo la Información relacionada con la documentación justificativa o comprobatoria respectiva, a efecto de realizar las compulsas que correspondan;
+
+XII. Solicitar toda la información necesaria para el cumplimiento de sus funciones;
+
+XIII. Efectuar visitas a las unidades administrativas de la Comisión de Derechos Humanos del Estado de Campeche para solicitar la exhibición de los documentos indispensables para la realización de sus investigaciones, sujetándose a las formalidades respectivas;
+
+XIV. Guardar reserva de la información que se le proporcione en ejercicio de sus atribuciones, en términos de las disposiciones que rigen en materia de transparencia y acceso a la información pública y de protección de datos personales;
+
+XV. Emitir los lineamientos, instruir, desahogar y resolver los procedimientos administrativos respecto de las quejas que se presenten en contra de los servidores públicos de la Comisión de Derechos Humanos del Estado de Campeche, y llevar el registro de los servidores públicos sancionados;
+
+XVI. Recibir denuncias o quejas directamente relacionadas con el uso y disposición de los ingresos y recursos de la Comisión de Derechos Humanos del Estado de Campeche por parte de los servidores públicos del mismo y desahogar los procedimientos a que haya lugar;
+
+XVII. Formular pliegos de observaciones y propuestas de mejores prácticas en materia administrativa;
+
+XVIII. Determinar los daños y perjuicios que afecten a la Comisión de Derechos Humanos del Estado de Campeche en su patrimonio y fincar las responsabilidades, en términos de la legislación correspondiente;
+
+XIX. Entregar informes el primer día hábil de los meses de mayo y noviembre de sus labores en materia de responsabilidades administrativas, para hacerlo llegar al Sistema Estatal Anticorrupción;
+
+XX. Presentar para la aprobación del presidente de la Comisión de Derechos Humanos del Estado de Campeche su programa anual de trabajo y de evaluación, en el mes de noviembre de cada año;
+
+XXI. Recibir, registrar y custodiar las declaraciones de situación patrimonial, de Intereses, y en su caso, de Impuestos, que presenten los servidores públicos de la Comisión Estatal en términos de las disposiciones legales aplicables, conforme a los formatos y procedimientos que establezca el Sistema Estatal Anticorrupción;
+
+XXII. Intervenir en los actos de entrega-recepción del cargo de estos servidores públicos, conforme a los formatos y procedimientos que establezca el propio Órgano Interno de Control, con base en lo señalado en la Ley General de Responsabilidades Administrativas;
+
+XXIII. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos;
+
+XXIV. Diseñar, desarrollar, implementar, actualizar y vigilar el cumplimiento del Manual de Organización General, estructura orgánica y los demás manuales e instructivos de organización, procedimientos y servicios;
+
+XXV. Implantar y vigilar el cumplimiento de las normas complementarias en materia de control, así como realizar las auditorias o revisiones que se requieran a los órganos y unidades administrativas de la Comisión Estatal, para lo cual emitirá las observaciones y recomendaciones correspondientes que deberá presentar al Presidente de la Comisión de Derechos Humanos;
+
+XXVI. Establecer las políticas que regirán las contrataciones de auditores externos y dar seguimiento al cumplimiento de las observaciones y recomendaciones que formulen dichos auditores y las que emita la Auditoría Superior del Estado;
+
+XXVII. Realizar auditorías de gestión o desempeño a los órganos y unidades administrativas de la Comisión Estatal de conformidad con las metas y actividades establecidas en el Programa Anual de Trabajo y emprender las acciones las acciones administrativas y legales que se deriven de las mismas;
+
+XXVIII. Participar en los Comités de los que el Órgano Interno de Control forma parte, e intervenir en los actos que se deriven de los mismos;
+
+XXIX. Las demás que le confiera la presente ley, su reglamento y otras disposiciones legales aplicables, así como aquellas que le asigne el Presidente de la Comisión Estatal.
+
+Los servidores públicos adscritos al Órgano Interno de Control deberán guardar estricta reserva sobre la información y documentación que conozcan con motivo del desempeño de sus atribuciones, así como de sus actuaciones y observaciones.
+
+Las áreas y servidores públicos de la Comisión de Derechos Humanos del Estado de Campeche estarán obligados a proporcionar la información, permitir la revisión y atender los requerimientos que les presente el Órgano Interno de Control, sin que dicha revisión interfiera u obstaculice el ejercicio de sus funciones o atribuciones legales.
+
+Con motivo de los procedimientos administrativos, los servidores públicos tendrán asegurado el ejercicio de sus derechos fundamentales establecidos en la Constitución Política de los Estados Unidos Mexicanos, y en la particular del Estado, y podrán interponer los recursos legales procedentes para dirimir las controversias laborales o administrativas que vulneren sus derechos.
 
 ## TITULO III. DEL PROCEDIMIENTO ANTE LA COMISION DE DERECHOS HUMANOS
 
@@ -854,3 +922,17 @@ SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que 
 P.O. 30 DE AGOSTO DE 2012.
 
 ÚNICO.- El presente decreto entrará en vigor a los tres días siguientes de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 180 POR EL QUE "SE REFORMAN LA DENOMINACIÓN DEL CAPÍTULO VI “DEL NOMBRAMIENTO Y FACULTADES DEL ÓRGANO INTERNO DE CONTROL” PARA QUEDAR COMO CAPÍTULO VI “DEL NOMBRAMIENTO Y ATRIBUCIONES DEL ÓRGANO INTERNO DE CONTROL” DEL TÍTULO II Y LOS ARTÍCULOS 23 BIS, 23 TER Y SE ADICIONAN LOS ARTÍCULOS 23 QUARTER Y 23 QUINQUIES DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día 19 de julio de 2017, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El titular del Órgano Interno de Control de la Comisión de Derechos Humanos del Estado de Campeche, que se encuentre en funciones a la entrada en vigor del presente decreto, continuará en el encargo en los términos de su nombramiento actual.
+
+TERCERO.- Para el cumplimiento de este decreto se deberá prever en el presupuesto de egresos del Estado del ejercicio fiscal 2018, las partidas presupuestales necesarias para la creación de las nuevas áreas contemplados en la presente iniciativa.
+
+CUARTO.- En un término de 90 días contados a partir de la entrada en vigor de este decreto, deberá armonizarse en el Reglamento Interno de la Comisión de Derechos Humanos del Estado de Campeche, lo que corresponda al Órgano Interno de Control.
+
+QUINTO.- Se derogan todas las disposiciones legales, reglamentarias y administrativas en lo que se opongan al presente decreto.
