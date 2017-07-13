@@ -4,7 +4,7 @@ identifier: "SON-ley-que-regula-el-funcionamiento-y-operacion-de-yunques-y-61489
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-02"
-last_updated: "2014-12-11"
+last_updated: "2017-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61489&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY QUE REGULA EL FUNCIONAMIENTO Y OPERACION DE YUNQUES Y RECICLADORAS PARA EL ESTADO DE SONORA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY QUE REGULA EL FUNCIONAMIENTO Y OPERACIÓN DE YUNQUES Y RECICLADORAS PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JULIO DE 2017.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el lunes 2 de junio de 2008.
 
@@ -91,9 +93,17 @@ VII.- Ejecutar los convenios de coordinación que suscriba y celebre con el Gobi
 
 VIII.- Celebrar convenios con los sectores público, social o privado, para el mejor cumplimiento de esta ley;
 
-IX.- Verificar e inspeccionar los Yunques y Recicladoras e imponer las sanciones previstas en el artículo 26 de la presente ley; y
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2017)</small>
 
-X.- Las demás que se establezcan en esta ley, en la legislación en materia ecológica y de protección civil y en otros ordenamientos jurídicos que resulten aplicables.
+IX.- Verificar e inspeccionar los Yunques y Recicladoras, pudiendo para ello celebrar convenios de colaboración con los municipios, e imponer las sanciones previstas en el artículo 26 de la presente ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 13 DE JULIO DE 2017)</small>
+
+X.- Capacitar a los propietarios de establecimientos sobre reglamentos y lineamientos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 13 DE JULIO DE 2017)</small>
+
+XI.- Las demás que se establezcan en esta ley, en la legislación en materia ecológica y de protección civil y en otros ordenamientos jurídicos que resulten aplicables.
 
 ###### Artículo 5.
 
@@ -147,13 +157,31 @@ VII.- Otorgar garantías ante la Secretaría y, en su caso, los ayuntamientos, p
 
 VIII.- Proporcionar a la Secretaría y, en su caso, a los ayuntamientos la información que les sea requerida;
 
-> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2017)</small>
 
-IX.- Verificar, en todo momento, el origen de los materiales u objetos que compran para el desarrollo de su actividad y llevar un registro con los datos de la identificación correspondiente de las personas que les ofrecen en venta dichos materiales u objetos, registrando la cantidad comprada y la fecha en que se llevó a cabo la compra;
+IX.- Verificar en todo momento el origen de los materiales u objetos que compran para el desarrollo de su actividad y llevar un registro de las personas que ofrecen a éstos en venta dichos materiales u objetos, registrando la cantidad comprada y la fecha en que se llevó a cabo la compra, para efecto de tener un registro confiable se deberá contar con los datos de:
 
-> <small>(REFORMADA, B.O. 11 DE DICIEMBRE DE 2014)</small>
+a).- Identificación oficial de cliente(s);
 
-X.- Proporcionar, mensualmente, a la Secretaría y a la Procuraduría General de Justicia, la lista de materiales y copia fotostática de las identificaciones oficiales de todas las personas de quienes adquirieron material reciclable de cualquier tipo;
+b).- Registro Federal de Contribuyente;
+
+c).- Acta Constitutiva y Poder(es) que acredite(n) las facultades de quien acuda en su representación, para el caso que se trate de personas morales;
+
+d).- Comprobante de Domicilio con una antigüedad no mayor a tres meses al momento de efectuar la operación;
+
+e).- Escrito libre en el que el cliente haga constar, bajo protesta de decir verdad, que actúa a nombre y por cuenta propia y no a cuenta de un tercero; y
+
+f).- Escrito libre en el que el cliente haga constar, bajo protesta de decir verdad, el origen lícito de los artículos objeto de comercialización.
+
+g).- Documento con huellas dactilares y fotografía de rostro de la persona vendedora de los artículos objeto de comercialización.
+
+h).- Fotografía del objeto de comercialización.
+
+Los propietarios, representantes legales en caso de persona moral o encargados de Yunques y Recicladoras, deberán tener a la vista en todo momento los requisitos ya mencionados anteriormente.
+
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2017)</small>
+
+X.- Proporcionar, mensualmente a la Secretaría y a la Fiscalía General de Justicia del Estado de Sonora, la lista de materiales y copia fotostática de las identificaciones oficiales, copia de huellas dactilares, datos de contacto y fotografía de todas las personas de quienes adquirieron el material reciclable de cualquier tipo;
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 11 DE DICIEMBRE DE 2014)</small>
 
@@ -179,7 +207,31 @@ V.- Incinerar cualquier tipo de material que pudiera contravenir la normatividad
 
 VI.- Hacer uso inadecuado de las instalaciones;
 
-VII.- Comprar materiales u objetos identificables como propiedad de personas físicas o morales públicas o privadas, salvo que cuenten con la autorización correspondiente de la persona física o moral de que se trate; y
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2017)</small>
+
+VII.- Comprar materiales u objetos identificables como propiedad de personas físicas o morales públicas o privadas, salvo que cuenten con la autorización correspondiente de la persona física o moral de que se trate.
+
+Queda prohibido la compra de:
+
+a).- Casetas telefónicas;
+
+b).- Alcantarillas;
+
+c).- Medidores de agua o luz;
+
+d).- Señalamientos de vialidades;
+
+e).- Cristos y cruces de panteones;
+
+f).- Placas de monumentos;
+
+g).- Monumentos;
+
+h).- Materiales de CFE; y
+
+i).- Materiales de Telmex.
+
+En caso de una empresa privada o institución se debe de solicitar la factura correspondiente; y
 
 VIII.- Las demás prohibiciones previstas en otros ordenamientos que resulten aplicables con motivo del funcionamiento de los establecimientos sujetos a la presente ley.
 
@@ -263,11 +315,37 @@ Las autoridades podrán coordinarse para establecer políticas y criterios que l
 
 Los propietarios o representantes legales, en caso de persona moral, de los Yunques y Recicladoras están obligados a dar aviso a la Secretaría o al Ayuntamiento de cualquier cambio en los datos a que se refiere el artículo 12 de esta ley, en un plazo máximo de diez días hábiles, contados a partir de que se realicen dichos cambios.
 
-### Capítulo VII. De las Inspecciones, infracciones, sanciones, medidas de seguridad y recurso
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 13 DE JULIO DE 2017)</small>
+
+### Capítulo VII
+
+De las inspecciones, infracciones y sanciones.
+
+> <small>(ADICIONADA, B.O. 13 DE JULIO DE 2017)</small>
+
+#### Sección I. De las inspecciones
 
 ###### Artículo 23.
 
 Las visitas de verificación e inspección que realice el personal autorizado por la Secretaría o los ayuntamientos, según sea el caso, en los establecimientos sujetos a esta ley; así como las medidas de seguridad que para tal efecto se determinen, deberán realizarse de conformidad a lo dispuesto por la Ley de Procedimiento Administrativo del Estado de Sonora.
+
+> <small>(ADICIONADO, B.O. 13 DE JULIO DE 2017)</small>
+
+Para efecto de lo anterior, la Secretaría deberá de implementar un programa estatal de verificación de registros en coordinación con las autoridades responsables de aplicar esta ley, mismo, que será regulado por su respectivo reglamento.
+
+> <small>(ADICIONADO, B.O. 13 DE JULIO DE 2017)</small>
+
+###### Artículo 23 Bis.
+
+El programa estatal de verificación de registros tiene por objeto llevar una armonización de criterios para la habilitación de sistemas de control, a efectos de evitar que organizaciones criminales o personas que comenten el delito de robo, se valgan de estos esquemas de negocio para financiar sus actividades, de igual forma, dicho programa buscará la regularización de todos aquellos yunques o recicladoras que no cuentan con un registro y, por lo tanto, no cumplen esta ley y demás ordenamientos jurídicos.
+
+> <small>(ADICIONADO, B.O. 13 DE JULIO DE 2017)</small>
+
+Artículo 23 Bis I.- El programa estatal de verificación de registro deberá aplicarse cada año y podrá ejecutarse con la ayuda de otras dependencias u (sic) entidades de la administración pública federal, estatal o municipal, mediante la celebración del convenio respectivo, debiendo para ello privilegiar aquellas que tengan funciones de seguridad o protección al consumidor.
+
+> <small>(ADICIONADA, B.O. 13 DE JULIO DE 2017)</small>
+
+#### Sección II. Infracciones y sanciones
 
 ###### Artículo 24.
 
@@ -394,3 +472,15 @@ B.O. 11 DE DICIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+B.O. 13 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 147, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO PENAL DEL ESTADO DE SONORA, DE LA LEY QUE REGULA EL FUNCIONAMIENTO Y OPERACIÓN DE YUNQUES Y RECICLADORAS DEL ESTADO DE SONORA Y DE LA LEY QUE DETERMINA LAS BASES DE OPERACIÓN DE LAS CASAS DE EMPEÑO DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en un plazo de sesenta días naturales, contado a partir de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, la Secretaría de Hacienda del Estado, deberá modificar los reglamentos correspondientes para adecuarlos a las disposiciones contenidas en este ordenamiento jurídico.
