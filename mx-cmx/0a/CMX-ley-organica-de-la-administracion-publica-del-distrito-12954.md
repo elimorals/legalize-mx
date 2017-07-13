@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-administracion-publica-del-distrito-12954"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-29"
-last_updated: "2017-07-05"
+last_updated: "2017-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12954&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-14"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 5 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 13 DE JULIO DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -257,6 +257,12 @@ La Administración Pública del Distrito Federal tendrá a su cargo los servicio
 ###### Artículo 13.
 
 El Jefe de Gobierno designará a los servidores públicos que participarán en el Comité de Trabajo para la determinación de la división territorial a que se refiere el artículo 109 del Estatuto de Gobierno.
+
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2017)</small>
+
+Artículo 13 bis.- Todas las autoridades de la Ciudad de México, cuyas atribuciones correspondan al uso, conservación, preservación y aprovechamiento del suelo, así como del ordenamiento territorial y cuidado del medio ambiente, estarán obligadas, para el correcto cumplimiento de sus funciones, a complementar en forma continua y permanente con la información cartográfica que éstas dispongan o generen a través de su actuación, el Sistema de Información Geográfica del Patrimonio Ambiental y Urbano de la Ciudad de México que, para tal efecto implemente la Procuraduría Ambiental y del Ordenamiento Territorial. Asimismo, las instituciones deberán observar lo establecido en este instrumento.
+
+Lo anterior, con la finalidad de integrar en una sola herramienta tecnológica disponible para el público a partir de la web, la información que contribuya a una correcta planificación, gestión y divulgación de los usos del suelo, así como la relacionada al cuidado del medio ambiente.
 
 ###### Artículo 14.
 
@@ -2873,3 +2879,13 @@ SEGUNDO.- Publíquese en la Gaceta Oficial de Ciudad de México, para su conocim
 TERCERO.- La Asamblea Legislativa del Distrito Federal para el ejercicio fiscal 2018, debe destinar recursos suficientes a la Secretaría de Desarrollo Social, para la implementación de la Acción Interinstitucional denominada “Por tu Familia, Desarme Voluntario" y su modalidad "Por Tu Familia, Desarme Voluntario te Acompaña Desde Tu Casa''.
 
 CUARTO.- La Secretaría de Finanzas realizará las gestiones necesarias para la asignación presupuestal a la Secretaría de Desarrollo Social.
+
+G.O. 13 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL Y DE LA LEY ORGÁNICA DE LA PROCURADURÍA AMBIENTAL Y DEL ORDENAMIENTO TERRITORIAL DEL DISTRITO FEDERAL".]
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y para mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- La Asamblea Legislativa del Distrito Federal, en la aprobación el (sic) Presupuesto de Egresos de 2017, deberá asignar una partida presupuestal que contemple recursos suficientes para la implementación del Sistema de Información Geográfica del Patrimonio Ambiental y Urbano de la Ciudad de México.
