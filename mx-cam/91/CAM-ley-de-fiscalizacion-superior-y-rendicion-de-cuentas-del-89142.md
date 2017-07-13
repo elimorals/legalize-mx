@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-fiscalizacion-superior-y-rendicion-de-cuentas-del-89142"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-03"
-last_updated: "2012-08-03"
+last_updated: "2017-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89142&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY DE FISCALIZACION SUPERIOR Y RENDICION DE CUENTAS DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. DE 13 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2017 (DEROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 3 de agosto de 2012.
 
@@ -407,7 +409,7 @@ En los casos donde la Entidad Fiscalizada ofrezca documentación o información 
 
 VIII.- Cuando resulte imposible continuar o concluir el ejercicio de las facultades para la Revisión y Fiscalización de las Cuentas Públicas, las actas en las que se haga constar el desarrollo de una visita domiciliaria, podrán levantarse en las oficinas de la Entidad de Fiscalización. En este caso, se deberá notificar previamente esta circunstancia al representante legal de la Entidad Fiscalizada o a la persona con quien se entiende la diligencia;
 
-IX.- Si en el cierre del acta circunstanciada final de la visita no estuviere presente el representante legal de la Entidad Fiscalizada, se le dejará citatorio para que esté presente a una hora determinada del día siguiente, si no se presentare, el acta final se levantará ante quien estuviere presente en el lugar visitado; .en ese momento cualquiera de las personas comisionados o habilitados que hayan intervenido en la visita domiciliaria, el representante legal de la Entidad Fiscalizada o la persona con quien se entiende la diligencia y los testigos firmarán el acta de la que se dejará un tanto al representante legal de la Entidad Fiscalizada o la persona con quien se entiende la diligencia. Si el representante legal de la Entidad Fiscalizada o la persona con quien se entendió la diligencia no comparecen a firmar el acta, se niegan a firmarla, o el representante legal de la Entidad Fiscalizada o la persona con quien se entendió la diligencia se niegan a aceptar copia del acta, dicha circunstancia se asentará en la propia acta sin que esto afecte la validez y valor probatorio de la misma;
+IX.- Si en el cierre del acta circunstanciada final de la visita no estuviere presente el representante legal de la Entidad Fiscalizada, se le dejará citatorio para que esté presente a una hora determinada del día siguiente, si no se presentare, el acta final se levantará ante quien estuviere presente en el lugar visitado; en ese momento cualquiera de las personas comisionados o habilitados que hayan intervenido en la visita domiciliaria, el representante legal de la Entidad Fiscalizada o la persona con quien se entiende la diligencia y los testigos firmarán el acta de la que se dejará un tanto al representante legal de la Entidad Fiscalizada o la persona con quien se entiende la diligencia. Si el representante legal de la Entidad Fiscalizada o la persona con quien se entendió la diligencia no comparecen a firmar el acta, se niegan a firmarla, o el representante legal de la Entidad Fiscalizada o la persona con quien se entendió la diligencia se niegan a aceptar copia del acta, dicha circunstancia se asentará en la propia acta sin que esto afecte la validez y valor probatorio de la misma;
 
 X.- En cuanto a las actas circunstanciadas parciales, se entenderá que forman parte integrante del acta circunstanciada final de la visita domiciliaria aunque no se señale así expresamente;
 
@@ -1621,7 +1623,7 @@ II.- Tener por lo menos treinta años cumplidos al día de su nombramiento;
 
 III.- Cumplir los requisitos señalados en las fracciones III, IV, V, VIII, IX Y X del artículo 175 de esta Ley;
 
-IV.- Contar, el día de su nombramiento, con antigüedad mínima de cinco años, con titulo y cédula profesional de contador público, licenciado en derecho, abogado, licenciado en , economía, licenciado en administración o cualquier otro título cédula profesional relacionado con las actividades de fiscalización, dentro del área contable y financiera, expedido por autoridad o institución legalmente facultada para ello;
+IV.- Contar, el día de su nombramiento, con antigüedad mínima de cinco años, con titulo y cédula profesional de contador público, licenciado en derecho, abogado, licenciado en, economía, licenciado en administración o cualquier otro título cédula profesional relacionado con las actividades de fiscalización, dentro del área contable y financiera, expedido por autoridad o institución legalmente facultada para ello;
 
 V.- Contar al momento de su designación con una experiencia de tres años en actividades o funciones relacionadas con el control y fiscalización del gasto público; auditoría financiera; evaluación del gasto público, del desempeño y de políticas públicas; y
 
@@ -1812,3 +1814,23 @@ Presidente.- C. Carlos Alberto Arjona Gutiérrez, Diputado Secretario.- C. Enriq
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, a los diez días del mes de julio del año dos mil doce.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO EUTIMIO ORTEGA BERNES.- LA SECRETARIA "A" DE GOBIERNO ENCARGADA DEL DESPACHO DE LA SECRETARIA DE GOBIERNO, MTRA. PERLA KARINA CASTRO FARIAS.- RUBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 187 POR EL QUE “SE EXPIDE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día 19 de julio de 2017, previa su publicación en el Periódico Oficial del Estado, sin perjuicio de lo previsto en los transitorios siguientes.
+
+SEGUNDO.- Las referencias, remisiones o contenidos del presente decreto que estén vinculados con la aplicación de la Ley General del Sistema Nacional Anticorrupción, de la Ley General de Responsabilidades Administrativas, de las nuevas facultades del Tribunal Federal de Justicia Administrativa, así como sus normas o disposiciones equivalentes para el Estado de Campeche, entrarán en vigor cuando dichos ordenamientos se encuentren vigentes.
+
+TERCERO.- Se deroga la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Campeche, publicada en el Periódico Oficial del Estado el 3 de agosto de 2012, conforme a lo dispuesto en los artículos transitorios subsecuentes y se derogan todas las disposiciones legales que contravengan o se opongan a la presente Ley.
+
+CUARTO.- Los procedimientos administrativos iniciados de conformidad con la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Campeche y la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche que se encuentren en trámite o pendientes de resolución a la entrada en vigor de la presente Ley, se resolverán hasta su conclusión definitiva, en términos de la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Campeche que se deroga y la referida Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche que se deroga en atención a las disposiciones transitorias de la Ley General de Responsabilidades Administrativas, así como los que se deriven de las funciones de fiscalización y revisión hasta las cuentas públicas del año 2016.
+
+QUINTO.- Las funciones de fiscalización y revisión de la Auditoría Superior del Estado de Campeche referidas en la presente Ley, se aplicarán a partir de la revisión de las Cuentas Públicas del año 2017, salvo las excepciones previstas en este mismo ordenamiento.
+
+SEXTO.- La Auditoría Superior del Estado de Campeche deberá actualizar y, en su caso, publicar la normatividad reglamentaria que conforme a sus atribuciones deba expedir o modificar, en un plazo no mayor a 90 días hábiles contados a partir de la vigencia de la presente ley.
+
+SÉPTIMO.- El titular de la Auditoría Superior del Estado que se encuentra en funciones a la entrada en vigor de la presente ley, continuará en el cargo hasta concluir la vigencia de su nombramiento.
