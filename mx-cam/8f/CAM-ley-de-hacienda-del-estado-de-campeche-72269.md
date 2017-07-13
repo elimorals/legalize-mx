@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-del-estado-de-campeche-72269"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-21"
-last_updated: "2017-01-06"
+last_updated: "2017-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "CAM"
 
 LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 6 DE ENERO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 21 de diciembre de 2009.
 
@@ -2405,15 +2403,61 @@ VII. Por comodato anualmente 206
 
 Las autoridades estatales regularán en sus reglamentos respectivos o mediante disposiciones de carácter general, los requisitos para la obtención de estas licencias o permisos en materia de bebidas alcohólicas.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JULIO DE 2017)</small>
+
+### CAPÍTULO IX. POR LOS SERVICIOS DE SALUD PRESTADOS POR INSTITUCIONES DE SALUD PÚBLICA EN EL ESTADO
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+
+###### ARTÍCULO 79-A.
+
+Se causarán y pagarán derechos al Estado por los servicios que proporcionen las instituciones de salud pública, mismos que tendrán el carácter de cuotas de recuperación del costo de los servicios prestados, conforme a la tabla contenida en el Artículo 79 -D de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+
+###### ARTÍCULO 79-B.
+
+Las instituciones de salud pública a través de sus áreas de servicio social y atención al público o sus equivalentes y, en su caso, la Administración de la Beneficencia Pública del Estado de Campeche, considerando el costo de los servicios y valorando las condiciones socioeconómicas de los usuarios, podrán eximir parcial o totalmente a aquellos que carezcan de recursos para cubrirlas.
+
+Para la determinación de las condiciones socioeconómicas de los usuarios de los servicios de salud las instituciones de salud pública deberán seguir los Criterios Generales y la Metodología a las que deberán sujetarse los Procesos de Clasificación Socioeconómica de Pacientes de las Instituciones de Salud Pública en el Estado de Campeche.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+
+###### ARTÍCULO 79-C.
+
+En la aplicación de las cuotas de los derechos por servicios prestados por instituciones de salud pública a que refiere el artículo 79-D de esta Ley, deberán observarse los siguientes aspectos específicos:
+
+I. Las cuotas de recuperación que obtenga el Estado por los servicios públicos de salud serán destinadas para los programas y apoyos de asistencia médica y de rehabilitación en el Estado.
+
+II. Los servicios de salud y atención médica relacionados con programas de protección social en salud, se cobrarán conforme a los convenios o acuerdos que al efecto celebren el Ejecutivo Federal, Entidades Federativas y el Ejecutivo del Estado de Campeche.
+
+III. Los servicios de salud y atención médica que se presten derivados de los acuerdos o convenios que se celebren con otras instituciones, se sujetarán a las cuotas pactadas en los mismos.
+
+IV. Los ingresos que se obtengan por concepto de medicamentos y material de curación, se aplicarán en esos mismos rubros y en las unidades que los generen.
+
+V. El costo de los paquetes incluye el servicio, medicamentos y material de curación.
+
+VI. Los servicios de salud y atención médica que se presten a los internos derivados de los acuerdos o convenios que se celebren con la Secretaría de Seguridad Pública, se sujetarán a las cuotas pactadas en los mismos.
+
+VII. La recaudación de estas cuotas de recuperación se hará a través de las ventanillas de la Secretaría de Finanzas y se remitirá al Instituto de Servicios Descentralizados de Salud Pública para que, a su vez, otorgue lo que corresponda a la Administración de la Beneficencia Pública, conforme a lo establecido en su acuerdo de creación.
+
+VIII. El procedimiento y los tiempos para que la Secretaría de Finanzas remita lo recaudado por concepto de cuotas de recuperación se sujetará al convenio de Coordinación que celebren la Secretaría de Finanzas de la Administración Pública Estatal y el Instituto Descentralizado de Servicios de Salud Pública del Estado de Campeche.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+
+###### ARTÍCULO 79-D.
+
+Por servicios que proporcionan las instituciones de salud pública se causarán y pagarán los derechos establecidos en el siguiente tabulador:
+
+> <small>[N. DE E. VÉASE TABULADOR EN EL P.O. DE 13 DE JULIO DE 2017, PÁGINAS DE LA 18 A LA 105.]</small>
+
 ### CAPÍTULO I. POR ENAJENACIÓN DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL ESTADO
 
 ### CAPÍTULO II. POR EL IMPORTE DE LOS ARRENDAMIENTOS DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL ESTADO
 
-### CAPÍTULO III. POR TALLERES GRÁFICOS Y PERIÓDICO OFICIAL DEL ESTADO
-
 ## TÍTULO CUARTO. DE LOS PRODUCTOS
 
-### CAPÍTULO IV. POR BIENES MOSTRENCOS Y VACANTES
+### CAPÍTULO III. POR TALLERES GRÁFICOS Y PERIÓDICO OFICIAL DEL ESTADO
 
 ###### ARTÍCULO 80.
 
@@ -2431,15 +2475,15 @@ Los muebles e inmuebles que el Estado se haya adjudicado en pago de contribucion
 
 Los bienes a que se refiere el artículo anterior podrán ser donados a los Municipios e instituciones de beneficencia pública para fines directos a la comunidad y con las salvedades o condiciones que el Ejecutivo determine.
 
-### CAPÍTULO V. POR INSTITUCIONES DE ASISTENCIA SOCIAL
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+### CAPÍTULO IV. POR BIENES MOSTRENCOS Y VACANTES
 
 ###### ARTÍCULO 84.
 
 Ingresarán íntegramente a la Hacienda Pública del Estado los importes por concepto de arrendamiento de bienes muebles e inmuebles propiedad del Estado.
 
-### CAPÍTULO VI. POR LAS UTILIDADES DE LOS ORGANISMOS DESCENTRALIZADOS, EMPRESAS DE PARTICIPACIÓN ESTATAL MAYORITARIA Y FIDEICOMISOS
+### CAPÍTULO V. POR INSTITUCIONES DE ASISTENCIA SOCIAL
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 85.
 
@@ -2483,7 +2527,7 @@ a) Ejemplar 2.25
 
 b) Otras publicaciones editadas, se cobrará el costo de la impresión.
 
-### CAPÍTULO VII. OTROS PRODUCTOS
+### CAPÍTULO VI. POR LAS UTILIDADES DE LOS ORGANISMOS DESCENTRALIZADOS, EMPRESAS DE PARTICIPACIÓN ESTATAL MAYORITARIA Y FIDEICOMISOS
 
 ###### ARTÍCULO 88.
 
@@ -2493,19 +2537,19 @@ Ingresarán a la Hacienda Pública del Estado, previo al procedimiento correspon
 
 Los bienes de las personas que mueran intestadas, careciendo de los herederos a que se refieren los Capítulos I al V del Título Cuarto del Libro Tercero del Código Civil vigente en el Estado, serán adjudicados a la Hacienda Pública del Estado. A las personas que denuncien ante las autoridades competentes el hecho, así como la situación a que alude el artículo anterior, se les otorgará una participación del 20 % sobre el importe de los bienes denunciados, si no existe reclamación alguna.
 
-### CAPÍTULO I. GARANTÍAS Y MULTAS
+### CAPÍTULO VII. OTROS PRODUCTOS
 
 ###### ARTÍCULO 90.
 
 El Servicio de Administración Fiscal del Estado de Campeche recaudará directamente las cuotas por los servicios que presten las instituciones de asistencia social estatales, con excepción de aquellas instituciones que hayan sido creadas como organismos descentralizados de la administración pública estatal.
 
-### CAPÍTULO II. REINTEGROS
+### CAPÍTULO I. GARANTÍAS Y MULTAS
 
 ###### ARTÍCULO 91.
 
 Corresponden a la Hacienda Pública del Estado de Campeche, los ingresos por utilidades de los organismos descentralizados, empresas de participación estatal y fideicomisos.
 
-### CAPÍTULO III. DONACIONES
+### CAPÍTULO II. REINTEGROS
 
 ###### ARTÍCULO 92.
 
@@ -2513,7 +2557,7 @@ Se consideran como otros Productos aquellos que no se encuentren, comprendidos e
 
 ## TÍTULO QUINTO. DE LOS APROVECHAMIENTOS
 
-### CAPÍTULO IV. PRÉSTAMOS
+### CAPÍTULO III. DONACIONES
 
 ###### ARTÍCULO 93.
 
@@ -2529,7 +2573,7 @@ Las garantías constituidas para la autorización de permisos especiales a menor
 
 Ingresarán a la Hacienda Pública las multas impuestas administrativamente por cualquier autoridad del Estado, las establecidas en calidad de penas en los procesos de orden judicial y las provenientes de la conmutación de sanciones que dispongan las Leyes respectivas. Las autoridades que las impongan, tienen obligación de comunicarlo a las autoridades hacendarias.
 
-### CAPÍTULO V. APROVECHAMIENTOS DIVERSOS
+### CAPÍTULO IV. PRÉSTAMOS
 
 ###### ARTÍCULO 96.
 
@@ -2539,7 +2583,7 @@ Las cantidades pagadas de más o indebidamente con cargo al Presupuesto de Egres
 
 También ingresarán por este concepto las responsabilidades administrativas que se finquen por autoridad competente y que se hagan efectivas.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO V. APROVECHAMIENTOS DIVERSOS
 
 ###### ARTÍCULO 98.
 
@@ -2547,17 +2591,13 @@ Ingresarán al Erario Estatal las donaciones que se hagan en favor del Estado. C
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
-### CAPÍTULO PRIMERO
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 99.
 
 (DEROGADO, P.O. 26 DE DICIEMBRE DE 2011)
 
-### CAPÍTULO SEGUNDO. DE LOS INGRESOS DERIVADOS DE FINANCIAMIENTOS
-
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
-
-ARTÍCULO 105 BIS.- Son los ingresos obtenidos por la celebración de empréstitos o créditos a favor del Estado, los cuales se contratarán, regularán, ejercerán y aplicarán de conformidad con la Ley de Deuda Pública del Estado de Campeche y sus Municipios.
+### CAPÍTULO PRIMERO
 
 ###### ARTÍCULO 100.
 
@@ -2579,15 +2619,19 @@ III.- Las fianzas cuya pérdida se declare por resolución firme a favor del Est
 
 ## TÍTULO SEXTO. DE LOS ACCESORIOS
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO SEGUNDO. DE LOS INGRESOS DERIVADOS DE FINANCIAMIENTOS
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
+
+ARTÍCULO 105 BIS.- Son los ingresos obtenidos por la celebración de empréstitos o créditos a favor del Estado, los cuales se contratarán, regularán, ejercerán y aplicarán de conformidad con la Ley de Deuda Pública del Estado de Campeche y sus Municipios.
 
 ## TÍTULO SÉPTIMO. DE LOS INGRESOS EXTRAORDINARIOS
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 103.
 
@@ -2596,8 +2640,6 @@ Se consideran accesorios de las contribuciones y de los aprovechamientos, lo exp
 ## TÍTULO OCTAVO. DE LAS PARTICIPACIONES
 
 ### CAPÍTULO ÚNICO
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 104.
 
@@ -2621,9 +2663,13 @@ Los ingresos a que se refiere el artículo que antecede, serán los siguientes:
 
 ### CAPÍTULO ÚNICO
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
 ## TÍTULO NOVENO. DE LOS INCENTIVOS
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 106.
 
@@ -2960,3 +3006,17 @@ DÉCIMO SEXTO.- El plazo para el cómputo de la prescripción a que se refiere e
 DÉCIMO SÉPTIMO.- La conversión de las tarifas, cuotas, derechos, multas y demás valores expresados en salarios mínimos generales diarios vigentes a Unidades de Medida y Actualización, se realizan en cumplimiento del artículo tercero transitorio del decreto por el que se declaran reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación el veintisiete de enero de dos mil dieciséis.
 
 DÉCIMO OCTAVO.- Las referencias al Registro Único de Obligaciones y Financiamientos se entenderán hechas al Registro de Empréstitos y Obligaciones.
+
+P.O. 13 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 182 POR EL QUE “SE ADICIONA UN CAPÍTULO IX AL TÍTULO TERCERO, DENOMINADO “POR LOS SERVICIOS PRESTADOS POR INSTITUCIONES DE SALUD PÚBLICA EN EL ESTADO” INTEGRADO CON LOS ARTÍCULOS 79-A, 79-B, 79-C Y 79-D A LA LEY DE HACIENDA DEL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente Decreto.
+
+Tercero.- Solo la Secretaría de Finanzas a través del Servicio de Administración Fiscal del Estado de Campeche, será la dependencia competente para recaudar los ingresos que corresponden al Estado. En el caso de que alguna de las Dependencias o sus órganos administrativos desconcentrados o aquellas instituciones de salud, unidades médicas u hospitalarias del sector público, que por la causa que fuere llegaren a percibir ingresos por alguno de los conceptos que establece esta Ley, incluyendo algún concepto de derechos por servicios de salud, previstos en el artículo 79-D de esta Ley, deberán registrarlos, enterarlos y concentrarlos en la Secretaría de Finanzas a través del Servicio de Administración Fiscal del Estado de Campeche, órgano desconcentrado de la Secretaría de Finanzas del Gobierno del Estado, el día hábil siguiente al de su recepción y deberán reflejarse cualquiera que sea su naturaleza, tanto en los registros de la propia Secretaría como en la cuenta pública. El incumplimiento de esta disposición tendrá como consecuencia la responsabilidad del o los servidores públicos.
+
+Cuarto.- El Poder Ejecutivo Estatal, en un plazo que no exceda de 60 días naturales siguientes a la fecha de entrada en vigor del presente decreto, deberá emitir los Criterios Generales y la Metodología a las que deberán sujetarse los Procesos de Clasificación Socioeconómica de Pacientes de las Instituciones de Salud Pública en el Estado, a los que hace referencia el segundo párrafo del artículo 79-B de la Ley de Hacienda del Estado de Campeche.
+
+Quinto.- El Ejecutivo del Estado deberá realizar las adecuaciones normativas relacionadas con el contenido del presente decreto, en un plazo que no exceda de 90 días hábiles siguientes a la fecha de entrada en vigor del presente decreto.
