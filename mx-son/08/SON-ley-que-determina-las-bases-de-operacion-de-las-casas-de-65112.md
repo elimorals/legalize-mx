@@ -4,7 +4,7 @@ identifier: "SON-ley-que-determina-las-bases-de-operacion-de-las-casas-de-65112"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-22"
-last_updated: "2013-06-27"
+last_updated: "2017-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65112&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY QUE DETERMINA LAS BASES DE OPERACION DE LAS CASAS DE EMPEÑO DEL ESTADO DE SONORA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY QUE DETERMINA LAS BASES DE OPERACIÓN DE LAS CASAS DE EMPEÑO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JULIO DE 2017.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el lunes 22 de diciembre de 2008.
 
@@ -81,6 +83,10 @@ Para que las personas, físicas o morales, puedan operar casas de empeño deber�
 
 El permiso a que se refiere el artículo anterior autoriza la operación de tan solo un establecimiento; en caso de que el interesado desee establecer sucursales u otro establecimiento similar, deberá solicitar en los términos de esta ley, la ampliación del permiso correspondiente.
 
+> <small>(ADICIONADO, B.O. 13 DE JULIO DE 2017)</small>
+
+Las Casas de empeño operarán en un horario de las 8:00 a las 20:00 horas, el cual deberá constar en el permiso de operación correspondiente.
+
 ###### ARTÍCULO 7.
 
 La expedición, revalidación o modificación de los permisos causará los derechos establecidos en la Ley de Ingresos del Estado correspondiente al ejercicio fiscal de que se trate.
@@ -97,9 +103,13 @@ II.- Domicilio donde se asentará el establecimiento y, en su caso, las sucursal
 
 III.- Exhibir el formato y la autorización del organismo federal competente, del contrato de mutuo con interés y garantía prendaria o asimilable a éste que utilizarán para la celebración de los préstamos ofertados al público.
 
+> <small>(REFORMADO, B.O. 13 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 9.
 
-La Secretaría deberá expedir a los propietarios o representante legal, en caso de persona moral, previo cumplimiento de las disposiciones establecidas en esta ley, los permisos de operación a que se refiere este capítulo, dentro de los cinco días hábiles siguientes a la fecha en que se realice la solicitud de inscripción.
+La Secretaría deberá expedir a los propietarios o representante legal, en caso de persona moral, previo cumplimiento de las disposiciones establecidas en esta ley, los permisos de operación a que se refiere este capítulo, dentro de los treinta días hábiles siguientes a la fecha en que se realice la solicitud de inscripción.
+
+Si la Secretaría no resuelve dentro del término señalado en el párrafo anterior se entenderá en sentido negativo.
 
 > <small>(REFORMADO, B.O. 27 DE JUNIO DE 2013)</small>
 
@@ -123,21 +133,37 @@ III.- Dar aviso a la Secretaría de la terminación de sus actividades. Dicho av
 
 IV.- Hacer del conocimiento inmediato de la autoridad competente en caso de un siniestro;
 
-V.- Permitir la inspección y verificación en las casas de empeño a los inspectores de la Secretaría;
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2017)</small>
+
+V.- Permitir la inspección y verificación en las casas de empeño a los inspectores de la Secretaría, de conformidad a lo previsto en el reglamento de la presente ley;
 
 VI.- Proporcionar a la Secretaría la información que les sea requerida;
 
 VII.- Mantener vigentes las condiciones del establecimiento de conformidad con el permiso otorgado;
 
-VIII.- Llevar un registro de entradas y salidas;
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2017)</small>
 
-IX.- Exigir la documentación relativa a los pignoratarios y los bienes objeto del contrato;
+VIII.- Llevar un registro de empeños y desempeños;
 
-X.- Observar las medidas adecuadas respecto al resguardo de los bienes objeto del contrato;
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2017)</small>
 
-XI.- Mantener vigente el permiso para operación de las casas de empeño y, en su caso, de las sucursales de los mismos; y
+IX.- Tener a la vista en todo momento los requisitos mencionados en el artículo 13, fracción IV;
 
-XII.- Las demás que establezca esta ley y otros ordenamientos jurídicos aplicables.
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2017)</small>
+
+X.- Exigir la documentación relativa al artículo 13, fracción IV;
+
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2017)</small>
+
+XI.- Observar las medidas adecuadas respecto al resguardo de los bienes objeto de contrato;
+
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2017)</small>
+
+XII.- Mantener vigente el permiso para operación de las casas de empeño y, en su caso, de las sucursales de los mismos; y
+
+ADICIONADA, B.O. 13 DE JULIO DE 2017)
+
+XIII.- Las demás que establezca esta ley y otros ordenamientos jurídicos aplicables.
 
 ### CAPÍTULO IV. DE LA REGULACIÓN DE LOS CONTRATOS
 
@@ -155,9 +181,23 @@ II.- La autorización correspondiente expedida por la autoridad federal competen
 
 III.- Lugar y fecha de celebración;
 
-> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2017)</small>
 
-IV.- Los datos de identificación del pignoratario, anexando copia, por ambos lados, de la credencial de elector, pasaporte mexicano, licencia de manejo o cualquier otro documento de identificación oficial, así como su domicilio, debiendo anexar copia de la documentación que acredite dicha situación, toda copia deberá ser debidamente cotejada con los originales por el propietario o, en su caso, el representante legal de la casa de empeño correspondiente;
+IV.- Los datos de identificación del pignoratario, anexando:
+
+a).- Copia por ambos lados, de la credencial de elector, pasaporte mexicano, licencia de manejo o cualquier otro documento de identificación oficial vigente;
+
+b).- Comprobante de domicilio con una antigüedad no mayor a tres meses al momento de efectuar la operación;
+
+c).- Documento con huellas dactilares y fotografía de rostro del pignoratario de los artículos, objeto de prenda;
+
+e) (sic).- Fotografía del objeto de prenda;
+
+f).-Escrito libre en el que el pignoratario haga constar, bajo protesta de decir verdad, que actúa a nombre y por cuenta propia y no a cuenta de un tercero o Acta Constitutiva Poder(es) que acredite(n) las facultades de quien acuda en su representación, para el caso que se trate de personas morales; y
+
+g).- Escrito libre en el que el pignoratario haga constar, bajo protesta de decir verdad, el origen lícito de los artículos objeto de prenda.
+
+Toda copia deberá ser debidamente cotejada con los originales por el propietario o, en su caso, el representante legal de la casa de empeño correspondiente;
 
 V.- El monto del préstamo, los gastos de derecho de almacenaje y el importe de la suma asegurada en caso de siniestro;
 
@@ -179,15 +219,15 @@ X.- Aceptación expresa por parte del pignoratario de los términos y condicione
 
 Los documentos que amparen la propiedad del bien pignorado, deberán anexarse al contrato correspondiente, en copia simple, debidamente cotejada con los originales por el propietario o, en su caso, el representante legal de la casa de empeño correspondiente.
 
-> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, B.O. 13 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 15.
 
-Los propietarios o, en su caso, el representante legal de las casas de empeño, tienen la obligación de llevar un registro pormenorizado de todos los contratos de mutuo con interés y garantía prendaria o asimilable a éstos, del cual deberán remitir a la Secretaría dentro de los primeros cinco días hábiles de cada mes, una relación de todos los contratos de mutuo con interés y garantía prendaria o asimilables a éstos que hubieren celebrado durante el mes anterior.
+Los propietarios o, en su caso, el representante legal de las casas de empeño, tienen la obligación de llevar un registro pormenorizado de todos los contratos de mutuo con interés y garantía prendaria o asimilable a éstos, del cual deberán remitir a la Secretaría dentro de los primeros cinco días hábiles de cada mes, una relación de todos los contratos de mutuo con interés y garantía prendaria o asimilables a éstos que hubieren celebrado durante el mes anterior, señalando en el mismo, aquellas personas que realicen varios empeños y no recuperen el objeto de la prenda.
 
-Asimismo, deberán remitir a la Procuraduría General de Justicia del Estado, mensualmente y por vía electrónica o por algún otro medio aprobado por dichas dependencias, de los elementos de identificación a que se refiere la fracción VIII del artículo 13 de esta ley de cada objeto pignorado con motivo de los contratos celebrados por la casa de empeño.
+Asimismo, deberán remitir a la Fiscalía General de Justicia del Estado de Sonora, por vía electrónica o por algún otro medio aprobado por dichas dependencias, los elementos de identificación a que se refieren las fracciones IV y VIII del artículo 13 de esta ley, con la periodicidad y modalidad que se determine en el Reglamento.
 
-La Procuraduría General de Justicia realizará el cotejo de los datos de identificación de los bienes que le sean remitidos por las casas de empeño con la información que conste en las investigaciones por la comisión de delitos que se encuentren en trámite ante dicha dependencia; en caso de que los bienes estén comprendidos dentro de alguna investigación por un hecho delictivo, la Procuraduría General de Justicia deberá comunicar, de inmediato, al propietario o representante legal de la casa de empeño respectiva y procederá conforme a la legislación penal.
+La Fiscalía General de Justicia realizará el cotejo de los datos de identificación de los bienes que le sean remitidos por las casas de empeño con la información que conste en las investigaciones por la comisión de delitos que se encuentren en trámite ante dicha dependencia; en caso de que los bienes estén comprendidos dentro de alguna investigación por un hecho delictivo, la Fiscalía General de Justicia deberá comunicar, de inmediato, al propietario o representante legal de la casa de empeño respectiva y procederá conforme a la legislación penal.
 
 ### CAPÍTULO V. DEL REGISTRO ESTATAL DE CASAS DE EMPEÑO
 
@@ -210,6 +250,10 @@ II.- El nombre y domicilio del o los propietarios del establecimiento.
 ###### ARTÍCULO 19.
 
 La Secretaría deberá expedir a los propietarios o representantes legales, en su caso, previo cumplimiento de las disposiciones establecidas en esta ley, las constancias de inscripción en el citado Registro, dentro de los cinco días hábiles siguientes a la fecha en que se realice la solicitud de inscripción.
+
+> <small>(ADICIONADO, B.O. 13 DE JULIO DE 2017)</small>
+
+Si la Secretaría no resuelve dentro del término señalado en el párrafo anterior se entenderá en sentido negativo.
 
 ###### ARTÍCULO 20.
 
@@ -257,7 +301,9 @@ II.- No den aviso a la Secretaría de la terminación de sus actividades. Dicho 
 
 III.- No hagan del conocimiento inmediato de la autoridad competente en caso de un siniestro;
 
-IV.- No lleven un registro de entradas y salidas;
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2017)</small>
+
+IV.- No lleven registro de Empeños y Desempeños;
 
 V.- No exijan la documentación relativa a los contratantes y los bienes objeto del contrato; y
 
@@ -356,3 +402,15 @@ B.O. 27 DE JUNIO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 13 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 147, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO PENAL DEL ESTADO DE SONORA, DE LA LEY QUE REGULA EL FUNCIONAMIENTO Y OPERACIÓN DE YUNQUES Y RECICLADORAS DEL ESTADO DE SONORA Y DE LA LEY QUE DETERMINA LAS BASES DE OPERACIÓN DE LAS CASAS DE EMPEÑO DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en un plazo de sesenta días naturales, contado a partir de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, la Secretaría de Hacienda del Estado, deberá modificar los reglamentos correspondientes para adecuarlos a las disposiciones contenidas en este ordenamiento jurídico.
