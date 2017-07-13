@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-la-administracion-publica-del-estado-de-70183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-14"
-last_updated: "2016-12-29"
+last_updated: "2017-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el lunes 14 de septiembre de 2009.
 
@@ -57,19 +59,27 @@ El ejercicio del Poder Ejecutivo corresponde al Gobernador del Estado, quien pod
 
 El Gobernador, en ejercicio de su atribución constitucional de representante del Estado de Campeche, podrá celebrar convenios y acuerdos de coordinación, colaboración y demás actos afines con la Federación, con otras Entidades Federativas, con los Municipios del Estado, con las entidades paraestatales, federales, estatales y municipales y con los organismos públicos autónomos federales y estatales, con el objeto de favorecer el desarrollo estatal.
 
-Así mismo, podrá celebrar convenios de concertación e inducción con personas físicas y morales del sector privado, con el mismo objeto.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
 
-Sin perjuicio de lo anterior los titulares de las dependencias quedan facultados para que, en representación del Estado, suscriban convenios, contratos y demás actos jurídicos, dentro de la órbita de sus atribuciones, con la Federación, con las demás Entidades Federativas, con los Municipios de la Entidad y con otras personas, físicas o morales, privadas u oficiales.
+Asimismo, podrá celebrar convenios de colaboración y concertación con personas físicas y morales del sector privado, con el mismo objeto.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
+
+Sin perjuicio de lo anterior, los titulares de las dependencias quedan facultados para que, en representación del Estado, suscriban convenios, contratos y demás actos jurídicos, dentro del ámbito de sus atribuciones, con la Federación, con las demás Entidades Federativas, con los Municipios de la Entidad y con otras personas, físicas o morales, de carácter público o privado.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
 
 ###### Artículo 5.
 
-El ejercicio de la función pública se conducirá con respeto y apego a la legalidad, promoviendo el desarrollo democrático; el respeto a los derechos humanos, el derecho de acceso a la información pública, la transparencia y rendición de cuentas en las acciones de gobierno que realicen las dependencias y entidades de la administración pública estatal.
+El ejercicio de la función pública se conducirá con respeto y apego a la legalidad, promoviendo el desarrollo democrático, el respeto irrestricto a los derechos humanos, el combate a la corrupción, el derecho de acceso a la información pública, y la transparencia y rendición de cuentas en las acciones de gobierno que realicen las dependencias y entidades de la administración pública estatal.
 
 ###### Artículo 6.
 
 El Gobernador del Estado a través de las dependencias y entidades de la administración pública estatal, centralizada y paraestatal, promoverá y cuidará que se cumplan los siguientes principios:
 
-I. Legalidad, honradez, lealtad, imparcialidad, eficiencia y eficacia que deben observarse en el desempeño de los empleos, cargos o comisiones del servicio público y en la administración o planeación de los recursos económicos y bienes de que disponga el Gobierno del Estado;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+I. Legalidad, honradez, lealtad, imparcialidad, eficiencia y eficacia que deben observarse en el desempeño de los empleos, cargos o comisiones del servicio público y en la administración o planeación de los recursos económicos y bienes de los que disponga el Estado;
 
 II. Actitud de servicio, compromiso, calidez en la atención y en el trato como normas de conducta de los servidores públicos al servicio de la comunidad;
 
@@ -77,15 +87,23 @@ III. Solidaridad, trabajo de coordinación y equipo, en el quehacer público dia
 
 IV. Simplificación, agilidad, accesibilidad, economía, información, precisión, legalidad, transparencia e imparcialidad en los procedimientos y actos administrativos en general;
 
-V. Cobertura amplia, oportuna, ágil y especializada de los servicios de seguridad pública y procuración de justicia para la protección de las personas, sus familias y sus bienes, sin distinción de género alguno;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
 
-VI. Observancia, respeto y atención de recomendaciones por las autoridades y en general, por los servidores públicos que ejerzan autoridad local en el Estado, respecto de los derechos humanos que establece el orden jurídico mexicano;
+V. Cobertura amplia, oportuna, ágil y especializada de los servicios de seguridad pública y procuración de justicia para la protección de las personas, sus familias y sus bienes, sin discriminación ni distinción de género alguno;
 
-VII. La autodeterminación, libertad y respeto a la dignidad de las mujeres; la no discriminación; el pluralismo social y la multiculturalidad; la equidad de género y la atención a los grupos vulnerables;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+VI. Observancia y respeto irrestricto de los derechos humanos que establecen el orden jurídico mexicano y los tratados internacionales de los que es parte el Estado mexicano, y la atención inmediata de recomendaciones emitidas por las autoridades competentes en materia de derechos humanos, hechas a los servidores públicos que ejerzan como autoridades locales en el Estado;
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+VII. La autodeterminación, libertad y respeto a la dignidad de las mujeres, la no discriminación, el pluralismo social y la pluriculturalidad, la igualdad de género y la atención a grupos en situación de vulnerabilidad.
 
 VIII. La participación organizada, responsable y activa de la sociedad en la definición de políticas e implementación de acciones en el quehacer de la vida pública;
 
-IX. La conjugación de acciones de desarrollo con políticas y normas que garanticen la sustentabilidad y la protección al medio ambiente; y
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+IX. La conjugación de acciones de desarrollo con políticas y normas que garanticen la sustentabilidad y la protección al ambiente; y
 
 X. La juridicidad de los actos de gobierno, la revisión y adecuación de la organización de la administración, la programación de su gasto y el control de su ejercicio.
 
@@ -111,15 +129,21 @@ El Gobernador del Estado está facultado para conceder licencia a los titulares 
 
 En caso de renuncia o remoción del titular de alguna dependencia, el Gobernador nombrará al nuevo titular o, en su caso, designará al servidor público que con carácter de Encargado del Despacho lo sustituya, hasta en tanto proceda al nombramiento del nuevo titular. El servidor público que sea designado con carácter de Encargado del Despacho, tendrá las mismas facultades que esta Ley u otras leyes y el respectivo Reglamento Interior otorgan a su titular.
 
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+
+En el caso de la Secretaría de la Contraloría, el Ejecutivo Estatal someterá al H. Congreso del Estado para su ratificación, la propuesta de nombramiento de su Titular, la cual deberá estar acompañada de la declaración de intereses correspondiente, en los términos previstos en la Ley aplicable en materia de Responsabilidades Administrativas, en vigor.
+
 ###### Artículo 10.
 
 Al frente de cada dependencia habrá un titular quien, para el despacho de los asuntos de su competencia, se auxiliará con el cuerpo de servidores públicos previsto en las disposiciones legales y reglamentarias correspondientes.
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2017)</small>
 
 ###### Artículo 11.
 
-Para ser titular de las dependencias y entidades de la administración pública estatal, se requiere ser ciudadano mexicano por nacimiento y estar en ejercicio de sus derechos, salvo los casos previstos en la Constitución Política del Estado de Campeche y sus leyes secundarias.
+Para ser titular de las dependencias y entidades de la administración pública estatal, se requiere ser ciudadano mexicano y estar en ejercicio de sus derechos civiles y políticos, salvo los casos previstos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Campeche, las leyes generales aplicables y las demás leyes secundarias.
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 Para ser Fiscal General del Estado se deben cumplir los requisitos establecidos en la Constitución Política del Estado de Campeche y en la Ley Orgánica de la Fiscalía General del Estado.
 
@@ -141,7 +165,9 @@ Las dependencias y entidades del Ejecutivo Estatal deberán planear, programar, 
 
 Los acuerdos, lineamientos, órdenes, reglamentos, circulares y demás disposiciones administrativas de carácter general que expida el Gobernador deberán, para su validez y observancia, estar refrendados por el titular o titulares de las dependencias a que el asunto corresponda.
 
-Tratándose de los decretos promulgatorios de las leyes o decretos expedidos por el Congreso del Estado, sólo se requerirá el refrendo del titular de la Secretaría de Gobierno.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
+
+Tratándose de las iniciativas de Ley y de los decretos promulgatorios de las leyes, además de la firma del Gobernador, se requerirá el refrendo del titular de la Secretaría General de Gobierno.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
@@ -157,7 +183,9 @@ Para que los acuerdos, lineamientos, órdenes, reglamentos, circulares y demás 
 
 Para el estudio, planeación y despacho de los asuntos, en los diversos ramos de la Administración Pública del Estado, el Poder Ejecutivo contará con las siguientes dependencias:
 
-I. Secretaría de Gobierno;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+I. Secretaría General de Gobierno;
 
 II. Secretaría de Finanzas;
 
@@ -199,7 +227,9 @@ XX. Consejería Jurídica; y,
 
 XXI. Fiscalía General del Estado de Campeche.
 
-Las dependencias señaladas en el presente artículo tendrán igualdad de rango y entre ellas no habrá preeminencia alguna.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
+
+Las dependencias señaladas en el presente artículo podrán ser denominadas Secretarías de la Administración Pública del Estado o Secretarías del Poder Ejecutivo del Estado; las cuales tendrán igualdad de rango y entre ellas no habrá preeminencia alguna, salvo el caso de la Secretaría General de Gobierno que coordinará y supervisará los asuntos encomendados a las demás dependencias.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
@@ -225,89 +255,165 @@ El Gobernador del Estado determinará cuáles dependencias de la administración
 
 Las dependencias y entidades de la Administración Pública Centralizada y Paraestatal conducirán sus actividades en forma programada, con base en las políticas que para el logro de los objetivos y prioridades de la planeación del desarrollo, establezca el Ejecutivo Estatal.
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+
+###### Artículo 20 Bis.
+
+Los titulares de las dependencias y entidades de la Administración Pública Centralizada y Paraestatal expedirán los manuales de organización, de procedimientos y de servicios al público necesarios para su funcionamiento, los que deberán contener información sobre la estructura orgánica de la dependencia y las funciones de sus unidades administrativas, así como de los sistemas de comunicación y coordinación y los principales procedimientos administrativos que se establezcan.
+
+Los manuales y demás instrumentos de apoyo administrativo interno deberán mantenerse permanentemente actualizados. Los manuales de organización general deberán publicarse en el Periódico Oficial del Estado, mientras que los manuales de procedimientos y de servicios al público deberán estar disponibles para consulta de los usuarios y de los propios servidores públicos, a través del registro electrónico que opera la Secretaría de la Contraloría.
+
+Cada una de las dependencias y entidades de la Administración Pública Centralizada y Paraestatal deberán mantener actualizados los escalafones de los trabajadores, y se establecerán los sistemas de estímulos y recompensas que determinen la ley y las condiciones generales de trabajo respectivas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2017)</small>
 
 ###### Artículo 21.
 
-A la Secretaría de Gobierno le corresponde el despacho de los siguientes asuntos:
+La Secretaría General de Gobierno es la dependencia encargada de conducir, por delegación del Ejecutivo estatal, la política interior del Estado, así como la coordinación y supervisión de los asuntos encomendados a las demás dependencias. A esta Secretaría le corresponde el despacho de los siguientes asuntos:
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 I. Conducir las relaciones del Poder Ejecutivo con los Poderes Legislativo y Judicial; con los HH. Ayuntamientos de la Entidad; con los Poderes de la Unión y con los Gobiernos de los demás Estados de la República;
 
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
 II. Conducir, por delegación del Ejecutivo, los asuntos de orden político interno;
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 III. Propiciar y fomentar el desarrollo político de la sociedad estatal;
 
-IV. Garantizar el estado de derecho y el disfrute de las garantías individuales, con el objeto de mantener la paz, la seguridad y el orden público en la Entidad;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
 
-V. Enviar a la Legislatura del Estado las iniciativas de leyes y decretos, y vigilar el cumplimiento y aplicación de los preceptos constitucionales por parte de las autoridades del Ejecutivo del Estado;
+IV. Garantizar el estado de derecho y el respeto irrestricto y disfrute de los derechos humanos, con el objeto de mantener la paz, la seguridad y el orden público de la Entidad;
 
-VI. Suscribir en unión del Gobernador todas las iniciativas de ley odecreto (sic) y refrendar todos los decretos promulgatorios;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+V. Enviar a la Legislatura del Estado las iniciativas de leyes y decretos que proponga el Ejecutivo Estatal;
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+VI. Suscribir, con el Gobernador, todas las iniciativas de leyes o decretos y refrendar todos los decretos promulgatorios;
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 VII. Ejercer las atribuciones que las leyes y convenios le asignen al Ejecutivo del Estado, en asuntos agrarios y limítrofes del Estado y sus Municipios;
 
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
 VIII. Proponer y conducir la agenda de asuntos de interés común con los Estados de la región peninsular;
 
-IX. Tramitar solicitudes de extradición, amnistía, indulto, libertad anticipada y traslado de reos;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+IX. Tramitar, en el ámbito de sus funciones y según lo establecido en la Ley Nacional de Ejecución Penal, solicitudes de extradición e indulto;
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 X. Registrar y controlar autógrafos, para estar en aptitud de legalizar y certificar las firmas de los servidores públicos estatales, municipales y de aquellos a quienes está encomendada la fe pública;
 
-XI. Intervenir, en los términos de las leyes relativas en asuntos referentes a cultos religiosos; detonantes; pirotecnia; portación de armas; loterías, rifas y juegos prohibidos; migración; prevención y combate y extinción de catástrofes públicas; y campañas contra el narcotráfico;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+XI. Intervenir, en los términos de las leyes relativas en asuntos referentes a cultos religiosos; detonantes; pirotecnia; portación de armas; loterías, rifas y juegos prohibidos; migración; prevención, combate y extinción de catástrofes públicas; y campañas contra el narcotráfico;
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 XII. Tramitar y ejecutar los acuerdos del Gobernador relativos a expropiación, ocupación temporal, servidumbre administrativa y limitación de dominio en los casos de utilidad pública de acuerdo con la legislación vigente;
 
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
 XIII. Formular y coordinar la política del servicio de transporte público en el Estado.
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 XIV. Establecer los lineamientos para la determinación de las tarifas de los servicios de transporte público de pasajeros y de carga en general, sujetos a permisos o autorizaciones del gobierno estatal;
 
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
 XV. Promover, planear, normar y dirigir proyectos de movilidad sustentable para crear nuevos paradigmas de transporte público, en coordinación con las autoridades federales, estatales y municipales correspondientes, así como con los sectores público y social;
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 XVI. Integrar los expedientes relativos a los nombramientos de notarios públicos que expide el Ejecutivo; inspeccionar su ejercicio, llevar el libro de registro y Archivo General de las Notarías del Estado y ejercer las atribuciones de conformidad con la legislación notarial;
 
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
 XVII. Tramitar lo referente a los términos de los artículos 78, 81 y 86 de la Constitución Política del Estado de Campeche;
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 XVIII. Otorgar a las autoridades judiciales el auxilio que soliciten para el cumplimiento de sus funciones;
 
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
 XIX. Expedir, previo acuerdo del Gobernador, licencias, autorizaciones, concesiones y permisos, cuando su otorgamiento no esté atribuido expresamente a otras dependencias del Ejecutivo;
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 XX. Tramitar los recursos administrativos que corresponda atender al Gobernador del Estado, cuando no sea de específico y exclusivo conocimiento de otra dependencia;
 
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
 XXI. Conducir y coordinar el cumplimiento de las disposiciones legales aplicables en materia de Registro del Estado Civil, Registro Público de la Propiedad y de Comercio, Servicio Público de Asistencia Jurídica Gratuita; legalizaciones y exhortos;
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 XXII. Organizar y administrar el Archivo General del Estado;
 
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
 XXIII. Controlar y vigilar la publicación del Periódico Oficial del Estado y administrar los Talleres Gráficos del Gobierno del Estado;
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 XXIV. Compilar toda la legislación vigente e histórica del Estado;
 
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
 XXV. Someter a consideración y resolución del Gobernador cualquier duda sobre la competencia de las dependencias estatales incluidas en esta Ley;
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 XXVI. Ejercer como encargado del despacho del Poder Ejecutivo en ausencia del Gobernador, en el marco de la legislación vigente;
 
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
 XXVII. Instrumentar la Política Estatal en Derechos Humanos como eje rector y transversal para todos los sujetos de la administración pública y coordinar el diseño y ejecución de programas para la consecución de las metas en la materia;
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 XXVIII. Coordinar los esfuerzos de la Administración Pública Estatal, para el adecuado cumplimiento de las recomendaciones emitidas por la Comisión Nacional de Derechos Humanos y la Comisión de Derechos Humanos del Estado de Campeche;
 
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
 XXIX. Fungir como vínculo entre el Ejecutivo Estatal y las organizaciones de la sociedad civil dedicadas a la defensa de los derechos humanos, y atender y canalizar sus peticiones;
 
-XXX. Impulsar la equidad como principio rector de las políticas públicas y la implementación de medidas de acción afirmativa en todos los programas de la Administración Pública;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
 
-XXXI. Gestionar, a través de las instancias correspondientes, los servicios integrales para atender a las víctimas de delitos y de derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos, las Leyes Generales y Locales en la materia y los Tratados Internacionales de los que es parte el Estado mexicano;
+XXX. Impulsar la igualdad como principio rector de las políticas públicas y la implementación de medidas de acción afirmativa en todos los programas de la Administración Pública;
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+XXXI. Gestionar, a través de las instancias correspondientes, los servicios integrales para atender a las víctimas de delitos y a las víctimas de violaciones a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos, las Leyes Generales y Locales en la materia y los Tratados Internacionales de los que es parte el Estado mexicano;
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 XXXII. Formular y evaluar políticas, programas y estudios dirigidos a la protección de las víctimas de delitos, promoviendo el establecimiento de estrategias de coordinación entre las instancias encargadas de la materia;
 
-XXXIII. Promover la implementación de un programa para la protección de las niñas, niños y adolescentes en el Estado, sobre la base de una coordinación eficiente que asegure la participación de todos los sectores responsables; estableciendo mecanismos concretos para la evaluación y monitoreo del cumplimiento de los objetivos y metas definidos por la Ley General y la Ley local en la materia; y
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+XXXIII. Promover la implementación de un programa para la protección de las niñas, niños y adolescentes en el Estado, sobre la base de una coordinación eficiente que asegure la participación de todos los sectores responsables; estableciendo mecanismos concretos para la evaluación y monitoreo del cumplimiento de los objetivos y metas definidos por la Ley General y la Ley local en la materia;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 XXXIV. Coordinar el Centro de Supervisores de Libertad, en términos de lo dispuesto por la Ley Nacional de Ejecución Penal, así como establecer el proceso de certificación para que una organización de la sociedad civil pueda coadyuvar en la supervisión de libertad condicionada; y
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JULIO DE 2017)</small>
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2016)</small>
+XXXV. Vigilar el cumplimiento y aplicación de los preceptos constitucionales por parte de los servidores públicos de la Administración Pública Estatal; y
 
-XXXV. Las demás atribuciones que le señalen las leyes y reglamentos vigentes en el Estado.
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE JULIO DE 2017)</small>
+
+XXXVI. Las demás atribuciones que le señalen las leyes y reglamentos vigentes en el Estado.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
@@ -395,9 +501,9 @@ XIX. Cuidar que los empleados que administren fondos del Estado otorguen fianza 
 
 XX. Integrar el programa general del gasto público y el anteproyecto de Presupuesto de Egresos en términos de la Ley General de Contabilidad Gubernamental;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
 
-XXI. Verificarlos (sic) resultados de los programas y presupuestos de las dependencias y, en su caso, de las entidades de la administración pública paraestatal;
+XXI. Verificar los resultados de los programas y presupuestos de las dependencias y, en su caso, de las entidades de la administración pública paraestatal;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE DICIEMBRE DE 2016)</small>
 
@@ -447,9 +553,9 @@ XXXII. Suscribir, previo acuerdo del Ejecutivo, contratos y títulos de crédito
 
 XXXIII. Tramitar la cancelación de cuentas y créditos incobrables, así como el otorgamiento de subsidios y estímulos fiscales de conformidad con la legislación aplicable;
 
-> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXXIII], P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
 
-XXXIV. Estimar y publicar el monto global y calendarización provisional del presupuesto para el siguiente ejercicio fiscal, a fin de posibilitar las atribuciones de esta Secretaría en materia de programación presupuestación, previo acuerdo con el Titular del Ejecutivo Estatal;
+XXXIV. Estimar y publicar el monto global y calendarización provisional del presupuesto para el siguiente ejercicio fiscal, a fin de posibilitar las atribuciones de esta Secretaría en materia de programación y presupuestación, previo acuerdo con el Gobernador del Estado;
 
 > <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXXIV], P.O. 22 DE DICIEMBRE DE 2016)</small>
 
@@ -527,29 +633,49 @@ XXIII. Las demás atribuciones que le señalen las leyes y reglamentos vigentes 
 
 A la Secretaría de la Contraloría le corresponde el despacho de los siguientes asuntos:
 
-I. Organizar y coordinar el sistema estatal de supervisión y control gubernamental;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+I. Organizar, supervisar y coordinar el sistema estatal de control interno y la evaluación de la gestión gubernamental;
 
 II. Coordinar, conjuntamente con la Secretaría de Finanzas, la evaluación que permita conocer los resultados de la aplicación de los recursos públicos estatales;
 
-III. Fiscalizar el ejercicio del gasto público estatal y su correspondencia con el presupuesto de egresos;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+III. Inspeccionar el ejercicio del gasto público y su congruencia con la Ley de Presupuesto de Egresos del Estado, así como concertar con las dependencias y entidades de la Administración Pública del Estado y validar los indicadores para la evaluación de la gestión gubernamental, en los términos de las disposiciones aplicables;
 
 IV. Impulsar, en coordinación con la Secretaría de Finanzas, medidas para alcanzar mayor eficiencia y racionalidad en el ejercicio del gasto público;
 
-V. Expedir la normatividad que regule los sistemas y procedimientos de control de la Administración Pública Estatal, y requerir, cuando sea necesario, la instrumentación de disposiciones complementarias;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
 
-VI. Vigilar el cumplimiento de las normas de control y coordinar a los Órganos Internos de Control de las dependencias y entidades de la Administración Pública Estatal;
+V. Expedir las normas que regulen los instrumentos y procedimientos de control interno de la Administración Pública del Estado, para lo cual podrá requerir de las dependencias competentes la expedición de normas complementarias para el ejercicio del control administrativo. Lo anterior, sin menoscabo de las bases y principios de coordinación y recomendaciones emitidas por el Comité Coordinador del Sistema Anticorrupción del Estado de Campeche y la ley relativa;
 
-VII. Establecer la normatividad para la realización de auditorías y evaluaciones a las dependencias y entidades de la Administración Pública Estatal;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
 
-VIII. Ordenar y practicar auditorías y evaluaciones a fideicomisos, dependencias y entidades de la Administración Pública Estatal para promover y verificar la eficacia y transparencia en el cumplimiento de sus funciones y atribuciones;
+VI. Vigilar, en colaboración con las autoridades que integren el Comité Coordinador del Sistema Anticorrupción del Estado de Campeche, el cumplimiento de las normas de control interno y fiscalización, así como asesorar y apoyar a los órganos internos de control de las dependencias y entidades de la Administración Pública del Estado;
 
-IX. Verificar el cumplimiento de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio y fondos, y valores de propiedad o al resguardo del gobierno estatal;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
 
-X. Designar y remover, con las salvedades que establezcan las leyes respectivas, a los titulares y demás personal de los Órganos Internos de Control de las dependencias y entidades de la Administración Pública Estatal; a los titulares y personal que le estarán presupuestal y orgánicamente adscritos, así como también, a los comisarios en los órganos de gobierno o vigilancia de las entidades de la administración pública paraestatal, cuyas atribuciones se determinarán en la reglamentación correspondiente;
+VII. Establecer las bases generales para la realización de auditorías internas, transversales y externas; así como expedir las normas que regulen los instrumentos y procedimientos en dichas materias en las dependencias y entidades de la Administración Pública Estatal, y realizar las auditorías que se requieran en éstas, en sustitución o en apoyo a sus propios órganos internos de control;
 
-XI. Proponer y designar auditores externos para fiscalizar a las entidades del sector paraestatal y a todos aquellos organismos que ejerzan recursos públicos;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
 
-XII. Vigilar e inspeccionar los sistemas de registro y contabilidad, contratación de obra pública, servicios, adquisiciones, arrendamientos, conservación, uso y destino, afectación, enajenación y baja de bienes y recursos materiales, así como los sistemas de contratación y pago de personal de la Administración Pública del Estado;
+VIII. Realizar por sí, o a solicitud de la Secretaría de Finanzas o la coordinadora de sector correspondiente, auditorías, revisiones y evaluaciones a las dependencias y entidades de la Administración Pública del Estado, con el objeto de examinar, fiscalizar y promover la eficiencia y legalidad en su gestión y encargo;
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+IX. Vigilar el cumplimiento, por parte de las dependencias y entidades de la Administración Pública del Estado de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio y fondos, y valores de propiedad;
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+X. Designar y remover para el mejor desarrollo del sistema de control y evaluación de la gestión gubernamentales (sic), delegados de la propia Secretaría ante las dependencias y órganos desconcentrados de la Administración Pública Estatal Centralizada y comisarios públicos de los órganos de vigilancia de las entidades de la Administración Pública Paraestatal, así como normar y controlar su desempeño;
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+XI. Designar y remover auditores externos en las entidades del sector paraestatal, en las dependencias de la Administración Pública del Estado y en todos aquellos organismos y entes que ejerzan recursos públicos, así como normar y controlar su desempeño;
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+XII. Fiscalizar directamente o a través de los órganos internos de control, que las dependencias y entidades de la Administración Pública del Estado cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y remuneraciones de personal, contratación de adquisiciones, arrendamientos, arrendamiento financiero, servicios y ejecución de obra pública, conservación, uso, destino, afectación enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de la Administración Pública Estatal;
 
 XIII. Vigilar la debida aplicación de los recursos federales y estatales que ejerzan las dependencias y entidades de la Administración Pública Estatal y en su caso, los que ejerzan los HH. Ayuntamientos, conforme a lo estipulado en los acuerdos y convenios respectivos;
 
@@ -557,27 +683,101 @@ XIV. Vigilar el cumplimiento de las obligaciones adquiridas por proveedores y co
 
 XV. Fomentar la participación organizada de la sociedad civil en actividades relacionadas con los procesos de contraloría social;
 
-XVI. Coordinarse con la Auditoría Superior del Estado para la estandarización de criterios y compatibilización de mecanismos de control y evaluación, para el mejor cumplimiento de sus atribuciones;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
 
-XVII. Recibir y registrar las declaraciones patrimoniales de los servidores públicos de las dependencias y entidades de la Administración Pública Estatal, en los términos previstos en la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche;
+XVI. Colaborar en el marco del Sistema Anticorrupción del Estado, en el establecimiento de las bases y principios de coordinación necesarios, que permitan el mejor cumplimiento de las responsabilidades de sus integrantes;
 
-XVIII. Entregar un informe anual al Gobernador del Estado y, en los términos de los acuerdos y convenios vigentes, a la Secretaría de la Función Pública de la Federación, sobre los resultados de las auditorías realizadas;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
 
-XIX. Atender, canalizar y dar seguimiento a las quejas y denuncias que presenten los particulares sobre contratos, convenios y acuerdos que éstos celebren con la Administración Pública Estatal;
+XVII. Llevar y normar el registro de servidores públicos de la Administración Pública Estatal, recibir y registrar las declaraciones patrimoniales y de intereses que deban presentar, así como verificar su contenido mediante las investigaciones que resulten pertinentes de acuerdo con las disposiciones aplicables. También registrará la información sobre las sanciones administrativas que, en su caso, les haya sido impuesta;
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+XVIII. Informar periódicamente al Comité Coordinador del Sistema Anticorrupción del Estado, así como al Gobernador del Estado, sobre el resultado de la evaluación al respecto de la gestión de las dependencias y entidades de la Administración Pública Estatal, así como del resultado de la revisión del ingreso, manejo, custodia y ejercicio de recursos públicos estatales, y promover ante las autoridades competentes, las acciones que procedan para corregir las irregularidades detectadas;
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+XIX. Atender las quejas e inconformidades que presenten los particulares con motivo de convenios o contratos que celebren con las dependencias y entidades de la Administración Pública Estatal, salvo los casos en que otras leyes establezcan procedimientos de impugnación diferentes;
 
 XX. Dictar las normas internas de la Secretaría, vigilar su cumplimiento y, en su caso, aplicar las medidas correctivas de acuerdo a los procedimientos legales correspondientes, conforme a la legislación vigente;
 
-XXI. Identificar, investigar y determinar, por sí o por conducto de los respectivos órganos Internos de Control, las responsabilidades en que incurran los servidores públicos de las dependencias y entidades de la Administración Pública Estatal, derivadas del incumplimiento de las obligaciones establecidas en la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche e imponerles las sanciones previstas en dicha ley y en su caso, formular las respectivas denuncias o querellas ante el Ministerio Público;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+XXI. Conocer e investigar las conductas de los servidores públicos de la Administración Pública del Estado que puedan constituir responsabilidades administrativas, así como substanciar los procedimientos correspondientes conforme a lo establecido en la Legislación en la materia, por sí, o por conducto de los órganos internos de control que correspondan a cada área de la Administración Pública Estatal; para lo cual, podrán aplicar las sanciones que correspondan en los casos que no sean de la competencia del Tribunal de Justicia Administrativa del Estado de Campeche y, cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante ese Tribunal; así como presentar las denuncias correspondientes ante la Fiscalía Especializada en Combate a la Corrupción del Estado y ante otras autoridades competentes, en términos de las disposiciones aplicables;
 
 XXII. Verificar las actas de entrega-recepción de las dependencias y entidades de la Administración Pública Estatal;
 
 XXIII. A petición expresa, brindar apoyo técnico en materia de fiscalización y verificación del gasto a las autoridades municipales;
 
-XXIV. Impulsar y coordinar las acciones de transparencia y acceso a la información pública de las dependencias y entidades de la Administración Pública Estatal;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+XXIV. Formular y conducir en apego y de conformidad con las bases de coordinación que establezca el Comité Coordinador del Sistema Anticorrupción del Estado, la política general de la Administración Pública Estatal para establecer acciones que propicien la integridad y la transparencia en la gestión pública, la rendición de cuentas y el acceso por parte de los particulares a la información que aquella genere; así como promover dichas acciones hacia la sociedad;
 
 XXV. Promover y ejecutar acciones que contribuyan a mejorar los procesos de gestión pública estatal y brindar atención y servicios de calidad a los ciudadanos; y
 
-XXVI. Las demás atribuciones que le señalen las leyes y reglamentos vigentes en el Estado.
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+XXVI. Establecer y conducir, en coordinación con la Secretaría de Administración e Innovación Gubernamental, la política general de las contrataciones públicas, reguladas por la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles del Estado de Campeche, Ley de Obras Públicas del Estado de Campeche, Ley de Contratos de Colaboración Público Privada para el Estado de Campeche y demás normativa aplicable, propiciando las mejores condiciones de contratación conforme a los principios de eficiencia, eficacia, economía, transparencia, imparcialidad y honradez; emitir las normas, lineamientos, manuales, procedimientos y demás instrumento (sic) análogos que se requieran en materia de dichas contrataciones públicas; proporcionar, en su caso, asesoría normativa con carácter preventivo en los procedimientos de contratación regulados por las mencionadas leyes que realicen las dependencias y entidades de la Administración Pública Estatal y promover, con la intervención que corresponda a otras dependencias de la Administración Pública Estatal, la coordinación y cooperación de los Poderes Ejecutivo, Legislativo y Judicial del estado, los órganos constitucionales autónomos, los municipios y demás entes públicos encargados de regímenes de contratación pública, a efecto de propiciar en lo procedente la homologación de políticas, normativas y criterios en materia de contrataciones públicas, que permita contar con un sistema de contrataciones públicas articulados (sic) a nivel estatal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JULIO DE 2017)</small>
+
+XXVII. Establecer y conducir en coordinación con la Secretaría de Administración e Innovación Gubernamental, la política de gobierno digital, gobierno abierto y datos abiertos en el ámbito de las dependencias y entidades de la Administración Pública Estatal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JULIO DE 2017)</small>
+
+XXVIII. Ejercer la facultad que la Constitución Política del Estado de Campeche le otorga a los órganos internos de control para revisar, mediante las auditorías a que se refiere el presente artículo, el ingreso, manejo, custodia y ejercicio de recursos públicos estatales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JULIO DE 2017)</small>
+
+XXIX. Implementar las políticas que promueva el Comité Coordinador del Sistema Anticorrupción del Estado, en materia de combate a la corrupción en la Administración Pública Estatal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JULIO DE 2017)</small>
+
+XXX. Emitir normas, lineamientos específicos y manuales que, dentro del ámbito de su competencia, integran disposiciones y criterios que impulsen la simplificación administrativa, para lo cual deberán tomar en consideración las bases y principios de coordinación y recomendaciones generales que emita el Comité Coordinador del Sistema Anticorrupción del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JULIO DE 2017)</small>
+
+XXXI. Seleccionar a los integrantes de los órganos internos de control, garantizando la igualdad de oportunidades en el acceso a la función pública, atrayendo a los mejores candidatos para ocupar los puestos, a través de procedimientos transparentes, objetivos y equitativos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JULIO DE 2017)</small>
+
+XXXII. Emitir el código de ética de los servidores públicos del gobierno del Estado de Campeche y las reglas de integridad para el ejercicio de la función pública;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JULIO DE 2017)</small>
+
+XXXIII. Establecer mecanismos internos para la Administración Pública Estatal que permitan prevenir actos u omisiones que pudieran constituir responsabilidades administrativas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JULIO DE 2017)</small>
+
+XXXIV. Implementar las acciones que acuerde el Sistema Anticorrupción del Estado, en términos de las disposiciones aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JULIO DE 2017)</small>
+
+XXXV. Designar y remover, con las salvedades que establezcan las leyes respectivas, a los titulares y demás personal de los órganos internos de control de las dependencias y entidades de la Administración Pública Estatal, así como los comisarios en las juntas de gobierno, vigilancia o su homólogo en las entidades de la Administración Pública Paraestatal, los cuales le estarán presupuestal y orgánicamente adscritos y tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los Tribunales Estatales, representando al titular de la Secretaría de la Contraloría; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JULIO DE 2017)</small>
+
+XXXVI. Las demás atribuciones que le señalen las leyes y reglamentos vigentes en el Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE JULIO DE 2017)</small>
+
+Los órganos internos de control de las dependencias y entidades de la Administración Pública Estatal y de sus áreas de auditoría, quejas y responsabilidades estarán subordinados a la Secretaría de la Contraloría.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE JULIO DE 2017)</small>
+
+Los titulares de los órganos internos de control serán responsables de mantener el control interno de la dependencia o entidad a la que se encuentran adscritos. Asimismo, tendrán como función apoyar la política de control interno y la toma de decisiones relativas al cumplimiento de los objetivos y políticas institucionales, así como el desempeño de servidores públicos y órganos, a la modernización continua y desarrollo eficiente de la gestión administrativa y al correcto manejo de los recursos públicos. Los órganos internos de control de las entidades que cuenten con un régimen específico de control interno, se sujetarán a las funciones y organización establecidas en las disposiciones mediante las que se crea la respectiva entidad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE JULIO DE 2017)</small>
+
+Los órganos internos de control, en ejercicio de su función de auditoría, prevista en la fracción XXVIII del presente artículo, se regirán por las leyes y disposiciones sobre adquisiciones, obra pública, presupuesto, contabilidad, procedimiento administrativo, transparencia y acceso a la información, responsabilidades, combate a la corrupción y otras afines a las (sic) materia y por las bases y principios de coordinación que emita el Comité Coordinador del Sistema Anticorrupción del Estado y la Secretaría de la Contraloría respecto de dichos asuntos, así como sobre la organización, funcionamiento y supervisión de los sistemas de control interno, mejora de gestión en las dependencias y entidades de la Administración Pública del Estado y presentación de informes por parte de dichos órganos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE JULIO DE 2017)</small>
+
+Las unidades encargadas de la función de la auditoría de la Secretaría de la Contraloría y los órganos internos de control de la Administración Pública del Estado incorporarán en su ejercicio las normas técnicas y códigos de ética, de conformidad con la Ley del Sistema Anticorrupción del Estado y las mejores prácticas que considere el referido sistema. Las unidades mencionadas anteriormente y los órganos internos de control, formularán en el mes de noviembre su plan anual de trabajo y de evaluación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE JULIO DE 2017)</small>
+
+Los titulares de las unidades encargadas de la función de la auditoría de la Secretaría de la Contraloría y de órganos internos de control, en los meses de mayo y noviembre entregarán informes al titular de dicha Secretaría, sobre hallazgos en la gestión y recomendaciones en relación con las acciones correctivas, preventivas y oportunidades de mejora respecto de calidad y eficiencia de los distintos procesos internos y sobre la relación de los procedimientos por faltas administrativas y de sanciones aplicadas por los órganos internos de control; las acciones de responsabilidad presentadas ante el Tribunal de Justicia Administrativa del Estado de Campeche y las sanciones correspondientes; las denuncias por actos de corrupción que presenten ante la Fiscalía Especializada en Combate a la Corrupción del Estado; así como un informe detallado del porcentaje en los procedimientos iniciados por los órganos internos de control que culminaron con una sanción firme y a cuánto ascienden, en su caso, las indemnizaciones efectivamente cobradas durante el periodo del informe. Con base en los informes, así como de las recomendaciones y las bases y principios de coordinación que emita el Comité Coordinador del Sistema Anticorrupción del Estado de Campeche, tanto las dependencias y entidades, así como la Secretaría de la Contraloría, implementarán las acciones pertinentes para mejora de la gestión. Conforme a lo dispuesto en las leyes en la materia, así como en las bases y principios de coordinación emitidas por el Comité Coordinador del Sistema Anticorrupción del Estado de Campeche, los titulares de los órganos internos de control encabezarán comités de control y desempeño institucional para el seguimiento y evaluación general de la gestión.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
@@ -585,7 +785,9 @@ XXVI. Las demás atribuciones que le señalen las leyes y reglamentos vigentes e
 
 A la Secretaría de Planeación le corresponde el despacho de los siguientes asuntos:
 
-I. Formular y proponer al Titular del Poder Ejecutivo del Estado la Política de Planeación de la Administración Pública Estatal;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+I. Formular y proponer al Gobernador del Estado la política de Planeación de la Administración Pública Estatal;
 
 II. Coordinar la integración, evaluación y actualización del Plan Estatal de Desarrollo, y supervisar su cumplimiento;
 
@@ -619,9 +821,17 @@ XVI. Atender las acciones de apoyo técnico que le encomiende el Gobernador del 
 
 XVII. Proponer al Gobernador del Estado temas de interés sustantivo que puedan ser abordados en las reuniones de gabinete;
 
-XVIII. Dar puntual seguimiento de las actividades del gobernador con objeto de recopilar los materiales y generar los contenidos para la integración de las publicaciones, crónicas y acervos que den cuenta de las políticas, programas, obras y acciones de la Administración Pública; y
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
 
-XIX. Las demás atribuciones que señalen las leyes y reglamentos vigentes en el Estado.
+XVIII. Dar puntual seguimiento de las actividades del Gobernador del Estado con objeto de recopilar los materiales y generar los contenidos para la integración de las publicaciones, crónicas y acervos que den cuenta de las políticas, programas, obras y acciones de la Administración Pública Estatal;
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+XIX. Coordinar la integración del Programa Anual de Inversión Pública; y
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2017)</small>
+
+XX. Las demás atribuciones que le señalen las leyes y reglamentos vigentes en el Estado.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
@@ -631,13 +841,17 @@ A la Secretaría de Educación le corresponde el despacho de los siguientes asun
 
 I. Coordinar las actividades relativas al desarrollo educativo estatal, en colaboración con las disposiciones que dicte la Secretaría de Educación Pública de la administración pública federal;
 
-II. Asegurar el cumplimiento de la Ley de Educación Pública del Estado, y en lo que le competa, la Ley Federal de Educación y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+II. Asegurar el cumplimiento de la Ley de Educación del Estado, y en lo que le competa, de la Ley General de Educación y demás disposiciones aplicables;
 
 III. Prestar el servicio público de la educación, y proponer y ejecutar los acuerdos de coordinación que conviene el Estado con la Federación y los Municipios en esta materia;
 
 IV. Vigilar que la impartición de la educación en el Estado se apegue a los principios, valores y disposiciones jurídicas en la materia, en particular los que establecen la Constitución Política de los Estados Unidos Mexicanos y la del Estado de Campeche;
 
-V. y vigilar la enseñanza que imparten las escuelas públicas y privadas supervisando sus establecimientos y el desarrollo y la certificación de sus planes de estudio;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+V. Vigilar la enseñanza que imparten las escuelas públicas y privadas, supervisando sus establecimientos y el desarrollo y certificación de sus planes de estudios;
 
 VI. Coordinar y supervisar a las Universidades e Institutos de Educación Superior Tecnológica en el Estado y demás organismos descentralizados de educación media superior;
 
@@ -681,7 +895,9 @@ A la Secretaría de Cultura le corresponde el despacho de los siguientes asuntos
 
 I. Formular, coordinar y evaluar la política cultural del Estado;
 
-II. Formular y proponer al Titular del Ejecutivo Estatal los programas de inversión dirigidos al desarrollo cultural, artístico y patrimonial, mismos que podrá ejecutar con la participación de los tres órdenes de gobierno y de los sectores social y privado;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+II. Formular y proponer al Gobernador del Estado los programas de inversión dirigidos al desarrollo cultural, artístico y patrimonial, mismos que podrá ejecutar con la participación de los tres órdenes de gobierno y de los sectores social y privado;
 
 III. Proponer y ejecutar los acuerdos de coordinación que en materia de cultura convenga el Estado con la Federación y con los Municipios;
 
@@ -753,9 +969,13 @@ VI. Vigilar y supervisar la operación de clínicas, hospitales y consultorios p
 
 VII. Coadyuvar, con las autoridades que correspondan, en servicios de medicina legal, de salud en apoyo a la procuración de justicia, y atención médica a la población interna en centros de reinserción social y en centros de internamiento para adolescentes;
 
-VIII. Formular y presentar al Titular del Ejecutivo Estatal el programa de construcción y equipamiento de la infraestructura hospitalaria para la prestación de los servicios de salud;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
 
-IX. Proponer al Titular del Ejecutivo Estatal acuerdos de coordinación de acciones con las instituciones del ramo, tendientes a promover y apoyar los programas de medicina preventiva;
+VIII. Formular y presentar al Gobernador del Estado, el programa de construcción y equipamiento de la infraestructura hospitalaria para la prestación de servicios de salud;
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+IX. Proponer al Gobernador del Estado, acuerdos de coordinación de acciones con las instituciones del ramo, tendientes a promover y apoyar los programas de medicina preventiva;
 
 X. Participar con la Secretaría de Medio Ambiente y Recursos Naturales, y con las autoridades federales, en la formulación y conducción de políticas de saneamiento ambiental, conforme a la legislación en la materia;
 
@@ -779,7 +999,7 @@ XIX. Desarrollar actividades para el mejoramiento y especialización de los serv
 
 XX. Las demás atribuciones que le señalen las leyes y reglamentos vigentes en el Estado.
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
 
 ###### Artículo 29.
 
@@ -787,85 +1007,107 @@ A la Secretaría de Desarrollo Social y Humano le corresponde el despacho de los
 
 I. Formular y conducir la política estatal del desarrollo social y humano para superar la pobreza, la marginación y mejorar los índices de desarrollo humano, conforme a lo establecido en el Plan Estatal de Desarrollo y acorde a la legislación y normatividad establecida en la materia;
 
-II. Promover ante al Titular del Ejecutivo Estatal, programas que contribuyan a superar la pobreza, igualar el acceso a las oportunidades de desarrollo y a generar mejores condiciones de vida para la población en situación de marginación y pobreza, mismos que podrá ejecutar con la participación de los tres órdenes de gobierno y de los sectores social y privado;
+II. Promover ante el Gobernador del Estado, programas que contribuyan a superar la pobreza, igualar el acceso a las oportunidades de desarrollo y a generar mejores condiciones de vida para la población en situación de marginación y pobreza, mismos que podrá ejecutar con la participación de los tres órdenes de gobierno y de los sectores social y privado;
 
-III. Formular, conducir, coordinar y/o ejecutar y evaluar la política estatal de desarrollo social en sus vertientes de superación de la pobreza, infraestructura social básica, fomento económico y atención a grupos vulnerables a fin de fortalecer la cohesión social, el bienestar familiar y el desarrollo de las comunidades y localidades en situación de pobreza y pobreza extrema en la Entidad;
+III. Formular, conducir, coordinar y/o ejecutar y evaluar la política estatal de desarrollo social en sus vertientes de superación de la pobreza, infraestructura social básica, fomento económico y atención a grupos en situación de vulnerabilidad a fin de fortalecer la cohesión social, el bienestar familiar y el desarrollo de las comunidades y localidades en situación de pobreza y pobreza extrema en la Entidad;
 
-IV. Proponer, ejecutar y supervisar los acuerdos de coordinación y los convenios de coinversión que en materia de desarrollo social conviene el Estado con la Federación y con los Municipios, así como con organismos privados y sociales, tanto nacionales como internacionales;
+IV. Fortalecer el desarrollo, la inclusión y la cohesión social en el Estado mediante la instrumentación, coordinación y seguimiento, en los términos de Ley y con las instancias correspondientes, de los programas, proyectos y acciones que atiendan la pobreza asociada a la imposibilidad de disfrutar el pleno ejercicio de los derechos humanos, económicos, sociales y culturales;
 
-V. Gestionar y promover la atracción de recursos que aporten los organismos nacionales e internacionales y las organizaciones no gubernamentales, para constituir fondos que apoyen el desarrollo de los programas en beneficio de los grupos más vulnerables de la Entidad;
+V. Promover la construcción de obras de infraestructura y equipamiento para fortalecer el desarrollo y la inclusión social, en coordinación con las diferentes instancias de los tres órdenes de gobierno y con la participación de los sectores social y privado;
 
-VI. Proponer y gestionar, proyectos y acciones para ejecutarse en coordinación con los tres órdenes de gobierno, organizaciones internacionales, nacionales y ciudadanas, en materia de seguridad alimentaria;
+VI. Promover, organizar y ejecutar, en coordinación con la Secretaría de Cultura, proyectos y actividades artísticas y culturales para fortalecer la cohesión e inclusión social, la igual dad (sic) de oportunidades y la no discriminación que favorezca el desarrollo social y humano;
 
-VII. Fortalecer la coordinación institucional con los tres órdenes de gobierno para la implementación de programas, proyectos y acciones orientadas a fomentar el bienestar de los pueblos y comunidades indígenas, respetando las manifestaciones de su cultura y el ejercicio de sus derechos;
+VII. Proponer, ejecutar y supervisar los acuerdos de coordinación y los convenios de coinversión que en materia de desarrollo social conviene el Estado con la Federación y con los Municipios, así como con organismos privados y sociales, tanto nacionales como internacionales;
 
-VIII. Estimular y fomentar la organización de personas, familias y grupos sociales, destinando recursos públicos para proyectos productivos en materia de desarrollo social; identificar oportunidades de inversión, y brindar capacitación, asistencia técnica y asesoría para la organización y el diseño de proyectos y apoyo legal para la realización de estas actividades;
+VIII. Gestionar y promover la atracción de recursos que aporten los organismos nacionales e internacionales y las organizaciones no gubernamentales, para constituir fondos que apoyen el desarrollo de los programas en beneficio de los grupos en situación de vulnerabilidad de la Entidad;
 
-IX. Fortalecer la organización social, coordinando y promoviendo la participación directa de la comunidad en proyectos productivos y de bienestar social;
+IX. Proponer y gestionar, proyectos y acciones para ejecutarse en coordinación con los tres órdenes de gobierno, organizaciones internacionales, nacionales y ciudadanas, en materia de seguridad alimentaria;
 
-X. Alentar la participación y consulta de las comunidades y organizaciones de la sociedad civil, para la toma de decisiones y acciones conjuntas entre el gobierno y la sociedad;
+X. Fortalecer la coordinación institucional con los tres órdenes de gobierno para la implementación de programas, proyectos y acciones orientadas a fomentar el bienestar de los pueblos y comunidades indígenas, respetando las manifestaciones de su cultura y el ejercicio de sus derechos;
 
-XI. Definir la política estatal de vivienda, sus programas y acciones, para reducir el rezago a través del mejoramiento y ampliación de la vivienda existente y del fomento a la adquisición de vivienda nueva, observando las disposiciones legales y reglamentarias en materia de uso de suelos, construcción, desarrollo urbano y servicios públicos, y considerando la disponibilidad de agua que determinen las instancias correspondientes;
+XI. Colaborar con los municipios para promover el desarrollo institucional municipal, con la finalidad de fortalecer sus capacidades de gestión vinculadas al desarrollo social;
 
-XII. Promover una mayor y mejor coordinación interinstitucional que garantice la concurrencia y corresponsabilidad de los tres órdenes de gobierno, para el ordenamiento sustentable del territorio y el impulso al desarrollo regional, urbano y de vivienda, a fin de lograr el crecimiento equilibrado de las diversas comunidades y centros de población de la Entidad;
+XII. Estimular y fomentar la organización de personas, familias y grupos sociales, destinando recursos públicos para proyectos productivos en materia de desarrollo social; identificar oportunidades de inversión, y brindar capacitación, asistencia técnica y asesoría para la organización y el diseño de proyectos y apoyo legal para la realización de estas actividades;
 
-XIII. Definir la política estatal de cultura física y desarrollo del deporte, considerando sus componentes de recreación, salud, formativo, alto rendimiento profesional y promover la participación y representación de la Entidad en eventos deportivos de carácter nacional e internacional;
+XIII. Fortalecer la organización social, coordinando y promoviendo la participación directa de la comunidad en proyectos productivos y de bienestar social;
 
-XIV. Definir la política estatal de promoción de la igualdad de género, para garantizar los derechos de educación, salud, sexuales y reproductivos, a una vida libre de violencia, al trabajo y a la participación política de las mujeres;
+XIV. Alentar la participación y consulta de las comunidades y organizaciones de la sociedad civil, para la toma de decisiones y acciones conjuntas entre el gobierno y la sociedad;
 
-XV. Definir la política estatal de atención a la Juventud para mejorar las condiciones de vida de las y los jóvenes a través de su incorporación equitativa en la vida económica, social, política y cultural del Estado;
+XV. Definir la política estatal de vivienda, sus programas y acciones, para reducir el rezago a través del mejoramiento y ampliación de la vivienda existente y del fomento a la adquisición de vivienda nueva, observando las disposiciones legales y reglamentarias en materia de uso de suelos, construcción, desarrollo urbano y servicios públicos, y considerando la disponibilidad de agua que determinen las instancias correspondientes;
 
-XVI. Diseñar, desarrollar, administrar y mantener actualizado un sistema de información que fortalezca la transparencia y rendición de cuentas de las aportaciones federales para el Estado y Municipios en materia de desarrollo social y que apoye a ambos órdenes de gobierno en la planeación para la inversión en proyectos en materia de desarrollo social que disminuyan la pobreza y el rezago social;
+XVI. Promover una mayor y mejor coordinación interinstitucional que garantice la concurrencia y corresponsabilidad de los tres órdenes de gobierno, para el ordenamiento sustentable del territorio y el impulso al desarrollo regional, urbano y de vivienda, a fin de lograr el crecimiento equilibrado de las diversas comunidades y centros de población de la Entidad;
 
-XVII. Coordinar y dirigir la integración del Padrón de Beneficiarios de los Programas de Desarrollo Social que se ejecuten en la Entidad;
+XVII. Definir la política estatal de cultura física y desarrollo del deporte, considerando sus componentes de recreación, salud, formativo, alto rendimiento profesional y promover la participación y representación de la Entidad en eventos deportivos de carácter nacional e internacional;
 
-XVIII. Gestionar, solicitar y tramitar la obtención de donativos y donaciones en efectivo o en especie, indemnizaciones o contraprestaciones ante Petróleos Mexicanos, sus empresas productivas subsidiarias y sus empresas filiales o cualquier otra dependencia o entidad paraestatal en materia de energía para su otorgamiento al Estado de Campeche, en el ámbito de su competencia, ajustándose, en su caso, a los documentos contractuales que al efecto se suscriban; y
+XVIII. Definir la política estatal de promoción de la igualdad de género, para garantizar los derechos de educación, salud, sexuales y reproductivos, a una vida libre de violencia, al trabajo y a la participación política de las mujeres;
 
-XIX. Las demás atribuciones que señalen las leyes y reglamentos vigentes en el Estado.
+XIX. Definir la política estatal de atención a la Juventud para mejorar las condiciones de vida de las y los jóvenes a través de su incorporación equitativa en la vida económica, social, política y cultural del Estado;
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+XX. Diseñar, desarrollar, administrar y mantener actualizado un sistema de información que fortalezca la transparencia y rendición de cuentas de las aportaciones federales para el Estado y Municipios en materia de desarrollo social y que apoye a ambos órdenes de gobierno en la planeación para la inversión en proyectos en materia de desarrollo social que disminuyan la pobreza y el rezago social;
+
+XXI. Coordinar y dirigir la integración del Padrón de Beneficiarios de los Programas de Desarrollo Social que se ejecuten en la Entidad; y
+
+XXII. Gestionar, solicitar y tramitar la obtención de donativos y donaciones en efectivo o en especie, indemnizaciones o contraprestaciones ante Petróleos Mexicanos, sus empresas productivas subsidiarias y sus empresas filiales o cualquier otra dependencia o entidad paraestatal en materia de energía para su otorgamiento al Estado de Campeche, en el ámbito de su competencia, ajustándose, en su caso, a los documentos contractuales que al efecto se suscriban
+
+XXIII. Las demás atribuciones que señalen las leyes y reglamentos vigentes en el Estado.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
 
 ###### Artículo 30.
 
 A la Secretaría de Desarrollo Energético Sustentable le corresponde el despacho de los siguientes asuntos:
 
-I. Formular, promover, conducir, ejecutar, difundir y evaluar las políticas, programas, acciones y estrategias sectoriales de desarrollo sustentable en el ámbito energético de competencia estatal, conforme a la legislación correspondiente;
+I. Establecer, conducir, realizar, difundir, promover, coordinar y evaluar las políticas, programas, acciones y estrategias sectoriales de desarrollo energético en el ámbito de la competencia estatal, conforme a la legislación correspondiente y las directrices establecidas en el Plan Estatal de Desarrollo;
 
-II. Formular y proponer al Titular del Ejecutivo Estatal los programas en materia de desarrollo sostenible en el ámbito energético, mismos que podrá ejecutar con la participación de los tres órdenes de gobierno y de los sectores social y privado;
+II. Proponer al Gobernador del Estado los programas en materia energética que contribuyan a superar la pobreza, el acceso a las oportunidades de desarrollo y a generar mejores condiciones de vida para la población con la participación de los tres órdenes de gobierno y de los sectores social y privado;
 
-III. Formular, promover y ejecutar los programas en materia de desarrollo energético sustentable, en consideración del impacto estatal y las directrices del Gobernador en el marco del Plan Estatal de Desarrollo;
+III. Proponer, realizar y supervisar los acuerdos de coordinación y los convenios de coinversión que en materia de desarrollo energético convenga el Estado con la Federación, órganos reguladores, entidades federativas y con los Municipios, así como con organismos privados y sociales, tanto nacionales como internacionales;
 
-IV. Proponer, ejecutar y supervisar los acuerdos de coordinación y los convenios de coinversión que, en materia de desarrollo energético sustentable, conviene el Estado con la Federación y con los Municipios, así como con organismos privados y sociales, tanto nacionales como internacionales;
+IV. Gestionar en coordinación con las dependencias y entidades competentes de los tres órdenes de gobierno, tareas y acciones necesarias para establecer e implementar programas en materia de desarrollo energético del Estado;
 
-V. Emprender y facilitar acciones de concertación en materia de desarrollo energético sustentable y propiciar el equilibrio armónico entre las actividades petroleras y de electrificación con las demás actividades productivas del Estado, para mejorar las condiciones sociales, económicas y ambientales;
+V. Coordinar la operación de las dependencias y entidades de gobierno estatal en materia energética;
 
-VI. Establecer e instrumentar acciones dirigidas a la prevención y restauración de daños causados por las actividades petroleras, de electrificación, hidráulicas y otras, con el propósito de conservar, proteger e incrementar los recursos naturales de la Entidad, en coordinación con la Secretaría de Medio Ambiente y Recursos Naturales;
+VI. Promover estrategias y programas de vinculación entre instituciones del sector público, social y privado para fortalecer la formación de capital humano, el desarrollo tecnológico y la investigación que impulsen el desarrollo energético del Estado de Campeche;
 
-VII. Acordar e implementar los mecanismos para diagnosticar, evaluar y en su caso, gestionar la indemnización por las afectaciones ocasionadas por el quehacer de las actividades petroleras, de electrificación, hidráulicas y otras de tipo energético;
+VII. Convenir con instancias públicas, privadas y miembros de la sociedad civil el desarrollo de proyectos en materia de aprovechamiento y producción de energía renovable, de conformidad con la legislación correspondiente;
 
-VIII. Gestionar alternativas de solución a la problemática generada por la actividad energética y propiciar la participación organizada de los habitantes de las zonas afectadas, el mejoramiento del entorno ecológico, elevar la calidad de las obras y servicios públicos y fortalecer la identidad cultural y la cohesión social;
+VIII. Propiciar el equilibrio armónico entre las actividades petroleras, de electrificación y energías renovables, con las demás actividades productivas del Estado, para mejorar las condiciones sociales, económicas y ambientales;
 
-IX. Promover la realización de estudios, investigaciones y diagnósticos para conocer el potencial de aprovechamiento energético sustentable del Estado de Campeche;
+IX. Recomendar y supervisar programas dirigidos a la prevención y restauración de daños causados por las actividades petroleras, de electrificación, hidráulicas y otras actividades del sector energía, con el propósito de conservar, proteger e incrementar los recursos naturales;
 
-X. Coordinar con la Comisión Federal de Electricidad que el suministro de energía eléctrica se provea con la cantidad y calidad suficiente para el desarrollo social del Estado;
+X. Implementar mecanismos técnicos para diagnosticar, evaluar y emitir opiniones por las afectaciones ocasionadas por el quehacer de las actividades petroleras, de electrificación y otras de tipo energéticos (sic);
 
-XI. Colaborar con las dependencias y entidades de los tres órdenes de gobierno, según corresponda, en las tareas y acciones necesarias para lograr el desarrollo equilibrado entre las actividades energéticas sustentables;
+XI. Proponer alternativas de solución a la problemática generada por la actividad energética que permitan propiciar la participación organizada de los habitantes de las zonas afectadas, así como de las instituciones públicas y privadas competentes con el fin de mejorar el entorno ecológico, así como la licencia social de nuevos proyectos de desarrollo energético;
 
-XII. Promover estrategias de vinculación de las instituciones de educación superior y de investigación con organismos internacionales, entidades de los tres órdenes de gobierno, sociedad civil organizada, centros de producción de energías alternativas y organismos empresariales, para fortalecer la formación de recursos humanos para el desarrollo energético sustentable;
+XII. Realizar estudios, investigaciones y diagnósticos para conocer el potencial de aprovechamiento y desarrollo energético, así como la consolidación de la demanda de energéticos;
 
-XIII. Apoyar y promover entre las dependencias públicas estatales y municipales y los sectores social y privado, el uso eficiente de la energía y la adopción de fuentes energéticas alternativas;
+XIII. Establecer mecanismos de coordinación y consulta con los usuarios y permisionarios de la generación, transmisión, distribución y comercialización de electricidad para que el suministro de energía eléctrica se provea con oportunidad, calidad y suficiencia, para el desarrollo económico y social del Estado;
 
-XIV. Promover en el ámbito de su competencia, proyectos de educación y sensibilización en materia de desarrollo sostenible y energías renovables;
+XIV. Coordinar con usuarios, asignatarios y los permisionarios de producción, transporte, almacenamiento, distribución y comercialización de hidrocarburos, petrolíferos y petroquímicos mecanismos para el suministro adecuado, oportuno y eficiente de energéticos y garantizar el desarrollo energético en el Estado;
 
-XV. Convenir con la Federación el desarrollo de proyectos en materia de aprovechamiento y producción de energía renovable, de conformidad con la legislación correspondiente;
+XV. Promover el uso eficiente de la energía y la adopción de fuentes energéticas alternativas en las dependencias públicas estatales y municipales, así como en el sector social y privado;
 
-XVI. Promover acciones de apoyo para el aprovechamiento de las energías renovables;
+XVI. Determinar las zonas con un alto potencial de fuentes de energías renovables para su aprovechamiento y promover con los Municipios la compatibilidad de los usos de suelo para tales fines, en coordinación con la Federación y de conformidad con la legislación correspondiente;
 
-XVII. Determinar las zonas con un alto potencial de fuentes de energías renovables para su aprovechamiento y promover con los Municipios la compatibilidad de los usos de suelo para tales fines, en coordinación con la Federación y de conformidad con la legislación correspondiente;
+XVII. Recomendar políticas de desarrollo regional, ordenamiento territorial, uso del suelo y de construcción, para el desarrollo de proyectos energéticos y aprovechamiento de las energías renovables, en coordinación con las autoridades estatales competentes y municipios;
 
-XVIII. Recomendar políticas de uso del suelo y de construcciones, en coordinación con los Municipios, que tomen en cuenta los intereses de los propietarios o poseedores de terrenos para el aprovechamiento de las energías renovables; y
+XVIII. Proponer e implementar proyectos estratégicos en materia de desarrollo energético mediante la creación de instrumentos jurídicos y mecanismos de asociación que permitan la atracción de la inversión privada en la materia, para garantizar el desarrollo energético en materia de hidrocarburos, petrolíferos, petroquímicos, electricidad y energías renovables;
 
-XIX. Las demás atribuciones que le señalen las leyes y reglamentos vigentes en el Estado.
+XIX. Impulsar y promover la integración de cadenas productivas locales para la proveeduría de bienes y servicios especializados a los asignatarios de exploración y extracción, así como de las empresas del sector energético en el Estado;
+
+XX. Facilitar y coadyuvar para la debida observancia del Contenido Nacional y desarrollo de proveedores, en el ámbito del sector energético, conforme a la Ley de Hidrocarburos y demás disposiciones jurídicas aplicables;
+
+XXI. Coordinar a las entidades públicas sectorizadas a la Secretaria, así como a las asociaciones, fideicomisos e instrumentos públicos relacionados con las actividades de desarrollo energético; y
+
+XXII. Formular, promover y ejecutar los programas en materia de desarrollo energético sustentable, en consideración del impacto estatal y las directrices del Gobernador en el marco del Plan Estatal de Desarrollo;
+
+XXIII. Coordinar con la Comisión Federal de Electricidad que el suministro de energía eléctrica se provea con la cantidad y calidad suficiente para el desarrollo social del Estado;
+
+XXIV. Promover en el ámbito de su competencia, proyectos de educación y sensibilización en materia de desarrollo sostenible y energías renovables;
+
+XXV. Promover acciones de apoyo para el aprovechamiento de las energías renovables;
+
+XXVI. Las demás atribuciones que le señalen las leyes y reglamentos vigentes en el Estado.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
@@ -875,7 +1117,9 @@ A la Secretaría de Desarrollo Económico le corresponde el despacho de los sigu
 
 I. Plantear, conducir, ejecutar y evaluar la política de desarrollo de los sectores económicos en el Estado;
 
-II. Formular y proponer al Titular del Ejecutivo Estatal, las políticas, programas y proyectos estratégicos y de inversión dirigidos al desarrollo de clústeres y parques industriales, artesanales, tecnológicos, comerciales, logísticos, de abasto y servicios, mismos que podrá ejecutar con la participación de los otros órdenes de gobierno y de los sectores social y privado;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+II. Formular y proponer al Gobernador del Estado, las políticas, programas y proyectos estratégicos y de inversión dirigidos al desarrollo de clústeres y parques industriales, artesanales, tecnológicos, comerciales, logísticos, de abasto y servicios, mismos que podrá ejecutar con la participación de los otros órdenes de gobierno y de los sectores social y privado;
 
 III. Contribuir en la definición de estratégicas (sic) para el fomento industrial de cadenas productivas locales y para la promoción de la inversión directa;
 
@@ -909,7 +1153,9 @@ XVII. Actuar como órgano coordinador y enlace con las Cámaras, Asociaciones y 
 
 XVIII. Promover, en coordinación con la Secretaría de Seguridad Pública de la administración pública estatal, el desarrollo de la producción artesanal penitenciaria en el Estado;
 
-XIX. Fungir como dependencia coordinadora de sector portuario del Estado y de sus organismos, emitiendo, previo acuerdo con el Titular del Ejecutivo Estatal, los lineamientos y directrices que correspondan para que sus actividades sea (sic) acorde con las políticas públicas en materia de desarrollo económico;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+XIX. Fungir como dependencia coordinadora del sector portuario del Estado y de sus organismos, emitiendo, previo acuerdo con el Gobernador del Estado, los lineamientos y directrices que correspondan para que sus actividades sean acordes con las políticas públicas en materia de desarrollo económico;
 
 XX. Coordinar la operación de los fideicomisos públicos estatales establecidos o que se establezcan para el desarrollo económico del Estado, de acuerdo a la legislación en la materia;
 
@@ -921,9 +1167,17 @@ XXIII. Proponer y fomentar el establecimiento de infraestructura, parques indust
 
 XXIV. Promover en conjunto con las instancias federales proyectos de ciencia y tecnología que fomenten el incremento de la competitividad del Estado;
 
-XXV. Promoción, impulso y fomento de proyectos de investigación, desarrollo de tecnología e innovación dirigidos al desarrollo de nuevos productos, procesos o servicios; y
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
 
-XXVI. Las demás atribuciones que le señalen las leyes y reglamentos vigentes en el Estado.
+XXV. Promover, impulsar y fomentar proyectos de investigación, desarrollo de tecnología e innovación, dirigidos al desarrollo de nuevos productos, procesos o servicios;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JULIO DE 2017)</small>
+
+XXVI. Ser el enlace, en materia de zonas económicas especiales que se creen en el Estado, con los diversos órdenes de gobierno, con los administradores integrales e inversionistas, y fungir como facilitadora, dando seguimiento a los trámites de éstos a través de la ventanilla única; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE JULIO DE 2017)</small>
+
+XXVII. Las demás atribuciones que le señalen las leyes y reglamentos vigentes en el Estado.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
@@ -933,7 +1187,9 @@ A la Secretaría de Desarrollo Rural le corresponde el despacho de los siguiente
 
 I. Formular, ejecutar, controlar y evaluar la política de desarrollo rural del Estado y los programas de fomento agropecuario, apícola, hidráulico y agroindustrial, en coordinación con los gobiernos federal y municipales, y la concertación con los sectores social y privado;
 
-II. Formular y proponer al Titular del Ejecutivo Estatal programas de inversión dirigidos al desarrollo agropecuario, apícola, hidráulico y agroindustrial, mismos que podrá ejecutar con la participación de los tres órdenes de gobierno y de los sectores social y privado;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+II. Formular y proponer al Gobernador del Estado, programas de inversión dirigidos al desarrollo agropecuario, apícola, hidráulico y agroindustrial, mismos que podrá ejecutar con la participación de los tres órdenes de gobierno y de los sectores social y privado;
 
 III. Diseñar, implementar y supervisar programas de asistencia técnica y de acompañamiento a productores agropecuarios y apícolas, así como ejecutar las acciones de asesoría especializada dirigida a éstos en los procedimientos del manejo de insumos, maquinaria, técnicas de producción, administración, innovaciones tecnológicas, financiamiento, seguros, promoción y comercialización;
 
@@ -1041,7 +1297,9 @@ III. Formular y promover los criterios para la redefinición de la vocación y p
 
 IV. Formular, conducir y determinar las políticas y acciones encaminadas al aprovechamiento racional, enriquecimiento, fomento y desarrollo de los recursos agrícolas, pecuarios, forestales y del agua.
 
-V. Formular y proponer al Titular del Ejecutivo Estatal, los programas de inversión dirigidos al medio ambiente y desarrollo sustentable, mismos que podrá ejecutar con la participación de los otros órdenes de gobierno y de los sectores social y privado;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+V. Formular y proponer al Gobernador del Estado, los programas de inversión dirigidos a la protección del ambiente y el desarrollo sustentable, mismos que podrá ejecutar por sí o con la participación de los otros órdenes de gobierno y de los sectores social y privado;
 
 VI. Formular, conducir, supervisar, controlar y evaluar los programas de desarrollo forestal, así como la atención y solución a los problemas relacionados con esta actividad productiva;
 
@@ -1105,7 +1363,9 @@ XXXIII. Las demás atribuciones que señalen las leyes y reglamentos vigentes en
 
 A la Secretaría de Desarrollo Urbano, Obras Públicas e Infraestructura le corresponde el despacho de los siguientes asuntos:
 
-I. Formular, conducir y evaluar, en coordinación con el Titular del Ejecutivo Estatal, la política estatal de asentamientos humanos, ordenamiento territorial, desarrollo urbano y vivienda, en apego a las leyes, reglamentos y acuerdos vigentes en la materia;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+I. Formular, conducir y evaluar, en coordinación con el Gobernador del Estado, la política estatal de asentamientos humanos, ordenamiento territorial, desarrollo urbano y vivienda, en apego a las leyes, reglamentos y acuerdos vigentes en la materia;
 
 II. Proyectar, ejecutar, mantener y operar, en su caso, directamente o por adjudicación a particulares, las obras públicas y la infraestructura que no sean competencia de otra dependencia;
 
@@ -1139,7 +1399,9 @@ A la Secretaría de Turismo le corresponde el despacho de los siguientes asuntos
 
 I. Formular, conducir, ejecutar y evaluar la política turística en el Estado, de conformidad con la Ley General de Turismo, la Ley de Turismo del Estado de Campeche y demás normatividad aplicable;
 
-II. Formular y proponer al Titular del Ejecutivo Estatal, los programas de inversión dirigidos al desarrollo turístico, mismos que podrá ejecutar con la participación de los otros órdenes de gobierno y de los sectores social y privado;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+II. Formular y proponer al Gobernador del Estado, los programas de inversión dirigidos al desarrollo turístico, mismos que podrá ejecutar con la participación de los otros órdenes de gobierno y de los sectores social y privado;
 
 III. Proponer, ejecutar y supervisar los acuerdos de coordinación y los convenios de coinversión que en materia turística convenga el Estado con la Federación y con los Municipios, así como con organismos privados y sociales, tanto nacionales como internacionales;
 
@@ -1247,13 +1509,17 @@ XXII. Participar en la integración y funcionamiento de los organismos estatales
 
 XXIII. Intervenir, a petición de parte, en la revisión de los contratos colectivos de trabajo;
 
-XXIV. Intervenir en la conciliación de los intereses de las partes en conflicto, cuando éstas lo soliciten o cuando la situación lo amerite, a juicio del Titular del Ejecutivo;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+XXIV. Intervenir en la conciliación de los intereses de las partes en conflicto, cuando éstas lo soliciten o cuando la situación lo amerite, a través de las autoridades laborales correspondientes;
 
 XXV. Proponer y coordinar las campañas publicitarias encaminadas a difundir los derechos y obligaciones de trabajadores y patrones;
 
 XXVI. Vigilar la aplicación de la legislación laboral para la promoción y protección de los derechos de los menores y las mujeres;
 
-XXVII. Revisar y proponer al Ejecutivo del Estado la actualización del marco normativo laboral en el Estado;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+XXVII. Revisar y proponer al Gobernador del Estado la actualización del marco normativo laboral en el Estado;
 
 XXVIII. Fomentar y apoyar la organización social para el trabajo y el autoempleo;
 
@@ -1301,9 +1567,13 @@ XVI. Auxiliar a las autoridades ministeriales, judiciales; electorales y adminis
 
 XVII. Participar en el Sistema Estatal de Protección Civil y auxiliar a la población en casos de siniestros o desastres naturales o provocados;
 
-XVIII. Implementar al interior de los centros penitenciarios programas de reinserción social, en coordinación con las instancias correspondientes, conforme a las disposiciones de la Constitución Política de los Estados Unidos Mexicanos y la legislación aplicable;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
 
-XIX. Cumplir, en el ámbito de su competencia, con las disposiciones en materia de ejecución de sanciones penales y reinserción social, de conformidad a la legislación correspondiente;
+XVIII. Implementar al interior de los centros penitenciarios y centros de internamiento para adolescentes, programas de reinserción social, en coordinación con las instancias correspondientes, conforme a las disposiciones de la Constitución Política de los Estados Unidos Mexicanos, la Ley Nacional de Ejecución Penal, la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes y la demás legislación aplicable;
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+XIX. Cumplir, en el ámbito de su competencia, con las disposiciones en materia de ejecución de sanciones penales y reinserción social, de conformidad con (sic) Ley Nacional de Ejecución Penal, la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes y la demás legislación aplicable;
 
 XX. Vigilar y resguardar los inmuebles propiedad o en posesión del Estado, cuando sea requerido formalmente y por situaciones de riesgo;
 
@@ -1465,9 +1735,13 @@ II. Brindar apoyo técnico jurídico al Gobernador del Estado en la elaboración
 
 III. Revisar los proyectos de leyes que se pretendan remitir al Gobernador del Estado, elaborados por las dependencias y entidades de la Administración Pública y en su caso, visarlos;
 
-IV. Revisar los proyectos de reglamentos, acuerdos, resoluciones, protocolos, lineamientos y demás instrumentos de carácter administrativo y en su caso, visarlos;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
 
-V. Visar los instrumentos jurídicos, previo a la firma del Gobernador, relativos a la Administración Pública o por actos jurídicos que celebre el Estado con la intervención del Titular del Ejecutivo, asimismo visar los decretos que envíe el Congreso local, previo a su promulgación y publicación por parte del Ejecutivo Estatal;
+IV. Revisar los proyectos de reglamentos, acuerdos, decretos y demás instrumentos jurídicos que firme el Gobernador, y los que generen obligaciones para el Estado y, en su caso, visarlos;
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+V. Visar los instrumento (sic) jurídicos, previo a la firma del Gobernador del Estado, relativos a la Administración Pública o por actos jurídicos que celebre el Estado con la intervención del Gobernador; asimismo visar los decretos que envíe el Congreso local, previo a su promulgación y publicación por parte del Ejecutivo estatal;
 
 VI. Revisar, analizar y opinar sobre los proyectos de convenios y contratos a celebrar por el Ejecutivo del Estado con la Federación, con las entidades federativas y con los municipios, y sobre otros asuntos relativos a dichas autoridades;
 
@@ -1475,9 +1749,13 @@ VII. Establecer criterios de aplicación de normas que sean competencia del Pode
 
 VIII. Coordinar las acciones en materia jurídica que se implementen en la Administración Pública Estatal, así como establecer los criterios jurídicos que aplicarán las dependencias y entidades de la Administración Pública Estatal;
 
-IX. Ser el conducto del Ejecutivo del Estado para prestar apoyo en materia jurídica a los municipios con los que así se acuerde, sin perjuicio de la competencia que corresponda a otras dependencias;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
 
-X. Representar legalmente al depositario del Poder Ejecutivo del Estado en los procedimientos, juicios o asuntos litigiosos, juicios de amparo, controversias constitucionales, acciones de inconstitucionalidad, o cualquier otro proceso de índole constitucional, así como en todos aquellos procesos contenciosos y no contenciosos, del fuero común o del fuero federal, en los que el Gobernador del Estado intervenga con cualquier carácter;
+IX. Ser el Conducto del Gobernador del Estado para prestar apoyo en materia jurídica a los municipios con los que así se acuerde, sin perjuicio de la competencia que corresponde a otras dependencias;
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+X. Representar legalmente al Gobernador del Estado en los procedimientos, juicios o asuntos litigiosos, juicios de amparo, controversias constitucionales, acciones de inconstitucionalidad, o cualquier otro proceso de índole constitucional, así como todos aquellos procesos contenciosos y no contenciosos, del fuero común o del fuero federal, en los que tenga intervención el Gobernador;
 
 XI. Fungir como órgano de consulta obligatoria para los titulares de las dependencias y entidades de la Administración Pública, respecto de los procedimientos litigiosos en los que tengan interés jurídico, pudiendo asumir el patrocinio legal de tales asuntos por orden escrita del Gobernador del Estado;
 
@@ -1499,7 +1777,13 @@ XIX. Realizar investigaciones y análisis jurídicos, estudios de derecho compar
 
 XX. Presidir la Comisión de Estudios Jurídicos, la Comisión de Temas Constitucionales y Proyectos Especiales, y la Comisión de Armonización Legislativa, todas del Poder Ejecutivo del Estado, las cuales tendrán la naturaleza, el objeto, las funciones y la estructura que se establezcan en el Reglamento correspondiente; y
 
-XXI. Las demás atribuciones que le señalen las leyes y reglamentos vigentes en el Estado.
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+XXI. Proponer al Gobernador del Estado, la designación y remoción de los titulares de las direcciones jurídicas de las dependencias de la administración pública centralizada y paraestatal; y
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2017)</small>
+
+XXII. Las demás atribuciones que señalen las leyes y reglamentos vigentes en el Estado.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
@@ -1509,11 +1793,17 @@ La organización, estructura y funcionamiento de la Fiscalía General del Estado
 
 ### CAPÍTULO TERCERO. DE LA OFICINA DEL GOBERNADOR
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2017)</small>
 
 ###### Artículo 42.
 
-La Oficina del Gobernador se integra con las unidades administrativas encargadas de auxiliar directamente al titular del Poder Ejecutivo del Estado, proporcionándole el apoyo técnico, la asesoría y coordinación que requiera para el despacho de los asuntos de su competencia, y tendrán las atribuciones contenidas en las disposiciones legales, reglamentarias, administrativas y demás del marco jurídico estatal vigente aplicable, así como las que específicamente el Gobernador del Estado les asigne. Estas unidades son:
+La Oficina del Gobernador se integrará con las unidades administrativas encargadas de auxiliar directamente al Ejecutivo Estatal, proporcionándole el apoyo técnico, la asesoría y coordinación que requiera para el despacho de los asuntos de su competencia, y tendrán las atribuciones contenidas en las disposiciones legales, reglamentarias y administrativas del marco jurídico estatal vigente aplicable, así como las que específicamente el Gobernador del Estado les asigne.
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2017)</small>
+
+Estas unidades son:
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 I. La Jefatura de la Oficina del Gobernador que comprende las áreas de:
 
@@ -1531,13 +1821,23 @@ f. Administración y Servicios Internos; y
 
 g. Unidad de Programas y Proyectos de Inversión Pública.
 
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
 II. La Unidad de Comunicación Social
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 III. La Secretaría Privada;
 
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
 IV. La Coordinación de Asesores;
 
-V. La Representación del Gobierno del Estado en el Distrito Federal; y
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+V. La representación del Poder Ejecutivo del Estado de Campeche en la Ciudad de México; y
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 VI. El Comisionado de Asuntos Internacionales;
 
@@ -1573,7 +1873,9 @@ XII. Brindar asesoría al Gobernador en los asuntos que éste le encomiende;
 
 XIII. Dar seguimiento a los avances y al cumplimiento de los programas, proyectos y demás responsabilidades a cargo de las dependencias y entidades de la Administración Pública Estatal, que le encomiende el Gobernador;
 
-XIV. Mantener y mejorar, en coordinación con las áreas competentes, las relaciones interinstitucionales de la Oficina del Gobernador con los sectores públicas (sic), sociales y privado; Elaborar diagnósticos y escenarios que permitan prever sucesos que puedan repercutir en la imagen del Gobernador y del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+XIV. Mantener y mejorar, en coordinación con las áreas competentes, las relaciones interinstitucionales de la Oficina del Gobernador con los sectores público, social y privado;
 
 XV. Coordinar estudios de opinión con el objeto de aportar elementos que permitan dar apoyo a la toma de decisiones y seguimiento a los temas que le encomiende el Gobernador;
 
@@ -1581,7 +1883,13 @@ XVI. Dirigir investigaciones acerca de la gestión del Gobernador y de la Admini
 
 XVII. Coordinar las acciones y estrategias para posicionar el mensaje gubernamental, con la participación de las dependencias y entidades de la Administración Pública Estatal; y
 
-XVIII. Las demás atribuciones que el titular del Ejecutivo del Estado le encomiende.
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+XVIII. Elaborar diagnósticos y escenarios que permitan prever sucesos que puedan repercutir en la imagen del Gobernador y en la administración pública estatal;
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2017)</small>
+
+XIX. Las demás atribuciones que le señalen las leyes y reglamentos vigentes, así como las que el Gobernador del Estado le encomiende.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
@@ -1605,33 +1913,59 @@ VII. Crear y mantener un archivo fotográfico, videográfico y estadístico de t
 
 VIII. Ser el enlace del Gobernador del Estado con los representantes de los medios de comunicación estatales, nacionales e internacionales; y
 
-IX. Las demás atribuciones que el titular del Ejecutivo le encomiende.
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+IX. Las demás atribuciones que le señalen las leyes y reglamentos vigentes, así como las que el Gobernador del Estado le encomiende.
 
 La Secretaría Privada y la Coordinación de Asesores, tendrán las atribuciones que el titular del Ejecutivo del Estado les encomiende y lo que les señale el Reglamento Interior de la Oficina del Gobernador.
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+
+###### Artículo 44 Bis.
+
+La Secretaría Privada y la Coordinación de Asesores tendrán las atribuciones que el Gobernador del Estado les encomiende y las que disponga el Reglamento Interior de la Oficina del Gobernador.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2017)</small>
 
 ###### Artículo 45.
 
-La Representación del Gobierno del Estado en el Distrito Federal tiene a su cargo:
+La representación del Poder Ejecutivo del Estado de Campeche en la Ciudad de México tiene a su cargo:
 
-I. Representar oficialmente al Gobierno del Estado de Campeche ante las Dependencias e Instituciones Federales y la sociedad civil en el Distrito Federal;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
 
-II. Promover la identidad y cultura del Estado entre la comunidad campechana radicada en el Distrito Federal;
+I. Representar oficialmente al Poder Ejecutivo del Estado ante las Dependencias e Instituciones Federales y de la sociedad civil en la Ciudad de México;
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+II. Promover la identidad y cultura del Estado entre la comunidad Campechana radicada en la Ciudad de México;
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 III. Difundir los valores y cultura campechanos entre diversos sectores e instituciones sociales en la Ciudad de México;
 
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
 IV. Establecer relaciones con empresarios nacionales y extranjeros en beneficio de las actividades económicas, turísticas y sociales de la Entidad;
 
-V. Establecer los enlaces necesarios a nivel de instituciones, organismos y dependencias públicas y privadas, para apoyar las actividades del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
 
-VI. Difundir a través de los distintos medios de comunicación las actividades, programas y avances desarrollados por el Gobierno del Estado;
+V. Establecer los enlaces necesarios a nivel de instituciones, organismos y dependencias públicas y privadas, para apoyar las actividades del Poder Ejecutivo del Estado;
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+VI. Difundir a través de los distintos medios de comunicación las actividades, programas y avances desarrollados por el Poder Ejecutivo del Estado;
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 VII. Administrar conforme a los lineamientos presupuestales los recursos humanos, financieros y materiales que le sean asignados, para cumplir con el objetivo y las funciones encomendadas y responder a los requerimientos de otras dependencias de la Administración Pública Estatal;
 
-VIII. Dar seguimiento en el Distrito Federal a los asuntos gubernamentales, en coordinación con los titulares de las distintas dependencias de la Administración Pública Estatal; y
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
 
-IX. Las demás atribuciones que el titular del Ejecutivo le encomiende.
+VIII. Dar seguimiento en la Ciudad de México a los asuntos gubernamentales, en coordinación con los titulares de las distintas dependencias de la Administración Pública Estatal; y
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+IX. Las demás atribuciones que le señalen las leyes y reglamentos vigentes, así como las que el Gobernador del Estado le encomiende
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
@@ -1669,7 +2003,9 @@ XIV. Establecer un sistema de control de información y un banco de datos que pe
 
 XV. Fortalecer los lazos de amistad e identidad entre los migrantes campechanos en el extranjero; y
 
-XVI. Las demás atribuciones que el titular del Ejecutivo le encomiende.
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+XVI. Las demás atribuciones que le señalen las leyes y reglamentos vigentes, así como las que el Gobernador del Estado le encomiende.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
@@ -1717,7 +2053,9 @@ XV. Coordinar, asesorar, proponer y/o elaborar los estudios y proyectos necesari
 
 XVI. Requerir a las dependencias y entidades de la administración pública estatal, la información que considere necesaria para el ejercicio de sus facultades; y
 
-XVII. Las demás atribuciones que el titular del Ejecutivo del Estado le encomiende y el Reglamento Interior de la Oficina del Gobernador.
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+
+XVII. Las demás atribuciones que le señalen las leyes y reglamentos vigentes, así como las que el Gobernador del Estado le encomiende.
 
 ### CAPÍTULO CUARTO. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL
 
@@ -1743,13 +2081,13 @@ II. Que en la constitución de su capital se hagan figurar títulos representati
 
 III. Que al Ejecutivo Estatal corresponda la facultad de nombrar la mayoría de los miembros de su máximo órgano de gobierno, o bien designar a su presidente o al director general, o cuando tenga facultades para vetar los acuerdos del propio órgano de gobierno.
 
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
+
 ###### Artículo 51.
 
-Los fideicomisos públicos son aquellos que el Estado constituye, con el propósito de auxiliar a las dependencias de la administración pública centralizada en sus atribuciones y con el objeto de impulsar las áreas prioritarias del desarrollo, que cuenten con una estructura orgánica análoga a los organismos descentralizados. En la constitución de estos fideicomisos, la representación del Estado como fideicomitente estará a cargo del titular de la Secretaría de Finanzas. El Comité Técnico de cada uno de estos fideicomisos será presidido por el titular de la dependencia que el Ejecutivo determine.
+Los fideicomisos públicos son aquellos que el Estado constituye por Acuerdo del Ejecutivo y que cuentan con una estructura orgánica análoga a los organismos descentralizados. En la constitución de estos fideicomisos, la representación del Estado como fideicomitente estará a cargo del titular de la Secretaría de Finanzas. El Comité Técnico de cada uno de estos fideicomisos será presidido por el titular de la dependencia que el Ejecutivo determine. Los fideicomisos a que se refiere este párrafo serán considerados entidades paraestatales.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
-
-Sólo los fideicomisos a que se refiere el párrafo anterior serán considerados entidades paraestatales. Los fideicomisos que se celebren con fines distintos a los antes señalados, no serán considerados como entidades paraestatales y estarán sujetos a las reglas y supervisión que les sean aplicables conforme a la legislación correspondiente.
+Los fideicomisos que no cumplan con los requisitos señalados en el párrafo anterior, no serán considerados entidades paraestatales y podrán ser administrados por las dependencias y entidades de la Administración Pública Centralizada y Paraestatal, los cuales estarán sujetos a las reglas y supervisión que les sean aplicables conforme a la legislación correspondiente.
 
 ###### Artículo 52.
 
@@ -1758,6 +2096,12 @@ El Estado podrá participar en la integración del capital social de aquellas em
 ###### Artículo 53.
 
 El Gobernador tiene facultades para determinar agrupamientos de entidades de la Administración Pública Paraestatal por sectores previamente definidos, a fin de que sus relaciones con el Ejecutivo Estatal se realicen a través de la dependencia que en cada caso designe como coordinadora del sector correspondiente, así como para decretar la modificación y la desaparición de dichas entidades, con las salvedades que establezcan las leyes respectivas.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+
+###### Artículo 54.
+
+El Gobernador del Estado, a través de la Secretaría de Finanzas, emitirá los criterios los criterios (sic) para la clasificación de las entidades paraestatales conforme a sus objetivos y actividades, en aquellas que cumplan con función institucional y las que realicen fines comerciales con el propósito de, en su caso, establecer mecanismos diferenciados que hagan eficiente su organización, funcionamiento, control y evaluación conforme a la legislación de la materia. Dichos mecanismos contemplarán un análisis sobre los beneficios y costos de instrumentar prácticas de gobierno corporativo en las entidades con fines comerciales, a efecto de considerar la conveniencia de su adopción.
 
 ## TRANSITORIOS
 
@@ -1867,7 +2211,7 @@ Décimo.- El Gobernador del Estado promoverá las iniciativas correspondientes a
 
 P.O. 22 DE DICIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 100 POR EL QUE "SE REFORMAN EL ARTÍCULO 22 Y LA FRACCIÓN I DEL ARTÍCULO 23 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE".]
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 100 POR EL QUE “SE REFORMAN EL ARTÍCULO 22 Y LA FRACCIÓN I DEL ARTÍCULO 23 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE”.]
 
 PRIMERO.- Las modificaciones a las disposiciones contenidas en la Ley Orgánica de la Administración Pública del Estado de Campeche entrarán en vigor al día siguiente de la publicación de este decreto en el Periódico Oficial del Estado de Campeche. El sistema de registros y control de las erogaciones personales deberá estar en operación a más tardar el 1 de enero de 2018.
 
@@ -1879,7 +2223,7 @@ CUARTO.- El Ejecutivo del Estado expedirá el Reglamento Interior del Servicio d
 
 QUINTO.- La Secretaría establecerá los mecanismos para la readscripción de los trabajadores de base que vienen prestando sus servicios a la misma, y que deban incorporarse al Servicio de Administración Fiscal del Estado de Campeche. Los derechos de estos trabajadores serán respetados y en ningún caso serán afectados por la reorganización que implica el presente ordenamiento.
 
-SEXTO.- Las referencias que se hacen y atribuciones que se otorgan en otras leyes, reglamentos y demás disposiciones a la Secretaría de Finanzas o a cualquiera de sus unidades administrativas, se entenderán hechas al Servicio de Administración Fiscal del Estado de Campeche, cuando se trate de atribuciones vinculadas con la materia objeto de la Ley del Servicio de Administración Fiscal del Estado de Campeche, el Reglamento Interior del Servicio de Administración Fiscal del Estado de Campeche o cualquier otra disposición jurídica que emane de ellos.
+SEXTO.- Las referencias que se hacen y atribuciones que se otorgan en otras leyes, reglamentos y demás disposiciones a la Secretaria de Finanzas o a cualquiera de sus unidades administrativas, se entenderán hechas al Servicio de Administración Fiscal del Estado de Campeche, cuando se trate de atribuciones vinculadas con la materia objeto de la Ley del Servicio de Administración Fiscal del Estado de Campeche, el Reglamento Interior del Servicio de Administración Fiscal del Estado de Campeche o cualquier otra disposición jurídica que emane de ellos.
 
 SÉPTIMO.- Los asuntos que a la fecha de entrada en vigor de la presente Ley se encuentren en trámite ante alguna de las unidades administrativas de la Subsecretaría de Ingresos, de la Procuraduría Fiscal y de la Dirección General de Auditoría Fiscal de la Secretaría y que pasen a formar parte del Servicio de Administración Fiscal del Estado de Campeche, o los recursos administrativos interpuestos en contra de actos o resoluciones de tales unidades administrativas, se seguirán tramitando ante el Servicio de Administración Fiscal del Estado de Campeche y serán resueltos por el mismo, cuando se encuentren vinculados con la materia objeto de la Ley del Servicio de Administración Fiscal del Estado de Campeche, el Reglamento Interior del Servicio de Administración Fiscal del Estado de Campeche y cualquier otra disposición jurídica que emane de ellos.
 
@@ -1895,7 +2239,7 @@ DÉCIMO SEGUNDO.- El Servicio de Administración Fiscal del Estado de Campeche p
 
 DÉCIMO TERCERO.- Las referencias que se hacen y atribuciones que se otorgan en el Código Fiscal del Estado de Campeche y en otras leyes, reglamentos, acuerdos y demás disposiciones jurídicas del marco jurídico del Estado, a la Secretaría de Finanzas de la Administración Pública del Estado de Campeche o a cualquiera de sus unidades administrativas, se entenderán hechas al Servicio de Administración Fiscal del Estado de Campeche cuando se trate de atribuciones vinculadas con la materia objeto de la Ley que crea y regula dicho órgano o cualquier otra disposición jurídica que emane de ellos.
 
-DÉCIMO CUARTO.- Las facultades conferidas al Estado de Campeche en el o los convenios de Colaboración Administrativa en materia Fiscal Federal y sus anexos, celebrados entre el Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público, y el Gobierno del Estado de Campeche, así como todos los Convenios de Colaboración Administrativa en materia Hacendaria de Ingresos celebrados entre el Estado de Campeche y sus municipios, se entenderán también conferidas todas esas facultades al Órgano Administrativo Desconcentrado denominado "Servicio de Administración Fiscal del Estado de Campeche".
+DÉCIMO CUARTO.- Las facultades conferidas al Estado de Campeche en el o los convenios de Colaboración Administrativa en materia Fiscal Federal y sus anexos, celebrados entre el Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público, y el Gobierno del Estado de Campeche, así como todos los Convenios de Colaboración Administrativa en materia Hacendaria de Ingresos celebrados entre el Estado de Campeche y sus municipios, se entenderán también conferidas todas esas facultades al Órgano Administrativo Desconcentrado denominado “Servicio de Administración Fiscal del Estado de Campeche”.
 
 DÉCIMO QUINTO.- Los asuntos pendientes de resolver por la Secretaría de Finanzas de la Administración Pública del Estado de Campeche a la entrada en vigor de este decreto, cuyas facultades se sustenten en el Código Fiscal del Estado, los resolverá el Servicio de Administración Fiscal del Estado de Campeche, salvo disposición específica en contrario.
 
@@ -1916,3 +2260,19 @@ SEGUNDO.- El Ejecutivo del Estado en un plazo que no exceda de sesenta días nat
 TERCERO.- El Ejecutivo del Estado procederá a hacer las correspondientes adecuaciones a su reglamentación interior y expedirá el marco administrativo que habrá de regir al Centro de Supervisores de Libertad.
 
 CUARTO.- El Centro de Supervisores de Libertad deberá estar debidamente integrado con el personal requisitado para el inicio de su funcionamiento, a más tardar el 30 de noviembre de 2017.
+
+P.O. 13 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 189 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE.]
+
+Primero.- El presente decreto entrará en vigor al día 19 de julio de 2017, previa su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+Tercero.- Las disposiciones establecidas en el último párrafo del artículo 9 y las atribuciones, mecanismos y referencias hechas al Sistema Anticorrupción del Estado, al Tribunal de Justicia Administrativa, a la Fiscalía Especializada en Combate a la Corrupción del Estado y al Comité Coordinador del Sistema Anticorrupción del Estado de Campeche, entrarán en vigor cuando entre en función el Sistema Anticorrupción del Estado de Campeche y las leyes relacionadas con dicho sistema, mientras tanto se seguirá aplicando la legislación vigente en la materia.
+
+Cuarto.- El Gobernador del Estado realizará las adecuaciones a los Reglamentos Interiores de las dependencias y/o entidades que resulten pertinentes como consecuencia de las modificaciones contenidas en el presente decreto.
+
+Quinto.- Por única ocasión, el actual titular de la Secretaría de la Controlaría permanecerá en su encargo por el tiempo que haya sido nombrado sin necesidad de ser ratificado ante el Congreso del Estado.
+
+Sexto.- El Ejecutivo Estatal, en un plazo no mayor a 90 días, deberá hacer las modificaciones pertinentes en la Ley de la Administración Pública Paraestatal del Estado de Campeche y someterlas al Congreso Estatal.
