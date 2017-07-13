@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2017-06-01"
+last_updated: "2017-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # CODIGO PENAL PARA EL ESTADO DE SONORA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO PENAL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JULIO DE 2017.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -4051,9 +4053,9 @@ X Bis.- Respecto de vales de papel o cualquier dispositivo electrónico en forma
 
 XI.- (DEROGADA, B.O. 16 DE DICIEMBRE DE 2013)
 
-> <small>(ADICIONADA, B.O. 17 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2017)</small>
 
-XII.- Respecto de bienes que integren la infraestructura destinada a la prestación de los servicios de agua potable, alcantarillado y saneamiento.
+XII.- Respecto de bienes que integren la infraestructura destinada a la prestación de los servicios de agua potable, alcantarillado, saneamiento y demás bienes que sean parte de la infraestructura urbana, como: monumentos, placas, señalamientos de tránsito, casetas telefónicas, alumbrado y similares.
 
 > <small>(REFORMADO, B.O. 4 DE DICIEMBRE DE 2014)</small>
 
@@ -4110,6 +4112,10 @@ ARTICULO 308 BIS-C.- Se sancionará con prisión de cinco a quince años, a quie
 > <small>(ADICIONADO, B.O. 11 DE DICIEMBRE DE 2014)</small>
 
 ARTICULO 308 BIS D.- Comete el delito de robo de vehículo de propulsión mecánica presunto, y se sancionará con pena de dos a diez años de prisión, la persona que se introduzca a un vehículo, sin la autorización de quien puede disponer de éste, con la finalidad de apoderarse del vehículo o algunas de sus partes.
+
+> <small>(ADICIONADO, B.O. 13 DE JULIO DE 2017)</small>
+
+ARTICULO 308 BIS-E.- Los dependientes, colaboradores y propietarios de las casas de empeño, yunques, recicladoras, empresas dedicadas a la compraventa de metales preciosos, cobre, acero y demás metales de valor; así como, establecimientos de cualquier tipo que reciban productos que sean canjeables por dinero, de los conocidos como tianguis y similares, deberán identificar plenamente a los deudores prendarios o vendedores y que comprueben la procedencia legítima de las prendas o artículos que reciban por medio de facturas o notas, cualquier comprobante fehaciente que demuestre que el objeto no es producto de una actividad ilícita o, en caso de no poder acreditar la legítima procedencia del bien, cumplir con todos los requisitos establecidos en la Ley que determina las bases de operación de las casas de empeño del Estado de Sonora, en el entendido que los contratos de adhesión autorizados por la Procuraduría Federal del Consumidor y que son utilizados para formalizar las operaciones prendarias con los clientes, serán válidos para acreditar dichos requisitos y Ley que regula el funcionamiento y operación de yunques y recicladoras del Estado de Sonora respectivamente, de lo contrario serán sancionados con prisión de un mes a nueve años y con multa de una a doscientas cincuenta unidades de media y actualización.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE JUNIO DE 2004)</small>
 
@@ -4906,3 +4912,15 @@ B.O. 1 DE JUNIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 13 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 147 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO PENAL DEL ESTADO DE SONORA, DE LA LEY QUE REGULA EL FUNCIONAMIENTO Y OPERACIÓN DE YUNQUES Y RECICLADORAS DEL ESTADO DE SONORA Y DE LA LEY QUE DETERMINA LAS BASES DE OPERACIÓN DE LAS CASAS DE EMPEÑO DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en un plazo de sesenta días naturales, contado a partir de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, la Secretaría de Hacienda del Estado, deberá modificar los reglamentos correspondientes para adecuarlos a las disposiciones contenidas en este ordenamiento jurídico.
