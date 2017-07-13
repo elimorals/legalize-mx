@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-educacion-del-distrito-federal-16351"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-08"
-last_updated: "2017-04-05"
+last_updated: "2017-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16351&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2000-05-05"
 ---
 # LEY DE EDUCACION DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE EDUCACIÓN DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 5 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 13 DE JULIO DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 8 de junio de 2000.
 
@@ -41,8 +43,6 @@ LEY
 LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL, I LEGISLATURA
 
 DECRETA
-
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO CUARTO DEL DECRETO SIN NÚMERO, PUBLICADO EN LA G.O. DE 28 DE NOVIEMBRE DE 2014, LAS REFERENCIAS QUE SE HAGAN DEL SALARIO MÍNIMO EN LAS NORMAS LOCALES VIGENTES, INCLUSO EN AQUELLAS PENDIENTES DE PUBLICAR O DE ENTRAR EN VIGOR, SE ENTENDERÁN HECHAS A LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO, A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.</small>
 
 LEY DE EDUCACIÓN DEL DISTRITO FEDERAL
 
@@ -130,11 +130,15 @@ f) Fomentará la incorporación a la educación y formación de las personas que
 
 g) Garantizará, en el ámbito de su competencia, que la educación en todos sus niveles se realice en el marco de igualdad sustantiva entre mujeres y hombres.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE OCTUBRE DE 2008)</small>
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2017)</small>
+
+h) Combatir el bajo rendimiento escolar mediante el diseño de estrategias e implementación de programas de refuerzo escolar, apoyos y demás políticas acorde con las necesidades y los perfiles de los estudiantes, familias y escuelas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE JULIO DE 2017)</small>
 
 ###### Artículo 10.
 
-La educación que imparta el Gobierno del Distrito Federal se basará en los principios del Artículo tercero de la Constitución Política de los Estados Unidos Mexicanos. Tendrá los siguientes objetivos:
+La educación que imparta el Gobierno del Distrito Federal se basará en los principios del Artículo Tercero de la Constitución Política de los Estados Unidos Mexicanos. Tendrá los siguientes objetivos:
 
 > <small>(REFORMADA, G.O. 15 DE MAYO DE 2007)</small>
 
@@ -176,11 +180,13 @@ XV. Desarrollar, a través de la educación física, y el deporte, las capacidad
 
 XVI. Educar para la preservación de la salud, el conocimiento integral de la sexualidad, la planificación familiar y la paternidad y maternidad responsables, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana.
 
-> <small>(REFORMADA, G.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2017)</small>
 
-XVII. Prevenir y combatir la drogadicción, el alcoholismo, el tabaquismo y otros vicios que afecten la salud física y mental del individuo y que dañen las estructuras sociales; realizando anualmente un examen médico integral a sus educandos, al inicio de cada periodo escolar; instrumentando programas que privilegien la educación artística, cívica y físico-deportiva.
+XVII. Prevenir y combatir el suicidio, la drogadicción, el alcoholismo, el tabaquismo y otros vicios que afecten la salud física y mental del individuo y que dañen las estructuras sociales; realizando anualmente un examen médico integral a sus educandos, al inicio de cada periodo escolar; instrumentando programas que privilegien la educación artística, cívica y físico-deportiva.
 
-XVIII. Fomentar actitudes de protección al medio ambiente y aprovechamiento racional de los recursos naturales.
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2017)</small>
+
+XVIII. Promover y fortalecer la educación ambiental, que fomente la protección al medio ambiente y el aprovechamiento racional de los recursos naturales, así como las medidas para su conservación, mejoramiento y cuidado que propicien el desarrollo de la calidad de vida de los habitantes de la Ciudad de México.
 
 XIX. Estimular actitudes solidarias y positivas hacia el trabajo, el ahorro y el bienestar general, así como la adecuada utilización del tiempo libre.
 
@@ -202,9 +208,17 @@ XXIII. Desarrollar contenidos educativos que eliminen los estereotipos de hombre
 
 XXIV. Desarrollar programas educativos tendientes a crear y fortalecer una cultura de no violencia hacia la mujer.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 3 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2017)</small>
 
-XXV.- Desarrollar programas educativos tendientes a la prevención y detección temprana del cáncer de mama y cérvico uterino.
+XXV.- Desarrollar programas educativos tendientes a la prevención y detección temprana del cáncer de mama y cérvico uterino;
+
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2017)</small>
+
+XXVI. Fomentar la autoestima del estudiante, promoviendo valores como el respeto, la justicia, la solidaridad, la igualdad; y
+
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2017)</small>
+
+XXVII. Contribuir al desarrollo de la personalidad y autonomía en el proceso de enseñanza y aprendizaje a través del impulso de aptitudes, valores, potencialidades.
 
 > <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 2006)</small>
 
@@ -1460,15 +1474,13 @@ XVIII. Abstenerse de cumplir con los planes y programas de estudio que las autor
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 13 DE OCTUBRE DE 2006)</small>
 
-XIX Ejercer la docencia sin el título profesional y las certificaciones o constancias para que cada nivel o tipo de educación exige la presente Ley.
+XIX. Ejercer la docencia sin el título profesional y las certificaciones o constancias para que cada nivel o tipo de educación exige la presente Ley.
 
 ###### Artículo 179.
 
 Las infracciones enumeradas en el artículo anterior, según la gravedad de las mismas, se sancionarán con:
 
 I. Amonestación por escrito.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -1707,3 +1719,29 @@ SEGUNDO.- Publíquese en la Gaceta Oficial del Gobierno del Distrito Federal par
 TERCERO.- La Asamblea Legislativa del Distrito Federal atendiendo a la suficiencia presupuestal deberá considerar recursos suficientes en el Presupuesto de Egresos del Distrito Federal, a efecto de cumplir con lo establecido en el artículo 13 fracción XXII, conforme a los programas y las reglas de operación que emita la Secretaría de Educación del Distrito Federal para tal objetivo.
 
 CUARTO.- La Secretaría de Educación del Distrito Federal, deberá enviar a la Asamblea Legislativa del Distrito Federal una relación con los programas enfocados a atender lo establecido por el artículo 13 fracción XXII y emitir las reglas de operación de los programas para cumplir con los objetivos del presente decreto en un lapso de 90 días contados a partir de la publicación del presente decreto.
+
+G.O. 13 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN INCISO H) AL ARTÍCULO 9 DE LA LEY EDUCACIÓN DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 13 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XVII DEL ARTÍCULO 10 DE LA LEY EDUCACIÓN DEL DISTRITO FEDERAL”.]
+
+ÚNICO - El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 13 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XVIII DEL ARTÍCULO 10 DE LA LEY DE EDUCACIÓN DE LA CIUDAD DE MÉXICO”.]
+
+ÚNICO- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 13 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL DISTRITO FEDERAL”.]
+
+ÚNICO - El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
