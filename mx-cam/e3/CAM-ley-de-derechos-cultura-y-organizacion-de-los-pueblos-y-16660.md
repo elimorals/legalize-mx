@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-derechos-cultura-y-organizacion-de-los-pueblos-y-16660"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-15"
-last_updated: "2015-09-14"
+last_updated: "2017-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE DERECHOS, CULTURA Y ORGANIZACIÓN DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 15 de junio de 2000.
 
@@ -249,21 +249,35 @@ El Estado velará por la salud, respeto a la dignidad y experiencia de los ancia
 
 ### CAPÍTULO V. SALUD
 
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
+
 ###### Artículo 30.
 
-Las instituciones de salud del Estado implementarán programas que beneficien a las comunidades indígenas, los cuales en su aplicación respetarán sus usos y costumbres, en particular la medicina tradicional.
+Las instituciones de salud del Estado implementarán programas que beneficien a los pueblos y comunidades indígenas, sin distinción entre mujeres y hombres, en condiciones de igualdad, dignidad y sin discriminación, los cuales en su aplicación respetarán sus usos y costumbres, en particular la medicina tradicional.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
 
 ###### Artículo 31.
 
-Las instituciones de salud, al actuar en las comunidades indígenas, promoverán y fomentarán el uso de la medicina tradicional, para lo cual registrarán y acreditarán a las personas que usen los métodos tradicionales de salud y atención maternal, con el apoyo necesario en su aplicación, dotándolos de los elementos para que lleven a cabo su labor de manera adecuada.
+Las instituciones de salud, al actuar en las comunidades y pueblos indígenas, promoverán y fomentarán el uso de la medicina tradicional, para lo cual registrarán y acreditarán a las personas que usen los métodos tradicionales de salud y atención maternal, con el apoyo necesario en su aplicación, dotándolos de los elementos para que lleven a cabo su labor de manera adecuada.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
 
 ###### Artículo 32.
 
-La Secretaría de Salud del Estado dispondrá las medidas necesarias para que el personal de las instituciones de salud pública que actúen en las comunidades indígenas, cuente con los conocimientos básicos sobre la cultura, costumbres y lenguas propias de estas comunidades.
+La Secretaría de Salud del Estado dispondrá las medidas necesarias para que el personal de las instituciones de salud pública que actúen en las comunidades indígenas, cuente con los conocimientos básicos sobre la cultura, respetando sus usos y costumbres, lenguas propias de estas comunidades, en particular la medicina indígena tradicional de acuerdo a las características y diversidades específicas de cada comunidad.
 
 ###### Artículo 33.
 
 El Estado, en coordinación con los Municipios, proporcionará lugares adecuados, como casas tradicionales de salud, para que los médicos tradicionales indígenas lleven a cabo su labor, dotándolos de los materiales que necesiten para su desempeño.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+
+El Estado implementará programas de salud que beneficien la población femenina en los temas de la salud sexual y reproductiva con la finalidad de reducir el número de mujeres jóvenes con embarazos adolescentes, así como también implementara jornadas de Prevención y detección oportuna del cáncer cérvico-uterino en los pueblos y comunidades indígenas con el objetivo de reducir el índice de la mortalidad por esta causa. Asimismo apoyará a cuidar y atender oportunamente los riesgos de salud durante el embarazo y parto, a todas las niñas, adolescentes y mujeres indígenas, con el objeto de reducir la mortalidad materna y materno-infantil en el periodo prenatal.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+
+El Estado apoyará a la población y comunidades indígenas mediante programas de alimentación que permitan identificar, diagnosticar y dar seguimiento a los casos de desnutrición de niños y niñas.
 
 ### CAPÍTULO VI. DESARROLLO
 
@@ -496,3 +510,11 @@ P.O. 14 DE SEPTIEMBRE DE 2015.
 PRIMERO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 13 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 159 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 30, 31, 32 Y SE ADICIONAN UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 33 DE LA LEY DE DERECHOS, CULTURA Y ORGANIZACIÓN DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE CAMPECHE”]
+
+Primero.- El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales que se opongan al contenido de este decreto.
