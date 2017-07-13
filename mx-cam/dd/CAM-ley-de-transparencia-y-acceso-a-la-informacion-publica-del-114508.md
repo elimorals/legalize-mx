@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1145
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2016-05-12"
+last_updated: "2017-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CAM"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 12 DE MAYO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 4 de mayo de 2016.
 
@@ -463,6 +461,10 @@ Para el cumplimiento de sus atribuciones, la Comisión contará en su estructura
 
 En sus faltas temporales el titular de la Secretaría Ejecutiva será suplido por el servidor público que le siga en rango inmediato inferior, de conformidad con su estructura orgánica. Los titulares de las direcciones y demás unidades administrativas serán suplidos en los términos que establezca el Reglamento Interior.
 
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+
+La Comisión contará con un Órgano Interno de Control, cuyo titular será designado a propuesta en terna del propio organismo garante, por conducto de su Comisionado Presidente, previa auscultación entre instituciones de educación superior y colegios de profesionistas, en términos del artículo 54 fracción XL de la Constitución Política del Estado de Campeche y demás normatividad aplicable, quien durará seis años en el cargo, pudiendo ser ratificado para un subsiguiente periodo.
+
 ###### Artículo 39.
 
 El titular de la Secretaría Ejecutiva de la Comisión tendrá las atribuciones siguientes:
@@ -486,6 +488,114 @@ VIII. Remitir las resoluciones y recomendaciones a los órganos de control inter
 IX. Coordinar la elaboración del proyecto anual de Presupuesto de Egresos de la Comisión y turnarlo al Presidente y a los Comisionados para su aprobación por el Pleno, vigilando la ejecución del gasto de acuerdo con el calendario, lineamientos y políticas establecidas, y la elaboración de los informes y estados financieros de la Comisión; y
 
 X. Las demás que le confieran la Ley, el reglamento interior de la Comisión y demás disposiciones legales y reglamentarias aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+
+###### Artículo 39-A.
+
+El Órgano Interno de Control de la Comisión se integrará con:
+
+I. Un Contralor;
+
+II. Un Director de Responsabilidades y Quejas;
+
+III. Un Director de Auditoría Interna, y
+
+IV. El demás personal técnico y administrativo que requiera para su funcionamiento y que permita la correspondiente previsión presupuestal.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+
+###### Artículo 39-B.
+
+Para ser titular del Órgano Interno de Control de la Comisión se deberán cubrir los siguientes requisitos:
+
+I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos civiles y políticos;
+
+II. Tener por lo menos treinta años cumplidos al día de su designación;
+
+III. Gozar de buena reputación y no haber sido condenado por delito doloso que amerita pena de prisión;
+
+IV. Contar al día de su designación con experiencia profesional de al menos cinco años en el control, manejo y fiscalización;
+
+V. Contar el día de su designación, con antigüedad mínima de cinco años, con título profesional de contador público, licenciado en economía, licenciado en administración, licenciado en derecho o cualquier otro título profesional relacionado con las actividades de fiscalización, control interno, administrativas o contenciosas, expedido por autoridad o institución legalmente facultada para ello;
+
+VI. No pertenecer o haber pertenecido, en los cuatro años anteriores a su designación, a despachos que hubieren prestado sus servicios a la Comisión o haber fungido en lo individual como consultor o auditor externo de ésta durante ese periodo, y
+
+VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+
+###### Artículo 39-C.
+
+El Órgano Interno de Control actuará con independencia técnica, operativa y de gestión para ejercer sus funciones, las cuales serán las siguientes:
+
+I. Implementar los mecanismos internos que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas;
+
+II. Fijar los criterios para la realización de auditorías, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de los recursos a cargo de las unidades administrativas de la Comisión;
+
+III. Realizar auditorías a las áreas de la Comisión para supervisar el control interno;
+
+IV. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa en el Presupuesto de Egresos otorgado a la Comisión;
+
+V. Verificar que las diversas unidades administrativas de la Comisión que hubieren recibido, manejado, administrado o ejercido recursos, lo hagan conforme a la normatividad aplicable, los programas aprobados y montos autorizados, así como en el caso de los egresos, con cargo a las partidas correspondientes y con apego a las disposiciones legales, reglamentarias y administrativas conducentes;
+
+VI. Investigar actos u omisiones que pudieran constituir responsabilidades administrativas, para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa;
+
+VII. Ejercer acción de responsabilidad ante el Tribunal de Justicia Administrativa;
+
+VIII. Revisar el ingreso, egreso, manejo, custodia y aplicación de los recursos públicos que reciba, administre y aplique la Comisión;
+
+IX. Presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito cometidos por servidores públicos de la Comisión ante la Fiscalía Especializada en Combate a la Corrupción;
+
+X. Incorporar disposiciones técnicas y código de ética en la Comisión, conforme a la Ley General del Sistema Nacional Anticorrupción;
+
+XI. Verificar las obras, bienes adquiridos o arrendados y servicios contratados, para comprobar que las inversiones y gastos autorizados se han aplicado legal y eficientemente, al logro de los objetivos y metas de los programas aprobados;
+
+XII. Requerir a terceros que hubieran contratado bienes o servicios con la Comisión la información relacionada con la documentación justificativa y comprobatoria respectiva, a efecto de realizar las compulsas que correspondan;
+
+XIII. Solicitar a las unidades administrativas de la Comisión toda la información necesaria para el cumplimiento de sus funciones;
+
+XIV. Guardar reserva de la información que se le proporcione en ejercicio de sus atribuciones, en términos de las disposiciones que rigen en materia de transparencia, acceso a la información pública y protección de datos personales;
+
+XV. Recibir denuncias o quejas directamente relacionadas con el uso y disposición de los ingresos y recursos de la Comisión por parte de los servidores públicos del mismo y desahogar hasta su resolución los procedimientos a que haya lugar, y llevar el registro de los servidores públicos sancionados;
+
+XVI. Establecer los mecanismos de orientación y cursos de capacitación que resulten necesarios para que los servidores públicos de la Comisión cumplan adecuadamente con sus responsabilidades administrativas;
+
+XVII. Formular pliegos de observaciones en materia administrativa;
+
+XVIII. Entregar al Pleno de la Comisión informes semestrales de sus labores, en materia de responsabilidades administrativas, el primer día hábil de los meses de mayo y noviembre de cada año, para que los haga llegar al Sistema Estatal Anticorrupción;
+
+XIX. Presentar para la aprobación del Pleno de la Comisión su programa anual de trabajo y de evaluación, en el mes de noviembre de cada año;
+
+XX. Presentar al Pleno de la Comisión, por escrito, un informe anual de resultados de su gestión, y acudir ante dicho órgano de dirección superior cuando así se le requiera;
+
+XXI. Recibir y resguardar las declaraciones de situación patrimonial y de intereses, y en su caso, una copia de la declaración del Impuesto Sobre la Renta del año que corresponda, que deban presentar los servidores públicos de la Comisión, conforme a las normas, formatos y procedimientos establecidos en la Ley General de Responsabilidades Administrativas;
+
+XXII. Intervenir en los procesos de entrega recepción por inicio o conclusión de encargo de los servidores públicos que corresponda;
+
+XXIII. Mantener una estrecha relación de colaboración y apoyo con la Auditoría Superior del Estado, y
+
+XXIV. Las demás que le otorgue esta ley, la Ley General de Responsabilidades Administrativas y otras disposiciones legales, reglamentarias y administrativas aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+
+###### Artículo 39-D.
+
+Los servidores públicos adscritos al Órgano Interno de Control de la Comisión, deberán apegarse a los principios de legalidad, respeto a los derechos humanos, verdad material, razonabilidad, proporcionalidad, presunción de inocencia, tipicidad y debido proceso, así como guardar estricta reserva sobre la información y documentación que conozcan con motivo del desempeño de sus atribuciones, así como de sus actuaciones y observaciones.
+
+Cualquier persona cuando presuma que el titular del Órgano Interno de Control de la Comisión haya incurrido en los supuestos previstos en el artículo 89 bis de la Constitución Política del Estado, podrá presentar demanda o denuncia ante las autoridades correspondientes, acompañándola de los documentos y evidencias en las cuales se sustente.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+
+###### Artículo 39-E.
+
+Las unidades administrativas y servidores públicos de la Comisión estarán obligados a proporcionar la información, permitir la revisión y atender los requerimientos que les presente el Órgano Interno de Control, sin que dicha revisión interfiera u obstaculice el ejercicio de sus funciones o atribuciones legales.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+
+###### Artículo 39-F.
+
+Con motivo de los procedimientos administrativos, los servidores públicos tienen garantizado el ejercicio de sus derechos fundamentales establecidos en la Constitución Política de los Estados Unidos Mexicanos, y en la particular del Estado, y podrán interponer los recursos legales procedentes para dirimir todo tipo de controversias cuando se vulneren sus derechos.
 
 ### CAPÍTULO III. DEL CONSEJO CONSULTIVO
 
@@ -2328,3 +2438,19 @@ Que la LXII Legislatura del H. Congreso Constitucional del Estado Libre y Sobera
 Este Decreto es dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Municipio y Estado de Campeche, a los veintiocho días del mes de abril del año dos mil dieciséis.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. RAFAEL ALEJANDRO MORENO CÁRDENAS.- EL SECRETARIO DE GOBIERNO, LIC. CARLOS MIGUEL AYSA GONZÁLEZ.- RÚBRICAS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 181 POR EL QUE “SE ADICIONAN UN PÁRRAFO TERCERO AL ARTÍCULO 38, Y LOS ARTÍCULOS 39-A, 39-B, 39-C, 39-D, 39-E Y 39-F, A LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO. El presente decreto entrará en vigor el día 19 de julio de 2017, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El titular del Órgano Interno de Control de la Comisión que se encuentre en funciones a la entrada en vigor del presente decreto, continuará en el encargo en los términos de su nombramiento.
+
+TERCERO. En un término de 90 días contados a partir de la entrada en vigor de este decreto, deberá armonizarse el marco reglamentario de la Comisión.
+
+CUARTO.- De conformidad con las posibilidades presupuestales, deberán tomarse las previsiones administrativas que correspondan para el cumplimiento de los efectos de este decreto.
+
+QUINTO.- Se derogan todas las disposiciones legales, reglamentarias y administrativas en lo que se opongan al presente decreto.
