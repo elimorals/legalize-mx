@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-comision-interinstitucional-del-81778
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-22"
-last_updated: "2016-03-08"
+last_updated: "2017-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81778&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2011-06-14"
 
 REGLAMENTO INTERIOR DE LA COMISIÓN INTERINSTITUCIONAL DEL CUADRO BÁSICO Y CATÁLOGO DE INSUMOS DEL SECTOR SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE FEBRERO DE 2016.
-
-[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE 8 DE MARZO DE 2016.]
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JULIO DE 2017.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 22 de junio de 2011.
 
@@ -91,7 +89,9 @@ XVII. Farmacovigilancia, el conjunto de actividades orientadas a la identificaci
 
 XVIII. Guía para la Conducción de Estudios de Evaluación Económica para la Actualización del Cuadro Básico de Insumos del Sector Salud, el documento en el que se establecen los lineamientos estandarizados para la conducción de estudios económicos que serán presentados como parte de las solicitudes de actualización de un insumo;
 
-XIX. Guía de Evaluación de Insumos para la Salud, al documento en que se establecen los criterios estandarizados para evaluar la incorporación de medicamentos, material de curación, auxiliares de diagnóstico, instrumental y equipo médico; remedios herbolarios, insumos y equipos de acupuntura y medicamentos homeopáticos;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2017)</small>
+
+XIX. Guía de Evaluación de Insumos para la Salud, al documento en que se establecen los criterios estandarizados para evaluar la incorporación de medicamentos, material de curación, auxiliares de diagnóstico, instrumental y equipo médico; medicamentos herbolarios, insumos y equipos de acupuntura y medicamentos homeopáticos;
 
 XX. Inclusión, la incorporación de insumos distintos en cuanto a nombre genérico y según sea el caso, en cuanto a concentración, descripción tecnológica, metodología y/o principio de funcionamiento, con respecto a aquellos ya incluidos en el Cuadro Básico y Catálogo;
 
@@ -105,11 +105,23 @@ XXII. Insumos de acupuntura, los elementos requeridos para la atención con acup
 
 XXII BIS. Lista de medicamentos y otros insumos esenciales para la salud, la relación de insumos que forma parte del Cuadro Básico y Catálogo de Insumos del Sector Salud, determinada por la Secretaría de Salud, para los efectos del artículo 29 de la Ley General de Salud;
 
+> <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 2017)</small>
+
+XXII BIS 1. Insumos de Nutriología, aquellos insumos de origen natural o sintético, que se utilicen para necesidades especiales de nutrición y/o contengan especificaciones nutrimentales;
+
+> <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 2017)</small>
+
+XXII Bis 2. Lista de medicamentos y otros insumos esenciales para la salud, la relación de insumos que forma parte del Cuadro Básico y Catálogo de Insumos del Sector Salud, determinada por la Secretaría de Salud, para los efectos del artículo 29 de la Ley General de Salud;
+
 > <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2016)</small>
 
 XXIII. Material de curación, los dispositivos o materiales de un solo uso que se emplean en la atención médica, quirúrgica, procedimientos de exploración, diagnóstico, tratamiento y rehabilitación de pacientes. En este apartado se incluyen también los materiales y substancias que se apliquen en la superficie de la piel o cavidades corporales y que tengan acción farmacológica o preventiva
 
 XXIV. Medicamento, toda sustancia o mezcla de substancias de origen natural o sintético que tenga efecto terapéutico, preventivo o rehabilitatorio, que se presente en forma farmacéutica y se identifique como tal por su actividad farmacológica, características físicas, químicas y biológicas. Cuando un producto contenga nutrimentos, será considerado como medicamento, siempre que se trate de un preparado que contenga de manera individual o asociada: vitaminas, minerales, electrolitos, aminoácidos o ácidos grasos, en concentraciones superiores a las de los alimentos naturales y además se presente en alguna forma farmacéutica definida y la indicación de uso contemple efectos terapéuticos, preventivos o rehabilitatorios;
+
+> <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 2017)</small>
+
+XXIV Bis. Herbolarios, Los productos elaborados con material vegetal o algún derivado de éste, cuyo ingrediente principal es la parte aérea o subterránea de una planta o extractos y tinturas, así como jugos, resinas, aceites grasos y esenciales, presentados en forma farmacéutica, cuya eficacia terapéutica y seguridad ha sido confirmada científicamente en la literatura nacional o internacional.
 
 XXV. Medicamento Homeopático, toda sustancia o mezcla de sustancias de origen natural o sintético que tenga efecto terapéutico, preventivo o rehabilitatorio y que sea elaborado de acuerdo con los procedimientos de fabricación descritos en la farmacopea homeopática de los Estados Unidos Mexicanos, en las de otros países u otras fuentes de información científica nacional e internacional;
 
@@ -119,9 +131,13 @@ XXVII. Modificación Mayor, los cambios realizados a la cédula descriptiva de u
 
 XXVIII. Modificación Menor, los cambios realizados a la cédula descriptiva de un insumo contenido en el Cuadro Básico y Catálogo en cuanto a forma farmacéutica y/o presentación, redacción, ortografía u otras, sin que se produzcan diferencias sustantivas que repercutan en la indicación, calidad, eficacia y seguridad;
 
+> <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 2017)</small>
+
+XXVIII Bis. Nutriología, es la ciencia que se encarga del estudio del proceso de alimentación, así como sus efectos en el metabolismo, en la composición corporal y en el estado de salud;
+
 XXIX. Refacciones, las partes o piezas que conforman un equipo o dispositivo médico, que son necesarias para su operación e independientes del consumible y que deben ser sustituidas, garantizando la compatibilidad con el dispositivo médico, en función de su desgaste, rotura, substracción o falla, derivados del uso;
 
-XXX. Remedio Herbolario, el preparado de plantas medicinales, o sus partes, individuales o combinadas y sus derivados empleados para el alivio de algunos síntomas participantes o aislados de una enfermedad;
+XXX. (DEROGADA, D.O.F. 14 DE JULIO DE 2017)
 
 XXXI. Rendición de cuentas, los mecanismos mediante los cuales los servidores públicos explican y justifican sus actos y están supeditados a sanciones en caso de incurrir en faltas o ilegalidades;
 
@@ -251,6 +267,8 @@ De las sesiones del pleno se levantará acta, en la que se asentarán los acuerd
 
 #### Sección II: De los Comités Técnicos Específicos
 
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2017)</small>
+
 ###### Artículo 14.
 
 La Comisión contará con los Comités Técnicos Específicos siguientes:
@@ -263,21 +281,15 @@ III. De Auxiliares de Diagnóstico;
 
 IV. De Instrumental y Equipo Médico;
 
-> <small>(F. DE E., D.O.F. 8 DE MARZO DE 2016)</small>
+V. De Osteosíntesis y Endoprótesis
 
-V. De Osteosíntesis y Endoprótesis;
+VI. De Nutriología
 
-> <small>(F. DE E., D.O.F. 8 DE MARZO DE 2016)</small>
+VII. De Medicamentos Homeopáticos
 
-VI. De Remedios Herbolarios;
+VIII. De Medicamentos Herbolarios;
 
-> <small>(F. DE E., D.O.F. 8 DE MARZO DE 2016)</small>
-
-VII. De Medicamentos Homeopáticos;
-
-> <small>(F. DE E., D.O.F. 8 DE MARZO DE 2016)</small>
-
-VIII. De Insumos de Acupuntura.
+IX. De Insumos de Acupuntura.
 
 > <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2016)</small>
 
@@ -323,13 +335,13 @@ VII. Colaborar en la revisión periódica del Cuadro Básico y Catálogo con el 
 
 VII Bis. Participar en la elaboración de la propuesta de la lista de medicamentos y otros insumos esenciales;
 
-VIII. Elaborar un prontuario sobre los insumos contenidos el Cuadro (sic) Básico y Catálogo que especifique sus características, indicaciones terapéuticas, contraindicaciones y presentación.
+VIII. Elaborar un prontuario sobre los insumos contenidos (sic) el Cuadro Básico y Catálogo que especifique sus características, indicaciones terapéuticas, contraindicaciones y presentación.
+
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2017)</small>
 
 ###### Artículo 17.
 
-Los Comités celebrarán sesiones ordinarias por lo menos una vez al mes, exceptuando a los de Remedios Herbolarios, de Medicamentos Homeopáticos y de Insumos de Acupuntura que sesionarán por lo menos dos veces al año. Cuando existan asuntos pendientes de dictaminar relativos a los insumos, se llevarán a cabo sesiones extraordinarias con la periodicidad que se requiera, hasta concluir la tarea pendiente.
-
-Las sesiones de los Comités, tanto ordinarias como extraordinarias, tendrán validez con la asistencia de la mayoría simple de los representantes
+Los Comités celebrarán sesiones ordinarias por lo menos una vez al mes, exceptuando a los de Medicamentos Herbolarios, de Medicamentos Homeopáticos y de Insumos de Acupuntura que sesionarán por lo menos dos veces al año. Cuando existan asuntos pendientes de dictaminar relativos a los insumos, se llevarán a cabo sesiones extraordinarias con la periodicidad que se requiera, hasta concluir la tarea pendiente.
 
 > <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2014)</small>
 
@@ -933,13 +945,13 @@ En caso de comprobarse faltas a la carta de confidencialidad a que se refiere el
 
 El Cuadro Básico y Catálogo se publicará en el primer bimestre de cada año en el Diario Oficial de la Federación, conteniendo la edición anterior y las actualizaciones publicadas en el Diario Oficial de la Federación en ese año.
 
-> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2017)</small>
 
 ###### Artículo 58.
 
 La Comisión difundirá el Cuadro Básico y Catálogo en las dependencias e instituciones del Sistema Nacional de Salud, en instituciones educativas, y entre los profesionales de la salud a través de sociedades, asociaciones, colegios y academias, con el propósito de que los profesionales de la salud conozcan el marco que rige la utilización de insumos en las instituciones públicas.
 
-Esta publicación anual está conformada por 6 libros:
+Esta publicación anual está conformada por 9 libros:
 
 1. Cuadro Básico y Catálogo de Medicamentos;
 
@@ -953,11 +965,15 @@ Esta publicación anual está conformada por 6 libros:
 
 - Tomo II Equipo Médico;
 
-5. Cuadro Básico y Catálogo Osteosíntesis y Endoprótesis, y
+5. Cuadro Básico y Catálogo Osteosíntesis y Endoprótesis;
 
-6. Cuadro Básico de remedios herbolarios, insumos para acupuntura y medicamentos homeopáticos.
+6. Cuadro Básico y Catálogo de Nutriología
 
-Los libros contendrán las cédulas aprobadas por el Comité correspondiente y de acuerdo con el formato autorizado por la Comisión.
+7. Cuadro Básico de Homeopáticos
+
+8. Cuadro Básico de Medicamentos Herbolarios
+
+9. Cuadro Básico de Acupuntura.
 
 ###### Artículo 59.
 
@@ -994,3 +1010,11 @@ PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las solicitudes de actualización al Cuadró Básico y al Catálogo que se encuentren en trámite en la fecha de entrada en vigor del presente Acuerdo, se resolverán de conformidad con las disposiciones vigentes en la fecha de su presentación.
 
 TERCERO.- La Comisión emitirá los Lineamientos a que se refiere el artículo 27 Bis de este Acuerdo en un plazo no mayor a 15 días hábiles a partir del día su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA COMISIÓN INTERINSTITUCIONAL DEL CUADRO BÁSICO Y CATÁLOGO DE INSUMOS DEL SECTOR SALUD”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las solicitudes de actualización que se encuentren en trámite a la entrada en vigor del presente Acuerdo, se resolverán de conformidad con las disposiciones vigentes en la fecha de su presentación.
