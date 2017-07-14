@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "2016-11-08"
+last_updated: "2017-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO -ANTES CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO QUE DEROGA LA DE 29 DE NOVIEMBRE DE 1880-
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2017.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -939,7 +941,9 @@ III. Ser originario del Distrito o Municipio si éste es cabecera de dos o más 
 
 IV. En caso de ser migrante, acreditar la residencia binacional, en los términos estipulados en la ley.
 
-No podrán ser electos diputados los titulares de las dependencias, entidades u organismos de la administración pública federal, estatal o municipal, los representantes populares federales, estatales o municipales; los Magistrados de los Tribunales Superior de Justicia, Electoral y de lo Contencioso Administrativo; los Jueces, los titulares de los órganos autónomos y con autonomía técnica; así como los demás servidores públicos que señala la Ley Orgánica de la Administración Pública del Estado y los servidores públicos que manejen recursos públicos o ejecuten programas gubernamentales, a no ser que se separen definitivamente de sus empleos o cargos noventa días antes de la jornada electoral.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
+
+No podrán ser electos diputados los titulares de las dependencias, entidades u organismos de la administración pública federal, estatal o municipal, los representantes populares federales, estatales o municipales; los Magistrados de los Tribunales Superior de Justicia, Electoral y de Justicia Administrativa del Estado de Guerrero; los Jueces, los titulares de los órganos autónomos y con autonomía técnica; así como los demás servidores públicos que señala la Ley Orgánica de la Administración Pública del Estado de Guerrero número 08 y los servidores públicos que manejen recursos públicos o ejecuten programas gubernamentales, a no ser que se separen definitivamente de sus empleos o cargos noventa días antes de la jornada electoral.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -1091,7 +1095,9 @@ VII. Determinar la traducción a las diversas lenguas indígenas, de esta Consti
 
 VIII. Invitar al Gobernador a que haga uso de su derecho de voz, por sí o a través de los titulares de las dependencias y entidades de la administración pública, cuando se discuta una ley o se estudie un asunto concerniente a su respectivo ámbito de atribuciones;
 
-IX. Ratificar el nombramiento, en el ámbito de sus atribuciones, de los Magistrados del Tribunal Superior de Justicia, de lo Contencioso Administrativo y de los integrantes de los órganos autónomos, de conformidad con los procedimientos estipulados en la presente Constitución;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
+
+IX. Ratificar el nombramiento, en el ámbito de sus atribuciones, de los Magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa del Estado de Guerrero y de los integrantes de los órganos autónomos, de conformidad con los procedimientos estipulados en la presente Constitución;
 
 X. Establecer y cumplir los procedimientos de ratificación de los servidores públicos de su competencia, y fundar y motivar el sentido de su resolución;
 
@@ -1099,9 +1105,13 @@ XI. Ejercer las atribuciones que le correspondan dentro del procedimiento de ref
 
 XII. Autorizar en el presupuesto de egresos del Estado, erogaciones plurianuales para proyectos de inversión en infraestructura. Las erogaciones correspondientes deberán incluirse en los subsecuentes presupuestos de egresos;
 
-XIII. Revisar los informes financieros semestrales y fiscalizar las cuentas públicas de las entidades fiscalizables, a través de la Auditoría General del Estado;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
 
-XIV. Coordinar y evaluar, sin perjuicio de su autonomía técnica y de gestión, el desempeño de la Auditoría General del Estado, en términos de la ley;
+XIII. Revisar los informes financieros semestrales y fiscalizar las cuentas públicas de las entidades fiscalizables, a través de la Auditoría Superior del Estado de Guerrero;
+
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
+
+XIV. Coordinar y evaluar, sin perjuicio de su autonomía técnica y de gestión, el desempeño de la Auditoría Superior del Estado de Guerrero, en términos de la ley;
 
 XV. Erigir nuevos municipios o suprimir los existentes, con el voto de las dos terceras partes del total de sus integrantes, de conformidad con las modalidades estipuladas en la ley;
 
@@ -1185,7 +1195,13 @@ XLII. Autorizar al Gobernador, con el voto de las dos terceras partes del total 
 
 XLIII. Conceder la ciudadanía honoraria a los vecinos de otros Estados que por sus méritos se hagan acreedores a ella; otorgar premios o recompensas a los que hayan prestado servicios de importancia a la humanidad, al país o al Estado, y establecer distinciones a quienes hayan brindado servicios eminentes al Estado de Guerrero; y,
 
-XLIV. Las demás que le confieren la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las que sean necesarias para hacer efectivas sus atribuciones.
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
+
+XLIV. Designar, por el voto de las dos terceras partes de sus integrantes, a los titulares de los órganos internos de control de los organismos con autonomía reconocida en esta Constitución que ejerzan recursos del presupuesto de egresos del Estado; y
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2017)</small>
+
+XLV. Las demás que le confieren la Constitución Política de los Estados Unidos Mexicanos, ésta Constitución y las que sean necesarias para hacer efectivas sus atribuciones;
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -1214,6 +1230,10 @@ VI. Examinar, discutir y aprobar las iniciativas preferentes enviadas o identifi
 VII. Recibir el informe del resultado de la fiscalización de la cuenta pública, dictaminar y, en su caso, aprobar o rechazar la cuenta pública anual de las entidades fiscalizables; y,
 
 VIII. Recibir del Gobernador, el informe del estado que guarda la administración pública estatal, para su evaluación y aprobación, y a los integrantes del gabinete, para la glosa del mismo informe.
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2017)</small>
+
+IX. Concluir la revisión de la cuenta a más tardar el 31 de octubre del año siguiente al de su presentación, con base en el análisis de su contenido y en las conclusiones técnicas del Informe General Ejecutivo del resultado de la Fiscalización Superior, a que se refiere el artículo 153 de esta Constitución, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por la Auditoría Superior del Estado de Guerrero, seguirá su curso en términos de lo dispuesto en dicho artículo.
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -1395,7 +1415,9 @@ III. Tener treinta años de edad cumplidos al día de la elección.
 
 Están impedidos para ser Gobernador del Estado, a menos que se separen definitivamente de su empleo, cargo o comisión, noventa días antes del día de la elección; en caso de elección extraordinaria, cinco días antes de publicada la convocatoria:
 
-I. Los Magistrados de los Tribunales Superior de Justicia y de lo Contencioso Administrativo;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
+
+I. Los Magistrados de los Tribunales Superior de Justicia y de Justicia Administrativa del Estado de Guerrero;
 
 II. Los titulares de alguna dependencia, entidad u organismo de la administración pública federal, estatal o municipal;
 
@@ -1611,7 +1633,9 @@ XXV. Fomentar la creación de industrias y empresas rurales y buscar la particip
 
 XXVI. Promover el desarrollo de la actividad turística, mediante el debido aprovechamiento de los atractivos con que cuenta el Estado;
 
-XXVII. Remitir al Congreso del Estado, a través de Auditoría General del Estado, la cuenta pública correspondiente al año inmediato anterior, de conformidad con lo establecido en la ley de la materia;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
+
+XXVII. Remitir al Congreso del Estado, a través de la Auditoría Superior del Estado de Guerrero, la cuenta pública correspondiente al año inmediato anterior, de conformidad con lo establecido en la ley de la materia. La cuenta pública del ejercicio fiscal correspondiente deberá ser presentada al Congreso del Estado a más tardar el 30 de abril del año siguiente.
 
 XXVIII. Solicitar al Instituto Electoral y de Participación Ciudadana del Estado de Guerrero la convocatoria y organización, en su caso, de referendos, plebiscitos, consultas populares y demás instrumentos de participación ciudadana;
 
@@ -1635,7 +1659,9 @@ XXXVII. Proporcionar al Poder Judicial y, en general, a los órganos que adminis
 
 XXXVIII. Procurar que el presupuesto asignado anualmente a la administración de justicia, procuración de justicia, seguridad pública, tránsito, justicia administrativa y reinserción social, sea el suficiente para la debida prestación del servicio;
 
-XXXIX. Nombrar a los Magistrados del Tribunal Superior de Justicia del Estado, al Consejero para integrar el Consejo de la Judicatura del Estado, así como a los Magistrados del Tribunal de lo Contencioso Administrativo, en los términos que establece esta Constitución;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
+
+XXXIX. Nombrar a los Magistrados del Tribunal Superior de Justicia del Estado, al Consejero para integrar el Consejo de la Judicatura del Estado, así como a los Magistrados del Tribunal de Justicia Administrativa del Estado de Guerrero, en los términos que establece esta Constitución;
 
 XL. Nombrar a sus representantes, ante las Juntas Locales de Conciliación y Arbitraje;
 
@@ -1985,9 +2011,15 @@ Cada Órgano Autónomo elaborará su proyecto de presupuesto para cumplir adecua
 
 2. La gestión y ejecución del presupuesto de cada órgano se realizará de manera autónoma y conforme a los principios previstos en el primer párrafo, del artículo 106 de la presente Constitución;
 
-3. Cada Órgano Autónomo deberá rendir los informes financieros y cuenta pública al Congreso del Estado, a través de la Auditoría General del Estado, sobre la aplicación del presupuesto, de conformidad con lo dispuesto en esta Constitución; y,
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
+
+3. Cada órgano autónomo deberá rendir los informes financieros y cuenta pública al Congreso del Estado, a través de la Auditoría Superior del Estado de Guerrero, sobre la aplicación del presupuesto, de conformidad con lo dispuesto en esta Constitución; y
 
 4. El titular o presidente de cada Órgano Autónomo deberá comparecer ante el Congreso del Estado, previa solicitud fundada y motivada.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
+
+5. Cada organismo con autonomía reconocida en esta Constitución, que ejerza recursos del presupuesto de egresos del Estado, contará con un órgano interno de control.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -2017,27 +2049,45 @@ Las leyes definirán la forma y las modalidades de su designación, sus responsa
 
 #### SECCIÓN II. ESTATUTO JURÍDICO DE SUS INTEGRANTES
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 111.
 
-Para ser presidente de la Comisión de los Derechos Humanos; consejero del Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales; del Tribunal de Justicia de lo Contencioso Administrativo o Fiscal General de la Fiscalía General, se requiere:
+Para ser presidente de la Comisión de los Derechos Humanos; consejero del Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales; o Fiscal General de la Fiscalía General, se requiere:
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 I. Ser ciudadano mexicano, en ejercicio de sus derechos civiles y políticos;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 II. Tener cuando menos treinta años cumplidos al día de la designación;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 III. Gozar de buena reputación, no haber sido condenado por delito que amerite pena corporal, ni estar inhabilitado para el desempeño de cargos públicos;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 IV. Haber residido en el Estado durante cinco años anteriores al día de su nombramiento;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 V. Contar con conocimientos especializados y con experiencia debidamente comprobados en el ámbito de su competencia;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 VI. Poseer al día de su nombramiento, título y cédula profesional de licenciado en áreas afines a las de su competencia, expedidas por autoridad o institución legalmente facultada para ello;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 VII. No ser ministro de ningún culto religioso;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 VIII. No haber sido titular de ninguna dependencia, entidad u organismo de la administración pública estatal o municipal, o representante popular federal o estatal, durante dos años previos a su designación; y,
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 IX. No haber sido dirigente de algún partido político ni postulado para cargo de elección popular dentro de los tres años anteriores a su designación.
 
@@ -2225,15 +2275,19 @@ En la interpretación del derecho de acceso a la información y protección de d
 
 Los procedimientos de acceso a la información y protección de datos personales se regirán por los principios de acceso universal, máxima publicidad, disponibilidad, simplicidad, rapidez y gratuidad.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 122.
 
-El Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Guerrero se integra con tres consejeros nombrados por dos terceras partes del total de los integrantes del Congreso del Estado, mediante convocatoria pública y satisfechos los requisitos que establezca la presente Constitución y la ley de la materia.
+El Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales se integra con tres Comisionados, nombrados por las dos terceras partes del total de los integrantes del Congreso del Estado, mediante convocatoria pública y satisfechos los requisitos que establezca la presente Constitución y la ley de la materia.
 
-1. Los consejeros durarán en su encargo 4 años con una posibilidad de reelección; y,
+1. Los Comisionados durarán en su encargo siete años.
 
-2. El Instituto funcionará exclusivamente en Pleno y, para desahogo de sus funciones y competencias, contará con el personal necesario de conformidad con lo dispuesto en su ley orgánica y su reglamento.
+2. El Comisionado Presidente será designado por los propios Comisionados, mediante voto secreto, por un periodo de dos años con posibilidad de ser reelecto por un periodo igual; estará obligado a rendir un informe anual ante el Congreso del Estado, en la fecha y en los términos que disponga la ley.
+
+3. El Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales funcionará exclusivamente en pleno y contará con el personal necesario para el adecuado cumplimiento de sus atribuciones, de conformidad con lo dispuesto en su Ley y su reglamento.
+
+4. El organismo garante tendrá un Consejo Consultivo, integrado por 3 Consejeros que durarán en el cargo 5 años de manera honorifica, nombrados por el voto de las dos terceras partes de los Diputados presentes del Congreso del Estado. La ley determinará los procedimientos a seguir para la presentación de las propuestas por el propio Congreso del Estado.
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -2325,11 +2379,13 @@ c) En caso de que ocurra una vacante de consejero electoral, el Consejo General 
 
 Los consejeros electorales y demás servidores públicos que establezca la ley, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 127.
 
-El Instituto Electoral y de Participación Ciudadana del Estado de Guerrero contará con una Contraloría Interna que ejercerá su responsabilidad en coordinación con la Auditoría General del Estado; tendrá autonomía técnica y de gestión; será competente para fiscalizar los ingresos y egresos del Instituto. El contralor será designado por el Congreso del Estado, bajo el procedimiento previsto en la ley.
+El Instituto Electoral y de Participación Ciudadana del Estado de Guerrero, contará con un Órgano Interno de Control, que ejercerá su responsabilidad en coordinación con la Auditoría Superior del Estado de Guerrero; tendrá autonomía técnica y de gestión; será competente para fiscalizar los ingresos y egresos del Instituto.
+
+El titular del Órgano Interno de Control del Instituto será designado por el Congreso del Estado, con el voto de las dos terceras partes de sus miembros presentes, a propuesta de instituciones de educación debidamente acreditadas o de organizaciones de la sociedad civil del Estado, en la forma y términos que determine la ley. Durará seis años en el cargo y podrá ser reelecto por una sola vez. Estará adscrito administrativamente a la presidencia del Consejo General y mantendrá la coordinación técnica necesaria con la Auditoría Superior del Estado de Guerrero. La Ley establecerá los requisitos que deberán reunirse para la designación del titular del Órgano Interno de Control del Instituto Electoral y de Participación Ciudadana del Estado de Guerrero.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -2453,25 +2509,33 @@ XII. Comunicar al Congreso del Estado y al Instituto Electoral y de Participaci�
 
 XIII. Las demás que determine la ley y su reglamento.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE JULIO DE 2017)</small>
 
-### CAPÍTULO V. TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO
+### CAPÍTULO V. TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUERRERO
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE ABRIL DE 2014)</small>
 
 #### SECCIÓN I. FUNCIÓN
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 135.
 
-La función de tutelar los derechos de las personas contra actos u omisiones de la administración pública estatal o municipal, y de impartir justicia en materia fiscal y administrativa, se realizará a través de un órgano denominado Tribunal de lo Contencioso Administrativo y en ejercicio de las siguientes atribuciones:
+La función de tutelar los derechos de las personas contra actos u omisiones de la administración pública estatal o municipal y de impartir justicia en materia administrativa, se realizará a través de un órgano denominado Tribunal de Justicia Administrativa del Estado de Guerrero, dotado de autonomía para dictar sus fallos y establecer su organización, funcionamiento, procedimientos y, en su caso, los recursos para impugnar sus resoluciones. El Tribunal de Justicia Administrativa del Estado de Guerrero, en ejercicio de sus atribuciones:
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 1. Ejercerá su función mediante un sistema de medios de impugnación para dirimir las controversias suscitadas entre la administración pública, los servidores públicos y los particulares, y garantizará el principio de legalidad de la administración;
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+
 2. Será la máxima autoridad jurisdiccional del Estado en materia fiscal y administrativa;
 
-3. Sus resoluciones serán definitivas; y,
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
+
+3. Será la máxima autoridad jurisdiccional del Estado en materia administrativa y sus resoluciones serán definitivas;
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 4. Contará con los medios de apremio necesarios para hacer cumplir de manera expedita sus resoluciones.
 
@@ -2479,47 +2543,81 @@ La función de tutelar los derechos de las personas contra actos u omisiones de 
 
 #### SECCIÓN II. NOMBRAMIENTO E INTEGRACIÓN
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 136.
 
-Los Magistrados del Tribunal de lo Contencioso Administrativo serán designados de conformidad con lo dispuesto en los artículos 96 y 97 de esta Constitución, y durarán en su encargo 6 años con una posibilidad de ratificación por el mismo tiempo y por única ocasión.
+Los Magistrados de la Sala Superior y de las Salas Regionales del Tribunal de Justicia Administrativa del Estado de Guerrero serán designados por el Gobernador del Estado y ratificados por el voto de las dos terceras partes del total de sus integrantes del Congreso del Estado. Durarán en su encargo 7 años a partir de que rindan protesta de ley, y podrán ser ratificados para un segundo periodo de 8 años improrrogables.
 
-Sólo podrá (sic) ser removidos por las causas graves previstas en el Título Décimo Tercero de la presente Constitución.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE JULIO DE 2017)</small>
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+Los Magistrados del Tribunal de Justicia Administrativa del Estado de Guerrero, deberán reunir los requisitos establecidos en el artículo 96 y aplicarse en lo que corresponda lo establecido en el artículo 97 de la presente Constitución.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 14 DE JULIO DE 2017)</small>
+
+Los Magistrados sólo podrán ser removidos de sus cargos por las causas graves previstas en el Título Décimo Tercero de la presente Constitución y las que señale la Ley.
+
+> <small>(ADICIONADO [N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 433], P.O. 14 DE JULIO DE 2017)</small>
+
+La ley garantizará que en la designación de Magistrados se respete el principio de igualdad de género.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 137.
 
-El Tribunal de lo Contencioso Administrativo contará con una Sala Superior y con las salas regionales necesarias para el adecuado cumplimiento de sus funciones, de conformidad con su ley orgánica.
+El Tribunal de Justicia Administrativa del Estado de Guerrero contará con una Sala Superior y con las Salas Regionales necesarias para el adecuado cumplimiento de sus funciones, de conformidad con su Ley Orgánica.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 1. La Sala Superior se integrará con cinco Magistrados y las salas regionales con un Magistrado;
 
-2. La Sala Superior funcionará exclusivamente en Pleno; y,
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
 
-3. Contará con el personal jurídico y administrativo necesario para el adecuado cumplimiento de sus funciones, de conformidad con lo dispuesto en su ley orgánica y en su reglamento interior.
+2. La Sala Superior funcionará exclusivamente en Pleno;
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
+
+3. Contará con el personal jurídico y administrativo necesario para el adecuado cumplimiento de sus funciones, de conformidad con lo dispuesto en su ley orgánica y en su reglamento interior; y
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
+
+4. La Sala Superior del Tribunal le corresponderá la resolución de los procedimientos a que se refiere el artículo 138 fracción II de esta Constitución.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE ABRIL DE 2014)</small>
 
 #### SECCIÓN III. ATRIBUCIONES
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 138.
 
-El Tribunal de lo Contencioso Administrativo tiene competencia para:
+El Tribunal de Justicia Administrativa del Estado de Guerrero, tendrá la siguiente competencia:
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 I. Resolver las impugnaciones de carácter administrativo y fiscal que se susciten entre la administración pública del Estado, los municipios, Órganos Autónomos, los Órganos con Autonomía Técnica, los organismos descentralizados y los particulares;
 
-II. Resolver las impugnaciones contra las resoluciones de las autoridades competentes en aplicación de la Ley de Responsabilidades de los Servidores Públicos del Estado;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
+
+II. Impondrá en los términos que disponga la ley, las sanciones a los servidores públicos a nivel estatal y municipal por las responsabilidades administrativas graves, y a los particulares que incurran en actos vinculados con dichas responsabilidades; así como determinar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos estatales o municipales.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 III. Conocer los recursos que se promuevan en contra del silencio administrativo, la omisión o la negativa de las autoridades estatales o municipales de dar respuesta a los particulares en los plazos estipulados en la ley, o de los que se dirijan contra la afirmativa ficta;
 
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 IV. Resolver los medios de impugnación sobre la nulidad o modificación de un acto favorable a un particular;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 V. Revisar el recurso de queja, ante el incumplimiento de la suspensión otorgada o de las sentencias firmes;
 
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 VI. Emitir jurisprudencia obligatoria en la materia, en los términos dispuestos en su ley orgánica; y,
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 VII. Las demás que determine la ley y su reglamento.
 
@@ -2575,13 +2673,13 @@ II. Un Consejo de la Fiscalía General;
 
 III. Fiscalías especializadas que, cuando menos, serán las que se prevén y que, amén de la custodia de la legalidad en sus respectivas materias, tendrán las facultades que les confiera la ley orgánica:
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
 
-a) Fiscalía de delitos electorales;
+a). Fiscalía de Delitos Electorales;
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
 
-b) Fiscalía de combate a la corrupción, y
+b) Fiscalía Especializada en Combate a la Corrupción; y
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE JUNIO DE 2016)</small>
 
@@ -2735,43 +2833,43 @@ Los integrantes de los Órganos con Autonomía Técnica serán nombrados en los 
 
 Es aplicable a los integrantes de los Órganos con Autonomía Técnica lo dispuesto en los artículos 112 numerales 3 y 4, 114 y 115 de esta Constitución.
 
-> <small>(ADICIONADO CON LA SECCIÓN Y EL ARTÍCULO QUE LO INTEGRAN, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE JULIO DE 2017)</small>
 
-### CAPÍTULO I. AUDITORÍA GENERAL DEL ESTADO
+### CAPÍTULO I. AUDITORÍA SUPERIOR DEL ESTADO DE GUERRERO
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE ABRIL DE 2014)</small>
 
 #### SECCIÓN I. FINES
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 150.
 
-La función de fiscalización superior del Poder Legislativo se realizará a través de un órgano adscrito y dependiente de éste, denominado Auditoría General del Estado.
+La función de fiscalización superior del Poder Legislativo se realizará a través de un órgano adscrito y dependiente de éste, denominado Auditoría Superior del Estado de Guerrero.
 
-La Auditoría General del Estado ejercerá su función mediante la fiscalización imparcial, especializada y profesional de los recursos públicos del Estado a través de auditorías, visitas, inspecciones, ejercicios de revisión y evaluación; asimismo garantizará la efectiva rendición de cuentas de las entidades fiscalizables a los ciudadanos guerrerenses.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
+
+La Auditoría Superior del Estado de Guerrero ejercerá su función mediante la fiscalización imparcial, especializada y profesional de los recursos públicos del Estado a través de auditorías, visitas, inspecciones, ejercicios de revisión y evaluación; asimismo, garantizará la efectiva rendición de cuentas de las entidades fiscalizables a los ciudadanos guerrerenses.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE ABRIL DE 2014)</small>
 
 #### SECCIÓN II. PRINCIPIOS, INTEGRACIÓN Y NOMBRAMIENTO
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 151.
 
-La actuación de la Auditoría General deberá regirse por los principios de posterioridad, anualidad, legalidad, imparcialidad, definitividad, confiabilidad, profesionalismo, transparencia y máxima publicidad.
+La actuación de la Auditoría Superior del Estado de Guerrero deberá regirse por los principios de legalidad, imparcialidad, definitividad, confiabilidad, profesionalismo, transparencia y máxima publicidad.
 
-1. La Auditoría General del Estado contará con un titular denominado Auditor General del Estado y cuatro Auditores especiales, nombrados por las dos terceras partes del total de los integrantes del Congreso del Estado; así mismo con la votación requerida para su nombramiento, podrán ser removidos exclusivamente por las causas graves que la ley de la materia señale.
+1. La Auditoría Superior del Estado de Guerrero contará con un titular denominado Auditor Superior del Estado y cuatro Auditores especiales, nombrados por las dos terceras partes de los diputados presentes en sesión del Congreso del Estado; así mismo, con la votación requerida para su nombramiento, podrán ser removidos exclusivamente por las causas graves que la ley de la materia señale y conforme a los procedimientos establecidos en esta Constitución;
 
-2. El Auditor General durará en su encargo 7 años improrrogables;
+2. El Auditor Superior durará en su encargo 7 años improrrogables;
 
-3. La Junta de Coordinación Política propondrá en ternas al Congreso del Estado, la designación de los cuatro Auditores especiales que durarán en su encargo cuatro años, con una sola posibilidad de reelección;
+3. La Junta de Coordinación Política propondrá en ternas al Congreso del Estado, la designación de los cuatro Auditores especiales que durarán en su encargo 4 años, con una sola posibilidad de reelección;
 
-4. Los Auditores especiales guardarán una relación de coordinación con el Auditor General del Estado;
+4. La Auditoría Superior del Estado de Guerrero contará con un servicio civil de carrera y con el personal jurídico y administrativo necesario para el adecuado cumplimiento de sus funciones, de conformidad con lo dispuesto en su ley de la materia y en su reglamento interior;
 
-5. La Auditoría General del Estado contará con un servicio civil de carrera y con el personal jurídico y administrativo necesario para el adecuado cumplimiento de sus funciones, de conformidad con lo dispuesto en su ley de la materia y en su reglamento interior;
-
-6. La ley de la materia y el reglamento interior de la Auditoría General del Estado establecerán disposiciones adicionales con relación a la integración, organización, funcionamiento, procedimientos y ámbito de competencia de la Auditoría General.
+5. La ley de la materia y el reglamento interior de la Auditoría Superior del Estado de Guerrero, establecerán disposiciones adicionales con relación a la integración, organización, funcionamiento, procedimientos y ámbito de competencia de la Auditoría Superior.
 
 > <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -2787,31 +2885,83 @@ II. Poseer al día de su designación, título y cédula profesional en Contadur
 
 #### SECCIÓN III. COMPETENCIA
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 153.
 
-La Auditoría General del Estado será competente para:
+La Auditoría Superior del Estado de Guerrero será competente para:
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 I. Fiscalizar las cuentas públicas de las entidades fiscalizables señaladas en la ley de la materia, evaluar los informes financieros y entregar el Informe de Resultados de la revisión de la Cuenta Pública al Congreso del Estado;
 
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 II. Realizar auditorías sobre el desempeño en el cumplimiento de los objetivos y metas contenidos en los planes de desarrollo estatal y municipales, y en los programas gubernamentales que derivan de estos;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 III. Revisar de manera casuística y concreta, información y documentos relacionados con conceptos específicos de gasto, correspondientes a ejercicios anteriores al de la cuenta pública en revisión, cuando el programa o proyecto contenido en el presupuesto aprobado abarque para su ejecución y pago diversos ejercicios fiscales;
 
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 IV. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, activo, pasivo, patrimonio, custodia, administración y aplicación de fondos y recursos públicos;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 V. Emitir recomendaciones vinculantes, pliegos de observaciones y pliegos de cargos vinculados con la fiscalización de la cuenta anual de la hacienda pública estatal y municipales;
 
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 VI. Determinar los daños y perjuicios que afecten a las haciendas públicas estatal y municipales o al patrimonio de las entidades fiscalizables, y fincar directamente a los responsables las indemnizaciones y sanciones administrativas previstas en la ley;
 
-VII. Promover ante las autoridades competentes el fincamiento de responsabilidades, así como presentar las denuncias y querellas penales que correspondan;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
+
+VII. Promover las acciones que correspondan ante el Tribunal de Justicia Administrativa del Estado de Guerrero, la Fiscalía Especializada en Combate a la Corrupción o las autoridades competentes;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 VIII. Llevar un registro de la deuda pública del Estado y de los municipios;
 
-IX. Vigilar que los procedimientos de licitación, adquisición y obra pública se desarrollen en apego a las disposiciones legales que correspondan; y,
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
 
-X. Las demás que le correspondan de acuerdo con la ley de la materia y su reglamento.
+IX. Vigilar que los procedimientos de licitación, adquisición y obra pública se desarrollen en apego a las disposiciones legales que correspondan;
+
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
+
+X. Iniciar el proceso de fiscalización a partir del primer día hábil del ejercicio fiscal siguiente, sin perjuicio de que las observaciones o recomendaciones que, en su caso realice, deban referirse a la información definitiva presentada en la Cuenta Pública;
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2017)</small>
+
+XI. Solicitar, por lo que corresponde a los trabajos de planeación de las auditorías, información del ejercicio en curso, respecto de procesos concluidos;
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2017)</small>
+
+XII. Fiscalizar en coordinación con la Auditoría Superior de la Federación, las participaciones federales que administre el Estado y los municipios;
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2017)</small>
+
+XIII. Revisar, previa autorización de su titular, durante el ejercicio fiscal a las entidades fiscalizadas, así como con respecto de ejercicios anteriores, en las situaciones que determine la ley y las que deriven de denuncias;
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2017)</small>
+
+XIV. Entregar al Congreso del Estado, el último día hábil de los meses de junio, octubre y hasta el 20 de febrero del año siguiente al de la presentación de la Cuenta Pública, los informes individuales de auditoría que concluya durante el periodo respectivo. Asimismo, en esta última fecha, entregar el Informe General Ejecutivo del Resultado de la Fiscalización Superior de la Cuenta Pública, el cual se someterá a la consideración del Pleno de dicha Cámara. El Informe General Ejecutivo y los informes individuales serán de carácter público y tendrán el contenido que determine la ley; estos últimos incluirán como mínimo en el dictamen de su revisión, un apartado específico con las observaciones de la Auditoría Superior del Estado de Guerrero, así como las justificaciones y aclaraciones que, en su caso, las entidades fiscalizadas hayan presentado sobre las mismas.
+
+Para tal efecto, de manera previa a la presentación del Informe General Ejecutivo y de los informes individuales de auditoría, se darán a conocer a las entidades fiscalizadas la parte que les corresponda de los resultados de su revisión, a efecto de que éstas presenten las justificaciones y aclaraciones que correspondan, las cuales deberán ser valoradas por la Auditoría Superior del Estado de Guerrero para la elaboración de los informes individuales de auditoría.
+
+El titular de la Auditoría Superior del Estado de Guerrero, enviará a las entidades fiscalizadas los informes individuales de auditoría que les corresponda, a más tardar a los 10 días hábiles posteriores a que haya sido entregado el informe individual de auditoría respectivo al Congreso del Estado, mismos que contendrán las recomendaciones y acciones que correspondan para que, en un plazo de hasta 30 días hábiles, presenten la información y realicen las consideraciones que estimen pertinentes; en caso de no hacerlo, se harán acreedores a las sanciones establecidas en la Ley. Lo anterior, no aplicará a las promociones de responsabilidades ante el Tribunal de Justicia Administrativa del Estado de Guerrero, las cuales se sujetarán a los procedimientos y términos que establezca la Ley.
+
+La Auditoría Superior del Estado de Guerrero deberá pronunciarse en un plazo de 120 días hábiles sobre las respuestas emitidas por las entidades fiscalizadas, en caso de no hacerlo, se tendrán por atendidas las recomendaciones y acciones promovidas.
+
+En el caso de las recomendaciones, las entidades fiscalizadas deberán precisar ante la Auditoría Superior del Estado de Guerrero las mejoras realizadas, las acciones emprendidas o, en su caso, justificar su improcedencia.
+
+La Auditoría Superior del Estado de Guerrero deberá entregar al Congreso del Estado, a más tardar los días 1 de los meses de mayo y noviembre de cada año, un informe sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas, correspondientes a cada uno de los informes individuales de auditoría que haya presentado en los términos de esta fracción. En dicho informe, el cual tendrá carácter público, la Auditoría incluirá los montos efectivamente resarcidos a la Hacienda Pública Estatal o al patrimonio de los entes públicos estatales y municipales, como consecuencia de sus acciones de fiscalización, las denuncias penales presentadas y los procedimientos iniciados ante el Tribunal de Justicia Administrativa del Estado de Guerrero.
+
+La Auditoría Superior del Estado de Guerrero deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los informes individuales de auditoría y el Informe General Ejecutivo al Congreso del Estado, a que se refiere esta fracción; la Ley establecerá las sanciones aplicables a quienes infrinjan esta disposición; y
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2017)</small>
+
+XV. Derivado de sus investigaciones, promover las responsabilidades que sean procedentes, ante el Tribunal de Justicia Administrativa del Estado de Guerrero y la Fiscalía Especializada en Combate a la Corrupción, para la imposición de las sanciones que correspondan, a los servidores públicos estatales, municipales y a los particulares.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -2997,7 +3147,9 @@ XIV. Investigar la conducta de los servidores públicos del Poder Judicial del E
 
 XV. Implementar políticas, lineamientos, instrucciones y recomendaciones en favor de la transparencia, el acceso a la información y la protección de los datos personales en el ejercicio de la función judicial;
 
-XVI. Administrar, transparentar e informar lo relativo al Fondo Auxiliar para la Administración de Justicia. La Auditoría General del Estado fiscalizará lo conducente; y,
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
+
+XVI. Administrar, transparentar e informar lo relativo al Fondo Auxiliar para la Administración de Justicia. La Auditoría Superior del Estado de Guerrero fiscalizará lo conducente; y,
 
 XVII. Las demás que determine la ley de la materia y su reglamento.
 
@@ -3071,7 +3223,9 @@ Para el nombramiento del Defensor General, el presidente del Consejo de la Judic
 
 El Instituto de la Defensoría Pública del Estado de Guerrero será competente para:
 
-I. Prestar servicios de defensoría pública, orientación, asesoría y representación jurídica en asuntos del orden penal, familiar, justicia para adolescentes, civil, mercantil, laboral, contencioso administrativo y de amparo, en los términos dispuestos en la ley;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
+
+I. Prestar servicios de defensoría pública, orientación, asesoría y representación jurídica en asuntos del orden penal, familiar, justicia para adolescentes, civil, mercantil, laboral, justicia administrativa y de amparo, en los términos dispuestos en la ley;
 
 II. Velar por la observancia del principio de igualdad ante la ley, por los derechos del debido proceso y por el respeto a la dignidad humana de sus representados;
 
@@ -3355,15 +3509,17 @@ El endeudamiento se empleará únicamente en casos excepcionales o que estén pl
 
 No se podrá recaudar ninguna cantidad por concepto de impuestos o contribuciones que no estén basados en una ley o decreto emanados del Congreso del Estado y sancionados por el Ejecutivo del Estado de Guerrero.
 
-1. El servidor público que realice erogaciones que no estén previstas en las leyes correspondientes incurrirá en responsabilidad y responderá con su patrimonio por las afectaciones realizadas; y,
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
+
+1. El servidor público que realice erogaciones que no estén previstas en las leyes correspondientes, incurrirá en responsabilidad administrativa y responderá con su patrimonio por las afectaciones realizadas. Si las irregularidades se tipifican como enriquecimiento ilícito, será sancionado conforme lo que determine la ley de la materia; y,
 
 2. El año fiscal correrá del primero de enero al treinta y uno de diciembre.
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 184.
 
-La hacienda pública del Estado deberá cumplir con las exigencias de transparencia y máxima publicidad; será debidamente auditada y fiscalizada por la Auditoría General del Estado.
+La hacienda pública del Estado deberá cumplir con las exigencias de transparencia y máxima publicidad; será debidamente auditada y fiscalizada por la Auditoría Superior del Estado de Guerrero.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -3455,9 +3611,11 @@ El manejo del presupuesto asignado a la Universidad Autónoma de Guerrero, los r
 
 Las autoridades que administren las finanzas universitarias serán responsables solidarias de los actos y hechos ilícitos que se cometan en la administración de los recursos universitarios a su cargo.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE JULIO DE 2017)</small>
 
-## TÍTULO DÉCIMO TERCERO. RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUERRERO
+## TÍTULO DÉCIMO TERCERO
+
+DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS, PARTICULARES VINCULADOS CON FALTAS ADMINISTRATIVAS GRAVES O HECHOS DE CORRUPCIÓN Y PATRIMONIAL DEL ESTADO DE GUERRERO
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -3473,7 +3631,9 @@ Son servidores públicos del Estado los representantes de elección popular, los
 
 I. A rendir protesta constitucional previa al ejercicio de su encargo, de conformidad con las modalidades establecidas en la ley;
 
-II. Están obligados a cumplir con sus responsabilidades en las formas y en los términos dispuestos en esta constitución y en las leyes correspondientes. Al respecto, los particulares podrán exigir en todo momento que los servicios públicos que prestan el Estado y los Municipios se realicen, apegados a los principios de ética, eficacia, eficiencia, transparencia y respeto a los derechos humanos.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2017)</small>
+
+II. Están obligados a cumplir con sus responsabilidades en las formas y en los términos dispuestos en esta Constitución y en las leyes correspondientes. Al respecto, los particulares podrán exigir en todo momento que los servicios públicos que prestan el Estado y los Municipios se realicen, apegados a los principios de ética, eficacia, eficiencia, transparencia y respeto a los derechos humanos. Asimismo, deberán presentar, bajo protesta de decir verdad, sus declaraciones patrimonial y de intereses ante las autoridades competentes en los términos que determine la ley de la materia.
 
 De acuerdo a ello, los ciudadanos podrán exigir en todo momento ante la autoridad competente, que los servidores públicos, exceptuando a los electos por voto popular, puedan ser sujetos a procesos de evaluación al desempeño de sus funciones, mediante la verificación del cumplimiento de las metas señaladas en sus respectivos planes de desarrollo y, como consecuencia, en los Programas Operativos Anuales. Los resultados que deriven de ello podrán ser las sanciones establecidas en la ley correspondiente, según sea el caso.
 
@@ -3621,7 +3781,9 @@ Incurren en responsabilidad penal los servidores públicos que en el ejercicio d
 
 2. El Gobernador, durante el ejercicio de su encargo, sólo podrá ser acusado por la comisión de delitos graves del orden común previstos en el Código Penal del Estado. Por los demás delitos podrá ser acusado, conforme a esta Constitución y las leyes respectivas, al concluir su mandato;
 
-3. La responsabilidad penal se sustanciará ante las autoridades judiciales competentes;
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
+
+3. La comisión de delitos o hechos de corrupción por parte de cualquier servidor público o particulares, será sancionada en los términos de la legislación penal aplicable. Las leyes determinarán los casos y las circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su empleo, cargo o comisión, o por motivos del mismo, por sí o por interpósita persona, aumenten su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita no pudiesen justificar. Las leyes penales sancionarán con el decomiso y con la privación de la propiedad de dichos bienes, además de las otras penas que correspondan. La responsabilidad penal se sustanciará ante las autoridades judiciales competentes;
 
 4. Para ejercitar la responsabilidad de los servidores públicos con inmunidad constitucional se requerirá agotar previamente la declaración de procedencia ante el Congreso del Estado. Quedan exceptuados quienes cometan un delito durante el tiempo en que se encuentren separados de su encargo;
 
@@ -3639,19 +3801,63 @@ Incurren en responsabilidad penal los servidores públicos que en el ejercicio d
 
 #### SECCIÓN VI. RESPONSABILIDAD ADMINISTRATIVA
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 197.
 
-Incurren en responsabilidad administrativa los servidores públicos que en el ejercicio de sus funciones realicen actos u omisiones que contravengan la legalidad, honradez, lealtad, imparcialidad y eficiencia.
+Incurren en responsabilidad administrativa, los servidores públicos que en el ejercicio de sus funciones realicen actos u omisiones que contravengan la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 1. Son sujetos de responsabilidad administrativa los servidores públicos establecidos en el artículo 195.1 de esta Constitución;
 
-2. La responsabilidad administrativa se sancionará con la amonestación, apercibimiento, suspensión, destitución e inhabilitación, y con multas e indemnizaciones, en los términos dispuestos en la ley;
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
 
-3. La responsabilidad administrativa se impondrá mediante procesos y procedimientos ante las autoridades administrativas y judiciales competentes; y,
+2. La responsabilidad administrativa se sancionará con el apercibimiento, amonestación, suspensión, destitución, inhabilitación y sanciones económicas, que deberán establecerse de acuerdo con los beneficios obtenidos por el responsable y conforme a los daños y perjuicios patrimoniales causados por los actos u omisiones, de acuerdo a los procedimientos de investigación y sanción establecidos en la ley.
 
-4. La responsabilidad administrativa será exigible de acuerdo con los plazos de prescripción consignados en la ley. Cuando los actos u omisiones que la motiven sean graves, los plazos de prescripción no serán inferiores a tres años. Los plazos de prescripción se interrumpen mientras el servidor público se encuentre en el ejercicio de su encargo.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
+
+3. La responsabilidad administrativa se impondrá mediante procesos y procedimientos por las autoridades competentes; y,
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
+
+4. La responsabilidad administrativa será exigible de acuerdo con los plazos de prescripción consignados en la ley. Cuando los actos u omisiones que la motiven sean graves, los plazos de prescripción no serán inferiores a siete años. Los plazos de prescripción se interrumpen mientras el servidor público se encuentre en el ejercicio de su encargo.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
+
+5. Las faltas administrativas graves serán investigadas y substanciadas por la Auditoría Superior del Estado de Guerrero y serán resueltas por el Tribunal de Justicia Administrativa del Estado de Guerrero. Las demás faltas y sanciones administrativas serán conocidas y resueltas por los órganos internos de control;
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
+
+6. Para la investigación, substanciación y sanción de responsabilidades administrativas de los servidores públicos del Poder Judicial del Estado de Guerrero, se observará lo previsto en el artículo 93 de esta Constitución, sin perjuicio de las atribuciones de la Auditoría Superior del Estado de Guerrero en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos;
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
+
+7. La Ley establecerá los supuestos y procedimientos para impugnar la clasificación de las faltas administrativas como no graves, que realicen los órganos internos de control;
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
+
+8. Los entes públicos estatales tendrán órganos internos de control con las facultades que determine la ley para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas; para sancionar aquéllas distintas a las que son competencia del Tribunal de Justicia Administrativa del Estado de Guerrero; revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos en el ámbito de su competencia; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito, ante la Fiscalía Especializada en Combate a la Corrupción, a que se refiere esta Constitución;
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
+
+9. Los entes públicos municipales contarán con órganos internos de control, que tendrán, en su ámbito de competencia local, las atribuciones a que se refiere el párrafo anterior;
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
+
+10. El Tribunal de Justicia Administrativa del Estado de Guerrero impondrá a los particulares que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, las sanciones económicas; inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas; así como el resarcimiento de los daños y perjuicios ocasionados a la Hacienda Pública estatal o a los entes públicos estatales o municipales. Las personas morales serán sancionadas en los términos de esta fracción cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella. También podrá ordenarse la suspensión de actividades, disolución o intervención de la sociedad respectiva, cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública estatal o a los entes públicos estatales o municipales, siempre que la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos, la sanción se ejecutará hasta que la resolución sea definitiva. Las leyes establecerán los procedimientos para la investigación e imposición de las sanciones aplicables a dichos actos u omisiones;
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
+
+11. Los procedimientos para la aplicación de las sanciones mencionadas en las fracciones anteriores, se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza;
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
+
+12. En el cumplimiento de sus atribuciones, a los órganos responsables de la investigación y sanción de responsabilidades administrativas y hechos de corrupción, no les serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios. La ley establecerá los procedimientos para que les sea entregada dicha información; y
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
+
+13. La Auditoría Superior del Estado de Guerrero y la Secretaría de Contraloría y Transparencia Gubernamental, respectivamente, podrán recurrir las determinaciones de la Fiscalía Especializada en Combate a la Corrupción y del Tribunal de Justicia Administrativa del Estado de Guerrero, de conformidad con lo previsto en el artículo 92, numeral 4, fracción X de esta Constitución.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -3665,15 +3871,47 @@ Los servidores públicos que incurran en responsabilidad civil serán sancionado
 
 No se requerirá declaración de procedencia para su interposición.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 14 DE JULIO DE 2017)</small>
+
+#### SECCIÓN VIII. EL SISTEMA ESTATAL ANTICORRUPCIÓN DE GUERRERO
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
+
+ARTICULO 198 BIS.- El Sistema Estatal Anticorrupción de Guerrero, es la instancia de coordinación de las autoridades estatales y municipales, competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
+
+I. El Sistema contará con un Comité Coordinador, que estará integrado por los titulares de la Auditoría Superior del Estado de Guerrero; de la Fiscalía Especializada en Combate a la Corrupción; de la Secretaría de Contraloría y Transparencia Gubernamental; por el Presidente del Tribunal de Justicia Administrativa del Estado de Guerrero; el Comisionado Presidente del Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales; así como por un representante del Consejo de la Judicatura del Poder Judicial del Estado de Guerrero y otro del Comité de Participación Ciudadana;
+
+II. El Comité de Participación Ciudadana del Sistema, deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley, y
+
+III. Corresponderá al Comité Coordinador del Sistema, en los términos que determine la Ley:
+
+a. El establecimiento de mecanismos de coordinación con los sistemas municipales;
+
+b. El diseño y promoción de políticas integrales en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción, en especial, sobre las causas que los generan;
+
+c. La determinación de los mecanismos de suministro, intercambio, sistematización y actualización de la información que sobre estas materias generen las instituciones competentes de los órdenes de gobierno estatal y municipal;
+
+d. El establecimiento de bases y principios para la efectiva coordinación de las autoridades de los órdenes de gobierno en materia de fiscalización y control de los recursos públicos; y
+
+e. La elaboración de un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia.
+
+Derivado de este informe, podrá emitir recomendaciones no vinculantes a las autoridades, con el objeto de que adopten medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como al mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al Comité sobre la atención que brinden a las mismas.
+
+Los Ayuntamientos deberán elaborar un programa municipal en la materia y coordinarse con las autoridades estatales competentes para la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción en los términos que establezca la Ley del Sistema Estatal y Municipal Anticorrupción.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
+
+ARTICULO 198 TER.- El Comité de Participación Ciudadana del Sistema, tiene como fin coadyuvar en el cumplimiento de los objetivos del Comité Coordinador y las instancias que integran el Sistema Estatal Anticorrupción, propiciará la participación activa de la sociedad, así como la investigación de las causas que generen actos de corrupción, con la finalidad de fortalecer las acciones encaminadas a la prevención, detección y sanción de actos de corrupción. Se integrará y designará en términos de lo dispuesto por la Ley de la materia.
+
 > <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ABRIL DE 2014)</small>
-
-#### SECCIÓN ÚNICA. DE LA REFORMA E INVIOLABILIDAD DE LA CONSTITUCIÓN
-
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 ## TÍTULO DÉCIMO CUARTO. SUPREMACÍA, REFORMA E INVIOLABILIDAD DE LA CONSTITUCIÓN
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE ABRIL DE 2014)</small>
+
+#### SECCIÓN ÚNICA. DE LA REFORMA E INVIOLABILIDAD DE LA CONSTITUCIÓN
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 199.
 
@@ -4774,3 +5012,79 @@ SEGUNDO. En términos del numeral 1, fracción III del artículo 199 de la Const
 TERCERO.- Remítase al Titular del Poder Ejecutivo, para su conocimiento y efectos legales correspondientes.
 
 CUARTO. Publíquese en el Periódico Oficial del Gobierno del Estado, para su conocimiento general.
+
+P.O. 14 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 433 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, EN MATERIA DE COMBATE A LA CORRUPCIÓN".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero, sin perjuicio de lo previsto en los transitorios legales.
+
+Segundo. El Congreso del Estado, dentro del plazo de 180 días naturales contados a partir de la entrada en vigor del presente Decreto, deberá aprobar la legislación secundaria en la materia.
+
+Tercero. La Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Guerrero, establecerá que, observando lo dispuesto en la Ley Número 454 de Presupuesto y Disciplina Fiscal del Estado de Guerrero, el Tribunal de Justicia Administrativa del Estado de Guerrero:
+
+a) Aprobará su proyecto de presupuesto, con sujeción a los criterios generales de política económica del Estado de Guerrero, y los techos globales de gasto establecidos por el Ejecutivo local;
+
+b) Ejercerá directamente su presupuesto, aprobado por el Congreso del Estado, sin sujetarse a las disposiciones emitidas por la Secretaría de Finanzas y aquella a cargo del control interno del Ejecutivo Estatal;
+
+c) Autorizará las adecuaciones presupuestarias sin requerir la autorización de la Secretaría de Finanzas y Administración, siempre y cuando no rebase su techo global aprobado por el Congreso del Estado;
+
+d) Determinará los ajustes que correspondan a su presupuesto en caso de disminución de ingresos durante el ejercicio fiscal, y
+
+e) Realizará los pagos, llevará la contabilidad y elaborará sus informes, a través de su propia tesorería, en los términos de las leyes aplicables.
+
+Cuarto. Las adiciones, reformas y derogaciones que por virtud del presente Decreto se hacen a los artículos: 150, 151, 153, 196 numerales 2 y 3, 197 y 198 Bis, entrarán en vigor en la misma fecha en que lo hagan las leyes a que se refiere el Transitorio Segundo del presente Decreto.
+
+Quinto. En tanto se expiden y reforman las leyes a que se refiere el Segundo Transitorio, continuará aplicándose la legislación en materia de responsabilidades administrativas de los servidores públicos, así como de fiscalización y control de recursos públicos, que se encuentren vigentes en el Estado, a la fecha de entrada en vigor del presente Decreto.
+
+Sexto. Los Magistrados del Tribunal de lo Contencioso Administrativo del Estado que hayan sido nombrados a la fecha de entrada en vigor de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Guerrero, continuarán como Magistrados del Tribunal de Justicia Administrativa del Estado de Guerrero, en los mismos términos de su nombramiento.
+
+El Tribunal de lo Contencioso Administrativo continuará funcionando con su organización y facultades actuales y substanciando los asuntos que actualmente se encuentran en trámite, hasta la entrada en vigor de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Guerrero.
+
+Séptimo. Los recursos humanos, materiales, financieros y presupuestales con que cuenta el Tribunal de lo Contencioso Administrativo, incluyendo todos sus bienes y los derechos derivados de los fondos o fideicomisos vigentes, pasarán a formar parte del Tribunal de Justicia Administrativa del Estado de Guerrero, en los términos que determine su ley orgánica.
+
+Octavo. Los trabajadores de base que se encuentren prestando sus servicios en el Tribunal de lo Contencioso Administrativo del Estado, a la entrada en vigor de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Guerrero, seguirán conservando su misma calidad y derechos laborales que les corresponden, ante el Tribunal de Justicia Administrativa del Estado de Guerrero, en los términos que dicha ley determine.
+
+Noveno. El Auditor General del Estado y los Auditores Especiales de la Auditoría General del Estado que hayan sido nombrados conforme a la Ley Número 1028 de Fiscalización Superior y Rendición de Cuentas del Estado de Guerrero, continuarán como Auditor Superior del Estado y Auditores Especiales de la Auditoría Superior del Estado, en los mismos términos de su nombramiento.
+
+La Auditoría continuará funcionando con su organización y facultades actuales y substanciando los asuntos que actualmente se encuentran en trámite, hasta la entrada en vigor de (sic) Ley de Fiscalización y Rendición de Cuentas del Estado de Guerrero.
+
+Décimo. Los recursos humanos, materiales, financieros y presupuestales con que cuenta la Auditoría General del Estado, incluyendo todos sus bienes y los derechos derivados de los fondos o fideicomisos vigentes, pasarán a formar parte de la Auditoría Superior del Estado, en los términos que determine la ley que los rige.
+
+Décimo Primero. Los trabajadores de base que se encuentren prestando sus servicios en la Auditoría General del Estado, a la entrada en vigor de la Ley de Fiscalización y Rendición de Cuentas del Estado de Guerrero, seguirán conservando su misma calidad y derechos laborales que les corresponden, ante la Auditoría Superior del Estado de Guerrero, en los términos que dicha ley determine.
+
+Décimo Segundo. Los titulares de los órganos internos de control de los organismos estatales con autonomía reconocidos por esta Constitución, que se encuentren en funciones a la entrada en vigor del presente Decreto, continuarán en su encargo en los términos en los que fueron nombrados.
+
+Décimo Tercero. Las referencias al Tribunal de lo Contencioso Administrativo que se hagan en otras leyes y disposiciones legales, se entenderán aplicables al Tribunal de Justicia Administrativa del Estado de Guerrero; las referencias correspondientes (sic) la Auditoría General del Estado se entenderán aplicables a la Auditoría Superior del Estado de Guerrero; las referencias correspondientes a las contralorías internas se entenderán aplicables a los órganos internos de control y las referencias correspondientes a la Fiscalía de Combate a la Corrupción se entenderán aplicables a la Fiscalía en Combate a la Corrupción.
+
+P.O. 14 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 206 POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 122 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. En términos del numeral 1, fracción III del artículo 199 de la Constitución Política del Estado Libre y Soberano de Guerrero, remítase a los H. Ayuntamiento Municipales del Estado, para su conocimiento y efectos constitucionales procedentes.
+
+TERCERO. Los consejeros que actualmente conforman el Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Guerrero, pasarán a ser Comisionados de dicho Instituto por el tiempo que reste al nombramiento del que fueron objeto, en consecuencia, cambian de denominación.
+
+Los consejeros que concluyen su periodo el 8 de febrero de 2018, podrán participar en el proceso de selección y designación de los Comisionados para integrar el Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales.
+
+Con el objeto de asegurar el escalonamiento en los cargos de los integrantes del Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales, por única ocasión duraran en su encargo los periodos siguientes:
+
+- El primero que se designe durará en su encargo 7 años;
+
+- El segundo que se designe durará en su encargo 5 años, y
+
+- El tercero que se designe durará en su encargo 3 años.
+
+CUARTO. Dentro de los 90 días hábiles siguientes a la entrada en vigor de este decreto el H. Congreso del Estado Libre y Soberano de Guerrero, deberá emitir la convocatoria para designar a los integrantes del Consejo Consultivo.
+
+Con el objeto de asegurar el escalonamiento en los cargos de los integrantes del Consejo Consultivo del Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales, por única ocasión duraran en su encargo los periodos siguientes:
+
+- El primero que se designe durará en su encargo 5 años;
+
+- Los restantes 3 años.
+
+QUINTO. Remítase al Titular del Poder Ejecutivo, para su conocimiento y efectos legales correspondientes.
+
+SEXTO. Publíquese en el Periódico Oficial del Gobierno del Estado, para su conocimiento general.
