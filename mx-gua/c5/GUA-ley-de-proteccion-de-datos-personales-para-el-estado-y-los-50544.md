@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-proteccion-de-datos-personales-para-el-estado-y-los-5054
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-19"
-last_updated: "2015-10-02"
+last_updated: "2017-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "GUA"
 ---
 # LEY DE PROTECCION DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE GUANAJUATO, PUBLICADA EN EL PERIÓDICO OFICIAL EL 14 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+[NOTA 2: DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE GUANAJUATO, PUBLICADA EN EL PERIÓDICO OFICIAL EL 14 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 2 DE OCTUBRE DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2017 (ABROGADA).
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 19 de mayo de 2006.
 
@@ -53,7 +53,7 @@ La presente Ley es de orden público e interés general y tiene por objeto garan
 
 Los sujetos obligados para la aplicación de esta Ley son:
 
-l. El Poder Legislativo;
+I. El Poder Legislativo;
 
 II. El Poder Ejecutivo;
 
@@ -69,7 +69,7 @@ VI. Cualquier otra dependencia o entidad estatal o municipal.
 
 Para efectos de este ordenamiento se entenderá por:
 
-l. Archivo o banco de datos: El conjunto de datos personales obtenidos por los sujetos obligados, cualquiera que sea la forma o modalidad de su creación, almacenamiento, organización o acceso;
+I. Archivo o banco de datos: El conjunto de datos personales obtenidos por los sujetos obligados, cualquiera que sea la forma o modalidad de su creación, almacenamiento, organización o acceso;
 
 II. Bloqueo de datos: La identificación y reserva de datos con el fin de impedir su tratamiento;
 
@@ -95,7 +95,7 @@ X. Unidad de acceso: La unidad de acceso a la información pública de cada suje
 
 Se exceptúan de la regulación de la presente Ley, los archivos y bancos de datos que:
 
-l. Tengan por objeto almacenar datos personales para su publicidad con carácter general y que se regulen por sus disposiciones específicas;
+I. Tengan por objeto almacenar datos personales para su publicidad con carácter general y que se regulen por sus disposiciones específicas;
 
 II. Se regulen por sus disposiciones específicas en atención a la naturaleza de sus funciones, y
 
@@ -126,8 +126,6 @@ V. Permitir en todo momento al titular el ejercicio del derecho a conocer sobre 
 VI. Actualizar los datos personales cuando haya lugar, debiendo corregir o completar de oficio aquellos que fueren inexactos o incompletos, respectivamente, a efecto de que coincidan con los datos presentes del titular.
 
 Lo anterior, sin perjuicio de las prerrogativas reconocidas al titular para solicitar la corrección o cancelación de los datos que le conciernen, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
@@ -175,7 +173,7 @@ VI. Los demás que se deriven de la presente Ley o le señalen otros ordenamient
 
 Sin perjuicio de lo que dispongan otras leyes, sólo el titular o su representante, previa acreditación, tendrán derecho a solicitar a la unidad de acceso lo siguiente:
 
-l. Informes de los datos personales que le conciernan y que obren en archivo o banco de datos determinado, y
+I. Informes de los datos personales que le conciernan y que obren en archivo o banco de datos determinado, y
 
 II. La corrección o cancelación de los datos personales que le conciernan, contenidos en archivo o banco de datos determinado.
 
@@ -183,7 +181,7 @@ II. La corrección o cancelación de los datos personales que le conciernan, con
 
 Las solicitudes previstas en el artículo anterior, deberán contener como mínimo:
 
-l. El nombre del solicitante y domicilio para recibir notificaciones, mismo que deberá estar ubicado en el lugar donde resida la unidad de acceso ante la que se presente la solicitud;
+I. El nombre del solicitante y domicilio para recibir notificaciones, mismo que deberá estar ubicado en el lugar donde resida la unidad de acceso ante la que se presente la solicitud;
 
 II. La descripción clara y precisa de lo solicitado, y
 
@@ -247,7 +245,7 @@ V. El sujeto obligado contrate a terceros para la prestación de un servicio que
 
 Cuando la cesión de datos se realice en los términos que prevé el artículo 16 de esta Ley, el cesionario deberá proporcionar al sujeto obligado los siguientes datos y documentos:
 
-l. En el caso de personas físicas: Nombre, edad, nacionalidad, número telefónico, así como original y copia de una identificación oficial y de un comprobante de su domicilio reciente, para su cotejo, y
+I. En el caso de personas físicas: Nombre, edad, nacionalidad, número telefónico, así como original y copia de una identificación oficial y de un comprobante de su domicilio reciente, para su cotejo, y
 
 II. En tratándose de personas morales: Denominación o razón social, nacionalidad, número telefónico, así como copia certificada del acta constitutiva y del documento que acredite la personalidad del representante.
 
@@ -269,15 +267,13 @@ No se considerará cesión de datos el acceso que un tercero tenga a los datos p
 
 El Instituto como autoridad encargada de garantizar la protección de datos personales, además de las atribuciones que le confieren otras disposiciones legales, tendrá las siguientes:
 
-l. Otorgar asesoría a las personas que lo requieran acerca del contenido y alcance de la presente Ley;
+I. Otorgar asesoría a las personas que lo requieran acerca del contenido y alcance de la presente Ley;
 
 II. Dictar, en el ámbito de su competencia, los lineamientos necesarios para garantizar el cumplimiento de esta Ley;
 
 III. Elaborar y mantener actualizado el Registro Estatal de Protección de Datos Personales de los archivos o bancos de datos de los sujetos obligados, y
 
 IV. Procurar la conciliación de los intereses de los titulares con los de los sujetos obligados cuando éstos entren en conflicto con motivo de la aplicación de la presente Ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 2013)</small>
 
@@ -305,7 +301,7 @@ El Instituto conformará el Registro Estatal de Protección de Datos Personales,
 
 Para tal efecto, los sujetos obligados deberán proporcionar al Instituto dentro de los plazos y términos que se establezcan en sus lineamientos, la información relativa a sus archivos o bancos de datos, que a continuación se señala:
 
-l. La ubicación;
+I. La ubicación;
 
 II. Las características y finalidades, y
 
@@ -341,7 +337,7 @@ El titular o su representante podrán interponer el recurso de queja ante el Con
 
 El escrito de interposición del recurso de queja deberá contener:
 
-l. El nombre del recurrente;
+I. El nombre del recurrente;
 
 II. El domicilio para recibir notificaciones, el cual deberá ubicarse en la sede del Instituto, de lo contrario se notificará por estrados;
 
@@ -457,7 +453,7 @@ EL SECRETARIO DE GOBIERNO
 
 SAMUEL ALCOCER FLORES
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 7 DE JUNIO DE 2013.
 
@@ -512,3 +508,21 @@ Artículo Octavo. Las organizaciones de asistencia social que realicen cualquier
 Designación de representantes de la sociedad civil ante el Sistema
 
 Artículo Noveno. Por única ocasión el Gobernador del Estado designará en forma directa a los representantes de la sociedad civil ante el Sistema Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes previstos en la fracción XIII del artículo 91.
+
+P.O. 14 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 206, DE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE EXPIDE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Se abroga la Ley de Protección de Datos Personales para el Estado y Municipios de Guanajuato, contenida en el decreto legislativo número 266, expedido por la Quincuagésima Novena Legislatura, publicada en el Periódico Oficial del Gobierno del Estado número 80, segunda parte, de fecha 19 de mayo de 2006; y se derogan todas aquellas disposiciones en materia de protección de datos personales, de carácter estatal y municipal, que contravengan lo dispuesto por la presente Ley.
+
+Artículo Tercero. Los responsables expedirán sus avisos de privacidad en los términos previstos en la presente Ley y demás disposiciones aplicables, a más tardar noventa días posteriores a la entrada en vigor de esta Ley.
+
+Artículo Cuarto. Los responsables deberán observar lo dispuesto en el Título Segundo, Capítulo II de la presente Ley, a más tardar un año posterior a la entrada en vigor de esta Ley.
+
+Artículo Quinto. El Instituto deberá expedir los lineamientos, parámetros, criterios y demás disposiciones de las diversas materias a que se refiere la presente Ley, dentro de un plazo no mayor a seis meses a la entrada en vigor de esta Ley.
+
+Artículo Sexto. Los procedimientos iniciados durante la vigencia de la Ley de Protección de Datos Personales para el Estado y Municipios de Guanajuato, se sustanciarán hasta su conclusión, conforme al ordenamiento señalado.
+
+Artículo Séptimo. El Ejecutivo del Estado de Guanajuato deberá hacer las previsiones presupuestales necesarias para la operación de la presente Ley y establecer las partidas presupuestales específicas en el Presupuesto de Egresos para el siguiente ejercicio fiscal a su entrada en vigor.
