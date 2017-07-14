@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2017-07-07"
+last_updated: "2017-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2017.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -2153,7 +2153,7 @@ Las penas señaladas en los artículos 176, 177 y 178, se incrementarán hasta e
 
 ###### Artículo 180.
 
-Tipo y punibilidad.- Al que sin consentimiento de una persona ejecute en ella o lo haga ejecutar un acto sexual, sin el propósito de llegar a la cópula, se le aplicarán de dos a ocho años de prisión y hasta doscientos días multa.
+Tipo y punibilidad.- Al que sin consentimiento de una persona ejecute en ella o lo haga ejecutar un acto sexual, sin el propósito de llegar a la cópula, se le aplicarán de dos a ocho años de prisión y hasta doscientos días de multa.
 
 Si se hiciere uso de la violencia física o moral, la pena se aumentará de uno a tres años.
 
@@ -3785,7 +3785,7 @@ Abandono de funciones.- Las mismas penas del artículo anterior se impondrán al
 
 ### CAPITULO XII. TRAFICO DE INFLUENCIA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2017)</small>
 
 ###### Artículo 292.
 
@@ -3833,9 +3833,13 @@ XII.- Cuando autorice o contrate a quién se encuentre inhabilitado por resoluci
 
 XIII.- Cuando otorgue cualquier identificación en que se acredite como servidor público o cualquier persona que realmente no desempeñe el empleo, cargo o comisión a que se haga referencia en dicha identificación;
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2017)</small>
 
-XIV.- El Servidor Público que teniendo la obligación legal de enterar a las instituciones de seguridad social, estatales o municipales, las cuotas o aportaciones establecidas en la ley, las retenga indebidamente o retrase su pago sin causa justificada, si ya hubiera sido previamente requerido por la Institución de Seguridad Social; y
+XIV.- El Servidor Público que, teniendo la obligación legal de enterar a las instituciones de seguridad social, estatales o municipales, las cuotas o aportaciones establecidas en la ley, las retenga indebidamente o retrase su pago sin causa justificada, si ya hubiera sido previamente requerido por la Institución de Seguridad Social.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
+
+La pena prevista en la fracción anterior se aumentará hasta en una mitad más cuando la retención indebida o retraso injustificado, no se subsane durante los 180 días siguientes a la fecha en que las cuotas o aportaciones debieron ser enteradas;
 
 > <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
@@ -4039,13 +4043,19 @@ Al que cometa el delito de intimidación se le impondrán de dos a seis años de
 
 ###### Artículo 307.
 
-Tipo y punibilidad.- Se impondrán de dos a ocho años de prisión y de cincuenta a trescientos días de multa, al servidor público que por sí o por interpósita persona:
+Tipo y punibilidad.- Comete el delito de tráfico de influencia y se le impondrán de dos a ocho años de prisión y de cincuenta a trescientos días multa:
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
 
-I.- Promueva o gestione la tramitación o resolución de negocios públicos ajenos a las responsabilidades inherentes a su empleo, cargo o comisión; o
+I.- Al servidor público que por sí o por interpósita persona, promueva o gestione la tramitación o resolución ilícita de negocios públicos, ajenos a las responsabilidades inherentes a su empleo, cargo o comisión.
 
-II.- Indebidamente solicite o promueva alguna resolución o la realización de cualquier acto materia del empleo, cargo o comisión de otro servidor público, que produzca beneficios económicos para sí o para cualquiera de las personas a que se hace referencia en la fracción I del artículo 305 de este Código.
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
+
+II.- A cualquier persona que promueva la conducta ilícita del servidor público, o se preste a la promoción o gestión a que hace referencia la fracción anterior.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JULIO DE 2017)</small>
+
+III.- Al servidor público que por sí, o por interpósita persona indebidamente, solicite o promueva alguna resolución o la realización de cualquier acto materia del empleo, cargo o comisión de otro servidor público, que produzca beneficios económicos para sí o para cualquiera de las personas a que se hace referencia en la fracción I del artículo 305 de este Código.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE OCTUBRE DE 1992)</small>
 
@@ -5504,3 +5514,15 @@ P.O. 7 DE JULIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 91 MEDIANTE EL CUAL SE APRUEBA LA REFORMA Y ADICIÓN DE LOS ARTÍCULOS 209, 210 Y 211 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 Único.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 14 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 90 MEDIANTE EL CUAL SE APRUEBA LA REFORMA QUE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN XIV DEL ARTÍCULO 293 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 14 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 92 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 307 FRACCIÓN I, II Y III DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
