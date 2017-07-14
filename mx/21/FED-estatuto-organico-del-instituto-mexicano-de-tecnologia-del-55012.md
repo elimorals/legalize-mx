@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-mexicano-de-tecnologia-del-5501
 country: "mx"
 rank: "estatuto"
 publication_date: "2007-04-13"
-last_updated: "2014-04-21"
+last_updated: "2017-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55012&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-10-06"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO MEXICANO DE TECNOLOGÍA DEL AGUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JULIO DE 2017.
 
 Estatuto publicado en el Diario Oficial de la Federación, el viernes 13 de abril de 2007.
 
@@ -35,9 +35,9 @@ Que con fecha treinta de octubre de 2001, se publicó en el Diario Oficial de la
 
 Que el Instituto Mexicano de Tecnología del Agua se crea como un organismo público descentralizado con personalidad jurídica y patrimonio propios, cuya coordinación sectorial corresponderá a la Secretaría de Medio Ambiente y Recursos Naturales, quien dictará las políticas normativas, coordinará la programación y presupuestación, y conocerá la operación y los resultados, conservando el Instituto la autonomía de gestión para el cabal cumplimento de su objeto y de los objetivos y metas señalados en sus programas.
 
-> <small>(ADICIONADO, D.O.F. 21 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2017)</small>
 
-Que mediante resolución conjunta de la Secretaría de Medio Ambiente y Recursos Naturales y del Consejo Nacional y Tecnología, publicada en el Diario Oficial de la Federación el 16 de diciembre de 2009, se reconoció al Instituto Mexicano de Tecnología del Agua como Centro Público de Investigación.
+Que mediante resolución conjunta de la Secretaría de Medio Ambiente y Recursos Naturales y del Consejo Nacional de Ciencia y Tecnología, publicada en el Diario Oficial de la Federación el 16 de diciembre de 2009, se reconoció al Instituto Mexicano de Tecnología del Agua como Centro Público de Investigación.
 
 Que tiene como objeto realizar investigación, desarrollar, adaptar y transferir tecnología, prestar servicios tecnológicos y preparar recursos humanos calificados para el manejo, conservación y rehabilitación del agua y su entorno, a fin de contribuir al desarrollo sustentable.
 
@@ -129,15 +129,15 @@ Los responsables de las unidades administrativas señaladas acordarán con el Di
 
 El Instituto contará además con un Organo Interno de Control, que se regirá conforme a lo señalado en el artículo 12 del Decreto de creación del Instituto, así como lo estipulado en los artículos 23 y 24 de este Estatuto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PÁRRAFO, D.O.F. 14 DE JULIO DE 2017)</small>
 
-###### ARTICULO 5.
+###### ARTÍCULO 5.
 
 Para el ejercicio de sus atribuciones, las Unidades Administrativas contarán con las siguientes Subcoordinaciones, Subdirecciones o Subgerencias quienes ejercerán las atribuciones que les sean delegadas en función del Decreto de Creación y del Manual de Organización del Instituto, así como de este Estatuto Orgánico y de otras disposiciones legales aplicables:
 
-> <small>(REFORMADA, D.O.F. 21 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2017)</small>
 
-I. Coordinación de Hidráulica: a) Subcoordinación de Hidráulica Ambiental e Hidrometría; b) Subcoordinación de Hidráulica Urbana; c) Subcoordinación de Obras y Equipos Hidráulicos y d) Subcoordinación de Tecnología Apropiada.
+I. Coordinación de Hidráulica: a) Subcoordinación de Hidráulica Ambiental; b) Subcoordinación de Hidráulica Urbana; c) Subcoordinación de Obras y Equipos Hidráulicos y d) Subcoordinación de Tecnología Apropiada.
 
 > <small>(REFORMADA, D.O.F. 21 DE ABRIL DE 2014)</small>
 
@@ -327,9 +327,9 @@ XXII. Las demás que les señalen otras disposiciones legales o reglamentarias, 
 
 La Coordinación de Hidráulica estará a cargo de un Coordinador, y tendrá el objeto de realizar investigación; desarrollar, adaptar y transferir tecnología; realizar arbitrajes técnicos; atender controversias; prestar servicios tecnológicos y preparar recursos humanos calificados en materia de:
 
-> <small>(REFORMADO, D.O.F. 21 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2017)</small>
 
-Limnología física; oceanografía física; ingeniería de costas; modelación hidrodinámica, de transporte, advección y dispersión de solutos en ríos, cuerpos de agua superficiales y conductos presurizados; ecohidráulica; diseño, inspección, rehabilitación, medición y conservación de sistemas relacionados con el uso, manejo y almacenamiento del agua y su interacción con otros fluidos en la industria; mejora de eficiencia hidráulica y energética en aprovechamiento hidráulicos; uso eficiente del agua en zonas urbanas, turismo y procesos industriales; hidráulica e hidrología urbana; sistemas de distribución de agua potable y alcantarillado; gestión de organismos operadores de agua potable y alcantarillado; diseño y operación de captaciones, acueductos y redes de agua potable y alcantarillado; reducción y control integral de pérdidas en redes de agua potable; modelación hidráulica y de calidad del agua orientada a redes de distribución de agua potable, alcantarillado y acueductos; rehabilitación, mantenimiento y control de fallos de tuberías para agua potable y alcantarillado; control de sobrepresiones y eliminación de aire atrapado en acueductos y redes; operación y automatización de redes de agua potable; tecnologías apropiadas para agua potable, saneamiento y producción con fines de autoconsumo en el medio rural e indígena; tecnología apropiada para la reducción de riesgos e impactos en zonas rurales por efecto de eventos hídricos extremos; desarrollo y transferencia de sistemas de energía alternativa en procesos y aprovechamientos hídricos asociados con la industria y los medios urbano y rural; seguridad industrial; diseño, inspección, rehabilitación y conservación de sistemas industriales relacionados con el uso, manejo y almacenamiento de fluidos en la industria, diseño, rehabilitación, conservación y operación de obras hidráulicas en sus aspectos hidráulico, estructural, geotécnico y sísmico; modelación física de obras hidráulicas y cauces naturales y artificiales, lagos, lagunas y costas; diseño, selección, instalación, operación, calibración y verificación de equipos y dispositivos de medición y control de parámetros hidráulicos, ambientales, estructurales, geotécnicos y sísmicos; procesos hidráulicos en la industria; normativa para el sector agua; certificación y validación de prototipos, procesos o dispositivos hidráulicos y de tratamiento de agua, y sistemas de calidad para el sector agua. Lo anterior de manera enunciativa, sin ser limitativo.
+Limnología física; oceanografía física; ingeniería de costas; modelación hidrodinámica, de transporte, advección y dispersión de solutos en ríos, cuerpos de agua superficiales y conductos presurizados; ecohidráulica; mejora de eficiencia hidráulica y energética en aprovechamiento hidráulicos; uso eficiente del agua en zonas urbanas, turismo y procesos industriales; hidráulica e hidrología urbana; sistemas de distribución de agua potable y alcantarillado; gestión de organismos operadores de agua potable y alcantarillado; diseño y operación de captaciones, acueductos y redes de agua potable y alcantarillado; reducción y control integral de pérdidas en redes de agua potable; modelación hidráulica y de calidad del agua orientada a redes de distribución de agua potable, alcantarillado y acueductos; rehabilitación, mantenimiento y control de fallos de tuberías para agua potable y alcantarillado; control de sobrepresiones y eliminación de aire atrapado en acueductos y redes; operación y automatización de redes de agua potable; tecnologías apropiadas para agua potable, saneamiento y producción con fines de autoconsumo en el medio rural e indígena; tecnología apropiada para la reducción de riesgos e impactos en zonas rurales por efecto de eventos hídricos extremos; desarrollo y transferencia de sistemas de energía alternativa en procesos y aprovechamientos hídricos asociados con la industria y los medios urbano y rural; diseño, inspección, rehabilitación, medición y conservación de sistemas relacionados con el uso, manejo y almacenamiento del agua y su interacción con otros fluidos en la industria, diseño, inspección, rehabilitación, conservación y operación de obras hidráulicas en sus aspectos hidráulico, estructural, geotécnico y sísmico; modelación hidrodinámica, física y numérica, de flujos de agua con altas concentraciones de sedimentos, modelación física y numérica de obras hidráulicas y cauces naturales y artificiales, lagos, lagunas y costas; selección, instalación, operación y evaluación de la conformidad de instrumentos de medida y control de parámetros hidráulicos, ambientales, estructurales, geotécnicos y sísmicos; diseño y validación de prototipos, normativa para el sector agua. Lo anterior de manera enunciativa, sin ser limitativo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE ABRIL DE 2014)</small>
 
@@ -624,6 +624,16 @@ El presente Estatuto Orgánico fue aprobado por la Junta de Gobierno del Institu
 D.O.F. 21 DE ABRIL DE 2014.
 
 PRIMERO.- Las presentes modificaciones al Estatuto Orgánico del Instituto Mexicano de Tecnología del Agua, entraran en vigor a partir de la fecha de publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes modificaciones.
+
+TERCERO.- Inscríbase en el Registro Público de Organismos Descentralizados.
+
+D.O.F. 14 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA "MODIFICACIÓN DEL ESTATUTO ORGÁNICO DEL INSTITUTO MEXICANO DE TECNOLOGÍA DEL AGUA."]
+
+PRIMERO.- Las presentes modificaciones al Estatuto Orgánico del Instituto Mexicano de Tecnología del Agua, entrarán en vigor a partir de la fecha de publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes modificaciones.
 
