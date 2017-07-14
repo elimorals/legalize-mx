@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2016-10-28"
+last_updated: "2017-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2017.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -6351,11 +6351,19 @@ En los casos de violencia familiar contra de niñas, niños o adolescentes, las 
 
 ART. 926.- El Juez de lo familiar estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de personas menores de dieciocho años de edad, incapaces y de alimentos, decretando las medidas provisionales que tiendan a preservarla y protegerla, anteponiendo siempre el interés superior del menor, incluyendo al concebido no nacido, debiendo razonar y sustentar la medida decretada.
 
-Cuando quien promueva solicite como medida la guarda y custodia de personas menores de dieciocho años o incapaces deberá de manifestar en donde se encuentran estos y al cuidado de que persona; si manifiesta que están bajo su resguardo y antes de decretar la medida el Juez le requerirá que los presente de inmediato ante él para tomar conocimiento directo de este y tomarle su opinión si está en aptitud de vertirla y quiera hacerlo. Hecho lo anterior resolverá sin dilación el lugar y la persona con quien deba permanecer el menor o incapaz conforme a los elementos que tenga a su alcance, sin detrimento de modificar la medida durante el proceso si así lo considerara necesario y con las formalidades de ley.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
+
+Cuando quien promueva solicite como medida la guarda y custodia de personas menores de dieciocho años o incapaces deberá de manifestar en donde se encuentran estos y al cuidado de que persona; si manifiesta que están bajo su resguardo y antes de decretar la medida el Juez le requerirá que los presente de inmediato ante él para tomar conocimiento directo de este y tomarle su opinión si está en aptitud de emitirla y quiera hacerlo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE JULIO DE 2017)</small>
+
+Hecho lo anterior resolverá sin dilación el lugar y la persona con quien deba permanecer el menor o incapaz conforme a los elementos que tenga a su alcance, sin detrimento de modificar la medida durante el proceso si así lo considerara necesario y con las formalidades de ley. El Juez, tratándose de determinaciones provisionales o definitivas sobre guarda, cuidado y custodia, ponderará el derecho de convivencia de la niña, niño y adolescente con ambos progenitores, atendiendo al principio de interés superior.
 
 Si manifiesta que se encuentran bajo el cuidado de diversa persona o de la parte demandada, el Juez en el auto inicial requerirá la presentación inmediata de los menores o incapaces ante el juzgado, decretando los medios de apremio más eficaces para lograr su comparecencia y en caso de resistencia a acatar su mandato o de imposibilidad para hacer el requerimiento, decidirá a la brevedad con los elementos con que cuente y los que considere allegarse de oficio.
 
-La opinión del menor o incapaz respecto a su guarda y custodia no será vinculante de la decisión del Juez, en los casos cuando se trate de menores de dieciocho años pero mayor de catorce, su declaración será valorada de manera preponderante para la emisión de la resolución respectiva.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
+
+La opinión de la niña, niño y adolescente respecto a su guarda y custodia tendrá por objeto aportar información relevante para el caso y contar con mayores elementos para considerar en la toma de su decisión respecto al interés superior. La autoridad jurisdiccional competente garantizará el derecho de la niña, niño y adolescente a ser escuchado en los asuntos que le afectan, así como las medidas para su participación idónea dentro del proceso, tanto antes de que éste inicie como durante el desarrollo del mismo.
 
 Bajo ninguna circunstancia el Juzgador podrá aplazar, dilatar o abstenerse de decidir la situación de los menores o incapaces en breve plazo conforme a su interés superior.
 
@@ -7223,6 +7231,12 @@ SEGUNDO.- Publicada la presente reforma el Consejo de la Judicatura del Poder Ju
 
 P.O. 28 DE OCTUBRE DE 2016.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NO. 634 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN AL ARTÍCULO 926 TER, DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 634 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN AL ARTÍCULO 926 TER, DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el periódico oficial.
+
+P.O. 14 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 95 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 279, 281 Y 419 DEL CÓDIGO CIVIL, ARTÍCULO 926 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES Y ARTÍCULO 21 DE LA LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
