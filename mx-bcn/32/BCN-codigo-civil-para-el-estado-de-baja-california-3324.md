@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2016-10-28"
+last_updated: "2017-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE NOVIEMBRE DE 2017 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2017.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -1975,6 +1977,10 @@ V.- Dictar en su caso, las medidas precautorias que la Ley establece respecto a 
 
 VI.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio propondrá la persona en cuyo poder deben quedar provisionalmente los hijos. El Juez, previo el procedimiento que fije el Código respectivo, resolverá lo conveniente;
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE JULIO DE 2017)</small>
+
+El Juez, tratándose de determinaciones provisionales sobre guarda, cuidado y custodia, ponderará el derecho de convivencia de la niña, niño y adolescente con ambos progenitores, atendiendo al principio de interés superior, tomando en consideración lo establecido en el artículo 420 Bis de éste Código.
+
 > <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 VII.- Dictar cualquier medida de protección para garantizar la integridad y estabilidad emocional en la víctima de la violencia familiar que le permita la reorganización de su vida.
@@ -2015,9 +2021,11 @@ CUARTA.- En el caso de la fracción VIII, IX, XI, XII, XIII y XVII del Artículo
 
 Antes de que se provea definitivamente sobre la patria potestad o tutela de los hijos, el Juez podrá acordar, a petición de los abuelos, tíos o hermanos mayores, cualquier medida que se considere benéfica para las personas menores de dieciocho años de edad.
 
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 1975)</small>
+(NOTA: EL 12 DE NOVIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 120/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE NOVIEMBRE DE 2019, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-El Juez podrá modificar esta decisión atento a lo dispuesto en los Artículos 419, 420 y 441, Fracción III.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
+
+El Juez podrá modificar esta decisión atento a lo dispuesto en los artículos 419, 420 y 441, Fracción III Y VI.
 
 ###### ARTICULO 282.
 
@@ -2995,6 +3003,30 @@ Para los efectos del Artículo anterior, los que ejerzan la patria potestad o te
 
 Las autoridades, en caso necesario, auxiliarán a esas personas haciendo uso de amonestaciones y correctivos que les presten el apoyo suficiente.
 
+(NOTA: EL 12 DE NOVIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 120/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE NOVIEMBRE DE 2019, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
+
+ARTICULO 420 BIS.- Quien ejerza la patria potestad, debe de procurar el respeto y el acercamiento constante de los menores con el otro ascendiente. En consecuencia, cada uno de los ascendientes debe evitar cualquier acto de manipulación y alienación parental encaminada a producir en la niña o en el niño, en su caso el adolescente, rencor o rechazo hacia el otro progenitor, SOPENA DE SUSPENDÉRSELE EN SU EJERCICIO.
+
+Se entenderá por Alienación Parental, la conducta de uno de los progenitores, tendiente a sugestionar o influir negativamente a los hijos, en contra del otro, provocándole a estos, sentimientos negativos, como rechazo o distanciamiento; serán consideradas como atentados en contra del vínculo de los hijos, con el progenitor ausente, las siguientes conductas:
+
+I. Impedir que el otro progenitor ejerza el derecho de convivencia con sus hijos;
+
+II. Desvalorizar e insultar al otro progenitor en presencia de los niños y en ausencia del mismo;
+
+III. Ridiculizar los sentimientos de afecto de los niños hacia el otro progenitor;
+
+IV. Provocar, promover o premiar las conductas despectivas y de rechazo hacia el otro progenitor;
+
+V. Influenciar con mentiras o calumnias respecto de la figura del progenitor ausente, insinuando o afirmando al o los menores abiertamente, que pretende dañarlos;
+
+VI. Presentar falsas alegaciones de abuso en los juzgados para separar a los niños del otro progenitor y;
+
+VII. Cambiar de domicilio, con el único fin de impedir, obstruir, e incluso destruir la relación del progenitor ausente con sus hijos.
+
+En cualquier momento en que se presentare Alienación Parental por parte de alguno de los progenitores hacia los hijos, el Juez de lo Familiar, de oficio ordenará las medidas terapéuticas necesarias para los menores hijos y sus padres, con la finalidad de restablecer la sana convivencia con ambos progenitores. Para estos efectos, ambos progenitores tendrán la obligación de colaborar en el cumplimiento de las medidas que sean determinadas, pudiendo el juez hacer uso de las medidas de apremio que establezca el presente Código para su cumplimiento.
+
 ###### ARTICULO 421.
 
 El que está sujeto a la patria potestad no puede comparecer en juicio, ni contraer obligación alguna, sin expreso consentimiento del que o de los que ejerzan aquel derecho. En caso de irracional disenso, resolverá el Juez.
@@ -3152,6 +3184,12 @@ IV.- Cuando quienes ejercen la patria potestad permitan o toleren que otras pers
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE SEPTIEMBRE DE 2016)</small>
 
 V.- Por el abandono sin causa justificada que el padre, la madre o quien ejerza la patria potestad hiciere de las personas menores de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho, por más de tres meses en alguna institución de asistencia pública o privada, siempre y cuando no haya otra persona en quien recaiga, en términos de lo dispuesto en el artículo 411 de este código;
+
+(NOTA: EL 12 DE NOVIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 120/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE NOVIEMBRE DE 2019, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2017)</small>
+
+VI.- DERIVADO DEL INCUMPLIMIENTO A LO ESTABLECIDO EN EL ARTÍCULO 420 BIS Y A CONSIDERACIÓN DEL JUEZ SEA IMPOSIBLE LA CONVIVENCIA, ANTEPONIENDO SIEMPRE EL INTERÉS SUPERIOR DEL MENOR.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE SEPTIEMBRE DE 2016)</small>
 
@@ -16531,6 +16569,12 @@ P.O. 28 DE OCTUBRE DE 2016.
 
 P.O. 28 DE OCTUBRE DE 2016.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NO. 632 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN SEGUNDO PÁRRAFO AL ARTÍCULO 301 Y LA REFORMA DEL SEGUNDO PÁRRAFO AL ARTÍCULO 308 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 632 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN SEGUNDO PÁRRAFO AL ARTÍCULO 301 Y LA REFORMA DEL SEGUNDO PÁRRAFO AL ARTÍCULO 308 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 95 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 279, 281 Y 419 DEL CÓDIGO CIVIL, ARTÍCULO 926 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES Y ARTÍCULO 21 DE LA LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
