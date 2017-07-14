@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-ministerio-publico-del-estado-de-guanajuato-78
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-24"
-last_updated: "2016-07-01"
+last_updated: "2017-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78873&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2017.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 24 de diciembre de 2010.
 
@@ -145,9 +145,9 @@ I. El Procurador General de Justicia;
 
 II. Las Subprocuradurías;
 
-> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
 
-III. La Fiscalía Especializada en Investigación de Delitos cometidos por Servidores Públicos;
+III. La Fiscalía Especializada en Combate a la Corrupción;
 
 > <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -256,6 +256,56 @@ XXV. Las demás áreas que deriven del marco normativo.
 > <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 Asimismo, la Procuraduría tendrá a su cargo la administración, dirección y coordinación del Centro de Justicia para las Mujeres del Estado de Guanajuato.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
+
+Fiscalía Especializada en Combate a la Corrupción
+
+###### Artículo 7 Bis.
+
+La Fiscalía Especializada en Combate a la Corrupción es el órgano con autonomía técnica y operativa, cuyo objeto primordial es investigar y perseguir los delitos en materia de corrupción; contará con personal sustantivo, directivo, administrativo, especializado y auxiliar, así como con las unidades administrativas necesarias para el debido cumplimiento de sus funciones y el seguimiento de las investigaciones.
+
+Tendrá su sede en el municipio de Guanajuato, y contará con competencia para ejercer sus atribuciones en todo el Estado. Para el desarrollo de sus funciones se auxiliará de las áreas y personal correspondiente de la Agencia de Investigación Criminal, así como de las Subprocuradurías.
+
+El titular de la Fiscalía Especializada en Combate a la Corrupción deberá ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos y preferentemente guanajuatense; tener cuando menos treinta y cinco años cumplidos el día de su designación; contar con experiencia mínima de diez años en materia penal, específicamente en la investigación y persecución del delito; con título profesional de licenciado en derecho; gozar de buena reputación, no haber sido condenado ni estar sujeto a proceso penal por delito doloso y no ser o haber sido dirigente de partido o asociación política a nivel nacional o estatal, o candidato a puesto de elección popular, ni ministro de ningún culto religioso, en los cinco años anteriores a su nombramiento.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
+
+Atribuciones de la Fiscalía Especializada en Combate a la Corrupción
+
+###### Artículo 7 Ter.
+
+La Fiscalía Especializada en Combate a la Corrupción contará con las siguientes atribuciones:
+
+I. Ejercer, en lo relativo a los delitos en materia de corrupción, las atribuciones que la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política para el Estado de Guanajuato, las leyes, los reglamentos y demás disposiciones jurídicas confieren al Ministerio Público;
+
+II. Participar como integrante en el Comité Coordinador del Sistema Estatal Anticorrupción;
+
+III. Coordinar y supervisar la actuación de la policía, en el ámbito de su competencia, en los términos de lo dispuesto en el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos y 11 de la Constitución Política para el Estado de Guanajuato;
+
+IV. Diseñar e implementar estrategias y líneas de acción para combatir los hechos que las leyes consideren como delitos en materia de corrupción;
+
+V. Instrumentar mecanismos de colaboración con otras autoridades para la elaboración de estrategias y programas tendientes a combatir los hechos que las leyes consideren como delitos en materia de corrupción:
+
+VI. Fortalecer e implementar, en el ámbito de su competencia, mecanismos de cooperación y colaboración con autoridades de los tres órdenes de gobierno para la investigación de los hechos que la ley considere como delitos en materia de corrupción;
+
+VII. Implementar mecanismos de colaboración con autoridades que ejerzan facultades de fiscalización a fin de fortalecer el desarrollo de las investigaciones;
+
+VIII. Ordenar el aseguramiento de bienes propiedad de la persona imputada, así como de aquellos respecto de los cuales se conduzca como dueño, beneficiario o beneficiario controlador, cuyo valor equivalga al producto, los instrumentos u objetos del hecho delictivo, o cuando éstos hayan desaparecido o no se localicen por causa atribuible al imputado;
+
+IX. Requerir a las instancias de gobieno (sic) la información que resulte útil o necesaria para sus investigaciones, la que por ningún motivo le podrá ser negada, incluso anteponiendo el secreto bancario, fiduciario o cualquiera de similar naturaleza, en términos de las disposiciones aplicables;
+
+X. Diseñar, integrar e implementar sistemas y mecanismos de análisis de la información fiscal, financiera y contable para que pueda ser utilizada por ésta y otras unidades competentes de la Procuraduría, en especial la relacionada con la investigación de delitos en materia de corrupción;
+
+XI. Conducir la investigación para la obtención de datos o medios de prueba vinculados a delitos en materia de corrupción;
+
+XII. Decidir responsablemente sobre el destino de los recursos que le sean asignados, a fin de cubrir las necesidades que surjan en el desempeño de sus atribuciones;
+
+XIII. Proponer a las áreas administrativas competentes de la Procuraduría, el contenido teórico práctico de los programas de capacitación, actualización y especialización, respecto del personal adscrito a la Fiscalía Especializada en Combate a la Corrupción;
+
+XIV. Nombrar, previo acuerdo con el Procurador General, al personal de la Fiscalía Especializada; y
+
+XV. Las demás que le sean conferidas en la legislación de la materia y en la normatividad emitida a tal efecto por el Procurador General de Justicia.
 
 Organización
 
@@ -461,7 +511,9 @@ I. El Procurador General de Justicia;
 
 II. Los Subprocuradores;
 
-III. Los Coordinadores y Subcoordinadores ministeriales, así como los Directores;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
+
+III. El Fiscal Especializado en Combate a la Corrupción, los Coordinadores, Subcoordinadores y Jefes Ministeriales, así como los Directores;
 
 IV. Los Agentes del Ministerio Público;
 
@@ -2119,9 +2171,11 @@ Los jefes de zona, agentes y delegados del Ministerio Público, lo harán ante e
 
 Ausencias temporales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2017)</small>
+
 ###### Artículo 132.
 
-Durante las ausencias temporales de los subprocuradores, del Visitador General, de los coordinadores ministeriales, de los directores ministeriales y de los agentes del Ministerio Público, serán suplidos respectivamente por quien designe el Procurador o el Subprocurador correspondiente.
+Durante las ausencias temporales de los subprocuradores, del Visitador General, del Fiscal Especializado en Combate a la Corrupción, de los coordinadores ministeriales, de los directores ministeriales y de los agentes del Ministerio Público, serán suplidos respectivamente por quien designe el Procurador o el Subprocurador correspondiente.
 
 En los procedimientos judiciales o administrativos en que deba intervenir el Procurador, incluyendo el juicio de amparo, podrá ser suplido por el funcionario que éste designe.
 
@@ -2358,3 +2412,39 @@ P.O. 1 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN".]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 14 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 207, DE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE REFORMAN LOS ARTÍCULOS 7 FRACCIÓN III, 23 FRACCIÓN III Y 132 PRIMER PÁRRAFO; Y SE ADICIONAN LOS ARTÍCULOS 7 BIS Y 7 TER DE LA LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE GUANAJUATO".]
+
+Vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Creación de la Fiscalía Especializada
+
+Artículo Segundo. En un plazo no mayor a treinta días posteriores a la entrada en vigor del presente Decreto, el Procurador General de Justicia del Estado expedirá el acuerdo de creación respectivo para la adecuada operación de la Fiscalía Especializada en Combate a la Corrupción.
+
+Nombramiento del Primer Fiscal Anticorrupción
+
+Artículo Tercero. A partir de la expedición del acuerdo de creación de la Fiscalía Especializada en Combate a la Corrupción de la Procuraduría General de Justicia del Estado, el Congreso del Estado nombrará, en un plazo no mayor a noventa días hábiles, por acuerdo de las dos terceras partes de sus miembros presentes al titular de dicha Fiscalía, previa convocatoria emitida por la Junta de Gobierno y Coordinación Política.
+
+Para tal efecto, las Comisiones Unidas de Gobernación y Puntos Constitucionales y de Justicia presentarán al Pleno del Congreso, el dictamen que contendrá hasta tres propuestas para elegir al Fiscal Especializado en Combate a la Corrupción.
+
+Aprobado el nombramiento por el Congreso del Estado, el Ejecutivo Estatal podrá objetarlo, por una sola ocasión, dentro de los siguientes diez días hábiles, en cuyo caso el Congreso procederá a realizar un nuevo nombramiento dentro de los siguientes treinta días.
+
+El titular de la fiscalía nombrado en términos del presente transitorio, podrá ser removido libremente por el Procurador General de Justicia del Estado. La remoción podrá ser objetada por el voto de la mayoría de los miembros presentes del Congreso del Estado, dentro de los siguientes diez días hábiles, en cuyo caso, el titular de la Fiscalía Especializada en Combate a la Corrupción, será restituido en el ejercicio de sus funciones.
+
+El Titular de la Fiscalía Especializada en Investigación de Delitos cometidos por Servidores Públicos de la Procuraduría General de Justicia del Estado de Guanajuato, que se encuentre en funciones a la entrada en vigor del presente Decreto, desempeñará provisionalmente el cargo de Fiscal Especializado en Combate a la Corrupción, hasta en tanto el Congreso del Estado nombre al Titular de dicha fiscalía, sin perjuicio de ser considerado en el proceso de nombramiento, atendiendo a los requisitos legales y principios de certeza, imparcialidad y legalidad.
+
+En caso de que la autonomía constitucional de la Fiscalía General del Estado entre en vigor, previo al nombramiento del primer Titular de la Fiscalía Especializada en Combate a la Corrupción por parte del Congreso del Estado, corresponderá al Fiscal General el nombramiento de dicho cargo.
+
+Aprobado el nombramiento por el Fiscal General, el Congreso del Estado podrá objetarlo, dentro de los siguientes diez días hábiles, en cuyo caso se procederá a realizar uno nuevo.
+
+Asignación presupuestaria
+
+Artículo Cuarto. El Poder Legislativo y la Secretaría de Finanzas, Inversión y Administración, en el ámbito de sus respectivas competencias, realizarán las acciones necesarias para proveer de recursos a la Procuraduría General de Justicia del Estado para el debido cumplimiento del presente Decreto.
+
+Transferencia de recursos y seguimiento de asuntos
+
+Artículo Quinto. Los recursos materiales asignados, los asuntos que tiene a su cargo y el personal adscrito a la actual Fiscalía Especializada en Investigación de Delitos cometidos por Servidores Públicos de la Procuraduría General de Justicia del Estado, serán transferidos a la Fiscalía Especializada en Combate a la Corrupción.
