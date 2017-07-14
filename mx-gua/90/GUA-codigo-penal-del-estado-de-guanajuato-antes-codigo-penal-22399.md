@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2016-10-25"
+last_updated: "2017-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # CODIGO PENAL DEL ESTADO DE GUANAJUATO -ANTES CODIGO PENAL PARA EL ESTADO DE GUANAJUATO-
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO PENAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2017.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -36,8 +38,6 @@ QUE EL H. CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, HA 
 DECRETO NUMERO 341.
 
 LA QUINCUAGESIMA SEPTIMA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, DECRETA:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA DENOMINACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -63,8 +63,6 @@ Se tendrá por cometido el delito en el lugar en que se realice la conducta o se
 
 Los delitos se tendrán por cometidos en el tiempo en que se realice la conducta o se produzca el resultado, previstos en la descripción legal y se juzgarán de conformidad con las leyes vigentes en el momento de su comisión.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 4o.
@@ -76,8 +74,6 @@ La pena impuesta se reducirá en la misma proporción en que estén el término 
 ###### Artículo 5o.
 
 Cuando una nueva ley deje de considerar un determinado hecho como delictuoso, se ordenará la libertad inmediata e incondicional de las personas procesadas o sentenciadas, cesando a partir de ese momento todos los efectos que los procesos o las sentencias produzcan o debieran producir.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -98,8 +94,6 @@ Las personas que al cometer una conducta tipificada como delito por las leyes pe
 Quienes al realizar una conducta prevista como delito en las leyes penales sean menores de doce años, sólo serán sujetos a rehabilitación y asistencia social conforme a las leyes que regulan su protección.
 
 ### CAPÍTULO IV. OTRAS LEYES
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -133,43 +127,29 @@ Es continuado cuando con unidad de propósito delictivo y pluralidad de conducta
 
 Se consideran como delitos graves, para todos los efectos legales los siguientes:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
 I.- Homicidio doloso previsto por los artículos 139, 140, 152, 153 y 153-a, así como en grado de tentativa con relación al artículo 18.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
 II.- Lesiones previsto por los artículos 145 y 147.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
 III.- Homicidio en razón de parentesco o relación familiar previsto por el artículo 156, así como en grado de tentativa con relación al artículo 18.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
 IV.- Aborto previsto por el artículo 158 en relación al artículo 161.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
 V.- Secuestro previsto por los artículos 173 y 174, el previsto en la fracción I y el último párrafo del artículo 175-a, así como en grado de tentativa con relación al artículo 18.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
 VI.- Trata de personas a que se refieren los artículos 179-a, 179-b y 179-c.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -183,25 +163,17 @@ VIII.- Abusos sexuales previsto en los párrafos segundo y tercero del artículo
 
 IX.- Robo calificado previsto por el artículo 194 en relación con la fracción V del artículo 191; el previsto por las fracciones I y IV del artículo 194, con independencia de la cuantía del robo; el robo previsto en los artículos 191-b, 194-a, 194-b y 194-c, con independencia de la cuantía; así como el robo calificado en grado de tentativa previsto en el artículo 192, con relación al artículo 18.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
 X.- Daños dolosos previsto por el artículo 211.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
 XI.- Daños dolosos previsto por el artículo 212.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
 XII.- Extorsión previsto por el artículo 213.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -242,8 +214,6 @@ Obra dolosamente quien quiere la realización del hecho legalmente tipificado o 
 ###### Artículo 14.
 
 Obra culposamente quien produce un resultado típico que no previó siendo previsible o que previó confiando en que no se produciría, siempre que dicho resultado sea debido a la inobservancia del cuidado que le incumbe, según las condiciones y sus circunstancias personales.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -329,15 +299,11 @@ Hay concurso real cuando una persona cometa varios delitos ejecutados, dolosa o 
 
 Hay concurso ideal cuando con una sola conducta, dolosa o culposa, se cometan varios delitos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 30.
 
 En caso de concurso real se aplicará la punibilidad del delito que merezca mayor sanción, la cual se aumentará hasta la suma de las sanciones de los demás delitos, sin que la de prisión exceda de cuarenta años.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -345,17 +311,11 @@ En caso de concurso real se aplicará la punibilidad del delito que merezca mayo
 
 En caso de concurso ideal, se impondrá la sanción correspondiente al delito de mayor punibilidad, la cual, si el tribunal lo considera adecuado, podrá aumentarse hasta una mitad más del máximo de las correspondientes a los delitos restantes, siempre que sean de la misma naturaleza; cuando sean de diversa naturaleza, podrán imponerse las consecuencias jurídicas señaladas para los restantes delitos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 En tal caso, la pena de prisión no podrá exceder de cuarenta años.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -419,6 +379,10 @@ IX.- Atentas las circunstancias que concurren en la realización de una conducta
 
 X.- El resultado típico se produce por caso fortuito.
 
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2017)</small>
+
+XI. Se obre en defensa de bienes jurídicos, propios o ajenos, contra agresión ilegítima por intrusión actual a casa habitación.
+
 ###### Artículo 34.
 
 A quien actúa justificadamente, en los términos de las fracciones III, IV, V y VI del artículo anterior, pero excede los límites impuestos por la ley o por la necesidad, se le aplicará de un tercio del mínimo a un tercio del máximo de la punibilidad señalada al tipo penal de que se trate.
@@ -453,8 +417,6 @@ II.- Semilibertad.
 
 III.- Trabajo en favor de la comunidad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
 IV.- Multa.
@@ -462,8 +424,6 @@ IV.- Multa.
 V.- Decomiso de los instrumentos del delito y destrucción de cosas peligrosas y nocivas.
 
 VI.- Suspensión, privación e inhabilitación de derechos, destitución o suspensión de funciones o empleos e inhabilitación para su ejercicio y desempeño.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -484,8 +444,6 @@ La prisión consiste en la privación de la libertad personal, en la institució
 ###### Artículo 40.
 
 En toda pena de prisión impuesta se computará el tiempo de la prisión preventiva o de la detención, en su caso.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -559,8 +517,6 @@ El juez o el tribunal podrán conceder al sentenciado la semilibertad condiciona
 
 I.- Que haya pagado la reparación del daño y la multa.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
 II.- Que otorgue la caución que le sea fijada por el juez o el tribunal.
@@ -573,8 +529,6 @@ IV.- Que tenga un modo honesto de vivir.
 
 V.- Que sea la primera vez que comete un delito doloso o hayan transcurrido diez años de la condena por delito de igual forma de culpabilidad, o que no exceda de la segunda vez que comete un delito culposo en los últimos cinco años posteriores a la condena.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 49.
@@ -583,13 +537,9 @@ El juez o el tribunal del conocimiento al dictar la sentencia definitiva resolve
 
 En caso de incumplimiento de los sustitutivos de libertad condicionada o trabajo a favor de la comunidad se ordenará que se haga efectiva la pena de prisión impuesta, en su caso se librará orden de aprehensión.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA DENOMINACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JUNIO DE 2011)</small>
 
 ### CAPÍTULO IV. MULTA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 50.
 
@@ -603,15 +553,11 @@ La multa es la sanción pecuniaria consistente en el pago al Estado de una suma 
 
 Por lo que respecta al delito continuado, se atenderá a la Unidad de Medida y Actualización diaria vigente al momento en que se realizó la última conducta y para el permanente el que esté en vigor en el momento en que haya cesado el hecho.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 52.
 
 Para la fijación de la cuantía de la multa, el juez o el tribunal deberá tomar en consideración la capacidad económica del sentenciado. En caso de que no pudiera pagarla, total o parcialmente, la cubrirá con el producto del trabajo que realice en el lugar designado por el Ejecutivo. En caso de imposibilidad para efectuar trabajo alguno, se le perdonará la multa, siempre que no fuese la única sanción impuesta.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -623,139 +569,93 @@ Atendiendo a las circunstancias personales del sentenciado, el juez o el tribuna
 
 Tratándose de la multa sustitutiva de la pena privativa de libertad, en cualquier tiempo podrá cubrirse su importe.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 ###### Artículo 55.
 
 (DEROGADO, P.O. 3 DE JUNIO DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 56.
 
 (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 ###### Artículo 57.
 
 (DEROGADO, P.O. 3 DE JUNIO DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 58.
 
 (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 ###### Artículo 59.
 
 (DEROGADO, P.O. 3 DE JUNIO DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 60.
 
 (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 ###### Artículo 61.
 
 (DEROGADO, P.O. 3 DE JUNIO DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 62.
 
 (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 ###### Artículo 63.
 
 (DEROGADO, P.O. 3 DE JUNIO DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 64.
 
 (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 ###### Artículo 65.
 
 (DEROGADO, P.O. 3 DE JUNIO DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 66.
 
 (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 ###### Artículo 67.
 
 (DEROGADO, P.O. 3 DE JUNIO DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 68.
 
 (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 ###### Artículo 69.
 
 (DEROGADO, P.O. 3 DE JUNIO DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 70.
 
 (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 ###### Artículo 71.
 
 (DEROGADO, P.O. 3 DE JUNIO DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 72.
 
 (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 ###### Artículo 73.
 
 (DEROGADO, P.O. 3 DE JUNIO DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 74.
 
 (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 ###### Artículo 75.
 
 (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 ###### Artículo 76.
 
 (DEROGADO, P.O. 3 DE JUNIO DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 77.
 
@@ -781,8 +681,6 @@ Si los instrumentos u objetos de uso ilícito sólo sirven para delinquir o son 
 
 Los instrumentos u objetos de lícito comercio decomisados, se venderán y su producto se ingresará al Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 82.
@@ -797,15 +695,11 @@ Tratándose de bienes de costoso mantenimiento o conservación, se procederá a 
 
 ### CAPÍTULO VII. PROHIBICIÓN DE IR A UNA DETERMINADA CIRCUNSCRIPCIÓN TERRITORIAL O DE RESIDIR EN ELLA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 84.
 
 La suspensión consiste en la pérdida temporal de derechos, funciones, cargos, empleos o comisiones que se estén ejerciendo. La privación de derechos estriba en su pérdida definitiva.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -830,8 +724,6 @@ La suspensión en el caso de la fracción II comprenderá los derechos previstos
 a) A partir de la fecha en que quede firme, si el reo se acoge al beneficio de la condena condicional o si paga la multa por la que se conmutó la pena corporal; y
 
 b) Desde el cumplimiento de la sanción privativa de libertad, en caso contrario.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -881,8 +773,6 @@ Cuando el sujeto haya sido sentenciado por un delito y éste se haya producido p
 
 ### CAPÍTULO XII. CONSECUENCIAS PARA LAS PERSONAS JURÍDICAS COLECTIVAS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 92.
@@ -890,8 +780,6 @@ Cuando el sujeto haya sido sentenciado por un delito y éste se haya producido p
 Al responsable del delito de violencia familiar o de un delito cometido contra una persona con quien tenga relación de parentesco, matrimonio, concubinato o análoga se le someterá a un tratamiento psicoterapéutico integral, para su reinserción.
 
 ### CAPÍTULO XIII. REPARACIÓN DEL DAÑO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -911,15 +799,11 @@ III.- Suspensión.
 
 IV.- Extinción.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 95.
 
 La prohibición de realizar determinadas operaciones podrá ser hasta por cinco años, se referirá exclusivamente a las que determine el juez o el tribunal y deberán tener relación directa con el delito cometido.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -939,21 +823,15 @@ La extinción consistirá en su disolución y liquidación total, sin que pueda 
 
 Al ordenarse la extinción se designará un liquidador, quien procederá al cumplimiento de las obligaciones contraídas por la persona jurídica colectiva, incluyendo las responsabilidades del delito cometido. Para tal efecto, deberá sujetarse a las disposiciones sobre prelación de créditos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE JUNIO DE 2011)</small>
 
 ### CAPÍTULO I. INDIVIDUALIZACIÓN
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 99
 
 a.- Toda víctima u ofendido por un delito tiene derecho a la reparación del daño, la cual se hará efectiva en los términos de las disposiciones de este Capítulo, de la legislación penal del Estado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -973,8 +851,6 @@ V.- El pago de los alimentos caídos en términos del Código Civil para el Esta
 
 VI.- El pago del valor de las obras necesarias para introducir los servicios básicos, el de los lotes que se encuentren afectados por el Plan de Desarrollo Urbano Municipal y el de las obras necesarias para dar acceso vial al predio conforme al artículo 262.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 99
@@ -991,15 +867,11 @@ IV.- Los dueños de mecanismos, instrumentos, aparatos, vehículos o sustancias 
 
 V.- El Estado y los municipios, por los delitos que sus funcionarios o empleados cometan en el desempeño de sus funciones públicas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 99
 
 d.- Cuando la reparación del daño sea exigible a terceros, tendrá el carácter de responsabilidad civil.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -1008,8 +880,6 @@ d.- Cuando la reparación del daño sea exigible a terceros, tendrá el carácte
 e.- La reparación del daño como responsabilidad civil, podrá exigirse solidariamente al tercero obligado.
 
 Cuando el tercero obligado sea el Estado o los municipios, éstos responderán solidariamente por los delitos dolosos de sus servidores públicos y subsidiariamente cuando fueren culposos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -1021,15 +891,11 @@ I.- El ofendido o la víctima del delito; y
 
 II.- Las personas que dependían económicamente de él, conjuntamente con quienes tengan derecho a alimentos conforme a la ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 99
 
 g.- Se presume, salvo prueba en ·contrario, que dependían económicamente del sujeto pasivo el cónyuge o concubinario o concubina, sus descendientes y ascendientes en primer grado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -1037,15 +903,11 @@ g.- Se presume, salvo prueba en ·contrario, que dependían económicamente del 
 
 h.- En caso de que concurran todas las personas señaladas en el artículo anterior, tienen preferencia el cónyuge o concubinario o concubina y los descendientes en primer grado, en igual proporción.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 99
 
 i.- Quienes hubieren erogado gastos que conforme a esta ley deban ser a cargo del obligado a la reparación del daño, tendrán derecho a que se les resarzan, así como también los perjuicios derivados de tales gastos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -1053,15 +915,11 @@ i.- Quienes hubieren erogado gastos que conforme a esta ley deban ser a cargo de
 
 j.- La reparación del daño será fijada por los jueces y tribunales, atendiendo a las pruebas obtenidas en el proceso. No se podrá absolver a la persona sentenciada de la reparación del daño si se ha emitido una sentencia condenatoria.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 99
 
 k.- En todo tiempo podrán asegurarse bienes de la persona obligada a la reparación del daño para garantizar su pago.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -1077,15 +935,11 @@ Para el aseguramiento de bienes deberá mediar instancia del Ministerio Público
 
 m.- En caso de lesiones y homicidio, a falta de pruebas específicas respecto al daño causado, los jueces y tribunales tomarán como base la Unidad de Medida y Actualización diaria, vigente al momento del hecho y las disposiciones que sobre riesgos de trabajo establezca la Ley Federal del Trabajo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 99
 
 n.- Los objetos o instrumentos de uso lícito con que se cometa el delito, propiedad del inculpado, se asegurarán de oficio para garantizar el pago de la reparación del daño y solamente se levantará el aseguramiento o no se llevará a cabo si se otorga caución bastante en los términos de ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -1093,15 +947,11 @@ n.- Los objetos o instrumentos de uso lícito con que se cometa el delito, propi
 
 ñ.- Los responsables de un delito están obligados solidariamente a cubrir el importe de la reparación del daño.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 99
 
 o.- La obligación de pagar la reparación del daño es privilegiada a cualquiera otra que se hubiere contraído con posterioridad a la comisión del delito.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -1109,15 +959,11 @@ o.- La obligación de pagar la reparación del daño es privilegiada a cualquier
 
 p.- Si no se logra hacer efectivo todo el importe de la reparación del daño, lo que se obtenga se distribuirá proporcionalmente entre quienes tienen derecho a ella, atendiendo a las cuantías señaladas en la sentencia ejecutoria, sin perjuicio de que si posteriormente el obligado adquiere bienes suficientes se cubra lo insoluto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 99
 
 q.- Si las personas que tienen derecho a la reparación del daño renunciaren a ella o no la recogieren en un lapso de seis meses, si está a su disposición, su importe se aplicará en los términos de la ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -1127,23 +973,17 @@ r.- La reparación del daño moral será fijada por el juez o tribunal, conforme
 
 En los casos en que se condene al pago de la reparación del daño material, el monto de la indemnización del daño moral no podrá ser menor de un quinto del importe de aquélla.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 99
 
 s.- El juez o el tribunal, teniendo en cuenta la situación económica de la persona obligada, podrán fijar plazos para el pago de la reparación del daño, los que no excederán de un año.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 99
 
 t.- La multa y la reparación del daño en favor del Estado, se harán efectivas en los términos de las disposiciones fiscales correspondientes y su importe se aplicará en los términos de la ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -1152,8 +992,6 @@ t.- La multa y la reparación del daño en favor del Estado, se harán efectivas
 u.- La reparación del daño en favor de persona distinta del Estado, se ejecutará de oficio por el Juez, conforme a las disposiciones que para la ejecución señale la ley de la materia.
 
 Cuando la condena a la reparación del daño haya nacido de la acción penal pública, el Ministerio Público será parte.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -1166,8 +1004,6 @@ v.- Quien tenga derecho a la reparación del daño podrá optar por reclamarlo e
 ###### Artículo 99
 
 w.- Cuando se cubra de manera íntegra el daño, tratándose de delitos patrimoniales cometidos culposamente y que se persigan por querella, hasta antes de que exista sentencia ejecutoria, se extinguirá la acción penal siempre que el inculpado acredite un modo honesto de vivir.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -1235,8 +1071,6 @@ III.- Si tuvo tiempo para obrar con la reflexión y cuidado necesarios; y
 
 IV.- El estado del equipo, vías y demás condiciones de funcionamiento mecánico, tratándose de infracciones cometidas en la explotación de algún servicio público de transporte y, en general, por conductores de vehículos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 102.
@@ -1244,8 +1078,6 @@ IV.- El estado del equipo, vías y demás condiciones de funcionamiento mecánic
 Cuando por haber sufrido el sujeto activo consecuencias graves en su persona derivadas del delito o por senilidad o precario estado de salud, fuere notoriamente innecesaria e irracional la imposición de una pena privativa o restrictiva de libertad, el juez o el tribunal, de oficio o a petición de parte, podrá sustituirla por una medida de seguridad o no aplicarla. En los casos de senilidad o precario estado de salud, el juez o el tribunal se apoyará en dictámenes de peritos.
 
 ### CAPÍTULO IV. REGLAS COMUNES PARA LA CONMUTACIÓN Y LA CONDENA CONDICIONAL
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -1287,15 +1119,11 @@ En caso contrario se revocará la libertad y se hará efectiva la primera senten
 
 ### CAPÍTULO II. MUERTE DEL INCULPADO O SENTENCIADO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 108.
 
 El juez o el tribunal al dictar la sentencia definitiva, resolverán de oficio lo relativo a la conmutación y a la condena condicional.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -1311,21 +1139,15 @@ La conmutación y la condena condicional se cumplimentarán desde luego, a reser
 
 ### CAPÍTULO III. AMNISTÍA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 111.
 
 El cumplimiento de las sanciones impuestas en sentencia firme las extingue con todos sus efectos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ### CAPÍTULO IV. PERDÓN DEL SUJETO PASIVO DEL DELITO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -1363,8 +1185,6 @@ Si la persona incapaz tiene varios representantes y existiere desacuerdo entre e
 
 Si existen varias personas acusadas del mismo hecho punible, el perdón otorgado a una de ellas favorecerá a todas las demás.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ### CAPÍTULO VII. PRESCRIPCIÓN
@@ -1375,8 +1195,6 @@ Cualquiera que sea la sanción impuesta en sentencia ejecutoria, procede su anul
 
 ### CAPÍTULO VIII. CUMPLIMIENTO DE UN CRITERIO DE OPORTUNIDAD O DE LA SOLUCIÓN ALTERNA ADOPTADA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 118.
@@ -1384,8 +1202,6 @@ Cualquiera que sea la sanción impuesta en sentencia ejecutoria, procede su anul
 Cuando la persona inculpada fuere condenada por el mismo hecho en dos juicios distintos, se anulará la sentencia pronunciada en el segundo de ellos, extinguiéndose las sanciones impuestas en éste y todos sus efectos.
 
 ### CAPÍTULO IX. INDULTO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -1409,8 +1225,6 @@ IV.- Del día siguiente al en que se realice el último acto u omisión de la te
 
 La prescripción de la acción penal se interrumpe cuando la persona acusada es detenida o queda sujeta a proceso.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 122.
@@ -1421,15 +1235,11 @@ La suspensión no podrá durar más del término máximo de la punibilidad asign
 
 Si cesa la suspensión, a partir del día siguiente volverá a correr la prescripción.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 123.
 
 La acción penal prescribirá en el término máximo de la sanción privativa de libertad del delito que se trate.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -1453,23 +1263,17 @@ Cuando para ejercitar una acción penal sea necesaria una resolución previa de 
 
 Los términos para la prescripción de las sanciones serán continuos y se computarán una vez que la condena sea firme; correrán, si son privativas de libertad, a partir del día siguiente al en que la persona sentenciada se sustraiga a la acción de la autoridad; si no lo son, a partir del día siguiente de la sentencia ejecutoria.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 129.
 
 La sanción privativa de libertad prescribirá en un plazo igual al doble del fijado en la condena.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 130.
 
 Cuando se haya cumplido parte de la sanción privativa de libertad, se necesitará para la prescripción un plazo igual al doble del plazo no compurgado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -1485,21 +1289,15 @@ Las sanciones no previstas en los artículos anteriores prescribirán en un plaz
 
 La prescripción de las sanciones privativas de libertad sólo se interrumpe aprehendiendo al reo, aunque la aprehensión se ejecute por otro delito.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ### CAPÍTULO ÚNICO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 133
 
 a.- Cumplido el criterio de oportunidad aplicado o la solución alterna adoptada, se extinguirá la pretensión punitiva en favor de los sujetos y por los hechos por los cuales se hubieren aplicado, en los términos de las leyes aplicables.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -1518,8 +1316,6 @@ b.- El indulto extinguirá las sanciones impuestas, de conformidad con las leyes
 Las personas sentenciadas que hayan cumplido con su condena podrán solicitar la cancelación de sus antecedentes penales ante el Juez de Ejecución que hubiere conocido del asunto.
 
 La cancelación de antecedentes penales se tramitará en la forma prevista en la Ley de Ejecución de Medidas Judiciales y Sanciones Penales del Estado de Guanajuato.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -1545,8 +1341,6 @@ III.- Haber observado buena conducta.
 
 Las anotaciones de las medidas de seguridad impuestas conforme a lo dispuesto en este Código o en otras leyes penales serán canceladas una vez cumplida o prescrita la medida respectiva.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 137.
@@ -1565,23 +1359,17 @@ En el caso de los sentenciados a que se refiere el artículo 5o. de este Código
 
 Comete homicidio quien priva de la vida a otro.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 139.
 
 Al responsable de homicidio simple se le impondrá de diez a veinticinco años de prisión y de cien a doscientos cincuenta días multa.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 140.
 
 Al responsable de homicidio calificado se le impondrá de veinticinco a treinta y cinco años de prisión y de doscientos cincuenta a trescientos cincuenta días multa.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -1591,15 +1379,11 @@ A quien cometa homicidio con consentimiento válido del sujeto pasivo se le apli
 
 ### CAPÍTULO IV. FEMINICIDIO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 2013)</small>
 
 ###### Artículo 142.
 
 Comete lesiones quien causa a otro un daño en la salud.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -1615,15 +1399,11 @@ Al responsable del delito de lesiones que dejen cicatriz permanente y notable en
 
 Este delito se perseguirá por querella, salvo que se cometa de forma dolosa, caso en que se perseguirá de oficio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 145.
 
 Al responsable del delito de lesiones que pongan en peligro la vida, se le impondrá de tres a seis años de prisión y de treinta a sesenta días multa.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -1635,8 +1415,6 @@ Si el responsable de las lesiones repara el daño, la sanción será de uno a cu
 
 Este delito se perseguirá por querella, salvo que se cometa de forma dolosa, caso en que se perseguirá de oficio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 147.
@@ -1646,8 +1424,6 @@ A quien infiera una lesión que produzca enfermedad mental que perturbe gravemen
 ###### Artículo 148.
 
 Si con una sola conducta se produjeren varios de los resultados previstos en los artículos anteriores, solamente se aplicarán las sanciones correspondientes al de mayor gravedad.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -1665,21 +1441,15 @@ Cuando las lesiones sean calificadas, se aumentará la punibilidad de la mitad d
 
 Si el sujeto pasivo fuere ascendiente o descendiente consanguíneo en línea recta, colateral hasta el cuarto grado, pariente por afinidad con conocimiento de esa relación, cónyuge, concubinario o concubina, haya tenido una relación de matrimonio o concubinato, adoptante o adoptado, o estuviere bajo la guarda del autor de las lesiones, y éstas fueren causadas dolosamente, se aumentará de un mes a tres años de prisión a la sanción que correspondería con arreglo a los artículos precedentes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 Cuando las lesiones dolosas se deriven de violencia física o moral habitual que ejerciera el sujeto pasivo sobre el inculpado o sus ascendientes y descendientes en línea recta, cónyuge, concubinario o concubina, adoptante o adoptado, sólo se aumentará de quince días a dos años de prisión a la punibilidad que corresponde con arreglo a los artículos anteriores.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 A quien ejerciendo la patria potestad o la tutela infiera lesiones a los menores o pupilos bajo su guarda, el juez o el tribunal podrá imponerle además suspensión o privación en el ejercicio de tales derechos.
 
 ### CAPÍTULO V. HOMICIDIO Y LESIONES CULPOSOS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -1719,13 +1489,9 @@ VI.- Se causen por la asistencia y con motivo de la realización de un espectác
 
 En el caso a que se refiere la fracción VI, además de las punibilidades previstas por los artículos 140 y 150 de este Código, según corresponda, se aplicará la relativa a la prohibición de asistir a eventos con fines de espectáculo público hasta por un tiempo igual al de la pena de prisión impuesta.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 3 DE JUNIO DE 2011)</small>
 
 ### CAPÍTULO VI. HOMICIDIO EN RAZÓN DE PARENTESCO O RELACIÓN FAMILIAR
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -1761,8 +1527,6 @@ Si concurre con el mismo u otro delito, se acumularán las penas que por cada un
 
 a-1.- Si no se llegaren a probar los supuestos establecidos en el artículo 153-a, pero quien fue privada de la vida hubiere sido mujer, se aplicarán las sanciones del homicidio según la clasificación que le corresponda.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 (REUBICADO, ANTES CAPÍTULO IV, P.O. 3 DE JUNIO DE 2011)
 
 ### CAPÍTULO VII. ABORTO
@@ -1771,8 +1535,6 @@ a-1.- Si no se llegaren a probar los supuestos establecidos en el artículo 153-
 
 b.- A quien prive de la vida a otro en forma culposa será sancionado con pena de uno a cinco años de prisión y de diez a cincuenta días multa, salvo en aquellos casos específicos previstos en el presente capítulo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 154.
@@ -1780,8 +1542,6 @@ b.- A quien prive de la vida a otro en forma culposa será sancionado con pena d
 El homicidio culposo cometido por quien conduzca un vehículo bajo el influjo de bebidas embriagantes, estupefacientes o sustancias psicotrópicas se sancionará con dos a ocho años de prisión, veinte a ochenta días multa y suspensión para conducir vehículos de motor por igual término.
 
 Si solamente resultaren lesiones, a la pena de prisión fijada por el juez o el tribunal conforme al artículo 14, se agregará hasta una quinta parte y suspensión para conducir vehículos de motor por igual término.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -1797,21 +1557,15 @@ El homicidio y las lesiones culposos no serán punibles cuando el sujeto pasivo 
 
 El homicidio y las lesiones culposos serán punibles cuando el activo hubiese obrado bajo el influjo de bebidas embriagantes, estupefacientes o sustancias psicotrópicas o abandone injustificadamente a la víctima.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 (REUBICADO, ANTES CAPÍTULO V, P.O. 3 DE JUNIO DE 2011)
 
 ### CAPÍTULO VIII. INSTIGACIÓN O AYUDA AL SUICIDIO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 156.
 
 A quien prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, hermano, cónyuge, concubinario o concubina, adoptante o adoptado, con conocimiento de esa relación, se le sancionará con prisión de veinticinco a treinta y cinco años y de doscientos cincuenta a trescientos cincuenta días multa.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2013)</small>
 
@@ -1825,8 +1579,6 @@ A la madre que prive de la vida a su hijo dentro de las veinticuatro horas, inme
 
 Si el delito se cometiere en riña y el activo fuere el provocado, se aplicarán cuatro quintas partes de las sanciones anteriores.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 (REUBICADO, ANTES CAPÍTULO VI, P.O. 3 DE JUNIO DE 2011)
 
 ### CAPÍTULO IX. DELITOS DE PELIGRO PARA LA VIDA Y LA SALUD
@@ -1834,8 +1586,6 @@ Si el delito se cometiere en riña y el activo fuere el provocado, se aplicarán
 ###### Artículo 158.
 
 Aborto es la muerte provocada del producto de la concepción en cualquier momento de la preñez.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -1847,15 +1597,11 @@ A la mujer que provoque o consienta su aborto, se le impondrá de seis meses a t
 
 A quien cause el aborto con el consentimiento de la mujer, se le impondrá de uno a tres años de prisión y de diez a treinta días multa.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 161.
 
 A quien provoque el aborto sin el consentimiento de la mujer, se le impondrá de cuatro a ocho años de prisión y de cuarenta a ochenta días multa.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -1867,13 +1613,9 @@ Si en el aborto a que se refieren los dos artículos anteriores, participare un 
 
 No es punible el aborto cuando sea causado por culpa de la mujer embarazada ni el procurado o consentido por ella cuando el embarazo sea el resultado de una violación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 (REUBICADO, ANTES CAPÍTULO VII, P.O. 3 DE JUNIO DE 2011)
 
 ### CAPÍTULO I. PRIVACIÓN DE LA LIBERTAD
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -1882,8 +1624,6 @@ No es punible el aborto cuando sea causado por culpa de la mujer embarazada ni e
 A quien instigue o ayude a otra persona a suicidarse, se le impondrá de dos a diez años de prisión y de veinte a cien días multa, si el suicidio se consumare.
 
 Si el suicida es menor de dieciocho años o incapaz, al que instigue o ayude se le aplicarán de diez a veinte años de prisión y de cien a doscientos días multa.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 (REUBICADO, ANTES CAPÍTULO VIII, P.O. 3 DE JUNIO DE 2011)
 
@@ -1894,8 +1634,6 @@ Si el suicida es menor de dieciocho años o incapaz, al que instigue o ayude se 
 ###### Artículo 165.
 
 A quien abandone a una persona incapaz de valerse por sí misma, teniendo la obligación de cuidarla, se le impondrá de treinta y cinco a ciento treinta jornadas de trabajo en favor de la comunidad.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -1909,13 +1647,9 @@ A quien omita prestar el auxilio necesario, según las circunstancias, a quien s
 
 Quien culposamente hubiese lesionado a una persona y no le preste o facilite ayuda, será sancionado de cinco a doscientas jornadas de trabajo en favor de la comunidad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 Este delito se perseguirá por querella.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -1928,8 +1662,6 @@ Este delito se perseguirá por querella.
 ## TÍTULO SEGUNDO. DE LOS DELITOS CONTRA LA LIBERTAD Y SEGURIDAD DE LAS PERSONAS
 
 ### CAPÍTULO III. AMENAZAS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -1945,13 +1677,9 @@ Al particular que por cualquier medio coaccione a una persona para que le preste
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 ###### Artículo 171.
 
 (DEROGADO, P.O. 3 DE JUNIO DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -1968,8 +1696,6 @@ III.- El activo se ostente como autoridad, sin serlo.
 IV.- Se lleve a cabo por dos o más personas.
 
 ### CAPÍTULO IV. ALLANAMIENTO DE MORADA, DE DOMICILIO DE PERSONAS JURÍDICAS COLECTIVAS Y DE ESTABLECIMIENTOS ABIERTOS AL PÚBLICO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -2029,8 +1755,6 @@ Se requerirá querella cuando el delito se cometa entre cónyuges, concubinos, a
 
 ### CAPÍTULO V. TRATA DE PERSONAS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 176.
@@ -2040,8 +1764,6 @@ A quien intimide a otro con causarle daño en su persona o sus bienes jurídicos
 Este delito se perseguirá por querella.
 
 ### CAPÍTULO I. VIOLACIÓN
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -2055,19 +1777,13 @@ Este delito se perseguirá por querella.
 
 A quien se introduzca o permanezca sin permiso de una persona autorizada en el domicilio de una persona jurídica colectiva, pública o privada, despacho profesional u oficina, o en establecimiento mercantil o local abierto al público fuera de las horas de apertura, se le impondrá la sanción prevista en el artículo anterior.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 Este delito se perseguirá por querella.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 ###### Artículo 179.
 
 (DEROGADO, P.O. 3 DE JUNIO DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -2081,15 +1797,11 @@ a.- Comete el delito de trata de personas quien induzca, procure, permita, favor
 
 El consentimiento otorgado por la víctima en cualquier modalidad de este delito, no constituirá excluyente del mismo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 179
 
 b.- Comete también el delito de trata de personas, quien aún sin obtener algún provecho, promueva, facilite, consiga o entregue a un menor de dieciocho años o incapaz para que ejerza la prostitución.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -2113,8 +1825,6 @@ d) Cuando el sujeto activo del delito tenga parentesco por consaguinidad (sic), 
 
 ### CAPÍTULO III. REGLAS COMUNES PARA LOS DELITOS DE VIOLACIÓN Y ESTUPRO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ### Capítulo IV. Abusos Sexuales
@@ -2124,8 +1834,6 @@ d) Cuando el sujeto activo del delito tenga parentesco por consaguinidad (sic), 
 ## TÍTULO TERCERO. DE LOS DELITOS CONTRA LA LIBERTAD SEXUAL
 
 ### CAPÍTULO V. ACOSO SEXUAL Y HOSTIGAMIENTO SEXUAL
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -2138,8 +1846,6 @@ A quien por medio de la violencia imponga cópula a otra persona, se le impondr�
 ###### Artículo 181.
 
 A quien tenga cópula con menor de catorce años de edad o con persona que por cualquier causa no esté en posibilidad de conducirse voluntariamente en sus relaciones sexuales o de resistir la conducta delictuosa, se le impondrá de diez a diecisiete años de prisión y de cien a ciento setenta días multa.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -2173,8 +1879,6 @@ V.- Se cometa por quien ejerza un ministerio religioso o por el superior jerárq
 
 VI.- Se cometa por quien tenga a la persona ofendida bajo su guarda, custodia, educación o internado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 En estos casos la punibilidad se incrementará de un cincuenta por ciento del mínimo a un cincuenta por ciento del máximo de la señalada en los artículos 180, 181 y 182 según corresponda.
@@ -2182,8 +1886,6 @@ En estos casos la punibilidad se incrementará de un cincuenta por ciento del m�
 Cuando el activo ejerza sobre el ofendido la guarda, custodia, tutela o patria potestad, se le privará de ésta.
 
 ### CAPÍTULO ÚNICO. DIFAMACIÓN Y CALUMNIA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -2213,8 +1915,6 @@ Si como consecuencia de la violación o del estupro hubiere descendencia, la rep
 
 ### CAPÍTULO II. ABUSO DE CONFIANZA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 187.
@@ -2237,8 +1937,6 @@ Si el responsable del delito de abuso sexual es servidor público y lo comete en
 
 ### CAPÍTULO III. FRAUDE
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 187
@@ -2246,8 +1944,6 @@ Si el responsable del delito de abuso sexual es servidor público y lo comete en
 a.- A quien, por cualquier medio, acose a una persona a pesar de su oposición, para que ejecute un acto de naturaleza sexual, para sí o para un tercero, se le sancionará con seis meses a dos años de prisión y de cinco a veinte días multa.
 
 Este delito se perseguirá por querella.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -2267,8 +1963,6 @@ Se aplicará de tres a siete años de prisión y de treinta a setenta días mult
 
 Estos delitos se perseguirán de oficio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 187
@@ -2277,21 +1971,15 @@ d.- Si el responsable del delito de hostigamiento sexual es servidor público, s
 
 ### CAPÍTULO IV. USURA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ### CAPÍTULO V. DESPOJO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ## TÍTULO CUARTO. DE LOS DELITOS CONTRA EL HONOR
 
 ### CAPÍTULO VI. DAÑOS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -2300,8 +1988,6 @@ d.- Si el responsable del delito de hostigamiento sexual es servidor público, s
 A quien comunique dolosamente a otro la imputación que hace a una persona física o moral de un hecho cierto o falso que le cause o pueda causarle deshonra, descrédito o perjuicio, se le aplicará de seis meses a dos años de prisión y de cinco a veinte días multa.
 
 Este delito se perseguirá por querella.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -2325,8 +2011,6 @@ III.- Si el hecho imputado ha sido declarado cierto por sentencia firme y la per
 
 IV.- Si se manifiesta un parecer científico, técnico o artístico.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
 Cuando se cometan con posterioridad al fallecimiento de la persona ofendida, sólo se procederá por querella de quien tenga interés legítimo.
@@ -2334,8 +2018,6 @@ Cuando se cometan con posterioridad al fallecimiento de la persona ofendida, só
 ## TÍTULO QUINTO. DE LOS DELITOS CONTRA EL PATRIMONIO
 
 ### CAPÍTULO VII. EXTORSIÓN
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -2373,8 +2055,6 @@ Las sanciones señaladas en este artículo se reducirán en un tercio si se repa
 
 > <small>(DEROGADO CUARTO PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 191
@@ -2399,8 +2079,6 @@ V.- Traslade de un lugar a otro, uno o varios vehículos automotores robados o a
 
 VI.- Utilice uno o varios vehículos automotores robados o alterados de sus números de identificación vehicular, en la comisión de otro u otros delitos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 192.
@@ -2410,8 +2088,6 @@ Para estimar la cuantía del robo se atenderá al valor comercial de la cosa al 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
 En los casos de tentativa de robo, cuando no se hubiere determinado su monto, se aplicará de seis meses a tres años de prisión y de cinco a treinta días multa. Si la tentativa versa sobre robo con alguna de las calificativas previstas por el artículo 194, fracciones I, II, IV o VI, la punibilidad se aumentará de dos meses a dos años seis meses de prisión.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -2447,15 +2123,11 @@ IX.- (DEROGADA, P.O. 13 DE AGOSTO DE 2004)
 
 X.- El objeto robado sea una máquina agrícola o una bomba de agua, su arrancador, transformador, cables o cualquier otro equipo o aditamento destinado al riego de cultivos agrícolas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2011)</small>
 
 XI.- El objeto del robo sean documentos que integren prestaciones a favor del trabajador, utilizados para intercambiar bienes o servicios.
 
 En los casos de robo calificado las sanciones correspondientes al robo simple se aumentarán con prisión hasta de cinco años.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -2519,8 +2191,6 @@ Si en los actos mencionados participa algún servidor público que tenga a su ca
 
 A quien se apodere de una cosa propia, si ésta se encuentra por cualquier título legítimo en poder de otra persona, se aplicará de una a tres quintas partes de las sanciones del robo simple.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 Este delito se perseguirá por querella.
@@ -2535,8 +2205,6 @@ Se requerirá querella cuando el robo se cometa entre cónyuges, concubinos, asc
 
 ### CAPÍTULO VIII. DISPOSICIONES COMUNES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 ###### Artículo 198.
 
 A quien con perjuicio de tercero disponga o retenga una cosa mueble ajena, de la cual sólo se le haya transferido la tenencia y no el dominio, se le aplicará de uno a siete años de prisión y de diez a setenta días multa.
@@ -2547,13 +2215,9 @@ Este delito se perseguirá por querella.
 
 Se aplicarán las mismas sanciones previstas en el artículo anterior al dueño que teniendo en su poder una cosa que le haya sido embargada, disponga de ella o la retenga en perjuicio del embargante.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 Este delito se perseguirá por querella.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 200.
 
@@ -2585,8 +2249,6 @@ Los delitos previstos en este capítulo sólo se perseguirán por querella, salv
 
 ### CAPÍTULO I. INCUMPLIMIENTO DE LAS OBLIGACIONES DE ASISTENCIA FAMILIAR
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 205.
@@ -2596,8 +2258,6 @@ A quien por cualquier medio obtenga un rédito mensual igual o superior al Costo
 Este delito se perseguirá por querella.
 
 ### CAPÍTULO II. DELITOS CONTRA LA FILIACIÓN Y EL ESTADO CIVIL
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -2611,8 +2271,6 @@ II.- Se posesione materialmente de un inmueble de su propiedad en los casos en q
 
 III.- Distrajere o desviare en perjuicio de otra persona el curso de aguas que no le pertenezcan.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 Estos delitos se perseguirán por querella.
@@ -2621,13 +2279,9 @@ Estos delitos se perseguirán por querella.
 
 La sanción será aplicable aunque el derecho sea dudoso o esté sujeto a litigio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 El otorgamiento del perdón no generará derechos restitutorios en favor de la persona inculpada.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -2637,15 +2291,11 @@ Si el despojo se realiza por tres o más personas, se aplicará a los instigador
 
 Este delito se perseguirá por querella.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 ###### Artículo 209.
 
 (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
 ### CAPÍTULO III. BIGAMIA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -2661,23 +2311,17 @@ Las mismas penas a que se refiere el párrafo que antecede, se aplicarán cuando
 
 Estos delitos se perseguirán por querella, salvo que concurran con el delito de homicidio o lesiones graves o se trate de los delitos previstos en los tres artículos siguientes, caso en el cual se perseguirá de oficio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 211.
 
 Si el daño se causare a museos, archivos o edificios públicos o a bienes que tengan valor artístico o histórico, se le aplicará de uno a siete años de prisión y de diez a setenta días multa.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 211
 
 a.- Si el daño se causare mediante la aplicación de signos o caracteres gráficos con pinturas o substancias similares, en los inmuebles descritos en el artículo anterior, se aplicará la punibilidad prevista en el mismo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -2687,8 +2331,6 @@ Cuando el daño se cause por incendio, inundación o explosión, la punibilidad 
 
 ### CAPÍTULO IV. INCESTO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 213.
@@ -2696,8 +2338,6 @@ Cuando el daño se cause por incendio, inundación o explosión, la punibilidad 
 A quien obtenga un provecho indebido obligando a otra persona por medio de la violencia a dar, hacer o dejar de hacer algo en su perjuicio o en el de tercero, se le aplicará de uno a diez años de prisión y de diez a cien días multa.
 
 ### CAPÍTULO V. TRÁFICO DE MENORES
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -2739,8 +2379,6 @@ IV.- Sea servidor público o empleado en cualquier institución bancaria, financ
 
 ### CAPÍTULO ÚNICO. VIOLACIÓN A LAS LEYES DE INHUMACIÓN Y EXHUMACIÓN
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 215.
@@ -2765,15 +2403,11 @@ A quien se coloque dolosamente en estado de insolvencia con el propósito de elu
 
 ### CAPÍTULO I. INFORMACIÓN PARA QUE SE COMETA UN DELITO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 216.
 
 Se impondrá prisión de uno a seis años y de diez a sesenta días multa, a quien con el fin de alterar la filiación o el estado civil:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -2781,13 +2415,9 @@ I.- Inscriba o haga inscribir a una persona con una filiación que no le corresp
 
 II.- Omita la inscripción de un hijo suyo o declare falsamente su fallecimiento ante la autoridad competente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
 III.- Oculte, sustituya o exponga a un infante; o
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -2803,15 +2433,11 @@ A quien estando unido en legal matrimonio, contraiga otro, se le impondrá de se
 
 ### CAPÍTULO III. ARMAS PROHIBIDAS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 218.
 
 Al ascendiente consanguíneo, afín en primer grado o civil que tenga relaciones sexuales con su descendiente, se le impondrá de uno a cuatro años de prisión y de diez a cuarenta días multa.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -2821,8 +2447,6 @@ Se aplicará esta última sanción en caso de incesto entre hermanos.
 
 En el caso previsto en el primer párrafo, además, se privará a los ascendientes de los derechos de patria potestad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 219.
@@ -2831,19 +2455,13 @@ Se equipara al incesto y se castigará de uno a cuatro años de prisión y de di
 
 ### CAPÍTULO IV. RESPONSABILIDAD MÉDICA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 ###### Artículo 220.
 
 A quien con el consentimiento de quien ejerza la patria potestad o tenga a su cargo a un menor, injustificadamente lo entregue a un tercero a cambio de un lucro, se le aplicará de tres a nueve años de prisión y de treinta a noventa días multa. Las mismas penas se aplicarán a quienes otorguen el consentimiento, al tercero que reciba al menor y a quien lo entregue directamente sin intermediario.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 Si la entrega se hace sin consentimiento o se hiciere para la explotación del menor o con fines reprobables, la pena será de cuatro a diez años de prisión y de cuarenta a cien días multa.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -2857,8 +2475,6 @@ El Ministerio Público o el tribunal tomarán las medidas cautelares que estimen
 
 ### CAPÍTULO I. REVELACIÓN DE SECRETOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 221.
@@ -2869,13 +2485,9 @@ A quien ejerza violencia física o moral contra una persona con la que tenga rel
 
 Igual pena se aplicará cuando la violencia se ejerza contra quien haya mantenido una relación de las señaladas en el párrrafo (sic) anterior o no teniendo ninguna de las calidades anteriores cohabite en el mismo domicilio del activo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 La punibilidad prevista en este artículo se aplicará siempre que el hecho no constituya otro delito de mayor gravedad.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -2907,8 +2519,6 @@ f) Se tengan documentados ante autoridad antecedentes o denuncia de violencia fa
 
 g) Exista imposibilidad material de la víctima de denunciar.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 221
@@ -2918,8 +2528,6 @@ b.- Cuando la violencia se haga consistir en lesiones que por lo menos tarden en
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
 ### CAPÍTULO II. RESPONSABILIDAD MÉDICA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -2937,15 +2545,11 @@ Este delito se perseguirá por querella de quien tenga la guarda, custodia o tut
 
 ### CAPÍTULO I. ATAQUES A LAS VÍAS DE COMUNICACIÓN
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ## TÍTULO SEGUNDO. DE LA VIOLACIÓN A LAS LEYES DE INHUMACIÓN Y EXHUMACIÓN
 
 ### CAPÍTULO II. VIOLACIÓN DE CORRESPONDENCIA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -2959,13 +2563,9 @@ Cuando se realice cualquiera de las conductas previstas en el párrafo anterior,
 
 ## TÍTULO PRIMERO. DE LOS DELITOS CONTRA LA SEGURIDAD PÚBLICA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 3 DE JUNIO DE 2011)</small>
 
 ### CAPÍTULO I. FALSIFICACIÓN DE SELLOS Y MARCAS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -2973,13 +2573,9 @@ Cuando se realice cualquiera de las conductas previstas en el párrafo anterior,
 
 a.- Al servidor público que proporcione información que conozca con motivo de sus funciones para que se cometa cualquier hecho delictuoso, se le sancionará con tres a nueve años de prisión y de treinta a noventa días multa.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 (REUBICADO, ANTES CAPÍTULO I, P.O. 3 DE JUNIO DE 2011)
 
 ### CAPÍTULO II. FALSIFICACIÓN DE DOCUMENTOS O TARJETAS O USO DE DOCUMENTOS O TARJETAS FALSOS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -2988,8 +2584,6 @@ a.- Al servidor público que proporcione información que conozca con motivo de 
 Cuando se cometa algún delito por pandilla se aplicará a quienes intervengan en su comisión hasta una mitad más de las penas que les correspondan por el o los delitos cometidos.
 
 Para los efectos de esta disposición se entiende por pandilla la reunión habitual, ocasional o transitoria de tres o más personas que sin estar organizadas con fines delictuosos cometen en común algún delito.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -3003,21 +2597,15 @@ Cuando la asociación se integre por tres o más personas, permanentemente organ
 
 Si el integrante de la asociación es o ha sido miembro de alguna corporación de seguridad pública o es servidor público, las penas señaladas en los dos artículos anteriores se aumentarán hasta una mitad más y se le impondrá además destitución, en su caso e inhabilitación definitiva para desempeñar cargo, empleo o comisión públicos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 (REUBICADO, ANTES CAPÍTULO II, P.O. 3 DE JUNIO DE 2011)
 
 ### CAPÍTULO III. USURPACIÓN DE PROFESIONES
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 226.
 
 A quien sin la debida autorización fabrique, transmita, compre, porte o haga acopio de instrumentos que sólo puedan ser utilizados para agredir y que no tengan aplicación en actividades laborales o recreativas, se le aplicará de tres meses a tres años de prisión y de tres a treinta días multa.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 (REUBICADO, ANTES CAPÍTULO III, P.O. 3 DE JUNIO DE 2011)
 
@@ -3031,19 +2619,11 @@ Artículo 235 bis.- A quien dolosamente, por sí o por interpósita persona, pre
 
 (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 ###### Artículo 228.
 
 (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
-## TÍTULO SEGUNDO
-
-DE LOS DELITOS COMETIDOS EN EL EJERCICIO DE LA PROFESIÓN,
-
-CARGO, EMPLEO U OFICIO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA NUMERACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+## TÍTULO SEGUNDO. DE LOS DELITOS COMETIDOS EN EL EJERCICIO DE LA PROFESIÓN, CARGO, EMPLEO U OFICIO
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -3061,13 +2641,9 @@ A quien con perjuicio de otro revele algún secreto o comunicación reservada qu
 
 Este delito se perseguirá por querella.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE JUNIO DE 2011)</small>
 
 ### CAPÍTULO ÚNICO. LENOCINIO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -3076,8 +2652,6 @@ Este delito se perseguirá por querella.
 a.- Al médico que habiendo aceptado hacerse cargo de la atención de una persona lesionada o enferma, la abandone o le niegue el servicio requerido sin motivo justificado, se le impondrá prisión de uno a cinco años y de diez a cincuenta días multa.
 
 Este delito se perseguirá por querella.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -3095,8 +2669,6 @@ La misma sanción se impondrá a los administradores o encargados de agencias fu
 
 ### CAPÍTULO I. REBELIÓN
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 230.
@@ -3104,8 +2676,6 @@ La misma sanción se impondrá a los administradores o encargados de agencias fu
 A quien destruya, deteriore, obstruya, impida o altere el funcionamiento de cualquier vía de comunicación de uso público, se le aplicará de uno a cinco años de prisión y de diez a cincuenta días multa.
 
 ### CAPÍTULO II. SEDICIÓN
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -3125,8 +2695,6 @@ Se requerirá querella de parte ofendida cuando se trate de ascendientes y desce
 
 ### CAPÍTULO III. MOTÍN
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 232.
@@ -3141,8 +2709,6 @@ II.- Enajene, adquiera o haga uso de sellos o marcas oficiales falsos.
 
 ### CAPÍTULO IV. TERRORISMO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 233.
@@ -3153,8 +2719,6 @@ A quien con el fin de obtener provecho o causar daño imite o simule un document
 
 Si se realizan las conductas descritas en el párrafo anterior con el propósito de acreditar o pretender acreditar la propiedad o identificación de un vehículo automotor, se impondrá prisión de tres a diez años y de treinta a cien días multa.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 234.
@@ -3164,8 +2728,6 @@ A quien ilícitamente hiciere uso de un documento falso, sea público o privado,
 > <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 Si se realizan las conductas descritas en el párrafo anterior con el propósito de acreditar o pretender acreditar la propiedad o identificación de un vehículo automotor, se impondrá prisión de tres a diez años y de treinta a cien días multa.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -3211,13 +2773,9 @@ A quien ejerza los actos propios de una profesión o especialidad sin tener tít
 
 ### CAPÍTULO I. COHECHO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ### CAPÍTULO II. PECULADO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -3226,8 +2784,6 @@ A quien ejerza los actos propios de una profesión o especialidad sin tener tít
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE AGOSTO DE 2004)</small>
 
 ### CAPÍTULO III. CONCUSIÓN
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -3240,8 +2796,6 @@ A quien por cualquier medio obligue, emplee, facilite o induzca a una persona me
 ###### Artículo 236
 
 a.- Se impondrá de dos a seis años de prisión y de ciento cincuenta a mil quinientos días multa, a quien realice exhibiciones sexuales en presencia de menores de dieciocho años o de incapaces.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -3265,8 +2819,6 @@ III.- Posea material de pornografía infantil, que no tenga otro destino que su 
 
 A quien procure, facilite o mantenga en la corrupción a un menor de dieciocho años de edad o a un incapaz, mediante actos lascivos o sexuales, o lo induzca a la mendicidad, ebriedad, a realizar una conducta sexual, al uso de substancias de cualquier naturaleza dañosa a la salud, a formar parte de una asociación delictuosa o a cometer cualquier delito, se le aplicará prisión de tres a ocho años y de cincuenta a doscientos días multa. Si el agente ejerce violencia sobre el pasivo la sanción se aumentará hasta una tercera parte.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 238.
@@ -3283,27 +2835,19 @@ Las sanciones que señalan los artículos anteriores se aumentarán hasta en una
 
 ### CAPÍTULO IV. ENRIQUECIMIENTO ILÍCITO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 239
 
 a.- Además de las sanciones impuestas a quienes incurran en los delitos descritos en este capítulo, quedarán inhabilitados para ser tutores o curadores.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA DENOMINACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JUNIO DE 2011)</small>
 
 ## TÍTULO SEXTO. DEL DELITO DE LENOCINIO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA DENOMINACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JUNIO DE 2011)</small>
 
 ### CAPÍTULO V. USURPACIÓN DE FUNCIONES PÚBLICAS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -3313,19 +2857,13 @@ A quien explote el cuerpo de otra persona por medio del comercio camal u obtenga
 
 Si la víctima fuere menor de dieciocho años o incapaz, se castigará con pena de cuatro a ocho años de prisión y de cuarenta a ochenta días multa. Si emplea la violencia, las penas se aumentarán hasta una mitad más.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 ###### Artículo 240
 
 a.- (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 ###### Artículo 240
 
 b.- (DEROGADO, P.O. 3 DE JUNIO DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 240
 
@@ -3335,13 +2873,9 @@ c.- (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
 ### CAPÍTULO VI. ABANDONO DE FUNCIONES PÚBLICAS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ### CAPÍTULO VII. FALSEDAD ANTE UNA AUTORIDAD
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -3350,8 +2884,6 @@ c.- (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 ## TÍTULO SEGUNDO. DE LOS DELITOS CONTRA LA ADMINISTRACIÓN PÚBLICA
 
 ### CAPÍTULO VIII. VARIACIÓN DE NOMBRE O DOMICILIO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -3371,8 +2903,6 @@ No se aplicará sanción por el delito de rebelión a quien habiéndose alzado d
 
 ### CAPÍTULO IX. DESOBEDIENCIA, RESISTENCIA Y EXIGENCIA DE PARTICULARES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 243.
@@ -3380,8 +2910,6 @@ No se aplicará sanción por el delito de rebelión a quien habiéndose alzado d
 A quienes en forma tumultuaria y violenta resistan o ataquen a la autoridad para impedir u obstaculizar el ejercicio de sus funciones, se les aplicará de tres meses a tres años de prisión y de tres a treinta días multa.
 
 ### CAPÍTULO X. TRÁFICO DE INFLUENCIAS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -3391,8 +2919,6 @@ A quienes para ejercitar un derecho o pretendido derecho tumultuariamente emplee
 
 ### CAPÍTULO XI. OPOSICIÓN A QUE SE EJECUTE ALGUNA OBRA O TRABAJOS PÚBLICOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 245.
@@ -3400,8 +2926,6 @@ A quienes para ejercitar un derecho o pretendido derecho tumultuariamente emplee
 A quien por cualquier medio realice actos en contra de las personas, las cosas o servicios al público, que produzcan alarma, temor o terror en la población o en un sector de ella, para perturbar la paz pública, menoscabar la autoridad del Estado o presionar a la autoridad para que tome una determinación, se le impondrá prisión de tres a quince años y de treinta a ciento cincuenta días multa.
 
 ### CAPÍTULO XII. QUEBRANTAMIENTO DE SELLOS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -3414,8 +2938,6 @@ Tratándose de personas extranjeras se aumentará hasta un tercio de la punibili
 ## TÍTULO TERCERO. DE LOS DELITOS CONTRA LA PROCURACIÓN Y ADMINISTRACIÓN DE JUSTICIA
 
 ### CAPÍTULO XIII. ABUSO DE AUTORIDAD
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -3449,11 +2971,13 @@ Si lo exigido indebidamente se convirtiera en provecho propio o de un particular
 
 Al servidor público que durante el tiempo de su cargo y por motivos del mismo, aumente ilícitamente su patrimonio o se conduzca como dueño de bienes no incluidos formalmente en aquél, se le aplicará de tres a doce años de prisión y de treinta a ciento veinte días multa, destitución del empleo o cargo e inhabilitación hasta por dieciocho años.
 
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
+
+Para efectos del párrafo anterior, se computarán entre los bienes que adquieran los servidores públicos o con respecto de los cuales se conduzcan como dueños, a los que reciban o de los que dispongan su cónyuge, concubina, concubinario, y ascendientes y descendientes en primer grado.
+
 Las mismas sanciones se aplicarán a quien haga figurar como suyos bienes que el servidor público adquiera o haya adquirido ilícitamente, a sabiendas de esa circunstancia.
 
 ### CAPÍTULO I. TORTURA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -3463,21 +2987,17 @@ A quien indebidamente se atribuya y ejerza funciones públicas, se le sancionar�
 
 Se sancionará con prisión de tres a doce años y de treinta a ciento veinte días multa a quien indebidamente se atribuya y ejerza funciones de seguridad pública.
 
-### CAPÍTULO II. DELITOS DE ABOGADOS, PATRONOS Y LITIGANTES
+### CAPÍTULO II. INTIMIDACIÓN
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
 
 ###### Artículo 252.
 
 A quien injustificadamente abandone las funciones públicas que legalmente tenga conferidas, se le sancionará con prisión de seis meses a dos años y de cinco a veinte días multa.
 
-### CAPÍTULO III. FRAUDE PROCESAL
+### CAPÍTULO III. DELITOS DE ABOGADOS, PATRONOS Y LITIGANTES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 253.
 
@@ -3485,71 +3005,55 @@ A cualquier persona que en la promoción, declaración, informe, peritaje, tradu
 
 Lo previsto en este artículo no es aplicable a quien tenga el carácter de inculpado.
 
-### CAPÍTULO IV. FALSAS DENUNCIAS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+### CAPÍTULO IV. FRAUDE PROCESAL
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
-### CAPÍTULO V. ATRIBUCIÓN INDEBIDA DE INDICIOS
+### CAPÍTULO V. FALSAS DENUNCIAS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+
+### CAPÍTULO VI. ATRIBUCIÓN INDEBIDA DE INDICIOS
 
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
-### CAPÍTULO VI. EVASIÓN DE DETENIDOS, INCULPADOS O SENTENCIADOS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+### CAPÍTULO VII. EVASIÓN DE DETENIDOS, INCULPADOS O SENTENCIADOS
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
-
-### CAPÍTULO VII. QUEBRANTAMIENTO DE SANCIONES
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ## TÍTULO CUARTO. DE LOS DELITOS CONTRA LA HACIENDA PÚBLICA
 
-### CAPÍTULO VIII. ENCUBRIMIENTO
+### CAPÍTULO VIII. QUEBRANTAMIENTO DE SANCIONES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 254.
 
 A quien para eludir el cumplimiento de un mandato de autoridad, oculte su nombre o domicilio, designe otro distinto, altere las señales materiales que lo individualizan o niegue de cualquier modo el verdadero, se le impondrá prisión de uno a cinco años y de diez a cincuenta días multa.
 
-### CAPÍTULO IX. EJERCICIO ARBITRARIO DEL PROPIO DERECHO
+### CAPÍTULO IX. ENCUBRIMIENTO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 255.
 
 ·A quien agotadas las medidas legales de apremio, se rehusare a cumplir un mandato de autoridad, se le aplicará de uno a cinco años de prisión y de diez a cincuenta días multa.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
-### CAPÍTULO I. DEFRAUDACIÓN FISCAL
+### CAPÍTULO X. EJERCICIO ARBITRARIO DEL PROPIO DERECHO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 256.
 
 A quien empleando la violencia física o moral se oponga a que una autoridad ejerza alguna de sus funciones o resista el cumplimiento de una de sus órdenes cuya ejecución se lleve a cabo en forma legal, se le aplicará de dos a seis años de prisión y de veinte a sesenta días multa.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
-### CAPÍTULO II. REGLAS COMUNES PARA LOS DELITOS CONTRA LA HACIENDA PÚBLICA
+### CAPÍTULO I. DEFRAUDACIÓN FISCAL
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 257.
 
@@ -3569,23 +3073,21 @@ III.- Valiéndose de la información que posea por razón de su empleo, cargo o 
 
 A quien con actos materiales entorpezca o se oponga a la ejecución de obras o trabajos públicos legalmente ordenados por una autoridad, se le impondrá de dos a seis años de prisión y de veinte a sesenta días multa.
 
-### CAPÍTULO ÚNICO. DELITOS ELECTORALES
+### CAPÍTULO II. REGLAS COMUNES PARA LOS DELITOS CONTRA LA HACIENDA PÚBLICA
 
 ###### Artículo 260.
 
 A quien quebrante sellos puestos por orden de una autoridad, se le aplicará de uno a cinco años de prisión y de diez a cincuenta días multa.
 
-### CAPÍTULO I. DELITOS CONTRA LA PRESERVACIÓN Y PROTECCIÓN AL AMBIENTE
-
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
+### CAPÍTULO ÚNICO. DELITOS ELECTORALES
 
 ###### Artículo 261.
 
 Al servidor público que dolosamente, con motivo de sus funciones exceda el límite de sus potestades o atribuciones, en detrimento de un particular o de la función pública, se le impondrá de dos a ocho años de prisión, de veinte a ochenta días multa, destitución del empleo o cargo e inhabilitación hasta por seis años.
 
-### CAPÍTULO II. DELITOS CONTRA LA GESTIÓN AMBIENTAL
+### CAPÍTULO I. DELITOS CONTRA LA PRESERVACIÓN Y PROTECCIÓN AL AMBIENTE
 
-> <small>(REFORMADO Y REUBICADO, P.O. 12 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
 
 ###### Artículo 262.
 
@@ -3593,15 +3095,13 @@ A quien promueva, induzca o aliente la formación o construcción de asentamient
 
 Cuando se trate de servidores públicos y se encuentre en cualquiera de los supuestos de este artículo, la pena se aumentará en un medio, y la destitución del empleo o cargo e inhabilitación de uno a diez años para desempeñar cualquier función pública.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 En todo caso, la reparación del daño referida en la fracción VI del artículo 99-b deberá ser pagada a la administración pública municipal del lugar en donde se ubique el inmueble.
 
 (ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE NOVIEMBRE DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DEL DECRETO PUBLICADO EL 2 DE NOVIEMBRE DE 2001, SE APRECIA LA EXISTENCIA DE ESTE CAPÍTULO.
 
-### CAPÍTULO III. REGLAS COMUNES A LOS DELITOS CONTRA EL AMBIENTE
+### CAPÍTULO II. DELITOS CONTRA LA GESTIÓN AMBIENTAL
 
 > <small>(REFORMADO Y REUBICADO, P.O. 12 DE JUNIO DE 2007)</small>
 
@@ -3617,15 +3117,19 @@ b.- Si se suspende el ocultamiento de manera espontánea dentro de las setenta y
 
 > <small>N. DE E. EL CONTENIDO DE ESTE CAPÍTULO EXISTÍA DESDE EL TEXTO ORIGINAL EN EL CAPÍTULO XV, PERO DEL ANÁLISIS A LA PUBLICACIÓN DE 12 DE NOVIEMBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER CAPÍTULO XVI.</small>
 
-### CAPÍTULO IV. DELITOS CONTRA LA VIDA Y LA INTEGRIDAD DE LOS ANIMALES
+### CAPÍTULO III. REGLAS COMUNES A LOS DELITOS CONTRA EL AMBIENTE
 
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 12 DE JUNIO DE 2007)</small>
 
 ###### Artículo 263.
 
 Para los efectos de este Código, se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial, a los funcionarios y empleados del Estado y de los municipios y, en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública estatal o municipal o en organismos descentralizados, desconcentrados, autónomos, fideicomisos públicos o empresas de participación estatal mayoritaria u organizaciones y sociedades asimiladas a éstas.
 
 ## TÍTULO QUINTO. DE LOS DELITOS EN MATERIA ELECTORAL
+
+### CAPÍTULO IV. DELITOS CONTRA LA VIDA Y LA INTEGRIDAD DE LOS ANIMALES
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 264.
 
@@ -3643,6 +3147,14 @@ No se considerarán causas excluyentes de responsabilidad del delito de tortura 
 
 No se considerarán tortura los dolores o sufrimientos que sean consecuencia únicamente de sanciones legítimas, o que sean inherentes o incidentes a éstas o a un acto legítimo de autoridad.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE JULIO DE 2017)</small>
+
+###### Artículo 264 Bis.
+
+Comete el delito de intimidación el servidor público que por sí, o por interpósita persona, utilizando la violencia física o moral, inhiba o intimide a cualquier persona para evitar que ésta o un tercero denuncie, formule querella o aporte información relativa a la presunta comisión de una conducta sancionada por la Legislación Penal o por la Ley de Responsabilidades Administrativas para el Estado de Guanajuato.
+
+Al que cometa el delito de intimidación se le impondrán de dos años a nueve años de prisión y de treinta a cien días multa.
+
 ###### Artículo 265.
 
 Se impondrá prisión de uno a cinco años, de diez a cincuenta días multa y suspensión hasta de cinco años del derecho de ejercer la actividad profesional a quien:
@@ -3655,19 +3167,13 @@ III.- Procure consecuencias nocivas para su cliente o representado.
 
 IV.- Alegue a sabiendas hechos falsos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
 V.- Procure dilaciones procesales notoriamente improcedentes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2011)</small>
 
 VI.- Como representante del inculpado, de la víctima o del ofendido, se abstenga de realizar gestiones, trámites o promociones relativas a su representación.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -3689,13 +3195,9 @@ Cuando esté pendiente el proceso que se instruya por el delito atribuido, se su
 
 a.- Se aplicará de dos a siete años de prisión y de veinte a setenta días multa a quien, para hacer que una persona aparezca como responsable de un delito, realice una conducta que proporcione indicios de responsabilidad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 ###### Artículo 268.
 
 (DEROGADO, P.O. 3 DE JUNIO DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 (REUBICADO, ANTES CAPÍTULO V, P.O. 3 DE JUNIO DE 2011)
 
@@ -3707,15 +3209,11 @@ Si el sujeto activo fuere servidor público en ejercicio de sus funciones, se le
 
 Si los evadidos fueren dos o más, se aumentarán las sanciones previstas en los párrafos anteriores, según corresponda, hasta tres años.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 270.
 
 Están exentos de pena los ascendientes del evadido, sus descendientes, cónyuge, concubinario o concubina, hermanos, parientes por afinidad hasta el segundo grado, parientes consanguíneos en línea colateral en segundo grado, excepto en el caso de que hayan proporcionado o favorecido la fuga por medio de la violencia o que fueran servidores públicos en ejercicio de sus funciones.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -3723,15 +3221,11 @@ Están exentos de pena los ascendientes del evadido, sus descendientes, cónyuge
 
 Si la reaprehensión del evadido se logra por contribución de la persona responsable de la evasión, sólo se le aplicará de dos meses a un año de prisión.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 272.
 
 Al detenido, inculpado o sentenciado que se evada, no se le aplicarán las sanciones de este capítulo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 (REUBICADO, ANTES CAPÍTULO VI, P.O. 3 DE JUNIO DE 2011)
 
@@ -3741,8 +3235,6 @@ A quien quebrante una pena de privación, suspensión o inhabilitación de derec
 
 A quien quebrante una pena no privativa de libertad, se le aplicará una sanción de un medio a un tanto y medio de la que hubiere omitido cumplir.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 (REUBICADO, ANTES CAPÍTULO VII, P.O. 3 DE JUNIO DE 2011)
 
 ###### Artículo 274.
@@ -3750,8 +3242,6 @@ A quien quebrante una pena no privativa de libertad, se le aplicará una sanció
 A quien teniendo conocimiento de la comisión de un delito y sin concierto previo ayude al agente a eludir la acción de la autoridad o entorpezca la investigación, se le aplicará de seis meses a cinco años de prisión y de cinco a cincuenta días multa.
 
 Si en los actos mencionados participa algún servidor público que tenga a su cargo funciones de prevención, investigación o persecución del delito; aplicación o ejecución de sanciones respecto de delitos, se le sancionará con dos a ocho a años de prisión y de veinte a ochenta días multa, la destitución del cargo y con inhabilitación para desempeñar cualquier empleo, cargo o comisión públicos por un período igual al de la pena de prisión.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -3772,8 +3262,6 @@ Si en los actos mencionados participa algún servidor público que tenga a su ca
 ###### Artículo 275
 
 a.- Se considera calificado el encubrimiento a que se refiere el artículo anterior, cuando el agente activo ya hubiere sido condenado en sentencia firme por el mismo delito y se castigará con las penas en aquél previstas, aumentadas hasta una mitad más.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -3799,15 +3287,11 @@ II.- El cónyuge, concubinario o concubina y parientes colaterales por consangui
 
 III.- Quienes estén ligados con el agente por amor, respeto, gratitud o estrecha amistad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 IV. El tutor, curador, pupilo.
 
 La excusa no favorecerá a quien obre por motivos reprobables o emplee medios delictuosos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 (REUBICADO, ANTES CAPÍTULO VIII, P.O. 3 DE JUNIO DE 2011)
 
@@ -3832,8 +3316,6 @@ La pena que corresponda al delito de defraudación fiscal se impondrá también 
 I.- Para registrar sus operaciones contables, fiscales o sociales, lleve dos o más controles contables o administrativos similares con distintos asientos o datos.
 
 II.- Haga mal uso de los incentivos fiscales o los aplique para fines distintos del que fueron otorgados.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -3865,8 +3347,6 @@ II.- Documentos públicos electorales: las boletas comiciales, actas oficiales d
 
 Se impondrá de diez a cien días multa y suspensión de sus derechos políticos hasta por dos años, a quien dolosamente:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 I.- (DEROGADA, P.O. 3 DE JUNIO DE 2011)
 
 II.- Altere o destruya una credencial para votar.
@@ -3887,15 +3367,11 @@ IX.- Induzca a otra persona a votar en favor de cualquier candidato o partido po
 
 X.- Vote a sabiendas de que no cumple con los requisitos estatuidos por la ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 286.
 
 Se impondrá de seis meses a tres años de prisión y de cincuenta a doscientos días multa, así como suspensión de sus derechos políticos hasta por tres años, a quien dolosamente:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 I.- (DEROGADA, P.O. 3 DE JUNIO DE 2011)
 
@@ -4268,3 +3744,15 @@ Artículo Primero. El presente Decreto entrará en vigencia al día siguiente al
 Artículo Segundo. El Poder Ejecutivo, por conducto de la Secretaría de Finanzas, Inversión y Administración, y el Poder Judicial deberán realizar las previsiones presupuestales necesarias a efecto de dar cumplimiento a lo establecido en el presente Decreto.
 
 Artículo Tercero. En un término de cinco años, contados a partir del inicio de vigencia del presente Decreto, el Congreso del Estado deberá determinar, mediante un procedimiento de evaluación, si el presente decreto ha logrado los objetivos esperados, si ha sido suficientemente efectiva y eficiente en su implementación y si ha tenido los impactos esperados; a efecto de implementar las reformas que resulten necesarias para la mejor implementación de las disposiciones normativas contenidas en este ordenamiento normativo, lo anterior independientemente de las iniciativas de reforma, adición o derogación que se presenten.
+
+P.O. 14 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 208, DE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE ADICIONAN UN SEGUNDO PÁRRAFO AL ARTÍCULO 250, RECORRIÉNDOSE EL ACTUAL PÁRRAFO SEGUNDO PARA QUEDAR COMO PÁRRAFO TERCERO, Y EL CAPÍTULO II DEL TÍTULO TERCERO DENOMINADO "INTIMIDACIÓN", CONFORMADO POR EL ARTÍCULO 264 BIS, RECORRIÉNDOSE EN SU ORDEN LOS DEMÁS CAPÍTULOS QUE CONFORMAN EL TÍTULO TERCERO, DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 14 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 209, DE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, ADICIONA UNA FRACCIÓN XI AL ARTÍCULO 33, DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
