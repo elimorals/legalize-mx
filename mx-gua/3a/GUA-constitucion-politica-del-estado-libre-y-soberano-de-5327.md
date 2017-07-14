@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2017-04-04"
+last_updated: "2017-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "GUA"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 64, PUBLICADO EN EL P.O. 17 DE MAYO DE 2013, TODA REFERENCIA QUE EN LAS LEYES, DECRETOS U OTROS ORDENAMIENTOS EXISTA AL MUNICIPIO DE "SILAO", SE ENTENDERÁN HECHAS AL "MUNICIPIO DE SILAO DE LA VICTORIA".]</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE OCTUBRE DE 2017 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2017.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -229,10 +231,6 @@ El Gobernador del Estado hará la declaratoria correspondiente en cada caso espe
 
 No podrá librarse orden de aprehensión sino por la autoridad judicial y sin que preceda denuncia o querella de un hecho que la ley señale como delito, sancionado con pena privativa de libertad y obren datos que establezcan que se ha cometido ese hecho y que exista la probabilidad de que el inculpado lo cometió o participó en su comisión.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 20 DE MAYO DE 2016)</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
 En casos urgentes, cuando se trate de delito grave así calificado por la Ley y ante el riesgo fundado de que el indiciado pueda sustraerse a la acción de la justicia, siempre y cuando no se pueda ocurrir ante la autoridad judicial por razón de la hora, lugar o circunstancia, el Ministerio Público podrá, bajo su responsabilidad, ordenar su detención, fundando y expresando los indicios que motiven su proceder.
@@ -240,8 +238,6 @@ En casos urgentes, cuando se trate de delito grave así calificado por la Ley y 
 Cualquier persona puede detener al inculpado en el momento en que esté cometiendo un delito o inmediatamente después de haberlo cometido, poniéndolo sin demora a disposición de la autoridad más cercana y ésta con la misma prontitud, a la del Ministerio Público. Existirá un registro inmediato de la detención.
 
 En el caso de flagrancia, el juez que reciba la consignación del detenido deberá inmediatamente ratificar la detención o decretar la libertad con las reservas de ley.
-
-> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
@@ -251,7 +247,9 @@ En toda orden de cateo, que sólo la autoridad judicial podrá expedir, a solici
 
 Las comunicaciones privadas son inviolables. La ley sancionará penalmente cualquier acto que atente contra la libertad y privacidad de las mismas, excepto cuando sean aportadas de forma voluntaria por alguno de los particulares que participen en ellas. El juez valorará el alcance de éstas, siempre y cuando contengan información relacionada con la comisión de un delito. En ningún caso se admitirán comunicaciones que violen el deber de confidencialidad que establezca la ley.
 
-El Procurador General de Justicia del Estado podrá solicitar a la autoridad judicial federal competente, la autorización para la intervención de cualquier comunicación privada. Para ello, deberá fundar y motivar las causas legales de la solicitud, expresando además, el tipo de intervención, los sujetos de la misma y su duración.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
+
+El Fiscal General del Estado podrá solicitar a la autoridad judicial federal competente, la autorización para la intervención de cualquier comunicación privada. Para ello, deberá fundar y motivar las causas legales de la solicitud, expresando además, el tipo de intervención, los sujetos de la misma y su duración.
 
 No procederá la intervención de comunicaciones, cuando se trate de materias de carácter electoral, fiscal, mercantil, civil, laboral o administrativo, ni en el caso de las comunicaciones del detenido con su defensor.
 
@@ -293,13 +291,13 @@ Las medidas de corrección y las sanciones acordadas por las autoridades adminis
 
 Sólo por delito que merezca pena privativa de libertad habrá lugar a prisión preventiva. El sitio de ésta será distinto del que se destinare para la extinción de las penas y estarán completamente separados.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
 
 El sistema penitenciario se organizará sobre la base del respeto a los derechos humanos, del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la Ley. Las mujeres compurgarán sus penas en lugares separados de los destinados a los hombres para tal efecto.
 
-El Estado podrá celebrar convenios con la Federación, otros estados y el Distrito Federal para que los sentenciados por delitos del ámbito de su competencia extingan las penas en establecimientos penitenciarios dependientes de una jurisdicción diversa.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
+
+El Estado podrá celebrar convenios con la Federación, y otras entidades federativas para que los sentenciados por delitos del ámbito de su competencia extingan las penas en establecimientos penitenciarios dependientes de una jurisdicción diversa.
 
 La imposición de las penas, su modificación y duración son propias y exclusivas de la autoridad judicial.
 
@@ -311,7 +309,9 @@ Los sentenciados, en los casos y condiciones que establezca la ley, podrán comp
 
 Para la reclusión preventiva y la ejecución de sentencias de internos que requieran medidas especiales de seguridad se podrán destinar centros especiales. Las autoridades competentes podrán restringir las comunicaciones de los inculpados y sentenciados con terceros, salvo el acceso a su defensor, e imponer medidas de vigilancia especial a los internos que requieran medidas especiales de seguridad, en términos de la ley.
 
-La entrega de inculpados, procesados o sentenciados, así como el aseguramiento y entrega de objetos, instrumentos y productos del delito, atendiendo a la autoridad de la Federación, de cualquier entidad federativa o el Distrito Federal, se realizará con la intervención de la Procuraduría General de Justicia del Estado, en los términos de los convenios de colaboración que para tal efecto se celebren.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
+
+La entrega de inculpados, procesados o sentenciados, así como el aseguramiento y entrega de objetos, instrumentos y productos del delito, atendiendo a la autoridad de la Federación o de cualquier entidad federativa, se realizará con la intervención de la Fiscalía General del Estado, en los términos de los convenios de colaboración que para tal efecto se celebren.
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
@@ -1023,9 +1023,9 @@ Los guanajuatenses que migren al extranjero tendrán derecho a que se les recono
 
 No podrán ser diputados al Congreso del Estado:
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
 
-I.- El Gobernador del Estado, cualquiera que sea su denominación, origen y forma de designación; los Titulares de las Dependencias que señala la Ley Orgánica del Poder Ejecutivo; el Procurador General de Justicia; los Magistrados del Supremo Tribunal de Justicia; los que se encuentren en servicio activo en el Ejército Federal o en otra Fuerza de Seguridad Pública; los presidentes municipales o los presidentes de los Concejos Municipales y quienes funjan como Secretario, Oficia (sic) Mayor o Tesorero, siempre que estos últimos ejerzan sus funciones dentro del Distrito o circunscripción en que habrá de efectuarse la elección, a no ser que cualesquiera de los nombrados se separen de sus cargos cuando menos noventa días antes de la fecha de la elección;
+I.- El Gobernador del Estado, cualquiera que sea su denominación, origen y forma de designación; los Titulares de las Dependencias que señala la Ley Orgánica del Poder Ejecutivo; el Fiscal General del Estado; los Magistrados del Supremo Tribunal de Justicia; los que se encuentren en servicio activo en el Ejército Federal o en otra Fuerza de Seguridad Pública; los presidentes municipales o los presidentes de los Concejos Municipales y quienes funjan como Secretario, Oficial Mayor o Tesorero, siempre que estos últimos ejerzan sus funciones dentro del Distrito o circunscripción en que habrá de efectuarse la elección, a no ser que cualesquiera de los nombrados se separen de sus cargos cuando menos noventa días antes de la fecha de la elección;
 
 > <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
@@ -1341,17 +1341,13 @@ Designar a los Magistrados Supernumerarios a propuesta del Pleno del Supremo Tri
 
 Designar a los Consejeros del Poder Judicial en los términos que establece esta Constitución.
 
-> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 27 DE JUNIO DE 2014)</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
 
 Designar por el voto de más de la mitad de la totalidad de sus integrantes, al titular del organismo estatal de protección de los Derechos Humanos, de acuerdo a la propuesta que formule el Ejecutivo del Estado de conformidad con el procedimiento de consulta pública contemplado en esta Constitución y en los términos de la Ley de la materia. Así como a los integrantes del Consejo Consultivo. La Diputación Permanente tendrá la facultad de ratificar los nombramientos de los integrantes del Consejo Consultivo, en los términos de la Ley de la materia.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
 
-Ratificar el nombramiento del Procurador General de Justicia a propuesta del Gobernador del Estado en los términos que establece esta Constitución.
+Integrar la lista de candidatos a Fiscal General del Estado; nombrar a dicho servidor público, y formular objeción a la remoción que del mismo haga el Ejecutivo Estatal, de conformidad con el artículo 95 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2016)</small>
 
@@ -1577,9 +1573,9 @@ III.- Tener por lo menos treinta años cumplidos al día de la elección.
 
 No son elegibles al cargo de Gobernador del Estado:
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
 
-I.- Los Secretarios de Estado de la Federación, los Ministros de la Suprema Corte de Justicia de la Nación, el Fiscal General de la República, el Jefe de Gobierno del Distrito Federal, los Magistrados del Supremo Tribunal de Justicia del Estado, los Titulares o Encargados de las Dependencias de los Ramos en que se divida la Administración Pública Estatal, los Militares en servicio activo y los ciudadanos con mando de fuerza en el estado, a no ser que se separen definitivamente de su cargo, por lo menos seis meses antes de la fecha de la elección;
+I.- Los Secretarios de Estado de la Federación, los Ministros de la Suprema Corte de Justicia de la Nación, el Fiscal General (sic) la Republica, el Jefe de Gobierno de la Ciudad de México, los Magistrados del Supremo Tribunal de Justicia del Estado, los Titulares o Encargados de las Dependencias de los Ramos en que se divida la Administración Pública Estatal, el Fiscal General del Estado, los Militares en servicio activo y los ciudadanos con mando de fuerza en el Estado, a no ser que se separen definitivamente de su cargo, por lo menos seis meses antes de la fecha de la elección;
 
 > <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
@@ -1711,9 +1707,9 @@ X.- Acordar discrecionalmente que los Funcionarios del Poder Ejecutivo comparezc
 
 XI.- Nombrar y remover libremente a todos los Funcionarios y empleados del Poder Ejecutivo, cuyo nombramiento o remoción no esté determinado de otro modo en esta Constitución o en las Leyes;
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
 
-Nombrar al Procurador General de Justicia en los términos de esta Constitución y removerlo libremente;
+Intervenir en la designación del Fiscal General del Estado y removerlo, en términos de lo dispuesto en el artículo 95, de esta Constitución;
 
 > <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2016)</small>
 
@@ -1726,8 +1722,6 @@ XII.- Proponer por ternas al Congreso del Estado la aprobación de los Magistrad
 > <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
 
 Proponer al Congreso del Estado, la terna para la designación de Consejero que integre el Consejo del Poder Judicial. Emitir dictamen sobre la propuesta de reelección o de no reelección de un Magistrado cuando le corresponda atendiendo al origen de la propuesta de designación del mismo fundado en el dictamen de evaluación que emita la Comisión de Evaluación.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE MAYO DE 2013)</small>
 
@@ -1777,8 +1771,6 @@ XXIV.- Instrumentar, en los términos de ley, sistemas complementarios de seguri
 
 XXV.- Proponer al Congreso del Estado las ternas para la designación de comisionados del organismo autónomo garante de los derechos de acceso a la información pública y de protección de datos personales, en los términos establecidos por esta Constitución y las disposiciones previstas en la Ley de la materia; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 (REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2013) N. DE E. EL CONTENIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL TEXTO ANTERIOR EN LA FRACCIÓN XXV, PERO DEL ANÁLISIS DEL DECRETO NÚMERO 100 PUBLICADO EL 6 DE DICIEMBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER XXVI.
 
 XXVI.- Las demás que le concedan esta Constitución y las leyes.
@@ -1803,7 +1795,9 @@ El Gobernador del Estado enviará al Congreso del Estado, el primer jueves de ma
 
 Los grupos y representaciones parlamentarias que integren el Congreso del Estado, durante el análisis del informe, fijarán su postura en los términos de la legislación correspondiente.
 
-El Congreso del Estado, a efecto de ampliar la información, podrá solicitar la comparecencia de los secretarios de estado, así como del Procurador General de Justicia y los directores de las entidades paraestatales.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
+
+El Congreso del Estado, a efecto de ampliar la información, podrá solicitar la comparecencia de los secretarios de estado, así como de los directores de las entidades paraestatales.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1823,45 +1817,27 @@ Todas las Leyes, Decretos y Reglamentos, para su cumplimiento, serán promulgado
 
 Para el despacho de los asuntos a cargo del Poder Ejecutivo, el Gobernador del Estado contará con las Dependencias señaladas en la Ley de la materia, la cual establecerá las atribuciones, forma de organización y facultades de sus Titulares.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE SEPTIEMBRE DE 2016)</small>
 
 #### SECCIÓN TERCERA. DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
 
-### CAPITULO CUARTO. DEL PODER JUDICIAL
+### CAPÍTULO CUARTO. DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2016) (REUBICADO [N. DE E. ANTES ARTÍCULO 82], P.O. 14 DE JULIO DE 2017)
 
 ###### ARTICULO 81.
-
-La ley organizará al Ministerio Público, cuyos servidores serán nombrados y removidos por el Poder Ejecutivo. El titular del Ministerio Público será el Procurador General de Justicia, nombrado por el titular del Poder Ejecutivo, con la ratificación del Congreso del Estado. En tanto el Congreso apruebe el nombramiento, el titular del Poder Ejecutivo podrá designar un encargado de despacho, en los términos que establezca la ley.
-
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2006)</small>
-
-El Ministerio Público contará con instituciones especializadas en la procuración de justicia para adolescentes, cuya estructura, atribuciones y funcionamiento se determinarán en la Ley.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
-
-Para ser Procurador General de Justicia se deben reunir los requisitos que señala el artículo 86 de esta Constitución.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE SEPTIEMBRE DE 2016)</small>
-
-### CAPITULO PRIMERO. DEL PATRIMONIO
-
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
-
-###### ARTICULO 82.
 
 El Tribunal de Justicia Administrativa es un órgano de control de legalidad, para dirimir las controversias que se susciten entre la administración pública estatal y municipal y los particulares, dotado de plena autonomía para dictar sus fallos. De igual forma impondrá las sanciones a los servidores públicos estatales y municipales por responsabilidad administrativa grave, y a los particulares que incurran en actos vinculados con faltas administrativas graves; así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública estatal o municipal o al patrimonio de los entes públicos estatales o municipales. La Ley establecerá su organización, funcionamiento, integración, procedimientos y en su caso, recursos contra sus resoluciones.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
-#### SECCION PRIMERA. DEL SUPREMO TRIBUNAL DE JUSTICIA
+### CAPITULO QUINTO. DEL PODER JUDICIAL
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996) (REUBICADO [N. DE E. ANTES ARTÍCULO 83], P.O. 14 DE JULIO DE 2017)
 
-###### ARTICULO 83.
+###### ARTICULO 82.
 
 El Supremo Tribunal de Justicia funcionará en Pleno o en Salas. Las sesiones del Pleno en las que se discutan y decidan los asuntos jurisdiccionales serán públicas.
 
@@ -1891,7 +1867,11 @@ La evaluación de los Magistrados y Consejeros estará a cargo de una Comisión 
 
 > <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1984)</small>
 
-###### ARTICULO 84.
+#### SECCION PRIMERA. DEL SUPREMO TRIBUNAL DE JUSTICIA
+
+(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996) (REUBICADO [N. DE E. ANTES ARTÍCULO 84], P.O. 14 DE JULIO DE 2017)
+
+###### ARTICULO 83.
 
 El Supremo Tribunal de Justicia se compondrá del número de Magistrados Propietarios o Supernumerarios que determine el Consejo del Poder Judicial.
 
@@ -1905,17 +1885,17 @@ No podrá ser electo para ejercer el cargo de Presidente del Supremo Tribunal de
 
 El Presidente del Supremo Tribunal de Justicia rendirá ante el Pleno y ante el Consejo del Poder Judicial un informe anual de labores en la última sesión del mes de diciembre.
 
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2006) (REUBICADO [N. DE E. ANTES ARTÍCULO 85], P.O. 14 DE JULIO DE 2017)
 
-###### ARTICULO 85.
+###### ARTICULO 84.
 
 Las faltas temporales de los Magistrados serán cubiertas por el Magistrado Supernumerario que determine el Pleno del Supremo Tribunal de Justicia, de conformidad con lo que se establezca en la Ley Orgánica del Poder Judicial. Tratándose de separación definitiva se hará un nuevo nombramiento conforme al artículo 87 de esta Constitución.
 
 El Pleno del Supremo Tribunal de Justicia propondrá al Congreso del Estado en ternas la designación de Magistrados Supernumerarios de entre los Jueces de Partido que reúnan los requisitos del artículo 86 de esta Constitución.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996) (REUBICADO [N. DE E. ANTES ARTÍCULO 86], P.O. 14 DE JULIO DE 2017)
 
-###### ARTICULO 86.
+###### ARTICULO 85.
 
 Para ser Magistrado del Supremo Tribunal de Justicia se requiere:
 
@@ -1931,9 +1911,9 @@ V.- Gozar de buena reputación y no haber sido condenado por delito intencional 
 
 VI.- Haber residido en el Estado durante los últimos cinco años, salvo el caso de ausencia en servicio de la República o del Estado.
 
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2006) (REUBICADO [N. DE E. ANTES ARTÍCULO 87], P.O. 14 DE JULIO DE 2017)
 
-###### ARTICULO 87.
+###### ARTICULO 86.
 
 Los Magistrados del Supremo Tribunal de Justicia durarán en su cargo siete años y podrán ser reelectos.
 
@@ -1961,15 +1941,15 @@ El Gobernador del Estado o el Consejo del Poder Judicial, según corresponda al 
 
 Sólo podrán ser reelectos los Magistrados que de acuerdo al dictamen de evaluación, hayan actuado en su primer cargo, con estricto apego a los principios que rigen la función judicial y que son los de independencia judicial, imparcialidad, eficiencia, eficacia, legalidad, excelencia profesional, honestidad invulnerable, diligencia, celeridad, honradez, veracidad, objetividad, competencia, honorabilidad, lealtad, probidad y rectitud.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+(REFORMADO, P.O. 17 DE FEBRERO DE 1984) (REUBICADO [N. DE E. ANTES ARTÍCULO 88], P.O. 14 DE JULIO DE 2017)
 
-###### ARTICULO 88.
+###### ARTICULO 87.
 
 Los Magistrados del Supremo Tribunal de Justicia, al entrar a ejercer su cargo, protestarán ante el Congreso y si éste no estuviere en Período de Sesiones, ante la Diputación Permanente.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996) (REUBICADO [N. DE E. ANTES ARTÍCULO 89], P.O. 14 DE JULIO DE 2017)
 
-###### ARTICULO 89.
+###### ARTICULO 88.
 
 Las facultades y obligaciones del Pleno del Supremo Tribunal de Justicia son:
 
@@ -2037,9 +2017,9 @@ XVI.- (DEROGADA, P.O. 7 DE NOVIEMBRE DE 2006)
 
 XVII.- Cumplir las demás atribuciones que le señalen las leyes.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996) (REUBICADO [N. DE E. ANTES ARTÍCULO 90], P.O. 14 DE JULIO DE 2017)
 
-###### ARTICULO 90.
+###### ARTICULO 89.
 
 Las facultades y obligaciones del Consejo del Poder Judicial son:
 
@@ -2137,25 +2117,21 @@ XXXI.- Presentar al Congreso del Estado, la información financiera y la cuenta 
 
 XXXII.- Las demás que le señalen las leyes.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996) (REUBICADO [N. DE E. ANTES ARTÍCULO 91], P.O. 14 DE JULIO DE 2017)
 
-###### ARTICULO 91.
+###### ARTICULO 90.
 
 El Poder Judicial administrará con autonomía su presupuesto. El Consejo del Poder Judicial elaborará el anteproyecto de presupuesto del Poder Judicial y lo someterá a la aprobación del Pleno. Este será remitido por el Presidente del Supremo Tribunal de Justicia para su inclusión en el proyecto de Presupuesto de Egresos del Estado. El anteproyecto de Presupuesto comprenderá los ingresos propios del Poder Judicial para la constitución del Fondo Auxiliar para la impartición de Justicia.
 
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2006) (REUBICADO [N. DE E. ANTES ARTÍCULO 92], P.O. 14 DE JULIO DE 2017)
 
-###### ARTICULO 92.
+###### ARTICULO 91.
 
 Los Magistrados, los Consejeros, los Jueces, los Secretarios y los Actuarios del Poder Judicial no podrán ejercer la profesión de abogado, sino en negocio propio, de su cónyuge, de sus ascendientes o descendientes sin limitación de grado, ni desempeñar otro cargo o empleo público o privado, a excepción de los docentes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2006) (REUBICADO [N. DE E. ANTES ARTÍCULO 93], P.O. 14 DE JULIO DE 2017)
 
-#### SECCION SEGUNDA. DE LOS JUECES QUE INTEGRAN EL PODER JUDICIAL
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE FEBRERO DE 2010)</small>
-
-###### ARTICULO 93.
+###### ARTICULO 92.
 
 La Ley Orgánica del Poder Judicial, establecerá:
 
@@ -2209,7 +2185,11 @@ XII.- Las normas, criterios y procedimientos para la evaluación de jueces y Mag
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE FEBRERO DE 2010)</small>
 
-###### ARTICULO 94.
+#### SECCION SEGUNDA. DE LOS JUECES QUE INTEGRAN EL PODER JUDICIAL
+
+(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE FEBRERO DE 2010) (REUBICADO [N. DE E. ANTES ARTÍCULO 94], P.O. 14 DE JULIO DE 2017)
+
+###### ARTICULO 93.
 
 Los jueces a que se refiere el artículo 39 de esta Constitución, serán nombrados por el Consejo del Poder Judicial atendiendo a las normas y procedimientos de la carrera judicial. Una vez nombrados, sólo podrán ser removidos de su cargo:
 
@@ -2229,19 +2209,59 @@ III.- Por enfermedad o incapacidad física que les impida ejercer el cargo; o
 
 IV.- Por incurrir en responsabilidad en los términos de esta Constitución y de la Ley.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996) (REUBICADO [N. DE E. ANTES ARTÍCULO 95], P.O. 14 DE JULIO DE 2017)
 
-### CAPITULO SEGUNDO. DE LA HACIENDA PUBLICA
-
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
-
-#### SECCION PRIMERA. DE LOS AYUNTAMIENTOS
-
-> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
-
-###### ARTICULO 95.
+###### ARTICULO 94.
 
 La Ley Orgánica del Poder Judicial determinará los requisitos necesarios para ser Juez.
+
+> <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULO QUE LO INTEGRAN, P.O. 14 DE JULIO DE 2017)</small>
+
+### CAPITULO SEXTO. DE LA FISCALIA GENERAL DEL ESTADO
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 14 DE JULIO DE 2017)</small>
+
+#### SECCION UNICA. FISCALIA GENERAL DEL ESTADO
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
+
+###### ARTÍCULO 95.
+
+El Ministerio Público se organizará en una Fiscalía General del Estado como órgano público autónomo, dotado de personalidad jurídica y de patrimonio propios.
+
+Para ser Fiscal General del Estado se requiere: ser ciudadano mexicano por nacimiento y guanajuatense en pleno ejercicio de sus derechos civiles y políticos; tener cuando menos treinta y cinco años cumplidos el día de la designación; contar, con antigüedad mínima de diez años, con título profesional de licenciado en derecho; gozar de buena reputación y no haber sido condenado por delito doloso; y haber residido en el Estado durante los últimos cinco años, salvo el caso de ausencia en servicio de la República o del Estado.
+
+El Fiscal General del Estado durará en su encargo nueve años, y será designado y removido conforme a lo siguiente:
+
+I. A partir de la ausencia definitiva del Fiscal General del Estado, el Congreso del Estado contará con veinte días para integrar una lista de al menos cinco candidatos al cargo, aprobada por las dos terceras partes de los miembros presentes, la cual enviará al Gobernador del Estado; en tanto, éste designará un Fiscal General del Estado en forma provisional, quien ejercerá sus funciones hasta que se realice la designación definitiva conforme a lo establecido en este artículo.
+
+Si el Gobernador no recibe la lista en el plazo antes señalado, enviará libremente al Congreso del Estado una terna.
+
+El Fiscal General del Estado designado provisionalmente podrá formar parte de la terna.
+
+II. Recibida oportunamente la lista a que se refiere la fracción anterior, dentro de los diez días siguientes el Ejecutivo formulará una terna y la enviará a la consideración del Congreso del Estado.
+
+III. El Congreso del Estado, con base en la terna y previa comparecencia de las personas propuestas, designará al Fiscal General del Estado con el voto de las dos terceras partes de los miembros presentes dentro del plazo de diez días.
+
+En caso de que el Gobernador no envíe la terna a que se refiere la fracción anterior, el Congreso del Estado tendrá diez días para designar al Fiscal General de entre los candidatos de la lista que señala la fracción I.
+
+Si el Congreso no formula la lista o no hace la designación en los plazos que establece este artículo, el Gobernador designará al Fiscal General del Estado libremente en el primer supuesto y en el segundo de entre los candidatos que integren la terna.
+
+IV. El Fiscal General del Estado podrá ser removido por el Gobernador del Estado por las causas graves que establezca la ley. La remoción podrá ser objetada por el voto de la mayoría de los miembros presentes del Congreso del Estado dentro de un plazo de diez días hábiles, en cuyo caso el Fiscal General del Estado será restituido en el ejercicio de sus funciones. Si el Congreso no se pronuncia al respecto, se entenderá que no existe objeción.
+
+V. En los recesos, la Diputación Permanente convocará de inmediato a periodo extraordinario para realizar el trámite de la designación o formulación de objeción a la remoción del Fiscal General del Estado.
+
+VI. Las ausencias del Fiscal General del Estado serán suplidas en los términos que determine la ley.
+
+Corresponde al Ministerio Público la investigación, persecución, ante los tribunales, de todos los delitos de su competencia; y, por lo mismo, solicitará las medidas cautelares contra los inculpados; buscará y presentará las pruebas que acrediten la participación de éstos en hechos que las leyes señalen como delito; procurará que los juicios en materia penal se sigan con toda regularidad para que la impartición de justicia sea pronta y expedita; pedirá la aplicación de las penas, e intervendrá en todos los asuntos que la ley determine.
+
+La Fiscalía General del Estado contará, al menos, con la fiscalía especializada en materia de combate a la corrupción, dicha fiscalía especializada será un órgano con autonomía técnica y operativa para investigar y perseguir los hechos que la ley considere como delitos en materia de corrupción; cuyo titular será nombrado y removido por el Fiscal General del Estado; el nombramiento y remoción del fiscal especializado podrá ser objetado por el Congreso del Estado por el voto de las dos terceras partes de los miembros presentes, en el plazo que fije la ley; si el Congreso no se pronunciare en este plazo, se entenderá que no tiene objeción.
+
+La ley establecerá las bases para la estructura y funcionamiento de la fiscalía, la formación y actualización de los servidores públicos de la Fiscalía, así como para el desarrollo de la carrera profesional de los mismos, la cual se regirá por los principios de respeto a los derechos humanos, objetividad, honradez, certeza, buena fe, unidad, indivisibilidad, irrevocabilidad, imparcialidad, irrecusabilidad, independencia, legalidad, probidad, profesionalismo, celeridad, eficiencia y eficacia, cuya finalidad será proporcionar una pronta, plena y adecuada procuración de justicia.
+
+El Fiscal General del Estado presentará anualmente a los Poderes del Estado un informe de actividades. Comparecerá ante el Congreso del Estado cuando se le cite a rendir cuentas o a informar sobre su gestión.
+
+El Fiscal General del Estado y sus agentes, serán responsables de toda falta, omisión o violación a la ley en que incurran con motivo de sus funciones.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -2249,7 +2269,7 @@ La Ley Orgánica del Poder Judicial determinará los requisitos necesarios para 
 
 > <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1984)</small>
 
-### CAPITULO UNICO
+### CAPITULO PRIMERO. DEL PATRIMONIO
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -2283,7 +2303,7 @@ Son bienes de dominio privado del Estado los que ingresen a su patrimonio, no co
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
-### CAPITULO PRIMERO. DE LOS MUNICIPIOS DEL ESTADO
+### CAPITULO SEGUNDO. DE LA HACIENDA PUBLICA
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -2329,9 +2349,9 @@ La vigencia anual, tanto de la Ley de Ingresos como de la Ley del Presupuesto Ge
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
-### CAPITULO SEGUNDO. DEL GOBIERNO MUNICIPAL
+### CAPITULO UNICO
 
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 103.
 
@@ -2363,7 +2383,7 @@ El Gobernador del Estado es el Jefe Superior de la Guardia Nacional.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
-### CAPITULO TERCERO. DEL PATRIMONIO Y HACIENDA MUNICIPAL
+### CAPITULO PRIMERO. DE LOS MUNICIPIOS DEL ESTADO
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -2379,13 +2399,13 @@ Los Municipios serán gobernados por un Ayuntamiento. La competencia de los Ayun
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
-### CAPÍTULO PRIMERO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS Y LOS PARTICULARES
+### CAPITULO SEGUNDO. DEL GOBIERNO MUNICIPAL
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1984)</small>
 
-#### SECCION SEGUNDA. DE LOS TITULARES DEL GOBIERNO MUNICIPAL
+#### SECCION PRIMERA. DE LOS AYUNTAMIENTOS
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
 ###### ARTICULO 108.
 
@@ -2415,7 +2435,7 @@ c) Si después de la aplicación del cociente mencionado en el inciso anterior, 
 
 > <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1984)</small>
 
-#### SECCION TERCERA. DE LAS FACULTADES Y OBLIGACIONES DEL AYUNTAMIENTO
+#### SECCION SEGUNDA. DE LOS TITULARES DEL GOBIERNO MUNICIPAL
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -2496,6 +2516,10 @@ Ningún ciudadano puede renunciar ni excusarse de servir al cargo de Presidente,
 Los ciudadanos que hayan sido electos en los comicios o, en su caso, los miembros del Concejo Municipal que designe el Congreso, se reunirán para iniciar actividades el día 10 de octubre siguiente a la fecha de la elección.
 
 > <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1984)</small>
+
+#### SECCION TERCERA. DE LAS FACULTADES Y OBLIGACIONES DEL AYUNTAMIENTO
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 117.
 
@@ -2665,9 +2689,9 @@ Si el resultado del plebiscito o referéndum es en el sentido de desaprobar el a
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
-### CAPÍTULO SEGUNDO. DEL SISTEMA ESTATAL ANTICORRUPCIÓN
+### CAPITULO TERCERO. DEL PATRIMONIO Y HACIENDA MUNICIPAL
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 118.
 
@@ -2725,7 +2749,9 @@ Los recursos que integran la hacienda municipal serán ejercidos en forma direct
 
 > <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2016)</small>
 
-### CAPITULO UNICO. (REFORMADO, P.O. 21 DE JULIO DE 2009) (REUBICADO [N. DE E. ANTES ARTÍCULO 131], P.O. 6 DE SEPTIEMBRE DE 2016)
+### CAPÍTULO PRIMERO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS Y LOS PARTICULARES
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
 ###### ARTICULO 122.
 
@@ -2839,13 +2865,17 @@ En los procesos judiciales del orden civil y penal, no hay inmunidad para ningú
 
 > <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2016)</small>
 
-### CAPITULO UNICO. (REFORMADO, P.O. 17 DE FEBRERO DE 1984) (REUBICADO [N. DE E. ANTES ARTÍCULO 142], P.O. 6 DE SEPTIEMBRE DE 2016)
+### CAPÍTULO SEGUNDO. DEL SISTEMA ESTATAL ANTICORRUPCIÓN
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 132.
 
 El Sistema Estatal Anticorrupción es la instancia de coordinación entre las autoridades del orden de gobierno estatal y municipal competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 
-I. El Sistema contará con un Comité Coordinador que estará integrado por los titulares de la Auditoría Superior del Estado de Guanajuato; de la Fiscalía Especializada en Combate a la Corrupción, la cual estará adscrita a la Procuraduría General de Justicia del Estado y será un órgano con autonomía técnica y operativa para investigar y perseguir los hechos que la ley considere como delitos en materia de corrupción; de la Secretaría del Ejecutivo responsable del control interno; un representante de los órganos internos de control de cada región; por el Presidente del Tribunal de Justicia Administrativa; el Presidente del organismo autónomo en materia de transparencia y Acceso a la Información Pública; así como por un representante del Consejo del Poder Judicial y dos del Comité de Participación Ciudadana;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
+
+I. El Sistema contará con un Comité Coordinador que estará integrado por los titulares de la Auditoría Superior del Estado de Guanajuato; de la Fiscalía Especializada en Combate a la Corrupción; de la Secretaría del Ejecutivo responsable del control interno; un representante de los órganos internos de control de cada región; por el Presidente del Tribunal de Justicia Administrativa; el Presidente del organismo autónomo en materia de transparencia y acceso a la información pública; así como por un representante del Consejo del Poder Judicial y dos del Comité de Participación Ciudadana;
 
 II. El Comité de Participación Ciudadana del Sistema deberá integrarse por cinco ciudadanos respetando la equidad de género de manera de que en ningún caso podrán ser más de tres ciudadanos de un mismo género, que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley, y
 
@@ -2869,9 +2899,7 @@ Derivado de este informe, podrá emitir recomendaciones no vinculantes a las aut
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1980)</small>
+### CAPITULO UNICO. (REFORMADO, P.O. 21 DE JULIO DE 2009) (REUBICADO [N. DE E. ANTES ARTÍCULO 131], P.O. 6 DE SEPTIEMBRE DE 2016)
 
 ###### ARTICULO 133.
 
@@ -2879,7 +2907,7 @@ Ningún ciudadano podrá desempeñar a la vez dos cargos de elección popular, p
 
 Todo cargo de elección popular es incompatible con cualquiera de la Federación, del Estado, de los municipios, organismos públicos autónomos o de organismos descentralizados y empresas de participación estatal de cualquiera de los tres órdenes de gobierno, cuando por ellos se perciba sueldo, remuneración, honorarios, gratificación o cualquiera otra ministración de dinero.
 
-No podrá reunirse en un mismo individuo dos o más cargos o empleos públicos por los que perciba sueldo, remuneración, honorarios, gratificación o cualquiera otra ministración de dinero, exceptuándose los cargos docentes. La infracción a esta disposición será motivo de responsabilidad y será castigada conforme a lo establecido en la Ley de Responsabilidades Administrativas de los Servidores Públicos.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 14 DE JULIO DE 2017)</small>
 
 (REFORMADO, P.O. 25 DE DICIEMBRE DE 1990) (REUBICADO [N. DE E. ANTES ARTÍCULO 132], P.O. 6 DE SEPTIEMBRE DE 2016)
 
@@ -2909,7 +2937,9 @@ I.- Se considera remuneración o retribución toda percepción en efectivo o en 
 
 II.- Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Gobernador del Estado en el presupuesto correspondiente. Lo mismo deberá ser observado cuando se trate del Presidente Municipal en el ámbito de su competencia.
 
-III.- Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos en los términos del artículo 131 de esta Constitución, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2017)</small>
+
+III.- Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, en los términos del artículo 133 de esta Constitución, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función.
 
 En ningún caso el excedente a que se refiere el párrafo anterior podrá ser superior a la mitad de la remuneración establecida para el Gobernador del Estado en el presupuesto correspondiente.
 
@@ -2967,9 +2997,7 @@ Los actos ejecutados contra el tenor de las leyes prohibitivas o de interés pú
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
-### CAPITULO UNICO
-
-> <small>(ADICIONADO, P.O. 28 DE MARZO DE 1976)</small>
+### CAPITULO UNICO. (REFORMADO, P.O. 17 DE FEBRERO DE 1984) (REUBICADO [N. DE E. ANTES ARTÍCULO 142], P.O. 6 DE SEPTIEMBRE DE 2016)
 
 ###### ARTICULO 144.
 
@@ -3966,3 +3994,33 @@ Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de
 Artículo Segundo. El Congreso del Estado deberá adecuar la Ley de Instituciones yProcedimientos (sic) Electorales para el Estado de Guanajuato, a más tardar el 25 de mayo del presente año.
 
 Artículo Tercero. El Titular del Ejecutivo del Estado deberá publicar las adecuaciones referidas en el artículo anterior, por lo menos noventa días antes de que inicie el proceso electoral próximo inmediato.
+
+P.O. 14 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 201, DE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE REFORMA EL ARTÍCULO 136, FRACCIÓN III Y SE DEROGA EL PÁRRAFO TERCERO DEL ARTÍCULO 133 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. El presente decreto entrará en vigencia al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Congreso del Estado deberá efectuar los ajustes normativos que correspondan en un plazo de ciento ochenta días posteriores a la entrada en vigencia y de conformidad con los alcances de este decreto.
+
+P.O. 14 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 202, DE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE REFORMAN LOS ARTÍCULOS 6, PÁRRAFO OCTAVO; 8, PÁRRAFOS TERCERO Y NOVENO; 46, FRACCIÓN I; 63, FRACCIÓN XXI, PÁRRAFO SÉPTIMO; 69, FRACCIÓN I; 77, FRACCIÓN XI PÁRRAFO SEGUNDO; 78, PÁRRAFO TERCERO; 94, PÁRRAFO PRIMERO; 132, FRACCIÓN I; Y SE ADICIONAN AL TÍTULO QUINTO EL CAPÍTULO CUARTO CON EL ARTÍCULO 81 ANTES 82 RECORRIÉNDOSE EL ACTUAL CAPÍTULO CUARTO PARA QUEDAR COMO CAPÍTULO QUINTO Y LOS ARTÍCULOS ACTUALES 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94 Y 95, PASAN A SER 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93 Y 94, RESPECTIVAMENTE; Y UN CAPÍTULO SEXTO, COMPUESTO POR UNA SECCIÓN ÚNICA CON EL ARTÍCULO 95; DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. El presente Decreto entrará en vigencia treinta días posteriores a que se dé cumplimiento al artículo décimo sexto transitorio del Decreto de reforma a la Constitución Política de los Estados Unidos Mexicanos, publicada en el Diario Oficial de la Federación de 10 de febrero de 2014.
+
+Para efecto de dar cumplimiento a lo establecido en el párrafo primero, el Congreso del Estado expedirá las normas secundarias necesarias por virtud de las reformas del presente decreto, que deberán entrar en vigor en la misma fecha en que entre en vigencia el presente decreto, siempre que haga la declaratoria expresa de entrada en vigor de la autonomía constitucional de la Fiscalía General del Estado.
+
+El Procurador General de Justicia que se encuentre en funciones al momento de expedirse la declaratoria a que se refiere el párrafo anterior, asumirá las funciones (sic) Fiscal General del Estado, sin perjuicio del procedimiento de remoción previsto en la fracción IV del artículo 95.
+
+Artículo Segundo. Una vez que entren en vigor las disposiciones de este Decreto, se procederá de la siguiente forma:
+
+I. Los asuntos en los que la Procuraduría General de Justicia del Estado ejerza la representación del Estado, que se encuentren en trámite a la entrada en vigor de las disposiciones a que se refiere el Transitorio anterior, deberán remitirse a la Coordinación General Jurídica de la Consejería y Enlace de Gubernatura.
+
+II. Los procedimientos señalados en el párrafo que antecede, cuyo trámite se localice en tribunales locales, se suspenderán por un plazo de sesenta días hábiles, contados a partir de la entrada en vigor de las disposiciones a que se refiere el Transitorio anterior; en cada caso, la suspensión será decretada de oficio por los órganos jurisdiccionales ante los cuales se desahoguen dichos procedimientos; y
+
+III. Los recursos humanos, financieros y materiales que la Procuraduría General de Justicia del Estado destine para la atención y desahogo de los procedimientos a que se refieren las fracciones anteriores, serán transferidos a la Coordinación General Jurídica de la Consejería y Enlace de Gubernatura.
+
+Los titulares de ambos órganos, en coordinación con la Secretaría de Finanzas, Inversión y Administración, realizarán las previsiones necesarias para que dichos recursos queden trasladados oportunamente para la debida atención de los asuntos transferidos.
+
+Artículo Tercero. A partir de la entrada en vigor de las reformas contenidas en el presente Decreto, desahogado el procedimiento señalado en el artículo primero transitorio, los recursos humanos, presupuestales, financieros y materiales de la Procuraduría General de Justicia pasarán al órgano autónomo que el propio Decreto establece, salvo lo dispuesto en (sic) Artículo Segundo transitorio.
