@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-consejeria-juridica-del-estado-de-960
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-09-24"
-last_updated: "2013-11-01"
+last_updated: "2017-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96058&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COA"
 ---
 # REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA CONSEJERÍA JLRÍDICA DEL ESTADO DE COAHUILA, PUBLICADO EN EL P.O. DE 14 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA, PUBLICADO EN EL P.O. DE 14 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA DEL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL MODIFICADO POR FE DE ERRATAS, PUBLICADA EN EL PERIÓDICO OFICIAL DE 1 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 24 de septiembre de 2013.
 
@@ -536,3 +536,13 @@ EL SECRETARIO DE GOBIERNO
 ARMANDO LUNA CANALES
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Consejería Jurídica publicado en el Periódico Oficial del Gobierno del Estado el martes 24 de septiembre del 2013.
