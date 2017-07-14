@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-cardiologia-88480"
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-07-04"
-last_updated: "2016-11-02"
+last_updated: "2017-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88480&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-04-03"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE CARDIOLOGÍA IGNACIO CHÁVEZ
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JULIO DE 2017.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 4 de julio de 2012.
 
@@ -841,7 +841,7 @@ XV. Elaborar y/o supervisar y vigilar que los trabajos especiales, que dentro de
 
 Se podrán crear e instaurar las Comisiones, Comités y Subcomités necesarios, para el óptimo cumplimiento de las diferentes metas y objetivos del Instituto.
 
-> <small>[N. DE E. SE ADVIERTE QUE LA MODIFICACIÓN AL ESTATUTO PUBLICADA EN EL D.O.F. DE 2 DE NOVIEMBRE DE 2016, DIFIERE EN EL NÚMERO DE PÁRRAFOS, POR LO QUE SE SUGIERE CONSULTAR LA PUBLICACIÓN OFICIAL, PÁGINAS DE LA 76 A LA 77.]</small>
+> <small>[N. DE E. SE ADVIERTE QUE LA MODIFICACIÓN AL ESTATUTO PUBLICADA EN EL D.O.F. 14 DE JULIO DE 2017, DIFIERE EN EL NÚMERO DE PÁRRAFOS, POR LO QUE SE SUGIERE CONSULTAR LA PUBLICACIÓN OFICIAL EN LA PÁGINA 55, Y LA PÁGINA ELECTRÓNICA DEL INSTITUTO NACIONAL DE CARDIOLOGÍA IGNACIO CHÁVEZ EN: PAGINAhttps://www.cardiologia.org.mx/normateca_institucional/normateca_interna/docs/pdf/sustantiva/otras_disposiciones_sustantivas/estatuto_organico_del_instituto_nacional_de_cardiologia_ignacio_chavez.pdf]</small>
 
 ###### ARTICULO 45o.
 
@@ -919,11 +919,25 @@ Comité Interno de Vigilancia del Uso Adecuado de los Recursos Destinados a la I
 
 (Aprobado en la 1ª. Sesión ordinaria de la Junta de Gobierno, celebrada el 25 de marzo de 2013)
 
-> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2017)</small>
 
-Comité Interno de Trasplantes tendrá las funciones que establece el Reglamento de la Ley General de Salud en Materia de Control Sanitario de la Disposición de Órganos, Tejidos y Cadáveres de Seres Humanos.
+Comité Interno para el Cuidado y Uso de Animales de Laboratorio, realizará las funciones que establece la NORMA Oficial Mexicana NOM-062-ZOO-1999, Especificaciones técnicas para la producción, cuidado y uso de los animales de laboratorio.
 
-(Aprobado en la 2ª. Sesión ordinaria de la Junta de Gobierno, celebrada el 09 de octubre de 2013)
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2017)</small>
+
+Comité de Innovación y Desarrollo Tecnológico, efectuará las funciones que indica su acta de instalación.
+
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2017)</small>
+
+Comité Interno de Protección Civil y Hospital Seguro, cumplirá las funciones que indica el Aviso por el que se dan a Conocer los Términos de Referencia para la Elaboración de Programas Internos de Protección Civil en Unidades Hospitalarias, TR-SPC-004-PIPC-Unidades Hospitalarias-2017.
+
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2017)</small>
+
+Comité de Farmacovigilancia, ejecutará las funciones que indica la Guía para la Instalación y Operación de los Centros Institucionales y Unidades de Farmacovigilancia Hospitalarias Coordinadas por el Centro Nacional de Farmacovigilancia.
+
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2017)</small>
+
+Comité Interno de Trasplantes tendrá las funciones que establece el artículo 316 de la Ley General de Salud, el Reglamento de la Ley General de Salud en Materia de Control Sanitario de la Disposición de Órganos, Tejidos y Cadáveres de Seres Humanos.
 
 Subcomité de Morbi-Mortalidad, tendrá las funciones que establece la normatividad vigente en la materia.
 
@@ -937,7 +951,7 @@ Subcomité de Medicamentos e Insumos, tendrá las funciones que establece la nor
 
 Subcomité de Evaluación de la Satisfacción del Usuario, tendrá las funciones que establece la minuta de instalación del mismo.
 
-Subcomité de Insuficiencia Cardíaca y Transplante Cardíaco, tendrá las funciones que establece el artículo 316 de la Ley General de Salud y la normatividad vigente en la materia.
+> <small>(DEROGADO, D.O.F. 14 DE JULIO DE 2017)</small>
 
 Subcomité de Transplante Renal, tendrá las funciones que establece el artículo 316 de la Ley General de Salud y la normatividad vigente en la materia.
 
@@ -945,7 +959,7 @@ Subcomité de Cuidados Paliativos, tendrá las funciones que establece su acta d
 
 Subcomité de Reporte, Seguimiento y Prevención de Eventos Adversos, tendrá las funciones que establece su acta de instalación.
 
-Subcomité de Protección Civil, tendrá las funciones que establece su manual de funcionamiento y normatividad vigente en la materia.
+> <small>(DEROGADO, D.O.F. 14 DE JULIO DE 2017)</small>
 
 > <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
 
@@ -1038,3 +1052,11 @@ D.O.F. 2 DE NOVIEMBRE DE 2016.
 PRIMERO. Las presentes modificaciones al Estatuto Orgánico entran en vigor al día siguiente de su aprobación por la Junta de Gobierno.
 
 TERCERO. Las modificaciones en comento deberán inscribirse en el Registro Público de Organismos Descentralizados con fundamento en el artículo 15 de la Ley Federal de las Entidades Paraestatales.
+
+D.O.F. 14 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “MODIFICACIÓN DEL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE CARDIOLOGÍA IGNACIO CHÁVEZ”.]
+
+PRIMERO. Las presentes modificaciones al Estatuto Orgánico entran en vigor al día siguiente de su aprobación por la Junta de Gobierno.
+
+SEGUNDO. Las modificaciones en comento deberán inscribirse en el Registro Público de Organismos Descentralizados con fundamento en el artículo 15 de la Ley Federal de las Entidades Paraestatales.
