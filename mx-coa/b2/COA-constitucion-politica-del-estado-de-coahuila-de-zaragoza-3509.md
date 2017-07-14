@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2016-12-02"
+last_updated: "2017-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "COA"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2017.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -31,8 +33,6 @@ GUSTAVO ESPINOSA MIRELES, Gobernador Constitucional del Estado Independiente, Li
 Que el Congreso del mismo ha decretado lo siguiente:
 
 El XXIII Congreso Constitucional y Constituyente del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza, en ejercicio de los poderes que el Pueblo le ha conferido, decreta la siguiente Constitución Política Reformada, del Estado de Coahuila de Zaragoza:
-
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL DECRETO DE REFORMAS NÚMERO 126, PUBLICADO EN EL P.O. DE 22 DE SEPTIEMBRE DE 2015, TODAS LAS REFERENCIAS QUE SE HAGAN AL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE COAHUILA, SE ENTENDERÁN HECHAS AL INSTITUTO ELECTORAL DE COAHUILA.</small>
 
 ## TITULO PRIMERO.
 
@@ -208,7 +208,7 @@ Ninguna persona será sometida a cualquier forma de esclavitud, servidumbre, o a
 
 #### Sección Segunda. De la Procuración de Justicia
 
-> <small>(REFORMADO Y REUBICADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2017)</small>
 
 ###### Artículo 8º.
 
@@ -672,9 +672,9 @@ II. Tener 21 años cumplidos el día de la elección.
 
 III. No estar en ejercicio activo en el Ejército Nacional ni tener mando en la Policía del Distrito, en que se pretenda su elección, cuando menos noventa días antes de ella.
 
-> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
 
-IV. No ser Secretario de la Administración Pública Estatal, Procurador General de Justicia del Estado, Magistrado del Poder Judicial, Presidente Municipal, Síndico o Regidor, Consejero, o integrante del órgano de dirección de los organismos públicos autónomos, titular de algún organismo descentralizado, miembro de los órganos directivos y técnicos o integrante del cuerpo del servicio profesional electoral del Instituto Electoral de Coahuila, ni Magistrado o Secretario del Tribunal Electoral del Estado de Coahuila de Zaragoza, salvo que se separe de su encargo en los términos que señale la legislación reglamentaria.
+IV. No ser Secretario de la Administración Pública Estatal, Magistrado del Poder Judicial, Presidente Municipal, Síndico o Regidor, Consejero o integrante del órgano de dirección de los organismos públicos autónomos, Fiscal General del Estado, Magistrado del Tribunal de Justicia Administrativa de Coahuila de Zaragoza, titular de algún organismo descentralizado, miembro de los órganos directivos y técnicos o integrante del cuerpo del servicio profesional electoral del Instituto Electoral de Coahuila, ni Magistrado o Secretario del Tribunal Electoral del Estado de Coahuila de Zaragoza, salvo que se separe de su encargo en los términos que señale la legislación reglamentaria.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
 
@@ -686,13 +686,13 @@ El cargo de Diputado es incompatible con cualquier otro empleo, cargo o comisió
 
 Las faltas temporales o absolutas de los Diputados Propietarios se cubrirán por los Suplentes respectivos.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
+
 ###### Artículo 39.
 
-Los Diputados son inviolables por las opiniones que manifiesten en el desempeño de su cargo, y no podrán ser reconvenidos por ellas en ningún tiempo, ni por ninguna Autoridad.
+Los Diputados son inviolables por las opiniones que manifiesten en el desempeño de su cargo, y no podrán ser reconvenidos ni procesados por ellas en ningún tiempo, ni por ninguna Autoridad.
 
-> <small>(ADICIONADO, P.O. 9 DE ENERO DE 1998)</small>
-
-El Presidente del Congreso velará por el respeto al fuero constitucional de los miembros del Poder Legislativo y por la inviolabilidad del recinto donde se reúnan a sesionar.
+El Presidente del Congreso velará por la inviolabilidad del recinto donde se reúnan a sesionar.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -790,9 +790,9 @@ Para que una disposición del Congreso se tenga como legítima es necesario que 
 
 Al discutirse los dictámenes sobre iniciativas de leyes concernientes a la Administración de Justicia y Codificación, podrán asistir a las sesiones el Magistrado o Magistrados que el Supremo Tribunal designe y a quienes se les concederá el uso de la palabra para que opinen o informen sobre dichos dictámenes.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
 
-El Congreso del Estado, podrá solicitar del gobernador la comparecencia de los secretarios del ramo, así como la de quienes dirijan entidades paraestatales, para que informen cuando se discuta una ley, o se estudie un asunto concerniente a sus respectivos ramos o actividades. Asimismo, podrá solicitar la comparecencia del Procurador General de Justicia del Estado.
+El Congreso del Estado, podrá solicitar del gobernador la comparecencia de los secretarios del ramo, así como la de quienes dirijan entidades paraestatales, para que informen cuando se discuta una Ley, o se estudie un asunto concerniente a sus respectivos ramos o actividades.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
 
@@ -840,9 +840,9 @@ III. Al Tribunal Superior, en materia de Administración de Justicia y Codificac
 
 IV. A los Ayuntamientos del Estado, en todo lo concerniente a su competencia municipal. En este caso, la iniciativa se presentará por conducto del presidente municipal, previo acuerdo de la mayoría de los miembros presentes de los Ayuntamientos.
 
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
 
-V. A los organismos públicos autónomos, en todo lo concerniente a su competencia. En este caso, la iniciativa se presentará por conducto del Presidente del organismo previo acuerdo del Consejo General.
+V. A los organismos públicos autónomos, en todo lo concerniente a su competencia. En este caso, la iniciativa se presentará por conducto del Presidente del organismo previo acuerdo del Consejo General, por el Magistrado Presidente del Tribunal de Justicia Administrativa de Coahuila de Zaragoza o el Fiscal General del Estado, según corresponda.
 
 > <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
 
@@ -852,9 +852,7 @@ VI. A los ciudadanos coahuilenses y a los que sin serlo acrediten que han residi
 
 VII. Al instituto Coahuilense de Acceso a la Información Pública, en todo lo concerniente a su competencia. La iniciativa se presentará por conducto del Comisionado Presidente, previo acuerdo del Consejo General.
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
-
-VIII. A la Procuraduría General de Justicia en todo lo concerniente a sus funciones y competencias. La Iniciativa se presentará por conducto del Procurador General de Justicia del Estado.
+VIII. (DEROGADA, P.O. 14 DE JULIO DE 2017)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2016)</small>
 
@@ -1066,15 +1064,15 @@ XV. Recibir para su conocimiento las declaratorias de validez de las elecciones 
 
 XVI. Erigirse en Colegio Electoral, para elegir al ciudadano que deba sustituir al Gobernador del Estado, en los términos de los artículos 78 y 79 de esta Constitución.
 
-> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
 
-XVII. Otorgar o negar su aprobación a los nombramientos de los magistrados del Tribunal Superior de Justicia, del Tribunal de lo Contencioso-Administrativo y del Tribunal de Conciliación y Arbitraje, que les someta el Gobernador del Estado, en los términos de esta Constitución y las leyes.
+XVII. Otorgar o negar su aprobación a los nombramientos de los magistrados del Tribunal Superior de Justicia y del Tribunal de Conciliación y Arbitraje, que les someta el Gobernador del Estado, en los términos de esta Constitución y las leyes.
 
-Igualmente, ratificar, el nombramiento que el titular del ejecutivo haga del Procurador General de Justicia del Estado y, en su caso, acordar su remoción, siempre que concurra alguna de las causales de procedencia previstas en esta Constitución y leyes aplicables.
+Igualmente, integrar la lista de candidatos a Fiscal General de la (sic) Estado; nombrar a dicho servidor público, y formular objeción a la remoción que del mismo haga el Ejecutivo del Estado, en los términos y conforme al procedimiento establecido en esta Constitución y leyes aplicables.
 
-> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
 
-XVIII. Conocer de las renuncias y de las licencias de los diputados, del Gobernador, de los Magistrados del Tribunal Superior de Justicia, del Tribunal de lo Contencioso- Administrativo y del Tribunal de Conciliación y Arbitraje, así como de los miembros de los Ayuntamientos y Concejos Municipales;
+XVIII. Conocer de las renuncias y de las licencias de los diputados, del Gobernador, de los Magistrados del Tribunal Superior de Justicia y del Tribunal de Conciliación y Arbitraje, así como de los miembros de los Ayuntamientos y Concejos Municipales.
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -1088,9 +1086,9 @@ XX. Nombrar comisiones permanentes y especiales, para el estudio de los proyecto
 
 XXI. Conceder o negar permiso a los diputados para desempeñar algún empleo, cargo o comisión federal, estatal y municipal, de conformidad con el artículo 43 de esta Constitución.
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1988)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
 
-XXII. Recibir la protesta de Ley a los Diputados, al Gobernador y a los Magistrados del Tribunal Superior de Justicia.
+XXII. Recibir la protesta de Ley a los Diputados, al Fiscal General del Estado, al Gobernador y a los Magistrados del Tribunal Superior de Justicia.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE NOVIEMBRE DE 1992)</small>
 
@@ -1112,15 +1110,13 @@ XXVII. Declarar suspenso a un ciudadano en el ejercicio de sus derechos polític
 
 XXVIII. Expedir la ley que organice al Ministerio Público y sus auxiliares.
 
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
 
-XXIX. Erigirse en Jurado de Sentencia para conocer en juicio político de aquellas faltas u omisiones que redunden en perjuicio de los intereses públicos fundamentales y de su buen despacho, imputadas a los servidores públicos a que se refiere el artículo 163 de esta Constitución.
+XXIX. Erigirse en Jurado de Sentencia para conocer un juicio político de aquellas faltas u omisiones que redunden en perjuicio de los intereses públicos fundamentales y de su buen despacho, imputadas a los servidores públicos a que se refiere el artículo 163 de esta Constitución.
 
-Asimismo, declarar si ha o no lugar a proceder penalmente contra los servidores públicos a que se refiere el artículo 165 de esta Constitución.
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2006)</small>
-
-XXX. Establecer las normas para la organización y funcionamiento del Tribunal de lo Contencioso-Administrativo del Poder Judicial, en los términos que establece esta Constitución y las leyes.
+XXX. Expedir las normas para la organización y funcionamiento del Tribunal de Justicia Administrativa de Coahuila de Zaragoza, en los términos que establece esta Constitución y las leyes.
 
 > <small>(REFORMADA, P.O. 17 DE JUNIO DE 1988)</small>
 
@@ -1158,13 +1154,21 @@ Las leyes garantizarán la gratuidad de la información pública bajo el princip
 
 XXXIV. Revisar, por conducto de la entidad de fiscalización superior denominada Auditoría Superior del Estado, en los términos previstos en las leyes, la gestión financiera y las cuentas públicas de los Poderes del Estado, Municipios, organismos públicos autónomos, entidades paraestatales, paramunicipales, mandatos, fondos, fideicomisos y de cualquier entidad, persona física o moral, pública o privada que gestione recursos públicos, con objeto de conocer sus resultados y comprobar si se han ajustado a la ley de ingresos o presupuesto de ingresos, según corresponda y a su presupuesto de egresos y el cumplimiento de los objetivos contenidos en los planes y programas.
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
 
-Las cuentas públicas serán entregadas al Congreso a más tardar el último día del mes de enero del año siguiente al ejercicio correspondiente.
+Las cuentas públicas serán entregadas al Congreso a más tardar el treinta de abril del año siguiente al ejercicio correspondiente. Solo se podrá ampliar el plazo de presentación cuando medie solicitud del titular del Ejecutivo del Estado, suficientemente justificada a juicio de la legislatura local.
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
 El Congreso concluirá la revisión de las cuentas públicas en un periodo máximo de 60 días naturales contados a partir de la fecha en que reciba el Informe Anual de Resultados por parte de la Auditoría Superior del Estado, emitiendo el dictamen correspondiente con base en el análisis de su contenido, en las conclusiones técnicas del mismo y, en su caso, en la glosa, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por la Auditoría Superior, seguirá su curso en términos de lo dispuesto en la ley de la materia.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
+
+Si del examen que realice la Auditoría Superior del Estado aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley. En caso de la revisión en cumplimiento de los objetivos de los programas, dicha autoridad sólo podrá emitir las recomendaciones para la mejora en el desempeño de los mismos en los términos de la Ley.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
+
+El Congreso del Estado evaluará el desempeño de la Auditoría Superior del Estado y al efecto le podrá requerir que le informe sobre la evolución de sus trabajos de fiscalización.
 
 > <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 1992)</small>
 
@@ -1208,9 +1212,9 @@ XLIII. Determinar los servicios públicos que, además de los expresamente consi
 
 XLIV. Expedir, con base en lo dispuesto en el apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias, Leyes que rijan las relaciones de trabajo entre el Estado y sus trabajadores y entre los Municipios y quienes laboran a su servicio.
 
-> <small>(ADICIONADA, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
 
-XLV. Expedir una ley sobre responsabilidades de los servidores públicos estatales y municipales, así como otras normas conducentes a sancionar a quienes teniendo este carácter, incurran en responsabilidad.
+XLV. Expedir la ley sobre el Sistema Estatal Anticorrupción para el Estado, en los términos de la Constitución Política de los Estados Unidos Mexicanos y leyes generales aplicables.
 
 > <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
 
@@ -1228,13 +1232,25 @@ XLVIII. Designar al Auditor Superior del Estado, y
 
 XLIX. Ordenar la comparecencia en los términos que la ley señale, de las autoridades o servidores públicos que hayan desestimado las recomendaciones de la Comisión de los Derechos Humanos del Estado de Coahuila a fin de que funden y motiven su rechazo; y
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
 
-L. Coordinar la evaluación, sin perjuicio de su autonomía técnica y de gestión, del desempeño de las funciones de la Auditoría Superior del Estado, en los términos que disponga la ley, y
+L. Coordinar y evaluar, sin perjuicio de su autonomía técnica y de gestión, el desempeño de las funciones de la Auditoría Superior del Estado, en los términos que disponga la ley.
 
-> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
 
-LI. Las demás que le confieran la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y los demás ordenamientos legales.
+LI. Ratificar, a los Magistrados del Tribunal de Justicia Administrativa de Coahuila de Zaragoza, que designe el Gobernador del Estado, por el voto de las dos terceras partes de los miembros presentes.
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2017)</small>
+
+LII. Ratificar el nombramiento del titular de la Secretaría responsable del control interno del Ejecutivo del Estado y entidades estatales y designar con el voto de las dos terceras partes de los miembros presentes a los de Organismos Públicos Autónomos.
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2017)</small>
+
+LIII. Nombrar al Titular de la Fiscalía Especializada en Delitos por Hechos de Corrupción en los términos de esta Constitución.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE JULIO DE 2017)</small>
+
+LIV. Las demás que le confieran la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y los demás ordenamientos legales.
 
 ###### Artículo 68.
 
@@ -1286,9 +1302,9 @@ III. Acordar por sí o a petición del Ejecutivo la convocatoria de la Legislatu
 
 IV. Designar al Gobernador Interino o al Provisional, en los casos a que se refieren los artículos 78 y 79 de esta Constitución.
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2007)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
 
-V. Otorgar o negar su aprobación a los nombramientos de los magistrados del Tribunal Superior de Justicia, del Tribunal Electoral, del Tribunal de lo Contencioso-Administrativo y del Tribunal de Conciliación y Arbitraje, que les someta el Gobernador del Estado, en los términos de esta Constitución y las leyes.
+V. Otorgar o negar su aprobación a los nombramientos de magistrados del Tribunal Superior de Justicia, del Tribunal de Conciliación y Arbitraje, que les someta el Gobernador del Estado, en los términos de esta Constitución y las leyes.
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -1330,17 +1346,27 @@ De igual forma, los servidores públicos, así como cualquier entidad, persona f
 
 La Auditoría Superior del Estado es competente para:
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2017)</small>
 
-I. Fiscalizar en forma posterior las cuentas públicas y los informes de avance de gestión financiera de las entidades, en los términos que dicta esta Constitución y las leyes.
+I. Fiscalizar en forma posterior los ingresos, egresos y deuda; el manejo, la custodia y la aplicación de fondos y recursos de los Poderes del Estado y de los entes públicos estatales y municipales, así como realizar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los planes y programas estatales y municipales, a través de los informes que se rendirán en los términos que dispongan esta Constitución y las leyes. Fiscalizará además, de manera coordinada con las autoridades de la Federación, las participaciones federales asignadas al Estado y los municipios.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
 No obstante lo anterior, la Auditoría Superior del Estado podrá iniciar el proceso de fiscalización durante el ejercicio fiscal en curso;
 
-II. Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en la gestión financiera de las entidades fiscalizadas; y efectuar visitas domiciliarias para exigir la exhibición de libros, documentos y demás información indispensables para la realización de sus investigaciones, sujetándose a las formalidades establecidas en las leyes.
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
 
-III. Determinar los daños y perjuicios que afecten a la hacienda pública o al patrimonio de las entidades; y
+Los informes de auditoría de la Auditoría Superior del Estado tienen carácter público.
 
-IV. Fincar directamente a los responsables, las indemnizaciones y sanciones pecuniarias correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades.
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
+
+II. Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos estatales, y efectuar visitas domiciliarias, únicamente para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas para los cateos.
+
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
+
+III. Derivado de sus investigaciones, promover las responsabilidades que sean procedentes ante el Tribunal de Justicia Administrativa de Coahuila de Zaragoza y la Fiscalía Especializada en Delitos por Hechos de Corrupción de la Fiscalía General de Justicia del Estado, para la imposición de las sanciones que correspondan a los servidores públicos estatales y municipales y, en su caso, a los particulares, en los términos de esta Constitución y las leyes.
+
+IV. (DEROGADA, P.O. 14 DE JULIO DE 2017)
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
@@ -1350,11 +1376,11 @@ La Auditoría Superior del Estado podrá solicitar y revisar, de manera casuíst
 
 Así mismo, en las situaciones excepcionales que determine la ley, podrá realizar directamente revisiones de conceptos específicos o requerir a las entidades que procedan a la revisión de los conceptos que estime pertinentes, durante el ejercicio en curso, a fin de que le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la ley, dará lugar al fincamiento de las responsabilidades que correspondan. La Auditoría Superior del Estado rendirá un informe específico al Congreso del Estado, a través de la Comisión de Auditoría Gubernamental y Cuenta Pública y, en su caso, fincará las responsabilidades correspondientes o promoverá otras responsabilidades ante las autoridades competentes.
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
 
 ###### Artículo 74-C.
 
-La Auditoría Superior del Estado entregará el Informe Anual de Resultados de la fiscalización superior de las cuentas públicas, en los términos que señale la ley, a más tardar el 30 de septiembre del año siguiente al ejercicio fiscalizado.
+La Auditoría Superior del Estado entregará el Informe Anual de Resultados de la fiscalización superior de las cuentas públicas, en los términos que señale la ley, a más tardar el 31 de diciembre del año siguiente al ejercicio fiscalizado.
 
 > <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2014)</small>
 
@@ -1390,9 +1416,9 @@ III. Ser coahuilense por nacimiento o tener una residencia efectiva en el Estado
 
 IV. No encontrarse en el supuesto a que se refiere el segundo párrafo del artículo 30 de esta Constitución.
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
 
-V. No ser secretario de la administración pública estatal, Procurador General de Justicia del Estado, magistrado del Poder Judicial, presidente municipal, síndico o regidor, consejero o integrante del órgano de dirección de los organismos públicos autónomos, titulares de los organismos descentralizados, miembro de los órganos directivos y técnicos o integrante del cuerpo del servicio profesional electoral del Instituto, ni secretario del Tribunal Electoral del Poder Judicial del Estado, salvo que se separe de su encargo en los términos que señale la legislación reglamentaria.
+V. No ser secretario de la administración pública estatal, magistrado del Poder Judicial, presidente municipal, síndico o regidor, consejero o integrante del órgano de dirección de los organismos públicos autónomos, magistrado del Tribunal de Justicia Administrativa de Coahuila de Zaragoza, Fiscal General del Estado, titulares de los organismos descentralizados, miembro de los órganos directivos y técnicos o integrante del cuerpo del servicio profesional electoral del Instituto, ni secretario del Tribunal Electoral del Poder Judicial del Estado, salvo que se separe de su encargo en los términos que señale la legislación reglamentaria.
 
 VI. No haber figurado directa ni indirectamente en alguna asonada, motín o cuartelazo.
 
@@ -1504,7 +1530,9 @@ VII. Nombrar, cuando lo crea conveniente, personas de su confianza para que info
 
 VIII. Pedir a la Diputación Permanente expida convocatoria a sesiones extraordinarias del Congreso.
 
-IX. (DEROGADA, P.O. 26 DE JUNIO DE 2012)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JULIO DE 2017)</small>
+
+IX. Someter al Congreso del Estado para su ratificación, los nombramientos de los Magistrados del Tribunal de Justicia Administrativa de Coahuila de Zaragoza.
 
 > <small>(REFORMADA, P.O. 17 DE JUNIO DE 1988)</small>
 
@@ -1514,7 +1542,9 @@ X. Concurrir personalmente al Congreso del Estado o enviar al Secretario del Ram
 
 XI. Remitir al Congreso los antecedentes relativos a actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho, imputados a los servidores públicos a que se refiere el artículo 163 de esta Constitución; así como los relativos a delitos imputados a los servidores públicos a que se refiere el artículo 165 de esta Constitución.
 
-XII. (DEROGADA, P.O. 20 DE MARZO DE 2001)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JULIO DE 2017)</small>
+
+XII. Intervenir en la designación del Fiscal General del Estado, en términos de lo dispuesto en esta Constitución.
 
 > <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
 
@@ -1556,9 +1586,9 @@ XXI. Sancionar con conocimiento de causa a los que infrinjan los reglamentos gub
 
 XXII. Nombrar apoderados para asuntos administrativos y judiciales que se tramiten dentro o fuera del Estado.
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2007)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
 
-XXIII. Someter al Congreso del Estado, en los términos de esta Constitución y demás disposiciones aplicables, los nombramientos de Magistrados Numerarios y Supernumerarios del Tribunal Superior de Justicia, del Tribunal Electoral, del Tribunal de lo Contencioso-Administrativo y del Tribunal de Conciliación y Arbitraje.
+XXIII. Someter al Congreso del Estado, en los términos de esta Constitución y demás disposiciones aplicables, los nombramientos de Magistrados Numerarios y Supernumerarios del Tribunal Superior de Justicia y del Tribunal de Conciliación y Arbitraje.
 
 > <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
 
@@ -1720,15 +1750,11 @@ Los reglamentos, decretos, acuerdos y circulares expedidos por el Gobernador, se
 
 Tratándose de los decretos promulgatorios de las leyes o decretos expedidos por el Congreso del Estado, sólo se requerirá el refrendo del Secretario de Gobierno.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
 
 ###### Artículo 89.
 
 Los Secretarios del Ramo y los Directores Generales o sus equivalentes de las entidades paraestatales, previa anuencia del Gobernador, así como los titulares de los organismos públicos autónomos concurrirán a las sesiones del Congreso, para que informen cuando se discuta una Ley o se estudie un asunto concerniente a sus respectivos ramos o actividades.
-
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
-
-El Procurador General de Justicia del Estado, previa solicitud del Legislativo al Gobernador, podrá concurrir ante el Congreso cuando las leyes que se discutan sean de su competencia.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
 
@@ -1744,13 +1770,11 @@ También están impedidos para ejercer la abogacía, salvo en causa propia.
 
 Las faltas temporales de los Secretarios del Ramo, serán suplidas por el funcionario que determine el reglamento interior respectivo.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
 
 ###### Artículo 92.
 
 Los reglamentos interiores de cada una de las secretarías del ramo serán expedidos por el Gobernador del Estado y en ellos se determinarán las atribuciones de sus unidades administrativas.
-
-Los reglamentos que requiera la procuración de justicia para hacerla pronta y expedita, deberán tener como principios rectores el respeto a los derechos humanos de las víctimas, de los indiciados y los probables responsables de los delitos, teniendo el Procurador General de Justicia la facultad de expedirlos, en los términos que disponga la ley que rija su función.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
 
@@ -1984,7 +2008,7 @@ Los particulares podrán prestar servicios de seguridad privada previa autorizac
 
 ###### Artículo 113.
 
-La procuración de justicia es una función esencial y por tanto indelegable del Estado que tiene por objeto proteger los intereses de la sociedad y resguardar la observancia de la ley, particularmente por lo que toca a la investigación y persecución de los delitos del orden común. Se ejerce a través de un órgano de la administración pública centralizada, denominado Procuraduría General de Justicia del Estado que se integra por el Ministerio Público, sus órganos auxiliares y áreas de apoyo.
+La procuración de justicia es una función esencial y por tanto indelegable del Estado que tiene por objeto proteger los intereses de la sociedad y resguardar la observancia de la ley, particularmente por lo que toca a la investigación y persecución de los delitos del orden común. Se ejerce a través de un organismo público autónomo, dotado de personalidad jurídica y de patrimonio propios, denominado Fiscalía General del Estado de Coahuila de Zaragoza que se integra por el Ministerio Público, sus órganos auxiliares y áreas de apoyo.
 
 > <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2013)</small>
 
@@ -1994,75 +2018,111 @@ La investigación de los delitos corresponde al Ministerio Público y a las poli
 
 El Ministerio Público es la institución única e indivisible, que dirige la investigación y persecución de los hechos probablemente constitutivos de delitos y, en su caso, promueve el ejercicio de la acción penal ante los tribunales de justicia, protege y brinda atención a las víctimas del delito y testigos, con el respeto irrestricto a los Derechos Humanos del imputado y demás intervinientes. En el ejercicio de su función de investigación y persecución de los delitos, el Ministerio Público goza de total autonomía, para garantizar su independencia en la emisión de las determinaciones de su competencia, por lo que ningún funcionario del Poder Ejecutivo o de cualquier otro poder podrá intervenir en sus decisiones.
 
+> <small>(REFORMADO Y REUBICADO, P.O. 8 DE ABRIL DE 2012)</small>
+
 La actuación del personal de procuración de justicia se regirá bajo los principios de legalidad, eficiencia, profesionalismo, honradez, imparcialidad, transparencia, objetividad, independencia y respeto a los derechos humanos.
 
-El Procurador General de Justicia presidirá al Ministerio Público y será el titular de la dependencia, con las facultades y obligaciones que establecen esta Constitución y las leyes. En el ámbito de la investigación y persecución de los delitos, las decisiones del Procurador únicamente estarán sujetas al mandato de la ley.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+El Fiscal General del Estado presidirá al Ministerio Público y será el titular de la fiscalía, con las facultades y obligaciones que establecen esta Constitución y las leyes. En el ámbito de la investigación y persecución de los delitos, las decisiones del Fiscal General del Estado únicamente estarán sujetas al mandato de la ley.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
+
+La Fiscalía General del Estado de Coahuila de Zaragoza contará con una Fiscalía Especializada en Delitos por Hechos de Corrupción, dotada de autonomía técnica y operativa para investigar y perseguir los hechos que la ley considera como delitos por hechos de corrupción, cuyo titular será nombrado previa convocatoria, pública, abierta y transparente por las dos terceras partes de los diputados presentes del Congreso. El Ejecutivo podrá objetar dicho nombramiento, en cuyo caso se procederá a un nuevo nombramiento en los términos de este párrafo.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
+
+El titular de la Fiscalía Especializada en Delitos por Hechos de Corrupción, podrá ser removido libremente por el Fiscal General del Estado. La remoción podrá ser objetada por el voto de la mayoría de los miembros presentes del Congreso del Estado dentro de un plazo de diez días hábiles, en cuyo caso el titular de la Fiscalía Especializada será restituido en el ejercicio de sus funciones.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
 
 ###### Artículo 114.
 
-El Procurador General de Justicia del Estado será designado por el gobernador y deberá de ser ratificado por el Congreso del Estado o en los recesos por la diputación permanente, de acuerdo a lo previsto por el segundo párrafo de la fracción XVII del artículo 67 de esta Constitución. En ambos casos bastará con la mayoría relativa. Los requisitos, el ejercicio y la conclusión del cargo de Procurador General, se sujetará a las bases siguientes:
+Los requisitos, la designación, el ejercicio y la remoción del cargo de Fiscal General del Estado, se sujetará a las bases siguientes:
 
 I. Para ocupar el cargo se requerirá:
 
-1. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
+1. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos civiles y políticos.
 
-2. Tener cuando menos treinta y cinco años cumplidos el día de la designación;
+2. Tener cuando menos treinta y cinco años cumplidos el día de la designación.
 
-3. Contar, con título profesional de licenciado en derecho, expedido por autoridad o institución legalmente facultada para ello y cédula profesional que acredite su registro ante autoridad competente y contar con una antigüedad mínima de 10 años en el ejercicio de la profesión;
+3. Contar, con título profesional de licenciado en derecho, expedido por autoridad o institución legalmente facultada para ello y cédula profesional que acredite su registro ante autoridad competente y contar con una antigüedad mínima de 10 años en el ejercicio de la profesión.
 
-4. Gozar de buena reputación y no haber sido condenado por la comisión de delito doloso, y
+4. Gozar de buena reputación y no haber sido condenado por la comisión de delito doloso.
 
-5. Haber residido en el Estado durante los cinco años anteriores al día de la designación.
+5. No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público.
 
-II. Antes de tomar posesión de su cargo deberá rendir la protesta de ley ante el Gobernador del Estado;
+6. Haber residido en el Estado durante los cinco años anteriores al día de la designación.
 
-III. El período constitucional del Procurador General será de seis años;
+II. La designación y remoción se realizarán conforme al siguiente procedimiento:
 
-IV. Sólo podrá ser separado del cargo, antes del vencimiento de su ejercicio, en la forma y términos que fije esta Constitución, la ley de la materia y la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales;
+1. A partir de la ausencia definitiva del Fiscal General del Estado, el Congreso del Estado, previa convocatoria pública abierta y transparente, contará con veinte días para integrar una lista de al menos diez candidatos al cargo, aprobada por las dos terceras partes de los miembros presentes, la cual enviará al Ejecutivo del Estado.
 
-V. La separación, en los términos antes previstos, será propuesta por el Gobernador del Estado y resuelta en definitiva por el Congreso o en los recesos por la Diputación Permanente;
+Si el Ejecutivo del Estado no recibe la lista en el plazo antes señalado, enviará libremente al Congreso del Estado una terna y designará provisionalmente al Fiscal General del Estado, quien ejercerá sus funciones hasta en tanto se realice la designación definitiva conforme a lo establecido en este artículo. En este caso, el Fiscal General del Estado designado podrá formar parte de la terna.
 
-VI. En tanto se designe nuevo Procurador General, se apruebe su nombramiento y rinda la protesta de ley, ocupará el cargo el subprocurador que conforme a la ley deba cubrir su ausencia;
+2. Recibida la lista a que se refiere la fracción anterior, dentro de los diez días siguientes el Ejecutivo del Estado formulará una terna y la enviará a consideración del Congreso del Estado.
 
-VII. El cargo será incompatible con cualquier otro empleo, cargo o comisión de carácter público o privado, así como con el ejercicio libre de la profesión de abogado. Sin embargo, podrá realizar labores docentes y actividades de investigación académica y/o científica, en los términos previstos por la ley de la materia.
+3. El Congreso del Estado, con base en la terna y previa comparecencia de las personas propuestas, designará al Fiscal General del Estado con el voto de las dos terceras partes de los miembros presentes dentro del plazo de diez días.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+En caso de que el Ejecutivo del Estado no envíe la terna a que se refiere la fracción anterior, el Congreso del Estado tendrá diez días para designar al Fiscal General del Estado de entre los candidatos de la lista que señala el numeral 1.
+
+Si el Congreso del Estado no hace la designación en los plazos que establecen los párrafos anteriores, el Ejecutivo del Estado designará al Fiscal General del Estado de entre los candidatos que integren la lista o, en su caso, la terna respectiva.
+
+4. El Fiscal General del Estado podrá ser removido por el Congreso del Estado por las causas graves que establezca la ley, en la forma y términos que fijen esta Constitución y la ley de la materia. La remoción deberá ser aprobada por el voto de las dos terceras partes de los miembros presentes.
+
+5. En los recesos del Congreso del Estado, la Diputación Permanente lo convocará de inmediato a sesión extraordinaria para la designación o formulación de objeción a la remoción del Fiscal General del Estado.
+
+6. Las ausencias del Fiscal General del Estado serán suplidas en los términos que determine la ley.
+
+III. Antes de tomar posesión de su cargo deberá rendir la protesta de ley ante el Congreso del Estado.
+
+IV. El período constitucional del Fiscal General del Estado será de siete años.
+
+V. En tanto se designe nuevo Fiscal General del Estado y rinda la protesta de ley, ocupará el cargo el servidor público que conforme a la ley deba cubrir su ausencia.
+
+VI. El cargo será incompatible con cualquier otro empleo, cargo o comisión de carácter público o privado, así como con el ejercicio libre de la profesión de abogado. Sin embargo, podrá realizar labores docentes y actividades de investigación académica y/o científica, en los términos previstos por la ley de la materia.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
 
 ###### Artículo 115.
 
-El Procurador General de Justicia tendrá los siguientes deberes y atribuciones:
+El Fiscal General del Estado tendrá los siguientes deberes y atribuciones:
 
-I. Ser el titular y rector de la Procuraduría General de Justicia del Estado y presidir al Ministerio Público;
+I. Ser el titular y rector de la Fiscalía General del Estado de Coahuila de Zaragoza y presidir al Ministerio Público.
 
-II. Velar por el respeto de las instituciones constitucionales y los derechos humanos, con cuantas actuaciones exijan su defensa;
+II. Velar por el respeto de las instituciones constitucionales y los derechos humanos, con cuantas actuaciones exijan su defensa.
 
-III. Participar en el Sistema Nacional de Seguridad Pública y en el Sistema de Seguridad Pública del Estado;
+III. Participar en el Sistema Nacional de Seguridad Pública y en el Sistema de Seguridad Pública del Estado.
 
-IV. Formular iniciativas de ley ante el Congreso del Estado, en materia de procuración de justicia;
+IV. Formular iniciativas de ley ante el Congreso del Estado, en materia de procuración de justicia.
 
-V. Emitir los reglamentos, circulares y demás disposiciones administrativas que regulen los procedimientos, materias, funciones y servicios públicos de su competencia;
+V. Emitir los reglamentos, circulares y demás disposiciones administrativas que regulen los procedimientos, materias, funciones y servicios públicos de su competencia.
 
-VI. Atender las visitas, quejas, propuestas de conciliación y recomendaciones de la Comisión Nacional y de la Comisión Estatal de los Derechos Humanos;
+VI. Atender las visitas, quejas, propuestas de conciliación y recomendaciones de la Comisión Nacional y de la Comisión Estatal de los Derechos Humanos.
 
-VII. Nombrar y remover de conformidad con la ley, a los servidores públicos bajo su dependencia, siempre y cuando el nombramiento no esté previsto de manera especial por esta Constitución o las leyes;
+VII. Nombrar y remover de conformidad con la ley, a los servidores públicos bajo su dependencia, siempre y cuando el nombramiento no esté previsto de manera especial por esta Constitución o las leyes.
 
-VIII. Asignar y desplazar libremente a los servidores públicos en las labores de procuración de justicia, investigación y atención de procesos. Asimismo, determinar el criterio y la posición que la Procuraduría General de Justicia del Estado asumirá en cada caso;
+VIII. Asignar y desplazar libremente a los servidores públicos en las labores de procuración de justicia, investigación y atención de procesos. Asimismo, determinar el criterio y la posición que la Fiscalía General del Estado de Coahuila de Zaragoza asumirá en cada caso.
 
-IX. Coordinar los trabajos tendientes a conformar las políticas públicas de procuración de justicia en el Estado;
+IX. Coordinar los trabajos tendientes a conformar las políticas públicas de procuración de justicia en el Estado.
 
-X. Investigar, por sí o por conducto del personal de su dependencia, de oficio o con base en la denuncia o querella formuladas, los hechos que puedan constituir delito;
+X. Investigar, por sí o por conducto del personal de su dependencia, de oficio o con base en la denuncia o querella formuladas, los hechos que puedan constituir delito.
 
-XI. Ejercitar las acciones penales y civiles dimanantes de delitos o de situaciones jurídicas en que exista interés público u oponerse a las ejercitadas por otros, cuando proceda;
+XI. Ejercitar las acciones penales y civiles dimanantes de delitos o de situaciones jurídicas en que exista interés público u oponerse a las ejercitadas por otros, cuando proceda.
 
-XII. Suministrar al Gobernador información sobre las investigaciones cuando sea necesario para la preservación del orden público;
+XII. Suministrar al Gobernador información sobre las investigaciones cuando sea necesario para la preservación del orden público.
 
-XIII. Elaborar cada año el proyecto de presupuesto de la Procuraduría General de Justicia del Estado y hacerlo llegar al Gobernador, para su inclusión en el presupuesto de egresos. Por la especialidad de la función, cualquier modificación deberá ser puesta a consideración del Procurador General para que fundamente las necesidades planteadas o establezca prioridades;
+XIII. Elaborar cada año el proyecto de presupuesto de la Fiscalía General del Estado de Coahuila de Zaragoza y hacerlo llegar al Ejecutivo del Estado, para su inclusión en el presupuesto de egresos. Por la especialidad de la función, cualquier modificación deberá ser puesta a consideración del Fiscal General del Estado para que fundamente las necesidades planteadas o establezca prioridades.
 
-XIV. Denunciar ante el Pleno del Tribunal Superior de Justicia las tesis que estime contradictorias para su depuración; y
+XIV. Denunciar ante el Pleno del Tribunal Superior de Justicia las tesis que estime contradictorias para su depuración, en asuntos en materia penal y procesal penal, así como los relacionados con el ámbito de sus funciones.
 
-XV. Las demás que le atribuyan las leyes aplicables.
+XV. Presentar anualmente a los Poderes Legislativo y Ejecutivo un informe de actividades y comparecer ante el Congreso del Estado cuando se le cite a rendir cuentas o a informar sobre su gestión.
+
+XVI. El Fiscal General del Estado, podrá concurrir ante el Congreso cuando las leyes que se discutan sean de su competencia.
+
+XVII. Expedir los reglamentos que requiera la procuración de justicia para hacerla pronta y expedita, los cuales deberán tener como principios rectores el respeto a los derechos humanos de las víctimas, de los indiciados y los probables responsables de los delitos, en los términos que disponga la ley que rija su función.
+
+XVIII. Las demás que le atribuyan las leyes.
 
 #### SECCION III.
 
@@ -2218,11 +2278,11 @@ Para realizar los objetivos de la educación y la enseñanza, el Estado contará
 
 De la Organización y Atribuciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2017)</small>
 
 ###### Artículo 135.
 
-El poder Judicial se deposita, para su ejercicio, en el Tribunal Superior de Justicia, en el Tribunal de lo Contencioso-Administrativo, en el Tribunal de Conciliación y Arbitraje, en los Tribunales Distritales, en los Juzgados de Primera Instancia, cualquiera que sea su denominación, en el Consejo de la Judicatura y en los demás órganos judiciales que con cualquier otro nombre determinen las leyes.
+El poder Judicial se deposita, para su ejercicio, en el Tribunal Superior de Justicia, en el Tribunal de Conciliación y Arbitraje, en los Tribunales Distritales, en los Juzgados de Primera Instancia, cualquiera que sea su denominación, en el Consejo de la Judicatura y en los demás órganos judiciales que con cualquier otro nombre determinen las leyes.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
 
@@ -2234,63 +2294,37 @@ I.- De quince años, para los Magistrados del Tribunal Superior de Justicia;
 
 II.- (DEROGADA, P.O. 22 DE SEPTIEMBRE DE 2015)
 
-> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
 
-III.- De seis años en el primer ejercicio del encargo para los Magistrados del Tribunal de lo Contencioso-Administrativo, del Tribunal de Conciliación y Arbitraje y de los Tribunales Unitarios de Distrito, que se contara a partir de la fecha de su designación. Al término del citado periodo podrán ser designados nuevamente, por única vez, por un periodo de nueve años.
+III.- De seis años en el primer ejercicio del encargo para los Magistrados del Tribunal de Conciliación y Arbitraje y de los Tribunales Unitarios de Distrito, que se contará a partir de la fecha de su designación.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2007)</small>
+
+Al término del citado periodo podrán ser designados nuevamente, por única vez, por un periodo de nueve años.
 
 > <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2007)</small>
 
 Al vencimiento de los periodos descritos en las fracciones anteriores, los Magistrados tendrán derecho a un haber por retiro en los términos que establezca la ley.
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2007) (F. DE E., P.O. 31 DE JULIO DE 2007)
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
 
 ###### Artículo 136.
 
-La competencia, organización y atribuciones del Tribunal Superior de Justicia, así como las facultades, deberes y responsabilidades de los magistrados, se regirán por esta Constitución y demás leyes. Será Presidente del Tribunal, el magistrado que designe el Pleno, en los términos establecidos por la ley de la materia, y durará en su encargo cinco años y podrá ser reelecto por igual término. Mientras ejerza su función no integrara sala.
+La competencia, organización y atribuciones del Tribunal Superior de Justicia, así como facultades, deberes y responsabilidades de los magistrados, se regirán por esta Constitución y demás leyes. Será Presidente del Tribunal, el magistrado que designe el Pleno, en los términos establecidos por la ley de la materia, y durará en su encargo cinco años y podrá ser reelecto por igual término. Mientras ejerza su función no integrara sala.
 
-(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE JUNIO DE 2007) (F. DE E., P.O. 31 DE JULIO DE 2007)
+El Tribunal Superior de Justicia se compondrá de catorce Magistrados y funcionará en Pleno o en Salas.
 
-El Tribunal Superior de Justicia se compondrá por catorce Magistrados y funcionará en Pleno o en Salas. Se establecerá una Sala Auxiliar del Tribunal, cuya jurisdicción comprenderá los Distritos Judiciales de Viesca y San Pedro y tendrá la competencia que determine la propia ley. Esta Sala Auxiliar se integrará por tres Magistrados numerarios y tres Magistrados supernumerarios. El Presidente de la Sala Auxiliar será integrante del Pleno.
+Se establecerá una Sala Auxiliar del Tribunal, cuya jurisdicción comprenderá los Distritos Judiciales de Viesca y San Pedro y tendrá la competencia que determine la propia ley. Esta Sala Auxiliar se integrará por tres Magistrados numerarios y tres Magistrados supernumerarios. El Presidente de la Sala Auxiliar será integrante del Pleno.
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+Los Magistrados del Tribunal de Conciliación y Arbitraje y de los Tribunales Unitarios de Distrito no integrarán el Pleno.
 
-Los Magistrados del Tribunal de lo Contencioso-Administrativo, del Tribunal de Conciliación y Arbitraje y de los Tribunales Unitarios de Distrito no integrarán el Pleno.
+La competencia, procedimientos, organización del Tribunal de Conciliación y Arbitraje, de los Tribunales Distritales, de los juzgados de Primera Instancia cualquiera que sea su denominación, y de los demás órganos jurisdiccionales que determinen las leyes, así como las facultades, deberes y responsabilidades de los servidores públicos judiciales, se regirán por lo dispuesto en las leyes según los principios de esta Constitución.
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
 
-La competencia, procedimientos, organización del Tribunal de lo Contencioso Administrativo, del Tribunal de Conciliación y Arbitraje, de los Tribunales Distritales, de los juzgados de Primera Instancia cualquiera que sea su denominación, y de los demás órganos jurisdiccionales que determinen las leyes, así como las facultades, deberes y responsabilidades de los servidores públicos judiciales, se regirán por lo dispuesto en las leyes según los principios de esta Constitución.
+###### Artículo 136-A.
 
-A. (DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2015)
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2006)</small>
-
-B. El Tribunal de lo Contencioso-Administrativo es un órgano especializado del Poder Judicial, dotado de autonomía constitucional, independencia y de plena jurisdicción conforme a las bases siguientes:
-
-> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2005)</small>
-
-I. Funcionará con una Sala Superior y Salas Distritales, en los términos que establezca la ley.
-
-> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2005)</small>
-
-II. La Sala Superior se integrará por tres magistrados numerarios y tres magistrados supernumerarios.
-
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2006)</small>
-
-III. Para ser Magistrado del Tribunal de lo Contencioso-Administrativo deberán cumplirse los requisitos establecidos en el Artículo 138 de esta Constitución.
-
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2006)</small>
-
-IV. El Tribunal de lo Contencioso-Administrativo conocerá y resolverá las controversias que se susciten en relación con la legalidad, interpretación, cumplimiento y efectos de actos, procedimientos y resoluciones de naturaleza administrativa y fiscal, que emitan, ordenen, ejecuten o traten de ejecutar las autoridades de la Administración Pública del Estado y de los Municipios, cuya actuación afecte la esfera jurídica de los particulares, en los términos que determine la ley de la materia y los demás ordenamientos aplicables.
-
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2006)</small>
-
-V.- La administración, vigilancia y disciplina del Tribunal de lo Contencioso-Administrativo corresponderán, en los términos que señale la ley, al Consejo de la Judicatura del Estado.
-
-El Presidente del Tribunal de lo Contencioso-Administrativo formará parte del Consejo de la Judicatura siempre con voz y voto únicamente en los asuntos que le competan al Tribunal que preside.
-
-> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2007)</small>
-
-C.- El Tribunal de Conciliación y Arbitraje es un órgano especializado del Poder Judicial, dotado de autonomía constitucional, independencia y de plena jurisdicción conforme a las bases siguientes:
+El Tribunal de Conciliación y Arbitraje es un órgano especializado del Poder Judicial, dotado de autonomía constitucional, independencia y de plena jurisdicción conforme a las bases siguientes:
 
 I. Funcionará con una Sala Superior y Salas Especiales en los términos que establezca la Ley;
 
@@ -2314,21 +2348,21 @@ IV. El procedimiento de designación de los Magistrados del Tribunal de Concilia
 
 V. Los Magistrados del Tribunal de Conciliación y Arbitraje deberán cumplir con los requisitos establecidos en el artículo 138 de esta Constitución y tener como mínimo tres años de experiencia acreditable en materia laboral;
 
-VI. El presidente del Tribunal de Conciliación y Arbitraje será elegido, de entre sus miembros, para ejercer el cargo por tres años y podrá ser reelecto por igual periodo;
+VI. El presidente del Tribunal de Conciliación y Arbitraje será elegido, de entre sus miembros, para ejercer el cargo por tres años y podrá ser reelecto por igual período;
 
 VII. La administración, vigilancia y disciplina del Tribunal de Conciliación y Arbitraje corresponderán, en los términos que señale la ley, al Consejo de la Judicatura. El Presidente del Tribunal de Conciliación y Arbitraje formará parte del Consejo de la Judicatura siempre con voz, y voto únicamente en los asuntos que le competan al Tribunal que preside.
 
-> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2017)</small>
 
 ###### Artículo 137.
 
-El Pleno y las Salas del Tribunal Superior de Justicia del Estado, el Tribunal Electoral, el Tribunal de lo Contencioso-Administrativo, el Tribunal de Conciliación y Arbitraje y los Tribunales Unitarios de Distrito, están facultados para formar jurisprudencia local en los términos que establezca la ley.
+El Pleno y las Salas del Tribunal Superior de Justicia del Estado, el Tribunal de Conciliación y Arbitraje y los Tribunales Unitarios de Distrito, están facultados para formar jurisprudencia local en los términos que establezca la ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
 
 ###### Artículo 138.
 
-Para ser nombrado Magistrado del Tribunal Superior de Justicia, del Tribunal de lo Contencioso-Administrativo y del Tribunal de Conciliación y Arbitraje se requiere:
+Para ser nombrado Magistrado del Tribunal Superior de Justicia y del Tribunal de Conciliación y Arbitraje se requiere:
 
 > <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2006)</small>
 
@@ -2350,15 +2384,15 @@ IV. Gozar de buena reputación y no haber sido condenado por delito que amerite 
 
 V. Haber residido en el Estado durante los dos años anteriores al día de la designación, y
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
 
-VI. No haber ocupado el cargo de Secretario del Ramo o su equivalente, en la Administración Pública Estatal, de Procurador General de Justicia en el Estado, de Diputado local, de Presidente Municipal o alguno de los cargos a que se refiere el artículo 95, fracción VI de la Constitución Política de los Estados Unidos Mexicanos, durante el año previo al día de su nombramiento.
+VI. No haber ocupado el cargo de Secretario del Ramo o su equivalente, en la Administración Pública Estatal, de Fiscal General del Estado, de Diputado local, de Presidente Municipal o alguno de los cargos a que se refiere el artículo 95, fracción VI de la Constitución Política de los Estados Unidos Mexicanos, durante el año previo al día de su nombramiento.
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
 
-Los nombramientos de los Magistrados del Tribunal Superior de Justicia, del Tribunal de lo Contencioso-Administrativo y del Tribunal de Conciliación y Arbitraje, deberán recaer preferentemente entre aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia o que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de la actividad jurídica.
+Los nombramientos de los Magistrados del Tribunal Superior de Justicia y del Tribunal de Conciliación y Arbitraje, deberán recaer preferentemente entre aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia o que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de la actividad jurídica.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
 
 ###### Artículo 139.
 
@@ -2388,9 +2422,9 @@ Es obligatorio para toda autoridad, cumplir las sentencias y demás resoluciones
 
 El Consejo de la Judicatura es un órgano del Poder Judicial del Estado, que tendrá como funciones la administración, vigilancia y disciplina de los órganos jurisdiccionales. La administración de las dependencias del Pleno, la Presidencia y las Salas, estará a cargo del Presidente del Tribunal Superior de Justicia.
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
 
-El Consejo de la Judicatura estará integrado por seis Consejeros, uno de los cuales será el Presidente del Tribunal Superior de Justicia del Estado, quien lo presidirá con voz y voto de calidad; uno designado por el Ejecutivo del Estado; uno designado por el Congreso del Estado; un Magistrado del Tribunal Superior de Justicia, un Magistrado de Tribunal Distrital y un Juez de Primera Instancia, que serán los de mayor antigüedad en el ejercicio de los respectivos cargos. Los Presidentes del Tribunal de lo Contencioso Administrativo y del Tribunal de Conciliación y Arbitraje, formarán parte siempre del Consejo con voz, pero sólo tendrán voto cuando se trate de asuntos relativos a los Tribunales que presiden.
+El Consejo de la Judicatura estará integrado por seis Consejeros, uno de los cuales será el Presidente del Tribunal Superior de Justicia del Estado, quien lo presidirá con voz y voto de calidad; uno designado por el Ejecutivo del Estado; uno designado por el Congreso del Estado; un Magistrado del Tribunal Superior de Justicia, un Magistrado de Tribunal Distrital y un Juez de Primera Instancia, que serán los de mayor antigüedad en el ejercicio de los respectivos cargos. El Presidente del Tribunal de Conciliación y Arbitraje, formará parte siempre del Consejo con voz, pero sólo tendrá voto cuando se trate de asuntos relativos al Tribunal que preside.
 
 Los consejeros deberán reunir los requisitos para ser magistrados y durarán tres años en su cargo, salvo su Presidente. Por cada uno de los consejeros, habrá un suplente.
 
@@ -2420,11 +2454,11 @@ La formación y actualización de los servidores públicos judiciales, estará a
 
 Los nombramientos de los Magistrados y Jueces, integrantes del Poder Judicial, serán hechos, preferentemente, entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia, o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2017)</small>
 
 ###### Artículo 146.
 
-Los nombramientos de los magistrados del Tribunal Superior de Justicia, y del Tribunal de lo Contencioso-Administrativo, serán hechos por el Gobernador del Estado de la lista de candidatos que le presente el Consejo de la Judicatura y sometidos a la aprobación del Congreso, o en su caso, de la Diputación Permanente, cuando proceda, el que la otorgará o negará dentro del improrrogable término de cinco días.
+Los nombramientos de los magistrados del Tribunal Superior de Justicia serán hechos por el Gobernador del Estado de la lista de candidatos que le presente el Consejo de la Judicatura y sometidos a la aprobación del Congreso, o en su caso, de la Diputación Permanente, cuando proceda, el que la otorgará o negará dentro del improrrogable término de cinco días.
 
 (REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE MAYO DE 2007) (F. DE E., P.O. 19 DE JUNIO DE 2007)
 
@@ -2452,11 +2486,11 @@ Los Magistrados de los Tribunales Unitarios de Distrito, los Jueces de Primera I
 
 ### CAPITULO II.. De las Garantías de la Función Jurisdiccional
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2017)</small>
 
 ###### Artículo 148.
 
-Los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral, del Tribunal de lo Contencioso-Administrativo y del Tribunal de Conciliación y Arbitraje, al iniciar el ejercicio de su cargo, rendirán la protesta de ley ante el Congreso del Estado y, en sus recesos, ante la Diputación Permanente.
+Los Magistrados del Tribunal Superior de Justicia y del Tribunal de Conciliación y Arbitraje, al iniciar el ejercicio de su cargo, rendirán la protesta de ley ante el Congreso del Estado y, en sus recesos, ante la Diputación Permanente.
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -2666,8 +2700,6 @@ II. Los jueces tienen el deber de trascender el ámbito de ejercicio de dicha fu
 
 III. Los actos de comunicación y difusión judicial se deberán realizar en términos sencillos y comprensibles a cualquier persona.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
 
 ###### Artículo 157.
@@ -2808,7 +2840,9 @@ Las controversias constitucionales locales se sujetarán a lo siguiente:
 
 1. Podrán promoverse por cualquiera de las partes, según la controversia de que se trate. En las que el Ejecutivo sea parte, podrá estar representado por el titular de la Consejería Jurídica.
 
-El Procurador General de Justicia, podrá promover todas las que tengan por materia la procuración de justicia;
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
+
+El Fiscal General del Estado, podrá promover en materia penal y procesal penal, así como las relacionadas con el ámbito de sus funciones.
 
 2. La controversia tendrá por objeto resolver sobre si el acto o los actos reclamados son conformes o contrarios a esta Constitución con base en el principio de supremacía constitucional establecido en el artículo 133 de la Constitución Política de los Estados Unidos Mexicanos, y por vía de consecuencia declarar su validez o invalidez.
 
@@ -2824,9 +2858,9 @@ Las acciones de inconstitucionalidad locales se sujetarán a lo siguiente:
 
 1. Se podrán promover en forma abstracta por:
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
 
-a) El Ejecutivo del Estado por sí o por conducto de quien le represente legalmente. En la materia de procuración de justicia podrán ser promovidas por el Procurador General de Justicia del Estado.
+a) El Ejecutivo del Estado por sí o por conducto de quien le represente legalmente.
 
 b) El equivalente al diez por ciento de los integrantes del Poder Legislativo.
 
@@ -2834,7 +2868,9 @@ c) El equivalente al diez por ciento de los integrantes de los Ayuntamientos o C
 
 d) El organismo público autónomo, por conducto de quien le represente legalmente.
 
-e) (DEROGADO, P.O. 26 DE JUNIO DE 2009)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE JULIO DE 2017)</small>
+
+e) El Fiscal General del Estado, en materia penal y procesal penal, así como las relacionadas con el ámbito de sus funciones.
 
 > <small>(REFORMADO, P.O. 22 DE ENERO DE 2016)</small>
 
@@ -3394,41 +3430,71 @@ III. En el caso de que no exista la solicitud previa del Ayuntamiento, aprobada 
 
 IV. En todo caso, la resolución se basará en el interés público de garantizar el ejercicio o prestación continua y eficiente de la función o servicio público de que se trate. Para tal efecto, las partes en conflicto deberán ofrecer todas las pruebas necesarias para determinar la situación real que guarda la prestación del servicio o el ejercicio de la función; pero la autoridad que resuelva tiene, en cualquier momento, el derecho de recabar todas las pruebas necesarias para decidir lo conducente.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 14 DE JULIO DE 2017)</small>
+
 ## TITULO SEPTIMO.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADA SU NUMERACIÓN Y DENOMINACIÓN, P.O. 14 DE JULIO DE 2017)</small>
 
-### CAPITULO UNICO.. De las Responsabilidades de los Servidores Públicos Estatales y Municipales
+### CAPITULO I.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+Del Sistema Estatal Anticorrupción y de las Responsabilidades Vinculadas con Faltas Administrativas Graves o Hechos de Corrupción, y de la Patrimonial del Estado
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
 
 ###### Artículo 159.
 
-Para los efectos de las responsabilidades a que alude este Título, se considerarán servidores públicos, los representantes de elección popular, los miembros del Poder Judicial y de la Procuraduría General de Justicia del Estado, los funcionarios y empleados del Estado, y de los Municipios, y en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública, Estatal o Municipal y en las entidades paraestatales y paramunicipales, así como a los integrantes de los organismos a los que esta Constitución otorga autonomía, quienes serán responsables por los actos y omisiones en que incurran en el desempeño de sus funciones.
+Para los efectos de las responsabilidades a que alude este Título, se considerarán servidores públicos, los representantes de elección popular, los miembros del Poder Judicial y de la Fiscalía General del Estado de Coahuila de Zaragoza, los funcionarios y empleados del Estado, y de los Municipios, y en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública, Estatal o Municipal y en las entidades paraestatales y paramunicipales, así como a los integrantes de los organismos a los que esta Constitución otorga autonomía, quienes serán responsables por los actos y omisiones en que incurran en el desempeño de sus funciones.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+Los servidores públicos a que se refiere el presente artículo estarán obligados a presentar, bajo protesta de decir verdad, su declaración patrimonial, fiscal y de intereses ante las autoridades competentes y en los términos que determinen las leyes y disposiciones aplicables.
+
+Asimismo, serán sujetos de responsabilidad, los particulares que intervengan en hechos vinculados con faltas administrativas graves o hechos de corrupción, de conformidad con lo que determinen las leyes.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
 
 ###### Artículo 160.
 
-El Congreso del Estado, expedirá una Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales y las demás normas conducentes a sancionar a quienes teniendo ese carácter, incurran en responsabilidad, de conformidad con las siguientes prevenciones:
+Los servidores públicos y particulares que incurran en responsabilidad frente al Estado, serán sancionados conforme a lo siguiente:
 
 I. Se impondrán, mediante juicio político, las sanciones señaladas en el artículo 164 a los servidores públicos a que se refiere el artículo 163, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
 
 No procede el juicio político por la mera expresión de ideas.
 
-II. La comisión de delitos por parte de cualquier servidor público, será perseguida y sancionada en los términos de la legislación penal.
+II. La comisión de delitos por parte de cualquier servidor público o particular que incurran por hechos de corrupción, será perseguida y sancionada en los términos de la legislación penal.
 
-III. Se aplicarán sanciones administrativas a los servidores públicos, por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones.
+III. Se aplicarán sanciones administrativas a los servidores públicos, por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones de conformidad con la Ley General de la materia y demás ordenamientos legales aplicables. Las leyes establecerán los procedimientos para la investigación y sanción de dichos actos u omisiones.
+
+Las faltas administrativas graves serán investigadas y substanciadas por la Auditoría Superior del Estado y los órganos internos de control, según corresponda, y serán resueltas por el Tribunal de Justicia Administrativa de Coahuila de Zaragoza. Las demás faltas y sanciones administrativas, serán investigadas, substanciadas y resueltas por los órganos internos de control.
+
+Para la investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Poder Judicial del Estado se estará a lo previsto por el artículo 143 de esta Constitución y las leyes aplicables, sin perjuicio de las atribuciones de la Auditoría Superior del Estado en materia de fiscalización del manejo, custodia y aplicación de los recursos públicos.
+
+La ley establecerá los supuestos y procedimientos para impugnar la clasificación de las faltas administrativas como no graves, que realicen los órganos internos de control.
+
+La ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción III de este artículo. Cuando dichos actos u omisiones fuesen graves los plazos no serán inferiores a siete años.
+
+Las dependencias y entidades estatales y municipales, así como los Organismos Públicos Autónomos, tendrán órganos internos de control con las facultades que determine la ley para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas; para substanciar y sancionar aquéllas distintas a las que son competencia del Tribunal de Justicia Administrativa de Coahuila de Zaragoza; substanciar y promover ante el Tribunal de Justicia Administrativa de Coahuila de Zaragoza los procedimientos para la sanción de faltas administrativas graves y de particulares vinculados con las mismas; revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos estatales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Delitos por Hechos de Corrupción de la Fiscalía General de Justicia del Estado a que se refiere esta Constitución.
+
+IV. El Tribunal de Justicia Administrativa de Coahuila de Zaragoza impondrá a los particulares que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, las sanciones económicas, inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas estatales o municipales, así como el resarcimiento de los daños y perjuicios ocasionados a la hacienda pública estatal o municipal, a las dependencias o entidades estatales o municipales o a los Organismos Públicos Autónomos.
+
+Las personas morales serán sancionadas en los términos de la ley, cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella. También podrá ordenarse la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la hacienda pública o a los entes públicos, estatales o municipales, siempre que la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que la resolución sea definitiva. Las leyes establecerán los procedimientos para la investigación e imposición de las sanciones aplicables de dichos actos u omisiones.
 
 Los procedimientos para la aplicación de las sanciones mencionadas, serán autónomos en su desarrollo. No podrán imponerse dos veces, por una sola conducta, sanciones de la misma naturaleza.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Congreso del Estado, respecto de las conductas a las que se refiere el presente artículo.
+
+En el cumplimiento de sus atribuciones, a los órganos responsables de la investigación y sanción de responsabilidades administrativas y hechos de corrupción no les serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios. La ley de la materia establecerá los procedimientos para que les sea entregada dicha información.
+
+La Auditoría Superior del Estado y la secretaría del ejecutivo estatal responsable del control interno, podrán recurrir las determinaciones de la Fiscalía Especializada en Delitos por Hechos de Corrupción de la Fiscalía General de Justicia del Estado y del Tribunal de Justicia Administrativa de Coahuila de Zaragoza, de conformidad con lo previsto en la fracción V, Apartado C del artículo 157 de esta Constitución, y demás leyes aplicables.
+
+La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular, cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
 
 ###### Artículo 161.
 
-La ley determinará, asimismo, los casos y las circunstancias en que se deba sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo o con motivo del mismo, por sí o por interpósita persona, aumenten substancialmente su patrimonio y no puedan acreditar la legítima procedencia de los bienes que hayan adquirido o de aquellos respecto de los cuales actúen como dueños.
+La ley de la materia determinará, los casos y las circunstancias en que se deba sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo o con motivo del mismo, por sí o por interpósita persona, aumenten su patrimonio y no puedan acreditar la legítima procedencia de los bienes que hayan adquirido o de aquellos respecto de los cuales actúen como dueños.
 
-Las leyes penales, por su parte, sancionarán el enriquecimiento ilícito, con el decomiso y la privación de la propiedad de dichos bienes, además de las penas que correspondan.
+Las leyes aplicables, sancionarán el enriquecimiento ilícito con el decomiso, o en su caso, con la extinción de dominio de dichos bienes, además de las otras penas que correspondan.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -3436,11 +3502,11 @@ Las leyes penales, por su parte, sancionarán el enriquecimiento ilícito, con e
 
 Todo ciudadano, bajo su responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Congreso del Estado, respecto de las conductas a que se refieren los dos artículos anteriores.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2017)</small>
 
 ###### Artículo 163.
 
-Podrán ser sujetos de juicio político los diputados del Congreso del Estado; el Auditor Superior del Estado; el Gobernador del Estado; los Secretarios del ramo; los subsecretarios; el Procurador General de Justicia del Estado, los Subprocuradores; los directores generales o su equivalente en las entidades y los directores de las dependencias del Poder Ejecutivo y de la Procuraduría General de Justicia del Estado; los Magistrados del Tribunal Superior de Justicia; del Tribunal Electoral; del Tribunal de lo Contencioso-Administrativo; del Tribunal de Conciliación y Arbitraje; de los Tribunales Distritales; los jueces de primera instancia; los presidentes, regidores y síndicos de los Ayuntamientos del Estado; los integrantes de los concejos municipales; los directores generales o sus equivalentes de las entidades paraestatales y paramunicipales; así como los titulares e integrantes de los consejos y asambleas generales de los organismos públicos autónomos, cualquiera que sea su denominación.
+Podrán ser sujetos de juicio político los diputados del Congreso del Estado; el Auditor Superior del Estado; el Gobernador del Estado; los Secretarios del ramo; los subsecretarios; el Fiscal General del Estado, los fiscales, los fiscales especializados; los directores generales o su equivalente en las entidades y los directores de las dependencias del Poder Ejecutivo y de la Fiscalía General del Estado de Coahuila de Zaragoza; los Magistrados del Tribunal Superior de Justicia; del Tribunal Electoral; del Tribunal de Conciliación y Arbitraje; de los Tribunales Distritales; los jueces de primera instancia; los Magistrados del Tribunal de Justicia Administrativa de Coahuila de Zaragoza; los presidentes, regidores y síndicos de los Ayuntamientos del Estado; los integrantes de los concejos municipales; los directores generales o sus equivalentes de las entidades paraestatales y paramunicipales; así como los titulares e integrantes de los consejos y asambleas generales de los organismos públicos autónomos, cualquiera que sea su denominación.
 
 (REFORMADO, P.O. 27 DE ENERO DE 1984) (F. DE E., P.O. 19 DE JUNIO DE 2007)
 
@@ -3456,61 +3522,51 @@ Para la aplicación de dichas sanciones, el Congreso del Estado conocerá de las
 
 Las declaraciones y resoluciones que emita el Congreso del Estado en estos casos, serán inatacables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
 
 ###### Artículo 165.
 
-Para proceder penalmente contra el Gobernador del Estado; los diputados del Congreso del Estado; el Auditor Superior del Estado; los Magistrados del Tribunal Superior de Justicia; del Tribunal Electoral; del Tribunal de lo Contencioso-Administrativo; del Tribunal de Conciliación y Arbitraje; de los Tribunales Distritales; los jueces de primera instancia; los secretarios del ramo; el Procurador General de Justicia del Estado y los Subprocuradores; los presidentes, regidores y síndicos de los Ayuntamientos; los integrantes de los consejos municipales; y así como los titulares e integrantes de los consejos o asambleas generales de los organismos públicos autónomos, cualquiera que sea su denominación, por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado deberá declarar mediante resolución de las dos terceras partes del total de sus miembros, si ha o no lugar a proceder contra el inculpado, sujetándose a la garantía de audiencia.
+Se podrá proceder penalmente contra el Gobernador del Estado; los Diputados del Congreso del Estado; el Auditor Superior del Estado; los Magistrados del Tribunal Superior de Justicia; del Tribunal Electoral; del Tribunal de Conciliación y Arbitraje; de los Tribunales Distritales; los jueces de primera instancia; los Magistrados del Tribunal de Justicia Administrativa de Coahuila de Zaragoza; los secretarios del ramo; el Fiscal General del Estado, los fiscales y fiscales especializados; los presidentes, regidores y síndicos de los Ayuntamientos; los integrantes de los consejos municipales; y así como los titulares e integrantes de los consejos o asambleas generales de los organismos públicos autónomos, cualquiera que sea su denominación, por la comisión de delitos durante el tiempo de su encargo, éstos quedaran sujetos a la acción del Pleno del Tribunal Superior de Justicia, el cual fallará en definitiva, previas las formalidades esenciales del procedimiento y con audiencia del inculpado y del acusador, si lo hubiere.
 
-(REFORMADO, P.O. 27 DE ENERO DE 1984) (F. DE E., P.O. 19 DE JUNIO DE 2007)
+Lo anterior se realizará conforme a las bases siguientes:
 
-Si la resolución del Congreso del Estado fuere negativa, se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso, cuando el inculpado haya concluído el ejercicio de su encargo, pues la resolución no prejuzga los fundamentos de la imputación.
+Durante el proceso penal, el servidor público podrá seguir en su encargo salvo que se le imponga alguna medida cautelar consistente en prisión preventiva, o alguna otra medida que restrinja o limite su libertad, según lo establezca la ley de la materia aplicable. Las medidas cautelares no podrán consistir en prisión preventiva, restricción o limitación de la libertad, salvo en los casos de delincuencia organizada, delitos relacionados con hechos de corrupción, suspensión temporal en el ejercicio del cargo cuando se le atribuye un delito cometido por servidores públicos; así como delitos graves que determine la ley en contra de la seguridad de la nación y de la salud.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+En caso de que la sanción impuesta haga incompatible el ejercicio del cargo, se separará al sentenciado de sus funciones. La separación del cargo, tendrá efectos mientras se extingue la pena.
 
-Si el Congreso declara que ha lugar a proceder, el inculpado quedará a disposición de las autoridades competentes, para que actúen con arreglo a la ley. Cuando se trate del Gobernador del Estado, de los Diputados al Congreso del Estado, del Auditor Superior del Estado, de los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral, del Tribunal de lo Contencioso-Administrativo, del Tribunal de Conciliación y Arbitraje, del Procurador General de Justicia del Estado y los Subprocuradores y los titulares e integrantes de los consejos de los organismos públicos autónomos, cualquiera que sea su denominación, éstos quedarán sujetos a la acción del Pleno del Tribunal Superior de Justicia, el cual fallará en definitiva, previas las formalidades esenciales del procedimiento y con audiencia del inculpado, del Ministerio Público y del acusador, si lo hubiere.
-
-(REFORMADO, P.O. 27 DE ENERO DE 1984) (F. DE E., P.O. 19 DE JUNIO DE 2007)
-
-Las declaraciones y resoluciones que emita el Congreso del Estado en estos casos, serán inatacables.
-
-(REFORMADO, P.O. 27 DE ENERO DE 1984) (F. DE E., P.O. 19 DE JUNIO DE 2007)
-
-El efecto de la declaración de que ha lugar a proceder contra el inculpado, será suspenderlo de su encargo en tanto este sujeto a proceso penal. Si este culmina en sentencia absolutoria, el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria, no se concederá al reo la gracia del indulto.
-
-(REFORMADO, P.O. 27 DE ENERO DE 1984) (F. DE E., P.O. 19 DE JUNIO DE 2007)
-
-Las sanciones penales se aplicarán de acuerdo con lo dispuesto en la legislación penal, y, tratándose de delitos por cuya comisión el autor obtenga un beneficio económico, o cause daños o perjuicios patrimoniales, deberán graduarse de acuerdo con el lucro obtenido y con la necesidad de satisfacer los daños y perjuicios causados por su conducta ilícita.
-
-(REFORMADO, P.O. 27 DE ENERO DE 1984) (F. DE E., P.O. 19 DE JUNIO DE 2007)
-
-Las sanciones económicas que se impongan en estos casos, no podrán exceder de tres tantos de los beneficios obtenidos o de los daños o perjuicios causados.
-
-(REFORMADO, P.O. 27 DE ENERO DE 1984) (F. DE E., P.O. 19 DE JUNIO DE 2007)
-
-Para proceder penalmente contra el Gobernador del Estado, los Diputados al Congreso Local y los Magistrados del Tribunal Superior de Justicia del Estado, por la Comisión de delitos federales, se estará a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, y si se declara que ha lugar a proceder, el inculpado quedará a disposición de las autoridades competentes, para que actúen con arreglo a la Ley.
-
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
 
 ###### Artículo 166.
 
-No se requerirá declaración de procedencia por parte del Congreso del Estado, cuando alguno de los servidores públicos a que se refiere el primer párrafo del artículo anterior, cometa un delito durante el tiempo en que se encuentre separado de su encargo.
+Si el delito que se impute a algún funcionario se hubiere cometido antes de que ejerza el cargo, se estará al procedimiento establecido en el artículo anterior.
 
-Si el servidor público ha vuelto a ejercer sus funciones propias, o ha sido nombrado o electo para desempeñar un cargo distinto, pero de los enumerados en el artículo anterior, se procederá de acuerdo con lo dispuesto en ese precepto.
+Cuando alguno de los servidores públicos a que hace referencia el artículo 165 de esta Constitución cometa un delito durante el tiempo que se encuentre separado de su cargo, no se aplicará lo que señala dicho precepto.
 
-Asimismo, no se requerirá la declaración de procedencia, cuando se entablen demandas del orden civil en contra de cualquiera de los servidores públicos a que se alude en el primer párrafo de este artículo.
+Si el servidor público ha vuelto a ejercer sus funciones propias o ha sido nombrado electo para desempeñar un cargo distinto, pero de los enumerados en el artículo anterior, se procederá de acuerdo con lo dispuesto en el artículo 165 de este ordenamiento.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
 
 ###### Artículo 167.
 
-Las leyes sobre responsabilidades administrativas de los servidores públicos, determinarán sus obligaciones, para salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos o comisiones, así como las sanciones administrativas aplicables por los actos u omisiones en que incurran, y los procedimientos y las autoridades que hayan de aplicarlas.
+El Sistema Estatal Anticorrupción es la instancia de coordinación entre las autoridades estatales y municipales competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 
-Dichas sanciones, además de las que señalen las leyes, consistirán en suspensión, destitución, inhabilitación y sanción económica las que deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones que queden comprendidos dentro de aquellos a que se refiere la fracción III, del artículo 160, de esta Constitución, pero no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
+I. El Sistema contará con un Comité Coordinador que estará integrado por los titulares de la Auditoría Superior del Estado; de la Fiscalía Especializada en Delitos por Hechos de Corrupción; de la secretaría del Ejecutivo Estatal responsable del control interno; por el presidente del Tribunal de Justicia Administrativa de Coahuila de Zaragoza; el Presidente del Instituto Coahuilense de Acceso a la Información; así como por un representante del Consejo de la Judicatura y otro del Consejo de Participación Ciudadana, que será quien presida el Comité de Coordinación en los términos que establece la ley de la materia.
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2014)</small>
+II. El Consejo de Participación Ciudadana del Sistema deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley.
 
-El Estado y los Municipios son responsables por los daños que con motivo de su actividad administrativa irregular causen en los bienes o derechos de los particulares. Esta responsabilidad es objetiva y directa. Los particulares tendrán derecho a la indemnización que resulte justa y proporcional al daño generado conforme a las bases, límites y procedimientos que establezcan las leyes. El límite máximo de la indemnización será el que determinen las autoridades competentes atendiendo a la naturaleza de cada caso.
+III. Corresponderá al Comité Coordinador del Sistema, en los términos que determine la Ley:
+
+a) El establecimiento de mecanismos de coordinación entre los organismos que integran el sistema estatal con los municipios del Estado.
+
+b) El diseño y promoción de políticas integrales en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción, en especial sobre las causas que los generan.
+
+c) La determinación de los mecanismos de suministro, intercambio, sistematización y actualización de la información que sobre estas materias generen las instituciones competentes de los órdenes de gobierno.
+
+d) El establecimiento de bases y principios para la efectiva coordinación de las autoridades de los órdenes de gobierno en materia de fiscalización y control de los recursos públicos.
+
+e) La elaboración de un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia.
+
+Derivado de este informe, podrá emitir recomendaciones no vinculantes a las autoridades, con el objeto de que adopten medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como al mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al Comité sobre la atención que brinden a las mismas.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -3522,11 +3578,41 @@ La responsabilidad derivada de delitos cometidos por cualquier servidor público
 
 La Ley señalará los casos de prescripción de la responsabilidad administrativa, tomando en cuenta la naturaleza y consecuencias de los actos y omisiones a que se refiere la fracción III, del artículo 160, de esta Constitución. Cuando dichos actos y omisiones fueren graves, los plazos de prescripción no serán inferiores de tres años.
 
-### CAPITULO UNICO.
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE JULIO DE 2017)</small>
 
-Derechos Sociales y Prevenciones Generales.
+### CAPÍTULO II.
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1977)</small>
+Del Tribunal de Justicia Administrativa de Coahuila de Zaragoza.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
+
+###### Artículo 168-A.
+
+El Tribunal de Justicia Administrativa de Coahuila de Zaragoza, es un organismo, con personalidad jurídica y patrimonio propios, dotado de plena autonomía para dictar sus fallos, y que establecerá su organización, su funcionamiento y los recursos para impugnar sus resoluciones.
+
+Es competente para resolver las controversias que se susciten entre la administración pública del Estado y los municipios y los particulares; imponer sanciones a los servidores públicos por las responsabilidades administrativas que la ley determine como graves y a los particulares que participen en actos vinculados con dichas responsabilidades; y fincar el pago de indemnizaciones y sanciones pecuniarias derivadas de los daños y perjuicios a la hacienda pública del estado o de los municipios, o al patrimonio de los entes públicos estatales y municipales.
+
+Estará integrado al menos por 5 magistrados, designados por el Gobernador del Estado, y ratificados por las dos terceras partes de los miembros presentes del Pleno, o de la Diputación permanente del Congreso del Estado, la duración de su encargo será de 15 años improrrogables y sólo podrán ser removidos del mismo por las causas graves señaladas por la ley.
+
+Para ser Magistrado del Tribunal de Justicia Administrativa de Coahuila de Zaragoza se requiere:
+
+I. Ser mexicano por nacimiento, en ejercicio de sus derechos políticos y civiles y haber residido efectivamente en el Estado durante los últimos cinco años;
+
+II. Tener 35 años cumplidos al día de su designación;
+
+III. No padecer enfermedad física o mental, que lo inhabilite para el desempeño del encargo;
+
+IV. Ser licenciado en derecho con título y cédula profesional, con ocho años de antigüedad, al día de su designación;
+
+V. Tener por lo menos cinco años de experiencia profesional en materia administrativa o fiscal;
+
+VI. Ser de notoria buena conducta y honorabilidad manifiesta;
+
+VII. No ser ministro de algún culto religioso, a menos que se separe formal y definitivamente de su ministerio, cuando menos cinco años antes del día de su designación; y
+
+VIII. No haber sido condenado en sentencia ejecutoria, por delito intencional, ni haber sido inhabilitado o suspendido por más de tres meses como servidor público.
+
+El Congreso expedirá la ley en que se determine la organización y funcionamiento del Tribunal, así como su procedimiento y los recursos que procedan contra sus resoluciones.
 
 ## TITULO OCTAVO.
 
@@ -3534,7 +3620,9 @@ Derechos Sociales y Prevenciones Generales.
 
 ### CAPITULO UNICO.
 
-De la Inviolavilidad (sic) y reforma de la Constitución.
+Derechos Sociales y Prevenciones Generales.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1977)</small>
 
 ###### Artículo 169.
 
@@ -3668,37 +3756,25 @@ XI. Las demás atribuciones que establezca la ley.
 
 Sólo por delito que merezca pena corporal habrá lugar a prisión preventiva. El sitio de ésta será distinto del que se destinare para la extinción de las penas y estarán separados.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2013)</small>
 
 El Ministerio Público sólo podrá solicitar al juez la prisión preventiva cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia del imputado en el juicio, el desarrollo de la investigación, la protección de la víctima, de los testigos o de la comunidad, así como cuando el imputado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso. El juez ordenará la prisión preventiva, oficiosamente, en los casos de homicidio doloso, violación, secuestro, delitos cometidos con medios violentos como armas y explosivos, así como delitos graves que determine la ley en contra de la seguridad del Estado, el libre desarrollo de la personalidad y de la salud.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
 
 El Estado organizará el sistema penitenciario sobre la base del respeto a los derechos humanos, del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado y procurar que no vuelva a delinquir. Las mujeres compurgarán sus penas en lugares separados de los destinados a los hombres para tal efecto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
 
 El Gobernador del Estado, en los términos de los ordenamientos legales aplicables, podrá celebrar convenios para que los sentenciados por delitos del orden común extingan las penas en establecimientos penitenciarios del orden federal. Así mismo, podrá solicitar al Ejecutivo Federal, que en los tratados internacionales que se celebren para el efecto de acordar el traslado de reos de nacionalidad extranjera a su país de origen o residencia, se incluya a los sentenciados en el Estado, por delitos del orden común. Los sentenciados, en los casos y condiciones que establezca la ley, podrán compurgar sus penas en los centros penitenciarios más cercanos a su domicilio, a fin de propiciar su reintegración a la comunidad como forma de reinserción social.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
 
 El Estado establecerá un sistema integral de justicia que será aplicable a quienes se atribuya la realización de una conducta tipificada como delito por las leyes penales y tengan entre doce años cumplidos y menos de dieciocho años de edad, en el que se garanticen los derechos fundamentales que reconoce la Constitución Política de los Estados Unidos Mexicanos, esta Constitución para todo individuo, los tratados internacionales, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos. Las personas menores de doce años que hayan realizado una conducta prevista como delito en la ley, solo serán sujetos a rehabilitación y asistencia social.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2013)</small>
 
 La operación del sistema estará a cargo de instituciones, tribunales y autoridades especializados en la procuración e impartición de justicia para adolescentes. Se podrán aplicar las medidas de orientación, protección y tratamiento que amerite cada caso, atendiendo a la protección integral y el interés superior del adolescente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2013)</small>
 
@@ -3847,6 +3923,10 @@ Cuando hubieren desaparecido los tres poderes quien asuma provisionalmente el ma
 En el caso de que ninguna de las prevenciones anteriores fuese aplicable a la desaparición de los Poderes, se atenderá a lo dispuesto en la fracción V del artículo 76 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ## TITULO NOVENO.
+
+### CAPITULO UNICO.
+
+De la Inviolavilidad (sic) y reforma de la Constitución.
 
 ###### Artículo 194.
 
@@ -5057,3 +5137,57 @@ PRIMERO.- El presente Decreto entrara en vigor al día siguiente al de su public
 SEGUNDO.- Se derogan las disposiciones que se opongan a lo previsto en este Decreto.
 
 TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 14 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 903.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, sin perjuicio de lo previsto en los transitorios siguientes.
+
+SEGUNDO.- El Congreso del Estado dentro de los sesenta días naturales siguientes a la publicación del presente decreto, emitirá declaratoria expresa de entrada en vigor de la autonomía constitucional de la Fiscalía General del Estado de Coahuila de Zaragoza.
+
+Las disposiciones del presente decreto relativas a la Fiscalía General del Estado de Coahuila de Zaragoza entrarán en vigor con la declaratoria señalada en el párrafo anterior.
+
+Una vez constituida la Fiscalía General, la Fiscalía Especializada en Delitos por Hechos de Corrupción pasará a formar parte de aquella.
+
+TERCERO.- Expedida la declaratoria a que se refiere el segundo transitorio, los recursos humanos, materiales, financieros y presupuestales, así como los asuntos en trámite de la Procuraduría General de Justicia del Estado, se transferirán a la Fiscalía General del Estado de Coahuila de Zaragoza.
+
+Los trabajadores de la Procuraduría General de Justicia del Estado que con motivo de la aplicación del presente decreto deban quedar adscritos a una dependencia diferente a su actual centro de trabajo o a la Fiscalía General, en ninguna forma resultarán afectados en sus derechos laborales.
+
+CUARTO.- Los Contratos, Convenios o Acuerdos celebrados por la Procuraduría General de Justicia del Estado con Secretarías, Dependencias o Entidades de la Administración Pública Estatal, Federal, y de los Municipios, así como con cualquier persona física o moral, serán asumidos por la Fiscalía General del Estado de Coahuila de Zaragoza o el Fiscal General del Estado.
+
+QUINTO.- Los procedimientos jurisdiccionales y administrativos, relacionados con la separación, remoción, cese o cualquier otra forma de conclusión de los servicios de trabajadores o empleados al servicio de la Procuraduría General de Justicia del Estado que estuviesen en trámite a la entrada en vigor de este decreto, se concluirán conforme a la normativa que les era aplicable al inicio del procedimiento de que se trate.
+
+Los procedimientos administrativos de responsabilidad o disciplinarios iniciados a la fecha a los servidores públicos de la Procuraduría General de Justicia del Estado que se encuentren en trámite o pendientes de resolución a la entrada en vigor de este decreto, se continuarán tramitando conforme a las disposiciones legales aplicables al inicio del procedimiento.
+
+El trámite de los procedimientos administrativos señalados en este artículo, será responsabilidad de los servidores públicos a los que se les atribuya la competencia para su desahogo, conforme al presente decreto y las disposiciones aplicables.
+
+SEXTO.- En tanto no se emita la Ley Orgánica de la Fiscalía General del Estado de Coahuila de Zaragoza, se continuará aplicando a está, en lo conducente, la Ley Orgánica de la Procuraduría General de Justicia del Estado de Coahuila de Zaragoza, su reglamento y demás disposiciones aplicables.
+
+Las disposiciones legales o administrativas que hagan referencia a la Procuraduría General de Justicia del Estado, al Procurador General de Justicia del Estado y a los Subprocuradores o Fiscales, se entenderán hechas a la Fiscalía General del Estado de Coahuila de Zaragoza, al Fiscal General del Estado, así como a las autoridades de la Fiscalía General equivalentes a los Subprocuradores o Fiscales, respectivamente.
+
+SÉPTIMO.- Las disposiciones relativas a la Auditoría Superior del Estado, a la Fiscalía Especializada en Delitos por Hechos de Corrupción, a los órganos internos de control, y al régimen de responsabilidades de servidores públicos estatales y municipales, de particulares vinculados con faltas administrativas graves o hechos de corrupción, y de la responsabilidad patrimonial del estado serán aplicables a partir del día en que entre en vigor la Ley General de Responsabilidades Administrativas.
+
+OCTAVO.- Los titulares de los órganos a que se refiere el presente decreto en la fracción LII del artículo 67, que se encuentren en funciones a la entrada en vigor del mismo, continuarán en su encargo en los términos en los que fueron nombrados.
+
+NOVENO.- Hasta en tanto se emite la declaratoria a que se refiere el artículo segundo transitorio y entran en vigor las disposiciones relativas a la Fiscalía General del Estado de Coahuila de Zaragoza, la Procuraduría General de Justicia del Estado contará con una Fiscalía Especializada en Delitos por Hechos de Corrupción, para tal efecto, el Ejecutivo del Estado expedirá el acuerdo de creación de esta Fiscalía Especializada, en el plazo de diez días hábiles contados a partir de la entrada en vigor de este decreto.
+
+DÉCIMO.- El Congreso del Estado a más tardar en un plazo de treinta días naturales, contados a partir de la entrada en vigor del acuerdo de creación a que hace referencia el artículo anterior, deberá designar al Fiscal Especializado en Delitos por Hechos de Corrupción.
+
+UNDÉCIMO.- Las disposiciones relativas a la competencia del Tribunal de Justicia Administrativa de Coahuila de Zaragoza y las relacionadas con el Tribunal Contencioso administrativo del Poder Judicial del Estado, entrarán en vigor una vez que los Magistrados del Tribunal de Justicia Administrativa de Coahuila de Zaragoza sean nombrados por el Titular del Ejecutivo y ratificados por el Congreso del Estado.
+
+Mientras no se cumpla lo previsto en el párrafo anterior y a partir de la entrada en vigor de la Ley General de Responsabilidades Administrativas, el Tribunal de lo Contencioso Administrativo del Poder Judicial o quien determine el Consejo de la Judicatura, será competente para imponer sanciones a los servidores públicos por las responsabilidades administrativas que la ley determine como graves y a los particulares que participen en actos vinculados con dichas responsabilidades; y fincar el pago de indemnizaciones y sanciones pecuniarias derivadas de los daños y perjuicios a la hacienda pública del estado o de los municipios, o al patrimonio de los entes públicos estatales y municipales.
+
+DUODÉCIMO.- Los magistrados del Tribunal de Justicia Administrativa de Coahuila de Zaragoza deberán ser designados en un plazo no mayor a treinta días naturales, contados a partir de la entrada en vigor del presente decreto.
+
+DÉCIMO TERCERO.- El Congreso del Estado y el Ejecutivo a través de la Secretaría de Finanzas y la Secretaría de Fiscalización y Rendición de Cuentas, en el ámbito de sus respectivas competencias, proveerán los recursos humanos, financieros y materiales correspondientes, para el cumplimiento del presente decreto, en términos de las disposiciones aplicables.
+
+DÉCIMO CUARTO.- El Congreso del Estado a partir de la entrada en vigor del presente decreto, contará con los siguientes plazos:
+
+a) Un plazo no mayor a treinta días naturales para armonizar la legislación estatal de acuerdo al presente decreto.
+
+b) Un plazo no mayor a treinta días naturales para expedir la Ley Orgánica del Tribunal de Justicia Administrativa de Coahuila de Zaragoza.
+
+c) Un plazo no mayor a sesenta días naturales para expedir la Ley Orgánica de la Fiscalía General del Estado de Coahuila de Zaragoza.
+
+DÉCIMO QUINTO.- Se derogan todas las disposiciones que se opongan al contenido del presente decreto.
