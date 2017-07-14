@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-civiles-del-estado-de-guanajuato-39958
 country: "mx"
 rank: "codigo"
 publication_date: "1934-03-08"
-last_updated: "2016-07-01"
+last_updated: "2017-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2017.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1934.
 
@@ -4881,7 +4881,7 @@ No será necesaria la inscripción de la hipoteca en el Registro Público de la 
 
 Presentado el escrito de demanda, acompañado del documento base de la acción y de los documentos justificativos de la personalidad del actor, el Juez dentro del término de tres días, si encuentra que se reúnen los requisitos fijados por los artículos anteriores, la admitirá y mandará inscribirla en el Registro Público de la Propiedad del lugar de la ubicación del inmueble hipotecado.
 
-Anotada la demanda en el Registro Público de la Propiedad, no podrá practicarse en la finca hipotecada ningún embargo, toma de posesión, diligencia precautoria o cualquier otra que entorpezca el curso del juicio, sino en virtud de sentencia ejecutoriada relativa a la misma finca, anterior a la inscripción de la referida demanda o en razón de providencia precautoria solicitada ante el juez por acreedor con mejor derecho.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 14 DE JULIO DE 2017)</small>
 
 > <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2002)</small>
 
@@ -7596,3 +7596,9 @@ P.O. 1 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 14 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 203, DE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE DEROGA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 704-C DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO."]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
