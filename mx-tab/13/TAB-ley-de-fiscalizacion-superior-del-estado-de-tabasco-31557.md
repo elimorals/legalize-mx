@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-fiscalizacion-superior-del-estado-de-tabasco-31557"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-17"
-last_updated: "2017-07-05"
+last_updated: "2017-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31557&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE TABASCO, PUBLICADA EN EL P.O. DE 15 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el sábado 17 de mayo de 2003; republicada el sábado 24 de mayo de 2003.
 
@@ -1352,3 +1354,25 @@ QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha 
 SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
 
 Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
+
+P.O. 15 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 107 DE LA “LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco, sin perjuicio de lo previsto en los transitorios siguientes.
+
+SEGUNDO.- Se abroga la Ley de Fiscalización Superior del Estado de Tabasco, publicada en el Periódico Oficial del Estado el 17 de mayo de 2003, conforme a lo dispuesto en los artículos transitorios subsecuentes y se derogan todas las disposiciones legales que se opongan a la nueva Ley de Fiscalización Superior del Estado de Tabasco que se expide.
+
+Los procedimientos administrativos que se encuentren en trámite o pendientes de resolución a la entrada en vigor de la nueva Ley, se resolverán hasta su conclusión definitiva, en términos de la Ley de Fiscalización Superior del Estado de Tabasco que se abroga, así como los que se deriven de las funciones de fiscalización y revisión dela Cuenta de la Hacienda Pública Estatal y Municipal del año 2016 y de ejercicios anteriores.
+
+El Ejercicio de las funciones de fiscalización y revisión del Órgano Superior de Fiscalización del Estado, previstas en la nueva Ley de Fiscalización Superior, entrará en vigor para efectos de la revisión de la Cuenta de la Hacienda Pública Estatal y Municipal del año 2017.
+
+Las funciones de fiscalización y revisión para el ejercicio del año en curso y de ejercicios anteriores entrarán en vigor al día siguiente de la publicación del presente Decreto.
+
+TERCERO.- El Titular del Órgano Superior de Fiscalización nombrado conforme a la abrogada Ley de Fiscalización Superior del Estado de Tabasco continuará en el desempeño de su encargo hasta el término del período para el que fue designado.
+
+CUARTO.- El Congreso del Estado, por lo que hace a la Dirección de Control y Evaluación; y el Órgano Superior de Fiscalización, en el ámbito de sus competencias, deberán actualizar sus reglamentos interiores y demás normatividad administrativa, conforme a lo previsto en la nueva Ley de Fiscalización Superior del Estado de Tabasco, en un plazo no mayor a ciento ochenta días hábiles contados a partir de la publicación del presente Decreto.
+
+QUINTO.- El Titular del Ejecutivo, por conducto de la Secretaría de Planeación y Finanzas realizará los ajustes presupuestales necesarios al Presupuesto General de Egresos del presente Ejercicio Fiscal, para efectos de garantizar el inicio de funciones y operatividad de los organismos que se crean o modifican, derivado de las leyes que se expiden en el marco del Sistema Estatal Anticorrupción.
+
+SEXTO.- En un plazo no mayor a 45 días posteriores a la publicación del presente Decreto, el Congreso del Estado realizará las modificaciones necesarias a las leyes orgánicas y secundarias que resulten procedentes, derivado de la nueva ley que se emite mediante el presente Decreto.
