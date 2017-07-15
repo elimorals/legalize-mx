@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-justicia-administrativa-para-el-estado-de-tabasco-11461"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-19"
-last_updated: "2017-07-05"
+last_updated: "2017-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 19 de febrero de 1997.
 
@@ -1248,3 +1248,43 @@ QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha 
 SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
 
 Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
+
+P.O. 15 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 108 POR EL QUE “SE EXPIDE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE TABASCO”]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco, sin perjuicio de lo previsto en los transitorios siguientes.
+
+SEGUNDO. Se abroga la Ley de Justicia Administrativa para el Estado de Tabasco, publicada en el Periódico Oficial del Estado de Tabasco el 19 de febrero de 1997 y se derogan todas las disposiciones legales que se opongan a la nueva Ley de Justicia Administrativa del Estado de Tabasco. Todas las referencias que en las leyes se haga al Tribunal de lo Contencioso Administrativo del Estado de Tabasco, se entenderán referidas al Tribunal de Justicia Administrativa del Estado de Tabasco.
+
+Los Juicios Contencioso Administrativos y medios de impugnación iniciados ante el Tribunal de lo Contencioso Administrativo con anterioridad a la entrada en vigor de la presente Ley, continuarán tramitándose en el nuevo Tribunal de Justicia Administrativa del Estado de Tabasco, hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
+
+Así mismo, conforme a lo establecido en el Decreto por el que se expiden la Ley General del Sistema Nacional Anticorrupción; la Ley General de Responsabilidades Administrativas, y la Ley Orgánica del Tribunal Federal de Justicia Administrativa, publicado el 18 de julio de 2016 en el Diario Oficial de la Federación y a lo dispuesto en el presente Decreto, los procedimientos de responsabilidades administrativas iniciados por autoridades del Estado de Tabasco y sus municipios con anterioridad a la entrada en vigor de la Ley General de Responsabilidades Administrativas, serán concluidos conforme a las disposiciones aplicables en la materia vigentes al momento de su inicio.
+
+Los recursos que deben resolverse por el Pleno del Tribunal de lo Contencioso Administrativo, deberán remitirse a la Presidencia del nuevo Tribunal por los magistrados de Salas Unitarias a quienes se había designado como ponentes, para efectos de que se reasignen entre los magistrados que formarán la nueva Sala Superior, una vez que sea integrada.
+
+Los Juicios Contencioso Administrativos en trámite, cuyo acto reclamado lo constituya un acto o resolución dictados dentro de un procedimiento de responsabilidad administrativa, deberán remitirse a la Presidencia por las Salas Unitarias a las que se les habían turnado, para efectos de que se reasignen a la Sala Especializada en Materia de Responsabilidades Administrativas.
+
+TERCERO. Los Magistrados del Tribunal de lo Contencioso Administrativo, que a la entrada en vigor de la nueva Ley de Justicia Administrativa del Estado de Tabasco se encuentren en ejercicio de sus cargos en Salas Unitarias, continuarán en ellos hasta concluir el periodo para el cual fueron designados, sin perjuicio de ser considerados por el titular del Poder Ejecutivo del Estado, para ser designados como magistrados del Tribunal de Justicia Administrativa.
+
+Para la designación de los Magistrados que integrarán la Sala Superior y la Sala Unitaria Especializada en materia de Responsabilidades Administrativas, el Titular del Ejecutivo Estatal deberá designarlos e informarlo al Congreso del Estado, para efectos de ratificación, en su caso, dentro de los veinticinco días siguientes al de la publicación del presente Decreto, para su ratificación en el plazo señalado por el artículo 63 Quater de la Constitución.
+
+En tanto se designa a los Servidores Públicos mencionados, los asuntos competencia del Pleno que se ventilen en el Tribunal de Justicia Administrativa, seguirán resolviéndose de manera colegiada por los Magistrados en funciones y los de la Sala Especializada en Materia de Responsabilidades Administrativas, por las Salas Unitarias a cargo de cada uno, en aras de no entorpecer el normal desarrollo de la función jurisdiccional.
+
+CUARTO. El Reglamento Interior del Tribunal Contencioso Administrativo que se encuentre vigente a la entrada en vigor de la Ley de Justicia Administrativa del Estado de Tabasco, seguirá aplicándose en aquello que no se oponga a ésta, hasta que el Pleno expida el nuevo Reglamento Interior de conformidad con lo previsto en dicho ordenamiento, lo cual deberá hacer en un plazo no mayor a ciento veinte días naturales a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. Los recursos materiales, financieros y presupuestales con que cuenta el Tribunal de lo Contencioso Administrativo del Estado, pasarán a formar parte del patrimonio del Tribunal de Justicia Administrativa del Estado.
+
+En razón de lo anterior, la Secretaría de Planeación y Finanzas, la de Administración, la Coordinación General de Asuntos Jurídicos y las demás dependencias del Poder Ejecutivo del Estado, conforme resulte necesario en el ámbito de sus respectivas competencias, en coordinación con el Presidente del Tribunal, deberán realizar las acciones administrativas y legales necesarias para la constitución del patrimonio del Tribunal de Justicia Administrativa en tanto órgano constitucional autónomo y promover las adecuaciones correspondientes a dicha figura en cuanto a la contabilidad gubernamental y las reglas para el manejo presupuestal y financiero de los recursos de que disponga. Lo anterior, con la intervención y vigilancia que corresponda al Congreso del Estado y al Órgano Superior de Fiscalización.
+
+Dentro del plazo de ciento ochenta días naturales posteriores a la entrada en vigor del presente Decreto, la Sala Superior del Tribunal deberá expedir los lineamientos relativos al Estatuto de Carrera.
+
+SEXTO. Los servidores públicos que venían ejerciendo encargos administrativos que desaparecen o se transforman conforme a lo dispuesto por esta Ley, continuarán desempeñando los mismos hasta que el Pleno acuerde la creación de los nuevos órganos administrativos y decida sobre las designaciones mediante acuerdos específicos.
+
+El personal de base que preste sus servicios al actual Tribunal de lo Contencioso Administrativo del Estado de Tabasco, quedará adscrito al Tribunal de Justicia Administrativa, en su condición de organismo constitucional autónomo, conforme a la Ley de los Trabajadores al Servicio del Estado de Tabasco, respetándose todos sus derechos laborales.
+
+El régimen de seguridad social del personal del Tribunal de Justicia Administrativa, estará a cargo del Instituto de Seguridad Social del Estado de Tabasco.
+
+SÉPTIMO. El Titular del Ejecutivo, por conducto de la Secretaría de Planeación y Finanzas realizará los ajustes presupuestales necesarios al Presupuesto General de Egresos del presente Ejercicio Fiscal, para efectos de garantizar el inicio de funciones y operatividad de los organismos que se crean o modifican, derivado de las leyes que se expiden en el marco del Sistema Estatal Anticorrupción.
+
+OCTAVO. En un plazo no mayor a 45 días posteriores a la publicación del presente Decreto, el Congreso del Estado realizará las modificaciones necesarias a las leyes orgánicas y secundarias que resulten procedentes, derivado de la nueva ley que se emite mediante el presente Decreto.
