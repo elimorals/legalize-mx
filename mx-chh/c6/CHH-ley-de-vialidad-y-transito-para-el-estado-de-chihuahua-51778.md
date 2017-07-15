@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-vialidad-y-transito-para-el-estado-de-chihuahua-51778"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-20"
-last_updated: "2017-02-22"
+last_updated: "2017-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY DE VIALIDAD Y TRANSITO PARA EL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2017.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 20 de septiembre de 2006.
 
@@ -49,8 +51,6 @@ Se crea la Ley de Vialidad y Tránsito para el Estado de Chihuahua, para quedar 
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 1.
@@ -67,13 +67,9 @@ II. Vehículos: Todo aquel objeto capaz de desplazarse por las vías públicas c
 
 III. Peatón: Toda persona que transite por las vías públicas utilizando sus propios medios de locomoción naturales o auxiliares por aparatos o dispositivos para discapacitados.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 IV. La Fiscalía: La Fiscalía General del Estado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -81,7 +77,13 @@ V. La Dirección: La Dirección de Vialidad.
 
 VI. El Municipio: Cualquiera de los sesenta y siete municipios del Estado de Chihuahua que presten el servicio público de Tránsito.
 
-VII. (DEROGADA, P.O. 24 DE SEPTIEMBRE DE 2016)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JULIO DE 2017)</small>
+
+VII. Seguridad Vial. Conjunto de políticas, sistemas, programas y acciones orientados a la prevención de accidentes viales.
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2017)</small>
+
+VIII. Movilidad. El conjunto de desplazamientos de personas y bienes, mediante diversos modos de transporte, orientado a satisfacer las necesidades de las personas y facilitar el acceso a las oportunidades de desarrollo que ofrece un centro de población.
 
 ###### Artículo 3.
 
@@ -98,8 +100,6 @@ La prestación de la función pública de Tránsito estará a cargo de los munic
 Cuando a juicio del ayuntamiento para prestar el servicio de tránsito por razones económicas o administrativas, el Ejecutivo del Estado, previo convenio con los ayuntamientos respectivos, podrá hacerse cargo temporalmente en forma total o parcial de la prestación de dicho servicio.
 
 ### CAPÍTULO SEGUNDO. DE LAS AUTORIDADES DE TRÁNSITO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -121,13 +121,9 @@ Son autoridades de vialidad y/o tránsito, para los efectos de la presente Ley y
 
 I. El Gobernador del Estado; dentro del ámbito de su competencia, en los términos del convenio de coordinación que celebre con los ayuntamientos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 II. El Fiscal General del Estado;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -136,8 +132,6 @@ III. El Director de la Policía Estatal Única;
 IV. Los Presidentes Municipales;
 
 V. Los Delegados de vialidad y/o tránsito y la corporación de tránsito que alude el artículo 15; y
-
-> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -169,8 +163,6 @@ I. Dictar las medidas necesarias para el cumplimiento efectivo de la presente Le
 
 II. Las demás que le confieran la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y otras normas de carácter general, convenios y acuerdos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 12.
@@ -181,13 +173,9 @@ I. Ejecutar las medidas dictadas por el Gobernador del Estado en todo lo que se 
 
 II. Planear, aprobar, coordinar y evaluar las políticas y programas en materia de tránsito, dentro de las disposiciones legales y previo acuerdo con el Gobernador del Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 III. Autorizar el uso de vehículos de paso preferencial o de emergencia cuando éstos cumplen funciones de Seguridad o de Asistencia Social de conformidad a lo que establezca el Reglamento de la Fiscalía;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -195,15 +183,11 @@ IV. Disponer de los recursos humanos, económicos y materiales que estén a su a
 
 V. Proponer al titular del Poder Ejecutivo del Estado la modificación, reformas o adiciones que requiera la presente Ley o sus reglamentos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 VI. Proponer al Gobernador del Estado a la persona que habrá de fungir como Director de Vialidad;
 
 VII. Promover, en coordinación con los municipios, la instalación de oficinas y módulos de orientación y recepción de quejas, a efecto de facilitar a la ciudadanía la presentación de sugerencias, quejas y denuncias, a fin de propiciar el mejoramiento de las funciones;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -213,15 +197,11 @@ IX. Resolver las controversias administrativas que se susciten sobre la interpre
 
 X. Expedir a los particulares la licencia que los autorice para conducir vehículos por las vías públicas; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADA, P.O. 6 DE FEBRERO DE 2010)</small>
 
 XI. Celebrar convenios de colaboración con las instituciones autorizadas por la Secretaría de Salud en la Entidad, a fin de que se brinde el tratamiento o rehabilitación a quienes violenten el presente ordenamiento legal, y
 
 XII. Las demás que establezcan los ordenamientos legales correspondientes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -242,8 +222,6 @@ IV. Mantener la disciplina y la moralidad en el personal de la Delegación de Tr
 V. Cumplir y hacer cumplir la presente Ley y sus reglamentos, así como los decretos, acuerdos y demás disposiciones emitidas sobre la materia, pudiendo solicitar para estos efectos la colaboración de otras autoridades en los términos de su respectiva competencia;
 
 VI. Imponer, reducir y condonar las sanciones que resulten aplicables a los infractores de esta Ley y de sus reglamentos, de conformidad con los mismos;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2010)</small>
 
@@ -268,8 +246,6 @@ XV. Planear, promover y ejecutar campañas de difusión de las disposiciones con
 XVI. Las demás que expresamente le confiera esta Ley y sus reglamentos.
 
 Estas facultades podrán ejercerlas directamente o delegarlas parcial o totalmente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -369,8 +345,6 @@ IV. Expedir el Certificado de Lesiones; y
 
 V. Brindar los primeros auxilios y atención médica a los conductores remitidos a la delegación de tránsito y/o vialidad, cuando se haga necesario.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2012)</small>
 
 ###### Artículo 21.
@@ -390,8 +364,6 @@ III. Recaudar las contribuciones del orden federal o local que se establezcan en
 Son atribuciones de la tesorería municipal, del ayuntamiento que corresponda:
 
 I. Recaudar las contribuciones de orden local que se establezcan en la presente Ley, en sus reglamentos o en cualquier otra norma general aplicable que deban ser cubiertas en relación con el tránsito de vehículos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -414,8 +386,6 @@ II. Tener domicilio en el municipio que corresponda, con una antigüedad mínima
 III. No haber sido condenado por delito que amerite pena corporal;
 
 IV. No ser funcionario o empleado público, salvo las representaciones sindicales de maestros y trabajadores al servicio del Estado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -583,8 +553,6 @@ Tratándose de vehículos de barrido mecanizado de limpieza, deberá efectuar su
 
 ### CAPÍTULO TERCERO. DE LAS PLACAS DE LOS VEHICULOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 42.
@@ -652,8 +620,6 @@ El extravío o robo de una o ambas placas de circulación de cualquier tipo, deb
 ## TÍTULO III
 
 ### CAPÍTULO SEGUNDO. DE LAS LICENCIAS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 7 DE MARZO DE 2012)</small>
 
@@ -731,8 +697,6 @@ Los conductores de vehículos de paso preferencial o emergencia quedarán exento
 
 ### CAPÍTULO TERCERO. DE LA SUSPENSIÓN Y CANCELACIÓN DE LICENCIAS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 52.
@@ -758,8 +722,6 @@ Requisitos para obtener licencia de conducir. Para obtener la licencia de conduc
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2016)</small>
 
 4. Aprobar el examen médico de aptitudes físicas y mentales para la conducción, además cuando se trate de expedición de licencia de chofer de servicio público, el examen médico incluirá uno de tipo toxicológico;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2008)</small>
 
@@ -877,13 +839,9 @@ II. Cuando el titular de la misma cometa cuatro infracciones de las consideradas
 
 III. (DEROGADA, P.O. 12 DE ENERO DE 2013)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2008)</small>
 
 IV. Que se compruebe que la información proporcionada o alguno de los documentos o constancias exhibidos por el interesado para la obtención de la licencia son falsos o han sido falsificados;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2008)</small>
 
@@ -1101,7 +1059,9 @@ Los vehículos indebidamente estacionados, así como los señalados en las fracc
 
 En lugares donde haya instalados relojes estacionómetros, es obligación de los conductores pagar la cuota fijada en los mismos. El incumplimiento de dicha obligación causará la multa correspondiente y, en su caso, la aplicación del inmovilizador, en los términos que establezca el reglamento municipal correspondiente. También motivará la aplicación de la multa y del inmovilizador cuando se estacionen o invadan los espacios exclusivos y prohibidos señalados en las fracciones I y V del artículo 77 de esta Ley.
 
-### CAPÍTULO ÚNICO. DE LA EDUCACIÓN Y SEGURIDAD VIAL
+### CAPÍTULO ÚNICO. DE LA EDUCACIÓN, SEGURIDAD VIAL Y CULTURA DE LA MOVILIDAD
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2017)</small>
 
 ###### Artículo 84.
 
@@ -1119,11 +1079,13 @@ Queda prohibida la circulación de vehículos de carga en los carriles centrales
 
 ## TÍTULO VI
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JULIO DE 2017)</small>
+
 ### CAPÍTULO PRIMERO. DE LAS SANCIONES ADMINISTRATIVAS
 
 ###### Artículo 87.
 
-Es obligación de la Dirección y/o presidentes municipales la creación y desarrollo de programas de educación y seguridad vial permanentes, involucrando la participación de instituciones educativas y de los diversos sectores de la población, actividades que desempeñará a través de un Departamento de Educación y Seguridad Vial de la Dirección.
+Es obligación de la Dirección y/o presidentes municipales la creación y desarrollo de programas permanentes de educación en materia de movilidad, seguridad vial y prevención de accidentes, involucrando la participación de instituciones educativas y de los diversos sectores de la población, actividades que desempeñará a través de un Departamento de Educación y Seguridad Vial de la Dirección.
 
 ###### Artículo 88.
 
@@ -1137,19 +1099,49 @@ III. La normatividad de los peatones, pasajeros y conductores en la vía públic
 
 IV. Otras disciplinas auxiliares útiles en el logro de los objetivos de estas disposiciones.
 
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2017)</small>
+
+V. Privilegiar la seguridad vial.
+
 ###### Artículo 89.
 
 El Departamento de Educación y Seguridad Vial deberá:
 
-I. Implementar las acciones necesarias para impulsar la educación vial, en coordinación con las instituciones educativas, en los términos del artículo 13, fracción XXVIII de la Ley Estatal de Educación vigente en el Estado;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2017)</small>
 
-II. Colaborar de manera activa en los consejos escolares de participación social a los que alude el artículo 140, fracción V de la Ley Estatal de Educación, a través de la educación y capacitación de brigadas viales escolares que se integrarán con padres de familia, en los planteles de niveles preescolar y primaria, o con alumnos de los niveles medio, medio superior y superior y en ambos casos con autoridades escolares;
+I. Implementar las acciones necesarias para impulsar la educación vial y cultura de la movilidad, en coordinación con las instituciones educativas, en los términos del artículo 13, fracción XXVIII de la Ley Estatal de Educación vigente en el Estado.
 
-III. Impartir cursos a solicitantes de licencias para conducir;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2017)</small>
 
-IV. Brindar cursos de actualización y especialización en la materia al personal operativo y administrativo, cuando el desempeño de sus actividades así lo amerite o lo requiera; y,
+II. Colaborar de manera activa en los consejos escolares de participación social a los que alude el artículo 138, fracción V de la Ley Estatal de Educación, a través de la educación y capacitación de brigadas viales escolares que se integrarán con padres de familia, en los planteles de niveles preescolar y primaria, o con alumnos de los niveles medio, medio superior y superior y en ambos casos con autoridades escolares en coordinación con la administración pública municipal, a fin de mejorar la seguridad vial en el entorno de las instituciones educativas e impulsar el uso de medios alternativos al transporte particular.
 
-V. Impartición de cursos a personal de empresas e instituciones y particulares que lo soliciten.
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2017)</small>
+
+III. Impartir cursos teórico-prácticos a solicitantes de licencias para conducir.
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2017)</small>
+
+IV. Brindar cursos de actualización y especialización en la materia al personal operativo y administrativo, cuando el desempeño de sus actividades así lo amerite o lo requiera.
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2017)</small>
+
+V. Impartir cursos al personal de empresas e instituciones y particulares que lo soliciten, así como implementar programas sobre educación vial y de cultura de la movilidad.
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2017)</small>
+
+VI. Promover el respeto por los señalamientos existentes en las vías públicas, así como de los derechos de personas, peatones y ciclistas, con énfasis en las personas con discapacidad y movilidad reducida.
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2017)</small>
+
+VII. Implementar cursos de sensibilización para choferes del transporte público y privado de pasajeros, relativos al adecuado trato a personas con discapacidad, con movilidad reducida, peatones y ciclistas.
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2017)</small>
+
+VIII. Difundir los protocolos de reacción en situaciones de emergencia vial.
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2017)</small>
+
+IX. Las demás necesarias para el cumplimiento de la presente Ley y su reglamento.
 
 ## TÍTULO VII
 
@@ -1167,13 +1159,9 @@ III. Suspensión de la licencia de conducir;
 
 IV. Cancelación de la licencia de conducir;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2008)</small>
 
 V. Arresto hasta por treinta y seis horas;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 23 DE AGOSTO DE 2008)</small>
 
@@ -1194,8 +1182,6 @@ IX. Asistencia a cursos de sensibilización y prevención de accidentes.
 > <small>(ADICIONADA, P.O. 12 DE ENERO DE 2013)</small>
 
 X. Retención de la licencia de conducir en los términos del artículo 90 Bis.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE FEBRERO DE 2010)</small>
 
@@ -1236,8 +1222,6 @@ E) Agredir físicamente a comandantes, oficiales o demás personal de las corpor
 Tratándose de estas infracciones se podrán aplicar conjuntamente dos o más sanciones mencionadas en el artículo 90.
 
 En el caso de que el infractor no pagare la multa que se le hubiese impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 6 DE FEBRERO DE 2010)</small>
 
@@ -1377,33 +1361,23 @@ III. En los casos en que se incurra en una infracción grave y su conductor no s
 
 IV. Conduzca, maniobre o maneje sin contar con dos de los siguientes documentos: Licencia de conducir vigente que le haya sido otorgada para la clase de vehículo que conduzca; no lleve en el vehículo la tarjeta de circulación del mismo, y la póliza de seguro vigente con cobertura de daños a terceros que garantice su responsabilidad civil en caso de accidente. Para el efecto, el oficial de vialidad y/o tránsito que realice el acto de molestia deberá expresar por escrito el precepto legal en que lo funda y motive el acto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2008)</small>
 
 V. Por orden judicial;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2008)</small>
 
 VI. Por conducir, maniobrar o manejar en estado de intoxicación por alcohol, drogas u otras sustancias igualmente tóxicas, que alteren su capacidad para conducir, maniobrar o manejar. En este caso la retención del vehículo será por un plazo máximo de doce horas en la delegación de tránsito y/o vialidad, tiempo en el cual el vehículo queda bajo el resguardo de la delegación, y en la cual el infractor a través de un familiar o conocido podrá recoger el vehículo. Si transcurrido el plazo anterior el vehículo no es recuperado, éste será remitido al corralón que determine la delegación; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADA, P.O. 23 DE AGOSTO DE 2008)</small>
 
 VII. En el caso de menores de edad, sin perjuicio de lo señalado en la fracción IV de este artículo, cuando conduzcan un vehículo que no traiga adherido el holograma de identificación previsto en esta Ley, o cuando conduzcan un vehículo diverso para el que fueron autorizados.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2008)</small>
 
 Invariablemente, el oficial de vialidad y/o tránsito que realice el acto de molestia, deberá expresar por escrito el precepto legal en que lo funda y motiva, notificándolo a quien aparezca como propietario del vehículo y/o a quienes hayan asumido la responsabilidad civil.
 
 ### CAPÍTULO TERCERO. DE LOS RECURSOS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1447,8 +1421,6 @@ La suspensión podrá ser solicitada en cualquier tiempo ante la autoridad ejecu
 
 La autoridad ejecutora suspenderá provisionalmente el procedimiento y concederá un plazo de cinco días para el otorgamiento de la garantía. Constituida ésta se suspenderá de plano la ejecución, hasta que se resuelva en definitiva el recurso.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 Contra las resoluciones del Fiscal General del Estado que resulten de un recurso, no cabrá otro posterior.
@@ -1459,21 +1431,15 @@ La tramitación del recurso se sujetará al procedimiento siguiente:
 
 I. Se interpondrá por sí o por representante legalmente investido y por escrito expresando: El nombre del recurrente, domicilio para ser notificado en la ciudad de Chihuahua; señalamiento del acto impugnado; los agravios que el mismo le cause y el ofrecimiento de las pruebas que pretenda reunir.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 II. Interpuesto el recurso, la Fiscalía recabará de oficio los informes y constancias necesarias para determinar la existencia del acto impugnado, las razones que lo justifiquen y la fecha de su notificación; en vista de lo anterior, acordará si es de admitirse o desecharse el recurso.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 III. El Fiscal General del Estado proveerá la recepción y desahogo de las pruebas ofrecidas, dentro del término de quince días hábiles, desechando aquellas en las que se considere que el interesado tuvo oportunidad razonable de rendirlas ante la autoridad que emitió la resolución, así como la confesional de la propia autoridad emisora del acto.
 
 IV. Desahogadas las pruebas, se abrirá un período de alegatos por tres días.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1555,7 +1521,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FERNANDO RODRIGUEZ MORENO.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 30 DE JUNIO DE 2007.
 
@@ -1829,7 +1795,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 22 DE FEBRERO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO N°. LXV/RFCLC/0266/2017 I P.E. POR EL QUE "SE REFORMA EL ARTÍCULO 96 DE LA LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA".]
+## [N. DE E. TRANSITORIOS DEL DECRETO N°. LXV/RFCLC/0266/2017 I P.E. POR EL QUE “SE REFORMA EL ARTÍCULO 96 DE LA LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1842,3 +1808,11 @@ Se derogan todas las disposiciones que se opongan al presente Decreto, entendié
 ###### ARTÍCULO TERCERO.
 
 El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
+
+P.O. 15 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXV/RFLEY/0341/2017 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA."]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
