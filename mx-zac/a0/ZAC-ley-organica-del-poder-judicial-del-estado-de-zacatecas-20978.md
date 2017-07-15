@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-judicial-del-estado-de-zacatecas-20978"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-04-04"
-last_updated: "2014-12-31"
+last_updated: "2017-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "ZAC"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 260, SE PRECISA QUE EN LAS CAUSAS PENALES INICIADAS CON ANTERIORIDAD A LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, CONTINUARÁN SU SUBSTANCIACIÓN, CONFORME DISPONE EL ARTÍCULO TRANSITORIO TERCERO DE DICHO ORDENAMIENTO, ES DECIR, DE ACUERDO A LAS REGLAS DEL CÓDIGO PROCESAL PENAL PARA EL ESTADO DE ZACATECAS; LAS ALUSIONES A JUEZ DE GARANTÍA Y TRIBUNAL DE JUICIO ORAL SUPRIMIDAS DE ESTA LEY, POR CONGRUENCIA A ESTE ÚLTIMO ORDENAMIENTO LEGAL, DEBERÁN SEGUIR VIGENTES, P.O. 31 DE DICIEMBRE DE 2014.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE SEPTIEMBRE DE 2017 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 260, SE PRECISA QUE EN LAS CAUSAS PENALES INICIADAS CON ANTERIORIDAD A LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, CONTINUARÁN SU SUBSTANCIACIÓN, CONFORME DISPONE EL ARTÍCULO TRANSITORIO TERCERO DE DICHO ORDENAMIENTO, ES DECIR, DE ACUERDO A LAS REGLAS DEL CÓDIGO PROCESAL PENAL PARA EL ESTADO DE ZACATECAS; LAS ALUSIONES A JUEZ DE GARANTÍA Y TRIBUNAL DE JUICIO ORAL SUPRIMIDAS DE ESTA LEY, POR CONGRUENCIA A ESTE ÚLTIMO ORDENAMIENTO LEGAL, DEBERÁN SEGUIR VIGENTES, P.O. 31 DE DICIEMBRE DE 2014.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 4 de abril del 2001.
 
@@ -169,9 +171,7 @@ I. El Tribunal Superior de Justicia;
 
 II. (DEROGADA, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADA, P.O. 31 DE DICIEMBRE DE 2014)
 
-> <small>(REFORMADA, P.O. 11 DE ENERO DE 2003)</small>
-
-III. El Tribunal de lo Contencioso Administrativo;
+III. (DEROGADA POR EL ARTÍCULO OCTAVO TRANSITORIO DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE ZACATECAS, P.O. 15 DE JULIO DE 2017)
 
 > <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2008)</small>
 
@@ -187,7 +187,7 @@ VI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
 
 Auxiliares
 
-Son auxiliares del Poder Judicial: las corporaciones policiales, las dependencias y entidades de las administraciones públicas estatal (sic) y municipales, los fedatarios y demás servidores públicos que determine la ley.
+Son auxiliares del Poder Judicial: las corporaciones policiales, las dependencias y entidades de las administraciones públicas estatal y municipales, los fedatarios y demás servidores públicos que determine la ley.
 
 ## TITULO SEGUNDO. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
@@ -1779,21 +1779,17 @@ Los demás servidores públicos del Poder Judicial, serán procesados por los de
 
 (DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 11 DE ENERO DE 2003)</small>
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRA, POR EL ARTÍCULO OCTAVO TRANSITORIO DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE ZACATECAS, P.O. 15 DE JULIO DE 2017)</small>
 
 ## TITULO SEXTO. DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE ENERO DE 2003)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR EL ARTÍCULO OCTAVO TRANSITORIO DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE ZACATECAS, P.O. 15 DE JULIO DE 2017)</small>
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2003)</small>
-
 ###### Artículo 126.
 
-Organización Atribuciones y Funcionamiento
-
-El Tribunal de lo Contencioso Administrativo tendrá la organización, funcionamiento, competencia, procedimiento y recursos que disponga su propia ley.
+(DEROGADO POR EL ARTÍCULO OCTAVO TRANSITORIO DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE ZACATECAS, P.O. 15 DE JULIO DE 2017)
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE NOVIEMBRE DE 2008)</small>
 
@@ -1972,3 +1968,55 @@ P.O. 31 DE DICIEMBRE DE 2014.
 PRIMERO. Las reformas a la Ley Orgánica del Poder Judicial del Estado, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. En las causas penales iniciadas con anterioridad a la entrada en vigor del Código Nacional de Procedimientos Penales, continuarán su substanciación, conforme dispone el artículo Transitorio Tercero de dicho ordenamiento, es decir, de acuerdo a las reglas del Código Procesal Penal para el Estado de Zacatecas; las alusiones a Juez de Garantía y Tribunal de Juicio Oral suprimidas de esta ley, por congruencia a este último Ordenamiento Legal, deberán seguir vigentes.
+
+P.O. 15 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE ZACATECAS".]
+
+Artículo primero. La presente Ley entrará en vigor el 19 de julio de 2017, previa publicación en el Periódico Oficial, Órgano de Gobierno del Estado, sin perjuicio de lo que señalen los artículos siguientes.
+
+Artículo segundo. A más tardar el 31 de octubre, la Legislatura del Estado comenzará el procedimiento señalado en el artículo 113 de la Constitución del Estado, para la elección de los Magistrados integrantes del Tribunal.
+
+Por única ocasión, la Legislatura del Estado nombrará a los Magistrados integrantes del Tribunal en los términos siguientes:
+
+a) Un Magistrado que durará en su encargo tres años,
+
+b) Un Magistrado que durará en su encargo cinco años, y
+
+c) Un Magistrado que durará en su encargo siete años.
+
+Los Magistrados a que se refieren los incisos anteriores se rotarán la Presidencia del Tribunal en el mismo orden señalado.
+
+Hasta en tanto se designen a los Magistrados en los términos de este artículo, el Tribunal funcionará como Tribunal Unitario con el Magistrado que se encuentre en funciones, quien será Representante Legal del Tribunal y ejercerá las funciones jurisdiccionales y administrativas que el presente Decreto otorga al Pleno, al Magistrado Presidente y al Magistrado de Ponencia.
+
+Artículo tercero. Dentro de los ciento ochenta días posteriores a la publicación del presente Decreto la Legislatura realizará las adecuaciones necesarias para que las facultades de la Unidad de Asistencia Jurídica del Tribunal de lo Contencioso Administrativo del Estado sean contempladas en la Ley del Instituto de la Defensoría Pública del Estado de Zacatecas.
+
+En tanto se realizan dichas reformas, la Unidad de Asistencia Jurídica continuará ejerciendo sus atribuciones.
+
+Artículo cuarto. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto y aquéllos que se verifiquen antes de la entrada en vigor de la Ley General de Responsabilidades Administrativas, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
+
+Los expedientes radicados ante el Tribunal de lo Contencioso Administrativo del Estado y Municipios de Zacatecas serán transferidos al Tribunal dentro del plazo de quince días naturales posteriores a la entrada en vigor del presente Decreto, quien continuará con el desahogo de los mismos en los términos de la presente Ley y otros ordenamientos legales.
+
+Artículo quinto. Sin perjuicio de lo establecido en el artículo anterior, a partir de la entrada en vigor de la Ley General de Responsabilidades Administrativas, se derogan los Títulos Primero, Tercero, Cuarto y Quinto de la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado y Municipios de Zacatecas, así como todas aquellas disposiciones que se opongan a lo previsto en dicha Ley General.
+
+Artículo sexto. El Pleno del Tribunal dentro de los noventa días posteriores a su instalación, deberá expedir la reglamentación y normatividad administrativa interna y publicarla en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Hasta en tanto el Pleno del Tribunal expida la nueva reglamentación, continuará vigente el Reglamento Interno del Tribunal de lo Contencioso Administrativo del Estado y Municipios de Zacatecas.
+
+Artículo séptimo. Sin perjuicio de lo previsto en este apartado de artículos transitorios, con la entrada en vigor de la presente Ley, queda abrogada la Ley del Tribunal de lo Contencioso Administrativo del Estado y Municipios de Zacatecas, publicada en Suplemento 1 al número 27 del Periódico Oficial, Órgano de Gobierno del Estado, correspondiente al día 1° de abril del 2000.
+
+Las menciones al Tribunal de lo Contencioso Administrativo del Estado y Municipios de Zacatecas en los diferentes ordenamientos legales, se entenderán referidas al Tribunal de Justicia Administrativa del Estado de Zacatecas.
+
+Artículo octavo. A la fecha de entrada en vigor de la presente Ley, quedan derogados los artículos 4, fracción III; así como el Título Sexto de la Ley Orgánica del Poder Judicial del Estado de Zacatecas.
+
+Artículo noveno. De conformidad con el Artículo séptimo del Decreto 128 por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Zacatecas en materia de Sistema Estatal Anticorrupción, el Poder Judicial del Estado transferirá los recursos humanos, financieros y materiales con los que cuenta actualmente el Tribunal de lo Contencioso Administrativo del Estado y Municipios de Zacatecas, al Tribunal de Justicia Administrativa del Estado, dentro del plazo de 30 días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+Para tales efectos, el Tribunal Superior de Justicia del Estado de Zacatecas designará la Comisión de entrega. El proceso de entrega recepción se llevará a cabo de acuerdo con la Ley de Entrega-Recepción del Estado y Municipios de Zacatecas y demás leyes y reglamentos aplicables.
+
+Los servidores públicos que a la entrada en vigor del presente Decreto formen parte del Tribunal de lo Contencioso Administrativo del Estado y Municipios de Zacatecas, conservarán sus derechos laborales y de seguridad social.
+
+Artículo décimo. Dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto, la Legislatura del Estado designará al titular del Órgano Interno de Control del Tribunal.
+
+Artículo decimoprimero. En el Presupuesto de Egresos del Estado de Zacatecas para el Ejercicio fiscal 2018, se establecerán los recursos correspondientes para el funcionamiento del Tribunal. La Secretaría de Finanzas del Gobierno del Estado en los términos de la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado, reasignará recursos para el funcionamiento del Tribunal y del Órgano Interno de Control.
+
+Artículo decimosegundo. El Magistrado del Tribunal de lo Contencioso Administrativo del Estado y Municipios de Zacatecas, en funciones, podrá participar en el proceso de selección de Magistrados del Tribunal de Justicia Administrativa del Estado de Zacatecas u optar por acogerse a lo dispuesto en el artículo 7 de la Ley Orgánica del Poder Judicial del Estado de Zacatecas.
