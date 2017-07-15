@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-conducta-de-los-servidores-publicos-del-estado-de-103
 country: "mx"
 rank: "codigo"
 publication_date: "2014-10-17"
-last_updated: "2014-10-17"
+last_updated: "2017-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103387&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "NAY"
 ---
 # CODIGO DE CONDUCTA DE LOS SERVIDORES PUBLICOS DEL ESTADO DE NAYARIT
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE 15 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2017 (DEROGADO).
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Nayarit, el viernes 17 de octubre de 2014.
 
@@ -231,3 +233,17 @@ El presente Código de Conducta está vigente a partir de su difusión y publica
 Este Código de Conducta, se emite en cumplimiento a los Artículos 94 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit.
 
 A T E N T A M E N T E “SUFRAGIO EFECTIVO; NO REELECCIÓN” ING. MARIO ALBERTO PACHECO VENTURA, SECRETARIO DE LA CONTRALORÍA GENERAL DEL ESTADO DE NAYARIT.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE NAYARIT."]
+
+###### ARTÍCULO PRIMERO.
+
+El presenta (sic) Código entra en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Nayarit.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga el Código de Conducta de los Servidores Públicos del Estado de Nayarit, de fecha 17 de octubre de 2014, publicado en el Periódico Oficial del Gobierno del Estado de Nayarit.
