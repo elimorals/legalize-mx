@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-fiscalizacion-superior-del-estado-de-zacatecas-16291"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-30"
-last_updated: "2015-02-07"
+last_updated: "2017-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16291&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "ZAC"
 ---
 # LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO TERCERO DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 15 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE AGOSTO DE 2017. EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2017 (ABROGADA).
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el jueves 30 de marzo de 2000.
 
@@ -1542,3 +1546,29 @@ P.O. 7 DE FEBRERO DE 2015.
 Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo.- Se derogan las disposiciones que se opongan a este Decreto.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE ZACATECAS”.]
+
+PRIMERO. La presente Ley entrará en vigor el 19 de julio de 2017, previa publicación en el Periódico Oficial, Órgano de Gobierno del Estado, sin perjuicio de lo que señalen los artículos siguientes.
+
+SEGUNDO. La fiscalización y los procedimientos administrativos iniciados de conformidad con la Ley de Fiscalización Superior del Estado de Zacatecas, la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas y la Ley del Tribunal del Contencioso Administrativo del Estado y Municipios de Zacatecas que se encuentren en trámite o pendientes de resolución a la entrada en vigor de la presente Ley, se resolverán hasta su conclusión definitiva, en términos de la legislación invocada en este artículo, así como los que se deriven de las funciones de fiscalización y revisión hasta la Cuenta Pública del ejercicio fiscal 2016 o anteriores.
+
+TERCERO. Sin perjuicio de lo previsto en este apartado de artículos transitorios, con la entrada en vigor de la presente Ley, queda abrogada la Ley de Fiscalización Superior del Estado de Zacatecas, contenida en el Decreto número 153 publicado en Suplemento 3 al 26 del Periódico Oficial, Órgano de Gobierno del Estado, correspondiente al 30 de marzo del año 2000, conforme a lo dispuesto en los artículos transitorios subsecuentes y se derogan todas las disposiciones legales que contravengan a la presente Ley.
+
+CUARTO. Las funciones de investigación, revisión y fiscalización de la Auditaría Superior del Estado previstas en la presente Ley entrarán en vigor a partir de la Cuenta Pública del año 2017.
+
+QUINTO. Las funciones de investigación, revisión y fiscalización para el ejercicio del año en curso y de ejercicios anteriores entrarán en vigor al día siguiente de la publicación del presente Decreto.
+
+SEXTO. La Auditaría Superior del Estado, deberá actualizar su Reglamento Interior conforme a lo previsto en esta Ley en un plazo no mayor a noventa días hábiles contados a partir de la vigencia de la presente Ley.
+
+La Legislatura del Estado deberá modificar la Ley Orgánica del Poder Legislativo conforme a lo previsto en esta Ley en un plazo no mayor a noventa días hábiles contados a partir de la vigencia de la presente Ley.
+
+SÉPTIMO. Dentro de los noventa días posteriores a la entrada en vigor de la presente Ley, la Auditoría Superior del Estado expedirá la reglamentación y normatividad administrativa interna y deberá publicarla en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Hasta en tanto expida dicha reglamentación y normatividad administrativa interna, continuará aplicándose la vigente.
+
+OCTAVO. La Auditaría Superior del Estado deberá actualizar y, en su caso, publicar la normatividad que, conforme a sus atribuciones, deba expedir en un plazo no mayor a noventa días hábiles contados a partir de la vigencia de la presente Ley.
