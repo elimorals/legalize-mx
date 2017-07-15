@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-responsabilidad-administrativa-de-los-servidores-7834"
 country: "mx"
 rank: "ley"
 publication_date: "1983-07-13"
-last_updated: "2002-03-04"
+last_updated: "2017-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7834&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAB"
 ---
 # LEY DE RESPONSABILIDAD ADMINISTRATIVA DE LOS SERVIDORES PUBLICOS, REGLAMENTARIA DEL ARTICULO 68, DEL TITULO VII, DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO -ANTES LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS, REGLAMENTARIA DE LOS ARTICULOS 68 Y 69, DEL TITULO VII, DE LA CONSTITUCION POLITICA DEL ESTADO DE TABASCO -ANTES LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS QUE REGLAMENTA EL TITULO SEPTIMO DE LA LEY FUNDAMENTAL DEL ESTADO DE TABASCO-
 
-LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS QUE REGLAMENTA EL TITULO SEPTIMO DE LA LEY FUNDAMENTAL DEL ESTADO DE TABASCO
+LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS, REGLAMENTARIA DE LOS ARTÍCULOS 68 Y 69, DEL TÍTULO VII, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MARZO DE 2002.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 13 de julio de 1983.
 
@@ -33,7 +33,7 @@ Que el H. Congreso del Estado se ha servido dirigir lo siguiente.
 
 La H. Quincuagésima Primera Legislatura del Estado Libre y Soberano de Tabasco, en uso de las facultades que le confieren los Artículos 35, 36, Fracciones I, IX Y XXXIX, de conformidad con los artículos 66, 67, 68, 69, 70, 71, 72 y 76 de la Constitución Política Local, y
 
-...
+[...]
 
 Ha tenido a bien expedir el siguiente:
 
@@ -47,49 +47,29 @@ Es de aprobarse en todas y ccadda (sic) una de sus partes, la ZLey (sic) de resp
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
-ART. 1.- Esta Ley tiene por objeto reglamentar el título séptimo de la Constitución Política del Estado de Tabasco en materia de:
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2017)</small>
 
-I. Los sujetos de responsabilidad en el servicio público;
+ART. 1.- Esta Ley tiene por objeto reglamentar el Título Séptimo de la Constitución Política del Estado de Tabasco, en lo relativo a la instauración de juicio político o de procedimiento para declaración de procedencia por la comisión de delitos, a los servidores públicos sujetos de protección Constitucional.
 
-II.- Las obligaciones en el servicio público;
+En el caso de las responsabilidades en que incurran los servidores públicos del Estado por faltas administrativas y los particulares vinculados con las mismas, se aplicarán la Ley General de Responsabilidades Administrativas y la Ley de Justicia Administrativa del Estado de Tabasco.
 
-III.- Las responsabilidades y sanciones administrativas en el servicio público, así como las que deban resolver mediante juicio político;
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2017)</small>
 
-IV.- Las autoridades competentes y los procedimientos para aplicar dichas sanciones;
+ART. 2.- Son sujetos de esta Ley, los Servidores Públicos mencionados en los artículos 68, párrafos primero y segundo; y 69, de la Constitución Política del Estado Libre y Soberano de Tabasco, a quienes serán aplicables los procedimientos y sanciones señalados en dichos numerales.
 
-V.- Las autoridades competentes y los procedimientos para declarar la procedencia del procesamiento penal de los servidores públicos que gozan de fuero.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 1993)</small>
+ART. 3.- Las autoridades competentes para aplicar la presente Ley serán:
 
-VI.- El registro Patrimonial de los Servidores Públicos.
+I. La Cámara de Diputados del Congreso del Estado; y
 
-ART. 2.- Son sujetos de esta Ley, los servidores Públicos mencionados en el párrafo primero del artículo 66 Constitucional y en el párrafo del artículo 68 y todas aquellas personas que manejen p (sic) apliquen recursos económicos de carácter público.
+II. El. Tribunal Superior de Justicia del Poder Judicial del Estado.
 
-AER. (SIC) 3.- Las autoridades competentes para aplicar la presente Ley serán:
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2017)</small>
 
-I.- La Cámara de Diputados del Estado;
+###### Artículo 4.
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2002)</small>
-
-II.- El Tribunal Superior de Justicia en el Estado, el Consejo de la Judicatura y la Contraloría Judicial;
-
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2002)</small>
-
-III.- La Secretaría de Contraloría y Desarrollo Administrativo;
-
-IV.- Las dependencias del Ejecutivo Estatal, y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2002)</small>
-
-V.- Los Ayuntamientos, por conducto de sus órganos competentes, y
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 4 DE MARZO DE 2002)</small>
-
-VI.- Los demás órganos jurisdiccionales y administrativos que determinen las leyes.
-
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 1993)</small>
-
-ART. 4.- Cuando los actos u omisiones materia de las acusaciones queden comprendidas en más de uno de los casos sujetos a sanción y previstos en los Artículos 67 y 68 de la Constitución Política del Estado, los procedimientos respectivos se desarrollarán en forma autónoma e independiente según su naturaleza y por la vía procesal que corresponda, debiendo las autoridades a que alude el artículo anterior, turnar las denuncias a quien deba conocer de ellas. No podrán imponerse dos veces por una sola conducta, sanciones de la misma naturaleza.
+Cuando los actos u omisiones materia de las acusaciones queden comprendidos en más de uno de los supuestos previstos en los artículos 68 y 69 de la Constitución Política del Estado, los procedimientos respectivos se desarrollarán en forma autónoma e independiente, según su naturaleza y por la vía procesal que corresponda. No podrán imponerse dos veces por una sola conducta, sanciones de la misma naturaleza.
 
 ## TITULO SEGUNDO. PROCEDIMIENTOS ANTE EL CONGRESO DEL ESTADO EN MATERIA DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA
 
@@ -275,439 +255,115 @@ ART. 44.- Las declaracciones (sic)o resoluciones aprobadas por la cámara y el t
 
 ART. 45.- En todas las cuestiones relativas al procedimiento no previsto en esta Ley, así como en la apreciación de las pruebas, se observarán las disposiciones del código de procedimientos penales vigente en el estado: asimismo se atenderán en lo conducente, las del código penal.
 
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 2017)</small>
+
 ## TITULO TERCERO. RESPONSABILIDADES ADMINISTRATIVAS
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 2017)</small>
 
 ### CAPITULO I. SUJETOS Y OBLIGACIONES DEL SERVIDOR PUBLICO
 
-ART. 46.- Incurren en responsabilidad administrativa los servidores públicos a que se refiere el artículo 2o. de esta Ley.
+ART. 46.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MAYO DE 1993)</small>
+ART. 47.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
-ART. 47.- Todo servidor público tendrá las siguientes obligaciones, para salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben ser observadas en el desempeño de su empleo, cargo o comisión y cuyo incumplimiento dará lugar al procedimiento y a las sanciones que correspondan, sin perjuicio de sus derechos laborales:
+ART. 48.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
-I.- Cumplir con la máxima diligencia el servicio que le sea encomendado y abstenerse de cualquieracto (sic) u omisión que cause la suspención (sic) o deficiencia de dicho servicio o implique abuso o ejercicio indebido de un empleo, cargo o comisión;
-
-II.- Formular y ejecutar legalmente, en su caso, los planes, programas y presupuestos correspondientes a su competencia y cumplir las Leyes y otras normas que determinen el manejo de recursos económicos públicos;
-
-III.- Utilizar los recursos que tenga asignados para el desempeño de su empleo, cargo o comisión, las facultades que le sean atribuídas o la información reservada a que tenga acceso por su función, exclusivamente para los fines a que están afectos;
-
-IV.- Custodiar y cuidar la documentación e información que por razón de su empleo, cargo o comisión, conserve bajo su custodia o la que tenga acceso, impidiendo o evitando el uso, la sustracción, la destrucción, el ocultamiento o la inutilización indebida de aquellas;
-
-V.- Observar buena conducta, en su empleo, cargo o comisión, tratando con respeto, diligencia, imparcialidad y rectitud a las personas con las que tenga relación con motivo de este;
-
-VI.- Observar en la dirección de sus inferiores jerárquicos las debidas reglas del trato y abstenerse de incurrir en agravio, desviación o abuso de autoridad;
-
-VII.- Observar respeto y subordinación legítimas con respeto a sus superiores jerárquicos inmediatos o mediatos, cumpliendo las disposiciones que estos dicten en el ejercicio de sus atribuciones;
-
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 1993)</small>
-
-VIII.- Comunicar por escrito al Titular de la Dependencia o Entidad en la que preste sus servicios, el incumplimiento de las obligaciones establecidas en este Artículo, o las dudas fundadas que le suscite la procedencia de las órdenes que reciba;
-
-IX.- Abstenerse de ejercer las funciones de un empleo, cargo o comisión después de concluído el período para el cual se le designó o de haber cesado por cualquier otra causa en el ejercicio de sus funciones;
-
-X.- Abstenerse de disponer o autorizar a un subordinado a no asistir sin causa justificada a sus labores por más de quince días continuos o treinta discontinuos en un año, así como de otorgar indebidamente licencias, permisos o comisiones con goce parcial o total del sueldo y otras percepciones cuando las necesidades del servicio público no lo exijan;
-
-XI.- Abstenersee (sic) de desempeñar algún otro empleo, cargo o comisión oficial o particular que la Ley prohiba;
-
-XII.- Abstenerse de autorizar la selección, contratación, nombramiento o designación de quien se encuentra inhabilitado por resolución firme de la autoridad competente para ocupar un empleo, cargo o comisión en el servicio público;
-
-XIII.- Excusarse de intervenr (sic) en cualquier forma en la atención, tramitación o resolución de asuntos en los que tenga interés personal, familiar o de negocios, incluyendo aquellos de los que pueda resultar algún beneficio para el, su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas forman o hayan formado parte;
-
-XIV.- Informar por escrito al Jefe inmediato y en su caso al Superior Jerárquico sobre la atención, trámite o resolución de los asuntos a que se hace referencia la fracción anterior y que sean de su conocimiento y observar sus instrucciones por escrito sobre su atención, tramitación y resolución, cuando el servidor público no pueda abstenerse de intervenir en ellos;
-
-XV.- Abstenerse durante el ejercicio de sus funciones dee (sic) solicitar, aceptar o recibir, por si o por interpósita persona, dinero, objetos mediante enajenación a su favor en un precio notoriamente inferior al que bien de que se trate y tenga en el mercado ordinario, o cualquier donación, empleo, cargo o comisión para si o para las personas a que se refiere la Fracción XIII y que procedan de cualquier persona física o moral cuyas actividades profesionales, comerciales o industriales se encuentren directamente vinculadas, reguladas o supervisadas por el servidor público de que se trate en el desempeño de su empleo, cargo o comisión y que implique interés en conflicto. Esta prevención es aplicable hasta un año después de que se haya retirado del empleo, cargo o comisión;
-
-XVI.- Desempeñar su empleo, cargo o comisión sin obtener o pretender obtener beneficios adicionales a las contraprestaciones comprobables que el Estado le otorga por el desempeño de su función, sean para él o para las personas a que se refiere la Fracción XIII;
-
-XVII.- Abstenerse de intervenir o participar indebidamente en la selección, nombramiento, designación, contratación, promoción, suspención (sic), remoción, cese, o sanción de cualquier servidor público cuando tenga interés personal, familiar o de negocios en el caso o pueda derivar alguna ventaja o beneficio ilícito para él o para las personas a las que se refiere la Fracción XIII;
-
-XVIII.- Presentar con oportunidad y veracidad la declaración de situación patrimonial ante la Contraloría General del Estado, en los términos que señala la Ley;
-
-XIX.- Atender con la máxima diligencia las instrucciones, requerimientos o resoluciones que reciban de la Contraloría General, conforme a la competencia de ésta;
-
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 1993)</small>
-
-XX.- Supervisar que los servidores públicos sujetos a su dirección cumplan con las disposiciones de este Artículo y denunciar por escrito, ante el supervisor jerárquico o a la Contraloría Interna si la hubiere, o a la Dirección o Departamento Jurídico en su caso, los actos u omisiones que en el ejercicio de sus funciones llegare a advertir respecto de cualquier servidor público que pueda ser causa de responsabilidad administrativa, en los términos de esta Ley y de las normas que al respecto se expidan;
-
-XXI.- Abstenerse de cualquier conducta que implique incumplimiento de cualquier dispocisión (sic) jurídica relacionada con el servicio público; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MAYO DE 1993)</small>
-
-XXII.- Abstenerse en el ejercicio de sus funciones o con motivo de ellas de celebrar o autorizar la celebración de pedidos o contratos relacionados con adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y a contratación de obra pública, con quien desempeñe un empleo, cargo o comisión, en el servicio público, o bien con las sociedades de las que dichas personas formen parte, sin la autorización previa y específica de la Contraloría a propuesta razonada, conforme a las disposiciones legales aplicables, del Titular de la Dependencia o Entidad de que se trate. Por ningún motivo podrá celebrarse pedido o contrato alguno con quien se encuentre inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público;
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 8 DE MAYO DE 1993)</small>
-
-XXIII.- Las demás que le impongan otras Leyes o Reglamentos.
-
-Cuando el planteamiento que formule el servidor público a su superior jerárquico deba ser comunicado a la Contraloría General, el Superior procederá a hacerlo sin demora, bajo su estricta responsabilidad, poniendo el trámite en conocimiento del interesado. Si el superior jerárquico omite la comunicación a la Contraloría General el subalterno podrá practicarla directamente informando a su superior a cerca de este acto.
-
-ART. 48.- Para los efectos de esta Ley se entenderá por Contraloría a la Contraloría General del Estado.
-
-Para los mismos efectos, se entenderá por superior jerárquico al Titular de la Depeendencia (sic) y en el caso de las entidades, el Coordinador del sector correspondiente, el cual, aplicará las sanciones cuya imposición se le atribuya a través de la Contraloría Interna de su Dependencia.
-
-> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2002)</small>
-
-En el Poder Judicial, se considerará superior jerárquico al Pleno del Tribunal Superior de Justicia y al del Consejo de la Judicatura, en el ámbito de su respectiva competencia; una vez impuestas las sanciones serán aplicadas por sus respectivos Presidentes.
-
-> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2002)</small>
-
-En el Poder Legislativo, para efectos de sanciones administrativas de los servidores públicos, con excepción de los diputados, será considerado superior jerárquico el presidente de la Gran Comisión.
-
-> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2002)</small>
-
-En los municipios será considerado superior jerárquico, el Presidente Municipal o el Presidente del Concejo en su caso; tratándose de asuntos vinculados con éstos, o de cualquier regidor, con la salvedad a que se contrae el último párrafo parte in fine del artículo 60 de esta ley, se considerará como superior jerárquico al cabildo.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 2017)</small>
 
 ### CAPITULO II. SANCIONES ADMINISTRATIVAS Y PROCEDIMIENTOS PARA APLICARLAS
 
-ART. 49.- En las dependencias y entidades de la Administración Pública del Estado, Municipios y Organismos Paraestatales de éstos, se establecerán unidades específicas a las que el público tenga fácil acceso, para que cualquier interesado pueda presentar quejas y denuncias por incumplimiento de las obligaciones de los servidores públicos, con la que iniciarán, en su caso, el procedimiento disciplinario correspondiente.
+ART. 49.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
-La Contraloría establecerá las normas y procedimientos para que las instancias del público sean atendidas y resueltas con eficiencia.
+ART. 50.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
-ART. 50.- La Contraloría, el Superior Jerárquico y todos los Servidores Públicos tienen la obligación de respetar y hacer respetar el Derecho a la formulación de las quejas y denuncias a las que se refiere el Artículo anterior y de evitar que con motivo de éstas se causen molestias indebidas al quejoso.
+ART. 51.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
-Incurre en responsabilidad el servidor público que por sí o por interpósita persona, utilizando cualquier medio, inhiba al quejoso para evitar la formulación o presentación de quejas y denuncias o que con motivo de ellos realice cualquier conducta injusta u omita una justa que lesione los intereses de quienes las formulen o presenten.
+ART. 52.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MARZO DE 2002)</small>
+ART. 53.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
-ART. 51.- El Tribunal Superior de Justicia y el Consejo de la Judicatura, dentro de sus respectivos ámbitos de competencia, establecerán los órganos y sistemas para identificar, investigar y determinar las faltas oficiales y las responsabilidades derivadas del incumplimiento de las obligaciones señaladas en el artículo 47 de esta Ley, así como para aplicar las sanciones establecidas en el presente Capítulo, en los términos de su Ley Orgánica.
+ART. 54.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
-Lo propio hará conforme a la Legislación respectiva y por lo que hace a su competencia la Cámara de Diputados.
+ART. 55.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2002)</small>
+ART. 56.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
-Para los efectos de la aplicación en el ámbito municipal, los Ayuntamientos, procederán en la forma y términos de su legislación, y en lo conducente a lo establecido en la presente ley.
+ART. 57.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
-ART. 52.- Los Servidores Públicos de la Contraloría que incurran en responsabilidad por incumplimiento de las obligaciones establecidas en el artículo 47 serán sancionados conforme al presente capítulo por la Contraloría Interna de dicha Contraloría. El titular de esta Contraloría será designado por el Gobernador del Estado y solo será responsable administrativamente ante él.
+ART. 58.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
-ART. 53.- Las sanciones por la falta Administrativa consistirán en:
+ART. 59.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
-I.- Apercibimiento Privado o Público;
+ART. 60.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
-II.- Amonestación Privada o Pública;
+ART. 61.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
-III.- Suspensión;
+ART. 62.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
-IV.- Destitución del puesto;
+ART. 63.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
-V.- Sanciones Económicas; y
+ART. 64.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
-VI.- Inhabilitación temporal para desempeñar empleo, cargo o comisión en el servicio público.
+ART. 65.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 1993)</small>
+ART. 66.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
-Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro o cause daños y perjuicios, será de un año hasta diez años si el monto de aquéllos no excede de doscientas veces el salario mínimo mensual vigente en el Estado, y de diez a veinte años si excede de dicho límite. Este último plazo de inhabilitación también será aplicable por conductas graves de los servidores públicos.
+ART. 67.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
-> <small>(ADICIONADO, P.O. 8 DE MAYO DE 1993)</small>
+ART. 68.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
-Para que una persona que hubiere sido inhabilitada en los términos de la presente Ley por un plazo de diez años, pueda volver a desempeñar un empleo, cargo o comisión en el servicio público una vez transcurrido el plazo de la inhabilitación impuesta, se requerirá que el Titular de la Dependencia o Entidad a la que pretende ingresar, dé aviso a la Contraloría, en forma razonada y justificada de tal circunstancia.
+ART. 69.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
-> <small>(ADICIONADO, P.O. 8 DE MAYO DE 1993)</small>
+ART. 70.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
-La contravención a lo dispuesto por el párrafo que antecede, será causa de responsabilidad administrativa en los términos de esta Ley, quedando sin efecto el nombramiento o contrato que en su caso se haya realizado.
+ART. 71.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
-> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2002)</small>
+ART. 72.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
-Los puntos resolutivos de las resoluciones por las que se declare la destitución o inhabilitación de un servidor público, una vez que haya quedado firme, serán publicados en el Periódico Oficial del Estado, debiendo llevar los órganos de control correspondientes, los registros administrativos para ello, así como informar a los órganos de control de los poderes del Estado y de los municipios y al del Poder Ejecutivo Federal, el sentido de la resolución correspondiente.
+ART. 73.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
-ART. 54.- Las sanciones administrativas se impondrán tomando en cuenta los siguientes elementos:
+ART. 74.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
-I.- La gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir prácticas que infrinjan, en cualquier forma, las Disposiciones de esta Ley y las que se dicten con base en ella.
+ART. 75.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
-II.- Las Circunstancias, socioeconómicas del Servidor Público.
+ART. 76.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
-III.- Nivel Jerárquico, los antecedentes y las condiciones del Infractor.
+ART. 77.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
-IV.- Las condiciones exteriores y los medios de ejecución.
+ART. 78.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
-V.- La antiguedad (sic) en el servicio.
-
-VI.- La reincidencia en el incumplimiento de obligaciones, y;
-
-VII.- El monto del beneficio, daño o perjuicio económico derivado del incumplimiento de obligaciones.
-
-ART. 55.- En caso de aplicación de sanciones económicas, por beneficios obtenidos y daños y perjuicios causados por incumplimiento de las obligaciones establecidas en el artículo 47, se aplicarán dos tantos del lucro obtenido y de los daños y perjuicios causados.
-
-Las sanciones económicas establecidas en este artículo se pagarán una vez determinadas en cantidad líquida, en su equivalencia en salarios mínimos vigentes al día de su pago, conforme al siguiente procedimiento:
-
-I.- La sanción económica impuesta se dividirá entre la cantidad líquida que corresponda y el salario mínimo mensual vigente en el Estado al día de su imposición; y
-
-II.- El cociente se multiplicará por el salario mínimo mensual vigente en el Estado al día de pago de la sanción.
-
-Para los efectos de esta Ley se entenderá por salario mínimo mensual el equivalente a treinta veces el salario mínimo diario vigente en el Estado.
-
-ART. 56.- Para la aplicación de las sanciones a que hace referencia el artículo 53 se observarán las siguientes reglas:
-
-I.- El apercibimiento, la amonestación y la suspensión del empleo, cargo o comisión por un período no menor de tres días ni mayor de tres meses serán aplicables por el superior jerárquico.
-
-II.- La destitución del empleo, cargo o comisión de los servidores públicos se demandará por el superior jerárquico de acuerdo con lo (sic) procedimientos consecuentes por la naturaleza de la relación y en los términos de las Leyes respectivas.
-
-III.- La suspensión del empleo, cargo o comisión durante al período al que se refiere la Fracción I y la destitución de los servidores públicos de confianza, se aplicarán por el superior jerárquico.
-
-IV.- La Contraloría promoverá los procedimientos a que se hacen referencia las fracciones II y III, demandando la destitución del servidor público responsable o procediendo a la suspensión de éste cuando el superior jerárquico no lo haga; en este caso, la Contraloría desahogará el procedimiento y exhibirá las constancias respectivas al Superior Jerárquico.
-
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 1993)</small>
-
-V.- La inhabilitación para desempeñar un empleo, cargo o comisión en el ejercicio público será aplicable por resolución que dicte la autoridad competente; y
-
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 1993)</small>
-
-VI.- Las sanciones económicas serán aplicables por el superior jerárquico cuando el monto del lucro obtenido o del daño o perjuicio causado, no exceda de cien veces el salario mínimo mensual vigente en el Estado; y por la Contraloría, cuando sean superiores a dicho monto.
-
-ART. 57.- Todo servidor público deberá denunciar por escrito a la Contraloría interna de su dependencia los hechos que, a su juicio, sean causa de responsabilidad administrativa imputables a servidores públicos sujetos a su dirección.
-
-La Contraloría Interna de la dependencia determinará si existe o no responsabilidad administrativa por el incumplimiento de las obligaciones de los servidores públicos y aplicará, por acuerdo del superior jerárquico, las sanciones disciplinarias correspondientes.
-
-El superior jerárquico enviará a la Contraloría copia de las denuncias cuando se trate de infracciones graves o cuando, en su concepto y habida cuenta de la naturaleza de los hechos denunciados, la Contraloría deba conocer el caso o participar en las investigaciones.
-
-ART. 58.- La Contraloría aplicará las sanciones correspondientes a los Contralores internos de las dependencias cuando estos incurran en actos u omisiones que impliquen responsabilidad administrativa.
-
-ART. 59.- Incurrirán en responsabilidad administrativa los servidores públicos de las Contralorías internas que se abstengan injustificadamente de sancionar a los infractores o que, al hacerlo no se ajusten a lo previsto por esta Ley, la Contraloría informará de ello al titular de la dependencia y aplicará las sanciones correspondientes.
-
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 1993)</small>
-
-ART. 60.- La Contraloría Interna si la hubiere, la Dirección o Departamento Jurídico en su caso, de cada Dependencia o Entidad, será competente para imponer, por acuerdo del superior jerárquico, sanciones disciplinarias, excepto las económicas cuyo monto sea superior a doscientas veces al salario mínimo mensual vigente en el Estado, las que están reservadas exclusivamente a la Contraloría, que comunicará los resultados del procedimiento al Titular de la Dependencia o entidad. En estos casos, la Contraloría Interna, Dirección o Departamento Jurídico en su caso, previo informe al superior jerárquico, turnará el asunto a la Contraloría.
-
-> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2002)</small>
-
-Tratándose de servidores públicos del Poder Judicial, las sanciones serán impuestas por el Pleno del Tribunal Superior de Justicia o por el del Consejo de la Judicatura y aplicadas por el superior jerárquico, según su competencia, acorde a lo establecido en la presente Ley y en la Orgánica del Poder Judicial.
-
-> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2002)</small>
-
-En el caso de los Ayuntamientos las sanciones administrativas a los servidores públicos distintas de los regidores, se aplicarán en los términos de la Ley Orgánica de los Municipios y en lo que resulte aplicable la presente ley. Tratándose de los regidores las sanciones a que se hagan acreedores concernientes a la destitución e inhabilitación, se aplicarán en términos de la Constitución del Estado y en lo conducente por las leyes secundarias citadas.
-
-ART. 61.- Si la Contraloría Interna de la Dependencia tuviera conocimiento de hechos que impliquen responsabilidad penal, dará vista de ellos a la Contraloría y a la autoridad competente para conocer del ilícito.
-
-ART. 62.- Si de las investigaciones y auditorías que realice la Contraloría apareciera la responsabilidad de los servidores públicos, informará a la Contraloría Interna de la dependencia correspondiente o al coordinador sectorial de las entidades, para que proceda a la investigación y sanción disciplinaria por dicha responsabilidad, si fuera de su competencia, si se trata de responsabilidades mayores cuyo conocimiento sólo compete a la Contraloría, esta se evocará directamente al asunto, informando de ello al Titular de la dependencia y a la Contraloría Interna de la misma para que participe o coadyuve en el procedimiento de determinación de responsabilidades.
-
-ART. 63.- La Dependencia y la Contraloría en los ámbitos de sus respectivas competencias, podrán abstenerse de sancionar al infractor, por una sola vez cuando lo estimen pertinente, justificando las causas de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por este no exceda de cien veces al salario mínimo diario vigente en el Estado.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MARZO DE 2002)</small>
-
-ART. 64.- Para la imposición de las sanciones administrativas a que se refiere este capítulo se estará al siguiente procedimiento:
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MARZO DE 2002)</small>
-
-I.- Se citará al presunto responsable a una audiencia haciéndole saber la responsabilidad o responsabilidades que se le imputen, el lugar, día, hora en que tendrá verificativo la misma y su derecho de ofrecer pruebas y alegar en la misma lo que a su derecho convenga, por sí o por medio de un defensor:
-
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2002)</small>
-
-También asistirá a la audiencia el representante de la Dependencia o Entidad, que para tal efecto se designe.
-
-Entre la fecha de la citación y de la audiencia deberá mediar un plazo no menor de cinco ni mayor de quince días hábiles.
-
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2002)</small>
-
-II.- Desahogadas las pruebas si las hubiere, la Contraloría, o el órgano competente del Poder o Municipio de que se trate, resolverá dentro de los treinta días hábiles siguientes, sobre la inexistencia de responsabilidad o imponiendo al infractor las sanciones administrativas correspondientes, y notificará la resolución al interesado dentro de los cinco días hábiles siguientes, a su jefe inmediato, al representante designado por la Dependencia o Entidad y al superior jerárquico;
-
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2002)</small>
-
-III.- Si en la audiencia, la Contraloría, o el órgano competente del Poder o Municipio de que se trate, considera que no cuenta con elementos suficientes para resolver o advierta elementos que impliquen nueva responsabilidad administrativa a cargo del presunto responsable o de otras personas, podrá disponer la práctica de investigaciones y citar para otra u otras audiencias; y
-
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2002)</small>
-
-IV.- En cualquier momento, previa o posteriormente al citatorio al que se refiere la fracción I del presente artículo, la Contraloría, o el órgano competente del Poder o Municipio de que se trate, podrá determinar la suspensión temporal de los presuntos responsables de sus cargos, empleos o comisiones, si a su juicio así conviene para la conducción o continuación de las investigaciones. La suspensión temporal no prejuzga sobre la responsabilidad que se impute. La determinación correspondiente hará constar expresamente esta salvedad.
-
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2002)</small>
-
-La suspensión temporal a que se refiere el párrafo anterior interrumpirá los efectos del acto que haya dado origen a la ocupación del empleo, cargo o comisión, y regirá desde el momento en que sea notificada al interesado o éste quede enterado de la resolución por cualquier medio. La suspensión cesará cuando así lo resuelva la Contraloría, o el órgano competente del Poder o Municipio de que se trate, independientemente de la iniciación, continuación o conclusión del procedimiento a que se refiere el presente artículo en relación con la presunta responsabilidad de los servidores públicos.
-
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2002)</small>
-
-Si los servidores suspendidos temporalmente no resultaren responsables de la falta que se les imputa, serán restituidos en el goce de sus derechos y se les cubrirán las percepciones que dejaron de recibir durante el tiempo en que fueron suspendidos.
-
-ART. 65.- En los procedimientos que se sigan para la investigación y aplicación de sanciones ante las contralorías internas de las dependencias se observarán, en todo cuanto sea aplicable, las reglas contenidas en el artículo anterior.
-
-ART. 66.- Se levantará acta circunstancia de todas las diligencias que se practiquen, que se suscribirán quienes intervengan en ellas, apercibidos de las sanciones en que incurran los que falten a la verdad.
-
-ART. 67.- El titular de la dependencia podrá designar un representante que participen en las diligencias. Se dará vista de todas las actuaciones a la dependencia en la que el presunto responsable preste sus servicios.
-
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2002)</small>
-
-ART. 68.- Las resoluciones y acuerdos que durante el procedimiento al que se refiere este capítulo emitan la Contraloría, los órganos internos de control de las dependencias y entidades, así como los órganos competentes del Poder o Municipio de que se trate, constarán por escrito, y se asentarán en el registro respectivo, que comprenderá las secciones correspondientes a los procedimientos disciplinarios y las sanciones impuestas, en ellas, en todo caso, las de inhabilitación.
-
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2002)</small>
-
-ART. 69.- La Contraloría, o el órgano competente del Poder o Municipio de que se trate expedirá constancias que acrediten la no existencia de registros de inhabilitación, que serán exhibidas para los efectos pertinentes, por las personas que sean requeridas para desempeñar un empleo, cargo o comisión en el servicio público.
-
-ART. 70.- Los sujetos sancionados podrán impugnar ante la Contraloría las resoluciones administrativas del superior jerárquico por los cuales se les impongan las sanciones previstas en el artículo 56, Fracción I, III y VI, primer párrafo de esta Ley.
-
-Las resoluciones anulatorias dictadas por la Contraloría tendrán el efecto de restituir al servidor público en el goce de los derechos de que hubiese sido privado por la ejecución de las sanciones anuladas, sin perjuicio de lo que establezcan otras Leyes.
-
-ART. 71.- Las resoluciones que dicte la Contraloría, en las que imponga las sanciones administrativas previstas en el Artículo 56, Fracción II, IV y VI, último párrafo, podrán ser impugnadas por el servidor ante la propia Contraloría mediante el recurso de revocación, que se interpondrá dentro de los 15 días siguientes a la fecha a la notificación de la resolución.
-
-La tramitación del recurso se sujetará a las normas siguientes:
-
-I.- Se iniciará mediante escrito en el que deberán expresarse los agravios que al juicio del Servidor Público le cause la resolución acompañando copia de ésta y constancias de la notificación de la misma, así como la proposición de las pruebas que considere necesario rendir;
-
-II.- La autoridad acordará sobre la admisibilidad del recurso y de las pruebas ofrecidas, desechando de plano las que no fuesen idóneas para desvirtuar los hechos en que se base la resolución.
-
-Las pruebas admitidas se desahogarán en un plazo de cinco días hábiles, que a solicitud del servidor público o de la autoridad, podrá ampliarse, una sola vez por cinco días más; y
-
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 1993)</small>
-
-III.- Desahogadas las pruebas si las hubiere, la autoridad emitirá resolución dentro de los treinta días hábiles siguientes, notificándolo al interesado en un plazo no mayor de setenta y dos horas.
-
-> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2002)</small>
-
-Las resoluciones que dicte el presidente de la Gran Comisión del Congreso del Estado, por las que se impongan las sanciones administrativas previstas en el artículo 53, fracciones I, II, III y IV de la presente Ley, podrán ser recurridas por los sujetos sancionados, ante la Gran Comisión del Congreso del Estado, mediante el recurso de revocación, el cual se sujetará, en lo conducente, a lo establecido en el presente artículo y en los subsecuentes hasta el 78 de esta Ley. Las resoluciones que dicte la Gran Comisión al resolver la revocación y al imponer sanciones serán irrecurribles administrativamente.
-
-ART. 72.- La interposición del recurso suspenderá la ejecución de la resolución recurrida, si lo solicita el promovente, conforme a estas reglas:
-
-I.- Tratándose de sanciones económicas, si el pago de éstas se garantiza en los términos que prevenga el Código Fiscal del Estado; y,
-
-II.- Tratándose de otras sanciones, se concederá la suspensión si concurren los siguientes requisitos:
-
-a) Que se admita el recurso;
-
-b) Que la ejecución de la resolución recurrida produzca daños y perjuicios de imposible reparación en contra del recurrente; y,
-
-c) Que la suspensión no traiga como consecuencia la consumación o continuación de actos u omisiones que impliquen perjuicios al interés social o al servicio público.
-
-ART. 73.- Contra la resolución de la Contraloría, en el recurso de revocación, no cabe ningún otro recurso.
-
-ART. 74.- Las resoluciones absolutorias pronunciadas por el Superior jerárquico podrán ser revisadas oficiosamente por la Contraloría, en los casos que lo juzgue necesario.
-
-ART. 75.- La Ejecución de las sanciones administrativas impuestas en resolución firme se llevará a cabo de inmediato en los términos que disponga la resolución. La suspensión destitución o inhabilitación que se imponga a los servidores públicos de confianza, surtirán efectos al notificarse la resolución y se considerarán del orden público.
-
-Tratándose de los servidores públicos de base, la suspensión y la destitución se sujetarán a lo previsto en la Ley correspondiente.
-
-Las sanciones económicas que se impongan constituirán créditos fiscales a favor del erario estatal, que se harán efectivas mediante el procedimiento económico coactivo de ejecución, tendrán la prelación prevista para dichos créditos y se sujetarán en todo a las disposiciones fiscales aplicables a esta materia.
-
-ART. 76.- Si el servidor público presunto responsable confesare su responsabilidad por el incumplimiento de las obligaciones a que hace referencia la presente Ley, se procederá de inmediato a dictar resolución, a no ser que quien conoce del procedimiento disponga la recepción de pruebas para acreditar la veracidad de la confesión. En caso de que se acepte la plena validez probatoria de la confesión se impondrá al interesado dos tercios de la sanción aplicable, si es de naturaleza económica, pero en lo que respecta a indemnización, ésta en todo caso deberá ser suficiente para cubrir los daños y perjuicios causados y siempre deberá restituirse cualquier bien o producto que se hubiese percibido por motivo de la infracción. Quedará a juicio de quien resuelve disponer o no la suspensión, separación o inhabilitación.
-
-ART. 77.- Para el cumplimiento de las atribuciones que le confiere esta Ley, la Contraloría podrá emplear los siguientes medios de apremio:
-
-I.- Sanción económica de hasta veinte veces el salario mínimo diario vigente en el Estado.
-
-II.- Auxilio de la fuerza pública.
-
-Si existe resistencia al mandamiento de legítima autoridad, se estará a lo que prevengan (sic) la legislación penal.
-
-ART. 78.- Las facultades del Superior Jerárquico y de la Contraloría para imponer las sanciones que esta Ley prevé se sujetarán a lo siguiente:
-
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 1993)</small>
-
-I.- Prescribirán en un año, si el beneficio obtenido o el daño causado por el infractor no excede de diez veces al salario mínimo vigente en el Estado, o si la responsabilidad no fuese estimable en dinero;
-
-II.- En los demás casos prescribirán en tres años.
-
-> <small>(ADICIONADO, P.O. 8 DE MAYO DE 1993)</small>
-
-El plazo de prescripción se contará a partir del día siguiente en que se hubiese incurrido en la responsabilidad o a partir del momento en que hubiese cesado, si fuere de carácter continuo.
-
-> <small>(ADICIONADO, P.O. 8 DE MAYO DE 1993)</small>
-
-En todos los casos, la prescripción a la que alude este precepto, se interrumpirá al iniciarse el procedimiento administrativo previsto por el Artículo 64 de esta Ley.
+> <small>(DEROGADO CON EL CAPÍTULO QUE LO INTEGRA, P.O. 15 DE JULIO DE 2017)</small>
 
 ## TITULO CUARTO
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 2017)</small>
+
 ### CAPITULO UNICO. REGISTRO PATRIMONIAL DE LOS SERVIDORES PUBLICOS
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2002)</small>
+ART. 79.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
-ART. 79.- La Contraloría, llevará el registro de la situación patrimonial de los servidores públicos del Poder Ejecutivo, de conformidad con esta Ley y demás disposiciones aplicables.
+ART. 80.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
-Los servidores públicos de los Poderes Legislativo o Judicial del Estado, se regirán por las disposiciones de sus Leyes Orgánicas y, de la presente ley, en lo que resulte aplicable.
+ART. 81.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
-Tratándose de los Municipios, los servidores públicos obligados a ello, incluidos aquéllos que sus nombramientos emanen de elección popular, deberán presentar sus declaraciones de situación patrimonial, ante la Contraloría Interna del Municipio de que se trate, conforme a la Ley Orgánica de los Municipios, a los lineamientos que al efecto emitan o, en su defecto, a lo establecido en la presente ley.
+ART. 82.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MARZO DE 2002)</small>
+ART. 83.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
-ART. 80.- Tienen la obligación de presentar declaración inicial, anual de modificación y conclusión de situación patrimonial, ante los órganos competentes de los Poderes del Estado y de los Municipios, bajo protesta de decir verdad:
+ART. 84.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
-I.- (DEROGADA, P.O. 8 DE MAYO DE 1993);
+ART. 85.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 1993)</small>
+ART. 86.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
-II.- En el Poder Ejecutivo, todos los funcionarios, desde el nivel de Jefes de Departamento hasta el de Gobernador del Estado, además de los previstos en las Fracciones IV y VI;
+ART. 87.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 1993)</small>
+ART. 88.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
-III.- En la Administración Pública Paraestatal: Directores Generales, Gerentes Generales, Subdirectores Generales, Subgerentes Generales, Directores, Gerentes, Subdirectores y Servidores Públicos, equivalente de los órganos descentralizados, empresas de participación mayoritaria, sociedades, asociaciones asimiladas y fideicomisos públicos;
+ART. 89.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 1993)</small>
-
-IV.- En la Procuraduría General de Justicia: Todos los servidores desde el nivel mencionado en la Fracción II hasta el Procurador General de Justicia, incluyendo a Agentes del Ministerio Público y Agentes de la Policía Judicial;
-
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2002)</small>
-
-V.- En el Poder Judicial del Estado, los servidores públicos señalados en su ley orgánica, así como, los Visitadores, Subdirectores, Coordinadores, Secretarios Particulares y los que determinen los superiores jerárquicos respectivos;
-
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 1993)</small>
-
-VI.- En la Contraloría General: todos los servidores públicos de confianza;
-
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 1993)</small>
-
-VII.- En los Ayuntamientos o Concejos Municipales: todos los servidores desde el nivel de Jefes de Oficina o Departamentos hasta Regidores, Síndicos de Hacienda y Presidentes Municipales, o en su caso, Concejeros Municipales.
-
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2002)</small>
-
-Asimismo, deberán presentar las declaraciones de que se trata en este precepto, los demás servidores públicos que determinen el Titular de la Contraloría General y el Procurador General de Justicia, o los órganos competentes de los Poderes Legislativos, Judicial y los Cabildos o Concejos Municipales correspondientes, mediante disposiciones debidamente motivadas y fundadas, las que se darán a conocer mediante publicación en el Periódico Oficial del Estado.
-
-ART. 81.- La declaración de situación patrimonial deberá presentar en los siguientes plazos:
-
-I.- Dentro de los sesenta días naturales siguientes a la toma de posesión;
-
-II.- Dentro de los treinta días naturales siguientes a la conclusión del encargo, y
-
-III.- Durante el mes de mayo de cada año deberá presentarse la declaración de situación patrimonial, acompañada de una copia de la declaración anual presentada por personas físicas para los efectos de la Ley del impuesto sobre la renta salvo que en ese mismo año se hubiese presentado la declaración a que se refiere la Fracción I.
-
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2002)</small>
-
-Si transcurrido el plazo a que se hace referencia en la fracción I, no se hubiese presentado la declaración correspondiente, sin causa justificada, quedará sin efecto el nombramiento respectivo previa declaración de la Contraloría, o del órgano competente del Poder o Municipio de que se trate. Lo mismo ocurrirá cuando se omita la declaración contemplada en la fracción III. Se exceptúan de esas hipótesis, los servidores públicos que hayan obtenido su cargo por elección popular, y los Magistrados de Número del Tribunal Superior de Justicia; en los que se estará a lo establecido por la Constitución Política del Estado Libre y Soberano de Tabasco y a lo que sobre el particular establezcan las leyes secundarias aplicables.
-
-> <small>(ADICIONADO, P.O. 8 DE MAYO DE 1993)</small>
-
-Para el caso de omisión sin causa justificada, en la presentación de la declaración a que alude la Fracción II, se inhabilitará al infractor por un año.
-
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2002)</small>
-
-ART. 82.- La contraloría, o el órgano competente del Poder o Municipio de que se trate, expedirá las normas y los formatos bajo los cuales el servidor público deberá presentar la declaración de situación patrimonial, así como los manuales e instructivos que indicarán lo que es obligatorio declarar.
-
-ART. 83.- En la declaración inicial y final de situación patrimonial se manifestarán los bienes inmuebles, con la fecha y valor de adquisición.
-
-En las declaraciones anuales se manifestarán solo las modificaciones al patrimonio, con fecha y valor de adquisición. En todo caso se indicará el medio por el que se hizo la adquisición.
-
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2002)</small>
-
-Tratándose de bienes muebles, la Contraloría, o el órgano competente del Poder o Municipio de que se trate, decidirá mediante acuerdo general, las características que deba tener la declaración.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MARZO DE 2002)</small>
-
-ART. 84.- Cuando los signos exteriores de riquezas sean ostensibles y notoriamente superiores a los ingresos lícitos que pudiera tener un servidor público, la Contraloría o el órgano competente del Poder o Municipio de que se trate, podrá ordenar, fundando y motivando su acuerdo, la práctica de visitas de inspección y auditorías. Cuando estos actos requieran orden de autoridad judicial, se hará ante ésta la solicitud correspondiente.
-
-Previamente a la inspección o al inicio de la auditoría, se dará cuenta al servidor público de los hechos que motivan estas actuaciones y se le presentarán las actas en que aquellos consten, para que expongan lo que en derecho le convenga.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MARZO DE 2002)</small>
-
-ART. 85.- El servidor público a quien se practique visita de investigación o auditoría podrá interponer inconformidad ante la Contraloría, o el órgano competente del Poder o Municipio de que se trate, contra los hechos contenidos en las actas, mediante escrito que deberá presentar dentro de los cinco días siguientes a la conclusión de aquéllas, en el que expresará los motivos de inconformidad y ofrecerá las pruebas que considere necesario acompañar o rendir dentro de los treinta días siguientes a la presentación del recurso.
-
-Todas las actas que se levanten con motivo de la visita deberán ir firmadas por el servidor público y los testigos que para tal efecto designe. Si el servidor público o los testigos se negaren a firmar, el visitador lo hará constar, sin que estas circunstancias afecten el valor probatorio que, en su caso posea el documento.
-
-ART. 86.- Serán sancionados en los términos que disponga el Código Penal los servidores públicos que incurran en enriquecimiento ilícito.
-
-ART. 87.- Para los efectos de esta Ley y del Código Penal, se computarán entre los bienes que adquieran los servidores públicos o con respecto de los cuales se conduzcan como dueños, los que reciban o de los que dispongan su cónyuge y sus dependientes económicos directos, salvo que se acredite que estos los obtuvieron por sí mismos y por motivos ajenos al servicio público.
-
-ART. 88.- Durante el desempeño de su empleo, cargo o comisión y un año después, los servidores públicos no podrán solicitar aceptar o recibir por sí o por interpósita persona, dinero o cualquier otra donación, servicio, empleo, cargo o Comisión para sí, o para las personas a que se refiere la Fracción XIII del Artículo 47 y que procedan de cualquier persona cuyas actividades profesionales, comerciales o industriales se encuentren directamente vinculadas, reguladas o supervisadas por el servidor público en el desempeño de su empleo, cargo o comisión que determinen conflicto de intereses.
-
-Para los efectos del párrafo anterior, no se considerarán los que reciba el servidor público un (sic) una o más ocasiones, de una misma persona física o moral de las mencionadas en el párrafo precedente durante un año, cuando el valor acumulado durante ese año no sea superior a 10 veces el salario mínimo diario vigente en el Estado en el momento de su recepción.
-
-En ningún caso se podrán recibir de dichas personas títulos, valor, bienes inmuebles o sesiones de derechos sobre juicios o controversias en las que se dirima la titularidad de los derechos de posesión o de propiedad sobre bienes de cualquier clase.
-
-Se castigarán como cohecho las conductas de los servidores públicos que violen lo dispuesto en este artículo y serán sancionadas en términos de la Legislación Penal.
-
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2002)</small>
-
-ART. 89.- Cuando los servidores públicos reciban obsequios, donativos o beneficios en general de los que se menciona en el artículo anterior y cuyo monto sea superior al que en el se establece o sean de los estrictamente prohibidos, deberán informar de ello a la autoridad que la Contraloría, o el órgano competente del Poder o Municipio de que se trate determine a fin de ponerlos a su disposición. La autoridad correspondiente llevará un registro de dichos bienes.
-
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2002)</small>
-
-ART. 90.- La Contraloría, o el órgano competente del Poder o Municipio de que se trate, hará al Ministerio Público, en su caso, declaratoria de que el funcionario o servidor público sujeto a la investigación respectiva, en los términos de la presente Ley, no justificó la procedencia lícita del incremento sustancial de su patrimonio, de los bienes adquiridos o de aquellos sobre los que se conduzca como dueño, durante el tiempo de su encargo o por motivos del mismo. Lo mismo harán los titulares de las dependencias respectivas del Poder Judicial, del Poder Legislativo y de los Municipios, cuando en el ejercicio de sus atribuciones tengan conocimiento de situaciones similares.
-
-El Congreso del Estado, a través de su órgano técnico, previo acuerdo de la comisión competente para ello, podrá requerir a los órganos de control respectivos, de los Poderes Ejecutivo y Judicial, así como, de los distintos Ayuntamientos del Estado, la información relacionada con la situación patrimonial de los servidores públicos que considere necesaria, para el ejercicio de sus atribuciones legales.
-
-Los órganos de control de los Ayuntamientos locales, en el ejercicio de sus atribuciones y cumplimiento de sus obligaciones, sin perjuicio de lo que disponga el Cabildo, deberán informar al Congreso del Estado, cuando uno o varios regidores no presenten, dentro de los plazos establecidos en la presente ley, las distintas declaraciones de situación patrimonial a que se encuentran obligados.
+ART. 90.- (DEROGADO, P.O. 15 DE JULIO DE 2017)
 
 ## TRANSITORIOS
 
@@ -745,7 +401,7 @@ LIC. JOSE EDUARDO BELTRAN HERNANDEZ.
 
 SECRETARIO DE GOBIERNO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 8 DE MAYO DE 1993.
 
@@ -762,3 +418,15 @@ TERCERO. Cuando en esta ley o en alguna diversa legislación se cite al órgano 
 CUARTO.- La Secretaría de Contraloría y Desarrollo Administrativo del Poder Ejecutivo, habrá de enviar a los respectivos Ayuntamientos en un término no mayor de cuarenta y cinco días hábiles, la documentación de la situación patrimonial de todos aquellos servidores públicos de su ámbito de control.
 
 QUINTO. En lo que respecta a las declaraciones de situación patrimonial del año 2002, que deberán presentar los regidores y demás servidores públicos de los Ayuntamientos, por esta ocasión podrán coordinarse con el Poder Ejecutivo, a través de la Secretaría de la Contraloría para la capacitación, y en su caso, elaboración de los formatos correspondientes. O en su defecto, podrán convenir sin necesidad de autorización del Congreso, la utilización de aquellos expedidos por la mencionada Secretaría, hasta en tanto elaboran los propios.
+
+P.O. 15 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 109 POR EL QUE "SE REFORMAN: LA DENOMINACIÓN Y LOS ARTÍCULOS 1, 2, 3 Y 4; SE DEROGAN, EL TÍTULO TERCERO, CAPÍTULOS I Y II, INTEGRADOS POR LOS ARTÍCULOS 46 AL 78; Y EL TÍTULO CUARTO, CAPÍTULO ÚNICO, INTEGRADO POR LOS ARTÍCULOS DEL 79 AL 90, TODOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS QUE REGLAMENTA EL TÍTULO SÉPTIMO DE LA LEY FUNDAMENTAL DEL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco, sin perjuicio de lo previsto en los transitorios siguientes.
+
+SEGUNDO. Conforme a lo establecido en el Decreto por el que se expiden la Ley General del Sistema Nacional Anticorrupción; la Ley General de Responsabilidades Administrativas, y la Ley Orgánica del Tribunal Federal de Justicia Administrativa, publicado el 18 de julio de 2016 en el Diario Oficial de la Federación y a lo dispuesto en el presente Decreto, los procedimientos de responsabilidades administrativas iniciados por autoridades del Estado de Tabasco y sus municipios con anterioridad a la entrada en vigor de la Ley General de Responsabilidades Administrativas, serán concluidos conforme a las disposiciones aplicables en la materia vigentes al momento de su inicio.
+
+A la fecha de entrada en vigor de la Ley General de Responsabilidades Administrativas, todas las menciones a la Ley de Responsabilidades de los Servidores Públicos realizadas en las leyes del Estado de Tabasco, así como en cualquier otra disposición jurídica, se entenderán referidas a la citada Ley General de Responsabilidades Administrativas, siempre y cuando tales menciones se refieran a procedimientos de responsabilidades administrativas.
+
+TERCERO. En un plazo no mayor a 45 días posteriores a la publicación del presente Decreto, el Congreso del Estado realizará las modificaciones necesarias a las leyes orgánicas y secundarias que resulten procedentes, derivado de la nueva ley que se emite mediante el presente Decreto.
