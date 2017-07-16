@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-transporte-del-estado-de-morelos-100008"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-26"
-last_updated: "2017-03-01"
+last_updated: "2017-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE TRANSPORTE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 26 de marzo de 2014.
 
@@ -163,13 +163,17 @@ Los propietarios y conductores de vehículos particulares, no podrán prestar se
 
 Son autoridades en materia de transporte:
 
-I. Del Titular del Poder Ejecutivo: El Gobernador Constitucional del Estado de Morelos;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
+
+I. Del Titular del Poder Ejecutivo: El Gobernador Constitucional del Estado de Morelos, por sí o a través de su Secretaría de Hacienda;
 
 II. De la Secretaría de Movilidad y Transporte del Poder Ejecutivo Estatal: El Secretario;
 
 III. De la Subsecretaría de Movilidad y Transporte: El Subsecretario de Movilidad y Transporte del Estado de Morelos;
 
-IV. De la Dirección General de Transporte Público, Privado y Particular: El Director General de Transporte, y
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
+
+IV. De la Dirección General de Transporte Público y Privado: El Director General de Transporte, y
 
 V. De la Dirección General Jurídica: El Director General Jurídico de la Secretaría de Movilidad y Transporte.
 
@@ -245,7 +249,9 @@ XVII. Diseñar y establecer en su caso, las políticas y criterios para el estab
 
 XVIII. Proponer las cuotas, tasas y tarifas fiscales aplicables en materia de derechos por los servicios que proporcione la Secretaría en el ejercicio de sus atribuciones, así como los aprovechamientos respectivos;
 
-XIX. Suscribir y expedir tarjetas de circulación de transporte público, privado y particular, tarjetón del servicio público, así como los gafetes de los operadores debidamente acreditados del Servicio de Transporte Público y demás documentos de circulación;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
+
+XIX. Suscribir y expedir tarjetas de circulación de transporte público y privado, tarjetón del servicio público, así como los gafetes de los operadores debidamente acreditados del Servicio de Transporte Público y demás documentos de circulación;
 
 XX. Regular, inspeccionar y vigilar el Servicio de Transporte Público y Privado en sus diversas modalidades, sus servicios conexos y a los prestadores del mismo a efecto de garantizar que el servicio público se preste en los términos y condiciones autorizados legalmente;
 
@@ -267,7 +273,9 @@ XXVIII. Registrar, expedir y resguardar el Padrón de Operadores del Transporte 
 
 XXIX. Expedir, suspender y cancelar licencias y permisos de conducir, tanto de uso de transporte público, privado y particular. En el caso de las licencias y permisos de conducir de uso particular, la suspensión y cancelación será en cumplimiento de mandato o resolución de autoridad competente;
 
-XXX. Registrar los vehículos de Servicio de Transporte Público, Privado y Particular, expedir las placas metálicas, tarjetas de circulación, calcomanías y demás documentos que correspondan;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
+
+XXX. Registrar los vehículos de servicio de transporte público y privado, y expedir las placas metálicas, tarjetas de circulación, calcomanías y demás documentos que correspondan;
 
 XXXI. Declarar, previo procedimiento la revocación, cancelación y caducidad, de las concesiones del Servicio de Transporte Público, así como autorizar el cambio de modalidad del Servicio de Transporte Público en los términos de la normatividad aplicable, cuando se justifique la necesidad e interés colectivo;
 
@@ -313,9 +321,11 @@ XIII. Registrar a las sociedades mercantiles para la prestación de los Servicio
 
 XIV. Las demás que delegue el Secretario, así como las establecidas en disposiciones legales y administrativas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2017)</small>
+
 ###### Artículo 16.
 
-Son atribuciones del Director General de Transporte Público, Privado y Particular.
+Son atribuciones del Director General de Transporte Público y Privado:
 
 I. Cumplir y hacer cumplir la Legislación aplicable en la materia y los acuerdos que dicten el Gobernador Constitucional del Estado de Morelos y el Secretario de Movilidad y Transporte;
 
@@ -345,7 +355,9 @@ XIII. Custodiar y controlar los archivos que se integren con la documentación s
 
 XIV. Brindar información, orientación y asesoría a los usuarios, en relación con el Servicio de Transporte Público en el Estado, así como sobre sus derechos y obligaciones;
 
-XV. Registrar los vehículos de Servicio de Transporte Público, Privado y Particular, expedir las placas metálicas, tarjetas de circulación, calcomanías, autorizaciones y permisos de Servicio de Transporte Público, Privado y Particular;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
+
+XV. Registrar los vehículos de Servicio de Transporte Público y Privado, expedir las placas metálicas, tarjetas de circulación, calcomanías, autorizaciones y permisos de Servicio de Transporte Público y Privado;
 
 XVI. Proponer al superior jerárquico, las políticas y normas en materia de transporte y movilidad, de conformidad con los ordenamientos legales aplicables;
 
@@ -355,15 +367,23 @@ XVIII. Realizar los estudios y proponer al superior jerárquico, las políticas 
 
 XIX. Registrar los cambios de domicilio de los propietarios de los vehículos automotores y las modificaciones que se realicen en dichos vehículos;
 
-XX. Expedir, licencias y permisos de conducir, tanto de uso particular como para la prestación del Servicio de Transporte Público y Privado;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
 
-XXI. Controlar y resguardar las placas metálicas, tarjetas de circulación, calcomanías, autorizaciones, permisos y licencias de conducir, tanto de uso particular como para el Servicio de Transporte Público y Privado;
+XX. Expedir, licencias y permisos de conducir para la prestación del Servicio de Transporte Público y Privado;
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
+
+XXI. Controlar y resguardar las placas metálicas, tarjetas de circulación, calcomanías, autorizaciones, permisos y licencias de conducir para el Servicio de Transporte Público y Privado;
 
 XXII. Autorizar las conversiones o adaptaciones para vehículos de transporte particular de carga;
 
-XXIII. Buscar y expedir copias o certificaciones relacionadas con el padrón vehicular y licencias de conducir;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
 
-XXIV. Recibir placas metálicas y tarjetas de circulación de los vehículos para efectos de reposición;
+XXIII. Buscar y expedir copias o certificaciones relacionadas con el padrón vehicular y licencias de conducir del Servicio de Transporte Público y Privado;
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
+
+XXIV. Recibir placas metálicas y tarjetas de circulación de los vehículos para efectos de reposición, para el Servicio de Transporte Público y Privado;
 
 XXV. Expedir y autorizar permisos particulares;
 
@@ -553,7 +573,9 @@ V. El Secretario de Economía;
 
 VI. El Procurador General de Justicia;
 
-VII. El Director General de Transporte Público, Privado y Particular;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
+
+VII. El Director General de Transporte Público y Privado;
 
 VIII. El Director General de Protección Civil;
 
@@ -2146,3 +2168,25 @@ Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
 
 Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 16 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL CIENTO NOVENTA Y NUEVE.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS Y DE LA LEY DE TRANSPORTE DEL ESTADO DE MORELOS, EN MATERIA DE CONTROL VEHÍCULAR".]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo en lo que se opongan al presente Decreto.
+
+CUARTA. La Secretaría de Movilidad y Transporte deberá realizar, sin demora, los trámites administrativos necesarios para transferir a la diversa Secretaría de Hacienda los recursos presupuestales, materiales y financieros que corresponda, conforme a las comunicaciones que al efecto le realice la misma, en coordinación con la Secretaría de Administración, lo anterior para el adecuado desempeño de las atribuciones que le son transferidas con motivo del presente Decreto. En los ordenamientos jurídicos y administrativos en que se hiciera referencia a la Dirección General de Transporte Público, Privado y Particular, se entenderá que dicha referencia se hará a la General de Transporte Público y Privado.
+
+QUINTA. El personal de una Secretaría que en la aplicación de este Decreto pase a formar parte de otra, en ninguna forma será afectado en los derechos que, en su caso, haya adquirido en su relación laboral con la Administración Pública Estatal.
+
+SEXTA. Dentro del plazo de 90 días hábiles las Secretarías de Hacienda, y de Movilidad y Transporte, respectivamente, deberán realizar los trámites correspondientes para la cancelación de plazas que sea procedente, conforme a la normativa aplicable.
+
+SÉPTIMA. Dentro de un plazo de 120 días hábiles, contados a partir de la entrada en vigor del presente Decreto se deberán realizar las reformas reglamentarias respectivas; mientras ello sucede se mantendrán vigentes los actuales.
+
+OCTAVA. Los conflictos que se susciten por la aplicación e interpretación del presente Decreto, serán resueltos por la persona Titular del Poder Ejecutivo Estatal, en términos de la normativa aplicable.
+
+NOVENA. Los asuntos que con motivo de este Decreto deban pasar a otra Secretaría, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramiten se incorporen a la Secretaría que señale este Decreto, a excepción de los trámites urgentes o sujetos a plazos improrrogables, que serán resueltos por el área que tenga el asunto a su cargo. También serán transferidos los archivos y expedientes respectivos.
