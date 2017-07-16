@@ -4,7 +4,7 @@ identifier: "MOR-ley-sobre-adquisiciones-enajenaciones-arrendamientos-y-65008"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-17"
-last_updated: "2017-03-08"
+last_updated: "2017-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY SOBRE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY SOBRE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 17 de diciembre de 2008.
 
@@ -63,19 +65,13 @@ En todos los casos en que esta Ley haga referencia a las adquisiciones, enajenac
 
 Para los efectos de la presente Ley, se entenderá por:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
-l. PODER EJECUTIVO: El Gobernador Constitucional del Estado y las secretarías, dependencias y entidades contempladas dentro del artículo 2 de la Ley Orgánica de la Administración Pública del Estado de Morelos;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+I. PODER EJECUTIVO: El Gobernador Constitucional del Estado y las secretarías, dependencias y entidades contempladas dentro del artículo 2 de la Ley Orgánica de la Administración Pública del Estado de Morelos;
 
 > <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
 II. OFICIALÍA: La unidad o dependencia, encargada en lo general de la administración dentro del poder ejecutivo o en su caso la que en específico tenga estas atribuciones por acuerdo del Gobernador del Estado;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
@@ -113,11 +109,23 @@ XVIII. PEDIDO O CONTRATO: Acto jurídico a través del cual se formalizan las ad
 
 XIX. CONTRATO ABIERTO: Contrato en el que se establecerá la cantidad mínima y máxima de bienes por adquirir o arrendar o bien al presupuesto mínimo y máximo que podrá ejercerse en la adquisición o el arrendamiento.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2017)</small>
+
 ###### Artículo 4.
 
-No están sujetos al ámbito de aplicación de esta Ley, los actos, convenios o contratos que celebre el Poder Ejecutivo del Estado de Morelos entre sí, con la Federación, con alguna otra entidad federativa o persona moral de derecho público, incluyendo al Distrito Federal, excepto si la Dependencia, Entidad o persona moral de derecho público obligada a entregar el bien o prestar el servicio, contrate un tercero para su realización.
+No están sujetos a las disposiciones de esta Ley:
 
-El Poder Ejecutivo del Estado de Morelos se abstendrá de crear fideicomisos, otorgar mandatos o celebrar cualquier tipo de actos, cuya finalidad sea evadir el cumplimiento de esta Ley o delegar las funciones establecidas a su cargo en la misma.
+I. Los actos, convenios o contratos que celebre el Poder Ejecutivo del Estado de Morelos entre sí, con la Federación, con alguna otra entidad federativa o persona moral de derecho público, incluyendo a la Ciudad de México, excepto si la Dependencia, Entidad o persona moral de derecho público obligada a entregar el bien o prestar el servicio, contrate un tercero para su realización.
+
+El Poder Ejecutivo del Estado de Morelos se abstendrá de crear fideicomisos, otorgar mandatos o celebrar cualquier tipo de actos, cuya finalidad sea evadir el cumplimiento de esta Ley o delegar las funciones establecidas a su cargo en la misma;
+
+II. La contratación de los servicios bancarios, cuya prestación se encuentre reservada a las instituciones de crédito, en términos de las disposiciones legales que regulan la prestación de los servicios bancarios, sin perjuicio de lo previsto por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
+
+III. Los servicios de radio y difusión por medios de comunicación; en cuyo caso bastará la intervención y autorización necesaria de los titulares de las Secretarías, Dependencias o Entidades encargadas de estos temas, y
+
+IV. La contratación de servicios artísticos y los que en materia de cultura realicen la Secretarías de Cultura del Poder Ejecutivo Estatal, así como las Entidades a ella sectorizadas.
+
+En general no quedan comprendidas por la Ley las adquisiciones, arrendamientos y servicios de aquellas operaciones que no impliquen erogación de recursos públicos presupuestales.
 
 ###### Artículo 5.
 
@@ -190,6 +198,10 @@ Las disposiciones administrativas que se dicten promoverán la participación de
 ###### Artículo 14.
 
 El Poder Ejecutivo, previamente al arrendamiento de bienes muebles, deberá realizar los estudios de factibilidad que estime necesarios, considerando la posibilidad de su adquisición mediante arrendamiento con opción a compra.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2017)</small>
+
+Para determinar la conveniencia de la adquisición de bienes muebles usados o reconstruidos, las Dependencias y Entidades deberán realizar un estudio de costo beneficio, con el que se demuestre la conveniencia de su adquisición comparativamente con bienes nuevos. El citado estudio deberá efectuarse mediante avalúo, conforme a la normativa aplicable, expedido dentro de los seis meses previos, cuando el bien tenga un valor superior a cien mil veces la Unidad de Medida y Actualización, el cual deberá integrarse al expediente de la contratación respectiva.
 
 ###### Artículo 15.
 
@@ -283,8 +295,6 @@ II. Que no se cuente dentro del inventario con un bien que cumpla con las condic
 
 ### CAPÍTULO II. DEL COMITÉ PARA EL CONTROL DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y SERVICIOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 27.
@@ -315,13 +325,9 @@ La organización y funcionamiento del Comité estará previsto en el Reglamento 
 
 El Comité tendrá las siguientes facultades:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
 I. Coadyuvar al exacto cumplimiento de las normas que regulan los diversos actos previstos en la presente Ley;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
@@ -337,8 +343,6 @@ VI. Dictaminar previamente al inicio del procedimiento, sobre la procedencia de 
 
 VII. Establecer y aprobar las bases de licitación que normarán los concursos para las adquisiciones, arrendamientos y prestación de servicios, así como en las subastas, que le sean presentadas;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
 VIII. Determinar los casos en que es procedente la enajenación de bienes muebles propiedad del estado y todo lo relacionado con el procedimiento de enajenación de los mismos;
@@ -347,13 +351,9 @@ IX. Emitir opinión y dictar resolución, respecto de la adjudicación definitiv
 
 X. Fungir como órgano de consulta respecto a la contratación de arrendamientos de servicios relacionados con bienes muebles respecto a la instalación, reparación y mantenimiento, así como tecnología cuando se vincule con la adquisición o uso de dichos bienes;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
 XI. Autorizar, cuando se justifique, la creación de Subcomités de Adquisiciones, Arrendamientos y Servicios, así como sus reglas de integración y funciones específicas, que sólo se integrarán en su carácter de instrumentadores y apoyo técnico;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
@@ -671,29 +671,49 @@ Con sujeción a las formalidades que prevé esta Ley, el Poder Ejecutivo, bajo s
 
 En este caso deberá fundarse y motivarse según las circunstancias que concurran en cada caso, bajo criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado. El razonamiento de los criterios mencionados y la motivación para el ejercicio de la opción deberá constar por escrito y ser firmado por el titular del área, usuario o solicitante de los bienes o servicios, debiendo acompañar toda la documentación necesaria para comprobar de tal situación.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2017)</small>
+
 ###### Artículo 51.
 
 Excepcionalmente y por acuerdo expreso del Comité podrán realizarse adquisiciones y contratar arrendamientos y servicios, adjudicándoles directamente, sin llevar a cabo licitaciones públicas, ni la realización del procedimiento de invitación a cuando menos tres personas, en los casos específicos que se detallan:
 
-I. Cuando se trate de obras de arte o sea necesario adquirir un bien con características o marca específica que solo una persona pueda proporcionar, por poseer la titularidad de patentes, derechos de propiedad intelectual u otros derechos exclusivos;
+I. Cuando no existan bienes o servicios alternativos o sustitutos técnicamente razonables, o bien, que en el mercado sólo exista un posible oferente, o se trate de una persona que posee la titularidad o el licenciamiento exclusivo de patentes y otros derechos exclusivos, así como aquellos sujetos a precios oficiales;
 
 II. Derivado de caso fortuito, fuerza mayor o circunstancias imprescindibles o extraordinarias de las que resulte imposible obtener bienes o servicios mediante el procedimiento de licitación pública dentro del tiempo requerido para atender la eventualidad de que se trate; o aquellas que de no efectuarse, pongan en peligro las operaciones de un programa prioritario o puedan acarrear consecuencias graves para su normal desarrollo; en este caso, las cantidades o conceptos deberán limitarse a lo estrictamente necesario para afrontarla;
 
-III. Cuando peligre o se altere el orden social, los servicios públicos, la salubridad, la seguridad o el ambiente de alguna zona o región del estado como consecuencia de desastres producidos por fenómenos naturales;
-
-En los casos de declaratoria de emergencia decretada por la autoridad competente y siempre que la adquisición verse sobre tal hecho, no se requerirá la aprobación por parte del Comité;
+III. Cuando peligre o se altere el orden social, los servicios públicos, la salubridad, la seguridad o el ambiente de alguna zona o región del estado como consecuencia de desastres producidos por fenómenos naturales o por fuerza mayor. En los casos de declaratoria de emergencia decretada por la autoridad competente y siempre que la adquisición verse sobre tal hecho, no se requerirá la aprobación por parte del Comité;
 
 IV. Cuando se realicen dos licitaciones públicas que se hayan declarado desiertas, siempre que no se modifiquen los requisitos esenciales señalados en las bases de licitación;
 
-V. Cuando la persona Titular del Poder Ejecutivo Estatal autorice directamente el fincamiento de Pedidos o la contratación de adquisiciones, arrendamientos y servicios con fines de equipamiento de instituciones de seguridad pública, o sean necesarios para salvaguardar y garantizar la seguridad interior del Estado;
+V. Cuando la persona Titular del Poder Ejecutivo Estatal autorice directamente el fincamiento de pedidos o la contratación de adquisiciones, arrendamientos y servicios con fines de equipamiento de instituciones de seguridad pública, o sean necesarios para salvaguardar y garantizar la seguridad interior del Estado;
 
-VI. Cuando se trate de la adquisición de bienes muebles a través de los Convenios Marco, de acuerdo con los catálogos previamente aprobados por el Comité; y
+VI. Cuando se trate de la adquisición de bienes muebles a través de los Convenios Marco, de acuerdo con los catálogos previamente aprobados por el Comité;
 
-VII. Adquisiciones provenientes de personas físicas o morales que sin ser Proveedores habituales y en razón de encontrarse en estado de liquidación o disolución o bien bajo intervención judicial ofrezca bienes en condiciones favorables.
+VII. Cuando sean adquisiciones provenientes de personas físicas o morales que sin ser proveedores habituales y en razón de encontrarse en estado de liquidación o disolución o bien bajo intervención judicial ofrezca bienes en condiciones favorables;
 
-Para los casos previstos en las fracciones anteriores, se buscará a las personas que cuenten con la capacidad de respuesta inmediata y los recursos que sean necesarios.
+VIII. Existan circunstancias que puedan provocar pérdidas o costos adicionales importantes, cuantificados y justificados;
 
-Todas las excepciones presentadas al Comité deberán estar debidamente fundadas, motivadas y suscritas por la persona titular del área legalmente facultada, para que aquél delibere adecuadamente sobre su autorización o rechazo, debiendo adjuntarse según sea el caso, los documentos y/o autorizaciones necesarias. En caso contrario, no serán atendibles.
+IX. Se haya rescindido un contrato adjudicado a través de licitación pública, en cuyo caso se podrá adjudicar al licitante que haya obtenido el segundo o ulteriores lugares, siempre que la diferencia en precio con respecto a la proposición inicialmente adjudicada no sea superior a un margen del diez por ciento. Tratándose de contrataciones en las que la evaluación se haya realizado mediante puntos y porcentajes o costo beneficio, se podrá adjudicar al segundo o ulterior lugar, dentro del referido margen;
+
+X. Cuando se trate de bienes usados o reconstruidos en los que el precio no podrá ser mayor al que se determine mediante avalúo que practicará la Comisión de Avalúos de Bienes Estatales o en su caso las instituciones de crédito o terceros habilitados para ello conforme a la normativa aplicable, expedido dentro de los seis meses previos y vigente al momento de la adjudicación del contrato respectivo, sin perjuicio de lo dispuesto en el segundo párrafo del artículo 14 de esta Ley;
+
+XI. Se trate de servicios de consultorías, asesorías, estudios o investigaciones, cuando la información que se tenga que proporcionar a los licitantes para la elaboración de su proposición, se encuentre reservada en los términos establecidos en la Ley de Transparencia y Acceso a la Información Pública del Estado de Morelos;
+
+XII. Se trate de los servicios prestados por una persona física, siempre que éstos sean realizados por ella misma sin requerir de la utilización de más de un especialista o técnico;
+
+XIII. El objeto del contrato sea el diseño y fabricación de un bien que sirva como prototipo para efectuar las pruebas que demuestren su funcionamiento. En estos casos la Dependencia o Entidad deberá pactar que los derechos sobre el diseño, uso o cualquier otro derecho exclusivo, se constituyan a favor del Estado o de las Entidades según corresponda. De ser satisfactorias las pruebas, se formalizará el contrato para la producción de mayor número de bienes por al menos el veinte por ciento de las necesidades de la Dependencia o Entidad, con un plazo de tres años;
+
+XIV. Se trate de equipos especializados, sustancias y materiales de origen químico, físico químico o bioquímico para ser utilizadas en actividades experimentales requeridas en proyectos de investigación científica y desarrollo tecnológico, siempre que dichos proyectos se encuentren autorizados por quien determine el titular de la Dependencia o el órgano de gobierno de la Entidad;
+
+XV. Se trate de adquisiciones, arrendamientos o servicios cuya contratación se realice con las personas físicas o morales que desarrollen su actividad en el marco de los programas de apoyo social establecidos a través de la Secretaría de Desarrollo Social del Poder Ejecutivo del Estado de Morelos, y
+
+XVI. Se acepte la adquisición de bienes o la prestación de servicios a título de dación en pago, en los términos de la normativa aplicable
+
+Para los casos previstos en las fracciones anteriores, según proceda, se buscará a las personas que cuenten con la capacidad de respuesta inmediata y los recursos que sean necesarios.
+
+Todas las excepciones presentadas al Comité deberán estar debidamente fundadas, motivadas y suscritas por la persona titular del área legalmente facultada, para que aquél delibere adecuadamente sobre su autorización o rechazo, debiendo adjuntarse, según sea el caso, los documentos o autorizaciones necesarias; en caso contrario, no serán atendibles.
+
+La dictaminación de la procedencia de la contratación y de que ésta se ubica en alguno de los supuestos contenidos en las fracciones II, III, IV, VI y IX será responsabilidad del área requirente.
 
 ###### Artículo 52.
 
@@ -1398,3 +1418,15 @@ Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
 
 Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 16 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL CIENTO NOVENTA Y OCHO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos (sic) a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+TERCERA. A los actos y contratos que las Secretarías, Dependencias y Entidades hayan celebrado con anterioridad a la entrada en vigor del presente Decreto, les serán aplicables las disposiciones legales, reglamentarias y administrativas vigentes al momento de su inicio o celebración.
+
+CUARTA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
