@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-uniformes-gratuitos-para-los-estudiantes-de-120928"
 country: "mx"
 rank: "ley"
 publication_date: "2017-04-19"
-last_updated: "2017-04-19"
+last_updated: "2017-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE UNIFORMES GRATUITOS PARA LOS ESTUDIANTES DE EDUCACIÓN BÁSICA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 19 de abril de 2017.
 
@@ -57,41 +57,71 @@ III.- Establecer las disposiciones jurídicas y mecanismos que deben de observar
 
 Para los efectos de la presente Ley, se entenderá por:
 
-I. Autoridad Educativa Estatal: Instituto de Educación Básica del Estado de Morelos;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
+
+I. Autoridad Educativa Estatal: Como rectora la Secretaría de Educación del Poder Ejecutivo Estatal, y como operadora el Instituto de Educación Básica del Estado de Morelos;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 16 DE JULIO DE 2017)</small>
 
 II. Autoridad Educativa Municipal: El Ayuntamiento de cada Municipio;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 16 DE JULIO DE 2017)</small>
+
 III. Educación Básica: La educación preescolar, primaria y secundaria, incluyendo la educación indígena y la educación especial;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 16 DE JULIO DE 2017)</small>
 
 IV. Escuelas Públicas: Las de sostenimiento Federal y Federal Transferido del Instituto de Educación Básica del Estado de Morelos y las Estatales;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 16 DE JULIO DE 2017)</small>
+
 V. Estudiante o Estudiantes: A los beneficiarios de la presente Ley, que se encuentren cursando sus estudios en escuelas públicas de nivel básico;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 16 DE JULIO DE 2017)</small>
 
 VI. Institución Educativa: Escuelas públicas de nivel básico del Estado de Morelos;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 16 DE JULIO DE 2017)</small>
+
 VII. Ley: Ley de Uniformes Gratuitos para los Estudiantes de Educación Básica del Estado de Morelos;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 16 DE JULIO DE 2017)</small>
 
 VIII. Programa: Al Programa de Uniformes Escolares Gratuitos para los estudiantes de preescolar, primaria, secundaria, que cursen su educación en escuelas públicas del Gobierno del Estado de Morelos;
 
-IX. Reglamento: El Reglamento de la Ley de Uniformes Gratuitos para los Estudiantes de Educación Básica del Estado de Morelos, y
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
 
-X. Uniforme Escolar de Diario: Al paquete conformado por tres prendas básicas: blusa o camisa, falda o pantalón, y suéter; atendiendo a la edad, talla, así como al grado y nivel educativo en que se encuentren los estudiantes.
+IX. Reglamento: El Reglamento de la Ley de Uniformes Gratuitos para los Estudiantes de Educación Básica del Estado de Morelos;
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
+
+X. Secretaría: La Secretaría de Educación del Poder Ejecutivo Estatal, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JULIO DE 2017)</small>
+
+XI. Uniforme Escolar de Diario: Las prendas de vestir que lo conforman, atendiendo a las condiciones climáticas de cada región, a la edad y talla de los estudiantes, así como al grado y nivel educativo en que se encuentren, conforme a lo dispuesto por esta Ley, su Reglamento y demás normativa aplicable.
 
 ### CAPÍTULO II. DE LA ENTREGA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2017)</small>
+
 ###### Artículo 3.
 
-Todos los estudiantes que cursen su educación básica, en escuelas públicas del Estado de Morelos, tendrán derecho a recibir gratuitamente por parte del Estado, un uniforme escolar de diario al inicio de cada ciclo escolar, de conformidad con los términos establecidos en el presente ordenamiento.
+Todos los estudiantes que cursen su educación básica en escuelas públicas del Estado de Morelos tienen derecho a recibir gratuitamente por parte del Estado el Uniforme Escolar de Diario al inicio de cada ciclo escolar, de conformidad con los términos establecidos en la presente Ley, su Reglamento y los Lineamientos de operación que anualmente expidan de manera conjunta la Secretaría y la diversa Secretaría de Hacienda del Poder Ejecutivo Estatal, conforme la partida autorizada para tal efecto en el Presupuesto de Egresos del Gobierno del Estado de Morelos para cada ejercicio fiscal y con apego a las disposiciones legales aplicables; mismos que deberán ser publicados en el órgano de difusión oficial del Estado.
 
 A fin de salvaguardar los derechos del estudiante que cambie de domicilio o provenga de otra Entidad Federativa, la Autoridad Educativa Estatal preverá lo conducente cuando se actualicen estos supuestos.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2017)</small>
+
 ###### Artículo 4.
 
-El uniforme escolar de diario, será entregado a los beneficiarios a través de la madre o del padre o tutor, así como a las y los estudiantes de quinto y sexto grado de primaria, y a las y los estudiantes de secundaria, siempre y cuando, presenten el documento que acredite su inscripción en escuelas públicas de nivel básico del Estado de Morelos, de conformidad con las disposiciones del Reglamento y los lineamientos de operación emitidos por la Autoridad Educativa Estatal.
+El Uniforme Escolar de Diario será entregado a los beneficiarios a través de la madre o del padre o tutor, o a los propios estudiantes siempre y cuando presenten el documento que acredite su inscripción en escuelas públicas del estado de Morelos, de conformidad con el Reglamento y los Lineamientos de operación referidos en el artículo anterior.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2017)</small>
 
 ###### Artículo 5.
 
-El uniforme escolar de diario será entregado a la persona o personas a que se refiere el artículo anterior, en la institución educativa que les corresponda, en coordinación y colaboración con las Autoridades Educativas.
+El Uniforme Escolar de Diario será entregado a las personas a que se refiere el artículo anterior en la institución educativa que corresponda, en coordinación y colaboración con las Autoridades Educativas Estatal y Municipal.
 
 ###### Artículo 6.
 
@@ -103,33 +133,39 @@ Para los efectos del artículo anterior, la Autoridad Educativa Estatal, deberá
 
 ### CAPÍTULO III. DEL PROGRAMA DE UNIFORMES ESCOLARES GRATUITOS
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2017)</small>
+
 ###### Artículo 8.
 
-Al constituir el programa, un conjunto de acciones gubernamentales de interés público, la adquisición de las tres prendas básicas que integran el mismo, deberá realizarse por el Titular del Poder Ejecutivo a través de la Autoridad Educativa Estatal, mediante el procedimiento de licitación pública, en el que se especificará la propuesta técnica y económica, la cual será transparente y se difundirá a la población a través de los medios oficiales de Gobierno del Estado.
+Al ser el programa un conjunto de acciones gubernamentales de interés público, la adquisición de las prendas básicas que integran el Uniforme Escolar de Diario, deberá realizarse anualmente por el Poder Ejecutivo a través de la Autoridad Educativa Estatal, en términos de la presente Ley, su Reglamento, los Lineamientos de operación, así como de la suficiencia presupuestal autorizada y demás normativa aplicable.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2017)</small>
 
 ###### Artículo 9.
 
-El programa será financiado con los recursos públicos que provienen de las contribuciones que pagan las y los ciudadanos morelenses, por lo tanto, queda estrictamente prohibido el uso de este programa con fines políticos, electorales, de lucro y otros distintos a los establecidos en este ordenamiento y su Reglamento.
+El programa será financiado con los recursos públicos que provienen de las contribuciones que pagan las y los ciudadanos morelenses, por lo tanto, queda estrictamente prohibido el uso de este Programa con fines políticos, electorales, de lucro y otros distintos a los establecidos en este ordenamiento, su Reglamento y los Lineamientos de operación.
 
-Esta prohibición deberá estar impresa en los paquetes de uniformes escolares que se distribuyan por parte de la Autoridad Educativa Estatal.
-
-Los paquetes de uniformes escolares no deberán llevar colores, insignias o distintivos referentes a ningún partido político.
+Esta prohibición deberá estar impresa en el empaque en que sea entregado el Uniforme Escolar de Diario, que se distribuya por parte de la Autoridad Educativa Estatal. Dichos empaques no deberán llevar colores, insignias o distintivos referentes a ningún partido político.
 
 ###### Artículo 10.
 
 En el decreto por el que se apruebe el presupuesto de Egresos del Gobierno del Estado de Morelos, que se publicará en el Periódico Oficial “Tierra y Libertad”, se incluirán los recursos asignados para dar cumplimiento al programa de forma desagregada a cada nivel educativo.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2017)</small>
+
 ###### Artículo 11.
 
-Cualquier hipótesis no prevista en la presente Ley o en su Reglamento, será resuelta por la Autoridad Educativa Estatal.
+Cualquier supuesto no previsto en la presente Ley, su Reglamento o los Lineamientos de operación, será resuelto por la Secretaría, de conformidad con la normativa aplicable.
 
 ###### Artículo 12.
 
 El Titular del Ejecutivo, a través de la Autoridad Educativa Estatal celebrará convenios de colaboración con las Autoridades Educativas Municipales, para efecto de la entrega oportuna de los uniformes escolares en cada institución educativa de su Municipio.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2017)</small>
+
 ###### Artículo 13.
 
-El Poder Ejecutivo del Estado, promoverá la participación de las Autoridades Educativas Municipales, mismas que podrán disponer la aplicación de recursos para lograr el cumplimiento del objetivo de la presente Ley, lo anterior de acuerdo a su capacidad presupuestaria.
+El Poder Ejecutivo del Estado promoverá la participación de la Autoridad Educativa Municipal, la que podrá disponer la aplicación de recursos para lograr el cumplimiento del objetivo de la presente Ley; lo anterior, de acuerdo a su capacidad presupuestaria, en términos de la normativa aplicable.
 
 ### CAPÍTULO IV. DE LAS AUTORIDADES
 
@@ -141,33 +177,33 @@ Las disposiciones contenidas en la presente Ley, serán aplicadas por el Poder E
 
 En la ejecución del Programa, el Poder Ejecutivo del Estado, a través de la Autoridad Educativa Estatal, se coordinará con las autoridades Educativas Municipales y tomarán medidas tendientes a establecer condiciones que permitan una mayor equidad educativa, así como el logro de la efectiva igualdad en las oportunidades de acceso y permanencia de los estudiantes en el programa.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2017)</small>
+
 ###### Artículo 16.
 
-En la ejecución del Programa, la Autoridad Educativa Estatal tendrá las siguientes atribuciones:
+En la ejecución del Programa, la Autoridad Educativa Estatal tendrá las siguientes funciones:
 
 I.- Planear anualmente la ejecución del Programa, tomando en consideración la matrícula total de estudiantes de educación básica de escuelas públicas del estado de Morelos;
 
-II.- Determinar con base en la cifra de estudiantes inscritos en las instituciones educativas de nivel básico, que aporte el Instituto de Educación Básica del Estado de Morelos (IEBEM), los requerimientos presupuestales que serán necesarios para ejecutar el programa, solicitando con oportunidad a la Secretaría de Hacienda, su inclusión en la Iniciativa de Decreto de Presupuesto de Egresos del Gobierno del Estado de Morelos, para cada ejercicio fiscal;
+II.- Determinar, con base en la cifra de estudiantes inscritos en las instituciones educativas de nivel básico, los requerimientos presupuestales que serán necesarios para ejecutar el Programa, solicitando con oportunidad a la Secretaría de Hacienda del Poder Ejecutivo Estatal, su inclusión en la Iniciativa de Decreto de Presupuesto de Egresos del Gobierno del Estado de Morelos, para cada ejercicio fiscal;
 
-III.- Definir con base en criterios de economía, calidad y suficiencia, la integración de los paquetes de uniformes escolares que se entregarán a los estudiantes de educación básica;
+III.- Definir con base en criterios de economía, calidad y suficiencia, la integración (sic) Uniforme Escolar de Diario que se entregará a los estudiantes de educación básica;
 
-IV.- Llevar a cabo de manera transparente, los procesos licitatorios para la adquisición de las tres prendas que integrarán los paquetes de uniformes escolares de los diferentes niveles de educación básica, celebrando los contratos respectivos.
+IV.- Llevar a cabo de manera transparente los procesos para la adquisición del Uniforme Escolar de Diario de los diferentes niveles de educación básica, celebrando los contratos respectivos.
 
-Los procesos licitatorios antes mencionados, deberán realizarse en términos de lo dispuesto en la Ley Sobre Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios del Poder Ejecutivo del Estado Libre y Soberano de Morelos.
+Los procedimientos para dicha adquisición deberán realizarse, de manera optativa en términos de lo dispuesto en la Ley Sobre Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios del Poder Ejecutivo del Estado Libre y Soberano de Morelos o, en su caso, mediante la compra directa que se realice a personas físicas o morales que desarrollen su actividad en el marco de los programas de apoyo social establecidos a través de la Secretaría de Desarrollo Social del Poder Ejecutivo Estatal;
 
 V.- Evaluar de manera permanente la correcta ejecución del programa, y el avance de los objetivos y metas para cada ciclo escolar;
 
-VI.- Llevar a cabo en coordinación con las Autoridades Educativas Municipales, la distribución y entrega de los uniformes escolares en cada institución educativa del Estado de Morelos;
+VI.- Llevar a cabo en coordinación con la Autoridad Educativa Municipal, en su caso, la distribución y entrega del Uniforme Escolar de Diario en cada institución educativa del Estado;
 
-VII.- Expedir los lineamientos necesarios para la correcta ejecución y cumplimiento del Programa, debiendo publicarlos en el órgano de difusión oficial del Estado de Morelos;
+VII.- Vigilar, cumplir y hacer cumplir los Lineamientos de operación, para la correcta ejecución y cumplimiento del Programa;
 
-VIII.- Vigilar que los uniformes escolares, sean entregados a los beneficiarios del programa, evitando cualquier desvío a otros fines que no estén previstos en la presente Ley;
+VIII.- Vigilar que el Uniforme Escolar de Diario sea entregado a los beneficiarios del Programa, evitando cualquier desvío a otros fines que no estén previstos en la presente Ley;
 
-IX.- Promover la celebración de Convenios con los Ayuntamientos a efecto de que se pueda integrar un presupuesto general realizado con aportaciones de índole estatal y municipal, que permitan abarcar el total de la matrícula de estudiantes inscritos por el Instituto de Educación Básica del Estado de Morelos (IEBEM), en las instituciones educativas públicas de nivel básico;
+IX.- Proveer en la esfera administrativa, todo lo necesario para el debido cumplimiento de las disposiciones contenidas en la presente Ley, su Reglamento y los Lineamientos de operación, y
 
-X.- Proveer en la esfera administrativa, todo lo necesario para el debido cumplimiento de las disposiciones contenidas en la presente Ley y su Reglamento, y
-
-XI.- Las demás que prevea esta Ley o su Reglamento.
+X.- Las demás que prevea esta Ley, su Reglamento o los Lineamientos de operación.
 
 ### CAPÍTULO V. DE LOS BENEFICIARIOS
 
@@ -183,9 +219,11 @@ Los estudiantes beneficiarios de educación primaria, son los mayores de 6 años
 
 Los beneficiarios de educación secundaria, son los estudiantes inscritos en las instituciones de educación pública que al efecto ofrezcan las secundarias generales, técnicas y telesecundarias.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2017)</small>
+
 ###### Artículo 20.
 
-Los beneficiarios de educación especial, para los efectos de esta Ley, son los inscritos en Centros de Capacitación Múltiple (CAMS). Lo anterior en virtud de los alumnos que atienden otras modalidades de educación especial ya (sic) se encuentran inscritos en diversos planteles de educación básica
+Los beneficiarios de educación especial, para los efectos de esta Ley, son los inscritos en Centros de Atención Múltiple. Lo anterior en virtud de que los alumnos que atienden otras modalidades de educación especial ya se encuentran inscritos en diversos planteles de educación básica.
 
 ###### Artículo 21.
 
@@ -195,21 +233,25 @@ Los beneficiarios de educación indígena, son los que se encuentran inscritos e
 
 DE LA EVALUACIÓN, TRANSPARENCIA Y RENDICIÓN DE CUENTAS.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2017)</small>
+
 ###### Artículo 22.
 
-El órgano Interno de Control de la Autoridad Educativa Estatal, evaluará lo siguiente:
+Los Órganos Internos de Control de la Autoridad Educativa Estatal, en el ámbito de sus respectivas competencias tendrán las siguientes funciones:
 
-I.- La entrega oportuna de los paquetes de uniformes escolares a los estudiantes de educación básica, mismos que serán entregados por lo menos quince días del inicio del ciclo escolar;
+I.- Calificar la entrega oportuna del Uniforme Escolares (sic) de Diario a los estudiantes de educación básica, los que serán otorgados en términos de lo dispuesto por esta Ley, su Reglamento y los Lineamientos de operación respectivos;
 
-II.- Verificará que la entrega de los paquetes de uniformes escolares, se realice atendiendo al nivel básico de educación preescolar, primaria y secundaria, a la edad, a la talla y al grado que cursen los estudiantes;
+II.- Evaluar la actividad general y desempeño de los servidores públicos encargados de la observancia y de las obligaciones y atribuciones contenidas en la presente Ley;
 
-III.- Verificará la composición, la calidad y la suficiencia de los paquetes de uniformes escolares, de acuerdo a las reglas de licitación, y
+III.- Realizar estudios sobre la eficiencia con la cual se lleve a cabo la distribución del Uniforme Escolar de Diario;
 
-IV.- Resolverá cualquier controversia que se presente durante el proceso de operación del Programa.
+IV.- Verificar la composición, la calidad y la suficiencia del Uniforme Escolar de Diario, de acuerdo a los requerimientos establecidos en el proceso de adquisición por el que se haya optado, y
+
+V.- Resolver cualquier controversia que se presente durante la operación del Programa.
 
 ###### Artículo 23.
 
-El Órgano Interno de Control de la Autoridad Educativa Estatal, evaluará la actividad general y desempeño de los servidores públicos encargados de la observancia y de las obligaciones y atribuciones contenidas en la presente Ley, realizará estudios sobre la eficiencia con la cual se lleve a cabo la distribución de los paquetes de uniformes escolares.
+(DEROGADO, P.O. 16 DE JULIO DE 2017)
 
 ###### Artículo 24.
 
@@ -264,3 +306,23 @@ SECRETARIO DE GOBIERNO
 M.C. MATÍAS QUIROZ MEDINA
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL DOSCIENTOS CUATRO POR LA (SIC) QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE UNIFORMES GRATUITOS PARA LOS ESTUDIANTES DE EDUCACIÓN BÁSICA DEL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVIII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. Para el ejercicio fiscal 2017 la entrega del Uniforme Escolar de Diario iniciará con el nivel de educación primaria, de conformidad con los Lineamientos de operación, el Presupuesto de Egresos del Gobierno del Estado de Morelos para el ejercicio fiscal 2017 y demás normativa aplicable, atendiendo a la suficiencia presupuestal.
+
+CUARTA. El Reglamento de la Ley deberá ser expedido dentro del plazo de 120 días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+QUINTA. Para el ejercicio fiscal 2017, la entrega del Uniforme Escolar de Diario iniciará con la modalidad de educación primaria, de conformidad con los lineamientos expedidos por la Secretaría de Hacienda del Poder Ejecutivo Estatal, en términos de lo dispuesto por el artículo Vigésimo Tercero del Presupuesto de Egresos del Gobierno del Estado de Morelos para el ejercicio fiscal 2017, y conforme a la suficiencia presupuestal.
+
+En lo subsecuente las Secretarías de Educación y de Hacienda, ambas del Poder Ejecutivo Estatal, deberán tomar las previsiones necesarias para que los Lineamientos de operación a que se refiere el presente Decreto sean expedidos anualmente con toda oportunidad.
+
+SEXTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
