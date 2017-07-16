@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-administracion-publica-del-estado-de-89623"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-28"
-last_updated: "2016-12-22"
+last_updated: "2017-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el viernes 28 de septiembre de 2012.
 
@@ -35,7 +37,9 @@ Que el Congreso del Estado se ha servido enviarme para su promulgación lo sigui
 
 LA QUINCUAGÉSIMA SEGUNDA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE LE OTORGA EL ARTÍCULO 40, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL, Y
 
-I.- PROCESO LEGISLATIVO...
+I.- PROCESO LEGISLATIVO
+
+[...]
 
 Por lo anteriormente expuesto, esta Soberanía ha tenido a bien expedir la siguiente:
 
@@ -195,15 +199,17 @@ Asimismo, para el cumplimiento de sus funciones, el Gobernador del Estado se aux
 
 La función de la Seguridad Pública Estatal estará asignada a la Secretaría de Gobierno, y se ejercerá por conducto del servidor público que al efecto se designe, así como de las unidades administrativas y órganos desconcentrados de su adscripción conforme al último párrafo del artículo 35 de la presente Ley.
 
-La Fiscalía General del Estado y la Fiscalía Especializada para la Investigación de Hechos de Corrupción se regirán por las disposiciones que al respecto se contienen en la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, su Ley Orgánica y demás normativa aplicable.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2017)</small>
+
+La Fiscalía General del Estado y la Fiscalía Especializada en Combate a la Corrupción se regirán por las disposiciones que al respecto se contienen en la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, su Ley Orgánica y demás normativa aplicable.
 
 Además, en el ejercicio de las atribuciones legales que le corresponden, la Administración Pública Central se complementará con la Paraestatal, compuesta por los organismos auxiliares a que se refiere el artículo 46 de esta Ley.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2017)</small>
 
 ###### Artículo 12.
 
-Para ser las personas titulares de cualquiera de las secretarías, la Fiscalía General del Estado, la Fiscalía Especializada para la Investigación de Hechos de Corrupción y la Consejería Jurídica, se deben cumplir los requisitos exigidos por la Constitución.
+Para ser la persona titular de cualquiera de las Secretarías y de la Consejería Jurídica, se deben cumplir los requisitos exigidos por la Constitución para ser Secretario de Despacho, pero para el caso de la Consejería, se deberá contar además con título y cédula de licenciado en derecho legalmente expedidos. Las personas titulares de la Fiscalía General del Estado y la Fiscalía Especializada en Combate a la Corrupción deberán cumplir los requisitos específicos que, al efecto, prevé la misma Constitución.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
@@ -263,11 +269,11 @@ XXI. Designar al personal de la secretaría o dependencia que conforme a las ley
 
 XXII. Las demás que le confieran las leyes, otros ordenamientos jurídicos aplicables y las que les resulten compatibles conforme a sus objetivos para su mejor desarrollo, atendiendo a lo dispuesto por el artículo 7 de la presente Ley.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2017)</small>
 
 ###### Artículo 14.
 
-Al frente de cada secretaría o dependencia habrá una persona titular, quien para el despacho de los asuntos de su competencia se auxiliará, en su caso, por los coordinadores generales, subsecretarios, directores generales, directores de área, subdirectores y jefes de departamento, así como por los demás servidores públicos que se establezcan en las disposiciones administrativas y normativas aplicables, conforme a la suficiente presupuestal correspondiente.
+Al frente de cada secretaría o dependencia habrá una persona titular, quien para el despacho de los asuntos de su competencia se auxiliará, en su caso, por los coordinadores generales, subsecretarios, directores generales, directores de área, subdirectores y jefes de departamento, así como por los demás servidores públicos que, conforme a la suficiente (sic) presupuestal correspondiente, se establezcan en las disposiciones administrativas, reglamentarias y normativas aplicables, las que definirán su competencia y atribuciones.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
@@ -425,67 +431,67 @@ XL. Asegurar y ejecutar las medidas cautelares y sancionadoras aplicables a los 
 
 XLI. Promover la participación de la sociedad organizada, sectores productivos, académicos y sociales para generar políticas de reintegración social de las personas que obtengan su libertad o que queden sujetas a una medida cautelar, para con ello, abatir la reincidencia delictiva.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2017)</small>
 
 ###### Artículo 22.
 
 A la Secretaría de Hacienda le corresponden las siguientes atribuciones:
 
-I. Proponer e instrumentar la política hacendaria del Estado, tomando en cuenta las disposiciones legales y los convenios de coordinación fiscal celebrados por el Poder Ejecutivo del Estado con la Federación y los municipios de la entidad;
+I. Proponer e instrumentar la política hacendaria del Estado, tomando en cuenta las disposiciones legales y los convenios de coordinación fiscal celebrados por el Poder Ejecutivo del Estado con la Federación y los Municipios de la Entidad;
 
 II. Proyectar y calcular los ingresos y egresos del Gobierno del Estado de Morelos, así como lo correspondiente a las Entidades de la administración pública paraestatal, atendiendo a las necesidades y políticas para el desarrollo del Estado;
 
 III. Elaborar el proyecto de Ley de Ingresos del Estado y someterlo a consideración del Titular del Poder Ejecutivo;
 
-IV. Recibir los recursos financieros que correspondan de conformidad con el Sistema Nacional de Coordinación Fiscal y a los convenios de descentralización y reasignación, así como a los demás conceptos que otorgue la Federación al Gobierno del Estado, conforme a las disposiciones jurídicas aplicables;
+IV. Recibir los recursos financieros que correspondan de conformidad con el Sistema Nacional de Coordinación Fiscal y los convenios de descentralización y reasignación, así como los demás conceptos que otorgue la Federación al Gobierno del Estado, conforme a las disposiciones jurídicas aplicables;
 
 V. Planear, organizar, integrar y vigilar el Padrón Fiscal de Causantes, asegurando su actualización permanente;
 
-VI. Recaudar los impuestos, derechos, productos, aprovechamientos y demás contribuciones que correspondan al Estado, así como aquellos que se establezcan en los convenios de coordinación fiscal con la Federación y los ayuntamientos;
+VI. Recaudar los impuestos, derechos, productos, aprovechamientos y demás contribuciones que correspondan al Estado, así como aquellos que se establezcan en los convenios de coordinación fiscal con la Federación y los Ayuntamientos;
 
 VII. Ubicar, coordinar y operar las oficinas recaudadoras, así como establecer las condiciones contractuales para utilizar los servicios externos para la recaudación de las contribuciones que correspondan al Estado;
 
-VIII. Programar y practicar auditorías e inspecciones de carácter fiscal a causantes y ejercer la facultad económico coactiva conforme a las Leyes relativas;
+VIII. Programar y practicar auditorías e inspecciones de carácter fiscal a causantes y ejercer la facultad económico coactiva, conforme a la normativa aplicable;
 
-IX. Substanciar el procedimiento administrativo de ejecución, conforme a las disposiciones jurídicas aplicables;
+IX. Substanciar el procedimiento administrativo de ejecución, conforme a la normativa aplicable;
 
-X. Intervenir por sí o a través de representante, en los juicios de carácter fiscal que se ventilen ante cualquier tribunal cuando tenga interés la Hacienda Pública del Estado; tramitar y resolver los recursos administrativos en la esfera de su competencia;
+X. Intervenir por sí o a través de representante, en los juicios de carácter fiscal que se ventilen ante cualquier tribunal cuando tenga interés la Hacienda Pública del Estado, así como tramitar y resolver los recursos administrativos en la esfera de su competencia;
 
 XI. Proponer e instrumentar las medidas tendientes a evitar la evasión y elusión fiscal;
 
-XII. Realizar una labor permanente de difusión y orientación fiscal sobre las leyes tributarias del Estado, así como proporcionar asesoría a los ayuntamientos y los particulares sobre la interpretación y aplicación de tales leyes. Esto último se dará a solicitud expresa;
+XII. Realizar una labor permanente de difusión y orientación fiscal sobre las leyes tributarias del Estado, así como proporcionar asesoría a los Ayuntamientos y los particulares sobre la interpretación y aplicación de tales leyes. Esto último se dará a solicitud expresa;
 
-XIII. Elaborar el proyecto de Presupuesto de Egresos del Gobierno del Estado de Morelos preferentemente con un enfoque a resultados y someterlo a consideración del titular del Poder Ejecutivo del Estado;
+XIII. Elaborar el proyecto de Presupuesto de Egresos del Gobierno del Estado de Morelos, preferentemente con un enfoque a resultados y someterlo a consideración del Titular del Poder Ejecutivo Estatal;
 
-XIV. Aprobar las asignaciones presupuestales de inversión pública que se deriven de los programas y proyectos que propongan las dependencias y entidades de la administración pública, verificando su congruencia con los programas operativos anuales, sectoriales, presupuestales e institucionales y conforme a la disponibilidad presupuestaria existente;
+XIV. Aprobar las asignaciones presupuestales de inversión pública que se deriven de los programas y proyectos que propongan las Secretarías, Dependencias y Entidades de la administración pública, verificando su congruencia con los programas operativos anuales, sectoriales, presupuestales e institucionales y conforme a la disponibilidad presupuestaria existente;
 
-XV. Coordinar la evaluación que permita conocer los resultados de la aplicación de los recursos públicos estatales, así como concertar con las Secretarías, Dependencias y Entidades de la Administración Pública Estatal la validación de los indicadores estratégicos, en los términos de las disposiciones aplicables;
+XV. Controlar la evaluación que permita conocer los resultados de la aplicación de los recursos públicos estatales, así como concertar con las Secretarías, Dependencias y Entidades de la Administración Pública Estatal la validación de los indicadores estratégicos, en los términos de las disposiciones aplicables;
 
-XVI. Emitir conjuntamente con la Secretaría de la Contraloría y la Comisión Estatal de Evaluación del Desarrollo Social y a más tardar el último día hábil de abril, el Programa Anual de Evaluación Estatal para los programas presupuestarios y otros programas de la Administración Pública del Estado de Morelos;
+XVI. Emitir conjuntamente con la Secretaría de la Contraloría y la Comisión Estatal de Evaluación del Desarrollo Social y a más tardar el último día hábil de abril, el Programa Anual de Evaluación Estatal para los programas presupuestarios y otros programas de la Administración Pública Estatal;
 
 XVII. Coordinar el desarrollo de metodologías e indicadores que permitan medir y gestionar el desempeño de los programas presupuestarios, a través del Sistema de Evaluación de Desempeño Estatal;
 
-XVIII. Controlar y evaluar el ejercicio del Presupuesto de Egresos del Gobierno del Estado, de conformidad con las disposiciones legales aplicables;
+XVIII. Controlar y evaluar el ejercicio del Presupuesto de Egresos del Gobierno del Estado, de conformidad con la normativa aplicable;
 
 XIX. Autorizar la ministración de recursos y pagos, de conformidad con las partidas y montos autorizados en el Presupuesto de Egresos;
 
-XX. Autorizar la ministración de recursos que corresponda a los ayuntamientos por concepto de participaciones;
+XX. Autorizar la ministración de recursos que corresponda a los Ayuntamientos por concepto de participaciones;
 
-XXI. Verificar que los servidores públicos que manejen fondos del Estado, otorguen fianza suficiente para garantizar su manejo, en los términos que establezcan las disposiciones jurídicas aplicables;
+XXI. Verificar que los servidores públicos que manejen fondos del Estado, otorguen fianza suficiente para garantizar su manejo, en los términos que establezca la normativa aplicable;
 
 XXII. Normar y registrar, en el ámbito de su competencia, la celebración de actos y contratos de los que resulten pagos, derechos y obligaciones para el Gobierno del Estado, así como definir e instrumentar el Sistema de Registro correspondiente;
 
-XXIII. Constituir y coordinar el funcionamiento del Sistema Estatal de Planeación Democrática promoviendo la participación de los sectores social y privado;
+XXIII. Constituir y coordinar el funcionamiento del Sistema Estatal de Planeación Democrática, promoviendo la participación de los sectores social y privado;
 
-XXIV. Integrar al Plan Estatal de Desarrollo, los planes, programas, proyectos y actividades que de él se deriven, sean sectoriales e intersectoriales, programas operativos anuales, institucionales, regionales y especiales y cualquier otro programa que determine el Titular del Poder Ejecutivo del Estado, verificando, con la participación de las secretarías, dependencias y entidades, que exista congruencia entre los mismos y el Plan Nacional de Desarrollo;
+XXIV. Integrar al Plan Estatal de Desarrollo, los planes, programas, proyectos y actividades que de él se deriven, sean sectoriales e intersectoriales, programas operativos anuales, institucionales, regionales y especiales y cualquier otro programa que determine el Titular del Poder Ejecutivo Estatal, verificando, con la participación de las Secretarías, Dependencias y Entidades, que exista congruencia entre los mismos y el Plan Nacional de Desarrollo;
 
 XXV. Realizar la evaluación general de la gestión gubernamental en los términos previstos por el Sistema Estatal de Planeación Democrática;
 
-XXVI. Normar, coordinar e integrar la participación de las secretarías, dependencias y entidades del sector público en la elaboración de los documentos necesarios para preparar el informe anual a que hace referencia el primer párrafo del artículo 33 de la Constitución Política del Estado;
+XXVI. Normar, coordinar e integrar la participación de las Secretarías, Dependencias y Entidades del sector público en la elaboración de los documentos necesarios para preparar el informe anual a que hace referencia el primer párrafo del artículo 33 de la Constitución Política del Estado Libre y Soberano de Morelos;
 
-XXVII. Planear, organizar y coordinar el Sistema Estatal de Información Estadística y Geográfica del Estado de Morelos;
+XXVII. Planear, organizar y coordinar el Sistema Estatal de Información Estadística y Geográfica;
 
-XXVIII. Organizar y operar la contabilidad gubernamental, formular periódicamente los estados financieros, integrar la Cuenta Pública de la Hacienda Pública del Estado y mantener la relación con el Órgano de Fiscalización Superior;
+XXVIII. Organizar y operar la contabilidad gubernamental, formular periódicamente los estados financieros, integrar la Cuenta Pública del Estado y mantener la relación con la Entidad Superior de Auditoría y Fiscalización;
 
 XXIX. Planear, organizar, conducir y coordinar el Sistema de Contabilidad Gubernamental del Sector Público del Estado;
 
@@ -497,9 +503,19 @@ XXXII. Proporcionar la asesoría que en materia de interpretación fiscal le oto
 
 XXXIII. Representar al Gobierno del Estado y participar activamente dentro del Sistema Nacional de Coordinación Fiscal y en el Sistema Estatal de Coordinación Hacendaria;
 
-XXXIV. Concentrar, custodiar y requerir, en su caso, las garantías que se otorguen en favor del Gobierno del Estado de Morelos, por conducto de cualesquiera de sus secretarías y dependencias, o bien en favor de la Federación, de acuerdo a los convenios celebrados para tal efecto; registrarlas, cancelarlas o hacerlas efectivas oportunamente, conforme a las disposiciones legales aplicables; y
+XXXIV. Concentrar, custodiar y requerir, en su caso, las garantías que se otorguen en favor del Gobierno del Estado de Morelos, por conducto de cualesquiera de sus Secretarías y Dependencias, o bien, en favor de la Federación, de acuerdo a los convenios celebrados para tal efecto; registrarlas, cancelarlas o hacerlas efectivas oportunamente, conforme a la normativa aplicable;
 
-XXXV. Autorizar los precios y tarifas de los bienes, trámites y servicios que producen o prestan las Entidades de la Administración Pública Paraestatal, distintos de contribuciones, previa opinión de la Secretaría, Dependencia o Entidad que corresponda.
+XXXV. Autorizar los precios y tarifas de los bienes, trámites y servicios que producen o prestan las Entidades de la Administración Pública Paraestatal, distintos de contribuciones, previa opinión de la Secretaría, Dependencia o Entidad que corresponda;
+
+XXXVI. Representar legalmente al Poder Ejecutivo del Gobierno del Estado de Morelos, ante el Sistema de Administración Tributaria y otras autoridades federales o estatales en materia fiscal y hacendaria;
+
+XXXVII. Regular y controlar la aplicación de las disposiciones fiscales y administrativas relativas al control vehicular en la modalidad particular;
+
+XXXVIII. Planear, elaborar, organizar, integrar, actualizar y vigilar el Registro Estatal de Vehículos Automotores del Estado;
+
+XXXIX. Autorizar la expedición, suspensión y cancelación de las placas metálicas, tarjetas de circulación, calcomanías, autorizaciones, licencias de conducir y actualizaciones, así como permisos de conducir, para la circulación vehicular particular, llevando un control de todo lo relacionado a estas actividades, y
+
+XL. Emitir las disposiciones administrativas en materia de control vehicular particular para la debida aplicación de las disposiciones legales de la materia.
 
 ###### Artículo 23.
 
@@ -514,8 +530,6 @@ II. Ordenar la práctica de auditorías, revisiones, verificaciones, acciones de
 III. Imponer sanciones a los servidores públicos que incurran en responsabilidad administrativa, en los términos de las disposiciones jurídicas aplicables;
 
 IV. Designar a servidores públicos de la Secretaría, para que funjan como sus representantes, en las funciones y comisiones que se requieran;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
@@ -917,7 +931,9 @@ XXI. Presupuestar y gestionar el financiamiento adicional a las instituciones ac
 
 A la Secretaría de Movilidad y Transportes le corresponden las siguientes atribuciones:
 
-I. Planear, organizar, regular, vigilar y, en su caso, administrar el servicio de transporte en cualquiera de sus modalidades;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
+
+I. Planear, organizar, regular, vigilar y, en su caso, administrar el servicio de transporte en las modalidades de servicio público y privado;
 
 II. Dirigir, coordinar y controlar la ejecución de los programas de transporte en la entidad, que realice directamente o en forma concertada con la Federación o los municipios;
 
@@ -947,7 +963,9 @@ XIV. Diseñar y establecer en su caso las políticas y criterios para el estable
 
 XV. Proponer las cuotas, tasas y tarifas fiscales aplicables en materia de derechos por los servicios que proporcione la Secretaria en el ejercicio de sus atribuciones, así como los aprovechamientos respectivos;
 
-XVI. Suscribir y expedir tarjetas de circulación de transporte público, privado y particular, tarjetón del servicio público y demás documentos de circulación, así como autorizar las cesiones de derechos entre particulares y por defunción, previo el cumplimiento de los requisitos que al efecto establezca el marco jurídico aplicable;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
+
+XVI. Suscribir y expedir tarjetas de circulación de transporte público y privado, tarjetón del servicio público y demás documentos de circulación, así como autorizar las cesiones de derechos entre particulares y por defunción, previo el cumplimiento de los requisitos que al efecto establezca el marco jurídico aplicable;
 
 XVII. Regular, inspeccionar y vigilar el servicio de transporte en sus diversas modalidades, sus servicios conexos y a los prestadores del mismo a efecto de garantizar que el servicio público se preste en los términos y condiciones autorizados legalmente;
 
@@ -963,9 +981,13 @@ XXII. Intervenir en los procedimientos judiciales y administrativos en que la Se
 
 XXIII. Recibir, tramitar y resolver, los procedimientos administrativos, y en su caso, imponer y aplicar sanciones en los términos de las leyes, reglamentos y demás disposiciones legales en materia de su competencia;
 
-XXIV. Registrar, expedir y resguardar el padrón de conductores en sus diferentes modalidades, así como expedir, suspender y cancelar licencias y permisos de conducir, tanto de uso particular, privado y para la prestación del servicio público de transporte; en el caso de las licencias y permisos de conducir de uso particular, la suspensión y cancelación será en cumplimiento de mandato o resolución de autoridad competente;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
 
-XXV. Registrar los vehículos de servicio de transporte público, privado y particular, expedir las placas metálicas, tarjetas de circulación, calcomanías y demás documentos que correspondan;
+XXIV. Registrar, expedir y resguardar el padrón de conductores en las modalidades de servicio público y privado, así como expedir, suspender y cancelar licencias y permisos de conducir, tanto de uso privado, como para la prestación del servicio público de transporte;
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
+
+XXV. Registrar los vehículos de servicio de transporte público y privado, expedir las placas metálicas, tarjetas de circulación, calcomanías y demás documentos que correspondan;
 
 XXVI. Declarar, previo procedimiento la revocación, cancelación y caducidad, de las concesiones del servicio público, así como autorizar el cambio de modalidad del servicio público en los términos de la normatividad aplicable, cuando se justifique la necesidad e interés colectivo; y
 
@@ -1459,8 +1481,6 @@ Los servidores públicos estatales adscritos a los organismos auxiliares, serán
 
 Ningún servidor público estatal podrá ser adscrito a los organismos auxiliares sin el nombramiento respectivo; quedan exceptuados de esta disposición los puestos de base.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 En los Reglamentos o estatutos orgánicos de los organismos auxiliares se establecerán las suplencias de los servidores públicos en casos de ausencia temporal, mismas que no podrá (sic) durar más de noventa días naturales; asimismo, se regularán las suplencias ante la ausencia absoluta de la persona titular de un organismo auxiliar, así como la figura del encargado de despacho, quien podrá desempeñar legalmente las atribuciones que originalmente corresponderían a la persona titular de que se trate, durante el tiempo que se considere necesario por el propio Gobernador del Estado.
@@ -1551,8 +1571,6 @@ V. Aplicar las medidas adecuadas a efecto de que las funciones del organismo aux
 
 VI. Fijar los controles necesarios para asegurar la calidad de los suministros y programas de recepción, que garanticen la continuidad de las obras, fabricación, distribución o prestación de los servicios;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 VII. Designar a los servidores públicos que se determinen en sus respectivos estatutos orgánicos; así como proponer a aquellos que conforme a dichos estatutos orgánicos deban ser designados por el órgano de gobierno y someter a este último sus sueldos y prestaciones, en armonía con el catálogo de puestos y tabulador de salarios aprobado por las Secretarías de Hacienda y de Administración;
@@ -1574,8 +1592,6 @@ XIV. Las demás que le asignen otras leyes, reglamentos, acuerdos y disposicione
 ### CAPÍTULO TERCERO
 
 DEL CONTROL, COORDINACIÓN Y EVALUACIÓN.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
@@ -1600,8 +1616,6 @@ I. Los órganos de gobierno dirigirán y controlarán las acciones para alcanzar
 II. Los titulares o directores generales deberán precisar las directrices para la instrumentación de los sistemas de control interno que sean necesarios, ejecutarán las acciones correspondientes para corregir las deficiencias detectadas y presentarán informes periódicos al órgano de gobierno, sobre el cumplimiento de los objetivos del sistema de control interno, su funcionamiento y programas para mejorarlo;
 
 III. Los otros servidores públicos del organismo descentralizado responderán cada uno dentro del ámbito de sus respectivas competencias, respecto al funcionamiento adecuado del sistema que controle las operaciones que tengan a su cargo.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
@@ -1674,8 +1688,6 @@ V. Forma de integrar el órgano de gobierno y nombramiento del titular o directo
 VI. Las facultades y obligaciones del órgano de gobierno, y señalar asimismo, cuáles de las facultades son no delegables;
 
 VII. Que el titular o director general será el representante legal del organismo, especificando sus facultades y obligaciones;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
@@ -1796,8 +1808,6 @@ El titular del Registro Público de los Organismos Descentralizados podrá exped
 ###### Artículo 88.
 
 La cancelación de las inscripciones en el Registro Público de los Organismos Descentralizados procederá en el caso de su extinción y una vez que se haya concluido su liquidación.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -2134,3 +2144,25 @@ QUINTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jer
 SEXTA. Dentro de un plazo que no exceda de 90 días naturales, contados a partir de la entrada en vigor del presente Decreto, los Notarios Públicos del estado de Morelos, deberán actualizar sus respectivas garantías a fin de dar cabal cumplimiento a lo dispuesto en el artículo 24 de la Ley del Notariado del Estado de Morelos, objeto de reforma.
 
 SÉPTIMA. Se autoriza al Titular del Poder Ejecutivo Estatal para que celebre los actos jurídicos respectivos y necesarios, y determine la constitución, conformación del Fideicomiso del Fondo para la Atención de Infraestructura y Administración Municipal a que se refiere este instrumento.
+
+P.O. 16 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL CIENTO NOVENTA Y NUEVE POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS Y DE LA LEY DE TRANSPORTE DEL ESTADO DE MORELOS, EN MATERIA DE CONTROL VEHICULAR”.]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo en lo que se opongan al presente Decreto.
+
+CUARTA. La Secretaría de Movilidad y Transporte deberá realizar, sin demora, los trámites administrativos necesarios para transferir a la diversa Secretaría de Hacienda los recursos presupuestales, materiales y financieros que corresponda, conforme a las comunicaciones que al efecto le realice la misma, en coordinación con la Secretaría de Administración, lo anterior para el adecuado desempeño de las atribuciones que le son transferidas con motivo del presente Decreto. En los ordenamientos jurídicos y administrativos en que se hiciera referencia a la Dirección General de Transporte Público, Privado y Particular, se entenderá que dicha referencia se hará a la General de Transporte Público y Privado.
+
+QUINTA. El personal de una Secretaría que en la aplicación de este Decreto pase a formar parte de otra, en ninguna forma será afectado en los derechos que, en su caso, haya adquirido en su relación laboral con la Administración Pública Estatal.
+
+SEXTA. Dentro del plazo de 90 días hábiles las Secretarías de Hacienda, y de Movilidad y Transporte, respectivamente, deberán realizar los trámites correspondientes para la cancelación de plazas que sea procedente, conforme a la normativa aplicable.
+
+SÉPTIMA. Dentro de un plazo de 120 días hábiles, contados a partir de la entrada en vigor del presente Decreto se deberán realizar las reformas reglamentarias respectivas; mientras ello sucede se mantendrán vigentes los actuales.
+
+OCTAVA. Los conflictos que se susciten por la aplicación e interpretación del presente Decreto, serán resueltos por la persona Titular del Poder Ejecutivo Estatal, en términos de la normativa aplicable.
+
+NOVENA. Los asuntos que con motivo de este Decreto deban pasar a otra Secretaría, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramiten se incorporen a la Secretaría que señale este Decreto, a excepción de los trámites urgentes o sujetos a plazos improrrogables, que serán resueltos por el área que tenga el asunto a su cargo. También serán transferidos los archivos y expedientes respectivos.
