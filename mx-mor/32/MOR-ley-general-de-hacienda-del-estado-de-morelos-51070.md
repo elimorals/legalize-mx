@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-51070"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-07-05"
-last_updated: "2016-12-22"
+last_updated: "2017-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 5 de julio de 2006.
 
@@ -371,23 +371,27 @@ No se consideran servicios de hospedaje el alojamiento o albergue que se preste 
 
 SUJETO
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2017)</small>
 
 ###### Artículo 24.
 
-Son sujetos del Impuesto las personas físicas y las personas morales que hagan las erogaciones objeto del gravamen a que se refiere el artículo 23 de esta Ley, de manera permanente o temporal, directamente o a través de operadores turísticos, intermediarios, representantes o como se les designe, en los lugares indicados en el mismo artículo, a cambio de una contraprestación en dinero o en especie, sin importar la duración de los mismos y aun cuando tengan su domicilio fiscal en lugar distinto de la prestación del servicio, quienes trasladarán de manera expresa y por separado su importe a las personas que reciban los servicios.
+Son sujetos del Impuesto las personas físicas y las personas morales que hagan las erogaciones objeto del gravamen a que se refiere el artículo 23 de esta Ley, de manera permanente o temporal, directamente a los prestadores de los servicios de hospedaje o a través de promotores, operadores turísticos, intermediarios, facilitadores o representantes de la prestación de dichos servicios o como se les designe, aun cuando estos tengan su domicilio fiscal en lugar distinto de la prestación del servicio e independientemente de la duración del mismo.
 
-Son responsables solidarios de este impuesto los retenedores, administradores, encargados o cualquiera otra denominación que se utilice, para aquellas personas que se encarguen de otorgar el acceso o acondicionen para su uso, el lugar en que se prestan los servicios de hospedaje a que se refiere este Capítulo.
+Quienes reciban a cambio de la prestación de los servicios de hospedaje una contraprestación en dinero o especie, trasladarán de manera expresa y por separado el impuesto correspondiente a las personas a quienes se presten los servicios de hospedaje.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+En los supuestos en que una persona física o moral en su carácter de promotor, operador turístico, intermediario, facilitador o representante de la prestación de los servicios de hospedaje, intervenga en el cobro de las contraprestaciones por dichos servicios, en el caso de que a través de ella el sujeto obligado realice el pago del impuesto a que se refiere este Capítulo, tendrá el carácter de retenedor.
+
+Son responsables solidarios de este impuesto los retenedores del mismo, así como los administradores, encargados o cualquiera otra denominación que se utilice, para aquellas personas que se encarguen de otorgar el acceso o acondicionen para su uso, el lugar en que se prestan los servicios de hospedaje a que se refiere este Capítulo.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2017)</small>
 
 ###### Artículo 25.
 
-El impuesto a que se refiere este Capítulo se causará y trasladará a las personas a quienes se preste servicios de hospedaje en el momento que se perciba el pago por los servicios de hospedaje independientemente del lugar donde se acuerde o realice el pago o contraprestación por dichos servicios.
+El impuesto a que se refiere este Capítulo se causará y trasladará a las personas a quienes se preste servicios de hospedaje en el momento que se perciba el pago por los servicios de hospedaje independientemente del lugar o medio electrónico donde se acuerde, contrate o realice el pago o contraprestación por dichos servicios.
 
-Para el Fideicomiso Público Turismo Morelos, se destinará una cantidad equivalente al 100% de los recursos que genere el Impuesto sobre la Prestación de Servicios de Hospedaje, que se aplicará en gastos de promoción turística en general.
+Para el Fideicomiso Público Turismo Morelos, se destinará una cantidad equivalente al 100% de los recursos que genere el Impuesto sobre la Prestación de Servicios de Hospedaje, en cualquiera de sus modalidades, que se aplicará en gastos de promoción turística en general, así como en los servicios prestados para la recuperación del impuesto a que se refiere este Capítulo.
 
-Lo anterior, en el entendido que dentro del concepto de promoción en general se engloba: espectaculares, medios de comunicación tales como periódico, tv, radio, entre otros; campañas de internet, realización de páginas de internet, centro de reservaciones, pago de stands, incluyendo asistencia y viáticos de ferias, eventos, asambleas, congresos y seminarios, impresión de folletería, revistas especializadas, artículos promocionales, producción de video y banco de imágenes, así como una partida destinada a relaciones públicas.
+Lo anterior, en el entendido que dentro del concepto de promoción en general se engloba: espectaculares, medios de comunicación tales como periódico, televisión, radio, entre otros; campañas de internet, realización de páginas de internet, centro de reservaciones, pago de stands, incluyendo asistencia y viáticos de ferias, eventos, asambleas, congresos y seminarios, impresión de folletería, revistas especializadas, artículos promocionales, producción de video y banco de imágenes, así como una partida destinada a relaciones públicas.
 
 El Comité Técnico del Fideicomiso Público Turismo Morelos se conformará por un Presidente que será el Gobernador del Estado, quien tendrá voto de calidad, cuatro representantes más del Poder Ejecutivo que serán: la Secretaría, la Secretaría de Turismo, la Secretaría de Economía y la Secretaría de Cultura, todas del Poder Ejecutivo Estatal; cinco miembros del sector privado, que serán: un representante del sector de grupos y convenciones; un representante del sector turístico de alta calidad, un representante del sector turístico de ocio, un representante del sector hotelero; y un representante del sector de los balnearios y parques acuáticos.
 
@@ -1179,7 +1183,7 @@ SUJETO
 
 ###### Artículo 58 Ter
 
-2. Son sujetos .de este impuesto las personas físicas y las personas morales que se dediquen a efectuar préstamos de dinero al público derivados de la celebración de Contratos de Mutuo con Interés y Garantía Prendaria o asimilable a éste.
+2. Son sujetos de este impuesto las personas físicas y las personas morales que se dediquen a efectuar préstamos de dinero al público derivados de la celebración de Contratos de Mutuo con Interés y Garantía Prendaria o asimilable a éste.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -2221,6 +2225,14 @@ expedición de tarjeta de circulación y holograma: 3.00
 
 J) Baja de registro de servicio público de transporte: 2.00
 
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2017)</small>
+
+K) Revisión y validación de documentos que acrediten la propiedad
+
+de vehículos automotores nuevos, adquiridos en agencias automotrices
+
+ubicadas fuera del territorio del estado de Morelos: 10.25
+
 IV. Concesiones del servicio público de transporte y su renovación:
 
 A) Expedición de concesión del servicio público de transporte,
@@ -2499,19 +2511,25 @@ por cada evento a realizar se pagará: 6.00
 
 B) Fuentes móviles:
 
-1. Costo de la verificación por
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2017)</small>
 
-tipo de holograma:
+1. Servicio de verificación vehicular con independencia
 
-1.1. Por la verificación vehicular tipo "1": 3.01
+del holograma o constancia técnica de rechazo: 6.58
 
-1.2. Por la verificación vehicular tipo "2": 3.01
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2017)</small>
 
-1.3. Por la verificación vehicular tipo "0": 4.36
+1.1. Servicio de verificación vehicular para los automóviles
 
-1.4. Por la verificación vehicular tipo “00”: 8.73
+a los que les corresponda el holograma tipo E: EXENTO
 
-1.5. Holograma tipo E: EXENTO
+1.2. (DEROGADO, P.O. 16 DE JULIO DE 2017)
+
+1.3. (DEROGADO, P.O. 16 DE JULIO DE 2017)
+
+1.4. (DEROGADO, P.O. 16 DE JULIO DE 2017)
+
+1.5. (DEROGADO, P.O. 16 DE JULIO DE 2017)
 
 2. Por otorgamiento de autorización por
 
@@ -2545,11 +2563,17 @@ Centros de Verificación Vehicular: 8.50
 
 verificación vehicular: 1.00
 
-6. Multa por el incumplimiento de
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2017)</small>
 
-la verificación vehicular obligatoria o
+6. Multa por el incumplimiento de la verificación vehicular obligatoria;
 
-ser ostensiblemente contaminante: 14.00
+o ser ostensiblemente contaminante y exceder los límites máximos permisibles.
+
+El pago de estas multas deberá cubrirse en un plazo no mayor de 15 días naturales,
+
+contados a partir de la fecha de la notificación correspondiente; dentro de este mismo plazo
+
+se deberá realizar y aprobar la verificación vehicular del vehículo automotor de que se trate. 19.87 a 25.00
 
 II. En materia de impacto ambiental:
 
@@ -2701,7 +2725,7 @@ por capacidad de almacenamiento:
 
 2.3. De más de 60 toneladas: 50.00
 
-3. De capacidad •de almacenamiento
+3. De capacidad de almacenamiento
 
 temporal y centros de acopio de residuos
 
@@ -3583,7 +3607,9 @@ V. Por la prestación del servicio extraordinario por 24 horas por un policía:
 
 1. Tarifa diaria 20.00
 
-2. Tarifa mensual 300.00
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2017)</small>
+
+2. Tarifa mensual 600.00
 
 VI. Por la prestación del servicio de escoltas por cada elemento:
 
@@ -4372,6 +4398,12 @@ La legalización de firmas, certificados, certificaciones y copias certificadas 
 ###### Artículo 112.
 
 Los certificados de insolvencia no causarán los derechos fijados en la tarifa.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2017)</small>
+
+###### Artículo 112 Bis.
+
+Las copias certificadas que soliciten entre sí las diversas autoridades del Gobierno del Estado, en especial las requeridas por autoridades contencioso-administrativas, jurisdiccionales o de investigación, no causarán derechos, por lo que para su expedición bastará con su solicitud por escrito.
 
 ### CAPITULO VIGÉSIMO SEGUNDO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARIA DE ADMINISTRACIÓN
 
@@ -5231,7 +5263,7 @@ EN EL SUBSIDIO QUE SE ESTABLECE EN LA PRESENTE DISPOSICIÓN NO SE INCLUYEN EXPED
 
 CORRESPONDERÁ A LA SUBSECRETARIA DE INGRESOS DEPENDIENTE DE LA SECRETARÍA DE HACIENDA, LA RECEPCIÓN, ANÁLISIS Y RESOLUCIÓN DE LAS SOLICITUDES PRESENTADAS, VALORANDO CADA UNA DE ELLAS; ASÍ COMO REGISTRAR LOS SUBSIDIOS FISCALES OTORGADOS.
 
-LA PRESENTE DISPOSICIÓN TRANSITORIA, SE APLICARA DE CONFORMIDAD CON LOS REQUISITOS Y REGLAS QUE EXPIDA LA SECRETARÍA DE MOVILIDAD DE (SIC)TRANSPORTE.
+LA PRESENTE DISPOSICIÓN TRANSITORIA, SE APLICARA DE CONFORMIDAD CON LOS REQUISITOS Y REGLAS QUE EXPIDA LA SECRETARÍA DE MOVILIDAD DE (SIC) TRANSPORTE.
 
 El SUBSIDIO A QUE SE REFIERE LA PRESENTE DISPOSICIÓN TRANSITORIA, NO OTORGA A LOS CONTRIBUYENTES EL DERECHO DE LA DEVOLUCIÓN, REDUCCIÓN, DISMINUCIÓN, CONDONACIÓN, DEDUCCIÓN O COMPENSACIÓN ALGUNA, CON RESPECTO A LAS CANTIDADES EFECTIVAMENTE PAGADAS CON ANTERIORIDAD A LA VIGENCIA DE ESTA DISPOSICIÓN.
 
@@ -5280,3 +5312,13 @@ QUINTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jer
 SEXTA. Dentro de un plazo que no exceda de 90 días naturales, contados a partir de la entrada en vigor del presente Decreto, los Notarios Públicos del estado de Morelos, deberán actualizar sus respectivas garantías a fin de dar cabal cumplimiento a lo dispuesto en el artículo 24 de la Ley del Notariado del Estado de Morelos, objeto de reforma.
 
 SÉPTIMA. Se autoriza al Titular del Poder Ejecutivo Estatal para que celebre los actos jurídicos respectivos y necesarios, y determine la constitución, conformación del Fideicomiso del Fondo para la Atención de Infraestructura y Administración Municipal a que se refiere este instrumento.
+
+P.O. 16 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL CIENTO-NOVENTA Y·SEIS.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
