@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-responsabilidades-de-los-servidores-publicos-del-4939"
 country: "mx"
 rank: "ley"
 publication_date: "1988-02-18"
-last_updated: "2015-12-20"
+last_updated: "2017-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y DE LOS MUNICIPIOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el 18, 21, 25 y 28 de febrero de 1988.
 
@@ -87,9 +89,9 @@ I.- Los sujetos de responsabilidad en el servicio público Estatal y Municipal;
 
 II.- Las obligaciones en el servicio público;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
 
-III.- Las Responsabilidades y sanciones administrativas en el desempeño del servicio público, así como las que se deban resolver mediante juicio político;
+III.- Las Responsabilidades que se deban resolver mediante juicio político;
 
 IV.- Las autoridades competentes y los procedimientos para aplicar las sanciones
 
@@ -99,11 +101,11 @@ V.- Los procedimientos y autoridades competentes para declarar la procedencia de
 
 VI.- El registro patrimonial de los servidores públicos;
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 2o.
 
-Son sujetos de esta Ley, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública estatal o municipal, y en los Poderes Legislativo y Judicial del Estado, y en materia de responsabilidades administrativas, todas aquellas personas que desempeñen un empleo, cargo o comisión de cualquier naturaleza en las dependencias, entidades y organismos de los Poderes Públicos, municipios u organismos constitucionales autónomos; También lo serán las personas físicas o morales que manejen o apliquen recursos económicos Estatales, Municipales y concertados o convenidos por el Estado con la Federación y los particulares que contraten o les sean confiados caudales públicos municipales en los términos que establecen las leyes.
+Son sujetos de esta Ley, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública estatal o municipal, y en los Poderes Legislativo y Judicial del Estado, todas aquellas personas que desempeñen un empleo, cargo o comisión de cualquier naturaleza en las dependencias, entidades y organismos de los Poderes Públicos, municipios u organismos constitucionales autónomos.
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
@@ -117,49 +119,35 @@ II. El Ejecutivo Estatal;
 
 III. El Tribunal Superior de Justicia del Estado;
 
-IV. El Tribunal de lo Contencioso Administrativo
+IV. (DEROGADA, P.O. 16 DE JULIO DE 2017)
 
 V. La Entidad de Auditoria Superior del Estado;
 
-VI. La Secretaría de Contraloría y Modernización Administrativa del Gobierno del Estado;
+VI. (DEROGADA, P.O. 16 DE JULIO DE 2017)
 
-VII. Los Órganos de Control Interno de los Poderes Legislativo y Judicial del Estado, así como los de los organismos autónomos;
+VII. (DEROGADA, P.O. 16 DE JULIO DE 2017)
 
-VIII. Las dependencias, organismos y entidades del Ejecutivo Estatal y de los Ayuntamientos;
+VIII. (DEROGADA, P.O. 16 DE JULIO DE 2017)
 
-IX. Los Ayuntamientos, los presidentes municipales, y
+IX. (DEROGADA, P.O. 16 DE JULIO DE 2017)
 
 X. Las demás autoridades que determinen las leyes.
 
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2008)</small>
-
 ###### ARTICULO 3o.
 
-BIS.- En todo lo que respecta a la investigación y tramitación de procedimientos de responsabilidad administrativa, serán autoridades competentes, los Órganos de Control Interno de los Poderes del Estado, de los Organismos autónomos, las dependencias y entidades, así como los de los Ayuntamientos.
+BIS.- (DEROGADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2017)
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 16 DE JULIO DE 2017)</small>
 
-De los procedimientos de responsabilidad administrativa fincados en contra de los miembros de los Ayuntamientos y de los Organismos Autónomos, conocerá el Congreso del Estado, en los términos que prevenga su ley orgánica.
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
-
-La responsabilidad administrativa que deba reclamarse a los servidores públicos de la Entidad de Auditoría Superior del Estado quedará a cargo de su Titular; en caso de que a este se reclame responsabilidad, se estará a lo previsto por la Ley de Fiscalización Superior del Estado de Durango.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 16 DE JULIO DE 2017)</small>
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
 Las responsabilidades que deban reclamarse a los servidores públicos en materia de incumplimiento de recomendaciones emitidas por el organismo garante de los derechos humanos y sus garantías, serán procesadas conforme lo dispone el Capítulo Cuarto del Título Quinto de la Ley Orgánica del Congreso del Estado de Durango, una vez que la Comisión Legislativa de Derechos Humanos, haya determinado que ha lugar a fincar responsabilidades.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
-
 ###### ARTICULO 4o.
 
-Para los efectos de esta Ley, se entenderá por Órganos de Control Interno, los que determinen los Poderes del Estado de Durango en sus leyes orgánicas; así como aquellos que se creen en los Organismos Autónomos y las contralorías municipales.
-
-Por Secretaría, se entenderá por la Secretaría de Contraloría y Modernización Administrativa del Gobierno del Estado.
-
-Para los mismos efectos, se entenderá por superior jerárquico en el Poder Ejecutivo, a los titulares de las Secretarías de Despacho, dependencias, organismos, entidades o coordinador correspondiente; en el Poder Legislativo y Judicial así como en los organismos autónomos, a los órganos que al efecto prevengan las leyes orgánicas correspondientes o a los decretos de su creación, los cuales aplicarán las sanciones cuya imposición se les atribuya a través de el órgano de control interno correspondiente. En el ámbito municipal, se entenderá por superior jerárquico al Ayuntamiento o al Presidente Municipal según corresponda.
-
-Para los mismos efectos, se entenderá por Entidad de Auditoria, a la Entidad de Auditoria Superior del Estado.
+(DEROGADO, P.O. 16 DE JULIO DE 2017)
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
@@ -475,447 +463,153 @@ La Legislatura Local recibirá las declaraciones y resoluciones de las Cámaras 
 
 En todo lo relativo al procedimiento que no esté previsto en esta Ley, así como en la apreciación y valoración de las pruebas, se observarán las disposiciones del Código Procesal Penal del Estado. Así mismo se aplicarán, en lo conducente, las del Código Penal de la propia Entidad.
 
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 191 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS, P.O. 16 DE JULIO DE 2017)</small>
+
 ## TÍTULO TERCERO. De las Responsabilidades Administrativas
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 191 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS, P.O. 16 DE JULIO DE 2017)</small>
 
 ### CAPÍTULO I. De los Sujetos
 
 ###### ARTICULO 46o.
 
-Son sujetos de responsabilidad administrativa, los servidores públicos a que se refiere el Artículo 116 de la Constitución Política Local.
+(DEROGADO POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 191 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS, P.O. 16 DE JULIO DE 2017)
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 191 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS, P.O. 16 DE JULIO DE 2017)</small>
 
 ### CAPÍTULO II. De las Obligaciones de los Servidores Públicos
 
 ###### ARTICULO 47o.
 
-Todo servidor público tendrá las siguientes obligaciones para salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben ser observadas en el desempeño de su empleo, cargo o comisión y cuyo incumplimiento dará lugar al procedimiento y las sanciones que correspondan, según la naturaleza de la infracción en que se incurra, y sin perjuicio de sus derechos laborales:
+(DEROGADO POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 191 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS, P.O. 16 DE JULIO DE 2017)
 
-I.- Cumplir con la máxima diligencia el servicio que le sea encomendado y abstenerse de cualquier acto u omisión que cause la suspensión o deficiencia de dicho servicio o implique abuso o ejercicio indebido de su empleo, cargo o comisión.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 191 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS, P.O. 16 DE JULIO DE 2017)</small>
 
-II.- Formular y ejecutar legalmente, en su caso, los planes, programas y presupuestos correspondientes a su competencia, y cumplir las leyes y otras normas que determinen el manejo de recursos económicos públicos.
-
-III.- Utilizar los recursos que tengan asignados para el desempeño de su empleo, cargo o comisión, las facultades que le sean atribuídas o la información reservada a que tenga acceso por su función exclusivamente para los fines a que están afectos;
-
-IV.- Custodiar la documentación e información que por razón de su empleo, cargo o comisión, conserve bajo su cuidado o a la cual tenga acceso, impidiendo o evitando el uso, la sustracción, destrucción ocultamiento o inutilización indebidas de aquéllas;
-
-V.- Observar buena conducta en su empleo, cargo o comisión, tratando con respeto, diligencia, imparcialidad y rectitud a las personas con las que tenga relación con motivo de este;
-
-VI.- Observar en la dirección de sus inferiores jerárquicos las debidas reglas del trato y abstenerse de incurrir en agravio, desviación o abuso de autoridad;
-
-VII.- Observar respeto y subordinación legítimas respecto a sus superiores jerárquicos inmediatos o mediatos, cumpliendo las disposiciones que éstos dicten en el ejercicio de sus atribuciones.
-
-> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2013)</small>
-
-VIII.- Evitar acciones u omisiones que tengan por objeto impedir o anular el reconocimiento o ejercicio de los derechos, y la igualdad real de oportunidades entre mujeres y hombres.
-
-IX.- Comunicar por escrito al titular de la dependencia, organismo o entidad en la que preste su servicio, el incumplimiento de las obligaciones establecidas en este Artículo o las dudas fundadas que le suscite la procedencia de las órdenes que reciba;
-
-X.- Abstenerse de ejercer las funciones de su empleo, cargo o comisión después de concluído el período para el cual se le designó o de haber cesado, por cualquier otra causa, en el ejercicio de sus funciones;
-
-XI.- Abstenerse de disponer o autorizar a un subordinado, a no asistir sin causa justificada a sus labores contraviniendo los términos de las Leyes y Reglamentos respectivos;
-
-XII.- Abstenerse de desempeñar algún otro empleo, cargo o comisión oficial o particular que la ley le prohiba;
-
-XIII.- Abstenerse de autorizar la selección, contratación, nombramiento o designación de quien se encuentre inhabilitado por resolución firme de la autoridad competente para ocupar un empleo, cargo o comisión en el servicio público;
-
-XIV.- Excusarse de intervenir en cualquier forma en la atención, tramitación o resolución de asuntos en los que tenga interés personal, familiar o de negocios, incluyendo aquéllos de los que pueda resultar algún beneficio para él, su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte;
-
-XV.- Informar por escrito al jefe inmediato y en su caso, al superior jerárquico, sobre la atención, trámite o resolución de los asuntos a que hace referencia la fracción anterior y que sean de su conocimiento; y observar sus instrucciones por escrito sobre su atención, tramitación y resolución, cuando el servidor público no pueda abstenerse de intervenir en ellas.
-
-XVI.- Abstenerse, durante el ejercicio de sus funciones, aceptar o recibir, por sí o por interpósita persona, dinero, objetos mediante enajenación a su favor en precio notoriamente inferior al que el bien de que se trate y que tenga en el mercado ordinario, o cualquier donación, empleo, cargo o comisión para sí, o para las personas a que se refiere la Fracción XII y que procedan de cualquier persona física o moral cuyas actividades profesionales, comerciales o industriales se encuentren directamente vinculadas, reguladas o supervisadas por el servidor público de que se trate en el desempeño de su empleo, cargo o comisión y que implique intereses en conflicto. Esta prevención es aplicable hasta un año después de que se haya retirado del empleo, cargo o comisión;
-
-XVII.- Desempeñar su empleo, cargo o comisión sin obtener o pretender obtener beneficios adicionales a las contraprestaciones comprobables que el Estado le otorga por el desempeño de su función, sean para él o para las personas a las que se refiere la Fracción XIII;
-
-XVIII.- Abstenerse de intervenir o participar indebidamente en la selección, nombramiento, designación, contratación, promoción, suspensión, remoción cese o sanción de cualquier servidor público, cuando tenga interés personal, familiar o de negocios en el caso o pueda derivar alguna ventaja o beneficio para él o para las personas a las que se refiere la Fracción XIII;
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2015)</small>
-
-XIX.- Presentar con oportunidad y veracidad la declaración de situación patrimonial que corresponda ante la Entidad de Auditoría Superior del Estado. La omisión o presentación extemporánea de la declaración correspondiente, dará lugar a la aplicación de las sanciones en los términos que señala la Ley;
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2008)</small>
-
-XX.- Atender con diligencia las instrucciones, requerimientos y resoluciones que reciba del órgano de control interno, conforme a la competencia de éste;
-
-XXI.- Informar al superior jerárquico de todo acto u omisión de los servidores públicos sujetos a su dirección, que pueda implicar inobservancia de las obligaciones a que se refieren las Fracciones de éste Artículo, y en los términos de las normas que al efecto se expidan;
-
-XXII.- Abstenerse de cualquier acto u omisión que implique incumplimiento de cualquier disposición jurídica relacionada con el servicio público; y (sic)
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE SEPTIEMBRE DE 2008)</small>
-
-XXIII.- Proporcionar en forma oportuna y veraz, toda la información y datos que con razón de su encargo sean solicitados por la institución a la que legalmente le competa la vigilancia y defensa de los derechos humanos. En todo caso, la información a que se tenga acceso, deberá manejarse con la más estricta confidencialidad en los términos del artículo 8 de la Ley Orgánica de la Comisión Estatal de Derechos Humanos y del artículo 157 fracción V del Código Penal para el Estado Libre y Soberano de Durango; y
-
-XXIV.- Las demás que le impongan las leyes y reglamentos.
-
-Cuando el planteamiento que formule el servidor público a su superior jerárquico deba ser comunicado a la Secretaría, el superior procederá a hacerlo sin demora, bajo su estricta responsabilidad, poniendo el trámite en conocimiento del subalterno interesado. Si el superior jerárquico omite la comunicación a la Secretaría, el subalterno podrá practicarla directamente informando a su superior acerca de este acto.
-
-### CAPÍTULO III. Sanciones Administrativas y
-
-Procedimientos para Aplicarlas
+### CAPÍTULO III. Sanciones Administrativas y Procedimientos para Aplicarlas
 
 ###### ARTICULO 48o.
 
-En las dependencias entidades y organismos de la Administración Pública, así como en los Ayuntamientos, se establecerán unidades específicas a las que el público tenga fácil acceso para que cualquier interesado pueda presentar quejas y denuncias por incumplimiento de las obligaciones de los servidores públicos, con las que se iniciará en su caso, el procedimiento disciplinario correspondiente.
-
-La creación de dichas unidades no implicará contratación de personal nuevo.
-
-La Secretaría establecerá las normas y procedimientos para que las instancias del público sean atendidas y resueltas con eficiencia, salvo las relativas a los servidores públicos municipales, que serán fijadas por los ayuntamientos respectivos.
-
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2008)</small>
-
-En todo caso, el procedimiento de queja y denuncia se sujetará a lo siguiente:
-
-l. Los escritos de queja y denuncia deberán contener:
-
-a) La autoridad a la que va dirigida;
-
-b) El nombre del quejoso, denunciante o de su representante legal, cuando se trate de personas morales;
-
-c) El domicilio para recibir notificaciones y nombre de la persona o personas autorizadas para recibirlas; y,
-
-d) La petición que se formula y los hechos o razones que dan motivo a la petición.
-
-El escrito deberá ser ratificado ante el Órgano de Control Interno o Contraloría Municipal correspondiente.
-
-II. Tratándose de falta de domicilio se notificará en un lugar visible de la oficina en la que se encuentra el domicilio del órgano de control interno correspondiente, por un periodo de treinta días hábiles;
-
-III. Se declarará improcedente mediante acuerdo de la resolutora, la queja o denuncia que sea presentada en forma anónima, no se describan los hechos que originan la queja o la denuncia o no se identifique al servidor público o la dependencia en contra de cuales se interpongan aquellas, o bien no sea ratificado conforme a la fracción primera en un plazo pertinente;
-
-IV. Una vez que se reciba la queja o denuncia, el órgano de control interno o la contraloría municipal, según sea el caso, radicará la queja o la denuncia, solicitando un informe mediante oficio al servidor público que haya originado la queja o denuncia, haciendo de su conocimiento los hechos que la motiven, corriéndole traslado del escrito si lo hubiere y apercibiéndolo que de hacer caso omiso se hará acreedor a los medios de apremio que contempla esta ley. El servidor público remitirá su informe en un término no menor a tres días ni mayor a diez días hábiles, en el que manifestará lo que a su derecho e interés convenga, aportando en su caso las probanzas necesarias, mismas que serán analizadas por la resolutora.
-
-V. La resolución que se dicte con motivo de la queja o denuncia debe ser clara y precisa, fundando y motivando el sentido de la misma.
-
-Una vez que ya no existan diligencias pendientes por desahogar y se estime que es el momento procesal oportuno, se procederá a dictar resolución.
-
-La resolución se dictará en un lapso no mayor a cuarenta días hábiles contados a partir de que se declare cerrada la audiencia respectiva. Dicho plazo podrá ser ampliado por el órgano de control interno o la contraloría municipal, en aquellos casos en que por lo voluminoso o complejidad del expediente se requiera mas tiempo para llevar a cabo el análisis correspondiente;
-
-VI. Los Órganos de Control Interno y las Contralorías Municipales, serán competentes para conocer sobre las siguientes quejas y denuncias:
-
-a) Las que se interpongan en contra de los funcionarios que la Constitución Política Local señala en su artículo 116, así como a los servidores públicos de las Dependencias como de las entidades de la Administración Pública Estatal y Municipal, centralizadas, paraestatales o paramunicipales, y
-
-b) Las que los Órganos de Control Interno o la Entidad de Auditoria, en uso de sus facultades determinen conocer y resolver.
-
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2008)</small>
-
-A toda queja o denuncia debe recaer resolución correspondiente. De no encontrarse elementos suficientes para establecer responsabilidad por parte del servidor público, deberá archivarse el expediente como asunto concluido; por el contrario, sí de la investigación se encontraren elementos suficientes para establecer la responsabilidad del servidor público, se deberá iniciar el procedimiento administrativo establecido en el artículo 63 de esta Ley.
+(DEROGADO POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 191 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS, P.O. 16 DE JULIO DE 2017)
 
 ###### ARTICULO 49o.
 
-La Secretaría, el superior jerárquico y todos los servidores públicos del Estado y de los ayuntamientos, tienen la obligación de respetar y hacer respetar el derecho a la formulación de las quejas y denuncias a las que se refiere el Artículo anterior y de evitar que con motivo de éstas se causen molestias indebidas al quejoso.
-
-Incurre en responsabilidad el servidor público que por sí o por interpósita persona, utilizando cualquier medio, inhiba al quejoso para evitar la formulación o presentación de quejas y denuncias, o que con motivo de ello realice cualquier conducta injusta u omita una justa y debida que lesione los intereses de quienes las formulen o presenten.
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+(DEROGADO POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 191 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS, P.O. 16 DE JULIO DE 2017)
 
 ###### ARTICULO 50o.
 
-El Tribunal Superior de Justicia, el Congreso del Estado, los Organismos Autónomos y los Ayuntamientos, establecerán de acuerdo a sus leyes orgánicas o de creación, los órganos y los sistemas para identificar, investigar y determinar las responsabilidades de los servidores públicos a ellos adscritos.
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+(DEROGADO POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 191 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS, P.O. 16 DE JULIO DE 2017)
 
 ###### ARTICULO 51o.
 
-Los servidores públicos de los órganos de control interno y de las contralorías municipales que incumplan con las obligaciones a las que se refiere el artículo 47 del presente ordenamiento serán sancionados conforme a los procedimientos que sustancien:
-
-a) En el Poder Ejecutivo, el titular de la contraloría interna de la Secretaria de Contraloría y Modernización Administrativa, quien será designado directamente por el Gobernador del Estado;
-
-b) En el Poder Legislativo, la comisión ordinaria encargada del control interno;
-
-c) En el Poder Judicial, el Consejo de la Judicatura;
-
-d) En los Organismos Autónomos, sus órganos de dirección superior, y
-
-e) en los Ayuntamientos, la comisión de regidores que sea creada en forma expresa.
+(DEROGADO POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 191 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS, P.O. 16 DE JULIO DE 2017)
 
 ###### ARTICULO 52o.
 
-Las sanciones administrativas consistirán en:
-
-I.- (DEROGADA, P.O. 29 DE JUNIO DE 2008)
-
-II.- Amonestación privada o pública;
-
-III.- Suspensión;
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2008)</small>
-
-IV.- Destitución del Puesto;
-
-V.- Sanción económica;
-
-VI.- Inhabilitación temporal para desempeñar empleo, cargo o comisiones en el servicio público.
-
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2013)</small>
-
-Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro, impida o anule el reconocimiento o ejercicio de los derechos e igualdad real de las oportunidades entre mujeres y hombres, o cause daños y perjuicios, será de seis meses a tres años si el monto de aquellos no excede de cien veces el salario mínimo mensual vigente en la zona económica a que corresponda el Estado de Durango, y de tres a diez años si excede de dicho límite.
-
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2008)</small>
-
-En todo caso, para los efectos de esta Ley, se consideraran graves las conductas de los servidores públicos que infrinjan las obligaciones precisadas en las fracciones III, XXI y XXIII del artículo 47, esta última cuando las leyes o reglamentos aplicables así lo determinen.
+(DEROGADO POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 191 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS, P.O. 16 DE JULIO DE 2017)
 
 ###### ARTICULO 53o.
 
-Las sanciones administrativas se impondrán tomando en cuenta los siguientes elementos:
-
-I.- La gravedad de la responsabilidad en que incurra y la conveniencia de suprimir prácticas que infrinjan, en cualquier forma, las disposiciones de esta Ley o las que se dicten con base en ella;
-
-II.- Las circunstancias socio-económicas del servidor público;
-
-III.- El nivel jerárquico, los antecedentes y las condiciones del infractor;
-
-IV.- Las condiciones exteriores y los medios de ejecución;
-
-V.- La antigüedad del servicio;
-
-VI.- La reincidencia en el incumplimiento de obligaciones; y
-
-VII.- El monto del beneficio, daño o perjuicio económico derivado del incumplimiento de obligaciones.
+(DEROGADO POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 191 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS, P.O. 16 DE JULIO DE 2017)
 
 ###### ARTICULO 54o.
 
-En caso de aplicación de sanciones económicas por beneficios obtenidos y daños y perjuicios causados por incumplimiento de las obligaciones establecidas en el Artículo 47, se aplicarán dos tantos del lucro obtenido y de los daños y perjuicios causados.
-
-Las sanciones económicas establecidas en este Artículo se pagarán una vez determinadas en cantidad líquida, en su equivalencia en salarios mínimos vigentes al día de su pago, conforme al siguiente procedimiento:
-
-I.- La sanción económica impuesta se dividirá entre la cantidad líquida que corresponda y el salario mínimo mensual vigente en la zona económica respectiva al día de su imposición, y
-
-II.- El cociente se multiplicará por el salario mínimo mensual vigente en la zona económica correspondiente al día del pago de la sanción.
-
-Para los efectos de esta Ley, se entenderá por salario mínimo mensual, el equivalente a treinta veces el salario mínimo diario vigente en la zona económica respectiva.
+(DEROGADO POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 191 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS, P.O. 16 DE JULIO DE 2017)
 
 ###### ARTICULO 55o.
 
-Para la aplicación de las sanciones a que hace referencia el Artículo 52 se observarán las siguientes reglas:
-
-I.- El apercibimiento, la amonestación y la suspensión del empleo, cargo o comisión por un período no menor de tres días ni mayor de tres meses, serán aplicables por el superior jerárquico.
-
-II.- La destitución del empleo, cargo o comisión de los servidores públicos, se demandará por el superior jerárquico de acuerdo con los procedimientos consecuentes con la naturaleza de la relación y en los términos de las leyes respectivas.
-
-III.- La suspensión del empleo, cargo o comisión durante el período a que se refiere la Fracción I, y la destitución de los servidores públicos de confianza, se aplicarán por el superior jerárquico.
-
-IV.- La Secretaría promoverá los procedimientos a que hacen referencia las Fracciones II y III demandando la destitución del servidor público responsable o procediendo a la suspensión de éste cuando el superior jerárquico no lo haga. En este caso, la Secretaría desahogará el procedimiento al superior jerárquico.
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2008)</small>
-
-V.- La inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público será aplicable por resolución, que dicte el órgano que corresponda, según las leyes aplicables.
-
-VI.- Las sanciones económicas serán aplicadas por el superior jerárquico cuando no excedan de un monto equivalente a cien veces el salario mínimo diario vigente en la zona económica correspondiente, y por la Secretaría, cuando sean superiores a esta cantidad.
-
-Tratándose de presidentes municipales, regidores y síndicos, la aplicación de las sanciones a que se refiere este Artículo, corresponde al Congreso del Estado.
-
-Respecto de los demás servidores públicos municipales, las sanciones y acciones a que se refieren las Fracciones de este Artículo, corresponde aplicarlas y ejercitarlas a los Ayuntamientos por conducto del Presidente Municipal, independientemente del monto de las sanciones económicas respectivas.
+(DEROGADO POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 191 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS, P.O. 16 DE JULIO DE 2017)
 
 ###### ARTICULO 56o.
 
-Todo servidor público deberá denunciar por escrito al órgano de control interno de la dependencia, organismo o entidad donde preste sus servicios, los hechos que a su juicio, sean causa de responsabilidad administrativa imputables a servidores públicos sujetos a su dirección, debiendo informar de lo anterior al titular de la misma.
-
-El órgano de control interno determinará si existe o no responsabilidad administrativa por el incumplimiento de las obligaciones de los servidores públicos, y aplicará, por acuerdo del superior jerárquico, las sanciones disciplinarias correspondientes.
-
-El superior jerárquico, enviará a la Secretaría copia de las denuncias cuando se trate de infracciones graves o cuando, en su concepto y habida cuenta de la naturaleza de los hechos denunciados, la Secretaría deba conocer del caso o participar en las investigaciones.
-
-En los Ayuntamientos, las denuncias serán recibidas por los funcionarios de los ayuntamientos a los que les sea conferidas dicha facultad.
+(DEROGADO POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 191 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS, P.O. 16 DE JULIO DE 2017)
 
 ###### ARTICULO 57o.
 
-La Secretaría aplicará las sanciones correspondientes a los titulares de los órganos de control interno, cuando éstos incurran en actos u omisiones que impliquen responsabilidad administrativa.
+(DEROGADO POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 191 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS, P.O. 16 DE JULIO DE 2017)
 
 ###### ARTICULO 58o.
 
-Incurrirán en responsabilidad administrativa, los servidores públicos de los órganos de control interno que se abstengan injustificadamente de sancionar a los infractores o que, al hacerlo, no se ajusten a lo previsto por esta Ley. La Secretaría informará de ello al titular de la dependencia, organismo o entidad y aplicará las sanciones correspondientes.
+(DEROGADO POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 191 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS, P.O. 16 DE JULIO DE 2017)
 
 ###### ARTICULO 59o.
 
-El órgano de control interno de cada dependencia, organismo o entidad, será competente para imponer sanciones disciplinarias por acuerdo del superior jerárquico, excepto las económicas cuyo monto sea superior a cien veces el salario mínimo diario vigente en la zona económica respectiva, las que están reservadas exclusivamente a la Secretaría que comunicará los resultados del procedimiento al titular de la dependencia, organismo o entidad correspondiente.
-
-En este último caso, el órgano de control interno, previo informe al superior jerárquico, turnará el asunto a la Secretaría.
-
-Tratándose de servidores públicos municipales, el presidente municipal será competente para imponerlas por acuerdo del Ayuntamiento, independientemente del monto de las sanciones.
+(DEROGADO POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 191 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS, P.O. 16 DE JULIO DE 2017)
 
 ###### ARTICULO 60o.
 
-Si el órgano de control interno de la dependencia, organismo o entidad tuviere conocimiento de hechos que impliquen responsabilidad penal, dará vista de ellos a la Secretaría y a la autoridad competente para conocer del ilícito, previa comunicación que haga al superior jerárquico.
-
-Cuando se trate de servidores públicos municipales, el presidente municipal dará vista al Ayuntamiento y a la autoridad competente.
+(DEROGADO POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 191 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS, P.O. 16 DE JULIO DE 2017)
 
 ###### ARTICULO 61o.
 
-Si de las investigaciones y auditorías que realice la Secretaría apareciera responsabilidad de los servidores públicos, se informará al titular y al órgano de control interno de la dependencia, organismo o entidad correspondiente, para que proceda a la investigación y sanción disciplinaria por dicha responsabilidad, si fuera de su competencia. Si se trata de responsabilidades mayores cuyo conocimiento sólo competa a la Secretaría, ésta se abocará directamente al asunto, informando de ello al titular de la dependencia, organismo o entidad y al órgano de control interno de las mismas, para que participe o coadyuve en el procedimiento de determinación de responsabilidades.
+(DEROGADO POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 191 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS, P.O. 16 DE JULIO DE 2017)
 
 ###### ARTICULO 62o.
 
-La dependencia, organismo o entidad y la Secretaría, en los ámbitos de sus respectivas competencias, podrán abstenerse de sancionar al infractor por una sola vez, cuando lo estimen pertinente, justificando la causa de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, tomando en cuenta los antecedentes y circunstancias del infractor y que el daño causado por éste, no exceda de cien veces el salario mínimo diario vigente en la zona económica respectiva. En los mismos términos procederán los ayuntamientos.
-
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2008)</small>
+(DEROGADO POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 191 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS, P.O. 16 DE JULIO DE 2017)
 
 ###### ARTICULO 62o.
 
-BIS.- En el ámbito de sus respectivas competencias, corresponde originalmente a los Órganos de Control Interno de los Poderes del Estado, sus dependencias y entidades, Organismos Públicos Autónomos y a las Contralorías Municipales de que se trate, el trámite y resolución de los procedimientos administrativos para la imposición de las sanciones a que se refiere el artículo 52 de esta ley. Los funcionarios públicos que intervengan como autoridad en la substanciación del procedimiento administrativo, tendrán fe pública, incluso en las que practiquen con motivo de notificaciones, inspecciones, desahogo de pruebas y todos los actos que se refieran al procedimiento citado gozaran de pleno valor probatorio.
-
-Para el mejor despacho de los asuntos, los reglamentos aplicables podrán establecer las atribuciones de los servidores públicos de los órganos internos de control y las contralorías municipales, las cuales podrán delegarse en servidores subalternos mediante acuerdo administrativo del superior jerárquico.
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+BIS.- (DEROGADO POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 191 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS, P.O. 16 DE JULIO DE 2017)
 
 ###### ARTICULO 63o.
 
-Los Órganos de Control Interno y las Autoridades Municipales, según corresponda, impondrán las sanciones administrativas a que se refiere este capítulo de conformidad con el procedimiento descrito en este artículo:
-
-I.- Se citará personalmente al servidor público que se le impute alguna responsabilidad para que comparezca a una audiencia, pudiendo asistirse de persona de su confianza, abogado o procurador;
-
-II.- En la notificación a que se refiere la fracción anterior se expresará, por lo menos:
-
-a) El nombre y domicilio del servidor público sujeto a procedimiento;
-
-b) Los motivos del inicio del procedimiento administrativo;
-
-c) Nombre y cargo de quien practica la notificación y el fundamento en que apoya su competencia;
-
-d) La fecha y hora que se señale para la audiencia, la que deberá tener lugar dentro de un plazo no menor a tres ni mayor a diez días hábiles, contados a partir de la fecha en que se practique la notificación, y
-
-e) La garantía que le asiste de hacer efectivo su derecho a la defensa y el apercibimiento de que de no comparecer sin causa justificada a la audiencia antes mencionada, se le tendrá por no presente y se dará por concluida la misma;
-
-III. En la audiencia, se desahogarán las pruebas que en su caso sean ofrecidas, otorgándose al servidor público el derecho para hacer las alegaciones que a su derecho e interés convenga.
-
-Si hubiera pruebas que no fuera posible su desahogo porque estén en proceso de preparación, dentro de la audiencia se proveerá lo necesario para que sean desahogadas, en un plazo no mayor a quince días hábiles.
-
-Si el servidor público no comparece a la audiencia de referencia sin causa justificada se le tendrá por no presente y se dará por concluida la misma, turnándose el expediente para resolución.
-
-IV. Dictada la resolución, se notificará personalmente en el domicilio del servidor público, cuando este haya señalado alguno en el procedimiento; si no lo hubiere hecho, se hará en aquel que conste en los archivos de la entidad, dependencia o Ayuntamiento.
-
-En todo momento, el notificador deberá cerciorarse del domicilio del servidor público y entregar copia del acto que se notifique y señalar la fecha y hora en que la notificación se efectúa, recabando el nombre y firma de la persona con quién se entienda la diligencia; si ésta se niega, se hará constar en el acta de notificación tal negativa, de lo cual darán constancia al menos dos testigos de asistencia, sin que ello afecte su validez.
-
-La notificación personal, se entenderá con la persona que deba ser notificada o su representante legal; a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio, para que el interesado espere a una hora fija del día hábil siguiente.
-
-Si la persona a quien haya de notificarse no atendiere el citatorio, la notificación se entenderá con cualquier persona que se encuentre en el domicilio en que se realice la diligencia y, de negarse ésta a recibirla o en su caso de encontrarse cerrado el domicilio, así se hará constar en el acta respectiva y la notificación se realizará por instructivo que se fijará en un lugar visible del domicilio.
-
-De las diligencias que practique el notificador, deberá levantar acta circunstanciada.
-
-V.- Si el servidor público no se presenta el día señalado para la celebración de la audiencia, así se indicará en el acta que se levante con motivo de esta y las subsecuentes notificaciones se le harán en los estrados de la oficina que conozca del procedimiento administrativo.
-
-Sin perjuicio de realizar las notificaciones en la forma antes señalada, los órganos de control interno o bien en su caso, las Contralorías Municipales, para los efectos de asegurarse de que el notificado tenga oportunidad de conocer las mismas, podrán, además, hacer uso de otros medios de comunicación.
-
-También asistirá a la audiencia el representante de la dependencia, organismo, entidad o del organismo municipal de que se trate, que para tal efecto se designe.
-
-Las partes en un procedimiento administrativo tendrán derecho de conocer, en cualquier momento, el estado de su tramitación, recabando la oportuna información de las oficinas correspondientes.
-
-VI.- En el procedimiento administrativo serán admisibles toda clase de pruebas, excepto la confesional en tratándose de la autoridad, mientras no sean contrarias al derecho o a la moral.
-
-Los Órganos de Control Interno y las Contralorías Municipales, podrán acordar en todo tiempo, la práctica, ampliación o perfeccionamiento de cualquier diligencia, siempre que sea conducente para el conocimiento de la verdad sobre los puntos cuestionados.
-
-En la práctica de estas diligencias, los órganos de control interno o las Contralorías Municipales obrarán como estimen pertinente para obtener el mejor resultado de ellas, sin lesionar el derecho de las partes, oyéndolas y procurando siempre su igualdad procesal.
-
-VII.- Desahogados todos los medios probatorios y hechas las alegaciones de las partes, la autoridad deberá declarar cerrada la audiencia y turnar los autos para resolución la cual deberá emitirse a más tardar dentro de los cuarenta días hábiles siguientes, salvo que por la importancia del caso o lo voluminoso del expediente sea necesario más tiempo.
-
-Los Órganos de Control Interno o las Contralorías Municipales resolverán sobre la inexistencia o existencia de la responsabilidad, imponiendo en su caso las sanciones administrativas correspondientes.
-
-VIII.- La resolución deberá ser notificada dentro de los cinco días hábiles siguientes, de manera personal y mediante oficio entregado por mensajero o correo certificado, con acuse de recibo; mediante telefax, medios electrónicos o cualquier otro medio, cuando así lo haya aceptado expresamente el promovente y siempre que pueda comprobarse fehacientemente la recepción de los mismos, al interesado, a su jefe inmediato, al representante designado y al superior jerárquico.
-
-IX.- En cualquier momento del procedimiento, el Superior jerárquico a petición del Órgano de Control Interno o la Contraloría Municipal, podrá determinar la suspensión temporal de los presuntos responsables, de sus cargos, empleos o comisiones. La suspensión temporal no prejuzga sobre la responsabilidad que se impute. La determinación del Órgano de Control Interno o de la Contraloría Municipal hará constar expresamente ésta salvedad.
-
-La suspensión temporal a que se refiere el párrafo anterior, suspenderá los efectos del acto que haya dado origen a la ocupación del empleo, cargo o comisión, y regirá desde el momento en que sea notificada al interesado o éste quede enterado de la resolución por cualquier medio. La suspensión cesará cuando así lo resuelvan los Órganos de Control Interno o las Contralorías Municipales, independientemente de la continuación o conclusión del procedimiento a que se refiere el presente artículo en relación con la presunta responsabilidad de los servidores públicos.
-
-Si el servidor público suspendido temporalmente no resultare responsable de la falta que se le imputa, será restituido en el goce de sus derechos y se le cubrirán las percepciones que debiera percibir durante el tiempo en que se encontró suspendido. Si la suspensión hubiera sido hecha pública en los medios de comunicación y la resolución determina que no existe responsabilidad del imputado, corresponderá al Órgano de Control Interno o a la Contraloría Municipal hacer pública tal circunstancia, dejando a salvo los derechos del imputado para que proceda de acuerdo a la ley, y
-
-X.- Se requerirá autorización del Gobernador del Estado para la suspensión a que se refiere la fracción anterior, si el nombramiento del servidor público de que se trate incumbe al titular del Poder Ejecutivo; igualmente se requerirá autorización del Congreso Local o en su caso de la Comisión Permanente, si dicho nombramiento requirió ratificación de éste, o bien el nombramiento fue hecho por la autoridad legislativa en los términos de la Constitución Política del Estado y del Ayuntamiento si el nombramiento del servidor público está dentro de las facultades de éste.
-
-Al procedimiento de responsabilidad administrativa sólo tienen acceso las partes y, por ende, su publicidad será hecha conforme a la ley de la materia.
+(DEROGADO POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 191 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS, P.O. 16 DE JULIO DE 2017)
 
 ###### ARTICULO 64o.
 
-En los procedimientos que se sigan para la investigación y aplicación de sanciones ante los órganos de control interno de las dependencias, organismos, entidades y Ayuntamientos, se observará en cuanto sea aplicable a las reglas contenidas en el Artículo anterior.
+(DEROGADO POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 191 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS, P.O. 16 DE JULIO DE 2017)
 
 ###### ARTICULO 65o.
 
-Se levantará acta circunstanciada de todas las diligencias que se practiquen, que suscribirán quienes intervengan en ellas, apercibidos de las sanciones en que incurran quienes falten a la verdad.
+(DEROGADO POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 191 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS, P.O. 16 DE JULIO DE 2017)
 
 ###### ARTICULO 66o.
 
-El titular de la dependencia, organismo, entidad así como del Ayuntamiento, podrá designar un representante que participe en las diligencias, dándose vista de todas las actuaciones a aquellas en que el presunto responsable preste sus servicios.
+(DEROGADO POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 191 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS, P.O. 16 DE JULIO DE 2017)
 
 ###### ARTICULO 67o.
 
-Las resoluciones y acuerdos de la Secretaría y de las dependencias, organismos y entidades durante el procedimiento a que se refiere este Capítulo, constarán por escrito, y se asentarán en el registro respectivo, que comprenderá las secciones correspondientes a los procedimientos disciplinarios y a las sanciones impuestas entre ellas en todo caso, la de inhabilitación.
-
-Los Ayuntamientos procederán en lo conducente.
+(DEROGADO POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 191 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS, P.O. 16 DE JULIO DE 2017)
 
 ###### ARTICULO 68o.
 
-La Secretaría expedirá constancias que acrediten la no existencia de registro de inhabilitación, que serán exhibidas, para los efectos pertinentes, por las personas requeridas para desempeñar un empleo, cargo o comisión en el servicio público.
-
-Lo dispuesto en el párrafo anterior, es aplicable a los Ayuntamientos.
+(DEROGADO POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 191 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS, P.O. 16 DE JULIO DE 2017)
 
 ###### ARTICULO 69o.
 
-Los sujetos sancionados podrán impugnar ante el Tribunal de lo Contencioso Administrativo las resoluciones administrativas por las que se les impongan las sanciones a que se refiere este Capítulo. Las resoluciones anulatorias dictadas por ese Tribunal, que causen ejecutoria, tendrán el efecto de restituír al servidor público en el goce de los derechos de que hubiese sido privado por la ejecución de las sanciones anuladas, sin perjuicio de lo que establecen otras leyes.
+(DEROGADO POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 191 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS, P.O. 16 DE JULIO DE 2017)
 
 ###### ARTICULO 70o.
 
-Las resoluciones que dicte el superior jerárquico en las que imponga sanciones administrativas, podrán ser impugnadas por el servidor público ante la propia autoridad mediante el recurso de revocación, que se interpondrá dentro de los quince días siguientes a la fecha en que surta efecto de la notificación de la resolución recurrida.
-
-La tramitación del recurso se sujetará a las normas siguientes
-
-I.- Se iniciará mediante escrito en el que deberán expresarse los agravios que a juicio del servidor público le cause la resolución, acompañando copia de éste y constancia de las notificaciones de la misma, así como la proposición de las pruebas que considere necesario rendir;
-
-II.- La autoridad acordará sobre la admisibilidad del recurso y de las pruebas ofrecidas, desechando de plano las que no fuesen idóneas para desvirtuar los hechos en que se base la resolución.
-
-Las pruebas admitidas se desahogarán en un plazo de cinco días, que a solicitud del servidor público o de la autoridad, podrá ampliarse una sola vez por cinco días más; y
-
-III.- Concluído el período probatorio, en el acto, o dentro de los 3 días siguientes, notificándolo al interesado.
+(DEROGADO POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 191 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS, P.O. 16 DE JULIO DE 2017)
 
 ###### ARTICULO 71o.
 
-La interposición del recurso suspenderá la ejecución de la resolución recurrida, si lo solicita el promovente, conforme a estas reglas:
-
-I.- Tratándose de sanciones económicas, si el pago de éstas se garantiza en los términos que prevenga la Ley General de Hacienda del Estado y el Código Fiscal Municipal; y
-
-II.- Tratándose de otras sanciones, se concederá la suspensión si concurren los siguientes requisitos:
-
-a).- Que se admita el recurso;
-
-b).- Que la ejecución de la resolución recurrida produzca daños o perjuicios de imposible reparación en contra del recurrente; y
-
-c).- Que la suspensión no traiga como consecuencia la consumación o continuación de actos u omisiones que impliquen perjuicios al interés social o al servicio público.
+(DEROGADO POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 191 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS, P.O. 16 DE JULIO DE 2017)
 
 ###### ARTICULO 72o.
 
-El servidor público afectado por las resoluciones administrativas de la Secretaría o del Ayuntamiento podrá optar entre interponer el recurso de revocación o impugnarla ante el Tribunal de lo Contencioso Administrativo.
-
-La resolución que se dicte en el recurso de revocación será también impugnado ante el Tribunal de lo Contencioso Administrativo.
+(DEROGADO POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 191 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS, P.O. 16 DE JULIO DE 2017)
 
 ###### ARTICULO 73o.
 
-Las resoluciones absolutorias que dicte el Tribunal de lo Contencioso Administrativo del Estado, podrán ser impugnadas por la Secretaría, el superior jerárquico y por los Ayuntamientos.
+(DEROGADO POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 191 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS, P.O. 16 DE JULIO DE 2017)
 
 ###### ARTICULO 74o.
 
-La ejecución de las sanciones administrativas impuestas en resolución firme, se llevará a cabo de inmediato en los términos que disponga la resolución. La suspensión, destitución o inhabilitación que se imponga a los servidores públicos de confianza, surtirán efectos al notificarse la resolución y se considerará de orden público.
-
-Tratándose de los servidores públicos de base, la suspensión y la destitución se sujetará a lo previsto en la ley correspondiente.
-
-Las sanciones económicas que se impongan constituirán créditos fiscales a favor del erario estatal o municipal en su caso, se harán efectivos mediante el procedimiento económico-coactivo de ejecución, tendrán la prelación prevista para dichos créditos y se sujetarán en todo a las disposiciones fiscales aplicables a esta materia.
+(DEROGADO POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 191 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS, P.O. 16 DE JULIO DE 2017)
 
 ###### ARTICULO 75o.
 
-Si el servidor público presunto responsable confesare su responsabilidad por el incumplimiento de las obligaciones a que hace referencia la presente Ley, se procederá de inmediato a dictar resolución, a no ser que quien conozca del procedimiento disponga la recepción de pruebas para acreditar la veracidad de la confesión. En caso de que se acepte la plena validen (sic) probatoria de la confesión, se impondrá al interesado dos tercios de la sanción aplicable, si es de naturaleza económica, pero en lo que respecte a indemnización, ésta en todo caso deberá ser suficiente para cubrir los daños y perjuicios causados, y siempre deberá restituírse cualquier bien o producto que se hubiere percibido con motivo de la infracción. Quedará a juicio de quien resuelva, disponer o no la suspensión, separación o inhabilitación.
+(DEROGADO POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 191 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS, P.O. 16 DE JULIO DE 2017)
 
 ###### ARTICULO 76o.
 
-Para el cumplimiento de las atribuciones que le confiere esta Ley, la Secretaría y el Ayuntamiento podrán emplear los siguientes medios de apremio:
-
-I.- Sanción económica de hasta veinte veces el salario mínimo diario vigente en la zona económica respectiva; y
-
-II.- Auxilio de la fuerza pública.
-
-Si existe resistencia al mandamiento legítimo de autoridad, se estará a lo que prevenga la legislación penal.
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+(DEROGADO POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 191 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS, P.O. 16 DE JULIO DE 2017)
 
 ###### ARTICULO 77o.
 
-Las facultades del superior jerárquico, de la Secretaría, los Órganos de Control Interno y de los Ayuntamientos para imponer las sanciones que esta Ley prevé, se sujetarán a lo siguiente:
-
-l. Prescribirán en un año si el beneficio obtenido o el daño causado por el infractor no excede de diez veces el salario mínimo diario vigente en la zona económica respectiva o si la responsabilidad no causara daños al erario público. El plazo de prescripción se contará a partir del día siguiente a aquel en que hubiera incurrido en la responsabilidad o a partir del momento en que hubiese cesado, si fue de carácter continuo; y
-
-II. En los demás casos prescribirán en tres años.
-
-En todo caso, la prescripción se interrumpirá si se da inicio al procedimiento administrativo previsto en el artículo 63.
+(DEROGADO POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 191 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS, P.O. 16 DE JULIO DE 2017)
 
 ## TÍTULO CUARTO
 
@@ -1122,3 +816,19 @@ El presente decreto entrará en vigor al día de su publicación en el Periódic
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al contenido del presente.
+
+P.O. 16 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 191.- POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 19 de julio de 2017, previa publicación en el Periódico Oficial de (sic) Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos administrativos que se encuentren en trámite al momento que entre en vigor el presente decreto, se sujetarán a las disposiciones contenidas en la Ley de Responsabilidades de los Servidores Públicos del Estado y sus Municipios, hasta su total conclusión.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
