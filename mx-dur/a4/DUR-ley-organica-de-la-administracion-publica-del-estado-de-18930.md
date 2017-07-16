@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-administracion-publica-del-estado-de-18930"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-24"
-last_updated: "2017-05-11"
+last_updated: "2017-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2017.
 
 Ley publicada en Periódico Oficial del Estado de Durango, el domingo 24 de diciembre de 2000.
 
@@ -119,7 +119,7 @@ El Gobernador, mediante acuerdo administrativo podrá determinar que las depende
 
 Además de las atribuciones establecidas en el artículo 70 de la Constitución Política del Estado Libre y Soberano de Durango, en materia de administración pública, el Gobernador del Estado tendrá las siguientes facultades:
 
-I. Conducir y coordinar la planeación para el desarrollo del Estado y elaborar, con la participación de los grupos sociales, organismos interesados y los demás órdenes de gobierno, el Plan Estatal de Desarrollo, bajo el .enfoque de una gestión basada en resultados en el cual la planeación, programación, presupuestación, ejecución y evaluación se unen en un proceso integrado;
+I. Conducir y coordinar la planeación para el desarrollo del Estado y elaborar, con la participación de los grupos sociales, organismos interesados y los demás órdenes de gobierno, el Plan Estatal de Desarrollo, bajo el enfoque de una gestión basada en resultados en el cual la planeación, programación, presupuestación, ejecución y evaluación se unen en un proceso integrado;
 
 II. Tomar la protesta de los titulares de las dependencias y entidades y de los Subsecretarios y Directores de la Administración Pública Estatal, cuando se considere necesario;
 
@@ -1439,7 +1439,9 @@ VIII. Intervenir en las ventas, remates y donaciones de los bienes muebles e inm
 
 IX. Llevar a cabo la evaluación sistemática del ejercicio de los recursos, propiedad del Gobierno del Estado, y de aquellos que por cualquier concepto tenga bajo su responsabilidad;
 
-X. Informar periódicamente al Ejecutivo del Estado, sobre el resultado de la evaluación, respecto de la gestión de las dependencias y entidades de la administración pública estatal; así como de aquellas que hayan sido objeto de fiscalización, e informar a las autoridades competentes, cuando proceda, del resultado de tales intervenciones y, en su caso, dictar las acciones que deban desarrollarse para corregir las irregularidades detectadas;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
+
+X. Informar periódicamente al Consejo Coordinador del Sistema Local Anticorrupción, así como al Ejecutivo del Estado, sobre el resultado de la evaluación, respecto de la gestión de las dependencias y entidades de la administración pública estatal; así como de aquellas que hayan sido objeto de fiscalización, e informar a las autoridades competentes, cuando proceda, del resultado de tales intervenciones y, en su caso, promover ante las autoridades competentes las acciones que procedan para corregir las irregularidades detectadas;
 
 > <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
 
@@ -1463,6 +1465,10 @@ XVI. Designar a los auditores externos de las entidades, así como normar y cont
 
 XVII. Designar, reubicar y remover a los titulares y servidores públicos de los órganos internos de control de las dependencias y entidades de la administración pública estatal, así como a los de las áreas de auditoría, quejas y responsabilidades de tales órganos, quienes dependerán jerárquica y funcionalmente de la Secretaría de Contraloría, tendrán el carácter de autoridad y realizaran la defensa jurídica que emitan en la esfera administrativa y ante los tribunales federales y estatales, representando al titular de dicha Secretaría, previo poder otorgado por el mismo;
 
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2017)</small>
+
+Los titulares de los órganos internos de control de las dependencias y entidades de la Administración Pública Estatal y de sus áreas de auditoría, quejas y responsabilidades, serán responsables de mantener el control interno de la dependencia o entidad a la que se encuentren adscritos. Asimismo, tendrán como función apoyar la política de control interno y la toma de decisiones relativas al cumplimiento de los objetivos y políticas institucionales, así como al óptimo desempeño de servidores públicos y órganos, a la modernización continua y desarrollo eficiente de la gestión administrativa y al correcto manejo de los recursos públicos.
+
 > <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
 
 XVIII. Operar el sistema estatal de inconformidades, quejas y denuncias, promoviendo la participación ciudadana para que exponga las quejas, denuncias e inconformidades que se deriven de las irregularidades de la actuación del servidor público, así como las deficiencias que detecte en el servicio público;
@@ -1471,7 +1477,9 @@ XIX. Conocer y resolver las inconformidades y recursos presentados por los parti
 
 XX. Vigilar la correcta aplicación de la Ley de Responsabilidades de los Servidores Públicos del Estado y los Municipios, y aplicar las sanciones administrativas que le correspondan;
 
-XXI. Conocer e investigar las conductas de los servidores públicos, que puedan constituir responsabilidades administrativas y, en su caso, iniciar el procedimiento correspondiente y determinar y aplicar las sanciones que correspondan en los términos de Ley; así mismo, deberá presentar las denuncias respectivas ante el Ministerio Público, en los casos que proceda;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
+
+XXI. Conocer e investigar las conductas de los servidores públicos de la Administración Pública Estatal que puedan constituir responsabilidades administrativas, así como substanciar los procedimientos correspondientes conforme a lo establecido en la Ley General de Responsabilidades Administrativas, por sí, o por conducto de los órganos internos de control que correspondan a cada área de la Administración Pública Estatal; para lo cual podrán aplicar las sanciones que correspondan en los casos que no sean de la competencia del Tribunal de Justicia Administrativa del Estado de Durango y, cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante ese Tribunal; así como presentar las denuncias correspondientes ante la Fiscalía Especializada en Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones aplicables;
 
 XXII. Operar el control de los avances físicos y financieros de los programas de inversión convenidos entre los gobiernos federal, estatal y municipal;
 
@@ -1485,7 +1493,9 @@ XXV. (DEROGADA, P.O. 9 DE ABRIL DE 2013)
 
 XXVI. Vigilar la exacta y adecuada observancia de las Leyes que rijan en materia de adquisiciones y obras públicas;
 
-XXVII. Proponer y establecer las medidas que considere necesarias para prevenir y combatir la corrupción; y
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
+
+XXVII. Proponer y establecer las medidas que considere necesarias para prevenir y combatir la corrupción, así como establecer mecanismos internos para la Administración Pública Estatal que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas;
 
 > <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
 
@@ -1543,9 +1553,9 @@ XL. Emitir lineamientos, manuales, circulares y demás disposiciones legales que
 
 XLI. Coordinar y supervisar la evaluación del desempeño de las dependencias y entidades de la administración pública estatal;
 
-> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
 
-XLII. Evaluar los recursos públicos en los programas y acciones de la administración pública estatal para verificar su adecuada aplicación de conformidad con las disposiciones legales;
+XLII. Ejercer las facultades que la Constitución Federal le otorga a los órganos internos de control para revisar, mediante las auditorías a que se refiere el presente artículo, el ingreso, manejo, custodia y ejercicio de recursos públicos estatales;
 
 > <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2013)</small>
 
@@ -1559,9 +1569,29 @@ XLIV. Emitir exhortos, recomendaciones y apercibimientos a los servidores públi
 
 XLV. Operar y coordinar los sistemas o líneas estratégicas que en el ámbito de sus atribuciones implemente, con la finalidad de fortalecer las acciones de fiscalización, legalidad, eficiencia administrativa, transparencia, rendición de cuentas y contraloría social; y
 
-> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
 
-XLVI. Las demás que le encomiende el Ejecutivo del Estado o le señalen las leyes, Reglamentos y demás normatividad aplicable.
+XLVI. Formular y conducir en apego y de conformidad con las bases de coordinación que establezca el Consejo Coordinador del Sistema Local Anticorrupción, la política general de la Administración Pública Estatal para el combate a la corrupción así como establecer acciones que propicien la integridad y la transparencia en la gestión pública, la rendición de cuentas y el acceso por parte de los particulares a la información que aquélla genere; así como promover dichas acciones hacia la sociedad;
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2017)</small>
+
+XLVII. Emitir el Código de Ética de los servidores públicos del Poder Ejecutivo y las Reglas de Integridad para el ejercicio de la función pública, conforme los lineamientos que emita el Sistema Nacional Anticorrupción;
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2017)</small>
+
+XLVIII.- Supervisar la ejecución de los procedimientos de contratación pública por parte de los contratantes para garantizar que se lleva a cabo en los términos de las disposiciones en la materia, llevando a cabo las verificaciones procedentes si descubren anomalías;
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2017)</small>
+
+XLIX.- Fungir como integrante del Sistema Nacional de Fiscalización en términos de la legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2017)</small>
+
+L.- Coordinar y supervisar el sistema de control interno, establecer las bases generales para la realización de auditorías internas, transversales y externas; expedir las normas que regulen los instrumentos y procedimientos en dichas materias en las dependencias y entidades de la Administración Pública Estatal, así como realizar las auditorías que se requieran en éstas, en sustitución o apoyo de sus propios órganos internos de control;
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2017)</small>
+
+LI.- Las demás que le encomiende el Ejecutivo del Estado o le señalen las leyes, Reglamentos y demás normatividad aplicable.
 
 > <small>(ADICIONADO, P.O. 13 DE JULIO DE 2008)</small>
 
@@ -2576,3 +2606,15 @@ P.O. 11 DE MAYO DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 192.- POR EL QUE SE REFORMA EL ARTICULO 36 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE DURANGO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango, sin perjuicio de lo establecido en la Ley General de Responsabilidades Administrativas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
