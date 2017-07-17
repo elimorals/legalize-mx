@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5863
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-29"
-last_updated: "2017-07-13"
+last_updated: "2017-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58630&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2007-12-20"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE JULIO DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de enero de 2008.
 
@@ -259,6 +259,52 @@ VII. Violencia Institucional: Son los actos u omisiones de las personas con cali
 > <small>(ADICIONADA, G.O. 13 DE JULIO DE 2017)</small>
 
 VIII. Violencia mediática contra las mujeres: Aquella publicación o difusión de mensajes e imágenes estereotipados a través de cualquier medio de comunicación local, que de manera directa o indirecta promueva la explotación de mujeres o sus imágenes, injurie, difame, discrimine, deshonre, humille o atente contra la dignidad de las mujeres, como así también la utilización de mujeres, adolescentes y niñas en mensajes e imágenes pornográficas, legitimando la desigualdad de trato o construya patrones socioculturales reproductores de la desigualdad o generadores de violencia contra las mujeres.
+
+> <small>(ADICIONADA, G.O. 17 DE JULIO DE 2017)</small>
+
+IX. Violencia Política en Razón de Género: Es toda acción u omisión ejercida en contra de una mujer, en el ámbito político o público, que tenga por objeto o resultado sesgar, condicionar, impedir, restringir, suspender, menoscabar, anular, obstaculizar, excluir o afectar el reconocimiento, acceso, goce o ejercicio de los derechos político electorales de una mujer, así como el acceso al pleno ejercicio de las atribuciones inherentes a su cargo o función en el poder público.
+
+Se manifiesta en presión, persecución, hostigamiento, acoso, coacción, vejación, discriminación, amenazas o privación de la libertad o de la vida en razón del género.
+
+Se consideran actos de violencia política en contra de las mujeres, entre otros, los siguientes:
+
+a) Obligar, instruir o coaccionar a realizar u omitir actos diferentes a las funciones y obligaciones de su cargo, establecidas en los ordenamientos jurídicos, incluyendo aquellos motivados por los roles o estereotipos de género;
+
+b) Ejercer cualquier tipo de violencia señalada en la presente Ley, en contra de las mujeres, de sus familiares o personas cercanas, con el fin de sesgar, condicionar, impedir, acotar o restringir la participación y representación política y pública, así como la toma de decisiones en contra de su voluntad o contrarias al interés público;
+
+c) Coartar o impedir el ejercicio de la participación, representación y facultades inherentes a los cargos públicos y políticos de las mujeres, o bien coartar e impedir aquellas medidas establecidas en la Constitución y los ordenamientos jurídicos dirigidas a proteger sus derechos frente a los actos que violenten o eviten el ejercicio de su participación y representación política y pública, incluyendo la violencia institucional;
+
+d) Proporcionar información falsa, errónea o imprecisa que induzca al inadecuado ejercicio de sus funciones político-públicas;
+
+e) Impedir o excluir de la toma de decisiones o del derecho a voz y voto, a través del engaño o la omisión de notificación de actividades inherentes a sus facultades o a la participación y representación política y pública;
+
+f) Proporcionar información o documentación incompleta o errónea con el objeto de impedir el ejercicio pleno de los derechos político electorales o inducir al ejercicio indebido de sus atribuciones o facultades;
+
+g) Ocultar información o documentación con el objeto de limitar o impedir el ejercicio de sus derechos político-electorales o inducir al ejercicio indebido de sus atribuciones;
+
+h) Proporcionar o difundir información con la finalidad de impedir o limitar el ejercicio de los derechos político-electorales o impedir el ejercicio de sus atribuciones o facultades;
+
+i) Obstaculizar o impedir el ejercicio de licencias o permisos justificados a los cargos públicos a los cuales fueron nombradas o electas, así como la reincorporación posterior;
+
+j) Restringir total o parcialmente, por cualquier medio o mecanismo, el ejercicio de los derechos de voz y voto de las mujeres, que limiten o impidan las condiciones de igualdad respecto de los hombres para el ejercicio de la función y representación política y pública;
+
+k) Acosar u hostigar mediante la acusación o la aplicación de sanciones sin motivación o fundamentación, que contravengan las formalidades, el debido proceso y la presunción de inocencia, con el objetivo o resultado de impedir o restringir el ejercicio de los derechos político-electorales;
+
+l) Realizar cualquier acto de discriminación que tenga como resultado impedir, negar, anular o menoscabar el ejercicio de sus derechos político-electorales;
+
+m) Publicar o revelar información personal, privada o falsa, o bien difundir imágenes, información u opiniones con sesgos basados en los roles y estereotipos de género a través de cualquier medio, con o sin su consentimiento, que impliquen difamar, desprestigiar o menoscabar la credibilidad, capacidad y dignidad humana de las mujeres, con el objetivo o resultado de obtener su remoción, renuncia o licencia al cargo electo o en ejercicio;
+
+n) Espiar o desprestigiar a las mujeres a través de los medios de comunicación con el objetivo o resultado de impedir o restringir el ejercicio de los derechos político-electorales;
+
+o) Obligar, intimidar, o amenazar a las mujeres para que suscriban documentos, colaboren en proyectos o adopten decisiones en contra de su voluntad o del interés público, en función de su representación política;
+
+p) Proporcionar información incompleta, falsa o errónea de los datos personales de las mujeres candidatas a cargos de elección popular, ante el Instituto Nacional Electoral o los Organismos Públicos Locales Electorales, con la finalidad de impedir, obstaculizar o anular sus registros a las candidaturas;
+
+q) Impedir o restringir su incorporación, de toma de protesta o acceso al cargo o función para el cual ha sido nombrada, electa o designada.
+
+r) Impedir u obstaculizar los derechos de asociación y afiliación en los partidos políticos en razón de género; y
+
+s) Cualquier otro que tenga por objeto o resultado coartar los derechos político-electorales, incluyendo los motivados en razón de sexo o género.
 
 ## TITULO TERCERO. DE LA DECLARATORIA DE ALERTA Y MEDIDAS POR VIOLENCIA CONTRA LAS MUJERES
 
@@ -1357,6 +1403,14 @@ SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su conoc
 G.O. 13 DE JULIO DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL DISTRITO FEDERAL."]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 17 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL DISTRITO FEDERAL”.]
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
 
