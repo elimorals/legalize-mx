@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-pabellon-de-arteaga-aguascalientes-44638"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-04-18"
-last_updated: "2017-07-03"
+last_updated: "2017-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2017.
 
 Código publicado en el Periódico Oficial del estado de Aguascalientes, el lunes 18 de abril de 2005.
 
@@ -2261,7 +2261,9 @@ IX.- Contraloría Municipal;
 
 X.- Sistema para el Desarrollo Integral de la Familia;
 
-XI.- Instancia Municipal de las Mujeres, y
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2017)</small>
+
+XI.- Instituto Pabellonense de las Mujeres.
 
 XII.- Subdelegación del INAPAM.
 
@@ -2405,11 +2407,15 @@ d).- Coordinación de Programas;
 
 e).- Coordinación de Servicios Médicos y Salud Menta (sic);
 
-XI.- Instancia Municipal de las Mujeres:
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2017)</small>
 
-a).- Coordinación;
+XI.- Instituto Pabellonense de las Mujeres:
 
-b).- Coordinación Operativa;
+a).- Dirección;
+
+b).- Coordinación de Programas, y
+
+c).- Coordinación Operativa.
 
 XII.- Subdelegación del INAPAM
 
@@ -3465,11 +3471,15 @@ XXXVII.- Lo demás que señalen la Ley, el presente Código o le encomiende el H
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-#### SECCIÓN DÉCIMA. De la Instancia Municipal de las Mujeres
+#### SECCIÓN DÉCIMA. Del Instituto Pabellonense de las Mujeres
 
-> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2017)</small>
 
-ARTICULO 222 BIS.- Corresponde a la Instancia Municipal de las Mujeres:
+ARTICULO 222 BIS.- El Instituto Pabellonense de las Mujeres es un organismo municipal descentralizado con personalidad jurídica y patrimonio propio.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2017)</small>
+
+ARTICULO 222 BIS A.- Corresponde al Instituto Pabellonense de las Mujeres:
 
 I.- Proponer programas y proyectos orientados a promover el desarrollo integral de las mujeres en el ámbito laboral, educativo, económico, social y cultural en coordinación con las Instancias Federal y Estatal, sectores privados y organizaciones de la sociedad civil;
 
@@ -3477,7 +3487,7 @@ II.- Impulsar la creación de fuentes de empleo y el financiamiento de créditos
 
 III.- Impulsar la profesionalización de las mujeres y el acceso a programas sociales, educativos, deportivos y culturales en la Administración Pública Municipal;
 
-IV.- Ejecutar los programas que implemente el Instituto Estatal de la Mujer y sean transferidos al municipio:
+IV.- Ejecutar los programas que implemente el Instituto Estatal de la Mujer y sean transferidos al municipio;
 
 V.- Participar en los programas y acciones que emprendan las Instancias Federal y Estatal en materia de combate a la pobreza, discriminación, migración, trata de personas, violencia y exclusión de las mujeres, en las comunidades rurales;
 
@@ -3491,9 +3501,51 @@ IX.- Elaborar el Programa Municipal de Atención y Participación de las Mujeres
 
 X.- Capacitar en materia de género, derechos humanos de las mujeres y violencia familiar, a las servidoras y servidores públicos de las dependencias municipales;
 
-XI.- Brindar orientación a las Mujeres que así lo requieran, por haber sido víctimas de violencia, maltrato o cualquier otra afección tendiente a discriminarlas; y
+XI.- Brindar orientación a las Mujeres que así lo requieran, por haber sido víctimas de violencia, maltrato o cualquier otra afección tendiente a discriminarlas;
 
-XII.- Lo demás que señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal o le sean delegadas por las instancias federal o estatal.
+XII.- Promover la perspectiva de género, mediante la participación de las mujeres en la toma de decisiones respecto al diseño de los planes y programas del Gobierno Municipal;
+
+XIII.- Coadyuvar, con el Municipio, para diseñar el programa operativo anual en el apartado relativo a las acciones gubernamentales a favor de las mujeres;
+
+XIV.- Fungir como órgano de apoyo del Ayuntamiento en lo referente a las mujeres y la equidad de género;
+
+XV.- Promover la celebración de convenios con perspectiva de género entre el Ayuntamiento y otras autoridades que coadyuven en el logro de sus objetivos;
+
+XVI.- Coordinar, entre el Municipio y el Gobierno del Estado, la elaboración de estudios y diagnósticos sobre la mujer, a fin de intercambiar datos, estadísticas y registros;
+
+XVII.- Promover la capacitación y actualización de servidores públicos;
+
+XVIII.- Promover ante las autoridades del sector salud, los servicios integrales, cálidos y oportunos; antes, durante y después del embarazo, así como promover campañas de prevención y atención al cáncer de mama y cervicouterino, VIH/SIDA, infecciones de trasmisión sexual y aquellas que registren mayores índices de morbi-mortalidad en el municipio;
+
+XIX.- Impulsar la realización de programas de atención para la mujer de la tercera edad y otros grupos vulnerables;
+
+XX.- Promover, ante la instancia que corresponda, las modificaciones pertinentes a la legislación estatal o a la reglamentación municipal, a fin de asegurar el marco jurídico que garantice la igualdad de oportunidades en materia de educación, salud, capacitación, ejercicio de derechos, trabajo y remuneración;
+
+XXI.- Coadyuvar en el combate y eliminación de todas las formas de violencia de género, especialmente la ejercida en contra de la mujer y la violencia familiar;
+
+XXII.- Diseñar los mecanismos para el cumplimiento y vigilancia de las políticas de apoyo a la participación ciudadana de las mujeres en los diversos ámbitos del desarrollo municipal;
+
+XXIII.- Promover una cultura social de respeto a los derechos humanos y la dignidad de las mujeres y los hombres, que tienda a eliminar los estereotipos de género;
+
+XXIV.- Promover el estudio e investigación de las causas sociales de la violencia por razón de género, Y
+
+XXV.- Lo demás que señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal o le sean delegadas por las instancias federal o estatal.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2017)</small>
+
+ARTICULO 222 BIS B.- El patrimonio del Instituto estará integrado por:
+
+I.- La partida que se establezca en el Presupuesto de Egresos del Municipio para el Ejercicio Fiscal que corresponda;
+
+II.- Los bienes muebles, inmuebles, obras, servicios, derechos y obligaciones que le asignen y transmitan, en su caso, los Gobiernos Federal, Estatal y Municipales o cualquier otra entidad pública;
+
+III.- Las donaciones, herencias, legados y aportaciones que le otorgan los particulares o cualquier institución pública o privada;
+
+IV.- Los fondos públicos o privados obtenidos para el financiamiento de programas específicos;
+
+V.- Las acciones, derechos o productos que adquiera por cualquier otro título lega (sic), Y
+
+VI.- Los demás bienes, servicios, derechos y aprovechamientos que fijen las Leyes y Reglamentos o que provengan de otros fondos o aportaciones.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
@@ -3685,7 +3737,7 @@ X.- Lo demás que señale la Ley o el H. Ayuntamiento por conducto del President
 
 XI.- (DEROGADA, P.O. 12 DE SEPTIEMBRE DE 2016)
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE JULIO DE 2017)</small>
 
 #### SECCION SEGUNDA. Del Consejo Consultivo
 
@@ -24672,3 +24724,19 @@ El presente acuerdo de adiciones al Código Municipal de Pabellón de Arteaga, A
 ###### ARTÍCULO SEGUNDO.
 
 Los establecimientos que actualmente operan en el municipio con licencia ordinaria tramitarán su licencia especial a partir del año 2018, para lo cual durante el presente año de 2017 deberán ir recabando los requisitos establecidos en la presente reforma. Los nuevos establecimientos, así como aquellos que no cuentan con licencia deberán ajustarse a la presente reforma a partir de su entrada en vigor.
+
+P.O. 17 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA "REFORMA AL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente acuerdo de reformas y adiciones al Código Municipal de Pabellón de Arteaga, Ags., entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Instituto Pabellonense de las Mujeres deberá instalarse dentro de los treinta días hábiles siguientes a la publicación del presente acuerdo.
+
+###### ARTÍCULO TERCERO.
+
+El Ayuntamiento, en sesión de Cabildo y dentro del plazo establecido en el artículo transitorio anterior, nombrará a la Directora del Instituto Pabellonense de las Mujeres, a propuesta del Presidente Municipal.
