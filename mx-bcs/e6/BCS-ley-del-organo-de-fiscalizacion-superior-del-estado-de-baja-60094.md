@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-organo-de-fiscalizacion-superior-del-estado-de-baja-600
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-10"
-last_updated: "2016-10-31"
+last_updated: "2017-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # LEY DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADA EN EL B.O. DE 17 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 17 DE JULIO DE 2017 (ABROGADA).
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de marzo de 2008.
 
@@ -1090,3 +1092,31 @@ B.O. 31 DE OCTUBRE DE 2016.
 PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO: El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
+
+B.O. 17 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 2462.- SE EXPIDE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE BAJA CALIFORNIA SUR."]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur, sin perjuicio de lo previsto en los transitorios siguientes.
+
+SEGUNDO.- Las referencias, remisiones o contenidos del presente Decreto que estén vinculados con la aplicación de la Ley del Sistema Anticorrupción del Estado de Baja California Sur, de la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur y de las nuevas facultades del Tribunal de Justicia Administrativa del Estado de Baja California Sur, entrarán en vigor cuando dichos ordenamientos se encuentren vigentes.
+
+TERCERO.- Se abroga la Ley del Órgano de Fiscalización Superior del Estado de Baja California Sur, publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur, de fecha 10 de marzo de 2008 y se derogan todas las disposiciones legales que contravengan o se opongan a la presente Ley, sin perjuicio de los transitorios siguientes.
+
+CUARTO.- Los procedimientos administrativos iniciados de conformidad con la Ley del Órgano de Fiscalización Superior del Estado de Baja California Sur que se encuentren en trámite o pendientes de resolución a la entrada en vigor de la presente Ley, se resolverán hasta su conclusión definitiva, en términos de la misma ley que se abroga, así como los que se deriven de las funciones de fiscalización y revisión hasta la Cuenta Pública del año 2017
+
+QUINTO.- Las funciones de fiscalización y revisión de la Auditoría Superior del Estado de Baja California Sur previstas en la presente Ley entrarán en vigor a partir de la Cuenta Pública del año 2018.
+
+SEXTO.- Las funciones de fiscalización y revisión para el ejercicio del año en curso y de ejercicios anteriores entrarán en vigor al día siguiente de la publicación del presente Decreto.
+
+SÉPTIMO.- La Auditoría Superior del Estado de Baja California Sur deberá aprobar y publicar su reglamento interior conforme a lo previsto en esta Ley, así como expedir o actualizar y, en su caso, publicar la normatividad que conforme a sus atribuciones deba expedir, en un plazo no mayor a 90 días naturales contados a partir de la vigencia de la presente Ley.
+
+OCTAVO.- En todas las disposiciones legales o administrativas, resoluciones, contratos, convenios o actos expedidos o celebrados con anterioridad a la vigencia de la Ley materia del presente Decreto, en que se haga referencia al Órgano de Fiscalización Superior del Estado de Baja California Sur, se entenderán referidos a la Auditoria Superior del Estado de Baja California Sur.
+
+NOVENO.- Todos los bienes, archivos y recursos presupuestales del Órgano de Fiscalización Superior del Estado de Baja California Sur, pasarán a ser patrimonio de la Auditoria Superior del Estado de Baja California Sur quedando destinados y afectos a su servicio. La Auditoria Superior del Estado de Baja California Sur igualmente se subroga en todos los derechos y obligaciones de aquél.
+
+DÉCIMO.- Los trabajadores del Órgano de Fiscalización Superior del Estado de Baja California Sur se integrarán a la Auditoria Superior del Estado de Baja California Sur, por lo que sus derechos permanecerán vigentes y se regirán por las disposiciones legales y administrativas que les dieron origen.
+
+DÉCIMO PRIMERO.- El actual Titular del Órgano de Fiscalización Superior del Estado de Baja California Sur, pasa a ser Titular de la Auditoría Superior del Estado de Baja California Sur por un sólo periodo de siete años, contados a partir del inicio de vigencia del presente decreto y sin posibilidad de ser reelecto.
+
+DÉCIMO SEGUNDO.- Para efectos de las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, con respecto a las facultades y obligaciones a cargo de la Auditoría Superior del Estado de Baja California Sur, el Ejecutivo del Estado por conducto de la Secretaría de Finanzas y Administración, hará las adecuaciones presupuestales en el presente Ejercicio Fiscal mediante ampliación o movimientos compensados conforme a las disposiciones jurídicas aplicables y en su oportunidad, enviará la correspondiente iniciativa con proyecto de decreto mediante la que proponga modificaciones al Presupuesto de Egresos del Estado de Baja California Sur del presente Ejercicio Fiscal 2017.
