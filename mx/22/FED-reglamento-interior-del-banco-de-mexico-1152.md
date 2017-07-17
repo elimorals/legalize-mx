@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2017-03-06"
+last_updated: "2017-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE JULIO DE 2017.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -35,9 +35,9 @@ REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
 El ejercicio de las atribuciones que las leyes y las disposiciones reglamentarias confieran al Banco, así como el de las que su propia Ley otorga a la Junta de Gobierno, al Gobernador, o a la Comisión de Responsabilidades, se sujetará a lo dispuesto en este Reglamento.
 
-> <small>(ADICIONADO, D.O.F. 16 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2017)</small>
 
-El domicilio del Banco, para todos los efectos legales, incluyendo la práctica de cualquier clase de notificaciones, interpelaciones, citaciones, requerimientos, emplazamientos, actos de ejecución y solicitudes de información, por parte de autoridades aun de carácter judicial, es el de Avenida 5 de Mayo número 2, colonia Centro, código postal 06059, Delegación Cuauhtémoc, Distrito Federal. Sin perjuicio de lo anterior, el Banco a través de los funcionarios autorizados y apoderados, podrá designar lugares donde se encuentren oficinas del Banco para la realización de determinados actos y eventos.
+El domicilio del Banco, para todos los efectos legales, incluyendo la práctica de cualquier clase de notificaciones, interpelaciones, citaciones, requerimientos, emplazamientos, actos de ejecución y solicitudes de información, por parte de autoridades aun de carácter judicial, es el de Avenida 5 de Mayo número 2, colonia Centro, código postal 06000, Delegación Cuauhtémoc, Ciudad de México. Sin perjuicio de lo anterior, el Banco a través de los funcionarios autorizados y apoderados, podrá designar lugares donde se encuentren oficinas del Banco para la realización de determinados actos y eventos.
 
 ###### ARTICULO 2o.
 
@@ -171,13 +171,13 @@ Unidad de Transparencia
 
 Además de lo anterior, para el cumplimiento de los fines del fideicomiso público del Estado que establece el párrafo sexto del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos y la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, el Banco contará con una Coordinación Ejecutiva del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y una Coordinación Administrativa del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, que dependerán del Gobernador, así como de una Subcoordinación Ejecutiva del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, una Subcoordinación Jurídica del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y una Contraloría Interna del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, que dependerán de las unidades administrativas a que se refiere este Reglamento Interior. Las atribuciones encomendadas por este Reglamento a los titulares de las unidades administrativas mencionadas en este párrafo podrán ser ejercidas por ellos en forma individual.
 
-> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2017)</small>
 
-Las Direcciones Generales tendrán adscritas las Direcciones que señala el presente Reglamento. El Banco contará con una Secretaría de la Junta y una Dirección de Auditoría que dependerán de la propia Junta.
+Las Direcciones Generales tendrán adscritas las Direcciones que señala el presente Reglamento. El Banco contará con una Secretaría de la Junta y una Unidad de Auditoría que dependerán de la propia Junta.
 
-> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2017)</small>
 
-Los Directores Generales, el Secretario de la Junta, los Directores y el titular de la Unidad de Transparencia, se auxiliarán en el cumplimiento de sus funciones de los Gerentes, Cajeros Regionales, Subgerentes, Jefes de División, de Departamento, de Oficina y por los demás empleados, previstos en la estructura correspondiente. Asimismo, las Direcciones Generales, las Direcciones y la Unidad de Transparencia, podrán tener adscritas unidades de informática conforme a lo que se establezca en el Acuerdo de Adscripción de las Unidades Administrativas del Banco de México.
+Los Directores Generales, el Secretario de la Junta, los Directores y los titulares de las Unidades de Transparencia y Auditoría se auxiliarán en el cumplimiento de sus funciones de los Gerentes, Cajeros Regionales, Subgerentes, Jefes de División, de Departamento, de Oficina y por los demás empleados, previstos en la estructura correspondiente. Asimismo, las Direcciones Generales, las Direcciones y las Unidades de Transparencia y Auditoría, podrán tener adscritas unidades de informática conforme a lo que se establezca en el Acuerdo de Adscripción de las Unidades Administrativas del Banco de México.
 
 > <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2009)</small>
 
@@ -227,13 +227,13 @@ II. Ser de reconocida probidad y contar con excelente reputación y honorabilida
 
 III. No haber sido sentenciado por delitos intencionales; inhabilitado para ejercer el comercio o para desempeñar un empleo, cargo o comisión, en el servicio público o en el sistema financiero mexicano.
 
-> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2017)</small>
 
-El Comité de Auditoría deberá reunirse cuando menos tres veces al año. El Director de Auditoría, el Director General de Contraloría y Administración de Riesgos, y el auditor externo, podrán asistir a las sesiones y contarán con voz, pero sin voto.
+El Comité de Auditoría deberá reunirse cuando menos tres veces al año. El titular de la Unidad de Auditoría, el Director General de Contraloría y Administración de Riesgos, y el auditor externo, podrán asistir a las sesiones y contarán con voz, pero sin voto.
 
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2017)</small>
 
-Con el propósito de dar seguimiento al desempeño de las funciones de auditoría interna y externa del Banco, el Presidente del Comité, podrá reunirse en sesiones privadas con el Director de Auditoría y el auditor externo.
+Con el propósito de dar seguimiento al desempeño de las funciones de auditoría interna y externa del Banco, el Presidente del Comité, podrá reunirse en sesiones privadas con el titular de la Unidad de Auditoría y el auditor externo.
 
 > <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2009)</small>
 
@@ -252,6 +252,12 @@ Las Coordinaciones del Fondo Mexicano del Petróleo tendrán adscritas las unida
 ###### ARTICULO 4o.
 
 BIS.- Para los efectos previstos en el artículo 5o. de la Ley del Banco de México, la función de Cajero Principal deberá ser desempeñada por quien designe la Junta de Gobierno.
+
+> <small>(ADICIONADO, D.O.F. 17 DE JULIO DE 2017)</small>
+
+###### ARTICULO 4o.
+
+TER.- El Banco contará con un Órgano Interno de Control para los efectos del artículo 109, fracción III, quinto párrafo, de la Constitución Política de los Estados Unidos Mexicanos, así como de la Ley General de Responsabilidades Administrativas, la Ley de Fiscalización y Rendición de Cuentas de la Federación, la Ley General del Sistema Nacional Anticorrupción y las demás disposiciones aplicables al Banco en esas materias. Dicho órgano estará integrado y se regirá de conformidad con lo dispuesto por el Capítulo II de este Reglamento.
 
 ###### ARTICULO 5o.
 
@@ -275,19 +281,19 @@ En los poderes, comisiones y designaciones otorgados conforme al párrafo anteri
 
 El Gobernador podrá autorizar a los apoderados, comisionistas y delegados fiduciarios para que, conforme a las disposiciones aplicables, éstos otorguen o revoquen poderes generales o especiales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 8o.
 
-Las atribuciones encomendadas por este Reglamento a los titulares de las Direcciones Generales, Coordinación Administrativa del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, Secretaría de la Junta, Direcciones y Unidad de Transparencia, podrán ser ejercidas por ellos en forma individual o por dos funcionarios que actúen mancomunadamente, siempre y cuando tengan puestos de Subgerente o superior, o bien, de los rangos equivalentes a estos y se encuentren subordinados al Director General, al Coordinador Administrativo del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, al Secretario de la Junta, al Director o al titular de la Unidad de Transparencia, según se trate. Los Cajeros Regionales de las sucursales podrán firmar individualmente. Para efectos de lo anterior, se publicará en el Diario Oficial de la Federación el Acuerdo de Adscripción de las Unidades Administrativas correspondientes.
+Las atribuciones encomendadas por este Reglamento a los titulares de las Direcciones Generales, Coordinación Administrativa del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, Secretaría de la Junta, Direcciones y Unidades de Transparencia y Auditoría, podrán ser ejercidas por ellos en forma individual o por dos funcionarios que actúen mancomunadamente, siempre y cuando tengan puestos de Subgerente o superior, o bien, de los rangos equivalentes a estos y se encuentren subordinados al Director General, al Coordinador Administrativo del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, al Secretario de la Junta, al Director o a los titulares de las Unidades de Transparencia y Auditoría, según se trate. Los Cajeros Regionales de las sucursales podrán firmar individualmente. Para efectos de lo anterior, se publicará en el Diario Oficial de la Federación el Acuerdo de Adscripción de las Unidades Administrativas correspondientes.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2017)</small>
 
-La atribución aquí concedida incluye las facultades necesarias para la suscripción de todos los actos, comprendiendo los de dominio, de administración y pleitos y cobranzas, que se encuentren directamente vinculados con la ejecución de las atribuciones conferidas por este Reglamento a los Directores Generales, Coordinador Administrativo del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, Secretario de la Junta, Directores y titular de la Unidad de Transparencia, así como las suficientes para realizar actos que impliquen ejercicio presupuestal, a excepción de los previstos en el artículo 27 Bis de este Reglamento.
+La atribución aquí concedida incluye las facultades necesarias para la suscripción de todos los actos, comprendiendo los de dominio, de administración y pleitos y cobranzas, que se encuentren directamente vinculados con la ejecución de las atribuciones conferidas por este Reglamento a los Directores Generales, Coordinador Administrativo del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, Secretario de la Junta, Directores y a los titulares de las Unidades de Transparencia y Auditoría, así como las suficientes para realizar actos que impliquen ejercicio presupuestal, a excepción de los previstos en el artículo 27 Bis de este Reglamento.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2017)</small>
 
-Sin perjuicio de lo dispuesto en el segundo párrafo del presente artículo, las atribuciones encomendadas por este Reglamento a los titulares de las Direcciones Generales, la Coordinación Administrativa del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, Secretaría de la Junta, Direcciones y Unidad de Transparencia, incluyen las facultades suficientes para celebrar convenios, solicitar, proporcionar y publicar información, y colaborar con las personas que estimen conveniente, a fin de dar cumplimiento a sus respectivas atribuciones. Lo anterior, deberá efectuarse, en su caso, con la participación que corresponda a otras unidades administrativas, conforme a este Reglamento.
+Sin perjuicio de lo dispuesto en el segundo párrafo del presente artículo, las atribuciones encomendadas por este Reglamento a los titulares de las Direcciones Generales, la Coordinación Administrativa del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, Secretaría de la Junta, Direcciones y Unidades de Transparencia y Auditoría, incluyen las facultades suficientes para celebrar convenios, solicitar, proporcionar y publicar información, y colaborar con las personas que estimen conveniente, a fin de dar cumplimiento a sus respectivas atribuciones. Lo anterior, deberá efectuarse, en su caso, con la participación que corresponda a otras Unidades Administrativas, conforme a este Reglamento.
 
 > <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
@@ -375,15 +381,15 @@ La firma electrónica a que se refiere el párrafo anterior se utilizará cuando
 
 Para efectos de este Reglamento se entenderá por firma electrónica la información agregada o adjuntada a un mensaje de datos que esté asociada en forma lógica al propio mensaje, la cual se utilizará para identificar al autor de la firma e indicar que éste aprueba los datos contenidos en el mensaje y a su vez para asegurar que el mensaje no fue alterado y conservó su carácter confidencial.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 11.
 
-Los Directores Generales, el Coordinador Administrativo del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y los Directores, así como el titular de la Unidad de Transparencia, podrán delegar las facultades que les hayan sido conferidas conforme al presente Reglamento, en empleados adscritos a las respectivas unidades administrativas de las que sean titulares, y que ocupen puestos inferiores al de Subgerente.
+Los Directores Generales, el Coordinador Administrativo del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y los Directores, así como los titulares de las Unidades de Transparencia y Auditoría, podrán delegar las facultades que les hayan sido conferidas conforme al presente Reglamento, en empleados adscritos a las respectivas Unidades Administrativas de las que sean titulares, y que ocupen puestos inferiores al de Subgerente.
 
-Las resoluciones por las que se deleguen facultades deberán ser firmadas por el Director General, Coordinador Administrativo del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, Director de que se trate, o titular de la Unidad de Transparencia, conjuntamente con el Director General Jurídico o, en su caso, el Director Jurídico, y se publicarán en el Diario Oficial de la Federación.
+Las resoluciones por las que se deleguen facultades deberán ser firmadas por el Director General, Coordinador Administrativo del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, Director de que se trate, o los titulares de las Unidades de Transparencia o Auditoría, conjuntamente con el Director General Jurídico o, en su caso, el Director Jurídico, y se publicarán en el Diario Oficial de la Federación.
 
-Sin perjuicio de lo anterior, los Directores Generales, Coordinador Administrativo del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y los Directores, así como el titular de la Unidad de Transparencia, que lleven a cabo la delegación de facultades referida en el presente artículo, deberán informar de ello al Gobernador a más tardar tres días hábiles antes de la fecha en que la resolución respectiva se envíe al Diario Oficial de la Federación para su publicación.
+Sin perjuicio de lo anterior, los Directores Generales, Coordinador Administrativo del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y los Directores, así como los titulares de las Unidades de Transparencia y Auditoría que lleven a cabo la delegación de facultades referida en el presente artículo, deberán informar de ello al Gobernador a más tardar tres días hábiles antes de la fecha en que la resolución respectiva se envíe al Diario Oficial de la Federación para su publicación.
 
 > <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2013)</small>
 
@@ -1107,7 +1113,13 @@ La Dirección de Recursos Humanos tendrá las atribuciones siguientes:
 
 I. Emitir disposiciones de carácter administrativo, aplicables a la institución y a su personal;
 
-II. Contratar personal, llevar registro de sus promociones, rotaciones y sanciones, ejecutar los procedimientos y aplicar las sanciones, previstos por las disposiciones laborales, así como en general administrar el pago de salarios y demás prestaciones;
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JULIO DE 2017)</small>
+
+II. Contratar personal, llevar registro de sus promociones, rotaciones y sanciones, ejecutar los procedimientos y aplicar las sanciones, previstos por las disposiciones laborales, así como en general administrar el pago de salarios y demás prestaciones.
+
+> <small>(ADICIONADO, D.O.F. 17 DE JULIO DE 2017)</small>
+
+En caso que, derivado de la ejecución de los procedimientos y de la aplicación de las sanciones a que se refiere el párrafo anterior, la Dirección de Recursos Humanos detecte posibles faltas administrativas, dará vista a la Dirección de Control Interno o, en su caso, a la Unidad de Auditoría, para que inicie la investigación respectiva y promueva las acciones que procedan;
 
 III. Formalizar los actos relativos a la terminación y suspensión de relaciones laborales;
 
@@ -1141,9 +1153,9 @@ XI. Desempeñar las funciones encomendadas al Banco en el Fideicomiso para el De
 
 XII. Llevar el registro de la organización del Banco, aprobar sus adecuaciones, así como emitir opiniones y/o recomendaciones respecto a la estructura organizacional y sobre las propuestas que presenten las unidades administrativas que requieran aprobación del Gobernador o de la Junta de Gobierno, de conformidad con los términos y plazos que al efecto se acuerde con las citadas unidades administrativas, y
 
-> <small>(ADICIONADA, D.O.F. 30 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2017)</small>
 
-XIII. Expedir las credenciales de identificación de los notificadores, inspectores y cualquier otra que se requiera para la correcta operación del Banco.
+XIII. Expedir las credenciales de identificación de los notificadores, inspectores y cualquier otra que se requiera para la correcta operación del Banco, con excepción de aquellas que sean expedidas a favor de trabajadores que sean designados notificadores en términos de las disposiciones emitidas por la Comisión de Responsabilidades.
 
 > <small>(REFORMADO, D.O.F. 15 DE OCTUBRE DE 2014)</small>
 
@@ -1207,9 +1219,15 @@ X. Proveer el mobiliario, artículos y equipo de oficina del Banco;
 
 XI. Contratar los seguros que requiera el Banco;
 
-XII. Administrar los servicios de correspondencia, comedores, impresión y auto transportes, y
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2017)</small>
 
-XIII. Las demás previstas en otros ordenamientos aplicables a las operaciones materia de su competencia.
+XII. Administrar los servicios de correspondencia, comedores, impresión y auto transportes;
+
+> <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 2017)</small>
+
+XIII. Llevar el registro y mantener actualizada la información de su competencia, relativa a la Plataforma Digital Nacional, en términos de la Ley General del Sistema Nacional Anticorrupción y la Ley General de Responsabilidades Administrativas, y
+
+XIV. Las demás previstas en otros ordenamientos aplicables a las operaciones materia de su competencia.
 
 > <small>(REFORMADO, D.O.F. 30 DE ENERO DE 2015)</small>
 
@@ -1257,17 +1275,25 @@ XI. Proporcionar asesoría jurídica a las unidades administrativas del Banco qu
 
 XII. Expedir, junto con la Dirección General de Emisión, las disposiciones a que se refieren los artículos 48 Bis 1 de la Ley de Instituciones de Crédito y 8o. de este Reglamento;
 
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2017)</small>
 
-XIII. Imponer, junto con la Dirección General de Asuntos del Sistema Financiero, las sanciones a que se refiere el artículo 48 Bis 1 de la Ley de Instituciones de Crédito, y
+XIII. Imponer, junto con la Dirección General de Asuntos del Sistema Financiero, las sanciones a que se refiere el artículo 48 Bis 1 de la Ley de Instituciones de Crédito;
 
-> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2017)</small>
 
-XIV. Asesorar en la elaboración de los proyectos de resolución de los recursos de revisión a que se refiere la fracción XIV del artículo 17, y
+XIV. Asesorar en la elaboración de los proyectos de resolución de los recursos de revisión a que se refiere la fracción XIV del artículo 17;
 
-> <small>(ADICIONADA, D.O.F. 30 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2017)</small>
 
-XV. Recibir los programas de autocorrección que presenten las entidades o intermediarios financieros en las materias previstas en el párrafo quinto del artículo 8o. del presente Reglamento.
+XV. Recibir los programas de autocorrección que presenten las entidades o intermediarios financieros en las materias previstas en el párrafo quinto del artículo 8o. del presente Reglamento;
+
+> <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 2017)</small>
+
+XVI. Ejercer las atribuciones que las leyes en materia de responsabilidades administrativas y anticorrupción, así como de fiscalización y rendición de cuentas, le otorguen a la Autoridad Substanciadora en el Órgano Interno de Control, respecto a las faltas administrativas cuya resolución competa a la Comisión de Responsabilidades, y expedir los certificados de constancias que obren en sus expedientes de Autoridad Substanciadora. Asimismo, auxiliar a la mencionada Comisión en el ejercicio de las atribuciones que le corresponden en términos del artículo 36, fracción I, del presente Reglamento, y
+
+> <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 2017)</small>
+
+XVII. Conocer, substanciar y proveer lo necesario para la debida resolución de los recursos de su competencia como Autoridad Substanciadora, a que se refiere la Ley General de Responsabilidades Administrativas, y auxiliar a la Comisión de Responsabilidades en el ejercicio de las atribuciones que le corresponden en términos del artículo 36, fracción II, del presente Reglamento.
 
 > <small>(ADICIONADO, D.O.F. 24 DE JULIO DE 1997)</small>
 
@@ -1317,59 +1343,89 @@ V. (DEROGADA, D.O.F. 8 DE FEBRERO DE 2002)
 
 ARTICULO 29 BIS.- (DEROGADO, D.O.F. 31 DE OCTUBRE DE 2013)
 
-> <small>(ADICIONADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JULIO DE 2017)</small>
 
-ARTICULO 29 BIS 1. La Dirección de Auditoría tendrá las atribuciones siguientes:
+ARTICULO 29 BIS 1.- La Unidad de Auditoría tendrá, además de las atribuciones señaladas en el artículo 37, las siguientes:
 
-I. Auditar las operaciones realizadas por el Banco, incluso en su carácter de fiduciario, fideicomitente o fideicomisario, verificando el cumplimiento de las disposiciones aplicables al propio Banco o a su personal;
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2017)</small>
+
+I. Auditar las operaciones realizadas por el Banco, incluso en su carácter de fiduciario, fideicomitente o fideicomisario, lo que incluye la revisión del ingreso, egreso, manejo, custodia y aplicación de sus recursos, a fin de verificar el cumplimiento de las disposiciones aplicables al propio Banco o a su personal;
+
+> <small>(ADICIONADA, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 II. Verificar el cumplimiento de las normas y manuales relativos a los sistemas electrónicos del Banco;
 
+> <small>(ADICIONADA, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+
 III. Desahogar las solicitudes planteadas al Banco en materia de confirmación de saldos y, en general, de operaciones en las que éste sea parte, así como requerir información de la misma naturaleza;
+
+> <small>(ADICIONADA, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 IV. Verificar a través de auditorías, la aplicación de los criterios para el manejo, mantenimiento, seguridad y protección de los datos personales que estén en posesión de las Unidades Administrativas del Banco, así como de la información en general;
 
-> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2017)</small>
 
-V. Evaluar mediante auditorías e investigaciones administrativas la gestión de los trabajadores del Banco denunciados por presuntas deficiencias en el desempeño de su empleo, cargo o comisión, promoviendo en su caso, en coordinación con la Dirección General de Contraloría y Administración de Riesgos, las responsabilidades que procedan conforme a derecho;
+V. Evaluar, mediante auditorías e investigaciones administrativas, la gestión de los trabajadores del Banco denunciados por presuntas deficiencias en el desempeño de su empleo, cargo o comisión y, en su caso, llevar a cabo las acciones que correspondan como Autoridad Investigadora, para la investigación de faltas administrativas de dichos trabajadores, incluyendo la elaboración y presentación de los informes de presunta responsabilidad o las denuncias que procedan conforme a derecho;
 
-VI. Dar seguimiento a las acciones y recomendaciones que deriven de las observaciones determinadas en los trabajos de auditoría y evaluación, tanto las propias, como las emitidas por la Auditoría Superior de la Federación y por el auditor externo, e informar al Comité de Auditoría sobre la situación que guardan las mismas;
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2017)</small>
 
-VII. Suscribir en términos de las disposiciones aplicables con las dependencias y entidades de la Administración Pública Federal, convenios, acuerdos o programas con fines de cooperación en materia de auditoría, y
+VI. Dar seguimiento a las acciones y recomendaciones que deriven de las observaciones determinadas en los trabajos de auditoría y evaluación, tanto las propias, como las emitidas por las autoridades competentes del Sistema Nacional de Fiscalización, la Auditoría Superior de la Federación y por el auditor externo, e informar al Comité de Auditoría sobre la situación que guardan las mismas, así como continuar, en su caso, con la investigación respectiva;
 
-> <small>(REFORMADA, D.O.F. 1 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2017)</small>
 
-VIII. Acceder a cualquier tipo de información del Banco incluyendo la clasificada como reservada o confidencial, así como tener acceso de manera directa e irrestricta a todas las áreas, registros, bienes y, en general, a cualquier información del Banco o de los fideicomisos en los que éste tenga el carácter de fiduciario. Lo anterior no aplicará a la información sobre declaración de situación patrimonial de los servidores públicos del Banco, a la referente a procedimientos y procesos en trámite, ni a los expedientes médicos de los mencionados servidores, salvo en aquellos casos que el Comité de Auditoría expresamente lo autorice y así lo instruya a los titulares de las áreas que resguarden dicha información. A efecto de obtener esa autorización, la Dirección de Auditoría habrá de presentar a los miembros del referido Comité un expediente del que se desprendan indicios suficientes que hagan presumir la conducta antijurídica del servidor público de que se trate y que motive la revisión de su expediente médico o situación patrimonial.
+VII. Suscribir, en términos de las disposiciones aplicables con las dependencias y entidades de la Administración Pública Federal y con las autoridades competentes del Sistema Nacional de Fiscalización, convenios, acuerdos o programas con fines de cooperación en materia de auditoría;
 
-El personal de la Dirección de Auditoría que intervenga en la práctica de auditorías, deberá guardar estricta reserva sobre la información y documentos que con motivo de sus funciones conozca, así como de sus actuaciones y observaciones;
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2017)</small>
 
-> <small>(ADICIONADA, D.O.F. 1 DE NOVIEMBRE DE 2012)</small>
+VIII. Acceder a cualquier tipo de información del Banco incluyendo la clasificada como reservada, confidencial o la sujeta a obligaciones legales de secrecía en materia fiscal, bancaria, fiduciaria, bursátil o de cualquier otra, así como tener acceso de manera directa e irrestricta a todas las áreas, registros, bienes y, en general, a cualquier información del Banco o de los fideicomisos en los que este tenga el carácter de fiduciario, exclusivamente para el ejercicio de las facultades que le corresponden en su carácter de Autoridad Investigadora, conforme a las leyes en materia de responsabilidades administrativas y combate a la corrupción.
 
-IX. Llevar a cabo los actos de investigación a que se refiere la Ley Federal Anticorrupción en Contrataciones Públicas e imponer las medidas de apremio durante la etapa de investigación en términos de dicha ley, así como, en su caso, turnar el expediente correspondiente a la autoridad o unidad administrativa del Banco competente, cuando existan elementos que presuman la existencia de algún tipo de responsabilidad, y
+El personal de la Unidad de Auditoría que intervenga en la práctica de auditorías y realización de investigaciones de faltas administrativas, deberá guardar estricta reserva sobre la información y documentos que con motivo de sus funciones conozca, así como de sus actuaciones y observaciones;
 
-> <small>(ADICIONADA, D.O.F. 1 DE NOVIEMBRE DE 2012)</small>
+IX. (DEROGADA, D.O.F. 17 DE JULIO DE 2017)
 
-X. Fungir como enlace entre las instancias fiscalizadoras externas y las unidades Administrativas del Banco, cuyas operaciones sean objeto de revisión.
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2017)</small>
+
+X. Fungir como enlace con la Auditoría Superior de la Federación y demás autoridades competentes del Sistema Nacional de Fiscalización, las instancias fiscalizadoras externas y las Unidades Administrativas del Banco, cuyas operaciones sean objeto de revisión;
+
+> <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 2017)</small>
+
+XI. Atender los requerimientos, observaciones, recomendaciones y solicitudes de la Auditoría Superior de la Federación y demás instancias fiscalizadoras, internas y externas, y proporcionar el auxilio que requieran dichas instancias y las autoridades competentes del Sistema Nacional de Fiscalización para el ejercicio de las atribuciones;
+
+> <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 2017)</small>
+
+XII. Ejercer las atribuciones que las leyes en materia de responsabilidades administrativas y anticorrupción, así como fiscalización y rendición de cuentas, otorguen a la Autoridad Investigadora en el Órgano Interno de Control, incluyendo la interposición de los recursos correspondientes y el otorgamiento de medidas de protección a los testigos o denunciantes, sin perjuicio de las atribuciones que como tal autoridad correspondan a la Dirección de Control Interno conforme al presente Reglamento, y
+
+> <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 2017)</small>
+
+XIII. Expedir constancias y certificar copias de los registros o documentos que sean de su competencia conforme al presente Reglamento o cualquier otra disposición.
+
+> <small>(ADICIONADO, D.O.F. 17 DE JULIO DE 2017)</small>
+
+Para efectos de las fracciones X y XI de este artículo, el titular de la Unidad de Auditoría representará al Órgano Interno de Control del Banco.
 
 > <small>(ADICIONADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 ARTICULO 29 BIS 2.- El Comité de Auditoría tendrá las atribuciones siguientes:
 
-> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2017)</small>
 
-I. Aprobar el programa anual de revisiones que le presente el Director de Auditoría y, una vez hecho lo anterior, este último deberá someterlo a la autorización de la Junta;
+I. Aprobar el programa anual de revisiones que le presente el titular de la Unidad de Auditoría y, una vez hecho lo anterior, este último deberá someterlo a la autorización de la Junta;
 
-II. Analizar los principales resultados y acciones derivadas de las observaciones y oportunidades de mejora detectadas por la Dirección de Auditoría, así como por el auditor externo;
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2017)</small>
 
-III. Coordinar reuniones con el Director de Auditoría y con el auditor externo con el objeto de dar seguimiento a las acciones derivadas de las observaciones detectadas por ambas instancias;
+II. Analizar los principales resultados y acciones derivadas de las observaciones y oportunidades de mejora detectadas por la Unidad de Auditoría, así como por el auditor externo;
+
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2017)</small>
+
+III. Coordinar reuniones con el titular de la Unidad de Auditoría y con el auditor externo con el objeto de dar seguimiento a las acciones derivadas de las observaciones detectadas por ambas instancias;
 
 IV. Requerir a las Unidades Administrativas auditadas, informes respecto de la atención y seguimiento de los hallazgos y recomendaciones comunicadas por los auditores internos y externo;
 
 V. Elaborar y expedir las reglas necesarias para su operación, y
 
-> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2017)</small>
 
-VI. Nombrar y remover a su secretario, quien deberá ser un funcionario o trabajador de rango equivalente, adscrito ya sea a la Dirección de Auditoría, a la Dirección General de Contraloría y Administración de Riesgos o a la Dirección General Jurídica, que cuente con título profesional de licenciado en derecho o de abogado, o bien, un asesor de la Junta de Gobierno o de alguno de sus miembros distintos a aquel que presida la Comisión de Responsabilidades.
+VI. Nombrar y remover a su secretario, quien deberá ser un funcionario o trabajador de rango equivalente, adscrito ya sea a la Unidad de Auditoría, a la Dirección General de Contraloría y Administración de Riesgos o a la Dirección General Jurídica, que cuente con título profesional de licenciado en derecho o de abogado, o bien, un asesor de la Junta de Gobierno o de alguno de sus miembros distintos a aquel que presida la Comisión de Responsabilidades.
 
 > <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2013)</small>
 
@@ -1389,27 +1445,71 @@ La Contraloría Interna del Fondo Mexicano del Petróleo para la Estabilización
 
 Como excepción a lo dispuesto en el primer párrafo del artículo 8 del presente Reglamento Interior, el Contralor Interno a que se refiere este artículo será suplido, en sus ausencias, por el funcionario que designe al efecto el Comité Técnico del Fondo Mexicano del Petróleo.
 
-> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2013)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, D.O.F. 17 DE JULIO DE 2017)</small>
 
-ARTICULO 30 BIS.- La Dirección de Control Interno tendrá, además de las atribuciones señaladas en los artículos 30 Bis 1 y 30 Bis 3, las siguientes:
+Para la examinación y dictaminación de las funciones atribuidas al titular de la Coordinación Ejecutiva y a su personal, la Contraloría Interna del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo podrá:
 
-I. Llevar el registro de firmas autógrafas de los funcionarios y empleados del Banco, facultados para ejercer las atribuciones encomendadas a las Direcciones Generales, Secretaría de la Junta y Direcciones, para los efectos de los artículos 8o., 10, y 27 Bis de este Reglamento, así como de los empleados facultados de acuerdo a las resoluciones emitidas en los términos del artículo 11 de este ordenamiento;
+> <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 2017)</small>
+
+I. Acceder y requerir cualquier tipo de información y documentación, incluyendo la clasificada como reservada o confidencial, así como tener acceso de manera directa e irrestricta a todas las áreas, registros, bienes y, en general, a cualquier información del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, únicamente para el ejercicio de sus facultades;
+
+> <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 2017)</small>
+
+II. Verificar el cumplimiento de las disposiciones, normas y manuales aplicables a la Coordinación Ejecutiva y a su personal, así como de los sistemas electrónicos aplicables o utilizados por estos;
+
+> <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 2017)</small>
+
+III. Evaluar la gestión de la Coordinación Ejecutiva y su personal, y
+
+> <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 2017)</small>
+
+IV. Dar seguimiento a las acciones y recomendaciones que deriven de las observaciones que realice con motivo del ejercicio de sus facultades.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JULIO DE 2017)</small>
+
+ARTICULO 30 BIS.- La Dirección de Control Interno tendrá, además de las atribuciones señaladas en los artículos 30 Bis 1, 30 Bis 3 y 37, las siguientes:
+
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2017)</small>
+
+I. Llevar el registro de firmas autógrafas de los funcionarios y empleados del Banco, facultados para ejercer las atribuciones encomendadas a las Direcciones Generales, Secretaría de la Junta, Direcciones, Coordinaciones Ejecutiva y Administrativa del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, y de las Unidades de Transparencia y Auditoría, para los efectos de los artículos 8o., 10, y 27 Bis de este Reglamento, así como de los empleados facultados de acuerdo a las resoluciones emitidas en los términos del artículo 11 de este ordenamiento;
 
 > <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
 
 II. Expedir en favor de los funcionarios y empleados a que se refiere la fracción anterior, para los efectos de los artículos 8o. y 10 de este Reglamento y en el ejercicio de sus funciones, certificados relacionados con la firma electrónica, así como llevar el registro de los mismos y de cualquier otro certificado relacionado con firma electrónica reconocido en alguna disposición legal y que sea administrado con la Infraestructura Extendida de Seguridad desarrollada por el Banco. Asimismo, expedir a los licitantes y oferentes extranjeros, para efectos de los procedimientos previstos en las normas a que se refiere el artículo 46, fracción XII, de la Ley del Banco de México, certificados digitales relacionados con la firma electrónica y llevar su registro, conforme a los lineamientos que emita conjuntamente con la Dirección de Recursos Materiales;
 
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2013)</small>
+
 III. Proponer a la Junta las normas a que se refiere el artículo 46, fracción XII, de la Ley, y aquéllas que resulten aplicables al Banco, sin perjuicio de las que a otras Unidades Administrativas corresponda proponer a dicha Junta;
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2013)</small>
 
 IV. Vigilar la actualización y suficiencia normativa en el Banco, para lo cual llevará el registro de las normas internas que expidan sus Unidades Administrativas, así como supervisar la actualización de las normas, políticas, estándares y procedimientos que conforman el sistema de control interno institucional;
 
-V. Recibir las quejas y denuncias que presente cualquier interesado conforme a lo previsto por la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, por la Ley Federal Anticorrupción en Contrataciones Públicas, el Código de Ética del Banco de México, u otras disposiciones, así como turnarlas a la autoridad o Unidad Administrativa del Banco competente;
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JULIO DE 2017)</small>
 
-VI. Llevar el registro de los cargos, puestos o comisiones en el Banco, cuyos titulares deben formalizar acta de entrega conforme a las disposiciones que emita la Comisión de Responsabilidades del Banco en la materia, e intervenir en los actos relativos, así como de los compromisos que se formalicen en materia de confidencialidad, ética y de otras obligaciones asumidas como servidores públicos del Banco, conforme a los criterios que al efecto determine la Dirección General a la que está adscrita esta Dirección;
+V. Recibir y atender las quejas y denuncias que presente cualquier persona conforme a lo previsto por la Ley General de Responsabilidades Administrativas, la Ley de Fiscalización y Rendición de Cuentas de la Federación, los Códigos de Ética y de Conducta del Banco de México, u otras disposiciones relacionadas.
 
-VII. Expedir constancias de los registros que sean de su competencia conforme al presente Reglamento o cualquier otra disposición;
+> <small>(ADICIONADO, D.O.F. 17 DE JULIO DE 2017)</small>
+
+En los supuestos a que se refiere el párrafo anterior, la Dirección de Control Interno dará vista a la Unidad de Auditoría de las quejas y denuncias que reciba, para que dichas Unidades Administrativas determinen cuál de ellas realizará la investigación correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 17 DE JULIO DE 2017)</small>
+
+En los supuestos que impliquen una posible infracción a las Condiciones Generales de Trabajo, la Dirección de Control Interno dará vista a la Dirección de Recursos Humanos;
+
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2017)</small>
+
+VI. Llevar el registro de los cargos, puestos o comisiones en el Banco, cuyos titulares deben formalizar acta de entrega conforme a las disposiciones que emita la Comisión de Responsabilidades del Banco en la materia, e intervenir en los actos relativos, así como de los compromisos que se formalicen en materia de confidencialidad, ética y de otras obligaciones asumidas como servidores públicos del Banco, conforme a los criterios que al efecto determinen las autoridades competentes;
+
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2017)</small>
+
+VII. Expedir constancias y certificar copias de los registros o documentos que sean de su competencia conforme al presente Reglamento o cualquier otra disposición;
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2013)</small>
 
 VIII. Proponer criterios, parámetros y métodos para la evaluación y seguimiento de los mecanismos de control que las Unidades Administrativas apliquen en la ejecución de los procesos del Banco, así como recabar la evidencia documental de la ejecución de dichos mecanismos de control, que le permitan establecer una seguridad razonable de que el control es efectivo;
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2013)</small>
 
 IX. Proponer al Gobernador las normas, políticas, estándares, procedimientos y actividades que propicien el desarrollo y fortalecimiento del sistema de control interno institucional, así como informarle acerca del estado que guarda dicho sistema con base en la evaluación y seguimiento que de manera periódica se dé a los componentes que lo integran;
 
@@ -1417,23 +1517,65 @@ IX. Proponer al Gobernador las normas, políticas, estándares, procedimientos y
 
 X. Verificar que los pagos derivados del ejercicio de los presupuestos de gasto corriente e inversión física, incluidos aquellos correspondientes a los fideicomisos en los que el Banco actúe como fiduciario y que no cuenten con unidades administrativas especializadas en verificar el cumplimiento de las obligaciones a su cargo, se efectúen con apego a las disposiciones aplicables y normas emitidas, así como a las condiciones pactadas en los pedidos y contratos, realizando las pruebas de análisis y comprobación requeridas;
 
-XI. Acceder a cualquier tipo de información del Banco, incluyendo la clasificada como reservada o confidencial, así como tener acceso de manera directa e irrestricta a todas las áreas, registros, bienes y, en general, a cualquier información del Banco o de los fideicomisos en los que éste tenga el carácter de fiduciario. Lo anterior no aplicará a la información relativa sobre declaración de situación patrimonial de servidores públicos del Banco, ni a la referente a los procesos y procedimientos de los mencionados servidores, salvo en aquellos casos que la Comisión de Responsabilidades expresamente los autorice. Asimismo, los expedientes médicos de los servidores públicos y pensionados del Banco, así como sus derechohabientes sólo podrán consultarse con autorización previa y por escrito del Gobernador;
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JULIO DE 2017)</small>
+
+XI. Acceder y requerir cualquier tipo de información y documentación del Banco, incluyendo la clasificada como reservada o confidencial o la sujeta a obligaciones legales de secrecía en materia fiscal, bancaria, fiduciaria, bursátil o de cualquier otra, así como tener acceso de manera directa e irrestricta a todas las áreas, registros, bienes y, en general, a cualquier información del Banco o de los fideicomisos en los que este tenga el carácter de fiduciario, para el ejercicio de las facultades que le corresponden en su carácter de Autoridad Investigadora, conforme a las leyes en materia de responsabilidades administrativas y combate a la corrupción, así como para promover, evaluar y fortalecer el buen funcionamiento del control interno, incluyendo los expedientes médicos de los servidores públicos y pensionados del Banco, así como sus derechohabientes.
+
+> <small>(ADICIONADO, D.O.F. 17 DE JULIO DE 2017)</small>
+
+El personal de la Dirección de Control Interno que intervenga en la realización de investigaciones de faltas administrativas, así como en aquellos actos relacionados con el control interno, deberá guardar estricta reserva sobre la información y documentos que con motivo de sus funciones conozca, así como de sus actuaciones y observaciones;
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2013)</small>
 
 XII. Recibir, conocer, sustanciar y proveer lo necesario para la debida resolución del recurso de revisión que interpongan los licitantes, proveedores, contratistas y adquirentes, en contra de las resoluciones de inconformidades previstas en la fracción VI del artículo 30 Bis 1. Corresponderá al titular de la Dirección de Control Interno resolver dicho recurso de revisión;
 
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2013)</small>
+
 XIII. Recibir, conocer, sustanciar y proveer lo necesario para la debida resolución del recurso de revisión que interpongan los licitantes, proveedores y contratistas, en contra de las sanciones impuestas por el Banco, a que se refiere la fracción VII del artículo 30 Bis 1 del presente Reglamento. Corresponderá al titular de la Dirección de Control Interno resolver dicho recurso de revisión;
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2013)</small>
 
 XIV. Recibir, conocer, sustanciar y proveer lo necesario para la debida resolución del recurso de revisión que se interponga en términos de la Ley Federal de Responsabilidad Patrimonial del Estado, en contra de las resoluciones que se emitan respecto de las reclamaciones a que se refiere la fracción VIII del artículo 30 Bis 1 de este Reglamento. Corresponderá al titular de la Dirección de Control Interno resolver dicho recurso de revisión;
 
-XV. Recibir, conocer, sustanciar y proveer lo necesario para la debida resolución del recurso de revisión previsto en la Ley Federal Anticorrupción en Contrataciones Públicas. Corresponderá al titular de la Dirección de Control Interno resolver dicho recurso de revisión en términos del ordenamiento citado en esta fracción;
+XV. (DEROGADA, D.O.F. 17 DE JULIO DE 2017)
 
-XVI. Llevar el registro de los servidores públicos del Banco, en términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2017)</small>
 
-XVII. Recibir y registrar las declaraciones patrimoniales y curriculares que presenten los servidores públicos a que se refiere el artículo 61, fracción II, de la Ley, así como aplicar los procedimientos y sistemas para dar seguimiento a las declaraciones patrimoniales de los servidores públicos referidos en el párrafo siguiente, de acuerdo con las disposiciones que al respecto emita la Comisión de Responsabilidades. Las actividades para el seguimiento de la situación patrimonial de los servidores públicos serán ejecutadas por los trabajadores del Banco adscritos a la Dirección de Control Interno que, para estos efectos, designe el Director General de Contraloría y Administración de Riesgos, quienes tendrán el acceso exclusivo a los registros individuales.
+XVI. Llevar los registros de los servidores públicos del Banco que correspondan en términos de la Ley General de Responsabilidades Administrativas y de la Ley General del Sistema Nacional Anticorrupción, así como publicar y mantener actualizada la información de la Plataforma Digital Nacional del Sistema Nacional Anticorrupción, para lo cual podrá auxiliarse de las Unidades Administrativas que cuenten con la información correspondiente;
 
-Las personas sujetas a presentar declaraciones de situación patrimonial y curricular serán los miembros de la Junta de Gobierno, los servidores públicos que ocupen en el Banco puestos de Subgerente o superior, así como aquellos que determine el Gobernador, a propuesta motivada de los Directores Generales o del Director de Auditoría, respecto del personal que dependa jerárquicamente de ellos.
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2017)</small>
 
-Sin perjuicio de lo establecido en el artículo 30, párrafo primero, de este Reglamento, en las ausencias del titular de la Dirección de Control Interno, las atribuciones previstas en las fracciones XII, XIII, XIV, XV, XVI y XVII de este artículo, serán ejercidas por el Director General de Contraloría y Administración de Riesgos.
+XVII. Recibir, registrar, administrar y, en su caso, inscribir en la Plataforma Digital Nacional las declaraciones de situación patrimonial, curricular y de intereses, así como la constancia de presentación de declaración fiscal, que presenten los servidores públicos en términos de las leyes en materia de responsabilidades administrativas de servidores públicos y combate a la corrupción, así como aplicar los procedimientos de verificación y sistemas para dar seguimiento a las referidas declaraciones, de acuerdo con las disposiciones que al respecto emita el Sistema Nacional Anticorrupción y la Comisión de Responsabilidades y, en su caso, informar a las instancias competentes de la omisión de la presentación de las citadas declaraciones, en términos de la legislación aplicable. De no existir anomalías, expedirá la certificación correspondiente, o en caso contrario, iniciará la investigación respectiva. Las actividades para la verificación y el seguimiento de la situación patrimonial y sobre la posible actualización de conflicto de intereses de los servidores públicos, así como las relativas a la Plataforma Digital Nacional, serán ejecutadas por los trabajadores que designe el Director General de Contraloría y Administración de Riesgos, quienes tendrán el acceso exclusivo a los registros individuales.
+
+Las personas sujetas a presentar declaraciones de situación patrimonial, curricular, de intereses, así como la constancia de presentación de declaración fiscal, serán las que determinen las leyes y las disposiciones aplicables en la materia, conforme a los lineamientos, criterios y demás resoluciones que emita el Comité Coordinador del Sistema Nacional Anticorrupción;
+
+> <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 2017)</small>
+
+XVIII. Supervisar la ejecución de los procedimientos de contratación pública en términos de la Ley General de Responsabilidades Administrativas;
+
+> <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 2017)</small>
+
+XIX. Ejercer las atribuciones que las leyes en materia de responsabilidades administrativas y anticorrupción, así como fiscalización y rendición de cuentas, otorguen a la Autoridad Investigadora en el Órgano Interno de Control, incluyendo la interposición de los recursos correspondientes y el otorgamiento de medidas de protección a los testigos o denunciantes, sin perjuicio de las atribuciones que como tal autoridad correspondan a la Unidad de Auditoría conforme al presente Reglamento;
+
+> <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 2017)</small>
+
+XX. Proponer a la Comisión de Responsabilidades, los Códigos de Ética y de Conducta;
+
+> <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 2017)</small>
+
+XXI. En representación del Órgano Interno de Control, las demás atribuciones que, en materia de promoción, evaluación y fortalecimiento del buen funcionamiento del control interno en los entes públicos, establezcan las leyes respectivas, que no correspondan a la Junta de Gobierno, la Comisión de Responsabilidades, la Unidad de Auditoría y la Dirección Jurídica, para lo cual se podrá auxiliar de las Unidades Administrativas que estime convenientes;
+
+> <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 2017)</small>
+
+XXII. Emitir recomendaciones a las Unidades Administrativas para el fortalecimiento del control en sus procesos, derivado de las revisiones que realice en el ejercicio de sus atribuciones, así como turnarlas a las áreas competentes para su atención y seguimiento, y
+
+> <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 2017)</small>
+
+XXIII. Establecer mecanismos para facilitar, a las Unidades Administrativas, la difusión entre su personal de la legislación, políticas y normas que regulan el ejercicio de las atribuciones de estas, así como su cumplimiento.
+
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2017)</small>
+
+Como excepción a lo establecido en el artículo 66, párrafo primero, de este Reglamento, en las ausencias del titular de la Dirección de Control Interno, las atribuciones previstas en las fracciones XII, XIII, XIV, XVI y XVII de este artículo, solamente serán ejercidas por el Director General de Contraloría y Administración de Riesgos.
 
 > <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
@@ -1463,13 +1605,11 @@ VII. Imponer las sanciones a que se refieren los títulos Cuarto de las Normas d
 
 VIII. Recibir, conocer, sustanciar y proveer lo necesario para la debida resolución de las reclamaciones que se interpongan ante el Banco, en términos de la Ley Federal de Responsabilidad Patrimonial del Estado. Corresponderá al titular de la Gerencia de Control Normativo resolver las reclamaciones citadas, y
 
-> <small>(ADICIONADA, D.O.F. 1 DE NOVIEMBRE DE 2012)</small>
+IX. (DEROGADA, D.O.F. 17 DE JULIO DE 2017)
 
-IX. Conocer, sustanciar y proveer lo necesario para el trámite del procedimiento administrativo sancionador; imponer las medidas de apremio durante dicho procedimiento y, en su caso, las sanciones administrativas, conforme a la Ley Federal Anticorrupción en Contrataciones Públicas.
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2015)</small>
-
-En las ausencias del titular de la Gerencia de Control Normativo, las atribuciones previstas en las fracciones I, VI, VII, VIII y IX de este artículo, serán ejercidas de forma individual por el titular de la Subgerencia de Control de Procedimientos Administrativos y de Legalidad Interna.
+En las ausencias del titular de la Gerencia de Control Normativo, las atribuciones previstas en las fracciones I, VI, VII, y VIII de este artículo, serán ejercidas de forma individual por el titular de la Subgerencia de Control de Procedimientos Administrativos y de Legalidad Interna.
 
 ARTICULO 30 BIS 2.- (DEROGADO, D.O.F. 1 DE NOVIEMBRE DE 2012)
 
@@ -1567,13 +1707,25 @@ XXII. Certificar los extractos o copias que contengan la información solicitada
 
 XXIII. Las demás que deriven de la Ley General de Transparencia y Acceso a la Información Pública y de cualquier otra normatividad aplicable en materia de transparencia y acceso a la información pública, así como de protección de datos personales.
 
-### CAPITULO II. DE LA COMISION DE RESPONSABILIDADES
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 17 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2001)</small>
+### CAPITULO II. DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(ADICIONADO, D.O.F. 17 DE JULIO DE 2017)</small>
+
+###### ARTICULO 31 Ter.
+
+El Órgano Interno de Control estará integrado por la Junta de Gobierno, la Comisión prevista en el artículo 61 de la Ley, la Dirección de Control Interno, la Unidad de Auditoría y la Dirección Jurídica, cada una en el ámbito de las atribuciones que, en su carácter de integrantes del referido Órgano, les confiere el presente Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 32.
 
-La Comisión prevista en el artículo 61 de la Ley será presidida por el miembro de la Junta de Gobierno que participe en ella y contará con un Secretario y un Secretario Suplente, cargos que ocuparán el titular de la Dirección Jurídica y el de la Gerencia Jurídica de lo Contencioso, respectivamente.
+La Comisión prevista en el artículo 61 de la Ley será presidida por el miembro de la Junta de Gobierno que participe en ella y contará con un Secretario y un Prosecretario, cargos que ocuparán el titular de la Dirección Jurídica y el de la Gerencia Jurídica de lo Contencioso, respectivamente.
+
+> <small>(ADICIONADO, D.O.F. 17 DE JULIO DE 2017)</small>
+
+El Presidente de la Comisión representará al Órgano Interno de Control del Banco ante el Comité Coordinador previsto en el artículo 113, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, y ante las demás instancias y autoridades previstas en las disposiciones en materia de responsabilidades administrativas y anticorrupción y, en su caso, designará a sus suplentes de entre los miembros de la propia Comisión.
 
 ###### ARTICULO 33.
 
@@ -1591,25 +1743,57 @@ I. Verificar que la sesión se realice válidamente;
 
 II. Levantar y suscribir con los miembros asistentes, las actas de las sesiones;
 
-III. Comunicar a los interesados los acuerdos de la Comisión, así como, en su caso, dar seguimiento a su cumplimiento;
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2017)</small>
 
-IV. Preparar y remitir al Secretario de la Junta, los expedientes en que se contengan las investigaciones sobre las responsabilidades que competa conocer a ésta;
+III. Revisar que las notificaciones de los acuerdos, proveídos y resoluciones de la Comisión se realicen en tiempo y forma, así como, en su caso, dar seguimiento a su cumplimiento;
 
-V. Certificar los extractos o copias de las actas de la Comisión, previo acuerdo con su Presidente, y
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2017)</small>
 
-VI. Recibir las propuestas y documentación dirigida a la Comisión.
+IV. Preparar y remitir al Secretario de la Junta o al Tribunal Federal de Justicia Administrativa, según corresponda, los expedientes en que se contengan las substanciaciones sobre las responsabilidades que competa conocer a estos;
 
-El Secretario será asistido en sus funciones y suplido en sus ausencias por el Secretario Suplente.
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2017)</small>
+
+V. Expedir los certificados de constancias que se requieran;
+
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2017)</small>
+
+VI. Recibir las propuestas y documentación dirigida a la Comisión, y
+
+> <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 2017)</small>
+
+VII. Autorizar con su firma las actuaciones de la Comisión.
+
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2017)</small>
+
+El Secretario será asistido en sus funciones y suplido en sus ausencias por el Prosecretario.
+
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 36.
 
-Compete a la Comisión de Responsabilidades el conocimiento de los procedimientos previstos en la Ley Federal de Responsabilidades de los Servidores Públicos, así como la imposición de las sanciones respectivas. Lo anterior con excepción de los procedimientos y sanciones que conforme a la Ley, compete conocer a la Junta.
+Compete a la Comisión de Responsabilidades, con excepción de los procedimientos y sanciones que conforme a la Ley compete conocer a la Junta, lo siguiente:
 
-Toda documentación relacionada con quejas, denuncias y procedimientos derivados de lo señalado en el párrafo anterior, deberá ser presentada al Secretario de la Comisión.
+I. Ejercer las atribuciones que las leyes en materia de responsabilidades administrativas y anticorrupción, así como de fiscalización y rendición de cuentas, otorguen a la Autoridad Substanciadora en el Órgano Interno de Control con respecto a las presuntas faltas administrativas cuya resolución corresponda a la Junta de Gobierno o al Tribunal Federal de Justicia Administrativa en términos de las disposiciones legales aplicables, así como ejercer las atribuciones que le correspondan como Autoridad Resolutora, conforme a lo dispuesto en el artículo 61, fracción I, de la Ley.
+
+En aquellos casos de responsabilidad administrativa en que la Dirección de Control Interno haya intervenido como Autoridad Investigadora, el Director General de Contraloría y Administración de Riesgos deberá excusarse de participar en las funciones que correspondan a la Comisión de Responsabilidades, en su carácter de Autoridad Substanciadora;
+
+II. Coordinar la implementación de las bases, disposiciones, mecanismos de coordinación, protocolos de actuación y políticas públicas que emitan las instancias competentes del Sistema Nacional Anticorrupción, así como la atención de exhortos públicos, recomendaciones no vinculantes y requerimientos de información que emitan dichas instancias, y rendir los informes correspondientes, para lo cual se podrá auxiliar de las Unidades Administrativas que estime convenientes;
+
+III. Conocer, substanciar y proveer lo necesario para la debida resolución de los recursos de revocación y reclamación a que se refiere la Ley General de Responsabilidades Administrativas, sin perjuicio de las atribuciones para la resolución de los recursos que correspondan a la Dirección Jurídica como Autoridad Substanciadora y a la Junta de Gobierno en su carácter de Autoridad Resolutora;
+
+IV. Emitir, en su carácter de Órgano Interno de Control para los efectos de la Ley General de Responsabilidades Administrativas, los Códigos de Ética y de Conducta del Banco, así como los lineamientos y criterios a que se refieren la citada Ley y aquellas otras en materia de responsabilidades administrativas de los servidores públicos y anticorrupción, y
+
+V. Las demás atribuciones que las leyes establezcan únicamente en materia de responsabilidades administrativas de servidores públicos y anticorrupción para los órganos internos de control, que no correspondan a la Junta de Gobierno o a las Unidades Administrativas previstas en el presente Reglamento, para lo cual se podrá auxiliar de las Unidades Administrativas que estime convenientes.
+
+El Secretario de la Comisión recibirá toda la documentación e información relacionada con las atribuciones de la Comisión, excepto tratándose de las denuncias de actos u omisiones que puedan constituir faltas administrativas de los servidores públicos del Banco, las cuales serán recibidas por la Dirección de Control Interno, en su carácter de Autoridad Investigadora.
+
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 37.
 
-La Comisión de Responsabilidades realizará la investigación que proceda e integrará el expediente respectivo, para lo cual podrá auxiliarse de los Directores que estime conveniente. Tratándose de responsabilidades de los tres primeros niveles jerárquicos en el Banco, una vez concluida la averiguación se remitirá el expediente a la Junta.
+La Dirección de Control Interno y la Unidad de Auditoría, en el ámbito de sus respectivas competencias conforme a lo previsto en el presente Reglamento, realizarán las investigaciones que procedan por actos u omisiones que puedan constituir faltas administrativas en aquellos supuestos que corresponda conocer a dichas Unidades Administrativas de conformidad con dichas competencias, con respecto a los cuales integrarán los expedientes respectivos y, en su caso, calificarán las conductas como faltas administrativas graves o no graves, y elaborarán y emitirán los Informes de Presunta Responsabilidad Administrativa a que se refiere la Ley General de Responsabilidades Administrativas, que deberán presentar a la Dirección Jurídica o a la Comisión de Responsabilidades, según corresponda, en su carácter de Autoridad Substanciadora, en términos de las disposiciones aplicables. En el ejercicio de sus atribuciones como Autoridad Investigadora, las Unidades Administrativas previstas en este párrafo podrán auxiliarse de las Unidades Administrativas que estimen convenientes.
+
+Tratándose de las presuntas infracciones administrativas de los miembros de la Junta de Gobierno y los funcionarios que ocupen puestos comprendidos en los tres primeros niveles más altos del personal del Banco, una vez concluida la investigación, la Dirección de Control Interno o la Unidad de Auditoría, en su ámbito de competencia, remitirá el Informe de Presunta Responsabilidad Administrativa a la Comisión de Responsabilidades, en su carácter de Autoridad Substanciadora, para que, con apoyo de la Dirección Jurídica, lleve a cabo la substanciación y, en su caso, envíe los autos originales del expediente a la Junta de Gobierno o al Tribunal Federal de Justicia Administrativa, según corresponda, para su resolución conforme a la Ley General de Responsabilidades Administrativas.
 
 ### CAPITULO III. DE LA CONTABILIDAD Y DE LOS ESTADOS FINANCIEROS
 
@@ -1761,6 +1945,12 @@ El recurso de reconsideración será desechado cuando no se presente en tiempo, 
 
 Cuando el recurso carezca de firma del promovente se tendrá por no interpuesto. Si este no acredita su personalidad, se le prevendrá para que subsane dicha omisión dentro del plazo de tres días. En caso de que se abstenga de hacerlo, se tendrá por no interpuesto el recurso.
 
+> <small>(ADICIONADO, D.O.F. 17 DE JULIO DE 2017)</small>
+
+ARTICULO 46 BIS.- Las notificaciones de los actos relacionados con la tramitación del recurso de reconsideración se realizarán en los términos establecidos en la Ley y en este Reglamento.
+
+A las notificaciones precisadas en el párrafo anterior se aplicará supletoriamente las disposiciones contenidas en el Código Fiscal de la Federación, siempre que estas no se opongan a las reglas de las notificaciones contenidas en la citada Ley o en este Reglamento.
+
 > <small>(REFORMADO, D.O.F. 30 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 47.
@@ -1799,9 +1989,13 @@ Corresponderá al personal de la Oficina de lo Contencioso del Banco practicar l
 
 Será medio de identificación de los notificadores y ejecutores citados, la credencial, que para tales efectos, expida en su favor el Banco de México o, en su caso, el oficio firmado por el Director Jurídico que los faculte para realizar tales funciones.
 
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2017)</small>
+
 ###### ARTICULO 51.
 
-(DEROGADO, D.O.F. 30 DE ENERO DE 2015)
+Las notificaciones surtirán sus efectos el día hábil siguiente a aquel en que hayan sido realizadas.
+
+Las notificaciones por estrados surtirán sus efectos al día siguiente en que el acuerdo, acto o resolución de que se trate, se hubiere fijado en la lista a que se refiere el artículo 49 de este Reglamento.
 
 ###### ARTICULO 52.
 
@@ -1923,25 +2117,25 @@ En contra de la resolución del recurso de revisión procederá el juicio de amp
 
 Cuando en el presente Reglamento se usen los términos Ley, Banco, Junta y Gobernador deberán entenderse referidos a la Ley del Banco de México, al Banco de México, a su Junta de Gobierno y Gobernador, respectivamente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 66.
 
-Sin perjuicio de lo señalado en el artículo 45 de la Ley del Banco de México, durante las ausencias de los Directores Generales, Directores, Gerentes, Cajeros Regionales y titular de la Unidad de Transparencia, estos podrán ser substituidos por el funcionario de la jerarquía inmediata inferior a la del ausente, que desempeñe funciones relacionadas con el asunto de que se trate. El funcionario que ejercite la facultad aquí señalada deberá indicar que actúa en los términos de este artículo. Esta disposición no es aplicable al artículo 4o. Bis de este Reglamento.
+Sin perjuicio de lo señalado en el artículo 45 de la Ley del Banco de México, durante las ausencias de los Directores Generales, Directores, Gerentes, Cajeros Regionales y titulares de las Unidades de Transparencia y Auditoría, estos podrán ser substituidos por el funcionario de la jerarquía inmediata inferior a la del ausente, que desempeñe funciones relacionadas con el asunto de que se trate. El funcionario que ejercite la facultad aquí señalada deberá indicar que actúa en los términos de este artículo. Esta disposición no es aplicable al artículo 4o. Bis de este Reglamento.
 
 > <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2015)</small>
 
 Tratándose de las adjudicaciones de contratos que, de acuerdo con las disposiciones aplicables, deban ser suscritas por el titular de la Dirección de Recursos Materiales, en su ausencia aquéllas serán firmadas por el Director General de Sistemas de Pagos y Servicios Corporativos. En ausencia de ambos, las adjudicaciones señaladas deberán ser firmadas por dos funcionarios que actúen en forma mancomunada y que ocupen puestos de Gerente, adscritos a la propia Dirección de Recursos Materiales.
 
-> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2017)</small>
 
-En el caso de procesos de carácter judicial, administrativo o del trabajo, en los que deban intervenir el Gobernador, la Junta de Gobierno, alguno de sus miembros, los Directores Generales, Directores o el titular de la Unidad de Transparencia, las promociones correspondientes podrán ser firmadas, en su ausencia, por el Director General Jurídico o el Director Jurídico. En ausencia de estos últimos, podrán firmar el Gerente Jurídico de lo Contencioso o el Subgerente Jurídico de lo Contencioso.
+En el caso de procesos de carácter judicial, administrativo o del trabajo, en los que deban intervenir el Gobernador, la Junta de Gobierno, alguno de sus miembros, los Directores Generales, Directores o los titulares de las Unidades de Transparencia o Auditoría, las promociones correspondientes podrán ser firmadas, en su ausencia, por el Director General Jurídico o el Director Jurídico. En ausencia de estos últimos, podrán firmar el Gerente Jurídico de lo Contencioso o el Subgerente Jurídico de lo Contencioso.
 
-> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 67.
 
-El Banco de México, su Gobernador, la Junta de Gobierno, sus miembros, los Directores Generales, el Secretario de la Junta, los Directores y el titular de la Unidad de Transparencia, podrán ser representados en el juicio de amparo, en las controversias constitucionales o en cualquier otro proceso de carácter constitucional, según corresponda, por el Director General Jurídico o el Director Jurídico. En ausencia de estos últimos, dicha representación recaerá en el Gerente Jurídico de lo Contencioso o el Subgerente Jurídico de lo Contencioso.
+El Banco de México, su Gobernador, la Junta de Gobierno, sus miembros, los Directores Generales, el Secretario de la Junta, los Directores y los titulares de las Unidades de Transparencia y Auditoría podrán ser representados en el juicio de amparo, en las controversias constitucionales o en cualquier otro proceso de carácter constitucional, según corresponda, por el Director General Jurídico o el Director Jurídico. En ausencia de estos últimos, dicha representación recaerá en el Gerente Jurídico de lo Contencioso o el Subgerente Jurídico de lo Contencioso.
 
 ## TRANSITORIOS
 
@@ -2376,3 +2570,17 @@ D.O.F. 6 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DE LAS "REFORMAS AL REGLAMENTO INTERIOR DEL BANCO DE MÉXICO".]
 
 PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de México entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS AL REGLAMENTO INTERIOR DEL BANCO DE MÉXICO."]
+
+PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de México entrarán en vigor el 19 de julio de 2017, sin perjuicio de lo previsto en los transitorios siguientes.
+
+SEGUNDO. Las referencias, remisiones o contenidos de las presentes modificaciones que estén vinculados con la aplicación de la Ley General del Sistema Nacional Anticorrupción, de la Ley General de Responsabilidades Administrativas, de la Ley de Fiscalización y Rendición de Cuentas de la Federación y de las nuevas facultades del Tribunal Federal de Justicia Administrativa, entrarán en vigor cuando dichos ordenamientos se encuentren vigentes.
+
+Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor de la Ley General de Responsabilidades Administrativas, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
+
+TERCERO. Las referencias a la Dirección de Auditoría contenidas en la normatividad del Banco de México deberán entenderse hechas a la Unidad de Auditoría.
+
+CUARTO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legales.
