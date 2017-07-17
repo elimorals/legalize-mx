@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2017-06-19"
+last_updated: "2017-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2017.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -3225,7 +3225,7 @@ Dirección de Desarrollo Familiar Comunitario.
 
 Departamento de Atención a Adultos Mayores.
 
-Departamento de Atención a la Juventud.
+> <small>(DEROGADO, P.O. 17 DE JULIO DE 2017)</small>
 
 Departamento de Desarrollo Infantil.
 
@@ -3489,7 +3489,7 @@ Departamento de Auditoría, Mejora Continua y Normatividad.
 
 Departamento de Seguimiento y Eficiencia Presupuestal.
 
-> <small>[N. DE E. DEL ANÁLISIS AL PROYECTO DE REFORMA PUBLICADO EN EL P.O. 20 DE MARZO DE 2017, SE ADVIERTE QUE LA PRESENTE FRACCIÓN SE MODIFICÓ DE FORMA SUSTANCIAL EN SU ESTRUCTURA ]</small>
+> <small>[N. DE E. DEL ANÁLISIS AL PROYECTO DE REFORMA PUBLICADO EN EL P.O. 20 DE MARZO DE 2017, SE ADVIERTE QUE LA PRESENTE FRACCIÓN SE MODIFICÓ DE FORMA SUSTANCIAL EN SU ESTRUCTURA]</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -7685,7 +7685,7 @@ Para calificación, reclasificación y reconsideración de las multas de tránsi
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-###### ARTICULO 310.
+###### ARTÍCULO 310.
 
 Los infractores que no estén de acuerdo con la calificación de alguna boleta de infracción, deberán recurrir ante el Juzgado Municipal comisionado a la Dirección de Tránsito y Movilidad dentro del término establecido en el artículo 144 fracción VI de la Ley de Vialidad para el Estado de Aguascalientes, a solicitar la reconsideración, que tiene como objeto, el confirmar, revocar o modificar la sanción impuesta.
 
@@ -8013,7 +8013,7 @@ En ningún caso el personal del Municipio podrá obtener dominio de los bienes p
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-###### ARTICULO 332.
+###### ARTÍCULO 332.
 
 En caso de que cualquier persona adscrita a la Dirección de Justicia Municipal constatara que el infractor, al momento de su detención fue objeto de malos tratos, de abuso, golpes o merma en sus pertenencias, por parte del personal de la Secretaría de Seguridad Pública, deberá de elaborar informe de hechos, para los efectos de remitirlo a la Dirección de Asuntos Internos de Seguridad Pública, con el objeto de proceder a los correctivos a que haya lugar, o en su caso dar vista al Ministerio Público.
 
@@ -9321,7 +9321,7 @@ La administración de un panteón, sólo podrá negarse a realizar los servicios
 
 > <small>(REFORMADO, P.O. 13 DE ABRIL DE 2015)</small>
 
-###### ARTICULO 460.
+###### ARTÍCULO 460.
 
 La inhumación, incineración o cremación cuando la haya, se efectuará en los panteones legalmente establecidos, previo pago correspondiente de los derechos al Municipio.
 
@@ -9337,7 +9337,7 @@ Los cadáveres deberán embalsamarse, inhumarse, incinerarse o cremarse dentro d
 
 > <small>(REFORMADO, P.O. 13 DE ABRIL DE 2015)</small>
 
-###### ARTICULO 463.
+###### ARTÍCULO 463.
 
 Ninguna exhumación podrá verificarse antes de transcurrido seis años mínimo de haber sido inhumado para las personas mayores de quince años de edad y cinco años para las personas menores de quince años de edad al momento de su fallecimiento. salvo en los casos que señale el presente Código, o por orden de la autoridad judicial, en asuntos de su competencia.
 
@@ -9979,7 +9979,7 @@ Las áreas naturales protegidas de competencia municipal son predios o superfici
 
 > <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
 
-ARTICULO 499 BIS.- Las categorías de las áreas naturales protegidas municipales son:
+ARTÍCULO 499 BIS.- Las categorías de las áreas naturales protegidas municipales son:
 
 I.- Parques urbanos.- son áreas de uso público de los centros de población que contribuyen a regular y preservar el balance ambiental entre las áreas urbanas e industriales con la naturaleza; en ellas se protegen elementos naturales o culturales y se repercute benéficamente en el medio ambiente. Estas áreas traen como beneficio la regulación del clima dentro de la ciudad y funcionan como espacios de recreación y/o contemplación para las personas; y
 
@@ -12279,7 +12279,7 @@ IX. Conocer y resolver de los recursos de reconsideración y revocación que pre
 
 > <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2014)</small>
 
-ARTICULO 607 BIS.- Para el correcto desempeño de las actividades de la Comisión de Honor y Justicia, el Secretario Técnico al que se refiere el artículo 605 fracción II del presente ordenamiento legal, tendrá las siguientes facultades y obligaciones:
+ARTÍCULO 607 BIS.- Para el correcto desempeño de las actividades de la Comisión de Honor y Justicia, el Secretario Técnico al que se refiere el artículo 605 fracción II del presente ordenamiento legal, tendrá las siguientes facultades y obligaciones:
 
 I.- Representar legalmente ante cualquier instancia a la Comisión, en los procedimientos judiciales y administrativos con todos los derechos procesales que las disposiciones legales otorgan en cumplimiento de sus funciones. Rindiendo informe de ellos al Director de Asuntos Jurídicos del Municipio.
 
@@ -12871,7 +12871,7 @@ La calidad de Perito Responsable de Obra se adquiere con el registro de la perso
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2016)</small>
 
-###### ARTICULO 637.
+###### ARTÍCULO 637.
 
 Perito Especializado, es la persona física con los conocimientos técnicos adecuados para intervenir en corresponsabilidad con el perito responsable de obra, en todos los aspectos de las obras en las que otorgue su responsiva, relativos a diseño arquitectónico, urbanismo y diseño urbano, diseño estructural, mecánica de suelos, instalaciones eléctricas, geología o geofísica, según sea el caso y deberá cumplir con los requisitos establecidos en este Código.
 
@@ -20063,7 +20063,7 @@ I. Nombre o razón social del propietario, fabricante, arrendatario o rotulista,
 
 II. Número de la licencia expedida por la Secretaría.
 
-###### ARTICULO 1224.
+###### ARTÍCULO 1224.
 
 La persona propietaria o poseedora de algún anuncio estructural, o en su caso, el propietario del predio o inmueble donde se encuentra ubicado el anuncio, serán responsables de cualquier daño que éste pudiera causar a la infraestructura municipal instalada en la vía pública o a terceros en sus bienes o en sus personas.
 
@@ -20725,7 +20725,7 @@ VII. Deberán observarse las demás disposiciones reglamentarias en materia de i
 
 Tratándose de inmuebles de hasta tres niveles, la altura máxima de los anuncios no podrá ser mayor al 12 por ciento de su altitud. En el caso de inmuebles más elevados, la altura máxima de los anuncios será la que represente el 10 por ciento de su altura, debiendo colocarse en el tercio superior de éstos y una longitud máxima del 40 por ciento del frente del inmueble.
 
-###### ARTICULO 1265.
+###### ARTÍCULO 1265.
 
 Son consideradas Zonas Prohibidas para la instalación de todo tipo de anuncios, las siguientes:
 
@@ -20749,13 +20749,13 @@ VII. Los elaborados con piedras o materiales similares en la superficie de los c
 
 VIII. Las demás prohibidas expresamente por otras disposiciones legales, el Código y este Código Municipal.
 
-###### ARTICULO 1266.
+###### ARTÍCULO 1266.
 
 Son consideradas Zonas o Nodos de Alta Concentración, las áreas establecidas por sus características, en donde en igualdad de condiciones, podrán ubicarse anuncios estructurales con poste mayor de 12 pulgadas de diámetro, a una distancia menor a la señalada por este Código Municipal.
 
 Las Zonas de Alta Concentración se delimitan en anexo gráfico de este Código Municipal.
 
-###### ARTICULO 1267.
+###### ARTÍCULO 1267.
 
 La instalación de anuncios estructurales en las Zonas autorizadas de Alta Concentración, está sujeta a las siguientes disposiciones especiales, además de las ya indicadas a esos anuncios, así como a las normas técnicas generales de este Código Municipal:
 
@@ -20923,7 +20923,7 @@ La denuncia popular deberá interponerse por escrito con nombre, firma autógraf
 
 > <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
 
-###### ARTICULO 1291.
+###### ARTÍCULO 1291.
 
 La Secretaría una vez recibida la denuncia popular, integrará el expediente respectivo y solicitará a la Coordinación General de Verificación Única Administrativa que practique las visitas de verificación y diligencias necesarias; la Secretaría emitirá la resolución correspondiente conforme a lo dispuesto por la legislación en la materia, misma que notificará al denunciante como respuesta a su petición.
 
@@ -23601,7 +23601,7 @@ El Cabildo determinará y modificará las tarifas a que deberán ajustarse los a
 
 (DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
 
-###### ARTICULO 1404.
+###### ARTÍCULO 1404.
 
 (DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
 
@@ -24917,7 +24917,7 @@ Cuando alguien promueva en representación de alguna persona física o moral, pa
 
 > <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
 
-###### ARTICULO 1525.
+###### ARTÍCULO 1525.
 
 Cuando en una solicitud, escrito o comunicación fungieren varios interesados, las actuaciones a que den lugar se efectuarán con el representante común o interesado que expresamente hayan señalado y, en su defecto, con el que fungiere en primer término.
 
@@ -24949,7 +24949,7 @@ Las actuaciones y diligencias administrativas municipales se practicarán en hor
 
 > <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
 
-###### ARTICULO 1529.
+###### ARTÍCULO 1529.
 
 En cualquier término no se contarán los días inhábiles; se considerarán inhábiles: sábados y domingos, el primero de enero, cinco de febrero veintiuno de marzo, primero y cinco de mayo, veintitrés de junio, primero y dieciséis de septiembre, veinte de noviembre, primero de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Estatal y veinticinco de diciembre y aquellos días en que se suspendan labores. No se consideran días hábiles aquellos en que se suspendan labores administrativas, aún y cuando exista guardias para la atención de servicios públicos primordiales.
 
@@ -25449,7 +25449,7 @@ En este procedimiento son admisibles todas las pruebas, a excepción de la confe
 
 Para el desahogo de la prueba testimonial, será obligación del oferente presentar personalmente a sus testigos o a los peritos que ofrezca. En lo no previsto en el presente Código, respecto al ofrecimiento y desahogo de las pruebas, se aplicará supletoriamente el Código de Procedimientos Civiles del Estado.
 
-###### ARTICULO 1567.
+###### ARTÍCULO 1567.
 
 Concluido el desahogo de las pruebas y emitidos los alegatos correspondientes o renunciado el derecho para hacerlo, la autoridad que conozca del trámite resolverá en un término que no exceda de diez días hábiles.
 
@@ -27261,25 +27261,53 @@ SÉPTIMO: Todas y cada una de las Unidades Administrativas, así como también l
 
 P.O. 19 DE JUNIO DE 2017.
 
-> <small>[N. DE E. TRANSITORIOS POR LOS QUE "SE REFORMAN LOS ARTÍCULOS 82, 491-7 Y 1574, DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]</small>
+> <small>[N. DE E. TRANSITORIOS POR LOS QUE “SE REFORMAN LOS ARTÍCULOS 82, 491-7 Y 1574, DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]</small>
 
 PRIMERO: Se reforma el artículo 82, y se hacen adiciones a los artículos 491-7 y 1574 del Código Municipal de Aguascalientes.
 
 SEGUNDO: Las presentes reformas y adiciones entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-###### ARTICULO SEPTIMO.
+P.O. 17 DE JULIO DE 2017.
 
-Se crean las comisiones estatales electorales de los Estados de Baja California Sur y Quintana Roo, integradas por un presidente que serán los secretarios generales de gobierno, un secretario y un vocal, designados por los Gobernadores Provisionales y por un comisionado de cada uno de los partidos políticos nacionales. Por cada miembro propietario se nombrará un suplente.
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA JUVENTUD DE AGUASCALIENTES Y REFORMAS AL CÓDIGO MUNICIPAL DE AGUASCALIENTES Y AL REGLAMENTO DEL CONSEJO MUNICIPAL DE LA JUVENTUD DE AGUASCALIENTES."]
 
-###### ARTICULO OCTAVO.
+###### ARTÍCULO PRIMERO.
 
-Los Magistrados del Tribunal Superior de Justicia del Distrito y Territorios Federales y los jueces del fuero común del mismo Distrito y Territorios Federales, actualmente en ejercicio, cesarán en su encargo, salvo que sean reelectos, el mismo día en que tomen posesión de sus puestos, los funcionarios judiciales designados de acuerdo con las disposiciones de la Constitución.
+El Reglamento del Instituto Municipal de la Juventud de Aguascalientes, iniciarán (sic) su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado, sin perjuicio de lo dispuesto en los siguientes artículos.
 
-###### ARTICULO NOVENO.
+###### ARTÍCULO SEGUNDO.
 
-El Tribunal Superior de Justicia del Distrito y Territorios Federales designará, dentro de los treinta días siguientes a la fecha en que hayan tomado posesión de sus cargos los Magistrados que lo componen, a los jueces del fuero común del Distrito y Territorios Federales.
+Las reformas al Código Municipal y al Reglamento del Consejo Municipal de la Juventud de Aguascalientes, iniciarán su vigencia el día en que sea designado el Director General del Instituto Municipal de la Juventud de Aguascalientes.
 
-D.O.F. 28 DE MARZO DE 1951.
+###### ARTÍCULO TERCERO.
+
+La Junta de Gobierno deberá instalarse dentro de los siguientes treinta días hábiles, contados a partir de que inicie su vigencia el Reglamento del Instituto Municipal de la Juventud.
+
+###### ARTÍCULO CUARTO.
+
+La Presidente Municipal deberá presentar a la Junta de Gobierno, la propuesta de Director General del Instituto Municipal de la Juventud de Aguascalientes, dentro de los siguientes treinta días hábiles, contados a partir de que se instale la propia Junta de Gobierno.
+
+Una vez designado el Director General del Instituto Municipal de la Juventud de Aguascalientes, se deberán realizar los trámites respectivos para transferir a dicho Instituto, los recursos humanos, financieros y materiales del Departamento de Atención a la Juventud, perteneciente a la Dirección de Desarrollo Familiar Comunitario de la Dirección General del Sistema para el Desarrollo Integral de la Familia.
+
+###### ARTÍCULO QUINTO.
+
+La Junta de Gobierno del Instituto Municipal de la Juventud de Aguascalientes, deberá expedir el Reglamento Interior de dicho Instituto, dentro de los siguientes treinta días hábiles, contados a partir de su instalación.
+
+###### ARTÍCULO SEXTO.
+
+En caso de que una vez designado el Director General del Instituto Municipal de la Juventud de Aguascalientes, no se haya expedido la convocatoria referida en el artículo 12 del Reglamento del Consejo Municipal de la Juventud de Aguascalientes, tal convocatoria deberá emitirse dentro de los siguientes treinta días hábiles.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las referencias hechas al Departamento de Atención a la Juventud en disposiciones reglamentarias, administrativas, contractuales y demás instrumentos legales, se entenderán realizadas al Instituto Municipal de la Juventud de Aguascalientes.
+
+###### ARTÍCULO OCTAVO.
+
+El personal del Departamento de Atención a la Juventud que sea transferido al Instituto Municipal de la Juventud de Aguascalientes, conservará los derechos laborales que haya adquirido con anterioridad.
+
+###### ARTÍCULO NOVENO.
+
+La Secretaría de Administración y la Secretaría de Finanzas llevarán a cabo todos los actos legales y administrativos, que se deriven de las presentes reformas.
 
 ###### ARTICULO UNICO.
 
