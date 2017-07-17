@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-secretaria-de-la-contraloria-y-74807"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-15"
-last_updated: "2016-06-20"
+last_updated: "2017-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74807&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA Y TRANSPARENCIA MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO: 20 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO: 17 DE JULIO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 15 de marzo de 2010.
 
@@ -85,7 +85,7 @@ El presente reglamento es de orden público, de interés social, siendo obligato
 
 La Secretaría de la Contraloría y Transparencia, es un órgano auxiliar del Ayuntamiento en materia de vigilancia, control interno, fiscalización, supervisión y evaluación de los elementos de la cuenta pública, de conformidad con las atribuciones que le confiere el Reglamento Orgánico de la Administración Pública Municipal de San Pedro Garza García, Nuevo León.
 
-> <small>N. DE E. DE LA APLICACIÓN DE REFORMA AL PRESENTE ARTÍCULO, PUBLICADA EN EL P.O. DE 2 DE ABRIL DE 2014, SE ADVIERTE QUE EN SU TEXTO ORIGINAL LA NUMERACIÓN SE INTEGRABA POR NÚMEROS ARÁBIGOS, SIENDO ESTA MODIFICADA POR NÚMEROS ROMANOS.</small>
+> <small>[N. DE E. DE LA APLICACIÓN DE REFORMA AL PRESENTE ARTÍCULO, PUBLICADA EN EL P.O. DE 2 DE ABRIL DE 2014, SE ADVIERTE QUE EN SU TEXTO ORIGINAL LA NUMERACIÓN SE INTEGRABA POR NÚMEROS ARÁBIGOS, SIENDO ESTA MODIFICADA POR NÚMEROS ROMANOS.]</small>
 
 ###### Artículo 3.
 
@@ -103,25 +103,25 @@ III. Comisión de Honor y Justicia: La Comisión de Honor y Justicia en Materia 
 
 IV. Contralor: El Secretario de la Contraloría y Transparencia.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2014)</small>
 
 V. Contraloría: La Secretaría de la Contraloría y Transparencia de San Pedro Garza García, Nuevo León.
 
 VI. Ley de Responsabilidades: La Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2017)</small>
 
-VII. Ley de Transparencia: Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
+VII. Ley de Transparencia: Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León;
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2014)</small>
 
 VIII. Municipio: El Municipio de San Pedro Garza García, Nuevo León.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2014)</small>
 
 IX. Reglamento: Reglamento Interior de la Secretaría de la Contraloría y Transparencia de San Pedro Garza García, Nuevo León.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE ABRIL DE 2014)</small>
 
 X. Reglamento Orgánico: Reglamento Orgánico de la Administración Pública Municipal de San Pedro Garza García.
 
@@ -351,15 +351,15 @@ III. Jefe de Departamento; y
 
 IV. El demás personal administrativo necesario para su funcionamiento, de acuerdo a las determinaciones presupuestales.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE JULIO DE 2017)</small>
 
-### CAPÍTULO VII. DE LAS ATRIBUCIONES DE LA COORDINACIÓN DE NORMATIVIDAD, TRANSPARENCIA Y CUENTA PÚBLICA
+### CAPÍTULO VII. DE LAS ATRIBUCIONES DE LA DIRECCIÓN DE TRANSPARENCIA, NORMATIVIDAD Y CUENTA PÚBLICA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE JULIO DE 2017)</small>
 
 ###### Artículo 14.
 
-La Coordinación de Normatividad, Transparencia y Cuenta Pública tendrá a su cargo el ejercicio de las siguientes atribuciones:
+La Dirección de Transparencia, Normatividad y Cuenta Pública tendrá a su cargo el ejercicio de las siguientes atribuciones:
 
 I.- Revisar y analizar la normatividad vigente y en coordinación con las dependencias involucradas, establecer mecanismos de prevención que auxilien en el cumplimiento de dicha normatividad, así como la evaluación de los trabajos realizados;
 
@@ -367,37 +367,29 @@ II.- (DEROGADA, P.O. 20 DE JUNIO DE 2016)
 
 III.- Emitir opinión respecto de los lineamientos que contengan los criterios para la organización, conservación y adecuado funcionamiento de los archivos de las dependencias y unidades administrativas del municipio;
 
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2016)</small>
+IV.- (DEROGADA, P.O. 17 DE JULIO DE 2017)
 
-IV.- Dar seguimiento a las solicitudes de acceso a la información en los términos de la Ley de Transparencia y al reglamento municipal en la materia;
+V.- (DEROGADA, P.O. 17 DE JULIO DE 2017)
 
-V.- Llevar a cabo acciones y programas que propicien la legalidad y transparencia en la gestión pública, así como la debida rendición de cuentas, el acceso a la información pública gubernamental y la protección de los datos personales en poder de la administración municipal;
+VI.- (DEROGADA, P.O. 17 DE JULIO DE 2017)
 
-VI.- Supervisará que la administración municipal dé exacto cumplimiento a la obligación de hacer del conocimiento público a través de la red mundial de información conocida como Internet, la información que señala la Ley de Transparencia;
+VII.- (DEROGADA, P.O. 17 DE JULIO DE 2017)
 
-VII.- Dar seguimiento a las quejas o denuncias que los ciudadanos presenten respecto a la falta de actualización de la información pública en el portal de Internet de la administración municipal;
+VIII.- (DEROGADA, P.O. 17 DE JULIO DE 2017)
 
-VIII.- Integrar la información que le proporcionen las dependencias municipales para propósitos de su difusión;
-
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2016)</small>
-
-IX.- Dar respuesta a las solicitudes de información, de acuerdo con lo que señala la Ley de Transparencia y el reglamento municipal en la materia;
+IX.- (DEROGADA, P.O. 17 DE JULIO DE 2017)
 
 > <small>(REFORMADA, P.O. 20 DE JUNIO DE 2016)</small>
 
 X.- Ejecutar las recomendaciones que emita el Republicano Ayuntamiento y vigilar su exacto cumplimiento, debiendo rendir un informe a la Comisión de Contraloría y Transparencia Municipal;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE ABRIL DE 2014)</small>
-
-XI.- Tener el carácter de Enlace de Transparencia, en los términos de la Ley de Transparencia;
+XI.- (DEROGADA, P.O. 17 DE JULIO DE 2017)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE ABRIL DE 2014)</small>
 
 XII.- Coordinar y certificar el proceso de entrega-recepción del estado que guarda la administración pública municipal, así como cuando las dependencias y unidades administrativas cambien su titular, en los términos de lo dispuesto en el Reglamento Orgánico.
 
-> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2016)</small>
-
-XIII. Desplegar los programas, proyectos y acciones necesarias para garantizar el derecho de los ciudadanos al acceso a la información pública;
+XIII.- (DEROGADA, P.O. 17 DE JULIO DE 2017)
 
 > <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2016)</small>
 
@@ -427,29 +419,29 @@ XIX.- Constatar el cumplimiento que señala la Ley de Gobierno Municipal del Est
 
 XX.- Coordinar la elaboración y presentación de las respuestas a los resultados de las auditorías practicadas por la Auditoría Superior del Estado o por la Auditoría Superior de la Federación, en apoyo a las dependencias y unidades de la administración pública centralizada; y
 
-> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2016)</small>
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2017)</small>
 
-XXI. Las demás que le asigne el Contralor.
+XXI.- Apoyar al Contralor en la atención de las atribuciones y responsabilidades de la Unidad de Transparencia; y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2017)</small>
+
+XXII.- Las demás que le asigne el Contralor.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2017)</small>
 
 ###### Artículo 15.
 
-La Coordinación de Normatividad, Transparencia y Cuenta Pública contará con la siguiente estructura jerarquizada para el desempeño de sus funciones:
+La Dirección de Transparencia, Normatividad y Cuenta Pública contará con la siguiente estructura jerarquizada para el desempeño de sus funciones:
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+I. Director;
 
-I. Coordinador;
+II. Jefe de Transparencia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE JUNIO DE 2016)</small>
+III. Jefe de Normatividad;
 
-II. Responsable de Normatividad;
+IV. Analistas; y
 
-III.- Jefes de Unidad;
-
-IV.- Analistas; y,
-
-V.- El demás personal administrativo necesario para su funcionamiento, de acuerdo a las determinaciones presupuestales.
+V. El demás personal administrativo necesario para su funcionamiento, de acuerdo a las determinaciones presupuestales.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE ABRIL DE 2014)</small>
 
@@ -812,3 +804,11 @@ P.O. 20 DE JUNIO DE 2016.
 ###### ARTICULO ÚNICO.
 
 El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 17 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE "SE APRUEBA LA INICIATIVA DE REFORMA A LOS REGLAMENTOS PARA EL GOBIERNO INTERIOR DEL REPUBLICANO AYUNTAMIENTO, ORGÁNICO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL E INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA Y TRANSPARENCIA MUNICIPAL, TODOS DE SAN PEDRO GARZA GARCÍA, N.L.".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Acuerdo continuarán su despacho conforme a las disposiciones jurídicas contenidas en este Acuerdo.
