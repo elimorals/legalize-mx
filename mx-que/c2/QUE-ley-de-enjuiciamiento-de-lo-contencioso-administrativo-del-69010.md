@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-enjuiciamiento-de-lo-contencioso-administrativo-del-6901
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-17"
-last_updated: "2016-02-05"
+last_updated: "2017-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69010&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY DE ENJUICIAMIENTO DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL P. O. DE 17 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE ENJUICIAMIENTO DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de junio de 2009.
 
@@ -31,7 +33,9 @@ LIC. FRANCISCO GARRIDO PATRÓN, Gobernador Constitucional del Estado de Queréta
 
 LA QUINCUAGÉSIMA QUINTA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE LOS ARTÍCULOS 17 FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto, la Quincuagésima Quinta Legislatura del Estado de Querétaro expide la siguiente:
 
@@ -285,7 +289,7 @@ VII. Por medios cibernéticos o electrónicos, cuando las partes del procedimien
 
 Las notificaciones se entenderán con la persona que deba ser notificada o su representante legal, a falta de ambos, el actuario dejará citatorio con cualquier persona que se encuentre en el domicilio para que se le espere a una hora fija del día hábil siguiente; si ésta se negara a recibirlo, el citatorio se fijará en la puerta o espacio visible del lugar, habiéndose cerciorado previamente de que se trata del domicilio del buscado.
 
-Si quien haya de notificarse no atendiera el citatorio, la notificación se hará por conducto de cualquier persona que se encuentre en el domicilio donde se realizare la diligencia y de negara a recibirla, se realizará por cédula que se fijará en la puerta del inmueble.
+Si quien haya de notificarse no atendiera el citatorio, la notificación se hará por conducto de cualquier persona que se encuentre en el domicilio donde se realizare la diligencia y de (sic) negara a recibirla, se realizará por cédula que se fijará en la puerta del inmueble.
 
 Si el domicilio se encontrara cerrado, la citación o notificación se entenderá con el vecino más cercano, debiendo fijarse una copia adicional en la puerta o lugar visible del inmueble.
 
@@ -1373,7 +1377,7 @@ Secretario de Gobierno
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 25 DE NOVIEMBRE DE 2011.
 
@@ -1388,3 +1392,19 @@ P.O. 5 DE FEBRERO DE 2016.
 Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro, "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 17 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley de Enjuiciamiento de lo Contencioso Administrativo del Estado de Querétaro publicada en el Periódico Oficial de (sic) Gobierno del Estado de Querétaro "La Sombra de Arteaga" en fecha 17 de junio de 2009.
+
+Artículo Tercero. Quedan sin efectos las disposiciones legales, que contravengan o se opongan a lo preceptuado en esta Ley.
+
+Artículo Cuarto. Los juicios que se encuentren en trámite ante el Tribunal de Justicia Administrativa del Estado de Querétaro, al momento de entrar en vigor la presente Ley, se tramitarán hasta su total resolución conforme a las disposiciones legales vigentes en el momento de la presentación de la demanda.
+
+Artículo Quinto. Las garantías otorgadas por las partes con la finalidad de suspender los procedimientos administrativos de ejecución ante la Sala Unitaria y los Juzgados Contenciosos Administrativos, deberán de entregarse en un plazo de cinco días a las autoridades fiscales encargadas de hacer efectivos los créditos fiscales a cargo de los demandantes.
+
+Artículo Sexto. El Pleno de la Sala Superior del Tribunal de Justicia Administrativa del Estado de Querétaro, conocerá y resolverá los recursos de revisión y demás asuntos cuyo trámite se hubiese iniciado ante la extinta Sala Unitaria del Tribunal de lo Contencioso Administrativo del Estado de Querétaro o aquellos promovidos con anterioridad a la entrada en vigor de esta Ley. De igual forma conocerá de los que se tramiten con posterioridad al momento en que esta Ley cobre vigencia y deban sustanciarse conforme a la Ley de Enjuiciamiento de lo Contencioso Administrativo del Estado de Querétaro.
