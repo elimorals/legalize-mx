@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-de-la-secretaria-de-la-contraloria-21291"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-05-04"
-last_updated: "2001-05-04"
+last_updated: "2017-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21291&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 4 de mayo de 2001.
 
@@ -358,3 +358,27 @@ SECRETARIO DE GOBIERNO
 C. DULCE MARIA YARZA DIAZ
 
 SECRETARIO DE LA CONTRALORIA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO”.]
+
+Primero. Publíquese el presente Reglamento en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Segundo. El presente Reglamento entrará en vigor el 19 de julio de 2017.
+
+Tercero. Se abroga el Reglamento Interior de la Secretaría de la Contraloría publicado en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" el 4 de mayo de 2001.
+
+Cuarto. Se abroga el Acuerdo mediante el cual las dependencias y organismos descentralizados, fideicomisos y empresas de participación estatal deberán contar con un Órgano Interno de Control o Contraloría Interna para la aplicación del Sistema Estatal de Prevención, Vigilancia, Control y Evaluación, publicado en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", de fecha 4 de noviembre de 1993; así como las Normas Generales de Actuación de los Órganos Internos de Control, publicadas en ese mismo medio de difusión oficial de fecha 15 de febrero de 1994.
+
+Quinto. Se derogan todas las disposiciones de menor o igual jerarquía que se opongan al presente Reglamento.
+
+Sexto. Los asuntos que a la entrada en vigor del presente Reglamento se encuentren en trámite ante las unidades administrativas y/o departamentos de la Secretaría, que modifiquen su denominación o atribuciones en virtud de la entrada en vigor de este Reglamento, serán atendidos y resueltos por las unidades administrativas y/o departamentos a los que se les otorgue la competencia correspondiente en este instrumento.
+
+Séptimo. Las referencias que se hagan y las atribuciones que se otorgan en decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones, a las unidades administrativas adscritas a la Secretaría, que desaparezcan o cambien de denominación por virtud del presente reglamento, se entenderán hechas o conferidas a las unidades administrativas que resulten competentes conforme al mismo.
+
+Octavo. Hasta en tanto se realicen las modificaciones a la estructura orgánica de los Órganos Internos del Control adscritos a las dependencias, conforme a lo dispuesto en este Reglamento, éstos serán suplidos en el ejercicio de las atribuciones relativas a la substanciación y resolución de los procedimientos de responsabilidad administrativa que les corresponda conocer en términos de este Reglamento y de las demás disposiciones jurídicas aplicables, por el departamento competente de la Dirección Jurídica y de Responsabilidad Administrativa de la Secretaría.
+
+Hasta en tanto se realicen las modificaciones a la estructura orgánica de los Órganos Internos del Control adscritos a las entidades, conforme a lo dispuesto en este Reglamento, éstos serán suplidos en el ejercicio de las atribuciones relativas a la substanciación y resolución de los procedimientos de responsabilidad administrativa que les corresponda conocer en términos de este Reglamento y de las demás disposiciones jurídicas aplicables, en primer término por el Órgano Interno de Control de la dependencia coordinadora de sector y, a falta de éste, el departamento competente de la Dirección Jurídica y de Responsabilidad Administrativa de la Secretaría.
