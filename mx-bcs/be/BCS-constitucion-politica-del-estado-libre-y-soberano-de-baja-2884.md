@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2017-06-22"
+last_updated: "2017-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 17 DE JULIO DE 2017.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -729,7 +729,7 @@ Durante el tiempo que comprendan las campañas electorales locales y hasta la co
 
 III.- El financiamiento público para los partidos políticos que mantengan su registro después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, las tendientes a la obtención del voto durante los procesos electorales y las de carácter específico, mismas que se otorgarán de acuerdo con las disponibilidades presupuestales y conforme a lo prescrito en la Ley General de Partidos Políticos.
 
-La Ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en los procesos internos de selección de candidatos y campañas electorales. Asimismo establecerá los montos máximos que tendrán las aportaciones de sus militantes y simpatizantes; ordenará los procedimientos para el control, fiscalización oportuna y vigilancia, durante la campaña, del origen y uso de todos los recursos con que cuenten: asimismo, dispondrá las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
+La Ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en los procesos internos de selección de candidatos y campañas electorales. Asimismo establecerá los montos máximos que tendrán las aportaciones de sus militantes y simpatizantes; ordenará los procedimientos para el control, fiscalización oportuna y vigilancia, durante la campaña, del origen y uso de todos los recursos con que cuenten; asimismo, dispondrá las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
 
 La ley fijara las causales de nulidad de las elecciones de gobernador, diputados y ayuntamientos, así como los plazos convenientes para el desahogo de todas las instancias impugnativas, tomando en cuenta el principio de definitividad de las etapas de los procesos electorales.
 
@@ -1355,7 +1355,9 @@ V. Derivado de sus investigaciones, promover las responsabilidades que sean proc
 
 VI. Determinar la existencia de daños y perjuicios que afecten a la Hacienda Pública estatal o municipal, promoviendo ante las autoridades competentes la imposición de las sanciones correspondientes;
 
-VII. Entregar al Congreso del Estado, a más tardar el 31 de octubre, los informes de resultados de la Fiscalización Superior de la Cuenta Pública y el Informe General Ejecutivo del Resultado de la Fiscalización Superior de la Cuenta Pública, debiendo guardar reserva de sus actuaciones y observaciones hasta que se publiquen los informes de la misma.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE JULIO DE 2017)</small>
+
+VII. Entregar al Congreso del Estado, a más tardar el último día hábil de los meses de junio y octubre, así como el 20 de febrero del año siguiente al de la presentación de la Cuenta Pública, los informes individuales de auditoría que concluya durante el periodo respectivo, así como, a más tardar en esta última fecha, entregar el Informe General Ejecutivo del Resultado de la Fiscalización Superior de la Cuenta Pública, debiendo guardar reserva de sus actuaciones y observaciones hasta que se publiquen los informes de la misma.
 
 En dicho informe, el cual tendrá carácter público, la Auditoría Superior del Estado incluirá los montos efectivamente resarcidos a la Hacienda Pública o al patrimonio de los entes públicos fiscalizados, como consecuencia de sus acciones de fiscalización, las denuncias penales presentadas y los procedimientos iniciados ante el Tribunal de Justicia Administrativa del Estado de Baja California Sur.
 
@@ -2509,7 +2511,9 @@ X.- Formular anualmente su proyecto de ley de ingresos que será sometido a apro
 
 XI.- Formular, aprobar, y publicar anualmente conforme a la Ley su Presupuesto de Egresos conforme a sus ingresos, debiendo preverse las partidas necesarias para cumplir con sus obligaciones, incluyendo las derivadas de la celebración de los Contratos de Servicios de Largo Plazo.
 
-XII.- Rendir al Congreso del Estado, por conducto de la Comisión Permanente, dentro de los dos primeros meses, la cuenta del gasto público del año anterior;
+> <small>(REFORMADA, B.O. 17 DE JULIO DE 2017)</small>
+
+XII.- Rendir al Congreso del Estado, a más tardar el 30 de abril, la cuenta del gasto público del año anterior.
 
 XIII.- Promover el desenvolvimiento social, cultural, artístico, deportivo, científico y tecnológico de la comunidad;
 
@@ -2723,9 +2727,9 @@ XII (SIC).- Y las demás que determine la Ley Orgánica Municipal reglamentaria 
 
 Los servidores públicos a que se refiere el presente artículo estarán obligados a presentar, bajo protesta de decir verdad, su declaración patrimonial y de intereses ante las autoridades competentes y en los términos que determine la ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE JULIO DE 2017)</small>
 
-157.- El Congreso del Estado, dentro del ámbito de su competencia, expedirá la Ley de Responsabilidades Administrativas para el Estado de Baja California Sur y las demás leyes y normas conducentes a sancionar a Los servidores públicos y particulares que incurran en responsabilidad frente al Estado, quienes serán sancionados conforme a lo siguiente:
+157.- El Congreso del Estado, dentro del ámbito de su competencia, expedirá la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur y las demás leyes y normas conducentes a sancionar a Los servidores públicos y particulares que incurran en responsabilidad frente al Estado, quienes serán sancionados conforme a lo siguiente:
 
 > <small>(REFORMADA, B.O. 28 DE FEBRERO DE 2017)</small>
 
@@ -2813,9 +2817,9 @@ VI.- La responsabilidad por delitos cometidos durante el tiempo del encargo por 
 
 VII.- El Gobernador del Estado, durante el período de su encargo solo podrá ser acusado de acuerdo a lo establecido en la Constitución General de la República y por delitos graves del orden común.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE FEBRERO DE 2017)</small>
+REFORMADO PRIMER PÁRRAFO, B.O. 17 DE JULIO DE 2017)
 
-160.- La Ley de Responsabilidades Administrativas para el Estado de Baja California Sur y las demás que resulten aplicables a los servidores públicos, determinarán sus obligaciones, a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad, economía y eficiencia en el desempeño de sus funciones, empleos o comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas.
+160.- La Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur y las demás que resulten aplicables a los servidores públicos, determinarán sus obligaciones, a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad, economía y eficiencia en el desempeño de sus funciones, empleos o comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas.
 
 > <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 1983)</small>
 
@@ -2923,9 +2927,9 @@ III. Rendirá un informe público a los titulares de los Poderes del Estado, en 
 
 IV.- Las demás facultades y atribuciones que dispongan las leyes de la materia.
 
-> <small>(ADICIONADO, B.O. 28 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, B.O. 17 DE JULIO DE 2017)</small>
 
-160 Ter.- La ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción II, del artículo 157 Bis de esta Constitución. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a siete años.
+160 Ter.- La ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción III, del artículo 157 de esta Constitución. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a siete años.
 
 ## TITULO UNDECIMO. DE LA REFORMA E INVIOLABILIDAD DE LA CONSTITUCION
 
@@ -4053,15 +4057,21 @@ B.O. 28 DE FEBRERO DE 2017.
 
 Artículo Primero. El presente Decreto entrará en vigor de forma parcial, en términos de los presentes transitorios, al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
-Artículo Segundo. El contenido del presente Decreto y el de las disposiciones que del mismo deriven, que se encuentren vinculados con la Ley de Responsabilidades Administrativas para el Estado de Baja California Sur, entrarán en vigor hasta que éste último ordenamiento cobre vigencia.
+> <small>(REFORMADO, B.O. 17 DE JULIO DE 2017)</small>
 
-Artículo Tercero. El Congreso del Estado deberá expedir la ley que establezca las bases del Sistema Estatal Anticorrupción a que se refiere el artículo 160 Bis de la Constitución Política, la Ley de Responsabilidades Administrativas para el Estado de Baja California Sur, así como la Ley Orgánica del Tribunal de Justicia Administrativa para el Estado de Baja California Sur, de igual manera expedir una nueva Ley de Fiscalización y Rendición de Cuentas del Estado de Baja California Sur, así como las adecuaciones a la Ley Orgánica de la Procuraduría General de Justicia, Ley Orgánica de la Administración Pública, Código Penal y las demás que resulten aplicables, a fin de dar cumplimiento a lo establecido en el presente Decreto y normas transitorias que correspondan.
+Artículo Segundo. El contenido del presente Decreto y el de las disposiciones que del mismo deriven, que se encuentren vinculados con la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur, entrarán en vigor hasta que éste último ordenamiento cobre vigencia.
+
+> <small>(REFORMADO, B.O. 17 DE JULIO DE 2017)</small>
+
+Artículo Tercero. El Congreso del Estado deberá expedir la ley que establezca las bases del Sistema Estatal Anticorrupción a que se refiere el artículo 160 Bis de la Constitución Política, la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur, así como la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Baja California Sur, de igual manera expedir una nueva Ley de Fiscalización y Rendición de Cuentas del Estado de Baja California Sur, así como las adecuaciones a la Ley Orgánica de la Procuraduría General de Justicia, Ley Orgánica de la Administración Pública, Código Penal y las demás que resulten aplicables, a fin de dar cumplimiento a lo establecido en el presente Decreto y normas transitorias que correspondan.
 
 Artículo Cuarto. La adición de la Sección VII denominada "De la Auditoría Superior del Estado", del Título Sexto, Capítulo I, con los artículos 66 Bis; 66 Ter; 66 Quater y 66 Quinquies de ésta Constitución, respecto de las funciones de fiscalización y revisión a cargo de la Auditoría Superior del Estado, entrarán en vigor en la misma fecha en que lo haga la nueva Ley de Fiscalización y Rendición de Cuentas del Estado de Baja California Sur y, en su caso, las demás normas estatales de la materia que sean reformadas e integradas en el mismo decreto que se emita con motivo de la armonización con la Ley General del Sistema Nacional Anticorrupción.
 
 Artículo Quinto. El titular de la Fiscalía Especializada en materia de Combate a la Corrupción será propuesto por el Gobernador del Estado, dentro de los treinta días hábiles siguientes a la fecha de entrada en vigor de las reformas a la Ley Orgánica de la Procuraduría General de Justicia en la que se regule la Fiscalía Especializada en materia de Combate a la Corrupción.
 
-Artículo Sexto.- La Sala Unitaria Administrativa del Tribunal Superior de Justicia del Estado de Baja California Sur continuará funcionando con su actual organización y atribuciones, así como substanciando los asuntos que se encuentren en trámite y los que se reciban hasta la fecha de entrada en vigor de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Baja California Sur, que expida el Congreso del Estado y hasta la conclusión de los mismos, por lo que el Magistrado que integra la Sala Unitaria Administrativa del Tribunal Superior de Justicia del Estado de Baja California Sur en funciones, continuará en su cargo por el período para el cual fue designado.
+> <small>(REFORMADO, B.O. 17 DE JULIO DE 2017)</small>
+
+Artículo Sexto.- La Sala Unitaria en Justicia Administrativa del Tribunal Superior de Justicia del Estado de Baja California Sur continuará funcionando con su actual organización y atribuciones, así como substanciando los asuntos que se encuentren en trámite y los que se reciban hasta el día en que sea formalmente instalado el Tribunal de Justicia Administrativa del Estado de Baja California Sur de conformidad con lo dispuesto por la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Baja California Sur que al efecto tenga a bien expedir el Congreso del Estado de Baja California Sur y hasta la conclusión de los mismos, por lo que el Magistrado que integra la Sala Unitaria en Justicia Administrativa del Tribunal Superior de Justicia del Estado de Baja California Sur en funciones, continuará en su cargo por el período para el cual fue designado.
 
 Artículo Séptimo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto.
 
@@ -4104,3 +4114,17 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+B.O. 17 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 2458.- SE REFORMAN LOS ARTÍCULOS 66 TER, FRACCIÓN VII, PRIMER PÁRRAFO; 148, FRACCIÓN XII Y 160 TER DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, EN MATERIA DE FISCALIZACIÓN; Y SE REFORMAN LOS ARTÍCULOS SEGUNDO Y TERCERO TRANSITORIOS DEL DECRETO NÚMERO 2427, PUBLICADO EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR, EL 28 DE FEBRERO DE 2017”.]
+
+###### ARTÍCULO ÚNICO
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 17 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 2464.- SE REFORMA EL ARTÍCULO TRANSITORIO SEXTO DEL DECRETO NÚMERO 2427, POR EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, PARA EL ESTABLECIMIENTO DEL SISTEMA ESTATAL ANTICORRUPCIÓN Y SU IMPLEMENTACIÓN, EN EL CONTEXTO Y BAJO LOS PRINCIPIOS DEL SISTEMA NACIONAL ANTICORRUPCIÓN, PUBLICADO EN EL BOLETÍN OFICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, DE FECHA 28 DE FEBRERO DE 2017; Y EL ARTÍCULO TRANSITORIO PRIMERO APARTADO A DEL ARTÍCULO TRANSITORIO SEGUNDO Y EL ARTÍCULO TRANSITORIO TERCERO DEL DECRETO NÚMERO 2449 POR EL CUAL SE EXPIDE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL BOLETÍN OFICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, DE FECHA 27 DE JUNIO DE 2017”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
