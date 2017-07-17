@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-tribunal-de-justicia-administrativa-del-122445
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-06-27"
-last_updated: "2017-06-27"
+last_updated: "2017-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122445&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 17 DE JULIO DE 2017.
 
 Ley publicada en el Extraordinario al No. 23 del Boletín Oficial del Estado de Baja California Sur, el martes 27 de junio de 2017.
 
@@ -521,15 +521,23 @@ Los Magistrados, así como los Secretarios y Actuarios se consideraran trabajado
 
 ## TRANSITORIOS
 
+> <small>(REFORMADO, B.O. 17 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+Publíquese el presente Decreto en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Sin perjuicio en lo dispuesto en los artículos transitorios siguientes, el presente Decreto entrará en vigor al día siguiente que se dicte el Acuerdo de Instalación del Tribunal de Justicia Administrativa del Estado de Baja California Sur.
+
+Los asuntos en que se suscitaré controversia, respecto de la competencia para conocer de los mismos, y entre tanto se instale formalmente el Tribunal de Justicia Administrativa, la competencia será, en todo caso, de la Sala Unitaria en Justicia Administrativa del Tribunal Superior de Justicia del Estado de Baja California Sur, en los términos del Artículo Transitorio Sexto del Decreto número 2427, por el cual se Reforman y Adicionan diversos artículos de la Constitución Política Del Estado Libre y Soberano de Baja California Sur, para el establecimiento del Sistema Estatal Anticorrupción y su implementación, en el contexto y bajo los principios del Sistema Nacional Anticorrupción, publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur, de fecha 28 de febrero de 2017.
 
 ###### ARTÍCULO SEGUNDO.
 
 Para la Instalación del Tribunal, siguiendo el procedimiento establecido por ésta Ley para su nombramiento, por única ocasión, se procederá de la siguiente forma:
 
-A. El nombramiento de un Magistrado, que deberá tomar protesta para iniciar su ejercicio en una fecha que no exceda el 18 de julio de 2017, fecha a partir de la cual correrá el tiempo que esta Ley establece por el que debe ser electo. Dicho Magistrado será Unitario y ejercerá las atribuciones que la presente Ley señala para el Pleno y será el Presidente del mismo por el plazo de dos años, en términos de la presente Ley;
+> <small>(REFORMADO, B.O. 17 DE JULIO DE 2017)</small>
+
+A. El nombramiento de un Magistrado, que deberá tomar protesta para iniciar su ejercicio en una fecha que no exceda el 30 de septiembre de 2017, fecha a partir de la cual correrá el tiempo que esta Ley establece por el que debe ser electo. Dicho Magistrado será Unitario y ejercerá las atribuciones que la presente Ley señala para el Pleno y será el Presidente del mismo por el plazo de dos años, en términos de la presente Ley. Para efectos de la instalación formal del Tribunal, se emitirá un Acuerdo de Instalación, el cual deberá ser publicado en el Boletín Oficial del Gobierno del Estado de acuerdo a lo dispuesto por el artículo 1 y la fracción IV del artículo 6 de la Ley del Boletín Oficial del Gobierno del Estado de Baja California Sur, sin demerito de lo anterior, el Tribunal entrara en funciones al día siguiente que se dicte el Acuerdo de Instalación;
 
 B. En el año 2018 deberá realizarse el nombramiento de un Magistrado más, que deberá tomar protesta para iniciar su ejercicio el día 18 de julio de 2018, fecha a partir de la cual correrá el tiempo que esta Ley establece por el que debe ser electo.
 
@@ -537,9 +545,11 @@ Dicho Magistrado formará el Tribunal Binario en unión con el Magistrado Presid
 
 C. En el año 2019 deberá realizarse el nombramiento de un Magistrado más, que deberá tomar protesta para iniciar su ejercicio el día 18 de julio de 2019, fecha a partir de la cual correrá el tiempo que esta Ley establece por el que debe ser electo. Dicho Magistrado formará el Tribunal en unión a los dos Magistrados en ejercicio de función, para ejercer las atribuciones que la presente Ley señala para el Pleno, instalándose tres salas y debiendo elegir a quien será nombrado Presidente;
 
+> <small>(REFORMADO, B.O. 17 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO TERCERO.
 
-Los asuntos pendientes de resolver al inicio de la vigencia de la presente Ley, deberán seguir su trámite hasta su conclusión por la Sala Unitaria de Justicia Administrativa del Tribunal Superior de Justicia del Estado de Baja California Sur.
+Los asuntos pendientes de resolver al inicio de la vigencia de la presente Ley, deberán seguir su trámite hasta su conclusión por la Sala Unitaria de Justicia Administrativa del Tribunal Superior de Justicia del Estado de Baja California Sur, de conformidad en lo dispuesto en el Artículo Transitorio Sexto del Decreto número 2427, por el cual se Reforman y Adicionan diversos artículos de la Constitución Política Del Estado Libre y Soberano de Baja California Sur, para el establecimiento del Sistema Estatal Anticorrupción y su implementación, en el contexto y bajo los principios del Sistema Nacional Anticorrupción, publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur, de fecha 28 de febrero de 2017 y el artículo transitorio PRIMERO del presente Decreto.
 
 ###### ARTÍCULO CUARTO.
 
@@ -574,3 +584,11 @@ CARLOS MENDOZA DAVIS
 SECRETARIO GENERAL DE GOBIERNO
 
 ALVARO DE LA PEÑA ANGULO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 17 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 2464.- SE REFORMA EL ARTÍCULO TRANSITORIO SEXTO DEL DECRETO NÚMERO 2427, POR EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, PARA EL ESTABLECIMIENTO DEL SISTEMA ESTATAL ANTICORRUPCIÓN Y SU IMPLEMENTACIÓN, EN EL CONTEXTO Y BAJO LOS PRINCIPIOS DEL SISTEMA NACIONAL ANTICORRUPCIÓN, PUBLICADO EN EL BOLETÍN OFICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, DE FECHA 28 DE FEBRERO DE 2017; Y EL ARTÍCULO TRANSITORIO PRIMERO APARTADO A DEL ARTÍCULO TRANSITORIO SEGUNDO Y EL ARTÍCULO TRANSITORIO TERCERO DEL DECRETO NÚMERO 2449 POR EL CUAL SE EXPIDE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL BOLETÍN OFICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, DE FECHA 27 DE JUNIO DE 2017".]
+
+ÚNICO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
