@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-para-el-estado-libre-y-soberano-de-guerrero-104907
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-01"
-last_updated: "2016-12-27"
+last_updated: "2017-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NUMERO 499
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2017.
 
 Código publicado en el Alcance IV del Periódico Oficial del Estado de Guerrero, el viernes 1 de agosto de 2014.
 
@@ -2795,6 +2797,8 @@ Las penas previstas en el artículo anterior se agravarán hasta en una mitad, c
 
 ### Capítulo I. Disposiciones generales
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
 ###### Artículo 247.
 
 Daño a la propiedad
@@ -2847,7 +2851,9 @@ I. El sujeto activo conduzca en estado de ebriedad o bajo el influjo de estupefa
 
 II. No auxilie a la víctima del delito o se dé a la fuga.
 
-### Capítulo II. Ejercicio ilegal y abandono del servicio público
+### Capítulo II. Ejercicio ilícito y abandono del servicio público
+
+> <small>(REFORMADO SU ACÁPITE, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### Artículo 252.
 
@@ -2872,6 +2878,8 @@ Límite de la punibilidad
 En ningún caso podrá imponerse pena privativa de libertad que exceda del máximo señalado en la ley para el delito encubierto.
 
 ### Capítulo III. Desempeño irregular de la función pública
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### Artículo 255.
 
@@ -2927,6 +2935,8 @@ La autoridad judicial podrá suspender al sujeto activo, de dos a cinco años, e
 
 ### Capítulo IV. Abuso de autoridad y uso ilegal de la fuerza pública
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
 ###### Artículo 261.
 
 Operaciones con recursos de procedencia ilícita
@@ -2943,6 +2953,8 @@ Las penas previstas en el artículo anterior se agravarán en un tercio cuando e
 
 ### Capítulo V. Coalición de servidores públicos
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
 ###### Artículo 263.
 
 Portación, fabricación, importación y acopio de objetos aptos para agredir
@@ -2952,6 +2964,8 @@ A quien sin causa justificada porte, fabrique, importe o acopie armas o instrume
 Son armas o instrumentos que pueden ser aptos para agredir, los que, utilizados con tal carácter, sean peligrosos para la seguridad pública dada su gravedad dañosa, cualquiera que sea su denominación o características.
 
 ### Capítulo VI. Uso ilegal de atribuciones y facultades
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### Artículo 264.
 
@@ -2971,39 +2985,81 @@ Cuando se cometa algún delito en pandilla, se impondrá a los sujetos activos h
 
 Cuando el miembro de la pandilla sea o haya sido servidor público de alguna corporación policial, se aumentará hasta en dos terceras partes la pena que corresponda al delito cometido y se le impondrá, además, destitución del empleo, cargo o comisión e inhabilitación de dos a ocho años para desempeñar otro.
 
-## Título Décimo Sexto. Delitos contra el servicio público cometidos por servidores públicos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE JULIO DE 2017)</small>
+
+## Título Décimo Sexto. Delitos por hechos de corrupción
 
 ### Capítulo VII. Intimidación
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### Artículo 266.
 
 Definición de servidor público
 
-Para los efectos de este código, servidor público es toda persona que desempeñe un empleo, cargo o comisión, de cualquier naturaleza, en la administración pública del Estado o sus Municipios, organismos descentralizados, empresas de participación estatal o municipal mayoritaria, organizaciones y sociedades asimiladas a éstas, fideicomisos públicos, o en los Poderes Legislativo o Judicial del Estado de Guerrero.
+Para los efectos de este código, son servidores públicos del Estado los representantes de elección popular, los funcionarios, empleados y, en general, toda persona que con independencia de su jerarquía o adscripción desempeñe un empleo, cargo o comisión dentro de los Poderes Legislativo, Ejecutivo y Judicial, los ayuntamientos, los órganos autónomos o con autonomía técnica, organismos públicos descentralizados, empresas de participación estatal mayoritaria, organizaciones y sociedades asimiladas a éstas, fideicomisos públicos, empresas productivas del Estado o que manejen recursos económicos del Estado.
+
+Las disposiciones contenidas en el presente título, son aplicables al Gobernador Constitucional del Estado, a los Diputados del Congreso del Estado y a los Magistrados de los Tribunales de Justicia Estatales, por la comisión de los delitos previstos en este título.
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### Artículo 267.
 
 Reglas especiales para la individualización de la pena
 
-Para la individualización de las consecuencias jurídicas prevista en este título, la autoridad judicial considerará si el servidor público es trabajador de base o de confianza, su antigüedad en el empleo, cargo o comisión, su nivel jerárquico, antecedentes de servicio, percepciones y situación económica, grado de instrucción, las circunstancias especiales de comisión del delito, así como el monto del beneficio obtenido o del daño causado.
+Para la individualización de las sanciones previstas en este título, el juez tomará en cuenta, en su caso, el nivel jerárquico del servidor público y el grado de responsabilidad del encargo, si es de base o de confianza, su antigüedad en el empleo, sus antecedentes de servicio, sus percepciones, su grado de instrucción, la necesidad de reparar los daños y perjuicios causados por la conducta ilícita y las circunstancias especiales de los hechos constitutivos del delito.
+
+Cuando el responsable tenga el carácter de particular, el juez deberá imponer la sanción de inhabilitación para desempeñar un cargo público, así como para participar en adquisiciones, arrendamientos, concesiones, servicios u obras públicas, considerando, en su caso, lo siguiente:
+
+I. Los daños y perjuicios patrimoniales causados por los actos u omisiones;
+
+II. Las circunstancias socioeconómicas del responsable;
+
+III. Las condiciones exteriores y los medios de ejecución; y
+
+IV. El monto del beneficio que haya obtenido el responsable.
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### Artículo 268.
 
 Consecuencias jurídicas del delito
 
+Se impondrán las mismas sanciones previstas para el delito de que se trate a cualquier persona que participe en la perpetración de alguno de los delitos previstos en este título.
+
 Además de las penas previstas en este código, se impondrán a los sujetos activos:
 
 I. Destitución del empleo, cargo o comisión en el servicio público;
 
-II. Inhabilitación de dos a ocho años para obtener y desempeñar un empleo, cargo o comisión de cualquier naturaleza en el servicio público, y
+II. Inhabilitación de uno a veinte años, para obtener y desempeñar un empleo, cargo o comisión de cualquier naturaleza en el servicio público;
 
-III. Decomiso de los productos del delito.
+III. Decomiso de los productos del delito; y
+
+IV. Prohibición de participar en adquisiciones, arrendamientos, servicios u obras públicas, concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes de dominio del Estado, por un plazo de uno a veinte años, atendiendo a los siguientes criterios:
+
+a) Será por un plazo de dos a diez años cuando no exista daño o perjuicio o cuando el monto de la afectación o beneficio obtenido por la comisión del delito no exceda de doscientas veces el valor diario de la Unidad de Medida y Actualización; y
+
+b) Será por un plazo de diez a veinte años si dicho monto excede el límite señalado en el inciso anterior.
+
+Sin perjuicio de lo anterior, la categoría de servidor público de confianza será una circunstancia que dará lugar a la agravación de la pena hasta en una mitad.
+
+Cuando los delitos a que se refieren los artículos 269, 279, 282, 283, 284 y 286, del presente Código sean cometidos por servidores públicos electos popularmente o cuyo nombramiento este sujeto a ratificación del Congreso del Estado de Guerrero, las penas previstas serán aumentadas hasta en una mitad.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 268 Bis.
+
+Cuando los delitos a que se refieren los artículos 274, 280 y 283 del presente Código, sean cometidos por servidores públicos miembros de alguna corporación policiaca, las penas previstas serán aumentadas hasta en una mitad.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE JULIO DE 2017)</small>
 
 ### Capítulo VIII. Negación del servicio público
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
 ###### Artículo 269.
 
-Ejercicio indebido del servicio público
+Ejercicio ilícito del servicio público
 
 Comete este delito quien teniendo la calidad de servidor público:
 
@@ -3013,19 +3069,37 @@ II. Continúe ejerciendo las funciones de un empleo, cargo o comisión después 
 
 III. Por sí o por interpósita persona, sustraiga, destruya, oculte, altere, utilice o inutilice información o documentación que se encuentre bajo su custodia o a la cual tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión;
 
-IV. Teniendo obligación por razones de su empleo, cargo o comisión, de custodiar, vigilar, proteger o dar seguridad a personas, lugares, instalaciones u objetos, incumpliendo su deber, propicie daño a las personas o lugares, instalaciones u objetos, o pérdida o sustracción de objetos que se encuentren bajo su cuidado, o
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-V. Teniendo un empleo, cargo o comisión en los Centros de Reclusión del Estado, facilite o fomente en éstos, la introducción, uso, consumo, posesión o comercio de bebidas alcohólicas o sustancias psicotrópicas, así como teléfonos celulares, radiolocalizadores o cualquier otro instrumento de comunicación radial o satelital para uso de los internos.
+IV. Teniendo obligación por razones de su empleo, cargo o comisión, de custodiar, vigilar, proteger o dar seguridad a personas, lugares, instalaciones u objetos, incumpliendo su deber, propicie daño a las personas o lugares, instalaciones u objetos, o pérdidas o sustracción de objetos que se encuentren bajo su cuidado;
 
-A quien cometa alguno de los delitos contemplados en las fracciones I y II de este artículo, se le impondrán de uno a tres años de prisión y de cincuenta a ciento cincuenta días multa.
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-A quien cometa alguno de los delitos contemplados en las fracciones III, IV y V de este artículo, se le impondrán de tres a ocho años de prisión y de ciento cincuenta a cuatrocientos días multa.
+V. Teniendo un empleo, cargo o comisión en los Centros de Reclusión del Estado, permita, facilite o fomente en éstos, la introducción, uso, consumo, posesión o comercio de bebidas alcohólicas o sustancias psicotrópicas, así como teléfonos celulares, radiolocalizadores o cualquier otro instrumento de comunicación radial o satelital para uso de los internos.
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+VI. Teniendo conocimiento por razón de su empleo, cargo o comisión de que pueden resultar gravemente afectados el patrimonio o los intereses de alguna secretaría, dependencia o entidad de la administración pública estatal o municipal, organismos públicos descentralizados, empresa de participación estatal mayoritaria, asociaciones y sociedades asimiladas a éstas y fideicomisos públicos, de empresas productivas del Estado, de órganos autónomos o con autonomía técnica o análogos municipales, del Congreso del Estado o del Poder Judicial, por cualquier acto u omisión y no informe por escrito a su superior jerárquico o lo evite si está dentro de sus facultades.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+Si el servidor público realiza por sí la introducción de bebidas alcohólicas o sustancias psicotrópicas, así como teléfonos celulares, radiolocalizadores o cualquier otro instrumento de comunicación radial o satelital para uso de los internos, se incrementarán hasta en una mitad las sanciones previstas para este delito.
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
+A quien cometa alguno de los delitos contemplados en las fracciones I y II de este artículo, se le impondrán de uno a tres años de prisión y multa de cincuenta a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
+A quien cometa alguno de los delitos contemplados en las fracciones III, IV, V y VI de este artículo, se le impondrán de tres a ocho años de prisión y multa de ciento cincuenta a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización; o (sic)
 
 ###### Artículo 270.
 
 Ejercicio ilegal del servicio público equiparado
 
-Al servidor público que, en ejercicio de sus funciones o con motivo de ellas, otorgue o autorice el nombramiento de un empleo, cargo o comisión en el servicio público, a persona que por resolución firme de autoridad competente se encuentre inhabilitada para desempeñarlo, se le impondrán de uno a cinco años de prisión y de cincuenta a doscientos cincuenta días multa.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
+
+Al servidor público que, en ejercicio de sus funciones o con motivo de ellas, otorgue o autorice el nombramiento de un empleo, cargo o comisión en el servicio público, a persona que por resolución firme de autoridad competente se encuentre inhabilitada para desempeñarlo, se le impondrán de uno a cinco años de prisión y multa de cincuenta a doscientos cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 Las penas señaladas se aumentarán hasta en dos terceras partes, a quien otorgue cualquier identificación en la que se acredite como servidor público a otra persona que no desempeñe el empleo, cargo o comisión a que se haga referencia en dicha identificación. Las mismas sanciones se impondrán a quien acepte la identificación.
 
@@ -3033,69 +3107,105 @@ Las penas señaladas se aumentarán hasta en dos terceras partes, a quien otorgu
 
 Abandono del servicio público
 
-A quien teniendo la calidad de servidor público y de forma injustificada, abandone su empleo, cargo o comisión y con ello entorpezca la función pública, se le impondrán de uno a cuatro años de prisión y de cincuenta a doscientos días multa.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
+
+A quien teniendo la calidad de servidor público y de forma injustificada, abandone su empleo, cargo o comisión y con ello entorpezca la función pública, se le impondrán de uno a cuatro años de prisión y multa de cincuenta a doscientas veces el valor diario de la Unidad de Medida y Actualización.
 
 Para los efectos de este artículo, el abandono de funciones se consumará cuando el servidor público se separe sin dar aviso a su superior jerárquico con la debida anticipación de acuerdo con la normatividad aplicable, y de no existir ésta, en un plazo de tres días.
 
 ### Capítulo IX. Tráfico de influencia
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
 ###### Artículo 272.
 
 Desempeño irregular de la función pública
 
-Se impondrá de dos a cuatro años de prisión y de cincuenta a trescientos días multa, al servidor público que indebidamente:
+El servidor público que en el desempeño de su empleo, cargo o comisión, ilícitamente realice u otorgue por sí o por interpósita persona cualquier acto jurídico que produzca beneficios económicos al propio servidor público, a su cónyuge, descendiente o ascendiente, parientes por consanguinidad o afinidad hasta el cuarto grado, a cualquier tercero con el que tenga vínculos afectivos, económicos o de dependencia administrativa directa, socios o sociedades de las que el servidor público o las personas antes referidas formen parte, así como los actos siguientes:
 
-I.- Otorgue concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes del dominio del Estado o municipios;
+I. Contratos de obras públicas, adquisiciones, arrendamientos, enajenaciones de bienes y servicios, o colocaciones de fondos y valores con recursos económicos públicos;
 
-II.- Otorgue permisos, licencias o autorizaciones de contenido económico;
+II. Concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes del dominio del Estado o municipios;
 
-III.- Otorgue franquicias, exenciones, deducciones o subsidios sobre impuestos, derechos, productos, aprovechamientos o aportaciones y cuotas de seguridad social, en general sobre los ingresos fiscales, y sobre precios y tarifas de los bienes y servicios producidos o prestados en la administración pública estatal o municipal;
+III. Permisos, licencias y autorizaciones;
 
-IV.- Realice o contrate obras públicas, adquisiciones, arrendamientos, enajenaciones de bienes y servicios, o colocaciones de fondos y valores con recursos económicos públicos;
+IV. Franquicias, exenciones, deducciones o subsidios sobre impuestos, derechos, productos, aprovechamientos o aportaciones y cuotas de seguridad social, en general sobre los ingresos fiscales, y sobre precios y tarifas de los bienes y servicios producidos o prestados en la administración pública estatal o municipal;
 
-V.- Dé, a sabiendas, una aplicación pública distinta de aquella a que estuvieren destinados los fondos públicos que tuviere a su cargo o hiciere un pago ilegal;
+V. A sabiendas, una aplicación pública distinta de aquella a que estuvieran destinados los fondos públicos que tuviera a su cargo o hiciera un pago ilegal;
 
-VI.- En el ejercicio de sus funciones o con motivo de ellas, otorgue empleo, cargo o comisión públicos o contratos de prestación de servicios profesionales, mercantiles o de cualquier otra naturaleza, que sean remunerados, a sabiendas de que no se prestará el servicio o no se cumplirá el contrato otorgado;
+VI. En el ejercicio de sus funciones o con motivo de ellas, otorgue empleo, cargo o comisión públicos o contratos de prestación de servicios profesionales, mercantiles o de cualquier otra naturaleza, que sean remunerados, a sabiendas de que no se prestará el servicio o no se cumplirá el contrato otorgado;
 
-VII.- Autorice o contrate a quien se encuentre inhabilitado por resoIución firme de autoridad competente para desempeñar un empleo, cargo o comisión en el servicio público, siempre que lo haga con conocimiento de tal situación;
+VII. Contrate a quien se encuentre inhabilitado por resolución firme de autoridad competente para desempeñar un empleo, cargo o comisión en el servicio público, siempre que lo haga con conocimiento de tal situación;
 
-VIII.- Otorgue un nombramiento o de cualquier modo autorice a alguien para el desempeño de un empleo, cargo o comisión, sin que el designado satisfaga los requisitos exigidos por la ley;
+VIII. Nombramiento o de cualquier modo autorice a alguien para el desempeño de un empleo, cargo o comisión, sin que el designado satisfaga los requisitos exigidos por la ley;
 
-IX.- Otorgue cualquier identificación en que se acredite como servidor público a quien realmente no desempeñe el empleo, cargo o comisión a que se haga referencia en aquélla, o
+IX. Cualquier identificación en que se acredite como servidor público a quien realmente no desempeñe el empleo, cargo o comisión a que se haga referencia en aquélla;
 
-X.- Ejerza algún otro empleo, cargo o comisión oficial o particular, teniendo impedimento legal para hacerlo.
+X. Algún otro empleo, cargo o comisión oficial o particular, teniendo impedimento legal para hacerlo; y
 
-Cuando el monto del producto del delito o de los daños o perjuicios causados, exceda de mil veces el salario, la sanción será de cuatro a diez años de prisión y de cuatrocientos a ochocientos días multa.
+XI. Valiéndose de la información que posea por razón de su empleo, cargo o comisión, sea o no materia de sus funciones, y que no sea del conocimiento público, haga por sí, o por interpósita persona, inversiones, enajenaciones o adquisiciones, o cualquier otro acto que le produzca algún beneficio económico indebido al servidor público o a alguna de las personas mencionadas en este artículo.
+
+Al que cometa el delito de desempeño irregular de la función pública se le impondrán las siguientes sanciones:
+
+Cuando la cuantía a que asciendan las operaciones a que hace referencia este artículo no exceda del equivalente a quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de tres meses a dos años de prisión y de treinta a cien días multa.
+
+Cuando la cuantía a que asciendan las operaciones a que hace referencia este artículo exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de dos años a doce años de prisión y de cien a ciento cincuenta días multa.
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### Artículo 273.
 
 Autorizaciones irregulares sobre uso y cambio de suelo
 
-A los servidores públicos Estatales o Municipales, así como aquellas personas físicas o morales representados por sus titulares, que por acción u omisión y conociendo de la preexistencia de riesgo o riesgo inminente, incumplan, permitan, otorguen, autoricen, expidan permisos, licencias o concesiones de uso o cambio de suelo, en cauces, barrancas, laderas inestables, fallas geológicas, zonas vulnerables, áreas altamente deforestadas, lugares inundables o en humedales e incluso en zonas de alto riesgo para construir, edificar, realizar obras de infraestructura o de asentamientos humanos, que expongan a la población a condición de encadenamiento de desastres y aquéllos que por su naturaleza impliquen impactos sobre el cambio climático, que no cuenten con expedientes oficiales técnicos, dictámenes especializados por expertos en la materia y del dictamen definitivo con su correspondiente análisis de riesgo expedido por las autoridades competentes quienes legalmente están autorizadas para ello; se les sancionará con una pena de 6 a 12 años de prisión y de 500 a 1000 días de multa, sin que se les conceda ningún beneficio de remisión parcial de la pena, así como las establecidas en la Ley de Responsabilidades de los Servidores Públicos del Estado, tipificándose su conducta como grave.
+A los servidores públicos estatales o municipales, así como aquellas personas físicas o morales representados por sus titulares, que por acción u omisión y conociendo de la preexistencia de riesgo o riesgo inminente, incumplan, permitan, otorguen, autoricen, expidan permisos, licencias o concesiones de uso o cambio de suelo, en cauces, barrancas, laderas inestables, fallas geológicas, zonas vulnerables, áreas altamente deforestadas, lugares inundables o en humedales e incluso en zonas de alto riesgo para construir, edificar, realizar obras de infraestructura o de asentamientos humanos, que expongan a la población a condición de encadenamiento de desastres y aquéllos que por su naturaleza impliquen impactos sobre el cambio climático, que no cuenten con expedientes oficiales técnicos, dictámenes especializados por expertos en la materia y del dictamen definitivo con su correspondiente análisis de riesgo expedido por las autoridades competentes quienes legalmente están autorizadas para ello, se les sancionará con una pena de seis a doce años de prisión y multa de quinientas a mil veces el valor diario de la Unidad de Medida y Actualización.
 
 ### Capítulo X. Cohecho
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
 ###### Artículo 274.
 
-Abuso de autoridad y uso ilegal de la fuerza pública
+Abuso de autoridad
 
-Se impondrán de dos a ocho años de prisión y de cien a cuatrocientos días multa, a quien teniendo la calidad de servidor público, en ejercicio de sus funciones o con motivo de éstas:
+Comete el delito de abuso de autoridad, el servidor público que incurra en alguna de las conductas siguientes:
 
-I. Ejerza violencia sobre una persona sin causa legítima, la veje o la insulte, o
+I. Cuando para impedir la ejecución de una ley, decreto o reglamento, el cobro de un impuesto o el cumplimiento de una resolución judicial, pida auxilio a la fuerza pública o la emplee con ese objeto;
 
-II. Use ilegalmente la fuerza pública.
+II. Cuando ejerciendo sus funciones o con motivo de ellas ejerza violencia a una persona sin causa legitima o la vejare o la insultare;
+
+III. Cuando estando encargado de cualquier establecimiento destinado a la ejecución de las sanciones privativas de libertad, de instituciones de reinserción social o de custodia, rehabilitación o reintegración de adolescentes y de reclusorios preventivos o administrativos, sin los requisitos legales, reciba como presa, detenida, arrestada, arraigada o interna a una persona o la mantenga privada de su libertad, sin dar parte del hecho a la autoridad correspondiente; niegue que está detenida, si lo estuviera; o no cumpla la orden de libertad girada por la autoridad competente;
+
+IV. Cuando teniendo conocimiento de una privación ilegal de la libertad no la denuncie inmediatamente ante la autoridad competente o no la haga cesar, también inmediatamente, si está en sus atribuciones;
+
+V. Cuando haga que se le entreguen fondos, valores u otra cosa que no se le haya confiado a él y se los apropie o disponga de ellos indebidamente;
+
+VI. Obligar al inculpado a declarar, usando la incomunicación, la intimidación, la tortura o tratos crueles, inhumanos o degradantes;
+
+VII. Obligar a declarar a las personas que se mencionan en el artículo 365, fracción II del Código Nacional de Procedimientos Penales, acerca de la información obtenida con motivo del desempeño de su actividad;
+
+VIII. Omita el registro de la detención correspondiente o dilate injustificadamente poner al detenido a disposición de la autoridad correspondiente; e
+
+IX. Incumpla la obligación de impedir la ejecución de las conductas de privación ilegal de la libertad.
+
+Al que cometa este delito en los términos previstos por las fracciones I y II, se le impondrá de uno a ocho años de prisión y multa de cincuenta hasta cien veces el valor diario de la Unidad de Medida y Actualización.
+
+Al que cometa este delito en los términos previstos de la fracción III a la fracción IX, se le impondrá de dos a nueve años de prisión y multa de setenta hasta ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### Artículo 275.
 
 Abuso de autoridad con fines de lucro
 
-A quien teniendo la calidad de servidor público, obtenga de un subalterno parte del sueldo de éste, dádivas o cualquier otro provecho ilegítimo, se le impondrán de dos a seis años de prisión y de cien a trescientos días multa.
+A quien teniendo la calidad de servidor público, obtenga, exija o solicite sin derecho alguno o causa legítima, para sí o para cualquier otra persona, parte del sueldo o remuneración, dádivas, bienes o servicios o cualquier otro provecho ilegítimo de uno o más de sus subalternos, se le impondrán de dos a seis años de prisión y multa de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### Artículo 276.
 
 Abuso de autoridad por simulación
 
-A quien teniendo la calidad de servidor público, en el ejercicio de sus funciones o con motivo de éstas, otorgue empleo, cargo o comisión públicos, o contratos de prestación de servicios profesionales, mercantiles o de cualquier otra naturaleza, que sean remunerados, a sabiendas de que no se prestará el correspondiente servicio o no se cumplirá el contrato dentro de los plazos establecidos en la normatividad laboral aplicable o en los señalados en el contrato correspondiente, se le impondrán de uno a seis años de prisión y de cien a trescientos días multa.
+A quien teniendo la calidad de servidor público, en el ejercicio de sus funciones o con motivo de éstas, otorgue empleo, cargo o comisión públicos, o contratos de prestación de servicios profesionales, mercantiles o de cualquier otra naturaleza, que sean remunerados, a sabiendas de que no se prestará el correspondiente servicio para el que se les nombró, o no se cumplirá el contrato dentro de los plazos establecidos en la normatividad laboral aplicable o en los señalados en el contrato correspondiente, se le impondrán de uno a seis años de prisión y multa de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 277.
 
@@ -3103,163 +3213,253 @@ Abuso de autoridad equiparado
 
 Se impondrán las mismas penas señaladas en el artículo anterior, a quien acepte un empleo, cargo o comisión públicos, remunerados, cuyo servicio no vaya a prestar, o acepte algún contrato de prestación de servicios profesionales, mercantiles o de cualquier otra naturaleza, remunerados, cuyas obligaciones no va a cumplir, dentro de los plazos establecidos en la normatividad laboral aplicable o en los señalados en el contrato correspondiente.
 
-### Capítulo XI. Peculado
+### Capítulo X Bis. Cohecho a servidores públicos extranjeros
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### Artículo 278.
 
 Coalición de servidores públicos
 
-A quienes, teniendo la calidad de servidores públicos, con el fin de impedir o suspender las funciones legislativas, administrativas o jurisdiccionales, se coaliguen y tomen medidas contrarias a una ley, reglamento o disposición de carácter general, impidan su aplicación, ejecución o dimitan de sus puestos, se les impondrán de dos a cinco años de prisión y de cien a doscientos cincuenta días multa.
+Cometen el delito de coalición de servidores públicos, los que teniendo tal carácter se coaliguen para tomar medidas contrarias a una ley, reglamento u otras disposiciones de carácter general, impedir su ejecución o para hacer dimisión de sus puestos con el fin de impedir o suspender la administración pública de los Poderes Legislativo, Ejecutivo y Judicial, los ayuntamientos, los órganos autónomos o con autonomía técnica, organismos públicos descentralizados, empresas de participación estatal mayoritaria, organizaciones y sociedades asimiladas a éstas, fideicomisos públicos, empresas productivas del Estado o que manejen recursos económicos del Estado. No cometen este delito los trabajadores que se coaliguen en ejercicio de sus derechos constitucionales o que hagan uso del derecho de huelga.
 
-### Capítulo XII. Concusión
+Al que cometa el delito de coalición de servidores públicos se le impondrán de dos años a siete años de prisión y multa de cien a trescientas cincuenta veces el valor diario de la Unidad de Medida y Actualización en el momento de la comisión del delito.
+
+### Capítulo XI. Peculado
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### Artículo 279.
 
-Uso ilegal de atribuciones y facultades Comete este delito:
+Comete el delito de uso ilegal de atribuciones y facultades
 
 I. El servidor público que ilegalmente:
 
-a) Otorgue concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes del patrimonio del Estado;
+a) Otorgue concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes del patrimonio del Estado o municipios;
 
-b) Otorgue permisos, licencias o autorizaciones de contenido económico;
+b) Otorgue permisos, licencias, adjudicaciones o autorizaciones de contenido económico;
 
-c) Otorgue franquicias, exenciones, deducciones o subsidios sobre impuestos, derechos, productos, aprovechamientos o aportaciones y cuotas de seguridad social, en general sobre los ingresos fiscales y sobre precios o tarifas de los bienes y servicios producidos o prestados por la administración pública del Estado, y
+c) Otorgue franquicias, exenciones, deducciones o subsidios sobre impuestos, derechos, productos, aprovechamientos o aportaciones y cuotas de seguridad social, en general sobre los ingresos fiscales y sobre precios o tarifas de los bienes y servicios producidos o prestados por la administración pública del Estado o municipios;
 
-d) Otorgue, realice o contrate obras públicas, deuda, adquisiciones, arrendamientos, enajenaciones de bienes o servicios, o colocaciones de fondos y valores con recursos económicos públicos.
+d) Otorgue, realice o contrate obras públicas, adquisiciones, arrendamientos, enajenaciones de bienes o servicios, con recursos públicos; y
 
-II. El servidor público que, teniendo a su cargo fondos públicos, les dé una aplicación pública distinta de aquella a que estén destinados o haga un pago ilegal.
+e) Contrate deuda o realice colocaciones de fondos y valores con recursos públicos.
 
-A quien cometa el delito de uso ilegal de atribuciones y facultades se le impondrán de seis meses a dos años de prisión y de veinticinco a cien días multa.
+II. El servidor público que a sabiendas de la ilicitud del acto, y en perjuicio del patrimonio o del servicio público o de otra persona:
 
-Agravación de la pena en razón de la cuantía de las operaciones. Cuando el monto de las operaciones a que hace referencia este artículo exceda del equivalente a quinientas veces el salario mínimo vigente en el Estado al momento de cometerse el delito, se impondrán de dos a ocho años de prisión y de cien a cuatrocientos días multa.
+a) Niegue el otorgamiento o contratación de las operaciones a que hacen referencia la presente fracción, existiendo todos los requisitos establecidos en la normatividad aplicable para su otorgamiento, o
+
+b) Siendo responsable de administrar y verificar directamente el cumplimiento de los términos de una concesión, permiso, asignación o contrato, se haya abstenido de cumplir con dicha obligación.
+
+III. El servidor público que, teniendo a su cargo fondos públicos, les dé una aplicación pública distinta de aquella a que estén destinados o haga un pago ilegal; y
+
+IV. Toda persona que solicite o promueva la realización, el otorgamiento o la contratación indebidos de las operaciones a que hacen referencia la fracción II o sea parte en las mismas.
+
+Se impondrán las mismas sanciones previstas a cualquier persona que a sabiendas de la ilicitud del acto, y en perjuicio del patrimonio o el servicio público o de otra persona participe, solicite o promueva la perpetración de cualquiera de los delitos previstos en este artículo.
+
+Al que cometa el delito a que se refiere el presente artículo, se le impondrán de seis meses a doce años de prisión y de treinta a ciento cincuenta días multa.
+
+Agravación de la pena en razón de la cuantía de las operaciones. Cuando el monto de las operaciones a que hace referencia este artículo exceda del equivalente a quinientas veces el valor diario de la Unidad de Medida y Actualización vigente en el Estado al momento de cometerse el delito, se aumentarán las penas en una tercera parte.
 
 Agravación de la pena en razón del lucro obtenido. Cuando las conductas previstas en el artículo anterior produzcan beneficios económicos a la persona que tenga la calidad de servidor público, a su cónyuge, ascendientes o descendientes, concubina o concubinario, adoptante o adoptado, socios o sociedades de las que el servidor público o las personas antes referidas formen parte, se aumentarán las penas en una tercera parte.
 
-### Capítulo XIII. Enriquecimiento ilícito
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 279 Bis.
+
+Al particular
+
+Al particular que, en su carácter de contratista, permisionario, asignatario, titular de una concesión de prestación de un servicio público de explotación, aprovechamiento o uso de bienes del dominio del Estado, con la finalidad de obtener un beneficio para sí o para un tercero:
+
+I. Genere y utilice información falsa o alterada, respecto de los rendimientos o beneficios que obtenga; o
+
+II. Cuando estando legalmente obligado a entregar a una autoridad, información sobre los rendimientos o beneficios que obtenga, la oculte.
+
+Al que cometa el delito a que se refiere el presente artículo, se le impondrán de tres meses a nueve años de prisión y multa de treinta a cien veces el valor diario de la Unidad de Medida y Actualización.
+
+### Capítulo XII. Concusión
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### Artículo 280.
 
-Intimidación
+Comete el delito de intimidación
 
-Se impondrán de dos a diez años de prisión y de cien a quinientos días multa:
-
-I. A quien teniendo la calidad de servidor público, por sí o por interpósita persona, utilizando la violencia física o moral, inhiba o intimide a cualquier persona, para evitar que ésta o un tercero denuncie, formule querella o aporte información o pruebas relativas a la probable comisión de un delito o sobre la probable conducta ilícita de algún servidor público, sancionada por la ley penal o por la ley federal de responsabilidades de los servidores públicos, y
+I. A quien teniendo la calidad de servidor público, por sí o por interpósita persona, utilizando la violencia física o moral, inhiba o intimide a cualquier persona, para evitar que ésta o un tercero denuncie, formule querella o aporte información o pruebas relativas a la probable comisión de un delito o sobre la probable conducta ilícita de algún servidor público, sancionada por la ley penal o por la Ley de Responsabilidades Administrativas para el Estado de Guerrero; y
 
 II. Las mismas sanciones se impondrán a quien teniendo la calidad de servidor público, por sí o por interpósita persona, ejerza represalia contra persona que ha formulado denuncia o querella aportando información o pruebas sobre la probable comisión de una conducta ilícita de un servidor público, o ejerza cualquier represalia contra persona ligada por vínculo afectivo o de negocios con el denunciante, querellante o informante.
 
-### Capítulo I. Promoción de conductas ilícitas, cohecho y distracción de recursos públicos
+Al que cometa el delito de intimidación se le impondrán de dos a nueve años de prisión y multa de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización.
+
+### Capítulo XIII. Enriquecimiento ilícito
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### Artículo 281.
 
 Negación del servicio público
 
-Se impondrá prisión de dos a seis años y de cien a trescientos días multa, a quien teniendo la calidad de servidor público:
+Se impondrá prisión de dos a seis años y multa de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización, a quien teniendo la calidad de servidor público:
 
-I. Indebidamente niegue o retarde a los particulares la protección, el auxilio o el servicio que tenga obligación de otorgarles, o
+I. Niegue o retarde a los particulares la protección, el auxilio o el servicio que tenga obligación de otorgarles, o impida la presentación o el curso de una solicitud, de manera indebida; o
 
-II. Teniendo a su cargo elementos de la fuerza pública y habiendo sido requerido legalmente por una autoridad competente para que le preste auxilio, se niegue a proporcionarlo.
+II. Teniendo a su cargo elementos de la fuerza pública y habiendo sido requerido legalmente por una autoridad competente para que le preste auxilio se niegue a dárselo o retrase el mismo injustificadamente. La misma previsión se aplicará tratándose de peritos.
 
-### Capítulo II. Desobediencia y resistencia de particulares
+### Capítulo I. Promoción de conductas ilícitas, cohecho y distracción de recursos públicos
 
 ###### Artículo 282.
 
-Tráfico de influencia
+Comete el delito de tráfico de influencia
 
-A quien teniendo la calidad de servidor público, por sí o por interpósita persona, promueva o gestione la tramitación de negocios o resoluciones públicas ajenos a las responsabilidades inherentes a su empleo, cargo o comisión, se le impondrán de dos a seis años de prisión y de cien a trescientos días multa.
+I. El servidor público que por sí o por interpósita persona promueva o gestione la tramitación o resolución ilícita de negocios públicos ajenos a las responsabilidades inherentes a su empleo, cargo o comisión;
 
-### Capítulo III. Quebrantamiento de sellos
+II. El particular que promueva la conducta ilícita del servidor público o se preste a la promoción o gestión a que hace referencia la fracción anterior;
+
+III. El servidor público que por sí, o por interpósita persona indebidamente, solicite o promueva alguna resolución o la realización de cualquier acto materia del empleo, cargo o comisión de otro servidor público, que produzca beneficios económicos para sí o para las personas a que hace referencia el artículo 272 de este Código; y
+
+IV. Al particular o servidor público que, sin estar autorizado legalmente para intervenir en un negocio público, afirme tener influencia ante los servidores públicos facultados para tomar decisiones dentro de dichos negocios, e intervenga ante ellos para promover la resolución ilícita de los mismos, a cambio de obtener un beneficio para sí o para otro.
+
+Al que cometa el delito de tráfico de influencia, se le impondrán de dos a seis años de prisión y multa de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización.
+
+### Capítulo II. Desobediencia y resistencia de particulares
 
 ###### Artículo 283.
 
-Cohecho
+Cometen el delito de cohecho
 
-A quien teniendo la calidad de servidor público, por sí o por interpósita persona, solicite o reciba indebidamente para sí o para otro, dinero o cualquier otra dádiva, o acepte una promesa para hacer o dejar de hacer algo relacionado con sus funciones, se le impondrán las siguientes sanciones:
+I. El servidor público que por sí, o por interpósita persona solicite o reciba ilícita, o indebidamente para sí o para otro, dinero, dádiva, prestación o beneficio para hacer o dejar de hacer algo relacionado con sus funciones inherentes a su empleo, cargo o comisión.
 
-I. Cuando la cantidad o el valor de la dádiva o promesa no exceda del equivalente de quinientas veces el salario mínimo diario vigente en el Estado al momento de cometerse el delito, o no sea valuable, se impondrán de uno a cuatro años de prisión y de cincuenta a doscientos días multa, y
+II. El que dé, prometa o entregue cualquier beneficio a alguna de las personas en su calidad de servidor público, para que haga u omita un acto relacionado con sus funciones, a su empleo, cargo o comisión; y
 
-II. Cuando la cantidad o el valor de la dádiva, promesa o prestación exceda de quinientas veces el salario mínimo diario vigente en el Estado al momento de cometerse el delito, se impondrán de cuatro a ocho años de prisión y de doscientos a cuatrocientos días multa.
+III. El legislador Estatal que, en el ejercicio de sus funciones o atribuciones, y en el marco del proceso de aprobación del presupuesto de egresos respectivo, gestione o solicite:
+
+a) La asignación de recursos a favor de un ente público, exigiendo u obteniendo, para sí o para un tercero, una comisión, beneficio, dádiva o contraprestación, en dinero o en especie, distinta a la que le corresponde por el ejercicio de su encargo; y
+
+b) El favorecimiento u otorgamiento de contratos de obra pública, de servicios o adquisiciones a favor de determinadas personas físicas o morales.
+
+Se aplicará la misma pena a cualquier persona que gestione, solicite a nombre o en representación del legislador estatal las asignaciones de recursos u otorgamiento de contratos a que se refieren los incisos a) y b) de este artículo.
+
+Se aplicarán las mismas penas al presidente municipal, síndicos o regidores de los ayuntamientos que en el ejercicio de sus funciones o atribuciones, incurra en alguna de las conductas establecidas en el presente artículo.
+
+Al que comete el delito de cohecho se le impondrán las siguientes sanciones:
+
+Cuando la cantidad o el valor de la dádiva, de los bienes, prestación, beneficio o promesa no exceda del equivalente de quinientas veces el valor diario de la Unidad de Medida y Actualización al momento de cometerse el delito, o no sea valuable, se impondrán de uno a cuatro años de prisión y multa de cincuenta a doscientos días el valor diario de la Unidad de Medida y Actualización.
+
+Cuando la cantidad o el valor de la dádiva, de los bienes, prestación, beneficio o promesa excedan de quinientas veces el valor diario de la Unidad de Medida y Actualización al momento de cometerse el delito se impondrán de dos a catorce años de prisión y multa de cien a ciento cincuenta días el valor diario de la Unidad de Medida y Actualización.
+
+Cuando el monto o valor exceda de mil veces el valor diario de la Unidad de Medida y Actualización, se impondrán de seis a dieciséis años de prisión y multa de trescientas a ochocientas veces valor (sic) diario de la Unidad de Medida y Actualización.
+
+En ningún caso se devolverá a los responsables del delito de cohecho, el dinero o dádivas entregadas, las mismas se aplicarán en beneficio del Estado.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE JULIO DE 2017)</small>
+
+### Capítulo III. Quebrantamiento de sellos
+
+###### Artículo 283 Bis.
+
+Se impondrán las penas previstas en el artículo anterior al que con el propósito de obtener o retener para sí o para otra persona ventajas indebidas en el desarrollo o conducción de transacciones comerciales internacionales, ofrezca, prometa o dé, por sí o por interpósita persona, dinero, prestación, beneficio o cualquiera otra dádiva, ya sea en bienes o servicios:
+
+I. A un servidor público extranjero, en su beneficio o el de un tercero, para que dicho servidor público gestione o se abstenga de gestionar la tramitación o resolución de asuntos relacionados con las funciones inherentes a su empleo, cargo o comisión;
+
+II. A un servidor público extranjero, en su beneficio o el de un tercero, para que dicho servidor público gestione la tramitación o resolución de cualquier asunto que se encuentre fuera del ámbito de las funciones inherentes a su empleo, cargo o comisión;
+
+III. A cualquier persona para que acuda ante un servidor público extranjero y le requiera o le proponga llevar a cabo la tramitación o resolución de cualquier asunto relacionado con las funciones inherentes al empleo, cargo o comisión de este último;
+
+IV. Cualquier miembro o representante de una persona jurídica, o de una sociedad, corporación o empresa de cualquier clase, con excepción de las instituciones del Estado, cometa un delito con los medios que para tal objeto las mismas entidades le proporcionen, de modo que resulte cometido a nombre o bajo el amparo de la representación social o en beneficio de ella, el juez podrá, en los casos exclusivamente especificados por la ley, decretar en la sentencia la suspensión de la agrupación o su disolución, cuando lo estime necesario para la seguridad pública. El juez impondrá a la persona moral hasta mil veces el valor diario de la Unidad de Medida y Actualización.
+
+Para los efectos de este artículo se entiende por servidor público extranjero, toda persona que desempeñe un empleo, cargo, o comisión en el poder legislativo, ejecutivo o judicial o en un órgano público autónomo en cualquier orden o nivel de gobierno de un Estado extranjero, sea designado o electo; cualquier persona en ejercicio de una función para una autoridad, organismo o empresa pública o de participación estatal de un país extranjero; y cualquier funcionario o agente de un organismo u organización pública internacional.
 
 ### Capítulo IV. Ultrajes a la autoridad
 
-### Capítulo V. Ejercicio ilegal del propio derecho
-
 ###### Artículo 284.
 
-Peculado
+Comete el delito de peculado
 
-Se impondrán de dos a seis años de prisión y de cien a trescientos días multa, a quien teniendo la calidad de servidor público:
+I. Todo servidor público que para su beneficio o el de una tercera persona física o moral disponga, distraiga o desvíe de su objeto, dinero, valores, inmuebles o cualquier otra cosa, perteneciente al estado o a un particular, si por razón de su cargo, los recibió en depósito, administración, en posesión o por otra causa;
 
-I. Disponga o distraiga de su objeto, dinero, valores, inmuebles o cualquier otra cosa, si los haya recibido por razón de su cargo, o
+II. El servidor público que indebidamente utilice fondos públicos u otorgue alguno de los actos a que se refiere el artículo 279 de este código, con el objeto de promover la imagen política o social de su persona, de su superior jerárquico o de un tercero, o a fin de denigrar a cualquier persona;
 
-II. Indebidamente utilice fondos públicos u otorgue alguno de los actos a que se refiere el artículo 279 de este código, con el objeto de promover la imagen política o social de su persona, de su superior jerárquico o de un tercero, o a fin de denigrar a cualquier persona.
+III. Cualquier persona que solicite o acepte realizar las promociones o denigraciones a que se refiere la fracción anterior, a cambio de fondos públicos o del disfrute de los beneficios derivados de los actos a que se refiere el artículo de uso ilegal de atribuciones y facultades; y
 
-Cuando el monto o valor exceda de mil veces el salario mínimo, se impondrán de seis a dieciséis años de prisión y de trescientos a ochocientos días multa.
+IV. Cualquier persona que sin tener el carácter de servidor público y estando obligada legalmente a la custodia, administración o aplicación de recursos públicos del Estado, los distraiga de su objeto para usos propios o ajenos o les dé una aplicación distinta a la que se les destinó.
 
-### Capítulo VI. Uso indebido de información sobre actividades de las instituciones de seguridad pública, procuración e impartición de justicia y del sistema penitenciario
+Al que cometa el delito de peculado se le impondrán las siguientes sanciones:
+
+Cuando el monto de lo distraído o de los fondos utilizados ilícitamente no exceda del equivalente de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, o no sea valuable, se impondrán de tres meses a dos años de prisión y multa de treinta a cien veces el valor diario de la Unidad de Medida y Actualización.
+
+Cuando el monto de lo distraído o de los fondos utilizados ilícitamente exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de dos años a catorce años de prisión y multa de cien a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización.
+
+Cuando los recursos materia del peculado sean aportaciones para los fines de seguridad pública se aplicará hasta un tercio más de las penas señaladas en los párrafos anteriores.
+
+### Capítulo V. Ejercicio ilegal del propio derecho
 
 ###### Artículo 285.
 
-Concusión
+Comete el delito de concusión
 
-A quien teniendo la calidad de servidor público, y con tal carácter, exija por sí o por interpósita persona a título de impuesto o contribución, recargo, renta, rédito, salario o emolumento, dinero, valores, servicios o cualquier otra cosa que sepa no es debida, o en mayor cantidad de la que señala la ley, se le impondrán de dos a cuatro años de prisión, de cien a doscientos días multa e inhabilitación de uno a cuatro años para desempeñar cargo, empleo o comisión en el servicio público, si el valor de los exigido no excede de mil veces el salario mínimo o no se puede determinar el monto.
+A quien teniendo la calidad de servidor público, y con tal carácter, exija por sí o por interpósita persona a título de impuesto o contribución, recargo, renta, rédito, salario o emolumento, dinero, valores, servicios o cualquier otra cosa que sepa no es debida, o en mayor cantidad de la que señala la ley.
 
-Cuando el valor de lo exigido exceda de mil veces el salario mínimo, se le impondrán de cuatro a ocho años de prisión, de doscientos a cuatrocientos días multa e inhabilitación hasta diez años para desempeñar cargo, empleo o comisión en el servicio público.
+Al que cometa el delito de concusión se le impondrán las siguientes sanciones:
 
-### Capítulo VII. Usurpación de funciones públicas
+Cuando la cantidad o el valor de lo exigido indebidamente no exceda del equivalente de quinientos días de Unidades de Medida y Actualización al momento de cometerse el delito, o no sea valuable, se le impondrán de tres meses a dos años de prisión y multa de cien a doscientos días de Unidades de Medida y Actualización e inhabilitación de uno a cuatro años para desempeñar cargo, empleo o comisión en el servicio público.
+
+Cuando la cantidad o el valor de lo exigido indebidamente exceda de quinientos días de Unidades de Medida y Actualización al momento de cometerse el delito, se le impondrán de dos años a doce años de prisión y multa de cien a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización e inhabilitación hasta por diez años para desempeñar cargo, empleo o comisión en el servicio público.
+
+### Capítulo VI. Uso indebido de información sobre actividades de las instituciones de seguridad pública, procuración e impartición de justicia y del sistema penitenciario
 
 ###### Artículo 286.
 
 Enriquecimiento ilícito
 
-Comete este delito quien, teniendo la calidad de servidor público, utilice su puesto, cargo o comisión, para incrementar su patrimonio sin comprobar su legítima procedencia.
+Se sancionará a quien con motivo de su empleo, cargo o comisión en el servicio público, haya incurrido en enriquecimiento ilícito. Existe enriquecimiento ilícito cuando el servidor público no pueda acreditar el legítimo aumento de su patrimonio o la legítima procedencia de los bienes a su nombre o de aquellos respecto de los cuales se conduzca como dueño.
 
-Determinación del enriquecimiento. Para determinar el enriquecimiento del servidor público, se tomarán en cuenta los bienes a su nombre y aquellos respecto de los cuales se conduzca como dueño, además de lo que a este respecto disponga la legislación sobre responsabilidades de los servidores públicos.
+Para efectos del párrafo anterior, se computarán entre los bienes que adquieran los servidores públicos o con respecto de los cuales se conduzcan como dueños, los que reciban o de los que dispongan su cónyuge y sus dependientes económicos directos, salvo que el servidor público acredite que éstos los obtuvieron por sí mismos.
 
-Punibilidad. Al sujeto activo del delito se le impondrán las siguientes sanciones:
+No será enriquecimiento ilícito en caso de que el aumento del patrimonio sea producto de una conducta que encuadre en otra hipótesis del presente Título. En este caso se aplicará la hipótesis y la sanción correspondiente, sin que dé lugar al concurso de delitos.
 
-Cuando el monto al que ascienda el enriquecimiento ilícito no exceda del equivalente a cinco mil veces el salario mínimo diario vigente en el lugar y el momento en que se comete el delito, se impondrán de dos a seis años de prisión y de cien a trescientos días multa.
+Al que cometa el delito de enriquecimiento ilícito se le impondrán las siguientes sanciones:
 
-Cuando el monto al que ascienda el enriquecimiento ilícito exceda del equivalente a cinco mil veces el salario mínimo, se impondrán de seis a dieciséis años de prisión y de trescientos a ochocientos días multa.
+Decomiso en beneficio del Estado de aquellos bienes cuya procedencia no se logre acreditar.
 
-## Título Décimo Séptimo. Delitos contra el servicio público cometidos por particulares
+Cuando el monto a que ascienda el enriquecimiento ilícito no exceda del equivalente de cinco mil veces el valor diario de la Unidad de Medida y Actualización se impondrán de dos a seis años de prisión y de treinta a cien días multa.
 
-### Capítulo VIII. Uso indebido de uniformes oficiales
+Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente de cinco mil veces el valor diario de la Unidad de Medida y Actualización se impondrán de seis a dieciséis años de prisión y de cien a ciento cincuenta días multa.
 
-###### Artículo 287.
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
 
-Promoción de conductas ilícitas
-
-A quien promueva una conducta ilícita de un servidor público, o se preste para que éste, por sí mismo o por un tercero, promueva o gestione la tramitación o resolución ilícita de negocios públicos ajenos a la responsabilidad inherente a su empleo, cargo o comisión, se le impondrán de seis meses a cuatro años de prisión y de cincuenta a doscientos días multa.
-
-###### Artículo 288.
-
-Cohecho cometido por particulares
-
-Al que, de manera espontánea, ofrezca dinero o cualquier otra dádiva u otorgue promesa a un servidor público o a interpósita persona, para que dicho servidor haga u omita un acto relacionado con sus funciones, se le impondrán las siguientes consecuencias jurídicas:
-
-I. De seis meses a dos años de prisión y de veinticinco a cien días multa, cuando la cantidad o el valor de la dádiva, promesa o prestación no excedan del equivalente a cien veces el salario mínimo vigente en el Estado al momento de cometerse el delito, y
-
-II. De dos a cinco años de prisión y de cien a doscientos cincuenta días multa, cuando la cantidad o el valor de la dádiva, promesa o prestación, excedan de cien veces el salario mínimo diario vigente en el Estado en el momento de cometerse el delito.
-
-###### Artículo 289.
-
-Atenuante o declaración de responsabilidad penal sin pena.
-
-El juez podrá imponer al sujeto activo una tercera parte de las penas señaladas en el artículo anterior, o eximirlo de las mismas, cuando éste haya actuado para beneficiar a alguna persona con la que lo ligue un vínculo familiar, de dependencia, o cuando haya denunciado espontáneamente el delito cometido.
-
-###### Artículo 290.
-
-Distracción de recursos públicos
-
-A quien, estando obligado legalmente a la custodia, depósito, administración de bienes muebles o inmuebles pertenecientes al erario público, o aplicación de recursos públicos, los distraiga de su objeto para usos propios o ajenos o les dé una aplicación distinta a la que se les destinó, se le impondrán de seis meses a seis años de prisión y de veinticinco a trescientos días multa.
-
-###### Artículo 291.
+###### Artículo 286 Bis.
 
 Enriquecimiento ilícito por simulación
 
 A quien haga figurar como suyos, bienes que un servidor público adquiera o haya adquirido en contravención de lo dispuesto en la legislación sobre responsabilidades de los servidores públicos, se le impondrán las mismas penas señaladas para el delito de enriquecimiento ilícito.
 
-### Capítulo I. Denegación o retardo de justicia y prevaricación
+## Título Décimo Séptimo. Delitos contra el servicio público cometidos por particulares
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE JULIO DE 2017)</small>
+
+### Capítulo VII. Usurpación de funciones públicas
+
+###### Artículo 287.
+
+(DEROGADO, P.O. 18 DE JULIO DE 2017)
+
+###### Artículo 288.
+
+(DEROGADO, P.O. 18 DE JULIO DE 2017)
+
+###### Artículo 289.
+
+(DEROGADO, P.O. 18 DE JULIO DE 2017)
+
+###### Artículo 290.
+
+(DEROGADO, P.O. 18 DE JULIO DE 2017)
+
+###### Artículo 291.
+
+(DEROGADO, P.O. 18 DE JULIO DE 2017)
+
+### Capítulo VIII. Uso indebido de uniformes oficiales
 
 ###### Artículo 292.
 
@@ -3277,7 +3477,9 @@ A quien por medio de la violencia física o moral, se oponga a que la autoridad 
 
 Cuando la desobediencia o resistencia sea a un mandato judicial o cumplimiento de una sentencia, la pena será de uno a cinco años de prisión y de cincuenta a doscientos cincuenta días multa.
 
-### Capítulo II. Delitos contra la procuración de justicia
+### Capítulo I. Denegación o retardo de justicia y prevaricación
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### Artículo 294.
 
@@ -3293,7 +3495,9 @@ A quien siendo titular, propietario o responsable de una construcción de obra, 
 
 A quien siendo titular o propietario de una casa habitación en construcción, que quebrante los sellos de clausura, se le aplicarán de seis meses a dos años de prisión.
 
-### Capítulo III. Delito contra la impartición de justicia
+### Capítulo II. Delitos contra la procuración de justicia
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### Artículo 296.
 
@@ -3301,7 +3505,7 @@ Ultrajes a la autoridad
 
 A quien ultraje a una autoridad en el ejercicio de sus funciones o con motivo de éstas, se le impondrán de seis meses a dos años de prisión o de cincuenta a doscientas jornadas de trabajo a favor de la comunidad.
 
-### Capítulo IV. Omisión de informes médico forenses
+### Capítulo III. Delito contra la impartición de justicia
 
 ###### Artículo 297.
 
@@ -3311,7 +3515,7 @@ A quien para hacer efectivo un derecho ejerza violencia de cualquier tipo, se le
 
 En estos casos sólo se procederá por querella de la parte ofendida.
 
-### Capítulo V. Delito contra la debida ejecución de la pena
+### Capítulo IV. Omisión de informes médico forenses
 
 ###### Artículo 298.
 
@@ -3325,7 +3529,7 @@ Además de las penas que correspondan por la realización de la conducta descrit
 
 El que cometa el delito descrito, en cualquiera de sus modalidades, no tendrá derecho a gozar de la libertad preparatoria, conmutación de sanciones, remisión parcial de la pena o cualesquiera otros beneficios que la ley señala.
 
-### Capítulo VI. Evasión de presos
+### Capítulo V. Delito contra la debida ejecución de la pena
 
 ###### Artículo 299.
 
@@ -3333,7 +3537,7 @@ Usurpación de funciones públicas
 
 Al que indebidamente se atribuya y ejerza funciones de un servidor público, se le impondrán de seis meses a cuatro años de prisión o de cincuenta a cuatrocientos días multa.
 
-### Capítulo I. Fraude procesal
+### Capítulo VI. Evasión de presos
 
 ###### Artículo 300.
 
@@ -3343,23 +3547,25 @@ Al que, sin derecho, use uniformes oficiales, distintivos o insignias, con el pr
 
 ## Título Décimo Octavo. Delitos contra el derecho de acceso a la justicia
 
-### Capítulo II. Falsedad ante autoridad
+### Capítulo I. Fraude procesal
 
 ###### Artículo 301.
 
 Denegación de la justicia
 
-Se impondrán de dos a ocho años de prisión y de cien a cuatrocientos días multa, a quien teniendo la calidad de servidor público:
+Se impondrán de cuatro a diez años y de cien a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización, a quien teniendo la calidad de servidor público:
 
-I. Dicte una sentencia definitiva o cualquier otra resolución de fondo que viole algún precepto determinante de la ley, o que sea manifiestamente contraria a las actuaciones legalmente practicadas en el proceso, o
+I. Dicte una sentencia definitiva o cualquier otra resolución de fondo que sean ilícitas por violar algún precepto determinante de la ley, o que sea manifiestamente contrarias a las actuaciones seguidas en juicio u omitir dictar una resolución de trámite, de fondo o una sentencia definitiva licita, dentro de los términos dispuestos en la ley; o
 
-II. No cumpla con una disposición que legalmente se le comunique por un superior competente.
+II. No cumpla con una disposición que legalmente se le comunique por un superior competente sin causa fundada y justificada para ello.
 
 ###### Artículo 302.
 
 Prevaricación
 
-Se impondrán de uno a cinco años de prisión y de cincuenta a doscientos cincuenta días multa, a quien teniendo la calidad de servidor público:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
+
+Se impondrán de tres a ocho años de prisión y multa de ciento cincuenta a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización, a quien teniendo la calidad de servidor público:
 
 I. Conozca de un negocio para el cual tenga impedimento legal;
 
@@ -3371,33 +3577,55 @@ IV. Remate a su favor algún bien objeto de remate en cuyo juicio haya interveni
 
 V. Admita o nombre a un depositario o entregue a éste los bienes secuestrados sin el cumplimiento de los requisitos legales correspondientes;
 
-VI. Induzca a error al demandado, con relación a la providencia de embargo decretada en su contra, o
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-VII. Nombre síndico o interventor en un concurso o quiebra, a una persona que sea deudor, pariente o que haya sido abogado del fallido, o a persona que tenga con el servidor público relación de parentesco, estrecha amistad o esté ligada con él por negocios de interés común.
+VI. Induzca a error al demandado, con relación a la providencia de embargo decretada en su contra;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+VII. Nombre síndico o interventor en un concurso o quiebra, a una persona que sea deudor, pariente o que haya sido abogado del fallido, o a persona que tenga con el servidor público relación de parentesco, estrecha amistad o esté ligada con él por negocios de interés común; y
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+VIII. Desempeñar algún otro empleo oficial o un puesto o cargo particular que la ley les prohíba.
 
 La misma sanción se impondrá a quien, como intermediario de un servidor público, remate algún bien objeto del remate en cuyo juicio haya intervenido aquél.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+A quien cometa los delitos previstos en las fracciones I, II y IV de este artículo, se le impondrá pena de prisión de cuatro a diez años y multa de ciento cincuenta a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 303.
 
 Denegación de la justicia por equiparación
 
-Se impondrán de uno a cinco años de prisión y de cincuenta a doscientos cincuenta días multa, a quien teniendo la calidad de servidor público:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
+
+Se impondrán de tres a ocho años de prisión y multa de ciento cincuenta a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización, a quien teniendo la calidad de servidor público:
 
 I. Se abstenga, sin tener impedimento legal, de conocer un asunto que le corresponda por razón de su cargo o comisión;
 
 II. Omita deliberadamente dictar, dentro del plazo legal, una sentencia definitiva o cualquier otra resolución de fondo o de trámite;
 
-III. Retarde o entorpezca, deliberadamente, la impartición de justicia, o
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-IV. Se niegue, injustificadamente, a despachar, dentro del plazo legal, un asunto pendiente sujeto a su responsabilidad.
+III. Retarde o entorpezca, deliberadamente, la impartición de justicia;
 
-### Capítulo III. Variación del nombre o domicilio
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+IV. Se niegue, injustificadamente, a despachar, dentro del plazo legal, un asunto pendiente sujeto a su responsabilidad; o
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+V. Advertir al demandado, ilícitamente, respecto de la providencia de embargo decretada en su contra.
+
+### Capítulo II. Falsedad ante autoridad
 
 ###### Artículo 304.
 
-Delito contra la procuración de justicia
+Denegación de la justicia por equiparación
 
-Se impondrán de dos a ocho años de prisión y de cien a cuatrocientos días multa, a quien teniendo la calidad de servidor público:
+Se impondrán de dos a ocho años de prisión y de doscientas a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización, a quien teniendo la calidad de servidor público:
 
 I. Durante la etapa de investigación detenga a una persona fuera de los casos previstos por la ley, o la retenga por más tiempo del previsto por aquélla;
 
@@ -3413,17 +3641,47 @@ VI. Otorgue la libertad provisional bajo caución cuando ésta no proceda confor
 
 VII. Se abstenga de iniciar la investigación correspondiente, cuando sea puesto a su disposición una persona por un delito doloso que sea perseguible de oficio;
 
-VIII. Practique cateos o visitas domiciliarias fuera de los casos autorizados por la ley, o
+VIII. Practique cateos o visitas domiciliarias fuera de los casos autorizados por la ley;
 
-IX. Fabrique, altere o simule elementos de prueba para incriminar o exculpar a una persona.
+IX. Fabrique, altere o simule elementos de prueba para incriminar o exculpar a una persona;
 
-### Capítulo IV. Simulación de pruebas
+X. Detener a un individuo fuera de los casos señalados por la ley, o retenerlo por más tiempo del señalado en la Constitución del Estado;
+
+XI. Ocultar al imputado el nombre de quien le acusa, salvo en los casos previstos por la ley, no darle a conocer el delito que se le atribuye o no realizar el descubrimiento probatorio conforme a lo que establece el Código Nacional de Procedimientos Penales;
+
+XII. Imponer gabelas o contribuciones en cualesquiera lugares de detención o internamiento;
+
+XIII. Dar a conocer a quien no tenga derecho, documentos, constancias o información que obren en una carpeta de investigación o en un proceso penal y que por disposición de la ley o resolución de la autoridad judicial, sean reservados o confidenciales;
+
+XIV. Alterar, modificar, ocultar, destruir, perder o perturbar el lugar de los hechos o del hallazgo, indicios, evidencias, objetos, instrumentos o productos relacionados con un hecho delictivo o el procedimiento de cadena de custodia;
+
+XV. Desviar u obstaculizar la investigación del hecho delictuoso de que se trate o favorecer que el imputado se sustraiga a la acción de la justicia;
+
+XVI. Obligue a una persona o a su representante a otorgar el perdón en los delitos que se persiguen por querella;
+
+XVII. Obligue a una persona a renunciar a su cargo o empleo para evitar responder a acusaciones de acoso, hostigamiento o para ocultar violaciones a la Ley Federal del Trabajo y/o a la Ley de Trabajo de los Servidores Públicos del Estado de Guerrero;
+
+XVIII. A quien ejerciendo funciones de supervisor de libertad o con motivo de ellas hiciere amenazas, hostigue o ejerza violencia en contra de la persona procesada, sentenciada, su familia y posesiones;
+
+XIX. A quien ejerciendo funciones de supervisor de libertad indebidamente requiera favores, acciones o cualquier transferencia de bienes de la persona procesada, sentenciada o su familia;
+
+XX. No ordenar la libertad de un imputado, decretando su vinculación a proceso, cuando sea acusado por delito o modalidad que tenga señalada pena no privativa de libertad o alternativa; y
+
+XXI. A quien ejerciendo funciones de supervisor de libertad falsee informes o reportes al Juez de Ejecución.
+
+En caso de tratarse de particulares realizando funciones propias del supervisor de libertad y con independencia de la responsabilidad penal individual de trabajadores o administradores, la organización podrá ser acreedora a las penas y medidas en materia de responsabilidad penal de las personas jurídicas estipuladas en este código.
+
+A quien cometa los delitos previstos en las fracciones V, X, XI, XII, XIII, XIV, XV, XVIII, XIX y XXI de este artículo, se le impondrá pena de prisión de cuatro a diez años y multa de doscientas a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización.
+
+### Capítulo III. Variación del nombre o domicilio
 
 ###### Artículo 305.
 
 Delito contra la impartición de justicia
 
-Se impondrán de dos a seis años de prisión y de cien a trescientos días multa, a quien teniendo la calidad de servidor público:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
+
+Se impondrán de cuatro a doce años de prisión y multa de doscientas a ochocientas veces el valor diario de la Unidad de Medida y Actualización, a quien teniendo la calidad de servidor público:
 
 I. Ordene la aprehensión de una persona por delito que no amerite pena privativa de libertad o no preceda denuncia o querella;
 
@@ -3435,9 +3693,25 @@ IV. Prolongue injustificadamente la prisión preventiva, sin sentencia definitiv
 
 V. Otorgue la libertad provisional bajo caución cuando ésta no proceda conforme al ordenamiento jurídico;
 
-VI. Demore injustificadamente el cumplimiento de la resolución judicial en la que se ordena poner en libertad a una persona detenida, o
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-VII. Inicie un proceso penal contra un servidor público con fuero constitucional, excepto en los casos que así lo permita la ley.
+VI. Demore injustificadamente el cumplimiento de la resolución judicial en la que se ordena poner en libertad a una persona detenida;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+VII. Inicie un proceso penal contra un servidor público con fuero constitucional, excepto en los casos que así lo permita la ley;
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+VIII. No dictar auto de vinculación al proceso o de libertad de un detenido, dentro de las setenta y dos horas siguientes a que lo pongan a su disposición, a no ser que el inculpado haya solicitado ampliación del plazo, caso en el cual se estará al nuevo plazo; y
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+IX. No ordenar la libertad de un imputado, decretando su vinculación a proceso, cuando sea acusado por delito o modalidad que tenga señalada pena no privativa de libertad o alternativa.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+A quien cometa los delitos previstos en las fracciones III, IV, VI y VIII de este artículo, se le impondrá pena de prisión de cuatro a diez años y multa de doscientas a ochocientas veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 306.
 
@@ -3445,7 +3719,7 @@ Delito contra la impartición de justicia agravado
 
 A quien teniendo la calidad de servidor público, durante el desarrollo del proceso, utilice la violencia contra una persona para evitar que ésta o un tercero aporten pruebas relativas a la comisión de un delito, se le impondrán de dos a ocho años de prisión y de cien a cuatrocientos días multa.
 
-### Capítulo V. Delito contra el ejercicio garantista de la abogacía o el litigio
+### Capítulo IV. Simulación de pruebas
 
 ###### Artículo 307.
 
@@ -3479,7 +3753,7 @@ IV. El certificado definitivo con la indicación del tiempo que tardó la curaci
 
 V. En su caso, el certificado de defunción.
 
-### Capítulo VI. Encubrimiento por favorecimiento
+### Capítulo V. Delito contra el ejercicio garantista de la abogacía o el litigio
 
 ###### Artículo 309.
 
@@ -3493,7 +3767,11 @@ II. Otorgue, indebidamente, privilegios a uno o más internos, o
 
 III. Permita ilegalmente la salida de personas privadas de su libertad.
 
-### Capítulo I. Responsabilidad profesional y técnica
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+A quien cometa el delito previsto en la fracción I de este artículo, se le impondrá pena de prisión de cuatro a diez años y multa de cien a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización.
+
+### Capítulo VI. Encubrimiento por favorecimiento
 
 ###### Artículo 310.
 
@@ -3537,7 +3815,7 @@ Cuando una persona que no tenga la calidad de servidor público cometa o partici
 
 ## Título Décimo Noveno. Delitos cometidos por particulares ante el ministerio público, autoridad judicial o administrativa
 
-### Capítulo II. Usurpación de profesión
+### Capítulo I. Responsabilidad profesional y técnica
 
 ###### Artículo 315.
 
@@ -3547,7 +3825,7 @@ A quien para obtener un beneficio económico, para sí o para otra persona, simu
 
 Este delito se perseguirá por querella, salvo que la cuantía o monto exceda de cinco mil veces el salario mínimo general vigente en el Estado al momento de cometerse el hecho.
 
-### Capítulo III. Abandono, negación y práctica indebida del servicio médico
+### Capítulo II. Usurpación de profesión
 
 ###### Artículo 316.
 
@@ -3587,7 +3865,7 @@ Punibilidad accesoria
 
 Además de las penas a que se refieren los artículos anteriores, se suspenderá hasta por tres años en el ejercicio de su profesión, ciencia, arte u oficio, al perito, intérprete o traductor responsable.
 
-### Capítulo IV. Delitos cometidos por miembros de centros de salud y agencias funerarias
+### Capítulo III. Abandono, negación y práctica indebida del servicio médico
 
 ###### Artículo 322.
 
@@ -3595,7 +3873,7 @@ Variación del nombre o domicilio
 
 A quien ante una autoridad judicial o administrativa en ejercicio de sus funciones, oculte o niegue su nombre o apellido o se atribuya uno distinto al verdadero, u oculte o niegue su domicilio o designe como tal uno distinto al verdadero, se le impondrán de seis meses a dos años de prisión o de cincuenta a doscientos días multa.
 
-### Capítulo V. Suministro de medicamentos inapropiados y suministro simulado de medicamento
+### Capítulo IV. Delitos cometidos por miembros de centros de salud y agencias funerarias
 
 ###### Artículo 323.
 
@@ -3605,7 +3883,7 @@ A quien con el propósito de inculpar a alguien por la comisión de un delito, s
 
 Si la simulación de pruebas se realiza para inculpar alguien por la comisión de un delito grave, las penas previstas en el párrafo anterior se aumentarán en una mitad más.
 
-### Capítulo I. Ataques a las vías de comunicación y medios de transporte
+### Capítulo V. Suministro de medicamentos inapropiados y suministro simulado de medicamento
 
 ###### Artículo 324.
 
@@ -3625,7 +3903,7 @@ V. Como representante de la víctima o el ofendido, sin motivo justificado, se c
 
 Si el responsable de los delitos previstos en este artículo es un defensor de oficio, se le destituirá y se le inhabilitará de seis a cuatro años para desempeñar otro empleo, cargo o comisión públicos.
 
-### Capítulo II. Ataque a la seguridad del tránsito vehicular
+### Capítulo I. Ataques a las vías de comunicación y medios de transporte
 
 ###### Artículo 325.
 
@@ -3651,7 +3929,7 @@ No se procederá contra quien oculte a la persona inculpada de cometer un delito
 
 ## Título Vigésimo. Delitos cometidos en el ejercicio de la profesión
 
-### Capítulo III. Violación de correspondencia
+### Capítulo II. Ataque a la seguridad del tránsito vehicular
 
 ###### Artículo 327.
 
@@ -3661,7 +3939,7 @@ Las personas profesionistas, artistas o técnicos y sus auxiliares, serán respo
 
 Además de las consecuencias jurídicas contempladas para los delitos cometidos, se impondrá multa de diez a ciento cincuenta días de salario, suspensión de un mes a tres años en el ejercicio de su profesión o actividad en cuyo ejercicio los hayan ocasionado, e inhabilitación, en su caso, y se les condenará, además, a la reparación del daño.
 
-### Capítulo IV. Violación de comunicación privada
+### Capítulo III. Violación de correspondencia
 
 ###### Artículo 328.
 
@@ -3669,7 +3947,7 @@ Usurpación de profesión
 
 A quien se atribuya públicamente el carácter profesionista sin tener título profesional, u ofrezca o desempeñe públicamente sus servicios, sin tener la autorización para ejercerla en términos de la legislación aplicable, se le impondrán de dos a cinco años de semilibertad y de cien a doscientos cincuenta días multa.
 
-### Capítulo I. Simulación mediante títulos al portador, documentos de crédito público o similares
+### Capítulo IV. Violación de comunicación privada
 
 ###### Artículo 329.
 
@@ -3701,7 +3979,7 @@ III. Sin autorización del paciente o de quien legítimamente pueda otorgarla, s
 
 IV. Practique esterilización con fines de infecundidad, sin la voluntad del paciente.
 
-### Capítulo II. Falsificación de sellos, contraseñas o similares
+### Capítulo I. Simulación mediante títulos al portador, documentos de crédito público o similares
 
 ###### Artículo 332.
 
@@ -3717,7 +3995,7 @@ III. Retarden o nieguen la entrega de un cadáver, excepto cuando se requiera or
 
 Las mismas sanciones se impondrán a los directores, encargados, administradores o empleados de agencias funerarias que retarden o nieguen indebidamente la entrega del cadáver.
 
-### Capítulo III. Elaboración, alteración o uso indebido de placas, engomados o documentos de identificación de vehículos automotores
+### Capítulo II. Falsificación de sellos, contraseñas o similares
 
 ###### Artículo 333.
 
@@ -3733,7 +4011,7 @@ A los encargados, empleados o dependientes de una farmacia, que al surtir una re
 
 ## Título Vigésimo Primero. Delitos contra la seguridad y el normal funcionamiento de las vías de comunicación y de los medios de transporte
 
-### Capítulo IV. Falsificación o alteración y uso indebido de documento
+### Capítulo III. Elaboración, alteración o uso indebido de placas, engomados o documentos de identificación de vehículos automotores
 
 ###### Artículo 335.
 
@@ -3771,7 +4049,7 @@ II. Si el delito se ejecuta por medio de violencia física o moral, o
 
 III. Si el delito se comete utilizando material explosivo o incendiario.
 
-### Capítulo I. Delitos contra el ambiente
+### Capítulo IV. Falsificación o alteración y uso indebido de documento
 
 ###### Artículo 338.
 
@@ -3799,7 +4077,7 @@ Prestación de servicio público sin autorización
 
 Al propietario o conductor de un vehículo que preste el servicio público de transporte sin contar con la concesión, permiso o autorización correspondiente, se le aplicarán de seis meses a dos años de prisión y de veinticinco a cien días multa.
 
-### Capítulo II. Disposiciones comunes a los delitos previstos en el presente título
+### Capítulo I. Delitos contra el ambiente
 
 ###### Artículo 341.
 
@@ -3811,7 +4089,7 @@ No se procederá contra quien, en ejercicio de la patria potestad, tutela o cust
 
 Este delito se perseguirá por querella.
 
-### Capítulo I. Rebelión
+### Capítulo II. Disposiciones comunes a los delitos previstos en el presente título
 
 ###### Artículo 342.
 
@@ -3823,7 +4101,7 @@ Las mismas penas se impondrán a quien revele, divulgue, utilice indebidamente o
 
 ## Título Vigésimo Segundo. Delitos contra la fe pública
 
-### Capítulo II. Ataques a la paz pública
+### Capítulo I. Rebelión
 
 ###### Artículo 343.
 
@@ -3857,7 +4135,7 @@ VII. Utilice indebidamente información confidencial o reservada de la instituci
 
 VIII. Produzca, imprima, enajene, distribuya, altere o falsifique vales utilizados para canjear bienes y servicios.
 
-### Capítulo III. Sabotaje
+### Capítulo II. Ataques a la paz pública
 
 ###### Artículo 345.
 
@@ -3869,7 +4147,7 @@ I. Falsifique o altere sellos, marcas, llaves, estampillas, troqueles, cuños, m
 
 II. Use los objetos falsificados o alterados señalados en la fracción anterior.
 
-### Capítulo IV. Motín
+### Capítulo III. Sabotaje
 
 ###### Artículo 346.
 
@@ -3879,7 +4157,7 @@ A quien elabore o altere sin permiso de la autoridad competente una placa, el en
 
 Las mismas penas se impondrán a quien posea, utilice, adquiera o enajene cualquiera de los objetos a que se refiere el párrafo anterior, con conocimiento de que son falsificados o fueron obtenidos indebidamente.
 
-### Capítulo V. Sedición
+### Capítulo IV. Motín
 
 ###### Artículo 347.
 
@@ -3924,6 +4202,8 @@ Falsificación o alteración de documento o similar tecnológico
 Se impondrán las penas señaladas en el artículo 340 a la persona que para obtener un beneficio o causar un daño, indebidamente produzca o edite, por cualquier medio tecnológico, imágenes, audio, voces o textos, total o parcialmente falsos o verdaderos.
 
 ## Título Vigésimo Tercero. Delitos contra el ambiente
+
+### Capítulo V. Sedición
 
 ###### Artículo 351.
 
@@ -4242,3 +4522,27 @@ Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para
 ###### ARTÍCULO TERCERO.
 
 Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+P.O. 18 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 470 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499”.]
+
+Primero. El presente Decreto entrará en vigor a partir del nombramiento del titular de la Fiscalía Especializada en Combate a la Corrupción que el Congreso del Estado de Guerrero, realice en términos de lo establecido en la Constitución Política del Estado Libre y Soberano de Guerrero.
+
+Segundo. A partir de la entrada en vigor de este Decreto, para el caso en que las reformas contenidas en el mismo, contemplen una descripción legal de una conducta delictiva que en los artículos reformados se contemplaban como delito y por virtud de las presentes reformas, se denomina, penaliza o agrava de forma diversa, siempre y cuando las conductas y los hechos respondan a la descripción que ahora se establecen, se estará a lo siguiente:
+
+I. En los casos de hechos que constituyan alguno de los delitos reformados por el presente Decreto, cuando se tenga conocimiento de los mismos, el Ministerio Público iniciará la investigación de conformidad con la traslación del tipo que resulte;
+
+II. En las investigaciones iniciadas, en los que aún no se ejercite la acción penal, el Ministerio Público ejercerá ésta de conformidad con la traslación del tipo que resulte;
+
+III. En los procesos incoados, en los que aún no se formulen conclusiones acusatorias el Ministerio Público las formulará de conformidad con la traslación del tipo que resulte;
+
+IV. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal, respectivamente podrán efectuar la traslación del tipo de conformidad con la conducta que se haya probado y sus modalidades; y
+
+V. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, en función de la traslación del tipo, según las modalidades correspondientes.
+
+Tercero. Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
+
+Cuarto. Quedará derogada la fracción VI del artículo 274 de este Código, una vez que se regule de manera específica este supuesto en la Ley para Prevenir, Sancionar y Erradicar la Tortura en el Estado de Guerrero. Los procedimientos iniciados por hechos que ocurran a partir de dicha entrada en vigor, se seguirán conforme a lo establecido en la misma.
+
+Los procedimientos iniciados antes de la vigencia de la Ley para Prevenir, Sancionar y Erradicar la Tortura en el Estado de Guerrero continuarán su sustanciación de conformidad con este código.
