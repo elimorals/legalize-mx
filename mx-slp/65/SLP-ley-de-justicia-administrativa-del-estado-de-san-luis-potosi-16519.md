@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-justicia-administrativa-del-estado-de-san-luis-potosi-16
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-30"
-last_updated: "2017-04-10"
+last_updated: "2017-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "SLP"
 ---
 # LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE SAN LUIS POTOSI
 
-> <small>[N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS SEGUNDO DE LA LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA DE SAN LUIS POTOSÍ Y DEL CÓDIGO PROCESAL ADMINISTRATIVO PARA EL ESTADO DE SAN LUIS POTOSÍ, PUBLICADOS EN EL P.O. DE 10 DE ABRIL DE 2017 Y P.O. DE 18 DE JULIO DE 2017, RESPECTIVAMENTE; EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS SEGUNDO DE LA LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA DE SAN LUIS POTOSÍ Y DEL CÓDIGO PROCESAL ADMINISTRATIVO PARA EL ESTADO DE SAN LUIS POTOSÍ, PUBLICADOS EN EL P.O. DE 10 DE ABRIL DE 2017 Y 18 DE JULIO DE 2017, RESPECTIVAMENTE; EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE SAN LUIS POTOSÍ
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2017 (ABROGADA).
+
+(REPUBLICADA SU ABROGACIÓN, P.O. 18 DE JULIO DE 2017)
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 30 de abril de 1997.
 
@@ -1602,3 +1604,17 @@ Lo dispuesto en el segundo párrafo del artículo 37 de esta Ley, se aplicará s
 DÉCIMO SEXTO. El Pleno del Tribunal podrá determinar que la Sala Unitaria Especializada en Responsabilidades Administrativas, auxilio de las demás Salas Unitarias en tanto el número de asuntos que conozca, así lo permita.
 
 DÉCIMO SÉPTIMO. El titular del órgano de control interno del Tribunal de Justicia Administrativa, será designado por el Congreso del Estado, en un periodo no mayor de treinta días, contado a partir de la publicación del presente Decreto.
+
+P.O. 18 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0674.- CÓDIGO PROCESAL ADMINISTRATIVO PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor el diecinueve de julio de dos mil diecisiete, previa su publicación en el Periódico Oficial del Estado “Plan de San Luis”
+
+SEGUNDO. Se abroga la Ley de Justicia Administrativa publicada en el Periódico Oficial del Estado el treinta de abril de mil novecientos noventa y siete. Los procedimientos iniciados durante su vigencia continuarán substanciándose y se resolverán bajo las disposiciones de la misma hasta su conclusión definitiva.
+
+TERCERO. Se abroga la Ley de Procedimientos Administrativos para el Estado y Municipios de San Luis Potosí, publicada en el Periódico Oficial del Estado con (sic) el veintisiete de marzo de dos mil uno. Los procedimientos iniciados durante su vigencia continuarán substanciándose y se resolverán bajo las disposiciones de la misma hasta su conclusión definitiva.
+
+CUARTO. El Juicio en Línea a que se refiere el presente Código, entrará en vigor en la fecha en que por acuerdo así lo disponga el Pleno del Tribunal Estatal de Justicia Administrativa, considerando sus recursos tecnológicos y disponibilidad presupuestal; sin embargo, dicho término no podrá exceder de dos años posteriores a la entrada en vigor del presente decreto.
+
+QUINTO. Las referencias que en este Código se hagan a la Fiscalía General del Estado, se entenderán hechas a la Procuraduría General de Justicia del Estado, en tanto se reforman las Leyes respectivas que modifiquen su denominación.
