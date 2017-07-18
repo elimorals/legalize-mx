@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-presupuesto-y-contabilidad-gubernamental-del-estado-777
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2016-04-09"
+last_updated: "2017-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # LEY DEL PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE YUCATAN
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE JULIO DE 2017.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 31 de diciembre de 2010.
 
@@ -233,7 +235,7 @@ LXXXV. RESULTADO: El producto, efecto o impacto ya sea propuesto o no, positivo 
 
 LXXXVI. REQUERIMIENTOS FINANCIEROS DEL SECTOR PÚBLICO: Las necesidades de financiamiento para alcanzar los objetivos de las políticas públicas tanto del Gobierno del Estado y las entidades del sector público estatal, como de las organizaciones del sector privado y social que actúan por cuenta del Poder Ejecutivo del Estado;
 
-LXXXVII. RESPONSABILIDAD HACENDARlA: La observancia de los principios y las disposiciones de esta Ley, de la Ley de Ingresos, del Presupuesto de Egresos y de los ordenamientos jurídicos aplicables que procuren el equilibrio presupuestal, la disciplina fiscal y el cumplimiento de las metas de los programas y proyectos públicos;
+LXXXVII. RESPONSABILIDAD HACENDARIA: La observancia de los principios y las disposiciones de esta Ley, de la Ley de Ingresos, del Presupuesto de Egresos y de los ordenamientos jurídicos aplicables que procuren el equilibrio presupuestal, la disciplina fiscal y el cumplimiento de las metas de los programas y proyectos públicos;
 
 > <small>(REFORMADA, D.O. 9 DE ABRIL DE 2016)</small>
 
@@ -489,19 +491,13 @@ La contratación de Deuda Pública para financiar el déficit presupuestal deber
 
 Los Poderes Legislativo y Judicial, los organismos autónomos y las Dependencias y Entidades, que reciban recursos económicos provenientes de programas federales permanentes, mediante acuerdo o convenio, deberán prever en sus proyectos de ingresos y egresos correspondientes el ejercicio de los mismos, e informarán de ello para la integración de la Cuenta Pública.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, D.O. 25 DE ABRIL DE 2014)</small>
 
 Los ejecutores de gasto, con cargo a sus respectivos presupuestos y de conformidad con las disposiciones generales aplicables, deberán cubrir las contribuciones federales, estatales y municipales correspondientes, así como las obligaciones de cualquier índole que se deriven de resoluciones definitivas emitidas por autoridad competente, que hayan causado estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, D.O. 25 DE ABRIL DE 2014)</small>
 
 Las adecuaciones presupuestarias que, en su caso, sean necesarias para el pago de las obligaciones a que se refiere el párrafo anterior, no podrán afectar el cumplimiento de los objetivos y las metas de los programas prioritarios aprobados en el Presupuesto de Egresos respectivo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O. 25 DE ABRIL DE 2014)</small>
 
@@ -1239,7 +1235,7 @@ III.- Que se encuentren debidamente justificados y comprobados con los documento
 
 La Secretaría podrá realizar cargos a los presupuestos de las Dependencias y, en su caso, a las transferencias o subsidios destinadas a las entidades en el presupuesto de las Dependencias Coordinadoras de Sector, en caso de desastres naturales o incumplimiento de normas o pagos, conforme a lo siguiente:
 
-l.- La Secretaría solicitará a la dependencia que efectúe el cargo a su presupuesto. Si en un plazo de 5 días hábiles la dependencia no realizara el cargo, la Secretaría elaborará una cuenta por liquidar certificada especial para efectuarlo;
+I.- La Secretaría solicitará a la dependencia que efectúe el cargo a su presupuesto. Si en un plazo de 5 días hábiles la dependencia no realizara el cargo, la Secretaría elaborará una cuenta por liquidar certificada especial para efectuarlo;
 
 II.- La dependencia cuyo presupuesto se haya afectado por la expedición de cuentas por liquidar certificadas especiales deberá efectuar el registro contable y presupuestal correspondiente, y
 
@@ -1517,7 +1513,7 @@ Los Ejecutores de Gasto, al realizar pagos por concepto de servicios personales,
 
 I.- Sujetarse a su presupuesto aprobado conforme a lo previsto en el artículo 39 de esta Ley;
 
-Il.- Sujetarse a los tabuladores de remuneraciones en los términos previstos en las disposiciones generales aplicables;
+II.- Sujetarse a los tabuladores de remuneraciones en los términos previstos en las disposiciones generales aplicables;
 
 III.- En materia de incrementos en las percepciones, deberán sujetarse estrictamente a las previsiones salariales y económicas a que se refiere el artículo 39 fracción II de esta Ley, aprobadas en el Presupuesto de Egresos;
 
@@ -1545,7 +1541,7 @@ XI.- Las Dependencias y Entidades deberán sujetarse a la estructura ocupacional
 
 Los Ejecutores de Gasto que establezcan percepciones extraordinarias en favor de los servidores públicos a su cargo, deberán sujetarse a lo siguiente:
 
-l.- Los recursos para cubrirlas deberán estar previstos en sus respectivos presupuestos;
+I.- Los recursos para cubrirlas deberán estar previstos en sus respectivos presupuestos;
 
 > <small>(REFORMADA, D.O. 9 DE ABRIL DE 2016)</small>
 
@@ -1565,7 +1561,7 @@ En ningún supuesto se deberá otorgar remuneración adicional a los miembros qu
 
 Los Ejecutores de Gasto podrán celebrar contratos de prestación de servicios profesionales por honorarios con personas físicas, con cargo al presupuesto de servicios personales, únicamente cuando se reúnan los siguientes requisitos:
 
-l.- Los recursos destinados a celebrar tales contratos estén expresamente previstos para tal efecto en sus respectivos presupuestos autorizados de servicios personales;
+I.- Los recursos destinados a celebrar tales contratos estén expresamente previstos para tal efecto en sus respectivos presupuestos autorizados de servicios personales;
 
 II.- Los contratos no podrán exceder la vigencia anual de cada Presupuesto de Egresos;
 
@@ -2065,13 +2061,11 @@ Estos deberán diferenciarse de la tasa de interés que se pagará por los empr�
 
 A los elementos del informe trimestral establecidos en este artículo, podrán añadirse otros que señalen expresamente esta Ley, el Reglamento u otras disposiciones legales.
 
-> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
 
 ###### Artículo 168.
 
-A más tardar el treinta y uno de julio, los Poderes Legislativo y Judicial, la Administración Pública por conducto de la Secretaría y los organismos autónomos rendirán el (sic)
-
-Informe de Avance de la Gestión Financiera correspondiente al periodo de enero a junio, a que se refiere el artículo 9 de la Ley de Fiscalización de la Cuenta Pública a la Auditoría Superior del Estado.
+A más tardar el treinta y uno de julio, los Poderes Legislativo y Judicial, la Administración Pública por conducto de la secretaría y los organismos autónomos rendirán el Informe de Avance de la Gestión Financiera correspondiente al periodo de enero a junio, a que se refiere el artículo 69 de la Ley de Fiscalización de la Cuenta Pública del Estado de Yucatán a la Auditoría Superior del Estado.
 
 ###### Artículo 169.
 
@@ -2121,21 +2115,21 @@ La Secretaría es la dependencia responsable de la consolidación de la contabil
 
 La Secretaría dará a conocer a los Poderes Legislativo y Judicial, organismos autónomos, Dependencias y Entidades de quienes deba obtener información, a más tardar el día quince de enero de cada año, las instrucciones y formatos para obtener los datos necesarios para la integración de la Cuenta Pública del año anterior.
 
-> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
 
 ###### Artículo 174.
 
-Los Ejecutores de Gasto mencionados en el artículo anterior, deberán presentar su Cuenta Pública a la Auditoría Superior del Estado, a través de la Secretaría, a más tardar el treinta y uno de marzo del año siguiente al cierre del ejercicio fiscal correspondiente.
+Los Ejecutores de Gasto mencionados en el artículo anterior, deberán presentar su Cuenta Pública a la Auditoría Superior del Estado, a través de Hacienda y la secretaría, a más tardar el treinta de abril del año siguiente al cierre del ejercicio fiscal correspondiente.
 
 ###### Artículo 175.
 
 Las cuentas públicas de los ayuntamientos deberán contener, como mínimo, la información contable y presupuestaria a que se refiere el artículo 156. Asimismo, de considerarlo necesario, el CONAC determinará la información adicional que al respecto se requiera, en atención a las características de los mismos.
 
-> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
 
 ###### Artículo 176.
 
-Los ayuntamientos deberán presentar su Cuenta Pública a la Auditoría Superior del Estado, a más tardar el treinta y uno de marzo del año siguiente al cierre del ejercicio fiscal correspondiente.
+Los ayuntamientos deberán presentar su cuenta pública a la Auditoría Superior del Estado, a más tardar el treinta de abril del año siguiente al cierre del ejercicio fiscal correspondiente.
 
 ###### Artículo 177.
 
@@ -2457,7 +2451,7 @@ C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
 
 SECRETARIO GENERAL DE GOBIERNO
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 D.O. 22 DE DICIEMBRE DE 2011.
 
@@ -2520,3 +2514,47 @@ El Gobernador del estado deberá realizar las modificaciones al Reglamento del C
 Noveno. Derogación tácita
 
 Se derogan las disposiciones de igual o menor jerarquía que se opongan a este decreto.
+
+D.O. 18 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 508/2017 POR EL QUE SE EXPIDE LA LEY DE FISCALIZACIÓN DE LA CUENTA PÚBLICA DEL ESTADO DE YUCATÁN Y SE MODIFICA LA LEY DEL PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día 19 de julio de 2017, previa publicación en el diario oficial del gobierno del estado.
+
+Segundo. Abrogación de leyes
+
+A partir de la entrada en vigor de este decreto, queda abrogada la Ley de Fiscalización de la Cuenta Pública del Estado de Yucatán, publicada en el diario oficial del estado el 19 de abril de 2010.
+
+Tercero. Obligación normativa
+
+La Auditoría Superior del Estado de Yucatán deberá actualizar y, en su caso, publicar, la normativa que, conforme a sus atribuciones, deba expedir, en un plazo no mayor a ciento ochenta días contado a partir de la entrada en vigor de esta ley.
+
+Cuarto. Relaciones laborales
+
+El personal de base que preste sus servicios en la Auditoría Superior del Estado, regulada en la legislación que se abroga, pasará a formar parte de la Auditoría Superior del Estado y se estará a lo que señalen las disposiciones legales aplicables.
+
+Quinto. Transferencia de recursos
+
+Los recursos presupuestales, financieros, materiales y, en general, todos aquellos medios que permiten el cumplimiento de las atribuciones asignadas a la Auditoría Superior del Estado, regulada en la legislación que se abroga, se transferirán a la Auditoría Superior del Estado, en un plazo máximo de ciento veinte días, contado a partir de la entrada en vigor de este decreto.
+
+Sexto. Asuntos pendientes
+
+Los convenios, actos jurídicos, asuntos pendientes y en trámite, así como las obligaciones contraídas y los derechos adquiridos por la Auditoría Superior del Estado, regulada en la legislación que se abroga, y que por su naturaleza subsistan, quedarán a cargo de la Auditoría Superior del Estado a partir de la entrada en vigor de este decreto.
+
+Séptimo. Aplicación retroactiva
+
+El procedimiento, términos y plazos previstos en esta ley, para la presentación y fiscalización de las cuentas públicas, se aplicarán a partir del ejercicio fiscal correspondiente al año 2018. La fiscalización de los ejercicios anteriores al año 2018, se llevarán conforme a las disposiciones de la Ley de la Fiscalización de la Cuenta Pública del Estado de Yucatán que se abroga.
+
+Octavo. Nombramiento de titulares
+
+El nombramiento del titular de la Unidad de Vigilancia y Evaluación de la Auditoría Superior del Estado, deberá realizarse en un plazo que no exceda de noventa días naturales contados a partir de la entrada en vigor de éste Decreto.
+
+Noveno. Titular de la Auditoria Superior del Estado
+
+El titular de la Auditoría Superior del Estado que se encuentre en funciones a la entrada en vigor de este decreto, continuará con el cargo durante el período para el que fue electo.
+
+Décimo. Lineamientos para la declaración de no conflicto de intereses.
+
+El Congreso emitirá los lineamientos bajo los cuales se deberá realizar la declaración de conflicto de intereses que deberán presentar los candidatos para ocupar el cargo de auditor superior del estado.
