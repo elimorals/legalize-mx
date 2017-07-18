@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-lo-contencioso-administrativo-del-estado-de-yucatan-1192
 country: "mx"
 rank: "ley"
 publication_date: "1987-10-01"
-last_updated: "2016-12-28"
+last_updated: "2017-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE JULIO DE 2017.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 1 de octubre de 1987.
 
@@ -49,9 +49,9 @@ Los juicios que se promuevan ante el Tribunal de Justicia Fiscal y Administrativ
 
 Los juicios por responsabilidad administrativa se substanciarán conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
 
-> <small>(ADICIONADO, D.O. 28 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
 
-Para los efectos de esta ley se entenderá por Tribunal al Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán y por Magistrado al Magistrado que se encuentre en función de ponente para la sustanciación de cada asunto en concreto.
+Para los efectos de esta ley se entenderá por Tribunal al Tribunal de Justicia Administrativa del Estado de Yucatán y por Magistrado al Magistrado que se encuentre en función de ponente para la sustanciación de cada asunto en concreto.
 
 ###### ARTICULO 2.
 
@@ -782,3 +782,41 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Obligación normativa
 
 El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
+
+D.O. 18 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 511/2017 POR EL QUE SE EXPIDE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE YUCATÁN Y SE MODIFICAN LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN Y LA LEY DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el 19 de julio de 2017, cuando lo haga la Ley General de Responsabilidades Administrativas, en términos del Decreto 380/2016 por el que se que (sic) modifica la Constitución Política del Estado de Yucatán, en materia de anticorrupción y transparencia.
+
+Segundo. Obligación normativa
+
+El Poder Judicial del Estado de Yucatán deberá realizar las modificaciones pertinentes a su normativa interna para armonizarla a las disposiciones de este decreto, en un plazo de ciento ochenta días naturales contado a partir de su entrada en vigor.
+
+Tercero. Expedición de disposiciones reglamentarias
+
+El Tribunal de Justicia Administrativa del Estado de Yucatán deberá expedir las disposiciones reglamentarias necesarias para la debida implementación de este decreto dentro de los ciento ochenta días naturales siguientes a su entrada en vigor.
+
+Cuarto. Vigencia de disposiciones internas
+
+Los acuerdos de organización interna, el otorgamiento de poderes generales o especiales y acuerdos delegatorios emitidos por el Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán permanecerán vigentes, por lo que serán entendidos respecto del Tribunal de Justicia Administrativa del Estado de Yucatán. Los Magistrados que continúan como tales ahora en el Tribunal de Justicia Administrativa del Estado de Yucatán, entrarán de inmediato en funciones sin necesidad de rendir compromiso constitucional en virtud de haberlo hecho en su oportunidad.
+
+Quinto. Referencias al tribunal
+
+Cuando otras disposiciones legales mencionen o contemplen la figura del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán se entenderán referidas al Tribunal de Justicia Administrativa del Estado de Yucatán.
+
+Sexto. Pleno del tribunal
+
+El pleno del Tribunal de Justicia Administrativa del Estado de Yucatán queda facultado para proveer lo necesario y resolver lo que pueda necesitarse para el debido cumplimiento de la presente ley en el ámbito de sus atribuciones.
+
+Séptimo. Derechos adquiridos
+
+En cumplimiento del tercer párrafo del artículo octavo transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 27 de mayo de 2015, y décimo cuarto transitorio del Decreto 380/2016 por el que se modifica la Constitución Política del Estado de Yucatán, publicado en el diario oficial del estado el 20 de abril de 2016, con el objeto de no afectar los derechos adquiridos de los magistrados del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán, estos continuarán como magistrados del organismo autónomo denominado Tribunal de Justicia Administrativa del Estado de Yucatán, exclusivamente por el tiempo por el que fueron nombrados, conservando las obligaciones a su cargo y las prerrogativas establecidas a su favor en los artículos 97 de la Constitución Política del Estado de Yucatán; 10, 11, 13, 170 y 171 primer párrafo de la Ley Orgánica del Poder Judicial del Estado de Yucatán en vigor a la fecha de la publicación de este decreto.
+
+Octavo. Presidencia del tribunal
+
+El presidente del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán que se encuentre en funciones a la entrada en vigor de este decreto, asumirá el cargo de presidente del Tribunal de Justicia Administrativa del Estado de Yucatán, para continuar durante el período para el que fue elegido.
+
+NOVENO.- Se deroga toda disposición de igual o menor rango en lo que se oponga a la presente ley.
