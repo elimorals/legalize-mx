@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1143
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-02"
-last_updated: "2016-06-01"
+last_updated: "2017-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114374&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE JULIO DE 2017.
 
 Ley publicada en el Suplemento II del Diario Oficial del Estado de Yucatán, el lunes 2 de mayo de 2016.
 
@@ -403,9 +403,67 @@ Las relaciones laborales entre el instituto y sus trabajadores, independientemen
 
 El instituto estará facultado en todo momento para instaurar un servicio profesional de carrera.
 
-### Capítulo VII. Consejo Consultivo
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 18 DE JULIO DE 2017)</small>
 
-### Capítulo VIII. Informe Anual
+### Capítulo VI bis. Órgano de Control Interno
+
+> <small>(ADICIONADO, D.O. 18 DE JULIO DE 2017)</small>
+
+Artículo 30 bis. Naturaleza
+
+El órgano de control interno se encargará de promover, evaluar y fortalecer el buen funcionamiento del control interno en el instituto, así como de aplicar las leyes en materia de responsabilidades administrativas.
+
+El órgano de control interno del instituto tendrá un titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto.
+
+> <small>(ADICIONADO, D.O. 18 DE JULIO DE 2017)</small>
+
+Artículo 30 ter. Requisitos
+
+Para ser titular del órgano de control interno se deberán cubrir los siguientes requisitos:
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos.
+
+II. Tener por lo menos treinta y cinco años cumplidos el día de la designación.
+
+III. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión.
+
+IV. No haber sido secretario de estado, fiscal general del estado, senador, diputado, gobernador, dirigente, miembro de órgano rector, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los cuatro años anteriores a la propia designación.
+
+V. Contar, al momento de su designación, con una experiencia de, al menos, cinco años en el control, manejo o fiscalización de recursos, responsabilidades administrativas, contabilidad gubernamental, auditoría gubernamental, obra pública, adquisiciones, arrendamientos y servicios del sector público.
+
+VI. Contar, al día de su designación, con antigüedad mínima de cinco años, con título profesional¸ relacionado con las actividades a que se refiere la fracción anterior, expedido por autoridad o institución legalmente facultada para ello.
+
+VII. Contar con reconocida solvencia moral.
+
+VIII. No pertenecer o haber pertenecido en los cuatro años anteriores a su designación, a despachos que hubieren prestado sus servicios al instituto o haber fungido como consultor o auditor externo del instituto en lo individual durante ese periodo.
+
+IX. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público.
+
+> <small>(ADICIONADO, D.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 30 Quater.
+
+Nombramiento y atribuciones
+
+El titular del órgano de control interno ejercerá las facultades a que se refiere la fracción III del artículo 98 de la Constitución Política del Estado de Yucatán y en la legislación aplicable en materia (sic) responsabilidades administrativas.
+
+El titular del órgano de control interno durará en su cargo cinco años y será elegido por el voto de las dos terceras partes de los integrantes del Congreso, mediante el procedimiento establecido en la Ley de Gobierno del Poder Legislativo.
+
+El titular del órgano de control interno podrá ser designado por un periodo inmediato posterior al que se haya desempeñado, previa postulación y cumpliendo los requisitos previstos en esta ley y el procedimiento establecido en la Ley de Gobierno del Poder Legislativo del Estado de Yucatán.
+
+El titular del órgano de control interno mantendrá la coordinación técnica necesaria con la Auditoría Superior del Estado de Yucatán.
+
+> <small>(ADICIONADO, D.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 30 Quinquies.
+
+Régimen de responsabilidad
+
+El titular del órgano de control interno del instituto será sujeto de responsabilidad en términos de la legislación aplicable en materia de responsabilidades administrativas; y podrá ser sancionado de conformidad con el procedimiento previsto en la normativa aplicable.
+
+Tratándose de los demás servidores públicos adscritos al órgano de control interno del instituto serán sancionados por el titular del órgano de control interno, o el servidor público en quien delegue la facultad, en términos de la legislación aplicable en (sic) de responsabilidades administrativas.
+
+### Capítulo VII. Consejo Consultivo
 
 ###### Artículo 31.
 
@@ -443,7 +501,7 @@ Reglamento interno del consejo consultivo
 
 El consejo consultivo deberá expedir su reglamento interno, en el cual se establecerá lo relativo a la organización y el desarrollo de las sesiones, las formalidades de las convocatorias y las facultades de quienes lo integran.
 
-### Capítulo I. Promoción de la Transparencia y el Derecho de Acceso a la Información
+### Capítulo VIII. Informe Anual
 
 ###### Artículo 35.
 
@@ -485,7 +543,7 @@ El informe anual de actividades deberá publicarse en el sitio web del instituto
 
 ## TÍTULO TERCERO. Cultura de la Transparencia y Apertura Gubernamental
 
-### Capítulo II. Transparencia Proactiva y Focalizada
+### Capítulo I. Promoción de la Transparencia y el Derecho de Acceso a la Información
 
 ###### Artículo 38.
 
@@ -533,7 +591,7 @@ III. Facilitar el ejercicio del derecho de acceso a la información de las perso
 
 IV. Procurar la accesibilidad de la información.
 
-### Capítulo III. Gobierno Abierto
+### Capítulo II. Transparencia Proactiva y Focalizada
 
 ###### Artículo 41.
 
@@ -567,7 +625,7 @@ Los ciudadanos podrán proponer a los sujetos obligados la determinación de tra
 
 El Instituto podrá realizar recomendaciones, no vinculantes, a los sujetos obligados respecto de la determinación de transparencia focalizada, para que sean valoradas en el ejercicio de sus responsabilidades públicas, de oficio o a petición de los ciudadanos.
 
-### Capítulo I. Disposiciones Generales
+### Capítulo III. Gobierno Abierto
 
 ###### Artículo 46.
 
@@ -625,7 +683,7 @@ e) Instituir un grupo de trabajo con la sociedad que posibilite la interacción 
 
 ## TÍTULO CUARTO. Sujetos Obligados
 
-### Capítulo II. Comités de Transparencia
+### Capítulo I. Disposiciones Generales
 
 ###### Artículo 49.
 
@@ -683,9 +741,7 @@ II. No se refiere a alguna de sus facultades, competencias o funciones.
 
 III. Se refiere a alguna de sus facultades, competencias o funciones; cuando estas no hayan sido ejercidas. En este caso, la respuesta deberá motivarse, además, en función de las causas que originaron la falta de ejercicio de las facultades, competencias o funciones de su cargo.
 
-### Capítulo III. Unidades de Transparencia
-
-> <small>(REFORMADO, D.O. 1 DE JUNIO DE 2016)</small>
+### Capítulo II. Comités de Transparencia
 
 ###### Artículo 54.
 
@@ -719,7 +775,9 @@ Acceso a información para su clasificación
 
 Los integrantes del comité de transparencia tendrán acceso a la información para determinar su clasificación, conforme a la normativa previamente establecida por los sujetos obligados para el resguardo o salvaguarda de la información.
 
-### Capítulo I. Disposiciones Generales
+### Capítulo III. Unidades de Transparencia
+
+> <small>(REFORMADO, D.O. 1 DE JUNIO DE 2016)</small>
 
 ###### Artículo 59.
 
@@ -753,7 +811,7 @@ Las funciones y atribuciones de la unidad se asignarán, preferentemente, a las 
 
 ## TÍTULO QUINTO. Transparencia
 
-### Capítulo II. Información Obligatoria
+### Capítulo I. Disposiciones Generales
 
 ###### Artículo 63.
 
@@ -823,7 +881,7 @@ Datos personales
 
 Los sujetos obligados serán responsables de los datos personales en su posesión y en relación con estos deberán sujetarse a lo dispuesto en los artículos 68 de la Ley general.
 
-### Capítulo III. Cumplimiento de las Obligaciones de Transparencia
+### Capítulo II. Información Obligatoria
 
 ###### Artículo 72.
 
@@ -859,7 +917,7 @@ II. Revisar el listado que remitió la persona física o moral en la medida en q
 
 III. Determinar las obligaciones de transparencia que deben cumplir y los plazos para ello.
 
-### Capítulo Único
+### Capítulo III. Cumplimiento de las Obligaciones de Transparencia
 
 ###### Artículo 75.
 
@@ -891,7 +949,7 @@ La clasificación es el proceso mediante el cual el sujeto obligado determina qu
 
 ## TÍTULO SÉPTIMO. Procedimiento de Acceso a la Información Pública
 
-### Capítulo I. Recurso de Revisión
+### Capítulo Único
 
 ###### Artículo 79.
 
@@ -925,7 +983,7 @@ El expediente deberá contener, al menos, la solicitud; las comunicaciones inter
 
 ## TÍTULO OCTAVO. Procedimientos de Impugnación
 
-### Capítulo II. Recurso de Inconformidad
+### Capítulo I. Recurso de Revisión
 
 ###### Artículo 82.
 
@@ -959,7 +1017,7 @@ El instituto podrá solicitar al Instituto Nacional de Transparencia, Acceso a l
 
 El procedimiento de atracción de los recursos de revisión se llevará a cabo de conformidad con lo establecido en la Ley general.
 
-### Capítulo III. Cumplimiento de las Resoluciones
+### Capítulo II. Recurso de Inconformidad
 
 ###### Artículo 85.
 
@@ -967,7 +1025,7 @@ Recurso de inconformidad
 
 Los particulares podrán interponer ante el Instituto Nacional de Transparencia, Acceso a la Información el recurso de inconformidad, previsto en el capítulo II del título octavo de la Ley general, contra las resoluciones emitidas por el instituto que confirmen o modifiquen la clasificación de la información o confirmen la inexistencia de la información entendida esta última como la falta de resolución del instituto dentro del plazo previsto para ello, o bien, podrán impugnar dichas determinaciones ante el Poder Judicial de la Federación.
 
-### Capítulo I. Medidas de Apremio
+### Capítulo III. Cumplimiento de las Resoluciones
 
 ###### Artículo 86.
 
@@ -977,7 +1035,7 @@ Los sujetos obligados, a través de su unidad de transparencia, darán estricto 
 
 ## TÍTULO NOVENO. Medidas de Apremio y Sanciones
 
-### Capítulo II. Sanciones
+### Capítulo I. Medidas de Apremio
 
 ###### Artículo 87.
 
@@ -1053,7 +1111,11 @@ Vencido el plazo establecido en el párrafo anterior sin que se hubiese satisfec
 
 Impugnación de multas
 
-La imposición de multas derivadas de la ejecución de medidas de apremio podrá ser impugnada ante el Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán. La impugnación a que se refiere este artículo será independiente del procedimiento sancionador que, en su caso se implemente al infractor.
+> <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
+
+La imposición de multas derivadas de la ejecución de medidas de apremio podrá ser impugnada ante el Tribunal de Justicia Administrativa del Estado de Yucatán. La impugnación a que se refiere este artículo será independiente del procedimiento sancionador que, en su caso se implemente al infractor.
+
+### Capítulo II. Sanciones
 
 #### Sección Primera. Disposiciones Generales
 
@@ -1107,7 +1169,9 @@ El instituto podrá denunciar ante las autoridades competentes cualquier acto u 
 
 Competencia
 
-Las conductas previstas en el artículo 96 de la ley serán sancionadas por el órgano interno de control del sujeto obligado cuando los infractores tengan la calidad de servidores públicos y, por el instituto cuando los infractores no tengan esa calidad.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 18 DE JULIO DE 2017)</small>
+
+Las conductas previstas en el artículo 96 de la ley serán sancionadas por el órgano de control interno del sujeto obligado cuando los infractores tengan la calidad de servidores públicos y, por el instituto cuando los infractores no tengan esa calidad.
 
 Las sanciones de carácter económico no podrán ser cubiertas con recursos públicos.
 
@@ -1117,7 +1181,9 @@ Vista
 
 Ante probables incumplimientos en materia de transparencia y acceso a la información por parte de los partidos políticos, el instituto dará vista al Instituto Electoral y de Participación Ciudadana de Yucatán para que resuelva lo conducente, sin perjuicio de las sanciones establecidas para los partidos políticos en las leyes aplicables.
 
-Tratándose de probables incumplimientos en materia de transparencia y acceso a la información relacionados con fideicomisos o fondos públicos, sindicatos o personas físicas o morales que reciban y ejerzan recursos públicos o realicen actos de autoridad, el instituto deberá dar vista al órgano interno de control del sujeto obligado relacionado con estos, cuando sean servidores públicos, con el fin de que instrumenten los procedimientos administrativos a que haya lugar.
+> <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
+
+Tratándose de probables incumplimientos en materia de transparencia y acceso a la información relacionados con fideicomisos o fondos públicos, sindicatos o personas físicas o morales que reciban y ejerzan recursos públicos o realicen actos de autoridad, el instituto deberá dar vista al órgano de control interno del sujeto obligado relacionado con estos, cuando sean servidores públicos, con el fin de que instrumenten los procedimientos administrativos a que haya lugar.
 
 #### Sección Segunda. Responsabilidades de los Sujetos Obligados con Carácter de Servidores Públicos
 
@@ -1253,7 +1319,9 @@ Vencido el plazo establecido en el párrafo anterior sin que se hubiese satisfec
 
 Impugnación de resolución
 
-La resolución podrá ser impugnada ante el Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán.
+> <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
+
+La resolución podrá ser impugnada ante el Tribunal de Justicia Administrativa del Estado de Yucatán.
 
 Artículo Segundo.-...
 
@@ -1356,3 +1424,19 @@ D.O. 17 DE MARZO DE 2016.
 Único. Entrada en vigor
 
 Este decreto entrará en vigor el día de su publicación en el diario oficial del estado.
+
+D.O. 18 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 509/2017 POR EL QUE SE MODIFICAN LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE YUCATÁN, LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN, LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE YUCATÁN, LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN Y LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el 19 de julio de 2017, cuando lo haga la Ley General de Responsabilidades Administrativas, en términos del Decreto 380/2016 por el que se modifica la Constitución Política del Estado de Yucatán, en materia de anticorrupción y transparencia.
+
+Segundo. Nombramientos
+
+El Congreso deberá expedir la convocatoria para la designación de los titulares de los órganos de control interno de la Comisión de Derechos Humanos del Estado de Yucatán y del Instituto Estatal de Transparencia, Acceso a la Información y Protección de Datos Personales dentro de los noventa días naturales contados a partir de la entrada en vigor de este decreto.
+
+Tercero. Titular del Órgano de Control Interno del Instituto
+
+El titular del Órgano de Control Interno del Instituto Electoral y de Participación Ciudadana que se encuentre en funciones a la entrada en vigor de este decreto, continuará con el cargo durante el período para el que fue electo.
