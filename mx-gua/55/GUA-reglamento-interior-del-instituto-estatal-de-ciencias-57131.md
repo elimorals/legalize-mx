@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-instituto-estatal-de-ciencias-57131"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-09-18"
-last_updated: "2007-09-18"
+last_updated: "2017-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CIENCIAS PENALES DEL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIOS DEL REGLAMENTO INTERIOR DEL INSTITUTO DE FORMACIÓN EN SEGURIDAD PÚBLICA DEL ESTADO, PUBLICADO EN EL P.O. DE 18 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CIENCIAS PENALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE JULIO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 18 de septiembre de 2007.
 
@@ -454,3 +456,25 @@ JOSÉ GERARDO MOSQUEDA MARTÍNEZ
 EL SECRETARIO DE SEGURIDAD PÚBLICA
 
 BALTASAR VILCHES HINOJOSA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO GUBERNATIVO NÚMERO 191, MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO INTERIOR DEL INSTITUTO DE FORMACIÓN EN SEGURIDAD PÚBLICA DEL ESTADO".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del Reglamento vigente
+
+Artículo Segundo. Se abroga el Decreto Gubernativo número 42, que contiene el Reglamento Interior del Instituto Estatal de Ciencias Penales, publicado en el Periódico Oficial del Gobierno del Estado número 150, Segunda Parte, del 18 de septiembre de 2007.
+
+Subrogación de derechos y obligaciones
+
+Artículo Tercero. El Instituto de Formación en Seguridad Pública del Estado de Guanajuato sustituye en todas sus funciones, ejercicio de derechos, así como en el cumplimiento de las obligaciones y compromisos adquiridos por el Instituto Estatal de Ciencias Penales.
+
+Referencias al Inecipe contenidas en otros instrumentos jurídicos
+
+Artículo Cuarto. Para todos los efectos legales correspondientes, las referencias contenidas en decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto Gubernativo, al Instituto Estatal de Ciencias Penales, se tienen efectuadas al Instituto de Formación en Seguridad Pública del Estado a que alude el presente Decreto Gubernativo.
