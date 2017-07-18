@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-de-la-fiscalia-general-del-estado-de-guerrero-1023
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-08-01"
-last_updated: "2016-12-16"
+last_updated: "2017-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102312&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE GUERRERO NUMERO 500
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE ENERO DE 2018 EN EL P.O. DEL ESTADO DE GUERRERO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUERRERO. NÚMERO 500
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2017.
 
 Ley publicada en el alcance del Periódico Oficial del Estado de Guerrero, el viernes 1 de agosto de 2014.
 
@@ -35,7 +37,9 @@ Que el H. Congreso Local, se ha servido comunicarme que,
 
 LA SEXAGÉSIMA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, EN NOMBRE DEL PUEBLO QUE REPRESENTA, Y:
 
-C O N S I D E R A N D O...
+C O N S I D E R A N D O
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en lo dispuesto en los artículos 61 fracción I de la Constitución Política Local y 8 fracción I de la Ley Orgánica del Poder Legislativo en vigor, el Honorable Congreso del Estado, decreta y expide la siguiente:
 
@@ -43,15 +47,19 @@ LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUERRERO. NÚMERO 500.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 1.
 
 Naturaleza Jurídica
 
-La presente ley es de orden público e interés social y reglamentaria de los artículos 16, 19, 20, 21, 22, 116 Fracción IX y 123 Apartado B, Fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos, de los artículos 112, 139, 140, 141 y 142 de la Constitución Política del Estado libre y Soberano de Guerrero, y de la Ley General del Sistema Nacional de Seguridad Pública a la que se refiere el artículo 73 Fracción XXIII de la Constitución Política de los Estados Unidos Mexicanos y de las facultades que a las fiscalías otorgan las leyes a las que se refiere el artículo 73 fracción XXI de la misma.
+La presente Ley es de orden público e interés social y tiene por objeto organizar a la Fiscalía General del Estado de Guerrero para el despacho de los asuntos que al Ministerio Público y al Fiscal General del Estado les confieren la Constitución Política del Estado Libre y Soberano de Guerrero, la presente Ley y las demás disposiciones aplicables.
 
-El Ministerio Público se organizará en una Fiscalía General del Estado de Guerrero como órgano público autónomo, dotado de personalidad jurídica y patrimonio propios. Es una institución de seguridad pública en términos de lo comprendido por el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos. Como tal, participa en el Sistema Nacional de Seguridad Pública y puede ejercer todas las funciones a que se refiere la ley general de la materia.
+El Ministerio Público se organizará en una Fiscalía General del Estado de Guerrero como órgano público autónomo, dotado de personalidad jurídica y patrimonio propios.
 
-La Fiscalía General del Estado de Guerrero contará con un Consejo de la Fiscalía General, las vicefiscalías, fiscalía de delitos electorales, fiscalía de combate a la corrupción, fiscalías regionales y fiscalías especializadas, una policía investigadora del delito, que se requieran para el ejercicio de sus funciones.
+El Ministerio Público es una institución de seguridad pública en términos de lo comprendido por el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos. Como tal, participa en el Sistema Nacional de Seguridad Pública y puede ejercer todas las funciones a que se refiere la ley general de la materia.
+
+La Fiscalía General del Estado de Guerrero contará con un Consejo de la Fiscalía General, las vicefiscalías, fiscalías especializadas, especiales y regionales y una Policía Investigadora Ministerial y demás unidades administrativas que se requieran para el ejercicio de sus funciones.
 
 ###### ARTÍCULO 2.
 
@@ -69,6 +77,10 @@ III. Que el culpable no quede impune, y
 
 IV. Que se reparen los daños causados por el delito.
 
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+Las facultades y obligaciones de los órganos y unidades administrativas que integran la Fiscalía General quedarán delimitadas en el Reglamento de la Ley.
+
 ###### ARTÍCULO 3.
 
 Definiciones
@@ -81,7 +93,9 @@ II. Código Nacional: al Código Nacional de Procedimientos Penales;
 
 III. Constitución de Guerrero: a la Constitución Política del Estado Libre y Soberano de Guerrero;
 
-IV. Constitución General: a la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+IV. Constitución Federal: Constitución Política de los Estados Unidos Mexicanos;
 
 V. Fiscal General: al Fiscal General del Estado de Guerrero;
 
@@ -97,9 +111,25 @@ X. Ley General de Víctimas: a la Ley General de Víctimas;
 
 XI. Ley General del Sistema: a la Ley General del Sistema Nacional de Seguridad Pública;
 
-XII. Ley General para prevenir y sancionar los delitos de Secuestro: a la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la Fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, y
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-XIII. Reglamento: Al Reglamento de la Ley Orgánica de la Fiscalía General del Estado.
+XII. Ley General para Prevenir y Sancionar los Delitos de Secuestro: a la Ley General para Prevenir y Sancionar los Delitos en materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XIII. Reglamento: El Reglamento de la Ley Orgánica de la Fiscalía General del Estado;
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XIV. Ley General Anticorrupción: La Ley General del Sistema Nacional Anticorrupción;
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XV. Ley Estatal Anticorrupción: La Ley Estatal del Sistema Anticorrupción de Guerrero; y
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XVI. Ley Orgánica: La Ley Orgánica de la Fiscalía General del Estado de Guerrero.
 
 ###### ARTÍCULO 4.
 
@@ -287,15 +317,19 @@ j). El regreso de la víctima u ofendido a su domicilio, una vez que se salvagua
 
 XXXIV. Las demás funciones que le atribuyan otras disposiciones legales, aplicables a diversas materias del derecho.
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 12.
 
-Derechos de las Víctimas u Ofendidos
+Derechos de las víctimas u ofendidos
 
-El Ministerio Público deberá garantizar los derechos contenidos en el artículo 20 de la Constitución General apartado C, Título Segundo de la Ley General de Víctimas, artículo 77 Fracción XII de la Ley General del Sistema, en el Código Nacional y en la Ley General de Víctimas. También deberá proporcionar la protección especializada a las Víctimas, a la que se refieren la Ley General en materia de Secuestro, Ley General en materia de Trata de Personas y la Ley General de Acceso.
+El Ministerio Público deberá garantizar los derechos contenidos en el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos Apartado C; el Título Segundo de la Ley General de Víctimas, artículo 77 fracción XII de la Ley General del Sistema y en el Código Nacional. También deberá proporcionar la protección especializada a las víctimas, a la que se refieren la Ley General para Prevenir y Sancionar los Delitos en materia de Secuestro; Ley General para Prevenir, Sancionar y Erradicar los Delitos en materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos; la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, así como la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado Libre y Soberano de Guerrero; la Ley para Prevenir y Erradicar la Trata de Personas y para la Protección, Atención y Asistencia de las Víctimas, Ofendidos y Testigos de estos Delitos en el Estado de Guerrero, y Ley de Víctimas del Estado Libre y Soberano de Guerrero.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 13.
 
-Derechos de los detenidos extranjeros, integrantes de pueblos o comunidades indígenas y personas con discapacidad.
+Derechos de los detenidos extranjeros, integrantes de pueblos o comunidades indígenas, afromexicanas y personas con discapacidad.
 
 En caso de que el detenido sea extranjero, se le informará que será notificado el Consulado de su país, para que de conformidad con su gobierno, se le preste la asistencia consular correspondiente. También se le informará que tiene derecho a un traductor o intérprete si así lo requiere por no entender o hablar el español.
 
@@ -409,13 +443,15 @@ El Fiscal General será designado por el Congreso del Estado, de acuerdo al proc
 
 Atribuciones y deberes del Fiscal General
 
-Al Fiscal General le corresponden las siguientes funciones:
+> <small>(DEROGADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
 
-I. Ser el Titular de la institución, y
+I. (DEROGADA, P.O. 18 DE JULIO DE 2017)
 
-II. Representar al Estado en juicio.
+II. (DEROGADA, P.O. 18 DE JULIO DE 2017)
 
-Y tendrá las siguientes atribuciones y deberes:
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
+El Fiscal General, será el titular de la institución y le corresponden las atribuciones y deberes siguientes:
 
 I. Establecer las bases de organización de la Fiscalía General;
 
@@ -443,9 +479,13 @@ XII. Emitir instrucciones generales o particulares, al personal de la Instituci�
 
 XIII. Celebrar convenios, acuerdos, bases de colaboración y demás instrumentos jurídicos con autoridades federales, estatales y municipales del sector central, paraestatal o autónomos; así como con organizaciones de los sectores social y privado;
 
-XIV. Designar y remover a los titulares de las áreas de la Fiscalía General, conceder licencias y aceptar las renuncias de los mismos;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-XV. Autorizar los cambios de adscripción de los funcionarios de la institución;
+XIV. Designar y remover libremente a los titulares de las áreas de la Fiscalía General, con excepción de los nombramientos cuya designación corresponda al Congreso del Estado de Guerrero, conceder licencias, comisiones y aceptar las renuncias de los mismos;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XV. Autorizar los cambios de adscripción de los servidores públicos de la institución;
 
 XVI. Emitir los acuerdos con relación a la aplicación de criterios de oportunidad, las formas de terminación anticipada de la investigación y salidas alternas;
 
@@ -467,9 +507,21 @@ XXIV. Acudir y participar en las sesiones ordinarias y extraordinarias de la Con
 
 XXV. Solicitar a la autoridad competente, la aplicación de sanciones a los miembros de los cuerpos de seguridad pública o empresas de seguridad privada, que infrinjan disposiciones legales o reglamentarias, omitan o retarden la ejecución de un acto propio relacionado con funciones de investigación o lo cumplan negligentemente;
 
-XXVI. Llevar a cabo audiencias públicas, y
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-XXVII. Las demás que se prevean en otras disposiciones aplicables.
+XXVI. Conceder licencias, comisiones y aceptar las renuncias de los servidores públicos de la Fiscalía General;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XXVII. Determinar el otorgamiento del servicio de seguridad y protección policial al Fiscal, a los Vicefiscales, al Visitador General, a los Fiscales Regionales y Especializados y a los ex servidores públicos que ocuparon alguno de los anteriores cargos, en la Fiscalía General, en términos de lo que establezca el reglamento;
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XXVIII. Llevar a cabo audiencias públicas; y
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XXIX. Las demás que se prevean en otras disposiciones aplicables.
 
 ###### ARTÍCULO 22.
 
@@ -499,7 +551,9 @@ I. Vicefiscalías;
 
 II. Visitaduría General;
 
-III. Contraloría Interna;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+III. Órgano Interno de Control;
 
 IV. Instituto de Formación Profesional;
 
@@ -511,9 +565,13 @@ VII. Fiscalías Regionales;
 
 VIII. Fiscalías Especializadas;
 
-IX. Fiscalía Especial de delitos electorales;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-X. Fiscalía de combate a la corrupción;
+IX. Fiscalía de Delitos Electorales;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+X. Fiscalía Especializada en Combate a la Corrupción;
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
@@ -537,11 +595,19 @@ XVII. Las demás que establezca el Reglamento y otras disposiciones aplicables;
 
 XVIII. Las demás que establezca el Reglamento y otras disposiciones aplicables;
 
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+Las Fiscalías Especializadas se equipararán jerárquicamente a las Vicefiscalías.
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 25.
 
 Nombramientos y remociones
 
-Los Vicefiscales, serán nombrados y removidos por el Gobernador del Estado a propuesta del Fiscal General. Los demás servidores públicos de la institución, serán nombrados y removidos por el Fiscal General.
+Los Fiscales Especializados y el titular del Órgano Interno de Control, serán nombrados conforme a lo previsto por los artículos 61 fracción XLIV y 142, numeral 10 de la Constitución de Guerrero. Los vicefiscales serán nombrados y removidos por el Fiscal General, así como los demás servidores públicos de la institución.
+
+Los vicefiscales, los fiscales especializados, el titular del Órgano Interno de Control y el Visitador General deberán cumplir con los requisitos establecidos en el artículo 18 de esta Ley.
 
 ###### ARTÍCULO 26.
 
@@ -571,17 +637,117 @@ La Fiscalía de Delitos Electorales tiene por objeto prevenir, investigar y pers
 
 Su personal deberá cumplir con los requisitos especiales señalados en la citada legislación, recibirá la capacitación especializada y deberá garantizar a las víctimas, sus derechos y los términos de la legislación respectiva.
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 30.
 
-Fiscalía de combate a la corrupción
+Fiscalía Especializada en Combate a la Corrupción
 
-La Fiscalía de Combate a la Corrupción tiene por objeto la investigación y persecución de los delitos relacionados con hechos de corrupción de competencia estatal, así como cualquier delito cometido por un servidor público estatal en el desempeño de su empleo, cargo o comisión.
+La Fiscalía Especializada en Combate a la Corrupción es el órgano con autonomía técnica y operativa para investigar y perseguir los hechos de corrupción que la ley considera como delitos del fuero común.
+
+Para el desarrollo de sus funciones la Fiscalía Especializada en Combate a la Corrupción, contará con personal ministerial, policial, directivo y administrativo, y con las unidades administrativas necesarias para el seguimiento y eficacia de las investigaciones.
+
+Los Agentes del Ministerio Público y de la Policía Investigadora Ministerial que le sean adscritos, serán especializados para combatir, investigar y perseguir los hechos que la ley considera como delitos en materia de corrupción.
+
+La Coordinación General de los Servicios Periciales de la Fiscalía General, auxiliará a la Fiscalía Especializada en Combate a la Corrupción en la emisión de los dictámenes periciales e informes que le soliciten, debiendo dar trámite y desahogo al peritaje solicitado en el término que al efecto establezca el Ministerio Público y que resulte acorde con la complejidad del peritaje a realizar.
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
 ARTÍCULO 30 BIS. Fiscalía Especializada en materia de Desaparición Forzada y Búsqueda de Personas Desaparecidas.
 
 Tiene por objeto la investigación de las conductas previstas en la Ley de la materia, y contará con Ministerios Públicos y policías especializados, así como los recursos humanos, financieros y materiales que requieran para su efectiva operación. Esta fiscalía se integrará con peritos y técnicos especializados para el ejercicio de su función.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+ARTÍCULO 30 BIS 1. Anteproyecto de Presupuesto
+
+El titular de la Fiscalía Especializada en Combate a la Corrupción elaborará su anteproyecto de presupuesto de egresos de cada ejercicio fiscal, el cual será presentado al Fiscal General para su inclusión en el de la Fiscalía, y a su vez remitido a la Secretaría de Finanzas y Administración, para ser integrado al proyecto de Presupuesto de Egresos del Gobierno del Estado y enviado al Congreso Estatal.
+
+En el presupuesto de egresos del Estado de Guerrero se identificará el monto aprobado a esta fiscalía para el respectivo ejercicio fiscal.
+
+El titular de la Fiscalía Especializada en Combate a la Corrupción, presentará anualmente al Fiscal General un informe de actividades sustantivas cuyos resultados serán públicos, en términos de lo previsto en la Ley de Transparencia y Acceso a la Información Pública del Estado, y demás disposiciones legales aplicables en la materia. Dicho informe será remitido al Comité Coordinador del Sistema Estatal Anticorrupción de Guerrero y al Congreso del Estado.
+
+El titular de la Fiscalía, y su personal de confianza, los agentes del Ministerio Público y de la Policía Investigadora Ministerial y los Peritos, estarán sujetos a la Ley de Responsabilidades Administrativas para el Estado de Guerrero y al régimen especial de la materia previsto en esta Ley; su actuación será fiscalizada por la Auditoría Superior del Estado, la Visitaduría General y el Órgano Interno de Control, conforme a sus respectivas competencias.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+ARTÍCULO 30 BIS 2. Atribuciones de la Fiscalía Especializada en Combate a la Corrupción
+
+La Fiscalía Especializada en Combate a la Corrupción tendrá las atribuciones siguientes:
+
+I. Ejercer las atribuciones que la Constitución Federal, los instrumentos jurídicos internacionales en la materia, el Código Nacional, la Constitución Política del Estado de Guerrero, el Código Penal, las leyes y reglamentos en la materia y que demás disposiciones jurídicas le otorgan al Ministerio Publico, respecto de los hechos que la ley considera como delitos en materia de corrupción, con excepción de los cometidos por servidores públicos de la Fiscalía General, en cuyo caso, se estará a lo dispuesto en el artículo 52 de esta Ley;
+
+II. Participar como integrante del Comité Coordinador del Sistema Estatal Anticorrupción, atendiendo las bases establecidas en el artículo 198 bis, fracción I de la Constitución de Guerrero y en la ley estatal correspondiente;
+
+III. Nombrar, previo acuerdo con el Fiscal General, a los titulares de las Unidades Administrativas de la Fiscalía Especializada en Combate a la Corrupción, salvo el personal que no realicen funciones sustantivas, en cuyo caso, el nombramiento y su remoción serán exclusivos del Fiscal Especializado.
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
+El Fiscal Especializado fundada y motivadamente, podrá solicitar al Fiscal General la destitución de los agentes del Ministerio Público y de la policía que le estén adscritos cuando no cumplan con los requisitos para permanecer en su cargo;
+
+IV. Atender personalmente o a través de los Agentes del Ministerio Público y de la Policía Investigadora Ministerial que le estén adscritos, los asuntos de su competencia, sobre los que ejercerá mando directo en términos de lo dispuesto por esta Ley y su reglamento;
+
+V. Participar coordinadamente con las demás unidades administrativas de la Fiscalía General e instancias de los gobiernos federal, estatal y municipal, en el diseño de esquemas de capacitación, actualización y especialización en la materia de prevención y combate a la corrupción, en particular con la Fiscalía Especializada para la Protección de Derechos Humanos y el Instituto de Formación y Capacitación Profesional;
+
+VI. Coordinar y supervisar la actuación de la Policía Investigadora Ministerial de su adscripción, en los términos de lo dispuesto por la Constitución Federal; el Código Nacional, la Constitución de Guerrero, la presente Ley, su Reglamento y demás disposiciones aplicables;
+
+VII. Diseñar e implementar estrategias y líneas de acción para combatir los hechos que la ley considera como delitos en materia de corrupción;
+
+VIII. Implementar planes y programas destinados a detectar la comisión de los hechos que la ley considera como delitos en materia de corrupción en el ámbito de su competencia; dichos planes y programas deberán ser aprobados por el Fiscal General;
+
+IX. Instrumentar mecanismos de colaboración con otras autoridades para la elaboración de estrategias y programas tendientes a combatir los hechos que la ley considera como delitos en materia de corrupción;
+
+X. Emitir los acuerdos, circulares, instructivos, bases y demás normas administrativas necesarias que rijan la actuación de la Fiscalía en el ámbito de su competencia.
+
+Los acuerdos, circulares, instructivos, bases y demás normas administrativas emitidas por parte del titular de la Fiscalía Especializada en Combate a la Corrupción, que sean necesarios para regular la actuación de la Fiscalía a su cargo en ningún caso podrán contradecir las normas administrativas emitidas por el Fiscal General.
+
+En caso de contradicción, corresponderá al titular de la Vicefiscalía de Prevención y Seguimiento, resolver las discrepancias que se susciten en el ámbito administrativo con motivo de la interpretación o aplicación de la Ley Orgánica, su Reglamento, y demás normatividad institucional, así como presentar opinión al Fiscal General en los casos no previstos para que resuelva lo conducente en el marco de sus facultades.
+
+En los casos en que alguna de las áreas de dicha Fiscalía Especializada esté involucrada en la discrepancia de que se trate, ésta será resuelta en definitiva por el Fiscal General.
+
+En su caso, se propondrá al Fiscal General la actualización, derogación o abrogación de las normas expedidas por éste;
+
+XI. Proponer la celebración de convenios con instituciones u organismos públicos o privados, nacionales o extranjeros, en el ámbito de su competencia, donde se privilegie el intercambio de experiencias, conocimientos y avances tecnológicos en materia de combate a la corrupción;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XII. Fortalecer e implementar, en el ámbito de su competencia, mecanismos de cooperación y colaboración con autoridades de los tres órdenes de gobierno para la investigación de los hechos que la ley considera como delitos en materia de corrupción;
+
+XIII. Implementar mecanismos de colaboración con autoridades que ejerzan facultades de fiscalización a fin de fortalecer el desarrollo de las investigaciones de su competencia;
+
+XIV. Requerir a las instancias de gobierno la información que resulte útil o necesaria para sus investigaciones, la que por ningún motivo le podrá ser negada, incluso anteponiendo el secreto bancario, fiduciario o cualquiera otro de similar naturaleza;
+
+XV. Diseñar, integrar e implementar sistemas y mecanismos de análisis de la información fiscal, financiera y contable para que pueda ser utilizada por ésta y otras unidades administrativas competentes de la Fiscalía General, en especial la relacionada con la investigación de los hechos que la ley considera como delitos en materia de corrupción;
+
+XVI. Coadyuvar con otras áreas competentes de la Fiscalía General en el desarrollo de herramientas de inteligencia con metodologías interdisciplinarias de análisis e investigación de las distintas variables criminales, socioeconómicas y financieras, para conocer la evolución de las actividades relacionadas con los hechos que la ley considera como delitos en materia de corrupción;
+
+XVII. Generar sus propias herramientas metodológicas para el efecto de identificar los patrones de conducta que pudieran estar relacionados con operaciones con recursos de procedencia ilícita;
+
+XVIII. Emitir guías y manuales técnicos, en conjunto con la Coordinación General de los Servicios Periciales de la Fiscalía General, para la formulación de dictámenes en materia de análisis fiscal, financiero y contable que requieran los Agentes del Ministerio Público en el cumplimiento de sus funciones de investigación y persecución de los hechos que la ley considera como delitos en materia de corrupción;
+
+XIX. Coordinar la investigación para la obtención de datos o medios de prueba vinculados a hechos que la ley considera como delitos en materia de corrupción;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XX. Conducir la investigación para la obtención de datos o medios de prueba vinculados a hechos que la ley considera como delitos en materia de corrupción;
+
+XXI. Dirigir, coordinar y realizar la investigación de los hechos probablemente constitutivos de delitos de su competencia, en los que ejerza la facultad de atracción;
+
+XXII. Ordenar el aseguramiento de bienes propiedad del imputado, así como de aquellos respecto de los cuales se conduzcan como dueños, o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga al producto, los instrumentos u objetos del hecho delictivo cuando éstos hayan desaparecido o no se localicen por causa atribuible al imputado;
+
+XXIII. Promover la extinción de dominio de los bienes de los imputados o sentenciados, así como de aquellos respecto de los cuales se conduzcan como dueños, o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga a los bienes desaparecidos o no localizados por causa atribuible al imputado o sentenciado, cuando estos bienes estén vinculados con hechos que la ley considera como delitos en materia de corrupción que sean susceptibles de la acción de extinción de dominio, en los términos de la legislación aplicable;
+
+XXIV. Decidir, en términos de las disposiciones aplicables, el destino de los recursos que le sean asignados, a fin de cubrir las necesidades que surjan en el desempeño de sus atribuciones;
+
+XXV. Recibir denuncias, querellas o su equivalente que le sean presentadas, incluyendo información anónima, sobre hechos que la ley considera como delitos en materia de corrupción;
+
+XXVI. Investigar hechos constitutivos de delitos en materia de corrupción;
+
+XXVII. Ejercitar la acción penal y solicitar audiencia de control de detención, formulación de imputación y, en su caso formular la acusación correspondiente ante la autoridad judicial por delitos en materia de corrupción;
+
+XXVIII. Coordinar y supervisar la actuación de la Policía Investigadora Ministerial de su adscripción, en los términos que establezcan las disposiciones de la materia; y
+
+XXIX. Las demás que le confieran otras disposiciones aplicables.
 
 ###### ARTÍCULO 31.
 
@@ -1107,6 +1273,16 @@ Cuando la víctima u ofendido o sus asesores jurídicos no comparezcan a la audi
 
 La autoridad jurisdiccional podrá dejar sin efecto la decisión del ministerio público y ordenarle reabrir la investigación o continuar con la persecución penal, sólo cuando considere que no se está en presencia de los supuestos que la ley establece para disponer alguna de las decisiones mencionadas.
 
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+ARTÍCULO 46 BIS. Órgano Interno de Control
+
+Al frente del Órgano Interno de Control habrá un titular denominado Contralor Interno, quién será designado por las dos terceras partes de los integrantes del Congreso del Estado, conforme a lo establecido en el artículo 61 fracción XLIV de la Constitución de Guerrero.
+
+El Contralor Interno impondrá sanciones administrativas a los servidores públicos de la Fiscalía General, y tendrá las atribuciones previstas en esta Ley, su Reglamento, la Ley de Responsabilidades Administrativas para el Estado de Guerrero y demás disposiciones aplicables.
+
+Las faltas administrativas en que incurran los servidores públicos de la Fiscalía General que no encuadren en el régimen especial previsto en esta Ley, serán del conocimiento del Órgano Interno de Control en los términos de la Ley de Responsabilidades Administrativas para el Estado de Guerrero.
+
 ###### ARTÍCULO 47.
 
 La responsabilidad de los servidores públicos
@@ -1247,7 +1423,9 @@ La excusa o recusación a que se refiere el presente artículo deberán de ser c
 
 Visitaduría
 
-Será un órgano de evaluación técnico-jurídica, supervisión, inspección, fiscalización y control de los agentes del Ministerio Público, de los agentes de la Policía, de los oficiales ministeriales, de los peritos y de los demás servidores públicos de la Fiscalía General.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
+
+Será un órgano de evaluación técnico-jurídica, de supervisión, inspección y control de los Agentes del Ministerio Público, de la Policía Investigadora Ministerial y de los Peritos, además tendrá atribuciones para investigar los hechos que la ley considera como delitos en materia de corrupción en que incurran los servidores públicos de la Fiscalía General, sin perjuicio de las facultades que correspondan al órgano interno de control en la Fiscalía General, conforme a esta ley y demás disposiciones aplicables.
 
 La Visitaduría tendrá libre acceso a los registros, expedientes, documentos e información que se encuentren bajo la autoridad de los agentes del Ministerio Público, agentes de la Policía, oficiales ministeriales, peritos o demás auxiliares del Ministerio Público a quienes se realiza una visita, así como a las instalaciones correspondientes y la documentación, el equipo y los elementos que ahí se encuentren, de conformidad con lo dispuesto con las disposiciones legales aplicables.
 
@@ -1264,6 +1442,18 @@ IV. Ordenar el seguimiento a las recomendaciones hechas a la actuación minister
 V. Establecer los criterios de supervisión y determinación de conductas irregulares en que incurra el personal ministerial, policial, pericial y administrativo, de conformidad con los Acuerdos que para tales efectos emita el Fiscal General y conforme a las disposiciones legales aplicables, y
 
 VI. Disponer que se proporcione el apoyo técnico especializado, en el ámbito de su competencia a Unidades del Fiscal General que carezcan del personal especializado.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+Los delitos en que incurran los servidores públicos de la Visitaduría incluyendo a su titular serán investigados y perseguidos por el Fiscal General o por el servidor público en quien se delegue la facultad.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+Las faltas administrativas que cometan los servidores públicos de la Visitaduría incluyendo a su titular, en términos de lo previsto en el régimen especial de la materia previsto en esta Ley, con excepción de las que se prevén en la Ley de Responsabilidades Administrativas para el Estado de Guerrero que corresponden al Órgano Interno de Control, serán investigadas y sustanciadas por el Fiscal General o por el servidor público en quien se delegue la facultad, quien podrá imponer las sanciones que correspondan.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+Cuando la Visitaduría tenga conocimiento de hechos que pudieran ser constitutivos de una falta administrativa, sin perjuicio de sus facultades establecidas en esta Ley, deberá presentar la denuncia correspondiente como parte ante el Órgano Interno de Control para que éste proceda en los términos de la Ley de Responsabilidades Administrativas para el Estado de Guerrero.
 
 ###### ARTÍCULO 53.
 
@@ -1504,3 +1694,19 @@ Remítase el presente Decreto al Licenciado Héctor Antonio Astudillo Flores, Go
 ###### ARTÍCULO CUARTO.
 
 Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 18 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 471 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUERRERO, NÚMERO 500".]
+
+Primero. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, el cual entrará en vigor a partir del primero de enero de dos mil dieciocho.
+
+Segundo. El Fiscal General del Estado dentro del término de 90 días posteriores a la entrada en vigor del presente Decreto, remitirá al titular del Poder Ejecutivo del Estado, las ampliaciones presupuestales que se requieran para la operación óptima de la Fiscalía Especializada en Combate a la Corrupción.
+
+Tercero. Dentro del plazo de 180 días posteriores a la entrada en vigor del presente Decreto, el Fiscal General remitirá al Congreso del Estado, la propuesta del profesionista que fungirá como titular de la Fiscalía Especializada en Combate a la Corrupción, para los efectos del numeral 10 del artículo 142 de la Constitución de Guerrero.
+
+Cuarto. El Congreso del Estado, deberá aprobar el presupuesto de la Fiscalía Especializada en Combate a la Corrupción considerando los capítulos de servicios personales, materiales y suministros, así como de servicios generales necesarios para cumplir con sus funciones.
+
+Quinto. La Fiscalía General dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, deberá emitir un nuevo reglamento en apego a las nuevas disposiciones de esta Ley.
+
+Sexto. Se derogan todas las disposiciones que se opongan al presente Decreto, a partir de su entrada en vigor
