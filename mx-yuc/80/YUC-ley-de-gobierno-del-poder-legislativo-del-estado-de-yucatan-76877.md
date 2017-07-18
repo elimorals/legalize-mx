@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-gobierno-del-poder-legislativo-del-estado-de-yucatan-768
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-04"
-last_updated: "2015-10-09"
+last_updated: "2017-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE JULIO DE 2017.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el lunes 4 de octubre de 2010.
 
@@ -31,7 +31,9 @@ PODER LEGISLATIVO
 
 EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN LOS ARTÍCULOS 30 FRACCIÓN V Y 108 DE LA CONSTITUCIÓN POLÍTICA; 97, 150 Y 156 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO Y 3 DE LA LEY DEL DIARIO OFICIAL DEL GOBIERNO, TODAS DEL ESTADO, EMITE REFORMAS A LA CONSTITUCIÓN POLÍTICA Y LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, AMBAS DEL ESTADO DE YUCATÁN, EN BASE A LA SIGUIENTE,
 
-E X P O S I C I Ó N D E M O T I V O S:.
+E X P O S I C I Ó N D E M O T I V O S:
+
+[...]
 
 Por todo lo antes expuesto y con fundamento en los artículos 29 y 30 fracción V de la Constitución Política, y 64 fracción I; 97, 100 y 101 de la Ley Orgánica del Poder Legislativo, ambas del Estado de Yucatán, sometemos a consideración del Pleno del H. Congreso del Estado de Yucatán, el siguiente proyecto de:
 
@@ -531,7 +533,9 @@ La Diputación Permanente celebrará sesiones cuando así lo acuerde, para lo cu
 
 Al inicio del siguiente período ordinario de sesiones el Presidente de la Diputación Permanente rendirá un informe de labores a la Mesa Directiva, sobre los asuntos tratados durante el período de receso, el trámite que se les dio y el estado en que se encuentran.
 
-### CAPÍTULO I. De la Junta de Gobierno y Coordinación Política
+### CAPITULO IX. De la Designación de los Titulares de los Órganos de Control Interno de los Organismos Constitucionales Autónomos
+
+> <small>(ADICIONADO, D.O. 18 DE JULIO DE 2017)</small>
 
 ###### Artículo 41.
 
@@ -905,7 +909,7 @@ V.- Contar con estudios de Maestría, preferentemente.
 
 Los dictámenes aprobados en las Comisiones y de los que no llegue a conocer el Pleno de la Legislatura saliente, quedarán a disposición del Pleno de la Legislatura entrante, el cual podrá, en caso de ser necesario, enviarlo de nueva cuenta a la Comisión competente para los efectos legales procedentes.
 
-### CAPÍTULO II. De los Órganos Técnicos y Administrativos
+### CAPÍTULO I. De la Junta de Gobierno y Coordinación Política
 
 ###### Artículo 53.
 
@@ -929,11 +933,71 @@ Sólo existirá una Fracción Legislativa por cada partido político que esté r
 
 Los diputados que dejen de pertenecer a una Fracción o Representación Legislativa, serán considerados como diputados sin partido, y tendrán derecho a la subvención que acuerde la Junta de Gobierno y Coordinación Política.
 
-### CAPÍTULO III. De las Áreas Administrativas
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 18 DE JULIO DE 2017)</small>
+
+### CAPÍTULO II. De los Órganos Técnicos y Administrativos
+
+###### Artículo 56 Bis.
+
+La designación de los titulares de los órganos de control interno se llevará a cabo de conformidad con el procedimiento siguiente:
+
+I.- La Comisión de Vigilancia de la Cuenta Pública y Transparencia expedirá la convocatoria pública para la designación del titular del órgano de control interno correspondiente, la cual deberá ser aprobada por el Pleno y publicarse en el Diario Oficial del Gobierno del Estado, en la Gaceta Legislativa del Congreso, en el sitio web del Congreso y, preferentemente, en periódicos de circulación estatal.
+
+La convocatoria deberá publicarse a más tardar treinta días antes de la fecha en que debe realizarse la designación.
+
+II.- Las propuestas deberán ser presentadas a la Secretaria General del Poder Legislativo;
+
+III.- Las solicitudes de los aspirantes deberán ir acompañadas de su declaración de intereses, de conformidad con las disposiciones aplicables, así como cumplir los requisitos que establezcan las leyes de dichos organismos autónomos, por duplicado;
+
+IV.- El secretario general del Poder Legislativo turnará los expedientes a la Comisión de Vigilancia de la Cuenta Pública y Transparencia, que se encargará de realizar la revisión correspondiente a efecto de determinar aquellos aspirantes que acreditan el cumplimiento de los requisitos exigidos para el cargo por la Constitución y las leyes correspondientes; si de la verificación realizada se advierte que se omitió la entrega de algún documento o los presentados no son idóneos para acreditar el cumplimiento de los requisitos, se notificará dentro de un plazo de veinticuatro horas, para que dentro de las cuarenta y ocho horas siguientes a la notificación, presente la documentación procedente;
+
+V.- En caso de que la Comisión de Vigilancia de la Cuenta Pública y Transparencia determine que alguno de los aspirantes no cumple con alguno de los requisitos, procederá a desechar la solicitud;
+
+VI.- La Comisión de Vigilancia de la Cuenta Pública y Transparencia elaborará un acuerdo que deberá publicarse en el Diario Oficial del Gobierno del Estado, en la Gaceta Legislativa del Congreso y en el sitio web del Congreso; y contendrá lo siguiente:
+
+a) El listado con los aspirantes que hayan cumplido con los requisitos exigidos por la Constitución y las leyes correspondientes;
+
+b) El plazo con que cuentan los aspirantes, cuya solicitud haya sido desechada, para recoger su documentación y la fecha límite para ello, y
+
+c) El día y hora en donde tendrán verificativo las comparecencias ante la Comisión de Vigilancia de la Cuenta Pública y Transparencia, de los aspirantes que hayan cumplido con los requisitos exigidos, a efecto de velar por su garantía de audiencia y conocer su interés y razones respecto a su posible designación en el cargo.
+
+VII.- Una vez que se hayan desahogado las comparecencias, la Comisión de Vigilancia de la Cuenta Pública y Transparencia sesionará con la finalidad de integrar y revisar los expedientes y entrevistas para la formulación del dictamen que contenga la lista de candidatos aptos para ser votados por el Congreso, y que se hará llegar a la Junta de Gobierno y Coordinación Política;
+
+VIII.- Los (sic) fracciones legislativas, a través de la Junta de Gobierno y Coordinación Política determinarán, por el más amplio consenso posible y atendiendo a las consideraciones y recomendaciones que establezca el dictamen de la Comisión de Vigilancia de la Cuenta Pública y Transparencia, la propuesta del nombre del candidato a titular del órgano de control interno que corresponda;
+
+IX.- En la sesión correspondiente del Congreso, se dará a conocer al Pleno la propuesta a que se refiere la fracción anterior, y se procederá a su discusión y votación en los términos que establezca esta ley y demás normativa aplicable, y
+
+X.- Aprobado el dictamen, cuando así lo acuerde el Presidente, el candidato cuyo nombramiento se apruebe en los términos de este capítulo, rendirá el compromiso constitucional ante el Pleno del Congreso en la misma sesión.
+
+El titular del órgano de control interno podrá ser designado por un periodo inmediato posterior al que se haya desempeñado, previa postulación y cumpliendo los requisitos previstos en la ley aplicable, con el voto de las dos terceras partes de los miembros del Congreso.
+
+Para efecto de lo establecido en el párrafo anterior, la Comisión de Vigilancia de la Cuenta Pública y Transparencia, propondrá al Congreso, a más tardar 120 días naturales anteriores a la conclusión del cargo, el acuerdo que establezca los criterios y metodología para la evaluación del desempeño.
+
+> <small>(ADICIONADO, D.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 56 Ter.
+
+La convocatoria a que se refiere el artículo anterior será abierta para todas las personas, contendrá las etapas completas para el procedimiento, las fechas límite y los plazos improrrogables, así como los requisitos legales que deben satisfacer los aspirantes y los documentos que deben presentar para acreditarlos, el órgano que se encargará del procedimiento y los criterios con que se evaluará a los aspirantes.
+
+> <small>(ADICIONADO, D.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 56 Quater.
+
+El Congreso a través de la instancia que determine la ley, podrá investigar, sustanciar, y resolver sobre las faltas administrativas no graves de los titulares de los órganos de control interno de los organismos con autonomía reconocida en la Constitución Política del Estado de Yucatán y que ejerzan recursos del presupuesto de egresos del estado.
+
+Asimismo, será competente para investigar y sustanciar las faltas administrativas graves cuya sanción corresponde al Tribunal de Justicia Administrativa del Estado de Yucatán, de conformidad con lo dispuesto por la Ley General de Responsabilidades Administrativas y demás normativa aplicable.
+
+En el ejercicio de sus funciones, dicha instancia deberá garantizar la separación entre las áreas encargadas de la investigación, sustanciación y resolución de los procedimientos, en los términos previstos por la Ley General de Responsabilidades Administrativas.
+
+> <small>(ADICIONADO, D.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 56 Quinquies.
+
+Cualquier persona, cuando presuma que los titulares de los órganos de control interno de cualquiera de los organismos constitucionales autónomos, haya incurrido en los supuestos previstos en el Título décimo de la Constitución Política del Estado de Yucatán, podrá presentar denuncias ante las autoridades correspondientes, acompañándola de los documentos y evidencias en las cuales se sustente.
 
 ## TÍTULO TERCERO. GOBIERNO Y ADMINISTRACIÓN DEL PODER LEGISLATIVO
 
-### CAPÍTULO ÚNICO. Del Servicio Profesional Legislativo
+### CAPÍTULO III. De las Áreas Administrativas
 
 ###### Artículo 57.
 
@@ -1037,7 +1101,7 @@ VI.- Proveer a la Junta de los asuntos, estudios, análisis y proyectos legislat
 
 VII.- Las demás que deriven de esta Ley, reglamento o que le fueren conferidas por la propia Junta.
 
-### CAPÍTULO PRIMERO. De la sustanciación del trámite para suspender ayuntamientos, declarar su desaparición, o suspender o revocar el mandato de alguno de sus miembros
+### CAPÍTULO ÚNICO. Del Servicio Profesional Legislativo
 
 ###### Artículo 65.
 
@@ -1199,7 +1263,7 @@ La Gaceta Legislativa es el medio de difusión, que se encarga de dar a conocer 
 
 #### Sección Única. De la Comunicación Social
 
-### CAPÍTULO SEGUNDO. De la Responsabilidad de los Servidores Públicos
+### CAPÍTULO PRIMERO. De la sustanciación del trámite para suspender ayuntamientos, declarar su desaparición, o suspender o revocar el mandato de alguno de sus miembros
 
 ###### Artículo 76.
 
@@ -1254,6 +1318,8 @@ La conducción de estas actividades, estará a cargo de la Unidad de Comunicaci�
 Las tareas de difusión serán objetivas e imparciales.
 
 ## TÍTULO CUARTO. Del Personal Técnico y Administrativo del Poder Legislativo
+
+### CAPÍTULO SEGUNDO. De la Responsabilidad de los Servidores Públicos
 
 ###### Artículo 81.
 
@@ -1428,3 +1494,19 @@ D.O. 9 DE OCTUBRE DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 18 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 509/2017 POR EL QUE SE MODIFICAN LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE YUCATÁN, LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN, LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE YUCATÁN, LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN Y LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE YUCATÁN".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el 19 de julio de 2017, cuando lo haga la Ley General de Responsabilidades Administrativas, en términos del Decreto 380/2016 por el que se modifica la Constitución Política del Estado de Yucatán, en materia de anticorrupción y transparencia.
+
+Segundo. Nombramientos
+
+El Congreso deberá expedir la convocatoria para la designación de los titulares de los órganos de control interno de la Comisión de Derechos Humanos del Estado de Yucatán y del Instituto Estatal de Transparencia, Acceso a la Información y Protección de Datos Personales dentro de los noventa días naturales contados a partir de la entrada en vigor de este decreto.
+
+Tercero. Titular del Órgano de Control Interno del Instituto
+
+El titular del Órgano de Control Interno del Instituto Electoral y de Participación Ciudadana que se encuentre en funciones a la entrada en vigor de este decreto, continuará con el cargo durante el período para el que fue electo.
