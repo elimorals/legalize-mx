@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-consejo-academico-del-instituto-57132"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-09-18"
-last_updated: "2010-03-26"
+last_updated: "2017-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57132&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,15 +23,17 @@ state: "GUA"
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR PARA EL CONSEJO ACADÉMICO DEL INSTITUTO DE FORMACIÓN EN SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 18 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-REGLAMENTO INTERIOR DEL CONSEJO ACADEMICO DEL INSTITUTO ESTATAL DE CIENCIAS PENALES DEL ESTADO DE GUANAJUATO
+REGLAMENTO INTERIOR DEL CONSEJO ACADÉMICO DEL INSTITUTO ESTATAL DE CIENCIAS PENALES DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MARZO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 18 de septiembre de 2007.
 
 Juan Manuel Oliva Ramírez, Gobernador Constitucional del Estado Libre y Soberano de Guanajuato, en ejercicio de las facultades que me confieren los artículos 77 fracciones II y III y 79 de la Constitución Política para el Estado de Guanajuato, así como de conformidad con lo dispuesto por los artículos 2o., 3o., 6o. y 9o. de la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato, y en cumplimiento del Artículo Quinto Transitorio del Decreto Legislativo número 70 que reforma y adiciona la Ley de Seguridad Pública del Estado de Guanajuato.
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en las disposiciones legales previamente señaladas, he tenido a bien expedir el siguiente:
 
@@ -203,7 +205,7 @@ VII. Colaborar con el Presidente del Consejo Académico en el buen desarrollo de
 
 VIII. Numerar por orden de presentación, las solicitudes de uso de la palabra y los asuntos que se sometan a consideración del Consejo Académico;
 
-IX. Cumplir los encargos o requerimientos que el Consejo Académico acuerde, de conformidad con lo dispuesto en cada sesión; y (sic)
+IX. Cumplir los encargos o requerimientos que el Consejo Académico acuerde, de conformidad con lo dispuesto en cada sesión; y
 
 > <small>(REFORMADA, P.O. 26 DE MARZO DE 2010)</small>
 
@@ -347,8 +349,24 @@ EL SECRETARIO DE SEGURIDAD PÚBLICA
 
 BALTAZAR VILCHES HINOJOSA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.]</small>
 
 P.O. 26 DE MARZO DE 2010.
 
 Artículo Único. El presente Decreto Gubernativo entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 18 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 192, MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO INTERIOR PARA EL CONSEJO ACADÉMICO DEL INSTITUTO DE FORMACIÓN EN SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del Reglamento vigente
+
+Artículo Segundo. Se abroga el Decreto Gubernativo número 43, que contiene el Reglamento Interior del Consejo Académico del Instituto Estatal de Ciencias Penales, publicado en el Periódico Oficial del Gobierno del Estado número 150, Segunda Parte, del 18 de septiembre de 2007.
+
+Referencias al Consejo Académico contenidas en otros instrumentos jurídicos
+
+Artículo Tercero. Para los efectos legales correspondientes, las referencias contenidas en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto Gubernativo hacia el Consejo Académico del Instituto Estatal de Ciencias Penales, se tienen efectuadas al Consejo Académico del Instituto de Formación en Seguridad Pública del Estado a que alude el presente Decreto Gubernativo.
