@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2017-06-02"
+last_updated: "2017-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2017.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -651,7 +651,9 @@ El Consejero Presidente y los consejeros electorales percibirán una remuneraci�
 
 No podrán ser designados como Consejero Presidente ni como consejeros electorales del Instituto Electoral, quienes hayan ocupado cargos públicos de elección popular o dirigencia de algún partido político, de conformidad a lo establecido en la Ley General.
 
-El Consejero Presidente y los consejeros electorales no podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, de conformidad a lo establecido en la Ley General;
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
+El Consejero Presidente, los consejeros electorales y el Secretario Ejecutivo del Consejo General, no podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años siguientes a la fecha de conclusión de su encargo.
 
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
 
@@ -1069,9 +1071,9 @@ V. No ser Presidente o Consejero ciudadano de la Comisión Estatal de Derechos H
 
 VI. No estar en servicio activo en el Ejército Nacional, ni tener mando en la policía o en cuerpo de seguridad pública en el distrito en que se pretenda su elección, cuando menos sesenta días antes de ella;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-VII. No ser Secretario General de Gobierno o quien haga sus veces, Secretario del Despacho del Poder Ejecutivo, Fiscal General, Fiscal Central, Fiscal Especial de Delitos Electorales, Fiscal Especial en Combate a la Corrupción, Procurador Social del Estado, Magistrado del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo, integrante del Consejo de la Judicatura o Magistrado del Tribunal de Arbitraje y Escalafón. Los servidores públicos comprendidos en esta fracción podrán ser electos siempre que, al efectuarse la elección, tengan cuando menos noventa días de estar separados de sus cargos;
+VII. No ser Secretario General de Gobierno o quien haga sus veces, Secretario del Despacho del Poder Ejecutivo, Fiscal General, Fiscal Central, Fiscal Especializado de Delitos Electorales, Fiscal Especializado en Combate a la Corrupción, Procurador Social del Estado, Magistrado del Supremo Tribunal de Justicia o integrante del Consejo de la Judicatura, Magistrado del Tribunal de Justicia Administrativa o Magistrado del Tribunal de Arbitraje y Escalafón. Los servidores públicos comprendidos en esta fracción podrán ser electos siempre que, al efectuarse la elección, tengan cuando menos noventa días de estar separados de sus cargos;
 
 > <small>(REFORMADA, P.O. 13 DE ENERO DE 2007)</small>
 
@@ -1251,13 +1253,17 @@ Las leyes que expida el Congreso, con excepción de las de carácter contributiv
 
 ### CAPITULO III. De las facultades del Congreso del Estado
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### Art. 35.
 
-Son Facultades del Congreso:
+Son Facultades soberanas del Congreso:
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 1994)</small>
 
 I. Legislar en todas las ramas del orden interior del Estado, expedir leyes y ejecutar actos sobre materias que le son propias, salvo aquellas concedidas al Congreso de la Unión conforme al Pacto Federal en la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 1994)</small>
 
 II. Facultar al Ejecutivo con las limitaciones que crea necesarias, para que por sí o por apoderado especial, represente la Entidad, en aquellos casos en que la ley lo requiera. Autorizar los convenios que celebre el Ejecutivo, cuando su vigencia trascienda al término del ejercicio para el que fue electo el Gobernador del Estado;
 
@@ -1265,9 +1271,9 @@ II. Facultar al Ejecutivo con las limitaciones que crea necesarias, para que por
 
 III. Fijar la división territorial, política y administrativa del Estado, así como la denominación de los municipios y localidades que lo compongan;
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-IV. Determinar los gastos del Estado para cada ejercicio fiscal conforme a los lineamientos y principios que en materia de disciplina financiera, equilibrio, sostenibilidad financiera y responsabilidad hacendaria establezca la legislación en materia de disciplina financiera de las entidades federativas y los municipios así como la normatividad aplicable; establecer las contribuciones del Estado y municipios para cubrirlos; revisar, examinar y fiscalizar las cuentas públicas correspondientes, en los términos dispuestos por esta Constitución, mediante el análisis y estudio que se haga de la revisión del gasto, ejercicio de la deuda pública y de las cuentas públicas apoyándose para ello en la Auditoría Superior del Estado, sin perjuicio de su autonomía técnica y de gestión. El presupuesto anual deberá incluir las erogaciones plurianuales destinadas al cumplimiento de las obligaciones asumidas por el Estado o sus entes públicos, aprobadas por el Congreso del Estado y para el caso de omisión, el Ejecutivo del Estado realizará las adecuaciones presupuestarias necesarias para su cumplimiento, en los términos y condiciones previstos en el decreto que autorizó la contratación de las obligaciones;
+IV. Determinar los gastos del Estado para cada ejercicio fiscal conforme a los lineamientos y principios que en materia de disciplina financiera, equilibrio, sostenibilidad financiera y responsabilidad hacendaria que establezca la legislación en materia de disciplina financiera de las entidades federativas y los municipios así como la normatividad aplicable; establecer las contribuciones del Estado y municipios para cubrirlos. El presupuesto anual deberá incluir las erogaciones plurianuales destinadas al cumplimiento de las obligaciones asumidas por el Estado o sus entes públicos, aprobadas por el Congreso del Estado y para el caso de omisión, el Ejecutivo del Estado realizará las adecuaciones presupuestarias necesarias para su cumplimiento, en los términos y condiciones previstos en el decreto que autorizó la contratación de las obligaciones;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
@@ -1285,9 +1291,9 @@ VII. Solicitar al Instituto Electoral del Estado someta a plebiscito, en los té
 
 VIII. Solicitar al Instituto Electoral del Estado, someta a referéndum derogatorio, en los términos que disponga la ley, los reglamentos y decretos emanados del Gobernador que sean considerados como trascendentes para la vida pública o el interés social del Estado;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-IX. Elegir a los Magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Administrativo, así como a los titulares del Consejo de la Judicatura, en la forma y términos que dispongan esta Constitución y las leyes de la materia;
+IX. Elegir en libertad soberana a los Magistrados del Supremo Tribunal de Justicia y a los titulares del Consejo de la Judicatura, así como a los Magistrados del Tribunal de Justicia Administrativa, en la forma y términos que dispongan esta Constitución y las leyes de la materia;
 
 > <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
@@ -1323,9 +1329,9 @@ XVI. Conceder o negar licencias a los diputados y al Gobernador del Estado para 
 
 XVII. Conceder o negar las licencias para ausentarse de sus cargos que, por más de dos meses, soliciten los magistrados del Poder Judicial, el Presidente y comisionados del Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco, así como el Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos, en los términos que establezca la ley;
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-XVIII. Ratificar al Fiscal General en los términos de esta Constitución; y al Contralor del Estado por el voto de cuando menos cincuenta por ciento más uno de los diputados integrantes del Congreso;
+XVIII. Elegir al Fiscal General en los términos de esta Constitución. Ratificar al Contralor del Estado por el voto de cuando menos cincuenta por ciento más uno de los diputados integrantes de la Legislatura;
 
 > <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1351,39 +1357,27 @@ XXIII. Conceder amnistía;
 
 XXIV. Elaborar el proyecto de presupuesto del Poder Legislativo, aprobarlo y ejercerlo con autonomía y de conformidad con la ley; nombrar y remover libremente a los servidores públicos de la Secretaría del Congreso;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-XXV. Verificar y realizar la fiscalización superior del desempeño y el cumplimiento de los objetivos contenidos en los planes y programas de los órganos, dependencias y entidades públicas;
-
-Vigilar el desempeño de las funciones de la Auditoría Superior del Estado, en los términos que disponga la ley.
-
-Serán principios rectores de la fiscalización superior del Congreso del Estado la legalidad, certeza, transparencia, racionalidad, austeridad, eficacia, eficiencia, honestidad, disciplina presupuestal, responsabilidad, objetividad, imparcialidad, proporcionalidad, posterioridad, anualidad, imparcialidad y confiabilidad y la orientación estratégica de los recursos públicos basada en la adecuada planeación para el desarrollo.
-
-La fiscalización superior que realice el Congreso del Estado se sujetará a las siguientes bases:
-
-a) Procurará la orientación estratégica de los presupuestos y recursos públicos del Estado de Jalisco para financiar el desarrollo socioeconómico, cultural y educativo;
-
-b) El Poder Legislativo a través de su asamblea y sus comisiones legislativas realizarán un riguroso ejercicio de verificación y fiscalización a los órganos, dependencias y entidades públicas, mediante el análisis de los dictámenes de cuenta pública, verificación de avance programático, los informes solicitados, la glosa del informe del Poder Ejecutivo y las comparecencias de los servidores públicos del Estado de Jalisco y sus municipios;
-
-c) Si del examen que el Congreso del Estado, en asamblea o por alguna de sus comisiones legislativas competentes de conformidad con su Ley Orgánica, realice con motivo de la fiscalización aparecieran supuestas irregularidades presupuestales o el probable incumplimiento de los programas o planes de los órganos, dependencias y entidades públicas, se remitirán al órgano competente las recomendaciones de mejora y para que se inicie, en su caso, el procedimiento de responsabilidad de acuerdo con la ley;
-
-d) El proceso de fiscalización implica que se tengan que analizar los dictámenes de revisión de gasto y cuenta pública definitivos de la Auditoría Superior del Estado, de conformidad con lo preceptuado en el artículo 35-Bis de esta Constitución y las disposiciones federales que expida el Congreso de la Unión, así como de los ayuntamientos, órganos y fideicomisos municipales, y
-
-e) Las cuentas públicas definitivas de los poderes Ejecutivo y Judicial, de los organismos públicos estatales autónomos, organismos públicos descentralizados y fideicomisos estatales deben ser presentadas por la Auditoría Superior del Estado al Congreso a más tardar el último día de marzo del año siguiente al de su ejercicio, para el ejercicio de sus atribuciones de auditoría pública;
-
-Para la aprobación de las cuentas públicas de los ayuntamientos, organismos públicos descentralizados y fideicomisos de los municipios, deberá estarse a lo que dispongan esta Constitución y las leyes en la materia, respecto de la presentación de las propuestas de dictamen de la Auditoría Superior del Estado al Congreso del Estado, para su debida aprobación en los términos de la ley.
+XXV. Revisar, examinar y fiscalizar las cuentas públicas del Estado y los Municipios a través de la Auditoría Superior del Estado de Jalisco, con el objeto de evaluar los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados por los presupuestos respectivos y verificar el cumplimiento de los objetivos contenidos en los programas.
 
 Adicionalmente, el Congreso del Estado en materia de fiscalización tendrá las siguientes atribuciones:
 
-a) Expedir la ley que regule la organización de la Auditoría Superior del estado de Jalisco y las demás que normen la gestión, control y evaluación de los poderes del Estado y de los entes públicos estatales;
+a) Vigilar y evaluar el desempeño de la Auditoría Superior del Estado, en los términos que disponga la ley, y al efecto le podrá requerir que le informe sobre la evolución de sus trabajos de fiscalización;
 
-b) Nombrar, de conformidad con la ley, al Auditor Superior mediante el voto de cuando menos las dos terceras partes de los diputados integrantes de la Legislatura, así como removerlo con la misma mayoría calificada, previa garantía de audiencia de conformidad con la ley de la materia, y
+b) Expedir la ley que regule la organización de la Auditoría Superior del Estado y las demás que normen la gestión, control y evaluación de los poderes del Estado y de los entes públicos estatales; y
 
-c) Aprobar o devolver con observaciones, a la Auditoría Superior del estado de Jalisco, el proyecto de informe final de la revisión de las cuentas públicas de los sujetos fiscalizados.
+c) Elegir, de conformidad con la ley, al Auditor Superior y auditores especiales mediante el voto de cuando menos las dos terceras partes de los diputados integrantes de la Legislatura, así como removerlos con la misma mayoría calificada, previa garantía de audiencia de conformidad con la ley de la materia;
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 1994)</small>
 
 XXVI. Conceder dispensas de ley por causas justificadas, por motivos de conveniencia o utilidad pública, sin perjuicio de tercero;
 
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 1994)</small>
+
 XXVII. Otorgar recompensas a los que hayan prestado servicios de importancia a la humanidad o al Estado, siempre que, al concederlas, no ocupen altos puestos gubernativos; conceder pensiones a los deudos de los que hayan fallecido siendo merecedores de aquellas recompensas;
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 1994)</small>
 
 XXVIII. Declarar beneméritos del Estado de Jalisco a sus benefactores y a los que se hayan distinguido por servicios eminentes prestados a la República y a la Entidad, cuando menos diez años después de su fallecimiento;
 
@@ -1417,85 +1411,73 @@ XXXIV. Presidir la junta preparatoria para instalar la nueva legislatura;
 
 XXXV. Solicitar a la Comisión Nacional de los Derechos Humanos que investigue hechos que constituyan violaciones graves de derechos humanos; y
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-XXXVI. Designar por el voto de cuando menos las dos terceras partes de los diputados integrantes del Congreso, al Fiscal Especial en materia de Delitos Electorales y al Fiscal Especial en Combate a la Corrupción, de entre la terna que envíe el Titular del Poder Ejecutivo, en los términos que establezca la ley.
+XXXVI. Elegir por el voto de cuando menos las dos terceras partes de los diputados integrantes de la Legislatura, al Fiscal Especializado en materia de Delitos Electorales y al Fiscal Especializado en Combate a la Corrupción, de entre la terna que envíe el Titular del Poder Ejecutivo, en los términos que establece esta Constitución y la Ley.
 
-> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### Art. 35 Bis.
 
-La revisión y auditoría pública de la cuenta pública y de los estados financieros de las entidades a las que se refiere el siguiente párrafo, es una facultad soberana, inalienable e imprescriptible del Congreso del Estado, el cual se apoya para tales efectos en la Auditoría Superior, que es un organismo técnico, profesional y especializado, de revisión y examen del Poder Legislativo, dotado con autonomía técnica y de gestión, con personalidad jurídica, patrimonio propio y capacidad de decisión, integrado por personal profesional, seleccionado por oposición, bajo el régimen de servicio profesional de carrera.
+La revisión, examen y fiscalización de la cuenta pública del Estado y los municipios es una facultad soberana, inalienable e imprescriptible del Congreso del Estado, lo cual realiza a través de la Auditoría Superior del Estado de Jalisco, cuya titularidad será ocupada por el Auditor Superior.
 
-La Auditoría Superior, en el ejercicio de sus atribuciones, puede decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la ley.
+La Auditoría Superior del Estado, es un organismo del Poder Legislativo con carácter técnico, profesional y especializado, de revisión y examen, dotado con autonomía técnica y de gestión, con personalidad jurídica, patrimonio propio y capacidad de decisión, integrado por personal profesional, seleccionado por oposición, bajo el régimen de servicio profesional de carrera, y que en el ejercicio de sus atribuciones, puede decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+Corresponde a la Auditoría Superior del Estado la fiscalización de las cuentas públicas, estados financieros y del destino y ejercicio de los recursos obtenidos mediante empréstitos u obligaciones de los órganos del poder público, los ayuntamientos, los organismos públicos autónomos, los organismos públicos descentralizados, la Universidad de Guadalajara, los fideicomisos y las empresas de participación pública estatal o municipal mayoritaria.
 
-Corresponde a la Auditoría Superior del estado de Jalisco la revisión de las cuentas públicas, estados financieros y el destino y ejercicio de los recursos obtenidos mediante empréstitos u obligaciones de:
+La Auditoría Superior del Estado fiscalizará los recursos públicos estatales que se destinen y se ejerzan por cualquier entidad, persona física o jurídica, pública o privada, y los transferidos a fideicomisos, fondos o mandatos, públicos y privados, o a cualquier otra figura jurídica.
 
-I. Los poderes Ejecutivo, Legislativo y Judicial;
+Si del examen que ésta realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley. En el caso de la revisión sobre el cumplimiento de los objetivos de los programas, la Auditoría Superior del Estado sólo podrá emitir las recomendaciones para la mejora en el desempeño de los mismos, en los términos de la ley.
 
-II. Los organismos públicos autónomos;
+Serán principios rectores de la fiscalización la legalidad, definitividad, imparcialidad, certeza, racionalidad, confiabilidad, independencia, transparencia, objetividad y profesionalismo.
 
-III. La Universidad de Guadalajara y los demás organismos públicos descentralizados, empresas de participación estatal mayoritaria y fideicomisos públicos del Poder Ejecutivo;
+La Auditoría Superior del Estado podrá iniciar el proceso de fiscalización a partir del primer día hábil del ejercicio fiscal siguiente, sin perjuicio de que las observaciones o recomendaciones que, en su caso realice, deberán referirse a la información definitiva presentada en la cuenta pública.
 
-IV. Los ayuntamientos, organismos públicos, descentralizados, empresas de participación municipal mayoritaria y fideicomisos públicos municipales.
+La cuenta pública del año anterior deberá ser enviada a la Legislatura del Estado, a más tardar el 30 de abril. Sólo se podrá ampliar el plazo de presentación cuando medie solicitud del Gobernador tratándose de la cuenta pública estatal o de los presidentes municipales para el caso de la respectiva cuenta pública municipal, suficientemente justificada a juicio del Congreso.
 
-(REPUBLICADO, P.O. 10 DE NOVIEMBRE DE 2016)
+La Auditoría Superior del Estado podrá auditar el ejercicio del año en curso por lo que corresponde a los trabajos de planeación de las auditorías.
 
-También será objeto de la revisión de la Auditoría Superior del estado de Jalisco, en los términos de la ley, cualquier persona o entidad pública o privada que reciba o maneje recursos públicos.
+La Auditoría Superior del Estado tendrá a su cargo:
 
-(REPUBLICADO, P.O. 10 DE NOVIEMBRE DE 2016)
+I. Auditar los ingresos, los egresos, el manejo, la custodia y la aplicación de fondos, recursos y deuda pública de los poderes Ejecutivo, Legislativo y Judicial, de los organismos públicos autónomos y de los municipios de la entidad, así como de los entes públicos de índole estatal y municipal e instituciones que administren fondos o valores públicos, incluyendo la aplicación de recursos de origen federal, cuando éstos formen parte de la respectiva cuenta pública, estatal, municipal y de los particulares. Lo anterior, en coordinación con la Auditoría Superior de la Federación tratándose de recursos de origen federal y cuando así proceda conforme a la ley, a través de los informes que se rendirán en los términos que establezcan las disposiciones legales estatales y federales según corresponda.
 
-Son principios rectores de la auditoría pública del gasto y las cuentas públicas la posterioridad, anualidad, definitividad, confiabilidad, legalidad, independencia, transparencia, objetividad, imparcialidad y profesionalismo.
+Los informes a que se refiere el párrafo precedente de esta fracción, en las situaciones excepcionales que determine la ley, podrán requerir a los sujetos auditados que procedan a la revisión de los conceptos que se estimen pertinentes y le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la ley, se podrá dar lugar al establecimiento de las responsabilidades que correspondan, de conformidad con la ley.
 
-(REPUBLICADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2016)
+Las observaciones y recomendaciones que, respectivamente, la Auditoría Superior del Estado emita, sólo podrán referirse al ejercicio de los recursos públicos de la cuenta pública en revisión que no se encuentren previamente aprobados. Sin perjuicio de lo anterior podrá solicitarse información de ejercicios anteriores exclusivamente cuando el programa, proyecto o erogación contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales.
 
-La Auditoría Superior del estado de Jalisco tendrá a su cargo:
+De igual manera, previa dictaminación de procedencia por el titular de la Auditoría Superior del Estado, ésta podrá revisar a las entidades fiscalizadas respecto al ejercicio fiscal en curso y ejercicios anteriores, derivado de denuncias presentadas, en los términos de la Constitución Federal y conforme a la Ley. Las entidades fiscalizadas proporcionarán la información que se solicite para la revisión, en los plazos y términos señalados por la ley y, en caso de incumplimiento, serán aplicables las sanciones previstas en la misma. La Auditoría Superior del Estado rendirá un informe específico al Congreso del Estado y, en su caso, promoverá las acciones que correspondan ante el Tribunal de Justicia Administrativa, la Fiscalía Especializada en Combate a la Corrupción o las autoridades competentes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+La Auditoría Superior del Estado y los órganos internos de control propios de los poderes del Estado, de los municipios, de los organismos públicos estatales autónomos, organismos públicos descentralizados y fideicomisos estatales o municipales, establecerán los procedimientos necesarios que les permitan el mejor cumplimiento de sus respectivas atribuciones;
 
-I. Auditar en forma posterior los ingresos, los egresos, y la deuda pública del Gobierno del Estado y los Municipios; las garantías que, en su caso, otorgue el Gobierno del Estado respecto a los empréstitos contraídos por los Municipios y sus organismos descentralizados cuando no se comprometan recursos del orden federal; el manejo, la custodia y la aplicación de fondos y recursos de los poderes Ejecutivo, Legislativo y Judicial, de los organismos públicos autónomos y de los municipios de la entidad, así como de los entes públicos de índole estatal y municipal e instituciones que administren fondos o valores públicos cuando éstos formen parte de la respectiva cuenta pública, estatal, municipal y de los particulares, a través de los informes que se rendirán en los términos que establezcan las leyes estatales y federales;
+II. La Auditoría Superior del Estado deberá entregar al Congreso del Estado, en el plazo que fije la ley, los informes generales del resultado de la fiscalización superior de la cuenta pública, los cuales serán sometidos a la consideración de la Asamblea para su revisión; de igual forma deberá entregar al Congreso del Estado los informes individuales de auditoría correspondiente a cada entidad fiscalizada, en los plazos previstos por la ley. Los informes generales y los informes individuales serán de carácter público y tendrán el contenido que determine la ley. Los informes individuales incluirán como mínimo el dictamen de su revisión, un apartado específico con las observaciones de la Auditoría Superior del Estado, así como las justificaciones y aclaraciones que, en su caso, las entidades fiscalizadas hayan presentado sobre las mismas.
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+La ley establecerá las bases y procedimientos para que las entidades fiscalizadas conozcan con oportunidad los resultados de revisión y puedan presentar justificaciones o aclaraciones a efectos de ser consideradas y valoradas en los respectivos informes generales e individuales de auditoría.
 
-Sin menoscabo al principio de anualidad, los informes a que se refiere el párrafo precedente de esta fracción, en las situaciones excepcionales que determine la ley, podrán requerir a los sujetos auditados que procedan a la revisión de los conceptos que se estimen pertinentes y le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la ley, se podrá dar lugar al establecimiento de las responsabilidades que correspondan, de conformidad con la ley.
+El objeto de revisión de los informes generales, individuales y específicos por parte del Congreso, comprende un análisis exhaustivo de los mismos a efecto de comprobar el ejercicio estricto y adecuado de las atribuciones de la Auditoría Superior del Estado en el cumplimiento riguroso de los procedimientos de fiscalización superior y los relacionados con las responsabilidades administrativas que esta entidad tiene a su cargo, garantizando la autonomía técnica de la Auditoría Superior del Estado.
 
-(REPUBLICADO, P.O. 10 DE NOVIEMBRE DE 2016)
+La Auditoría Superior del Estado deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los informes a que se refiere este artículo y los ordenamientos en la materia; la ley establecerá las sanciones aplicables a quienes infrinjan esta disposición;
 
-La Auditoría Superior del estado de Jalisco y los órganos de control propios de los poderes del Estado, de los municipios, de los organismos públicos estatales autónomos, organismos públicos descentralizados y fideicomisos estatales o municipales, establecerán los procedimientos necesarios que les permitan el mejor cumplimiento de sus respectivas atribuciones;
+III. Investigar los actos y omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos de cualquier tipo, y efectuar visitas domiciliarias para exigir la exhibición de los libros y documentos indispensables para la realización de sus investigaciones, sujetándose a las leyes respectivas y a las formalidades para cateos. Verificar y realizar la fiscalización superior del desempeño y el cumplimiento de los objetivos contenidos en los planes y programas de los órganos, dependencias y entidades públicas, sin perjuicio de los sistemas de supervisión del desempeño que implementen los entes públicos; solo para efectos de recomendar mejoras en el desempeño;
 
-II. Presentar al Congreso del Estado, en el plazo previsto por la ley, a través de la comisión competente, quien lo turnará al pleno del Congreso del Estado para el cumplimiento de sus funciones de verificación y auditoría pública para su aprobación o devolución con observaciones, el dictamen definitivo sobre el resultado de la revisión de las cuentas públicas de los poderes Ejecutivo, Legislativo y Judicial de los entes públicos autónomos, organismos descentralizados y fideicomisos estatales, así como de cualquier persona o entidad que reciba recursos públicos, incluyendo la aplicación de recursos de origen federal, cuando éstos formen parte de la respectiva cuenta pública, estatal y de los particulares, en los términos y plazos que establezcan las leyes en la materia. El resultado incluirá el informe de resultados de la cuenta pública, el dictamen de su revisión y el apartado correspondiente a la auditoría pública y verificación, que comprenderá los comentarios y observaciones de los auditados, mismos que tendrá carácter público. En caso de que el Congreso del Estado devuelva el informe final de la Auditoría Superior del Estado, lo acompañará con las observaciones, con el fin de que la Auditoría Superior del estado de Jalisco las solvente en un término no mayor de noventa días, para su aprobación o rechazo por el pleno del Congreso, sin que éste pueda modificarlos.
+IV. La revisión del gasto y de la cuenta pública que realice la Auditoría Superior del Estado se sujetará a las siguientes bases:
 
-En el caso de los municipios, entidades descentralizadas o fideicomisos municipales, la Auditoría Superior del estado de Jalisco, en concordancia con el artículo 115, fracción IV, inciso c) de la Constitución Política de los Estados Unidos Mexicanos, auxiliará al Congreso del Estado en la elaboración de la propuesta de dictamen de la revisión de la cuenta pública que remitirá a la comisión del Congreso que determine su Ley Orgánica, para su estudio y análisis, quien lo turnará al pleno del Congreso del Estado para su aprobación o devolución con observaciones a la Auditoría Superior del estado de Jalisco, quien deberá solventar las observaciones del dictamen en un término no mayor de noventa días, para su aprobación definitiva ante el pleno del Congreso.
+a) Será conforme a los principios rectores que establece esta Constitución, dictaminada por el personal del servicio civil de carrera y el Auditor Superior del estado de Jalisco; y
 
-La Auditoría Superior del Estado deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los informes a que se refiere este artículo; la ley establecerá las sanciones aplicables a quienes infrinjan esta disposición;
+b) Propondrá las sanciones administrativas bajo el principio de responsabilidad directa del funcionario y subsidiaria del titular de la entidad auditada, en caso de negligencia o falta de supervisión adecuada.
 
-III. Investigar los actos y omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos de cualquier tipo, y efectuar visitas domiciliarias únicamente para exigir la exhibición de los libros y documentos indispensables para la realización de sus investigaciones, sujetándose a las leyes respectivas y a las formalidades para cateos;
+La fiscalización superior realizada por la Auditoría Superior del Estado, tiene por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en el presupuesto, así como determinar la eficacia y economía en el gasto público, de conformidad con los indicadores aprobados en los presupuestos de cada ente fiscalizable, en los términos que establezca la ley reglamentaria.
 
-IV. Proponer al Congreso del Estado la determinación de créditos fiscales que afecten a la hacienda pública o al patrimonio estatal o municipal, o al de los entes públicos estatales autónomos, organismos descentralizados y fideicomisos estatales o municipales, y promover, ante las autoridades competentes, el fincamiento de las responsabilidades que correspondan.
+La revisión de la cuenta pública de la Auditoría Superior del Estado se llevará a cabo de conformidad con lo que establecen las leyes en la materia, las disposiciones generales que expida el Congreso de la Unión y de acuerdo con las bases que establece esta Constitución;
 
-V. La revisión del gasto y de la cuenta pública que realice la Auditoría Superior del estado de Jalisco se sujetará a las siguientes bases:
+V. Promover las responsabilidades que sean procedentes ante el Tribunal de Justicia Administrativa, la Fiscalía Especializada en Combate a la Corrupción o los órganos internos de control, según corresponda, para la imposición de sanciones a los servidores públicos y a los particulares. Así como proponer las medidas resarcitorias para cada caso concreto, cuando se afecte a la hacienda pública o al patrimonio estatal o municipal, o al de los entes públicos estatales autónomos, organismos descentralizados y fideicomisos estatales o municipales.
 
-a) Será conforme a los principios rectores que establece esta Constitución, dictaminada por el personal del servicio civil de carrera y el Auditor Superior del estado de Jalisco;
+Las resoluciones de naturaleza jurisdiccional en las que se imponga el resarcimiento de los daños o perjuicios a la hacienda o patrimonio públicos, tendrán el carácter de créditos fiscales;
 
-b) Propondrá los créditos fiscales y las sanciones bajo el principio de responsabilidad directa del funcionario y subsidiaria del titular de la entidad auditada, en caso de negligencia o falta de supervisión adecuada;
+VI. Al frente de la Auditoría Superior del Estado habrá un Auditor Superior que será elegido conforme al procedimiento que determine la ley, por el Congreso del Estado, con voto de cuando menos dos terceras partes de los diputados integrantes de la Legislatura.
 
-c) Realizará un examen, rendirá su respectivo informe, así como propondrá la determinación de los créditos fiscales, las sanciones y las responsabilidades en un término máximo de doce meses contados a partir del día siguiente a aquel en el que las entidades auditadas le remitan las correspondientes cuentas públicas o el organismo auditor concluya las auditorías que realice, y de diez meses en caso de entidades municipales auditadas;
+El Auditor Superior durará en su cargo ocho años y podrá ser elegido para un nuevo periodo por una sola ocasión, de acuerdo con el procedimiento que establece la ley. Sólo podrá ser removido por las causas graves que señale la ley, con la misma votación requerida para su nombramiento, así como por las causas y conforme a los procedimientos previstos en esta Constitución;
 
-d) Aplicará el principio de legalidad y anualidad para la propuesta de créditos fiscales y responsabilidades, y
-
-e) Las resoluciones sancionatorias y definitivas que sean emitidas con motivo de la revisión y examen de las cuentas públicas de las entidades auditadas, podrán ser impugnadas por los sujetos auditados, mediante el juicio de nulidad ante el Tribunal de lo Administrativo del Estado, en los términos que establece esta Constitución.
-
-La auditoría pública realizada por la Auditoría Superior del estado de Jalisco, tiene por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en el presupuesto, así como determinar la eficacia y economía en el gasto público, de conformidad con los indicadores aprobados en los presupuestos de cada ente fiscalizable, en los términos que establezca la ley reglamentaria.
-
-La revisión de la cuenta pública de la Auditoría Superior se llevará a cabo de conformidad con lo que establecen la ley en la materia, las disposiciones federales que expida el Congreso de la Unión y de acuerdo con las bases que establece esta Constitución;
-
-VI. Al frente de la Auditoría Superior del estado de Jalisco habrá un Auditor Superior que será nombrado conforme al procedimiento que determine la ley, por el Congreso del Estado, con voto de cuando menos dos terceras partes de los diputados integrantes de la Legislatura.
-
-El Auditor Superior durará en su cargo siete años y podrá ser nombrado para un nuevo periodo por una sola ocasión, de acuerdo con el procedimiento que establece la ley. Sólo podrá ser removido por las causas graves que señale la ley, con la misma votación requerida para su nombramiento, así como por las causas y conforme a los procedimientos previstos en esta Constitución;
-
-VII. Para ser titular de la Auditoría Superior se requiere cumplir con los siguientes requisitos:
+VII. Para ser titular de la Auditoría Superior del Estado o auditor especial se requiere cumplir con los siguientes requisitos:
 
 a) Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles, y ser nativo del estado o, en su defecto, haber residido en la entidad durante los últimos cinco años, salvo en el caso de ausencia motivada por el desempeño de algún cargo en el servicio público, siempre y cuando no haya sido fuera del país;
 
@@ -1509,11 +1491,9 @@ e) Tener, al momento de su designación, experiencia de cinco años en materia d
 
 f) No haber sido condenado por delito doloso que amerite pena corporal de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro considerado como grave por la legislación penal, lo inhabilitará para el cargo, cualquiera que haya sido la pena;
 
-g) No ser ministro de alguna asociación religiosa, a menos de que se separe formal, material y definitivamente de su ministerio en la forma y con la anticipación que establece la Ley de Asociaciones Religiosas y Culto Público, reglamentaria de los artículos 24 y 130 de la Constitución Política de los Estados Unidos Mexicanos;
+g) No ser ministro de alguna asociación religiosa, a menos de que se separe formal, material y definitivamente de su ministerio en la forma y con la anticipación que establezcan las leyes;
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2013)</small>
-
-h) No haber sido titular de alguna de las secretarías de despacho del Ejecutivo, Fiscal General, Magistrado del Poder Judicial, integrante del Consejo General del Poder Judicial, Magistrado del Tribunal de Arbitraje y Escalafón, Encargado de Hacienda Municipal, Diputado o titular de algún ente auditable durante los dos años previos al de su designación, y tener sus cuentas públicas aprobadas;
+h) No haber sido titular de alguna de las secretarías de despacho del Ejecutivo, Fiscal General, magistrado del (sic) algún tribunal estatal, integrante del Consejo de la Judicatura del Estado, encargado de alguna hacienda municipal o diputado, durante los dos años previos a su designación;
 
 i) No haber sido Secretario de Estado, Procurador General de la República, Senador o Diputado federal, a menos que se separe de su cargo dos años antes al día en que tenga verificativo su designación;
 
@@ -1521,19 +1501,19 @@ j) No tener parentesco de consanguinidad en línea recta y colateral hasta el cu
 
 k) No haber desempeñado cargo de elección popular en el estado en los tres años anteriores a su designación;
 
-l) No haber sido, durante los últimos seis años, miembro de la dirigencia nacional, estatal o municipal de un partido político, ni haber formado parte de los órganos electorales con derecho a voto durante dicho lapso, y
+l) No haber sido, durante los últimos seis años, miembro de la dirigencia nacional, estatal o municipal de un partido político, ni haber formado parte de los órganos electorales con derecho a voto durante dicho lapso; y
 
-m) Durante el ejercicio de su encargo, el Auditor Superior no podrá militar o formar parte activa de partido político alguno, ni asumir otro empleo, cargo o comisión, salvo los desempeñados en asociaciones científicas, docentes, artísticas o de beneficencia y los no remunerados. El nombramiento deberá recaer preferentemente entre aquellas personas que tengan prestigio profesional, capacidad y experiencia técnica en la materia;
+m) Durante el ejercicio de su encargo, el Auditor Superior no podrá militar o formar parte activa de partido político alguno, ni asumir otro empleo, cargo o comisión, salvo los desempeñados en asociaciones científicas, docentes, artísticas o de beneficencia y los no remunerados. El nombramiento deberá recaer preferentemente entre aquellas personas que tengan prestigio profesional, capacidad y experiencia técnica en la materia; y
 
 VIII. Las entidades auditadas y los sujetos a ser auditados por la Constitución y que señale la ley deberán:
 
-a) Facilitar los auxilios que requiera la Auditoría Superior del estado de Jalisco para el ejercicio de sus funciones y,
+a) Facilitar los auxilios que requiera la Auditoría Superior del Estado para el ejercicio de sus funciones; y
 
-b) Facilitar los apoyos necesarios para que los funcionarios y ex funcionarios rindan sus cuentas públicas, así como para dar contestación a los pliegos de observaciones que notifique la Auditoría Superior del estado de Jalisco.
+b) Facilitar los apoyos necesarios para que los funcionarios y ex funcionarios rindan sus cuentas públicas, así como para dar contestación a los pliegos de observaciones que notifique la Auditoría Superior del Estado.
 
-El titular del Poder Ejecutivo del Estado, a través de la Secretaría de Finanzas, y los ayuntamientos, a través de los encargados de la Hacienda Municipal, aplicarán el procedimiento administrativo de ejecución para el cobro de los créditos fiscales a que se refiere la fracción IV del presente artículo. La Auditoría Superior del estado de Jalisco sancionará administrativamente la omisión e indebida ejecución en el cobro de los créditos fiscales, en los términos que establezca la ley.
+El Poder Ejecutivo del Estado y los ayuntamientos aplicarán el procedimiento administrativo de ejecución para el cobro de los créditos fiscales a que se refiere el presente artículo, en su respectivo ámbito de competencia y en términos de las disposiciones fiscales y administrativas que en cada caso resulten aplicables.
 
-A la iniciativa de Presupuesto de Egresos del Estado de Jalisco se deberá adjuntar invariablemente, para su valoración por el Congreso del Estado, el proyecto de presupuesto de la Auditoría Superior del estado de Jalisco que elabore este organismo público, sin menoscabo de la facultad del Congreso del Estado de determinar los gastos del estado.
+A la iniciativa de Presupuesto de Egresos del Estado de Jalisco se deberá adjuntar invariablemente, para su valoración por el Congreso del Estado, el proyecto de presupuesto de la Auditoría Superior del Estado que elabore este organismo público, sin menoscabo de la facultad del Congreso del Estado de determinar los gastos del estado.
 
 (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
@@ -1787,35 +1767,61 @@ LOS TRIBUNALES GARANTIZARÁN EL CONTROL DE CONVENCIONALIDAD DE LOS DERECHOS HUMA
 
 La imposición de las penas, su modificación y duración son propias y exclusivas de la autoridad judicial.
 
-(NOTA: EL 20 DE FEBRERO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE FEBRERO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+La investigación de los delitos del fuero común y concurrentes, así como el ejercicio de la acción penal que compete al Ministerio Público ante los tribunales se realizará a través de la Fiscalía General del Estado, de la Fiscalía Especializada en Delitos Electorales y de la Fiscalía Especializada en Combate a la Corrupción, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y la ley.
 
-LA INVESTIGACIÓN DE LOS DELITOS DEL FUERO COMÚN Y CONCURRENTES, ASÍ COMO LA PERSECUCIÓN ANTE LOS TRIBUNALES DE LOS RESPONSABLES DE SU COMISIÓN CORRESPONDEN AL MINISTERIO PÚBLICO A CARGO DEL FISCAL GENERAL, QUIEN SE AUXILIARÁ DE LAS POLICÍAS QUE ESTÉN BAJO SU MANDO INMEDIATO, EN LOS TÉRMINOS DEL ARTÍCULO 21 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE JULIO DE 2017)</small>
 
-La ley organizará al Ministerio Público, el cual estará presidido por un Fiscal General, designado por el titular del Poder Ejecutivo y ratificado por el Congreso mediante el voto de dos terceras partes de los diputados presentes en la sesión del Congreso del Estado. El ciudadano que, habiendo sido designado por el Gobernador, no hubiere sido ratificado, no podrá volver a ser propuesto dentro del término de un año.
+La Fiscalía General del Estado es un Organismo Público Autónomo, con personalidad jurídica y patrimonio propios.
 
-El titular del Poder Ejecutivo deberá enviar una nueva propuesta al Congreso del Estado dentro de los siguientes quince días hábiles.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE JULIO DE 2017)</small>
 
 Las resoluciones del Ministerio Público sobre el no ejercicio y desistimiento de la acción penal podrán ser impugnados por vía jurisdiccional, en los términos que establezca la ley.
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE JULIO DE 2017)</small>
 
-Para ser Fiscal General se requiere cumplir con los mismos requisitos que esta Constitución exige en su artículo 59 para ser magistrado del Supremo Tribunal de Justicia, con excepción de lo dispuesto en su fracción V en lo referente a haber sido Secretario del Despacho o jefe de departamento administrativo, además de cumplir y aprobar los exámenes de control de confianza en los términos de la ley, previo a su designación. El Fiscal General podrá ser libremente removido por el Gobernador del Estado.
+Para elegir al Fiscal General del Estado, el Gobernador someterá a consideración del Congreso una terna, en los términos que fije la ley. Para tal efecto, el Congreso, previa comparecencia de las personas propuestas, elegirá a quien ocupará la titularidad de la Fiscalía General del Estado con el voto de cuando menos las dos terceras partes de los diputados integrantes de la Legislatura dentro de los treinta días posteriores a la presentación de la terna.
 
-El personal de la Fiscalía General del Estado será nombrado por el Fiscal General, previo cumplimiento de los requisitos establecidos en las leyes aplicables.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JULIO DE 2014)</small>
+Para elegir al Fiscal Especializado en Combate a la Corrupción, el Congreso del Estado emitirá una convocatoria pública abierta a la sociedad; una vez recibidas las solicitudes y los expedientes de los aspirantes, éstos serán remitidos en copia al Comité de Participación Social del Sistema Estatal Anticorrupción para que analice los perfiles y emita sus opiniones técnicas, mismas que serán enviadas al Gobernador, quien tomando en cuenta las opiniones del Comité, someterá a consideración del Congreso una terna, en los términos que fije la ley. Para tal efecto, el Congreso, previa comparecencia de las personas propuestas, elegirá a quien ocupará la titularidad de la Fiscalía Especializada en Combate a la Corrupción con el voto de las dos terceras partes de los diputados integrantes de la Legislatura dentro de los treinta días posteriores a la presentación de la terna.
 
-La Fiscalía General del Estado contará con una Fiscalía Especial en materia de Delitos Electorales que será la responsable de atender en forma institucional, especializada y profesional, lo relativo a los delitos electorales establecidos en la Ley General en materia (sic) Delitos Electorales. La Fiscalía Especial en materia de Delitos Electorales estará dotada de los recursos humanos, financieros y materiales que requieran para su efectiva operación.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JULIO DE 2014)</small>
+En caso de que el Congreso del Estado no resuelva en ese plazo o bien, ninguno de los propuestos para el cargo de Fiscal General o de Fiscal Especializado en Combate a la Corrupción alcance la mayoría requerida, conforme a los párrafos que anteceden, el Gobernador enviará una nueva terna con personas distintas, en los términos de los párrafos anteriores respectivamente. Si no se lleva a cabo la elección, dentro de los treinta días posteriores a la presentación de la segunda terna o ninguno de los propuestos en la segunda terna alcanza la mayoría requerida, ocupará el cargo la persona que dentro de ambas ternas resulte de un proceso de insaculación ante el Pleno del Congreso.
 
-Para ser Fiscal Especial en materia de Delitos Electorales se requiere cumplir con los mismos requisitos que establece esta Constitución para los Magistrados del Supremo Tribunal de Justicia del Estado, y cumplir con lo dispuesto en la Ley General del Sistema Nacional de Seguridad Pública.
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JULIO DE 2014)</small>
+Para ser Fiscal General se requiere cumplir, conforme a la ley, con los mismos requisitos que esta Constitución exige en su artículo 59 para magistrados del Supremo Tribunal de Justicia, con excepción de lo dispuesto en su fracción V en lo referente a haber sido secretario del despacho o jefe de departamento administrativo, además de cumplir y aprobar los exámenes de control de confianza en los términos de la ley, previo a su elección.
 
-El Fiscal Especial en materia de Delitos Electorales dura en su cargo cuatro años, pudiendo ser reelecto por una sola vez.
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
+El personal de la Fiscalía General del Estado será nombrado por el Fiscal General, con excepción de los Fiscales Especializados y del titular del órgano interno de control, así como al personal que dependa de éstos, previo cumplimiento de los requisitos establecidos en las leyes aplicables.
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
+La Fiscalía General del Estado contará con una Fiscalía Especializada en materia de Delitos Electorales y con una Fiscalía Especializada en Combate a la Corrupción, que serán las responsables de atender en forma institucional, especializada y profesional, la primera en lo relativo a los delitos electorales establecidos en la Ley General en materia de Delitos Electorales y la segunda en delitos en materia de corrupción. Ambas Fiscalías Especializadas estarán dotadas de autonomía de gestión, técnica, administrativa y presupuestal.
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
+Para ser Fiscal Especializado en materia de Delitos Electorales o en Combate a la Corrupción, se requiere cumplir con los mismos requisitos que establece esta Constitución para los Magistrados del Supremo Tribunal de Justicia del Estado, y cumplir con lo dispuesto en la Ley General del Sistema Nacional de Seguridad Pública.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE JULIO DE 2017)</small>
+
+El Fiscal General del Estado y el Fiscal Especializado en Combate a la Corrupción durarán en su cargo siete años, respectivamente, y no podrán ser reelectos, y sólo podrán ser removidos del cargo por el Congreso del Estado, a petición del Poder Ejecutivo, por causa grave que la Ley establezca.
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
+El Fiscal Especializado en materia de Delitos Electorales dura en su cargo cuatro años, pudiendo ser reelecto por una sola vez.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE JULIO DE 2017)</small>
+
+La Fiscalía General del Estado y las Fiscalías Especializadas establecerán los mecanismos de coordinación necesarios para el mejor cumplimiento de sus funciones, sin perjuicio de su autonomía técnica, de gestión, administrativa y presupuestal en sus respectivas materias de competencia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE JULIO DE 2017)</small>
+
+La Fiscalía Especializada en combate a la Corrupción, será la responsable de investigar y perseguir ante los tribunales, los delitos cometidos por los servidores públicos o particulares en materia de hechos de corrupción. Funcionará con autonomía técnica y de operación, sujeta a la estricta observancia de los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1837,11 +1843,11 @@ En tratándose de personas de escasos recursos, dependientes económicos, jornal
 
 ### CAPITULO II. De Poder Judicial
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### Art. 56.
 
-El ejercicio del Poder Judicial se deposita en el Supremo Tribunal de Justicia, en el Tribunal de lo Administrativo, en los juzgados de primera instancia, menores y de paz y jurados. Se compondrá además por dos órganos: el Consejo de la Judicatura del Estado y el Instituto de Justicia Alternativa del Estado.
+El ejercicio del Poder Judicial se deposita en el Supremo Tribunal de Justicia, en los juzgados de primera instancia, menores y de paz y jurados. Se compondrá además por dos órganos: el Consejo de la Judicatura del Estado y el Instituto de Justicia Alternativa del Estado.
 
 > <small>(REFORMADO, P.O. 22 DE ENERO DE 2008)</small>
 
@@ -1867,9 +1873,9 @@ Los tribunales del Poder Judicial resolverán con plenitud de jurisdicción toda
 
 Todos los magistrados, consejeros y jueces que integran el Poder Judicial del Estado recibirán una remuneración irrenunciable e idéntica, respectivamente; con excepción del Presidente del Supremo Tribunal de Justicia, que no recibirá remuneración adicional a la del cargo de magistrado.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
-El pleno del Supremo Tribunal y el del Tribunal de lo Administrativo, elaborarán sus propios proyectos de presupuesto. El Consejo de la Judicatura lo hará para el resto del Poder Judicial. Con ellos se integrará el del Poder Judicial, que será remitido por el Presidente del Supremo Tribunal al titular del Poder Ejecutivo, para su inclusión en el Proyecto de Presupuesto de Egresos del Estado. Una vez aprobado, será ejercido con plena autonomía y de conformidad con la ley.
+El pleno del Supremo Tribunal elaborará su propio proyecto de presupuesto. El Consejo de la Judicatura lo hará para el resto del Poder Judicial. Con ellos se integrará el del Poder Judicial, que será remitido por el Presidente del Supremo Tribunal al titular del Poder Ejecutivo, para su inclusión en el Proyecto de Presupuesto de Egresos del Estado. Una vez aprobado, será ejercido con plena autonomía y de conformidad con la ley.
 
 A la iniciativa de Presupuesto de Egresos del Estado que presente el titular del Poder Ejecutivo ante el Congreso, se deberá adjuntar, para su valoración, invariablemente, el proyecto de presupuesto elaborado por el Poder Judicial.
 
@@ -1877,9 +1883,9 @@ A la iniciativa de Presupuesto de Egresos del Estado que presente el titular del
 
 Salvo lo dispuesto por la legislación en materia de disciplina financiera de las entidades federativas y municipios, el presupuesto del Poder Judicial no podrá ser inferior al ejercido el año inmediato anterior, actualizado con base en la cifra de inflación señalada en los criterios generales de política económica para el ejercicio que se está presupuestando.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
-La competencia del Supremo Tribunal de Justicia y del Tribunal de lo Administrativo, su funcionamiento en pleno o salas; la competencia y funcionamiento de los juzgados de primera instancia, menores y de paz, así como de los jurados, se regirá por lo que dispongan las leyes, de conformidad con las bases que esta Constitución establece.
+La competencia del Supremo Tribunal de Justicia, su funcionamiento en pleno o salas; la competencia y funcionamiento de los juzgados de primera instancia, menores y de paz, así como de los jurados, se regirá por lo que dispongan las leyes, de conformidad con las bases que esta Constitución establece.
 
 La ley fijará los términos en que sea obligatoria la jurisprudencia que establezcan los tribunales del Poder Judicial, funcionando en pleno o en salas, sobre interpretación de leyes de su competencia, así como los requisitos para su interpretación o modificación, sin que se contravenga la jurisprudencia que establezcan los tribunales del Poder Judicial de la Federación.
 
@@ -1933,9 +1939,13 @@ El Congreso del Estado, por acuerdo de las dos terceras partes de los diputados 
 
 En caso de que el Congreso rechace la totalidad de los candidatos propuestos, el Consejo de la Judicatura someterá una nueva propuesta integrada por personas distintas a la inicial, en los términos de este artículo.
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
-En igualdad de circunstancias, los nombramientos de magistrados serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+En igualdad de circunstancias, el Congreso del Estado elige en libertad soberana los nombramientos de magistrados que serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE JULIO DE 2017)</small>
+
+Los diputados emitirán libremente su voto, en cualquier sentido de los que prevea la ley, de entre la lista de los candidatos que cumplan con los requisitos de elegibilidad, sin que su voto esté condicionado por lo señalado en el párrafo anterior.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ENERO DE 2008)</small>
 
@@ -2011,11 +2021,11 @@ Los jueces de primera instancia, menores y de paz, serán elegidos por el Consej
 
 En los casos de promoción, la inamovilidad en el nuevo empleo se adquirirá al transcurrir el plazo correspondiente a su ejercicio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### Art. 64.
 
-La administración, vigilancia y disciplina del Poder Judicial, con excepción del Supremo Tribunal de Justicia y del Tribunal de lo Administrativo, estarán a cargo del Consejo de la Judicatura en los términos que establezcan las leyes, con base en esta Constitución.
+La administración, vigilancia y disciplina del Poder Judicial, con excepción del Supremo Tribunal de Justicia, estarán a cargo del Consejo de la Judicatura en los términos que establezcan las leyes, con base en esta Constitución.
 
 > <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
 
@@ -2053,35 +2063,47 @@ El Consejo de la Judicatura estará facultado para determinar el número y compe
 
 Las decisiones del Consejo General serán definitivas e inatacables.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2000)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE JULIO DE 2017)</small>
 
-### CAPITULO III. Del Tribunal Electoral del Estado
+### CAPITULO III. Del Tribunal de Justicia Administrativa
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### Art. 65.
 
-El Tribunal de lo Administrativo tendrá a su cargo dirimir las controversias de carácter administrativo y fiscal que se susciten entre las autoridades del Estado, las municipales y de los organismos descentralizados de aquéllas, con los particulares. Igualmente de las que surjan de entre dos o más entidades públicas de las citadas en el presente artículo. El Tribunal de lo Administrativo resolverá además, los conflictos laborales que se susciten con sus propios trabajadores.
+El Tribunal de Justicia Administrativa, es un organismo público autónomo, tendrá a su cargo dirimir las controversias de carácter administrativo que se susciten entre la administración pública local, municipal y de los organismos descentralizados de aquéllas con los particulares. Igualmente las que surjan entre dos o más entidades públicas de las citadas en el presente artículo.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+El Tribunal de Justicia Administrativa resolverá además, los conflictos laborales que se susciten con sus propios trabajadores.
+
+Asimismo, será el órgano competente para imponer, en los términos que disponga la ley, las sanciones a los servidores públicos estatales y municipales por las responsabilidades administrativas que la ley determine como graves, y a los particulares que participen en actos vinculados con dichas responsabilidades; así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la hacienda pública estatal o municipal o al patrimonio de los poderes o entes públicos locales o municipales, en los casos que así lo determinen los ordenamientos jurídicos.
+
+Los procedimientos para la aplicación de las sanciones mencionadas anteriormente se desarrollarán autónomamente.
+
+En el cumplimiento de sus atribuciones, a los órganos responsables de la investigación y sanción de responsabilidades administrativas y hechos de corrupción no les serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal, bursátil, fiduciaria o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios. La ley establecerá los procedimientos para que les sea entregada dicha información.
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### Art. 66.
 
-Los requisitos exigidos para ser Magistrado del Tribunal de lo Administrativo, la forma de elección y el período de su ejercicio en el cargo, serán los mismos que esta Constitución establece para los magistrados del Supremo Tribunal de Justicia.
+Los magistrados del Tribunal de Justicia Administrativa durarán en su encargo siete años, tendrán derecho a ser reelectos para el periodo inmediato posterior de siete años y sólo podrán ser removidos de sus cargos por las causas graves que señale la ley.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+Los requisitos para ser magistrado del Tribunal de Justicia Administrativa serán los mismos que esta Constitución establece para los magistrados del Supremo Tribunal de Justicia.
+
+Los Magistrados del Tribunal de Justicia Administrativa serán elegidos por cuando menos las dos terceras partes de los diputados integrantes de la Legislatura, mediante convocatoria pública en términos de ley.
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### Art. 67.
 
-El Tribunal de lo Administrativo del Estado funcionará en pleno o en salas.
+El Tribunal de Justicia Administrativa del Estado de Jalisco se integrará por una Sala Superior conformada por tres magistrados; así como de salas unitarias, que tendrán la competencia que establezca la Ley.
 
-El pleno del Tribunal se formará por los magistrados que integran las salas que establezca la ley reglamentaria, los cuales tendrán voz y voto. Las sesiones del pleno serán públicas y por excepción secretas, en los casos que así lo exijan la moral o el interés público.
+Para la elección del Magistrado que presidirá la Sala Superior del Tribunal de Justicia Administrativa, los integrantes de la misma realizarán una votación por cédula, secreta y en escrutinio público, en la primera sesión de cada año. El Magistrado que haya obtenido mayoría de votos, durará un año en su encargo y podrá ser reelecto por no más de dos periodos consecutivos.
 
-El pleno del Tribunal elegirá, de entre sus miembros, en los términos y bajo las condiciones que establezca la ley, a quien deba presidirlo. El presidente durará en su encargo un año y podrá ser reelecto.
+La Sala Superior del Tribunal de Justicia Administrativa elaborará el proyecto de presupuesto del Tribunal a propuesta de la Junta de Administración, en los términos establecidos en la Ley, que será remitido al titular del Poder Ejecutivo para su inclusión en la iniciativa de Presupuesto de Egresos del Estado. Una vez aprobado, será ejercido con plena autonomía de conformidad con la ley.
 
-> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ANTES CAPITULO III], P.O. 18 DE JULIO DE 2017)</small>
 
-### CAPITULO IV. Del Tribunal de Arbitraje y Escalafón
+### CAPITULO IV. Del Tribunal Electoral del Estado
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2014)</small>
 
@@ -2159,15 +2181,15 @@ El Tribunal Electoral se integrará por cinco magistrados, de entre los cuales s
 
 Las sesiones de resolución serán públicas.
 
-> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO III], P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ANTES CAPITULO IV], P.O. 18 DE JULIO DE 2017)</small>
 
-### CAPITULO I. Del gobierno municipal
+### CAPITULO V. Del Tribunal de Arbitraje y Escalafón
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### Art. 72.
 
-Corresponde al Tribunal de Arbitraje y Escalafón conocer de las controversias que se susciten entre el Estado, los municipios, los organismos descentralizados y empresas de participación mayoritaria de ambos, con sus servidores, con motivo de las relaciones de trabajo y se regirán por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, por todas las demás leyes y reglamentos de la materia, con excepción de las controversias relativas a las relaciones de trabajo de los servidores públicos integrantes del Poder Judicial del Estado, del Tribunal Electoral y del Instituto Electoral del Estado.
+Corresponde al Tribunal de Arbitraje y Escalafón conocer de las controversias que se susciten entre el Estado, los municipios, los organismos descentralizados y empresas de participación mayoritaria de ambos, con sus servidores, con motivo de las relaciones de trabajo y se regirán por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, por todas las demás leyes y reglamentos de la materia, con excepción de las controversias relativas a las relaciones de trabajo de los servidores públicos integrantes del Poder Judicial del Estado, del Tribunal Electoral, del Tribunal de Justicia Administrativa y del Instituto Electoral del Estado.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -2177,9 +2199,9 @@ La Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, est
 
 ## TITULO SEPTIMO. (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-### CAPITULO II. De las facultades y obligaciones de los ayuntamientos
+### CAPITULO I. Del gobierno municipal
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ###### Art. 73.
 
@@ -2249,9 +2271,9 @@ V. No ser Consejero Ciudadano de la Comisión Estatal de Derechos Humanos, a men
 
 VI. No estar en servicio activo en el Ejército Nacional ni tener mando en la policía o en cuerpo de seguridad pública en el municipio en que se pretenda su elección, cuando menos noventa días antes de ella;
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-VII. No ser Secretario General de Gobierno o quien haga sus veces, Secretario del Despacho del Poder Ejecutivo, Magistrado del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo, del Tribunal de Arbitraje y Escalafón o miembro del Consejo de la Judicatura. Los servidores públicos comprendidos en esta fracción podrán ser electos siempre que, al efectuarse la elección, tengan cuando menos noventa días de estar separados de sus cargos;
+VII. No ser Secretario General de Gobierno o quien haga sus veces, Secretario del Despacho del Poder Ejecutivo, Magistrado del Supremo Tribunal de Justicia, Magistrado del Tribunal de Justicia Administrativa, Magistrado del Tribunal de Arbitraje y Escalafón o miembro del Consejo de la Judicatura. Los servidores públicos comprendidos en esta fracción podrán ser electos siempre que, al efectuarse la elección, tengan cuando menos noventa días de estar separados de sus cargos;
 
 > <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -2259,9 +2281,9 @@ VIII. No ser Juez, Secretario de Juzgado o titular de alguna dependencia de reca
 
 (NOTA: EL 28 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 38/2017 Y SUS ACUMULADAS 39/2017 Y 60/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-IX. No ser servidor público del municipio de que se trate, a no ser que se separe del cargo noventa días antes de la elección, SALVO QUE SE TRATE DE REGIDORES QUE BUSCAN REELEGIRSE. Si se trata del funcionario encargado de la Hacienda Municipal, es preciso que haya rendido sus cuentas al Congreso del Estado por conducto de la Auditoría Superior del Estado de Jalisco.
+IX. No ser servidor público del municipio de que se trate, a no ser que se separe del cargo noventa días antes de la elección, SALVO QUE SE TRATE DE REGIDORES QUE BUSCAN REELEGIRSE. Si se trata del funcionario encargado de la Hacienda Municipal, es preciso que haya rendido sus cuentas públicas.
 
 (NOTA: EL 28 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 38/2017 Y SUS ACUMULADAS 39/2017 Y 60/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -2293,9 +2315,9 @@ Los concejos municipales y sus integrantes tendrán las mismas facultades y obli
 
 (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-### CAPITULO III. De la hacienda y del patrimonio municipal
+### CAPITULO II. De las facultades y obligaciones de los ayuntamientos
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
 ###### Art. 77.
 
@@ -2509,9 +2531,9 @@ Cuando los casos citados en el presente artículo involucren a una o más entida
 
 (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-### CAPITULO I. De las responsabilidades de los servidores públicos
+### CAPITULO III. De la hacienda y del patrimonio municipal
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ###### Art. 88.
 
@@ -2555,13 +2577,13 @@ Los recursos que integran la hacienda municipal serán ejercidos en forma direct
 
 ## TITULO OCTAVO. (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-### CAPITULO II. Del juicio político
+### CAPITULO I. De las responsabilidades de los servidores públicos
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### Art. 90.
 
-Los servidores públicos del Estado y de los municipios serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones, así como el incumplimiento de las leyes o normas en materia de manejo de recursos públicos, contratación y ejercicio de la deuda pública.
+Los servidores públicos del Estado y de los municipios serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones, así como por incumplimiento de las leyes o normas en materia de manejo de recursos públicos, contratación y ejercicio de la deuda pública; de igual manera, se sancionará en términos de la ley a los particulares por actos vinculados con faltas administrativas graves.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
 
@@ -2587,11 +2609,13 @@ III. El procedimiento administrativo, y
 
 IV. El procedimiento ordinario.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### Art. 92.
 
-Para los efectos de las responsabilidades a que alude este título, se consideran servidores públicos a los representantes de elección popular; a los miembros del Poder Judicial del Estado e integrantes del Tribunal de Arbitraje y Escalafón previstos en esta Constitución; el Presidente de la Junta Local de Conciliación y Arbitraje; a los consejeros electorales del Instituto Electoral del Estado; a los magistrados del Tribunal Electoral del Estado; a los integrantes de la Comisión Estatal de Derechos Humanos, a los titulares de los órganos internos de control, así como los servidores públicos de los organismos a los que esta Constitución otorgue autonomía, y en general, a toda persona que desempeñe un cargo o comisión de cualquiera naturaleza en la administración publica del Estado o de los municipios, así como a quienes presten servicios en los organismos descentralizados, fideicomisos públicos y empresas de participación estatal o municipal mayoritaria, quienes serán responsables por los actos u omisiones en que incurran por el desempeño de sus respectivas funciones.
+Para los efectos de las responsabilidades a que alude este título, se consideran servidores públicos a los representantes de elección popular; a los miembros del Poder Judicial del Estado; del Tribunal de Justicia Administrativa; del Tribunal de Arbitraje y Escalafón previstos en esta Constitución; de la Junta Local de Conciliación y Arbitraje; del Instituto Electoral del Estado; del Tribunal Electoral del Estado; de la Comisión Estatal de Derechos Humanos, a los titulares de los órganos internos de control, así como a los servidores públicos de los organismos a los que esta Constitución otorgue autonomía, y en general, a toda persona que desempeñe un cargo o comisión de cualquier naturaleza en el Congreso Local, en la administración pública del Estado o de los municipios, así como a quienes presten servicios en los organismos descentralizados, fideicomisos públicos y empresas de participación estatal o municipal mayoritaria, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 Los servidores públicos a que se refiere el presente artículo estarán obligados a presentar, bajo protesta de decir verdad, su declaración patrimonial y de intereses y en su caso, la constancia de presentación de su declaración fiscal, ante las autoridades competentes y en los términos que establezca la ley.
 
@@ -2621,9 +2645,9 @@ En los juicios del orden civil no hay fuero ni inmunidad.
 
 (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-### CAPITULO III. De la responsabilidad penal de los servidores públicos
+### CAPITULO II. Del juicio político
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ###### Art. 97.
 
@@ -2655,15 +2679,15 @@ IX. El Congreso, erigido en Jurado de Sentencia, con audiencia del inculpado, de
 
 Contra las resoluciones de juicio político no procede juicio o recurso alguno.
 
-> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE JULIO DE 2017)</small>
 
-### CAPITULO IV. Del procedimiento administrativo
+### CAPITULO III. De la responsabilidad penal por hechos de corrupción
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### Art. 99.
 
-La comisión de delitos del orden común por parte de cualquier servidor público será perseguida y sancionada en los términos de la legislación penal.
+La comisión de delitos del orden común por parte de cualquier servidor público o particulares que incurran en hechos de corrupción, será sancionada en los términos de la legislación penal aplicable.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -2715,31 +2739,47 @@ VI. Las sanciones económicas no podrán exceder de tres tantos de los beneficio
 
 (DEROGADO, P.O. 20 DE AGOSTO DE 2016)
 
-> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE JULIO DE 2017)</small>
 
-### CAPITULO V. De la Responsabilidad Patrimonial del Estado y los Municipios
+### CAPITULO IV. De las sanciones administrativas
 
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2003)</small>
-
-Art. 107 bis.- La responsabilidad del Estado y de los municipios por los daños que, con motivo de su actividad administrativa irregular, causen en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### Art. 106.
 
-Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben observar en el desempeño de su empleo, cargo o comisión.
+Los servidores públicos y particulares que incurran en responsabilidad frente al Estado, serán sancionados conforme a lo siguiente:
 
-> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+I. Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben observar en el desempeño de su empleo, cargo o comisión.
 
-Los entes públicos estatales y municipales tendrán órganos internos de control con las facultades que determinen las leyes generales y locales de la materia, para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas y para sancionar aquellas distintas a las que sean competencia jurisdiccional; así como para revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos. Los órganos internos de control estarán facultados para presentar ante la Fiscalía Especial en Combate a la Corrupción las denuncias por hechos u omisiones que pudieran ser constitutivos de delito.
+Las sanciones consistirán en amonestación, suspensión, destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos que, en su caso, haya obtenido el responsable y con los daños y perjuicios patrimoniales causados por los actos u omisiones. La Ley establecerá los procedimientos para la investigación y sanción de dichos actos u omisiones.
 
-> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+La Auditoría Superior del Estado conocerá y substanciará los procedimientos de investigación y sanción por faltas administrativas graves y no graves que detecte en el ejercicio de sus funciones de fiscalización; tratándose de faltas graves el procedimiento sancionatorio será resuelto por el Tribunal de Justicia Administrativa.
+
+En todos los casos, las conductas que puedan constituir delitos o violaciones a la ley, de las cuales derive una responsabilidad penal deberán hacerse del conocimiento de la Fiscalía Especializada en Combate a la Corrupción.
+
+Para la investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Poder Judicial del Estado, se observará lo previsto en el artículo 64 de esta Constitución, sin perjuicio de las atribuciones de la Auditoría Superior del Estado en materia de fiscalización sobre el manejo, custodia y aplicación de recursos públicos.
+
+La ley establecerá los supuestos y procedimientos para impugnar la clasificación de las faltas administrativas como no graves, que realicen la Contraloría del Estado y los órganos internos de control.
+
+II. El Tribunal de Justicia Administrativa impondrá a los particulares que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, las sanciones económicas que determine la Ley; inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas; así como el resarcimiento de los daños y perjuicios ocasionados a la hacienda pública estatal o municipal. Las personas jurídicas serán sancionadas en los términos de esta fracción cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona jurídica y en beneficio de ella.
+
+Asimismo, podrá ordenarse la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la hacienda pública estatal o municipal, siempre que dicha sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que la resolución sea definitiva. Las leyes establecerán los procedimientos para la investigación e imposición de las sanciones aplicables de dichos actos u omisiones.
+
+La Auditoría Superior del Estado y los Órganos Internos de Control, podrán recurrir las determinaciones de la Fiscalía Especializada en Combate a la Corrupción y del Tribunal de Justicia Administrativa, en los términos que establezca la legislación aplicable.
+
+III. La Contraloría del Estado es el Órgano Interno del Control del Poder Ejecutivo del Estado y estará facultada por sí o a través de los órganos internos de control de la Administración Pública Centralizada y Paraestatal, para prevenir, corregir, investigar y substanciar las faltas administrativas en que incurran los servidores públicos del Poder Ejecutivo; resolver las faltas administrativas no graves y remitir los procedimientos sobre faltas administrativas graves al Tribunal de Justicia Administrativa para su resolución.
+
+La Contraloría del Estado podrá ejercer de oficio la facultad de atracción respecto de las investigaciones y procedimientos de responsabilidad administrativa que lleven los órganos internos de control de la Administración Pública Centralizada y Paraestatal, cuando el interés y trascendencia del asunto lo ameriten.
+
+La Contraloría del Estado podrá designar y remover a los titulares de los órganos internos de control de las dependencias y entidades de la Administración Pública Centralizada y Paraestatal; así como auditores externos en los casos en que la Ley así lo prevea.
+
+IV. Los entes públicos municipales así como los organismos a los que esta Constitución les otorga autonomía, tendrán órganos internos de control encargados de prevenir, corregir, investigar y substanciar las faltas administrativas en que incurran los servidores públicos del respectivo ente; para resolver las faltas administrativas no graves y para remitir los procedimientos sobre faltas administrativas graves al Tribunal de Justicia Administrativa para su resolución, de conformidad con los procedimientos que establezcan las leyes generales y locales de la materia, así como para revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos. Los órganos internos de control señalados estarán facultados para presentar ante la Fiscalía Especializada en Combate a la Corrupción las denuncias por hechos u omisiones que pudieran ser constitutivos de delito.
 
 Los titulares de los órganos internos de control de aquellos organismos públicos que esta Constitución otorga autonomía y ejerzan recursos del Presupuesto del Estado deberán cumplir con los mismos requisitos que esta Constitución establece para ser titular de la Auditoría Superior del Estado y durarán en su cargo cuatro años, sin posibilidad de reelección.
 
-> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+El Congreso del Estado elegirá, con el voto de cuando menos las dos terceras partes de los diputados integrantes de la Legislatura, a los titulares de los órganos internos de control a que refiere el párrafo anterior; para lo cual emitirá una convocatoria pública a la sociedad, dentro de los tres meses anteriores a que venza el nombramiento respectivo.
 
-El Congreso del Estado elegirá, con el voto de cuando menos las dos terceras partes de los diputados presentes, a los titulares de los órganos internos de control a que refiere el párrafo anterior; para lo cual emitirá una convocatoria pública a la sociedad, dentro de los tres meses anteriores a que venza el nombramiento respectivo.
+> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 26408/LXI/17, PUBLICADO EN EL P.O. DE 18 DE JULIO DE 2017, EL PRESENTE ARTÍCULO CONSTA DE TRES PÁRRAFOS. VÉASE LITERALIDAD DEL DECRETO, PÁGINA 22.]</small>
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -2749,25 +2789,33 @@ La Ley de Responsabilidades de los Servidores Públicos determinará las obligac
 
 Las sanciones consistirán en destitución e inhabilitación, además de las de carácter pecuniario, que se impondrán de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios causados por los actos u omisiones en que incurra, que no podrán exceder de tres tantos de la cuantificación de éstos.
 
-La autoridad encargada de recibir las declaraciones de situación patrimonial, deberá hacer pública la lista de aquellos ciudadanos que no la hubieren presentado en los términos y bajo las condiciones que establezca la Ley de Responsabilidades para los Servidores Públicos del Estado y sus Municipios.
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
-La ley señalará los términos de prescripción para exigir la responsabilidad administrativa, tomando en cuenta la naturaleza y consecuencia de los actos u omisiones a que hace referencia el artículo anterior. Cuando dichos actos u omisiones fuesen graves, los términos de prescripción no serán inferiores a tres años y tres meses.
+La ley señalará los términos de prescripción para exigir la responsabilidad administrativa, tomando en cuenta la naturaleza y consecuencia de los actos u omisiones a que hace referencia el artículo anterior. Cuando dichos actos u omisiones fuesen graves, los términos de prescripción serán los que establezca la ley general.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 24 DE JUNIO DE 2003)</small>
 
+### CAPITULO V. De la Responsabilidad Patrimonial del Estado y los Municipios
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2003)</small>
+
+Art. 107 bis.- La responsabilidad del Estado y de los municipios por los daños que, con motivo de su actividad administrativa irregular, causen en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+
 ### CAPÍTULO VI. DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO
 
-> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
-
-### CAPITULO I. Prevenciones generales
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### Art. 107 Ter.
 
-El Sistema Anticorrupción del Estado de Jalisco es la instancia de coordinación entre las autoridades estatales y municipales competentes en la prevención, detección y sanción de responsabilidades administrativas y actos de corrupción, así como la fiscalización y control de recursos públicos.
+El Sistema Anticorrupción del Estado de Jalisco es la instancia de coordinación entre las autoridades estatales y municipales competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como la fiscalización y control de recursos públicos, aplicando para tal efecto los tratados internacionales en materia anticorrupción de los que México sea parte y las leyes respectivas.
 
-El Sistema Estatal Anticorrupción tiene como objeto prevenir la corrupción con la finalidad de fortalecer el estado de derecho, la rendición de cuentas y la gobernanza para el desarrollo; aplicando para tal efecto los tratados internacionales en materia anticorrupción de los que México sea parte y las leyes respectivas.
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
+El Sistema Anticorrupción del Estado de Jalisco tiene por objeto prevenir la corrupción, con la finalidad de fortalecer el estado de derecho, la rendición de cuentas y la gobernanza para el desarrollo; así como establecer principios, bases generales, políticas públicas y procedimientos para la coordinación entre las autoridades estatales y municipales en la prevención, detección y sanción de faltas administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Es una instancia cuya finalidad es establecer, articular y evaluar la política en la materia, para lo cual se regirá bajo los principios de imparcialidad, certeza, legalidad, objetividad, eficiencia, profesionalismo, honradez, independencia, transparencia y publicidad.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 
@@ -2775,11 +2823,15 @@ I. El Sistema Anticorrupción del Estado de Jalisco contará con un Comité Coor
 
 a) Titular de la Auditoría Superior;
 
-b) Titular de la Fiscalía Especial en Combate a la Corrupción;
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
+b) Titular de la Fiscalía Especializada en Combate a la Corrupción;
 
 c) Titular de la Contraloría del Estado;
 
-d) Titular de la Presidencia del Tribunal de lo Administrativo;
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
+d) Titular de la Presidencia del Tribunal de Justicia Administrativa;
 
 e) Titular de la Presidencia del Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco;
 
@@ -2789,15 +2841,31 @@ g) Un representante del Comité de Participación Social.
 
 II. El Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la Ley.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE JULIO DE 2017)</small>
+
+III. Corresponderá al Comité Coordinador del Sistema Estatal Anticorrupción, en los términos que determine la Ley:
+
+a) El establecimiento de mecanismos de coordinación con el Sistema Nacional Anticorrupción y otras entidades federativas;
+
+b) El diseño y promoción de políticas integrales en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción, en especial sobre las causas que los generan;
+
+c) La determinación de los mecanismos de suministro, intercambio, sistematización y actualización de la información que sobre estas materias generen las instituciones competentes;
+
+d) El establecimiento de bases y principios para la efectiva coordinación de las autoridades en materia de fiscalización y control de los recursos públicos; y
+
+e) La elaboración de un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia. Derivado de este informe público, podrá emitir recomendaciones no vinculantes a las autoridades, con el objeto de que adopten medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como al mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al Comité sobre la atención que brinden a las mismas.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE JULIO DE 2017)</small>
+
 La ley determinará las bases de organización y funcionamiento del Sistema Anticorrupción del Estado de Jalisco.
 
 (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
 ## TITULO NOVENO. (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-### CAPITULO II. De las reformas a la Constitución
+### CAPITULO I. Prevenciones generales
 
-> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ###### Art. 108.
 
@@ -2907,7 +2975,7 @@ Las leyes, en sus respectivos ámbitos de aplicación, garantizarán el estricto
 
 (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-### CAPITULO III. De la inviolabilidad de esta Constitución
+### CAPITULO II. De las reformas a la Constitución
 
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -2926,6 +2994,10 @@ Las reformas y adiciones a esta Constitución podrán ser sometidas a referéndu
 Las reformas hechas en la Constitución Federal que afecten a esta Constitución, serán inmediatamente adoptadas por el Congreso y promulgadas sin más trámite.
 
 (REUBICADO, P.O. 28 DE ABRIL DE 1997)
+
+### CAPITULO III. De la inviolabilidad de esta Constitución
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ###### Art. 119.
 
@@ -3752,3 +3824,71 @@ P.O. 2 DE JUNIO DE 2017.
 PRIMERO. El presente decreto entrará en vigor el día de su publicación en el periódico oficial “El Estado de Jalisco”, salvo por lo dispuesto en el artículo siguiente.
 
 SEGUNDO. La reforma al artículo 13, fracción IV, de la Constitución Política del Estado entrará en vigor en julio de 2018.
+
+P.O. 18 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 26408/LXI/17 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO, EN MATERIA DE COMBATE A LA CORRUPCIÓN, ASÍ COMO ACUERDO LEGISLATIVO AL-1319-LXI-17".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco" sin perjuicio de lo previsto en los transitorios siguientes.
+
+SEGUNDO. El Congreso del Estado deberá expedir las leyes y realizar las adecuaciones normativas correspondientes a más tardar el 14 de septiembre de 2017 de conformidad con lo previsto en el presente Decreto.
+
+Asimismo se deberá de expedir la ley de responsabilidad ambiental en un término de 180 días a partir de la entrada en vigor del presente decreto.
+
+El Congreso del Estado, deberá emitir las convocatorias y proveer lo necesario, conforme a sus atribuciones, para que antes del 15 de diciembre de 2017 se encuentren nombradas las personas que ocuparán los cargos públicos creados conforme al presente Decreto.
+
+El Sistema Anticorrupción del Estado de Jalisco y los órganos que esta Constitución ha creado para su implementación y desempeño, deberán estar funcionando a más tardar el primero de enero de 2018.
+
+TERCERO. La reforma a los artículos 35 fracciones XVIII y XXXVI y 53 iniciará su vigencia en la misma fecha en que cobren vigencia las reformas a la Ley Orgánica del Poder Ejecutivo y a la Ley Orgánica de la Fiscalía General, ambas del Estado de Jalisco, necesarias para la implementación del presente, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Quien al momento de la entrada en vigor de este Decreto ocupe la titularidad de la Fiscalía General continuará en el cargo sujeto a la posible remoción directa por parte del Ejecutivo del Estado, en cuyo caso la designación del nuevo Fiscal General se realizará conforme a las disposiciones de esta reforma, sin que dicho interinato impida que pueda ser postulado para el cargo definitivo.
+
+En el proceso de transición de la Fiscalía General del Estado como dependencia del Ejecutivo del Estado a organismo constitucional autónomo a que se refiere este Decreto, serán respetados los derechos laborales así como los derivados de la relación jurídica administrativa del personal de la Fiscalía General del Estado, en los términos de ley.
+
+En tanto se elige al Fiscal Especializado en Combate a la Corrupción, el Fiscal Central será el facultado para substanciar los procesos de investigación relacionado (sic) por posibles hechos de corrupción.
+
+Con el objeto de que el periodo de renovación del cargo de Fiscal General y Fiscal Especializado en Combate a la Corrupción no coincidan y puedan escalonarse, por única ocasión, el Fiscal Especializado en Combate a la Corrupción durará en su cargo ocho años.
+
+Para la elección del Fiscal Especializado en Combate a la Corrupción, el Congreso del Estado emitirá una convocatoria pública abierta a la sociedad.
+
+CUARTO. En tanto se adecua la legislación secundaria en materia de responsabilidades administrativas y se designan a los magistrados del Tribunal de Justicia Administrativa, encargados de resolver los asuntos en esta materia, las salas unitarias del Tribunal de Justicia Administrativa tendrán las competencias que establece la Ley General de Responsabilidades Administrativas, para la resolución de juicios y recursos, a la que corresponderá conocer como primer instancia jurisdiccional; a su vez, el Pleno del Tribunal será competente para conocer de los recursos en contra de las resoluciones de las salas unitarias como segunda instancia jurisdiccional.
+
+Las referencias que hagan otras leyes y reglamentos al Tribunal de lo Administrativo, se entenderán hechas al Tribunal de Justicia Administrativa.
+
+Para la elección de los tres magistrados de la Sala Superior del Tribunal de Justicia Administrativa, se emitirá la convocatoria respectiva.
+
+Los magistrados que resulten electos para integrar la Sala Superior del Tribunal de Justicia Administrativa, serán electos por única ocasión de manera escalonada en los siguientes términos:
+
+a) Un primer magistrado durará en su cargo un periodo de cinco años,
+
+b) Un segundo magistrado durará en su cargo un periodo de seis años y
+
+c) Un tercer magistrado durará en su cargo un periodo de siete años.
+
+QUINTO. En tanto se adecua la legislación local en materia de responsabilidades administrativas, la Auditoría Superior del Estado, en el ejercicio de sus atribuciones, estará a lo dispuesto por lo establecido por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Jalisco y la Ley General de Responsabilidades Administrativas.
+
+En tanto se expida la ley estatal en materia de fiscalización superior, la revisión y los procedimientos de fiscalización de la cuenta pública se llevarán conforme a lo dispuesto por la legislación vigente al momento de presentar la cuenta pública.
+
+SEXTO. En tanto se nombran a los titulares de los órganos internos de control, asumirán sus competencias quienes hayan venido ejerciendo las atribuciones de los órganos de control disciplinario, contralorías o cualquier otro ente con funciones análogas cualquiera que sea su denominación.
+
+SÉPTIMO. El Congreso del Estado deberá elegir a los titulares de los órganos internos de control de los organismos constitucionales autónomos, conforme lo prevé la Constitución Política del Estado de Jalisco, una vez que realice la expedición o armonización legislativa correspondiente.
+
+El titular del órgano de control interno del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco que se encuentre en funciones a la entrada en vigor del mismo, continuará en su encargo en los términos en los que fue nombrado.
+
+OCTAVO. Los Comités Coordinador y de Participación Social del Sistema Anticorrupción del Estado de Jalisco deberán ser designados conforme a la ley que regule el Sistema Anticorrupción del Estado de Jalisco.
+
+Por única ocasión y con el propósito de lograr el escalonamiento en el nombramiento de los integrantes del Comité de Participación Social, la Comisión de Selección nombrará a los integrantes del Comité de Participación Social, en los términos siguientes:
+
+a) Un integrante que durará en su encargo un año, a quién corresponderá la representación del Comité de Participación Social ante el Comité Coordinador,
+
+b) Un integrante que durará en su encargo dos años,
+
+c) Un integrante que durará en su encargo tres años,
+
+d) Un integrante que durará en su encargo cuatro años, y
+
+e) Un integrante que durará en su encargo cinco años.
+
+NOVENO. El Poder Ejecutivo del Estado, deberá presentar ante el Congreso del Estado la iniciativa de decreto que contenga las adecuaciones presupuestales y administrativas del ejercicio fiscal en curso que resulten necesarias para la implementación de este Decreto y del Sistema Estatal Anticorrupción en términos de las disposiciones aplicables, en un plazo menor a ciento veinte días posteriores a su entrada en vigor; sin perjuicio de incluir en la iniciativa de Presupuesto de Egresos del Estado para el ejercicio fiscal del año 2018 las previsiones presupuestales necesarias para la implementación completa de esta reforma.
+
+DÉCIMO. Los procedimientos de responsabilidad administrativa iniciados con anterioridad a la entrada en vigor de la Ley General de Responsabilidades Administrativas continuarán desahogándose y serán concluidos conforme a las disposiciones de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
