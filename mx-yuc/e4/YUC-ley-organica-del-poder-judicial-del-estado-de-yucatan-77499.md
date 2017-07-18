@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-del-poder-judicial-del-estado-de-yucatan-77499"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-24"
-last_updated: "2016-12-28"
+last_updated: "2017-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE JULIO DE 2017.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el miércoles 24 de noviembre de 2010.
 
@@ -59,11 +59,11 @@ Los tribunales del Estado deberán emitir resoluciones de manera pronta, complet
 
 Competencia de los tribunales locales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 18 DE JULIO DE 2017)</small>
 
 ###### Artículo 3.
 
-Corresponde al Poder Judicial del Estado de Yucatán, la atribución de impartir justicia y aplicar leyes y normas de carácter general en materias constitucional, civil, familiar, mercantil, de justicia para adolescentes, penal, fiscal, administrativa, laboral y en los asuntos de carácter federal, cuando expresamente las leyes, convenios y acuerdos que resulten aplicables, le confieran jurisdicción; así como de expedir las disposiciones reglamentarias de esta ley, en los términos que establece la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado y demás leyes que de ellas deriven.
+Corresponde al Poder Judicial del Estado de Yucatán, la atribución de impartir justicia y aplicar leyes y normas de carácter general en materias constitucional, civil, familiar, mercantil, de justicia para adolescentes, penal, laboral y en los asuntos de carácter federal, cuando expresamente las leyes, convenios y acuerdos que resulten aplicables, le confieran jurisdicción; así como de expedir las disposiciones reglamentarias de esta ley, en los términos que establece la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado y demás leyes que de ellas deriven.
 
 También le corresponde la solución de controversias a través de mecanismos alternativos, por conducto del Centro Estatal de Solución de Controversias, en los términos de la legislación aplicable.
 
@@ -75,11 +75,11 @@ El Poder Judicial del Estado contará con el Consejo de la Judicatura, órgano e
 
 Litigantes
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 18 DE JULIO DE 2017)</small>
 
 ###### Artículo 5.
 
-En materia civil, familiar, mercantil y administrativa, los litigantes deberán estar asesorados por abogado o licenciado en derecho con título o cédula legalmente expedidos. Podrán nombrar pasantes de derecho que puedan oír y recibir notificaciones e imponerse de autos.
+En materia civil, familiar y mercantil, los litigantes deberán estar asesorados por abogado o licenciado en derecho con título o cédula legalmente expedidos. Podrán nombrar pasantes de derecho que puedan oír y recibir notificaciones e imponerse de autos.
 
 En materia penal y de justicia de adolescentes, la defensa del imputado y del adolescente en conflicto con la ley penal, respectivamente, deberá ser realizada por abogado o licenciado en derecho, con título o cédula legalmente expedidos.
 
@@ -159,11 +159,11 @@ Las sentencias ejecutoriadas de los tribunales del Estado deberán acatarse en s
 
 Integración general
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 18 DE JULIO DE 2017)</small>
 
 ###### Artículo 15.
 
-El ejercicio de la función jurisdiccional del Poder Judicial del Estado se deposita en el Tribunal Constitucional, el Tribunal Superior de Justicia, el Tribunal de Justicia Fiscal y Administrativa, el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, los tribunales y juzgados de primera instancia y los juzgados de paz.
+El ejercicio de la función jurisdiccional del Poder Judicial del Estado se deposita en el Tribunal Constitucional, el Tribunal Superior de Justicia, el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, los tribunales y juzgados de primera instancia y los juzgados de paz.
 
 > <small>(REFORMADO, D.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
@@ -735,83 +735,35 @@ IX.- Formular el Manual de Operación de la Unidad y los demás que se requieran
 
 X.- Las demás que le confiera el Pleno y otras disposiciones legales aplicables.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 28 DE JUNIO DE 2014)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, D.O. 18 DE JULIO DE 2017)</small>
 
 ### CAPÍTULO I. Disposiciones generales
 
-> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
-
-Objeto y naturaleza del tribunal
-
 ### CAPÍTULO II. Del Pleno del Tribunal de Justicia Fiscal y Administrativa
-
-> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
-
-Funcionamiento del tribunal
 
 ## TÍTULO TERCERO. DEL TRIBUNAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 18 DE JULIO DE 2017)</small>
+
 ###### Artículo 60.
 
-El Tribunal de Justicia Fiscal y Administrativa es la máxima autoridad jurisdiccional en materia contencioso-administrativa y de responsabilidades de los servidores públicos en el Estado de Yucatán. Contará con plena autonomía en el dictado de sus resoluciones, las cuales serán definitivas e inatacables.
-
-> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
-
-Competencia territorial e integración
+(DEROGADO, D.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 61.
 
-El Tribunal de Justicia Fiscal y Administrativa tendrá competencia en todo el estado de Yucatán, residirá en su capital y se integrará con tres magistrados, con sus respectivos suplentes, quienes entrarán en funciones en términos de la ley y reglamentos aplicables, en ausencia del magistrado titular.
-
-> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
-
-Disposiciones aplicables a los magistrados
+(DEROGADO, D.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 62.
 
-Son aplicables a los magistrados del Tribunal de Justicia Fiscal y Administrativa, las disposiciones contenidas en el capítulo cuarto del título primero de esta ley, sin perjuicio de lo que la legislación aplicable disponga.
-
-> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
-
-Administración, vigilancia y disciplina
+(DEROGADO, D.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 63.
 
-El nombramiento del personal, así como la administración, vigilancia y disciplina del Tribunal de Justicia Fiscal y Administrativa estará a cargo de una comisión especial del Consejo de la Judicatura, integrada por el presidente de dicho tribunal y dos miembros del Consejo de la Judicatura, el cual tendrá, en lo conducente, las atribuciones que esta ley establece al pleno del consejo.
-
-El funcionamiento de esta comisión se regirá por los acuerdos generales que al efecto emita el pleno de Tribunal de Justicia Fiscal y Administrativa.
-
-> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
-
-Competencia del tribunal
+(DEROGADO, D.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 64.
 
-Corresponde al Tribunal de Justicia Fiscal y Administrativa del Poder Judicial, a través del Pleno, conocer y resolver lo siguiente:
-
-I.- Controversias de carácter administrativo y fiscal que se susciten entre la administración pública centralizada y los particulares;
-
-II.- Controversias de carácter administrativo y fiscal que se susciten entre la administración pública paraestatal del Estado y los particulares;
-
-III.- De los juicios que se promuevan en contra de los actos administrativos que dicten, ordenen, ejecuten o traten de ejecutar las autoridades del Poder Ejecutivo del Estado y de los Municipios y organismos públicos descentralizados, las Empresas de Participación Estatal mayoritaria y los Fideicomisos Públicos estatales o municipales;
-
-IV.- De los juicios que se promuevan en contra de los actos fiscales que dicten, ordenen, ejecuten o traten de ejecutar las autoridades del Poder Ejecutivo del Estado y de los Municipios;
-
-V.- De los juicios contra resoluciones dictadas por las autoridades administrativas o fiscales del Poder Ejecutivo del Estado y de los Municipios en los recursos ordinarios establecidos por las Leyes y Reglamentos respectivos;
-
-VI.- De los juicios de impugnación contra las resoluciones de responsabilidad por faltas administrativas sancionadoras dirigidas a servidores públicos del Poder Ejecutivo, de los Municipios y de los organismos públicos descentralizados, las Empresas de Participación Estatal mayoritaria y los Fideicomisos Públicos, en los términos de la Ley de la materia;
-
-VII.- De los juicios de impugnación contra la resolución del recurso de revocación de la responsabilidad por faltas administrativas sancionadoras dirigidas a servidores públicos del Poder Ejecutivo, de los Municipios y de los organismos públicos descentralizados, las Empresas de Participación Estatal mayoritaria y los Fideicomisos Públicos, en los términos de la Ley de la materia;
-
-VIII.- De los juicios que se promuevan en contra de las resoluciones negativas fictas en materia administrativa y fiscal, que se configuren por el silencio de las autoridades del Poder Ejecutivo, de los Municipios y de los organismos públicos descentralizados, las Empresas de Participación Estatal mayoritaria y los Fideicomisos Públicos, para dar respuesta a la instancia de un particular en el plazo que la ley fija;
-
-IX.- Del recurso de reclamación en contra de los autos de admisión o desechamiento de la demanda ante el Tribunal de Justicia Fiscal y Administrativa o de su ampliación y del auto que admita o deseche la contestación o su ampliación, así como del que admita o rechace pruebas;
-
-X.- De los juicios que promueva la administración pública Estatal o Municipal o sus autoridades, para que sean modificadas las resoluciones administrativas o fiscales favorables a un particular, provenientes de autoridades diferentes a este Tribunal.
-
-XI.- Del incumplimiento de las sentencias del Tribunal de Justicia Fiscal y Administrativa, y
-
-XII.- De los demás juicios o procedimientos que se promuevan en contra de los actos o resoluciones que las leyes consideren como competencia del Tribunal de Justicia Fiscal y Administrativa.
+(DEROGADO, D.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 65.
 
@@ -825,145 +777,45 @@ XII.- De los demás juicios o procedimientos que se promuevan en contra de los a
 
 (DEROGADO, D.O. 28 DE JUNIO DE 2014)
 
-> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
-
-Legislación aplicable
-
 ###### Artículo 68.
 
-Los juicios que se promuevan ante el Tribunal de Justicia Fiscal y Administrativa se sustanciarán y resolverán con arreglo al procedimiento que señale las leyes aplicables en la materia.
-
-> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
-
-Supletoriedad
+(DEROGADO, D.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 69.
 
-A falta de disposición expresa y en cuanto no se oponga a lo que prescribe la ley aplicable en la materia, se estará a lo dispuesto por el Código de Procedimientos Civiles del Estado.
-
-> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
-
-Sustanciación y sentencia
+(DEROGADO, D.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 70.
 
-Los asuntos que conozca el Tribunal de Justicia Fiscal y Administrativa serán sustanciados por el magistrado ponente quien lo pondrá en estado de resolución, y la sentencia será dictada por su Pleno.
-
-> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
-
-Organización del tribunal
+(DEROGADO, D.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 71.
 
-El Tribunal de Justicia Fiscal y Administrativa estará organizado conforme lo establece la Constitución Política del Estado de Yucatán, esta ley, el reglamento interno y demás acuerdos que emita su pleno para su adecuado funcionamiento.
-
-El Tribunal de Justicia Fiscal y Administrativa contará con secretarios de acuerdos, secretarios de estudio y cuenta, actuarios, oficiales de partes y demás funcionarios judiciales que sean necesarios acorde a las necesidades del trabajo y del presupuesto, según lo disponga la comisión especial respectiva.
-
-> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
-
-Funciones del tribunal
+(DEROGADO, D.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 72.
 
-El Tribunal de Justicia Fiscal y Administrativa tendrá las atribuciones que establecen este ordenamiento y las demás que establezcan otros ordenamientos jurídicos aplicables.
+(DEROGADO, D.O. 18 DE JULIO DE 2017)
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 28 DE JUNIO DE 2014)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 18 DE JULIO DE 2017)</small>
 
 ###### Artículo 73.
 
-El Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado, funcionará en Pleno y requerirá la presencia de dos magistrados, incluido el presidente, para sesionar. Las sesiones para resolver asuntos de su competencia serán públicas o privadas, y sus resoluciones se tomarán por mayoría de votos. En caso de empate, el presidente tendrá voto de calidad.
-
-> <small>(ADICIONADO SU EPÍGRAFE, D.O. 28 DE JUNIO DE 2014)</small>
-
-Atribuciones del pleno del tribunal
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE JUNIO DE 2014)</small>
+(DEROGADO, D.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 74.
 
-Son atribuciones del Pleno del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado, las siguientes:
+(DEROGADO, D.O. 18 DE JULIO DE 2017)
 
-> <small>(REFORMADA, D.O. 28 DE JUNIO DE 2014)</small>
-
-I.- Elegir, de entre los magistrados que lo integran, a su presidente, para un plazo de cuatro años, de conformidad con su reglamento interno;
-
-II.- Aprobar el anteproyecto de presupuesto correspondiente y remitirlo al Consejo de la Judicatura;
-
-III.- Convocar, a propuesta del Presidente, a los Magistrados suplentes cuando así proceda;
-
-IV.- Designar o remover, a propuesta del Presidente del Tribunal, a los Secretarios de Acuerdos, conforme a lo que establezca el Reglamento de Carrera Judicial;
-
-V.- (DEROGADA, D.O. 28 DE JUNIO DE 2014)
-
-VI.- (DEROGADA, D.O. 28 DE JUNIO DE 2014)
-
-VII.- (DEROGADA, D.O. 28 DE JUNIO DE 2014)
-
-VIII.- (DEROGADA, D.O. 28 DE JUNIO DE 2014)
-
-> <small>(REFORMADA, D.O. 28 DE JUNIO DE 2014)</small>
-
-IX.- Calificar y resolver las excusas que presenten sus magistrados así como conocer y resolver respecto de las licencias que estos le presenten, dictando las medidas que se estimen pertinentes;
-
-> <small>(REFORMADA, D.O. 28 DE JUNIO DE 2014)</small>
-
-X.- Representar legalmente al Tribunal; comisionar, delegar u otorgar poderes, según corresponda; y encomendar la realización de diligencias, incluso las que deban practicarse fuera del tribunal;
-
-XI.- Aplicar las sanciones pecuniarias y administrativas de su competencia previstas en la Ley;
-
-XII.- (DEROGADA, D.O. 28 DE JUNIO DE 2014)
-
-XIII.- Expedir su reglamento interno que complemente su organización y funcionamiento, así como los acuerdos generales necesarios para su adecuado desempeño.
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 28 DE JUNIO DE 2014)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 18 DE JULIO DE 2017)</small>
 
 ###### Artículo 75.
 
-El Presidente del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado tendrá las siguientes atribuciones:
-
-> <small>(REFORMADA, D.O. 28 DE JUNIO DE 2014)</small>
-
-I.- Presidir las sesiones del Pleno del Tribunal, y, en su caso, dirigir los debates y procurar la conservación del orden durante su desarrollo. Cuando los asistentes no guarden la compostura debida, podrá ordenar el desalojo de los presentes y la continuación de la sesión en privado; esta misma disposición la podrá hacer valer el magistrado ponente cuando sustancie algún asunto a su cargo.
-
-> <small>(REFORMADA, D.O. 28 DE JUNIO DE 2014)</small>
-
-II.- Convenir con la instancia correspondiente las acciones de capacitación del personal adscrito al tribunal;
-
-III.- Despachar la correspondencia del Tribunal;
-
-IV.- Vigilar que se cumplan las determinaciones del Pleno;
-
-> <small>(REFORMADA, D.O. 28 DE JUNIO DE 2014)</small>
-
-V.- Someter al Pleno del Tribunal de Justicia Fiscal y Administrativa el anteproyecto de presupuesto elaborado por la comisión especial encargada de la administración del tribunal y posteriormente remitirlo al Presidente del Consejo de la Judicatura para su inclusión en el proyecto de Presupuesto del Poder Judicial del Estado;
-
-VI.- Gestionar los recursos humanos, financieros y materiales necesarios para su buen funcionamiento;
-
-VII.- Tomar las medidas necesarias para coordinar las funciones jurisdiccionales y administrativas del Tribunal;
-
-VIII.- Turnar los asuntos que deba conocer el Tribunal para la sustanciación de los expedientes de conformidad con el proceso específico establecido por la Ley de la materia o reglamento interno aplicable a cada caso concreto;
-
-IX.- (DEROGADA, D.O. 28 DE JUNIO DE 2014)
-
-X.- (DEROGADA, D.O. 28 DE JUNIO DE 2014)
-
-> <small>(REFORMADA, D.O. 28 DE JUNIO DE 2014)</small>
-
-XI.- Presidir la Comisión Especial del Consejo de la Judicatura, tramitar los asuntos de la competencia del Tribunal y turnar los expedientes a sus integrantes para que se substancie el procedimiento y los proyectos de resolución, y
-
-> <small>(REFORMADA, D.O. 28 DE JUNIO DE 2014)</small>
-
-XII.- Las demás que considere pertinentes para el correcto funcionamiento del tribunal.
+(DEROGADO, D.O. 18 DE JULIO DE 2017)
 
 ## TÍTULO CUARTO. DEL TRIBUNAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS
 
 ### CAPÍTULO III. Del Presidente del Tribunal de Justicia Fiscal y Administrativa
-
-> <small>(REFORMADO SU EPÍGRAFE, D.O. 28 DE JUNIO DE 2014)</small>
-
-Atribuciones del Presidente del Tribunal de Justicia Fiscal y Administrativa
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE JUNIO DE 2014)</small>
 
 ###### Artículo 76.
 
@@ -1925,13 +1777,13 @@ VI.- Las demás que establezca la legislación aplicable y el Pleno del Consejo.
 
 #### Sección Primera. De la visitaduría
 
-> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
 
 Naturaleza
 
 ###### Artículo 149.
 
-La Visitaduría del Consejo de la Judicatura está encargada de inspeccionar la actividad del Tribunal de Justicia Fiscal y Administrativa, del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, de los tribunales y juzgados de Primera Instancia y de los juzgados de paz así como supervisar el desempeño de los servidores públicos adscritos a dichos órganos.
+La Visitaduría del Consejo de la Judicatura está encargada de inspeccionar la actividad del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, de los tribunales y juzgados de primera Instancia y de los juzgados de paz así como de supervisar el desempeño de los servidores públicos adscritos a dichos órganos.
 
 Titular de la visitaduría
 
@@ -1971,9 +1823,9 @@ La visitaduría tendrá las siguientes atribuciones:
 
 I.- Vigilar la debida prestación del servicio de impartición de justicia conforme los acuerdos generales que emita el Pleno del Consejo y lo establecido en esta Ley;
 
-> <small>(REFORMADA, D.O. 28 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, D.O. 18 DE JULIO DE 2017)</small>
 
-II.- Realizar visitas administrativas, ordinarias o extraordinarias al Tribunal de Justicia Fiscal y Administrativa, al Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, a los tribunales y juzgados de primera instancia y juzgados de paz;
+II.- Realizar visitas administrativas, ordinarias o extraordinarias al Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, a los tribunales y juzgados de primera instancia y juzgados de paz;
 
 III.- Revisar los libros, registros, controles, bitácoras y demás documentos relativos a la función jurisdiccional cuya vigilancia tenga encomendada, con el propósito de verificar que se encuentren en orden, actualizados y con todos los datos establecidos por la normativa aplicable;
 
@@ -2033,9 +1885,9 @@ IV.- Inspeccionar y vigilar el cumplimiento de las normas relativas a los sistem
 
 V.- Administrar el sistema de registro y actualización de la situación patrimonial de los servidores públicos del Poder Judicial, en coordinación con el encargado de la unidad respectiva en el Tribunal Superior de Justicia;
 
-> <small>(REFORMADA, D.O. 28 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, D.O. 18 DE JULIO DE 2017)</small>
 
-VI.- Intervenir en la entrega y recepción de bienes y documentos cuando ocurran cambios de titulares en las direcciones, órganos técnicos del Consejo de la Judicatura, en el Tribunal de Justicia Fiscal y Administrativa, en el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, en los tribunales y juzgados de primera instancia y en los juzgados de paz; de lo que se levantará un acta para constancia;
+VI.- Intervenir en la entrega y recepción de bienes y documentos cuando ocurran cambios de titulares en las direcciones, órganos técnicos del Consejo de la Judicatura, en el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, en los tribunales y juzgados de primera instancia y en los juzgados de paz; de lo que se levantará un acta para constancia;
 
 VII.- Dictaminar las bajas y el destino final de bienes en los inventarios de activo fijo, en coordinación con la Dirección de Administración y Finanzas;
 
@@ -2269,13 +2121,13 @@ XII.- (DEROGADA, D.O. 11 DE SEPTIEMBRE DE 2012)
 
 El Reglamento de Carrera Judicial determinará las categorías de la carrera judicial que surjan con motivo del nuevo sistema penal.
 
-> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
 
 Inclusión
 
 ###### Artículo 177.
 
-El personal jurisdiccional del Tribunal de Justicia Fiscal y Administrativa y del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios formará parte de la carrera judicial.
+El personal jurisdiccional del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios formará parte de la carrera judicial.
 
 Requisitos
 
@@ -2540,3 +2392,41 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Obligación normativa
 
 El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
+
+D.O. 18 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 511/2017 POR EL QUE SE EXPIDE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE YUCATÁN Y SE MODIFICAN LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN Y LA LEY DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el 19 de julio de 2017, cuando lo haga la Ley General de Responsabilidades Administrativas, en términos del Decreto 380/2016 por el que se que (sic) modifica la Constitución Política del Estado de Yucatán, en materia de anticorrupción y transparencia.
+
+Segundo. Obligación normativa
+
+El Poder Judicial del Estado de Yucatán deberá realizar las modificaciones pertinentes a su normativa interna para armonizarla a las disposiciones de este decreto, en un plazo de ciento ochenta días naturales contado a partir de su entrada en vigor.
+
+Tercero. Expedición de disposiciones reglamentarias
+
+El Tribunal de Justicia Administrativa del Estado de Yucatán deberá expedir las disposiciones reglamentarias necesarias para la debida implementación de este decreto dentro de los ciento ochenta días naturales siguientes a su entrada en vigor.
+
+Cuarto. Vigencia de disposiciones internas
+
+Los acuerdos de organización interna, el otorgamiento de poderes generales o especiales y acuerdos delegatorios emitidos por el Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán permanecerán vigentes, por lo que serán entendidos respecto del Tribunal de Justicia Administrativa del Estado de Yucatán. Los Magistrados que continúan como tales ahora en el Tribunal de Justicia Administrativa del Estado de Yucatán, entrarán de inmediato en funciones sin necesidad de rendir compromiso constitucional en virtud de haberlo hecho en su oportunidad.
+
+Quinto. Referencias al tribunal
+
+Cuando otras disposiciones legales mencionen o contemplen la figura del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán se entenderán referidas al Tribunal de Justicia Administrativa del Estado de Yucatán.
+
+Sexto. Pleno del tribunal
+
+El pleno del Tribunal de Justicia Administrativa del Estado de Yucatán queda facultado para proveer lo necesario y resolver lo que pueda necesitarse para el debido cumplimiento de la presente ley en el ámbito de sus atribuciones.
+
+Séptimo. Derechos adquiridos
+
+En cumplimiento del tercer párrafo del artículo octavo transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 27 de mayo de 2015, y décimo cuarto transitorio del Decreto 380/2016 por el que se modifica la Constitución Política del Estado de Yucatán, publicado en el diario oficial del estado el 20 de abril de 2016, con el objeto de no afectar los derechos adquiridos de los magistrados del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán, estos continuarán como magistrados del organismo autónomo denominado Tribunal de Justicia Administrativa del Estado de Yucatán, exclusivamente por el tiempo por el que fueron nombrados, conservando las obligaciones a su cargo y las prerrogativas establecidas a su favor en los artículos 97 de la Constitución Política del Estado de Yucatán; 10, 11, 13, 170 y 171 primer párrafo de la Ley Orgánica del Poder Judicial del Estado de Yucatán en vigor a la fecha de la publicación de este decreto.
+
+Octavo. Presidencia del tribunal
+
+El presidente del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán que se encuentre en funciones a la entrada en vigor de este decreto, asumirá el cargo de presidente del Tribunal de Justicia Administrativa del Estado de Yucatán, para continuar durante el período para el que fue elegido.
+
+NOVENO.- Se deroga toda disposición de igual o menor rango en lo que se oponga a la presente ley.
