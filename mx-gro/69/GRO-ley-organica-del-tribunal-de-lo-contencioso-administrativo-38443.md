@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-tribunal-de-lo-contencioso-administrativo-3844
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-03-09"
-last_updated: "2009-06-19"
+last_updated: "2017-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO, NUMERO 194
 
-LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO, NUMERO 194
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO DÉCIMO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUERRERO NÚMERO 467, PUBLICADA EN EL P.O. DE 18 DE JULIO DE 2017; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL DÍA PRIMERO DE ENERO DEL AÑO DOS MIL DIECIOCHO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JUNIO DE 2009.
+LEY ORGÁNICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO, NUMERO 194
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 9 de marzo de 2004.
 
@@ -33,7 +35,7 @@ Que el H. Congreso Local, se ha servido comunicarme que,
 
 CONSIDERANDOS
 
-PRIMERO.- Que el signatario de la presente propuesta, conforme lo establecen los artículos 50 fracción I y 74 fracción I Y XXXVIII de la Constitución Política del Estado Libre y Soberano de Guerrero, se encuentra plenamente facultado para iniciar la presente Ley.
+PRIMERO.- Que el signatario de la presente propuesta, conforme lo establecen los artículos 50 fracción I y 74 fracción I y XXXVIII de la Constitución Política del Estado Libre y Soberano de Guerrero, se encuentra plenamente facultado para iniciar la presente Ley.
 
 SEGUNDO.- Que la Comisión Ordinaria de Justicia, conforme lo establecen los artículos 51 de la Constitución Política Local, 46, 49 fracción VI, 129,132,133, y demás relativos y aplicables de la Ley Orgánica del Poder Legislativo en Vigor, es competente para analizar, discutir y emitir el dictamen que recayó a la iniciativa que nos ocupa.
 
@@ -205,7 +207,7 @@ DECIMO QUINTO.- Se propone modificar la denominación del capítulo III, para pr
 
 ### CAPITULO III
 
-De los Permisos, Licencias, Suspenciones y Terminación de la Relación Laboral.
+De los Permisos, Licencias, Suspensiones y Terminación de la Relación Laboral.
 
 ###### ARTICULO 34.
 
@@ -833,8 +835,42 @@ C. MAYOR LUIS LEON APONTE.
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 19 DE JUNIO DE 2009.
 
 ÚNICO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periodo Oficial del Gobierno del Estado.
+
+P.O. 18 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUERRERO NÚMERO 467”.]
+
+Primero. La presente ley, entrará en vigor a partir del día primero de enero del año dos mil dieciocho.
+
+Segundo. La implementación de los juicios en línea e instalación de las salas para las audiencias del procedimiento de los juicios orales, quedarán sujeto (sic) a que el Tribunal de Justicia Administrativa del Estado de Guerrero, cuente con la infraestructura y condiciones necesarias para su operación.
+
+Tercero. Los recursos humanos, materiales, financieros y presupuestales con que cuenta el Tribunal de lo Contencioso Administrativo, incluyendo todos sus bienes muebles e inmuebles pasan a formar parte del patrimonio del Tribunal de Justicia Administrativa del Estado de Guerrero.
+
+Cuarto. Los Magistrados del Tribunal de lo Contencioso Administrativo que a la entrada en vigor de la presente ley se encuentren en ejercicio de sus cargos continuarán en ellos hasta concluir el periodo para el cual fueron designados de acuerdo con la ley que se abroga. Al término de dicho periodo, entregarán la magistratura sin perjuicio de que el Tribunal pueda proponerlos previa evaluación de su desempeño de ser elegibles para ser nombrados como magistrados en términos de lo dispuesto por esta ley.
+
+Quinto. Los servidores públicos que venían ejerciendo cargos administrativos que desaparecen o se transforman conforme a lo dispuesto por esta Ley, continuarán desempeñando los mismos cargos hasta que el Pleno de la Sala Superior acuerde la creación de los nuevos órganos administrativos y decida sobre las designaciones mediante acuerdos específicos.
+
+Sexto. El Reglamento Interior del Tribunal de Justicia Administrativa del Estado de Guerrero se aprobará por el Pleno de la Sala Superior en un plazo de noventa días a partir de la entrada en vigor de esta Ley.
+
+Séptimo. Todas las referencias que en las leyes se haga al Tribunal de lo Contencioso Administrativo del Estado de Guerrero, se entenderán referidas al Tribunal de Justicia Administrativa del Estado de Guerrero.
+
+Octavo. Los Magistrados que previo a la vigencia de la presente ley se encuentren en activo, podrán retirarse voluntariamente y tendrán derecho a percibir un haber, en los siguientes términos:
+
+I. Tener doce años o más de servicio efectivo como Magistrado, con un haber del 50%;
+
+II. Tener quince años o más de servicio efectivo como Magistrado, con un haber del 75%; y
+
+III. Tener veinte años o más de servicio efectivo como Magistrado, con un haber del 100%.
+
+El porcentaje del haber se calculará tomando como base el salario integrado que perciba al momento de su retiro, el cual se actualizará de acuerdo con los aumentos otorgados a los Magistrados en ejercicio.
+
+Noveno. El Estatuto del Servicio de Carrera Jurisdiccional se aprobará por el Pleno de la Sala Superior en noventa días contados a partir de que entre en vigor el Reglamento Interior del Tribunal de Justicia Administrativa del Estado de Guerrero.
+
+Décimo. Se abroga la Ley Orgánica del Tribunal de lo Contencioso Administrativo del Estado de Guerrero número 194, publicada en el Periódico Oficial del Gobierno del Estado de Guerrero, número 22 de fecha nueve de marzo de dos mil cuatro.
+
+Décimo primero. Los asuntos que se encuentren en trámite serán sustanciados y resueltos con la ley vigente en el momento de su inicio.
