@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-la-administracion-publica-de-yucatan-57283"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-10-16"
-last_updated: "2017-05-08"
+last_updated: "2017-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # CODIGO DE LA ADMINISTRACION PUBLICA DE YUCATAN
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 8 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE JULIO DE 2017.
 
 Código publicado en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 16 de octubre de 2007.
 
@@ -97,11 +99,17 @@ El Gobernador del Estado podrá convocar a reuniones a los titulares de las depe
 
 El Gobernador del Estado y los titulares de las dependencias y entidades de la Administración Pública, deben establecer los mecanismos necesarios para que en la definición de las políticas e instrumentación de planes, programas y acciones de gobierno exista una vinculación permanente entre éstas, los ciudadanos y las organizaciones de la sociedad civil.
 
+> <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
+
 ###### Artículo 8.
 
-Las dependencias y entidades que integran la Administración Pública del Estado, deben contar con áreas u órganos internos encargadas de formular, evaluar, analizar y dar seguimiento de los presupuestos, planes, programas y acciones que les correspondan de conformidad con las disposiciones legales aplicables.
+Las dependencias y entidades que integran la Administración Pública del Estado, deben contar con áreas encargadas de formular, evaluar, analizar y dar seguimiento a los presupuestos, planes, programas y acciones que les correspondan de conformidad con las disposiciones legales aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Los órganos de control interno asignados a las dependencias y entidades tendrán como función apoyar la política de control interno y la toma de decisiones relativas al cumplimiento de los objetivos y políticas institucionales, así como al óptimo desempeño de servidores públicos y órganos, a la modernización continua y desarrollo eficiente de la gestión administrativa y al correcto manejo de los recursos públicos.
+
+Las áreas de recursos humanos o sus equivalentes en las dependencias y entidades, deberán comunicar a la Secretaría de la Contraloría General, por escrito o en el sistema electrónico que implemente para tal efecto, las fechas en que inician o concluyen en el ejercicio de su empleo, cargo o comisión los servidores públicos obligados a presentar la declaración de situación patrimonial y de intereses, así como la modificación del cargo o función que realicen, la comisión que se les encomiende, cuando derivado de dichas funciones o comisiones deban cumplir con esta obligación, especificando las razones que dan lugar a ello.
+
+Los órganos de control interno, en ejercicio de su función de auditoría, se regirán por las leyes y disposiciones sobre adquisiciones, obra pública, presupuesto, contabilidad, procedimiento administrativo, transparencia y acceso a la información, responsabilidades, combate a la corrupción y otras afines a la materia y por las bases y principios de coordinación que emitan los comités coordinadores de los sistemas nacional y estatal anticorrupción y las secretarías de la Contraloría General y de Administración y Finanzas, respecto de dichos asuntos, así como sobre la organización, funcionamiento y supervisión de los sistemas de control interno, mejora de gestión en las dependencias y entidades de la Administración Pública estatal y presentación de informes por parte de dichos órganos.
 
 > <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 2015)</small>
 
@@ -109,21 +117,25 @@ Las dependencias y entidades que integran la Administración Pública del Estado
 
 La coordinación con la Administración Pública Federal, respecto de la planeación, programación, presupuestación y ejecución de los programas y proyectos de inversión, cuando proceda, se realizará a través de los órganos del Consejo de Planeación y Evaluación del Estado de Yucatán.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 10.
 
 Las políticas generales en materia de administración y desarrollo de personal y prestación del servicio social en las dependencias y entidades de la Administración Pública serán formuladas, aplicadas y coordinadas por la Secretaría de Administración y Finanzas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 11.
 
 Las dependencias y entidades de la Administración Pública deben coordinarse para desarrollar actividades de cooperación técnica, administrativa e intercambio de información, sujetándose en materia contable a las normas que determine la Secretaría de Administración y Finanzas.
+
+> <small>(ADICIONADO, D.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 11 Bis.
+
+El titular de cada dependencia y los órganos de gobierno de las entidades paraestatales expedirán los manuales de organización, de procedimientos y de servicios al público necesarios para su funcionamiento, los que deberán contener información sobre la estructura orgánica de la dependencia o entidad y las funciones de sus unidades administrativas, así como sobre los sistemas de comunicación y coordinación y los principales procedimientos administrativos que se establezcan. Los manuales y demás instrumentos de apoyo administrativo interno deberán mantenerse permanentemente actualizados.
+
+Los manuales de organización general deberán publicarse en el diario oficial del estado, mientras que los manuales de procedimientos y de servicios al público deberán estar disponibles para consulta de los usuarios y de los propios servidores públicos en los sitios web de las dependencias y entidades.
 
 ### CAPÍTULO III. Del Gobernador
 
@@ -191,8 +203,6 @@ XV.- Crear nuevas dependencias y separar, unir o transformar las existentes, en 
 
 XVI.- Las demás que le confieran otras disposiciones legales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 15.
@@ -217,8 +227,6 @@ El Gobernador del Estado resolverá cualquier duda que se presente sobre compete
 
 ### CAPÍTULO IV. De las Ausencias Temporales del Gobernador
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 18.
@@ -233,21 +241,15 @@ En el supuesto del artículo anterior y además para el caso de ausencia del Sec
 
 ## TÍTULO I. DEL DESPACHO DEL GOBERNADOR
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 ### CAPÍTULO ÚNICO. De las Atribuciones
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 20.
 
 El titular del Poder Ejecutivo del estado, para el adecuado cumplimiento de sus facultades, contará con el Despacho del Gobernador, que será una unidad administrativa de apoyo y estará integrado en términos del reglamento de este código y demás disposiciones aplicables.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 2015)</small>
 
@@ -275,27 +277,19 @@ Para el estudio, planeación y despacho de los asuntos, en los diversos ramos de
 
 I.- Secretaría General de Gobierno;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 II.- Secretaría de Administración y Finanzas;
 
 III.- Consejería Jurídica;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 IV.- (DEROGADA, D.O. 5 DE DICIEMBRE DE 2012)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 V.- (DEROGADA, D.O. 5 DE DICIEMBRE DE 2012)
 
 VI.- Secretaría de Salud;
 
 VII.- Secretaría de Educación;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
@@ -315,8 +309,6 @@ XIII.- Secretaría de Fomento Económico;
 
 XIV.- Secretaría de Fomento Turístico;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XV.- Secretaría de Desarrollo Rural;
@@ -334,8 +326,6 @@ XVIII.- Secretaría de Investigación, Innovación y Educación Superior;
 > <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
 XIX.- Secretaría del Trabajo y Previsión Social, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
@@ -362,8 +352,6 @@ En los juicios de amparo, el Gobernador del Estado podrá ser representado por e
 ###### Artículo 24.
 
 Corresponde a los titulares de las dependencias la representación legal de la misma, el trámite y resolución de los asuntos de su competencia; sin embargo, para la mejor organización del trabajo y la realización de las tareas, obras y servicios públicos, podrán delegar cualquiera de sus funciones, excepto aquellas que por disposición de la Ley o del reglamento de este Código, deban ser ejercidas por los propios titulares.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
@@ -400,8 +388,6 @@ III.- Formular y mantener actualizada la documentación legal de la dependencia 
 IV.- Intervenir y suscribir los actos, contratos y convenios que se refieran a la Dependencia que les corresponda;
 
 V.- Nombrar y remover a los Subsecretarios, Directores y demás personal de la Secretaría que les corresponda, salvo en aquellos casos en que este Código o alguna ley aplicable establezca lo contrario;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
@@ -449,31 +435,21 @@ XX.- Resolver los Recursos Administrativos de Revisión, que se presenten contra
 
 XXI.- Nombrar a los servidores públicos de la Dependencia que fungirán como enlaces ante el Consejo Estatal de Mejora Regulatoria;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XXII.- Inscribir en el Padrón de Trámites y Servicios Estatales todos los trámites o servicios que se ofrezcan y presten a los ciudadanos y mantenerlos actualizados;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XXIII.- Garantizar el uso eficiente de los recursos al interior de su dependencia conforme a los criterios de austeridad y de calidad del gasto público;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XXIV.- Participar en el Sistema de Gabinete Sectorizado y ejecutar los acuerdos y resoluciones que se tomen en el seno del mismo, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XXV.- Los demás que dispongan las leyes, reglamentos, convenios de colaboración administrativa celebrados o que se celebren, relativos a la dependencia a su cargo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 2015)</small>
 
@@ -557,31 +533,21 @@ XXVIII.- Establecer la coordinación con el Gobierno Federal y los municipios en
 
 XXIX.- Ejercer las funciones de prevención, planeación, programación y las demás que le confiere la Ley de Protección Civil del Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XXX.- Ejercer las funciones que en materia de transporte en el Estado le concede la Ley de la materia;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XXXI.- Ejecutar las medidas políticas y administrativas que el Titular del Poder Ejecutivo estime convenientes, para la mejor organización y funcionamiento del Gobierno del Estado, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XXXII.- Coordinar entre todas las dependencias y entidades de la Administración Pública Estatal la aplicación de las políticas y lineamientos dispuestos por el Titular del Poder Ejecutivo en materia de comunicación social.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 ### CAPÍTULO II. De la Secretaría de Administración y Finanzas
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
@@ -591,19 +557,13 @@ A la Secretaría de Administración y Finanzas le corresponde el despacho de los
 
 I.- Sustituir al Secretario General de Gobierno en materia de refrendo cuando aquél esté a cargo de las funciones del Titular del Ejecutivo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 II.- Establecer y difundir las normas, políticas, lineamientos, programas y manuales para la óptima administración de los recursos humanos, materiales y financieros; la formulación presupuestal; el ejercicio del gasto público; los relacionados con los servicios de la Administración Pública Estatal, así como vigilar su cumplimiento;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 III.- Aprobar las estructuras orgánicas y ocupacionales de las dependencias y entidades de la Administración Pública del Estado y sus modificaciones, así como llevar su registro;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
@@ -612,8 +572,6 @@ IV.- Planear y programar en coordinación con los titulares de las dependencias 
 V.- Coordinarse con el Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado de Yucatán, para el eficaz otorgamiento de servicios y prestaciones a que tienen derecho los servidores públicos del Gobierno del Estado;
 
 VI.- Coordinar la prestación del Servicio Social en las dependencias y entidades de la administración pública;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
@@ -647,119 +605,89 @@ XVII.- Administrar y mantener actualizado el padrón de proveedores de bienes y 
 
 XVIII.- Las atribuciones establecidas en la Ley de Mejora Regulatoria del Estado de Yucatán;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XIX.- Establecer el Calendario Oficial de días inhábiles del Gobierno del Estado;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XX.- Formular y establecer las políticas públicas que deberán observar las dependencias y entidades del Poder Ejecutivo en las materias de Modernización de la Gestión Pública, Sistemas de Gestión de Calidad, Prestación de Servicios Públicos y de Innovación Gubernamental;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XXI.- Coordinar los apoyos logísticos y operativos de los actos cívicos y los eventos a los que asista el Gobernador del Estado, dentro o fuera de la entidad; conjuntamente con el Despacho del Gobernador, las dependencias y entidades de la Administración Pública del Estado y los sectores social y privado;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 2015)</small>
 
 XXII.- Elaborar y presentar al titular del Poder Ejecutivo el anteproyecto de ley de ingresos y de presupuesto de egresos del Gobierno del estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XXIII.- Vigilar el cumplimiento de la política fiscal por parte de la Agencia de Administración Fiscal de Yucatán, encargada de recaudar los ingresos de carácter fiscal que establezcan las leyes del Estado y aquellos otros ingresos cuyo cobro le corresponda al Gobierno Estatal en virtud de los convenios fiscales o por delegación de facultades;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XXIV.- Tramitar y resolver los recursos administrativos en la esfera de su competencia y representar al Estado en los juicios que se tramiten ante cualquier Tribunal cuando tenga interés la Hacienda Pública del Estado y no corresponda al ámbito de competencia de la Agencia de Administración Fiscal de Yucatán;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XXV.- Intervenir en los actos, contratos y convenios de coordinación fiscal con la Federación, en términos de las leyes respectivas;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XXVI.- Llevar la contabilidad de la Hacienda Pública del Estado y elaborar y publicar la información financiera resultante;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XXVII.- Efectuar las erogaciones conforme a las ministraciones autorizadas en el Presupuesto de Egresos, ejercer el control presupuestal, regular el gasto público y evaluar el ejercicio de los egresos;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XXVIII.- Dirigir la negociación, administrar, establecer y llevar el registro de la deuda pública directa del Poder Ejecutivo del Estado; llevar el registro de la deuda indirecta de las entidades paraestatales y de los municipios conforme las disposiciones legales aplicables;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XXIX.- Promover, organizar y realizar estudios de planeación financiera para las dependencias y entidades de la Administración Pública Estatal, así como también, aquellos que tengan como propósito incrementar los ingresos y mejorar los sistemas de control fiscal;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XXX.- Aplicar las disposiciones legales, y establecer los lineamientos para el manejo de ingresos, egresos, fondos y valores a cargo de las dependencias y entidades de la Administración Pública del Estado y en general, de todos aquellos organismos que administren recursos públicos; así como custodiar los documentos que integran los valores, acciones y otros que pertenezcan al patrimonio del Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XXXI.- Aplicar las disposiciones legales y dictar medidas para llevar el control, supervisión, vigilancia y evaluación del desempeño de la Agencia de Administración Fiscal del Estado;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XXXII.- Integrar y formular la Cuenta Pública Anual del Gobierno del Estado, garantizando el cumplimiento de los criterios y lineamientos de la armonización contable;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XXXIII.- Emitir opinión respecto a los montos globales de los subsidios y estímulos fiscales que otorgue el Estado;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XXXIV.- Gestionar y administrar los ingresos y egresos provenientes de las contribuciones locales, las participaciones en los ingresos federales que le correspondan al Estado, las aportaciones federales, transferencias, reasignaciones presupuestales y apoyos extraordinarios que otorgue la federación, en los términos de las normas aplicables y los convenios relativos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XXXV.- Realizar los estudios técnicos y económicos de factibilidad de los proyectos de inversión pública, y en general, todos aquellos que sean requeridos por el Gobernador del Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, D.O. 18 DE JULIO DE 2017)</small>
 
-> <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
+XXXVI.- Asesorar a las dependencias y entidades de la Administración Pública Estatal, a los Municipios, en la interpretación y aplicación de las leyes tributarias, así como realizar una labor permanente de difusión y orientación fiscal;
 
-XXXVI.- Asesorar a las dependencias y entidades de la Administración Pública Estatal, a los Municipios, en la interpretación y aplicación de las leyes tributarias, así como realizar una labor permanente de difusión y orientación fiscal, y
+> <small>(REFORMADA, D.O. 18 DE JULIO DE 2017)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XXXVII.- Vigilar la aplicación de los lineamientos de racionalidad del gasto y control administrativo, que realicen los titulares o funcionarios análogos, responsables de las áreas de administración y finanzas de las dependencias referidas en el artículo 22 de este Código; y en las entidades de la Administración Pública Paraestatal;
 
-> <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
+> <small>(ADICIONADA, D.O. 18 DE JULIO DE 2017)</small>
 
-XXXVII.- Vigilar la aplicación de los lineamientos de racionalidad del gasto y control administrativo, que realicen los titulares o funcionarios análogos, responsables de las áreas de administración y finanzas de las dependencias referidas en el artículo 22 de este Código; y en las entidades de la Administración Pública Paraestatal.
+XXXVIII.- Emitir dictamen presupuestal respecto a la creación o modificación de las estructuras orgánicas y ocupacionales de las dependencias y entidades de la Administración Pública del estado, y
+
+> <small>(ADICIONADA, D.O. 18 DE JULIO DE 2017)</small>
+
+XXXIX.- Definir la política de gobierno digital, gobierno abierto y datos abiertos en el ámbito de las dependencias y entidades de la Administración Pública estatal.
 
 ### CAPÍTULO III. De la Consejería Jurídica
 
@@ -845,25 +773,17 @@ XXIX.- Realizar investigaciones y análisis jurídicos, estudios de derecho comp
 
 XXX.- Llevar el registro de firmas autógrafas de los funcionarios estatales y legalizar las firmas de éstos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 ### CAPÍTULO IV. De la Secretaría de Hacienda
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 33.
 
 (DEROGADO, D.O. 5 DE DICIEMBRE DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 ### CAPÍTULO V. De la Secretaría de Planeación y Presupuesto
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 34.
 
@@ -1065,13 +985,9 @@ XLIII.- Establecer los mecanismos para que los ciudadanos en general, padres de 
 
 XLIV.- Fomentar y realizar todo tipo de actividades relativas a la promoción de la lectura para el mejoramiento del logro educativo de los estudiantes, conforme al Programa Nacional de Lectura y Biblioteca Básica de Yucatán.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 ### CAPÍTULO VIII. De la Secretaría de Desarrollo Social
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
@@ -1079,29 +995,21 @@ XLIV.- Fomentar y realizar todo tipo de actividades relativas a la promoción de
 
 A la Secretaría de Desarrollo Social le corresponde el despacho de los siguientes asuntos:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 I.- Conducir la política social del Estado e integrar los acuerdos de coordinación a nivel sectorial en materia de desarrollo social, conjuntamente con los niveles del Gobierno Federal y Municipal; así como promover y acordar las acciones y programas de desarrollo social en el Estado en materia de salud, educación, vivienda, infraestructura social básica, atención a grupos vulnerables, entre otros aspectos relacionados con la superación del rezago social;
 
 II.- Diseñar coordinar, conducir y evaluar las políticas de desarrollo comunitario y sociales, encaminadas a combatir la pobreza, otorgar el acceso equitativo a las oportunidades de desarrollo, promover la formación de capital humano y crear mejores condiciones generales de vida para los habitantes del estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 III.- Coordinar y evaluar programas de política social encaminados a atender a los grupos más vulnerables de la sociedad, con prioridad en la atención de problemáticas relacionadas con niños, madres solteras, adultos mayores, migrantes y sus familias, así como personas con discapacidad;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 IV.- Impulsar y coordinar las acciones de organización social de la población en los ámbitos rural y urbano para facilitar su participación en la toma de decisiones con respecto a su propio desarrollo; así como promover la contraloría social de las acciones que se realicen en su localidad;
 
 V.- Analizar, evaluar y en su caso instrumentar las propuestas de desarrollo comunitario y social, resultantes de la participación de las diferentes organizaciones sociales y civiles favoreciendo el equilibrio en el desarrollo regional;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
@@ -1111,51 +1019,35 @@ VII.- Coordinar y vincular los programas comunitarios y de política social del 
 
 VIII.- Promover y coordinar una amplia participación social, en las acciones, programas y proyectos de su competencia;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 IX.- Proyectar y coordinar, con la participación que corresponda a los niveles del Gobierno Federal y Municipal, la planeación regional en materia de desarrollo social;
 
 X.- Regular las acciones que deriven de los convenios suscritos con el gobierno federal y con los municipios, cuyo objeto sea el desarrollo comunitario y social de las diversas regiones del Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XI.- Promover la inversión pública y privada que mejore el perfil productivo de las comunidades marginadas, como instrumento de política social de largo plazo;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XII.- Coordinarse con los ayuntamientos en materia de inversión para el desarrollo integral de las comunidades, por medio de los programas de obra, servicios e infraestructura;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XIII.- Promover el abastecimiento de productos de consumo básico entre la población de escasos recursos, así como su adecuada distribución y comercialización para contribuir al mejoramiento de sus condiciones de vida;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XIV.- Proporcionar asesoría y capacitación en materia de desarrollo comunitario y política social a las dependencias y entidades de la Administración Pública Estatal, a los municipios, así como a los sectores y grupos sociales y privados que lo requieran;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XV.- Formular, coordinar y evaluar estudios e investigaciones para identificar zonas marginadas y diseñar programas y estrategias para su desarrollo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 2015)</small>
 
 XVI.- Supervisar, controlar y evaluar los programas y acciones de desarrollo social, verificando los resultados e impactos obtenidos, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
@@ -1170,8 +1062,6 @@ A la Secretaría de Obras Públicas le corresponde el despacho de los siguientes
 > <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
 I.- Formular, regular, instrumentar, conducir y evaluar las políticas y programas de la ejecución de obras públicas que realicen las dependencias y entidades de la Administración Pública;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
@@ -1197,8 +1087,6 @@ XI.- Elaborar un banco de proyectos estatales y, en su caso, regionales con otra
 
 XII.- Integrar y regular el Sistema Estatal de Inversión de Obra Pública para la Infraestructura Física;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XIII.- Coordinarse con la Secretaría de Administración y Finanzas para proponer la actualización de los montos mínimos y máximos que deberán observarse en la adjudicación de los contratos de obra pública, cuando fuere necesario y en los términos de la ley reglamentaria;
@@ -1209,19 +1097,13 @@ XV.- (DEROGADA, D.O. 30 DE SEPTIEMBRE DE 2011)
 
 XVI.- Establecer el derecho de vía, autorizar la ejecución de obras dentro de la franja comprendida por éste, regular y administrar su aprovechamiento; otorgar, modificar, suspender y revocar permisos para la construcción de accesos a la franja, así como vigilar que se respeten todas las disposiciones legales al respecto;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XVII.- Participar en la realización de los estudios encaminados a determinar los tipos de medios de transporte y las características de los vehículos que deban transitar en la red carretera de jurisdicción estatal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XVIII.- Supervisar que las obras públicas se ejecuten conforme a las normas técnicas, especificaciones, proyectos, programas correspondientes y, en su caso, a lo establecido en los contratos de obra, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 5 DE DICIEMBRE DE 2012)</small>
 
@@ -1307,31 +1189,21 @@ XIV.- Coadyuvar con la Secretaría General de Gobierno en el adecuado funcionami
 
 XV.- Participar, conforme a los convenios respectivos, en el traslado de internos de los centros de reclusión en el Estado;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, D.O. 2 DE MAYO DE 2016)</small>
 
 XVI.- Verificar el cumplimiento de las leyes y reglamentos con relación a las funciones de tránsito y protección civil;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, D.O. 2 DE MAYO DE 2016)</small>
 
 XVII.- Coordinarse con las demás dependencias del Ejecutivo para generar la infraestructura necesaria para la profesionalización de los cuerpos de seguridad pública;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, D.O. 2 DE MAYO DE 2016)</small>
 
 XVIII.- Realizar, bajo la coordinación de la Fiscalía General del Estado, la investigación de los hechos que la ley señale como delito, de manera objetiva, técnica, científica y sin dilaciones; y elaborar los registros de las diligencias efectuadas, para la integración de la carpeta de investigación;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, D.O. 2 DE MAYO DE 2016)</small>
 
 XIX.- Realizar las detenciones en flagrancia así como las ordenadas por la Fiscalía General del Estado por casos urgentes, en los términos de la Constitución Política de los Estados Unidos Mexicanos y de la ley procesal; y elaborar el registro de las detenciones, y
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, D.O. 2 DE MAYO DE 2016)</small>
 
@@ -1389,8 +1261,6 @@ XIV.- Desarrollar el potencial productivo de los recursos naturales no renovable
 
 XV.- Promover la organización de las sociedades productivas, proporcionando el apoyo especializado necesario para tal objeto;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 XVI.- (DEROGADA, D.O. 16 DE DICIEMBRE DE 2015)
 
 XVII.- Implementar la adecuada vigilancia, control y demás acciones en coordinación con las dependencias concurrentes en materia de desarrollo económico;
@@ -1445,13 +1315,9 @@ XVII.- Determinar los mecanismos necesarios para la creación, conservación, me
 
 XVIII.- Promover, apoyar y fomentar actividades artísticas y culturales, enfocándolas a la actividad turística.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 ### CAPÍTULO XV. De la Secretaría de Desarrollo Rural
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
@@ -1459,19 +1325,13 @@ XVIII.- Promover, apoyar y fomentar actividades artísticas y culturales, enfoc�
 
 A la Secretaría de Desarrollo Rural le corresponde el despacho de los siguientes asuntos:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 I.- Integrar la planeación del sector agropecuario en el Estado, así como fomentar y organizar actividades agropecuarias, forestales y agroindustriales, procurando la coordinación de acciones y programas con los gobiernos federal y municipales, y la concertación con los sectores social y privado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 II.- Diseñar, implementar, y supervisar el programa de asistencia técnica y de acompañamiento a productores agropecuarios, así como ejecutar las acciones de asesoría especializada dirigida a éstos, en los procedimientos del manejo de insumos, maquinaria, técnicas de producción, administración, innovaciones tecnológicas, financiamiento, seguros, promoción y comercialización;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
@@ -1483,13 +1343,9 @@ IV.- Conducir y evaluar las acciones para elevar el nivel de vida de los product
 
 V.- Dirigir, dar seguimiento y controlar la ejecución de los programas de fomento y promoción del desarrollo agropecuario y agroindustrial, así como promover la creación de empleos en el medio rural y el incremento de la productividad y la rentabilidad de las actividades económicas del campo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 VI.- Diseñar, instrumentar y operar los servicios y apoyos a los productores agropecuarios, en materia de financiamiento, asistencia técnica, organización y capacitación, así como los servicios de distribución de semillas, fertilizantes, árboles frutales y centrales de maquinaria agrícola, entre otros, estableciendo, en su caso, Unidades Regionales de Desarrollo Rural para la atención de los usuarios en la gestión del financiamiento, la prestación de apoyos, y el enlace de las distintas ventanillas de atención de las instancias federales vinculadas al sector agropecuario;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
@@ -1497,25 +1353,17 @@ VII.- Coordinar las acciones de conformidad con las disposiciones establecidas e
 
 VIII.- Implantar las medidas de control para la movilización de productos agropecuarios que garanticen la protección sanitaria del sector;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 IX.- Promover y gestionar el financiamiento para el desarrollo agropecuario, bajo esquemas de coordinación y mezcla de recursos que potencien los resultados e impulsen la participación de los sectores público, social y privado en proyectos para el desarrollo agropecuario, forestal, agroindustrial, y permitan la creación de empresas que vinculen a los inversionistas con los productores;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 X.- Ejercer las atribuciones y funciones derivadas de los convenios celebrados con la Administración Pública Federal, los municipios y asociaciones en materia agropecuaria, forestal, y agroindustrial, verificar su debido cumplimiento, así como enlazar las acciones de las diferentes ventanillas de financiamiento del sector, para evitar la duplicidad de acciones;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XI.- Obtener, procesar y difundir la información estadística y geográfica de las actividades del sector agropecuario, así como diseñar, instrumentar y operar el Sistema Estatal de Estadística Agropecuaria y un Sistema de Información de Mercados que apoye la toma de decisiones de inversión de los productores, en coordinación con los diferentes órdenes de gobierno;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
@@ -1523,31 +1371,21 @@ XII.- Promover y apoyar la organización económica de los productores agropecua
 
 XIII.- Apoyar y conservar los cultivos tradicionales con potencial productivo y orientar la explotación agrícola hacia la productividad y competitividad, de manera que atienda las demandas local, nacional e internacional;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XIV.- Apoyar los procesos de comercialización de productos agropecuarios y forestales, con énfasis en la integración de las cadenas productivas y el impulso a inversiones estratégicas en los procesos agroindustriales que generen valor agregado y mejores condiciones de venta para los productores agropecuarios del Estado, así como apoyar y operar los componentes y servicios de apoyo a la comercialización que se establezcan, en coordinación con el Gobierno Federal;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XV.- Impulsar y apoyar las investigaciones científicas en materia agropecuaria y forestal, en colaboración con las instituciones de investigación y educación superior, así como promover nuevos proyectos de investigación sobre temas y/o productos estratégicos en el Estado y la transferencia de nuevas tecnologías productivas a los productores;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XVI.- Programar, apoyar, realizar, conservar, operar y mejorar las obras de infraestructura para impulsar el desarrollo agropecuario;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XVII.- Promover la participación organizada de los productores y la conservación, operación y mejoramiento de las obras de infraestructura agropecuaria;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
@@ -1555,19 +1393,13 @@ XVIII.- Impulsar la asociación y la organización de productores agropecuarios 
 
 XIX.- Integrar, llevar y actualizar los diversos directorios, padrones de productores, registros ganaderos de marcas, fierros y señales, así como de laboratorios, rastros y empacadoras;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XX.- Promover el establecimiento de un sistema de certificación de origen y calidad de los productos agropecuarios de la Entidad;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XXI.- Ejecutar y supervisar las acciones de fomento e inversión, mediante proyectos que promuevan la capitalización, el desarrollo tecnológico, el aumento de la producción, la productividad, la organización y la gestión de los productores agropecuarios;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
@@ -1575,37 +1407,25 @@ XXII.- Organizar y apoyar los congresos, ferias y concursos que se desarrollen e
 
 XXIII.- Capacitar a los productores rurales, a efecto de propiciar la transferencia tecnológica, la implementación de sistemas administrativos y de esquemas de organización educativos adecuados para una mejor producción y su vinculación efectiva con los procesos de comercialización;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XXIV.- Conducir las políticas generales de fomento, regulación, conservación, integración y organización del sector pesquero y acuícola, a través del órgano desconcentrado especializado, en coordinación con las instancias federales correspondientes y los gobiernos municipales;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XXV.- Fomentar y coordinar con la participación de las dependencias correspondientes, los programas de promoción de las exportaciones y la inversión en los sectores agropecuario y forestal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XXVI.- Diseñar, instrumentar y operar el Registro Único de Usuarios y Obras del Sector Agropecuario, en coordinación con los tres niveles de gobierno, así como con los sectores social y privado;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XXVII.- Formular e integrar programas técnicos y de inversión agrícola, adecuados a las necesidades estatales y a la correcta programación de las inversiones rurales y el desarrollo de sistemas-producto, así como apoyar la formulación y evaluación técnico-económica de proyectos agropecuarios presentados por los productores de este rubro;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XXVIII.- Coordinar los Comités Estatales de Control Fitosanitario y Zoosanitario, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
@@ -1685,85 +1505,73 @@ XXXII.- Vigilar el cumplimiento, con la participación que corresponda a otras a
 
 ### CAPÍTULO XVII. De la Secretaría de la Contraloría General
 
+> <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
+
 ###### Artículo 46.
 
 A la Secretaría de la Contraloría General le corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+I.- Conocer e investigar por sí, o por conducto de los órganos de control interno, las conductas de los servidores públicos de la Administración Pública estatal que puedan constituir responsabilidades administrativas, así como substanciar los procedimientos e imponer o solicitar la imposición de las medidas cautelares correspondientes conforme a lo establecido en la legislación aplicable en materia de responsabilidades administrativas; para lo cual podrá aplicar las sanciones que correspondan en los casos que no sean de la competencia del Tribunal de Justicia Administrativa del Estado de Yucatán y, cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante ese tribunal; así como presentar las denuncias correspondientes ante la Vicefiscalía Especializada en Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones aplicables;
 
-I.- Conocer e investigar los actos, omisiones o conductas de las personas que ejerzan o hayan ejercido funciones como servidores públicos, que pudieran constituir responsabilidades administrativas e iniciar y resolver los procedimientos y, en su caso, imponer y aplicar las sanciones a que hace referencia la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán, y cuando fuere procedente, presentar las denuncias o querellas correspondientes ante el Ministerio Público y prestar para el efecto la colaboración que le fuere requerida;
+II.- Imponer la sanción económica y administrativa correspondiente, en los casos que no sean de la competencia del Tribunal de Justicia Administrativa del Estado de Yucatán, al licitante, inversionista, proveedor, prestador o proveedor de bienes y servicios o contratista de obra, que infrinja las disposiciones legales aplicables que regulen la materia que corresponda y, en su caso, ordenar la exclusión del padrón o registro correspondiente;
 
-> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+III.- Supervisar y evaluar la implementación del sistema de control interno; auditar y revisar el ejercicio del gasto público estatal y su congruencia con los presupuestos de egresos;
 
-II.- Suspender, previamente o durante el procedimiento administrativo, al Servidor Público a quién se atribuya haber incurrido en una o más infracciones, si fuere conveniente para la oportuna conducción o continuación de las investigaciones;
+IV.- Formular y establecer las normas de control y fiscalización y vigilar su cumplimiento; así como asesorar y apoyar a los órganos de control interno en las dependencias y entidades de la Administración Pública estatal, y en su caso, requerirles la aplicación de normas complementarias para el ejercicio de sus facultades, sin menoscabo de las bases y principios de coordinación y recomendaciones que emitan los comités coordinadores de los sistemas nacional y estatal anticorrupción;
 
-> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+V.- Establecer las bases generales para la realización de auditorías en las dependencias y entidades de la Administración Pública estatal; y expedir las normas que regulen los instrumentos y procedimientos en dichas materias;
 
-III.- Imponer la sanción económica y administrativa al licitante, inversionista proveedor, prestador o proveedor de bienes y servicios y/o contratista de obra, que infrinja las disposiciones legales aplicables que regulen la materia que corresponda y, en su caso, ordenar la exclusión del padrón o registro correspondiente;
+VI.- Practicar las auditorías y revisiones a las dependencias y entidades de la Administración Pública estatal, conforme al programa de trabajo o cuando la situación lo requiera, así como a los fondos y programas que operen;
 
-IV.- Planear, organizar y coordinar el sistema de control y evaluación estatal en relación al ejercicio del gasto público estatal y su congruencia con el presupuesto de egresos, las políticas y los programas gubernamentales;
+VII.- Llevar el registro de servidores públicos del estado obligados a presentar declaración de situación patrimonial; recibir y registrar sus declaraciones patrimoniales y de intereses; verificar su contenido, según sea el caso; y registrar la información sobre las sanciones administrativas que, en su caso, les hayan sido impuestas;
 
-V.- Formular y establecer las normas de control y fiscalización y vigilar su cumplimiento; así como asesorar y apoyar a los órganos de control interno de las dependencias de la Administración Pública Estatal, y en su caso, requerirles la aplicación de normas complementarias para el ejercicio de sus facultades;
+VIII.- Designar a los comisarios o sus equivalentes en los órganos de vigilancia que integran la Administración Pública paraestatal; quienes dependerán administrativa y presupuestalmente de esta secretaría; recabando directamente la información que generen con motivo de su actividad;
 
-VI.- Establecer las bases generales para la realización y práctica de auditorias en las dependencias y entidades de la Administración Publica Estatal;
+IX.- Coordinarse con la Auditoría Superior del Estado de Yucatán para el establecimiento de normas, sistemas y procedimientos para el cumplimiento eficaz de sus respectivas responsabilidades;
 
-VII.- Practicar auditorias a las dependencias y, en su caso, entidades de la Administración Pública que manejen fondos y valores, previo acuerdo escrito del Gobernador, verificando el destino de los fondos públicos que de manera directa o transferida ejerza el Estado;
+X.- Presentar los informes que solicite el Comité Coordinador del Sistema Estatal Anticorrupción, en el ámbito de su competencia, así como informar trimestralmente al titular del Ejecutivo, del resultado de las revisiones que realice al ingreso, manejo, custodia y ejercicio de recursos públicos estatales, y promover las medidas correctivas que procedan;
 
-VIII.- Recibir las declaraciones patrimoniales de los servidores públicos y, en su caso, realizar las investigaciones y de ser procedentes, hacer las denuncias que correspondan;
+XI.- Vigilar, en colaboración con las autoridades que integren el Comité Coordinador del Sistema Estatal Anticorrupción, el cumplimiento de las normas de control interno y fiscalización, en el ámbito de su competencia;
 
-IX.- Designar a los comisarios o sus equivalentes en los órganos de vigilancia que integran las entidades de la administración pública paraestatal, quienes dependerán administrativa y presupuestalmente de esta Secretaría; recabando directamente la información que generen con motivo de su actividad;
+XII.- Intervenir en todo cambio de titulares de las dependencias del Ejecutivo, así como de las entidades de la Administración Pública paraestatal, para efectos de verificar la correcta ejecución del proceso de entrega y recepción y de transferencias, en los términos de las disposiciones legales, aplicando, en su caso, las responsabilidades en que incurran los funcionarios e imponer la sanción correspondiente;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XIII.- Evaluar, supervisar y verificar, física y financieramente, el avance e información de los programas de inversión y obra pública, así como la aplicación de los recursos a ellos destinados que deberán haber sido autorizados previamente conforme a las disposiciones legales en la materia;
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
+XIV.- Evaluar, dar seguimiento e intervenir en los procesos de conciliación en materia de obra pública, así como emitir observaciones vinculatorias;
 
-X.- Coordinarse con la Auditoría Superior del Estado de Yucatán para el establecimiento de normas, sistemas y procedimientos para el cumplimiento eficaz de sus respectivas responsabilidades;
+XV.- Organizar y conducir el servicio de recepción para la atención de quejas y denuncias que presenten los ciudadanos en general en contra de los servidores públicos del estado;
 
-XI.- Informar trimestralmente al Titular del Ejecutivo del resultado de las evaluaciones de los programas que realicen las dependencias y entidades, y aplicar las medidas correctivas que procedan;
+XVI.- Nombrar y remover a los titulares de los órganos de control interno de las dependencias y entidades de la Administración Pública, quienes dependerán administrativa y presupuestalmente de esta secretaría y, en su caso, a los titulares de las áreas de auditoría, quejas y responsabilidades de dichos órganos;
 
-XII.- Inspeccionar y vigilar directamente o a través de los órganos de control interno, que las dependencias y entidades de la Administración Pública Estatal cumplan con las normas y disposiciones en (sic) materia inherentes a su competencia;
+XVII.- Participar en los comités de adquisiciones, arrendamientos y servicios y de obras públicas de las dependencias y entidades de la Administración Pública del estado, emitiendo opiniones, debidamente sustentadas, tendientes al cumplimiento de las disposiciones jurídicas que regulan dichas materias, según corresponda, así como el ejercicio del presupuesto;
 
-XIII.- Intervenir en todo cambio de titulares de las dependencias del Ejecutivo, así como de las entidades de la Administración Pública Paraestatal, para efectos de verificar la correcta ejecución del proceso de entrega y recepción, en los términos de las disposiciones legales, aplicando en su caso, las responsabilidades en que incurran los funcionarios e imponer la sanción correspondiente;
+XVIII.- Conocer, substanciar y resolver las quejas que presenten quienes tengan interés jurídico, contra los actos de los procedimientos de contratación de licitación pública o de invitación a cuando menos tres personas, que realicen las dependencias y entidades en las materias de proyectos de prestación de servicios, adquisiciones, arrendamientos y prestación de servicios y de obra pública y servicios conexos, en los casos en que las leyes le otorguen competencia para ello;
 
-XIV.- Evaluar, supervisar, verificar, física y financieramente, el avance e información de los programas de inversión y obra pública, así como la aplicación de los recursos a ellos destinados que deberán haber sido autorizados previamente conforme a las disposiciones legales en la materia;
+XIX.- Celebrar convenios con la Secretaría de la Función Pública para llevar a cabo acciones de fiscalización, auditoría, inspección, control y vigilancia, así como para realizar actos administrativos que coadyuven en el cumplimiento de las disposiciones legales aplicables del ejercicio de recursos públicos federales;
 
-XV.- Evaluar, dar seguimiento e intervenir en los procesos de conciliación en materia de obra pública, así como emitir observaciones vinculatorias;
+XX.- Actuar como enlace y realizar las auditorías que se acuerden con la Secretaría de la Función Pública y la Auditoría Superior de la Federación, respecto a la fiscalización de recursos federales que se ejerzan en el estado;
 
-XVI.- Dictaminar sobre los cambios de organización y procedimientos que propongan los titulares de las dependencias y entidades de la Administración Pública del Estado, que impliquen modificaciones a su estructura básica, su reglamento interior y sus manuales de procedimientos;
+XXI.- Celebrar convenios de coordinación y colaboración con la federación, entidades federativas y municipios, para impulsar la instrumentación y fortalecimiento del sistema de control y evaluación de la gestión pública y registro de servidores públicos así como la participación de los ciudadanos en acciones de contraloría social de los programas de desarrollo social;
 
-XVII.- Organizar y conducir el servicio de recepción para la atención de quejas y denuncias que presenten los ciudadanos en general en contra de los servidores públicos del Estado;
+XXII.- Interpretar y difundir, en el ámbito de su competencia, la aplicación de las leyes de la materia y otras disposiciones legales que le competan a la Secretaría de la Contraloría General;
 
-> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+XXIII.- Fiscalizar que las dependencias y entidades de la Administración Pública estatal cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y remuneraciones de personal, contratación de adquisiciones, arrendamientos, arrendamiento financiero, servicios y ejecución de obra pública, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de la Administración Pública estatal;
 
-XVIII.- Nombrar y remover, previo acuerdo con el Titular del Poder Ejecutivo del Estado, a los responsables de las Unidades de Contraloría Interna de las dependencias y entidades de la Administración Pública, quienes dependerán administrativamente y presupuestalmente de esta Secretaría;
+XXIV.- Colaborar en el marco de los sistemas nacional y estatal anticorrupción y del Sistema Nacional de Fiscalización, en el establecimiento de las bases y principios de coordinación necesarios, que permitan el mejor cumplimiento de las responsabilidades de sus integrantes;
 
-> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+XXV.- Implementar las acciones que acuerden los sistemas nacional y estatal anticorrupción, en términos de las disposiciones aplicables;
 
-XIX.- Participar en los comités de adquisiciones, arrendamientos y servicios y de obras públicas de las dependencias y entidades de la Administración Pública del Estado, emitiendo opiniones debidamente sustentadas tendientes al cumplimiento de las disposiciones jurídicas que regulan dichas materias, según corresponda, así como el ejercicio del presupuesto;
+XXVI.- Establecer mecanismos internos para la Administración Pública estatal que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas;
 
-> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+XXVII.- Proporcionar asesoría normativa con carácter preventivo en los procedimientos de contratación regulados por la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles y la Ley de Obra Pública y Servicios Conexos del Estado de Yucatán que realicen las dependencias y entidades de la Administración Pública estatal;
 
-XX.- Conocer y resolver sobre las inconformidades que se promuevan contra los actos que se lleven a cabo en los procedimientos de contratación de licitación pública o de invitación a cuando menos tres personas que realicen las dependencias y entidades en las materias de proyectos de prestación de servicios, adquisiciones, arrendamientos y prestación de servicios y de obra pública y servicios conexos y actuar en las conciliaciones en los términos en que la Ley así lo prevea;
+XXVIII.- Promover, con la intervención que corresponda a otras dependencias de la Administración Pública estatal, la coordinación y cooperación con los Poderes Legislativo y Judicial, los órganos constitucionales autónomos, la federación y los municipios y demás entes públicos encargados de regímenes de contratación pública, a efecto de propiciar en lo procedente la homologación de políticas, normativas y criterios en materia de contrataciones públicas, que permita contar con un sistema de contrataciones públicas articulado a nivel estatal;
 
-> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+XXIX.- Conducir, conforme a las bases de coordinación que establezcan los comités coordinadores de los sistemas Nacional y Estatal Anticorrupción, acciones que propicien la integridad y la transparencia en la gestión pública, la rendición de cuentas y el acceso por parte de los particulares a la información que se genere en la Administración Pública estatal; así como promover dichas acciones hacia la sociedad;
 
-XXI.- Celebrar convenios con la Secretaría de la Función Pública para llevar a cabo acciones de fiscalización, auditoría, inspección, control y vigilancia, así como para realizar actos administrativos que coadyuven en el cumplimiento de las disposiciones legales aplicables del ejercicio de recursos públicos federales;
+XXX.- Implementar las políticas de coordinación que promuevan los comités coordinadores de los sistemas Nacional y Estatal Anticorrupción, en materia de combate a la corrupción en la Administración Pública estatal, y
 
-> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
-
-XXII.- Actuar como enlace y realizar las auditorías que se acuerden con la Secretaría de la Función Pública y la Auditoría Superior de la Federación, respecto a la fiscalización de recursos federales que se ejerzan en el Estado;
-
-> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
-
-XXIII.- Celebrar convenios de coordinación y colaboración con la Federación, Entidades Federativas y Municipios, para impulsar la instrumentación y fortalecimiento del sistema de control y evaluación de la gestión pública y registro de servidores públicos así como la participación de los ciudadanos en acciones de contraloría social de los programas de desarrollo social;
-
-> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
-
-XXIV.- Interpretar y difundir en el ámbito de su competencia, la aplicación de las leyes de la materia y otras disposiciones legales que le competa a la Secretaría de la Contraloría General, y
-
-> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
-
-XXV.- Los demás que le atribuyan expresamente las leyes y reglamentos.
+XXXI.- Emitir el código de ética de los servidores públicos del estado y las reglas de Integridad para el ejercicio de la función pública.
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO], D.O. 14 DE OCTUBRE DE 2015)</small>
 
@@ -1891,8 +1699,6 @@ XI.- Revisar, previa solicitud de la parte interesada, el contenido de los contr
 
 XII.- Desarrollar y ejecutar programas en materia de trabajo, de conformidad con la normatividad aplicable;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 2015)</small>
 
 XIII.- Proponer políticas en materia laboral con visión regional y local que impulsen estrategias y líneas de acción que contribuyan a mejorar la productividad, la ocupación, el empleo, la capacitación, el adiestramiento, la salud e higiene, así como todas las medidas institucionales que persigan el fortalecimiento de la productividad en el estado;
@@ -1913,13 +1719,9 @@ XX.- Fomentar y apoyar la organización social para el trabajo y autoempleo, y
 
 XXI.- Aplicar las disposiciones que por Ley, Decreto, Acuerdo o Convenio se le confieran, así como aquellas que le asigne el Gobernador del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 ### CAPÍTULO XX. De la Secretaría de la Cultura y las Artes
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
@@ -2021,8 +1823,6 @@ La Administración Pública Paraestatal está conformada por los organismos púb
 
 Son organismos públicos descentralizados las instituciones creadas por disposición del Congreso del Estado o por Decreto del Titular del Ejecutivo del Estado, con personalidad jurídica y patrimonio propio, sin distinción de la forma o estructura legal que adopten.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 16 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 50.
@@ -2044,6 +1844,10 @@ Tratándose de las empresas de participación mayoritaria y fideicomisos públic
 > <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
 Se exceptúan del régimen de este Código, los organismos siguientes: la Universidad Autónoma de Yucatán, el Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, la Comisión de los Derechos Humanos del Estado de Yucatán y el Instituto Estatal de Acceso a la Información Pública.
+
+> <small>(ADICIONADO, D.O. 18 DE JULIO DE 2017)</small>
+
+La Secretaría Ejecutiva del Sistema Estatal Anticorrupción se regirá por lo dispuesto en este código en lo que no se contraponga a lo establecido en la Ley del Sistema Estatal Anticorrupción de Yucatán.
 
 ###### Artículo 52.
 
@@ -2071,11 +1875,13 @@ Los órganos de gobierno de las entidades paraestatales deberán ser presididos 
 
 ###### Artículo 57.
 
-Los servidores públicos que ocupen cargos de Secretarios Técnicos, Vocales y Comisarios deben ser propuestos por el Secretario coordinador del sector y el de la Contraloría General sometiendo la propuesta a la consideración del Gobernador quien podrá designarlos o removerlos de acuerdo a este Código.
+(DEROGADO, D.O. 18 DE JULIO DE 2017)
+
+> <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
 
 ###### Artículo 58.
 
-Las entidades paraestatales al igual que las dependencias centralizadas podrán contar con las unidades de asesoría y apoyo técnico y los servicios administrativos como lo indica el presente Código, previéndose la creación de las contralorías internas cuando así lo ameriten.
+Las entidades paraestatales al igual que las dependencias centralizadas podrán contar con las unidades de asesoría y apoyo técnico y los servicios administrativos como lo indica el presente Código.
 
 ###### Artículo 59.
 
@@ -2088,8 +1894,6 @@ Las dependencias centralizadas en coordinación con las entidades paraestatales 
 ###### Artículo 61.
 
 Corresponderá a los Titulares de las Secretarías encargados de la coordinación de los sectores, establecer políticas de desarrollo para las entidades de sector correspondiente, coordinar la programación y presupuestación, de conformidad, en su caso, con las asignaciones sectoriales de gastos y funcionamiento permanentemente establecidas y autorizadas; conocer la operación y evaluar los resultados de las entidades paraestatales y demás atribuciones que les conceda este Código.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 2015)</small>
 
@@ -2160,8 +1964,6 @@ Los ingresos que obtenga el organismo público descentralizado serán destinados
 ###### Artículo 69.
 
 En la extinción de los organismos descentralizados deberán observarse las mismas formalidades para su creación, debiendo la Ley o Decreto respectivo fijar la forma y términos de su extinción y liquidación.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 2015)</small>
 
@@ -2323,15 +2125,11 @@ Los Directores Generales o sus equivalentes de las empresas de participación es
 
 Para la designación de facultades de operación y responsabilidades de los órganos de administración y dirección, autonomía de gestión y demás normas sobre el desarrollo y operación de las empresas de participación estatal mayoritaria, serán aplicables en lo que sean compatibles con este Código sin perjuicio de las disposiciones que sobre el particular existan en los Estatutos o legislación correspondiente a la forma de integración de la sociedad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 90.
 
 La dependencia Coordinadora de Sector al que corresponda la empresa, en lo que no se oponga a su regulación específica y de conformidad con las normas establecidas al respecto por la Secretaría de Administración y Finanzas, intervendrá a fin de señalar la forma y términos en los que deba llevarse a cabo la fusión o disolución, debiendo cuidar en todo tiempo la adecuada protección de los intereses del Estado, de los accionistas o titulares de las acciones o partes sociales y los derechos laborales de los servidores públicos de la empresa.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 2015)</small>
 
@@ -2354,8 +2152,6 @@ Son entidades paraestatales, los Fideicomisos Públicos que se organicen de mane
 ###### Artículo 94.
 
 Los Comités Técnicos y los Directores Generales, de los fideicomisos públicos señalados en el artículo anterior, se ajustarán en cuanto a su integración, facultades y funcionamiento a las disposiciones que en este Código se establecen para los Órganos de gobierno y para los directores generales, en cuanto sea compatible con su naturaleza.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
@@ -2397,8 +2193,6 @@ En los contratos constitutivos de fideicomisos de la Administración Pública Es
 
 ### CAPÍTULO III. De los Presupuestos
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 101.
@@ -2429,8 +2223,6 @@ El programa Institucional de la entidad paraestatal se elaborará en los términ
 
 ### CAPÍTULO V. De los Programas Financieros
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 105.
@@ -2440,8 +2232,6 @@ Los presupuestos de la entidad se sujetarán a los lineamientos generales que en
 ###### Artículo 106.
 
 La entidad paraestatal manejará y erogará sus recursos por medio de sus órganos. En lo referente a la percepción de subsidio y transferencia, los recibirá debiendo manejarlos y administrarlos por sus propios órganos y sujetarse a los controles e informes respectivos de conformidad con la legislación aplicable.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
@@ -2464,8 +2254,6 @@ Las entidades paraestatales no podrán utilizar formas de inversión que tengan 
 ###### Artículo 110.
 
 Los programas financieros de la entidad paraestatal deberán formularse conforme a los lineamientos generales que establezca la Secretaría de Administración y Finanzas, debiéndose expresar los fondos propios, aportaciones de capital, contratación de créditos con bancos nacionales o extranjeros, o con cualquier otro intermediario financiero, así como el apoyo financiero que pueda obtenerse de los proveedores de insumos y servicios y de sus suministradores de los bienes de producción. El programa contendrá los criterios conforme a los cuales debe ejecutarse el mismo en cuanto a montos, costos, plazos, garantías y avales que en su caso condicionen el apoyo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
@@ -2503,8 +2291,6 @@ II.- Aprobar los programas y presupuestos a la entidad paraestatal así como sus
 
 III.- Fijar y ajustarse a los precios de bienes y servicios que produzcan o presten las entidades paraestatales, con excepción de los de aquellos que se determinen por acuerdo del Ejecutivo del Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 IV.- Aprobar la concertación de préstamos para el financiamiento de la entidad paraestatal, previo cumplimiento de las disposiciones establecidas en materia de deuda pública, así como observar los lineamientos que dicten las autoridades competentes en materia de manejo de disposiciones financieras;
@@ -2517,15 +2303,11 @@ VI.- Aprobar la estructura básica de la organización de la entidad paraestatal
 
 VII.- Aprobar el Estatuto Orgánico, tratándose de organismos públicos descentralizados;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 2015)</small>
 
 VIII.- Proponer al Gobernador del estado, por conducto de la Secretaría de Administración y Finanzas, los convenios de fusión con otras entidades;
 
 IX.- Aprobar la constitución de reservas y aplicación de las utilidades de las empresas de participación estatal mayoritaria;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
@@ -2535,33 +2317,23 @@ X.- En los casos de los excedentes económicos de los organismos públicos desce
 
 XI.- Analizar y aprobar en su caso, los informes periódicos que rinda el Director General o su equivalente;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XII.- Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a favor de la entidad paraestatal, cuando fuere notoria la imposibilidad práctica de su cobro. En estos casos, se deberá informar a la Secretaría de Administración y Finanzas y a la dependencia Coordinadora de Sector;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XIII.- Establecer las bases para la adquisición, arrendamiento y enajenación de inmuebles que la entidad requiera para la prestación de sus servicios, con las limitaciones que en relación a la materia estipule la Ley de Bienes del Estado de Yucatán en relación con los bienes de dominio público;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XIV.- Autorizar la creación de comités de apoyo, con fines de coordinación, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 XV.- Vigilar la aplicación de los donativos o pagos extraordinarios con sujeción a las disposiciones legales relativas, con base en las disposiciones de la dependencia a la que se encuentre sectorizada.
 
 ### CAPÍTULO X. Del Registro de las Entidades Paraestatales
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
@@ -2599,15 +2371,17 @@ XII.- Las demás que señalen otras leyes, reglamentos, decretos, acuerdos y dem
 
 El Órgano de Vigilancia de los organismos públicos descentralizados, estará integrado por un comisario propietario y un suplente, designado por la Secretaría de la Contraloría General del Estado y contará con todas las facultades necesarias para el desempeño de sus funciones de vigilancia.
 
-> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
 
 ###### Artículo 118.
 
-La responsabilidad del control al interior de los organismos públicos descentralizados, se ejercerá por los Órganos de Gobierno, el Director General y los servidores públicos del Organismo, en el ámbito de sus respectivas competencias.
+La responsabilidad del control al interior de los organismos públicos descentralizados, se ejercerá por los órganos de gobierno, el director general y los servidores públicos del organismo, en el ámbito de sus respectivas competencias.
+
+> <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
 
 ###### Artículo 119.
 
-Las empresas de participación estatal mayoritaria, sin perjuicio de lo establecido en los estatutos y en los términos de la Legislación Civil y Mercantil aplicable, para su vigilancia, control y evaluación, incorporarán los órganos de control interno y contarán con los comisarios públicos que serán designados por la Secretaría de la Contraloría General del Estado.
+Las empresas de participación estatal mayoritaria, sin perjuicio de lo establecido en los estatutos y en los términos de la legislación civil y mercantil aplicable, para su vigilancia, control y evaluación, incorporarán los órganos de control interno y contarán con los comisarios públicos que serán designados por la Secretaría de la Contraloría General del Estado.
 
 ###### Artículo 120.
 
@@ -2621,8 +2395,6 @@ La Secretaría de la Contraloría General del Estado podrá realizar visitas y a
 
 Las inversiones del Estado en aquellas empresas en las que participe la Administración Pública Estatal con la suscripción del 25% al 50% del capital, serán vigiladas a través del comisario que designe la Secretaría de la Contraloría General del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 123.
@@ -2634,8 +2406,6 @@ La enajenación de títulos representativos del capital social, propiedad del Go
 ###### Artículo 124.
 
 Las Entidades Paraestatales deberán inscribirse en el Registro de Entidades Paraestatales que llevará la Secretaría de Administración y Finanzas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
@@ -2658,8 +2428,6 @@ II.- Los nombramientos de los integrantes de la Junta de Gobierno o su equivalen
 III.- Los nombramientos y sustituciones del Director General o su equivalente y en su caso de los Subdirectores y demás funcionarios que lleven la firma de la entidad;
 
 IV.- Los poderes generales y sus revocaciones;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
@@ -3184,3 +2952,19 @@ El Consejo Forestal del Estado de Yucatán deberá instalarse dentro de un plazo
 Cuarto. Expedición del reglamento interno
 
 El Consejo Forestal del Estado de Yucatán deberá expedir su reglamento interno dentro de un plazo de noventa días naturales contados a partir de su instalación.
+
+D.O. 18 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 506/2017 POR EL QUE SE MODIFICA EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, EN MATERIA DE COMBATE A LA CORRUPCIÓN.”]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el 19 de julio de 2017, cuando lo haga la Ley General de Responsabilidades Administrativas, en términos del Decreto 380/2016 por el que se modifica la Constitución Política del Estado de Yucatán, en materia de anticorrupción y transparencia.
+
+Segundo. Obligación normativa
+
+El gobernador deberá adecuar el Reglamento del Código de la Administración Pública de Yucatán en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Tercero. Obligación normativa
+
+La Secretaría de la Contraloría General deberá actualizar los Lineamientos para la implementación del Sistema de Control Interno Institucional en las dependencias y entidades de la Administración Pública estatal, en un plazo de ciento ochenta días naturales contado a partir de la entrada en vigor de este decreto.
