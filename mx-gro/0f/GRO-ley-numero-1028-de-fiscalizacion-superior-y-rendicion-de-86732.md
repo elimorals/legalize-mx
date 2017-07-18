@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-1028-de-fiscalizacion-superior-y-rendicion-de-86732"
 country: "mx"
 rank: "ley"
 publication_date: "2012-02-28"
-last_updated: "2013-05-21"
+last_updated: "2017-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY NUMERO 1028 DE FISCALIZACION SUPERIOR Y RENDICION DE CUENTAS DEL ESTADO DE GUERRERO
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO TERCERO DE LA LEY NÚMERO 468 DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. DE 18 DE JULIO DE 2017; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR A PARTIR EL DÍA PRIMERO DE ENERO DEL AÑO DOS MIL DIECIOCHO.]</small>
+
 LEY NÚMERO 1028 DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2017 (ABROGADA).
 
 Ley publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el martes 28 de febrero de 2012.
 
@@ -1990,3 +1992,25 @@ PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicaci
 SEGUNDO.- Remítase al Titular del Poder Ejecutivo del Estado de Guerrero para los efectos legales correspondientes.
 
 TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+P.O. 18 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “LEY NÚMERO 468 DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE GUERRERO”.]
+
+Primero. La presente Ley deberá publicarse en el Periódico Oficial del Estado, misma que entrará en vigor a partir el día primero de enero del año dos mil dieciocho.
+
+Segundo. Las referencias, remisiones o contenidos del presente Decreto que estén vinculados con la aplicación de la Ley del Sistema Estatal Anticorrupción de Guerrero, de la Ley de Responsabilidades Administrativas para el Estado de Guerrero y de las nuevas facultades del Tribunal de Justicia Administrativa del Estado de Guerrero, entrarán en vigor cuando dichos ordenamientos se encuentren vigentes.
+
+Tercero. Se abroga la Ley número 1028 de Fiscalización Superior y Rendición de Cuentas del Estado de Guerrero y se derogan todas las disposiciones legales que contravengan o se opongan a la presente Ley.
+
+Cuarto. Los procedimientos administrativos iniciados de conformidad con la Ley número 1028 de Fiscalización Superior y Rendición de Cuentas del Estado de Guerrero que se encuentren en trámite o pendientes de resolución a la entrada en vigor de la presente Ley, se resolverán hasta su conclusión definitiva, en términos de la Ley número 1028 de Fiscalización Superior y Rendición de Cuentas del Estado de Guerrero que se abroga, así como los que se deriven de las funciones de fiscalización y revisión hasta la Cuenta Pública del Ejercicio Fiscal 2017.
+
+Quinto. Las funciones de fiscalización y revisión de la Auditoría Superior del Estado previstas en la presente Ley entrarán en vigor a partir de la Cuenta Pública del Ejercicio Fiscal 2018.
+
+Sexto. Las funciones de fiscalización y revisión para el ejercicio del año en curso y de ejercicios anteriores, serán aplicables a partir de que entre en vigor la presente Ley.
+
+Séptimo. La Auditoría Superior del Estado y el Congreso del Estado, por lo que hace a la Unidad de Evaluación y Control, deberán expedir sus reglamentos interiores conforme a lo previsto en esta Ley en un plazo no mayor a 180 días hábiles contados a partir de la vigencia de la presente Ley.
+
+Octavo. La Auditoría Superior del Estado deberá actualizar y, en su caso, publicar la normatividad que conforme a sus atribuciones deba expedir en un plazo no mayor a 180 días hábiles contados a partir de la vigencia de la presente Ley.
+
+Noveno. Las referencias que se hagan en el presente dictamen con proyecto de Ley y en otros ordenamientos de la Comisión de Vigilancia y Evaluación de la Auditoría General del Estado, se tendrán aplicables a la Comisión de Vigilancia y Evaluación de la Auditoría Superior del Estado, como al efecto se establece en el artículo 4 fracción quinta del dictamen en comento.
