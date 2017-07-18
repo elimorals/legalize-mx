@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-justicia-administrativa-del-estado-de-michoacan-56576
 country: "mx"
 rank: "codigo"
 publication_date: "2007-08-23"
-last_updated: "2016-12-29"
+last_updated: "2017-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Michoacán, el jueves 23 de agosto de 2007.
 
@@ -43,19 +43,21 @@ CÓDIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MICHOACÁN DE OCAMPO.
 
 ### Capítulo Primero. Objeto y Competencia
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### Artículo 1.
 
-Las disposiciones del presente Código son de orden público e interés general y tienen por objeto regular los actos y procedimientos administrativos entre el particular y las dependencias, coordinaciones, entidades y organismos públicos desconcentrados del Poder Ejecutivo Estatal, la Auditoría Superior de Michoacán, los Organismos Públicos Autónomos y como bases normativas para los ayuntamientos y las dependencias, entidades y organismos públicos desconcentrados de la Administración Pública Municipal. Así como garantizar el acceso a la justicia administrativa en el Estado de Michoacán, la cual se impartirá por el Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo.
+Las disposiciones del presente Código son de orden público e interés general y tienen por objeto regular los actos u omisiones de naturaleza administrativa y fiscal entre el particular y las dependencias, coordinaciones, entidades y organismos públicos desconcentrados del Poder Ejecutivo, la Auditoría Superior de Michoacán, los Organismos Públicos Autónomos y como bases normativas para los gobiernos municipales y las dependencias, entidades y organismos públicos descentralizados o desconcentrados de la Administración Pública, Estatales o Municipales y los particulares. Así como garantizar el acceso a la justicia administrativa en el Estado de Michoacán, la cual se impartirá por el Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo.
+
+Además de los procedimientos en materia de responsabilidades administrativas contra los servidores públicos de la administración, para imponer las sanciones por los actos u omisiones en que éstos incurran y las que correspondan a los particulares.
 
 ###### Artículo 2.
 
 En tratándose de actos y resoluciones administrativas fiscales, este Código será aplicable, únicamente en lo relativo al contenido de los Libros Cuarto y Quinto, quedando a salvo las disposiciones de las leyes fiscales, hasta la emisión de la resolución definitiva por parte de las autoridades fiscales.
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
-Quedan excluidos de la aplicación de este Código, los actos y procedimientos administrativos relacionados con las materias de carácter financiero; los actos relativos a la actuación del Ministerio Público en ejercicio de sus atribuciones constitucionales y legales, relacionadas con la averiguación y persecución del delito; ejecución de las sanciones penales; los de seguridad pública; los actos relativos a las sanciones impuestas a los agentes del Ministerio Público, agentes de investigación y análisis, peritos o quienes realicen funciones sustantivas en la Procuraduría General de Justicia del Estado de Michoacán de Ocampo; electoral; participación ciudadana; de la Universidad Michoacana de San Nicolás de Hidalgo y descentralizadas de educación superior; Tribunal de Conciliación y Arbitraje y de la Comisión Estatal de Derechos Humanos, en cuanto a las quejas de que conozca y recomendaciones que formule.
+Quedan excluidos de la aplicación de este Código, los actos y procedimientos administrativos relacionados con las materias de carácter financiero; los actos relativos a la actuación del Ministerio Público en ejercicio de sus atribuciones constitucionales y legales, relacionadas con la investigación y persecución del delito, ejecución de las sanciones penales, los de seguridad pública, los actos relativos a las sanciones impuestas a los Agentes del Ministerio Público, agentes de investigación y análisis, peritos o quienes realicen funciones sustantivas en la Procuraduría General de Justicia del Estado de Michoacán de Ocampo; electoral; participación ciudadana; de la Universidad Michoacana de San Nicolás de Hidalgo y descentralizadas de educación superior; Tribunal de Conciliación y Arbitraje y de la Comisión Estatal de Derechos Humanos, en cuanto a las quejas de que conozca y recomendaciones que formule.
 
 ### Capítulo Segundo. Definiciones
 
@@ -63,63 +65,221 @@ Quedan excluidos de la aplicación de este Código, los actos y procedimientos a
 
 Para efectos del presente Código, se entiende por:
 
-I. Anulabilidad: El reconocimiento de la autoridad administrativa, en el sentido de que un acto administrativo no cumple con los requisitos de validez que se establecen en este Código u otras normas; y que es subsanable por la autoridad administrativa competente al cumplirse con dichos requisitos;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-II. Autoridad: El servidor público investido de potestad de mando, que puede dictar, ordenar o ejecutar actos administrativos que afecten la esfera jurídica de los particulares, incluso con la fuerza pública, en virtud de circunstancias legales o de hecho;
+I. Acuse de Recibo Electrónico: Constancia que acredita que un documento digital fue recibido por el Tribunal y estará sujeto a la misma regulación aplicable al uso de una firma electrónica avanzada. En este caso, el acuse de recibo electrónico identificará al Pleno que recibió el documento y se presumirá, salvo prueba en contrario, que el documento digital fue recibido en la fecha y hora que se consignen en dicha constancia. El Tribunal establecerá los medios para que las partes y los autorizados puedan recibir notificaciones y verificar la autenticidad de los acuses de recibo electrónico;
 
-III. Autoridades administrativas: Las enunciadas en el artículo 1 de este Código o cualquier otra autoridad facultada por las normas para dictar, ordenar o ejecutar actos administrativos;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-IV. Causahabiente: La persona que sucede o se subroga en el derecho de otra;
+II. Anulabilidad: El reconocimiento de la autoridad administrativa, en el sentido de que un acto administrativo no cumple con los requisitos de validez que se establecen en este Código u otras normas; y que es subsanable por la autoridad administrativa competente al cumplirse con dichos requisitos;
 
-V. Código: El Código de Justicia Administrativa del Estado de Michoacán de Ocampo;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-VI. Congreso: El Congreso del Estado de Michoacán de Ocampo;
+III. Archivo Electrónico: Información contenida en texto, imagen, audio o video generada, enviada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología que forma parte del Expediente Electrónico;
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-VII. Contraloría: La Coordinación de Contraloría;
+IV. Auditoría Superior: La Auditoría Superior del Estado de Michoacán de Ocampo;
 
-VIII. Ejecución subsidiaria: Es la realización de actos por parte de la administración que debió, voluntariamente realizar el particular, con cargo a este mismo;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-IX. Estado: El Estado Libre y Soberano de Michoacán de Ocampo;
+V. Autoridad: El servidor público investido de potestad de mando, que puede dictar, ordenar o ejecutar actos administrativos que afecten la esfera jurídica de los particulares, incluso con la fuerza pública, en virtud de circunstancias legales o de hecho;
 
-X. Incidente: La cuestión que surge dentro del procedimiento o proceso administrativo, que no se refiere al negocio o asunto principal, sino a la validez del proceso en sí mismo;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-XI. Interlocutoria: La resolución que se dicta dentro del procedimiento o proceso administrativo para resolver algún incidente;
+VI. Autoridades administrativas: Las enunciadas en el artículo 1 de este Código o cualquier otra autoridad facultada por las normas para dictar, ordenar o ejecutar actos administrativos;
 
-XII. Ley de Responsabilidades: La Ley de Responsabilidades de los Servidores Públicos del Estado de Michoacán de Ocampo y sus Municipios;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-XIII. Ley Orgánica: Las leyes orgánicas de la Administración Pública del Estado de Michoacán de Ocampo y Municipal del Estado de Michoacán;
+VII. Autoridad investigadora: La autoridad que al interior de la Contraloría, los Órganos Internos de Control y la Auditoría Superior del Estado, es la encargada de la investigación de faltas administrativas;
 
-XIV. Magistrado Instructor: Magistrado del Tribunal encargado de la prosecución del proceso y responsable de la formulación del proyecto;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-XV. Magistrados: Los magistrados del Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo;
+VIII. Autoridad resolutora: Tratándose de faltas administrativas no graves lo será la unidad de responsabilidades administrativas o el servidor público asignado en los órganos internos de control. Para las faltas administrativas graves, así como para las faltas de particulares, lo será el Tribunal competente;
 
-XVI. Normas: Las leyes, reglamentos, decretos, acuerdos u otras disposiciones de carácter general, que rijan en el Estado o los municipios;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-XVII. Nulidad: La declaración emanada del órgano competente, cuando un acto administrativo no cumple con los elementos de validez que se establecen en este Código y que por lo tanto no genera efectos jurídicos;
+IX. Autoridad substanciadora: La Secretaría, los órganos internos de control, la Auditoría Superior, las unidades de responsabilidades de las empresas productivas del Estado, que en el ámbito de su competencia, dirigen y conducen el procedimiento de responsabilidades administrativas desde la admisión del Informe de Presunta Responsabilidad Administrativa y hasta la conclusión de la Audiencia Inicial.
 
-XVIII. Presidente: El Presidente del Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-XIX. Procedimiento de Lesividad: El procedimiento incoado por las autoridades administrativas, ante el Tribunal, solicitando la declaración de nulidad de resoluciones administrativas favorables a los particulares;
+X. Aviso electrónico: Mensaje enviado a la dirección de correo electrónico de las partes de que se realizará una notificación por Boletín Jurisdiccional;
 
-XX. Registro: El Registro Estatal de Trámites y Servicios del Estado de Michoacán de Ocampo;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-XXI. Reglamento Interior: El Reglamento Interior del Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo;
+XI. Causahabiente: La persona que sucede o se subroga en el derecho de otra;
 
-XXII. Resolución Administrativa: El acto administrativo que pone fin a un procedimiento, de manera expresa o presunta en caso del silencio de la autoridad competente, que decide todas y cada una de las cuestiones planteadas por los particulares o previstas por las normas;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2011)</small>
+XII. Clave de acceso: Conjunto único de caracteres alfanuméricos asignados por el SIT a las partes, como medio de identificación de las personas facultadas en el juicio en que promuevan para utilizar el Sistema, y asignarles los privilegios de consulta del expediente respectivo o envío vía electrónica de promociones relativas a las actuaciones procesales con el uso de la firma electrónica avanzada en un Juicio en Línea;
 
-XXIII. Tribunal: El Tribunal de Justicia Administrativa de Michoacán de Ocampo;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2011)</small>
+XIII. Código: El Código de Justicia Administrativa del Estado de Michoacán de Ocampo;
 
-XXIV. Sala: Sala Colegiada; y,
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2011)</small>
+XIV. Comité: El Comité Coordinador del Sistema Estatal Anticorrupción;
 
-XXV. Secretaría: La Secretaría de Finanzas y Administración.
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XV. Congreso: El Congreso del Estado de Michoacán de Ocampo;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XVI. Contraloría: Contraloría Interna o el Órgano Interno de Control indistintamente;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XVII. Contraseña: Conjunto único de caracteres alfanuméricos, asignados de manera confidencial por el SIT a los usuarios, la cual permite validar la identificación de la persona a la que se le asignó una Clave de Acceso;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XVIII. Dirección de Correo Electrónico: Sistema de comunicación a través de redes informáticas, señalado por las partes en el Juicio en Línea;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XIX. Dirección de Correo Electrónico Institucional: Sistema de comunicación a través de redes informáticas, dentro del dominio definido y proporcionado por los órganos gubernamentales a los servidores públicos;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XX. Documento Electrónico o Digital: Todo mensaje de datos que contiene texto o escritura generada, enviada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología que forma parte del Expediente Electrónico;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XXI. Ejecución subsidiaria: Es la realización de actos por parte de la administración que debió, voluntariamente realizar el particular, con cargo a este mismo;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XXII. Estado: El Estado Libre y Soberano de Michoacán de Ocampo;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XXIII. Expediente Electrónico: Conjunto de información contenida en archivos electrónicos o documentos digitales que conforman el juicio en línea, independientemente de que sea texto, imagen, audio o video, identificado por un número específico;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XXIV. Faltas administrativas: Las faltas administrativas graves, las faltas administrativas no graves; así como las faltas de particulares, conforme a lo dispuesto en este Código;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XXV. Falta administrativa grave: Las faltas administrativas de los Servidores Públicos catalogadas como graves en los términos del presente Código, cuya sanción corresponde al Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XXVI. Falta administrativa no grave: Las faltas administrativas de los Servidores Públicos en los términos del presente Código, cuya sanción corresponde a la Secretaría y a los órganos internos de control;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XXVII. Faltas de particulares: Los actos de personas físicas o morales privadas que estén vinculados con faltas administrativas graves de conformidad con lo señalado en el presente Código;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XXVIII. Firma Electrónica Avanzada: Conjunto de datos consignados en un mensaje electrónico adjuntados o lógicamente asociados al mismo que permita identificar a su autor mediante el SIT y que produce los mismos efectos jurídicos que la firma autógrafa. La firma electrónica permite actuar en juicio en línea;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XXIX. Incidente: La cuestión que surge dentro del procedimiento o proceso administrativo, que no se refiere al negocio o asunto principal, sino a la validez del proceso en sí mismo;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XXX. Informe de Presunta Responsabilidad Administrativa: El instrumento en el que las autoridades investigadoras describen los hechos relacionados con alguna de las faltas señaladas en la presente Ley, exponiendo de forma documentada con las pruebas y fundamentos, los motivos y presunta responsabilidad del Servidor Público o de un particular en la comisión de faltas administrativas;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XXXI. Interlocutoria: La resolución que se dicta dentro del procedimiento o proceso administrativo para resolver algún incidente;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XXXII. Juicio en la vía sumaria: El juicio administrativo en aquellos casos a los que se refiere este Código;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XXXIII. Juicio en la vía tradicional: El juicio administrativo que se substancia recibiendo las promociones y demás documentales en manuscrito o impresos en papel, y formando un expediente también en papel, donde se agregan las actuaciones procesales, incluso en los casos en que sea procedente la vía sumaria o el juicio de resolución exclusiva de fondo;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XXXIV. Juicio en línea: Substanciación y resolución del juicio administrativo en todas sus etapas, así como de los procedimientos previstos en este Código, a través del Sistema Informático del Tribunal, incluso en los casos en que sea procedente la vía sumaria;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XXXV. Ley de Responsabilidades: La Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XXXVI. Ley Orgánica: La Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XXXVII. Magistrado: Servidor público integrante del Tribunal de Justicia Administrativa;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XXXVIII. Magistrado Especializado: Servidor público especializado en anticorrupción y responsabilidades administrativas del Tribunal de Justicia Administrativa;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XXXIX. Magistrado Instructor: Magistrado del Tribunal encargado de la prosecución y resolución del proceso;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XL. Normas: Las leyes, reglamentos, decretos, acuerdos u otras disposiciones de carácter general, que rijan en el Estado o los municipios;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XLI. Nulidad: La declaración emanada del órgano competente, cuando un acto administrativo no cumple con los elementos de validez que se establecen en este Código y que por lo tanto no genera efectos jurídicos;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XLII. Órganos constitucionales autónomos: Organismos a los que la Constitución del Estado les otorga expresamente autonomía técnica y de gestión, personalidad jurídica y patrimonio propio;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XLIII. Órganos del Estado: Poderes Ejecutivo, Legislativo y Judicial, Órganos Constitucionales Autónomos y Gobiernos Municipales, incluyendo en estos últimos y en el Poder Ejecutivo a su administración pública centralizada, paraestatal, desconcentrada y de participación general y todos aquellos en que cualquier autoridad directa o indirectamente intervenga, independiente de la denominación que se les otorgue;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XLIV. Presidente: El Presidente del Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XLV. Procedimiento de Lesividad: El procedimiento incoado por las autoridades administrativas, ante el Tribunal, solicitando la declaración de nulidad de resoluciones administrativas favorables a los particulares;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XLVI. Registro: El Registro Estatal de Trámites y Servicios del Estado de Michoacán de Ocampo;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XLVII. Reglamento Interior: El Reglamento Interior del Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XLVIII. Resolución Administrativa: El acto administrativo que pone fin a un procedimiento, de manera expresa o presunta en caso del silencio de la autoridad competente, que decide todas y cada una de las cuestiones planteadas por los particulares o previstas por las normas;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XLIX. Pleno: Reunión de Magistrados;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+L. Secretaría: La Secretaría de Finanzas y Administración;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+LI. Sistema Estatal Anticorrupción: La instancia de coordinación entre las autoridades del Estado de Michoacán de Ocampo, competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+LII. SIT: Sistema Informático del Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+LIII. Tribunal: El Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo; y,
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+LIV. Unidad: Unidad de Evaluación y Control de la Comisión Inspectora de la Auditoría Superior de Michoacán, del Congreso.
 
 ### Capítulo Tercero. Aplicación y Principios
 
@@ -1201,13 +1361,19 @@ Los ayuntamientos podrán coordinarse con la Secretaría de Finanzas y Administr
 
 ### Capítulo Primero. Integración
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
 ###### Artículo 143.
 
-El Tribunal es un órgano autónomo de control de legalidad, dotado de plena jurisdicción e imperio para hacer cumplir sus resoluciones en el territorio del Estado. Tiene a su cargo dirimir las controversias de carácter administrativo y fiscal que se susciten entre las autoridades administrativas y fiscales y los particulares. Tendrá su residencia en la capital del Estado, y por acuerdo de la Sala, podrá celebrar sesiones fuera de su residencia.
+El Tribunal es un órgano autónomo de control de legalidad, dotado de plena jurisdicción e imperio para hacer cumplir sus resoluciones en el territorio del Estado. Tiene a su cargo dirimir las controversias de carácter administrativo y fiscal que se susciten entre las autoridades administrativas y fiscales y los particulares. Tendrá su residencia en la capital del Estado, y por acuerdo del Pleno, podrá celebrar sesiones fuera de su residencia.
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### Artículo 144.
 
-El Tribunal funcionará con una Sala Colegiada integrada por tres magistrados.
+El Tribunal estará integrado por cinco magistrados los cuales se numerarán y funcionarán unitariamente.
+
+Tres lo serán de la materia administrativa ordinaria; y, dos especializados en la materia de anticorrupción y responsabilidades administrativas. Para los recursos que la ley prevea se constituirán en Pleno.
 
 ###### Artículo 145.
 
@@ -1219,7 +1385,9 @@ II. Secretarios de Estudio y Cuenta;
 
 III. Actuarios;
 
-IV. Contralor Interno;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+IV. Titular de Contraloría;
 
 V. Secretario Administrativo;
 
@@ -1237,9 +1405,11 @@ Para el nombramiento de los magistrados, el Congreso expedirá convocatoria púb
 
 El Magistrado durará en su encargo cinco años y podrá ser reelecto hasta en dos ocasiones. Al término de su periodo cesará en sus funciones y quedará separado de su encargo. El Congreso, dentro de los noventa días naturales anteriores a la fecha en que concluya el primero y en su caso, el segundo de los periodos del Magistrado, determinará si debe o no ser reelecto mediante el voto de las dos terceras partes de los diputados presentes. De determinarse la no reelección se iniciará el procedimiento para el nombramiento del Magistrado que ha de ocupar el periodo. De no hacerse en tiempo y forma el nombramiento, se procederá a cubrir la falta de Magistrado en los términos de este Código.
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
 ###### Artículo 148.
 
-La Sala del Tribunal podrá conceder licencias con goce de sueldo a los magistrados, cuando no excedan de un mes en un año y las que excedan de ese tiempo, solamente podrán concederse sin goce de sueldo hasta por seis meses improrrogables.
+El Pleno del Tribunal podrá conceder licencias con goce de sueldo a los magistrados, cuando no excedan de un mes en un año y las que excedan de ese tiempo, solamente podrán concederse sin goce de sueldo hasta por seis meses improrrogables.
 
 ###### Artículo 149.
 
@@ -1263,15 +1433,19 @@ El Magistrado cuyo retiro forzoso haya sido acordado por el Congreso, tendrá de
 
 Cuando las faltas de los magistrados excedan del plazo señalado en este Código, se comunicarán de inmediato al Congreso, para que proceda a la designación del Magistrado que concluya el periodo.
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
 ###### Artículo 153.
 
-Los magistrados, el Secretario General de Acuerdos, los Secretarios de Estudio y Cuenta, el Secretario Administrativo, el Contralor Interno, los actuarios, y los defensores jurídicos, no podrán desempeñar cualquier otro empleo, cargo o comisión de la Federación, del Estado o municipal, salvo los cargos no remunerados de instrucción y beneficencia fuera de las horas de labores. También estarán impedidos para litigar, salvo en causa propia.
+Los magistrados, el Secretario General de Acuerdos, los Secretarios de Estudio y Cuenta, el Secretario Administrativo, el titular de Contraloría, los actuarios y los defensores jurídicos, no podrán desempeñar cualquier otro empleo, cargo o comisión de la Federación, del Estado o municipio, salvo los cargos no remunerados de instrucción y beneficencia fuera de las horas de labores. También estarán impedidos para litigar, salvo en causa propia.
 
 ### Capítulo Segundo. Competencia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
+
 ###### Artículo 154.
 
-El Tribunal será competente para conocer y resolver en forma definitiva de las controversias que en juicio se promuevan en contra de los actos o resoluciones definitivos, dictados, ordenados, ejecutados o que se pretenda ejecutar, según corresponda, por el Poder Ejecutivo, de la Auditoría Superior de Michoacán, por los ayuntamientos, por los organismos autónomos, las entidades u organismos descentralizados o desconcentrados, estatales o municipales:
+El Tribunal será competente para conocer y resolver en forma definitiva de las controversias que en juicio se promuevan en contra de los actos o resoluciones definitivos, dictados, ordenados, ejecutados o que se pretenda ejecutar, según corresponda, por el Poder Ejecutivo, de los actos materialmente administrativos de los poderes legislativo y judicial; de la Auditoría Superior de Michoacán, por los gobiernos municipales, por los organismos autónomos, las entidades u organismos descentralizados o desconcentrados, estatales o municipales, partidos políticos, fideicomisos y fondos públicos así como de cualquier persona física o jurídica o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad; será además competente para determinación e imposición de sanciones, salvo las excepciones marcadas en la Ley:
 
 I. Que determinen la existencia de una obligación fiscal, la fijen en cantidad líquida o den las bases para su liquidación;
 
@@ -1299,13 +1473,19 @@ X. Que consistan en cualquier acto u omisión definitivos de las autoridades adm
 
 XI. Que resulten derivados de la prestación de servicios de policías municipales o estatales y las instituciones de seguridad pública;
 
-XII. Que consistan en sanciones impuestas por los órganos que realicen funciones de contraloría o de la Auditoría Superior de Michoacán, derivadas de los procedimientos de fiscalización; y,
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XII. Que resuelvan respecto de las faltas administrativas graves, investigadas y substanciadas por la Auditoría Superior, la Unidad y los órganos internos de control respectivos, según sea el caso, ya sea que el procedimiento se haya seguido por denuncia, de oficio o derivado de las auditorías practicadas por las autoridades competentes;
 
 XIII. Que sean resoluciones dictadas por las autoridades administrativas, estatales o municipales, al resolver los recursos establecidos por las normas respectivas cuando:
 
 a) La resolución recaída a un recurso administrativo o de revisión, no satisfaga el interés jurídico del recurrente, y éste la controvierta en el juicio administrativo, se entenderá que simultáneamente impugna la resolución recurrida en la parte que continúa afectándolo, pudiendo hacer valer conceptos de impugnación no planteados en el recurso; y,
 
 b) La resolución a un recurso administrativo o de revisión que lo declare por no interpuesto o improcedente, siempre que el Magistrado Instructor determine la procedencia del mismo, el juicio administrativo procederá en contra de la resolución objeto del recurso, pudiendo en todo caso hacer valer conceptos de impugnación no planteados en el recurso.
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XIV. De las Responsabilidades Administrativas de los Servidores Públicos, particulares, personas físicas o jurídicas vinculados con faltas graves promovidas por la Secretaría de la Contraloría y los Órganos Internos de control de los Órganos del Estado, o por la Auditoría Superior de Michoacán, para la imposición de sanciones en términos de lo dispuesto por la Ley de Responsabilidades Administrativas. Así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal y Municipal o al Patrimonio de los Órganos del Estado.
 
 ###### Artículo 155.
 
@@ -1325,33 +1505,45 @@ V. Para conocer de juicios de pago de daños y perjuicios derivado de actos o re
 
 Cuando los actos de las autoridades administrativas estatales o municipales, sean dictados en aplicación de convenios de colaboración administrativa con la Federación o sus dependencias, la competencia del Tribunal será ejercida en los términos de los convenios que al efecto se suscriban con el Tribunal Federal de Justicia Fiscal y Administrativa.
 
-### Capítulo Tercero. Sala Colegiada
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE JULIO DE 2017)</small>
+
+### Capítulo Tercero. Pleno
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### Artículo 157.
 
-La Sala se integrará por tres magistrados los cuales no podrán abstenerse de votar y sus resoluciones se tomarán por mayoría de votos.
+El Pleno se integrará por cinco magistrados los cuales no podrán abstenerse de votar y sus resoluciones se tomarán por mayoría de votos, para la validez de las sesiones se requerirá de la presencia de cuando menos tres magistrados.
 
 ###### Artículo 158.
 
 Las sesiones de la Sala se celebrarán a convocatoria de su Presidente, debiendo efectuarse no menos de dos al mes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
+
 ###### Artículo 159.
 
-Son atribuciones de la Sala:
+Son atribuciones del Pleno:
 
-I. Resolver los juicios y medios de impugnación mediante los proyectos que sean sometidos a ella por los magistrados;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-II. Elegir a su Presidente, que será a su vez del Tribunal;
+I. Elegir a su Presidente, que será a su vez del Tribunal;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+II. Resolver el recurso de apelación que interpongan las partes en contra de las resoluciones dictadas por los magistrados especializados en materia de anticorrupción y responsabilidades administrativas;
 
 III. Calificar las recusaciones y excusas por impedimento de los magistrados y, en su caso, integrar a ella, al Secretario General de Acuerdos;
 
-IV. Resolver la solicitud de suspensión provisional del acto reclamado, garantizando en su caso el interés público;
+IV. (DEROGADA, P.O. 18 DE JULIO DE 2017)
 
 V. Expedir el Reglamento Interior;
 
 VI. Aprobar el proyecto de presupuesto de egresos del Tribunal;
 
-VII. Designar al Secretario General de Acuerdos y los secretarios de acuerdos, a los Secretarios de Estudio y Cuenta, actuarios, al Secretario Administrativo, Contralor Interno y defensores jurídicos;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+VII. Designar al Secretario General de Acuerdos y los secretarios de acuerdos, a los Secretarios de Estudio y Cuenta, actuarios, al Secretario Administrativo y defensores jurídicos;
 
 VIII. Nombrar y remover al personal del Tribunal;
 
@@ -1363,7 +1555,7 @@ XI. Hacer uso de los medios de apremio que procedan;
 
 XII. Aprobar el contenido del Informe anual de labores del Tribunal;
 
-XIII. Dictar conforme a las normas, las medidas cautelares que reclamen la protección de los derechos de los particulares y el interés público;
+XIII. (DEROGADA, P.O. 18 DE JULIO DE 2017)
 
 XIV. Establecer la jurisprudencia del Tribunal;
 
@@ -1373,13 +1565,17 @@ XVI. Las demás que señalen las leyes.
 
 ### Capítulo Cuarto. Presidente
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
 ###### Artículo 160.
 
-Se elegirá Presidente en la primera sesión de la Sala, durará en su encargo un año y no podrá ser reelecto para el periodo inmediato.
+El Presidente será electo por el Pleno en la segunda semana de diciembre del año en que concluya el periodo del Presidente en funciones. Durará en su cargo un año y no podrá ser reelecto para el periodo inmediato.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### Artículo 161.
 
-Las faltas temporales del Presidente, que no excedan de quince días, serán suplidas, por el Magistrado que acuerde la Sala. Las ausencias temporales de los magistrados en las sesiones de la Sala serán suplidas por el Secretario General de Acuerdos.
+Las faltas temporales del Presidente, que no excedan de quince días, serán suplidas, por el Magistrado que acuerde el Pleno. Las ausencias temporales de los magistrados en las sesiones del Pleno serán suplidas por el Secretario General de Acuerdos.
 
 Cuando la falta sea definitiva, además de seguir el procedimiento señalado en el párrafo anterior, deberá de inmediato informarse al Congreso.
 
@@ -1387,13 +1583,21 @@ Cuando la falta sea definitiva, además de seguir el procedimiento señalado en 
 
 Son atribuciones del Presidente:
 
-I. Representar legal y jurídicamente al Tribunal;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-II. Convocar y asistir a las sesiones de la Sala;
+I. Representar legal y jurídicamente al Tribunal ante toda autoridad y delegar el ejercicio de esta función en servidores públicos subalternos sin perjuicio de su ejercicio directo;
 
-III. Dirigir los debates y conservar el orden en las sesiones de la Sala;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-IV. Dar cuenta a la Sala de los asuntos de su competencia;
+II. Convocar y asistir a las sesiones del Pleno;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+III. Dirigir los debates y conservar el orden en las sesiones del Pleno;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+IV. Dar cuenta al Pleno de los asuntos de su competencia;
 
 V. Comunicar al Congreso las faltas absolutas de los magistrados;
 
@@ -1401,17 +1605,27 @@ VI. Dictar las medidas que exija el buen funcionamiento y la disciplina del Trib
 
 VII. Ejercer el presupuesto del Tribunal;
 
-VIII. Rendir al Congreso informe por escrito al concluir su gestión, dando cuenta del funcionamiento del Tribunal;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+VIII. Rendir al Congreso informe por escrito, basado en los indicadores en materia de responsabilidades administrativas, conteniendo metas, cumplimiento, evolución y resultados, anualizado, que se presentará en el mes de febrero y contendrá el ejercicio inmediato anterior, los recursos interpuestos contra las resoluciones del Tribunal y su resolución; además atenderá las solicitudes de informe que eventualmente se soliciten, tomando en cuenta las directrices y políticas que en materia de anticorrupción se emitan por las autoridades en la materia;
 
 IX. Rendir al Congreso informe anual de los ingresos propios del Tribunal;
 
 X. Expedir y revocar los nombramientos del personal del Tribunal, concederles licencias temporales y designar quien deba suplirlos, en los términos del reglamento interior;
 
-XI. Imponer las sanciones administrativas que procedan a los servidores públicos del Tribunal, de acuerdo con la ley de la materia;
+XI. (DEROGADA, P.O. 18 DE JULIO DE 2017)
 
-XII. Formular el proyecto de presupuesto de egresos del Tribunal, así como los criterios del mismo y someterlo a la Sala para su consideración; y,
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-XIII. Las demás que señalen las leyes.
+XII. Formular el proyecto de presupuesto de egresos del Tribunal, así como los criterios del mismo y someterlo al Pleno para su consideración;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XIII. Formar parte del Sistema Estatal Anticorrupción en términos de la legislación aplicable; y,
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XIV. Las demás que señalen las leyes.
 
 ### Capítulo Quinto. Magistrados
 
@@ -1419,53 +1633,87 @@ XIII. Las demás que señalen las leyes.
 
 Son atribuciones de los magistrados:
 
-I. Formular los proyectos de resolución de los asuntos que se le turnen;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-II. Participar en las sesiones de la Sala;
+I. Resolver los asuntos que se le turnen;
 
-III. Emitir su voto, aprobando o rechazando los proyectos de resolución que sean sometidos a la Sala;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-IV. Formular, en su caso, voto particular que se integrará a la resolución de la Sala;
+II. Participar en las sesiones del Pleno;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+III. Emitir su voto, aprobando o rechazando los proyectos de resolución que sean sometidos al Pleno;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+IV. Formular, en su caso, voto particular que se integrará a la resolución del Pleno;
 
 V. Excusarse de intervenir en los asuntos que la ley le prohíba;
 
 VI. Mantener el buen orden en el despacho de los asuntos que le sean turnados y llevar cuenta de los mismos;
 
-VII. Proponer a la Sala el nombramiento del personal a su cargo de entre los que acrediten el concurso de oposición y en su caso la remoción del mismo; y,
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+VII. Proponer al pleno el nombramiento del personal a su cargo de entre los que acrediten el concurso de oposición y en su caso la remoción del mismo; y,
 
 VIII. Las demás que señalen las leyes.
 
 ### Capítulo Sexto. Servidores Públicos del Tribunal
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
 ### Capítulo Séptimo. Defensores Jurídicos
 
 ###### Artículo 164.
 
-El Secretario General de Acuerdos y los Secretarios de Estudio y Cuenta del Tribunal, deberán ser ciudadanos mexicanos y contar con título de Licenciado en Derecho, expedido por la Universidad Michoacana de San Nicolás de Hidalgo o institución facultada para ello y acreditar por lo menos tres años de ejercicio profesional y no haber sido condenado por delito doloso.
+Los Secretarios, General de Acuerdos, de Estudio y Cuenta, y Administrativo, así como, el titular de Contraloría y los actuarios del Tribunal, deberán reunir los siguientes requisitos:
 
-Los actuarios deberán satisfacer los requisitos señalados en el párrafo anterior, con excepción del tiempo del ejercicio profesional, que será de un año.
+I. Ser ciudadano mexicano además de estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
-Los magistrados, el Secretario General de Acuerdos, los Secretarios de Estudio y Cuenta y los actuarios tendrán fe pública.
+II. Tener más de veinticinco años de edad, el día de la designación;
 
-El Secretario Administrativo y el Contralor Interno, deberán reunir los requisitos indicados en el primer párrafo, en cuyo caso el título profesional será en las áreas económicas o administrativas.
+III. Poseer al día de la designación, con antigüedad mínima de cinco años, título profesional de nivel licenciatura afín al cargo y contar con los conocimientos y experiencia que les permitan el desempeño de sus funciones;
+
+IV. No haber sido condenado por delito doloso;
+
+V. No haber sido registrado como candidato, ni haber desempeñado cargo alguno de elección popular en los últimos cuatro años anteriores a la designación;
+
+VI. No desempeñar ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los últimos cuatro años anteriores a la designación; y,
+
+VII. No pertenecer o haber pertenecido en los cuatro años anteriores a su designación a despachos de consultoría o auditoría que hubieren prestado sus servicios a un órgano del Estado o a algún partido político.
+
+El Secretario Administrativo y los actuarios deberán satisfacer los requisitos señalados en el párrafo anterior, con excepción del tiempo del ejercicio profesional, que será de un año.
+
+Los magistrados, el Secretario General de Acuerdos, los Secretarios de Estudio y Cuenta, los actuarios y el titular del Órgano Interno de Control, tendrán fe pública.
 
 ###### Artículo 165.
 
 Son atribuciones del Secretario General de Acuerdos:
 
-I. Acordar con el Presidente lo relativo a las sesiones de la Sala;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-II. Dar cuenta de los asuntos en las sesiones de la Sala, tomar la votación de los magistrados, levantar el acta respectiva, recabar las firmas de los magistrados presentes y comunicar las decisiones que se acuerden;
+I. Acordar con el Presidente lo relativo a las sesiones del Pleno;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+II. Dar cuenta de los asuntos en las sesiones del Pleno, tomar la votación de los magistrados, levantar el acta respectiva, recabar las firmas de los magistrados presentes y comunicar las decisiones que se acuerden;
 
 III. Tramitar la correspondencia del Tribunal;
 
-IV. Firmar las actas de la Sala para dar fe de lo asentado;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-V. Compilar los criterios jurisprudenciales de la Sala;
+IV. Firmar las actas del Tribunal para dar fe de lo asentado;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+V. Compilar los criterios jurisprudenciales del Tribunal;
 
 VI. Expedir certificaciones de las constancias que obren en los expedientes a su cargo;
 
-VII. Llevar los libros de Gobierno, de registro de documentos y de las personas que puedan ser peritos ante la Sala;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+VII. Llevar los libros de Gobierno, de registro de documentos y de las personas que puedan ser peritos ante el Tribunal;
 
 VIII. Actualizar la relación y recopilación de las normas y el Registro publicados en el Periódico Oficial del Estado;
 
@@ -1499,29 +1747,55 @@ Son atribuciones de los actuarios:
 
 I. Notificar en tiempo y forma, las resoluciones recaídas en los expedientes que para tal efecto les sean turnados;
 
-II. Practicar las diligencias que les encomienden la Sala y los magistrados;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+II. Practicar las diligencias que les encomienden el Pleno y los magistrados;
 
 III. Levantar las actas correspondientes a las diligencias que practiquen; y,
 
 IV. Las demás que señalen las leyes.
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
 ###### Artículo 168.
 
-Son atribuciones del Contralor Interno:
+Son atribuciones del titular del órgano Técnico de Control:
 
-I. Recibir la declaración de situación patrimonial del personal del Tribunal;
+I. Vigilar controlar y evaluar el cumplimento de la normativa administrativa por parte de los servidores públicos del Tribunal;
 
-II. Supervisar al personal administrativo del Tribunal y determinar su responsabilidad en los casos de faltas administrativas;
+II. Realizar auditorías sobre administración, finanzas, planeación y aplicación de la normatividad;
 
-III. Realizar auditorias y revisiones administrativas por acuerdo de la Sala;
+III. Llevar el registro y seguimiento de la situación patrimonial de los servidores públicos del Tribunal;
 
-IV. Presentar a la Sala los informes correspondientes a las auditorias y revisiones que practique;
+IV. Participar en todos aquellos actos que en materia de contratación, adquisición y arrendamiento de bienes y servicios se establezcan en la normativa vigente;
 
-V. Determinar la probable existencia de responsabilidades de los servidores del Tribunal y someter sus conclusiones al Presidente;
+V. Verificar el cumplimiento de las normas y reglamentos en materia de contratación, pago y movimiento de personal, arrendamientos, enajenaciones, adquisiciones, conservación, uso y destino de los recursos;
 
-VI. Recibir y tramitar las quejas y denuncias en contra del personal; y,
+VI. Formular observaciones y recomendaciones con base a las auditorías al Tribunal;
 
-VII. Las demás que señalen las leyes.
+VII. Realizar visitas de inspección y vigilancia a los órganos y funcionarios del Tribunal; y,
+
+VIII. Las demás que señalen las leyes.
+
+Corresponde al titular del órgano interno de control vigilar que la administración del presupuesto del Tribunal sea eficaz, honesta y ajustada a la normatividad aplicable, informando al Congreso del Estado del resultado de las auditorías y revisiones que practique.
+
+El órgano interno de control del Tribunal tendrá a su cargo la fiscalización de los recursos asignados, así como de conocer de las responsabilidades de sus servidores públicos; estará dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. En el desempeño de su función de sujetará a los principios de imparcialidad, legalidad, objetividad, certeza, honestidad, profesionalismo, exhaustividad y transparencia.
+
+El titular del órgano interno de control será nombrado por el Congreso del Estado con el voto de las dos terceras partes de sus miembros presentes, durará en su encargo cinco años y no podrá ser reelecto; estará adscrito administrativamente a la Presidencia del Tribunal y deberá reunir los requisitos que señala este Código.
+
+El órgano interno de control contará con estructura orgánica, personal y recursos que apruebe el Pleno a propuesta del Presidente.
+
+El titular del Órgano Interno de Control podrá ser sancionado conforme a los términos de la normatividad en materia de responsabilidad de servidores públicos. El Congreso del Estado resolverá sobre la aplicación de las sanciones, incluida entre estas la remoción por causas graves de responsabilidad administrativa denunciadas por el Pleno del Tribunal, debiendo garantizar el derecho de audiencia al afectado. La remoción requerirá del voto de las dos terceras partes de los integrantes.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+Artículo 168 bis. El Órgano Interno de Control del Tribunal tendrá a su cargo la fiscalización de los ingresos y egresos, así como de conocer de las responsabilidades de sus servidores públicos; en el ejercicio de sus atribuciones estará dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. En el desempeño de su función se sujetará a los principios de imparcialidad, legalidad, objetividad, certeza, honestidad, profesionalismo, exhaustividad y transparencia.
+
+El titular del Órgano Interno de Control será nombrado por el Congreso del Estado con el voto de las dos terceras partes de sus miembros presentes, durará en su encargo cinco años y no podrá ser reelecto; estará adscrito administrativamente a la Presidencia del Tribunal y deberá reunir los requisitos que señala este Código.
+
+El Órgano Interno de Control contará con la estructura orgánica, personal y recursos que apruebe el Pleno a propuesta del Presidente.
+
+El titular del Órgano Interno de Control podrá ser sancionado conforme a los términos de la normatividad en materia de responsabilidad de servidores públicos. El Congreso del Estado resolverá sobre la aplicación de las sanciones, incluida entre estas la remoción por causas graves de responsabilidad administrativa denunciadas por la Sala, debiendo garantizar el derecho de audiencia al afectado. La remoción requerirá del voto de las dos terceras partes de los integrantes.
 
 ###### Artículo 169.
 
@@ -1583,7 +1857,9 @@ El ingreso, permanencia y promoción de los actuarios, defensores jurídicos y s
 
 En los concursos de oposición, el Presidente emitirá una convocatoria, que deberá ser publicada en el Periódico Oficial del Estado y en uno de los diarios de mayor circulación estatal, en la que señale la categoría y el número de vacantes sujetos a concurso, el plazo, lugar y requisitos para la inscripción, el lugar, día y hora en que se llevarán a cabo las evaluaciones.
 
-Para la organización, práctica y calificación de los exámenes de oposición, el Presidente nombrará a un jurado que se integrará por un Magistrado y hasta tres profesores de facultades o escuelas de la licenciatura en derecho que sean convocados para tal efecto por acuerdo de la Sala.
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
+Para la organización, práctica y calificación de los exámenes de oposición, el Presidente nombrará a un jurado que se integrará por un Magistrado y hasta tres profesores de facultades o escuelas de la licenciatura en derecho que sean convocados para tal efecto por acuerdo del Pleno.
 
 ### Capítulo Décimo. Ingresos del Tribunal
 
@@ -1591,7 +1867,9 @@ Para la organización, práctica y calificación de los exámenes de oposición,
 
 Todo el personal que labore en el Tribunal, será considerado de confianza y se sujetará a lo dispuesto por la Ley de los Trabajadores al Servicio del Estado de Michoacán de Ocampo y de sus Municipios.
 
-### Capítulo Décimo Primero. Responsabilidades del Personal
+### Capítulo Décimo Primero. Responsabilidades
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### Artículo 177.
 
@@ -1627,111 +1905,53 @@ En todos los casos los egresos serán comprobables. La administración se realiz
 
 Son ingresos en administración, los bienes que por cualquier causa están afectos a la administración por parte del Tribunal. Estos no podrán ser objeto de gasto.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE JULIO DE 2017)</small>
+
 ### Capítulo Décimo Segundo. Recurso de Aclaración
 
 ###### Artículo 181.
 
-Los servidores públicos del Tribunal incurrirán en responsabilidades en términos de la Ley de Responsabilidades, y en las demás que señalen las normas.
+Las responsabilidades de los servidores públicos, estarán atentas a lo dispuesto por la Ley de Responsabilidades.
 
 ###### Artículo 182.
 
-Son causas de destitución del cargo o empleo e inhabilitación de los servidores públicos del Tribunal, las siguientes faltas:
-
-I. Solicitar o recibir por sí o por interpósita persona dinero, valores, servicios o cualquier otra dádiva o aceptar una promesa para hacer u omitir algo lícito o ilícito relacionado con sus funciones;
-
-II. Dirigir, asesorar o aconsejar a las personas en los negocios judiciales que sean de su competencia;
-
-III. Dilatar maliciosamente los emplazamientos, notificaciones, embargos o diligencias de cualquier clase que les fueren encomendadas;
-
-IV. Embargar o asegurar bienes de persona o corporación que no sea la designada en el auto respectivo, si en el momento de la diligencia se les demuestra que esos bienes son de tercero; o ejecutar, maliciosamente, lanzamiento de persona o corporación distinta a la señalada en el mandamiento correspondiente;
-
-V. Tener una notoria ineptitud o descuido en el desempeño de las funciones o labores que deban realizar;
-
-VI. Desempeñar otros cargos para los que estén impedidos con arreglo a la ley, o realizar actividades docentes o administrativas en las horas de labores; y,
-
-VII. Realizar conductas que atenten contra la independencia de la función judicial, tales como aceptar o ejercer consignas, presiones, encargos o comisiones, tráfico de influencia o cualquier acción que genere o implique subordinación.
+(DEROGADO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 183.
 
-Serán causa de sanción en los términos de esta Ley, en función de su gravedad, las siguientes faltas:
-
-I. Demorar indebidamente el despacho de los negocios o las labores propias de sus cargos;
-
-II. Dictar resoluciones o trámites innecesarios que sólo tiendan a dilatar el procedimiento;
-
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2011)</small>
-
-III. Demorar injustificadamente el envío de los autos o testimonios para el trámite del recurso correspondiente;
-
-IV. Decretar un embargo o su ampliación sin que se reúnan los requisitos legales;
-
-V. Hacer a las partes, por cédula o instructivo, emplazamientos, notificaciones o citaciones fuera del lugar designado en autos; o no cerciorarse, en el caso de los emplazamientos, de que el interesado vive en la casa donde se practique la diligencia;
-
-VI. No excusarse de conocer negocios para los cuales tengan impedimento legal;
-
-VII. No asistir a sus labores, llegar tarde a las oficinas respectivas o ausentarse de ellas durante el horario de trabajo, sin causa justificada;
-
-VIII. Revelar indebidamente información proveniente de los asuntos que se tramitan en el Tribunal;
-
-IX. Emitir opinión pública que implique prejuzgar sobre un asunto de su conocimiento o sobre el que eventualmente deba conocer;
-
-X. Impedir o entorpecer en los procedimientos judiciales que las partes ejerzan los derechos que la ley les asigne;
-
-XI. No asentar oportunamente en autos las certificaciones que procedan de oficio o por mandato judicial;
-
-XII. Desobedecer las resoluciones u órdenes legítimas de sus superiores; no atenderlas con la debida oportunidad, o no guardar respeto a aquéllos en el ejercicio de sus funciones;
-
-XIII. No dar cuenta, dentro del término legal, con las promociones y documentos dirigidos a su superior;
-
-XIV. No informar a sus inmediatos superiores de las faltas que cometan los empleados subalternos en el desempeño de su cargo;
-
-XV. No permitir el examen de los expedientes, sin causa justificada, a las personas que puedan consultarlos con arreglo a la ley; y,
-
-XVI. Las demás que determine la ley.
+(DEROGADO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 184.
 
-Las sanciones aplicables a los servidores públicos del Tribunal son:
-
-I. Amonestación por escrito;
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
-
-II. Multa de una a diez veces el valor diario de la Unidad de Medida y Actualización;
-
-III. Suspensión hasta por seis meses;
-
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2011)</small>
-
-IV. Destitución del cargo o empleo; o,
-
-V. Inhabilitación para desempeñar empleos, cargos o comisiones en el servicio público, hasta por seis años.
+(DEROGADO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 185.
 
-Están obligados a presentar la declaración de situación patrimonial, los magistrados, el Secretario General de Acuerdos, Secretarios de Estudio y Cuenta, el Secretario Administrativo, actuarios, Contralor Interno, defensores jurídicos y los servidores públicos adscritos al área administrativa y a la contraloría, de conformidad con el Reglamento Interior.
+(DEROGADO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 186.
 
-El Contralor Interno tramitará el procedimiento para identificar, investigar y determinar las responsabilidades administrativas de los servidores públicos del Tribunal, con motivo de las denuncias o quejas que se presenten o de la revisión de documentos e instrumentos relacionados con los asuntos de su competencia, conforme a los preceptos de la Ley de Responsabilidades.
+(DEROGADO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 187.
 
-El Presidente de conformidad con el Reglamento Interior, aplicará las sanciones que procedan a los servidores públicos del Tribunal, que incurran en responsabilidades administrativas, en los términos que establezcan las normas.
+(DEROGADO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 188.
 
-En contra de las sanciones de responsabilidad administrativa que se les aplique, los servidores públicos del Tribunal tienen derecho a promover ante la Sala, como único medio de defensa, el recurso de aclaración.
+(DEROGADO, P.O. 18 DE JULIO DE 2017)
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE JULIO DE 2017)</small>
 
 ### Capítulo Primero. Partes
 
 ###### Artículo 189.
 
-El recurso de aclaración sólo procederá contra sanciones definitivas impuestas. Tendrá como propósito la aclaración de la resolución de sanción, sin poder modificar la sustancia de la misma.
+(DEROGADO, P.O. 18 DE JULIO DE 2017)
 
-Podrá ser interpuesto una vez, en el término de los cinco días hábiles siguientes a la notificación. Será resuelto por la Sala en el término de los cinco días hábiles siguientes. El auto que recaiga al recurso integrará parte del que declara la sanción.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE JULIO DE 2017)</small>
 
-# Libro Quinto. Juicio Administrativo
+# Libro Quinto. Juicio Administrativo y Procedimiento de Responsabilidad Administrativa
 
 ### Capítulo Segundo. Disposiciones Generales
 
@@ -1815,9 +2035,11 @@ Asimismo, las partes podrán designar autorizados para imponerse de los autos a 
 
 Las diligencias que deban practicarse en el lugar de residencia del Tribunal, se encomendarán al Secretario General de Acuerdos, al Secretario de Estudio y Cuenta o Actuario y para aquéllas que deban practicarse fuera, se encomendará a dichos funcionarios, o bien, mediante exhorto al Juez del lugar donde deban practicarse, a juicio del Magistrado que esté conociendo del asunto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
+
 ###### Artículo 200.
 
-Los magistrados y la Sala del Tribunal, tienen el deber de mantener el buen orden y de exigir que se les guarde el respeto y consideración debidos, podrán imponer, de acuerdo a la gravedad de la falta, las siguientes correcciones disciplinarias:
+Los magistrados y el Pleno del Tribunal, tienen el deber de mantener el buen orden y de exigir que se les guarde el respeto y consideración debidos, podrán imponer, de acuerdo a la gravedad de la falta, las siguientes correcciones disciplinarias:
 
 I. Amonestación;
 
@@ -1931,9 +2153,11 @@ VI. Figuren como parte en juicio similar, ante el propio Tribunal; o,
 
 VII. Que estén en una situación análoga o más grave que las anteriores.
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
 ###### Artículo 209.
 
-Los magistrados, tienen el deber de excusarse del conocimiento de los negocios en que exista alguno de los impedimentos señalados en el artículo anterior, expresando concretamente en qué consiste el impedimento. Manifestada por un Magistrado la causa de impedimento, la Sala calificará la excusa y cuando proceda, designará quién deba sustituir al Magistrado impedido.
+Los magistrados, tienen el deber de excusarse del conocimiento de los negocios en que exista alguno de los impedimentos señalados en el artículo anterior, expresando concretamente en qué consiste el impedimento. Manifestada por un Magistrado la causa de impedimento, el Pleno calificará la excusa y cuando proceda, designará quién deba sustituir al Magistrado impedido.
 
 ###### Artículo 210.
 
@@ -1943,9 +2167,11 @@ Tratándose de excusas de peritos designados por las partes y manifestada la cau
 
 Las partes podrán recusar a los magistrados o a los peritos designados por éstos, cuando estando en alguno de los casos de impedimento a que se refiere este Código, no se hubieren excusado.
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
 ###### Artículo 212.
 
-La recusación de magistrados se hará valer en cualquier tiempo, mediante escrito dirigido al Presidente y acompañando las pruebas que se ofrezcan. El Presidente, dentro de los tres días hábiles siguientes a la fecha en que se presentó la promoción, pedirá un informe al Magistrado recusado, quien deberá rendirlo en igual plazo; la falta de dicho informe establece la presunción de ser cierta la causa de recusación. La recusación será resuelta por la Sala dentro del término de cinco días hábiles. Si se declara fundada la recusación, el Magistrado será sustituido en los términos de este Código. La recusación a perito se tramitará y resolverá por el Magistrado que lo designó, en los términos de este artículo.
+La recusación de magistrados se hará valer en cualquier tiempo, mediante escrito dirigido al Presidente y acompañando las pruebas que se ofrezcan. El Presidente, dentro de los tres días hábiles siguientes a la fecha en que se presentó la promoción, pedirá un informe al Magistrado recusado, quien deberá rendirlo en igual plazo; la falta de dicho informe establece la presunción de ser cierta la causa de recusación. La recusación será resuelta por el Pleno dentro del término de cinco días hábiles. Si se declara fundada la recusación, el Magistrado será sustituido en los términos de este Código. La recusación a perito se tramitará y resolverá por el Magistrado que lo designó, en los términos de este artículo.
 
 ### Capítulo Sexto. Demanda
 
@@ -2297,6 +2523,8 @@ Abierta la audiencia, asistiendo o no las partes, se procederá a recibir por su
 
 ### Capítulo Décimo Primero. Sentencia
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
 ###### Artículo 265.
 
 El incidente se promoverá ante el Magistrado Instructor, quien ordenará correr traslado a las partes para que expresen lo que a su interés convenga, por el término de tres días hábiles; agotado éste, si las partes ofrecieron pruebas o el Magistrado Instructor las considera necesarias se citará a una audiencia de desahogo de pruebas y alegatos misma que se celebrará dentro de los cinco a (sic) días hábiles siguientes, la que se verificará concurran o no las partes. El Magistrado Instructor dentro de los tres días siguientes a la audiencia dictará resolución.
@@ -2313,9 +2541,17 @@ I. La falta de personalidad;
 
 II. La acumulación de autos;
 
-III. La nulidad de notificaciones; y,
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-IV. La incompetencia.
+III. La nulidad de notificaciones;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+IV. La incompetencia; y,
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+V. La tacha de testigos.
 
 Mientras estén pendientes de resolución los incidentes mencionados, el juicio continuará hasta antes de citación para sentencia.
 
@@ -2347,15 +2583,15 @@ El incidente de nulidad de notificaciones se interpondrá ante el Magistrado Ins
 
 Si se declara la nulidad, el Magistrado ordenará reponer el procedimiento desde la fecha de la notificación anulada.
 
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+Artículo 271 A. En el incidente de tachas, las partes pueden tachar a los testigos por causas que éstos no hubieren expresado en sus declaraciones, dentro de los tres días siguientes al desahogo de la prueba. En caso de que la testimonial hubiese sido rendida con anterioridad al término probatorio, deberá proponerse la tacha dentro de los cinco días siguientes de que se haya abierto éste.
+
 ### Capítulo Décimo Segundo. Ejecución de la Sentencia
 
 ###### Artículo 272.
 
-La sentencia se pronunciará por unanimidad o por mayoría de votos de los magistrados.
-
-Cuando por mayoría los magistrados estén de acuerdo con el proyecto, el Magistrado disidente podrá formular voto particular, que presentará por escrito dentro del término de cinco días hábiles.
-
-Si el proyecto no fue aceptado por los otros magistrados, el Magistrado Instructor podrá engrosar el fallo con los argumentos de la mayoría y el proyecto podrá quedar como voto particular.
+La sentencia será emitida por el magistrado al cual se le haya turnado el asunto.
 
 ###### Artículo 273.
 
@@ -2367,7 +2603,9 @@ Las sentencias deberán ser debidamente fundadas y motivadas.
 
 Cuando se hagan valer diversas causales de ilegalidad, la sentencia deberá examinar primero aquellas que puedan llevar a declarar la nulidad lisa y llana. En el caso de que la sentencia declare la nulidad de una resolución por la omisión de los requisitos formales exigidos por las normas, o por vicios de procedimiento, la misma deberá señalar en qué forma afectaron la defensa del particular y motivaron el sentido de la resolución.
 
-Tratándose de las sentencias que resuelvan sobre la legalidad de la resolución dictada en un recurso administrativo, si se cuenta con elementos suficientes para ello, la Sala se pronunciará sobre la legalidad de la resolución recurrida, en la parte que no satisfizo el interés jurídico del demandante. No se podrán anular o modificar los actos de las autoridades administrativas no impugnados de manera expresa en la demanda.
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
+Tratándose de las sentencias que resuelvan sobre la legalidad de la resolución dictada en un recurso administrativo, si se cuenta con elementos suficientes para ello, el Pleno se pronunciará sobre la legalidad de la resolución recurrida, en la parte que no satisfizo el interés jurídico del demandante. No se podrán anular o modificar los actos de las autoridades administrativas no impugnados de manera expresa en la demanda.
 
 ###### Artículo 275.
 
@@ -2425,11 +2663,15 @@ III. Modificar el acto o resolución impugnada; o,
 
 IV. En su caso, imponer la condena que corresponda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
+
 ###### Artículo 279.
 
-Sólo una vez puede pedirse la aclaración de sentencia y se promoverá ante la Sala dentro de los tres días hábiles siguientes de notificada, señalando con toda precisión la contradicción, ambigüedad u oscuridad, de cuya aclaración se solicite.
+Procede la aclaración de sentencia de oficio o a petición de parte, la que se promoverá ante el Magistrado Instructor o el Pleno, según sea el caso, dentro de los tres días hábiles siguientes de notificada, señalando con toda precisión la contradicción, ambigüedad u oscuridad, de cuya aclaración se solicite.
 
-La Sala resolverá dentro de los tres días hábiles siguientes, sin que pueda variar la sustancia de la resolución.
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
+El Magistrado Instructor o el Pleno, según sea el caso, resolverán dentro de los tres días hábiles siguientes, sin que pueda variar la sustancia de la resolución.
 
 La resolución sobre la aclaración de una sentencia, se considerará parte integrante de ésta, no admitirá ningún recurso, e interrumpirá el término para impugnar la resolución.
 
@@ -2441,15 +2683,21 @@ Cuando además de la pretensión de nulidad, se ejerza la de condena por daños 
 
 ### Capítulo Décimo Tercero. Queja
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
+
 ###### Artículo 281.
 
 La cosa juzgada es la verdad legal y contra ella no es admisible recurso, ni prueba alguna, salvo los casos expresamente determinados por la ley. Hay cosa juzgada cuando la sentencia ha causado ejecutoria.
 
-La declaración de que una sentencia ha causado ejecutoria se hará de oficio y no admite recurso alguno.
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
+La declaración de que una sentencia ha causado ejecutoria se hará de oficio y no admite recurso alguno. La que favorezca a un particular o contenga una obligación de hacer o de condena, deberá comunicarse a la autoridad correspondiente previniéndola y conminándola a rendir un informe dentro de los quince días hábiles siguientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### Artículo 282.
 
-Causa ejecutoria la sentencia dictada por la Sala, en los siguientes casos:
+Causa ejecutoria la sentencia dictada en los siguientes casos:
 
 I. Cuando no admite ningún medio de impugnación;
 
@@ -2459,11 +2707,19 @@ III. Cuando interpuesto algún medio de impugnación, éste se declare improcede
 
 IV. La sentencia consentida expresamente por las partes, sus representantes legítimos o sus mandatarios con poder bastante.
 
-Las resoluciones de la Sala causan ejecutoria por ministerio de ley.
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
+Las resoluciones causan ejecutoria por ministerio de ley.
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### Artículo 283.
 
-Cuando una sentencia ejecutoria sea favorable a un particular, la Sala la notificará dentro de los tres días hábiles siguientes por oficio a las partes para su debido cumplimiento, previniéndolas para que informen dentro de los diez días hábiles siguientes a la notificación sobre el cumplimiento que den a la sentencia respectiva y, en su caso, requerirá a la autoridad para que la cumpla.
+Si dentro del término a que se refiere el artículo anterior, la autoridad no cumple con la sentencia o su cumplimiento es excesivo o defectuoso; o, habiéndola cumplido, en cualquier tiempo repite el acto declarado inválido o nulo; o bien, no rinde el informe que corresponda, se le aplicará una multa de cien a cinco mil veces el valor diario de la unidad de medida y actualización. Independientemente de esta sanción, se comunicará al superior jerárquico de la autoridad de que se trate, la actitud de desobediencia, a fin de que lo conmine al cumplimiento de la resolución.
+
+Si no obstante los requerimientos y sanciones anteriores, no se da cumplimento a la sentencia, el Pleno del Tribunal de Justicia Administrativa, a petición de parte, podrá decretar la destitución del servidor público responsable del incumplimiento. Excepto de aquellos que hayan sido electos por votación popular; en este último caso se dará inicio a los procedimientos constitucionales de separación del cargo.
+
+Las medidas mencionadas en este capítulo también serán aplicables cuando no se cumplimente en sus términos la suspensión que se hubiere decretado respecto del acto reclamado. En este caso, cuando la violación no esté debidamente acreditada en autos, el Pleno requerirá a la autoridad correspondiente para que rinda un informe al respecto dentro de las veinticuatro horas siguientes. Si no lo rindiere se tendrá por acreditada la violación, procediendo a la aplicación de las sanciones correspondientes y ordenando nuevamente su cumplimiento dentro de las veinticuatro horas siguientes. Los actos o procedimientos que hubieren motivado la violación a la suspensión, se declararán sin efectos jurídicos por el Pleno.
 
 ###### Artículo 284.
 
@@ -2483,7 +2739,9 @@ En caso de incumplimiento injustificado de la sentencia, se procederá como sigu
 
 I. Se fijará multa de entre cien y quinientas veces el valor diario de la Unidad de Medida y Actualización, tomando en cuenta la gravedad del incumplimiento y las consecuencias que ello hubiere ocasionado, requiriéndola a cumplir con la sentencia en el término de tres días hábiles y previniéndole, además, de que en caso de renuencia, se le impondrán nuevas multas en los términos de esta fracción, lo que se informará al superior jerárquico de la autoridad demandada;
 
-II. Si al concluir el plazo mencionado en la fracción anterior, persistiere la renuencia de la autoridad demandada a cumplir con lo sentenciado, la Sala podrá requerir al superior jerárquico de aquélla para que en el plazo de tres días hábiles la obligue a cumplir sin demora;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+II. Si al concluir el plazo mencionado en la fracción anterior, persistiere la renuencia de la autoridad demandada a cumplir con lo sentenciado, el Tribunal podrá requerir al superior jerárquico de aquélla para que en el plazo de tres días hábiles la obligue a cumplir sin demora;
 
 III. De persistir el incumplimiento, se impondrá al superior jerárquico una multa de apremio de conformidad con lo establecido por la fracción I; y,
 
@@ -2491,9 +2749,11 @@ IV. Cuando la naturaleza del acto lo permita, la Sala podrá comisionar al funci
 
 ###### Artículo 286.
 
-Lo dispuesto en el artículo anterior también será aplicable cuando no se cumplimente en los términos ordenados (sic) la suspensión que se decrete, respecto del acto impugnado en el juicio o en relación con la garantía que deba ser admitida.
+Lo dispuesto en el artículo anterior también será aplicable cuando no se cumplimente en los términos ordenados la suspensión que se decrete, respecto del acto impugnado en el juicio o en relación con la garantía que deba ser admitida.
 
-Transcurridos los plazos señalados en las fracciones anteriores, la Sala pondrá en conocimiento de la Contraloría Interna correspondiente los hechos, a fin de que ésta determine la responsabilidad del funcionario responsable del incumplimiento.
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
+Transcurridos los plazos señalados en las fracciones anteriores, el Tribunal pondrá en conocimiento del Órgano Interno correspondiente los hechos, a fin de que éste determine la responsabilidad del funcionario responsable del incumplimiento.
 
 ### Capítulo Décimo Cuarto. Procedimiento Sumario
 
@@ -2501,7 +2761,7 @@ Transcurridos los plazos señalados en las fracciones anteriores, la Sala pondr�
 
 ###### Artículo 287.
 
-La queja se presentará ante la Sala y procederá en contra de los siguientes actos:
+La queja se presentará ante el Pleno y procederá en contra de los siguientes actos:
 
 I. Resolución que repita indebidamente la resolución anulada o la que incurra en exceso o en defecto, cuando se dicte pretendiendo acatar una sentencia;
 
@@ -2513,15 +2773,19 @@ IV. Incumplimiento a la orden de suspensión definitiva de la ejecución del act
 
 La queja podrá hacerse valer por una sola vez, con excepción de los supuestos contemplados en la fracción III y IV, caso en el que se podrá interponer en contra de las resoluciones dictadas en cumplimiento a esta instancia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
+
 ###### Artículo 288.
 
-La queja se interpondrá por escrito acompañado, si la hay, de la resolución motivo de la queja, así como de una copia para la autoridad responsable, se presentará ante la Sala, dentro de los quince días hábiles siguientes a aquél en que surtió efectos la notificación del acto, resolución o manifestación que la provoca. En el supuesto previsto en la fracción III del artículo anterior, el quejoso podrá interponer su queja en cualquier tiempo, salvo que haya prescrito su derecho.
+La queja se interpondrá por escrito acompañado, si la hay, de la resolución motivo de la queja, así como de una copia para la autoridad responsable, se presentará ante el Pleno, dentro de los quince días hábiles siguientes a aquél en que surtió efectos la notificación del acto, resolución o manifestación que la provoca. En el supuesto previsto en la fracción III del artículo anterior, el quejoso podrá interponer su queja en cualquier tiempo, salvo que haya prescrito su derecho.
 
 En dicho escrito se expresarán las razones por las que se considera que hubo exceso o defecto; repetición del acto impugnado o del efecto de éste; que exista preclusión respecto de la oportunidad de la autoridad demandada para emitir la resolución definitiva con la que concluya el procedimiento ordenado; o bien, que procede el cumplimiento sustituto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
+
 ###### Artículo 289.
 
-El Presidente de la Sala ordenará a la autoridad a quien se impute el incumplimiento, que rinda informe dentro del plazo de cinco días hábiles sobre el acto que provocó la queja. Vencido el plazo mencionado, con informe o sin él, se dará cuenta a la Sala, la que resolverá dentro de los cinco días hábiles siguientes.
+El Presidente del Pleno ordenará a la autoridad a quien se impute el incumplimiento, que rinda informe dentro del plazo de cinco días hábiles sobre el acto que provocó la queja. Vencido el plazo mencionado, con informe o sin él, se dará cuenta a la Sala, la que resolverá dentro de los cinco días hábiles siguientes.
 
 Durante el trámite de la queja se suspenderá el procedimiento administrativo de ejecución que en su caso existiere.
 
@@ -2529,15 +2793,23 @@ Durante el trámite de la queja se suspenderá el procedimiento administrativo d
 
 La resolución que recaiga a la queja interpuesta podrá tener los efectos siguientes:
 
-I. En caso de repetición de la resolución anulada, la Sala hará la declaratoria correspondiente, anulando la resolución repetida y la notificará a la autoridad responsable de la repetición, previniéndole se abstenga de incurrir en nuevas repeticiones. Además, al resolver la queja, la Sala impondrá la multa y ordenará se envíe el informe al superior jerárquico, establecidos por las fracciones I y II del artículo 285;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-II. Si la Sala resuelve que hubo exceso o defecto en el cumplimiento, dejará sin efectos la resolución que provocó la queja y concederá a la autoridad demandada veinte días hábiles para que dé el cumplimiento debido al fallo, precisando la forma y términos conforme a los cuales deberá cumplir;
+I. En caso de repetición de la resolución anulada, el Pleno hará la declaratoria correspondiente, anulando la resolución repetida y la notificará a la autoridad responsable de la repetición, previniéndole se abstenga de incurrir en nuevas repeticiones. Además, al resolver la queja, el Pleno impondrá la multa y ordenará se envíe el informe al superior jerárquico, establecidos por las fracciones I y II del artículo 285;
 
-III. Si la Sala comprueba que la resolución a que se refiere la fracción II del artículo 287, se emitió después de concluido el plazo legal, anulará ésta, declarando la preclusión de la oportunidad de la autoridad demandada para dictarla y ordenará se comunique esta circunstancia al superior jerárquico de ésta, para que disponga su cumplimiento en los términos de la sentencia;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+II. Si el Pleno resuelve que hubo exceso o defecto en el cumplimiento, dejará sin efectos la resolución que provocó la queja y concederá a la autoridad demandada veinte días hábiles para que dé el cumplimiento debido al fallo, precisando la forma y términos conforme a los cuales deberá cumplir;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+III. Si el Pleno comprueba que la resolución a que se refiere la fracción II del artículo 287, se emitió después de concluido el plazo legal, anulará ésta, declarando la preclusión de la oportunidad de la autoridad demandada para dictarla y ordenará se comunique esta circunstancia al superior jerárquico de ésta, para que disponga su cumplimiento en los términos de la sentencia;
 
 IV. En el supuesto de omisión, se estará a lo dispuesto por el artículo 287, pero en caso de que la autoridad persista en no dar cumplimiento a la sentencia, se dará vista al Ministerio Público. En caso de que la autoridad sea sujeto de juicio político se hará del conocimiento del Congreso del Estado;
 
-V. En el supuesto comprobado y justificado de imposibilidad de cumplir con la sentencia, la Sala declarará procedente el cumplimiento sustituto y ordenará instruir el incidente respectivo;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+V. En el supuesto comprobado y justificado de imposibilidad de cumplir con la sentencia, el Pleno declarará procedente el cumplimiento sustituto y ordenará instruir el incidente respectivo;
 
 VI. En el supuesto de incumplimiento a la orden de suspensión definitiva de la ejecución del acto impugnado el Magistrado Instructor pedirá un informe a la autoridad a quien se impute el incumplimiento de la sentencia interlocutoria que hubiese otorgado la suspensión definitiva, que deberá rendir dentro del plazo de cinco días hábiles, en el que, en su caso, se justificará el acto o la omisión que provocó la queja. Vencido dicho plazo, con informe o sin él, el Magistrado resolverá en un plazo máximo de cinco días hábiles;
 
@@ -2553,9 +2825,133 @@ VIII. En caso de que la autoridad persista en no dar cumplimiento a la sentencia
 
 A quien promueva una queja notoriamente improcedente, entendiendo por ésta la que se interponga contra actos que no constituyan resolución administrativa definitiva, se le impondrá una multa en monto equivalente a entre cien y doscientas veces el valor diario de la Unidad de Medida y Actualización, y, en caso de haberse suspendido la ejecución, se considerará este hecho como agravante para graduar la sanción que en definitiva se imponga.
 
-Existiendo resolución administrativa definitiva, si la Sala considera que la queja es improcedente, prevendrán al actor para que dentro de los treinta días hábiles siguientes a aquél en que surta efectos la notificación del auto respectivo, la presente como demanda, cumpliendo los mismos requisitos previstos en este Código, ante el mismo Magistrado Instructor que conoció del primer juicio, la que será turnada al mismo Magistrado Instructor de la queja.
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-### Capítulo Décimo Quinto. Recurso de Reconsideración
+Existiendo resolución administrativa definitiva, si el Pleno considera que la queja es improcedente, prevendrán al actor para que dentro de los treinta días hábiles siguientes a aquél en que surta efectos la notificación del auto respectivo, la presente como demanda, cumpliendo los mismos requisitos previstos en este Código, ante el mismo Magistrado Instructor que conoció del primer juicio, la que será turnada al mismo Magistrado Instructor de la queja.
+
+### Capítulo Décimo Cuarto Bis. Juicio en Línea
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+Artículo 297 A. El juicio administrativo podrá promoverse, substanciarse y resolverse en línea, a través del SIT que deberá establecer y desarrollar el Tribunal, en términos de lo dispuesto por el presente Capítulo y las demás disposiciones específicas que resulten aplicables de este Código.
+
+Solo el particular tendrá esta opción. En todo lo no previsto, se aplicarán las demás disposiciones que resulten aplicables de este ordenamiento.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+Artículo 297 B. Cuando el demandante ejerza su derecho a presentar su demanda en línea a través del SIT, las autoridades demandadas deberán comparecer y tramitar el juicio en la misma vía.
+
+Si el demandante no señala expresamente su dirección de Correo Electrónico, se tramitará el Juicio en la vía tradicional y el acuerdo correspondiente se notificará por lista y en el Boletín Procesal del Tribunal.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+Artículo 297 C. Cuando la demandante sea una autoridad, el particular demandado, al contestar la demanda, tendrá derecho a ejercer su opción para que el juicio se tramite y resuelva en línea conforme a las disposiciones de este Capítulo, señalando para ello su domicilio y dirección de Correo Electrónico.
+
+A fin de emplazar al particular demandado, el Secretario de Acuerdos que corresponda, imprimirá y certificará la demanda y sus anexos que se notificarán de manera personal.
+
+Si el particular rechaza tramitar el juicio en línea contestará la demanda mediante el Juicio en la vía tradicional.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+Artículo 297 D. En el SIT se integrará el Expediente Electrónico, mismo que incluirá todas las promociones, pruebas y otros anexos que presenten las partes, oficios, acuerdos, y resoluciones tanto interlocutorias como definitivas, así como las demás actuaciones que deriven de la substanciación del juicio en línea, garantizando su seguridad, inalterabilidad, autenticidad, integridad y durabilidad, conforme a los lineamientos que expida el Tribunal.
+
+En los juicios en línea, la autoridad requerida, desahogará las pruebas testimoniales utilizando el método de videoconferencia, cuando ello sea posible.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+Artículo 297 E. La Firma Electrónica Avanzada, Clave de Acceso y Contraseña se proporcionarán, a través del SIT, previa obtención del registro y autorización correspondientes. El registro de la Firma Electrónica Avanzada, Clave de Acceso y Contraseña, implica el consentimiento expreso de que dicho sistema registrará la fecha y hora en la que se abran los archivos electrónicos, que contengan las constancias que integran el Expediente Electrónico, para los efectos legales establecidos en este ordenamiento.
+
+Para hacer uso del SIT deberán observarse los lineamientos que, para tal efecto, expida el Tribunal.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+Artículo 297 F. La Firma Electrónica Avanzada producirá los mismos efectos legales que la firma autógrafa y garantizará la integridad del documento, teniendo el mismo valor probatorio.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+Artículo 297 G. Solamente, las partes, las personas autorizadas y delegados tendrán acceso al Expediente Electrónico, exclusivamente para su consulta, una vez que tengan registrada su Clave de Acceso y Contraseña.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+Artículo 297 H. Los titulares de una Firma Electrónica Avanzada, Clave de Acceso y Contraseña serán responsables de su uso, por lo que el acceso o recepción de las notificaciones, la consulta al Expediente Electrónico y el envío de información mediante la utilización de cualquiera de dichos instrumentos, les serán atribuibles y no admitirán prueba en contrario, salvo que se demuestren fallas del SIT.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+Artículo 297 I. Una vez recibida por vía electrónica cualquier promoción de las partes, el SIT emitirá el Acuse de Recibo Electrónico correspondiente, señalando la fecha y la hora de recibido.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+Artículo 297 J. Cualquier actuación en el Juicio en Línea se efectuará a través del SIT en términos del presente capítulo. Dichas actuaciones serán validadas con las firmas electrónicas avanzadas de los Magistrados y Secretarios de Acuerdos que den fe según corresponda.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+Artículo 297 K. Los documentos que las partes ofrezcan como prueba, incluido el expediente administrativo, deberán exhibirlos de forma legible a través del SIT.
+
+Tratándose de documentos digitales, se deberá manifestar la naturaleza de los mismos, especificando si la reproducción digital corresponde a una copia simple, una copia certificada o al original y tratándose de esta última, si tiene o no firma autógrafa. Los particulares deberán hacer esta manifestación bajo protesta de decir verdad, la omisión de la manifestación presume en perjuicio sólo del promovente, que el documento digitalizado corresponde a una copia simple.
+
+Las pruebas documentales que ofrezcan y exhiban las partes tendrán el mismo valor probatorio que su constancia física, siempre y cuando se observen las disposiciones del presente código y de los acuerdos normativos que emita el Tribunal para asegurar la autenticidad de la información, así como de su transmisión, recepción, validación y notificación.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+Artículo 297 L. Para el caso de pruebas diversas a las documentales, los instrumentos en los que se haga constar la existencia de dichas pruebas se integrarán al Expediente Electrónico. El Secretario de Acuerdos a cuya mesa corresponda el asunto, deberá digitalizar las constancias relativas y procederá a la certificación de su cotejo con los originales físicos, así como a garantizar el resguardo de los originales y de los bienes materiales que en su caso hubieren sido objeto de prueba.
+
+Para el caso de pruebas diversas a las documentales, éstas deberán ofrecerse en la demanda y ser presentadas al Magistrado que esté conociendo del asunto, en la misma fecha en la que se registre en el SIT la promoción correspondiente a su ofrecimiento, haciendo constar su recepción por vía electrónica.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+Artículo 297 M. Para los juicios que se substancien en términos de este capítulo no será necesario que las partes exhiban copias para correr los traslados que el código establece, salvo que hubiese tercero interesado, en cuyo caso, a fin de correrle traslado, el demandante deberá presentar la copia de traslado con sus respectivos anexos.
+
+En el escrito a través del cual el tercero interesado se apersone en juicio, deberá precisar si desea que el juicio se continúe substanciando en línea y señalar en tal caso, su dirección de correo electrónico. En caso de que manifieste su oposición, el Pleno dispondrá lo conducente para que se digitalicen los documentos que dicho tercero presente, a fin de que se prosiga con la instrucción del juicio en línea con relación a las demás partes, y a su vez, se impriman y certifiquen las constancias de las actuaciones y documentación electrónica, a fin de que se integre el expediente del tercero en un juicio en la vía tradicional.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+Artículo 297 N. Las notificaciones que se practiquen dentro del juicio en línea, se efectuarán conforme a lo siguiente:
+
+I. Todas las actuaciones y resoluciones que conforme a las disposiciones de este código deban notificarse en forma personal, mediante correo certificado con acuse de recibo, o por oficio, se deberán realizar a través del SIT;
+
+II. El actuario deberá elaborar la minuta electrónica en la que precise la actuación o resolución a notificar, así como los documentos que se adjunten a la misma. Dicha minuta, que contendrá la Firma Electrónica Avanzada del actuario, será ingresada al SIT junto con la actuación o resolución respectiva y los documentos adjuntos;
+
+III. El actuario enviará a la Dirección de Correo Electrónico de la o las partes a notificar, un aviso informándole que se ha dictado una actuación o resolución en el Expediente Electrónico, la cual está disponible en el SIT;
+
+IV. El SIT registrará la fecha y hora en que se efectúe el envío señalado en la fracción anterior;
+
+V. Se tendrá como legalmente practicada la notificación, conforme a lo señalado en las fracciones anteriores, cuando el SIT genere el Acuse de Recibo Electrónico donde conste la fecha y hora en que la o las partes notificadas ingresaron al Expediente Electrónico, lo que deberá suceder dentro del plazo de tres días hábiles siguientes a la fecha de envío del aviso a la Dirección de Correo Electrónico de la o las partes a notificar; y,
+
+VI. En caso de que en el plazo señalado en la fracción anterior, el SIT no genere el acuse de recibo donde conste que la notificación fue realizada, la misma se efectuará mediante lista al cuarto día hábil contado a partir de la fecha de envío del correo electrónico, fecha en que se tendrá por legalmente notificado.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+Artículo 297 Ñ. Para los efectos del Juicio en Línea son hábiles las veinticuatro horas de los días en que se encuentren abiertas al público las Oficinas del Tribunal.
+
+Las promociones se considerarán, salvo prueba en contrario, presentadas el día y hora que conste en el Acuse de Recibo Electrónico que emita el SIT, en el lugar en donde el promovente tenga su domicilio fiscal, por recibidas, en el lugar del Tribunal. Tratándose de un día inhábil se tendrán por presentadas el día hábil siguiente.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+Artículo 297 O. Las autoridades cuyos actos sean susceptibles de impugnarse ante el Tribunal, deberán registrar en la Secretaría de Acuerdos o ante la Presidencia del Tribunal, según corresponda, la Dirección de Correo Electrónico Institucional, así como el domicilio oficial de las unidades administrativas a las que corresponda su representación en los juicios administrativos, para el efecto de emplazarlas electrónicamente a juicio en aquellos casos en los que tengan el carácter de autoridad demandada.
+
+En el caso de que las autoridades demandadas no cumplan con esta obligación, todas las notificaciones que deben hacerse, incluyendo el emplazamiento, se harán por lista, hasta que se cumpla con dicha formalidad.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+Artículo 297 P. Para la presentación y trámite de los recursos de revisión y juicios de amparo que se promuevan contra las actuaciones y resoluciones derivadas del Juicio en Línea, no será aplicable lo dispuesto en el presente Capítulo.
+
+El Secretario General de Acuerdos del Tribunal, Secretarios de Estudio y Cuenta y Secretarios de Acuerdos según corresponda, deberán imprimir el archivo del Expediente Electrónico y certificar las constancias del juicio que deban ser remitidos a los Juzgados de Distrito y Tribunales Colegiados de Circuito, cuando se impugnen resoluciones de los juicios correspondientes a su mesa.
+
+Sin perjuicio de lo anterior, en aquellos casos en que así lo solicite el Juzgado de Distrito o el Tribunal Colegiado, se podrá remitir la información a través de medios electrónicos.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+Artículo 297 Q. En caso que el Tribunal advierta que alguna persona modificó, alteró, destruyó o provocó la pérdida de información contenida en el SIT, se tomarán las medidas de protección necesarias, para evitar dicha conducta hasta que concluya el juicio, el cual se continuará tramitando a través de un juicio en la vía tradicional.
+
+Si el responsable es usuario del Sistema, se cancelará su Firma Electrónica Avanzada, Clave y Contraseña para ingresar al SIT y no tendrá posibilidad de volver a promover juicios en línea.
+
+Sin perjuicio de lo anterior, y de las responsabilidades penales respectivas, se impondrá al responsable una multa de trescientas a quinientas veces el valor diario de la unidad de medida y actualización al momento de cometer la infracción.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+Artículo 297 R. Cuando por caso fortuito, fuerza mayor o por fallas técnicas se interrumpa el funcionamiento del SIT, haciendo imposible el cumplimiento de los plazos establecidos en el Código, las partes deberán dar aviso al Magistrado correspondiente en la misma promoción sujeta a término, quien pedirá un reporte al titular de la unidad administrativa del Tribunal responsable de la administración del Sistema sobre la existencia de la interrupción del servicio.
+
+El reporte que determine que existió interrupción en el Sistema deberá señalar la causa y el tiempo de dicha interrupción, indicando la fecha y hora de inicio y término de la misma. Los plazos se suspenderán, únicamente, el tiempo que dure la interrupción del Sistema. Para tal efecto, el Pleno hará constar esta situación mediante acuerdo en el expediente electrónico y, considerando el tiempo de la interrupción, realizara el computo correspondiente, para determinar si hubo o no incumplimiento de los plazos legales.
 
 ###### Artículo 292.
 
@@ -2589,6 +2985,10 @@ La audiencia se desahogará en presencia del Magistrado Instructor, comenzará c
 
 El Magistrado propondrá a la Sala el proyecto de sentencia del asunto, mismo que será resuelto en el plazo de cinco días hábiles.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE JULIO DE 2017)</small>
+
+### Capítulo Décimo Quinto. Recurso de Reconsideración
+
 ### Capítulo Décimo Sexto. Criterios Jurisprudenciales
 
 ###### Artículo 298.
@@ -2605,9 +3005,11 @@ IV. Las resoluciones que pongan fin al procedimiento de ejecución de sentencia;
 
 V. Las determinaciones que impongan los medios de apremio y medidas disciplinarias previstas en este Código.
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
 ###### Artículo 299.
 
-El recurso de reconsideración podrá ser interpuesto por cualquiera de las partes, con expresión de agravios, dentro del plazo de los tres días hábiles siguientes al que surta efectos la notificación de la resolución o sentencia que se impugne. El recurso se presentará ante la Sala, y se turnará para su trámite a un Magistrado distinto del instructor.
+El recurso de reconsideración podrá ser interpuesto por cualquiera de las partes, con expresión de agravios, dentro del plazo de los tres días hábiles siguientes al que surta efectos la notificación de la resolución o sentencia que se impugne. El recurso se presentará ante el Pleno y se turnará para su trámite a un Magistrado distinto del instructor.
 
 ###### Artículo 300.
 
@@ -2616,6 +3018,10 @@ Para su presentación, admisión y desechamiento se aplicarán en lo conducente,
 ###### Artículo 301.
 
 El Magistrado Instructor a quien se le turne el recurso, al admitirlo, mandará correr traslado del mismo a las demás partes por el término de tres días hábiles posteriores a aquél en que surta efectos la notificación, para que expongan lo que a sus derechos convenga. Vencido este término, presentará al pleno de la Sala en un plazo de tres días hábiles el proyecto de resolución, la cual deberá resolver en un plazo de tres días hábiles.
+
+### Capítulo Décimo Séptimo. Disposiciones Comunes
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### Artículo 302.
 
@@ -2636,6 +3042,214 @@ IV. Se perciban lagunas de ley.
 ###### Artículo 304.
 
 El criterio jurisprudencial será sometido y definido por la Sala y compilado y publicada por el Secretario General de Acuerdos; no siendo vinculante su aplicación, por lo que, los magistrados podrán variar sus criterios atendiendo a la independencia de su función.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE JULIO DE 2017)</small>
+
+### Capítulo Décimo Octavo. Inconformidad
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 305.
+
+En los asuntos relacionados con faltas administrativas graves o faltas de particulares, se deberá proceder de conformidad con lo siguiente:
+
+I. A más tardar dentro de los tres días hábiles siguientes de haber concluido la Audiencia Inicial, la Autoridad substanciadora deberá, bajo su responsabilidad, enviar a este Tribunal los autos originales del expediente, así como notificar a las partes de la fecha de su envío, indicando el domicilio de este Tribunal encargado de la resolución del asunto;
+
+II. Cuando el magistrado Especializado reciba el expediente, bajo su más estricta responsabilidad, deberá verificar que la falta descrita en el Informe de Presunta Responsabilidad Administrativa sea de las consideradas como graves. En caso de no serlo, fundando y motivando debidamente su resolución, enviará el expediente respectivo a la Autoridad Substanciadora que corresponda para que continúe el procedimiento en términos de lo dispuesto en el artículo anterior;
+
+III. De igual forma, de advertir el Magistrado especializado que los hechos descritos por la Autoridad Investigadora en el Informe de Presunta Responsabilidad Administrativa corresponden a la descripción de una falta grave diversa, le ordenará a ésta realice la reclasificación que corresponda, pudiendo señalar las directrices que considere pertinentes para su debida presentación, para lo cual le concederá un plazo de tres días hábiles;
+
+IV. En caso de que la Autoridad Investigadora se niegue a hacer la reclasificación, bajo su más estricta responsabilidad así lo hará saber a este Tribunal fundando y motivando su proceder. En este caso, el Tribunal continuará con el procedimiento de responsabilidad administrativa;
+
+V. Una vez que el Tribunal haya decidido que el asunto corresponde a su competencia y en su caso, se haya solventado la reclasificación, deberá notificar personalmente a las partes sobre la recepción del expediente;
+
+VI. Cuando conste en autos que las partes han quedado notificadas, dictará dentro de los quince días hábiles siguientes el acuerdo de admisión de pruebas que corresponda, donde deberá ordenar las diligencias necesarias para su preparación y desahogo;
+
+VII. Concluido el desahogo de las pruebas ofrecidas por las partes, y si no existieran diligencias pendientes para mejor proveer o más pruebas que desahogar, el magistrado especializado declarará abierto el periodo de alegatos por un término de cinco días hábiles comunes para las partes;
+
+VIII. Una vez trascurrido el periodo de alegatos, de oficio, se declarará cerrada la instrucción y citará a las partes para oír la resolución que corresponda, la cual deberá dictarse en un plazo no mayor a treinta días hábiles, el cual podrá ampliarse por una sola vez por otros treinta días hábiles más, cuando la complejidad del asunto así lo requiera debiendo expresar los motivos para ello; y,
+
+IX. La resolución, deberá notificarse personalmente al presunto responsable. En su caso, se notificará a los denunciantes únicamente para su conocimiento, y al jefe inmediato o al titular de la dependencia o entidad, para los efectos de su ejecución, en un plazo no mayor de diez días hábiles.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE JULIO DE 2017)</small>
+
+### Capítulo Décimo Noveno. Apelación
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 306.
+
+Procede el recurso de inconformidad contra la calificación o la abstención de calificación de los hechos como faltas administrativas no graves que realicen las autoridades investigadoras; dicha calificación será notificada al denunciante, cuando este fuere identificable. Además de establecer la calificación que se le haya dado a la presunta falta, la notificación también contendrá de manera expresa la forma en que el notificado podrá acceder al Expediente de Presunta Responsabilidad Administrativa.
+
+La presentación del recurso tendrá como efecto que no se inicie el procedimiento de responsabilidad administrativa hasta en tanto este sea resuelto.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 307.
+
+El plazo para la presentación del recurso de inconformidad será de cinco días hábiles, contados a partir de la notificación de la resolución impugnada.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 308.
+
+El recurso de inconformidad deberá presentarse ante la autoridad investigadora que hubiere hecho la calificación de la falta administrativa como no grave, debiendo expresar los motivos por los que se estime indebida dicha calificación.
+
+Interpuesto el recurso, la autoridad investigadora deberá remitirlo al Tribunal, adjuntando el expediente integrado y un informe en el que justifique la calificación impugnada, del recurso de inconformidad conocerá alguna de las dos salas especializadas del Tribunal a la que por turno le corresponda.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 309.
+
+En caso de que el escrito por el que se interponga el recurso de inconformidad fuera obscuro o irregular, el Magistrado Especializado a quien por razón del turno le haya correspondido conocer requerirá al promovente para que subsane las deficiencias o realice las aclaraciones que corresponda, para lo cual le concederán un término de cinco días hábiles. De no subsanar las deficiencias o aclaraciones en el plazo antes señalado el recurso se tendrá por no presentado.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 310.
+
+En caso de que el Tribunal tenga por subsanadas las deficiencias o por aclarado el escrito por el que se interponga el recurso de inconformidad; o bien, cuando el escrito cumpla con los requisitos señalados en el Artículo 310 de este Código, admitirán dicho recurso y darán vista al presunto infractor para que en el término de cinco días hábiles manifieste lo que a su derecho convenga.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 311.
+
+Una vez subsanadas las deficiencias o aclaraciones o si no existieren, el Tribunal resolverá el recurso de inconformidad en un plazo no mayor a treinta días hábiles.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 312.
+
+El recurso de inconformidad será resuelto tomando en consideración la investigación que conste en el Expediente de Presunta Responsabilidad Administrativa y los elementos que aporten el denunciante o el presunto infractor. Contra la resolución que se dicte no procederá recurso alguno.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 313.
+
+El escrito por el cual se interponga el recurso de inconformidad deberá contener los siguientes requisitos:
+
+I. Nombre y domicilio del recurrente;
+
+II. La fecha en que se le notificó la calificación en términos de este capítulo;
+
+III. Las razones y fundamentos por los que, a juicio del recurrente, la calificación del acto es indebida; y,
+
+IV. Firma autógrafa del recurrente. La omisión de este requisito dará lugar a que no se tenga por presentado el recurso, por lo que en este caso no será aplicable lo dispuesto en el Artículo 307 de este Código.
+
+Asimismo, el recurrente acompañará su escrito con las pruebas que estime pertinentes para sostener las razones y fundamentos expresados en el recurso de inconformidad.
+
+La satisfacción de este requisito no será necesaria si los argumentos contra la calificación de los hechos versan solo sobre aspectos de derecho.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 314.
+
+La resolución del recurso de inconformidad consistirá en:
+
+I. Confirmar la calificación o abstención; o,
+
+II. Dejar sin efectos la calificación o abstención, para lo cual el Tribunal estará facultado para recalificar el acto u omisión; o bien ordenar se inicie el procedimiento correspondiente.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE JULIO DE 2017)</small>
+
+### Capítulo Vigésimo. Cumplimiento y Ejecución de Sanciones por Faltas Administrativas Graves y Faltas de Particulares
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 315.
+
+Solo procederá el recurso de apelación contra resoluciones de los magistrados especializados en materia de anticorrupción y responsabilidades administrativas.
+
+Procederá el recurso de apelación contra las resoluciones siguientes:
+
+I. La que determine imponer sanciones por la comisión de faltas administrativas graves o faltas de particulares; y,
+
+II. La que determine que no existe responsabilidad administrativa por parte de los presuntos infractores, ya sean servidores públicos o particulares.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 316.
+
+El recurso de apelación se promoverá mediante escrito ante el magistrado que haya emitido sentencia, que turnará el asunto al Magistrado Especializado ponente del turno siguiente quien formulará proyecto de resolución en su momento; dentro de los quince días hábiles siguientes a aquél en que surta sus efectos la notificación de la resolución que se recurre.
+
+En el escrito deberán formularse los agravios que consideren las partes se les hayan causado, exhibiéndose una copia del mismo para el expediente y una para cada una de las partes.
+
+El escrito que contenga el recurso de apelación deberá ser remitido junto con el expediente al Magistrado Especializado Ponente, que no podrá ser el que haya dictado la resolución recurrida en un plazo de cinco días hábiles.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 317.
+
+Una vez recibido el expediente de apelación por el Magistrado Especializado ponente, éste deberá resolver en el plazo de tres días hábiles si admite el recurso, o lo desecha por encontrar motivo manifiesto e indudable de improcedencia. Si hubiera irregularidades en el escrito del recurso por no haber satisfecho los requisitos de procedencia, se apercibirá al promovente en un plazo que no excederá de tres días hábiles, para que subsane las omisiones o corrija los defectos precisados en la providencia relativa.
+
+Admitido que fuere el recurso, el Magistrado Especializado dará vista a las partes para que en el término de tres días hábiles, manifiesten lo que a su derecho convenga; vencido dicho término, el Magistrado Ponente formulará el proyecto y dará cuenta del mismo al Pleno en un plazo no mayor a sesenta días hábiles.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 318.
+
+El Pleno procederá al estudio de los conceptos de apelación, atendiendo a su prelación lógica. En todos los casos, se privilegiará el estudio de los conceptos de apelación de fondo por encima de los de procedimiento y forma, a menos que invertir el orden dé la certeza de la no responsabilidad del servidor público o del particular, o de ambos; o que en el caso de que el recurrente sea la Autoridad Investigadora, las violaciones de forma hayan impedido conocer con certeza la responsabilidad de los involucrados.
+
+En los asuntos en los que se desprendan violaciones de fondo de las cuales pudiera derivarse el sobreseimiento del procedimiento de responsabilidad administrativa, la no responsabilidad del recurrente, o la determinación de culpabilidad respecto de alguna conducta, se le dará preferencia al estudio de aquéllas aún de oficio.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 319.
+
+En el caso de ser revocada la sentencia o de que su modificación así lo disponga, cuando el recurrente sea el servidor público o el particular, se ordenará al Órgano del Estado en el que se preste o haya prestado sus servicios, lo restituya de inmediato en el goce de los derechos de que hubiese sido privado por la ejecución de las sanciones impugnadas, en los términos de la sentencia respectiva, sin perjuicio de lo que establecen otras leyes.
+
+Se exceptúan del párrafo anterior, los Agentes del Ministerio Público, peritos oficiales y miembros de las instituciones policiales en cuyos casos sólo estarán obligadas a pagar la indemnización y demás prestaciones a que tengan derecho, sin que en ningún caso proceda la reincorporación al servicio, en los términos previstos en el apartado B, fracción XIII, del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 320.
+
+Las sanciones económicas impuestas por este Tribunal constituirán créditos fiscales a favor de la Hacienda Pública Estatal o Municipal, o del patrimonio de los Órganos del Estado, según corresponda. Dichos créditos fiscales se harán efectivos mediante el procedimiento administrativo de ejecución, por la Secretaría de Finanzas y Administración, a la que será notificada la resolución emitida.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 321.
+
+Cuando haya causado ejecutoria una sentencia en la que se determine la plena responsabilidad de un Servidor Público por faltas administrativas graves, el Magistrado, sin que sea necesario que medie petición de parte y sin demora alguna, girará oficio por el que comunicará la sentencia respectiva así como los puntos resolutivos de ésta para su cumplimiento, de conformidad con las siguientes reglas:
+
+I. Cuando el servidor público haya sido suspendido, destituido o inhabilitado, se dará vista a su superior jerárquico y a la Secretaría; y,
+
+II. Cuando se haya impuesto una indemnización y/o sanción económica al responsable, se dará vista a la Secretaría de Finanzas y Administración.
+
+En el oficio respectivo, el Tribunal prevendrá a las autoridades señaladas para que informen, dentro del término de diez días hábiles, sobre el cumplimiento que den a la sentencia en los casos a que se refiere la fracción I de este artículo. En el caso de la fracción II, la Secretaría de Finanzas y Administración informará al Tribunal en un periodo de treinta días naturales sobre su cumplimiento, de la indemnización y la sanción económica que corresponda.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 322.
+
+Cuando haya causado ejecutoria una sentencia en la que se determine la comisión de faltas de particulares, el Tribunal, sin que sea necesario que medie petición de parte y sin demora alguna, girará oficio por el que comunicará la sentencia respectiva, así como los puntos resolutivos de esta para su cumplimiento, de conformidad con las siguientes reglas:
+
+I. Cuando el particular haya sido inhabilitado para participar con cualquier carácter en adquisiciones, arrendamientos, servicios u obras públicas, el Tribunal ordenará su publicación al Director del Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo; y,
+
+II. Cuando se haya impuesto una indemnización y/o sanción económica al responsable, se dará vista a la Secretaría de Finanzas y Administración.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 323.
+
+Cuando el particular tenga carácter de persona moral, sin perjuicio de lo establecido en el artículo que antecede, el Tribunal girará oficio por el que comunicará la sentencia respectiva, así como los puntos resolutivos de ésta para su cumplimiento, de conformidad con las siguientes reglas:
+
+I. Cuando se decrete la suspensión de actividades de la sociedad respectiva, se dará vista a la Secretaría de Desarrollo Económico, y a la Secretaria de Finanzas y Administración, se inscribirá en el Registro Público de la Propiedad Raíz y del Comercio y se hará publicar un extracto que contenga la resolución y efectos de la sentencia que decrete esta medida, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo; y,
+
+II. Cuando se decrete la disolución de la sociedad respectiva, los responsables procederán de conformidad con la Ley General de Sociedades Mercantiles en materia de disolución y liquidación de las sociedades, o en su caso, conforme a lo estipulado en el Código Civil para el Estado de Michoacán de Ocampo, según corresponda, y las demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 324.
+
+Cuando haya causado ejecutoria una sentencia en la que se determine que no existe una falta administrativa grave o faltas de particulares, el Tribunal, sin que sea necesario que medie petición de parte y sin demora alguna, girará oficio por el que comunicará la sentencia respectiva, así como los puntos resolutivos de ésta para su cumplimiento. En los casos en que haya decretado la suspensión del servidor público en su empleo, cargo o comisión, ordenará la restitución inmediata del mismo.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 325.
+
+El incumplimiento de las medidas cautelares previstas en la presente Ley por parte del jefe inmediato, del titular del Órgano del Estado correspondiente o de cualquier otra autoridad obligada a cumplir con dicha disposición, será causa de responsabilidad administrativa en los términos de la Ley.
+
+Mientras no se dicte sentencia definitiva el Magistrado que hubiere conocido del incidente, podrá modificar o revocar la resolución que haya decretado o negado las medidas cautelares, cuando ocurra un hecho superveniente que lo justifique.
 
 ## TRANSITORIOS
 
@@ -2724,3 +3338,19 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 18 DE JULIO DE 2017.
+
+[N. DE E TRANSITORIOS DEL DECRETO NÚMERO 383 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 1, 2, 3, 143, 144, 145, 148, 153, 154 PRIMER PÁRRAFO Y LAS FRACCIONES XII Y XIV, 157, 159 FRACCIONES I, II Y VII, 160, 161, 162, 163 FRACCIONES I, II, III, IV Y VII, 164, 165 FRACCIONES I, II, IV, V Y VII, 167 FRACCIÓN II, 168, 175, 181, 200, 209, 212, 266 FRACCIONES III Y IV, 272, 274, 279, 281, 282, 283, 285 FRACCIÓN II, 286, 287, 288, 289, 290 FRACCIONES I, II, III Y V, 291 Y 299; SE MODIFICA LA DENOMINACIÓN DE LOS CAPÍTULOS TERCERO Y DÉCIMO PRIMERO, AMBOS DEL LIBRO CUARTO Y LA DENOMINACIÓN DEL LIBRO QUINTO; SE ADICIONA EL ARTÍCULO 168 BIS, LA FRACCIÓN V AL ARTÍCULO 266, EL ARTÍCULO 271 A, EL CAPÍTULO DÉCIMO CUARTO BIS DEL LIBRO QUINTO, LOS ARTÍCULOS 297 A, 297 B, 297 C, 297 D, 297 E, 297 F, 297 G, 297 H, 297 I, 297 J, 297 K, 297 L, 297 M, 297 N, 297 Ñ, 297 O, 297 P, 297 Q, 297 R, LOS CAPÍTULOS DÉCIMO SÉPTIMO, DÉCIMO OCTAVO, DÉCIMO NOVENO, VIGÉSIMO, LOS ARTÍCULOS 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324 Y 325; SE DEROGAN LAS FRACCIONES IV Y XIII DEL ARTÍCULO 159, LA FRACCIÓN XI DEL ARTÍCULO 162, LOS ARTÍCULOS 182, 183, 184, 185, 186, 187, 188, ASÍ COMO EL CAPÍTULO DÉCIMO SEGUNDO Y SU ARTÍCULO 189, DEL CÓDIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Los asuntos turnados a la Justicia Especializada en combate a la corrupción y responsabilidad administrativa; hasta en tanto hayan sido nombrados los magistrados especializados, serán sustanciados, con las reglas de este Código, de manera colegiada, turnándoseles por el criterio de antigüedad en el cargo de Magistrado, que lo será ahora el instructor; la apelación será ante la sala colegiada de los tres Magistrados Administrativos; será Magistrado Ponente quien detente en segundo término antigüedad en el cargo.
+
+TERCERO. El Titular del Ejecutivo del Estado realizará los ajustes presupuestales con el fin de proveer de los recursos necesarios al Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo.
+
+En el proyecto de presupuesto de egresos para el Ejercicio Fiscal 2018, deberá destinar una partida presupuestal suficiente para cubrir los capítulos de servicios personales, materiales y suministros, así como de servicios generales necesarios para cumplir con sus funciones.
+
+CUARTO. El Congreso del Estado, a través de las Comisiones de Justicia y de Gobernación, emitirán convocatoria pública para el procedimiento de elección de los Magistrados Especializados en un término no mayor a 90 días naturales siguientes a la entrada en vigor del presente decreto.
+
+QUINTO. A partir de la entrada en vigor del presente Decreto el Tribunal de Justicia Administrativa tendrá un año para la implementación técnica del Juicio en Línea.
