@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-instituciones-y-procedimientos-electorales-del-101698"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-28"
-last_updated: "2017-05-31"
+last_updated: "2017-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101698&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE JULIO DE 2017.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el sábado 28 de junio de 2014.
 
@@ -1743,113 +1743,37 @@ El Órgano Interno de Control contará con el presupuesto para la estructura org
 
 En su desempeño, el Órgano Interno de Control se sujetará a los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
 
 ###### Artículo 138.
 
-El titular del Órgano Interno de Control será designado por el Congreso del Estado por el voto de las dos terceras partes de sus integrantes a propuesta de instituciones públicas de educación superior, cámaras empresariales y colegios de profesionales, en la forma y términos que determine la ley. Durará seis años en el cargo y podrá ser reelecto por una sola vez. Deberá mantener la coordinación técnica necesaria con la Auditoría Superior del Estado de Yucatán.
+El titular del órgano de control interno del instituto ejercerá las facultades a que se refiere la fracción III del artículo 98 de la Constitución Política del Estado de Yucatán y la legislación aplicable en materia de responsabilidades administrativas.
 
-El procedimiento de elección será el siguiente:
+El titular del órgano de control interno del instituto durará en su cargo cinco años y será elegido por el voto de las dos terceras partes de los integrantes del Congreso, mediante el procedimiento establecido en la Ley de Gobierno del Poder Legislativo del Estado de Yucatán.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE MAYO DE 2017)</small>
+El titular del órgano de control interno podrá ser designado por un periodo inmediato posterior al que se haya desempeñado, previa postulación y cumpliendo los requisitos previstos en esta ley y el procedimiento establecido en la Ley de Gobierno del Poder Legislativo del Estado de Yucatán.
 
-I. La Comisión Permanente de Puntos Constitucionales y Gobernación expedirá una convocatoria pública dirigida a las de instituciones públicas de educación superior, cámaras empresariales y colegios de profesionales, con la finalidad de allegarse propuestas de candidatos al cargo de Titular del Órgano Interno de Control del Instituto.
-
-La convocatoria deberá publicarse a más tardar treinta días antes de la fecha en que deba realizarse la designación.
-
-> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
-
-II. Las de instituciones públicas de educación superior, cámaras empresariales y colegios de profesionales podrán presentar ante la Secretaría General del Poder Legislativo hasta dos propuestas;
-
-III. Las propuestas deberán presentarse en sobre cerrado, dentro de los quince días naturales siguientes al de la publicación de la convocatoria, anexando la siguiente documentación:
-
-a) Documentación de los proponentes:
-
-> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
-
-1. Copia certificada del documento que acredite existencia de la Institución Pública de Educación Superior.
-
-2. Copia certificada del documento que acredite la personalidad del representante legal.
-
-b) Documentación de la propuesta de candidato:
-
-1. Original o copia certificada del acta de nacimiento;
-
-2. Original o copia certificada de la Constancia de Residencia si el candidato propuesto no es originario del Estado;
-
-3. Currículum Vitae, y
-
-4. Carta del proponente en la que se expresen las razones por las cuales se considera idónea la propuesta presentada.
-
-IV. La Secretaría General del Poder Legislativo enviará los sobres conteniendo las propuestas a la Comisión Permanente de Puntos Constitucionales y Gobernación para su validación;
-
-V. La Comisión Permanente de Puntos Constitucionales y Gobernación revisará y validará que las propuestas cumplan con los requisitos establecidos en esta ley.
-
-La Comisión revisará cada una de las propuestas, validando la documentación presentada. Si de la revisión se advierte que se omitió la entrega de algún documento o los presentados no son idóneos para acreditar el cumplimiento de los requisitos, se notificará al promovente respectivo para que dentro de las cuarenta y ocho horas siguientes a la de la notificación, presente la documentación procedente;
-
-VI. La Comisión Permanente de Puntos Constitucionales y Gobernación elaborará un Dictamen de Acuerdo de los candidatos que hubieren cumplido con los requisitos de ley y lo turnará al Pleno del Congreso para que lo apruebe y realice inmediatamente, la elección correspondiente;
-
-VII. En la sesión del Congreso del Estado en la que deba realizarse la elección, a cada Diputado se le entregará un listado que contendrá los nombres de las propuestas, de entre los cuales votará por sólo una de ellas;
-
-> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
-
-VIII. La persona cuya propuesta sea votada afirmativamente por las dos terceras partes de los integrantes del Congreso del Estado será electo Titular del Órgano Interno de Control del Instituto;
-
-> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
-
-IX. En caso de que ninguna de las propuestas alcance la votación establecida en la fracción anterior, se designará al Titular del Órgano Interno de Control del Instituto a través del procedimiento de insaculación;
-
-X. Participarán en el proceso de insaculación, las propuestas que hayan alcanzado el mayor número de votos que se encuentren dentro de las 3 más altas votaciones, y
-
-> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
-
-XI. El Presidente y los Secretarios de la Mesa Directiva serán los responsables del procedimiento de insaculación en la misma sesión y de declarar quien ha sido electo Titular del Órgano Interno de Control del Instituto.
-
-El electo o designado, rendirá protesta en sesión del Congreso o de la Diputación Permanente, según sea el caso.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE MAYO DE 2017)</small>
+El titular del órgano de control interno mantendrá la coordinación técnica necesaria con la Auditoría Superior del Estado de Yucatán.
 
 Los requisitos para ser Titular del Órgano Interno de Control del Instituto son:
 
-a) Ser ciudadano yucateco en pleno goce y ejercicio de sus derechos políticos y civiles;
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
 
-b) Estar inscrito en el Registro Federal de Electores y tener credencial para votar;
+II. Tener por lo menos treinta y cinco años cumplidos el día de la designación;
 
-c) Haber residido en el Estado durante los últimos 2 años, de manera ininterrumpida;
+III. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión;
 
-> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
+IV. Contar, al momento de su designación, con una experiencia de, al menos, cinco años en el control, manejo o fiscalización de recursos, responsabilidades administrativas, contabilidad gubernamental, auditoría gubernamental, obra pública, adquisiciones, arrendamientos y servicios del sector público;
 
-d) No ser consejero electoral de cualquiera de los consejos del Instituto, salvo que se haya separado del cargo tres años antes del día de la designación;
+V. Contar, al día de su designación, con antigüedad mínima de cinco años, con título profesional relacionado con las actividades de fiscalización, expedido por autoridad o institución legalmente facultada para ello;
 
-> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
+VI. Contar con reconocida solvencia moral;
 
-e) Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratara de robo, fraude, falsificación, abuso de confianza u otro que afecte la buena fama en el concepto público, ello lo inhabilitará para el cargo, cualquiera que haya sido la pena;
+VII. No pertenecer o haber pertenecido en los cuatro años anteriores a su designación, a despachos que hubieren prestado sus servicios al instituto o haber fungido como consultor o auditor externo del instituto en lo individual durante ese periodo;
 
-f) No ser ni haber sido registrado, legalmente, como candidato a cargo alguno de elección popular, durante los 3 años previos a su elección;
+VIII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, y
 
-g) No ser ministro de culto religioso alguno, salvo que se haya separado definitivamente 5 años antes del día de la elección;
-
-h) No ser militar en servicio activo;
-
-> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
-
-i) No ser titular de alguna dependencia del Poder Legislativo, de la Administración Pública Federal, Estatal o Municipal, o ejercer el cargo de Fedatario Público a menos que se separe de sus funciones 3 años antes de su elección;
-
-> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
-
-j) No ser ni haber sido dirigente en los órganos nacionales, estatales o municipales, de algún partido o agrupación política, durante los 3 años previos al de la elección;
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 31 DE MAYO DE 2017)</small>
-
-k) Contar al momento de su designación con experiencia profesional de al menos cinco años en el control, manejo o fiscalización de recursos;
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 31 DE MAYO DE 2017)</small>
-
-l) Contar al día de su designación, con antigüedad mínima de cinco años, con título profesional, de nivel licenciatura, de contador público u otro relacionado en forma directa con las actividades de fiscalización, expedido por autoridad o institución legalmente facultada para ello, y
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 31 DE MAYO DE 2017)</small>
-
-m) No pertenecer o haber pertenecido en los cuatro años anteriores a su designación a despachos de consultoría o auditoría que hubieren prestado sus servicios al Instituto o a algún partido político.
+IX. No haber sido secretario de estado, fiscal general del estado, diputado, gobernador, dirigente, miembro de órgano rector, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los cuatro años anteriores a la propia designación.
 
 > <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
 
@@ -3019,11 +2943,13 @@ f) Los candidatos a Diputados para integrar el Poder Legislativo del Estado de Y
 
 En el caso de los diputados propietarios o suplentes podrán ser reelectos para el periodo inmediato en la forma, términos y condiciones que señale esta ley y el Consejo General, sin requerir licencia para separarse del cargo, CON EXCEPCIÓN DEL DIPUTADO QUE OCUPE LA PRESIDENCIA DE LA JUNTA DE GOBIERNO Y COORDINACIÓN POLÍTICA DEL CONGRESO DEL ESTADO, QUIEN DEBERÁ SEPARARSE DE SU ENCARGO 120 DÍAS NATURALES ANTES DEL DÍA DE LA ELECCIÓN.
 
-(NOTA: EL 29 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 29 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/). (ADICIONADO, D.O. 31 DE MAYO DE 2017)
+
+En el caso de los integrantes de los ayuntamientos que aspiren a ser reelectos para el mismo cargo en el periodo inmediato siguiente, deberán cumplir con los términos y condiciones que señale esta ley y el Consejo General, DEBIENDO SEPARARSE DE SU CARGO 120 DÍAS NATURALES ANTES DEL DÍA DE LA ELECCIÓN,
 
 > <small>(ADICIONADO, D.O. 31 DE MAYO DE 2017)</small>
 
-En el caso de los integrantes de los ayuntamientos que aspiren a ser reelectos para el mismo cargo en el periodo inmediato siguiente, deberán cumplir con los términos y condiciones que señale esta ley y el Consejo General, DEBIENDO SEPARARSE DE SU CARGO 120 DÍAS NATURALES ANTES DEL DÍA DE LA ELECCIÓN,
+En el caso de los integrantes de los ayuntamientos que aspiren a ser reelectos para el mismo cargo en el periodo inmediato siguiente, deberán cumplir con los términos y condiciones que señale esta ley y el Consejo General, debiendo separarse de su cargo 120 días naturales antes del día de la elección,
 
 (NOTA: EL 29 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -4825,6 +4751,10 @@ VIII. El personal administrativo necesario para su funcionamiento.
 
 La Unidad de Asesores estará integrada por un número no menor a 3 asesores. Para la integración de dicha unidad, cada magistrado nombrará a un asesor adscrito a su magistratura. Para efectos administrativos, la Unidad de Asesores tendrá el mismo nivel de las Direcciones.
 
+> <small>(ADICIONADO, D.O. 18 DE JULIO DE 2017)</small>
+
+El tribunal contará con un órgano de control interno, dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones.
+
 ###### Artículo 369.
 
 El Director de Administración del Tribunal deberá reunir los mismos requisitos establecidos en el artículo anterior de esta Ley, con excepción de lo relativo al título profesional que deberá ser de contador público o licenciado en administración y lo relativo a los conocimientos en materia electoral.
@@ -4846,6 +4776,46 @@ Los directores, actuarios, integrantes de la Unidad de Asesores y demás persona
 Los actuarios del Tribunal deberán reunir los mismos requisitos que se señalan en esta Ley para el Secretario de Acuerdos; con excepción de lo relativo al título que deberá ser de Abogado o Licenciado en Derecho, con cédula profesional con una antigüedad mínima al día de la designación de 3 años; y de la acreditación de conocimientos en materia electoral, y tendrán la obligación de realizar las notificaciones a las partes que intervengan en los procedimientos, en los términos y con las formalidades que esta Ley establece y de acuerdo a las instrucciones recibidas por sus superiores.
 
 Tendrá bajo su responsabilidad directa las notificaciones o publicaciones que se hagan en los estrados del Tribunal.
+
+> <small>(ADICIONADO, D.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 371 Bis.
+
+Órgano de control interno
+
+El órgano de control interno del tribunal se encargará de promover, evaluar y fortalecer el buen funcionamiento del control interno en el tribunal, así como de aplicar las leyes en materia de responsabilidades administrativas.
+
+El órgano de control interno del tribunal tendrá un titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto.
+
+> <small>(ADICIONADO, D.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 371 Ter.
+
+Atribuciones
+
+El titular del órgano de control interno del tribunal ejercerá las facultades a que se refiere la fracción III del artículo 98 de la Constitución Política del Estado de Yucatán y en la legislación aplicable en materia de responsabilidades administrativas.
+
+El titular del órgano de control interno del tribunal durará en su cargo cinco años y será elegido por el voto de las dos terceras partes de los integrantes del pleno del tribunal. El titular del órgano de control interno podrá ser designado por un periodo inmediato posterior al que se haya desempeñado, previa postulación y cumpliendo los requisitos previstos en esta ley.
+
+El titular del órgano de control interno del tribunal mantendrá la coordinación técnica necesaria con la Auditoría Superior del Estado de Yucatán.
+
+> <small>(ADICIONADO, D.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 371 Quater.
+
+Requisitos
+
+El titular del órgano de control interno del tribunal deberá reunir los requisitos establecidos en el artículo 138 de esta ley para el titular del órgano de control interno del instituto.
+
+> <small>(ADICIONADO, D.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 371 Quinquies.
+
+Responsabilidades
+
+El titular del órgano de control interno del tribunal será sujeto de responsabilidad en términos de la legislación aplicable en materia de responsabilidades administrativas; y podrá ser sancionado de conformidad con el procedimiento previsto en la normativa aplicable.
+
+Los demás servidores públicos adscritos al órgano de control interno del tribunal serán sancionados por el titular de este, o por el servidor público en quien delegue la facultad, en términos de la legislación aplicable en materia de responsabilidades administrativas.
 
 # LIBRO SEXTO. DEL RÉGIMEN SANCIONADOR ELECTORAL
 
@@ -5794,3 +5764,19 @@ Artículo cuarto. El Director Ejecutivo de Procedimientos Electorales y Particip
 Artículo quinto. El Contralor del Instituto, a partir de la entrada en vigor del presente decreto será Titular del Órgano Interno de Control.
 
 Artículo sexto. La reforma contenida en el artículo 52 de la Ley de Partidos Políticos del Estado de Yucatán, referente al financiamiento público entrará en vigor a partir del 1 de octubre de 2017.
+
+D.O. 18 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 509/2017 POR EL QUE SE MODIFICAN LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE YUCATÁN, LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN, LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE YUCATÁN, LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN Y LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el 19 de julio de 2017, cuando lo haga la Ley General de Responsabilidades Administrativas, en términos del Decreto 380/2016 por el que se modifica la Constitución Política del Estado de Yucatán, en materia de anticorrupción y transparencia.
+
+Segundo. Nombramientos
+
+El Congreso deberá expedir la convocatoria para la designación de los titulares de los órganos de control interno de la Comisión de Derechos Humanos del Estado de Yucatán y del Instituto Estatal de Transparencia, Acceso a la Información y Protección de Datos Personales dentro de los noventa días naturales contados a partir de la entrada en vigor de este decreto.
+
+Tercero. Titular del Órgano de Control Interno del Instituto
+
+El titular del Órgano de Control Interno del Instituto Electoral y de Participación Ciudadana que se encuentre en funciones a la entrada en vigor de este decreto, continuará con el cargo durante el período para el que fue electo.
