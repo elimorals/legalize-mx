@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-de-la-comision-de-derechos-humanos-del-11967
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-02-14"
-last_updated: "2017-04-28"
+last_updated: "2017-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=119670&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE JULIO DE 2017.
 
 Reglamento publicado en la Sección Tercera al Número 28 de la Gaceta del Gobierno del Estado de México, el martes 14 de febrero de 2017.
 
@@ -97,13 +97,19 @@ IV. Áreas de apoyo de la Presidencia;
 
 V. Visitadurías Generales;
 
-VI. Contraloría Interna;
+> <small>(REFORMADA, G.G. 18 DE JULIO DE 2017)</small>
+
+VI. Órgano Interno de Control;
 
 VII. Centro de Estudios en Derechos Humanos; y
 
 VIII. Centro de Mediación y Conciliación.
 
 La Comisión contará con las demás unidades administrativas que sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en el Manual General de Organización; así como con el personal profesional, técnico, administrativo y los servidores públicos necesarios para el cumplimiento de sus atribuciones, en términos de su estructura interna aprobada y de las disposiciones aplicables.
+
+> <small>(ADICIONADO, G.G. 18 DE JULIO DE 2017)</small>
+
+La o el Titular del Órgano Interno de Control será designado de conformidad a lo establecido por la Constitución Política del Estado Libre y Soberano de México.
 
 Unidades administrativas de apoyo a la Presidencia
 
@@ -517,11 +523,11 @@ XI. Investigar, analizar y determinar respecto de las tendencias de las tecnolog
 
 XII. Las demás que se desprendan de las disposiciones legales aplicables y las que expresamente le sean conferidas por su superior jerárquico.
 
-Atribuciones de la Contraloría Interna
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE JULIO DE 2017)</small>
 
 ###### Artículo 25.
 
-Corresponde a la Contraloría Interna:
+Corresponde al Órgano Interno de Control:
 
 I. Realizar auditorías administrativas, financieras, operativas y de legalidad, así como evaluaciones, supervisiones, inspecciones y testificaciones a las unidades administrativas de la Comisión;
 
@@ -537,17 +543,27 @@ VI. Verificar la correcta aplicación de las acciones de mejora derivadas de los
 
 VII. Promover acciones de control preventivo tendentes a modernizar la gestión de las unidades administrativas de la Comisión;
 
-VIII. Recibir, tramitar y resolver las quejas y denuncias que se presenten en contra de los servidores públicos del Organismo;
+> <small>(REFORMADA, G.G. 18 DE JULIO DE 2017)</small>
 
-IX. Iniciar, tramitar y resolver los procedimientos administrativos disciplinarios y resarcitorios e imponer, en su caso, las sanciones que correspondan en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios;
+VIII. Ejecutar las atribuciones que contempla la Ley de Responsabilidades Administrativas del Estado de México y Municipios;
 
-X. Sustanciar y resolver los medios de impugnación presentados en contra de los actos y resoluciones que emita la Contraloría Interna;
+> <small>(REFORMADA, G.G. 18 DE JULIO DE 2017)</small>
 
-XI. Tramitar, sustanciar y resolver las inconformidades que se presenten respecto de actos o fallos en los procedimientos de adquisiciones, enajenaciones y contratación de arrendamientos, servicios y obra pública;
+IX. Promover ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorías;
+
+> <small>(REFORMADA, G.G. 18 DE JULIO DE 2017)</small>
+
+X. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos de la Comisión;
+
+> <small>(REFORMADA, G.G. 18 DE JULIO DE 2017)</small>
+
+XI. Recibir quejas y denuncias conforme a las leyes aplicables;
 
 XII. Vigilar el cumplimiento de lo dispuesto en materia de transparencia y acceso a la información pública, de conformidad con lo dispuesto por las disposiciones legales y normativas aplicables;
 
-XIII. Recibir, registrar y en su caso requerir la manifestación de bienes y la declaración de intereses de los servidores públicos de la Comisión en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios;
+> <small>(REFORMADA, G.G. 18 DE JULIO DE 2017)</small>
+
+XIII. Solicitar la información y efectuar visitas a las áreas de la Comisión para el cumplimento de sus funciones;
 
 XIV. Practicar el análisis contable-financiero de las manifestaciones de bienes presentadas por los servidores públicos de la Comisión, revisando la información asentada, requiriendo las aclaraciones conducentes y en su caso, instruir los procedimientos administrativos que correspondan;
 
@@ -555,7 +571,29 @@ XV. Participar en los actos de entrega y recepción de las Unidades Administrati
 
 XVI. Expedir copias certificadas de los documentos en los asuntos de su competencia; y
 
-XVII. Las demás que le confieren otras disposiciones.
+> <small>(REFORMADA, G.G. 18 DE JULIO DE 2017)</small>
+
+XVII. Presentar a la Presidencia los informes respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas;
+
+> <small>(ADICIONADA, G.G. 18 DE JULIO DE 2017)</small>
+
+XVIII. Inscribir y mantener actualizada la información correspondiente del sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal; de todos los servidores públicos de la Comisión;
+
+> <small>(ADICIONADA, G.G. 18 DE JULIO DE 2017)</small>
+
+XIX. Llevar a cabo los procedimientos administrativos de investigación, sustanciación y sancionador, en los términos previstos por la Ley de Responsabilidades Administrativas del Estado de México y Municipios;
+
+> <small>(ADICIONADA, G.G. 18 DE JULIO DE 2017)</small>
+
+XX. Recibir, tramitar y resolver las inconformidades que presenten los particulares en contra de actos del procedimiento de contratación que pudieran contravenir las disposiciones correspondientes;
+
+> <small>(ADICIONADA, G.G. 18 DE JULIO DE 2017)</small>
+
+XXI. Practicar el análisis contable-financiero de las declaraciones patrimoniales que obren en el Sistema de Evolución Patrimonial; y
+
+> <small>(ADICIONADA, G.G. 18 DE JULIO DE 2017)</small>
+
+XXII. Las demás que le confieren otras disposiciones.
 
 Atribuciones de la Unidad Jurídica y Consultiva
 
@@ -1556,3 +1594,11 @@ G.G. 28 DE ABRIL DE 2017.
 PRIMERO.- Publíquese en el Periódico Oficial “Gaceta del Gobierno” del Estado de México, así como en la Gaceta de Derechos Humanos órgano informativo de la Comisión de Derechos Humanos del Estado de México.
 
 SEGUNDO.- Este Acuerdo entrará en vigor el día de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 18 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO N°. 7/2017-06 POR EL QUE SE APRUEBAN LAS MODIFICACIONES AL REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese en el Periódico Oficial "Gaceta del Gobierno" del Estado, así como en la Gaceta de Derechos Humanos de la Comisión de Derechos Humanos.
+
+SEGUNDO.- Esta reforma entrará en vigor el 19 de julio de 2017.
