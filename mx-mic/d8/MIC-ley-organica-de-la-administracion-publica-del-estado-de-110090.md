@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-administracion-publica-del-estado-de-110090"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-09-29"
-last_updated: "2017-06-30"
+last_updated: "2017-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110090&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2017.
 
 Ley publicada en la Décima Sección del Periódico Oficial del Estado de Michoacán, el martes 29 de septiembre de 2015.
 
@@ -141,9 +141,17 @@ IX. Implementar la mejora regulatoria y la simplificación administrativa como p
 
 X. Atender las observaciones emitidas por la Auditoría Superior de Michoacán;
 
-XI. Orientar y asesorar a las dependencias, entidades y a los municipios, en las materias de su competencia; y,
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-XII. Las demás que expresamente se señalen en esta Ley, en las leyes del Estado y en los ordenamientos reglamentarios respectivos.
+XI. Orientar y asesorar a las dependencias, entidades y a los gobiernos municipales, en las materias de su competencia;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XII. Expedir los manuales de organización, de procedimientos y de servicios al público necesarios para su funcionamiento, de acuerdo a la ley, los que deberán contener información sobre la estructura orgánica de la dependencia y las funciones de sus unidades administrativas, así como sobre los sistemas de comunicación y coordinación y los principales procedimientos administrativos que se establezcan. Los manuales y demás instrumentos de apoyo administrativo interno, los cuales deberán mantenerse actualizados. Los manuales de organización general deberán publicarse en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, mientras que los manuales de procedimientos y de servicios al público deberán estar disponibles para consulta de los usuarios y de los propios servidores públicos, a través del registro electrónico que opere la Secretaría de Contraloría. En cada una de las dependencias y entidades de la Administración Pública Estatal, se mantendrán al corriente los escalafones de los trabajadores, y se establecerán los sistemas de estímulos y recompensas que determinen la ley y las condiciones generales de trabajo respectivas; y,
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XIII. Las demás que expresamente se señalen en esta Ley, en las leyes del Estado y en los ordenamientos reglamentarios respectivos.
 
 ###### Artículo 13.
 
@@ -481,7 +489,9 @@ LIV. Las demás que le confieran las normas jurídicas aplicables.
 
 A la Secretaría de Contraloría, le corresponde el ejercicio de las atribuciones siguientes:
 
-I. Vigilar y prevenir el cumplimiento de las leyes, atribuciones, facultades, reglamentos y normatividad administrativa y financiera por parte de las dependencias y entidades de la Administración Pública Estatal;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+I. Organizar y coordinar el sistema de control interno y la evaluación de la gestión gubernamental; inspeccionar el ejercicio del gasto público y su congruencia con los presupuestos de egresos, así como concertar con las dependencias y entidades de la Administración Pública Estatal y validar los indicadores para la evaluación de la gestión gubernamental, en los términos de las disposiciones aplicables, así como vigilar y prevenir el cumplimiento de las leyes, atribuciones, facultades, reglamentos y normatividad administrativa y financiera por parte de las dependencias y entidades de la Administración Pública Estatal;
 
 II. Realizar y dar seguimiento a los resultados de las revisiones, inspecciones, fiscalizaciones, evaluaciones y auditorías practicadas en las dependencias o entidades de la Administración Pública Estatal, en forma directa o por conducto de auditores externos, a fin de asegurar que se corrijan las deficiencias detectadas, o en su caso deslindar las responsabilidades;
 
@@ -505,9 +515,157 @@ XI. Establecer los lineamientos y controles para la entrega y recepción de los 
 
 XII. Vigilar y supervisar la entrega y recepción que se haga de los asuntos y bienes inventariados, en la toma de posesión de los titulares de las dependencias y entidades de la Administración Pública Estatal;
 
-XIII. Supervisar que el ejercicio de las atribuciones de los servidores públicos del Estado, se lleve a cabo con apego a las leyes y lineamientos vigentes en materia de transparencia y rendición de cuentas; y,
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-XIV. Las demás que le confieran las normas jurídicas aplicables.
+XIII. Supervisar que el ejercicio de las atribuciones de los servidores públicos del Estado, se lleve a cabo con apego a las leyes y lineamientos vigentes en materia de transparencia y rendición de cuentas;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XIV. Expedir las normas que regulen los instrumentos y procedimientos de control interno de la Administración Pública Estatal, para lo cual podrá requerir de las dependencias competentes la expedición de normas complementarias para el ejercicio del control administrativo. Lo anterior, sin menoscabo de las bases y principios de coordinación y recomendaciones emitidas por el Comité Coordinador del Sistema Estatal Anticorrupción;
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XV. Vigilar, en colaboración con las autoridades que integren el Comité Coordinador del Sistema Estatal Anticorrupción, el cumplimiento de las normas de control interno y fiscalización, así como asesorar y apoyar a los órganos internos de control de las dependencias y entidades de la Administración Pública Estatal;
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XVI. Coordinar y supervisar el sistema de control interno, establecer las bases generales para la realización de auditorías internas, transversales y externas; expedir las normas que regulen los instrumentos y procedimientos en dichas materias en las dependencias y entidades de la Administración Pública Estatal, así como realizar las auditorías que se requieran en éstas, en sustitución o apoyo de sus propios órganos internos de control;
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XVII. Organizar y coordinar el desarrollo administrativo integral en las dependencias y entidades de la Administración Pública Estatal y emitir las normas para que los recursos humanos, patrimoniales y los procedimientos técnicos de la misma, sean aprovechados y aplicados, respectivamente, con criterios de eficacia, legalidad, eficiencia y simplificación administrativa; así como, realizar o encomendar las investigaciones, estudios y análisis necesarios sobre estas materias;
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XVIII. Supervisar el cumplimiento de las políticas, normas y autorizaciones así como los criterios correspondientes en materia de planeación y administración de recursos humanos, contratación del personal, estructuras orgánicas y ocupacionales, de conformidad con las respectivas normas de control de gasto en materia de servicios personales;
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XIX. Realizar, por sí o a solicitud de la Secretaría de Finanzas y Administración, auditorías, revisiones y evaluaciones a las dependencias y entidades de la Administración Pública Estatal, con el objeto de examinar, fiscalizar y promover la eficiencia y legalidad en su gestión y encargo;
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XX. Fiscalizar directamente o a través de los órganos internos de control, que las dependencias y entidades de la Administración Pública Estatal cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y remuneraciones de personal, contratación de adquisiciones, arrendamientos, arrendamiento financiero, servicios y ejecución de obra pública, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de la Administración Pública Estatal;
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XXI. Designar y remover a los auditores externos, así como normar y controlar su desempeño;
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XXII. Designar y remover para el mejor desarrollo del sistema de control y evaluación de la gestión gubernamental, delegados de la propia Secretaría ante las dependencias y órganos desconcentrados de la Administración Pública Estatal centralizada y comisarios públicos de los órganos de vigilancia de las entidades de la Administración Pública Paraestatal; así como normar y controlar su desempeño;
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XXIII. Designar y remover a los titulares de los órganos internos de control de las dependencias y entidades de la Administración Pública Estatal, quienes dependerán jerárquica y funcionalmente de esta Secretaría, asimismo, designar y remover a los titulares de las áreas de auditoría, quejas y responsabilidades de los citados órganos internos de control; quienes tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los tribunales competentes, representando al titular de dicha Secretaría;
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XXIV. Colaborar en el marco del Sistema Estatal Anticorrupción, en el establecimiento de las bases y principios de coordinación necesarios, que permitan el mejor cumplimiento de las responsabilidades de sus integrantes;
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XXV. Implementar las acciones que acuerde el Sistema Estatal Anticorrupción, en términos de las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XXVI. Informar periódicamente al Comité Coordinador del Sistema Estatal Anticorrupción, así como al titular del Ejecutivo del Estado, sobre el resultado de la evaluación respecto de la gestión de las dependencias y entidades de la Administración Pública Estatal, así como del resultado de la revisión del ingreso, manejo, custodia y ejercicio de recursos, y promover ante las autoridades competentes, las acciones que procedan para corregir las irregularidades detectadas;
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XXVII. Llevar y normar el registro de servidores públicos de la Administración Pública Estatal, recibir y registrar las declaraciones patrimoniales, constancia de declaración fiscal y de intereses que deban presentar, así como verificar su contenido mediante las investigaciones que resulten pertinentes de acuerdo con las disposiciones aplicables.
+
+También registrará la información sobre las sanciones administrativas que, en su caso, les hayan sido impuestas;
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XXVIII. Atender las quejas e inconformidades que presenten los particulares con motivo de convenios o contratos que celebren con las dependencias y entidades de la Administración Pública Estatal, salvo los casos en que otras leyes establezcan procedimientos de impugnación diferentes;
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XXIX. Conocer e investigar las conductas de los servidores públicos que puedan constituir responsabilidades administrativas, así como substanciar los procedimientos correspondientes conforme a lo establecido en la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo y por conducto de los Órganos internos de control que correspondan a cada área de la Administración Pública Estatal; para lo cual podrá aplicar las sanciones que correspondan en los casos que no sean de la competencia del Tribunal de Justicia Administrativa y, cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante ese Tribunal; así como presentar las denuncias correspondientes y dar seguimiento ante la Fiscalía Especializada en Combate a la Corrupción e instancias correspondientes en delitos relacionados con hechos de corrupción, en términos de las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XXX. Establecer mecanismos internos para la Administración Pública Estatal que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas;
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XXXI. En coordinación con el Comité de Adquisiciones del Poder Ejecutivo, establecer y conducir la política general de las contrataciones públicas reguladas por la Ley en materia de adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles e inmuebles del estado de Michoacán de Ocampo, propiciando las mejores condiciones de contratación conforme a los principios de eficiencia, eficacia, economía, transparencia, imparcialidad y honradez así como emitir las normas, lineamientos, manuales, procedimientos y demás instrumentos análogos que se requieran en materia de dichas contrataciones públicas; proporcionar, en su caso, asesoría normativa con carácter preventivo en los procedimientos de contratación regulados por las mencionadas leyes que realicen las dependencias y entidades de la Administración Pública Estatal y promover con la intervención que corresponda a otras dependencias de la Administración Pública Estatal, la coordinación y cooperación con los poderes del Estado, los órganos constitucionales autónomos, los gobiernos municipales y demás entes públicos encargados de regímenes de contratación pública, a efecto de propiciar en lo procedente la homologación de políticas, normativas y criterios en materia de contrataciones públicas, que permita contar con un sistema de contrataciones públicas articulado a nivel estatal;
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XXXII. Definir la política de gobierno digital, abierto y datos abiertos en el ámbito de las dependencias y entidades de la Administración Pública Estatal;
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XXXIII. Formular y conducir en apego y de conformidad con las bases de coordinación que establezca el Comité Coordinador del Sistema Estatal Anticorrupción, la política general de la Administración Pública Estatal para establecer acciones que propicien la integridad y la transparencia en la gestión pública, la rendición de cuentas y el acceso por parte de los particulares a la información que aquella genere; así como promover dichas acciones hacia la sociedad;
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XXXIV. Implementar las políticas de coordinación que promueva el Comité Coordinador del Sistema Estatal Anticorrupción, en materia de combate a la corrupción en la Administración Pública Estatal;
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XXXV. Emitir normas, lineamientos específicos y manuales que, dentro del ámbito de su competencia, integren disposiciones y criterios que impulsen la simplificación administrativa, para lo cual deberán tomar en consideración las bases y principios de coordinación y recomendaciones generales que emita el Comité Coordinador del Sistema Estatal Anticorrupción;
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XXXVI. Seleccionar a los integrantes de los órganos internos de control, garantizando la igualdad de oportunidades en el acceso a la función pública, atrayendo a los mejores candidatos para ocupar los puestos, a través de procedimientos transparentes, objetivos y equitativos;
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XXXVII. Actualizar el Código de Ética y de Conducta de los servidores públicos de las dependencias y entidades del Ejecutivo del Estado de Michoacán de Ocampo y las Reglas de Integridad para el ejercicio de la función pública; y,
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XXXVIII. Las demás que le encomienden expresamente las leyes y reglamentos.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+Para ser Titular del Órgano interno de control se deberán reunir los siguientes requisitos:
+
+a) Ser ciudadano mexicano, con residencia de al menos tres años en el Estado y estar en pleno goce y ejercicio de sus derechos civiles;
+
+b) No ser servidor público al momento de su designación, salvo en el caso de labores docentes o educativas;
+
+c) Poseer al día de la designación, antigüedad mínima de cinco años con cedula profesional de nivel licenciatura en contaduría, administración, derecho o carrera afín;
+
+d) No estar sujeto a sanción administrativa o sancionado por delito doloso; y,
+
+e) Contar con experiencia verificable de al menos tres años en materias de transparencia, evaluación, fiscalización, rendición de cuentas o combate a la corrupción.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 20 Bis.
+
+Los titulares de los órganos internos de control de las dependencias y entidades de la Administración Pública Estatal y de sus áreas de auditoría, quejas y responsabilidades, serán responsables de mantener el control interno de la dependencia o entidad a la que se encuentren adscritos. Asimismo, tendrán como función apoyar la política de control interno y la toma de decisiones relativas al cumplimiento de los objetivos y políticas institucionales, así como al óptimo desempeño de servidores públicos y órganos, a la modernización continua y desarrollo eficiente de la gestión administrativa y al correcto manejo de los recursos públicos.
+
+Los órganos internos de control, en ejercicio de su función de auditoría, se regirán por las leyes y disposiciones sobre adquisiciones, obra pública, presupuesto, contabilidad, procedimiento administrativo, transparencia y acceso a la información, responsabilidades, combate a la corrupción y otras afines a la materia, y por las bases y principios de coordinación que emitan el Comité Coordinador del Sistema Estatal Anticorrupción y la Secretaría de Contraloría respecto de dichos asuntos, así como sobre la organización, funcionamiento y supervisión de los sistemas de control interno, mejora de gestión en las dependencias y entidades de la Administración Pública Estatal y presentación de informes por parte de dichos órganos.
+
+Los titulares de las unidades encargadas de la función de auditoría de la Secretaría de Contraloría y de los órganos internos de control, en los meses de mayo y noviembre entregarán informes al titular de dicha Secretaría, sobre hallazgos en la gestión y recomendaciones en relación con las acciones correctivas, preventivas y oportunidades de mejora respecto de la calidad y eficiencia de los distintos procesos internos y sobre la relación de los procedimientos por faltas administrativas y de sanciones aplicadas por los órganos internos de control; las acciones de responsabilidad presentadas ante el Tribunal de Justicia Administrativa y las sanciones correspondientes; las denuncias por actos de corrupción que presenten ante la Fiscalía Especializada en materia de Delitos relacionados con hechos de corrupción; así como un informe detallado del porcentaje de los procedimientos iniciados por los órganos de control interno que culminaron con una sanción firme y a cuánto ascienden, en su caso, las indemnizaciones efectivamente cobradas durante el periodo del informe.
+
+Con base en dichos informes, así como de las recomendaciones y las bases y principios de coordinación que emita el Comité Coordinador del Sistema Estatal Anticorrupción, tanto las dependencias y entidades, así como la Secretaría de Contraloría, implementarán las acciones pertinentes para mejora de la gestión.
+
+Conforme a lo dispuesto en las leyes en la materia, así como en las bases y principios de coordinación emitidas por el Comité Coordinador del Sistema Estatal Anticorrupción, los titulares de los órganos internos de control encabezarán comités de control y desempeño institucional para el seguimiento y evaluación general de la gestión.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 20 Ter.
+
+Para ser designado titular de la Secretaría de Contraloría se deberán reunir los requisitos siguientes:
+
+I. Ser ciudadano mexicano, con residencia de al menos tres años en el Estado y estar en pleno goce y ejercicio de sus derechos civiles;
+
+II. No ser servidor público al momento de su designación, salvo en el caso de labores docentes o educativas;
+
+III. Contar al día de su designación con antigüedad mínima de ocho años, título profesional de nivel licenciatura y contar con los conocimientos y experiencia relacionados con la materia de esta ley que le permitan el desempeño de sus funciones;
+
+IV. No estar sujeto a sanción administrativa o sancionado por delito doloso; y,
+
+V. Contar con experiencia verificable de al menos cuatro años en materias de transparencia evaluación, fiscalización, rendición de cuentas o combate a la corrupción;
+
+El nombramiento del titular de la Dependencia de Control Interno que somete el Gobernador del Estado a ratificación del Congreso del Estado, deberá estar acompañado de la declaración de interés de la persona propuesta, en los términos previstos en la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2016)</small>
 
@@ -1500,3 +1658,11 @@ Así mismo deberá establecer en un apartado específico en los subsecuentes inf
 ###### ARTÍCULO DÉCIMO.
 
 Se derogan todas las disposiciones administrativas que se opongan al presente decreto.
+
+P.O. 18 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 384 POR EL QUE "SE REFORMAN LAS FRACCIONES XI Y XII DEL ARTÍCULO 12, LAS FRACCIONES I, XIII Y XIV DEL ARTÍCULO 20 Y SE ADICIONAN LAS FRACCIONES XIII AL ARTÍCULO 12, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII, XXXVIII Y UN ÚLTIMO PÁRRAFO QUE INCORPORA LOS INCISOS A), B), C), D), E) Y F) AL ARTÍCULO 20 Y LOS ARTÍCULOS 20 BIS Y 20 TER, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Ejecutivo del Estado contará con un término de 60 días hábiles a partir de la entrada en vigor del presente Decreto, para adecuar la normatividad secundaria.
