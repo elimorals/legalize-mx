@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-fondo-auxiliar-para-la-administracion-de-5145"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1984-12-18"
-last_updated: "1984-12-18"
+last_updated: "2017-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5145&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DEL FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA DEL ESTADO DE GUERRERO NUMERO 55
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 18 de diciembre de 1984.
 
@@ -85,9 +85,13 @@ VII. Los remanentes del presupuesto de egresos del Poder Judicial que resulten a
 
 VIII. Los intereses provenientes de inversiones y depósitos que de recursos propios o ajenos realice el Fondo.
 
-IX. El importe de los derechos que conforme a la Ley de Ingresos se causen por expedición de copias certificadas, registro de documentos y demás servicios que proporcionen las autoridades judiciales.
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-X. Los demás bienes que el Fondo adquiera.
+IX. El importe de los derechos que conforme a las disposiciones legales aplicables a la materia se causen por expedición de copias certificadas, registro de documentos y demás servicios que proporcionen las autoridades judiciales, así como con los ingresos que por cualquier otro concepto se generen; y
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+X. Los ingresos por publicaciones oficiales en los términos previstos en las disposiciones legales aplicables y los demás bienes que el Fondo Auxiliar adquiera.
 
 ### CAPITULO SEGUNDO. DEL DESTINO DEL PATRIMONIO DEL FONDO
 
@@ -99,7 +103,9 @@ I. A sufragar los gastos que origine su administración.
 
 II. Al otorgamiento de estímulos y recompensas al personal del Poder Judicial.
 
-III.- A la adquisición de mobiliario, equipo y libros de consulta para el Tribunal y Juzgados, así como a la construcción o mejoramiento de edificios destinados a oficinas del Poder Judical (sic), cuando las partidas presupuestales sean insuficientes y las necesidades así lo exijan.
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+III. A la adquisición de mobiliario, equipo y libros de consulta para el Tribunal Superior de Justicia, Juzgados y el Consejo de la Judicatura, así como a la construcción o mejoramiento de edificios destinados a oficinas del Poder Judicial del Estado, cuando las partidas presupuestales sean insuficientes y las necesidades así lo exijan.
 
 IV. A cubrir los gastos de divulgación de las actividades jurisdiccionales y académicas de los Tribunales del Estado.
 
@@ -113,7 +119,9 @@ b) Aportaciones económicas que demande su participación en congresos, seminari
 
 c) Seguros de vida, préstamos a corto plazo, asistencia médica y medicinas, en las condiciones y plazos que al efecto se establezcan.
 
-d) El importe de los gastos que efectúen cuando el Tribunal ordene su cambio de adscripción o cuando sean llamados a acudir ante el superior para tratar asuntos oficiales.
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
+d) El importe de los gastos que efectúen cuando el Tribunal Superior de Justicia o el Consejo de la Judicatura ordene su cambio de adscripción o cuando sean llamados a acudir ante el superior para tratar asuntos oficiales.
 
 VII. A solventar los gastos mínimos de funerales de los trabajadores de confianza.
 
@@ -121,9 +129,11 @@ VIII. A la realización de toda clase de actos que sean conducentes al mejoramie
 
 ### CAPITULO TERCERO. DEL CONSEJO DE ADMINISTRACION DEL FONDO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
+
 ###### ARTICULO 5o.
 
-El Pleno del Tribunal Superior de Justicia del Estado constituirá el Consejo de Administración del Fondo y tendrá las siguientes atribuciones:
+El Pleno del Consejo de la Judicatura del Poder Judicial del Estado constituirá el Consejo de Administración del Fondo Auxiliar para la Administración de Justicia del Estado de Guerrero y tendrá las atribuciones siguientes:
 
 I.- Expedir el Reglamento interno del Fondo.
 
@@ -143,11 +153,23 @@ VIII.- Aceptar las donaciones o aportaciones a favor del Fondo que no provengan 
 
 IX.- Sancionar las determinaciones provisionales del Administrador en relación con el manejo del patrimonio del Fondo.
 
-X.- Aprobar el informe anual de ingresos y egresos que en el mes de mayo deberá remitirse a este H. Congreso del Estado para su revisión.
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+X.- Aprobar el informe anual de ingresos y egresos del Fondo Auxiliar para la Administración de Justicia, y remitirlo en la última quincena del mes de mayo al Congreso del Estado;
 
 XI.- Dictar los acuerdos que estime convenientes para la correcta administración y destino del patrimonio del Fondo.
 
-XII.- Resolver en única instancia todas las cuestiones que surjan con motivo de la interpretación de la presente Ley y del Reglamento Interno del Fondo.
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XII.- Determinar las tarifas aplicables por publicaciones oficiales en los casos previstos por las leyes.
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XIII.- Dictar las medidas necesarias para transparentar las acciones y los recursos del Fondo Auxiliar en los términos de las disposiciones legales aplicables; y
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XIV.- Resolver en única instancia todas las cuestiones que surjan con motivo de la interpretación de la presente Ley y del Reglamento Interno.
 
 ###### ARTICULO 6o.
 
@@ -157,17 +179,25 @@ Los intereses a que alude la Fracción VIII del artículo 3o. podrán aplicarse 
 
 El Consejo de Administración sesionará por lo menos una vez al mes, para tratar todos los asuntos que se relacionen con el Fondo.
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
 ###### ARTICULO 8o.
 
-El Secretario General de Acuerdos del Tribunal fungirá como Secretario del Consejo y tendrá a su cargo la elaboración de las actas respectivas, así como la expedición de toda clase de certificaciones relacionadas con el Fondo.
+El Secretario General del Consejo de la Judicatura fungirá como Secretario del Consejo de Administración del Fondo Auxiliar y tendrá a su cargo la elaboración de las actas respectivas, así como la expedición de toda clase de certificaciones relacionadas con el Fondo Auxiliar.
 
-ARTICULLO (sic) 9o.- Las actas de las sesiones del Consejo, para su validez, deberán ser autorizadas por el Presidente y el Secretario.
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
+###### ARTICULO 9o.
+
+Las actas de las sesiones del Consejo de Administración del Fondo Auxiliar, para su validez, deberán ser autorizadas por el Presidente y el Secretario.
 
 ### CAPITULO CUARTO. DE LA ADMINISTRACION DEL FONDO
 
-###### ARTICULO 10o.
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
-El Presidente del Tribunal Superior de Justicia presidirá el Consejo de Administración, será el Administrador del Fondo y su representante legal, con todas las facultades generales y especiales de apoderado para pleitos y cobranzas, actos de administración y actos de dominio, sin más limitaciones que las que esta Ley le impone.
+###### ARTICULO 10.
+
+El Presidente del Consejo de la Judicatura del Poder Judicial presidirá el Consejo de Administración, será el Administrador del Fondo Auxiliar y su represente (sic) legal, con todas las facultades generales y especiales de apoderado para pleitos y cobranzas, actos de administración y actos de dominio, sin más limitaciones que las que esta Ley le impone.
 
 ###### ARTICULO 11.
 
@@ -187,7 +217,9 @@ VI. Invertir los recursos del Fondo y los demás que éste tenga a su cargo, en 
 
 VII. Ordenar la práctica de revisiones a los Juzgados para verificar el adecuado manejo de los depósitos y su oportuna remisión al Fondo.
 
-VIII. Suspender la ejecución de los acuerdos del Consejo cuando estime que su cumplimiento puede lesionar intereses del Fondo o de terceros, pero con la obligación de dar cuenta de ello en la Sesión siguiente para la determinación defiitiva (sic).
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+VIII. Suspender la ejecución de los acuerdos del Consejo de Administración cuando estime que su cumplimiento puede lesionar intereses del Fondo Auxiliar o de terceros, pero con la obligación de dar cuenta de ello en la sesión siguiente para la determinación definitiva.
 
 IX. Resolver provisionalmente sobre inversiones o erogaciones que a su juicio no admitan demora, a reserva de someter sus determinaciones a la consideración del Consejo para el correspondiente acuerdo.
 
@@ -199,23 +231,35 @@ XII. Otorgar poderes generales o especiales para pleitos y cobranzas y delegar s
 
 XIII. Rendir un informe mensual al Consejo de Administración sobre el monto de los intereses generados en el mes anterior y sobre la cantidad total en que hubiese aumentado o disminuído el patrimonio del Fondo.
 
-XIV. Informar justificadamente al Consejo, dentro de los últimos 5 días del mes de abril de cada año, sobre los ingresos, inversiones y erogaciones que se hubiesen efectuado en los doce meses anteriores.
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XIV. Informar justificadamente al Consejo de Administración, dentro de los últimos quince días del mes de mayo de cada año, sobre los ingresos, inversiones y erogaciones que se hubiesen efectuado en los doce meses anteriores; y
 
 XV. Conforme a los acuerdos emanados del Consejo de Administración y a las prevenciones de esta Ley y del Reglamento Interno del Fondo, dictar las órdenes pertinentes para la correcta administración del patrimonio del Fondo.
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XVI. Transparentar las acciones y los recursos del Fondo Auxiliar en los términos de las disposiciones legales aplicables.
 
 ###### ARTICULO 12.
 
 Todos los ingresos y egresos del Fondo serán manejados a través de cuentas bancarias en sociedades nacionales de crédito.
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
 ###### ARTICULO 13.
 
-El jefe del Departamento de Contabilidad del Tribunal será Contador del Fondo, auxiliará al Presidente en sus labores de Administrador y asistirá a las Sesiones del Consejo cuando se estime conveniente escuchar su opinión.
+El Contador del Fondo Auxiliar apoyará al presidente en sus labores de administrador y asistirá a las sesiones del Consejo de Administración cuando se estime conveniente escuchar su opinión.
 
 ### CAPITULO QUINTO. DE LA CONSTITUCION Y MANEJO DE LOS DEPOSITOS JUDICIALES
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
 ###### ARTICULO 14.
 
-Todos los depósitos en efectivo que a título de fianza, caución, multa o cualquier otro concepto se constituyan ante o por mandato de las autoridades judiciales del Estado, se efectuarán en las Recaudaciones de Rentas mediante la expedición del recibo oficial correspondiente.
+Todos los depósitos en efectivo que a título de fianza, caución, garantía económica, multa o cualquier otro concepto se constituyan ante o por mandato de las autoridades judiciales del Estado, se efectuarán en las cuentas bancarias del Fondo Auxiliar mediante la expedición del recibo oficial correspondiente.
+
+También se constituirán o depositarán a favor del Fondo Auxiliar, según corresponda, cualquier otra cantidad que, a título de garantía económica, fije alguna autoridad distinta al juez en el procedimiento penal, cuando la ley no disponga expresamente otra cosa.
 
 ###### ARTICULO 15.
 
@@ -229,9 +273,11 @@ En todos los expedientes judiciales invariablemente se asentará razón de los d
 
 Los órganos jurisdiccionales, con inserción del mandamiento relativo, remitirán al Fondo los documentos en los que consten los depósitos, endosando a favor de éste todos aquellos que por su naturaleza lo requieran para hacerlos efectivos.
 
-###### ARTICULO 18.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
 
-La remisión de los documentos a que se refiere el artículo que antecede, se hará dentro de los diez días siguientes al de su exhibición en autos en caso de que no se hubiese hecho su devolución o entrega.
+###### ARTÍCULO 18.
+
+La remisión de los documentos a que se refiere el artículo que antecede, se hará dentro de los diez días siguientes al de su exhibición en autos en caso de que no se hubiese hecho su devolución o entrega. Cualquier dilación injustificada será sancionada por el Consejo de la Judicatura.
 
 Los que tengan por objeto cubrir el importe de multas judiciales se enviarán sin demora alguna. Los que amparen el pago de derecho por servicios, al término de cada mes.
 
@@ -247,17 +293,23 @@ El Administrador del Fondo procederá a recabar el importe de los documentos alu
 
 Cuando tenga que hacerse la devolución o entrega de algún depósito que ya se encuentre en poder del Fondo, bastará que la autoridad que conoce del asunto haga saber su determinación al Administrador para que éste le haga el envío de su importe por el medio más rápido disponible, pudiendo hacerlo también directamente al interesado cuando así se solicite y se justifique la procedencia.
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
 ###### ARTICULO 21.
 
-Los recaudadores de rentas entregarán el importe de los depósitos tan pronto reciban la orden judicial y el recibo oficial que acredite su constitución. Cualquier dilación injustificada será sancionada administrativamente por su superior.
+Los administradores fiscales de la Secretaría de Finanzas y Administración entregarán el importe de los depósitos tan pronto reciban la orden judicial y el recibo oficial que acredite su constitución. Cualquier dilación injustificada será sancionada administrativamente por su superior.
 
-###### ARTICULO 22.
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
-Las multas impuestas por la autoridad judicial se mandarán hacer efectivas a través de la Secretaría de Finanzas y conforme a las Leyes que rigen el funcionamiento de ésta.
+###### ARTÍCULO 22.
+
+Las multas impuestas por la autoridad judicial se mandarán hacer efectivas a través de la Secretaría de Finanzas y Administración, y conforme a las leyes que rigen el funcionamiento de ésta.
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 23.
 
-Los depósitos que en propiedad o provisionalmente deban pasar a poder del Fondo, así como el importe de derechos por servicios del Poder Judicial, se entregarán directamente al Administrador del Fondo, por la Secretaría de Finanzas. A la solicitud que al efecto se formule deberán acompañarse los recibos oficiales que amparen la constitución de los depósitos y el pago de los derechos.
+Los depósitos que en propiedad o provisionalmente deban pasar a poder del Fondo Auxiliar, así como el importe de derechos por servicios del Poder Judicial del Estado, se entregarán directamente al Administrador del Fondo Auxiliar por la Secretaría de Finanzas y Administración. A la solicitud que al efecto se formule deberán acompañarse los recibos oficiales que amparen la constitución de los depósitos y el pago de los derechos.
 
 ### CAPITULO SEXTO. DE LAS ADJUDICACIONES A FAVOR DEL FONDO
 
@@ -289,21 +341,27 @@ También cuidarán de exigir y registrar en el libro respectivo, bajo su respons
 
 Antes de mandar archivar definitivamente un asunto, las autoridades jurisdiccionales dictarán de oficio los acuerdos que procedan hasta que los depósitos y objetos que estén a su disposición reciban el destino previsto por la Ley.
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
 ###### ARTICULO 30.
 
-La Secretaría de Finanzas, al cierre de cada ejercicio fiscal, remitirá al Fondo las cantidades que hayan resultado como remanente del presupuesto del Poder Judicial del Estado.
+La Secretaría de Finanzas y Administración, al cierre de cada ejercicio fiscal, remitirá al Fondo Auxiliar las cantidades que hayan resultado como remanente del presupuesto del Poder Judicial del Estado.
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 31.
 
-El Administrador del Fondo y la Secretaría de Finanzas podrán celebrar convenios de mutua colaboración, para el más adecuado cumplimiento de las disposiciones de esta Ley.
+El Administrador del Fondo Auxiliar y la Secretaría de Finanzas y Administración podrán celebrar convenios de mutua colaboración, para el más adecuado cumplimiento de las disposiciones de esta Ley.
 
 ###### ARTICULO 32.
 
 No se causarán impuestos ni derechos estatales y municipales por los actos o contratos que el Fondo realice, así como por la adquisición, conservación o enajenación de bienes, siempre que tengan relación directa con sus fines.
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
 ###### ARTICULO 33.
 
-Las relaciones laborales entre el Fondo y sus trabajadores de base, se regirán por el Estatuto de los Trabajadores al Servicio del Estado, de los Municipios y de los Organismos Públicos Coordinados y Descentralizados del Estado de Guerrero.
+Las relaciones laborales entre el Fondo Auxiliar y sus trabajadores de base se regirán por la Ley Orgánica del Poder Judicial del Estado y la Ley de los Servidores Públicos del Estado de Guerrero.
 
 T R A N S I T O R I O S
 
@@ -376,3 +434,19 @@ PROFR. Y LIC. ALEJANDRO CERVANTES DELGADO.
 El Secretario de Gobierno.
 
 LIC. HUMBERTO SALGADO GOMEZ.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 472 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL FONDO AUXILIAR PARA LA ADMINISTRACIÓN DE JUSTICIA DEL ESTADO DE GUERRERO NÚMERO 55".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero.
+
+SEGUNDO. Remítase al Gobernador Constitucional del Estado de Guerrero, para los efectos legales conducentes.
+
+TERCERO. Comuníquese al Presidente del Tribunal Superior de Justicia del Estado de Guerrero, en su carácter de Presidente del Consejo de la Judicatura de la Entidad, para los fines legales procedentes.
+
+CUARTO.- En un plazo no mayor a treinta días naturales, a partir de que entre en vigor el presente Decreto, el actual Consejo de Administración del Fondo Auxiliar, integrado por el Pleno del Tribunal Superior de Justicia del Estado, dispondrá la entrega de los recursos financieros, humanos y materiales del Fondo Auxiliar para la Administración de Justicia del Estado de Guerrero, al Consejo de Administración del Fondo Auxiliar, integrado por el Pleno del Consejo de la Judicatura del Poder Judicial del Estado.
+
+QUINTO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero para el conocimiento general.
