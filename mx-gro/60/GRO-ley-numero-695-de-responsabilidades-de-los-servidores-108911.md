@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-695-de-responsabilidades-de-los-servidores-108911"
 country: "mx"
 rank: "ley"
 publication_date: "2015-02-20"
-last_updated: "2015-02-20"
+last_updated: "2017-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108911&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY NUMERO 695 DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y DE LOS MUNICIPIOS DE GUERRERO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY NÚMERO 695 DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS DE GUERRERO.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 20 de febrero de 2015.
 
@@ -585,709 +587,341 @@ Las Comisiones de Examen Previo e Instructora y el Pleno del Congreso, para hace
 
 Las declaraciones o resoluciones aprobadas por el Pleno del Congreso con arreglo a esta Ley, se comunicarán al Titular del Poder al que pertenezca el servidor público o al Cabildo del H. Ayuntamiento al que pertenezca el servidor público denunciado, remitiendo copia autorizada de la resolución al Ejecutivo del Estado para su conocimiento y efectos legales, así como para su publicación en el Periódico.
 
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)</small>
+
 ## TÍTULO TERCERO. DE LA RESPONSABILIDAD ADMINISTRATIVA Y DE LA RESPONSABILIDAD CIVIL
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)</small>
 
 ### CAPÍTULO I. De los sujetos y causas de la Responsabilidad Administrativa
 
 ###### Artículo 61.
 
-Incurren en Responsabilidad Administrativa, de acuerdo al artículo 197 de la Constitución Local, los servidores públicos que en el ejercicio de sus funciones realicen actos u omisiones que contravengan la legalidad, honradez, lealtad, imparcialidad y eficiencia.
-
-Dará lugar a la instrucción del procedimiento de responsabilidades establecido en el presente Título y, en su caso, a la sanción correspondiente, independientemente de las penas que amerite por no cumplir con las obligaciones específicas de su empleo, cargo o comisión y de los derechos y deberes laborales del servidor público.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 62.
 
-Serán sujetos de Responsabilidad Administrativa los servidores públicos a que se refiere el artículo 195.1 de la Constitución Local y el artículo 2° de esta Ley.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 63.
 
-Todo servidor público para salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el cumplimiento de su deber, además de las obligaciones específicas que le imponga el empleo, cargo o comisión que desempeñe, sin perjuicio de sus derechos y responsabilidades laborales, los servidores públicos tendrán:
-
-A) Las obligaciones siguientes:
-
-I. Salvaguardar los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia en el servicio público;
-
-II. Cumplir el servicio que le sea encomendado;
-
-III. Formular y ejecutar los planes, programas y presupuestos de su competencia, así como cumplir la normatividad que determinen el manejo de recursos económicos públicos;
-
-IV. Ejercer conforme a sus facultades los recursos que tenga asignados para el desempeño de su empleo, cargo o comisión, así como la información a que tenga acceso con motivo a su función, exclusivamente para los fines a que éste afecta;
-
-V. Cuidar la documentación e información que por razón de su empleo, cargo o comisión, esté bajo su responsabilidad o a la cual tenga acceso, impidiendo o evitando el uso, sustracción, destrucción, ocultamiento o inutilización indebidos;
-
-VI. Presentar buena conducta en su empleo, cargo o comisión, tratando con respeto, diligencia, imparcialidad y rectitud a las personas con las que tenga relación con motivo de éste;
-
-VII. Rendir cuentas sobre el ejercicio de las funciones que tenga conferidas y coadyuvar en la rendición de cuentas de la gestión pública estatal y municipal, proporcionando la documentación e información que le sea requerida en los términos que establezcan las disposiciones legales correspondientes;
-
-VIII. Cuidar que el trato y dirección de sus inferiores, sea con apego a las reglas de sociabilidad, armonía y compañerismo, evitando causarles agravio con conductas abusivas o violentas, que se traduzcan en vejaciones o insultos;
-
-IX. Observar subordinación y respeto legítimos a sus superiores, cumpliendo las disposiciones que les dicten en el ejercicio de sus funciones;
-
-X. Comunicar por escrito al titular de la dependencia o entidad de la administración pública estatal o municipal en que preste sus servicios, las causas del incumplimiento de las obligaciones establecidas en este artículo o las dudas fundadas que le susciten las órdenes que reciba.
-
-Cuando el planteamiento que formule el servidor público a su superior inmediato deba ser comunicado a cualquiera de las autoridades señaladas en el artículo 3 de la presente Ley, el superior procederá a hacer saber sin demora, bajo su estricta responsabilidad, haciéndolo del conocimiento al subalterno interesado. Si el superior inmediato omite la comunicación a la autoridad competente, el subalterno consultante podrá realizarla directamente a su superior jerárquico mediato que corresponda;
-
-XI. Excusarse de intervenir, por motivo de su encargo, en cualquier forma, en los asuntos en que tenga interés personal, su cónyuge, sus parientes consanguíneos en línea recta sin límite de grado, los colaterales hasta el cuarto grado, por afinidad o civiles hasta el segundo grado, o terceros con los que tenga relaciones profesionales, laborales o sociedades de las que sea socio o lo haya sido;
-
-XII. Notificar por escrito al jefe inmediato sobre la atención, trámite o resolución de los asuntos a que hace referencia el párrafo anterior y que sean de su conocimiento y observar sus instrucciones por escrito sobre su atención, tramitación y resolución, cuando el servidor público no pueda abstenerse de intervenir en ellos;
-
-XIII. Informar por escrito al jefe inmediato y, en su caso, al superior jerárquico mediato, sobre la excusa del asunto o asuntos a que se refiere la fracción anterior;
-
-XIV. Desempeñar su empleo, cargo o comisión sin obtener o pretender beneficios adicionales a las contraprestaciones que el Estado o Municipio le cubra por el desempeño de sus funciones;
-
-XV. Presentar con oportunidad y veracidad ante la Contraloría y demás autoridades competentes la declaración de situación patrimonial, de inicio de funciones, anual y de conclusión del cargo, en los términos establecidos por esta Ley;
-
-XVI. Atender con diligencia las instrucciones, requerimientos y ejecución de las resoluciones que reciba de las autoridades señaladas en el artículo 3 de la presente Ley, conforme a la competencia de éstas;
-
-XVII. Supervisar que los servidores públicos subordinados, cumplan con las disposiciones de este artículo e informar por escrito a la Contraloría o la Contraloría Interna, los actos u omisiones que puedan ser causa de responsabilidad administrativa, en los términos de esta Ley y demás ordenamientos jurídicos aplicables;
-
-XVIII. Proporcionar en forma oportuna y veraz la información solicitada por la institución competente para la vigilancia y defensa de los derechos humanos;
-
-XIX. Cumplir con la entrega-recepción de los recursos humanos, materiales y financieros del despacho a su cargo, en los términos que establezcan las disposiciones legales o administrativas aplicables que al efecto se expidan;
-
-XX. Mantener en buen estado los bienes muebles e inmuebles que le sean asignados para el desempeño de su empleo, cargo o comisión y evitar que en cualquier forma se propicien daños, pérdidas o sustracciones a los mismos, incluyendo la automatización de la información de sistemas y programas de informática que se establezcan, así como llevar los catálogos y actualizar inventarios de dichos bienes y sistemas de informática, conforme a las normas y procedimientos establecidos en las leyes de la materia;
-
-XXI. Proporcionar oportunamente los datos, la información y los documentos relacionados con la administración y ejercicio de las finanzas públicas; así como facilitar la práctica de visitas, inspecciones, auditorías y acceso a los archivos, que le requieran las autoridades competentes en la forma y términos legales;
-
-XXII. Acatar el derecho de petición de los particulares en los términos del artículo 8o. de la Constitución Federal;
-
-XXIII. Respetar el derecho de acceso a la información pública en los términos previstos en la Ley número 374 de Transparencia y Acceso a la Información Pública del Estado de Guerrero;
-
-XXIV. Cumplir y hacer cumplir dentro de su competencia las resoluciones que emitan las autoridades de la Federación, del Estado y de los Municipios;
-
-XXV. Efectuar con diligencia las observaciones, requerimientos y resoluciones que reciba de las Contralorías Internas, conforme a la competencia de éstas, así como dar respuesta a las recomendaciones que se emitan;
-
-XXVI. Observar, en las funciones encomendadas de seguridad pública, tránsito, procuración y administración de justicia, la eficaz prestación de auxilio a las personas amenazadas por algún peligro o a las que hayan sido víctimas de algún delito; así como brindar protección a sus bienes y derechos. Su actuación deberá ser congruente, oportuna y proporcional al hecho;
-
-XXVII. Cumplir sus funciones con absoluta imparcialidad, sin discriminar a alguna por su raza, religión, sexo, condición económica o social, preferencia sexual, ideología política o por algún otro motivo;
-
-XXVIII. Observar un trato respetuoso con todas las personas;
-
-XXIX. Observar en las funciones de seguridad pública, tránsito, administración y procuración de justicia, el cuidado de la vida e integridad física de las personas detenidas en tanto se ponen a disposición de la autoridad competente, así como atender con la diligencia encomendada, en operativos de coordinación con otras autoridades, y brindarles en su caso, el apoyo que conforme a derecho proceda;
-
-XXX. Preservar el secreto de los asuntos de seguridad pública que por razón del desempeño de su función conozcan, con las excepciones que determine la Ley;
-
-XXXI. Cumplir con las obligaciones que por razón de su encargo, empleo o comisión se le hayan encomendado a su función; y
-
-XXXII. Desempeñar su función pública sin solicitar ni aceptar compensaciones, pagos o gratificaciones distintas a las previstas por la Ley. En particular se opondrán a cualquier acto de corrupción.
-
-B) Los servidores públicos deberán abstenerse de:
-
-I. Cualquier acto u omisión que cause la suspensión o deficiencia de dicho servicio o implique abuso o ejercicio indebido del empleo, cargo o comisión;
-
-II. Hacer uso indebido de la credencial de identificación que le sea expedida con motivo de su empleo, cargo o comisión; y entregarla cuando deje de ostentar el cargo o deje de ser servidor público;
-
-III. Desempeñar algún otro empleo, cargo o comisión oficial o particular que la ley le prohíba;
-
-IV. Autorizar la selección, contratación, nombramiento o designación de quien se encuentre inhabilitado por resolución firme de la autoridad competente para ocupar un empleo, cargo o comisión en el servicio público;
-
-V. Otorgar licencias, permisos o comisiones con goce parcial o total de sueldo y otras percepciones, cuando las necesidades del servicio público no lo exijan; u obtener por cualquier pretexto de un subalterno, parte de los sueldos de éste, dádivas u otro servicio;
-
-VI. Adquirir durante el ejercicio de sus funciones, por sí o por interpósita persona bienes en enajenación a precio notoriamente inferior al que tuvieren en el mercado ordinario;
-
-VII. Solicitar o recibir regalos, donaciones, empleos, cargos o comisiones para sí o para las personas a que se refiere la fracción XI del apartado A) del presente artículo;
-
-VIII. Intervenir en la selección, nombramiento, designación, contratación, promoción, suspensión, remoción, cese o sanción de cualquier servidor público, cuando de esas actividades tenga interés personal o sus familiares a que se refiere la fracción XI del apartado A) de este artículo;
-
-IX. Celebrar contratos de adquisiciones, arrendamientos, enajenaciones, prestación de servicios, de obra pública, con quien desempeñe un empleo, cargo o comisión en un servicio público, o con las sociedades de las cuales los servidores públicos forman parte, en ejercicio de sus funciones o con motivo de ellas, así como abstenerse de autorizar pedidos a las personas mencionadas en la fracción XI del apartado A) del presente artículo.
-
-Por ningún motivo podrá celebrarse pedido o contrato alguno con la empresa o servidor público, que se encuentre inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público estatal o municipal;
-
-X. Causar daños y perjuicios a la Hacienda Pública Estatal o Municipal, sea por el manejo irregular de sus fondos o valores, en su administración o ejercicio, haciendo pagos de gastos superfluos del gasto público del Estado o Municipio; de los transferidos, descentralizados, concertados o convenidos por el Estado con sus Municipios o con la Federación; o de cualquier parte de donde provengan;
-
-XI. Realizar por sí, o por intermediarios, cualquier acto intimidatorio tendiente a impedir o inhibir a las personas, para que presenten sus quejas o denuncias; así como ejecutar conductas que lesionen los intereses de los denunciantes o sus familiares de los parentescos señalados en la fracción XI del apartado A) del presente artículo, o personas con quienes tengan relaciones de negocios;
-
-XII. Otorgar en contravención de las leyes, sistemas y procedimientos establecidos, por sí o por interpósita persona, concesiones, permisos, licencias, estimaciones, franquicias, exenciones, finiquitos o liquidaciones en materia de finanzas, obras públicas, colocación o transferencia de fondos y valores, con recursos económicos públicos o su otorgamiento indebido, sin la documentación comprobatoria o los asientos contables, bancarios y financieros correspondientes, sin la autorización debida;
-
-XIII. Otorgar por sí, o por interpósita persona, contratos remunerables de la naturaleza que sea, a sabiendas de que no se cumplirán, por ser innecesarios o ficticios. También se abstendrá de otorgar, autorizar concesiones de prestación de servicios públicos, permisos, licencias, autorizaciones económicas, franquicias, exenciones, deducciones o subsidios sobre contribuciones fiscales o sobre precios y tarifas de bienes y servicios prestados por la administración pública estatal o municipal, sin apego a las leyes aplicables, cuando produzcan beneficios al servidor público, y a terceros señalados en la fracción XI del apartado A) de este artículo;
-
-XIV. Expedir cualquier identificación o constancia en la que se acredite como servidor público a alguna persona que no desempeñe el empleo, cargo o comisión a que se haga referencia en dicho documento;
-
-XV. Utilizar la información que posea en razón de su empleo, cargo o comisión, sea o no relacionada con sus funciones, e ignorada del público, para realizar por sí o por interpósita persona, todo acto u omisión que le produzca algún beneficio económico para él o alguno de sus familiares mencionados en la fracción XI del apartado A) del presente artículo;
-
-XVI. Promover o gestionar por sí o por interpósita persona la tramitación o resolución de negocios ajenos a las responsabilidades inherentes a su empleo, cargo o comisión, pero propios de otro servidor público, y cuya gestión le produzca beneficios para sí o para los terceros señalados en la fracción XI del apartado A) de este artículo; también le está prohibido aceptar o dar consignas, encomiendas, comisiones o cualquier acción que implique subordinación respecto a alguna persona que no sea su superior; asimismo le está prohibido ejercer presiones a subordinados y personas con quienes trate en virtud de su función; de igual manera no podrá inmiscuirse en funciones que no le competan y de las que se advierta obtención de beneficios para sí o para los terceros relacionados en la fracción XI del apartado A) del presente artículo;
-
-XVII. Incurrir en actos u omisiones que implique el incumplimiento de cualquier disposición jurídica;
-
-XVIII. Realizar acciones tendientes a obtener fondos, valores, bienes, que no se le hayan confiado y se los apropie o disponga de ellos indebidamente para sí, para terceros;
-
-XIX. Coaligarse para tomar medidas contrarias a una Ley o Reglamento, impedir su ejecución, o para hacer dimisión de sus puestos con el fin de impedir o suspender las actividades normales de la Administración Pública Estatal o Municipal;
-
-XX. Dirigir o aconsejar a las personas que ante ellos litiguen o dictar resolución de fondo o sentencia incidental o definitiva que sean ilícitas por violar algún precepto terminante de la Ley, o ser contrarias a las actuaciones seguidas en juicio o al veredicto de un jurado, u omitir dictar resolución de trámite, de fondo o sentencia definitiva, dentro de los términos legales establecidos; así como admitir a trámite promociones notoriamente infundadas que impliquen retraso en los procedimientos judiciales o administrativos; e impedir que las partes en controversia ejerzan los derechos que legalmente les correspondan;
-
-XXI. Hacer la consignación injustificada de persona que se encuentre detenida a su disposición como probable responsable de algún delito y ejercitar la acción penal cuando no proceda denuncia, acusación o querella o detener o retener a un individuo por más tiempo del señalado en el artículo 16 de la Constitución Federal;
-
-XXII. Hacer declarar al inculpado usando la incomunicación, intimidación o tortura; de no otorgar la libertad caucional si procede legalmente, de no tomar la declaración preparatoria o dictar auto de formal prisión o libertad en los plazos legalmente establecidos o de prolongar la prisión preventiva por más tiempo del que como máximo fije la Ley;
-
-XXIII. Imponer gabelas o contribuciones, o cobros indebidos en cualquiera de los lugares de detención o internamiento de las personas; ordenar o practicar cateos o visitas domiciliarias fuera de los casos autorizados por la Ley, o realizar la aprehensión de un individuo en contravención a las disposiciones constitucionales establecidas;
-
-XXIV. Rematar bienes en litigio o del patrimonio del Estado o Municipios a favor de sí mismos, por sí o por interpósita persona y admitir o nombrar un depositario o entregar a éste bienes secuestrados, sin el cumplimiento de los requisitos legales correspondientes;
-
-XXV. Dar a conocer indebidamente al demandado o acusado, las providencias de embargo, las órdenes de aprehensión y actos reservados por la Ley decretados en su contra de nombrar síndico o interventor en concurso o quiebra a personas que sean deudores o acreedores de los mismos, abogados o personas que tengan parentesco con las personas afectadas;
-
-XXVI. Permitir indebidamente la salida temporal de personas que están recluidas, y no ordenar la libertad de procesados decretando su sujeción a proceso, cuando el acusado tenga la modalidad de una pena alternativa o pena no privativa de la libertad; abstenerse de emplear violencia para hacer efectivo un derecho, o pretender el mismo con violencia innecesaria en el ejercicio de su encargo;
-
-XXVII. Emitir opinión a terceros o a cualquiera de las partes, que implique prejuzgar sobre un asunto de su conocimiento;
-
-XXVIII. Ejecutar cualquier acto arbitrario y atentatorio a los derechos garantizados tanto por la Constitución Federal como por la Constitución Local, debiendo conducirse siempre con apego al orden jurídico y respeto a los derechos humanos;
-
-XXIX. Infligir, tolerar o permitir actos de tortura u otros tratos de sanciones crueles, inhumanos o degradantes, aún cuando se trate de una orden superior o se argumenten circunstancias especiales, tales como amenaza a la seguridad pública, urgencia de las investigaciones o cualquier otra; al conocimiento de ello, deberá denunciarlo inmediatamente ante la autoridad competente;
-
-XXX. Evitar todo acto arbitrario o delimitar indebidamente las acciones o manifestaciones que, en el ejercicio de sus derechos constitucionales y con carácter pacífico realice la población;
-
-XXXI. Cometer las prohibiciones señaladas en las demás leyes, Convenios o Acuerdos de Coordinación que se establezcan;
-
-XXXII. Otorgar licencias o permisos en materia de desarrollo urbano en contravención a las leyes, normas, sistemas y procedimientos establecidos en zonas de riesgo. En los demás casos, se estará a lo que establezcan las demás disposiciones de esta Ley;
-
-XXXIII. Colaborar, participar, encubrir o facilitar la distribución, venta o comercialización de bebidas alcohólicas en contravención de las disposiciones establecidas en las leyes; y
-
-XXXIV. Las demás que le impongan las leyes y otras disposiciones reglamentarias o administrativas aplicables.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 64.
 
-El servidor público que deje de desempeñar su empleo, cargo o comisión deberá observar, hasta un año después de haber concluido sus funciones, lo siguiente:
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
-I. En ningún caso aprovechará su influencia u obtendrá alguna ventaja derivada de la función que desempeñaba, para sí o para las personas a que se refiere la fracción XI del artículo anterior;
-
-II. No usará en provecho propio o de terceros, la información o documentación a la que haya tenido acceso en su empleo, cargo o comisión y que no sea del dominio público, y
-
-III. Quienes se hayan desempeñado como Magistrados del Tribunal Electoral del Estado y como Consejeros Electorales del Instituto Electoral y de Participación Ciudadana del Estado, se abstendrán de participar en cualquier encargo público de la administración encabezado por quien haya ganado la elección que ellos calificaron.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)</small>
 
 ### CAPÍTULO II. De las sanciones por Responsabilidad Administrativa
 
 ###### Artículo 65.
 
-Se incurre en responsabilidad administrativa por incumplimiento de cualquiera de las obligaciones generales a que se refiere el artículo 63 y dará lugar a la instauración del procedimiento de responsabilidades establecido en el Título Tercero de esta Ley y, en su caso, a la sanción correspondiente, independientemente de las sanciones que amerite por no cumplir con las obligaciones específicas de su empleo, cargo o comisión y de los derechos y deberes laborales del servidor público.
-
-La Responsabilidad Administrativa por incumplimiento de las obligaciones de los servidores públicos establecidas en este Título, tienen el carácter disciplinario y se castigará con las siguientes acciones:
-
-I. Apercibimiento privado o público;
-
-II. Amonestación privada o pública;
-
-III. Restitución de lo obtenido;
-
-IV. Suspensión del empleo, cargo o comisión sin goce de sueldo. La suspensión se decretará por un término de quince días hasta un año;
-
-V. Destitución del puesto, empleo, cargo o comisión de los servidores públicos, la cual se aplicará por la autoridad que substancie el procedimiento de responsabilidad.
-
-Tratándose de los servidores públicos de base, la destitución del puesto y suspensión del empleo se demandará administrativamente por la autoridad competente y se resolverá en forma definitiva por el Tribunal de Conciliación y Arbitraje del Estado o la Juntas Locales de Conciliación y Arbitraje, según corresponda, conforme a lo dispuesto en la Ley de Trabajo de los Servidores Públicos del Estado de Guerrero número 248;
-
-VI. Inhabilitación temporal para desempeñar empleos, cargos o comisiones de cualquier naturaleza en el servicio público, la cual podrá ser de uno hasta veinte años, dependiendo del monto del daño causado, y
-
-VII. Multas e indemnizaciones en los términos dispuestos en la ley.
-
-En este caso aplicarán, además, también las responsabilidades resarcitorias señaladas en términos de la ley número 1028 de fiscalización superior y rendición de cuentas del Estado de Guerrero.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 66.
 
-En todos los casos en que el incumplimiento de las obligaciones del servidor público implique lucro o beneficio personal indebidos de las personas señaladas en las fracciones correspondientes del artículo 63 de esta Ley o cause daños o perjuicios a la administración pública estatal o municipal, se impondrá la inhabilitación calificada de uno hasta diez años si el monto de aquéllos no excede de quinientas veces el salario mínimo general diario vigente en la región y de diez a veinte años si excede de dicho límite o cuando se trate de conductas graves del servidor público.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 67.
 
-Las sanciones por Responsabilidad Administrativa se impondrán tomando en consideración los elementos siguientes:
-
-I. La gravedad de la responsabilidad en que se incurra, ya sea por dolo, negligencia, mala fe u omisión;
-
-II. El monto del beneficio, daño o perjuicio económico, derivado del incumplimiento;
-
-III. La reincidencia en el incumplimiento de obligaciones;
-
-IV. El nivel jerárquico, los antecedentes y las condiciones del infractor;
-
-V. Las condiciones exteriores y los medios de ejecución;
-
-VI. La antigüedad en el servicio; y
-
-VII. Las circunstancias socio-económicas del servidor público.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 68.
 
-Procede la imposición de sanciones económicas cuando por el incumplimiento de las obligaciones establecidas en el artículo 63 de la Ley, se produzcan beneficios o lucro indebido, o se causen daños o perjuicios al erario del Estado, las cuales podrán ser de hasta tres tantos de los beneficios o lucro obtenidos o de los daños o perjuicios causados.
-
-En ningún caso la sanción económica que se imponga podrá ser menor al monto de los beneficios o lucro obtenidos o de los daños o perjuicios causados.
-
-El monto de la sanción económica impuesta se ejecutará, en la forma y términos que establece el Código Fiscal del Estado de Guerrero, en tratándose de contribuciones y aprovechamientos.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 69.
 
-Para la aplicación de las sanciones disciplinarias antes mencionadas, independientemente de la individualización de las circunstancias del servidor público, se observarán las reglas siguientes:
-
-I. El apercibimiento y la amonestación pública o privada serán aplicados de inmediato por el titular de la dependencia
-
-II. La suspensión en el empleo cargo o comisión por un periodo no menor de quince días, ni mayor de un año serán aplicadas de inmediato por el titular de la dependencia; ;
-
-III. La suspensión o la destitución del empleo, cargo o comisión públicos se demandará por el superior jerárquico de acuerdo a los procedimientos correspondientes y tomando en cuenta la naturaleza de la relación contractual, así como el nivel del servidor público, en los términos de las leyes respectivas;
-
-IV. La suspensión del empleo, cargo o comisión y la destitución de los servidores públicos de confianza, se aplicarán por el titular de la dependencia;
-
-V. Tratándose del Poder Ejecutivo, la Contraloría promoverá los procedimientos a que hacen referencia las fracciones I y III, demandando la destitución del servidor público responsable o procediendo a la suspensión de éste, cuando el superior jerárquico no lo haga. En este caso, la Contraloría desahogará el procedimiento y exhibirá las constancias respectivas al titular de la dependencia.
-
-Tratándose de los demás Poderes y Organismos Independientes, este procedimiento será llevado a cabo conforme a la legislación aplicable.
-
-VI. La inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público, en el Poder Ejecutivo del Estado será aplicable por resolución que dicte la Contraloría.
-
-En los demás Poderes y Organismos Independientes, será aplicada por los superiores jerárquicos competentes de acuerdo con lo que establece esta Ley atendiendo a la gravedad y naturaleza de la infracción; y
-
-VII. Las sanciones económicas, en el Poder Ejecutivo del Estado, serán aplicadas por la Contraloría cuando se cause daño o perjuicio al erario público y exista beneficio económico indebido.
-
-En los demás casos serán aplicadas por las Contralorías Internas o por el titular de la dependencia cuando el monto no exceda de quinientas veces el salario mínimo general diario vigente en la región;
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 70.
 
-Cuando los titulares de las dependencias y entidades de la administración pública estatal estimen que la responsabilidad de un servidor público amerite una sanción económica superior a la señalada en el artículo 69, remitirán a la Contraloría las actuaciones que hayan realizado, para que ésta determine la sanción correspondiente.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 71.
 
-En el ámbito municipal y de los Poderes Legislativo y Judicial, las sanciones de carácter económico por Responsabilidad Administrativa que excedan las quinientas veces el salario mínimo general diario vigente en la región, serán aplicadas por el Pleno del Cabildo o Contralorías Internas del Congreso o del Tribunal Superior de Justicia, según sea el caso.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
-El cobro de dichas sanciones se hará efectivo por la Secretaría de Finanzas y Administración y las Tesorerías Municipales, según corresponda.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)</small>
 
 ### CAPÍTULO III. Del procedimiento de Responsabilidad Administrativa
 
 ###### Artículo 72.
 
-Las autoridades señaladas en el artículo 3° de esta Ley, establecerán módulos u oficinas a los que el público tenga fácil acceso para que cualquier interesado pueda presentar quejas y denuncias por incumplimiento de las obligaciones de los servidores públicos del ámbito de su competencia, con las que se iniciará, en su caso, el procedimiento de Responsabilidad Administrativa correspondiente.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 73.
 
-Las autoridades señaladas en el artículo anterior de esta Ley tienen la obligación de respetar y hacer respetar el derecho a la formulación de quejas y denuncias y evitar que con motivo de las mismas se causen molestias indebidas a quien las promueva.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 74.
 
-La Contraloría establecerá las normas y los procedimientos para la debida atención y resolución de las quejas y denuncias presentadas contra los servidores públicos del Poder Ejecutivo.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 75.
 
-El Poder Legislativo, por conducto de su contraloría interna hará lo propio respecto a sus servidores públicos y conforme a la legislación respectiva; siendo también competente para determinar las responsabilidades administrativas derivadas del incumplimiento de las obligaciones señaladas en el artículo 63 de la presente ley.
-
-Lo anterior, con independencia de lo que refiere el artículo 45 de la presente Ley.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 76.
 
-El Poder Judicial deberá contar con los órganos y sistemas para identificar, investigar y determinar responsabilidades administrativas de sus servidores públicos, derivadas del incumplimiento de las obligaciones a que se refiere esta Ley, así como para aplicar las sanciones contempladas, por conducto de su superior jerárquico, en los términos de su correspondiente Ley Orgánica y su respectivo Reglamento.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 77.
 
-En el caso de los Ayuntamientos, en el ámbito de sus respectivas competencias serán los que establecerán, de conformidad a su Ley Orgánica y Reglamentos, los órganos de control interno y los sistemas respectivos para identificar, investigar, determinar y sancionar las responsabilidades administrativas de sus servidores públicos.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 78.
 
-El Tribunal de lo Contencioso Administrativo, el Tribunal de Conciliación y Arbitraje, el Tribunal Electoral, el Instituto Electoral, la Comisión de los Derechos Humanos y el Instituto de Transparencia y Acceso de la Información Pública del Estado de Guerrero, en el ámbito de sus respectivas competencias, y conforme a lo dispuesto en la reglamentación aplicable, establecerán los órganos, sistemas y procedimientos para identificar, investigar, determinar y sancionar las responsabilidades administrativas de sus servidores públicos.
-
-Las autoridades señaladas como superiores jerárquicos, deberán contar con los órganos y sistemas para identificar, investigar y determinar responsabilidades administrativas de sus servidores públicos, derivadas del incumplimiento de las obligaciones a que se refiere el artículo 66 de esta Ley, así como para aplicar las sanciones contempladas en el Capítulo II del presente Título, en los términos de su correspondiente Ley Orgánica y su Reglamento.
-
-En todos los casos el servidor público deberá denunciar por escrito a las autoridades competentes los hechos que a su juicio impliquen incumplimiento de las obligaciones de cualquier servidor público.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 79.
 
-En lo que respecta a las entidades y organismos del sector paraestatal, la denuncia a que se refiere el artículo anterior se presentará ante el Director o su equivalente, quien enviará a la Contraloría copia de la denuncia cuando se trate de infracciones graves o cuando a su juicio y tomando en cuenta la naturaleza de los hechos denunciados, ésta deba conocer del asunto o participar en las investigaciones.
-
-Tratándose de quejas o denuncias por faltas administrativas en contra de servidores públicos de los Poderes Legislativo y Judicial; de los Municipios y demás organismos autónomos, se presentarán ante sus respectivos superiores jerárquicos.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 80.
 
-Las quejas o denuncias podrán presentarse por escrito, comparecencia, o correo electrónico.
-
-La persona que presente su queja o denuncia mediante vía telefónica o por la vía electrónica, deberá ser citada por la autoridad competente y utilizando el mismo medio, para que la ratifique, bajo el apercibimiento de que de no hacerlo, en un término de cinco días hábiles contados a partir de que se le notifique la citación para su ratificación, se desechará la queja o denuncia, quedando a salvo los derechos de la autoridad competente de iniciar el procedimiento de oficio.
-
-En caso de que el quejoso o denunciante cumpla con lo previsto en este artículo y se cuente con los elementos de prueba suficientes, se procederá a iniciar el procedimiento de Responsabilidad Administrativa.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 81.
 
-Si de las investigaciones y auditorías que realice el Órgano Competente, apareciera la responsabilidad de los servidores públicos, informará al titular de la dependencia o al Director General o equivalente de la Entidad correspondiente, para que proceda a la investigación y sanción disciplinaria por dicha responsabilidad, si fuera de su competencia.
-
-Si se trata de responsabilidad mayor, cuyo conocimiento sólo compete a la Contraloría, ésta se avocará directamente al asunto, informando de ello al titular de la dependencia, para que participe o coadyuve en el procedimiento de la determinación de responsabilidades.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 82.
 
-Las sanciones administrativas y económicas se impondrán conforme al procedimiento siguiente:
-
-I. Se emitirá auto de radicación donde se señale la procedencia o improcedencia de la denuncia, los hechos y normatividad violada por el servidor o servidores públicos;
-
-II. Se correrá traslado de la denuncia y sus anexos al servidor o servidores públicos denunciado (sic), para que emitan contestación en la audiencia de pruebas y alegatos;
-
-III. Se señalará fecha y hora para la celebración de la audiencia de pruebas y alegatos, en un plazo no mayor de quince días, debiendo citar a las partes quienes podrá asistir acompañadas de un defensor;
-
-IV. Se (sic) podrá asistir a la audiencia el representante de la dependencia de adscripción que para tal efecto se designe;
-
-V. Serán admisibles todo tipo de pruebas a excepción de la confesional, declaración de parte y las contrarias a la moral o al derecho;
-
-VI. Se cederá la palabra a la parte denunciada en la audiencia de pruebas para que emita su contestación, debiendo ofrecer las pruebas que considere pertinentes. Posteriormente se acordará respecto de las pruebas que sean admisibles y se relacionen con el hecho denunciado, procediendo a su desahogo;
-
-VII. Se procederá a la etapa de alegatos, desahogadas las pruebas ofertadas por las partes, otorgándoles el uso de la palabra a las partes por un término no mayor de cinco minutos, pudiendo presentar sus alegatos por escrito;
-
-VIII. Deberá dictar resolución en un término no mayor a los treinta días, la autoridad que conozca del procedimiento, misma que deberá ser notificada a las partes de manera personal;
-
-IX. Se remitirá copia certifica de la resolución al superior jerárquico, para que se cumplimente lo resuelto en el procedimiento; y
-
-X. En cualquier momento, previo o posterior al citatorio a que se refiere la fracción I, se podrá determinar tratándose de servidores públicos, la suspensión temporal de los presuntos responsables de su cargo, empleo o comisión, si así conviene para la conducción o continuación de las investigaciones. Dicha suspensión deberá comunicarse de inmediato al superior jerárquico para que éste tome las providencias administrativas correspondientes.
-
-La suspensión temporal no prejuzga sobre la responsabilidad que se impute al presunto responsable. La determinación de la autoridad hará constar expresamente esta salvedad.
-
-La suspensión temporal interrumpe los efectos del acto que haya dado origen al empleo, cargo o comisión, y que regirá desde el momento en que sea notificada al interesado o éste quede enterado de la resolución por cualquier medio.
-
-La suspensión temporal cesará cuando así lo resuelva la autoridad instructora, independientemente de la iniciación, continuación o conclusión del procedimiento a que se refiere este artículo.
-
-Si los servidores públicos suspendidos temporalmente, no resultaren responsables de la falta que se les imputa serán restituidos en el goce de sus derechos y se les cubrirán las percepciones que debieron recibir durante el tiempo de la suspensión.
-
-Los recursos para impugnar los acuerdos o actas circunstanciadas, se ajustará a lo que dispone el Título Séptimo, Capítulo I de la presente Ley.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 83.
 
-El procedimiento antes descrito será observado en lo aplicable por el titular de la dependencia o, en su caso, por las Contralorías Internas u Organismos que de conformidad con las leyes o reglamentos sean competentes para tal efecto.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 84.
 
-Se levantará acta circunstanciada en todas las diligencias que se practiquen, con dos testigos de asistencia, recabando las firmas de quienes participen o intervengan en ellas, apercibiéndolos en términos de ley de las sanciones en que incurren quienes declaren con falsedad ante la autoridad competente.
-
-La falta o negativa de firmas de los presuntos responsables en las actas circunstanciadas, no invalidarán el contenido y alcance de las mismas.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 85.
 
-Constarán por escrito las resoluciones, acuerdos y actas circunstanciadas que se dicten durante el procedimiento a que se refiere este capítulo.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 86.
 
-Cuando durante la instrucción del procedimiento correspondiente el servidor público confesare su responsabilidad, se procederá de inmediato a dictar resolución. En este caso, se impondrá al infractor hasta dos tercios de la sanción aplicable; si es de naturaleza económica deberá ser suficiente para indemnizar o resarcir los daños y perjuicios causados. En todo caso deberá restituirse cualquier bien o producto que se hubiese percibido con motivo de la infracción.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 87.
 
-El ejercicio de las facultades para imponer las sanciones que esta Ley prevé se ajustará a lo siguientes (sic):
-
-I. De uno a dos años si el lucro obtenido o el daño o perjuicio causado por el infractor no excede de quinientas veces el salario mínimo general diario vigente en la región; o si la responsabilidad no pudiera ser cuantificada en dinero;
-
-II. En los demás casos, en tres años, salvo los de naturaleza económica que prescribirán en los términos que para los créditos fiscales señale la normatividad fiscal del Estado; y
-
-III. En tratándose de infracciones graves el plazo de prescripción no será menor de tres años ni mayor de seis.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 88.
 
-La prescripción a que se refiriere el artículo anterior se computará a partir del día siguiente en que se hubieran cometido las infracciones, o a partir del momento en que hayan cesado, si fueran de carácter continuo.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
-La prescripción se interrumpirá al iniciarse los procedimientos previstos por la Ley. Si se dejara de actuar en ellos, la prescripción empezará a correr nuevamente desde el día siguiente al en que se haya practicado el último acto procedimental o realizado la última promoción.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)</small>
 
 ### CAPÍTULO IV. De los superiores jerárquicos y su competencia
 
 ###### Artículo 89.
 
-En el Poder Ejecutivo del Estado, se entenderá por superior jerárquico:
-
-I. A los titulares de las dependencias de la administración pública estatal, quienes aplicarán las sanciones cuya imposición les atribuye esta Ley;
-
-II. Al Director General o equivalente de las entidades paraestatales o asociaciones asimiladas a éstas, quiénes aplicarán las sanciones a los servidores públicos adscritos a las mismas y cuya imposición les atribuye esta Ley;
-
-III. Al Pleno del Tribunal de Conciliación y Arbitraje, respecto a las faltas, infracciones, acciones u omisiones de Responsabilidad Administrativa cometidas por los servidores públicos adscritos al mismo;
-
-IV. Al Pleno de la Junta Local de Conciliación y Arbitraje, respecto de los Presidentes de las Juntas Especiales y demás servidores públicos adscritos tanto a aquélla como a éstas.
-
-Los superiores jerárquicos podrán delegar la facultad de aplicar sanciones a las Contralorías Internas, en el caso, de contar con ellas y conforme a su Reglamento Interior.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 90.
 
-La Contraloría aplicará las sanciones a los titulares de las dependencias y entidades de la administración pública estatal cuando incurran en actos u omisiones que impliquen Responsabilidad Administrativa; asimismo, en dichos términos será competente para sancionar a los Presidentes del Tribunal de Conciliación y Arbitraje y de las Juntas Locales de Conciliación y Arbitraje.
-
-También será competente para aplicar las sanciones respectivas a los Comisarios Públicos de las entidades paraestatales, así como a los titulares y demás servidores públicos de las Contralorías Internas de las dependencias de la administración pública estatal.
-
-El titular de la dependencia o entidad de la administración pública estatal enviará a la Contraloría copia de las denuncias cuando se trate de infracciones graves o cuando en su concepto y habida cuenta de la naturaleza de los hechos denunciados, la Contraloría deba conocer el caso o participar en las investigaciones.
-
-Los servidores públicos de la Contraloría que incurran en responsabilidad por incumplimiento de las obligaciones establecidas en el artículo 63 de la presente Ley, serán sancionados conforme a lo previsto en la presente Ley.
-
-Será competencia de los superiores jerárquicos, la aplicación de las sanciones administrativas en caso del incumplimiento a lo previsto en la Ley del Trabajo de los Servidores Públicos del Estado de Guerrero, número 248; asimismo serán competentes cuando el trabajador incurra en alguna de las hipótesis que se establecen en dicho ordenamiento laboral, debiendo notificarlo en un término de tres días hábiles de haberse levantado las correspondientes actas administrativas, al Tribunal de Conciliación y Arbitraje del Gobierno del Estado.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 91.
 
-Dentro del Poder Ejecutivo del Estado, cuando por motivo de las funciones que realice la Contraloría resulta responsabilidad de servidores públicos, informará de ello al superior jerárquico de éstos para que proceda a su determinación y sanción correspondiente, si fuera de su competencia.
-
-Tratándose de responsabilidades mayores cuyo conocimiento sea competencia exclusiva de la Contraloría, ésta conocerá directamente del asunto, informando de ello al superior jerárquico para que coadyuve en el procedimiento de responsabilidades.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 92.
 
-El titular de la dependencia o entidad de la administración pública estatal, al tener conocimiento de hechos que pudieran implicar Responsabilidad Penal de los servidores públicos de la propia dependencia o entidad, darán vista de ellos al Ministerio Público para que éste conozca de los mismos.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 93.
 
-Para efectos de esta ley serán superiores jerárquicos:
-
-I. En el Poder Legislativo, el Pleno del Congreso tratándose de los Diputados; Auditor General y Auditores Especiales; Secretario General; Director de Administración, Director de Comunicación Social y Director del Instituto de Estudios Parlamentarios Eduardo Neri.
-
-Para el resto de los servidores públicos del Poder Legislativo, lo será la Comisión de Gobierno de la Cámara de Diputados.
-
-Para los servidores públicos de la Auditoría General del Estado el superior jerárquico será el Auditor General del Estado;
-
-II. En el Poder Judicial, el Pleno del Tribunal Superior de Justicia para los Magistrados adscritos al mismo, de los Jueces de Primera Instancia y de los Jueces de Paz. El Consejo de la Judicatura Estatal, respecto de los demás Servidores Públicos del Poder Judicial que establezca su Ley Orgánica y cuyo nombramiento no deba ser realizado por el propio Tribunal, salvo lo que disponga su Ley Orgánica;
-
-III. En el Tribunal de lo Contencioso Administrativo, el Pleno de la Sala Superior respecto a las faltas, infracciones, acciones u omisiones de responsabilidad administrativa de los Magistrados, Secretarios, Asesores Comisionados y personal administrativo de la Sala Superior, y el Magistrado de la Regional correspondiente respecto de Secretarios, Asesores Comisionados y personal administrativo de Salas Regionales
-
-IV. En el Tribunal Electoral del Estado, el Pleno respecto a las faltas, infracciones, acciones u omisiones de Responsabilidad Administrativa cometidas por los Magistrados y demás servidores públicos adscritos al mismo, en los términos de la Ley Orgánica del Tribunal Electoral del Estado de Guerrero;
-
-V. En el Instituto Estatal Electoral, el Consejo General respecto a las faltas, infracciones, acciones u omisiones de Responsabilidad Administrativa cometidas por los Consejeros, Presidente, Secretario Técnico y demás servidores públicos adscritos al mismo;
-
-VI. En la Comisión de los Derechos Humanos del Estado de Guerrero, el Presidente de la Comisión respecto de los servidores públicos de la misma; y
-
-VII. En el Instituto de Transparencia y Acceso a la Información Pública del Estado de Guerrero, el Pleno respecto a servidores públicos de la Comisión.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 94.
 
-En los Ayuntamientos se entenderá por superior jerárquico para los efectos de esta Ley, al Síndico Procurador tratándose de los servidores públicos municipales, quién se podrá auxiliar en los procedimientos de responsabilidades administrativas por la unidad jurídica o su equivalente o por las Contralorías Internas Municipales, a las cuales se les podrá delegar la facultad para aplicar las sanciones previstas en la presente Ley y en el Reglamento Interior de los Ayuntamientos.
-
-El Congreso del Estado, fincará y determinará responsabilidades a los servidores públicos municipales, que con dolo o culpa causen daño o perjuicio a la Hacienda Pública Municipal o a sus organismos y entidades, o no den cumplimiento a las disposiciones jurídicas vigentes en el Estado con relación al gasto público, fiscal, obra pública, adquisiciones y demás materias relacionadas con aspectos presupuéstales
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 95.
 
-Si de las acciones de inspección y vigilancia que realicen las autoridades competentes, se detecten conductas susceptibles de Responsabilidad Administrativa de servidores públicos adscritos a un Poder distinto al que éstas pertenecen o, en su caso, a un Municipio, se solicitará la promoción del fincamiento de Responsabilidad Administrativa ante el superior jerárquico que corresponda.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
-Las autoridades señaladas en el artículo 3º de esta Ley, en esfera de sus respectivas competencias, podrán abstenerse, con causa justificada, de sancionar al infractor por una sola vez siempre que se trate de hechos que no revistan gravedad ni constituyan delito, lo ameriten los antecedentes y circunstancias del infractor y el daño causado no exceda de doscientas veces el salario mínimo diario vigente en la capital del Estado.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)</small>
 
 ### CAPÍTULO V. Del fincamiento de la Responsabilidad Administrativa con sanciones y de su ejecución
 
 ###### Artículo 96.
 
-Las autoridades competentes en funciones de auditoría, fiscalización, control, vigilancia e inspección, actuando directamente o a través de sus Contralorías Internas, podrán elaborar pliegos preventivos de responsabilidad cuando detecten irregularidades por actos u omisiones cometidos por servidores públicos estatales y municipales en el manejo, aplicación, administración de fondos, valores y de recursos económicos estatales, municipales o federales que sean transferidos, descentralizados, concertados o convenidos por el Estado con la Federación y los Municipios que se traduzcan en daños y perjuicios estimables en dinero, causados a la hacienda pública estatal o municipal o al patrimonio de sus respectivos organismos del sector paraestatal.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 97.
 
-Las responsabilidades administrativas a que alude el artículo anterior, se fincarán en forma directa a los servidores públicos que hayan cometido las irregularidades respectivas y en forma subsidiaria a los servidores que por naturaleza de sus funciones hayan omitido la revisión o autorizado los actos irregulares en forma dolosa y con ello se afecten los recursos económicos a que se refiere el artículo citado.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 98.
 
-De resultar responsabilidades de proveedores o contratistas y en general de cualquier particular involucrado, en virtud de los actos o contratos que realicen con el Estado o Municipios, se promoverán las acciones y sanciones que correspondan conforme a la legislación aplicable en la materia.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 99.
 
-Las autoridades competentes promoverán el aseguramiento de bienes o el embargo precautorio a los bienes de los responsables para garantizar en forma individual el importe de los pliegos preventivos, a reserva de la calificación o constitución definitiva de la responsabilidad que impongan las mismas.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)</small>
 
 ### CAPÍTULO VI. De las responsabilidades administrativas resarcitorias
 
 ###### Artículo 100.
 
-Las responsabilidades administrativas resarcitorias tendrán por objeto reparar, indemnizar o resarcir los daños o perjuicios que se causen a la Hacienda Pública Estatal o Municipal, así como al patrimonio de los organismos auxiliares y fideicomisos públicos, mismas que se fijarán en cantidad líquida exigiendo se solventen de inmediato.
-
-Estas responsabilidades se harán efectivas mediante el procedimiento administrativo de ejecución, y en su carácter de créditos fiscales, tendrán la prelación que corresponda en los términos de los ordenamientos fiscales aplicables.
-
-Tratándose de servidores públicos, además de lo dispuesto por este artículo, procederá en su caso, la aplicación de sanciones administrativas disciplinarias en los términos del Capítulo Segundo de este Título.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 101.
 
-La Contraloría General del Estado en funciones de auditoría, fiscalización, control, vigilancia e inspección como instrumentos y mecanismos de que dispone en el ejercicio de sus atribuciones, actuando directamente o a través de los órganos de control interno, podrá fincar pliegos preventivos de responsabilidad, cuando detecte irregularidades por actos u omisiones de servidores públicos en el manejo, decisión, autorización, recepción, aplicación, administración de fondos, valores y de recursos económicos del Estado o de aquéllos concertados o convenidos con la Federación y los Municipios, que se traduzcan en daños y perjuicios estimables en dinero, causados a la Hacienda Pública del Estado, del municipio o al patrimonio de sus organismos auxiliares y fideicomisos públicos.
-
-La Contraloría General del Estado es competente para fincar responsabilidades administrativas resarcitorias a presidentes, tesoreros y demás servidores públicos municipales, en los términos del párrafo anterior, cuando se trate de fondos, valores y recursos económicos del Estado o de los concertados o convenidos con la Federación y los Municipios considerados como ingresos propios, siempre y cuando no se trate de desviación de recursos.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 102.
 
-Las responsabilidades a que alude el artículo anterior, se fincarán:
-
-I. A los servidores públicos que hayan cometido las irregularidades administrativas; y
-
-II. A los servidores que por la índole de sus funciones hayan omitido la revisión o autorizado los actos irregulares.
-
-Los presuntos responsables garantizarán con el embargo precautorio en forma individual el importe de los pliegos preventivos, a reserva de la calificación o constitución definitiva de la responsabilidad.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 103.
 
-La determinación o constitución definitiva de responsabilidades que regula este capítulo, será resuelta por la Contraloría General del Estado o por el órgano de control interno correspondiente.
-
-Estas disposiciones son aplicables a los servidores públicos de los Poderes Legislativo y Judicial, de los Municipios, así como de los Órganos Autónomos que reciban o administren fondos del Estado.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 104.
 
-Las facultades de la autoridad para determinar o constituir responsabilidades en los términos de este Capítulo, se extinguen en un término de dos años contados a partir del día siguiente en que:
-
-I. Se hubiere cometido la infracción, a partir de la existencia de la Responsabilidad Administrativa Resarcitoria; pero si la infracción fuese de carácter continuo o continuado el término correrá a partir del día siguiente al en que hubiere cesado la consumación o se hubiese realizado la última conducta o hecho, respectivamente, o
-
-II. Se levante el acta que contenga el pliego preventivo de responsabilidad.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 105.
 
-El procedimiento de responsabilidades administrativas para la aplicación de sanciones económicas, tendrá por objeto reparar o indemnizar los daños y perjuicios que se causen a la hacienda pública estatal o municipal, al ser afectados los recursos estatales, municipales o federales que sean transferidos, descentralizados, convenidos o concertados, así como al patrimonio de las dependencias y entidades del sector paraestatal.
-
-Las sanciones económicas que se impongan constituirán créditos fiscales a favor del erario estatal o municipal según corresponda y se harán efectivas por la Secretaría de Finanzas y Administración o las Tesorerías Municipales, según el caso, mediante el procedimiento económico coactivo previsto en el Código Fiscal del Estado de Guerrero y para efectos de su ejecución tendrán la prelación que corresponda, en los términos de los ordenamientos fiscales aplicables.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 106.
 
-El fincamiento o determinación de las responsabilidades administrativas, que regula este capítulo, se tramitará de conformidad con el procedimiento administrativo señalado en la presente Ley, constituyendo el pliego preventivo el acto de inicio de dicho procedimiento.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
-La resolución debidamente fundada y motivada se comunicará por escrito al afectado y a la Secretaría de Finanzas y Administración o a las Tesorerías Municipales, cuando así corresponda, para el cobro de la cantidad líquida de la sanción económica impuesta.
-
-Son aplicables estas disposiciones a los servidores públicos de los Poderes Legislativo, Ejecutivo y Judicial, así como de los Municipios y otros organismos.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)</small>
 
 ### CAPÍTULO VII. De la indemnización por daños y perjuicios causados por servidores públicos
 
 ###### Artículo 107.
 
-El Estado es subsidiariamente responsable de la reparación de los daños causados a particulares por los servidores públicos sancionados administrativamente con motivo de la aplicación de esta Ley o sentenciados penalmente por delitos cometidos en el desempeño de su encargo.
-
-El titular del Ejecutivo del Estado a propuesta de la Contraloría, en el primer caso, y de la Fiscalía General en el segundo, podrá subrogarse al cumplimiento de esta responsabilidad en cualquier momento.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 108.
 
-Los particulares ofendidos o quien los represente podrán solicitar al Titular del Ejecutivo, por conducto de la Contraloría el pago de la reparación del daño a que se refiere el artículo anterior.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 109.
 
-El pago de la indemnización que haga el Titular del Ejecutivo, determina la subrogación en favor del Estado de los derechos a la reparación del daño que tenga el particular ofendido.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 110.
 
-Las resoluciones emitidas conforme a esta Ley y las sentencias dictadas por autoridad jurisdiccional competente que determinen alguna obligación de pago para el Estado o los Municipios, deberán hacerse con cargo a las partidas de gastos generales, extraordinarias o sus equivalentes.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)</small>
 
 ### CAPITULO VIII. De la Responsabilidad Civil
 
 ###### Artículo 111.
 
-Los servidores públicos que incurran en Responsabilidad Civil serán sancionados de conformidad con lo que establece el Código Civil del Estado Libre y Soberano de Guerrero Número 358 y el Código Procesal Civil del Estado Libre y Soberano de Guerrero Número 364.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
-No se requerirán (sic) declaración de procedencia para su interposición.
-
-Esto, de acuerdo a lo establecido en el artículo 198 de la Constitución Local.
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)</small>
 
 ## TÍTULO CUARTO. DE LOS REGISTROS DE DECLARACIÓN DE SITUACIÓN PATRIMONIAL Y DE OBSEQUIOS O DONACIONES A SERVIDORES PÚBLICOS
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)</small>
 
 ### CAPÍTULO I. Del registro de la manifestación de bienes de los servidores públicos
 
 ###### Artículo 112.
 
-Los servidores públicos de las dependencias y entidades de la administración pública estatal, del Tribunal de Conciliación y Arbitraje, de las Juntas Locales de Conciliación y Arbitraje, que tengan la obligación de presentar la declaración de situación patrimonial, deberán hacerlo ante la Contraloría, bajo protesta de decir verdad y, de conformidad con los plazos establecidos en este capítulo.
-
-Las atribuciones que este Título otorga a la Contraloría también se confieren en el ámbito de sus respectivas competencias, a las Contralorías Internas de los Poderes Legislativo y Judicial del Estado, así como a los Ayuntamientos de la Entidad; a los Tribunales Electoral y de lo Contencioso Administrativo, al Instituto Estatal Electoral, a la Comisión de los Derechos Humanos del Estado y al Instituto de Transparencia y Acceso a la Información Pública del Estado, que tengan la obligación de presentar la declaración de situación patrimonial. Estas instituciones previo acuerdo de coordinación con la Contraloría podrán presentar dicha declaración ante la Contraloría General del Estado.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 113.
 
-En el Poder Legislativo tienen la obligación de presentar la declaración de situación patrimonial, los Diputados, el Auditor General del Estado, el Oficial Mayor, los Directores Generales, Directores de Área, Jefes de Departamento y demás personal que tengan el nivel equivalente a los señalados para la administración pública centralizada y del sector paraestatal en términos de la presente Ley.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 114.
 
-En el Poder Ejecutivo tienen la obligación de presentar la declaración de situación patrimonial, los servidores públicos de la administración pública central y del sector paraestatal, desde el nivel de jefes de departamento hasta los titulares de las dependencias y entidades, incluyendo al Gobernador del Estado. También tendrán la misma obligación aquellos servidores públicos que con cualquier carácter manejen, recauden, administren o resguarden fondos, valores y recursos estatales, federales y municipales, transferidos, descentralizados, convenidos y concertados.
-
-También tienen la obligación de presentar la declaración de situación patrimonial, los servidores públicos de los Tribunales Electoral, de lo Contencioso Administrativo y de Conciliación y Arbitraje, del Instituto Electoral del Estado, de las Juntas Locales de Conciliación y Arbitraje, de la Comisión de Defensa de los Derechos Humanos y del Instituto de Transparencia para el Acceso de la Información Pública del Estado de Guerrero que tengan nivel equivalente a los señalados para la administración pública centralizada y del sector paraestatal.
-
-En la Fiscalía General del Estado, tendrán la obligación de cumplir lo establecido en este capítulo, el Fiscal General, los Vicefiscales, los Directores Generales y de Área, el Visitador General, los Fiscales Especializados, los Coordinadores Regionales, los Agentes del Ministerio Público, los Jefes de Departamento, los Agentes de la Policía Ministerial y Peritos. Asimismo, en los Tribunales Administrativos y las Juntas Locales de Conciliación y Arbitraje, los Magistrados, Presidentes, Secretarios y Actuarios, así como los Peritos adscritos a los Tribunales Administrativos y las Juntas Locales de Conciliación y Arbitraje.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 115.
 
-En el Poder Judicial tienen la obligación de presentar declaración de situación patrimonial, los Magistrados, los miembros del Consejo de la Judicatura Estatal, Jueces, Proyectistas, Secretarios y Actuarios de cualquier categoría o designación, los Directores que administren y vigilen recursos del Poder Judicial, y demás personal que tengan el nivel equivalente a los señalados para la administración pública centralizada y del sector paraestatal.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 116.
 
-En los Ayuntamientos tienen la obligación de presentar la declaración de situación patrimonial, los Presidentes Municipales, Síndicos Procuradores, Regidores, Secretarios, Tesoreros, Directores, Jefes de Departamento, y demás personal que tengan nivel equivalente a los señalados para la administración pública centralizada y del sector paraestatal, así como aquéllos que manejen, recauden o administren fondos y recursos económicos.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 117.
 
-Además de los servidores públicos mencionados en los artículos precedentes, tendrán la obligación de presentar la declaración de situación patrimonial, quienes hasta nivel directivo tengan a su cargo una o más de las funciones siguientes:
-
-I. Inspección, auditoría, seguridad, vigilancia, custodia, fiscalización, procuración y administración de justicia y readaptación social;
-
-II. Manejo de fondos estatales, municipales, transferidos, descentralizados, concertados o convenidos por el Estado con la Federación y Municipios;
-
-III. Custodia de bienes y valores;
-
-IV. Atención o resolución de trámites directos con el público para determinar, autorizar o efectuar pagos de cualquier índole para obtener licencias o autorizaciones, adquisición, enajenación o comercialización de bienes y servicios, y
-
-V. Efectuar o recibir pago de cualquier índole.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 118.
 
-La declaración de situación patrimonial deberá presentarse en los plazos siguientes:
-
-I. Dentro de los sesenta días hábiles siguientes a la toma de posesión;
-
-II. Dentro de los treinta días hábiles siguientes a la conclusión del encargo; y
-
-III. Anualmente tratándose de declaraciones modificatorias del patrimonio, durante el mes de mayo del año posterior al que se declara.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 119.
 
-Si transcurridos los plazos a que hacen referencia las fracciones I y III del artículo anterior, no se hubiese presentado la declaración correspondiente sin causa justificada, se aplicará al servidor público infractor una suspensión en sus funciones del cargo, empleo o comisión que desempeñe el servidor público, por un periodo de treinta hasta sesenta días naturales apercibido que de no rendir su declaración dentro de los cinco días hábiles siguientes a la fecha de la notificación de la sanción, la Contraloría o las demás autoridades competentes para la aplicación de la presente Ley, declararán que el nombramiento o contrato ha quedado sin efectos.
-
-En el caso de que se omita la manifestación señalada en la fracción II del artículo anterior, se inhabilitará al infractor por un año, independientemente que la autoridad competente proceda a la investigación del patrimonio del infractor en los términos de esta Ley, sin perjuicio de aplicar adicionalmente, las sanciones que procedan.
-
-En la imposición de las sanciones a que se refiere este artículo deberá sustanciarse el procedimiento administrativo previsto en el artículo 82 de la Ley.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 120.
 
-En las declaraciones de situación patrimonial, tanto inicial como de separación del cargo se señalarán los bienes inmuebles, muebles, valores, créditos a favor y obligaciones a cargo del servidor público, de su cónyuge y de sus dependientes económicos, señalando además la fecha y valor de adquisición.
-
-En las declaraciones de situación patrimonial anuales se señalarán las modificaciones al patrimonio, con fecha y valor de adquisición. En todo caso se indicará el medio por el que se hizo la adquisición, así como los obsequios y donaciones recibidos por el servidor público.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 121.
 
-La Contraloría llevará un Registro Estatal de Situación Patrimonial de los Servidores Públicos del Gobierno del Estado y de los Municipios, en el cual se integrarán las declaraciones de situación patrimonial de los servidores públicos obligados a su presentación en los términos de esta Ley, para ello las Contralorías Internas o autoridades competentes en términos de la legislación aplicable, previo acuerdo celebrado entre Poder Ejecutivo y los Poderes Legislativo y Judicial del Estado, los Ayuntamientos, los Tribunales de lo Contencioso Administrativo, Electoral y de Conciliación y Arbitraje del Estado, el Instituto Estatal Electoral, la Comisión de los Derechos Humanos del Estado y el Instituto de Transparencia y Acceso a la Información Pública del Estado, remitirán en un plazo no mayor de veinte días hábiles posteriores a la entrega de la declaración por el servidor público, copia de los formatos de las declaraciones de situación patrimonial.
-
-Con el propósito de homologar criterios y para los fines del Registro Estatal de Situación Patrimonial de los Servidores Públicos del Gobierno del Estado y de los Municipios, la Contraloría elaborará los instructivos y formatos de las declaraciones de situación patrimonial, sujetándose al sistema y procedimientos de control establecidos en esta Ley.
-
-La información que obtenga la Contraloría y las Contralorías Internas respecto de las declaraciones de situación patrimonial de los servidores públicos, quedará bajo su estricta responsabilidad y confidencialidad y no podrá ser proporcionada, salvo que sea requerida por mandato judicial.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 122.
 
-El servidor público que en su declaración de situación patrimonial faltare a la verdad en relación con lo que está obligado a declarar de conformidad con el presente ordenamiento, será sancionado en los términos de esta Ley.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 123.
 
-Cuando los signos exteriores de riqueza sean ostensibles y notoriamente superiores a los ingresos lícitos que pudiera tener un servidor público de la administración pública estatal, la Contraloría, fundando y motivando su determinación, efectuará la práctica de visitas de inspección y auditorías, para los efectos de la declaratoria de responsabilidades administrativas correspondiente. Cuando estos actos requieran orden de autoridad judicial, la propia Contraloría formulará ante ésta la solicitud correspondiente.
-
-Previamente a la inspección o al inicio de la auditoría se dará cuenta al servidor público de los hechos que las motivan y se le presentarán las constancias o elementos probatorios que soporten tales hechos, para que exponga lo que a su derecho convenga.
-
-En el ámbito de los Poderes Legislativo y Judicial así como en los Municipios, los órganos de vigilancia o Contralorías Internas correspondientes ejercerán las atribuciones previstas en este artículo.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 124.
 
-Todas las actas circunstanciadas que se levanten con motivo de las visitas de inspección, deberán ser firmadas por el servidor público y por dos testigos de asistencia que para tal efecto se designen, mismos que serán nombrados por el encargado de la visita o auditoría, cuando el visitado se niegue a nombrarlos. Si el servidor público o los testigos se negaren a firmar, el visitador lo hará constar, sin que estas circunstancias afecten el contenido, alcance y valor probatorio que, en su caso, posea dicho documento
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 125.
 
-El servidor o ex servidor público visitado podrá interponer el recurso de reconsideración en contra de la resolución definitiva que emita la Contraloría ante ésta o acudir directamente ante el Tribunal de lo Contencioso Administrativo.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 126.
 
-Para los efectos de la probable Responsabilidad Penal por el delito de enriquecimiento ilícito, la Contraloría hará saber al Ministerio Público a través de una denuncia, de que el servidor público sujeto a investigación en los términos de la presente Ley, no justificó la procedencia lícita del incremento sustancial de su patrimonio, de los bienes adquiridos o de aquéllos sobre los que se conduzca como dueño, durante el tiempo de su encargo o por motivos del mismo.
-
-La Contraloría promoverá ante las autoridades competentes el aseguramiento de bienes o el embargo precautorio para el decomiso en beneficio del erario estatal, respecto de aquellos bienes cuya procedencia lícita no pudo ser comprobada por el servidor público.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 127.
 
-Para los efectos de esta Ley y en lo conducente del Código Penal, se considerarán entre los bienes que adquieran los servidores públicos o de los cuales se conduzcan como dueños, aquellos bienes que reciban o de los que dispongan su cónyuge, sus dependientes económicos y sus ascendientes y descendientes hasta el tercer grado, salvo que acredite que los obtuvieron por sí mismos y por motivos ajenos al servicio público.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)</small>
 
 ### CAPÍTULO II. Del registro de obsequios o donaciones a servidores públicos
 
 ###### Artículo 128.
 
-Para los efectos de la fracción XI del artículo 63 de esta Ley, los servidores públicos que durante el desempeño de su empleo, cargo o comisión y hasta un año después de concluida su función pública, reciban por sí o por interpósita persona, dinero, donaciones, regalos o cualquier otro beneficio en general para sí o para las personas a que se refiere la fracción XII del artículo señalado, que procedan de cualquier persona física o moral con la que pudiera determinarse conflicto de intereses, cuando el valor sea superior a doscientas veces al salario mínimo general diario vigente en la región en el momento de su recepción, deberán entregarlos al órgano de control de su adscripción en un plazo no mayor de cinco días a partir de la fecha en que los reciban.
-
-Los obsequios y donaciones que reciban los servidores públicos deberán ser declarados por éstos en la declaración de situación patrimonial anual, señalando el valor unitario de cada obsequio.
-
-El incumplimiento de lo dispuesto en este artículo, será sancionado conforme a lo dispuesto en la presente Ley, independiente de las sanciones que procedan en términos de la ley penal.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 129.
 
-Para los efectos del artículo que antecede, el órgano de control respectivo, llevará un registro de los obsequios, donaciones o beneficios en general que reciban los servidores públicos cuyo monto sea superior al establecido, o sean de los estrictamente prohibidos.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 130.
 
-Las Contralorías Internas pondrán a disposición de las autoridades competentes, los bienes que reciban los servidores públicos que rebasen el monto establecido en el artículo 118 de esta Ley, según su naturaleza y características específicas, de conformidad con los lineamientos siguientes:
-
-I. Tratándose de bienes muebles no perecederos, se remitirán a las autoridades competentes según corresponda, para su remate y aplicación a las partidas presupuestales para la beneficencia pública;
-
-II. Tratándose de bienes muebles perecederos, se remitirán al Sistema para el Desarrollo Integral de la Familia del Estado de Guerrero, el cual dispondrá de ellos en hospitales, asilos o cualquier otra dependencia de la misma Institución, de conformidad a sus políticas internas;
-
-III. Los bienes históricos, artísticos o culturales, se enviarán a la Secretaría de la Cultura a fin de que éste los administre en los términos de la legislación aplicable;
-
-IV. Tratándose de efectivo, valores o títulos sobre bienes muebles o inmuebles, se enviarán a las autoridades competentes, según corresponda para su aplicación a las partidas presupuestales del gasto social;
-
-V. Tratándose de armas de fuego y municiones, se observará lo dispuesto por la Ley Federal de Armas de Fuego y Explosivos; y
-
-VI. Tratándose de bienes inmuebles, la Secretaría de Finanzas y Administración, en términos de la legislación aplicable dispondrá el destino que se hará de ellos.
-
-En el ámbito de los Municipios, corresponderá a los Síndicos o a las Contralorías Internas dar cumplimiento a lo establecido en el presente artículo, poniendo los bienes a disposición de las instancias municipales equivalentes.
-
-En los Poderes Legislativo y Judicial corresponderá a la Comisión de Gobierno y al Consejo de la Judicatura Estatal respectivamente, dar cumplimiento a los lineamientos establecidos en el presente artículo.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 131.
 
-Las dependencias y entidades de la administración pública estatal mencionadas en el artículo que antecede, llevarán un registro de todos los bienes que reciban, quedando la Contraloría y las autoridades competentes para inspeccionar y vigilar el registro y destino de los mismos, así como los registros contables a fin de comprobar su correcta disposición y el cumplimiento de las normas aplicables en la materia.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ###### Artículo 132.
 
-Los obsequios y donaciones que se hagan en contravención a lo dispuesto por este capítulo, se entenderán cedidos al patrimonio del Estado o de los Municipios.
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO, P.O. 18 DE JULIO DE 2017)
 
 ## TÍTULO QUINTO. DE LAS RESPONSABILIDADES DE LOS EX-SERVIDORES PÚBLICOS
 
@@ -1596,3 +1230,25 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 DR. DAVID CIENFUEGOS SALGADO.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO."]
+
+Primero. La presente Ley, deberá publicarse en el Periódico Oficial del Gobierno del Estado de Guerrero y entrará en vigor a partir del 1 de enero del año 2018.
+
+Segundo. La Secretaría de Finanzas y Administración en coordinación con la Secretaría de Contraloría y Transparencia Gubernamental y la Consejería Jurídica del Poder Ejecutivo, deberán realizar las acciones administrativas, adecuaciones estructurales y presupuestarias necesarias para el adecuado funcionamiento del Tribunal de Justicia Administrativa del Estado de Guerrero, así como la transferencia del patrimonio, muebles e inmuebles, financieros que integraban al Tribunal de lo Contencioso Administrativo del Estado de Guerrero, con la intervención que corresponda a la Secretaría de Planeación y Desarrollo Regional, a más tardar sesenta días posteriores a la entrada en vigor de la presente Ley.
+
+A la entrada en vigor de la presente Ley, el personal adscrito al Tribunal de lo Contencioso Administrativo del Estado de Guerrero, se tendrá por transferido al Tribunal de Justicia Administrativa del Estado de Guerrero, a estos servidores públicos les serán respetados y reconocidos los derechos laborales adquiridos. Los Magistrados se estarán a la disposición específica aplicable.
+
+Tercero. En tanto entra en vigor la presente Ley, continuará aplicándose la legislación vigente.
+
+Cuarto. Los procedimientos administrativos iniciados por las autoridades locales con anterioridad a la entrada en vigor de la Ley de Responsabilidades Administrativas del Estado de Guerrero, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
+
+Quinto. Una vez en vigor la Ley de Responsabilidades Administrativas del Estado de Guerrero y hasta en tanto el Comité Coordinador determine los formatos para la presentación de las declaraciones patrimonial y de intereses, los servidores públicos de todos los órdenes de gobierno, presentarán sus declaraciones en los formatos que, a la entrada en vigor de la referida Ley estatal, se utilicen en el ámbito local.
+
+Sexto. El cumplimiento de las obligaciones previstas en la Ley de Responsabilidades Administrativas, una vez que esta entre en vigor, serán exigibles, en lo que resulte aplicable, hasta en tanto el Comité Coordinador de conformidad con la Ley de la materia emita los lineamientos, criterios y demás resoluciones conducentes a su competencia.
+
+Séptimo. Con la entrada en vigor de la Ley de Responsabilidades Administrativas para el Estado de Guerrero, se derogarán los Títulos Tercero y Cuarto de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios de Guerrero, así como aquellas disposiciones que se opongan a lo previsto en la Ley de Responsabilidades Administrativas del Estado de Guerrero.
