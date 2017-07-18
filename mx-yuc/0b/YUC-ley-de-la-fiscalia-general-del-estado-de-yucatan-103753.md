@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-la-fiscalia-general-del-estado-de-yucatan-103753"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-29"
-last_updated: "2016-12-28"
+last_updated: "2017-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # LEY DE LA FISCALIA GENERAL DEL ESTADO DE YUCATAN
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE JULIO DE 2017.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el sábado 29 de noviembre de 2014.
 
@@ -119,9 +121,9 @@ XIX. Participar, en los términos de las leyes aplicables, en las instancias de 
 
 XX. Suministrar, sistematizar, e intercambiar con las demás autoridades federales, estatales y municipales, información sobre seguridad pública; prevención, investigación y persecución del delito; e imputados, procesados, y sentenciados.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(ADICIONADA, D.O. 18 DE JULIO DE 2017)</small>
 
-XXI. (DEROGADA, D.O. 2 DE MAYO DE 2016)
+XXI. Diseñar e implementar programas y estrategias para detectar y combatir los hechos que la ley considera como delitos en materia de corrupción.
 
 XXII. Coordinarse, en el ámbito de su competencia, con las autoridades federales, estatales y municipales, así como con las instituciones del sector académico, social, público y privado, para el cumplimiento de su objeto.
 
@@ -155,7 +157,9 @@ Fiscal General
 
 Al frente de la Fiscalía General del Estado estará el Fiscal General, quien ejercerá autoridad jerárquica sobre todo el personal de la Fiscalía General y será el encargado de conducir la función del Ministerio Público en el estado.
 
-El Fiscal General será designado por el Gobernador, quien de inmediato turnará el documento correspondiente al Congreso del estado para que este proceda a tramitar lo relativo a su ratificación, en la forma y términos que establezcan las disposiciones aplicables.
+> <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
+
+El Fiscal General del Estado será designado conforme al procedimiento establecido en la Constitución Política del Estado de Yucatán.
 
 El reglamento de la ley establecerá lo relativo a las suplencias del Fiscal General en caso de ausencias.
 
@@ -298,6 +302,20 @@ IX. Habilitar y, en su caso, contratar peritos cuando la institución no cuente 
 X. Proponer al fiscal la celebración de convenios de coordinación o de colaboración con las dependencias y entidades federales, estatales y municipales, así como con las instituciones de educación superior nacionales o extranjeras, para la prestación de los servicios periciales e intercambios en la materia.
 
 El instituto estará a cargo de un director, quien será nombrado y removido libremente por el gobernador y se auxiliará de las unidades administrativas que requiera para el cumplimiento de su objeto, de conformidad con la disponibilidad presupuestal.
+
+> <small>(ADICIONADO, D.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 11 Ter.
+
+Vicefiscalía Especializada en Combate a la Corrupción
+
+La Vicefiscalía Especializada en Combate a la Corrupción es el órgano de la Fiscalía General del Estado con autonomía técnica y operativa, para investigar y perseguir los hechos que la ley considera como delitos por hechos de corrupción.
+
+El vicefiscal especializado en Combate a la Corrupción, durará en su cargo siete años y será designado siguiendo el mismo procedimiento que dispone la Constitución Política del Estado de Yucatán para el nombramiento del fiscal general.
+
+La vicefiscalía contará con el personal sustantivo, directivo, administrativo y auxiliar capacitados para el debido cumplimiento de sus funciones, así como con las unidades administrativas necesarias para el seguimiento de las investigaciones; se auxiliará en su operación de las unidades administrativas de la Fiscalía General del Estado previstas en el reglamento de esta ley.
+
+El reglamento de esta ley preverá lo relacionado con las atribuciones y funcionamiento de la vicefiscalía y de las unidades administrativas que lo compongan.
 
 ### Capítulo III. Servicio profesional de carrera
 
@@ -480,3 +498,15 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Obligación normativa
 
 El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
+
+D.O. 18 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 507/2017 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN Y LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN, EN MATERIA DE COMBATE A LA CORRUPCIÓN".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día 19 de julio de 2017, previa publicación en el diario oficial del estado.
+
+Segundo. Obligación normativa
+
+El gobernador deberá adecuar el Reglamento de la Ley de la Fiscalía General del Estado de Yucatán en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
