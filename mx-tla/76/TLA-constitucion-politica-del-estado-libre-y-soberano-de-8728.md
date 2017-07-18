@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "2017-02-03"
+last_updated: "2017-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TLA"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2017.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -779,11 +781,7 @@ b) Agotada la primera ronda, y si aún quedaren diputaciones por asignar, en una
 
 En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda de ocho puntos su porcentaje de votación emitida. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento. Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 VII.- (DEROGADA, P.O. 18 DE MAYO DE 2001)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 VIII.- (DEROGADA, P.O. 18 DE MAYO DE 2001)
 
@@ -817,7 +815,9 @@ IV. No ser servidor público de la Federación, del Estado o de los municipios c
 
 V. (DEROGADA, P.O. 21 DE JULIO DE 2015)
 
-VI. No ser magistrado del Tribunal Superior de Justicia;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+VI. No ser magistrado del Tribunal Superior de Justicia, ni del Tribunal de Justicia Administrativa;
 
 VII. No ser titular del Órgano de Fiscalización Superior, y
 
@@ -862,8 +862,6 @@ La infracción de esta disposición será castigada con la pérdida del carácte
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
 ### CAPITULO II. DE LA INSTALACION, DURACION Y LABORES DEL CONGRESO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO OCTAVO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 2015)</small>
 
@@ -1091,13 +1089,17 @@ b) Dictaminar anualmente las cuentas públicas de los poderes, municipios, organ
 
 c) Designar al titular del Órgano de Fiscalización Superior, por el voto de las dos terceras partes de los integrantes del Congreso, quien durará en su encargo por un periodo de siete años, sin posibilidad de ser reelecto y deberá contar con experiencia de cinco años en materia de control; auditoría financiera y de responsabilidades, podrá ser removido por causas graves que la ley señale, con la misma votación requerida para su nombramiento;
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
-d) Expedir leyes en materia de contabilidad gubernamental que regirán la contabilidad pública y la presentación homogénea de información financiera, de ingresos y egresos, así como patrimonial, para los poderes del Estado, entidades, organismos autónomos y municipios, a fin de garantizar su armonización contable a nivel estatal, e
+d) Expedir leyes en materia de contabilidad gubernamental que regirán la contabilidad pública y la presentación homogénea de información financiera, de ingresos y egresos, así como patrimonial, para los poderes del Estado, entidades, organismos autónomos y municipios, a fin de garantizar su armonización contable a nivel estatal;
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
-e) Evaluar el desempeño del Órgano de Fiscalización Superior, para lo cual recibirá y sancionará el Programa Operativo Anual; así como un informe trimestral sobre la evolución de sus trabajos de fiscalización.
+e) Evaluar el desempeño del Órgano de Fiscalización Superior, para lo cual recibirá y sancionará el Programa Operativo Anual; así como un informe trimestral sobre la evolución de sus trabajos de fiscalización, e
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+f) Expedir la ley que regule la organización y facultades del Órgano de Fiscalización Superior.
 
 XVIII. Aprobar o no los convenios que el Gobernador pretenda celebrar con los Estados circunvecinos, respecto de las cuestiones de límites y someter tales convenios a la ratificación del Congreso de la Unión;
 
@@ -1121,19 +1123,15 @@ XXV. Instruir al organismo público local electoral, para que proceda a efectuar
 
 XXVI. Nombrar al Procurador General de Justicia del Estado;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-XXVII. Nombrar, evaluar y, en su caso, ratificar a los magistrados del Tribunal Superior de Justicia, sujetándose a los términos que establecen esta Constitución y la Ley Orgánica del Poder Legislativo del Estado, salvaguardando en los procesos, los principios de excelencia, objetividad, imparcialidad, profesionalismo, acceso a la información, publicidad, equidad e independencia del Poder Judicial del Estado.
+XXVII. Nombrar, evaluar y, en su caso, ratificar a los magistrados del Tribunal Superior de Justicia y del Tribunal de Justicia Administrativa, sujetándose a los términos que establecen esta Constitución y la Ley Orgánica del Poder Legislativo del Estado, salvaguardando en los procesos, los principios de excelencia, objetividad, imparcialidad, profesionalismo, acceso a la información, publicidad, equidad e independencia del Poder Judicial del Estado.
 
 En el procedimiento referido en el párrafo que antecede se deberán observar las bases siguientes:
 
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2012)</small>
-
 a) Una vez cumplido el plazo para el que fueron designados, los Magistrados podrán ser ratificados por un periodo igual. El Congreso con la aprobación de las dos terceras partes del total de los diputados que integren la Legislatura y previa opinión del Consejo de la Judicatura sobre el desempeño del Magistrado correspondiente, resolverá sobre la ratificación o remoción, con anticipación de noventa días naturales a la fecha en que expire el plazo de ejercicio;
 
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2012)</small>
-
-b) En caso de que exista la necesidad de designar a un nuevo o nuevos Magistrados, se atenderá lo dispuesto en los artículos 83 y 84 de esta Constitución y en la Ley Orgánica del Poder Legislativo del Estado;
+b) En caso de que exista la necesidad de designar a un nuevo o nuevos Magistrados, se atenderá lo dispuesto en los artículos 83, 84 y 84 Bis de esta Constitución y en la Ley Orgánica del Poder Legislativo del Estado;
 
 XXVIII. Elegir a los miembros del Consejo Consultivo de la Comisión Estatal de Derechos Humanos;
 
@@ -1197,8 +1195,6 @@ LV. Recibir el informe del Gobernador en los términos previstos por esta Consti
 
 LVI. Recibir dentro de los primeros quince días del mes de enero de cada año, el informe que por escrito entregue el Presidente del Tribunal Superior de Justicia, sobre las actividades del Poder Judicial;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS SEXTO, SEGUNDO PÁRRAFO Y SÉPTIMO TRANSITORIOS DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 21 DE JULIO DE 2015)</small>
 
 LVII. Tomar la protesta de Ley al Gobernador electo, el treinta y uno de agosto del año de la elección;
@@ -1211,9 +1207,17 @@ LVIII. Legislar sobre la integración del patrimonio del Estado y de los municip
 
 LIX. Nombrar a los Comisionados del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Tlaxcala; y
 
-> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-LX. Las demás que le confiere esta Constitución y las leyes.
+LX. Expedir las leyes necesarias para la coordinación del Sistema Estatal Anticorrupción a que se refiere el artículo 112 Bis de esta Constitución;
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+LXI. Designar, por el voto de las dos terceras partes de sus miembros presentes, a los titulares de los órganos internos de control de los Órganos Autónomos reconocidos en esta Constitución, que ejerzan recursos del Presupuesto de Egresos del Estado, y
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+LXII. Las demás que le confiere esta Constitución y las leyes.
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -1261,8 +1265,6 @@ La elección de Gobernador del Estado se realizará de acuerdo con lo establecid
 
 La Legislatura del Estado expedirá el Bando Solemne para dar a conocer en toda la Entidad la declaratoria de Gobernador electo que hubiere hecho el Consejo General del organismo público local electoral de acuerdo con los resultados de la votación.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULOS SEXTO, SEGUNDO PÁRRAFO Y SÉPTIMO TRANSITORIOS DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2015)</small>
 
 ###### ARTICULO 59.
@@ -1307,7 +1309,9 @@ V. No ser servidor público de la Federación, del Estado o de los municipios co
 
 VI. No estar comprendido en alguna de las causas de incapacidad establecidas en el artículo 59 de esta Constitución;
 
-VII. No ser magistrado del Tribunal Superior de Justicia del Estado;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+VII. No ser magistrado del Tribunal Superior de Justicia del Estado, ni magistrado del Tribunal de Justicia Administrativa;
 
 VIII. No ser titular del Órgano de Fiscalización Superior;
 
@@ -1425,45 +1429,31 @@ El Secretario de Gobierno quedará encargado del despacho durante las ausencias 
 
 El Secretario de Gobierno, o a falta de éste el Oficial Mayor y el Secretario del Ejecutivo a cuyo ramo corresponda el asunto, firmarán los Reglamentos, Decretos y Acuerdos que el Gobernador diere en uso de sus facultades y sin este requisito no serán obedecidos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 70.
 
 Son facultades y obligaciones del Gobernador:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 I. En el orden federal, las que determinen la Constitución Política de los Estados Unidos Mexicanos y las Leyes que de ella emanen;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 II. Sancionar, promulgar, publicar y ejecutar las Leyes o Decretos que expida el Congreso, así como reglamentar y proveer en la esfera administrativa lo necesario a su exacto cumplimiento;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 III. Hacer observaciones a los proyectos de Ley o Decretos en los términos que establece el Artículo 49 de esta Constitución;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 IV. Iniciar Leyes o Decretos ante el Congreso;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 V. Pedir a la Comisión Permanente que convoque al Congreso a sesiones extraordinarias, exponiendo las razones o causas que hicieron necesaria su convocatoria y asistir a la apertura de éstas;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
@@ -1473,8 +1463,6 @@ VI. Concurrir al Congreso cuando lo juzgue conveniente para sostener alguna inic
 
 VII. Rendir por escrito al Congreso del Estado, el informe sobre la situación general que guardan los diversos rubros de la administración pública, dentro de los primeros cinco días del mes de diciembre de cada año. En el último año de gobierno, el informe se presentará en los primeros quince días del mes de agosto;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 VIII. Presentar al Congreso a más tardar el día quince de noviembre de cada año, los proyectos de Ley de Ingresos y Presupuesto de Egresos que habrán de regir en el año siguiente;
@@ -1483,49 +1471,33 @@ VIII. Presentar al Congreso a más tardar el día quince de noviembre de cada a�
 
 IX. Rendir al Congreso la cuenta pública en forma trimestral; esta cuenta deberá presentarse dentro de los treinta días naturales posteriores al período de que se trate, en los términos de la Ley correspondiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 X. Pedir y dar informes al Congreso sobre cualquier ramo de la administración y al Poder Judicial sobre el de Justicia;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 XI. Ejecutar o mandar ejecutar las sentencias y resoluciones pronunciadas por los tribunales y facilitar al Poder Judicial los auxilios que necesiten para el ejercicio expedito de sus funciones;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 XII. Auxiliar a los Ayuntamientos en el ejercicio de sus funciones;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 XIII. Nombrar y remover libremente a los Secretarios del Ejecutivo, Oficial Mayor de Gobierno, y a todos los demás servidores públicos del Estado, cuyo nombramiento o remoción no estén determinados de otro modo en esta Constitución o en las Leyes;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 XIV. Cuidar de la recaudación e inversión de los recursos del Estado;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 XV. Decretar la expropiación por causa de utilidad pública;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 XVI. Imponer gubernativamente las sanciones administrativas que determinen las Leyes y Reglamentos;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
@@ -1535,19 +1507,13 @@ XVII. Conceder indulto, reducción, conmutación y demás beneficios que en mate
 
 XVIII. Velar por la seguridad y orden públicos; disponer de las instituciones de seguridad pública del Estado y dictar las instrucciones que sean necesarias a las policías preventivas municipales, en aquellos eventos que juzgue como fuerza mayor o alteración grave del orden público;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 XIX. Promover y fomentar, por todos los medios posibles, la educación pública en el Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 XX. Promover el desarrollo cultural, artístico, deportivo, científico, tecnológico, social y político de la Entidad;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
@@ -1561,85 +1527,57 @@ XXII. Otorgar o cancelar patente de notario;
 
 XXIII. Contratar créditos, cumpliendo con los requisitos establecidos en el artículo 101 de la Constitución Política del Estado Libre y Soberano de Tlaxcala;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 XXIV. Desconcentrar las funciones administrativas, cuando por razones de interés general lo estime conveniente;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 XXV. Nombrar apoderados para asuntos administrativos y judiciales que se tramiten dentro o fuera del Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 XXVI. Nombrar representantes fuera del Estado para la gestión de los negocios del mismo;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 XXVII. Promover el desarrollo económico del Estado, a fin de que sea compartido y equilibrado entre los centros urbanos y los rurales; apoyar a la micro, pequeña y mediana empresa y propiciar la gran inversión en el Estado, con especial atención a las de carácter social, y estimular aquellos proyectos que fomenten la capacidad empresarial;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 XXVIII. Solicitar la protección de los Poderes de la Unión, y ejercitar las acciones que le otorga el Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 XXIX. Conceder los estímulos que considere convenientes a las industrias y explotaciones agrícolas, ganaderas y pesqueras que se establezcan en el Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 XXX. Celebrar los convenios y contratos en los términos de la Ley de la materia;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 XXXI. Propiciar patronatos para que los ciudadanos participen como coadyuvantes de la Administración Pública en actividades de interés social;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 XXXII. Representar al Estado en las comisiones federales y en las comisiones interestatales regionales;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 XXXIII. Ejercer actos de dominio sobre los inmuebles propiedad del Estado, con autorización del Congreso;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 XXXIV. Elaborar, efectuar y revisar periódicamente los planes de desarrollo del Estado, así como los parciales y especiales derivados de aquéllos;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 XXXV. Celebrar convenios conforme a la Ley con otras entidades, informando oportunamente al Congreso;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 XXXVI. Celebrar convenios con el Ejecutivo Federal y con los de otros Estados, de los que se deriven la ejecución de obras, la prestación de servicios o el mejoramiento común de la hacienda pública, así como el cumplimiento de cualquier propósito de beneficio colectivo, haciéndolo del conocimiento del Congreso oportunamente;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
@@ -1649,11 +1587,7 @@ XXXVII. Ejercitar todos los derechos que asigna a la Nación el Artículo 27 de 
 
 XXXVIII. Las demás que establezcan esta Constitución y las Leyes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 XXXIX. (DEROGADA, P.O. 18 DE MAYO DE 2001)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 XL. (DEROGADA, P.O. 18 DE MAYO DE 2001)
 
@@ -1747,23 +1681,33 @@ ARTICULO 78 BIS.- (DEROGADO, P.O. 1 DE AGOSTO DE 2008)
 
 ### CAPITULO I. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
 
 ## TITULO VI. DEL PODER JUDICIAL
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
-### CAPITULO II. DEL CONSEJO DE LA JUDICATURA
+### CAPITULO II. DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+ARTICULO 84 BIS.- El Tribunal de Justicia Administrativa del Estado de Tlaxcala es un organismo público especializado, que forma parte del Poder Judicial del Estado, dotado de autonomía técnica y de gestión en el ejercicio de sus atribuciones, para dictar sus fallos y establecer su organización, funcionamiento, procedimientos y los recursos para impugnar sus resoluciones. Tendrá a su cargo dirimir las controversias que se susciten entre la administración pública estatal, municipal y los particulares; imponer en los términos que disponga la ley, las sanciones a los servidores públicos locales y municipales por responsabilidad administrativa grave, a los particulares que incurran en actos vinculados con faltas administrativas graves; así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la hacienda pública estatal, municipal o al patrimonio de los entes públicos locales o municipales, en los términos que establezca la legislación correspondiente.
+
+El Tribunal de Justicia Administrativa del Estado de Tlaxcala estará integrado por tres magistrados, propuestos por el Gobernador del Estado y ratificados por el voto de las dos terceras partes del total de los integrantes de la Legislatura del Congreso del Estado; la propuesta y ratificación se sujetarán al procedimiento establecido para el nombramiento de los Magistrados del Tribunal Superior de Justicia del Estado. Durarán en su cargo seis años y sólo podrán ser removidos de su cargo por las causas graves que señale la ley.
+
+Para ser Magistrado del Tribunal de Justicia Administrativa del Estado se deberán cumplir los mismos requisitos que para ser nombrado Magistrado del Tribunal Superior de Justicia del Estado.
+
+El Tribunal propondrá su presupuesto al Presidente del Tribunal Superior de Justicia para su inclusión en el proyecto de Presupuesto del Poder Judicial del Estado. Asimismo, el Tribunal deberá expedir su Reglamento Interno y los acuerdos generales para su adecuado funcionamiento.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
 ###### ARTICULO 79.
 
-El ejercicio del Poder Judicial se deposita en un Tribunal Superior de Justicia, que es el órgano supremo, en Juzgados de Primera Instancia, y contará además con un Consejo de la Judicatura y un Centro Estatal de Justicia Alternativa, con las atribuciones que le señalen esta Constitución, la Ley Orgánica del Poder Judicial y las demás leyes que expida el Congreso del Estado.
+El ejercicio del Poder Judicial se deposita en un Tribunal Superior de Justicia, que es el órgano supremo, en un Tribunal de Justicia Administrativa, en Juzgados de Primera Instancia, y contará además con un Consejo de la Judicatura y un Centro Estatal de Justicia Alternativa, con las atribuciones que le señalen esta Constitución, la Ley Orgánica del Poder Judicial y las demás leyes que expida el Congreso del Estado.
 
 > <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
-El Poder Judicial residirá en la Capital del Estado, sin perjuicio de que para el mejor desempeño de sus funciones y eficiencia en la prestación de servicios a la ciudadanía, en términos de lo que disponga la Ley Orgánica del Poder Judicial del Estado de Tlaxcala y por acuerdo del Pleno del Tribunal Superior de Justicia, se autorice el establecimiento de órganos jurisdiccionales, dependencias u oficinas del Poder Judicial en el recinto denominado “Ciudad Judicial” ubicado en la comunidad de Santa Ánita Huiloac del Municipio de Apizaco, así como en otros municipios del Estado. Tratándose de órganos jurisdiccionales de primera o segunda instancia, deberá señalarse su competencia en la Ley Orgánica del Poder Judicial del Estado de Tlaxcala.
+El Poder Judicial residirá en la Capital del Estado, sin perjuicio de que para el mejor desempeño de sus funciones y eficiencia en la prestación de servicios a la ciudadanía, en términos de lo que disponga la Ley Orgánica del Poder Judicial del Estado de Tlaxcala y por acuerdo del Pleno del Tribunal Superior de Justicia, se autorice el establecimiento de órganos jurisdiccionales, dependencias u oficinas del Poder Judicial en el recinto denominado "Ciudad Judicial" ubicado en la comunidad de Santa Ánita Huiloac del Municipio de Apizaco, así como en otros municipios del Estado. Tratándose de órganos jurisdiccionales de primera o segunda instancia, deberá señalarse su competencia en la Ley Orgánica del Poder Judicial del Estado de Tlaxcala.
 
 > <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
@@ -2005,15 +1949,15 @@ Los Jueces de Primera Instancia ratificados serán inamovibles durante el period
 
 Los Jueces de Primera Instancia podrán ser removidos de su cargo por el Consejo de la Judicatura, considerando la opinión del Pleno del Tribunal Superior de Justicia, de conformidad con el procedimiento para la aplicación de sanciones contemplado en la ley que determine las responsabilidades y sanciones de los servidores públicos; por incapacidad física o mental o por haber cumplido sesenta y cinco años.
 
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE JULIO DE 2017)</small>
+
+### CAPITULO III. DEL CONSEJO DE LA JUDICATURA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
 
 ### CAPITULO UNICO
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
-
-### CAPITULO I. DEL INSTITUTO TLAXCALTECA DE ELECCIONES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 85.
 
@@ -2047,13 +1991,17 @@ El presidente del Consejo de la Judicatura, deberá informar semestralmente por 
 
 Las demás facultades y obligaciones del presidente así como aquellas para el funcionamiento del Consejo de la Judicatura, serán previstas por la ley correspondiente.
 
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
-Los consejeros, serán designados en términos de la presente Constitución, y, a excepción del Presidente, durarán en el cargo tres años, y podrán ser ratificados única y exclusivamente por un período igual al que fueron nombrados, previa evaluación, y entrevista practicadas por quien lo designó, de conformidad con los lineamientos que para tal efecto emita. Los consejeros no representarán a quien los designa y ejercerán su función con independencia e imparcialidad, durante su encargo solo podrán ser removidos en los términos del Título XI de la presente Constitución.
+Los consejeros, serán designados en términos de la presente Constitución y, a excepción del Presidente, durarán en el cargo tres años, y podrán ser ratificados única y exclusivamente por un período igual al que fueron nombrados, previa evaluación, y entrevista practicadas por quien los designó, de conformidad con los lineamientos que para tal efecto emita. Los consejeros no representarán a quien los designa y ejercerán su función con independencia e imparcialidad, durante su encargo sólo podrán ser removidos en los términos del Título XI de la presente Constitución.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
 El Consejo de la Judicatura será responsable de implementar el sistema de carrera judicial, con auxilio del instituto de capacitación de la judicatura, bajo los principios de legalidad, excelencia, objetividad, imparcialidad, profesionalismo e independencia; nombrará y removerá a los servidores públicos del Poder Judicial con excepción de los magistrados, asimismo les concederá licencia y resolverá sobre la renuncia que presenten, en los términos que establezca la ley.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+La administración, vigilancia y disciplina en el Tribunal de Justicia Administrativa del Estado corresponderán a una Comisión del Consejo de la Judicatura.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -2061,21 +2009,21 @@ Las decisiones o resoluciones del Consejo serán impugnadas por la vía administ
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
+### CAPITULO I. DEL INSTITUTO TLAXCALTECA DE ELECCIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2015)</small>
+
 ### CAPITULO II. DE LA COMISION ESTATAL DE DERECHOS HUMANOS
 
 > <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2012)</small>
-
-### CAPITULO III. DEL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE TLAXCALA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2016)</small>
 
 ## TITULO VII. DE LOS MUNICIPIOS
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
-### CAPITULO I. DESARROLLO Y PLANEACION
+### CAPITULO III. DEL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE TLAXCALA
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 86.
 
@@ -2143,9 +2091,9 @@ II. Quienes estén en servicio activo en las Fuerzas Armadas o tengan funciones 
 
 III. Los ministros de cualquier culto religioso;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-IV. Los magistrados del Tribunal Superior de Justicia;
+IV. Los magistrados del Tribunal Superior de Justicia, ni los magistrados del Tribunal de Justicia Administrativa;
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -2188,8 +2136,6 @@ Cada ayuntamiento se integrará por un presidente municipal, un síndico y los r
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
 El presidente municipal, el síndico y los regidores tendrán el carácter de munícipes y serán electos por medio de planillas, en la circunscripción municipal, en procesos electorales ordinarios cada tres años, o en el plazo y para el periodo que determinen el Congreso del Estado y las leyes aplicables en caso de procesos electorales extraordinarios. También tendrán ese mismo carácter los presidentes de comunidad y las leyes aplicables determinarán las reglas, los procedimientos y las modalidades de su elección, así como sus atribuciones y obligaciones.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULOS NOVENO Y DÉCIMO SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 2015)</small>
 
@@ -2317,9 +2263,9 @@ La Ley Municipal determinará las demás facultades y obligaciones de los Ayunta
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE AGOSTO DE 2015)</small>
 
-### CAPITULO II. DE LAS FINANZAS PUBLICAS
+### CAPITULO I. DESARROLLO Y PLANEACION
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
 ###### ARTICULO 95.
 
@@ -2341,9 +2287,9 @@ El Instituto Tlaxcalteca de Elecciones contará en su estructura con un consejo 
 
 El consejo general estará integrado por un consejero Presidente y seis Consejeros Electorales, con derecho a voz y voto; el Secretario Ejecutivo y los representantes de los partidos políticos con registro nacional o estatal, concurrirán a las sesiones solo con derecho a voz; cada partido político contará con un representante en dicho Instituto. Los consejeros electorales del consejo general serán designados y removidos en términos de lo establecido por el artículo 116 de la Constitución Federal y la ley aplicable. Todos ellos durarán en su cargo siete años y no podrán ser reelectos. El Secretario Ejecutivo del Instituto Tlaxcalteca de Elecciones será nombrado por las dos terceras partes de su consejo general, a propuesta de su Consejero Presidente; durará en el cargo 7 años y podrá ser reelecto una sola vez; la ley de la materia determinará los requisitos para su nombramiento.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
-El Instituto Tlaxcalteca de Elecciones contará con una contraloría general, con autonomía técnica y de gestión; tendrá a su cargo la fiscalización de todos los ingresos y egresos del Instituto. El Titular de la contraloría general del Instituto será designado por el Congreso del Estado por el voto de las dos terceras partes de sus miembros presentes, durará en su cargo cuatro años y podrá ser reelecto por un periodo más. Así mismo mantendrá la coordinación técnica necesaria con las entidades de fiscalización superior federal y estatal.
+El Instituto Tlaxcalteca de Elecciones contará con un Órgano Interno de Control con Autonomía Técnica y de Gestión; tendrá a su cargo la Fiscalización de todos los Ingresos y Egresos del Instituto. El Titular del Órgano Interno de Control del Instituto será designado por el Congreso del Estado por el voto de las dos terceras partes del total de los integrantes de la Legislatura, durará en su cargo cuatro años y podrá ser reelecto por un periodo más; tendrá el nivel de una dirección ejecutiva. Así mismo mantendrá la Coordinación Técnica necesaria con las Entidades de Fiscalización Superior Federal y Estatal.
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
 
@@ -2467,9 +2413,9 @@ El órgano jurisdiccional local en materia electoral se compondrá de tres magis
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
-### CAPITULO UNICO. DEL ORGANO DE FISCALIZACION SUPERIOR
+### CAPITULO II. DE LAS FINANZAS PUBLICAS
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 96.
 
@@ -2489,17 +2435,15 @@ La elección del titular de la Comisión Estatal de Derechos Humanos, así como 
 
 Para ser titular de la Comisión se requiere ser preferentemente Licenciado en Derecho y cumplir con los demás requisitos que determine la ley de la materia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2015)</small>
 
 El titular de la Comisión y los integrantes del Consejo Consultivo durarán en su encargo cuatro años. Solamente el titular podrá ser reelecto una sola vez por otro período igual, para lo cual se seguirá el procedimiento que para tal efecto establezca la Ley de la materia.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ABRIL DE 2016)</small>
 
-### CAPÍTULO I. DE SUS RESPONSABILIDADES
+### CAPITULO UNICO. DEL ORGANO DE FISCALIZACION SUPERIOR
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
 ###### ARTICULO 97.
 
@@ -2527,17 +2471,45 @@ Los comisionados durarán en su encargo siete años y serán electos de manera e
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
-### CAPITULO I. DE LA REFORMA
+### CAPITULO I. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
 
-### CAPITULO II. DE LA INVIOLABILIDAD DE LA CONSTITUCION
+### CAPITULO II. DEL SISTEMA ESTATAL ANTICORRUPCION
 
-> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 1982)</small>
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+ARTICULO 112 BIS.- El Sistema Anticorrupción del Estado de Tlaxcala es la instancia de coordinación entre las autoridades estatales y municipales competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos en el Estado. Participará, colaborará y asistirá en sus funciones al Sistema Nacional Anticorrupción, en los términos previstos por la ley.
+
+Para el cumplimiento de su objeto, el Sistema Anticorrupción del Estado de Tlaxcala se sujetará a las siguientes bases mínimas:
+
+I. Contará con un Comité Coordinador que estará integrado por los titulares del Órgano de Fiscalización Superior , de la Fiscalía Especializada en Combate a la Corrupción, de la Contraloría del Ejecutivo, del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado; el Magistrado Presidente del Tribunal de Justicia Administrativa; así como por un representante del Consejo de la Judicatura del Poder Judicial del Estado y por un representante del Comité de Participación Ciudadana, quien lo presidirá.
+
+II. El Comité de Participación Ciudadana deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley, y
+
+III. Corresponderá al Comité Coordinador, en los términos que determine la ley:
+
+a) El establecimiento de mecanismos de coordinación entre las autoridades estatales, municipales y federales;
+
+b) El diseño y promoción de políticas integrales en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción, en especial sobre las causas que los generan;
+
+c) La determinación de los mecanismos de suministros, intercambio, sistematización y actualización de la información que sobre estas materias generen las instituciones competentes del estado y sus municipios;
+
+d) El establecimiento de bases y principios para la efectiva coordinación de las autoridades del estado y sus municipios en materia de fiscalización y control de los recursos públicos;
+
+e) La elaboración de un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia.
+
+Derivado de este informe, podrá emitir recomendaciones no vinculantes a las autoridades, con el objeto de que adopten medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como el mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al Comité sobre la atención que brinden a las mismas, en los términos previstos en la ley.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
 
 ## TITULO IX. DE LA ECONOMIA Y LAS FINANZAS DEL ESTADO
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
+
+### CAPITULO I. DE LA REFORMA
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 98.
 
@@ -2564,6 +2536,10 @@ El Gobierno del Estado impulsará la organización, promoción, y fortalecimient
 Los planes de desarrollo estatal como los municipales, se orientarán para lograr el equilibrio socioeconómico de las comunidades del Estado; atenderán prioritariamente las zonas marginadas y establecerán la forma de aprovechar sus recursos, infraestructura y organización a través de la participación comunitaria.
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
+
+### CAPITULO II. DE LA INVIOLABILIDAD DE LA CONSTITUCION
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
 ###### ARTICULO 101.
 
@@ -2621,19 +2597,31 @@ La Hacienda Pública ejercerá la facultad económico-coactiva para hacer efecti
 
 La revisión y fiscalización de las cuentas públicas estará a cargo de un órgano técnico del Congreso del Estado, denominado Órgano de Fiscalización Superior el cual, en el desempeño de sus funciones, tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones, así como para decidir sobre su organización interna, funcionamiento y resoluciones de conformidad con la ley. Su presupuesto será integrado al presupuesto general del Congreso.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
-La función de fiscalización se desarrollará conforme a los principios de legalidad, imparcialidad y confiabilidad. Son sujetos de fiscalización superior, los poderes del Estado, los municipios, entidades, organismos autónomos y en general cualquier persona pública o privada que haya recaudado, administrado, manejado o ejercido recursos públicos.
+La función de fiscalización se desarrollará conforme a los principios de legalidad, definitividad, imparcialidad y confiabilidad. Son sujetos de fiscalización superior, los poderes del Estado, los municipios, entidades, organismos autónomos y en general cualquier persona pública o privada que haya recaudado, administrado, manejado o ejercido recursos públicos.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 105.
 
-El Órgano de Fiscalización Superior, tendrá a su cargo fiscalizar en forma posterior los ingresos y egresos, el manejo, la custodia y la aplicación de fondos y recursos de los poderes del Estado, municipios, organismos autónomos y demás entes públicos fiscalizables, así como realizar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los planes y programas, presentados a través de los informes que rindan en los términos que disponga la ley.
+El Órgano de Fiscalización Superior, tendrá a su cargo fiscalizar en forma posterior los ingresos, egresos y deuda, el manejo, la custodia y la aplicación de fondos y recursos de los poderes del Estado, municipios, organismos autónomos y demás entes públicos fiscalizables, así como realizar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los planes y programas, presentados a través de los informes que rindan en los términos que disponga la Ley.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+El Órgano de Fiscalización Superior podrá solicitar la información que estime necesaria para la revisión del ejercicio fiscal y cuenta pública a las entidades fiscalizadas, así como a los servidores públicos estatales o municipales, particulares, o cualquier figura jurídica que reciba recursos estatales o municipales, y podrá imponer las sanciones previstas en la ley de la materia en casos de incumplimiento.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+El Órgano de Fiscalización Superior fiscalizará los recursos estatales y municipales que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, fondos y mandatos, públicos y privados, o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades de los derechos de los usuarios del sistema financiero.
 
 > <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2012)</small>
 
 El Órgano de Fiscalización Superior participará en los procesos de entrega-recepción de los Poderes del Estado, Municipios, Organismos Autónomos y demás entes públicos fiscalizables en los términos que disponga la Ley.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+El Órgano de Fiscalización Superior tendrá a su cargo la investigación y, en su caso, sustanciación de los actos u omisiones de los sujetos fiscalizados que pudieran incurrir en alguna responsabilidad administrativa grave y realizará la promoción ante las autoridades competentes, para la imposición de sanciones que correspondan a los servidores públicos estatales y municipales, así como a los particulares.
 
 > <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
 
@@ -2665,17 +2653,27 @@ VI. Las demás que señale la ley de la materia.
 
 VII. (DEROGADA, P.O. 1 DE AGOSTO DE 2008)
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
 
-## TÍTULO XI. DE LOS SERVIDORES PÚBLICOS
+Durante el ejercicio de su encargo, el Auditor de Fiscalización Superior no podrá formar parte de algún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
 
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE JULIO DE 2017)</small>
+
+## TITULO XI. DE LOS SERVIDORES PUBLICOS Y LOS PARTICULARES
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 107.
 
-Para los efectos de las responsabilidades a que alude este título, se reputarán como servidores públicos a los representantes de elección popular, a los funcionarios y empleados de los Poderes Judicial y Legislativo, y en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal o Municipal, así como en los órganos públicos autónomos, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones; así como aquellas personas que tengan a su cargo o se les transfiera el manejo o administración de los recursos públicos.
+Para los efectos de las responsabilidades a que alude este título, se reputarán como servidores públicos a los representes de elección popular, a los funcionarios y empleados de los poderes Judicial y Legislativo, y en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública estatal o municipal, así como en los órganos públicos autónomos, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones; así como aquellas personas que tengan a su cargo o se les transfiere el manejo o administración de los recursos públicos. Dichos servidores públicos serán responsables por el manejo indebido de recursos públicos y la deuda pública.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
 
 Los diputados, el Gobernador del Estado, los Magistrados y el Presidente de la Comisión Estatal de los Derechos Humanos, tienen fuero a partir de que hayan rendido protesta y se encuentren en funciones.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+Los servidores públicos a que se refiere el presente artículo estarán obligados a presentar, bajo protesta de decir verdad, su declaración patrimonial y de intereses ante las autoridades competentes y en los términos que determinen las leyes.
 
 > <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
 
@@ -2683,7 +2681,9 @@ Los diputados, el Gobernador del Estado, los Magistrados y el Presidente de la C
 
 Todo servidor público será responsable política, administrativa, penal y civilmente de los actos u omisiones en el ejercicio de sus funciones. Estas responsabilidades son independientes entre sí. No se podrán imponer dos sanciones de igual naturaleza por una misma conducta u omisión. Las Leyes señalarán el tiempo de prescripción de cada responsabilidad. En todo caso, deberá respetarse el derecho de audiencia del inculpado.
 
-El Congreso expedirá la Ley que determine las responsabilidades y sanciones de los servidores públicos, señalará las causas y procedimientos, así como las autoridades competentes para tales efectos.
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
+El Congreso expedirá la Ley que determine las responsabilidades y sanciones de los servidores públicos y particulares, señalará las causas y procedimientos, así como las autoridades competentes para tales efectos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2016)</small>
 
@@ -2703,13 +2703,11 @@ II. No procede juicio político por la mera expresión de ideas, ni por las reco
 
 III. Podrán tramitarse conjuntamente el juicio político y el de declaratoria de procedencia de causa y desafuero;
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-IV. A través del juicio político se impondrán las sanciones de destitución del cargo y de inhabilitación para desempeñar algún empleo, cargo o comisión en el servicio público por el término que señale la Ley;
+IV. A través del juicio político se impondrán las sanciones de destitución del cargo y de inhabilitación para desempeñar algún empleo, cargo o comisión en el servicio público por el término que señale la Ley, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho;
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
-
-V. Redundan en perjuicio de los intereses públicos fundamentales o de su buen despacho las causas que señale la Ley de la materia;
+V. (DEROGADA, P.O. 18 DE JULIO DE 2017)
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
@@ -2727,17 +2725,25 @@ VIII. El Congreso dictará las declaratorias y resoluciones de juicio político 
 
 IX. Toda persona podrá formular denuncia ante el Congreso del Estado respecto de las conductas a que se refiere este artículo para la iniciación de juicio político; tan pronto como llegue a conocimiento del Congreso, una denuncia de juicio político en contra de los servidores públicos a que se refieren los artículos 107 y 109 de esta Constitución, antes de emplazar al denunciado se formará una comisión especial de diputados que se encargue de investigar y, en su caso, de presentar medios de prueba que acrediten plena responsabilidad política del servidor público enjuiciado. La ley determinará el procedimiento a seguir en estos casos.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 110.
 
-Los servidores públicos serán responsables por los delitos en que incurran, los que serán perseguidos y sancionados en términos de la legislación penal. Al Gobernador del Estado, sólo podrá iniciarse juicio de procedencia de causa y desafuero por delitos graves del orden común.
+Los servidores públicos y los particulares serán responsables por los delitos en que incurran, los que serán perseguidos y sancionados en términos de la legislación penal. Al Gobernador del Estado, sólo podrá iniciarse juicio de procedencia de causa y desafuero por delitos graves del orden común.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
 
 Las Leyes determinarán los casos y las circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo, o por motivos del mismo, por sí o por interpósita persona, aumenten sustancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita no pudiesen justificar. Las Leyes penales sancionarán con el decomiso y con la privación de la propiedad de dichos bienes, además de las otras penas que correspondan.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
+
 Previa al ejercicio de la acción penal, en contra de los servidores públicos que tienen fuero, es necesaria la declaratoria del Congreso, que califique la procedencia de causa y desafuero de dicho servidor.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
+
 Si la resolución del Congreso fuere negativa, se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya terminado el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
 
 Si el Congreso declara que ha lugar a proceder penalmente en contra de un servidor público, mediante el juicio a que hace referencia el Artículo anterior, el sujeto quedará a disposición de las autoridades competentes para que actúen con arreglo a la Ley.
 
@@ -2753,6 +2759,18 @@ La Ley establecerá las obligaciones y prohibiciones de los servidores públicos
 
 La prescripción para exigir la responsabilidad administrativa, no será inferior a tres años.
 
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+ARTICULO 111 BIS.- El Órgano de Fiscalización Superior del Congreso del Estado y los órganos internos de control de las entidades estatales y municipales son competentes para investigar y sustanciar las denuncias u (sic) procedimientos oficiosos sobre actos u omisiones que podrían constituir faltas administrativas graves, y el Tribunal de Justicia Administrativa será el órgano competente de su resolución.
+
+Las demás faltas y sanciones administrativas, serán conocidas y resueltas por los órganos internos de control de cada entidad estatal o municipal.
+
+Para la investigación, substanciación y sanción de las responsabilidades administrativas de los integrantes del Poder Judicial del Estado, se observará lo previsto en el artículo 79 de esta Constitución, sin perjuicio de las atribuciones del Órgano de Fiscalización Superior en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
+
+La prescripción para exigir la responsabilidad administrativa por causas no graves será de tres años, y tratándose de faltas administrativas graves o faltas de particulares será de siete años.
+
+Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Congreso del Estado respecto de las conductas a las que se refiere el presente artículo.
+
 > <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 112.
@@ -2761,7 +2779,7 @@ Los servidores públicos están obligados a pagar los daños y perjuicios que ca
 
 Las entidades públicas a las que pertenezcan los servidores a que se refiere el Artículo 107 de esta Constitución, serán responsables de los daños y perjuicios que causen aquéllos, en los términos que la Ley prevenga.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 113.
 
@@ -3778,3 +3796,33 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación, e
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 18 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 16.- SE REFORMAN, ADICIONAN Y DEROGA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA EN MATERIA DE ANTICORRUPCIÓN".]
+
+PRIMERO. En términos de lo previsto por el artículo 120 de la Constitución Política del Estado Libre y Soberano de Tlaxcala, remítase el presente Decreto a los sesenta ayuntamientos del Estado de Tlaxcala, para el debido cumplimiento de este precepto.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado, sin perjuicio de lo dispuesto en los siguientes artículos transitorios.
+
+TERCERO. El Congreso del Estado deberá expedir las leyes y realizar las adecuaciones correspondientes a la legislación secundaria que resulten aplicables, a fin de dar cumplimiento a lo establecido en el presente Decreto.
+
+CUARTO. La Sala Unitaria Administrativa del Tribunal Superior de Justicia del Estado de Tlaxcala continuará funcionando con su estructura, organización y facultades actuales, hasta en tanto la entrada en vigor de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Tlaxcala, por lo que el Magistrado que integra la Sala Administrativa del Tribunal Superior de Justicia del Estado de Tlaxcala en funciones continuará en su cargo por el período para el cual fue designado. Durante ese periodo:
+
+1. Los recursos humanos, financieros, materiales y presupuestales de la Sala Unitaria Administrativa continuarán formando parte del Poder Judicial del Estado de Tlaxcala, conforme a su estructura orgánica actual.
+
+2. El Magistrado adscrito a la Sala Unitaria Administrativa del Tribunal Superior de Justicia continuará en funciones y con las facultades actuales.
+
+Para la creación, en su momento, del Tribunal de Justicia Administrativa del Estado de Tlaxcala, deberá considerarse que:
+
+1. El magistrado titular de la Sala Unitaria Administrativa del Tribunal Superior de Justicia continuará como Magistrado del Tribunal de Justicia Administrativa del Estado de Tlaxcala, con los derechos adquiridos al momento de su designación, exclusivamente por el tiempo que haya sido nombrado, en términos de lo dispuesto por el artículo octavo transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de combate a la corrupción, publicado en el Diario Oficial de la Federación con fecha 27 de mayo del 2015.
+
+2. Los recursos humanos, financieros, materiales y presupuestales de la Sala Unitaria Administrativa pasarán a formar parte del Tribunal de Justicia Administrativa del Estado, y de aquellos que le designe la Secretaría de Planeación y Finanzas del Estado de Tlaxcala.
+
+3. El personal adscrito a la Sala Unitaria Administrativa conservará y le serán respetados sus derechos adquiridos desde la fecha de su ingreso.
+
+QUINTO. Se faculta a la Secretaría de Planeación y Finanzas, para dotar de los recursos económicos que se requieran para la implementación del presente Decreto.
+
+SEXTO. Una vez que entren en vigor las leyes secundarias que tengan relación con el Sistema Estatal Anticorrupción, el Tribunal Superior de Justicia y la Procuraduría General de Justicia deberán de realizar las adecuaciones respectivas a su marco jurídico.
+
+SÉPTIMO. Se derogan todas las disposiciones que se opongan al presente Decreto.
