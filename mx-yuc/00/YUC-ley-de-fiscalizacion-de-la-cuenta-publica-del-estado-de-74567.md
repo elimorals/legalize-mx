@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-fiscalizacion-de-la-cuenta-publica-del-estado-de-74567"
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-19"
-last_updated: "2016-12-28"
+last_updated: "2017-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # LEY DE FISCALIZACION DE LA CUENTA PUBLICA DEL ESTADO DE YUCATAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE FISCALIZACIÓN DE LA CUENTA PÚBLICA DEL ESTADO DE YUCATÁN, PUBLICADA EN EL D.O. DE 18 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE FISCALIZACIÓN DE LA CUENTA PÚBLICA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE JULIO DE 2017 (ABROGADA).
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 19 de abril de 2010.
 
@@ -1057,11 +1059,11 @@ IV.- Tesorería del Congreso: Dirección General de Administración y Finanzas.
 
 ###### ARTÍCULO CUARTO.
 
-La LlX Legislatura concluirá el 31 de agosto de 2012, según lo dispuesto en el artículo noveno transitorio del Decreto número 677 por el que se reforman y adicionan diversos artículos de la Constitución Política del Estado de Yucatán, publicado en fecha 24 de mayo de 2006, en el Diario Oficial del Gobierno del Estado de Yucatán.
+La LIX Legislatura concluirá el 31 de agosto de 2012, según lo dispuesto en el artículo noveno transitorio del Decreto número 677 por el que se reforman y adicionan diversos artículos de la Constitución Política del Estado de Yucatán, publicado en fecha 24 de mayo de 2006, en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 ###### ARTÍCULO QUINTO.
 
-De conformidad con lo dispuesto en el artículo duodécimo transitorio del Decreto número 677, por el que se reforman y adicionan diversos artículos de la Constitución Política del Estado de Yucatán, publicado en fecha 24 de mayo de 2006, en el Diario Oficial del Gobierno del Estado de Yucatán, y para los efectos del ajuste en el calendario constitucional ordinario y el propio en materia electoral, por la celebración concurrente de las elecciones estatales y federales en el año 2012; la LlX Legislatura del H. Congreso del Estado tendrá los siguientes periodos:
+De conformidad con lo dispuesto en el artículo duodécimo transitorio del Decreto número 677, por el que se reforman y adicionan diversos artículos de la Constitución Política del Estado de Yucatán, publicado en fecha 24 de mayo de 2006, en el Diario Oficial del Gobierno del Estado de Yucatán, y para los efectos del ajuste en el calendario constitucional ordinario y el propio en materia electoral, por la celebración concurrente de las elecciones estatales y federales en el año 2012; la LIX Legislatura del H. Congreso del Estado tendrá los siguientes periodos:
 
 Primer Periodo Ordinario de Sesiones Del 1 de julio al 31 de agosto del 2010
 
@@ -1077,13 +1079,13 @@ Sexto Período Ordinario de Sesiones Del 16 de enero al15 de abril de 2012
 
 Séptimo Período Ordinario de Sesiones Del 16 de mayo al 15 de julio de 2012
 
-Durante los recesos de la LlX Legislatura, funcionará una Diputación Permanente.
+Durante los recesos de la LIX Legislatura, funcionará una Diputación Permanente.
 
 Los periodos ordinarios de sesiones a partir de la LX Legislatura, deberán ajustarse al calendario establecido en el artículo 27 de la Constitución Política del Estado de Yucatán.
 
 ###### ARTÍCULO SEXTO.
 
-La Junta de Gobierno y Coordinación Política de la LlX Legislatura se integrará de la forma siguiente:
+La Junta de Gobierno y Coordinación Política de la LIX Legislatura se integrará de la forma siguiente:
 
 PRESIDENTE: DIP. MAURICIO SAHUÍ RIVERA.
 
@@ -1097,11 +1099,11 @@ El Presidente deberá convocar a la instalación de la Junta de Gobierno y Coord
 
 ###### ARTÍCULO SÉPTIMO.
 
-La Junta de Gobierno y Coordinación Política de la LlX Legislatura, deberá proponer al Pleno del H. Congreso del Estado, en un plazo no mayor a 15 días hábiles a partir de la entrada en vigor de esta Ley, la integración de las Comisiones Permanentes que establece esta ley.
+La Junta de Gobierno y Coordinación Política de la LIX Legislatura, deberá proponer al Pleno del H. Congreso del Estado, en un plazo no mayor a 15 días hábiles a partir de la entrada en vigor de esta Ley, la integración de las Comisiones Permanentes que establece esta ley.
 
 Las comisiones permanentes que estén funcionando a la entrada en vigor de esta Ley, continuarán ejerciendo sus atribuciones hasta que sean integradas por el Pleno las que establece esta Ley.
 
-Las comisiones especiales creadas en la LlX Legislatura, durarán todo el ejercicio constitucional de ésta.
+Las comisiones especiales creadas en la LIX Legislatura, durarán todo el ejercicio constitucional de ésta.
 
 ###### ARTÍCULO OCTAVO.
 
@@ -1150,3 +1152,47 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Obligación normativa
 
 El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
+
+D.O. 18 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 508/2017 POR EL QUE SE EXPIDE LA LEY DE FISCALIZACIÓN DE LA CUENTA PÚBLICA DEL ESTADO DE YUCATÁN Y SE MODIFICA LA LEY DEL PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día 19 de julio de 2017, previa publicación en el diario oficial del gobierno del estado.
+
+Segundo. Abrogación de leyes
+
+A partir de la entrada en vigor de este decreto, queda abrogada la Ley de Fiscalización de la Cuenta Pública del Estado de Yucatán, publicada en el diario oficial del estado el 19 de abril de 2010.
+
+Tercero. Obligación normativa
+
+La Auditoría Superior del Estado de Yucatán deberá actualizar y, en su caso, publicar, la normativa que, conforme a sus atribuciones, deba expedir, en un plazo no mayor a ciento ochenta días contado a partir de la entrada en vigor de esta ley.
+
+Cuarto. Relaciones laborales
+
+El personal de base que preste sus servicios en la Auditoría Superior del Estado, regulada en la legislación que se abroga, pasará a formar parte de la Auditoría Superior del Estado y se estará a lo que señalen las disposiciones legales aplicables.
+
+Quinto. Transferencia de recursos
+
+Los recursos presupuestales, financieros, materiales y, en general, todos aquellos medios que permiten el cumplimiento de las atribuciones asignadas a la Auditoría Superior del Estado, regulada en la legislación que se abroga, se transferirán a la Auditoría Superior del Estado, en un plazo máximo de ciento veinte días, contado a partir de la entrada en vigor de este decreto.
+
+Sexto. Asuntos pendientes
+
+Los convenios, actos jurídicos, asuntos pendientes y en trámite, así como las obligaciones contraídas y los derechos adquiridos por la Auditoría Superior del Estado, regulada en la legislación que se abroga, y que por su naturaleza subsistan, quedarán a cargo de la Auditoría Superior del Estado a partir de la entrada en vigor de este decreto.
+
+Séptimo. Aplicación retroactiva
+
+El procedimiento, términos y plazos previstos en esta ley, para la presentación y fiscalización de las cuentas públicas, se aplicarán a partir del ejercicio fiscal correspondiente al año 2018. La fiscalización de los ejercicios anteriores al año 2018, se llevarán conforme a las disposiciones de la Ley de la Fiscalización de la Cuenta Pública del Estado de Yucatán que se abroga.
+
+Octavo. Nombramiento de titulares
+
+El nombramiento del titular de la Unidad de Vigilancia y Evaluación de la Auditoría Superior del Estado, deberá realizarse en un plazo que no exceda de noventa días naturales contados a partir de la entrada en vigor de éste Decreto.
+
+Noveno. Titular de la Auditoria Superior del Estado
+
+El titular de la Auditoría Superior del Estado que se encuentre en funciones a la entrada en vigor de este decreto, continuará con el cargo durante el período para el que fue electo.
+
+Décimo. Lineamientos para la declaración de no conflicto de intereses.
+
+El Congreso emitirá los lineamientos bajo los cuales se deberá realizar la declaración de conflicto de intereses que deberán presentar los candidatos para ocupar el cargo de auditor superior del estado.
