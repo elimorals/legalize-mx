@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-entidades-paraestatales-del-estado-de-michoacan-6041"
 country: "mx"
 rank: "ley"
 publication_date: "1992-03-30"
-last_updated: "2011-03-01"
+last_updated: "2017-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JULIO DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán de Ocampo, el lunes 30 de marzo de 1992.
 
@@ -67,11 +67,11 @@ Todas las entidades paraestatales del Gobierno del Estado de Michoacán de Ocamp
 
 Corresponde a los titulares de las dependencias del Ejecutivo, establecer políticas de desarrollo para las entidades del sector correspondiente, coordinar la programación y presupuestación, de conformidad, en su caso, con las asignaciones sectoriales de gasto y financiamiento previamente establecidas y autorizadas, conocer la operación y evaluar los resultados de las entidades paraestatales y las demás atribuciones que les conceda la ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 6o.
 
-La Secretaría de Finanzas y Administración, la Coordinación de Planeación para el Desarrollo y la Coordinación de Contraloría, tendrán miembros en los órganos de gobierno y en su caso, en los comités técnicos de las entidades paraestatales. También participarán las otras dependencias y entidades en la medida en que tengan relación con el objetivo de la entidad paraestatal de que se trate.
+La Secretaría de Finanzas y Administración y la Secretaría de Contraloría, tendrán miembros en los órganos de gobierno y en su caso, en los comités técnicos de las entidades paraestatales. También participarán las otras dependencias y entidades en la medida en que tengan relación con el objetivo de la entidad paraestatal de que se trate, con excepción de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción la cual estará integrada conforme a lo que señala la ley respectiva.
 
 > <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
 
@@ -157,11 +157,11 @@ Asimismo, podrá proponer su fusión cuando su actividad combinada redunde en un
 
 La administración de los organismos descentralizados estará a cargo de un órgano de gobierno, que podrá ser una junta de gobierno o su equivalente y un Director General.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JULIO DE 2017)</small>
 
-###### ARTICULO 15.
+###### Artículo 15.
 
-El órgano de gobierno se integrará conforme a lo que establezca el respectivo instrumento de creación. Será presidido por el Gobernador del Estado, o por la persona que éste designe y asimismo, se integrará con un representante de la Coordinación de Contraloría, un representante de la Coordinación de Planeación para el Desarrollo, uno de la Secretaría de Finanzas y Administración y los representantes de las dependencias vinculadas con sus objetivos. Deberá procurarse que los miembros del órgano de gobierno pertenezcan a la Administración Pública Estatal.
+El Órgano de Gobierno se integrará conforme a lo que establezca el respectivo instrumento de creación. Será presidido por el Gobernador del Estado, o por la persona que éste designe y asimismo, se integrará con un representante de la Secretaría de Contraloría, uno de la Secretaría de Finanzas y Administración y los representantes de las dependencias vinculadas con sus objetivos. Deberá procurarse que los miembros del órgano de gobierno pertenezcan a la Administración Pública Estatal, con excepción de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción la cual estará integrada y presidida conforme a lo que señala la ley respectiva.
 
 El cargo de miembro del órgano de gobierno, será estrictamente personal y no podrá desempeñarse por medio de representantes.
 
@@ -187,15 +187,11 @@ El órgano de gobierno se reunirá con la periodicidad que se señale en el inst
 
 El propio órgano de gobierno sesionará válidamente, con la asistencia de por lo menos la mitad más uno de sus miembros. Las resoluciones se tomarán por mayoría de los miembros presentes, teniendo el Presidente voto de calidad para el caso de empate.
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
 ###### ARTICULO 18.
 
-El Director General será designado por el Gobernador del Estado, a propuesta del Coordinador de Sector, debiendo recaer tal nombramiento en la persona que reúna los siguientes requisitos:
-
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
-
-II. Poseer experiencia administrativa; y
-
-III. No encontrarse en alguno de los impedimentos que para ser miembro del órgano de gobierno, señalan las fracciones II, III, IV y V del artículo 16 de esta Ley.
+El Director General será designado por el Gobernador del Estado, a propuesta del Coordinador de Sector, con excepción del Secretario Técnico de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción quien será nombrado conforme a la ley de la materia.
 
 ###### ARTICULO 19.
 
@@ -632,3 +628,29 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 1 DE MARZO DE 2011.
 
 ÚNICO. La presente Ley entrará en vigor al día siguiente de su publicación.
+
+P.O. 18 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 367 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 6, 15 Y 18 DE LA LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE MICHOACÁN”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto, el Congreso del Estado, deberá designar a los integrantes de la Comisión de Selección.
+
+La Comisión de Selección nombrará a los integrantes del Comité de Participación Ciudadana, para que duren en su cargo por única ocasión en los términos siguientes:
+
+a) Un integrante que durará en su encargo un año, a quién corresponderá la representación del Comité de Participación Ciudadana ante el Comité;
+
+b) Un integrante que durará en su encargo dos años;
+
+c) Un integrante que durará en su encargo tres años;
+
+d) Un integrante que durará en su encargo cuatro años; y,
+
+e) Un integrante que durará en su encargo cinco años.
+
+Los integrantes del Comité de Participación Ciudadana a que se refieren los incisos anteriores se rotarán la representación ante el Comité en el mismo orden.
+
+La sesión de instalación del Comité, se llevará a cabo dentro del plazo de sesenta días naturales posteriores a que se haya integrado en su totalidad el Comité de Participación Ciudadana en los términos de los párrafos anteriores.
+
+La Secretaría Ejecutiva deberá iniciar sus operaciones, a más tardar a los sesenta días siguientes a la sesión de instalación del Comité. Para tal efecto, el Ejecutivo del Estado, proveerá los recursos humanos, financieros y materiales correspondientes en términos de las disposiciones aplicables.
