@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-tribunal-electoral-del-distrito-83471"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-07"
-last_updated: "2016-04-19"
+last_updated: "2017-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83471&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2011-10-27"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 18 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE JULIO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 7 de noviembre de 2011.
 
@@ -1949,3 +1951,21 @@ G.O. 19 DE ABRIL DE 2016.
 PRIMERO. La reforma al presente Reglamento entrará en vigor al momento de su aprobación por el Pleno del Tribunal.
 
 SEGUNDO. Publíquese esta reforma en la Gaceta Oficial de la Ciudad de México, así como en los estrados y en el sitio de Internet del Tribunal.
+
+G.O. 18 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DE LA CIUDAD DE MÉXICO.”]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en los estrados del Tribunal.
+
+SEGUNDO. Se abroga el Reglamento Interior del Tribunal Electoral del Distrito Federal publicado en la otrora Gaceta Oficial del Distrito Federal, el 7 de noviembre de 2011, así como todas aquellas disposiciones que se opongan al presente.
+
+TERCERO. La estructura del Tribunal quedará integrada de conformidad con lo establecido en el artículo 3 de este Reglamento, por lo que deberán realizarse, a la brevedad posible, las adecuaciones a los manuales y demás normativa interna que regulen su funcionamiento.
+
+CUARTO. Todas las referencias a "Congreso", deberán entenderse hechas a la Asamblea Legislativa del Distrito Federal, hasta en tanto inicie la "I Legislatura" que, de conformidad con lo establecido en el párrafo tercero del artículo VIGÉSIMO PRIMERO transitorio de la Constitución Política de la Ciudad de México, será hasta el 17 de septiembre de 2018.
+
+QUINTO. A partir de la entrada en vigor del presente Reglamento, en tiempo breve, las áreas deberán iniciar la revisión de la normativa interna para adecuarla al mismo y al Código, siguiendo la ruta normativa institucional y lo establecido en el artículo DÉCIMO TERCERO del Código de Instituciones y Procedimientos Electorales de la Ciudad de México.
+
+SEXTO. A partir de la entrada en vigor del presente Reglamento, todas las referencias que se hagan como TEDF en la normativa, deberán entenderse como hechas al TECDMX.
+
+SÉPTIMO. Publíquese este Reglamento en la Gaceta Oficial de la Ciudad de México, los Estrados y en los sitios de Internet e Intranet del Tribunal.
