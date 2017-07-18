@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-fiscal-708
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-13"
-last_updated: "2017-06-27"
+last_updated: "2017-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70849&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-11-11"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE JULIO DE 2017.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 13 de noviembre de 2009.
 
@@ -188,6 +188,44 @@ I. El Pleno Jurisdiccional de la Sala Superior;
 II. Las Secciones, y
 
 III. Las Salas Regionales.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 9
+
+Bis.- Son facultades de la Tercera Sección las siguientes:
+
+I. Elegir al Presidente de la Tercera Sección de entre los Magistrados que la integran;
+
+II. Resolver el recurso de apelación que interpongan las partes en contra de las resoluciones dictadas por las Salas Especializadas en materia de Responsabilidades Administrativas;
+
+III. Ejercer su facultad de atracción para resolver los procedimientos administrativos sancionadores por faltas graves, cuya competencia primigenia corresponda a las Salas Especializadas en materia de Responsabilidades Administrativas, siempre que los mismos revistan los requisitos de importancia y trascendencia; entendiendo por lo primero, que el asunto pueda dar lugar a un pronunciamiento novedoso o relevante en materia de Responsabilidades Administrativas; y, por lo segundo, que sea necesario sentar un criterio que trascienda la resolución del caso, a fin de que sea orientador a nivel nacional.
+
+El ejercicio de la facultad de atracción podrá ser solicitada por cualquiera de los Magistrados de la Sección Tercera, o bien por el Pleno de las Salas Especializadas en materia de Responsabilidades Administrativas, por mayoría de votos de sus integrantes;
+
+IV. Resolver el recurso de reclamación que proceda en los términos de la Ley General de Responsabilidades Administrativas;
+
+V. Fijar jurisprudencia, con la aprobación de cinco precedentes en el mismo sentido no interrumpidos por otro en contrario;
+
+VI. Designar al Secretario Adjunto de la Tercera Sección, a propuesta del Presidente de la Sección;
+
+VII. Conocer de asuntos que le sean turnados para sancionar responsabilidades administrativas que la ley determine como graves en casos de servidores públicos y de los particulares que participen en dichos actos;
+
+VIII. Conocer del recurso por medio del cual se califica como grave la falta administrativa que se investiga contra un servidor público;
+
+IX. Imponer las medidas precautorias y medidas cautelares que le soliciten en términos de lo establecido en la Ley General de Responsabilidades Administrativas, cuando sean procedentes, con una duración no mayor a noventa días hábiles;
+
+X. Fincar a los servidores públicos y particulares responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Federal o al patrimonio de los entes públicos federales;
+
+XI. Imponer a los particulares que intervengan en actos vinculados con faltas administrativas graves, inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas, así como posibles nombramientos o encargos públicos del orden federal, en las entidades federativas, municipios o demarcaciones territoriales, según corresponda;
+
+XII. Sancionar a las personas morales cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella. En estos casos podrá procederse a la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública o a los entes públicos, federales, locales o municipales, siempre que la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que sea definitiva;
+
+XIII. A petición de su Magistrado Presidente, solicitar al Pleno de la Sala Superior, que por conducto de la Junta de Gobierno, se realicen las gestiones necesarias ante las autoridades competentes para garantizar las condiciones que permitan a los Magistrados de la propia Sección o de las Salas Especializadas en materia de Responsabilidades Administrativas, ejercer con normalidad y autonomía sus atribuciones;
+
+XIV. Dar seguimiento y proveer la ejecución de las resoluciones que emita, y
+
+XV. Las señaladas en las demás leyes como competencia exclusiva de la Sección.
 
 ###### Artículo 10.
 
@@ -787,6 +825,22 @@ c) La Tercera Sala Especializada en Materia de Comercio Exterior, que será tamb
 
 V.- Una Sala Especializada en Materia del Juicio de Resolución Exclusiva de Fondo, con sede en la Ciudad de México y competencia material para tramitar y resolver, en todo el territorio nacional, los juicios que se promuevan en términos del capítulo XII de la Ley Federal de Procedimiento Contencioso Administrativo.
 
+> <small>(ADICIONADA, D.O.F. 18 DE JULIO DE 2017)</small>
+
+VI. Salas Especializadas en materia de Responsabilidades Administrativas, que tendrán competencia material para imponer sanciones a los servidores públicos y particulares que intervengan en actos vinculados con faltas administrativas graves, y tramitar y resolver los juicios que se promuevan contra las resoluciones definitivas y actos a que se refiere el artículo 38 de la Ley.
+
+Dichas Salas Especializadas serán las siguientes:
+
+a) Primera Sala Especializada en Materia de Responsabilidades Administrativas, con sede en la Ciudad de México, con competencia en la circunscripción territorial que comprende la Ciudad de México y los Estados de México y Morelos.
+
+b) Segunda Sala Especializada en Materia de Responsabilidades Administrativas, con sede en la Ciudad de México, con competencia en la circunscripción territorial que comprende la Ciudad de México y los Estados de Guanajuato, Hidalgo y Querétaro;
+
+c) Tercera Sala Especializada en Materia de Responsabilidades Administrativas, con sede en la Ciudad de Puebla de los Ángeles, Puebla, con competencia en la circunscripción territorial que comprende los Estados de Campeche, Chiapas, Guerrero, Oaxaca, Puebla, Quintana Roo, Tabasco, Tlaxcala, Veracruz y Yucatán;
+
+d) Cuarta Sala Especializada en Materia de Responsabilidades Administrativas, con sede en la Ciudad de Guadalajara, Jalisco, con competencia en la circunscripción territorial que comprende los Estados de Aguascalientes, Baja California, Baja California Sur, Colima, Jalisco, Michoacán, Nayarit, San Luis Potosí, Sinaloa y Sonora.
+
+e) Quinta Sala Especializada en Materia de Responsabilidades Administrativas, con sede en la Ciudad de Torreón, Coahuila, con competencia en la circunscripción territorial que comprende los Estados de Nuevo León, Chihuahua, Coahuila, Durango, Tamaulipas y Zacatecas.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE ENERO DE 2013)</small>
 
 ###### Artículo 23
@@ -824,6 +878,12 @@ VIII. Octava Sala Auxiliar, con sede en la ciudad de Cuernavaca, Estado de Morel
 > <small>(ADICIONADA, D.O.F. 27 DE JUNIO DE 2017)</small>
 
 IX. Sala Auxiliar Metropolitana, con sede en la Ciudad de México, que será también la Sala Regional Especializada en Materia del Juicio de Resolución Exclusiva de Fondo, conforme a lo establecido en el artículo 23, fracción V, de este Reglamento. El auxilio de esta Sala se circunscribe en la tramitación y resolución hasta su total conclusión, incluso la instancia de aclaración de sentencia, queja y en el cumplimiento de ejecutorias del Poder Judicial de la Federación, de los asuntos radicados en la entonces Cuarta Sala Regional Metropolitana, a la fecha de la entrada en vigor de este Acuerdo.
+
+> <small>(ADICIONADA, D.O.F. 18 DE JULIO DE 2017)</small>
+
+X.- Sala Auxiliar en Materia de Responsabilidades Administrativas Graves con sede en la Ciudad de México y competencia en todo el territorio nacional, que será también la Décimo Tercera Sala Regional Metropolitana, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Ordinaria.
+
+La Sala Auxiliar ejercerá competencia mixta para tramitar y resolver los juicios que sean de su competencia como Sala Regional Metropolitana, así como aquellos procedimientos previstos en la Ley General de Responsabilidades Administrativas, en su carácter de Sala Auxiliar en Materia de Responsabilidades Administrativas Graves.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -3229,7 +3289,7 @@ NOVENO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
 
 D.O.F. 10 DE FEBRERO DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “ACUERDO SS/1/2016 POR EL QUE SE REFORMA EL INCISO 2) DE LA FRACCIÓN III, DEL ARTÍCULO 23 DEL REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA”.]
+## [N. DE E. TRANSITORIOS DEL "ACUERDO SS/1/2016 POR EL QUE SE REFORMA EL INCISO 2) DE LA FRACCIÓN III, DEL ARTÍCULO 23 DEL REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA".]
 
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -3250,3 +3310,31 @@ TERCERO.- La Junta de Gobierno y Administración deberá dictar los demás acuer
 CUARTO.- Se instruye a la Secretaría Operativa de Administración y a la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones, para que a partir de la aprobación del presente Acuerdo, se realicen todas las gestiones, acciones, trámites administrativos y presupuestales, entre otros, para implementar lo dispuesto en el presente Acuerdo.
 
 QUINTO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO SS/10/2017 POR EL QUE SE ADICIONA EL ARTÍCULO 9-BIS, LA FRACCIÓN VI AL ARTÍCULO 23, Y LA FRACCIÓN X AL ARTÍCULO 23-BIS, TODOS DEL REGLAMENTO INTERIOR DE ESTE TRIBUNAL.”]
+
+Artículo Primero.- El presente acuerdo iniciará su vigencia el mismo día que entre en vigor la Ley General de Responsabilidades Administrativas.
+
+Artículo Segundo.- La Tercera Sección de la Sala Superior iniciará sus actividades al día siguiente que la Junta de Gobierno y Administración adscriba a los Magistrados designados por el Presidente de la República y aprobados por el Senado de la República.
+
+Artículo Tercero.- Si llegare el caso de que se presenten asuntos cuyo trámite corresponda a la Tercera Sección, sin que los Magistrados correspondientes hayan sido aprobados por el Senado de la República, la Tercera Sección se integrará en los términos previstos en la Ley Orgánica de este Tribunal ante la ausencia de los titulares.
+
+Artículo Cuarto.- Las Salas Especializadas a que se refiere este Acuerdo iniciarán sus actividades al día siguiente a aquel en que la Junta de Gobierno y Administración adscriba a los Magistrados designados por el Presidente de la República y aprobados por el Senado de la República.
+
+Artículo Quinto.- En tanto se aprueban y adscriben los nombramientos de los Magistrados que integrarán las Salas Especializadas en Materia de Responsabilidades Administrativas, la Décimo Tercera Sala Regional Metropolitana continuará en sus funciones de Sala Ordinaria y se constituye temporalmente como Sala Auxiliar Metropolitana en Materia de Responsabilidades Administrativas Graves.
+
+La competencia especializada de la Sala Auxiliar se circunscribe a la materia de responsabilidades administrativas graves, que llegaren a presentarse a partir del inicio de sus actividades y concluirá un día antes de que la Junta de Gobierno y Administración adscriba a los magistrados aprobados por el Senado de la República y adscritos a las Salas Especializadas en la materia.
+
+La Sala Auxiliar a que se refiere este artículo entregará a los magistrados aprobados y adscritos a las Salas Especializadas, los expedientes que se hayan instruido durante su ejercicio y que correspondan a su respectiva jurisdicción.
+
+Artículo Sexto.- Al concluir las funciones de la Sala Auxiliar que se crea con este Acuerdo, continuará con su competencia como Décimo Tercera Sala Regional Metropolitana.
+
+Artículo Séptimo.- La Junta de Gobierno y Administración proveerá lo necesario para realizar las adscripciones y readscripciones inherentes a las medidas establecidas en este Acuerdo, procurando atender a la idoneidad y trayectoria de los magistrados y personal jurisdiccional seleccionado para ocuparlas.
+
+Artículo Octavo.- La Junta de Gobierno y Administración girará las instrucciones conducentes para solventar los requerimientos de personal de apoyo, recursos materiales, financieros y técnicos, migración electrónica de los expedientes en trámite, registro de los juicios en materia de responsabilidades administrativas graves, y demás aspectos derivados de las disposiciones de este Acuerdo.
+
+Artículo Noveno.- La Junta de Gobierno y Administración emitirá un acuerdo específico para establecer las guardias de la Tercera Sección de la Sala Superior y de la Sala Auxiliar en Materia de Responsabilidades Administrativas Graves durante los períodos vacacionales que se presenten posteriormente a la entrada en vigor del presente acuerdo.
+
+Artículo Décimo.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en la página WEB del Tribunal.
