@@ -4,7 +4,7 @@ identifier: "SON-ley-de-responsabilidades-de-los-servidores-publicos-del-8399"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-09"
-last_updated: "2015-07-16"
+last_updated: "2017-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "SON"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y DE LOS MUNICIPIOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO PRIMERO DE LA LEY ESTATAL DE RESPONSABILIDADES, PUBLICADA EN EL B.O. DE 18 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADA.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE AGOSTO DE 2017 EN EL B.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE JULIO DE 2017 (ABROGADA).
 
 Ley publicada en la Sección Segunda del Boletín Oficial del Estado de Sonora, el lunes 9 de abril de 1984.
 
@@ -978,3 +982,29 @@ B.O. 16 DE JULIO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 18 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY NÚMERO 191, ESTATAL DE RESPONSABILIDADES”.]
+
+Artículo Primero.- La presente Ley entrará en vigor el diecinueve de julio de dos mil diecisiete, previa su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+Se abroga la Ley número 54, de Responsabilidades de los Servidores Públicos del Estado y de los Municipios, publicada en el Boletín Oficial del Gobierno del Estado número 29, Sección II, de fecha 9 de abril de 1984.
+
+Hasta en tanto el Comité Coordinador del Sistema Nacional Anticorrupción determina los formatos para la presentación de las declaraciones patrimonial y de intereses, los servidores públicos presentarán sus declaraciones en los formatos que, a la entrada en vigor de la referida Ley General, se utilicen en el ámbito local.
+
+A la fecha de entrada en vigor de la Ley Estatal de Responsabilidades, todas las menciones a la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios previstas en las leyes locales, así como en cualquier disposición jurídica, se entenderán referidas a la Ley Estatal de Responsabilidades.
+
+Artículo Segundo.- Los Entes Públicos, la Secretaría, el Tribunal y los organismos constitucionalmente autónomos, deberán realizar las adecuaciones administrativas dentro de su normatividad y reglamentación correspondientes de conformidad con lo previsto en el presente Decreto, en un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del presente Decreto. Dentro del mismo plazo la Secretaría de la Contraloría General del Estado deberá designar a los Titulares de las Coordinaciones encargadas de la Investigación y Sustanciación de las faltas administrativas a las que se refiere esta Ley, quienes deberán contar con título de Licenciatura en Derecho, con una antigüedad mínima de cinco años al momento de su designación.
+
+Artículo Tercero.- Los protocolos, los lineamientos y el Código de Etica establecidos en esta Ley deberán ser emitidos por las autoridades competentes en un plazo de 180 días naturales contado a partir de la entrada en vigor de la presente Ley.
+
+Artículo Cuarto.- El cumplimiento de las obligaciones previstas en la Ley Estatal de Responsabilidades, una vez que ésta entre en vigor, serán exigibles, en lo que resulte aplicable, hasta en tanto el Comité Coordinador del Sistema Nacional Anticorrupción, de conformidad con la ley de la materia, emita los lineamientos, criterios y demás resoluciones conducentes de su competencia.
+
+Artículo Quinto.- Los procedimientos iniciados por las autoridades con anterioridad a la entrada en vigor de esta Ley, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
+
+Artículo Sexto.- El Servicio Profesional en materia de Control, a que hace referencia la presente Ley, entrará en vigor a partir del 01 de enero de 2018.
+
+Los servidores públicos de los órganos de control interno y de la Secretaría, que a la entrada en vigor se encuentren ocupando los puestos a que se refiere el catálogo del Servicio Profesional en materia de Control, se considerarán incorporados al Servicio Profesional en materia de Control previa acreditación de los requisitos y evaluaciones que para el cargo establezca la Secretaría, el Comité del Servicio Profesional y esta Ley, sin necesidad de emitir convocatoria pública.
+
+Artículo Séptimo.- El titular del Poder Ejecutivo y el Congreso del Estado, a la brevedad que el caso amerita, realizaran las adecuaciones presupuestales que resulten necesarias a fin de dotar de los recursos materiales y financieros que permitan el cumplimiento de las atribuciones de la Sala Especializada en materia anticorrupción y responsabilidades administrativas.
