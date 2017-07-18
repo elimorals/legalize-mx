@@ -4,7 +4,7 @@ identifier: "SON-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5750
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-29"
-last_updated: "2016-05-02"
+last_updated: "2017-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 2 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE JULIO DE 2017.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 29 de octubre de 2007.
 
@@ -263,9 +263,17 @@ X.- Publicar semestralmente, cuando menos en un medio electrónico, la informaci
 
 XI.- Incluir en los Planes Estatal y Municipales de Desarrollo las medidas y las políticas de gobierno para erradicar la violencia contra las mujeres;
 
-XII.- Promover la cultura de denuncia de la violencia contra las mujeres en el marco de la eficacia de las instituciones para garantizar su seguridad y su integridad; y
+> <small>(REFORMADA, B.O. 18 DE JULIO DE 2017)</small>
 
-XIII.- Diseñar un modelo integral de atención a los derechos humanos de las mujeres que deberán instrumentar las instituciones, los centros de atención y los refugios que atiendan a víctimas.
+XII.- Promover la cultura de denuncia de la violencia contra las mujeres en el marco de la eficacia de las instituciones para garantizar su seguridad y su integridad;
+
+> <small>(REFORMADA, B.O. 18 DE JULIO DE 2017)</small>
+
+XIII.- Diseñar un modelo integral de atención a los derechos humanos de las mujeres que deberán instrumentar las instituciones, los centros de atención y los refugios que atiendan a víctimas; y
+
+> <small>(ADICIONADA, B.O. 18 DE JULIO DE 2017)</small>
+
+XIV.- Elaborar un informe sobre la situación sobre los delitos de Acoso Sexual con fines lascivos en el Estado de Sonora.
 
 ###### ARTÍCULO 23.
 
@@ -772,3 +780,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 A partir del día siguiente de la entrada en vigor del presente Decreto, la Procuraduría General de Justicia del Estado contará con un plazo de 60 días hábiles para la elaboración y publicación en el Boletín Oficial del Gobierno del Estado, del protocolo de actuación para la investigación en el delito de feminicidio con perspectiva de género para el Estado de Sonora.
+
+B.O. 18 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 157, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE SONORA Y DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
