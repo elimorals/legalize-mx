@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2017-06-19"
+last_updated: "2017-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE JULIO DE 2017.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -1959,7 +1959,9 @@ El Magistrado Presidente será designado de entre sus integrantes, por la votaci
 
 El Tribunal de Justicia Administrativa del Estado de Yucatán es un organismo público, autónomo e independiente en sus decisiones, tiene competencia para conocer, resolver y dirimir las controversias de carácter administrativo y fiscal que se susciten entre la Administración Pública centralizada y paraestatal del estado y sus municipios, y los particulares; e imponer, en los términos que disponga la ley, las sanciones a los servidores públicos por responsabilidades administrativas graves, y a los particulares que participen en actos vinculados con faltas administrativas graves, así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública estatal o municipal o al patrimonio de los entes públicos del (sic) estatales o municipales.
 
-El Tribunal de Justicia Administrativa del Estado de Yucatán estará integrado por tres magistrados, designados por el Gobernador y ratificados por el voto de las dos terceras partes de los miembros integrantes del Congreso o, en sus recesos, por la Diputación Permanente. Durarán en su encargo cinco años pudiendo ser considerados para nuevos nombramientos, hasta para dos períodos más, y sólo podrán ser removidos de sus cargos por las causas graves que señale la ley.
+> <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
+
+El Tribunal de Justicia Administrativa del Estado de Yucatán estará integrado por tres magistrados, designados por el Gobernador y ratificados por el voto de las dos terceras partes de los miembros integrantes del Congreso. Durarán en su encargo cinco años pudiendo ser considerados para nuevos nombramientos, hasta para dos períodos más, y sólo podrán ser removidos de sus cargos por las causas graves que señale la ley.
 
 Para ser designado Magistrado del Tribunal de Justicia Administrativa del Estado de Yucatán se deberán cumplir los mismos requisitos que para ser nombrado Magistrado del Poder Judicial del Estado. El magistrado presidente será designado de entre sus integrantes, por la votación mayoritaria de los magistrados del tribunal, de conformidad con el procedimiento que establezca la ley respectiva.
 
@@ -4204,3 +4206,9 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el dia
 Segundo. Obligación normativa
 
 El Congreso del Estado de Yucatán deberá expedir las modificaciones necesarias a la legislación secundaria, para armonizarla a las disposiciones de este decreto, en un plazo de ciento ochenta días naturales contado a partir de su entrada en vigor.
+
+D.O. 18 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 504/2017 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN".]
+
+Artículo único.- Este decreto entrará en vigor el 19 de julio del año 2017.
