@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-la-comision-de-derechos-humanos-del-estado-de-yucatan-99
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-28"
-last_updated: "2016-03-04"
+last_updated: "2017-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99274&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE JULIO DE 2017.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 28 de febrero de 2014.
 
@@ -33,7 +33,9 @@ Rolando Rodrigo Zapata Bello, Gobernador del Estado de Yucatán, con fundamento 
 
 "EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN LOS ARTÍCULOS 29 Y 30 FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA, 18 DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, 117 Y 118 DEL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, TODOS DEL ESTADO DE YUCATÁN, EMITE LA SIGUIENTE:
 
-E X P O S I C I Ó N D E M O T I V O S: …
+E X P O S I C I Ó N D E M O T I V O S:
+
+[…]
 
 En tal virtud, con fundamento en los artículos 30 fracción V de la Constitución Política, 18 y 43 fracción XII, inciso i) de la Ley de Gobierno del Poder Legislativo y 71 fracción II del Reglamento de la Ley de Gobierno del Poder Legislativo, todos del Estado de Yucatán, sometemos a consideración del Pleno del Congreso del Estado de Yucatán, el siguiente proyecto de:
 
@@ -269,6 +271,10 @@ VIII. Las demás unidades administrativas que determine el reglamento interno.
 
 La comisión, para el cumplimiento de sus funciones, contará además con el personal profesional, técnico y administrativo necesario que será nombrado por el presidente de la comisión de conformidad a la disponibilidad presupuestal.
 
+> <small>(ADICIONADO, D.O. 18 DE JULIO DE 2017)</small>
+
+La comisión contará con un órgano de control interno, dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones.
+
 ### Capítulo IV. Presidente de la comisión
 
 #### Sección primera. Elección del presidente de la comisión
@@ -401,7 +407,9 @@ VIII. Aprobar el diseño de políticas públicas en materia de derechos humanos 
 
 IX. Elaborar el proyecto de reglamento interno, así como sus propuestas de modificación, para su presentación ante el consejo.
 
-X. Nombrar y remover libremente al secretario ejecutivo, al Visitador General, al Oficial de Quejas y Orientación, a los directores, a los visitadores y demás personal profesional, técnico y administrativo de la comisión.
+> <small>(REFORMADA, D.O. 18 DE JULIO DE 2017)</small>
+
+X. Nombrar y remover libremente al secretario ejecutivo, al visitador general, al oficial de Quejas y Orientación, a los directores, a los visitadores y demás personal profesional, técnico y administrativo de la comisión, a excepción del titular del órgano de control interno.
 
 XI. Formular y presentar al consejo para su aprobación el proyecto de programa operativo anual de la comisión, para su opinión.
 
@@ -797,9 +805,71 @@ VII. Presentar al presidente de la comisión, informes periódicos sobre las act
 
 VIII. Las demás que le confiera esta ley, el reglamento interno y otras disposiciones legales y normativas aplicables.
 
-### Capítulo X. Centro de Investigación Aplicada en Derechos Humanos
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 18 DE JULIO DE 2017)</small>
 
-### Capítulo XI. Disposiciones comunes
+### Capítulo IX Bis. Órgano de Control Interno
+
+> <small>(ADICIONADO, D.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 43 Bis.
+
+Órgano de control interno
+
+La comisión contará con un órgano de control interno encargado de promover, evaluar y fortalecer el buen funcionamiento del control interno en la comisión, así como de aplicar las leyes en materia de responsabilidades administrativas.
+
+El órgano de control interno tendrá un titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto.
+
+> <small>(ADICIONADO, D.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 43 Ter.
+
+Nombramiento y Atribuciones
+
+El titular del órgano de control interno ejercerá las facultades a que se refiere la fracción III del artículo 98 de la Constitución Política del Estado de Yucatán y en la legislación aplicable en materia de responsabilidades administrativas.
+
+El titular del órgano de control interno durará en su cargo cinco años y será elegido por el voto de las dos terceras partes de los integrantes del Congreso, mediante el procedimiento establecido en la Ley de Gobierno del Poder Legislativo del Estado de Yucatán.
+
+El titular del órgano de control interno podrá ser designado por un periodo inmediato posterior al que se haya desempeñado, previa postulación y cumpliendo los requisitos previstos en esta ley y el procedimiento establecido en la Ley (sic) Gobierno del Poder Legislativo del Estado de Yucatán.
+
+El titular del órgano de control interno mantendrá la coordinación técnica necesaria con la Auditoría Superior del Estado de Yucatán.
+
+> <small>(ADICIONADO, D.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 43 Quater.
+
+Requisitos
+
+El titular del órgano de control interno deberá reunir los requisitos siguientes:
+
+I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos.
+
+II. Tener treinta y cinco años cumplidos el día de la designación.
+
+III. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año;
+
+IV. Contar, al momento de su designación, con una experiencia de, al menos, cinco años en el control, manejo o fiscalización de recursos, responsabilidades administrativas; contabilidad gubernamental, auditoría gubernamental, obra pública, adquisiciones, arrendamientos y servicios del sector público.
+
+V. Contar al día de su designación, con antigüedad mínima de cinco años, con título profesional relacionado con las actividades a que se refiere la fracción anterior, expedido por autoridad o institución legalmente facultada para ello.
+
+VI. Contar con reconocida solvencia moral.
+
+VII. No pertenecer o haber pertenecido en los cinco años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios a la comisión ni haber fungido como consultor o auditor externo de la comisión, en lo individual durante ese periodo.
+
+VIII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público.
+
+IX. No haber sido secretario de estado, fiscal general del estado, senador, diputado local, dirigente, miembro de órgano rector, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los cuatro años anteriores a la propia designación.
+
+> <small>(ADICIONADO, D.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 43 Quinquies.
+
+Responsabilidades
+
+El titular del órgano de control interno será sujeto de responsabilidad en términos de la legislación aplicable en materia de responsabilidades administrativas; y podrá ser sancionado de conformidad con el procedimiento previsto en la normativa aplicable.
+
+Los demás servidores públicos adscritos al órgano de control interno serán sancionados por el titular de este, o por el servidor público en quien delegue la facultad, en términos de la legislación aplicable en materia de responsabilidades administrativas.
+
+### Capítulo X. Centro de Investigación Aplicada en Derechos Humanos
 
 ###### Artículo 44.
 
@@ -841,7 +911,7 @@ VII. Presentar al presidente de la comisión, informes periódicos sobre las act
 
 VIII. Las demás que le confiera esta ley, el reglamento interno y otras disposiciones legales y normativas aplicables.
 
-### Capítulo XII. Informe anual de actividades de la comisión
+### Capítulo XI. Disposiciones comunes
 
 ###### Artículo 47.
 
@@ -875,7 +945,7 @@ Puestos de confianza
 
 Todos los servidores públicos que integran la comisión, serán considerados trabajadores de confianza debido a la naturaleza de sus funciones. El personal que preste sus servicios en la comisión, se regirá por la Ley de los Trabajadores al Servicio del Estado y Municipios de Yucatán y por las condiciones generales de trabajo que para tal efecto se elaboren. La comisión estará facultada en todo momento para instaurar un servicio civil de carrera.
 
-### Capítulo I. Disposiciones generales
+### Capítulo XII. Informe anual de actividades de la comisión
 
 ###### Artículo 52.
 
@@ -917,7 +987,7 @@ El informe anual de actividades deberá publicarse en la página web de la comis
 
 ## Título tercero. Procedimientos a cargo de la comisión
 
-### Capítulo II. Queja
+### Capítulo I. Disposiciones generales
 
 ###### Artículo 55.
 
@@ -931,7 +1001,7 @@ Principios rectores de los procedimientos ante la comisión
 
 Los procedimientos que se sigan ante la comisión se tramitarán bajo los principios de inmediatez, concentración y rapidez. De igual forma, se procurará, en la medida de lo posible, el contacto directo con agraviados, quejosos, autoridades y servidores públicos, para evitar la dilación de las comunicaciones escritas.
 
-### Capítulo III. Peticiones, acuerdos y recomendaciones
+### Capítulo II. Queja
 
 #### Sección primera. Disposiciones generales
 
@@ -1137,7 +1207,7 @@ Conclusiones
 
 Las conclusiones del expediente, que serán la base de las recomendaciones, estarán fundamentadas exclusivamente en la documentación, así como en las pruebas que obren en el propio expediente.
 
-### Capítulo IV. Conciliación
+### Capítulo III. Peticiones, acuerdos y recomendaciones
 
 #### Sección primera. Peticiones
 
@@ -1241,7 +1311,7 @@ V. La autoridad o servidor público a quienes se les hubiese notificado la insuf
 
 VI. Vencido el plazo a que se refiere la fracción anterior la comisión podrá denunciar a los servidores públicos señalados en la recomendación como responsables, ante la autoridad competente.
 
-### Capítulo V. Disposiciones complementarias
+### Capítulo IV. Conciliación
 
 ###### Artículo 94.
 
@@ -1281,7 +1351,7 @@ Continuación del trámite de queja
 
 Si las partes no llegan a un acuerdo en la audiencia de conciliación o no aceptan la propuesta de solución emitida por la comisión, o si habiendo un acuerdo o aceptado la propuesta, la autoridad o servidores públicos no cumplen con sus términos, la comisión continuará con el trámite de la queja dentro de las veinticuatro horas siguientes, contadas a partir de que tenga conocimiento de ello, asentando razón de lo ocurrido.
 
-### Capítulo I. Incidente de presentación de persona
+### Capítulo V. Disposiciones complementarias
 
 ###### Artículo 99.
 
@@ -1305,7 +1375,7 @@ III. Requerir la auscultación médica, así como las pruebas y análisis necesa
 
 ## Título cuarto. Incidentes y recursos
 
-### Capítulo II. Recurso de queja e impugnación
+### Capítulo I. Incidente de presentación de persona
 
 ###### Artículo 101.
 
@@ -1341,7 +1411,7 @@ En su caso, podrá solicitar a la autoridad o al servidor público señalado com
 
 El desacato a las resoluciones que emita el presidente de la comisión, el Visitador General, el Oficial de Quejas y Orientación, o los visitadores con relación a este incidente, así como los informes falsos o incompletos que rindan las autoridades o servidores públicos señalados como presuntos responsables, se sancionará conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán, con independencia de las responsabilidades penales y civiles en que incurran.
 
-### Capítulo I. Obligaciones de las autoridades y los servidores públicos
+### Capítulo II. Recurso de queja e impugnación
 
 ###### Artículo 104.
 
@@ -1357,7 +1427,7 @@ Los quejosos y agraviados, con independencia de los mecanismos de protección de
 
 ## Título quinto. Autoridades y servidores públicos
 
-### Capítulo II. Responsabilidad de las autoridades y los servidores públicos
+### Capítulo I. Obligaciones de las autoridades y los servidores públicos
 
 ###### Artículo 106.
 
@@ -1380,6 +1450,8 @@ Las autoridades y servidores públicos de carácter estatal y municipal, involuc
 Información reservada
 
 Las autoridades o servidores públicos a los que se les solicite información o documentación que sea considerada de carácter reservada, lo comunicarán a la comisión y expresarán las razones para considerarla de esa naturaleza. En ese supuesto, el Visitador General o los visitadores tendrán la facultad de hacer la calificación definitiva sobre la reserva y solicitar, en su caso, que se les proporcione la información o documentación, la cual deberá ser manejada con la más estricta confidencialidad.
+
+### Capítulo II. Responsabilidad de las autoridades y los servidores públicos
 
 ###### Artículo 109.
 
@@ -1548,3 +1620,19 @@ La Junta de Gobierno del Instituto para la Igualdad entre Mujeres y Hombres en Y
 Décimo octavo. Derogación tácita
 
 Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
+
+D.O. 18 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 509/2017 POR EL QUE SE MODIFICAN LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE YUCATÁN, LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN, LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE YUCATÁN, LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN Y LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE YUCATÁN".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el 19 de julio de 2017, cuando lo haga la Ley General de Responsabilidades Administrativas, en términos del Decreto 380/2016 por el que se modifica la Constitución Política del Estado de Yucatán, en materia de anticorrupción y transparencia.
+
+Segundo. Nombramientos
+
+El Congreso deberá expedir la convocatoria para la designación de los titulares de los órganos de control interno de la Comisión de Derechos Humanos del Estado de Yucatán y del Instituto Estatal de Transparencia, Acceso a la Información y Protección de Datos Personales dentro de los noventa días naturales contados a partir de la entrada en vigor de este decreto.
+
+Tercero. Titular del Órgano de Control Interno del Instituto
+
+El titular del Órgano de Control Interno del Instituto Electoral y de Participación Ciudadana que se encuentre en funciones a la entrada en vigor de este decreto, continuará con el cargo durante el período para el que fue electo.
