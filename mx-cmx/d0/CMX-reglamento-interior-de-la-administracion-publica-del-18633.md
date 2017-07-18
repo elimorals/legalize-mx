@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2017-07-07"
+last_updated: "2017-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 7 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 18 DE JULIO DE 2017.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -1226,9 +1226,9 @@ Corresponde al Titular de la Contraloría General, además de las atribuciones q
 
 Asimismo, le corresponde ejercer las siguientes atribuciones:
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
 
-I. Establecer, los lineamientos generales que determinen los supuestos de responsabilidades mayores a que se refiere el artículo 62 de la Ley Federal de Responsabilidades de los Servidores Públicos, así como ejercitar la facultad de atracción que establece dicho dispositivo legal;
+I. Dirigir y coordinar la observancia y cumplimiento de la legislación y demás disposiciones jurídicas y administrativas en materia de Responsabilidades Administrativas, Anticorrupción, Fiscalización, Auditoría, Control Interno, intervenciones y demás materias relacionadas;
 
 > <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
 
@@ -1274,7 +1274,9 @@ XI. Autorizar el uso de recursos humanos, materiales y financieros asignados a l
 
 XII. Establecer en el ámbito de su competencia, mecanismos (sic) uso de tecnologías de la información y comunicaciones y demás procedimientos para el desarrollo de las actuaciones, solicitudes y recepción de documentos e información, actas administrativas para constancias de hechos y circunstanciadas, y demás elementos que se requieran para la operación de oficinas, otros mecanismos itinerantes y de campo, de conformidad con las disposiciones jurídicas y administrativas aplicables;
 
-XIII. (DEROGADA, G.O. 28 DE FEBRERO DE 2014)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 18 DE JULIO DE 2017)</small>
+
+XIII. Expedir disposiciones jurídicas y administrativas que resulten necesarias para el ejercicio de las materias de Responsabilidades Administrativas, Anticorrupción, Fiscalización, Auditoría, Control Interno, intervenciones y demás materias relacionadas de conformidad con las disposiciones jurídicas y administrativas aplicables y siempre que no corresponda su emisión a otras autoridades;
 
 XIV. (DEROGADA, G.O. 28 DE FEBRERO DE 2014)
 
@@ -1294,9 +1296,9 @@ XIX. Conducir el ejercicio del presupuesto autorizado para el cumplimiento de la
 
 XX. Dictar y determinar las políticas que deban observarse en los procedimientos de evaluación de las aptitudes de los candidatos a incorporarse al servicio de la administración pública así como el desempeño de los servidores públicos en activo; y
 
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
 
-XXI. Las demás que le atribuyan expresamente las disposiciones jurídicas y administrativas aplicables.
+XXI. Las demás que le atribuyan expresamente la legislación en materia de Responsabilidades Administrativas y Anticorrupción, así como otras disposiciones jurídicas y administrativas aplicables.
 
 ### Capítulo IV. De las atribuciones generales del titular de la Consejería Jurídica y de Servicios Legales
 
@@ -8194,9 +8196,11 @@ XI. Auxiliarse de las unidades de apoyo técnico operativo que le sean asignadas
 
 XII. Las demás que le sean conferidas por el Oficial Mayor, así como las que correspondan a las unidades que le sean adscritas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 18 DE JULIO DE 2017)</small>
+
 #### SECCION XIII
 
-DE LA CONTRALORIA GENERAL DEL DISTRITO FEDERAL.
+DEL ÓRGANO INTERNO DE CONTROL DEL GOBIERNO DE LA CIUDAD DE MÉXICO,
 
 > <small>(REFORMADO, G.O. 30 DE ABRIL DE 2008)</small>
 
@@ -8402,6 +8406,152 @@ XII. Requerir de acuerdo a la naturaleza de sus funciones, información y docume
 
 XIII. Las demás que le instruya el Titular de la Dirección General de Legalidad, las que expresamente atribuyan este reglamento y otorguen otros ordenamientos jurídicos o administrativos.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 18 DE JULIO DE 2017)</small>
+
+APARTADO UNO
+
+DE LAS ATRIBUCIONES GENERALES DE LOS TITULARES DE LAS UNIDADES DE INVESTIGACIÓN, SUSTANCIACIÓN Y DE RESOLUCIÓN DE LA CONTRALORÍA GENERAL COMO ÓRGANO INTERNO DE CONTROL DEL GOBIERNO LA CIUDAD DE MÉXICO
+
+> <small>(ADICIONADO, G.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 102 Bis 1.
+
+Las atribuciones generales que en el presente apartado se establecen, se realizarán por la Coordinación General, la Dirección General, la Dirección Ejecutiva, la Dirección de Área, la Subdirección, la Jefatura de Unidad Departamental, el líder coordinador, el enlace u homólogos que comisione por escrito el titular del Órgano Interno de Control del Gobierno de la Ciudad de México, mismas que se realizarán sin perjuicio de aquellas atribuciones específicas que les confiera este reglamento y otras disposiciones jurídicas y administrativas aplicables.
+
+> <small>(ADICIONADO, G.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 102 Bis 2.
+
+Además de las atribuciones que corresponden a las autoridades investigadoras de conformidad con la legislación y demás disposiciones jurídicas y administrativas en materia de Responsabilidades Administrativas, corresponde a los titulares de una Unidad de Investigación, en dependencias, órganos desconcentrados, delegaciones, entidades, órganos de apoyo y de asesoría de la Administración Pública de la Ciudad de México:
+
+I. Recibir de la oficina de gestión documental correspondiente o de otras unidades administrativas del Órgano Interno de Control del Gobierno de la Ciudad de México, los documentos y demás elementos relacionados con denuncias de particulares o autoridades y las derivadas de las auditorías u otras actividades de fiscalización o control, que se formulen por posibles actos u omisiones considerados faltas administrativas de las personas servidoras públicas de que se trate, o por la falta de solventación de los pliegos de observaciones, cuando se requiera de investigaciones adicionales;
+
+II. Revisar los documentos y demás elementos relacionados con denuncias, auditorías u otras actividades de fiscalización o control que reciba, así como de los que obtenga a partir de investigaciones de oficio, a efecto de determinar si, conforme a las disposiciones jurídicas y administrativas aplicables, se tienen los elementos mínimos o competencia para dar inicio a los procedimientos de investigación;
+
+III. Dictar toda clase de acuerdos que resulten necesarios en los procedimientos de investigación que realice de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+IV. Citar, cuando lo estime necesario, al denunciante o a la unidad administrativa del Órgano Interno de Control del Gobierno de la Ciudad de México correspondiente o de otra autoridad denunciante, para la ratificación de la denuncia, o incluso a otras personas servidoras públicas o particulares que puedan tener conocimiento de los hechos a fin de constatar la veracidad de los mismos, así como solicitarles que aporten, en su caso, elementos, datos o indicios que permitan advertir la presunta responsabilidad de la persona servidora pública de que se trate;
+
+V. Practicar investigaciones, actuaciones y diligencias para determinar los actos u omisiones considerados faltas administrativas de las personas servidoras públicas de que se trate y faltas de particulares vinculados con faltas administrativas graves, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+VI. Solicitar, a otras unidades administrativas del Órgano Interno de Control del Gobierno de la Ciudad de México, la práctica de auditorías, inspecciones, y/o revisiones cuando advierta posibles actos u omisiones que pudieran constituir faltas administrativas distintas a la (sic) que son objeto de investigación;
+
+VII. Requerir información, datos, documentos y demás elementos necesarios para la investigación de presunta responsabilidad a las dependencias, órganos desconcentrados, delegaciones, entidades, órganos de apoyo y de asesoría, oficinas o unidades de la Administración Pública, poderes y órganos autónomos de la Ciudad de México, incluyendo aquellas que por ley estén obligados a observar el principio de secrecía de la información, de conformidad con los instrumentos y disposiciones jurídicas y administrativas aplicables;
+
+VIII. Requerir información, datos, documentos y demás elementos necesarios para la investigación de presunta responsabilidad a dependencias, órganos, entidades, oficinas o unidades de los poderes y de los órganos autónomos y demás instituciones públicas federales, de otras entidades federativas o municipales, incluyendo aquellas que por ley, estén obligados a observar el principio de secrecía de la información, de conformidad con los instrumentos y disposiciones jurídicas y administrativas aplicables;
+
+IX. Requerir información, datos, documentos y demás elementos necesarios, de carácter particular, para la investigación de presunta responsabilidad a personas físicas y jurídicas o morales, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+X. Cuando resulte necesario para hacer cumplir sus determinaciones y requerimientos, dictar las medidas de apremio, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+XI. Ordenar y ejecutar a través del personal acreditado, visitas de verificación a efecto de contar con mayores elementos para determinar la presunta responsabilidad de las personas servidoras públicas de que se trate;
+
+XII. Analizar y valorar los documentos, información, pruebas y hechos que consten en los expedientes de investigación, y determinar la existencia o inexistencia de actos u omisiones que la legislación en materia de responsabilidades señale como falta administrativa, así como calificarla como grave o no grave;
+
+XIII. Elaborar los informes de presunta responsabilidad Administrativa, señalando la calificación que corresponda a la falta administrativa existente, y presentarlos ante la autoridad substanciadora en los términos de las disposiciones jurídicas y administrativas aplicables;
+
+XIV. Remitir a las unidades administrativas competentes del Órgano Interno de Control del Gobierno de la Ciudad de México, para los efectos conducentes, un cuadernillo que contengan (sic) copia de los documentos, diligencias y autos del expediente de investigación, cuando se presuma la comisión de un delito;
+
+XV. Recibir y desahogar las prevenciones que le realice la autoridad substanciadora en los términos y plazos conducentes;
+
+XVI. Solicitar a través del Informe de Presunta Responsabilidad Administrativa, o una vez iniciado el procedimiento de responsabilidad administrativa, a través de oficio, la imposición de medidas cautelares a las autoridades substanciadoras o resolutoras que correspondan, de conformidad con los supuestos y términos de la legislación aplicable;
+
+XVII. Impugnar la determinación de las autoridades substanciadoras o resolutoras de abstenerse de iniciar el procedimiento de responsabilidad administrativa o de imponer sanciones administrativas en los términos de las disposiciones jurídicas y administrativas aplicables;
+
+XVIII. Recurrir las determinaciones del Tribunal de Justicia Administrativa, de la Fiscalía Especializada en delitos de corrupción y de cualquier otra autoridad, en términos de las disposiciones jurídicas y administrativas aplicables;
+
+XIX. Determinar la conclusión de la investigación y archivo de expediente, por falta de elementos suficientes para demostrar la existencia de faltas administrativas, expidiendo el acuerdo respectivo;
+
+XX. Ordenar las notificaciones a través del personal acreditado que resulten procedentes, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+XXI. Recibir de la oficina de gestión documental correspondiente, los escritos de impugnación a la calificación de una falta administrativa que realice, revisando que los mismos observen lo dispuesto por la legislación aplicable;
+
+XXII. Cuando resulte procedente, correr traslado al Tribunal de Justicia Administrativa de la Ciudad de México de los escritos de impugnación de la calificación de una falta administrativa, adjuntando el expediente y un informe de justificación de la calificación, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+XXIII. Ordenar la elaboración de cuadernillos que contengan copias de los documentos, diligencias y autos del expediente de investigación cuando sean remitidos al Tribunal de Justicia Administrativa de la Ciudad de México, o cuando se presuma la comisión de un delito;
+
+XXIV. Expedir copia certificada de la documentación que obre en los expedientes de investigación o a la que tenga acceso con motivo de las investigaciones que practiquen y que obre en los archivos de las dependencias, órganos desconcentrados, delegaciones, entidades, órganos de apoyo y de asesoría, de la Administración Pública de la Ciudad de México;
+
+XXV. Habilitar días y horas inhábiles para la práctica de aquellas diligencias que a su juicio se requieran;
+
+XXVI. Promover la capacitación en las materias de su competencia del personal de las unidades de investigación en las dependencias, órganos desconcentrados, delegaciones, entidades, órganos de apoyo y de asesoría, de la Administración Pública de la Ciudad de México;
+
+XXVII. Solicitar mediante exhorto, la colaboración de las Dependencias, Órganos internos de control o Tribunales locales, federales o autónomos, para realizar las notificaciones personales que deban llevar a cabo respecto de aquellas personas que se encuentren en lugares que se hallen fuera de la jurisdicción de la Ciudad de México, en términos de las disposiciones jurídicas y administrativas aplicables; y
+
+XXVIII. Las demás que las disposiciones legales y administrativas le confieran y las que le encomiende el titular del Órgano Interno de Control del Gobierno de la Ciudad de México, así como las que competen a las unidades administrativas a su cargo.
+
+> <small>(ADICIONADO, G.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 102 Bis 3.
+
+Además de las atribuciones que corresponden a las autoridades substanciadoras de conformidad con la legislación y demás disposiciones jurídicas y administrativas en materia de Responsabilidades Administrativas, corresponde a los titulares de las Unidades de Sustanciación de procedimientos de Responsabilidades Administrativas en dependencias, órganos desconcentrados, delegaciones, entidades, órganos de apoyo y de asesoría, de la Administración Pública de la Ciudad de México:
+
+I. Recibir de las autoridades investigadoras que corresponda, así como de las unidades administrativas y unidades administrativas de apoyo técnico operativo del Órgano Interno de Control del Gobierno de la Ciudad de México, que lleven a cabo auditorías, intervenciones, control interno revisiones, verificaciones e inspecciones, los Informes de Presunta Responsabilidad Administrativa;
+
+II. Realizar o valorar las investigaciones, así como recabar o valorar las pruebas relacionadas con el Informe de Presunta Responsabilidad Administrativa, a efecto de determinar la prevención, la procedencia de su admisión, la abstención del inicio del procedimiento de responsabilidad administrativa de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+III. Recibir de la oficina de gestión documental correspondiente, los escritos de impugnación a la abstención de iniciar un procedimiento de responsabilidad administrativa que haya dictado o de otros recursos revisando que los mismos observen lo dispuesto por la legislación aplicable y dar el trámite correspondiente;
+
+IV. Cuando resulte procedente, correr traslado al Tribunal de Justicia Administrativa de la Ciudad de México de los escritos de impugnación a la abstención de iniciar un procedimiento de responsabilidad administrativa o de otros recursos, adjuntando el expediente y un informe de justificación, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+V. Ordenar la elaboración de cuadernillos que contengan copias de los documentos, diligencias y autos del expediente de Informe de Presunta Responsabilidad Administrativa, cuando sean trasladados al Tribunal de Justicia Administrativa de la Ciudad de México;
+
+VI. Expedir copia certificada de la documentación que obre en los expedientes de Informe de Presunta Responsabilidad, de Procedimiento de Responsabilidad Administrativa o a la que tenga acceso con motivo de la substanciación que practique y que obre en los archivos de las dependencias, órganos desconcentrados, delegaciones, entidades, órganos de apoyo y de asesoría, de la Administración Pública de la Ciudad de México;
+
+VII. Iniciar los procedimientos de responsabilidad administrativa cuando una resolución firme del Tribunal de Justica Administrativa así lo ordene;
+
+VIII. Determinar la improcedencia o sobreseimiento del procedimiento de responsabilidad administrativa de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+IX. Dictar toda clase de acuerdos que resulten necesarios en los procedimientos de responsabilidades administrativas que realice de conformidad con las disposiciones jurídicas y administrativas aplicables, incluyendo los de acumulación cuando resulte procedente;
+
+X. Habilitar días y horas inhábiles para la práctica de aquellas diligencias que a su juicio se requieran;
+
+XI. Decretar la imposición o la suspensión de medidas cautelares en los términos y supuestos señalados por la legislación y demás disposiciones jurídicas y administrativas aplicables y tramitarlas de manera incidental;
+
+XII. Cuando resulte necesario para hacer cumplir sus determinaciones y requerimientos, dictar la imposición de medios de apremio, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+XIII. Emplazar al presunto responsable a efecto de celebrar la audiencia inicial en términos de lo dispuesto por la legislación en materia de responsabilidades administrativas y demás disposiciones jurídicas y administrativas aplicables;
+
+XIV. Dictar el cierre de la audiencia inicial y tratándose de faltas graves, remitir el expediente al Tribunal de Justicia Administrativa en su calidad de autoridad resolutora en términos de lo dispuesto por la legislación en materia de responsabilidades administrativas y demás disposiciones jurídicas y administrativas aplicables;
+
+XV. Emitir el acuerdo de admisión de pruebas, ordenando las diligencias necesarias para su preparación y desahogo o para mejor proveer en términos de lo dispuesto por la legislación en materia de responsabilidades administrativas y demás disposiciones jurídicas y administrativas aplicables;
+
+XVI. Declarar abierto el periodo de Alegatos en términos de lo dispuesto por la legislación en materia de responsabilidades administrativas y demás disposiciones jurídicas y administrativas aplicables;
+
+XVII. Recurrir las determinaciones del Tribunal de Justicia Administrativa, de la Fiscalía Especializada en delitos de corrupción y de cualquier otra autoridad, en términos de las disposiciones jurídicas y administrativas aplicables,
+
+XVIII. Resolver los incidentes derivados de la substanciación del procedimiento de Responsabilidad Administrativa en términos de la legislación de responsabilidades y demás disposiciones jurídicas y administrativas aplicables;
+
+XIX. Solicitar mediante exhorto, la colaboración de las Dependencias, Órganos Internos de Control o Tribunales locales, federales o autónomos, para realizar las notificaciones personales que deban llevar a cabo respecto de aquellas personas que se encuentren fuera de la jurisdicción de la Ciudad de México, en términos de las disposiciones aplicables; y
+
+XX. Las demás que las disposiciones legales y administrativas le confieran y las que le encomiende el titular del Órgano Interno de Control del Gobierno de la Ciudad de México, así como las que competen a las unidades administrativas a su cargo.
+
+> <small>(ADICIONADO, G.O. 18 DE JULIO DE 2017)</small>
+
+###### Artículo 102 Bis 4.
+
+Además de las atribuciones que corresponden a las autoridades resolutoras de conformidad con la legislación y demás disposiciones jurídicas y administrativas en materia de Responsabilidades Administrativas, corresponde a los titulares de las Unidades Resolutoras de Responsabilidades Administrativas en dependencias, órganos desconcentrados, delegaciones, entidades y órganos de apoyo y asesoría de la Administración Pública de la Ciudad de México:
+
+I. Resolver el Procedimiento de Responsabilidad Administrativa y en su caso, imponer las sanciones que procedan, en términos de la legislación de responsabilidades aplicables y demás disposiciones jurídicas y administrativas;
+
+II. Resolver los incidentes derivados de la substanciación o resolución del procedimiento de Responsabilidad Administrativa en términos de la legislación de responsabilidades aplicables y demás disposiciones jurídicas y administrativas;
+
+III. Ordenar la ejecución de las sanciones administrativas que dicte con motivo de un procedimiento de responsabilidades administrativas;
+
+IV. Recibir los recursos derivados de la substanciación o resolución del procedimiento de Responsabilidad Administrativa, así como resolverlos en términos de la legislación de responsabilidades aplicables y demás disposiciones jurídicas y administrativas o turnarlos a la autoridad competente;
+
+V. Cuando resulte procedente, correr traslado al Tribunal de Justicia Administrativa de la Ciudad de México de los recursos o las resoluciones impugnadas, adjuntando el expediente, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+VI. Ordenar la elaboración de cuadernillos que contengan copias de los documentos, diligencias y autos del expediente de Informe de Presunta Responsabilidad, de Substanciación o de la Resolución cuando sean trasladados al Tribunal de Justicia Administrativa de la Ciudad de México;
+
+VII. Expedir copias certificadas de la documentación que obre en los expedientes de Informe de Presunta Responsabilidad, de Procedimientos de Responsabilidad Administrativa, de Substanciación o de la Resolución o a la que tenga acceso con motivo de la resolución que emita y que obren en los archivos de las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública de la Ciudad de México;
+
+VIII. Recurrir las determinaciones del Tribunal de Justicia Administrativa, de la Fiscalía Especializada en delitos de corrupción y de cualquier otra autoridad, en términos de las disposiciones jurídicas y administrativas aplicables;
+
+IX. Solicitar mediante exhorto, la colaboración de las dependencias, órganos internos de control o tribunales locales, federales o autónomos, para realizar las notificaciones personales que deban llevar a cabo respecto de aquellas personas que se encuentren fuera de la jurisdicción de la Ciudad de México, en términos de las disposiciones aplicables; y
+
+X. Las demás que las disposiciones legales y administrativas le confieran y las que le encomiende el titular del Órgano Interno de Control del Gobierno de la Ciudad de México, así como las que competen a las unidades administrativas a su cargo.
+
 > <small>(REFORMADO, G.O. 30 DE ABRIL DE 2008)</small>
 
 ###### Artículo 103.
@@ -8508,29 +8658,55 @@ VIII. Presentar demandas, querellas, quejas y denuncias, contestar demandas, ren
 
 IX. Las demás que le instruya el titular de la Dirección General de Legalidad; las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
+> <small>(ADICIONADO, G.O. 18 DE JULIO DE 2017)</small>
+
+APARTADO DOS
+
+DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS UNIDADES ADMINISTRATIVAS DE LA CONTRALORÍA GENERAL COMO ÓRGANO INTERNO DE CONTROL DEL GOBIERNO LA CIUDAD DE MÉXICO
+
 > <small>(REFORMADO, G.O. 30 DE ABRIL DE 2008)</small>
 
 ###### Artículo 105.
 
 Corresponde a la Dirección General de Asuntos Jurídicos y Responsabilidades:
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
 
-I. Conocer, investigar, desahogar y resolver procedimientos disciplinarios sobre actos u omisiones de servidores públicos adscritos a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, los Órganos Desconcentrados y Entidades de la Administración Pública, que pudieran afectar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben observar en el desempeño de su empleo, cargo o comisión, y que tenga conocimiento por cualquier medio, para determinar e imponer, en su caso, las sanciones que correspondan en los términos de la ley de la materia y para tal efecto, requerir de acuerdo a la naturaleza de sus funciones, la colaboración, información y documentación a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, los Órganos Desconcentrados y Entidades de la Administración Pública y Órganos de Control Interno, de las instituciones públicas locales y/o federales así como a proveedores, arrendadores, prestadores de servicios, contratistas, supervisores externos, concesionarios, permisionarios, o cualquier otro que intervenga en las adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos, enajenaciones y todos los que tengan alguna participación en los procedimientos previstos en el marco jurídico del Distrito Federal;
+I. Conocer, investigar, substanciar y resolver procedimientos de Responsabilidad Administrativa o cuando proceda, procedimientos disciplinarios o sobre actos u omisiones de personas servidoras públicas adscritas a las dependencias, unidades administrativas, órganos político-administrativos, órganos desconcentrados y entidades de la Administración Pública, que pudieran afectar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben observar en el desempeño de su empleo, cargo o comisión, y que tenga conocimiento por investigaciones de oficio, denuncias, auditorías o cualquier otro medio, para determinar e imponer, en su caso, las sanciones que correspondan en los términos de la legislación en materia de Responsabilidades Administrativas aplicable y para tal efecto, requerir de acuerdo a la naturaleza de sus funciones, la colaboración, información y documentación a las Dependencias, Unidades Administrativas, Órganos Político Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública Local, Federal, así como poderes y órganos autónomos de la federación y otras entidades federativas, así como a proveedores, arrendadores, prestadores de servicios, contratistas, supervisores externos, concesionarios, permisionarios, o cualquier otro que intervenga en las adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos, enajenaciones y todos los que tengan alguna participación en los procedimientos previstos en el marco jurídico de la Ciudad de México;
 
-II. Acordar la suspensión temporal de los servidores públicos de sus empleos, cargos o comisiones cuando a su juicio resulte conveniente para la conducción o continuación de las investigaciones, o a petición de la Contaduría Mayor de Hacienda de la Asamblea Legislativa, en los casos que proceda;
+> <small>(ADICIONADA, G.O. 18 DE JULIO DE 2017)</small>
+
+I A. Captar, conocer y recibir quejas, denuncias y auditorías practicadas por la Auditoría Superior de la Ciudad de México, la Auditoría superior de la Federación, los Órganos Internos de Control y cualquier autoridad competente sobre actos u omisiones de servidores públicos de la Administración Pública de la Ciudad de México, que pudieran afectar los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que deben observar en el desempeño de su empleo, cargo, función y mandato, a efecto de investigar la existencia o inexistencia de actos u omisiones que la Ley en materia de responsabilidades administrativas señale como falta administrativa;
+
+> <small>(ADICIONADA, G.O. 18 DE JULIO DE 2017)</small>
+
+I B. Calificar la falta administrativa como grave o no grave y emitir el informe de presunta responsabilidad administrativa; o en su caso emitir Acuerdo de Conclusión y Archivo del expediente al no encontrar elementos suficientes para demostrar la existencia de la infracción y la presunta responsabilidad del infractor;
+
+> <small>(ADICIONADA, G.O. 18 DE JULIO DE 2017)</small>
+
+I. C. Llevar de oficio las investigaciones debidamente fundadas y motivadas respecto a conductas de los servidores públicos que puedan constituir responsabilidad administrativa en términos de las disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
+
+II. Acordar la suspensión temporal de los servidores públicos de sus empleos, cargos o comisiones cuando a su juicio resulte conveniente para la conducción o continuación de las investigación, substanciación o resolución de un procedimiento disciplinario o de Responsabilidad Administrativa, o a petición de otras autoridades investigadoras, en los casos que proceda y de conformidad con las disposiciones jurídicas y administrativas aplicables;
 
 III. Substanciar y resolver los recursos de revocación que se interpongan en contra de resoluciones que impongan sanciones administrativas a los servidores públicos en términos de las disposiciones jurídicas aplicables;
 
-IV. Establecer los sistemas y lineamientos que regulen la integración y actualización del registro de los servidores públicos sancionados en la Administración Pública, y en coordinación con la Federación y entidades federativas, proponer y elaborar los convenios de colaboración en la materia cuando así proceda;
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
+
+IV. Llevar el registro de los servidores públicos sancionados en la Administración Pública, atendiendo a las disposiciones de la legislación sobre sistemas anticorrupción y responsabilidades;
 
 V. Ordenar la implementación de acciones de verificación en aquellas Dependencias, Unidades Administrativas, Órganos Político-Administrativos, los Órganos Desconcentrados y Entidades de la Administración Pública que se determine conveniente, para prevenir y corregir conductas o actos contrarios a los principios que rigen la función pública del servicio;
 
-VI. Vigilar y supervisar por sí o a través de las Unidades Administrativas de Apoyo Técnico Operativo que tiene adscritas, la actuación de las Contralorías Internas en materia de desahogo de procedimientos administrativos disciplinarios, así como en la emisión de los acuerdos y resoluciones que de dichos procedimientos se deriven, conforme al programa que al efecto se determine con la Dirección General de Contralorías Internas correspondiente;
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
+
+VI. Vigilar y supervisar por sí o a través de las Unidades Administrativas de Apoyo Técnico Operativo que tiene adscritas, la actuación de los órganos internos de control en dependencias, unidades administrativas, órganos político-administrativos, órganos desconcentrados y entidades de la Administración Pública, sobre la investigación, substanciación y resolución de procedimientos de Responsabilidad Administrativa, conforme a las disposiciones jurídicas y administrativas aplicables;
 
 VII. Ejercer la facultad de atracción prevista por los artículos 57 y 62 de la Ley Federal de Responsabilidades de los Servidores Públicos, así como solicitar se le remitan los expedientes, en la etapa procesal en que se encuentren, para turnarlos al área que corresponda a efecto de continuar con la investigación, substanciación y resolución de los casos de responsabilidad mayor o de faltas graves;
 
-VIII. Recibir, turnar a las Contralorías Internas competentes y dar seguimiento de las quejas y denuncias presentadas; así como promover el fincamiento de responsabilidad administrativa;
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
+
+VIII. Remitir cuando lo estime conveniente las quejas y denuncias a los órganos internos de control en dependencias, unidades administrativas, órganos político-administrativos, órganos desconcentrados y entidades de la Administración Pública que corresponda;
 
 > <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
@@ -8544,17 +8720,27 @@ XI. Habilitar al personal de sus unidades administrativas técnico operativas co
 
 XII. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones, designar delegados o apoderados, ofrecer y rendir pruebas, promover incidentes, interponer recursos, interponer juicios de amparo directo e indirecto, formular alegatos, hacer promociones de trámite, transigir y comprometer en árbitros, articular y absolver posiciones, desistirse, e incluso allanarse a las demandas, en los asuntos que se tramiten ante el Tribunal de lo Contencioso Administrativo del Distrito Federal, el Tribunal Federal de Conciliación y Arbitraje, Tribunal Superior de Justicia del Distrito Federal, las Juntas de Conciliación y Arbitraje locales y federales, y en general, ante toda clase de autoridades administrativas, judiciales, jurisdiccionales o autónomas, sean locales o federales;
 
-XIII. Establecer los sistemas y lineamientos que regulen el procedimiento de captación, registro, control, análisis y seguimiento de evolución de situación patrimonial de servidores públicos de la Administración Pública del Distrito Federal; y
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
 
-XIV. Solicitar a las Dependencias, Órganos Desconcentrados, Órganos Político-Administrativos, Entidades e instituciones públicas locales y federales, así como a las Instituciones Financieras a que se refiere el artículo 2° fracción IV de la Ley de Protección y Defensa al Usuario de Servicios Financieros, a través de la Comisión Nacional Bancaria y de Valores, la información fiscal, inmobiliaria, bancaria, financiera o de cualquier otro tipo, relacionada con los servidores públicos, sus cónyuges, concubinos y dependientes económicos directos, con la finalidad de verificar la evolución del patrimonio de aquellos, así como de los que se encuentren involucrados en procedimientos administrativos en los que se detecte la existencia de daño patrimonial;
+XIII. Administrar los sistemas de captación, registro, control, análisis y seguimiento de evolución de situación patrimonial, de declaración de intereses y de información fiscal de servidores públicos de la Administración Pública de la Ciudad de México, de conformidad con las disposiciones de la legislación sobre sistemas anticorrupción y responsabilidades;
 
-XV. Conocer e investigar actos u omisiones de los servidores públicos adscritos a las unidades administrativas, unidades administrativas de apoyo técnico operativo y órganos de control interno de la Contraloría General, que pudieran afectar a legalidad, honradez, lealtad, imparcialidad y eficiencia que deben observar en el desempeño de su empleo, cargo o comisión, así como desahogar y resolver los procedimientos disciplinarios que de éstos se deriven y determinar e imponer en su caso, las sanciones que correspondan en términos de las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
+
+XIV. Solicitar a las Instituciones competentes información fiscal, inmobiliaria, bancaria, financiera o de cualquier otro tipo, relacionada con los servidores públicos, sus cónyuges, concubinos y dependientes económicos directos, así como de personas físicas, morales y colectivas, con la finalidad de llevar a cabo investigación, substanciación y resolución de procedimientos de Responsabilidad Administrativa de conformidad con las disposiciones de la legislación sobre sistemas anticorrupción y responsabilidades;
+
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
+
+XV. Captar, conocer y recibir quejas y denuncias y en su caso, investigar, substanciar y resolver procedimientos disciplinarios o de Responsabilidad Administrativa cuando se trate de actos u omisiones de los servidores públicos adscritos a las unidades administrativas, unidades administrativas de apoyo técnico operativo y órganos internos de control de la Contraloría General, que pudieran afectar a (sic) legalidad, honradez, lealtad, imparcialidad y eficiencia que deben observar en el desempeño de su empleo, cargo o comisión en términos de las disposiciones jurídicas aplicables;
 
 XVI. Expedir previo cotejo copias certificadas de los documentos, así como de aquellos a los cuales se tenga acceso con motivo del desarrollo de sus funciones;
 
-XVII. Coadyuvar en el ámbito de sus atribuciones y en coordinación con las Direcciones Generales de Contralorías Internas, requisitos mínimos de procedimiento de investigación, procedimientos administrativos disciplinarios, así como la emisión de resoluciones en los mismos, pudiendo verificar la actuación que al respecto se dé y recomendando medidas que permitan mejorar el desempeño;
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
 
-XVIII. Planear y definir, conjuntamente con las Direcciones Generales de Contralorías Internas en Dependencias y Órganos Desconcentrados, Delegaciones, y Entidades, así como con la Dirección General de Legalidad, los programas de capacitación jurídica para el personal de las áreas de responsabilidades de las contralorías internas y de la Contraloría General;
+XVII. Coadyuvar en el ámbito de sus atribuciones y en coordinación con las Direcciones Generales de Contralorías Internas, en el establecimiento de formatos y requisitos internos adicionales relacionados con la investigación, substanciación y resolución de procedimientos de Responsabilidad Administrativa, recomendando medidas que permitan mejorar el desempeño;
+
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
+
+XVIII. Planear y definir, conjuntamente con las Direcciones Generales de Contralorías Internas en Dependencias y Órganos Desconcentrados, Delegaciones, y Entidades, así como con la Dirección General de Legalidad, los programas de capacitación jurídica para el personal de las áreas competentes en la investigación, substanciación y resolución de procedimientos de Responsabilidad Administrativa de la Contraloría General;
 
 > <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
@@ -8564,17 +8750,15 @@ XIX. Representar ante toda clase de autoridades administrativas o judiciales, lo
 
 XX. Realizar acciones de verificación, supervisión, revisión, inspección y visita en aquellas dependencias, unidades administrativas, órganos político administrativos, los órganos desconcentrados y entidades de la administración pública que se determine conveniente; o en cualquier lugar del Distrito Federal, cuando los efectos de los actos o conductas de los servidores públicos trasciendan de los lugares de cada oficina pública; para prevenir, conocer y corregir conductas o actos de los servidores públicos contrarios a los principios que rigen la función pública del Distrito Federal; para el buen despacho de lo anterior, dispondrá del apoyo de cualquier servidor público del Distrito Federal, previo oficio de comisión con el fin de lograr los objetivos precisados;
 
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
+XXI. (DEROGADA, G.O. 18 DE JULIO DE 2017)
 
-XXI. Coordinar la integración de un padrón de servidores públicos obligados a presentar declaración de situación patrimonial;
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
+XXII. Tramitar, sustanciar y resolver los procedimientos disciplinarios o de responsabilidad administrativa derivados de las quejas y denuncias formuladas con motivo del incumplimiento de las obligaciones de los servidores públicos de las dependencias, órganos desconcentrados, delegaciones, y entidades, con relación a la declaración de situación patrimonial, fiscal y de intereses; y
 
-XXII. Tramitar, sustanciar y resolver los procedimientos disciplinarios derivados de las quejas y denuncias formuladas con motivo del incumplimiento de las obligaciones de los servidores públicos de las dependencias, órganos desconcentrados, delegaciones, y entidades, con relación a la situación patrimonial de éstos; y
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
-
-XXIII. Las demás que le instruya el Titular de la Contraloría General; las que expresamente le atribuyan este reglamento; así como las que correspondan a las Unidades Administrativas de Apoyo técnico-operativo a él adscritas; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+XXIII. Las demás que le instruya el Titular de la Contraloría General; las que expresamente le atribuyan este reglamento; así como las que correspondan a las Unidades Administrativas de Apoyo técnico-operativo a él adscritas; las que este Reglamento Interior establece para las unidades de Investigación, de Substanciación y Resolutora; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
 > <small>(ADICIONADO, G.O. 30 DE ABRIL DE 2008)</small>
 
@@ -8582,23 +8766,35 @@ XXIII. Las demás que le instruya el Titular de la Contraloría General; las que
 
 Corresponde a la Dirección de Responsabilidades y Sanciones:
 
-I. Conocer e investigar actos u omisiones de servidores públicos que pudieran afectar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben observar en el desempeño de su empleo, cargo o comisión, de los que tenga conocimiento con motivo de quejas o denuncias de los particulares o de servidores públicos, así como desahogar y resolver los procedimientos disciplinarios que de ellos se deriven, y determinar e imponer en su caso las sanciones que correspondan en los términos de las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
 
-> <small>(F. DE E., G.O. 22 DE MAYO DE 2008)</small>
+I. Conocer e investigar actos u omisiones de servidores públicos que pudieran afectar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben observar en el desempeño de su empleo, cargo o comisión, de los que tenga conocimiento con motivo de quejas o denuncias de los particulares, servidores públicos, órganos superiores de fiscalización u órganos internos de control locales y federal, así como desahogar y resolver los procedimientos disciplinarios que de ellos se deriven, y determinar e imponer en su caso las sanciones que correspondan en los términos de las disposiciones jurídicas aplicables, incluyendo cuando se trate del manejo y aplicación de recursos federales;
 
-II. Conocer e investigar actos u omisiones de servidores públicos que pudieran afectar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben observar en el desempeño de su empleo, cargo o comisión, que se desprendan de los dictámenes técnicos correctivos, realizados por la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal y de solicitudes de fincamiento de responsabilidad administrativa emitidos por la Auditoría Superior de la Federación, así como desahogar y resolver los procedimientos disciplinarios que de ellos se deriven, y determinar e imponer en su caso las sanciones que correspondan en los términos de las disposiciones jurídicas aplicables;
+II. (DEROGADA, G.O. 18 DE JULIO DE 2017)
 
-III. Conocer e investigar actos u omisiones de servidores públicos que pudieran afectar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben observar en el desempeño de su empleo, cargo o comisión, que se desprendan de las investigaciones que realice la Dirección de Quejas y Denuncias, de auditorías o revisiones practicadas por los órganos de control interno, así como desahogar y resolver los procedimientos disciplinarios que de ellos se deriven, y determinar en su caso las sanciones que correspondan en los términos de las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
 
-IV. Conocer e investigar, actos u omisiones de servidores públicos que pudieran afectar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben observar en el desempeño de su empleo, cargo o comisión, que se desprendan de la aplicación de recursos federales en términos de los convenios celebrados con autoridades federales, o de los que tenga conocimiento por cualquier otro medio, y las demás que le turne la Dirección General de Legalidad, así como desahogar y resolver los procedimientos disciplinarios que de ellos se deriven, y determinar en su caso las sanciones que correspondan en los términos de las disposiciones jurídicas aplicables;
+III. Recibir los Informes de Presunta Responsabilidad Administrativa de las áreas de auditoría e investigación de los Órganos Internos de Control, de la Auditoría Superior de la Ciudad de México, la Auditoría Superior de la Federación o de autoridad competente para la emisión de tales informes, a efecto de substanciar los procedimientos de responsabilidad administrativa que de ellos se deriven, incluyendo cuando se trate del manejo y aplicación de recursos federales y únicamente por lo que se refiere a las faltas administrativas no graves, resolver sobre la existencia de responsabilidad administrativa y en su caso imponer las sanciones correspondientes en los términos de las disposiciones jurídicas aplicables, vigilando la aplicación de las mismas.
 
-V. Substanciar y resolver los recursos de revocación que se promuevan en contra de resoluciones emitidas que impongan sanciones administrativas a los servidores públicos, en términos de las disposiciones jurídicas aplicables;
+En los procedimientos relacionados con faltas administrativas graves y faltas de particulares en los términos de la legislación de la materia, desahogar hasta la audiencia inicial del procedimiento de responsabilidad administrativa y en su caso remitir expediente al Tribunal competente para la continuación del procedimiento, de conformidad con las disposiciones jurídicas aplicables.
 
-VI. Acordar, la suspensión temporal de los servidores públicos de sus empleos, cargos o comisiones, cuando a su juicio resulte conveniente para la conducción o continuación de las investigaciones, acorde con lo dispuesto por el artículo 64 fracción IV de la Ley Federal de Responsabilidades de los Servidores Públicos;
+En los términos y bajo las condiciones previstas en las disposiciones jurídicas aplicables, podrá abstenerse de iniciar el procedimiento de responsabilidad administrativa o de imponer sanciones administrativas.
+
+IV. (DEROGADA, G.O. 18 DE JULIO DE 2017)
+
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
+
+V. Substanciar y resolver los recursos de revocación que se promuevan en contra de resoluciones emitidas que impongan sanciones administrativas a los servidores públicos, derivadas de faltas administrativas no graves, en términos de las disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
+
+VI. Acordar la procedencia de las medidas cautelares que soliciten las autoridades investigadoras, en términos de lo dispuesto por las disposiciones jurídicas aplicables;
 
 VII. Expedir previo cotejo, copias certificadas de los documentos que obren en sus archivos, así como de aquellos a los cuales se tenga acceso con motivo del desempeño de sus funciones;
 
-VIII. Requerir de acuerdo a la naturaleza de sus funciones, información y documentación a las dependencias, unidades administrativas, órganos político-administrativos, los órganos desconcentrados, entidades de la Administración Pública, Órganos de Control Interno, Contaduría Mayor de Hacienda de la Asamblea Legislativa, Auditoría Superior de la Federación, autoridades judiciales y administrativas locales y federales, órganos autónomos por ley, así como a proveedores, contratistas y prestadores de servicio, cuando lo estime conveniente;
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
+
+VIII. Requerir de acuerdo a la naturaleza de sus funciones, información y documentación a las dependencias, unidades administrativas, órganos político-administrativos, órganos desconcentrados, entidades de la Administración Pública, Órganos Internos de Control, Auditoría Superior de la Ciudad de México, Auditoría Superior de la Federación, autoridades judiciales y administrativas locales y federales, órganos autónomos por ley, así como a proveedores, contratistas, prestadores de servicios y personas físicas, morales o colectivas, cuando lo estime conveniente;
 
 IX. Conocer, investigar y resolver sobre los actos u omisiones que pudieran constituir responsabilidad administrativa, que se desprendan de los expedientes de investigación o de los Procedimientos Administrativos Disciplinarios que le sean turnados por la Dirección General de Asuntos Jurídicos y Responsabilidades, en ejercicio de la facultad de atracción, prevista por los artículos 57 y 62 de la Ley Federal de Responsabilidades de los Servidores Públicos;
 
@@ -8618,9 +8814,25 @@ XIII. Ejercer la facultad de atracción prevista por los artículos 57 y 62 de l
 
 XIV. Habilitar al personal de su unidad administrativa técnico operativa como notificadores, para el desempeño de sus funciones;
 
-> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
 
-XV. Las demás que le instruya el Titular de la Dirección General de Asuntos Jurídicos y Responsabilidades; las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+XV. Substanciar y resolver los incidentes que se interpongan en los procedimientos de responsabilidad administrativa que tenga instaurados, en términos de lo dispuesto en las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, G.O. 18 DE JULIO DE 2017)</small>
+
+XVI. Conocer del recurso de reclamación que se promuevan (sic) en contra de las resoluciones dictadas por esta autoridad que admitan, desechen o tengan por no presentado el Informe de Presunta Responsabilidad Administrativa, la contestación o alguna prueba; las que decreten o nieguen el sobreseimiento del procedimiento de responsabilidad administrativa antes del cierre de instrucción; y aquéllas que admitan o rechacen la intervención del tercero interesado; asimismo, correr traslado a la contraparte para los efectos señalados en la legislación aplicable y dar cuenta del recurso al Tribunal competente para su resolución;
+
+> <small>(ADICIONADA, G.O. 18 DE JULIO DE 2017)</small>
+
+XVII. Conocer de los expedientes enviados por el Tribunal correspondiente, en los que este haya resuelto que la falta descrita en el Informe de Presunta Responsabilidad Administrativa no sea de las consideradas como graves, a efecto de continuar con el procedimiento de responsabilidad administrativa en términos de las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, G.O. 18 DE JULIO DE 2017)</small>
+
+XVIII. Promover la acción resarcitoria ante la Procuraduría Fiscal de la Ciudad de México, respecto de aquellos procedimientos de responsabilidad administrativa en los que se determine mediante resolución firme, que el o los servidores públicos que resulten responsables de haber causado daños o perjuicios a la Hacienda Pública de la Ciudad de México; y
+
+> <small>(ADICIONADA, G.O. 18 DE JULIO DE 2017)</small>
+
+XIX. Las demás que le instruya el Titular de la Dirección General de Asuntos Jurídicos y Responsabilidades, las demás atribuciones conferidas a la autoridad substanciadora y resolutora señaladas en la Ley General de Responsabilidades Administrativas, las que este Reglamento Interior establece para las unidades de Substanciación y Resolutora; y las que le otorguen otros ordenamientos jurídicos o administrativos aplicables.
 
 > <small>(ADICIONADO, G.O. 30 DE ABRIL DE 2008)</small>
 
@@ -8630,31 +8842,61 @@ Corresponde a la Dirección de Quejas y Denuncias.
 
 I. Captar, recibir y resolver sobre la procedencia de las quejas y denuncias por actos u omisiones de los servidores públicos que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben observar en el desempeño de su empleo, cargo o comisión; y en su caso, remitirlas a los órganos de control interno competentes, para su atención, pudiendo solicitar la información del seguimiento de las mismas;
 
-II. Captar, recibir y resolver sobre la procedencia de las quejas y denuncias por actos u omisiones de los servidores públicos adscritos a las unidades administrativas, unidades administrativas de apoyo técnico operativo y órganos de control interno adscritos técnica y funcionalmente a la Contraloría General, que pudieran afectar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben observar en el desempeño de su empleo, cargo o comisión;
+> <small>(ADICIONADA, G.O. 18 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+I A. Captar, conocer y recibir denuncias y auditorías practicadas por la Auditoría Superior de la Ciudad de México, la Auditoría Superior de la Federación, los Órganos Internos de Control y cualquier autoridad competente sobre actos u omisiones de servidores públicos de la Administración Pública de la Ciudad de México, que pudieran afectar los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que deben observar en el desempeño de su empleo, cargo, función y mandato, a efecto de investigar la existencia o inexistencia de actos u omisiones que la Ley en materia de responsabilidades administrativas señale como falta administrativa;
 
-III. Orientar al interesado para la presentación de quejas y denuncias por incumplimiento de las obligaciones de los servidores públicos, así como realizar las investigaciones, practicar las diligencias o actuaciones que resulten necesarias para la debida integración de los expedientes relacionados con las quejas y denuncias presentadas por particulares o servidores públicos; cuando lo aprecie conveniente solicitar el apoyo de las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal, para que en el ámbito de sus facultades contribuyan a las investigaciones;
+> <small>(ADICIONADA, G.O. 18 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
+I B. Calificar la falta administrativa como grave o no grave y emitir el informe de presunta responsabilidad administrativa; o en su caso emitir Acuerdo de Conclusión y Archivo del expediente al no encontrar elementos suficientes para demostrar la existencia de la infracción y la presunta responsabilidad del infractor;
 
-IV. Realizar acciones de verificación, supervisión, revisión, inspección y visita, en aquellas dependencias, unidades administrativas, órganos político administrativos, los órganos desconcentrados y entidades de la administración pública que se determine conveniente; o en cualquier lugar del Distrito Federal, cuando los efectos de los actos o conductas de los servidores públicos trasciendan de los lugares de cada oficina pública; previo acuerdo con la Dirección General de Asuntos Jurídicos y Responsabilidades; para prevenir, conocer y corregir conductas o actos de los servidores públicos contrarios a los principios que rigen la función pública del Distrito Federal; para el buen despacho de lo anterior, dispondrá del apoyo de cualquier servidor público del Distrito Federal, previo oficio de comisión con el fin de lograr los objetivos precisados;
+> <small>(ADICIONADA, G.O. 18 DE JULIO DE 2017)</small>
+
+I C. Llevar de oficio las investigaciones debidamente fundadas y motivadas respecto a conductas de los servidores públicos que puedan constituir responsabilidad administrativa en términos de las disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
+
+II. Captar, conocer y recibir quejas o denuncias sobre actos u omisiones de servidores públicos adscritos a las unidades administrativas, unidades administrativas de apoyo técnico operativo y órganos internos de control adscritos técnica y funcionalmente a la Contraloría General que pudieran afectar los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que deben observar en el desempeño de su empleo, cargo, función y mandato, a efecto de investigar la existencia o inexistencia de actos u omisiones que la Ley en materia de responsabilidades administrativas señale como falta administrativa.
+
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
+
+III. Orientar al interesado para la presentación de quejas y denuncias por incumplimiento de las obligaciones de los servidores públicos, así como realizar las investigaciones, en las cuales se podrá incorporar las técnicas, tecnologías y métodos de investigación que observen las mejores prácticas internacionales; practicar las diligencias, inspecciones o actuaciones que resulten necesarias bajo los principios de legalidad, imparcialidad, objetividad, congruencia, verdad material y respeto a los derechos humanos para la debida integración de los expedientes de presunta responsabilidad administrativa relacionados con las denuncias presentadas por particulares o servidores públicos; cuando lo aprecie conveniente solicitar el apoyo de las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública (sic) Ciudad de México, para que en el ámbito de sus facultades contribuyan a las investigaciones;
+
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
+
+IV. Realizar acciones de verificación, supervisión, revisión, inspección y visita, en aquellas dependencias, unidades administrativas, órganos político administrativos, órganos desconcentrados y entidades de la administración pública que se determine conveniente; o en cualquier lugar de la Ciudad de México, cuando los efectos de los actos o conductas de los servidores públicos trasciendan de los lugares de cada oficina pública; previo acuerdo con la Dirección General de Asuntos Jurídicos y Responsabilidades; para investigar, prevenir, conocer y corregir conductas o actos de los servidores públicos contrarios a los principios que rigen la función pública de la Ciudad de México; para el buen despacho de lo anterior, dispondrá del apoyo de cualquier servidor público de la Ciudad de México, previo oficio de comisión con el fin de lograr los objetivos precisados;
 
 V. Expedir previo cotejo, copias certificadas de los documentos que obren en sus archivos, así como de aquellos a los cuales se tenga acceso con motivo del desempeño de sus funciones;
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
 
-VI. Requerir de acuerdo a la naturaleza de sus funciones, la colaboración, información y documentación a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, los Órganos Desconcentrados y Entidades de la Administración Pública y Órganos de Control Interno, de las instituciones públicas locales y/o federales, así como a proveedores, arrendadores, prestadores de servicios, contratistas, supervisores externos, concesionarios, permisionarios, o cualquier otro que intervenga en las adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos, enajenaciones y todos los que tengan alguna participación en los procedimientos previstos en el marco jurídico del Distrito Federal;
+VI. Requerir de acuerdo a la naturaleza de sus funciones, y en términos de las disposiciones jurídicas aplicables la colaboración, información y documentación a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, los Órganos Desconcentrados y Entidades de la Administración Pública y Órganos de Control Interno, de las instituciones públicas locales y/o federales, así como a proveedores, arrendadores, prestadores de servicios, contratistas, supervisores externos, concesionarios, permisionarios, o cualquier otro que intervenga en las adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos, enajenaciones y todos los que tengan alguna participación en los procedimientos previstos en el marco jurídico de la Ciudad de México;
+
+Además, se tendrá acceso a la información necesaria para el esclarecimiento de los hechos, con inclusión de aquélla que las disposiciones legales en la materia consideren con carácter de reservada o confidencial, siempre que esté relacionada con la comisión de infracciones a que se refiere la Ley General de Responsabilidades Administrativas, con la obligación de mantener la misma reserva o secrecía, conforme a lo que determinen las leyes.
 
 VII. Conciliar con los servidores públicos o titulares de las Unidades Administrativas señaladas en la queja o denuncia, cuando se considere conveniente a los intereses del quejoso o denunciante, para una eficiente y ágil solución al problema, siempre que no constituya un perjuicio a la Administración Pública, y sin demérito de la posible comisión de irregularidades administrativas;
 
 VIII. Notificar a los quejosos o denunciantes del resultado obtenido de las investigaciones;
 
+> <small>(ADICIONADA, G.O. 18 DE JULIO DE 2017)</small>
+
+VIII Bis. Notificar a los denunciantes, cuando estos sean identificables, así como a los servidores públicos y particulares sujetos de investigación, el resultado obtenido de las investigaciones;
+
+Asimismo, notificar al denunciante, cuando este fuere identificable, la calificación de los hechos como faltas administrativas no graves, en los términos establecidos en las disposiciones jurídicas aplicables.
+
 IX. Promover el fincamiento de responsabilidades administrativas ante la Dirección de Responsabilidades y Sanciones, proporcionando los elementos y constancias que se hubiesen generado en la labor de investigación de las quejas o denuncias captadas;
+
+> <small>(ADICIONADA, G.O. 18 DE JULIO DE 2017)</small>
+
+IX Bis. Remitir el Informe de Presunta Responsabilidad Administrativa a la Dirección de Responsabilidades y Sanciones, así como el expediente integrado con motivo de la investigación a efecto de que se inicie el Procedimiento de Responsabilidad Administrativa a que se refiere la Ley General de Responsabilidades Administrativas y la normatividad local aplicable;
 
 X. Establecer recomendaciones obligatorias e indicadores de gestión a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública, con motivo de las Quejas y Denuncias, así como requerir información y evidencia, respecto a las medidas preventivas y correctivas instrumentadas para el debido cumplimiento de las recomendaciones y sus indicadores de gestión;
 
 XI. Acordar, la suspensión temporal de los servidores públicos de sus empleos, cargos o comisiones, cuando a su juicio resulte conveniente para la conducción o continuación de las investigaciones, acorde con lo dispuesto por el artículo 64 fracción IV de la Ley Federal de Responsabilidades de los Servidores Públicos;
+
+> <small>(ADICIONADA, G.O. 18 DE JULIO DE 2017)</small>
+
+XI Bis. Solicitar a las unidades substanciadora o resolutora que decrete las medidas cautelares conforme a las disposiciones jurídicas y administrativas aplicables;
 
 XII. Conocer, investigar y resolver sobre los actos y omisiones que pudieran constituir responsabilidad administrativa, que se desprendan de los expedientes de investigación, que le sean turnados por la Dirección General de Asuntos Jurídicos y Responsabilidades, en el ejercicio de la facultad de atracción, prevista por los artículos 57 y 62 de la Ley Federal de Responsabilidades de los Servidores Públicos;
 
@@ -8668,9 +8910,29 @@ XIV. Ejercer la facultad de atracción prevista por los artículos 57 y 62 de la
 
 XV. Habilitar al personal de su unidad administrativa técnico operativa como notificadores, para el desempeño de sus funciones;
 
-> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
 
-XVI. Las demás que le instruya el Titular de la Dirección General de Asuntos Jurídicos y Responsabilidades; las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+XVI. Decretar los medios de apremio señaladas (sic) en la Ley General de Responsabilidades Administrativas y normatividad local aplicable;
+
+> <small>(ADICIONADA, G.O. 18 DE JULIO DE 2017)</small>
+
+XVII. Intervenir en los Procedimientos de Responsabilidad Administrativas (sic) en los que sea parte de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+> <small>(ADICIONADA, G.O. 18 DE JULIO DE 2017)</small>
+
+XVIII. Administrar el sistema electrónico relacionado con denuncias y faltas administrativas que integrará las Plataformas Digitales de los Sistemas Anticorrupción Nacional y Local;
+
+> <small>(ADICIONADA, G.O. 18 DE JULIO DE 2017)</small>
+
+XIX. Conocer de los recursos de inconformidad presentados por los denunciantes o quejosos respecto a la calificación de faltas no graves y correr traslado, adjuntando el expediente respectivo y un informe en el que justifique la calificación impugnada a la Sala Especializada en materia de Responsabilidades Administrativas que corresponda, para su resolución;
+
+> <small>(ADICIONADA, G.O. 18 DE JULIO DE 2017)</small>
+
+XX. Todas las demás atribuciones conferidas a la autoridad investigadora señaladas en las disposiciones jurídicas y administrativas aplicables; y
+
+> <small>(ADICIONADA, G.O. 18 DE JULIO DE 2017)</small>
+
+XXI. Las demás que le instruya el Titular de la Dirección General de Asuntos Jurídicos y Responsabilidades, las demás atribuciones conferidas a la autoridad investigadora señaladas en la Ley General de Responsabilidades Administrativas, las que este Reglamento Interior establece para las unidades de investigación; y las que le otorguen otros ordenamientos jurídicos o administrativos aplicables.
 
 > <small>(ADICIONADO, G.O. 30 DE ABRIL DE 2008)</small>
 
@@ -8846,9 +9108,9 @@ XV. Suspender temporal o definitivamente, declarar la nulidad y reposición, en 
 
 XVI. Instruir a las Dependencias y Órganos Desconcentrados de la Administración Pública, a suspender temporal o definitivamente, revocar, rescindir o terminar anticipadamente los contratos, convenios, pagos, y demás instrumentos jurídicos y administrativos, en materia de adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos, enajenación y adquisición de bienes muebles e inmuebles, así como todos aquellos previstos en el marco normativo, incluyendo todas las consecuencias administrativas o legales que de éstos resulten, derivado de las irregularidades o inconsistencias detectadas en las revisiones, auditorías, verificaciones, visitas, inspecciones, quejas, denuncias, intervenciones, participaciones o que por cualquier medio se tenga conocimiento;
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
 
-XVII. Solicitar a las dependencias, órganos desconcentrados, delegaciones, entidades, e Instituciones Públicas Locales y Federales, así como a las Instituciones Financieras a que se refiere el artículo 2° fracción IV de la Ley de Protección y Defensa al Usuario de Servicios Financieros, a través de la Comisión Nacional Bancaria y de Valores, la información fiscal, inmobiliaria, bancaria, financiera o de cualquier otro tipo, relacionada con los servidores públicos, sus cónyuges, convivientes, concubinos y dependientes económicos directos, para la investigación y, en su caso, el fincamiento de responsabilidad administrativa, así como de los que se encuentren involucrados en procedimientos administrativos en los que se detecte la existencia de daño patrimonial;
+XVII. Solicitar a las Instituciones competentes información fiscal, inmobiliaria, bancaria, financiera o de cualquier otro tipo, relacionada con los servidores públicos, sus cónyuges, concubinos y dependientes económicos directos, así como de personas físicas, morales y colectivas, con la finalidad de llevar a cabo investigación, substanciación y resolución de procedimientos de Responsabilidad Administrativa de conformidad con las disposiciones de la legislación sobre sistemas anticorrupción y responsabilidades;
 
 > <small>(REFORMADA, G.O. 17 DE JUNIO DE 2011)</small>
 
@@ -8866,11 +9128,11 @@ XX. Establecer lineamientos generales, en coordinación con las Direcciones Gene
 
 XXI. Ordenar a los órganos de control interno que correspondan a esta Dirección General la ejecución de auditorías, tanto ordinarias como extraordinarias a las dependencias y órganos desconcentrados de la Administración Pública del Distrito Federal.
 
-Asimismo, ordenar y ejecutar directamente, y/o a través de las Direcciones Ejecutivas de Contralorías Internas en Dependencias y Órganos Desconcentrados “A y B”, auditorías de todo tipo, a fin de promover tanto la eficiencia de las operaciones de las Dependencias y Órganos Desconcentrados, así como verificar el cumplimiento de sus objetivos, y de las disposiciones legales, reglamentarias y administrativas vigentes en materia de: adquisiciones, servicios y arrendamientos; recursos humanos, obra pública y servicios relacionados con la misma, activos fijos, vehículos, recursos materiales, bienes muebles e inmuebles, almacenes, inventarios, egresos, gasto de inversión, ingresos, disponibilidades, pasivos, contabilidad, gasto corriente, control presupuestal, pagos, cuentas por liquidar certificadas, sistema de información y registro, estadística, organización, procedimientos, planeación, programación, presupuestación, deuda pública, aportaciones o transferencias locales y federales, en términos de las disposiciones jurídicas y administrativas aplicables; así como en todos aquellos previstos en el marco normativo;
+Asimismo, ordenar y ejecutar directamente, y/o a través de las Direcciones Ejecutivas de Contralorías Internas en Dependencias y Órganos Desconcentrados "A y B", auditorías de todo tipo, a fin de promover tanto la eficiencia de las operaciones de las Dependencias y Órganos Desconcentrados, así como verificar el cumplimiento de sus objetivos, y de las disposiciones legales, reglamentarias y administrativas vigentes en materia de: adquisiciones, servicios y arrendamientos; recursos humanos, obra pública y servicios relacionados con la misma, activos fijos, vehículos, recursos materiales, bienes muebles e inmuebles, almacenes, inventarios, egresos, gasto de inversión, ingresos, disponibilidades, pasivos, contabilidad, gasto corriente, control presupuestal, pagos, cuentas por liquidar certificadas, sistema de información y registro, estadística, organización, procedimientos, planeación, programación, presupuestación, deuda pública, aportaciones o transferencias locales y federales, en términos de las disposiciones jurídicas y administrativas aplicables; así como en todos aquellos previstos en el marco normativo;
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
 
-XXII. Formular observaciones directamente o a través de las contralorías internas y unidades de apoyo técnico-operativo que le correspondan, que se deriven de las auditorías, revisiones, inspecciones, visitas o verificaciones; emitir las recomendaciones preventivas y correctivas correspondientes y en su caso, propuestas de mejora; dar un seguimiento sistemático a las mismas, así como determinar su solventación, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+XXIII. Proporcionar a las unidades competentes de la Contraloría General, los elementos y constancias que se hubiesen generado en la práctica de revisiones, inspecciones, visitas y verificaciones, así como de las auditorías, sus observaciones y recomendaciones, a efecto de que se proceda en términos de la legislación de Responsabilidades Administrativas por los actos u omisiones de las personas servidoras públicas que pudieran constituir falta administrativa;
 
 > <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
@@ -8894,7 +9156,9 @@ XXVII. (DEROGADA, G.O. 17 DE JUNIO DE 2011)
 
 XXVIII. De la práctica de auditorías especializadas, requerir de acuerdo a la naturaleza de sus funciones, información y documentación a proveedores, arrendadores, prestadores de servicios, contratistas, supervisores externos, concesionarios, permisionarios, o cualesquiera otros que intervengan en los procedimientos previstos en el marco jurídico del Distrito Federal.
 
-XXIX. A petición de la Dirección General de Asuntos Jurídicos y Responsabilidades o de la Dirección de Situación Patrimonial, ordenar a las contralorías internas que correspondan, la práctica de las auditorías y visitas de inspección a los servidores públicos de las Dependencias y Órganos Desconcentrados de la Administración Pública del Distrito Federal, para los efectos a que alude el artículo 84 de la Ley Federal de Responsabilidades de los Servidores Públicos;
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
+
+XXIX.- Ordenar a los órganos internos de control que corresponda, la práctica de las auditorías, en colaboración con las unidades de investigación de Responsabilidades Administrativas de la Contraloría General, así como supervisar, evaluar, autorizar, ordenar, requerir y en general, dirigir el ejercicio de atribuciones de éstos, en materia de Responsabilidades Administrativas y Anticorrupción;
 
 > <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
@@ -8926,7 +9190,9 @@ XXXVII. Supervisar la aplicación de los criterios técnicos que deben reunir lo
 
 XXXVIII. Establecer las bases de selección del personal de las unidades administrativas de apoyo técnico-operativo y de las contralorías internas que correspondan, conjuntamente con las Direcciones Generales de Contralorías Internas en Delegaciones, y en Entidades, y específicamente en materia de quejas, denuncias y responsabilidades, con la Dirección General de Asuntos Jurídicos y Responsabilidades, conforme a los requisitos que determine el Titular de la Contraloría General;
 
-XXXIX. Planear y definir, conjuntamente con las Direcciones Generales de Contralorías Internas en Delegaciones, en Entidades, Legalidad, y Asuntos Jurídicos y Responsabilidades, los programas de capacitación jurídica para el personal de las áreas de responsabilidades de las contralorías internas y de la Contraloría General; y
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
+
+XXXIX. Planear y definir, conjuntamente con las Direcciones Generales de Contralorías Internas en Delegaciones, en Entidades, Legalidad, y Asuntos Jurídicos y Responsabilidades, los programas de capacitación jurídica para el personal responsable de la investigación, substanciación y resolución de procedimientos de Responsabilidad Administrativa de la Contraloría General;
 
 > <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
 
@@ -8944,7 +9210,7 @@ XLII. Las demás que le instruya el Titular de la Contraloría General; las que 
 
 ###### Artículo 107.
 
-Corresponde a las Direcciones Ejecutivas de Contralorías Internas en Dependencias y Órganos Desconcentrados “A” y “B”:
+Corresponde a las Direcciones Ejecutivas de Contralorías Internas en Dependencias y Órganos Desconcentrados "A" y "B":
 
 I. Coordinar a las Contralorías Internas y demás unidades de apoyo técnico-operativo que las integran en las Dependencias y Órganos Desconcentrados de la Administración Pública del Distrito Federal, y requerir la información necesaria para supervisar las actividades de las mismas;
 
@@ -9006,9 +9272,9 @@ XXIX. Ejecutar auditorias ordinarias y extraordinarias, revisiones, verificacion
 
 XXX. Formular observaciones que se deriven de las auditorías, emitir las recomendaciones preventivas y correctivas correspondientes, dar seguimiento sistemático a las mismas, determinar su solventación; de conformidad con las disposiciones jurídicas y administrativas aplicables;
 
-XXXI. Turnar a las Contralorías Internas o la Dirección General de Asuntos Jurídicos y Responsabilidades los resultados de las auditorías practicadas que hubiesen tenido observaciones que impliquen probable responsabilidad de los servidores públicos y solicitar se finquen sanciones proporcionando los elementos y constancias que se hubiesen generado en la práctica de auditorías, y sus observaciones y recomendaciones, al incurrir el auditado en la falta de atención y solventación de las mismas.
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
 
-Asimismo, tratándose de revisiones, inspecciones, visitas y verificaciones, al detectar infracciones o faltas que se consideran implican desatención de disposiciones normativas y que por ello inciden en los ámbitos de responsabilidad de servidores públicos;
+XXXI. Proporcionar a las unidades competentes de la Contraloría General, los elementos y constancias que se hubiesen generado en la práctica de revisiones, inspecciones, visitas y verificaciones, así como de las auditorías, sus observaciones y recomendaciones, a efecto de que se proceda en términos de la legislación de Responsabilidades Administrativas por los actos u omisiones de las personas servidoras públicas que pudieran constituir falta administrativa;
 
 XXXII. Las demás que le instruya el titular de la Dirección General de Contralorías Internas en Dependencias y Órganos Desconcentrados; las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
@@ -9076,9 +9342,9 @@ XII. Suspender temporal o definitivamente, declarar la nulidad y reposición, en
 
 XIII. Instruir a las Delegaciones de la Administración Pública, a suspender temporal o definitivamente, revocar, rescindir o terminar anticipadamente los contratos, convenios, pagos, y demás instrumentos jurídicos y administrativos, en materia de adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos, enajenación y adquisición de bienes muebles e inmuebles, así como todos aquellos previstos en el marco normativo, incluyendo todas las consecuencias administrativas o legales que de éstos resulten, derivado de las irregularidades o inconsistencias detectadas en las revisiones, auditorías, verificaciones, visitas, inspecciones, quejas, denuncias, intervenciones, participaciones o que por cualquier medio se tenga conocimiento;
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
 
-XIV. Solicitar a las dependencias, órganos desconcentrados, delegaciones, entidades, e Instituciones Públicas Locales y Federales, así como a las Instituciones Financieras a que se refiere el artículo 2° fracción IV de la Ley de Protección y Defensa al Usuario de Servicios Financieros, a través de la Comisión Nacional Bancaria y de Valores, la información fiscal, inmobiliaria, bancaria, financiera o de cualquier otro tipo, relacionada con los servidores públicos, sus cónyuges, convivientes, concubinos y dependientes económicos directos, para la investigación y, en su caso, el fincamiento de responsabilidad administrativa, así como de los que se encuentren involucrados en procedimientos administrativos en los que se detecte la existencia de daño patrimonial;
+XIV. Solicitar a las Instituciones competentes información fiscal, inmobiliaria, bancaria, financiera o de cualquier otro tipo, relacionada con los servidores públicos, sus cónyuges, concubinos y dependientes económicos directos, así como de personas físicas, morales y colectivas, con la finalidad de llevar a cabo investigación, substanciación y resolución de procedimientos de Responsabilidad Administrativa de conformidad con las disposiciones de la legislación sobre sistemas anticorrupción y responsabilidades;
 
 > <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
@@ -9100,13 +9366,9 @@ XVIII. Ordenar la ejecución de auditorías, tanto ordinarias como extraordinari
 
 XIX. Formular observaciones directamente o a través de las contralorías internas y unidades de apoyo técnico-operativo que le correspondan, que se deriven de las auditorías, revisiones, inspecciones, visitas o verificaciones; emitir las recomendaciones preventivas y correctivas correspondientes; dar un seguimiento sistemático a las mismas; determinar su solventación; de conformidad con las disposiciones jurídicas y administrativas aplicables;
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
 
-XX. Solicitar se finquen responsabilidades ante las Contralorías Internas o la Dirección General de Asuntos Jurídicos y Responsabilidades, según corresponda, proporcionando los elementos y constancias que se hubiesen generado en la práctica de auditorías y sus observaciones y recomendaciones, al incurrir el auditado en la falta de atención y solventación de las mismas.
-
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
-
-Asimismo, tratándose de revisiones, inspecciones, visitas y verificaciones, al detectar infracciones o faltas que se consideran implican desatención de disposiciones normativas y que por ello inciden en los ámbitos de responsabilidad de servidores públicos;
+XX. Proporcionar a las unidades competentes de la Contraloría General, los elementos y constancias que se hubiesen generado en la práctica de revisiones, inspecciones, visitas y verificaciones, así como de las auditorías, sus observaciones y recomendaciones, a efecto de que se proceda en términos de la legislación de Responsabilidades Administrativas por los actos u omisiones de las personas servidoras públicas que pudieran constituir falta administrativa;
 
 > <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
@@ -9116,9 +9378,9 @@ XXI. Fiscalizar, a través de auditorías y revisiones, el ejercicio de los recu
 
 XXII. Coadyuvar con los órganos de fiscalización federales y locales, de conformidad con las disposiciones jurídicas y administrativas aplicables;
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
 
-XXIII. A petición de la Dirección General de Asuntos Jurídicos y Responsabilidades o de la Dirección de Situación Patrimonial, ordenar a las contralorías internas que correspondan, la práctica de las auditorías y visitas de inspección a los servidores públicos de las Delegaciones de la Administración Pública del Distrito Federal, para los efectos a que alude el artículo 84 de la Ley Federal de Responsabilidades de los Servidores Públicos;
+XXIII. Ordenar a los órganos internos de control que corresponda, la práctica de las auditorías, en colaboración con las unidades de investigación de Responsabilidades Administrativas de la Contraloría General, así como supervisar, evaluar, autorizar, ordenar, requerir y en general, dirigir el ejercicio de atribuciones de éstos, en materia de Responsabilidades Administrativas y Anticorrupción;
 
 > <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
@@ -9152,9 +9414,9 @@ XXX. Supervisar la aplicación de los criterios técnicos que deben reunir los e
 
 XXXI. Establecer las bases de selección del personal de las unidades administrativas de apoyo técnico-operativo y de las contralorías internas que correspondan, conjuntamente con las Direcciones Generales de Contralorías Internas en Dependencias y Órganos Desconcentrados, y en Entidades, y específicamente en materia de quejas, denuncias y responsabilidades, con la Dirección General de Asuntos Jurídicos y Responsabilidades, conforme a los requisitos que determine el Titular de la Contraloría General;
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
 
-XXXII. Planear y definir, conjuntamente con las Direcciones Generales de Contralorías Internas en Dependencias y Órganos Desconcentrados, en Entidades, de Legalidad, y de Asuntos Jurídicos y Responsabilidades, los programas de capacitación jurídica y de auditoría para el personal de las Contralorías Internas y de la Contraloría General;
+XXXII. Planear y definir, conjuntamente con las Direcciones Generales de Contralorías Internas en Dependencias y Órganos Desconcentrados, en Entidades, de Legalidad, y de Asuntos Jurídicos y Responsabilidades, los programas de capacitación jurídica para el personal responsable de la investigación, substanciación y resolución de procedimientos de Responsabilidad Administrativa de la Contraloría General;
 
 > <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
@@ -9208,11 +9470,9 @@ XI. Enviar, previo acuerdo con el titular de la Dirección General, a las Contra
 
 XII. Informar periódicamente a la Dirección General de Contralorías Internas en Delegaciones, sobre los asuntos de los órganos de control interno que les correspondan, relacionados con los resultados de sus funciones, para una adecuada toma de decisiones;
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
 
-XIII. Turnar a las Contralorías Internas o la Dirección General de Asuntos Jurídicos y Responsabilidades los resultados de las auditorías practicadas que hubiesen tenido observaciones que impliquen probable responsabilidad de los servidores públicos y solicitar se finquen sanciones proporcionando los elementos y constancias que se hubiesen generado en la práctica de auditorías, y sus observaciones y recomendaciones, al incurrir el auditado en la falta de atención y solventación de las mismas.
-
-Asimismo, tratándose de revisiones, inspecciones, visitas y verificaciones, al detectar infracciones o faltas que se consideran implican desatención de disposiciones normativas y que por ello inciden en los ámbitos de responsabilidad de servidores públicos;
+XIII. Proporcionar a las unidades competentes de la Contraloría General, los elementos y constancias que se hubiesen generado en la práctica de revisiones, inspecciones, visitas y verificaciones, así como de las auditorías, sus observaciones y recomendaciones, a efecto de que se proceda en términos de la legislación de Responsabilidades Administrativas por los actos u omisiones de las personas servidoras públicas que pudieran constituir falta administrativa;
 
 > <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
@@ -9320,9 +9580,9 @@ X. Revisar y analizar en coordinación con las Direcciones de Contralorías Inte
 
 XI. Asistir y participar en los Comités, Subcomités de obra y demás Cuerpos Colegiados establecidos en las Delegaciones y en el subcomité técnico de coordinación de obras públicas del Distrito Federal en los términos que determinen los lineamientos aplicables;
 
-XII. Turnar a las Contralorías Internas o la Dirección General de Asuntos Jurídicos y Responsabilidades los resultados de las auditorías practicadas que hubiesen tenido observaciones que impliquen probable responsabilidad de los servidores públicos y solicitar se finquen sanciones proporcionando los elementos y constancias que se hubiesen generado en la práctica de auditorías, y sus observaciones y recomendaciones, al incurrir el auditado en la falta de atención y solventación de las mismas.
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
 
-Asimismo, tratándose de revisiones, inspecciones, visitas y verificaciones, al detectar infracciones o faltas que se consideran implican desatención de disposiciones normativas y que por ello inciden en los ámbitos de responsabilidad de servidores públicos; y
+XII. Proporcionar a las unidades competentes de la Contraloría General, los elementos y constancias que se hubiesen generado en la práctica de revisiones, inspecciones, visitas y verificaciones, así como de las auditorías, sus observaciones y recomendaciones, a efecto de que se proceda en términos de la legislación de Responsabilidades Administrativas por los actos u omisiones de las personas servidoras públicas que pudieran constituir falta administrativa;
 
 XIII. Las demás que le instruya el titular de la Dirección General de Contralorías Internas en Delegaciones; las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
@@ -9386,9 +9646,9 @@ XV. Suspender temporal o definitivamente, declarar la nulidad y reposición, en 
 
 XVI. Instruir a las Entidades de la Administración Pública, a suspender temporal o definitivamente, revocar, rescindir o terminar anticipadamente los contratos, convenios, pagos, y demás instrumentos jurídicos y administrativos, en materia de adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos, enajenación y adquisición de bienes muebles e inmuebles, así como todos aquellos previstos en el marco normativo, incluyendo todas las consecuencias administrativas o legales que de éstos resulten, derivado de las irregularidades o inconsistencias detectadas en las revisiones, auditorías, verificaciones, visitas, inspecciones, quejas, denuncias, intervenciones, participaciones o que por cualquier medio se tenga conocimiento;
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
 
-XVII. Solicitar a las dependencias, órganos desconcentrados, delegaciones, entidades e Instituciones Públicas Locales y Federales, así como a las Instituciones Financieras a que se refiere el artículo 2° fracción IV de la Ley de Protección y Defensa al Usuario de Servicios Financieros, a través de la Comisión Nacional Bancaria y de Valores, la información fiscal, inmobiliaria, bancaria, financiera o de cualquier otro tipo, relacionada con los servidores públicos, sus cónyuges, convivientes, concubinos y dependientes económicos directos, para la investigación y, en su caso, el fincamiento de responsabilidad administrativa, así como de los que se encuentren involucrados en procedimientos administrativos en los que se detecte la existencia de daño patrimonial;
+XVII. Solicitar a las Instituciones competentes información fiscal, inmobiliaria, bancaria, financiera o de cualquier otro tipo, relacionada con los servidores públicos, sus cónyuges, concubinos y dependientes económicos directos, así como de personas físicas, morales y colectivas, con la finalidad de llevar a cabo investigación, substanciación y resolución de procedimientos de Responsabilidad Administrativa de conformidad con las disposiciones de la legislación sobre sistemas anticorrupción y responsabilidades;
 
 > <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
@@ -9408,11 +9668,9 @@ XXI. (DEROGADA, G.O. 28 DE FEBRERO DE 2014)
 
 XXII. Formular observaciones directamente o a través de las contralorías internas y unidades de apoyo técnico-operativo que le correspondan, que se deriven de las auditorías, revisiones, inspecciones, visitas o verificaciones; emitir las recomendaciones preventivas y correctivas correspondientes; dar un seguimiento sistemático a las mismas; determinar su solventación; de conformidad con las disposiciones jurídicas y administrativas aplicables;
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
 
-XXIII. Solicitar se finquen responsabilidades ante las Contralorías Internas o la Dirección General de Asuntos Jurídicos y Responsabilidades, según corresponda, proporcionando los elementos y constancias que se hubiesen generado en la práctica de auditorías y sus observaciones y recomendaciones, al incurrir el auditado en la falta de atención y solventación de las mismas.
-
-Asimismo, tratándose de revisiones, inspecciones, visitas y verificaciones, al detectar infracciones o faltas que se consideran implican desatención de disposiciones normativas y por ello inciden en los ámbitos de responsabilidad de servidores públicos;
+XXIII. Proporcionar a las unidades competentes de la Contraloría General, los elementos y constancias que se hubiesen generado en la práctica de revisiones, inspecciones, visitas y verificaciones, así como de las auditorías, sus observaciones y recomendaciones, a efecto de que se proceda en términos de la legislación de Responsabilidades Administrativas por los actos u omisiones de las personas servidoras públicas que pudieran constituir falta administrativa;
 
 > <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
@@ -9430,7 +9688,9 @@ XXVI. Supervisar el cumplimiento de los Lineamientos emitidos por la Contralorí
 
 XXVII. Proponer al Contralor General la contratación de los auditores externos, con base en los procedimientos de transparencia establecidos y supervisar el desarrollo y resultado de las actividades de auditoría y fiscalización encomendadas a los auditores externos;
 
-XXVIII. A petición de la Dirección General de Asuntos Jurídicos y Responsabilidades o de la Dirección de Situación Patrimonial, ordenar a las contralorías internas que correspondan, la práctica de las auditorías y visitas de inspección a los servidores públicos de las Entidades de la Administración Pública del Distrito Federal, para los efectos a que alude el artículo 84 de la Ley Federal de Responsabilidades de los Servidores Públicos;
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
+
+XXVIII. Ordenar a los órganos internos de control que corresponda, la práctica de las auditorías, en colaboración con las unidades de investigación de Responsabilidades Administrativas de la Contraloría General, así como supervisar, evaluar, autorizar, ordenar, requerir y en general, dirigir el ejercicio de atribuciones de éstos, en materia de Responsabilidades Administrativas y Anticorrupción;
 
 > <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
@@ -9460,7 +9720,9 @@ XXXV. Supervisar la aplicación de los criterios técnicos que deben reunir los 
 
 XXXVI. Establecer las bases de selección del personal de las unidades administrativas de apoyo técnico-operativo y de las contralorías internas correspondientes, específicamente en materia de quejas, denuncias y responsabilidades, con la Dirección General de Asuntos Jurídicos y Responsabilidades conforme a los requisitos que determine el Titular de la Contraloría General;
 
-XXXVII. Planear y definir, conjuntamente con las Direcciones Generales de Contralorías Internas en Dependencias y Órganos Desconcentrados, en Delegaciones, Legalidad, y Asuntos Jurídicos y Responsabilidades, los programas de capacitación jurídica para el personal de las áreas de responsabilidades de las contralorías internas y de la Contraloría General;
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
+
+XXXVII. Planear y definir, conjuntamente con las Direcciones Generales de Contralorías Internas en Dependencias y Órganos Desconcentrados, en Delegaciones, Legalidad, y Asuntos Jurídicos y Responsabilidades, los programas de capacitación jurídica para el personal responsable de la investigación, substanciación y resolución de procedimientos de Responsabilidad Administrativa de la Contraloría General;
 
 > <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
@@ -9726,17 +9988,15 @@ XXII. Expedir previo cotejo, copias certificadas de los documentos que obren en 
 
 XXIII. Supervisar el correcto desempeño de las unidades administrativas de las entidades, en las materias de Transparencia y Acceso a la Información Pública, Protección de Datos, Archivos y Programa de Derechos Humanos, de conformidad con las disposiciones jurídicas y administrativas aplicables; e informar a la Dirección General de Contralorías Internas en Dependencias y Órganos Desconcentrados;
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
 
-XXIV. Turnar a las Contralorías Internas o la Dirección General de Asuntos Jurídicos y Responsabilidades los resultados de las auditorías practicadas que hubiesen tenido observaciones que impliquen probable responsabilidad de los servidores públicos y solicitar se finquen sanciones proporcionando los elementos y constancias que se hubiesen generado en la práctica de auditorías, y sus observaciones y recomendaciones, al incurrir el auditado en la falta de atención y solventación de las mismas.
-
-Asimismo, tratándose de revisiones, inspecciones, visitas y verificaciones, al detectar infracciones o faltas que se consideran implican desatención de disposiciones normativas y que por ello inciden en los ámbitos de responsabilidad de servidores públicos;
+XXIV. Proporcionar a las unidades competentes de la Contraloría General, los elementos y constancias que se hubiesen generado en la práctica de revisiones, inspecciones, visitas y verificaciones, así como de las auditorías, sus observaciones y recomendaciones, a efecto de que se proceda en términos de la legislación de Responsabilidades Administrativas por los actos u omisiones de las personas servidoras públicas que pudieran constituir falta administrativa;
 
 XXV. (DEROGADA, G.O. 28 DE FEBRERO DE 2014)
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
 
-XXVI. Solicitar a las dependencias, órganos desconcentrados, delegaciones, entidades e Instituciones Públicas Locales y Federales, así como a las Instituciones Financieras a que se refiere el artículo 2° fracción IV de la Ley de Protección y Defensa al Usuario de Servicios Financieros, a través de la Comisión Nacional Bancaria y de Valores, la información fiscal, inmobiliaria, bancaria, financiera o de cualquier otro tipo, relacionada con los servidores públicos, sus cónyuges, convivientes, concubinos y dependientes económicos directos, para la investigación y, en su caso, el fincamiento de responsabilidad administrativa, así como de los que se encuentren involucrados en procedimientos administrativos en los que se detecte la existencia de daño patrimonial;
+XXVI. Solicitar a las Instituciones competentes información fiscal, inmobiliaria, bancaria, financiera o de cualquier otro tipo, relacionada con los servidores públicos, sus cónyuges, concubinos y dependientes económicos directos, así como de personas físicas, morales y colectivas, con la finalidad de llevar a cabo investigación, substanciación y resolución de procedimientos de Responsabilidad Administrativa de conformidad con las disposiciones de la legislación sobre sistemas anticorrupción y responsabilidades;
 
 XXVII. (DEROGADA, G.O. 28 DE FEBRERO DE 2014)
 
@@ -9794,7 +10054,13 @@ XXI. Representar a la Contraloría General en los órganos de gobierno, comités
 
 XXII. Vigilar y supervisar el desempeño, en materias de transparencia y acceso a la información pública, protección de datos personales, archivos y programa de derechos humanos de conformidad con las disposiciones jurídicas y administrativas aplicables, y
 
-XXIII. Las demás que le instruya el titular de la Contraloría General; las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
+
+XXIII. Proporcionar a las unidades competentes de la Contraloría General, los elementos y constancias que se hubiesen generado en la práctica de revisiones, inspecciones, visitas y verificaciones, a efecto de que se proceda en términos de la legislación de Responsabilidades Administrativas por los actos u omisiones de las personas servidoras públicas que pudieran constituir falta administrativa; y
+
+> <small>(ADICIONADA, G.O. 18 DE JULIO DE 2017)</small>
+
+XXIV. Las demás que le instruya el titular de la Contraloría General; las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
 ###### Artículo 111-A.
 
@@ -10090,11 +10356,11 @@ XXIII. Presentar demandas, querellas, quejas y denuncias, contestar demandas, re
 
 XXIV. Las demás que expresamente le atribuya el presente Reglamento y las demás disposiciones administrativo-jurídicas.
 
-> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE JULIO DE 2017)</small>
 
 ###### Artículo 113.
 
-Corresponde a las Contralorías Internas en las Dependencias y Órganos Desconcentrados, Delegaciones, y Entidades, de la Administración Pública del Distrito Federal, adscritas a la Contraloría General, en el ámbito de su competencia, las siguientes atribuciones:
+Corresponde a las contralorías internas, como órganos internos de control en las dependencias, órganos desconcentrados, delegaciones y entidades paraestatales, de la Administración Pública de la Ciudad de México, adscritas a la Contraloría General, en el ámbito de su competencia, las siguientes atribuciones:
 
 > <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
@@ -10108,9 +10374,9 @@ II. Ordenar y ejecutar auditorías tanto ordinarias como extraordinarias a las p
 
 III. Ejecutar verificaciones, revisiones, inspecciones, visitas e intervenir en todos los procesos administrativos que efectúen las Dependencias y Órganos Desconcentrados, Delegaciones, y Entidades, de la Administración Pública del Distrito Federal, en las materias relativas a: adquisiciones, servicios y arrendamientos; recursos humanos, obra pública y servicios relacionados con la misma, activos fijos, vehículos, recursos materiales, bienes muebles e inmuebles, almacenes, inventarios, egresos, gasto de inversión, ingresos, disponibilidades, pasivos, contabilidad, gasto corriente, control presupuestal, pagos, cuentas por liquidar certificadas, sistema de información y registro, estadística, organización, procedimientos, planeación, programación, presupuestación, deuda pública, aportaciones o transferencias locales y federales, en términos de las disposiciones jurídicas y administrativas aplicables; así como en todos aquellos previstos en el marco normativo;
 
-> <small>(ADICIONADO, G.O. 16 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
 
-III Bis. Solicitar a la Dirección General del Laboratorio de Revisión de Obras, cuando se estime necesario su intervención en auditorías, revisiones, investigaciones e inspecciones a efecto de que realice las pruebas de laboratorio o de campo conducentes a materiales, bienes, insumos, instalaciones, trabajos o similares relacionados con obra pública y servicios relacionados con la misma, así como sobre la adquisición de bienes muebles que se incorporen o destinen a inmuebles para su conservación, mantenimiento y rehabilitación, obras en concesiones, proyectos de prestación de servicios a largo plazo, proyectos de coinversión, permisos y demás obras que se ejecuten con recursos públicos o en inmuebles patrimonio o en posesión de la Ciudad de México; para sustentar investigaciones, observaciones, hallazgos, recomendaciones preventivas y correctivas, así como para el fincamiento de responsabilidades administrativas;
+III Bis. Solicitar a la Dirección General del Laboratorio de Revisión de Obras, cuando se estime necesario su participación en auditorías, intervenciones, revisiones, investigaciones e inspecciones a efecto de que realice las pruebas de laboratorio o de campo conducentes a materiales, bienes, insumos, instalaciones, trabajos o similares relacionados con obra pública y servicios relacionados con la misma, así como sobre la adquisición de bienes muebles que se incorporen o destinen a inmuebles para su conservación, mantenimiento y rehabilitación, obras en concesiones, proyectos de prestación de servicios a largo plazo, proyectos de coinversión, permisos y demás obras que se ejecuten con recursos públicos o en inmuebles patrimonio o en posesión de la Ciudad de México; para sustentar observaciones, hallazgos, recomendaciones preventivas y correctivas, así como investigaciones y pruebas en el procedimiento de Responsabilidades Administrativas;
 
 > <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
@@ -10120,11 +10386,15 @@ IV. Formular y emitir observaciones y recomendaciones preventivas y correctivas 
 
 V. Asistir y participar en los Órganos de Gobierno, Comités, Subcomités, Consejos Directivos y demás Cuerpos Colegiados, así como, cuando lo estime conveniente en licitaciones públicas e invitaciones restringidas, de las Dependencias y Órganos Desconcentrados, Delegaciones, y Entidades de la Administración Pública del Distrito Federal, según corresponda por competencia, en los términos que determinen las disposiciones jurídicas aplicables, por sí, o a través de los Titulares de las Unidades Administrativas de Apoyo Técnico Operativo adscritas, o cuando no se cuente con Órganos de Control Interno;
 
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2008)</small>
+
 VI. Expedir previo cotejo, copias certificadas de los documentos que obren en sus archivos, así como de aquellos a los cuales se tenga acceso con motivo de la práctica de auditorías, verificaciones, revisiones, inspecciones y visitas, procedimientos administrativos disciplinarios, y demás de las que tenga acceso con motivo del desarrollo de sus actividades;
 
 > <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
 
 VII. Atender los requerimientos que les realice el Titular de la Contraloría General en el ejercicio de sus atribuciones;
+
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2008)</small>
 
 VIII. Requerir de acuerdo con la naturaleza de sus funciones, información y documentación a las Dependencias y Órganos Desconcentrados, Delegaciones, Entidades, y Contralorías Internas, de la Administración Pública del Distrito Federal, así como a proveedores, arrendadores, prestadores de servicios, contratistas, supervisores externos, concesionarios, permisionarios, o cualesquiera otros que intervengan en las adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos, enajenaciones y todos los que tengan alguna participación en los procedimientos previstos en el marco jurídico del Distrito Federal;
 
@@ -10132,11 +10402,15 @@ VIII. Requerir de acuerdo con la naturaleza de sus funciones, información y doc
 
 IX. Intervenir en las actas de entrega-recepción que realicen los titulares y servidores públicos de las Dependencias y Órganos Desconcentrados, Delegaciones, Entidades, y personal de las contralorías internas, de la Administración Pública del Distrito Federal, a fin de vigilar que se cumpla con la normatividad aplicable, y en caso de incumplimiento, determinar las responsabilidades y sanciones administrativas correspondientes;
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
 
-X. Conocer, investigar, iniciar, desahogar y resolver procedimientos administrativos disciplinarios sobre actos u omisiones respecto de servidores públicos adscritos orgánica o funcionalmente, o bien que ejerzan o administren recursos en las dependencias y órganos desconcentrados, delegaciones, y entidades, de la Administración Pública del Distrito Federal, que correspondan a su competencia, que pudieran afectar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben observar en el desempeño de su empleo, cargo o comisión, de los cuales tengan conocimiento por cualquier medio, o que se desprendan de la aplicación de recursos federales, para determinar, en su caso, las sanciones que correspondan en los términos de la Ley de la materia.
+X. Conocer, investigar, substanciar y resolver procedimientos disciplinarios o de Responsabilidad Administrativa sobre actos u omisiones respecto de servidores públicos adscritos orgánica o funcionalmente, o bien que ejerzan o administren recursos en las dependencias y órganos desconcentrados, delegaciones, y entidades, de la Administración Pública de la Ciudad de México, que correspondan a su competencia, que pudieran afectar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben observar en el desempeño de su empleo, cargo o comisión, de los cuales tengan conocimiento por cualquier medio, o que se desprendan del manejo y aplicación de recursos federales, para determinar, en su caso, las sanciones que correspondan en los términos de la legislación en materia de Responsabilidades Administrativas, este Reglamento Interior y demás disposiciones jurídicas y administrativas aplicables.
+
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2008)</small>
 
 XI. Conocer, substanciar y resolver los recursos de revocación que se promuevan en contra de resoluciones que impongan sanciones administrativas a los servidores públicos, en términos de las disposiciones jurídicas y administrativas aplicables;
+
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2008)</small>
 
 XII. Acordar, cuando proceda, la suspensión temporal de los servidores públicos de sus empleos, cargos o comisiones cuando a su juicio resulte conveniente para la conducción o continuación de las investigaciones;
 
@@ -10164,7 +10438,11 @@ XVII. Elaborar y remitir a la Dirección General de Contralorías Internas que c
 
 XVIII. Verificar el cumplimiento de las obligaciones fiscales por parte de las dependencias y órganos desconcentrados, delegaciones, y entidades, de la Administración Pública del Distrito Federal, según les corresponda por competencia;
 
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2008)</small>
+
 XIX. Coadyuvar con las Unidades Administrativas de la Contraloría General en las visitas, verificaciones, inspecciones y revisiones que se realicen en cualesquiera de las Dependencias y Órganos desconcentrados, Delegaciones, y Entidades, de la Administración Pública del Distrito Federal;
+
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2008)</small>
 
 XX. Comisionar al personal a su cargo, para coadyuvar al cumplimiento de las funciones y atribuciones conferidas a las Unidades Administrativas de la Contraloría General;
 
@@ -10179,6 +10457,8 @@ XXII. Suspender temporal o definitivamente, declarar la nulidad y reposición, e
 > <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
 XXIII. Instruir a las Dependencias y Órganos Desconcentrados, Delegaciones, y Entidades, de la Administración Pública del Distrito Federal, a suspender temporal o definitivamente, revocar, rescindir o terminar anticipadamente los contratos, convenios, títulos concesión, acuerdos, actas, pagos, y demás instrumentos jurídicos y administrativos, en materia de adquisiciones, arrendamientos, prestación de servicios, obra pública y servicios relacionados con la misma, concesiones, permisos, enajenación y adquisición de bienes muebles e inmuebles, así como todos aquellos previstos en el marco normativo, incluyendo todas las consecuencias administrativas o legales que de éstos resulten, derivado de las irregularidades o inconsistencias detectadas en las revisiones, auditorías, verificaciones, visitas, inspecciones, quejas, denuncias, intervenciones, participaciones o que por cualquier medio se tenga conocimiento de irregularidades o inconsistencias. No procederá la suspensión, revocación, rescisión o terminación anticipada cuando se acredite que ésta afectaría de manera importante la continuidad de los programas sociales o prioritarios, o bien, la prestación de servicios públicos.
+
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2008)</small>
 
 XXIV. Realizar las investigaciones, disponer de las diligencias y actuaciones pertinentes, y solicitar toda clase de información y documentación que resulten necesarios, para la debida integración de los expedientes relacionados con las quejas y denuncias presentadas por particulares o servidores públicos o que se deriven de los procedimientos administrativos disciplinarios que substancien, revisiones, auditorías, verificaciones, visitas, inspecciones, intervenciones, participaciones, o que por cualquier otro medio se tenga conocimiento, auxiliándose para tales efectos del personal adscrito a la contraloría interna que corresponda;
 
@@ -10206,11 +10486,13 @@ XXIX. Ejecutar verificaciones preventivas sobre la realización de obras públic
 
 XXX. Vigilar en el ámbito de su respectiva competencia, el cumplimiento de los lineamientos emitidos por la Contraloría General, -a los que deberán sujetarse los auditores externos- en la práctica de auditorías que la Dirección General ordene realizar en la Administración Pública del Distrito Federal.
 
-> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
 
-XXXI. Las demás que le instruya el Titular de la Contraloría General; el Titular de la Dirección General de Contralorías Internas al que se encuentren adscritos; las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+XXXI. Las demás que le instruya el Titular de la Contraloría General; el Titular de la Dirección General de Contralorías Internas al que se encuentren adscritos; las que expresamente le atribuyan este reglamento, las que este Reglamento Interior establece para las unidades de Investigación, de Substanciación y Resolutora; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
-Estas mismas atribuciones deberán ser ejercidas por la Contraloría Interna en Dependencias respecto del órgano desconcentrado que esté adscrito a la dependencia, cuando no exista Órgano de Control Interno.
+> <small>(REFORMADO, G.O. 18 DE JULIO DE 2017)</small>
+
+Estas mismas atribuciones deberán ser ejercidas por la Contraloría Interna en Dependencias respecto del órgano desconcentrado que esté adscrito a la dependencia, cuando no exista Órgano Interno de Control.
 
 ###### Artículo 113 Bis.
 
@@ -10556,7 +10838,15 @@ XIX. Vigilar y supervisar el correcto desempeño de los actos con relación a la
 
 XX. Coadyuvar conforme a su capacidad de recursos y programas de trabajo de la Contraloría General, con otros órganos de fiscalización y autoridades federales y locales, de conformidad con los convenios y disposiciones jurídicas y administrativas aplicables; y
 
-XXI. Las demás que le instruya el titular de la Contraloría General; las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2017)</small>
+
+XXI. Proporcionar a las unidades competentes de la Contraloría General, los elementos y constancias que se hubiesen generado en la práctica de revisiones, inspecciones, visitas y verificaciones, a efecto de que se proceda en términos de la legislación de Responsabilidades Administrativas por los actos u omisiones de las personas servidoras públicas que pudieran constituir falta administrativa; y
+
+> <small>(ADICIONADA, G.O. 18 DE JULIO DE 2017)</small>
+
+XXII. Las demás que le instruya el titular de la Contraloría General; las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+
+> <small>[N. DE E. REPUBLICADO, G.O. 18 DE JULIO DE 2017]</small>
 
 Para el cumplimiento de las atribuciones señaladas en este artículo, la Dirección de Contraloría Móvil podrá ejercer sus funciones en días y horas hábiles e inhábiles, atendiendo a los días y horas en que las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública de la Ciudad de México realicen sus actividades.
 
@@ -19693,3 +19983,23 @@ TERCERO.- A la Dirección General de la Unidad Técnica Especializada para la Pr
 CUARTO.- La Consejería Jurídica y de Servicios Legales deberá adecuar su Estructura Orgánica y su Manual Administrativo.
 
 QUINTO.- Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente Decreto.
+
+G.O. 18 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICAN DIVERSAS DISPOSICIONES AL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL.”]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Las Unidades de Investigación, de Sustanciación y de Resolución, iniciarán el ejercicio de sus funciones y atribuciones, a la entrada en vigor del presente Decreto;
+
+TERCERO.- Para un más eficaz y eficiente cumplimiento de las nuevas atribuciones que por virtud de las leyes en materia de responsabilidades y anticorrupción recibe la Contraloría General, esta dependencia deberá llevar a cabo las gestiones necesarias ante la Secretaría de Finanzas y la Oficialía Mayor a efecto de obtener suficiencia presupuestal y adecuar su estructura orgánica y en su caso, modificar las disposiciones de este Reglamento respecto a sus unidades administrativas.
+
+CUARTO.- Las disposiciones de este Reglamento y de otras disposiciones reglamentarias o administrativas que eran aplicables al régimen de responsabilidades administrativas establecido en la Ley Federal de Responsabilidades de los Servidores Públicos, subsistirán en tanto se trate de: a) actos u omisiones de servidores públicos acontecidos hasta antes de la entrada en vigor de la Ley General de Responsabilidades Administrativas que pudieran configurar faltas administrativas; y b) investigaciones o procedimientos administrativos disciplinarios que se hubieran iniciado conforme a dicha Ley.
+
+QUINTO.- Las facultades conferidas al titular de la Secretaría de la Contraloría General en la Ley Orgánica de la Administración Pública del Distrito Federal en lo conducente las ejercerá el titular de la Contraloría General hasta en tanto se realice la designación correspondiente del titular de la citada Secretaría.
+
+Las Subsecretarías de la Secretaría de la Contraloría General a que hace referencia la Ley Orgánica de la Administración Pública del Distrito Federal, iniciarán sus funciones una vez que se cuente con el presupuesto, estructura y atribuciones correspondientes.
+
+SEXTO.- Las referencias hechas en este Reglamento y demás disposiciones jurídicas y administrativas aplicables a la Administración Pública de la Ciudad de México a las Contralorías Internas, se entenderán hechas a los órganos internos de control en las dependencias, órganos desconcentrados, delegaciones y entidades.
+
+SÉPTIMO.- Los actuales titulares de las contralorías internas en las dependencias, órganos desconcentrados, delegaciones y entidades, ejercerán las atribuciones que conforme a las disposiciones jurídicas y administrativas aplicables a la Administración Pública de la Ciudad de México corresponden a los titulares de los órganos internos de control en las dependencias, órganos desconcentrados, delegaciones y entidades, hasta en tanto se realicen las designaciones correspondientes.
