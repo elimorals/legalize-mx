@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-de-la-administracion-publica-del-estado-de-110376"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-10-23"
-last_updated: "2015-10-23"
+last_updated: "2017-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110376&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE GUERRERO NÚMERO 08
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 23 de octubre de 2015.
 
@@ -35,7 +35,9 @@ Que el H. Congreso Local, se ha servido comunicarme que,
 
 LA SEXAGÉSIMA PRIMERA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, EN NOMBRE DEL PUEBLO QUE REPRESENTA, Y:
 
-C O N S I D E R A N D O…
+C O N S I D E R A N D O
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en lo dispuesto en los artículos 61 fracción I de la Constitución Política Local y 8 fracción I de la Ley Orgánica del Poder Legislativo en vigor, el Honorable Congreso del Estado, decreta y expide la siguiente:
 
@@ -92,6 +94,10 @@ En casos extraordinarios o cuando exista duda sobre la competencia de alguna dep
 ###### ARTÍCULO 10.
 
 Los Titulares de las dependencias y entidades, formularán proyectos de leyes, reglamentos, decretos y acuerdos sobre la materia de su competencia y los remitirán al Ejecutivo a través de la Secretaría General de Gobierno, y a ésta por conducto de la Secretaría coordinadora de sector, en tratándose de las entidades.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+ARTÍCULO 10 BIS. El titular de cada secretaría, dependencia o entidad paraestatal expedirá los manuales de organización, de procedimientos y de servicios al público necesarios para su funcionamiento, los que deberán contener información sobre su estructura orgánica y funciones de sus unidades administrativas, así como los sistemas de comunicación y coordinación y los principales procedimientos administrativos que se establezcan. Los manuales y demás instrumentos de apoyo administrativo interno, deberán mantenerse permanentemente actualizados. Los manuales de organización general deberán publicarse en el Periódico Oficial del Gobierno del Estado de Guerrero, mientras que los manuales de procedimientos y de servicios al público deberán estar disponibles para consulta de los usuarios y de los propios servidores públicos, a través del registro electrónico que opera la Secretaría de Contraloría y Transparencia Gubernamental del Estado. En cada una de las secretarías, dependencias y entidades de la Administración Pública Estatal, se mantendrán al corriente los escalafones de los trabajadores, y se establecerán los sistemas de estímulos y recompensas que determinen la ley y las condiciones generales de trabajo respectivas.
 
 ### CAPÍTULO SEGUNDO. DE LAS DEPENDENCIAS Y ENTIDADES DEL PODER EJECUTIVO
 
@@ -401,11 +407,17 @@ XII.- Participar en el establecimiento de criterios y montos de los estímulos f
 
 XIII.- Administrar el catastro de la Entidad, de conformidad con lo establecido en las Leyes respectivas;
 
-XIV.- Resolver los recursos administrativos previstos en el Código Fiscal;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-XV.- Intervenir en los juicios de carácter fiscal que se ventilen ante cualquier tribunal, cuando tenga interés la hacienda pública del Estado;
+XIV.- Ejercer las atribuciones derivadas de los convenios de colaboración establecidos con los órganos internos de control o las entidades fiscalizadoras, así como hacer efectivas las sanciones económicas por responsabilidad que en términos de la legislación aplicable resulten;
 
-XVI.- Ejercer la facultad económico coactiva conforme a las leyes relativas, por incumplimiento de obligaciones fiscales;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XV.- Coadyuvar con la Secretaría de Contraloría y Transparencia Gubernamental del Estado en el cumplimiento de las acciones y medidas que en términos del Sistema Estatal Anticorrupción lleve a cabo en materia de fiscalización de recursos públicos;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XVI.- Facilitar el acceso de los ciudadanos a la información que en materia de fiscalización y gestión gubernamental se deriven de sus actividades;
 
 XVII.- Ordenar y practicar las visitas domiciliarias, auditorías, inspecciones, revisiones y verificaciones a los contribuyentes, aplicando en su caso, las sanciones correspondientes, en los términos que señalen las Leyes;
 
@@ -459,9 +471,37 @@ XLI.- Prestar servicios de informática y proporcionar apoyos en materia de comp
 
 XLII.- Administrar y representar el interés del Patrimonio Inmobiliario, en todos los asuntos del orden legal en que se vea involucrado;
 
-XLIII.- Establecer y operar, en coordinación con la Secretaría de Planeación y Desarrollo Regional, un sistema de seguimiento de los programas federales relacionados con los asuntos de su competencia, conforme a lo que las leyes y acuerdos de coordinación establezcan, y
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-XLIV.- Los demás que le atribuyan expresamente las leyes y reglamentos.
+XLIII.- Establecer y operar, en coordinación con la Secretaría de Planeación y Desarrollo Regional, un sistema de seguimiento de los programas federales relacionados con los asuntos de su competencia, conforme a lo que las leyes y acuerdos de coordinación establezcan;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XLIV.- Establecer normas, políticas y lineamientos en materia de desincorporación de activos de la Administración Pública Estatal;
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XLV.- Establecer normas y lineamientos en materia de control del ejercicio del gasto;
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XLVI.- Conducir la política inmobiliaria de la Administración Pública Estatal, y administrar los inmuebles de propiedad estatal cuando no estén asignados a alguna secretaría, dependencia o entidad, así como llevar el registro público de la propiedad inmobiliaria de la administración estatal y el inventario general correspondiente;
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XLVII.- Regular la adquisición, arrendamiento, enajenación, destino o afectación de los bienes inmuebles de la Administración Pública Estatal y, en su caso, representar el interés jurídico de la administración pública estatal;
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XLVIII.- Expedir las normas y procedimientos para la formulación de inventarios, para la realización y actualización de los avalúos sobre dichos bienes, así como expedir normas técnicas, autorizar y, en su caso, proyectar, construir, rehabilitar, conservar o administrar, directamente o a través de terceros, los edificios públicos y, en general, los bienes inmuebles del Estado;
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+XLIX.- Reivindicar los bienes propiedad del Estado, en los términos de las disposiciones legales aplicables.
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+L.- Los demás que le atribuyan expresamente las leyes y reglamentos.
 
 ###### ARTÍCULO 23.
 
@@ -1273,47 +1313,73 @@ XXX.- Sugerir la formulación de la solicitud de declaración de emergencia o de
 
 XXXI.- Los demás que le fijen las leyes y reglamentos del Estado.
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 39.
 
-La Secretaría de Contraloría y Transparencia Gubernamental, es el órgano encargado de establecer y operar el Sistema Estatal de Control Gubernamental, aplicar la Ley de Responsabilidades de los Servidores Públicos del Estado, las leyes en materia de transparencia, acceso a la información pública y protección de datos personales, realizar estudios y recomendaciones administrativas, vigilando su cumplimiento y observancia para una mejor funcionalidad estructural y operativa de la Administración Pública Estatal, dar cuenta de la aplicación de la política de equidad de género de la administración Pública, correspondiéndole el despacho de los asuntos siguientes:
+(sic) La Secretaría de Contraloría y Transparencia Gubernamental le corresponde el despacho de los asuntos siguientes:
 
-I.- Establecer y operar en coordinación con las dependencias y entidades de la Administración Pública Estatal, el Sistema Estatal de Control y Evaluación;
+I. Proponer del registro, cuando así se requiera a los auditores externos de las secretarías, dependencias y entidades de la Administración Pública Estatal, así como normar y controlar su desempeño;
 
-II.- Actuar en nombre y por cuenta del Gobierno Federal, en el ámbito del control y evaluación, en los términos que establezcan las Leyes, convenios y acuerdos de coordinación;
+II. Designar y remover a los titulares de los órganos internos de control de las secretarías, dependencias y entidades de la Administración Pública Estatal, así como de las unidades administrativas equivalentes en las empresas productivas del Estado, quienes dependerán jerárquica y funcionalmente de dicha Secretaría;
 
-III.- Designar a los comisarios de las entidades Paraestatales, órganos administrativos desconcentrados, organismos públicos de participación social y demás órganos afines, así como vigilar su desempeño e intervenir en la designación de auditores externos;
+III. Designar y remover a los titulares de las áreas de auditoría, quejas y responsabilidades de los citados órganos internos de control; quienes tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los tribunales estatales y federales, representando al titular de dicha Secretaría;
 
-IV.- Realizar auditorías legales, técnicas, administrativas, de obra y de toda índole, de conformidad con las leyes aplicables de la materia;
+IV. Designar y remover, en su caso a los delegados de la propia secretaría ante las secretarías, dependencias, órganos desconcentrados, y Establecimientos Públicos de Bienestar Social de la Administración Pública Estatal centralizada y a los comisarios públicos de las entidades paraestatales, así como normar y controlar su desempeño.
 
-V.- Vigilar el cumplimiento de la Ley de Responsabilidades de los Servidores Públicos y, en general, de todo ordenamiento que rija el manejo y aplicación de recursos, entre ellos, los de adquisición de bienes, de obras públicas, endeudamiento y recursos humanos;
+En ninguna secretaría, dependencia o entidad de la Administración Pública Estatal, podrán coincidir de manera permanente dos órganos internos de control;
 
-VI.- Aplicar la Ley de Responsabilidad (sic) de los Servidores Públicos cuando no se le dé cumplimiento a las recomendaciones aceptadas, emitidas por los Órganos Públicos de Protección de los Derechos Humanos;
+V. Seleccionar a los integrantes de los órganos internos de control, garantizando la igualdad de oportunidades en el acceso a la función pública, atrayendo a los mejores candidatos para ocupar los puestos, a través de procedimientos transparentes, objetivos y equitativos;
 
-VII.- Formular recomendaciones en materia de modernización y desarrollo administrativo, vigilando su estricto cumplimiento para una organización y funcionamiento más eficiente de la Administración Pública Estatal;
+VI. Organizar y coordinar el sistema de control interno y la evaluación de la gestión gubernamental; inspeccionar el ejercicio del gasto público estatal y su congruencia con el presupuesto de egresos, así como concertar con las secretarías, dependencias y entidades de la Administración Pública Estatal y validar los indicadores para la evaluación de la gestión gubernamental, en los términos de las disposiciones legales aplicables;
 
-VIII.- Coadyuvar en la elaboración e implantación de manuales de organización y de procedimientos para trámites y servicios al público, que impulsen de manera constante la sistematización y simplificación administrativa;
+VII. Coordinar y supervisar el sistema de control interno, establecer las bases generales para la realización de auditorías internas, transversales y externas; expedir las normas que regulen los instrumentos y procedimientos en dichas materias en las secretarías, dependencias y entidades de la Administración Pública Estatal, así como realizar las auditorías que se requieran en éstas, en sustitución o apoyo de sus propios órganos internos de control;
 
-IX.- Apoyar a la Secretaría de Finanzas y Administración y a la Secretaria de Planeación y Desarrollo Regional para el Desarrollo del Estado de Guerrero en el control y vigilancia de los recursos humanos, financieros y materiales asignados a las diversas dependencias y entidades de la Administración Pública Estatal;
+VIII. Organizar y coordinar el desarrollo administrativo integral, recursos humanos y patrimoniales de las secretarías, dependencias y entidades de la Administración Pública Estatal, para que sean aprovechados y aplicados con criterios de eficacia, legalidad, eficiencia, transparencia y simplificación administrativa; así como emitir las normas y los procedimientos técnicos para tales efectos, realizar o encomendar las investigaciones, estudios y análisis necesarios sobre estas materias;
 
-X.- Expedir, en coordinación con las Secretarías de Bienestar y Desarrollo Social, de Desarrollo Urbano, Obras Públicas y Ordenamiento Territorial y de Finanzas y Administración, las bases a que deben sujetarse los concursos y contratos de la administración pública del Estado para la ejecución de obras y prestación de servicios, vigilando el proceso de adjudicación y cumplimiento de los mismos, cancelando, en su caso, aquellos que la normatividad prevea;
+IX. Conducir las políticas, establecer las normas y emitir las autorizaciones y criterios correspondientes en materia de planeación y administración de recursos humanos, contratación del personal, Servicio Civil de Carrera en la Administración Pública Estatal, estructuras orgánicas y ocupacionales de conformidad con el presupuesto asignado y las respectivas normas de control de gasto en materia de servicios personales;
 
-XI.- Verificar la congruencia entre el Gasto Público autorizado al Poder Ejecutivo con el presupuesto de egresos ejercido, recomendando medidas de austeridad y racionalización;
+X. Implementar las acciones que acuerde el Sistema Estatal Anticorrupción de Guerrero, en términos de las disposiciones legales aplicables;
 
-XII.- Proponer y dar seguimiento a los acuerdos, convenios y programas que suscriba el Titular del Ejecutivo Estatal con otros poderes y niveles de Gobierno, en materia de control, evaluación y desarrollo administrativo;
+XI. Informar periódicamente al Comité Coordinador del Sistema Estatal Anticorrupción y al titular del Ejecutivo Estatal, sobre los resultados de la evaluación respecto de la gestión de las secretarías, dependencias y entidades de la Administración Pública Estatal y de la revisión del ingreso, manejo, custodia y ejercicio de recursos públicos federales y estatales, así como promover ante las autoridades competentes, las acciones que procedan para corregir las irregularidades detectadas;
 
-XIII.- Promover la participación ciudadana en actividades de contraloría social, para vigilar las diferentes obras y acciones de Gobierno;
+XII. Definir la política de gobierno digital, gobierno abierto y datos abiertos en el ámbito de las secretarías, dependencias y entidades de la Administración Pública Estatal;
 
-XIV.- Participar como instancia normativa en el proceso de entrega-recepción, en el cambio de Titular del Poder Ejecutivo del Estado, así como de las dependencias y entidades y demás organismos o unidades administrativas del Poder Ejecutivo, vigilando el cumplimiento de las normas técnicas y administrativas establecidas para ese propósito;
+XIII. Formular y conducir en apego y de conformidad con las bases de coordinación que establezca el Comité Coordinador del Sistema Estatal Anticorrupción de Guerrero, la política general de la Administración Pública Estatal para establecer acciones que propicien la integridad y la transparencia en la gestión pública, la rendición de cuentas y el acceso por parte de los particulares a la información que aquélla genere; así como promover dichas acciones hacia la sociedad;
 
-XV.- Registrar las manifestaciones patrimoniales de los servidores públicos y mantenerlas actualizadas, en los términos de la Legislación aplicable en el Estado;
+XIV. Implementar las políticas de coordinación que promueva el Comité Coordinador del Sistema Estatal Anticorrupción de Guerrero, en materia de combate a la corrupción en la Administración Pública Estatal;
 
-XVI.- Establecer y operar, en coordinación con la Secretaría de Planeación y Desarrollo Regional, un sistema de seguimiento y evaluación de los programas federales relacionados con los asuntos de su competencia, conforme a lo que las leyes y acuerdos de coordinación establezcan;
+XV. Emitir normas, lineamientos específicos y manuales que dentro del ámbito de su competencia, integren disposiciones y criterios que impulsen la simplificación administrativa, para lo cual deberá tomar en consideración las bases y principios de coordinación y recomendaciones generales que emita el Comité Coordinador del Sistema Estatal Anticorrupción de Guerrero;
 
-XVII.- Regular, formular, ejecutar y coordinar las políticas y lineamientos, así como programas en materia de transparencia, acceso y difusión de la información pública gubernamental, corrección y protección de datos personales, implementando las medidas necesarias para una eficaz colaboración y asistencia técnica con el órgano garante en la materia, los organismos federales, estatales, municipales e internacionales, de conformidad con la legislación aplicable y vigente en la materia;
+XVI. Expedir las normas que regulen los instrumentos y procedimientos de control interno de la Administración Pública Estatal, para lo cual podrá requerir de las secretarías y dependencias competentes la expedición de normas complementarias para el ejercicio del control administrativo. Lo anterior, sin menoscabo de las bases y principios de coordinación y recomendaciones emitidas por el Comité Coordinador del Sistema Estatal Anticorrupción;
 
-XVIII.- Coadyuvar con las dependencias y entidades de la Administración Pública Estatal en las controversias o asuntos en materia de acceso a la información y protección de datos personales, y
+XVII. Colaborar en el marco del Sistema Estatal Anticorrupción de Guerrero y del Sistema Estatal de Fiscalización, en el establecimiento de las bases y principios de coordinación necesarios, que permitan el mejor cumplimiento de las responsabilidades de sus integrantes;
 
-XIX.- Los demás que le atribuyan expresamente las leyes y reglamentos.
+XVIII. Llevar y normar el registro de servidores públicos de la Administración Pública Estatal, recibir y registrar las declaraciones patrimoniales y de intereses que deban presentar, así como verificar su contenido mediante las investigaciones que resulten pertinentes de acuerdo con las disposiciones legales aplicables. También registrará la información sobre las sanciones administrativas que, en su caso, les hayan sido impuestas;
+
+XIX. Autorizar y registrar las estructuras orgánicas y/u ocupacionales de las secretarías, dependencias y entidades de la Administración Pública Estatal, así como sus modificaciones, previo dictamen presupuestal favorable de la Secretaría de Finanzas y Administración;
+
+XX. Establecer y conducir la política general de las contrataciones públicas reguladas por la Ley de Adquisiciones, Enajenaciones, Arrendamientos, Prestación de Servicios y Administración de Bienes Muebles e Inmuebles del Estado de Guerrero y la Ley de Obras Públicas y sus Servicios del Estado de Guerrero, propiciando las mejores condiciones de contratación conforme a los principios de eficiencia, eficacia, economía, transparencia, imparcialidad y honradez; emitir las normas, lineamientos, manuales, procedimientos y demás instrumentos análogos que se requieran en materia de dichas contrataciones públicas; proporcionar, en su caso, asesoría normativa con carácter preventivo en los procedimientos de contratación regulados por las mencionadas leyes que realicen las secretarías, dependencias y entidades de la Administración Pública Estatal y promover, con la intervención que corresponda a otras secretarías, dependencias y entidades de la Administración Pública Estatal, la coordinación y cooperación con los Poderes Legislativo y Judicial, los órganos constitucionales autónomos o con autonomía técnica, los ayuntamientos y demás entes públicos encargados de regímenes de contratación pública, con excepción de las empresas productivas del Estado a efecto de propiciar en lo procedente la homologación de políticas, normativas y criterios en materia de contrataciones públicas, que permita contar con un sistema de contrataciones públicas articulado a nivel estatal;
+
+XXI. Emitir el Código de Ética de los Servidores Públicos del Poder Ejecutivo Estatal y las Reglas de Integridad para el Ejercicio de la Función Pública;
+
+XXII. Vigilar en colaboración con las autoridades que integren el Comité Coordinador del Sistema Estatal Anticorrupción, el cumplimiento de las normas de control interno y fiscalización, así como asesorar y apoyar a los órganos internos de control de las secretarías, dependencias y entidades de la Administración Pública Estatal;
+
+XXIII. Vigilar el cumplimiento de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda y patrimonio, por parte de las secretarías, dependencias y entidades de la Administración Pública Estatal;
+
+XXIV. Fiscalizar directamente o a través de los órganos internos de control, que las secretarías, dependencias y entidades de la Administración Pública Estatal cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y remuneraciones de personal, contratación de adquisiciones, arrendamientos, arrendamiento financiero, servicios y ejecución de obra pública, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de la Administración Pública Estatal;
+
+XXV. Realizar, por sí o a solicitud de la Secretaría de Finanzas y Administración o la coordinadora de sector correspondiente, auditorías, revisiones y evaluaciones a las secretarías, dependencias y entidades de la Administración Pública Estatal, con el objeto de examinar, fiscalizar y promover la eficiencia, transparencia y legalidad en su gestión y encargo;
+
+XXVI. Atender las quejas e inconformidades que presenten los particulares con motivo de convenios o contratos que celebren con las secretarías, dependencias y entidades de la Administración Pública Estatal, salvo los casos en que otras leyes establezcan procedimientos de impugnación diferentes;
+
+XXVII. Conocer e investigar las conductas de los servidores públicos de la Administración Pública Estatal que puedan constituir responsabilidades administrativas, así como substanciar los procedimientos correspondientes conforme a lo establecido en la Ley de Responsabilidades Administrativas para el Estado de Guerrero, por sí, o por conducto de los órganos internos de control que correspondan a cada área de la Administración Pública Estatal; para lo cual podrán aplicar las sanciones que correspondan en los casos que no sean de la competencia del Tribunal de Justicia Administrativa del Estado de Guerrero y, cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante ese Tribunal; así como presentar las denuncias correspondientes ante la Fiscalía Especializada en Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones legales aplicables;
+
+XXVIII. Establecer mecanismos internos para la Administración Pública Estatal que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas;
+
+XXIX. Ejercer las facultades que la Constitución Política del Estado Libre y Soberano de Guerrero, le otorga a los órganos internos de control para revisar, mediante las auditorías a que se refiere el presente artículo, el ingreso, manejo, custodia y ejercicio de recursos públicos estatales; y
+
+XXX. Las demás que le encomienden expresamente las leyes y reglamentos.
 
 ###### ARTÍCULO 40.
 
@@ -1379,6 +1445,10 @@ La Consejería Jurídica del Poder Ejecutivo del Estado, es el órgano técnico 
 
 I.- Dar apoyo técnico jurídico al Gobernador del Estado en todos aquellos asuntos que éste le encomiende;
 
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+I Bis.- Representar al Gobernador del Estado, para los efectos del artículo 88 numerales 3 y 4 de la Constitución Política del Estado Libre y Soberano de Guerrero, respecto a la representación jurídica del Estado;
+
 II.- Someter a consideración y, en su caso, firma del Gobernador del Estado, todos los proyectos de iniciativas de Leyes y Decretos que se presenten al Congreso del Estado, y dar opinión sobre dichos proyectos;
 
 III.- Dar opinión al Gobernador del Estado sobre los Proyectos de convenios con la Federación, otros Estados de la República, el Distrito Federal y los Municipios de la Entidad;
@@ -1404,6 +1474,12 @@ XII.- Integrar y operar el programa de informática jurídica y consulta del Pod
 XIII.- Establecer y operar un sistema de seguimiento de los programas federales relacionados con los asuntos de su competencia, conforme a lo que las leyes y acuerdos de coordinación establezcan, en congruencia con el Comité de Planeación para el Desarrollo del Estado, y
 
 XIV.- Las demás que le fijen expresamente en las leyes y reglamentos vigentes en el Estado o le sean asignadas por el Titular del Poder Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+ARTÍCULO 41 BIS. Las secretarías, dependencias, entidades paraestatales y demás órganos que integran la Administración Pública Estatal, podrán enviar a la Consejería Jurídica del Poder Ejecutivo del Estado, los proyectos de iniciativas de leyes, decretos, acuerdos, contratos, convenios, circulares y demás documentos a ser sometidos a firma del Gobernador del Estado, por lo menos con quince días de anticipación a la fecha en que se pretendan suscribir, salvo en los casos de notoria urgencia a juicio del Gobernador del Estado, a efecto de validar su procedencia.
+
+Las dependencias antes señaladas de la Administración Pública Estatal, proporcionarán oportunamente a la Consejería Jurídica del Poder Ejecutivo del Estado, la información y apoyo técnico que requiera para el cumplimiento de sus funciones.
 
 ###### ARTÍCULO 42.
 
@@ -1553,6 +1629,34 @@ La Administración Pública Estatal se ajustará al principio de desconcentraci�
 
 El Poder Ejecutivo, directamente o a través de las entidades de la Administración Pública Paraestatal, podrá crear establecimientos públicos de servicios de bienestar social con personalidad jurídica y patrimonio propios, mismos que independientemente de la forma jurídica que adopten, no tendrán carácter de Entidad Paraestatal siempre y cuando actúen en materia de educación, cultura, recreación, salud, atención a la juventud, deporte o cualquier otro servicio público de naturaleza análoga, conforme a los convenios que se celebren con el Gobierno Federal, participe la sociedad en ellos, realicen los particulares cooperaciones de carácter económico o material y cuente con subsidios o transferencias del Gobierno del Estado y de los Ayuntamientos.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE JULIO DE 2017)</small>
+
+### CAPÍTULO SÉPTIMO. ÓRGANOS INTERNOS DE CONTROL
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+###### ARTÍCULO 53.
+
+Los titulares de los órganos internos de control de las secretarías, dependencias y entidades de la Administración Pública Estatal y de sus áreas de auditoría, quejas y responsabilidades, serán responsables de vigilar el control interno de las instituciones a las que se encuentren adscritos. Asimismo, tendrán como función apoyar la política de control interno y la toma de decisiones relativas al cumplimiento de los objetivos y políticas institucionales en materia de transparencia y rendición de cuentas, así como al óptimo desempeño de servidores públicos y órganos, a la modernización continua y desarrollo eficiente de la gestión administrativa y al correcto manejo de los recursos públicos.
+
+Los órganos internos de control, en ejercicio de su función de auditoría, prevista en la fracción XXIV del artículo 39 de esta Ley, se regirán por las leyes y disposiciones sobre adquisiciones, obra pública, presupuesto, contabilidad, procedimiento administrativo, transparencia y acceso a la información, responsabilidades, combate a la corrupción y otras afines a la materia y por las bases y principios de coordinación que emitan el Comité Coordinador del Sistema Estatal Anticorrupción de Guerrero y la Secretaría de Contraloría y Transparencia Gubernamental respecto de dichos asuntos, así como de la organización, funcionamiento y supervisión de los sistemas de control interno, mejora de gestión en las secretarías, dependencias y entidades de la Administración Pública Estatal y presentación de informes por parte de dichos órganos.
+
+Las unidades encargadas de la función de auditoría de la Secretaría de Contraloría y Transparencia Gubernamental y los órganos internos de control de la Administración Pública Estatal formarán parte del Sistema Estatal de Fiscalización e incorporarán en su ejercicio las normas técnicas y códigos de ética, de conformidad con la Ley General del Sistema Nacional Anticorrupción, la Ley del Sistema Estatal Anticorrupción de Guerrero y las mejores prácticas que considere el referido sistema. Las unidades a que se refiere el párrafo anterior y los órganos internos de control formularán en el mes de noviembre su plan anual de trabajo y de evaluación.
+
+Los titulares de las unidades encargadas de la función de auditoría de la Secretaría de Contraloría y Transparencia Gubernamental y de los órganos internos de control de las instituciones a las que se encuentren adscritos, en los meses de mayo y noviembre, entregarán informes al titular de dicha Secretaría, sobre hallazgos en la gestión y recomendaciones en relación con las acciones correctivas, preventivas y oportunidades de mejora respecto de la calidad y eficiencia de los distintos procesos internos y sobre la relación de los procedimientos por faltas administrativas y de sanciones aplicadas por los órganos internos de control; las acciones de responsabilidad presentadas ante el Tribunal de Justicia Administrativa del Estado de Guerrero y las sanciones correspondientes; las denuncias por hechos de corrupción que presenten ante la Fiscalía Especializada en Combate a la Corrupción; así como un informe detallado del porcentaje de los procedimientos iniciados por los órganos internos de control que culminaron con una sanción firme y a cuánto ascienden, en su caso, las indemnizaciones efectivamente cobradas durante el periodo del informe.
+
+Con base en dichos informes, así como de las recomendaciones, las bases y principios de coordinación que emita el Comité Coordinador del Sistema Estatal Anticorrupción de Guerrero, tanto las secretarías, dependencias y entidades, así como la Secretaría de Contraloría y Transparencia Gubernamental, implementarán las acciones pertinentes para mejora de la gestión.
+
+Conforme a lo dispuesto en las leyes de la materia, así como en las bases y principios de coordinación emitidas por el Comité Coordinador del Sistema Estatal Anticorrupción de Guerrero, los titulares de los órganos internos de control encabezarán comités de control y desempeño institucional para el seguimiento y evaluación general de la gestión.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+###### ARTÍCULO 54.
+
+Las relaciones entre el Ejecutivo Estatal y las entidades paraestatales, para fines de congruencia global de la Administración Pública Paraestatal con el sistema estatal de planeación y con los lineamientos generales en materia de gasto, financiamiento, control y evaluación, se llevarán a cabo en la forma y términos que dispongan las leyes, por conducto de las Secretarías de Finanzas y Administración y de Contraloría y Transparencia Gubernamental, en el ámbito de sus respectivas competencias, sin perjuicio de las atribuciones que competan a la coordinadora del sector correspondiente.
+
+Las Secretarías de Finanzas y Administración y de Contraloría y Transparencia Gubernamental, emitirán los criterios para la clasificación de las entidades paraestatales conforme a sus objetivos y actividades, en aquellas que cumplan una función institucional y las que realicen fines comerciales con el propósito de, en su caso, establecer mecanismos diferenciados que hagan eficiente su organización, funcionamiento, control y evaluación. Dichos mecanismos contemplarán un análisis sobre los beneficios y costos de instrumentar prácticas de gobierno corporativo en las entidades con fines comerciales, a efecto de considerar la conveniencia de su adopción.
+
 T R A N S I T O R I O S
 
 ###### ARTÍCULO PRIMERO.
@@ -1636,3 +1740,27 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 DR. DAVID CIENFUEGOS SALGADO.
 
 Rúbrica.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 469 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE GUERRERO NÚMERO 08".]
+
+PRIMERO. Las reformas relativas a la representación del Estado entrarán en vigor al día siguiente de la publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Las Secretarías de Finanzas y Administración y de Contraloría y Transparencia Gubernamental, con la intervención que corresponda a la Secretaría de Planeación y Desarrollo Regional, deberán realizar las acciones administrativas y las adecuaciones estructurales y presupuestales necesarias, para el adecuado desempeño de la Representación del Estado por parte de la Consejería Jurídica del Poder Ejecutivo.
+
+TERCERO. Lo relacionado con el Sistema Anticorrupción entrará en vigor a partir del uno de enero del año dos mil dieciocho.
+
+CUARTO. Los órganos internos de control que actualmente se encuentran operando en las secretarías, dependencias, entidades paraestatales y demás órganos de la Administración Pública Estatal, así como los recursos de que dispongan pasan a formar parte de la Secretaría de Contraloría y Transparencia Gubernamental, respetando los derechos laborales de los trabajadores. Asimismo, sus titulares quedan directamente subordinados a la misma Secretaría. Para la transferencia de dichas áreas y sus recursos, la Secretaría, se coordinará con la Secretaría de Finanzas y Administración.
+
+QUINTO. La Secretaría de Contraloría y Transparencia Gubernamental determinará según las circunstancias y necesidades, la designación de Delegados, Comisarios Públicos y órganos de control interno en cualquiera de los órganos gubernamentales del Poder Ejecutivo.
+
+SEXTO. Dentro de los noventa días a la entrada en vigor del presente Decreto, la Secretaría de Contraloría y Transparencia Gubernamental y la Secretaría de Finanzas y Administración, formularán y/o actualizarán su Reglamento Interior y Manual de Organización.
+
+SÉPTIMO. Las facultades con que cuentan los órganos internos de control de las secretarías, dependencias y entidades paraestatales que por virtud del presente Decreto pasan a formar parte de la Secretaría de Contraloría y Transparencia Gubernamental, continuarán vigentes en términos de los reglamentos interiores que los rigen, hasta en tanto se expida la normatividad correspondiente.
+
+OCTAVO. Se derogan todas las disposiciones que se opongan al presente Decreto.
