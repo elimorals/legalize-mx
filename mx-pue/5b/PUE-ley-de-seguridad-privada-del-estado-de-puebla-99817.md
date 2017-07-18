@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-seguridad-privada-del-estado-de-puebla-99817"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-14"
-last_updated: "2015-10-29"
+last_updated: "2017-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE SEGURIDAD PRIVADA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2017.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el viernes 14 de marzo de 2014.
 
@@ -146,6 +146,14 @@ Para lo no previsto en la presente Ley, se aplicará de manera supletoria el Có
 Los prestadores de servicios de seguridad privada, tendrán la obligación de coadyuvar con las autoridades e instituciones de seguridad pública en situaciones de urgencia, desastre o en cualquier otro caso, previa solicitud de las autoridades Estatales o Municipales competentes, con las limitaciones que establezca la autoridad respectiva.
 
 Queda prohibido a los prestadores de servicios de seguridad privada, ejercer funciones exclusivas de las autoridades en materia de seguridad pública.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+###### ARTÍCULO 6 Bis.
+
+Queda prohibida en el Estado de Puebla la contratación de personas físicas o morales que presten servicios de seguridad privada que no cuenten con la autorización y registro vigente expedido por la Secretaría de Seguridad Pública; de contravenir lo anterior, se sancionará a quien lo haga con multa de trescientas cincuenta a quinientas veces el valor diario de la Unidad de Medida y Actualización vigente, de conformidad con lo establecido en el artículo 41 de esta Ley.
+
+En todo contrato de prestación de servicios de seguridad privada, deberá agregarse una copia simple de la autorización y registro correspondiente a la modalidad o las modalidades contratadas.
 
 ###### ARTÍCULO 7.
 
@@ -495,9 +503,17 @@ III. Estar inscritos en el Registro Nacional del Personal de Seguridad Pública;
 
 IV. Estar debidamente capacitados en las modalidades en que prestarán el servicio;
 
-V. No haber sido separados de las Fuerzas Armadas o de instituciones de seguridad pública o privada por alguna de las causas previstas en el apartado anterior, y
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
-VI. No ser miembros en activo de alguna institución de Seguridad Pública Federal, Estatal o Municipal o de las Fuerzas Armadas.
+V. No haber sido separados de las Fuerzas Armadas o de instituciones de seguridad pública o privada por alguna de las causas previstas en el apartado anterior;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+VI. No ser miembros en activo de alguna institución de Seguridad Pública Federal, Estatal o Municipal o de las Fuerzas Armadas, y
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+VII. Contar con el certificado de control de confianza vigente, expedido por el Centro Único de Evaluación y Control de Confianza del Estado de Puebla.
 
 Para acreditar los requisitos establecidos en el presente artículo, se atenderá a lo que establece el Reglamento.
 
@@ -548,6 +564,10 @@ VI. La actualización de la relación del nuevo personal o comando canino que se
 VII. Utilizar únicamente los vehículos, armamento, radiocomunicación y demás equipo registrado ante la Secretaría de Seguridad Pública;
 
 VIII. Informar sobre el cambio de domicilio fiscal de la matriz, así como el de las sucursales, adjuntando copia certificada ante fedatario público del aviso dado ante la Secretaría de Hacienda y Crédito Público;
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+
+VIII Bis. Mantener al personal técnico y operativo certificado en materia de evaluación y control de confianza;
 
 IX. Aplicar anualmente exámenes toxicológicos al personal operativo en las instituciones autorizadas, en los términos que establece esta Ley y el Reglamento;
 
@@ -690,6 +710,12 @@ La aplicación de las sanciones establecidas en este artículo, se impondrán co
 ###### ARTÍCULO 39.
 
 La imposición y cumplimiento de las sanciones no eximirá a los prestadores de servicios de la obligación de corregir las omisiones o irregularidades administrativas en las que haya incurrido.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+###### ARTÍCULO 39 Bis.
+
+Es causa de revocación de la autorización que el prestador de servicios preste servicios de seguridad privada con personal operativo o técnico que no cuente con los certificados de evaluación de control de confianza.
 
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2015)</small>
 
@@ -840,3 +866,21 @@ OCTAVO. El Ejecutivo del Estado realizará las modificaciones normativas que cor
 En tanto no se realicen las reformas a que se refiere el párrafo anterior, la Secretaría de Seguridad Pública, seguirá aplicando los Reglamentos vigentes en todo aquello que no contravengan el sentido del presente Decreto.
 
 NOVENO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 18 DE JULIO DE 2017.
+
+> <small>[N. DE E. TRANSITORIOS “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD PRIVADA DEL ESTADO DE PUEBLA”.]</small>
+
+PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los prestadores de servicios autorizados, deberán solicitar al Centro Único de Evaluación y Control de Confianza del Estado de Puebla la programación para que su personal de nuevo ingreso o de permanencia, sea sometido a la evaluación de control de confianza, en un plazo no mayor a sesenta días.
+
+TERCERO. De conformidad con los procesos, criterios, lineamientos y normas establecidos por el Centro Nacional de Certificación y Acreditación del Sistema Nacional de Seguridad Pública, en una primera etapa se sujetará a evaluación al personal de mando técnico y operativo, para que una vez concluida ésta se continúe con el demás personal obligado a presentarlas por parte de los prestadores de servicio de seguridad privada.
+
+El resultado del proceso de evaluación y el expediente que con ese motivo se forme será confidencial y se mantendrán en reserva en los términos de las disposiciones legales aplicables.
+
+Con base en el resultado de la evaluación de control de confianza, la Dirección General de Seguridad Privada dará de baja al personal que no haya aprobado.
+
+CUARTO. El costo de la evaluación de control de confianza, será a cargo de los prestadores de servicios, de conformidad con la Ley de Ingresos del Estado de Puebla para el ejercicio fiscal correspondiente.
+
+QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
