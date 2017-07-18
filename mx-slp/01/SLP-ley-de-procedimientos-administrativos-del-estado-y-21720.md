@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-procedimientos-administrativos-del-estado-y-21720"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-27"
-last_updated: "2013-10-15"
+last_updated: "2017-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL CÓDIGO PROCESAL ADMINISTRATIVO PARA EL ESTADO DE SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 18 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2017 (ABROGADA).
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 27 de marzo de 2001.
 
@@ -976,3 +978,17 @@ P.O. 15 DE OCTUBRE DE 2013.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de San Luis Potosí.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 18 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0674.- CÓDIGO PROCESAL ADMINISTRATIVO PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor el diecinueve de julio de dos mil diecisiete, previa su publicación en el Periódico Oficial del Estado "Plan de San Luis"
+
+SEGUNDO. Se abroga la Ley de Justicia Administrativa publicada en el Periódico Oficial del Estado el treinta de abril de mil novecientos noventa y siete. Los procedimientos iniciados durante su vigencia continuarán substanciándose y se resolverán bajo las disposiciones de la misma hasta su conclusión definitiva.
+
+TERCERO. Se abroga la Ley de Procedimientos Administrativos para el Estado y Municipios de San Luis Potosí, publicada en el Periódico Oficial del Estado con (sic) el veintisiete de marzo de dos mil uno. Los procedimientos iniciados durante su vigencia continuarán substanciándose y se resolverán bajo las disposiciones de la misma hasta su conclusión definitiva.
+
+CUARTO. El Juicio en Línea a que se refiere el presente Código, entrará en vigor en la fecha en que por acuerdo así lo disponga el Pleno del Tribunal Estatal de Justicia Administrativa, considerando sus recursos tecnológicos y disponibilidad presupuestal; sin embargo, dicho término no podrá exceder de dos años posteriores a la entrada en vigor del presente decreto.
+
+QUINTO. Las referencias que en este Código se hagan a la Fiscalía General del Estado, se entenderán hechas a la Procuraduría General de Justicia del Estado, en tanto se reforman las Leyes respectivas que modifiquen su denominación.
