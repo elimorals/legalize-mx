@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-procuraduria-general-de-justicia-del-106240"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-02-26"
-last_updated: "2016-12-08"
+last_updated: "2017-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2017.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el jueves 26 de febrero de 2015.
 
@@ -277,6 +277,10 @@ Al frente de la Procuraduría y del Ministerio Público estará el Procurador, q
 
 En los casos en que deba intervenir el Ministerio Público, el Procurador podrá hacerlo por sí o por medio de alguno de sus agentes. La presente ley, su Reglamento y los acuerdos expedidos por el Procurador fijarán la función, el número, adscripción, obligaciones y atribuciones de los servidores públicos que integran la Procuraduría.
 
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+El Procurador, sin perjuicio de las facultades concedidas en esta Ley al Fiscal Especializado en materia de delitos relacionados con hechos de corrupción para expedir normas administrativas necesarias que rijan la actuación de dicha Fiscalía, emitirá los acuerdos, circulares, instructivos, bases y demás normas administrativas necesarias que rijan la actuación de las unidades administrativas y órganos técnicos y administrativos, centrales y desconcentrados, de la Procuraduría General de Justicia del Estado, así como de Agentes del Ministerio Público, Agentes de Investigación y Análisis de la Policía Ministerial del Estado, Visitadores y Peritos.
+
 ###### Artículo 19.
 
 Servidores Públicos de la Procuraduría
@@ -363,7 +367,9 @@ IV. Fiscalía de Atención Especializada a Delitos de Alto Impacto;
 
 V. Fiscalía Especializada para la Atención de Delitos de Violencia Familiar y de Género;
 
-VI. Fiscalía Anticorrupción;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+VI. Fiscalía Especializada en materia de delitos relacionados con hechos de corrupción;
 
 VII. Agencia de Investigación y Análisis;
 
@@ -371,7 +377,7 @@ VIII. Coordinación General de Servicios Periciales;
 
 IX. Unidad de Servicios de Inteligencia;
 
-X. Dirección General de Atención a Víctimas;
+X. (DEROGADA, P.O. 28 DE SEPTIEMBRE DE 2017)
 
 XI. Unidad Especializada de Combate al Secuestro;
 
@@ -394,6 +400,88 @@ XIX. Los demás que establezca el Reglamento de esta ley y otras disposiciones a
 Durante los procesos electorales la Procuraduría contará con una Fiscalía Especializada para la Atención de Delitos Electorales.
 
 El Reglamento de esta ley regulará las funciones de cada área de la Procuraduría, así como las facultades y obligaciones del personal adscrito a las mismas, de conformidad con esta ley y demás normatividad aplicable, a fin de cumplir eficazmente la procuración de justicia.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+Artículo 23 bis. La Fiscalía Especializada en materia de delitos relacionados con hechos de corrupción, es el órgano con autonomía técnica y operativa para investigar y perseguir los hechos que la ley considera como delitos por hechos de corrupción, su designación será hecha por el Congreso del Estado a Convocatoria Pública que para el efecto se emita y con la aprobación de las dos terceras partes de los diputados presentes.
+
+Contará con el personal sustantivo, especializado, directivo, administrativo y auxiliar capacitados para el debido cumplimiento de sus funciones, así como con las unidades administrativas necesarias para el seguimiento de las investigaciones.
+
+La Fiscalía Especializada para el desarrollo de sus funciones se auxiliará de la unidad administrativa en materia de Servicios Periciales, la cual en su caso, deberá dar trámite y desahogo al peritaje solicitado en el término que al efecto establezca el Ministerio Público y que resulte acorde con la complejidad del peritaje a realizar.
+
+Asimismo, la Fiscalía contará con Agentes del Ministerio Público Especializados en combate a los hechos que la ley considera como delitos en materia de corrupción.
+
+Su titular presentará anualmente al Procurador un informe sobre actividades sustantivas y sus resultados, el cual será público, en términos de lo previsto en la Ley de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Michoacán de Ocampo, y demás disposiciones aplicables en la materia.
+
+Dicho informe será remitido a su vez, al Comité Coordinador del Sistema Estatal Anticorrupción y al Congreso del Estado.
+
+El titular de la Fiscalía, al igual que su personal de confianza, Agentes del Ministerio Público, Agentes de Investigación y Análisis y peritos estarán sujetos a la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo, así como al régimen especial en la materia previsto en esta Ley.
+
+Su actuación será fiscalizada por la Auditoría Superior del Estado, Dirección General de Asuntos Internos y los Órganos Internos de Control, conforme a sus respectivas competencias.
+
+El titular de la Fiscalía Especializada en materia de delitos relacionados con hechos de corrupción elaborará su anteproyecto de presupuesto para enviarlo al Titular del Ejecutivo del Estado por conducto de la Procuraduría General del Estado, para que se integre en el Proyecto de Presupuesto de Egresos del Ejecutivo del Estado correspondiente que envíe para su aprobación al Congreso del Estado.
+
+En el Presupuesto de Egresos se identificará el monto aprobado a esta Fiscalía para el respectivo ejercicio fiscal.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+Artículo 23 ter. La Fiscalía Especializada en materia de delitos relacionados con hechos de corrupción contará con las siguientes atribuciones:
+
+I. Ejercer las atribuciones que la Constitución, las leyes, los reglamentos y demás disposiciones jurídicas confieren al Ministerio Público en lo relativo a los hechos que la ley considera como delitos en materia de corrupción, con excepción de los cometidos por servidores públicos de la Procuraduría, supuesto en el cual se estará a lo dispuesto en el artículo 50 de esta ley;
+
+II. Participar como integrante en el Comité Coordinador del Sistema Estatal Anticorrupción, atendiendo las bases establecidas en la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo y en la ley correspondiente;
+
+III. Nombrar, previo acuerdo con el Procurador a los titulares de las unidades administrativas y direcciones generales de la Fiscalía Especializada en materia de delitos relacionados con hechos de corrupción, salvo aquellas que no realicen funciones sustantivas, en cuyo caso, el nombramiento y su remoción serán exclusivos del Fiscal Especializado;
+
+IV. Contar con los Agentes del Ministerio Público y policías de investigación y análisis, miembros del servicio profesional de carrera, que le estarán adscritos y resulten necesarios para la atención de los casos que correspondan a la Fiscalía, sobre los que ejercerá mando directo en términos de lo dispuesto por esta Ley y su reglamento;
+
+V. Proponer al Procurador el nombramiento de los Agentes del Ministerio Público por designación especial que reúnan amplia experiencia profesional en materia de corrupción;
+
+VI. Proponer a la unidad administrativa competente el contenido teórico práctico de los programas de capacitación, actualización y especialización a que se refiere el artículo 38 de esta Ley, respecto de los Agentes del Ministerio Público adscritos a la Fiscalía Especializada;
+
+VII. Coordinar y supervisar la actuación de la policía de investigación y análisis en los términos de lo dispuesto en el artículo 21 constitucional;
+
+VIII. Diseñar e implementar estrategias y líneas de acción para combatir los hechos que la ley considera como delitos en materia de corrupción;
+
+IX. Implementar planes y programas destinados a detectar la comisión de los hechos que la ley considera como delitos en materia de corrupción en el ámbito de su competencia, dichos planes y programas deberán ser aprobados por el Procurador;
+
+X. Instrumentar mecanismos de colaboración con otras autoridades para la elaboración de estrategias y programas tendientes a combatir los hechos que la ley considera como delitos en materia de corrupción;
+
+XI. Emitir los acuerdos, circulares, instructivos, bases y demás normas administrativas necesarias que rijan la actuación de la Fiscalía en el ámbito de su competencia.
+
+Los acuerdos, circulares, instructivos, bases y demás normas administrativas emitidas por parte del Fiscal Especializado en materia de delitos relacionados con hechos de corrupción, que sean necesarios para regular la actuación de la Fiscalía Especializada a su cargo, en ningún caso podrán contradecir las normas administrativas emitidas por el Procurador;
+
+XII. Fortalecer e implementar, en el ámbito de su competencia, mecanismos de cooperación y colaboración con autoridades de los tres órdenes de gobierno para la investigación de los hechos que la ley considera como delitos en materia de corrupción;
+
+XIII. Diseñar e implementar proyectos, estudios y programas permanentes de información y fomento de la cultura de la denuncia y de la legalidad en materia de los hechos que la ley considera como delitos en materia de corrupción;
+
+XIV. Implementar mecanismos de colaboración con autoridades que ejerzan facultades de fiscalización a fin de fortalecer el desarrollo de las investigaciones;
+
+XV. Requerir a las instancias de gobierno la información que resulte útil o necesaria para sus investigaciones, la que por ningún motivo le podrá ser negada, incluso anteponiendo el secreto bancario, fiduciario o cualquiera otro de similar naturaleza;
+
+XVI. Diseñar, integrar e implementar sistemas y mecanismos de análisis de la información fiscal, financiera y contable para que pueda ser utilizada por ésta y otras unidades competentes de la Procuraduría, en especial la relacionada con la investigación de los hechos que la ley considera como delitos en materia de corrupción;
+
+XVII. Coadyuvar con otras áreas competentes de la Procuraduría, en el desarrollo de herramientas de inteligencia con metodologías interdisciplinarias de análisis e investigación de las distintas variables criminales, socioeconómicas y financieras, para conocer la evolución de las actividades relacionadas con los hechos que la ley considera como delitos en materia de corrupción;
+
+XVIII. Generar sus propias herramientas metodológicas para el efecto de identificar los patrones de conducta que pudieran estar relacionados con operaciones con recursos de procedencia ilícita;
+
+XIX. Emitir guías y manuales técnicos, en conjunto con la Coordinación General de Servicios Periciales para la formulación de dictámenes en materia de análisis fiscal, financiero y contable que requieran los Agentes del Ministerio Público en el cumplimiento de sus funciones de investigación y persecución de los hechos que la ley considera como delitos en materia de corrupción;
+
+XX. Conducir la investigación para la obtención de datos o medios de prueba vinculados a hechos que la ley considera como delitos en materia de corrupción;
+
+XXI. Suscribir programas de trabajo y proponer al Procurador la celebración de convenios con las entidades federativas para tener acceso directo a la información disponible en los Registros Públicos de la Propiedad así como, para la investigación y persecución de los hechos que la ley considera como delitos en materia de corrupción;
+
+XXII. Ordenar el aseguramiento de bienes propiedad del imputado; así como de aquellos respecto de los cuales se conduzcan como dueños, o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga al producto, los instrumentos u objetos del hecho delictivo cuando estos hayan desaparecido o no se localicen por causa atribuible al imputado;
+
+XXIII. Promover la extinción de dominio de los bienes de los imputados o sentenciados, así como de aquellos respecto de los cuales se conduzcan como dueños, o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga a los bienes desaparecidos o no localizados por causa atribuible al imputado o sentenciado, cuando estos bienes estén vinculados con hechos que la ley considera como delitos en materia de corrupción que sean susceptibles de la acción de extinción de dominio, en los términos de la legislación aplicable;
+
+XXIV. Decidir responsablemente sobre el destino de los recursos que le sean asignados, a fin de cubrir todas las necesidades que surjan en el desempeño de sus facultades; y,
+
+XXV. Las demás que en su caso le confieran otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+Artículo 23 quáter. El titular de la Fiscalía Especializada deberá ser ciudadano mexicano por nacimiento; tener cuando menos treinta y cinco años cumplidos el día de la designación; contar con cédula profesional de licenciado en derecho, con antigüedad mínima de diez años; gozar de buena reputación, no haber sido condenado por delito doloso, no haber sido inhabilitado o encontrarse sujeto a Procedimiento de Responsabilidad.
 
 ###### Artículo 24.
 
@@ -632,6 +720,10 @@ III. Peritos.
 La designación especial bajo nombramiento temporal de los servidores públicos a que se refiere el presente artículo, así como de cualquier otro que realice funciones sustantivas para la Procuraduría, no implica su incorporación al servicio de carrera. Dichos nombramientos podrán renovarse o darse por terminados en cualquier momento en razón de conjuntar la necesidad del servicio de la Procuraduría y la voluntad de quien ocupe el cargo.
 
 No formarán parte del servicio de carrera los titulares de las áreas denominadas de confianza o estructura, así como cualquier otra análoga, que por su naturaleza se encuentren vinculados a funciones de dirección, administración y vigilancia, independientemente de que materialmente ejerzan funciones operativas.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+El Fiscal Especializado fundada y motivadamente, podrá dar vista al Procurador respecto de los Agentes del Ministerio Público y de la policía que le estén adscritos cuando no cumplan con los requisitos para permanecer en su cargo.
 
 ###### Artículo 40.
 
@@ -873,6 +965,10 @@ VII. Las que beneficien, permitan o apoyen, de cualquier forma, directa o indire
 
 Las responsabilidades serán sancionadas en términos de la legislación en materia de responsabilidades de los servidores públicos en el Estado, por la Dirección General de Asuntos Internos de la Procuraduría.
 
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+El Órgano Interno de Control en la Procuraduría dependiente de la Secretaría de Contraloría del Ejecutivo del Estado, ejercerá sus atribuciones conforme a las leyes, reglamentos y demás disposiciones jurídicas que rigen la actuación de esa Secretaría de Estado. Las faltas administrativas en que incurran los servidores públicos de la Procuraduría General de Justicia del Estado que no encuadren en este artículo y sancionables por la Dirección General de Asuntos Internos, serán del conocimiento del Órgano Interno de Control en los términos de la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo.
+
 ### CAPÍTULO IX. EXCUSAS E IMPEDIMENTOS
 
 ###### Artículo 52.
@@ -1098,3 +1194,13 @@ P.O. 8 DE DICIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 195 POR EL QUE “SE ADICIONA UN CUARTO PÁRRAFO RECORRIÉNDOSE EN SU ORDEN EL SUBSECUENTE AL ARTÍCULO 63 (SIC) LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 18 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 370 POR EL QUE "SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 23, SE ADICIONA EL PÁRRAFO TERCERO AL ARTÍCULO 18, LOS ARTÍCULOS 23 BIS, 23 TER, Y 23 QUÁTER, EL PÁRRAFO CUARTO AL ARTÍCULO 39 Y EL PÁRRAFO TERCERO AL ARTÍCULO 51 DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Gobernador del Estado realizará las acciones necesarias para que el Congreso apruebe el presupuesto de egresos y proveer de recursos a la Fiscalía Especializada en materia de delitos relacionados con hechos de corrupción. El presupuesto aprobado deberá cubrir los capítulos de servicios personales, materiales y suministros, así como de servicios generales necesarios para cumplir con sus funciones.
+
+TERCERO. El Congreso del Estado, por conducto de las comisiones de Justicia y de Gobernación, emitirá convocatoria pública para la designación del Fiscal Especializado, en materia de delitos relacionados con hechos de corrupción, dentro de los noventa días hábiles posteriores a la publicación del presente Decreto.
