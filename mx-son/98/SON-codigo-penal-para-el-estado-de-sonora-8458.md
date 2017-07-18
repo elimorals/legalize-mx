@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2017-07-13"
+last_updated: "2017-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CÓDIGO PENAL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE JULIO DE 2017.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -2601,15 +2601,23 @@ Este delito se perseguirá sólo a petición de parte ofendida.
 
 Si el delito se cometiera en contra de la víctima, por su condición de género, se aumentará la pena que corresponda hasta en una tercera parte.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 18 DE JULIO DE 2017)</small>
+
+ARTICULO 212 BIS 1.- Comete el delito de acoso sexual quien mediante conductas verbales de una forma reiterada y con fines lascivos asedie a una persona de cualquier sexo, que la ponga en riesgo o cause un daño psicológico que lesione su dignidad.
+
 > <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2016)</small>
 
-ARTICULO 212 BIS 1.- Comete el delito de acoso sexual quien mediante conductas verbales de una forma reiterada y con fines de lujuria asedie a una persona de cualquier sexo, que la ponga en riesgo o cause un daño psicológico que lesione su dignidad.
+Al responsable de este delito se sancionará con una pena de dos a cuatros (sic) años de prisión y multa de cien a trescientas unidades de medida y actualización.
 
-Al responsable de este delito se sancionará con una pena de dos a cuatros años de prisión y multa de cien a trescientas unidades de medida y actualización.
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2016)</small>
 
 Si la víctima del delito de acoso sexual es menor de dieciocho años, o con alguna discapacidad o no tuviere la capacidad de comprender el significado del hecho, la pena de prisión se aumentará hasta una tercera parte de la prevista en el párrafo anterior.
 
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2016)</small>
+
 Cuando el sujeto activo sea un servidor público o miembro de cualquier institución educativa o asistencia social, además de las penas señaladas se le destituirá de su cargo y se inhabilitará para ocupar cualquier puesto en el sector público hasta por diez años.
+
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2016)</small>
 
 Este delito será perseguido por querella del ofendido o de su legítimo representante, excepto cuando se trate de menores de edad, incapaces y cuando en (sic) sujeto activo era (sic) servidor público, en estos casos se perseguirá de oficio.
 
@@ -4924,3 +4932,11 @@ El presente Decreto entrará en vigor en un plazo de sesenta días naturales, co
 ###### ARTÍCULO SEGUNDO.
 
 Dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, la Secretaría de Hacienda del Estado, deberá modificar los reglamentos correspondientes para adecuarlos a las disposiciones contenidas en este ordenamiento jurídico.
+
+B.O. 18 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 157, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE SONORA Y DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
