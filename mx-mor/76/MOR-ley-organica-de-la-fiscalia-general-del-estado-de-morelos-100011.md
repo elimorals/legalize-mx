@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-fiscalia-general-del-estado-de-morelos-10001
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-03-26"
-last_updated: "2017-04-19"
+last_updated: "2017-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100011&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE NOVIEMBRE DE 2017 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 26 de marzo de 2014.
 
@@ -45,113 +47,87 @@ LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### Artículo 1.
 
-Esta Ley es de orden público y de interés social, y tiene por objeto establecer, organizar y regular las atribuciones de la Fiscalía General del Estado de Morelos, de la Fiscalía Especializada para la Investigación de Hechos de Corrupción, así como de las Unidades Administrativas que las integran, para el despacho de los asuntos que al Ministerio Público le confieren la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos y demás normas aplicables.
+Esta Ley es de orden público y de interés social, y tiene por objeto establecer, organizar y regular las atribuciones de la Fiscalía General y de la Fiscalía Especializada en Combate a la Corrupción del Estado de Morelos, así como de las Unidades Administrativas que las integran, para el despacho de los asuntos que al Ministerio Público le confieren la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos y demás normas aplicables.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### Artículo 2.
 
 Para los efectos de esta Ley, se entenderá por:
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
-
-I. Cadena de custodia, es el sistema de control y registro que se aplica al indicio, evidencia, objeto, instrumento o producto del hecho delictivo, desde su localización, descubrimiento aportación, en el lugar de los hechos o del hallazgo, hasta que la autoridad competente ordene su conclusión;
-
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+I. Cadena de custodia, al sistema de control y registro que se aplica al indicio, evidencia, objeto, instrumento o producto del hecho delictivo, desde su localización, descubrimiento aportación, en el lugar de los hechos o del hallazgo, hasta que la autoridad competente ordene su conclusión;
 
 II. Consejo, al Consejo de Profesionalización;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
-
 III. Consejo de Honor, al Consejo de Honor y Justicia;
 
-> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2017)</small>
+IV. Ficha Identificativa, al documento de identificación de los cadáveres o restos humanos que carecen de la misma, que tengan relación con una carpeta de investigación, que contenga el número y fecha de inicio de la misma; así como cualquier información que permita el pleno reconocimiento de los mismos, como son, antropología forense, criminalística de campo, video, fotografía forense, medicina forense, dactiloscopia, genética forense y odontología forense;
 
-IV. Ficha Identificativa: documento de identificación de los cadáveres o restos humanos que carecen de la misma, que tengan relación con una carpeta de investigación, que contenga el número y fecha de inicio de la misma; así como cualquier información que permita el pleno reconocimiento de los mismos, como son, antropología forense, criminalística de campo, video, fotografía forense, medicina forense, dactiloscopia, genética forense y odontología forense;
+V. Fiscalía General, a la Fiscalía General del Estado de Morelos;
 
-> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2017)</small>
+VI. Fiscal General, a la persona Titular de la Fiscalía General;
 
-V. Fiscalía General: a la Fiscalía General del Estado de Morelos;
+VII. Fiscalía Anticorrupción, a la Fiscalía Especializada en Combate a la Corrupción del Estado de Morelos;
 
-> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2017)</small>
+VIII. Fiscal Anticorrupción, a la persona titular de la Fiscalía Especializada en Combate a la Corrupción del Estado de Morelos;
 
-VI. Fiscal General: al Titular de la Fiscalía General;
+IX. Gobernador, al Titular del Poder Ejecutivo Estatal;
 
-> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2017)</small>
+X. Ley, a la Ley Orgánica de la Fiscalía General del Estado de Morelos;
 
-VII. Gobernador: al Titular del Poder Ejecutivo Estatal;
+XI. Ley General, a la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI, del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2017)</small>
+XII. Ministerio Público, al profesionista que ejerce las funciones de agente del Ministerio Público;
 
-VIII. Ley: a la Ley Orgánica de la Fiscalía General del Estado de Morelos;
+XIII. Oficial, al Oficial del Registro Civil del Municipio que corresponda;
 
-> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2017)</small>
+XIV. Placa Identificativa, a la placa de material anticorrosivo que contiene la mayor cantidad de datos posibles de la Ficha Identificativa;
 
-IX. Ley General: a la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI, del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos;
+XV. Protocolo, al Protocolo para el Tratamiento e Identificación Forense, expedido por la Procuraduría General de la República;
 
-> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2017)</small>
+XVI. Policía de Investigación Criminal, al cuerpo de Policía que auxilia al Ministerio Público en las funciones de investigación y persecución de los delitos, en términos de la Constitución Federal;
 
-X. Ministerio Público: quien ejerce las funciones del Ministerio Público;
+XVII. Registro, al Registro de Datos de los cadáveres no identificados relacionados con una carpeta de investigación;
 
-> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2017)</small>
+XVIII. Reglamento, al Reglamento de la Ley;
 
-XI. Oficial: al Oficial del Registro Civil del Municipio que corresponda;
+XIX. Secretario Técnico, a la persona Titular de la Secretaría Técnica del Consejo;
 
-> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2017)</small>
+XX. Servicio de Carrera, al Servicio de Carrera de la Fiscalía General y de la Fiscalía Anticorrupción para los Agentes del Ministerio Público, Oficiales Auxiliares del Ministerio Público, Peritos y Agentes de la Policía de Investigación Criminal que les estén adscritos, y
 
-XII. Placa Identificativa: a la placa de material anticorrosivo que contiene la mayor cantidad de datos posibles de la Ficha Identificativa;
+XXI. Servicios Periciales, al cuerpo de personas con conocimientos y experiencia en las diferentes profesiones, ciencias, técnicas, artes u oficios, que mediante la emisión de opiniones y dictámenes auxilian al Ministerio Público en su función.
 
-> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2017)</small>
-
-XIII. Protocolo: al Protocolo para el Tratamiento e Identificación Forense, expedido por la Procuraduría General de la República;
-
-> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2017)</small>
-
-XIV. Policía de Investigación Criminal: al cuerpo de Policía que auxilia al Ministerio Público en las funciones de investigación y persecución de los delitos, en términos de la Constitución Federal;
-
-> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2017)</small>
-
-XV. Registro: al Registro de Datos de los cadáveres no identificados relacionados con una carpeta de investigación;
-
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
-
-XVI. Reglamento, al Reglamento de la Ley;
-
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
-
-XVII. Secretario Técnico, a la persona Titular de la Secretaría Técnica del Consejo;
-
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
-
-XVIII. Servicio de Carrera, al Servicio de Carrera de la Fiscalía General para los Agentes del Ministerio Público, Oficiales Auxiliares del Ministerio Público, Peritos y Agentes de la Policía de Investigación Criminal, y
-
-> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2017)</small>
-
-XIX. Servicios Periciales; al cuerpo de personas con conocimientos y experiencia en las diferentes profesiones, ciencias, técnicas, artes u oficios, que mediante la emisión de opiniones y dictámenes auxilian al Ministerio Público en su función.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### Artículo 3.
 
 La Fiscalía General, es una Institución perteneciente al Poder Ejecutivo del Estado, dotada de autonomía de gestión, técnica, de ejercicio y de aplicación del gasto público que le asigne el Congreso del Estado.
 
-> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2016)</small>
+Por su parte, la Fiscalía Anticorrupción, integrante del Sistema Estatal Anticorrupción, cuenta con autonomía técnica, de gestión y operación, con competencia exclusiva para la prevención, persecución e investigación de los delitos que la ley señale como relacionados con hechos de corrupción.
 
-Además, se establece la Fiscalía Especializada para la investigación de hechos de corrupción, integrante del Sistema Estatal Anticorrupción, que tendrá las mismas características de autonomía para sí.
-
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### Artículo 4.
 
-Por su autonomía de gestión, la Fiscalía General y la Fiscalía Especializada para Investigación de Hechos de Corrupción gozan de la administración, dirección, organización, disposición, distribución y suministro de recursos humanos, materiales y financieros; así como de la capacidad de decidir responsablemente sobre la adquisición de productos y servicios, en los términos previstos por las disposiciones jurídicas aplicables, el ejercicio de sus recursos propios, su estructura administrativa, así como proponer los niveles remunerativos para el personal que la integra, de conformidad con el presupuesto autorizado para ello y en términos de lo dispuesto por la legislación Federal y Estatal que resulte aplicable.
+Por su autonomía de gestión, la Fiscalía General y la Fiscalía Anticorrupción gozan de la administración, dirección, organización, disposición, distribución y suministro de recursos humanos, materiales y financieros; así como de la capacidad de decidir responsablemente sobre la adquisición de productos y servicios, en los términos previstos por las disposiciones jurídicas aplicables, el ejercicio de sus recursos propios, su estructura administrativa, así como proponer los niveles remunerativos para el personal que la integra, de conformidad con el presupuesto autorizado para ello y en términos de lo dispuesto por la legislación Federal y Estatal que resulte aplicable.
+
+El Fiscal Anticorrupción elaborará su anteproyecto y lo entregará a la Secretaría de Hacienda, para que sea integrado al Proyecto de Presupuesto de Egresos del Gobierno del Estado, para su posterior aprobación por parte del Congreso Local.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### Artículo 5.
 
-La autonomía técnica de la Fiscalía General, debe ser entendida como la facultad que le ha sido otorgada para expedir sus propias disposiciones normativas, con excepción de las disposiciones legales que le competan al Gobernador, con el propósito de regular las acciones que desarrolla en el ámbito de su competencia, delimitar las atribuciones que ejerce y regir su actuación, bajo las políticas permanentes de especialización técnica, profesionalización y rendición de cuentas, debiendo respetar en todo momento, la Constitución, tanto Federal como Local, y la Ley.
+La autonomía técnica de la Fiscalía General, y de la Fiscalía Anticorrupción, debe ser entendida como la facultad que les ha sido otorgada para expedir sus propias disposiciones normativas, con excepción de las disposiciones legales que le competan al Gobernador, con el propósito de regular las acciones que desarrolla en el ámbito de su competencia, delimitar las atribuciones que ejerce y regir su actuación, bajo las políticas permanentes de especialización técnica, profesionalización y rendición de cuentas, debiendo respetar en todo momento, la Constitución Federal, la Convención de Naciones Unidas Contra la Corrupción, los Tratados Internacionales en materia de Derechos Humanos de los que el Estado Mexicano sea parte, los Códigos y Leyes Nacionales, Generales y Federales que rijan su actuar procesal, la Constitución Local, y en general toda disposición jurídica aplicable.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### Artículo 6.
 
-El Fiscal General, para el ejercicio de la autonomía técnica y de gestión a que se refieren los artículos 4 y 5 de esta Ley, contará con las siguientes atribuciones:
+El Fiscal General y el Fiscal Anticorrupción, para el ejercicio de la autonomía técnica y de gestión a que se refieren los artículos 4 y 5 de esta Ley, contarán en el ámbito de sus respectivas competencias, con las siguientes atribuciones:
 
 I. Instrumentar y organizar políticas sobre la administración de los recursos humanos, la adquisición de bienes y servicios y el arrendamiento de inmuebles;
 
@@ -159,25 +135,25 @@ II. Planear, coordinar, dirigir y controlar la administración de los recursos p
 
 III. Aprobar la adquisición del equipo operativo, técnico, científico, móvil y demás que sea necesario para los fines y necesidades de su actividad;
 
-IV. Aprobar la contratación, de prestadores de servicios profesionales para la capacitación y profesionalización de personal;
+IV. Aprobar la contratación de prestadores de servicios profesionales para la capacitación y profesionalización de personal;
 
 V. Aprobar el arrendamiento de inmuebles para los fines de seguridad, protección de víctimas y testigos, de conformidad con las disposiciones legales aplicables;
 
-VI. Autorizar las propuestas de modificación de la estructura administrativa y la plantilla del personal de la Fiscalía General;
+VI. Autorizar las propuestas de modificación de la estructura administrativa y la plantilla del personal adscrito a la Fiscalía General y a la Fiscalía Anticorrupción;
 
-VII. Coadyuvar en el diseño, construcción y remodelación de los bienes inmuebles, oficinas e instalaciones que ocupe la Fiscalía General, conforme a las disposiciones jurídicas aplicables;
+VII. Coadyuvar en el diseño, construcción y remodelación de los bienes inmuebles, oficinas e instalaciones que ocupen la Fiscalía General y la Fiscalía Anticorrupción, conforme a las disposiciones jurídicas aplicables;
 
-VIII. Planear y promover la calidad en los servicios que preste la Fiscalía General;
+VIII. Planear y promover la calidad en los servicios que presten la Fiscalía General y la Fiscalía Anticorrupción;
 
-IX. Fijar criterios y medidas administrativas para la simplificación de los trámites y procesos que se realicen ante la Fiscalía General;
+IX. Fijar criterios y medidas administrativas para la simplificación de los trámites y procesos que se realicen ante la Fiscalía General y la Fiscalía Anticorrupción;
 
-X. Integrar el Comité de adquisiciones de la Fiscalía General;
+X. Integrar el Comité de adquisiciones de la Fiscalía General y de la Fiscalía Anticorrupción;
 
-XI. Aprobar el Programa Anual de Adquisiciones de la Fiscalía General, y
+XI. Aprobar el Programa Anual de Adquisiciones de la Fiscalía General y de la Fiscalía Anticorrupción, y
 
-XII. Las demás disposiciones legales y reglamentarias aplicables.
+XII. Las demás disposiciones legales y reglamentarias aplicables a la Fiscalía General y a la Fiscalía Anticorrupción.
 
-El Comité de Adquisiciones de la Fiscalía General, se integrará y funcionará de conformidad con lo que disponga para tal efecto el Reglamento y la normativa aplicable.
+Los Comités de Adquisiciones tanto de la Fiscalía General, como de la Fiscalía Anticorrupción, se integrarán y funcionarán de conformidad con lo que dispongan para tales efectos sus respectivos Reglamentos y la normativa aplicable.
 
 ###### Artículo 7.
 
@@ -203,9 +179,11 @@ Su actuación se sujetará a los principios de legalidad, imparcialidad, objetiv
 
 ### CAPÍTULO II. DE LAS FUNCIONES DEL MINISTERIO PÚBLICO
 
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 1364, PUBLICADO EN EL P.O. DEL 15 DE FEBRERO DE 2017, SE ADVIERTE QUE SE ADICIONAN LAS FRACCIONES XVIII Y XIX, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES. EL ARTÍCULO ANTES DE ESTE DECRETO, CONTABA CON XXVIII FRACCIONES; SIN EMBARGO, EN LA PÁGINA 67 DEL CITADO P.O. SE OMITIÓ EL TEXTO DE LAS ANTERIORES FRACCIONES XXVI Y XXVII Y NO REFIERE SU RESPECTIVA DEROGACIÓN; POR LO QUE SE SUGIERE CONSULTAR LA CRONOLOGÍA LEGISLATIVA DE ESTE ARTÍCULO.]</small>
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2017)</small>
 
-#### SECCIÓN PRIMERA. DE LAS FISCALÍAS
+#### SECCIÓN PRIMERA. DE LA FISCALÍA GENERAL
+
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 1364, PUBLICADO EN EL P.O. DEL 15 DE FEBRERO DE 2017, SE ADVIERTE QUE SE ADICIONAN LAS FRACCIONES XVIII Y XIX, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES. EL ARTÍCULO ANTES DE ESTE DECRETO, CONTABA CON XXVIII FRACCIONES; SIN EMBARGO, EN LA PÁGINA 67 DEL CITADO P.O. SE OMITIÓ EL TEXTO DE LAS ANTERIORES FRACCIONES XXVI Y XXVII Y NO REFIERE SU RESPECTIVA DEROGACIÓN; POR LO QUE SE SUGIERE CONSULTAR LA CRONOLOGÍA LEGISLATIVA DE ESTE ARTÍCULO.]</small>
 
 ###### Artículo 11.
 
@@ -349,57 +327,85 @@ El personal de la unidad especializada en combate al secuestro, deberá capacita
 
 Para ingresar al servicio de esta unidad especializada, los aspirantes deberán asumir el compromiso de sujetarse a vigilancia no intrusiva, por la autoridad competente, en cualquier tiempo de su servicio y dentro de los cinco años posteriores a la terminación del mismo, así como rendir y mantener actualizada la información en materia de secuestro y la realización de exámenes de control de confianza cuando sean requeridos, mismos que deberán acreditar para continuar en el servicio.
 
-> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2016)</small>
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2017)</small>
 
-Artículo 13 BIS. Con estricto cumplimiento y respecto de los derechos que le asisten a cualquier persona, son funciones del Fiscal Especializado para la Investigación de Hechos de Corrupción:
+#### SECCIÓN SEGUNDA. DE LA FISCALÍA ANTICORRUPCIÓN
 
-I. Conocer e investigar los delitos derivados de hechos conocidos o identificados como de corrupción en contra de la administración pública, aquellos casos en que la función, cargo o comisión de los servidores públicos se realice en contra de los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia, así como demás delitos relacionados con los tipos penales que se desprendan de las investigaciones;
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+
+Artículo 13 BIS. El Fiscal Anticorrupción, contará con las atribuciones siguientes:
+
+I. Planear, programar, organizar y dirigir el funcionamiento de la Fiscalía Anticorrupción, para perseguir e investigar los delitos relacionados con hechos de corrupción previstos en el capítulo correspondiente del Código Penal, que sean cometidos por servidores públicos o particulares;
 
 II. Ejercitar acción penal en contra de los imputados de los delitos a que se refiere la fracción anterior;
 
-III. Perseguir y conocer de aquellos delitos previstos por la normativa federal o local, según sea el caso, que se expida en la materia;
+III. Autorizar la consulta de reserva, incompetencia, acumulación y separación de las investigaciones, archivo temporal, criterio de oportunidad, acuerdo reparatorio, y procedimiento abreviado que propongan los agentes del Ministerio Público, de su adscripción;
 
-IV. Detallar la investigación correspondiente precisando las constancias o las actuaciones realizadas;
+IV. Solicitar atención y reparación para las víctimas de las conductas previstas en la normativa aplicable en la materia;
 
-V. Dar aviso al Ministerio Público competente, por razón de fuero o materia, cuando de las diligencias practicadas en la investigación de los delitos de su competencia se desprenda la comisión de alguno diferente;
+V. Recibir, por cualquier medio autorizado por la Ley, las denuncias sobre los delitos e iniciar la investigación correspondiente;
 
-VI. Solicitar atención y reparación para las víctimas de las conductas previstas en la normativa aplicable en la materia;
+VI. Dar aviso al Ministerio Público competente, por razón de fuero o materia, cuando de las diligencias practicadas en la investigación de los delitos de su competencia se desprenda la comisión de alguno diferente;
 
-VII. Recibir, por cualquier medio autorizado por la Ley, las denuncias sobre los delitos e iniciar la investigación correspondiente;
+VII. Utilizar las técnicas de investigación previstas en la normativa aplicable;
 
-VIII. Utilizar las técnicas de investigación previstas en la normativa aplicable;
+VIII. Vigilar, con absoluto respeto a los derechos constitucionales, a las personas respecto de las cuales se tengan indicios de que pudieran estar involucradas en hechos de corrupción;
 
-IX. Vigilar, con absoluto respeto a los derechos constitucionales, a las personas respecto de las cuales se tengan indicios de que pudieran estar involucradas en hechos de corrupción;
+IX. Sistematizar la información obtenida para la detención de los imputados;
 
-X. Sistematizar la información obtenida para la detención de los imputados;
+X. Requerir a las instancias de gobierno federales, de las entidades federativas y municipales, la información que resulte útil o necesaria para sus investigaciones, la que por ningún motivo le podrá ser negada, incluso anteponiendo el secreto bancario, fiduciario, industrial, fiscal, bursátil, postal, o cualquier otro de similar naturaleza, en términos del artículo 109, antepenúltimo párrafo, de la Constitución Política de los Estados Unidos Mexicanos;
 
-XI. Solicitar a personas físicas o morales la entrega inmediata de información que pueda ser relevante para la investigación de los delitos de que conozca;
+XI. Proponer, en coordinación con el Sistema Estatal Anticorrupción, políticas y programas para la prevención e investigación de hechos de corrupción;
 
-XII. Proponer, en coordinación con el Sistema Estatal Anticorrupción, políticas y programas para la prevención e investigación de hechos de corrupción, y
+XII. Nombrar bajo su más estricta responsabilidad a los Titulares de las Unidades Administrativas, a que se refiere el artículo 21 BIS, y en general a todo el personal de la Fiscalía Anticorrupción a su cargo, con estricta observancia a la normativa aplicable, y en términos del artículo 22 de este instrumento;
 
-XIII. Las demás que le otorguen otras disposiciones jurídicas aplicables.
+XIII. Instruir a la Policía de Investigación Criminal, y al resto de las corporaciones policiales del Estado cuando éstos actúen como auxiliares en la prevención, investigación y persecución de delitos relacionados con hechos de corrupción, realicen sus actuaciones con pleno respeto a los derechos fundamentales y conforme a los principios de legalidad y objetividad;
 
-Para los fines del presente artículo y conforme a lo previsto por el artículo 79-B de la Constitución Política del Estado Libre y Soberano de Morelos, se establece la Fiscalía Especializada para la Investigación de Hechos de Corrupción, que gozará de la misma autonomía que la Fiscalía General en términos de los artículos 4 y 5 de esta Ley, incluso respecto de ésta última, a fin de salvaguardar toda imparcialidad en el desempeño de sus actividades, de conformidad con las disposiciones presupuestales asignadas para ello.
+XIV. Promover la participación de la ciudadanía en los programas de su competencia;
 
-La Fiscalía Especializada para la Investigación de Hechos de Corrupción estará a cargo de una persona titular, quien además de cumplir con los requisitos establecidos en la Constitución Política del Estado Libre y Soberano de Morelos, gozará de nivel equivalente al del Fiscal General, y no le resultan aplicables los requisitos a que se refiere el artículo 37 de esta Ley.
+XV. Participar como integrante del Comité Coordinador del Sistema Estatal Anticorrupción, atendiendo a las bases establecidas en el artículo 113, fracción III, inciso a), de la Constitución Política de los Estados Unidos Mexicanos, y 134, en lo conducente, de la Constitución Política del Estado Libre y Soberano de Morelos;
 
-La designación y permanencia en el cargo de dicho Fiscal Especializado se regirán por lo previsto en la Constitución Política del Estado Libre y Soberano de Morelos, así como por la normativa aplicable.
+XVI. Diseñar, establecer e implementar mecanismos de cooperación y colaboración con autoridades federales, de la Ciudad de México, estatales y municipales, incluyendo autoridades que ejerzan facultades de fiscalización, bancarias y de similar naturaleza, en el ámbito de su competencia, atendiendo a las normas y políticas institucionales;
 
-> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2016)</small>
+XVII. Ordenar el aseguramiento, el embargo precautorio o ejercer la acción de extinción de dominio, cuando proceda, de bienes propiedad de los imputados sujetos a investigación, así como aquellos sobre los que se conduzca como dueños (sic) o dueño beneficiario o beneficiario controlador;
 
-Artículo 13 TER. A la Fiscalía Especializada para la Investigación de Hechos de Corrupción solo le resultarán aplicables las disposiciones previstas en los artículos 24 y 25 de esta Ley, en lo conducente, considerando lo dispuesto por el artículo anterior y su previsión constitucional, como integrante del Sistema Estatal Anticorrupción, y sin perjuicio de otras disposiciones jurídicas de este y otros ordenamientos que deba observar.
+XVIII. Emitir o solicitar las órdenes o medidas para la protección, atención y auxilio de las personas víctimas de delito o de los testigos, e implementar medidas de protección hacia sus propios servidores públicos cuando sea necesario;
 
-Para el cumplimiento de su objeto, tendrá a su cargo Fiscales, Agentes del Ministerio Púbico, Peritos y Policías de Investigación Criminal y técnicos especializados así como el demás personal que resulte necesario conforme a la suficiencia presupuestaria autorizada para ello, de conformidad con su Reglamento Interior y las disposiciones jurídicas y administrativas aplicables.
+XIX. Autorizar en definitiva que los Agentes del Ministerio Público adscritos a la Fiscalía Anticorrupción, decreten el no ejercicio de la acción penal, de conformidad a la disposición procesal penal correspondiente, y cuando así se concluya del estudio pormenorizado de los datos de prueba correspondientes;
 
-El personal de la Fiscalía Especializada, en coordinación con el Sistema Estatal Anticorrupción, deberá capacitarse en la materia, así como desempeñar sus funciones, empleos, cargos y comisiones en el marco de los principios de legalidad, honradez, lealtad, imparcialidad, eficiencia y secrecía.
+XX. Autorizar la formulación de conclusiones no acusatorias en los procesos penales o en su caso, la solicitud del desistimiento de la acción penal ante el órgano jurisdiccional que establece el artículo 144 del Código Nacional de Procedimientos Penales;
+
+XXI. Designar en forma discrecional a los peritos en función de su especialidad, experticia, grado de confianza y prestigio, de entre los autorizados por el Tribunal Superior de Justicia del Estado, consultando al efecto la lista correspondiente;
+
+XXII. Ejercer en forma directa la facultad de excepción que establece el artículo 142, fracción II, de la Ley General de Instituciones de Crédito, en directa relación con el artículo 109, antepenúltimo párrafo, de la Constitución Política de los Estados Unidos Mexicanos;
+
+XXIII. Emitir o suscribir los instrumentos jurídicos que faciliten el funcionamiento y operación de la Fiscalía Anticorrupción, el cual incluye los acuerdos, circulares, instructivos, bases, y demás normas administrativas necesarias que rijan la actuación de la Fiscalía, en el ámbito de su competencia;
+
+XXIV. Supervisar y ejercer las facultades que correspondan a las unidades administrativas que le estén adscritas, sin perjuicio de que sean desempeñadas por sus respectivos titulares;
+
+XXV. Supervisar y dirigir el Servicio Civil de Carrera de la Fiscalía Anticorrupción, conforme a las bases que al efecto se emitan, y
+
+XXVI. Las demás que le otorguen su Reglamento Interior, las que le sean conducentes consignadas en el artículo 31 de esta Ley, y otras disposiciones jurídicas aplicables.
+
+Para los fines del presente artículo y conforme a lo previsto por el artículo 79-B de la Constitución Política del Estado Libre y Soberano de Morelos, se establece la Fiscalía Anticorrupción, que goza de la misma autonomía que la Fiscalía General en términos de los artículos 4 y 5 de esta Ley, incluso respecto de ésa, a fin de salvaguardar toda imparcialidad en el desempeño de sus actividades, de conformidad con las disposiciones presupuestales asignadas para ello.
+
+El Fiscal Anticorrupción, además de cumplir con los requisitos establecidos en la Constitución Política del Estado Libre y Soberano de Morelos, gozará de nivel equivalente al del Fiscal General, y no le resultarán aplicables los requisitos a que se refiere el artículo 37 de esta Ley.
+
+La designación y permanencia en el cargo de dicho Fiscal Anticorrupción se regirán por lo previsto en la Constitución Política del Estado Libre y Soberano de Morelos, así como por la normativa aplicable.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+
+Artículo 13 TER. A la Fiscalía Anticorrupción y a todo su personal le son aplicables en lo conducente y siempre que no se opongan a la función especializada que tiene, las disposiciones previstas en los artículos 24 y 25 de esta Ley, considerando lo dispuesto por el artículo anterior y su previsión constitucional, como integrante del Sistema Estatal Anticorrupción, y sin perjuicio de otras disposiciones jurídicas de este y otros ordenamientos que deba observar.
+
+El personal de la Fiscalía Anticorrupción, en coordinación con el Sistema Estatal Anticorrupción, deberá capacitarse en la materia, así como desempeñar sus funciones, empleos, cargos y comisiones en el marco de los principios de legalidad, honradez, lealtad, imparcialidad, eficiencia y secrecía.
 
 Para ingresar al servicio de esta unidad especializada, los aspirantes deberán asumir el compromiso de sujetarse a vigilancia no intrusiva, por la autoridad competente, en cualquier tiempo de su servicio y dentro de los cinco años posteriores a la terminación del mismo, así como rendir y mantener actualizada la información en materia de corrupción.
 
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2017)</small>
+
+#### SECCIÓN TERCERA. DE LOS AUXILIARES DEL MINISTERIO PÚBLICO
+
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
-
-#### SECCIÓN SEGUNDA. DE LA UNIDAD DE REPRESENTACIÓN SOCIAL, DESARROLLO PROFESIONAL Y ADMINISTRACIÓN
-
-#### SECCIÓN TERCERA. DE LA COORDINACIÓN DE ÓRGANOS AUXILIARES
 
 ###### Artículo 14.
 
@@ -519,17 +525,21 @@ X. Las demás que señalen otras disposiciones jurídicas aplicables.
 
 El incumplimiento de estas obligaciones dará lugar a la sanción correspondiente en los términos de esta Ley y el Reglamento.
 
-### CAPÍTULO III. DE LA ESTRUCTURA Y ORGANIZACIÓN DE LA FISCALÍA GENERAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
+### CAPÍTULO III. DE LA ESTRUCTURA Y ORGANIZACIÓN DE LA FISCALÍA GENERAL Y DE LA FISCALÍA ANTICORRUPCIÓN
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### Artículo 19.
 
-La Fiscalía General está a cargo de un Fiscal General, quien es el Titular de la Institución del Ministerio Público, y ejerce la autoridad jerárquica sobre todo el personal de la misma, con excepción del Fiscal Especializado en la Investigación de Hechos de Corrupción, conforme a lo dispuesto por el artículo 13 BIS de esta Ley.
+La Fiscalía General está a cargo de un Fiscal General, quien es el Titular de la Institución del Ministerio Público, y ejerce la autoridad jerárquica sobre todo el personal de la misma, con excepción del Fiscal Anticorrupción, conforme a lo dispuesto por el artículo 13 BIS de esta Ley.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### Artículo 20.
 
-El Fiscal General emitirá los acuerdos, circulares, instructivos, protocolos, Programas, Manuales de Organización, y de Políticas y Procedimientos, y demás disposiciones que rijan la actuación de las Unidades Administrativas que la integran.
+El Fiscal General y el Fiscal Anticorrupción emitirán los acuerdos, circulares, instructivos, protocolos, Programas, Manuales Administrativos y demás disposiciones que rijan la actuación de las Unidades Administrativas a su cargo.
 
 ###### Artículo 21.
 
@@ -559,25 +569,37 @@ XI. Visitaduría General, y
 
 XII. Las demás que resulten necesarias para su funcionamiento y las que disponga la normativa aplicable y reglamentaria, de conformidad con el presupuesto autorizado para ello.
 
-> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2016)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
 
-Con independencia de ello, cuenta con la Fiscalía Especializada para la Investigación de Hechos de Corrupción conforme a lo previsto en la Constitución Política del Estado Libre y Soberano de Morelos, esta Ley y demás normativa aplicable.
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MARZO DE 2016)</small>
+Artículo 21 BIS. Para el despacho de los asuntos de su competencia, la Fiscalía Anticorrupción contará con las siguientes Unidades Administrativas:
+
+I. Vice-Fiscalías;
+
+II. Coordinaciones Generales;
+
+III. Direcciones Generales, y
+
+IV. Las demás que resulten necesarias para su funcionamiento y las que disponga la normativa aplicable y reglamentaria, de conformidad con el presupuesto autorizado para ello.
+
+Con independencia de ello, la Fiscalía Anticorrupción contará con la estructura que al efecto se establezca en su Reglamento Interior, así como en los Manuales Administrativos conforme a lo previsto en la Constitución Política del Estado Libre y Soberano de Morelos, esta Ley y demás normativa aplicable, atendiendo la partida presupuestal que se le asigne.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### Artículo 22.
 
-El Reglamento establecerá la integración, funciones y atribuciones de cada una de las Unidades Administrativas, así como de los titulares que las integran. La Fiscalía Especializada para la Investigación de Hechos de Corrupción se regirá por su propio Reglamento Interior.
+El Reglamento establecerá la integración, funciones y atribuciones de cada una de las Unidades Administrativas, así como de los titulares que las integran. La Fiscalía Anticorrupción se regirá por su propio Reglamento Interior.
 
 Cada Unidad Administrativa, contará con los Directores, Coordinadores, Agentes del Ministerio Público, Oficiales Auxiliares del Ministerio Público, operadores de justicia alternativa, asesores jurídicos y demás personal que sea necesario para el cumplimiento de sus funciones, conforme a la disponibilidad presupuestaria y lo previsto en el Reglamento.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+
 ###### Artículo 23.
 
-El Fiscal General, de conformidad con las disposiciones presupuestales asignadas para ello, podrá establecer las Unidades Administrativas u Operativas que se encuentren previstas en el Reglamento, podrá formar Unidades de Investigación para la persecución de delitos por géneros o específicos que por su trascendencia, interés y características así lo ameriten de acuerdo a las necesidades del servicio.
+El Fiscal General y el Fiscal Anticorrupción, de conformidad con las disposiciones presupuestales asignadas para ello, en el ámbito de sus respectivas competencias, podrán establecer las Unidades Administrativas u Operativas que se encuentren previstas en sus propios Reglamentos, podrán formar Unidades de Investigación para la persecución de delitos por géneros o específicos que por su trascendencia, interés y características así lo ameriten de acuerdo con las necesidades del servicio.
 
-#### SECCIÓN PRIMERA
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+#### SECCIÓN PRIMERA. DE LAS FISCALÍAS
 
 ###### Artículo 24.
 
@@ -635,7 +657,7 @@ Las Fiscalías Regionales, en el ejercicio de sus funciones y actividades, organ
 
 Las Fiscalías Regionales tendrán jurisdicción en la demarcación territorial del Estado que les sea asignada por Acuerdo del Fiscal General, el que será publicado en el Periódico Oficial "Tierra y Libertad".
 
-#### SECCIÓN SEGUNDA
+#### SECCIÓN SEGUNDA. DE LA UNIDAD DE REPRESENTACIÓN SOCIAL, DESARROLLO PROFESIONAL Y ADMINISTRACIÓN
 
 ###### Artículo 27.
 
@@ -644,6 +666,8 @@ Para la atención y despacho de aquellos asuntos relativos a la Representación 
 ###### Artículo 28.
 
 A la Unidad de Representación Social compete conocer, dirigir, coordinar y evaluar la actividad del Ministerio Público en su función de Representación Social en asuntos de carácter civil, familiar o de extinción de dominio o en cualesquiera procesos jurídicos y jurisdiccionales, diferentes de la materia penal, en términos de la normativa aplicable.
+
+#### SECCIÓN TERCERA. DE LA COORDINACIÓN DE ÓRGANOS AUXILIARES
 
 ###### Artículo 29.
 
@@ -867,13 +891,17 @@ El personal de la Fiscalía General será suplido en sus ausencias en los térmi
 
 ### CAPÍTULO VII. DEL SERVICIO DE CARRERA
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+
 ###### Artículo 49.
 
-El Servicio de Carrera, es un sistema de carácter obligatorio y permanente en el cual, se establecen los lineamientos de reclutamiento, selección, ingreso, certificación, formación y permanencia de los Agentes y Oficiales Auxiliares del Ministerio Público, los Peritos y los Agentes de la Policía de Investigación Criminal de la Fiscalía General.
+El Servicio de Carrera es un sistema de carácter obligatorio y permanente en el cual, se establecen los lineamientos de reclutamiento, selección, ingreso, certificación, formación y permanencia de los Agentes y Oficiales Auxiliares del Ministerio Público, los Peritos y los Agentes de la Policía de Investigación Criminal de la Fiscalía General y de la Fiscalía Anticorrupción.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### Artículo 50.
 
-El Servicio de Carrera de los Agentes y Oficiales Auxiliares del Ministerio Público, los Peritos y los Agentes de la Policía de Investigación Criminal de la Fiscalía General, comprenderá la selección, ingreso, permanencia, estímulos, promoción, reconocimiento y terminación del mismo, en las siguientes etapas:
+El Servicio de Carrera de los Agentes y Oficiales Auxiliares del Ministerio Público, los Peritos y los Agentes de la Policía de Investigación Criminal de la Fiscalía General y de la Fiscalía Anticorrupción, comprenderá la selección, ingreso, permanencia, estímulos, promoción, reconocimiento y terminación del mismo, en las siguientes etapas:
 
 I. El ingreso, que comprende los requisitos y procedimientos de selección, formación y certificación inicial, así como registro;
 
@@ -881,9 +909,11 @@ II. El desarrollo, que comprende los requisitos y procedimientos de formación c
 
 III. La terminación, que comprende las terminaciones ordinarias y extraordinarias del Servicio de carrera, así como los procedimientos establecidos por las disposiciones jurídicas aplicables para el efecto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
+
 ###### Artículo 51.
 
-Los miembros del Servicio de Carrera de la Fiscalía General dejarán de formar parte del mismo por terminación ordinaria o extraordinaria, conforme a lo siguiente:
+Los miembros del Servicio de Carrera de la Fiscalía General y de la Fiscalía Anticorrupción dejarán de formar parte del mismo por terminación ordinaria o extraordinaria, conforme a lo siguiente:
 
 I. De manera ordinaria, por:
 
@@ -995,9 +1025,11 @@ La multa a que se refiere el párrafo anterior, tendrá la naturaleza de crédit
 
 En aquellos casos que con motivo de su actuación, la Visitaduría General, tenga conocimiento de la probable comisión de algún delito, lo harán del conocimiento del Agente del Ministerio Público que corresponda, para que este actúe conforme a derecho.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+
 ###### Artículo 64.
 
-La Visitaduría General, será el órgano de la institución encargada de ejecutar las resoluciones que determine el Consejo de Honor; esta deberá ser notificada personalmente al interesado, para lo que estime pertinente conforme a derecho; una vez que haya quedado firme la resolución mediante la que se imponga una sanción, los integrantes del Consejo de Honor, vigilarán en coordinación con las áreas administrativas y operativas correspondientes, lo relativo a la suspensión o destitución; descuentos de adeudos, resguardos e inventario de equipo, así como su correspondiente inscripción en los Sistemas Nacional y Estatal de Seguridad Pública y otras medidas conducentes; el incumplimiento dará lugar a las sanciones previstas por la Ley Estatal de Responsabilidades de los Servidores Públicos.
+La Visitaduría General, será el órgano de la institución encargada de ejecutar las resoluciones que determine el Consejo de Honor; esta deberá ser notificada personalmente al interesado, para lo que estime pertinente conforme a derecho; una vez que haya quedado firme la resolución mediante la que se imponga una sanción, los integrantes del Consejo de Honor, vigilarán en coordinación con las áreas administrativas y operativas correspondientes, lo relativo a la suspensión o destitución, descuentos de adeudos, resguardos e inventario de equipo, así como su correspondiente inscripción en los Sistemas Nacional y Estatal de Seguridad Pública y otras medidas conducentes; el incumplimiento dará lugar a las sanciones previstas por la Ley General de Responsabilidades Administrativas y la legislación aplicable en la materia.
 
 ### CAPÍTULO IX. DEL CONSEJO DE HONOR Y JUSTICIA
 
@@ -1065,7 +1097,9 @@ VI. La reincidencia que haya concluido con sanción.
 
 Las resoluciones que tome el Consejo de Honor, causarán ejecutoria una vez transcurrido el término para impugnar la misma, y su resolución se agregará a los expedientes personales u hojas de servicio de cada Servidor Público sancionado.
 
-Cuando se imponga suspensión temporal o destitución, se notificará a los Sistemas Nacional y Estatal de Seguridad Pública, para su control y trámites legales a que haya lugar, su incumplimiento dará lugar a las sanciones previstas por la Ley Estatal de Responsabilidades de los Servidores Públicos.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+
+Cuando se imponga suspensión temporal o destitución, se notificará a los Sistemas Nacional y Estatal de Seguridad Pública, para su control y trámites legales a que haya lugar, su incumplimiento dará lugar a las sanciones previstas por la Ley General de Responsabilidades Administrativas y la legislación aplicable en la materia.
 
 ###### Artículo 74.
 
@@ -1111,7 +1145,9 @@ La vigencia de la evaluación del desempeño será de tres años, contados a par
 
 Los documentos e información electrónica, deberán tratarse conforme los ordenamientos aplicables en materia de transparencia y acceso a la información pública. Los expedientes del personal evaluado, deberán integrarse de forma homologada y se resguardarán preferentemente en el archivo confidencial.
 
-### CAPÍTULO XI. DE LOS DERECHOS, RESPONSABILIDADES Y SANCIONES DEL PERSONAL DE LA FISCALÍA GENERAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JULIO DE 2017)</small>
+
+### CAPÍTULO XI. DE LOS DERECHOS, RESPONSABILIDADES Y SANCIONES DEL PERSONAL DE LA FISCALÍA GENERAL Y DE LA FISCALÍA ANTICORRUPCIÓN
 
 ###### Artículo 84.
 
@@ -1135,9 +1171,11 @@ VIII. Gozar de permisos y licencias sin goce de sueldo, en términos de las disp
 
 IX. Las demás que le confieran otras disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
+
 ###### Artículo 85.
 
-Son causas de responsabilidad del personal de la Fiscalía General, además de las previstas en la Ley Estatal de Responsabilidades de los Servidores Públicos, las siguientes:
+Son causas de responsabilidad del personal de la Fiscalía General y de la Fiscalía Anticorrupción, además de las previstas en la Ley General de Responsabilidades Administrativas y la legislación aplicable en la materia, las siguientes:
 
 I. Realizar o encubrir conductas que atenten contra la autonomía del Ministerio Público, tales como aceptar o ejercer consignas, presiones, encargos, comisiones o cualquier otra acción que genere o implique subordinación indebida respecto de alguna persona o autoridad;
 
@@ -1155,9 +1193,11 @@ VII. Dar un uso distinto al arma de fuego a su cargo para las actividades inhere
 
 VIII. Incumplir cualquiera de las obligaciones previstas en el artículo siguiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
+
 ###### Artículo 86.
 
-Son obligaciones del personal de la Fiscalía General, las siguientes:
+Son obligaciones del personal de la Fiscalía General y de la Fiscalía Anticorrupción, las siguientes:
 
 I. Conducirse siempre con apego a los principios constitucionales, tratados internacionales y respeto a los Derechos Humanos;
 
@@ -1169,9 +1209,9 @@ IV. Abstenerse de ejercer empleo, cargo o comisión y demás actividades a que s
 
 V. Observar un trato respetuoso con todas las personas, debiendo abstenerse de todo acto arbitrario y de limitar indebidamente las acciones o manifestaciones que en ejercicio de sus derechos constitucionales y con carácter pacífico realice la ciudadanía;
 
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
 
-VI. Desempeñar su función sin solicitar o aceptar compensaciones, pagos o gratificaciones distintas a las previstas legalmente; en particular, se opondrán a cualquier acto de corrupción. La Fiscalía Especializada para la Investigación de Hechos de corrupción vigilará el cumplimiento de esta obligación;
+VI. Desempeñar su función sin solicitar o aceptar compensaciones, pagos o gratificaciones distintas a las previstas legalmente; en particular, se opondrán a cualquier acto de corrupción. La Fiscalía Anticorrupción conocerá de las conductas que configuren un hecho calificado como delito de corrupción por la ley y exista la posibilidad de que el servidor público lo cometió o participó en su comisión, por la infracción a la presente obligación;
 
 VII. Abstenerse de ordenar o ejecutar la detención o retención de persona alguna sin cumplir con los requisitos previstos en la Constitución Política de los Estados Unidos Mexicanos y en las disposiciones jurídicas aplicables;
 
@@ -1205,9 +1245,11 @@ XX. No ingerir bebidas alcohólicas, sustancias psicotrópicas, estupefacientes,
 
 XXI. Las demás que le confieran la presente Ley, el Reglamento y otras disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
+
 ###### Artículo 87.
 
-El personal de la Fiscalía deberá abstenerse de:
+El personal de las Fiscalías General y Anticorrupción, respectivamente, deberá abstenerse de:
 
 I. Desempeñar empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Federal, en los gobiernos del Distrito Federal o de los Estados integrantes de la Federación y Ayuntamientos, así como trabajos o servicios en instituciones privadas, salvo los de carácter docente y aquellos que autorice la Fiscalía General, siempre y cuando sean compatibles con sus funciones y horarios laborales en la misma;
 
@@ -1241,11 +1283,11 @@ VIII. Inhabilitación del cargo.
 
 La sanción prevista en la fracción III del presente artículo, sólo será aplicable para Los agentes de la Policía de Investigación Criminal.
 
-> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### Artículo 89.
 
-Procederá la separación del personal de la Fiscalía General, por el incumplimiento de alguna o algunas de las obligaciones previstas en las fracciones IV, V, VII, VIII, XII, XIII y XIX, del artículo 86 de la presente Ley o, en su caso, por la reiteración de por lo menos tres ocasiones en el incumplimiento de alguna o algunas de las obligaciones restantes del artículo citado.
+Procederá la separación del personal de la Fiscalía General y de la Fiscalía Anticorrupción, por el incumplimiento de alguna o algunas de las obligaciones previstas en las fracciones IV, V, VI, VII, VIII, XII, XIII y XIX, del artículo 86 de la presente Ley o, en su caso, por la reiteración de por lo menos tres ocasiones en el incumplimiento de alguna o algunas de las obligaciones restantes del artículo citado.
 
 ###### Artículo 90.
 
@@ -1257,13 +1299,19 @@ Cuando la autoridad jurisdiccional resolviere, que la separación del cargo, o r
 
 ### CAPÍTULO XII. DE LAS EXCUSAS Y RECUSACIONES
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+
 ###### Artículo 92.
 
-El personal de la Fiscalía General, podrán excusarse y ser recusados en los asuntos que intervengan, cuando ocurra una o más de las causas que motivan las excusas en los términos de la Normativa Procedimental Penal aplicable. La excusa y la recusación, deberán ser calificadas en definitiva por el Fiscal General y su trámite se definirá en el Reglamento.
+Los servidores públicos de la Fiscalía General y de la Fiscalía Anticorrupción, podrán excusarse y ser recusados en los asuntos que intervengan, cuando ocurra una o más de las causas que motivan las excusas en los términos de la Normativa Procedimental Penal aplicable. La excusa y la recusación deberán ser calificadas en definitiva por el Fiscal General y el Fiscal Anticorrupción, y su trámite se definirá en el Reglamento respectivo.
 
 ### CAPÍTULO XIII. DE LAS TÉCNICAS DE INVESTIGACIÓN Y LA CADENA DE CUSTODIA
 
 > <small>(DEROGADA SU DENOMINACIÓN, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN PRIMERA
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 93.
 
@@ -1310,6 +1358,8 @@ En el desarrollo de la investigación de los delitos el Ministerio Público desa
 (DEROGADO, P.O. 10 DE DICIEMBRE DE 2014)
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN SEGUNDA
 
 ###### Artículo 104.
 
@@ -1418,3 +1468,61 @@ TERCERA. El Fiscal General del Estado de Morelos contará con un plazo de novent
 CUARTA. El Titular del Poder Ejecutivo del Estado de Morelos, contará con un plazo de noventa días hábiles, contados a partir de la entrada en vigor de este Decreto, para hacer las modificaciones pertinentes al Reglamento de la Ley Orgánica de la Fiscalía General del Estado de Morelos.
 
 QUINTA. Se derogan las disposiciones de igual o menor grado que se contrapongan al presente Decreto.
+
+P.O. 19 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL CIENTO NOVENTA Y TRES POR EL QUE SE EXPIDEN LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE MORELOS; LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS; LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE MORELOS; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS; DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS; Y DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS."]
+
+PRIMERA. Una vez aprobadas las presentes leyes y reformas de Ley, expídase el Decreto respectivo y remítase al Titular del Poder Ejecutivo, para su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Estado de Morelos, para los efectos señalados en los artículos 44, 47 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor a partir del día diecinueve de julio de dos mil diecisiete, previa publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Estado de Morelos.
+
+TERCERA. Los procedimientos de responsabilidad administrativa, que hayan iniciado su trámite de conformidad con la Ley Estatal de Responsabilidades de los Servidores Públicos continuarán su trámite hasta su total resolución conforme a dicha normatividad.
+
+CUARTA. El Titular del Poder Ejecutivo, dentro de los noventa días hábiles siguientes a la entrada en vigor de la Ley de Responsabilidades Administrativas para el Estado de Morelos, deberá expedir el Reglamento respectivo; mientras tanto, continuará rigiendo el que se encuentra vigente en lo que no se oponga a lo previsto en este ordenamiento.
+
+QUINTA. En el caso de las Declaraciones Patrimoniales y de Intereses que tiene obligación de recibir la Entidad Superior de Auditoría y Fiscalización, podrá hacerlo de forma escrita hasta las que tengan que entregarse en el mes de mayo de dos mil dieciocho, las subsecuentes deberán ser entregadas de manera digital como menciona este ordenamiento.
+
+El Gobernador Constitucional del Estado, instruirá a la Secretaría de Hacienda del Poder Ejecutivo Estatal para que efectúe las transferencias y adecuaciones presupuestales necesarias para el cumplimiento de la Ley de Responsabilidades Administrativas para el Estado de Morelos y que se considere una partida específica en el Presupuesto de Egresos del Gobierno del Estado para el siguiente Ejercicio Fiscal.
+
+SEXTA. Notifíquese a la Secretaría de la Contraloría del Poder Ejecutivo, a la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos, al Consejo de la Judicatura Estatal, a los treinta y tres ayuntamientos en el Estado y sus respectivas Contralorías municipales, a los organismos a los que la Constitución local les otorga y reconoce autonomía y sus respectivos Órganos de control interno, para efecto de que tomen las medidas necesarias respecto del inicio de la vigencia de la Ley de Responsabilidades Administrativas para el Estado de Morelos, como son, de manera enunciativa mas no limitativa, la expedición del código de ética para sus funcionarios.
+
+SÉPTIMA. La Declaración de Modificación Patrimonial correspondiente al ejercicio 2016, presentada en enero del presente año, será válida por esta única ocasión en lo que respecta a dicha obligación, debiéndose presentar las que corresponden a los ejercicios subsecuentes en el mes de mayo de cada año.
+
+OCTAVA. A la entrada en vigor del presente Decreto, quedan Derogados los Títulos Cuarto y Quinto de la Ley Estatal de Responsabilidades de los Servidores Públicos, publicada en el Periódico Oficial "Tierra y Libertad", número 4562 de fecha veinticuatro de octubre de dos mil siete, con la salvedad de que los asuntos que conozca el Consejo de la Judicatura Estatal y su órgano de control interno, los cuales se continuarán rigiendo de forma supletoria con las disposiciones previstas en el citado Título Cuarto, hasta en tanto su reglamentación orgánica se adecue a las reformas en cuestión.
+
+NOVENA. El Tribunal de Justicia Administrativa dentro de los noventa días siguientes a la entrada en vigor de la Ley de Justicia Administrativa del Estado de Morelos, deberá expedir el reglamento interior, mientras tanto continuará rigiendo el reglamento vigente en lo que no se oponga a lo previsto en este ordenamiento.
+
+DÉCIMA. El Tribunal de Justicia Administrativa dentro de los ciento veinte días siguientes a la entrada en vigor de la presente Ley, deberá expedir los Manuales de Organización y Procedimientos del Tribunal de Justicia Administrativa.
+
+DÉCIMA PRIMERA. El Poder Ejecutivo, el Tribunal de Justicia Administrativa, así como las Universidades Públicas en el Estado, en ejercicio del Servicio Social al que están obligadas, deberán realizar las acciones que correspondan, a efecto de que el Expediente Electrónico, inicie su operación a más tardar el treinta y uno de diciembre de dos mil veinte. El Pleno del Tribunal de Justicia Administrativa podrá emitir los acuerdos necesarios para la implementación progresiva del Expediente Electrónico.
+
+DÉCIMA SEGUNDA. El Gobernador Constitucional del Estado, instruirá a la Secretaría de Hacienda del Poder Ejecutivo Estatal para que efectúe las transferencias y adecuaciones presupuestales necesarias para el cumplimiento del presente Decreto por el que se expide la Ley de Justicia Administrativa del Estado de Morelos y que se considere una partida específica en el Presupuesto de Egresos del Gobierno del Estado para el siguiente Ejercicio Fiscal.
+
+DÉCIMA TERCERA. Notifíquese al Poder Ejecutivo y al Tribunal de Justicia Administrativa las Universidades Públicas del Estado de Morelos para efecto de ejecutar y cumplir todos los actos jurídicos, administrativos y presupuestales que correspondan para el inicio en operación del Expediente Electrónico.
+
+DÉCIMA CUARTA. Notifíquese a los treinta y tres ayuntamientos en el Estado, a las dependencias del Poder Ejecutivo del Estado, o de sus organismos descentralizados para efecto de que tomen las medidas necesarias respecto del el (sic) inicio en operación del Expediente Electrónico en el Tribunal de Justicia Administrativa del Estado de Morelos.
+
+DÉCIMA QUINTA. El Pleno del Tribunal de Justicia Administrativa, dentro del ámbito de su competencia, efectuará la difusión de la implementación del Expediente Electrónico y los Formatos de demanda que faciliten en la vía electrónica a los gobernados el acceso a la Justicia administrativa, en especial, en aquellos asuntos de poca cuantía y de gran incidencia de las personas que se encuentren (sic) el Estado de Morelos.
+
+DÉCIMA SEXTA. El Pleno del Tribunal de Justicia Administrativa, dentro del ámbito de sus respectivas competencias, efectuará las acciones necesarias y suscribirá los instrumentos jurídicos necesarios con el Tribunal Federal de Justicia Fiscal y Administrativa, el Consejo de la Judicatura Federal y o Tribunales similares de otras entidades federativas, para lograr la implementación del Expediente Electrónico.
+
+DÉCIMA SÉPTIMA. En congruencia con la Disposición Transitoria Octava del Decreto Mil Ochocientos Nueve publicado en el Periódico Oficial "Tierra y Libertad" número 5487 de fecha siete de abril del presente año, así como con este Decreto que reforma, adiciona y deroga diversas disposiciones de la Ley Orgánica de la Fiscalía General del Estado de Morelos, se dispone que el Titular del Poder Ejecutivo realice las adecuaciones administrativas que resulten necesarias.
+
+DÉCIMA OCTAVA. Dentro del plazo de noventa días hábiles, contados a partir de que surta efectos el presente Decreto que reforma, adiciona y deroga diversas disposiciones de la Ley Orgánica de la Fiscalía General del Estado de Morelos, realícense las modificaciones reglamentarias a que haya lugar. Las referencias hechas a las actuales Fiscalías específicas se entenderán hechas a las Vicefiscalías.
+
+DÉCIMA NOVENA. En términos del artículo 3, segundo párrafo, de la Ley Orgánica de la Fiscalía General del Estado de Morelos, son de la competencia exclusiva de la Fiscalía Anticorrupción los delitos contenidos en el Título Vigésimo del Código Penal para el Estado de Morelos y cualquiera otro en el que participen los servidores públicos en el ejercicio de sus funciones oficiales. Las carpetas de investigación relacionadas con delitos de corrupción, iniciadas con anterioridad ante la Fiscalía General, continuarán a su cargo hasta su conclusión.
+
+VIGÉSIMA. Las reformas contenidas en las fracciones I del artículo 24 y la fracción III del artículo 41 de la Ley Orgánica Municipal del Estado de Morelos, relativas a la ratificación del nombramiento del Contralor Municipal, serán aplicables cuando ocurra una nueva designación con posterioridad a la entrada en vigor de dicha reforma, en respeto irrestricto al principio constitucional de irretroactividad.
+
+VIGÉSIMA PRIMERA. El Congreso del Estado de Morelos en plazo no mayor a 180 días hábiles a partir de la entrada en vigor del presente Decreto, deberá expedir la Ley en materia de Responsabilidad Política del estado de Morelos.
+
+VIGÉSIMA SEGUNDA. Se abroga la Ley de Auditoría y Fiscalización del Estado de Morelos, publicada en el Periódico Oficial "Tierra y Libertad" Órgano de Difusión del Gobierno del Estado de Morelos el 13 de mayo de 2015, conforme a lo dispuesto en los transitorios subsecuentes y se derogan todas las disposiciones legales que contravengan o se opongan a la Ley de Fiscalización y Rendición de Cuentas del Estado de Morelos aprobada en el presente Decreto.
+
+VIGÉSIMA TERCERA. Los procedimientos administrativos iniciados de conformidad con la Ley de Auditoría y Fiscalización del Estado de Morelos, publicada en el Periódico Oficial "Tierra y Libertad" Órgano de Difusión del Gobierno del Estado de Morelos el 13 de mayo de 2015, que se encuentren en trámite o pendientes de resolución a la entrada en vigor de la Ley de Fiscalización y Rendición de Cuentas del Estado de Morelos, se resolverán hasta su conclusión definitiva en términos de dicha Ley.
+
+VIGÉSIMA CUARTA. La ESAF deberá actualizar y, en su caso, publicar la normatividad que conforme a sus atribuciones debe expedir, en un plazo no mayor de ciento ochenta días hábiles contados a partir de que la Ley de Fiscalización y Rendición de Cuentas del Estado de Morelos cobre vigencia.
+
+VIGÉSIMA QUINTA. LA ESAF deberá decretar de oficio la transferencia documental al archivo histórico de los asuntos que se encuentran en el supuesto establecido en el artículo 69 de la Ley de Fiscalización Superior del Estado de Morelos y 95 de la Ley de Auditoría y Fiscalización del Estado de Morelos, de conformidad con lo dispuesto en el artículo 35 de la Ley Estatal de Documentación y Archivos de Morelos, debiendo informar respecto de dicho trámite al Congreso del Estado de Morelos.
+
+VIGÉSIMA SEXTA. El Auditor General, el titular del Consejo de Vigilancia, los Auditores Especiales y los Directores Generales de ESAF en funciones, permanecerán en su encargo hasta concluir el periodo por el que fueron designados, pudiendo participar como candidatos en la convocatoria para la designación de Auditor General previsto en la Ley de Fiscalización y Rendición de Cuentas del Estado de Morelos, y los Auditores Especiales y Directores Generales podrán ser nombrados por un periodo más previa evaluación que haga el Órgano Político del Congreso del Estado.
