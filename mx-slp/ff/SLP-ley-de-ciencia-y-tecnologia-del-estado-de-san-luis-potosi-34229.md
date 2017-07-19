@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ciencia-y-tecnologia-del-estado-de-san-luis-potosi-34229
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-30"
-last_updated: "2012-06-19"
+last_updated: "2017-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34229&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de agosto de 2003.
 
@@ -53,7 +53,9 @@ Son objetivos específicos de esta Ley:
 
 I. Establecer los mecanismos e instrumentos conforme a los cuales el gobierno del Estado y los municipios, apoyarán las actividades de investigación científica y desarrollo tecnológico que realicen personas físicas o morales, de los sectores público, social y privado;
 
-II. Constituir los mecanismos e instrumentos de coordinación entre las dependencias y entidades de la administración pública del Estado, y otras instituciones que intervienen en la definición de políticas y programas en materia de desarrollo científico y tecnológico, o que lleven a cabo directamente actividades de este tipo;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+
+II. Fortalecer el Sistema de Ciencia, Tecnología e Innovación del Estado de San Luis Potosí, mediante el establecimiento de mecanismos de concertación y participación de la comunidad científica y académica, para la generación y formulación de políticas de promoción, difusión, desarrollo y aplicación de la ciencia y la tecnología; así como para la formación y capacitación de recursos humanos de alto nivel académico en el Estado;
 
 III. Fortalecer el sistema estatal de ciencia y tecnología, mediante el establecimiento de mecanismos de concertación y participación de la comunidad científica y académica, para la generación y formulación de políticas de promoción, difusión, desarrollo y aplicación de la ciencia y la tecnología; así como para la formación y capacitación de recursos humanos de alto nivel académico en el Estado;
 
@@ -83,7 +85,9 @@ VII. Investigación: al conjunto de actividades que incluyen la investigación c
 
 VIII. Sistema de Información: al Sistema Estatal de Información Científica y Tecnológica;
 
-IX. Sistema Estatal de Investigación Científica y Tecnológica: al conjunto de instituciones integrantes de la comunidad científica y tecnológica del Estado;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+
+IX. Sistema de Ciencia, Tecnología e Innovación del Estado de San Luis Potosí: al conjunto de instituciones integrantes de la comunidad científica y tecnológica del Estado;
 
 X. Sistema Estatal de Investigadores: a la estructura institucional que tiene por objeto estimular y reconocer la labor de los investigadores y tecnólogos en el Estado, y
 
@@ -119,79 +123,89 @@ VI. Apoyar la formación de recursos humanos de alto nivel académico, y
 
 VII. Realizar aquellas otras actividades que se prevengan en esta Ley o en otros ordenamientos, y que tengan como finalidad alcanzar el desarrollo municipal a través de las acciones relacionadas con el fortalecimiento y la promoción de la investigación científica y tecnológica.
 
-## TITULO TERCERO. DE LOS PRINCIPIOS ORIENTADORES PARA EL FORTALECIMIENTO DE LA ACTIVIDAD CIENTIFICA Y TECNOLOGICA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JULIO DE 2017)</small>
 
-### CAPITULO UNICO
+## TÍTULO TERCERO. DE LOS PRINCIPIOS ORIENTADORES PARA EL FORTALECIMIENTO DE LA ACTIVIDAD CIENTÍFICA, TECNOLÓGICA Y DE INNOVACIÓN
+
+### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 7°.
 
 Los principios que regirán los apoyos que el COPOCYT y los municipios otorguen para fortalecer y fomentar la investigación científica, el desarrollo tecnológico y la innovación en general y, en particular, las acciones, proyectos y programas de investigación científica y tecnológica, serán los siguientes:
 
-I. Las actividades de planeación de la investigación científica y tecnológica deberán apegarse a las normas generales que establecen la presente Ley, la Ley de Planeación del Estado y Municipios de San Luis Potosí, y las demás leyes aplicables;
+I. Las actividades de planeación de la investigación científica, tecnológica y de innovación deberán apegarse a las normas generales que establecen la presente Ley, la Ley de Planeación del Estado y Municipios de San Luis Potosí, y las demás leyes aplicables;
 
-II. Los resultados de las actividades de investigación y desarrollo tecnológico que sean objeto de apoyo en términos de esta Ley, serán evaluados por el COPOCYT y se tomarán en cuenta para el otorgamiento de apoyos posteriores;
+II. Los resultados de las actividades de investigación, desarrollo tecnológico e innovación que sean objeto de apoyo en términos de esta Ley, serán evaluados por el COPOCYT y se tomarán en cuenta para el otorgamiento de apoyos posteriores;
 
-III. La toma de decisiones en materia de investigación científica y tecnológica, y la asignación de recursos a proyectos específicos, se llevará a cabo con la participación de las comunidades científica y tecnológica del Estado y del sector privado;
+III. La toma de decisiones en materia de investigación científica, tecnológica y de innovación, y la asignación de recursos a proyectos específicos, se llevará a cabo con la participación de las comunidades científica y tecnológica del Estado y del sector privado;
 
-IV. Los instrumentos de apoyo a la investigación científica y tecnológica deberán procurar el desarrollo armónico del potencial científico y tecnológico del Estado, el crecimiento y la consolidación de las comunidades científica y tecnológica, principalmente de las instituciones públicas;
+IV. Los instrumentos de apoyo a la investigación científica, tecnológica y de innovación deberán procurar el desarrollo armónico del potencial científico, tecnológico y de innovación del Estado, el crecimiento y la consolidación de las comunidades científica y tecnológica, principalmente de las instituciones públicas;
 
-V. Las políticas, instrumentos y criterios con los que el Ejecutivo del Estado y los municipios fomenten y apoyen la investigación científica y tecnológica, el desarrollo y la innovación, deberán buscar el mayor efecto benéfico de estas actividades en la enseñanza y aprendizaje de la ciencia y tecnología en la calidad de la educación, particularmente de la educación superior, así como incentivar la participación y desarrollo de las nuevas generaciones de investigadores;
+V. Las políticas, instrumentos y criterios con los que el Ejecutivo del Estado y los municipios fomenten y apoyen la investigación, el desarrollo tecnológico y la innovación, deberán buscar el mayor efecto benéfico de estas actividades en la enseñanza y aprendizaje de la ciencia, el desarrollo tecnológico y la innovación en la calidad de la educación, particularmente de la educación superior, así como incentivar la participación y desarrollo de las nuevas generaciones de investigadores;
 
-VI. La concurrencia de recursos públicos y privados, municipales, estatales, nacionales e internacionales, para la generación, ejecución y divulgación de proyectos de investigación científica y tecnológica, y la formación de recursos humanos especializados para el desarrollo tecnológico de la industria, deberá ser acorde con las necesidades del Estado en esta materia;
+VI. La concurrencia de recursos públicos y privados, municipales, estatales, nacionales e internacionales, para la generación, ejecución y divulgación de proyectos de investigación, desarrollo tecnológico e innovación, y la formación de recursos humanos especializados para el desarrollo tecnológico de la industria, deberá ser acorde con las necesidades del Estado en esta materia;
 
-VII. Se promoverá que el sector privado realice inversiones crecientes para la investigación científica y el desarrollo tecnológico mediante la creación de exenciones, incentivos fiscales y otros mecanismos de fomento;
+VII. Se promoverá que el sector privado realice inversiones crecientes para la investigación científica y la innovación y el desarrollo tecnológico mediante la creación de exenciones, incentivos fiscales y otros mecanismos de fomento;
 
-VIII. Las políticas y estrategias de apoyo al desarrollo científico y tecnológico deberán ser periódicamente revisadas y actualizadas, conforme a un esfuerzo permanente de evaluación de resultados y tendencias del avance científico y tecnológico, así como a su impacto en la solución de las necesidades de la Entidad;
+VIII. Las políticas y estrategias de apoyo al desarrollo científico, tecnológico y de innovación deberán ser periódicamente revisadas y actualizadas, conforme a un esfuerzo permanente de evaluación de resultados y tendencias del avance científico y tecnológico, así como a su impacto en la solución de las necesidades de la Entidad;
 
 IX. La selección de instituciones, programas, proyectos y personas destinatarias de los apoyos se realizará mediante procedimientos de evaluación competitivos, eficientes, equitativos, transparentes y públicos, sustentados en la opinión de pares académicos y que favorezcan el desarrollo social del Estado, de conformidad con el reglamento que para tal fin se expida;
 
-X. Sin menoscabo de las disposiciones legales que determinen limitaciones por motivos de seguridad, salud, ética o cualquier otra causa de interés público, los instrumentos de apoyo de ninguna manera afectarán la libertad de investigación científica y tecnológica;
+X. Sin menoscabo de las disposiciones legales que determinen limitaciones por motivos de seguridad, salud, ética o cualquier otra causa de interés público, los instrumentos de apoyo de ninguna manera afectarán la libertad de investigación, desarrollo tecnológico e innovación;
 
-XI. Las políticas y estrategias para el desarrollo de la investigación científica y tecnológica se formularán, integrarán y ejecutarán, procurando distinguir las actividades científicas de las tecnológicas, cuando ello sea pertinente;
+XI. Las políticas y estrategias para el desarrollo de la investigación, el desarrollo tecnológico y la innovación se formularán, integrarán y ejecutarán, procurando distinguir entre actividades de investigación, de desarrollo tecnológico y de innovación, cuando ello sea pertinente;
 
-XII. La divulgación de la investigación científica y tecnológica deberá orientarse a fortalecer la cultura científica y tecnológica de la sociedad; sin olvidar las consideraciones referentes a las consecuencias éticas que pueden derivarse de los procesos propios de investigación científica y tecnológica;
+XII. La divulgación de la investigación, el desarrollo tecnológico y la innovación deberá orientarse a fortalecer la cultura científica, tecnológica y de innovación de la sociedad; sin olvidar las consideraciones referentes a las consecuencias éticas que pueden derivarse de los procesos propios de investigación, desarrollo tecnológico e innovación;
 
-XIII. Las actividades de investigación y desarrollo tecnológico que realicen las dependencias y entidades del sector público, se abocarán a la identificación y solución de problemas de interés general, a contribuir al avance del conocimiento, a mejorar la calidad de vida de la población, a promover el respeto al medio ambiente, y a apoyar la formación de recursos humanos especializados en ciencia y tecnología, sin perjuicio de la autonomía de las instituciones;
+XIII. Las actividades de investigación, desarrollo tecnológico y de innovación que realicen las dependencias y entidades del sector público, se abocarán a la identificación y solución de problemas de interés general, a contribuir al avance del conocimiento, a mejorar la calidad de vida de la población, a promover el respeto al medio ambiente, y a apoyar la formación de recursos humanos especializados en ciencia, tecnología e innovación, sin perjuicio de la autonomía de las instituciones;
 
-XIV. Los apoyos a las actividades de investigación científica y tecnológica deberán ser oportunos y suficientes para garantizar la continuidad y conclusión de las investigaciones;
+XIV. Los apoyos a las actividades de investigación, desarrollo tecnológico e innovación deberán ser oportunos y suficientes para garantizar la continuidad y conclusión de las investigaciones;
 
-XV. Las personas físicas e instituciones que lleven a cabo investigación y desarrollo tecnológico con el apoyo del Ejecutivo del Estado y/o de los municipios, deberán difundir los resultados de sus investigaciones y desarrollos tecnológicos, sin perjuicio de los derechos de propiedad industrial o intelectual correspondientes, y de la información que, por su naturaleza, deba reservarse;
+XV. Las personas físicas e instituciones que lleven a cabo investigación, desarrollo tecnológico e innovación con el apoyo del Ejecutivo del Estado y/o de los municipios, deberán difundir los resultados de sus investigaciones, desarrollos tecnológicos e innovaciones, sin perjuicio de los derechos de propiedad industrial o intelectual correspondientes, y de la información que, por su naturaleza, deba reservarse;
 
-XVI. Los incentivos se otorgarán tomando en cuenta los logros de personas, empresas y/o instituciones que realicen investigación científica y desarrollo tecnológico, y vinculen la investigación con las actividades educativas y productivas;
+XVI. Los incentivos se otorgarán tomando en cuenta los logros de personas, empresas y/o instituciones que realicen investigación, desarrollo tecnológico e innovación, y vinculen la investigación con las actividades educativas y productivas;
 
 XVII. La conservación, consolidación y actualización de la infraestructura de investigación existente, se orientará a facilitar el quehacer científico y tecnológico, así como a crear nuevos centros cuando éstos sean necesarios;
 
-XVIII. La creación y el fortalecimiento de espacios para divulgar la actividad científica y tecnológica, estarán orientados a promover una cultura científica entre los jóvenes y los niños, y
+XVIII. La creación y el fortalecimiento de espacios para divulgar la actividad científica, tecnológica y de innovación, estarán orientados a promover una cultura científica entre los jóvenes y los niños, y
 
-XIX. Todas las opiniones, propuestas o sugerencias que emita la sociedad durante los procesos de consulta en materia de investigación científica y desarrollo tecnológico, serán sistematizadas, evaluadas y consideradas en lo conducente.
+XIX. Todas las opiniones, propuestas o sugerencias que emita la sociedad durante los procesos de consulta en materia de investigación, desarrollo tecnológico e innovación, serán sistematizadas, evaluadas y consideradas en lo conducente.
 
-## TITULO CUARTO. INSTRUMENTOS DE APOYO A LA INVESTIGACION CIENTIFICA Y TECNOLOGICA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JULIO DE 2017)</small>
+
+## TÍTULO CUARTO. INSTRUMENTOS DE APOYO A LA INVESTIGACION, EL DESARROLLO TECNOLÓGICO Y LA INNOVACIÓN
 
 ### CAPITULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+
 ###### ARTICULO 8°.
 
-El Ejecutivo del Estado, a través del COPOCYT, apoyará la investigación científica y tecnológica mediante los siguientes instrumentos:
+El Ejecutivo del Estado, a través del COPOCYT, apoyará la investigación científica, tecnológica y de innovación mediante los siguientes instrumentos:
 
-I. El acopio, procesamiento, sistematización y difusión de información acerca de las actividades de investigación científica y tecnológica que se lleven a cabo en el Estado o en el país;
+l. El acopio, procesamiento, sistematización y difusión de información acerca de las actividades de investigación, desarrollo tecnológico e innovación que se lleven a cabo en el Estado o en el país;
 
 II. La asignación de una partida presupuestal para el impulso de la investigación científica y tecnológica;
 
-III. La promoción y divulgación de las actividades científicas y tecnológicas, tendientes al fortalecimiento de una cultura científica y tecnológica;
+III. La promoción y divulgación de las actividades científicas, tecnológicas y de innovación, tendientes al fortalecimiento de una cultura científica, tecnológica e innovadora;
 
-IV. La integración, actualización y ejecución de los programas para la investigación científica y tecnológica que ejecuten las dependencias y entidades de la administración pública del Estado y los municipios, en sus respectivos programas sectoriales;
+IV. La integración, actualización y ejecución de los programas para la investigación científica, tecnológica y de innovación que ejecuten las dependencias y entidades de la administración pública del Estado y los municipios, en sus respectivos programas sectoriales;
 
-V. La vinculación de la investigación científica y tecnológica con la educación;
+V. La vinculación de la investigación científica, tecnológica y de innovación con la educación;
 
-VI. La formación, promoción y capacitación de recursos humanos de alto nivel académico, orientados hacia la investigación científica, la innovación y el desarrollo tecnológico;
+VI. La formación, promoción y capacitación de recursos humanos de alto nivel académico, orientados hacia la investigación científica, el desarrollo tecnológico y la innovación;
 
 VII. La creación, el financiamiento y la operación de los fondos a que se refiere la presente Ley;
 
-VIII. El otorgamiento de estímulos a las funciones de investigación y desarrollo tecnológico, y
+VIII. El otorgamiento de estímulos a las funciones de investigación, desarrollo tecnológico e innovación, y
 
 IX. La formulación de programas educativos; estímulos fiscales, financieros y facilidades en materia administrativa e industrial, en los términos de las leyes aplicables.
 
-### CAPITULO II. Del Financiamiento y de los Fondos para la Investigación Científica y Tecnológica
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JULIO DE 2017)</small>
+
+### CAPÍTULO II. Del Financiamiento y de los Fondos para la Investigación, el Desarrollo Tecnológico y la Innovación
 
 ###### ARTICULO 9°.
 
@@ -219,9 +233,25 @@ I. Los institucionales;
 
 II. Los sectoriales;
 
-III. Los internacionales, y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
 
-IV. Los mixtos.
+III. Los internacionales;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+
+IV. Los mixtos, y
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2017)</small>
+
+V. Los derivados de multas electorales.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+
+Los recursos derivados de las multas electorales son aquellos recursos obtenidos por la aplicación de sanciones económicas derivadas de infracciones cometidas por los sujetos del régimen sancionador electoral a que hace referencia el Artículo 458, Fracción 8 de la Ley General de Instituciones y Procedimientos Electorales y Artículos 35 y 452 de la Ley Electoral del Estado de San Luis Potosí.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+
+Para el establecimiento y operación de estos recursos deberá aplicarse lo establecido en el Contrato de Fideicomiso y en sus Reglas de Operación, establecidos para tal fin.
 
 ###### ARTICULO 14.
 
@@ -285,23 +315,31 @@ V. Estarán sujetos a las medidas de control y auditoría gubernamental que dete
 
 Los recursos de origen fiscal, los autogenerados, los de terceros o cualesquiera otros que ingresen a los fondos que se establezcan conforme a lo dispuesto en esta Ley, no se revertirán en ningún caso al gobierno estatal o federal. A la terminación del contrato de fideicomiso, por cualquier causa legal o contractual, los recursos que se encuentren en el mismo pasarán al patrimonio del fideicomitente.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+
 ###### ARTICULO 22.
 
-Los recursos destinados al financiamiento de la investigación científica y tecnológica que se realice en el Estado, serán inembargables e intransferibles, por lo cual deberán aplicarse exclusivamente al fomento de tales actividades.
+Los recursos destinados al financiamiento de la investigación, el desarrollo tecnológico y la innovación que se realice en el Estado, serán inembargables e intransferibles, por lo cual deberán aplicarse exclusivamente al fomento de tales actividades.
 
 ###### ARTICULO 23.
 
 Las actividades a que se refiere el artículo anterior deberán estar orientadas a:
 
-I. Impulsar el aprovechamiento de los resultados de la investigación científica y tecnológica, para ampliar los horizontes de competitividad de la planta productiva;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+
+l. Impulsar el aprovechamiento de los resultados de la investigación científica y tecnológica, para ampliar los horizontes de competitividad de la planta productiva;
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2012)</small>
 
 II. Promover la capacitación y actualización contínua de los recursos humanos del Estado, para formar cuadros de alto nivel técnico y profesional, capaces de integrar o encabezar grupos, centros de investigación y empresas, orientados hacia las áreas que más convengan al desarrollo sostenible, económico y social, del Estado;
 
-III. Definir e instrumentar mecanismos de divulgación de las actividades científicas y tecnológicas para fomentar una cultura científica, a través de productos editoriales científicos y espacios formativos, recreativos e interactivos, acordes con las prioridades del Estado, y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
 
-IV. Promover la creación, equipamiento y mantenimiento de la infraestructura científica y tecnológica observando, en cada caso, lo dispuesto en la presente Ley.
+III. Definir e instrumentar mecanismos de divulgación de las actividades científicas, tecnológicas y de innovación para fomentar una cultura científica, a través de productos editoriales científicos y espacios formativos, recreativos e interactivos, acordes con las prioridades del Estado, y
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+
+IV. Promover la creación, equipamiento y mantenimiento de la infraestructura científica, tecnológica y de innovación observando, en cada caso, lo dispuesto en la presente Ley.
 
 ###### ARTICULO 24.
 
@@ -363,31 +401,39 @@ Podrán formar parte del Sistema Estatal de Investigadores, todos aquellos inves
 
 El COPOCYT será el encargado de operar el Sistema Estatal de Investigadores, y de vigilar su funcionamiento; además, garantizará la plena vigencia de los principios de transparencia, legalidad y equidad.
 
-## TITULO SEXTO. DEL SISTEMA ESTATAL DE INVESTIGACION CIENTIFICA Y TECNOLOGICA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JULIO DE 2017)</small>
 
-### CAPITULO UNICO
+## TÍTULO SEXTO. DEL SISTEMA DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
+
+### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 31.
 
-Para los efectos de esta Ley, el Sistema Estatal de Investigación Científica y Tecnológica se integra de la manera siguiente:
+Para los efectos de esta Ley, el Sistema de Ciencia, Tecnología e Innovación del Estado de San Luis Potosí, se integra de la manera siguiente:
 
-I. La política de estado en materia de investigación científica y tecnológica que defina el COPOCYT;
+I. La política de estado en materia de investigación, desarrollo tecnológico e innovación, que defina el COPOCYT;
 
-II. El Programa Estatal de Investigación Científica y Tecnológica, y los programas sectoriales y regionales;
+II. El Programa de Ciencia, Tecnología e Innovación del Estado de San Luis Potosí, y las agendas regionales de innovación;
 
-III. Los principios orientadores e instrumentos legales, administrativos y económicos de apoyo a la investigación científica y tecnológica que establecen la presente Ley, y otros ordenamientos;
+III. Los principios orientadores e instrumentos legales, administrativos y económicos de apoyo a la investigación, el desarrollo tecnológico y la innovación, que establecen la presente Ley, y otros ordenamientos;
 
-IV. Las dependencias y entidades de la administración pública estatal y municipal que realicen actividades de investigación científica y tecnológica, o de apoyo a las mismas, así como las instituciones de los sectores social y privado, a través de los procedimientos de concertación, coordinación, participación y vinculación, conforme a ésta y otras leyes aplicables, y
+IV. Las dependencias y entidades de la administración pública estatal y municipal que realicen actividades de investigación, desarrollo tecnológico, innovación o de apoyo a las mismas, así como las instituciones de los sectores social y privado, a través de los procedimientos de concertación, coordinación, participación y vinculación, conforme a ésta y otras leyes aplicables, y
 
-V. La red estatal de grupos y centros de investigación, y las actividades de investigación científica de las universidades e instituciones de educación superior, conforme a las disposiciones legales aplicables.
+V. Las instituciones de educación superior, centros de investigación y empresas de alta tecnología en el Estado, conforme a las disposiciones legales aplicables.
 
-## TITULO SEPTIMO. DEL PROGRAMA ESPECIAL DE INVESTIGACION CIENTIFICA Y TECNOLOGICA DEL ESTADO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JULIO DE 2017)</small>
 
-### CAPITULO UNICO
+## TÍTULO SÉPTIMO. DEL PROGRAMA DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
+
+### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 32.
 
-Se instituye el Programa Especial de Investigación Científica y Tecnológica del Estado, como instrumento rector de la política del Ejecutivo del Estado en esa materia. Dicho programa será elaborado, aplicado, evaluado y actualizado cada seis años por el COPOCYT.
+Se instituye el Programa de Ciencia, Tecnología e Innovación del Estado de San Luis Potosí, como instrumento rector de la política del Ejecutivo del Estado en esa materia. Dicho programa será elaborado, aplicado, evaluado y actualizado cada seis años por el COPOCYT.
 
 ###### ARTICULO 33.
 
@@ -473,11 +519,15 @@ El COPOCYT transmitirá a las dependencias, entidades e instancias que realizan 
 
 El COPOCYT tomará en cuenta la participación ciudadana, para desarrollar las siguientes acciones:
 
-I. Formular propuestas sobre políticas de apoyo a la investigación científica y al desarrollo tecnológico;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+
+l. Formular propuestas sobre políticas de apoyo a la investigación, desarrollo tecnológico e innovación;
 
 II. Formular propuestas para integrar el Programa, conforme a lo dispuesto en esta Ley;
 
-III. Proponer áreas y acciones prioritarias en materia de investigación científica, desarrollo tecnológico, formación de investigadores, difusión del conocimiento científico y tecnológico, y cooperación técnica internacional, y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+
+III. Proponer áreas y acciones prioritarias en materia de investigación, desarrollo tecnológico e innovación, formación de investigadores, difusión del conocimiento científico y tecnológico, y cooperación técnica internacional, y
 
 IV. Proponer las medidas, estímulos fiscales, esquemas de financiamiento y facilidades administrativas, que estime necesarios para el cumplimiento del Programa.
 
@@ -600,3 +650,11 @@ P.O. 19 DE JUNIO DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 19 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0677.- SE REFORMA Y ADICIONA LA LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE SAN LUIS POTOSÍ; ASÍ MISMO SE REFORMA Y ADICIONA LA LEY ORGÁNICA DEL CONSEJO POTOSINO DE CIENCIA Y TECNOLOGÍA”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
