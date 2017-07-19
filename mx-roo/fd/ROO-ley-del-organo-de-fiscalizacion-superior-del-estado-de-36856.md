@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-organo-de-fiscalizacion-superior-del-estado-de-36856"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-16"
-last_updated: "2011-02-24"
+last_updated: "2017-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "ROO"
 ---
 # LEY DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO DE QUINTANA ROO -ANTES LEY DEL ORGANO SUPERIOR DE FISCALIZACION DEL ESTADO DE QUINTANA ROO-
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO TERCERO DE LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 19 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO TERCERO DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 19 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO, CON EXCEPCIÓN DE LOS TÍTULOS TERCERO Y CUARTO, LOS CUALES QUEDARÁN DEROGADOS PROGRESIVAMENTE HASTA LA CONCLUSIÓN DEL ÚLTIMO PROCEDIMIENTO REGIDO POR LO ESTABLECIDO EN LAS DISPOSICIONES CONTENIDAS EN DICHOS TÍTULOS.]</small>
 
-LEY DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO DE QUINTANA ROO
+LEY DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2017 (ABROGADA).
 
-Ley Publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 16 de diciembre de 2003.
+Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 16 de diciembre de 2003.
 
 DECRETO NÚMERO: 87
 
@@ -405,7 +405,7 @@ Las entidades fiscalizadas estarán obligadas a realizar una revisión para elab
 
 ###### Artículo 29.
 
-Si transcurrido el plazo señalado en el artículo (sic) en esta ley, la entidad fiscalizada, sin causa justificada, no presenta el informe de situación excepcional, la Auditoría Superior del Estado impondrá a los servidores públicos responsables una multa mínima de 10 a una máxima de 1000 días de salario mínimo general vigente en Quintana Roo, sin perjuicio de la promoción de otras responsabilidades ante las autoridades competentes ni del ejercicio de otras facultades que esta ley le confiere. La reincidencia se podrá castigar con multa hasta del doble de la ya impuesta, además de que podrá promover la destitución de los servidores públicos responsables ante las autoridades competentes.
+Si transcurrido el plazo señalado en el artículo en (sic) esta ley, la entidad fiscalizada, sin causa justificada, no presenta el informe de situación excepcional, la Auditoría Superior del Estado impondrá a los servidores públicos responsables una multa mínima de 10 a una máxima de 1000 días de salario mínimo general vigente en Quintana Roo, sin perjuicio de la promoción de otras responsabilidades ante las autoridades competentes ni del ejercicio de otras facultades que esta ley le confiere. La reincidencia se podrá castigar con multa hasta del doble de la ya impuesta, además de que podrá promover la destitución de los servidores públicos responsables ante las autoridades competentes.
 
 ###### Artículo 30.
 
@@ -701,7 +701,7 @@ I. La Comisión formulará la convocatoria pública correspondiente, a efecto de
 
 II. Concluido el plazo anterior y recibidas las solicitudes con los requisitos y documentos que señale la convocatoria, la Comisión, dentro de los tres días siguientes, procederá a la revisión y análisis de las mismas;
 
-III. Del análisis de las solicitudes los integrantes de la Comisión entrevistarán por separado para la evaluación respectiva y dentro de los tres días siguientes, a los candidatos que, a su juicio, considere idóneos para la conformación de una terna, y (sic)
+III. Del análisis de las solicitudes los integrantes de la Comisión entrevistarán por separado para la evaluación respectiva y dentro de los tres días siguientes, a los candidatos que, a su juicio, considere idóneos para la conformación de una terna, y
 
 IV. Conformada la terna, en un plazo que no deberá exceder de tres días, la Comisión formulará su dictamen, a fin de proponer al Pleno de la Legislatura los tres candidatos, para que éste proceda, en los términos del artículo anterior, a la designación del Auditor Superior del Estado;
 
@@ -1137,7 +1137,7 @@ EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO
 
 LIC. EFRAÍN VILLANUEVA ARCOS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 14 DE DICIEMBRE DE 2005.
 
@@ -1166,3 +1166,21 @@ P.O. 22 DE DICIEMBRE DE 2010.
 P.O. 24 DE FEBRERO DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. DE 19 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 090 POR EL QUE SE EXPIDE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo, sin perjuicio de lo previsto en los transitorios siguientes.
+
+SEGUNDO. Las referencias, remisiones o contenidos del presente Decreto que estén vinculados con la aplicación de la Ley del Sistema Anticorrupción del Estado de Quintana Roo, de la Ley de Responsabilidades Administrativas del Estado de Quintana Roo y de las nuevas facultades del Tribunal de Justicia Administrativa del Estado, entrarán en vigor cuando dichos ordenamientos se encuentren vigentes.
+
+TERCERO. Se abroga la Ley del Órgano de Fiscalización Superior del Estado de Quintana Roo, publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el 16 de diciembre de 2003, conforme a lo dispuesto en los artículos transitorios subsecuentes y se derogan todas las disposiciones legales que contravengan o se opongan a la presente Ley; dicha abrogación será con excepción de los Títulos Tercero y Cuarto de la ley en cita.
+
+En virtud de lo establecido en el párrafo anterior, los Títulos Tercero y Cuarto de la Ley del Órgano de Fiscalización Superior del Estado de Quintana Roo, quedarán derogados progresivamente hasta la conclusión del último procedimiento regido por lo establecido en las disposiciones contenidas en dichos Títulos.
+
+CUARTO. Los procedimientos administrativos iniciados de conformidad con la Ley del Órgano de Fiscalización Superior del Estado de Quintana Roo que se encuentren en trámite o pendientes de resolución a la entrada en vigor de la presente Ley, se resolverán hasta su conclusión definitiva, en términos de la Ley del Órgano de Fiscalización Superior del Estado de Quintana Roo que se abroga, así como los que se deriven de las funciones de fiscalización y revisión hasta la Cuenta Pública del año 2016.
+
+QUINTO. Las funciones de fiscalización y revisión de la Auditoría Superior del Estado previstas en la presente Ley entrarán en vigor a partir de la Cuenta Pública del año 2018.
+
+SEXTO. La Legislatura del Estado de Quintana Roo deberá modificar el Reglamento Interior en un plazo no mayor a ciento ochenta días hábiles contados a partir de la vigencia de la presente Ley.
