@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-consejo-potosino-de-ciencia-y-tecnologia-34231
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-30"
-last_updated: "2003-08-30"
+last_updated: "2017-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL CONSEJO POTOSINO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de agosto de 2003.
 
@@ -59,7 +59,9 @@ El COPOCYT tendrá por objeto ser la entidad asesora del Ejecutivo del Estado, y
 
 Con la finalidad de dar cumplimiento al objeto señalado en el artículo anterior, le corresponderá al COPOCYT, a través de los órganos que establece esta Ley, realizar lo siguiente:
 
-I. Planear, conducir, coordinar y evaluar las políticas generales que orienten el desarrollo sustentable del Estado, a través de la investigación científica y tecnológica;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+
+I. Planear, conducir, coordinar y evaluar las políticas generales que orienten el desarrollo sustentable del Estado, a través de la investigación, el desarrollo tecnológico y la innovación;
 
 II. Apoyar la investigación científica básica y aplicada, así como la formación y consolidación de grupos de investigación en todas las áreas del conocimiento, las que incluyen las ciencias exactas, naturales, de la salud, de humanidades y de la conducta, sociales, biotecnología y agropecuarias, así como el ramo de las ingenierías, entre otras;
 
@@ -67,43 +69,77 @@ III. Impulsar la innovación y el desarrollo tecnológico, así como el fortalec
 
 IV. Fomentar la vinculación de las instituciones de investigación y desarrollo tecnológico, con los sectores productivo, gubernamental y social del Estado;
 
-V. Formular e integrar el Programa Estatal de Investigación Científica y Tecnológica, y proponérselo al titular del Poder Ejecutivo del Estado para su aprobación; así como coordinar su ejecución y evaluación, en los términos de la Ley de Planeación del Estado y Municipios de San Luis Potosí, y de la Ley (sic) Ciencia y Tecnología para el Estado de San Luis Potosí;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
 
-VI. Asesorar en materia de investigación científica y tecnológica a las dependencias y entidades de las administraciones públicas estatal y municipales, a los organismos de los sectores social y privado, a las instituciones de educación superior públicas o privadas, y demás personas que lo soliciten, en las condiciones y sobre las materias que acuerden en cada caso;
+V. Formular e integrar el Programa de Ciencia, Tecnología e Innovación, y proponérselo al titular del Poder Ejecutivo del Estado para su aprobación; así como coordinar su ejecución y evaluación, en los términos de la Ley de Planeación del Estado y Municipios de San Luis Potosí, y de la Ley (sic) Ciencia y Tecnología para el Estado de San Luis Potosí;
 
-VII. Establecer las prioridades, lineamientos programáticos y criterios de asignación del gasto para la investigación científica y tecnológica, que deberán tomar en cuenta las dependencias y entidades de la administración pública estatal, en sus anteproyectos de programa y presupuesto;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
 
-VIII. Realizar conjuntamente con la Secretaría de Planeación del Desarrollo, la revisión y análisis integral de los anteproyectos de programa y presupuesto de las dependencias y entidades de la administración pública estatal, para apoyar la investigación científica y el desarrollo tecnológico, a fin de asegurar su congruencia global con las políticas, prioridades, lineamientos programáticos y criterios de asignación del gasto definidos, con la participación de dichas dependencias y entidades;
+VI. Asesorar en materia de investigación, desarrollo tecnológico e innovación, a las dependencias y entidades de las administraciones públicas estatal y municipales, a los organismos de los sectores social y privado, a las instituciones de educación superior públicas o privadas, y demás personas que lo soliciten, en las condiciones y sobre las materias que acuerden en cada caso;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+
+VII. Establecer las prioridades, lineamientos programáticos y criterios de asignación del gasto para la investigación, el desarrollo tecnológico y la innovación, que deberán tomar en cuenta las dependencias y entidades de la administración pública estatal, en sus anteproyectos de programa y presupuesto;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+
+VIII. Realizar conjuntamente con la Secretaría de Finanzas, la revisión y análisis integral de los anteproyectos de programa y presupuesto de las dependencias y entidades de la administración pública estatal, para apoyar la investigación, el desarrollo tecnológico y la innovación, a fin de asegurar su congruencia global con las políticas, prioridades, lineamientos programáticos y criterios de asignación del gasto definidos, con la participación de dichas dependencias y entidades;
 
 IX. Conducir y operar el Sistema Estatal de Investigadores, y el Sistema Estatal de Información Científica y Tecnológica, estableciendo sus objetivos, criterios, funciones y formas de organización, en las reglas de operación y reglamentación interna;
 
-X. Promover la participación de la comunidad científica y de los sectores público, social y privado, en el desarrollo de programas y proyectos de fomento a la investigación científica y tecnológica, y al desarrollo tecnológico;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
 
-XI. Apoyar la generación, difusión y aplicación de conocimientos científicos y tecnológicos;
+X. Promover la participación de la comunidad científica y de los sectores público, social y privado, en el desarrollo de programas y proyectos de fomento a la investigación, el desarrollo tecnológico y la innovación;
 
-XII. Promover y apoyar el desarrollo de la red de grupos y centros de investigación, así como los proyectos de investigación científica y tecnológica, de las universidades e instituciones públicas de educación superior;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
 
-XIII. Fomentar la formación de recursos humanos del más alto nivel, para la investigación científica y tecnológica;
+XI. Apoyar la generación, difusión y aplicación de conocimientos científicos, tecnológicos y de innovación;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+
+XII. Promover y apoyar el desarrollo de la red de grupos y centros de investigación, así como los proyectos de investigación, desarrollo tecnológico e innovación, de las instituciones de educación superior y centros de investigación;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+
+XIII. Fomentar la formación de recursos humanos del más alto nivel, para la investigación, el desarrollo tecnológico y la innovación;
 
 XIV. Promover la divulgación de la ciencia a todos los niveles educativos, y entre la sociedad en general;
 
-XV. Documentar las aportaciones científicas y tecnológicas generadas en el Estado, y difundirlas en la sociedad;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+
+XV. Documentar las aportaciones científicas, tecnológicas y de innovación, generadas en el Estado, y difundirlas en la sociedad;
 
 XVI. Formar parte de la Conferencia Nacional de Ciencia y Tecnología, como se estipula en el artículo octavo transitorio de la Ley de Ciencia y Tecnología;
 
 XVII. Actuar como entidad de enlace con los organismos equivalentes a nivel nacional, regional e internacional;
 
-XVIII. Coordinar el otorgamiento de los premios estatales de ciencia y tecnología;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
 
-XIX. Poner en marcha los instrumentos de apoyo de la investigación científica y tecnológica;
+XVIII. Coordinar el otorgamiento de los premios estatales de ciencia, tecnología e innovación;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+
+XIX. Poner en marcha los instrumentos de apoyo de la investigación, el desarrollo tecnológico y la innovación;
 
 XX. Aplicar los fondos que el Ejecutivo del Estado destine a sus programas, de acuerdo con las disposiciones de la Ley de Ciencia y Tecnología para el Estado de San Luis Potosí;
 
-XXI. Celebrar convenios de coordinación y colaboración con el Ejecutivo Federal, los municipios y otros Estados, a efecto de establecer programas y apoyos específicos de carácter local, para impulsar el desarrollo y la descentralización científica y tecnológica;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
 
-XXII. Realizar los actos que sean necesarios para el logro de los objetivos del COPOCYT, y
+XXI. Celebrar convenios de coordinación y colaboración con el Ejecutivo Federal, los municipios y otros Estados, a efecto de establecer programas y apoyos específicos de carácter local, para impulsar el desarrollo y la descentralización científica, tecnológica y de innovación;
 
-XXIII. Las demás que establezca el Reglamento de esta Ley.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+
+XXII. Presidir y coordinar el Sistema de Ciencia, Tecnología e Innovación del Estado de San Luis Potosí;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE JULIO DE 2017)</small>
+
+XXIII. Instrumentar las políticas propuestas por el Sistema de Ciencia, Tecnología e Innovación del Estado de San Luis Potosí;
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2017)</small>
+
+XXIV. Realizar los actos que sean necesarios para el logro de los objetivos del COPOCYT, y
+
+XXV. Las demás que establezca el Reglamento de esta Ley.
 
 ## TITULO SEGUNDO. DE LOS ORGANOS DE GOBIERNO, DE ADMINISTRACION Y TECNICOS DEL COPOCYT
 
@@ -197,7 +233,9 @@ I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
 II. Poseer un grado universitario o equivalente, superior al de licenciatura;
 
-III. Haber realizado trabajos de investigación que acrediten sus contribuciones al desarrollo de la ciencia y/o la tecnología;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+
+III. Haber realizado trabajos de investigación que acrediten sus contribuciones al desarrollo de la ciencia, la tecnología y/o la innovación;
 
 IV. Gozar del respeto y del reconocimiento de la comunidad académica de la Entidad;
 
@@ -237,9 +275,13 @@ XIII. Dictar los acuerdos e instrucciones necesarias para que el personal del or
 
 XIV. Formular los presupuestos anuales de ingresos y egresos del organismo, y someterlos a la aprobación del Consejo Directivo durante la segunda quincena del mes de septiembre de cada año;
 
-XV. Coordinar y elaborar el Programa Especial de Ciencia y Tecnología, y presentarlo para su aprobación al Consejo Directivo; así como establecer los mecanismos de seguimiento y evaluación de este instrumento;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
 
-XVI. Establecer redes de intercambio de información y bancos de datos sobre ciencia y tecnología;
+XV. Coordinar y elaborar el Programa de Ciencia, Tecnología e Innovación, y presentarlo para su aprobación al Consejo Directivo; así como establecer los mecanismos de seguimiento y evaluación de este instrumento;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+
+XVI. Establecer redes de intercambio de información y bancos de datos sobre ciencia, tecnología e innovación;
 
 XVII. Promover y celebrar convenios de colaboración con organismos similares, tanto nacionales como internacionales;
 
@@ -253,9 +295,17 @@ XXI. Vigilar que los planes y programas del organismo se realicen conforme a los
 
 XXII. Informar con la periodicidad que el Consejo Directivo determine, los avances que tengan los planes y programas aprobados por el Consejo;
 
-XXIII. Elaborar el inventario de bienes que tenga a su cuidado, actualizarlo y administrarlo permanentemente; así como remitir al Consejo Directivo las requisiciones de bienes, y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
 
-XXIV. Ejercer las atribuciones que determinen las demás disposiciones legales aplicables; así como las que con fundamento en esta Ley le delegue el Consejo Directivo.
+XXIII. Elaborar el inventario de bienes que tenga a su cuidado, actualizarlo y administrarlo permanentemente; así como remitir al Consejo Directivo las requisiciones de bienes;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+
+XXIV. Presidir y operar el Sistema de Ciencia, Tecnología e Innovación del Estado de San Luis Potosí, y
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2017)</small>
+
+XXV. Ejercer las atribuciones que determinen las demás disposiciones legales aplicables; así como las que con fundamento en esta Ley le delegue el Consejo Directivo.
 
 ### CAPITULO III. Del Consejo Técnico
 
@@ -297,9 +347,11 @@ VI. Las demás que le confiera esta Ley, el Reglamento Interno del COPOCYT y otr
 
 ### CAPITULO IV. De los Consejos Regionales
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+
 ###### ARTICULO 15.
 
-El Director General tendrá a su cargo los consejos regionales que funcionarán en cada una de las regiones del Estado, y actuarán como órganos de consulta sobre temas de ciencia y tecnología que sean de interés para cada región del Estado. Además, cuando se requiera realizarán las funciones ejecutivas que les asigne el Director General.
+El Director General tendrá a su cargo los consejos regionales que funcionarán en cada una de las regiones del Estado, y actuarán como órganos de consulta sobre temas de ciencia, tecnología e innovación que sean de interés para cada región del Estado. Además, cuando se requiera realizarán las funciones ejecutivas que les asigne el Director General.
 
 ###### ARTICULO 16.
 
@@ -317,13 +369,17 @@ El Consejo Directivo del COPOCYT designará los representantes de los sectores a
 
 Los consejos regionales tendrán las siguientes funciones:
 
-I. Identificar las demandas y necesidades de investigación y desarrollo tecnológico de los municipios que conforman la región;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+
+I. Identificar las demandas y necesidades de investigación, desarrollo tecnológico e innovación, de los municipios que conforman la región;
 
 II. Proponer al Director General, los proyectos específicos para atender las demandas y necesidades identificadas;
 
 III. Servir como instancia para la participación ciudadana en el COPOCYT, y como vínculo de éste con la sociedad potosina en los distintos municipios y regiones del Estado;
 
-IV. Asesorar a las autoridades municipales de la región, en materia de ciencia y tecnología, y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+
+IV. Asesorar a las autoridades municipales de la región, en materia de ciencia, tecnología e innovación, y
 
 V. Ejecutar las tareas específicas que les encomiende el Director General, cuando así se requiera.
 
@@ -377,17 +433,21 @@ VI. De asistencia jurídica y propiedad intelectual.
 
 Asimismo, podrá contar con tres coordinadores: de evaluación y seguimiento de proyectos; de sistemas de información y estadística; y de comunicación institucional y política editorial; y demás personal administrativo de apoyo.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+
 ###### ARTICULO 21.
 
-El Director de Análisis y Prospectiva apoyará a la Dirección General en la planeación, programación, presupuestación, ejecución y evaluación de las tareas relacionadas directamente con la gestión de los proyectos de investigación, y las acciones de promoción científica y tecnológica vinculadas al Sistema Estatal de Investigadores.
+El Director de Análisis y Prospectiva apoyará a la Dirección General en la planeación, programación, presupuestación, ejecución y evaluación de las tareas relacionadas directamente con la gestión de los proyectos de investigación, desarrollo tecnológico e innovación, y las acciones de promoción científica, tecnológica y de innovación, vinculadas al Sistema Estatal de Investigadores.
 
 ###### ARTICULO 22.
 
 El Director de Vinculación y Divulgación apoyará al Director General en las acciones de vinculación con los sectores académico, productivo y social, con las instituciones, organismos y centros de investigación, así como con las instancias gubernamentales de los distintos órdenes de gobierno. Además apoyará las acciones relacionadas con los programas de divulgación científica y tecnológica.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+
 ###### ARTICULO 23.
 
-El Director de Intercambio y Becas auxiliará al Director General en la coordinación de las acciones, orientadas al intercambio y formación de los recursos humanos del sector de ciencia y tecnología, a través de la cooperación institucional con agencias, instancias de gobierno, fundaciones y otros organismos, de carácter nacional e internacional.
+El Director de Intercambio y Becas auxiliará al Director General en la coordinación de las acciones, orientadas al intercambio y formación de los recursos humanos del sector de ciencia, tecnología e innovación, a través de la cooperación institucional con agencias, instancias de gobierno, fundaciones y otros organismos, de carácter nacional e internacional.
 
 ###### ARTICULO 24.
 
@@ -405,9 +465,11 @@ El Director de Asistencia Jurídica y Propiedad Intelectual auxiliará al Direct
 
 El Coordinador de Evaluación y Seguimiento de Proyectos establecerá las metodologías y criterios técnicos, de evaluación y seguimiento de los proyectos de investigación apoyados a través de los diversos fondos que, para tal efecto, coordine el COPOCYT.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+
 ###### ARTICULO 28.
 
-El Coordinador de Sistemas de Información y Estadística se encargará de la operación y manejo, del Sistema Estatal de Información Científica y Tecnológica; siendo el responsable de garantizar el adecuado funcionamiento de todos los sistemas de comunicación, información, servicios de cómputo y telecomunicaciones, indispensables para el acceso público a la información relativa a los programas, proyectos y acciones del sector de ciencia y tecnología.
+El Coordinador de Sistemas de Información y Estadística se encargará de la operación y manejo, del Sistema Estatal de Información Científica y Tecnológica; siendo el responsable de garantizar el adecuado funcionamiento de todos los sistemas de comunicación, información, servicios de cómputo y telecomunicaciones, indispensables para el acceso público a la información relativa a los programas, proyectos y acciones del sector de ciencia, tecnología e innovación.
 
 ###### ARTICULO 29.
 
@@ -443,7 +505,9 @@ SEGUNDO. Se abroga el Decreto Administrativo de Creación del Consejo Potosino d
 
 TERCERO. El organismo público descentralizado denominado Consejo Potosino de Ciencia y Tecnología, conserva los bienes, derechos, recursos materiales y presupuestales; subsisten los compromisos y obligaciones adquiridos con anterioridad; así como las relaciones laborales establecidas con sus servidores públicos.
 
-CUARTO. Las secretarías de Planeación del Desarrollo, y de Finanzas, realizarán las adecuaciones y ajustes tanto legales como técnico-normativas necesarias para el tratamiento del ramo presupuestal del COPOCYT como organismo descentralizado con autonomía técnica, operativa y administrativa; así como para que éste ejerza las funciones que conforme a las leyes y demás ordenamientos corresponden a las dependencias coordinadoras del sector, respecto de las entidades paraestatales que formen parte del subsector denominado de ciencia y tecnología, en los términos que disponga la Ley Orgánica de la Administración Pública del Estado de San Luis Potosí, y los reglamentos interiores de las secretarías o entidades de la administración pública estatal centralizada.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+
+CUARTO. La Secretaría de Finanzas, realizará las adecuaciones y ajustes tanto legales como técnico-normativas necesarias para el tratamiento del ramo presupuestal del COPOCYT como organismo descentralizado con autonomía técnica, operativa y administrativa; así como para que éste ejerza las funciones que conforme a las leyes y demás ordenamientos corresponden a las dependencias coordinadoras del sector, respecto de las entidades paraestatales que formen parte del subsector denominado de ciencia y tecnología, en los términos que disponga la Ley Orgánica de la Administración Pública del Estado de San Luis Potosí, y los reglamentos interiores de las secretarías o entidades de la administración pública estatal centralizada.
 
 QUINTO. El Consejo Directivo, a propuesta del Director General del COPOCYT, expedirá el Reglamento Interno de este organismo, en un plazo no mayor de noventa días contados a partir de la entrada en vigor de la presente Ley.
 
@@ -474,3 +538,13 @@ El Secretario General de Gobierno
 LIC. MARCO ANTONIO ARANDA MARTINEZ
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0677.- SE REFORMA Y ADICIONA LA LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE SAN LUIS POTOSÍ; ASÍ MISMO SE REFORMA Y ADICIONA LA LEY ORGÁNICA DEL CONSEJO POTOSINO DE CIENCIA Y TECNOLOGÍA."]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
