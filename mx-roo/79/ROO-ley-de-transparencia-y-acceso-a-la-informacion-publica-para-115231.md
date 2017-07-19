@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-115
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-03"
-last_updated: "2016-05-03"
+last_updated: "2017-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2017.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 3 de mayo de 2016.
 
@@ -149,7 +149,9 @@ XXI. Prueba de Daño: Carga de los sujetos obligados para demostrar que la divul
 
 XXII. Prueba de Interés Público: Carga del Instituto para demostrar con base en elementos de idoneidad, necesidad y proporcionalidad, que la publicación de la información no lesiona el Interés jurídicamente protegido por la Ley;
 
-XXIII. Servidores Públicos: Los señalados en el artículo 160 de la Constitución Política del Estado Libre y Soberano de Quintana Roo y en el artículo 2 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Quintana Roo;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+
+XXIII. Servidores Públicos: Los señalados en el Artículo 160 de la Constitución Política del Estado Libre y Soberano de Quintana Roo;
 
 XXIV. Sistema Nacional: El Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, al que pertenece el Instituto;
 
@@ -173,7 +175,7 @@ II. El Código Civil para el Estado Libre y Soberano de Quintana Roo;
 
 III. El Código de Procedimientos Civiles para el Estado Libre y Soberano de Quintana Roo;
 
-IV. La Ley de Responsabilidades de los Servidores Públicos del Estado de Quintana Roo, y
+IV. (DEROGADA, P.O. 19 DE JULIO DE 2017)
 
 V. Las leyes del orden común que resulten aplicables.
 
@@ -307,13 +309,17 @@ El instituto tendrá facultad de elaborar su proyecto anual de egresos, el cual 
 
 La organización y funcionamiento del Instituto se establecerá en el Reglamento Interior del mismo, el cual deberá prever la estructura administrativa necesaria para el ejercicio de sus atribuciones.
 
-En todo caso, deberá contar al menos con un Secretario Ejecutivo, una Coordinación Jurídica de Datos Personales y Archivos, una Coordinación Administrativa, una Dirección Consultiva y de lo Contencioso, una Dirección de Protección de Datos Personales, una Dirección de Archivos, una Dirección de Recursos Financieros, Presupuesto y Contabilidad, una Dirección de Recursos Humanos, Materiales y Servicios Generales, una Dirección de Planeación, una Dirección de Capacitación, una Dirección de Vinculación, una Dirección de Administración, una Dirección de Planeación, una Dirección de Relaciones Públicas y Comunicación Social, una Dirección de Tecnologías de la Información y un Órgano de Control Interno, que tendrán las facultades y obligaciones que les asigne el ordenamiento reglamentario.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+
+En todo caso, deberá contar al menos con un Secretario Ejecutivo, una Coordinación Jurídica de Datos Personales y Archivos, una Coordinación Administrativa, una Dirección Consultiva y de lo Contencioso, una Dirección de Protección de Datos Personales, una Dirección de Archivos, una Dirección de Recursos Financieros, Presupuesto y Contabilidad, una Dirección de Recursos Humanos, Materiales y Servicios Generales, una Dirección de Planeación, una Dirección de Capacitación, una Dirección de Vinculación, una Dirección de Administración, una Dirección de Planeación, una Dirección de Relaciones Públicas y Comunicación Social y una Dirección de Tecnologías de la Información, que tendrán las facultades y obligaciones que les asigne el ordenamiento reglamentario.
 
 Los titulares de las direcciones y demás órganos que contemple la estructura administrativa del Instituto, serán designados por el Pleno a propuesta de su Comisionado Presidente, en los términos que se establezcan en los ordenamientos correspondientes.
 
 El reglamento, de igual forma, deberá instituir el Servicio Civil de Carrera, regido por los principios de legalidad, imparcialidad, objetividad, especialización, honradez, lealtad y eficiencia; establecerá y desarrollará las bases para la selección, permanencia, promoción, capacitación y actualización del personal.
 
-Todo el personal que integre y forme parte del Instituto, estará sujeto a las obligaciones que establece la Ley de Responsabilidades de los Servidores Públicos del Estado y responderá de sus actos en la forma y términos que establezca el Reglamento.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+
+Todo el personal que integre y forme parte del Instituto, estará sujeto a las obligaciones que establezcan las leyes que en materia de responsabilidades correspondan.
 
 ###### Artículo 29.
 
@@ -901,13 +907,165 @@ En el supuesto previsto en la fracción I, el Instituto informará a la Legislat
 
 En los demás casos, la Legislatura del Estado, previa garantía de audiencia que se otorgue a los Consejeros, resolverá lo procedente.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE JULIO DE 2017)</small>
+
+## TÍTULO TERCERO BIS. DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE JULIO DE 2017)</small>
+
+### Capítulo Único. Del Órgano Interno de Control del Instituto
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+
+###### Artículo 73 Bis.
+
+El Órgano Interno de Control del Instituto es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones y estará adscrito administrativamente al Pleno del Instituto, sin que ello se traduzca en subordinación alguna.
+
+El Órgano Interno de Control, su titular y el personal adscrito al mismo, estarán impedidos de intervenir o interferir en forma alguna en el desempeño de las facultades y en el ejercicio de las atribuciones que esta Ley y las demás disposiciones aplicables confieren a los servidores públicos del Instituto.
+
+El Órgano Interno de Control tendrá un titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto.
+
+En el desempeño de su cargo, el Titular del Órgano Interno de Control se sujetará a los principios previstos en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Quintana Roo.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+
+###### Artículo 73 Ter.
+
+El Órgano Interno de Control, a través de su titular, tendrá las siguientes atribuciones:
+
+I. Las que contempla la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Quintana Roo;
+
+II. Prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del Instituto y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa del Estado;
+
+III. Resolver sobre la responsabilidad de los servidores públicos del Instituto e imponer en su caso las sanciones administrativas que correspondan;
+
+IV. Presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción o la Fiscalía General del Estado, según corresponda;
+
+V. Verificar que el ejercicio del gasto del Instituto se realice conforme a la normatividad aplicable, los programas aprobados y montos autorizados;
+
+VI. Presentar al Pleno del Instituto los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del Instituto;
+
+VII. Revisar que las operaciones presupuestales que realice el Instituto, se hagan con apego a las disposiciones legales y administrativas aplicables y, en su caso, determinar las desviaciones de las mismas y las causas que les dieron origen;
+
+VIII. Promover ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorías;
+
+IX. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Instituto;
+
+X. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos, empleando la metodología que éste determine;
+
+XI. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos del Instituto, empleando la metodología que determine;
+
+XII. Recibir, tramitar, investigar y resolver, en su caso, las quejas, sugerencias y denuncias en contra de los servidores públicos del Instituto, conforme a las leyes aplicables;
+
+XIII. Solicitar la información y efectuar visitas a las áreas y órganos del Instituto para el cumplimento de sus funciones;
+
+XIV. Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en materia de adquisiciones, arrendamientos, servicio y obras públicas;
+
+XV. Intervenir en los actos de entrega-recepción de los servidores públicos del Instituto de mandos medios y superiores;
+
+XVI. Atender las solicitudes de los diferentes órganos del Instituto en los asuntos de su competencia;
+
+XVII. Proponer los proyectos de modificación o actualización de su estructura orgánica, personal y/o recursos al Pleno del Instituto;
+
+XVIII. Formular su anteproyecto de presupuesto al Pleno del Instituto;
+
+XIX. Presentar al Pleno del Instituto, en la primera semana hábil del ejercicio fiscal siguiente que corresponda, un informe anual de resultados de su gestión, y comparecer ante el mismo, cuando así lo requiera el Presidente;
+
+XX. Presentar al Pleno del Instituto, en la primera semana hábil del ejercicio fiscal siguiente que corresponda, un informe anual respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas;
+
+XXI. Inscribir y mantener actualizada la información correspondiente del Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal; de todos los servidores públicos del Instituto, de conformidad con las leyes aplicables, y
+
+XXII. Las demás que le confieran otros ordenamientos.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+
+###### Artículo 73 Quáter.
+
+El titular del Órgano Interno de Control, durará en su encargo cuatro años sin posibilidad de reelección y deberá reunir los siguientes requisitos:
+
+I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
+
+II. Tener treinta años de edad cumplidos el día de la designación;
+
+III. Gozar de buena reputación y no haber sido condenado por delito doloso;
+
+IV. Contar al momento de su designación con experiencia en el control, manejo o fiscalización de recursos, responsabilidades administrativas, contabilidad gubernamental, auditoría gubernamental, obra pública, adquisiciones o arrendamientos;
+
+V. Contar al día de su designación con título y cédula profesional de licenciado en derecho, contador, administrador, economista o financiero, expedidos con una antigüedad mínima de cinco años por autoridad o institución legalmente facultada para ello;
+
+VI. No pertenecer o haber pertenecido en los dos años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios al Instituto, o haber fungido como consultor o auditor externo del mismo, en lo individual durante ese periodo;
+
+VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, y
+
+VIII. Durante los dos años anteriores a la designación no haber desempeñado cargo de elección popular federal, estatal o municipal, haber sido dirigente nacional, estatal o municipal o responsable del manejo de los recursos públicos de algún partido político, ni haber participado como candidato a cargo de elección popular alguno.
+
+El titular del Órgano Interno de Control no podrá durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+
+###### Artículo 73 Quinquies.
+
+La designación del titular del Órgano Interno de Control se llevará a cabo de conformidad con el procedimiento siguiente:
+
+I. La Mesa Directiva de la Legislatura o la Diputación Permanente, en su caso, a propuesta de la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos, expedirá una convocatoria pública en la que se establecerán los medios idóneos para acreditar el cumplimiento de los requisitos de elegibilidad, así como los plazos y términos de participación para la elección del titular del Órgano Interno de Control, misma que deberá publicarse el mismo día de su emisión en la página web del Poder Legislativo y en dos periódicos de mayor circulación en el Estado, además en las redes sociales del Poder Legislativo para mayor publicidad;
+
+II. Las solicitudes deberán ser dirigidas a la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos, presentarse dentro de los cinco días hábiles contados a partir del día siguiente de la fecha de la emisión de la convocatoria, así como estar debidamente suscritas por el solicitante;
+
+III. La Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos, procederá a la revisión y análisis de las mismas, entrevistando de manera pública a cada uno de los aspirantes que hayan cumplido con los requisitos exigidos para el cargo;
+
+Una vez vencido el plazo para la presentación de las solicitudes, dentro de los cinco días hábiles siguientes, dicha Comisión procederá a presentar el dictamen con una terna conformada por los candidatos que resulten idóneos, ante la Legislatura del Estado o la Diputación Permanente, en su caso, para la designación correspondiente.
+
+IV. Aprobada la designación el titular rendirá la protesta de ley ante la Legislatura o la Diputación Permanente, en su caso.
+
+Dicha designación deberá publicarse en el Periódico Oficial del Estado de Quintana Roo, señalando el inicio y fin del periodo del encargo.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+
+###### Artículo 73 Sexies.
+
+El titular del Órgano Interno de Control del Instituto será sujeto de responsabilidad en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Quintana Roo.
+
+Tratándose de los demás servidores públicos adscritos al Órgano Interno de Control del Instituto serán sancionados por el Titular del Órgano Interno de Control, en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Quintana Roo.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+
+###### Artículo 73 Sépties.
+
+El Órgano Interno de Control será removido de su cargo por la Legislatura por la Diputación Permanente, o en su caso, por las siguientes causas:
+
+I. Incurrir en violaciones graves a los derechos humanos, previstos por la Constitución y los tratados internacionales de los que el Estado Mexicano sea parte;
+
+II. Incurrir en responsabilidad administrativa grave en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Quintana Roo;
+
+III. Haber sido condenado por delito doloso;
+
+IV. Utilizar, en beneficio propio o de terceros, la información confidencial o reservada de que disponga en razón de su cargo, así como divulgar la mencionada información en contravención a la Ley;
+
+V. Abstenerse de resolver sin causa justificada y en forma reiterada, los asuntos de su competencia dentro (sic) los plazos previstos por la Ley;
+
+VI. Incurrir en infracciones graves a la Constitución o a las leyes de la Federación o el Estado causando perjuicios graves a las instituciones democráticas del país, a la sociedad, o motivar alguna deficiencia en el funcionamiento normal de las instituciones del Estado Mexicano, y
+
+VII. Faltar gravemente en el ejercicio de su cargo a la observancia de los principios de legalidad, máxima publicidad, objetividad, eficiencia, profesionalismo, restricciones de contacto, honradez, debido proceso, transparencia y respeto a los derechos humanos.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+
+###### Artículo 73 Octies.
+
+En caso de actualizarse alguno de los supuestos señalados en el artículo anterior, el Pleno del Instituto, cuando tenga conocimiento de los hechos que actualicen alguna de las causas de procedencia de la remoción y considere que existen elementos de prueba, o cuando medie solicitud debidamente justificada, notificará inmediatamente al Presidente de la Mesa Directiva de la Legislatura o de la Diputación Permanente, en su caso, acompañando el expediente del asunto.
+
+El Presidente de la Mesa Directiva turnará el expediente a la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos para que sea instructora en el procedimiento.
+
+Dicha Comisión citará al titular del Órgano Interno de Control a una audiencia, notificándole que deberá comparecer personalmente a rendir su declaración en torno a los hechos que se le imputen y que puedan ser causa de remoción en los términos de esta Ley y demás disposiciones aplicables. La notificación deberá ser personal y expresar el lugar, día y hora en que tendrá verificativo la audiencia, los actos u omisiones que se le imputen y el derecho de éste a comparecer asistido de un defensor.
+
+Entre la fecha de la citación y la de la audiencia deberá mediar un plazo no menor de diez ni mayor de quince días naturales.
+
+Concluida la audiencia, se concederá al titular del Órgano Interno de Control sujeto al proceso de remoción un plazo de cinco días hábiles para que ofrezca los elementos de prueba que estime pertinentes y que tengan relación con los hechos que se le atribuyen, y una vez desahogadas las pruebas que fueren admitidas, la Comisión, dentro de los treinta días naturales siguientes someterá el dictamen con proyecto de resolución a la Legislatura o a la Diputación Permanente, en su caso, quien resolverá la remoción. Aprobada la remoción, ésta quedará firme y será notificada al Pleno del Instituto para los efectos legales que correspondan.
+
+En caso de haber transcurrido más de dos años de la duración del cargo del titular removido, la Legislatura o la Diputación Permanente designará un nuevo titular para efectos de concluir el período.
+
 ## TÍTULO CUARTO. PLATAFORMA NACIONAL DE TRANSPARENCIA
 
 ### Capítulo Único. De la Plataforma Nacional de Transparencia
-
-## TÍTULO QUINTO. CULTURA DE TRANSPARENCIA Y APERTURA GUBERNAMENTAL
-
-### Capítulo I. De la Promoción de la Transparencia y el Derecho de Acceso a la Información
 
 ###### Artículo 74.
 
@@ -921,9 +1079,9 @@ El Instituto y los sujetos obligados deberán incorporarse a la Plataforma Nacio
 
 El Instituto promoverá la publicación de la información de Datos Abiertos y Accesibles.
 
-## TÍTULO SEXTO. OBLIGACIONES DE TRANSPARENCIA
+## TÍTULO QUINTO. CULTURA DE TRANSPARENCIA Y APERTURA GUBERNAMENTAL
 
-### Capítulo II. De la Transparencia Proactiva
+### Capítulo I. De la Promoción de la Transparencia y el Derecho de Acceso a la Información
 
 ###### Artículo 77.
 
@@ -969,7 +1127,7 @@ III. Facilitar el ejercicio del derecho de acceso a la información a las person
 
 IV. Procurar la accesibilidad de la información.
 
-### Capítulo III. De la Apertura Gubernamental
+### Capítulo II. De la Transparencia Proactiva
 
 ###### Artículo 80.
 
@@ -979,15 +1137,15 @@ El Instituto emitirá políticas de transparencia proactiva, en atención a los 
 
 La información que publiquen los sujetos obligados, en el marco de la política de transparencia proactiva, se difundirá en los medios y formatos que más convengan al público al que va dirigida.
 
-### Capítulo I. De las Disposiciones Generales
+### Capítulo III. De la Apertura Gubernamental
 
 ###### Artículo 82.
 
 El Instituto coadyuvará con los sujetos obligados y representantes de la sociedad civil en la implementación de mecanismos de colaboración para la promoción e implementación de políticas y mecanismos de apertura gubernamental.
 
-## TÍTULO SÉPTIMO. CLASIFICACIÓN DE LA INFORMACIÓN
+## TÍTULO SEXTO. OBLIGACIONES DE TRANSPARENCIA
 
-### Capítulo II. De las obligaciones de transparencia comunes
+### Capítulo I. De las Disposiciones Generales
 
 ###### Artículo 83.
 
@@ -1031,7 +1189,7 @@ Adicionalmente, podrán utilizar medios alternativos de difusión de la informac
 
 La información publicada por los sujetos obligados, en términos del presente Título, no constituye propaganda gubernamental; por lo que deberán mantener accesible su información en el portal de obligaciones de transparencia, incluso dentro de los procesos electorales, a partir del inicio de las precampañas y hasta la conclusión del proceso electoral, salvo disposición expresa en contrario en la normatividad electoral.
 
-### Capítulo III. De las Obligaciones de Transparencia Específicas de los Sujetos Obligados
+### Capítulo II. De las obligaciones de transparencia comunes
 
 ###### Artículo 91.
 
@@ -1235,7 +1393,7 @@ L. Cualquier otra información que sea de utilidad o se considere relevante, ade
 
 Los sujetos obligados deberán informar al Instituto y verificar que se publiquen en la Plataforma Nacional de Transparencia, cuáles son los rubros que son aplicables a sus portales de internet, con el objeto de que éstos verifiquen y aprueben, de forma fundada y motivada, la relación de fracciones aplicables a cada sujeto obligado.
 
-### Capítulo IV. De las Obligaciones Específicas de las Personas Físicas o Morales que Reciben y Ejercen Recursos Públicos o Ejercen Actos de Autoridad
+### Capítulo III. De las Obligaciones de Transparencia Específicas de los Sujetos Obligados
 
 ###### Artículo 93.
 
@@ -1513,7 +1671,7 @@ XV. El directorio de sus órganos de dirección estatales, municipales y, en su 
 
 XVI. El tabulador de remuneraciones que perciben los integrantes de los órganos a que se refiere la fracción anterior y de los demás funcionarios partidistas, que deberá vincularse con el directorio y estructura orgánica; así como cualquier persona que reciba ingresos por parte del partido político, independientemente de la función que desempeñe dentro o fuera del partido;
 
-XVII. El currículum vitae con fotografía reciente de todos los precandidatos y candidatos a cargos• de elección popular, con el cargo al que se postula, el distrito electoral y la entidad federativa;
+XVII. El currículum vitae con fotografía reciente de todos los precandidatos y candidatos a cargos de elección popular, con el cargo al que se postula, el distrito electoral y la entidad federativa;
 
 XVIII. El currículum vitae de los dirigentes a nivel estatal y municipal;
 
@@ -1627,7 +1785,7 @@ II. Revisar el listado que remitió el sujeto obligado con base en las funciones
 
 III. Determinar el catálogo de información que el sujeto obligado deberá publicar como obligación de transparencia.
 
-### Capítulo V. De la Verificación de las Obligaciones de Transparencia
+### Capítulo IV. De las Obligaciones Específicas de las Personas Físicas o Morales que Reciben y Ejercen Recursos Públicos o Ejercen Actos de Autoridad
 
 ###### Artículo 104.
 
@@ -1647,7 +1805,7 @@ II. Revisar el listado que remitió la persona física o moral en la medida en q
 
 III. Determinar las obligaciones de transparencia que deben cumplir y los plazos para ello.
 
-### Capítulo VI. De la Denuncia por Incumplimiento a las Obligaciones de Transparencia
+### Capítulo V. De la Verificación de las Obligaciones de Transparencia
 
 ###### Artículo 106.
 
@@ -1687,7 +1845,7 @@ Las determinaciones que emita el Instituto deberán establecer los requerimiento
 
 El incumplimiento a los requerimientos formulados, será motivo para aplicar las medidas de apremio, sin perjuicio de las sanciones a que haya lugar.
 
-### Capítulo I. De las disposiciones generales de la clasificación y desclasificación de la información
+### Capítulo VI. De la Denuncia por Incumplimiento a las Obligaciones de Transparencia
 
 ###### Artículo 112.
 
@@ -1777,9 +1935,9 @@ En caso de que el Instituto, considere que subsiste el incumplimiento total o pa
 
 Las resoluciones que emita el Instituto, a que se refiere este Capítulo, son definitivas e inatacables para los sujetos obligados. El particular podrá impugnar la resolución por la vía del juicio de amparo que corresponda, en los términos de la legislación aplicable.
 
-## TÍTULO OCTAVO. PROCEDIMIENTO DE ACCESO A LA INFORMACIÓN PÚBLICA
+## TÍTULO SÉPTIMO. CLASIFICACIÓN DE LA INFORMACIÓN
 
-### Capítulo II. De la Información Reservada
+### Capítulo I. De las disposiciones generales de la clasificación y desclasificación de la información
 
 ###### Artículo 121.
 
@@ -1875,7 +2033,7 @@ La clasificación de información reservada se realizará conforme a un análisi
 
 Los lineamientos generales que emita el Sistema Nacional en materia de clasificación de la información reservada y confidencial, y para la elaboración de versiones públicas, serán de observancia obligatoria para los sujetos obligados.
 
-### Capítulo III. De la Información Confidencial
+### Capítulo II. De la Información Reservada
 
 ###### Artículo 134.
 
@@ -1919,9 +2077,7 @@ I. Se trate de violaciones graves de derechos humanos o delitos de lesa humanida
 
 II. Se trate de información relacionada con actos de corrupción de acuerdo con las leyes aplicables.
 
-### Capítulo I. Del Procedimiento de Acceso a la Información
-
-> <small>[N. DE E. DEBIDO A LO ILEGIBLE DE LA PUBLICACIÓN OFICIAL EN DETERMINADAS PORCIONES NORMATIVAS, EL TEXTO SE OBTUVO DE http://www.congresoqroo.gob.mx/historial/14legislatura/decretos/3anio/2PO/dec398/D1420160427398.pdf]</small>
+### Capítulo III. De la Información Confidencial
 
 ###### Artículo 137.
 
@@ -1961,9 +2117,11 @@ III. Exista una orden judicial, y
 
 IV. En los casos que así lo prevea la Ley General.
 
-## TÍTULO NOVENO. DE LOS PROCEDIMIENTOS DE IMPUGNACIÓN EN MATERIA DE ACCESO A LA INFORMACIÓN PÚBLICA
+## TÍTULO OCTAVO. PROCEDIMIENTO DE ACCESO A LA INFORMACIÓN PÚBLICA
 
-### Capítulo II. De las Cuotas de Acceso
+### Capítulo I. Del Procedimiento de Acceso a la Información
+
+> <small>[N. DE E. DEBIDO A LO ILEGIBLE DE LA PUBLICACIÓN OFICIAL EN DETERMINADAS PORCIONES NORMATIVAS, EL TEXTO SE OBTUVO DE http://www.congresoqroo.gob.mx/historial/14legislatura/decretos/3anio/2PO/dec398/D1420160427398.pdf]</small>
 
 ###### Artículo 142.
 
@@ -2153,7 +2311,7 @@ El procedimiento en materia de derecho de acceso a la información deberá susta
 
 La información solicitada, deberá entregarse tal y como obra en los archivos, expedientes o cualquier otro medio de acopio, sin alteraciones, mutilaciones y deberá, asimismo, mostrarse de manera clara y comprensible.
 
-### Capítulo I. Del Recurso de Revisión ante el Instituto
+### Capítulo II. De las Cuotas de Acceso
 
 ###### Artículo 164.
 
@@ -2183,9 +2341,9 @@ En caso de que dichos sujetos obligados no acuerden ni fijen sus cuotas de acces
 
 Los costos de reproducción y envío correrán a cargo del sujeto obligado, siempre y cuando no dé respuesta a una solicitud de información dentro de los plazos previstos en esta Ley y en caso de que proceda el acceso.
 
-## TÍTULO DÉCIMO. MEDIDAS DE APREMIO Y SANCIONES
+## TÍTULO NOVENO. DE LOS PROCEDIMIENTOS DE IMPUGNACIÓN EN MATERIA DE ACCESO A LA INFORMACIÓN PÚBLICA
 
-### Capítulo II. Del Cumplimiento
+### Capítulo I. Del Recurso de Revisión ante el Instituto
 
 ###### Artículo 168.
 
@@ -2423,7 +2581,7 @@ Las actuaciones y resoluciones del Instituto se notificarán, en el domicilio qu
 
 Las resoluciones de los Recursos de Revisión serán públicas, una vez que hayan causado estado, salvo cuando contengan información clasificada como reservada o confidencial, en cuyo caso se elaborará la versión pública respectiva.
 
-### Capítulo I. De las Medidas de Apremio
+### Capítulo II. Del Cumplimiento
 
 ###### Artículo 189.
 
@@ -2449,7 +2607,9 @@ II. Notificará al superior jerárquico del responsable de dar cumplimiento, par
 
 III. Determinará las medidas de apremio o sanciones, según corresponda, que deberán imponerse o las acciones procedentes que deberán aplicarse, de conformidad con lo señalado en el siguiente Título de la presente Ley.
 
-### Capítulo II. De las Sanciones
+## TÍTULO DÉCIMO. MEDIDAS DE APREMIO Y SANCIONES
+
+### Capítulo I. De las Medidas de Apremio
 
 ###### Artículo 192.
 
@@ -2478,6 +2638,8 @@ Transcurrido el plazo, sin que se haya dado cumplimiento, se determinarán las s
 Las medidas de apremio a que se refiere el presente Capítulo, deberán ser impuestas y ejecutadas por el Instituto o con el apoyo de la autoridad competente, de conformidad con los procedimientos que establezcan las leyes respectivas.
 
 Las multas que fije el Instituto se harán efectivas ante la Secretaría de Finanzas y Planeación del Gobierno del Estado.
+
+### Capítulo II. De las Sanciones
 
 ###### Artículo 195.
 
@@ -2555,9 +2717,11 @@ Una vez analizadas las pruebas y demás elementos de convicción, el Instituto r
 
 Cuando haya causa justificada por acuerdo indelegable del Pleno del Instituto, podrá ampliar por una sola vez y hasta por un período igual el plazo de resolución.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+
 ###### Artículo 202.
 
-El Instituto aplicará de manera supletoria la Ley de Responsabilidades de los Servidores Públicos del Estado de Quintana Roo, para desahogar el procedimiento sancionatorio previsto en el artículo anterior de esta Ley.
+El Instituto aplicará de manera supletoria la ley en materia de responsabilidades administrativas que corresponda en el ámbito local, para desahogar el procedimiento sancionatorio previsto en el artículo anterior de esta Ley.
 
 ###### Artículo 203.
 
@@ -2660,3 +2824,17 @@ LIC. ROBERTO BORGE ANGULO.
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 
 C. EDUARDO ROMÁN QUIAN ALCOCER.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 086 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO; DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE QUINTANA ROO; DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE QUINTANA ROO; DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DE QUINTANA ROO Y DE LA LEY DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo, con la salvedad del artículo transitorio siguiente.
+
+SEGUNDO. Las reformas y adiciones a la Ley Orgánica del Tribunal Electoral de Quintana Roo, entrará en vigor previa su publicación en el Periódico Oficial del Estado de Quintana Roo, el mismo día de la entrada en vigor del Decreto por el que se reforman el párrafo noveno de la fracción II del artículo 49, la fracción XII del artículo 75, la fracción XII del artículo 76 y el inciso c) del artículo 110; y se derogan los párrafos segundo, cuarto y quinto del artículo 110, todos de la Constitución Política del Estado Libre y Soberano de Quintana Roo; y se reforman el párrafo segundo del artículo octavo transitorio, el párrafo primero del artículo décimo transitorio y el artículo décimo segundo transitorio; y se adicionan el párrafo cuarto del artículo octavo transitorio, todos de la declaratoria número: 002 por el que se reforman, derogan y adicionan diversas disposiciones a la Constitución Política del Estado Libre y Soberano de Quintana Roo, en materia de combate a la corrupción, publicado el 03 de julio de 2017 en el Periódico Oficial del Estado de Quintana Roo, número 72 extraordinario, Tomo II, Novena Época.
+
+TERCERO. A la entrada en vigor del presente decreto, quien se encuentre ejerciendo las funciones de contraloría interna del Poder Legislativo asumirá las funciones del órgano interno que se crea, hasta en tanto se realiza la designación del Titular del Órgano Interno de Control del Poder Legislativo del Estado.
+
+CUARTO. Los titulares de los Órganos Internos de Control de los órganos autónomos reconocidos por la Constitución Política del Estado Libre y Soberano de Quintana Roo que resulten designados en virtud del presente Decreto, iniciarán sus funciones de conformidad con lo previsto en el presente Decreto hasta el primero de enero del año dos mil dieciocho.
