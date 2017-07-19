@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-auditoria-y-fiscalizacion-del-estado-de-morelos-107728"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-13"
-last_updated: "2017-03-01"
+last_updated: "2017-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "MOR"
 ---
 # LEY DE AUDITORIA Y FISCALIZACION DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA VIGÉSIMA SEGUNDA DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE MORELOS, PUBLICADA EN EL P.O. DE 19 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE NOVIEMBRE DE 2017 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE AUDITORÍA Y FISCALIZACIÓN DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de mayo de 2015.
 
@@ -33,7 +37,9 @@ GRACO LUIS RAMÍREZ GARRIDO ABREU, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y 
 
 Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo siguiente:
 
-LA QUINCUAGÉSIMA SEGUNDA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LA FACULTAD QUE LE OTORGA LA FRACCIÓN II, DEL ARTÍCULO 40, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, Y AL TENOR DE LOS SIGUIENTES:…
+LA QUINCUAGÉSIMA SEGUNDA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LA FACULTAD QUE LE OTORGA LA FRACCIÓN II, DEL ARTÍCULO 40, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, Y AL TENOR DE LOS SIGUIENTES:
+
+[...]
 
 Por lo anteriormente expuesto, esta LII Legislatura ha tenido a bien expedir la siguiente:
 
@@ -1610,3 +1616,61 @@ Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
 
 Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 19 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL CIENTO NOVENTA Y TRES POR EL QUE SE EXPIDEN LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE MORELOS; LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS; LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE MORELOS; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS; DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS; Y DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS".]
+
+PRIMERA. Una vez aprobadas las presentes leyes y reformas de Ley, expídase el Decreto respectivo y remítase al Titular del Poder Ejecutivo, para su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Estado de Morelos, para los efectos señalados en los artículos 44, 47 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor a partir del día diecinueve de julio de dos mil diecisiete, previa publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Estado de Morelos.
+
+TERCERA. Los procedimientos de responsabilidad administrativa, que hayan iniciado su trámite de conformidad con la Ley Estatal de Responsabilidades de los Servidores Públicos continuarán su trámite hasta su total resolución conforme a dicha normatividad.
+
+CUARTA. El Titular del Poder Ejecutivo, dentro de los noventa días hábiles siguientes a la entrada en vigor de la Ley de Responsabilidades Administrativas para el Estado de Morelos, deberá expedir el Reglamento respectivo; mientras tanto, continuará rigiendo el que se encuentra vigente en lo que no se oponga a lo previsto en este ordenamiento.
+
+QUINTA. En el caso de las Declaraciones Patrimoniales y de Intereses que tiene obligación de recibir la Entidad Superior de Auditoría y Fiscalización, podrá hacerlo de forma escrita hasta las que tengan que entregarse en el mes de mayo de dos mil dieciocho, las subsecuentes deberán ser entregadas de manera digital como menciona este ordenamiento.
+
+El Gobernador Constitucional del Estado, instruirá a la Secretaría de Hacienda del Poder Ejecutivo Estatal para que efectúe las transferencias y adecuaciones presupuestales necesarias para el cumplimiento de la Ley de Responsabilidades Administrativas para el Estado de Morelos y que se considere una partida específica en el Presupuesto de Egresos del Gobierno del Estado para el siguiente Ejercicio Fiscal.
+
+SEXTA. Notifíquese a la Secretaría de la Contraloría del Poder Ejecutivo, a la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos, al Consejo de la Judicatura Estatal, a los treinta y tres ayuntamientos en el Estado y sus respectivas Contralorías municipales, a los organismos a los que la Constitución local les otorga y reconoce autonomía y sus respectivos Órganos de control interno, para efecto de que tomen las medidas necesarias respecto del inicio de la vigencia de la Ley de Responsabilidades Administrativas para el Estado de Morelos, como son, de manera enunciativa mas no limitativa, la expedición del código de ética para sus funcionarios.
+
+SÉPTIMA. La Declaración de Modificación Patrimonial correspondiente al ejercicio 2016, presentada en enero del presente año, será válida por esta única ocasión en lo que respecta a dicha obligación, debiéndose presentar las que corresponden a los ejercicios subsecuentes en el mes de mayo de cada año.
+
+OCTAVA. A la entrada en vigor del presente Decreto, quedan Derogados los Títulos Cuarto y Quinto de la Ley Estatal de Responsabilidades de los Servidores Públicos, publicada en el Periódico Oficial "Tierra y Libertad", número 4562 de fecha veinticuatro de octubre de dos mil siete, con la salvedad de que los asuntos que conozca el Consejo de la Judicatura Estatal y su órgano de control interno, los cuales se continuarán rigiendo de forma supletoria con las disposiciones previstas en el citado Título Cuarto, hasta en tanto su reglamentación orgánica se adecue a las reformas en cuestión.
+
+NOVENA. El Tribunal de Justicia Administrativa dentro de los noventa días siguientes a la entrada en vigor de la Ley de Justicia Administrativa del Estado de Morelos, deberá expedir el reglamento interior, mientras tanto continuará rigiendo el reglamento vigente en lo que no se oponga a lo previsto en este ordenamiento.
+
+DÉCIMA. El Tribunal de Justicia Administrativa dentro de los ciento veinte días siguientes a la entrada en vigor de la presente Ley, deberá expedir los Manuales de Organización y Procedimientos del Tribunal de Justicia Administrativa.
+
+DÉCIMA PRIMERA. El Poder Ejecutivo, el Tribunal de Justicia Administrativa, así como las Universidades Públicas en el Estado, en ejercicio del Servicio Social al que están obligadas, deberán realizar las acciones que correspondan, a efecto de que el Expediente Electrónico, inicie su operación a más tardar el treinta y uno de diciembre de dos mil veinte. El Pleno del Tribunal de Justicia Administrativa podrá emitir los acuerdos necesarios para la implementación progresiva del Expediente Electrónico.
+
+DÉCIMA SEGUNDA. El Gobernador Constitucional del Estado, instruirá a la Secretaría de Hacienda del Poder Ejecutivo Estatal para que efectúe las transferencias y adecuaciones presupuestales necesarias para el cumplimiento del presente Decreto por el que se expide la Ley de Justicia Administrativa del Estado de Morelos y que se considere una partida específica en el Presupuesto de Egresos del Gobierno del Estado para el siguiente Ejercicio Fiscal.
+
+DÉCIMA TERCERA. Notifíquese al Poder Ejecutivo y al Tribunal de Justicia Administrativa (sic) las Universidades Públicas del Estado de Morelos para efecto de ejecutar y cumplir todos los actos jurídicos, administrativos y presupuestales que correspondan para el inicio en operación del Expediente Electrónico.
+
+DÉCIMA CUARTA. Notifíquese a los treinta y tres ayuntamientos en el Estado, a las dependencias del Poder Ejecutivo del Estado, o de sus organismos descentralizados para efecto de que tomen las medidas necesarias respecto del el (sic) inicio en operación del Expediente Electrónico en el Tribunal de Justicia Administrativa del Estado de Morelos.
+
+DÉCIMA QUINTA. El Pleno del Tribunal de Justicia Administrativa, dentro del ámbito de su competencia, efectuará la difusión de la implementación del Expediente Electrónico y los Formatos de demanda que faciliten en la vía electrónica a los gobernados el acceso a la Justicia administrativa, en especial, en aquellos asuntos de poca cuantía y de gran incidencia de las personas que se encuentren (sic) el Estado de Morelos.
+
+DÉCIMA SEXTA. El Pleno del Tribunal de Justicia Administrativa, dentro del ámbito de sus respectivas competencias, efectuará las acciones necesarias y suscribirá los instrumentos jurídicos necesarios con el Tribunal Federal de Justicia Fiscal y Administrativa, el Consejo de la Judicatura Federal y o Tribunales similares de otras entidades federativas, para lograr la implementación del Expediente Electrónico.
+
+DÉCIMASÉPTIMA. En congruencia con la Disposición Transitoria Octava del Decreto Mil Ochocientos Nueve publicado en el Periódico Oficial "Tierra y Libertad" número 5487 de fecha siete de abril del presente año, así como con este Decreto que reforma, adiciona y deroga diversas disposiciones de la Ley Orgánica de la Fiscalía General del Estado de Morelos, se dispone que el Titular del Poder Ejecutivo realice las adecuaciones administrativas que resulten necesarias.
+
+DÉCIMA OCTAVA. Dentro del plazo de noventa días hábiles, contados a partir de que surta efectos el presente Decreto que reforma, adiciona y deroga diversas disposiciones de la Ley Orgánica de la Fiscalía General del Estado de Morelos, realícense las modificaciones reglamentarias a que haya lugar. Las referencias hechas a las actuales Fiscalías específicas se entenderán hechas a las Vicefiscalías.
+
+DÉCIMA NOVENA. En términos del artículo 3, segundo párrafo, de la Ley Orgánica de la Fiscalía General del Estado de Morelos, son de la competencia exclusiva de la Fiscalía Anticorrupción los delitos contenidos en el Título Vigésimo del Código Penal para el Estado de Morelos y cualquiera otro en el que participen los servidores públicos en el ejercicio de sus funciones oficiales. Las carpetas de investigación relacionadas con delitos de corrupción, iniciadas con anterioridad ante la Fiscalía General, continuarán a su cargo hasta su conclusión.
+
+VIGÉSIMA. Las reformas contenidas en las fracciones I del artículo 24 y la fracción III del artículo 41 de la Ley Orgánica Municipal del Estado de Morelos, relativas a la ratificación del nombramiento del Contralor Municipal, serán aplicables cuando ocurra una nueva designación con posterioridad a la entrada en vigor de dicha reforma, en respeto irrestricto al principio constitucional de irretroactividad.
+
+VIGÉSIMA PRIMERA. El Congreso del Estado de Morelos en plazo no mayor a 180 días hábiles a partir de la entrada en vigor del presente Decreto, deberá expedir la Ley en materia de Responsabilidad Política del estado de Morelos.
+
+VIGÉSIMA SEGUNDA. Se abroga la Ley de Auditoría y Fiscalización del Estado de Morelos, publicada en el Periódico Oficial "Tierra y Libertad" Órgano de Difusión del Gobierno del Estado de Morelos el 13 de mayo de 2015, conforme a lo dispuesto en los transitorios subsecuentes y se derogan todas las disposiciones legales que contravengan o se opongan a la Ley de Fiscalización y Rendición de Cuentas del Estado de Morelos aprobada en el presente Decreto.
+
+VIGÉSIMA TERCERA. Los procedimientos administrativos iniciados de conformidad con la Ley de Auditoría y Fiscalización del Estado de Morelos, publicada en el Periódico Oficial "Tierra y Libertad" Órgano de Difusión del Gobierno del Estado de Morelos el 13 de mayo de 2015, que se encuentren en trámite o pendientes de resolución a la entrada en vigor de la Ley de Fiscalización y Rendición de Cuentas del Estado de Morelos, se resolverán hasta su conclusión definitiva en términos de dicha Ley.
+
+VIGÉSIMA CUARTA. La ESAF deberá actualizar y, en su caso, publicar la normatividad que conforme a sus atribuciones debe expedir, en un plazo no mayor de ciento ochenta días hábiles contados a partir de que la Ley de Fiscalización y Rendición de Cuentas del Estado de Morelos cobre vigencia.
+
+VIGÉSIMA QUINTA. LA ESAF deberá decretar de oficio la transferencia documental al archivo histórico de los asuntos que se encuentran en el supuesto establecido en el artículo 69 de la Ley de Fiscalización Superior del Estado de Morelos y 95 de la Ley de Auditoría y Fiscalización del Estado de Morelos, de conformidad con lo dispuesto en el artículo 35 de la Ley Estatal de Documentación y Archivos de Morelos, debiendo informar respecto de dicho trámite al Congreso del Estado de Morelos.
+
+VIGÉSIMA SEXTA. El Auditor General, el titular del Consejo de Vigilancia, los Auditores Especiales y los Directores Generales de ESAF en funciones, permanecerán en su encargo hasta concluir el periodo por el que fueron designados, pudiendo participar como candidatos en la convocatoria para la designación de Auditor General previsto en la Ley de Fiscalización y Rendición de Cuentas del Estado de Morelos, y los Auditores Especiales y Directores Generales podrán ser nombrados por un periodo más previa evaluación que haga el Órgano Político del Congreso del Estado.
