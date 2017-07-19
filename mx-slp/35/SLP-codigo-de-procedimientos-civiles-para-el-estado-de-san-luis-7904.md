@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "2017-07-05"
+last_updated: "2017-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2017.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -247,17 +247,17 @@ El acuerdo será reservado.
 
 ART. 58.- Los jueces y magistrados a quienes corresponda, recibirán por sí mismos las declaraciones; y presidirán todos los actos de prueba, bajo su responsabilidad.
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 1990)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
-ART. 59.- Los Jueces y Magistrados tienen el deber de mantener el buen orden y exigir que se les guarden el respeto y consideraciones debidos, corrigiendo en el acto las faltas que se cometieron con multas que no podrán pasar de cinco días de salario mínimo vigente en la región de los Juzgados Menores; de doce días de salario mínimo vigente en la región de los de Primera Instancia y de veinte días de Salario mínimo vigente en la región, en el Supremo Tribunal. Pueden también emplear el uso de la fuerza pública, si los hechos llegaren a constituir delitos, se procederá criminalmente contra los que los cometieren, con arreglo a lo dispuesto en el Código Penal; consignando al culpable a la autoridad competente, con testimonio de lo conducente.
+ART. 59.- Los Jueces y Magistrados tienen el deber de mantener el buen orden y exigir que se les guarden el respeto y consideraciones debidos, corrigiendo en el acto las faltas que se cometieron con multas que no podrán pasar de cinco días del valor de la unidad de medida y actualización vigente de los Juzgados Menores; de doce días del valor de la unidad de medida y actualización vigente en la región de los de Primera Instancia; y de veinte días del valor de la unidad de medida y actualización vigente en la región del Supremo Tribunal. Pueden también emplear el uso de la fuerza pública, si los hechos llegaren a constituir delitos, se procederá criminalmente contra los que los cometieren, con arreglo a lo dispuesto en el Código Penal; consignando al culpable a la autoridad competente, con testimonio de lo conducente.
 
 ART. 60.- Se entenderá corrección disciplinaria:
 
 I.- El apercibimiento o amonestación;
 
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 1990)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
 
-II.- La multa que no exceda veinte días de salario mínimo vigente en la región, que se duplicará en caso de reincidencia;
+II.- La multa que no exceda veinte días del valor de la unidad de medida y actualización, que se duplicará en caso de reincidencia.
 
 III.- La suspensión que no exceda de un mes.
 
@@ -289,9 +289,9 @@ ART. 65.- Los secretarios cuidarán de que los expedientes sean exactamente foli
 
 ART. 65 BIS.- El escrito por el cual se inicie un procedimiento deberá ser presentado en la Oficialía de Partes común a los Juzgados Civiles y de lo familiar, para ser turnado al Juzgado que correspondan; los interesados pueden presentar una copia simple del escrito citado, a fin de que dicha Oficialía de Partes se lo devuelva con la anotación de la fecha y hora de presentación, sellada y firmada por el empleado que la reciba. Los escritos subsecuentes se presentarán ante el Juez que conozca del procedimiento, durante las horas de labores del Juzgado correspondiente, pudiendo los interesados exhibir una copia de sus escritos, a fin de que se les devuelva con la anotación de la fecha y hora de presentación, selladas y firmadas por el empleado que las reciba en el Tribunal, los escritos subsecuentes que se presenten fuera de las horas del Juzgado pero dentro de las horas hábiles, deberán presentarse ante la Oficialía de Partes.
 
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
-ART. 65 BIS BIS (SIC).- En el caso de comprobarse la realización de cualquier acción tendiente a burlar el turno establecido en la Oficialía, una vez presentado un escrito por el cual se inicie un procedimiento, ya sea exhibiendo varios de éstos para elegir el Juzgado que convenga, o desistiendo de la instancia más de una vez, sin acreditar la necesidad de hacerlo o cualquier acción similar, la parte promovente y sus abogados patronos se harán acreedores, solidariamente, a una multa que no será menor de cinco ni mayor de diez días de salario tomando como base el mínimo vigente en la región. La multa será impuesta por el Presidente del Tribunal.
+ART. 65 TER.- En el caso de comprobarse la realización de cualquier acción tendiente a burlar el turno establecido en la Oficialía, una vez presentado un escrito por el cual se inicie un procedimiento, ya sea exhibiendo varios de éstos para elegir el Juzgado que convenga, o desistiendo de la instancia más de una vez, sin acreditar la necesidad de hacerlo o cualquier acción similar, la parte promovente y sus abogados patronos se harán acreedores, solidariamente, a una multa que no será menor de cinco ni mayor de diez días del valor de la unidad de medida y actualización. La multa será impuesta por el Presidente del Tribunal.
 
 ART. 66.- Los documentos que se hubieren presentado en juicio podrán devolverse a las partes si lo piden, siempre que a juicio del juez no haya inconveniente para ello; pero en autos quedará razón pormenorizada o copia certificada de los mismos documentos.
 
@@ -315,9 +315,9 @@ Los incidentes ajenos al negocio principal deberán ser repelidos de oficio por 
 
 ART. 71.- Los jueces, para hacer cumplir sus determinaciones, pueden emplear cualquiera de los siguientes medios de apremio que juzguen eficaz:
 
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 1990)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
 
-I.- La multa desde tres hasta veinte días de salario mínimo vigente en la región, que se duplicará en caso de reincidencia;
+I.- La multa desde tres hasta veinte días del valor de la unidad de medida y actualización vigente, que se duplicará en caso de reincidencia.
 
 II.- El auxilio de la fuerza pública;
 
@@ -337,9 +337,9 @@ ART. 74.- La nulidad de una actuación debe reclamarse en la actuación subsecue
 
 ART. 75.- Las nulidades a que se refiere el artículo anterior se promoverán ante el mismo juez o tribunal que conozca del negocio. Si la parte contraria estuviere conforme, se declarará desde luego la nulidad de lo actuado desde la notificación hecha indebidamente. Si no estuviere conforme, se convocará a una audiencia que tendrá verificativo a más tardar dentro de cinco días, en la que los interesados podrán presentar las pruebas que tuvieren. En la misma audiencia se resolverá lo que procediere en justicia, sin recurso alguno, salvo que se trate de nulidades por falta de emplazamiento, de citación para absolver posiciones o para reconocimiento de documentos, que serán apelables.
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 1990)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
-En el caso de que proceda la nulidad se impondrá al responsable una multa de uno a tres días de salario mínimo vigente en la región y se le condenará al pago de las costas y gastos.
+En el caso de que proceda la nulidad se impondrá al responsable una multa de uno a tres días de unidad (sic) del valor de la unidad y actualización vigente y se le condenará al pago de las costas y gastos.
 
 > <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2012)</small>
 
@@ -449,9 +449,9 @@ ART. 104.- Pueden los tribunales acordar que los exhortos y despachos que manden
 
 ### CAPITULO V. De las Notificaciones
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 1990)</small>
+REFORMADO, P.O. 19 DE JULIO DE 2017)
 
-ART. 105.- Las notificaciones, citaciones y entrega de expedientes, se efectuarán a más tardar el día siguiente al en que se dicten las resoluciones que las prevengan, siempre que en éstas el Juez o Tribunal no dispusieren otra cosa. A los infractores de esta disposición se impondrá de plano una multa que no exceda de tres días de salario mínimo vigente en la región.
+ART. 105.- Las notificaciones, citaciones y entrega de expedientes, se efectuarán a más tardar el día siguiente al en que se dicten las resoluciones que las prevengan, siempre que en éstas el Juez o Tribunal no dispusieren otra cosa. A los infractores de esta disposición se impondrá de plano una multa que no exceda de tres días del valor de la unidad de medida y actualización vigente.
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -515,9 +515,9 @@ ART. 113.- Si después que el notificador se hubiere cerciorado de que la person
 
 ART. 114.- Cuando no se conociere el lugar en que la persona que debe notificarse tenga el principal asiento de sus negocios, y en la habitación no se pudiere, conforme al artículo anterior, llevar a cabo el emplazamiento, o el llamado a juicio de, terceros; tutores; curadores, apoderados; mandatarios; o peritos, en un procedimiento judicial, se podrá hacer la notificación, en el lugar en donde se encuentren.
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 1990)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
-En este caso, las notificaciones se firmarán por el notificador y por la persona a quien se hiciere, si ésta no supiese firmar, lo hará a su ruego, un testigo. Si no quisiere firmar o presentar testigo que lo haga por ella, firmarán dos testigos requeridos al efecto por el notificador. Estos testigos no podrán negarse a hacerlo, bajo la multa de uno a tres días de salario mínimo vigente en la región.
+En este caso, las notificaciones se firmarán por el notificador y por la persona a quien se hiciere, si ésta no supiese firmar, lo hará a su ruego, un testigo. Si no quisiere firmar o presentar testigo que lo haga por ella, firmarán dos testigos requeridos al efecto por el notificador. Estos testigos no podrán negarse a hacerlo, bajo la multa de uno a tres días del valor de la unidad de medida y actualización vigente.
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -569,9 +569,9 @@ Por ningún motivo se incluirán en la lista los asuntos o resoluciones de cará
 
 La sola publicación de la lista de acuerdos en los estrados del juzgado o tribunal, y en la página de internet del Poder Judicial, se tendrá por hecha y surtirá sus efectos en la misma fecha de publicación.
 
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
-ART. 122.- En las salas del Tribunal y en los juzgados, el actuario o notificador, o quien haga las veces, harán constar en los autos respectivos la fecha de la notificación por listas de acuerdos en que se haya hecho la publicación a que se refiere el artículo anterior, bajo la pena de cinco días de salario mínimo vigente en la región por la primera falta, de diez días de salario mínimo vigente en la zona por la segunda y de suspensión de empleo, hasta por tres meses, por la tercera, sin perjuicio de indemnizar debidamente a la persona que resulte perjudicada por la omisión. De la misma forma habrá de procederse en contra de aquél funcionario que omita publicar la lista de acuerdos dentro del horario precisado en el artículo 121 de este Código.
+ART. 122.- En las salas del Tribunal y en los juzgados, el actuario o notificador, o quien haga las veces, harán constar en los autos respectivos la fecha de la notificación por listas de acuerdos en que se haya hecho la publicación a que se refiere el artículo anterior, bajo la pena de cinco días del valor de la unidad de medida y actualización vigente por la primera falta; de diez días del valor de la unidad de medida y actualización vigente por la segunda; y de suspensión de empleo, hasta por tres meses, por la tercera, sin perjuicio de indemnizar debidamente a la persona que resulte perjudicada por la omisión. De la misma forma habrá de procederse en contra de aquél funcionario que omita publicar la lista de acuerdos dentro del horario precisado en el artículo 121 de este Código.
 
 ### CAPITULO VI. De los Términos Judiciales
 
@@ -781,9 +781,9 @@ En ambos casos, recibidos los autos en el tribunal que deba dirimir la competenc
 
 Decidida la competencia del tribunal mandará sin retardo los autos al juez declarado competente con testimonio de la sentencia, de la cual remitirá un tanto al estimado incompetente, si lo hubiere. En contra de la resolución dictada en estos casos no procederá ningún recurso.
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 1990)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
-ART. 167.- Cuando no proceda la inhibitoria debe pagar las costas el que la promovió y una indemnización hasta de quince días de salario mínimo vigente en la región, que, según la importancia del negocio, le impondrá el superior en favor del coligigante (sic).
+ART. 167.- Cuando no proceda la inhibitoria debe pagar las costas el que la promovió y una indemnización hasta de quince días del valor de la unidad de medida y actualización vigente, que, según la importancia del negocio, le impondrá el superior en favor del colitigante.
 
 ART. 168.- La no suspensión de un procedimiento en los casos a que se refiere el artículo 166, producirá la nulidad de lo actuado; y el tribunal será responsable de los daños y perjuicios originados a las partes e incurrirá además en la pena que señala la Ley. No obstante lo anterior, los jueces competidores podrán dictar bajo su responsabilidad las providencias que tuvieren el carácter de urgentes o precautorias, cuya subsistencia quedará pendiente de la resolución que dicte el superior sobre la cuestión jurisdiccional.
 
@@ -823,9 +823,9 @@ XIV.- Si él, su cónyuge o alguno de sus expresados parientes sigue algún proc
 
 XV.- Si es tutor o curador de alguno de los interesados, o no han pasado tres años de haberlo sido.
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 1990)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
-ART. 170.- Cuando el Juez o Magistrado se excusen sin causa legítima, cualquiera de las partes puede acudir en queja al Presidente del Tribunal, quien encontrando injustificada la abstención podrá imponer una corrección disciplinaria y ordenar que el Juez siga conociendo. El Juez que reciba el negocio procedente del presunto Juez Abstenso sin causa legítima, podrá ocurrir en la inconformidad; y si demuestra que la excusa no tuvo causa legítima, el Presidente del Tribunal decretará, en favor del Juez que deba seguir conociendo del negocio, a cargo del que injustificadamente se excusó, un sobresueldo de uno a diez días de salario mínimo vigente en la zona.
+ART. 170.- Cuando el Juez o Magistrado se excusen sin causa legítima, cualquiera de las partes puede acudir en queja al Presidente del Tribunal, quien encontrando injustificada la abstención podrá imponer una corrección disciplinaria y ordenar que el Juez siga conociendo. El Juez que reciba el negocio procedente del presunto Juez Abstenso sin causa legítima, podrá ocurrir en la inconformidad; y si demuestra que la excusa no tuvo causa legítima, el Presidente del Tribunal decretará, en favor del Juez que deba seguir conociendo del negocio, a cargo del que injustificadamente se excusó, un sobresueldo de uno a diez días del valor de la unidad de medida y actualización vigente.
 
 ### CAPITULO II. De la Recusación
 
@@ -889,9 +889,9 @@ En los casos a que se refiere este artículo, se remitirá testimonio de la reso
 
 En el Tribunal, queda el Magistrado recusado separado del conocimiento del negocio, durante la tramitación señalada en este artículo, debiendo abstenerse de concurrir a la audiencia y a las deliberaciones que se ofrezcan. Para completar la Sala, se llamará al Magistrado que corresponda conforme a la ley; pero si se declara improcedente la recusación volverá aquél al conocimiento del negocio.
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 1990)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
-ART. 187.- Si se declarare improceedente (sic) o no probada la causa de la recusación, se impondrá al recusante una multa de dos a cinco días de salario mínimo vigente en la región, si el recusado fuere un Juez Menor o Alcalde; de cinco a diez días de salario mínimo vigente en la región, si fuere un Juez de Primera Instancia y de diez a veinte días de salario mínimo en la región, si fuere Magistrado.
+ART. 187.- Si se declarare improcedente o no probada la causa de la recusación, se impondrá al recusante una multa de dos a cinco días del valor de la unidad de medida y actualización vigente, si el recusado fuere un juez Menor o Alcalde; de cinco a diez días del valor de la unidad de medida y actualización vigente, si fuere un Juez de Primera Instancia; y de diez a veinte días del valor de la unidad de medida y actualización vigente, si fuere Magistrado.
 
 ART. 188.- Los magistrados y jueces que conozcan de una recusación son irrecusables para sólo este efecto.
 
@@ -1089,9 +1089,9 @@ ART. 244.- Si el actor no cumple con lo que se dispone en el artículo precedent
 
 ART. 245.- Si el que ha solicitado la providencia no entablare la demanda dentro del término fijado en este capítulo; si la providencia fuere revocada, o si entablada la demanda fuere absuelto el reo, pagará por vía de indemnización a su contrario:
 
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 1990)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
 
-I.- Una cantidad que no baje de diez ni exceda de cuarenta días de salario mínimo vigente en la región, a juicio del Juez, cuando se trate de providencia de arraigo;
+I.- Una cantidad que no baje de diez ni exceda de cuarenta días del valor de la unidad de medida y actualización, a juicio del Juez, cuando se trate de providencia de arraigo.
 
 II.- El veinte por ciento del valor de los bienes secuestrados en los demás casos.
 
@@ -1319,13 +1319,13 @@ III.- Que se designe, en caso de ser prueba instrumental, los archivos públicos
 
 El juez, al calificar la admisibilidad de las pruebas, resolverá sobre el término extraordinario y determinará el monto de la cantidad que el promovente deberá depositar para asegurar el pago de la indemnización en caso de no rendirse la prueba. Sin este depósito no surtirá efectos el término extraordinario concedido.
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 1990)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
-ART. 294.- El litigante a quien se hubiere concedido la dilación extraordinaria y no rindiere las pruebas que hubiere propuesto, sin justificar el que tuvo para ello impedimento bastante a juicio del Juez, será condenado, al concluir el período probatorio, a pagar a su contraparte una indemnización de diez a treinta días de salario mínimo vigente en la región.
+ART. 294.- El litigante a quien se hubiere concedido la dilación extraordinaria y no rindiere las pruebas que hubiere propuesto, sin justificar el que tuvo para ello impedimento bastante a juicio del Juez, será condenado, al concluir el período probatorio, a pagar a su contraparte una indemnización de diez a treinta días del valor de la unidad de medida y actualización vigente.
 
-> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1990)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
-ART. 294 BIS.- Al litigante que ofreciere pruebas que se pueda apreciar que el propósito es el de retrasar el juicio, se le impondrá una multa que no baje de diez y exceda de cuarenta días de salario mínimo.
+ART. 294 BIS.- Al litigante que ofreciere pruebas que se pueda apreciar que el propósito es el de retrasar el juicio, se le impondrá una multa que no baje de diez ni exceda de cuarenta días del valor de la unidad de medida y actualización vigente.
 
 ART. 295.- El término extraordinario de prueba será:
 
@@ -1815,9 +1815,9 @@ ART. 410.- Hay cosa juzgada cuando la sentencia causa ejecutoria.
 
 Causan ejecutoria por ministerio de Ley:
 
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 1990)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
 
-I.- Las sentencias pronunciadas en juicio cuyo interés no pase de diez días de salario mínimo vigente en la región;
+I.- Las sentencias pronunciadas en juicio cuyo interés no pase de diez días del valor de la unidad de medida y actualización vigente;
 
 II.- Las sentencias de segunda instancia;
 
@@ -1847,9 +1847,9 @@ ART. 413.- El auto en que se declara que una sentencia ha causado o no ejecutori
 
 ART. 414.- Se tramitarán como juicios extraordinarios:
 
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 1990)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
 
-I.- Aquellos cuyo interés no exceda de diez días de salario mínimo vigente en la región;
+I.- Aquellos cuyo interés no exceda de diez días del valor de la unidad de medida y actualización vigente;
 
 II.- Los que versen sobre el pago o aseguramiento de alimentos;
 
@@ -2261,15 +2261,23 @@ ART. 481.9.- El demandado tendrá siempre el derecho de constituirse en deposita
 
 Para el caso de que la diligencia de emplazamiento no se entendiere con el deudor, se le dejará en el acto cédula con efectos de notificación de requerimiento personal, para que dentro de los tres días siguientes comparezca al Juzgado a manifestar si acepta o no la responsabilidad de depositario; de no aceptarlo o no acudir a realizar dicha manifestación, el juez nombrará, a proposición y responsabilidad de la parte actora, a quien deba desempeñar tal encargo.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
 
-ART. 481.10.- Las partes ofrecerán sus pruebas para acreditar los hechos de sus acciones o de sus excepciones, exhibiendo los documenntos (sic) que tengan en su poder o la copia sellada en que se solicite la expedición de los documentos que no tuvieran, según lo previsto en los artículos 91 y 92 de este ordenamiento.
+ART. 481.10.- Las partes ofrecerán sus pruebas para acreditar los hechos de sus acciones o de sus excepciones, exhibiendo los documentos que tengan en su poder o la copia sellada en que se solicite la expedición de los documentos que no tuvieran, según lo previsto en los artículos 91 y 92 de este ordenamiento.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1997)</small>
 
 Las pruebas admitidas deberán ser preparadas por las partes y, en consecuencia, en la audiencia deberán presentar a sus testigos, peritos y demás pruebas que les hayan sido admitidas, y sólo en caso de que existan periciales contradictorias de ambas partes, el Juez en auxilio de las mismas nombrará un perito tercero en discordia. Las pruebas, salvo la de perito tercero en discordia se desahogarán en la audiencia respectiva, conforme lo establece el Artículo 481.4
 
-No obstante lo anterior, si las partes al ofrecer sus pruebas, bajo protesta de decir verdad, manifiestan no poder presentar a los testigos, ni obtener los documentos que no tengan a su disposición, el juez mandará citar a dichos testigos, con el apercibimiento que de no comparecer a declarar, sin justa causa que se les impida, les impondrá una multa de hasta cien días de salario mínimo general vigente en el Estado, o arresto hasta de treinta y seis horas, y dejará de recibir tales testimoniales.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
-De igual manera auxiliará al oferente, expidiendo los oficios a las autoridades y terceros que tengan en su poder documentos, apercibiendo a las primeras con la imposición de una sanción pecuniaria en favor de la parte perjudicada, por el equivalente a sesenta días de salario mínimo general vigente en el Estado, que se hará efectiva por orden del propio Juez; y a los segundos con la imposición de un arresto hasta de treinta y seis horas, en la inteligencia de que éstos terceros podrán manifestarle al Juez, bajo protesta de decir verdad, que no tienen en su poder los documentos que se les requieren.
+No obstante lo anterior, si las partes al ofrecer sus pruebas, bajo protesta de decir verdad, manifiestan no poder presentar a los testigos, ni obtener los documentos que no tengan a su disposición, el juez mandará citar a dichos testigos, con el apercibimiento que de no comparecer a declarar, sin justa causa que se les impida, les impondrá una multa de hasta cien días del valor de la unidad de medida y actualización, o arresto hasta de treinta y seis horas, y dejará de recibir tales testimoniales.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+
+De igual manera auxiliará al oferente, expidiendo los oficios a las autoridades y terceros que tengan en su poder documentos, apercibiendo a las primeras con la imposición de una sanción pecuniaria en favor de la parte perjudicada, por el equivalente a sesenta días del valor de la unidad de medida y actualización, que se hará efectiva por orden del propio Juez; y a los segundos con la imposición de un arresto hasta de treinta y seis horas, en la inteligencia de que éstos terceros podrán manifestarle al Juez, bajo protesta de decir verdad, que no tienen en su poder los documentos que se les requieren.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1997)</small>
 
 Si el demandado en la audiencia tiene por consentidas las pretensiones del actor, el Juez dictará sentencia y en ella le concederá un término de gracia de treinta días para desocupar el inmueble y lo eximirá del pago de gastos y costas que se hubieren originado.
 
@@ -2763,6 +2771,8 @@ Si en el curso del juicio se hace constar que los bienes son inferiores a los cr
 
 ART. 602.- Al cumplir el síndico lo que se dispone en el artículo 571, presentará también dictamen, por separado, respecto del juicio que se hubiere formado de las causas que motivaron la insolvencia del deudor y concluirá pidiendo, si hubiere motivo para presumirla culpable o fraudulenta, que se consignen los hechos al Ministerio Público para la averiguación correspondiente. La falta de dictamen no impedirá que el juez en cualquier estado del concurso, ya sea de oficio o a solicitud de parte interesada, haga la consignación.
 
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], P.O. 19 DE JULIO DE 2017)</small>
+
 #### Sección I. Disposiciones Generales
 
 ART. 603.- Inmediatamente que el juez tenga conocimiento de la muerte del autor de una herencia, sin perjuicio de lo dispuesto en el Código Civil sobre administración del cónyuge supérstite, y mientras se presentan los interesados, procederá con intervención del Ministerio Público a asegurar los bienes:
@@ -2941,7 +2951,7 @@ Si se impugnare la validez del testamento o la capacidad legal de algún hereder
 
 ART. 639.- En la junta prevenida por el artículo 634 podrán los herederos nombrar interventor conforme a la facultad que les concede el artículo 1564 del Código Civil y se nombrará precisamente en los casos previstos por el artículo 1567 del mismo Código.
 
-### CAPITULO VI. De las Sucesiones
+### CAPÍTULO VI. De las Sucesiones
 
 #### Sección III. De los Intestados
 
@@ -3415,13 +3425,13 @@ ART. 761.- Si el testamento fuere ológrafo, luego que lo reciba el encargado de
 
 ART. 762.- Ante el tribunal competente se procederá, con respecto al testamento público cerrado, al privado o al ológrafo, como está dispuesto para esas clases de testamentos otorgados en el país.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE JUNIO DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JULIO DE 2017)</small>
 
-#### Sección XVI. Disposiciones relativas a juicios sucesorios cuyo interés sea menor a quinientos dos días de salario mínimo diario vigente en la zona económica de que se trate
+#### Sección XVI. Disposiciones relativas a juicios sucesorios cuyo interés sea menor a quinientos dos días del valor de la unidad de medida y actualización vigente
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1996)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
-ART. 763.- Los juicios sucesorios, cuya cuantía sea menor de quinientos dos días de salario mínimo diario vigente en la zona económica de que se trate, se promoverán ante los Jueces de Primera Instancia, y ante los Jueces Menores en los lugares donde éstos existan, si la cuantía es inferior a ciento ochenta y dos días de salario mínimo diario vigente en la zona económica de que se trate. En ambos casos la tramitación se sujetará a las prescripciones establecidas en la Sección XVI, Capítulo VI de este Código.
+ART. 763.- Los juicios sucesorios, cuya cuantía sea menor de quinientos dos días del valor de la unidad de medida y actualización vigente, se promoverán ante los Jueces de Primera Instancia; y ante los Jueces Menores en los lugares donde éstos existan, si la cuantía es inferior a ciento ochenta y dos días del valor de la unidad de medida y actualización vigente. En ambos casos la tramitación se sujetará a las prescripciones establecidas en la Sección XVI, Capítulo VI de este Código.
 
 ART. 764.- El juez, en vista de la solicitud del denunciante, tendrá por radicada la sucesión, pedirá informe a la Tesorería del Estado o Municipal, en sus respectivos casos, sobre el valor fiscal de los bienes denunciados; mandará que se convoque a las personas que se crean con derecho a la herencia, por medio de publicaciones en la puerta del juzgado, que se harán tres veces durante treinta días, para que se presenten a deducir sus derechos dentro de otros treinta y rindan las pruebas de su parentesco con el autor de la herencia.
 
@@ -4863,15 +4873,17 @@ VI.- Efectuada la venta, se entregarán los bienes al adquiriente, luego que exh
 
 VII.- En todo lo demás se observarán, en lo conducente, las disposiciones de este Capítulo.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE JUNIO DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JULIO DE 2017)</small>
 
-## TITULO DECIMO QUINTO. Del procedimiento en los negocios cuya cuantía sea hasta de ciento ochenta días de salario mínimo diario vigente en la zona económica de que se trate
+## TITULO DECIMO QUINTO
+
+Del procedimiento en los negocios cuya cuantía sea hasta de ciento ochenta días del valor de la unidad de medida y actualización vigente.
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1996)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
-ART. 1096.- Los Jueces de Primera Instancia en los negocios en materia civil, cuya cuantía sea hasta de ciento ochenta y dos días de salario mínimo diario vigente en la zona económica de que se trate y los Jueces Menores cuya cuantía no exceda de esa cantidad de días de salario mínimo diario vigente en la zona económica de que se trate, procederán conforme a las disposiciones especiales de ese título y en lo no previsto, observarán las reglas generales y disposiciones de este Código.
+ART. 1096.- Los Jueces de Primera Instancia en los negocios en materia civil, cuya cuantía sea hasta de ciento ochenta y dos días del valor de la unidad de medida y actualización vigente; y los Jueces Menores cuya cuantía no exceda de esa cantidad de días del valor de la unidad de medida y actualización vigente, procederán conforme a las disposiciones especiales de ese título y en lo no previsto, observarán las reglas generales y disposiciones de este Código.
 
 ART. 1097.- Cuando el juez, en cualquier estado del negocio, encuentre que no debe seguirse procedimiento especial por exceder de los límites que se fijan en el artículo anterior, continuará el procedimiento en la forma del juicio respectivo.
 
@@ -4903,9 +4915,9 @@ ART. 1105.- El día y hora señalados para la celebración de la audiencia a que
 
 El juez podrá conceder el uso de la palabra hasta por dos veces a cada una de las partes y si se formula reconvención, se le concederá precisamente al actor para que la conteste sujetándose a las disposiciones de este artículo.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1996)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
-ART. 1106.- Si la reconvención es por una cantidad mayor de ciento ochenta y dos días de salario mínimo diario vigente en la zona económica de que se trate se suspenderá el procedimiento especial y continuará el juicio en la forma que corresponda.
+ART. 1106.- Si la reconvención es por una cantidad mayor de ciento ochenta y dos días del valor de la unidad de medida y actualización vigente, se suspenderá el procedimiento especial y continuará el juicio en la forma que corresponda.
 
 ART. 1107.- Todas las acciones y excepciones o defensas, se harán valer en el acto mismo de la audiencia, sin substanciar artículos o incidentes de previo y especial pronunciamiento. Si de lo que expongan las partes resultare demostrada la procedencia de alguna excepción dilatoria, el juez lo declarará así desde luego y dará por terminada la audiencia.
 
@@ -4933,9 +4945,9 @@ ART. 1111.- Antes de pronunciar el fallo el juez exhortará de nuevo a las parte
 
 ART. 1112.- Las sentencias se dictarán conforme a las reglas generales y la valorización de las pruebas se hará de acuerdo con lo prevenido por el artículo 407.
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 1990)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
-ART. 1113.- Si a la hora señalada para la celebración de la audiencia a que se refieren los Artículos 1100 y 1105 no estuviere presente el actor y sí el demandado se impondrá a aquel una sanción de tres días de salario mínimo vigente en la región, que se aplicará al reo por vía de indemnización y sin que se justifique haber hecho el pago, no se citará de nuevo para el juicio.
+ART. 1113.- Si a la hora señalada para la celebración de la audiencia a que se refieren los artículos, 1100, y 1105, no estuviere presente el actor y sí el demandado se impondrá a aquél una sanción de tres días del valor de la unidad de medida y actualización vigente, que se aplicará al reo por vía de indemnización y sin que se justifique haber hecho el pago, no se citará de nuevo para el juicio.
 
 ART. 1114.- En el caso del artículo anterior, si el que dejó de concurrir fuere el demandado y no hubiere contestado la demanda, si consta que fué debidamente notificado el emplazamiento, de lo que se cerciorará el juez con especial cuidado, se presumirán confesados los hechos asentados en la demanda y continuará el juicio por sus demás trámites. Cuando el reo se presente en el curso del juicio se continuará con su intervención según el estado en que se halle y no se le admitirá prueba sobre ninguna excepción, si no demostrare el impedimento de caso fortuito o fuerza mayor que le impidiere presentarse a contestar la demanda.
 
@@ -4967,9 +4979,9 @@ Si se promueve revocación se fallará de plano.
 
 ART. 1124.- Las promociones de nulidad de actuaciones por falta o defecto de citación o notificación, se resolverán de plano.
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 1990)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
-ART. 1125.- En los juicios cuya cantidad no exceda de dos días de salario mínimo vigente en la región, no habrá condenación de costas ni en multa, a pesar de cualquier pacto contrario, en los que exceden de dos días de salario mínimo vigente en la región, se condenará al vencido al pago de un diez por ciento del importe del negocio por toda indemnización, que se aplicará al que obtuvo.
+ART. 1125.- En los juicios cuya cantidad no exceda de dos días del valor de la unidad de medida y actualización vigente, no habrá condenación de costas ni en multa, a pesar de cualquier pacto contrario, en los que exceden de dos días del valor de la unidad de medida y actualización vigente, se condenará al vencido al pago de un diez por ciento del importe del negocio por toda indemnización, que se aplicará al que obtuvo.
 
 ART. 1126.- Contra las resoluciones que se dicten en los juicios de que habla este Título no habrá recurso alguno, a excepción hecha de las sentencias dictadas por los jueces no letrados, sin consulta de asesor, en negocios cuyo interés exceda de cien pesos, que admitirá el recurso de revisión, el que deberá interponerse en el acto de la notificación de la sentencia o dentro del término de tres días, contados a partir de aquélla.
 
@@ -5063,9 +5075,9 @@ ART. 1143.- El Juez y las partes podrán interrogar a los testigos con relación
 
 ART. 1144.- La audiencia se llevará a cabo dentro de los 30 días contados a partir del auto que ordene el traslado, en la inteligencia de que, la demanda inicial, deberá ser proveída dentro del término de tres días.
 
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
-ART. 1145.- Si por cualquier circunstancia la audiencia no puede celebrarse, ésta se verificará dentro de los ocho días siguientes. Las partes deberán presentar a sus testigos y peritos. De manifestar, bajo protesta de decir verdad, no estar en aptitud de hacerlo, se impondrán al actuario del Juzgado la obligación de citar a los primeros y de hacer saber su cargo a los segundos, citándolos así mismo, para la audiencia respectiva, en la que deberán rendir dictamen. Dicha citación, se hará con apercibimiento de arresto hasta por treinta y dos horas, de no comparecer el testigo o el perito sin causa justificada; y al promovente de la prueba, de imponerle una multa hasta por el equivalente de treinta días de salario mínimo vigente en la región, en caso de que el señalamiento de domicilio resulte inexacto, o de comprobarse que se solicitó la prueba con el propósito de retardar el procedimiento, sin perjuicio de que se denuncie la falsedad resultante. Las partes, en caso de que se ofrezca la prueba confesional, deberán ser citadas con apercibimiento de ser declaradas confesas de las posiciones que se les articulen y sean calificadas de legales, a menos que acrediten justa causa para no asistir.
+ART. 1145.- Si por cualquier circunstancia la audiencia no puede celebrarse, ésta se verificará dentro de los ocho días siguientes. Las partes deberán presentar a sus testigos y peritos. De manifestar, bajo protesta de decir verdad, no estar en aptitud de hacerlo, se impondrán al actuario del Juzgado la obligación de citar a los primeros y de hacer saber su cargo a los segundos, citándolos así mismo, para la audiencia respectiva, en la que deberán rendir dictamen. Dicha citación, se hará con apercibimiento de arresto hasta por treinta y dos horas, de no comparecer el testigo o el perito sin causa justificada; y al promovente de la prueba, de imponerle una multa hasta por el equivalente de treinta días del valor de la unidad de medida y actualización vigente, en caso de que el señalamiento de domicilio resulte inexacto, o de comprobarse que se solicitó la prueba con el propósito de retardar el procedimiento, sin perjuicio de que se denuncie la falsedad resultante. Las partes, en caso de que se ofrezca la prueba confesional, deberán ser citadas con apercibimiento de ser declaradas confesas de las posiciones que se les articulen y sean calificadas de legales, a menos que acrediten justa causa para no asistir.
 
 > <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
 
@@ -5163,7 +5175,9 @@ Durante la audiencia no se pueden impugnar de falsos ni desconocer documentos qu
 
 ART. 1163.- Los peritos dictaminarán por escrito u oralmente en presencia de las partes. Tanto las partes como el Juez pueden formular observaciones y hacer preguntas pertinentes durante la audiencia en la cual se rinde la prueba.
 
-Los peritos citados oportunamente serán sancionados con multas hasta el equivalente de quince días de salario mínimo general vigente en la región en caso de que no concurran, salvo causa grave que calificará el Juez.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+
+Los peritos citados oportunamente serán sancionados con multas hasta el equivalente de quince días del valor de la unidad de medida y actualización vigente en caso de que no concurran, salvo causa grave que calificará el Juez.
 
 > <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
 
@@ -5621,8 +5635,16 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 5 DE JULIO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 0667.- SE REFORMA EL ARTÍCULO 36; Y ADICIONA AL ARTÍCULO 35 UNA FRACCIÓN, DE Y AL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0667.- SE REFORMA EL ARTÍCULO 36; Y ADICIONA AL ARTÍCULO 35 UNA FRACCIÓN, DE Y AL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 19 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0676.- SE REFORMAN DIVERSOS ARTÍCULOS DE LOS CÓDIGOS CIVIL, DE PROCEDIMIENTOS CIVILES, FAMILIAR Y PENAL TODOS DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
-SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
