@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-legislativo-del-estado-de-quintana-14909
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-25"
-last_updated: "2017-03-15"
+last_updated: "2017-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el miércoles 25 de octubre de 1995.
 
@@ -1601,19 +1601,107 @@ XVIII.- Compilar los índices de los documentos clasificados como reservados y a
 
 XIX.- Las demás que se desprendan de la normatividad aplicable.
 
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA] SU DENOMINACIÓN, P.O 19 DE JULIO DE 2017)</small>
 
-## TITULO NOVENO
+## TITULO NOVENO. DEL ORGANO INTERNO DE CONTROL DEL PODER LEGISLATIVO
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O 19 DE JULIO DE 2017)</small>
 
-### CAPITULO UNICO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PUBLICOS DEL PODER LEGISLATIVO
+### CAPITULO UNICO. DEL ORGANO INTERNO DE CONTROL DEL PODER LEGISLATIVO
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O 19 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 105.
 
-Las responsabilidades administrativas en que incurran los titulares y personal de confianza de las Dependencias del Poder Legislativo, serán calificadas y sancionadas por la Gran Comisión de la Legislatura, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y del Reglamento Interior o del que al efecto se expida.
+El Órgano Interno de Control del Poder Legislativo del Estado es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Estará adscrito administrativamente a la Gran Comisión, sin que ello se traduzca en subordinación alguna.
+
+El Órgano Interno de Control, su titular y el personal adscrito al mismo, estarán impedidos de intervenir o interferir en forma alguna en el desempeño de las facultades y en el ejercicio de las atribuciones que esta Ley y las demás disposiciones aplicables confieren a los servidores públicos del Poder Legislativo.
+
+El Órgano Interno de Control tendrá un titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto.
+
+En el desempeño de su cargo, el Titular del Órgano Interno de Control se sujetará a los principios previstos en la Ley General de Responsabilidades Administrativas y en la Ley de Responsabilidades Administrativas del Estado de Quintana Roo.
+
+> <small>(ADICIONADO, P.O 19 DE JULIO DE 2017)</small>
+
+###### ARTICULO 105 Bis.
+
+El Órgano Interno de Control del Poder Legislativo, a través de su titular, tendrá las siguientes atribuciones:
+
+I. Las que contempla la Ley General de Responsabilidades Administrativas y en la Ley de Responsabilidades Administrativas del Estado de Quintana Roo;
+
+II. Prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del Poder Legislativo y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa del Estado;
+
+III. Resolver sobre la responsabilidad de los servidores públicos del Poder Legislativo e imponer en su caso las sanciones administrativas que correspondan;
+
+IV. Presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción o ante la Fiscalía General del Estado, según corresponda;
+
+V. Verificar que el ejercicio del gasto del Poder Legislativo se realice conforme a la normatividad aplicable, los programas aprobados y montos autorizados;
+
+VI. Presentar a la Gran Comisión del Poder Legislativo los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del Poder Legislativo;
+
+VII. Revisar que las operaciones presupuestales que realice el Poder Legislativo, se hagan con apego a las disposiciones legales y administrativas aplicables y, en su caso, determinar las desviaciones de las mismas y las causas que les dieron origen;
+
+VIII. Promover ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorías;
+
+IX. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Poder Legislativo;
+
+X. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos, empleando la metodología que éste determine;
+
+XI. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos del Poder Legislativo, empleando la metodología que determine;
+
+XII. Recibir, tramitar, investigar y resolver, en su caso, las quejas, sugerencias y denuncias en contra de los servidores públicos del Poder Legislativo, conforme a las leyes aplicables;
+
+XIII. Solicitar la información y efectuar visitas a las dependencias y demás áreas administrativas del Poder Legislativo para el cumplimento de sus funciones;
+
+XIV. Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en materia de adquisiciones, arrendamientos, servicio y obras públicas;
+
+XV. Intervenir en los actos de entrega-recepción de los servidores públicos del Poder Legislativo de mandos medios y superiores;
+
+XVI. Atender las solicitudes de los (sic) diferentes dependencias y demás áreas administrativas del Poder Legislativo en los asuntos de su competencia;
+
+XVII. Proponer los proyectos de modificación o actualización de su estructura orgánica, personal y/o recursos a la Gran Comisión;
+
+XVIII. Formular su anteproyecto de presupuesto ante la Gran Comisión;
+
+XIX. Presentar a la Gran Comisión, en la primera semana hábil del ejercicio fiscal siguiente que corresponda, un informe anual de resultados de su gestión, y comparecer ante el mismo, cuando así lo requiera el Presidente;
+
+XX. Presentar a la Gran Comisión, en la primera semana hábil del ejercicio fiscal siguiente que corresponda, un informe anual respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas;
+
+XXI. Inscribir y mantener actualizada la información correspondiente del Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal; de todos los servidores públicos del Poder Legislativo, excepto de los servidores públicos adscritos a la Auditoría Superior del Estado, de conformidad con las leyes aplicables, y
+
+XXII. Las demás que le confieran otros ordenamientos.
+
+> <small>(ADICIONADO, P.O 19 DE JULIO DE 2017)</small>
+
+###### ARTICULO 105 Ter.
+
+El titular del Órgano Interno de Control, será nombrado por la Gran Comisión de la Legislatura y deberá reunir los siguientes requisitos:
+
+I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
+
+II. Tener treinta años de edad cumplidos el día de la designación;
+
+III. Gozar de buena reputación y no haber sido condenado por delito doloso;
+
+IV. Contar al momento de su designación con experiencia en el control, manejo o fiscalización de recursos, responsabilidades administrativas, contabilidad gubernamental, auditoría gubernamental, obra pública, adquisiciones o arrendamientos;
+
+V. Contar al día de su designación con título y cédula profesional de licenciado en derecho, contador, administrador, economista o financiero, expedidos con una antigüedad mínima de cinco años por autoridad o institución legalmente facultada para ello;
+
+VI. No pertenecer o haber pertenecido en los dos años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios al Poder Legislativo, o haber fungido como consultor o auditor externo del mismo, en lo individual durante ese periodo;
+
+VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, y
+
+VIII. Durante los dos años anteriores a la designación no haber desempeñado cargo de elección popular federal, estatal o municipal, haber sido dirigente nacional, estatal o municipal o responsable del manejo de los recursos públicos de algún partido político, ni haber participado como candidato a cargo de elección popular alguno.
+
+El titular del Órgano Interno de Control no podrá durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia.
+
+> <small>(ADICIONADO, P.O 19 DE JULIO DE 2017)</small>
+
+###### ARTICULO 105 Quáter.
+
+El titular del Órgano Interno de Control del Poder Legislativo será sujeto de responsabilidad en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Quintana Roo.
+
+Tratándose de los demás servidores públicos adscritos al Órgano Interno de Control del Poder Legislativo serán sancionados por el Titular del Órgano Interno de Control, en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Quintana Roo.
 
 (REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
@@ -2402,3 +2490,15 @@ SEGUNDO. La Oficialía Mayor del Poder Legislativo a propuesta del Presidente de
 TERCERO. El titular de la Unidad de Igualdad de Género del Instituto de Investigaciones Legislativas, deberá elaborar y someter a la aprobación de la Comisión para la Igualdad de Género de la Legislatura, el Programa Anual de Trabajo de la Unidad, en un plazo no mayor de treinta días naturales posteriores a su nombramiento.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 19 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 086 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO; DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE QUINTANA ROO; DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE QUINTANA ROO; DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DE QUINTANA ROO Y DE LA LEY DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO."]
+
+PRIMERO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo, con la salvedad del artículo transitorio siguiente.
+
+SEGUNDO. Las reformas y adiciones a la Ley Orgánica del Tribunal Electoral de Quintana Roo, entrará (sic) en vigor previa su publicación en el Periódico Oficial del Estado de Quintana Roo, el mismo día de la entrada en vigor del Decreto por el que se reforman el párrafo noveno de la fracción II del artículo 49, la fracción XII del artículo 75, la fracción XII del artículo 76 y el inciso c) del artículo 110; y se derogan los párrafos segundo, cuarto y quinto del artículo 110, todos de la Constitución Política del Estado Libre y Soberano de Quintana Roo; y se reforman el párrafo segundo del artículo octavo transitorio, el párrafo primero del artículo décimo transitorio y el artículo décimo segundo transitorio; y se adicionan el párrafo cuarto del artículo octavo transitorio, todos de la declaratoria número: 002 por el que se reforman, derogan y adicionan diversas disposiciones a la Constitución Política del Estado Libre y Soberano de Quintana Roo, en materia de combate a la corrupción, publicado el 03 de julio de 2017 en el Periódico Oficial del Estado de Quintana Roo, número 72 extraordinario, Tomo II, Novena Época.
+
+TERCERO. A la entrada en vigor del presente decreto, quien se encuentre ejerciendo las funciones de contraloría interna del Poder Legislativo asumirá las funciones del órgano interno que se crea, hasta en tanto se realiza la designación del Titular del Órgano Interno de Control del Poder Legislativo del Estado.
+
+CUARTO. Los titulares de los Órganos Internos de Control de los órganos autónomos reconocidos por la Constitución Política del Estado Libre y Soberano de Quintana Roo que resulten designados en virtud del presente Decreto, iniciarán sus funciones de conformidad con lo previsto en el presente Decreto hasta el primero de enero del año dos mil dieciocho.
