@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-justicia-administrativa-del-estado-de-morelos-112204"
 country: "mx"
 rank: "ley"
 publication_date: "2016-02-03"
-last_updated: "2017-03-01"
+last_updated: "2017-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA CUARTA DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS, PUBLICADA EN EL P.O. DE 19 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 3 de febrero de 2016.
 
@@ -1854,3 +1856,37 @@ Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
 
 Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 19 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Una vez aprobadas (sic) la presente Ley, remítase al Titular del Poder Ejecutivo, para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Estado de Morelos, para los efectos señalados en los artículos 44, 47 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. La presente Ley entrará en vigor a partir del día diecinueve de julio de dos mil diecisiete, previa publicación en el Periódico Oficial “Tierra y Libertad” órgano de difusión del Estado de Morelos.
+
+TERCERA. Los procedimientos de fincamiento de responsabilidad administrativa que hayan iniciado su trámite con la entrada en vigor de la Ley de Responsabilidades Administrativas para el Estado de Morelos serán resueltos de conformidad con la Ley de Responsabilidades de los Servidores Públicos vigente a la fecha en que fueron iniciados.
+
+CUARTA. Se abroga la Ley de Justicia Administrativa del Estado de Morelos publicada en el Periódico oficial “Tierra y Libertad” número 5366 de fecha tres de febrero de dos mil dieciséis y todas las disposiciones legales y administrativas que se opongan a la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Morelos.
+
+QUINTA. Los juicios iniciados con anterioridad a la entrada en vigor de la presente Ley continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio, salvo lo que se refiere al cumplimiento y ejecución de las sentencias que se llevarán a cabo conforme a las reglas de la Ley de Justicia Administrativa del Estado de Morelos.
+
+SEXTA. El Magistrado Titular de la Tercera Sala continuará fungiendo como Presidente hasta el 31 de diciembre de 2018; a partir del primero de enero de 2019 y hasta el 31 de diciembre de 2020, asumirá la Presidencia del Tribunal el Titular de la Cuarta Sala, y por último a partir del primero de enero de 2021 asumirá la Presidencia del Tribunal de Justicia Administrativa el Titular de la Quinta Sala hasta el 31 de diciembre de 2022; a partir del primero de enero de 2023 se procederá conforme a lo previsto en la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Morelos.
+
+SÉPTIMA. A la entrada en vigor de la presente Ley, quedarán designados como Magistrados de las Salas Especializadas en Responsabilidades Administrativas, los Titulares de las Salas Cuarta y Quinta, por un plazo de nueve años. Lo anterior sin perjuicio de que dichos Magistrados podrán mantener su adscripción durante todo su encargo, en razón de las consideraciones expuestas en el presente Decreto.
+
+OCTAVA. El Tribunal de Justicia Administrativa dentro de los noventa días siguientes a la entrada en vigor de la Ley de Justicia Administrativa del Estado de Morelos, deberá expedir el reglamento interior de la presente Ley, mientras tanto continuará rigiendo el reglamento vigente en lo que no se oponga a lo previsto en este ordenamiento.
+
+NOVENA. El Tribunal de Justicia Administrativa dentro de los ciento veinte días naturales siguientes a la entrada en vigor de la presente Ley, deberá expedir los Manuales de Organización y Procedimientos del Tribunal de Justicia Administrativa.
+
+DÉCIMA. A partir de que entre en vigor la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Morelos, las Salas Especializadas sólo conocerán de asuntos en materia de responsabilidades administrativas de los servidores públicos, debiendo continuar con la substanciación de los asuntos que a la fecha tengan asignados hasta su conclusión.
+
+DÉCIMA PRIMERA. Los procedimientos iniciados con anterioridad a la entrada en vigor de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Morelos serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
+
+DÉCIMA SEGUNDA. El Tribunal de Justicia Administrativa dentro de los noventa días naturales siguientes a la entrada en vigor de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Morelos, deberá expedir el Reglamento interior; mientras tanto, continuará rigiendo el reglamento vigente en lo que no se oponga a lo previsto en este ordenamiento.
+
+DÉCIMA TERCERA. El Tribunal de Justicia Administrativa, dentro de los ciento veinte días naturales siguientes a la entrada en vigor de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Morelos, deberá expedir los Manuales de Organización y Procedimientos del Tribunal de Justicia Administrativa.
+
+DÉCIMA CUARTA. A la entrada en vigor de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Morelos, a propuesta que efectúe la Junta Política y de Gobierno, el Congreso nombrará por el voto aprobatorio de las dos terceras partes de sus miembros, al Titular del Órgano Interno de Control del Tribunal de Justicia Administrativa del Estado de Morelos.
+
+DÉCIMA QUINTA. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente Reforma.
