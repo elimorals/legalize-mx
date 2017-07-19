@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-tribunal-electoral-de-quintana-roo-25782"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-08-27"
-last_updated: "2015-11-11"
+last_updated: "2017-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25782&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY ORGANICA DEL TRIBUNAL ELECTORAL DE QUINTANA ROO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 27 de agosto de 2002.
 
@@ -95,13 +97,11 @@ El Tribunal residirá en la capital del Estado y tendrá jurisdicción en todo e
 
 El patrimonio del Tribunal se integra con los bienes muebles e inmuebles que se destinen al cumplimiento de su objeto y las partidas que anualmente se le señalen en el Presupuesto de Egresos del Gobierno del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### Artículo 8.
 
-Para el ejercicio de sus atribuciones, el Tribunal se integrará por tres Magistrados, uno de los cuales fungirá como su Presidente; un Secretario General de Acuerdos; los Jefes de las Unidades de Legislación y Jurisprudencia, Comunicación y Difusión, Informática y Documentación, Administración y Capacitación e Investigación. Asimismo, contará con una Contraloría Interna y el personal administrativo que se considere necesario.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Para el ejercicio de sus atribuciones, el Tribunal se integrará por tres Magistrados, uno de los cuales fungirá como su Presidente; un Secretario General de Acuerdos; los Jefes de las Unidades de Legislación y Jurisprudencia, Comunicación y Difusión, Informática y Documentación, Administración y Capacitación e Investigación. Asimismo, contará con un órgano Interno de Control y el personal administrativo que se considere necesario.
 
 > <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
@@ -149,8 +149,6 @@ Los Magistrados del Tribunal serán electos por las dos terceras partes de los m
 
 Los Magistrados del Tribunal durarán en su encargo siete años.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 15.
 
 (DEROGADO, P.O. 3 DE MARZO DE 2009)
@@ -176,8 +174,6 @@ c) Quien resulte designado por la legislatura del Estado, asumirá el cargo por 
 d) Al concluir el período por el que se asumió la vacante, el Magistrado titular deberá asumir nuevamente su encargo, salvo que se trate de vacante definitiva.
 
 Tratándose de una vacante definitiva de Magistrado, el Tribunal, a través de su Presidente o quien funja como tal, lo comunicará a la Cámara de Senadores para que se provea el procedimiento de sustitución correspondiente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
@@ -241,13 +237,9 @@ XIV. Conocer y resolver las controversias laborales entre el Instituto y sus ser
 
 XV. Aprobar los planes y programas de capacitación jurídico electoral;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
 
 XVI. Aprobar los planes y programas que contribuyan a la promoción de la cultura política y democrática en el Estado;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 3 DE MARZO DE 2009)</small>
 
@@ -256,8 +248,6 @@ XVII. Aprobar la estructura de los órganos y áreas del Tribunal, conforme a la
 > <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 XVIII. Las demás que le confiera la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Instituciones y Procedimientos Electorales, la Constitución Particular, esta Ley y demás ordenamientos electorales.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 22.
 
@@ -351,25 +341,17 @@ XV. Vigilar que el Tribunal cuente con los recursos humanos, materiales y financ
 
 XVI. Acordar con los titulares de las unidades, los asuntos competencia de éstas;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
 
 XVII. Designar las comisiones de magistrados que sean necesarias para la coordinación y desarrollo de las actividades del Tribunal;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 3 DE MARZO DE 2009)</small>
 
 XVIII. Coordinar los trabajos de los órganos y áreas del Tribunal, aplicando los programas, políticas y procedimientos institucionales, informando de ello al Pleno;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 3 DE MARZO DE 2009)</small>
 
 XIX. Dictar y ejecutar las medidas necesarias para el despacho pronto y expedito de los asuntos propios del Tribunal;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 3 DE MARZO DE 2009)</small>
 
@@ -495,8 +477,6 @@ Los funcionarios a que se refiere el presente Capítulo, serán designados y rem
 
 ### Capítulo Quinto. De las Unidades Técnicas del Tribunal
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2014)</small>
 
 ###### Artículo 43.
@@ -507,19 +487,13 @@ I. Legislación y Jurisprudencia;
 
 II. Comunicación y Difusión;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 2014)</small>
 
 III. Informática y Documentación;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 2014)</small>
 
 IV. Administración, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2014)</small>
 
@@ -623,8 +597,6 @@ VIII. Acordar con el Presidente del Tribunal los asuntos de su competencia; y
 
 IX. Las demás que le encomiende el Presidente del Tribunal y la Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2014)</small>
 
 ###### Artículo 48 Bis.
@@ -645,229 +617,177 @@ VI. Proponer al Magistrado Presidente, la celebración de convenios de colaborac
 
 VII. Las demás que le confiera el Presidente, esta Ley y demás disposiciones aplicables.
 
-## TÍTULO TERCERO. DE LA CONTRALORIA INTERNA Y DE LAS RESPONSABILIDADES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JULIO DE 2017)</small>
 
-### Capítulo Primero. De la Contraloría Interna
+## TÍTULO TERCERO. DEL ÓRGANO INTERNO DE CONTROL DEL TRIBUNAL
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+
+### Capítulo Único. Del Órgano Interno de Control del Tribunal
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### Artículo 49.
 
-La Contraloría Interna del Tribunal es la responsable de la fiscalización, vigilancia y control del uso, manejo y destino de los recursos del Tribunal; así como del desempeño de los órganos, funcionarios y servidores electorales. Estará adscrita administrativamente al Pleno del Tribunal, sin que esto se traduzca en subordinación alguna, pues gozará de autonomía técnica y de gestión en el ejercicio de sus atribuciones.
+El Órgano Interno de Control del Tribunal es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones, y estará adscrito administrativamente al Pleno del Tribunal, sin que ello se traduzca en subordinación alguna.
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+El Órgano Interno de Control, su titular y el personal adscrito al mismo, estarán impedidos de intervenir o interferir en forma alguna en el desempeño de las facultades y en el ejercicio de las atribuciones que esta Ley y las demás disposiciones aplicables confieren a los servidores públicos del Tribunal.
+
+El Órgano Interno de Control tendrá un titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto.
+
+En el desempeño de su cargo, el Titular del Órgano Interno de Control se sujetará a los principios previstos en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Quintana Roo.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### Artículo 50.
 
-El titular de la Contraloría Interna del Tribunal, deberá satisfacer los siguientes requisitos:
+El Órgano Interno de Control, a través de su titular, tendrá las siguientes atribuciones:
 
-a) Ser mexicano por nacimiento, sin tener o adquirir otra nacionalidad, ciudadano quintanarroense, además de estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+I. Las que contempla la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Quintana Roo;
 
-b) Estar inscrito en el Registro Federal de Electores y contar con credencial para votar;
+II. Prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del Tribunal y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa del Estado;
 
-c) Tener más de treinta años de edad, el día de la designación;
+III. Resolver sobre la responsabilidad de los servidores públicos del Tribunal e imponer en su caso las sanciones administrativas que correspondan;
 
-d) Poseer al día de la designación, con antigüedad mínima de cinco años, título y cédula profesional de Licenciado en Derecho, contabilidad, administración, economía o finanzas;
+IV. Presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción o ante la Fiscalía General, según corresponda;
 
-e) Gozar de buena reputación, no estar sujeto a proceso penal y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter culposo;
+V. Verificar que el ejercicio del gasto del Tribunal se realice conforme a la normatividad aplicable, los programas aprobados y montos autorizados;
 
-f) Tener una residencia efectiva en el Estado durante los últimos diez años, y haber sido vecino en alguno de los Municipios de la Entidad en los cinco años previos a su designación;
+VI. Presentar al Pleno del Tribunal los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del Tribunal;
 
-g) No haber sido registrado como candidato a cargo alguno de elección popular en los últimos diez años anteriores a la designación;
+VII. Revisar que las operaciones presupuestales que realice el Tribunal, se hagan con apego a las disposiciones legales y administrativas aplicables y, en su caso, determinar las desviaciones de las mismas y las causas que les dieron origen;
 
-h) No desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal en algún partido político o agrupación política, o representante ante el Consejo General, los Consejos Municipales y los Consejos Distritales del Instituto Electoral de Quintana Roo, así como en los Órganos del Instituto Federal Electoral o Instituto Nacional Electoral, en los últimos diez años anteriores a la designación; y
+VIII. Promover ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorías;
 
-i) No ser secretario, ni procurador general de justicia, subsecretario u oficial mayor en la administración pública estatal, a menos que se separe de su encargo con cuatro años de anticipación al día de su nombramiento.
+IX. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Tribunal;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+X. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos, empleando la metodología que éste determine;
+
+XI. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos del Tribunal, empleando la metodología que determine;
+
+XII. Recibir, tramitar, investigar y resolver, en su caso, las quejas, sugerencias y denuncias en contra de los servidores públicos del Tribunal, conforme a las leyes aplicables;
+
+XIII. Solicitar la información y efectuar visitas a las áreas y órganos del Tribunal para el cumplimento de sus funciones;
+
+XIV. Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en materia de adquisiciones, arrendamientos, servicio y obras públicas;
+
+XV. Intervenir en los actos de entrega-recepción de los servidores públicos del Tribunal de mandos medios y superiores, en los términos de la normativa aplicable;
+
+XVI. Atender las solicitudes de los diferentes órganos del Tribunal en los asuntos de su competencia;
+
+XVII. Proponer los proyectos de modificación o actualización de su estructura orgánica, personal y/o recursos al Pleno del Tribunal;
+
+XVIII. Formular su anteproyecto de presupuesto al Pleno del Tribunal;
+
+XIX. Presentar al Pleno del Tribunal, en la primera semana hábil del ejercicio fiscal siguiente que corresponda, un informe anual de resultados de su gestión, y comparecer ante el mismo, cuando así lo requiera el Presidente;
+
+XX. Presentar al Pleno del Tribunal, en la primera semana hábil del ejercicio fiscal siguiente que corresponda, un informe anual respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas;
+
+XXI. Inscribir y mantener actualizada la información correspondiente del Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal; de todos los servidores públicos del Tribunal, de conformidad con las leyes aplicables, y
+
+XXII. Las demás que le confieran otros ordenamientos.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### Artículo 51.
 
-El Contralor Interno del Tribunal, será elegido por el voto de las dos terceras partes de los miembros de la Legislatura del Estado o la Diputación Permanente, en los recesos de ésta, de entre las propuestas que formulen los grupos parlamentarios, mediante el siguiente procedimiento:
+El titular del Órgano Interno de Control, durará en su encargo cuatro años sin posibilidad de reelección y deberá reunir los siguientes requisitos:
 
-> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
 
-I. La Presidencia de la Mesa Directiva de la Legislatura, o de la Diputación Permanente, en su caso, convocará a los grupos parlamentarios, a presentar una propuesta respecto del cargo de Contralor Interno, ante la Comisión de Justicia.
+II. Tener treinta años de edad cumplidos el día de la designación;
 
-> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+III. Gozar de buena reputación y no haber sido condenado por delito doloso;
 
-II. Los grupos parlamentarios presentarán sus propuestas por escrito, presentando por cada una de ellas el currículum vitae con documentación que sustente el mismo; la documentación deberá presentarse en original y copia para compulsa, o bien certificadas. Dichas propuestas deberán realizarse en un término máximo de cinco días naturales, contados a partir de la fecha en que fueron notificados.
+IV. Contar al momento de su designación con tres años de experiencia en el control, manejo o fiscalización de recursos, responsabilidades administrativas, contabilidad gubernamental, auditoría gubernamental, obra pública, adquisiciones o arrendamientos;
 
-Para el caso de vacantes de Magistrados, dichas propuestas deberán realizarse en un término máximo de tres días naturales, contados a partir de la fecha en que fueron notificados.
+V. Contar al día de su designación con título y cédula profesional de licenciado en derecho, contador, administrador, economista o financiero, expedidos con una antigüedad mínima de cinco años por autoridad o institución legalmente facultada para ello;
 
-> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+VI. No pertenecer o haber pertenecido en los dos años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios al Tribunal, o haber fungido como consultor o auditor externo del mismo, en lo individual durante ese periodo;
 
-III. La Comisión de Justicia, una vez vencido el plazo señalado en la fracción que antecede, se reunirá para revisar si las propuestas cumplen con los requisitos de ley, y elaborará el dictamen correspondiente, mismo que contendrá la relación de los nombres de las personas propuestas que satisficieron los requisitos legales.
+VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, y
 
-> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+VIII. Durante los dos años anteriores a la designación no haber desempeñado cargo de elección popular federal, estatal o municipal, haber sido dirigente nacional, estatal o municipal o responsable del manejo de los recursos públicos de algún partido político, ni haber participado como candidato a cargo de elección popular alguno.
 
-IV. El citado dictamen se presentará, a más tardar en los tres días siguientes al vencimiento del plazo señalado en la fracción II del presente artículo, en sesión plenaria de la Legislatura o la Diputación Permanente, según corresponda, para efecto de que los legisladores designen, de entre las propuestas que cumplieron con los requisitos, al Contralor Interno del Tribunal o a quien cubrirá la vacante de magistrado;
+El titular del Órgano Interno de Control no podrá durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia.
 
-> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
-
-V. La designación que se realice, se mandará a publicar en el Periódico Oficial del Estado;
-
-> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
-
-VI. El designado deberá comparecer ante la propia Legislatura o la Diputación Permanente, a rendir la protesta de ley. En el caso de que un Magistrado que cubra una vacante tenga que entrar en funciones, éste también deberá rendir la protesta ante el Pleno del Tribunal.
-
-El Contralor Interno del Tribunal durará en su encargo seis años.
-
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
-
-La retribución del Contralor Interno será la misma que se señale para los Magistrados del Tribunal.
-
-Sus ausencias temporales serán cubiertas por el servidor electoral, designado por el Pleno, de entre los que le sigan en jerarquía.
-
-El Contralor Interno no podrá tener otro empleo cargo o comisión, con excepción de aquellos en que actúe en representación del órgano al que pertenece y del que desempeñe en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, siempre y cuando no sea remunerado.
-
-La Legislatura del Estado, o en su caso, la Diputación Permanente, con el voto de las dos terceras partes de sus integrantes, podrán revocar de su cargo al Contralor Interno, cuando deje de reunir alguno de los requisitos de elegibilidad, violente los principios rectores de su función o incurra en responsabilidad, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### Artículo 52.
 
-La Contraloría interna del Tribunal, tendrá las siguientes atribuciones:
+La designación del titular del Órgano Interno de Control se llevará a cabo de conformidad con el procedimiento siguiente:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+I. El Pleno del Tribunal expedirá una convocatoria pública en la que se establecerán los medios idóneos para acreditar el cumplimiento de los requisitos de elegibilidad, así como los plazos y términos de participación para la elección del titular del Órgano Interno de Control, misma que deberá publicarse el mismo día de su emisión en la página web del Tribunal y en dos periódicos de mayor circulación en el Estado, además en las redes sociales del Tribunal para mayor publicidad;
 
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+La convocatoria deberá exigir la presentación de un ensayo crítico respecto del cumplimiento de las atribuciones del Órgano Interno de Control del Tribunal;
 
-I. Aprobar los contenidos del Programa Anual de Auditoria Interna del Tribunal;
+II. Las solicitudes deberán presentarse dentro de los cinco días hábiles contados a partir del día siguiente de la fecha de emisión de la convocatoria, así como estar debidamente suscritas por el solicitante;
 
-II. Ordenar la ejecución y supervisión del programa anual de auditoria interna, e informar al pleno;
+III. El Pleno del Tribunal procederá a la revisión y análisis de las solicitudes, entrevistando públicamente a cada uno de los aspirantes que hayan cumplido con los requisitos exigidos para el cargo y elaborará un acuerdo donde justifique la designación correspondiente;
 
-III. Autorizar los programas específicos de auditoría interna que practique;
+IV. Aprobada la designación el titular rendirá la protesta de ley ante el Pleno del Tribunal.
 
-IV. Vigilar la correcta ejecución de cada una de las auditorías internas, estableciendo la extensión y profundidad que las mismas requieran;
+La designación deberá publicarse en el Periódico Oficial del Estado de Quintana Roo, señalando el inicio y fin del periodo del encargo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(DEROGADO, P.O. 19 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+### Capítulo Segundo
 
-V. Requerir al servidor o funcionario electoral que corresponda, por sí o a través de su superior jerárquico, el cumplimiento de las observaciones, que con motivo de los resultados de la auditoría, se hayan formulado;
-
-VI. Aplicar, y en su caso, promover ante las instancias correspondientes las acciones administrativas y legales que deriven de los resultados de las auditorias;
-
-VII. Revisar en la ejecución de las auditorias internas, que el ejercicio del gasto se haya realizado de conformidad con las disposiciones legales, normas y lineamientos que regulan su ejercicio; que las operaciones financieras se registren contable y presupuestalmente en forma oportuna; la calidad de los controles administrativos para proteger el patrimonio institucional y evaluar desde el punto de vista programático las metas y objetivos de los programas a cargo del Tribunal y, en su caso, determinar las desviaciones de los mismos y las causas que les dieron origen;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-VIII. Recibir, investigar y emitir la resolución que conforme a la Ley proceda, respecto de las quejas y denuncias que se presenten en contra de los Magistrados, secretario general y auxiliar de acuerdos, de estudio, proyectista, jefes de unidad, notificadores, personal administrativo, jurídico y de apoyo, del Tribunal, en los términos de la normatividad que el propio Titular de la Contraloría Interna expida y mande a publicar en el Periódico Oficial del Estado;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-IX. Establecer mecanismos para difundir la obligación de presentar ante la propia Contraloría Interna, la declaración de situación patrimonial por parte de los servidores y funcionarios del Tribunal que estén obligados, de acuerdo con la normatividad que el propio Titular de la Contraloría Interna expida y mande a publicar en el Periódico Oficial del Estado;
-
-X. Participar en los actos de entrega-recepción de los servidores electorales del Tribunal de mandos medios y superiores, con motivo de su separación del cargo, en los términos de la normatividad aplicable;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-XI. Remitir un informe a la sociedad, de periodicidad mensual, y uno global del ejercicio en el mes de enero, mismos que se difundirán en la página electrónica del Tribunal;
-
-XII. Emitir observaciones y recomendaciones a los titulares de las áreas auditadas;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-XIII. Emitir observaciones sobre las normas de contabilidad y de control en materia de programación, presupuestación, administración de recursos humanos, materiales, financieros y servicios que se elaboren en el Tribunal;
-
-XIV. Verificar el cumplimiento de la normatividad relativa a la adquisición de bienes y servicios;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-XV. Determinar y aplicar las sanciones previstas en el artículo 55 de la presente ley, así como expedir toda la normatividad inherentes a la función otorgada, debiéndose mandar publicar en el Periódico Oficial del Estado; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-XVI. Las demás que le confiera la Ley.
-
-### Capítulo Segundo. De las Responsabilidades
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### Artículo 53.
 
-Los Magistrados, Secretario General y Auxiliar de Acuerdos, de Estudio, Proyectista, Jefes de Unidad, notificadores, personal administrativo, jurídico y de apoyo del Tribunal, podrán ser sancionados en la forma, términos y por las causas previstas en la presente Ley y en las que se prevengan en el reglamento que al efecto expida la Contraloría Interna.
+El titular del Órgano Interno de Control del Tribunal será sujeto de responsabilidad en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Quintana Roo.
 
-El Titular de la Contraloría Interna del Tribunal sólo será sancionado por la Legislatura o la Diputación Permanente, en su caso. Podrá ser removido de su cargo con la misma votación que se necesitó para su nombramiento, siempre y cuando, incurra en violaciones graves a la Ley a juicio de la Legislatura o la Diputación Permanente, según corresponda, o por dejar de reunir los requisitos de elegibilidad.
+Tratándose de los demás servidores públicos adscritos al Órgano Interno de Control del Tribunal serán sancionados por el Titular del Órgano Interno de Control, en términos de la Ley General de Responsabilidades Administrativas.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### Artículo 54.
 
-Son causas de responsabilidad de los servidores del Tribunal las siguientes:
+El Órgano Interno de Control será removido de su cargo por el Pleno del Tribunal, por las siguientes causas:
 
-I. Realizar conductas que atenten contra la autonomía e independencia del Tribunal o de sus miembros, así como poner en riesgo su imparcialidad y libertad para juzgar;
+I. Incurrir en violaciones graves a los derechos humanos, previstos por la Constitución y los tratados internacionales de los que el Estado Mexicano sea parte;
 
-II. Aceptar o ejercer consignas, presiones o cualquier acción que implique subordinación respecto de alguna autoridad, persona, partido político, coalición o agrupación política;
+II. Incurrir en responsabilidad administrativa grave en términos de la Ley General de Responsabilidades Administrativas;
 
-III. Incurrir en faltas de probidad o descuido en el desempeño de las funciones o labores que deban realizar;
+III. Haber sido condenado por delito doloso;
 
-IV. Difundir públicamente, sin autorización, la información a la que tenga acceso por motivo de sus funciones;
+IV. Utilizar, en beneficio propio o de terceros, la información confidencial o reservada de que disponga en razón de su cargo, así como divulgar la mencionada información en contravención a la Ley;
 
-V. Dejar de desempeñar, sin causa justificada, las funciones que tengan a su cargo, sin autorización del superior jerárquico;
+V. Abstenerse de resolver sin causa justificada y en forma reiterada, los asuntos de su competencia dentro (sic) los plazos previstos por la Ley;
 
-VI. No observar las reglas de trato o respeto;
+VI. Incurrir en infracciones graves a la Constitución o a las leyes de la Federación o el Estado causando perjuicios graves a las instituciones democráticas del país, a la sociedad, o motivar alguna deficiencia en el funcionamiento normal de las instituciones del Estado Mexicano, y
 
-VII. Observar falta de respeto e insubordinación a sus superiores o incumplir las disposiciones que éstos dicten en el ejercicio de sus atribuciones;
+VII. Faltar gravemente en el ejercicio de su cargo a la observancia de los principios de legalidad, máxima publicidad, objetividad, eficiencia, profesionalismo, restricciones de contacto, honradez, debido proceso, transparencia y respeto a los derechos humanos.
 
-VIII. Desempeñar otro empleo, cargo o comisión oficial o particular que esta ley prohiba;
-
-IX. No asistir al desempeño de sus funciones o a cursos de capacitación;
-
-X. Las demás que se deriven de la legislación electoral y disposiciones reglamentarias administrativas del propio Tribunal.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### Artículo 55.
 
-Las sanciones aplicables a las faltas administrativas contempladas en el artículo anterior, consistirán en:
+En caso de actualizarse alguno de los supuestos señalados en el artículo anterior, el Pleno del Tribunal, cuando tenga conocimiento de los hechos que actualicen alguna de las causas de procedencia de la remoción y considere que existen elementos de prueba, o cuando medie solicitud debidamente justificada, integrarán el expediente para la instrucción del procedimiento.
 
-I. Amonestación privada o pública;
+El Pleno del Tribunal citará al titular del Órgano Interno de Control a una audiencia, notificándole que deberá comparecer personalmente a rendir su declaración en torno a los hechos que se le imputen y que puedan ser causa de remoción en los términos de esta Ley y demás disposiciones aplicables. La notificación deberá ser personal y expresar el lugar, día y hora en que tendrá verificativo la audiencia, los actos u omisiones que se le imputen y el derecho de éste a comparecer asistido de un defensor.
 
-II. Suspensión de uno a ocho días, sin goce de sueldo;
+Entre la fecha de la citación y la de la audiencia deberá mediar un plazo no menor de diez ni mayor de quince días naturales.
 
-III. Sanción económica;
+Concluida la audiencia, se concederá al titular del Órgano Interno de Control sujeto al proceso de remoción un plazo de cinco días hábiles para que ofrezca los elementos de prueba que estime pertinentes y que tengan relación con los hechos que se le atribuyen, y una vez desahogadas las pruebas que fueren admitidas, dentro de los treinta días naturales siguientes el Pleno del Tribunal por mayoría de votos determinará mediante resolución lo conducente.
 
-IV. Destitución del cargo; e
-
-V. Inhabilitación para ocupar un cargo en los Organos del Tribunal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
-
-Las sanciones previstas en las fracciones IV y V del presente artículo, no le serán aplicables a los Magistrados del Tribunal. Sin embargo, cuando se les aplique cualquier otra sanción, el titular de la Contraloría Interna del Tribunal remitirá un duplicado del expediente a la Legislatura o a la Diputación Permanente, en su caso, para los fines a que haya lugar. Las sanciones serán determinadas y aplicadas tomando en consideración la gravedad de la falta, la incidencia o reincidencia de la misma y el comportamiento del servidor o funcionario del Tribunal durante el desempeño de sus funciones.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+En caso de haber transcurrido más de dos años de la duración del cargo del titular removido, el Pleno del Tribunal designará un nuevo titular para efectos de concluir el periodo.
 
 ###### Artículo 56.
 
-La Contraloría Interna del Tribunal, de oficio, por denuncia o queja recibida, iniciará el procedimiento disciplinario para identificar, investigar, determinar las responsabilidades administrativas en que pudieran haber incurrido los servidores y funcionarios del Tribunal.
-
-Las denuncias o quejas que se formulen, deberán presentarse por escrito los elementos probatorios para establecer la presunción de responsabilidad del servidor o funcionario de que se trate.
-
-Para la determinación de las responsabilidades a que se refiere el presente Capítulo, la Contraloría Interna, deberá otorgarle al servidor o funcionario respectivo, la garantía de audiencia, corriéndole traslado del escrito de denuncia o queja o bien del acta que contenga las razones por las que de oficio se haya iniciado el procedimiento, para que en el término de tres días hábiles manifieste lo que a su derecho corresponda, y ofrezca pruebas de descargo.
-
-Al concluir el procedimiento a que se refiere el artículo anterior, la Contraloría Interna del Tribunal emitirá su resolución a fin de determinar si el servidor o funcionario incurrió o no en falta administrativa, y en su caso, determinar y aplicar las sanciones previstas en el presente capítulo. Contra la determinación de las sanciones no existirá ningún medio de impugnación interno.
+(DEROGADO, P.O. 19 DE JULIO DE 2017)
 
 ## TÍTULO CUARTO. DE LAS RELACIONES LABORALES
 
 ### Capítulo Unico
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+
 ###### Artículo 57.
 
-El Tribunal contará con servidores generales y de confianza, por realizar funciones relacionadas a la impartición de la justicia electoral y por la naturaleza de sus nombramientos. Son servidores de confianza los Secretarios General y Auxiliar de Acuerdos; Jefes de Unidad; los Secretarios de Estudio, Proyectistas, el Titular de la Contraloría Interna, notificadores y personal de la Oficialía de Partes.
+El Tribunal contará con servidores generales y de confianza, por realizar funciones relacionadas a la impartición de la justicia electoral y por la naturaleza de sus nombramientos. Son servidores de confianza los Secretarios General y Auxiliar de Acuerdos, Jefes de Unidad, los Secretarios de Estudio, Proyectistas, el Titular del Órgano Interno de Control, notificadores y personal de la Oficialía de Partes.
 
 ###### Artículo 58.
 
@@ -1058,3 +978,15 @@ P.O. 11 DE NOVIEMBRE DE 2015.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Los Magistrados que no hayan concluido con su período de designación a la fecha del presente decreto, podrán ser revocados de su cargo por la Legislatura del Estado o la Diputación Permanente, en su caso, de conformidad con las disposiciones vigentes al día de su designación.
+
+P.O. 19 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 086 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO; DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE QUINTANA ROO; DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE QUINTANA ROO; DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DE QUINTANA ROO Y DE LA LEY DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo, con la salvedad del artículo transitorio siguiente.
+
+SEGUNDO. Las reformas y adiciones a la Ley Orgánica del Tribunal Electoral de Quintana Roo, entrará en vigor previa su publicación en el Periódico Oficial del Estado de Quintana Roo, el mismo día de la entrada en vigor del Decreto por el que se reforman el párrafo noveno de la fracción II del artículo 49, la fracción XII del artículo 75, la fracción XII del artículo 76 y el inciso c) del artículo 110; y se derogan los párrafos segundo, cuarto y quinto del artículo 110, todos de la Constitución Política del Estado Libre y Soberano de Quintana Roo; y se reforman el párrafo segundo del artículo octavo transitorio, el párrafo primero del artículo décimo transitorio y el artículo décimo segundo transitorio; y se adicionan el párrafo cuarto del artículo octavo transitorio, todos de la declaratoria número: 002 por el que se reforman, derogan y adicionan diversas disposiciones a la Constitución Política del Estado Libre y Soberano de Quintana Roo, en materia de combate a la corrupción, publicado el 03 de julio de 2017 en el Periódico Oficial del Estado de Quintana Roo, número 72 extraordinario, Tomo II, Novena Época.
+
+TERCERO. A la entrada en vigor del presente decreto, quien se encuentre ejerciendo las funciones de contraloría interna del Poder Legislativo asumirá las funciones del órgano interno que se crea, hasta en tanto se realiza la designación del Titular del Órgano Interno de Control del Poder Legislativo del Estado.
+
+CUARTO. Los titulares de los Órganos Internos de Control de los órganos autónomos reconocidos por la Constitución Política del Estado Libre y Soberano de Quintana Roo que resulten designados en virtud del presente Decreto, iniciarán sus funciones de conformidad con lo previsto en el presente Decreto hasta el primero de enero del año dos mil dieciocho.
