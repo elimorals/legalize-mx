@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-la-fiscalia-general-del-estado-de-quintana-roo-115571"
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-05"
-last_updated: "2017-05-12"
+last_updated: "2017-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2017.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 5 de julio de 2016.
 
@@ -36,8 +36,6 @@ LA HONORABLE XIV LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUINT
 D E C R E T A:
 
 ÚNICO. Se expide la Ley de la Fiscalía General del Estado de Quintana Roo, para quedar como sigue:
-
-> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO SEXTO DEL DECRETO NÚMERO 413 POR EL QUE SE EXPIDE LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. 5 DE JULIO DE 2016, LA MENCIÓN DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO O DEL PROCURADOR GENERAL DE JUSTICIA, EN LEYES, REGLAMENTOS Y DEMÁS DISPOSICIONES JURÍDICAS, SE ENTENDERÁN REFERIDAS A LA FISCALÍA GENERAL DEL ESTADO O AL FISCAL GENERAL RESPECTIVAMENTE.]</small>
 
 LEY DE LA FISCALIA GENERAL DEL ESTADO DE QUINTANA ROO
 
@@ -57,9 +55,11 @@ La Fiscalía General del Estado es un organismo constitucional autónomo, con pe
 
 En el ejercicio de sus atribuciones, los servidores públicos de la Fiscalía General del Estado deberán promover, respetar, proteger y garantizar los derechos humanos, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. Asimismo, rigen su actuar los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, imparcialidad, lealtad, confidencialidad, transparencia, responsabilidad y demás que se dispongan en la normatividad aplicable.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+
 ###### Artículo 4.
 
-La Fiscalía General del Estado en el ámbito de su competencia, es integrante del Sistema Nacional de Seguridad Pública y del Consejo Estatal de Seguridad Pública y debe cumplir con sus objetivos y fines, conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Quintana Roo y demás disposiciones aplicables.
+La Fiscalía General del Estado en el ámbito de su competencia, es integrante del Sistema Nacional de Seguridad Pública, del Consejo Estatal de Seguridad Pública y del Sistema Nacional y Estatal Anticorrupción, a través de la Fiscalía Especializada en Combate a la Corrupción del Estado, debiendo cumplir con sus objetivos y fines, conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Quintana Roo y demás disposiciones aplicables.
 
 ###### Artículo 5.
 
@@ -73,7 +73,9 @@ III. Constitución Local: A la Constitución Política del Estado Libre y Sobera
 
 IV. Código Nacional: Al Código Nacional de Procedimientos Penales;
 
-V. (DEROGADA, P.O. 30 DE AGOSTO DE 2016)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE JULIO DE 2017)</small>
+
+V. Órgano Interno de Control: El Órgano Interno de control de la Fiscalía General del Estado.
 
 VI. Dirección de Investigación: A la Dirección de Investigación de la Fiscalía General del Estado;
 
@@ -83,21 +85,45 @@ VIII. Fiscal: A quien ejerza las funciones señaladas para el Ministerio Publico
 
 IX. Fiscal General: Al titular de la Fiscalía General del Estado;
 
-X. Fiscalía General del Estado: Al organismo constitucional autónomo denominado Fiscalía General del Estado de Quintana Roo;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE JULIO DE 2017)</small>
 
-XI. Instituto: Al Instituto del Servicio Profesional de Carrera de la Fiscalía General del Estado;
+X. Fiscal Especializado en Combate a la Corrupción: Al titular de la Fiscalía Especializada en Combate a la Corrupción.
 
-XII. Ley: A la Ley de la Fiscalía General del Estado de Quintana Roo;
+> <small>(REFORMADA [N. DE REUBICADA], P.O. 19 DE JULIO DE 2017)</small>
 
-XIII. Perito: A los integrantes de los cuerpos de investigación técnica y científica de la Fiscalía General del Estado;
+XI. Fiscalía General del Estado: Al organismo constitucional autónomo denominado Fiscalía General del Estado de Quintana Roo.
 
-XIV. Personal Sustantivo: A los Fiscales, Peritos y Policías Ministeriales de Investigación, que se encuentran sujetos al Servicio Profesional de Carrera de la Fiscalía General del Estado;
+> <small>(REFORMADA [N. DE ADICIONADA], P.O. 19 DE JULIO DE 2017)</small>
 
-XV. Policía Ministerial: A los integrantes del cuerpo de la Policía Ministerial de Investigación de la Fiscalía General del Estado;
+XII. Fiscalía Especializada en Combate a la Corrupción: Al Órgano de la Fiscalía General, con autonomía técnica y operativa para investigar y perseguir los hechos que la ley considera como delitos de su competencia.
 
-XVI. Reglamento Interior: Al Reglamento Interior de la Fiscalía General del Estado, y
+> <small>(REFORMADA [N. DE REUBICADA], P.O. 19 DE JULIO DE 2017)</small>
 
-XVII. Servicio Profesional: Al Servicio Profesional de Carrera de la Fiscalía General del Estado.
+XIII. Instituto: Al Instituto del Servicio Profesional de Carrera de la Fiscalía General del Estado.
+
+> <small>(REFORMADA [N. DE REUBICADA], P.O. 19 DE JULIO DE 2017)</small>
+
+XIV. Ley: A la Ley de la Fiscalía General del Estado de Quintana Roo.
+
+> <small>(REFORMADA [N. DE REUBICADA], P.O. 19 DE JULIO DE 2017)</small>
+
+XV. Perito: A los integrantes de los cuerpos de investigación técnica y científica de la Fiscalía General del Estado.
+
+> <small>(REFORMADA [N. DE REUBICADA], P.O. 19 DE JULIO DE 2017)</small>
+
+XVI. Personal Sustantivo: A los Fiscales, Peritos y Policías Ministeriales de Investigación, que se encuentran sujetos al Servicio Profesional de Carrera de la Fiscalía General del Estado;
+
+> <small>(REFORMADA [N. DE REUBICADA], P.O. 19 DE JULIO DE 2017)</small>
+
+XVII. Policía Ministerial: A los integrantes del cuerpo de la Policía Ministerial de Investigación de la Fiscalía General del Estado.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 19 DE JULIO DE 2017)</small>
+
+XVIII. Reglamento Interior: Al Reglamento Interior de la Fiscalía General del Estado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 19 DE JULIO DE 2017)</small>
+
+XIX. Servicio Profesional: Al Servicio Profesional de Carrera de la Fiscalía General del Estado.
 
 ### Capítulo Segundo. De las funciones de la Fiscalía General del Estado
 
@@ -299,7 +325,9 @@ XI. El Instituto de Formación Profesional e Investigación Jurídica;
 
 XII. La Dirección de Administración y Planeación;
 
-XIII. (DEROGADA, P.O. 30 DE AGOSTO DE 2016)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE JULIO DE 2017)</small>
+
+XIII. El Órgano Interno de Control.
 
 XIV. La Dirección de Participación Ciudadana, Prevención del Delito y Servicios a la Comunidad;
 
@@ -331,11 +359,21 @@ XXVI. La Fiscalía Especializada en Materia de Delitos Electorales;
 
 XXVII. Fiscalía Especializada para la Atención de Delitos contra la Mujer y por Razones de Género;
 
-XXVIII. Unidad de Transparencia;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE JULIO DE 2017)</small>
 
-XXIX. El Secretario Particular del Fiscal General, y
+XXVIII. La Fiscalía Especializada en Combate a la Corrupción.
 
-XXX. Los Asesores de la Fiscalía General.
+(REUBICADA, P.O. 19 DE JULIO DE 2017)
+
+XXIX.- Unidad de Transparencia.
+
+(REUBICADA, P.O. 19 DE JULIO DE 2017)
+
+XXX.- El Secretario Particular del Fiscal General, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 19 DE JULIO DE 2017)</small>
+
+XXXI.- Los Asesores de la Fiscalía General.
 
 ###### Artículo 8.
 
@@ -350,6 +388,10 @@ II. La Vice-Fiscalía de la Zona Sur, con sede en la ciudad de Chetumal y con ju
 III. La Vice-Fiscalía de la Zona Centro, con sede en la ciudad de Felipe Carrillo Puerto y con jurisdicción territorial en los municipios de Felipe Carrillo Puerto y José María Morelos;
 
 IV. La Vice-Fiscalía de la Zona Norte, con sede en la ciudad de Playa del Carmen y con jurisdicción territorial en los municipios de Tulum, Solidaridad, Cozumel, Puerto Morelos, Benito Juárez, Isla Mujeres y Lázaro Cárdenas.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+
+Los Ministerios Públicos del Servicio Profesional de Carrera deberán de acreditar además de los requisitos que señala el artículo 73 de la presente ley, ser quintanarroenses con una residencia de cinco años en el Estado.
 
 ### Capítulo Segundo. Del Fiscal General del Estado
 
@@ -719,6 +761,18 @@ X. Suplir las ausencias temporales del Vice Fiscal de zona que le corresponda, d
 
 XI. Las demás que le confieran las disposiciones legales aplicables, el reglamento interior y las que le encomiende el Fiscal General.
 
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+
+Los delitos en que incurran los servidores públicos de la Dirección Jurídica y de Vinculación Institucional incluyendo a su titular serán investigados y perseguidos por el Fiscal General del Estado o por el servidor público en quien se delegue la facultad.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+
+Las faltas administrativas que cometan los servidores públicos de la Dirección Jurídica y de Vinculación Institucional incluyendo a su titular, en términos de lo previsto en la Ley General de Responsabilidades Administrativas y Ley de Responsabilidades Administrativas del Estado de Quintana Roo, serán investigadas y sustanciadas por el Fiscal General del Estado o por el servidor público en quien se delegue la facultad, quien podrá imponer las sanciones que correspondan.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+
+Cuando la Dirección Jurídica y de Vinculación Institucional tenga conocimiento de hechos que pudieran ser constitutivos de una falta administrativa, sin perjuicio de sus facultades establecidas en esta ley, deberá presentar la denuncia correspondiente como parte ante el Órgano Interno de Control de la Fiscalía General del Estado, para que éste proceda en los términos de la legislación en materia de responsabilidades administrativas.
+
 ### Capítulo Octavo. Del Instituto de Formación Profesional e Investigación Jurídica
 
 ###### Artículo 20.
@@ -789,25 +843,163 @@ XIX. Gestionar el pago de viáticos y gastos que correspondan a las actividades 
 
 XX. Las demás que le confieran las disposiciones legales aplicables, el reglamento interior y las que le encomiende el Fiscal General.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JULIO DE 2017)</small>
 
-### Capítulo Décimo. De la Contraloría Interna de la Fiscalía General del Estado
+### Capítulo Décimo. Del Órgano Interno de Control de la Fiscalía General del Estado
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE JULIO DE 2017)</small>
 
 ###### Artículo 22.
 
-(DEROGADO, P.O. 30 DE AGOSTO DE 2016)
+El Órgano Interno de Control de la Fiscalía es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones, estará adscrito administrativamente a la Fiscalía General del Estado, sin que esto se traduzca en subordinación alguna. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos de la Fiscalía General del Estado; para sancionar aquellas distintas a las que son competencia del Fiscal General; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
+
+El Órgano Interno de Control, su titular y el personal adscrito al mismo, estarán impedidos de intervenir o interferir en forma alguna en el desempeño de las facultades y ejercicio de atribuciones que esta Ley y las demás disposiciones aplicables confieren a los servidores públicos de la Fiscalía General del Estado.
+
+El Órgano Interno de Control tendrá un titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto.
+
+En el desempeño de su cargo, el Titular del Órgano Interno de Control se sujetará a los principios previstos en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE JULIO DE 2017)</small>
 
 ###### Artículo 23.
 
-(DEROGADO, P.O. 30 DE AGOSTO DE 2016)
+El titular del Órgano Interno de Control, durará en su encargo cuatro años sin posibilidad de reelección y deberá reunir los siguientes requisitos:
+
+I.- Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
+
+II.- Tener treinta años de edad cumplidos el día de la designación;
+
+III.- Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año;
+
+IV.- Contar al momento de su designación con una experiencia en el control, manejo o fiscalización de recursos, responsabilidades administrativas, contabilidad gubernamental, auditoría gubernamental, obra pública, adquisiciones o arrendamientos;
+
+V.- Contar al día de su designación, con antigüedad mínima de cinco años, con título profesional relacionado con las actividades a que se refiere la fracción anterior, expedido por autoridad o institución legalmente facultada para ello;
+
+VI.- No pertenecer o haber pertenecido en los dos años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios a la Fiscalía General del Estado, o haber fungido como consultor o auditor externo del mismo, en lo individual durante ese periodo;
+
+VII.- No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, y
+
+VIII.- Durante los dos años anteriores a la designación no haber desempeñado cargo de elección popular federal, estatal o municipal, haber sido dirigente nacional, estatal o municipal o responsable del manejo de los recursos públicos de algún partido político, ni haber participado como candidato a cargo de elección popular alguno.
+
+El titular del Órgano Interno de Control no podrá durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+
+###### Artículo 23 Bis.
+
+El titular del Órgano Interno de Control de la Fiscalía General será sujeto de responsabilidad en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado.
+
+Tratándose de los demás servidores públicos adscritos al Órgano Interno de Control de la Fiscalía General serán sancionados por el Titular del Órgano Interno de Control, o el servidor público en quien delegue la facultad, en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE JULIO DE 2017)</small>
 
 ###### Artículo 24.
 
-(DEROGADO, P.O. 30 DE AGOSTO DE 2016)
+La designación del titular del Órgano Interno de Control se llevará a cabo de conformidad con el procedimiento siguiente:
+
+I.- La Mesa Directiva de la Legislatura o la Diputación Permanente, a propuesta de Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos, expedirá una convocatoria pública en la que se establecerán los medios idóneos para acreditar el cumplimiento de los requisitos de elegibilidad, así como los plazos y términos de participación para la elección del titular del Órgano Interno de Control, misma que deberá publicarse el mismo día de su emisión, en la página web del Poder Legislativo, en dos periódicos de mayor circulación y para mayor publicidad a través de sus redes sociales.
+
+II.- Las solicitudes deberán ser dirigidas a la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos, presentarse dentro de los cinco días hábiles contados a partir del día siguiente de la fecha de emisión de la convocatoria, así como estar debidamente suscritas por el solicitante.
+
+III.- La Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos, procederá a la revisión y análisis de las mismas, entrevistando de manera pública a cada uno de los aspirantes que hayan cumplido con los requisitos exigidos para el cargo.
+
+Una vez vencido el plazo para la presentación de las solicitudes, dentro de los cinco días hábiles siguientes, dicha Comisión procederá a presentar el dictamen con una terna conformada por los candidatos que resulten idóneos, ante la Legislatura del Estado o la Diputación Permanente, en su caso, para la designación correspondiente.
+
+IV.- Aprobada la designación el titular rendirá la protesta de ley ante la Legislatura o la Diputación Permanente, en su caso.
+
+Dicha designación deberá publicarse en el Periódico Oficial del Estado de Quintana Roo, señalando el inicio y fin del periodo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE JULIO DE 2017)</small>
 
 ###### Artículo 25.
 
-(DEROGADO, P.O. 30 DE AGOSTO DE 2016)
+El Órgano Interno de Control, a través de su titular, tendrá las siguientes atribuciones:
+
+I.- Las que contempla la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Quintana Roo.
+
+II.- Prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos de la Fiscalía General del Estado y de particulares vinculados con faltas graves; para sancionar aquéllas distintas a las que son competencia del Tribunal de Justicia Administrativa del Estado.
+
+III.- Resolver sobre la responsabilidad de los servidores públicos de la Fiscalía General del Estado e imponer en su caso las sanciones administrativas que correspondan.
+
+IV.- Presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción o la Fiscalía General del Estado, según corresponda.
+
+V.- Verificar que el ejercicio del gasto de la Fiscalía General del Estado se realice conforme a la normatividad aplicable, los programas aprobados y montos autorizados.
+
+VI.- Presentar al Fiscal General los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes de la Fiscalía General.
+
+VII.- Revisar que las operaciones presupuestales que realicé la Fiscalía General del Estado, se hagan con apego a las disposiciones legales y administrativas aplicables y, en su caso, determinar las desviaciones de las mismas y las causas que les dieron origen.
+
+VIII.- Promover ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorías.
+
+IX.- Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos de la Fiscalía General del Estado.
+
+X.- Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos, empleando la metodología que éste determine.
+
+XI.- Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos de la Fiscalía General del Estado, empleando la metodología que determine.
+
+XII.- Recibir tramitar, investigar y resolver, en su caso, las quejas, sugerencias y denuncias en contra de los servidores públicos de la Fiscalía General del Estado, conforme a las leyes aplicables.
+
+XIII.- Solicitar la información y efectuar visitas a las áreas y órganos de la Fiscalía General del Estado para el cumplimento de sus funciones.
+
+XIV.- Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en materia de adquisiciones, arrendamientos, servicio y obras públicas.
+
+XV.- Intervenir en los actos de entrega-recepción de los servidores públicos de la Fiscalía General del Estado de mandos medios y superiores.
+
+XVI.- Atender las solicitudes de los diferentes órganos de la Fiscalía General del Estado en los asuntos de su competencia.
+
+XVII.- Proponer los proyectos de modificación o actualización de su estructura orgánica, personal y/o recursos al Fiscal General.
+
+XVIII.- Formular su anteproyecto de presupuesto al Fiscal General.
+
+XIX.- Presentar al Fiscal General, en la primera semana hábil del ejercicio fiscal siguiente que corresponde, un informe anual de resultados de su gestión, y comparecer ante el mismo, cuando así lo requiera el Presidente.
+
+XX.- Presentar al Fiscal General en la primera semana hábil del ejercicio fiscal siguiente que corresponde un informe anual respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas.
+
+XXI.- Inscribir y mantener actualizada la información correspondiente del sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal; de todos los servidores públicos de la Fiscalía General del Estado, de conformidad con las leyes aplicables, y
+
+XXII.- Las demás que le confieran otros ordenamientos.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+
+###### Artículo 25 Bis.
+
+El Órgano Interno de Control será removido de su cargo por la Legislatura por la Diputación Permanente (sic), o en su caso, por las siguientes causas:
+
+I.- Incurrir en violaciones graves a los derechos humanos, previstos por la Constitución y los tratados internacionales de los que el Estado Mexicano sea parte.
+
+II.- Incurrir en responsabilidad administrativa grave en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Quintana Roo.
+
+III.- Haber sido condenado por delito doloso.
+
+IV.- Utilizar, en beneficio propio o de terceros, la información confidencial o reservada de que disponga en razón de su cargo, así como divulgar la mencionada información en contravención a la Ley.
+
+V.- Abstenerse de resolver sin causa justificada y en forma reiterada, los asuntos de su competencia dentro (sic) los plazos previstos por la Ley.
+
+VI.- Incurrir en infracciones graves a la Constitución o a las leyes de la Federación o el Estado causando perjuicios graves a las instituciones democráticas del país, a la sociedad, o motivar alguna deficiencia en el funcionamiento normal de las instituciones del Estado Mexicano, y
+
+VII.- Faltar gravemente en el ejercicio de su cargo a la observancia de los principios de legalidad, máxima publicidad, objetividad, eficiencia, profesionalismo, restricciones de contacto, honradez, debido proceso, transparencia y respeto a los derechos humanos.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+
+###### Artículo 25 Ter.
+
+En caso de actualizarse alguno de los supuestos señalados en el artículo anterior, el Fiscal General, cuando tenga conocimiento de los hechos que actualicen alguna de las causas de procedencia de la remoción y considere que existen elementos de prueba, o cuando medie solicitud debidamente justificada, notificará inmediatamente al Presidente de la Mesa Directiva de la Legislatura o de la Diputación Permanente; en su caso, acompañando el expediente del asunto.
+
+El Presidente de la Mesa Directiva turnará el expediente a la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos para que sea instructora en el procedimiento.
+
+Dicha Comisión citará al titular del Órgano Interno de Control a una audiencia, notificándole que deberá comparecer personalmente a rendir su declaración en torno a los hechos que se le imputen y que puedan ser causa de remoción en los términos de esta Ley y demás disposiciones aplicables. La notificación deberá ser personal y expresar el lugar, día y hora en que tendrá verificativo la audiencia, los actos u omisiones que se le imputen y el derecho de éste a comparecer asistido de un defensor.
+
+Entre la fecha de la citación y la de la audiencia deberá mediar un plazo no menor de diez ni mayor de quince días naturales.
+
+Concluida la audiencia, se concederá al titular del Órgano Interno de Control sujeto al proceso de remoción un plazo de cinco días hábiles para que ofrezca los elementos de prueba que estime pertinentes y que tengan relación con los hechos que se le atribuyen, y una vez desahogadas las pruebas que fueren admitidas, la Comisión, dentro de los treinta días naturales siguientes someterá el dictamen con proyecto de resolución a la Legislatura o a la Diputación Permanente, en su caso, quien resolverá la remoción. Aprobada la remoción, ésta quedará firme y será notificada al Fiscal General para los efectos legales que correspondan.
+
+En caso de haber transcurrido más de dos años de la duración del cargo del titular removido, la Legislatura o la Diputación Permanente designará un nuevo titular para efectos de concluir el periodo.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+
+###### Artículo 25 Quater.
+
+La Fiscalía General del Estado aplicará de manera supletoria la ley en materia de responsabilidades administrativas que corresponda en el ámbito local, para desahogar el procedimiento sancionatorio previsto en el artículo anterior de esta Ley.
 
 ### Capítulo Décimo Primero
 
@@ -901,7 +1093,7 @@ IV. Resolver sobre las formas de terminación de la investigación, salidas alte
 
 V. Llevar a cabo las diligencias necesarias ante la Procuraduría de la Defensa del Menor y la Familia, cuando sea procedente conforme a las disposiciones legales aplicables;
 
-VI. Vigilar el respeto de los derechos humamos de los adolescentes involucrados en los procedimientos de investigación que sean de su competencia.
+VI. Vigilar el respeto de los derechos humanos de los adolescentes involucrados en los procedimientos de investigación que sean de su competencia.
 
 VII. Resolver dentro de los plazos y términos previstos en la Ley, la situación jurídica de los adolescentes que sean puestos a su disposición;
 
@@ -1373,15 +1565,143 @@ XIV. Las demás que le atribuyan los tratados internacionales en los que México
 
 El o la titular de la Fiscalía Especializada contará con el apoyo de la Dirección de Investigación y Acusación, Policía Ministerial, de las Unidades Administrativas que considere el Fiscal General del Estado, y demás personal que requiera para el cumplimiento de sus funciones. En todo caso, el personal adscrito a esta Fiscalía deberá contar con el perfil especializado que garantice la aplicación de la perspectiva de género en su desempeño, así como con los conocimientos en derechos humanos, que les permitan atender los compromisos internacionales, en materia de su competencia y desarrollar sus labores, en el marco de los estándares internacionales, reconocidos por México en este rubro.
 
-### Capítulo Vigésimo Quinto. De la Unidad de Transparencia
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE JULIO DE 2017)</small>
 
-### Capítulo Vigésimo Sexto. Del Secretario Particular del Fiscal General
+### Capítulo Vigésimo Quinto. De la Fiscalía Especializada en Combate a la Corrupción
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+
+###### Artículo 58 Quinquies.
+
+La Fiscalía Especializada en Combate a la Corrupción estará adscrita al Fiscal General y tendrá por objeto la investigación y persecución de los delitos establecidos en la Sección Cuarta del Libro Segundo del Código Penal para el Estado Libre y Soberano de Quintana Roo, así como cualquier otro delito cometido por servidor público del Estado en el desempeño de un empleo, cargo o comisión.
+
+El Fiscal Especializado en Combate a la Corrupción para ejercer el cargo, deberá cubrir los mismos requisitos para ser Fiscal General, de conformidad al artículo 96 de la Constitución Local y durará en su encargo siete años sin posibilidad de ser reelecto y tendrá nivel de Vice-Fiscal.
+
+El titular de la Fiscalía Especializada en Combate a la Corrupción será nombrado conforme al siguiente procedimiento:
+
+I.- El Fiscal General del Estado remitirá a la Legislatura del Estado una terna que deberá acompañarse de los documentos que sustenten el cumplimiento de los requisitos de elegibilidad.
+
+II.- Una vez recibida la terna por parte de la Legislatura, ésta será turnada a las Comisiones Anticorrupción, Participación Ciudadana y Órganos Autónomos y de Justicia, para efecto de verificar el cumplimiento de los requisitos. La designación deberá realizarse dentro de los diez días hábiles posteriores.
+
+Si de la verificación realizada, las Comisiones advierten que algún integrante de la terna propuesta no sustenta debidamente el cumplimiento de los requisitos de elegibilidad, notificará al Fiscal General para que en un plazo de tres días hábiles subsane la observación o sustituya a la persona propuesta.
+
+III.- Una vez llevado a cabo lo dispuesto en la fracción anterior, las Comisiones elaborarán un dictamen que se someterá a la consideración de la Legislatura o de la Diputación Permanente, en su caso, la cual previa comparecencia de las personas que integran la terna, hará la designación con el voto de las dos terceras partes de sus miembros.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+
+###### Artículo 58 Sexies.
+
+La Fiscalía Especializada en Combate a la Corrupción, tendrá autonomía técnica y operativa, con las facultades previstas constitucionalmente al Ministerio Público, y tiene por objeto planear y conducir las acciones encaminadas a la atención, investigación, persecución y prosecución de delitos de su competencia.
+
+Contará con el personal sustantivo, directivo, administrativo y auxiliar capacitado para el debido cumplimiento de sus funciones, así como con las unidades administrativas necesarias para el seguimiento de las investigaciones.
+
+La Fiscalía Especializada en Combate a la Corrupción para el desarrollo de sus funciones se auxiliará de la Dirección de Servicios Periciales, la cual, en su caso, deberá dar trámite y desahogo al peritaje solicitado en el término que al efecto establezca el Ministerio Público y que resulte acorde con la complejidad del peritaje a realizar.
+
+Asimismo, la Fiscalía contará con Agentes del Ministerio Público Especializados en combate a los hechos que la ley considera como delitos de su competencia.
+
+Su titular presentará anualmente al Fiscal General del Estado un informe sobre actividades sustantivas y sus resultados, el cual será público, en términos de lo previsto en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Quintana Roo, y demás disposiciones aplicables en la materia. Dicho informe será remitido a su vez, al Comité Coordinador del Sistema Estatal Anticorrupción y a la Legislatura del Estado.
+
+El titular de la Fiscalía Especializada en Combate a la Corrupción al igual que su personal de confianza, agentes del Ministerio Público, agentes de la Policía Ministerial, así como los peritos asignados a esta área, estarán sujetos a la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado. Su actuación será fiscalizada por la Auditoría Superior del Estado y el Órgano Interno de Control, conforme a sus respectivas competencias.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+
+###### Artículo 58 Sépties.
+
+Para el desarrollo de sus funciones la Fiscalía Especializada en Combate a la Corrupción contará con las Unidades Especializadas en Investigación de "Delitos Cometidos por Servidores Públicos" así como la de "Delitos Cometidos contra la Administración de Justicia".
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+
+###### Artículo 58 Octies.
+
+El Fiscal Especializado en Combate a la Corrupción, respecto de los asuntos materia de su competencia, ejercerá las facultades siguientes:
+
+I.- Planear, programar, organizar y dirigir el funcionamiento de la Fiscalía Especializada en Combate a la Corrupción.
+
+II.- Ejercer las atribuciones que la Constitución, las leyes, los Reglamentos y demás disposiciones jurídicas confieren al Ministerio Público en lo relativo a los hechos que la Ley considera como delitos de su competencia, con excepción de los cometidos por servidores públicos de la Fiscalía General del Estado, supuesto en el cual se estará a lo dispuesto en el artículo 19 de esta ley.
+
+III.- Participar como integrante en el Comité Coordinador del Sistema Estatal Anticorrupción, atendiendo las bases establecidas en el artículo 161 de la Constitución Política del Estado Libre y Soberano de Quintana Roo y en la Ley del Sistema Anticorrupción del Estado.
+
+IV.- Nombrar, previo acuerdo con el Fiscal General, a los titulares de las unidades administrativas y direcciones generales de la Fiscalía Especializada en Combate a la Corrupción, salvo aquellas que no realicen funciones sustantivas, en cuyo caso, el nombramiento y su remoción serán exclusivos del Fiscal Especializado en Combate a la Corrupción.
+
+V.- Contar con los agentes del Ministerio Público y policías ministeriales, miembros del servicio profesional de carrera, que le estarán adscritos y resulten necesarios para la atención de los casos que correspondan a la Fiscalía Especializada en Combate a la Corrupción, sobre los que ejercerá mando directo en términos de lo dispuesto por esta Ley y su reglamento.
+
+VI.- Proponer al Fiscal General el nombramiento de los agentes del Ministerio Público por designación especial que reúnan amplia experiencia profesional en la materia de corrupción, en términos de lo dispuesto por los artículos 77 y 78 de esta Ley.
+
+VII.- Proponer a la unidad administrativa competente el contenido teórico práctico de los programas de capacitación, actualización y especialización a que se refiere el artículo 72 de esta Ley, respecto de los agentes del Ministerio Público adscritos a la Fiscalía Especializada en Combate a la Corrupción.
+
+VIII.- Coordinar y supervisar la actuación de los miembros de las policías y servicios periciales en el ámbito de su competencia.
+
+IX.- Diseñar e implementar estrategias y líneas de acción para combatir los hechos que la Ley considera como delitos de su competencia.
+
+X.- Implementar planes y programas destinados a detectar la comisión de los hechos que la Ley considera como delitos de su competencia en el ámbito de su competencia. Dichos planes y programas deberán ser aprobados por el Fiscal General.
+
+XI.- Instrumentar mecanismos de colaboración con otras autoridades para la elaboración de estrategias y programas tendientes a combatir los hechos que la Ley considera como delitos de su competencia.
+
+XII.- Emitir o suscribir los acuerdos, circulares, instructivos, bases y demás normas administrativas o instrumentos jurídicos necesarios que rijan la actuación de la Fiscalía Especializada en Combate a la Corrupción en el ámbito de su competencia.
+
+Los acuerdos, circulares, instructivos, bases y demás normas administrativas emitidas por parte del Fiscal Especializado en Combate a la Corrupción, que sean necesarios para regular la actuación de la Fiscalía Especializada en Combate a la Corrupción a su cargo en ningún caso podrán contradecir las normas administrativas emitidas por el Fiscal General.
+
+En su caso, se propondrá al Fiscal General la actualización, derogación o abrogación de las normas expedidas por éste.
+
+XIII.- Fortalecer e implementar, en el ámbito de su competencia, mecanismos de cooperación y colaboración con autoridades de los tres órdenes de gobierno para la investigación de los hechos que la ley considera como delitos de su competencia.
+
+XIV.- Diseñar e implementar proyectos, estudios y programas permanentes de información y fomento de la cultura de la denuncia y de la legalidad en materia de los hechos que la Ley considera como delitos de su competencia.
+
+XV.- Implementar mecanismos de colaboración con autoridades que ejerzan facultades de fiscalización a fin de fortalecer el desarrollo de las investigaciones.
+
+XVI.- Requerir a las instancias de gobierno la información que resulte útil o necesaria para sus investigaciones, la que por ningún motivo le podrá ser negada, incluso anteponiendo el secreto bancario, fiduciario o cualquiera otro de similar naturaleza.
+
+XVII.- Diseñar, integrar e implementar sistemas y mecanismos de análisis de la información fiscal, financiera y contable para que pueda ser utilizada por ésta y otras unidades competentes de la Fiscalía General del Estado, en especial la relacionada con la investigación de los hechos que la Ley considera como delitos de su competencia;
+
+XVIII.- Coadyuvar con otras áreas competentes de la Fiscalía General del Estado, en el desarrollo de herramientas de inteligencia con metodologías interdisciplinarias de análisis e investigación de las distintas variables criminales, socioeconómicas y financieras, para conocer la evolución de las actividades relacionadas con los hechos que la Ley considera como delitos de su competencia.
+
+XIX.- Generar sus propias herramientas metodológicas para el efecto de identificar los patrones de conducta que pudieran estar relacionados con operaciones con recursos de procedencia ilícita.
+
+XX.- Emitir guías y manuales técnicos, en conjunto con la Dirección de Servicios Periciales en materia financiera para la formulación de dictámenes fiscales, financieros y contables que requieran los agentes del Ministerio Público en el cumplimiento de sus funciones de investigación y persecución de los hechos que la ley considera como delitos de su competencia.
+
+XXI.- Conducir la investigación para la obtención de datos o medios de prueba vinculados a hechos que la ley considera como delitos de su competencia.
+
+XXII.- Suscribir programas de trabajo y proponer al Fiscal General la celebración de convenios con otras entidades federativas para tener acceso directo a la información disponible en los Registros Públicos de la Propiedad, así como de las unidades de inteligencia patrimonial, para la investigación y persecución de los hechos que la Ley considera como delitos de su competencia.
+
+XXIII.- Ordenar el aseguramiento de bienes propiedad del imputado, así como de aquellos respecto de los cuales se conduzcan como dueños, o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga al producto, los instrumentos u objetos del hecho delictivo cuando éstos hayan desaparecido o no se localicen por causa atribuible al imputado.
+
+XXIV.- Promover la extinción de dominio de los bienes de los imputados o sentenciados, así como de aquellos respecto de los cuales se conduzcan como dueños, o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga a los bienes desaparecidos o no localizados por causa atribuible al imputado o sentenciado, cuando estos bienes estén vinculados con hechos que la ley considera como delitos de su competencia que sean susceptibles de la acción de extinción de dominio, en los términos de la legislación aplicable.
+
+XXV.- Decidir responsablemente sobre el destino de los recursos que le sean asignados, a fin de cubrir todas las necesidades que surjan en el desempeño de sus facultades.
+
+XXVI.- Formular los requerimientos de información y de documentos relativos al sistema financiero o de naturaleza fiscal, a que se refiere el artículo 142, fracción II, de la Ley de Instituciones de Crédito y demás disposiciones homólogas.
+
+XXVII.- Solicitar a las instancias de gobierno de otras entidades federativas, la información que resulte útil o necesaria para sus investigaciones, la que por ningún motivo le podrá ser negada, incluso anteponiendo el secreto bancario, fiduciario, industrial, fiscal, bursátil, postal o cualquiera otro de similar naturaleza.
+
+XXVIII.- Dictar las medidas precautorias y promover los mecanismos necesarios para la reparación del daño.
+
+XXIX.- Autorizar la consulta de reserva, incompetencia, acumulación, y separación de las investigaciones, archivo temporal, criterio de oportunidad, acuerdo reparatorio y procedimiento abreviado que propongan los agentes del Ministerio Público Federal y Estatal de su adscripción.
+
+XXX.- Autorizar en definitiva que los agentes del Ministerio Público Federal y Estatal decreten el no ejercicio de la acción penal, de conformidad a la disposición procesal penal correspondiente.
+
+XXXI.- Autorizar la formulación de conclusiones no acusatorias en los procesos penales o, en su caso, la solicitud del desistimiento de la acción penal ante el órgano jurisdiccional que establece el artículo 144 del Código Nacional de Procedimientos Penales.
+
+XXXII.- Resolver en definitiva las consultas que agentes del Ministerio Público adscritos a ésta Fiscalía Especializada en Combate a la Corrupción formulen a las prevenciones que la autoridad judicial acuerde en los términos que la Ley disponga, respecto de la omisión de formular conclusiones en el plazo legal, de conclusiones presentadas en un proceso penal, o de actos cuya consecuencia sea el sobreseimiento del proceso o la libertad absoluta del inculpado antes de que se pronuncie sentencia; de cancelación o reclasificación de órdenes de aprehensión.
+
+XXXIII.- Diseñar, establecer e implementar mecanismos de cooperación y colaboración con autoridades federales, estatales y municipales, en el ámbito de su competencia, atendiendo a las normas y políticas institucionales.
+
+XXXIV.- Proponer la celebración de convenios con instituciones u organismos públicos o privados y nacionales, en el ámbito de su competencia.
+
+XXXV.- Participar con las unidades administrativas y órganos competentes de la Fiscalía General del Estado, en el diseño de esquemas de capacitación, actualización y especialización en la materia de prevención y combate a la corrupción.
+
+XXXVI.- Supervisar y ejercer las facultades que correspondan a las unidades administrativas que le estén adscritas, sin perjuicio de que sean desempeñadas por sus respectivos titulares.
+
+XXXVII.- Diseñar e implementar mecanismos de colaboración con autoridades que ejerzan facultades de fiscalización a fin de fortalecer el desarrollo de las investigaciones, y
+
+XXXVIII.- Las demás que en su caso le confieran otras disposiciones legales aplicables o le encomiende el Fiscal General.
+
+### Capítulo Vigésimo Sexto. De la Unidad de Transparencia
 
 ###### Artículo 59.
 
 La Unidad de Transparencia de la Fiscalía General del Estado, es la responsable de la atención de las solicitudes de información que reciba la misma en términos de la ley de la materia.
 
-### Capítulo Vigésimo Séptimo. De los Asesores de la Fiscalía General
+### Capítulo Vigésimo Séptimo. Del Secretario Particular del Fiscal General
 
 ###### Artículo 60.
 
@@ -1425,7 +1745,7 @@ XVIII. Compilar los índices de los expedientes clasificados como reservados y a
 
 XIX. Las demás que se desprendan de la normatividad aplicable o que le señale el Fiscal General.
 
-### Capítulo Primero. De los requisitos del personal
+### Capítulo Vigésimo Octavo. De los Asesores de la Fiscalía General
 
 ###### Artículo 61.
 
@@ -1451,7 +1771,7 @@ IX. Convocar y verificar la asistencia puntual de los servidores públicos citad
 
 X. Las demás que le confiera el Fiscal General.
 
-### Capítulo Segundo. De la organización del personal
+### Capítulo Primero. De los requisitos del personal
 
 ###### Artículo 62.
 
@@ -1471,7 +1791,7 @@ VI. Las demás que le sean encomendadas por el Fiscal General.
 
 ## Título Cuarto. Del régimen del personal
 
-### Capítulo Tercero. Del Servicio Profesional de Carrera de la Fiscalía General del Estado
+### Capítulo Segundo. De la organización del personal
 
 ###### Artículo 63.
 
@@ -1511,7 +1831,7 @@ IX. Ser de notoria buena conducta, honradez y probidad.
 
 Los Directores, Titulares de los Centros y Fiscalías, Titular de Unidad así como el demás personal de la Fiscalía General del Estado, deberán cumplir con los requisitos que se señalen para su nombramiento, estipulados en el reglamento interior y en las demás disposiciones aplicables.
 
-### Capítulo Primero. Del Consejo de Profesionalización, Honor y Justicia
+### Capítulo Tercero. Del Servicio Profesional de Carrera de la Fiscalía General del Estado
 
 ###### Artículo 67.
 
@@ -1535,7 +1855,7 @@ El personal de la Fiscalía General del Estado, con las excepciones previstas en
 
 El ingreso, promoción, estímulo, evaluación y separación del personal de confianza o de base, se regirá por lo establecido en el reglamento interior y demás disposiciones aplicables.
 
-### Capítulo Segundo. De las excusas e incompatibilidades
+### Capítulo Primero. Del Consejo de Profesionalización, Honor y Justicia
 
 ###### Artículo 71.
 
@@ -1745,9 +2065,11 @@ Los Fiscales del Ministerio Público, elementos de la Policía Ministerial de In
 
 En todo lo no previsto en la presente ley respecto al Servicio Profesional de Carrera, se estará a lo dispuesto por su reglamento y las demás disposiciones aplicables.
 
-## Título Quinto. Del régimen disciplinario
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
-### Capítulo Primero. Del patrimonio
+## Título Quinto. Del Régimen Disciplinario
+
+### Capítulo Segundo. De las excusas e incompatibilidades
 
 ###### Artículo 82.
 
@@ -1757,7 +2079,9 @@ I. El Fiscal General, quien lo presidirá y en su ausencia será suplido por la 
 
 II. Un Vice-Fiscal;
 
-III. (DEROGADA, P.O. 30 DE AGOSTO DE 2016)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE JULIO DE 2017)</small>
+
+III. El Titular del Órgano Interno de Control.
 
 IV. El Director de Investigación y Acusación;
 
@@ -1971,7 +2295,7 @@ Además de lo dispuesto en el artículo anterior, todo el personal de la Fiscal�
 
 Cuando en el desempeño de sus funciones el personal de la Fiscalía General del Estado incurra en el incumplimiento de alguna de las obligaciones señaladas en esta ley, su reglamento interno y demás normatividad aplicable, se iniciará el procedimiento respectivo ante el órgano interno competente de la Fiscalía General del Estado.
 
-### Capítulo Segundo. Del Fondo para el Mejoramiento de la Procuración de Justicia
+### Capítulo Primero. Del patrimonio
 
 ###### Artículo 91.
 
@@ -1986,6 +2310,8 @@ Cuando el servidor público no se excuse, a pesar de tener algún impedimento, l
 El Fiscal General podrá autorizar el desempeño de otro cargo del personal de la Fiscalía General del Estado, cuando el mismo no sea incompatible con sus funciones. No será necesaria la autorización referida, respecto de actividades docentes.
 
 ## Título Sexto. Del patrimonio y presupuesto de la Fiscalía General del Estado
+
+### Capítulo Segundo. Del Fondo para el Mejoramiento de la Procuración de Justicia
 
 ###### Artículo 94.
 
@@ -2039,7 +2365,9 @@ II. Uno de los Vice-Fiscales, designado por el Fiscal General;
 
 III. El Director de Administración y Planeación;
 
-IV. (DEROGADA, P.O. 30 DE AGOSTO DE 2016)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE JULIO DE 2017)</small>
+
+IV. El Titular del Órgano Interno de Control, y
 
 V. Un Secretario Técnico, quién tendrá voz pero no voto.
 
@@ -2191,8 +2519,20 @@ SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan
 
 P.O. 12 DE MAYO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 058 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LEY DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 058 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LEY DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO”.]
 
 PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
+
+P.O. 19 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 087 POR EL QUE SE REFORMAN, Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. La Secretaría de Finanzas y Planeación, realizará las acciones necesarias para proveer de recursos humanos, financieros, tecnológicos y materiales a la Fiscalía General del Estado, en virtud de la creación de la Fiscalía Especializada de Combate a la Corrupción. El presupuesto aprobado deberá cubrir los capítulos de servicios personales, materiales y suministros, así como de servicios generales necesarios para cumplir con sus funciones.
+
+TERCERO. Dentro del término de noventa días siguientes al inicio de la vigencia de (sic) del presente decreto, deberán expedirse los reglamentos y demás normatividad que se requiera para su pleno cumplimiento.
+
+CUARTO. Las investigaciones en curso relativas a delitos de su competencia, así como cualquier otro delito cometido por un servidor público en el desempeño de un empleo, cargo o comisión, que hayan sido presentados o iniciados con anterioridad a la entrada en vigor del presente Decreto deberán remitirse a la Fiscalía Especializada en Combate a la (sic)
