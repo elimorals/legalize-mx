@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-instituto-electoral-de-quintana-roo-25785"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-08-27"
-last_updated: "2015-12-09"
+last_updated: "2017-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25785&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2015.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 9 DE DICIEMBRE DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 27 de agosto de 2002.
 
@@ -109,11 +107,11 @@ VII. Las demás que señale la Ley.
 
 Las actividades del Instituto, se regirán por los principios de constitucionalidad, certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### Artículo 7.
 
-Para el cumplimiento de sus fines, el Instituto contará permanentemente con un Consejo General, una Junta General, una Secretaría General, una Contraloría Interna, las Direcciones de: Organización, Capacitación Electoral, Jurídica, de Partidos Políticos, y de Administración; las Unidades Técnicas de: Comunicación Social, Informática y Estadística y el Centro de Información Electoral. Cada órgano tendrá las atribuciones que señale la Ley Electoral y el presente ordenamiento; su estructura y organización será establecida en el Reglamento Interno del Instituto y en los Manuales de Organización que al efecto apruebe y expida el Consejo General a propuesta de la Junta General, con excepción de lo relativo a la Contraloría Interna.
+Para el cumplimiento de sus fines, el Instituto contará permanentemente con un Consejo General; una Junta General, una Secretaría General, un Órgano Interno de Control; las Direcciones de: Organización, Capacitación Electoral, Jurídica, de Partidos Políticos, y de Administración; las Unidades Técnicas de: Comunicación Social, Informática y Estadística y el Centro de Información Electoral. Cada Órgano tendrá las atribuciones que señale la Ley Electoral y el presente ordenamiento; su estructura y organización será establecida en el Reglamento Interno del Instituto y en los Manuales de organización que al efecto apruebe y expida el Consejo General a propuesta de la Junta General, con excepción de lo relativo al Órgano Interno de Control.
 
 > <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
@@ -171,7 +169,9 @@ I. Participar en las sesiones del Consejo General con derecho a voz y voto, así
 
 II. Proponer al Consejo General, con apego a la Ley, diversas políticas de trabajo que faciliten el cumplimiento de los fines del Instituto;
 
-III. Vigilar, en lo personal, que la estructura del Instituto cumpla con las obligaciones constitucionales y legales en materia electoral, y que las actividades se guíen y rijan por los principios rectores de la función estatal electoral, y en caso de detectar lo contrario, informar al Pleno del Consejo General o, en su caso, a la Contraloría Interna, para efecto de que se tomen las medidas correctivas pertinentes;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+
+III. Vigilar, en lo personal, que la estructura del Instituto cumpla con las obligaciones constitucionales y legales en materia electoral, y que las actividades se guíen y rijan por los principios rectores de la función estatal electoral, y en caso de detectar lo contrario, informar al Pleno del Consejo General o, en su caso, al Órgano Interno de Control, para efecto de que se tomen las medidas correctivas pertinentes;
 
 IV. Realizar tareas de investigación y difusión acerca de temas electorales;
 
@@ -181,27 +181,11 @@ V. Cumplir y hacer cumplir, en el ámbito de su competencia, las disposiciones c
 
 VI. Las demás que le otorgue la Constitución Política de los Estados Unidos Mexicanos, la Ley General de instituciones y Procedimientos Electorales, la Constitución Particular, la presente Ley y demás ordenamientos.
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### Artículo 13.
 
-El procedimiento para la designación de los Consejeros Electorales, se sujetará al trámite establecido en la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Instituciones y Procedimientos Electorales.
-
-El procedimiento para la designación del Contralor Interno, se sujetara al trámite siguiente:
-
-> <small>(F. DE E., P.O. 9 DE DICIEMBRE DE 2015)</small>
-
-I. La Presidencia de la Mesa Directiva de la Legislatura, o de la Diputación Permanente, en su caso, convocará a los grupos parlamentarios, a presentar hasta dos candidatos para el cargo a designar, ante la Comisión de Puntos Legislativos;
-
-II. Los grupos parlamentarios presentarán sus propuestas por escrito, anexando a cada una de ellas el currículum vitae con documentación que sustente el mismo; la documentación deberá presentarse en original y copia para compulsa, o bien certificadas. Dichas propuestas deberán realizarse en un término máximo de diez días naturales, contados a partir de la fecha en que fueron notificados;
-
-III. La Comisión de Puntos Legislativos, una vez vencido el plazo señalado en la fracción que antecede, se reunirá para revisar si las propuestas cumplen con los requisitos de ley, y elaborará el dictamen correspondiente, mismo que contendrá la relación de los nombres de las personas propuestas que satisficieron los requisitos legales;
-
-IV. El citado dictamen se presentará a más tardar en los tres días siguientes al vencimiento del plazo señalado en la fracción II del presente artículo, en sesión plenaria de la Legislatura o la Diputación Permanente, según corresponda, para efecto de que los legisladores designen, de entre las propuestas que cumplieron con los requisitos, al Contralor Interno del Instituto;
-
-V. La designación del Contralor Interno del Instituto, se mandará a publicar en el Periódico Oficial del Estado;
-
-VI. El designado deberá comparecer ante la propia Legislatura o la Diputación Permanente, a rendir la Protesta de Ley.
+El procedimiento para la designación de los Consejeros Electorales, se sujetará al trámite establecido en la Constitución Política de los Estados Unidos Mexicanos y en la Ley General de Instituciones y Procedimientos Electorales.
 
 ###### Artículo 14.
 
@@ -567,9 +551,11 @@ El Secretario General durará en su cargo dos procesos electorales ordinarios su
 
 El Secretario General será sustituido en sus ausencias no mayores de quince días, por el Director Jurídico. En las ausencias del Secretario General que excedan de este término, el Consejo General del Instituto acordará lo conducente.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+
 ###### Artículo 39.
 
-El Secretario General será removido de su cargo, por las dos terceras partes de los Miembros del Consejo General con derecho a voto, cuando se considere que ha incurrido en conductas contrarias a los principios rectores de la función electoral, deje de reunir los requisitos de elegibilidad o incurra en responsabilidad, en términos de lo que disponga esta Ley y la de Responsabilidades de los Servidores Públicos del Estado, en su caso. Invariablemente se le otorgara la garantía de audiencia.
+El Secretario General será removido de su cargo, por las dos terceras partes de los Miembros del Consejo General con derecho a voto, cuando se considere que ha incurrido en conductas contrarias a los principios rectores de la función electoral, deje de reunir los requisitos de elegibilidad o incurra en responsabilidad, en términos de lo que dispongan las leyes aplicables, en su caso. Invariablemente se le otorgará la garantía de audiencia.
 
 ###### Artículo 40.
 
@@ -1579,191 +1565,185 @@ En el caso de la fracción anterior a la primera falta, por conducto del Conseje
 
 El Consejo General deberá emitir la resolución que corresponda y la comunicará al partido político, coalición o candidato independiente. En los Consejos Municipales y los Distritales, cuando se acumulare la tercera inasistencia sin causa justificada, el Consejero Presidente solicitará al Consejo General que emita la resolución que amerite el caso.
 
-## TÍTULO QUINTO. DE LA CONTRALORÍA INTERNA Y DE LAS RESPONSABILIDADES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JULIO DE 2017)</small>
 
-### Capítulo Primero. De la Contraloría Interna
+## TÍTULO QUINTO. DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+
+### Capítulo Único. Del Órgano Interno de Control del Instituto
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### Artículo 85.
 
-La Contraloría Interna del Instituto es la encargada de la fiscalización, vigilancia y control del uso, manejo y destino de los recursos del Instituto; y del desempeño de los órganos, funcionarios y servidores electorales. Estará adscrita administrativamente al Consejo General, sin que esto se traduzca en subordinación alguna, pues gozará de autonomía técnica y de gestión en el ejercicio de sus atribuciones.
+El Órgano Interno de Control del Instituto es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones, estará adscrito administrativamente al Consejo General, sin que ello se traduzca en subordinación alguna.
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+El Órgano Interno de Control, su titular y el personal adscrito al mismo, estarán impedidos de intervenir o interferir en forma alguna en el desempeño de las facultades y en el ejercicio de las atribuciones que esta Ley y las demás disposiciones aplicables confieren a los servidores públicos del Instituto.
+
+El Órgano Interno de Control tendrá un titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto.
+
+En el desempeño de su cargo, el Titular del Órgano Interno de Control se sujetará a los principios previstos en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Quintana Roo.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### Artículo 86.
 
-EI titular de la Contraloría Interna del Instituto, deberá satisfacer los requisitos siguientes:
+El Órgano Interno de Control, a través de su titular, tendrá las siguientes atribuciones:
 
-a) Ser mexicano por nacimiento sin tener o adquirir otra nacionalidad, ciudadano quintanarroense, además de estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+I. Las que contempla la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Quintana Roo;
 
-b) Estar inscrito en el Registro Federal de Electores y contar con credencial para votar;
+II. Prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del Instituto y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa del Estado;
 
-c) Tener más de veinticinco años de edad, el día de la designación;
+III. Resolver sobre la responsabilidad de los servidores públicos del Instituto e imponer en su caso las sanciones administrativas que correspondan;
 
-d) Poseer al día de la designación, título y cédula profesional de nivel licenciatura en contabilidad, administración, economía y finanzas, o derecho;
+IV. Presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción o ante la Fiscalía General del Estado, según corresponda;
 
-e) Gozar de buena reputación y no haber sido condenado por delito alguno, salvo que hubiere sido de carácter no intencional o imprudencial;
+V. Verificar que el ejercicio del gasto del Instituto se realice conforme a la normatividad aplicable, los programas aprobados y montos autorizados;
 
-(F. DE E., P.O. 9 DE DICIEMBRE DE 2015
+VI. Presentar al Consejo General del Instituto los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del Instituto;
 
-f) Tener residencia efectiva en el Estado durante los últimos diez años, y haber sido vecino en alguno de los Municipios de la Entidad en los cinco años previstos a su designación;
+VII. Revisar que las operaciones presupuestales que realice el Instituto, se hagan con apego a las disposiciones legales y administrativas aplicables y, en su caso, determinar las desviaciones de las mismas y las causas que les dieron origen;
 
-g) No haber sido registrado como candidato a cargo alguno de elección popular en los últimos diez años anteriores a la designación;
+VIII. Promover ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorías;
 
-h) No desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal en algún partido político o agrupación política, o representante ante el Consejo General, los Consejos Municipales y los Consejos Distritales del Instituto Electoral de Quintana Roo, así como en los Órganos del Instituto Federal Electoral, en los últimos diez años anteriores a la designación, y
+IX. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Instituto;
 
-i) No ser secretario, ni procurador general de justicia, subsecretario u oficial mayor en la administración pública estatal, a menos que se separe de su encargo con cuatro años de anticipación al día de su nombramiento.
+X. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos, empleando la metodología que éste determine;
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+XI. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos del Instituto, empleando la metodología que determine;
+
+XII. Recibir, tramitar, investigar y resolver, en su caso, las quejas, sugerencias y denuncias en contra de los servidores públicos del Instituto, conforme a las leyes aplicables;
+
+XIII. Solicitar la información y efectuar visitas a las áreas y órganos del Instituto para el cumplimento de sus funciones;
+
+XIV. Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en materia de adquisiciones, arrendamientos, servicio y obras públicas;
+
+XV. Intervenir en los actos de entrega-recepción de los servidores públicos del Instituto de mandos medios y superiores, en los términos de la normativa aplicable;
+
+XVI. Atender las solicitudes de los diferentes órganos del Instituto en los asuntos de su competencia;
+
+XVII. Proponer los proyectos de modificación o actualización de su estructura orgánica, personal y/o recursos al Consejo General del Instituto;
+
+XVIII. Formular su anteproyecto de presupuesto al Consejo General del Instituto;
+
+XIX. Presentar al Consejo General del Instituto, en la primera semana hábil del ejercicio fiscal siguiente que corresponda, un informe anual de resultados de su gestión, y comparecer ante el mismo, cuando así lo requiera el Presidente;
+
+XX. Presentar al Consejo General del Instituto, en la primera semana hábil del ejercicio fiscal siguiente que corresponda, un informe anual respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas;
+
+XXI. Inscribir y mantener actualizada la información correspondiente del Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal de todos los servidores públicos del Instituto, de conformidad con las leyes aplicables, y
+
+XXII. Las demás que le confieran otros ordenamientos.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### Artículo 87.
 
-El Contralor Interno del Instituto, será elegido por el voto de las dos terceras partes de los miembros de la Legislatura del Estado o la Diputación Permanente, en los recesos de ésta, de entre las propuestas que formulen los grupos parlamentarios, mediante el proceso establecido en el artículo 13 de la presente ley.
+El titular del Órgano Interno de Control, durará en su encargo cuatro años sin posibilidad de reelección y deberá reunir los siguientes requisitos:
 
-El Contralor Interno del Instituto durará en su encargo seis años.
+I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
 
-La retribución del Contralor Interno será la misma que se señale para los Consejeros Electorales del Instituto.
+II. Tener treinta años de edad cumplidos el día de la designación;
 
-Sus ausencias temporales serán cubiertas por el servidor electoral, designado por el Consejo General, de entre los que le sigan en jerarquía.
+III. Gozar de buena reputación y no haber sido condenado por delito doloso;
 
-El Contralor Interno no podrá tener otro empleo, cargo o comisión, con excepción de aquéllos en que actúe en representación del órgano al que pertenece y del que desempeñe en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, siempre y cuando no sea remunerado.
+IV. Contar al momento de su designación con experiencia en el control, manejo o fiscalización de recursos, responsabilidades administrativas, contabilidad gubernamental, auditoría gubernamental, obra pública, adquisiciones o arrendamientos;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2009)</small>
+V. Contar al día de su designación con título y cédula profesional de licenciado en derecho, contador, administrador, economista o financiero, expedidos con una antigüedad mínima de cinco años por autoridad o institución legalmente facultada para ello;
+
+VI. No pertenecer o haber pertenecido en los dos años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios al Instituto, o haber fungido como consultor o auditor externo del mismo, en lo individual durante ese periodo;
+
+VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, y
+
+VIII. Durante los dos años anteriores a la designación no haber desempeñado cargo de elección popular federal, estatal o municipal, haber sido dirigente nacional, estatal o municipal o responsable del manejo de los recursos públicos de algún partido político, ni haber participado como candidato a cargo de elección popular alguno.
+
+El titular del Órgano Interno de Control no podrá durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### Artículo 88.
 
-La Contraloría Interna del Instituto, tendrá las siguientes atribuciones:
+La designación del titular del Órgano Interno de Control se llevará a cabo de conformidad con el procedimiento siguiente:
 
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+I. La Mesa Directiva de la Legislatura o la Diputación Permanente, a propuesta de la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos, expedirá una convocatoria pública en la que se establecerán los medios idóneos para acreditar el cumplimiento de los requisitos de elegibilidad, así como los plazos y términos de participación para la elección del titular del Órgano Interno de Control, misma que deberá publicarse el mismo día de su emisión en la página web del Poder Legislativo y en dos periódicos de mayor circulación en el Estado, además en las redes sociales del Poder Legislativo para mayor publicidad;
 
-I. Aprobar los contenidos del Programa Anual de Auditoría Interna del Instituto;
+II. Las solicitudes deberán ser dirigidas a la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos, presentarse dentro de los cinco días hábiles contados a partir del día siguiente de la fecha de la emisión de la convocatoria, así como estar debidamente suscritas por el solicitante;
 
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+III. La Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos, procederá a la revisión y análisis de las mismas, entrevistando de manera pública a cada uno de los aspirantes que hayan cumplido con los requisitos exigidos para el cargo;
 
-II. Ordenar la ejecución y supervisión del Programa Anual de Auditoría Interna del Instituto;
+Una vez vencido el plazo para la presentación de las solicitudes, dentro de los cinco días hábiles siguientes, dicha Comisión procederá a presentar el dictamen con una terna conformada por los candidatos que resulten idóneos, ante la Legislatura del Estado o la Diputación Permanente, en su caso, para la designación correspondiente.
 
-III. Autorizar los programas específicos de auditoría interna que practique;
+IV. Aprobada la designación el titular rendirá la protesta de ley ante la Legislatura o la Diputación Permanente.
 
-IV. Vigilar la correcta ejecución de cada una de las auditorías internas, estableciendo la extensión y profundidad que las mismas requieran;
+Dicha designación deberá publicarse en el Periódico Oficial del Estado de Quintana Roo, señalando el inicio y fin del periodo del encargo.
 
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(DEROGADO, P.O. 19 DE JULIO DE 2017)</small>
 
-V. Requerir al servidor o funcionario electoral que corresponda, por sí o a través de su superior jerárquico, el cumplimiento de las observaciones, que con motivo de los resultados de la auditoría, se hayan formulado;
+### Capítulo Segundo
 
-VI. Aplicar, y en su caso, promover ante las instancias correspondientes las acciones administrativas y legales que deriven de los resultados de las auditorías;
-
-VII. Revisar en la ejecución de las auditorías internas, que el ejercicio del gasto se haya realizado de conformidad con las disposiciones legales, normas y lineamientos que regulan su ejercicio; que las operaciones financieras se registren contable y presupuestalmente en forma oportuna; la calidad de los controles administrativos para proteger el patrimonio institucional y evaluar desde el punto de vista programático las metas y objetivos de los programas a cargo del Instituto y, en su caso, determinar las desviaciones de los mismos y las causas que les dieron origen;
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-VIII. Recibir, investigar y emitir la resolución que conforme a la Ley proceda, respecto de las quejas y denuncias que se presenten en contra del Consejero Presidente, Consejeros Electorales y el Secretario General del Consejo General, integrantes de la Junta General, de los Consejeros Presidente y Electorales de los Consejos Municipales y Distritales, así como de los Vocales de las Juntas Municipales y Distritales Ejecutivas, de los titulares de las Unidades Técnicas, los Directores, Subdirectores, los Jefes de Departamentos y de todo funcionario o servidor del Instituto, en los términos de la normatividad que el propio titular de la Contraloría Interna expida y mande a publicar en el Periódico Oficial del Estado;
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-IX. Establecer mecanismos para difundir la obligación de presentar ante la propia Contraloría Interna, la declaración de situación patrimonial por parte de los servidores y funcionarios del Instituto que estén obligados, de acuerdo con la normatividad que el propio titular de la Contraloría Interna expida y mande a publicar en el Periódico Oficial del Estado;
-
-X. Participar en los actos de entrega-recepción de los servidores electorales del Instituto de mandos medios y superiores, con motivo de su separación del cargo, en los términos de la normatividad aplicable;
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-XI. Remitir un informe a la sociedad, de periodicidad mensual, y uno global del ejercicio en el mes de enero, mismos que se difundirán en la página electrónica del Instituto;
-
-XII. Emitir observaciones y recomendaciones a los titulares de las áreas auditadas;
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-XIII. Remitir recomendaciones sobre las normas de contabilidad y de control en materia de programación, presupuestación, administración de recursos humanos, materiales, financieros y servicios, que elabore la Dirección de Administración. Las recomendaciones serán vinculatorias;
-
-XIV. Verificar el cumplimiento de la normatividad relativa a la adquisición de bienes y servicios;
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-XV. Determinar y aplicar las sanciones previstas en el artículo 91 de la presente Ley, así como expedir toda la normatividad inherentes a la función otorgada, debiéndose mandar a publicar en el Periódico Oficial del Estado; y
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-XVI. Las demás que le confiera la Ley.
-
-### Capítulo Segundo. De las Responsabilidades
-
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### Artículo 89.
 
-El Consejero Presidente, los Consejeros Electorales y el Secretario General del Consejo General, los integrantes de la Junta General, los Consejeros Presidente y Electorales de los Consejos Municipales y Distritales, así como los Vocales de las Juntas Municipales y Distritales Ejecutivas, los titulares de las Unidades Técnicas, los Directores, Subdirectores, los Jefes de Departamento y todo funcionario o servidor del Instituto, podrán ser sancionados en la forma, términos y por las causas de responsabilidad administrativa revistas en el presente capítulo y en las que se prevengan en el reglamento que al efecto expida la Contraloría Interna.
+El titular del Órgano Interno de Control del Instituto será sujeto de responsabilidad en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Quintana Roo.
 
-El Titular de la Contraloría Interna del Instituto sólo será sancionado por la Legislatura o la Diputación Permanente, en su caso. Podrá ser removido de su cargo con la misma votación que se necesitó para su nombramiento, cuando dejen de reunir alguno de los requisitos de elegibilidad, violente los principios rectores de su función o incurra en responsabilidad, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado.
+Tratándose de los demás servidores públicos adscritos al Órgano Interno de Control del Instituto serán sancionados por el Titular del Órgano Interno de Control, en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Quintana Roo.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### Artículo 90.
 
-Son causas de responsabilidad de los servidores del Instituto las siguientes:
+El Órgano Interno de Control será removido de su cargo por la Legislatura o por la Diputación Permanente, en su caso, por las siguientes causas:
 
-I. Realizar conductas que atenten contra la autonomía del Instituto o de sus miembros y de los principios rectores en materia electoral, de constitucionalidad, certeza, legalidad, independencia, imparcialidad y objetividad;
+I. Incurrir en violaciones graves a los derechos humanos, previstos por la Constitución y los tratados internacionales de los que el Estado Mexicano sea parte;
 
-II. Aceptar o ejercer consignas, presiones o cualquier acción que implique subordinación ilegal, respecto de alguna autoridad, persona, partido político, coalición o agrupación política;
+II. Incurrir en responsabilidad administrativa grave en términos de la Ley General de Responsabilidades Administrativas;
 
-III. Incurrir en faltas de probidad o descuido en el desempeño de las funciones o labores que deban realizar;
+III. Haber sido condenado por delito doloso;
 
-IV. Difundir públicamente, y sin autorización, la información a la que tengan acceso por motivo de sus funciones;
+IV. Utilizar, en beneficio propio o de terceros, la información confidencial o reservada de que disponga en razón de su cargo, así como divulgar la mencionada información en contravención a la Ley;
 
-V. Dejar de desempeñar sin causa justificada las funciones que tengan a su cargo;
+V. Abstenerse de resolver sin causa justificada y en forma reiterada, los asuntos de su competencia dentro los plazos previstos por la Ley;
 
-VI. No observar las reglas de trato o respeto o incurrir en abuso de autoridad;
+VI. Incurrir en infracciones graves a la Constitución o a las leyes de la Federación o el Estado causando perjuicios graves a las instituciones democráticas del país, a la sociedad, o motivar alguna deficiencia en el funcionamiento normal de las instituciones del Estado Mexicano, y
 
-VII. Observar falta de respeto e insubordinación a sus superiores o incumplir las disposiciones que éstos dicten en el ejercicio de sus atribuciones;
+VII. Faltar gravemente en el ejercicio de su cargo a la observancia de los principios de legalidad, máxima publicidad, objetividad, eficiencia, profesionalismo, restricciones de contacto, honradez, debido proceso, transparencia y respeto a los derechos humanos.
 
-VIII. No se abstengan de desempeñar otro empleo, cargo o comisión oficial o particular que esta Ley prohibe;
-
-IX. No concurrir al desempeño de sus funciones; y
-
-X. Las demás que se deriven de la legislación electoral, disposiciones reglamentarias administrativas y estatutarias del propio Instituto.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### Artículo 91.
 
-Las sanciones aplicables a las faltas administrativas contempladas en el Artículo anterior, consistirán en:
+En caso de actualizarse alguno de los supuestos señalados en el artículo anterior, el Consejo General del Instituto, cuando tenga conocimiento de los hechos que actualicen alguna de las causas de procedencia de la remoción y considere que existen elementos de prueba, o cuando medie solicitud debidamente justificada, notificará inmediatamente al Presidente de la Mesa Directiva de la Legislatura o en su caso de la Diputación Permanente, acompañando el expediente del asunto.
 
-I. Amonestación privada o pública;
+El Presidente de la Mesa Directiva turnará el expediente a la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos para que sea instructora en el procedimiento.
 
-II. Suspensión de uno a quince días, sin goce de sueldo;
+Dicha Comisión citará al titular del Órgano Interno de Control a una audiencia, notificándole que deberá comparecer personalmente a rendir su declaración en torno a los hechos que se le imputen y que puedan ser causa de remoción en los términos de esta Ley, y demás disposiciones aplicables. La notificación deberá ser personal y expresar el lugar, día y hora en que tendrá verificativo la audiencia, los actos u omisiones que se le imputen y el derecho de éste a comparecer asistido de un defensor.
 
-III. Sanción económica;
+Entre la fecha de la citación y la de la audiencia deberá mediar un plazo no menor de diez ni mayor de quince días naturales.
 
-IV. Destitución del cargo; e
+Concluida la audiencia, se concederá al titular del Órgano Interno de Control sujeto al proceso de remoción un plazo de cinco días hábiles para que ofrezca los elementos de prueba que estime pertinentes y que tengan relación con los hechos que se le atribuyen, y una vez desahogadas las pruebas que fueren admitidas, la Comisión, dentro de los treinta días naturales siguientes someterá el dictamen con proyecto de resolución a la Legislatura o en su caso a la Diputación Permanente quien resolverá la remoción. Aprobada la remoción, ésta quedará firme y será notificada al Consejo General del Instituto para los efectos legales que correspondan.
 
-V. Inhabilitación para ocupar un cargo en los Organos del Instituto.
-
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+En caso de haber transcurrido más de dos años de la duración del cargo del titular removido, la Legislatura o la Diputación Permanente designará un nuevo titular para efectos de concluir el periodo.
 
 ###### Artículo 92.
 
-Las sanciones previstas en las fracciones IV y V del artículo anterior, no le serán aplicables al Consejero Presidente y los Consejeros Electorales. Sin embargo, cuando se les aplique cualquier otra sanción, el titular de la Contraloría Interna del Instituto remitirá un duplicado del expediente a la Legislatura o a la Diputación Permanente, en su caso, para los fines a que haya lugar.
-
-Las sanciones serán determinadas y aplicadas tomando en consideración la gravedad de la falta, la incidencia o reincidencia de la misma y el comportamiento del servidor o funcionario del Instituto durante el desempeño de sus funciones.
-
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+(DEROGADO, P.O. 19 DE JULIO DE 2017)
 
 ###### Artículo 93.
 
-La Contraloría Interna del Instituto, de oficio, por denuncia o queja recibida, iniciará el procedimiento disciplinario para identificar, investigar y determinar las responsabilidades administrativas en que pudieran haber incurrido los servidores y funcionarios del Instituto.
+(DEROGADO, P.O. 19 DE JULIO DE 2017)
 
 ###### Artículo 94.
 
-Las denuncias o quejas que se formulen, deberán presentarse por escrito con los elementos probatorios para establecer la presunción de responsabilidad del servidor de que se trate.
-
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+(DEROGADO, P.O. 19 DE JULIO DE 2017)
 
 ###### Artículo 95.
 
-Para la determinación de las responsabilidades a que se refiere el presente capítulo, la Contraloría Interna del Instituto, deberá otorgarle al servidor o funcionario respectivo, la garantía de audiencia, corriéndole traslado del escrito de denuncia o queja, o bien del acta que contenga las razones por las que de oficio se haya iniciado el procedimiento, para que en el término de tres días hábiles manifieste lo que a su derecho corresponda, y ofrezca pruebas de descargo.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2009)</small>
+(DEROGADO, P.O. 19 DE JULIO DE 2017)
 
 ###### Artículo 96.
 
-Al concluir el procedimiento a que se refiere el artículo anterior, la Contraloría Interna del Instituto, emitirá su resolución a fin de determinar si el servidor o funcionario incurrió o no en falta administrativa, y en su caso, determinar y aplicar las sanciones previstas en el presente capítulo. Contra la determinación de las sanciones no existirá ningún medio de impugnación interno.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 3 DE MARZO DE 2009)</small>
+(DEROGADO, P.O. 19 DE JULIO DE 2017)
 
 ## TÍTULO SEXTO. DE LAS RELACIONES Y CONTROVERSIAS LABORALES
 
@@ -1900,3 +1880,15 @@ PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación 
 SEGUNDO. El Consejo General del Instituto Electoral de Quintana Roo, podrá realizar ajustes a los plazos establecidos en la Ley Orgánica del Instituto Electoral de Quintana Roo, a fin de garantizar la debida ejecución de las actividades y procedimientos electorales, contenidos en la misma.
 
 TERCERO. El Contralor Interno designado mediante Decreto 260 de la XIV Legislatura, continuará en su cargo hasta el 30 de marzo de 2021.
+
+P.O. 19 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 086 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO; DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE QUINTANA ROO; DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE QUINTANA ROO; DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DE QUINTANA ROO Y DE LA LEY DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo, con la salvedad del artículo transitorio siguiente.
+
+SEGUNDO. Las reformas y adiciones a la Ley Orgánica del Tribunal Electoral de Quintana Roo, entrará en vigor previa su publicación en el Periódico Oficial del Estado de Quintana Roo, el mismo día de la entrada en vigor del Decreto por el que se reforman el párrafo noveno de la fracción II del artículo 49, la fracción XII del artículo 75, la fracción XII del artículo 76 y el inciso c) del artículo 110; y se derogan los párrafos segundo, cuarto y quinto del artículo 110, todos de la Constitución Política del Estado Libre y Soberano de Quintana Roo; y se reforman el párrafo segundo del artículo octavo transitorio, el párrafo primero del artículo décimo transitorio y el artículo décimo segundo transitorio; y se adicionan el párrafo cuarto del artículo octavo transitorio, todos de la declaratoria número: 002 por el que se reforman, derogan y adicionan diversas disposiciones a la Constitución Política del Estado Libre y Soberano de Quintana Roo, en materia de combate a la corrupción, publicado el 03 de julio de 2017 en el Periódico Oficial del Estado de Quintana Roo, número 72 extraordinario, Tomo II, Novena Época.
+
+TERCERO. A la entrada en vigor del presente decreto, quien se encuentre ejerciendo las funciones de contraloría interna del Poder Legislativo asumirá las funciones del órgano interno que se crea, hasta en tanto se realiza la designación del Titular del Órgano Interno de Control del Poder Legislativo del Estado.
+
+CUARTO. Los titulares de los Órganos Internos de Control de los órganos autónomos reconocidos por la Constitución Política del Estado Libre y Soberano de Quintana Roo que resulten designados en virtud del presente Decreto, iniciarán sus funciones de conformidad con lo previsto en el presente Decreto hasta el primero de enero del año dos mil dieciocho.
