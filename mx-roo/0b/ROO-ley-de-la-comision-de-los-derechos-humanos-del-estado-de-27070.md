@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-la-comision-de-los-derechos-humanos-del-estado-de-27070"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-13"
-last_updated: "2014-02-27"
+last_updated: "2017-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 13 de diciembre de 2002.
 
@@ -149,9 +149,17 @@ II. Un Presidente que será quien tenga la representación legal de la Comisión
 
 III. Un Secretario Técnico;
 
-IV. Hasta tres Visitadores Generales, y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
 
-V. Los Visitadores Adjuntos.
+IV. Hasta tres Visitadores Generales;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+
+V. Los Visitadores Adjuntos, y
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2017)</small>
+
+VI. Un Órgano Interno de Control.
 
 La Comisión se auxiliará del personal profesional, técnico y administrativo necesario para el desempeño de sus funciones, que permita la disponibilidad presupuestal de la Comisión.
 
@@ -599,13 +607,163 @@ III. Auxiliar a los Visitadores Generales en las acciones de conciliación y de 
 
 IV. Las demás que les señalen esta Ley, su Reglamento y el Presidente, necesarias para el mejor cumplimiento de sus funciones y de los objetivos de esta ley.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2014)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE JULIO DE 2017)</small>
 
-### CAPÍTULO I. DE LA QUEJA
+### CAPÍTULO VII. DEL ÓRGANO INTERNO DE CONTROL DE LA COMISIÓN
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+
+###### Artículo 35 Bis.
+
+El Órgano Interno de Control de la Comisión es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones y estará adscrito administrativamente al Consejo Consultivo de la Comisión, sin que ello se traduzca en subordinación alguna.
+
+El Órgano Interno de Control, su titular y el personal adscrito al mismo, estarán impedidos de intervenir o interferir en forma alguna en el desempeño de las facultades y en el ejercicio de las atribuciones que esta Ley y las demás disposiciones aplicables (sic) confieren a los servidores públicos de la Comisión.
+
+El Órgano Interno de Control tendrá un titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto.
+
+En el desempeño de su cargo, el Titular del Órgano Interno de Control se sujetará a los principios previstos en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Quintana Roo.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+
+###### Artículo 35 Ter.
+
+El Órgano Interno de Control de la Comisión, a través de su titular, tendrá las siguientes atribuciones:
+
+I. Las que contempla la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Quintana Roo;
+
+II. Prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos de la Comisión y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa del Estado;
+
+III. Resolver sobre la responsabilidad de los servidores públicos de la Comisión e imponer en su caso las sanciones administrativas que correspondan;
+
+IV. Presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción o ante la Fiscalía General del Estado, según corresponda;
+
+V. Verificar que el ejercicio del gasto de la Comisión se realice conforme a la normatividad aplicable, los programas aprobados y montos autorizados;
+
+VI. Presentar al Consejo Consultivo de la Comisión los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes de la Comisión;
+
+VII. Revisar que las operaciones presupuestales que realice la Comisión, se hagan con apego a las disposiciones legales y administrativas aplicables y, en su caso, determinar las desviaciones de las mismas y las causas que les dieron origen;
+
+VIII. Promover ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorías;
+
+IX. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos de la Comisión;
+
+X. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos, empleando la metodología que éste determine;
+
+XI. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos de la Comisión, empleando la metodología que determine;
+
+XII. Recibir, tramitar, investigar y resolver, en su caso, las quejas, sugerencias y denuncias en contra de los servidores públicos de la Comisión, conforme a las leyes aplicables;
+
+XIII. Solicitar la información y efectuar visitas a las áreas y órganos de la Comisión para el cumplimento de sus funciones;
+
+XIV. Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en materia de adquisiciones, arrendamientos, servicio y obras públicas;
+
+XV. Intervenir en los actos de entrega-recepción de los servidores públicos de la Comisión de mandos medios y superiores, en los términos de la normativa aplicable;
+
+XVI. Atender las solicitudes de los diferentes órganos de la Comisión en los asuntos de su competencia;
+
+XVII. Proponer los proyectos de modificación o actualización de su estructura orgánica, personal y/o recursos al Consejo Consultivo de la Comisión;
+
+XVIII. Formular su anteproyecto de presupuesto al Consejo Consultivo de la Comisión;
+
+XIX. Presentar al Consejo Consultivo de la Comisión, en la primera semana hábil del ejercicio fiscal siguiente que corresponda, un informe anual de resultados de su gestión, y comparecer ante el mismo, cuando así lo requiera el Presidente;
+
+XX. Presentar al Consejo Consultivo de la Comisión, en la primera semana hábil del ejercicio fiscal siguiente que corresponda, un informe anual respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas;
+
+XXI. Inscribir y mantener actualizada la información correspondiente del Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal; de todos los servidores públicos de la Comisión, de conformidad con las leyes aplicables, y
+
+XXII. Las demás que le confieran otros ordenamientos.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+
+###### Artículo 35 Quáter.
+
+El titular del Órgano Interno de Control, durará en su encargo cuatro años sin posibilidad de reelección y deberá reunir los siguientes requisitos:
+
+I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
+
+II. Tener treinta años de edad cumplidos el día de la designación;
+
+III. Gozar de buena reputación y no haber sido condenado por delito doloso;
+
+IV. Contar al momento de su designación con experiencia en el control, manejo o fiscalización de recursos, responsabilidades administrativas, contabilidad gubernamental, auditoría gubernamental, obra pública, adquisiciones o arrendamientos;
+
+V. Contar al día de su designación con título y cédula profesional de licenciado en derecho, contador, administrador, economista o financiero, expedidos con una antigüedad mínima de cinco años por autoridad o institución legalmente facultada para ello;
+
+VI. No pertenecer o haber pertenecido en los dos años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios a la Comisión, o haber fungido como consultor o auditor externo del mismo, en lo individual durante ese periodo;
+
+VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, y
+
+VIII. Durante los dos años anteriores a la designación no haber desempeñado cargo de elección popular federal, estatal o municipal, haber sido dirigente nacional, estatal o municipal o responsable del manejo de los recursos públicos de algún partido político, ni haber participado como candidato a cargo de elección popular alguno.
+
+El titular del Órgano Interno de control no podrá durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+
+###### Artículo 35 Quinquies.
+
+La designación del titular del Órgano Interno de Control se llevará a cabo de conformidad con el procedimiento siguiente:
+
+I. La Mesa Directiva de la Legislatura o la Diputación Permanente, a propuesta de la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos, expedirá una convocatoria pública en la que se establecerán los medios idóneos para acreditar el cumplimiento de los requisitos de elegibilidad, así como los plazos y términos de participación para la elección del titular del Órgano Interno de Control, misma que deberá publicarse el mismo día de su emisión en la página web del Poder Legislativo y en dos periódicos de mayor circulación en el Estado, además en las redes sociales del Poder Legislativo para mayor publicidad;
+
+II. Las solicitudes deberán ser dirigidas a la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos, presentarse dentro de los cinco días hábiles contados a partir del día siguiente de la fecha de la emisión de la convocatoria, así como estar debidamente suscritas por el solicitante;
+
+III. La Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos, procederá a la revisión y análisis de las mismas, entrevistando a cada uno de los aspirantes que hayan cumplido con los requisitos exigidos para el cargo;
+
+Una vez vencido el plazo para la presentación de las solicitudes, dentro de los cinco días hábiles siguientes, dicha Comisión procederá a presentar el dictamen de los candidatos que, a su juicio, considere idóneos para la conformación de una terna ante la Legislatura del Estado o en su caso, la Diputación Permanente, para la designación correspondiente;
+
+IV. Aprobada la designación el titular rendirá la protesta de ley ante la Legislatura o la Diputación Permanente.
+
+Dicha designación deberá publicarse en el Periódico Oficial del Estado de Quintana Roo, señalando el inicio y fin del periodo del en cargo.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+
+###### Artículo 35 Sexies.
+
+El titular del Órgano Interno de Control de la Comisión será sujeto de responsabilidad en términos de la Ley General de Responsabilidades Administrativas y de la Ley de Responsabilidades de los Servidores Públicos del Estado de Quintana Roo.
+
+Tratándose de los demás servidores públicos adscritos al Órgano Interno de Control de la Comisión serán sancionados por el Titular del Órgano Interno de Control, en términos de la Ley General de Responsabilidades Administrativas y de la Ley de Responsabilidades de los Servidores Públicos del Estado de Quintana Roo.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+
+###### Artículo 35 Sépties.
+
+El Órgano Interno de Control será removido de su cargo por la Legislatura o en su caso por la Diputación Permanente, por las siguientes causas:
+
+I. Incurrir en violaciones graves a los derechos humanos, previstos por la Constitución y los tratados internacionales de los que el Estado Mexicano sea parte;
+
+II. Incurrir en responsabilidad administrativa grave en términos de la Ley General de Responsabilidades Administrativas;
+
+III. Haber sido condenado por delito doloso;
+
+IV. Utilizar, en beneficio propio o de terceros, la información confidencial o reservada de que disponga en razón de su cargo, así como divulgar la mencionada información en contravención a la Ley;
+
+V. Abstenerse de resolver sin causa justificada y en forma reiterada, los asuntos de su competencia dentro los plazos previstos por la Ley;
+
+VI. Incurrir en infracciones graves a la Constitución o a las leyes de la Federación o el Estado causando perjuicios graves a las instituciones democráticas del país, a la sociedad, o motivar alguna deficiencia en el funcionamiento normal de las instituciones del Estado Mexicano, y
+
+VII. Faltar gravemente en el ejercicio de su cargo a la observancia de los principios de legalidad, máxima publicidad, objetividad, eficiencia, profesionalismo, restricciones de contacto, honradez, debido proceso, transparencia y respeto a los derechos humanos.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+
+###### Artículo 35 Octies.
+
+En caso de actualizarse alguno de los supuestos señalados en el artículo anterior, el Consejo Consultivo de la Comisión, cuando tenga conocimiento de los hechos que actualicen alguna de las causas de procedencia de la remoción y considere que existen elementos de prueba, o cuando medie solicitud debidamente justificada, notificará inmediatamente al Presidente de la Mesa Directiva de la Legislatura o de la Diputación Permanente, en su caso, acompañando el expediente del asunto.
+
+El Presidente de la Mesa Directiva turnará el expediente a la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos para qué sea instructora en el procedimiento.
+
+Dicha Comisión citará al titular del Órgano Interno de Control a una audiencia, notificándole que deberá comparecer personalmente a rendir su declaración en torno a los hechos que se le imputen y que puedan ser causa de remoción en los términos de esta Ley, y demás disposiciones aplicables. La notificación deberá ser personal y expresar el lugar, día y hora en que tendrá verificativo la audiencia, los actos u omisiones que se le imputen y el derecho de éste a comparecer asistido de un defensor.
+
+Entre la fecha de la citación y la de la audiencia deberá mediar un plazo no menor de diez ni mayor de quince días naturales.
+
+Concluida la audiencia, se concederá al titular del Órgano Interno de Control sujeto al proceso de remoción un plazo de cinco días hábiles para que ofrezca los elementos de prueba que estime pertinentes y que tengan relación con los hechos que se le atribuyen, y una vez desahogadas las pruebas que fueren admitidas, la Comisión, dentro de los treinta días naturales siguientes someterá el dictamen con proyecto de resolución a la Legislatura o en su caso a la Diputación Permanente quien resolverá la remoción. Aprobada la remoción, ésta quedará firme y será notificada al Consejo Consultivo de la Comisión para los efectos legales que correspondan.
+
+En caso de haber transcurrido más de dos años de la duración del cargo del titular removido, la Legislatura o la Diputación Permanente designará un nuevo titular para efectos de concluir el periodo.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2014)</small>
 
 ## TÍTULO TERCERO. DEL PROCEDIMIENTO ANTE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO
 
-### CAPÍTULO II. DE LA ADMISIÓN, DESAHOGO Y RESOLUCIÓN DE LA QUEJA
+### CAPÍTULO I. DE LA QUEJA
 
 ###### Artículo 36.
 
@@ -667,9 +825,7 @@ En todos los casos que se requiera, la Comisión levantará acta circunstanciada
 
 En el supuesto de que los quejosos o denunciantes no puedan identificar a las autoridades o servidores públicos, cuyos actos u omisiones consideren haber afectado sus derechos fundamentales, la instancia será admitida, si procede, bajo la condición de que se logre dicha identificación en la investigación posterior de los hechos.
 
-### CAPÍTULO III. DE LOS ACUERDOS Y RECOMENDACIONES AUTÓNOMOS
-
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2014)</small>
+### CAPÍTULO II. DE LA ADMISIÓN, DESAHOGO Y RESOLUCIÓN DE LA QUEJA
 
 ###### Artículo 44.
 
@@ -749,11 +905,13 @@ La Comisión podrá recabar toda clase de pruebas, siempre que éstas no sean co
 
 Las conclusiones del expediente, que serán la base de las recomendaciones, estarán fundamentadas exclusivamente en la documentación y pruebas que obren en el propio expediente.
 
-### CAPÍTULO IV. DE LAS NOTIFICACIONES Y LOS INFORMES
+### CAPÍTULO III. DE LOS ACUERDOS Y RECOMENDACIONES AUTÓNOMOS
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### Artículo 53.
 
-La Comisión podrá dictar acuerdos de trámite, que serán obligatorios para que las autoridades y servidores públicos comparezcan o aporten información y documentación. Su incumplimiento acarreará las sanciones y responsabilidades señaladas en el Título Cuarto, Capítulo II de la presente ley. Asimismo, en estos casos, podrá turnarse el asunto a la Secretaría de la Gestión Pública del Estado, para efectos de aplicar las sanciones que establece la Ley de Responsabilidades de los Servidores Públicos del Estado.
+La Comisión podrá dictar acuerdos de trámite, que serán obligatorios para que las autoridades y servidores públicos comparezcan o aporten información y documentación. Su incumplimiento acarreará las sanciones y responsabilidades señaladas en el Título Cuarto, Capítulo II de la presente ley. Asimismo, en estos casos, podrá turnarse el asunto a la Secretaría de la Contraloría del Estado, para efecto de aplicar las sanciones que establece las leyes que en materia de responsabilidades correspondan.
 
 > <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2014)</small>
 
@@ -843,7 +1001,7 @@ Las recomendaciones y los acuerdos de no responsabilidad se referirán a casos c
 
 La Recomendación o en su caso, el Acuerdo de No Responsabilidad, deberán ser notificados a la autoridad o servidor público involucrado, dentro de los tres días hábiles siguientes al de su emisión.
 
-### CAPÍTULO I. OBLIGACIONES Y COLABORACIÓN
+### CAPÍTULO IV. DE LAS NOTIFICACIONES Y LOS INFORMES
 
 ###### Artículo 63.
 
@@ -867,7 +1025,7 @@ Este informe deberá ser ampliamente difundido para hacerlo del conocimiento de 
 
 ## TÍTULO CUARTO. DE LAS AUTORIDADES Y SERVIDORES PÚBLICOS
 
-### CAPÍTULO II. DE LA RESPONSABILIDAD DE LAS AUTORIDADES Y SERVIDORES PÚBLICOS
+### CAPÍTULO I. OBLIGACIONES Y COLABORACIÓN
 
 ###### Artículo 66.
 
@@ -877,7 +1035,7 @@ Todas las autoridades y servidores públicos tienen la obligación de atender, d
 
 Las autoridades o servidores públicos a los que se les solicite información o documentación que se estime con carácter reservado, lo comunicarán a la Comisión y expresarán las razones para considerarlas así. En este supuesto, los Visitadores Generales tendrán la facultad de hacer la clasificación definitiva sobre la reserva y solicitar que se les proporcione la información o documentación que se manejará en la más estricta confidencialidad.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO II. DE LA RESPONSABILIDAD DE LAS AUTORIDADES Y SERVIDORES PÚBLICOS
 
 ###### Artículo 68.
 
@@ -900,6 +1058,8 @@ La Comisión deberá poner en conocimiento de las autoridades superiores compete
 Además de las denuncias sobre los delitos y faltas administrativas en que puedan incurrir las autoridades y servidores públicos en el curso de las investigaciones seguidas por la Comisión, ésta podrá solicitar la amonestación pública o privada, según sea el caso, al titular de la dependencia de que se trate.
 
 ## TÍTULO QUINTO. DEL RÉGIMEN LABORAL
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 72.
 
@@ -986,3 +1146,15 @@ QUINTO. El actual Secretario Ejecutivo de la Comisión, concluirá con su encarg
 SEXTO. Toda ley o decreto, que haga referencia a la Comisión de Derechos Humanos del Estado de Quintana Roo, se entenderá por ésta, a la Comisión de los Derechos Humanos del Estado de Quintana Roo.
 
 SÉPTIMO. Se derogan las disposiciones legales vigentes que se opongan al presente Decreto.
+
+P.O. 19 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 086 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO; DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA El ESTADO DE QUINTANA ROO; DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE QUINTANA ROO; DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DE QUINTANA ROO Y DE LA LEY DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo, con la salvedad del artículo transitorio siguiente.
+
+SEGUNDO. Las reformas y adiciones a la Ley Orgánica del Tribunal Electoral de Quintana Roo, entrará en vigor previa su publicación en el Periódico Oficial del Estado de Quintana Roo, el mismo día de la entrada en vigor del Decreto por el que se reforman el párrafo noveno de la fracción II del artículo 49, la fracción XII del artículo 75, la fracción XII del artículo 76 y el inciso c) del artículo 110; y se derogan los párrafos segundo, cuarto y quinto del artículo 110, todos de la Constitución Política del Estado Libre y Soberano de Quintana Roo; y se reforman el párrafo segundo del artículo octavo transitorio, el párrafo primero del artículo décimo transitorio y el artículo décimo segundo transitorio; y se adicionan el párrafo cuarto del artículo octavo transitorio, todos de la declaratoria número: 002 por el que se reforman, derogan y adicionan diversas disposiciones a la Constitución Política del Estado Libre y Soberano de Quintana Roo, en materia de combate a la corrupción, publicado el 03 de julio de 2017 en el Periódico Oficial del Estado de Quintana Roo, número 72 extraordinario, Tomo II, Novena Época.
+
+TERCERO. A la entrada en vigor del presente decreto, quien se encuentre ejerciendo las funciones de contraloría interna del Poder Legislativo asumirá las funciones del órgano interno que se crea, hasta en tanto se realiza la designación del Titular del Órgano Interno de Control del Poder Legislativo del Estado.
+
+CUARTO. Los titulares de los Órganos Internos de Control de los órganos autónomos reconocidos por la Constitución Política del Estado Libre y Soberano de Quintana Roo que resulten designados en virtud del presente Decreto, iniciarán sus funciones de conformidad con lo previsto en el presente Decreto hasta el primero de enero del año dos mil dieciocho.
