@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2017-05-31"
+last_updated: "2017-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "MOR"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE NOVIEMBRE DE 2017 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 31 DE MAYO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -561,7 +561,7 @@ Una vez verificado el quórum legal, y rendida la protesta por parte de los miem
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
 
-"Queda legítimamente instalado el Ayuntamiento del Municipio de...que deberá funcionar durante del período...".
+"Queda legítimamente instalado el Ayuntamiento del Municipio de...que deberá funcionar durante del (sic) período...".
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
 
@@ -575,9 +575,9 @@ En dicha sesión, actuará como Secretario el Síndico, en el caso de que esté 
 
 Una vez instalado, el Cabildo se ocupará de desahogar el orden del día, que incluirá la atención de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
 
-I.- Designar a los titulares de las dependencias de la administración pública municipal, así como a la titular de la dirección de la instancia de la mujer, con excepción del Secretario del Ayuntamiento, el Tesorero, el Contralor Municipal, el Titular de la Seguridad Pública Municipal, los cuales serán nombrados por el Presidente; en ambos casos las designaciones tendrán que ajustarse al principio de paridad, en una proporción que no exceda el cincuenta por ciento para un mismo género. En los casos de los ayuntamientos que tengan un número impar de secretarías, los nombramientos de los titulares deberán apegarse al porcentaje más cercano a la mitad del total de las secretarías para alcanzar la paridad. En todo momento, el Ayuntamiento verificará que la remuneración autorizada a dichos servidores públicos no rebase los montos establecidos en la fracción V del artículo 20 de la Ley de Presupuesto, Contabilidad y Gasto Público del estado de Morelos.
+I.- Designar a los titulares de las dependencias de la administración pública municipal, así como a la titular de la dirección de la instancia de la mujer con excepción del Secretario del Ayuntamiento, el Tesorero, el Contralor Municipal, el Titular de la Seguridad Pública Municipal, los cuales serán nombrados por el Presidente; en ambos casos las designaciones tendrán que ajustarse al principio de paridad, en una proporción que no exceda el cincuenta por ciento para un mismo género. Por lo que respecta al Contralor Municipal, dicho nombramiento se sujetará a la ratificación de las dos terceras partes del Cabildo. En todo momento, el Ayuntamiento verificará que la remuneración autorizada a dichos servidores públicos no rebase los montos establecidos en la fracción V del artículo 20 de la Ley de Presupuesto, Contabilidad y Gasto Público del estado de Morelos.
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
@@ -1119,9 +1119,9 @@ I. Presentar a consideración del Ayuntamiento y aprobados que fueren, promulgar
 
 II. Presidir las sesiones del Ayuntamiento, con voz y voto en las discusiones y voto de calidad en caso de empate, así como convocar a los miembros del Ayuntamiento para la celebración de las sesiones ordinarias, extraordinarias y solemnes;
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
 
-III. Nombrar al Secretario Municipal, al Tesorero Municipal, al Contralor Municipal y al Titular de Seguridad Pública;
+III. Nombrar al Secretario Municipal, al Tesorero Municipal, al Titular de Seguridad Pública y al Contralor Municipal, éste último nombramiento se sujetará a la ratificación de las dos terceras partes del Cabildo y;
 
 IV. Proponer ante el Cabildo para su aprobación, los nombramientos de los servidores públicos a que se refiere el artículo 24 fracción I, de la presente Ley;
 
@@ -1807,9 +1807,9 @@ III. Disfrutar de buena fama y no estar procesado, ni haber sido sentenciado por
 
 IV. Contar con título y cédula profesional que lo acredite como profesionista afín al cargo;
 
-> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
 
-V. Tener la experiencia y conocimientos suficientes para el desempeño del cargo y contar con capacitación, especialización y/o actualización en contabilidad en el área gubernamental con un mínimo de cuarenta horas con validez oficial comprobada con el documento correspondiente, actualización que deberá realizarse cada año; y
+V. Contar con experiencia mínima comprobable de dos años en órganos de control gubernamental, fincamiento de responsabilidades, fiscalización de recursos públicos o rendición de cuentas, y
 
 VI. Tener como mínimo veinticinco años de edad, cumplidos al día de la designación.
 
@@ -1849,23 +1849,23 @@ VIII. Elaborar y autorizar sus sistemas, métodos y procedimientos para las labo
 
 > <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2006)</small>
 
-IX.- Requerir información, documentación, apoyo y colaboración de los órganos de control interno de los organismos descentralizados y demás entidades del sector paramunicipal;
+IX. Requerir información, documentación, apoyo y colaboración de los órganos de control interno de los organismos descentralizados y demás entidades del sector paramunicipal;
 
 > <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 2006)</small>
 
-X.- Vigilar el exacto cumplimiento de las disposiciones legales y reglamentarias que regulen las funciones del Ayuntamiento;
+X. Vigilar el exacto cumplimiento de las disposiciones legales y reglamentarias que regulen las funciones del Ayuntamiento;
 
 > <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 2006)</small>
 
-XI.- Desarrollar los sistemas de control interno del Ayuntamiento y vigilar su exacto cumplimiento; y
+XI. Desarrollar los sistemas de control interno del Ayuntamiento y vigilar su exacto cumplimiento; y
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE ENERO DE 2014)</small>
 
-XII.- En ejercicio de sus atribuciones establecidas en las fracciones I y II, del artículo 86 de esta Ley, concomitantemente con el área de Recursos Humanos del Ayuntamiento, y dependiendo del caso con los servidores públicos y/o sus representantes, efectuará los actos de revisión, análisis e investigación documental, de la antigüedad de los servidores públicos para garantizar las prestaciones y beneficios en materia de prestaciones de seguridad social; asimismo, verificará que el área de Recursos Humanos efectúe la entrega al servidor público o solicitante de la documentación referente a carta de certificación del último salario percibido y la constancia de servicios prestados para el Ayuntamiento.
+XII. En ejercicio de sus atribuciones establecidas en las fracciones I y II, del artículo 86 de esta Ley, concomitantemente con el área de Recursos Humanos del Ayuntamiento, y dependiendo del caso con los servidores públicos y/o sus representantes, efectuará los actos de revisión, análisis e investigación documental, de la antigüedad de los servidores públicos para garantizar las prestaciones y beneficios en materia de prestaciones de seguridad social; asimismo, verificará que el área de Recursos Humanos efectúe la entrega al servidor público o solicitante de la documentación referente a carta de certificación del último salario percibido y la constancia de servicios prestados para el Ayuntamiento.
 
 > <small>(ADICIONADA, P.O. 22 DE ENERO DE 2014)</small>
 
-XIII.- Supervisar la elaboración por parte del área de Recursos Humanos, de los padrones de Servidores Públicos Municipales, a saber.
+XIII. Supervisar la elaboración por parte del área de Recursos Humanos, de los padrones de Servidores Públicos Municipales, a saber.
 
 1).- De trabajadores en activo y de elementos de seguridad pública;
 
@@ -1881,17 +1881,25 @@ Similar procedimiento se efectuará respecto de los elementos de las Institucion
 
 > <small>(ADICIONADA, P.O. 22 DE ENERO DE 2014)</small>
 
-XIV.- Supervisar que las áreas administrativas del Ayuntamiento, den cabal cumplimiento a todo tipo de Acuerdos, Bandos, Reglamentos Internos, Administrativos, y demás ordenamientos que el Cabildo expida;
+XIV. Supervisar que las áreas administrativas del Ayuntamiento, den cabal cumplimiento a todo tipo de Acuerdos, Bandos, Reglamentos Internos, Administrativos, y demás ordenamientos que el Cabildo expida;
 
 > <small>(ADICIONADA, P.O. 22 DE ENERO DE 2014)</small>
 
-XV.- Supervisar que el área de Recursos Humanos del Ayuntamiento, allegue a sus trabajadores, a los elementos de seguridad pública o a los deudos de ambos, copia certificada del acuerdo mediante el cual el Cabildo aprueba y otorga los beneficios de pensiones o jubilaciones, así como "efectuar la autorización y registro de dicho documento; y
+XV. Supervisar que el área de Recursos Humanos del Ayuntamiento, allegue a sus trabajadores, a los elementos de seguridad pública o a los deudos de ambos, copia certificada del acuerdo mediante el cual el Cabildo aprueba y otorga los beneficios de pensiones o jubilaciones, así como "efectuar la autorización y registro de dicho documento; y
 
 a) Sustituir el término "así como de su legal protocolización", "efectuar la autorización y registro de dicho documento".
 
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2017)</small>
+
+XVI. Integrar por sí o a través de un representante común de todos los Contralores del Estado, el Comité Coordinador del Sistema Estatal Anticorrupción y el Sistema Estatal de Fiscalización;
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2017)</small>
+
+XVII. Cumplir cabalmente con las recomendaciones y lineamientos que emitan el Comité Coordinador del Sistema Estatal Anticorrupción y el Sistema Estatal de Fiscalización, y
+
 > <small>(ADICIONADA, P.O. 22 DE ENERO DE 2014)</small>
 
-XVI.- Las demás que le otorguen otros ordenamientos jurídicos o que el Ayuntamiento le confiera dentro del marco de sus atribuciones.
+XVIII. Las demás que le otorguen otros ordenamientos jurídicos o que el Ayuntamiento le confiera dentro del marco de sus atribuciones.
 
 ###### Artículo 87.
 
@@ -1921,9 +1929,11 @@ La destitución también procederá cuando se advierta la comisión de irregular
 
 En todo momento, al Contralor Municipal le será respetado su derecho de audiencia y debido procedimiento, debiéndose dictar una resolución fundada y motivada.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+
 ###### Artículo 88.
 
-Se establece la coordinación institucional entre los órganos de control del Poder Ejecutivo, del Poder Legislativo y de los Ayuntamientos, para unificar criterios en los métodos, procedimientos y alcances sobre las funciones de seguimiento, control y evaluación; instrumentar, participar y recibir la capacitación para el mejor desempeño de sus funciones, de las actualizaciones del marco normativo y de los sistemas de seguimiento y revisiones, formular consultas sobre aspectos operativos o normativos, intercambiar experiencias y elaborar propuestas de mejoramiento de la administración pública.
+Se establece la coordinación institucional entre los órganos de control del Poder Ejecutivo, del Poder Legislativo y de los Ayuntamientos, así como con el Sistema Estatal Anticorrupción y el Sistema Estatal de Fiscalización, para unificar criterios en los métodos, procedimientos y alcances sobre las funciones de seguimiento, control y evaluación; instrumentar, participar y recibir la capacitación para el mejor desempeño de sus funciones, de las actualizaciones del marco normativo y de los sistemas de seguimiento y revisiones; formular consultas sobre aspectos operativos o normativos; intercambiar experiencias y elaborar propuestas de mejoramiento de la administración pública.
 
 ###### Artículo 89.
 
@@ -2401,7 +2411,7 @@ Cuando las licitaciones a que se hace referencia en el artículo anterior no sea
 
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2012)</small>
 
-Con el propósito de preservar las fuentes deempleo, el Ayuntamiento podrá disponer, de se s aun diez por ciento como máximo, del total delpresupuesto anual destinado a las adquisiciones oprestaciones de servicios, contratando para ello amicro o pequeños empresarios de la misma localidadmunicipal. Los recursos en ningún caso podráninvolucrar aportaciones o subsidios de origen federal oestatal (sic).
+Con el propósito de preservar las fuentes deempleo, el Ayuntamiento podrá disponer, de se s aun diez por ciento como máximo, del total delpresupuesto anual destinado a las adquisiciones oprestaciones de servicios, contratando para ello amicro o pequeños empresarios de la misma localidadmunicipal. Los recursos en ningún caso podráninvolucrar aportaciones o subsidios de origen federal oestatal. (sic)
 
 > <small>(ADICIONADO, P.O. 16 DE MAYO DE 2012)</small>
 
@@ -4034,6 +4044,64 @@ SEXTA. Por única ocasión, los plazos a que hace referencia el artículo 168 de
 Los procesos de selección interna de candidatos a los cargos de Gobernador, Diputados al Congreso y miembros de los ayuntamientos, se llevarán a cabo a partir del 15 de enero del año de la elección, y no podrán extenderse más allá del día 15 de marzo del año de la elección.
 
 SÉPTIMA. Se derogan las disposiciones de menor rango que se opongan al presente Decreto.
+
+P.O. 19 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL CIENTO NOVENTA Y TRES POR EL QUE SE EXPIDEN LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE MORELOS; LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS; LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE MORELOS; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS; DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS; Y DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS".]
+
+PRIMERA. Una vez aprobadas las presentes leyes y reformas de Ley, expídase el Decreto respectivo y remítase al Titular del Poder Ejecutivo, para su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Estado de Morelos, para los efectos señalados en los artículos 44, 47 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor a partir del día diecinueve de julio de dos mil diecisiete, previa publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Estado de Morelos.
+
+TERCERA. Los procedimientos de responsabilidad administrativa, que hayan iniciado su trámite de conformidad con la Ley Estatal de Responsabilidades de los Servidores Públicos continuarán su trámite hasta su total resolución conforme a dicha normatividad.
+
+CUARTA. El Titular del Poder Ejecutivo, dentro de los noventa días hábiles siguientes a la entrada en vigor de la Ley de Responsabilidades Administrativas para el Estado de Morelos, deberá expedir el Reglamento respectivo; mientras tanto, continuará rigiendo el que se encuentra vigente en lo que no se oponga a lo previsto en este ordenamiento.
+
+QUINTA. En el caso de las Declaraciones Patrimoniales y de Intereses que tiene obligación de recibir la Entidad Superior de Auditoría y Fiscalización, podrá hacerlo de forma escrita hasta las que tengan que entregarse en el mes de mayo de dos mil dieciocho, las subsecuentes deberán ser entregadas de manera digital como menciona este ordenamiento.
+
+El Gobernador Constitucional del Estado, instruirá a la Secretaría de Hacienda del Poder Ejecutivo Estatal para que efectúe las transferencias y adecuaciones presupuestales necesarias para el cumplimiento de la Ley de Responsabilidades Administrativas para el Estado de Morelos y que se considere una partida específica en el Presupuesto de Egresos del Gobierno del Estado para el siguiente Ejercicio Fiscal.
+
+SEXTA. Notifíquese a la Secretaría de la Contraloría del Poder Ejecutivo, a la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos, al Consejo de la Judicatura Estatal, a los treinta y tres ayuntamientos en el Estado y sus respectivas Contralorías municipales, a los organismos a los que la Constitución local les otorga y reconoce autonomía y sus respectivos Órganos de control interno, para efecto de que tomen las medidas necesarias respecto del inicio de la vigencia de la Ley de Responsabilidades Administrativas para el Estado de Morelos, como son, de manera enunciativa mas no limitativa, la expedición del código de ética para sus funcionarios.
+
+SÉPTIMA. La Declaración de Modificación Patrimonial correspondiente al ejercicio 2016, presentada en enero del presente año, será válida por esta única ocasión en lo que respecta a dicha obligación, debiéndose presentar las que corresponden a los ejercicios subsecuentes en el mes de mayo de cada año.
+
+OCTAVA. A la entrada en vigor del presente Decreto, quedan Derogados los Títulos Cuarto y Quinto de la Ley Estatal de Responsabilidades de los Servidores Públicos, publicada en el Periódico Oficial "Tierra y Libertad", número 4562 de fecha veinticuatro de octubre de dos mil siete, con la salvedad de que los asuntos que conozca el Consejo de la Judicatura Estatal y su órgano de control interno, los cuales se continuarán rigiendo de forma supletoria con las disposiciones previstas en el citado Título Cuarto, hasta en tanto su reglamentación orgánica se adecue a las reformas en cuestión.
+
+NOVENA. El Tribunal de Justicia Administrativa dentro de los noventa días siguientes a la entrada en vigor de la Ley de Justicia Administrativa del Estado de Morelos, deberá expedir el reglamento interior, mientras tanto continuará rigiendo el reglamento vigente en lo que no se oponga a lo previsto en este ordenamiento.
+
+DÉCIMA. El Tribunal de Justicia Administrativa dentro de los ciento veinte días siguientes a la entrada en vigor de la presente Ley, deberá expedir los Manuales de Organización y Procedimientos del Tribunal de Justicia Administrativa.
+
+DÉCIMA PRIMERA. El Poder Ejecutivo, el Tribunal de Justicia Administrativa, así como las Universidades Públicas en el Estado, en ejercicio del Servicio Social al que están obligadas, deberán realizar las acciones que correspondan, a efecto de que el Expediente Electrónico, inicie su operación a más tardar el treinta y uno de diciembre de dos mil veinte. El Pleno del Tribunal de Justicia Administrativa podrá emitir los acuerdos necesarios para la implementación progresiva del Expediente Electrónico.
+
+DÉCIMA SEGUNDA. El Gobernador Constitucional del Estado, instruirá a la Secretaría de Hacienda del Poder Ejecutivo Estatal para que efectúe las transferencias y adecuaciones presupuestales necesarias para el cumplimiento del presente Decreto por el que se expide la Ley de Justicia Administrativa del Estado de Morelos y que se considere una partida específica en el Presupuesto de Egresos del Gobierno del Estado para el siguiente Ejercicio Fiscal.
+
+DÉCIMA TERCERA. Notifíquese al Poder Ejecutivo y al Tribunal de Justicia Administrativa (sic) las Universidades Públicas del Estado de Morelos para efecto de ejecutar y cumplir todos los actos jurídicos, administrativos y presupuestales que correspondan para el inicio en operación del Expediente Electrónico.
+
+DÉCIMA CUARTA. Notifíquese a los treinta y tres ayuntamientos en el Estado, a las dependencias del Poder Ejecutivo del Estado, o de sus organismos descentralizados para efecto de que tomen las medidas necesarias respecto del el (sic) inicio en operación del Expediente Electrónico en el Tribunal de Justicia Administrativa del Estado de Morelos.
+
+DÉCIMA QUINTA. El Pleno del Tribunal de Justicia Administrativa, dentro del ámbito de su competencia, efectuará la difusión de la implementación del Expediente Electrónico y los Formatos de demanda que faciliten en la vía electrónica a los gobernados el acceso a la Justicia administrativa, en especial, en aquellos asuntos de poca cuantía y de gran incidencia de las personas que se encuentren (sic) el Estado de Morelos.
+
+DÉCIMA SEXTA. El Pleno del Tribunal de Justicia Administrativa, dentro del ámbito de sus respectivas competencias, efectuará las acciones necesarias y suscribirá los instrumentos jurídicos necesarios con el Tribunal Federal de Justicia Fiscal y Administrativa, el Consejo de la Judicatura Federal y o Tribunales similares de otras entidades federativas, para lograr la implementación del Expediente Electrónico.
+
+DÉCIMASÉPTIMA. En congruencia con la Disposición Transitoria Octava del Decreto Mil Ochocientos Nueve publicado en el Periódico Oficial "Tierra y Libertad" número 5487 de fecha siete de abril del presente año, así como con este Decreto que reforma, adiciona y deroga diversas disposiciones de la Ley Orgánica de la Fiscalía General del Estado de Morelos, se dispone que el Titular del Poder Ejecutivo realice las adecuaciones administrativas que resulten necesarias.
+
+DÉCIMA OCTAVA. Dentro del plazo de noventa días hábiles, contados a partir de que surta efectos el presente Decreto que reforma, adiciona y deroga diversas disposiciones de la Ley Orgánica de la Fiscalía General del Estado de Morelos, realícense las modificaciones reglamentarias a que haya lugar. Las referencias hechas a las actuales Fiscalías específicas se entenderán hechas a las Vicefiscalías.
+
+DÉCIMA NOVENA. En términos del artículo 3, segundo párrafo, de la Ley Orgánica de la Fiscalía General del Estado de Morelos, son de la competencia exclusiva de la Fiscalía Anticorrupción los delitos contenidos en el Título Vigésimo del Código Penal para el Estado de Morelos y cualquiera otro en el que participen los servidores públicos en el ejercicio de sus funciones oficiales. Las carpetas de investigación relacionadas con delitos de corrupción, iniciadas con anterioridad ante la Fiscalía General, continuarán a su cargo hasta su conclusión.
+
+VIGÉSIMA. Las reformas contenidas en las fracciones I del artículo 24 y la fracción III del artículo 41 de la Ley Orgánica Municipal del Estado de Morelos, relativas a la ratificación del nombramiento del Contralor Municipal, serán aplicables cuando ocurra una nueva designación con posterioridad a la entrada en vigor de dicha reforma, en respeto irrestricto al principio constitucional de irretroactividad.
+
+VIGÉSIMA PRIMERA. El Congreso del Estado de Morelos en plazo no mayor a 180 días hábiles a partir de la entrada en vigor del presente Decreto, deberá expedir la Ley en materia de Responsabilidad Política del estado de Morelos.
+
+VIGÉSIMA SEGUNDA. Se abroga la Ley de Auditoría y Fiscalización del Estado de Morelos, publicada en el Periódico Oficial "Tierra y Libertad" Órgano de Difusión del Gobierno del Estado de Morelos el 13 de mayo de 2015, conforme a lo dispuesto en los transitorios subsecuentes y se derogan todas las disposiciones legales que contravengan o se opongan a la Ley de Fiscalización y Rendición de Cuentas del Estado de Morelos aprobada en el presente Decreto.
+
+VIGÉSIMA TERCERA. Los procedimientos administrativos iniciados de conformidad con la Ley de Auditoría y Fiscalización del Estado de Morelos, publicada en el Periódico Oficial "Tierra y Libertad" Órgano de Difusión del Gobierno del Estado de Morelos el 13 de mayo de 2015, que se encuentren en trámite o pendientes de resolución a la entrada en vigor de la Ley de Fiscalización y Rendición de Cuentas del Estado de Morelos, se resolverán hasta su conclusión definitiva en términos de dicha Ley.
+
+VIGÉSIMA CUARTA. La ESAF deberá actualizar y, en su caso, publicar la normatividad que conforme a sus atribuciones debe expedir, en un plazo no mayor de ciento ochenta días hábiles contados a partir de que la Ley de Fiscalización y Rendición de Cuentas del Estado de Morelos cobre vigencia.
+
+VIGÉSIMA QUINTA. LA ESAF deberá decretar de oficio la transferencia documental al archivo histórico de los asuntos que se encuentran en el supuesto establecido en el artículo 69 de la Ley de Fiscalización Superior del Estado de Morelos y 95 de la Ley de Auditoría y Fiscalización del Estado de Morelos, de conformidad con lo dispuesto en el artículo 35 de la Ley Estatal de Documentación y Archivos de Morelos, debiendo informar respecto de dicho trámite al Congreso del Estado de Morelos.
+
+VIGÉSIMA SEXTA. El Auditor General, el titular del Consejo de Vigilancia, los Auditores Especiales y los Directores Generales de ESAF en funciones, permanecerán en su encargo hasta concluir el periodo por el que fueron designados, pudiendo participar como candidatos en la convocatoria para la designación de Auditor General previsto en la Ley de Fiscalización y Rendición de Cuentas del Estado de Morelos, y los Auditores Especiales y Directores Generales podrán ser nombrados por un periodo más previa evaluación que haga el Órgano Político del Congreso del Estado.
 
 ###### ARTÍCULO CUARTO.
 
