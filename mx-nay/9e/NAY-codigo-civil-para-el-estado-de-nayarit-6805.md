@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "2016-12-03"
+last_updated: "2017-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2017.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -1241,11 +1241,9 @@ De estos impedimentos sólo son dispensables la falta de acreditación de haber 
 
 (DEROGADO, P.O. 8 DE JUNIO DE 2011)
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
-
 ###### Artículo 154.
 
-La mujer puede contraer nuevo matrimonio, en tanto acredite no encontrarse encinta, a no ser que se encuentre en la prohibición establecida en el artículo 282.
+(DEROGADO, P.O. 19 DE JULIO DE 2017)
 
 ###### Artículo 155.
 
@@ -1815,11 +1813,13 @@ Si al declararse la nulidad del matrimonio la mujer estuviere encinta, se tomar�
 
 Es ilícito, pero no nulo el matrimonio:
 
-I.- Cuando se ha contraído estando pendiente la decisión de un impedimento que sea susceptible de dispensa;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
+I. Cuando se ha contraído estando pendiente la decisión de un impedimento que sea susceptible de dispensa, y
 
-II.- Cuando no se ha otorgado la previa dispensa que requiere el artículo 155, y cuando se celebre sin que hayan transcurrido los términos fijados en el artículo 154.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+
+II. Cuando no se ha otorgado la previa dispensa que requiere el artículo 155.
 
 > <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
 
@@ -2313,9 +2313,11 @@ Si el marido está bajo tutela por cualquier causa de las señaladas en la fracc
 
 Los herederos del marido, excepto en el caso del artículo anterior, no podrán contradecir la paternidad de un hijo nacido dentro de los ciento ochenta días de la celebración del matrimonio cuando el esposo no haya comenzado esta demanda. En los demás casos, si el esposo ha muerto sin hacer la reclamación dentro del término hábil, los herederos tendrán, para proponer la demanda, sesenta días, contados desde aquel en que el hijo haya sido puesto en posesión de los bienes del padre, o desde que los herederos se vean turbados por el hijo en la posesión de la herencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
+
 ###### Artículo 327.
 
-Si la viuda, la divorciada, o aquella cuyo matrimonio fuere declarado nulo, contrajera nuevas nupcias dentro del período prohibido por el artículo 154, la filiación del hijo que naciere después de celebrado el nuevo matrimonio, se establecerá conforme a las reglas siguientes:
+Si la viuda, la divorciada, o aquella cuyo matrimonio fuere declarado nulo, contrajera nuevas nupcias, la filiación del hijo que naciere después de celebrado el nuevo matrimonio, se establecerá conforme a las reglas siguientes:
 
 I.- Se presume que el hijo es del primer matrimonio si nace dentro de los trescientos días siguientes a la disolución del primer matrimonio y antes de ciento ochenta días de la celebración del segundo;
 
@@ -2579,7 +2581,7 @@ Se presumen hijos del concubinario y de la concubina:
 
 I.- Los nacidos después de ciento ochenta días, contados desde que comenzó el concubinato;
 
-II.- Los nacidos dentro de los trescientos día(sic) siguientes al en que cesó la vida común entre el concubinario y la concubina.
+II.- Los nacidos dentro de los trescientos día (sic) siguientes al en que cesó la vida común entre el concubinario y la concubina.
 
 ###### Artículo 376.
 
@@ -2973,6 +2975,10 @@ En caso de separación de quienes ejercen la patria potestad, ambos deberán con
 
 En este supuesto, con base en el interés superior del menor, éste quedará bajo los cuidados y atenciones de uno de ellos. El otro estará obligado a proporcionar alimentos y conservará los derechos de vigilancia y de convivencia con el menor; conforme a las modalidades previstas en el convenio o resolución judicial.
 
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+
+La patria potestad podrá ser limitada cuando el titular de ésta incurra en conductas de violencia familiar previstas en este Código, en contra de las personas sobre las cuales la ejerza, en consecuencia podrá modificarse o restringirse el régimen de visitas y convivencias que en su caso se tengan decretadas, a fin de proteger la integridad física y psicológica de los menores de edad.
+
 > <small>(REFORMADO, P.O. 5 DE MAYO DE 2007)</small>
 
 ###### Artículo 409.
@@ -3177,13 +3183,17 @@ VI.- Por que lo deje abandonado por más de tres meses sin causa justificada, si
 
 Las visitas ocasionales o intermitentes, no interrumpen el término de referencia sino tienen el firme propósito de que el menor les sea reintegrado;
 
-> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
 
-VII. Por la entrega que hagan los padres al sistema para el Desarrollo Integral de la Familia del Estado de Nayarit a través del Consejo Estatal de Adopciones o a una institución de asistencia privada legalmente autorizada para ello, para que sean dados en adopción, conforme al procedimiento fijado por el Código de Procedimientos Civiles, y
+VII.- Por la entrega que hagan los padres al sistema para el Desarrollo Integral de la Familia del Estado de Nayarit a través del Consejo Estatal de Adopciones o a una institución de asistencia privada legalmente autorizada para ello, para que sean dados en adopción, conforme al procedimiento fijado por el Código de Procedimientos Civiles;
 
-> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
 
-VIII.- Cuando el que la ejerza sea condenado por la comisión de un delito doloso en el que la víctima sea el menor.
+VIII.- Cuando el que la ejerza sea condenado por la comisión de un delito doloso en el que la víctima sea el menor de edad, y
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2017)</small>
+
+IX.- Cuando el que la ejerza incurra en actos de violencia familiar en contra del menor de edad, en grado suficiente para determinar la pérdida de tal derecho.
 
 > <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
 
@@ -16368,3 +16378,9 @@ P.O. 3 DE DICIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS NUMERALES DEL CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 19 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT, EN MATERIA DE ERRADICACIÓN DE CONDUCTAS VIOLENTAS Y DISCRIMINATORIAS".]
+
+Único.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
