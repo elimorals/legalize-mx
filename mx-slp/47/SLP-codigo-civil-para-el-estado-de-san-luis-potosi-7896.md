@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "2017-04-11"
+last_updated: "2017-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # CODIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2017.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -5551,11 +5553,11 @@ ART. 1394.- Toda persona que tuviere en su poder un testamento cerrado y no lo p
 
 ART. 1394 BIS.- Testamento Público Simplificado es aquél que se otorga ante notario, respecto de un inmueble destinado o que vaya a destinarse a vivienda por el adquirente, en la misma escritura que consigne su adquisición o en la que se consigne la regularización de un inmueble que lleve a cabo cualquier autoridad, o en acto posterior, de conformidad con lo siguiente:
 
-I.- Que el precio del inmueble según avalúo catastral, no exceda del equivalente a veinticinco veces el salario mínimo general vigente en la zona elevado al año, al momento en que se otorgue el testamento. En los casos de regularización de inmuebles a que se refiere el párrafo anterior, no importará su monto;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+
+I.- Que el precio del inmueble según avalúo catastral, no exceda del equivalente a veinticinco veces de la unidad de medida y actualización diaria, elevada al año, al momento en que se otorgue el testamento. En los casos de regularización de inmuebles a que se refiere el párrafo anterior, no importará su monto;
 
 II.- El testador instituirá uno o más legatarios con derecho de acrecer, salvo designación de sustitutos. Para el caso de que cuando se llevare a cabo la protocolización notarial de la adquisición en favor de los legatarios, éstos fueren incapaces y no estuvieren sujetos a patria potestad o tutela, el testador también podrá designarles un representante especial que firme el instrumento notarial correspondiente por cuenta de los incapaces.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -6625,9 +6627,13 @@ ART. 1750.- Cuando sin empleo de mecanismos, instrumentos, etc., a que se refier
 
 ART. 1751.- La reparación del daño debe consistir a elección del ofendido en el restablecimiento de la situación anterior a él, cuando ello sea posible, o en el pago de daños y perjuicios.
 
-Cuando el daño cause a las personas y produzca la muerte, incapacidad total permanente, parcial permanente, total temporal o parcial temporal, el grado de la reparación se determinará atendiendo a lo dispuesto por la Ley Federal del Trabajo. Para calcular la indemnización que corresponda se tomará como base el cuádruplo del salario mínimo diario y se extenderá al número de días que para cada una de las incapacidades mencionadas señala la Ley Federal del Trabajo. En caso de muerte la indemnización corresponderá a los herederos de la víctima.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
-Los créditos por indemnización cuando la víctima fuere un asalariado son instransferibles (sic) y se cubrirán preferentemente en una sola exhibición, salvo pacto en contrario.
+Cuando el daño cause a las personas y produzca la muerte, incapacidad total permanente, parcial permanente, total temporal o parcial temporal, el grado de la reparación se determinará atendiendo a lo dispuesto por la Ley Federal del Trabajo. Para calcular la indemnización que corresponda se tomará como base el cuádruplo de la unidad de medida y actualización vigente y se extenderá al número de días que para cada una de las incapacidades mencionadas señala la Ley Federal del Trabajo. En caso de muerte la indemnización corresponderá a los herederos de la víctima.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+
+Los créditos por indemnización cuando la víctima fuere un asalariado son intransferibles, y se cubrirán preferentemente en una sola exhibición, salvo pacto en contrario.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1992)</small>
 
@@ -7457,7 +7463,9 @@ III.- Si una de las deudas fuere por alimentos;
 
 IV.- Si una de las deudas toma su origen de una renta vitalicia;
 
-V.- Si una de las deudas procede de salario mínimo;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+
+V.- Si una de las deudas procede de la unidad de medida y actualización;
 
 VI.- Si la deuda fuere de cosa que no puede ser compensada, ya sea por disposición de la Ley o por el título de que procede, a no ser que ambas deudas fueren igualmente privilegiadas;
 
@@ -10482,3 +10490,11 @@ P.O. 11 DE ABRIL DE 2017.
 PRIMERO. Este Decreto estará vigente al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 19 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0676.- SE REFORMAN DIVERSOS ARTÍCULOS DE LOS CÓDIGOS CIVIL, DE PROCEDIMIENTOS CIVILES, FAMILIAR Y PENAL TODOS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
