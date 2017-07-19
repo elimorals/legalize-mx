@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-las-personas-adultas-mayores-para-el-estado-y-los-57049"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-07"
-last_updated: "2016-12-01"
+last_updated: "2017-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO Y LOS MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2017.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 7 de agosto de 2007.
 
@@ -303,11 +303,15 @@ XIV. A recibir asesoría jurídica en materia familiar;
 
 XV. A la emisión de una cartilla médica para el control de la salud;
 
-> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
 
-XVI. De asociarse y conformar organizaciones de personas adultas mayores, y
+XVI. De asociarse y conformar organizaciones de personas adultas mayores;
 
-XVII. Los demás que establezca la ley.
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2017)</small>
+
+XVII. Acceder a los servicios de apoyo económico establecido por el artículo 42 de esta Ley, y
+
+XVIII. Los demás que establezca la ley.
 
 ###### ARTICULO 7°.
 
@@ -899,9 +903,17 @@ Los servicios de apoyo económicos dirigidos a las personas adultas mayores cons
 
 I. Subsidios a las instituciones públicas y privadas encargadas de su cuidado y atención;
 
-II. Instrumentación de programas especiales de descuentos y exenciones en el pago de contribuciones y servicios, y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
 
-III. Instrumentación de programas especiales para la obtención de créditos para vivienda y préstamos personales.
+II. Instrumentación de programas especiales de descuentos y exenciones en el pago de contribuciones y servicios;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+
+III. Instrumentación de programas especiales para la obtención de créditos para vivienda y préstamos personales, y
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2017)</small>
+
+IV. Instrumentación de programas de apoyo económico, cuando exista suficiencia presupuestaria para otorgarlos.
 
 ###### ARTICULO 43.
 
@@ -1192,5 +1204,13 @@ P.O. 1 DE DICIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0428.- SE REFORMA (SIC) LOS ARTÍCULOS, 1° EN SU PÁRRAFO PRIMERO, 12 EN SU FRACCIÓN III EL INCISO Q), Y 44 TER; ADICIONA AL ARTÍCULO 44 QUÁTER PÁRRAFO SEGUNDO; Y DEROGA EL ARTÍCULO 59, DE Y A LA LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0678.- SE REFORMA (SIC) LOS ARTÍCULOS 6º Y 42; Y ADICIONA A LOS ARTÍCULOS, 6º UNA FRACCIÓN, Y 42 LA FRACCIÓN IV, DE LA LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
