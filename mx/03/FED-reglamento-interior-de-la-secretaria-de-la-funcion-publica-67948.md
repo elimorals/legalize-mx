@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-la-funcion-publica-6794
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-15"
-last_updated: "2017-01-12"
+last_updated: "2017-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67948&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2009-04-14"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE LA FUNCION PUBLICA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA FUNCIÓN PÚBLICA, PUBLICADO EN EL D.O.F. DE 19 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA FUNCIÓN PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE JULIO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 15 de abril de 2009.
 
@@ -4408,3 +4410,23 @@ La Contraloría Interna de la Secretaría de la Función Pública y el Órgano I
 SÉPTIMO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto autorizado a la Secretaría de la Función Pública.
 
 OCTAVO.- La Oficialía Mayor de la Secretaría de la Función Pública realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a las unidades administrativas que se modifican o desaparecen, sean transferidos a las unidades administrativas que correspondan, en los términos del presente Decreto y de conformidad con las disposiciones jurídicas aplicables.
+
+D.O.F. 19 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA FUNCIÓN PÚBLICA."]
+
+PRIMERO.- El presente Reglamento entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de la Función Pública publicado el 15 de abril de 2009 en el Diario Oficial de la Federación, y se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+TERCERO.- Las referencias que se hagan y las atribuciones que se otorgan en decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas, a las unidades administrativas de la Secretaría de la Función Pública que cambian de denominación por virtud del presente ordenamiento, se entenderán hechas o conferidas a las unidades administrativas que resulten competentes conforme al mismo.
+
+CUARTO.- Los asuntos en trámite que son atendidos por unidades administrativas que modifican sus atribuciones en virtud de la entrada en vigor del presente Reglamento, serán atendidos y resueltos por las unidades administrativas a las que se les da la competencia correspondiente en este ordenamiento.
+
+QUINTO.- Las modificaciones a la estructura orgánica de la Secretaría de la Función Pública que deriven de la entrada en vigor del presente Reglamento serán realizadas mediante movimientos compensados, por lo que no aumentará el presupuesto regularizable de dicha Secretaría.
+
+Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto autorizado a la Secretaría de la Función Pública.
+
+SEXTO.- Continuarán en vigor los acuerdos que hayan sido expedidos por el Secretario, así como los demás instrumentos jurídicos que actualmente se encuentren vigentes en lo que no se opongan a las disposiciones del presente Reglamento, en tanto no se modifiquen o dejen sin efectos.
+
+SÉPTIMO.- Las disposiciones del Reglamento Interior de la Secretaría de la Función Pública que se abroga con el presente ordenamiento, seguirán aplicándose en la tramitación de los procedimientos de responsabilidad administrativa de los servidores públicos iniciados con anterioridad a la entrada en vigor de la Ley General de Responsabilidades Administrativas, en términos del párrafo cuarto del tercero transitorio del Decreto por el que se expide la Ley General del Sistema Nacional Anticorrupción; la Ley General de Responsabilidades Administrativas, y la Ley Orgánica del Tribunal Federal de Justicia Administrativa, publicado el 18 de julio de 2016 en el Diario Oficial de la Federación.
