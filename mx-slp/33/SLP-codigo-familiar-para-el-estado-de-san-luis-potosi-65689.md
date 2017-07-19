@@ -4,7 +4,7 @@ identifier: "SLP-codigo-familiar-para-el-estado-de-san-luis-potosi-65689"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-18"
-last_updated: "2017-05-30"
+last_updated: "2017-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2017.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -33,7 +33,9 @@ DECRETO 555
 
 LA QUINCUAGESIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA:
 
-EXPOSICION DE MOTIVOS.
+EXPOSICION DE MOTIVOS
+
+[...]
 
 ###### ARTICULO PRIMERO.
 
@@ -375,9 +377,11 @@ IV. Por resolución judicial.
 
 Mientras subsista la sociedad conyugal, el dominio y posesión de los bienes comunes corresponde a ambos cónyuges; de igual forma, a ellos corresponde también su representación legal.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+
 ###### ARTICULO 53.
 
-La casa en que esté establecida la morada conyugal y los bienes muebles que les pertenezcan, sean propios de uno de los cónyuges o de ambos, y no se encuentre constituido el patrimonio familiar, no podrán ser enajenados si no es con el consentimiento expreso de los dos; tampoco podrán ser gravados esos bienes, ni embargados por los acreedores del marido o de la mujer o de ambos, siempre que dichos objetos no tengan en conjunto un valor mayor de dos mil salarios mínimos vigentes en el Estado.
+La casa en que esté establecida la morada conyugal y los bienes muebles que les pertenezcan, sean propios de uno de los cónyuges o de ambos, y no se encuentre constituido el patrimonio familiar, no podrán ser enajenados si no es con el consentimiento expreso de los dos; tampoco podrán ser gravados esos bienes, ni embargados por los acreedores del marido o de la mujer o de ambos, siempre que dichos objetos no tengan en conjunto un valor mayor de dos mil días del valor de la unidad de medida y actualización vigente.
 
 ### Capítulo VI. De las Donaciones Antenupciales
 
@@ -889,9 +893,11 @@ La casa habitación protegida por el patrimonio de la familia, necesariamente de
 
 La constitución del patrimonio familiar por alguna de las personas facultadas para ello, impide a la misma y a las otras, establecer más de un patrimonio familiar; en tal virtud, los que llegaran a constituirse contraviniendo esta disposición, no producirán efectos legales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
+
 ###### ARTICULO 121.
 
-El valor máximo permitido, respecto de los bienes que conformen el patrimonio familiar, será la cantidad que resulte de multiplicar el importe de ciento cincuenta días de salario mínimo vigente en el Estado, por trescientos sesenta y cinco días.
+El valor máximo permitido, respecto de los bienes que conformen el patrimonio familiar, será la cantidad que resulte de multiplicar el importe de ciento cincuenta días del valor de la unidad de medida y actualización vigente, por trescientos sesenta y cinco días.
 
 El incremento que sobrevenga respecto al valor de los mismos, originado por cualquier causa, no los sustrae del régimen que los salvaguarda; por lo que tal incremento o excedente tampoco será embargable.
 
@@ -2083,9 +2089,11 @@ Cuando los intereses de alguno o algunos de los incapaces, sujetos a la misma tu
 
 Los cargos de tutora o tutor y de persona curadora de un incapaz no pueden ser desempeñados a un mismo tiempo por una sola persona; tampoco pueden desempeñarse por personas que tengan entre sí parentesco, en cualquier grado de la línea recta o dentro del cuarto grado de la colateral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
+
 ###### ARTICULO 310.
 
-Cuando fallezca una persona que ejerza la tutela sobre una persona incapaz a quien deba nombrársele tutora, su ejecutor testamentario y, en caso de intestado, las o los parientes y personas con quienes haya vivido, están obligados a dar parte del fallecimiento al Ministerio Público, en un término de ocho días, a fin de que se provea la tutela, bajo la pena que de no hacerlo se imponga una multa equivalente a treinta días de salario mínimo.
+Cuando fallezca una persona que ejerza la tutela sobre una persona incapaz a quien deba nombrársele tutora, su ejecutor testamentario y, en caso de intestado, las o los parientes y personas con quienes haya vivido, están obligados a dar parte del fallecimiento al Ministerio Público, en un término de ocho días, a fin de que se provea la tutela, bajo la pena que de no hacerlo se imponga una multa equivalente a treinta días del valor de la unidad de medida y actualización vigente.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
@@ -2213,9 +2221,11 @@ Lo dispuesto en el artículo anterior, no libera a la persona tutora de justific
 
 Sí el padre o la madre del incapaz ejercían algún comercio o industria, la autoridad judicial, con el informe de dos peritos decidirá, si ha de continuar esa actividad o no; a no ser que ambos hubieren dispuesto algo sobre este punto, en cuyo caso se respetará su voluntad, en cuanto no ofrezca grave inconveniente, a juicio de la autoridad judicial.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+
 ###### ARTICULO 334.
 
-El dinero sobrante después de cubiertos los gastos y atenciones de la tutela, el que proceda de las rendiciones de capitales y el que se adquiera de cualquier otro modo, será impuesto por la persona tutora, dentro de tres meses contados desde que se hubieren reunido cincuenta salarios mínimos, sobre hipoteca segura, calificada bajo su responsabilidad, teniendo en cuenta el precio de la finca, sus productos y la depreciación que pueda sobrevenir al realizarla.
+El dinero sobrante después de cubiertos los gastos y atenciones de la tutela, el que proceda de las rendiciones de capitales y el que se adquiera de cualquier otro modo, será impuesto por la persona tutora, dentro de tres meses contados desde que se hubieren reunido cincuenta días del valor de la unidad de medida y actualización vigente, sobre hipoteca segura, calificada bajo su responsabilidad, teniendo en cuenta el precio de la finca, sus productos y la depreciación que pueda sobrevenir al realizarla.
 
 ###### ARTICULO 335.
 
@@ -2257,9 +2267,11 @@ Se requiere licencia judicial para que la persona tutora pueda transigir o compr
 
 El nombramiento de árbitros hecho por la persona tutora, deberá sujetarse a la aprobación de la autoridad judicial.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+
 ###### ARTICULO 345.
 
-Para que la persona tutora transija, cuando el objeto de reclamación consista en bienes inmuebles, muebles preciosos o bien, en valores mercantiles o industriales, cuya cuantía exceda de treinta salarios mínimos, necesita del consentimiento del curador y la aprobación judicial otorgada con audiencia de éste.
+Para que la persona tutora transija, cuando el objeto de reclamación consista en bienes inmuebles, muebles preciosos o bien, en valores mercantiles o industriales, cuya cuantía exceda de treinta días del valor de la unidad de medida y actualización vigente, necesita del consentimiento del curador y la aprobación judicial otorgada con audiencia de éste.
 
 ###### ARTICULO 346.
 
@@ -3524,3 +3536,11 @@ P.O. 30 DE MAYO DE 2017.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 19 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0676.- SE REFORMAN DIVERSOS ARTÍCULOS DE LOS CÓDIGOS CIVIL, DE PROCEDIMIENTOS CIVILES, FAMILIAR Y PENAL TODOS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
