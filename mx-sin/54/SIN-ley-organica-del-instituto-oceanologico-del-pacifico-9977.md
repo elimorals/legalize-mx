@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-instituto-oceanologico-del-pacifico-9977"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1974-03-27"
-last_updated: "1974-03-27"
+last_updated: "2017-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # LEY ORGANICA DEL INSTITUTO OCEANOLOGICO DEL PACIFICO
 
-LEY ORGANICA DEL INSTITUTO OCEANOLOGICO DEL PACIFICO
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO: 174, PUBLICADO EN EL P.O. DE 19 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+LEY ORGÁNICA DEL INSTITUTO OCEANOLÓGICO DEL PACÍFICO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2017 (ABROGADA).
 
 Ley publicada en la Primera Sección del Periódico Oficial el "Estado de Sinaloa", el miércoles 27 de marzo de 1974.
 
@@ -333,7 +335,7 @@ Si el ingreso familiar es superior a cuatro veces el salario mínimo en Mazatlá
 
 Para efectuar el estudio socio-económico correspondiente, la Institución contará con el auxilio de los Municipios y el Gobierno del Estado de Sinaloa;
 
-b) .- La Institución estimulará económicamente el esfuerzo de cada alumno regular con promedio aprobatorio.
+b).- La Institución estimulará económicamente el esfuerzo de cada alumno regular con promedio aprobatorio.
 
 Este estímulo estará en función del promedio del estudiante. El Consejo Consultivo, a través de Reglamento, determinará el monto y forma de esos estímulos, tomándose siempre y en todo caso, para el pago de los mismos, el 50% del total de las cuotas mensuales pagadas por los alumnos. El 50% restante será una de las fuentes de ingresos previstas en el Artículo 4 de esta Ley.
 
@@ -418,3 +420,13 @@ Lic. Francisco Rodolfo Alvarez Fárber.
 El Secretario de Finanzas del Estado
 
 Lic. Raúl Ibáñez Villegas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 174 DEL H. CONGRESO DEL ESTADO.- QUE ABROGA LA LEY ORGÁNICA DEL INSTITUTO OCEANOLÓGICO DEL PACÍFICO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Sinaloa".
