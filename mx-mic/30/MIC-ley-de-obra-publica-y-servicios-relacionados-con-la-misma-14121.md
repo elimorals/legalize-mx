@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-14121
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-07"
-last_updated: "2016-12-29"
+last_updated: "2017-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14121&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el lunes 7 de diciembre de 1998.
 
@@ -133,7 +133,7 @@ XI. Comité: El Comité de Apoyo para la Adjudicación y Fallo de los Concursos 
 
 XII. Contratista: La persona física o moral que celebre contratos de obra pública y de servicios relacionados con la misma en los términos de la presente Ley;
 
-XIII. Coordinación: La Coordinación de Contraloría;
+XIII. (DEROGADA, P.O. 20 DE JULIO DE 2017)
 
 XIV. Dependencias: Las señaladas en la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo;
 
@@ -167,6 +167,10 @@ XXVIII. Residencia de Supervisión: La facultada por las Dependencias, por las �
 
 XXIX. Secretaría: La Secretaría de Comunicaciones y Obras Públicas y/o la dependencia que conforme (sic) atribución le corresponda para los ayuntamientos del estado;
 
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2017)</small>
+
+XXIX BIS. Secretaría de Contraloría: La Secretaría de Contraloría del Estado;
+
 XXX. Sector: El agrupamiento de dependencias o entidades que tengan las atribuciones y funciones para cumplir con lo señalado por los artículos 1° y 2° de la presente Ley y que será coordinado por la Dependencia que designe el titular del Poder Ejecutivo Estatal; y,
 
 XXXI. Superintendente de construcción: El representante del contratista ante la dependencia, entidad o ayuntamiento contratante, con facultades necesarias para el debido cumplimiento de las obligaciones contractuales, con perfil y grado académico de nivel licenciatura en las áreas de ingeniería civil o arquitectura.
@@ -175,17 +179,19 @@ XXXI. Superintendente de construcción: El representante del contratista ante la
 
 El gasto de la obra pública del Gobierno del Estado y de los ayuntamientos se sujetará a lo previsto en sus respectivos Presupuestos de Egresos, y en lo conducente a las demás disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2017)</small>
 
 ###### Artículo 5°.
 
-La aplicación de la presente Ley estará a cargo del titular del Ejecutivo Estatal por conducto de la Secretaría, y de los ayuntamientos cuando las obras sean realizadas con recursos financieros propios, y la vigilancia de su cumplimiento se hará por medio de la Coordinación y del Ayuntamiento; así como de la Auditoría Superior de Michoacán en el ámbito de su competencia, sin perjuicio de la intervención que corresponda a otras dependencias conforme a esta Ley o a otras disposiciones legales.
+La aplicación de la presente Ley estará a cargo del Titular del Ejecutivo Estatal por conducto de la Secretaría, y de los ayuntamientos cuando las obras sean realizadas con recursos financieros propios, y la vigilancia de su cumplimiento se hará por medio de la Secretaría de Contraloría y del Ayuntamiento; así como de la Auditoría Superior de Michoacán en el ámbito de su competencia, sin perjuicio de la intervención que corresponda a otras dependencias conforme a esta Ley o a otras disposiciones legales.
 
 ###### Artículo 6°.
 
 La ejecución de las obras públicas que realicen las dependencias, entidades, ayuntamientos y entidades paramunicipales, con cargo total o parcial a fondos aportados por la Federación conforme a los convenios celebrados entre los Poderes Ejecutivo Estatal, Ejecutivo Federal y ayuntamientos, estarán sujetas a las disposiciones de la Legislación Federal vigente.
 
-En tratándose de obras que realicen los ayuntamientos y las entidades paramunicipales, con financiamiento total o parcial de recursos financieros estatales, conforme a los convenios que se celebren, se deberán observar, además, las disposiciones que dicten las autoridades estatales conforme a su competencia, y en este caso, su vigilancia estará a cargo también de la Coordinación.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2017)</small>
+
+En tratándose de obras que realicen los ayuntamientos y las entidades paramunicipales, con financiamiento total o parcial de recursos financieros estatales, conforme a los convenios que se celebren, se deberán observar, además, las disposiciones que dicten las autoridades estatales conforme a su competencia, y en este caso, su vigilancia estará a cargo también de la Secretaría de Contraloría.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
 
@@ -383,9 +389,9 @@ XI. En su caso, copia de la instalación de sistemas de gestión de calidad, o d
 
 XII. El pago de los derechos correspondientes.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2017)</small>
 
-Las personas interesadas, al quedar inscritos en el Padrón de Contratistas de Obras Públicas adquieren el carácter de contratistas. La Secretaría enviara a la Coordinación mensualmente el Padrón a efecto de que las especialidades otorgadas a los contratistas sean congruentes con la información para ello presentada por los interesados. El registro en el Padrón de Contratistas de Obras Públicas tendrá vigencia de un año. Los contratistas tendrán la obligación de notificar a la Secretaría cualquier cambio en la información que proporcionaron para obtener su registro.
+Las personas interesadas, al quedar inscritos en el Padrón de Contratistas de Obras Públicas adquieren el carácter de contratistas. La Secretaría enviará a la Secretaría de Contraloría mensualmente el Padrón a efecto de que las especialidades otorgadas a los contratistas sean congruentes con la información para ello presentada por los interesados. El registro en el Padrón de Contratistas de Obras Públicas tendrá vigencia de un año. Los contratistas tendrán la obligación de notificar a la Secretaría cualquier cambio en la información que proporcionaron para obtener su registro.
 
 La Secretaría podrá verificar en cualquier tiempo la información que los contratistas hubieren aportado para la obtención de su registro.
 
@@ -501,7 +507,9 @@ II. El Titular de la Secretaría de Finanzas y Administración;
 
 III. El Titular de la Secretaría de Urbanismo y Medio Ambiente;
 
-IV. El Titular de la Coordinación; y,
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2017)</small>
+
+IV. El Titular de la Secretaría de Contraloría; y,
 
 V. El Titular del área requirente.
 
@@ -529,7 +537,9 @@ En la ejecución de obra por administración directa, la dependencia, entidad, a
 
 Previamente a la ejecución de la obra, la dependencia, entidad, ayuntamiento o entidad paramunicipal de que se trate, por conducto de sus titulares o de sus órganos de gobierno en el caso de las entidades paraestatales, emitirá el acuerdo respectivo, debidamente fundado y motivado, que contendrá: la descripción pormenorizada de la obra que se debe ejecutar, los proyectos, planos, especificaciones, programas de ejecución y suministro, y el presupuesto correspondiente.
 
-En la ejecución de las obras a que se refiere este artículo, la Coordinación y los ayuntamientos, podrán en cualquier tiempo verificar que se cuente con el expediente técnico, los programas de ejecución, así como de utilización de recursos humanos, maquinaria y equipo de construcción, los cuales deberán contar con la validación de la Dependencia Coordinadora del Sector, en su caso.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2017)</small>
+
+En la ejecución de las obras a que se refiere este artículo, la Secretaría de Contraloría y los ayuntamientos, podrán en cualquier tiempo verificar que se cuente con el expediente técnico, los programas de ejecución, así como de utilización de recursos humanos, maquinaria y equipo de construcción, los cuales deberán contar con la validación de la Dependencia Coordinadora del Sector, en su caso.
 
 ###### Artículo 25.
 
@@ -559,13 +569,15 @@ Los documentos con los que los licitantes acrediten su existencia legal y las fa
 
 La documentación distinta a la propuesta técnica y económica podrá entregarse, a elección del licitante, dentro o fuera de dicho sobre.
 
-> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2017)</small>
 
 ###### Artículo 26 Bis.
 
-En las licitaciones públicas se podrán utilizar medios electrónicos, conforme a las disposiciones administrativas que emita la Coordinación. Lo anterior, sin perjuicio de que los licitantes puedan optar por presentar sus proposiciones por escrito durante el acto de presentación y apertura de proposiciones para ello establecido, y en cumplimiento a lo establecido en la presente Ley y su Reglamento.
+En las licitaciones públicas se podrán utilizar medios electrónicos, conforme a las disposiciones administrativas que emita la Secretaría de Contraloría. Lo anterior, sin perjuicio de que los licitantes puedan optar por presentar sus proposiciones por escrito durante el acto de presentación y apertura de proposiciones para ello establecido, y en cumplimiento a lo establecido en la presente Ley y su Reglamento.
 
-En el caso de las proposiciones presentadas a través de medios electrónicos conforme a los lineamientos que para ello disponga la Coordinación y los órganos de Control para las demás áreas contratantes en el caso de los poderes judicial y legislativo o bien el cabildo para los efectos de los ayuntamientos y entidades paramunicipales, los sobres serán generados mediante el uso de tecnologías que resguarden la confidencialidad de la información de tal forma que sean inviolables, conforme a las disposiciones técnicas que al efecto se establezcan.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2017)</small>
+
+En el caso de las proposiciones presentadas a través de medios electrónicos conforme a los lineamientos que para ello disponga la Secretaría de Contraloría y los Órganos de Control para las demás áreas contratantes en el caso de los poderes judicial y legislativo o bien el cabildo para los efectos de los ayuntamientos y entidades paramunicipales, los sobres serán generados mediante el uso de tecnologías que resguarden la confidencialidad de la información de tal forma que sean inviolables, conforme a las disposiciones técnicas que al efecto se establezcan.
 
 Las proposiciones en el caso de que éstas sean enviadas a través de medios remotos de comunicación electrónica, al emplearse medios de identificación electrónica, producirán los mismos efectos que las leyes otorgan a los documentos correspondientes y, en consecuencia, tendrán el mismo valor probatorio.
 
@@ -587,11 +599,11 @@ Las dependencias y entidades para hacer la evaluación de las proposiciones, deb
 
 A los actos del procedimiento de licitación pública e invitación restringida podrá asistir cualquier persona en calidad de observador, bajo la condición de registrar su asistencia y abstenerse de intervenir en cualquier forma en los mismos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2017)</small>
 
 ###### Artículo 27.
 
-Las convocatorias, que podrán referirse a una o más obras o servicios relacionados, se publicarán en el Periódico Oficial del Estado, en los portales electrónicos oficiales así como en los sitios de la Coordinación y de la Dependencia, entidad, secretaría o entidad paramunicipal convocante, y en uno de los diarios de mayor circulación en el Estado, en el caso de los ayuntamientos la difusión electrónica será a través de sus portales electrónicos y contendrán:
+Las convocatorias, que podrán referirse a una o más obras o servicios relacionados, se publicarán en el Periódico Oficial del Estado, en los portales electrónicos oficiales así como en los sitios de la Secretaría de Contraloría y de la dependencia, entidad, secretaría o entidad paramunicipal convocante, y en uno de los diarios de mayor circulación en el Estado, en el caso de los ayuntamientos la difusión electrónica será a través de sus portales electrónicos y contendrán:
 
 I. El nombre de la dependencia, entidad, ayuntamiento o entidad paramunicipal convocante;
 
@@ -633,11 +645,13 @@ XII. Los criterios conforme a los cuales se decidirá la adjudicación.
 
 En los procedimientos de invitación restringida, las invitaciones correspondientes deberán ajustarse a los requisitos que para las convocatorias se establecen en el presente artículo.
 
-En el ejercicio de sus atribuciones, la Coordinación, los ayuntamientos y el órgano de gobierno respectivo de las entidades paramunicipales, podrán intervenir en todo el proceso de adjudicación del contrato.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2017)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2015)</small>
+En el ejercicio de sus atribuciones, la Secretaría de Contraloría, los ayuntamientos y el órgano de gobierno respectivo de las entidades paramunicipales, podrán intervenir en todo el proceso de adjudicación del contrato.
 
-Cuando por los umbrales de la inversión se encuadre en el supuesto de una licitación de origen internacional, la Secretaría y la Coordinación, en el ámbito de sus respectivas competencias y a solicitud de las dependencias, entidades, ayuntamientos y entidades paramunicipales, emitirán opinión que de origen a la emisión de un acuerdo administrativo en el que se fijen las condiciones que habrán de regir esa licitación, atendiendo siempre a las condiciones que en los tratados internacionales rijan.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2017)</small>
+
+Cuando por los umbrales de la inversión se encuadre en el supuesto de una licitación de origen internacional, la Secretaría y la Secretaría de Contraloría, en el ámbito de sus respectivas competencias y a solicitud de las dependencias, entidades, ayuntamientos y entidades paramunicipales, emitirán opinión que de origen a la emisión de un acuerdo administrativo en el que se fijen las condiciones que habrán de regir esa licitación, atendiendo siempre a las condiciones que en los tratados internacionales rijan.
 
 ###### Artículo 28.
 
@@ -815,9 +829,9 @@ La adjudicación del contrato obligará a la dependencia, entidad, ayuntamiento 
 
 Si el interesado no firmara el contrato dentro del término antes mencionado, perderá en favor de la convocante la garantía que hubiere otorgado, y la dependencia, entidad, ayuntamiento o entidad paramunicipal, podrá sin necesidad de un nuevo procedimiento, adjudicar el contrato al participante siguiente, en los términos del artículo 33 y de su propuesta, y así sucesivamente.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2017)</small>
 
-La adjudicación y firma del contrato que celebren las dependencias y entidades lo harán saber a la Secretaría de Finanzas y Administración a efecto de que oportunamente se realicen las afectaciones presupuestales que de ello se deriven y a la Coordinación para que en su ámbito de competencia realice los actos de verificación y control que incida en una debida ejecución, y en tratándose de contratos que celebren los ayuntamientos y entidades paramunicipales, se dará a conocer a la tesorería municipal y al órgano de gobierno respectivo, según se trate, para los efectos correspondientes.
+La adjudicación y firma del contrato que celebren las dependencias y entidades lo harán saber a la Secretaría de Finanzas y Administración a efecto de que oportunamente se realicen las afectaciones presupuestales que de ello se deriven y a la Secretaría de Contraloría que en su ámbito de competencia realice los actos de verificación y control que incida en una debida ejecución, y en tratándose de contratos que celebren los ayuntamientos y entidades paramunicipales, se dará a conocer a la Tesorería Municipal y al órgano de gobierno respectivo, según se trate, para los efectos correspondientes.
 
 El contratista a quien se adjudique el contrato, no podrá ejecutar la obra a través de otro; pero, con autorización previa de la dependencia, entidad, ayuntamiento o entidad paramunicipal respectiva, podrá hacerlo respecto de partes de la obra o cuando adquiera materiales o equipos que incluyan su instalación en la obra. En estos casos, el contratista seguirá siendo responsable de la ejecución de la obra ante la dependencia, entidad, ayuntamiento o entidad paramunicipal.
 
@@ -867,11 +881,15 @@ Sí las modificaciones exceden del porcentaje indicado o varían substancialment
 
 El conjunto de los programas de ejecución que se deriven de las modificaciones a los contratos, integrará el programa de ejecución convenido en el contrato, con el cual se medirá el avance físico de los trabajos.
 
-De las modificaciones a que se refiere el presente artículo, el titular de la dependencia, entidad, ayuntamiento o el titular de la entidad paramunicipal de que se trate, informará lo procedente a la Secretaría de Finanzas y Administración, a la Coordinación, y, en su caso, a la Dependencia Coordinadora de Sector, así como a la tesorería municipal y al órgano de gobierno, según corresponda, en un plazo no mayor de diez días hábiles contados a partir de la fecha en que se hubiere formalizado la modificación.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2017)</small>
+
+De las modificaciones a que se refiere el presente artículo, el titular de la dependencia, entidad, ayuntamiento o el titular de la entidad paramunicipal de que se trate, informará lo procedente a la Secretaría de Finanzas y Administración, a la Secretaría de Contraloría, y, en su caso, a la Dependencia Coordinadora de Sector, así como a la tesorería municipal y al órgano de gobierno, según corresponda, en un plazo no mayor de diez días hábiles contados a partir de la fecha en que se hubiere formalizado la modificación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2017)</small>
 
 ###### Artículo 39.
 
-Las dependencias, entidades, ayuntamientos y entidades paramunicipales podrán rescindir administrativamente los contratos de obra en caso de incumplimiento de las obligaciones a cargo del contratista. Asimismo, podrán dar por terminados anticipadamente los contratos por razones de interés general; así como suspender temporalmente en todo o en parte la obra contratada por cualquier causa justificada, notificando al contratista, a la Coordinación y a las Tesorerías estatal y municipal, según corresponda. Éstas últimas, a su vez, incluirán en la cuenta pública correspondiente las causas que motivaron tales suspensiones.
+Las dependencias, entidades, ayuntamientos y entidades paramunicipales podrán rescindir administrativamente los contratos de obra en caso de incumplimiento de las obligaciones a cargo del contratista. Asimismo, podrán dar por terminados anticipadamente los contratos por razones de interés general; así como suspender temporalmente en todo o en parte la obra contratada por cualquier causa justificada, notificando al contratista, a la Secretaría de Contraloría y a las tesorerías estatal y municipal, según corresponda. Éstas últimas, a su vez, incluirán en la cuenta pública correspondiente las causas que motivaron tales suspensiones.
 
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2015)</small>
 
@@ -901,9 +919,9 @@ IV. Cuando por caso fortuito o fuerza mayor se imposibilite la continuación de 
 
 Si la dependencia, entidad, ayuntamiento o entidad paramunicipal considera que el contratista ha incurrido en alguna de las causas de rescisión, se lo comunicará, a fin de que exponga al respecto lo que a su derecho convenga en un plazo de veinte días naturales. Si transcurrido este plazo no manifiesta nada en su defensa o si después de analizar las razones aducidas por éste, la dependencia, entidad, ayuntamiento o entidad paramunicipal, estima que las mismas no son satisfactorias, dictará la resolución que proceda dentro de un término de veinte días naturales siguientes a la fecha en que hubiere recibido el escrito de contestación del contratista o del vencimiento del plazo concedido para tal efecto.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2017)</small>
 
-Las dependencias, entidades, ayuntamiento y entidades paramunicipales, comunicarán la suspensión o la rescisión del contrato al contratista, a la Secretaría de Finanzas y Administración y a la Coordinación, y a la Dependencia Coordinadora del Sector, o bien, a la Tesorería municipal, según corresponda, dentro de los diez días hábiles siguientes a la fecha de la resolución.
+Las dependencias, entidades, ayuntamiento y entidades paramunicipales, comunicarán la suspensión o la rescisión del contrato al contratista, a la Secretaría de Finanzas y Administración y a la Secretaría de Contraloría, y a la Dependencia Coordinadora del Sector, o bien, a la Tesorería Municipal, según corresponda, dentro de los diez días hábiles siguientes a la fecha de la resolución.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
 
@@ -943,19 +961,19 @@ IV. La entidad paramunicipal contratante.
 
 Los contratistas con quienes se celebren contratos de obra pública o de servicios relacionados con la misma, cubrirán un cinco al millar sobre el importe de cada una de las estimaciones de trabajo, por los servicios de vigilancia, inspección y control necesarios para su ejecución.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2017)</small>
 
-En tratándose de obras contratadas por dependencias estatales o entidades paraestatales, la Secretaría de Finanzas y Administración al realizar el pago de las estimaciones de obra, retendrá el importe de los derechos a que se refiere el párrafo anterior y lo enviará a la Coordinación para el fortalecimiento de sus servicios.
+En tratándose de obras contratadas por dependencias estatales o entidades paraestatales, la Secretaría de Finanzas y Administración al realizar el pago de las estimaciones de obra, retendrá el importe de los derechos a que se refiere el párrafo anterior y lo enviará a la Secretaría de Contraloría para el fortalecimiento de sus servicios.
 
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2015)</small>
 
 En este mismo sentido, los Ayuntamientos y entidades paramunicipales, por conducto de sus tesorerías municipales o áreas responsables de la gestión financiera, harán la correspondiente retención y lo remitirán a sus respectivas áreas de control interno para los mismos fines.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2017)</small>
 
 ###### Artículo 44.
 
-Cuando a partir del acto de la presentación y apertura de proposiciones ocurran circunstancias de orden económico no previstas en el contrato de obra o prestación de servicios regulados por esta ley, que determinen un aumento o reducción de los costos de los trabajos aún no ejecutados conforme al programa pactado, dichos costos deberán ser ajustados aplicando para ello los factores de incremento conforme a los índices nacionales que al efecto se publiquen por la instancia competente, aplicando el ajuste que proceda conforme a la formula precio a precio. Cuando los costos relativos que requiera el contratista o la contratante no se encuentren dentro de los publicados, las instituciones procederán a calcularlos conforme a los lineamientos y metodología que formule la Coordinación. El aumento o reducción correspondiente deberá constar por escrito, y no será aplicable a los materiales adquiridos con el anticipo de acuerdo con la relación incluida en la propuesta económica.
+Cuando a partir del acto de la presentación y apertura de proposiciones ocurran circunstancias de orden económico no previstas en el contrato de obra o prestación de servicios regulados por esta ley, que determinen un aumento o reducción de los costos de los trabajos aún no ejecutados conforme al programa pactado, dichos costos deberán ser ajustados aplicando para ello los factores de incremento conforme a los índices nacionales que al efecto se publiquen por la instancia competente, aplicando el ajuste que proceda conforme a la formula precio a precio. Cuando los costos relativos que requiera el contratista o la contratante no se encuentren dentro de los publicados, las instituciones procederán a calcularlos conforme a los lineamientos y metodología que formule la Secretaría de Contraloría. El aumento o reducción correspondiente deberá constar por escrito, y no será aplicable a los materiales adquiridos con el anticipo de acuerdo con la relación incluida en la propuesta económica.
 
 El ajuste se aplicará a los costos directos, conservando constantes los porcentajes de indirectos y utilidad originales dentro del ejercicio del contrato. El costo por financiamiento estará sujeto a las variaciones de la tasa de interés propuesto.
 
@@ -965,7 +983,9 @@ Las dependencias, entidades, ayuntamientos o entidades paramunicipales, solo cub
 
 Las dependencias, entidades, ayuntamientos y entidades paramunicipales, serán las responsables de establecer en el contrato lo previsto en este artículo, la omisión dará lugar a que se les finquen las responsabilidades correspondientes a los responsables de las áreas de contratación y dejando a salvo los derechos de los contratistas.
 
-Las dependencias, entidades, ayuntamientos o entidades paramunicipales, informarán del aumento o reducción correspondiente, a la Coordinación, a la Secretaría de Finanzas y Administración y a la Dependencia Coordinadora de Sector, a la tesorería municipal y al órgano de gobierno respectivo, según corresponda.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2017)</small>
+
+Las dependencias, entidades, ayuntamientos o entidades paramunicipales, informarán del aumento o reducción correspondiente, a la Secretaría de Contraloría, a la Secretaría de Finanzas y Administración y a la Dependencia Coordinadora de Sector, a la Tesorería Municipal y al órgano de gobierno respectivo, según corresponda.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2015)</small>
 
@@ -975,7 +995,9 @@ El contratista comunicará por escrito a la dependencia, entidad, dependencia mu
 
 La recepción de la obra, se hará dentro de los cinco días hábiles siguientes a la fecha en que se haya constatado la terminación de los trabajos en los términos del párrafo anterior.
 
-La dependencia y entidad, ayuntamiento y entidad paramunicipal en el caso de que las obras sean ejecutadas con recursos financieros estatales, comunicará a la Coordinación y en su caso, a la Dependencia Coordinadora de Sector, dentro de un plazo máximo de diez días naturales siguientes a la terminación de los trabajos e informará la fecha señalada para su recepción, a fin de que, si lo estiman conveniente, nombren representantes que asistan a este acto.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2017)</small>
+
+La dependencia y entidad, ayuntamiento y entidad paramunicipal en el caso de que las obras sean ejecutadas con recursos financieros estatales, comunicará a la Secretaría de Contraloría y en su caso, a la Dependencia Coordinadora de Sector, dentro de un plazo máximo de diez días naturales siguientes a la terminación de los trabajos e informará la fecha señalada para su recepción, a fin de que, si lo estiman conveniente, nombren representantes que asistan a este acto.
 
 Cuando sin estar terminada la totalidad de la obra y a juicio de la dependencia, entidad, ayuntamiento o entidad paramunicipal contratante, existan trabajos terminados y estas partes son identificables y susceptibles de utilizarse, podrá pactarse su recepción, en estos casos se levantará el acta correspondiente en términos de ley.
 
@@ -1051,23 +1073,25 @@ VIII. Cuando se trate de obra que de realizarse bajo un procedimiento de licitac
 
 Para los casos previstos en las fracciones anteriores, se convocará a la o las personas que cuenten con la capacidad de respuesta inmediata y los recursos técnicos, financieros y demás que sean necesarios.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2017)</small>
 
-El titular de la dependencia o entidad, deberá obtener el acuerdo emitido por la Secretaría en los términos de la competencia de que se encuentra investida de conformidad con lo dispuesto en el artículo 3°, fracción I en relación con el 5° de esta Ley, acuerdo que invariablemente deberá de acreditar que la adjudicación de que se trata se encuentra investida de los principios de economía, eficiencia, eficacia y honradez en el ejercicio de los recursos públicos, y en un plazo que no exceda de diez días hábiles contados a partir de la fecha de iniciación de los trabajos, informar de estos hechos al Titular del Ejecutivo, a la Coordinación y a la Dependencia Coordinadora de Sector.
+El titular de la dependencia o entidad, deberá obtener el acuerdo emitido por la Secretaría en los términos de la competencia de que se encuentra investida de conformidad con lo dispuesto en el artículo 3°, fracción I en relación con el 5° de esta Ley, acuerdo que invariablemente deberá de acreditar que la adjudicación de que se trata se encuentra investida de los principios de economía, eficiencia, eficacia y honradez en el ejercicio de los recursos públicos, y en un plazo que no exceda de diez días hábiles contados a partir de la fecha de iniciación de los trabajos, informar de estos hechos al Titular del Ejecutivo, a la Secretaría de Contraloría y a la Dependencia Coordinadora de Sector.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
 
 Los ayuntamientos y entidades paramunicipales deberán contar con el acuerdo del Cabildo y del órgano de gobierno respectivo, de lo que informará a la Auditoría Superior de Michoacán dentro del mismo plazo señalado.
 
-Los ayuntamientos y entidades paramunicipales deberán informar a la Secretaría y a la Coordinación cuando realicen obras con financiamiento total o parcial de recursos financieros estatales.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2017)</small>
+
+Los ayuntamientos y entidades paramunicipales deberán informar a la Secretaría y a la Secretaría de Contraloría cuando realicen obras con financiamiento total o parcial de recursos financieros estatales.
 
 ###### Artículo 52.
 
 Las dependencias, entidades, ayuntamientos y entidades paramunicipales, bajo su responsabilidad, podrán llevar a cabo obra pública a través del procedimiento de invitación restringida a cuando menos tres contratistas por adjudicación directa, según corresponda, siempre y cuando el monto de la obra objeto del contrato no exceda de los rangos a que se refiere este artículo.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2017)</small>
 
-Para los efectos de la aplicación de este precepto, cada obra deberá considerarse individualmente a fin de determinar si queda comprendida dentro de los montos, límites o rangos que en consecuencia formule la Coordinación, los cuales deberán de ser publicados en el Periódico Oficial del Estado y en los portales electrónicos del Gobierno del Estado de Michoacán, de la Secretaría y de la Coordinación, actualizándose anualmente. En ningún caso, el importe total de una obra podrá ser fraccionado para que quede comprendida en los supuestos a que se refiere este artículo. Para el caso de los ayuntamientos y entidades paramunicipales cuando realicen obras con recursos financieros estatales, los montos, límites o rangos de referencia serán formulados por el cabildo y por el órgano de gobierno, según se trate.
+Para los efectos de la aplicación de este precepto, cada obra deberá considerarse individualmente a fin de determinar si queda comprendida dentro de los montos, límites o rangos que en consecuencia formule la Secretaría de Contraloría, los cuales deberán de ser publicados en el Periódico Oficial del Estado y en los portales electrónicos del Gobierno del Estado de Michoacán, de la Secretaría y de la Secretaría de Contraloría, actualizándose anualmente. En ningún caso, el importe total de una obra podrá ser fraccionado para que quede comprendida en los supuestos a que se refiere este artículo. Para el caso de los ayuntamientos y entidades paramunicipales cuando realicen obras con recursos financieros estatales, los montos, límites o rangos de referencia serán formulados por el cabildo y por el órgano de gobierno, según se trate.
 
 Los rangos que limiten los tipos de adjudicación, se fijarán atendiendo a la cuantía de las obras, consideradas individualmente y en función de la inversión total autorizada a las dependencias, entidades, ayuntamientos y entidades paramunicipales.
 
@@ -1077,9 +1101,13 @@ Los rangos que limiten los tipos de adjudicación, se fijarán atendiendo a la c
 
 El procedimiento de invitación restringida se sujetará a lo siguiente:
 
-I. Difundir la invitación en el sistema electrónico para ello determinado por la Coordinación y en los portales electrónicos del Gobierno del Estado, así como de la dependencia, entidad, ayuntamiento o entidad paramunicipal de que se trate;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2017)</small>
 
-II. El acto de presentación y apertura de proposiciones podrá hacerse sin la presencia de los correspondientes licitantes, pero invariablemente se invitará a un representante de la Coordinación y del órgano de control en la dependencia, entidad o ayuntamiento o entidad paramunicipal;
+I. Difundir la invitación en el sistema electrónico para ello determinado por la Secretaría de Contraloría y en los portales electrónicos del Gobierno del Estado, así como de la dependencia, entidad, ayuntamiento o entidad paramunicipal de que se trate;
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2017)</small>
+
+II. El acto de presentación y apertura de proposiciones podrá hacerse sin la presencia de los correspondientes licitantes, pero invariablemente se invitará a un representante de la Secretaría de Contraloría y del órgano de control en la dependencia, entidad o ayuntamiento o entidad paramunicipal;
 
 III. Para llevar a cabo la adjudicación correspondiente, se deberá contar con un mínimo de tres proposiciones susceptibles de análisis;
 
@@ -1093,21 +1121,23 @@ VI. Las demás disposiciones de esta Ley que resulten aplicables a la licitació
 
 ### CAPITULO QUINTO. DE LA INFORMACION, VERIFICACION Y CONTROL DE LAS OBRAS PUBLICAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2017)</small>
 
 ###### Artículo 53.
 
-Las dependencias, entidades, ayuntamientos y entidades paramunicipales cuando corresponda, deberán remitir a la Secretaría de Finanzas y Administración y a la Coordinación; en la forma y términos que éstas señalen, la información relativa a las obras que realicen o contraten, en el supuesto de los ayuntamientos y sus entidades, la información será enviada a sus áreas financieras.
+Las dependencias, entidades, ayuntamientos y entidades paramunicipales cuando corresponda, deberán remitir a la Secretaría de Finanzas y Administración y a la Secretaría de Contraloría; en la forma y términos que éstas señalen, la información relativa a las obras que realicen o contraten, en el supuesto de los ayuntamientos y sus entidades, la información será enviada a sus áreas financieras.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2017)</small>
 
-La Coordinación, los ayuntamientos, el órgano de gobierno en tratándose de las entidades paramunicipales, el Congreso del Estado y la Auditoría Superior de Michoacán en el ámbito de sus respectivas competencias, podrán realizar las visitas, inspecciones o auditorías que estimen pertinentes y solicitar a quien corresponda todos los datos e informes relacionados con las obras, organizándose para tal efecto con la Dependencia Coordinadora de Sector, en su caso.
+La Secretaría de Contraloría, los ayuntamientos, el órgano de gobierno en tratándose de las entidades paramunicipales, el Congreso del Estado y la Auditoría Superior de Michoacán en el ámbito de sus respectivas competencias, podrán realizar las visitas, inspecciones o auditorías que estimen pertinentes y solicitar a quien corresponda todos los datos e informes relacionados con las obras, organizándose para tal efecto con la Dependencia Coordinadora de Sector, en su caso.
 
 Para efectos del párrafo anterior las dependencias, entidades, ayuntamientos y entidades paramunicipales, conservarán en forma ordenada y sistemática la documentación completa y específica comprobatoria del gasto en las obras cuando menos por un lapso de cinco años contados a partir de la fecha de su recepción.
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2017)</small>
+
 ###### Artículo 54.
 
-Las dependencias, entidades, ayuntamientos y entidades paramunicipales, controlarán todas las fases de las obras públicas a su cargo; para tal efecto, establecerán los medios y procedimientos de control que requieran, de acuerdo con las normas que dicten el Ejecutivo Estatal a través de la Coordinación, los ayuntamientos y los órganos de gobierno de las entidades paramunicipales, en el ámbito de sus competencias.
+Las dependencias, entidades, ayuntamientos y entidades paramunicipales, controlarán todas las fases de las obras públicas a su cargo; para tal efecto, establecerán los medios y procedimientos de control que requieran, de acuerdo con las normas que dicten el Ejecutivo Estatal a través de la Secretaría de Contraloría, los ayuntamientos y los órganos de gobierno de las entidades paramunicipales, en el ámbito de sus competencias.
 
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2015)</small>
 
@@ -1115,25 +1145,97 @@ Las dependencias, entidades, ayuntamientos y entidades paramunicipales, controla
 
 Las dependencias, entidades, ayuntamientos y entidades paramunicipales, controlarán todas las fases de las obras públicas a su cargo; para tal efecto, nombrarán una Residencia de Supervisión, la cual tendrá las atribuciones que el Reglamento de la presente ley señale.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2017)</small>
 
 ###### Artículo 55.
 
-La Coordinación, los ayuntamientos, los órganos de gobierno de las entidades paramunicipales, el Congreso del Estado y la Auditoría Superior de Michoacán, en el ámbito de sus competencias, podrán verificar que las obras y los servicios relacionados con ellas, se realicen conforme a lo establecido en esta Ley o en otras disposiciones aplicables y a los programas y presupuestos autorizados.
+La Secretaría de Contraloría, los ayuntamientos, los órganos de gobierno de las entidades paramunicipales, el Congreso del Estado y la Auditoría Superior de Michoacán, en el ámbito de sus competencias, podrán verificar que las obras y los servicios relacionados con ellas, se realicen conforme a lo establecido en esta Ley o en otras disposiciones aplicables y a los programas y presupuestos autorizados.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2017)</small>
 
 ###### Artículo 56.
 
-Las dependencias, entidades, órganos municipales y paramunicipales, proporcionarán todas las facilidades necesarias a fin de que la Coordinación, los ayuntamientos, los órganos de gobierno de las entidades paramunicipales, el Congreso del Estado y la Auditoría Superior de Michoacán, en el ámbito de sus respectivas competencias, puedan realizar el seguimiento y control de las obras públicas.
+Las dependencias, entidades, órganos municipales y paramunicipales, proporcionarán todas las facilidades necesarias a fin de que la Secretaría de Contraloría, los ayuntamientos, los órganos de gobierno de las entidades paramunicipales, el Congreso del Estado y la Auditoría Superior de Michoacán, en el ámbito de sus respectivas competencias, puedan realizar el seguimiento y control de las obras públicas.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2017)</small>
 
 ###### Artículo 57.
 
-Cuando la Coordinación, el ayuntamiento, el órgano de gobierno de la entidad paramunicipal, el Congreso del Estado y la Auditoría Superior de Michoacán en el ámbito de su competencia, tenga conocimiento de que una dependencia, entidad, órgano municipal o paramunicipal, no se hubiera ajustado a las disposiciones de esta Ley y demás disposiciones aplicables, solicitará las aclaraciones que estime pertinentes; en su caso, comunicará la existencia de la violación precisando en qué consiste; asimismo, indicará las medidas que la dependencia, entidad, órgano municipal o paramunicipal deberá tomar para corregirla, fijando el plazo dentro del cual deberá subsanarla.
+Cuando la Secretaría de Contraloría, el Ayuntamiento, el órgano de gobierno de la entidad paramunicipal, el Congreso del Estado y la Auditoría Superior de Michoacán en el ámbito de su competencia, tenga conocimiento de que una dependencia, entidad, órgano municipal o paramunicipal, no se hubiera ajustado a las disposiciones de esta Ley y demás disposiciones aplicables, solicitará las aclaraciones que estime pertinentes; en su caso, comunicará la existencia de la violación precisando en qué consiste; asimismo, indicará las medidas que la dependencia, entidad, órgano municipal o paramunicipal deberá tomar para corregirla, fijando el plazo dentro del cual deberá subsanarla.
 
-Dentro del plazo que se hubiere señalado, la dependencia, entidad, órgano municipal o paramunicipal responsable, dará cuenta a la Coordinación y a la Dependencia Coordinadora del Sector, al ayuntamiento, al órgano de gobierno, al Congreso del Estado o a la Auditoría Superior de Michoacán, según corresponda, sobre el cumplimiento que hubiera hecho.
+Dentro del plazo que se hubiere señalado, la dependencia, entidad, órgano municipal o paramunicipal responsable, dará cuenta a la Secretaría de Contraloría y a la Dependencia Coordinadora del Sector, al Ayuntamiento, al órgano de gobierno, al Congreso del Estado o a la Auditoría Superior de Michoacán, según corresponda, sobre el cumplimiento que hubiera hecho.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2017)</small>
+
+###### Artículo 57 Bis.
+
+Las dependencias y entidades de la administración pública estatal centralizada, así como los ayuntamientos y entidades paramunicipales, al determinar el programa de realización de cada obra pública establecida en el artículo 2, fracción I de la presente Ley, deberán hacer de conocimiento público de forma impresa o mediante el uso de anuncios, de forma inmediata una vez que haya sido aprobada la obra pública a ejecutar y hasta el término de la misma, al menos la siguiente información:
+
+I. Nombre del proyecto y su descripción;
+
+II. Nombre del programa;
+
+III. Autoridad responsable;
+
+IV. Municipio, municipios o en su caso comunidades en las cuales se ejecutará la obra;
+
+V. El contratante;
+
+VI. Costo total de la obra y el presupuesto, desglosado por niveles o participantes;
+
+VII. Periodo de ejecución:
+
+a) Inicio; y,
+
+b) Término; y,
+
+VIII. Teléfono de la autoridad responsable, del órgano fiscalizador, así como medios de acceso para información y posibles quejas.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2017)</small>
+
+###### Artículo 57 Ter.
+
+El uso de los anuncios referentes a informar la obra pública contenida en el artículo 2 fracción I, de la presente Ley, no deberá de ser utilizada para fomentar el voto o promocionar a algún partido político, acorde a lo dispuesto en el Código Electoral del Estado de Michoacán.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2017)</small>
+
+###### Artículo 57 Quater.
+
+Cada dependencia y entidad de la administración pública descentralizada, así como los ayuntamientos y entidades paramunicipales, asumirán el costo de generar la información impresa o en su caso de los anuncios.
+
+Cuando la obra pública referente al artículo 2, fracción I, de la presente Ley sea convenida a nivel estatal y municipal, entre ambas partes se acordará la forma mediante la cual se deberá distribuir el costo y la imagen pública de la información.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2017)</small>
+
+###### Artículo 57 Quinquies.
+
+Cuando las dependencias y entidades de la administración pública centralizada, así como los ayuntamientos y entidades paramunicipales realicen obra pública conforme a lo establecido en el artículo 2, fracción I, de la presente Ley, ya sea esta por contrato o por adjudicación directa, bajo los procedimientos establecidos en la misma, los contratistas serán los directamente responsables de proporcionar la información señalada en el artículo 57 BIS de la presente Ley y sus reglamentos.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2017)</small>
+
+###### Artículo 57 Sexies.
+
+Los criterios técnicos mediante los cuales deberá ser proporcionada la información contenida en el artículo 57 BIS, quedarán normados en el Reglamento de la presente Ley, así como en los reglamentos municipales. Debiendo conservar al menos los criterios siguientes:
+
+I. Ubicación y tamaño que permita su correcta visibilidad;
+
+II. Tipografía legible;
+
+III. Temporalidad de la información de forma inmediata una vez que se aprueba la ejecución de la obra pública y hasta el término de la misma; y,
+
+IV. Durabilidad y elaboración preferentemente con materiales biodegradables o reutilizables.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2017)</small>
+
+###### Artículo 57 Septies.
+
+Cuando la información sea dañada, alterada o extraviada, deberá ser inmediatamente repuesta por las autoridades responsables o por el contratista en su caso.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2017)</small>
+
+###### Artículo 57 Octies.
+
+La correcta supervisión y vigilancia para el cumplimiento de la publicación de la información se hará por medio de la Secretaría de Contraloría y del Ayuntamiento, a través de los órganos fiscalizadores respectivos. Y ante la omisión de la misma, se sancionará conforme a lo establecido en la presente Ley.
 
 ## TITULO TERCERO
 
@@ -1145,9 +1247,9 @@ Dentro del plazo que se hubiere señalado, la dependencia, entidad, órgano muni
 
 Quienes infrinjan las disposiciones contenidas en esta Ley o las normas que con base a ella se dicten, serán sancionados con multa equivalente a la cantidad de trescientas a quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2017)</small>
 
-Cuando proceda, la Coordinación, o el ayuntamiento, la Auditoría Superior de Michoacán o los órganos de Control y Fiscalización Gubernamental según corresponda, deberán indicar a la dependencia, entidad, órgano municipal o paramunicipal contratante, la rescisión administrativa del contrato de que se trate así como la suspensión o cancelación de registro en el padrón de contratistas con motivo de la infracción a esta Ley.
+Cuando proceda, la Secretaría de Contraloría, o el Ayuntamiento, la Auditoría Superior de Michoacán o los Órganos de Control y Fiscalización Gubernamental según corresponda, deberán indicar a la dependencia, entidad, órgano municipal o paramunicipal contratante, la rescisión administrativa del contrato de que se trate así como la suspensión o cancelación de registro en el padrón de contratistas con motivo de la infracción a esta Ley.
 
 Las infracciones a las disposiciones de esta Ley por parte de los servidores públicos estatales y municipales se sancionarán conforme a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
@@ -1171,11 +1273,11 @@ VII. Proporcionar datos o documentos falsos o en forma dolosa, en los procesos d
 
 VIII. Llevar a cabo cualquier acto en contravención a las disposiciones de la presente Ley y a los reglamentos que de ella emanen.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2017)</small>
 
 ###### Artículo 59.
 
-La multa a que se refiere el artículo 58 será impuesta por la Coordinación, la Auditoría Superior de Michoacán o por el ayuntamiento en el ámbito de su respectiva competencia, conforme a los criterios siguientes:
+La multa a que se refiere el artículo 58 será impuesta por la Secretaría de Contraloría, la Auditoría Superior de Michoacán o por el Ayuntamiento en el ámbito de su respectiva competencia, conforme a los criterios siguientes:
 
 I. Se tomará en cuenta la gravedad de la infracción y las condiciones del infractor;
 
@@ -1225,25 +1327,23 @@ En lo no previsto por esta Ley serán aplicables el Código de Justicia Administ
 
 ### CAPITULO PRIMERO. DE LAS INCONFORMIDADES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2017)</small>
 
 ###### Artículo 65.
 
-Las personas interesadas podrán inconformarse por escrito ante la Coordinación, ante el ayuntamiento o ante el órgano de gobierno de la entidad paramunicipal que corresponda, según proceda, por los actos que contravengan las disposiciones de esta Ley, dentro de los diez días hábiles siguientes a aquél en que éste ocurra, o el inconforme tenga conocimiento del acto impugnado, o bien, en los términos de lo dispuesto en el artículo 1° del Código de Justicia Administrativa del Estado, podrá optar por ejercer los recursos legales y procedimientos que en éste se establezcan.
+Las personas interesadas podrán inconformarse por escrito ante la Secretaría de Contraloría, ante el Ayuntamiento o ante el órgano de gobierno de la entidad paramunicipal que corresponda, según proceda, por los actos que contravengan las disposiciones de esta Ley, dentro de los diez días hábiles siguientes a aquél en que éste ocurra, o el inconforme tenga conocimiento del acto impugnado, o bien, en los términos de lo dispuesto en el artículo 1° del Código de Justicia Administrativa del Estado, podrá optar por ejercer los recursos legales y procedimientos que en éste se establezcan.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
+Lo anterior, sin perjuicio de que las personas interesadas previamente manifiesten al órgano convocante, las irregularidades que a su juicio se hayan cometido en el procedimiento de adjudicación del contrato respectivo a fin de que las mismas se corrijan, debiendo las dependencias, entidades, ayuntamientos y entidades paramunicipales comunicar de tales eventualidades a la Secretaría de Contraloría u órgano de control del Municipio de que se trate a efecto de que se instrumenten las medidas correctivas que al respecto se deban de dictar.
 
-Lo anterior, sin perjuicio de que las personas interesadas previamente manifiesten al órgano convocante, las irregularidades que a su juicio se hayan cometido en el procedimiento de adjudicación del contrato respectivo a fin de que las mismas se corrijan, debiendo las dependencias, entidades, ayuntamientos y entidades paramunicipales comunicar de tales eventualidades a la Coordinación u órgano de control del Municipio de que se trate a efecto de que se instrumenten las medidas correctivas que al respecto se deban de dictar.
+Al escrito de inconformidad podrá acompañarse, en su caso, la manifestación aludida en el párrafo anterior, la cual será valorada por la Secretaría de Contraloría, el Ayuntamiento o el órgano de gobierno respectivo, según corresponda, durante el período de investigación.
 
-Al escrito de inconformidad podrá acompañarse, en su caso, la manifestación aludida en el párrafo anterior, la cual será valorada por la Coordinación, el ayuntamiento o el órgano de gobierno respectivo, según corresponda, durante el período de investigación.
+Transcurrido el plazo establecido en este artículo, precluye para los interesados el derecho a inconformarse, sin perjuicio de que la Secretaría de Contraloría, el Ayuntamiento, o el órgano de gobierno respectivo pueda actuar en cualquier tiempo en términos de ley.
 
-Transcurrido el plazo establecido en este artículo, precluye para los interesados el derecho a inconformarse, sin perjuicio de que la Coordinación, el ayuntamiento, o el órgano de gobierno respectivo pueda actuar en cualquier tiempo en términos de ley.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2017)</small>
 
 ###### Artículo 66.
 
-La Coordinación, el ayuntamiento o el órgano de gobierno, según corresponda, de oficio o en atención a las inconformidades a que se refiere el artículo anterior, realizará las investigaciones procedentes dentro de los cinco días hábiles siguientes, contados a partir de la recepción de la respectiva solicitud, emitiendo la resolución que al respecto deba dictarse dentro de los cinco días naturales siguientes, misma que deberá comunicarse al promovente dentro de los tres días hábiles siguientes.
+La Secretaría de Contraloría, el Ayuntamiento o el órgano de gobierno, según corresponda, de oficio o en atención a las inconformidades a que se refiere el artículo anterior, realizará las investigaciones procedentes dentro de los cinco días hábiles siguientes, contados a partir de la recepción de la respectiva solicitud, emitiendo la resolución que al respecto deba dictarse dentro de los cinco días naturales siguientes, misma que deberá comunicarse al promovente dentro de los tres días hábiles siguientes.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
 
@@ -1255,9 +1355,11 @@ I. Se advierta que existen o pudieren existir actos graves contrarios a las disp
 
 II. Con la suspensión no se cause perjuicio al interés público y no se contravengan disposiciones de orden público, o bien, si de continuarse el procedimiento de contratación pudieran producirse daños o perjuicios a la dependencia, entidad, ayuntamiento o entidad paramunicipal de que se trate.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2017)</small>
+
 ###### Artículo 67.
 
-La resolución que emita la Coordinación, el ayuntamiento o el órgano de gobierno, sin perjuicio de la responsabilidad que proceda respecto de los servidores públicos que hayan intervenido, tendrá como consecuencia:
+La resolución que emita la Secretaría de Contraloría, el Ayuntamiento o el órgano de gobierno, sin perjuicio de la responsabilidad que proceda respecto de los servidores públicos que hayan intervenido, tendrá como consecuencia:
 
 I. La nulidad del procedimiento a partir del acto o actos irregulares, estableciendo las directrices necesarias para que el mismo se realice conforme a la ley;
 
@@ -1356,3 +1458,13 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 20 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 362 POR EL QUE “SE DEROGA LA FRACCIÓN XIII DEL ARTÍCULO 3°; SE REFORMAN LOS ARTÍCULOS 5°, 6° PÁRRAFO SEGUNDO; 17 PÁRRAFO SEGUNDO; 23 TER FRACCIÓN IV; 24 ÚLTIMO PÁRRAFO, 26 BIS PÁRRAFO PRIMERO Y SEGUNDO; 27 PÁRRAFOS PRIMERO, TERCERO Y CUARTO; 35 PÁRRAFO TERCERO; 38 PÁRRAFO QUINTO; 39 PÁRRAFO PRIMERO; 41 PÁRRAFO SEGUNDO, 43 PÁRRAFO SEGUNDO; 44 PÁRRAFOS PRIMERO Y SEXTO; 45 PÁRRAFO TERCERO; 51 PÁRRAFOS TERCERO Y QUINTO; 52 PÁRRAFO SEGUNDO; 52 BIS FRACCIONES I Y II; 53 PÁRRAFOS PRIMERO Y SEGUNDO; 54, 55, 56, 57; 58 PÁRRAFO SEGUNDO, 59 PÁRRAFO PRIMERO; 65 PÁRRAFOS PRIMERO, SEGUNDO, TERCERO Y CUARTO; 66 PÁRRAFO PRIMERO Y 67 PÁRRAFO PRIMERO; Y SE ADICIONA LA FRACCIÓN XXIX BIS AL ARTÍCULO 3°; LOS ARTÍCULOS 57 BIS; 57 TER; 57 QUATER; 57 QUINQUIES; 57 SEXIES; 57 SEPTIES Y 57 OCTIES; DE LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Remítase el presente Decreto al Gobernador del Estado para su conocimiento y seguimiento.
+
+TERCERO. Los ayuntamientos y gobiernos ciudadanos en el ámbito de su competencia, tendrán un plazo de noventa días para elaborar o reformar en su caso, sus reglamentos en la materia, para dar cumplimiento con lo establecido en el presente Decreto.
