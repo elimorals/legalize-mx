@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-procuraduria-general-de-justicia-del-103900"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-11-30"
-last_updated: "2017-06-27"
+last_updated: "2017-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103900&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCS"
 ---
 # LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE JULIO DE 2017 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA SUR
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE JUNIO DE 2017.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 20 DE JULIO DE 2017.</small>
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 30 de noviembre de 2014.
 
@@ -1117,15 +1117,23 @@ III. Llevar a cabo visitas de inspección y revisión extraordinarias, con motiv
 
 IV. Solicitar en auxilio a los Coordinadores Regionales Zona Norte y Zona Sur, sea llevada a cabo la visita extraordinaria al área de la Procuraduría de su adscripción que corresponda, cuando por la urgencia de los hechos que motivaron la queja tratándose de violaciones de derechos humanos, ésta deba realizarse inmediatamente;
 
-IV (SIC). Intervenir para efectos de verificación, en los actos de entrega-recepción, de las agencias del Ministerio Público, Comandancias y Dirección de Servicios Periciales;
+> <small>(F. DE E., B.O. 20 DE JULIO DE 2017)</small>
 
-V. Verificar a través de visitas técnico-jurídicas el cumplimiento de la Constitución, los tratados, las leyes que de ella emanan, así como de las demás disposiciones normativas a que estén constreñidos los Agentes del Ministerio Público, Policía Ministerial y Dirección de Servicios Periciales;
+V. Intervenir para efectos de verificación, en los actos de entrega-recepción, de las agencias del Ministerio Público, Comandancias y Dirección de Servicios Periciales;
 
-VI. Realizar, la práctica de visitas de inspección y revisión a las direcciones, coordinaciones, unidades y, a las diversas áreas de la Procuraduría, verificando desde el punto de vista legal, técnico y administrativo, que los servidores públicos de la institución cumplan con los protocolos de actuación, políticas operativas, solicitudes del Ministerio Público, ordenamientos en vigor, así como con los criterios normativos establecidos para mejorar el servicio, realizando las observaciones y recomendaciones conducentes, y en su caso dar vista al Órgano de Control Interno;
+> <small>(F. DE E., B.O. 20 DE JULIO DE 2017)</small>
 
-VII. Realizar la práctica de visitas de inspección y revisión extraordinarias mediante las cuales se realice el seguimiento del cumplimiento a las observaciones, recomendaciones o instrucciones hechas a las actuaciones ministerial, policial, pericial y administrativa derivadas de las visitas de inspección que le fueran practicadas con anterioridad;
+VI. Verificar a través de visitas técnico-jurídicas el cumplimiento de la Constitución, los tratados, las leyes que de ella emanan, así como de las demás disposiciones normativas a que estén constreñidos los Agentes del Ministerio Público, Policía Ministerial y Dirección de Servicios Periciales;
 
-IX (SIC). Vigilar que las unidades administrativas de la Procuraduría cumplan con las disposiciones de racionalidad, austeridad y disciplina presupuestal establecidas en las normas jurídicas aplicables y en los lineamientos que al efecto emita el Procurador;
+> <small>(F. DE E., B.O. 20 DE JULIO DE 2017)</small>
+
+VII. Realizar, la práctica de visitas de inspección y revisión a las direcciones, coordinaciones, unidades y, a las diversas áreas de la Procuraduría, verificando desde el punto de vista legal, técnico y administrativo, que los servidores públicos de la institución cumplan con los protocolos de actuación, políticas operativas, solicitudes del Ministerio Público, ordenamientos en vigor, así como con los criterios normativos establecidos para mejorar el servicio, realizando las observaciones y recomendaciones conducentes, y en su caso dar vista al Órgano de Control Interno;
+
+> <small>(F. DE E., B.O. 20 DE JULIO DE 2017)</small>
+
+VIII. Realizar la práctica de visitas de inspección y revisión extraordinarias mediante las cuales se realice el seguimiento del cumplimiento a las observaciones, recomendaciones o instrucciones hechas a las actuaciones ministerial, policial, pericial y administrativa derivadas de las visitas de inspección que le fueran practicadas con anterioridad;
+
+IX. Vigilar que las unidades administrativas de la Procuraduría cumplan con las disposiciones de racionalidad, austeridad y disciplina presupuestal establecidas en las normas jurídicas aplicables y en los lineamientos que al efecto emita el Procurador;
 
 X. Informar por escrito al Procurador, de las visitas que se hayan practicado y asentar en actas el resultado de las mismas;
 
@@ -1581,15 +1589,23 @@ III. Diseñar e implementar estrategias y líneas de acción para combatir los h
 
 IV. Implementar programas destinados a detectar la comisión de los hechos que las leyes estatales consideran como delitos en materia de corrupción. Dichos programas deberán ser aprobados por el Procurador General de Justicia del Estado;
 
-IV (SIC). Instrumentar mecanismos de colaboración con otras autoridades para la elaboración de estrategias y programas tendientes a combatir los hechos que las leyes consideran como delitos en materia de corrupción;
+> <small>(F. DE E., B.O. 20 DE JULIO DE 2017)</small>
 
-V. Emitir los acuerdos internos, circulares, instructivos, bases, lineamientos, reglas de operación, Manuales de Organización, de Procedimientos técnicos, guías y demás normas administrativas necesarias que rijan la actuación de la Fiscalía en el ámbito de su competencia. En ningún caso podrán contradecir las normas administrativas emitidas por el Procurador General de Justicia (sic) Estado;
+V. Instrumentar mecanismos de colaboración con otras autoridades para la elaboración de estrategias y programas tendientes a combatir los hechos que las leyes consideran como delitos en materia de corrupción;
 
-VI. Fortalecer e implementar en materia de su competencia, mecanismos de cooperación y colaboración con otras autoridades;
+> <small>(F. DE E., B.O. 20 DE JULIO DE 2017)</small>
 
-VII. Diseñar e implementar proyectos, estudios y programas permanentes de información y fomento de la cultura de la denuncia y de la legalidad en materia de los hechos que la ley considera como delitos en materia de corrupción;
+VI. Emitir los acuerdos internos, circulares, instructivos, bases, lineamientos, reglas de operación, Manuales de Organización, de Procedimientos técnicos, guías y demás normas administrativas necesarias que rijan la actuación de la Fiscalía en el ámbito de su competencia. En ningún caso podrán contradecir las normas administrativas emitidas por el Procurador General de Justicia Estado;
 
-IX (SIC). Implementar mecanismos de colaboración con autoridades que ejerzan facultades de fiscalización a fin de fortalecer el desarrollo de las investigaciones;
+> <small>(F. DE E., B.O. 20 DE JULIO DE 2017)</small>
+
+VII. Fortalecer e implementar en materia de su competencia, mecanismos de cooperación y colaboración con otras autoridades;
+
+> <small>(F. DE E., B.O. 20 DE JULIO DE 2017)</small>
+
+VIII. Diseñar e implementar proyectos, estudios y programas permanentes de información y fomento de la cultura de la denuncia y de la legalidad en materia de los hechos que la ley considera como delitos en materia de corrupción;
+
+IX. Implementar mecanismos de colaboración con autoridades que ejerzan facultades de fiscalización a fin de fortalecer el desarrollo de las investigaciones;
 
 X. Requerir a las instancias de gobierno la información que resulte útil o necesaria para sus investigaciones, la que por ningún motivo le podrá ser negada;
 
@@ -2017,7 +2033,7 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 B.O. 27 DE JUNIO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 2452 SE REFORMA (SIC) Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA SUR".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2452 SE REFORMA (SIC) Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA SUR”.]
 
 PRIMERO. El presente Decreto entrará en vigor a partir de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur, con excepción de las atribuciones de la Fiscalía especializada que entrarán en vigor el mismo día en que el Poder Legislativo del Estado emita el nombramiento del Titular de la Fiscalía Especializada en combate a la corrupción.
 
