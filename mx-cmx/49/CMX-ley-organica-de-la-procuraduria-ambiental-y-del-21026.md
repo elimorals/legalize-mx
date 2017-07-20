@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-procuraduria-ambiental-y-del-21026"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-04-24"
-last_updated: "2017-07-13"
+last_updated: "2017-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21026&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2001-04-09"
 ---
 # LEY ORGANICA DE LA PROCURADURIA AMBIENTAL Y DEL ORDENAMIENTO TERRITORIAL DE LA CIUDAD DE MEXICO -- ANTES LEY ORGANICA DE LA PROCURADURIA AMBIENTAL Y DEL ORDENAMIENTO TERRITORIAL DEL DISTRITO FEDERAL --
 
-LEY ORGÁNICA DE LA PROCURADURÍA AMBIENTAL Y DEL ORDENAMIENTO TERRITORIAL DEL DISTRITO FEDERAL
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE JULIO DE 2017.
+LEY ORGÁNICA DE LA PROCURADURÍA AMBIENTAL Y DEL ORDENAMIENTO TERRITORIAL DE LA CIUDAD DE MÉXICO
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 20 DE JULIO DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 24 de abril de 2001.
 
@@ -40,19 +42,23 @@ LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL, II LEGISLATURA
 
 DECRETA:
 
-DECRETO RELATIVO A LA LEY ORGÁNICA DE LA PROCURADURÍA AMBIENTAL Y DEL ORDENAMIENTO TERRITORIAL DEL DISTRITO FEDERAL.
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 20 DE JULIO DE 2017)</small>
+
+DECRETO RELATIVO A LA LEY ORGÁNICA DE LA PROCURADURÍA AMBIENTAL Y DEL ORDENAMIENTO TERRITORIAL DE LA CIUDAD DE MÉXICO.
 
 ### CAPITULO PRIMERO. De las Disposiciones Generales
 
+> <small>(REFORMADO, G.O. 20 DE JULIO DE 2017)</small>
+
 ###### Artículo 1°.
 
-La presente Ley es de orden público e interés social y tiene por objeto establecer la estructura, atribuciones y procedimientos de la Procuraduría Ambiental y del Ordenamiento Territorial del Distrito Federal.
+La presente Ley es de orden público e interés social y tiene por objeto establecer la estructura, atribuciones y procedimientos de la Procuraduría Ambiental y del Ordenamiento Territorial de la Ciudad de México.
 
-(REUBICADO Y REFORMADO, G.O. 9 DE ENERO DE 2006)
+> <small>(REFORMADO, G.O. 20 DE JULIO DE 2017)</small>
 
 ###### Artículo 2°.
 
-La Procuraduría, como autoridad ambiental, es un organismo público descentralizado de la Administración Pública con personalidad jurídica, patrimonio propio, y autonomía operativa y financiera para el buen desempeño de sus funciones, que tiene por objeto la defensa de los derechos de los habitantes del Distrito Federal a disfrutar de un ambiente adecuado para su desarrollo, salud y bienestar, mediante la promoción y vigilancia del cumplimiento de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial, conforme a las atribuciones que se le otorgan en el presente ordenamiento.
+La Procuraduría, como autoridad ambiental y del ordenamiento territorial, es un organismo público descentralizado, de la Administración Pública con personalidad jurídica, patrimonio propio, y autonomía operativa y financiera para el buen desempeño de sus funciones, que tiene por objeto la defensa de los derechos de toda persona a disfrutar de un ambiente adecuado para su desarrollo, salud y bienestar, mediante la promoción y vigilancia de la aplicación y cumplimiento de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial; así como la protección, preservación y restauración del ambiente y el equilibrio ecológico en la Ciudad de México, conforme a las atribuciones que se le otorgan en el presente ordenamiento.
 
 > <small>(REFORMADO, G.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -60,43 +66,71 @@ La Procuraduría, como autoridad ambiental, es un organismo público descentrali
 
 Para los efectos de esta Ley, se entenderá por:
 
-I. Acción precautoria: Imposición fundada y motivada que en cualquier momento realice la Procuraduría para evitar o detener la consumación irreparable de las presuntas violaciones a los derechos ambientales y territoriales de los habitantes del Distrito Federal, o en su caso, se lleven a cabo todas aquellas acciones tendientes a lograr la mitigación, restauración y reparación de los daños causados, según corresponda;
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-II. Administración Pública: Administración Pública del Distrito Federal;
+I. Acción precautoria: Imposición o ejecución fundada y motivada de medidas o acciones que en cualquier momento realice la Procuraduría para evitar o detener la consumación irreparable de las presuntas violaciones a los derechos ambientales y territoriales de los habitantes de la Ciudad de México, o en su caso, para lograr la mitigación, restauración y reparación de los daños causados, según corresponda.
+
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
+
+II. Administración Pública: El conjunto de órganos que componen la Administración Centralizada, Desconcentrada y Paraestatal del Gobierno de la Ciudad de México;
 
 III. Asamblea Legislativa: La Asamblea Legislativa del Distrito Federal;
 
 IV. Consejo: El Consejo de Gobierno de la Procuraduría;
 
-V. Disposiciones jurídicas en materia ambiental y del ordenamiento territorial:
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-La legislación en materias ambiental, desarrollo urbano, patrimonio urbanístico arquitectónico, así como transporte respecto a uso de vialidades, impacto vial de obras y actividades y garantías de los peatones, que sea expedida por la Asamblea Legislativa, así como las disposiciones que de ella deriven, incluyendo los programas correspondientes;
+V. Disposiciones jurídicas en materia ambiental y del ordenamiento territorial: La legislación en materias ambiental, de protección y bienestar animal, desarrollo urbano, patrimonio urbanístico arquitectónico, así como movilidad respecto a uso de vialidades, impacto de movilidad y garantías de los peatones, que sea expedida por la Asamblea Legislativa y las disposiciones jurídicas que de ella deriven, incluyendo los programas correspondientes;
 
-VI. Ley Ambiental: Ley Ambiental del Distrito Federal;
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
+
+VI. Ley Ambiental: Ley Ambiental de Protección a la Tierra en el Distrito Federal;
 
 VII. Ley General: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
-VIII. Ordenamiento Territorial: El conjunto de las disposiciones que tienen por objeto establecer la relación entre la distribución de los usos, destinos y reservas del suelo del Distrito Federal, con los asentamientos humanos, las actividades y los derechos de sus habitantes, la zonificación y las normas de ordenación, así como la reglamentación en materia de construcciones, de imagen y paisaje urbano, de equipamiento urbano, de impacto urbano o urbano ambiental, y de anuncios;
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-IX. Procurador(a): El o la Titular de la Procuraduría Ambiental y del Ordenamiento Territorial del Distrito Federal;
+VIII. Ordenamiento Territorial: El conjunto de las disposiciones que tienen por objeto establecer la relación entre la distribución de los usos, destinos y reservas del suelo de la Ciudad de México, con los asentamientos humanos, las actividades y los derechos de sus habitantes, la zonificación y las normas de ordenación, así como la reglamentación en materia de construcciones, de imagen y paisaje urbano, de equipamiento urbano, de impacto urbano o urbano ambiental, de movilidad respecto a uso de vialidades, impacto de movilidad y garantía de los peatones;
 
-X. Procuraduría: La Procuraduría Ambiental y del Ordenamiento Territorial del Distrito Federal;
+> <small>(ADICIONADA, G.O. 20 DE JULIO DE 2017)</small>
 
-XI. Recomendación: Resolución emitida por la Procuraduría y dirigida a las dependencias, órganos desconcentrados y entidades de la administración pública federal, estatal, municipal y del Distrito Federal, que tiene el propósito de promover la aplicación, y el cumplimiento de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial, cuando se acrediten actos, hechos u omisiones que constituyan violaciones, incumplimiento o falta de aplicación de esas disposiciones, o cuando las acciones de las autoridades correspondientes generen o puedan generar desequilibrio ecológico, daños o deterioro grave del ambiente y los recursos naturales del Distrito Federal;
+VIII BIS. Procedimiento Administrativo de Investigación: Procedimiento iniciado con motivo de la denuncia ciudadana o del inicio de una investigación de oficio, mediante el cual la Procuraduría investigará cualquier hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico o daños al ambiente o a los recursos naturales, o constituya o pueda constituir una contravención o falta de aplicación de las disposiciones jurídicas en materia ambiental o del ordenamiento territorial y que culmina con una resolución o recomendación no vinculatoria;
 
-XII. Reconocimiento de Hechos: Las visitas que realice la Procuraduría practicadas en los términos de la presente Ley; para constatar el cumplimiento de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial, y los actos, hechos u omisiones, que generen o puedan generar desequilibrio ecológico; daños o deterioro grave del ambiente, al ordenamiento territorial y los recursos naturales del Distrito Federal;
+> <small>(ADICIONADA, G.O. 20 DE JULIO DE 2017)</small>
 
-XIII. Reglamento: El Reglamento de la Ley Orgánica de la Procuraduría Ambiental y del Ordenamiento Territorial del Distrito Federal;
+VIII BIS 1. Requerimiento de Inspección o verificación: Es el que realiza la Procuraduría a las autoridades competentes para que inicien un procedimiento de verificación o inspección que será atendido en un término de hasta 10 días hábiles para constatar el cumplimiento normativo en materia ambiental, del ordenamiento territorial y de protección animal, los resultados de dichos procedimientos serán hechos de conocimiento de la Procuraduría;
 
-XIV. Secretaría: La Secretaría del Medio Ambiente del Distrito Federal, y
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
+
+IX. Procurador(a): El o la Titular de la Procuraduría Ambiental y del Ordenamiento Territorial de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
+
+X. Procuraduría: La Procuraduría Ambiental y del Ordenamiento Territorial de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
+
+XI. Recomendación: Resolución emitida por la Procuraduría y dirigida a las dependencias, órganos desconcentrados y entidades de la administración pública federal, estatal, municipal y de la Ciudad de México, la cual, tiene el propósito de promover la aplicación y el cumplimiento de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial, cuando se acrediten actos, hechos u omisiones que constituyan violaciones, incumplimiento o falta de aplicación de esas disposiciones, o cuando las acciones de las autoridades correspondientes generen o puedan generar desequilibrio ecológico, daños o deterioro grave del ambiente y los recursos naturales de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
+
+XII. Reconocimiento de Hechos: Las visitas que realice la Procuraduría practicadas en los términos de la presente Ley, para constatar el cumplimiento de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial, y los actos, hechos u omisiones, que generen o puedan generar desequilibrio ecológico, daños o deterioro grave del ambiente, al ordenamiento territorial y los recursos naturales de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
+
+XIII. Reglamento: El Reglamento de la Ley Orgánica de la Procuraduría Ambiental y del Ordenamiento Territorial de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
+
+XIV. Secretaría: La Secretaría del Medio Ambiente de la Ciudad de México;
 
 > <small>(ADICIONADA, G.O. 13 DE JULIO DE 2017)</small>
 
-XIV Bis. SIG-PAOT: Sistema de Información Geográfica del Patrimonio Ambiental y Urbano de la Ciudad de México, siendo éste el conjunto de herramientas diseñadas para obtener, almacenar, editar, publicar, desplegar y descargar datos espaciales para la visualización de mapas, los cuales permitan generar consultas y reportes sobre el acervo cartográfico a partir del sistema de administración de la información;
+XIV BIS. SIG-PAOT: Sistema de Información Geográfica del Patrimonio Ambiental y Urbano de la Ciudad de México, siendo éste el conjunto de herramientas diseñadas para obtener, almacenar, editar, publicar, desplegar y descargar datos espaciales para la visualización de mapas, los cuales permitan generar consultas y reportes sobre el acervo cartográfico a partir del sistema de administración de la información;
 
-XV. Sugerencia: Resolución emitida por la Procuraduría y dirigida a la Asamblea Legislativa o a los órganos jurisdiccionales para su consideración en los procedimientos, procesos, recursos, iniciativas de ley, proposiciones legislativas o de cualquier otro asunto de su competencia, que tiene por objeto promover y mejorar la aplicación y cumplimiento de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial.
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+XV. Sugerencia: Resolución emitida por la Procuraduría y dirigida a la Asamblea Legislativa o a los órganos jurisdiccionales para su consideración en los procedimientos, procesos, recursos, iniciativas de ley, proposiciones legislativas o de cualquier otro asunto de su competencia, que tiene por objeto promover y mejorar la aplicación y cumplimiento de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 17 DE SEPTIEMBRE DE 2013)</small>
 
@@ -120,11 +154,13 @@ Corresponde a la Procuraduría el ejercicio de las siguientes atribuciones:
 
 I. Recibir y atender las denuncias referentes a la violación, incumplimiento o falta de aplicación de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial;
 
-II. Denunciar ante las autoridades competentes, cuando conozca de actos, hechos u omisiones que constituyan violaciones o incumplimiento a la legislación administrativa y penal, en materia ambiental y del ordenamiento territorial;
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 9 DE ENERO DE 2006)</small>
+II. Denunciar ante las autoridades competentes, cuando conozca de actos, hechos u omisiones que constituyan violaciones o incumplimiento a la legislación administrativa y penal, en materia ambiental y del ordenamiento territorial, protección y bienestar animal o que atenten directamente contra el patrimonio o seguridad de la Procuraduría y su personal en ejercicio de sus funciones;
 
-III. Coadyuvar con el ministerio público en los procedimientos penales que se instauren con motivo de delitos contra el ambiente o la gestión ambiental, previstos en la legislación en la materia, así como de cualquier otro delito relacionado con la aplicación y cumplimiento de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial;
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
+
+III. Ejercer en el ámbito de sus facultades, los derechos que asisten a víctimas u ofendidos de delitos, a la luz de la normatividad aplicable, ante las autoridades administrativas y jurisdiccionales locales o federales en materia penal, respecto a los procesos y procedimientos relacionados con delitos ambientales o de cualquier otra índole que tenga un efecto negativo en el ambiente, ordenamiento territorial, protección y bienestar animal o que atenten directamente contra el patrimonio y seguridad de la Procuraduría y su personal en el ejercicio de sus funciones; así mismo, fungir cuando sea requerido por autoridad competente como consultor técnico en los procesos y procedimientos penales;
 
 > <small>(REFORMADA, G.O. 9 DE ENERO DE 2006)</small>
 
@@ -134,21 +170,37 @@ IV. Conocer e investigar sobre actos, hechos u omisiones que puedan ser constitu
 
 V. Realizar visitas para el reconocimiento de hechos u omisiones planteados en las denuncias que reciba o en las investigaciones de oficio que realice, así como emplazar a las personas involucradas para que comparezcan ante la Procuraduría a manifestar lo que a su derecho convenga, en los procedimientos respectivos;
 
-> <small>(REFORMADA, G.O. 9 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-VI. Solicitar informes y documentación a las autoridades y demás personas involucradas, para el inicio o desahogo de los procedimientos administrativos de su competencia;
+VI. Requerir a las autoridades competentes la documentación necesaria, el acceso a la información contenida en los registros, archivos y bases de datos, a efecto de allegarse de elementos que le permitan investigar posibles infracciones a las disposiciones jurídicas en materia ambiental y del ordenamiento territorial. Se tendrá como excepción a la presente atribución la información que tenga carácter de confidencial o reservada en términos de las disposiciones aplicables;
 
-> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(ADICIONADA, G.O. 20 DE JULIO DE 2017)</small>
 
-VII. Solicitar, de conformidad con la legislación aplicable en la materia, que se realicen las visitas de verificación o los actos de inspección por parte de las autoridades competentes;
+VI BIS. Realizar actos de vigilancia para constatar el cumplimiento de las disposiciones jurídicas en materia ambiental, del ordenamiento territorial y de protección y bienestar animal, así como practicar reconocimientos de hechos para la substanciación del procedimiento administrativo de investigación.
 
-> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+Para ejecutar dichas acciones la Procuraduría podrá requerir el apoyo de la fuerza pública o de otras autoridades.
 
-VIII. Realizar los reconocimiento de hechos cuando exista denuncia ciudadana interpuesta o investigación de oficio instaurada, así como cuando lleve a cabo dictámenes técnicos y periciales, en los términos establecidos en el presente ordenamiento;
+En los casos de que se entiendan dichas acciones con los propietarios, poseedores o responsables de tales bienes y lugares, éstos estarán obligados a proporcionar todas las facilidades que se requieran para la realización de dichas actuaciones;
 
-> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-IX. Imponer fundada y motivadamente, las acciones precautorias que resulten procedentes, derivadas de los reconocimientos de hechos que lleve a cabo la Procuraduría, en el ámbito de su competencia y emitir las resoluciones que correspondan a los procedimientos que se lleven a cabo con motivo de la atención de denuncias e investigaciones de oficio;
+VII. Requerir, de conformidad con la legislación aplicable en la materia, que se realicen las visitas de verificación o los actos de inspección por parte de las autoridades competentes, lo cual deberá realizar en un plazo máximo de 10 días hábiles, contados a partir de la solicitud, quienes deberán enviar un informe a la Procuraduría sobre el resultado de dichas visitas y el estatus del procedimiento a seguir, adjuntando copia de las documentales que acrediten la información, lo cual deberá realizarse en un plazo máximo de 10 días hábiles.
+
+> <small>(ADICIONADA, G.O. 20 DE JULIO DE 2017)</small>
+
+VII BIS. La Procuraduría podrá aportar a las autoridades que llevan a cabo los procedimientos de verificación o inspección, dictámenes técnicos o estudios realizados en sus procedimientos de investigación, dichas autoridades estarán obligados (sic) a valorarlo con el resto del acervo probatorio existentes (sic) en los expedientes generados;
+
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
+
+VIII. Realizar los reconocimientos de hechos cuando exista denuncia ciudadana interpuesta o investigación de oficio instaurada, así como cuando lleve a cabo dictámenes técnicos y periciales, en los términos establecidos en el presente ordenamiento;
+
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
+
+IX. Imponer fundada y motivadamente, las acciones precautorias, o cualquier otra medida cautelar que resulten procedentes, derivadas de las acciones y procedimientos que lleve a cabo la Procuraduría, en el ámbito de su competencia;
+
+> <small>(ADICIONADA, G.O. 20 DE JULIO DE 2017)</small>
+
+IX BIS. Requerir a las autoridades competentes la imposición y ejecución de medidas de seguridad, correctivas o cualquier otra medida cautelar y sanciones, de conformidad con las disposiciones jurídicas aplicables;
 
 > <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -158,13 +210,13 @@ X. Solicitar a la autoridad competente la revocación y cancelación de las lice
 
 XI. Dar respuesta, debidamente fundada y motivada a la denuncia presentada y, en su caso, ratificada ante la Procuraduría, notificando al denunciante el resultado de los reconocimientos de hechos realizados, y en su caso, de las acciones que se hayan tomado para su atención;
 
-> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-XII. Llevar a cabo conforme a lo dispuesto en esta Ley; Investigaciones de oficio, respecto del cumplimiento y aplicación de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial, así como de hechos que generen o puedan producir desequilibrios ecológicos, daños o deterioro grave a los ecosistemas del Distrito Federal o sus elementos;
+XII. Llevar a cabo conforme a lo dispuesto en esta Ley, investigaciones de oficio respecto del cumplimiento y aplicación de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial, así como de hechos que generen o puedan producir desequilibrios ecológicos, daños o deterioro grave a los ecosistemas de la Ciudad de México o sus elementos;
 
-> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-XIII. Emitir recomendaciones a las dependencias; órganos desconcentrados y entidades de la administración pública federal, estatal, municipal y del Distrito Federal, con el propósito de promover la aplicación y el cumplimiento de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial; así como para la ejecución de las acciones procedentes derivadas de la falta de aplicación o incumplimiento de dichas disposiciones; o cuando incurran en actos u omisiones que generen o puedan generar desequilibrio ecológico, daños o deterioro grave de los ecosistemas o sus elementos;
+XIII. Emitir recomendaciones a las dependencias, órganos desconcentrados y entidades de la administración pública federal, estatal, municipal y de la Ciudad de México, con el propósito de promover la aplicación y el cumplimiento de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial; así como para la ejecución de las acciones procedentes derivadas de la falta de aplicación o incumplimiento de dichas disposiciones; cuando incurran en actos u omisiones que generen o puedan generar desequilibrio ecológico, daños o deterioro grave de los ecosistemas o sus elementos;
 
 > <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -174,67 +226,69 @@ XIV. Emitir sugerencias a la Asamblea Legislativa y a las autoridades jurisdicci
 
 XV. Formular y validar dictámenes técnicos y periciales de daños ambientales y; en su caso, de la restauración o compensación ambiental de los mismos, o de los efectos adversos en el ambiente y los recursos naturales generados por violaciones, incumplimiento o falta de aplicación de las disposiciones jurídicas, en materia ambiental y del ordenamiento territorial;
 
-> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-XVI. Informar, orientar y asesorar a la población, dependencias y Delegaciones, órganos desconcentrados de la administración pública, respecto de los derechos y obligaciones de los habitantes del Distrito Federal, contenidos en las disposiciones jurídicas en materia ambiental y del ordenamiento territorial, así como de las gestiones a realizar ente otras autoridades e instancias competentes;
+XVI. Informar, orientar y asesorar a la población, dependencias, demarcaciones territoriales de la Ciudad de México y órganos desconcentrados de la administración pública, respecto de los derechos y obligaciones de los habitantes de la Ciudad de México, contenidos en las disposiciones jurídicas en materia ambiental y del ordenamiento territorial, así como de las gestiones a realizar entre otras autoridades e instancias competentes;
 
 > <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
 
 XVII. Concertar con organismos privados y sociales; instituciones de Investigación y educación y demás interesados, la realización de acciones vinculadas con el ejercicio de las atribuciones de la Procuraduría;
 
-> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-XVIII. Promover y procurar la conciliación de intereses entre particulares y en sus relaciones con las autoridades, en asuntos competencia de la Procuraduría, así como aplicar la mediación y el arbitraje, como mecanismos alternativos de solución de controversias;
+XVIII. Promover y procurar la conciliación de intereses entre particulares y en sus relaciones con las autoridades, en asuntos competencia de la Procuraduría, así como aplicar la mediación y el arbitraje en amigable composición o en estricto derecho, como mecanismos alternativos de solución de controversias, informando en su caso a la autoridad competente del resultado;
 
-> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-XIX. Promover el cumplimiento voluntario de las disposiciones jurídicas, relacionadas con las materias de su competencia, así como acciones o mecanismos para que los responsables de obras o actividades que generen o puedan generar efectos adversos al amiente (sic) y los recursos naturales, adopten voluntariamente prácticas adecuadas, para prevenir, evitar, minimizar o compensar esos efectos;
+XIX. Promover el cumplimiento voluntario de las disposiciones jurídicas, relacionadas con las materias de su competencia, así como acciones o mecanismos para que los responsables de obras o actividades que generen o puedan generar efectos adversos al ambiente y los recursos naturales, adopten voluntariamente prácticas adecuadas, para prevenir, evitar, minimizar o compensar esos efectos;
 
-> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-XX. Ejercer ante el Tribunal de lo Contencioso Administrativo del Distrito Federal y otros órganos jurisdiccionales, las acciones necesarias para representar el interés legítimo de las personas que resulten o puedan resultar afectadas por actos, hechos u omisiones que impliquen o puedan implicar violaciones, incumplimientos o falta de aplicación de las disposiciones en materia ambiental y del ordenamiento territorial, de conformidad con las normas que en cada caso resulten aplicables;
+XX. Ejercer ante el Tribunal de lo Contencioso Administrativo de la Ciudad de México y otros órganos jurisdiccionales, las acciones necesarias para representar los intereses de la Procuraduría, el interés legítimo de las personas que resulten o puedan resultar afectadas por actos, hechos u omisiones que impliquen o puedan implicar violaciones, incumplimientos o falta de aplicación de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial, de conformidad con las normas que en cada caso resulten aplicables; así como por riesgos o daños al ambiente, los recursos naturales y al patrimonio urbanístico arquitectónico de la Ciudad de México;
 
 > <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
 
 XXI. Participar, en coordinación con las autoridades competentes, en la formulación de normas ambientales y de ordenación, reglamentos, estudios y programas relacionados con las disposiciones jurídicas de su competencia;
 
-> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-XXII. Proponer a las dependencias y entidades de la administración pública federal, estatal y municipal, las modificaciones normativas o de procedimientos necesarias, para fortalecer la aplicación y el cumplimiento de la legislación ambiental y del ordenamiento territorial aplicable en el Distrito Federal;
+XXII. Proponer a las dependencias y entidades de la administración pública federal, estatal, municipal, las modificaciones normativas o de procedimientos necesarias, para fortalecer la aplicación y el cumplimiento de la legislación ambiental y del ordenamiento territorial aplicable en la Ciudad de México;
 
-> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-XXIII. Coadyuvar con autoridades federales, estatales, municipales y del Distrito Federal en las acciones de verificación, inspección y vigilancia del cumplimiento de la normatividad, de su competencia;
+XXIII. Coadyuvar con autoridades federales, estatales, municipales y de la Ciudad de México en las acciones de verificación, inspección y vigilancia del cumplimiento de la normatividad de su competencia;
 
-> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-XXIV. Ejercer las atribuciones que le sean trasferidas por otras autoridades federales o del Gobierno del Distrito Federal y que sean acordes a su objetivo;
+XXIV. Ejercer las atribuciones que le sean trasferidas por otras autoridades federales o del Gobierno de la Ciudad de México y que sean acordes a su objetivo;
 
-> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-XXV. Emitir opiniones relacionadas con las disposiciones en materia ambiental y del ordenamiento territorial, así como aplicar para efectos administrativos, esta Ley, su Reglamento y las disposiciones jurídicas en materia ambiental y del ordenamiento territorial;
+XXV. Emitir opiniones relacionadas con las disposiciones jurídicas en materia ambiental y del ordenamiento territorial, así como aplicar para efectos administrativos esta Ley, su Reglamento y las disposiciones jurídicas en materia ambiental y del ordenamiento territorial;
 
 > <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
 
 XXVI. Sustanciar y resolver los recursos administrativos de su competencia;
 
-> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-XXVII. Formular y difundir estudios, reportes e investigaciones respecto del cumplimiento y aplicación de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial; así como de actos u omisiones, que generen o puedan producir desequilibrios ecológicos o daños a los ecosistemas del Distrito Federal o su elemento;
+XXVII. Formular y difundir estudios, reportes e investigaciones respecto del cumplimiento y aplicación de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial; así como de actos u omisiones, que generen o puedan producir desequilibrios ecológicos o daños a los ecosistemas de la Ciudad de México o sus elementos;
 
-> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(ADICIONADA, G.O. 20 DE JULIO DE 2017)</small>
 
-XXVIII. Celebrar toda clase de actos jurídicos que se requieran para el ejercicio de sus funciones, de conformidad con las disposiciones jurídicas y administrativas aplicables, y
+XXVII BIS. Dar seguimiento y cumplimiento a los compromisos derivados de los instrumentos jurídicos internacionales de los que el Estado Mexicano sea parte en las materias de su competencia, a la luz de lo previsto en el artículo 1° de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+XXVIII. Celebrar toda clase de actos jurídicos que se requieran para el ejercicio de sus funciones, de conformidad con las disposiciones jurídicas y administrativas aplicables;
 
-XXIX. Formular y difundir estudios, sustanciar y resolver denuncias, así como celebrar toda clase de actos que abonen en cuanto a la prevención, protección, vigilancia de la Tierra y sus recursos naturales. Además de las facultades para sancionar cualquier daño o menoscabo a dichos recursos naturales, y;
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
+
+XXIX. Formular y difundir estudios, sustanciar y resolver denuncias, así como celebrar toda clase de actos que abonen en cuanto a la prevención, protección, vigilancia de la Tierra y sus recursos naturales;
 
 > <small>(ADICIONADA, G.O. 13 DE JULIO DE 2017)</small>
 
-XXIX Bis. Implementar el Sistema de Información Geográfica del Patrimonio Ambiental y Urbano de la Ciudad de México en todo el territorio correspondiente a la Ciudad de México, el cual tenga como objetivo obtener, almacenar, recuperar y desplegar datos espaciales actualizados de los usos del suelo y medio ambiente de la entidad, a partir de la recopilación de información proporcionada por aquellos entes públicos a los cuales se refiere el artículo 13 BIS de la Ley Orgánica de la Administración Pública del Distrito Federal.
+XXIX BIS. Implementar el Sistema de Información Geográfica del Patrimonio Ambiental y Urbano de la Ciudad de México en todo el territorio correspondiente a la Ciudad de México, el cual tenga como objetivo obtener, almacenar, recuperar y desplegar datos espaciales actualizados de los usos del suelo y medio ambiente de la entidad, a partir de la recopilación de información proporcionada por aquellos entes públicos a los cuales se refiere el artículo 13 BIS de la Ley Orgánica de la Administración Pública del Distrito Federal.
 
 Estos datos serán utilizados para el monitoreo y actualización constante de este recurso natural así como datos relacionados con el cuidado y preservación del medio ambiente.
 
@@ -242,11 +296,23 @@ La Procuraduría, será el organismo encargado de validar la información que ge
 
 La Procuraduría incorporará la información que las dependencias cuyas atribuciones correspondan al uso, conservación, preservación y aprovechamiento del suelo, así como del ordenamiento territorial y cuidado del ambiente, aporten al SIG-PAOT, realizando los procesos de revisión y publicación en un plazo máximo de 15 días hábiles, siempre que la información espacial se entregue de manera oficial, y ésta cumpla con su ficha de metadatos y las especificaciones técnicas y estándares cartográficos establecidos por la Procuraduría, para ser compatibles con la plataforma informática; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 20 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+XXX. Fomentar una cultura para el cumplimiento de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial. Para este propósito elaborará contenidos y materiales educativos a fin de ponerlos a disposición del público por los medios a su alcance;
 
-XXX. Las demás que le confieran otros ordenamientos legales.
+> <small>(ADICIONADA, G.O. 20 DE JULIO DE 2017)</small>
+
+XXXI. Formular y difundir indicadores del cumplimiento de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial;
+
+> <small>(ADICIONADA, G.O. 20 DE JULIO DE 2017)</small>
+
+XXXII. Otorgar reconocimientos a las personas que ajusten sus actividades al estricto cumplimiento de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial con excepción a lo relativo a los programas de autorregulación y auditorías ambientales y demás reconocimientos que emita la Secretaría. Sin que ello implique una licencia, permiso o autorización oponible en un procedimiento administrativo de verificación, inspección o jurisdiccional;
+
+> <small>(ADICIONADA, G.O. 20 DE JULIO DE 2017)</small>
+
+XXXIII. Desarrollar y operar sistemas de información, principalmente geográfica, para promover y vigilar el cumplimiento de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial, y
+
+XXXIV. Las demás que le confieran otros ordenamientos legales.
 
 #### Sección II. De la estructura de la Procuraduría
 
@@ -260,7 +326,9 @@ I. El Consejo de Gobierno;
 
 II. El Procurador(a);
 
-III. La Subprocuraduría de Protección Ambiental;
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
+
+III. La Subprocuraduría Ambiental, de Protección y Bienestar a los Animales;
 
 IV. La Subprocuraduría de Ordenamiento Territorial; y
 
@@ -268,23 +336,43 @@ IV. La Subprocuraduría de Ordenamiento Territorial; y
 
 V. La Subprocuraduría de Asuntos Jurídicos;
 
-> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-VI. El Comité Técnico Asesor, y
+VI. El Comité Técnico Asesor;
 
-> <small>(ADICIONADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-VII. Las unidades administrativas que se establezcan en su Reglamento.
+VII. La Coordinación Técnica y de Sistemas;
+
+> <small>(ADICIONADA, G.O. 20 DE JULIO DE 2017)</small>
+
+VIII. La Coordinación Administrativa;
+
+> <small>(ADICIONADA, G.O. 20 DE JULIO DE 2017)</small>
+
+IX. La Coordinación de Participación Ciudadana y Difusión; y
+
+> <small>(ADICIONADA, G.O. 20 DE JULIO DE 2017)</small>
+
+X. Las Direcciones, subdirecciones y jefaturas de unidad departamental, así como las demás que se establezcan en el Reglamento de esta Ley y Manuales Administrativos.
+
+> <small>(ADICIONADO, G.O. 20 DE JULIO DE 2017)</small>
+
+Las unidades administrativas señaladas en este artículo tendrán las facultades que expresamente les confiere esta Ley, así como aquellas que se establezcan en el Reglamento.
 
 > <small>(REFORMADO, G.O. 9 DE ENERO DE 2006)</small>
 
-###### Artículo 7.
+###### Artículo 7°.
 
 La Procuraduría estará a cargo de una o un Procurador, nombrado(a) conforme al procedimiento siguiente:
 
-I. La o el Jefe de Gobierno del Distrito Federal hará llegar a la Asamblea Legislativa, la propuesta de una terna que contenga los nombres de las y los candidatos a ocupar el cargo de Procuradora o Procurador;
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-II. La Comisión de Preservación del Medio Ambiente y Protección Ecológica de la Asamblea Legislativa citará en un lapso de diez días naturales después de haber recibido la propuesta, a las y los ciudadanos propuestos para efecto de que comparezcan dentro de los tres días siguientes y respondan a los cuestionamientos que se les formulen;
+I. La o el Jefe de Gobierno de la Ciudad de México hará llegar a la Asamblea Legislativa, la propuesta de una terna que contenga los nombres de las y los candidatos a ocupar el cargo de Procuradora o Procurador;
+
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
+
+II. La Comisión de Preservación del Medio Ambiente, Protección Ecológica y Cambio Climático de la Asamblea Legislativa citará en un lapso de 10 días naturales después de haber recibido la propuesta, a las y los ciudadanos propuestos para efecto de que comparezcan dentro de los tres días siguientes y respondan a los cuestionamientos que se les formulen;
 
 III. La Asamblea Legislativa por mayoría calificada de votos designará a la persona que habrá de fungir como titular de la Procuraduría para el período de que se trate.
 
@@ -300,7 +388,9 @@ I. Ser ciudadano(a) mexicano(a), en pleno goce de sus derechos;
 
 II. Tener cuando menos treinta años de edad, el día de su nombramiento;
 
-III. Tener conocimientos y experiencia acreditable en materia ambiental y de ordenamiento territorial, así como del marco normativo vigente, en el Distrito Federal; y
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
+
+III. Tener conocimientos y experiencia acreditable en materia ambiental y de ordenamiento territorial, así como del marco normativo vigente en la Ciudad de México; y
 
 > <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -318,7 +408,7 @@ En ese supuesto o en el de renuncia, la o el Procurador será sustituido interin
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE OCTUBRE DE 2008)</small>
 
-###### Artículo 10.
+###### Artículo 10°.
 
 El Procurador(a), además de las facultades previstas en la Ley Orgánica de la Administración Pública del Distrito Federal, tendrá las siguientes:
 
@@ -326,7 +416,9 @@ I. Representar a la Procuraduría legalmente y ejercer las funciones que a ésta
 
 II. Elaborar y proponer al Consejo los programas y planes de trabajo a los que se sujetará el funcionamiento de la Procuraduría;
 
-III. Proponer el proyecto de presupuesto de la Procuraduría, atendiendo a las previsiones del ingreso y del gasto público del Distrito Federal, y enviarlo oportunamente a la o el Jefe de Gobierno, para que ordene su incorporación al proyecto de Egresos del Ejercicio Fiscal correspondiente;
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
+
+III. Proponer el proyecto de presupuesto de la Procuraduría, atendiendo a las previsiones del ingreso y del gasto público de la Ciudad de México, y enviarlo oportunamente a la o el Jefe de Gobierno, para que ordene su incorporación al proyecto de Egresos del Ejercicio Fiscal correspondiente;
 
 IV. Proponer ante el Consejo los manuales de organización y de procedimientos de la Procuraduría;
 
@@ -334,17 +426,31 @@ IV. Proponer ante el Consejo los manuales de organización y de procedimientos d
 
 V. Emitir las Recomendaciones, Sugerencias y resoluciones de índole administrativa y de interés social a las que se refiere esta ley y, en su caso, imponer las medidas cautelares y sanciones correspondientes;
 
-VI. Denunciar ante el Ministerio Público los hechos que puedan ser constitutivos de ilícitos o delitos ambientales;
+> <small>(ADICIONADA, G.O. 20 DE JULIO DE 2017)</small>
+
+V BIS. Proponer la creación de las unidades administrativas que se requieran para el buen funcionamiento de la Procuraduría y determinar la competencia de dichas unidades;
+
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
+
+VI. Denunciar ante el Ministerio Público local o federal según corresponda, los hechos que puedan ser constitutivos de delito, ya sean ambientales o de cualquier otra índole que tenga un efecto negativo manifiesto en el ambiente, ordenamiento territorial, protección y bienestar animal o que atenten directamente contra el patrimonio y seguridad de la Procuraduría y su personal en ejercicio de sus funciones;
+
+> <small>(ADICIONADA, G.O. 20 DE JULIO DE 2017)</small>
+
+VI BIS. Proveer lo necesario para cumplir con los principios y normatividad en materia penal respecto al proceso acusatorio y oral, referente a los delitos ambientales o de cualquier otra índole que tenga un efecto negativo en el ambiente, ordenamiento territorial, protección y bienestar animal o que atenten directamente contra el patrimonio y seguridad de la Procuraduría y su personal en el ejercicio de sus funciones;
 
 VII. Definir, establecer y mantener los sistemas de información, evaluación y control necesarios para el desempeño de las funciones de la Procuraduría;
 
 VIII. Expedir copias certificadas de los documentos que obren en sus archivos sobre asuntos que competan a la Procuraduría, de conformidad con las disposiciones jurídicas y administrativas aplicables;
 
-IX. Delegar las facultades en los(as) Subprocuradores, sin perjuicio de su ejercicio directo, mediante acuerdos que serán publicados en la Gaceta Oficial del Distrito Federal;
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
+
+IX. Delegar las facultades en los(as) Subprocuradores (as), Coordinadores (as) y Directores (as) sin perjuicio de su ejercicio directo, mediante acuerdos que serán publicados en la Gaceta Oficial de la Ciudad de México;
 
 X. Nombrar, promover y remover libremente a las y los servidores públicos de la Procuraduría;
 
-XI. Presentar el proyecto de Reglamento Interior al Consejo para su aprobación;
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
+
+XI. Presentar el proyecto de Reglamento al Consejo para su aprobación, así como de las reformas que se consideren necesarias;
 
 XII. Presentar al Consejo el informe anual de sus actividades y del ejercicio de su presupuesto; y
 
@@ -352,9 +458,9 @@ XII. Presentar al Consejo el informe anual de sus actividades y del ejercicio de
 
 XIII. Formular la política de investigación sobre el cumplimiento de la legislación ambiental y del ordenamiento territorial de acuerdo a su competencia;
 
-> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-XIV. Expedir las acreditaciones de los servidores públicos de la procuraduría para que realicen los reconocimientos de hechos e impongan acciones precautorias en el cumplimiento de sus atribuciones;
+XIV. Expedir las credenciales que acrediten o autoricen a los servidores públicos para el desarrollo de las funciones de investigación, vigilancia, procuración, conciliación y amigable composición en materia ambiental y del ordenamiento territorial;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 9 DE ENERO DE 2006)</small>
 
@@ -364,9 +470,9 @@ XV. Determinar los lineamientos a que se sujetarán las distintas unidades admin
 
 XVI. Acordar al inicio de las acciones y procedimientos respectivos, en el caso del inicio de investigaciones de oficio o formulación de estudios y reportes relativos a la aplicación y cumplimiento de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial, así como en los demás supuestos previstos en este ordenamiento;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 9 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-XVII. Celebrar convenios de colaboración o coordinación con autoridades del Distrito Federal, de otras entidades federativas y de gobiernos municipales, para el cumplimiento de los fines de la Procuraduría;
+XVII. Celebrar convenios de colaboración o coordinación con autoridades de la Ciudad de México, de otras entidades federativas y de gobiernos municipales, para el cumplimiento de los fines de la Procuraduría;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -388,37 +494,57 @@ XXI. Expedir las condiciones generales de trabajo de la Procuraduría y proveer 
 
 XXII. Adscribir orgánica y administrativamente a la oficina del Procurador (a), las unidades administrativas que estime pertinentes;
 
-> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-XXIII. Participar en las sesiones del Consejo de Gobierno, como invitado permanente, con derecho a voz únicamente, y
+XXIII. Participar en las sesiones del Consejo de Gobierno, como invitado permanente, con derecho a voz;
 
-> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-XXIV. Difundir y publicar las respuestas de las autoridades respecto de las recomendaciones en el portal de Internet de la Procuraduría, en la Gaceta Oficial del Distrito Federal, así como en dos medios impresos de comunicación de mayor circulación;
+XXIV. Difundir y publicar las respuestas de las autoridades respecto de las recomendaciones en el portal de Internet de la Procuraduría, en la Gaceta Oficial de la Ciudad de México, así como en dos medios impresos de comunicación de mayor circulación;
 
-> <small>(ADICIONADA, G.O. 15 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 20 DE JULIO DE 2017)</small>
 
-XXV. Las demás que se le asignen en los ordenamientos jurídicos aplicables.
+XXV. Someter a la aprobación del Consejo, el Sistema del Servicio Público de Carrera de la Procuraduría, previa opinión del Comité Técnico Asesor;
+
+> <small>(ADICIONADA, G.O. 20 DE JULIO DE 2017)</small>
+
+XXVI. Representar los intereses de la Procuraduría, el interés legítimo de los habitantes de la Ciudad de México en materia ambiental y del ordenamiento territorial, así como ejercer las acciones jurisdiccionales por riesgos o daños al ambiente, los recursos naturales y al patrimonio urbanístico arquitectónico de la Ciudad de México, tanto en sede judicial como administrativa;
+
+> <small>(ADICIONADA, G.O. 20 DE JULIO DE 2017)</small>
+
+XXVII. Formular y difundir indicadores del cumplimiento de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial;
+
+> <small>(ADICIONADA, G.O. 20 DE JULIO DE 2017)</small>
+
+XXVIII. Otorgar reconocimientos a las personas que ajusten sus actividades al estricto cumplimiento de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial con excepción a lo relativo a los programas de autorregulación y auditorías ambientales y demás reconocimientos que emita la Secretaría. Sin que ello implique una licencia, permiso o autorización oponible en un procedimiento administrativo de verificación, inspección o jurisdiccional; y
+
+XXIX. Las demás que se le asignen en los ordenamientos jurídicos aplicables.
+
+> <small>(REFORMADO, G.O. 20 DE JULIO DE 2017)</small>
 
 ###### Artículo 11.
 
-La o el Procurador enviará a la o el Jefe de Gobierno y a la Asamblea Legislativa, un informe anual sobre las actividades que la Procuraduría haya realizado en dicho período. Este informe deberá ser publicado en la Gaceta Oficial del Distrito Federal, y contendrá una descripción sobre las denuncias que se hayan recibido, las investigaciones y conciliaciones realizadas, así como las resoluciones que haya tomado, las recomendaciones y sugerencias emitidas que hayan sido rechazadas, cumplidas y las pendientes por cumplimentarse; y los datos estadísticos e información que se consideren de interés.
+La o el Procurador enviará a la o el Jefe de Gobierno y a la Asamblea Legislativa, un informe anual sobre las actividades que la Procuraduría haya realizado en dicho período. Este informe deberá ser publicado en la Gaceta Oficial de la Ciudad de México, y contendrá una descripción sobre las denuncias que se hayan recibido, las investigaciones y conciliaciones realizadas, así como las resoluciones que haya tomado, las recomendaciones y sugerencias emitidas que hayan sido rechazadas, aceptadas cumplidas y las pendientes por cumplimentarse; y los datos estadísticos e información que se consideren de interés.
 
 ###### Artículo 12.
 
 El Consejo de Gobierno será el órgano rector de la Procuraduría y se integrará con carácter plural y multidisciplinario, por:
 
-I. La o el Jefe de Gobierno del Distrito Federal o la persona que designe, quien lo(a) presidirá;
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-II. Una o un representante de los(as) titulares de cada una de las Secretarías de Medio Ambiente; Desarrollo Urbano y Vivienda; Obras y Servicios; y Transporte y Vialidad; y
+I. La o el Jefe de Gobierno de la Ciudad de México o la persona que designe, quien lo(a) presidirá;
+
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
+
+II. Una o un representante de los(as) titulares de cada una de las Secretarías de Medio Ambiente; Desarrollo Urbano y Vivienda; Obras y Servicios y Movilidad; y
 
 > <small>(REFORMADA, G.O. 9 DE ENERO DE 2006)</small>
 
 III. Cuatro Consejeros Ciudadanos, hombres y mujeres, que reúnan los requisitos señalados en el artículo 15 BIS 2 de este ordenamiento, quienes serán designados conforme a lo dispuesto en dicho precepto y que formarán parte del Comité Técnico Asesor de la Procuraduría.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, G.O. 20 DE JULIO DE 2017)</small>
 
-Los Consejeros Ciudadanos, no serán considerados como servidores públicos, por lo que su participación en el Consejo de Gobierno no genera ningún tipo de relación laboral con la Procuraduría o con el Gobierno del Distrito Federal.
+Los Consejeros Ciudadanos, no serán considerados como servidores públicos, por lo que su participación en el Consejo de Gobierno no genera ningún tipo de relación laboral con la Procuraduría o con el Gobierno de la Ciudad de México.
 
 Cada uno(a) de los(as) titulares referidos en la fracción II del presente artículo nombrará al funcionario(a) inmediato como su suplente, quien acudirá en su ausencia a las sesiones del Consejo.
 
@@ -440,7 +566,9 @@ El Secretario(a) Técnico(a) será designado(a) por el Consejo.
 
 El Consejo tendrá las siguientes funciones:
 
-I. Aprobar el proyecto de Reglamento Interno de la Procuraduría;
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
+
+I. Aprobar el proyecto de Reglamento de esta Ley y sus modificaciones;
 
 II. Aprobar el proyecto de Presupuesto Anual de Egresos y los programas correspondientes;
 
@@ -448,25 +576,29 @@ III. Aprobar los programas y planes de trabajo presentados por la o el Procurado
 
 IV. Opinar sobre el Informe de la Procuraduría;
 
-V. Aprobar los manuales de organización y de procedimientos de la Procuraduría y hacerlos del conocimiento de la Oficialía Mayor del Gobierno del Distrito Federal;
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
+
+V. Aprobar los manuales de organización y de procedimientos de la Procuraduría y hacerlos del conocimiento de la Oficialía Mayor del Gobierno de la Ciudad de México;
 
 VI. Designar al Secretario(a) Técnico(a); y
 
-> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-VII. Apoyar las funciones de la Procuraduría, a fin de que ésta cumpla de manera eficaz, con las disposiciones en materia de protección al medio ambiente y al adecuado ordenamiento territorial del Distrito Federal, garantizando la defensa de los derechos de los habitantes del Distrito Federal, a disfrutar de un ambiente adecuado, para su desarrollo, salud y bienestar, así como de un ordenamiento territorial sustentable;
+VII. Apoyar las funciones de la Procuraduría, a fin de que ésta cumpla de manera eficaz, con las disposiciones en materia ambiental, del ordenamiento territorial y de protección y bienestar animal en la Ciudad de México, garantizando la defensa de los derechos de los habitantes de esta Ciudad, a disfrutar de un ambiente adecuado, para su desarrollo, salud y bienestar, así como de un ordenamiento territorial sustentable;
 
 > <small>(ADICIONADA, G.O. 31 DE OCTUBRE DE 2008)</small>
 
 VIII. Establecer, entre otros aspectos, las reglas a que se sujetará el Consejo de Gobierno y el Comité Técnico Asesor, respecto de su operación y funcionamiento, calendario de reuniones, quórum para sesionar, toma de decisiones y demás que en el ámbito de dichos órganos colegiados se requieran, para asegurar el buen funcionamiento de la Procuraduría, y
 
-> <small>(ADICIONADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-IX. Las demás que establezca el Reglamento Interior.
+IX. Las demás que establezca el Reglamento.
+
+> <small>(REFORMADO, G.O. 20 DE JULIO DE 2017)</small>
 
 ###### Artículo 15.
 
-El Consejo se reunirá en sesiones ordinarias una vez cada tres meses, y extraordinarias, cuantas veces sea necesario, en los términos que establezca el Reglamento Interior, y tomará sus decisiones por mayoría de votos.
+El Consejo se reunirá en sesiones ordinarias una vez cada tres meses, y extraordinarias, cuantas veces sea necesario, en los términos que establezca el Reglamento, y tomará sus decisiones por mayoría de votos.
 
 > <small>(ADICIONADO, G.O. 9 DE ENERO DE 2006)</small>
 
@@ -474,7 +606,9 @@ El Consejo se reunirá en sesiones ordinarias una vez cada tres meses, y extraor
 
 La Procuraduría contará con un Comité Técnico Asesor, que tendrá las siguientes funciones:
 
-l. Opinar respecto de los programas, estudios, manuales, y acciones de la Procuraduría, así como proponerle la adopción de medidas y mecanismos tendientes a reforzar la aplicación y cumplimiento de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial en el Distrito Federal;
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
+
+I. Opinar respecto de los programas, estudios, manuales y acciones de la Procuraduría, así como proponerle la adopción de medidas y mecanismos tendientes a reforzar la aplicación y cumplimiento de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial en la Ciudad de México;
 
 II. Proponer a la Procuraduría, los proyectos, estudios y actividades para incrementar la eficacia y eficiencia en el ejercicio de sus atribuciones;
 
@@ -502,7 +636,9 @@ II. Un Secretario Técnico, quien será designado por el titular de la Procuradu
 
 III. Diez Consejeros Ciudadanos, incluyendo aquellos que forman parte del Consejo de Gobierno de la Procuraduría.
 
-El Presidente del Comité Técnico Asesor podrá invitar a otras instituciones de gobierno, tanto del Distrito Federal como de los Gobiernos Federal o de las Entidades Federativas con las que limita el Distrito Federal, cuando se atiendan asuntos de su interés.
+> <small>(REFORMADO, G.O. 20 DE JULIO DE 2017)</small>
+
+El Presidente del Comité Técnico Asesor podrá invitar a otras instituciones de gobierno, tanto de la Ciudad de México como de los Gobiernos Federal o de las Entidades Federativas con las que limita cuando se atiendan asuntos de su interés.
 
 A las sesiones del Comité Técnico Asesor podrán asistir especialistas y representantes de los sectores, público, social y privado distintos a los representados en el Comité, en calidad de invitados cuando por la naturaleza de los asuntos que se discutan se requiera o se considere pertinente contar con sus opiniones.
 
@@ -524,39 +660,49 @@ Los Consejeros Ciudadanos durarán en su encargo tres años, prorrogables por un
 
 El Reglamento de esta Ley establecerá, entre otros aspectos, las reglas a que se sujetará el Comité Técnico Asesor, respecto de su operación y funcionamiento, periodicidad de reuniones, quórum para sesionar, toma de decisiones, así como substitución y ratificación de consejeros ciudadanos.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO POR EL QUE SE REFORMA Y ADICIONA LA LEY, EL PRESENTE ARTÍCULO HA SIDO MODIFICADO EN CUANTO A SU ESTRUCTURA; POR TAL MOTIVO, SE PRESENTA EL TEXTO APROBADO Y PUBLICADO EN LA G.O. DE 31 DE OCTUBRE DE 2008.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE JULIO DE 2017)</small>
 
 ###### Artículo 15 Bis 4.
 
-Las Subprocuradurías de Protección Ambiental y del Ordenamiento Territorial tendrán, en el ámbito de su competencia, las atribuciones genéricas siguientes;
+Las Subprocuradurías Ambiental, de Protección y Bienestar a los Animales y del Ordenamiento Territorial tendrán, en el ámbito de su competencia, las atribuciones genéricas siguientes:
 
-> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-I. Atender las denuncias ciudadanas que les sean turnadas e iniciar investigaciones de oficio, en los supuestos a que se refiere esta Ley, según corresponda, así como sustanciar los procedimientos respectivos;
+I. Atender las denuncias ciudadanas o las investigaciones de oficio que les sean turnadas, en los supuestos a que se refiere esta Ley, según corresponda, así como sustanciar los procedimientos respectivos;
 
 > <small>(ADICIONADA, G.O. 9 DE ENERO DE 2006)</small>
 
 II. Investigar los actos, hechos u omisiones que se requiera para el ejercicio de sus atribuciones;
 
-> <small>(ADICIONADA, G.O. 9 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-III. Solicitar informes y documentación a las autoridades y demás personas involucradas, para el inicio o desahogo de los procedimientos administrativos de su competencia;
+III. Requerir a las autoridades competentes la documentación necesaria, el acceso a la información contenida en los registros, archivos y bases de datos, a efecto de allegarse de elementos que le permitan investigar posibles infracciones a las disposiciones jurídicas en materia ambiental, del ordenamiento territorial y de protección y bienestar animal. Se tendrá como excepción a la presente atribución la información que tenga carácter de confidencial o reservada en términos de las disposiciones aplicables;
 
-> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-IV. Realizar los reconocimientos de hechos en los términos establecidos en la presente Ley, e imponer las acciones precautorias de conformidad con lo que establece el artículo 26 bis del presente ordenamiento;
+IV. Realizar los reconocimientos de hechos e imponer las acciones precautorias, en los términos establecidos en la presente Ley y su Reglamento;
 
-> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-V. Solicitar, de conformidad con la legislación aplicable en la materia, que se realicen las visitas de verificación o los actos de inspección por parte de las autoridades competentes;
+V. Requerir de conformidad con la legislación aplicable en la materia, que se realicen las visitas de verificación o los actos de inspección por parte de las autoridades competentes, lo cual deberá realizar en un plazo máximo de 10 días hábiles, contados a partir de la solicitud, quienes deberán enviar un informe a la Procuraduría sobre el resultado de dichas visitas y el estatus del procedimiento a seguir, adjuntando copia de las documentales que acrediten la información, lo cual deberá realizarse en un plazo máximo de 10 días hábiles.
 
-> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(ADICIONADA, G.O. 20 DE JULIO DE 2017)</small>
 
-VI. Realizar acciones de conciliación y mediación, conforme a las disposiciones jurídicas aplicables;
+V Bis. Cuando a juicio de la Procuraduría se requiera su participación, ésta podrá designar, habilitar o autorizar a los servidores públicos de la Procuraduría para realizar acciones de vigilancia, reconocimientos de hechos o ejecutar acciones precautorias, en asuntos de su competencia o en coadyuvancia con otras autoridades;
 
-> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(ADICIONADA, G.O. 20 DE JULIO DE 2017)</small>
+
+V Bis 1. Llevar a cabo la recepción, registro, custodia, conservación y supervisión de los bienes, animales, vehículos y utensilios asegurados que se encuentren en las instalaciones de la Procuraduría; así como registrar y dar seguimiento a los bienes, animales, vehículos y utensilios asegurados que tengan un depositario distinto, así como determinar o dar destino final a los bienes asegurados, de conformidad con las disposiciones jurídicas aplicables y los lineamientos emitidos para tal efecto;
+
+> <small>(ADICIONADA, G.O. 20 DE JULIO DE 2017)</small>
+
+V Bis 2. Emitir oficios de comisión para realizar acciones de vigilancia a fin de constatar el cumplimiento de las disposiciones jurídicas en materia ambiental, del ordenamiento territorial y de protección y bienestar animal;
+
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
+
+VI. Realizar acciones de conciliación y mediación, conforme a lo establecido en el Reglamento y a las demás disposiciones jurídicas aplicables;
+
+(REFORMADA, G.O. 31 DE OCTUBRE DE 2008) (REPUBLICADA, G.O. 20 DE JULIO DE 2017)
 
 VII. Calificar, dictaminar y resolver sobre el contenido de las actas de los reconocimientos de hechos que lleven a cabo;
 
@@ -564,13 +710,13 @@ VII. Calificar, dictaminar y resolver sobre el contenido de las actas de los rec
 
 VIII. Formular y validar dictámenes técnicos y periciales respecto de daños ambientales y, en su caso, para la restauración o compensación ambiental de los mismos, o en relación con los efectos adversos en el ambiente y los recursos naturales generados por violaciones, incumplimiento o falta de aplicación de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial;
 
-> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-IX. Determinar fundada y motivadamente, las acciones precautorias que correspondan, como resultado de los reconocimientos de hechos que instauren, en los términos establecidos en la presente Ley;
+IX. Acordar fundada y motivadamente, la aplicación de las acciones precautorias o cualquier otra medida cautelar que correspondan, como resultado de los reconocimientos de hechos que instauren, sustanciarlos y dictar la Resolución Administrativa que corresponda, en los términos establecidos en la presente Ley;
 
-> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-X. Emitir las resoluciones que correspondan a los procedimientos que se lleven a cabo con motivo de la atención de denuncias e investigaciones de oficio;
+X. Emitir los oficios, acuerdos y resoluciones que correspondan a los procedimientos que se lleven a cabo;
 
 > <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -580,21 +726,43 @@ XI. Elaborar, en coordinación con la Subprocuraduría de Asuntos Jurídicos, lo
 
 XII. Dar respuesta en forma oportuna, debidamente fundada y motivada a las denuncias ciudadanas presentadas y ratificadas ante la Procuraduría, notificando al interesado el resultado de las visitas de reconocimiento de hechos, de las acciones precautorias que se hayan solicitado a las autoridades competentes o las diligencias realizadas;
 
-> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-XIII. Solicitar la comparecencia de las personas mencionadas en las denuncias ciudadanas, que sean admitidas o en las investigaciones de oficio que tramite, a fin de desahogar las diligencias que correspondan o manifestar lo que a su derecho convenga, y
+XIII. Solicitar la comparecencia de las personas mencionadas en las denuncias ciudadanas, que sean admitidas o en las investigaciones de oficio que tramite, a fin de desahogar las diligencias que correspondan o manifestar lo que a su derecho convenga;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+XIV. Resolver las denuncias relativas al daño o menoscabo que se cause a la Tierra y sus recursos naturales;
 
-XIV. Resolver las denuncias relativas al daño o menoscabo que se cause a la Tierra y sus recursos naturales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 20 DE JULIO DE 2017)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+XV. Emitir dictámenes técnicos para apoyar la sustanciación de los procedimientos que se lleven a cabo en la Procuraduría o en acciones en las que se coadyuve con otras autoridades:
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+> <small>(ADICIONADA, G.O. 20 DE JULIO DE 2017)</small>
 
-XV. Las demás que le confieren otros ordenamientos jurídicos o administrativos, aplicables o las que les sean encomendadas, por acuerdo del Procurador (a) y las que correspondan a las unidades administrativas a su cargo.
+XVI. Preparar el expediente con la información que corresponda, en colaboración con la Subprocuraduría de Asuntos Jurídicos, para proceder en su caso, a la presentación de la denuncia ante las autoridades competentes, cuando se constaten actos, hechos u omisiones que constituyan violaciones o incumplimiento a la legislación administrativa y penal en las materias competencia de la Procuraduría;
+
+> <small>(ADICIONADA, G.O. 20 DE JULIO DE 2017)</small>
+
+XVII. Solicitar a las autoridades administrativas y jurisdiccionales competentes, la ejecución de la revocación o cancelación de licencias, autorizaciones, permisos, certificados y registros dictados en contra de lo dispuesto por las disposiciones jurídicas en materia ambiental y del ordenamiento territorial en la Ciudad de México, adjuntando las constancias que acrediten dichas irregularidades;
+
+> <small>(ADICIONADA, G.O. 20 DE JULIO DE 2017)</small>
+
+XVIII. Ejercer sus atribuciones en congruencia con los programas y lineamientos expedidos por la o el Procurador(a);
+
+> <small>(ADICIONADA, G.O. 20 DE JULIO DE 2017)</small>
+
+XIX. Expedir certificaciones en los asuntos de su competencia;
+
+> <small>(ADICIONADA, G.O. 20 DE JULIO DE 2017)</small>
+
+XX. Llevar a cabo las notificaciones, diligencias y actuaciones que requiera practicar para el ejercicio de sus atribuciones;
+
+> <small>(ADICIONADA, G.O. 20 DE JULIO DE 2017)</small>
+
+XXI. Proponer al Procurador el otorgamiento de reconocimientos a las personas que ajusten sus actividades al estricto cumplimiento de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial, y
+
+XXII. Las demás que le confieren otros ordenamientos jurídicos o administrativos, aplicables o las que les sean encomendadas, por acuerdo del Procurador (a) y las que correspondan a las unidades administrativas a su cargo.
 
 > <small>(REFORMADO, G.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -616,11 +784,15 @@ IV. Presentar a consideración del Procurador (a), las propuestas de contratos, 
 
 V. Sustanciar los procedimientos derivados de las impugnaciones formuladas, contra actos de la Procuraduría;
 
-VI. Formular querellas ante el Ministerio Público por actos, hechos y omisiones, en los casos en que la Procuraduría resulte afectada; otorgando en su caso el perdón respectivo;
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-VII. Denunciar ante las autoridades competentes, los actos, hechos u omisiones, que pudieran ser constitutivos de ilícitos penales o administrativos en materia ambiental y del ordenamiento territorial y coadyuvar con el Ministerio Público, en los procedimientos que al efecto se inicien;
+VI. Formular querellas y denuncias ante el Ministerio Público local o federal según corresponda, por hechos que puedan ser constitutivos de delito, ya sean ambientales o de cualquier otra índole que tenga un efecto negativo en el ambiente, ordenamiento territorial, la protección y bienestar animal o que atenten directamente contra el patrimonio o seguridad de la Procuraduría y su personal en ejercicio de sus funciones;
 
-VIII. Representar a la Procuraduría, en los procedimientos judiciales, laborales o administrativos;
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
+
+VII. Ejercer la defensa en el ámbito de las facultades de la Procuraduría, de los derechos que según corresponda, asisten a víctimas u ofendidos de delitos a la luz de la normatividad aplicable, ante las autoridades administrativas y jurisdiccionales locales o federales en materia penal, respecto a los procesos y procedimientos relacionados con delitos ambientales o de cualquier otra índole que tenga un efecto negativo en el ambiente, ordenamiento territorial, protección y bienestar animal o que atenten directamente contra el patrimonio y seguridad de la Procuraduría y su personal en el ejercicio de sus funciones;
+
+VIII. (DEROGADA, G.O. 20 DE JULIO DE 2017)
 
 IX. Atender y resolver las consultas jurídicas, que le sean formuladas por las Subprocuradurías y los distintos órganos y unidades administrativas de la Procuraduría, así como mantener actualizados a dichos órganos, de los instrumentos jurídicos relativos a sus funciones;
 
@@ -632,21 +804,27 @@ XII. Apoyar a las Subprocuradurías, en la elaboración de los proyectos de Suge
 
 XIII. Informar, orientar y asesorar a la población y a la administración pública, respecto del cumplimiento y aplicación de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial;
 
-XIV. Designar, autorizar, delegar en los servidores públicos adscritos a la unidad, facultades para presentar denuncias, contestar demandas, denuncias, querellarse, comparecer en audiencias y en todo tipo de diligencias y actuaciones jurisdiccionales y administrativas; ofrecer pruebas, interponer recursos y, en general, realizar todo tipo de actos tendientes a:
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-a) La representación del interés legítimo de las personas, que resulten o puedan resultar afectadas por actos, hechos u omisiones que implique o puedan implicar violaciones, incumplimiento o falta de aplicación de las disposiciones, en materia ambiental y del ordenamiento territorial en el Distrito Federal.
+XIV. Ejercer ante el Tribunal de lo Contencioso Administrativo de la Ciudad de México y otros órganos jurisdiccionales o administrativos, las acciones necesarias para:
 
-b) La defensa de los legítimos intereses de la Procuraduría;
+a) Representar el interés legítimo de las personas, que resulten o puedan resultar afectadas por actos, hechos u omisiones que implique o puedan implicar violaciones, incumplimiento o falta de aplicación de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial en la Ciudad de México.
 
-XV. Ejercer ante el Tribunal de lo Contencioso Administrativo del Distrito Federal y otros órganos jurisdiccionales o administrativos, las acciones necesarias para:
+b) Defender y representar los intereses de la Procuraduría en los procedimientos judiciales, laborales o administrativos; y
 
-a) Representar el interés legítimo de las personas, que resulten o puedan resultar afectadas por actos, hechos u omisiones, que implique o puedan implicar violaciones, incumplimiento o falta de aplicación de las disposiciones en materia ambiental y del ordenamiento territorial en el Distrito Federal, de conformidad con las normas que en cada caso resulten aplicables;
+c) Buscar la reparación o compensación por riesgos o daños al ambiente, los recursos naturales y al patrimonio urbanístico arquitectónico de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
+
+XV. Designar, autorizar, delegar en los servidores públicos adscritos a la unidad, facultades para presentar denuncias, querellas, demandas, comparecer en audiencias y en todo tipo de diligencias y actuaciones jurisdiccionales y administrativas; ofrecer pruebas, interponer recursos, así como contestar demandas y, en general, realizar todo tipo de actos ante los órganos jurisdiccionales o administrativos que correspondan;
 
 XVI. Solicitar informes y documentación a las autoridades y a las personas involucradas, para el inicio o desahogo de los procedimientos administrativos de su competencia;
 
 XVII. Participar, en coordinación con las autoridades competentes, en la formulación de normas ambientales y de ordenación, reglamentos, estudios y programas relacionados con las disposiciones jurídicas de competencia de la Procuraduría;
 
-XVIII. Elaborar los proyectos de convenios de coordinación, de la Procuraduría con autoridades Federales, Estatales, Municipales y del Distrito Federal, para el cumplimiento de sus atribuciones;
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
+
+XVIII. Elaborar los proyectos de convenios de coordinación, de la Procuraduría con autoridades Federales, Estatales, Municipales y de la Ciudad de México, para el cumplimiento de sus atribuciones;
 
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -658,9 +836,17 @@ XXI. Apoyar a las Subprocuradurías, en el seguimiento de las Sugerencias que em
 
 XXII. Participar y en su caso elaborar: Estudios, reportes e informes especiales, conforme a los lineamientos que emita el Procurador (a);
 
-XXIII. Ejercer las atribuciones de la Procuraduría, en materia de arbitraje;
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-XXIV. Fungir como Oficina de Información Pública, de acuerdo a lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal;
+XXIII. Ejercer las atribuciones de la Procuraduría en materia de arbitraje, así como realizar acciones de conciliación y mediación, conforme a lo establecido en el Reglamento y a las demás disposiciones jurídicas aplicables.
+
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
+
+XXIV. Fungir como Unidad de Transparencia de acuerdo a lo dispuesto en la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México.
+
+> <small>(ADICIONADA, G.O. 20 DE JULIO DE 2017)</small>
+
+XXIV BIS. Garantizar el acceso de toda persona a la información que se genere en el ámbito de competencia de la Procuraduría, de conformidad con las disposiciones jurídicas aplicables. Para tal efecto, llevará acciones de difusión de la información que posibilite a la población conocer y ejercer plenamente sus derechos.
 
 XXV. Fijar, sistematizar; unificar y difundir, para efectos administrativos, los lineamientos y criterios de interpretación y aplicación de la presente Ley, su Reglamento y demás disposiciones, que normen el funcionamiento y actividades de la Procuraduría;
 
@@ -670,11 +856,11 @@ XXVII. Las demás que le confieren otros ordenamientos jurídicos y administrati
 
 El Reglamento de esta ley, establecerá los mecanismos que permitan, según corresponda, una actuación coordinada a las Subprocuradurías y otras unidades administrativas de la Procuraduría, en el ejercicio de las atribuciones referidas.
 
-> <small>(REFORMADO, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, G.O. 20 DE JULIO DE 2017)</small>
 
 ###### Artículo 15 Bis 6.
 
-La Procuraduría, de acuerdo con el presupuesto que le corresponde, y de conformidad con las disposiciones jurídicas y administrativas aplicables, contará con las Coordinaciones, Direcciones, Subdirecciones, Jefaturas de Unidad Departamental, Verificadores, Inspectores, Investigadores, Peritos y demás servidores públicos que se requieren para el ejercicio de sus atribuciones.
+La Procuraduría, de acuerdo con el presupuesto que le corresponde, y de conformidad con las disposiciones jurídicas y administrativas aplicables, contará con las Coordinaciones, Direcciones, Subdirecciones, Jefaturas de Unidad Departamental y demás servidores públicos que se requieren para el ejercicio de sus atribuciones, mismas que se establecerán en el Reglamente (sic).
 
 > <small>(REFORMADO, G.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -692,17 +878,23 @@ Los servidores públicos que presten sus servicios en la Procuraduría, se regir
 
 Todos los servidores públicos, que integren la plantilla de la Procuraduría se considerarán como trabajadores de confianza, debido a la naturaleza de las funciones que éste desempeña.
 
+> <small>(ADICIONADO, G.O. 20 DE JULIO DE 2017)</small>
+
+###### Artículo 15 Bis 9.
+
+En el despacho y resolución de los asuntos de su competencia, la o el Procurador(a), las o los Subprocuradores (as) y las y los Coordinadores (as), serán suplidos en sus ausencias temporales por los servidores públicos de jerarquía inmediata inferior que de ellos dependan.
+
 ###### Artículo 16.
 
 Durante el desempeño de su cargo, la o el Procurador y las o los Subprocuradores(as) y demás titulares las unidades administrativas de la Procuraduría, estarán impedidos para desempeñar cualquier otro puesto público o privado, salvo los de carácter docente, honorífico y los de causa propia, que no interfieran con el desarrollo de sus funciones.
 
 Los cargos que se designen en la Procuraduría observarán una proporción equitativa entre mujeres y hombres, sin que ninguno de los géneros exceda de 60 por ciento en dichos cargos.
 
-> <small>(REFORMADO, G.O. 9 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, G.O. 20 DE JULIO DE 2017)</small>
 
 ###### Artículo 17.
 
-La Procuraduría deberá promover la más amplia difusión de sus funciones y servicios entre los habitantes del Distrito Federal, así como de sus programas, a efecto de lograr el mayor acceso de la ciudadanía a las instancias de gestoría y denuncia. Asimismo difundirá ampliamente sus recomendaciones y sugerencias, así como las resoluciones que considere de importancia para promover y propiciar la aplicación y el cumplimiento de la legislación ambiental y del ordenamiento territorial y sus informes periódicos.
+La Procuraduría deberá promover la más amplia difusión de sus funciones y servicios entre los habitantes de la Ciudad de México, así como de sus programas, a efecto de lograr el mayor acceso de la ciudadanía a las instancias de gestoría y denuncia. Asimismo difundirá ampliamente sus recomendaciones y sugerencias, así como las resoluciones que considere de importancia para promover y propiciar la aplicación y el cumplimiento de la legislación ambiental y del ordenamiento territorial, así como sus informes periódicos.
 
 ### CAPÍTULO TERCERO. De los Procedimientos
 
@@ -714,11 +906,11 @@ La Procuraduría deberá promover la más amplia difusión de sus funciones y se
 
 La Procuraduría, dentro del ámbito de su competencia, iniciará sus actuaciones a partir de las denuncias que reciba en los términos de esta Ley, o de oficio, en aquellos casos en que así lo acuerde el Procurador (a), conforme a lo dispuesto en este ordenamiento.
 
-> <small>(REFORMADO, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, G.O. 20 DE JULIO DE 2017)</small>
 
 ###### Artículo 19.
 
-En la actuación de la Procuraduría que no implique reconocimientos de hechos imperará el principio inquisitivo sobre el dispositivo.
+Los procedimientos que se sigan ante la Procuraduría deberán ser breves y sencillos, y estarán sujetos sólo a las formalidades esenciales que requiera la documentación de los expedientes respectivos. Se regirán además, por los principios de simplificación, agilidad, economía, acceso a la información, precisión, legalidad, transparencia e imparcialidad, y se procurará, en la medida de lo posible, el contacto directo con los denunciantes, denunciados y autoridades involucradas, para evitar la dilación de las comunicaciones escritas, salvaguardando en todo momento el legítimo interés de toda persona para solicitar la defensa y protección de su derecho a gozar de un ambiente adecuado para su desarrollo, salud y bienestar.
 
 > <small>(REFORMADO, G.O. 9 DE ENERO DE 2006)</small>
 
@@ -740,13 +932,15 @@ Los servidores públicos que incumplan con lo previsto en el presente artículo,
 
 Los procedimientos administrativos que inicie la Procuraduría con motivo del ejercicio de sus funciones se sujetarán a lo dispuesto en la presente Ley y su Reglamento.
 
-Para el desahogo de los procedimientos citados, se aplicarán supletoriamente las Leyes Ambiental y de Procedimiento Administrativo y el Código de Procedimientos Civiles, todos del Distrito Federal, en el orden citado.
+> <small>(REFORMADO, G.O. 20 DE JULIO DE 2017)</small>
 
-> <small>(ADICIONADO, G.O. 9 DE ENERO DE 2006)</small>
+Para el desahogo de los procedimientos citados, se aplicarán supletoriamente las Leyes Ambiental y de Procedimiento Administrativo y el Código de Procedimientos Civiles, todos vigentes en la Ciudad de México, en el orden citado.
+
+> <small>(REFORMADO, G.O. 20 DE JULIO DE 2017)</small>
 
 ###### Artículo 21 Bis.
 
-En todos los casos que se requiera, la Procuraduría levantará acta circunstanciada de sus actuaciones.
+En todas las diligencias y actuaciones llevadas a cabo durante la investigación, la Procuraduría levantará el acta circunstanciada correspondiente.
 
 > <small>(ADICIONADO, G.O. 9 DE ENERO DE 2006)</small>
 
@@ -754,15 +948,21 @@ En todos los casos que se requiera, la Procuraduría levantará acta circunstanc
 
 La formulación de denuncias, así como las resoluciones, recomendaciones y sugerencias que emita la Procuraduría, no afectarán el ejercicio de otros derechos y medios de defensa que puedan corresponder a los afectados conforme a las leyes, no suspenderán ni interrumpirán sus plazos preclusivos, de prescripción o caducidad. Esta circunstancia deberá señalarse a los interesados en el acuerdo de admisión de la instancia.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 9 DE ENERO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 20 DE JULIO DE 2017)</small>
 
-#### Sección II. De la Denuncia Ciudadana
+#### Sección II. De la Denuncia Ciudadana e Investigación
 
-> <small>(REFORMADO, G.O. 25 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, G.O. 20 DE JULIO DE 2017)</small>
 
 ###### Artículo 22.
 
-Toda persona, comités ciudadanos y consejos del pueblo electos, grupo social, organización no gubernamental, asociación o sociedad, podrá denunciar ante la procuraduría cualquier hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico o daños al ambiente o a los recursos naturales, o constituya o pueda constituir una contravención o falta de aplicación de las disposiciones jurídicas en materia ambiental o del ordenamiento territorial del Distrito Federal.
+Toda persona, comités ciudadanos y consejos del pueblo electos, grupo social, organización no gubernamental, asociación o sociedad, podrá denunciar ante la Procuraduría cualquier hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico o daños al ambiente o a los recursos naturales, o constituya o pueda constituir una contravención o falta de aplicación de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial de la Ciudad de México.
+
+La denuncia podrá ser presentada por escrito, vía telefónica, correo electrónico o por cualquier otro medio electrónico que la Procuraduría establezca para tal propósito.
+
+En caso de que las denuncias se presenten vía telefónica, correo electrónico o por cualquier otro medio electrónico, éstas deberán ser ratificadas por el o los interesados, dentro del término de tres días hábiles posteriores a que se comunicaron a la Procuraduría los actos, hechos u omisiones respectivos; de no ser así, la denuncia se tendrá por no presentada. Sin embargo, si a juicio de la Procuraduría el asunto lo amerita, podrá llevar a cabo las investigaciones que correspondan.
+
+El servidor público que reciba una denuncia, deberá realizar el registro correspondiente.
 
 > <small>(REFORMADO, G.O. 25 DE JULIO DE 2012)</small>
 
@@ -770,25 +970,41 @@ Toda persona, comités ciudadanos y consejos del pueblo electos, grupo social, o
 
 Los grupos sociales, comités ciudadanos y consejos del pueblo electos y las organizaciones no gubernamentales que presenten con tal carácter denuncias en los términos de ley, deberán designar un representante común.
 
-> <small>(ADICIONADO, G.O. 9 DE ENERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE JULIO DE 2017)</small>
 
 ###### Artículo 22 Bis 1.
 
-El escrito de denuncia a que se refiere el artículo 22 de esta Ley, deberá señalar:
+La denuncia deberá contener:
 
-I. Nombre, denominación o razón social del denunciante, así como su domicilio completo y teléfono si lo tiene;
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-II. Descripción clara y sucinta de los actos, hechos u omisiones denunciados y las razones en las que se sustenta la denuncia;
+I. Nombre, denominación o razón social del denunciante, así como su domicilio completo, teléfono y correo electrónico si lo tiene;
 
-III. Datos y demás información que permitan ubicar a los presuntos responsables, incluyendo a las autoridades ante quienes se hubieren realizado gestiones y el resultado de éstas, en caso de que ello sea posible;
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-IV. Referencias que permitan ubicar el domicilio, lugar o zona donde se suscitan los hechos denunciados; y
+II. Descripción clara y sucinta de los actos, hechos u omisiones denunciados y las razones en las que se sustenta la denuncia; incluyendo información relacionada con las gestiones llevadas a cabo ante otras autoridades y el resultado de éstas, en caso de que ello sea posible;
+
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
+
+III. Nombre y domicilio del presunto responsable o datos e información que permitan ubicarlo, en caso de que ello sea posible;
+
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
+
+IV. Domicilio o referencias del lugar o zona donde se suscitaron los hechos denunciados; y
+
+> <small>(ADICIONADA, G.O. 9 DE ENERO DE 2006)</small>
 
 V. Las pruebas que, en su caso, ofrezca el denunciante.
 
+> <small>(ADICIONADO, G.O. 9 DE ENERO DE 2006)</small>
+
 El escrito de denuncia deberá ser suscrito por el o los denunciantes o sus representantes, señalando lugar y fecha en que se presenta, y, en su caso, el nombre y domicilio de persona autorizada para oír y recibir notificaciones.
 
+> <small>(ADICIONADO, G.O. 9 DE ENERO DE 2006)</small>
+
 El o los denunciantes podrán solicitar a la Procuraduría confidencialidad sobre sus datos personales, en cuyo caso, se deberán adoptar las medidas respectivas.
+
+> <small>(ADICIONADO, G.O. 9 DE ENERO DE 2006)</small>
 
 La Procuraduría pondrá a disposición de los interesados formatos para facilitar la elaboración y presentación de denuncias ciudadanas.
 
@@ -797,8 +1013,6 @@ La Procuraduría pondrá a disposición de los interesados formatos para facilit
 ###### Artículo 22 Bis 2.
 
 La denuncia sólo podrá presentarse dentro del plazo de un año, a partir de que se hubiera iniciado la ejecución de los actos, hechos u omisiones referidos en el artículo 22, o de que el denunciante hubiese tenido conocimiento de los mismos. En casos excepcionales, y tratándose de asuntos que impliquen afectaciones graves al ambiente, los recursos naturales y el ordenamiento territorial, la Procuraduría podrá ampliar dicho plazo mediante Acuerdo debidamente motivado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
 
@@ -826,43 +1040,63 @@ Las investigaciones de oficio que inicie la Procuraduría, se substanciarán y c
 
 Recibido el escrito de denuncia, o su ratificación en los casos procedentes, la Procuraduría acordará sobre su admisión. En el supuesto de que determine su improcedencia, informará al interesado sobre las razones que motivaron la misma y le orientará sobre las gestiones que en su caso procedan y las autoridades competentes.
 
-> <small>(REFORMADO, G.O. 9 DE ENERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE JULIO DE 2017)</small>
 
 ###### Artículo 25.
 
-Una vez admitida la denuncia, la Procuraduría procederá a investigar los actos, hechos u omisiones referidos en la misma, para lo cual deberá, según corresponda:
+Una vez admitida la denuncia o iniciada la investigación de oficio, la Procuraduría atendiendo a las características de los actos, hechos y omisiones denunciados y de los elementos con que cuente, procederá a realizar una o más de las siguientes acciones:
 
-> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-I. Solicitar a las autoridades competentes, la información y documentación que considere necesaria, para el esclarecimiento de los hechos;
+I. Requerir a las autoridades competentes la documentación necesaria, el acceso a la información contenida en los registros, archivos y bases de datos, a efecto de allegarse de elementos que le permitan investigar posibles infracciones a las disposiciones jurídicas en materia ambiental y del ordenamiento territorial. Se tendrá como excepción a la presente atribución la información que tenga carácter de confidencial o reservada en términos de las disposiciones aplicables;
 
 > <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
 
 II. Requerir la rendición del informe correspondiente, a la autoridad presuntamente responsable, de los hechos denunciados;
 
-> <small>(REFORMADA, G.O. 10 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-III. Llevar a cabo los reconocimientos de hechos necesarios, para la substanciación de las denuncias y en caso de ser procedentes emitir las acciones precautorias que correspondan, y solicitar en su caso, de conformidad con las disposiciones legales aplicables, la custodia de los folios reales ante el Registro Público de la Propiedad y de Comercio del Distrito Federal, la revocación y cancelación de las licencias, autorizaciones, permisos, certificados y registros, cuando se trasgredan las disposiciones jurídicas en materia ambiental y del ordenamiento territorial, del Distrito Federal;
+III. Llevar a cabo los reconocimientos de hechos para la substanciación del procedimiento administrativo de investigación de conformidad con lo establecido en esta Ley y su Reglamento;
 
-> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(ADICIONADA, G.O. 20 DE JULIO DE 2017)</small>
 
-IV. Solicitar a las autoridades competentes la realización de visitas de verificación o actos de inspección, en los términos previstos en las disposiciones jurídicas en materia ambiental y del ordenamiento territorial;
+III Bis. Solicitar la ejecución de acciones precautorias o cualquier otra medida cautelar que corresponda en términos de lo dispuesto en esta Ley y su Reglamento;
+
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
+
+IV. Requerir a las autoridades competentes la realización de las visitas de verificación e inspección y la aplicación de medidas de seguridad, correctivas o cualquier otra medida cautelar procedentes de conformidad con las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADA, G.O. 20 DE JULIO DE 2017)</small>
+
+IV Bis. Solicitar a los denunciados o interesados, la presentación de información y documentación relacionada con los actos, hechos u omisiones objeto de la investigación realizada en coadyuvancia con otras autoridades;
+
+> <small>(ADICIONADA, G.O. 20 DE JULIO DE 2017)</small>
+
+IV Bis 1. Solicitar en su caso, de conformidad con las disposiciones legales aplicables, la custodia de los folios reales ante el Registro Público de la Propiedad y de Comercio del Distrito Federal, la revocación y cancelación de las licencias, autorizaciones, permisos, certificados y registros, cuando se trasgredan las disposiciones jurídicas en materia ambiental y del ordenamiento territorial, vigentes en la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 20 DE JULIO DE 2017)</small>
+
+IV Bis 2. Realizar las acciones de vigilancia cuando se trate de asuntos de su competencia;
+
+> <small>(ADICIONADA, G.O. 20 DE JULIO DE 2017)</small>
+
+IV Bis 3. Representar el interés legítimo de los habitantes de la Ciudad de México en la defensa del derecho a un ambiente sano y un territorio ordenado;
 
 > <small>(ADICIONADA, G.O. 31 DE OCTUBRE DE 2008)</small>
 
 V. Citar a declarar, en caso de estimarlo necesario, a las personas involucradas en los hechos denunciados;
 
-> <small>(ADICIONADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-VI. Aplicar en su caso, mecanismos alternativos de solución a la controversia respectiva;
+VI. Aplicar en su caso, mecanismos alternativos de solución de controversias como la mediación, la conciliación y el arbitraje en término de esta Ley y su Reglamento.
 
 > <small>(ADICIONADA, G.O. 31 DE OCTUBRE DE 2008)</small>
 
 VII. Elaborar, en su caso, los dictámenes técnicos necesarios para determinar en el expediente de la denuncia, las posibles afectaciones al ambiente o al ordenamiento territorial derivadas de los hechos denunciados y las acciones necesarias para su restitución;
 
-> <small>(ADICIONADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-VIII. Allegarse y desahogar todo tipo de elementos probatorios, para el mejor conocimiento de los hechos;
+VIII. Allegarse de todo tipo de elementos probatorios, para el mejor conocimiento de los hechos, así como implementar y ejecutar criterios, sistemas y procedimientos de carácter técnico, de investigación y en su caso de inteligencia, dirigidos a la detección de irregularidades en materia ambiental y del ordenamiento territorial;
 
 > <small>(ADICIONADA, G.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -872,17 +1106,25 @@ IX. Informar periódicamente al denunciante, sobre las actuaciones realizadas y 
 
 X. Las demás actuaciones que correspondan, de acuerdo a sus atribuciones y conforme a lo establecido en esta Ley y su Reglamento.
 
-> <small>(ADICIONADO, G.O. 9 DE ENERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE JULIO DE 2017)</small>
 
 ###### Artículo 25 Bis.
 
-La Procuraduría determinará las acciones a seguir para atender en el menor tiempo posible y con la menor cantidad de recursos, las denuncias ciudadanas que le presenten. En primer término, deberá evaluar la aplicación de mecanismos alternativos para la solución del conflicto de que se trate.
+La Procuraduría determinará las acciones a seguir para atender en el menor tiempo posible con la menor cantidad de recursos, las denuncias ciudadanas que le presenten. En primer término, deberá evaluar la aplicación de mecanismos alternativos de solución de controversias.
+
+> <small>(ADICIONADO, G.O. 9 DE ENERO DE 2006)</small>
 
 En todo caso, la Procuraduría deberá informar al denunciante, dentro del plazo de los 30 días hábiles siguientes a la admisión de la denuncia, el resultado de las gestiones que hubiere realizado para su atención.
 
+> <small>(ADICIONADO, G.O. 9 DE ENERO DE 2006)</small>
+
 Asimismo, la Procuraduría deberá hacer del conocimiento de los denunciantes y, en su caso, de las autoridades responsables o competentes, la admisión de la denuncia, utilizando en casos de urgencia cualquier medio de comunicación electrónico.
 
+> <small>(ADICIONADO, G.O. 9 DE ENERO DE 2006)</small>
+
 En la misma comunicación se solicitará a dichas autoridades que rindan un informe sobre los actos, hechos u omisiones que se señalen en la denuncia, el cual deberá presentar dentro de un plazo máximo de diez días hábiles y por los medios que sean convenientes, de acuerdo con el caso. En las situaciones que a juicio de la Procuraduría se consideren urgentes, dicho plazo podrá ser reducido.
+
+> <small>(ADICIONADO, G.O. 9 DE ENERO DE 2006)</small>
 
 La falta de rendición del informe o de la documentación que lo apoye, así como el retraso injustificado en su presentación, además de la responsabilidad respectiva, tendrá el efecto de que en relación con el trámite de la denuncia se tengan por ciertos los hechos materia de la misma, salvo prueba en contrario.
 
@@ -900,11 +1142,11 @@ III. El asunto de que se trate se encuentre pendiente de resolución por parte d
 
 En estos supuestos, la Procuraduría acordará la improcedencia de la denuncia y le notificará al denunciante las razones y fundamentos que tuvo para ello y, en su caso, le proporcionará la orientación y asesoría jurídica que requiera para que ejercite y dé seguimiento a las acciones legales procedentes en virtud de los hechos denunciados.
 
-> <small>(REFORMADO, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, G.O. 20 DE JULIO DE 2017)</small>
 
 ###### Artículo 26 Bis.
 
-Cuando de los resultados asentados en un acta de reconocimiento de hechos practicado por la Procuraduría en los términos de la presente Ley y su Reglamento, existan indicios para presumir desequilibrio ecológico; daños o deterioro al ambiente o a cualquiera de sus componentes; daños o deterioro a la infraestructura urbana, a la vía pública, al uso del suelo, al paisaje urbano o al patrimonio urbanístico arquitectónico del Distrito Federal, la Procuraduría podrá, con la debida fundamentación y motivación, imponer acciones precautorias en materia ambiental y del ordenamiento territorial notificándolas al interesado y otorgándole un plazo adecuado para su realización. Dichas acciones precautorias tendrán la duración estrictamente necesaria para la corrección de las irregularidades respectivas.
+Cuando de los resultados asentados en un acta de Reconocimiento de Hechos practicado por la Procuraduría en los términos de la presente Ley y su Reglamento, existan indicios para presumir desequilibrio ecológico; daños o deterioro al ambiente o a cualquiera de sus componentes; daños o deterioro a la infraestructura urbana, a la vía pública, al uso del suelo, al paisaje urbano o al patrimonio urbanístico arquitectónico de la Ciudad de México, la Procuraduría podrá, con la debida fundamentación y motivación, imponer acciones precautorias en materia ambiental y del ordenamiento territorial notificándolas al interesado y otorgándole un plazo adecuado para su realización. Dichas acciones precautorias tendrán la duración estrictamente necesaria para la corrección de las irregularidades respectivas.
 
 > <small>(ADICIONADO, G.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -924,9 +1166,9 @@ III. La renovación anual de las acreditaciones.
 
 El trámite de la denuncia se dará por terminado mediante la resolución en los supuestos siguientes:
 
-> <small>(REFORMADA, G.O. 9 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-I. Las partes avengan sus intereses, a través de alguno de los mecanismos alternativos de solución de conflictos a que se refiere esta Ley;
+I. Las partes avengan sus intereses, a través de algunos de los mecanismos alternativos de solución de controversias a que se refiere esta Ley;
 
 > <small>(REFORMADA, G.O. 9 DE ENERO DE 2006)</small>
 
@@ -968,7 +1210,9 @@ Sin perjuicio de lo previsto en el artículo anterior, la Procuraduría, en los 
 
 Para tales fines, la Procuraduría podrá emplazar a que comparezcan los interesados en sus instalaciones o, cuando se considere necesario en otro lugar, a fin de desahogar las diligencias que correspondan.
 
-En ningún caso la aplicación de mecanismo (sic) alternativos para la solución de conflictos podrá implicar el incumplimiento o falta de aplicación de las disposiciones ambientales o del ordenamiento territorial.
+> <small>(REFORMADO, G.O. 20 DE JULIO DE 2017)</small>
+
+En ningún caso, los mecanismos alternativos de solución de controversias pueden eximir de responsabilidad a los responsables de violaciones o incumplimientos de las disposiciones jurídicas ambientales y del ordenamiento territorial y tendrán por objeto resarcir los daños al ambiente o a los recursos naturales.
 
 > <small>(REFORMADO, G.O. 9 DE ENERO DE 2006)</small>
 
@@ -1008,11 +1252,11 @@ Concluida la investigación respectiva, se deberán analizar los actos, hechos u
 
 #### Sección III. De las Recomendaciones y Sugerencias
 
-> <small>(REFORMADO, G.O. 9 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, G.O. 20 DE JULIO DE 2017)</small>
 
 ###### Artículo 31.
 
-La Procuraduría emitirá la Recomendación que corresponda a las dependencias, órganos desconcentrados y entidades de la administración pública federal, estatal, municipal y del Distrito Federal, cuando acredite actos, hechos u omisiones que constituyan violaciones, incumplimientos o falta de aplicación de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial o cuando las acciones u omisiones de las autoridades correspondientes generen o puedan generar daños o deterioro grave del ambiente y los recursos naturales del Distrito Federal.
+La Procuraduría emitirá la Recomendación que corresponda a las dependencias, órganos desconcentrados y entidades de la administración pública federal, estatal, municipal y de la Ciudad de México, cuando acredite actos, hechos u omisiones que constituyan violaciones, incumplimientos o falta de aplicación de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial, o cuando las acciones u omisiones de las autoridades correspondientes generen o puedan generar daños o deterioro grave del ambiente y los recursos naturales de la Ciudad de México.
 
 > <small>(REFORMADO, G.O. 9 DE ENERO DE 2006)</small>
 
@@ -1034,17 +1278,25 @@ III. La descripción de la problemática ambiental o del ordenamiento territoria
 
 IV. Los argumentos técnicos y jurídicos que fundamenten y motiven la Sugerencia.
 
-> <small>(REFORMADO, G.O. 9 DE ENERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE JULIO DE 2017)</small>
 
 ###### Artículo 33.
 
-Las recomendaciones o sugerencias, que emita la Procuraduría deberán contener, por lo menos, lo siguiente:
+Las Recomendaciones que emita la Procuraduría deberán contener, por lo menos, lo siguiente:
+
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2006)</small>
 
 I. Narración sucinta de los hechos que dieron origen a la denuncia, investigación de oficio o estudio, según corresponda;
 
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2006)</small>
+
 II. Descripción de la situación jurídica general en la que encuadre la conducta de la autoridad a la que se dirijan;
 
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2006)</small>
+
 III. Observaciones, pruebas y razonamientos jurídicos con los que se tenga por acreditado el supuesto de su procedencia; y
+
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2006)</small>
 
 IV. Señalamiento de las acciones concretas que se solicitan a la autoridad llevar a cabo para observar la aplicación correcta o hacer más eficiente en su caso, la legislación vigente en materia ambiental y del ordenamiento territorial.
 
@@ -1086,13 +1338,17 @@ En los casos en que por la naturaleza de la Recomendación se requiera de un pla
 
 La autoridad o servidor público que haya aceptado la Recomendación tendrá la responsabilidad de su total cumplimiento.
 
-> <small>(ADICIONADO, G.O. 9 DE ENERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE JULIO DE 2017)</small>
 
 ###### Artículo 34 Bis.
 
-Una vez emitida la Sugerencia, se notificará de inmediato a la Asamblea Legislativa o a la autoridad jurisdiccional que corresponda, a fin de que tomen las medidas necesarias para su cumplimiento.
+Una vez emitida la Sugerencia, se presentará de inmediato a la Asamblea Legislativa o a la autoridad jurisdiccional que corresponda, a fin de que tomen las medidas necesarias para su cumplimiento.
+
+> <small>(ADICIONADO, G.O. 9 DE ENERO DE 2006)</small>
 
 La autoridad a la que se dirija la Sugerencia deberá pronunciarse respecto del contenido de la misma dentro del plazo de 30 días hábiles posteriores a su notificación, informando a la Procuraduría las acciones que en consecuencia realizará y los plazos correspondientes.
+
+> <small>(ADICIONADO, G.O. 9 DE ENERO DE 2006)</small>
 
 La Procuraduría deberá dar seguimiento a las acciones que se deriven de las Sugerencias que emita y hacer pública la información y documentación correspondiente.
 
@@ -1104,11 +1360,11 @@ La Procuraduría podrá elaborar y difundir públicamente informes especiales cu
 
 Lo anterior sin perjuicio de la responsabilidad penal o administrativa que pudiera acreditarse en el caso específico por la conducta de los servidores públicos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE JULIO DE 2017)</small>
 
 ###### Artículo 34 Bis 2.
 
-La Asamblea Legislativa del Distrito Federal, a través de la Comisión de Preservación del Medio Ambiente, Protección Ecológica y Cambio Climático y/o de la Comisión de Desarrollo e Infraestructura Urbana, según corresponda, a petición de la Procuraduría o de las propias Comisiones, podrá solicitar a las autoridades y servidores públicos de la administración pública del Distrito Federal, información o su comparecencia para justificar las razones de sus acciones u omisiones, cuando:
+La Asamblea Legislativa a petición de la Procuraduría o de las Comisiones de Preservación del Medio Ambiente, Protección Ecológica y Cambio Climático, y de Desarrollo e Infraestructura Urbana, podrá solicitar a las autoridades y servidores públicos de la Administración Pública de la Ciudad de México, información o su comparecencia para justificar las razones de sus acciones u omisiones, cuando:
 
 > <small>(ADICIONADA, G.O. 9 DE ENERO DE 2006)</small>
 
@@ -1124,6 +1380,38 @@ II. Incumplan total o parcialmente esas Recomendaciones.
 
 Las Recomendaciones y Sugerencias, se referirán a casos concretos. Las autoridades no podrán aplicarlos a otros casos por analogía o mayoría de razón.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 20 DE JULIO DE 2017)</small>
+
+#### Sección III Bis. De los Mecanismos Alternativos de Solución de Controversias
+
+> <small>(ADICIONADO, G.O. 20 DE JULIO DE 2017)</small>
+
+###### Artículo 34 Bis 4.
+
+La Procuraduría podrá aplicar mecanismos alternativos de solución de controversias, entre los que se encuentran la mediación, la conciliación y el arbitraje, para garantizar la solución más favorable en la salvaguarda del derecho de los habitantes de la Ciudad de México a vivir en un medio ambiente sano y un ordenamiento territorial adecuados para su desarrollo, salud y bienestar.
+
+> <small>(ADICIONADO, G.O. 20 DE JULIO DE 2017)</small>
+
+###### Artículo 34 Bis 5.
+
+En la aplicación de mecanismos alternativos de solución de controversias, regirán los principios de voluntariedad, confidencialidad, flexibilidad, neutralidad, imparcialidad, equidad, legalidad y economía.
+
+> <small>(ADICIONADO, G.O. 20 DE JULIO DE 2017)</small>
+
+###### Artículo 34 Bis 6.
+
+Los procedimientos de mediación y conciliación que lleve a cabo la Procuraduría se substanciarán conforme a lo establecido en esta Ley, el Reglamento y las demás disposiciones jurídicas aplicables.
+
+Para salvaguardar la confidencialidad de las partes, la Procuraduría podrá utilizar las tecnologías de la información y de comunicación que juzgue pertinentes, o bien, según sea el caso, promover el cumplimiento voluntario de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial en los términos dispuestos en el Reglamento.
+
+> <small>(ADICIONADO, G.O. 20 DE JULIO DE 2017)</small>
+
+###### Artículo 34 Bis 7.
+
+La Procuraduría podrá actuar como árbitro en los casos en los que así le sea solicitado, resolviendo en amigable composición o en estricto derecho, con independencia, imparcialidad, objetividad y neutralidad.
+
+El procedimiento arbitral se substanciará conforme a lo establecido en el Reglamento, aplicándose supletoriamente el Código de Procedimientos Civiles del Distrito Federal, las disposiciones jurídicas de carácter internacional y demás normatividad aplicable.
+
 #### Sección IV. De los recursos
 
 > <small>(REFORMADO, G.O. 26 DE JUNIO DE 2009)</small>
@@ -1132,11 +1420,11 @@ Las Recomendaciones y Sugerencias, se referirán a casos concretos. Las autorida
 
 En contra de las resoluciones que dicte la Procuraduría, con motivo de la imposición de las acciones precautorias a que se refiere esta Ley, será procedente el recurso de inconformidad previsto en la Ley de Procedimiento Administrativo del Distrito Federal y su desahogo se dará conforme a lo dispuesto en este ordenamiento.
 
-> <small>(ADICIONADO, G.O. 9 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, G.O. 20 DE JULIO DE 2017)</small>
 
 ###### Artículo 35 Bis.
 
-En contra de las Recomendaciones, Sugerencias, acuerdos o resoluciones de la Procuraduría derivados de los procedimientos que inicie en casos distintos a los señalados en el artículo 35 de esta Ley, no procederá ningún recurso ni medio de impugnación.
+En contra de las Recomendaciones, Sugerencias, acuerdos o resoluciones que se dicten dentro del procedimiento de investigación no procederá ningún recurso ni medio de impugnación.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -1154,7 +1442,7 @@ ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL II LEGISLATURA.- Recinto Legislativo, 
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; - 48, 49, y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los nueve días del mes de abril del año dos mil uno. JEFE DE GOBIERNO DEL DISTRITO FEDERAL. II LEGISLATURA- ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, CLAUDIA SHEINBAUM PARDO.- FIRMA.- EL SECRETARIO DE FINANZAS, CARLOS MANUEL URZÚA MACÍAS.- FIRMA.- LA SECRETARIA DE DESARROLLO URBANO Y VIVIENDA, LAURA ITZEL CASTILLO JUÁREZ.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 G.O. 9 DE ENERO DE 2006.
 
@@ -1247,3 +1535,13 @@ PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Fede
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO.- La Asamblea Legislativa del Distrito Federal, en la aprobación el (sic) Presupuesto de Egresos de 2017, deberá asignar una partida presupuestal que contemple recursos suficientes para la implementación del Sistema de Información Geográfica del Patrimonio Ambiental y Urbano de la Ciudad de México.
+
+G.O. 20 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE CAMBIA EL NOMBRE DE LEY ORGÁNICA DE LA PROCURADURÍA AMBIENTAL Y DEL ORDENAMIENTO TERRITORIAL DEL DISTRITO FEDERAL, POR EL DE LEY ORGÁNICA DE LA PROCURADURÍA AMBIENTAL Y DEL ORDENAMIENTO TERRITORIAL DE LA CIUDAD DE MÉXICO; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA PROCURADURÍA AMBIENTAL Y DEL ORDENAMIENTO TERRITORIAL DE LA CIUDAD DE MÉXICO Y DE LA LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN EL DISTRITO FEDERAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor a los treinta días hábiles siguientes a su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. La sustanciación y resolución de los asuntos que se encuentren en trámite en la Procuraduría al momento de esta Ley, se concluirán de conformidad con las disposiciones vigentes al momento de iniciarse los procedimientos respectivos.
+
+TERCERO. El Ejecutivo publicará en un término de treinta días posteriores a la entrada en vigor del Presente Decreto las modificaciones necesarias al Reglamento de la Ley Orgánica de la Procuraduría Ambiental y del Ordenamiento Territorial de la Ciudad de México.
