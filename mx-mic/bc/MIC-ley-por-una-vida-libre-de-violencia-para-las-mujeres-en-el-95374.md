@@ -4,7 +4,7 @@ identifier: "MIC-ley-por-una-vida-libre-de-violencia-para-las-mujeres-en-el-9537
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-09"
-last_updated: "2017-05-12"
+last_updated: "2017-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95374&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2017.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 9 de agosto de 2013.
 
@@ -281,13 +281,23 @@ III. El establecimiento de un banco de datos sobre las órdenes de protección y
 
 ### CAPÍTULO IV. SISTEMA Y SUBSISTEMAS
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 18.
 
-El Sistema Estatal es el conjunto de dependencias y entidades de las administraciones públicas estatales y municipales, así como los representantes de los poderes Legislativo y Judicial, que deberán crear y conjuntar esfuerzos, instrumentos, políticas públicas, servicios y acciones interinstitucionales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres por razones de género.
+El Sistema Estatal es el conjunto de dependencias y entidades de la administración pública estatal, las autoridades municipales, los representantes de los poderes Legislativo y Judicial y representaciones de instituciones académicas y de investigación, así como organismos de la sociedad civil.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2017)</small>
+
+El Sistema Estatal deberá crear y conjuntar esfuerzos, instrumentos, políticas públicas, servicios y acciones interinstitucionales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres por razones de género.
 
 ###### ARTÍCULO 19.
 
 El Sistema Estatal tendrá por objeto la creación e instrumentación del Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las mujeres por razones de género, así como los mecanismos que faciliten la aplicación del Modelo Único de Atención, sus instrumentos, servicios y políticas públicas.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2017)</small>
+
+El Sistema Estatal, a través de su Presidente, presentará ante el Congreso del Estado, durante el mes de noviembre en acto público, informe anual por escrito de sus actividades, que deberá contener detalladamente resultados de su actividad y de sus subsistemas, principalmente en lo concerniente a: el contenido del Programa Estatal, el avance y resultados de su implementación, el desarrollo del Modelo Único de Atención, así como la eficacia y eficiencia en su implementación; los resultados del Banco Estatal de Datos y su trayectoria histórica, la incidencia y eficacia de la implementación de Órdenes de Protección en el territorio estatal y en su caso, los resultados de la implementación de la Alerta de Violencia de Género en el Estado.
 
 ###### ARTÍCULO 20.
 
@@ -303,17 +313,53 @@ IV. La Secretaría de Salud;
 
 V. La Secretaría de Política Social;
 
-VI. La Secretaría de la Mujer;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2017)</small>
+
+VI. La Secretaría de Igualdad Sustantiva y Desarrollo de las Mujeres Michoacanas;
 
 VII. La Procuraduría General de Justicia del Estado;
 
-VIII. El Sistema para el Desarrollo Integral de la Familia; y,
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2017)</small>
 
-IX. Un Ayuntamiento por cada una de las diez regiones socioeconómicas del Estado, a invitación del Sistema Estatal.
+VIII. El Sistema para el Desarrollo Integral de la Familia Michoacana;
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2017)</small>
+
+IX. Un Ayuntamiento por cada una de las diez regiones socioeconómicas del Estado, a invitación del Sistema Estatal;
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2017)</small>
+
+X. La Comisión Estatal de los Derechos Humanos;
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2017)</small>
+
+XI. La Comisión de Igualdad de Género del Congreso de Estado;
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2017)</small>
+
+XII. Representantes de instituciones académicas o de investigación con representación estatal, conocimiento y trabajo relevante sobre el tema de la violencia contra la mujer; y,
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2017)</small>
+
+XIII. Organizaciones de la sociedad civil con conocimiento y trabajo relevante sobre el tema de la violencia contra la mujer en el Estado.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2017)</small>
+
+Las instituciones académicas o de investigación que se incorporen al Sistema Estatal, podrán ser públicas o privadas y deberán estar incorporadas a la Secretaría de Educación Pública o a alguna institución de educación superior pública, contar con conocimiento y trabajo relevante sobre el tema de Violencia contra las Mujeres y con experiencia de por lo menos dos años en la atención y prevención de la Violencia contra las Mujeres en el Estado de Michoacán.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2017)</small>
+
+Las organizaciones de la sociedad civil que se incorporen al Sistema Estatal, deberán estar legalmente constituidas, tener su domicilio en el territorio estatal, contar con conocimiento y trabajo relevante sobre el tema de Violencia contra las Mujeres y con experiencia de por lo menos dos años en la atención y prevención de la Violencia contra las Mujeres en el Estado de Michoacán.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2017)</small>
+
+El procedimiento para la incorporación de instituciones académicas, de investigación y organizaciones de la sociedad civil, estará debidamente contemplado en el Reglamento, y ante la falta de respuesta institucional para el ingreso, aplicará la afirmativa ficta.
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 21.
 
-El Sistema Estatal será presidido por el Secretario de Gobierno, siendo la Secretaria Ejecutiva del mismo la titular de la Secretaría de la Mujer, y podrán ser invitados a las sesiones ordinarias o extraordinarias, a propuesta de dos o más miembros del Sistema Estatal, los servidores públicos o miembros de la sociedad civil que se considere conveniente. El Sistema Estatal se creará por medio de un acuerdo institucional suscrito por los respectivos titulares de las instituciones que lo integran.
+El Sistema Estatal será presidido por el Secretario de Gobierno, siendo la Secretaria Ejecutiva del mismo la titular de la Secretaría de Igualdad Sustantiva y Desarrollo de las Mujeres Michoacanas, y podrán ser invitados a las sesiones ordinarias o extraordinarias, a propuesta de dos o más miembros del Sistema Estatal, los servidores públicos o miembros de la sociedad civil que se considere conveniente. El Sistema Estatal se creará por medio de un acuerdo institucional suscrito por los respectivos titulares de las instituciones que lo integran.
 
 ###### ARTÍCULO 22.
 
@@ -325,9 +371,15 @@ II. Subsistema de Acciones Temporales; y,
 
 III. Subsistema de Armonización.
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 23.
 
-El Sistema Estatal se reunirá por lo menos trimestralmente en sesiones ordinarias, que serán convocadas por la Presidencia a través de la Secretaría Ejecutiva, por lo menos con diez días hábiles de anticipación a la celebración de la misma, independientemente de que en la sesión de instalación, se apruebe el calendario anual.
+El Sistema Estatal se reunirá por lo menos trimestralmente en sesiones ordinarias, que serán convocadas por la Presidencia a través de la Secretaría Ejecutiva, misma que deberá elaborar una propuesta de calendario anual de sesiones para su aprobación en el Pleno.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2017)</small>
+
+Las sesiones ordinarias se convocarán por lo menos con diez días hábiles de anticipación a la celebración de las mismas, y su orden del día se dará a conocer con la misma anticipación.
 
 ###### ARTÍCULO 24.
 
@@ -459,9 +511,11 @@ VIII. Cumplir con cada una de las atribuciones que le confiere la normatividad a
 
 La seguridad pública deberá prestarse con perspectiva de género, atendiendo en todo momento a la precaución razonable que requieran las mujeres.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 35.
 
-La Secretaría de la Mujer establecerá las políticas en materia de violencia contra las mujeres en el Estado, en coordinación con las dependencias, entidades y unidades administrativas de la Administración Pública Estatal y Municipal, en apego a la Política Nacional respectiva, desarrollando, entre otras facultades, las siguientes:
+La Secretaría de Igualdad Sustantiva y Desarrollo de las Mujeres Michoacanas establecerá las políticas en materia de violencia contra las mujeres en el Estado, en coordinación con las dependencias, entidades y unidades administrativas de la Administración Pública Estatal y Municipal, en apego a la Política Nacional respectiva, desarrollando, entre otras facultades, las siguientes:
 
 I. Participar en el diseño de la política transversal en el Estado, para que los servidores públicos adopten la perspectiva de género;
 
@@ -673,7 +727,9 @@ VIII. Valoración de riesgo.
 
 Los profesionales que presten atención especializada a quien ejerza, provoque o genere la violencia familiar, se regirán por los siguientes lineamientos:
 
-I. Registrar ante la Secretaría de la Mujer el modelo psicoterapéutico validado, en cuanto a su efectividad y metodología, por la Secretaría de Salud el cual será refrendado anualmente; y,
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2017)</small>
+
+I. Registrar ante la Secretaría de Igualdad Sustantiva y Desarrollo de las Mujeres el modelo psicoterapéutico validado, en cuanto a su efectividad y metodología, por la Secretaría de Salud el cual será refrendado anualmente; y,
 
 II. Contar con una institución pública o privada reconocida por la Secretaría de Salud, que funja como supervisor clínico de los profesionales que proporcionan la atención psicoterapéutica reeducativa al agresor, ya sea voluntaria o como resultado de una determinación de carácter jurisdiccional, incluyendo las órdenes de protección.
 
@@ -733,7 +789,9 @@ La permanencia de las mujeres en los refugios no podrá ser mayor a tres meses, 
 
 El Banco Estatal de Datos e Información sobre casos de violencia contra las Mujeres, es la compilación de información cuantitativa y cualitativa, que sirva de base para la elaboración de estudios, análisis y estadística relativa a la violencia contra las mujeres por razones de género, con el objeto de orientar la aplicación y evaluación de las políticas públicas en la materia.
 
-Dicho Banco será integrado, organizado, sistematizado y operado por la Secretaría de la Mujer, y la Secretaría de Seguridad Pública debiendo incluir en él, como mínimo los datos que contiene la cédula de registro único, así como la información pública disponible sobre el tema.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2017)</small>
+
+Dicho Banco será integrado, organizado, sistematizado y operado por la Secretaría de Igualdad Sustantiva y Desarrollo de las Mujeres Michoacanas, y la Secretaría de Seguridad Pública debiendo incluir en él, como mínimo los datos que contiene la cédula de registro único, así como la información pública disponible sobre el tema.
 
 La información contenida en el Banco Estatal será confidencial en lo relativo a la protección de datos personales y sólo podrá ser pública en lo que se refiera a datos de carácter estadístico impersonal, para fines de medición y evaluación.
 
@@ -946,3 +1004,19 @@ P.O. 12 DE MAYO DE 2017.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 359 POR EL QUE “SE REFORMA EL ARTÍCULO 9 DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 20 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 365 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 18, 20 FRACCIÓN VI, 21, 23, 35 PRIMER PÁRRAFO, 49 FRACCIÓN I Y 55 SEGUNDO PÁRRAFO; SE ADICIONAN UN SEGUNDO PÁRRAFO A LOS ARTÍCULOS 18 Y 19; LAS FRACCIONES X, XI, XII Y XIII Y TRES PÁRRAFOS AL ARTÍCULO 20; Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 23, TODOS DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Notifíquese el presente decreto al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación respectiva.
+
+###### ARTÍCULO TERCERO.
+
+El Titular del Poder Ejecutivo expedirá las modificaciones necesarias al Reglamento respectivo en un término de hasta 90 días a partir de la entrada en vigor del presente decreto.
