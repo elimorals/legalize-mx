@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-proteccion-a-la-tierra-en-la-ciudad-de-15464"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-13"
-last_updated: "2016-11-04"
+last_updated: "2017-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15464&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "1999-12-31"
 ---
 # LEY AMBIENTAL DE PROTECCION A LA TIERRA EN LA CIUDAD DE MEXICO -- ANTES LEY AMBIENTAL DEL DISTRITO FEDERAL --
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE JULIO DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de enero de 2000.
 
@@ -43,8 +45,6 @@ DECRETO
 LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL, I LEGISLATURA
 
 DECRETA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
 
@@ -596,21 +596,15 @@ VII. Expedir normas ambientales para el Distrito Federal en materias de competen
 
 VIII. Desarrollar programas que fomenten la autorregulación y la auditoría ambiental;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
 
 IX. Convenir con los productores y grupos empresariales el establecimiento de procesos voluntarios de autorregulación y expedir, en su caso, la certificación de la reducción de emisiones contaminantes, contando con la opinión de la Procuraduría;
 
 X. Establecer los criterios ambientales a que deberán sujetarse los programas, adquisiciones y obras de las dependencias del Gobierno del Distrito Federal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
 
 XI. Promover junto con la Procuraduría la creación de estándares e indicadores de calidad ambiental;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
 
@@ -646,17 +640,13 @@ XVIII. Realizar y promover en forma coordinada, concertada y corresponsable, acc
 
 XIX. Coordinar la participación de las dependencias y entidades de la administración pública del Distrito Federal, y de las delegaciones en las acciones de educación ambiental, de prevención y control del deterioro ambiental, conservación, protección y restauración del ambiente en el territorio del Distrito Federal, así como celebrar con éstas y con la sociedad, los acuerdos que sean necesarios con el propósito de dar cumplimiento a la presente Ley;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADA, G.O. 31 DE OCTUBRE DE 2008)</small>
 
 XIX. Bis. Establecer las políticas y lineamientos de integración y operación del cuerpo de Policías Ambientales; en coordinación con la Secretaría de Seguridad Pública del Distrito Federal en las acciones de conservación, vigilancia, restauración y protección de los ecosistemas y sus elementos naturales, en suelo de conservación y urbano;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-> <small>(ADICIONADA, G.O. 31 DE OCTUBRE DE 2008)</small>
-
-XIX. Bis 1. Realizar acciones de control, supervisión y vigilancia ambiental, con auxilio de la Secretaría de Seguridad Pública del Distrito Federal, en suelo de conservación y suelo urbano, tendientes a prevenir actos o hechos constitutivos de violación a esta ley, al Código Penal para el Distrito Federal, en materia de delitos ambientales y de las disposiciones que de ella emanen;
+XIX. Bis 1. Realizar acciones de control, supervisión y vigilancia ambiental, con auxilio de la Secretaría de Seguridad Pública del Distrito Federal y de la Procuraduría, en suelo de conservación y suelo urbano, tendientes a prevenir actos o hechos constitutivos de violación a esta ley, al Código Penal para el Distrito Federal, en materia de delitos ambientales y de las disposiciones que de ella emanen;
 
 > <small>(REFORMADA, G.O. 17 DE NOVIEMBRE DE 2015)</small>
 
@@ -669,8 +659,6 @@ XXI. Conducir la política del Distrito Federal relativa a la información y dif
 XXII. Participar en coordinación con la Federación, en asuntos que afecten el equilibrio ecológico, el ambiente y la salud en el Distrito Federal y los municipios conurbados;
 
 XXIII. Promover y celebrar, convenios de coordinación, concertación y colaboración con el gobierno federal, de las entidades federativas y de los municipios de la zona conurbada, así como con los particulares, para la realización conjunta y coordinada de acciones de protección ambiental;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 18 DE FEBRERO DE 2011)</small>
 
@@ -688,11 +676,9 @@ XXVIII. Hacer efectivas las obligaciones derivadas de la Ley General, esta Ley, 
 
 XXIX. Ordenar la realización de visitas de inspección para verificar el cumplimiento de los preceptos de esta ley, su reglamento, normas aplicables en materia ambiental, ordenamiento ecológico del territorio, declaratorias de áreas naturales protegidas, programas de manejo, creación e incremento de áreas verdes en suelo urbano, las condicionantes que en materia de impacto y riesgo ambiental se impongan, así como todas las disposiciones legales aplicables al suelo de conservación;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-> <small>(ADICIONADA, G.O. 31 DE OCTUBRE DE 2008)</small>
-
-XXIX Bis.- Realizar acciones de vigilancia y supervisión para verificar el cumplimiento de los preceptos de esta ley y las disposiciones que de ella emanen en suelo de conservación y suelo urbano, con el auxilio de la Secretaría de Seguridad Pública del Distrito Federal;
+XXIX Bis. Realizar acciones de vigilancia y supervisión para verificar el cumplimiento de los preceptos de esta ley y las disposiciones que de ella emanen en suelo de conservación y suelo urbano, con el auxilio de la Secretaría de Seguridad Pública del Distrito Federal y la Procuraduría;
 
 XXX. Aplicar las sanciones administrativas, medidas correctivas y de seguridad correspondientes por infracciones a la Ley General, en materias de competencia local, esta Ley y sus reglamentos;
 
@@ -778,8 +764,6 @@ LIII. Las demás que le confieren esta y otras Leyes, así como las que se deriv
 
 Corresponde a cada una de las delegaciones del Distrito Federal:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, G.O. 18 DE FEBRERO DE 2011)</small>
 
 I. Proponer y opinar, según el caso, respecto del establecimiento de áreas de valor ambiental, áreas verdes en suelo urbano y áreas naturales protegidas dentro de su demarcación territorial, y participar en su vigilancia;
@@ -806,11 +790,9 @@ VI. Establecer de forma gradual en el total de mobiliario destinado al servicio 
 
 Para tal efecto, las delegaciones deberán destinar, en la medida de sus posibilidades, una parte de su presupuesto para dar exacto cumplimiento a lo anterior. La Secretaría en el ámbito de sus atribuciones, supervisará y verificará que las demarcaciones cumplan dicha disposición;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 18 DE FEBRERO DE 2011)</small>
-
-VII. Aplicar las sanciones administrativas, medidas correctivas y de seguridad correspondiente por infracciones a esta Ley y sus reglamentos; así como levantar la denuncia correspondiente en contra de los funcionarios o personas que inciten o propicien invasiones a áreas verdes de suelo urbano y al suelo de conservación.
+VII. Aplicar las sanciones administrativas, medidas correctivas y de seguridad correspondiente (sic) por infracciones a esta Ley y sus reglamentos; así como iniciar las acciones correspondientes ante las autoridades competentes, en contra de los funcionarios o personas que inciten o propicien invasiones a áreas verdes de suelo urbano y al suelo de conservación. La cual, ante un inminente daño ambiental podrá aplicar medidas precautorias para garantizar la protección de los derechos.
 
 > <small>(ADICIONADA, G.O. 3 DE MAYO DE 2011)</small>
 
@@ -4653,3 +4635,9 @@ PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Fede
 SEGUNDO.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en la Gaceta Oficial para el Distrito Federal.
 
 TERCERO.- El Jefe de Gobierno del Distrito Federal realizará dentro de los 180 días posteriores a la publicación de este decreto, las modificaciones en la reglamentación correspondiente.
+
+G.O. 20 DE JULIO DE 2017.
+
+[TRANSITORIO DEL “DECRETO POR EL QUE SE CAMBIA EL NOMBRE DE LEY ORGÁNICA DE LA PROCURADURÍA AMBIENTAL Y DEL ORDENAMIENTO TERRITORIAL DEL DISTRITO FEDERAL, POR EL DE LEY ORGÁNICA DE LA PROCURADURÍA AMBIENTAL Y DEL ORDENAMIENTO TERRITORIAL DE LA CIUDAD DE MÉXICO; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA PROCURADURÍA AMBIENTAL Y DEL ORDENAMIENTO TERRITORIAL DE LA CIUDAD DE MÉXICO Y DE LA LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN EL DISTRITO FEDERAL”.]
+
+PRIMERO (SIC). El presente Decreto entrará en vigor a los treinta días hábiles siguientes a su publicación en la Gaceta Oficial de la Ciudad de México.
