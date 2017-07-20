@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-32-2015-del-pleno-del-consejo-de-la-109063"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-07-22"
-last_updated: "2016-06-17"
+last_updated: "2017-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109063&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2015-06-24"
 ---
 # ACUERDO GENERAL 32/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, [QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE BAJA CALIFORNIA SUR]
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 ACUERDO GENERAL 32/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE JULIO DE 2017.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 22 de julio de 2015.
 
@@ -75,9 +77,17 @@ III. Consejo: Consejo de la Judicatura Federal;
 
 IV. Jueces de Control y tribunales de Enjuiciamiento: Jueces de Distrito;
 
-V. Jueces de Distrito: Jueces de Distrito especializados en el sistema penal acusatorio;
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2017)</small>
 
-VI. Juzgadores: Jueces de Control, así como tribunales de Enjuiciamiento y de Alzada;
+V. Jueces de Distrito: Jueces de Distrito especializados en el sistema penal acusatorio; y con competencia en ejecución;
+
+> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2017)</small>
+
+V Bis. Juez de Ejecución: Juez de Distrito especializado en el sistema penal acusatorio con competencia en ejecución;
+
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2017)</small>
+
+VI. Juzgadores: Jueces de Control, Juez de Ejecución, así como tribunales de Enjuiciamiento y de Alzada;
 
 VII. Pleno: Pleno del Consejo; y
 
@@ -87,11 +97,15 @@ VIII. Tribunal de Alzada: Tribunal Unitario de Circuito con competencia especial
 
 El Centro iniciará funciones a partir de las cero horas del uno de agosto de dos mil quince.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE JULIO DE 2017)</small>
+
 ###### Artículo 4.
 
-El Centro se integrará por tres jueces de Distrito y un Tribunal de Alzada, y los demás juzgadores que sean adscritos por el Pleno, atendiendo a las necesidades para la administración de justicia.
+El Centro se integrará por los jueces de Distrito y Tribunales de Alzada que sean adscritos por el Pleno, atendiendo a las necesidades para la impartición de justicia.
 
-Los jueces de Distrito a que se refiere este artículo tendrán competencia para actuar indistintamente como jueces de Control y tribunales de Enjuiciamiento, sin perjuicio de lo dispuesto en los artículos 7 y 8 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal, debiendo especificar el carácter de su actuación en las constancias respectivas, sin embargo, aquellos que hayan intervenido en alguna etapa del procedimiento anterior a la audiencia de juicio, no podrán fungir como Tribunal de Enjuiciamiento, de conformidad con el artículo 350 del Código Nacional de Procedimientos Penales. Uno de los jueces de Distrito fungirá como Administrador.
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 2017)</small>
+
+Los jueces de Distrito, con excepción del Juez de Ejecución, tendrán competencia para actuar indistintamente como jueces de Control y tribunales de Enjuiciamiento, sin perjuicio de lo dispuesto en los artículos 7 y 8 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal, debiendo especificar el carácter de su actuación en las constancias respectivas, sin embargo, aquellos que hayan intervenido en alguna etapa del procedimiento anterior a la audiencia de juicio, no podrán fungir como Tribunal de Enjuiciamiento, de conformidad con el artículo 350 del Código Nacional de Procedimientos Penales. Uno de los jueces de Distrito fungirá como Administrador, con excepción del Juez de Ejecución.
 
 El Centro contará con la plantilla laboral autorizada, y la Administración del Centro se regirá conforme a las disposiciones del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal.
 
@@ -100,6 +114,10 @@ El Centro contará con la plantilla laboral autorizada, y la Administración del
 ###### Artículo 5.
 
 Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 8 y 9, del Acuerdo General 39/2016, del Pleno del Consejo de la Judicatura Federal, por el que se crean Juzgados de Distrito Especializados en Medidas Cautelares y Control de Técnicas de Investigación.
+
+> <small>(ADICIONADO, D.O.F. 20 DE JULIO DE 2017)</small>
+
+El Juez de Ejecución tendrá la competencia que establece la Ley Nacional de Ejecución Penal y demás normatividad aplicable, dentro de la jurisdicción territorial del Centro.
 
 ###### Artículo 6.
 
@@ -117,9 +135,17 @@ El Centro contará con una Oficialía de Partes Común, que dará servicio a los
 
 El sistema de turno y distribución de asuntos será automatizado y aleatorio, con excepción de lo siguiente:
 
-I. Los asuntos urgentes que se reciban durante las guardias, cuya atención corresponderá al juez de Distrito que deba cubrirla; y
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2017)</small>
 
-II. Los asuntos relacionados durante las etapas procesales de investigación, e intermedia o de preparación del juicio.
+I. Los asuntos urgentes que se reciban durante las guardias, cuya atención corresponderá al juez de Distrito Especializado en el sistema penal acusatorio que deba cubrirla, o al Juez de Ejecución, conforme a la Ley Nacional de Ejecución Penal;
+
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2017)</small>
+
+II. Los asuntos relacionados durante las etapas procesales de investigación, e intermedia o de preparación del juicio; y
+
+> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2017)</small>
+
+III. Los demás asuntos de la competencia del Juez de Ejecución.
 
 Corresponde a las Direcciones Generales de Estadística Judicial y de Tecnologías de la Información el diseño operativo del sistema automatizado de turno y distribución de asuntos; y la elaboración de sus lineamientos, los cuales serán sometidos directamente por éstas a consideración y, en su caso, aprobación de la Comisión de Creación de Nuevos Órganos.
 
@@ -169,11 +195,23 @@ Los jueces de control contarán con un sistema de acceso electrónico, mediante 
 
 En caso de que sea necesario sustituir a alguno de los jueces de Distrito del Centro se estará a lo siguiente:
 
-I. La sustitución recaerá en otro juez de Distrito del mismo Centro;
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2017)</small>
 
-II. En caso de no ser posible lo previsto en la fracción anterior, la sustitución recaerá en alguno de los jueces de Distrito del Centro de Justicia Penal más cercano.
+I. La sustitución recaerá en otro juez de Distrito del mismo Centro, con exclusión de aquel que funja como Administrador y del Juez de Ejecución;
+
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2017)</small>
+
+II. En caso de no ser posible lo previsto en la fracción anterior, la sustitución recaerá en el Administrador, en términos del artículo 8 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal; y
+
+> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2017)</small>
+
+III. Si tampoco fuera posible, la sustitución recaerá en los jueces de Distrito del Centro de Justicia Penal Federal más cercano.
 
 Tratándose del Tribunal de Alzada del Centro, se habilita a los Tribunales Unitarios del Decimosegundo Circuito, con residencia en Mazatlán, para conocer, con ese carácter, de los asuntos que se tramiten en el Centro, conforme al Código Nacional de Procedimientos Penales, y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 20 DE JULIO DE 2017)</small>
+
+La sustitución del Juez de Ejecución recaerá en el Juez que funja como Administrador, y en caso de no ser posible, la sustitución recaerá en cualquier otro juez de Distrito del Centro.
 
 ###### Artículo 18.
 
@@ -310,3 +348,103 @@ Los juzgados de Distrito con residencia en la Ciudad de México ejercerán juris
 Derogado.
 
 II. a XXXIII. …”.
+
+D.O.F. 20 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 7/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES PARA ESTABLECER LA ADSCRIPCIÓN DE LOS JUECES DE DISTRITO CON COMPETENCIA EN EJECUCIÓN, EN LOS CENTROS DE JUSTICIA PENAL FEDERAL.”]
+
+PRIMERO. El presente Acuerdo entrará en vigor el uno de agosto de dos mil diecisiete, con excepción de lo previsto en el párrafo siguiente.
+
+Para las áreas administrativas del Consejo de la Judicatura Federal, entrará en vigor el día de su aprobación, para adoptar con la debida anticipación las medidas necesarias para que los jueces de Ejecución inicien funciones en la fecha señalada en este artículo.
+
+SEGUNDO. Los jueces de Distrito con competencia en ejecución conocerán y resolverán los procedimientos de ejecución dentro del nuevo sistema de justicia penal, en la competencia del Centro de Justicia respectivo, tanto de aquellos que se inicien a partir de su adscripción, como de los que se encuentran en trámite en el respectivo Centro.
+
+TERCERO. Se reforman el numeral QUINTO BIS; y la fracción IV Ter del numeral QUINTO TER del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+"QUINTO BIS. Centros de Justicia Penal Federal:
+
+I. El Centro de Justicia Penal Federal en el Estado de Aguascalientes con residencia en la ciudad del mismo nombre.
+
+II. El Centro de Justicia Penal Federal en el Estado de Baja California, con residencia en Mexicali.
+
+III. El Centro de Justicia Penal Federal en el Estado de Baja California, con residencia en Tijuana.
+
+IV. El Centro de Justicia Penal Federal en el Estado de Baja California Sur, con residencia en La Paz, Baja California Sur.
+
+V. El Centro de Justicia Penal Federal en el Estado de Campeche, con residencia en la ciudad del mismo nombre.
+
+VI. El Centro de Justicia Penal Federal en el Estado de Chiapas, con residencia en Cintalapa de Figueroa, Chiapas.
+
+VII. El Centro de Justicia Penal Federal en el Estado de Chihuahua, con residencia en la ciudad del mismo nombre.
+
+VIII. El Centro de Justicia Penal Federal en el Estado de Coahuila de Zaragoza, con residencia en Torreón, Coahuila.
+
+IX. El Centro de Justicia Penal Federal en el Estado de Colima, con residencia en la ciudad del mismo nombre.
+
+X. El Centro de Justicia Penal Federal en la Ciudad de México, con residencia en el reclusorio Norte.
+
+XI. El Centro de Justicia Penal Federal en la Ciudad de México, con residencia en el reclusorio Oriente.
+
+XII. El Centro de Justicia Penal Federal en la Ciudad de México, con residencia en el reclusorio Sur.
+
+XIII. El Centro de Justicia Penal Federal en el Estado de Durango, con residencia en Durango, Durango.
+
+XIV. El Centro de Justicia Penal Federal en el Estado de Guanajuato, con residencia en la ciudad del mismo nombre.
+
+XV. El Centro de Justicia Penal Federal en el Estado de Guerrero, con residencia en Acapulco, Guerrero.
+
+XVI. El Centro de Justicia Penal Federal en el Estado de Hidalgo, con residencia en Pachuca, Hidalgo.
+
+XVII. El Centro de Justicia Penal Federal en el Estado de Jalisco, con residencia en el complejo penitenciario Puente Grande.
+
+XVIII. El Centro de Justicia Penal Federal en el Estado de México, con residencia en Nezahualcóyotl, Estado de México.
+
+XIX. El Centro de Justicia Penal Federal en el Estado de México, con residencia en Almoloya de Juárez (Altiplano).
+
+XX. El Centro de Justicia Penal Federal en el Estado de Michoacán, con residencia en Morelia, Michoacán.
+
+XXI. El Centro de Justicia Penal Federal en el Estado de Morelos, con residencia en Cuernavaca, Morelos.
+
+XXII. El Centro de Justicia Penal Federal en el Estado de Nayarit, con residencia en la ciudad de Tepic, Nayarit, y contará con una sala remota en la Isla María Madre.
+
+XXIII. El Centro de Justicia Penal Federal en el Estado de Nuevo León, con residencia en Cadereyta, Nuevo León.
+
+XXIV. El Centro de Justicia Penal Federal en el Estado de Oaxaca, con residencia en la ciudad del mismo nombre.
+
+XXV. El Centro de Justicia Penal Federal en el Estado de Puebla, con residencia en San Andrés Cholula, Puebla.
+
+XXVI. El Centro de Justicia Penal Federal en el Estado de Querétaro, con residencia en la ciudad del mismo nombre.
+
+XXVII. El Centro de Justicia Penal Federal en el Estado de Quintana Roo, con residencia en Cancún, Quintana Roo.
+
+XXVIII. El Centro de Justicia Penal Federal en el Estado de San Luis Potosí, con residencia en la ciudad del mismo nombre.
+
+XXIX. El Centro de Justicia Penal Federal en el Estado de Sinaloa, con residencia en Culiacán, Sinaloa.
+
+XXX. El Centro de Justicia Penal Federal en el Estado de Sonora, con residencia en Hermosillo, Sonora.
+
+XXXI. El Centro de Justicia Penal Federal en el Estado de Tabasco, con residencia en Villahermosa, Tabasco.
+
+XXXII. El Centro de Justicia Penal Federal en el Estado de Tamaulipas, con residencia en Ciudad Victoria.
+
+XXXIII. El Centro de Justicia Penal Federal en el Estado de Tamaulipas, con residencia en Reynosa.
+
+XXXIV. El Centro de Justicia Penal Federal en el Estado de Tlaxcala, con residencia en Apizaco, Tlaxcala.
+
+XXXV. El Centro de Justicia Penal Federal en el Estado de Veracruz, con residencia en Coatzacoalcos.
+
+XXXVI. El Centro de Justicia Penal Federal en el Estado de Veracruz, con residencia en la ciudad de Xalapa.
+
+XXXVII. El Centro de Justicia Penal Federal en el Estado de Yucatán, con residencia en Mérida, Yucatán.
+
+XXXVIII. El Centro de Justicia Penal Federal en el Estado de Zacatecas, con residencia en la ciudad del mismo nombre.
+
+QUINTO TER. ...
+
+I. a IV. ...
+
+IV Ter. Centro de Justicia Penal Federal en el Estado de México, con sede en Almoloya de Juárez (Altiplano) cuya jurisdicción territorial comprenderá los municipios de Acambay de Ruíz Castañeda; Almoloya de Alquisiras; Almoloya de Juárez; Almoloya del Río; Amanalco; Amatepec; Atizapán; Atlacomulco; Calimaya; Capulhuac; Coatepec Harinas; Chapultepec; Donato Guerra; El Oro; Ixtapan de la Sal; Ixtapan del Oro; Ixtlahuaca; Jiquipilco; Jocotitlán; Joquicingo; Lerma; Luvianos; Malinalco; Metepec; Mexicaltzingo; Morelos; Naucalpan de Juárez; Ocoyoacac; Ocuilan; Otzoloapan; Otzolotepec; Rayón; San Antonio la Isla; San Felipe del Progreso; San José del Rincón; San Mateo Atenco; San Simón de Guerrero; Santo Tomás; Sultepec; Tejupilco; Temascalcingo; Temascaltepec; Temoaya; Tenancingo; Tenango del Valle; Texcaltitlán; Texcalyacac; Tianguistenco; Tlatlaya; Toluca; Tonatico; Valle de Bravo; Villa de Allende; Villa Guerrero; Villa Victoria; Xalatlaco; Xonacatlán; Zacazonapan; Zacualpan; Zinacantepec; Zumpahuacán; Aculco; Chapa de Mota; Huixquilucan; Isidro Fabela; Jilotepec; Jilotzingo y Villa del Carbón; todos ellos del Estado de México.
+
+V. a XIII. ..."
+
+CUARTO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
