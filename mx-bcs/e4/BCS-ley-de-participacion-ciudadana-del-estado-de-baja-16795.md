@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-participacion-ciudadana-del-estado-de-baja-16795"
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-10"
-last_updated: "2014-06-28"
+last_updated: "2017-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # LEY DE PARTICIPACION CIUDADANA DEL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADA EN EL B.O. DE 20 DE JULIO DE 2017; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR A LOS CIENTO OCHENTA DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.]</small>
+
 LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JULIO DE 2017 (ABROGADA).
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de julio de 2000.
 
@@ -508,3 +510,27 @@ Segundo.- Se derogan todas las disposiciones que se opongan al presente decreto.
 Primero.- La presente Derogación entrará en vigor, el mismo día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 Segundo.- Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen, salvo que esta reforma resulte más benéfica. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+B.O. 20 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 2455.- SE EXPIDE LA LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE BAJA CALIFORNIA SUR".]
+
+###### ARTÍCULO PRIMERO
+
+Publíquese la presente Ley en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO
+
+El presente Decreto entrara en vigor a los ciento ochenta días hábiles siguientes al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO TERCERO
+
+Una vez que entre en vigor el presente Decreto quedara abrogada la Ley de Participación Ciudadana del Estado de Baja California Sur, publicada mediante Decreto 1280 en el Boletín Oficial del Gobierno del Estado de Baja California Sur, en fecha 10 de junio de 2000 y derogadas todas las disposiciones que se opongan al presente ordenamiento.
+
+###### ARTÍCULO CUARTO
+
+Los actuales Comités de Vecinos y las formas de organización vecinal formalmente constituidas en el Estado, continuarán en funciones hasta que los Ayuntamientos emitan el Reglamento que organizara los comités vecinales.
+
+###### ARTICULO QUINTO
+
+Los Ayuntamientos tendrán sesenta días hábiles a partir de la entrada en vigor de la presente ley, para expedir el Reglamento Municipal que organizara a los Comités de Vecinos.
