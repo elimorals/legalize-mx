@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-federal-de-102250"
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-09-04"
-last_updated: "2016-10-17"
+last_updated: "2017-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102250&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2014-08-27"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES
 
-> <small>[N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL ARTÍCULO TRANSITORIO PRIMERO EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR A LOS DIEZ DÍAS HÁBILES SIGUIENTES DE SU PUBLICACIÓN EN EL DIARIO OFICIAL DE LA FEDERACIÓN.]</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 ESTATUTO ORGÁNICO DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE JULIO DE 2017.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de septiembre de 2014.
 
@@ -215,6 +215,10 @@ xxv) Finanzas, Presupuesto y Contabilidad;
 
 xxvi) Tecnologías de la Información y Comunicaciones;
 
+> <small>(ADICIONADO, D.O.F. 20 DE JULIO DE 2017)</small>
+
+xxvi BIS) Igualdad de Género, Diversidad e Inclusión;
+
 xxvii) Prácticas Monopólicas y Concentraciones Ilícitas;
 
 xxviii) Condiciones de Mercado, y
@@ -243,15 +247,17 @@ vi) De Estadística y Análisis de Indicadores, y
 
 vii) De Planeación y Prospectiva.
 
-> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 2017)</small>
 
-El Instituto contará con el Consejo Consultivo encargado de fungir como órgano asesor respecto de los principios establecidos en los artículos 2o., 6o. y 7o. de la Constitución, así como con un órgano interno de control, los cuales se regirán conforme a lo establecido en la Ley de Telecomunicaciones y el presente Estatuto Orgánico.
+El Instituto contará con el Consejo Consultivo encargado de fungir como órgano asesor respecto de los principios establecidos en los artículos 2o., 6o. y 7o. de la Constitución, así como con un órgano interno de control, los cuales se regirán conforme a lo establecido en la Ley de Telecomunicaciones, el presente Estatuto Orgánico y demás normatividad que resulte aplicable.
 
-> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE JULIO DE 2017)</small>
 
 ###### Artículo 5.
 
-En sus ausencias, el Titular de la Unidad de Política Regulatoria será suplido por el Director General de Regulación Técnica, el Director General de Desarrollo de las Telecomunicaciones y la Radiodifusión, el Director General de Regulación de Interconexión y Reventa de Servicios de Telecomunicaciones y el Director General de Compartición de Infraestructura, en el orden indicado; el Titular de la Unidad de Espectro Radioeléctrico será suplido por el Director General de Regulación del Espectro y Recursos Orbitales, el Director General de Economía del Espectro y Recursos Orbitales, el Director General de Planeación del Espectro y el Director General de Ingeniería del Espectro y Estudios Técnicos, en el orden indicado; el Titular de la Unidad de Concesiones y Servicios será suplido por el Director General de Concesiones de Telecomunicaciones, el Director General de Concesiones de Radiodifusión y el Director General de Autorizaciones y Servicios, en el orden indicado; el Titular de la Unidad de Medios y Contenidos Audiovisuales será suplido por el Director General de Política y Procedimientos Regulatorios en Medios y Contenidos Audiovisuales y el Director General de Análisis de Medios y Contenidos Audiovisuales, en el orden indicado; el Titular de la Unidad de Cumplimiento será suplido por el Director General de Supervisión, el Director General de Verificación, el Director General de Supervisión y Verificación de Regulación Asimétrica y el Director General de Sanciones, en el orden indicado; el Titular de la Unidad de Competencia Económica será suplido por el Director General de Procedimientos de Competencia, el Director General de Concentraciones y Concesiones y el Director General de Consulta Económica, en el orden indicado; el Titular de la Unidad de Asuntos Jurídicos será suplido por el Director General de Consulta Jurídica, el Director General de Instrumentación y el Director General de Defensa Jurídica, en el orden indicado; el Titular de la Unidad de Administración será suplido por el Director General de Gestión de Talento, el Director General de Adquisiciones, Recursos Materiales y Servicios Generales, el Director General de Finanzas, Presupuesto y Contabilidad y el Director General de Tecnologías de la Información y Comunicaciones, en el orden indicado, y el Titular de la Autoridad Investigadora será suplido por el Director General de Prácticas Monopólicas y Concentraciones Ilícitas, el Director General de Condiciones de Mercado y el Director General de Análisis Económico, en el orden indicado.
+En sus ausencias, el Titular de la Unidad de Política Regulatoria será suplido por el Director General de Regulación Técnica, el Director General de Desarrollo de las Telecomunicaciones y la Radiodifusión, el Director General de Regulación de Interconexión y Reventa de Servicios de Telecomunicaciones y el Director General de Compartición de Infraestructura, en el orden indicado; el Titular de la Unidad de Espectro Radioeléctrico será suplido por el Director General de Regulación del Espectro y Recursos Orbitales, el Director General de Economía del Espectro y Recursos Orbitales, el Director General de Planeación del Espectro y el Director General de Ingeniería del Espectro y Estudios Técnicos, en el orden indicado; el Titular de la Unidad de Concesiones y Servicios será suplido por el Director General de Concesiones de Telecomunicaciones, el Director General de Concesiones de Radiodifusión y el Director General de Autorizaciones y Servicios, en el orden indicado; el Titular de la Unidad de Medios y Contenidos Audiovisuales será suplido por el Director General de Política y Procedimientos Regulatorios en Medios y Contenidos Audiovisuales y el Director General de Análisis de Medios y Contenidos Audiovisuales, en el orden indicado; el Titular de la Unidad de Cumplimiento será suplido por el Director General de Supervisión, el Director General de Verificación, el Director General de Supervisión y Verificación de Regulación Asimétrica y el Director General de Sanciones, en el orden indicado; el Titular de la Unidad de Competencia Económica será suplido por el Director General de Procedimientos de Competencia, el Director General de Concentraciones y Concesiones y el Director General de Consulta Económica, en el orden indicado; el Titular de la Unidad de Asuntos Jurídicos será suplido por el Director General de Consulta Jurídica, el Director General de Instrumentación y el Director General de Defensa Jurídica, en el orden indicado; el Titular de la Unidad de Administración será suplido por el Director General de Gestión de Talento, el Director General de Adquisiciones, Recursos Materiales y Servicios Generales, el Director General de Finanzas, Presupuesto y Contabilidad, el Director General de Tecnologías de la Información y Comunicaciones y el Director General de Igualdad de Género, Diversidad e Inclusión, en el orden indicado, y el Titular de la Autoridad Investigadora será suplido por el Director General de Prácticas Monopólicas y Concentraciones Ilícitas, el Director General de Condiciones de Mercado y el Director General de Análisis Económico, en el orden indicado.
+
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2016)</small>
 
 Los demás servidores públicos del Instituto, con excepción del Presidente, los Comisionados y el Titular del órgano interno de control, serán suplidos en sus ausencias por el servidor público designado para tales efectos por el Titular de la Unidad o el Coordinador General respectivo o, en su defecto, por el del nivel jerárquico inmediato inferior. A igualdad de niveles jerárquicos, la suplencia será ejercida por el servidor público de mayor antigüedad en el cargo.
 
@@ -681,9 +687,9 @@ XLI. Coordinarse con la Unidad de Cumplimiento, en su caso, para definir los cri
 
 XLII. Solicitar, cuando lo requiera para el ejercicio de sus atribuciones, información y documentación al Titular de la Autoridad Investigadora, a la Dirección General de Prácticas Monopólicas y Concentraciones Ilícitas, la Dirección General de Condiciones de Mercado y la Dirección General de Análisis Económico, adscritas a la Autoridad Investigadora, salvo que se trate de investigaciones en curso;
 
-> <small>(ADICIONADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2017)</small>
 
-XLIII. Proporcionar información y documentación que obre en sus expedientes que solicite el Titular de la Autoridad Investigadora, la Dirección General de Prácticas Monopólicas y Concentraciones Ilícitas y la Dirección General de Condiciones de Mercado, necesaria para conducir las investigaciones o indagar sobre posibles violaciones a la Ley de Competencia;
+XLIII. Proporcionar información y documentación que obre en su poder que solicite el Titular de la Autoridad Investigadora, la Dirección General de Prácticas Monopólicas y Concentraciones Ilícitas, la Dirección General de Condiciones de Mercado y la Dirección General de Análisis Económico, necesaria para conducir las investigaciones o indagar sobre posibles violaciones a la Ley de Competencia;
 
 > <small>(ADICIONADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
 
@@ -2079,11 +2085,11 @@ XI. Las demás que le confieran el Pleno, el Presidente o el Titular de Unidad, 
 
 ### CAPÍTULO XVIII. De la Unidad de Administración
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE JULIO DE 2017)</small>
 
 ###### Artículo 57.
 
-La Unidad de Administración tendrá adscritas a su cargo la Dirección General de Gestión de Talento; la Dirección General de Adquisiciones, Recursos Materiales y Servicios Generales, la Dirección General de Finanzas, Presupuesto y Contabilidad y la Dirección General de Tecnologías de la Información y Comunicaciones. Al Titular de la Unidad de Administración le corresponde el ejercicio de las siguientes atribuciones, así como originariamente aquellas conferidas a las Direcciones Generales que se establecen en este Capítulo del Estatuto Orgánico:
+La Unidad de Administración tendrá adscritas a su cargo la Dirección General de Gestión de Talento, la Dirección General de Adquisiciones, Recursos Materiales y Servicios Generales, la Dirección General de Finanzas, Presupuesto y Contabilidad, la Dirección General de Tecnologías de la Información y Comunicaciones y la Dirección General de Igualdad de Género, Diversidad e Inclusión. Al Titular de la Unidad de Administración le corresponde el ejercicio de las siguientes atribuciones, así como originariamente aquellas conferidas a las Direcciones Generales que se establecen en este Capítulo del Estatuto Orgánico:
 
 I. Proponer al Presidente las acciones, medidas y normatividad de administración interna que estime convenientes para el mejor funcionamiento del Instituto, incluyendo el sistema de servicio profesional;
 
@@ -2272,6 +2278,34 @@ XV. Proveer la infraestructura y servicios informáticos requeridos para publica
 XVI. Proveer la infraestructura y servicios informáticos requeridos para que los concesionarios del servicio de telecomunicaciones presenten las solicitudes electrónicas de registro de sus tarifas a los usuarios, conforme a las disposiciones jurídicas aplicables, y
 
 XVII. Las demás atribuciones que le señalen otras disposiciones normativas o le confieran el Presidente y el Titular de la Unidad de Administración.
+
+> <small>(ADICIONADO, D.O.F. 20 DE JULIO DE 2017)</small>
+
+Artículo 61 BIS. La Dirección General de Igualdad de Género, Diversidad e Inclusión tendrá a su cargo la promoción de la igualdad de género y de la erradicación de toda forma de discriminación contra la mujer, la promoción del empoderamiento de las mujeres, así como la lucha contra toda forma de discriminación dentro del Instituto. Corresponde a esta Dirección General el ejercicio de las siguientes atribuciones:
+
+I. Promover la incorporación de la perspectiva de género, la inclusión social y el derecho a la igualdad, en la planeación, coordinación, ejecución y evaluación de programas, proyectos o acciones al interior del Instituto para la igualdad de género y no discriminación de manera transversal;
+
+II. Proponer y participar en la definición de acciones orientadas a la igualdad de género, la inclusión social y el derecho a la igualdad, con instituciones públicas y privadas, nacionales e internacionales;
+
+III. Promover la elaboración de estudios e investigaciones relativos a la igualdad de género, la inclusión social y el derecho a la igualdad en las telecomunicaciones y la radiodifusión;
+
+IV. Fungir como órgano de consulta y asesoría al interior del Instituto en materia de perspectiva de género, inclusión social y derecho a la igualdad, en el ámbito de competencia del mismo;
+
+V. Desarrollar e implementar, en colaboración con la Dirección General Adjunta de Estadística y Análisis de Indicadores, herramientas metodológicas, directrices, indicadores y/o procedimientos para llevar a cabo el seguimiento y evaluación de las acciones adoptadas por el Instituto en materia de género, inclusión social e igualdad;
+
+VI. Coordinarse con la Dirección General de Finanzas, Presupuesto y Contabilidad, en la revisión del presupuesto para que éste se elabore contemplando la promoción de la perspectiva de género, la inclusión social y el derecho a la igualdad;
+
+VII. Coordinarse con la Coordinación General de Comunicación Social en la emisión de información con perspectiva de género, inclusión social y derecho a la igualdad, a través de los diferentes medios de comunicación, sobre el desarrollo de los programas y actividades del Instituto, así como para que la política de comunicación social cumpla con los principios de equidad de género y no discriminación;
+
+VIII. Coordinarse con la Dirección General de Gestión de Talento en la elaboración, diseño e implementación de proyectos, manuales institucionales o programas permanentes de capacitación y fomento de la igualdad, la inclusión social y perspectiva de género dentro del Instituto;
+
+IX. Representar al Instituto ante las instituciones de los tres órdenes de gobierno, así como instituciones de los sectores social y privado e instituciones internacionales, en materia de igualdad y perspectiva de género;
+
+X. Asesorar a la Dirección General Adjunta de Estadística y Análisis de Indicadores sobre la incorporación de la perspectiva de género en la generación de estadísticas e indicadores que de manera periódica pública el Instituto;
+
+XI. Formular un programa anual de actividades en materia de promoción de la igualdad de género, la inclusión social y erradicación de toda forma de discriminación, así como la promoción del empoderamiento de las mujeres, para su incorporación en el programa anual de trabajo del Instituto, y
+
+XII. Las demás atribuciones que le señalen otras disposiciones normativas o le confieran el Presidente y el Titular de la Unidad de Administración.
 
 ### CAPÍTULO XIX. De la Autoridad Investigadora
 
@@ -2547,11 +2581,19 @@ II. Realizar los estudios económicos, trabajos de investigación e informes gen
 
 III. Incorporar en las investigaciones que se tramitan ante la Autoridad Investigadora las mejores prácticas internacionales en materia de competencia económica;
 
-> <small>(ADICIONADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2017)</small>
 
-IV. Proporcionar a las Unidades, Coordinaciones Generales, Direcciones Generales y Direcciones Generales Adjuntas del Instituto, información y documentación que soliciten para el ejercicio de sus atribuciones, salvo que se trate de investigaciones en curso, y
+IV. Proporcionar a las Unidades, Coordinaciones Generales, Direcciones Generales y Direcciones Generales Adjuntas del Instituto, información y documentación que soliciten para el ejercicio de sus atribuciones, salvo que se trate de investigaciones en curso;
 
-V. Las demás que le confieran el Pleno o el Titular de la Autoridad Investigadora, así como las que se señalen en otras disposiciones legales o administrativas.
+> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2017)</small>
+
+V. Recopilar, sistematizar y analizar información sobre mercados y agentes económicos para su uso estratégico en el ejercicio de las atribuciones de la Autoridad Investigadora, incluyendo la que obre en poder de las distintas unidades administrativas del Instituto;
+
+> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2017)</small>
+
+VI. Proporcionar al Titular de la Autoridad Investigadora información de carácter estratégico para el desarrollo de líneas de indagación de probables prácticas anticompetitivas y restricciones al funcionamiento eficiente de los mercados, y
+
+VII. Las demás que le confieran el Pleno o el Titular de la Autoridad Investigadora, así como las que se señalen en otras disposiciones legales o administrativas.
 
 ###### Artículo 67.
 
@@ -2739,13 +2781,9 @@ XXII. Publicar trimestralmente reportes que incluyan información comparable, en
 
 XXIII. Identificar y difundir estudios y recomendaciones internacionales de buenas prácticas en la prestación y comercialización de servicios públicos de telecomunicaciones y de radiodifusión;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+XXIV. (DEROGADA, D.O.F. 20 DE JULIO DE 2017)
 
-XXIV. Revisar y, en su caso, autorizar los códigos de prácticas comerciales que los concesionarios, autorizados o permisionarios presenten para aprobación de este Instituto, cuando los títulos de concesión, autorización o permiso establezcan esta facultad para el Instituto, sin perjuicio de las atribuciones que correspondan a otras autoridades;
-
-> <small>(ADICIONADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
-
-XXV. Revisar y, en su caso, autorizar los contratos de adhesión que los concesionarios, autorizados o permisionarios en materia de telecomunicaciones pretendan celebrar con los usuarios de sus servicios, cuando los títulos de concesión, autorización o permiso establezcan esta facultad para el Instituto, apegándose a las disposiciones de los derechos de los usuarios que sean aplicables, sin perjuicio de las atribuciones que correspondan a otras autoridades, y
+XXV. (DEROGADA, D.O.F. 20 DE JULIO DE 2017)
 
 XXVI. Las demás que le confieran el Pleno o el Presidente, así como las que se señalen en otras disposiciones legales o administrativas.
 
@@ -3027,11 +3065,11 @@ III. Contar con experiencia de tres años en las materias de telecomunicaciones,
 
 ### CAPÍTULO XXVIII. Del órgano interno de control
 
-> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 2017)</small>
 
 ###### Artículo 80.
 
-El órgano interno de control del Instituto es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo la fiscalización de los ingresos y egresos del Instituto, así como la sustanciación de los procedimientos y, en su caso, la aplicación de las sanciones inherentes a las responsabilidades administrativas de los servidores públicos del Instituto, conforme a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y demás disposiciones que resulten aplicables.
+El órgano interno de control del Instituto es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del Instituto y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal Federal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de fondos y recursos públicos federales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
 
 > <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2016)</small>
 
@@ -3039,135 +3077,199 @@ El órgano interno de control del Instituto es un órgano dotado de autonomía t
 
 El órgano interno de control del Instituto, su Titular y el personal adscrito al mismo, cualquiera que sea su nivel, estarán impedidos de intervenir o interferir en forma alguna en el desempeño de las facultades y ejercicio de atribuciones que la Ley de Telecomunicaciones, Ley de Competencia y las demás disposiciones aplicables confieren a los servidores públicos del Instituto.
 
-Los servidores públicos adscritos al órgano interno de control, en el desempeño de sus funciones, se regirán por los principios de imparcialidad, legalidad, objetividad, certeza, honestidad, exhaustividad y transparencia.
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+Los servidores públicos adscritos al órgano interno de control, en el desempeño de sus funciones, se regirán por los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE JULIO DE 2017)</small>
 
 ###### Artículo 82.
 
-Para el despacho de los asuntos de su competencia, el órgano interno de control tendrá adscritas a su cargo la Dirección General de Responsabilidades y Quejas, la Dirección General de Auditoría y la Dirección General de Control, Evaluación y Desarrollo Administrativo, quienes a su vez se auxiliarán en los Directores y Subdirectores de Área, Jefes de Departamento y demás servidores públicos que se determinen conforme al presupuesto autorizado, a los que corresponderá la denominación de la Dirección General a la que se encuentren adscritos. Al Titular del órgano interno de control le corresponden originariamente las atribuciones conferidas a las Direcciones Generales que se establecen en el presente Capítulo del Estatuto Orgánico, así como las siguientes:
+Para el despacho de los asuntos de su competencia, el órgano interno de control tendrá adscritas a su cargo la Dirección General Adjunta de Denuncias e Investigaciones, la Dirección General Adjunta de Substanciación y Resolución, la Dirección General Adjunta de Auditoría y la Dirección General Adjunta de Control, Evaluación y Desarrollo Administrativo, quienes a su vez se auxiliarán en los Directores y Subdirectores de Área, Jefes de Departamento y demás servidores públicos que se determinen conforme al presupuesto autorizado y tengan adscritos. Al Titular del órgano interno de control le corresponden originariamente las atribuciones conferidas a las Direcciones Generales Adjuntas que se establecen en el presente Capítulo del Estatuto Orgánico, así como las siguientes:
 
-I. Presentar al Pleno del Instituto sus programas anuales de trabajo;
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2017)</small>
 
-II. Presentar al Pleno del Instituto y a la Cámara de Diputados, los informes previo y anual de resultados de su gestión;
+I. Presentar al Pleno del Instituto los informes previo y anual de resultados de su gestión, y comparecer ante el mismo, cuando así lo requiera el Presidente;
+
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2017)</small>
+
+II. Presentar al Pleno del Instituto los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del Instituto;
 
 III. Nombrar y remover a los servidores públicos a su cargo;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2017)</small>
 
-IV. Formular a la Unidad de Administración los proyectos de programas de presupuestos relativos al órgano interno de control;
+IV. Formular a la Unidad de Administración el anteproyecto de presupuesto del órgano interno de control;
 
-V. Planear, programar, organizar, dirigir y evaluar el desempeño de las funciones encomendadas a las áreas a su cargo;
+V. Planear, programar, organizar, dirigir y evaluar el desempeño de las funciones encomendadas a las área a su cargo;
 
-VI. Resolver los recursos de revisión que se interpongan en contra de las resoluciones emitidas por el Director General de Responsabilidades y Quejas en las inconformidades que se promuevan en los términos previstos en las Normas en materia de adquisiciones, arrendamientos y servicios del Instituto Federal de Telecomunicaciones, y
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2017)</small>
 
-VII. Las demás que otras disposiciones jurídicas aplicables y este Estatuto Orgánico le otorguen.
+VI. Resolver los recursos de revisión que se interpongan en contra de las resoluciones emitidas por el Director General Adjunto de Substanciación y Resolución en las inconformidades, procedimientos y recursos administrativos que se promuevan en materia de adquisiciones, arrendamientos, servicios y obras públicas del Instituto, en los términos previstos en las disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 20 DE JULIO DE 2017)</small>
+
+VII. Presentar al Pleno los informes respecto de los expedientes relativos a las Faltas administrativas y, en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas en el ámbito de su competencia;
+
+> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2017)</small>
+
+VIII. Implementar mecanismos al interior del Instituto que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas, de conformidad a lo establecido por el Sistema Nacional Anticorrupción;
+
+> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2017)</small>
+
+IX. Emitir los lineamientos generales para orientar el criterio que en situaciones específicas deberán observar los servidores públicos del Instituto en el desempeño de sus empleos, cargos o comisiones, para prevenir la comisión de Faltas administrativas y hechos de corrupción; así como, previo diagnóstico que al efecto realice, implementar las acciones que correspondan, en coordinación con el Sistema Nacional Anticorrupción;
+
+> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2017)</small>
+
+X. Emitir, conforme a los lineamientos que expida el Sistema Nacional Anticorrupción, el código de ética que deberán observar los servidores públicos del Instituto, así como darle la máxima publicidad;
+
+> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2017)</small>
+
+XI. Evaluar de manera anual el resultado de las acciones específicas que se hayan implementado al interior del Instituto conforme a los mecanismos de prevención e instrumentos de rendición de cuentas y proponer, en su caso, las modificaciones que resulten procedentes;
+
+> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2017)</small>
+
+XII. Valorar las recomendaciones que realice el Comité Coordinador del Sistema Nacional Anticorrupción a las autoridades, con el objeto de adoptar las medidas necesarias para el fortalecimiento institucional en su desempeño y control interno y con ello la prevención de Faltas administrativas y hechos de corrupción, informando al citado Comité de la atención que se dé a éstas y, en su caso, sus avances y resultados;
+
+> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2017)</small>
+
+XIII. Proponer los proyectos de modificación o actualización de su estructura orgánica, personal y/o recursos;
+
+> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2017)</small>
+
+XIV. Proponer a consideración del Pleno la modificación o derogación del Estatuto Orgánico con relación a los asuntos de su competencia, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 20 DE JULIO DE 2017)</small>
+
+XV. Las demás que otras disposiciones jurídicas aplicables y este Estatuto Orgánico le otorguen.
 
 > <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2016)</small>
 
 El Titular del órgano interno de control del Instituto estará sujeto a las mismas reglas de contacto establecidas en la Ley de Telecomunicaciones para los Comisionados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE JULIO DE 2017)</small>
+
 ###### Artículo 83.
 
-Corresponde a la Dirección General de Responsabilidades y Quejas, la Dirección General de Auditoría y la Dirección General de Control, Evaluación y Desarrollo Administrativo el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección General Adjunta de Denuncias e Investigaciones, la Dirección General Adjunta de Substanciación y Resolución, la Dirección General Adjunta de Auditoría y la Dirección General Adjunta de Control, Evaluación y Desarrollo Administrativo el ejercicio de las siguientes atribuciones:
 
-I. Establecer mecanismos de orientación, asesoría y capacitación en materias de su competencia, para coadyuvar a que los servidores públicos del Instituto cumplan, adecuadamente, con sus responsabilidades administrativas;
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+I. Elaborar e integrar, en el ámbito de sus atribuciones, los informes que deba presentar el Titular del órgano interno de control;
 
-II. Recibir y dar respuesta puntual a las consultas y solicitudes de opinión que le formulen los funcionarios del Instituto, en el ámbito de su competencia, sin que ello signifique aval, garantía o corresponsabilidad por parte del órgano interno de control del Instituto;
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+II. Recibir y dar respuesta puntual a las consultas y solicitudes de opinión que le formulen las diferentes unidades administrativas del Instituto, en el ámbito de sus atribuciones;
 
-III. Solicitar y obtener la información necesaria para el cumplimiento de sus funciones. Por lo que hace a la información relativa a las operaciones de cualquier tipo proporcionada por las instituciones de crédito, les será aplicable a todos los servidores públicos del órgano interno de control del Instituto, así como a los profesionales contratados para la práctica de auditorías, la obligación de guardar la reserva a la que aluden las disposiciones normativas en materia de transparencia y acceso a la información pública;
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2017)</small>
 
-IV. Efectuar visitas a las sedes físicas de las áreas del Instituto, para solicitar la exhibición de los libros y papeles indispensables para la realización de sus investigaciones, sujetándose a las formalidades establecidas en las leyes aplicables;
+III. Solicitar la información y efectuar visitas a las áreas y órganos del Instituto, así como solicitar la colaboración y apoyo de otras autoridades o instituciones, públicas o privadas, para el cumplimento de sus funciones;
 
-V. Expedir copias certificadas o certificaciones de los documentos existentes en los archivos de las áreas a su cargo, observando lo dispuesto por la ley tratándose de información reservada o confidencial; llevar los registros de los asuntos de su competencia, así como administrar los sistemas informáticos que requiera para realizar sus funciones, y
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2017)</small>
 
-VI. Las establecidas en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y demás aplicables en la materia para los órganos internos de control o equivalentes, cuyo ejercicio se aplicará únicamente sobre el Instituto.
+IV. Presentar denuncias por hechos que las leyes señalen como delitos ante la Fiscalía Especializada en Combate a la Corrupción;
+
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2017)</small>
+
+V. Expedir copias certificadas, certificaciones, cotejar o compulsar los documentos existentes en los archivos de las áreas a su cargo, observando lo dispuesto por la ley tratándose de información reservada o confidencial; llevar los registros de los asuntos de su competencia, así como administrar los sistemas informáticos que requiera para realizar sus funciones;
+
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2017)</small>
+
+VI. Las establecidas en la Ley General de Responsabilidades Administrativas y demás aplicables en la materia para los órganos internos de control, cuyo ejercicio se aplicará únicamente sobre el Instituto;
+
+> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2017)</small>
+
+VII. Coordinar y supervisar los actos de su competencia, y mantener informado al Titular del órgano interno de control sobre el desarrollo de sus actividades, y
+
+> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2017)</small>
+
+VIII. Las demás que le confiera el Titular del órgano interno de control, este Estatuto Orgánico y otras disposiciones jurídicas aplicables, en el ámbito de sus respectivas atribuciones.
+
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 2017)</small>
 
 ###### Artículo 84.
 
-Corresponde a la Dirección General de Responsabilidades y Quejas el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección General Adjunta de Denuncias e Investigaciones el ejercicio de las siguientes atribuciones:
 
-I. Emitir los lineamientos, instruir, desahogar y resolver los procedimientos administrativos respecto de las quejas que se presenten en contra de los servidores públicos del Instituto y llevar el registro de los servidores públicos sancionados;
+I. Las establecidas en la Ley General de Responsabilidades Administrativas para las autoridades investigadoras;
 
-II. Investigar, de oficio o mediante denuncia o queja, actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Instituto por parte de sus servidores públicos y desahogar los procedimientos a que haya lugar;
+II. Investigar, de conformidad con las disposiciones jurídicas aplicables, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Instituto;
 
-III. Fincar las responsabilidades, imponer las sanciones y formular las denuncias que correspondan, en términos de la normatividad aplicable;
+III. Iniciar de oficio, por denuncia o derivado de las auditorías practicadas por las autoridades competentes o, en su caso, de auditores externos, la investigación por presunta responsabilidad de Faltas administrativas, y desahogar los procedimientos a que haya lugar;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+IV. Llevar a cabo las investigaciones correspondientes en aquellos casos en que la Auditoría Superior de la Federación dé vista al órgano interno de control del Instituto de la presunta comisión de Faltas administrativas de su ámbito de competencia;
 
-IV. Recibir y resguardar las declaraciones patrimoniales que deban presentar los servidores públicos del Instituto, a partir del nivel de jefe de departamento o equivalente, conforme a los formatos y procedimientos que establezca el propio órgano interno de control del Instituto, así como dar seguimiento a la situación patrimonial de dichos servidores públicos. Serán aplicables en lo conducente, las normas establecidas en la ley de la materia;
+V. Solicitar información o documentación a cualquier persona física o moral con el objeto de esclarecer los hechos relacionados con la comisión de presuntas Faltas administrativas, así como la relativa a la declaración patrimonial y de intereses, incluyendo la de los cónyuges, concubinas o concubinarios y dependientes económicos directos del declarante;
 
-V. Determinar los daños y perjuicios que afecten el patrimonio del Instituto y determinar directamente a los responsables, las indemnizaciones y sanciones pecuniarias correspondientes;
+VI. Recibir las declaraciones de situación patrimonial y de intereses de los servidores públicos del Instituto e inscribir y mantener actualizada la información correspondiente del Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal de todos los servidores públicos del Instituto, en los términos que al efecto fije la Secretaría Ejecutiva del Sistema Nacional Anticorrupción;
 
-VI. Recibir quejas o denuncias por actos u omisiones que impliquen algún incumplimiento de las obligaciones de los servidores públicos del Instituto y desahogar los procedimientos establecidos en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, ajustándose a lo dispuesto en el artículo 35, segundo párrafo, de la Ley de Telecomunicaciones;
+VII. Realizar verificaciones y auditorías de las declaraciones patrimoniales que obren en el Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, así como a la evolución del patrimonio de los servidores públicos. De no existir ninguna anomalía expedir la certificación correspondiente. En caso contrario, iniciar la investigación que corresponda;
 
-VII. Recibir, tramitar y resolver las inconformidades que se promuevan en los términos previstos en las Normas en materia de adquisiciones, arrendamientos y servicios del Instituto Federal de Telecomunicaciones;
+VIII. Recibir denuncias e investigar las infracciones a las disposiciones que regulan las contrataciones públicas del Instituto por parte de los licitantes, proveedores o contratistas y resolver lo que en derecho proceda respecto de la existencia o no de presuntas infracciones a la normatividad y, en su caso, promover ante la autoridad competente el inicio del procedimiento respectivo, y
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+IX. Realizar la defensa jurídica, de conformidad con las leyes aplicables, en los juicios que se promuevan en contra de sus resoluciones en materia de responsabilidades administrativas.
 
-VIII. Sustanciar el procedimiento y, en su caso, imponer sanciones a los licitantes o proveedores que infrinjan las disposiciones de las Normas en materia de adquisiciones, arrendamientos y servicios del Instituto Federal de Telecomunicaciones en los términos previstos en éstas;
-
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
-
-IX. Sustanciar el procedimiento a que se refiere el artículo 21 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos para determinar, en su caso, la imposición de las sanciones administrativas en los términos del Capítulo II del Título Segundo del citado ordenamiento;
-
-> <small>(ADICIONADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
-
-X. Realizar la defensa jurídica, de conformidad con las leyes aplicables, en los juicios que se promuevan en contra de las resoluciones que emita el Titular y/o las Direcciones Generales del órgano interno de control, por las que determine responsabilidades administrativas e imponga sanciones, y
-
-> <small>(ADICIONADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
-
-XI. Investigar la posible comisión de las infracciones a que se refiere el artículo 8 de la Ley Federal Anticorrupción en Contrataciones Públicas, determinar las responsabilidades que deriven de las mismas y aplicar las sanciones correspondientes, para lo cual tramitará, sustanciará y resolverá, en su caso, el procedimiento y recurso establecidos en el citado ordenamiento.
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 2017)</small>
 
 ###### Artículo 85.
 
-Corresponde a la Dirección General de Auditoría el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección General Adjunta de Substanciación y Resolución el ejercicio de las siguientes atribuciones:
 
-I. Fijar los criterios para la realización de las auditorías, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de los recursos a cargo de las áreas y órganos del Instituto y llevarlos a cabo;
+I. Las establecidas en la Ley General de Responsabilidades Administrativas para las autoridades substanciadoras o resolutoras;
 
-II. Verificar que las diversas áreas del Instituto que reciban, manejen, administren o ejerzan recursos lo hagan conforme a la normatividad aplicable, los programas aprobados, los montos autorizados y las partidas correspondientes;
+II. Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en materia de adquisiciones, arrendamientos, servicios y obras públicas, de conformidad con las disposiciones jurídicas aplicables;
 
-III. Verificar que las operaciones presupuestales que realice el Instituto se hagan con apego a las disposiciones legales y administrativas aplicables a estas materias;
+III. Declarar que el nombramiento o contrato ha quedado sin efectos, notificando de ello al Presidente para el efecto de separar del cargo al servidor público, cuando éste continúe en la omisión de la presentación de la declaración de situación patrimonial inicial y/o de modificación, en los términos de la Ley General de Responsabilidades Administrativas;
 
-IV. Verificar las obras, bienes adquiridos o arrendados y servicios contratados, para comprobar que las inversiones y gastos autorizados se hayan aplicado legalmente, al logro de los objetivos y metas de los programas aprobados;
+IV. Promover el recurso de revisión de conformidad con lo dispuesto en la Ley General de Responsabilidades Administrativas, y
 
-V. Verificar, en coordinación con la Dirección General de Control, Evaluación y Desarrollo Administrativo, los informes de avance de la gestión financiera respecto de los programas y procesos del Instituto;
+V. Realizar la defensa jurídica, de conformidad con las leyes aplicables, en los juicios que se promuevan en contra de las resoluciones o actos que emita el Titular y/o las Direcciones Generales Adjuntas del órgano interno de control, con excepción de aquella que le corresponda a la Dirección General Adjunta de Denuncias e Investigaciones en materia de responsabilidades administrativas.
 
-VI. Verificar, en coordinación con la Dirección General de Control, Evaluación y Desarrollo Administrativo, el cumplimiento de los objetivos y metas fijadas en los programas y proyectos contenidos en el presupuesto de egresos del Instituto;
-
-VII. Requerir a terceros que hubieren contratado bienes o servicios con el Instituto, la información relacionada con la documentación justificativa y comprobatoria respectiva, a efecto de realizar las compulsas que correspondan;
-
-VIII. Formular los pliegos de observaciones en materia administrativa, y
-
-IX. Intervenir en los procesos de entrega-recepción por inicio o conclusión de encargo de los servidores públicos que corresponda.
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 2017)</small>
 
 ###### Artículo 86.
 
-Corresponde a la Dirección General de Control, Evaluación y Desarrollo Administrativo el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección General Adjunta de Auditoría el ejercicio de las siguientes atribuciones:
 
-I. Asesorar al Instituto en los procesos que involucren el ejercicio de recursos presupuestales;
+I. Verificar que el ejercicio de gasto del Instituto se realice conforme a la normatividad aplicable, los programas aprobados y montos autorizados;
 
-II. Verificar, en coordinación con la Dirección General de Auditoría, los informes de avance de la gestión financiera respecto de los programas y procesos del Instituto, y
+II. Revisar que las operaciones presupuestales que realice el Instituto, se hagan con apego a las disposiciones legales y administrativas aplicables y, en su caso, determinar las desviaciones de las mismas y las causas que les dieron origen;
 
-III. Verificar, en coordinación con la Dirección General de Auditoría, el cumplimiento de los objetivos y metas fijadas en los programas y proyectos contenidos en el presupuesto de egresos del Instituto.
+III. Promover, ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorías;
+
+IV. Comunicar a la Dirección General Adjunta de Denuncias e Investigaciones, para los efectos de sus respectivas atribuciones, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Instituto, que en el ejercicio de sus funciones llegase a conocer;
+
+V. Verificar conforme a los criterios y disposiciones aplicables en materia de auditoría y fiscalización, la correcta y legal aplicación de los bienes del Instituto;
+
+VI. Intervenir en los actos de entrega-recepción de los servidores públicos del Instituto de mandos medios y superiores, en los términos de la normativa aplicable;
+
+VII. Ordenar y realizar la verificación en materia de adquisiciones, arrendamientos, servicios y obras públicas, conforme a lo establecido en las disposiciones jurídicas aplicables, y
+
+VIII. Supervisar la ejecución de los procedimientos de contratación pública por parte de los contratantes para garantizar que se lleva a cabo en los términos de las disposiciones en la materia; así como llevar a cabo las verificaciones procedentes en caso de detectar anomalías.
+
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 2017)</small>
 
 ###### Artículo 87.
 
-Para la determinación de las responsabilidades y aplicación de sanciones a las que se refiere este Capítulo del Estatuto Orgánico, deberá seguirse el procedimiento previsto en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y demás disposiciones aplicables.
+Corresponde a la Dirección General Adjunta de Control, Evaluación y Desarrollo Administrativo el ejercicio de las siguientes atribuciones:
 
-> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+I. Evaluar los mecanismos internos de control establecidos por el Instituto, con el objeto de adoptar las medidas necesarias para el fortalecimiento institucional en su desempeño y control interno, y con ello la prevención de Faltas administrativas y hechos de corrupción de los servidores públicos del Instituto, en términos de lo establecido en el Sistema Nacional Anticorrupción;
 
-Las resoluciones por las que el órgano interno de control del Instituto determine responsabilidades administrativas e imponga sanciones, podrán ser impugnadas por el servidor público ante el Tribunal Federal de Justicia Administrativa.
+II. Participar, conforme a las disposiciones vigentes, en los comités y subcomités de los que el órgano interno de control forme parte, e intervenir en los actos que se deriven de los mismos;
 
-> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+III. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos, empleando la metodología que determine el órgano interno de control;
+
+IV. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos del Instituto, empleando la metodología que determine;
+
+V. Asesorar al Instituto en los procesos que involucren el ejercicio de recursos presupuestales, y
+
+VI. Asesorar al Instituto en materia de control interno, administración de riesgos, integridad, prevención, disuasión y detección de actos de corrupción, para sugerir acciones que tiendan a su fortalecimiento institucional en su desempeño y control interno y con ello la prevención de Faltas administrativas y hechos de corrupción e incorporar las mejores prácticas para fomentar la transparencia y rendición de cuentas en la gestión institucional.
+
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 2017)</small>
 
 ###### Artículo 88.
 
-El titular del órgano interno de control del Instituto será suplido por los Directores Generales de Responsabilidades y Quejas, de Auditoría, y de Control, Evaluación y Desarrollo Administrativo, en el orden indicado. Los Directores Generales de Responsabilidades y Quejas, de Auditoría y de Control, Evaluación y Desarrollo Administrativo serán suplidos en sus ausencias por el servidor público designado para tales efectos por el Titular del órgano interno de control, o en su defecto, por el del nivel jerárquico inmediato inferior que le esté adscrito.
+El Titular del órgano interno de control del Instituto será suplido por los Directores Generales Adjuntos de Substanciación y Resolución, de Denuncias e Investigaciones, de Auditoría, y de Control, Evaluación y Desarrollo Administrativo, en el orden indicado. Los Directores Generales Adjuntos de Substanciación y Resolución, de Denuncias e Investigaciones, de Auditoría, y de Control, Evaluación y Desarrollo Administrativo serán suplidos en sus ausencias por el servidor público designado para tales efectos por el Titular del órgano interno de control o, en su defecto, por el del nivel jerárquico inmediato inferior que le esté adscrito. A igualdad de niveles jerárquicos, la suplencia será ejercida por el servidor público de mayor antigüedad en el cargo.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 17 DE OCTUBRE DE 2016)</small>
 
@@ -3265,13 +3367,17 @@ Las unidades administrativas y los servidores públicos del Instituto deberán g
 
 ### CAPÍTULO XXX. De los servidores públicos del Instituto
 
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 2017)</small>
+
 ###### Artículo 95.
 
-Los servidores públicos del Instituto deberán guiarse por los principios de autonomía, legalidad, objetividad, imparcialidad, certeza, eficiencia, eficacia, transparencia y rendición de cuentas.
+Los servidores públicos del Instituto deberán guiarse por los principios establecidos en las leyes vigentes que rigen el servicio público.
+
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 2017)</small>
 
 ###### Artículo 96.
 
-Todo servidor público del Instituto estará sujeto al régimen de responsabilidades del Título Cuarto de la Constitución y será sujeto a las sanciones establecidas en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+Todo servidor público del Instituto estará sujeto al régimen de responsabilidades del Título Cuarto de la Constitución y será sujeto a las sanciones establecidas en la normatividad que resulte aplicable.
 
 ###### Artículo 97.
 
@@ -3390,3 +3496,13 @@ SÉPTIMO. En virtud del cambio de denominación del que fueron objeto las corres
 OCTAVO. Las referencias hechas en otros ordenamientos, acuerdos, normas, lineamientos, resoluciones o cualquier otra disposición jurídica a la Contraloría Interna del Instituto, se entenderán hechas al Órgano Interno de Control.
 
 Las referencias hechas en otros ordenamientos, lineamientos o resoluciones a la Dirección General de Administración, Organización y Desarrollo de Capital Humano, la Dirección General Adjunta para la Transición a la Televisión Digital Terrestre, la Dirección General Adjunta de Estadística y la Dirección General Adjunta de Planeación y Administración de Proyectos, se entenderán hechas, respectivamente, a la Dirección General de Gestión de Talento, la Dirección General Adjunta de Televisión Digital Terrestre, la Dirección General Adjunta de Estadística y Análisis de Indicadores y la Dirección General Adjunta de Planeación y Prospectiva, en el ámbito de las atribuciones de éstas.
+
+D.O.F. 20 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO MEDIANTE EL CUAL EL PLENO DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES MODIFICA SU ESTATUTO ORGÁNICO."]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Hasta en tanto se designe al primer Titular del órgano interno de control del Instituto, el Director de Denuncias e Investigaciones ejercerá las atribuciones previstas en el presente Estatuto Orgánico para la Dirección General Adjunta de Denuncias e Investigaciones; el Director de Substanciación y Resolución ejercerá las atribuciones previstas en el presente Estatuto Orgánico para la Dirección General Adjunta de Substanciación y Resolución; el Director de Auditoría ejercerá las atribuciones previstas en el presente Estatuto Orgánico para la Dirección General Adjunta de Auditoría; y el Director de Control, Evaluación y Desarrollo Administrativo ejercerá las atribuciones previstas en el presente Estatuto Orgánico para la Dirección General Adjunta de Control, Evaluación y Desarrollo Administrativo, todas adscritas al órgano interno de control.
+
+Los asuntos y procedimientos que estén pendientes de resolución ante el órgano interno de control, continuarán su trámite y se resolverán en definitiva conforme a la normatividad vigente al momento de su inicio.
