@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-gobierno-municipal-del-estado-de-baja-57967"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-10-10"
-last_updated: "2016-10-14"
+last_updated: "2017-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCS"
 ---
 # LEY ORGANICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE SEPTIEMBRE DE 2016.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL B.O. EL 14 DE OCTUBRE DE 2016 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 2371 PUBLICADO EN EL B.O. DE 30 DE SEPTIEMBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JULIO DE 2017.
 
 Ley publicada en el Extraordinario Número 45-Bis al Boletín Oficial del Estado de Baja California Sur, el miércoles 10 de octubre de 2007.
 
@@ -301,9 +301,9 @@ I.- Los libros de actas de las reuniones del Ayuntamiento saliente y la informac
 
 II.- La documentación relativa a la situación financiera y estados contables, que deberán contener los libros de contabilidad y registros auxiliares, correspondientes al Ayuntamiento saliente;
 
-> <small>(REFORMADA, B.O. 20 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, B.O. 20 DE JULIO DE 2017)</small>
 
-III.- La documentación relativa al estado que guarda la cuenta pública del Municipio; la que incluirá las observaciones pendientes de atender, requerimientos e informes que se hayan generado con motivo del ejercicio de las facultades de fiscalización a cargo del Órgano de Fiscalización Superior del Honorable Congreso del Estado;
+III.- La documentación relativa al estado que guarda la cuenta pública del Municipio; la que incluirá las observaciones pendientes de atender, requerimientos e informes que se hayan generado con motivo del ejercicio de las facultades de fiscalización a cargo de la Auditoría Superior del Estado de Baja California Sur;
 
 IV.- La situación de la deuda pública municipal, la documentación relativa a la misma y su registro, así como la relación y registro de los pasivos a cargo del Municipio, que no constituyan deuda pública;
 
@@ -341,9 +341,9 @@ El informe deberá referirse a todos y cada uno de los puntos contenidos en el e
 
 Sometido a su consideración el dictamen, el Ayuntamiento emitirá el acuerdo correspondiente, mismo que no exime de responsabilidad a los integrantes y servidores públicos del Ayuntamiento saliente.
 
-> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, B.O. 20 DE JULIO DE 2017)</small>
 
-El Ayuntamiento, dentro de los quince días hábiles siguientes, remitirá copia del expediente de entrega-recepción al Órgano de Fiscalización Superior del Honorable Congreso del Estado, para efecto de que en la revisión de las cuentas públicas municipales, sea tomado en cuenta.
+El Ayuntamiento, dentro de los quince días hábiles siguientes, remitirá copia del expediente de entrega-recepción a la Auditoría Superior del Estado de Baja California Sur, para efecto de que en la revisión de las cuentas públicas municipales, sea tomado en cuenta.
 
 ### CAPITULO QUINTO. De la Ética de los Integrantes del Ayuntamiento
 
@@ -709,9 +709,9 @@ V. Cobrar personalmente o por interpósita persona, multa o contribución alguna
 
 VI. Utilizar a los servidores públicos municipales para asuntos particulares;
 
-VII.- Residir durante su gestión fuera del territorio municipal.
+VII. Residir durante su gestión fuera del territorio municipal.
 
-VIII.- Conceder cualquier tipo de descuento que cause perjuicio al erario municipal.
+VIII. Conceder cualquier tipo de descuento que cause perjuicio al erario municipal.
 
 ###### Artículo 57.
 
@@ -741,9 +741,9 @@ XI.- Inscribir los bienes inmuebles municipales en el Registro Público de la Pr
 
 XII.- Revisar y firmar los Cortes de Caja de la Tesorería Municipal y cuidar que la aplicación de los gastos se haga llenando todos los requisitos legales y conforme al Presupuesto respectivo.
 
-> <small>(REFORMADA, B.O. 20 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, B.O. 20 DE JULIO DE 2017)</small>
 
-XIII.- Asistir a las visitas de inspección que se hagan a la Tesorería Municipal, y hacer que oportunamente se rinda al Órgano de Fiscalización Superior del Honorable Congreso del Estado la Cuenta del Gasto Público del año anterior.
+XIII.- Asistir a las visitas de inspección que se hagan a la Tesorería Municipal, y hacer que oportunamente se rinda a la Auditoría Superior del Estado de Baja California Sur la Cuenta del Gasto Público del año anterior.
 
 XIV.- Las demás que le señalen esta Ley y otras disposiciones legales aplicables.
 
@@ -1127,7 +1127,7 @@ III. Desarrollo Social y Económico;
 
 IV. Seguridad Pública, Policía Preventiva y Transito Municipal;
 
-VI. Desarrollo Urbano y Ecología;
+VI (SIC). Desarrollo Urbano y Ecología;
 
 VII. Registro Civil
 
@@ -1397,9 +1397,11 @@ III. Ser de reconocida honradez;
 
 IV. No haber sido dirigente de partido político ni candidato durante la elección del Ayuntamiento en funciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE JULIO DE 2017)</small>
+
 ###### Artículo 128.
 
-Son atribuciones del contralor municipal:
+Son atribuciones del Contralor Municipal:
 
 I.- Presentar al Ayuntamiento un plan de trabajo anual, durante el mes de enero;
 
@@ -1423,21 +1425,35 @@ X.- Establecer y operar un sistema de quejas, denuncias y sugerencias;
 
 XI.- Participar en la entrega recepción de las dependencias y entidades de la Administración Pública Municipal;
 
-XII.- Vigilar el comportamiento de la situación patrimonial de los servidores públicos municipales, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California Sur;
+> <small>(REFORMADA, B.O. 20 DE JULIO DE 2017)</small>
+
+XII.- Llevar y normar el registro de servidores públicos de la Administración Pública Municipal, recibir y registrar las declaraciones patrimoniales y de intereses que deban presentar, así como verificar su contenido mediante las investigaciones que resulten pertinentes de acuerdo con las disposiciones aplicables. También registrará la información sobre las sanciones administrativas que, en su caso, les hayan sido impuestas;
 
 XIII.- Vigilar el desarrollo administrativo de las dependencias y entidades de la Administración Pública Municipal, a fin de que en el ejercicio de sus funciones apliquen con eficiencia los recursos humanos y patrimoniales;
 
-XIV.- Vigilar que el desempeño de las funciones de los servidores públicos municipales, se realice conforme a la Ley;
+> <small>(REFORMADA, B.O. 20 DE JULIO DE 2017)</small>
+
+XIV.- Vigilar que el desempeño de las funciones de los servidores públicos municipales se realice conforme a la Ley, así como establecer mecanismos internos para la Administración Pública Municipal que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas;
 
 XV.- Actuar de manera coordinada en la Tesorería a fin de vigilar que la recaudación municipal cumpla con la reglamentación en la materia; y
 
-XVI.- Las demás que le confiera ésta u otras leyes, reglamentos, bandos municipales y acuerdos de Ayuntamiento.
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 20 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2014)</small>
+XVI.- Conocer e investigar las conductas de los servidores públicos de la Administración Pública Municipal que puedan constituir responsabilidades administrativas, así como substanciar los procedimientos correspondientes conforme a lo establecido en la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur; para lo cual podrá aplicar las sanciones que correspondan en los casos que no sean de la competencia del Tribunal de Justicia Administrativa del Estado de Baja California Sur y, cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante dicho Tribunal; así como presentar las denuncias correspondientes ante la Fiscalía Especializada en Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones aplicables;
+
+> <small>(ADICIONADA, B.O. 20 DE JULIO DE 2017)</small>
+
+XVII.- Ejercer las facultades que la Constitución General de la República le otorga a los órganos internos de control para revisar, mediante las auditorías que se requieran, el ingreso, manejo, custodia y ejercicio de recursos públicos municipales; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 20 DE JULIO DE 2017)</small>
+
+XVIII.- Las demás que le confiera ésta u otras leyes, reglamentos, bandos municipales y acuerdos de Ayuntamiento.
+
+> <small>(REFORMADA, B.O. 20 DE JULIO DE 2017)</small>
 
 ###### Artículo 129.
 
-Es obligación de los titulares de las dependencias y entidades de la Administración Pública Municipal, participar con el Tesorero y el Presidente Municipal en la solventación de las observaciones que formule el Órgano de Fiscalización Superior.
+Es obligación de los titulares de las dependencias y entidades de la Administración Pública Municipal, participar con el Tesorero y el Presidente Municipal en la solventación de las observaciones que formule la Auditoría Superior del Estado de Baja California Sur.
 
 ### CAPITULO PRIMERO. De los Servicios Públicos Municipales
 
@@ -1611,7 +1627,7 @@ IV. Las personas físicas o morales que en los últimos cinco años se les haya 
 
 El otorgamiento de las concesiones municipales, se sujetará a las siguientes bases:
 
-l. Acuerdo del Ayuntamiento sobre la imposibilidad de prestar por sí mismo el servicio público o la conveniencia de que lo preste un tercero;
+I. Acuerdo del Ayuntamiento sobre la imposibilidad de prestar por sí mismo el servicio público o la conveniencia de que lo preste un tercero;
 
 II. Publicar la convocatoria para el proceso de licitación publica en el Boletín Oficial del Gobierno del Estado y en uno de mayor circulación en el Municipio, misma que deberá contener:
 
@@ -1685,7 +1701,7 @@ El concesionario, previamente a la fecha que se haya fijado como de inicio para 
 
 Son obligaciones de los concesionarios:
 
-l. Prestar el servicio público concesionado con eficiencia y eficacia, sujetándose a lo dispuesto por esta Ley, demás disposiciones legales aplicables, así como a los términos del título concesión;
+I. Prestar el servicio público concesionado con eficiencia y eficacia, sujetándose a lo dispuesto por esta Ley, demás disposiciones legales aplicables, así como a los términos del título concesión;
 
 II. Cubrir a la Tesorería municipal los derechos que correspondan, en los términos de las leyes fiscales aplicables;
 
@@ -1739,7 +1755,7 @@ IV. Cualquiera otra prevista en el título-concesión.
 
 Las concesiones de servicios públicos, podrán ser revocadas por cualquiera de las causas siguientes:
 
-l. Interrupción en todo o en parte del servicio público concesionado, sin causa justificada a juicio del Ayuntamiento o sin previa autorización por escrito del mismo;
+I. Interrupción en todo o en parte del servicio público concesionado, sin causa justificada a juicio del Ayuntamiento o sin previa autorización por escrito del mismo;
 
 II. Ceder, hipotecar, enajenar o de cualquier manera gravar la concesión o alguno de los derechos en ella establecidos, o los bienes afectos o dedicados al servicio público de que se trate, sin la previa autorización por escrito del Ayuntamiento;
 
@@ -1853,7 +1869,7 @@ VII.- Los demás clasificados por otros ordenamientos como tales.
 
 Son bienes destinados a un servicio público:
 
-l.- Los inmuebles destinados a las dependencias y oficinas municipales;
+I.- Los inmuebles destinados a las dependencias y oficinas municipales;
 
 II.- Los inmuebles afectos a los servicios públicos municipales;
 
@@ -1889,7 +1905,7 @@ En el caso de la donación, en el acuerdo correspondiente se deberá establecer 
 
 Los bienes del Municipio donados, revertirán a su patrimonio cuando se den cualquiera de los siguientes supuestos:
 
-l.- Se utilicen para un fin distinto al autorizado;
+I.- Se utilicen para un fin distinto al autorizado;
 
 II.- La persona jurídica colectiva se disuelva o liquide; o
 
@@ -2377,7 +2393,7 @@ DIP. PROFR. OSCAR LEGGS CASTRO
 
 SECRETARIO
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 B.O. 10 DE MARZO DE 2008.
 
@@ -2456,3 +2472,11 @@ B.O. 30 DE SEPTIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 2371.- SE REFORMAN LOS ARTÍCULOS 20 PÁRRAFO PRIMERO; 21 PÁRRAFOS SEGUNDO, CUARTO Y QUINTO; 25 PÁRRAFO PRIMERO; 26 PÁRRAFO TERCERO; 34 Y 53 FRACCIÓN XI DE LA LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 2459.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR Y DE LA LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur, sin perjuicio de lo previsto en el artículo transitorio siguiente.
+
+SEGUNDO.- Las disposiciones del presente Decreto que se encuentren vinculadas con el régimen de responsabilidades administrativas conforme a la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur y el Tribunal de Justicia Administrativa conforme a la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Baja California Sur, entrarán en vigor hasta que las citadas leyes cobren vigencia conforme a los regímenes transitorios de los decretos mediante los cuales se expidan.
