@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2017-07-14"
+last_updated: "2017-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE JULIO DE 2017.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -873,89 +873,85 @@ QUINTO. Centros Auxiliares Regionales:
 
 Todos los órganos jurisdiccionales antes citados tendrán jurisdicción en toda la República Mexicana y su competencia será mixta, a excepción del Juzgado Tercero de Distrito del Centro Auxiliar de la Primera Región que además se especializa en materia de extinción de dominio.
 
-> <small>(REFORMADO, D.O.F. DE 9 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 2017)</small>
 
 QUINTO BIS. Centros de Justicia Penal Federal:
 
-I. El Centro de Justicia Penal Federal en el Estado de Aguascalientes se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en la ciudad del mismo nombre.
+I. El Centro de Justicia Penal Federal en el Estado de Aguascalientes con residencia en la ciudad del mismo nombre.
 
-II. El Centro de Justicia Penal Federal en el Estado de Baja California, con residencia en Mexicali se integrará por tres jueces de Distrito, y un Tribunal de Alzada.
+II. El Centro de Justicia Penal Federal en el Estado de Baja California, con residencia en Mexicali.
 
-III. El Centro de Justicia Penal Federal en el Estado de Baja California, con residencia en Tijuana se integrará por tres jueces de Distrito, y un Tribunal de Alzada.
+III. El Centro de Justicia Penal Federal en el Estado de Baja California, con residencia en Tijuana.
 
-IV. El Centro de Justicia Penal Federal en el Estado de Baja California Sur se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en La Paz, Baja California Sur.
+IV. El Centro de Justicia Penal Federal en el Estado de Baja California Sur, con residencia en La Paz, Baja California Sur.
 
-V. El Centro de Justicia Penal Federal en el Estado de Campeche se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en la ciudad del mismo nombre.
+V. El Centro de Justicia Penal Federal en el Estado de Campeche, con residencia en la ciudad del mismo nombre.
 
-VI. El Centro de Justicia Penal Federal en el Estado de Chiapas, se integrará por tres Jueces de Distrito, y un Tribunal de Alzada, todos con residencia en Cintalapa de Figueroa, Chiapas.
+VI. El Centro de Justicia Penal Federal en el Estado de Chiapas, con residencia en Cintalapa de Figueroa, Chiapas.
 
-VII. El Centro de Justicia Penal Federal en el Estado de Chihuahua, se integrará por tres Jueces de Distrito, y un Tribunal de Alzada, todos con residencia en la ciudad del mismo nombre.
+VII. El Centro de Justicia Penal Federal en el Estado de Chihuahua, con residencia en la ciudad del mismo nombre.
 
-VIII. El Centro de Justicia Penal Federal en el Estado de Coahuila de Zaragoza, se integrará por tres Jueces de Distrito, y un Tribunal de Alzada, todos con residencia en Torreón, Coahuila.
+VIII. El Centro de Justicia Penal Federal en el Estado de Coahuila de Zaragoza, con residencia en Torreón, Coahuila.
 
-IX. El Centro de Justicia Penal Federal en el Estado de Colima se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en la ciudad del mismo nombre.
+IX. El Centro de Justicia Penal Federal en el Estado de Colima, con residencia en la ciudad del mismo nombre.
 
-X. El Centro de Justicia Penal Federal en la Ciudad de México, con residencia en el reclusorio Norte se integrará por tres jueces de Distrito, y un Tribunal de Alzada.
+X. El Centro de Justicia Penal Federal en la Ciudad de México, con residencia en el reclusorio Norte.
 
-XI. El Centro de Justicia Penal Federal en la Ciudad de México, con residencia en el reclusorio Oriente se integrará por tres jueces de Distrito, y un Tribunal de Alzada.
+XI. El Centro de Justicia Penal Federal en la Ciudad de México, con residencia en el reclusorio Oriente.
 
-XII. El Centro de Justicia Penal Federal en la Ciudad de México, con residencia en el reclusorio Sur se integrará por tres jueces de Distrito, y un Tribunal de Alzada.
+XII. El Centro de Justicia Penal Federal en la Ciudad de México, con residencia en el reclusorio Sur.
 
-XIII. El Centro de Justicia Penal Federal en el Estado de Durango se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en Durango, Durango.
+XIII. El Centro de Justicia Penal Federal en el Estado de Durango, con residencia en Durango, Durango.
 
-XIV. El Centro de Justicia Penal Federal en el Estado de Guanajuato se integrará por cuatro jueces de Distrito, y un Tribunal de Alzada, todos con residencia en la ciudad del mismo nombre.
+XIV. El Centro de Justicia Penal Federal en el Estado de Guanajuato, con residencia en la ciudad del mismo nombre.
 
-XV. El Centro de Justicia Penal Federal en el Estado de Guerrero se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en Acapulco, Guerrero.
+XV. El Centro de Justicia Penal Federal en el Estado de Guerrero, con residencia en Acapulco, Guerrero.
 
-XVI. El Centro de Justicia Penal Federal en el Estado de Hidalgo se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en Pachuca, Hidalgo.
+XVI. El Centro de Justicia Penal Federal en el Estado de Hidalgo, con residencia en Pachuca, Hidalgo.
 
-XVII. El Centro de Justicia Penal Federal en el Estado de Jalisco se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en el complejo penitenciario Puente Grande.
+XVII. El Centro de Justicia Penal Federal en el Estado de Jalisco, con residencia en el complejo penitenciario Puente Grande.
 
-> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2017)</small>
+XVIII. El Centro de Justicia Penal Federal en el Estado de México, con residencia en Nezahualcóyotl, Estado de México.
 
-XVIII. El Centro de Justicia Penal Federal en el Estado de México, con residencia en Nezahualcóyotl, Estado de México se integrará por tres jueces de Distrito, y un Tribunal de Alzada.
+XIX. El Centro de Justicia Penal Federal en el Estado de México, con residencia en Almoloya de Juárez (Altiplano).
 
-> <small>(ADICIONADA, D.O.F. 29 DE JUNIO DE 2017)</small>
+XX. El Centro de Justicia Penal Federal en el Estado de Michoacán, con residencia en Morelia, Michoacán.
 
-XVIII Bis. El Centro de Justicia Penal Federal en el Estado de México, con residencia en Almoloya de Juárez (Altiplano) se integrará por tres jueces de Distrito, y un Tribunal de Alzada.
+XXI. El Centro de Justicia Penal Federal en el Estado de Morelos, con residencia en Cuernavaca, Morelos.
 
-XIX. El Centro de Justicia Penal Federal en el Estado de Michoacán se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en Morelia, Michoacán.
+XXII. El Centro de Justicia Penal Federal en el Estado de Nayarit, con residencia en la ciudad de Tepic, Nayarit, y contará con una sala remota en la Isla María Madre.
 
-XX. El Centro de Justicia Penal Federal en el Estado de Morelos se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en Cuernavaca, Morelos.
+XXIII. El Centro de Justicia Penal Federal en el Estado de Nuevo León, con residencia en Cadereyta, Nuevo León.
 
-XXI. El Centro de Justicia Penal Federal en el Estado de Nayarit se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en la ciudad de Tepic, Nayarit, y contará con una sala remota en la Isla María Madre.
+XXIV. El Centro de Justicia Penal Federal en el Estado de Oaxaca, con residencia en la ciudad del mismo nombre.
 
-XXII. El Centro de Justicia Penal Federal en el Estado de Nuevo León se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en Cadereyta, Nuevo León.
+XXV. El Centro de Justicia Penal Federal en el Estado de Puebla, con residencia en San Andrés Cholula, Puebla.
 
-XXIII. El Centro de Justicia Penal Federal en el Estado de Oaxaca se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en la ciudad del mismo nombre.
+XXVI. El Centro de Justicia Penal Federal en el Estado de Querétaro, con residencia en la ciudad del mismo nombre.
 
-XXIV. El Centro de Justicia Penal Federal en el Estado de Puebla se integrará por cuatro jueces de Distrito, y un Tribunal de Alzada, todos con residencia en San Andrés Cholula, Puebla.
+XXVII. El Centro de Justicia Penal Federal en el Estado de Quintana Roo, con residencia en Cancún, Quintana Roo.
 
-XXV. El Centro de Justicia Penal Federal en el Estado de Querétaro se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en la ciudad del mismo nombre.
+XXVIII. El Centro de Justicia Penal Federal en el Estado de San Luis Potosí, con residencia en la ciudad del mismo nombre.
 
-XXVI. El Centro de Justicia Penal Federal en el Estado de Quintana Roo se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en Cancún, Quintana Roo.
+XXIX. El Centro de Justicia Penal Federal en el Estado de Sinaloa, con residencia en Culiacán, Sinaloa.
 
-XXVII. El Centro de Justicia Penal Federal en el Estado de San Luis Potosí se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en la ciudad del mismo nombre.
+XXX. El Centro de Justicia Penal Federal en el Estado de Sonora, con residencia en Hermosillo, Sonora.
 
-XXVIII. El Centro de Justicia Penal Federal en el Estado de Sinaloa se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en Culiacán, Sinaloa.
+XXXI. El Centro de Justicia Penal Federal en el Estado de Tabasco, con residencia en Villahermosa, Tabasco.
 
-XXIX. El Centro de Justicia Penal Federal en el Estado de Sonora se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en Hermosillo, Sonora.
+XXXII. El Centro de Justicia Penal Federal en el Estado de Tamaulipas, con residencia en Ciudad Victoria.
 
-XXX. El Centro de Justicia Penal Federal en el Estado de Tabasco se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en Villahermosa, Tabasco.
+XXXIII. El Centro de Justicia Penal Federal en el Estado de Tamaulipas, con residencia en Reynosa.
 
-XXXI. El Centro de Justicia Penal Federal en el Estado de Tamaulipas, con residencia en Ciudad Victoria se integrará por tres jueces de Distrito, y un Tribunal de Alzada.
+XXXIV. El Centro de Justicia Penal Federal en el Estado de Tlaxcala, con residencia en Apizaco, Tlaxcala.
 
-XXXII. El Centro de Justicia Penal Federal en el Estado de Tamaulipas, con residencia en Reynosa se integrará por tres jueces de Distrito, y un Tribunal de Alzada.
+XXXV. El Centro de Justicia Penal Federal en el Estado de Veracruz, con residencia en Coatzacoalcos.
 
-XXXIII. El Centro de Justicia Penal Federal en el Estado de Tlaxcala se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en Apizaco, Tlaxcala.
+XXXVI. El Centro de Justicia Penal Federal en el Estado de Veracruz, con residencia en la ciudad de Xalapa.
 
-XXXIV. El Centro de Justicia Penal Federal en el Estado de Veracruz, con residencia en Coatzacoalcos se integrará por tres jueces de Distrito, y un Tribunal de Alzada.
+XXXVII. El Centro de Justicia Penal Federal en el Estado de Yucatán, con residencia en Mérida, Yucatán.
 
-XXXV. El Centro de Justicia Penal Federal en el Estado de Veracruz, con residencia en la ciudad de Xalapa se integrará por tres jueces de Distrito, y un Tribunal de Alzada.
-
-XXXVI. El Centro de Justicia Penal Federal en el Estado de Yucatán se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en Mérida, Yucatán.
-
-XXXVII. Centro de Justicia Penal Federal en el Estado de Zacatecas se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en la ciudad del mismo nombre.
+XXXVIII. El Centro de Justicia Penal Federal en el Estado de Zacatecas, con residencia en la ciudad del mismo nombre.
 
 > <small>(REFORMADO, D.O.F. DE 9 DE JUNIO DE 2016)</small>
 
@@ -971,11 +967,11 @@ IV. Centro de Justicia Penal Federal en el Estado de Durango, con sede en la ciu
 
 > <small>(ADICIONADA, D.O.F. 29 DE JUNIO DE 2017)</small>
 
-IV Bis. Centro de Justicia Penal Federal en el Estado de México, con sede en Nezahualcóyotl cuya jurisdicción territorial comprenderá los municipios de Acolman; Amecameca; Atenco; Atlautla; Axapusco; Ayapango; Cocotitlán; Chalco; Chiautla; Chicoloapan; Chiconcuac; Chimalhuacán; Ecatzingo; Ixtapaluca; Juchitepec; La Paz; Nezahualcóyotl; Nopaltepec; Otumba; Ozumba; Papalotla; San Martín de las Pirámides; Tecámac; Temamatla; Temascalapa; Tenango del Aire; Teotihuacán; Tepetlaoxtoc; Tepetlixpa; Texcoco; Tezoyuca; Tlalmanalco; Valle de Chalco Solidaridad; Apaxco; Atizapán de Zaragoza; Coacalco de Berriozábal; Coyotepec; Cuautitlán; Cuautitlán Izcalli; Ecatepec de Morelos; Huehuetoca; Hueypoxtla; Jaltenco; Melchor Ocampo; Nextlalpan; Nicolás Romero; Polotitlán; Soyaniquilpan de Juárez; Teoloyucán; Tepotzotlán; Tequixquiac; Timilpan; Tlalnepantla de Baz; Tonanitla; Tultepec; Tultitlán y Zumpango; todos ellos del Estado de México.”
+IV Bis. Centro de Justicia Penal Federal en el Estado de México, con sede en Nezahualcóyotl cuya jurisdicción territorial comprenderá los municipios de Acolman; Amecameca; Atenco; Atlautla; Axapusco; Ayapango; Cocotitlán; Chalco; Chiautla; Chicoloapan; Chiconcuac; Chimalhuacán; Ecatzingo; Ixtapaluca; Juchitepec; La Paz; Nezahualcóyotl; Nopaltepec; Otumba; Ozumba; Papalotla; San Martín de las Pirámides; Tecámac; Temamatla; Temascalapa; Tenango del Aire; Teotihuacán; Tepetlaoxtoc; Tepetlixpa; Texcoco; Tezoyuca; Tlalmanalco; Valle de Chalco Solidaridad; Apaxco; Atizapán de Zaragoza; Coacalco de Berriozábal; Coyotepec; Cuautitlán; Cuautitlán Izcalli; Ecatepec de Morelos; Huehuetoca; Hueypoxtla; Jaltenco; Melchor Ocampo; Nextlalpan; Nicolás Romero; Polotitlán; Soyaniquilpan de Juárez; Teoloyucán; Tepotzotlán; Tequixquiac; Timilpan; Tlalnepantla de Baz; Tonanitla; Tultepec; Tultitlán y Zumpango; todos ellos del Estado de México."
 
-> <small>(ADICIONADA, D.O.F. 29 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2017)</small>
 
-IV Ter. Centro de Justicia Penal Federal en el Estado de México, con sede en Almoloya de Juárez (Altiplano): cuya jurisdicción territorial comprenderá los municipios de La jurisdicción territorial de los juzgadores del Centro comprenderá los siguientes municipios (sic): Acambay de Ruíz Castañeda; Almoloya de Alquisiras; Almoloya de Juárez; Almoloya del Río; Amanalco; Amatepec; Atizapán; Atlacomulco; Calimaya; Capulhuac; Coatepec Harinas; Chapultepec; Donato Guerra; El Oro; Ixtapan de la Sal; Ixtapan del Oro; Ixtlahuaca; Jiquipilco; Jocotitlán; Joquicingo; Lerma; Luvianos; Malinalco; Metepec; Mexicaltzingo; Morelos; Naucalpan de Juárez; Ocoyoacac; Ocuilan; Otzoloapan; Otzolotepec; Rayón; San Antonio la Isla; San Felipe del Progreso; San José del Rincón; San Mateo Atenco; San Simón de Guerrero; Santo Tomás; Sultepec; Tejupilco; Temascalcingo; Temascaltepec; Temoaya; Tenancingo; Tenango del Valle; Texcaltitlán; Texcalyacac; Tianguistenco; Tlatlaya; Toluca; Tonatico; Valle de Bravo; Villa de Allende; Villa Guerrero; Villa Victoria; Xalatlaco; Xonacatlán; Zacazonapan; Zacualpan; Zinacantepec; Zumpahuacán; Aculco; Chapa de Mota; Huixquilucan; Isidro Fabela; Jilotepec; Jilotzingo y Villa del Carbón; todos ellos del Estado de México.
+IV Ter. Centro de Justicia Penal Federal en el Estado de México, con sede en Almoloya de Juárez (Altiplano) cuya jurisdicción territorial comprenderá los municipios de Acambay de Ruíz Castañeda; Almoloya de Alquisiras; Almoloya de Juárez; Almoloya del Río; Amanalco; Amatepec; Atizapán; Atlacomulco; Calimaya; Capulhuac; Coatepec Harinas; Chapultepec; Donato Guerra; El Oro; Ixtapan de la Sal; Ixtapan del Oro; Ixtlahuaca; Jiquipilco; Jocotitlán; Joquicingo; Lerma; Luvianos; Malinalco; Metepec; Mexicaltzingo; Morelos; Naucalpan de Juárez; Ocoyoacac; Ocuilan; Otzoloapan; Otzolotepec; Rayón; San Antonio la Isla; San Felipe del Progreso; San José del Rincón; San Mateo Atenco; San Simón de Guerrero; Santo Tomás; Sultepec; Tejupilco; Temascalcingo; Temascaltepec; Temoaya; Tenancingo; Tenango del Valle; Texcaltitlán; Texcalyacac; Tianguistenco; Tlatlaya; Toluca; Tonatico; Valle de Bravo; Villa de Allende; Villa Guerrero; Villa Victoria; Xalatlaco; Xonacatlán; Zacazonapan; Zacualpan; Zinacantepec; Zumpahuacán; Aculco; Chapa de Mota; Huixquilucan; Isidro Fabela; Jilotepec; Jilotzingo y Villa del Carbón; todos ellos del Estado de México.
 
 V. Centro de Justicia Penal Federal en el Estado de Nayarit, con sede en Tepic: cuya jurisdicción territorial comprenderá dicha entidad federativa y el territorio del archipiélago de las Islas Marías;
 
@@ -4002,6 +3998,106 @@ V. ...
 3. ...
 
 VI. a XXXII. ...”
+
+D.O.F. 20 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 7/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES PARA ESTABLECER LA ADSCRIPCIÓN DE LOS JUECES DE DISTRITO CON COMPETENCIA EN EJECUCIÓN, EN LOS CENTROS DE JUSTICIA PENAL FEDERAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el uno de agosto de dos mil diecisiete, con excepción de lo previsto en el párrafo siguiente.
+
+Para las áreas administrativas del Consejo de la Judicatura Federal, entrará en vigor el día de su aprobación, para adoptar con la debida anticipación las medidas necesarias para que los jueces de Ejecución inicien funciones en la fecha señalada en este artículo.
+
+SEGUNDO. Los jueces de Distrito con competencia en ejecución conocerán y resolverán los procedimientos de ejecución dentro del nuevo sistema de justicia penal, en la competencia del Centro de Justicia respectivo, tanto de aquellos que se inicien a partir de su adscripción, como de los que se encuentran en trámite en el respectivo Centro.
+
+TERCERO. Se reforman el numeral QUINTO BIS; y la fracción IV Ter del numeral QUINTO TER del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+"QUINTO BIS. Centros de Justicia Penal Federal:
+
+I. El Centro de Justicia Penal Federal en el Estado de Aguascalientes con residencia en la ciudad del mismo nombre.
+
+II. El Centro de Justicia Penal Federal en el Estado de Baja California, con residencia en Mexicali.
+
+III. El Centro de Justicia Penal Federal en el Estado de Baja California, con residencia en Tijuana.
+
+IV. El Centro de Justicia Penal Federal en el Estado de Baja California Sur, con residencia en La Paz, Baja California Sur.
+
+V. El Centro de Justicia Penal Federal en el Estado de Campeche, con residencia en la ciudad del mismo nombre.
+
+VI. El Centro de Justicia Penal Federal en el Estado de Chiapas, con residencia en Cintalapa de Figueroa, Chiapas.
+
+VII. El Centro de Justicia Penal Federal en el Estado de Chihuahua, con residencia en la ciudad del mismo nombre.
+
+VIII. El Centro de Justicia Penal Federal en el Estado de Coahuila de Zaragoza, con residencia en Torreón, Coahuila.
+
+IX. El Centro de Justicia Penal Federal en el Estado de Colima, con residencia en la ciudad del mismo nombre.
+
+X. El Centro de Justicia Penal Federal en la Ciudad de México, con residencia en el reclusorio Norte.
+
+XI. El Centro de Justicia Penal Federal en la Ciudad de México, con residencia en el reclusorio Oriente.
+
+XII. El Centro de Justicia Penal Federal en la Ciudad de México, con residencia en el reclusorio Sur.
+
+XIII. El Centro de Justicia Penal Federal en el Estado de Durango, con residencia en Durango, Durango.
+
+XIV. El Centro de Justicia Penal Federal en el Estado de Guanajuato, con residencia en la ciudad del mismo nombre.
+
+XV. El Centro de Justicia Penal Federal en el Estado de Guerrero, con residencia en Acapulco, Guerrero.
+
+XVI. El Centro de Justicia Penal Federal en el Estado de Hidalgo, con residencia en Pachuca, Hidalgo.
+
+XVII. El Centro de Justicia Penal Federal en el Estado de Jalisco, con residencia en el complejo penitenciario Puente Grande.
+
+XVIII. El Centro de Justicia Penal Federal en el Estado de México, con residencia en Nezahualcóyotl, Estado de México.
+
+XIX. El Centro de Justicia Penal Federal en el Estado de México, con residencia en Almoloya de Juárez (Altiplano).
+
+XX. El Centro de Justicia Penal Federal en el Estado de Michoacán, con residencia en Morelia, Michoacán.
+
+XXI. El Centro de Justicia Penal Federal en el Estado de Morelos, con residencia en Cuernavaca, Morelos.
+
+XXII. El Centro de Justicia Penal Federal en el Estado de Nayarit, con residencia en la ciudad de Tepic, Nayarit, y contará con una sala remota en la Isla María Madre.
+
+XXIII. El Centro de Justicia Penal Federal en el Estado de Nuevo León, con residencia en Cadereyta, Nuevo León.
+
+XXIV. El Centro de Justicia Penal Federal en el Estado de Oaxaca, con residencia en la ciudad del mismo nombre.
+
+XXV. El Centro de Justicia Penal Federal en el Estado de Puebla, con residencia en San Andrés Cholula, Puebla.
+
+XXVI. El Centro de Justicia Penal Federal en el Estado de Querétaro, con residencia en la ciudad del mismo nombre.
+
+XXVII. El Centro de Justicia Penal Federal en el Estado de Quintana Roo, con residencia en Cancún, Quintana Roo.
+
+XXVIII. El Centro de Justicia Penal Federal en el Estado de San Luis Potosí, con residencia en la ciudad del mismo nombre.
+
+XXIX. El Centro de Justicia Penal Federal en el Estado de Sinaloa, con residencia en Culiacán, Sinaloa.
+
+XXX. El Centro de Justicia Penal Federal en el Estado de Sonora, con residencia en Hermosillo, Sonora.
+
+XXXI. El Centro de Justicia Penal Federal en el Estado de Tabasco, con residencia en Villahermosa, Tabasco.
+
+XXXII. El Centro de Justicia Penal Federal en el Estado de Tamaulipas, con residencia en Ciudad Victoria.
+
+XXXIII. El Centro de Justicia Penal Federal en el Estado de Tamaulipas, con residencia en Reynosa.
+
+XXXIV. El Centro de Justicia Penal Federal en el Estado de Tlaxcala, con residencia en Apizaco, Tlaxcala.
+
+XXXV. El Centro de Justicia Penal Federal en el Estado de Veracruz, con residencia en Coatzacoalcos.
+
+XXXVI. El Centro de Justicia Penal Federal en el Estado de Veracruz, con residencia en la ciudad de Xalapa.
+
+XXXVII. El Centro de Justicia Penal Federal en el Estado de Yucatán, con residencia en Mérida, Yucatán.
+
+XXXVIII. El Centro de Justicia Penal Federal en el Estado de Zacatecas, con residencia en la ciudad del mismo nombre.
+
+QUINTO TER. ...
+
+I. a IV. ...
+
+IV Ter. Centro de Justicia Penal Federal en el Estado de México, con sede en Almoloya de Juárez (Altiplano) cuya jurisdicción territorial comprenderá los municipios de Acambay de Ruíz Castañeda; Almoloya de Alquisiras; Almoloya de Juárez; Almoloya del Río; Amanalco; Amatepec; Atizapán; Atlacomulco; Calimaya; Capulhuac; Coatepec Harinas; Chapultepec; Donato Guerra; El Oro; Ixtapan de la Sal; Ixtapan del Oro; Ixtlahuaca; Jiquipilco; Jocotitlán; Joquicingo; Lerma; Luvianos; Malinalco; Metepec; Mexicaltzingo; Morelos; Naucalpan de Juárez; Ocoyoacac; Ocuilan; Otzoloapan; Otzolotepec; Rayón; San Antonio la Isla; San Felipe del Progreso; San José del Rincón; San Mateo Atenco; San Simón de Guerrero; Santo Tomás; Sultepec; Tejupilco; Temascalcingo; Temascaltepec; Temoaya; Tenancingo; Tenango del Valle; Texcaltitlán; Texcalyacac; Tianguistenco; Tlatlaya; Toluca; Tonatico; Valle de Bravo; Villa de Allende; Villa Guerrero; Villa Victoria; Xalatlaco; Xonacatlán; Zacazonapan; Zacualpan; Zinacantepec; Zumpahuacán; Aculco; Chapa de Mota; Huixquilucan; Isidro Fabela; Jilotepec; Jilotzingo y Villa del Carbón; todos ellos del Estado de México.
+
+V. a XIII. ..."
+
+CUARTO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
 
 ###### Artículo 10.
 
