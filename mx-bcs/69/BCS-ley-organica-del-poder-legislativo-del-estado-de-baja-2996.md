@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2017-02-20"
+last_updated: "2017-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JULIO DE 2017.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -483,9 +483,9 @@ III.- Proponer a los Diputados que integran las Comisiones Permanentes, Especial
 
 IV.- Conceder licencias a los Diputados en los casos previstos en el Artículo 27 y demás relativos de esta Ley Reglamentaria.
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, B.O. 20 DE JULIO DE 2017)</small>
 
-V.- Proponer al Pleno la designación del Oficial Mayor, Auditor Superior del Órgano de Fiscalización, Asesores Jurídicos y Directores de las áreas a que se refiere esta ley, así como expedir el nombramiento respectivo, teniendo en cuenta la Ley para los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California Sur, garantizando el principio de igualdad de género.
+V.- Proponer al Pleno la designación del Oficial Mayor, Titular de la Auditoria Superior del Estado, Contralor, Asesores Jurídicos y Directores de las áreas a que se refiere esta ley, así como expedir el nombramiento respectivo, teniendo en cuenta la Ley para los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California Sur, garantizando el principio de igualdad de género.
 
 VI.- Proponer al Congreso en Sesión Secreta la destitución de los funcionarios a que se refiere la fracción anterior, por las causas graves que señale la ley, concediéndoles previamente el derecho de audiencia.
 
@@ -551,11 +551,11 @@ DE LAS COMISIONES.
 
 Para facilitar el despacho de los negocios del Congreso, se nombrarán Comisiones Permanentes y Especiales que los estudien y dictaminen, proponiéndo los proyectos de resoluciones que estimen procedentes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 54.
 
-Las comisiones permanentes serán:
+Las Comisiones Permanentes serán:
 
 I.- DE PUNTOS CONSTITUCIONALES Y DE JUSTICIA.
 
@@ -589,9 +589,9 @@ XI.- DE ECOLOGIA.
 
 XII.- DE ASUNTOS FISCALES Y ADMINISTRATIVOS.
 
-> <small>(REFORMADA, B.O. 10 DE MARZO DE 2008)</small>
+> <small>(REFORMADA, B.O. 20 DE JULIO DE 2017)</small>
 
-XIII.- DE VIGILANCIA DEL ORGANO DE FISCALIZACION SUPERIOR.
+XIII.- DE VIGILANCIA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE BAJA CALIFORNIA SUR.
 
 XIV.- DE CUENTA Y ADMINISTRACION.
 
@@ -663,11 +663,11 @@ XXXI.- DE INFRAESTRUCTURA.
 
 XXXII.- DE LA JUVENTUD.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 55.
 
-Serán materia de estudio y dictamen de las distintas comisiones, lo siguiente:
+Será materia de estudio, dictamen y competencia de las distintas comisiones, lo siguiente:
 
 I.- DE LA COMISION DE PUNTOS CONSTITUCIONALES Y JUSTICIA:
 
@@ -853,17 +853,25 @@ f).- Los que se refieran a las bases sobre las cuales el Ejecutivo y los Ayuntam
 
 g).- Las que le encomiende la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
-> <small>(REFORMADA, B.O. 10 DE MARZO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE JULIO DE 2017)</small>
 
-XIII.- DE VIGILANCIA DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR:
+XIII.- DE VIGILANCIA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE BAJA CALIFORNIA SUR:
+
+> <small>(REFORMADO, B.O. 10 DE MARZO DE 2008)</small>
 
 a).- Lo correspondiente a la revisión de la Cuenta Pública Municipal y Estatal, en los términos de la Constitución Política del Estado.
 
-b).- La aplicación de la ley del Órgano de Fiscalización Superior, sus modificaciones o adiciones.
+> <small>(REFORMADO, B.O. 20 DE JULIO DE 2017)</small>
+
+b).- Las reformas y adiciones de Ley de Fiscalización y Rendición de Cuentas del Estado de Baja California Sur, así como su aplicación y cumplimiento, en lo que respecta al ámbito de su competencia.
+
+> <small>(REFORMADO, B.O. 10 DE MARZO DE 2008)</small>
 
 c).- La vigilancia permanente en el control del gasto público del Estado y Municipios, de conformidad con las Leyes aplicables.
 
-d).- Ser enlace entre el Órgano de Fiscalización Superior y el Congreso del Estado, así como de su personal, en coordinación con la Oficialía Mayor.
+> <small>(REFORMADO, B.O. 20 DE JULIO DE 2017)</small>
+
+d).- Ser enlace entre la Auditoría Superior del Estado y el Congreso del Estado;
 
 > <small>(REFORMADO, B.O. 17 DE OCTUBRE DE 2015)</small>
 
@@ -1447,9 +1455,9 @@ XXIV.- Apoyar y auxiliar a los Diputados que lo soliciten en el desempeño de su
 
 XXV.- Las demás acordadas por la Asamblea, o que prescriban esta Ley y los Reglamentos que de ella emanen.
 
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, B.O. 20 DE JULIO DE 2017)</small>
 
-XXVI.- Con la información que le deberán entregar la Dirección de Finanzas, Dirección de Comunicación Social, Jefatura de Apoyo Parlamentario, Jefatura de Recursos Materiales y Humanos, Asesores Jurídicos, Fracciones Parlamentarias, Comisiones Legislativas, Mesa Directiva, Junta de Gobierno y Coordinación Política, y Órgano de Fiscalización Superior, instruirá a la Jefatura de Informática a publicar en la pagina Web del Congreso del Estado la información de carácter legislativo, administrativo y financiero, enumeradas en el articulo 247, misma que pondrá a disposición de la Unidad de Acceso a la Información Pública del Congreso del Estado.
+XXVI.- Con la información que le deberán entregar la Dirección de Finanzas, Dirección de Comunicación Social, Jefatura de Apoyo Parlamentario, Jefatura de Recursos Materiales y Jefatura de Recursos Humanos, Asesores Jurídicos, Fracciones Parlamentarias, Comisiones Legislativas, Mesa Directiva, Junta de Gobierno y Coordinación Política y Auditoría Superior del Estado, instruirá a la Jefatura de Informática a publicar en la página Web del Congreso del Estado la información de carácter legislativo, administrativo y financiero, enumeradas en el artículo 247 de la presente ley, misma que pondrá a disposición de la Unidad de Acceso a la Información Pública del Congreso del Estado.
 
 > <small>(ADICIONADO, B.O. 31 DE JULIO DE 2012)</small>
 
@@ -1501,37 +1509,87 @@ VIII.- Las demás que acuerden la Asamblea, la Comisión de Cuenta y Administrac
 
 IX.- Las adquisiciones, los arrendamientos, la prestación de servicios y la obra pública que excedan los $ 50,000.00 (Cincuenta Mil Pesos 00/100 M.N.) se adjudicarán por regla general mediante licitación pública o subasta electrónica para asegurar al congreso, las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, y oportunidad.
 
-> <small>(REFORMADA SU DENOMINACIÓN, B.O. 10 DE MARZO DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 20 DE JULIO DE 2017)</small>
 
-### CAPITULO X
+### CAPÍTULO IX BIS. DE LA CONTRALORÍA
 
-DEL ORGANO DE FISCALIZACION SUPERIOR.
+> <small>(ADICIONADO, B.O. 20 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADO, B.O. 10 DE MARZO DE 2008)</small>
+ARTICULO 78 BIS.- La Contraloría del Poder Legislativo será responsable del control, evaluación y desarrollo administrativo del Poder Legislativo, dependerá directamente de la Junta de Gobierno y Coordinación Política, y tendrá las siguientes atribuciones:
+
+I.- Vigilar el registro, ejecución, avance físico y financiero, publicación, liquidación y entrega de recursos que ejerza el Congreso del Estado;
+
+II.- Implementar acciones que propicien la integridad y la transparencia en la gestión pública, la rendición de cuentas y el acceso por parte de los particulares a la información que genere el Poder Legislativo de conformidad con las bases y lineamientos que establezca el Comité Coordinador del Sistema Estatal Anticorrupción, en términos de las disposiciones aplicables;
+
+III.- Conocer e investigar las conductas de los servidores públicos del Poder Legislativo que puedan constituir responsabilidades administrativas, así como substanciar los procedimientos correspondientes conforme a lo establecido en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur, para lo cual podrá aplicar las sanciones que correspondan en los casos que no sean de la competencia del Tribunal de Justicia Administrativa del Estado de Baja California Sur y cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante dicho Tribunal; así como presentar las denuncias correspondientes ante la Fiscalía Especializada en Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones aplicables;
+
+IV.- Recurrir las determinaciones de la Fiscalía Especializada en materia de Combate a la Corrupción y del Tribunal de Justicia Administrativa del Estado;
+
+V.- Vigilar que las dependencias y unidades administrativas cumplan con las políticas y programas establecidos por la Junta de Gobierno y Coordinación Política;
+
+VI.- Coordinarse con las dependencias del Congreso del Estado y la Auditoria Superior del Estado, atendiendo a la naturaleza de sus funciones para el establecimiento de programas, sistemas y procedimientos que permitan el cumplimiento eficaz de sus respectivas responsabilidades;
+
+VII.- Fiscalizar que las dependencias del Poder Legislativo del Estado cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y remuneraciones de personal, comodatos, contratación de adquisiciones, arrendamientos, arrendamiento financiero, servicios y ejecución de obra pública, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales del Poder Legislativo;
+
+VIII.- Realizar, por sí o a solicitud de la Dirección de Finanzas y la Oficialía Mayor, auditorías, revisiones y evaluaciones a las dependencias y Áreas del Congreso del Estado, con el objeto de examinar, fiscalizar y promover la eficiencia y legalidad en su gestión y encargo;
+
+IX.- Presentar a la Junta de Gobierno y Coordinación Política un programa e informe anual sobre el cumplimiento de sus funciones o cuando le sea requerido por dicho órgano de gobierno;
+
+X.- Proponer la adopción de recomendaciones y de medidas preventivas o correctivas que estime convenientes para el desarrollo administrativo del Poder Legislativo y darles seguimiento;
+
+XI.- Llevar y normar el registro de servidores públicos del Poder Legislativo, recibir y registrar las declaraciones patrimoniales y de conflicto de intereses que deban presentar, así como verificar su contenido mediante las investigaciones que resulten pertinentes de acuerdo con las disposiciones aplicables. También registrará la información sobre las sanciones administrativas que, en su caso, hayan sido impuestas;
+
+XII.- Atender las quejas e inconformidades que presenten los particulares con motivo de convenios o contratos que celebren con Poder Legislativo del Estado, salvo los casos en que otras leyes establezcan procedimientos de impugnación diferentes;
+
+XIII.- Emitir las disposiciones, normas y lineamientos en el ejercicio de las atribuciones que conforme a las leyes competen a la Contraloría, previa autorización de la Junta de Gobierno y de Coordinación Política;
+
+XIV.- Ejercer las facultades que la Constitución General de la República le otorga a los órganos internos de control para revisar, mediante las auditorías que se requieran, el ingreso, manejo, custodia y ejercicio de recursos públicos en el Poder Legislativo;
+
+XV.- Emitir conjuntamente, según corresponda, con la Dirección de Finanzas y con la Oficialía Mayor, los lineamientos, manuales, procedimientos y demás instrumentos análogos que se requieran en materia de contrataciones públicas, así como proporcionar, en su caso, asesoría normativa con carácter preventivo en los procedimientos de contratación conforme a las disposiciones legales aplicables, que se realicen en el Poder Legislativo del Estado; y
+
+XVI.- Las demás que expresamente le confieran los ordenamientos legales o que determine el Pleno y la Junta de Gobierno y Coordinación Política.
+
+> <small>(ADICIONADO, B.O. 20 DE JULIO DE 2017)</small>
+
+ARTICULO 78 TER.- El Contralor del Poder Legislativo, será designado a propuesta de la Junta de Gobierno y Coordinación Política y durará en su cargo un periodo de cuatro años, sin posibilidad de reelección inmediata.
+
+Para ocupar el cargo de Contralor se requiere:
+
+I.- Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos, con residencia en el Estado no menor de cinco años anteriores a la fecha de su designación;
+
+II.- Contar con título y cédula profesional de Licenciado en Derecho, Contaduría Pública o Economía, legalmente expedidos y contar con una experiencia profesional de cuando menos diez años en su ejercicio;
+
+III.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena privativa de libertad; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama pública, quedará inhabilitado para el cargo, cualquiera que haya sido la pena;
+
+IV.- Tener los conocimientos, experiencia y capacidad de acuerdo al perfil del puesto; y
+
+V.- No ser o haber sido dirigente de partido o asociación política a nivel nacional, estatal o municipal o candidato a puesto de elección popular, ni ministro de ningún culto religioso, en los tres años anteriores a su designación
+
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 20 DE JULIO DE 2017)</small>
+
+### CAPÍTULO X. DE LA AUDITORÍA SUPERIOR DEL ESTADO DE BAJA CALIFORNIA SUR
+
+> <small>(REFORMADO, B.O. 20 DE JULIO DE 2017)</small>
+
+###### ARTICULO 79.
+
+Para los efectos de las Fracciones IV, XXIX, y XXX del Artículo 64 y demás relativos de la Constitución Política del Estado, habrá una Auditoría Superior del Estado, la cual cuenta con autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la Ley de la materia.
+
+> <small>(REFORMADO, B.O. 20 DE JULIO DE 2017)</small>
+
+###### ARTICULO 80.
+
+La Auditoría Superior del Estado, hará la revisión, fiscalización y auditorias de todas las cuentas de los Poderes Ejecutivo, Legislativo y Judicial, de los entes públicos estatales, Gobiernos Municipales, entes públicos Municipales y entes públicos autónomos que manejen recursos públicos, así como del destino del gasto público que reciban, administren o ejerzan bajo cualquier concepto todas las personas física y morales de derecho privado, que sean presentadas al Congreso del Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 10 DE JUNIO DE 2013)</small>
 
 ### CAPITULO XI. DEL INSTITUTO DE ESTUDIOS LEGISLATIVOS
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 10 DE JUNIO DE 2013)</small>
-
-###### ARTICULO 79.
-
-Para los efectos de las Fracciones IV, XXIX y XXX del Artículo 64 y demás relativos de la Constitución Política del Estado, habrá un Órgano de Fiscalización Superior, el cual tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones.
-
-> <small>(REFORMADO, B.O. 10 DE MARZO DE 2008)</small>
-
-###### ARTICULO 80.
-
-El Órgano de Fiscalización Superior, hará la revisión, fiscalización y auditorias de todas las cuentas que el Ejecutivo, Legislativo, Judicial, entes públicos estatales, Gobiernos Municipales, entes públicos Municipales, entes públicos autónomos que manejen recursos públicos, así como del destino del gasto público que reciban, administren o ejerzan bajo cualquier concepto todas las personas física y morales de derecho privado, que sean presentadas al Congreso del Estado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA SU DENOMINACIÓN, B.O. 10 DE JUNIO DE 2013)</small>
-
-### CAPITULO XII
-
-DE LA DIRECCION DE COMUNICACION SOCIAL Y RELACIONES PUBLICAS.
 
 ###### ARTICULO 81.
 
@@ -1671,11 +1729,9 @@ VI.- Rendir los informes que le soliciten el director del instituto o el oficial
 
 VII.- Las demás que le fijen la Mesa Directiva del Congreso, la Junta de Gobierno y Coordinación Política o la Dirección del Instituto de Estudios Legislativos.
 
-### CAPITULO I
+### CAPITULO XII
 
-DE LAS SESIONES.
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
+DE LA DIRECCION DE COMUNICACION SOCIAL Y RELACIONES PUBLICAS.
 
 ###### ARTICULO 84.
 
@@ -1697,17 +1753,17 @@ VI.- Planear, organizar y coordinar la agenda de eventos especiales del Congreso
 
 VII.- Las demás que la Directiva y la Junta de Gobierno y Coordinación Política le señalen.
 
-### CAPITULO II
+### CAPITULO I
 
-DE LAS INICIATIVAS.
+DE LAS SESIONES.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ## TITULO CUARTO. DEL FUNCIONAMIENTO DEL CONGRESO
 
-### CAPITULO III
+### CAPITULO II
 
-DE LOS DICTAMENES.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE JUNIO DE 2005)</small>
+DE LAS INICIATIVAS.
 
 ###### ARTICULO 85.
 
@@ -1871,9 +1927,11 @@ Cuando por causa justificada algún Diputado no pudiere asistir a Sesión o cont
 
 Se considerará ausente al Diputado que no esté presente al pasarse lista. Si después de ella hubiera alguna votación nominal y no se encontrare presente, también se considerará como faltante. Igualmente se considerará ausente en caso de falta de Quórum al pasarse la lista correspondiente.
 
-### CAPITULO IV
+### CAPITULO III
 
-DE LA DISPENSA DE TRAMITES.
+DE LOS DICTAMENES.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 101.
 
@@ -1971,9 +2029,9 @@ Los Proyectos de Ley o de Decreto a los que el Gobernador del Estado opusiere ve
 
 Las iniciativas que fueren presentadas durante los recesos de la Legislatura, serán leídas por la Comisión Permanente, quien dará cuenta al Congreso en el Período Ordinario o en el Extraordinario que se convoque, a fin de que se proceda en los términos de esta Ley.
 
-### CAPITULO V
+### CAPITULO IV
 
-DE LAS DISCUSIONES.
+DE LA DISPENSA DE TRAMITES.
 
 ###### ARTICULO 113.
 
@@ -2045,9 +2103,9 @@ De concederse por la Asamblea mayor plazo a una comisión para rendir su dictám
 
 No podrá ser puesto a discusión ningún dictamen de Ley o Decreto sin que previamente se hayan repartido a los Diputados, a más tardar en la Sesión anterior a la en que la discusión vaya a celebrarse, las copias que contengan el dictamen o iniciativa correspondientes; salvo los que se refieran a asuntos electorales, o cuando se hubiere concedido dispensa de trámites en términos de la presente Ley.
 
-### CAPITULO VI
+### CAPITULO V
 
-DE LAS VOTACIONES.
+DE LAS DISCUSIONES.
 
 ###### ARTICULO 124.
 
@@ -2063,9 +2121,9 @@ Si se otorgare la dispensa de todos los trámites, el Proyecto de Ley será pues
 
 En la dispensa general de los trámites no se entienden comprendidos los que se originen en la discusión en adelante.
 
-### CAPITULO VII
+### CAPITULO VI
 
-DE LAS OBSERVACIONES DEL EJECUTIVO.
+DE LAS VOTACIONES.
 
 ###### ARTICULO 127.
 
@@ -2225,9 +2283,9 @@ IV.- Cuando algún cuestionamiento tenga estrecha relación con dos o más depen
 
 V.- En todo caso, el Titular del Poder Ejecutivo del Estado como Coordinador de Gabinete General y en sus ausencias el Secretario General de Gobierno, podrá solicitar al Presidente de la Mesa Directiva y este lo concederá, que le permita contestar la o las preguntas que considere pertinentes, pudiendo hacerlo para esos efectos o sólo para ceder la palabra al o los funcionarios integrantes del gabinete que corresponda, según la naturaleza de los planteamientos que se formulen.
 
-### CAPITULO VIII
+### CAPITULO VII
 
-DE LA EXPEDICION DE LAS LEYES O DECRETOS.
+DE LAS OBSERVACIONES DEL EJECUTIVO.
 
 ###### ARTICULO 149.
 
@@ -2309,9 +2367,9 @@ Se entiende por mayoría absoluta de votos, la correspondiente a la mitad más u
 
 Se entiende por mayoría calificada de votos, la que por disposición de la Constitución o de la Ley, se requiera una votación mayor a las previstas en los artículos anteriores.
 
-### CAPITULO IX
+### CAPITULO VIII
 
-DEL CEREMONIAL.
+DE LA EXPEDICION DE LAS LEYES O DECRETOS.
 
 ###### ARTICULO 165.
 
@@ -2337,11 +2395,9 @@ Para ratificar un proyecto de Ley o de Decreto devuelto por el Ejecutivo con obs
 
 Respecto de las demás resoluciones del Congreso que no constituyan Ley o Decreto, se observará lo dispuesto en el Artículo 61 de la Constitución del Estado.
 
-### CAPITULO X
+### CAPITULO IX
 
-DEL AUDITORIO.
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
+DEL CEREMONIAL.
 
 ###### ARTICULO 171.
 
@@ -2357,11 +2413,11 @@ Al final expresará:
 
 "DADO EN EL SALON DE SESIONES DEL PODER LEGISLATIVO DEL ESTADO, EN LA PAZ, BAJA CALIFORNIA SUR, A LOS .......... DIAS DEL MES .................DE.........."
 
-### CAPITULO XI
+### CAPITULO X
 
-DE LA CONSULTA POPULAR.
+DEL AUDITORIO.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 173.
 
@@ -2451,11 +2507,11 @@ Tanto los Diputados como los demás funcionarios y personas que tengan que habla
 
 En la declaración de claúsura de los Períodos de Sesiones, o en la instalación del Congreso, se pondrán de pié todos los Diputados, excepto el Presidente.
 
-### CAPITULO UNICO
+### CAPITULO XI
 
-DE LA COMISION INSTRUCTORA DEL JUICIO POLITICO Y DEL PROCEDIMIENTO PARA LA DECLARACION DE PROCEDENCIA.
+DE LA CONSULTA POPULAR.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 190.
 
@@ -2467,11 +2523,11 @@ A las Sesiones que no tengan carácter de sesiones privadas podrá concurrir el 
 
 El Público asistente deberá guardar respeto y abstenerse de tomar parte en los debates con cualquiera demostración. Cuando alguno o algunos de los asistentes a las sesiones de esta representación popular perturben el orden o impidan el buen desarrollo de las sesiones, el Presidente de la Mesa Directiva podrá declarar un receso, debiéndose reanudar la sesión cuando se restablezca el orden, en cuyo caso, por acuerdo de la Mesa Directiva, se podrá continuar la sesión con las seguridades debidas para garantizar la ininterrupción de la misma. El Presidente estará facultado para desalojar el Recinto, cuando en alguna forma se perturbe el orden, sin perjuicio de la facultad que le corresponde, para ordenar la detención y consignación de los responsables, en caso de que los hechos que provoquen el desorden, constituyeren delito.
 
-### CAPITULO I
+### CAPITULO UNICO
 
-DE LAS REFORMAS A LA CONSTITUCION POLITICA DEL ESTADO.
+DE LA COMISION INSTRUCTORA DEL JUICIO POLITICO Y DEL PROCEDIMIENTO PARA LA DECLARACION DE PROCEDENCIA.
 
-> <small>(REFORMADO, B.O. 20 DE JUNIO DE 2000)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 192.
 
@@ -2483,15 +2539,17 @@ El Congreso del Estado podrá solicitar al Instituto Estatal electoral, lleve a 
 
 ## TITULO QUINTO. DEL PROCEDIMIENTO EN MATERIA DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
-### CAPITULO II
+### CAPITULO I
 
-DE LA CALIFICACION DE LA ELECCION DE SENADORES.
+DE LAS REFORMAS A LA CONSTITUCION POLITICA DEL ESTADO.
+
+> <small>(REFORMADO, B.O. 20 DE JUNIO DE 2000)</small>
 
 ## TITULO SEXTO. DE LAS VARIAS ATRIBUCIONES CONSTITUCIONALES DEL CONGRESO
 
-### CAPITULO III
+### CAPITULO II
 
-DE LA CALIFICACION DE LA ELECCION DE GOBERNADOR.
+DE LA CALIFICACION DE LA ELECCION DE SENADORES.
 
 ###### ARTICULO 193.
 
@@ -2573,9 +2631,9 @@ Cuando uno o más Diputados sean acusadores durante el procedimiento relativo al
 
 ## TITULO SEPTIMO. DE LA DIPUTACION PERMANENTE
 
-### CAPITULO IV
+### CAPITULO III
 
-DE LA CALIFICACION DE LA ELECCION DE AYUNTAMIENTOS.
+DE LA CALIFICACION DE LA ELECCION DE GOBERNADOR.
 
 ###### ARTICULO 212.
 
@@ -2595,19 +2653,17 @@ II.- De la lista señalada en la fracción anterior, la Comisión Especial Plura
 
 III.- En caso de no alcanzarse la votación señalada en la fracción anterior, se procederá a conformar una terna con los candidatos que hubiesen obtenido mayor votación, y se procederá a elegir de entre ellos a quien ocupará el cargo de Contralor General del Instituto Estatal Electoral.
 
-### CAPITULO I
+### CAPITULO IV
 
-DEL NOMBRAMIENTO E INSTALACION DE LA DIPUTACION PERMANENTE.
+DE LA CALIFICACION DE LA ELECCION DE AYUNTAMIENTOS.
 
 ###### ARTICULO 214.
 
 (DEROGADO, B.O. 20 DE DICIEMBRE DE 1995)
 
-### CAPITULO II
+### CAPITULO I
 
-DE LAS ATRIBUCIONES Y FUNCIONAMIENTO DE LA DIPUTACION PERMANENTE.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE ABRIL DE 1999)</small>
+DEL NOMBRAMIENTO E INSTALACION DE LA DIPUTACION PERMANENTE.
 
 ###### ARTICULO 215.
 
@@ -2623,11 +2679,11 @@ Expedir el Bando Solemne para dar a conocer en todo el Estado la Declaración de
 
 En caso de falta absoluta del Gobernador del Estado, se procederá de conformidad con lo dispuesto en el Artículo 72 de la Constitución Política del Estado de Baja California Sur.
 
-### CAPITULO PRIMERO
+### CAPITULO II
 
-DISPOSICIONES GENERALES.
+DE LAS ATRIBUCIONES Y FUNCIONAMIENTO DE LA DIPUTACION PERMANENTE.
 
-> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE ABRIL DE 1999)</small>
 
 ###### ARTICULO 218.
 
@@ -2649,11 +2705,11 @@ DISPOSICIONES GENERALES.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE JULIO DE 2009)</small>
 
-### CAPITULO SEGUNDO
+### CAPITULO PRIMERO
 
-DE LA DOCUMENTACION.
+DISPOSICIONES GENERALES.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 222.
 
@@ -2671,11 +2727,11 @@ Hecha la elección de la Directiva, los electos tomarán desde luego, posesión 
 
 Las faltas del Presidente se cubrirán por el Secretario; en su defecto por el miembro restante y por los suplentes en el orden de su nombramiento. Las faltas del Secretario se cubrirán por el miembro restante de la Diputación Permanente y en su defecto, con los suplentes por el orden de su nombramiento.
 
-### CAPITULO TERCERO
+### CAPITULO SEGUNDO
 
-DE LAS RESPONSABILIDADES.
+DE LA DOCUMENTACION.
 
-> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 226.
 
@@ -2741,7 +2797,7 @@ En la Sesión que celebre el Congreso para inaugurar un Periodo Extraordinario d
 
 ###### ARTICULO 233.
 
-La Diputación Permanente, durante los Periodos de receso, además de las facultades que le confieren el Artículo 66 de la Constitución del Estado y esta Ley, tendrán la de contestar en representación del Congreso, los informes previos o con su justificación que soliciten los Jueces Federales, con motivo de Amparos interpuestos en contra del Congreso, así como la de poder intervenir en la tramitación de los Juicios relativos.
+La Diputación Permanente, durante los Periodos de receso, además de las facultades que le confieren el Artículo 66 de la Constitución del Estado y esta Ley, tendran la de contestar en representación del Congreso, los informes previos o con su justificación que soliciten los Jueces Federales, con motivo de Amparos interpuestos en contra del Congreso, así como la de poder intervenir en la tramitación de los Juicios relativos.
 
 ###### ARTICULO 234.
 
@@ -2757,9 +2813,11 @@ Al final de su ejercicio, la Diputación Permanente entregará a la Directiva de
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
-### CAPÍTULO I. DISPOSICIONES GENERALES EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN
+### CAPITULO TERCERO
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+DE LAS RESPONSABILIDADES.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 236.
 
@@ -2817,11 +2875,9 @@ En este caso, el Presidente de la Junta de Gobierno y Coordinación Política en
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 31 DE JULIO DE 2009)</small>
 
-### CAPITULO I BIS. ARTICULO 249 BIS.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2016)
+### CAPÍTULO I. DISPOSICIONES GENERALES EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN
 
-ARTICULO 249 TER.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2016)
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 244.
 
@@ -2855,11 +2911,11 @@ e). Sueldos no cobrados.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 31 DE JULIO DE 2009)</small>
 
-### CAPITULO II
+### CAPITULO I BIS. ARTICULO 249 BIS.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2016)
 
-DE LA ATENCION DE LAS SOLICITUDES DE INFORMACION PUBLICA.
+ARTICULO 249 TER.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2016)
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 245.
 
@@ -2867,11 +2923,11 @@ El incumplimiento de las disposiciones contenidas en la presente Ley, será sanc
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2011)</small>
 
-### CAPITULO III
+### CAPITULO II
 
-DE LA INFORMACIÓN RESERVADA Y CONFIDENCIAL.
+DE LA ATENCION DE LAS SOLICITUDES DE INFORMACION PUBLICA.
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 246.
 
@@ -2891,9 +2947,11 @@ Además de lo señalado en el párrafo que antecede, el Congreso del Estado debe
 
 Además de lo previsto en el artículo anterior, en particular, el Congreso del Estado deberá informar:
 
-1.- Las cuentas públicas que le hayan enviado los Poderes del Estado y los Municipios al Congreso del Estado y este haya remitido al Órgano de Fiscalización Superior del Estado de Baja California Sur, así como las cuentas públicas que hayan enviado las Entidades Gubernamentales y de Interés Público que por Ley estén obligadas a presentarlas o rendirlas al Congreso en los términos de la ley de la materia.
+> <small>(REFORMADO, B.O. 20 DE JULIO DE 2017)</small>
 
-Cualquier persona tendrá acceso a los Informes del Resultado de la revisión de las cuentas públicas de las entidades Gubernamentales y de interés público, en los términos de la Ley del Órgano de Fiscalización Superior del Estado de Baja California Sur.
+1.- Las cuentas públicas que le hayan enviado los Poderes del Estado y los Municipios al Congreso del Estado y este haya remitido a la Auditoría Superior del Estado de Baja California Sur, así como las cuentas públicas que hayan enviado las Entidades Gubernamentales y de Interés Público que por Ley estén obligadas a presentarlas o rendirlas al Congreso en los términos de la ley de la materia.
+
+Cualquier persona tendrá acceso a los Informes del Resultado de la revisión y fiscalización de las Cuentas Públicas de las entidades Gubernamentales y de interés público, en los términos de la Ley (sic) Fiscalización y Rendición de Cuentas del Estado de Baja California Sur.
 
 2.- El diario de los debates.
 
@@ -2906,6 +2964,12 @@ Cualquier persona tendrá acceso a los Informes del Resultado de la revisión de
 El Comité y la Unidad de Transparencia solicitarán a los servidores públicos del Poder Legislativo la información que derive del ejercicio de sus facultades, competencia o funciones para el cumplimiento de sus fines.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+### CAPITULO III
+
+DE LA INFORMACIÓN RESERVADA Y CONFIDENCIAL.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 250.
 
@@ -3037,7 +3101,7 @@ B.O. 31 DE DICIEMBRE DE 2000.
 
 ###### ARTICULO UNICO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 B.O. 19 DE JUNIO DE 2001.
 
@@ -3113,7 +3177,7 @@ Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 
 B.O. 31 DE DICIEMBRE DE 2007.
 
-ÚNICO.- El presente decreto entrara en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 B.O. 10 DE MARZO DE 2008.
 
@@ -3285,6 +3349,14 @@ SEXTO.- Para la integración de las Comisiones de Desarrollo Social, de los Dere
 
 B.O. 20 DE FEBRERO DE 2017.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 2428 SE REFORMAN LOS ARTÍCULOS TRANSITORIOS TERCERO PRIMER PÁRRAFO Y CUARTO DEL DECRETO NÚMERO 2416 EXPEDIDO POR EL HONORABLE CONGRESO DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR, TOMO XLIII , NÚMERO 50, DE FECHA 31 DE DICIEMBRE DE 2016; ASÍ COMO SE REFORMA LA DENOMINACIÓN DE LA FRACCIÓN XVI DEL ARTÍCULO 54; LA DENOMINACIÓN DE LA FRACCIÓN XVI DEL ARTÍCULO 55; EL INCISO T) DE LA FRACCIÓN XXIV DEL ARTÍCULO 55; EL INCISO B) DE LA FRACCIÓN XXIX DEL ARTÍCULO 55; EL SEGUNDO INCISO D) PASA A SER INCISO E), Y EL ACTUAL E) PASA A SER INCISO F) DE LA FRACCIÓN XXIX DEL ARTÍCULO 55, TODOS DE LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 2428 SE REFORMAN LOS ARTÍCULOS TRANSITORIOS TERCERO PRIMER PÁRRAFO Y CUARTO DEL DECRETO NÚMERO 2416 EXPEDIDO POR EL HONORABLE CONGRESO DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR, TOMO XLIII, NÚMERO 50, DE FECHA 31 DE DICIEMBRE DE 2016; ASÍ COMO SE REFORMA LA DENOMINACIÓN DE LA FRACCIÓN XVI DEL ARTÍCULO 54; LA DENOMINACIÓN DE LA FRACCIÓN XVI DEL ARTÍCULO 55; EL INCISO T) DE LA FRACCIÓN XXIV DEL ARTÍCULO 55; EL INCISO B) DE LA FRACCIÓN XXIX DEL ARTÍCULO 55; EL SEGUNDO INCISO D) PASA A SER INCISO E), Y EL ACTUAL E) PASA A SER INCISO F) DE LA FRACCIÓN XXIX DEL ARTÍCULO 55, TODOS DE LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR”.]
 
 ÚNICO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 2459.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR Y DE LA LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR."]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur, sin perjuicio de lo previsto en el artículo transitorio siguiente.
+
+SEGUNDO.- Las disposiciones del presente Decreto que se encuentren vinculadas con el régimen de responsabilidades administrativas conforme a la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur y el Tribunal de Justicia Administrativa conforme a la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Baja California Sur, entrarán en vigor hasta que las citadas leyes cobren vigencia conforme a los regímenes transitorios de los decretos mediante los cuales se expidan.
