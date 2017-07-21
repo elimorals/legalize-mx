@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-tribunal-electoral-del-estado-de-campeche-1177
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-11-18"
-last_updated: "2017-07-13"
+last_updated: "2017-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "CAM"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE JULIO DE 2017 EN EL P.O. DEL ESTADO DE CAMPECHE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE CAMPECHE
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2017.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 21 DE JULIO DE 2017.]</small>
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el viernes 18 de noviembre de 2016.
 
@@ -129,9 +129,9 @@ a) Dirección Administrativa;
 
 b) Unidad de Transparencia, Acceso a la Información Pública y Comunicación Social;
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
+(REFORMADO, P.O. 13 DE JULIO DE 2017) (F. DE E., P.O. 21 DE JULIO DE 2017)
 
-af) (sic) Órgano Interno de Control;
+c) Órgano Interno de Control;
 
 d) Los demás auxiliares administrativos, en los términos que establezca la Ley.
 
