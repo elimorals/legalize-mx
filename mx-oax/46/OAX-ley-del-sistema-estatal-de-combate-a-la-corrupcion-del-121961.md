@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-sistema-estatal-de-combate-a-la-corrupcion-del-121961"
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-20"
-last_updated: "2017-05-20"
+last_updated: "2017-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL SISTEMA ESTATAL DE COMBATE A LA CORRUPCIÓN DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2017.
 
 Ley publicada en la Décima Sección del Periódico Oficial del Estado de Oaxaca, el sábado 20 de mayo de 2017.
 
@@ -679,7 +679,11 @@ TRANSITORIOS:
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, sin perjuicio de lo previsto en los transitorios siguientes.
 
-Segundo. A más tardar el 17 (diecisiete) de julio de 2017 (dos mil diecisiete), el Congreso del Estado y los entes públicos, deberán expedir las reformas, leyes y reglamentos, y realizar las adecuaciones normativas correspondientes de conformidad con lo previsto en el presente Decreto.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2017)</small>
+
+Segundo. A más tardar el día treinta de agosto del año dos mil diecisiete, el Congreso del Estado de Oaxaca y los entes públicos, deberán expedir las reformas, leyes y reglamentos, y realizar las adecuaciones normativas correspondientes de conformidad con lo previsto en el presente Decreto.
+
+El plazo señalado en el párrafo anterior será improrrogable.
 
 Tercero. A más tardar el 30 (treinta) de julio de 2017 (dos mil diecisiete), el Congreso del Estado deberá designar a los integrantes de la Comisión de Selección.
 
@@ -709,6 +713,14 @@ Octavo. El Ejecutivo y el Congreso del Estado proveerán, en el marco de sus res
 
 Lo tendrá entendido el Gobernador del Estado y hará que se publique y se cumpla.
 
-“Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 3 de Mayo de 2017.- Dip. Samuel Gurrión Matías. Presidente.- Dip. Hilda Graciela Pérez Luis. Secretaria.- Dip. Eufrosina Cruz Mendoza. Secretaria.- Dip. María Mercedes Rojas Saldaña. Secretaria.- Rúbricas.”
+"Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 3 de Mayo de 2017.- Dip. Samuel Gurrión Matías. Presidente.- Dip. Hilda Graciela Pérez Luis. Secretaria.- Dip. Eufrosina Cruz Mendoza. Secretaria.- Dip. María Mercedes Rojas Saldaña. Secretaria.- Rúbricas."
 
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno, Centro, Oax., a 04 de Mayo de 2017. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. Mtro. Alejandro Ismael Murat Hinojosa.- Rúbrica.- El Secretario General de Gobierno. Lic. Héctor Anuar Mafud Mafud.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 658.- MEDIANTE EL CUAL REFORMA EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NUMERO 602, EMITIDO POR LA LXIII LEGISLATURA CONSTITUCIONAL DEL ESTADO, MEDIANTE EL CUAL SE EXPIDIÓ LA LEY DEL SISTEMA ESTATAL DE COMBATE A LA CORRUPCIÓN, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO EL DÍA VEINTE DE MAYO DEL AÑO DOS MIL DIECISIETE”.]
+
+ÚNICO: El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
