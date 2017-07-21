@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-transparencia-y-acceso-a-la-informacion-94655"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-06-11"
-last_updated: "2013-06-11"
+last_updated: "2017-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94655&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUTO, PUBLICADO EN EL P.O. DE 21 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 11 de junio del 2013.
 
@@ -326,3 +328,27 @@ Lo anterior, se asienta para debida constancia, a los catorce días del mes de m
 El Secretario General del Consejo del Poder Judicial del Estado.
 
 Lic. Héctor Tinajero Muñoz.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL " REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUTO”.]
+
+PRIMERO. El presente reglamento iniciará su vigencia al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+SEGUNDO. Se abroga el Reglamento Transparencia y Acceso a la Información Pública del Poder Judicial aprobado por el Consejo del Poder Judicial del Estado de Guanajuato en sesión-celebrada el 7 de mayo de 2013 y publicado en el Periódico Oficial del Gobierno del Estado de fecha 11 de junio de 2013.
+
+TERCERO. Los lineamientos que establece este Reglamento deberán expedirse, así como ajustarse los que estén vigentes y que tengan que ver con su ejecución, a más tardar en un plazo de tres meses a partir de la entrada en vigor de mismo.
+
+CUARTO. Las solicitudes de acceso a la información y los recursos interpuestos antes de la entrada en vigor del presente Reglamento deberán ser concluidos conforme a lo dispuesto en el Reglamento y normas vigentes en ese momento o, conforme a lo dispuesto en el presente Reglamento si así lo solicita la o el interesado.
+
+QUINTO. El Comité de Transparencia deberá quedar integrado e instalado formalmente a más tardar treinta días después de la entrada en vigor de este Reglamento.
+
+SEXTO. La o el Titular de la Unidad de Transparencia deberá ser nombrado por la Presidencia del Supremo Tribunal en el plazo señalado en el Transitorio Quinto. En tanto inicia en sus funciones continuará en ejercicio el actual titular de dicha Unidad.
+
+SÉPTIMO. Los recursos materiales y financieros, así como las plazas, con que cuente actualmente la Unidad de Transparencia continuarán como parte de ésta.
+
+OCTAVO. A más tardar en seis meses a partir de la entrada en vigor de este Reglamento, el Poder Judicial deberá, de acuerdo con los lineamientos que emita el Comité de Transparencia, adecuar su Portal de internet, para facilitar que toda persona tenga la posibilidad de acceder de forma remota a la información que describe este Reglamento.
+
+NOVENO. La obligación de publicar las versiones públicas de las sentencias dictadas por el Pleno y por las Salas, así como aquellas dictadas por Juezas y Jueces que por su contenido sean de interés público y las resoluciones dictadas en los procedimientos disciplinarios una vez que hayan causado estado, será aplicable a partir de la fecha en que inició la vigencia de la Ley de Transparencia y Acceso a la Información Pública del Estado de Guanajuato.
