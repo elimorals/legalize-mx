@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-prevenir-y-eliminar-la-discriminacion-y-la-65198"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-02"
-last_updated: "2016-12-08"
+last_updated: "2017-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN Y LA VIOLENCIA EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el viernes 2 de enero de 2009.
 
@@ -389,13 +389,21 @@ III. Crear programas permanentes de capacitación para el empleo y fomento para 
 
 ### CAPÍTULO PRIMERO. ALERTA DE DISCRIMINACIÓN Y VIOLENCIA
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2017)</small>
+
 ###### Artículo 15.
 
-La declaratoria de alerta de discriminación y violencia será emitida por el Titular del Poder Ejecutivo del Estado, ante situaciones de notoria urgencia que contravengan los objetivos y las disposiciones de esta Ley. Podrá ser solicitada por el Consejo, ayuntamientos u organizaciones de la sociedad civil.
+La declaratoria de Alerta de Discriminación y Violencia será emitida por el Titular del Poder Ejecutivo, ante situaciones de notoria urgencia que contravengan los objetivos y las disposiciones de esta Ley. Podrá ser solicitada por el Consejo, ayuntamientos, Comisión Estatal de los Derechos Humanos u organizaciones de la sociedad civil.
+
+La Alerta de Discriminación y Violencia tendrá como objetivo fundamental garantizar la dignidad y seguridad de las víctimas, el cese de la violación a sus derechos humanos y resarcir el daño causado, por lo que se deberá establecer un grupo interinstitucional y multidisciplinario el cual será coordinado por el titular del Consejo.
 
 ###### Artículo 16.
 
 El Titular del Poder Ejecutivo del Estado dará aviso a los ayuntamientos que se vean afectados con la declaratoria, a fin de coadyuvar en la implementación de estrategias y acciones conjuntas. Las autoridades responsables e intervinientes deberán estar atentas a éstas.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2017)</small>
+
+Artículo 16 bis. La Comisión Estatal de los Derechos Humanos, una vez emitida la Alerta de Discriminación y Violencia, dará seguimiento a las políticas públicas y acciones de gobierno creadas para dicho fin, pudiendo emitir opinión sobre las mismas para mejor beneficio de los afectados, la cual se remitirá directamente al Consejo.
 
 ###### Artículo 17.
 
@@ -840,3 +848,9 @@ P.O. 8 DE DICIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 194 POR EL QUE “SE REFORMA EL ARTÍCULO 44 DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN Y LA VIOLENCIA EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 21 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 371 POR EL QUE “SE REFORMA EL ARTÍCULO 15 Y SE ADICIONA EL ARTÍCULO 16 BIS A LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN Y LA VIOLENCIA EN EL ESTADO DE MICHOACÁN DE OCAMPO.”]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación
