@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-a-la-informacion-publica-y-proteccion-de-102296"
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-26"
-last_updated: "2016-10-14"
+last_updated: "2017-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY DE ACCESO A LA INFORMACION PUBLICA Y PROTECCION DE DATOS PERSONALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 21 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2017 (ABROGADA).
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 26 de agosto de 2014.
 
@@ -3584,3 +3586,23 @@ P.O. 14 DE OCTUBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 21 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 905.- SE CREA LA LEY DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, sin perjuicio de lo previsto en los transitorios siguientes.
+
+SEGUNDO.- Se abroga la Ley de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial del Gobierno del Estado, el 26 de agosto del 2014 y se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- El instituto deberá de modificar y armonizar el Reglamento de la Ley de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Coahuila de Zaragoza y el Reglamento Interior del Instituto Coahuilense de Acceso a la Información Pública, así como su estructura, organización y funcionamiento en un plazo de 90 días naturales, a partir de la entrada en vigor del presente decreto.
+
+En tanto no entren en vigor las modificaciones y adecuaciones, se estará a lo dispuesto por el Reglamento de la Ley de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Coahuila de Zaragoza, el Reglamento Interior del Instituto Coahuilense de Acceso a la Información Pública y demás ordenamientos con los que cuenta el instituto que sean aplicables, en lo que no contravengan a las disposiciones establecidas en el presente Decreto.
+
+CUARTO.- Las disposiciones referentes a la Comisión de Vigilancia, Evaluación y Disciplina de la ley que se abroga se seguirán aplicando hasta en tanto se nombre al Titular de la Contraloría interna del Instituto, conforme a la (sic) dispuesto a (sic) la Constitución Política del Estado de Coahuila de Zaragoza y demás ordenamientos aplicables.
+
+QUINTO.- Una vez que entre en funciones el Tribunal de Justicia Administrativa del Estado, contará con un plazo no mayor a tres meses para cumplir con lo previsto en la presente ley.
+
+El Tribunal de Conciliación y Arbitraje deberá realizar las adecuaciones técnicas y materiales a fin de dar cumplimiento a lo previsto en la presente ley, en un plazo no mayor a tres meses.
+
+SEXTO.- Cuando en otras disposiciones se haga referencia a la Ley de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Coahuila de Zaragoza, por ésta se entenderá, la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza, reservando lo referente a la materia de protección de datos personales a la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Coahuila de Zaragoza.
