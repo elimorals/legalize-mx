@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2017-07-18"
+last_updated: "2017-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2017.
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -2213,7 +2213,7 @@ IV. Se cometa por medio de escalamiento o empleo de llaves falsas;
 
 V. Se ejecute por una o varias personas armadas o que utilicen o porten otros objetos peligrosos;
 
-VI. El objeto del robo sea cualquier vehículo de motor estacionado en la vía pública o en lugar destinado a su guarda o reparación, sobre parte de él u objetos guardados en su interior;
+VI. (DEROGADA, P.O. 21 DE JULIO DE 2017)
 
 VII. Cuando participen una o más personas que pertenezcan o hayan pertenecido a corporaciones de seguridad de cualquier índole o a las fuerzas armadas; y,
 
@@ -2244,6 +2244,26 @@ III. Se comete aprovechando alguna relación de hospitalidad, servicio o de trab
 > <small>(REFORMADA, P.O. 28 DE MARZO DE 2016)</small>
 
 IV. Respecto de equipo, instrumentos, semillas o cualesquiera otros bienes destinados al aprovechamiento agrícola, forestal, agropecuario o respecto de productos de la misma índole.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2017)</small>
+
+###### Artículo 205 Bis.
+
+Robo de vehículo de motor terrestre.
+
+Se impondrá pena de 5 a 15 años de prisión y de 500 a 5000 días multa, a quien cometa robo que tenga como objeto un vehículo de motor terrestre, cualquiera de sus partes.
+
+Se impondrá pena de 12 a 25 años de prisión si el robo se efectúa en un vehículo de motor:
+
+I. Con violencia en las personas o en las cosas;
+
+II. Cuando este se utilice como instrumento para la comisión de otro delito;
+
+III. Cuando se realice en despoblado;
+
+IV. Cuando en el vehículo se encuentren mujeres, menores, personas con discapacidad o adultos mayores; y,
+
+V. Cuando se cometa por dos o más personas.
 
 ###### Artículo 206.
 
@@ -2304,6 +2324,10 @@ Este delito se perseguirá por querella.
 Receptación
 
 A los que adquieran, posean o enajenen objetos robados o de procedencia ilegal, que no hayan tomado las medidas indispensables para cerciorarse de que la persona de quien los recibió tenía derecho para disponer de ellos, se les aplicarán las mismas penas que correspondan a los autores del delito de robo simple.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2017)</small>
+
+En tratándose de vehículos de motor es indispensable la verificación del documento que acredite la propiedad o la relación entre el propietario o poseedor del mismo; así como la documentación que acredite su situación fiscal.
 
 > <small>(REFORMADO, P.O. 28 DE MARZO DE 2016)</small>
 
@@ -2441,9 +2465,9 @@ XIX. Al que por sí o por interpósita persona solicite dinero engañando con la
 
 XX. A quien por cualquier motivo, teniendo a su cargo la administración o el cuidado de bienes ajenos y con ánimo de lucro, perjudique al titular de éstos, alterando las cuentas o condiciones de los contratos, haciendo aparecer operaciones o gastos inexistentes o exagerando los reales, ocultando o reteniendo valores o empleándolos indebidamente, o a sabiendas, realice operaciones que perjudiquen el patrimonio del titular en beneficio propio o de un tercero; y,
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2017)</small>
 
-XXI. Al que por medio de engaños, artificios o maquinaciones acuerde de manera verbal o escrita, con una persona o agrupación dedicada a la producción, comercialización primaria de productos agropecuarios, pesqueros y forestales, obtenga un lucro en beneficio propio o de un tercero.
+XXI. Al que adquiera y reciba productos agropecuarios, pesqueros o forestales de cualquier especie, directamente o por interpósita persona, por compraventa, permuta o cualquier otra forma de comercialización, al contado o en abonos, y no pague la totalidad del precio, en el tiempo y la forma consensuados, obteniendo con ello un lucro en beneficio propio o de un tercero.
 
 ###### Artículo 219.
 
@@ -3976,3 +4000,21 @@ P.O. 18 DE JULIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 369 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 238, 239, 241, 243, 246, 247, 248, 251, 253, 254, 260 Y 270; SE ADICIONAN LOS ARTÍCULOS 243 BIS, 247 BIS, 249 BIS Y 254 BIS; Y SE DEROGAN LOS CAPÍTULOS III DEL TÍTULO SEXTO Y EL CAPÍTULO II DEL TÍTULO DÉCIMO OCTAVO, ASÍ COMO LOS ARTÍCULOS 173, 174, 242, 244, 245, 261, 262, 263 Y 264, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 21 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 374 POR EL QUE "SE REFORMA LA FRACCIÓN XXI DEL ARTÍCULO 218 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 21 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 375 POR EL QUE “SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 212 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 21 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 376 POR EL QUE "SE DEROGA LA FRACCIÓN VI DEL ARTÍCULO 204 Y SE ADICIONA EL ARTÍCULO 205 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
