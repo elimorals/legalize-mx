@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-6480
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-01"
-last_updated: "2017-05-12"
+last_updated: "2017-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 1 de diciembre de 2008.
 
@@ -1571,7 +1571,9 @@ IV. Derechos humanos y Acceso a la Información Pública: Tiene a su cargo la at
 
 V. Desarrollo agropecuario y rural sustentable: Tiene a su cargo la atención de asuntos en materia de agricultura, ganadería, silvicultura, apicultura y acuicultura; normatividad y política para el desarrollo rural; abasto, comercialización y medidas para garantizar la autosuficiencia agroalimentaria en el Estado;
 
-VI. Desarrollo económico y turístico: Tiene a su cargo la atención de asuntos en materia de desarrollo industrial, comercial, fomento de inversiones productivas y economía solidaria, así como de promoción turística del Estado y municipios;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2017)</small>
+
+VI. Desarrollo económico, comercio y turismo: tiene a su cargo la atención de los asuntos en materia de desarrollo industrial, comercial, fomento de inversiones productivas y economía solidaria, así como de promoción turística del Estado y municipios;
 
 VII. Desarrollo social y vivienda: Tiene a su cargo la atención y análisis de programas de gobierno para el combate de la pobreza y fomento a la vivienda;
 
@@ -1603,7 +1605,9 @@ XV. Instructora: Tiene a su cargo la atención de asuntos en materia de juicio p
 
 XVI. Juventud y deporte: Tiene a su cargo la atención de asuntos en materia de atención y desarrollo de los jóvenes, y fomento de las actividades deportivas;
 
-XVII. Participación ciudadana: Tiene a su cargo la atención de asuntos en materia de atención ciudadana y participación de la sociedad;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2017)</small>
+
+XVII. Participación ciudadana: tiene a su cargo la atención de los asuntos relacionados con la participación e incidencia de los ciudadanos en los asuntos y decisiones de interés público, los procesos de formación de ciudadanía y el fortalecimiento de la cultura democrática;
 
 XVIII. Planeación y Presupuesto: Tiene a su cargo la atención de asuntos en materia de legislación fiscal estatal y municipal, así como realizar el estudio y dictamen del presupuesto de egresos y las iniciativas de Ley de ingresos de Gobierno del Estado y de los Municipios. Asimismo, es competente para realizar modificaciones al presupuesto de egresos de la Legislatura y a las políticas y lineamientos relativos al empleo de los recursos asignados;
 
@@ -2506,3 +2510,13 @@ Artículo Primero. La presente Ley entrará en vigor a partir del día de su apr
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. Remítase la presente Ley, al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 21 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA LAS FRACCIONES VI Y XVII, DEL ARTÍCULO 145 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO."]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día de su aprobación por el Pleno de la Quincuagésima Octava Legislatura del Estado de Querétaro.
+
+Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. Una vez aprobado el presente ordenamiento legal por el Pleno de la Quincuagésima Octava Legislatura del Estado de Querétaro, envíese al titular del Poder Ejecutivo del Estado para su debida publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
