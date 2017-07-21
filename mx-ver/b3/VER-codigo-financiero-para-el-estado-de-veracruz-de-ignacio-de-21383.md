@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2017-02-16"
+last_updated: "2017-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "VER"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE OCTUBRE DE 2017 EN LA G.O. DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO NÚMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE JULIO DE 2017.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -2875,9 +2877,13 @@ e) Descripción clara de la política de gasto público, la cual deberá mostrar
 
 f) Ingresos obtenidos y gastos realizados del ejercicio presupuestal inmediato anterior;
 
-g) Cartera de proyectos de inversiones públicas productivas de ejecución multianual que pretendan iniciarse en el ejercicio así como los contratos de prestación de servicios a largo plazo celebrados de conformidad con la Ley de Proyectos para la Prestación de Servicios para el Estado de Veracruz de Ignacio de la Llave, detallando los montos a ejercer en ejercicios subsecuentes; y
+> <small>(REFORMADO, G.O. 21 DE JULIO DE 2017)</small>
 
-h) Los proyectos de inversiones públicas productivas de ejecución multianual iniciados en ejercicios anteriores así como los contratos de prestación de servicios a largo plazo celebrados de conformidad con la Ley de Proyectos para la Prestación de Servicios para el Estado de Veracruz de Ignacio de la Llave, celebrados en ejercicios anteriores, detallando los montos a ejercer en el ejercicio.
+g) Cartera de proyectos de inversiones públicas productivas de ejecución multianual que pretendan iniciarse en el ejercicio, así como los contratos de prestación de servicios a largo plazo celebrados de conformidad con la Ley de Adquisiciones Público-Privadas para el Estado de Veracruz de Ignacio de la Llave, detallando los montos a ejercer en ejercicios subsecuentes; y
+
+> <small>(REFORMADO, G.O. 21 DE JULIO DE 2017)</small>
+
+h) Los proyectos de inversiones públicas productivas de ejecución multianual iniciados en ejercicios anteriores, así como los contratos de prestación de servicios a largo plazo celebrados de conformidad con la Ley de Asociaciones Público-Privadas para el Estado de Veracruz de Ignacio de la Llave, celebrados en ejercicios anteriores, detallando los montos a ejercer en el ejercicio.
 
 II. Estados financieros del último ejercicio fiscal y estimación que se tendrá al fin del ejercicio fiscal en curso;
 
@@ -3845,15 +3851,19 @@ La Secretaría podrá establecer lineamientos generales para el otorgamiento de 
 
 Corresponde a las unidades administrativas o equivalentes de las dependencias y entidades conservar la documentación respectiva y, en su caso, remitirla a la Secretaría para que ésta proceda a ejercitar los derechos que correspondan al Gobierno del Estado, a cuyo efecto y con la debida oportunidad, se le presentará la información y documentación necesarios.
 
-> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE JULIO DE 2017)</small>
 
 ###### Artículo 239.
 
-El Gobierno del Estado está exento de otorgar garantías y depósitos para el cumplimiento de sus obligaciones de pago con cargo a su presupuesto, con excepción de las previstas para garantizar el pago de; (i) deuda pública estatal directa o contingente o (ii) las obligaciones que deba pagar el Estado o los municipios o las entidades estatales o municipales adquiridas por la celebración de contratos de prestación de servicios de conformidad con la Ley de Proyectos para la Prestación de Servicios para el Estado de Veracruz de Ignacio de la Llave.
+El Gobierno del Estado está exento de otorgar garantías y depósitos para el cumplimiento de sus obligaciones de pago con cargo a su presupuesto, con excepción de las previstas para garantizar el pago de (i) deuda pública estatal directa o contingente o (ii) las obligaciones que deba pagar el Estado, los municipios o las entidades estatales o municipales adquiridas por la celebración de contratos de prestación de servicios de conformidad con la Ley de Asociaciones Público-Privadas para el Estado de Veracruz de Ignacio de la Llave.
+
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
 
 Tratándose de deuda pública, la Secretaria otorgará las garantías y avales a cargo del gobierno estatal, mediante la suscripción, en términos de su competencia, de los documentos que las constituyan y, cuando así proceda, promoverá la oportuna cancelación de dichas obligaciones.
 
-Tratándose de las obligaciones que deba pagar el Estado o los municipios o las entidades estatales o municipales adquiridas por la celebración de contratos de prestación de servicios, de conformidad con la Ley de Proyectos para la Prestación de Servicios para el Estado de Veracruz de Ignacio de la Llave, se otorgarán las garantías correspondientes mediante la suscripción de documentos que las constituyan, así como también podrán implementarse mecanismos financieros y documentos que las conformen, cuando así proceda promover la oportuna cancelación de dichas obligaciones de pago establecidas en los mismos.
+> <small>(REFORMADO, G.O. 21 DE JULIO DE 2017)</small>
+
+Tratándose de las obligaciones que deba pagar el Estado o los municipios o las entidades estatales o municipales adquiridas por la celebración de contratos de prestación de servicios, de conformidad con la Ley de Asociaciones Público-Privadas para el Estado de Veracruz de Ignacio de la Llave, se otorgarán las garantías correspondientes mediante la suscripción de documentos que lo constituyan, así como también podrán implementarse mecanismos financieros y documentos que las conformen, cuando así proceda promover la oportuna cancelación de dichas obligaciones de pago establecidas en los mismos.
 
 > <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2004)</small>
 
@@ -4603,9 +4613,9 @@ La deuda pública deberá ser transparentada y publicada en términos de la Ley 
 
 La deuda pública, en su conjunto, se integra por las obligaciones directas o indirectas a cargo del Estado, por sí o por sus entidades paraestatales, derivadas de la celebración de financiamientos, reestructuraciones, adquisición de bienes o contratación de obra o servicios cuyo pago se pacte a plazos, así como la emisión de valores, tales como bonos u obligaciones de deuda, certificados bursátiles y pagarés en los que el Estado asuma obligaciones directas o contingentes, constituidos en términos de lo dispuesto por este Código y la celebración de actos jurídicos análogos que, previa autorización del Congreso, se generen a cargo del Estado, por sí o por sus entidades, obligaciones que podrán tener como garantía o fuente de pago, o ambas, los ingresos estatales derivados de impuestos, derechos, productos, aprovechamientos y sus respectivos accesorios, así como las participaciones federales derivadas del Sistema Nacional de Coordinación Fiscal.
 
-> <small>(ADICIONADO, G.O. 26 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.O. 21 DE JULIO DE 2017)</small>
 
-Las obligaciones directas o indirectas a cargo del Estado o municipios, o las entidades estatales o municipales, que sean consecuencia de la creación de fuentes de pago indirectas, mecanismos financieros o fuentes alternas de pago, respecto de los contratos de prestación de servicios a que se refiere la Ley de Proyectos para la Prestación de Servicios para el Estado de Veracruz de Ignacio de la Llave, no constituirán deuda pública y se registrarán como gasto corriente.
+Las obligaciones directas o indirectas a cargo del Estado o municipios, o las entidades estatales o municipales, que sean consecuencia de la creación de fuentes de pago indirectas, mecanismos financieros o fuentes alternas de pago, respecto de los contratos de prestación de servicios a que se refiere la Ley de Asociaciones Público-Privadas para el Estado de Veracruz de Ignacio de la Llave, no constituirán deuda pública y se registrarán como gasto corriente.
 
 ###### Artículo 314.
 
@@ -4917,11 +4927,11 @@ Para la cancelación de la inscripción en el Registro Público de Deuda Estatal
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE JULIO DE 2017)</small>
 
 ###### Artículo 344.
 
-Las participaciones que corresponden al Estado y los Municipios son inembargables, no pueden afectarse para fines específicos, ni estar sujetas a retención, salvo para el pago de obligaciones contraídas con apego a lo dispuesto en este Código, a cargo del Estado o municipios, entidades estatales o municipales incluyendo las que provengan de la celebración de los contratos de prestación de servicios a que se refiere la Ley de Proyectos para la Prestación de Servicios para el Estado de Veracruz de Ignacio de la Llave, o de los fideicomisos bursátiles establecidos de conformidad con el artículo 175 del presente Código, que hayan requerido de afectación en pago, en garantía o en ambos, para la emisión de valores tales como bonos, obligaciones de deuda, certificados bursátiles y pagarés y la celebración de actos jurídicos análogos ante personas físicas o morales de nacionalidad mexicana.
+Las participaciones que corresponden al Estado y los municipios son inembargables, no pueden afectarse para fines específicos, ni estar sujetas a retención, salvo para el pago de obligaciones contraídas con apego a lo dispuesto en este Código, a cargo del Estado o municipios, entidades estatales o municipales, incluyendo las que provengan de la celebración de los contratos de prestación de servicios a que se refiere la Ley de Asociaciones Público-Privadas para el Estado de Veracruz de Ignacio de la Llave, o de los fideicomisos bursátiles establecidos de conformidad con el artículo 175 del presente Código, que hayan requerido de afectación de pago, en garantía o en ambos, para la emisión de valores tales como bonos, obligaciones de deuda, certificados bursátiles y pagarés y la celebración de actos jurídicos análogos ante personas físicas o morales de nacionalidad mexicana.
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -4951,11 +4961,11 @@ De no demostrar el cumplimiento se procederá a efectuar los pagos de las erogac
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE JULIO DE 2017)</small>
 
 ###### Artículo 347.
 
-Los ingresos derivados de impuestos, derechos, productos, aprovechamientos, sus respectivos accesorios, así como las participaciones federales y los demás ingresos derivados de la coordinación fiscal cuya recaudación corresponde al Estado son inembargables, no pueden afectarse para fines específicos, ni estar sujetos a retención, salvo para financiar rubros específicos del gasto público determinados en la propia Ley, así como para el pago de obligaciones contraídas con apego a lo dispuesto en este Código a cargo del Estado, incluyendo las que provengan de los contratos de prestación de servicios a que se refiere la Ley de Proyectos para la Prestación de Servicios para el Estado de Veracruz de Ignacio de la Llave, o de los fideicomisos bursátiles establecidos de conformidad con el artículo 175 del presente Código, que hayan requerido de su afectación en pago o en garantía o en ambos, para la emisión de valores, tales como bonos, obligaciones de deuda, certificados bursátiles, pagarés y para la celebración de actos jurídicos análogos ante personas físicas o morales de nacionalidad mexicana.
+Los ingresos derivados de impuestos, derechos, productos, aprovechamientos y sus respectivos accesorios, así como las participaciones federales y los demás ingresos derivados de la coordinación fiscal cuya recaudación corresponde al Estado son inembargables, no pueden afectarse para fines específicos, ni estar sujetos a retención, salvo para financiar rubros específicos del gasto público determinados en la propia Ley, así como para el pago de obligaciones contraídas con apego a los (sic) dispuesto en este Código a cargo del Estado, incluyendo las que provengan de los contratos de prestación de servicios a que se refiere la Ley de Asociaciones Público-Privadas para el Estado de Veracruz de Ignacio de la Llave, o de los fideicomisos bursátiles establecidos de conformidad con el artículo 175 del presente Código, que hayan requerido de su afectación de pago, en garantía o en ambos, para la emisión de valores, tales como bonos, obligaciones de deuda, certificados bursátiles, pagarés y para la celebración de actos jurídicos análogos ante personas físicas o morales de nacionalidad mexicana.
 
 > <small>(ADICIONADO, G.O. 24 DE JULIO DE 2003)</small>
 
@@ -5426,3 +5436,11 @@ Cuarto. Bajo ninguna circunstancia, los recursos que se obtengan por los concept
 Quinto. Para la recepción, administración, distribución y comprobación del ochenta por ciento de los recursos que previene el presente Decreto, funcionarán consejos de administración integrados por los titulares de la dirección, subdirección y contraloría de cada plantel educativo.
 
 Asimismo, para la recepción, administración, distribución y comprobación del veinte por ciento de los recursos que previene el presente Decreto, funcionarán consejos de administración integrados por los titulares de las jefaturas de sector, inspecciones y jefaturas de enseñanza, según corresponda.
+
+G.O. 21 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 301 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ASOCIACIONES PÚBLICO-PRIVADAS Y EL CÓDIGO FINANCIERO, AMBOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
