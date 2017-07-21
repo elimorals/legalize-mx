@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-31-2015-del-pleno-del-consejo-de-la-109062"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-07-22"
-last_updated: "2017-07-20"
+last_updated: "2017-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109062&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2015-06-24"
 
 ACUERDO GENERAL 31/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE JULIO DE 2017.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 22 de julio de 2015.
 
@@ -137,9 +137,11 @@ El Juez de Ejecución tendrá la competencia que establece la Ley Nacional de Ej
 
 La jurisdicción territorial de los juzgadores del Centro comprenderá el Estado de Guanajuato, con la totalidad de sus municipios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JULIO DE 2017)</small>
+
 ###### Artículo 7.
 
-El domicilio del Centro será el ubicado en Carretera Cuatro Carriles Guanajuato-Silao, Glorieta Santa Fe, Número 5, Colonia Yerbabuena, código postal 36251, Guanajuato, Guanajuato.
+El domicilio del Centro será el ubicado en Carretera 4 Carriles, Glorieta Santa Fe, Número 7, Colonia Yerbabuena, Código Postal 36250, Guanajuato, Guanajuato.
 
 Toda la correspondencia relacionada con los asuntos de competencia del Centro deberá dirigirse al domicilio indicado.
 
@@ -1847,7 +1849,17 @@ V. a XIII. ..."
 
 CUARTO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 31.- SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 71 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS”.]
+D.O.F. 21 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 11/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO AL CAMBIO DE DOMICILIO DE LOS CENTROS DE JUSTICIA PENAL FEDERAL EN LOS ESTADOS DE GUANAJUATO, PUEBLA Y QUERÉTARO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el 1 de agosto de 2017, con excepción de lo previsto en el Transitorio Tercero de este Acuerdo.
+
+A partir de la fecha señalada en el párrafo anterior, toda la correspondencia, trámites y diligencias relacionados con los asuntos de la competencia de los Centros de Justicia Penal Federal de que se trata, deberán dirigirse y realizarse en los domicilios señalados en el presente Acuerdo.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. Los Centros de Justicia Penal Federal en los Estados de Guanajuato, Puebla, y Querétaro, a partir del día de aprobación de este Acuerdo, deberán colocar avisos en lugares visibles en relación con el cambio de domicilio.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 95.- REFORMAS A LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS, Y A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES".]
 
