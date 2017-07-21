@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-33-2015-del-pleno-del-consejo-de-la-109064"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-07-22"
-last_updated: "2017-07-20"
+last_updated: "2017-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109064&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2015-06-24"
 
 ACUERDO GENERAL 33/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE JULIO DE 2017.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 22 de julio de 2015.
 
@@ -97,7 +97,7 @@ VIII. Tribunal de Alzada: Tribunal Unitario de Circuito con competencia especial
 
 El Centro iniciará funciones a partir de las cero horas del uno de agosto de dos mil quince.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMERO, D.O.F. 20 DE JULIO DE 2017)</small>
 
 ###### Artículo 4.
 
@@ -123,9 +123,11 @@ El Juez de Ejecución tendrá la competencia que establece la Ley Nacional de Ej
 
 La jurisdicción territorial de los juzgadores del Centro comprenderá el Estado de Querétaro, con la totalidad de sus municipios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JULIO DE 2017)</small>
+
 ###### Artículo 7.
 
-El domicilio del Centro será el ubicado en Calle José Siurob número 13, Colonia Alameda, código postal 76040, Querétaro, Querétaro.
+El domicilio del Centro será el ubicado en Calle Microindustriales, número 201, Colonia Microindustriales de San José El Alto, Código Postal 76147, Querétaro, Querétaro.
 
 Toda la correspondencia relacionada con los asuntos de competencia del Centro deberá dirigirse al domicilio indicado.
 
@@ -351,7 +353,7 @@ II. a XXXIII. …”.
 
 D.O.F. 20 DE JULIO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 7/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES PARA ESTABLECER LA ADSCRIPCIÓN DE LOS JUECES DE DISTRITO CON COMPETENCIA EN EJECUCIÓN, EN LOS CENTROS DE JUSTICIA PENAL FEDERAL".]
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 7/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES PARA ESTABLECER LA ADSCRIPCIÓN DE LOS JUECES DE DISTRITO CON COMPETENCIA EN EJECUCIÓN, EN LOS CENTROS DE JUSTICIA PENAL FEDERAL.”]
 
 PRIMERO. El presente Acuerdo entrará en vigor el uno de agosto de dos mil diecisiete, con excepción de lo previsto en el párrafo siguiente.
 
@@ -448,3 +450,15 @@ IV Ter. Centro de Justicia Penal Federal en el Estado de México, con sede en Al
 V. a XIII. ..."
 
 CUARTO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+D.O.F. 21 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 11/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO AL CAMBIO DE DOMICILIO DE LOS CENTROS DE JUSTICIA PENAL FEDERAL EN LOS ESTADOS DE GUANAJUATO, PUEBLA Y QUERÉTARO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el 1 de agosto de 2017, con excepción de lo previsto en el Transitorio Tercero de este Acuerdo.
+
+A partir de la fecha señalada en el párrafo anterior, toda la correspondencia, trámites y diligencias relacionados con los asuntos de la competencia de los Centros de Justicia Penal Federal de que se trata, deberán dirigirse y realizarse en los domicilios señalados en el presente Acuerdo.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. Los Centros de Justicia Penal Federal en los Estados de Guanajuato, Puebla, y Querétaro, a partir del día de aprobación de este Acuerdo, deberán colocar avisos en lugares visibles en relación con el cambio de domicilio.
