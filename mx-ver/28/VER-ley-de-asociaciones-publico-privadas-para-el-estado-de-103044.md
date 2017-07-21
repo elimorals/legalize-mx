@@ -4,7 +4,7 @@ identifier: "VER-ley-de-asociaciones-publico-privadas-para-el-estado-de-103044"
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-24"
-last_updated: "2015-08-07"
+last_updated: "2017-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103044&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # LEY DE ASOCIACIONES PUBLICO-PRIVADAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE OCTUBRE DE 2017 EN LA G.O. DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE ASOCIACIONES PÚBLICO-PRIVADAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE JULIO DE 2017.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 24 de octubre de 2014.
 
@@ -59,6 +61,22 @@ I. Las dependencias y entidades de la administración pública estatal; y
 
 II. Los municipios y sus entes públicos
 
+> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2017)</small>
+
+III. El Poder Legislativo;
+
+> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2017)</small>
+
+IV. El Poder Judicial; y
+
+> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2017)</small>
+
+V. Organismos Constitucionales Autónomos.
+
+> <small>(ADICIONADO, G.O. 21 DE JULIO DE 2017)</small>
+
+Los Organismos Constitucionales Autónomos, Poderes Legislativo y Judicial actuarán por conducto de sus respectivos órganos administrativos. Siempre que en esta Ley se usen los términos dependencia, entidad, ejecutor, contratante, concedente u otros términos análogos, se entenderán incluidos los Organismos Constitucionales, el Poder Legislativo y el Poder Judicial.
+
 ###### Artículo 2.
 
 Los proyectos de asociación público-privada regulados por esta Ley, son aquellos que se realicen bajo cualquier esquema para establecer una relación de largo plazo entre el Gobierno del Estado de Veracruz o los municipios y el sector privado, con aportación de capital privado, pudiéndose asociar con la banca de desarrollo para la ejecución de proyectos de infraestructura o prestación de servicios que generalmente ejecuta la administración estatal o municipal.
@@ -71,9 +89,9 @@ También podrán ser proyectos de asociación público-privada los que se realic
 
 En este último caso, las dependencias y entidades optarán en igualdad de condiciones, por el desarrollo de proyectos con instituciones de educación superior y centros de investigación científico-tecnológicas públicas del Estado, promoviendo la participación de las micro, pequeñas y medianas empresas de la entidad.
 
-> <small>(ADICIONADO, G.O. 7 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, G.O. 21 DE JULIO DE 2017)</small>
 
-Los esquemas de asociación pública-privada podrán contar con fuentes de financiamiento y de pago que el Estado y/o las entidades y dependencias estatales y municipales obtengan de la Federación, Entidad o Municipio, mediante la aplicación de las disposiciones que sean aplicables, así como otro tipo de recursos provenientes de actividades productivas de las que se puedan obtener recursos adicionales para el Estado de Veracruz.
+Los esquemas de asociación pública-privada podrán contar con fuentes de financiamiento y de pago que el Estado y/o las entidades y dependencias estatales y municipales obtengan de la Federación, entidad o municipio, mediante la aplicación de las disposiciones que sean aplicables, así como otro tipo de recursos provenientes de actividades productivas de las que se puedan obtener recursos adicionales para el Estado de Veracruz. Todos los pagos que realicen las dependencias y entidades contratantes de proyectos de asociaciones público-privadas deberán destinarse a inversiones públicas productivas o a la contratación de servicios que incluyan un componente de inversión pública productiva, así como en su caso, a cubrir gastos, costos, indemnizaciones y reservas relacionadas con el proyecto de que se trate.
 
 ###### Artículo 3.
 
@@ -160,6 +178,10 @@ Los inmuebles del Estado que sean parte de un proyecto de asociación público-p
 ###### Artículo 9.
 
 A falta de norma expresa en esta Ley y demás disposiciones que de ella se deriven, se aplicarán supletoriamente la Ley de Adquisiciones, Arrendamientos, Administración y Enajenación de Bienes Muebles del Estado, el Código Financiero, la Ley de Ingresos, la Ley de Obras Públicas y Servicios Relacionados con ella, el Código Civil, la Ley de Bienes y la Ley de Planeación para el Estado de Veracruz.
+
+> <small>(ADICIONADO, G.O. 21 DE JULIO DE 2017)</small>
+
+La Ley de Disciplina Financiera de las Entidades Federativas y los Municipios será aplicable, en lo conducente, a los proyectos de asociaciones público-privadas materia de esta Ley. En caso de contradicciones o inconsistencias entre la presente Ley y la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, prevalecerá ésta última.
 
 ###### Artículo 10.
 
@@ -275,6 +297,14 @@ VIII. Indicadores asociados a la rentabilidad social, financiera y económica de
 
 IX. Resultado de la evaluación de la conveniencia a que se refiere la fracción X del Artículo anterior.
 
+> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2017)</small>
+
+X. Cualquier concepto que represente un costo para el ente público contratante.
+
+> <small>(ADICIONADO, G.O. 21 DE JULIO DE 2017)</small>
+
+Una vez celebrados los contratos de asociación público privada, a más tardar diez días posteriores a la inscripción en el Registro Público Único a que se refiere la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, el contratante deberá publicar en su página oficial de internet los instrumentos respectivos. Asimismo, el contratante presentará en los informes trimestrales a que se refiere la Ley General de Contabilidad Gubernamental y en la respectiva cuenta pública, la información detallada de cada contrato de asociación público-privada celebrado en términos de la presente Ley, siendo obligatorio hacer público todos los conceptos que representen un costo para el contratante.
+
 Dicha información será de carácter público, exceptuando aquella, que por su naturaleza, se considere reservada o confidencial, en términos de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Veracruz de Ignacio de la Llave.
 
 La dependencia, entidad o el municipio emitirá un reporte semestral del avance que guarda el proyecto y lo enviará al Congreso del Estado de Veracruz de Ignacio de la Llave. Asimismo, lo publicará en su página de internet.
@@ -301,13 +331,25 @@ La prioridad de los proyectos que se desarrollen mediante asociación publico- p
 
 Para el caso que el proyecto de asociación público-privada requiera de autorizaciones, permisos o concesiones previas, la Dependencia, Entidad o el Municipio junto con el inversionista, expondrán a la autoridad competente los beneficios de la realización del proyecto para obtener dichas autorizaciones, permisos o concesiones.
 
+> <small>(REFORMADO, G.O. 21 DE JULIO DE 2017)</small>
+
 ###### Artículo 23.
 
-Para el caso de proyectos que requieran subvención para la asociación público-privada con recursos públicos por más de un ejercicio fiscal, deberá contar con la autorización del Congreso del Estado de Veracruz de Ignacio de la Llave.
+La Legislatura del Estado, por el voto de las dos terceras partes de sus miembros presentes, autorizará los montos máximos para la contratación de obligaciones derivadas de proyectos de asociaciones público-privadas. Para el otorgamiento de dicha autorización, la Legislatura deberá realizar previamente, un análisis de la capacidad de pago del ente público a cuyo cargo estarían las obligaciones correspondientes, del destino de los recursos y, en su caso, del otorgamiento de recursos como garantía o fuente de pago.
 
-Si el proyecto de asociación público-privada no requiere de recursos públicos, no será necesaria la autorización del Congreso del Estado de Veracruz de Ignacio de la Llave, independientemente del plazo de duración del mismo, al no afectarse en forma alguna las finanzas públicas. En este supuesto la dependencia o entidad notificará al Congreso del Estado de Veracruz de Ignacio de la Llave los proyectos autorizados.
+La autorización referida en el párrafo anterior deberá especificar por lo menos lo siguiente:
 
-Para el caso de los proyectos de asociación público-privada que lleven a cabo los municipios, se requerirá la autorización del Congreso del Estado de Veracruz, como lo dispone el artículo 33 fracción XVI, incisos a) y f) de la Constitución Política del Estado de Veracruz.
+I. Monto autorizado de las obligaciones a incurrir;
+
+II. Plazo máximo autorizado para el pago;
+
+III. Destino de los recursos;
+
+IV. En su caso, la fuente de pago o garantía, y
+
+V. En caso de autorizaciones específicas, establecer la vigencia de la autorización, en cuyo caso no podrá exceder el Ejercicio Fiscal siguiente. De no establecer una vigencia, se entenderá que la autorización sólo se podrá ejercer en el Ejercicio Fiscal en que fue aprobada.
+
+Los proyectos de asociaciones público-privadas de los Poderes Legislativo y Judicial, al igual que los de los municipios, también podrán contar con una garantía o fuente de pago otorgada por parte del Gobierno del Estado, a través de la SEFIPLAN, siempre que lo autorice la Legislatura del Estado.
 
 ### CAPÍTULO SEGUNDO. DE LAS PROPUESTAS NO SOLICITADAS
 
@@ -393,7 +435,9 @@ El monto a reembolsar será determinado por ambas partes, con intervención de l
 
 La Dependencia, Entidad o el Municipio que pretenda el desarrollo de un proyecto de asociación público-privada, convocará a concurso que deberá llevarse a cabo conforme a los principios de legalidad, libre concurrencia y competencia, objetividad, imparcialidad, transparencia y publicidad, y en igualdad de condiciones para todos los participantes.
 
-En tales concursos se buscará adjudicar los proyectos en las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad, beneficio social y demás circunstancias pertinentes.
+> <small>(REFORMADO, G.O. 21 DE JULIO DE 2017)</small>
+
+En tales condiciones se buscará adjudicar los proyectos en las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad, beneficio social y demás circunstancias pertinentes. En todo caso, los poryectos (sic) serán contratados con quien presente mejores condiciones de mercado de acuerdo con el tipo de obligaciones a contratar y sujetándose, en lo conducente, a los artículos 26, 27 y demás aplicables de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 Para tal efecto, la Dependencia, Entidad o el Municipio se podrán auxiliar de una Gerencia de Proyectos, misma que deberá, en su caso, emitir opinión fundada y motivada.
 
@@ -415,11 +459,25 @@ Las notificaciones mediante correo electrónico tendrán los mismos efectos que 
 
 En los concursos podrá participar toda persona física o moral, nacional o extranjera, que cumpla los requisitos establecidos en la convocatoria, las bases y en las disposiciones aplicables al proyecto de que se trate, con las excepciones señaladas en el Artículo 39 de esta Ley.
 
-En caso de personas físicas, deberán obligarse a constituir, de resultar ganadoras, una persona moral en términos del Artículo 78 de esta Ley.
+> <small>(ADICIONADO, G.O. 21 DE JULIO DE 2017)</small>
 
-Dos o más personas podrán presentar una propuesta conjunta, en cuyo caso también deberán obligarse a constituir, de resultar ganadores, una o más personas morales, en los términos del Artículo 78 de esta Ley, así como designar a un representante común para participar en el concurso.
+No podrán celebrarse contratos de asociaciones público-privadas con gobiernos de otras naciones, con sociedades o particulares extranjeros, ni cuando deban pagarse en moneda extranjera o fuera del territorio nacional.
 
-La Dependencia, Entidad o Municipio promoverá la participación e inclusión de micro, pequeñas o medianas empresas locales, con especial énfasis en aquellos proyectos que tengan por objeto el desarrollo de ciencia y tecnología.
+> <small>(ADICIONADO, G.O. 21 DE JULIO DE 2017)</small>
+
+Para que los proyectos de asociaciones público-privadas puedan ser contratados con personas morales constituidas conforme a las leyes de los Estados Unidos Mexicanos que admitan la participación de inversionistas extranjeros, será necesarios (sic) que sus estatutos prevean de manera expresa que cualquier accionista o socio de la persona moral de que se trate, por el solo hecho de serlo, renuncia a la protección de su gobierno para cualquier conflicto que llegara a surgir relacionado con dicha persona moral, sus acciones, partes sociales, bienes, derechos, propiedades y contratos, bajo la pena de perderlos en beneficio del Gobierno de los Estados Unidos Mexicanos en caso de faltar a este acuerdo.
+
+> <small>(REFORMADO, G.O. 21 DE JULIO DE 2017)</small>
+
+En caso de personas físicas, deberán obligarse a constituir, de resultar ganadoras, una persona moral en términos del artículo 78 de esta Ley.
+
+> <small>(REFORMADO, G.O. 21 DE JULIO DE 2017)</small>
+
+Dos o más personas podrán presentar una propuesta conjunta, en cuyo caso también deberán obligarse a constituir, de resultar ganadores, una o más personas morales, en los términos del artículo 78 de esta Ley, así como designar a un representante común para participar en el concurso.
+
+> <small>(REFORMADO, G.O. 21 DE JULIO DE 2017)</small>
+
+La dependencia, entidad o municipio promoverá la participación e inclusión de micro, pequeñas o medianas empresas locales, con especial énfasis en aquellos proyectos que tengan por objeto el desarrollo de la ciencia y la tecnología.
 
 ###### Artículo 39.
 
@@ -680,6 +738,10 @@ Contra las demás resoluciones de la Convocante emitidas durante el concurso no 
 La formalización del contrato o adjudicación de la concesión del proyecto de asociación público-privada se efectuará en los plazos que las bases del concurso señalen.
 
 Si el instrumento correspondiente no se suscribe en el plazo señalado, por causa injustificada imputable al ganador, se harán efectivas las garantías correspondientes. En este supuesto, el proyecto podrá adjudicarse al segundo lugar y de no aceptar, a los subsecuentes lugares, siempre y cuando cumplan con todas las condiciones previstas en las bases del concurso.
+
+> <small>(ADICIONADO, G.O. 21 DE JULIO DE 2017)</small>
+
+El contrato o concesión correspondiente deberá inscribirse en el Registro de Deuda Pública Estatal y el Registro Público Único regulado por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios. Para tal efecto, el ente público contratante deberá presentar al Registro Público Único toda la información necesaria conforme a las disposiciones legales aplicables, incluyendo la relativa al monto de inversión del proyecto a valor presente y el pago mensual del servicio, identificando la parte correspondiente al pago de inversión, el plazo del contrato, así como las erogaciones pendientes de pago.
 
 ###### Artículo 61.
 
@@ -1402,3 +1464,11 @@ G.O. 7 DE AGOSTO DE 2015.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 21 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 301 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ASOCIACIONES PÚBLICO-PRIVADAS Y EL CÓDIGO FINANCIERO, AMBOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
