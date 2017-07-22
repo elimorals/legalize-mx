@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2017-06-08"
+last_updated: "2017-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2017.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -1885,15 +1885,11 @@ Los Ayuntamientos presentarán al Congreso del Estado su cuenta pública anual, 
 
 La aprobación del dictamen de revisión por el Cabildo no impide que, en su caso, el Congreso del Estado finque responsabilidades a los servidores públicos que hayan incurrido en ellas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2017)</small>
 
 ###### Artículo 96.
 
-Los ciudadanos de un municipio debidamente identificados, podrán presentar iniciativa popular de reglamento municipal, suscrita por un número que sea cuando menos el 3% de los inscritos en el padrón electoral municipal respectivo. Las iniciativas presentadas conforme a este párrafo, deberán ser dictaminadas a más tardar seis meses después de que se reciban. Esta facultad será reglamentada en los términos de la ley respectiva.
-
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
-
-Los actos de gobierno de las autoridades municipales podrán ser sometidos a plebiscito, en los términos de la ley respectiva.
+Los ciudadanos de un municipio debidamente identificados, podrán presentar iniciativa popular de reglamento municipal, suscrita por un número que sea cuando menos el 2% de los inscritos en la lista nominal de electores del municipio respectivo. Las iniciativas presentadas conforme a este párrafo, deberán ser dictaminadas a más tardar seis meses después de que se reciban. Esta facultad será reglamentada en los términos de la Ley respectiva.
 
 > <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
 
@@ -2503,9 +2499,9 @@ Con respecto a la vida, la libertad, igualdad y seguridad jurídica, se establec
 
 I.- La vida es un derecho inherente a toda persona. El Estado protegerá y garantizará este derecho desde el momento de la concepción. La familia constituye la base fundamental de la sociedad. El Estado fomentará su organización y desarrollo, por la misma razón; el hogar y, particularmente, la niñez será objeto de especial protección por parte de las autoridades, quienes velarán y cumplirán con el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Los niños tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez. Toda medida o disposición protectora de la familia y de la niñez, se considerarán de orden público. Toda persona tiene derecho a la identidad y a ser registrada de manera inmediata a su nacimiento. El Estado garantizará el cumplimiento de estos derechos. La autoridad competente expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento.
 
-> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2017)</small>
 
-El niño hasta la edad de 18 años y los adultos mayores de 65 años, tendrán derecho a recibir servicios médicos adecuados de manera gratuita en las instituciones de salud del Gobierno del Estado. La exención anterior se otorgará a los usuarios que pertenezcan a población abierta, con base en el estudio socioeconómico correspondiente y de acuerdo con la legislación aplicable.
+El niño hasta la edad de 18 años y los adultos mayores de 60 años, tendrán derecho a recibir servicios médicos adecuados de manera gratuita en las instituciones de salud del Gobierno del Estado. La exención anterior se otorgará a los usuarios que pertenezcan a población abierta, con base en el estudio socioeconómico correspondiente y de acuerdo con la legislación aplicable. Las personas con discapacidad que pertenezcan a población abierta, también gozarán del beneficio establecido en el párrafo anterior y, en el caso de que en su estudio socioeconómico correspondiente resulte que tienen capacidad económica suficiente para pagar la contraprestación, solamente pagarán el nivel mínimo del tabulador vigente de cuotas de recuperación.
 
 > <small>(ADICIONADO, P.O. 6 DE MAYO DE 2000)</small>
 
@@ -2599,9 +2595,9 @@ El organismo garante que establece este inciso, tendrá la facultad de interpone
 
 V.- Toda persona tiene derecho al trabajo, a la salud, a una alimentación nutritiva, suficiente y de calidad, así como a disfrutar de vivienda digna y decorosa en los términos que dispongan las leyes. El gobierno del Estado y los gobiernos municipales promoverán la construcción de vivienda popular e inducirán a los sectores privado y social hacia ese propósito, de conformidad con las disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2017)</small>
 
-Los pensionados y jubilados, así como los adultos mayores de 65 años en situación de vulnerabilidad, tendrán derecho a condiciones preferentes en el pago de los derechos estatales y municipales, en la forma y términos que determinen las leyes respectivas.
+Los pensionados y jubilados, así como los adultos mayores de 60 años en situación de vulnerabilidad, tendrán derecho a condiciones preferentes en el pago de los derechos estatales y municipales, en la forma y términos que determinen las leyes respectivas.
 
 > <small>(REFORMADA, P.O. 26 DE MARZO DE 1994)</small>
 
@@ -3688,6 +3684,22 @@ P.O. 8 DE JUNIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 314 POR EL QUE SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 22; LA FRACCIÓN V DEL ARTÍCULO 24; EL PRIMER PÁRRAFO DEL ARTÍCULO 28; EL SEXTO Y SÉPTIMO PÁRRAFOS DE LA FRACCIÓN I DEL ARTÍCULO 86 BIS; ASÍ COMO LAS FRACCIONES VI Y VII DEL ARTÍCULO 90; Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 24; UN PÁRRAFO DÉCIMO QUINTO A LA FRACCIÓN I DEL ARTÍCULO 86 BIS HACIÉNDOSE EL CORRIMIENTO DE LOS PÁRRAFOS SUBSECUENTES, ASÍ COMO, LA FRACCIÓN VIII AL ARTÍCULO 90, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN MATERIA POLÍTICO-ELECTORAL".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 22 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 328 POR EL QUE SE REFORMA LA FRACCIÓN I, PÁRRAFO SEGUNDO Y LA FRACCIÓN V, PÁRRAFO SEGUNDO AMBOS AL ARTÍCULO 1° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 22 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 329 POR EL QUE SE REFORMA EL ARTÍCULO 96 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Queda derogada toda disposición que contravenga lo dispuesto por el presente decreto.
+
+TERCERO.- Una vez aprobado el presente decreto, en un término de 30 días hábiles, se deberá armonizar lo relativo a reformar el artículo 20 de la Ley de Participación Ciudadana del Estado de Colima.
 
 ###### ARTÍCULO ÚNICO.
 
