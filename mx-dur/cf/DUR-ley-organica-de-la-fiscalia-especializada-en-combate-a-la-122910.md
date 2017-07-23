@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-fiscalia-especializada-en-combate-a-la-12291
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-07-16"
-last_updated: "2017-07-16"
+last_updated: "2017-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "DUR"
 ---
 # LEY ORGANICA DE LA FISCALIA ESPECIALIZADA EN COMBATE A LA CORRUPCION DEL ESTADO DE DURANGO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE JULIO DE 2017 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DE LA FISCALÍA ESPECIALIZADA EN COMBATE A LA CORRUPCIÓN DEL ESTADO DE DURANGO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 23 DE JULIO DE 2017.]</small>
 
 Ley publicada en el Número 57 del Periódico Oficial del Estado de Durango, el domingo 16 de julio de 2017.
 
@@ -191,9 +191,13 @@ IV. Tener diez años de experiencia profesional en materia penal contados a part
 
 V. No haber sido condenado por sentencia que haya causado ejecutoria, como responsable de un delito doloso, o por delito culposo considerado como grave por la ley ni estar sujeto a proceso penal;
 
-VII (SIC). No estar suspendido ni haber sido destituido o inhabilitado como servidor público por resolución firme, en los términos de las normas aplicables.
+> <small>(F. DE E., P.O. 23 DE JULIO DE 2017)</small>
 
-VIII.- No ser Secretario ni Subsecretario de Estado y/o de despacho en la Administración Pública Federal, Estatal o Municipal, Fiscal General del Estado, Magistrado del Tribunal Superior de Justicia, Magistrado del Tribunal de Justicia Administrativa, Magistrado del Tribunal Electoral o Magistrado del Tribunal de Menores Infractores, a menos que se haya separado de su cargo con un año antes del día de su designación.
+VI. No estar suspendido ni haber sido destituido o inhabilitado como servidor público por resolución firme, en los términos de las normas aplicables.
+
+> <small>(F. DE E., P.O. 23 DE JULIO DE 2017)</small>
+
+VII. No ser Secretario ni Subsecretario de Estado y/o de despacho en la Administración Pública Federal, Estatal o Municipal, Fiscal General del Estado, Magistrado del Tribunal Superior de Justicia, Magistrado del Tribunal de Justicia Administrativa, Magistrado del Tribunal Electoral o Magistrado del Tribunal de Menores Infractores, a menos que se haya separado de su cargo con un año antes del día de su designación.
 
 El Fiscal Especializado durará en su cargo 6 años y podrá ser ratificado para el ejercicio de otro periodo.
 
