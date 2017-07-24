@@ -4,7 +4,7 @@ identifier: "FED-decreto-que-crea-el-organismo-descentralizado-fondo-de-19984"
 country: "mx"
 rank: "decreto"
 publication_date: "1994-07-26"
-last_updated: "2005-10-11"
+last_updated: "2017-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19984&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "1992-07-25"
 ---
 # DECRETO QUE CREA EL ORGANISMO DESCENTRALIZADO FONDO DE CULTURA ECONOMICA
 
-DECRETO POR EL QUE SE CREA EL ORGANISMO DESCENTRALIZADO FONDO DE CULTURA ECONOMICA Y SE ORDENA LA DISOLUCION Y LIQUIDACION DE LA EMPRESA DE PARTICIPACION ESTATAL MAYORITARIA DEL MISMO NOMBRE
+DECRETO POR EL QUE SE CREA EL ORGANISMO DESCENTRALIZADO FONDO DE CULTURA ECONÓMICA Y SE ORDENA LA DISOLUCIÓN Y LIQUIDACIÓN DE LA EMPRESA DE PARTICIPACIÓN ESTATAL MAYORITARIA DEL MISMO NOMBRE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE OCTUBRE DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE JULIO DE 2017.
 
 Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 26 de julio de 1994.
 
@@ -85,15 +85,43 @@ V. Las aportaciones o donativos realizados en su favor por cualquier persona fí
 
 La administración del Fondo de Cultura Económica estará a cargo de una Junta Directiva y un Director General.
 
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2017)</small>
+
 ###### ARTICULO 5o.
 
-La Junta Directiva del Fondo de Cultura Económica estará integrada por trece miembros.
+La Junta Directiva del Fondo de Cultura Económica es el órgano supremo de gobierno y estará integrada por quince miembros.
 
-Serán miembros propietarios de la Junta Directiva el Secretario de Educación Pública, o la persona que éste designe, quien la presidirá, el Secretario de Relaciones Exteriores, el Secretario de Hacienda y Crédito Público, el Gobernador del Banco de México y el Presidente del Consejo Nacional para la Cultura y las Artes. Asimismo, se invitará a participar en la Junta Directiva, como miembros propietarios, a los rectores de las universidades Nacional Autónoma de México, Autónoma Metropolitana, al Director General del Instituto Politécnico Nacional, al Rector del Instituto Tecnológico Autónomo de México y al Presidente de El Colegio de México.
+A) Serán miembros propietarios de la Junta Directiva:
 
-Los miembros propietarios podrán designar a sus respectivos suplentes.
+I. El Secretario de Educación Pública, quien la presidirá;
 
-La Junta Directiva invitará a participar en forma permanente a tres personas de reconocido prestigio por su labor en materia cultural y académica, sin suplentes.
+II. El Secretario de Relaciones Exteriores;
+
+III. El Secretario de Hacienda y Crédito Público;
+
+IV. El Secretario de Cultura;
+
+V. El Director General del Instituto Politécnico Nacional;
+
+VI. El Director General del Consejo Nacional de Ciencia y Tecnología, y
+
+VII. El Director General del Centro de Investigación y Docencia Económicas, A.C.
+
+B) El Presidente de la Junta Directiva invitará a participar como miembros propietarios de la misma:
+
+I. Al Gobernador del Banco de México;
+
+II. Al Rector de la Universidad Nacional Autónoma de México;
+
+III. Al Rector de la Universidad Autónoma Metropolitana;
+
+IV. Al Rector del Instituto Tecnológico Autónomo de México, y
+
+V. Al Presidente de El Colegio de México.
+
+C) Asimismo, el Presidente de la Junta Directiva invitará a participar en forma permanente a tres personas de reconocido prestigio por su labor en materia cultural y académica.
+
+Los miembros de la Junta Directiva, a excepción de los señalados en el apartado C), podrán designar a sus respectivos suplentes, los cuales deberán contar con el nivel inmediato inferior al de aquéllos.
 
 ###### ARTICULO 6o.
 
@@ -117,7 +145,7 @@ IV. Disponer oportunamente de información sobre el cumplimiento de planes, prog
 
 V. Llevar a cabo todos los actos y desempeñar todas las funciones que resulten necesarios para el cumplimiento de los fines del organismo descentralizado y las demás que le confieran las leyes y ordenamientos aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 11 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 9o.
 
@@ -131,7 +159,7 @@ Para los efectos de lo dispuesto en el párrafo anterior la Junta Directiva apor
 
 El Director General durará en su cargo cinco años y podrá ser ratificado por un periodo igual.
 
-> <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 11 DE OCTUBRE DE 2005)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, D.O.F. 11 DE OCTUBRE DE 2005)</small>
 
 Además de las previstas en los artículos 22 y 59 de la Ley Federal de las Entidades Paraestatales, el Director General tendrá las facultades siguientes:
 
@@ -191,10 +219,18 @@ SEPTIMO.- Salvo que exista impedimento legal para ello, el proceso de transferen
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México Distrito Federal, a los veinticinco días del mes de julio de mil novecientos noventa y cuatro.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Relaciones Exteriores, Manuel Tello.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Pedro Aspe.- Rúbrica.- El Secretario de Desarrollo Social, Carlos Rojas.- Rúbrica.- La Secretaria de la Contraloría General de la Federación, María Elena Vázquez Nava.- Rúbrica.- El Secretario de Educación Pública, José Angel Pescador Osuna.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE DECRETO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 D.O.F. 11 DE OCTUBRE DE 2005.
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- El Ejecutivo Federal hará el nombramiento del Director General en un plazo no mayor a sesenta días naturales contados a partir de la publicación del presente Decreto en el Diario Oficial de la Federación. Dicho nombramiento podrá recaer en la actual titular de la entidad, en cuyo caso la designación será por el término de cinco años improrrogables.
+
+D.O.F. 24 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 5o. DEL DIVERSO POR EL QUE SE CREA EL ORGANISMO DESCENTRALIZADO FONDO DE CULTURA ECONÓMICA Y SE ORDENA LA DISOLUCIÓN Y LIQUIDACIÓN DE LA EMPRESA DE PARTICIPACIÓN ESTATAL MAYORITARIA DEL MISMO NOMBRE".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El Fondo de Cultura Económica deberá, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, realizar las modificaciones correspondientes a su normativa interna conforme a lo previsto en el mismo.
