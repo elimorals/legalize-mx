@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2017-04-08"
+last_updated: "2017-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -459,13 +459,15 @@ I. Lenocinio, artículo 139;
 
 II. Corrupción de menores, artículo 142-A, en sus dos últimos párrafos;
 
-III. Pornografía infantil, artículo 142-D, fracciones I y III;
+III. (DEROGADA, P.O. 25 DE JULIO DE 2017)
 
 IV. Prostitución infantil artículos 142-F fracción I y 142-G;
 
-V. Promoción de la prostitución infantil, artículo 142-H;
+V. (DEROGADA, P.O. 25 DE JULIO DE 2017)
 
-VI. Trata de personas, artículo 142-J;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2017)</small>
+
+VI. Abuso sexual infantil, artículos 142-L, 142-M y 142-Ñ;
 
 VII. Desaparición forzada de personas, artículos 154-A, 154-B, 154-D y 154-E;
 
@@ -477,13 +479,11 @@ VIII. Tortura, artículos 154-H y 154-I;
 
 IX. Violación, artículo 175;
 
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2015)</small>
+X. (DEROGADA, P.O. 25 DE JULIO DE 2017)
 
-X. Violación equiparada, artículo 176;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2015)</small>
-
-XI. Robo de infante, artículo 179, párrafo cuarto;
+XI. Robo de infante, artículo 179, párrafo sexto;
 
 > <small>(REFORMADA, P.O. 25 DE ABRIL DE 2015)</small>
 
@@ -497,17 +497,19 @@ XIII. Homicidio, artículos 213, 217 y 219;
 
 XIV. Parricidio, artículo 223;
 
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2015)</small>
+XV. (DEROGADA, P.O. 25 DE JULIO DE 2017)
 
-XV. Infanticidio, artículo 226;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2015)</small>
+XVI. Aborto, artículo 228, párrafos segundo, tercero y cuarto;
 
-XVI. Aborto, artículo 228, párrafos segundo, tercero y cuarto; y
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2017)</small>
 
-> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2015)</small>
+XVII. Feminicidio, artículo 232-Bis.; y
 
-XVII. Feminicidio, artículo 232-Bis.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE JULIO DE 2017)</small>
+
+XVIII. Trata de personas, en los términos de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos y de la Ley Estatal para Prevenir, Combatir y Erradicar la Trata de Personas;
 
 El juez no impondrá la prisión preventiva oficiosa y la sustituirá por otra medida cautelar, únicamente cuando lo solicite el Ministerio Público por no resultar proporcional para garantizar la comparecencia del imputado en el proceso, el desarrollo de la investigación, la protección de la víctima y de los testigos o de la comunidad. Dicha solicitud deberá contar con la autorización del titular de la Fiscalía General o el funcionario en el que delegue esa facultad.
 
@@ -6254,5 +6256,11 @@ P.O. 8 DE ABRIL DE 2017.
 P.O. 8 DE ABRIL DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26315/LXI/17 QUE REFORMAN LOS ARTÍCULOS 183 Y 185 Y DEROGA EL ARTÍCULO 185-A DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 25 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26386/LXI/17, QUE REFORMA EL ARTÍCULO 27 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
