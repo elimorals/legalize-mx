@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-rural-sustentable-del-estado-de-jalisco-54284
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-21"
-last_updated: "2017-03-23"
+last_updated: "2017-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2017.
 
 Ley publicada en la Sección II al Periódico Oficial del Estado de Jalisco, el jueves 21 de diciembre de 2006.
 
@@ -548,6 +548,10 @@ IV. Las instituciones de educación e investigación pública y privada agropecu
 V. Las asociaciones o colegios de profesionistas, relacionados con actividades agropecuarias; y
 
 VI. Los representantes de las organizaciones sociales y privadas del sector rural e (sic) el municipio correspondiente, en forma similar a la integración que se adopta para el Consejo Estatal.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2017)</small>
+
+En el caso de los municipios con población indígena originaria asentada en comunidad indígena conforme a la ley en la materia, un representante por cada comunidad, elegido de acuerdo a sus normas.
 
 ###### Artículo 38.
 
@@ -1462,3 +1466,9 @@ P.O. 23 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26289/LXI/17 QUE REFORMA EL ARTÍCULO TRANSITORIO TERCERO DEL DECRETO 25538/LX/2015".]
 
 ÚNICO. El presente decreto iniciará su vigencia el día siguiente al de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 25 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26385/LXI/17, QUE SE ADICIONA UN PÁRRAFO AL ARTÍCULO 37 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
