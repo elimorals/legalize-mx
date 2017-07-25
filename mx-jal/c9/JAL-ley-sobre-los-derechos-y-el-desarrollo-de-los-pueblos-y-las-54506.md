@@ -4,7 +4,7 @@ identifier: "JAL-ley-sobre-los-derechos-y-el-desarrollo-de-los-pueblos-y-las-545
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-11"
-last_updated: "2016-06-16"
+last_updated: "2017-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY SOBRE LOS DERECHOS Y EL DESARROLLO DE LOS PUEBLOS Y LAS COMUNIDADES INDÍGENAS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 11 de enero de 2007.
 
@@ -83,7 +83,7 @@ Los integrantes de cualquier otro pueblo indígena procedentes de otro estado de
 
 Para los efectos de la presente ley, se entenderá por:
 
-l. Pueblos indígenas originarios: las colectividades de personas que descienden de aquellas poblaciones que al iniciarse la colonización habitaban y permanecen en el territorio actual del estado y que conservan su cultura, usos y costumbres, formas autónomas de organización social, económica y política o parte de ellas;
+I. Pueblos indígenas originarios: las colectividades de personas que descienden de aquellas poblaciones que al iniciarse la colonización habitaban y permanecen en el territorio actual del estado y que conservan su cultura, usos y costumbres, formas autónomas de organización social, económica y política o parte de ellas;
 
 II. Población indígena: conjunto de personas, pertenecientes a un pueblo indígena, que de manera colectiva o grupal habitan un territorio o espacio geográfico en el estado de Jalisco, distinguiéndose tres condiciones: población indígena originaria, población indígena migrante residente y población indígena jornalera agrícola;
 
@@ -319,7 +319,7 @@ El Estado y los municipios implementarán, con la participación de las comunida
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
-l. Promover la creación de espacios de desarrollo, museos comunitarios, ferias, festivales de arte, música y demás expresiones culturales indígenas;
+I. Promover la creación de espacios de desarrollo, museos comunitarios, ferias, festivales de arte, música y demás expresiones culturales indígenas;
 
 II. Promover y apoyar la creatividad artesanal y artística de los indígenas, así como la comercialización de sus productos;
 
@@ -779,7 +779,13 @@ k) Villa Purificación;
 
 l) Zapopan; y
 
-m) Zapotitlan de Vadillo.
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2017)</small>
+
+m) Zapotitlán de Vadillo; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE JULIO DE 2017)</small>
+
+VII. El presidente de la comisión legislativa del Congreso del Estado en materia de asuntos indígenas.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -901,7 +907,7 @@ C.P. JOSÉ RAFAEL RÍOS MARTÍNEZ
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 22 DE DICIEMBRE DE 2007.
 
@@ -924,3 +930,9 @@ P.O. 16 DE JUNIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 25837/LXI/16 QUE MODIFICA EL ARTÍCULO 70 DE LA LEY SOBRE LOS DERECHOS Y EL DESARROLLO DE LOS PUEBLOS Y LAS COMUNIDADES INDÍGENAS DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+P.O. 25 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26383/LXI/17, QUE REFORMA EL ARTÍCULO 77 DE LA LEY SOBRE LOS DERECHOS Y EL DESARROLLO DE LOS PUEBLOS Y LAS COMUNIDADES INDÍGENAS DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
