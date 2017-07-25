@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-benemeritos-del-estado-de-jalisco-antes-ley-para-20360"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-13"
-last_updated: "2017-03-16"
+last_updated: "2017-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20360&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY DE BENEMERITOS DEL ESTADO DE JALISCO -- ANTES LEY PARA DECLARAR Y HONRAR LA MEMORIA DE LOS BENEMERITOS DEL ESTADO DE JALISCO --
 
-LEY PARA DECLARAR Y HONRAR LA MEMORIA DE LOS BENEMÉRITOS DEL ESTADO DE JALISCO
+LEY DE BENEMÉRITOS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2017.
 
 Ley publicada en la Sección Décimo Primera del Periódico Oficial del Estado de Jalisco, el martes 13 de marzo de 2001.
 
@@ -33,45 +33,33 @@ Alberto Cárdenas Jiménez, Gobernador Constitucional del Estado Libre y Soberan
 
 NUMERO 18929.- EL CONGRESO DEL ESTADO DECRETA:
 
-SE CREA LA LEY PARA DECLARAR Y HONRAR LA MEMORIA DE LOS BENEMERITOS DEL ESTADO DE JALISCO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JULIO DE 2017)</small>
+
+SE CREA LA LEY DE BENEMÉRITOS DEL ESTADO DE JALISCO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JULIO DE 2017)</small>
 
 ###### ARTICULO UNICO
 
-Se aprueba la creación de la Ley para Declarar y Honrar la Memoria de los Beneméritos del Estado de Jalisco, para quedar como sigue:
+Se aprueba la creación de la Ley de Beneméritos del Estado de Jalisco, para quedar como sigue:
 
 ### CAPITULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2017)</small>
+
 ###### Artículo 1.
 
-El objeto de esta Ley es establecer las bases generales para la declaración y la forma de honrar la memoria de los hombres y mujeres Beneméritos del Estado de Jalisco, de acuerdo con la facultad que la Constitución Política del Estado le confiere al Congreso del Estado.
+El objeto de esta Ley es establecer las bases y procedimientos para la declaración de Beneméritos del Estado de Jalisco, regular la forma en que se realizarán los homenajes póstumos en reconocimiento a los hombres y mujeres de culto cívico y la difusión de su vida y obra.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2017)</small>
 
 ###### Artículo 2.
 
-El Congreso del Estado podrá declarar Beneméritos del Estado de Jalisco a sus benefactores y a los que se hayan distinguido por servicios eminentes prestados a la Nación y al Estado, conforme a las reglas y disposiciones que determina la presente Ley.
+El Congreso del Estado podrá declarar Beneméritos del Estado de Jalisco a personas que tengan los merecimientos por sus acciones heroicas, sus virtudes cívicas o aportaciones destacadas en los campos de las ciencias, de las artes o de la cultura a favor de la nación o el Estado.
 
 ###### Artículo 3.
 
-Se les conocerán como Beneméritos del Estado de Jalisco, a las personas que, en términos de la presente ley, sean declaradas con las siguientes denominaciones:
-
-I.- Beneméritos en grado Heroico: Son aquellos hombres y mujeres originarios del Estado que se hayan distinguido por grandes méritos de tipo patriótico o que hayan defendido con su vida o con sus actos la soberanía o los valores ciudadanos y nacionales.
-
-II.- Beneméritos Ilustres: Son aquellos hombres y mujeres que en grado eminente se hayan distinguido:
-
-a) Por su labor como gobernantes o servidores públicos en los tres órdenes de gobierno, por el celo, la justicia, el acierto con que hubiesen desempeñado sus cargos y el reconocimiento de sus labores en general, de parte de los ciudadanos del Estado.
-
-b) Por su labor destacada y tenaz y sus aportaciones trascendentes en el campo de la investigación científica para el beneficio de la humanidad.
-
-c) Por su contribución, trayectoria y méritos en la enseñanza o por sus destacadas aportaciones a la educación y formación en el ejercicio de la docencia.
-
-d) Por la importancia y reconocimiento en la calidad de sus obras literarias sobre ciencias, tecnología y humanidades, así como por su destacada participación en la comunicación social.
-
-> <small>(F. DE E., P.O. 7 DE DICIEMBRE DE 2004)</small>
-
-e) Por la difusión de valores culturales Jaliscienses y nacionales o por la importancia y reconocimiento en la creación de obras pertenecientes a las bellas artes como la arquitectura, la música, la pintura, la escultura, el teatro, la danza la cinematografía.
-
-f) Por su desinteresada contribución patrimonial en obras de asistencia pública o cualesquiera que hayan dejado un beneficio importante, permanente y directo en el Estado.
-
-g) Por actos extraordinarios, distintos a los enunciados, que hayan sido ejecutados para bien o engrandecimiento del Estado, de la Nación o de la humanidad en general.
+(DEROGADO, P.O. 25 DE JULIO DE 2017)
 
 ### CAPITULO II. De los distintos honores
 
@@ -85,19 +73,13 @@ La Memoria de los Beneméritos del Estado de Jalisco será honrada según lo det
 
 Las Rotondas erigidas en la "Plaza de los Jaliscienses Ilustres", que circundan las calles de Liceo, Independencia, Alcalde e Hidalgo y en el Panteón de Belén, ambas en la ciudad de Guadalajara, serán destinadas, únicamente, para dar albergue a los restos de Beneméritos del Estado de Jalisco, según lo determine el decreto que al efecto apruebe el Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2017)</small>
+
 ###### Artículo 6.
 
-El honor de ser acogidos sus restos en las Rotondas sólo podrá ser conferido a las personas enunciadas que hayan sido reconocidas beneméritos del Estado de Jalisco, según el artículo 3 de esta Ley:
+Los restos de las personas que hayan sido declaradas beneméritas, de conformidad al artículo 2 de esta Ley, podrán ser acogidos en las Rotondas. Los beneméritos deben haber nacido preferentemente en el Estado o habitado en él y que su labor meritoria haya sido en beneficio de Jalisco o de la nación y tener al menos 20 años de fallecida a la fecha de presentación de la iniciativa.
 
-a) Que hayan nacido dentro del territorio del Estado y ejecutado su labor meritoria dentro del Estado de Jalisco;
-
-b) Que no hayan nacido dentro del territorio del Estado, pero que habiendo tenido su residencia habitual en Jalisco la mayor parte de su vida o hayan sido avecindados en el Estado en términos de la Constitución Política del Estado, hayan desarrollado su labor meritoria dentro del mismo; o,
-
-c) Que habiendo nacido dentro del Estado y ejecutado su labor meritoria fuera del Estado, ésta haya redundado en beneficio directo de Jalisco.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
-
-Con independencia de que se trasladen o no, en los términos de la presente ley, los restos de un Benemérito a la Rotonda erigida en la "Plaza de los Jaliscienses Ilustres", dicha persona será honrada con la colocación de escultura conmemorativa en dicha plaza o, en su caso, mediante la inscripción de su nombre, en letras doradas, en las columnas de la citada Rotonda.
+Con independencia de que se trasladen o no, los restos de un Benemérito a la Rotonda erigida en la "Plaza de los Jaliscienses Ilustres", dicha persona será honrada con la colocación de su escultura conmemorativa en la Rotonda.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
@@ -105,11 +87,9 @@ Con independencia de que se trasladen o no, en los términos de la presente ley,
 
 El honor de inscribir el nombre de alguna persona en letras doradas en el muro central del Salón de Sesiones del Congreso del Estado, se realizará de conformidad al decreto aprobado por la Asamblea Legislativa, en los términos de lo dispuesto por la presente ley.
 
-> <small>(F. DE E., P.O. 7 DE DICIEMBRE DE 2004)</small>
-
 ###### Artículo 8.
 
-La rendición de homenajes a los Jaliscienses Beneméritos que se mencionan en las fracciones I y II del artículo 3 de esta Ley en una fecha y forma determinadas, deberá establecerse en el decreto correspondiente que al efecto apruebe el Congreso del Estado.
+(DEROGADO, P.O. 25 DE JULIO DE 2017)
 
 ### CAPITULO III. De la integración del expediente y la declaración de Beneméritos
 
@@ -121,15 +101,21 @@ Una vez presentada ante el Congreso del Estado la iniciativa que declare Benemé
 
 Los ayuntamientos de la entidad podrán presentar las iniciativas a que se refiere el párrafo anterior del presente artículo.
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2017)</small>
+
 ###### Artículo 10.
 
-Para la integración del expediente a que se refiere el artículo anterior, las Comisiones conjuntas de Cultura y de Educación del Congreso del Estado, podrá allegarse toda la información y pruebas necesarias: documentos, testimoniales, exámenes periciales, reconocimientos, premios, confesiones, objetos y demás elementos necesarios para demostrar, fundar y motivar el reconocimiento del mérito eminente o excepcional de una persona para ser declarado Benemérito del Estado de Jalisco.
+Para la integración del expediente a que se refiere el artículo anterior, las comisiones legislativas procurarán allegarse las pruebas que acrediten el mérito suficiente para declarar Benemérito del Estado de Jalisco al personaje propuesto.
 
-Una vez integrado el expediente correspondiente, las Comisiones conjuntas de Cultura y de Educación estudiarán todos los elementos de prueba, escuchando la opinión de la Comisión para Honrar la Memoria de los Beneméritos del Estado de Jalisco y pudiendo hacer las consultas que estime necesarias a las Instituciones públicas y privadas que considere oportunas.
+Las comisiones conjuntas podrán solicitar la opinión de la comisión para Honrar la Memoria de los Beneméritos del Estado de Jalisco y deberán realizar las consultas a los especialistas que estimen necesarios para motivar el dictamen.
+
+Una vez integrado el expediente correspondiente, estudiarán todos los elementos de prueba, valorarán las opiniones vertidas y emitirán dictamen.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2017)</small>
 
 ###### Artículo 11.
 
-Cuando una persona física o jurídica quisiera promover a determinada persona para ser declarada benemérito de Jalisco, deberá hacer esta solicitud a los diputados miembros de las comisiones de Cultura o de Educación del Congreso del Estado, los cuales podrá (sic) elevar la iniciativa de decreto correspondiente ante el Pleno del Congreso del Estado, para su posterior estudio y dictaminación, si las mismas Comisiones consideran que se tienen los elementos y requisitos necesarios previos, conforme a esta Ley, para presentar la iniciativa de decreto solicitada.
+Cuando una persona física o jurídica solicite la declaración de benemérito a favor de determinada persona, deberá hacerlo saber por escrito al Congreso del Estado. La solicitud se turnará a todos los diputados para que valoren la pertinencia de la solicitud, y en su caso, eleven al pleno la iniciativa correspondiente.
 
 ###### Artículo 12.
 
@@ -137,19 +123,31 @@ El dictamen que presenten las Comisiones conjuntas de Cultura y de Educación pa
 
 a) Por no cumplir en forma y fondo con cualquiera de los requisitos de esta Ley.
 
-b) Por no haberse reunido el expediente por falta de información y elementos de prueba suficientes durante el término de la Legislatura correspondiente.
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2017)</small>
+
+b) Por no haberse reunido el expediente por falta de información y elementos de prueba suficientes.
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
 
 c) Si la persona que se pretende declarar como Benemérito del Estado de Jalisco, en cualquier caso, no ha cumplido 20 años de fallecida a la fecha en que fue presentada la iniciativa de decreto; y
 
-d) Si se probara con elementos suficientes que la persona que se pretende declarar como Benemérito del Estado de Jalisco, en cualquier caso, a pesar de que resultara merecedora de tal nombramiento, tuviera máculas en su vida pública o privada, que mancillaran su buen nombre o que sus actos no hayan sido apegados a la legalidad, a la moral o a las buenas costumbres, en asuntos de trascendencia social.
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2017)</small>
+
+d) Si se probara con elementos suficientes que la persona que se pretende declarar como Benemérito del Estado de Jalisco, en cualquier caso, a pesar de que resultara merecedora de tal distinción, tuviera actos en su vida que cuestionaran su buen nombre.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2017)</small>
 
 ###### Artículo 13.
 
-Las comisiones dictaminadoras deberán solicitar el beneplácito de los descendientes en línea recta del difunto, para trasladar sus restos mortales a alguna de las rotondas que aquí se mencionan, antes de enviar el dictamen de decreto correspondiente para su aprobación ante el Pleno del Congreso del Estado.
+Las comisiones dictaminadoras para trasladar restos mortales a alguna de las rotondas que aquí se mencionan, deberán solicitar el consentimiento definitivo de los familiares del difunto, con la siguiente prelación:
 
-En caso de que la mayoría de los descendientes en línea recta de una persona a la que se pretende declarar Benemérito, se opongan al traslado y depósito de los restos mortales en alguna de las rotondas que en esta Ley se mencionan, así se establecerá en el dictamen y se respetará la decisión de los familiares, sin que ello impida la declaración de Benemérito, en caso de merecer una persona, tal honor.
+Cónyuge, a falta de éste a los hijos, si no hay hijos, a los padres, si faltan los padres, a los hermanos, a falta de hermanos a los nietos, si no hubiere nietos a los sobrinos y si no hubiere sobrinos a los descendientes que subsistan, en línea recta.
+
+A falta de los anteriores, resolverá la Comisión para Honrar la Memoria de los Beneméritos del Estado de Jalisco.
+
+En el caso de hijos, hermanos, nietos, o sobrinos con la prelación señalada, cuando subsistan más de uno y exista constancia de que la mayoría de éstos se oponen al traslado y depósito de los restos mortales en alguna de las rotondas que en esta Ley se mencionan, así se establecerá en el dictamen y se respetará la decisión de los familiares, sin que ello impida la declaración de Benemérito, en caso de merecer una persona, tal honor.
+
+Una vez que los restos mortales del personaje sean depositados en el lugar que albergue a los Beneméritos de la entidad, estos serán responsabilidad del Estado de Jalisco, por el valor histórico y cultural que representan, por lo que su disposición se sujetará a los decretos que para ese fin emita la Comisión para Honrar la Memoria de los Beneméritos del Estado de Jalisco.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
@@ -159,19 +157,43 @@ Una vez aprobado el Decreto por el Congreso del Estado, en los términos de su L
 
 De igual forma, se deberá notificar al Ayuntamiento de Guadalajara la declaratoria de Benemérito, a fin de que coadyuve con el Ejecutivo del Estado en las acciones a que se refiere el párrafo anterior, así como para la colocación de la escultura conmemorativa correspondiente, o en su caso, mediante la inscripción de su nombre, en letras doradas, en las columnas de la citada Rotonda.
 
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2017)</small>
+
+###### Artículo 14 Bis.
+
+Comisión para Honrar la Memoria de los Beneméritos del Estado de Jalisco podrá acordar la exhumación, en los siguientes casos:
+
+I. Traslado de los restos a nueva ubicación, por motivos de honra pública, nacional o internacional; y
+
+II. Cumplimiento de una orden judicial.
+
 ### CAPITULO IV. De la Comisión para Honrar la Memoria de los Beneméritos del Estado de Jalisco
 
 ###### Artículo 15.
 
 Con el objeto de rendir homenaje a una o varias de las personas en favor de quienes, en los términos de esta Ley, se consideren Beneméritas funcionará una Comisión para Honrar la Memoria de los Beneméritos del Estado de Jalisco.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2017)</small>
 
 ###### Artículo 16.
 
-La Comisión para Honrar la Memoria de los Beneméritos del Estado de Jalisco será desconcentrada de la Secretaría de Cultura del Poder Ejecutivo del Estado y constará de tres miembros nombrados por el gobernador del Estado: Un representante del Gobernador, quien será el Presidente de la Comisión; un representante de la Secretaría de Educación del Estado; un representante de la Secretaría de Cultura del Estado; un representante de cada una de las Universidades Públicas asentadas en el Estado; y un edil representante del Ayuntamiento de Guadalajara.
+La Comisión para Honrar la Memoria de los Beneméritos del Estado de Jalisco será desconcentrada de la Secretaría de Cultura del Poder Ejecutivo del Estado y se integrará de la siguiente forma:
 
-La Comisión, cuando lo considere necesario, podrá realizar consultas a las personas físicas o jurídicas, que se encuentren vinculadas con los distintos casos que se le presente.
+I. Por el Gobernador del Estado representado por la Secretaría de Cultura, quien presidirá;
+
+II. Un representante de la Secretaría de Educación;
+
+III. Un representante de la Secretaría de Innovación, Ciencia y Tecnología;
+
+IV. Un miembro de la Comisión Legislativa de Cultura;
+
+V. Un representante del Ayuntamiento de Guadalajara;
+
+VI. Un representante del Consejo Estatal para la Cultura y las Artes;
+
+VII. Un representante de la Universidad de Guadalajara; y
+
+VIII. Un representante del Colegio de Jalisco.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
@@ -189,9 +211,17 @@ IV. Emitir opinión, cuando para ello sea requerida por el Congreso del Estado, 
 
 V. Emitir opinión en torno a la colocación de las esculturas de los Beneméritos en la Rotonda erigida en la "Plaza de los Jaliscienses Ilustres", o en su caso, de la inscripción de su nombre, en letras doradas, en las columnas de la citada Rotonda;
 
-VI. Promover que se honre en el marco de la Rotonda erigida en la "Plaza de los Jaliscienses Ilustres", a la totalidad de los Beneméritos del estado de Jalisco así declarados, ya sea a través de la colocación de su escultura o en su caso, de la inscripción de su nombre, en letras doradas, en las columnas de la citada Rotonda, y
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2017)</small>
 
-VII. Todas las demás que señalen esta Ley o su reglamento y las que, por disposición del Ejecutivo, haya de tomar a su cargo para el mejor cumplimiento de las finalidades de la presente Ley.
+VI. Promover que se honre en el marco de la Rotonda erigida en la "Plaza de los Jaliscienses Ilustres", a la totalidad de los Beneméritos del Estado de Jalisco así declarados, ya sea a través de la colocación de su escultura o en su caso, de la inscripción de su nombre, en letras doradas, en las columnas de la citada Rotonda;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE JULIO DE 2017)</small>
+
+VII. Difundir la vida y obra de los Beneméritos de Jalisco; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE JULIO DE 2017)</small>
+
+VIII. Todas las demás que señalen esta Ley o su reglamento y las que, por disposición del Ejecutivo, haya de tomar a su cargo para el mejor cumplimiento de las finalidades de la presente Ley.
 
 ## TRANSITORIOS
 
@@ -236,3 +266,11 @@ P.O. 16 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26304/LXI/17 QUE REFORMA EL ARTÍCULO 12 DE LA LEY PARA DECLARAR Y HONRAR LA MEMORIA DE LOS BENEMÉRITOS DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 25 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 26381/LXI/17, QUE REFORMA LA DENOMINACIÓN Y LOS ARTÍCULOS 1°, 2°, 6°, 10, 11, 12, 13, 16 Y 17, SE ADICIONA EL ARTÍCULO 14 BIS Y SE DEROGAN LOS ARTÍCULOS 3° Y 8° DE LA LEY PARA DECLARAR Y HONRAR LA MEMORIA DE LOS BENEMÉRITOS DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. A partir de la entrada en vigor del presente decreto, el Ejecutivo del Estado deberá hacer las adecuaciones reglamentarias respectivas, en un término de sesenta días.
