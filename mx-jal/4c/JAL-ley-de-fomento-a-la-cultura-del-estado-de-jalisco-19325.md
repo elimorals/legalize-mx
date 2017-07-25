@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fomento-a-la-cultura-del-estado-de-jalisco-19325"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-21"
-last_updated: "2016-10-11"
+last_updated: "2017-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19325&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE FOMENTO A LA CULTURA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2017.
 
 Ley Publicada en el Periódico Oficial el 21 de diciembre de 2000 Sección II.
 
@@ -97,11 +97,9 @@ IX. Reconocer como gestor cultural a toda persona que actúe como agente de camb
 
 X. Garantizar la igualdad en el ámbito de la promoción y difusión de la producción artística e intelectual para hombres y mujeres, asegurando la inclusión de manera equitativa y proporcional por género en los planes y proyectos de esta ley.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
-
 ###### Artículo 2 Bis.
 
-Cultura es el conjunto de elementos tangibles e intangibles, así como los valores que a través del tiempo construyen un sistema significante de la realidad, que define la identidad específica de una comunidad y vincula a sus miembros con respecto de ésta, bajo esquemas de identidad individual y sentido de pertenencia social.
+(DEROGADO, P.O. 25 DE JULIO DE 2017)
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
 
@@ -127,11 +125,17 @@ VI. Programa: El Programa Estatal de Cultura;
 
 VII. Programa Municipal: El Programa Municipal de Cultura;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2017)</small>
 
-VIII. Industria cultural: las industrias editorial, disquera, de las artes gráficas, cinematográfica, de la radio y televisión, así como todas aquellas empresas que produzcan bienes o servicios pertenecientes al campo de las artes y la cultura, y
+VIII. Industria cultural: las industrias editorial, disquera, de las artes gráficas, cinematográfica, de la radio y televisión, así como todas aquellas empresas que produzcan bienes o servicios pertenecientes al campo de las artes y la cultura;
 
-IX. Creador: Autor, interprete o ejecutante artístico.
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2017)</small>
+
+IX. Creador: Autor, intérprete o ejecutante artístico; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE JULIO DE 2017)</small>
+
+X. Cultura: Entre otras cosas se entenderá como el conjunto de los rasgos distintivos, materiales, intelectuales y afectivos que caracterizan a una sociedad o un grupo social. Incluyen, además de las artes y las letras, los modos de vida, el lenguaje, la vestimenta, los valores, las tradiciones y las creencias, así como, cualquier manifestación de la creatividad humana, destinada a enriquecer la vida, el desarrollo social y la educación, bajo esquemas de identidad individual y sentido de pertenencia cultural.
 
 ## TITULO SEGUNDO. DE LAS COMPETENCIAS Y ATRIBUCIONES DE LAS AUTORIDADES
 
@@ -191,9 +195,9 @@ IV. Diseñar, operar y evaluar, en coordinación con la Secretaría de Educació
 
 V. Promover estrategias de financiamiento y programas de estímulos fiscales a personas físicas y jurídicas que destinen recursos a las actividades culturales que son objeto de esta ley, diseñando, inclusive, los mecanismos adecuados para expedir recibos deducibles de impuestos para apoyar el mecenazgo por particulares;
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2017)</small>
 
-VI. Promover ante la Secretaría de Infraestructura y Obra Pública, la ampliación de infraestructura, creación y construcción de espacios públicos con usos y destinos para el desarrollo de actividades culturales y artísticas; así como encargarse de la conservación, equipamiento, remozamiento y de la dotación de las mejoras físicas y tecnológicas, de espacios públicos con usos y destinos para el cumplimiento de los fines de la presente ley, así como la recuperación de aquellos que se encuentren en estado de abandono o en desuso, en coordinación con instancias públicas y privadas;
+VI. Promover ante la Secretaría de Infraestructura y Obra Pública, la ampliación de infraestructura, creación y construcción de espacios públicos con usos y destinos para el desarrollo de actividades culturales y artísticas; así como encargarse de la conservación, equipamiento, remozamiento y de la dotación de las mejoras físicas y tecnológicas, de espacios públicos con usos y destinos para el cumplimiento de los fines de la presente ley, procurando que estos sean sustentables para fomentar una cultura ambiental, así como la recuperación de aquellos que se encuentren en estado de abandono o en desuso, en coordinación con instancias públicas y privadas;
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -217,7 +221,9 @@ XIII. Elaborar y ejecutar la política editorial del Estado en materia cultural,
 
 XIV. Agilizar y optimizar los procesos de obtención de recursos provenientes de programas federales en materia cultural;
 
-XV. Promover con organismos culturales y artísticos la realización de eventos, ferias, concursos, exposiciones, festivales y otras actividades análogas que sirvan de promoción, fomento y divulgación de la cultura, el arte y las tradiciones populares;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2017)</small>
+
+XV. Promover con organismos culturales y artísticos, públicos y privados, la realización de eventos, ferias, concursos, exposiciones, festivales, así como la creación de los establecimientos de índole cultural a que se refiere esta ley y otras actividades análogas que sirvan de promoción, fomento y divulgación de la cultura, el arte, las tradiciones populares y el cuidado al medio ambiente;
 
 > <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
@@ -591,9 +597,17 @@ IX. Realizar propuestas para integrar los programas relativos a la preservación
 
 X. Asesorar, promover y en su caso gestionar ante las autoridades competentes descuentos, deducciones, donaciones y cualquier otro estímulo económico en materia de fomento cultural, previa solicitud de la persona física o jurídica que realice o patrocine este tipo de actividades;
 
-XI. Integrar la Comisión de Fomento al Libro y la Lectura, con los integrantes y atribuciones que se establezcan en el reglamento de la presente ley; y
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2017)</small>
 
-XII. Las demás que establezcan los ordenamientos jurídicos aplicables.
+XI. Integrar la Comisión de Fomento al Libro y la Lectura, con los integrantes y atribuciones que se establezcan en el reglamento de la presente ley;
+
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2017)</small>
+
+XII. Elaborar y mantener actualizado un padrón de personas físicas o jurídicas que contribuyan al fomento y desarrollo de la cultura en el Estado; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE JULIO DE 2017)</small>
+
+XIII. Las demás que establezcan los ordenamientos jurídicos aplicables.
 
 ###### Artículo 22.
 
@@ -1096,5 +1110,11 @@ P.O. 9 DE JULIO DE 2016.
 P.O. 11 DE OCTUBRE DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 25875/LXI/16 QUE REFORMA LOS ARTÍCULOS 1, 2, 5, 6, 7, 10, 21, 38, 39, 48 Y 51 DE LA LEY DE FOMENTO A LA CULTURA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 25 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26382/LXI/17, QUE DEROGA EL ARTÍCULO 2° BIS Y SE REFORMAN LOS ARTÍCULOS 3°, 6° Y 21 DE LA LEY DE FOMENTO A LA CULTURA DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
