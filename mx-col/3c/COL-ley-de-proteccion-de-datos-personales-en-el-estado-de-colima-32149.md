@@ -4,7 +4,7 @@ identifier: "COL-ley-de-proteccion-de-datos-personales-en-el-estado-de-colima-32
 country: "mx"
 rank: "ley"
 publication_date: "2003-06-21"
-last_updated: "2016-11-22"
+last_updated: "2017-07-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY DE PROTECCION DE DATOS PERSONALES EN EL ESTADO DE COLIMA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 26 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial "El Estado de Colima", el sábado 21 de junio de 2003.
 
@@ -35,7 +37,7 @@ DECRETO
 
 EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 33 FRACCIÓN II Y 39 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN NOMBRE DEL PUEBLO, Y
 
-...
+[...]
 
 Por lo antes expuesto se tiene a bien expedir el siguiente:
 
@@ -448,3 +450,25 @@ P.O. 22 DE NOVIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
+
+P.O. 26 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 330 POR EL QUE SE EXPIDE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. Se abroga la Ley de Protección de Datos Personales del Estado de Colima, publicada en el Periódico Oficial "El Estado de Colima" el 21 de junio de 2003.
+
+Se derogan todas aquellas disposiciones en materia de protección de datos personales en posesión de sujetos obligados de carácter estatal y municipal, que contravengan lo dispuesto en el presente Decreto.
+
+Los procedimientos en materia de protección de datos personales que hayan iniciado bajo la vigencia de la abrogada Ley de Protección de Datos Personales del Estado de Colima, continuarán y culminarán conforme a las disposiciones de la misma.
+
+TERCERO. Los responsables expedirán sus avisos de privacidad en los términos previstos en el presente Decreto y demás disposiciones aplicables, a más tardar tres meses después de su entrada en vigor.
+
+CUARTO. Los responsables deberán observar lo dispuesto en el Capítulo II del Título Segundo del presente Decreto, en un plazo de un año, contado a partir de su entrada en vigor.
+
+QUINTO. El Organismo Garante deberá expedir los lineamientos, parámetros, criterios y demás disposiciones de las diversas materias a que se refiere el presente Decreto, dentro del plazo de 180 días contados a partir a su entrada en vigor.
+
+SEXTO. En el presupuesto de Egresos del Estado de Colima, para el ejercicio fiscal 2018, deberá hacerse conforme a la viabilidad financiera, las previsiones presupuestales necesarias, atendiendo las disposiciones contenidas en el presente decreto.
+
+SÉPTIMO. El Tribunal de Justicia Administrativa del Estado a que hace referencia el presente Decreto entrará en vigor hasta en tanto se le instituya en la Constitución Política del Estado Libre y Soberano de Colima y se expida su correspondiente Ley Orgánica, en términos de lo dispuesto en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de combate a la corrupción, publicado el día 27 de mayo del 2015 en el Diario Oficial de la Federación, así como en observancia al Decreto por el que se expide la Ley General del Sistema Nacional Anticorrupción, la Ley General de Responsabilidades Administrativas, y la Ley Orgánica del Tribunal Federal de Justicia Administrativa, publicado el día 18 de julio del 2016 en el Diario Oficial de la Federación.
