@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1142
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-27"
-last_updated: "2017-04-19"
+last_updated: "2017-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114253&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de abril de 2016.
 
@@ -2123,83 +2123,73 @@ III. Multa de ochocientas a mil quinientas veces el valor diario de la Unidad de
 
 Se aplicará multa adicional de hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización, por día, a quien persista en las infracciones citadas en las fracciones anteriores.
 
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR LA DISPOSICIÓN TRANSITORIA TERCERA DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE MORELOS, P.O. 26 DE JULIO DE 2017)</small>
+
 ## TÍTULO DÉCIMO PRIMERO. DE LA PROTECCIÓN DE DATOS PERSONALES Y DE LA ACCIÓN DE HABEAS DATA
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR LA DISPOSICIÓN TRANSITORIA TERCERA DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE MORELOS, P.O. 26 DE JULIO DE 2017)</small>
 
 ### CAPÍTULO I. DE LA PROTECCIÓN DE DATOS PERSONALES
 
 ###### Artículo 159.
 
-Los Sujetos Obligados deberán resguardar toda la información de carácter personal y no podrán entregarla a quien la solicite, salvo autorización expresa de la persona directamente afectada o de su representante legal.
+(DEROGADO, POR LA DISPOSICIÓN TRANSITORIA TERCERA DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE MORELOS, P.O. 26 DE JULIO DE 2017)
 
 ###### Artículo 160.
 
-La Unidad de Transparencia, responsable de atender las solicitudes de información en coordinación con el Instituto, establecerán las medidas técnicas necesarias para sistematizar y archivar con fines lícitos y legítimos la información que contenga datos personales.
+(DEROGADO, POR LA DISPOSICIÓN TRANSITORIA TERCERA DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE MORELOS, P.O. 26 DE JULIO DE 2017)
 
 ###### Artículo 161.
 
-Ninguna persona está obligada a dar información que pudiera propiciar expresión de discriminación e intolerancia sobre su persona, honor, reputación y dignidad, salvo que la información sea estrictamente necesaria para proteger su vida y seguridad personal.
+(DEROGADO, POR LA DISPOSICIÓN TRANSITORIA TERCERA DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE MORELOS, P.O. 26 DE JULIO DE 2017)
 
-Artículo. 162. Los sistemas de documentación y archivo creados para resguardar datos personales deberán utilizarse exclusivamente para los fines legales y legítimos para los que fueron creados. Las entidades públicas sólo podrán administrar archivos de datos personales estrictamente relacionados con el ejercicio de su competencia.
+###### Artículo 162.
+
+(DEROGADO, POR LA DISPOSICIÓN TRANSITORIA TERCERA DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE MORELOS, P.O. 26 DE JULIO DE 2017)
 
 ###### Artículo 163.
 
-La administración, procesamiento, actualización y resguardo deberán realizarse con estricto apego a estos fines. Los Servidores Públicos al cargo están obligados a guardar confidencialidad respecto de la información que manejen. Cualquier violación a este precepto será objeto de responsabilidad de acuerdo con las leyes aplicables.
+(DEROGADO, POR LA DISPOSICIÓN TRANSITORIA TERCERA DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE MORELOS, P.O. 26 DE JULIO DE 2017)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR LA DISPOSICIÓN TRANSITORIA TERCERA DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE MORELOS, P.O. 26 DE JULIO DE 2017)</small>
 
 ### CAPÍTULO II. DEL EJERCICIO DE LA ACCIÓN DE HABEAS DATA
 
 ###### Artículo 164.
 
-El Instituto y las Unidades Administrativas responsables dispondrán de los medios necesarios para que las personas interesadas estén en condiciones de ejercer la acción de habeas data para asegurarse que:
-
-I. Los datos personales en posesión de la autoridad siguen siendo necesarios para cumplir los fines para los que fueron requeridos;
-
-II. Los datos personales no se utilicen o pongan a disposición del público o de terceros sin el previo consentimiento del interesado o su representante legal, con propósitos distintos e incompatibles con los fines originalmente señalados, y
-
-III. Que los datos personales hayan estado a disposición de la autoridad por un período de tiempo superior al necesario.
+(DEROGADO, POR LA DISPOSICIÓN TRANSITORIA TERCERA DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE MORELOS, P.O. 26 DE JULIO DE 2017)
 
 ###### Artículo 165.
 
-Ninguna autoridad podrá requerir a las personas información que exceda los fines para los cuales se solicita.
+(DEROGADO, POR LA DISPOSICIÓN TRANSITORIA TERCERA DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE MORELOS, P.O. 26 DE JULIO DE 2017)
 
 ###### Artículo 166.
 
-La Unidad de Transparencia deberá recibir y dar curso, por escrito o vía electrónica, a todas las solicitudes de las personas que tengan por objeto la corrección, sustitución, rectificación, guardar confidencialidad o suprimir total o parcialmente los datos personales. Todas las respuestas negativas a las solicitudes realizadas en ejercicio de la acción de habeas data deberán ser notificadas de oficio al Instituto, por escrito o vía electrónica, para que éste proceda y requiera a la autoridad que corresponda, acerca del fundamento y motivación legal en que sustenta su negativa. En caso de que desestime las razones de la autoridad, la emplazará a realizar el acto solicitado.
+(DEROGADO, POR LA DISPOSICIÓN TRANSITORIA TERCERA DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE MORELOS, P.O. 26 DE JULIO DE 2017)
 
 ###### Artículo 167.
 
-Los Sujetos Obligados por esta Ley no podrán comercializar, difundir o distribuir los datos personales en su posesión o administrados y sistematizados en el ejercicio de sus actividades, salvo que exista consentimiento expreso y por escrito de las personas a que se refiere la información.
+(DEROGADO, POR LA DISPOSICIÓN TRANSITORIA TERCERA DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE MORELOS, P.O. 26 DE JULIO DE 2017)
 
 ###### Artículo 168.
 
-No será necesario el consentimiento de las personas para difundir o entregar datos personales, cuando se presenten las siguientes hipótesis:
-
-I. La información sea necesaria para la prevención, diagnóstico médico, prestación de servicios médicos o la gestión de servicios de salud, y no pueda recabarse autorización de la persona por impedimentos legales o de salud;
-
-II. La información sea para fines estadísticos, científicos o de interés general previstos en la ley, siempre que los datos sean agregados y no puedan relacionarse con las personas a las que se refieran;
-
-III. La información sea requerida por una entidad, dependencia o unidad administrativa distinta a la que posea los datos personales y sirvan para el estricto cumplimiento de sus funciones públicas;
-
-IV. La información sea requerida por orden judicial;
-
-V. La información sea requerida para la prestación de un servicio contratado a particulares por las entidades públicas. En este caso la entrega de la información se hará una vez que se haya cubierto una fianza y sólo se utilizará para los propósitos estrictamente señalados en el contrato. Una vez terminado el contrato el particular devolverá los datos personales que para uso exclusivo y temporal le fueron otorgados por la autoridad, y
-
-VI. Los demás casos que expresamente señalen las leyes posteriores a la presente.
+(DEROGADO, POR LA DISPOSICIÓN TRANSITORIA TERCERA DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE MORELOS, P.O. 26 DE JULIO DE 2017)
 
 ###### Artículo 169.
 
-Los trámites que se realicen en ejercicio de la acción de habeas data serán gratuitos.
+(DEROGADO, POR LA DISPOSICIÓN TRANSITORIA TERCERA DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE MORELOS, P.O. 26 DE JULIO DE 2017)
 
 ###### Artículo 170.
 
-Todas las Unidades Administrativas que posean datos personales deberán informarlo al Instituto, del mismo modo y mensualmente deberán informarle acerca de la actualización de los sistemas de archivo de los datos personales en su poder. Además, deberán tomar las medidas técnicas para proteger los archivos y sistemas de archivo que resguarden datos personales, contra los riesgos naturales, la pérdida por siniestro o accidentes y contra el riesgo de que se acceda a ellos sin autorización, se utilicen de manera encubierta o se contaminen por virus informático.
+(DEROGADO, POR LA DISPOSICIÓN TRANSITORIA TERCERA DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE MORELOS, P.O. 26 DE JULIO DE 2017)
 
 ###### Artículo 171.
 
-Las personas interesadas o sus representantes legales, podrán solicitar los datos personales por los medios previstos en el artículo 97 de esta Ley, requiriendo para su entrega acreditar previamente su personalidad. La autoridad tendrá un plazo de cinco días hábiles, contados a partir de recibida la solicitud para responder si tienen o no la información solicitada. La autoridad deberá entregar la información en un plazo no mayor de cinco días hábiles, contados a partir de la fecha del oficio de respuesta. En caso de que los datos personales no se encuentren en la unidad administrativa requerida, el interesado podrá recurrir conforme a su derecho al Instituto.
+(DEROGADO, POR LA DISPOSICIÓN TRANSITORIA TERCERA DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE MORELOS, P.O. 26 DE JULIO DE 2017)
 
 ###### Artículo 172.
 
-Las personas interesadas o sus representantes legales, previa identificación, podrán solicitar ante la Unidad Administrativa responsable que se modifiquen los datos personales que se encuentren en los archivos de la entidad requerida, a través de los medios previstos en el artículo 97 de esta Ley, requiriendo para su entrega acreditar previamente su personalidad. Para que proceda la solicitud, el interesado deberá precisar las modificaciones que deben realizarse y aportar, en su caso, la documentación necesaria. La autoridad tendrá un plazo de 10 días hábiles desde la presentación de la solicitud para realizar las modificaciones, o demostrar las razones, fundadas y motivadas, por las que no procedieron las modificaciones solicitadas. En ambos casos deberá notificarlo al interesado en un plazo no mayor de 5 días hábiles.
+(DEROGADO, POR LA DISPOSICIÓN TRANSITORIA TERCERA DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE MORELOS, P.O. 26 DE JULIO DE 2017)
 
 ## TÍTULO DÉCIMO SEGUNDO. DE LOS ARCHIVOS
 
@@ -2278,3 +2268,23 @@ P.O. 19 DE ABRIL DE 2017.
 PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 26 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE MORELOS”.]
+
+PRIMERO. Una vez aprobada la presente Ley, remítase al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. La presente Ley iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión de Gobierno del Estado.
+
+TERCERO. Se Deroga el Título Décimo Primero y sus Capítulos I y II, así como los artículos 159 al 172 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Morelos, publicada el 27 de abril de 2016, en el Periódico Oficial “Tierra y Libertad”.
+
+CUARTO. Los recursos iniciados con anterioridad a la entrada en vigor de la presente Ley, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio, salvo lo que se refiere al cumplimiento y ejecución de las sentencias que se llevarán a cabo conforme a las reglas de esta Ley.
+
+QUINTO. Dentro de los sesenta días hábiles siguientes contados a partir de la entrada en vigor de esta Ley, el Instituto Morelense de información Pública, Estadística, expedirá el Reglamento correspondiente, que deberá publicarse en el Periódico Oficial "Tierra y Libertad" del Gobierno del Estado de Morelos, mientras tanto continuará rigiendo el reglamento vigente en lo que no se oponga a lo previsto en este ordenamiento.
+
+SEXTA. El Instituto Morelense de Información Pública, Estadística realizará las adecuaciones presupuestales necesarias para el cumplimiento de la presente la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Morelos.
+
+SÉPTIMA. El Gobernador Constitucional del Estado, instruirá a la Secretaría de Hacienda del Poder Ejecutivo Estatal, para que considere una partida específica en el Presupuesto de Egresos del Gobierno del Estado para el siguiente Ejercicio Fiscal, que resulte necesaria para el cumplimiento de la presente la (sic) Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Morelos.
+
+OCTAVA. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente Ley.
