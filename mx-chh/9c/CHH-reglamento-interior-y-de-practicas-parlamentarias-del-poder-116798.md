@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-interior-y-de-practicas-parlamentarias-del-poder-116
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-10-01"
-last_updated: "2016-10-01"
+last_updated: "2017-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chihuahua, el sábado 1 de octubre de 2016.
 
@@ -1247,7 +1247,7 @@ Tratándose de ternas de candidatos que no alcanzaron la votación señalada en 
 
 La nueva terna deberá estar integrada, por lo menos, con dos candidatos diferentes a los que integraban la terna anterior.
 
-### CAPÍTULO ÚNICO. DEL SISTEMA DE INFORMACIÓN LEGISLATIVA
+### CAPÍTULO PRIMERO. DEL SISTEMA DE INFORMACIÓN LEGISLATIVA
 
 ###### ARTÍCULO 138.
 
@@ -1273,7 +1273,15 @@ VI. Después de un espacio, se asentará el periodo de sesiones en que se aprob�
 
 Esta nomenclatura se plasmará en el margen superior izquierdo de la primer página y, para las subsecuentes, se colocará en el margen superior derecho.
 
-## TÍTULO SEXTO
+> <small>(REFORMADA [N. DE E. ADICIONADA] SU DENOMINACIÓN, P.O. 26 DE JULIO DE 2017)</small>
+
+## TÍTULO SEXTO. DE LA INFORMACIÓN LEGISLATIVA
+
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 26 DE JULIO DE 2017)</small>
+
+### CAPÍTULO SEGUNDO. DE LA GACETA PARLAMENTARIA
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 140.
 
@@ -1359,6 +1367,82 @@ c. Estados Financieros
 
 d. Declaraciones de Situación Patrimonial
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE JULIO DE 2017)</small>
+
+###### ARTÍCULO 143.
+
+La Gaceta Parlamentaria es el instrumento técnico de carácter informativo de la Mesa Directiva que tiene como propósito ordenar y difundir previamente los asuntos y documentos que serán tratados en cada Sesión del Pleno o de la Diputación Permanente.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2017)</small>
+
+###### ARTÍCULO 144.
+
+Corresponde a la Secretaría de Asuntos Legislativos elaborar, publicar y actualizar la Gaceta Parlamentaria, de conformidad con lo que solicite la Mesa Directiva.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2017)</small>
+
+###### ARTÍCULO 145.
+
+La publicación de la Gaceta Parlamentaria se realizará a través del portal oficial de internet del Congreso del Estado, el cual deberá actualizarse por cada Sesión del Pleno o de la Diputación Permanente que se realice.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2017)</small>
+
+###### ARTÍCULO 146.
+
+Serán publicados en la Gaceta Parlamentaria, el día previo a la celebración de la Sesión en la que habrán de desahogarse:
+
+I. El proyecto de orden del día de las Sesiones del Pleno y de la Diputación Permanente.
+
+II. El acta de la Sesión anterior.
+
+III. La Correspondencia, que contendrá entre otros, comunicaciones y demás documentación enviada y recibida, relativa a las atribuciones y actividades del Congreso.
+
+IV. El turno a Comisiones de las iniciativas y demás documentos relacionados con las actividades de dichos cuerpos colegiados.
+
+V. Los dictámenes y votos particulares que sobre los mismos se presenten, así como los informes o cualquier documento elaborado y que deban presentar las comisiones y los comités del Congreso.
+
+VI. El contenido íntegro de las iniciativas.
+
+VII. Los demás documentos que la Mesa Directiva considere necesario hacerlos del conocimiento general.
+
+En caso de que no se cuente con información completa respecto de los asuntos o documentos que habrán de abordarse en la próxima Sesión, deberá incluirse una leyenda fundamentada y motivada señalando las razones por las que no se publica determinado dato.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2017)</small>
+
+###### ARTÍCULO 147.
+
+Los asuntos y documentos que se hayan hecho del conocimiento general por haber sido debidamente publicados en la Gaceta Parlamentaria permiten, previo consentimiento de la Presidencia de la Mesa Directiva, obviar o resumir su lectura en la Sesión correspondiente.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2017)</small>
+
+###### ARTÍCULO 148.
+
+Deberá generarse una Gaceta Parlamentaria por cada Sesión del Pleno o de la Diputación Permanente que se celebre durante la Legislatura, con los siguientes requisitos de identificación:
+
+I. Número de la legislatura.
+
+II. Duración de la legislatura. (del año __ al año _ ).
+
+III. Año legislativo que corresponda. (Primer año, Segundo año, Tercer año).
+
+IV. Periodo de Sesión en curso. (Ordinario o extraordinario).
+
+V. Fecha de inicio del período de sesiones. (día/mes/año)
+
+VI. Fecha de término del período de sesiones. (día/mes/año)
+
+VII. Fundamento legal que obliga a la publicación de la Gaceta Parlamentaria.
+
+VIII. Número consecutivo del ejemplar de la Gaceta Parlamentaria.
+
+IX. Fecha en que se emite la Gaceta Parlamentaria.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2017)</small>
+
+###### ARTÍCULO 149.
+
+Las Gacetas Parlamentarias que se generen durante la Legislatura deberán conservarse disponibles en el portal oficial de internet del Congreso con los datos de identificación a que se refiere el artículo anterior, por lo menos durante tres legislaturas posteriores a su emisión.
+
 ## TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
@@ -1372,3 +1456,13 @@ Por tanto mando se imprima, publique, circule y se le de el debido cumplimiento.
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los treinta días del mes de septiembre del año dos mil dieciséis.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. LIC. MARIO TREVIZO SALAZAR. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXV/RFLEY/0353/2017 V P.E., MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA, ASÍ COMO DEL REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO DEL ESTADO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
