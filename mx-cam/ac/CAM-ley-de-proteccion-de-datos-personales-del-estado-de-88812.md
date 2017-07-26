@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-proteccion-de-datos-personales-del-estado-de-88812"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-09"
-last_updated: "2013-01-21"
+last_updated: "2017-07-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY DE PROTECCION DE DATOS PERSONALES DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. DE 26 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 9 de julio de 2012.
 
@@ -606,3 +608,25 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Notifíquese el presente decreto al H. Tribunal Superior de Justicia y a la Comisión de Transparencia y Acceso a la Información Pública del Estado.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 26 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 198 POR EL QUE "SE EXPIDE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE CAMPECHE."]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Campeche.
+
+SEGUNDO. Se abroga la Ley de Protección de Datos Personales del Estado de Campeche y sus Municipios expedida por decreto 231 de la LX Legislatura, publicada en el Periódico Oficial del Estado el 9 de julio de 2012.
+
+TERCERO. Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en todo los (sic) que se oponga al contenido del presente decreto.
+
+CUARTO. Los responsables expedirán sus avisos de privacidad en los términos previstos en la presente Ley y demás disposiciones aplicables, a más tardar seis meses después de la entrada en vigor de ésta ley.
+
+QUINTO. Los procedimientos de acceso, rectificación, oposición o cancelación de datos personales, los recursos de revisión y los procedimientos de vigilancia que se estén tramitando al momento en que entre en vigor el presente decreto se resolverán y sustanciarán hasta su conclusión conforme a la Ley vigente al momento de la presentación de la solicitud o interposición del recurso.
+
+SEXTO. La Comisión deberá expedir los lineamientos, parámetros, criterios y demás disposiciones de las diversas materias a que se refiere la presente Ley, dentro de un año siguiente a la entrada en vigor de ésta.
+
+SÉPTIMO. Los sujetos obligados deberán tramitar, expedir o modificar su normatividad interna a más tardar dentro de seis meses siguientes a la entrada en vigor de esta Ley.
+
+OCTAVO. La Comisión realizará las adecuaciones necesarias a su Reglamento Interior, para el ejercicio de sus atribuciones, de conformidad con lo previsto en la presente ley, dentro de los seis meses siguientes a la entrada en vigor del presente decreto.
+
+NOVENO. La Comisión, tomará las previsiones presupuestales necesarias para la operación de la presente Ley en su Presupuesto de Egresos para el ejercicio fiscal siguiente a su entrada en vigor.
