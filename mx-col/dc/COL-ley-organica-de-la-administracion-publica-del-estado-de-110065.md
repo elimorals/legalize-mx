@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-administracion-publica-del-estado-de-110065"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-10-01"
-last_updated: "2016-09-02"
+last_updated: "2017-07-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el jueves 1 de octubre de 2015.
 
@@ -39,7 +39,9 @@ D E C R E T O
 
 EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 33 FRACCIÓN II Y 39 DE LA CONSTITUCIÓN POLÍTICA LOCAL, EN NOMBRE DEL PUEBLO, Y
 
-C O N S I D E R A N D O:...
+C O N S I D E R A N D O:
+
+[...]
 
 Por lo anteriormente expuesto, se expide el siguiente:
 
@@ -871,7 +873,9 @@ XXI.- Colaborar, cuando así lo soliciten otras autoridades federales, estatales
 
 XXII.- Auxiliar al Poder Judicial del Estado, a la Procuraduría General de Justicia del Estado y a los Municipios, cuando así lo requieran, para el debido ejercicio de sus funciones;
 
-XXIII.- Administrar el Instituto para el Tratamiento de Menores Infractores, en términos de la política especial correspondiente y con estricto apego a los derechos humanos;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2017)</small>
+
+XXIII.- Regular y evaluar las funciones, servicios, acciones y políticas, derivadas de la aplicación del Sistema Integral de Justicia Penal para Adolescentes;
 
 XXIV.- Coordinar junto con las policías municipales acciones conjuntas y colaborar en el diseño de sus planes operativos;
 
@@ -1110,3 +1114,17 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Gobernador dentro de los noventa días siguientes a partir de la entrada en vigor del presente Decreto, expedirá el Reglamento Interior de la Contraloría General del Estado.
 
 TERCERO. Todos los bienes muebles e inmuebles, relaciones laborales, contractuales, todos los procedimientos y juicios que actualmente cuenta la Contraloría General del Estado, dependiente de la Secretaría de Planeación y Finanzas, pasaran y los conocerá la Contraloría General del Estado a que se refiere al párrafo segundo del artículo 10, del presente decreto.
+
+P.O. 26 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 331 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA Y DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE COLIMA, EN MATERIA DEL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. Todos los recursos materiales y financieros, así como el personal adscrito al Instituto para el Tratamiento de Menores Infractores del Estado de Colima, se consideran transferidos al Instituto Especializado en la Ejecución de Medidas para Adolescentes del Estado, con pleno respeto a sus derechos laborales.
+
+TERCERO. El Gobernador del Estado, a propuesta del Director General del Instituto Especializado en la Ejecución de Medidas para Adolescentes del Estado, estará facultado para emitir los proyectos de reglamentos, acuerdos, decretos y lineamientos necesarios para proveer en la esfera administrativa la exacta observancia de las disposiciones contenidas en el presente Decreto.
+
+CUARTO. Los asuntos y procedimientos penales que se encuentren en trámite ante el Instituto para el Tratamiento de Menores Infractores del Estado a la entrada en vigor del presente Decreto, continuarán su trámite ante el Instituto Especializado en la Ejecución de Medidas para Adolescentes, de conformidad a las disposiciones del Sistema de Justicia penal para Adolescentes, vigente al momento de su inicio.
+
+QUINTO. Cualquier mención realizada en las leyes, reglamentos y demás ordenamientos jurídicos del Estado con relación a (sic) Instituto para el Tratamiento de Menores Infractores del Estado o a su Director General, incluyendo sus términos equivalentes, se entenderá hecha al Instituto Especializado en la Ejecución de Medidas para Adolescentes o al Director General del Instituto Especializado en la Ejecución de Medidas para Adolescentes respectivamente, quienes asumirán todas las funciones y atribuciones que dichas leyes, reglamentos y ordenamientos disponen para aquellas autoridades cuya denominación ha cambiado.
