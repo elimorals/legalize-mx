@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-1122
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-01-20"
-last_updated: "2017-06-07"
+last_updated: "2017-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2017.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de enero de 2016.
 
@@ -1333,7 +1333,9 @@ IV.- Elaborar los proyectos de dictámenes que recaigan a las iniciativas presen
 
 V.- Elaborar, actualizar y publicar lo relativo al Diario de los Debates.
 
-VI.- Elaborar y publicar la Gaceta Parlamentaria, en los términos del reglamento que para tales efectos se expida.
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2017)</small>
+
+VI.- Elaborar y publicar la Gaceta Parlamentaria, en los términos que señale el Reglamento Interior y de Prácticas Parlamentarias del Poder Legislativo.
 
 VII.- Coordinar todo lo relativo a las actividades de la Biblioteca del Congreso “Carlos Montemayor”.
 
@@ -2380,3 +2382,11 @@ PRIMERO.- La Junta de Coordinación Política pondrá a consideración del Pleno
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 TERCERO.- La Presidencia de la Mesa Directiva acordará con la Secretaría de Administración todas las previsiones administrativas y presupuestales necesarias para el acondicionamiento y equipamiento del inmueble que será sede del Archivo Histórico del Poder Legislativo.
+
+P.O. 26 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXV/RFLEY/0353/2017 V P.E., MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA, ASÍ COMO DEL REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO DEL ESTADO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
