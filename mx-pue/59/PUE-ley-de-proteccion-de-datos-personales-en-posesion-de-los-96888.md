@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-proteccion-de-datos-personales-en-posesion-de-los-96888"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-25"
-last_updated: "2013-11-25"
+last_updated: "2017-07-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96888&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DE PROTECCION DE DATOS PERSONALES EN POSESION DE LOS SUJETOS OBLIGADOS DEL ESTADO DE PUEBLA
 
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO PRIMERO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE 26 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2017 (ABROGADA).
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el lunes 25 de noviembre de 2013.
 
@@ -738,3 +740,25 @@ CUARTO.- Se deroga el Capítulo Cuarto de la Ley de Transparencia y Acceso a la 
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro veces Heroica Puebla de Zaragoza, a los treinta y un días del mes de julio de dos mil trece.- Diputado Presidente.- JOSÉ ANTONIO GALI LÓPEZ.- Rúbrica.- Diputado Vicepresidente.- GERARDO MEJÍA RAMÍREZ.- Rúbrica.- Diputada Secretaria.- JOSEFINA BUXADÉ CASTELÁN.- Rúbrica.- Diputado Secretario. HUGO ALEJO DOMÍNGUEZ.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, al primer día del mes de agosto del año dos mil trece.- El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. LUIS MALDONADO VENEGAS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE EXPIDE LA LEY DE PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. Se abroga la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Puebla, publicada el 25 de noviembre del año 2013, en el Periódico Oficial del Estado.
+
+SEGUNDO. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+TERCERO. Se derogan todas aquellas disposiciones en materia de protección de Datos Personales que contravengan lo dispuesto por la presente Ley.
+
+CUARTO. Los Responsables expedirán sus avisos de privacidad en los términos previstos en la presente Ley y demás disposiciones aplicables, a más tardar tres meses después de la entrada en vigor de ésta.
+
+QUINTO. Los Responsables deberán observar lo dispuesto en el Título Segundo, Capítulo II de esta Ley, a más tardar un año después de la entrada en vigor de ésta.
+
+SEXTO. El Instituto de Transparencia deberá expedir los lineamientos, parámetros, criterios y disposiciones de las diversas materias a que se refiere la presente Ley, dentro del año siguiente a la entrada en vigor de ésta.
+
+SÉPTIMO. Los procedimientos iniciados durante la vigencia de la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Puebla se substanciarán hasta su conclusión, conforme al ordenamiento señalado.
+
+OCTAVO. Se deberán hacer las previsiones presupuestales necesarias para la operación de la presente Ley y establecer las partidas presupuestales específicas en el Presupuesto de Egresos del Estado de Puebla para el siguiente ejercicio fiscal a su entrada en vigor.
