@@ -4,7 +4,7 @@ identifier: "COL-ley-del-sistema-de-seguridad-publica-para-el-estado-de-103535"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-08"
-last_updated: "2016-11-22"
+last_updated: "2017-07-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103535&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 8 de noviembre de 2014.
 
@@ -111,9 +111,11 @@ IX. La investigación y persecución de los delitos para hacer efectiva la segur
 
 X. Establecer un adecuado funcionamiento del sistema penitenciario, donde se privilegie la reinserción social del individuo y en su caso del adolescente.
 
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 3.
 
-La función de seguridad pública se realizará en los diversos ámbitos de competencia por conducto de las Instituciones Policiales, del Ministerio Público, de las instituciones responsables de la prisión preventiva y ejecución de penas, de las autoridades competentes en materia de justicia para adolescentes, así como por las demás autoridades que en razón de sus atribuciones deban contribuir directa o indirectamente al objeto de esta Ley.
+La función de seguridad pública se realizará en los diversos ámbitos de competencia por conducto de las Instituciones Policiales, del Ministerio Público, de las instituciones responsables de la prisión preventiva y ejecución de penas, de las autoridades competentes en materia de Justicia Penal para Adolescentes, así como por las demás autoridades que en razón de sus atribuciones deban contribuir directa o indirectamente al objeto de esta Ley.
 
 ###### ARTÍCULO 4.
 
@@ -125,101 +127,113 @@ Corresponde al Estado la implementación, supervisión, desarrollo y coordinaci�
 
 Las autoridades del Estado y los Municipios en el ámbito de sus respectivas competencias desarrollarán programas para la prevención del delito y la participación de la comunidad, la promoción, atención de la denuncia ciudadana y la denuncia anónima, la investigación, persecución y sanción de las infracciones y los delitos, así como la reinserción social de las personas y el tratamiento de adolescentes en conflicto con las leyes penales.
 
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 6.
 
 Para los efectos de la presente Ley, se entenderá por:
 
-I. Arma: a cualquier instrumento que pueda ser utilizado para repeler una agresión de un infractor de la ley;
+I. Adolescente: a la persona cuya edad está entre los doce años cumplidos y menos de dieciocho;
 
-II. Armas de fuego: a las autorizadas para el uso de los cuerpos de seguridad pública de conformidad con la Ley Federal de Armas de Fuego y Explosivos y su Reglamento;
+II. Arma: a cualquier instrumento que pueda ser utilizado para repeler una agresión de un infractor de la ley;
 
-III. Base de datos: a las bases de datos del Estado en conjunción con las nacionales y la información contenida en ellas, en materia de detenciones, información criminal, personal de seguridad pública, servicios de seguridad privada, armamento y equipo, vehículos, huellas dactilares, teléfonos celulares, sentenciados y las demás necesarias para la operación del Sistema;
+III. Armas de fuego: a las autorizadas para el uso de los cuerpos de seguridad pública de conformidad con la Ley Federal de Armas de Fuego y Explosivos y su Reglamento;
 
-IV. Carrera Ministerial: al Servicio Profesional de Carrera en la Procuración de Justicia;
+IV. Base de datos: a las bases de datos del Estado en conjunción con las nacionales y la información contenida en ellas, en materia de detenciones, información criminal, personal de seguridad pública, servicios de seguridad privada, armamento y equipo, vehículos, huellas dactilares, teléfonos celulares, sentenciados y las demás necesarias para la operación del Sistema;
 
-V. Carrera Policial: al Servicio Profesional de Carrera Policial;
+V. Carrera Ministerial: al Servicio Profesional de Carrera en la Procuración de Justicia;
 
-VI. Centro de Control y Confianza: al Centro Estatal de Evaluación y Control de Confianza;
+VI. Carrera Policial: al Servicio Profesional de Carrera Policial;
 
-VII. Comisario: al Comisario de la Policía Estatal Acreditable;
+VII. Centro de Control y Confianza: al Centro Estatal de Evaluación y Control de Confianza;
 
-VIII. Consejo Estatal: al Consejo Estatal de Seguridad Pública;
+VIII. Comisario: al Comisario de la Policía Estatal Acreditable;
 
-IX. Consejo Municipal: al Consejo Municipal de Seguridad Pública de cada Ayuntamiento;
+IX. Consejo Estatal: al Consejo Estatal de Seguridad Pública;
 
-X. Constitución: a la Constitución Política de los Estados Unidos Mexicanos;
+X. Consejo Municipal: al Consejo Municipal de Seguridad Pública de cada Ayuntamiento;
 
-XI. Constitución Política del Estado: a la Constitución Política del Estado Libre y Soberano de Colima;
+XI. Constitución: a la Constitución Política de los Estados Unidos Mexicanos;
 
-XII. Desarrollo Policial: al conjunto integral de reglas y procesos debidamente estructurados y enlazados entre sí que comprenden la Carrera Policial, los esquemas de profesionalización, la certificación y el régimen disciplinario de los integrantes de las Instituciones de Seguridad Publica y tiene por objeto garantizar el desarrollo institucional, la estabilidad, la seguridad y la igualdad de oportunidades de los mismos; elevar la profesionalización, fomentar la vocación de servicio y el sentido de pertenencia, así como garantizar el cumplimiento de los principios constitucionales referidos en esta Ley;
+XII. Constitución Política del Estado: a la Constitución Política del Estado Libre y Soberano de Colima;
 
-XIII. Dirección: a la Dirección General de la Policía Estatal;
+XIII. Desarrollo Policial: al conjunto integral de reglas y procesos debidamente estructurados y enlazados entre sí que comprenden la Carrera Policial, los esquemas de profesionalización, la certificación y el régimen disciplinario de los integrantes de las Instituciones de Seguridad Publica y tiene por objeto garantizar el desarrollo institucional, la estabilidad, la seguridad y la igualdad de oportunidades de los mismos; elevar la profesionalización, fomentar la vocación de servicio y el sentido de pertenencia, así como garantizar el cumplimiento de los principios constitucionales referidos en esta Ley;
 
-XIV. Director: al Director General de la Policía Estatal;
+XIV. Dirección: a la Dirección General de la Policía Estatal;
 
-XV. Director Ministerial: al Director General de la Policía Investigadora;
+XV. Director: al Director General de la Policía Estatal;
 
-XVI. Fuerza: al medio por el cual el integrante de la institución policial logra el control de una situación que atenta contra la seguridad, el orden público, la integridad o la vida de las personas;
+XVI. Director Ministerial: al Director General de la Policía investigadora;
 
-XVII. Gabinete: al Gabinete de Seguridad Estatal;
+XVII. Fuerza: al medio por el cual el integrante de la institución policial logra el control de una situación que atenta contra la seguridad, el orden público, la integridad o la vida de las personas;
 
-XVIII. Instituciones de Procuración de Justicia: a las instituciones del Estado que integran al Ministerio Público, los servicios periciales y demás auxiliares de aquél;
+XVIII. Gabinete: al Gabinete de Seguridad Estatal;
 
-XIX. Instituciones de Seguridad Pública: a las instituciones policiales, las de procuración de justicia, del Sistema Penitenciario y dependencias encargadas de la seguridad pública a nivel estatal y municipal;
+XIX. Guía Técnico: al responsable de velar por la integridad física de la persona adolescente y garante del orden, respeto y la disciplina al interior del centro especializado e integrante de las instituciones policiales;
 
-XX. Instituciones Policiales: a los cuerpos de policía, de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva, o de centros de arraigos; y, en general, todas las dependencias encargadas de la seguridad pública a nivel estatal y municipal, que realicen funciones similares;
+XX. Instituciones de Procuración de Justicia: a las instituciones del Estado que integran al Ministerio Público, los servicios periciales y demás auxiliares de aquél;
 
-XXI. Instituto: al Instituto de Capacitación Policial;
+XXI. Instituciones de Seguridad Pública: a las instituciones policiales, las de procuración de justicia, del Sistema Penitenciario y dependencias encargadas de la seguridad pública a nivel estatal y municipal;
 
-XXII. Legítima Defensa: la acción que se ejecute para repeler una agresión real, actual o inminente, sin derecho, en protección de bienes jurídicos propios o ajenos, siempre que exista la necesidad de la defensa y se observe la racionalidad de los medios empleados y no medie provocación dolosa suficiente e inmediata del agredido o de la persona a quien se defiende;
+XXII. Instituciones Policiales: a los cuerpos de policía, de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva, o de centros de arraigos; y, en general, todas las dependencias encargadas de la seguridad pública a nivel estatal y municipal, que realicen funciones similares;
 
-XXIII. Ley: a la Ley del Sistema de Seguridad Pública para el Estado de Colima;
+XXIII. Instituto: al Instituto de Capacitación Policial;
 
-XXIV. Ley General: a la Ley General del Sistema Nacional de Seguridad Pública;
+XXIV. Instituto Especializado en la Ejecución de Medidas para Adolescentes del Estado: a la Autoridad Administrativa Especializado en la Ejecución de Medidas para Adolescentes, con autonomía técnica, operativa y de gestión, constituido como un Órgano Desconcentrado, dependiente de la Secretaría de Seguridad Pública del Estado;
 
-XXV. Policía Auxiliar: al órgano dependiente de la Policía Estatal Preventiva cuya función es proporcionar servicios de protección, custodia y vigilancia de personas y bienes, valores e inmuebles a dependencias, entidades y órganos de los Poderes Ejecutivo, Legislativo y Judicial del Estado, órganos autónomos federales y locales;
+XXV. Legítima Defensa: a la acción que se ejecute para repeler una agresión real, actual o inminente, sin derecho, en protección de bienes jurídicos propios o ajenos, siempre que exista la necesidad de la defensa y se observe la racionalidad de los medios empleados y no medie provocación dolosa suficiente e inmediata del agredido o de la persona a quien se defiende;
 
-XXVI. Policía Estatal: a la Policía Estatal Preventiva y Policía Estatal Acreditable;
+XXVI. Ley: a la Ley del Sistema de Seguridad Pública para el Estado de Colima;
 
-XXVII. Policía Estatal Acreditable: al Nuevo Modelo de Policial Estatal;
+XXVII. Ley General: a la Ley General del Sistema Nacional de Seguridad Pública;
 
-XXVIII. Policía Municipal: a la Policía Preventiva de los Municipios;
+XXVIII. Ley de Adolescentes: a la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes;
 
-XXIX. Protocolo de evaluación: a aquellos que se adopten como procedimientos de evaluación y actuación en el Centro de Control y Confianza;
+XXIX. Policía Auxiliar: al órgano dependiente de la Policía Estatal Preventiva cuya función es la prestación de servicios de seguridad, custodia, traslado de valores, protección y vigilancia de personas, así como aquellos que produzcan bienes y servicios que contribuyan a la generación de recursos económicos para el Estado; prestación de servicios que se podrá otorgar a personas físicas y morales, públicas y privadas que así lo requieran;
 
-XXX. Protocolos de investigación: a aquellos que se adopten como métodos de investigación que garanticen la recopilación técnica y científica de evidencias que permitan la acreditación del hecho delictivo y la probable responsabilidad del inculpado, por parte de las Instituciones de Seguridad Pública;
+XXX. Policía Estatal: a la Policía Estatal Preventiva y Policía Estatal Acreditable;
 
-XXXI. Registro: al Registro Público Vehicular del Estado de Colima;
+XXXI. Policía Estatal Acreditable: al Nuevo Modelo de Policial (sic) Estatal;
 
-XXXII. Repuve: al Registro Público Vehicular;
+XXXII. Policía Municipal: a la Policía Preventiva de los Municipios;
 
-XXXIII. Registro Estatal: al Registro Estatal de Personal de Seguridad Pública;
+XXXIII. Protocolo de evaluación: a aquellos que se adopten como procedimientos de evaluación y actuación en el Centro de Control y Confianza;
 
-XXXIV. Reglamento: al Reglamento de la Ley del Sistema de Seguridad Pública para el Estado de Colima;
+XXXIV. Protocolos de investigación: a aquellos que se adopten como métodos de investigación que garanticen la recopilación técnica y científica de evidencias que permitan la acreditación del hecho delictivo y la probable responsabilidad del inculpado, por parte de las Instituciones de Seguridad Pública;
 
-XXXV. Resistencia: cuando una persona se niega a obedecer órdenes legítimas comunicadas de manera directa por el policía, quien previamente se ha identificado como tal, sin que implique actos que pongan en peligro la integridad física o la vida del agente de policía o de terceros, o cuando una persona realiza acciones u omisiones con el propósito de provocar lesiones a sí mismo, a un tercero o al Policía o con el fin de dañar bienes propios o ajenos, a efecto de impedir que sea detenido;
+XXXV. Registro: al Registro Público Vehicular del Estado de Colima;
 
-XXXVI. Seguridad Pública: a aquellas actividades del Estado en sus tres órdenes de gobierno, encaminadas a prevenir, combatir las infracciones y los delitos, salvaguardar la integridad y protección de los bienes y derechos de las personas, las libertades, el orden y la paz públicos, así como las acciones que se realizan para la procuración e impartición de justicia, la ejecución de sentencias penales, la readaptación social del sentenciado, la adaptación social de los adolescentes; la protección de los recursos naturales, de las instalaciones y servicios estratégicos del gobierno, y, en general todas las que realicen directa o indirectamente las instituciones, dependencias y entidades que deban contribuir a sus objetivos y fines;
+XXXVI. Repuve: al Registro Público Vehicular;
 
-XXXVII. Secretaría: a la Secretaría General de Gobierno del Estado;
+XXXVII. Registro Estatal: al Registro Estatal de Personal de Seguridad Pública;
 
-XXXVIII. Secretario: al Secretario General de Gobierno;
+XXXVIII. Reglamento: al Reglamento de la Ley del Sistema de Seguridad Pública para el Estado de Colima;
 
-XXXIX. Secretaría de Seguridad Pública: a la Secretaría de Seguridad Pública del Gobierno del Estado;
+XXXIX. Resistencia: al hecho cuando una persona se niega a obedecer órdenes legítimas comunicadas de manera directa por el policía, quien previamente se ha identificado como tal, sin que implique actos que pongan en peligro la integridad física o la vida del agente de policía o de terceros, o cuando una persona realiza acciones u omisiones con el propósito de provocar lesiones a sí mismo, a un tercero o al Policía o con el fin de dañar bienes propios o ajenos, a efecto de impedir que sea detenido;
 
-XL. Secretario de Seguridad Pública: al Secretario de Seguridad Pública;
+XL. Sistema Integral: al Sistema Integral de justicia penal para adolescentes previsto en la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes;
 
-XLI. Secretario Ejecutivo: al Secretario Ejecutivo del Sistema Estatal de Seguridad Pública;
+XLI. Seguridad Pública: a aquellas actividades del Estado en sus tres órdenes de gobierno, encaminadas a prevenir, combatir las ¡infracciones (sic) y los delitos, salvaguardar la integridad y protección de los bienes y derechos de las personas, las libertades, el orden y la paz públicos, así como las acciones que se realizan para la procuración e impartición de justicia, la ejecución de sentencias penales, la readaptación social del sentenciado, la adaptación social de los adolescentes; la protección de los recursos naturales, de las instalaciones y servicios estratégicos del gobierno, y, en general todas las que realicen directa o indirectamente las instituciones, dependencias y entidades que deban contribuir a sus objetivos y fines;
 
-XLII. Secretariado Ejecutivo: al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
+XLII. Secretaría: a la Secretaría General de Gobierno del Estado;
 
-XLIII. Secretario Ejecutivo Municipal: al Secretario Ejecutivo del Consejo Municipal de cada Ayuntamiento;
+XLIII. Secretario: al Secretario General de Gobierno;
 
-XLIV. Sistema: al Sistema Estatal de Seguridad Pública;
+XLIV. Secretaría de Seguridad Pública: a la Secretaría de Seguridad Pública del Gobierno del Estado;
 
-XLV. Sistema Nacional: al Sistema Nacional de Seguridad Pública; y
+XLV. Secretario de Seguridad Pública: al Secretario de Seguridad Pública;
 
-XLVI. Uso Legítimo de la Fuerza: a la aplicación de métodos, técnicas y tácticas con base en distintos niveles de fuerza, en el ejercicio de las funciones, de conformidad con la legislación aplicable.
+XLVI. Secretario Ejecutivo: al Secretario Ejecutivo del Sistema Estatal de Seguridad Pública;
+
+XLVII. Secretariado Ejecutivo: al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
+
+XLVIII. Secretario Ejecutivo Municipal: al Secretario Ejecutivo del Consejo Municipal de cada Ayuntamiento;
+
+XLIX. Sistema: al Sistema Estatal de Seguridad Pública;
+
+L. Sistema Nacional: al Sistema Nacional de Seguridad pública; y
+
+LI. Uso Legítimo de la Fuerza: a la aplicación de métodos, técnicas y tácticas con base en distintos niveles de fuerza, en el ejercicio de ras (sic) funciones, de conformidad con la legislación aplicable.
 
 ###### ARTÍCULO 7.
 
@@ -313,9 +327,17 @@ A falta de previsión expresa en la presente Ley, se estará a las siguientes re
 
 I. Respecto del apoyo y coordinación interinstitucional de los tres órdenes de gobierno, se estará a lo dispuesto en la Ley General, y a las resoluciones y acuerdos emitidos por el Consejo Nacional de Seguridad Pública y el Consejo Estatal de Seguridad Pública;
 
-II. En materia de procedimientos administrativos de carrera policial y del régimen disciplinario, el Código de Procedimientos Civiles para el Estado de Colima, la Ley del Servicio Profesional de Carrera en Procuración de Justicia del Estado de Colima y la Ley del Procedimiento Administrativo del Estado y sus Municipios; y
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2017)</small>
 
-III. Los principios generales del derecho.
+II. En materia de procedimientos administrativos de carrera policial y del régimen disciplinario, el Código de Procedimientos Civiles para el Estado de Colima, la Ley del Servicio Profesional de Carrera en Procuración de Justicia del Estado de Colima y la Ley de procedimiento Administrativo del Estado y sus Municipios;
+
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2017)</small>
+
+III. Los principios generales del derecho; y
+
+> <small>(ADICIONADA, P.O. 26 DE JULIO DE 2017)</small>
+
+IV. En materia de Justicia para Adolescentes, la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes y disposiciones jurídicas que de ésta emanen.
 
 En caso de no encontrarse regulada la materia o acción en la ley o en los lineamientos generales, las resoluciones o los acuerdos se ejecutarán mediante convenios generales y específicos entre las partes componentes del Sistema Estatal, que no deberán ser contrarios a los objetivos y fines de esta Ley.
 
@@ -535,7 +557,9 @@ XXVIII. Dar seguimiento a los acuerdos, lineamientos y políticas emitidos por e
 
 XXIX. Las demás que se establezcan en otras disposiciones normativas y las que sean necesarias para el funcionamiento del Sistema.
 
-Para el conocimiento de las distintas materias de coordinación a que se refiere esta Ley, el Consejo Estatal, podrá crear comisiones especiales permanentes o temporales para estudiar, proponer y evaluar políticas, planes, programas y acciones en materia de prevención de delitos, combate e investigación de las faltas administrativas y delitos, tránsito y educación vial, reinserción social, derechos humanos, de orientación, protección y tratamiento de adolescentes, de procuración e impartición de justicia, de participación municipal, de consulta y participación ciudadana en seguridad pública, así como aquellas que se determinen de acuerdo a las necesidades que se tengan para atender la seguridad pública.
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2017)</small>
+
+Para el conocimiento de las distintas materias de coordinación a que se refiere esta Ley, el consejo Estatal, podrá crear comisiones especiales permanentes o temporales para estudiar, proponer y evaluar políticas, planes, programas y acciones, en materia de prevención de delitos, combate e investigación de las faltas administrativas y delitos, tránsito y educación vial, reinserción social, derechos humanos, de orientación, en materia de Justicia penal para Adolecentes (sic), de procuración e impartición de justicia, de participación municipal, de consulta y participación ciudadana, en seguridad pública, así como aquellas que se determinen de acuerdo a las necesidades que se tengan para atender la seguridad pública.
 
 ### CAPÍTULO IV. DEL SECRETARIADO EJECUTIVO
 
@@ -1375,7 +1399,9 @@ II. Aquella cuya divulgación implique la revelación de procedimientos, método
 
 III. Aquella cuya revelación pueda ser utilizada para actualizar o potenciar una amenaza a la seguridad pública o a las instituciones del Estado; la que sea producto de una intervención de comunicaciones privadas autorizadas conforme a la Constitución y las disposiciones legales correspondientes; y
 
-IV. La contenida en averiguaciones previas, carpetas de investigación, entrevistas, expedientes, los demás archivos o sus soportes en medios electrónicos relativos a la investigación, para la prevención y la investigación de los delitos en los términos de esta Ley y en las disposiciones contenidas en el Código Nacional de Procedimientos Penales y las relacionadas con las faltas administrativas, por el tiempo que determinen las autoridades competentes.
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2017)</small>
+
+IV. La contenida en averiguaciones previas, carpetas de investigación, entrevistas, expedientes, los demás archivos o sus soportes en medios electrónicos relativos a la investigación, para la prevención y la investigación de los delitos en los términos de esta Ley, las disposiciones contenidas en el Código Nacional de Procedimientos Penales, las contenidas en los procedimientos en materia de Justicia Penal para Adolescentes y las relacionadas con las faltas administrativas, por el tiempo que determinen las autoridades competentes.
 
 ###### ARTÍCULO 77.
 
@@ -1388,6 +1414,10 @@ Para los efectos de la integración y manejo de la información a que se refiere
 ###### ARTÍCULO 79.
 
 La inobservancia a lo dispuesto en el presente Título constituye responsabilidad administrativa grave para los efectos de las disposiciones legales aplicables, sin perjuicio de la sanción penal prevista en el Código Penal para el Estado de Colima y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2017)</small>
+
+A la simple divulgación de los datos que se tengan clasificados como confidenciales de niños, niñas y adolescentes, además de la sanción que determine la autoridad administrativa, se aplicarán las penas señaladas para el tipo penal básico del delito contra la administración de justicia, cometido por servidores públicos, en términos de lo dispuesto por el artículo 240 del Código Penal para el Estado de Colima.
 
 ### CAPÍTULO II. INTERCAMBIO, SUMINISTRO Y ACCESO A LA INFORMACIÓN
 
@@ -1699,7 +1729,9 @@ Además de lo señalado, las armas a que se refiere este artículo deberán insc
 
 Las Instituciones de Seguridad Pública y los particulares que presten servicios de seguridad, deberán contar con la licencia oficial y particular colectiva que expida la Secretaría de la Defensa Nacional, que autorice la portación de armas de fuego a los miembros de los mismos, siendo obligación de las autoridades señaladas en esta Ley, vigilar que la referida licencia se mantenga vigente.
 
-La Secretaría administrará la Licencia Oficial Colectiva, para tal efecto, supervisará y controlará las altas y bajas de armamento, municiones, equipo y personal autorizado para portarlo, de la Policía Estatal, policía preventiva municipal y custodios de los diversos centros de reinserción social y tratamiento para adolescentes, así como de cualquier otro cuerpo de seguridad que utilice el armamento amparado por esta licencia.
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2017)</small>
+
+La Secretaría administrará la Licencia Oficial Colectiva, para tal efecto, supervisará y controlará las altas y bajas de armamento, municiones, equipo y personal autorizado para portarlo, de la Policía Estatal, policía preventiva municipal, custodios de los diversos centros de reinserción social y del personal de Justicia Penal para Adolescentes, así como de cualquier otro cuerpo de seguridad que utilice el armamento amparado por esta licencia.
 
 En caso de extravío, pérdida o robo del armamento bajo resguardo del Municipio, éste sufragará con cargo a su presupuesto, las sanciones o multas que imponga la Secretaría de la Defensa Nacional al Gobierno del Estado, asumiendo a su vez el pago correspondiente a los trámites relativos a la baja de armamento o modificación de la licencia oficial colectiva.
 
@@ -1810,6 +1842,18 @@ Para tales efectos los integrantes de las Instituciones de Seguridad Pública, d
 En las actividades de prevención del delito y para la obtención de información, las Instituciones de Seguridad Pública, podrán valerse de la recepción de denuncias anónimas, disponiendo de estrategias para la publicidad y promoción en el fomento a la cultura de la denuncia.
 
 Para los fines anteriores, las Instituciones de Seguridad Pública podrán instalar y operar en lugares públicos, así como en vehículos oficiales, cámaras de circuito cerrado de televisión o fijas, con propósitos de vigilancia, control y localización de personas y bienes, en términos de lo que disponga la Ley que Regula la Video Vigilancia en el Estado de Colima y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2017)</small>
+
+En la investigación de los hechos señalados como delitos atribuidos a las personas sujetas a la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, las policías deberán contar con capacitación especializada en materia del Sistema Integral de Justicia Penal para Adolescentes, y actuarán bajo estricto apego a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, así como a las obligaciones establecidas en esta Ley, y las demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2017)</small>
+
+En los casos de detención en flagrancia, serán válidas las actuaciones de la policía, siempre que no contravengan los principios previstos en la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, los derechos de las personas adolescentes establecidas en la misma y las demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2017)</small>
+
+La policía por ningún motivo podrá exhibir o exponer públicamente a las niñas, niños y adolescentes; ni publicar o divulgar grabación, filmación, imagen o cualquier otra información relacionada con los mismos.
 
 ###### ARTÍCULO 114.
 
@@ -1927,7 +1971,9 @@ IX. Presentar iniciativas de Ley, expedir los reglamentos y disposiciones admini
 
 X. Emitir las normas, políticas y lineamientos para regular el funcionamiento de la Policía Estatal;
 
-XI. Promover una amplia participación de la sociedad en el análisis de la problemática sobre prevención de los delitos, faltas administrativas y las infracciones de los adolescentes, así como en el diseño de las políticas, medidas y acciones que en la materia procedan;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2017)</small>
+
+XI. Promover una amplia participación de la sociedad, en el análisis de la problemática sobre prevención de los delitos, faltas administrativas y las infracciones de los adolescentes en conflicto con la ley penal, así como en el diseño de las políticas, medidas y acciones que en la materia procedan;
 
 XII. Celebrar convenios y acuerdos con la Federación, las Entidades Federativas, Municipios de la entidad y otros organismos e instituciones de los sectores público, privado y social, para mejorar la función de seguridad pública y operación del Sistema, conforme a la Ley General, la Constitución del Estado, la Ley Orgánica del Poder Ejecutivo del Estado, esta Ley y demás disposiciones jurídicas aplicables;
 
@@ -2497,15 +2543,21 @@ XXX. Colaborar, a solicitud de las autoridades competentes, con los Sistemas Est
 
 XXXI. Sujetarse a la rotación de personal;
 
-XXXII. Rendir su declaración de situación patrimonial ante la Secretaría de Administración del Gobierno del Estado; y
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2017)</small>
 
-(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE SEPTIEMBRE DE 2016) (REFORMADA [N. DE E. REPUBLICADA], P.O. 15 DE OCTUBRE DE 2016)
+XXXII. Rendir su declaración de situación patrimonial ante la Secretaría de Administración del Gobierno del Estado;
 
-XXXIII. Abstenerse de impedir bajo amenaza, coacción o intimidación la video-grabación o fotografía que realicen los espectadores de sus actividades realizadas como servidores públicos en espacios públicos; y
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2017)</small>
+
+XXXIII. Abstenerse de impedir bajo amenaza, coacción o intimidación la videograbación o fotografía que realicen los espectadores de sus actividades realizadas como servidores públicos en espacios públicos;
+
+> <small>(ADICIONADA, P.O. 26 DE JULIO DE 2017)</small>
+
+XXXIV. Respetar el derecho a la intimidad personal y familiar de los niños, niñas y adolescentes, evitando cualquier intromisión indebida a su vida privada o a la de su familia, debiendo proteger la información que se refiera a su vida privada, la de su familia y sus datos personales, para evitar su divulgación y uso indebido, en los términos establecidos en la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes y demás ordenamientos legales de la materia; y
 
 (ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE SEPTIEMBRE DE 2016) (ADICIONADA [N. DE E. REPUBLICADA], P.O. 15 DE OCTUBRE DE 2016)
 
-XXXIV. Las demás que establezcan las disposiciones legales aplicables.
+XXXV. Las demás que establezcan las disposiciones legales aplicables.
 
 Siempre que todo integrante de las instituciones policiales tenga la necesidad de hacer uso de la fuerza pública, deberá hacerlo de manera racional, congruente, oportuna y con respeto a los derechos humanos. Para tal efecto, deberá apegarse a las disposiciones normativas y administrativas aplicables, realizándolas conforme a derecho.
 
@@ -3790,3 +3842,17 @@ P.O. 22 DE NOVIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
+
+P.O. 26 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 331 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA Y DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE COLIMA, EN MATERIA DEL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. Todos los recursos materiales y financieros, así como el personal adscrito al Instituto para el Tratamiento de Menores Infractores del Estado de Colima, se consideran transferidos al Instituto Especializado en la Ejecución de Medidas para Adolescentes del Estado, con pleno respeto a sus derechos laborales.
+
+TERCERO. El Gobernador del Estado, a propuesta del Director General del Instituto Especializado en la Ejecución de Medidas para Adolescentes del Estado, estará facultado para emitir los proyectos de reglamentos, acuerdos, decretos y lineamientos necesarios para proveer en la esfera administrativa la exacta observancia de las disposiciones contenidas en el presente Decreto.
+
+CUARTO. Los asuntos y procedimientos penales que se encuentren en trámite ante el Instituto para el Tratamiento de Menores Infractores del Estado a la entrada en vigor del presente Decreto, continuarán su trámite ante el Instituto Especializado en la Ejecución de Medidas para Adolescentes, de conformidad a las disposiciones del Sistema de Justicia penal para Adolescentes, vigente al momento de su inicio.
+
+QUINTO. Cualquier mención realizada en las leyes, reglamentos y demás ordenamientos jurídicos del Estado con relación a (sic) Instituto para el Tratamiento de Menores Infractores del Estado o a su Director General, incluyendo sus términos equivalentes, se entenderá hecha al Instituto Especializado en la Ejecución de Medidas para Adolescentes o al Director General del Instituto Especializado en la Ejecución de Medidas para Adolescentes respectivamente, quienes asumirán todas las funciones y atribuciones que dichas leyes, reglamentos y ordenamientos disponen para aquellas autoridades cuya denominación ha cambiado.
