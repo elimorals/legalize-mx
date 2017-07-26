@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-acceso-a-la-informacion-publica-del-estado-de-sinaloa-25
 country: "mx"
 rank: "ley"
 publication_date: "2002-04-26"
-last_updated: "2016-05-04"
+last_updated: "2017-07-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25348&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial de Estado de Sinaloa, el viernes 26 de abril de 2002.
 
@@ -197,33 +197,25 @@ Artículo 22 Bis A. (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE TRA
 
 (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SINALOA, P.O. 4 DE MAYO DE 2016)
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO TRANSITORIO TERCERO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE SINALOA, P.O. 26 DE JULIO DE 2017)</small>
+
 ### CAPÍTULO SEXTO. DEL EJERCICIO DEL DERECHO DE HÁBEAS DATA
 
 ###### Artículo 33.
 
-La información que contenga datos personales debe sistematizarse en archivos elaborados con fines lícitos y legítimos. Salvo en el caso de información necesaria para proteger la seguridad pública o la vida de las personas, no deberá registrarse ni se obligará a las personas a proporcionar datos que puedan originar discriminación, en particular información sobre el origen racial o étnico, preferencia sexual, opiniones políticas, convicciones religiosas, filosóficas o de otro tipo, o sobre la participación en una asociación o la afiliación a una agrupación gremial.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE SINALOA, P.O. 26 DE JULIO DE 2017)
 
 ###### Artículo 34.
 
-Los archivos con datos personales en poder de las entidades públicas deberán ser actualizados de manera permanente y ser utilizados exclusivamente para los fines legales y legítimos para los que fueron creados. La finalidad de un fichero y su utilización en función de ésta, deberá especificarse y justificarse. Su creación deberá ser objeto de una medida de publicidad o que permita el conocimiento de la persona interesada, a fin de que ésta, ulteriormente, pueda asegurarse de que:
-
-a) Todos los datos personales reunidos y registrados siguen siendo pertinentes a la finalidad perseguida.
-
-b) Ninguno de esos datos personales es utilizado o revelado sin su consentimiento, con un propósito incompatible con el que se haya especificado.
-
-c) El período de conservación de los datos personales no excede del necesario para alcanzar la finalidad con que se han registrado.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE SINALOA, P.O. 26 DE JULIO DE 2017)
 
 ###### Artículo 35.
 
-Toda persona que demuestre su identidad tiene derecho a saber si se está procesando información que le concierne, a conseguir una comunicación inteligible de ella sin demoras, a obtener las rectificaciones o supresiones que correspondan cuando los registros sean ilícitos, injustificados o inexactos, y a conocer los destinatarios cuando esta información sea transmitida, permitiéndole conocer las razones que motivaron su pedimento, en los términos del artículo 3 de la presente Ley.
-
-> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2008)</small>
-
-La gestión de solicitudes de datos personales podrá realizarse tanto por escrito como por medios electrónicos y su entrega se hará estrictamente de manera personal y mediante identificación.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE SINALOA, P.O. 26 DE JULIO DE 2017)
 
 ###### Artículo 36.
 
-Las entidades públicas deberán adoptar medidas apropiadas para proteger los ficheros contra los riesgos naturales, como la pérdida accidental o la destrucción por siniestro, y contra los riesgos humanos, como el acceso sin autorización, la utilización encubierta de datos o la contaminación por virus informáticos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE SINALOA, P.O. 26 DE JULIO DE 2017)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SINALOA, P.O. 4 DE MAYO DE 2016)</small>
 
@@ -472,3 +464,25 @@ A. Dos Consejeros serán electos para un periodo de dos años;
 B. Tres Consejeros serán electos para un periodo de tres años.
 
 Pudiendo ser ratificados para un segundo periodo en los términos del artículo 73 de la presente Ley.
+
+P.O. 26 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 206 DEL H. CONGRESO DEL ESTADO.- LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE SINALOA".]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas aquellas disposiciones en materia de protección de datos personales, de carácter estatal y municipal, que contravengan lo dispuesto por la presente Ley.
+
+TERCERO. Se deroga el Capítulo Sexto y los artículos que lo integran de la Ley de Acceso a la Información Pública del Estado de Sinaloa publicada en el Periódico Oficial "El Estado de Sinaloa" No. 051 de 26 de abril de 2002, y como consecuencia se decreta la abrogación de la Ley en mención.
+
+CUARTO. Los procedimientos iniciados durante la vigencia del Capítulo Sexto y los artículos que lo integran de la Ley de Acceso a la Información Pública del Estado de Sinaloa publicada en el Periódico Oficial "El Estado de Sinaloa" No. 051 de 26 de abril de 2002, se sustanciarán hasta su conclusión, conforme al ordenamiento señalado.
+
+QUINTO. Los responsables expedirán sus avisos de privacidad en los términos previstos en la presente Ley y demás disposiciones aplicables, a más tardar tres meses después de la entrada en vigor de ésta.
+
+SEXTO. Los responsables deberán observar lo dispuesto en el Título Segundo, Capítulo II de la presente Ley, a más tardar un año después de la entrada en vigor de ésta Ley.
+
+SÉPTIMO. La Comisión deberá expedir los lineamientos, parámetros, criterios y demás disposiciones de las diversas materias a que se refiere la presente Ley, dentro de los seis meses siguientes a la entrada en vigor de ésta.
+
+OCTAVO. Los sujetos obligados correspondientes deberán tramitar, expedir o modificar su normatividad interna a más tardar dentro de los doce meses siguientes a la entrada en vigor de esta Ley.
+
+NOVENO. El Congreso del Estado deberá hacer las previsiones presupuestales necesarias para la operación de la presente Ley y establecer las partidas presupuestales específicas en la Ley de Ingresos y Presupuesto de Egresos del Estado de Sinaloa para el Ejercicio Fiscal del año correspondiente.
