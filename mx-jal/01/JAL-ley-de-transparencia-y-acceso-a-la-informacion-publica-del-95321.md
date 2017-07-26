@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-9532
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-08"
-last_updated: "2017-03-02"
+last_updated: "2017-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2017.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 8 de agosto de 2013.
 
@@ -49,9 +49,9 @@ LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y
 
 ° Ley - Naturaleza e Interpretación
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2017)</small>
 
-1. Esta ley es de orden e interés público, y reglamentaria de los artículos 6 y 16 párrafo segundo de la Constitución Política de los Estados Unidos Mexicanos, en lo relativo a datos personales en posesión de entes públicos, así como párrafo tercero, 9 y 15 fracción IX de la Constitución Política del Estado de Jalisco.
+1. Esta ley es de orden e interés público y reglamentaria de los artículos 6 apartado A de la Constitución Política de los Estados Unidos Mexicanos, así como párrafo tercero, 9 y 15 fracción IX de la Constitución Política del Estado de Jalisco.
 
 2. La información materia de este ordenamiento es un bien del dominio público en poder del Estado, cuya titularidad reside en la sociedad, misma que tendrá en todo momento la facultad de disponer de ella para los fines que considere.
 
@@ -77,9 +77,7 @@ III. Garantizar y hacer efectivo el derecho a toda persona de solicitar, acceder
 
 IV. Clasificar la información pública en posesión de los sujetos obligados y mejorar la organización de archivos;
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
-
-V. Proteger los datos personales en posesión de los sujetos obligados, como información confidencial, de conformidad con las disposiciones legales aplicables;
+V. (DEROGADA, P.O. 26 DE JULIO DE 2017)
 
 > <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
@@ -100,6 +98,10 @@ IX. Propiciar la participación ciudadana en la toma de decisiones públicas a f
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
 X. Establecer los mecanismos para garantizar el cumplimiento y la efectiva aplicación de las medidas de apremio y las sanciones que correspondan.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE JULIO DE 2017)</small>
+
+2. Las disposiciones de esta ley relativas a la información confidencial no serán aplicables a los datos personales, cuando contravengan lo señalado en la legislación general y estatal en materia de protección de datos personales en posesión de sujetos obligados.
 
 ###### Artículo 3.
 
@@ -123,7 +125,9 @@ La información pública que obra en documentos históricos será considerada co
 
 II. Información pública protegida, cuyo acceso es restringido y se divide en:
 
-a) Información pública confidencial, que es la información pública protegida, intransferible e indelegable, relativa a los particulares, que por disposición legal queda prohibido su acceso, distribución, comercialización, publicación y difusión generales de forma permanente, con excepción de las autoridades competentes que, conforme a la ley, tengan acceso a ella, y de los particulares titulares de dicha información; e
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2017)</small>
+
+a) Información pública confidencial, que es la información pública protegida, intransferible e indelegable, relativa a los particulares, que por disposición legal queda prohibido su acceso, distribución, comercialización, publicación y difusión generales de forma permanente, con excepción de las autoridades competentes que, conforme a esta ley o la legislación estatal en materia de protección de datos personales en posesión de sujetos obligados, tengan acceso a ella, y de los particulares titulares de dicha información;
 
 b) Información pública reservada, que es la información pública protegida, relativa a la función pública, que por disposición legal temporalmente queda prohibido su manejo, distribución, publicación y difusión generales, con excepción de las autoridades competentes que, de conformidad con la ley, tengan acceso a ella.
 
@@ -175,7 +179,9 @@ i) En formatos abiertos: los datos estarán disponibles con el conjunto de carac
 
 j) De libre uso: citan la fuente de origen como único requerimiento para ser utilizados libremente;
 
-V. Datos personales: cualquier información concerniente a una persona física identificada o identificable;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2017)</small>
+
+V. Datos personales: Cualquier información concerniente a una persona física identificada o identificable. Se considera que una persona es identificable cuando su identidad pueda determinarse directa o indirectamente a través de cualquier información;
 
 VI. Datos personales sensibles: aquellos datos personales que afecten a la esfera más íntima de su titular, o cuya utilización indebida pueda dar origen a discriminación o conlleve un riesgo grave para éste. En particular, se consideran sensibles aquellos que puedan revelar aspectos como origen racial o étnico, estado de salud presente y futuro, información genética, creencias religiosas, filosóficas y morales, afiliación sindical, opiniones políticas, preferencia sexual;
 
@@ -1595,9 +1601,7 @@ VI. (DEROGADA, P.O. 10 DE NOVIEMBRE DE 2015)
 
 VII. La entregada con carácter reservada o confidencial por autoridades federales o de otros estados, o por organismos internacionales;
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
-
-VIII. La considerada como secreto comercial, industrial, fiscal, bancario, fiduciario, bursátil, postal o cualquier otro, por disposición legal expresa, cuya titularidad corresponda a particulares, sujetos de derecho internacional o a sujetos obligados cuando no involucren el ejercicio de recursos públicos;
+VIII. (DEROGADA, P.O. 26 DE JULIO DE 2017)
 
 IX. Las bases de datos, preguntas o reactivos para la aplicación de exámenes de admisión académica, evaluación psicológica, concursos de oposición o equivalentes, y
 
@@ -1667,57 +1671,29 @@ Información confidencial - Catálogo
 
 1. Es información confidencial:
 
-I. Los datos personales de una persona física identificada o identificable relativos a:
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2017)</small>
 
-a) Origen étnico o racial;
-
-b) Características físicas, morales o emocionales;
-
-c) Vida afectiva o familiar;
-
-d) Domicilio particular;
-
-e) Número telefónico y correo electrónico particulares;
-
-f) Patrimonio;
-
-g) Ideología, opinión política, afiliación sindical y creencia o convicción religiosa y filosófica;
-
-h) Estado de salud física y mental e historial médico;
-
-i) Preferencia sexual, y
-
-j) Otras análogas que afecten su intimidad, que puedan dar origen a discriminación o que su difusión o entrega a terceros conlleve un riesgo para su titular;
+I. Los datos personales de una persona física identificada o identificable, en los términos de la legislación estatal en materia de protección de datos personales en posesión de sujetos obligados;
 
 II. La entregada con tal carácter por los particulares, siempre que:
 
 a) Se precisen los medios en que se contiene, y
 
-b) No se lesionen derechos de terceros o se contravengan disposiciones de orden público, y
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2017)</small>
 
-III. La considerada como confidencial por disposición legal expresa.
+b) No se lesionen derechos de terceros o se contravengan disposiciones de orden público;
 
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE JULIO DE 2017)</small>
+
+III. La considerada como secreto comercial, industrial, fiscal, bancario, fiduciario, bursátil, postal o cualquier otro, por disposición legal expresa, cuya titularidad corresponda a particulares, sujetos de derecho internacional o a sujetos obligados cuando no involucren el ejercicio de recursos públicos; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2017)</small>
+
+IV. La considerada como confidencial por disposición legal expresa.
 
 ###### Artículo 21
 
-Bis. Información confidencial- Obligaciones
-
-1. Los sujetos obligados serán responsables de los datos personales en su posesión y, en relación con éstos, deberán:
-
-I. Adoptar los procedimientos adecuados para recibir y responder las solicitudes de acceso, rectificación, corrección y oposición al tratamiento de datos, en los casos que sea procedente, así como capacitar a los servidores públicos y dar a conocer información sobre sus políticas en relación con la protección de tales datos, de conformidad con la normatividad aplicable;
-
-II. Tratar datos personales sólo cuando éstos sean adecuados, pertinentes y no excesivos en relación con los propósitos para los cuales se hayan obtenido o dicho tratamiento se haga en ejercicio de las atribuciones conferidas por ley;
-
-III. Poner a disposición de los individuos, a partir del momento en el cual se recaben datos personales, el documento en el que se establezcan los propósitos para su tratamiento, en términos de la normatividad aplicable, excepto en casos en que el tratamiento de los datos se haga en ejercicio de las atribuciones conferidas por ley;
-
-IV. Procurar que los datos personales sean exactos y actualizados;
-
-V. Sustituir, rectificar o completar, de oficio, los datos personales que fueren inexactos, ya sea total o parcialmente, o incompletos, en el momento en que tengan conocimiento de esta situación; y
-
-VI. Adoptar las medidas necesarias que garanticen la seguridad de los datos personales y eviten su alteración, pérdida, transmisión y acceso no autorizado.
-
-2. Los sujetos obligados no podrán difundir, distribuir o comercializar los datos personales contenidos en los sistemas de información, desarrollados en el ejercicio de sus funciones, salvo que haya mediado el consentimiento expreso, por escrito o por un medio de autenticación similar, de los individuos a que haga referencia la información de acuerdo a la normatividad aplicable. Lo anterior, sin perjuicio a lo establecido por el artículo 22 de esta Ley.
+Bis. (DEROGADO, P.O. 26 DE JULIO DE 2017)
 
 ###### Artículo 22.
 
@@ -1921,6 +1897,8 @@ XXII. Las personas físicas o jurídicas privadas que recauden, reciban, adminis
 
 2. Respecto a la fracción XXII del presente artículo los sujetos obligados correspondientes deberán enviar al Instituto un listado de las personas físicas o jurídicas a los que, por cualquier motivo, asignaron recursos públicos o realicen actos de autoridad. El Instituto determinará, mediante el procedimiento establecido en el artículo 82 de la Ley General, los casos en que las personas físicas o jurídicas cumplirán con las obligaciones de transparencia y acceso a la información directamente o a través de los sujetos obligados que les asignen dichos recursos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE JULIO DE 2017)</small>
+
 ###### Artículo 25.
 
 Sujetos obligados - Obligaciones
@@ -1971,9 +1949,7 @@ XVII. Utilizar adecuada y responsablemente la información pública reservada y 
 
 XVIII. Revisar que los datos de la información confidencial que reciba sean exactos y actualizados;
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
-
-XIX. Recibir y dar respuesta a las solicitudes de rectificación, modificación, corrección, sustitución, oposición o ampliación de datos de la información confidencial, cuando se lo permita la ley;
+XIX. (DEROGADA, P.O. 26 DE JULIO DE 2017)
 
 XX. Registrar y controlar la transmisión a terceros, de información reservada o confidencial en su poder;
 
@@ -2101,6 +2077,8 @@ VIII. Lo demás que establezcan otras disposiciones legales aplicables.
 
 ### Capítulo III. De la Unidad de Transparencia
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE JULIO DE 2017)</small>
+
 ###### Artículo 27.
 
 Comité de Transparencia-Naturaleza y función.
@@ -2173,7 +2151,7 @@ VIII. Solicitar y autorizar la ampliación del plazo de reserva de la informaci�
 
 IX. Revisar que los datos de la información confidencial que reciba sean exactos y actualizados;
 
-X. Recibir y dar respuesta a las solicitudes de acceso, clasificación, rectificación, oposición, modificación, corrección, sustitución, cancelación o ampliación de datos de la información confidencial, cuando se lo permita la ley;
+X. (DEROGADA, P.O. 26 DE JULIO DE 2017)
 
 XI. Registrar y controlar la transmisión a terceros, de información reservada o confidencial en su poder;
 
@@ -2187,7 +2165,9 @@ XIII. Las demás que establezcan otras disposiciones legales y reglamentarias ap
 
 Unidad - Naturaleza y función
 
-1. La Unidad es el órgano interno del sujeto obligado encargado de la atención al público en materia de acceso a la información pública.
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2017)</small>
+
+1. La Unidad es el órgano interno del sujeto obligado encargado de la atención al público en materia de acceso a la información pública y protección de datos personales en posesión del sujeto obligado.
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
@@ -2479,7 +2459,7 @@ Pleno-Funcionamiento
 
 3. Las decisiones del Pleno del Instituto se toman por el voto de más de la mitad de sus integrantes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE JULIO DE 2017)</small>
 
 ###### Artículo 41.
 
@@ -2515,7 +2495,9 @@ VIII. Aprobar la validación de los sistemas electrónicos de publicación de in
 
 IX. Aprobar los convenios que celebre el Instituto con los sujetos obligados, autoridades o particulares;
 
-X. Aprobar las resoluciones de los recursos de revisión, de los recursos de transparencia, las revisiones oficiosas, así como la imposición de sanciones correspondientes;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2017)</small>
+
+X. Aprobar las resoluciones de los recursos de revisión, de los recursos de transparencia así como la imposición de sanciones correspondientes;
 
 XI. Aprobar las interpretaciones administrativas de la ley que corresponden al Instituto;
 
@@ -3143,13 +3125,17 @@ II. El sujeto obligado tiene un plazo de cinco días hábiles para acatar la res
 
 #### Sección Primera. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE JULIO DE 2017)</small>
+
 ###### Artículo 66.
 
 Información confidencial - Derecho a protección
 
-1. La persona que sea titular de información en posesión de un sujeto obligado, considerada como confidencial, puede solicitar ante el sujeto obligado en cualquier tiempo su acceso, clasificación, rectificación, oposición, modificación, corrección, sustitución, cancelación o ampliación de datos.
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2017)</small>
 
-2. La rectificación, modificación, corrección, sustitución, oposición o ampliación de datos mediante este procedimiento no es aplicable cuando exista un procedimiento especial en otras disposiciones legales.
+1. El procedimiento para la protección de datos personales se regirá por lo dispuesto en la legislación estatal en materia de protección de datos personales en posesión de datos personales. El procedimiento para la protección de los demás tipos de información confidencial se regirá por lo dispuesto en este capítulo.
+
+2. (DEROGADO, P.O. 26 DE JULIO DE 2017)
 
 3. La información confidencial sólo podrá ser proporcionada a su titular, a su representante legal, a la autoridad judicial que funde y motive su solicitud, o a terceros en los términos del artículo 22 de la presente ley.
 
@@ -3631,8 +3617,6 @@ VIII. Caducidad: la obligación de conservar los informes específicos solicitad
 
 ### Capítulo II. Del Recurso de Protección de Datos Personales
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
-
 ###### Artículo 91.
 
 Recurso de Revisión - Sujetos
@@ -3927,63 +3911,23 @@ Recurso de Revisión - Ejecución
 
 ###### Artículo 104.
 
-Recurso de protección de datos personales - Procedencia
-
-1. El recurso de protección de datos personales de la resolución de protección emitida por un sujeto obligado procede cuando se declare parcialmente procedente o improcedente la solicitud de protección de información confidencial.
-
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+(DEROGADO, P.O. 26 DE JULIO DE 2017)
 
 ###### Artículo 105.
 
-Recurso de protección de datos personales - Procedimiento
-
-1. El procedimiento del recurso de protección de datos personales de resolución de protección se integra por las siguientes etapas:
-
-I. Remisión de la resolución del sujeto obligado al Instituto;
-
-II. Análisis de la procedencia de la solicitud de protección de información confidencial por el Instituto; y
-
-III. Resolución del Instituto y notificación al sujeto obligado y al solicitante.
-
-2. El sujeto obligado debe remitir al Instituto copia del expediente correspondiente y notificar de ello al solicitante, cuando proceda el recurso de protección de datos personales, dentro de los tres días hábiles siguientes a la emisión de la resolución de la solicitud de protección de información confidencial respectiva.
-
-3. El solicitante que inició el procedimiento de protección de información confidencial puede denunciar ante el Instituto la omisión del sujeto obligado de remitir el asunto, cuando después del plazo del párrafo anterior el sujeto obligado no lo haya hecho y a su juicio no se haya satisfecho la totalidad de las pretensiones de su solicitud. En este caso, el Instituto requerirá al sujeto obligado para que remita la resolución junto con el expediente respectivo, para iniciar el recurso de protección de datos personales.
-
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+(DEROGADO, P.O. 26 DE JULIO DE 2017)
 
 ###### Artículo 106.
 
-Recurso de protección de datos personales - Resolución
-
-1. El Instituto debe analizar la procedencia de la solicitud de protección de información confidencial en aquellos puntos que no resolvió de forma procedente el sujeto obligado, con apego a la Ley, los lineamientos estatales de protección de información confidencial y reservada, para lo cual puede requerir al sujeto obligado y al solicitante las aclaraciones que considere necesarias.
-
-2. El Instituto debe resolver, en el recurso de protección de datos personales, la procedencia de la solicitud de protección de información confidencial con base en el análisis previo y dentro de los quince días hábiles siguientes a la recepción del expediente enviado por el sujeto obligado, con posibilidad de prórroga hasta por otros diez días hábiles mediante acuerdo fundado y motivado emitido por el propio Instituto y notificado al solicitante y al sujeto obligado.
-
-3. El Instituto debe notificar la resolución del recurso de protección de datos personales al sujeto solicitante, dentro de los tres días hábiles siguientes a la emisión de la misma.
-
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+(DEROGADO, P.O. 26 DE JULIO DE 2017)
 
 ###### Artículo 107.
 
-Recurso de protección de datos personales - Definitividad
-
-1. Contra la resolución del Instituto en materia del recurso de protección de datos personales no procede ningún medio de impugnación estatal.
-
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+(DEROGADO, P.O. 26 DE JULIO DE 2017)
 
 ###### Artículo 108.
 
-Recurso de protección de datos personales - Ejecución
-
-1. El sujeto obligado debe ejecutar las acciones que le correspondan para el cumplimiento de la resolución en materia del recurso de protección de datos personales, dentro del plazo que determine la propia resolución, el cual en ningún caso podrá ser superior a diez días hábiles.
-
-2. Si el sujeto obligado incumple con la resolución en el plazo anterior, el Instituto le impondrá una amonestación pública con copia al expediente laboral del responsable, le concederá un plazo de hasta diez días hábiles para el cumplimiento y le apercibirá de que, en caso de no hacerlo, se procederá en los términos del siguiente párrafo.
-
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
-
-3. Si el sujeto obligado persiste en el incumplimiento dentro del plazo anterior, el Instituto le impondrá una multa de veinte a cien veces el valor diario de la Unidad de Medida y Actualización, le concederá un plazo de hasta cinco días hábiles para el cumplimiento y le apercibirá de que, en caso de no hacerlo, se procederá en los términos del siguiente párrafo. Una vez impuesta la multa se remitirá a la autoridad fiscal estatal para su ejecución.
-
-4. Si el sujeto obligado incumple con la resolución en el plazo anterior, el Instituto le impondrá arresto administrativo de hasta treinta y seis horas, dentro de los tres días hábiles siguientes, y presentará la denuncia penal correspondiente. Para la ejecución del arresto se remitirá la resolución a la autoridad municipal competente, y presentará la denuncia penal correspondiente.
+(DEROGADO, P.O. 26 DE JULIO DE 2017)
 
 ### Capítulo IV. De la Facultad de Atracción
 
@@ -4181,7 +4125,7 @@ XIII. Realizar actos para intimidar a los solicitantes de información o inhibir
 
 XIV. Incumplir las resoluciones del Instituto que les corresponda atender.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE JULIO DE 2017)</small>
 
 ###### Artículo 120.
 
@@ -4197,11 +4141,9 @@ I. Declarar con dolo o negligencia la inexistencia de información cuando el suj
 
 II. No informar al Instituto de las operaciones realizadas de los sistemas de información reservada y confidencial que posean;
 
-III. Negarse a recibir las solicitudes de rectificación, modificación, corrección, sustitución o ampliación de datos de la información confidencial;
+III. (DEROGADA, P.O. 26 DE JULIO DE 2017)
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
-
-IV. No dar respuesta en tiempo las (sic) solicitudes de acceso, rectificación, modificación, corrección, oposición, sustitución o ampliación de datos de la información confidencial;
+IV. (DEROGADA, P.O. 26 DE JULIO DE 2017)
 
 V. No llevar un registro de la transmisión a terceros de información reservada o confidencial en su poder;
 
@@ -4303,9 +4245,9 @@ l. Multa de cien a setecientas cincuenta veces el valor diario de la Unidad de M
 
 a) El artículo 119 párrafo 1 fracciones V a VIII, y XIII;
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2017)</small>
 
-b) El artículo 120 párrafo 1 fracciones I a V, y IX;
+b) El artículo 120 párrafo 1 fracciones I, II, V, y IX;
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
@@ -4476,3 +4418,21 @@ P.O. 2 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26262/LXI/17 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS A LA LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE JALISCO, LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 26 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 26420/LXI/17 QUE EXPIDE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; Y REFORMA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+PRIMERO. La presente Ley entrará en vigor el mismo día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. En el Presupuesto de Egresos del Estado para el ejercicio Fiscal 2018, se deberán establecer las previsiones presupuestales necesarias para la operación de la presente Ley.
+
+TERCERO. Se derogan todas aquellas disposiciones en materia de protección de datos personales en posesión de los sujetos obligados en el ámbito estatal, de carácter estatal y municipal, que contravengan lo dispuesto por la presente Ley.
+
+CUARTO. Los procedimientos iniciados antes de la entrada en vigor de la presente Ley se sustanciarán hasta su conclusión conforme a la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus municipios.
+
+QUINTO. El Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco deberá expedir los lineamientos, parámetros, criterios y demás disposiciones de las diversas materias a que se refiere la presente Ley, dentro de un año siguiente a la entrada en vigor de esta reforma.
+
+SEXTO. Los sujetos responsables deberán observar lo dispuesto en el Título Segundo, Capítulo II de la presente Ley, a más tardar un año después de la entrada en vigor de la presente reforma.
+
+SÉPTIMO. Los sujetos responsables expedirán sus avisos de privacidad en los términos previstos en la presente Ley y demás disposiciones aplicables, a más tardar tres meses después de la entrada en vigor de este decreto.
