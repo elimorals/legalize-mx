@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2017-07-25"
+last_updated: "2017-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -757,11 +757,17 @@ I.- Promover y consolidar la educación inicial como un derecho de los niños co
 
 II.- Que los padres de familia y tutores participen de manera directa en la educación de sus hijos, para continuar la labor educativa de dichas instituciones en el hogar.
 
-III.- Vincular la educación inicial con la preescolar; y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
+III.- Vincular la educación inicial con la preescolar;
 
-IV.- Ofrecer servicios médicos, psicológicos, de trabajo social, pedagógicos y de nutrición.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JULIO DE 2017)</small>
+
+IV.- Enseñar a los menores sordos como primera lengua, la Lengua de Señas Mexicana; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 27 DE JULIO DE 2017)</small>
+
+V.- Ofrecer servicios médicos, psicológicos, de trabajo social, pedagógicos y de nutrición.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2014)</small>
 
@@ -1051,13 +1057,21 @@ V.- Rescate y conservación del patrimonio cultural comunitario;
 
 VI.- Fortalecimiento del conocimiento de la historia y geografía del Estado;
 
-VII.- Fomento del servicio a la comunidad en una participación social comprometida, y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2017)</small>
 
-> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2012)</small>
+VII.- Fomento del servicio a la comunidad en una participación social comprometida;
 
-VIII.- Programas de fomento a la cultura y educación vial, y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2017)</small>
 
-IX.- Las demás que tiendan al bienestar individual y social.
+VIII.- Programas de fomento a la cultura y educación vial;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JULIO DE 2017)</small>
+
+IX.- Programas de educación bilingüe bicultural, en Lengua de Señas Mexicana y español; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 27 DE JULIO DE 2017)</small>
+
+X.- Las demás que tiendan al bienestar individual y social.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2000)</small>
 
@@ -3954,5 +3968,11 @@ P.O. 16 DE MARZO DE 2017.
 P.O. 25 DE JULIO DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO 26414/LXI/17 QUE REFORMA EL ARTÍCULO 70 BIS Y ADICIONA UN ARTÍCULO 70 TER DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 27 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26412/LXI/17 QUE REFORMA LOS ARTÍCULOS 4, 6, 12, 26, 27, 51 Y SE ADICIONA EL ARTÍCULO 5 TER A LA LEY PARA LA INCLUSIÓN Y EL DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD Y SE REFORMAN LOS ARTÍCULOS 27 Y 58 DE LA LEY DE EDUCACIÓN.”]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
