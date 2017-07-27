@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "2017-07-19"
+last_updated: "2017-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # CODIGO CIVIL PARA EL ESTADO DE NAYARIT
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2017.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -357,11 +359,11 @@ Las actas de Registro Civil se asentarán en formatos especiales cuya estructura
 
 La Dirección Estatal del Registro Civil, establecerá las técnicas que se emplearán para la conservación adecuada de los documentos de la institución.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2017)</small>
 
 ###### Artículo 36.
 
-Estará a cargo de los Oficiales del Registro Civil, autorizar los actos del estado civil y extender las actas relativas a nacimiento, reconocimiento de hijos, adopción, tutela, matrimonio, divorcio, defunción, declaración de ausencia, presunción de muerte y pérdida o limitación de la capacidad legal para administrar bienes.
+Estará a cargo de los Oficiales del Registro Civil, autorizar los actos del estado civil y extender las actas relativas a nacimiento, reconocimiento de hijos, adopción, tutela, matrimonio, divorcio, defunción, declaración de ausencia, presunción de muerte y pérdida o limitación de la capacidad legal para administrar bienes, levantamiento de una nueva acta de nacimiento para el reconocimiento de identidad de género, previa anotación correspondiente al acta de nacimiento primigenia.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
 
@@ -1051,19 +1053,83 @@ Cuando se recobre la capacidad legal para administrar, se presente la persona de
 
 De la Rectificación, Modificación y Aclaración de las Actas del Registro Civil.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2017)</small>
+
 ###### Artículo 130.
 
-La rectificación o modificación de un acta del estado civil no puede hacerse sino ante el Poder Judicial y en virtud de sentencia de éste, salvo el reconocimiento que voluntariamente haga un padre de su hijo, el cual se sujetará a las prescripciones de este Código.
+La rectificación o modificación de un acta del estado civil no puede hacerse sino ante el Registro Civil y en el caso de anotación de divorcio en el acta de matrimonio ante el Juez de lo Familiar, con excepción del administrativo, los cuales se sujetarán a las prescripciones de este Código.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2017)</small>
 
 ###### Artículo 131.
 
-Solo puede solicitarse la rectificación de un acta del Registro Civil:
+Ha lugar a pedir la rectificación o modificación:
 
-I.- Por falsedad, cuando se alegue que el suceso registrado no pasó;
+I. Por falsedad, cuando se alegue que el suceso registrado no pasó;
 
-II.- Por enmienda, cuando se solicite variar algún nombre u otra circunstancia, sea esencial o accidental.
+II. Por enmienda, cuando se solicite variar algún nombre u otro dato esencial que afecte el estado civil, la filiación o la nacionalidad;
+
+III. Para variar el sexo y la identidad de la persona, en el ejercicio al libre desarrollo de la personalidad;
+
+IV. Por existencia de errores mecanográficos y ortográficos;
+
+V. Reconocimiento voluntario de un padre de su hijo;
+
+VI. Por sentencia ejecutoriada que ordene el registro de reconocimiento de un hijo.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2017)</small>
+
+###### Artículo 131 Bis.
+
+Pueden pedir el levantamiento de una nueva acta de nacimiento para el reconocimiento de la identidad de género, previa la anotación correspondiente en su acta de nacimiento primigenia, las personas que requieran el reconocimiento de su identidad de género.
+
+Se entenderá por identidad de género la convicción personal e interna, tal como cada persona se percibe así misma, la cual puede corresponder o no, al sexo asignado en el acta primigenia. En ningún caso será requisito acreditar intervención quirúrgica alguna, terapias u otro diagnóstico y/o procedimiento para el reconocimiento de la identidad de género.
+
+Los efectos de la nueva acta de nacimiento para identidad de género realizados, serán oponibles a terceros desde de su levantamiento.
+
+Los derechos y obligaciones contraídas con anterioridad al proceso administrativo para el reconocimiento de identidad de género y a la expedición de la nueva acta, no se modificarán ni se extinguen con la nueva identidad jurídica de la persona; incluidos los provenientes de las relaciones propias del derecho de familia en todos sus órdenes y grados, los que se mantendrán inmodificables.
+
+En los casos de las fracciones V y VI del artículo anterior, también procederá el levantamiento de nueva acta.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2017)</small>
+
+###### Artículo 131 Ter.
+
+Para realizar el levantamiento de una nueva acta de nacimiento para el reconocimiento de identidad de género, las personas interesadas deberán presentar:
+
+I. Solicitud debidamente requisitada;
+
+II. Copia certificada del acta de nacimiento primigenia para efecto de que se haga la reserva correspondiente;
+
+III. Original y copia fotostática de su identificación oficial, y
+
+IV. Comprobante de domicilio.
+
+El levantamiento se realizará en la Dirección Estatal del Registro Civil o en el lugar en el que se llevó a cabo la declaración de nacimiento. Se procederá de inmediato a hacer la anotación y la reserva correspondiente. En el caso de que se realice en la Dirección Estatal del Registro Civil, éste dará aviso a aquél donde se encuentre el acta de nacimiento primigenia.
+
+El acta de nacimiento primigenia quedará reservada y no se publicará ni expedirá constancia alguna, salvo mandamiento judicial o petición ministerial.
+
+Una vez cumplido el trámite correspondiente, se enviarán los oficios con la información, en calidad de reservada, para los efectos legales procedentes, a las autoridades federales y estatales en materia fiscal y de población, de Educación, de Salud, de Procuración de Justicia, a la Secretaria de Relaciones Exteriores, Instituto Nacional Electoral, Tribunal Superior de Justicia del Estado; así como aquellas autoridades que se consideren convenientes.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2017)</small>
+
+###### Artículo 131 Quater.
+
+Además de lo señalado en el artículo anterior, para el levantamiento del acta correspondiente, se deberá cumplir con los siguientes requisitos:
+
+I. Ser de nacionalidad mexicana;
+
+II. Tener 18 años de edad.
+
+III. Desahogar en la Dirección Estatal del Registro Civil o en el lugar en el que se llevó a cabo la declaración de nacimiento, la comparecencia que se detalla en el reglamento y manual de Procedimientos del Registro Civil.
+
+IV. Asimismo, la persona interesada deberá manifestar lo siguiente:
+
+a) El nombre completo y los datos registrales asentados en el acta primigenia;
+
+b) El nombre solicitado sin apellidos y, en su caso, el género solicitado.
+
+La autoridad llevará a cabo la revisión y cotejo de los documentos a que se refiere este artículo, en caso de estar cubiertos todos los requisitos señalados, tendrá verificativo una comparecencia de la persona solicitante ante el personal del Registro Civil correspondiente, en la cual manifieste, bajo protesta de decir verdad, que es su convicción personal cambiar su nombre o percibirse con un género diferente al que aparece en su acta de nacimiento primigenia, por lo que solicita el levantamiento de una nueva acta de nacimiento con los cambios propuestos.
 
 ###### Artículo 132.
 
@@ -1077,19 +1143,19 @@ III.- Los herederos de las personas comprendidas en las dos fracciones anteriore
 
 IV.- Los que, según los artículos 341, 342 y 343, pueden continuar o intentar la acción de que en ellos se trata.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2017)</small>
 
 ###### Artículo 133.
 
-El juicio de rectificación de acta se seguirá en la forma que se establezca en el Código de Procedimientos Civiles.
+La sentencia que cause ejecutoria por divorcio y adopción se comunicará al Registro Civil y éste hará una referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la rectificación.
 
-La sentencia que cause ejecutoria se comunicará al Oficial del Registro Civil y éste hará una referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la rectificación.
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2017)</small>
 
 ###### Artículo 134.
 
-La aclaración de las actas del estado civil, procede cuando en el registro existan errores mecanográficos, ortográficos o de otra índole que no afecten los datos esenciales de aquéllas y deberán tramitarse ante la Dirección Estatal del Registro Civil.
+La rectificación de las actas del estado civil, procede cuando en el levantamiento del acta correspondiente, existen errores de cualquier índole, y deberán tramitarse ante la Dirección Estatal del Registro Civil o en el lugar en el que se llevó a cabo la declaración de nacimiento.
+
+Los Reglamentos de registro civil establecerán los supuestos, requisitos y procedimientos para realizar la rectificación o modificación de las actas del estado civil. Las copias certificadas de constancias de los procedimientos de jurisdicción voluntaria, así como los testimonios de instrumentos notariales en los que se hagan constar declaraciones respecto del nombre o nombres propios, apellido o apellidos omitidos o adicionados o referencias al estado civil, no impactarán la rectificación del acta correspondiente.
 
 ### CAPITULO I. Disposiciones generales
 
@@ -16381,6 +16447,14 @@ P.O. 3 DE DICIEMBRE DE 2016.
 
 P.O. 19 DE JULIO DE 2017.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT, EN MATERIA DE ERRADICACIÓN DE CONDUCTAS VIOLENTAS Y DISCRIMINATORIAS".]
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT, EN MATERIA DE ERRADICACIÓN DE CONDUCTAS VIOLENTAS Y DISCRIMINATORIAS”.]
 
 Único.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 27 DE JULIO DE 2017.
+
+[N. DE E TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT, EN MATERIA DE RECTIFICACIÓN O MODIFICACIÓN DE ACTAS POR IDENTIDAD DE GÉNERO”.]
+
+Primero.- El presente decreto entrará en vigor a los 120 días hábiles siguientes de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo.- El Titular del Ejecutivo y los Ayuntamientos del Estado contarán con 120 días hábiles para crear el Reglamento y Manual de Procedimientos del Registro Civil de conformidad con lo señalado en el presente decreto.
