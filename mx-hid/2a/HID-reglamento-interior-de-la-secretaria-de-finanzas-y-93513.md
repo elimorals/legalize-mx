@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-secretaria-de-finanzas-y-93513"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-25"
-last_updated: "2016-08-29"
+last_updated: "2017-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS Y ADMINISTRACION
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS PÚBLICAS, PUBLICADO EN EL P.O. DE 27 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 25 de marzo de 2013.
 
@@ -1197,7 +1199,7 @@ h) TIZAYUCA: Tizayuca, Tolcayuca y Villa de Tezontepec.
 
 i) TULA DE ALLENDE: Ajacuba, Atitalaquia, Atotonilco de Tula, Chapantongo, Tepetitlán, Tetepango, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan y Tula de Allende.
 
-j) TULANCINGO .DE BRAVO: Acatlán, Acaxochitlán, Agua Blanca de Iturbide, Cuautepec de Hinojosa, Huehuetla, Metepec, San Bartolo Tutotepec, Santiago Tulantepec de Lugo Guerrero, Singuilucan, Tenango de Doria y Tulancingo de Bravo.
+j) TULANCINGO DE BRAVO: Acatlán, Acaxochitlán, Agua Blanca de Iturbide, Cuautepec de Hinojosa, Huehuetla, Metepec, San Bartolo Tutotepec, Santiago Tulantepec de Lugo Guerrero, Singuilucan, Tenango de Doria y Tulancingo de Bravo.
 
 k) ZACUALTIPÁN DE ÁNGELES: Calnali, Eloxochitlán, Juárez Hidalgo, Lolotla, Metztitlán, Molango de Escamilla, San Agustín Metzquititlán, Tepehuacán de Guerrero, Tianguistengo, Tlahuiltepa, Xochicoatlán y Zacualtipán de Ángeles.
 
@@ -1723,7 +1725,7 @@ PRIMERO.- El presente reglamento entrará en vigor al día siguiente de su Publi
 
 SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Finanzas del Gobierno del Estado, de fecha 24 de marzo de 2006, publicado en el Periódico Oficial del Estado de Hidalgo, el 27 de marzo del mismo año.
 
-TERCERO.- Se abroga el Reglamento Interior de la Secretaría .de Administración del Gobierno del Estado, de fecha 24 de marzo de 2006, publicado en el Periódico Oficial del Estado de Hidalgo, el 27 de marzo del mismo año.
+TERCERO.- Se abroga el Reglamento Interior de la Secretaría de Administración del Gobierno del Estado, de fecha 24 de marzo de 2006, publicado en el Periódico Oficial del Estado de Hidalgo, el 27 de marzo del mismo año.
 
 CUARTO.- Se derogan las demás disposiciones que se opongan al presente Reglamento.
 
@@ -1758,3 +1760,21 @@ P.O. 29 DE AGOSTO DE 2016.
 PRIMERO. El presente Decreto entrará en vigor el 30 de agosto del 2016, previa publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Los asuntos que a la fecha de entrada en vigor de la presente reforma se encuentren en trámite y que correspondan a los Municipios de Atotonilco el Grande, Epazoyucan, Huasca de Ocampo, Mineral del Chico, Mineral del Monte, Mineral de la Reforma y Omitlán de Juárez, serán resueltos hasta su conclusión por el Centro Regional de Atención al Contribuyente de Pachuca de Soto, en razón de la jurisdicción con que fueron iniciados.
+
+P.O. 27 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS PÚBLICAS".]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Finanzas y Administración del Gobierno del Estado, de fecha 09 de febrero de 2013, publicado en el Periódico Oficial del Estado de Hidalgo, el 25 de marzo del mismo año, así como todas las demás modificaciones posteriores a la fecha de su publicación.
+
+TERCERO. Se derogan las demás disposiciones que se opongan al presente reglamento.
+
+CUARTO. Si alguna unidad administrativa, conforme al presente reglamento, cambia de adscripción, contará con el término de sesenta días para operar en su nueva unidad. En tanto seguirá en el ejercicio de sus atribuciones en los términos de los reglamentos que se abrogan.
+
+QUINTO. Cuando la competencia de alguna unidad administrativa, establecida con anterioridad a la vigencia del presente reglamento, deba ser ejercida por otra u otras de las que el mismo establece, en un término de sesenta días, pasarán los expedientes en trámite y el archivo a la unidad o unidades competentes, de conformidad con el ámbito de competencia que a cada una corresponda y los asuntos que se encuentren en trámite competerá a la nueva dependencia terminar la substanciación y dictar la resolución que corresponda.
+
+SEXTO. Continuarán en vigor los acuerdos y demás disposiciones de carácter general, dictados con apoyo en los Reglamentos Interiores de la anteriormente denominada Secretaría de Finanzas y Administración que se abrogan, en lo que no se opongan al presente reglamento.
+
+SÉPTIMO. Cuando el presente reglamento confiere atribuciones a unidades administrativas que se encuentran señaladas en otras disposiciones con distinta denominación se entenderá que corresponden a las previstas en este reglamento.
