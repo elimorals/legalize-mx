@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-civiles-para-el-estado-de-nayarit-6808
 country: "mx"
 rank: "codigo"
 publication_date: "1992-11-21"
-last_updated: "2017-03-30"
+last_updated: "2017-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NAYARIT
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2017.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 21 de noviembre de 1992.
 
@@ -107,9 +109,11 @@ XI.- La petición de herencia se ejercitará para que sea declarado heredero el 
 
 XII.- El comunero puede deducir las acciones relativas a la cosa común, en calidad de dueño, salvo pacto en contrario, o ley especial. No puede, sin embargo, transigir ni comprometer en árbitros el negocio, sin consentimiento unánime de los demás condueños;
 
-XIII.- Las acciones de estado civil tienen por objeto las cuestiones relativas al nacimiento, defunción, matrimonio o nulidad de éste, filiación, reconocimiento, emancipación, tutela, adopción, divorcio y ausencia, o atacar el contenido de las constancias del Registro Civil para que se anulen o rectifiquen. Las decisiones judiciales recaídas en el ejercicio de acciones de estado civil perjudican aun a los que no litigaron.
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2017)</small>
 
-Las acciones de estado civil fundadas en la posesión de estado producirán el efecto de que se ampare o restituya a quien la disfrute contra cualquier perturbador.
+XIII.- Las acciones de estado civil tienen por objeto las cuestiones relativas al nacimiento, defunción, matrimonio o nulidad de éste, filiación, reconocimiento, emancipación, tutela, adopción, divorcio y ausencia, o atacar el contenido de las constancias del Registro Civil para que se anulen o rectifiquen.
+
+La rectificación o modificación de actas de estado civil de las personas se realizará ante la Dirección Estatal del Registro Civil o en el lugar donde se llevó a cabo la declaración de nacimiento. Las decisiones judiciales recaídas en el ejercicio de acciones de estado civil perjudican aun a los que no litigaron.
 
 XIV.- Las acciones personales se deducirán para exigir el cumplimiento de una obligación personal, ya sea de dar, de hacer o no hacer determinado acto;
 
@@ -363,7 +367,7 @@ Recibido el oficio inhibitorio, el Juez requerido decretará la suspensión en e
 
 ###### ARTICULO 39.
 
-En caso de inconformidad, el Juez requerido remitirá los autos originales al superior mandando hacerlo saber a las partes y al Juez requiriente, quien a su vez, luego que reciba el oficio respectivo, remitirá las actuaciones que hubiere practicado con motivo de la inhibitoria ante él planteada.
+En caso de inconformidad, el Juez requerido remitirá los autos originales al superior mandando hacerlo saber a las partes y al Juez requiriente (sic), quien a su vez, luego que reciba el oficio respectivo, remitirá las actuaciones que hubiere practicado con motivo de la inhibitoria ante él planteada.
 
 ###### ARTICULO 40.
 
@@ -553,11 +557,11 @@ Todas las resoluciones de primera y segunda instancia serán autorizadas por qui
 
 La autoridad jurisdiccional hará del conocimiento de las partes de una relación jurídica, sus resoluciones dentro de los tres días siguientes a la fecha en que estas se dicten, siempre que la ley no disponga en otro sentido. Para tal efecto, los interesados deben señalar domicilio en el lugar del juicio u otro medio para ser notificado.
 
-> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO SE AGREGÓ EN LA PUBLICACIÓN DEL P.O. 6 DE NOVIEMBRE DE 2013, TODA VEZ QUE DEL ANÁLISIS DEL TEXTO ANTERIOR SE APRECIA LA INEXISTENCIA DE ÉSTE.</small>
+> <small>[N. DE E. EL CONTENIDO DE ESTE PÁRRAFO SE AGREGÓ EN LA PUBLICACIÓN DEL P.O. 6 DE NOVIEMBRE DE 2013, TODA VEZ QUE DEL ANÁLISIS DEL TEXTO ANTERIOR SE APRECIA LA INEXISTENCIA DE ÉSTE.]</small>
 
 Asimismo, deberán señalar el domicilio, así como cualquier dato que permita su ubicación si lo tuvieren, en el que haya de hacerse la primera notificación a aquellos a quienes sea necesario se les practique.
 
-> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO SE AGREGÓ EN LA PUBLICACIÓN DEL P.O. 6 DE NOVIEMBRE DE 2013, TODA VEZ QUE DEL ANÁLISIS DEL TEXTO ANTERIOR SE APRECIA LA INEXISTENCIA DE ÉSTE.</small>
+> <small>[N. DE E. EL CONTENIDO DE ESTE PÁRRAFO SE AGREGÓ EN LA PUBLICACIÓN DEL P.O. 6 DE NOVIEMBRE DE 2013, TODA VEZ QUE DEL ANÁLISIS DEL TEXTO ANTERIOR SE APRECIA LA INEXISTENCIA DE ÉSTE.]</small>
 
 Mientras subsista la omisión, en el primer caso se entenderán en los estrados y en el segundo no se efectuará diligencia alguna.
 
@@ -743,7 +747,7 @@ EI Consejo de la Judicatura mediante el acuerdo correspondiente dictará los lin
 
 EI Magistrado en turno podrá encomendar mediante oficio comisorio o cualquier otro medio electrónico a los Jueces de Primera Instancia, la práctica de diligencias necesarias cuando deban verificarse en un lugar que no sea el de su jurisdicción pero dentro del Estado. La misma facultad corresponde a los Jueces.
 
-> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO SE AGREGÓ EN LA PUBLICACIÓN DEL P.O. 6 DE NOVIEMBRE DE 2013, TODA VEZ QUE DEL ANÁLISIS DEL TEXTO ANTERIOR SE APRECIA LA INEXISTENCIA DE ÉSTE.</small>
+> <small>[N. DE E. EL CONTENIDO DE ESTE PÁRRAFO SE AGREGÓ EN LA PUBLICACIÓN DEL P.O. 6 DE NOVIEMBRE DE 2013, TODA VEZ QUE DEL ANÁLISIS DEL TEXTO ANTERIOR SE APRECIA LA INEXISTENCIA DE ÉSTE.]</small>
 
 El Consejo de la Judicatura del Estado podrá acordar que en el trámite de exhortos, oficios comisorios y requisitorias que deban diligenciarse en el territorio del estado o fuera de este, se realicen por medios electrónicos
 
@@ -753,15 +757,15 @@ El Consejo de la Judicatura del Estado podrá acordar que en el trámite de exho
 
 Las diligencias que hayan de practicarse fuera del Estado, deberán encomendarse por exhorto al Juez del lugar, en que hayan de efectuarse.
 
-> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO SE AGREGÓ EN LA PUBLICACIÓN DEL P.O. 6 DE NOVIEMBRE DE 2013, TODA VEZ QUE DEL ANÁLISIS DEL TEXTO ANTERIOR SE APRECIA LA INEXISTENCIA DE ÉSTE.</small>
+> <small>[N. DE E. EL CONTENIDO DE ESTE PÁRRAFO SE AGREGÓ EN LA PUBLICACIÓN DEL P.O. 6 DE NOVIEMBRE DE 2013, TODA VEZ QUE DEL ANÁLISIS DEL TEXTO ANTERIOR SE APRECIA LA INEXISTENCIA DE ÉSTE.]</small>
 
 El Tribunal ordenará que los oficios comisorios o exhortos se remitan a su destino por los conductos oficiales, o que se entreguen preferentemente a la parte solicitante o a la que demuestre mayor interés.
 
-> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO SE AGREGÓ EN LA PUBLICACIÓN DEL P.O. 6 DE NOVIEMBRE DE 2013, TODA VEZ QUE DEL ANÁLISIS DEL TEXTO ANTERIOR SE APRECIA LA INEXISTENCIA DE ÉSTE.</small>
+> <small>[N. DE E. EL CONTENIDO DE ESTE PÁRRAFO SE AGREGÓ EN LA PUBLICACIÓN DEL P.O. 6 DE NOVIEMBRE DE 2013, TODA VEZ QUE DEL ANÁLISIS DEL TEXTO ANTERIOR SE APRECIA LA INEXISTENCIA DE ÉSTE.]</small>
 
 Quien así lo solicite, tendrá la obligación en el plazo de diez días de su recepción, de comparecer ante el órgano exhortado y entregar al órgano exhortante el acuse respectivo.
 
-> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO SE AGREGÓ EN LA PUBLICACIÓN DEL P.O. 6 DE NOVIEMBRE DE 2013, TODA VEZ QUE DEL ANÁLISIS DEL TEXTO ANTERIOR SE APRECIA LA INEXISTENCIA DE ÉSTE.</small>
+> <small>[N. DE E. EL CONTENIDO DE ESTE PÁRRAFO SE AGREGÓ EN LA PUBLICACIÓN DEL P.O. 6 DE NOVIEMBRE DE 2013, TODA VEZ QUE DEL ANÁLISIS DEL TEXTO ANTERIOR SE APRECIA LA INEXISTENCIA DE ÉSTE.]</small>
 
 A quien incumpla con el párrafo que antecede, se le impondrá la sanción que establece el artículo 54 de este código.
 
@@ -1232,8 +1236,6 @@ VI.- Los fundamentos de derecho, procurando enunciar preceptos legales o princip
 ###### ARTICULO 146.
 
 Presentada la demanda con los documentos y copias prevenidos, se correrá traslado a la parte demandada y se le emplazará para que la conteste dentro de nueve días.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2011)</small>
 
@@ -1903,13 +1905,9 @@ IV.- La presunción humana; y
 
 V.- Las fotografías, copias fotostáticas y demás medios que produzcan convicción.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2009)</small>
 
 VI.- La información difundida que conste en medios electrónicos, ópticos o en cualquier otra tecnología.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2009)</small>
 
@@ -2669,7 +2667,7 @@ VI.- Si en ésta se condena a pagar la responsabilidad, determinará la cantidad
 
 Procede la ejecución forzosa a instancia de parte, siempre que se trate de exigir el cumplimiento de una sentencia o de un convenio celebrado en el juicio, ya sea por las partes o por terceros que hayan venido a éste por cualquier motivo que sea.
 
-Esta disposición será aplicable en la ejecución de convenios celebrados ante la Procuraduría Federal del Consumidor y los laudos emitidos por dicha dependencia e incluso, sentencias penales entratándose (sic) de la reparación de daños provenientes de delito.
+Esta disposición será aplicable en la ejecución de convenios celebrados ante la Procuraduría Federal del Consumidor y los laudos emitidos por dicha dependencia e incluso, sentencias penales entratándose de la reparación de daños provenientes de delito.
 
 ###### ARTICULO 338.
 
@@ -4161,33 +4159,21 @@ II.- Recibida la solicitud, el Juez mandará dar vista a quien procediere según
 
 III.- En la resolución, el Juez, si concede la autorización determinará la forma y modalidades del acto para el que haya sido solicitada y dictará las medidas que estime necesarias, procurando en todo el mayor beneficio y protección patrimonial del incapaz o ausente y que el autorizado justifique haber alcanzado el objeto.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE MAYO DE 2010)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN [N. DE E. Y REFORMADA SU DENOMINACIÓN], P.O. 27 DE JULIO DE 2017)</small>
 
-### CAPITULO XVII. DE LA RECTIFICACIÓN Y MODIFICACIÓN DE LAS ACTAS DEL REGISTRO CIVIL
+### CAPITULO XVII. DE LA RECTIFICACIÓN DE ACTAS DEL REGISTRO CIVIL
 
-> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2010)</small>
+ARTICULO 535 "A".- (DEROGADO, P.O. 27 DE JULIO DE 2017)
 
-ARTICULO 535 "A".- La rectificación y modificación de las actas del Registro Civil se promoverán por escrito de conformidad a lo previsto en el artículo 132, fracción IV del Código Civil.
+ARTICULO 535 "B".- (DEROGADO, P.O. 27 DE JULIO DE 2017)
 
-> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2010)</small>
+ARTICULO 535 "C".- (DEROGADO, P.O. 27 DE JULIO DE 2017)
 
-ARTICULO 535 "B".- Del escrito de demanda de rectificación y modificación de actas se correrá traslado al oficial del Registro Civil que la haya emitido, así como al ministerio público para que dentro del término de cinco días manifiesten lo que a su interés legal corresponda.
+ARTICULO 535 "D".- (DEROGADO, P.O. 27 DE JULIO DE 2017)
 
-> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2010)</small>
+ARTICULO 535 "E".- (DEROGADO, P.O. 27 DE JULIO DE 2017)
 
-ARTICULO 535 "C".- Las partes deberán ofrecer las pruebas que en derecho corresponda, en los escritos de demanda y contestación.
-
-> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2010)</small>
-
-ARTICULO 535 "D".- Contestada la demanda o transcurrido el término para ello se fijará fecha para el desahogo de pruebas que habrá de celebrarse en un término no mayor de cinco días.
-
-> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2010)</small>
-
-ARTICULO 535 "E".- desahogada la audiencia de pruebas, se turnará para resolución, la que se pronunciará dentro del término de ley.
-
-> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2010)</small>
-
-ARTICULO 535 "F".- Una vez que cause ejecutoria la sentencia, se ordenará se hagan las anotaciones en los libros de registro correspondientes, de conformidad a lo establecido en el artículo 133 del Código Civil.
+ARTICULO 535 "F".- (DEROGADO, P.O. 27 DE JULIO DE 2017)
 
 ## TITULO SEGUNDO. JUICIOS SUCESORIOS
 
@@ -5227,7 +5213,7 @@ EL SRIO. GENERAL DE GOBIERNO.
 
 LIC. JAVIER GERMAN RODRIGUEZ JIMENEZ.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.]</small>
 
 P.O. 19 DE FEBRERO DE 1997.
 
@@ -5382,3 +5368,11 @@ P.O. 30 DE MARZO DE 2017.
 [N DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL ARTÍCULO 507 BIS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NAYARIT, EN MATERIA DE RELACIONES PATERNO FILIALES”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 27 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NAYARIT, EN MATERIA DE RECTIFICACIÓN O MODIFICACIÓN DE ACTAS DE IDENTIDAD DE GÉNERO”.]
+
+Primero.- El presente decreto entrará en vigor a los 120 días hábiles siguientes de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo.- El Titular del Ejecutivo y los Ayuntamientos del Estado contará (sic) con 120 días hábiles para crear el Reglamento y Manual de Procedimientos del Registro Civil de conformidad con lo señalado en el presente decreto.
