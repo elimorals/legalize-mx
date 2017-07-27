@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-secretaria-de-desarrollo-88357"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-06-18"
-last_updated: "2014-12-01"
+last_updated: "2017-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88357&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO DEL ESTADO DE HIDALGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO, PUBLICADO EN EL P.O. DE 27 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 18 de junio de 2012.
 
@@ -528,3 +530,23 @@ LIC. JOSÉ FRANCISCO OLVERA RUIZ
 P.O. 1 DE DICIEMBRE DE 2014.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 27 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO".]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Desarrollo Económico del Gobierno del Estado, publicado en el Periódico Oficial del Estado de Hidalgo, el 1 de diciembre de 2014, así como todas las demás modificaciones posteriores a la fecha de su publicación.
+
+TERCERO.- Se derogan todas las demás disposiciones que se opongan al presente Reglamento.
+
+CUARTO.- Si alguna unidad administrativa, conforme al presente reglamento, cambia de adscripción, contará con el término de 60 días para operar en su nueva unidad. En tanto seguirá en el ejercicio de sus atribuciones en los términos del reglamento que se abroga.
+
+QUINTO.- Cuando la competencia de alguna unidad administrativa, establecida con anterioridad a la vigencia del presente Reglamento, deba ser ejercida por otra u otras de las que el mismo establece, en un término de los 60 días, pasarán los expedientes en trámite y el archivo a la unidad o unidades competentes, de conformidad con el ámbito de competencia que a cada una corresponda y los asuntos que se encuentren en trámite competerá a la nueva dependencia terminar la substanciación y dictar la resolución que corresponda.
+
+SEXTO.- Continuarán en vigor los acuerdos y demás disposiciones de carácter general, dictados con apoyo en el Reglamento Interior de la Secretaría que se abroga, en lo que no se opongan al presente reglamento.
+
+SÉPTIMO.- Cuando el presente Reglamento confiere atribuciones a unidades administrativas que se encuentran señaladas en otras disposiciones con distinta denominación se entenderá que corresponden a las previstas en este Reglamento.
+
+OCTAVO.- En tanto no se expidan los manuales de organización, de procedimientos y de trámites y servicios al público, la o el Titular de la Secretaría estará facultado para resolver lo que dichos manuales deben regular.
