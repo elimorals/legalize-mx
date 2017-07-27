@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-secretaria-de-medio-ambiente-y-91006"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-12-31"
-last_updated: "2012-12-31"
+last_updated: "2017-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91006&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES DEL ESTADO DE HIDALGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE MEDIO AMBIENTE Y RECURSOS NATURALES DE HIDALGO, PUBLICADO EN EL P.O. DE 27 DE JULIO DE 2017 EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE MEDIO AMBIENTE Y RECURSOS NATURALES DEL ESTADO DE HIDALGO.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2017(ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el martes 31 de diciembre de 2012.
 
@@ -650,3 +652,23 @@ Dado en la residencia del Poder Ejecutivo del Estado, en la ciudad de Pachuca de
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO
 
 LIC. JOSÉ FRANCISCO OLVERA RUIZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE “REGLAMENTO INTERIOR DE LA SECRETARÍA DE MEDIO AMBIENTE Y RECURSOS NATURALES DE HIDALGO”.]
+
+PRIMERO. El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Medio Ambiente y Recursos Naturales del Gobierno del Estado de Hidalgo, de fecha once de diciembre de 2012, publicado en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre del mismo año, así como todas las demás modificaciones posteriores a la fecha de su publicación.
+
+TERCERO. Se derogan las demás disposiciones que se opongan al presente reglamento.
+
+CUARTO. Si alguna unidad administrativa, conforme al presente reglamento, cambia de adscripción, contará con el término de sesenta días para operar en su nueva unidad. En tanto seguirá en el ejercicio de sus atribuciones en los términos del reglamento que se abroga.
+
+QUINTO. Cuando el presente reglamento confiere atribuciones a unidades administrativas que se encuentran señaladas en otras disposiciones con distinta denominación se entenderá que corresponden a las previstas en este reglamento.
+
+SEXTO. En los casos en que, pase alguna unidad administrativa establecida con anterioridad a la vigencia del presente Reglamento, deberá hacerse en consecuencia, traspasar los expedientes en trámite y el archivo a la unidad o unidades competentes, de conformidad con el ámbito de competencia que a cada una corresponda y los asuntos que se encuentren en trámite competerá a la nueva dependencia terminar la sustanciación y dictar la resolución que corresponda.
+
+SÉPTIMO. En tanto no se expidan los manuales de organización, de procedimientos y de servicios al público, la o el Titular de la Secretaría estará facultado para resolver lo que dichos manuales deben regular.
