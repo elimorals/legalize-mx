@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-secretaria-de-turismo-y-cultura-88884
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-08-06"
-last_updated: "2012-08-06"
+last_updated: "2017-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO Y CULTURA DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 6 de agosto de 2012.
 
@@ -543,7 +543,7 @@ IX.- Revisar registros y expedientes de todos los programas a cargo de la Secret
 
 X.- Dar seguimiento y presentar informes al Secretario, sobre el cumplimiento de los programas y acciones de la Secretaría;
 
-XI.- Analizar las causas de las desviaciones anomalías (sic) detectadas en el seguimiento y evaluación de la ejecución del presupuesto de la Secretaría; y
+XI.- Analizar las causas de las desviaciones (sic) anomalías detectadas en el seguimiento y evaluación de la ejecución del presupuesto de la Secretaría; y
 
 XII.- Las demás que le confieran las disposiciones normativas vigentes y el Secretario.
 
@@ -590,3 +590,17 @@ Dado en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Pachuca de
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. JOSÉ FRANCISCO OLVERA RUIZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Turismo, Publicado en el Periódico Oficial del Estado de Hidalgo, el 6 de Agosto del año 2012, y se derogan todas las disposiciones legales que se opongan al presente Reglamento, así como todas las demás modificaciones posteriores a la fecha de su publicación.
+
+TERCERO.- Cuando el presente Reglamento confiera funciones a unidades administrativas con funciones equivalentes, que se encuentran señaladas en otras disposiciones con distinta denominación, se entenderá que corresponden a las unidades previstas en este Reglamento.
+
+CUARTO.- En tanto no se expidan los manuales de organización, de procedimientos y de servicios al público, la o el Titular de la Secretaría estará facultado para resolver lo que dichos manuales deben regular.
