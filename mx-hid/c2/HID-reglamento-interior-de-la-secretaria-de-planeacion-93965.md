@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-secretaria-de-planeacion-93965"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-04-08"
-last_updated: "2013-04-08"
+last_updated: "2017-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE PLANEACION, DESARROLLO REGIONAL Y METROPOLITANO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA UNIDAD DE PLANEACIÓN Y PROSPECTIVA, PUBLICADO EN EL P.O. DE 27 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE PLANEACIÓN, DESARROLLO REGIONAL Y METROPOLITANO DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 8 de abril de 2013.
 
@@ -567,7 +569,7 @@ XV. Llevar a cabo el proceso de la información para la planeación del desarrol
 
 XVI. Dirigir el proceso de evaluación a las dependencias y entidades, con base en los instrumentos establecidos en la Ley Orgánica de la Administración Pública para el Estado de Hidalgo, Ley Planeación para el Desarrollo del Estado de Hidalgo, el Sistema Integral de Evaluación Institucional y las herramientas que de él se deriven;
 
-XVII Desarrollar las funciones señaladas, en el presente Reglamento y los manuales de organización, procedimientos y de servicios al público, en los asuntos de su competencia y de las áreas bajo su responsabilidad, así como desempeñar las comisiones que determine el Secretario; y
+XVII. Desarrollar las funciones señaladas, en el presente Reglamento y los manuales de organización, procedimientos y de servicios al público, en los asuntos de su competencia y de las áreas bajo su responsabilidad, así como desempeñar las comisiones que determine el Secretario; y
 
 XVIII. Las demás que les confieran las disposiciones legales vigentes en la Entidad, y el Secretario en el ámbito de su competencia.
 
@@ -1310,3 +1312,19 @@ Dado en el Palacio de Gobierno, residencia del Poder Ejecutivo del Estado Libre 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
 LIC. JOSÉ FRANCISCO OLVERA RUIZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA UNIDAD DE PLANEACIÓN Y PROSPECTIVA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Planeación y Desarrollo Regional, expedido el 8 de abril del año 2013, así como todas las demás modificaciones posteriores a la fecha de su publicación.
+
+TERCERO. Se derogan las disposiciones que se opongan al presente Reglamento.
+
+CUARTO. La tramitación ante las instancias correspondientes, de la autorización, asignación y modificación del presupuesto de gasto de inversión de la Unidad de Planeación y Prospectiva; concluirá hasta en tanto ésta termine de regularizar obras que en su momento se ejecutaron por la extinta Secretaría de Planeación, Desarrollo Regional y Metropolitano.
+
+QUINTO. En tanto no se expidan los manuales de organización, de procedimientos y de trámites y servicios al público, la o el Titular de la Unidad estará facultado para resolver lo que dichos manuales deben regular.
