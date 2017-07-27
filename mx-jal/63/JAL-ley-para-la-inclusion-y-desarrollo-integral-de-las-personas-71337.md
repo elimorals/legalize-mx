@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-inclusion-y-desarrollo-integral-de-las-personas-713
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-31"
-last_updated: "2016-11-17"
+last_updated: "2017-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2017.
 
 Ley publicada en la Sección VI del Periódico Oficial del Estado de Jalisco, el jueves 31 de diciembre de 2009.
 
@@ -183,9 +183,17 @@ XIII. Recibir orientación y tratamiento psicológico para la persona con discap
 
 XIV. Tener acceso a programas asistenciales para personas con discapacidad;
 
-XV. Tener libre acceso a inmuebles abiertos al público, y cualquier otro lugar en el que deba realizar actividades en compañía de su perro guía o animal de servicio, y de los implementos necesarios para su desplazamiento; y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2017)</small>
 
-XVI. Las demás que establezca el orden jurídico mexicano, la Convención y esta Ley.
+XV. Tener libre acceso a inmuebles abiertos al público y cualquier otro lugar en el que deba realizar actividades en compañía de su perro guía o animal de servicio y de los implementos necesarios para su desplazamiento;
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2017)</small>
+
+XVI. La persona sorda, a adquirir el aprendizaje de la Lengua de Señas Mexicana como primera lengua y el sordo hablante como segunda lengua; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JULIO DE 2017)</small>
+
+XVII. Las demás que establezca el orden jurídico mexicano, la Convención y esta Ley.
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -221,11 +229,19 @@ IX. Las demás previstas por esta Ley y la legislación estatal aplicable.
 
 Las autoridades estatales y municipales promoverán la contratación de personas con discapacidad cuando éstos cubran la profesión, oficio o actividad requerido para el puesto, en igualdad de circunstancias que otra persona.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2017)</small>
+
+###### Artículo 5 Ter.
+
+Las autoridades podrán incluir a personas físicas y jurídicas, así como a las organizaciones de la sociedad civil en la ejecución de las políticas públicas y programas tendientes a alcanzar los objetivos de la presente ley, para lo cual brindarán los apoyos que resulten necesarios, así como los establecidos para fomentar sus actividades en los términos de la Ley para el Fomento y la Participación de las Organizaciones de la Sociedad Civil del Estado de Jalisco.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2017)</small>
 
 ###### Artículo 6.
 
-Entre las medidas a que se refiere el artículo anterior para el ejercicio pleno de los derechos de las personas con discapacidad, las autoridades podrán adoptar:
+Entre las medidas a que se refiere el artículo anterior para el ejercicio pleno de los derechos de las personas con discapacidad, las autoridades deberán adoptar:
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 I. Medidas de nivelación, entre las que se encuentran las siguientes acciones:
 
@@ -235,9 +251,15 @@ b) Adaptar los puestos de trabajo para personas con discapacidad;
 
 c) Considerar en el diseño y distribución de comunicaciones oficiales, convocatorias públicas, libros de texto, licitaciones, entre otros, en formato braille, cuando así se solicite;
 
-d) Hacer uso de intérpretes de lengua de señas mexicana en los eventos públicos gubernamentales; y
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2017)</small>
+
+d) Hacer uso de intérpretes de lengua de señas mexicana en los eventos públicos gubernamentales, así como la inclusión de los mismos, en la prestación de sus servicios de las distintas dependencias públicas;
+
+Para efectos del párrafo anterior, las autoridades estatales y municipales, podrán celebrar convenios de colaboración con las asociaciones de traductores e intérpretes de la Lengua de Señas Mexicana; y
 
 e) Homologar las condiciones y prestaciones laborales para las personas con discapacidad y los grupos en situación de discriminación o vulnerabilidad;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 II. Medidas de inclusión, las cuales podrán implementarse en los siguientes ámbitos:
 
@@ -325,6 +347,8 @@ III. Promover ante las autoridades el diseño, la adopción y el establecimiento
 
 IV. Impulsar, desarrollar y apoyar los trabajos de investigación y análisis, relacionados con la prevención de la discapacidad, atención, inclusión y accesibilidad de personas con discapacidad;
 
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2017)</small>
+
 V. Establecer mecanismos de coordinación y desarrollo de programas de atención e integración social, con las diversas dependencias públicas estatales y municipales, así como con las organizaciones;
 
 VI. Apoyar a la Unidad de Valoración en la elaboración de proyectos de criterios y lineamientos técnicos para la emisión de las certificaciones de reconocimiento y calificación de discapacidad por la Secretaría de Salud del Estado de Jalisco, mismos que el titular de la Secretaría de Salud deberá publicar en el Periódico Oficial "El Estado de Jalisco";
@@ -343,7 +367,9 @@ XII. Proponer al Ejecutivo las medidas para el mejoramiento de la calidad de vid
 
 XIII. Brindar orientación a las personas con discapacidad, cuando éstas consideren que han sido víctimas de discriminación. Deberá privilegiarse, en todo momento, la conciliación como medio para la solución de conflictos;
 
-XIV. Fomentar la participación de las organizaciones, para alcanzar los objetivos de la presente Ley, brindarles la asesoría técnica y apoyar sus acciones;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2017)</small>
+
+XIV. Fomentar la participación de las organizaciones, para alcanzar los objetivos de la presente Ley, brindarles la asesoría técnica y apoyar sus acciones en los términos de la Ley para el Fomento y la Participación de las Organizaciones de la Sociedad Civil del Estado de Jalisco;
 
 XV. Promover campañas de difusión que promuevan la cultura de discapacidad y las personas con discapacidad como titulares de derechos, para sensibilizar y generar conciencia entre la población acerca de las medidas de prevención de la discapacidad, atención, inclusión y accesibilidad;
 
@@ -681,21 +707,25 @@ X. Desarrollar programas de difusión, capacitación, especialización y actuali
 
 XI. Garantizar un procedimiento objetivo e imparcial por profesionales de la salud para dirimir conflictos en los casos de controversia respecto de la certificación de reconocimiento y calificación de discapacidad, o por motivos de diagnóstico, la atención y el tratamiento;
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2017)</small>
 
-XII. Garantizar que en los servicios de salud pública y privada se cuente con apoyos estenográficos o intérprete de lengua de señas mexicana, para la adecuada atención de personas con discapacidad auditiva;
+XII. Garantizar que en los servicios de salud pública y privada se cuente con apoyos estenográficos e intérprete de lengua de señas mexicana, para la adecuada atención de personas con discapacidad auditiva;
 
 > <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 XIII. Establecer conjuntamente con el Consejo, programas de capacitación para familias y terceras personas, para la adecuada atención, rehabilitación y tratamiento, en su caso, de las personas con discapacidad;
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2017)</small>
 
-XIV. Coordinar acciones con las autoridades de los tres órdenes de gobierno y, en su caso, expedir protocolos, para la atención, adecuada, recuperación y rehabilitación básica de personas migrantes mutiladas durante su tránsito por Jalisco; y
+XIV. Coordinar acciones con las autoridades de los tres órdenes de gobierno y, en su caso, expedir protocolos, para la atención, adecuada, recuperación y rehabilitación básica de personas migrantes mutiladas durante su tránsito por Jalisco;
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2017)</small>
 
-XIV (SIC). Las demás previstas en esta Ley y la legislación estatal.
+XV. Realizar campañas sociales permanentes para la detección temprana de la sordera en los menores; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JULIO DE 2017)</small>
+
+XVI. Las demás previstas en esta Ley y la legislación estatal.
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -753,25 +783,33 @@ X. Garantizar que las niñas y los niños con discapacidad gocen del derecho a l
 
 XI. Promover, en colaboración con el Consejo, que en el Sistema Estatal de Bibliotecas, salas de lectura y servicios de información públicos y privados, se incluyan equipos y apoyos técnicos con tecnología adaptada, escritura e impresión en el sistema de escritura braille, ampliadores y lectores de texto, espacios adecuados y estenografía proyectada, que garanticen su accesibilidad a las personas con discapacidad;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2017)</small>
 
-XII. Impulsar la educación pluricultural y toda forma de comunicación escrita que facilite al ciego, sordo hablante, al sordo señante o semilingüe, niñas y niños con discapacidad intelectual y psicosocial el desarrollo y uso de la lengua en forma escrita; para lo cual proveerá a los centros educativos que así lo requieran, los materiales didácticos y las medidas de accesibilidad necesarios;
+XII. Garantizar la educación pluricultural y toda forma de comunicación escrita que facilite al ciego, sordo hablante, al sordo señante o semilingüe, niñas y niños con discapacidad intelectual y psicosocial el desarrollo y uso de la lengua en forma escrita; para lo cual proveerá a los centros educativos que así lo requieran, los materiales didácticos y las medidas de accesibilidad necesarios;
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2017)</small>
 
-XIII. Promover que los estudiantes presten apoyo a personas con discapacidad que así lo requieran, a fin de que cumplan con el requisito del servicio social;
+XIII. Garantizar la educación bilingüe bicultural, desde educación inicial, a través de la Lengua de Señas y el español, dirigida a personas sordas con la finalidad de que accedan en condiciones de equidad a la educación obligatoria;
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2017)</small>
 
-XIV. Desarrollar programas de capacitación para padres, cuidadores y tutores para que se enseñe y promueva la lengua de señas mexicanas y el sistema de escritura braille;
+XIV. Promover que los estudiantes presten apoyo a personas con discapacidad que así lo requieran, a fin de que cumplan con el requisito del servicio social;
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2017)</small>
 
-XV. Garantizar las medidas de diseño universal que permitan el libre acceso de las personas con discapacidad a los planteles educativos, en compañía de su perro guía o animal de servicio, y de los implementos necesarios para su desplazamiento; y
+XV. Desarrollar programas de capacitación para padres, cuidadores y tutores para que se enseñe y promueva la lengua de señas mexicanas (sic) y el sistema de escritura braille;
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2017)</small>
 
-XVI. Las demás previstas en esta Ley y la legislación aplicable.
+XVI. Garantizar las medidas de diseño universal que permitan el libre acceso de las personas con discapacidad a los planteles educativos, en compañía de su perro guía o animal de servicio y de los implementos necesarios para su desplazamiento;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JULIO DE 2017)</small>
+
+XVII. Establecer las bases, requisitos y certificar para la certificación de intérpretes en Lengua de Señas Mexicana; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JULIO DE 2017)</small>
+
+XVIII. Las demás previstas en esta Ley y la legislación aplicable.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -1045,7 +1083,7 @@ IV. De la accesibilidad, movilidad y eliminación de barreras físicas y de comu
 
 ###### Artículo 42.
 
-La rehabilitación médico-funcional estará dirigida a dotar de las condiciones precisas para su recuperación a aquellas personas que presenten discapacidad física, mental, intelectual y sensorial calificada y cuando se detecte cualquier anomalía o deficiencia deberá iniciar de manera inmediata hasta conseguir el máximo de funcionalidad posible, así como su mantenimiento.
+La rehabilitación médico-funcional estará dirigida a dotar de las condiciones precisas para su recuperación a aquellas personas que presenten discapacidad física, mental, intelectual y sensorial calificada y cuando se detecte cualquier anomalía o deficiencia deberá íniciar de manera inmediata hasta conseguir el máximo de funcionalidad posible, así como su mantenimiento.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -1097,11 +1135,11 @@ El apoyo y orientación psicológica para las personas con discapacidad comprend
 
 ### Capítulo III. Educación, Cultura, Deporte Y Recreación
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2017)</small>
 
 ###### Artículo 51.
 
-La Secretaría de Educación vigilará que las personas con discapacidad se integren de manera inclusiva y en condiciones de igualdad, a la educación regular en escuelas públicas y privadas en los niveles básicos y en la educación inicial.
+La Secretaría de Educación vigilará que las personas con discapacidad se integren de manera inclusiva y en condiciones de igualdad y equidad, a la educación regular en escuelas públicas y privadas en los niveles básicos y en la educación inicial.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -1480,3 +1518,9 @@ P.O. 17 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 25903/LXI/16 QUE ADICIONA EL ARTÍCULO 5 BIS A LA LEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 27 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26412/LXI/17 QUE REFORMA LOS ARTÍCULOS 4, 6, 12, 26, 27, 51 Y SE ADICIONA EL ARTÍCULO 5 TER A LA LEY PARA LA INCLUSIÓN Y EL DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD Y SE REFORMAN LOS ARTÍCULOS 27 Y 58 DE LA LEY DE EDUCACIÓN".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
