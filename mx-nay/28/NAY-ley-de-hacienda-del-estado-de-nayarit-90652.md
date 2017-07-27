@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-hacienda-del-estado-de-nayarit-90652"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-22"
-last_updated: "2016-11-12"
+last_updated: "2017-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY DE HACIENDA DEL ESTADO DE NAYARIT
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE HACIENDA DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2017.
 
 Ley publicada en la Sección Décima Primera del Periódico Oficial del Estado de Nayarit, el sábado 22 de diciembre de 2012.
 
@@ -349,8 +351,6 @@ Para este efecto se considerará como fecha de la adquisición la que aparezca e
 
 #### SECCIÓN PRIMERA. Del Padrón Vehicular del Estado de Nayarit
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 ###### Artículo 30.
 
 Están exentas del pago de este impuesto:
@@ -363,21 +363,15 @@ II.- La compra de vehículos efectuada por personas físicas o morales cuyo giro
 
 DEL IMPUESTO ESTATAL SOBRE TENENCIA O USO DE VEHÍCULOS.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 ###### Artículo 31.
 
 (DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
 
 #### SECCIÓN PRIMERA. Del Objeto
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 ###### Artículo 32.
 
 (DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 33.
 
@@ -389,15 +383,11 @@ DEL IMPUESTO SOBRE TENENCIA O USO DE VEHÍCULOS DE 10 AÑOS O MÁS DE MODELO ANT
 
 #### SECCIÓN SEGUNDA. De los Sujetos
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 ###### Artículo 34.
 
 (DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
 
 #### SECCIÓN TERCERA. De la Base
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 35.
 
@@ -405,15 +395,11 @@ DEL IMPUESTO SOBRE TENENCIA O USO DE VEHÍCULOS DE 10 AÑOS O MÁS DE MODELO ANT
 
 #### SECCIÓN CUARTA. Del pago
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 ###### Artículo 36.
 
 (DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
 
 #### SECCIÓN PRIMERA. De los sujetos
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 37.
 
@@ -425,31 +411,21 @@ DEL IMPUESTO SOBRE TENENCIA O USO DE VEHÍCULOS NUEVOS Y DE HASTA 9 AÑOS MODELO
 
 #### SECCIÓN SEGUNDA. Del Objeto
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 ###### Artículo 38.
 
 (DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 39.
 
 (DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 ###### Artículo 40.
 
 (DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 ###### Artículo 41.
 
 (DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 42.
 
@@ -457,15 +433,11 @@ DEL IMPUESTO SOBRE TENENCIA O USO DE VEHÍCULOS NUEVOS Y DE HASTA 9 AÑOS MODELO
 
 #### SECCIÓN TERCERA. De la Base
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 ###### Artículo 43.
 
 (DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
 
 #### SECCIÓN CUARTA. Del Pago
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 44.
 
@@ -473,49 +445,33 @@ DEL IMPUESTO SOBRE TENENCIA O USO DE VEHÍCULOS NUEVOS Y DE HASTA 9 AÑOS MODELO
 
 #### SECCIÓN PRIMERA. Exenciones
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 ###### Artículo 45.
 
 (DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 46.
 
 (DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 ###### Artículo 47.
 
 (DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 48.
 
 (DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 ###### Artículo 49.
 
 (DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 50.
 
 (DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 ###### Artículo 51.
 
 (DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 52.
 
@@ -526,8 +482,6 @@ APARTADO C
 DISPOSICIONES COMUNES APLICABLES Al IMPUESTO DE TENENCIA O USO DE VEHÍCULOS
 
 #### SECCIÓN SEGUNDA. De la Responsabilidad Solidaria
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 53.
 
@@ -807,13 +761,9 @@ Es objeto de este impuesto, la realización en el Estado de Nayarit, de pagos a 
 
 Son sujetos de este impuesto las personas físicas o morales obligadas a efectuar los pagos a que se refiere el artículo anterior.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2016)</small>
 
 Están obligadas a retener y enterar este impuesto, las personas físicas o morales que contraten bajo cualquier esquema jurídico la prestación de servicios de contribuyentes domiciliados en otro Estado, cuya realización genere la prestación de trabajo personal subordinado dentro del territorio del Estado. La retención del impuesto se efectuará al contribuyente que preste los servicios contratados, debiendo entregarle la constancia de retención correspondiente durante los quince días siguientes al periodo respectivo.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2016)</small>
 
@@ -930,8 +880,6 @@ El funcionario o empleado público que contravenga lo dispuesto anteriormente, s
 ###### Artículo 95.
 
 Los derechos se pagarán de conformidad con las tasas y cuotas que establezca la Ley de Ingresos del Estado y a falta de disposición expresa, la autoridad fiscal determinará su monto teniendo en cuenta el costo que para el Estado tenga la prestación del servicio.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2016)</small>
 
@@ -1209,10 +1157,14 @@ El presente Decreto entrará en vigor a partir del primero de enero de dos mil d
 
 ###### ARTICULO SEGUNDO.
 
-Se reduce la aportación que se otorga al Fideicomiso de Promoción Turística del Estado de Nayarit, señalada en la Cláusula Segunda punto del Contrato de Fideicomiso de fecha 30 de Abril de 1997, constituido en virtud del Decreto número 8002, emitido por el H. Congreso del Estado Libre y Soberano de Nayarit, publicado en el Periódico Oficial, órgano del Gobierno del Estado, con fecha 14 de Diciembre de 1996.
+(DEROGADO, P.O. 27 DE JULIO DE 2017)
 
-La reducción será de un 100% a un 80% sobre los ingresos que se estime recaudar por el Impuesto al Hospedaje, en la Ley de Ingresos del Estado de Nayarit para el ejercicio fiscal 2017 y subsecuentes.
+P.O. 27 DE JULIO DE 2017.
 
-Los ingresos excedentes a lo presupuestado en la Ley de Ingresos del ejercicio fiscal 2017 y subsecuentes, no formarán parte del porcentaje que se otorga al Fideicomiso de Promoción Turística.
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE DEROGA EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA DEL ESTADO DE NAYARIT, PUBLICADO EN EL PERIÓDICO OFICIAL, EL 12 DE NOVIEMBRE DE 2016”.]
 
-El Fideicomitente Único del Gobierno del Estado de Nayarit deberá proceder a modificar el Contrato de Fideicomiso de Promoción Turística del Estado de Nayarit, con efectos a partir de enero del 2017, en los términos aquí expuestos.
+Primero.- El presente Decreto entrará en vigor el primero de octubre del dos mil diecisiete, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo.- El patrimonio del Fideicomiso de Promoción Turística del Estado de Nayarit se integrará por la recaudación total del Impuesto al Hospedaje.
+
+De ser necesario, el Fideicomitente Único del Gobierno del Estado de Nayarit deberá proceder a modificar el Contrato de Fideicomiso de Promoción Turística del Estado de Nayarit.
