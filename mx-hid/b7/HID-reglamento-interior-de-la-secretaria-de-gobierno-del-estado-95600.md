@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-secretaria-de-gobierno-del-estado-956
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-07-31"
-last_updated: "2016-05-02"
+last_updated: "2017-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95600&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO DEL ESTADO DE HIDALGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO, PUBLICADO EN EL P.O. DE 27 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Alcance Uno del Periódico Oficial del Estado de Hidalgo, el miércoles 31 de julio de 2013.
 
@@ -325,7 +327,7 @@ IV.- Diseñar, editar y publicar los documentos digitales relacionados con las a
 
 V.- Apoyar y cuidar la imagen impresa y la producción de mensajes audiovisuales emitidos por el Gobernador;
 
-VI.- Coordinar y establecer los criterios para el análisis cualitativo y cuantitativo de la precepción ciudadana sobre la implementación de las políticas publicas, determinando muestras representativas que permitan medir la eficacia y oportunidad en la realización de las acciones publicas estableciendo tendencias, comportamientos y resultados;
+VI.- Coordinar y establecer los criterios para el análisis cualitativo y cuantitativo de la precepción ciudadana sobre la implementación de las políticas públicas, determinando muestras representativas que permitan medir la eficacia y oportunidad en la realización de las acciones públicas estableciendo tendencias, comportamientos y resultados;
 
 VII.- Seleccionar los medios adecuados a fin de optimizar recursos y fortalecer la imagen institucional de Gobierno;
 
@@ -539,7 +541,7 @@ XII.- Formular, presentar y proseguir en representación del Poder Ejecutivo del
 
 XIII.- Intervenir en los juicios de amparo en que el Gobernador o el Secretario sean parte, con su representación y presentar los informes y promociones conducentes;
 
-XIV.- Suscribr (sic) convenios, contratos y demas documentos relativos al ejercicio de sus facultades y aquéllos que por delegación o suplencia le correspondan;
+XIV.- Suscribr (sic) convenios, contratos y demás documentos relativos al ejercicio de sus facultades y aquéllos que por delegación o suplencia le correspondan;
 
 XV.- Proveer lo necesario para el cumplimiento de las resoluciones dictadas en los juicios en que el ejecutivo haya sido parte;
 
@@ -1280,3 +1282,23 @@ P.O. 2 DE MAYO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE MODIFICA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 27 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO”.]
+
+PRIMERO.- El presente reglamento entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Gobierno del Estado, de fecha 26 de julio de 2013, publicado en el Periódico Oficial del Estado de Hidalgo, el 31 de julio de 2013 en el Periódico Oficial del Estado de Hidalgo así como todas las demás modificaciones posteriores a la fecha de su publicación.
+
+TERCERO.- Se derogan las demás disposiciones que se opongan al presente Reglamento.
+
+CUARTO.- Si alguna unidad administrativa, conforme al presente Reglamento, cambia de adscripción, contará con el término de 30 días para operar en su nueva unidad. En tanto seguirá en el ejercicio de sus atribuciones en los términos del reglamento que se abroga.
+
+QUINTO.- Cuando la competencia de alguna unidad administrativa, establecida con anterioridad a la vigencia del presente reglamento, deba ser ejercida por otra u otras de las que el mismo establece, en un término de los 60 días, pasarán los expedientes en trámite y el archivo a la unidad o unidades competentes, de conformidad con el ámbito de competencia que a cada una corresponda y los asuntos que se encuentren en trámite competerá a la nueva dependencia terminar la substanciación y dictar la resolución que corresponda.
+
+SEXTO.- Continuarán en vigor los acuerdos y demás disposiciones de carácter general, dictados con apoyo en el Reglamento Interior de la Secretaría de Gobierno que se abroga, en lo que no se opongan al presente reglamento.
+
+SÉPTIMO.- Cuando el presente reglamento confiere atribuciones a unidades administrativas que se encuentran señaladas en otras disposiciones con distinta denominación se entenderá que corresponden a las previstas en este reglamento.
+
+OCTAVO.- En tanto no se expidan los manuales de organización, de procedimientos y de trámites y servicios al público, la o el Titular de la Secretaría estará facultado para resolver lo que dichos manuales deben regular.
