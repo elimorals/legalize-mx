@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-secretaria-de-desarrollo-89725"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-10-08"
-last_updated: "2016-03-07"
+last_updated: "2017-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO AGROPECUARIO DEL ESTADO DE HIDALGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO DEL ESTADO DE HIDALGO, PUBLICADO EN EL P.O. DE 27 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 8 de octubre de 2012.
 
@@ -421,7 +423,7 @@ XV.- Colaborar en las inspecciones en los puntos de verificación e inspección 
 
 XVI.- Asistir a los organismos públicos Federales, Estatales y Municipales encargados de verificar que las especies, productos e insumos vegetales, pecuarios y acuícolas que se movilicen por el territorio estatal, cumplan con la normatividad correspondiente y en su caso, se constate su condición sanitaria o inocuidad;
 
-XVII.- Coadyuvar con la Dependencia Federal correspondiente y los Comités Estatales de Fomento y Protección Pecuaria y Sanidad Vegetal y Acuícola en el desarrollo .de las actividades fitozoosanitarias;
+XVII.- Coadyuvar con la Dependencia Federal correspondiente y los Comités Estatales de Fomento y Protección Pecuaria y Sanidad Vegetal y Acuícola en el desarrollo de las actividades fitozoosanitarias;
 
 XVIII.- Promover los convenios y programas de coordinación fitozoosanitaria con la Federación, Municipios, organizaciones de productores y otras instituciones, así como dar seguimiento a su operación y evaluar sus resultados;
 
@@ -980,3 +982,19 @@ P.O. 7 DE MARZO DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO DEL ESTADO DE HIDALGO”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Desarrollo Agropecuario del Estado de Hidalgo, publicado en el Periódico Oficial del Estado de Hidalgo, el 08 de octubre de 2012, así como todas las demás modificaciones posteriores a la fecha de su publicación.
+
+TERCERO.- Se derogan las demás disposiciones que se opongan al presente Reglamento.
+
+CUARTO.- Cuando la competencia de alguna Unidad Administrativa, establecida con anterioridad a la vigencia del presente Reglamento, deba ser ejercida por otra u otras de las que el mismo establece, en un término de 30 días, pasarán los expedientes en trámite y el archivo a la unidad o unidades competentes, de conformidad con el ámbito de competencia que a cada una corresponda y los asuntos que se encuentren en trámite competerá a la nueva dependencia terminar la substanciación y dictar la resolución que corresponda.
+
+QUINTO.- Continuarán en vigor los acuerdos y demás disposiciones de carácter general, dictados con apoyo en el Reglamento Interior de la Secretaría de Desarrollo Agropecuario que se abroga, en lo que no se opongan al presente Reglamento.
+
+SEXTO.- En tanto no se expidan los manuales de organización, de procedimientos y de trámites y servicios al público, la o el Titular de la Secretaría estará facultado para resolver lo que dichos manuales deben regular.
