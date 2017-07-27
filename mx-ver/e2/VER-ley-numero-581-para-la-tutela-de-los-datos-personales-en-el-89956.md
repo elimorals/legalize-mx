@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-581-para-la-tutela-de-los-datos-personales-en-el-899
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-02"
-last_updated: "2012-10-02"
+last_updated: "2017-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 581 PARA LA TUTELA DE LOS DATOS PERSONALES EN EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NÚMERO 316 DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 27 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY NÚMERO 581 PARA LA TUTELA DE LOS DATOS PERSONALES EN EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE JULIO DE 2017 (ABROGADA).
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el martes 2 de octubre de 2012.
 
@@ -838,3 +840,23 @@ Dr. Javier Duarte de Ochoa
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 27 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY NÚMERO 316 DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. La presente Ley entrará en vigor el día de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se abroga la Ley para la Tutela de los Datos Personales en el Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial del Estado el día 2 de octubre de 2012, y se derogan todas aquellas disposiciones que contravengan lo dispuesto por la presente Ley.
+
+Tercero. El Instituto deberá realizar las modificaciones a la normatividad interna que corresponda y publicarlos en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave, a más tardar en un año a partir de la entrada en vigor de la Ley General de Protección.
+
+Cuarto. Los responsables expedirán sus avisos de privacidad en los términos previstos en la presente Ley y demás disposiciones aplicables, a más tardar tres meses después de la entrada en vigor de ésta.
+
+Quinto. Los responsables deberán ajustar su normatividad y su gestión, así como los sistemas de datos personales, a los principios, garantías, deberes y procedimientos contenidos en esta Ley, en especial lo relativo a la consulta de sus bases de datos, la reproducción y transmisión por cualquier medio de la información que posean, en un plazo no mayor a un año, contado a partir de la entrada en vigor de esta Ley.
+
+Sexto. El Instituto expedirá el Programa Estatal de Protección de Datos Personales y lo publicará en la página del Instituto a más tardar en un plazo de doce meses contado a partir de la entrada en vigor de la presente Ley.
+
+Séptimo. El titular de la Dirección de Datos Personales que actualmente desempeña el cargo podrá continuar en el mismo si así lo determina el Pleno del Instituto o, en su defecto, se sujetará a los mecanismos de designación y nombramiento que sean aplicables para los puestos del mismo nivel de dirección que existan en el Instituto.
