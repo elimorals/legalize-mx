@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2017-07-14"
+last_updated: "2017-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2017.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1613,17 +1613,17 @@ Lesiones causadas por animal.- De las lesiones que a una persona cause algún an
 
 Concepto.- Por riña se entiende para todos los efectos penales, la contienda de obra y no la de palabra entre dos o más personas, con el propósito de dañarse recíprocamente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2017)</small>
 
 ###### Artículo 147.
 
-Homicidio y lesiones calificados.- Se entiende que las lesiones y el homicidio son calificados, cuando se cometan con premeditación, con ventaja, con alevosía o traición; de igual manera serán considerados calificados, cuando se cometan en contra de miembros de las instituciones policiales del Estado en ejercicio o como consecuencia del desempeño de sus funciones, incluyendo a los elementos de las empresas privadas y a los que de manera independiente presten servicios de seguridad, protección, vigilancia o custodia de personas, lugares o establecimientos, así como de bienes o valores incluido su traslado, siempre y cuando estén debidamente registrados ante los organismos públicos correspondientes. La presente disposición no surtirá efectos en el caso de delitos no graves por culpa.
-
-> <small>(REFORMADO POR DECRETO 545, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
+Homicidio y lesiones calificados.- Se entiende que las lesiones y el homicidio son calificados, cuando se cometan con premeditación, con ventaja, con alevosía o traición; de igual manera serán considerados calificados, cuando se cometan frente a menores de edad, o, familiares de la víctima; así como también, en contra de miembros de las instituciones policiales del Estado en ejercicio o como consecuencia del desempeño de sus funciones, incluyendo a los elementos de las empresas privadas y a los que de manera independiente presten servicios de seguridad, protección, vigilancia o custodia de personas, lugares o establecimientos, así como de bienes o valores incluido su traslado, siempre y cuando estén debidamente registrados ante los organismos públicos correspondientes. La presente disposición no surtirá efectos en el caso de delitos no graves por culpa.
 
 Concepto de premeditación.- Hay premeditación, siempre que el imputado cause intencionalmente una lesión, después de haber reflexionado sobre el delito que va a cometer.
 
-Se presumirá que existe premeditación cuando las lesiones o el homicidio se cometan por inundación, incendio, minas, bombas o explosivos; por medio de venenos o cualquier otra substancia nociva a la salud, contagio venéreo, asfixia o enervantes o por retribución dada o prometida; por tormento, motivos depravados o brutal ferocidad.
+Se presumirá que existe premeditación cuando las lesiones o el homicidio se cometan por inundación, incendio, minas, bombas o explosivos; por medio de venenos o cualquier otra substancia nociva a la salud, contagio venéreo, asfixia o enervantes o por retribución económica o de cualquier otra especie dada o prometida; por tormento, motivos depravados o brutal ferocidad.
+
+En los casos de homicidio frente a menores de edad, o familiares de la víctima, cuando medie retribución en los términos que señala el párrafo que antecede, se aplicara al responsable invariablemente, la sanción máxima que señala el artículo 126 de este código.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
@@ -2153,7 +2153,7 @@ Las penas señaladas en los artículos 176, 177 y 178, se incrementarán hasta e
 
 ###### Artículo 180.
 
-Tipo y punibilidad.- Al que sin consentimiento de una persona ejecute en ella o lo haga ejecutar un acto sexual, sin el propósito de llegar a la cópula, se le aplicarán de dos a ocho años de prisión y hasta doscientos días de multa.
+Tipo y punibilidad.- Al que sin consentimiento de una persona ejecute en ella o lo haga ejecutar un acto sexual, sin el propósito de llegar a la cópula, se le aplicarán de dos a ocho años de prisión y hasta doscientos días multa.
 
 Si se hiciere uso de la violencia física o moral, la pena se aumentará de uno a tres años.
 
@@ -5526,3 +5526,13 @@ P.O. 14 DE JULIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 92 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 307 FRACCIÓN I, II Y III DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 96 MEDIANTE EL CUAL SE REFORMA Y ADICIONA EL ARTÍCULO 147, EL CUAL FORMA PARTE DEL TÍTULO PRIMERO, DENOMINADO: DELITOS CONTRA LA VIDA Y LA SALUD PERSONAL, DEL CAPÍTULO VII, DENOMINADO DISPOSICIONES COMUNES PARA LOS DELITOS DE HOMICIDIO Y LESIONES, DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Este ordenamiento deroga todas las disposiciones que se opongan a él.
+
+TERCERO.- Remítase al Titular del Poder Ejecutivo en el Estado para que se ordene su publicación oficial.
