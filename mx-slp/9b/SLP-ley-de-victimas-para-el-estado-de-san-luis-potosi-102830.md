@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-victimas-para-el-estado-de-san-luis-potosi-102830"
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-07"
-last_updated: "2015-06-09"
+last_updated: "2017-07-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DE VICTIMAS PARA EL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 28 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE VÍCTIMAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2017 (ABROGADA).
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 7 de octubre de 2014.
 
@@ -1484,3 +1486,33 @@ P.O. 9 DE JUNIO DE 2015.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0682.- LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Esta ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se abroga la Ley de Víctimas para el Estado de San Luis Potosí, publicada en el Periódico Oficial del Gobierno del Estado “Plan de San Luis” el siete de octubre del dos mil catorce.
+
+TERCERO. El Ejecutivo Estatal deberá emitir el Reglamento de la presente Ley dentro de los noventa días hábiles siguientes, a la entrada en vigor del presente Decreto.
+
+CUARTO. Por única ocasión, dentro de los treinta días siguientes a la entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo Estatal, previa consulta pública a los colectivos de víctimas y organizaciones de la sociedad civil relacionadas con la materia, remitirá al Congreso del Estado la propuesta de nombramiento del Comisionado Ejecutivo, quien durará en el cargo tres años y deberá cumplir con los requisitos establecidos en el artículo 93 de esta Ley.
+
+En adelante la designación del Comisionado Ejecutivo se realizará de acuerdo al proceso establecido en el artículo 92 de esta Ley.
+
+Los Comisionados nombrados por el Congreso del Estado que fueron propuestos por los Poderes Ejecutivo, Judicial y el propio Legislativo, y que se encuentren en funciones, dejarán de ejercer el cargo que les fue conferido, a la entrada en vigor del presente Decreto. Queda sin efecto el nombramiento realizado en la fecha 14 de julio del año 2015 y el de fecha 16 de julio de 2016.
+
+En tanto no se designe al Comisionado Ejecutivo, la Dirección General la Unidad de Primer Contacto estará a cargo de la persona que designe al efecto el Titular del Poder Ejecutivo del Estado, quien emitirá de manera provisional las autorizaciones para el acceso a los recursos del Fondo.
+
+QUINTO. La Unidad de Primer Contacto, se integrará en los términos y bajo las características que se precisan en esta Ley en un período no mayor a treinta días a partir de la entrada en vigor del presente Decreto, y contará con los bienes muebles e inmuebles, así como los recursos materiales y financieros que a la fecha tenga destinados el Centro de Atención Integral a Víctimas, además de los que adicionalmente le sean asignados.
+
+SEXTO. El Comisionado Ejecutivo en un plazo no mayor a diez días naturales a partir de su nombramiento, publicará la Convocatoria a que se refiere el artículo 91 de la Ley.
+
+SÉPTIMO. La Comisión Ejecutiva Estatal de Atención a Víctimas realizará las adecuaciones necesarias a su estructura orgánica y al contrato de fideicomiso en un plazo de noventa días hábiles posteriores a la entrada en vigor del Reglamento.
+
+OCTAVO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado, por lo que no se autorizarán recursos adicionales en el ejercicio fiscal correspondiente.
+
+NOVENO. En un plazo de 180 días contados a partir de la entrada en vigor del presente, los municipios en el Estado, realizarán las adecuaciones en sus Reglamentos conforme a lo dispuesto en el presente Decreto.
+
+DÉCIMO. Los municipios en el Estado dentro de un plazo de 90 días contados a partir de la entrada en vigor del presente Decreto, deberán nombrar una comisión y/o representante de Atención a Víctimas.
