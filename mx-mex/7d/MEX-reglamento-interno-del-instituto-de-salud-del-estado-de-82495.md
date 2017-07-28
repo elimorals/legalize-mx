@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-instituto-de-salud-del-estado-de-82495"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-12"
-last_updated: "2017-03-08"
+last_updated: "2017-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERNO DEL INSTITUTO DE SALUD DEL ESTADO DE MEXICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE JULIO DE 2017 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO INTERNO DEL INSTITUTO DE SALUD DEL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE MARZO DE 2017.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 28 DE JULIO DE 2017.]
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el viernes 12 de agosto de 2011.
 
@@ -803,31 +803,21 @@ I. Aplicar las disposiciones jurídicas vigentes en materia de control de person
 
 II. Elaborar y operar el plan estratégico de personal en coordinación con las unidades médicas y administrativas del Instituto.
 
-> <small>(REFORMADA, G.G. 8 DE MARZO DE 2017)</small>
+> <small>(F. DE E., G.G. 28 DE JULIO DE 2017)</small>
 
-III. Suscribir contratos individuales de trabajo por obra o tiempo determinado, por honorarios asimilables a salarios y por servicios profesionales, previa revisión de la Unidad Jurídico Consultiva, en términos de la legislación aplicable.
+III. Aplicar las disposiciones que norman la remuneración y prestaciones que deban otorgarse a los servidores públicos del Instituto, en concordancia con las estructuras orgánico-funcionales y los catálogos de puestos aprobados.
+
+(ADICIONADA, G.G. 8 DE MARZO DE 2017) (F. DE E., G.G. 28 DE JULIO DE 2017)
+
+III Bis. Suscribir contratos individuales de trabajo por obra o tiempo determinado, por honorarios asimilables a salarios y por servicios profesionales, previa revisión de la Unidad Jurídico Consultiva, en términos de la legislación aplicable.
 
 IV. Aplicar las disposiciones legales en materia de reclutamiento, selección, inducción, capacitación, evaluación del desempeño y promoción escalafonaria de los servidores públicos con funciones operativas.
 
-> <small>(REFORMADA, G.G. 8 DE MARZO DE 2017)</small>
+V. Otorgar a los servidores públicos del Instituto las prestaciones socioeconómicas que les correspondan, así como los estímulos y recompensas.
 
-V. Autorizar la contratación, cambio de adscripción, comisiones, promociones, permutas y bajas de personal, previo acuerdo del titular de la unidad administrativa correspondiente.
+(ADICIONADA, G.G. 8 DE MARZO DE 2017) (F. DE E., G.G. 28 DE JULIO DE 2017)
 
-VI. Coordinar acciones con las instancias que correspondan para que en forma oportuna se entregue el pago a los servidores públicos del Instituto.
-
-VII. Registrar, procesar y validar los movimientos de personal del Instituto.
-
-VIII. Mantener comunicación permanente con las organizaciones sindicales de los servidores públicos del Instituto.
-
-IX. Proporcionar a los servidores públicos del Instituto los documentos necesarios para su identificación, así como constancias de servicios.
-
-X. Mantener actualizados los catálogos de puestos y los tabuladores de sueldos del Instituto.
-
-XI. Emitir constancias de pagos de sueldos y de retención de impuestos a los servidores públicos del Instituto, para efectos de lo establecido en la Ley del Impuesto sobre la Renta.
-
-XII. Levantar actas administrativas a los servidores públicos del Instituto cuando incumplan las disposiciones laborales respectivas.
-
-XIII. Las demás que le confieren otras disposiciones legales.
+V Bis. Autorizar la contratación, cambio de adscripción, comisiones, promociones, permutas y bajas de personal, previo acuerdo del titular de la unidad administrativa correspondiente.
 
 ###### Artículo 39.
 
