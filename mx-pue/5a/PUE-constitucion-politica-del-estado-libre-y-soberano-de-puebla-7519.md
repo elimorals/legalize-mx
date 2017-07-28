@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2017-06-15"
+last_updated: "2017-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2017.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el martes 2 de octubre de 1917.
 
@@ -107,9 +107,9 @@ El Instituto deberá vigilar en el ámbito de su competencia el cumplimiento de 
 
 El Consejo General será el Órgano Superior de Dirección del Instituto y el responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de vigilar que los principios de legalidad, imparcialidad, objetividad, certeza, independencia y máxima publicidad guíen todas las actividades del Instituto.
 
-> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2017)</small>
 
-El Consejo General se reunirá la cuarta semana de noviembre del año previo a la elección para declarar el inicio del proceso electoral.
+El Consejo General se reunirá entre los días tres y cinco del mes de noviembre del año previo a la elección para declarar el inicio del Proceso Electoral.
 
 El Consejo General del Instituto se integrará por:
 
@@ -3317,7 +3317,7 @@ P.O. 29 DE AGOSTO DE 2012.
 
 DECLARATORIA DEL DECRETO QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 17 Y EL PRIMER PÁRRAFO DEL 118 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
-PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas han sido aprobadas en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas han sido aprobadas en términos de las disposiciones constitucionales aplicables y reforman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
 
 SEGUNDO.- El Presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -3529,7 +3529,7 @@ TERCERO. El Honorable Congreso del Estado Libre y Soberano de Puebla, declara qu
 
 P.O. 9 DE FEBRERO DE 2017.
 
-## [N. DE E. TRANSITORIOS DE LA "DECLARATORIA QUE EMITE EL HONORABLE CONGRESO DEL ESTADO, POR LA QUE DECLARA APROBADO EL DECRETO QUE REFORMA EL PRIMER PÁRRAFO Y LAS FRACCIONES II Y III DEL ARTÍCULO 18 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+## [N. DE E. TRANSITORIOS DE LA “DECLARATORIA DEL DECRETO QUE REFORMA EL PRIMER PÁRRAFO Y LAS FRACCIONES II Y III DEL ARTÍCULO 18 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -3546,3 +3546,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
 
 TERCERO. El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que esta reforma ha sido aprobada en términos de las disposiciones constitucionales aplicables y forma parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+P.O. 28 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “DECLARATORIA QUE EMITE EL HONORABLE CONGRESO DEL ESTADO, POR LA QUE DECLARA APROBADO EL DECRETO QUE REFORMA EL PÁRRAFO QUINTO DE LA FRACCIÓN II DEL ARTÍCULO 3 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que esta reforma ha sido aprobada en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
