@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-transito-y-de-la-seguridad-vial-del-municipio-899
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-10-27"
-last_updated: "2016-06-04"
+last_updated: "2017-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89933&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 REGLAMENTO DE TRÁNSITO Y DE LA SEGURIDAD VIAL DEL MUNICIPIO DE COMALA, COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2017.
 
 Reglamento publicado en el Suplemento No. 2 al Número 52 del Periódico Oficial del Estado de Colima, el sábado 27 de octubre de 2012.
 
@@ -127,7 +127,11 @@ Centro de Monitoreo.- Es el área Central Operativa de vigilancia, donde se alma
 
 Gps.- Sistema de localización que mediante el posicionamiento global, permite ubicar mediante coordenadas un sitio específico en la geografía del Municipio; y
 
-Salario Mínimo.- El salario mínimo diario vigente en la zona económica correspondiente;
+Salario Mínimo.- (DEROGADO, P.O. 29 DE JULIO DE 2017)
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2017)</small>
+
+UMA.- La unidad de medida y actualización que sustituye al salario mínimo como escala para el pago de multas y otras obligaciones.
 
 ###### ARTÍCULO 4.
 
@@ -197,9 +201,17 @@ IX. Aplicar las sanciones a los responsables que incurran en infracciones a las 
 
 X. Promover el otorgamiento de ascensos y promociones a que se haga acreedor el personal, por razones de su preparación, experiencia y tiempo en el servicio;
 
-XI. Determinar las sanciones administrativas y disciplinarias que se impongan al personal de la corporación que incurra en faltas en el desempeño de sus funciones o despliegue conductas contrarias a las disposiciones del presente reglamento; y
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2017)</small>
 
-XII. Las demás que le señalen otras leyes y reglamentos.
+XI. Determinar las sanciones administrativas y disciplinarias que se impongan al personal de la corporación que incurra en faltas en el desempeño de sus funciones o despliegue conductas contrarias a las disposiciones del presente reglamento;
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2017)</small>
+
+XII. Convenir y coordinar con la Secretaría de Movilidad y el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública lo referente a la materialización de la Ley Federal del Registro Público Vehicular y la Ley de Transporte y de la Seguridad Vial para el Estado de Colima, procurando estimular la participación de la sociedad; y
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2017)</small>
+
+XIII. Las demás que le señalen otras leyes y reglamentos
 
 ###### ARTÍCULO 8.
 
@@ -363,9 +375,25 @@ III.- No deberán los vehículos circular con las placas en su interior u oculta
 
 IV.- Las placas deberán estar debidamente colocadas y mantenerse por su propietario en buen estado de conservación, sin alterar los dígitos o los colores, y no contener dobleces, rótulos, micas o cualquier tipo de objeto que dificulte o impida su visibilidad e identificación;
 
-V.- Cuando se trate de vehículos que provengan del extranjero, y su registro local determine el uso de una sola placa de circulación, deberán observarse en lo conducente las disposiciones establecidas en el presente artículo; y
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2017)</small>
 
-VI.- Las motocicletas, trimotos, cuatrimotos, vehículos en la modalidad de rinos, racers, de estructura y remolques deberán contener la placa en su parte posterior.
+V.- Cuando se trate de vehículos que provengan del extranjero, y su registro local determine el uso de una sola placa de circulación, deberán observarse en lo conducente las disposiciones establecidas en el presente artículo;
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2017)</small>
+
+VI.- Las motocicletas, trimotos, cuatrimotos, vehículos en la modalidad de rinos, racers, de estructura y remolques deberán contener la placa en su parte posterior; y
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2017)</small>
+
+VII.- Los vehículos de motor deberán contar con la constancia de inscripción al Registro Público Vehicular adherida en el cristal delantero de la unidad.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2017)</small>
+
+Las placas de circulación expedidas en otras entidades federativas que porten los automóviles que circulan en el municipio, deberán corresponder a la vigencia efectiva exigible en cada una de ellas. En caso contrario, se detendrá su circulación y se asegurará el vehículo hasta en tanto su propietario presente las placas vigentes respectivas o la documentación que acredite su vigencia.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2017)</small>
+
+La falta de cumplimiento de las disposiciones señaladas en el presente artículo será motivo de infracción vial.
 
 ###### ARTÍCULO 19.
 
@@ -403,7 +431,13 @@ XIII. Disponer de espejos retrovisores, uno, en la parte media superior del para
 
 XIV. Los cristales delanteros del conductor y acompañante derecho, así como el parabrisas de los vehículos, deberán permitir perfecta visibilidad al interior y exterior, quedando expresamente prohibido el tránsito de vehículos con estos cristales polarizados, entintados o que tengan colocado algún objeto, material o aditamento en los lugares antes mencionados, y solo se aceptarán condiciones similares a los provenientes de la fábrica donde se ensambló el vehículo. Se considerará el supuesto de excepción de acuerdo con la norma oficial mexicana, en el uso de polarizado o entintado en los cristales laterales delanteros y en el parabrisas a los vehículos destinados a los servicios de Seguridad de las entidades Públicas; de los vehículos que dispongan de vidrios de seguridad de resistencia balística debidamente registrados por esta Dependencia; y previo permiso otorgado por la Dirección General en el caso de los vehículos de las personas que padezcan problemas de salud y a las cuales cause daños la reflexión de los rayos solares, debidamente acreditados por constancia médica otorgada por una Institución oficial del sector Salud; y
 
-XV. La inobservancia de cualquiera de los requisitos enunciados en el presente artículo será motivo de aplicación de la sanción correspondiente y en caso de lo dispuesto por las fracciones I, III, VIII, XI, y XIV, podrá detenerse el vehículo para asegurar su cumplimiento y atenuar el factor de riesgo en el tránsito vehicular.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2017)</small>
+
+XV. Contar con la constancia de inscripción al Registro Público Vehicular adherida en el cristal delantero de la unidad.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2017)</small>
+
+La inobservancia de cualquiera de los requisitos enunciados en el presente artículo será motivo de aplicación de la sanción correspondiente y en caso de lo dispuesto por las fracciones I, III, VIII, XI, y XIV, podrá detenerse el vehículo para asegurar su cumplimiento y atenuar el factor de riesgo en el tránsito vehicular.
 
 ###### ARTÍCULO 21.
 
@@ -1267,9 +1301,11 @@ Los elementos operativos de Tránsito y Vialidad observarán las normas prevista
 
 Los elementos operativos de Tránsito y Vialidad podrán restringir parcial o totalmente el tránsito vehicular y re direccionar (sic) el flujo vial cuando las condiciones de seguridad en el tránsito generado por la movilidad urbana lo demanden.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 147.
 
-Cuando los elementos operativos de Tránsito y Vialidad, observen o se percaten de manera evidente o documentada que no da a lugar a duda de la comisión de la infracción, cometida; respecto a los conductores que cometan alguna falta a las disposiciones de este Reglamento, deberán proceder en la forma siguiente:
+Cuando los elementos operativos de Tránsito y Vialidad, observen o se percaten de manera evidente o documentada que no da a lugar a duda de la comisión de la infracción cometida; respecto a los conductores que cometan alguna falta a las disposiciones de este Reglamento, deberán proceder en la forma siguiente:
 
 I. Indicar al infractor en forma notoria, que debe detener la marcha del vehículo, y estacionarse en algún lugar donde no se obstaculice el tráfico ni ponga en riesgo la seguridad de terceros;
 
@@ -1277,7 +1313,9 @@ II. Dirigirse respetuosamente al conductor, con los ojos descubiertos cuando por
 
 III. Señalar al conductor la infracción que ha cometido, informándole de los supuestos normativos y de la señalización regulatoria del tránsito inherente del caso;
 
-IV. Solicitar al conductor el documento que lo faculte para conducir, y la tarjeta de circulación del vehículo, así como verificar la vigencia de las placas de circulación, el holograma y la calcomanía vehicular;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2017)</small>
+
+IV. Solicitar al conductor el documento que lo faculte para conducir, y la tarjeta de circulación del vehículo, así como verificar la vigencia de las placas de circulación, el holograma, la calcomanía vehicular y si cuenta con la constancia de inscripción al Registro Público Vehicular adherida en el cristal delantero de la unidad;
 
 V. Hacer la boleta de infracción o amonestación en los formatos que se utilizan, entregando al conductor el original y firmando éste, de enterado, en la copia correspondiente;
 
@@ -1285,7 +1323,9 @@ V. Hacer la boleta de infracción o amonestación en los formatos que se utiliza
 
 VI. Los elementos operativos de Tránsito y Vialidad en ningún caso deberán llevar a cabo la retención de licencias o permisos para conducir, placas y tarjetas de circulación, placas y tarjetas de circulación provisionales o cualquier documento de identificación vehicular que prevé la Ley del Transporte y de la Seguridad Vial, en garantía del pago de las infracciones a que hace mención el artículo 239 de este ordenamiento;
 
-En caso de que el conductor no cuente con licencia o permiso para conducir o esta no se encuentre vigente, o que el vehículo no cuente con placas para circular, o estas no estén vigentes; se procederá al aseguramiento del vehículo para su encierro en el corralón autorizado; y
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2017)</small>
+
+En caso de que el conductor no cuente con licencia o permiso para conducir o ésta no se encuentre vigente, que el vehículo no cuente con placas para circular o éstas no estén vigentes o no cuente con la constancia de inscripción al Registro Público Vehicular adherida en el cristal; se procederá al aseguramiento del vehículo para su encierro en el corralón autorizado; y
 
 VII.- Los elementos operativos de Tránsito y Vialidad podrán solicitar el auxilio de la fuerza pública para el aseguramiento o detención de conductores, pasajeros o terceras personas que interfieran u obstaculicen el cumplimiento de sus funciones, incurran en una agresión contra éstos o que se o que se (sic) ubiquen en supuestos de comisión de delitos.
 
@@ -1871,7 +1911,9 @@ La Dirección General promoverá campañas informativas y de concientización pa
 
 Las infracciones a este reglamento serán sancionadas con:
 
-I. Multa hasta por doscientos cincuenta días de salario mínimo vigente en el Municipio al momento de su infracción y en su caso arresto del conductor o pasajero;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2017)</small>
+
+I. Multa hasta por doscientos cincuenta unidades de medida y actualización vigente en el Municipio al momento de su infracción y en su caso arresto del conductor o pasajero;
 
 II. Solicitud de cancelación o suspensión de permiso o licencia de conducir, a la autoridad responsable de emitir estos documentos, con fundamento a lo previsto en las leyes y reglamentos correspondientes; y
 
@@ -1903,9 +1945,11 @@ Dará motivo a la detención del conductor y sus pasajeros o de terceras persona
 
 En el caso que el conductor tripule un vehículo sin placas y sin tarjeta de circulación, o no porte licencia de conducir, se le asegurará el vehículo, enviandolo al encierro vehicular hasta que regularice su proceso registral de obtención de placas para circulación y en su caso la licencia correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 241.
 
-Serán infracciones en materia de Tránsito y Vialidad, y se sancionarán en unidades de salario mínimo diario, las violaciones a este reglamento, a través de acto administrativo de expedición de Boleta de Infracción, en las cuales se establecerán los códigos que a continuación se enumeran:
+Serán infracciones en materia de Tránsito y Vialidad, y se sancionarán en unidades de medida y actualización (UMA), las violaciones a este reglamento, a través de acto administrativo de expedición de Boleta de Infracción, en las cuales se establecerán los códigos que a continuación se enumeran:
 
 001.- Abandonar, no brindar o solicitar auxilió para personas lesionadas o muertas cuando participe en un Hecho de Tránsito;
 
@@ -2199,13 +2243,21 @@ Serán infracciones en materia de Tránsito y Vialidad, y se sancionarán en uni
 
 141.- Transportar menores de 8 años de edad parados o sentados en el asiento delantero y a menores de 4 años de edad sin silla de seguridad;
 
-142.- No llevar cubiertos los materiales en el área de carga con riesgo de dispersarse sobre la vía pública; y
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2017)</small>
 
-143.- Dejar vehículo descompuesto o detenido en la vía pública sin señalamiento preventivo.
+142.- No llevar cubiertos los materiales en el área de carga con riesgo de dispersarse sobre la vía pública;
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2014)</small>
+> <small>[N. DE E. EL CONTENIDO DEL PRESENTE CÓDIGO ES SIMILAR AL CÓDIGO 144.]</small>
 
-144.- Chocar contra vehículo o algún objeto fijo
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2017)</small>
+
+143.- Circular vehículo que no cuente con la Constancia de Inscripción al Registro Público Vehicular; y
+
+> <small>[N. DE E. EL CONTENIDO DEL PRESENTE CÓDIGO ES SIMILAR AL CÓDIGO 143.]</small>
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE JULIO DE 2017)</small>
+
+144.- Circular vehículo que no cuente con la Constancia de Inscripción al Registro Público Vehicular.
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2014)</small>
 
@@ -2497,6 +2549,8 @@ CUARTO.- A los que infrinjan las normas dispuestas en este reglamento se les apl
 
 > <small>[N. DE E. VÉASE TABULADOR DE SANCIONES EN EL P.O. DE 26 DE ENERO DE 2013, PÁGINAS DE LA 111 A LA 115.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS AL TABULADOR DE SANCIONES, P.O. 29 DE JULIO DE 2017, PÁGINA 1977.]</small>
+
 Dado en el Salón de Cabildo, del Municipio de Comala, Col., a los 15 días del mes de Agosto del año 2012.
 
 Dado en la Presidencia Municipal de Comala, Colima, aprobándose en la Sesión Ordinaria del H. Cabildo Municipal No. 17/2012 con fecha 15 de Agosto del 2012. Rúbrica.- Ing. Sergio Agustín Morales Anguiano, Presidente Municipal. Rúbrica. Ing. Carlos Servando Fuentes Luna. Síndico Municipal. Regidores: Regidora. Rúbrica.- Con. Priv. Silvia Fermín Cárdenas. Rúbrica. Regidor. Rúbrica.- Ing. Melesio Guzmán Santos, Regidor Rúbrica.- Francisco Cruz Calendario, Regidora Rúbrica.- Licda. Judith Carmina García Fuentes, Regidor Rúbrica; Ing. Miguel Martínez Ramírez, Regidor. Rúbrica.- Lic. Rafael Escamilla Jiménez, Regidora. Rúbrica; Licda. Janeth Paz Ponce, Regidor. Rúbrica.- C.P. Miguel López Toscano. Secretaria del H. Ayuntamiento. Rúbrica T.S. Juana Andrés Rivera y sello de la Secretaría.
@@ -2520,3 +2574,21 @@ P.O. 4 DE JUNIO DE 2016.
 ## [N. DE E. TRANSITORIO DE “INICIATIVA DE REFORMA A DIVERSOS ARTÍCULOS DEL REGLAMENTO DE TRÁNSITO Y DE LA SEGURIDAD VIAL DEL MUNICIPIO DE COMALA”.]
 
 PRIMERO.- La presente disposición entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 29 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DICTAMEN DE REFORMA, ADICIÓN Y DEROGACIÓN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE TRÁNSITO Y DE LA SEGURIDAD VIAL DEL MUNICIPIO DE COMALA".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente disposición entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+###### ARTÍCULO SEGUNDO.
+
+La unidad de medida y actualización (UMA), sustituye al salario mínimo como escala para el pago de multas y otras obligaciones a partir del día que entre en vigor la presente disposición.
+
+###### ARTÍCULO TERCERO.
+
+En el caso de los vehículos que no cuenten con chips de inscripción al registro público vehicular en el parabrisas, al entrar en vigor la presente disposición se les hará una boleta preventiva por única ocasión, otorgándoles 5 días hábiles posteriores a la fecha de elaboración de la boleta, para que instalen la constancia antes señalada y de no acatar lo anterior se procederá a imponer la infracción correspondiente.
+
+Para efecto de que proceda la cancelación de la boleta preventiva se deberá presentar el vehículo automotor dentro del término otorgado a la Dirección de Seguridad Pública y Vialidad, para que el Director General de cuenta de la instalación de la constancia respectiva, debiendo comunicar por escrito dicho cumplimiento a la Tesorería Municipal, para efectos de que se deje sin efecto el cobro de la boleta de que se trate.
