@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2017-05-20"
+last_updated: "2017-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "OAX"
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2017.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE JULIO DE 2017.]</small>
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -2279,7 +2281,11 @@ II. En representación del Gobernador del Estado, atender regionalmente las peti
 
 III. Elaborar un diagnóstico de las situaciones prevalecientes en el interior del Estado en el contexto administrativo, económico, político, social y presentar alternativas de solución al Gobernador;
 
-V (SIC). A solicitud de las autoridades Municipales auxiliar en los trámites y gestiones que deban realizar ante las oficinas de las Administraciones Públicas Federal y Estatal;
+> <small>(F. DE E., P.O. 29 DE JULIO DE 2017)</small>
+
+IV. Atender los conflictos que se susciten en las regiones del Estado, determinar las acciones legales y políticas a entablar para el seguimiento y solución de los mismos, en el ejercicio de sus atribuciones;
+
+V. A solicitud de las autoridades Municipales auxiliar en los trámites y gestiones que deban realizar ante las oficinas de las Administraciones Públicas Federal y Estatal;
 
 VI. Coordinar mediante el apoyo de Protección Civil Estatal y Federal las acciones en materia de prevención y atención a desastres naturales;
 
@@ -2639,7 +2645,7 @@ Los módulos de maquinaria que por estructura pertenecen a la Coordinación Gene
 
 La Coordinación General de Comunicación Social del Poder Ejecutivo del Gobierno del Estado, adscrita a la Gubernatura y los recursos materiales, financieros y humanos con que venía operando, se transfieren al área de Comunicación Social de la Jefatura de la Gubernatura, facultándose a las Secretarías de la Contraloría y Transparencia Gubernamental, Administración y Finanzas, para que lleven a cabo los actos necesarios para la extinción y la transferencia, ordenados en este transitorio, de igual manera los actos jurídicos y administrativos realizados por la Coordinación General de Comunicación Social del Poder Ejecutivo del Gobierno del Estado, se entenderán que se refieren a la Jefatura de la Gubernatura.
 
-Los Talleres Gráficos del Gobierno del Estado, el Periódico Oficial del Gobierno del Estado, la Dirección General de Notarías y el Archivo General de Notarías, se transfieren a la Consejería Jurídica del Gobierno del Estado, por esta razón los actos jurídicos y administrativos suscritos por estas unidades administrativas adscritas a la Secretaría General de Gobierno, en lo subsecuente se entenderán que se refieren a los Talleres Gráficos del Gobierno del Estado, el Periódico Oficial del Gobierno del Estado, la Dirección General de Notarías y el Archivo General de Notarías, dentro de la estructura de la Consejería Jurídica del Gobierno del Estado.
+Los Talleres Gráficos del Gobierno del Estado, el Periódico Oficial del Gobierno del Estado, la Direcció General de Notarías y el Archivo General de Notarías, se transfieren a la Consejería Jurídica del Gobierno del Estado, por esta razón los actos jurídicos y administrativos suscritos por estas unidades administrativas adscritas a la Secretaría General de Gobierno, en lo subsecuente se entenderán que se refieren a los Talleres Gráficos del Gobierno del Estado, el Periódico Oficial del Gobierno del Estado, la Dirección General de Notarías y el Archivo General de Notarías, dentro de la estructura de la Consejería Jurídica del Gobierno del Estado.
 
 Por lo que todos los recursos materiales, financieros y humanos con que venían operando dentro de la estructura de la Secretaría General de Gobierno se deberán transferir a la Consejería Jurídica del Gobierno del Estado; por lo que se faculta a las Secretarías de Administración, Finanzas, y de la Contraloría y Transparencia Gubernamental, para que realicen todos los trámites necesarios para cumplir con el presente transitorio.
 
