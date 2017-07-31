@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2017-03-22"
+last_updated: "2017-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE JULIO DE 2017.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -49,13 +49,19 @@ La presente ley tiene por objeto reglamentar la organización y funcionamiento d
 
 El Poder Legislativo se deposita en una asamblea denominada Congreso del Estado que tendrá su residencia oficial en el municipio de Xalapa-Enríquez, Veracruz.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 31 DE JULIO DE 2017)</small>
 
 ###### Artículo 3.
 
-El Congreso se integrará, conforme a las bases que establece la Constitución Local, por cincuenta diputados y se renovará en su totalidad cada tres años.
+El Congreso se integrará, conforme a las bases que establece la Constitución Local, por cincuenta diputados electos en su totalidad cada tres años.
 
-El ejercicio de las funciones de los Diputados durante el período constitucional para el que fueron electos constituye una Legislatura. El Año Legislativo se computará del cinco de noviembre al cuatro de noviembre del año siguiente.
+Los Diputados podrán ser electos de manera consecutiva hasta por cuatro periodos; la postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubiera postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+
+Podrán ser sujetos a elección consecutiva los diputados que hayan ejercido el cargo, independientemente de su carácter de propietario o suplente.
+
+El ejercicio de las funciones de los diputados durante el período para el que fueron electos constituye una Legislatura.
+
+El año legislativo se computará del cinco de noviembre al cuatro de noviembre del año siguiente.
 
 ###### Artículo 4.
 
@@ -239,7 +245,13 @@ XI. Serán sancionados por el Presidente de la Mesa Directiva con el descuento p
 
 XII. Cuando falten a tres sesiones consecutivas, sin causa justificada o permiso del Presidente del Congreso, se entenderá que renuncian a concurrir hasta el período siguiente, llamándose de inmediato a los suplentes;
 
-XIII. No podrán desempeñar ninguna otra comisión o empleo público por el que disfruten retribución económica, sin licencia previa del Congreso o, en su caso, de la Diputación Permanente; pero concedida la licencia, cesarán definitivamente en sus funciones. No estarán comprendidas en esta disposición las actividades docentes o de beneficencia. La infracción de ésta disposición será castigada con la pérdida del cargo de Diputado; y
+> <small>(REFORMADA, G.O. 31 DE JULIO DE 2017)</small>
+
+XIII. No podrán desempeñar ninguna otra comisión o empleo público por el que disfruten retribución económica, sin licencia previa del Congreso o, en su caso, de la Diputación Permanente; pero concedida la licencia, cesarán definitivamente en sus funciones. No estarán comprendidas en esta disposición las actividades docentes o de beneficencia. La infracción de ésta disposición será castigada con la pérdida del cargo de diputado;
+
+> <small>(ADICIONADA, G.O. 31 DE JULIO DE 2017)</small>
+
+XIII Bis. Cuando los diputados pretendan reelegirse, deberán solicitar licencia para separarse del cargo, a más tardar el día anterior al inicio de la campaña respectiva. Una vez concluida la jornada electoral, o en su caso, recibida la constancia de mayoría o asignación, según se trate, podrán reincorporarse al mismo; y
 
 XIV. Las demás que señalen la Constitución Política del Estado, esta ley, la normatividad interior del Congreso y las leyes del Estado.
 
@@ -1623,8 +1635,18 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 G.O. 22 DE MARZO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 255 POR EL QUE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 255 POR EL QUE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 31 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 321 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO NÚMERO 577 ELECTORAL Y DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO, AMBOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. En un plazo no mayor a treinta días, el Organismo Público Local Electoral deberá realizar las modificaciones a la reglamentación respectiva, así como emitir los lineamientos correspondientes para garantizar el cumplimiento de las disposiciones del presente Decreto.
