@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-instituciones-y-procesos-electorales-del-estado-17614
 country: "mx"
 rank: "codigo"
 publication_date: "2000-10-02"
-last_updated: "2016-01-09"
+last_updated: "2017-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO DE INSTITUCIONES Y PROCESOS ELECTORALES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2017.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el lunes 2 de octubre de 2000.
 
@@ -405,17 +405,19 @@ IV.- No pertenecer al personal del Servicio Profesional Electoral Nacional, salv
 
 El Poder Legislativo se deposita en una Asamblea de Diputados que se denomina "Congreso del Estado", el cual se integra con veintiséis Diputados electos según el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales y hasta por quince Diputados que serán electos de acuerdo con el principio de representación proporcional, de los cuales:
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
 
-A. La primera asignación por mayor porcentaje recaerá en la fórmula de candidatos postulados por el principio de Mayoría Relativa que, por sí misma, haya obtenido el mayor porcentaje de votos en la elección de Diputados por el referido principio, siempre que no hubiere alcanzado la constancia respectiva, para estos efectos se deberá considerar a todos los candidatos postulados por los partidos políticos, coaliciones o candidatura común en la elección de que se trate.
+A. La primera asignación que corresponda a cada partido político con derecho a participar en la elección por este principio, recaerá en la fórmula de candidatos del propio partido político que, por sí misma, haya obtenido el mayor porcentaje de votos en la elección de Diputados por el principio de mayoría relativa, siempre que no hubiere alcanzado la constancia respectiva conforme a dicho principio.
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
 B. Los subsecuentes serán asignados conforme al sistema de listas votadas en una circunscripción plurinominal, que corresponderá a la totalidad del territorio del Estado.
 
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2017)</small>
 
-C. En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la Legislatura que exceda en ocho puntos su porcentaje de votación emitida. Esta norma no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la Legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento.
+C. Los diputados podrán ser electos de manera consecutiva, hasta por cuatro periodos. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición, convenios de asociación electoral o candidatura común que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
 Para reconocer y garantizar la representación y pluralidad de las fuerzas políticas la asignación de diputados por el principio de representación proporcional; el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales. En todo caso, la fórmula establecerá las reglas para la deducción del número de diputados de representación proporcional que sean necesarios para asignar diputados a los partidos políticos que se encuentren en ese supuesto, de mayor o menor subrepresentación.
 
@@ -457,9 +459,9 @@ Los Ayuntamientos se renovarán en su totalidad cada tres años.
 
 Los cargos de presidentes municipales, regidores y síndicos, podrán ser elegidos consecutivamente por un periodo adicional.
 
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
 
-Sólo podrán ser postulados por el mismo partido o por cualquiera de los partidos integrantes de la coalición o candidatura común que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+Sólo podrán ser postulados por el mismo partido o por cualquiera de los partidos integrantes de la coalición, convenio de asociación electoral o candidatura común que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
 > <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -563,13 +565,13 @@ Los partidos políticos deberán de constituirse sólo por ciudadanos sin interv
 
 Los partidos políticos promoverán los valores cívicos y la cultura democrática entre niñas, niños y adolescentes, y buscarán la participación efectiva de ambos géneros en la integración de sus órganos, así como en la postulación de candidatos.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
 
-Cada partido político determinará y hará públicos los criterios para garantizar la paridad de género en las candidaturas a diputados por ambos principios. Éstos deberán ser objetivos y asegurar condiciones de igualdad entre géneros.
+Cada partido político determinará y hará públicos los criterios que de manera objetiva garanticen la paridad de género en la postulación de candidatos a diputados por ambos principios y de integrantes de los ayuntamientos de la Entidad.
 
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
 
-En ningún caso se admitirán criterios que tengan como resultado que a alguno de los géneros le sean asignados exclusivamente aquellos distritos en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
+En ningún caso se admitirán criterios que tengan como resultado que a alguno de los géneros le sean asignados exclusivamente aquellos distritos o municipios en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
 
 > <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -829,29 +831,25 @@ El Consejo General mandará publicar en el Periódico Oficial del Estado la reso
 
 En caso de negativa fundamentará las causas que la motivan y lo comunicará a los interesados. El registro de los partidos políticos surtirá efectos constitutivos a partir del primer día del mes de julio del año previo al de la elección.
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 40.
 
-El partido político estatal que no obtenga, cuando menos, el tres por ciento de la votación válida emitida en las elecciones en que participe, en el proceso electoral ordinario correspondiente, perderá su registro y las prerrogativas que le hubieren correspondido, no pudiendo solicitar un nuevo registro hasta pasada la siguiente elección.
+Los partidos políticos estatales, para poder conservar su registro deberán haber obtenido al menos el tres por ciento del total de la votación valida emitida en cualquiera de las elecciones que se celebren para la renovación del Poder Ejecutivo, Legislativo o miembros de Ayuntamientos.
 
-(NOTA: EL 24 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 88/2015 Y SUS ACUMULADAS 93/2015 Y 95/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 41.
 
-Los partidos políticos estatales podrán apoyar candidaturas comunes, COALIGARSE O fusionarse entre sí o con los partidos políticos nacionales.
+Los partidos políticos estatales podrán apoyar candidaturas comunes, celebrar convenios de asociación electoral o fusionarse entre sí o con los partidos políticos nacionales.
 
 > <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
 De igual manera podrán constituir frentes, para alcanzar objetivos políticos y sociales compartidos de índole no electoral, mediante acciones y estrategias específicas y comunes; salvo los casos previstos en este Código.
 
-(NOTA: EL 24 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 88/2015 Y SUS ACUMULADAS 93/2015 Y 95/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
 
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
-
-El partido político nacional o local que participe por primera ocasión en una elección local no podrá formar frentes, COALICIONES O fusiones, ni postular candidaturas en común.
+El partido político nacional o local que participe por primera ocasión en una elección local no podrá formar frentes o fusiones, celebrar convenios de asociación electoral ni postular candidaturas en común.
 
 ## TÍTULO SEGUNDO. DE LOS DERECHOS, PRERROGATIVAS Y OBLIGACIONES DE LOS PARTIDOS POLÍTICOS
 
@@ -877,9 +875,9 @@ IV.- Formar parte de los órganos electorales;
 
 V.- Organizar procesos internos para seleccionar y postular candidatos en las elecciones de Diputados por ambos principios, Gobernador y miembros de los Ayuntamientos, previo cumplimiento de los requisitos establecidos en este Código;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
 
-VI.- Apoyar candidaturas comunes, así como formar coaliciones, frentes y fusiones, las que en todo caso deberán ser aprobadas por el órgano de dirección facultado para ello que establezca el Estatuto de cada uno de los partidos, en los términos de este Código y demás disposiciones aplicables;
+VI.- Apoyar candidaturas comunes, celebrar convenios de asociación electoral, así como formar coaliciones, frentes y fusiones, las que en todo caso deberán ser aprobadas por el órgano de dirección facultado para ello que establezca el Estatuto de cada uno de los partidos, en los términos de este Código y demás disposiciones aplicables;
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -993,15 +991,13 @@ III.- En caso de que en las elecciones un partido político o coalición o candi
 
 IV.- Los partidos políticos estatales que obtengan su registro, para participar en el proceso electoral respectivo, tendrán derecho al financiamiento público correspondiente al dos por ciento del monto total a repartir en el año del proceso electoral. De la misma forma se procederá con los partidos políticos nacionales que por primera vez participen en las elecciones estatales.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 3 DE AGOSTO DE 2009)</small>
-
 > <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2009)</small>
 
 A los partidos políticos estatales que conserven su registro, se les otorgará financiamiento público como si se tratara de un partido político nacional.
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
 
-En caso de que en las elecciones en las que participe un partido político nacional no alcanzara el tres por ciento de la votación total emitida, no disfrutará de las ministraciones posteriores del financiamiento público.
+Para poder disfrutar de financiamiento público, los partidos políticos nacionales deberán haber obtenido al menos el tres por ciento del total de la votación valida emitida en cualquiera de las elecciones que se celebren para la renovación del Poder Ejecutivo, Legislativo o miembros de Ayuntamientos.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2012)</small>
 
@@ -1191,9 +1187,9 @@ XI.- Informar al Consejo General del inicio y término de sus precampañas, de l
 
 XII.- Abstenerse durante los procesos electorales, al igual que sus candidatos, de publicitar obra pública en provecho propio;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
 
-XIII.- Los partidos políticos, precandidatos y simpatizantes están obligados a retirar su propaganda electoral de precampaña para su reciclaje, por lo menos tres días antes al inicio del plazo para el registro de candidatos de la elección de que se trate;
+XIII.- Los partidos políticos, precandidatos y simpatizantes están obligados a retirar su propaganda electoral de precampaña para su reciclaje, dentro de los siete días siguientes a que concluya la precampaña correspondiente;
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -1241,19 +1237,25 @@ V.- Los Agentes del Ministerio Público del fuero común o federal; y
 
 VI.- Los Ministros de culto religioso.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE JULIO DE 2017)</small>
 
-## TÍTULO TERCERO. DE LAS CANDIDATURAS COMUNES, COALICIONES, FUSIONES Y FRENTES
+## TÍTULO TERCERO. DE LAS CANDIDATURAS COMUNES, CONVENIOS DE ASOCIACIÓN ELECTORAL, FUSIONES Y FRENTES
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 58.
 
-Los partidos políticos podrán en cualquier momento realizar acuerdos de intención para gobiernos de coalición, apoyar candidaturas comunes, así como formar coaliciones o fusiones, a fin de lograr objetivos coincidentes, en términos de las disposiciones de este Código, de los convenios que se celebren y demás disposiciones aplicables.
+Los partidos políticos podrán en cualquier momento realizar acuerdos de intención para gobiernos de coalición, apoyar candidaturas comunes, celebrar convenios de asociación electoral, así como formar coaliciones o fusiones, a fin de lograr objetivos coincidentes, en términos de las disposiciones de este Código, de los convenios que se celebren y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
 Los partidos políticos tanto estatales como nacionales, podrán constituir frentes, con efectos exclusivamente en el territorio del estado, para alcanzar objetivos políticos y sociales compartidos de índole no electoral, mediante acciones y estrategias específicas y comunes; de acuerdo a las disposiciones contenidas en este Código.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+
 El partido político nacional o local que participe por primera ocasión en una elección local no podrá formar frentes, coaliciones o fusiones, ni postular candidaturas en común.
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
 Ningún partido político podrá registrar a un candidato de otro partido político. No se aplicará esta prohibición en los casos siguientes:
 
@@ -1285,7 +1287,9 @@ Los partidos que apoyen candidatos comunes conservarán cada uno su monto de fin
 
 En las boletas respectivas, cada partido político conservará el espacio correspondiente a su emblema, con el nombre del candidato común al que se apoye.
 
-En caso de partidos políticos que postulen candidaturas comunes y no alcancen el tres por ciento de la votación, se aplicará lo previsto en el artículo 318 de este Código.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
+
+En caso de partidos políticos que postulen candidaturas comunes y no alcancen el tres por ciento de la votación, en términos del artículo 40, se aplicará lo previsto en el artículo 318 de este Código.
 
 Los partidos políticos que postulen candidatos comunes, no podrán postular en las demarcaciones donde así lo hagan candidatos propios ni de otros partidos políticos para la elección que acordaron la candidatura común.
 
@@ -1295,185 +1299,89 @@ Los votos en los que se hubiesen marcado más de una opción de los partidos que
 
 En todo caso, el escrutinio y cómputo de los votos que le corresponderán a los partidos que postulen candidato en común se llevará a cabo conforme al procedimiento previsto en el artículo 292 Bis de este Código.
 
-(NOTA: EL 24 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y DÉCIMO OCTAVO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 88/2015 Y SUS ACUMULADAS 93/2015 Y 95/2015, DECLARÓ EN VÍA DE CONSECUENCIA LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 25 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+ARTÍCULO 58 TER.- En caso de que dos o más partidos políticos postulen candidato común a Gobernador del Estado, los mismos partidos políticos podrán acordar convenios de asociación electoral, para la elección de Diputados o de miembros de Ayuntamientos.
 
-ARTÍCULO 58 TER.- En caso de que dos o más partidos políticos postulen candidato común a Gobernador del Estado, los mismos partidos políticos podrán convenir coaliciones parciales o flexibles para la elección de Diputados o de miembros de Ayuntamientos.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE FEBRERO DE 2012)</small>
+### CAPÍTULO II. DE LOS CONVENIOS DE ASOCIACIÓN ELECTORAL
 
-### CAPÍTULO II. DE LAS COALICIONES
-
-(NOTA: EL 24 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y DÉCIMO OCTAVO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 88/2015 Y SUS ACUMULADAS 93/2015 Y 95/2015, DECLARÓ EN VÍA DE CONSECUENCIA LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 25 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 59.
 
-Se entiende por coalición, la alianza o unión transitoria, de dos o más partidos políticos, a fin de lograr objetivos coincidentes. Los partidos políticos podrán formar coaliciones con el propósito de postular candidatos en las elecciones de Diputados por el principio de mayoría relativa, Gobernador y miembros de Ayuntamientos.
+Los partidos políticos, tendrán derecho a postular candidatos mediante convenios de asociación electoral para la elección de Gobernador, Diputados de Mayoría y planillas de miembros de ayuntamientos. El convenio de asociación electoral que celebren los partidos políticos para postular candidatos, deberá ir firmado por sus representantes y dirigentes, el cual deberán presentar para su registro ante el Consejo General, hasta cinco días antes del inicio del periodo de registro de candidatos de la elección de que se trate.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 20 DE FEBRERO DE 2012)</small>
+Los partidos políticos que postulen candidato a Gobernador mediante convenio de asociación electoral, podrán postular bajo esta misma figura de manera total o parcial, sin que exista algún mínimo o límite, candidatos a Diputados de Mayoría y/o planillas de miembros de ayuntamientos.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2006)</small>
+Los partidos políticos que postulen candidato a Gobernador del Estado, mediante convenio de asociación electoral, podrán conformar candidaturas comunes, para la elección de Diputados y/o miembros de Ayuntamientos.
 
-Los partidos políticos no podrán postular candidato:
+Cada uno de los partidos que suscriban convenio de asociación electoral, en todo caso, deberán registrar listas propias de candidatos a diputados por el principio de representación proporcional.
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2006)</small>
+El Consejo General podrá emitir los lineamientos y/o manuales que pudieran requerirse, respecto de la solicitud del registro de los convenios de asociación electoral.
 
-I.- Propio, donde hubiere candidatos de la coalición de la que ellos formen parte;
-
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
-
-II.- Propio, a quien haya sido registrado como candidato por alguna coalición; candidatura común o partido político ajena (sic) a la misma; y
-
-III.- (DEROGADA, P.O. 20 DE FEBRERO DE 2012)
-
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
-
-Ninguna coalición podrá postular como candidato a quien haya sido registrado como candidato por algún partido político, candidatura común u otra coalición.
-
-(NOTA: EL 24 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y DÉCIMO OCTAVO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 88/2015 Y SUS ACUMULADAS 93/2015 Y 95/2015, DECLARÓ EN VÍA DE CONSECUENCIA LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 25 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 60.
 
-Los partidos políticos que se coaliguen de manera total para postular candidatos a Diputados de Mayoría Relativa, Gobernador y miembros de los Ayuntamientos, actuarán como un solo partido político; conservarán su identidad para lo siguiente:
+El convenio de asociación electoral deberá contener:
 
-a) Acreditar representantes en los Consejos Electorales del Instituto y ante las mesas directivas de casilla.
+I.- Nombre de los partidos que la conforman, así como el tipo de elección de que se trate;
 
-b) Aparecer con su propio emblema en el espacio que le corresponda en la boleta electoral de la elección de que se trate, independientemente del tipo de coalición o modalidad de postulación de candidatos de que se trate.
+II.- Emblema común de los partidos que lo conforman y el color o colores con que se participa;
 
-c) Respecto del cómputo de votos, estos se sumarán para el candidato de la coalición y contarán para cada uno de los partidos políticos para todos los efectos establecidos en este Código.
+III.- Nombre, apellidos, edad, lugar de nacimiento, domicilio, clave de la credencial dé elector y el consentimiento por escrito del candidato;
 
-Los partidos políticos coaligados seguirán recibiendo en todo caso el financiamiento público que a cada uno de ellos les (sic) corresponde de acuerdo a lo dispuesto por este Código.
+IV.- La autorización del convenio de asociación electoral por parte de los órganos directivos correspondientes de cada uno de los partidos políticos postulantes;
 
-En el convenio que señala el artículo 61 de este Código, se deberá señalar la forma de reportar la administración del financiamiento público de esa coalición, en los informes correspondientes, que se rindan de acuerdo con la legislación aplicable.
+V.- La forma en que se acreditarán los votos a cada uno de los partidos políticos que celebran el convenio de asociación, para efectos de la conservación del registro y para el otorgamiento del financiamiento público;
 
-La coalición total se considerará como un solo Partido Político para efecto de Topes de Gastos de Campaña y de Acceso a los Medios de Comunicación, en términos de este Código.
+VI.- Indicar las aportaciones en porcentajes de cada uno de los partidos para gastos de la campaña, sujetándose a los límites de contratación de los medios de comunicación distintos a radio y televisión y a los topes de gastos de campaña determinados por el Consejo General;
 
-En materia de acceso a radio y televisión, la coalición total se considerará como un solo partido político para efectos del treinta por ciento de distribución igualitaria del tiempo que les corresponda durante campañas. El setenta por ciento restante se distribuirá de acuerdo a los porcentajes de votación de cada partido político integrante de la coalición, conforme a lo establecido por la Ley General de Instituciones y Procedimientos Electorales y el Comité de Radio y Televisión del Instituto Nacional Electoral, a propuesta del Instituto.
+VII.- Para las elecciones de diputados y miembros de los ayuntamientos, la determinación del partido político al que pertenecerán los candidatos en caso de resultar electos, y
 
-(NOTA: EL 24 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y DÉCIMO OCTAVO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 88/2015 Y SUS ACUMULADAS 93/2015 Y 95/2015, DECLARÓ EN VÍA DE CONSECUENCIA LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 25 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+VIII.- El nombre de quien fungirá como su representante legal, para efectos de interposición de los medios de impugnación previstos en la ley de la materia, así como las demás facultades que le sean conferidas mediante el convenio.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 61.
 
-Los partidos políticos que constituyan una coalición deberán celebrar por escrito convenio, en el que se hará constar:
+Al convenio de asociación electoral deberá anexársele los siguientes documentos:
 
-I.- Los partidos políticos que la integran;
+I.- La documentación que acredite que los partidos políticos postulantes del convenio de asociación entregaron en tiempo y forma su plataforma electoral a la autoridad electoral, y
 
-II.- La elección que la motiva;
+II.- Las actas que acrediten que los órganos internos de los partidos autorizaron de conformidad con sus estatutos, la firma del convenio de asociación electoral para la elección que corresponda.
 
-III.- (DEROGADA, P.O. 22 DE AGOSTO DE 2015)
-
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
-
-IV.- La plataforma electoral común que la coalición ofrecerá a los ciudadanos, así como los documentos en que conste la aprobación por los órganos partidistas correspondientes;
-
-V.- Los documentos con los que se acredite que las asambleas competentes, en términos de los estatutos de los partidos políticos que pretendan conformarla, la aprobaron democráticamente;
-
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
-
-VI.- La forma convenida en que se ejercerán en común las prerrogativas dispuestas por este Código, ajustándose a lo señalado en las leyes generales y demás disposiciones aplicables;
-
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
-
-VII.- La manera en que ejercerán, según el tipo de coalición de que se trate, el financiamiento público que le corresponda ajustándose a lo señalado en las leyes generales y demás disposiciones aplicables. También deberá señalarse el monto de las aportaciones de cada partido político coaligado para el desarrollo de las campañas respectivas, así como la forma de reportarlo en los informes correspondientes;
-
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
-
-VIII.- El procedimiento que seguirá cada partido para la selección de los candidatos que serán postulados por la coalición;
-
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
-
-IX.- El señalamiento, de ser el caso, del partido político al que pertenece originalmente cada uno de los candidatos registrados por la coalición y el señalamiento del grupo legislativo o partido político en el que quedarían comprendidos en el caso de resultar electos;
-
-> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2015)</small>
-
-X.- Designar quien ostentaría la representación de la coalición, para el caso de la interposición de los medios de impugnación previstos tanto en este Código y en la Ley de la materia; y
-
-> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2015)</small>
-
-XI.- De igual forma, los partidos políticos que pretendan coaligarse deberán comprobar que los órganos partidistas respectivos de cada uno de los partidos políticos coaligados aprobaron, en su caso, la postulación y el registro de determinado candidato para la elección de Gobernador del Estado, Diputados por el principio de Mayoría relativa y Ayuntamientos según corresponda.
-
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
-
-Los partidos políticos no podrán distribuir o transferirse votos mediante convenio de coalición.
-
-(NOTA: EL 24 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 88/2015 Y SUS ACUMULADAS 93/2015 Y 95/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 25 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 62.
 
-El convenio mediante el cual se constituya una coalición podrá presentarse hasta la fecha que inicie el periodo de precampaña de la elección de que se trate ante el Consejero Presidente del Consejo General para su registro, en el caso, de ausencias de éste último se podrá presentar ante el Secretario Ejecutivo del Instituto. El Consejo General dentro de los diez días siguientes a su presentación resolverá lo conducente, debiendo ordenar la publicación de la resolución en el Periódico Oficial del Estado.
+El Consejo General dentro de los cinco días siguientes a la presentación de la solicitud de registro del convenio de asociación electoral, deberá resolver lo conducente sobre la procedencia del mismo, mandando publicar su resolución en el Periódico Oficial del Estado.
 
-(NOTA: EL 24 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y DÉCIMO OCTAVO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 88/2015 Y SUS ACUMULADAS 93/2015 Y 95/2015, DECLARÓ EN VÍA DE CONSECUENCIA LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 25 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-En todo caso, el Consejero Presidente del Consejo General del Instituto, integrará el expediente respectivo e informará lo conducente al Consejo General.
-
-(NOTA: EL 24 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y DÉCIMO OCTAVO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 88/2015 Y SUS ACUMULADAS 93/2015 Y 95/2015, DECLARÓ EN VÍA DE CONSECUENCIA LA INVALIDEZ DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 25 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-Cuando se trate de elecciones extraordinarias las coaliciones se sujetarán a lo establecido en la convocatoria relativa.
-
-(NOTA: EL 24 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y DÉCIMO OCTAVO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 88/2015 Y SUS ACUMULADAS 93/2015 Y 95/2015, DECLARÓ EN VÍA DE CONSECUENCIA LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 25 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 63.
 
-En todo caso, cada uno de los partidos coaligados deberá registrar lista propia de candidatos a diputados por el principio de representación proporcional.
+Los partidos políticos que postulen candidatos mediante convenio de asociación electoral no podrán postular candidatos propios ni de otros partidos políticos para la elección en que convinieron asociarse. Asimismo, ningún partido político podrá registrar como candidato propio a quien ya haya sido registrado como candidato mediante convenio de asociación electoral.
 
-(NOTA: EL 24 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y DÉCIMO OCTAVO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 88/2015 Y SUS ACUMULADAS 93/2015 Y 95/2015, DECLARÓ EN VÍA DE CONSECUENCIA LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 25 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 64.
 
-Se entiende como coalición total, aquélla en la que los partidos políticos coaligados postulan en un mismo proceso, a la totalidad de sus candidatos a puestos de elección popular bajo una misma plataforma electoral.
+Para los efectos de la integración de los organismos electorales, del financiamiento y de la responsabilidad en materia electoral, civil y penal, los partidos políticos que postulen candidatos mediante convenios de asociación electoral mantendrán su autonomía y serán responsables de sus actos.
 
-(NOTA: EL 24 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y DÉCIMO OCTAVO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 88/2015 Y SUS ACUMULADAS 93/2015 Y 95/2015, DECLARÓ EN VÍA DE CONSECUENCIA LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 25 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+Los partidos que suscriban convenios de asociación electoral conservarán cada uno su monto de financiamiento público, su tiempo que corresponda de acceso a radio y televisión, así como su representación en los órganos del Instituto y en las mesas directivas de casilla.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 65.
 
-Una vez que el Consejo General resuelva sobre los registros de candidatos y la coalición no cuente con ninguno, la coalición quedará desde luego sin efecto, lo que se hará del conocimiento público por los medios pertinentes.
+Los votos se computarán a favor del candidato registrado mediante convenio de asociación electoral y la distribución del porcentaje de votación será conforme al registrado ante el Consejo General, en el mismo convenio.
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
 
-Las coaliciones deberán ser uniformes. Ningún partido político podrá participar en más de una coalición y éstas no podrán ser diferentes, en lo que hace a los partidos que las integran, por tipo de elección.
-
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
-
-Los votos en los que se hubiesen marcado más de una opción de los partidos coaligados, serán considerados válidos para el candidato postulado, contarán como un solo voto. En todo caso, el escrutinio y cómputo de los votos que le corresponderán a los partidos coaligados se llevará a cabo conforme al procedimiento previsto en el artículo 292 Bis de este Código.
-
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
-
-Concluida la etapa de resultados y de declaración de validez de la elección, dejará de tener vigencia el convenio que dio origen a la coalición; en cuyo caso los candidatos a diputados de la coalición que resultaren electos quedarán comprendidos en el partido político o grupo legislativo que se haya señalado en el convenio de coalición.
-
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
-
-Los partidos políticos no podrán celebrar más de una coalición en un mismo proceso electoral local.
-
-(NOTA: EL 24 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y DÉCIMO OCTAVO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 88/2015 Y SUS ACUMULADAS 93/2015 Y 95/2015, DECLARÓ EN VÍA DE CONSECUENCIA LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 25 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
-
-ARTÍCULO 65 BIS.- Serán coaliciones parciales las constituidas para postular al menos al cincuenta por ciento de sus candidatos a puestos de elección popular bajo una misma plataforma electoral.
-
-Serán coaliciones flexibles, aquélla (sic) en la que los partidos políticos coaligados postulan al menos a un veinticinco por ciento de candidatos a puestos de elección popular bajo una misma plataforma electoral.
-
-El registro de las coaliciones parciales y flexibles será en el mismo plazo que el registro de las coaliciones totales. Los partidos políticos coaligantes tendrán la obligación de entregar, al momento de presentar la solicitud de registro de la coalición el convenio aprobado por los partidos políticos; así como la plataforma electoral común para los distritos electorales y Ayuntamientos de que se trate. Cada partido político conservará su propia identidad y su votación correspondiente, así como el acceso a los tiempos de radio y televisión como partidos políticos por separado. El mismo criterio será aplicable para su representación en los órganos del Instituto y en las mesas directivas de casilla.
-
-El escrutinio y cómputo de los votos que le (sic) corresponderán a los partidos coaligados se llevará a cabo conforme al procedimiento previsto en los artículos 65 y 292 Bis de este Código.
-
-En materia de topes de gastos de campaña, se aplicarán y contabilizarán en los términos de la legislación aplicable.
-
-La coalición que postule en forma total candidatos a Diputados por el Principio de Mayoría Relativa, deberá coaligarse para la elección de Gobernador del Estado.
-
-Podrán ser parciales o flexibles las coaliciones que postulen candidatos a diputados de mayoría relativa y/o a miembros de ayuntamientos de acuerdo con los porcentajes previstos por este Código.
-
-Concluido el proceso electoral dejará de tener vigencia el convenio que dio origen a la coalición parcial y flexible.
+ARTÍCULO 65 BIS.- En la boleta electoral deberá aparecer en un mismo espacio el emblema conjunto de los partidos que hayan celebrado el convenio de asociación electoral respectivo; dicho emblema será ubicado en el lugar de la boleta que corresponda al partido con mayor antigüedad de registro que forme parte del mismo.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE FEBRERO DE 2012)</small>
 
@@ -1535,9 +1443,9 @@ Los partidos políticos que integren un frente, conservarán su personalidad jur
 
 Serán causales para la pérdida de registro de los partidos políticos estatales:
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
 
-I.- No haber obtenido el Porcentaje Mínimo en alguna de las elecciones en que participe, ya sea coaligado o no;
+I.- No haber obtenido el Porcentaje Mínimo en alguna de las elecciones en que participe, bajo cualquier modalidad, en términos de lo establecido en el artículo 40 de éste Código.
 
 > <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
@@ -1667,7 +1575,9 @@ II.- La Junta Ejecutiva.
 
 El Consejo General será el órgano superior de dirección del Instituto y el responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de vigilar que los principios rectores de legalidad, imparcialidad, objetividad, certeza, independencia y máxima publicidad guíen todas las actividades del Instituto.
 
-El Consejo General se reunirá en la cuarta semana de noviembre del año previo al de la jornada electoral para declarar el inicio del proceso electoral.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
+
+El Consejo General se reunirá entre los días tres y cinco del mes de noviembre del año previo al de la jornada electoral para declarar el inicio del proceso electoral.
 
 ###### ARTÍCULO 80.
 
@@ -1809,9 +1719,9 @@ XVI.- Expedir las constancias de registro de los partidos políticos estatales q
 
 XVII.- Registrar la plataforma electoral de los partidos políticos de conformidad con lo prescrito por el presente Código;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
 
-XVIII.- Resolver sobre la solicitud de registro de candidaturas comunes, así como de los convenios de coalición, frentes y de fusión que presenten los partidos políticos;
+XVIII.- Resolver sobre la solicitud de registro de candidaturas comunes, así como de los convenios de coalición, convenios de asociación electoral, frentes y de fusión que presenten los partidos políticos;
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -2481,13 +2391,13 @@ La Dirección de Prerrogativas y Partidos Políticos tendrá las atribuciones si
 
 I.- Apoyar al Secretario Ejecutivo en la recepción e integración de los expedientes de las organizaciones de ciudadanos que pretendan constituirse como partidos políticos estatales y remitirlos a la Comisión correspondiente;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
 
-II.- Apoyar en el análisis de los convenios de coalición, fusión y frentes, así como solicitudes de candidaturas comunes que se presenten ante el Instituto;
+II.- Apoyar en el análisis de los convenios de coalición, de los convenios de asociación electoral, fusión y frentes, así como solicitudes de candidaturas comunes que se presenten ante el Instituto;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
 
-III.- Inscribir en el libro respectivo el registro de partidos políticos, así como los convenios de coaliciones, fusiones y frentes;
+III.- Inscribir en el libro respectivo el registro de partidos políticos, así como los convenios de coaliciones, convenios de asociación electoral, fusiones y frentes;
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -2521,9 +2431,9 @@ XI.- Proponer al Consejo General los lineamientos para el monitoreo en los medio
 
 XII.- Apoyar en la verificación de la cantidad de manifestaciones de apoyo válidas obtenidas por cada uno de los aspirantes a ser registrados como candidatos independientes a los distintos cargos de elección popular;
 
-> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
 
-XIII.- Cerciorarse, previo a la sesión correspondiente del Consejo General, que las solicitudes de sustitución de candidatos presentadas por los partidos o coaliciones, cumplan con los requisitos previstos en el Código; y
+XIII.- Cerciorarse, previo a la sesión correspondiente del Consejo General, que las solicitudes de sustitución de candidatos presentadas por los partidos, coaliciones o convenios de asociación electoral, cumplan con los requisitos previstos en el Código, y
 
 > <small>(REFORMADA, P.O. 28 DE JUNIO DE 2012)</small>
 
@@ -3967,11 +3877,11 @@ Los conflictos de carácter laboral entre el Instituto y su personal, serán res
 
 El proceso electoral deberá entenderse como el conjunto de actos ordenados por la Constitución Federal, la Constitución Local, este Código y las leyes vigentes en materia electoral, realizados por las autoridades electorales, los ciudadanos y los partidos políticos de manera corresponsable, que tiene por objeto la renovación periódica y pacífica de los integrantes del Poder Legislativo, Ejecutivo y miembros de los Ayuntamientos, de la Entidad Federativa.
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 186.
 
-El proceso electoral ordinario iniciará con la primera sesión del Consejo General, que (sic) debe celebrar en la cuarta semana de noviembre del año previo a la elección y concluye con los cómputos y declaraciones de validez que realicen los Consejos del Instituto o bien con las resoluciones que, en su caso, pronuncie en última instancia el Tribunal competente.
+El proceso electoral ordinario iniciará con la primera sesión del Consejo General, que debe celebrar entre los días tres y cinco del mes de noviembre del año previo a la elección y concluye con los cómputos y declaraciones de validez que realicen los Consejos del Instituto o bien con las resoluciones que, en su caso, pronuncie en última instancia el Tribunal competente.
 
 ###### ARTÍCULO 187.
 
@@ -3989,11 +3899,11 @@ III.- Resultados y declaraciones de validez de las elecciones.
 
 La etapa de preparación de las elecciones comprenderá todos los actos desarrollados por el Consejo General y los Consejos Distritales y Municipales, en ejercicio de las atribuciones que este Código les confiere, encaminados a la celebración de la jornada electoral.
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 189.
 
-La etapa de preparación de las elecciones iniciará con la primera sesión que el Consejo General celebre durante la cuarta semana de noviembre del año previo al de la elección ordinaria y concluye al inicio de la jornada electoral.
+La etapa de preparación de las elecciones iniciará con la primera sesión que el Consejo General celebre entre los días tres y cinco del mes de noviembre del año previo al de la elección ordinaria y concluye al inicio de la jornada electoral.
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -4161,9 +4071,9 @@ IV.- Precandidato. Es el ciudadano que decide contender al interior de un determ
 
 B.- Del inicio y término de las precampañas:
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
 
-I.- Los procesos internos de los partidos políticos o coaliciones, orientados a seleccionar a sus candidatos que habrán de contender en las elecciones a que se refiere este Código, comprenden la convocatoria, las precampañas y la postulación; aquellos sólo podrán realizarse a partir del inicio del proceso electoral y deberán concluir necesariamente a más tardar en la misma fecha que las precampañas;
+I.- Los procesos internos de los partidos políticos, coaliciones, orientados a seleccionar a sus candidatos que habrán de contender en las elecciones a que se refiere este Código, comprenden la convocatoria, las precampañas y la postulación; aquellos sólo podrán realizarse a partir del inicio del proceso electoral y deberán concluir necesariamente a más tardar antes del inicio del periodo para el registro de candidatos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2016)</small>
 
@@ -4203,15 +4113,13 @@ IV.- Los partidos políticos dispondrán lo necesario a fin de que los precandid
 
 V.- La propaganda de las precampañas se sujetará a las disposiciones contenidas en el presente Código relativas a la propaganda electoral así como a las demás disposiciones aplicables;
 
-(NOTA: EL 24 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 88/2015 Y SUS ACUMULADAS 93/2015 Y 95/2015, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VI DEL APARTADO B DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2015)</small>
+VI.- Los partidos políticos, precandidatos y simpatizantes están obligados a retirar su propaganda electoral de precampaña para su reciclaje, dentro de los siete días siguientes a la conclusión de la precampaña.
 
-VI.- LOS PARTIDOS POLÍTICOS, PRECANDIDATOS Y SIMPATIZANTES ESTÁN OBLIGADOS A RETIRAR SU PROPAGANDA ELECTORAL DE PRECAMPAÑA PARA SU RECICLAJE, POR LO MENOS TRES DÍAS ANTES AL INICIO DEL PLAZO PARA EL REGISTRO DE CANDIDATOS DE LA ELECCIÓN DE QUE SE TRATE.
+En caso de no hacerlo, se pedirá a las autoridades municipales procedan a realizar el retiro, aplicando el costo de dichos trabajos con cargo a las prerrogativas del partido político infractor.
 
-EN CASO DE NO HACERLO, SE PEDIRÁ A LAS AUTORIDADES MUNICIPALES PROCEDAN A REALIZAR EL RETIRO, APLICANDO EL COSTO DE DICHOS TRABAJOS CON CARGO A LAS PRERROGATIVAS DEL PARTIDO POLÍTICO INFRACTOR.
-
-LOS PARTIDOS POLÍTICOS TOMARÁN LAS MEDIDAS NECESARIAS PARA QUE SUS PRECANDIDATOS CUMPLAN CON ESTA DISPOSICIÓN.
+Los partidos políticos tomarán las medidas necesarias para que sus precandidatos cumplan con esta disposición.
 
 C.- Del tope de gastos de precampaña:
 
@@ -4267,11 +4175,11 @@ IX.- Utilizar en su propaganda símbolos, distintivos, emblemas o figuras con mo
 
 X.- Utilizar expresiones verbales o escrito contrarios a la moral, que injurien a las autoridades, a los demás partidos políticos o precandidatos, o que tiendan a incitar a la violencia y al desorden.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 201.
 
-Corresponde a los partidos políticos y a las coaliciones, en su caso, el derecho de solicitar el registro de candidatos a cargos de elección popular.
+Corresponde a los partidos políticos, a los convenios de asociación electoral, y a las coaliciones, en su caso, el derecho de solicitar el registro de candidatos a cargos de elección popular
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -4293,7 +4201,11 @@ La lista de representación proporcional se integrará por fórmulas de candidat
 
 Respecto de los Ayuntamientos, los partidos políticos registrarán a sus candidatos por planilla, integrada por propietarios y suplentes invariablemente del mismo género, debiéndose conformar de manera paritaria entre los dos géneros.
 
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADA], P.O. 31 DE JULIO DE 12017)</small>
+
+Para garantizar la paridad de género, en caso de existir número impar en el registro de candidatos a Diputados por cualquier vía, así como de los Ayuntamientos en forma horizontal o vertical, los partidos políticos podrán optar por situar en el primer lugar de dichos registros, a una fórmula de género femenino.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 31 DE JULIO DE 12017)</small>
 
 El Instituto podrá rechazar el registro del número de candidaturas de un género que exceda la paridad, fijando al partido un plazo improrrogable para la sustitución de las mismas. En caso de que no sean sustituidas no se aceptarán dichos registros.
 
@@ -4323,7 +4235,9 @@ No podrán ser candidatos independientes las personas que:
 
 I.- Sean o hayan sido, presidente del comité ejecutivo nacional, estatal, municipal, dirigente, militante, afiliado o su equivalente, de un partido político, en los doce meses anteriores al día de la elección del proceso electivo en el que pretendan postularse;
 
-II.- Hayan participado como candidatos a cualquier cargo de elección popular postulados por partido político, en candidatura común o coalición en el proceso electoral federal o local inmediato anterior;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
+
+II.- Hayan participado como candidatos a cualquier cargo de elección popular postulados por partido político, en candidatura común, convenio de asociación electoral o coalición en el proceso electoral federal o local inmediato anterior;
 
 III.- Hayan participado en un proceso de selección interna de candidatos de algún partido político o coalición en el mismo proceso electoral; y
 
@@ -4381,7 +4295,9 @@ I.- Durante la etapa establecida para tal efecto en la convocatoria, los aspiran
 
 II.- Los ciudadanos que decidan manifestar su respaldo a un determinado aspirante a candidato independiente lo harán mediante el llenado del formato que al efecto apruebe el Consejo General, mismo que deberá contener la firma o huella digital del ciudadano y copia de su credencial para votar vigente, éste deberá ser presentado ante los funcionarios electorales que se designen y los representantes que, en su caso, acrediten los aspirantes a candidato independiente, en los inmuebles destinados para ello.
 
-Los partidos políticos o coaliciones podrán acreditar representantes a fin de presenciar la recepción de los respaldos ciudadanos.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
+
+Los partidos políticos, los convenios de asociación electoral y las coaliciones podrán acreditar representantes a fin de presenciar la recepción de los respaldos ciudadanos.
 
 Los inmuebles que se destinarán para la recepción de la manifestación del respaldo ciudadano serán:
 
@@ -4457,11 +4373,9 @@ I.- Una relación que contenga el nombre, domicilio, clave de elector y firma au
 
 a) Para Gobernador del Estado, dicha relación deberá contener cuando menos la firma de una cantidad de ciudadanos equivalente al 3% del listado nominal correspondiente a todo el Estado, y estar integrada por electores de por lo menos las dos terceras partes de los municipios que componen la entidad. En ningún caso la relación de los ciudadanos por municipio podrá ser menor al dos por ciento del listado que le corresponda. La fecha de corte del listado nominal será al quince de diciembre del año anterior a la elección.
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
 
-b) Para la fórmula de Diputados de Mayoría relativa, dicha relación deberá contener cuando menos la firma de una cantidad de ciudadanos equivalente al 3% del listado nominal correspondiente al distrito de que se trate, y estar integrada por electores de por lo menos las dos terceras partes de los municipios que componen el distrito. En ningún caso la relación de los ciudadanos por municipio podrá ser menor al dos por ciento del listado que le corresponde. La fecha de corte del padrón electoral será al quince de diciembre del año anterior a la elección.
-
-Para el caso de los distritos cuya cabecera es el municipio de Puebla, dicha relación deberá contener cuando menos la firma de una cantidad de ciudadanos equivalente al 3% del listado nominal correspondiente al distrito de que se trate, la cual se integrará por electores de por lo menos las dos terceras partes de las secciones electorales que componen el distrito. En ningún caso la relación de los ciudadanos por sección electoral podrá ser menor al 2% del listado que le corresponde. La fecha de corte del listado nominal será al quince de diciembre del año anterior a la elección.
+b) Para la fórmula de Diputados de Mayoría relativa, dicha relación deberá contener cuando menos la firma de una cantidad de ciudadanos equivalente al 3% del listado nominal correspondiente al distrito de que se trate, y estar integrada por electores de por lo menos las dos terceras partes de los municipios que componen el distrito. En ningún caso la relación de los ciudadanos por municipio podrá ser menor al dos por ciento del listado que le corresponde. La fecha de corte del listado nominal será al quince de diciembre del año anterior a la elección.
 
 > <small>(REFORMADO, P.O. 9 DE ENERO DE 2016)</small>
 
@@ -4603,9 +4517,11 @@ Los candidatos independientes que no utilicen la totalidad del financiamiento p�
 
 Los candidatos independientes no podrán solicitar créditos provenientes de la banca de desarrollo para el financiamiento de sus actividades. Tampoco podrán recibir aportaciones de personas no identificadas.
 
-F. Los candidatos independientes figurarán en la misma boleta que se apruebe para los candidatos de los partidos políticos, candidaturas comunes o coaliciones, según la elección en la que participen, de conformidad con este Código.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
 
-Se utilizará un recuadro para cada candidato independiente, fórmula o planilla de candidatos independientes, con el mismo tamaño y en un espacio de las mismas dimensiones que aquéllos que se destinen en la boleta a los partidos, candidatos comunes o coaliciones que participan. Estos recuadros serán colocados después de los destinados a los partidos políticos.
+F. Los candidatos independientes figurarán en la misma boleta que se apruebe para los candidatos de los partidos políticos, candidaturas comunes, coaliciones o convenios de asociación electoral, según la elección en la que participen, de conformidad con este Código.
+
+Se utilizará un recuadro para cada candidato independiente, fórmula o planilla de candidatos independientes, con el mismo tamaño y en un espacio de las mismas dimensiones que aquéllos que se destinen en la boleta a los partidos, candidatos comunes, coaliciones o convenios de asociación electoral que participan. Estos recuadros serán colocados después de los destinados a los partidos políticos.
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -4617,11 +4533,15 @@ Para el caso de los diputados que busquen la reelección solo podrán ser postul
 
 Los Diputados electos por el Principio de Representación Proporcional, que pretendan la reelección podrán ser postulados tanto por el Principio de Mayoría Relativa como por el de Representación Proporcional, del partido político que los postuló inicialmente de acuerdo con las reglas establecidas en el artículo 16 apartado C de este Código.
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 203.
 
-Para los Ayuntamientos, los candidatos se registrarán por planillas integradas por propietarios y suplentes; debiendo conformarse por un Presidente Municipal y el número de integrantes que determine la Constitución del (sic) Local, así como la Ley Orgánica Municipal, garantizando la paridad de género en los términos de este código.
+Para los Ayuntamientos, los candidatos se registrarán por planillas integradas por propietarios y suplentes; debiendo conformarse por un Presidente Municipal y el número de integrantes que determine la Constitución Local, así como la Ley Orgánica Municipal, garantizando la paridad de género en los términos siguientes:
+
+I.- De manera vertical, integrando las planillas de candidatos alternando fórmulas de regidores propietarios y suplentes del mismo género, garantizando la inclusión paritaria de mujeres y hombres.
+
+II.- De manera horizontal, debiendo garantizar que del total de candidatos a presidentes municipales propietarios y suplentes que se postulen, por lo menos el cincuenta por ciento correspondan a un mismo género.
 
 ###### ARTÍCULO 204.
 
@@ -4635,11 +4555,11 @@ Para el registro de candidatos a cargos de elección popular, el partido políti
 
 El partido político deberá presentar y obtener el registro de la plataforma electoral ante el Consejo General, dentro del mes de febrero del año de la elección. Del registro se expedirá constancia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 206.
 
-El registro de candidatos a Gobernador, se realizará durante la segunda semana de marzo del año de la elección, para el caso de Diputados por ambos principios y miembros de ayuntamientos el plazo para solicitar el registro será durante la segunda semana del mes de abril del año de la elección, ante los órganos competentes siguientes:
+Independientemente del tipo de elección de que se trate, el registro de candidatos a cargos de elección popular en la Entidad se llevará a cabo en la cuarta semana previa al inicio de las campañas electorales, ante los órganos competentes siguientes:
 
 > <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
 
@@ -4711,6 +4631,12 @@ e) Declaración, bajo protesta de decir verdad, de que cumple con los requisitos
 
 f) Tratándose de candidatos a diputados, Presidentes Municipales, Regidores y Síndicos que busquen reelegirse en sus cargos, además deberán acompañar una carta que especifique los periodos por los que han sido electos en ese cargo y la manifestación de estar cumpliendo los límites establecidos por la Constitución, en materia de reelección.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE JULIO DE 2017)</small>
+
+Para poder ser registrado como candidato a Gobernador, el Instituto deberá verificar que el candidato postulado cumpla con los requisitos, que para dicho cargo establece el artículo 74 de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 31 DE JULIO DE 2017)</small>
+
 El partido político postulante deberá manifestar por escrito que los candidatos cuyo registro solicitan, fueron seleccionados de conformidad con los estatutos del propio partido político.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2012)</small>
@@ -4719,11 +4645,11 @@ El partido político postulante deberá manifestar por escrito que los candidato
 
 En caso de que para un mismo cargo de elección popular sea solicitado el registro de diferentes candidatos por un mismo partido político, el Secretario Ejecutivo del Instituto requerirá al partido político a efecto de que informe al Consejo General, en un término de cuarenta y ocho horas, cuáles candidatos o fórmula prevalece. En caso de no hacerlo se tendrá por presentada únicamente la última solicitud.
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 210.
 
-Los partidos políticos podrán registrar candidatos a Diputados por el principio de representación proporcional, sólo si hubieren registrado candidatos a Diputados por el principio de mayoría relativa, en por lo menos las dos terceras partes de los distritos electorales uninominales, lo que se podrá acreditar tanto con las fórmulas registradas por el propio partidos (sic), como con las que correspondan a candidaturas comunes, coalición total, parcial o flexible, a la que en su caso pertenezcan.
+Los partidos políticos podrán registrar candidatos a Diputados por el principio de representación proporcional, sólo si hubieren registrado candidatos a Diputados por el principio de mayoría relativa, en por lo menos las dos terceras partes de los distritos electorales uninominales, lo que se podrá acreditar tanto con las fórmulas registradas por los propios partidos, como con las que correspondan a candidaturas comunes, convenios de asociación electoral, coalición total, parcial o flexible, a la que en su caso pertenezcan.
 
 ###### ARTÍCULO 211.
 
@@ -4733,11 +4659,11 @@ Si algún partido político no presenta completa la lista estatal de candidatos 
 
 Los Consejos Distritales y Municipales comunicarán al Consejo General las solicitudes de registro de candidatos recibidas, dentro de las veinticuatro horas siguientes a la fecha de su recepción.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 213.
 
-Recibida la solicitud de registro de candidatos por el Consejero Presidente del órgano que corresponda, dentro de los siete días siguientes de su recepción, verificará que se haya cumplido con todos los requisitos señalados en este Capítulo, conforme a las reglas siguientes:
+Recibida la solicitud de registro de candidatos por el Consejero Presidente del órgano que corresponda, dentro de los diez días siguientes al vencimiento de los plazos previstos en el artículo 206 de este Código, verificará que se haya cumplido con todos los requisitos señalados en este Capítulo, conforme a las reglas siguientes:
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -4745,11 +4671,15 @@ I.- Vencido el plazo anterior, si se advierte que hubo omisión de uno o varios 
 
 II.- Cualquier solicitud o documentación presentada fuera de dichos plazos será desechada de plano;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
 
-III.- Al cuarto día siguiente al vencimiento del plazo referido en el primer párrafo de este artículo los Consejos General, Distritales y Municipales celebrarán sesión cuyo único objeto será registrar las candidaturas que procedan y que no presentaron algún tipo de observación por la autoridad electoral. En el caso de que la solicitud o documentación fue objeto de algún requerimiento, los Consejos competentes sesionarán para otorgar los registros respectivos al cuarto día, contados a partir del día siguiente de la conclusión de la presentación de solventaciones.
+III.- Los Consejos General, Distritales y Municipales un día antes del inicio del periodo de campañas celebrarán sesión cuyo único objeto será registrar las candidaturas que procedan y que no presentaron algún tipo de observación por la autoridad electoral. Si celebrada la sesión señalada en el párrafo anterior quedara alguna solicitud de registro pendiente por resolver, el análisis se realizará en los plazos siguientes:
 
-El registro de candidatos independientes se dará en los mismos términos establecidos en el párrafo anterior;
+a) Los Consejos General, Distritales y Municipales contarán con un plazo de cuatro días para verificar el cumplimiento de los requisitos;
+
+b) Si del análisis realizado se desprenden errores u omisiones a la documentación presentada, se prevendrá a los partidos políticos o coaliciones para que lo subsanen en el término de tres días, y
+
+c) Al cuarto día vencido el plazo señalado en el inciso anterior, los Consejos Electorales correspondientes celebrarán sesión con el objeto de realizar el pronunciamiento conducente.
 
 IV.- Los Consejos Distritales y Municipales comunicarán de inmediato al Consejo General, el acuerdo relativo al registro de candidatos, fórmulas o planillas que hayan realizado durante la sesión a que se refiere el párrafo anterior; y
 
@@ -4761,11 +4691,11 @@ V.- Al concluir dicha sesión los Consejeros Presidentes de los Consejos respect
 
 El Consejero Presidente del Consejo General enviará para su publicación oportuna, por sólo una vez, en el Periódico Oficial del Estado y en los periódicos de mayor circulación, la relación completa de candidatos registrados, el cargo y el partido político o coalición que los postulan, así como de los candidatos independientes. De igual manera se publicarán las cancelaciones de registro o sustituciones de candidatos que procedan.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 215.
 
-Los partidos políticos o coaliciones solicitarán por escrito al Consejo General, en su caso, la sustitución de sus candidatos, observando las disposiciones siguientes:
+Los partidos políticos, los convenios de asociación electoral o las coaliciones solicitarán por escrito al Consejo General, en su caso, la sustitución de sus candidatos, observando las disposiciones siguientes:
 
 I.- Dentro de los plazos establecidos en el artículo 206 de este Código, procede la sustitución en cualquier momento;
 
@@ -4779,13 +4709,15 @@ III.- Cuando por renuncia expresa del candidato o la negativa a aceptar la candi
 
 ### CAPÍTULO III. DE LAS CAMPAÑAS ELECTORALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2017)</small>
+
 ### CAPÍTULO IV. DE LA PROPAGANDA ELECTORAL
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 216.
 
-La campaña electoral es el conjunto de actividades realizadas por los partidos políticos, las coaliciones, en su caso, y los candidatos registrados para la obtención del voto.
+La campaña electoral es el conjunto de actividades realizadas por los partidos políticos, los convenios de asociación electoral, las coaliciones, en su caso, y los candidatos registrados para la obtención del voto.
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -4803,11 +4735,15 @@ El día de la jornada electoral y durante los tres días anteriores, no se permi
 
 Las campañas para elegir Gobernador tendrán una duración de sesenta días.
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
 
-Las correspondientes para elegir a Diputados y miembros de Ayuntamientos serán de treinta días.
+Cuando corresponda la renovación de Diputados y miembros de Ayuntamientos de manera coincidente con la elección de Gobernador, las campañas tendrán una duración de sesenta días.
 
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE JULIO DE 2017)</small>
+
+Cuando corresponda exclusivamente la renovación de Diputados por ambos principios y/o miembros de Ayuntamientos, las campañas tendrán una duración de treinta días.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 31 DE JULIO DE 2017)</small>
 
 Para garantizar la equidad en las campañas electorales durante el tiempo que comprendan las mismas y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de los poderes públicos, los órganos autónomos, los municipios, las dependencias y entidades de la Administración Pública Estatal y Municipales o cualquier otro ente público, salvo las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para los programas de protección civil en casos de emergencia, así como los que acuerde el Consejo General del Instituto Nacional Electoral. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
 
@@ -4873,9 +4809,11 @@ b) Participen por lo menos dos candidatos de la misma elección.
 
 c) Se establezcan condiciones de equidad en el formato.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 225.
 
-Los partidos políticos, las coaliciones, en su caso, los candidatos y el Consejo General, podrán ejercer el derecho de aclaración y rectificación, respecto de la información que presenten los medios de comunicación, cuando consideren que la misma no es veraz o ha deformado hechos o situaciones referentes a sus actividades, funciones o atributos personales.
+Los partidos políticos, los convenios de asociación electoral, las coaliciones, en su caso, los candidatos y el Consejo General, podrán ejercer el derecho de aclaración y rectificación, respecto de la información que presenten los medios de comunicación, cuando consideren que la misma no es veraz o ha deformado hechos o situaciones referentes a sus actividades, funciones o atributos personales.
 
 El derecho de aclaración y rectificación se ejercitará sin perjuicio de aquéllos correspondientes a las responsabilidades o al daño moral que se ocasionen en términos de la Ley aplicable.
 
@@ -4887,7 +4825,7 @@ El derecho de aclaración y rectificación se ejercitará sin perjuicio de aqué
 
 ###### ARTÍCULO 226.
 
-Propaganda electoral es el conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que, durante la campaña electoral, producen y difunden los partidos políticos, las coaliciones, en su caso, los candidatos registrados y sus simpatizantes con el propósito de presentar ante la ciudadanía las candidaturas registradas, propiciando la exposición, desarrollo y discusión ante el electorado de los programas y acciones fijados por los partidos políticos en sus documentos básicos y, particularmente, en la plataforma electoral que para la elección en cuestión hubieren registrado.
+Propaganda electoral es el conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que, durante la campaña electoral, producen y difunden los partidos políticos, los convenios de asociación electoral, las coaliciones, en su caso, los candidatos registrados y sus simpatizantes con el propósito de presentar ante la ciudadanía las candidaturas registradas, propiciando la exposición, desarrollo y discusión ante el electorado de los programas y acciones fijados por los partidos políticos en sus documentos básicos y, particularmente, en la plataforma electoral que para la elección en cuestión hubieren registrado.
 
 > <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -4895,11 +4833,11 @@ ARTÍCULO 226 BIS.- Se entenderá por artículos promocionales utilitarios aquel
 
 Los artículos promocionales utilitarios sólo podrán ser elaborados con material textil.
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 227.
 
-La propaganda que difundan los partidos políticos, las coaliciones, en su caso, o los candidatos, se ajustará a lo dispuesto por la Constitución Federal, la Constitución Local, este Código y demás legislación aplicable. La propaganda, bajo cualquier modalidad de comunicación social, que difundan los poderes públicos, los órganos autónomos, las dependencias y entidades de la Administración Pública Estatal y Municipales o cualquier otro ente público deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
+La propaganda que difundan los partidos políticos, los convenios de asociación electoral, las coaliciones, en su caso, o los candidatos, se ajustará a lo dispuesto por la Constitución Federal, la Constitución Local, este Código y demás legislación aplicable. La propaganda, bajo cualquier modalidad de comunicación social, que difundan los poderes públicos, los órganos autónomos, las dependencias y entidades de la Administración Pública Estatal y Municipales o cualquier otro ente público deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
 
 ###### ARTÍCULO 228.
 
@@ -4907,9 +4845,9 @@ Los partidos políticos durante sus campañas podrán elaborar propaganda en fav
 
 I.- No se emplearán símbolos patrios, ni signos, motivos o imágenes religiosas;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
 
-II.- No deberá contener expresiones verbales o alusiones ofensivas, de difamación o calumnia, a las personas, partidos políticos, coaliciones, en su caso, candidatos, autoridades electorales o terceros; o en su caso, aquellas contrarias a las buenas costumbres o inciten al desorden;
+II.- No deberá contener expresiones verbales o alusiones ofensivas, de difamación o calumnia, a las personas, partidos políticos, los convenios de asociación electoral, coaliciones, en su caso, candidatos, autoridades electorales o terceros; o en su caso, aquellas contrarias a las buenas costumbres o inciten al desorden;
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -4973,11 +4911,11 @@ VI.- En la elaboración de cualquier tipo de propaganda electoral no podrán emp
 
 VII.- La propaganda electoral deberá evitar cualquier ofensa, difamación o calumnia que denueste (sic) a la Nación, al Estado, candidatos, partidos políticos, instituciones o terceros.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 233.
 
-La propaganda que los partidos políticos, las coaliciones, en su caso y los candidatos realicen en la vía pública a través de grabaciones y, en general, por cualquier otro medio, se sujetará a lo previsto por el artículo anterior, así como a las disposiciones administrativas expedidas en materia de protección del medio ambiente y de prevención de la contaminación por ruido.
+La propaganda que los partidos políticos, los convenios de asociación electoral, las coaliciones, en su caso y los candidatos realicen en la vía pública a través de grabaciones y, en general, por cualquier otro medio, se sujetará a lo previsto por el artículo anterior, así como a las disposiciones administrativas expedidas en materia de protección del medio ambiente y de prevención de la contaminación por ruido.
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 20 DE FEBRERO DE 2012)</small>
 
@@ -4985,11 +4923,11 @@ La propaganda que los partidos políticos, las coaliciones, en su caso y los can
 
 Ninguna persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargos de elección popular. Queda prohibida la transmisión en territorio del Estado de este tipo de propaganda contratada en el extranjero. Las infracciones a lo establecido en este párrafo serán sancionadas en los términos de la legislación aplicable.
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 234.
 
-En los casos previstos en los dos artículos anteriores, los órganos del Instituto y las autoridades correspondientes, dentro del ámbito de su competencia, velarán por la observancia de las disposiciones de este Código y demás legislación aplicable, adoptando las medidas a que hubiere lugar, con el fin de asegurar a partidos políticos, coaliciones, en su caso, y candidatos, el pleno ejercicio de sus derechos y el cumplimiento de sus obligaciones en esta materia.
+En los casos previstos en los dos artículos anteriores, los órganos del Instituto y las autoridades correspondientes, dentro del ámbito de su competencia, velarán por la observancia de las disposiciones de este Código y demás legislación aplicable, adoptando las medidas a que hubiere lugar, con el fin de asegurar a partidos políticos, los convenios de asociación electoral, coaliciones, en su caso, y candidatos, el pleno ejercicio de sus derechos y el cumplimiento de sus obligaciones en esta materia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -4997,7 +4935,9 @@ En los casos previstos en los dos artículos anteriores, los órganos del Instit
 
 Los partidos políticos deberán retirar su propaganda electoral utilizada dentro de un plazo no mayor de siete días posteriores a la jornada electoral de que se trate, e informar de inmediato al Consejo General del cumplimiento de esta obligación.
 
-Los partidos políticos, coaliciones, en su caso, y candidatos que utilicen material biodegradable en su propaganda electoral, no estarán sujetos a lo dispuesto en el párrafo anterior.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
+
+Los partidos políticos, los convenios de asociación electoral, coaliciones, en su caso, y candidatos que utilicen material biodegradable en su propaganda electoral, no estarán sujetos a lo dispuesto en el párrafo anterior.
 
 En caso contrario el Consejo General podrá solicitar a la autoridad municipal que corresponda el retiro de dicha propaganda, quien informará a su vez detallada y gráficamente el tipo de propaganda retirada del partido político del que se trate.
 
@@ -5029,9 +4969,11 @@ VII.- La duración de las campañas.
 
 En ningún caso, el monto de los topes a los gastos de campaña, para cada elección, será superior a los topes fijados para las campañas de dos Senadores de la República, de la elección inmediata anterior, determinadas por el Consejo General del Instituto Nacional Electoral.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
+
 ###### ARTÍCULO 237.
 
-Los gastos que realicen los partidos políticos, las coaliciones, en su caso, y sus candidatos, en las actividades de campaña, no podrán rebasar los topes que para cada elección determine el Consejo General.
+Los gastos que realicen los partidos políticos, los convenios de asociación electoral, las coaliciones, en su caso, y sus candidatos, en las actividades de campaña, no podrán rebasar los topes que para cada elección determine el Consejo General.
 
 ###### ARTÍCULO 238.
 
@@ -5537,9 +5479,9 @@ IX.- En su caso la causa por la que se cambió de ubicación la casilla.
 
 El acta de escrutinio y cómputo es el documento en el que se hace constar la relación de lo acontecido durante el procedimiento de escrutinio y cómputo de cada elección en la Casilla y los resultados obtenidos, la que contendrá por lo menos:
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
 
-I.- El número de votos emitidos a favor de cada partido político, candidatura común, coalición, en su caso, o candidato;
+I.- El número de votos emitidos a favor de cada partido político, convenio de asociación electoral, candidatura común, coalición, en su caso, o candidato;
 
 II.- Electores que votaron en la Casilla;
 
@@ -6021,6 +5963,10 @@ VI.- La suma de los votos de cada partido coaligado o de candidatura común prov
 
 VII.- La suma total de los votos de todos los partidos políticos, una vez contabilizados tanto los votos de las boletas anteriormente señaladas, así como los de las boletas marcadas o cruzadas en un solo emblema para partidos sin coalición o candidatura común, como para los que sí lo tengan, deberá ser igual al número de votos válidos.
 
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2017)</small>
+
+En el caso de los convenios de asociación electoral, el escrutinio y cómputo se sujetará a lo dispuesto por el artículo 65 del presente ordenamiento.
+
 ###### ARTÍCULO 293.
 
 De encontrarse boletas electorales de una elección en la urna correspondiente a otra, se separarán y se computarán en la elección respectiva.
@@ -6177,7 +6123,9 @@ Para el mejor conocimiento de los ciudadanos, el Consejero Presidente deberá fi
 
 El Programa de Resultados Electorales Preliminares es el mecanismo de información electoral, encargado de proveer los resultados preliminares y no definitivos, de carácter estrictamente informativo a través de la captura, digitalización y publicación de los datos plasmados en las actas de escrutinio y cómputo de las casillas que se reciben en los centros de acopio y transmisión de datos autorizados por el Instituto.
 
-Su objetivo será el de informar oportunamente garantizando la seguridad, transparencia, confiabilidad, credibilidad e integridad de los resultados y la información en todas sus fases al Consejo General, los partidos políticos, coaliciones, candidatos, medios de comunicación y a la ciudadanía.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
+
+Su objetivo será el de informar oportunamente garantizando la seguridad, transparencia, confiabilidad, credibilidad e integridad de los resultados y la información en todas sus fases al Consejo General, los partidos políticos, los convenios de asociación electoral, coaliciones, candidatos, medios de comunicación y a la ciudadanía.
 
 La información oportuna, veraz y pública de los resultados preliminares es una función de carácter nacional que en el ámbito de sus atribuciones, tendrá el Instituto bajo su responsabilidad, en cuanto a su implementación y operación, regida por los principios de legalidad, certeza, objetividad, independencia y máxima publicidad.
 
@@ -6435,7 +6383,9 @@ III.- Límite superior, el que se obtiene de sumar ocho puntos porcentuales al p
 
 IV.- Porcentaje mínimo, el que representa el tres por ciento de la votación válida emitida;
 
-V.- Resto mayor, es el remanente más alto entre los restos de las votaciones de cada partido político, después de haber aplicado el cociente natural. También podrá participar el partido político al que se le asignó la curul por mayor porcentaje, pero que por su votación no fue considerado en la asignación por cociente natural, su remanente será el que resulte de deducir de su votación, el número de votos utilizados para la asignación por mayor porcentaje.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2017)</small>
+
+V.- Resto mayor, es el remanente más alto entre los restos de las votaciones de cada partido político, después de haber aplicado el cociente natural. También podrán participar los partidos políticos a los que se les asignó una curul por haber alcanzado el porcentaje mínimo, pero que por su votación no fue considerado en la asignación por cociente natural, su remanente será el que resulte de deducir de su votación, el número de votos utilizados para la asignación por porcentaje mínimo.
 
 El resto mayor se utilizará cuando aún hubiese diputaciones por distribuir una vez hecha la asignación de acuerdo a lo dispuesto por el artículo 321 de este Código;
 
@@ -6447,7 +6397,9 @@ VIII.- Votación total emitida, el total de los votos depositados en las urnas p
 
 IX.- Votación valida emitida, la que resulte de deducir de la votación total emitida, los votos nulos y los correspondientes a los candidatos no registrados;
 
-X.- Votación valida efectiva, la que resulte de deducir de la votación válida emitida, los votos a favor de los partidos políticos que no hayan obtenido el porcentaje mínimo, los votos a favor de los candidatos independientes, así como los votos consumidos por la asignación por mayor porcentaje.
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
+
+X.- Votación valida efectiva, la que resulte de deducir de la votación válida emitida, los votos a favor de los partidos políticos que no hayan obtenido el porcentaje mínimo, los votos a favor de los candidatos independientes, así como los votos consumidos por las asignaciones por porcentaje mínimo.
 
 ###### ARTÍCULO 319.
 
@@ -6459,9 +6411,9 @@ Una vez concluido el cómputo final de la elección de Diputados de representaci
 
 En el procedimiento para la asignación de Diputados de representación proporcional, se aplicará la fórmula electoral con los elementos y normas siguientes:
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
 
-a) Mayor porcentaje;
+a) Porcentaje mínimo;
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -6475,13 +6427,13 @@ Los partidos políticos que hayan obtenido el Porcentaje Mínimo, tendrán derec
 
 I.- Se hará la declaratoria de aquellos partidos políticos que hayan obtenido el Porcentaje Mínimo;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
 
-II.- La asignación por mayor porcentaje recaerá en la fórmula de candidatos postulados por el principio de mayoría relativa que, por sí misma, haya obtenido el mayor porcentaje de votos de entre todas las fórmulas registradas para la elección de diputados por el referido principio, siempre que no hubiere alcanzado la constancia respectiva, para estos efectos se deberá considerar a todos los candidatos postulados por los partidos políticos, coaliciones o candidatura común en la elección de que se trate; para las siguientes asignaciones, al partido en que haya recaído la contemplada en esta fracción, le será descontado un número de votos equivalente al tres por ciento de la votación válida emitida.
+II.- La asignación por porcentaje mínimo que corresponda a cada partido político con derecho a participar en la elección por este principio, recaerá en la fórmula de candidatos del propio partido político a Diputados por el principio de mayoría relativa, que no hubiere alcanzado la constancia respectiva conforme a dicho principio por sí misma y haya obtenido el mayor porcentaje de votos en la elección; esta asignación consumirá el número de votos equivalente al tres por ciento de la votación válida emitida.
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
 
-III.- Para la asignación de las catorce Diputaciones restantes, se utilizarán los elementos de Cociente Natural y Resto Mayor, en términos del artículo 318 de este Código para estos efectos, los partidos políticos participarán en lo individual, independientemente de la forma de postulación de sus candidatos, y solo serán considerados los que obtuvieron el porcentaje mínimo, en términos de lo establecido en la fracción I de este artículo.
+III.- Para las subsecuentes asignaciones de Diputados, se utilizarán los elementos de Cociente Natural y Resto Mayor, en términos del artículo 318 de este Código para estos efectos, los partidos políticos participarán en lo individual, independientemente de la forma de postulación de sus candidatos, y solo serán considerados los que obtuvieron el porcentaje mínimo, en términos de lo establecido en la fracción I de este artículo.
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -6495,7 +6447,9 @@ Hechas las asignaciones por cociente natural y resto mayor, con la finalidad de 
 
 a) En primer lugar se verificará que el porcentaje de representación en la Cámara, de los partidos políticos que participaron en la asignación no se encuentre fuera de sus límites inferior o superior respecto del porcentaje de votación que obtuvieron en lo individual para la elección de Diputados por el principio de mayoría relativa.
 
-El Consejo General identificara el número de diputaciones que por ambos principios le corresponde a cada uno de los partidos políticos, tratándose de las coaliciones y/o candidaturas comunes hará esta identificación en atención a lo manifestado por estas en el momento del registro de sus candidatos.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
+
+El Consejo General identificará el número de diputaciones que por ambos principios le corresponde a cada uno de los partidos políticos, tratándose de las coaliciones, convenios de asociación electoral y/o candidaturas comunes hará esta identificación en atención a lo manifestado por estas en el momento del registro de sus candidatos.
 
 b) Hecho lo anterior se procederá a identificar los porcentajes de representación en la Cámara de cada uno de los partidos políticos que participaron en cualquiera de las asignaciones por representación proporcional, determinando cuáles de ellos se encuentran fuera de sus límites superior o inferior.
 
@@ -6507,9 +6461,13 @@ e) Si después de realizar la distribución prevista en el inciso anterior, qued
 
 f) Una vez que todos los partidos políticos que participaron en la asignación se encuentren dentro de sus límites inferior y superior, el Consejo General procederá a verificar que no se exceda el límite de contar con más de veintiséis diputados postulados por ambos principios, tomando en consideración, la forma de postulación por la que optó cada instituto político.
 
-Para ello, el Consejo General consolidará el total de Diputados de mayoría relativa y representación proporcional que obtuvieron los partidos políticos que postularon candidatos por coalición o candidatura común, lo que permitirá hacer la verificación considerándolos como una sola fuerza política. Los partidos que postularon candidatos en lo individual participarán de esa manera en la verificación, lo mismo sucederá tratándose de coaliciones parciales o flexibles.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
 
-g) Si en términos de la fracción anterior se obtiene que alguna fuerza política se excede del límite de veintiséis diputados por ambos principios, le serán descontadas el número de diputaciones necesarias para ajustarla al mismo, para el caso de los partidos que postularon candidatos en coalición o candidatura común, el descuento se hará en lo individual, comenzando con el partido político que se encuentre más cercano a su límite superior.
+Para ello, el Consejo General consolidará el total de Diputados de mayoría relativa y representación proporcional que obtuvieron los partidos políticos que postularon candidatos por coalición, candidatura común o convenio de asociación electoral, lo que permitirá hacer la verificación considerándolos como una sola fuerza política. Los partidos que postularon candidatos en lo individual participarán de esa manera en la verificación, lo mismo sucederá tratándose de coaliciones parciales o flexibles.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
+
+g) Si en términos de la fracción anterior se obtiene que alguna fuerza política se excede del límite de veintiséis diputados por ambos principios, le serán descontadas el número de diputaciones necesarias para ajustarla al mismo, para el caso de los partidos que postularon candidatos en coalición, candidatura común o convenio de asociación electoral, el descuento se hará en lo individual, comenzando con el partido político que se encuentre más cercano a su límite superior.
 
 h) Las diputaciones que se obtengan de las deducciones previstas en el inciso anterior, se asignarán a aquel partido político que se encuentre mayormente subrepresentado en lo individual, independientemente de la forma en que hayan postulado candidatos.
 
@@ -6593,31 +6551,15 @@ II.- Constancia de asignación de Regidores por el principio de representación 
 
 ARTÍCULO 324 BIS.- Los poblanos que residan en el extranjero podrán ejercer su derecho al voto exclusivamente para la elección de Gobernador del Estado.
 
-El Consejo General determinará los medios y mecanismos que garanticen la confidencialidad del voto.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
 
-> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+El ejercicio de este derecho, se realizará conforme a los lineamientos que al efecto emita el Instituto Nacional Electoral y los convenios generales de coordinación y colaboración que se celebren.
 
-ARTÍCULO 324 TER.- Para el ejercicio del voto los poblanos que residan en el extranjero, además de los requisitos que establece la Constitución Local y la legislación aplicable, deberán cumplir con los siguientes:
+ARTÍCULO 324 TER.- (DEROGADO, P.O. 31 DE JULIO DE 2017)
 
-I.- Solicitar al Instituto, por escrito, con firma autógrafa, o en su caso, huella digital, en el formato aprobado y de acuerdo a los plazos dispuestos por el Consejo General, su inscripción en el listado de poblanos residentes en el extranjero;
+ARTÍCULO 324 QUATER.- (DEROGADO, P.O. 31 DE JULIO DE 2017)
 
-II.- Manifestar, bajo su responsabilidad y bajo protesta de decir verdad, el domicilio en el extranjero al que se le hará llegar la boleta electoral, o en su caso, a través del medio electrónico que corresponda; y
-
-III.- Anexar a su solicitud copia por anverso y reverso legible de su credencial de elector con fotografía domiciliada en el Estado de Puebla.
-
-El Consejo General tendrá bajo su responsabilidad el voto de los poblanos en el extranjero, por conducto de la Comisión Especial que para tal objeto se cree; por lo que con la anticipación debida pondrá a disposición de los interesados el formato de solicitud de inscripción en la lista de residentes en el extranjero, a través de los medios que acuerde.
-
-El poblano interesado podrá consultar al Instituto, por vía telefónica o electrónica su inscripción.
-
-> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
-
-ARTÍCULO 324 QUATER.- Los poblanos inscritos en el listado de residentes en el extranjero, serán excluidos de la Lista Nominal de Electores correspondiente a su sección electoral hasta la conclusión del proceso.
-
-Una vez concluido el proceso electoral, el Instituto solicitará a la autoridad federal electoral la reinscripción de los poblanos inscritos en el listado de residentes en el extranjero en la Lista Nominal de Electores de la sección electoral a que corresponde su credencial para votar con fotografía.
-
-> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
-
-ARTÍCULO 324 QUINQUIES.- El Consejo General deberá acordar los procedimientos, mecanismos y modalidades correspondientes para que los poblanos residentes en el extranjero emitan su voto. En todos los casos se deberán considerar las acciones previas y posteriores que permitan el desarrollo del proceso electoral.
+ARTÍCULO 324 QUINQUIES.- (DEROGADO, P.O. 31 DE JULIO DE 2017)
 
 > <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
@@ -6627,13 +6569,9 @@ ARTÍCULO 324 SEXIES.- Los partidos políticos y sus candidatos a Gobernador no 
 
 ARTÍCULO 324 SEPTIES.- Durante el proceso electoral, en ningún caso y por ninguna circunstancia los partidos políticos utilizarán recursos provenientes de financiamiento público o privado, en cualquiera de sus modalidades, para financiar actividades ordinarias o de campaña en el extranjero.
 
-> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+ARTÍCULO 324 OCTIES.- (DEROGADO, P.O. 31 DE JULIO DE 2017)
 
-ARTÍCULO 324 OCTIES.- El Consejo General establecerá las medidas para salvaguardar la confidencialidad y protección de los datos personales contenidos en el listado de residentes en el extranjero. La violación a esta disposición por parte de los servidores públicos del Instituto o partidos políticos realizada por cualquier forma o medio, generará las responsabilidades a que haya lugar.
-
-> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
-
-ARTÍCULO 324 NONIES.- En todo lo que no contravenga las disposiciones del presente Título, se aplicará la normatividad conducente en la materia.
+ARTÍCULO 324 NONIES.- (DEROGADO, P.O. 31 DE JULIO DE 2017)
 
 # LIBRO SEXTO. DE LO CONTENCIOSO ELECTORAL
 
@@ -7091,13 +7029,13 @@ I.- El recurrente, que será quien estando legitimado lo presente por sí mismo 
 
 II.- La autoridad responsable, que será el órgano electoral cuyo acto o resolución se combata a través de algún medio de impugnación; y en su caso, el partido político que haya realizado el acto o emitido la resolución que se impugna; y
 
-> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
 
-III.- El tercero interesado, que lo será el partido político, la candidatura común, la coalición, ciudadano o candidato independiente, que resienta algún perjuicio con el medio de impugnación intentado.
+III.- El tercero interesado, que lo será el partido político, los convenios de asociación electoral, la candidatura común, la coalición, ciudadano o candidato independiente, que resienta algún perjuicio con el medio de impugnación intentado.
 
 ### CAPÍTULO V. DE LA SUBSTANCIACIÓN Y RESOLUCIÓN DE LOS RECURSOS
 
-> <small>(ADICIONADO PRIMER PÁRRAFO [N. DE E. REFORMADO], P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 356.
 
@@ -7141,7 +7079,7 @@ Para la admisión y desahogo de pruebas que no se encuentran contempladas en el 
 
 ###### ARTÍCULO 361.
 
-Los partidos políticos, las coaliciones, los ciudadanos por su propio derecho, sin que sea admisible representación alguna o candidatos independientes, en términos de lo dispuesto por el artículo 355 fracción I de este Código, podrán presentar recursos por escrito, en los que se observará lo siguiente:
+Los partidos políticos, los convenios de asociación electoral, las coaliciones, los ciudadanos por su propio derecho, sin que sea admisible representación alguna o candidatos independientes, en términos de lo dispuesto por el artículo 355 fracción I de este Código, podrán presentar recursos por escrito, en los que se observará lo siguiente:
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
@@ -7233,9 +7171,9 @@ II.- El promovente no acredite su personalidad o interés jurídico;
 
 III.- Su presentación sea fuera de los plazos que señala este Código;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
 
-IV.- El representante del partido político, de la candidatura común, del candidato independiente o coalición que promueva, omita firmar autógrafamente el escrito del recurso;
+IV.- El representante del partido político, de la candidatura común, del convenio de asociación electoral, del candidato independiente o coalición que promueva, omita firmar autógrafamente el escrito del recurso;
 
 V.- Las pruebas no se ofrezcan ni se acompañen al escrito del recurso;
 
@@ -7321,9 +7259,9 @@ I.- A las autoridades responsables mediante oficio, en un plazo de cuarenta y oc
 
 II.- A los recurrentes, se entenderá para todos los efectos que fueron notificados, si su representante se encuentra presente en la sesión en que se resuelva el recurso.
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
 
-Si el representante del partido político, candidatura común, candidato independiente o coalición, en su caso, que interpuso el recurso no asiste a la sesión en que se resuelva el recurso, la resolución se notificará en el domicilio que haya señalado para tal efecto, o en su caso por estrados, dentro de las cuarenta y ocho horas siguientes al momento en que concluya la sesión de referencia; y
+Si el representante del partido político, candidatura común, candidato independiente, convenio de asociación electoral o coalición, en su caso, que interpuso el recurso no asiste a la sesión en que se resuelva el recurso, la resolución se notificará en el domicilio que haya señalado para tal efecto, o en su caso por estrados, dentro de las cuarenta y ocho horas siguientes al momento en que concluya la sesión de referencia, y
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
@@ -7555,7 +7493,9 @@ V.- Exceder los topes de gastos de campaña.
 
 VI.- La realización de actos de precampaña o campaña en territorio extranjero cuando se acredite que se hizo con consentimiento de aquéllos, sin perjuicio de que se determine la responsabilidad de quien hubiese cometido la infracción.
 
-VII.- La difusión de propaganda política o electoral que contenga expresiones que calumnien a las instituciones, autoridades electorales, partidos políticos, coaliciones o candidatos independientes.
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
+
+VII.- La difusión de propaganda política o electoral que contenga expresiones que calumnien a las instituciones, autoridades electorales, partidos políticos, los convenios de asociación electoral, coaliciones o candidatos independientes.
 
 VIII.- El incumplimiento de las obligaciones establecidas por el presente Código en materia de transparencia y acceso a la información.
 
@@ -8380,3 +8320,27 @@ P.O. 9 DE ENERO DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO DE INSTITUCIONES Y PROCESOS ELECTORALES DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO DE INSTITUCIONES Y PROCESOS ELECTORALES DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA DIVERSAS DISPOSICIONES DEL CÓDIGO DE INSTITUCIONES Y PROCESOS ELECTORALES DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entra en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
