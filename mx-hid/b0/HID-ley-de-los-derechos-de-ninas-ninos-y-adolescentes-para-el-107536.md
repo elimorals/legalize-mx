@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10753
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-20"
-last_updated: "2015-07-13"
+last_updated: "2017-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de abril de 2015.
 
@@ -55,7 +55,9 @@ Se CREA la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado d
 
 La presente Ley es de orden público, interés social y observancia general en el territorio del Estado de Hidalgo, su aplicación corresponderá a todas las autoridades estatales y municipales, y tiene por objeto:
 
-I. Reconocer a niñas, niños y adolescentes como titulares de derechos, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad; en los términos que establece el artículo 1o de la Constitución Política de los Estados Unidos Mexicanos y 4° de la Constitución Política del Estado de Hidalgo;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
+
+I. Reconocer a las niñas, niños y adolescentes que habiten y/o transiten el Estado de Hidalgo como titulares de derechos, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad; en los términos que establece el artículo 1° de la Constitución Política de los Estados Unidos Mexicanos y 4° de la Constitución Política del Estado de Hidalgo;
 
 II. Garantizar el pleno ejercicio, respeto, protección y promoción de los derechos humanos de niñas, niños y adolescentes conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado de Hidalgo y en los Tratados Internacionales de los que el Estado Mexicano forma parte;
 
@@ -151,9 +153,17 @@ XXVIII. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de
 
 XXIX. Sistema Nacional de Protección Integral: El Sistema Nacional de Protección Integral de los Derechos de Niñas, Niños y Adolescentes;
 
-XXX. Tratados Internacionales: Los Tratados Internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado Mexicano sea parte; y
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
 
-XXXI. UTED: Unidad Técnica de Evaluación del Desempeño del Estado de Hidalgo.
+XXX. Tratados Internacionales: Los Tratados Internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado Mexicano sea parte;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
+
+XXXI. UTED: Unidad Técnica de Evaluación del Desempeño del Estado de Hidalgo; y
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2017)</small>
+
+XXXII.- Trabajo Infantil: actividades económicas remuneradas, o no remuneradas, que impiden que las niñas, niños y adolescentes menores de 15 años alcancen un desarrollo pleno en su formación educativa, física, emocional, psicológica y social. No se incluyen los quehaceres domésticos realizados en el propio hogar, excepto cuando estos puedan ser considerados una actividad económica.
 
 ###### Artículo 5.
 
@@ -271,7 +281,9 @@ IV. Derecho a vivir en familia;
 
 V. Derecho a la igualdad sustantiva;
 
-VI. Derecho a la no discriminación;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
+
+VI. Derecho a la no discriminación y a la integración social;
 
 VII. Derecho a vivir en condiciones de bienestar y a un sano desarrollo integral;
 
@@ -543,9 +555,17 @@ Niñas, niños y adolescentes tienen derecho a ser sujetos de no discriminación
 
 Asimismo, las autoridades están obligadas a llevar a cabo medidas especiales para prevenir, atender y erradicar la Discriminación Múltiple de la que son objeto niñas, niños y adolescentes en situación de exclusión social, en situación de calle, afrodescendientes, peores formas de trabajo infantil o cualquiera otra condición de marginalidad.
 
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2017)</small>
+
+###### Artículo 38 Bis.
+
+Las niñas, niños y adolescentes en situaciones específicas de vulnerabilidad por pobreza, marginación, indigencia, situación de calle, discapacidad, rehabilitación, raza, origen étnico, creencia religiosa, situación social, idioma o lengua, color de piel, edad, género, situación de orientación sexual e identidad de género, calidad de persona migrante, refugiado o desplazado, en conflicto con la ley, víctimas de trabajo infantil, turismo sexual, lenocinio, pornografía o reclutamiento o cualquier condición atribuida a ellos o a sus padres, tutores o familia tienen el derecho a la integración social, ser sujetos de condiciones y oportunidades para el desarrollo integral que les permitan acceder a servicios y beneficios sociales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2017)</small>
+
 ###### Artículo 39.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a adoptar medidas y a realizar las acciones afirmativas necesarias para garantizar a niñas, niños y adolescentes la igualdad sustantiva, de oportunidades y el derecho a la no discriminación.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a fomentar y adoptar medidas y a realizar las acciones afirmativas necesarias para garantizar a niñas, niños y adolescentes la igualdad sustantiva, de oportunidades, el derecho a la no discriminación y a la integración social.
 
 La adopción de estas medidas y la realización de acciones afirmativas formarán parte de la perspectiva antidiscriminatoria, la cual será incorporada de manera transversal y progresiva en el quehacer público y de manera particular en el diseño, implementación y evaluación de las políticas públicas.
 
@@ -555,9 +575,11 @@ Serán factor de análisis prioritario las diferencias de género como causa de 
 
 Las instancias públicas estatales y municipales así como los organismos constitucionales autónomos deberán reportar semestralmente al Consejo Estatal para Prevenir la Discriminación, las medidas de nivelación, medidas de inclusión y acciones afirmativas que adopten, para su registro y monitoreo, en términos de la Ley Estatal para Prevenir y Eliminar la Discriminación. Estos reportes deberán desagregar la información, por lo menos por municipio y localidad, en razón de edad, sexo, escolaridad y tipo de discriminación.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
+
 ###### Artículo 41.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán medidas para la eliminación de usos, costumbres, prácticas culturales o prejuicios que atenten contra la igualdad de niñas, niños y adolescentes por razón de género o que promuevan cualquier tipo de discriminación, atendiendo al interés superior de la niñez.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, fomentaran medidas para la eliminación de usos, costumbres, prácticas culturales o prejuicios que atenten contra la igualdad sustantiva de niñas, niños y adolescentes por razón de género o que promuevan cualquier tipo de discriminación, y/o limiten su integración social, atendiendo al interés superior de la niñez.
 
 ### Capítulo Séptimo. Del Derecho a Vivir en Condiciones de Bienestar y a un Sano Desarrollo Integral
 
@@ -595,9 +617,17 @@ IV. El tráfico de menores;
 
 V. El trabajo antes de la edad mínima de quince años, prevista en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables;
 
-VI. El trabajo en adolescentes mayores de 15 años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental, explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y en las demás disposiciones aplicables; y
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
 
-VII. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral.
+VI. El trabajo en adolescentes mayores de 15 años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental, explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y en las demás disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
+
+VII. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral; y
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2017)</small>
+
+VIII. El trabajo infantil, que de conformidad con lo dispuesto en el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables.
 
 Las autoridades competentes deberán considerar la perspectiva de género en las situaciones de violencia.
 
@@ -1876,3 +1906,9 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 P.O. 13 DE JULIO DE 2015.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE JULIO DE 2017.
+
+[N. DE E. TRANSITORIO “POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”].
+
+Único. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
