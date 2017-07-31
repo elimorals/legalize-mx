@@ -4,7 +4,7 @@ identifier: "HID-ley-de-mitigacion-y-adaptacion-ante-los-efectos-del-cambio-9589
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-26"
-last_updated: "2016-08-15"
+last_updated: "2017-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 26 de agosto de 2013.
 
@@ -249,9 +249,13 @@ Corresponde a la Procuraduría la atención de las denuncias ciudadanas que cual
 
 Corresponde a los municipios, las siguientes atribuciones:
 
-I.- Formular, conducir y evaluar la política municipal en materia de cambio climático en concordancia con la política nacional y estatal;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
 
-II.- Formular e instrumentar políticas y acciones para enfrentar al cambio climático en congruencia con el Plan Estatal de Desarrollo, la Estrategia, el Programa, y con las leyes aplicables, en las siguientes materias:
+I.- Formular, conducir y evaluar la política municipal en materia de mitigación y reducción del cambio climático en concordancia con la política nacional y estatal;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2017)</small>
+
+II.- Formular e instrumentar políticas y acciones para enfrentar al cambio climático en congruencia con el Plan Estatal de Desarrollo, la Estrategia, el Programa, creando por medio de sus Ayuntamientos el correspondiente Reglamento de acción Ecológica y mitigación de los efectos del cambio climático en relación transversal con las leyes aplicables, en las siguientes materias:
 
 a) Prestación del servicio de agua potable y saneamiento;
 
@@ -269,9 +273,13 @@ g) Otros servicios públicos municipales que contribuyan a la generación de emi
 
 III.- Fomentar la investigación científica y tecnológica, el desarrollo, transferencia y despliegue de tecnologías, equipos y procesos para la mitigación y adaptación al cambio climático:
 
-IV.- Realizar campañas de educación e información, en coordinación con el gobierno estatal y federal, para sensibilizar a la población sobre los efectos adversos del cambio climático
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
 
-V.- Promover el fortalecimiento de capacidades institucionales para la mitigación y adaptación;
+IV.- Realizar programas y campañas de educación e información, mediante la participación social, sobre temas de mitigación y reducción de los efectos del cambio climático en coordinación con el gobierno estatal y federal, para sensibilizar a la población.
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
+
+V.- Promover el fortalecimiento de capacidades institucionales, específicamente con los servicios de salud, para generar los programas sectoriales para la mitigación y adaptación de la población al cambio climático;
 
 VI.- Participar en el diseño y aplicación de incentivos que promuevan acciones para el cumplimiento del objeto de la presente ley;
 
@@ -279,7 +287,9 @@ VII.- Coadyuvar con el Estado en la instrumentación del Programa y la Estrategi
 
 VIII.- Gestionar y administrar recursos para ejecutar acciones de adaptación y mitigación ante el cambio climático;
 
-IX.- Elaborar e integrar, en colaboración con el Estado, la información de las categorías de Fuentes Emisoras que se originan en su territorio, para su incorporación al Inventario Estatal de Emisiones, conforme a los criterios e indicadores elaborados por la federación en la materia;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
+
+IX.- Elaborar e integrar, de manera trimestral la actualización de la información de las categorías de Fuentes Emisoras que se originan en su territorio, para su incorporación al Inventario Estatal de Emisiones, conforme a los criterios e indicadores elaborados por la federación en la materia;
 
 X.- Vigilar y promover, en el ámbito de su competencia, el cumplimiento de esta Ley, sus disposiciones reglamentarias y los demás ordenamientos que deriven de ella; y
 
@@ -1166,3 +1176,9 @@ P.O. 15 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 692.- QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO, LEY DE DERECHOS Y CULTURA INDÍGENA PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO, LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO, LEY DE FOMENTO COOPERATIVO PARA EL ESTADO DE HIDALGO, LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO, LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO, LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE HIDALGO, LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO, LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE TULA-TEPEJI Y LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN TODAS DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 208 QUE REFORMA EL ARTÍCULO 10 DE LA LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO."]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
