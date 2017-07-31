@@ -4,7 +4,7 @@ identifier: "SIN-ley-que-establece-las-bases-normativas-para-la-expedicion-9814"
 country: "mx"
 rank: "ley"
 publication_date: "1988-05-02"
-last_updated: "2016-12-28"
+last_updated: "2017-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SIN"
 ---
 # LEY QUE ESTABLECE LAS BASES NORMATIVAS PARA LA EXPEDICION DE LOS BANDOS DE POLICIA Y BUEN GOBIERNO DEL ESTADO DE SINALOA
 
-LEY QUE ESTABLECE LAS BASES NORMATIVAS PARA LA EXPEDICIÓN DE LOS BANDOS DE POLICÍA Y BUEN GOBIERNO DEL ESTADO DE SINALOA
+LEY QUE ESTABLECE LAS BASES NORMATIVAS PARA LA EXPEDICIÓN DE LOS BANDOS DE POLICÍA Y GOBIERNO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el lunes 2 de mayo de 1988.
 
@@ -35,45 +35,57 @@ El H. Congreso del Estado Libre y Soberano de Sinaloa, representado por su Quinc
 
 DECRETO NUMERO 458
 
-LEY QUE ESTABLECE LAS BASES NORMATIVAS PARA LA EXPEDICION DE LOS BANDOS DE POLICIA Y BUEN GOBIERNO DEL ESTADO DE SINALOA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE JULIO DE 2017)</small>
+
+LEY QUE ESTABLECE LAS BASES NORMATIVAS PARA LA EXPEDICIÓN DE LOS BANDOS DE POLICÍA Y GOBIERNO DEL ESTADO DE SINALOA
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
-###### ARTICULO 1.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
 
-Esta Ley tiene por objeto regular la expedición, contenido y procedimientos a que se sujetarán los Bandos de Policía y Buen Gobierno de los Municipios del Estado de Sinaloa.
+###### ARTICULO 1o.
 
-###### ARTICULO 2.
+Esta Ley tiene por objeto regular la expedición, contenido y procedimientos a que se sujetarán los Bandos de Policía y Gobierno de los Municipios del Estado de Sinaloa.
+
+###### ARTICULO 2o.
 
 Los Bandos serán aprobados previa consulta popular y expedidos por los Ayuntamientos de los Municipios en cuya jurisdicción regirán; su contenido y aplicación estarán estrictamente apegados a lo dispuesto por este ordenamiento.
 
 Los bandos serán difundidos ampliamente a la opinión pública para que toda la población tenga conocimiento de ellos. Para su vigencia y validez deberán publicarse en el Periódico Oficial del Estado.
 
-###### ARTICULO 3.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
 
-Cuando en un municipio no se hubiere expedido el Bando de Policía y Buen Gobierno con arreglo a esta Ley, se adoptará el Bando vigente de la Cabecera Municipal más cercana.
+###### ARTICULO 3o.
 
-###### ARTICULO 4.
+Cuando en un municipio no se hubiere expedido el Bando de Policía y Gobierno con arreglo a esta ley, se adoptará el Bando vigente de la Cabecera Municipal más cercana.
+
+###### ARTICULO 4o.
 
 Toda persona tiene a su favor la presunción de ser inocente de la falta que se le impute en tanto no se demuestre su culpabilidad.
 
-###### ARTICULO 5.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
 
-Cuando se comenta (sic) alguna infracción al Bando de Policía y Buen Gobierno por empleado o mandatario de una persona física o moral, utilizando los medios que éstas le proporcionen o actuando bajo su orden, las sanciones se impondrán al empleador o mandante.
+###### ARTICULO 5o.
 
-###### ARTICULO 6.
+Cuando se cometa alguna infracción al Bando de Policía y Gobierno por empleado o mandatario de una persona física o moral, utilizando los medios que éstas le proporcionen o actuando bajo su orden, las sanciones se impondrán al empleador o mandante.
 
-. Sólo serán competentes para la aplicación de los Bandos, las autoridades expresamente señaladas en esta Ley.
+###### ARTICULO 6o.
+
+Sólo serán competentes para la aplicación de los Bandos, las autoridades expresamente señaladas en esta Ley.
 
 ### CAPITULO SEGUNDO. FALTAS O INFRACCIONES
 
-###### ARTICULO 7.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
 
-Se considera falta o infracción al Bando de Policía y Buen Gobierno, toda conducta antisocial, que no constituyendo delito, afecte la moral pública, la salud, lapropiedad (sic), la tranquilidad de las personas u ofenda las buenas costumbres.
+###### ARTICULO 7o.
 
-###### ARTICULO 8.
+Se considera falta o infracción al Bando de Policía y Gobierno, toda conducta antisocial, que no constituyendo delito, afecte la moral pública, la salud, la propiedad, la tranquilidad de las personas u ofenda las buenas costumbres.
 
-Las faltas susceptibles de ser sancionadas por los Bandos de Policía y Buen Gobierno, podrán ser:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2017)</small>
+
+###### ARTICULO 8o.
+
+Las faltas susceptibles de ser sancionadas por los Bandos de Policía y Gobierno, podrán ser:
 
 I.- Contra la seguridad y tranquilidad de las personas;
 
@@ -85,9 +97,11 @@ IV.- Contra la propiedad; y
 
 V.- Todas las relativas a la prevención de delitos.
 
-###### ARTICULO 9.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2017)</small>
 
-En los Bandos de Policía y Buen Gobierno se deberán observar los siguientes principios:
+###### ARTICULO 9o.
+
+En los Bandos de Policía y Gobierno se deberán observar los siguientes principios:
 
 I.- Respeto absoluto al ejercicio de los derechos individuales, sociales y políticos consagrados en la Constitución Política de los Estados Unidos Mexicanos, en la particular del Estado y en las leyes reglamentarias de ambos ordenamientos;
 
@@ -101,13 +115,17 @@ V.- El ejercicio responsable de la autoridad.
 
 ### CAPITULO TERCERO. LAS SANCIONES Y SU APLICACIÓN
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
+
 ###### ARTICULO 10.
 
-Compete a los Tribunales de Barandilla el conocimiento de las faltas a los Bandos de Policía y Buen Gobierno, así como la aplicación de las sanciones correspondientes.
+Compete a los Tribunales de Barandilla el conocimiento de las faltas a los Bandos de Policía y Gobierno, así como la aplicación de las sanciones correspondientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 11.
 
-Los Bandos de Policía y Buen Gobierno prevendrán las sanciones aplicables a las faltas consignadas en los mismos, según su naturaleza y gravedad, y consistirán en:
+Los Bandos de Policía y Gobierno prevendrán las sanciones aplicables a las faltas consignadas en los mismos, según su naturaleza y gravedad, y consistirán en:
 
 I.- Amonestación;
 
@@ -123,9 +141,9 @@ Para los efectos de esta Ley, se entiende por:
 
 a).- Amonestación.- Es la reconvención pública o privada, a juicio del Tribunal, que éste haga al infractor;
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
 
-b).- Multa.- Es el pago de una cantidad de dinero por el equivalente de uno a treinta veces el valor diario de la Unidad de Medida y Actualización al momento de cometerse la infracción;
+b).- Multa. Es el pago de una cantidad de dinero por el equivalente de uno a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización al momento de cometerse la infracción;
 
 c).- Arresto.- Es la privación de la libertad desde 12 hasta 36 horas que se cumplirá en lugares especiales adecuados y públicos, diferentes a los que corresponda a los indicados en un procedimiento penal o a la reclusión de procesados y sentenciados. Para los efectos del cumplimiento de esta sanción, en todo caso se computará el tiempo transcurrido desde el momento de la detención; y
 
@@ -135,9 +153,11 @@ d).- Trabajo Comunitario.- Es la actividad física e intelectual aceptada por el
 
 El arresto administrativo sólo podrá decretarlo y ejecutarlo el Tribunal de Barandilla, por lo que ningún policía podrá detener, aprehender ni privar de su libertad a ninguna persona, salvo el caso de flagrancia, en el cual pondrá inmediatamente al detenido a disposición de la autoridad competente, bajo su más estricta responsabilidad.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
+
 ###### ARTICULO 14.
 
-En tratándose de menores de edad, de personas mayores de setenta años, de inválidos, dementes y de mujeres en notorio estado de embarazo no procederá la privación de la libertad.
+Tratándose de menores de edad, personas mayores de setenta años, con discapacidad, dementes y mujeres en notorio estado de embarazo o cuando no ha transcurrido un año después de haber tenido un parto, siempre y cuando sobreviva el producto del mismo, no procederá la privación de la libertad, sin perjuicio de la aplicación de las sanciones correspondientes.
 
 ###### ARTICULO 15.
 
@@ -191,9 +211,11 @@ I.- Exista una causa de justificación.
 
 II.- La acción u omisión sean involuntarias.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
+
 ###### ARTICULO 23.
 
-La potestad municipal para las (sic) aplicación o ejecución de sanciones por faltas a los Bandos de Policía y Buen Gobierno, prescribirá por el transcurso de noventa días contados a partir de la fecha en que se cometió la infracción. La prescripción se interrumpirá por las diligencias relativas al mismo asunto que ordene o practique el Tribunal.
+La potestad municipal para la aplicación o ejecución de sanciones por faltas a los Bandos de Policía y Gobierno, prescribirá por el transcurso de noventa días contados a partir de la fecha en que se cometió la infracción. La prescripción se interrumpirá por las diligencias relativas al mismo asunto que ordene o practique el Tribunal.
 
 ### CAPITULO CUARTO. TRIBUNALES DE BARANDILLA
 
@@ -239,9 +261,11 @@ Para ser Juez en calidad de trabajador social, profesor normalista, psicólogo o
 
 El Ayuntamiento supervisará las funciones de los Tribunales de Barandilla y dictará los lineamientos de carácter técnico y jurídico a que deban sujetar su actuación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2017)</small>
+
 ###### ARTICULO 31.
 
-Los Tribunales deberán llevar un registro pormenorizado, archivo y estadísticas de las actuaciones que se realicen en los casos que sean sometidos a su conocimiento, observando los lineamientos que para tal efecto señalen los Bandos de Policía y Buen Gobierno.
+Los Tribunales deberán llevar un registro pormenorizado, archivo y estadísticas de las actuaciones que se realicen en los casos que sean sometidos a su conocimiento, observando los lineamientos que para tal efecto señalen los Bandos de Policía y Gobierno.
 
 Los Tribunales estarán obligados a rendir al Ayuntamiento un informe de labores y le entregarán la estadística de las faltas ocurridas en sus respectivos Municipios.
 
@@ -250,6 +274,10 @@ Los Tribunales estarán obligados a rendir al Ayuntamiento un informe de labores
 ###### ARTICULO 32.
 
 El procedimiento ante el Tribunal se iniciará con la recepción del parte informativo de la policía sobre los hechos constitutivos de presunta infracción, con la presentación del detenido o con la denuncia de parte interesada.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2017)</small>
+
+Los Ayuntamientos procurarán establecer en sus respectivos Bandos de Policía y Gobierno procedimientos de mediación y conciliación, cuando por la naturaleza de la falta administrativa hecha del conocimiento del Tribunal de Barandilla así lo permita.
 
 ###### ARTICULO 33.
 
@@ -271,9 +299,11 @@ En todo caso, se les otorgará facilidades para comunicarse con su familia, con 
 
 El procedimiento ante los Tribunales de Barandilla será oral y público, levantando constancia por escrito de todo lo actuado. Sólo por acuerdo expreso del Tribunal la audiencia se desarrollará en privado.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
+
 ###### ARTICULO 37.
 
-El procedimiento en materia de faltas infracciones al Bando de Policía y Buen Gobierno se sustanciará en un (sic) sola audiencia. Estarán presentes los jueces, el secretario, el presunto infractor y su defensor, así como todas aquellas personas cuya declaración sea necesaria.
+El procedimiento en materia de faltas e infracciones al Bando de Policía y Gobierno se sustanciará en una sola audiencia. Estarán presentes los jueces, el secretario, el presunto infractor y su defensor, así como todas aquellas personas cuya declaración sea necesaria.
 
 ###### ARTICULO 38.
 
@@ -374,3 +404,13 @@ CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esqu
 QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 31 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 204 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY QUE ESTABLECE LAS BASES NORMATIVAS PARA LA EXPEDICIÓN DE LOS BANDOS DE POLICÍA Y BUEN GOBIERNO DEL ESTADO DE SINALOA."]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente Decreto.
+
+TERCERO. En un plazo de noventa días siguientes a la entrada en vigor del presente Decreto, los Ayuntamientos del Estado deberán realizar las adecuaciones necesarias a sus Bandos de Policía y Gobierno.
