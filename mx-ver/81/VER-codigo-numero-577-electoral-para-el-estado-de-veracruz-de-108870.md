@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-577-electoral-para-el-estado-de-veracruz-de-10887
 country: "mx"
 rank: "codigo"
 publication_date: "2015-07-01"
-last_updated: "2015-11-27"
+last_updated: "2017-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO NÚMERO 577 ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL ESTADO: 27 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL ESTADO: 31 DE JULIO DE 2017.
 
 Código publicado en el número extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 1 de julio de 2015.
 
@@ -173,6 +173,10 @@ No podrán ser candidatos a Gobernador, diputado o edil, aquellos sujetos privad
 
 En el caso de que algún servidor público de la Federación, Estado o municipio, en ejercicio de autoridad, se haya separado de su cargo, empleo o comisión para contender por un puesto de elección popular y resultara elegido para el mismo, deberá elegir cuál quiere desempeñar, y una vez asumido éste se entenderá que renuncia al otro.
 
+> <small>(ADICIONADO, G.O. 31 DE JULIO DE 2017)</small>
+
+Lo dispuesto en el párrafo anterior no se observará tratándose de la reelección de diputados prevista en el artículo 13 de este Código. Habiéndose separado del cargo y terminado el proceso electoral, podrán reincorporarse al mismo, sin que se entienda haber renunciado al otro cargo, en caso de haber resultado electo.
+
 ###### Artículo 10.
 
 Adicionalmente a los casos previstos por la Constitución Política de los Estados Unidos Mexicanos, la Constitución del Estado y la Ley General de Instituciones y Procedimientos Electorales, no podrán ser postulados como candidatos a un cargo de elección popular estatal, salvo que se separen de sus funciones tres años antes del día de la elección de que se trate:
@@ -201,11 +205,25 @@ La sección electoral es la demarcación territorial en que se dividen los distr
 
 ### CAPÍTULO II. Del Poder Legislativo
 
+> <small>(REFORMADO, G.O. 31 DE JULIO DE 2017)</small>
+
 ###### Artículo 13.
 
 El Congreso del Estado deberá renovarse cada tres años y se integrará de conformidad con lo establecido en el artículo 21 de la Constitución Política del Estado.
 
-Los diputados al Congreso del Estado podrán ser elegidos hasta por cuatro periodos de manera consecutiva.
+Los diputados al Congreso del Estado podrán ser elegidos hasta por cuatro períodos de manera consecutiva. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubiere postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+
+Podrán ser sujetos a elección consecutiva los diputados que hayan ejercido el cargo, independientemente de su carácter de propietario o suplente. No podrá ser electo para el siguiente período en calidad de suplente, quien hubiese sido electo diputado propietario de manera consecutiva por el límite establecido en la Constitución Política del Estado.
+
+Los diputados que pretendan reelegirse deberán separarse del cargo a más tardar el día anterior al inicio de la campaña respectiva. Una vez concluida la jornada electoral, o en su caso, recibida la constancia de mayoría o asignación, según se trate, podrán reincorporarse al mismo. No obstante, previo a la separación del cargo, los diputados deberán observar las reglas que emitan las autoridades electorales competentes para salvaguardar el principio de equidad en la contienda.
+
+La reelección se sujetará a las reglas siguientes:
+
+I. Para el caso de los diputados que pretendan la reelección sólo podrán ser postulados por el mismo distrito electoral por el que obtuvieron su constancia de mayoría en la elección inmediata anterior, o bien siendo incluidos en la lista de diputados por el principio de representación proporcional del partido político que corresponda, en términos del segundo párrafo de este artículo;
+
+II. Los diputados electos por el principio de representación proporcional, que pretendan la reelección, podrán ser postulados tanto por el principio de mayoría relativa como por el de representación proporcional, del partido que corresponda según lo dispuesto en el segundo párrafo de este artículo;
+
+III. En el caso de diputados electos como candidatos independientes, sólo podrán postularse para la reelección con la misma calidad de candidato independiente, cumpliendo con las etapas previstas en el artículo 264 de este Código, salvo que se afilien y demuestren su militancia en un partido político antes de la mitad de su mandato, caso en el que podrán postularse para reelección por dicho partido, bajo el principio de mayoría relativa o el de representación proporcional.
 
 ###### Artículo 14.
 
@@ -857,9 +875,11 @@ V. Los demás que establezca este Código.
 
 Los precandidatos tendrán la obligación de rendir los informes de gastos de precampañas ante el partido político que los postula, el que, a su vez, los presentará ante la Unidad de Fiscalización que corresponda.
 
+> <small>(REFORMADO, G.O. 31 DE JULIO DE 2017)</small>
+
 ###### Artículo 63.
 
-Los servidores públicos que pretendan participar en una precampaña electoral o proceso interno, con el objeto de alcanzar la postulación o designación de su partido político para algún cargo de elección popular en el Estado, que se encuentren en los supuestos de las fracciones II, III y IV del artículo 23; IV y V del artículo 43, y III del artículo 69 de la Constitución del Estado, deberán obtener licencia sin goce de sueldo para ausentarse de su cargo, por lo menos cinco días antes de su registro como precandidatos. Quienes no resulten ganadores en el proceso interno podrán reincorporarse al cargo del cual pidieron licencia; los que sean postulados deberán mantener su licencia hasta la conclusión del proceso electoral.
+Los servidores públicos que pretendan participar en una precampaña electoral o proceso interno, con el objeto de alcanzar la postulación o designación de su partido político para algún cargo popular en el Estado, en su caso, deberán solicitar licencia conforme al proceso interno de selección de candidatos de su instituto político.
 
 ###### Artículo 64.
 
@@ -1349,6 +1369,10 @@ XIII. Registrar la plataforma electoral que, para cada proceso electoral, deber�
 
 XIV. Solicitar al Registro Federal de Electores, en términos del convenio de coordinación respectivo, que practique los trabajos técnicos para la preparación, organización y desarrollo de los procesos electorales, así como de los plebiscitarios y de referendo; y verificar la emisión y distribución de los materiales respectivos;
 
+> <small>(ADICIONADA, G.O. 31 DE JULIO DE 2017)</small>
+
+XIV Bis. Emitir los criterios de equivalencia, cuando por acuerdos del Instituto Nacional Electoral cambie la demarcación de distritos electorales o el número total de éstos, para efectos de la reelección de diputados por el principio de mayoría relativa;
+
 XV. Vigilar la acreditación de los ciudadanos mexicanos y de la organización a la que pertenezcan, y verificar que hayan cubierto los requisitos para participar como observadores electorales;
 
 XVI. Aprobar, con la mayoría de sus integrantes presentes con derecho a voz y voto, el nombramiento de los consejeros electorales de los consejos distritales y municipales y, de entre ellos, a sus respectivos presidentes, así como a los secretarios y vocales, a propuesta del Consejero Presidente del Instituto Electoral Veracruzano, previa convocatoria pública aprobada por el Consejo General;
@@ -1366,6 +1390,10 @@ XXI. Registrar supletoriamente las postulaciones para diputados por el principio
 XXII. Registrar las listas de candidatos a diputados por el principio de representación proporcional;
 
 XXIII. Registrar las postulaciones de candidatos independientes a Gobernador, diputados locales y ediles;
+
+> <small>(ADICIONADA, G.O. 31 DE JULIO DE 2017)</small>
+
+XXIII Bis. Solicitar al Congreso del Estado, tratándose de la reelección de diputados, la información relativa a cuáles integrantes están optando por reelegirse; el número de veces que han ocupado la misma posición de manera consecutiva; o si ejercieron o no el cargo, tratándose de suplentes;
 
 XXIV. Aplicar el programa de resultados electorales preliminares, vigilar su funcionamiento y divulgar inmediata y ampliamente los mismos;
 
@@ -2557,11 +2585,15 @@ XI. Las solicitudes de registro de candidatos a diputados y ediles de los ayunta
 
 XII. Declarar bajo protesta de decir verdad, no estar sujeto a un proceso penal por delito que merezca pena corporal a contar desde la fecha del auto de formal prisión; ni tener suspendidos los derechos o prerrogativas ciudadanas; y
 
-XIII. (DEROGADA PRIMER PÁRRAFO, G.O. 27 DE NOVIEMBRE DE 2015)
+XIII. (DEROGADA, G.O. 27 DE NOVIEMBRE DE 2015)
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 27 DE NOVIEMBRE DE 2015)</small>
+> <small>(ADICIONADA, G.O. 31 DE JULIO DE 2017)</small>
 
-> <small>(DEROGADO TERCER PÁRRAFO, G.O. 27 DE NOVIEMBRE DE 2015)</small>
+XIV. Los candidatos a diputados que pretendan reelegirse en sus cargos, deberán declarar bajo protesta de decir verdad, estar cumpliendo los límites establecidos por la Constitución Federal y la del Estado.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO [N. DE E. DEL APARTADO B], G.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+> <small>(DEROGADO TERCER PÁRRAFO [N. DE E. DEL APARTADO B], G.O. 27 DE NOVIEMBRE DE 2015)</small>
 
 Los derechos ciudadanos suspendidos, serán rehabilitados una vez que se haya cumplimentado la pena que dio origen a la suspensión.
 
@@ -2575,9 +2607,19 @@ III. Copia certificada legible del anverso y reverso de la credencial para votar
 
 IV. Documento suscrito por el candidato, bajo protesta de decir verdad, del cumplimiento de los requisitos de elegibilidad del cargo de elección popular que corresponda;
 
-V. Para el caso de candidatos a ediles que no sean originarios del municipio, deberán presentar constancia de residencia expedida por la autoridad competente, de conformidad con lo establecido en el artículo 69 fracción I de la Constitución del Estado; y
+> <small>(REFORMADA, G.O. 31 DE JULIO DE 2017)</small>
 
-VI. Constancia de residencia expedida por autoridad competente, en el caso de discordancia entre el domicilio de la credencial para votar del candidato y el que se manifieste en la postulación correspondiente.
+V. Para el caso de candidatos a ediles que no sean originarios del municipio, deberán presentar constancia de residencia expedida por la autoridad competente, de conformidad con lo establecido en el artículo 69 fracción I de la Constitución del Estado;
+
+> <small>(REFORMADA, G.O. 31 DE JULIO DE 2017)</small>
+
+VI. Constancia de residencia expedida por autoridad competente, en el caso de discordancia entre el domicilio de la credencial de votar del candidato y el que se manifieste en la postulación correspondiente; y
+
+> <small>(ADICIONADA, G.O. 31 DE JULIO DE 2017)</small>
+
+VII. Tratándose de solicitudes de registro de candidatos a diputados por el principio de mayoría relativa, que pretendan reelegirse en sus cargos, deberá acompañarse una carta que especifique cuál o cuáles de los integrantes de la fórmula están optando por reelegirse en sus cargos y los periodos para los que han sido electos en ese cargo. En el caso de candidatos suplentes, se deberá especificar si en los períodos anteriores en que hayan resultado electos, ejercieron o no el cargo.
+
+En el caso de candidatos a diputados por el principio de representación proporcional, deberá acompañarse una carta que especifique cuáles integrantes de la lista respectiva están optando por reelegirse en sus cargos y el número de veces que han ocupado la misma posición de manera consecutiva. En el caso de candidatos suplentes, se deberá especificar si en los períodos anteriores en que hayan resultado electos, ejercieron o no el cargo.
 
 De igual manera, el partido o coalición postulante deberá manifestar por escrito que los candidatos cuyo registro solicita fueron seleccionados de conformidad con sus normas estatutarias.
 
@@ -5916,3 +5958,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Con copia de este Decreto que cumplimenta la Ejecutoria de la Suprema Corte de Justicia de la Nación, que resolvió la Acción de Inconstitucionalidad 50/2015 y sus acumuladas 55/2015, 56/2015 y 58/2015, infórmese al Máximo Tribunal del País el acatamiento dado por la Legislatura y el Titular del Ejecutivo Estatal, a su resolución.
 
 TERCERO. Se deroga cualquier disposición que contravenga al presente Decreto.
+
+G.O. 31 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 321 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO NÚMERO 577 ELECTORAL Y DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO, AMBOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. En un plazo no mayor a treinta días, el Organismo Público Local Electoral deberá realizar las modificaciones a la reglamentación respectiva, así como emitir los lineamientos correspondientes para garantizar el cumplimiento de las disposiciones del presente Decreto.
