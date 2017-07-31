@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-del-fondo-nacional-de-la-6154
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-20"
-last_updated: "2012-10-09"
+last_updated: "2017-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61541&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-06-09"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES EN MATERIA DE FACULTADES COMO ORGANISMO FISCAL AUTÓNOMO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE JULIO DE 2017.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 20 de junio de 2008.
 
@@ -39,19 +39,19 @@ El presente ordenamiento tiene por objeto regular las facultades y competencia d
 
 Para los efectos de este Reglamento se entenderá en singular o plural, por:
 
-l. Aportación: a la cantidad equivalente al 5% sobre el salario base de aportación de los trabajadores que los Patrones pagan al Instituto;
+I. Aportación: a la cantidad equivalente al 5% sobre el salario base de aportación de los trabajadores que los Patrones pagan al Instituto;
 
-ll. Código: al Código Fiscal de la Federación;
+II. Código: al Código Fiscal de la Federación;
 
-lll. Descuento: a la cantidad que retiene el Patrón del salario del trabajador acreditado y que entera al Instituto para la amortización de los créditos de vivienda;
+III. Descuento: a la cantidad que retiene el Patrón del salario del trabajador acreditado y que entera al Instituto para la amortización de los créditos de vivienda;
 
 IV. Instituto: al Instituto del Fondo Nacional de la Vivienda para los Trabajadores;
 
 V. Ley: a la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores;
 
-Vl. Patrón: a la persona que tenga este carácter en términos de la Ley Federal del Trabajo, y
+VI. Patrón: a la persona que tenga este carácter en términos de la Ley Federal del Trabajo, y
 
-Vll. Secretaría: a la Secretaría de Hacienda y Crédito Público.
+VII. Secretaría: a la Secretaría de Hacienda y Crédito Público.
 
 ###### ARTÍCULO 3o.
 
@@ -85,7 +85,9 @@ XII. Solicitar a las autoridades fiscales federales, de las entidades federativa
 
 XIII. Solicitar a las entidades participantes del Sistema de Ahorro para el Retiro, en los términos de las disposiciones legales aplicables, de la Ley y sus reglamentos, la información relacionada con el cumplimiento de las obligaciones patronales en materia de vivienda, así como de las cantidades que integran la subcuenta de vivienda de las cuentas individuales de los trabajadores;
 
-XIV. Determinar, en caso de incumplimiento y en los términos del Código, el importe de las Aportaciones omitidas y de los Descuentos no retenidos o no enterados, calcular la actualización y los recargos que correspondan, señalar las bases para su liquidación, fijarlos en cantidad líquida, requerir su pago y emitir las resoluciones del crédito fiscal respectivo con apoyo en la información proporcionada por el contribuyente, por otras autoridades fiscales y la que tenga en su poder o que obtenga en ejercicio de sus facultades de revisión;
+> <small>(REFORMADA, D.O.F. 31 DE JULIO DE 2017)</small>
+
+XIV. Determinar, en caso de incumplimiento y en los términos del Código, el importe de las Aportaciones omitidas y de los Descuentos no retenidos o no enterados; su actualización y recargos; los gastos de ejecución, incluidos los gastos extraordinarios que se causen con motivo de los procedimientos de ejecución que lleve a cabo; los cheques no pagados, y de las indemnizaciones que correspondan, así como señalar las bases para su liquidación; fijarlos en cantidad líquida; requerir su pago, y emitir las resoluciones del crédito fiscal respectivo con apoyo en la información proporcionada por el contribuyente, por otras autoridades fiscales y la que tenga en su poder o que obtenga en ejercicio de sus facultades de revisión;
 
 XV. Determinar y precisar la existencia, contenido y alcance de las obligaciones patronales incumplidas, en función de los datos del último mes cubierto o de los hechos que conozca con motivo del ejercicio de las facultades de comprobación o de los proporcionados por otras autoridades fiscales;
 
@@ -93,9 +95,11 @@ XVI. Determinar presuntivamente las Aportaciones derivadas de las obligaciones a
 
 XVII. Determinar y cobrar las omisiones por diferencias en Aportaciones o Descuentos ocasionados por errores aritméticos detectados en las declaraciones de los Patrones, la actualización, los recargos y, en su caso, las multas que correspondan por estos conceptos, así como determinar y cobrar las sanciones generadas por la falta de pago de estas diferencias;
 
-XVIIl. Imponer a los Patrones que hayan cometido infracción a las disposiciones contenidas en la Ley y sus reglamentos, las multas previstas en dichos ordenamientos, con apoyo en los mismos y en lo previsto por el Código;
+XVIII. Imponer a los Patrones que hayan cometido infracción a las disposiciones contenidas en la Ley y sus reglamentos, las multas previstas en dichos ordenamientos, con apoyo en los mismos y en lo previsto por el Código;
 
-XIX. Recibir, tramitar y resolver las solicitudes de constitución de la garantía del interés fiscal; registrar esta última, así como autorizar su sustitución, cancelarlas y hacerlas efectivas cuando así proceda, en términos del Código y su Reglamento;
+> <small>(REFORMADA, D.O.F. 31 DE JULIO DE 2017)</small>
+
+XIX. Recibir, tramitar y resolver las solicitudes de constitución de la garantía del interés fiscal; exigir su ampliación cuando ésta ya no sea suficiente para cubrir los créditos fiscales, inclusive proceder al secuestro o embargo de otros bienes para garantizar el interés fiscal, así como autorizar la sustitución, cancelación y hacer efectivas dichas garantías cuando así proceda, en términos del Código y su Reglamento;
 
 XX. Determinar, conforme a las disposiciones legales aplicables, la responsabilidad solidaria respecto de créditos fiscales de su competencia, así como emitir y notificar la resolución respectiva;
 
@@ -151,149 +155,231 @@ XXXIX. Entregar al adquirente los bienes rematados con el documento que ampare l
 
 XL. Emitir los documentos que amparen la enajenación de los bienes rematados;
 
-> <small>(ADICIONADA, D.O.F. 9 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 31 DE JULIO DE 2017)</small>
 
-XLI. Declarar en favor del Instituto el abandono de los bienes embargados, cuando así proceda, conforme a las disposiciones legales aplicables, y
+XLI. Declarar en favor del Instituto el abandono de los bienes embargados, cuando así proceda, conforme a las disposiciones jurídicas aplicables;
 
-> <small>(ADICIONADA, D.O.F. 9 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 31 DE JULIO DE 2017)</small>
 
-XLII. Las demás facultades y atribuciones que les señalen la Ley y sus disposiciones reglamentarias; el Código y su reglamento y cualquier otra disposición legal aplicable.
+XLII. Ordenar y practicar el embargo precautorio sobre los bienes o la negociación de los patrones, así como levantarlo cuando proceda, conforme a lo previsto en el Código.
 
-> <small>(REFORMADO, D.O.F. 9 DE OCTUBRE DE 2012)</small>
+Tratándose de los bienes a que se refiere el artículo 145, párrafo segundo, fracción III, inciso f del Código, ordenar mediante oficio a la Comisión Nacional Bancaria y de Valores, a la Comisión Nacional de Seguros y Fianzas o a la Comisión Nacional del Sistema de Ahorro para el Retiro, según proceda, o bien a las entidades financieras o sociedades cooperativas de ahorro y préstamo a las que corresponda la cuenta, que procedan a inmovilizar y conservar dichos bienes, a más tardar al tercer día siguiente a la recepción de solicitud de embargo precautorio correspondiente formulada por el Instituto, así como solicitar su levantamiento, conforme a lo previsto en el Código;
+
+> <small>(ADICIONADA, D.O.F. 31 DE JULIO DE 2017)</small>
+
+XLIII. Ordenar y practicar el aseguramiento precautorio de los bienes o de la negociación del patrón, así como levantarlo cuando proceda, conforme a lo previsto en el Código.
+
+Tratándose de los bienes a que se refiere el artículo 40-A, párrafo primero, fracción III, inciso f del Código, solicitar mediante oficio a la Comisión Nacional Bancaria y de Valores, a la Comisión Nacional de Seguros y Fianzas o a la Comisión Nacional del Sistema de Ahorro para el Retiro, según proceda, o bien a las entidades financieras o sociedades cooperativas de ahorro y préstamo que corresponda, que practiquen el aseguramiento precautorio de los mismos, así como solicitar su levantamiento, conforme a lo previsto en el Código;
+
+> <small>(ADICIONADA, D.O.F. 31 DE JULIO DE 2017)</small>
+
+XLIV. Enviar a los patrones comunicados o cartas invitación para promover la regularización de su situación fiscal en materia de Aportaciones y Descuentos, señalándoles propuestas de pago, sin que dichos comunicados o cartas puedan establecer en modo alguno consecuencias jurídicas para el contribuyente y, en general, realizar en el ámbito de su competencia, las acciones necesarias para promover el cumplimiento voluntario y oportuno del pago de las Aportaciones y Descuentos, y
+
+> <small>(ADICIONADA, D.O.F. 31 DE JULIO DE 2017)</small>
+
+XLV. Las demás que le señalen la Ley y sus disposiciones reglamentarias; el Código y su Reglamento y cualquier otra disposición jurídica aplicable.
+
+> <small>(REFORMADO, D.O.F. 31 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 4o.
 
-El personal del Instituto cuyas facultades se determinan en el presente Reglamento es el siguiente:
+El personal del Instituto que ejercerá las facultades que se determinan en el presente Reglamento es el siguiente:
 
 I. El Director General;
 
-II. El Subdirector General de Recaudación Fiscal;
+II. El Subdirector General de Planeación y Finanzas;
 
-III. Los Delegados Regionales y los Representantes de la Dirección General;
+III. El Coordinador General de Recaudación Fiscal;
 
-IV. El Gerente Senior de Fiscalización y Cobranza Fiscal;
+IV. Los Delegados Regionales y los Representantes de la Dirección General;
 
-V. El Gerente de Cobranza Fiscal Administrativa;
+V. El Gerente Senior de Recaudación y Cobranza Fiscal;
 
-VI. El Gerente de Cobranza Fiscal Coactiva;
+VI. El Gerente de Devoluciones y Procesos Administrativos;
 
-VII. El Gerente Contencioso Fiscal;
+VII. El Gerente de Cobro Persuasivo, Coactivo y Garantías;
 
-VIII. El Gerente de Estudio y Depuración de Créditos Fiscales;
+VIII. El Gerente de Notificaciones, Convenios y Estrategias de Cobro;
 
-IX. El Gerente Consultivo de Recaudación Fiscal;
+IX. El Gerente de Facturación Fiscal;
 
-X. El Gerente de Recaudación y Servicio al Patrón;
+X. El Gerente de Cobranza Fiscal a Entidades y Organismos Públicos;
 
-XI. El Gerente de Administración del Patrimonio Social y Servicios;
+XI. El Gerente Senior de Fiscalización;
 
-XII. Los Gerentes de Recaudación Fiscal en Delegaciones Regionales;
+XII. El Gerente de Auditoría a Patrones;
 
-XIII. El Gerente de Servicios Legales;
+XIII. El Gerente de Planeación de la Fiscalización;
 
-XIV. Los Gerentes del Área Jurídica en Delegaciones Regionales;
+XIV. El Gerente Senior de lo Contencioso y Consultivo Fiscal;
 
-XV. El Subgerente Contencioso Fiscal;
+XV. El Gerente Contencioso Fiscal;
 
-XVI. El Subgerente de Cobranza Fiscal, y
+XVI. El Gerente Consultivo Fiscal;
 
-XVII. El Subgerente de lo Contencioso Laboral.
+XVII. El Gerente de Asuntos Especiales y Defraudación Fiscal;
 
-> <small>(REFORMADO, D.O.F. 9 DE OCTUBRE DE 2012)</small>
+XVIII. El Gerente de Estudio y Depuración de Créditos Fiscales;
+
+XIX. El Gerente Senior de Administración del Patrimonio Social y Servicios;
+
+XX. Los Gerentes de Recaudación Fiscal en Delegaciones Regionales;
+
+XXI. El Gerente de Servicios Legales;
+
+XXII. Los Gerentes del Área Jurídica en Delegaciones Regionales;
+
+XXIII. El Subgerente Contencioso Fiscal;
+
+XXIV. Los Subgerentes de Cobranza Fiscal en Delegaciones Regionales, y
+
+XXV. Los Subgerentes de lo Contencioso Laboral.
+
+> <small>(REFORMADO, D.O.F. 31 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 5o.
 
-El ámbito de competencia territorial del personal del Instituto a que se refieren las fracciones l, II, IV, V, VI, VII, VIII, IX, X, XI, XIII, XV, XVI y XVII del artículo anterior, será en todo el territorio nacional.
+El personal del Instituto a que se refieren las fracciones I, II, III, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XXI, XXIII y XXV del artículo anterior, ejercerá sus facultades en todo el territorio nacional.
 
-El personal del Instituto a que se refieren las fracciones III, XII y XIV del artículo anterior, ejercerá sus facultades dentro de la circunscripción territorial que les determine el Consejo de Administración del Instituto a propuesta del Director General del mismo.
+El personal del Instituto a que se refieren las fracciones IV, XX, XXII y XXIV del artículo anterior, ejercerá sus facultades dentro de la circunscripción territorial que determine el Consejo de Administración del Instituto a propuesta de su Director General, mediante acuerdo que se publique en el Diario Oficial de la Federación.
 
-El acuerdo que emita el Consejo de Administración para los efectos señalados en el párrafo anterior, será publicado en el Diario Oficial de la Federación.
-
-> <small>(REFORMADO, D.O.F. 9 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 31 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 6o.
 
-Tendrán la facultad de representar legalmente al Instituto, en su carácter de organismo fiscal autónomo, ante el Tribunal Federal de Justicia Fiscal y Administrativa y los órganos jurisdiccionales, el Director General, el Subdirector General de Recaudación Fiscal, los Delegados Regionales, los Representantes de la Dirección General, el Gerente Senior de Fiscalización y Cobranza Fiscal, el Gerente de Cobranza Fiscal Coactiva, el Gerente Contencioso Fiscal, el Gerente Consultivo de Recaudación Fiscal, los Gerentes de Recaudación Fiscal en Delegaciones Regionales, el Gerente de Servicios Legales y el Subgerente Contencioso Fiscal.
+La facultad de representar legalmente al Instituto, en su carácter de organismo fiscal autónomo ante el Tribunal Federal de Justicia Administrativa y los órganos jurisdiccionales, corresponde al Director General, al Subdirector General de Planeación y Finanzas, al Coordinador General de Recaudación Fiscal, a los Delegados Regionales, a los Representantes de la Dirección General, al Gerente Senior de lo Contencioso y Consultivo Fiscal, al Gerente Contencioso Fiscal, al Gerente de Asuntos Especiales y Defraudación Fiscal, a los Gerentes de Recaudación Fiscal en Delegaciones Regionales, al Gerente de Servicios Legales, al Subgerente Contencioso Fiscal y a los Subgerentes de Cobranza Fiscal en Delegaciones Regionales.
+
+> <small>(REFORMADO, D.O.F. 31 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 7o.
 
-El Director General y el Subdirector General de Recaudación Fiscal ejercerán las facultades comprendidas en el artículo 3o. de este Reglamento.
+El Director General, el Subdirector General de Planeación y Finanzas y el Coordinador General de Recaudación Fiscal ejercerán las facultades previstas en el artículo 3o. de este Reglamento.
 
-> <small>(REFORMADO, D.O.F. 9 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 31 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 8o.
 
-Los Delegados Regionales o los Representantes de la Dirección General, según sea el nombramiento que se les haya otorgado, ejercerán en el ámbito de su circunscripción territorial, las facultades contenidas en las fracciones II, IV, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXXI, XXXII, XXXIV, XXXVIII, XXXIX, XL, XLI y XLII, del artículo 3o. de este Reglamento.
+Los Delegados Regionales y los Representantes de la Dirección General, ejercerán las facultades previstas en el artículo 3o. de este Reglamento, con excepción de las fracciones V, XXV, XXX, XXXV y XXXVI.
 
-> <small>(REFORMADO, D.O.F. 9 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 31 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 9o.
 
-El Gerente Senior de Fiscalización y Cobranza Fiscal ejercerá las facultades contenidas en las fracciones I, III, IV, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXVII, XXIX, XXXI, XXXII, XXXIV, XXXVII, XXXVIII, XXXIX, XL, XLI y XLII, del artículo 3o. de este Reglamento.
+El Gerente Senior de Recaudación y Cobranza Fiscal ejercerá las facultades previstas en el artículo 3o. de este Reglamento, con excepción de las fracciones II, V, XI, XXIV, XXV, XXVI, XXVIII y XXXVI.
 
-> <small>(REFORMADO, D.O.F. 9 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 31 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 10.
 
-El Gerente de Cobranza Fiscal Administrativa, el Gerente de Cobranza Fiscal Coactiva y el Subgerente de Cobranza Fiscal ejercerán las facultades contenidas en las fracciones III, IV, VI, VII, VIII, IX, X, XI, XII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXV, XXVII, XXIX, XXX, XXXI, XXXII, XXXIII, XXXIV, XXXVIII, XXXIX, XL, XLI y XLII, del artículo 3o. de este Reglamento.
+El Gerente de Devoluciones y Procesos Administrativos ejercerá las facultades previstas en el artículo 3o. de este Reglamento, con excepción de las fracciones II, V, IX, XI, XIX, XXIV, XXV, XXVI, XXVIII, XXXV, XXXVI, XXXVII y XLIV.
 
-> <small>(REFORMADO, D.O.F. 9 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 31 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 11.
 
-El Gerente Contencioso Fiscal ejercerá las facultades contenidas en las fracciones VI, XII, XIII, XIX, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX y XLII, del artículo 3o. de este Reglamento.
+El Gerente de Cobro Persuasivo, Coactivo y Garantías ejercerá las facultades previstas en el artículo 3o. de este Reglamento, con excepción de las fracciones II, V, IX, XI, XXIV, XXV, XXVI, XXVIII, XXX, XXXIII, XXXV, XXXVI y XXXVII.
 
-> <small>(REFORMADO, D.O.F. 9 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 31 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 12.
 
-El Gerente de Estudio y Depuración de Créditos Fiscales ejercerá las facultades contenidas en las fracciones II, VI, XII, XXIV, XXV, XXVII, XXIX, XXX y XLII, del artículo 3o. de este Reglamento.
+El Gerente de Notificaciones, Convenios y Estrategias de Cobro ejercerá las facultades previstas en las fracciones III, VI, VII, VIII, X, XII, XIII, XIV, XV, XVI, XVII, XVIII, XX, XXI, XXII, XXIII, XXVII, XXIX, XXXI, XXXII, XXXIV, XXXVIII, XXXIX, XL y XLV del artículo 3o. de este Reglamento.
 
-> <small>(REFORMADO, D.O.F. 9 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 31 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 13.
 
-El Gerente Consultivo de Recaudación Fiscal ejercerá las facultades contenidas en las fracciones II, V, VI, VII, VIII, XII, XIII, XV, XVIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXXV, XXXVI, XXXVII y XLII, del artículo 3o. de este Reglamento.
+El Gerente de Facturación Fiscal ejercerá las facultades previstas en las fracciones I, III, VI, VII, XXI, XXVII, XXX, XXXVII y XLV del artículo 3o. de este Reglamento.
 
-> <small>(REFORMADO, D.O.F. 9 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 31 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 14.
 
-El Gerente de Recaudación y Servicio al Patrón ejercerá las facultades contenidas en las fracciones I, III, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XX, XXI, XXXIII, XXXIV, XXXVII y XLII, del artículo 3o. de este Reglamento.
+El Gerente de Cobranza Fiscal a Entidades y Organismos Públicos ejercerá respecto de las entidades y organismos públicos que se encuentren sujetos al régimen de vivienda que administra el Instituto, las facultades previstas en las fracciones I, III, IV, VI, VII, VIII, X, XII, XIII, XIV, XV, XVI, XVII, XVIII, XX, XXI, XXII, XXIII, XXVII, XXIX, XXX, XXXI, XXXII, XXXVIII, XXXIX, XL y XLV del artículo 3o. de este Reglamento.
 
-> <small>(REFORMADO, D.O.F. 9 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 31 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 15.
 
-El Gerente de Administración del Patrimonio Social y Servicios ejercerá las facultades contenidas en las fracciones I, III, VI, VII, XIII, XXVII, XXXVII y XLII, del artículo 3o. de este Reglamento.
+El Gerente Senior de Fiscalización ejercerá las facultades previstas en el artículo 3o. de este Reglamento, con excepción de las fracciones IV, V, XIX, XXIV, XXV, XXVI, XXVIII, XXX, XXXI, XXXII, XXXIII, XXXV, XXXVI, XXXVIII, XXXIX, XL, XLI, XLII, XLIII y XLIV.
 
-> <small>(REFORMADO, D.O.F. 9 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 31 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 16.
 
-Los Gerentes de Recaudación Fiscal en Delegaciones Regionales ejercerán las facultades contenidas en las fracciones VI, VII, VIII, IX, X, XI, XII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXVI, XXVII, XXIX, XXXII, XXXIV, XXXVIII, XXXIX, XL, XLI y XLII, del artículo 3o. de este Reglamento.
+El Gerente de Auditoría a Patrones ejercerá las facultades previstas en las fracciones I, III, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XX, XXI, XXII, XXIII, XXVII, XXIX, XXXIV y XLV del artículo 3o. de este Reglamento.
 
-> <small>(REFORMADO, D.O.F. 9 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 31 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 17.
 
-El Gerente de Servicios Legales y el Subgerente de lo Contencioso Laboral, ejercerán las facultades contenidas en las fracciones VI, XXVII y XLII, del artículo 3o. de este Reglamento.
+El Gerente de Planeación de la Fiscalización ejercerá las facultades previstas en las fracciones III, VI, VII, VIII, IX, X, XII, XIII, XIV, XV, XVI, XVII, XVIII, XX, XXI, XXII, XXIII, XXVII, XXIX, XXXIV y XLV del artículo 3o. de este Reglamento.
 
-> <small>(REFORMADO, D.O.F. 9 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 31 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 18.
 
-Los Gerentes del Área Jurídica en las Delegaciones Regionales ejercerán las facultades contenidas en las fracciones VI, XXVII y XLII, del artículo 3o. de este Reglamento.
+El Gerente Senior de lo Contencioso y Consultivo Fiscal ejercerá las facultades previstas en las fracciones V, VI, VII, VIII, XI, XII, XIII, XV, XVIII, XIX, XX, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXII, XXXIV, XXXV, XXXVI y XLV del artículo 3o. de este Reglamento.
 
-> <small>(REFORMADO, D.O.F. 9 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 31 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 19.
 
-El Subgerente Contencioso Fiscal ejercerá las facultades contenidas en las fracciones VI, XII, XIII, XIX, XXIV, XXVI, XXVII, XXVIII, XXIX y XLII, del artículo 3o. de este Reglamento.
+El Gerente Contencioso Fiscal ejercerá las facultades previstas en las fracciones VI, VII, VIII, XII, XIII, XIX, XX, XXII, XXIII, XXVI, XXVII, XXVIII, XXIX y XLV del artículo 3o. de este Reglamento.
+
+> <small>(REFORMADO, D.O.F. 31 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 20.
 
-Las controversias que se susciten con motivo de la aplicación de las facultades a que se refiere el presente Reglamento podrán tramitarse ante la Comisión de Inconformidades o, en su caso, ante el Tribunal Federal de Justicia Fiscal y Administrativa, en los términos de las disposiciones reglamentarias que correspondan.
+El Gerente Consultivo Fiscal ejercerá las facultades previstas en las fracciones V, VI, VII, VIII, XI, XII, XIII, XV, XVIII, XXVII, XXVIII, XXXIV, XXXV y XLV del artículo 3o. de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 31 DE JULIO DE 2017)</small>
+
+###### ARTÍCULO 21.
+
+El Gerente de Asuntos Especiales y Defraudación Fiscal ejercerá las facultades previstas en las fracciones VI, VII, XII, XIII, XV, XXIV, XXV, XXVI, XXVII, XXX, XXXI, XXXII, XXXVI y XLV del artículo 3o. de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 31 DE JULIO DE 2017)</small>
+
+###### ARTÍCULO 22.
+
+El Gerente de Estudio y Depuración de Créditos Fiscales ejercerá las facultades previstas en las fracciones VI, VII, XII, XIII, XXVII, XXX, XXXIV y XLV del artículo 3o. de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 31 DE JULIO DE 2017)</small>
+
+###### ARTÍCULO 23.
+
+El Gerente Senior de Administración del Patrimonio Social y Servicios ejercerá las facultades previstas en las fracciones I, III, VI, VII, X, XII, XIII, XXVII, XXXVI y XLV del artículo 3o. de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 31 DE JULIO DE 2017)</small>
+
+###### ARTÍCULO 24.
+
+Los Gerentes de Recaudación Fiscal en Delegaciones Regionales ejercerán las facultades previstas en el artículo 3o. de este Reglamento, con excepción de las fracciones II, V, XXIV, XXV, XXX, XXXIII, XXXV, XXXVI y XXXVII.
+
+> <small>(ADICIONADO, D.O.F. 31 DE JULIO DE 2017)</small>
+
+###### ARTÍCULO 25.
+
+El Gerente de Servicios Legales, los Gerentes del Área Jurídica en Delegaciones Regionales y los Subgerentes de lo Contencioso Laboral ejercerán las facultades previstas en las fracciones VI, X, XIII y XLV del artículo 3o. de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 31 DE JULIO DE 2017)</small>
+
+###### ARTÍCULO 26.
+
+El Subgerente Contencioso Fiscal ejercerá las facultades previstas en las fracciones VI, VIII, XII, XIII, XIX, XXVI, XXVII, XXVIII y XLV del artículo 3o. de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 31 DE JULIO DE 2017)</small>
+
+###### ARTÍCULO 27.
+
+Los Subgerentes de Cobranza Fiscal en Delegaciones Regionales ejercerán las facultades previstas en el artículo 3o. de este Reglamento, con excepción de las fracciones I, II, IV, V, XXIV, XXV, XXX, XXXIII, XXXIV, XXXV, XXXVI, XXXVII y XLIV.
+
+> <small>(ADICIONADO, D.O.F. 31 DE JULIO DE 2017)</small>
+
+###### ARTÍCULO 28.
+
+Las controversias que se susciten con motivo de la aplicación de las facultades a que se refiere el presente Reglamento podrán tramitarse ante la Comisión de Inconformidades o, en su caso, ante el Tribunal Federal de Justicia Administrativa, en los términos de las disposiciones jurídicas aplicables.
 
 ## TRANSITORIOS
 
@@ -305,7 +391,7 @@ TERCERO. Los asuntos que se encuentren en trámite iniciados con base en el Regl
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los nueve días del mes de junio de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Javier Lozano Alarcón.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 D.O.F. 9 DE OCTUBRE DE 2012.
 
@@ -314,3 +400,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publi
 SEGUNDO.- Los asuntos que se encuentren en trámite a la entrada en vigor de este Decreto y que conforme al mismo sean competencia de otra área, se tramitaran hasta su resolución por el área a la que se le haya atribuido la competencia en este Decreto.
 
 TERCERO.- Las referencias que se hacen y las atribuciones que se otorgan en reglamentos, decretos, acuerdos, manuales y demás disposiciones a las unidades administrativas que cambian de denominación o desaparecen por virtud del presente Decreto, se entenderán hechas o conferidas a las unidades administrativas que correspondan conforme a lo establecido en el mismo.
+
+D.O.F. 31 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES EN MATERIA DE FACULTADES COMO ORGANISMO FISCAL AUTÓNOMO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los asuntos que son atendidos por los titulares de las unidades administrativas que modifican sus facultades en virtud de la entrada en vigor del presente Decreto, serán atendidos y resueltos por los titulares de las unidades administrativas a las que se les haya atribuido la competencia conforme a este ordenamiento.
+
+TERCERO.- Las referencias que se hagan y las atribuciones que se otorgan en reglamentos, decretos, acuerdos, manuales y demás disposiciones administrativas a los titulares de las unidades administrativas que cambian de denominación o desaparecen por virtud del presente Decreto, se entenderán hechas o conferidas a los titulares de las unidades administrativas que resulten competentes conforme a lo establecido en el mismo.
