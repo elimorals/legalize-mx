@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-de-la-comision-de-ferias-exposiciones-y-772
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-11-08"
-last_updated: "2010-11-08"
+last_updated: "2017-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77217&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION DE FERIAS, EXPOSICIONES Y EVENTOS DEL ESTADO DE MICHOACAN (COFEEEM)
 
-REGLAMENTO INTERIOR DE LA COMISION DE FERIAS, EXPOSICIONES Y EVENTOS DEL ESTADO DE MICHOACAN (COFEEEM)
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO DE EXTINCIÓN DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "COMISIÓN DE FERIAS, EXPOSICIONES Y EVENTOS DEL ESTADO DE MICHOACÁN, PUBLICADO EN EL P.O. DE 31 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DE LA COMISIÓN DE FERIAS, EXPOSICIONES Y EVENTOS DEL ESTADO DE MICHOACÁN (COFEEEM)
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el lunes 8 de noviembre de 2010.
 
@@ -308,3 +310,23 @@ EL SECRETARIO DE DESARROLLO ECONÓMICO
 ISIDORO RUÍZ ARGÁIZ
 
 (Firmado)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DE EXTINCIÓN DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO “COMISIÓN DE FERIAS, EXPOSICIONES Y EVENTOS DEL ESTADO DE MICHOACÁN”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo. Se abrogan los Decretos publicados en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, de fecha 15 de noviembre de 2002 por el cual se creó el Organismo Público Descentralizado denominado “Comisión de Ferias, Exposiciones y Eventos del Estado de Michoacán”; el de fecha 08 de noviembre de 2010, Quinta Sección, que contiene el Reglamento Interior de la Comisión de Ferias, Exposiciones y Eventos del Estado de Michoacán; y el de fecha 08 de noviembre de 2010, sexta sección, que contiene el Manual de Organización de la Comisión de Ferias, Exposiciones y Eventos del Estado de Michoacán.
+
+Artículo Tercero. El presupuesto asignado a la “Comisión de Ferias, Exposiciones y Eventos del Estado de Michoacán”, en el Decreto que contiene el Presupuesto de Egresos para el Gobierno del Estado de Michoacán de Ocampo, para el Ejercicio Fiscal 2017, deberá reintegrarse a la Secretaría de Finanzas y Administración quien determinará los recursos presupuestales remanentes para la dependencia que corresponda.
+
+Artículo Cuarto. Las transferencias que deban realizarse con motivo del presente Decreto, incluirán las adecuaciones presupuestarias que comprendan las modificaciones a la estructura programática y financiera, así como, en su caso las transferencias de recursos humanos, materiales, financieros y activos patrimoniales y expedientes que la entidad haya utilizado para los asuntos a su cargo.
+
+Artículo Quinto. El liquidador, con cargo al presupuesto de la entidad en proceso de liquidación, deberá proveer lo necesario ante la Secretaría de Contraloría, para que ésta en el ámbito de sus atribuciones designe al auditor externo que lleve a cabo una auditoria administrativa y financiera por el periodo que se establezca en las bases de liquidación.
+
+Artículo Sexto. El liquidador de la entidad deberá cerrar los estados financieros de la “Comisión de Ferias, Exposiciones y Eventos del Estado de Michoacán”, a más tardar a los treinta días hábiles posteriores a su designación.
+
+Artículo Séptimo. Se derogan todas aquellas disposiciones administrativas que se opongan al presente Decreto.
