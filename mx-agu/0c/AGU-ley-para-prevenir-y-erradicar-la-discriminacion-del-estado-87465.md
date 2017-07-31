@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-prevenir-y-erradicar-la-discriminacion-del-estado-8746
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-23"
-last_updated: "2013-11-11"
+last_updated: "2017-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87465&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 23 de abril de 2012.
 
@@ -71,7 +71,9 @@ II. Establecer contenidos, métodos o instrumentos pedagógicos en que se asigne
 
 III. Prohibir o negar el libre acceso, permanencia o ascenso al empleo por preferencia religiosa, sexual, identidad o filiación política. En el caso de las mujeres, condicionar las oportunidades referidas a la realización en cualquier momento de pruebas de gravidez o embarazo;
 
-IV. Establecer diferencias en las remuneración (sic), prestaciones y condiciones laborales para trabajos iguales;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
+
+IV. Establecer diferencias en las remuneraciones, prestaciones y condiciones laborales para trabajos iguales;
 
 V. Negar o coartar el acceso a los programas de capacitación para el trabajo y de formación profesional;
 
@@ -129,9 +131,17 @@ XXXI. Incitar al odio, violencia, rechazo, burla, difamación, injuria, persecuc
 
 XXXII. Realizar o promover el maltrato físico o psicológico por la apariencia física, forma de vestir, hablar, gesticular o por asumir públicamente su orientación o preferencia sexual, identidad de género, ideológica, política, religiosa o cualquier otra;
 
-XXXIII. Impedir el acceso a establecimientos mercantiles por distinción, exclusión o restricción, basada en el origen étnico o social, nacionalidad o lugar de origen, color o cualquier otra característica genética, sexo, lengua, identidad de género, estado civil, ocupación o actividad; y
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
 
-XXXIV. En general, cualquier otra conducta discriminatoria en términos del Artículo 4º de este ordenamiento, de la Ley para la protección de la niñez y la adolescencia del Estado de Aguascalientes, de la Ley para la protección especial de los adultos mayores del Estado de Aguascalientes y la Ley de acceso de las mujeres a una vida libre de violencia.
+XXXIII. Impedir el acceso a establecimientos mercantiles por distinción, exclusión o restricción, basada en el origen étnico o social, nacionalidad o lugar de origen, color o cualquier otra característica genética, sexo, lengua, identidad de género, estado civil, ocupación o actividad;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
+
+XXXIV. Impedir o restringir el ejercicio de los derechos humanos consagrados en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Aguascalientes, los instrumentos internacionales de los que México es parte, así como los demás ordenamientos que los regulen, a las personas que tengan cualquier modificación corporal, como lo son tatuajes en partes visibles o no visibles, perforaciones, implantes, u otra condición física; y
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2017)</small>
+
+XXXV. En general, cualquier otra conducta discriminatoria en términos del Artículo 4° de este ordenamiento, de la Ley para la protección de la niñez y la adolescencia del Estado de Aguascalientes, de la Ley para la protección especial de los adultos mayores del Estado de Aguascalientes y la Ley de acceso de las mujeres a una vida libre de violencia.
 
 ###### ARTÍCULO 6º.
 
@@ -376,3 +386,11 @@ P.O. 11 DE NOVIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 122.- SE REFORMA Y ADICIONA LA LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
