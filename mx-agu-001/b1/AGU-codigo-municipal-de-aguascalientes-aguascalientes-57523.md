@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2017-07-17"
+last_updated: "2017-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2017.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -22697,11 +22697,13 @@ Las disposiciones de este Título son de interés público y de observancia gene
 
 Corresponde a la Dirección de Mercados, Estacionamientos y Áreas Comerciales la administración y regulación del comercio en los mercados, vía pública y estacionamientos del Municipio de Aguascalientes.
 
-En el caso de los comercios establecido (sic) cuyo mobiliario ocupe parte de la vía pública, la autorización emitida por la Secretaría de Desarrollo Urbano deberá contar con el aval de la Dirección de Mercados.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
 
-> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+En el caso de los comercios establecidos cuyo mobiliario ocupe parte de la vía pública, la autorización emitida por la Secretaría de Desarrollo Urbano deberá contar con el aval de la Dirección de Mercados.
 
-Queda prohibido otorgar permisos para ejercer cualquier tipo de actividad comercial en la vía pública dentro de las zonas o bienes que hayan sido declarados como patrimonio histórico por parte del Gobierno Federal, Estatal o Municipal.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
+
+Queda prohibido otorgar permisos para ejercer cualquier tipo de actividad comercial en la vía pública dentro de las zonas o bienes que hayan sido declarados como patrimonio histórico por parte del Gobierno Federal, Estatal o Municipal, salvo tratándose de los permisos temporales referidos en el artículo 1384 de este Código.
 
 > <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
 
@@ -23029,9 +23031,9 @@ III. Reubicar a los comerciantes a zonas distintas cuando hubiere necesidad de r
 
 IV. Expedir y/o revocar las licencias de funcionamiento y/o permisos para el ejercicio del comercio en la vía pública, de conformidad con lo establecido en el presente ordenamiento y demás disposiciones legales aplicables;
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
 
-V. Cuando se trate de autorizar permisos para el ejercicio del comercio en vía pública o autorización de cambios de giro, se deberá tomar en cuenta que no se afecte a terceros al autorizar la venta de productos repetidos o que ya otro comerciante, ya sea establecido o informal, se encuentre expendiendo con anterioridad, en todo caso se deberá de establecer el comerciante a una distancia de ciento cincuenta metros lineales entre un giro similar y otro. Este precepto no es aplicable en lo referente a mercados y tianguis. En caso de que se trate de ejercer cualquier giro en la vía pública no deberá de exceder de 3 giros por permiso autorizado, y estos deberán de ser autorizados conforme a las zonas, ubicaciones y compatibilidad que determine la autoridad;
+V. Cuando se trate de autorizar permisos para el ejercicio del comercio en vía pública o autorización de cambios de giro, se deberá garantizar que no se afecten derechos de terceros o de la sociedad. En caso de que se trate de ejercer cualquier giro en la vía pública no deberá de exceder de 3 giros por permiso autorizado, y estos deberán de ser autorizados conforme a las zonas, ubicaciones y compatibilidad que determine la autoridad;
 
 > <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2016)</small>
 
@@ -23321,11 +23323,13 @@ Todos los comerciantes tienen los mismos derechos y obligaciones ante la Direcci
 
 Lo anterior, siempre y cuando la ubicación solicitada se encuentre fuera de las restricciones para ejercer la actividad comercial en la vía pública que contempla el artículo 1384 del Código municipal de Aguascalientes.
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 1384.
 
-No se podrá otorgar permiso para comerciantes en vía pública en la zona que sea considerada por acuerdo de Cabildo como Poligonal del Centro Histórico así como las zonas o bienes que hayan sido declarados como Patrimonio Cultural Histórico por parte del Gobierno Federal, Estatal o Municipal.
+No se podrá otorgar permiso para comerciantes en vía pública en la zona que sea considerada por acuerdo de Cabildo como Poligonal del Centro Histórico así como las zonas o bienes que hayan sido declarados como Patrimonio Cultural Histórico por parte del Gobierno Federal, Estatal o Municipal, salvo que se trate de permisos temporales motivados por alguna festividad tradicional que se celebre en el Municipio, en cuyo caso los comerciantes sólo podrán instalarse mientras dure tal festividad.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
 
 De igual forma, no se podrán otorgar permisos para comerciantes en vía pública:
 
@@ -23359,9 +23363,9 @@ III. Emitir la Resolución en donde se determine la procedencia o improcedencia 
 
 IV. (DEROGADA, P.O. 19 DE SEPTIEMBRE DE 2016)
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
 
-En casos de renovación de los permisos otorgados a comerciantes fijos, semifijos, ambulantes, fiestas tradicionales ubicados dentro y/o En (sic) En casos de renovación de los permisos otorgados a comerciantes fijos, semifijos, ambulantes, fiestas tradicionales ubicados dentro y/o fuera de la Zona Centro, en ningún caso constituirán precedente de obligatoriedad para el municipio para renovar el permiso, y habrán de ajustarse a las necesidades urbanísticas del momento.
+En caso de que hayan existido permisos otorgados a comerciantes fijos, semifijos, ambulantes, fiestas tradicionales ubicados dentro y/o fuera de la Zona Centro, en ningún caso constituirán precedente de obligatoriedad para el municipio para renovar el permiso, y habrán de ajustarse a las necesidades urbanísticas del momento.
 
 > <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
 
@@ -27308,6 +27312,14 @@ El personal del Departamento de Atención a la Juventud que sea transferido al I
 ###### ARTÍCULO NOVENO.
 
 La Secretaría de Administración y la Secretaría de Finanzas llevarán a cabo todos los actos legales y administrativos, que se deriven de las presentes reformas.
+
+P.O. 31 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS A LOS ARTÍCULOS 1357, 1372, 1384 Y 1385 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
+
+PRIMERO.- Se reforman los artículos 1357, párrafos segundo y tercero, 1372 apartado B en su fracción V, 1384 párrafo primero y 1385 párrafo segundo del Código Municipal de Aguascalientes.
+
+SEGUNDO.- Las presentes reformas iniciarán en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 ###### ARTICULO UNICO.
 
