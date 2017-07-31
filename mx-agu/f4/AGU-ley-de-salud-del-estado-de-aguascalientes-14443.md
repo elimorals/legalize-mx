@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2017-07-03"
+last_updated: "2017-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2017.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -279,7 +279,7 @@ XXIV.- Las demás atribuciones afines a las anteriores, que se requieran para el
 
 > <small>(REFORMADO, P.O. 13 DE JUNIO DE 2011)</small>
 
-###### ARTÍCULO 10.
+###### ARTICULO 10.
 
 La Secretaría contará con un Consejo Consultivo, que se integrará por las personas siguientes:
 
@@ -307,7 +307,7 @@ Para ser Consejero se deberá estar en pleno goce eje sus derechos civiles y pol
 
 > <small>(REFORMADO, P.O. 13 DE JUNIO DE 2011)</small>
 
-###### ARTÍCULO 11.
+###### ARTICULO 11.
 
 Por cada miembro propietario habrá un suplente; en caso de los integrantes miembros de la administración pública, el suplente no podrá ser de menor jerarquía que un director de área.
 
@@ -315,13 +315,13 @@ Los miembros enunciados en el artículo anterior participarán dentro del consej
 
 > <small>(REFORMADO, P.O. 13 DE JUNIO DE 2011)</small>
 
-###### ARTÍCULO 12.
+###### ARTICULO 12.
 
 Los cargos de los Consejeros serán honoríficos y por su desempeño no se percibirá retribución, emolumento o compensación alguna.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO] Y REUBICADO, P.O. 13 DE JUNIO DE 2011)</small>
 
-###### ARTÍCULO 13.
+###### ARTICULO 13.
 
 El Consejo Consultivo deberá sesionar en forma ordinaria dos veces al año, y de manera extraordinaria cuando haya asuntos urgentes que tratar.
 
@@ -329,7 +329,7 @@ Su funcionamiento quedará establecido en el Reglamento Interior de la Secretar�
 
 > <small>(REFORMADO [N. DE E. ADICIONADO] Y REUBICADO, P.O. 13 DE JUNIO DE 2011)</small>
 
-###### ARTÍCULO 14.
+###### ARTICULO 14.
 
 El Consejo Consultivo tendrá las siguientes atribuciones:
 
@@ -849,7 +849,7 @@ Los usuarios tendrán derecho a obtener prestaciones de salud oportunas y de cal
 
 > <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2017)</small>
 
-ARTÍCULO 57 BIS.- Las mujeres embarazadas sin control prenatal, adultos mayores, enfermos postrados o terminales, las personas en situación de abandono, así como personas con discapacidad imposibilitados para acudir a una unidad de salud, podrán recibir los servicios de salud a través del programa El Médico en Tu Casa, a través de las instituciones médicas que cuenten con el programa.
+ARTICULO 57 BIS.- Las mujeres embarazadas sin control prenatal, adultos mayores, enfermos postrados o terminales, las personas en situación de abandono, así como personas con discapacidad imposibilitados para acudir a una unidad de salud, podrán recibir los servicios de salud a través del programa El Médico en Tu Casa, a través de las instituciones médicas que cuenten con el programa.
 
 Para efectos de lo señalado en el presente artículo se entenderá por persona en situación de abandono, aquella que por su situación social o familiar viven abandonadas por sus familiares en su domicilio y son apoyados por algún vecino o cualquier persona.
 
@@ -1133,19 +1133,89 @@ El Organismo conforme a la normatividad vigente, prestará atención a los enfer
 
 A estos efectos, se establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
 
-> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2017)</small>
 
-###### ARTICULO 83 Bis.
+ARTICULO 83 BIS.- Las autoridades que integran el Sistema Estatal de Salud ejecutarán el Programa Estatal contra el Suicidio, el cual será formulado e implementado por el Comité Interinstitucional de Atención a los Problemas de Salud Mental y Prevención Integral del Suicidio. Dicho Programa deberá contener la política pública para prevenir el problema social del suicidio, en el que se atenderán al menos las siguientes acciones:
 
-Las autoridades que integran el Sistema Estatal de Salud formularán el Programa Estatal contra el Suicidio, el cual contendrá la política pública para prevenir el problema social del suicidio en el que se atenderán al menos las siguientes acciones:
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 I. Elaboración de información científica sobre las causas del suicidio y su dinámica en el Estado;
 
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 II. Establecer y difundir ampliamente líneas de comunicación de contacto directo, atendidas por especialistas, para asistencia a víctimas potenciales y recibir denuncias preventivas de terceros;
 
-III. Formular recomendaciones a las autoridades de los municipios a fin de capacitar a los comerciantes de objetos comúnmente utilizados para auto infringirse lesiones con el propósito de identificar a suicidas potenciales y dar aviso a las autoridades sanitarias; y
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
 
-IV. Coordinación con el Instituto de Educación de Aguascalientes para cruzar información sobre posibles casos de depresión detectados en las escuelas.
+III. Formular recomendaciones a las autoridades de los municipios a fin de capacitar a los comerciantes de objetos comúnmente utilizados para auto infringirse lesiones con el propósito de identificar a suicidas potenciales y dar aviso a las autoridades sanitarias;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
+
+IV. Coordinación con el Instituto de Educación de Aguascalientes para cruzar información sobre posibles casos de depresión detectados en las escuelas; y
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2017)</small>
+
+V. Coordinación con las autoridades municipales para cruzar información referente a los casos detectados y atendidos dentro de sus respectivas demarcaciones.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2017)</small>
+
+ARTICULO 83 TER.- El Comité Interinstitucional de Atención a los Problemas de Salud Mental y Prevención Integral del Suicidio a que se hace referencia en el Artículo anterior estará integrado por los titulares de las siguientes dependencias:
+
+I. La Secretaría de Salud del Estado, quien lo presidirá;
+
+II. El Sistema Estatal de Asistencia Social y de Integración Familiar;
+
+III. La Secretaría de Seguridad Pública del Estado;
+
+IV. El Instituto de Educación de Aguascalientes;
+
+V. El Instituto Aguascalentense de la Mujer;
+
+VI. El Instituto del Deporte del Estado de Aguascalientes;
+
+VII. La Secretaría de la Juventud del Estado de Aguascalientes;
+
+VIII. El Instituto Cultural de Aguascalientes;
+
+IX. La Secretaría de Bienestar y Desarrollo Social; y
+
+X. Radio y Televisión de Aguascalientes.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2017)</small>
+
+ARTICULO 83 QUATER.- Por cada miembro propietario del Comité Interinstitucional de Atención a los Problemas de Salud Mental y Prevención Integral del Suicidio habrá un suplente, el cual no podrá ser de menor jerarquía que un director de área o su equivalente en el sector paraestatal.
+
+Los miembros enunciados en el Artículo anterior participarán dentro del Comité Interinstitucional de Atención a los Problemas de Salud Mental y Prevención Integral del Suicidio con voz y voto. Teniendo el Secretario de Salud el voto de calidad en caso de empate.
+
+Los cargos de los integrantes del Comité serán honoríficos y por su desempeño no percibirán retribución, emolumento o compensación alguna.
+
+El Comité Interinstitucional de Atención a los Problemas de Salud Mental y Prevención Integral del Suicidio podrá invitar a otras autoridades, académicos o expertos en la materia quienes participarán con voz pero sin voto en las sesiones a las que sean citados.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2017)</small>
+
+ARTICULO 83 QUINQUIES.- El Comité Interinstitucional de Atención a los Problemas de Salud Mental y Prevención Integral del Suicidio es el ente encargado de vigilar que se lleven a cabo las acciones del Programa Estatal contra el Suicidio.
+
+Deberá sesionar en forma ordinaria dos veces al año, y de manera extraordinaria cuando haya asuntos urgentes que tratar.
+
+Su funcionamiento quedará establecido en el Reglamento Interior del Comité Interinstitucional de Atención a los Problemas de Salud Mental y Prevención Integral del Suicidio.
+
+El comité deberá rendir un informe trimestral de las acciones del Programa Estatal contra el Suicidio a la Comisión de Salud Pública y Asistencia Social del Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2017)</small>
+
+ARTICULO 83 SEXIES.- El Comité Interinstitucional de Atención a los Problemas de Salud Mental y Prevención Integral del Suicidio tendrá las siguientes atribuciones:
+
+I. Formular e Implementar el Programa Estatal contra el Suicidio;
+
+II. Proponer líneas de acción y estrategias para el fortalecimiento y consolidación del Programa Estatal contra el Suicidio;
+
+III. Analizar y evaluar los resultados del Programa Estatal contra el Suicidio;
+
+IV. Promover y establecer mecanismos para la coordinación de esfuerzos contra el suicidio;
+
+V. Ofrecer capacitaciones y trasferencias de modelos preventivos en salud mental a las áreas de psicología de las empresas privadas que se encuentren dentro del Estado; y
+
+VI. Las demás que establezcan la presente Ley, el Reglamento Interior del Comité y demás disposiciones legales aplicables.
 
 > <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE OCTUBRE DE 2015)</small>
 
@@ -1273,19 +1343,19 @@ Dicho órgano asumirá la coordinación de los distintos Comités Hospitalarios 
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
-ARTÍCULO 104 B.- Las acciones de atención, así como la investigación y la docencia de la salud deben ser desplegadas en un marco científico y humanista, con pleno respeto a la dignidad de la persona y a su autonomía, en un ámbito de equidad y justicia distributiva.
+ARTICULO 104 B.- Las acciones de atención, así como la investigación y la docencia de la salud deben ser desplegadas en un marco científico y humanista, con pleno respeto a la dignidad de la persona y a su autonomía, en un ámbito de equidad y justicia distributiva.
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
-ARTÍCULO 104 C.- El personal de atención a la salud debe atender con profesionalismo y entrega a todas las personas que demanden sus servicios sin distinción de edad, sexo, nacionalidad, religión, ideología política, posición socio-económica, padecimientos, sin permitir cualquier forma de discriminación, ni escatimar el tiempo que se requiera, o el espacio necesario para ello.
+ARTICULO 104 C.- El personal de atención a la salud debe atender con profesionalismo y entrega a todas las personas que demanden sus servicios sin distinción de edad, sexo, nacionalidad, religión, ideología política, posición socio-económica, padecimientos, sin permitir cualquier forma de discriminación, ni escatimar el tiempo que se requiera, o el espacio necesario para ello.
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
-ARTÍCULO 104 D.- Todas las investigaciones científicas que se realicen sobre seres vivos deberán apegarse estrictamente a lo postulado en la legislación sanitaria, en los tratados internacionales y demás ordenamientos aplicables sobre la materia.
+ARTICULO 104 D.- Todas las investigaciones científicas que se realicen sobre seres vivos deberán apegarse estrictamente a lo postulado en la legislación sanitaria, en los tratados internacionales y demás ordenamientos aplicables sobre la materia.
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
-ARTÍCULO 104 E.- los centros para la atención de la salud del sector público, social o privado del Sistema Estatal de Salud, de acuerdo con su grado de complejidad y nivel de resolución, bajo la responsabilidad de los directores o titulares respectivos y de conformidad con las disposiciones aplicables, contarán con los siguientes comités:
+ARTICULO 104 E.- los centros para la atención de la salud del sector público, social o privado del Sistema Estatal de Salud, de acuerdo con su grado de complejidad y nivel de resolución, bajo la responsabilidad de los directores o titulares respectivos y de conformidad con las disposiciones aplicables, contarán con los siguientes comités:
 
 I. Un Comité Hospitalario de Bioética, para:
 
@@ -1307,7 +1377,7 @@ III. En su caso un Comité de Bioseguridad encargado de determinar y normar al i
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
-ARTÍCULO 104 F.- Los Comités Hospitalarios de Bioética, de Ética en la Investigación y de Bioseguridad se sujetarán a la legislación y reglamentos de la materia, así como a la coordinación y a los criterios que establezca la Comisión Estatal de Bioética.
+ARTICULO 104 F.- Los Comités Hospitalarios de Bioética, de Ética en la Investigación y de Bioseguridad se sujetarán a la legislación y reglamentos de la materia, así como a la coordinación y a los criterios que establezca la Comisión Estatal de Bioética.
 
 Dichos comités serán interdisciplinarios y deberán estar integrados por el personal de atención de la salud y por profesionales de otras disciplinas que cuenten-con capacitación o conocimientos en bioética, siendo imprescindible contar con representantes del núcleo afectado o de personas usuarias de los servicios de salud, hasta el número convenido de sus miembros, quienes podrán estar adscritos o no a la unidad de salud o institución.
 
@@ -1403,7 +1473,7 @@ VII.- Al conocimiento y optimización de los procesos educativos en el área de 
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
-###### Artículo 99.
+###### ARTICULO 99.
 
 La Secretaría apoyará y estimulará la promoción, constitución y el funcionamiento de establecimientos destinados a la investigación para la salud.
 
@@ -1427,13 +1497,13 @@ VII.- Las demás que establezca esta Ley y la correspondiente reglamentación.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
-###### Artículo 101.
+###### ARTICULO 101.
 
 La Secretaría tendrá a su cargo la coordinación de la investigación para la salud y el control de ésta en seres humanos.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
-###### Artículo 102.
+###### ARTICULO 102.
 
 La Secretaría vigilará que se establezcan en las instituciones prestadoras de servicios de salud de acuerdo a su grado de complejidad y nivel de resolución:
 
@@ -2373,8 +2443,6 @@ Las personas encargadas de los servicios médicos de los reclusorios y centros d
 
 ### CAPITULO XIV. Establecimientos para el Almacenamiento y Distribución de Combustibles
 
-ARTICULO 219,- Para los efectos de esta Ley, se entiende por establecimientos destinados al almacenamiento y distribución de combustibles los destinados al suministro de gasolina, aceites, lubricantes y demás productos derivados del petróleo que sean usados en vehículos automotores.
-
 ###### ARTICULO 209.
 
 Para los efectos de esta Ley, se entiende por baño público el establecimiento destinado a utilizar el agua para el aseo corporal, deporte o uso medicinal bajo la forma de baño, y al que pueda concurrir el público. Quedan incluidos en la denominación de baños, los llamados de vapor y de aire caliente.
@@ -2436,6 +2504,10 @@ Para la construcción o acondicionamiento de un inmueble que se pretenda destina
 ### CAPITULO I. Autorizaciones
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 219.
+
+Para los efectos de esta Ley, se entiende por establecimientos destinados al almacenamiento y distribución de combustibles los destinados al suministro de gasolina, aceites, lubricantes y demás productos derivados del petróleo que sean usados en vehículos automotores.
 
 ###### ARTICULO 220.
 
@@ -3095,7 +3167,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 26 DE NOVIEMBRE DE 2001.
 
@@ -3439,13 +3511,21 @@ P.O. 3 DE JULIO DE 2017.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 28/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO".]
+P.O. 31 DE JULIO DE 2017.
 
-PRIMERO. El presente Acuerdo entrará en vigor el veintinueve de abril de dos mil dieciséis.
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 121.- SE REFORMA Y ADICIONA LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES".]
 
-SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+###### ARTÍCULO PRIMERO.
 
-D.O.F. 13 DE MAYO DE 2016.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Comité Interinstitucional de Atención a los Problemas de Salud Mental y Prevención Integral del Suicidio deberá celebrar su primera sesión dentro de los treinta días siguientes a la fecha de entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Comité Interinstitucional de Atención a los Problemas de Salud Mental y Prevención Integral del Suicidio expedirá su Reglamento Interior en un término no mayor de noventa días, contado a partir de la fecha en que celebre su primera sesión.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 17/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL CUARTO TRIBUNAL UNITARIO DEL CUARTO CIRCUITO, CON RESIDENCIA EN MONTERREY, NUEVO LEÓN, ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN, REGISTRO Y DISTRIBUCIÓN DE ASUNTOS ENTRE EL REFERIDO ÓRGANO JURISDICCIONAL Y LOS TRIBUNALES UNITARIOS DEL MISMO CIRCUITO Y RESIDENCIA”.]
 
