@@ -4,7 +4,7 @@ identifier: "HID-ley-de-transporte-para-el-estado-de-hidalgo-95592"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-29"
-last_updated: "2016-12-31"
+last_updated: "2017-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TRANSPORTE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2017.
 
 Ley publicada en Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 29 de julio de 2013.
 
@@ -3761,9 +3761,17 @@ XXVIII. Negarse de cualquier forma a prestar el servicio y operar sus unidades d
 
 XXIX. Impedir de cualquier forma que el Centro General de Gestión de Operaciones ejerza sus funciones o dirija su actividad diaria en la Red Integrada de Transporte de la que formen parte;
 
-XXX. Incurrir, efectuar o fomentar prácticas monopólicas, en términos del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos; y
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
 
-XXXI. Condicionar o negar el servicio a las personas con discapacidad que para deambular requieran de llevar consigo animales especialmente adiestrados o aparatos.
+XXX. Incurrir, efectuar o fomentar prácticas monopólicas, en términos del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
+
+XXXI. Condicionar o negar el servicio a las personas con discapacidad que para deambular requieran de llevar consigo animales especialmente adiestrados o aparatos; y
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2017)</small>
+
+XXXII. Colocar o difundir propaganda electoral en los vehículos o unidades de transporte público, cualquiera que sea su diseño o presentación.
 
 ### CAPÍTULO II. DEL CONSEJO DE TRANSPORTE
 
@@ -4079,9 +4087,9 @@ XI. Se impondrá multa de treinta hasta cincuenta veces la Unidad de Medida y Ac
 
 XII. Se impondrá multa de ochenta hasta cien veces la Unidad de Medida y Actualización; a quienes infrinjan lo preceptuado en los artículos: 23 fracción XII, 24 párrafo tercero en cualquiera de sus supuestos; 59; 73, 89; 90; 95 párrafo primero; 115 párrafo segundo; 302 párrafos segundo y tercero; 304 fracción XVI; y 305 fracciones V y XV;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
 
-XIII. Se impondrá multa de ciento treinta hasta ciento cincuenta veces la Unidad de Medida y Actualización; a quienes infrinjan lo preceptuado en los artículos: 35; 36 fracción V; 37; 55; 65 párrafo segundo; 77; 91; 94 párrafo tercero; 102 en todas sus fracciones; 117; 119; 126 párrafos primero y segundo; 143 fracción II; 182 párrafos primero y segundo; 183; 204 fracción I, incisos d y e; 204 fracción II, inciso b; 223 párrafos primero y segundo; 304 fracciones I, II, III, VIII, IX, X, XIII, XIV, XVII, XVIII, XXI, XXII y XXIII; y 305 fracciones II, VI, VII, XIII, XIV, XVI, XVII, XVIII, XIX y XX;
+XIII. Se impondrá multa de ciento treinta hasta ciento cincuenta veces la Unidad de Medida y Actualización a quienes infrinjan lo preceptuado en los artículos: 35; 36 fracción V; 37; 55; 65 párrafo segundo; 77; 91 ; 94 párrafo tercero; 102 en todas sus fracciones; 117; 119; 126 párrafos primero y segundo; 143 fracción II; 182 párrafos primero y segundo; 183; 204 fracción I, incisos d y e; 204 fracción II, inciso b; 223 párrafos primero y segundo; 304 fracciones I, II, III , VIII, IX, X, XIII, XIV, XVII, XVIII, XXI, XXII y XXIII; y 305 fracciones II, VI, VII, XIII, XIV, XVI, XVII, XVIII, XIX, XX y XXXII;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -4109,9 +4117,11 @@ La suspensión del servicio hasta por noventa días, se impondrá a quienes incu
 
 La suspensión se impondrá también por reincidir o desacatar lo preceptuado en los artículos 304 fracción VIII, IX, XIII y XIV; y 305 fracciones VI, VII, XIII, XIV, XXVII, XVIII y XXXI.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
+
 ###### Artículo 327.
 
-Se ordenará y, de ser el caso, se efectuará a cuenta y cargo obligado del responsable el retiro de anuncios publicitarios en los medios de transporte, cuando no se haya autorizado su colocación o puedan poner en riesgo la seguridad de los usuarios o terceros.
+Se ordenará y, de ser el caso, se efectuará a cuenta y cargo obligado del responsable el retiro de anuncios publicitarios o propaganda electoral en los medios de transporte, cuando estén prohibidos por Ley, no se haya autorizado su colocación o puedan poner en riesgo la seguridad de los usuarios o terceros.
 
 ###### Artículo 328.
 
@@ -4220,3 +4230,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
 
 TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 31 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 206 QUE REFORMA LOS ARTÍCULOS 305, 323 Y 327 DE LA LEY DE TRANSPORTE PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan al presente Decreto.
