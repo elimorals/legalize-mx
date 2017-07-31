@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-trabajadores-al-servicio-de-los-gobiernos-12047"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-31"
-last_updated: "2017-06-26"
+last_updated: "2017-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS, DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 1987.
 
@@ -190,6 +190,10 @@ Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadam
 A solicitud expresa de la trabajadora, previa autorización escrita del médico de la institución de seguridad social que le corresponda, se podrá transferir hasta dieciséis días del mes de descanso previo al parto para después del mismo, en caso de que los hijos hayan nacido con cualquier tipo de discapacidad o requieran atención médica hospitalaria, el descanso podrá ser de hasta dieciséis días de los dos meses adicionales posterior al parto, previa presentación del certificado médico correspondiente.
 
 Durante el periodo de seis meses de lactancia establecido a partir de la fecha de nacimiento del hijo, tendrán dos descansos extraordinarios por día, de media hora cada uno, para alimentar a sus hijos o para realizar la extracción manual de leche, en un lugar adecuado e higiénico que designe la institución o dependencia. Asimismo, contarán con la capacitación y fomento para la promoción de lactancia materna y el amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante los primeros seis meses y complementario hasta avanzado el segundo año de edad.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2017)</small>
+
+Las mujeres trabajadoras gozarán de un día hábil al año con goce íntegro de sueldo a fin de someterse a la realización de exámenes médicos de prevención de cáncer de mama y cervicouterino. Para justificar este permiso, deberán presentar el certificado médico correspondiente, expedido por una institución de salud pública o privada.
 
 > <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2016)</small>
 
@@ -1273,8 +1277,14 @@ P.O. 15 DE AGOSTO DE 2016.
 
 P.O. 26 DE JUNIO DE 2017.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 176 POR EL QUE SE REFORMA EL ARTÍCULO 17 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS, DEL ESTADO DE HIDALGO".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 176 POR EL QUE SE REFORMA EL ARTÍCULO 17 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS, DEL ESTADO DE HIDALGO”.]
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 190 QUE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 17 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo
