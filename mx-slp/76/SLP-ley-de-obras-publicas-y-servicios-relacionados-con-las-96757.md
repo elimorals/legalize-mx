@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-obras-publicas-y-servicios-relacionados-con-las-96757"
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-24"
-last_updated: "2016-10-29"
+last_updated: "2017-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 24 de octubre de 2013.
 
@@ -33,7 +33,9 @@ DECRETO 370
 
 La Sexagésima Legislatura Constitucional del Estado Libre y Soberano de San Luis Potosí, Decreta
 
-EXPOSICIÓN DE MOTIVOS…
+EXPOSICIÓN DE MOTIVOS
+
+[…]
 
 ÚNICO. Se EXPIDE, la Ley de Obras Públicas y Servicios Relacionados con las Mismas del Estado de San Luis Potosí, para quedar de la siguiente manera
 
@@ -377,9 +379,11 @@ En la obra pública y los servicios relacionados con las mismas, cuya ejecución
 
 La asignación presupuestal aprobada para cada contrato servirá de base para otorgar, en su caso, el porcentaje pactado por concepto de anticipos. En los ejercicios subsecuentes se atenderá a los costos que, en su momento, se encuentren vigentes. Para los efectos de este artículo, las instituciones observarán lo dispuesto en el artículo 50 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria. La información sobre estos contratos se difundirá a través de CompraNet.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE AGOSTO DE 2017)</small>
+
 ###### ARTÍCULO 33.
 
-La planeación, programación, presupuestación y el gasto de las obras y servicios relacionados con las mismas, se sujetará a las disposiciones específicas de, la Ley de Planeación del Estado y Municipios de San Luis Potosí; a la Ley de Presupuesto Contabilidad y Gasto Publico del Estado; a la Ley de Presupuesto Contabilidad y Gasto Publico de los Municipios; a la Ley Para la Administración de las Aportaciones Transferidas al Estado y Municipios de San Luis Potosí; así como a lo previsto en la Ley de presupuesto de Egresos del Estado de San Luis Potosí, y demás disposiciones aplicables.
+La planeación, programación, presupuestación y el gasto de las obras y servicios relacionados con las mismas, se sujetará a las disposiciones específicas de, la Ley de Planeación del Estado y Municipios de San Luis Potosí; la Ley de Presupuesto y Responsabilidad Hacendaria del Estado y Municipios de San Luis Potosí; la Ley para la Administración de las Aportaciones Transferidas al Estado y Municipios de San Luis Potosí; así como a lo previsto en la Ley de Presupuesto de Egresos del Estado de San Luis Potosí, y demás disposiciones aplicables.
 
 Las instituciones, bajo su responsabilidad, podrán convocar, adjudicar o contratar obras y servicios relacionados con las mismas, con cargo a su presupuesto autorizado y sujetándose al calendario de gasto correspondiente.
 
@@ -661,7 +665,7 @@ A este escrito se deberán acompañar los poderes que acrediten su contenido.
 
 > <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-Los contratistas registrados en el Registro Estatal Único de Contratistas, podrán actualizar voluntariamente su información cuando modifiquen alguno de los rubros señalados en las fracciones anteriores y, de manera obligatoria, deberán actualizar o refrendar dicha información, a efecto de que las entidades y dependencias cuenten con la información, actualizada de cada contratista al momento de realizar el estudio o análisis para llevara a cabo la contratación a que se refiere el artículo 46 de esta Ley, así como determinar el tipo de procedimiento a implementar en términos de lo dispuesto en la presente Ley.
+Los contratistas registrados en el Registro Estatal Único de Contratistas, podrán actualizar voluntariamente su información cuando modifiquen alguno de los rubros señalados en las fracciones anteriores y, de manera obligatoria, deberán actualizar o refrendar dicha información, a efecto de que las entidades y dependencias cuenten con la información, actualizada de cada contratista al momento de realizar el estudio o análisis para llevar a cabo la contratación a que se refiere el artículo 46 de esta Ley, así como determinar el tipo de procedimiento a implementar en términos de lo dispuesto en la presente Ley.
 
 > <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
@@ -1063,7 +1067,7 @@ A los procedimientos de contratación de invitación a cuando menos tres persona
 
 ###### ARTÍCULO 93.
 
-Las instituciones, bajo su más estricta responsabilidad, podrán contratar obra pública y servicios relacionados con las mismas, a través de los procedimientos a que se refieren las fracciones I y III del artículo 36 de esta Ley, cuando:
+Las instituciones, bajo su más estricta responsabilidad, podrán contratar obra pública y servicios relacionados con las mismas, a través de los procedimientos a que se refieren las fracciones II y III del artículo 36 de esta Ley, cuando:
 
 I. El contrato sólo pueda celebrarse con una determinada persona por tratarse de obras de arte, titularidad de patentes, derechos de autor u otros derechos exclusivos;
 
@@ -1549,7 +1553,7 @@ IV. Cuando por caso fortuito o fuerza mayor se imposibilite la continuación de 
 
 Una vez comunicada por la institución la terminación anticipada de los contratos o el inicio del procedimiento de rescisión de los mismos, ésta procederá a tomar inmediata posesión de los trabajos ejecutados para hacerse cargo del inmueble y de las instalaciones respectivas y, en su caso, proceder a suspender los trabajos, levantando, con o sin la comparecencia del contratista, acta circunstanciada del estado en que se encuentre la obra. En el caso de entidades, el acta circunstanciada se levantará ante la presencia de fedatario público.
 
-El cotratista estará obligado a devolver a la institución, en un plazo de diez días naturales, contados a partir del inicio del procedimiento respectivo, toda la documentación que ésta le hubiere entregado para la realización de los trabajos.
+El contratista estará obligado a devolver a la institución, en un plazo de diez días naturales, contados a partir del inicio del procedimiento respectivo, toda la documentación que ésta le hubiere entregado para la realización de los trabajos.
 
 ###### ARTÍCULO 151.
 
@@ -2262,3 +2266,11 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 TERCERO. Los títulos de concesión vigentes que hayan sido otorgados en términos de la Ley de Bienes del Estado y Municipios de San Luis Potosí, con anterioridad a la entrada en vigor de este Decreto, podrán prorrogarse en términos de lo dispuesto en el mismo.
 
 CUARTO. El Ejecutivo del Estado deberá armonizar los reglamentos correspondientes a la materia que se reforma y adiciona con el presente Decreto, dentro de los noventa días siguientes a la entrada en vigor del mismo.
+
+P.O. 1 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0686.- SE REFORMA EL ARTÍCULO 33 DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
