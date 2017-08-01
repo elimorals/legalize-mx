@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-urbano-del-estado-de-san-luis-potosi-21373"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-07"
-last_updated: "2016-11-03"
+last_updated: "2017-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 7 de octubre de 2000.
 
@@ -1731,9 +1731,11 @@ d) Obras de urbanización para la expansión urbana: las acciones técnicas de a
 
 e) Obras de urbanización para la renovación urbana: las acciones técnicas de acondicionamiento del suelo en zonas comprendidas en los centros de población; y las relativas al mejoramiento, saneamiento y reposición de sus elementos, como la vialidad, redes de servicio o del paisaje urbano, pudiendo implicar, un cambio en las relaciones de propiedad y tenencia del suelo, que requerirá su reincorporación municipal,
 
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE AGOSTO DE 2017)</small>
 
-f) Movilidad sustentable: conjunto de procesos y acciones orientadas a conseguir como objetivo final un uso racional de los medios de transporte, por parte de los sectores públicos, los particulares, y la sociedad en general, fomentar la creación de vías peatonales, para que éstos den como resultado la disminución de, congestionamientos viales; deterioro del sistema de transporte público; los impactos al medio ambiente y a la salud pública, y mejoren calidad de vida de los habitantes.
+f) Movilidad Sustentable: conjunto de procesos y acciones orientadas a conseguir como objetivo final un uso racional de los medios de transporte, por parte de los sectores públicos, los particulares, y la sociedad en general, así como fomentar la creación de vías peatonales e infraestructura unidireccional para la circulación del transporte no motorizado, para que éstos den como resultado la disminución de, congestionamientos viales; deterioro del sistema de transporte público; los impactos al medio ambiente y a la salud pública, y mejoren la calidad de vida de los habitantes.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2012)</small>
 
 Esta política deberá promover el uso de medios de transporte no motorizado y no contaminante, así como la movilidad peatonal.
 
@@ -1899,9 +1901,11 @@ d) Se contemplarán en los Planes de Centro de Población las áreas aptas para 
 
 e) En general, la planeación del territorio perseguirá establecer un adecuado equilibrio e interrelación entre ambos aspectos del desarrollo, en términos de que por una parte, el crecimiento de la ciudad no se extienda a las tierras necesarias para la actividad económica y el mantenimiento del ambiente y que, por la otra, el aumento demográfico y satisfagan sus necesidades del suelo urbanizado, servicios y vivienda, y
 
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE AGOSTO DE 2017)</small>
 
-f) Se promoverá y procurará la movilidad sustentable, mediante la construcción, remodelación y rehabilitación de vialidades en áreas urbanas, adecuándolas para tal fin; contemplando zonas y áreas de circulación peatonal, así como establecer estrategias y medidas que favorezcan la accesibilidad de desplazamiento en las ciudades, distintas al uso del vehículo automotor, instalando la señalética en los lugares correspondientes.
+f) Se promoverá y procurará la movilidad sustentable, mediante la construcción, remodelación y rehabilitación de vialidades en áreas urbanas, adecuándolas para tal fin; contemplando zonas y áreas de circulación peatonal, así como establecer estrategias y medidas que favorezcan la accesibilidad de desplazamiento en las ciudades mediante la construcción de infraestructura unidireccional para la circulación de vehículos no motorizados, instalando la señalética en los lugares correspondientes.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2012)</small>
 
 Con el mismo propósito se procurará proveer la recuperación de las áreas no urbanizables de los centros de población ocupadas por asentamientos espontáneos o no autorizados, mediante programas de traslados o reubicación de sus habitantes a suelos aptos, así como de regeneración de las áreas naturales recuperadas.
 
@@ -2275,9 +2279,9 @@ X. Las previsiones para que la infraestructura de las vialidades, cuenten con el
 
 XI. Los sitios para la instalación de las redes de instalaciones subterráneas de los servicios públicos de teléfonos, energía eléctrica, alumbrado, semáforos, gas natural y cualesquiera otros, y
 
-> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2017)</small>
 
-XII. Las previsiones necesarias para la movilidad sustentable, debiendo considerar en las mediciones, diseño y ejecución en la construcción, remodelación y rehabilitación de vialidades en áreas urbanas, las zonas y áreas de circulación peatonal, y accesibilidad para el desplazamiento de vehículos distintos al automotor, instalando la señalética en los lugares correspondientes.
+XII. Las previsiones necesarias para la movilidad sustentable, debiendo considerar en las mediciones, diseño y ejecución en la construcción, remodelación y rehabilitación de vialidades en áreas urbanas, las zonas y áreas de circulación peatonal e infraestructura unidireccional que privilegie la accesibilidad para el desplazamiento de vehículos distintos al automotor, instalando la señalética en los lugares correspondientes.
 
 ## TITULO DECIMO SEGUNDO. DE LAS LICENCIAS DE USO DEL SUELO Y CONSTRUCCION
 
@@ -4205,8 +4209,16 @@ TERCERO. Se derogan todas las disposiciones legales que se opongan al presente D
 
 P.O. 3 DE NOVIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO 0417.- SE REFORMAN LOS ARTÍCULOS 17, 18, 19, 34, 71, 110 Y 218 Y ADICIONAN A LOS ARTÍCULOS 17, 18, 19, 30 BIS, 71, 110, Y 218 DE Y A LA LEY DE DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0417.- SE REFORMAN LOS ARTÍCULOS 17, 18, 19, 34, 71, 110 Y 218 Y ADICIONAN A LOS ARTÍCULOS 17, 18, 19, 30 BIS, 71, 110, Y 218 DE Y A LA LEY DE DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ".]
 
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 1 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0687.- SE REFORMAN LOS ARTÍCULOS 82 Y 93 DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
