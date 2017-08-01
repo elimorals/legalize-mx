@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2017-06-23"
+last_updated: "2017-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE AGOSTO DE 2017.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -5983,6 +5983,12 @@ I. Las instancias competentes, de conformidad con lo establecido por el artícul
 
 II. Las instancias encargadas de la búsqueda podrán auxiliarse de empresas dedicadas a bienes raíces para la localización de inmuebles;
 
+> <small>(ADICIONADA, D.O.F. 1 DE AGOSTO DE 2017)</small>
+
+II Bis. Las instancias encargadas de la búsqueda podrán realizar las acciones necesarias para la publicación de un aviso, en dos diarios de mayor circulación nacional, así como en la página del Consejo en Internet, de la necesidad inmobiliaria específica, señalando los requerimientos técnicos, sin perjuicio de que reciban ofertas por otros medios.
+
+Dichas instancias señalarán el plazo de vigencia del aviso, vencido éste se podrán realizar publicaciones subsecuentes.
+
 III. Se solicitará al arrendador que exhiba los documentos que lo acrediten como propietario del inmueble, o que cuenta con la personalidad jurídica suficiente para ofrecerlo en arrendamiento y negociar los términos del mismo, así como los permisos y documentos que demuestren que el inmueble cuenta con el uso de suelo correspondiente; y
 
 IV. La Dirección General de Inmuebles y Mantenimiento, tratándose de inmuebles para albergar órganos jurisdiccionales, o las Administraciones, en el caso de las áreas administrativas, dictaminarán si el inmueble es viable y realizarán una estimación aproximada del monto de la inversión y tiempo de ejecución de las obras para que el inmueble esté en condiciones de ser ocupado, lo que se comunicará a la Dirección General de Recursos Materiales, cuando se trate de inmuebles ubicados en el Distrito Federal y zona conurbada.
@@ -6162,6 +6168,12 @@ I. Las propuestas de adquisición de inmuebles, deberán ajustarse a los program
 II. Acreditada la justificación para la adquisición de un inmueble en localidad determinada, deberá revisarse previamente el Sistema de Información Inmobiliaria Federal y Paraestatal, con el objeto de verificar la existencia de inmuebles federales disponibles, parcial o totalmente, adecuados o convenientes a las necesidades planteadas;
 
 III. Independientemente de la gestión a que se refiere la fracción anterior, la Dirección General de Servicios Generales y la Coordinación de Administración Regional, por conducto de sus Administraciones Regionales y Delegaciones Administrativas, según corresponda, en los casos en que se estime conveniente, gestionarán ante las autoridades de las entidades federativas o municipales de la localidad donde se requiera el inmueble, la donación, permuta o, en su caso, comodato cuyas características, ubicación y dimensiones puedan ser aprovechados para la instalación, funcionamiento o reubicación de órganos jurisdiccionales o áreas administrativas. Tratándose de donación de terrenos, previamente a su aceptación, deberá verificarse que el término sujeto a condición para iniciar la construcción por parte del Consejo, no sea menor a dos años;
+
+> <small>(ADICIONADA, D.O.F. 1 DE AGOSTO DE 2017)</small>
+
+III Bis. Sin perjuicio de lo previsto en las fracciones anteriores, y de que reciban ofertas por otros medios, la Dirección General de Servicios Generales y la Coordinación de Administración Regional, por conducto de las Administraciones Regionales y Delegaciones Administrativas, según corresponda, podrán realizar las acciones necesarias para la publicación de un aviso, en dos diarios de mayor circulación nacional, así como en la página del Consejo en Internet, de la necesidad inmobiliaria específica, señalando los requerimientos técnicos.
+
+Dichas instancias señalarán el plazo de vigencia del aviso, vencido éste se podrán realizar publicaciones subsecuentes.
 
 IV. La Dirección General de Inmuebles y Mantenimiento deberá dictaminar si el inmueble que se pretende adquirir es viable para albergar a los órganos jurisdiccionales o áreas administrativas de que se trate y realizará la estimación aproximada del monto de la inversión y tiempo de ejecución de las obras para que el inmueble esté en condiciones de ser ocupado;
 
@@ -12438,3 +12450,11 @@ D.O.F. 23 DE JUNIO DE 2017.
 PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 1 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, RESPECTO A LA DIFUSIÓN DE LAS NECESIDADES INMOBILIARIAS DEL CONSEJO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
