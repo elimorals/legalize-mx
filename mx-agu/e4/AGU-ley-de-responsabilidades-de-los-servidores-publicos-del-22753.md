@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-responsabilidades-de-los-servidores-publicos-del-22753"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-12"
-last_updated: "2016-06-13"
+last_updated: "2017-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 1 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2017 (ABROGADA).
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2001.
 
@@ -1348,3 +1350,41 @@ P.O. 13 DE JUNIO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 124.- LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, no obstante se dará un plazo de 180 días naturales para que se hagan las adecuaciones necesarias al presupuesto y demás normatividad necesaria para la implementación de la presente ley.
+
+###### ARTÍCULO SEGUNDO.
+
+Una vez que entre en vigor la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, quedará Abrogada la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, publicada en virtud del Decreto Número 199 de la LVII Legislatura del Estado de Aguascalientes, en el Periódico Oficial del Estado de Aguascalientes de fecha 12 de noviembre de 2001; así como todas aquellas disposiciones que se opongan a lo previsto en esta Ley.
+
+No obstante lo previsto en el párrafo anterior, el cumplimiento de las obligaciones previstas en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, una vez que entre en vigor la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, seguirá siendo exigible, en lo que resulte aplicable; hasta en tanto el Comité Coordinador del Sistema Estatal Anticorrupción, de conformidad con la ley de la materia, emita los lineamientos, criterios y demás resoluciones conducentes de su competencia.
+
+###### ARTÍCULO TERCERO.
+
+Una vez que entre en vigor la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, todas las menciones a la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes previstas en las demás Leyes, así como en cualquier disposición jurídica, se entenderán referidas a dicha Ley.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos administrativos iniciados por las autoridades locales con anterioridad a la entrada en vigor de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, serán concluidos conforme a la normatividad vigente a su inicio.
+
+###### ARTÍCULO QUINTO.
+
+Una vez vigente la Ley de Responsabilidades Administrativas del Estado de Aguascalientes y hasta en tanto el Comité Coordinador del Sistema Estatal Anticorrupción determine los formatos para la presentación de las declaraciones patrimonial y de intereses, los servidores públicos presentarán sus declaraciones en los formatos que a la entrada en vigor del presente Decreto se vienen empleando.
+
+###### ARTÍCULO SEXTO.
+
+La Secretaría de Fiscalización y Rendición de Cuentas y los órganos de control interno de los entes públicos, deberán realizar, dentro del plazo de 180 días naturales, contados a partir de la publicación del presente Decreto, las modificaciones necesarias a su estructura orgánica, a fin de que puedan realizar las funciones correspondientes a las autoridades investigadoras y substanciadoras, garantizando la independencia entre ambas en el ejercicio de sus funciones.
+
+###### ARTÍCULO SÉPTIMO.
+
+Dentro del plazo de 180 días naturales, contados a partir de la publicación del presente Decreto, se deberán realizar las reformas necesarias a la Ley Orgánica del Poder Judicial del Estado de Aguascalientes, a efecto de que la Sala Administrativa cuente con las facultades necesarias para resolver los procedimientos de responsabilidad administrativa relacionados con faltas administrativas graves y faltas de particulares.
+
+###### ARTÍCULO OCTAVO.
+
+Para los efectos establecidos en el presente Decreto, el Titular del Poder Ejecutivo del Estado deberá contemplar dentro del Presupuesto de Egresos del Ejercicio Fiscal del Año 2018, lo relativo a los se deberá proveer de recursos humanos, financieros y materiales a los recursos necesarios para su implementación.
