@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-seguridad-privada-del-estado-de-puebla-99817"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-14"
-last_updated: "2017-07-18"
+last_updated: "2017-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DE SEGURIDAD PRIVADA DEL ESTADO DE PUEBLA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE SEGURIDAD PRIVADA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2017.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el viernes 14 de marzo de 2014.
 
@@ -35,7 +37,9 @@ Que por la Secretaría del H. Congreso, se me ha remitido el siguiente:
 
 EL HONORABLE QUINCUAGÉSIMO NOVENO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-CONSIDERANDO…
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en los artículos 57 fracción I, 63 fracción I, 64 y 67 de la Constitución Política del Estado Libre y Soberano de Puebla; 119, 123 fracciones I y XVI, 134 y 135 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 45, 48 fracciones I y XVI del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se expide el siguiente:
 
@@ -871,7 +875,9 @@ P.O. 18 DE JULIO DE 2017.
 
 > <small>[N. DE E. TRANSITORIOS “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD PRIVADA DEL ESTADO DE PUEBLA”.]</small>
 
-PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2017)</small>
+
+PRIMERO. El presente Decreto entrará en vigor a los ciento ochenta días naturales siguientes a su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Los prestadores de servicios autorizados, deberán solicitar al Centro Único de Evaluación y Control de Confianza del Estado de Puebla la programación para que su personal de nuevo ingreso o de permanencia, sea sometido a la evaluación de control de confianza, en un plazo no mayor a sesenta días.
 
@@ -884,3 +890,11 @@ Con base en el resultado de la evaluación de control de confianza, la Direcció
 CUARTO. El costo de la evaluación de control de confianza, será a cargo de los prestadores de servicios, de conformidad con la Ley de Ingresos del Estado de Puebla para el ejercicio fiscal correspondiente.
 
 QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO PRIMERO TRANSITORIO DE SU SIMILAR POR EL QUE REFORMÓ Y ADICIONÓ DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD PRIVADA DEL ESTADO DE PUEBLA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO CON FECHA 18 DE JULIO 2017, NÚMERO 12, CUARTA SECCIÓN, TOMO DVII".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
