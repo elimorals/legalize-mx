@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-para-las-coordinaciones-de-actuarios-de-711
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-09"
-last_updated: "2009-12-09"
+last_updated: "2017-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71197&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO INTERIOR PARA LAS COORDINACIONES DE ACTUARIOS DE LOS JUZGADOS DE PRIMERA INSTANCIA CIVILES Y FAMILIARES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 9 de diciembre de 2009.
 
@@ -57,6 +57,16 @@ II. La plantilla de actuarios con el número que determine el Pleno del Supremo 
 
 III. El personal administrativo necesario.
 
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2017)</small>
+
+###### Artículo 3 Bis.
+
+En el ámbito de sus funciones, los actuarios podrán asignarse principalmente a labores de:
+
+I. Ejecutores, quienes tienen como asignación realizar las diligencias ordenadas por la autoridad jurisdiccional en cumplimiento de un mandato que lleve implícito un acto de ejecución; y,
+
+II. Notificadores, quienes tienen como asignación la realización de todas aquellas diligencias que tengan por objeto dar noticia de una resolución o actuación jurisdiccional que no implique un acto de ejecución.
+
 ### CAPITULO III. DEL TITULAR DE LA COORDINACIÓN
 
 ###### Artículo 4.
@@ -75,7 +85,7 @@ V. Gozar de buena reputación y no haber sido condenado por delito doloso que am
 
 VI. Haber acreditado el examen que para tal efecto aplique el Instituto de Capacitación Judicial.
 
-###### Articulo 5.
+###### Artículo 5.
 
 El Coordinador será el jefe administrativo inmediato de los Actuarios así como del personal adscrito a la Coordinación, y su función básica será dirigir y organizar las actividades de la oficina. En sus ausencias, será sustituido por el actuario de la Coordinación que señale el Presidente del Supremo Tribunal de Justicia.
 
@@ -187,7 +197,7 @@ Queda prohibido informar previamente a los Actuarios, el nombre de los interesad
 
 ### CAPITULO VII. DE LAS PROHIBICIONES A LOS ACTUARIOS
 
-###### Articulo 10.
+###### Artículo 10.
 
 Queda prohibido a los actuarios recibir directamente de las partes o de sus abogados, las actuaciones para la práctica de diligencias; así como, solicitar o recibir retribución alguna por el desempeño de sus funciones.
 
@@ -232,3 +242,13 @@ P r e s i d e n t e
 LIC. RAFAEL RODRÍGUEZ OVALLE
 
 S e c r e t a r i o
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 3 BIS DEL REGLAMENTO INTERIOR PARA LAS COORDINACIONES DE ACTUARIOS DE LOS JUZGADOS DE PRIMERA INSTANCIA CIVILES Y FAMILIARES".]
+
+PRIMERO. Este acuerdo entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese este Acuerdo en el Periódico Oficial "El Estado de Sinaloa".
