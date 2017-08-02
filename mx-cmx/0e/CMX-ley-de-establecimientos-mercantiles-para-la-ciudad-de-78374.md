@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-establecimientos-mercantiles-para-la-ciudad-de-78374"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-20"
-last_updated: "2017-03-23"
+last_updated: "2017-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78374&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2011-01-14"
 ---
 # LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MEXICO -- ANTES LEY DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL --
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 2 DE AGOSTO DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 20 de enero de 2011.
 
@@ -988,9 +990,11 @@ VI. Cambio de nombre o denominación comercial.
 
 Los titulares de los centros de educación de carácter privado están obligados a evitar la aglomeración de personas o vehículos en las entradas, salidas y en las vialidades por las que se tenga acceso a dichos centros que pongan en riesgo la seguridad de los usuarios, peatones y transeúntes o que dificulten el tránsito de personas o vehículos, a efecto de contribuir en la reducción de la emisión de contaminantes atmosféricos, a cuyo efecto contarán con un Programa de Ordenamiento Vial y en su caso de Transporte Escolar, acorde a las necesidades específicas de cada centro, atendiendo a su ubicación, dimensión y población escolar. También deberá difundir entre los padres o tutores una vez al año el Programa de Ordenamiento Vial, en el que deberá señalar beneficios de la reducción de la emisión de contaminantes atmosféricos y sus consecuencias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 42.
 
-En los establecimientos mercantiles donde se presten los servicios de reparaciones mecánicas, hojalatería, pintura, eléctricas, electromecánicas, de lavado y/o engrasado, lavado de autos, vestiduras, instalación de alarmas y/o accesorios similares de vehículos automotores, deberán:
+En los establecimientos mercantiles donde se presten los servicios de reparaciones mecánicas, hojalatería, pintura, eléctricas, electromecánicas, de lavado y/o engrasado; lavado de vehículos, vestiduras; instalación de alarmas y/o accesorios similares de vehículos automotores, deberán:
 
 I. Contar con áreas para la ubicación de herramientas y refacciones, así como para almacenar gasolina, aguarrás, pintura, thiner (sic), grasa y demás líquidos o sustancias que se utilicen en la prestación de los servicios;
 
@@ -1000,9 +1004,17 @@ III. Las áreas de reparación deberán estar separadas unas de otras, para que 
 
 IV. Contratar un seguro contra robo y daños a terceros, que cubra cualquier daño que se pudiera ocasionar a los vehículos dados en custodia para su reparación; y
 
-V. En el caso de los establecimientos mercantiles que tengan el giro de lavado de autos deberán contar con sistemas de reciclado y reutilización de agua.
+> <small>(REFORMADA, G.O. 2 DE AGOSTO DE 2017)</small>
+
+V. En el caso de los establecimientos mercantiles que tengan el giro de lavado de vehículos deberán contar con sistemas de reciclado y reutilización de agua.
 
 Está prohibida la utilización de la vía pública para la prestación de los servicios a que se refiere este artículo y cualquier otro relacionado con la prestación de los mismos.
+
+> <small>(ADICIONADO, G.O. 2 DE AGOSTO DE 2017)</small>
+
+###### Artículo 42 Bis.
+
+Todos los establecimientos mercantiles donde se realice lavado de vehículos procurarán la instalación de tecnologías para reciclado y reutilización de agua.
 
 ###### Artículo 43.
 
@@ -1621,3 +1633,15 @@ SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal para su publicació
 TERCERO.- Los logotipos se podrán descargar de la página web del COPRED para coadyuvar a la inserción de los mismos en la placa.
 
 CUARTO.- Los establecimientos mercantiles de giros de impacto vecinal e impacto zonal deberán de colocar las nuevas placas con la leyenda establecida en un término no mayor a 120 días hábiles, a partir de la publicación en la Gaceta Oficial del Gobierno del Distrito Federal.
+
+G.O. 2 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL”.]
+
+PRIMERO. El Presente decreto entrará en vigor a los 90 días después de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Publíquese en la Gaceta Oficial de la Ciudad de México para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
+
+TERCERO. Para efectos de la presente ley, los lavados de "autos" se entenderán como lavados de "vehículos".
+
+CUARTO. Se instruye al Gobierno de la Ciudad de México a llevar a cabo la actualización de normas regulatorias y vinculantes al presente decreto en un término no mayor a 60 días.
