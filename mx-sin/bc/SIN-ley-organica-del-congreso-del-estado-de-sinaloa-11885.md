@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-congreso-del-estado-de-sinaloa-11885"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-20"
-last_updated: "2014-01-29"
+last_updated: "2017-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 20 de noviembre de 1995.
 
@@ -447,7 +447,13 @@ VII.- Designar las comisiones de atención ciudadana y de cortesía parlamentari
 
 VIII.- Desarrollar durante el último año de ejercicio, el proceso de entrega recepción previsto en la ley de la materia;
 
-IX.- Las demás que le confiera esta ley, los reglamentos y los acuerdos parlamentarios del Congreso.
+> <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 2017)</small>
+
+IX.- Expedir la convocatoria aprobada por el Pleno a propuesta de la Junta de Coordinación Política para la designación de los titulares de los Órganos Internos de Control de los órganos a los que la Constitución Política del Estado de Sinaloa les reconoce autonomía y que ejerzan recursos públicos; y
+
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2017)</small>
+
+X.- Las demás que le confiera esta Ley, los reglamentos y los acuerdos parlamentarios del Congreso.
 
 ### CAPITULO II. DE LA PRESIDENCIA Y LAS VICE-PRESIDENCIAS
 
@@ -537,7 +543,7 @@ II.- Comprobar al inicio de las sesiones la existencia del quórum;
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
-III. Extender las actas sintetizadas de las sesiones, anotando en su contenido la parte medular de lo expuesto en las mismas, y firmadas por el Presidente después de ser aprobadas por la Cámara, pasarlas a la Secretaría General para su archivo;
+III.- Extender las actas sintetizadas de las sesiones, anotando en su contenido la parte medular de lo expuesto en las mismas, y firmadas por el Presidente después de ser aprobadas por la Cámara, pasarlas a la Secretaría General para su archivo;
 
 IV.- Firmar las Leyes, Decretos, Acuerdos y todas las Resoluciones que expida el Congreso, así como cualquier documentación de la Cámara;
 
@@ -715,7 +721,11 @@ XIV. Determinar el número de asesores que resulten necesarios para los trabajos
 
 Los asesores o especialistas que se contraten, deberán contar con experiencia profesional en la o las materias que corresponden a la comisión de su adscripción;
 
-XV. Las demás que se deriven de esta Ley y de sus ordenamientos relativos.
+> <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 2017)</small>
+
+XV. Proponer al Pleno la convocatoria para la designación de los titulares de los Órganos Internos de Control de los organismos con autonomía reconocida en la Constitución que ejerzan recursos públicos, en los términos establecidos en la Constitución Política del Estado de Sinaloa, las leyes que regulan dichos organismos y la presente Ley, así como los procedimientos que de ellas se deriven; y
+
+XVI. Las demás que se deriven de esta Ley y de sus ordenamientos relativos.
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
@@ -1099,23 +1109,75 @@ La Diputación Permanente cesará en sus funciones inmediatamente que el Congres
 
 En todo lo demás que no esté previsto en los artículos anteriores, la Diputación Permanente se sujetará, a lo que esta Ley dispone respecto de la Cámara.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE AGOSTO DE 2017)</small>
+
+### CAPITULO VII BIS. DE LA DESIGNACIÓN DE LOS TITULARES DE LOS ÓRGANOS INTERNOS DE CONTROL DE LOS ORGANISMOS CONSTITUCIONALES AUTÓNOMOS
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2017)</small>
+
+ARTICULO 92 BIS. Conforme a lo previsto en el artículo 43, fracción XXXVII de la Constitución Política del Estado, corresponde al Congreso del Estado designar, por el voto de las dos terceras partes de sus miembros presentes a los titulares de los Órganos Internos de Control de los organismos con autonomía reconocida en la Constitución que ejerzan recursos públicos.
+
+En los casos del Instituto Electoral y el Tribunal Electoral ambos del Estado, las propuestas serán enviadas por las instituciones públicas de educación superior. La convocatoria en todos los casos previstos en esta Ley será abierta para todas las personas.
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2017)</small>
+
+ARTICULO 92 BIS A. La designación de los titulares de los Órganos Internos de Control se llevará a cabo de conformidad con el procedimiento siguiente:
+
+I. La Junta de Coordinación Política propondrá al Pleno la convocatoria para la designación del titular del Órgano Interno de Control correspondiente, la que deberá contemplar que los aspirantes acompañen su declaración de intereses, de conformidad con las disposiciones aplicables;
+
+II. Esta convocatoria será abierta para todas las personas, contendrá las etapas completas para el procedimiento, las fechas límite y los plazos improrrogables, así como los requisitos legales que deben satisfacer los aspirantes y los documentos que deben presentar para acreditarlos;
+
+III. Para ser titular del Órgano Interno de Control de alguno de los organismos con autonomía reconocida en la Constitución y que ejerzan recursos públicos, se deberán cumplir los requisitos que establezcan las leyes de dichos organismos autónomos;
+
+IV. La Mesa Directiva expedirá la convocatoria pública aprobada por el Pleno para la elección del titular del Órgano Interno de Control, misma que deberá publicarse en el Periódico Oficial "El Estado de Sinaloa", en la página web del Congreso y, preferentemente, en periódicos de circulación estatal;
+
+V. Una vez abierto el periodo a que se refiera la convocatoria correspondiente, se recibirán las solicitudes de los aspirantes, por duplicado, y su declaración de intereses, el Presidente de la Mesa Directiva turnará los expedientes a las Comisiones de Puntos Constitucionales y Gobernación y de Fiscalización, mismas que se encargarán de realizar la revisión correspondiente a efecto de determinar aquellos aspirantes que acreditan el cumplimiento de los requisitos exigidos para el cargo por la Constitución y las leyes correspondientes;
+
+VI. En caso de que la Comisión determine que alguno de los aspirantes no cumple con alguno de los requisitos, procederá a desechar la solicitud;
+
+VII. La Comisión elaborará un acuerdo que deberá publicarse en el Periódico Oficial "El Estado de Sinaloa" y en la página web del Congreso, y contendrá lo siguiente:
+
+a) El listado con los aspirantes que hayan cumplido con los requisitos exigidos por la Constitución y las leyes correspondientes;
+
+b) El plazo con que cuentan los aspirantes, cuya solicitud haya sido desechada, para recoger su documentación y fecha límite para ello;
+
+c) El día y hora en donde tendrán verificativo las comparecencias ante la Comisión de los aspirantes que hayan cumplido con los requisitos exigidos, a efecto de garantizar su garantía de audiencia y conocer su interés y razones respecto a su posible designación en el cargo;
+
+VIII. Una vez que se hayan desahogado las comparecencias, la Comisión, sesionará con la finalidad de integrar y revisar los expedientes y entrevistas para la formulación del dictamen que contenga la lista de candidatos aptos para ser votados por el Congreso, y que se hará llegar a la Junta de Coordinación Política;
+
+IX. Los Grupos Parlamentarios, a través de la Junta de Coordinación Política determinarán por el más amplio consenso posible y atendiendo a las consideraciones y recomendaciones que establezca el dictamen de la Comisión, la propuesta del nombre del candidato a titular del Órgano Interno de Control que corresponda;
+
+X. En la sesión correspondiente, se dará a conocer al Pleno la propuesta a que se refiere el inciso anterior, y se procederá a su discusión y votación en los términos que establezca la presente Ley; y
+
+XI. Aprobado el dictamen, cuando así lo acuerde el Presidente, el candidato cuyo nombramiento se apruebe en los términos del presente Capítulo, rendirá la protesta constitucional ante el Pleno en la misma sesión.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE AGOSTO DE 2017)</small>
+
+#### SECCIÓN ÚNICA. DE LA RESPONSABILIDAD DE LOS TITULARES DE LOS ÓRGANOS INTERNOS DE CONTROL
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2017)</small>
+
+ARTICULO 92 BIS B. El Congreso del Estado a través de la instancia que determine la ley, podrá investigar, sustanciar, y resolver sobre las faltas administrativas no graves de los titulares de los Órganos Internos de Control de los organismos con autonomía reconocida en la Constitución y que ejerzan recursos públicos.
+
+Asimismo será competente para investigar y sustanciar las faltas administrativas graves cuya sanción corresponde al Tribunal de Justicia Administrativa, de conformidad con lo dispuesto por la Ley General de Responsabilidades Administrativas, la Ley de Responsabilidades Administrativas del Estado de Sinaloa y demás normas jurídicas aplicables.
+
+En el ejercicio de sus funciones, dicha instancia deberá garantizar la separación entre las áreas encargadas de la investigación, sustanciación y resolución de los procedimientos, en los términos previstos por la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Sinaloa.
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2017)</small>
+
+ARTICULO 92 BIS C. Cualquier persona, cuando presuma que los titulares de los Órganos Internos de Control de cualquiera de los organismos constitucionales autónomos, haya incurrido en los supuestos previstos en el Título VI de la Constitución Política del Estado de Sinaloa, podrá presentar denuncias ante las autoridades correspondientes, acompañándola de los documentos y evidencias en las cuales se sustente.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
 ### CAPÍTULO VIII. DE LA ORGANIZACIÓN TÉCNICA Y ADMINISTRATIVA DEL CONGRESO DEL ESTADO
 
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
-#### SECCIÓN PRIMERA. DE LA SECRETARÍA GENERAL
-
 ### CAPITULO IX. DE LA AUDITORIA SUPERIOR DEL ESTADO
 
 > <small>(REFORMADO, P.O. 25 DE JULIO DE 2008)</small>
 
-### CAPITULO I. DE LOS PERIODOS DE SESIONES
-
-#### SECCIÓN SEGUNDA. DEL INSTITUTO DE INVESTIGACIONES PARLAMENTARIAS
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+#### SECCIÓN PRIMERA. DE LA SECRETARÍA GENERAL
 
 ###### ARTICULO 93.
 
@@ -1237,7 +1299,9 @@ En todos los casos no previstos en este capítulo el Secretario General del Cong
 
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
-#### SECCION PRIMERA. DE LAS SESIONES
+#### SECCIÓN SEGUNDA. DEL INSTITUTO DE INVESTIGACIONES PARLAMENTARIAS
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 102.
 
@@ -1271,9 +1335,9 @@ Al frente del Instituto habrá un Director y contará con las unidades y Departa
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JULIO DE 2008)</small>
 
-#### SECCION SEGUNDA. DEL CEREMONIAL
+#### SECCION PRIMERA. DE LAS SESIONES
 
-### CAPITULO II. DEL PROCESO LEGISLATIVO
+### CAPITULO I. DE LOS PERIODOS DE SESIONES
 
 ###### ARTICULO 103.
 
@@ -1291,9 +1355,7 @@ La Auditoría Superior del Estado, como órgano técnico de fiscalización gener
 
 ## TITULO QUINTO. DEL FUNCIONAMIENTO DEL CONGRESO
 
-### CAPITULO III. DE LA ASISTENCIA DE LOS CIUDADANOS A LAS SESIONES
-
-Y DEL ORDEN PÚBLICO
+### CAPITULO II. DEL PROCESO LEGISLATIVO
 
 ###### ARTICULO 106.
 
@@ -1331,17 +1393,11 @@ Para el caso de la apertura y clausura de sus períodos extraordinarios de sesio
 
 "El Congreso del Estado de Sinaloa (abre-clausura) hoy (fecha) el (número) Período Extraordinario de Sesiones".
 
-### CAPÍTULO III BIS. DE LA DIFUSIÓN DEL TRABAJO PARLAMENTARIO
+### CAPITULO III. DE LA ASISTENCIA DE LOS CIUDADANOS A LAS SESIONES
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+Y DEL ORDEN PÚBLICO
 
-ARTICULO 225 BIS.- El Congreso del Estado contará con un canal televisivo para la permanente difusión de sus sesiones públicas, así como de todas aquellas actividades que contribuyan al desarrollo y fortalecimiento de la cultura parlamentaria y democrática de los sinaloenses.
-
-El Canal Legislativo estará a cargo de la Comisión de Biblioteca, Cultura Parlamentaria y Asuntos Editoriales, la cual será responsable de todo lo relativo a su funcionamiento y estará apoyada por la Dirección de Gestión y Vinculación Social.
-
-En tanto no se establezca previsión presupuestal para la creación de un Canal Televisivo exclusivo del Poder Legislativo del Estado, la Comisión de Biblioteca, Cultura Parlamentaria y Asuntos Editoriales, con apoyo de la Dirección de Gestión y Vinculación Social celebrarán convenios de colaboración con las diversas repetidoras o canales de naturaleza cultural y académica que se proyectan en el Estado, a través de los sistemas ordinario o de cable local, con el fin de posibilitar la inmediata transmisión en vivo o diferido de las sesiones y trabajos de esta Soberanía.
-
-#### SECCION TERCERA. DE LAS INICIATIVAS
+#### SECCION SEGUNDA. DEL CEREMONIAL
 
 ###### ARTICULO 111.
 
@@ -1411,7 +1467,7 @@ Concluido el período de sesiones, los Diputados, con excepción de los que form
 
 Los titulares de las dependencias administrativas del Ejecutivo, asistirán a las sesiones de acuerdo a lo preceptuado por la Constitución, siempre que fueren enviados por el Gobernador o llamados por acuerdo de la Cámara para asistir a alguna discusión para que informen, cuando se discuta una Ley o Decreto o se estudie un negocio concerniente a sus respectivos ramos o actividades. Esta disposición se aplicará asimismo a los representantes del Supremo Tribunal de Justicia del Estado y de los Ayuntamientos.
 
-#### SECCION CUARTA. DE LOS DICTAMENES
+#### SECCION TERCERA. DE LAS INICIATIVAS
 
 ###### ARTICULO 124.
 
@@ -1455,9 +1511,9 @@ Es facultad del Congreso celebrar dentro o fuera del recinto oficial reuniones d
 
 Al término de la sesión de clausura del período ordinario de sesiones, el Presidente del Congreso nombrará una Comisión de Diputados para que participen al Gobernador del Estado y al Presidente del Supremo Tribunal de Justicia la clausura.
 
-#### SECCION QUINTA. DE LAS DISCUSIONES
+#### SECCION CUARTA. DE LOS DICTAMENES
 
-#### SECCION SEXTA. DE LAS VOTACIONES
+#### SECCION QUINTA. DE LAS DISCUSIONES
 
 ###### ARTICULO 134.
 
@@ -1553,7 +1609,7 @@ Para el caso de las iniciativas que quedaren pendientes de resolución de una Le
 
 Toda iniciativa deberá ser dictaminada por la Comisión o las Comisiones respectivas, dentro de un plazo máximo de seis meses, contados a partir del día siguiente en que fueren turnadas a la Comisión o Comisiones correspondientes, con excepción del caso de iniciativas de Ley que propongan nuevos cuerpos normativos.
 
-#### SECCION SEPTIMA. DE LAS OBSERVACIONES DEL EJECUTIVO
+#### SECCION SEXTA. DE LAS VOTACIONES
 
 ###### ARTICULO 148.
 
@@ -1633,7 +1689,7 @@ Si debe ser reformado un dictamen, la Comisión encargada de hacerlo, lo present
 
 Las iniciativas dictaminadas y no aprobadas no podrán volver a presentarse en el mismo período ordinario de sesiones.
 
-#### SECCION OCTAVA. DE LAS DISPENSAS DE TRÁMITE
+#### SECCION SEPTIMA. DE LAS OBSERVACIONES DEL EJECUTIVO
 
 ###### ARTICULO 163.
 
@@ -1785,7 +1841,7 @@ Al empezar la discusión, podrán los Representantes del Ejecutivo informar a la
 
 Los Diputados, cuando aporten algún escrito como anexo a su intervención, pueden solicitar que se transcriba en el acta, siempre que entreguen dicho escrito a la Secretaría.
 
-#### SECCION NOVENA. DE LA EXPEDICIÓN DE LAS LEYES
+#### SECCION OCTAVA. DE LAS DISPENSAS DE TRÁMITE
 
 ###### ARTICULO 192.
 
@@ -1889,6 +1945,8 @@ Mientras se efectúa la votación, ningún Diputado podrá salir del salón ni e
 
 Todas las votaciones de cualquier clase, se verificarán a mayoría absoluta de votos con los Diputados que se encuentren presentes en el momento de la votación, si forman quórum, a no ser en aquellos casos en que la Constitución o esta Ley señalen otra forma.
 
+#### SECCION NOVENA. DE LA EXPEDICIÓN DE LAS LEYES
+
 ###### ARTICULO 209.
 
 Una vez aprobado el proyecto de Ley o Decreto se remitirá al Ejecutivo del Estado, quien si no tuviere observaciones que hacer lo promulgará inmediatamente.
@@ -1935,9 +1993,15 @@ Las Leyes no comprenderán más que un sólo objeto que se expresará siempre en
 
 Toda Ley o Decreto será expedido bajo la firma del Presidente y Secretarios del Congreso, en la siguiente forma: "El Congreso del Estado Libre y Soberano de Sinaloa, representado por su (número de orden) Legislatura, ha tenido a bien expedir la (o el) siguiente Ley (o Decreto); (número) o nombre oficial de la Ley o Decreto". Seguirá el texto y al final dirá: " Es dado en el Palacio del Poder Legislativo del Estado en Culiacán Rosales, Sinaloa a los.... días del mes de......de....."
 
-### CAPITULO IV. DE LA CONSULTA POPULAR
+### CAPÍTULO III BIS. DE LA DIFUSIÓN DEL TRABAJO PARLAMENTARIO
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+
+ARTICULO 225 BIS.- El Congreso del Estado contará con un canal televisivo para la permanente difusión de sus sesiones públicas, así como de todas aquellas actividades que contribuyan al desarrollo y fortalecimiento de la cultura parlamentaria y democrática de los sinaloenses.
+
+El Canal Legislativo estará a cargo de la Comisión de Biblioteca, Cultura Parlamentaria y Asuntos Editoriales, la cual será responsable de todo lo relativo a su funcionamiento y estará apoyada por la Dirección de Gestión y Vinculación Social.
+
+En tanto no se establezca previsión presupuestal para la creación de un Canal Televisivo exclusivo del Poder Legislativo del Estado, la Comisión de Biblioteca, Cultura Parlamentaria y Asuntos Editoriales, con apoyo de la Dirección de Gestión y Vinculación Social celebrarán convenios de colaboración con las diversas repetidoras o canales de naturaleza cultural y académica que se proyectan en el Estado, a través de los sistemas ordinario o de cable local, con el fin de posibilitar la inmediata transmisión en vivo o diferido de las sesiones y trabajos de esta Soberanía.
 
 ###### ARTICULO 220.
 
@@ -1965,13 +2029,13 @@ Cuando el Congreso o su Presidente lo consideren conveniente, ordenarán que se 
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
+### CAPITULO IV. DE LA CONSULTA POPULAR
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
+
 ### CAPITULO V. DE LAS REFORMAS A LA CONSTITUCION
 
 ### CAPITULO UNICO. DE LA ORGANIZACION DEL JURADO Y PERSONAS SUJETAS A SU JURISDICCION
-
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 226.
 
@@ -1992,6 +2056,10 @@ IV.- Bases para su desarrollo.
 ###### ARTICULO 228.
 
 Una vez concluida la consulta pública y previo informe que al respecto se presente a la Cámara, el Congreso podrá ordenar la publicación de la memoria de la consulta o de las conclusiones en su caso.
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 229.
 
@@ -2270,3 +2338,9 @@ P.O. 29 DE ENERO DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+P.O. 2 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 205 DEL H. CONGRESO DEL ESTADO.- QUE ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE SINALOA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
