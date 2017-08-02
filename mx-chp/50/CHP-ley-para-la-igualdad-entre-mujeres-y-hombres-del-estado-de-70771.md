@@ -4,7 +4,7 @@ identifier: "CHP-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-7077
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-23"
-last_updated: "2016-05-25"
+last_updated: "2017-08-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE DESARROLLO CONSTITUCIONAL PARA LA IGUALDAD DE GÉNERO Y ACCESO A UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES, PUBLICADA EN EL P.O. DE 2 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2017 (ABROGADA).
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 23 de septiembre de 2009.
 
@@ -708,3 +710,21 @@ Artículo Segundo.- Se derogan todas las disposiciones que contravengan al prese
 Artículo Tercero.- La primera reunión ordinaria del Consejo Consultivo del Sistema Estatal para la Igualdad entre Mujeres y Hombres, será convocada por su Secretario Técnico por instrucción del Presidente dentro de los sesenta días hábiles siguientes a la publicación del presente Decreto. En dicha sesión se integrará el Consejo Consultivo y se aprobará el calendario de las sesiones ordinarias subsecuentes.
 
 Artículo Cuarto.- La Secretaría para el Desarrollo y Empoderamiento de las Mujeres, en un término no mayor de noventa días hábiles, contados a partir de la publicación del presente Decreto, deberá someter a consideración del Titular del Poder Ejecutivo del Estado el proyecto del Reglamento de la presente Ley, para efectos de su expedición y publicación correspondiente.
+
+P.O. 2 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 203 LEY DE DESARROLLO CONSTITUCIONAL PARA LA IGUALDAD DE GÉNERO Y ACCESO A UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES”.]
+
+Artículo Primero.- La presente Ley de Desarrollo Constitucional para la Igualdad de género y Acceso a una Vida Libre de Violencia para las Mujeres, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga la Ley para la Igualdad entre Mujeres y Hombres del Estado de Chiapas, publicado el periódico Oficial del Estado número 189 segunda sección, tomo III, de fecha 23 de septiembre de 2009, así como todas sus reformas y adiciones.
+
+Artículo Tercero.- Se abroga la Ley de Acceso a una Vida Libre de Violencia para las Mujeres en el Estado de Chiapas, publicado el periódico Oficial del Estado número 152, de fecha 23 de marzo de 2009, así como todas sus reformas y adiciones.
+
+Artículo Cuarto.- Los Consejos propondrán al Ejecutivo del Estado dentro de los 180 días naturales siguientes a la publicación de la presente Ley, proyecto de Reglamento Interior de la misma.
+
+Artículo Quinto.- Los servidores públicos designados previamente a la entrada en vigor del presente decreto, mantendrán a salvo sus derechos.
+
+Artículo Sexto.- Los procedimientos que estén en trámites antes de la entrada en vigor de la presente Ley, concluirán conforme a la normatividad que les fue aplicable en el momento del inicio del procedimiento.
+
+Artículo Séptimo.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
