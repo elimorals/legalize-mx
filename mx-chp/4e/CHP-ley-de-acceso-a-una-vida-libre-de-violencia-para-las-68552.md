@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-acceso-a-una-vida-libre-de-violencia-para-las-68552"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-23"
-last_updated: "2016-08-10"
+last_updated: "2017-08-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHP"
 ---
 # LEY DE ACCESO A UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE DESARROLLO CONSTITUCIONAL PARA LA IGUALDAD DE GÉNERO Y ACCESO A UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES, PUBLICADA EN EL P.O. DE 2 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE ACCESO A UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE CHIAPAS
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 11 DE MAYO DE 2016, SE DEROGARON LAS DENOMINACIONES DE LOS CAPÍTULOS II; III; IV; V; VI; VII; VIII; IX; X; XI; XII; MODIFICANDO DE FORMA SUSTANCIA LA ESTRUCTURA DEL PRESENTE ORDENAMIENTO.]</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el lunes 23 de marzo de 2009.
 
@@ -1210,3 +1210,21 @@ Artículo Cuarto.- La Secretaría para el Desarrollo y Empoderamiento de las Muj
 Artículo Quinto.- Las referencias, atribuciones o menciones que hagan otros ordenamientos legales, normativos o administrativos, en relación a que es el Sistema para el Desarrollo Integral de la Familia del Estado de Chiapas quien recabe, integre y organice el Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres, se entenderán conferidas a la Secretaría para el Desarrollo y Empoderamiento de las Mujeres.
 
 Artículo Sexto.- La Secretaría para el Desarrollo y Empoderamiento de las Mujeres, a partir de la entrada en vigor del presente Decreto, deberá rendir el informe correspondiente al Banco Nacional de Datos e Información sobre Casos de Violencia contra las Mujeres, con base a la información actualizada que recabe, integre y organice.
+
+P.O. DE 2 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 203 LEY DE DESARROLLO CONSTITUCIONAL PARA LA IGUALDAD DE GÉNERO Y ACCESO A UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES”.]
+
+Artículo Primero.- La presente Ley de Desarrollo Constitucional para la Igualdad de género y Acceso a una Vida Libre de Violencia para las Mujeres, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga la Ley para la Igualdad entre Mujeres y Hombres del Estado de Chiapas, publicado el (sic) periódico Oficial del Estado número 189 segunda sección, tomo III, de fecha 23 de septiembre de 2009, así como todas sus reformas y adiciones.
+
+Artículo Tercero.- Se abroga la Ley de Acceso a una Vida Libre de Violencia para las Mujeres en el Estado de Chiapas, publicado el (sic) periódico Oficial del Estado número 152, de fecha 23 de marzo de 2009, así como todas sus reformas y adiciones.
+
+Artículo Cuarto.- Los Consejos propondrán al Ejecutivo del Estado dentro de los 180 días naturales siguientes a la publicación de la presente Ley, proyecto de Reglamento Interior de la misma.
+
+Artículo Quinto.- Los servidores públicos designados previamente a la entrada en vigor del presente decreto, mantendrán a salvo sus derechos.
+
+Artículo Sexto.- Los procedimientos que estén en trámites antes de la entrada en vigor de la presente Ley, concluirán conforme a la normatividad que les fue aplicable en el momento del inicio del procedimiento.
+
+Artículo Séptimo.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
