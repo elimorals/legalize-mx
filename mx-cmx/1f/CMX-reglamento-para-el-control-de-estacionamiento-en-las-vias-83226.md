@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-control-de-estacionamiento-en-las-vias-83226
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-10-11"
-last_updated: "2017-02-16"
+last_updated: "2017-08-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83226&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2011-10-10"
 
 REGLAMENTO PARA EL CONTROL DE ESTACIONAMIENTO EN LAS VÍAS PÚBLICAS DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 16 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 2 DE AGOSTO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 11 de octubre de 2011.
 
@@ -437,3 +437,23 @@ G.O. 16 DE FEBRERO DE 2017.
 Primero.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 2 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO PARA EL CONTROL DE ESTACIONAMIENTO EN VÍA PÚBLICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Los contratos, concesiones, permisos, licencias, o bien, cualquier otro instrumento jurídico otorgado con anterioridad a la entrada en vigor del presente Reglamento, mediante los cuales se encuentre operando algún servicio de estacionamiento en vía pública, seguirán vigentes en apego a las disposiciones normativas que les dieron origen, hasta en tanto se cumpla su fin u objeto, o bien, fenezca el término de vigencia establecido en los mismos.
+
+CUARTO.-La Secretaría realizará las acciones conducentes para la adecuada aplicación del presente Reglamento.
+
+QUINTO.- Las sanciones previstas en el presente Reglamento se aplicarán sin perjuicio de lo dispuesto en otras leyes y reglamentos.
+
+SEXTO.- Se abroga el REGLAMENTO PARA EL CONTROL DE ESTACIONAMIENTOS EN LAS VÍAS PÚBLICAS DEL DISTRITO FEDERAL, publicado en la Gaceta Oficial del Distrito Federal, el 11 de octubre de 2011 y demás disposiciones que contravengan el presente Reglamento.
+
+SÉPTIMO.- Se abroga el ACUERDO POR EL QUE SE ESTABLECE EL PROGRAMA PARA LA REHABILITACIÓN DE ESPACIOS PÚBLICOS, INFRAESTRUCTURA Y EQUIPAMIENTO URBANO, MEDIANTE EL CONTROL DE ESTACIONAMIENTOS EN LAS VÍAS PÚBLICAS DEL DISTRITO FEDERAL, publicado en la Gaceta Oficial del Distrito Federal, el 5 de julio de 2010, así como sus correspondientes acuerdos modificatorios.
+
+OCTAVO.- La Secretaría contará con sesenta días naturales, a partir de la vigencia del presente Reglamento, para emitir los lineamientos a que se refiere el presente.
