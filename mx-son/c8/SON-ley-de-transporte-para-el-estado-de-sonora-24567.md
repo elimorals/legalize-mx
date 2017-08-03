@@ -4,7 +4,7 @@ identifier: "SON-ley-de-transporte-para-el-estado-de-sonora-24567"
 country: "mx"
 rank: "ley"
 publication_date: "2002-03-08"
-last_updated: "2013-12-23"
+last_updated: "2017-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE TRANSPORTE PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
 
 Ley publicada en la Edición Especial del Boletín Oficial del Estado de Sonora, el viernes 8 de marzo de 2002.
 
@@ -455,7 +455,7 @@ El Ejecutivo Estatal, podrá convenir con el Ejecutivo Federal o con los ayuntam
 
 El Ejecutivo Estatal ordenará la publicación, en el Boletín Oficial del Gobierno del Estado, de los convenios que suscriba con el Gobierno Federal o con los ayuntamientos.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 25 DE MARZO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 25 DE MARZO DE 2011)</small>
 
 ### CAPITULO V. DE LAS COMISIONES MUNICIPALES REGULADORAS DEL TRANSPORTE COLECTIVO URBANO Y DE LA PARTICIPACION SOCIAL
 
@@ -1955,7 +1955,7 @@ V.- Revocación de concesiones y permisos para los servicios público y privado 
 
 Las sanciones establecidas en el artículo anterior serán aplicadas conforme a su competencia, por la Secretaría de Infraestructura Urbana y Ecología, las Delegaciones Regionales, los ayuntamientos y en su caso por las Comisiones Municipales Reguladoras del Transporte Colectivo Urbano, en los términos que esta Ley establece.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 25 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 25 DE MARZO DE 2011)</small>
 
 ###### Artículo 150.
 
@@ -1991,11 +1991,11 @@ También se aplicará la revocación en los casos consignados en el capítulo VI
 
 La suspensión de la prestación del servicio público de transporte, procederá hasta por el término de treinta días a juicio de la Secretaría de Infraestructura Urbana y Ecología.
 
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 153.
 
-La multa será la que se establezca en las leyes de Ingresos de la (sic) autoridades competentes, las cuales no podrá ser mayor al equivalente a cien veces el salario mínimo general vigente en la zona donde se cometa la infracción.
-
-En caso de reincidencia se duplicará la multa. Para los efectos de esta Ley, se entiende por reincidencia la comisión de las infracciones previstas en la misma en tres ocasiones o más, en un plazo de tres meses.
+La multa será la que se establezca en las leyes de Ingresos de la (sic) autoridades competentes, las cuales (sic) no podrá ser mayor al equivalente a cien Unidades de Medida y Actualización. En caso de reincidencia se duplicará la multa. Para los efectos de esta Ley, se entiende por reincidencia la comisión de las infracciones previstas en la misma en tres ocasiones o más, en un plazo de tres meses.
 
 ###### Artículo 154.
 
@@ -2247,7 +2247,7 @@ COMUNIQUESE AL TITULAR DEL PODER EJECUTIVO PARA SU SANCION Y PROMULGACION.- SALO
 
 POR TANTO, MANDO SE PUBLIQUE EN EL BOLETIN OFICIAL DEL ESTADO Y SE LE DE EL DEBIDO CUMPLIMIENTO.- PALACIO DE GOBIERNO, HERMOSILLO, SONORA, OCHO DE MARZO DEL DOS MIL DOS.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- ARMANDO LOPEZ NOGALES.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- OSCAR LOPEZ VUCOVICH.- RUBRICA.-
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 B.O. 26 DE JUNIO DE 2003.
 
@@ -2280,3 +2280,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 Para la aplicación de la Tarifa Especial Extraordinaria que describe el Artículo 89, fracción I, inciso c; en aquellas ciudades cuyos servicios de transporte público urbano no cuenten con los sistemas tecnológicos adecuados para el control en el otorgamiento de este beneficio a los estudiantes; el Ejecutivo Estatal deberá establecer los programas de modernización tecnológica que sean necesarios en un plazo no mayor a 210 días naturales a partir de la publicación de la presente Ley; con la finalidad de que todos los estudiantes en el Estado de Sonora accedan al beneficio de esta Tarifa Especial Extraordinaria.
 
 El Ejecutivo Estatal una vez establecidos los controles tecnológicos adecuados en cada ciudad, deberá informarlo al Consejo Ciudadano, a fin de que éste considere los porcentajes de descuento que establece la Tarifa Especial Extraordinaria en la fórmula para la determinación de la Tarifa Técnica, y por consecuencia se realicen los ajustes necesarios en la Tarifa al Usuario.
+
+B.O. 3 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 148, QUE REFORMA DIVERSAS DISPOSICIONES DE LEY ANTICORRUPCIÓN EN CONTRATACIONES PÚBLICAS PARA EL ESTADO DE SONORA, LEY DE BIENES Y CONCESIONES DEL ESTADO DE SONORA, LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA, LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SONORA, LEY DE FOMENTO DE LA CULTURA Y PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE SONORA, LEY DE AGUA DEL ESTADO DE SONORA, LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, LEY DE GANADERÍA PARA EL ESTADO DE SONORA, CÓDIGO FISCAL DEL ESTADO DE SONORA, LEY DE FOMENTO AL EMPLEO PARA EL ESTADO DE SONORA, LEY "5 DE JUNIO" QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE SONORA, LEY DE ALIANZAS PÚBLICO PRIVADAS DE SERVICIOS DEL ESTADO DE SONORA, LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL, LEY DE PESCA Y ACUICULTURA PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE SONORA, LEY DE PROFESIONES DEL ESTADO DE SONORA, LEY DE PROTECCIÓN DE ANIMALES PARA EL ESTADO DE SONORA, LEY DE PROTECCIÓN CIUDADANA CONTRA LOS EFECTOS NOCIVOS DEL TABACO, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SONORA, LEY DE RECONOCIMIENTOS AL MÉRITO CÍVICO, LEY DE REGULACIÓN Y FOMENTO DE TIEMPO COMPARTIDO PARA EL ESTADO DE SONORA, LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICO (SIC) DEL ESTADO Y DE LOS MUNICIPIOS, LEY DE SALUD PARA EL ESTADO DE SONORA, LEY DE TRANSPORTE PARA EL ESTADO DE SONORA, LEY DE TRÁNSITO DEL ESTADO DE SONORA, LEY DE VIVIENDA PARA EL ESTADO, LEY DEL NOTARIADO PARA EL ESTADO DE SONORA, LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO, LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL ESTADO DE SONORA, LEY QUE CREA EL REGISTRO DE AGENTES INMOBILIARIOS, LEY QUE CREA LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, LEY QUE DETERMINA LAS BASES DE OPERACIÓN DE LAS CASAS DE EMPEÑO DEL ESTADO DE SONORA, LEY QUE ESTABLECE EL ARANCEL PARA LOS NOTARIOS, LEY QUE ESTABLECE EL SISTEMA DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE SONORA, LEY QUE REGULA LA ADMINISTRACIÓN DE DOCUMENTOS ADMINISTRATIVOS E HISTÓRICOS, LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA, LEY DE INTEGRACIÓN SOCIAL PARA PERSONAS CON DISCAPACIDAD DEL ESTADO DE SONORA, LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA, LEY DE LOS DERECHOS DE LOS CONTRIBUYENTES DEL ESTADO DE SONORA, LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA, LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA, LEY DE HACIENDA DEL ESTADO, LEY DE HACIENDA MUNICIPAL, CÓDIGO PENAL DEL ESTADO DE SONORA, CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA, CÓDIGO CIVIL PARA EL ESTADO DE SONORA, LEY DE EJECUCIÓN DE SANCIONES PENALES Y MEDIDAS DE SEGURIDAD DEL ESTADO DE SONORA, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE SONORA, LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SONORA, LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN, TRATAMIENTO, REHABILITACIÓN Y CONTROL DE ADICCIONES DEL ESTADO DE SONORA, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA; LEY PARA LA PROTECCIÓN DE PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL PARA EL ESTADO DE SONORA, LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LA TORTURA EN EL ESTADO DE SONORA, LEY QUE REGULA EL FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DONDE OPEREN MÁQUINAS ELECTRÓNICAS DE JUEGO CON SORTEO DE NÚMEROS Y APUESTA, LEY QUE REGULA EL FUNCIONAMIENTO Y OPERACIÓN DE LOS ESTABLECIMIENTOS COMERCIALES QUE PRESTAN AL PÚBLICO EL SERVICIO DE ACCESO A INTERNET EN FORMA ONEROSA EN EL ESTADO DE SONORA Y LEY QUE REGULA LA PRÁCTICA PROFESIONAL DEL BOX, LUCHA LIBRE Y ARTES MARCIALES MIXTAS EN EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
