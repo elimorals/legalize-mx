@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2017-07-06"
+last_updated: "2017-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,15 @@ state: "SON"
 ---
 # LEY DE HACIENDA DEL ESTADO DE SONORA
 
-[NOTA 3. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2017, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 6 DE JULIO DE 2017.]
+[NOTA 1. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 [NOTA 2. DE ACUERDO AL ARTÍCULO TRANSITORIO TERCERO DEL DECRETO NÚMERO 106, PUBLICADO EN EL B.O. DE 26 DE DICIEMBRE DE 2016, CUANDO SE SEÑALE EN EL CÓDIGO FISCAL DEL ESTADO Y LEY DE HACIENDA DEL ESTADO, LA MENCIÓN DE SALARIOS MÍNIMOS EN EL ÁREA GEOGRÁFICA "B", DEBERÁ ENTENDERSE COMO LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN, EN VIRTUD DEL ACUERDO DE LA JUNTA DE GOBIERNO POR EL QUE SE APRUEBAN LAS REFORMAS AL REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN CON FECHA 22 DE DICIEMBRE DE 2015, CON VIGENCIA PARA LOS ARTÍCULOS 19 Y 23 DEL CITADO REGLAMENTO, UNA VEZ QUE ESTÉ VIGENTE EL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO, DECRETO QUE FUE PUBLICADO EN EL MISMO ÓRGANO DE DIFUSIÓN CON FECHA 27 DE ENERO DE 2016, VIGENTE EL DÍA SIGUIENTE AL DE SU CITADA PUBLICACIÓN Y POR ÚLTIMO CON RELACIÓN A LA PUBLICACIÓN EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE FECHA 28 DE ENERO DE 2016, EN EL QUE SE DETERMINARON EL VALOR DIARIO, MENSUAL Y ANUAL EN EL AÑO 2016.]
 
-[NOTA 1. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+[NOTA 3. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2017, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 6 DE JULIO DE 2017.]
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976.
 
@@ -1575,8 +1575,6 @@ Remolques: $350.00 $200.00 $175.00
 
 La tasa del impuesto, será:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 I.- Cuando por la naturaleza de la operación o por las condiciones pactadas no fuere posible determinar el valor de los bienes muebles al realizarse la operación se pagará $1,000.00 por cada uno o juego de muebles afines, salvo que se trate de vehículos de propulsión mecánica.
@@ -1591,9 +1589,9 @@ III.- (DEROGADA, B.O. 29 DE DICIEMBRE DE 1983)
 
 IV.- Cuando no sea posible especificar en forma separada el valor de los muebles e inmuebles: 3%.
 
-> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
 
-Cuando el sujeto del impuesto acredite su calidad de jubilado, pensionado o persona adulta de 60 años o más edad, en los términos del artículo 298, fracción II del presente ordenamiento o que presta sus servicios como socorrista de Cruz Roja Mexicana, I. A. P., en cualquiera de las Delegaciones o Bases en el Estado de Sonora, con una antigüedad de, por lo menos, cuatro años, se aplicará la tasa correspondiente reducida en un 50%, siempre y cuando se trate de operaciones que no excedan de seis veces el salario mínimo general diario vigente en el área geográfica de que se trate, elevado al año; esta reducción será efectiva en el Impuesto que corresponda al ejercicio fiscal en curso.
+Cuando el sujeto del impuesto acredite su calidad de jubilado, pensionado o persona adulta de 60 años o más edad, en los términos del artículo 298, fracción II del presente ordenamiento o que presta sus servicios como socorrista de Cruz Roja Mexicana, I. A. P., en cualquiera de las Delegaciones o Bases en el Estado de Sonora, con una antigüedad de, por lo menos, cuatro años, se aplicará la tasa correspondiente reducida en un 50%, siempre y cuando se trate de operaciones que no excedan de seis Unidades de Medida y Actualización, elevado al año; esta reducción será efectiva en el Impuesto que corresponda al ejercicio fiscal en curso.
 
 ###### Artículo 189 Bis.
 
@@ -1617,17 +1615,17 @@ IV.- Las autoridades federales, estatales o municipales competentes en el Estado
 
 (DEROGADO, B.O. 29 DE DICIEMBRE DE 1983)
 
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 192.
 
 El impuesto deberá pagarse en la oficina recaudadora o en las instituciones autorizadas para tal efecto, del domicilio de cualquiera de los sujetos o del lugar en que se celebró la operación.
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1999)</small>
-
 ###### Artículo 193.
 
 El pago del impuesto se hará dentro de los veinte días siguientes a la operación si consta en documento privado. Si consta en documento público, el pago se hará antes de que el documento sea autorizado por el notario o funcionario correspondiente.
+
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 194.
 
@@ -2151,31 +2149,21 @@ I.- Contraprestaciones a que se refiere el artículo 213 del presente ordenamien
 
 Tratándose de organismos descentralizados del Estado de Sonora y de los municipios del Estado, sólo estarán exentos cuando realicen actividades con fines no lucrativos;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 II.- (DEROGADA, B.O. 26 DE DICIEMBRE DE 2016)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 III.- (DEROGADA, B.O. 26 DE DICIEMBRE DE 2016)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
 IV.- Contraprestaciones cubiertas por instituciones y asociaciones con fines no lucrativos que promuevan o realicen asistencia social en cualquiera de sus formas, así como las que lleven a cabo gratuitamente, actividades sociales, deportivas o culturales.
 
-> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2017)</small>
 
-V.- Contraprestaciones cubiertas por contribuyentes que tengan contratados un máximo de 20 trabajadores, a quienes se les exentará de la base de este impuesto, un monto equivalente a un salario mínimo general del área geográfica que corresponda al domicilio del Contribuyente elevado al mes por cada trabajador hasta un máximo de 5 trabajadores, al cual no se le podrá acumular estímulos o beneficios de otras Leyes afines. Por el excedente se pagará el impuesto en los términos del Artículo 216 de este Capítulo. Para acogerse a este beneficio sé deberá considerar la suma total de empleados contratados en cada una de las sucursales, en caso de que los hubiere.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+V.- Contraprestaciones cubiertas por contribuyentes que tengan contratados un máximo de 20 trabajadores, a quienes se les exentará de la base de este impuesto, un monto equivalente a una Unidad de Medida y Actualización al domicilio del Contribuyente elevado al mes por cada trabajador hasta un máximo de 5 trabajadores, al cual no se le podrá acumular estímulos o beneficios de otras Leyes afines. Por el excedente se pagará el impuesto en los términos del Artículo 216 de este Capítulo. Para acogerse a este beneficio se deberá considerar la suma total de empleados contratados en cada una de las sucursales, en caso de que los hubiere.
 
 > <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1999)</small>
 
 VI.- Contraprestaciones pagadas a personas con discapacidad;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 VII.- (DEROGADA, B.O. 26 DE DICIEMBRE DE 2016)
 
@@ -2199,19 +2187,17 @@ XI.- Primas de seguro de gastos médicos y de vida;
 
 XII.- Aportación del patrón a los fondos de ahorro siempre y cuando se integre por una cantidad igual a la aportada por el trabajador y se retire una vez al año, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 XIII.- Pagos que resulten del subsidio para el empleo conforme a la Ley del Impuesto Sobre la Renta.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 XIV.- (DEROGADA, B.O. 26 DE DICIEMBRE DE 2016)
 
-> <small>(ADICIONADA, B.O. 2 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
 
-XIV Bis.- Al patrón que contrate algún trabajador de recién ingreso para ocupar algún puesto de nueva creación, sin que pueda recibir este beneficio alguna entidad o dependencia pública, siendo aplicable únicamente respecto de trabajadores que perciban, diariamente, hasta seis veces el salario mínimo general vigente en el Estado prevaleciente en la zona donde se haya dado la contratación.
+XIV Bis.- Al patrón que contrate algún trabajador de recién ingreso para ocupar algún puesto de nueva creación, sin que pueda recibir este beneficio alguna entidad o dependencia pública, siendo aplicable únicamente respecto de trabajadores que perciban, diariamente, hasta seis Unidades de Medida y Actualización en el Estado prevaleciente en la zona donde se haya dado la contratación.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], B.O. 2 DE JUNIO DE 2014)</small>
 
 Para los efectos de la presente fracción, se entenderá por trabajador de recién ingreso, la persona que preste sus servicios a su patrón y que cumpla con una o más de las siguientes características:
 
@@ -2383,9 +2369,9 @@ La Secretaría de Hacienda del Estado de oficio podrá inscribir a los contribuy
 
 II.- Presentar las declaraciones correspondientes para el pago del impuesto así como los demás avisos correspondientes al Registro Estatal de Contribuyentes;
 
-> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
 
-Para efectos del segundo párrafo de la fracción I de este Artículo y de requerir las declaraciones respectivas, en los términos del Código Fiscal del Estado, la Secretaría de Hacienda podrá calcular el Impuesto Omitido, multiplicando dos salarios mínimos de la zona geográfica que corresponda al contribuyente elevados al mes y los meses a notificar por el número de trabajadores registrados en el Instituto Mexicano del Seguro Social o por los que resulten de las evidencias documentales que recabe.
+Para efectos del segundo párrafo de la fracción I de este Articulo y de requerir las declaraciones respectivas, en los términos del Código Fiscal del Estado, la Secretaria de Hacienda podrá calcular el Impuesto omitido, multiplicando dos Unidades de Medida y Actualización elevados al mes y los meses a notificar por el número de trabajadores registrados en el Instituto Mexicano del Seguro Social o por los que resulten de las evidencias documentales que recabe.
 
 > <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
@@ -2403,8 +2389,6 @@ Se considerará como matriz o principal asiento del negocio, a la sucursal ubica
 
 Tratándose del establecimiento de varias sucursales de una misma empresa, en el territorio del Estado, la primera en establecerse se inscribirá en el Registro Estatal de Contribuyentes debiendo las restantes presentar ante la oficina recaudadora correspondiente, únicamente el aviso de apertura del establecimiento y acompañar copia del aviso de inscripción de la empresa matriz que efectuará los pagos a cuenta de ella;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 Los contribuyentes que cuenten con varias sucursales en el Estado y que por cuestiones contables deban pagar el impuesto por cada sucursal, deberán obtener autorización por escrito de la Secretaría de Hacienda para tales efectos, a la cual se le denominará Oficina Administrativa. En este caso no podrán ser beneficiarios de lo establecido en la fracción V del artículo 218 de esta Ley.
@@ -2416,8 +2400,6 @@ IV.- Los contribuyentes que dejen de causar este impuesto, presentarán por una 
 > <small>(REFORMADA, B.O. 23 DE DICIEMBRE DE 2002)</small>
 
 V.- Las personas físicas que tengan registrados varios establecimientos con distintas actividades deberán presentar una sola declaración del impuesto en la oficina recaudadora o institución autorizada al efecto, correspondiente a su domicilio fiscal. En dicha declaración deberán incluirse las erogaciones en forma desglosada de cada uno de los establecimientos;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -3567,11 +3549,11 @@ Fabricación (Hectolitros)
 
 Hasta 2,000 10,000
 
-2,001 - 4,000 20,000
+2,001 – 4,000 20,000
 
-4001 - 6,000 30,000
+4001 – 6,000 30,000
 
-6001 - 10,000 40,000
+6001 – 10,000 40,000
 
 > <small>(ADICIONADO, B.O. 4 DE DICIEMBRE DE 2014)</small>
 
@@ -3651,11 +3633,11 @@ Volumen Anual en Hectolitros Revalidación
 
 Hasta 2,000 10,000
 
-2,001 - 4,000 15,000
+2,001 – 4,000 15,000
 
-4001 - 6,000 20,000
+4001 – 6,000 20,000
 
-6001 - 10,000 25,000
+6001 – 10,000 25,000
 
 > <small>(ADICIONADO, B.O. 4 DE DICIEMBRE DE 2014)</small>
 
@@ -4855,9 +4837,9 @@ b).- Por la búsqueda N$ 20.00
 
 14.- Por autorización o reubicación en la modalidad de automóviles de alquiler.
 
-a) Autorización o reubicación de sitio . (sic)
+a) Autorización o reubicación de sitio … (sic)
 
-b) Reubicación de lugar de sitio por unidad . (sic)
+b) Reubicación de lugar de sitio por unidad … (sic)
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -4987,13 +4969,9 @@ En los casos que la transmisión de la propiedad del bien inmueble o de cualquie
 
 $2,500.00
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 26 DE DICIEMBRE DE 2016)</small>
 
 Tratándose de transmisión de propiedad destinada para vivienda, cuyo valor tomando como base el más alto entre el avalúo catastral, el comercial y el precio pactado de la operación, no supere la suma del que resulte de multiplicar 25 veces elevado al año de la Unidad de Medida y Actualización, por cada acto jurídico se cobrará: $679.00
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
@@ -5007,7 +4985,9 @@ $2,500.00
 
 c) Por el que contenga gravamen hipotecario, se cobrará: $2,030.00
 
-Tratándose de transmisión de propiedad destinada para vivienda cuyo valor, tomando como base el valor más alto entre el avaluó catastral, el comercial y el precio pactado de la operación, no supere la suma que resulte de multiplicar 25 veces el salario mínimo general elevado al año vigente en el área geográfica de que se trate, por cada acto jurídico se cobrará: $660.00
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
+
+Tratándose de transmisión de propiedad destinada para vivienda cuyo valor, tomando como base el valor más alto entre el avaluó catastral, el comercial y el precio pactado de la operación, no supere la suma que resulte de multiplicar 25 Unidades de Medida y Actualización, por cada acto jurídico se cobrará: $660.00
 
 d) Por el que se grave, limite, modifique la propiedad de un bien inmueble o de cualquier derecho real derivado de un contrato de crédito habilitación, avío o refaccionario, por cada acto jurídico se cobrará:
 
@@ -5175,13 +5155,11 @@ VI.- Tratándose del testamento publico simplificado o de títulos de propiedad 
 
 Las tarifas de este Capítulo cuando comprendan dos o más cuotas y ya sean especificadas o proporcionales, se aplicarán progresivamente y acumulativamente.
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2017, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 6 DE JULIO DE 2017.]</small>
-
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 323.
 
-Se exceptúan de los derechos por registro de documentos públicos o privados en que se reconozca, adquiera, transmita, modifique, grave o extinga la propiedad originaria de bienes inmuebles y cualquier derecho real sobre los mismos, a que se refiere el punto 1 del Artículo 321 de este ordenamiento, al Estado, Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora, Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, e instituciones de asistencia privada autorizadas por la Junta de Asistencia Privada de la Secretaría de Salud, cuando intervengan como parte activa en los actos jurídicos en ellos contenidos.
+Se exceptúan de los derechos por registro de documentos públicos o privados en que se reconozca, adquiera, transmita, modifique, grave o extinga la propiedad originaria de bienes inmuebles y cualquier derecho real sobre los mismos, a que se refiere el punto 1 del Artículo 321 de este ordenamiento, al Estado, Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora, Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, a los Municipios, Organismos Descentralizados Municipales y a las instituciones de asistencia privada autorizadas por la Junta de Asistencia Privada de la Secretaría de Salud, cuando intervengan como parte activa en los actos jurídicos en ellos contenidos.
 
 > <small>(REFORMADO, B.O. 10 DE NOVIEMBRE DE 2011)</small>
 
@@ -7314,3 +7292,19 @@ B.O. 6 DE JULIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 3 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 159, QUE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 323 DE LA LEY DE HACIENDA DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 3 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 148, QUE REFORMA DIVERSAS DISPOSICIONES DE LEY ANTICORRUPCIÓN EN CONTRATACIONES PÚBLICAS PARA EL ESTADO DE SONORA, LEY DE BIENES Y CONCESIONES DEL ESTADO DE SONORA, LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA, LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SONORA, LEY DE FOMENTO DE LA CULTURA Y PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE SONORA, LEY DE AGUA DEL ESTADO DE SONORA, LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, LEY DE GANADERÍA PARA EL ESTADO DE SONORA, CÓDIGO FISCAL DEL ESTADO DE SONORA, LEY DE FOMENTO AL EMPLEO PARA EL ESTADO DE SONORA, LEY "5 DE JUNIO" QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE SONORA, LEY DE ALIANZAS PÚBLICO PRIVADAS DE SERVICIOS DEL ESTADO DE SONORA, LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL, LEY DE PESCA Y ACUICULTURA PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE SONORA, LEY DE PROFESIONES DEL ESTADO DE SONORA, LEY DE PROTECCIÓN DE ANIMALES PARA EL ESTADO DE SONORA, LEY DE PROTECCIÓN CIUDADANA CONTRA LOS EFECTOS NOCIVOS DEL TABACO, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SONORA, LEY DE RECONOCIMIENTOS AL MÉRITO CÍVICO, LEY DE REGULACIÓN Y FOMENTO DE TIEMPO COMPARTIDO PARA EL ESTADO DE SONORA, LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICO (SIC) DEL ESTADO Y DE LOS MUNICIPIOS, LEY DE SALUD PARA EL ESTADO DE SONORA, LEY DE TRANSPORTE PARA EL ESTADO DE SONORA, LEY DE TRÁNSITO DEL ESTADO DE SONORA, LEY DE VIVIENDA PARA EL ESTADO, LEY DEL NOTARIADO PARA EL ESTADO DE SONORA, LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO, LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL ESTADO DE SONORA, LEY QUE CREA EL REGISTRO DE AGENTES INMOBILIARIOS, LEY QUE CREA LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, LEY QUE DETERMINA LAS BASES DE OPERACIÓN DE LAS CASAS DE EMPEÑO DEL ESTADO DE SONORA, LEY QUE ESTABLECE EL ARANCEL PARA LOS NOTARIOS, LEY QUE ESTABLECE EL SISTEMA DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE SONORA, LEY QUE REGULA LA ADMINISTRACIÓN DE DOCUMENTOS ADMINISTRATIVOS E HISTÓRICOS, LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA, LEY DE INTEGRACIÓN SOCIAL PARA PERSONAS CON DISCAPACIDAD DEL ESTADO DE SONORA, LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA, LEY DE LOS DERECHOS DE LOS CONTRIBUYENTES DEL ESTADO DE SONORA, LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA, LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA, LEY DE HACIENDA DEL ESTADO, LEY DE HACIENDA MUNICIPAL, CÓDIGO PENAL DEL ESTADO DE SONORA, CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA, CÓDIGO CIVIL PARA EL ESTADO DE SONORA, LEY DE EJECUCIÓN DE SANCIONES PENALES Y MEDIDAS DE SEGURIDAD DEL ESTADO DE SONORA, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE SONORA, LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SONORA, LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN, TRATAMIENTO, REHABILITACIÓN Y CONTROL DE ADICCIONES DEL ESTADO DE SONORA, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA; LEY PARA LA PROTECCIÓN DE PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL PARA EL ESTADO DE SONORA, LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LA TORTURA EN EL ESTADO DE SONORA, LEY QUE REGULA EL FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DONDE OPEREN MÁQUINAS ELECTRÓNICAS DE JUEGO CON SORTEO DE NÚMEROS Y APUESTA, LEY QUE REGULA EL FUNCIONAMIENTO Y OPERACIÓN DE LOS ESTABLECIMIENTOS COMERCIALES QUE PRESTAN AL PUBLICO EL SERVICIO DE ACCESO A INTERNET EN FORMA ONEROSA EN EL ESTADO DE SONORA Y LEY QUE REGULA LA PRÁCTICA PROFESIONAL DEL BOX, LUCHA LIBRE Y ARTES MARCIALES MIXTAS EN EL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
