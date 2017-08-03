@@ -4,7 +4,7 @@ identifier: "SON-ley-de-obras-publicas-y-servicios-relacionados-con-las-54634"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-01"
-last_updated: "2016-12-26"
+last_updated: "2017-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
 
 Ley publicada en la Sección Uno del Boletín Oficial del Estado de Sonora, el jueves 1 de marzo de 2007.
 
@@ -209,13 +209,17 @@ Las dependencias, entidades y ayuntamientos que, en su caso, cuenten con los ele
 
 Cuando la capacidad instalada no sea suficiente, previa justificación, podrán asignar bajo su responsabilidad, conforme al procedimiento que resulte aplicable según los montos que se establecen en los términos de esta ley, la contratación de los estudios y proyectos necesarios para la planeación, presupuestación y ejecución de las obras públicas.
 
-En los contratos a que se refiere este artículo, las dependencias, entidades y ayuntamientos, en su caso, podrán solicitar y contratar preferentemente en igualdad de condiciones los servicios de aquellos profesionistas y empresas con registro en la organización o colegios correspondientes, y en el caso de las dependencias y entidades, del ámbito del Ejecutivo del Estado, de aquéllos que estén inscritos en el Registro Simplificado de Licitantes.
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
+
+En los contratos a que se refiere este artículo, las dependencias, entidades y ayuntamientos, en su caso, podrán solicitar y contratar preferentemente en igualdad de condiciones los servicios de aquellos profesionistas y empresas con registro en la organización o colegios correspondientes, procurando no encarecer los precios por la elaboración de estudios y proyectos en el mercado, y en el caso de las dependencias y entidades, del ámbito del Ejecutivo del Estado, de aquéllos que estén inscritos en el Registro Simplificado de Licitantes.
 
 Para la realización de obras públicas se requerirá contar con los estudios y proyectos, especificaciones de construcción, normas de calidad y el programa de ejecución totalmente terminados, o bien, en el caso de obras públicas de mayor complejidad, con un avance en su desarrollo que permita a los licitantes preparar una propuesta solvente y ejecutar los trabajos hasta su conclusión en forma ininterrumpida, en concordancia con el programa de ejecución convenido.
 
 Las dependencias y entidades ejecutoras podrán destinar los recursos que sean necesarios para la realización de los estudios y proyectos a que se refiere este artículo. En el Presupuesto de Egresos que aprueba el Congreso del Estado en el ejercicio fiscal correspondiente, se podrá autorizar hasta el equivalente al diez por ciento de la partida de gasto de inversión en obra pública para que se destine a la realización de estudios y proyectos.
 
-De los recursos señalados en el párrafo anterior, el 40 por ciento se distribuirán invariablemente entre los municipios, conforme a lo establecido en el decreto que establece los factores de distribución de participaciones federales a los municipios del Estado de Sonora, en el ejercicio fiscal correspondiente. Lo anterior sin menoscabo de lo presupuestado para obra pública para los municipios.
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
+
+De los recursos señalados en el párrafo anterior, el 40 por ciento se distribuirán principalmente entre los municipios del Estado, que cuenten con menos de 50 mil habitantes, dando preferencia a aquellos con más altos índices de pobreza y marginación, con falta de infraestructura y presupuesto de inversión pública productiva, en el ejercicio fiscal correspondiente. Lo anterior, sin menoscabo de lo presupuestado para obra pública para los municipios.
 
 Asimismo, deberán integrar un registro que contenga en formato digital los estudios y proyectos que realicen, debiéndolos conservar y mantenerlos resguardados, así como actualizarlos en los casos que resulte necesario.
 
@@ -641,9 +645,11 @@ En el ámbito del Ejecutivo del Estado, las dependencias y entidades, de oficio 
 
 En los supuestos que se prevén en el presente Capítulo, las dependencias y entidades podrán celebrar contratos de obra pública o servicios sin sujetarse al procedimiento de licitación pública, a través del procedimiento de licitación simplificada, considerando por lo menos tres propuestas susceptibles de analizarse sin que se afecten los principios de economía, eficacia, eficiencia, imparcialidad y honradez, que aseguren las mejores condiciones para el Estado o los ayuntamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
+
 ###### ARTÍCULO 57.
 
-Cuando la Dependencia o Entidad que proyecte realizar obras cuyo monto individual no exceda el equivalente de 25,000 veces el salario mínimo diario general vigente en la capital del Estado, o servicios cuyo monto individual no exceda el equivalente a 10,000 veces dicho salario, podrá opcionalmente omitir el procedimiento de licitación pública y elegir del registro simplificado de licitantes, a través del procedimiento de licitación simplificada, al contratista que cuente con la clasificación por especialidad, reúna la capacidad técnica y económica que se requiera para este tipo de obras o servicios, y presente la propuesta cuyo precio sea el más bajo dentro de las que se hayan considerado como solventes.
+Cuando la Dependencia o Entidad que proyecte realizar obras cuyo monto individual no exceda el equivalente de 25,000 Unidades de Medida y Actualización, o servicios cuyo monto individual no exceda el equivalente a 10,000 Unidades de Medida y Actualización, podrá opcionalmente omitir el procedimiento de licitación pública y elegir del registro simplificado de licitantes, a través del procedimiento de licitación simplificada, al contratista que cuente con la clasificación por especialidad, reúna la capacidad técnica y económica que se requiera para este tipo de obras o servicios, y presente la propuesta cuyo precio sea el más bajo dentro de las que se hayan considerado como solventes.
 
 El reglamento de la presente ley establecerá los requisitos y términos de la invitación a los licitantes.
 
@@ -659,9 +665,11 @@ En el procedimiento de licitación simplificada a que se refiere este Capítulo,
 
 Para le selección de licitantes del Registro Simplificado que se refiere esta ley, se tomará en cuenta la clasificación del contratista, a fin de que se realice preferentemente por aquéllos de la región donde vaya a ejecutarse la obra o servicio y que cuenten con capacidad de respuesta inmediata, así como con los recursos técnicos, de especialidad, financieros y demás que sean necesarios, de acuerdo con las características, complejidad y magnitud de los trabajos a ejecutar.
 
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
+
 ###### ARTÍCULO 59.
 
-Los trabajos de conservación, mantenimiento y obras de construcción cuyo monto no rebase el equivalente a 10,000 veces el salario mínimo diario general vigente en la capital del Estado, o servicios cuyo monto no exceda de 4000 veces dicho salario, se podrán realizar mediante adjudicación directa por la Dependencia o Entidad correspondiente, a través de órdenes de trabajo.
+Los trabajos de conservación, mantenimiento y obras de construcción cuyo monto no rebase el equivalente a 10,000 Unidades de Medida y Actualización, o servicios cuyo monto no exceda de 4000 Unidades de Medida y Actualización, se podrán 27 (sic) realizar mediante adjudicación directa por la Dependencia o Entidad correspondiente, a través de órdenes de trabajo.
 
 ###### ARTÍCULO 60.
 
@@ -723,7 +731,7 @@ IV.- Aquéllas que se encuentren involucradas o asociadas a procedimientos de re
 
 V.- Aquéllas que hayan sido declaradas en suspensión de pagos, estado de quiebra o sujetas a concurso de acreedores;
 
-VI .- Las que previamente hayan realizado o se encuentren realizando por sí o a través de empresas que formen parte del mismo grupo empresarial, en virtud de otro contrato, el proyecto; trabajos de dirección, coordinación, supervisión y control de obra e instalaciones; laboratorio de análisis y control de calidad, geotecnia, mecánica de suelos y de resistencia de materiales; radiografías industriales; preparación de especificaciones de construcción; presupuesto de los trabajos; selección o aprobación de materiales, equipos y procesos, o la elaboración de cualquier otro documento vinculado con el procedimiento;
+VI.- Las que previamente hayan realizado o se encuentren realizando por sí o a través de empresas que formen parte del mismo grupo empresarial, en virtud de otro contrato, el proyecto; trabajos de dirección, coordinación, supervisión y control de obra e instalaciones; laboratorio de análisis y control de calidad, geotecnia, mecánica de suelos y de resistencia de materiales; radiografías industriales; preparación de especificaciones de construcción; presupuesto de los trabajos; selección o aprobación de materiales, equipos y procesos, o la elaboración de cualquier otro documento vinculado con el procedimiento;
 
 VII.- Aquéllas que por sí o a través de empresas que formen parte del mismo grupo empresarial, pretendan ser contratadas para la elaboración de dictámenes, peritajes y avalúos, cuando éstos hayan de ser utilizados para resolver discrepancias derivadas de los contratos en que dichas personas o empresas sean partes;
 
@@ -1037,9 +1045,11 @@ En caso de que la nulidad resulte imputable a la convocante, ésta reembolsará 
 
 ### CAPÍTULO II. DE LAS INFRACCIONES Y SANCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
+
 ###### ARTÍCULO 106.
 
-En el ámbito del Ejecutivo del Estado, los licitantes y contratistas que infrinjan las disposiciones de esta ley, serán sancionados por la Contraloría con multa equivalente a la cantidad de 500 hasta 20,000 veces el salario mínimo diario general vigente en la capital del Estado, en la fecha de la infracción.
+En el ámbito del Ejecutivo del Estado, los licitantes y contratistas que infrinjan las disposiciones de esta ley, serán sancionados por la Contraloría con multa equivalente a la cantidad de 500 hasta 20,000 Unidades de Medida y Actualización, en la fecha de la infracción.
 
 Las multas que se impongan por la Contraloría en términos del presente artículo constituirán créditos fiscales a favor del Estado y serán efectivas por conducto de la Secretaría.
 
@@ -1306,3 +1316,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 La Secretaría de Hacienda del Estado deberá emitir y publicar en el Boletín Oficial del Gobierno del Estado, dentro de los 180 días hábiles posteriores a la entrada en vigor del presente Decreto, los lineamientos y metodología para la elaboración del análisis de costo-beneficio a que se refiere el artículo 21 de la Ley de Alianzas Público Privadas de Servicios del Estado de Sonora.
+
+B.O. 3 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 158, QUE REFORMA DIVERSAS DISPOSICIONES DEL ARTÍCULO 16 DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 3 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 148 “QUE REFORMA DIVERSAS DISPOSICIONES DE LEY ANTICORRUPCIÓN EN CONTRATACIONES PÚBLICAS PARA EL ESTADO DE SONORA, LEY DE BIENES Y CONCESIONES DEL ESTADO DE SONORA, LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA, LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SONORA, LEY DE FOMENTO DE LA CULTURA Y PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE SONORA, LEY DE AGUA DEL ESTADO DE SONORA, LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, LEY DE GANADERÍA PARA EL ESTADO DE SONORA, CÓDIGO FISCAL DEL ESTADO DE SONORA, LEY DE FOMENTO AL EMPLEO PARA EL ESTADO DE SONORA, LEY "5 DE JUNIO" QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE SONORA, LEY DE ALIANZAS PÚBLICO PRIVADAS DE SERVICIOS DEL ESTADO DE SONORA, LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL, LEY DE PESCA Y ACUICULTURA PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE SONORA, LEY DE PROFESIONES DEL ESTADO DE SONORA, LEY DE PROTECCIÓN DE ANIMALES PARA EL ESTADO DE SONORA, LEY DE PROTECCIÓN CIUDADANA CONTRA LOS EFECTOS NOCIVOS DEL TABACO, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SONORA, LEY DE RECONOCIMIENTOS AL MÉRITO CÍVICO, LEY DE REGULACIÓN Y FOMENTO DE TIEMPO COMPARTIDO PARA EL ESTADO DE SONORA, LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICO (SIC) DEL ESTADO Y DE LOS MUNICIPIOS, LEY DE SALUD PARA EL ESTADO DE SONORA, LEY DE TRANSPORTE PARA EL ESTADO DE SONORA, LEY DE TRÁNSITO DEL ESTADO DE SONORA, LEY DE VIVIENDA PARA EL ESTADO, LEY DEL NOTARIADO PARA EL ESTADO DE SONORA, LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO, LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL ESTADO DE SONORA, LEY QUE CREA EL REGISTRO DE AGENTES INMOBILIARIOS, LEY QUE CREA LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, LEY QUE DETERMINA LAS BASES DE OPERACIÓN DE LAS CASAS DE EMPEÑO DEL ESTADO DE SONORA, LEY QUE ESTABLECE EL ARANCEL PARA LOS NOTARIOS, LEY QUE ESTABLECE EL SISTEMA DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE SONORA, LEY QUE REGULA LA ADMINISTRACIÓN DE DOCUMENTOS ADMINISTRATIVOS E HISTÓRICOS, LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA, LEY DE INTEGRACIÓN SOCIAL PARA PERSONAS CON DISCAPACIDAD DEL ESTADO DE SONORA, LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA, LEY DE LOS DERECHOS DE LOS CONTRIBUYENTES DEL ESTADO DE SONORA, LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA, LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA, LEY DE HACIENDA DEL ESTADO, LEY DE HACIENDA MUNICIPAL, CÓDIGO PENAL DEL ESTADO DE SONORA, CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA, CÓDIGO CIVIL PARA EL ESTADO DE SONORA, LEY DE EJECUCIÓN DE SANCIONES PENALES Y MEDIDAS DE SEGURIDAD DEL ESTADO DE SONORA, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE SONORA, LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SONORA, LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN, TRATAMIENTO, REHABILITACIÓN Y CONTROL DE ADICCIONES DEL ESTADO DE SONORA, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA; LEY PARA LA PROTECCIÓN DE PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL PARA EL ESTADO DE SONORA, LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LA TORTURA EN EL ESTADO DE SONORA, LEY QUE REGULA EL FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DONDE OPEREN MÁQUINAS ELECTRÓNICAS DE JUEGO CON SORTEO DE NÚMEROS Y APUESTA, LEY QUE REGULA EL FUNCIONAMIENTO Y OPERACIÓN DE LOS ESTABLECIMIENTOS COMERCIALES QUE PRESTAN AL PUBLICO EL SERVICIO DE ACCESO A INTERNET EN FORMA ONEROSA EN EL ESTADO DE SONORA Y LEY QUE REGULA LA PRÁCTICA PROFESIONAL DEL BOX, LUCHA LIBRE Y ARTES MARCIALES MIXTAS EN EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
