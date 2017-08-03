@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-movilidad-y-transporte-del-estado-de-puebla-antes-11793"
 country: "mx"
 rank: "ley"
 publication_date: "1998-03-18"
-last_updated: "2017-01-13"
+last_updated: "2017-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de marzo de 1998.
 
@@ -855,9 +855,9 @@ Los vehículos a que se refiere este artículo, deberán tener una antigüedad m
 
 Todo vehículo que circule en la infraestructura vial del Estado, deberá contar con los equipos, sistemas, dispositivos y accesorios de seguridad que, con base en la Legislación Federal de la materia, esta Ley y sus Reglamentos, se requieran al efecto.
 
-> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2017)</small>
 
-Tratándose de los vehículos del servicio público de transporte urbano, deberán estar provistos además con un contador de pasajeros y un regulador de velocidad cuyas características y funcionamiento será conforme lo establezcan las autoridades competentes.
+Tratándose de los vehículos de servicio público de transporte urbano, sub urbano y masivo deberán estar provistos además con un sistema de posicionamiento global GPS, cámara de video vigilancia, botón de pánico que estarán vinculados a los sistemas de seguridad pública, un contador de pasajeros y un regulador de velocidad cuyas características y funcionamiento será conforme lo establezcan las autoridades competentes.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
@@ -2526,3 +2526,11 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 TERCERO. El Ejecutivo del Estado dentro del plazo de los treinta días hábiles a partir de la entrada en vigor de este Decreto, realizará las adecuaciones correspondientes al reglamento interior de la Dependencia.
 
 En tanto no se realicen las adecuaciones a que se refiere el párrafo anterior, la Secretaría seguirá aplicando el reglamento vigente en todo aquello que no lo contravenga.
+
+P.O. 3 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 37 DE LA LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
