@@ -4,7 +4,7 @@ identifier: "SON-ley-que-regula-la-operacion-y-funcionamiento-de-los-42094"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2015-12-14"
+last_updated: "2017-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
 
 Ley publicada en la Cuarta Sección del Boletín Oficial del Estado de Sonora, el jueves 23 de diciembre de 2004.
 
@@ -1123,7 +1123,9 @@ Cumplido el plazo que señala el artículo anterior, tratándose de bebidas lega
 
 Las infracciones a las disposiciones establecidas en esta Ley, serán sancionadas en la siguiente forma:
 
-I.- Con multa equivalente de catorce a ciento cuarenta veces el salario mínimo general diario vigente en el área geográfica "b" o arresto hasta por 24 horas, según las circunstancias que medien en los siguientes casos:
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
+
+I.- Con multa equivalente de catorce a ciento cuarenta Unidades de Medida y Actualización o arresto hasta por 24 horas, según las circunstancias que medien en los siguientes casos:
 
 a).- Por operar con venta y consumo de bebidas con contenido alcohólico en días prohibidos por las autoridades encargadas de su aplicación, conforme a lo señalado en la presente Ley;
 
@@ -1151,7 +1153,9 @@ j).- Cuando se opere en domicilio distinto al que indica su licencia de funciona
 
 k).- A quienes no cumplan con lo establecido en las fracciones VII, VIII y IX del artículo 14 de la presente Ley.
 
-II.- Con multa equivalente de quince a setecientas veces el salario mínimo general diario vigente en la zona geográfica "b" o arresto hasta por 24 horas, según las circunstancias que medien en cada caso:
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
+
+II.- Con multa equivalente de quince a setecientas Unidades de Medida y Actualización o arresto hasta por 24 horas, según las circunstancias que medien en cada caso:
 
 a).- Cuando se impida o dificulte a las autoridades correspondientes, la inspección de los establecimientos completos o vehículos a que se refiere esta Ley, o bien, cuando sin causa justificada agredan físicamente al inspector que en ejercicio de sus funciones realiza una visita o inspección a cualesquiera de los establecimientos o vehículos regulados por esta Ley;
 
@@ -1183,7 +1187,9 @@ j).- Por operar en contravención a lo señalado en las fracciones X, XI, XII, y
 
 Tratándose de las infracciones señaladas en los incisos a), b), c) y g) de esta fracción, a la primera reincidencia se aplicará el doble de la sanción impuesta y la segunda será causal de cancelación de la licencia de funcionamiento y clausura del establecimiento.
 
-III.- Con multa equivalente de setenta a setecientas veces el salario mínimo general diario vigente en la zona geográfica "b" o arresto hasta por 24 horas, según las circunstancias que medien en los siguientes casos:
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
+
+III.- Con multa equivalente de setenta a setecientas Unidades de Medida y Actualización o arresto hasta por 24 horas, según las circunstancias que medien en los siguientes casos:
 
 a).- Al que utilice algún establecimiento o su propio domicilio para la fabricación, distribución, almacenamiento, venta o consumo de bebidas alcohólicas, así como a los que transportan los productos a que esta Ley se refiere, careciendo de la licencia respectiva.
 
@@ -1217,9 +1223,11 @@ i).- Por cualquier otro acto u omisión que infrinja las disposiciones de esta L
 
 Cuando la infracción pudiera dar lugar a la cancelación de la licencia, se estará a lo dispuesto por el Capítulo X de esta Ley.
 
-> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
 
-IV.- Con multa equivalente de 1000 a 3100 veces el salario mínimo general vigente en la zona geográfica "A", o arresto de hasta 36 horas en el siguiente caso:
+IV.- Con multa equivalente de 1000 a 3100 Unidades de Medida y Actualización o arresto de hasta 36 horas en el siguiente caso:
+
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
 a) A los propietarios, responsables o empleados de los establecimientos que se les acredite la contravención a lo dispuesto por la fracción I del artículo 20 de esta Ley, debiendo individualizarse la sanción, en función de la responsabilidad directa que cada uno asumió al cometerse la infracción. En caso de la primera reincidencia, será el doble la sanción impuesta y en el supuesto de la segunda reincidencia se procederá a la cancelación de la licencia y clausura del establecimiento, siempre y cuando se acredite plenamente la responsabilidad directa del responsable del mismo.
 
@@ -1231,7 +1239,9 @@ Las sanciones establecidas en el Artículo anterior podrán aplicarse sin perjui
 
 En el ámbito de su competencia, los Ayuntamientos a través de las unidades designadas podrán imponer las sanciones establecidas en las fracciones I, inciso a); II, incisos a), e) y h), y III, inciso b), del artículo 82 de esta Ley; además de aquellas que en coordinación con el Ejecutivo del Estado, por conducto de la Secretaría, queden establecidas en el convenio respectivo, consistentes en:
 
-Multa equivalente de veinte a ciento cincuenta veces el salario mínimo general diario vigente en el área geográfica "b" o arresto hasta por 24 horas, según las circunstancias que medien en los siguientes casos:
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
+
+Multa equivalente de veinte a ciento cincuenta Unidades de Medida y Actualización o arresto hasta por 24 horas, según las circunstancias que medien en los siguientes casos:
 
 I.- Al que venda bebidas alcohólicas en envase abierto y para su consumo en el interior de espectáculos públicos, si dicha venta no se efectuó en envases desechables o higiénicos; y
 
@@ -1618,3 +1628,13 @@ Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 Cuando se señale en el Código Fiscal del Estado, Ley de Hacienda del Estado, Ley de Tránsito del Estado y Ley que regula la operación y funcionamiento de los establecimientos destinados a la fabricación, envasamiento, distribución, almacenamiento, transportación, venta y consumo de bebidas con contenido alcohólico en el Estado de Sonora, la mención de salarios mínimos diario general vigente en el área geográfica "b ",deberá entenderse como salarios mínimos diario general vigente en el área geográfica única, en virtud de la reforma al salario mínimo efectuada mediante Resolución del H. Consejo de Representantes de la Comisión Nacional de los Salarios Mínimos que revisa los salarios mínimos generales y profesionales vigentes desde el 1 de abril de 2015, publicada en el Diario Oficial de la Federación con fecha 30 de septiembre de 2015, con vigencia a partir del 1 de octubre de 2015.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 3 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 148, QUE REFORMA DIVERSAS DISPOSICIONES DE LEY ANTICORRUPCIÓN EN CONTRATACIONES PÚBLICAS PARA EL ESTADO DE SONORA, LEY DE BIENES Y CONCESIONES DEL ESTADO DE SONORA, LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA, LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SONORA, LEY DE FOMENTO DE LA CULTURA Y PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE SONORA, LEY DE AGUA DEL ESTADO DE SONORA, LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, LEY DE GANADERÍA PARA EL ESTADO DE SONORA, CÓDIGO FISCAL DEL ESTADO DE SONORA, LEY DE FOMENTO AL EMPLEO PARA EL ESTADO DE SONORA, LEY "5 DE JUNIO" QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE SONORA, LEY DE ALIANZAS PÚBLICO PRIVADAS DE SERVICIOS DEL ESTADO DE SONORA, LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL, LEY DE PESCA Y ACUICULTURA PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE SONORA, LEY DE PROFESIONES DEL ESTADO DE SONORA, LEY DE PROTECCIÓN DE ANIMALES PARA EL ESTADO DE SONORA, LEY DE PROTECCIÓN CIUDADANA CONTRA LOS EFECTOS NOCIVOS DEL TABACO, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SONORA, LEY DE RECONOCIMIENTOS AL MÉRITO CÍVICO, LEY DE REGULACIÓN Y FOMENTO DE TIEMPO COMPARTIDO PARA EL ESTADO DE SONORA, LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICO (SIC) DEL ESTADO Y DE LOS MUNICIPIOS, LEY DE SALUD PARA EL ESTADO DE SONORA, LEY DE TRANSPORTE PARA EL ESTADO DE SONORA, LEY DE TRÁNSITO DEL ESTADO DE SONORA, LEY DE VIVIENDA PARA EL ESTADO, LEY DEL NOTARIADO PARA EL ESTADO DE SONORA, LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO, LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL ESTADO DE SONORA, LEY QUE CREA EL REGISTRO DE AGENTES INMOBILIARIOS, LEY QUE CREA LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, LEY QUE DETERMINA LAS BASES DE OPERACIÓN DE LAS CASAS DE EMPEÑO DEL ESTADO DE SONORA, LEY QUE ESTABLECE EL ARANCEL PARA LOS NOTARIOS, LEY QUE ESTABLECE EL SISTEMA DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE SONORA, LEY QUE REGULA LA ADMINISTRACIÓN DE DOCUMENTOS ADMINISTRATIVOS E HISTÓRICOS, LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA, LEY DE INTEGRACIÓN SOCIAL PARA PERSONAS CON DISCAPACIDAD DEL ESTADO DE SONORA, LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA, LEY DE LOS DERECHOS DE LOS CONTRIBUYENTES DEL ESTADO DE SONORA, LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA, LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA, LEY DE HACIENDA DEL ESTADO, LEY DE HACIENDA MUNICIPAL, CÓDIGO PENAL DEL ESTADO DE SONORA, CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA, CÓDIGO CIVIL PARA EL ESTADO DE SONORA, LEY DE EJECUCIÓN DE SANCIONES PENALES Y MEDIDAS DE SEGURIDAD DEL ESTADO DE SONORA, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE SONORA, LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SONORA, LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN, TRATAMIENTO, REHABILITACIÓN Y CONTROL DE ADICCIONES DEL ESTADO DE SONORA, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA; LEY PARA LA PROTECCIÓN DE PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL PARA EL ESTADO DE SONORA, LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LA TORTURA EN EL ESTADO DE SONORA, LEY QUE REGULA EL FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DONDE OPEREN MÁQUINAS ELECTRÓNICAS DE JUEGO CON SORTEO DE NÚMEROS Y APUESTA, LEY QUE REGULA EL FUNCIONAMIENTO Y OPERACIÓN DE LOS ESTABLECIMIENTOS COMERCIALES QUE PRESTAN AL PÚBLICO EL SERVICIO DE ACCESO A INTERNET EN FORMA ONEROSA EN EL ESTADO DE SONORA Y LEY QUE REGULA LA PRÁCTICA PROFESIONAL DEL BOX, LUCHA LIBRE Y ARTES MARCIALES MIXTAS EN EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
