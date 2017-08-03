@@ -4,7 +4,7 @@ identifier: "SON-ley-de-pesca-y-acuicultura-para-el-estado-de-sonora-62803"
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-28"
-last_updated: "2008-08-28"
+last_updated: "2017-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62803&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE PESCA Y ACUICULTURA PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
 
 Ley publicada en la Sección IV del Boletín Oficial del Estado de Sonora, el jueves 28 de agosto de 2008.
 
@@ -1793,7 +1793,9 @@ Las infracciones a los preceptos de la presente ley, su reglamento y los planes 
 
 I.- Amonestación con apercibimiento;
 
-II.- Multa, que será de cincuenta a veinticinco mil veces el salario mínimo general diario vigente en la capital del Estado, de acuerdo con lo previsto por el artículo 165 de esta ley;
+> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2017)</small>
+
+II.- Multa, que será de cincuenta a veinticinco mil Unidades de Medida y Actualización, de acuerdo con lo previsto por el artículo 165 de esta ley;
 
 III.- El aseguramiento de los recursos pesqueros o acuícolas vivos, sus productos, subproductos y productos químicos, farmacéuticos, biológicos y alimenticios para uso o consumo de dichos recursos;
 
@@ -1839,19 +1841,21 @@ Cuando en una misma acta se haga constar que las infracciones fueron cometidas p
 
 Las sanciones por las infracciones a esta ley se aplicarán sin perjuicio de las penas que correspondan a los delitos en que incurran los infractores.
 
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
+
 ###### ARTÍCULO 165.
 
-Para la imposición de las multas se tomará como base el salario mínimo general diario vigente en la capital del Estado al momento de cometerse la infracción.
+Para la imposición de las multas se tomará como base la Unidad de Medida y Actualización al momento de cometerse la infracción.
 
 La imposición de las multas se determinará de la siguiente manera:
 
-I.- Será sancionado con una multa de entre 50 a 100 veces el salario mínimo general diario vigente en la capital del Estado, a quien cometa las infracciones establecidas en las fracciones IV y IX, del artículo 157 de la presente ley;
+I.- Será sancionado con una multa de entre 50 a 100 Unidades de Medida y Actualización, a quien cometa las infracciones establecidas en las fracciones IV y IX, del artículo 157 de la presente ley;
 
-II.- Será sancionado con una multa de entre 101 a 1000 veces el salario mínimo general diario vigente en la capital del Estado, a quien cometa las infracciones establecidas en las fracciones II, III, VIII, X, XI, XIV, XVII y XXIII del artículo 157 de la presente ley;
+II.- Será sancionado con una multa de entre 101 a 1000 Unidades de Medida y Actualización, a quien cometa las infracciones establecidas en las fracciones II, III, VIII, X, XI, XIV, XVII y XXIII del artículo 157 de la presente ley;
 
-III.- Será sancionado con una multa de entre 1001 a 10000 veces el salario mínimo general diario vigente en la capital del Estado, a quien cometa las infracciones establecidas en las fracciones V, VI, VII, XII, XIII, XIX, XX, XXI y XXII del artículo 157 de la presente ley; y
+III.- Será sancionado con una multa de entre 1001 a 10000 Unidades de Medida y Actualización, a quien cometa las infracciones establecidas en las fracciones V, VI, VII, XII, XIII, XIX, XX, XXI y XXII del artículo 157 de la presente ley; y
 
-IV.- Será sancionado con una multa de entre 10001 a 25000 veces el salario mínimo general diario vigente en la capital del Estado, a quien cometa las infracciones establecidas en las fracciones I, XV, XVI y XVIII del artículo 157 de la presente ley.
+IV.- Será sancionado con una multa de entre 10001 a 25000 Unidades de Medida y Actualización, a quien cometa las infracciones establecidas en las fracciones I, XV, XVI y XVIII del artículo 157 de la presente ley.
 
 En el caso de reincidencia, el monto de la multa podrá ser hasta por dos veces del monto originalmente impuesto, sin exceder del monto máximo a que se refiere el artículo 158 de esta ley, así como la clausura definitiva.
 
@@ -1952,3 +1956,13 @@ EDUARDO BOURS CASTELO
 EL SECRETARIO DE GOBIERNO
 
 ROBERTO RUIBAL ASTIAZARÁN
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 3 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 148 “QUE REFORMA DIVERSAS DISPOSICIONES DE LEY ANTICORRUPCIÓN EN CONTRATACIONES PÚBLICAS PARA EL ESTADO DE SONORA, LEY DE BIENES Y CONCESIONES DEL ESTADO DE SONORA, LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA, LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SONORA, LEY DE FOMENTO DE LA CULTURA Y PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE SONORA, LEY DE AGUA DEL ESTADO DE SONORA, LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, LEY DE GANADERÍA PARA EL ESTADO DE SONORA, CÓDIGO FISCAL DEL ESTADO DE SONORA, LEY DE FOMENTO AL EMPLEO PARA EL ESTADO DE SONORA, LEY "5 DE JUNIO" QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE SONORA, LEY DE ALIANZAS PÚBLICO PRIVADAS DE SERVICIOS DEL ESTADO DE SONORA, LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL, LEY DE PESCA Y ACUICULTURA PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE SONORA, LEY DE PROFESIONES DEL ESTADO DE SONORA, LEY DE PROTECCIÓN DE ANIMALES PARA EL ESTADO DE SONORA, LEY DE PROTECCIÓN CIUDADANA CONTRA LOS EFECTOS NOCIVOS DEL TABACO, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SONORA, LEY DE RECONOCIMIENTOS AL MÉRITO CÍVICO, LEY DE REGULACIÓN Y FOMENTO DE TIEMPO COMPARTIDO PARA EL ESTADO DE SONORA, LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICO (SIC) DEL ESTADO Y DE LOS MUNICIPIOS, LEY DE SALUD PARA EL ESTADO DE SONORA, LEY DE TRANSPORTE PARA EL ESTADO DE SONORA, LEY DE TRÁNSITO DEL ESTADO DE SONORA, LEY DE VIVIENDA PARA EL ESTADO, LEY DEL NOTARIADO PARA EL ESTADO DE SONORA, LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO, LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL ESTADO DE SONORA, LEY QUE CREA EL REGISTRO DE AGENTES INMOBILIARIOS, LEY QUE CREA LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, LEY QUE DETERMINA LAS BASES DE OPERACIÓN DE LAS CASAS DE EMPEÑO DEL ESTADO DE SONORA, LEY QUE ESTABLECE EL ARANCEL PARA LOS NOTARIOS, LEY QUE ESTABLECE EL SISTEMA DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE SONORA, LEY QUE REGULA LA ADMINISTRACIÓN DE DOCUMENTOS ADMINISTRATIVOS E HISTÓRICOS, LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA, LEY DE INTEGRACIÓN SOCIAL PARA PERSONAS CON DISCAPACIDAD DEL ESTADO DE SONORA, LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA, LEY DE LOS DERECHOS DE LOS CONTRIBUYENTES DEL ESTADO DE SONORA, LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA, LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA, LEY DE HACIENDA DEL ESTADO, LEY DE HACIENDA MUNICIPAL, CÓDIGO PENAL DEL ESTADO DE SONORA, CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA, CÓDIGO CIVIL PARA EL ESTADO DE SONORA, LEY DE EJECUCIÓN DE SANCIONES PENALES Y MEDIDAS DE SEGURIDAD DEL ESTADO DE SONORA, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE SONORA, LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SONORA, LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN, TRATAMIENTO, REHABILITACIÓN Y CONTROL DE ADICCIONES DEL ESTADO DE SONORA, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA; LEY PARA LA PROTECCIÓN DE PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL PARA EL ESTADO DE SONORA, LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LA TORTURA EN EL ESTADO DE SONORA, LEY QUE REGULA EL FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DONDE OPEREN MÁQUINAS ELECTRÓNICAS DE JUEGO CON SORTEO DE NÚMEROS Y APUESTA, LEY QUE REGULA EL FUNCIONAMIENTO Y OPERACIÓN DE LOS ESTABLECIMIENTOS COMERCIALES QUE PRESTAN AL PUBLICO EL SERVICIO DE ACCESO A INTERNET EN FORMA ONEROSA EN EL ESTADO DE SONORA Y LEY QUE REGULA LA PRÁCTICA PROFESIONAL DEL BOX, LUCHA LIBRE Y ARTES MARCIALES MIXTAS EN EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
