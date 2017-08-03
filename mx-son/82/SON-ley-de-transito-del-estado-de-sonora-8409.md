@@ -4,7 +4,7 @@ identifier: "SON-ley-de-transito-del-estado-de-sonora-8409"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-27"
-last_updated: "2015-12-14"
+last_updated: "2017-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8409&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE TRÁNSITO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 27 de febrero de 1984.
 
@@ -275,11 +275,9 @@ En caso de duda sobre si un camino o calle deba ser o no considerado como vía p
 
 Las Leyes Fiscales respectivas, determinarán las características, vigencia y cuantía de los derechos por concepto de placas de circulación, expedición de licencias, calcomanías por revisados, permisos, estacionamientos exclusivos, estacionamientos públicos y estacionómetros.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
 
-> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
-
-Las licencias descritas en el presente artículo deberán incluir una póliza de seguro de responsabilidad civil a favor del titular de la licencia, sin que dicha póliza impacte en el costo de la referida licencia. Condicionada dicha póliza al pago de un deducible hasta por la cantidad de 200 veces el salario mínimo diario vigente en la ciudad de Hermosillo por parte del titular de la licencia y el seguro que incluirá la licencia de conducir vigente será hasta una responsabilidad de $50,000.00 pesos, por lo que deberán presupuestarse los recursos necesarios para que la Secretaría de Hacienda licite la póliza que cubra lo previsto en este párrafo, debiendo contratarse una empresa que se encuentre debidamente registrada ante la Comisión Nacional de Seguros y Fianzas y dicha empresa deberá contar con garantías de servicio en siniestros debidamente estipuladas en las condiciones del seguro de referencia al deducible citado y hasta el monto de garantía de responsabilidad señalado, cantidades éstas que han sido especificadas con anterioridad.
+Las licencias descritas en el presente artículo deberán incluir una póliza de seguro de responsabilidad civil a favor del titular de la licencia, sin que dicha póliza impacte en el costo de la referida licencia. Condicionada dicha póliza al pago de un deducible hasta por la cantidad de 200 Unidades de Medida y Actualización por parte del titular de la licencia y el seguro que incluirá la licencia de conducir vigente será hasta una responsabilidad de $50.000.00 pesos, por lo que deberán presupuestarse los recursos necesarios para que la Secretaría de Hacienda licite la póliza que cubra lo previsto en este párrafo, debiendo contratarse una empresa que se encuentre debidamente registrada ante la Comisión Nacional de Seguros y Fianzas y dicha empresa deberá contar con garantías de servicio en siniestros debidamente estipuladas en las condiciones del seguro de referencia al deducible citado y hasta el monto de garantía de responsabilidad señalado, cantidades éstas que han sido especificadas con anterioridad.
 
 ## TITULO SEGUNDO. DE LAS REGLAS DE TRANSITO
 
@@ -3095,9 +3093,9 @@ c) Por prestar el servicio público de transporte con las unidades de emergencia
 
 d) Por no presentar los vehículos para la verificación de emisiones contaminantes en los términos del artículo 53, último párrafo, de esta Ley, así como por no portar la calcomanía correspondiente vigente o, portándola, ser evidente que el vehículo emite sustancias contaminantes que puedan rebasar los límites permisibles señalados por la normatividad aplicable. En este último caso, se estará a lo establecido por el inciso e) del artículo 223 de esta Ley.
 
-> <small>(REFORMADO, B.O. 15 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
 
-En los casos en que se compruebe que el vehículo no aprobó el examen de verificación de emisiones contaminantes, y no ha sido presentado a segunda verificación en el plazo que se le haya concedido, en lugar de la multa señalada en el primer párrafo de este artículo, se impondrá una multa equivalente a veinticuatro veces el salario mínimo diario vigente en la cabecera del Municipio que se trate.
+En los casos en que se compruebe que el vehículo no aprobó el examen de verificación de emisiones contaminantes, y no ha sido presentado a segunda verificación en el plazo que se le haya concedido, en lugar de la multa señalada en el primer párrafo de este artículo, se impondrá una multa equivalente a veinticuatro Unidades de Medida y Actualización.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE JULIO DE 2002)</small>
 
@@ -3544,3 +3542,11 @@ Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 Cuando se señale en el Código Fiscal del Estado, Ley de Hacienda del Estado, Ley de Tránsito del Estado y Ley que regula la operación y funcionamiento de los establecimientos destinados a la fabricación, envasamiento, distribución, almacenamiento, transportación, venta y consumo de bebidas con contenido alcohólico en el Estado de Sonora, la mención de salarios mínimos diario general vigente en el área geográfica "b", deberá entenderse como salarios mínimos diario general vigente en el área geográfica única, en virtud de la reforma al salario mínimo efectuada mediante Resolución del H. Consejo de Representantes de la Comisión Nacional de los Salarios Mínimos que revisa los salarios mínimos generales y profesionales vigentes desde el 1 de abril de 2015, publicada en el Diario Oficial de la Federación con fecha 30 de septiembre de 2015, con vigencia a partir del 1 de octubre de 2015.
+
+B.O. 3 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 148 “QUE REFORMA DIVERSAS DISPOSICIONES DE LEY ANTICORRUPCIÓN EN CONTRATACIONES PÚBLICAS PARA EL ESTADO DE SONORA, LEY DE BIENES Y CONCESIONES DEL ESTADO DE SONORA, LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA, LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SONORA, LEY DE FOMENTO DE LA CULTURA Y PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE SONORA, LEY DE AGUA DEL ESTADO DE SONORA, LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, LEY DE GANADERÍA PARA EL ESTADO DE SONORA, CÓDIGO FISCAL DEL ESTADO DE SONORA, LEY DE FOMENTO AL EMPLEO PARA EL ESTADO DE SONORA, LEY "5 DE JUNIO" QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE SONORA, LEY DE ALIANZAS PÚBLICO PRIVADAS DE SERVICIOS DEL ESTADO DE SONORA, LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL, LEY DE PESCA Y ACUICULTURA PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE SONORA, LEY DE PROFESIONES DEL ESTADO DE SONORA, LEY DE PROTECCIÓN DE ANIMALES PARA EL ESTADO DE SONORA, LEY DE PROTECCIÓN CIUDADANA CONTRA LOS EFECTOS NOCIVOS DEL TABACO, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SONORA, LEY DE RECONOCIMIENTOS AL MÉRITO CÍVICO, LEY DE REGULACIÓN Y FOMENTO DE TIEMPO COMPARTIDO PARA EL ESTADO DE SONORA, LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICO (SIC) DEL ESTADO Y DE LOS MUNICIPIOS, LEY DE SALUD PARA EL ESTADO DE SONORA, LEY DE TRANSPORTE PARA EL ESTADO DE SONORA, LEY DE TRÁNSITO DEL ESTADO DE SONORA, LEY DE VIVIENDA PARA EL ESTADO, LEY DEL NOTARIADO PARA EL ESTADO DE SONORA, LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO, LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL ESTADO DE SONORA, LEY QUE CREA EL REGISTRO DE AGENTES INMOBILIARIOS, LEY QUE CREA LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, LEY QUE DETERMINA LAS BASES DE OPERACIÓN DE LAS CASAS DE EMPEÑO DEL ESTADO DE SONORA, LEY QUE ESTABLECE EL ARANCEL PARA LOS NOTARIOS, LEY QUE ESTABLECE EL SISTEMA DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE SONORA, LEY QUE REGULA LA ADMINISTRACIÓN DE DOCUMENTOS ADMINISTRATIVOS E HISTÓRICOS, LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA, LEY DE INTEGRACIÓN SOCIAL PARA PERSONAS CON DISCAPACIDAD DEL ESTADO DE SONORA, LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA, LEY DE LOS DERECHOS DE LOS CONTRIBUYENTES DEL ESTADO DE SONORA, LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA, LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA, LEY DE HACIENDA DEL ESTADO, LEY DE HACIENDA MUNICIPAL, CÓDIGO PENAL DEL ESTADO DE SONORA, CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA, CÓDIGO CIVIL PARA EL ESTADO DE SONORA, LEY DE EJECUCIÓN DE SANCIONES PENALES Y MEDIDAS DE SEGURIDAD DEL ESTADO DE SONORA, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE SONORA, LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SONORA, LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN, TRATAMIENTO, REHABILITACIÓN Y CONTROL DE ADICCIONES DEL ESTADO DE SONORA, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA; LEY PARA LA PROTECCIÓN DE PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL PARA EL ESTADO DE SONORA, LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LA TORTURA EN EL ESTADO DE SONORA, LEY QUE REGULA EL FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DONDE OPEREN MÁQUINAS ELECTRÓNICAS DE JUEGO CON SORTEO DE NÚMEROS Y APUESTA, LEY QUE REGULA EL FUNCIONAMIENTO Y OPERACIÓN DE LOS ESTABLECIMIENTOS COMERCIALES QUE PRESTAN AL PUBLICO EL SERVICIO DE ACCESO A INTERNET EN FORMA ONEROSA EN EL ESTADO DE SONORA Y LEY QUE REGULA LA PRÁCTICA PROFESIONAL DEL BOX, LUCHA LIBRE Y ARTES MARCIALES MIXTAS EN EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
