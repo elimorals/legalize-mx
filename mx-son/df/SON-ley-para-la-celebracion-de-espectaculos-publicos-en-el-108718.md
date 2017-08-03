@@ -4,7 +4,7 @@ identifier: "SON-ley-para-la-celebracion-de-espectaculos-publicos-en-el-108718"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-15"
-last_updated: "2015-06-15"
+last_updated: "2017-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108718&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el lunes 15 de junio de 2015.
 
@@ -437,7 +437,9 @@ En caso de espectáculos en donde el aforo es de más de quinientos asistentes d
 
 Cuando se contrate a un tercero para la elaboración y venta de los boletos correspondientes a través de una página de internet de conformidad con el párrafo anterior, éste podrá expender boletos en locales diferentes a la taquilla, siempre y cuando se celebre el convenio en el que se especifique la forma y términos en que se llevará a cabo esta actividad, y se haga constar la obligación de expedir un comprobante de la operación realizada, a cargo de la persona autorizada para la venta de boletos bajo esa modalidad. Dicho convenio deberá hacerse del conocimiento del Ayuntamiento respectivo.
 
-Cuando el costo de los boletos para espectáculos públicos supere los veinte días de salario mínimo general vigente en la capital del estado, los Titulares deberán contar con un sistema de abonos para cubrir el costo del mismo, el cual deberá ser liquidado con 15 días de anticipación al día de la celebración del espectáculo, en caso de no liquidarse, el adquirente perderá los abonos que haya realizado.
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
+
+Cuando el costo de los boletos para espectáculos públicos supere los (sic) veinte Unidades de Medida y Actualización, los Titulares deberán contar con un sistema de abonos para cubrir el costo del mismo, el cual deberá ser liquidado con 15 días de anticipación al día de la celebración del espectáculo, en caso de no liquidarse, el adquirente perderá los abonos que haya realizado.
 
 En los espectáculos públicos mayores en los que se espere una concurrencia superior a tres mil personas, la venta de boletos se llevará a cabo con una anticipación mínima de dos meses.
 
@@ -725,21 +727,29 @@ Para la fijación de las sanciones, se tomará en cuenta la gravedad de la infra
 
 Las sanciones económicas deberán fijarse entre el mínimo y máximo establecido.
 
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 63.
 
-Se sancionará con el equivalente de 50 a 100 días de salario mínimo general vigente en la capital del Estado, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 13, fracciones III, V y XIII, 36, fracciones IV y V, 43, fracción III y 46 de esta Ley.
+Se sancionará con el equivalente de 50 a 100 Unidades de Medida y Actualización, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 13, fracciones III, V y XIII, 36, fracciones IV y V, 43, fracción III y 46 de esta Ley.
+
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 64.
 
-Se sancionará con el equivalente de 100 a 200 días de salario mínimo general vigente en la capital del Estado, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 13, fracciones II, IV, VI, X, XIV, XIX, XXI, XXII, XXIV, XXV, XXVI y XXVII, 17, 36, fracciones I, II y III, 43, fracciones I, II y IV, 44, 45, 47 y 55, último párrafo de esta Ley.
+Se sancionará con el equivalente de 100 a 200 Unidades de Medida y Actualización, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 13, fracciones II, IV, VI, X, XIV, XIX, XXI, XXII, XXIV, XXV, XXVI y XXVII, 17, 36, fracciones I, II y III, 43, fracciones I, II y IV, 44, 45, 47 y 55, último párrafo de esta Ley.
+
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 65.
 
-Se sancionará con el equivalente de 200 a 400 días de salario mínimo general vigente en la capital del Estado, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 13, fracciones I, VII, VIII, XI, XII, XV, XVI, XVII, XVIII, XX y XXIII, 16, 18, 19, 34, 38, fracción I, 48, 49 y 57 de la Ley.
+Se sancionará con el equivalente de 200 a 400 Unidades de Medida y Actualización, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 13, fracciones I, VII, VIII, XI, XII, XV, XVI, XVII, XVIII, XX y XXIII, 16, 18, 19, 34, 38, fracción I, 48, 49 y 57 de la Ley.
+
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 66.
 
-Las violaciones a esta Ley no previstas en los artículos que anteceden se sancionarán con multa hasta 50 días de salario mínimo general vigente en la capital del Estado.
+Las violaciones a esta Ley no previstas en los artículos que anteceden se sancionarán con multa hasta 50 Unidades de Medida y Actualización.
 
 ###### Artículo 67.
 
@@ -926,3 +936,13 @@ GUILLERMO PADRÉS ELÍAS
 EL SECRETARIO DE GOBIERNO,
 
 PRICILIANO MELENDREZ BARRIOS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 3 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 148, QUE REFORMA DIVERSAS DISPOSICIONES DE LEY ANTICORRUPCIÓN EN CONTRATACIONES PÚBLICAS PARA EL ESTADO DE SONORA, LEY DE BIENES Y CONCESIONES DEL ESTADO DE SONORA, LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA, LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SONORA, LEY DE FOMENTO DE LA CULTURA Y PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE SONORA, LEY DE AGUA DEL ESTADO DE SONORA, LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, LEY DE GANADERÍA PARA EL ESTADO DE SONORA, CÓDIGO FISCAL DEL ESTADO DE SONORA, LEY DE FOMENTO AL EMPLEO PARA EL ESTADO DE SONORA, LEY "5 DE JUNIO" QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE SONORA, LEY DE ALIANZAS PÚBLICO PRIVADAS DE SERVICIOS DEL ESTADO DE SONORA, LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL, LEY DE PESCA Y ACUICULTURA PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE SONORA, LEY DE PROFESIONES DEL ESTADO DE SONORA, LEY DE PROTECCIÓN DE ANIMALES PARA EL ESTADO DE SONORA, LEY DE PROTECCIÓN CIUDADANA CONTRA LOS EFECTOS NOCIVOS DEL TABACO, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SONORA, LEY DE RECONOCIMIENTOS AL MÉRITO CÍVICO, LEY DE REGULACIÓN Y FOMENTO DE TIEMPO COMPARTIDO PARA EL ESTADO DE SONORA, LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICO (SIC) DEL ESTADO Y DE LOS MUNICIPIOS, LEY DE SALUD PARA EL ESTADO DE SONORA, LEY DE TRANSPORTE PARA EL ESTADO DE SONORA, LEY DE TRÁNSITO DEL ESTADO DE SONORA, LEY DE VIVIENDA PARA EL ESTADO, LEY DEL NOTARIADO PARA EL ESTADO DE SONORA, LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO, LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL ESTADO DE SONORA, LEY QUE CREA EL REGISTRO DE AGENTES INMOBILIARIOS, LEY QUE CREA LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, LEY QUE DETERMINA LAS BASES DE OPERACIÓN DE LAS CASAS DE EMPEÑO DEL ESTADO DE SONORA, LEY QUE ESTABLECE EL ARANCEL PARA LOS NOTARIOS, LEY QUE ESTABLECE EL SISTEMA DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE SONORA, LEY QUE REGULA LA ADMINISTRACIÓN DE DOCUMENTOS ADMINISTRATIVOS E HISTÓRICOS, LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA, LEY DE INTEGRACIÓN SOCIAL PARA PERSONAS CON DISCAPACIDAD DEL ESTADO DE SONORA, LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA, LEY DE LOS DERECHOS DE LOS CONTRIBUYENTES DEL ESTADO DE SONORA, LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA, LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA, LEY DE HACIENDA DEL ESTADO, LEY DE HACIENDA MUNICIPAL, CÓDIGO PENAL DEL ESTADO DE SONORA, CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA, CÓDIGO CIVIL PARA EL ESTADO DE SONORA, LEY DE EJECUCIÓN DE SANCIONES PENALES Y MEDIDAS DE SEGURIDAD DEL ESTADO DE SONORA, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE SONORA, LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SONORA, LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN, TRATAMIENTO, REHABILITACIÓN Y CONTROL DE ADICCIONES DEL ESTADO DE SONORA, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA; LEY PARA LA PROTECCIÓN DE PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL PARA EL ESTADO DE SONORA, LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LA TORTURA EN EL ESTADO DE SONORA, LEY QUE REGULA EL FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DONDE OPEREN MÁQUINAS ELECTRÓNICAS DE JUEGO CON SORTEO DE NÚMEROS Y APUESTA, LEY QUE REGULA EL FUNCIONAMIENTO Y OPERACIÓN DE LOS ESTABLECIMIENTOS COMERCIALES QUE PRESTAN AL PÚBLICO EL SERVICIO DE ACCESO A INTERNET EN FORMA ONEROSA EN EL ESTADO DE SONORA Y LEY QUE REGULA LA PRÁCTICA PROFESIONAL DEL BOX, LUCHA LIBRE Y ARTES MARCIALES MIXTAS EN EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
