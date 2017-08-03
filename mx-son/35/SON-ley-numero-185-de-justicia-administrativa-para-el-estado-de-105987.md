@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-185-de-justicia-administrativa-para-el-estado-de-105
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-04"
-last_updated: "2017-07-10"
+last_updated: "2017-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105987&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "SON"
 
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE MAYO DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 10 DE JULIO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
 
 Ley publicada en la Sección IV del Boletín Oficial del Estado de Sonora, el jueves 4 de diciembre de 2014.
 
@@ -519,7 +517,9 @@ En caso necesario, el Magistrado podrá aplicar, los medios de apremio para hace
 
 I.- Son medios de apremio:
 
-a) La multa, por una cantidad equivalente de diez a seiscientos días de salario mínimo general vigente; y
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
+
+a) La multa, por una cantidad equivalente de diez a seiscientas Unidades de Medida y Actualización; y
 
 b) La presentación de la persona con auxilio de la fuerza pública.
 
@@ -527,7 +527,9 @@ II.- Son medidas disciplinarias:
 
 a) La amonestación;
 
-b) La multa, por una cantidad equivalente de diez a seiscientos días de salario mínimo general vigente; y
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
+
+b) La multa, por una cantidad equivalente de diez a seiscientas Unidades de Medida y Actualización; y
 
 c) La expulsión temporal de las personas del lugar donde se lleve a cabo la diligencia, cuando para su continuación ello sea conveniente, a juicio del Magistrado.
 
@@ -1223,9 +1225,11 @@ En igual forma, causarán ejecutoria los convenios que suscriben las partes para
 
 La declaración de sentencia ejecutoria, se hará de oficio o a petición de parte. La que favorezca a un particular o contenga una obligación de hacer o de condena, deberá comunicarse a la autoridad correspondiente previniéndola y conminándola a rendir un informe dentro de los quince días siguientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
+
 ###### ARTÍCULO 96.
 
-Si dentro del término a que se refiere el artículo anterior, la autoridad no cumple con la sentencia o su cumplimiento es excesivo o defectuoso; o, habiéndola cumplido, en cualquier tiempo repite el acto declarado inválido o nulo; o bien, no rinde el informe que corresponda, se le aplicará una multa de diez a sesenta veces el salario mínimo general diario vigente en el Estado. Independientemente de esta sanción, el Pleno del conocimiento comunicará al superior jerárquico de la autoridad de que se trate, la actitud de desobediencia, a fin de que lo conmine al cumplimiento de la resolución.
+Si dentro del término a que se refiere el artículo anterior, la autoridad no cumple con la sentencia o su cumplimiento es excesivo o defectuoso; o, habiéndola cumplido, en cualquier tiempo repite el acto declarado inválido o nulo; o bien, no rinde el informe que corresponda, se le aplicará una multa de diez a sesenta Unidades de Medida y Actualización. Independientemente de esta sanción, el Pleno del conocimiento comunicará al superior jerárquico de la autoridad de que se trate, la actitud de desobediencia, a fin de que lo conmine al cumplimiento de la resolución.
 
 > <small>(REFORMADO, B.O. 11 DE MAYO DE 2017)</small>
 
@@ -1333,9 +1337,11 @@ Se exceptúan del párrafo anterior, los Agentes del Ministerio Público, perito
 
 El Magistrado dará vista al Pleno con la solicitud de las partes que tengan por objeto hacer del conocimiento de la autoridad competente que, durante el procedimiento o en la ejecución de las resoluciones de los juicios tramitados en las (sic) Plenos, se haya realizado por las partes, alguna conducta tipificada en el Código Penal como delito o, en los casos previstos por la Ley de Responsabilidades de los Servidores Públicos del Estado. El órgano colegiado en Pleno, resolverá la procedencia de la solicitud, a más tardar en la sesión siguiente a la que ésta fue presentada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
+
 ###### ARTÍCULO 103.
 
-Independientemente de la responsabilidad penal o administrativa que pudiera constituirse, el Magistrado impondrá multa de diez a seiscientas veces el importe del salario mínimo general vigente en el Estado a las partes que:
+Independientemente de la responsabilidad penal o administrativa que pudiera constituirse, el Magistrado impondrá multa de diez a seiscientas Unidades de Medida y Actualización a las partes que:
 
 I.- Afirmen dolosamente hechos falsos u omitan los que les consta en relación con sus pretensiones; y,
 
@@ -1438,3 +1444,11 @@ De conformidad con el artículo sexto transitorio de la Ley del Servicio Civil, 
 El Tribunal de Justicia Administrativa seguirá conociendo de los juicios y recursos en materia fiscal administrativa, responsabilidad administrativa, responsabilidad objetiva y de servicio civil, que actualmente se encuentran en trámite ante el Tribunal Contencioso Administrativo.
 
 Asimismo, todas aquellas disposiciones en las que se mencione el Tribunal Contencioso Administrativo se entenderán referidas al Tribunal de Justicia Administrativa.
+
+B.O. 3 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 148, QUE REFORMA DIVERSAS DISPOSICIONES DE LEY ANTICORRUPCIÓN EN CONTRATACIONES PÚBLICAS PARA EL ESTADO DE SONORA, LEY DE BIENES Y CONCESIONES DEL ESTADO DE SONORA, LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA, LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SONORA, LEY DE FOMENTO DE LA CULTURA Y PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE SONORA, LEY DE AGUA DEL ESTADO DE SONORA, LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, LEY DE GANADERÍA PARA EL ESTADO DE SONORA, CÓDIGO FISCAL DEL ESTADO DE SONORA, LEY DE FOMENTO AL EMPLEO PARA EL ESTADO DE SONORA, LEY "5 DE JUNIO" QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE SONORA, LEY DE ALIANZAS PÚBLICO PRIVADAS DE SERVICIOS DEL ESTADO DE SONORA, LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL, LEY DE PESCA Y ACUICULTURA PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE SONORA, LEY DE PROFESIONES DEL ESTADO DE SONORA, LEY DE PROTECCIÓN DE ANIMALES PARA EL ESTADO DE SONORA, LEY DE PROTECCIÓN CIUDADANA CONTRA LOS EFECTOS NOCIVOS DEL TABACO, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SONORA, LEY DE RECONOCIMIENTOS AL MÉRITO CÍVICO, LEY DE REGULACIÓN Y FOMENTO DE TIEMPO COMPARTIDO PARA EL ESTADO DE SONORA, LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICO (SIC) DEL ESTADO Y DE LOS MUNICIPIOS, LEY DE SALUD PARA EL ESTADO DE SONORA, LEY DE TRANSPORTE PARA EL ESTADO DE SONORA, LEY DE TRÁNSITO DEL ESTADO DE SONORA, LEY DE VIVIENDA PARA EL ESTADO, LEY DEL NOTARIADO PARA EL ESTADO DE SONORA, LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO, LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL ESTADO DE SONORA, LEY QUE CREA EL REGISTRO DE AGENTES INMOBILIARIOS, LEY QUE CREA LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, LEY QUE DETERMINA LAS BASES DE OPERACIÓN DE LAS CASAS DE EMPEÑO DEL ESTADO DE SONORA, LEY QUE ESTABLECE EL ARANCEL PARA LOS NOTARIOS, LEY QUE ESTABLECE EL SISTEMA DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE SONORA, LEY QUE REGULA LA ADMINISTRACIÓN DE DOCUMENTOS ADMINISTRATIVOS E HISTÓRICOS, LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA, LEY DE INTEGRACIÓN SOCIAL PARA PERSONAS CON DISCAPACIDAD DEL ESTADO DE SONORA, LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA, LEY DE LOS DERECHOS DE LOS CONTRIBUYENTES DEL ESTADO DE SONORA, LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA, LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA, LEY DE HACIENDA DEL ESTADO, LEY DE HACIENDA MUNICIPAL, CÓDIGO PENAL DEL ESTADO DE SONORA, CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA, CÓDIGO CIVIL PARA EL ESTADO DE SONORA, LEY DE EJECUCIÓN DE SANCIONES PENALES Y MEDIDAS DE SEGURIDAD DEL ESTADO DE SONORA, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE SONORA, LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SONORA, LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN, TRATAMIENTO, REHABILITACIÓN Y CONTROL DE ADICCIONES DEL ESTADO DE SONORA, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA; LEY PARA LA PROTECCIÓN DE PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL PARA EL ESTADO DE SONORA, LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LA TORTURA EN EL ESTADO DE SONORA, LEY QUE REGULA EL FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DONDE OPEREN MÁQUINAS ELECTRÓNICAS DE JUEGO CON SORTEO DE NÚMEROS Y APUESTA, LEY QUE REGULA EL FUNCIONAMIENTO Y OPERACIÓN DE LOS ESTABLECIMIENTOS COMERCIALES QUE PRESTAN AL PÚBLICO EL SERVICIO DE ACCESO A INTERNET EN FORMA ONEROSA EN EL ESTADO DE SONORA Y LEY QUE REGULA LA PRÁCTICA PROFESIONAL DEL BOX, LUCHA LIBRE Y ARTES MARCIALES MIXTAS EN EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
