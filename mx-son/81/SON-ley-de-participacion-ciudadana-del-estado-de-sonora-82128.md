@@ -4,7 +4,7 @@ identifier: "SON-ley-de-participacion-ciudadana-del-estado-de-sonora-82128"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-01"
-last_updated: "2014-12-11"
+last_updated: "2017-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY DE PARTICIPACION CIUDADANA DEL ESTADO DE SONORA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY PARTICIPACIÓN CIUDADANA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
 
 Ley publicada en la Edición Especial Número 6 del Boletín Oficial del Estado de Sonora, el viernes 1 de julio de 2011.
 
@@ -113,19 +115,13 @@ VI.- El Presupuesto Participativo;
 
 VII.- Las Agencias de Desarrollo Local;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, B.O. 11 DE DICIEMBRE DE 2014)</small>
 
 VIII.- De los comités de participación ciudadana;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 11 DE DICIEMBRE DE 2014)</small>
 
 IX.- Legislador Joven; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 11 DE DICIEMBRE DE 2014)</small>
 
@@ -1109,19 +1105,13 @@ En caso de separación, remoción o renuncia de cualquiera de los miembros del c
 
 El comité podrá invitar a algún vecino de la comunidad para que asuma una función que se encuentre vacante en el mismo, debiendo ser nombrado por votación de dos terceras partes de los miembros de dicho comité; por falta definitiva de los mismos deberá convocarse a asamblea pública para que decidan los vecinos sobre la integración de dicho comité.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 11 DE DICIEMBRE DE 2014)</small>
 
 ### CAPÍTULO X. DEL LEGISLADOR JOVEN
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, B.O. 11 DE DICIEMBRE DE 2014)</small>
 
 ARTÍCULO 116 BIS.- La figura de legislador joven es un instrumento de participación ciudadana cuyo objetivo es la creación de un vínculo entre los jóvenes sonorenses y el Poder Legislativo, mediante el cual se crea un espacio para su expresión y participación en la vida política estatal, se les fomenta el conocimiento de la actividad y el proceso legislativo y se desarrolla en ellos una formación de cultura política.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, B.O. 11 DE DICIEMBRE DE 2014)</small>
 
@@ -1133,8 +1123,6 @@ II.- Para los efectos de la fracción anterior, los diputados jóvenes se sujeta
 
 III.- Para la elección de los diputados jóvenes que realice la Comisión de Deporte y Juventud del Congreso del Estado de Sonora se tomará en cuenta la equidad de género.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, B.O. 11 DE DICIEMBRE DE 2014)</small>
 
 ARTÍCULO 116 BIS 2.- Son atribuciones del Congreso:
@@ -1142,8 +1130,6 @@ ARTÍCULO 116 BIS 2.- Son atribuciones del Congreso:
 I.- Aprobar y ordenar la difusión de la convocatoria por medios impresos, páginas de internet y redes sociales; y
 
 II.- Designar una comisión para dar seguimiento a las iniciativas presentadas por los diputados jóvenes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ARTÍCULO 116 BIS 3.- De los requisitos para ser elegido diputado joven:
 
@@ -1156,8 +1142,6 @@ III.- Elaborar y presentar ante la Comisión de Deporte y Juventud iniciativa de
 IV.- Tener entre 12 y 29 años de edad el día de la inscripción; y
 
 V.- Presentar la documentación que sea requerida en la convocatoria.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, B.O. 11 DE DICIEMBRE DE 2014)</small>
 
@@ -1175,17 +1159,23 @@ Durante los cinco días anteriores a la jornada de consulta de los procesos de p
 
 Los partidos políticos no podrán participar en los procedimientos de participación ciudadana ni financiar su difusión, promoción o cualquier actividad de los ciudadanos solicitantes, en su caso.
 
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
+
 ###### ARTÍCULO 119.
 
-El Consejo sancionará a los partidos políticos por la violación a lo dispuesto en el artículo anterior con multa de quinientos a cinco mil días de salario mínimo diario vigente en la capital del Estado.
+El Consejo sancionará a los partidos políticos por la violación a lo dispuesto en el artículo anterior con multa de quinientos (sic) a cinco mil Unidades de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
 
 ###### ARTÍCULO 120.
 
-Sin perjuicio de lo dispuesto en el artículo anterior, se sancionará a quienes contraten propaganda en radio y televisión para influir en las preferencias en los procedimientos de participación ciudadana que contempla esta Ley, con multa de doscientos a dos mil días de salario mínimo diario vigente en la capital del Estado.
+Sin perjuicio de lo dispuesto en el artículo anterior, se sancionará a quienes contraten propaganda en radio y televisión para influir en las preferencias en los procedimientos de participación ciudadana que contempla esta Ley, con multa de doscientos (sic) a dos mil Unidades de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
 
 ###### ARTÍCULO 121.
 
-Se sancionará a quienes den a conocer públicamente las preferencias de los ciudadanos dentro de los cinco días anteriores a la jornada de consulta de los procedimientos de plebiscito, referéndum y consulta ciudadana, y hasta el cierre oficial de las consultas, con multa de doscientos a dos mil días de salario mínimo diario vigente en la capital del Estado.
+Se sancionará a quienes den a conocer públicamente las preferencias de los ciudadanos dentro de los cinco días anteriores a la jornada de consulta de los procedimientos de plebiscito, referéndum y consulta ciudadana, y hasta el cierre oficial de las consultas, con multa de doscientos (sic) a dos mil Unidades de Medida y Actualización.
 
 ## TÍTULO CUARTO. DEL RECURSO DE APELACIÓN
 
@@ -1247,10 +1237,18 @@ EL SECRETARIO DE GOBIERNO
 
 HECTOR LARIOS CORDOVA
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 B.O. 11 DE DICIEMBRE DE 2014.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día 01 de enero de 2015, previa su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 3 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 148 “QUE REFORMA DIVERSAS DISPOSICIONES DE LEY ANTICORRUPCIÓN EN CONTRATACIONES PÚBLICAS PARA EL ESTADO DE SONORA, LEY DE BIENES Y CONCESIONES DEL ESTADO DE SONORA, LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA, LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SONORA, LEY DE FOMENTO DE LA CULTURA Y PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE SONORA, LEY DE AGUA DEL ESTADO DE SONORA, LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, LEY DE GANADERÍA PARA EL ESTADO DE SONORA, CÓDIGO FISCAL DEL ESTADO DE SONORA, LEY DE FOMENTO AL EMPLEO PARA EL ESTADO DE SONORA, LEY "5 DE JUNIO" QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE SONORA, LEY DE ALIANZAS PÚBLICO PRIVADAS DE SERVICIOS DEL ESTADO DE SONORA, LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL, LEY DE PESCA Y ACUICULTURA PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE SONORA, LEY DE PROFESIONES DEL ESTADO DE SONORA, LEY DE PROTECCIÓN DE ANIMALES PARA EL ESTADO DE SONORA, LEY DE PROTECCIÓN CIUDADANA CONTRA LOS EFECTOS NOCIVOS DEL TABACO, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SONORA, LEY DE RECONOCIMIENTOS AL MÉRITO CÍVICO, LEY DE REGULACIÓN Y FOMENTO DE TIEMPO COMPARTIDO PARA EL ESTADO DE SONORA, LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICO (SIC) DEL ESTADO Y DE LOS MUNICIPIOS, LEY DE SALUD PARA EL ESTADO DE SONORA, LEY DE TRANSPORTE PARA EL ESTADO DE SONORA, LEY DE TRÁNSITO DEL ESTADO DE SONORA, LEY DE VIVIENDA PARA EL ESTADO, LEY DEL NOTARIADO PARA EL ESTADO DE SONORA, LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO, LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL ESTADO DE SONORA, LEY QUE CREA EL REGISTRO DE AGENTES INMOBILIARIOS, LEY QUE CREA LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, LEY QUE DETERMINA LAS BASES DE OPERACIÓN DE LAS CASAS DE EMPEÑO DEL ESTADO DE SONORA, LEY QUE ESTABLECE EL ARANCEL PARA LOS NOTARIOS, LEY QUE ESTABLECE EL SISTEMA DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE SONORA, LEY QUE REGULA LA ADMINISTRACIÓN DE DOCUMENTOS ADMINISTRATIVOS E HISTÓRICOS, LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA, LEY DE INTEGRACIÓN SOCIAL PARA PERSONAS CON DISCAPACIDAD DEL ESTADO DE SONORA, LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA, LEY DE LOS DERECHOS DE LOS CONTRIBUYENTES DEL ESTADO DE SONORA, LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA, LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA, LEY DE HACIENDA DEL ESTADO, LEY DE HACIENDA MUNICIPAL, CÓDIGO PENAL DEL ESTADO DE SONORA, CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA, CÓDIGO CIVIL PARA EL ESTADO DE SONORA, LEY DE EJECUCIÓN DE SANCIONES PENALES Y MEDIDAS DE SEGURIDAD DEL ESTADO DE SONORA, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE SONORA, LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SONORA, LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN, TRATAMIENTO, REHABILITACIÓN Y CONTROL DE ADICCIONES DEL ESTADO DE SONORA, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA; LEY PARA LA PROTECCIÓN DE PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL PARA EL ESTADO DE SONORA, LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LA TORTURA EN EL ESTADO DE SONORA, LEY QUE REGULA EL FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DONDE OPEREN MÁQUINAS ELECTRÓNICAS DE JUEGO CON SORTEO DE NÚMEROS Y APUESTA, LEY QUE REGULA EL FUNCIONAMIENTO Y OPERACIÓN DE LOS ESTABLECIMIENTOS COMERCIALES QUE PRESTAN AL PUBLICO EL SERVICIO DE ACCESO A INTERNET EN FORMA ONEROSA EN EL ESTADO DE SONORA Y LEY QUE REGULA LA PRÁCTICA PROFESIONAL DEL BOX, LUCHA LIBRE Y ARTES MARCIALES MIXTAS EN EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
