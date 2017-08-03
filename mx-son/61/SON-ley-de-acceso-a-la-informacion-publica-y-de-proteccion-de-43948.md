@@ -4,7 +4,7 @@ identifier: "SON-ley-de-acceso-a-la-informacion-publica-y-de-proteccion-de-43948
 country: "mx"
 rank: "ley"
 publication_date: "2005-02-25"
-last_updated: "2016-04-28"
+last_updated: "2017-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43948&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "SON"
 ---
 # LEY DE ACCESO A LA INFORMACION PUBLICA Y DE PROTECCION DE DATOS PERSONALES DEL ESTADO DE SONORA -ANTES LEY DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE SONORA-
 
+[NOTA 1: DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 28 DE ABRIL DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO CON EXCEPCIÓN DEL TÍTULO SEGUNDO, CAPÍTULO SEGUNDO, SECCIONES CUARTA, QUINTA Y SEXTA, RELATIVOS A LA PROTECCIÓN DE DATOS PERSONALES, DE LOS DERECHOS EN MATERIA DE DATOS PERSONALES Y DE LOS PROCEDIMIENTOS PARA EL EJERCICIO DE LOS DERECHOS EN MATERIA DE DATOS PERSONALES; ASÍ COMO EL TÍTULO QUINTO, CAPÍTULO ÚNICO, RELATIVO AL SISTEMA DE ARCHIVOS, LOS CUALES PERMANECERÁN VIGENTES HASTA EN TANTO SE APRUEBEN LAS LEYES GENERALES EN LAS MATERIAS Y SE ARMONICE EL MARCO NORMATIVO ESTATAL CORRESPONDIENTE.]
+
+[NOTA 2: DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY NÚMERO 192, DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 3 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO EL TÍTULO SEGUNDO, CAPÍTULO SEGUNDO, SECCIONES CUARTA, QUINTA Y SEXTA, RELATIVOS A LA PROTECCIÓN DE DATOS PERSONALES, DE LOS DERECHOS EN MATERIA DE DATOS PERSONALES Y DE LOS PROCEDIMIENTOS PARA EL EJERCICIO DE LOS DERECHOS EN MATERIA DE DATOS PERSONALES; DE LA LEY DE ACCESO A LA INFORMACIÓN PÚBLICA Y DE PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE SONORA, PUBLICADA EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO NÚMERO 16, SECCIÓN II, DE FECHA 25 DE FEBRERO DE 2005.]
+
 LEY DE ACCESO A LA INFORMACIÓN PÚBLICA Y DE PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE SONORA
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 28 DE ABRIL DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO CON EXCEPCIÓN DEL TÍTULO SEGUNDO, CAPÍTULO SEGUNDO, SECCIONES CUARTA, QUINTA Y SEXTA, RELATIVOS A LA PROTECCIÓN DE DATOS PERSONALES, DE LOS DERECHOS EN MATERIA DE DATOS PERSONALES Y DE LOS PROCEDIMIENTOS PARA EL EJERCICIO DE LOS DERECHOS EN MATERIA DE DATOS PERSONALES; ASÍ COMO EL TÍTULO QUINTO, CAPÍTULO ÚNICO, RELATIVO AL SISTEMA DE ARCHIVOS, LOS CUALES PERMANECERÁN VIGENTES HASTA EN TANTO SE APRUEBEN LAS LEYES GENERALES EN LAS MATERIAS Y SE ARMONICE EL MARCO NORMATIVO ESTATAL CORRESPONDIENTE.]</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE ABRIL DE 2016 (ABROGADA PARCIALMENTE).
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017 (DEROGADO PARCIALMENTE).
 
 Ley publicada en la Segunda Sección del Boletín Oficial del Estado de Sonora, el viernes 25 de febrero de 2005.
 
@@ -462,6 +464,8 @@ Artículo 13 Bis I.- El Instituto promoverá que, en los planes y programas educ
 > <small>(ADICIONADO, B.O. 12 DE AGOSTO DE 2013)</small>
 
 Artículo 13 Bis J.- El Instituto promoverá la cultura de la transparencia y el derecho de acceso a la información pública y su impacto en el desarrollo de la democracia, para el público en general, mediante la realización de cursos, talleres y cualquier otro método pedagógico.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY NÚMERO 192, DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 3 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO EL TÍTULO SEGUNDO, CAPÍTULO SEGUNDO, SECCIONES CUARTA, QUINTA Y SEXTA, RELATIVOS A LA PROTECCIÓN DE DATOS PERSONALES, DE LOS DERECHOS EN MATERIA DE DATOS PERSONALES Y DE LOS PROCEDIMIENTOS PARA EL EJERCICIO DE LOS DERECHOS EN MATERIA DE DATOS PERSONALES; DE LA LEY DE ACCESO A LA INFORMACIÓN PÚBLICA Y DE PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE SONORA, PUBLICADA EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO NÚMERO 16, SECCIÓN II, DE FECHA 25 DE FEBRERO DE 2005.]</small>
 
 ## TITULO SEGUNDO. DE LA INFORMACIÓN PÚBLICA
 
@@ -953,6 +957,8 @@ El sitio de internet de los sujetos obligados deberá contar con buscadores tem�
 
 Artículo 17 Bis M.- En los sitios de internet de los sujetos obligados a los que se refiere este Capítulo, se deberá indicar la unidad administrativa responsable de publicar la información, así como la unidad o unidades administrativas responsables de generar o proporcionar la información de cada uno de los rubros aplicables a los sujetos obligados.
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY NÚMERO 192, DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 3 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO EL TÍTULO SEGUNDO, CAPÍTULO SEGUNDO, SECCIONES CUARTA, QUINTA Y SEXTA, RELATIVOS A LA PROTECCIÓN DE DATOS PERSONALES, DE LOS DERECHOS EN MATERIA DE DATOS PERSONALES Y DE LOS PROCEDIMIENTOS PARA EL EJERCICIO DE LOS DERECHOS EN MATERIA DE DATOS PERSONALES; DE LA LEY DE ACCESO A LA INFORMACIÓN PÚBLICA Y DE PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE SONORA, PUBLICADA EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO NÚMERO 16, SECCIÓN II, DE FECHA 25 DE FEBRERO DE 2005.]</small>
+
 ### CAPITULO SEGUNDO. DE LA INFORMACIÓN DE ACCESO RESTRINGIDO
 
 #### SECCIÓN I. DISPOSICIONES COMUNES
@@ -1121,7 +1127,7 @@ Sin perjuicio de lo considerado en el párrafo anterior, será considerada confi
 
 Cuando los particulares entreguen a los sujetos obligados información confidencial derivada de un trámite o procedimiento del cual puedan obtener un beneficio, deberán señalar los documentos o secciones de ellos que contengan tal información. En el caso de que exista una solicitud de acceso que incluya información confidencial, los sujetos obligados podrán comunicarla siempre y cuando medie el consentimiento expreso del particular titular de dicha información confidencial.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY NÚMERO 192, DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 3 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO EL TÍTULO SEGUNDO, CAPÍTULO SEGUNDO, SECCIONES CUARTA, QUINTA Y SEXTA, RELATIVOS A LA PROTECCIÓN DE DATOS PERSONALES, DE LOS DERECHOS EN MATERIA DE DATOS PERSONALES Y DE LOS PROCEDIMIENTOS PARA EL EJERCICIO DE LOS DERECHOS EN MATERIA DE DATOS PERSONALES; DE LA LEY DE ACCESO A LA INFORMACIÓN PÚBLICA Y DE PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE SONORA, PUBLICADA EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO NÚMERO 16, SECCIÓN II, DE FECHA 25 DE FEBRERO DE 2005.]</small>
 
 > <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2011)</small>
 
@@ -1197,7 +1203,7 @@ Los datos personales únicamente podrán ser conservados de manera íntegra, per
 
 Los sujetos obligados deberán adoptar las medidas de seguridad que mediante lineamientos generales emita el Instituto, para proteger la información contra los riesgos naturales, como la pérdida accidental o la destrucción por siniestro, y contra los riesgos humanos, como pérdida, consulta o tratamiento sin autorización, la utilización encubierta de datos o la contaminación por virus informáticos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY NÚMERO 192, DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 3 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO EL TÍTULO SEGUNDO, CAPÍTULO SEGUNDO, SECCIONES CUARTA, QUINTA Y SEXTA, RELATIVOS A LA PROTECCIÓN DE DATOS PERSONALES, DE LOS DERECHOS EN MATERIA DE DATOS PERSONALES Y DE LOS PROCEDIMIENTOS PARA EL EJERCICIO DE LOS DERECHOS EN MATERIA DE DATOS PERSONALES; DE LA LEY DE ACCESO A LA INFORMACIÓN PÚBLICA Y DE PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE SONORA, PUBLICADA EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO NÚMERO 16, SECCIÓN II, DE FECHA 25 DE FEBRERO DE 2005.]</small>
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 26 DE DICIEMBRE DE 2011)</small>
 
@@ -1247,7 +1253,7 @@ La cancelación de datos personales no procede cuando pudiese causar perjuicios 
 
 Artículo 34 Bis B.- De conformidad con lo dispuesto en esta Ley, cualquier persona interesada tendrá derecho a oponerse al tratamiento de los datos personales que le conciernen, en el supuesto que los datos se hubieran recabado sin su consentimiento, cuando existan motivos fundados para ello y la Ley no disponga lo contrario. De actualizarse tal supuesto, el sujeto obligado responsable de la base de datos correspondiente deberá excluir del tratamiento los datos personales relativos al afectado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY NÚMERO 192, DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 3 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO EL TÍTULO SEGUNDO, CAPÍTULO SEGUNDO, SECCIONES CUARTA, QUINTA Y SEXTA, RELATIVOS A LA PROTECCIÓN DE DATOS PERSONALES, DE LOS DERECHOS EN MATERIA DE DATOS PERSONALES Y DE LOS PROCEDIMIENTOS PARA EL EJERCICIO DE LOS DERECHOS EN MATERIA DE DATOS PERSONALES; DE LA LEY DE ACCESO A LA INFORMACIÓN PÚBLICA Y DE PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE SONORA, PUBLICADA EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO NÚMERO 16, SECCIÓN II, DE FECHA 25 DE FEBRERO DE 2005.]</small>
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 26 DE DICIEMBRE DE 2011)</small>
 
@@ -1998,3 +2004,35 @@ Los procedimientos de acceso a la información pública y los recursos de revisi
 Los vocales del Instituto de Transparencia Informativa del Estado de Sonora, desempeñarán el cargo de comisionado durante el resto del periodo por el que fueron designados por el Congreso del Estado, por lo que su encargo concluirá el día 12 de diciembre de 2018.
 
 En caso de que concluya el periodo señalado en el párrafo anterior y el Congreso del Estado no hubiere designado nuevos comisionados, los actuales continuarán en el cargo hasta en tanto se realice las designaciones correspondientes, lo cual no constituirá una ratificación expresa o tácita para la continuidad en dichos cargos.
+
+B.O. 3 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DE LA “LEY NÚMERO 192 DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan el Título Segundo, Capítulo Segundo, Secciones Cuarta, Quinta y Sexta, relativos a la Protección de datos Personales, De Los Derechos en Materia de Datos Personales y de los procedimientos para el Ejercicio de los Derechos en Materia de Datos Personales, de la Ley de Acceso a la Información Pública y de Protección de Datos Personales del Estado de Sonora, publicada en el Boletín Oficial del Gobierno del Estado número 16, sección II, de fecha 25 de febrero de 2005.
+
+###### ARTÍCULO TERCERO.
+
+Los responsables expedirán sus avisos de privacidad en los términos previstos en la presente Ley y demás disposiciones aplicables, a más tardar tres meses después de la entrada en vigor de ésta.
+
+###### ARTÍCULO CUARTO.
+
+Los responsables deberán observar lo dispuesto en el Título Segundo, Capítulo II de la presente Ley, a más tardar un año después de la entrada en vigor de ésta.
+
+###### ARTÍCULO QUINTO.
+
+El Instituto deberá expedir los lineamientos, parámetros, criterios y demás disposiciones de las diversas materias a que se refiere la presente Ley, dentro de un año siguiente a la entrada en vigor de ésta.
+
+###### ARTÍCULO SEXTO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de esta Ley, se sustanciarán hasta su conclusión de acuerdo al procedimiento que resulte aplicable.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Congreso del Estado de Sonora deberá hacer las previsiones presupuestales necesarias para la operación de la presente Ley y establecer las partidas presupuestales específicas en el Presupuesto de Egresos de Estado de Sonora para el siguiente ejercicio fiscal a su entrada en vigor.
