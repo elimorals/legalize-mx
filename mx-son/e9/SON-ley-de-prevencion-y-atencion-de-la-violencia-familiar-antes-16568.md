@@ -4,7 +4,7 @@ identifier: "SON-ley-de-prevencion-y-atencion-de-la-violencia-familiar-antes-165
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-31"
-last_updated: "2011-05-16"
+last_updated: "2017-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16568&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SON"
 ---
 # LEY DE PREVENCION Y ATENCION DE LA VIOLENCIA FAMILIAR -ANTES LEY DE PREVENCION Y ATENCION DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE SONORA-
 
-LEY DE PREVENCION Y ATENCION DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE SONORA
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-ULTIMA REFORMA PUBLICADA EN BOLETIN OFICIAL: 4 DE JUNIO DE 2009.
+LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE SONORA
 
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 16 DE MAYO DE 2011 NO APLICA AL ARTICULADO DEL DECRETO NUMERO 179 PUBLICADO EN EL P.O. DE 16 DE MAYO DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
 
 Ley publicada en la Edición Especial del Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1999.
 
@@ -58,8 +58,6 @@ El Estado atenderá, de manera prioritaria, en coordinación con las autoridades
 ###### ARTÍCULO 3°.
 
 Las autoridades responsables de la aplicación de esta Ley, independientemente de las sanciones civiles, penales o administrativas impuestas por autoridad competente, promoverán y vigilarán la observancia de los derechos de los receptores de violencia intrafamiliar, procurando una correcta aplicación de los medios legales y materiales para prevenir cualquier violación a los mismos y, en su caso, restituirlos en el goce y ejercicio de sus derechos individuales o comunes.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
 
@@ -119,7 +117,7 @@ XVI.- Unidad Doméstica.- La estructura de los hogares definidas por las relacio
 
 Para los efectos de esta Ley se entiende por:
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 6 DE JULIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE JULIO DE 2006)</small>
 
 I.- Violencia familiar o intrafamiliar.- Todo acto de poder u omisión intencional dirigido a dominar, someter, controlar o agredir física, verbal, psicoemocional, sexual o patrimonialmente a cualquier miembro de la familia y que pueda causar los siguientes tipos de daño:
 
@@ -293,13 +291,9 @@ II.- Proporcionar, mediante línea telefónica de emergencia, servicios de atenc
 
 En los supuestos a que se refiere la Fracción II del artículo anterior, según la urgencia del caso, se comisionará a personal del área de servicio social o psicológico, pudiendo auxiliarse por razones de seguridad con elementos oficiales de la Institución y trasladarse al lugar de los hechos a efecto de recabar la información necesaria, solicitando en caso necesario, la intervención directa del Ministerio Público, quien además de actuar conforme a su competencia determinará provisionalmente las medidas de protección a la víctima y familiares que resulten adecuadas de acuerdo a las circunstancias y disposiciones previstas por esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
 
 Recabada la información suficiente y en caso de no existir urgencia, el Agente del Ministerio Público Especializado citará a los involucrados, previa determinación de las medidas preventivas adecuadas al caso, procurando la mediación de las partes y la celebración del convenio que voluntariamente determinen éstas, y en su caso, tramitará la orden de protección o medida cautelar que a su juicio estime procedente.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
 
@@ -311,8 +305,6 @@ El DIF Estatal, además de las funciones que en materia de asistencia social tie
 
 I.- Promover programas y acciones de protección social a receptores de la violencia intrafamiliar;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
 
 II.- Prestar servicios de atención y asesoría jurídica, psicológica y social gratuitos a receptores y generadores de la violencia intrafamilíar;
@@ -320,8 +312,6 @@ II.- Prestar servicios de atención y asesoría jurídica, psicológica y social
 III.- Canalizar a las instituciones competentes los casos de violencia intrafamiliar detectados en la ejecución de sus programas de asistencia social;
 
 IV.- Implementar programas para detectar casos de violencia intrafamiliar en instituciones de asistencia social y para capacitar personal de instancias públicas o privadas que atiendan este tipo de problemática;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
 
@@ -333,19 +323,13 @@ VII.- Efectuar un censo anual de familias con riesgo de violencia intrafamiliar;
 
 VIII.- Elaborar y difundir material de información a las familias para la prevención de la violencia intrafamiliar;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
 
 IX.- Incluir en su programa de formación policiaca, cursos de capacitación sobre violencia intrafamiliar;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
 
 X.- Fomentar, en coordinación con instituciones públicas o privadas, la realización de investigaciones sobre la violencia intrafamiliar con el propósito de diseñar nuevos modelos para su prevención y atención; y
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, B.O. 4 DE JUNIO DE 2009)</small>
 
@@ -361,13 +345,9 @@ II.- Gestionar ante las autoridades competentes las medidas de protección urgen
 
 III.- Canalizar a los receptores y generadores de violencia intrafamiliar a las instituciones competentes para su atención y tratamiento correspondiente;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
 
 IV.- Llevar los procedimientos de mediación o, en su caso, arbitraje, a que se refiere la presente Ley; y,
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
 
@@ -387,13 +367,9 @@ IV.- Canalizar a los receptores y generadores de violencia intrafamiliar a las i
 
 V.- Celebrar convenios de coordinación con las autoridades nacionales y estatales para el efecto de hacer más eficiente el ejercicio de sus funciones;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
 
 VI.- Solicitar y proporcionar a cualquier autoridad que lo requiera, los informes, datos estadísticos y el auxilio necesarios para el cumplimiento de sus funciones; y
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
 
@@ -434,8 +410,6 @@ Cuando un Agente de la Policía Preventiva en cumplimiento de sus funciones teng
 ###### ARTÍCULO 22.
 
 La Procuraduría General de Justicia del Estado, a través de la Policía Judicial del Estado, y las Corporaciones de Policía y Tránsito Municipal, en los casos de reportes sobre actos o hechos de violencia intrafamiliar, proveerán las acciones y medidas preventivas necesarias para garantizar a los receptores y sus familiares la más completa protección a su integridad y seguridad personales, así como turnar a los generadores de violencia a las autoridades competentes.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
 
@@ -547,7 +521,7 @@ La prevención de la violencia intrafamiliar estará orientada a propiciar una c
 
 La atención especializada que en materia de violencia intrafamiliar proporcione cualquier Institución, sea pública, privada o social, tendrá las siguientes características:
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 6 DE JULIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE JULIO DE 2006)</small>
 
 I.- Tenderá a la resolución de fondo, del problema de la violencia intrafamiliar, respetando la dignidad y la diferencia de los receptores y generadores de la violencia intrafamiliar, a través de acciones de tipo:
 
@@ -567,7 +541,7 @@ La atención a que se refiere el artículo anterior se hará extensiva en los Ce
 
 ###### ARTÍCULO 33.
 
-El personal de las instituciones a quienes corresponda la atención, orientación, investigación, protección o prevención de la violencia intrafamiliar deberán contar con la capacitación correspondiente y antecedentes personales de eficiencia, honradez, profesionalismo y respeto a la legalidad y a los derechos humanos.
+El personal de las instituciones a quienes corresponda la atención, orientación, investigación, protección o prevención de la violencia intrafamiliar deberán (sic) contar con la capacitación correspondiente y antecedentes personales de eficiencia, honradez, profesionalismo y respeto a la legalidad y a los derechos humanos.
 
 La capacitación tendrá una estrategia multiplicadora y deberá estar dirigida a la sensibilización y comprensión de la complejidad y multicasualidad de la violencia intrafamiliar, a la reflexión de cómo pueden perfeccionarse las propuestas de atención y fortalecimiento del compromiso del servicio acorde al objeto de esta ley.
 
@@ -579,17 +553,13 @@ Cuando la persona esté en condiciones de proporcionar información voluntaria s
 
 ## TÍTULO QUINTO. DE LOS MEDIOS LEGALES PARA EL CUMPLIMIENTO DE LA LEY
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA SU DENOMINACION, B.O. 4 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 4 DE JUNIO DE 2009)</small>
 
 ### CAPÍTULO I. DE LOS PROCEDIMIENTOS DE MEDIACIÓN Y ARBITRAJE
 
 ###### ARTÍCULO 35.
 
 Las partes involucradas en un conflicto intrafamiliar, podrán resolver sus diferencias mediante los procedimientos de:
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
 
@@ -603,17 +573,13 @@ Estos procedimientos serán atendidos por la Procuraduría de la Defensa del Men
 
 Quedan exceptuadas aquellas controversias que versen sobre acciones o derechos derivados del estado civil de las personas o delitos que se persigan de oficio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 36.
 
 Cada procedimiento de solución de los conflictos intrafamiliares a que se refiere el artículo anterior, se llevará a cabo en las audiencias que se consideren necesarias, a efecto de que se reúnan los elementos de convicción necesarios que sustenten las posturas de las partes en conflicto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 4 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 4 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 37.
 
@@ -627,9 +593,7 @@ III.- Los maestros y directivos de las instituciones educativas, así como por l
 
 IV.- En general, cualquier persona que tenga conocimiento de la realización de actos considerados como violencia intrafamiliar.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 4 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 4 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 38.
 
@@ -637,15 +601,11 @@ Los procedimientos a que se refiere este Capítulo iniciarán formalmente con la
 
 Tratándose de incapaces, menores o personas de la tercera edad, se citará a quienes ejerzan la custodia, la patria potestad o la tutela, o en su caso, a las personas de quienes dependan éstos, ordenándose la presentación de la persona o personas receptores de la violencia intrafamiliar, para ser valoradas médica y psicológicamente, pudiendo decretarse por la autoridad competente las medidas de seguridad que resulten necesarias para su integridad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 4 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 4 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 39.
 
 En los procedimientos de mediación y de arbitraje las autoridades a que se refiere el artículo 35 estarán facultadas para:
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
 
@@ -681,15 +641,11 @@ b).- El auxilio de la fuerza pública; y
 
 VI.- Imponer las sanciones administrativas previstas en esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 40.
 
 Dentro de los tres días hábiles siguientes a aquél en el que las autoridades mencionadas en el artículo 35 tengan conocimiento de una queja por violencia intrafamiliar, citarán a las partes involucradas y llevarán a cabo la celebración de la audiencia de mediación en la que el mediador procederá a buscar los acuerdos de las partes, proporcionándoles toda clase de alternativas y exhortándolas a celebrar el convenio respectivo; y además, haciéndolas sabedoras de las consecuencias legales en caso de continuar el conflicto. Si las partes llegan a un acuerdo, se celebrará el respectivo convenio previa aprobación que del mismo haga la autoridad que lleve a cabo el procedimiento, para cuya validez se observará lo dispuesto por el párrafo tercero del artículo 16 de esta Ley.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
 
@@ -723,13 +679,9 @@ Cuando alguna de las partes incumplan con las obligaciones y deberes establecido
 
 Se consideran infracciones a la presente Ley:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
 
 I.- El no asistir sin causa justificada a las audiencias dentro de los procedimientos de mediación o arbitral a que se refiere el capítulo anterior;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
 
@@ -743,21 +695,21 @@ IV.- Los actos de violencia intrafamiliar señalados en el artículo 8º de la p
 
 Las infracciones a la presente Ley se sancionarán con:
 
-I.- Multa de treinta a ciento ochenta días de salario mínimo general vigente en la Capital del Estado, al momento de cometerse la infracción;
+> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2017)</small>
 
-Si el infractor fuese jornalero, obrero, o trabajador no asalariado, la multa será equivalente a un día de su jornal o ingreso diario. Tratándose de personas desempleadas, la multa máxima será el equivalente a un día de salario mínimo general vigente en la Capital del Estado, o conmutable por arresto de treinta y seis horas; y,
+I.- Multa de treinta a ciento ochenta días (sic) Unidades de Medida y Actualización, al momento de cometerse la infracción;
+
+Si el infractor fuese jornalero, obrero, o trabajador no asalariado, la multa será equivalente a un día de su jornada o ingreso diario. Tratándose de personas desempleadas, la multa máxima será el equivalente a una Unidad de Medida y Actualización, o conmutable por arresto de treinta y seis horas; y,
 
 II.- Arresto administrativo hasta por treinta y seis horas.
 
 En el supuesto que el infractor no pagare oportunamente la multa impuesta, podrá permutar ésta por arresto que no excederá de treinta y seis horas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
 
 ###### ARTÍCULO 48.
 
-Se sancionará con multa de treinta a noventa días de salario mínimo general vigente en la Capital del estado, el incumplimiento del convenio o de la resolución emitida en los procedimientos de mediación o de arbitraje.
+Se sancionará con multa de treinta a noventa Unidades de Medida y Actualización, el incumplimiento del convenio o de la resolución emitida en los procedimientos de mediación o de arbitraje.
 
 ###### ARTÍCULO 49.
 
@@ -785,7 +737,7 @@ IV.- El carácter o condición de reincidente del generador de la violencia intr
 
 Al resolver la imposición de una sanción, la autoridad apercibirá en todo caso al infractor para que no reincida, haciéndole saber las consecuencias legales de su conducta.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 6 DE JULIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTÍCULO 53.
 
@@ -861,7 +813,7 @@ SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Hermosillo, Sonora, 29 de diciemb
 
 POR TANTO, mando se publique en el Boletín Oficial del Estado y se le de el debido cumplimiento.- PALACIO DE GOBIERNO, Hermosillo, Sonora, treinta y uno de diciembre de mil novecientos noventa y nueve.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- ARMANDO LOPEZ NOGALES.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- OSCAR LOPEZ VUCOVICH.- RUBRICA.-
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 B.O. 13 DE DICIEMBRE DE 2004.
 
@@ -880,3 +832,11 @@ B.O. 4 DE JUNIO DE 2009.
 ###### ARTÍCULO UNICO.
 
 El presente Decreto entrará en vigor en un plazo de noventa días naturales, contados a partir del día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 3 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 148 “QUE REFORMA DIVERSAS DISPOSICIONES DE LEY ANTICORRUPCIÓN EN CONTRATACIONES PÚBLICAS PARA EL ESTADO DE SONORA, LEY DE BIENES Y CONCESIONES DEL ESTADO DE SONORA, LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA, LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SONORA, LEY DE FOMENTO DE LA CULTURA Y PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE SONORA, LEY DE AGUA DEL ESTADO DE SONORA, LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, LEY DE GANADERÍA PARA EL ESTADO DE SONORA, CÓDIGO FISCAL DEL ESTADO DE SONORA, LEY DE FOMENTO AL EMPLEO PARA EL ESTADO DE SONORA, LEY "5 DE JUNIO" QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE SONORA, LEY DE ALIANZAS PÚBLICO PRIVADAS DE SERVICIOS DEL ESTADO DE SONORA, LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL, LEY DE PESCA Y ACUICULTURA PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE SONORA, LEY DE PROFESIONES DEL ESTADO DE SONORA, LEY DE PROTECCIÓN DE ANIMALES PARA EL ESTADO DE SONORA, LEY DE PROTECCIÓN CIUDADANA CONTRA LOS EFECTOS NOCIVOS DEL TABACO, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SONORA, LEY DE RECONOCIMIENTOS AL MÉRITO CÍVICO, LEY DE REGULACIÓN Y FOMENTO DE TIEMPO COMPARTIDO PARA EL ESTADO DE SONORA, LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICO (SIC) DEL ESTADO Y DE LOS MUNICIPIOS, LEY DE SALUD PARA EL ESTADO DE SONORA, LEY DE TRANSPORTE PARA EL ESTADO DE SONORA, LEY DE TRÁNSITO DEL ESTADO DE SONORA, LEY DE VIVIENDA PARA EL ESTADO, LEY DEL NOTARIADO PARA EL ESTADO DE SONORA, LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO, LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL ESTADO DE SONORA, LEY QUE CREA EL REGISTRO DE AGENTES INMOBILIARIOS, LEY QUE CREA LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, LEY QUE DETERMINA LAS BASES DE OPERACIÓN DE LAS CASAS DE EMPEÑO DEL ESTADO DE SONORA, LEY QUE ESTABLECE EL ARANCEL PARA LOS NOTARIOS, LEY QUE ESTABLECE EL SISTEMA DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE SONORA, LEY QUE REGULA LA ADMINISTRACIÓN DE DOCUMENTOS ADMINISTRATIVOS E HISTÓRICOS, LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA, LEY DE INTEGRACIÓN SOCIAL PARA PERSONAS CON DISCAPACIDAD DEL ESTADO DE SONORA, LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA, LEY DE LOS DERECHOS DE LOS CONTRIBUYENTES DEL ESTADO DE SONORA, LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA, LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA, LEY DE HACIENDA DEL ESTADO, LEY DE HACIENDA MUNICIPAL, CÓDIGO PENAL DEL ESTADO DE SONORA, CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA, CÓDIGO CIVIL PARA EL ESTADO DE SONORA, LEY DE EJECUCIÓN DE SANCIONES PENALES Y MEDIDAS DE SEGURIDAD DEL ESTADO DE SONORA, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE SONORA, LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SONORA, LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN, TRATAMIENTO, REHABILITACIÓN Y CONTROL DE ADICCIONES DEL ESTADO DE SONORA, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA; LEY PARA LA PROTECCIÓN DE PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL PARA EL ESTADO DE SONORA, LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LA TORTURA EN EL ESTADO DE SONORA, LEY QUE REGULA EL FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DONDE OPEREN MÁQUINAS ELECTRÓNICAS DE JUEGO CON SORTEO DE NÚMEROS Y APUESTA, LEY QUE REGULA EL FUNCIONAMIENTO Y OPERACIÓN DE LOS ESTABLECIMIENTOS COMERCIALES QUE PRESTAN AL PUBLICO EL SERVICIO DE ACCESO A INTERNET EN FORMA ONEROSA EN EL ESTADO DE SONORA Y LEY QUE REGULA LA PRÁCTICA PROFESIONAL DEL BOX, LUCHA LIBRE Y ARTES MARCIALES MIXTAS EN EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
