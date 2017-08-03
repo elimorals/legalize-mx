@@ -4,7 +4,7 @@ identifier: "SON-ley-que-determina-las-bases-de-operacion-de-las-casas-de-65112"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-22"
-last_updated: "2017-07-13"
+last_updated: "2017-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65112&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY QUE DETERMINA LAS BASES DE OPERACIÓN DE LAS CASAS DE EMPEÑO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el lunes 22 de diciembre de 2008.
 
@@ -111,11 +111,13 @@ La Secretaría deberá expedir a los propietarios o representante legal, en caso
 
 Si la Secretaría no resuelve dentro del término señalado en el párrafo anterior se entenderá en sentido negativo.
 
-> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
 
 ###### ARTÍCULO 10.
 
-Dentro de los cinco días siguientes a la expedición del permiso de operación, el solicitante deberá presentar a la Secretaría, póliza de seguro vigente otorgada por compañía aseguradora autorizada, cuyo monto asegurado sea equivalente a ocho mil veces el salario mínimo general vigente en la zona económica correspondiente o el suficiente para garantizar los daños y perjuicios que pudiera ocasionarse a los bienes pignorados. En todo caso, el monto de la póliza en ningún caso podrá ser menor a cualquiera de las cantidades antes señaladas, según corresponda. La póliza de seguro deberá estar vigente durante la operación del establecimiento y sus sucursales, cuando las hubiere.
+Dentro de los cinco días siguientes a la expedición del permiso de operación, el solicitante deberá presentar a la Secretaría, póliza de seguro vigente otorgada por compañía aseguradora autorizada, cuyo monto asegurado sea equivalente a ocho mil Unidades de Medida y Actualización o el suficiente para garantizar los daños y perjuicios que pudiera ocasionarse a los bienes pignorados. En todo caso, el monto de la póliza en ningún caso podrá ser menor a cualquiera de las cantidades antes señaladas, según corresponda. La póliza de seguro deberá estar vigente durante la operación del establecimiento y sus sucursales, cuando las hubiere.
+
+> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2013)</small>
 
 Sin perjuicio de las obligaciones derivadas de los contratos de mutuo con interés y garantía prendaria o asimilable a éstos que se celebren, la póliza de seguro deberá estar expedida a nombre de la persona física o moral, propietaria de la casa de empeño de que se trate y deberá asegurar al establecimiento por responsabilidad a terceros contra daños, robo, extravío y, en general, por los perjuicios que sufran los bienes pignorados y que se encuentran en posesión de la casa de empeño correspondiente. Los propietarios de la casa de empeño, deberán señalar el número de póliza del seguro que hayan contratado, en cada uno de los recibos de pago que expidan o en los contratos de mutuo con interés y garantía prendaria que celebren.
 
@@ -275,7 +277,9 @@ Las infracciones a las disposiciones de esta ley serán sancionadas con:
 
 I.- Suspensión temporal del permiso de operación hasta por treinta días;
 
-II.- Multa de cien a cinco mil días de salario mínimo general vigente en la capital del estado; y
+> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2017)</small>
+
+II.- Multa de cien a cinco mil Unidades de Medida y Actualización; y
 
 III.- Cancelación definitiva del permiso de operación.
 
@@ -291,9 +295,11 @@ III. No mantener vigentes las condiciones del establecimiento de conformidad con
 
 IV.- No mantener vigente el permiso para operación de las casas de empeño y, en su caso, de las sucursales de las mismas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
+
 ###### ARTÍCULO 25.
 
-Se impondrá multa de cien a cinco mil días de salario mínimo general vigente en la capital del estado a los propietarios y los representantes legales, en los casos de las personas morales, de las casas de empeño, cuando:
+Se impondrá multa de cien a cinco mil Unidades deMedida (sic) y Actualización a los propietarios y los representantes legales, en los casos de las personas morales, de las casas de empeño, cuando:
 
 I.- No pongan en lugar visible del establecimiento el original o copia certificada del permiso o, en su caso, revalidación y de la constancia de inscripción en el Registro expedidos por la Secretaría;
 
@@ -414,3 +420,11 @@ El presente Decreto entrará en vigor en un plazo de sesenta días naturales, co
 ###### ARTÍCULO SEGUNDO.
 
 Dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, la Secretaría de Hacienda del Estado, deberá modificar los reglamentos correspondientes para adecuarlos a las disposiciones contenidas en este ordenamiento jurídico.
+
+B.O. 3 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 148, QUE REFORMA DIVERSAS DISPOSICIONES DE LEY ANTICORRUPCIÓN EN CONTRATACIONES PÚBLICAS PARA EL ESTADO DE SONORA, LEY DE BIENES Y CONCESIONES DEL ESTADO DE SONORA, LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA, LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SONORA, LEY DE FOMENTO DE LA CULTURA Y PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE SONORA, LEY DE AGUA DEL ESTADO DE SONORA, LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, LEY DE GANADERÍA PARA EL ESTADO DE SONORA, CÓDIGO FISCAL DEL ESTADO DE SONORA, LEY DE FOMENTO AL EMPLEO PARA EL ESTADO DE SONORA, LEY "5 DE JUNIO" QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE SONORA, LEY DE ALIANZAS PÚBLICO PRIVADAS DE SERVICIOS DEL ESTADO DE SONORA, LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL, LEY DE PESCA Y ACUICULTURA PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE SONORA, LEY DE PROFESIONES DEL ESTADO DE SONORA, LEY DE PROTECCIÓN DE ANIMALES PARA EL ESTADO DE SONORA, LEY DE PROTECCIÓN CIUDADANA CONTRA LOS EFECTOS NOCIVOS DEL TABACO, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SONORA, LEY DE RECONOCIMIENTOS AL MÉRITO CÍVICO, LEY DE REGULACIÓN Y FOMENTO DE TIEMPO COMPARTIDO PARA EL ESTADO DE SONORA, LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICO (SIC) DEL ESTADO Y DE LOS MUNICIPIOS, LEY DE SALUD PARA EL ESTADO DE SONORA, LEY DE TRANSPORTE PARA EL ESTADO DE SONORA, LEY DE TRÁNSITO DEL ESTADO DE SONORA, LEY DE VIVIENDA PARA EL ESTADO, LEY DEL NOTARIADO PARA EL ESTADO DE SONORA, LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO, LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL ESTADO DE SONORA, LEY QUE CREA EL REGISTRO DE AGENTES INMOBILIARIOS, LEY QUE CREA LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, LEY QUE DETERMINA LAS BASES DE OPERACIÓN DE LAS CASAS DE EMPEÑO DEL ESTADO DE SONORA, LEY QUE ESTABLECE EL ARANCEL PARA LOS NOTARIOS, LEY QUE ESTABLECE EL SISTEMA DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE SONORA, LEY QUE REGULA LA ADMINISTRACIÓN DE DOCUMENTOS ADMINISTRATIVOS E HISTÓRICOS, LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA, LEY DE INTEGRACIÓN SOCIAL PARA PERSONAS CON DISCAPACIDAD DEL ESTADO DE SONORA, LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA, LEY DE LOS DERECHOS DE LOS CONTRIBUYENTES DEL ESTADO DE SONORA, LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA, LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA, LEY DE HACIENDA DEL ESTADO, LEY DE HACIENDA MUNICIPAL, CÓDIGO PENAL DEL ESTADO DE SONORA, CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA, CÓDIGO CIVIL PARA EL ESTADO DE SONORA, LEY DE EJECUCIÓN DE SANCIONES PENALES Y MEDIDAS DE SEGURIDAD DEL ESTADO DE SONORA, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE SONORA, LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SONORA, LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN, TRATAMIENTO, REHABILITACIÓN Y CONTROL DE ADICCIONES DEL ESTADO DE SONORA, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA; LEY PARA LA PROTECCIÓN DE PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL PARA EL ESTADO DE SONORA, LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LA TORTURA EN EL ESTADO DE SONORA, LEY QUE REGULA EL FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DONDE OPEREN MÁQUINAS ELECTRÓNICAS DE JUEGO CON SORTEO DE NÚMEROS Y APUESTA, LEY QUE REGULA EL FUNCIONAMIENTO Y OPERACIÓN DE LOS ESTABLECIMIENTOS COMERCIALES QUE PRESTAN AL PÚBLICO EL SERVICIO DE ACCESO A INTERNET EN FORMA ONEROSA EN EL ESTADO DE SONORA Y LEY QUE REGULA LA PRÁCTICA PROFESIONAL DEL BOX, LUCHA LIBRE Y ARTES MARCIALES MIXTAS EN EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
