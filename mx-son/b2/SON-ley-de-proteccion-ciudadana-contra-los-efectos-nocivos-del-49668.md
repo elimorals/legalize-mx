@@ -4,7 +4,7 @@ identifier: "SON-ley-de-proteccion-ciudadana-contra-los-efectos-nocivos-del-4966
 country: "mx"
 rank: "ley"
 publication_date: "2006-03-06"
-last_updated: "2013-12-16"
+last_updated: "2017-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE PROTECCION CIUDADANA CONTRA LOS EFECTOS NOCIVOS DEL TABACO
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
 
 Ley publicada en la Sección III al Número 19 del Boletín Oficial del Estado de Sonora, el lunes 6 de marzo de 2006.
 
@@ -181,9 +181,9 @@ La infracción a las disposiciones de esta ley se sancionará con:
 
 I.- Apercibimiento.
 
-> <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2017)</small>
 
-II.- Multa de hasta 3100 salarios mínimos.
+II.- Multa de hasta 3100 Unidades de Medida y Actualización;
 
 III.- Clausura parcial o total, temporal o permanente del establecimiento, excepto oficinas gubernamentales.
 
@@ -209,19 +209,23 @@ IV.- La reincidencia, si es el caso.
 
 Las violaciones a esta ley serán sancionadas administrativamente por la Secretaría de Salud Pública o las dependencias municipales, según sea el caso, en los términos de la distribución de funciones que se definan en los convenios previstos por el artículo 11 de esta ley.
 
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 20.
 
-Se sancionará con apercibimiento la primera vez y con multa equivalente de uno a cinco veces el salario mínimo diario general vigente en la capital del Estado la siguiente ocasión, a quienes realicen la acción prohibida por la fracción III del artículo 16.
+Se sancionará con apercibimiento la primera vez y con multa equivalente de uno a cinco Unidades de Medida y Actualización la siguiente ocasión, a quienes realicen la acción prohibida por la fracción III del artículo 16.
 
-> <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 21.
 
-Se sancionará con multa equivalente de 1000 a 3100 veces el salario mínimo diario general vigente en la capital del Estado y con las sanciones previstas en las fracciones de la IV a la VI del artículo 17, a quienes actualicen cualquiera de los supuestos previstos en las fracciones I y II del artículo 16.
+Se sancionará con multa equivalente de 1000 a 3100 Unidades de Medida y Actualización y con las sanciones previstas en las fracciones de la IV a la VI del artículo 17, a quienes actualicen cualquiera de los supuestos previstos en las fracciones I y II del artículo 16.
+
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 22.
 
-Se sancionará con multa equivalente de cincuenta a quinientas veces el salario mínimo diario general vigente en la capital del Estado a quienes actualicen cualquiera de los supuestos previstos en la fracciones IV, V, VI, VII y VIII del artículo 16 de esta ley.
+Se sancionará con multa equivalente de cincuenta a quinientas Unidades de Medida y Actualización a quienes actualicen cualquiera de los supuestos previstos en la (sic) fracciones IV, V, VI, VII y VIII del artículo 16 de esta ley.
 
 ###### Artículo 23.
 
@@ -340,3 +344,11 @@ B.O. 16 DE DICIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 3 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 148 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 17, FRACCIÓN II, 20, 21 Y 22 DE LA LEY DE PROTECCIÓN CIUDADANA CONTRA LOS EFECTOS NOCIVOS DEL TABACO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
