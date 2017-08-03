@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-accion-ante-el-cambio-climatico-del-estado-de-10960
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-27"
-last_updated: "2016-07-09"
+last_updated: "2017-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LA ACCIÓN ANTE EL CAMBIO CLIMÁTICO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2017.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 27 de agosto de 2015.
 
@@ -43,9 +43,11 @@ LEY PARA LA ACCIÓN ANTE EL CAMBIO CLIMÁTICO DEL ESTADO DE JALISCO
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 1.
 
-La presente Ley (sic) de interés general, orden público, y aplicación general en el Estado.
+La presente Ley es de interés general, orden público y aplicación general en el Estado.
 
 ###### Artículo 2.
 
@@ -275,7 +277,9 @@ III. Promover la incorporación de la Política Estatal en materia de cambio cli
 
 IV. Incorporar en los instrumentos de la política ambiental, tales como el ordenamiento ecológico, la regulación ambiental de los asentamientos humanos o la evaluación del impacto ambiental, los objetivos, criterios y acciones de mitigación y adaptación ante los impactos adversos previsibles del cambio climático;
 
-V. Elaborar y publicar un reporte bianual sobre los niveles de emisiones de gases de efecto invernadero en el Estado y las absorciones y almacenamiento de carbono en sumideros, así como de seguimiento y avance (sic) las acciones realizadas en el año por el Gobierno del Estado en materia de prevención, adaptación y mitigación del cambio climático;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2017)</small>
+
+V. Elaborar y publicar un reporte bianual sobre los niveles de emisiones de gases de efecto invernadero en el Estado y las absorciones y almacenamiento de carbono en sumideros, así como de seguimiento y avance de las acciones realizadas en el año por el Gobierno del Estado en materia de prevención, adaptación y mitigación del cambio climático;
 
 VI. Apoyar y asesorar a los municipios y asociaciones de éstos en la formulación, ejecución y operación de sus Programas Municipales;
 
@@ -561,7 +565,9 @@ XXII. El desarrollo y ejecución de un programa especial para alcanzar la protec
 
 XXIII. El impulsar mecanismos de recaudación, cobro de derechos y establecimiento de sistemas tarifarios y obtención de recursos, que incorporen el pago por los servicios ambientales y de los ecosistemas, para destinarlos al Fondo, a compensar a los proveedores de dichos servicios ambientales y financiar proyectos, acciones y medidas estratégicas en materia de adaptación, en el marco de actuación prioritaria referido en el artículo anterior;
 
-XXIV. El establecimiento (sic) procedimientos de evaluación de pagos por conservación y restauración de los servicios de los ecosistemas, considerando sus circunstancias y las acciones efectivas que realicen los propietarios involucrados;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2017)</small>
+
+XXIV. El establecimiento de los procedimientos de evaluación de pagos por conservación y restauración de los servicios de los ecosistemas, considerando sus circunstancias y las acciones efectivas que realicen los propietarios involucrados;
 
 XXV. La promoción de la captación, consumo responsable, y el aprovechamiento sustentable de las fuentes superficiales y subterráneas de agua, del agua en el suelo, y la conservación de áreas estatales y municipales de protección hidrológica;
 
@@ -575,7 +581,9 @@ La Administración Pública del Estado y de sus municipios en el ámbito de sus 
 
 I. Integración y transversalización de la Política Estatal en materia de adaptación ante el cambio climático en el conjunto de condiciones, actividades, procedimientos, instancias e instituciones del Sistema Estatal de Planeación Democrática;
 
-II. Apertura a la participación democrática y el fortalecimiento de capacidades en un marco de gobernanza para el desarrollo sustentable con perspectiva territorial que incorpore a jóvenes, indígenas, organizaciones no gubernamentales, productores de alimentos, sindicatos de trabajadores, investigadores, empresarios y gobiernos locales, para concretar conperspectiva (sic) de género decisiones y acciones públicas y particulares de adaptación;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2017)</small>
+
+II. Apertura a la participación democrática y el fortalecimiento de capacidades en un marco de gobernanza para el desarrollo sustentable con perspectiva territorial que incorpore a jóvenes, indígenas, organizaciones no gubernamentales, productores de alimentos, sindicatos de trabajadores, investigadores, empresarios y gobiernos locales, para concretar con perspectiva de género decisiones y acciones públicas y particulares de adaptación;
 
 III. Fortalecimiento de la acción gubernamental coordinada, y a su vez concertada con y entre sectores;
 
@@ -593,7 +601,9 @@ IX. Aporte a la prevención del deterioro, la conservación de los ecosistemas y
 
 X. Factibilidad de su implementación sustentable, en términos ecológicos, sociales, económicos, institucionales, y financieros, entre otros;
 
-XI. Flexibilidad, por ajustarse a necesidades específicas y generar beneficios bajo diversos escenarios climáticos, así como contar con el mayor potencial de adaptación a instrumentos en toda escala territorial, desde la vivienda, al (sic) barrio, la colonia, la ciudad, el área o zona metropolitana, o la región;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2017)</small>
+
+XI. Flexibilidad, por ajustarse a necesidades específicas y generar beneficios bajo diversos escenarios climáticos, así como contar con el mayor potencial de adaptación a instrumentos en toda escala territorial, desde la vivienda, el barrio, la colonia, la ciudad, el área o zona metropolitana, o la región;
 
 XII. Factibilidad de monitoreo, reporte y evaluación, e incorporación de indicadores estratégicos de impacto enfocados en su cumplimiento y efectividad;
 
@@ -633,7 +643,9 @@ II. Promover el desarrollo de la sociedad, la economía y la biósfera del Estad
 
 III. Reducir las emisiones y aumentar las absorciones y almacenamiento de carbono en el estado a través de políticas y programas, que fomenten la transición hacia una economía sustentable, competitiva y de bajas emisiones en carbono, incluyendo instrumentos de mercado, incentivos y otras alternativas que mejoren la relación costo-beneficio de las medidas específicas de mitigación, disminuyendo sus costos económicos y promoviendo la competitividad, la transferencia de tecnología y el fomento del desarrollo tecnológico;
 
-IV. Promover de manera gradual la sustitución del uso y consumo de los combustibles fósiles por fuentes de energía limpias, así como la generación de energía (sic) través del uso de fuentes renovables;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2017)</small>
+
+IV. Promover de manera gradual la sustitución del uso y consumo de los combustibles fósiles por fuentes de energía limpias, así como la generación de electricidad a través del uso de fuentes renovables;
 
 V. Promover prácticas de eficiencia energética, incluyendo en el patrimonio de la Administración Pública del Estado y de sus municipios, el desarrollo y uso de fuentes renovables de energía, y la transferencia y desarrollo de tecnologías bajas en carbono;
 
@@ -759,7 +771,9 @@ g) Aprovechar la biomasa de origen agrícola y ganadero para la generación de e
 
 h) Desarrollar y fortalecer esquemas de manejo sustentable y restauración de bosques, selvas, humedales y ecosistemas costero-marinos;
 
-i) Evaluar las necesidades y oportunidades de conservación y restauración de los ecosistemas del Estado, desarrollar e implementar programas de conservación y restauración mediante políticas que establezcan el pago por servicios ambientales de áreas naturales protegidas y prioritarias para la adaptación, unidades de manejo forestal sustentable, y de aquellas que participen en los programas de (sic) tendientes a reducir las emisiones por deforestación y degradación forestal;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2017)</small>
+
+i) Evaluar las necesidades y oportunidades de conservación y restauración de los ecosistemas del Estado, desarrollar e implementar programas de conservación y restauración mediante políticas que establezcan el pago por servicios ambientales de áreas naturales protegidas y prioritarias para la adaptación, unidades de manejo forestal sustentable, y de aquellas que participen en los programas tendientes a reducir las emisiones por deforestación y degradación forestal;
 
 j) Fortalecer la prevención y el desarrollo de capacidades para el combate de incendios forestales, plagas y enfermedades que afecten el recurso forestal;
 
@@ -853,9 +867,11 @@ El Sistema Estatal opera orgánicamente a través de la Comisión, según lo est
 
 ### CAPÍTULO II. DE LA COMISIÓN INTERINSTITUCIONAL
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 39.
 
-La Comisión es un órgano auxiliar permanente de consulta y asesoría de la Administración Pública del Estado que tiene por objeto diseñar, aprobar y coordinar la ejecución, control y evaluación de la Política Estatal en materia de cambio climático a través de la participación coordinada de los sectores público, social, académico y privado. La Comisión será presidida por el Gobernador del Estado, quien podrá delegar esa función al titular de la Secretaría de Medio Ambiente y Desarrollo Territorial, y se integrará por representantes de dependencias y entidades del Gobierno de Jalisco, otras autoridades federales y municipales, así como de otras entidades de interés público involucrados en asuntos propios de la acción ante el cambio climático, según lo establecido en esta Ley y lo que señale su reglamento interno.
+La Comisión es un órgano auxiliar permanente de consulta y asesoría de la Administración Pública del Estado que tiene por objeto diseñar, aprobar y coordinar la ejecución, control y evaluación de la Política Estatal en materia de cambio climático a través de la participación coordinada de los sectores público, social, académico y privado. La Comisión será presidida por el Gobernador del Estado, quien podrá delegar esa función al titular de la Secretaría de Medio Ambiente y Desarrollo Territorial, y se integrará por representantes de dependencias y entidades del Gobierno de Jalisco, otras autoridades federales, municipales y el Poder Legislativo del Estado, así como de otras entidades de interés público involucrados en asuntos propios de la acción ante el cambio climático, según lo establecido en esta Ley y lo que señale su reglamento interno.
 
 ###### Artículo 40.
 
@@ -933,7 +949,13 @@ VI. El representante de la mesa de trabajo en materia de cambio climático que s
 
 A estos efectos, las atribuciones de dicho Consejo en materia de protección del medio ambiente y desarrollo sustentable se entenderán también referidas a aspectos relativos al cambio climático.
 
-VII. Un representante de cada grupo de trabajo que se cree al seno de la Comisión, a través de su coordinador, y conforme a lo establecido en esta Ley y en el reglamento interno de la Comisión.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE AGOSTO DE 2017)</small>
+
+VII. Un representante del Poder Legislativo, que será el diputado Presidente de la Comisión de Medio Ambiente y Desarrollo Sustentable o el vocal que designe la propia comisión; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE AGOSTO DE 2017)</small>
+
+VIII. Un representante de cada grupo de trabajo que se cree al seno de la Comisión, a través de su coordinador y conforme a lo establecido en esta Ley y en el reglamento interno de la Comisión.
 
 ###### Artículo 42.
 
@@ -1033,9 +1055,11 @@ XXXV. Las demás que le confiere la presente Ley, sus reglamentos y otras dispos
 
 La Secretaría en coordinación con los gobiernos municipales, desarrollará el Sistema Estatal de Información ante el Cambio Climático, que tendrá por objeto registrar, organizar, actualizar y difundir la información ambiental estatal, que estará disponible para su consulta, y que se coordinará y complementará al menos con el sistema estatal de información ambiental y de recursos naturales y el sistema de información sobre el cambio climático a cargo de la federación.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 47.
 
-El Sistema Estatal de Información será accesible a toda persona a través de las plataformas y medios electrónicos de (sic) Gobierno del Estado, observándose los derechos de propiedad industrial e intelectual, las disposiciones de información confidencial y reservada y de protección de datos personales previstas en la Ley de transparencia y acceso a la información pública del Estado de Jalisco y sus municipios, así como las disposiciones y criterios en materia de confidencialidad que resulten aplicables.
+El Sistema Estatal de Información será accesible a toda persona a través de las plataformas y medios electrónicos del Gobierno del Estado, observándose los derechos de propiedad industrial e intelectual, las disposiciones de información confidencial y reservada y de protección de datos personales previstas en la Ley de transparencia y acceso a la información pública del Estado de Jalisco y sus municipios, así como las disposiciones y criterios en materia de confidencialidad que resulten aplicables.
 
 ###### Artículo 48.
 
@@ -1259,7 +1283,9 @@ XVII. Las estimaciones presupuestales necesarias para su cabal implementación;
 
 XVIII. Los responsables de la instrumentación, del seguimiento y de la difusión de avances;
 
-XIX. Las propuestas para la coordinación interinstitucional y la transversalidad entre las áreas con metas compartidas o (sic) que influyen otros sectores;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2017)</small>
+
+XIX. Las propuestas para la coordinación interinstitucional y la transversalidad entre las áreas con metas compartidas o que influyen en otros sectores;
 
 XX. Los requerimientos de investigación, transferencia de tecnología, estudios, capacitación y difusión;
 
@@ -1273,9 +1299,11 @@ Para la elaboración, aprobación y ejecución del Programa Estatal habrán de s
 
 Para tales efectos, la Comisión asegurará la participación incluyente, equitativa, diferenciada, corresponsable y efectiva de todos los sectores de la sociedad en la elaboración del proyecto de Programa Estatal, a través de foros de consulta pública de conformidad con lo previsto en la Ley de Planeación y las disposiciones que de ella derivan, y garantizará la representación de los grupos vulnerables al cambio climático, tomando en cuenta la diversidad de contextos culturales, económicos, políticos, étnicos, de género y otros, con el propósito de que las instituciones y la sociedad civil expresen sus opiniones para su mejor elaboración, en los términos previstos por esta Ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 61.
 
-El proyecto de Programa Estatal se someterá a consulta pública a través de los medios electrónico (sic), escrito y presencial para recabar participaciones en forma de observaciones, sugerencias, opiniones, propuestas, recomendaciones y comentarios, conforme al siguiente procedimiento:
+El proyecto de Programa Estatal se someterá a consulta pública a través de los medios electrónicos, escrito y presencial para recabar participaciones en forma de observaciones, sugerencias, opiniones, propuestas, recomendaciones y comentarios, conforme al siguiente procedimiento:
 
 I. Con una anticipación mínima de veinte días la Secretaría en coordinación con la Comisión publicarán y difundirán la convocatoria por medio del Periódico Oficial el Estado de Jalisco, así como un extracto en uno de los periódicos de mayor circulación dentro del Estado la fecha a partir de la cual el proyecto de Programa Estatal estará disponible para su consulta, incluyendo:
 
@@ -1299,13 +1327,21 @@ b) De manera escrita, debiendo dirigirse al Secretario Técnico de la Comisión;
 
 c) De manera presencial; en el foro de consulta pública al que convoque el Secretario Técnico.
 
-III (SIC). Una vez transcurridos los plazos a que se refieren este artículo, la Secretaría en coordinación con la Comisión contará con un término de sesenta días para revisar, analizar y evaluar las participaciones recibidas tanto por vía electrónica como por escrito, a las cuales recaerá contestación por la misma vía indicando las razones por las cuales fueron o no consideradas los (sic) opiniones de quienes participaron;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE AGOSTO DE 2017)</small>
 
-IV. Para la consulta pública presencial, el Secretario Técnico de la Comisión realizará un foro en la capital del Estado, y coordinará al menos otros tres en diferentes regiones del Estado, en donde se organizarán mesas de trabajo para emitir y atender las participaciones según el número y temáticas que considere pertinentes la Comisión, garantizando el acceso a una participación incluyente, equitativa, diferenciada, corresponsable y efectiva de todos los sectores de la sociedad;
+IV. Una vez transcurridos los plazos a que se refieren este artículo, la Secretaría en coordinación con la Comisión contará con un término de sesenta días para revisar, analizar y evaluar las participaciones recibidas tanto por vía electrónica como por escrito, a las cuales recaerá contestación por la misma vía indicando las razones por las cuales fueron o no consideradas las opiniones de quienes participaron;
 
-V. La Secretaría en coordinación con la Comisión, así como los actores involucrados en el Programa Estatal contarán con un término de cuarenta días para incorporar al proyecto de Programa Estatal las participaciones que se hayan considerado procedentes; y
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2017)</small>
 
-VI. Habiendo cumplido con las fracciones anteriores, la Comisión en coordinación con la Secretaría emitirán la aprobación del Programa Estatal, y se procederá a su publicación en el Periódico Oficial "El Estado de Jalisco", así como al menos mediante aviso en las gacetas municipales que se publiquen en los municipios del Estado de Jalisco, y su expedición correrá a cargo del Gobernador del Estado.
+V. Para la consulta pública presencial, el Secretario Técnico de la Comisión realizará un foro en la capital del Estado, y coordinará al menos otros tres en diferentes regiones del Estado, en donde se organizarán mesas de trabajo para emitir y atender las participaciones según el número y temáticas que considere pertinentes la Comisión, garantizando el acceso a una participación incluyente, equitativa, diferenciada, corresponsable y efectiva de todos los sectores de la sociedad;
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2017)</small>
+
+VI. La Secretaría en coordinación con la Comisión, así como los actores involucrados en el Programa Estatal contarán con un término de cuarenta días para incorporar al proyecto de Programa Estatal las participaciones que se hayan considerado procedentes; y
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2017)</small>
+
+VII. Habiendo cumplido con las fracciones anteriores, la Comisión en coordinación con la Secretaría emitirán la aprobación del Programa Estatal y se procederá a su publicación en el periódico oficial "El Estado de Jalisco", así como al menos mediante aviso en las gacetas municipales que se publiquen en los municipios del Estado de Jalisco, y su expedición correrá a cargo del Gobernador del Estado.
 
 ###### Artículo 62.
 
@@ -1323,9 +1359,11 @@ V. Se produzca algún desastre o evento de tal magnitud cuya atención lo amerit
 
 En todo caso, deberán explicarse las desviaciones que, en su caso, se adviertan entre los escenarios climáticos, proyecciones, objetivos, metas correspondientes y los resultados evaluados, respecto de los ajustes y modificaciones señalados. Asimismo, y con base en lo anterior, el Programa Estatal y los Programas Municipales deberán ajustarse a aquellos.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 63.
 
-Para el ejercicio de los (sic) dispuesto en la Ley de Planeación, el Plan Estatal de Desarrollo y los programas regionales, sectoriales y especiales, y basándose en el Programa Estatal, las dependencias y entidades de la Administración Pública del Estado y sus municipios, así como otros Poderes del Estado, entidades y organismos, fijarán objetivos, metas, prioridades e indicadores de sustentabilidad de las acciones, asignación de recursos, responsabilidades y tiempos de ejecución sobre las acciones de adaptación al cambio climático y mitigación de sus efectos.
+Para el ejercicio de lo dispuesto en la Ley de Planeación, el Plan Estatal de Desarrollo y los programas regionales, sectoriales y especiales, y basándose en el Programa Estatal, las dependencias y entidades de la Administración Pública del Estado y sus municipios, así como otros Poderes del Estado, entidades y organismos, fijarán objetivos, metas, prioridades e indicadores de sustentabilidad de las acciones, asignación de recursos, responsabilidades y tiempos de ejecución sobre las acciones de adaptación al cambio climático y mitigación de sus efectos.
 
 ###### Artículo 64.
 
@@ -1365,9 +1403,11 @@ El Programa Municipal se publicará en la gaceta oficial del municipio ó el Per
 
 Los proyectos y demás acciones y medidas contemplados en el Programa Municipal que corresponda realizar a las dependencias y entidades de la administración pública del municipio deberán ejecutarse en función de los recursos y la disponibilidad presupuestaria aprobados para dichos fines en el ejercicio fiscal que corresponda, y de las disposiciones que regulen el ejercicio del Fondo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 72.
 
-Los municipios podrán desarrollar, en coordinación con la Secretaría, Programas Municipales de carácter intermunicipal y metropolitano siempre y cuando tal objetivo se asiente en los acuerdos de coordinación y asociación municipal que hayan signado o signen, para atender las necesidades conjuntas de acción ante el cambio climático al seno de las instituciones y órganos de coordinación que establezcan, conforme a lo dispuesto en la Constitución Política del Estado de Jalisco, la Ley del Gobierno y la Administración Pública municipal del Estado de Jalisco, y (sic) Ley de Coordinación Metropolitana del Estado de Jalisco.
+Los municipios podrán desarrollar, en coordinación con la Secretaría, Programas Municipales de carácter intermunicipal y metropolitano siempre y cuando tal objetivo se asiente en los acuerdos de coordinación y asociación municipal que hayan signado o signen, para atender las necesidades conjuntas de acción ante el cambio climático al seno de las instituciones y órganos de coordinación que establezcan, conforme a lo dispuesto en la Constitución Política del Estado de Jalisco, la Ley del Gobierno y la Administración Pública municipal del Estado de Jalisco, y la Ley de Coordinación Metropolitana del Estado de Jalisco.
 
 El Gobierno del Estado fomentará el desarrollo de Programas Municipales de carácter intermunicipal y metropolitano en materia de cambio climático, tanto a efectos de que todos los municipios del Estado puedan contar con el propio, como de prevenir y actuar ante el cambio climático desde una perspectiva asociativa, de cooperación y atención regional, y desarrollará instrumentos económicos particularizados para tales efectos.
 
@@ -1459,15 +1499,21 @@ g) Otras acciones con efecto de mitigación de gases de efecto invernadero inclu
 
 h) Las demás que determine.
 
+> <small>(REFORMADO P.O. 3 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 74.
 
-Para la elaboración y aprobación del Programa Municipal el municipio asegurará la participación incluyente, equitativa, diferenciada, corresponsable y efectiva de todos los sectores de la sociedad a través de foros de consulta pública, conforme a lo establecida (sic) en la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, y los ordenamientos municipales vigentes.
+Para la elaboración y aprobación del Programa Municipal el municipio asegurará la participación incluyente, equitativa, diferenciada, corresponsable y efectiva de todos los sectores de la sociedad a través de foros de consulta pública, conforme a lo establecido en la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, y los ordenamientos municipales vigentes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 75.
 
-El proyecto de Programa Municipal se someterá a consulta pública a través de los medios electrónico (sic), escrito y presencial, para recabar participaciones en forma de observaciones, sugerencias, opiniones, propuestas, recomendaciones y comentarios, conforme al siguiente procedimiento:
+El proyecto de Programa Municipal se someterá a consulta pública a través de los medios electrónicos, escrito y presencial, para recabar participaciones en forma de observaciones, sugerencias, opiniones, propuestas, recomendaciones y comentarios, conforme al siguiente procedimiento:
 
-I. Con una anticipación mínima de veinte días el municipio en coordinación con la Comisión publicará y difundirá la convocatoria por todos los medios al alcance del Estado, de la fecha a partir de la cual el proyecta (sic) de Programa Municipal estará disponible para su consulta, incluyendo:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2017)</small>
+
+I. Con una anticipación mínima de veinte días el municipio en coordinación con la Comisión publicará y difundirá la convocatoria por todos los medios al alcance del Estado, de la fecha a partir de la cual el proyecto de Programa Municipal estará disponible para su consulta, incluyendo:
 
 a) Fechas, horarios y lugares para los foros de consulta ciudadana;
 
@@ -1475,7 +1521,9 @@ b) Objetivos y temática del foro;
 
 c) Vías, medios, forma y términos de presentación de participaciones;
 
-d) Mecánicas de trabaja (sic) en la realización de los foros; y
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2017)</small>
+
+d) Mecánicas de trabajo en la realización de los foros; y
 
 e) Términos para la presentación de conclusiones.
 
@@ -1555,9 +1603,11 @@ XII. El aumento y mejora de sumideros y reservorios de gases de efecto invernade
 
 XIII. El fomento de sinergias entre programas y subsidios para actividades de protección y aprovechamiento sustentable de los recursos naturales en su relación con las actividades agropecuarias, que contribuyan al menos a fortalecer la seguridad alimentaria y la prevención de incendios forestales, así como a reducir su presión a la biodiversidad.
 
+> <small>(REFORMADO P.O. 3 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 82.
 
-Para mitigar las emisiones de gases de efecto invernadero y reducir la vulnerabilidad, la Política Estatal en materia de cambio climático habrá de establecer instrumentos fiscales orientados a internalizar gradualmente el costo relacionado con las externalidades ambientales negativas derivadas (sic) las actividades productivas y otras generadoras de gases de efecto invernadero, en aplicación de los principios establecidos en esta Ley.
+Para mitigar las emisiones de gases de efecto invernadero y reducir la vulnerabilidad, la Política Estatal en materia de cambio climático habrá de establecer instrumentos fiscales orientados a internalizar gradualmente el costo relacionado con las externalidades ambientales negativas derivadas de las actividades productivas y otras generadoras de gases de efecto invernadero, en aplicación de los principios establecidos en esta Ley.
 
 #### SECCIÓN SEGUNDA. INSTRUMENTOS DE MERCADO PARA LA MITIGACIÓN DEL CAMBIO CLIMÁTICO
 
@@ -1681,9 +1731,11 @@ El Inventario se integrará con la información que reúnan las autoridades comp
 
 La información que integre el Inventario servirá a su vez para la evaluación y actualización del Registro Estatal en relación a las fuentes emisoras sujetas a reporte, y los contenidos y eficacia de las disposiciones que deriven de la presente Ley al respecto.
 
+> <small>(REFORMADO P.O. 3 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 99.
 
-El Gobierno del Estado, a través de la Secretaría, elaborará y actualizará periódicamente el Inventario de acuerdo con los criterios e indicadores elaborados por la Federación en la materia, y pondrá a disposición de la federación los datos, documentos y registros en el marco de los procedimientos adoptados a nivel nacional para la integración y reporte de las comunicaciones nacionales correspondientes, a efectos (sic) de integrarlos a los sistemas de monitoreo, reporte y verificación de las diferentes acciones y medidas de mitigación del cambio climático atendiendo a lo establecido en la Estrategia Nacional de acción ante el cambio climático.
+El Gobierno del Estado, a través de la Secretaría, elaborará y actualizará periódicamente el Inventario de acuerdo con los criterios e indicadores elaborados por la Federación en la materia, y pondrá a disposición de la federación los datos, documentos y registros en el marco de los procedimientos adoptados a nivel nacional para la integración y reporte de las comunicaciones nacionales correspondientes, a efecto de integrarlos a los sistemas de monitoreo, reporte y verificación de las diferentes acciones y medidas de mitigación del cambio climático atendiendo a lo establecido en la Estrategia Nacional de acción ante el cambio climático.
 
 ###### Artículo 100.
 
@@ -1913,9 +1965,11 @@ La Administración Pública del Estado y sus municipios están obligados a alleg
 
 La Comisión deberá elaborar y publicar anualmente un informe detallado de la situación general existente en el territorio del Estado en materia de cambio climático, el cual se integrará al informe en materia de equilibrio ecológico y protección al ambiente previsto en la Ley Estatal.
 
+> <small>(REFORMADO P.O. 3 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 123.
 
-La Secretaría con la participación de la Comisión, y los ayuntamientos de los gobiernos municipales deberán registrar, organizar, actualizar y difundir la información sobre cambio climático a efectos (sic) de su integración al Sistema Estatal de Información ante el Cambio Climático y una mejor toma de decisiones al seno del Sistema Estatal.
+La Secretaría con la participación de las Comisiones, y los ayuntamientos de los gobiernos municipales deberán registrar, organizar, actualizar y difundir la información sobre cambio climático a efecto de su integración al Sistema Estatal de Información ante el Cambio Climático y una mejor toma de decisiones al seno del Sistema Estatal.
 
 ### CAPÍTULO IX. DE LA PARTICIPACIÓN SOCIAL
 
@@ -2080,3 +2134,9 @@ P.O. 9 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 25854/LXI/16 QUE REFORMA EL ARTÍCULO 6°, EN SUS FRACCIONES XXVI, SEGUNDO PÁRRAFO, XXVII Y SE ADICIONA LA FRACCIÓN XXVIII A LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE; REFORMA EL ARTÍCULO 3°, EN SUS FRACCIONES XVII, XVIII, Y SE ADICIONA LA FRACCIÓN XIX DE LA LEY PARA LA ACCIÓN ANTE EL CAMBIO CLIMÁTICO DEL ESTADO DE JALISCO”.]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 3 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26410/LXI/17 QUE REFORMA LOS ARTÍCULOS 1°, 13, 25, 26, 31, 33, 39, 41, 47, 59, 61, 63, 72, 74, 75, 82, 99 Y 123 DE LA LEY PARA LA ACCIÓN ANTE EL CAMBIO CLIMÁTICO DEL ESTADO DE JALISCO."]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de (sic) publicación en el periódico oficial "El Estado de Jalisco".
