@@ -4,7 +4,7 @@ identifier: "SON-ley-del-registro-civil-para-el-estado-de-sonora-98309"
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-09"
-last_updated: "2017-06-26"
+last_updated: "2017-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98309&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
 
 Ley publicada en la Sección VI del Boletín Oficial del Estado de Sonora, el jueves 9 de enero de 2014.
 
@@ -1015,13 +1015,17 @@ III. La Secretaría de Gobierno instruirá el procedimiento correspondiente y en
 
 IV. La Secretaría de Gobierno celebrará una audiencia, dentro de los 10 días siguientes al vencimiento del término a que se refiere la fracción que antecede, en la que se desahogarán las pruebas ofrecidas y admitidas. Desahogada la audiencia, se presentará un proyecto al titular del Ejecutivo para su resolución definitiva.
 
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 134.
 
-El Oficial del Registro Civil, que sin motivo justificado retarde la celebración de un matrimonio, se hará acreedor a una multa equivalente a treinta días de salario mínimo general vigente en el Estado y, en caso de reincidencia, será destituido de su cargo.
+El Oficial del Registro Civil, que sin motivo justificado retarde la celebración de un matrimonio, se hará acreedor a una multa equivalente a treinta días Unidades de Medida y Actualización y, en caso de reincidencia, será destituido de su cargo.
+
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 135.
 
-Los Oficiales del Registro Civil que autoricen actas o asienten hechos del estado civil fuera de la circunscripción territorial que les corresponda o cobren derechos superiores a los autorizados por la Ley de Hacienda del Estado, serán sancionados con una multa de cinco a cincuenta días de salario mínimo general vigente en el Estado y, en caso de reincidencia, con la suspensión temporal o remoción del cargo, según la gravedad del caso.
+Los Oficiales del Registro Civil que autoricen actas o asienten hechos del estado civil fuera de la circunscripción territorial que les corresponda o cobren derechos superiores a los autorizados por la Ley de Hacienda del Estado, serán sancionados con una multa de cinco a cincuenta Unidades de Medida y Actualización y, en caso de reincidencia, con la suspensión temporal o remoción del cargo, según la gravedad del caso.
 
 ###### Artículo 136.
 
@@ -1043,9 +1047,11 @@ II. La opinión que emita la Dirección General se remitirá al titular de la Se
 
 III. La substanciación del procedimiento señalado, en ningún caso podrá exceder del término de dos meses.
 
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 138.
 
-Las infracciones a esta Ley que no tengan señalada sanción especial, se castigarán con una multa de tres a cincuenta días de salario mínimo general vigente en la ciudad de Hermosillo, a juicio de la Dirección General que la impondrá.
+Las infracciones a esta Ley que no tengan señalada sanción especial, se castigarán con una multa de tres a cincuenta Unidades de Medida y Actualización, a juicio de la Dirección General que la impondrá.
 
 ## TRANSITORIOS
 
@@ -1106,3 +1112,11 @@ Dentro de los 30 días anteriores a que el presente Decreto entre en vigor, la S
 ###### ARTÍCULO TERCERO.
 
 Dentro de los 30 días posteriores a la publicación en el Boletín Oficial del Gobierno del Estado el documento con la información jurídica, sensible y socialmente responsable, que habrá de contener las disposiciones en torno a la prevención y atención a la violencia en la familia que se leerá a los contrayentes del matrimonio en el Estado, la Secretaría de la Consejería Jurídica del Gobierno del Estado con el apoyo y participación del DIF Sonora, del Instituto Sonorense de las Mujeres y la Secretaría de Gobierno, procederán a la capacitación de los Oficiales del Registro Civil en el Estado, en su carácter de encargados de autorizar los matrimonios en la entidad.
+
+B.O. 3 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 148 “QUE REFORMA DIVERSAS DISPOSICIONES DE LEY ANTICORRUPCIÓN EN CONTRATACIONES PÚBLICAS PARA EL ESTADO DE SONORA, LEY DE BIENES Y CONCESIONES DEL ESTADO DE SONORA, LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA, LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SONORA, LEY DE FOMENTO DE LA CULTURA Y PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE SONORA, LEY DE AGUA DEL ESTADO DE SONORA, LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, LEY DE GANADERÍA PARA EL ESTADO DE SONORA, CÓDIGO FISCAL DEL ESTADO DE SONORA, LEY DE FOMENTO AL EMPLEO PARA EL ESTADO DE SONORA, LEY "5 DE JUNIO" QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE SONORA, LEY DE ALIANZAS PÚBLICO PRIVADAS DE SERVICIOS DEL ESTADO DE SONORA, LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL, LEY DE PESCA Y ACUICULTURA PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE SONORA, LEY DE PROFESIONES DEL ESTADO DE SONORA, LEY DE PROTECCIÓN DE ANIMALES PARA EL ESTADO DE SONORA, LEY DE PROTECCIÓN CIUDADANA CONTRA LOS EFECTOS NOCIVOS DEL TABACO, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SONORA, LEY DE RECONOCIMIENTOS AL MÉRITO CÍVICO, LEY DE REGULACIÓN Y FOMENTO DE TIEMPO COMPARTIDO PARA EL ESTADO DE SONORA, LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICO (SIC) DEL ESTADO Y DE LOS MUNICIPIOS, LEY DE SALUD PARA EL ESTADO DE SONORA, LEY DE TRANSPORTE PARA EL ESTADO DE SONORA, LEY DE TRÁNSITO DEL ESTADO DE SONORA, LEY DE VIVIENDA PARA EL ESTADO, LEY DEL NOTARIADO PARA EL ESTADO DE SONORA, LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO, LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL ESTADO DE SONORA, LEY QUE CREA EL REGISTRO DE AGENTES INMOBILIARIOS, LEY QUE CREA LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, LEY QUE DETERMINA LAS BASES DE OPERACIÓN DE LAS CASAS DE EMPEÑO DEL ESTADO DE SONORA, LEY QUE ESTABLECE EL ARANCEL PARA LOS NOTARIOS, LEY QUE ESTABLECE EL SISTEMA DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE SONORA, LEY QUE REGULA LA ADMINISTRACIÓN DE DOCUMENTOS ADMINISTRATIVOS E HISTÓRICOS, LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA, LEY DE INTEGRACIÓN SOCIAL PARA PERSONAS CON DISCAPACIDAD DEL ESTADO DE SONORA, LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA, LEY DE LOS DERECHOS DE LOS CONTRIBUYENTES DEL ESTADO DE SONORA, LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA, LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA, LEY DE HACIENDA DEL ESTADO, LEY DE HACIENDA MUNICIPAL, CÓDIGO PENAL DEL ESTADO DE SONORA, CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA, CÓDIGO CIVIL PARA EL ESTADO DE SONORA, LEY DE EJECUCIÓN DE SANCIONES PENALES Y MEDIDAS DE SEGURIDAD DEL ESTADO DE SONORA, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE SONORA, LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SONORA, LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN, TRATAMIENTO, REHABILITACIÓN Y CONTROL DE ADICCIONES DEL ESTADO DE SONORA, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA; LEY PARA LA PROTECCIÓN DE PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL PARA EL ESTADO DE SONORA, LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LA TORTURA EN EL ESTADO DE SONORA, LEY QUE REGULA EL FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DONDE OPEREN MÁQUINAS ELECTRÓNICAS DE JUEGO CON SORTEO DE NÚMEROS Y APUESTA, LEY QUE REGULA EL FUNCIONAMIENTO Y OPERACIÓN DE LOS ESTABLECIMIENTOS COMERCIALES QUE PRESTAN AL PUBLICO EL SERVICIO DE ACCESO A INTERNET EN FORMA ONEROSA EN EL ESTADO DE SONORA Y LEY QUE REGULA LA PRÁCTICA PROFESIONAL DEL BOX, LUCHA LIBRE Y ARTES MARCIALES MIXTAS EN EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
