@@ -4,7 +4,7 @@ identifier: "SON-ley-de-salud-para-el-estado-de-sonora-8400"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-22"
-last_updated: "2017-05-11"
+last_updated: "2017-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE SALUD PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 22 de junio de 1992.
 
@@ -111,19 +111,23 @@ XVI. La asistencia social;
 
 > <small>(REFORMADA, B.O. 27 DE JUNIO DE 2013)</small>
 
-XVII.- Los programas contra el alcoholismo, el tabaquismo y la ludopatía;
+XVII. Los programas contra el alcoholismo, el tabaquismo y la ludopatía;
 
 > <small>(ADICIONADA, B.O. 9 DE JUNIO DE 2008)</small>
 
 XVII BIS. La promoción, prevención y el control de las enfermedades cardiovasculares, la obesidad y la diabetes;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 19 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2017)</small>
 
-XVIII. La promoción, prevención y control del cáncer cérvico-uterino; y
+XVIII. La promoción, prevención y control del cáncer cérvico-uterino;
 
-> <small>(ADICIONADA, B.O. 7 DE JULIO DE 2003)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 3 DE AGOSTO DE 2017)</small>
 
-XIX. Las demás que le confiere la Ley General de Salud y otras disposiciones legales.
+XIX. La promoción, prevención y control de las enfermedades renales y de la insuficiencia renal en la población infantil del Estado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 3 DE AGOSTO DE 2017)</small>
+
+XX.- Las demás que le confiere la Ley General de Salud y otras disposiciones legales.
 
 ###### ARTICULO 4o.
 
@@ -137,7 +141,7 @@ III. Cementerios y crematorios;
 
 IV. Limpieza pública;
 
-V: Rastros;
+V. Rastros;
 
 VI. Agua potable y alcantarillado,
 
@@ -427,13 +431,21 @@ IX. La disponibilidad de medicamentos y otros insumos esenciales para la salud;
 
 X. La promoción del mejoramiento de la nutrición;
 
-XI. La asistencia social a los grupos más vulnerables; y
+> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2017)</small>
 
-> <small>(ADICIONADA, B.O. 9 DE JUNIO DE 2008)</small>
+XI. La asistencia social a los grupos más vulnerables;
+
+> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2017)</small>
 
 XI BIS. La promoción de la información básica relacionada con los cuidados personales elementales para la prevención, el control y el tratamiento de las enfermedades cardiovasculares, la obesidad y la diabetes;
 
-XII. Las demás que establezca esta ley u otros ordenamientos jurídicos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 3 DE AGOSTO DE 2017)</small>
+
+XII. La promoción de la información básica relacionada con los cuidados personales elementales para la prevención, el control y el tratamiento de las enfermedades renales y de la insuficiencia renal en la población infantil del Estado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 3 DE AGOSTO DE 2017)</small>
+
+XIII. Las demás que establezca esta ley u otros ordenamientos jurídicos.
 
 ###### ARTICULO 24.
 
@@ -1413,9 +1425,11 @@ El Patronato o Junta Directiva podrá autorizar a cualesquiera de sus integrante
 
 En el Estado de Sonora, sólo podrán promover y realizar suscripciones de cooperación pública, las instituciones de asistencia pública y aquellas instituciones de asistencia privada debidamente constituidas y registradas ante la Junta de Asistencia Privada.
 
-> <small>(REFORMADA SU DENOMINACIÓN, B.O. 19 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 3 DE AGOSTO DE 2017)</small>
 
-## TITULO DECIMO. PROGRAMAS CONTRA LAS ADICCIONES, LAS ENFERMEDADES CARDIOVASCULARES, OBESIDAD, DIABETES Y CÁNCER CÉRVICO-UTERINO
+## TÍTULO DÉCIMO
+
+PROGRAMAS CONTRA LAS ADICCIONES, LAS ENFERMEDADES CARDIOVASCULARES, OBESIDAD, DIABETE (SIC), CANCER CERVICO-UTERINO Y ENFERMEDADES RENALES EN LA POBLACION INFANTIL DEL ESTADO
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 27 DE JUNIO DE 2013)</small>
 
@@ -1471,21 +1485,39 @@ III. Hábitos de consumo de alcohol en los diferentes grupos de población; y
 
 IV. Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivo, de los espectáculos, laboral y educativo.
 
-### CAPITULO IV. ENFERMEDADES CARDIOVASCULARES, OBESIDAD Y DIABETES
+### CAPÍTULO IV. ENFERMEDADES CARDIOVASCULARES, OBESIDAD Y DIABETES, ASI COMO ENFERMEDADES RENALES EN LA POBLACION INFANTIL DEL ESTADO
 
-> <small>(REFORMADO, B.O. 23 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
 
-ARTICULO 148 BIS.- Las autoridades sanitarias, en coordinación con la Secretaría de Salud y el Consejo de Salubridad General, ejecutarán en el Estado el programa contra las enfermedades cardiovasculares, la obesidad y la diabetes que comprenderá, entre otras, las siguientes acciones:
+ARTICULO 148 BIS.- Las autoridades sanitarias, en coordinación con la Secretaría de Salud y el Consejo de Salubridad General, ejecutarán en el Estado el programa contra las enfermedades cardiovasculares, la obesidad y la diabetes, así como las enfermedades renales en la población infantil en el Estado que comprenderá, entre otras, las siguientes acciones:
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2011)</small>
 
 I.- La prevención de las enfermedades cardiovasculares, obesidad y diabetes, mediante la facilitación de indicaciones de las medidas básicas a toda persona interesada;
 
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2011)</small>
+
 II.- La detección y el tratamiento de enfermedades cardiovasculares, obesidad y diabetes;
 
-III.- La educación sobre los efectos de las enfermedades cardiovasculares, obesidad y diabetes en la salud, dirigida especialmente a niños y adolecentes en primarias, secundarias y preparatorias públicas y privadas, así como a adultos a través de medios masivos de comunicación;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2011)</small>
 
-IV.- La instrumentación de actividades deportivas y de acondicionamiento físico que contribuyan en la lucha contra las enfermedades cardiovasculares, la obesidad y la diabetes, especialmente en las escuelas primarias, secundarias y preparatorias; y
+III.- La educación sobre los efectos de las enfermedades cardiovasculares, obesidad y diabetes en la salud, dirigida especialmente a niños y adolecentes (sic) en primarias, secundarias y preparatorias públicas y privadas, así como a adultos a través de medios masivos de comunicación;
 
-V.- La formación de un comité de nutriólogos, que a través de la Secretaria de Salud Pública del Estado, visiten periódicamente las primarias, secundarias y preparatorias, públicas y privadas, para evaluar las condiciones individuales de alimentación de los estudiantes y sugerir dietas integrales con copia a sus padres, con el fin de prevenir la obesidad y la diabetes.
+> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2017)</small>
+
+IV.- La instrumentación de actividades deportivas y de acondicionamiento físico que contribuyan en la lucha contra las enfermedades cardiovasculares, la obesidad y la diabetes, especialmente en las escuelas primarias, secundarias y preparatorias;
+
+> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2017)</small>
+
+V.- La formación de un comité de nutriólogos, que a través de la Secretaria de Salud Pública del Estado, visiten periódicamente las primarias, secundarias y preparatorias, públicas y privadas, para evaluar las condiciones individuales de alimentación de los estudiantes y sugerir dietas integrales con copia a sus padres, con el fin de prevenir la obesidad y la diabetes; y
+
+> <small>(ADICIONADA, B.O. 3 DE AGOSTO DE 2017)</small>
+
+VI.- La Formación de un comité de médicos especialistas que establezcan:
+
+a) Un programa para prevenir y detectar oportunamente en la población infantil considerada en riesgo de enfermedad renal; y
+
+b) Las políticas públicas y operativas del programa mencionado en el párrafo anterior, a través de la Secretaría de Salud Pública del Estado, realizando visitas periódicamente en las escuelas primarias y secundarias, públicas y privadas, para evaluar a la población infantil considerada en riesgo de enfermedad renal, siendo esta niños prematuros, con antecedentes de infecciones en vías urinarias, que presenten malformaciones congénitas, que tengan familiares con insuficiencia renal, así como niños obesos, mediante la realización de los análisis y estudios que sean requeridos por dicha población en riesgo, a fin de detectar de manera temprana cualquier anomalía en la función renal, para prevenir la insuficiencia renal en la población infantil de nuestro Estado.
 
 El Ejecutivo del Estado procurará las disposiciones presupuestales para el cumplimiento de este programa.
 
@@ -1581,7 +1613,7 @@ V.- El Ejecutivo del Estado en coordinación con los Ayuntamientos deberán inst
 
 A los establecimientos que vendan o utilicen inhalantes con efectos psicotrópicos que no se ajusten al control que dispongan el Ejecutivo Estatal y los Ayuntamientos, así como a los responsables de los mismos, se les aplicarán las sanciones administrativas que correspondan en los términos de esta ley.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 9 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 3 DE AGOSTO DE 2017)</small>
 
 ### CAPITULO VI. DEL PROGRAMA DE ATENCIÓN INTEGRAL CONTRA EL CÁNCER CÉRVICO-UTERINO
 
@@ -2655,31 +2687,37 @@ III. Las condiciones socioeconómicas del infractor; y
 
 IV. La calidad de reincidente del infractor.
 
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
+
 ###### ARTICULO 288.
 
-Se sancionará con multa equivalente hasta cincuenta veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 42, 43, 66, 82, 84, 99, 100, 101, 113, 175, y 240 de esta ley.
+Se sancionará con multa equivalente hasta cincuenta Unidades de Medida y Actualización, la violación de las disposiciones contenidas en los artículos 42, 43, 66, 82, 84, 99, 100, 101, 113, 175, y 240 de esta ley.
+
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
 
 ###### ARTICULO 289.
 
-Se sancionará con multa equivalente de diez hasta cien veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 93, 103, 109, 174, 176, 177, 179, 239, 241, 242, 255, 256, 257 y 264 de esta ley.
+Se sancionará con multa equivalente de diez hasta cien Unidades de Medida y Actualización, la violación de las disposiciones contenidas en los artículos 93, 103, 109, 174, 176, 177, 179, 239, 241, 242, 255, 256, 257 y 264 de esta ley.
+
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
 
 ###### ARTICULO 290.
 
-Se sancionará con multa equivalente de cincuenta a quinientas veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 81 y 94 de esta ley.
+Se sancionará con multa equivalente de cincuenta a quinientas Unidades de Medida y Actualización, la violación de las disposiciones contenidas en los artículos 81 y 94 de esta ley.
 
-> <small>(ADICIONADO, B.O. 7 DE JULIO DE 2003)</small>
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
 
-ARTICULO 290 BIS.- Se sancionará con multa equivalente de doscientas a quinientas veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación a lo dispuesto por el artículo 242 Bis de esta Ley.
+ARTICULO 290 BIS.- Se sancionará con multa equivalente de doscientos (sic) a quinientas Unidades de Medida y Actualización, la violación a lo dispuesto por el artículo 242 bis de esta Ley.
 
-> <small>(ADICIONADO, B.O. 7 DE JULIO DE 2003)</small>
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
 
-ARTICULO 290 BIS A.- Se sancionará con multa equivalente de cuatro mil hasta diez mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación a las disposiciones contenidas en los artículos 154 Bis B y 154 Bis F, párrafo segundo de esta Ley.
+ARTICULO 290 BIS A.- Se sancionará con multa equivalente de cuatro mil hasta diez mil Unidades de Medida y Actualización, la violación a las disposiciones contenidas en los artículo (sic) 154 Bis B y 154 Bis F, párrafo segundo de esta Ley.
 
-> <small>(REFORMADO, B.O. 7 DE JULIO DE 2003)</small>
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
 
 ###### ARTICULO 291.
 
-Las infracciones a las disposiciones de esta Ley, en materia de salubridad local, y demás disposiciones generales y normas técnicas que deriven de la misma, no previstas en este Capítulo, serán sancionadas con multa equivalente hasta por quinientas veces el salario mínimo general diario vigente en la zona económica de que se trate, atendiendo a las reglas de clasificación que se establecen en el artículo 287 de esta Ley.
+Las infracciones a las disposiciones de esta Ley, en materia de salubridad local, y demás disposiciones generales y normas técnicas que deriven de la misma, no previstas en este Capítulo, serán sancionadas con multa equivalente hasta por quinientas Unidades de Medida y Actualización, atendiendo a las reglas de clasificación que se establecen en el artículo 287 de esta Ley.
 
 ###### ARTICULO 292.
 
@@ -2767,9 +2805,11 @@ La Secretaría y los Municipios, con base en los resultados de la visita o del i
 
 Las autoridades sanitarias, para hacer cumplir sus determinaciones podrán emplear cualesquiera de los siguientes medios de apremio:
 
-I. Multa, desde diez hasta quinientas veces el salarios (sic) mínimo general diario vigente en la zona económica de que se trate, que se duplicará en caso de reincidencia.
+> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2017)</small>
 
-La multa deberá pagarse dentro de un plazo máximo de cinco días, comprobándose ante la autoridad sanitaria su cumplimiento, mediante la presentación del recibo correspondiente. El importe de la multa quedará a beneficio del Fondo Estatal de Solidaridad. Cuando se trate de pequeños comerciantes o vendedores ambulantes la multa será fijada de diez a veinte veces el salario mínimo;
+I. Multa, desde diez hasta quinientas Unidades de Medida y Actualización, que se duplicará en caso de reincidencia.
+
+La multa deberá pagarse dentro de un plazo máximo de cinco días, comprobándose ante la autoridad sanitaria su cumplimiento, mediante la presentación del recibo correspondiente. El importe de la multa quedará a beneficio del Fondo Estatal de Solidaridad. Cuando se trate de pequeños comerciantes o vendedores ambulantes la multa será fijada de diez a veinte Unidades de Medida y Actualización;
 
 II. El auxilio de la fuerza pública, que deberá prestarse en el momento en que sea solicitado; y
 
@@ -3198,3 +3238,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Ejecutivo del Estado deberá contemplar una partida especial dentro del proyecto del Presupuesto de Egresos del Gobierno del Estado para el Ejercicio Fiscal de 2018, para hacer efectiva la aplicación el (sic) presente Decreto.
+
+B.O. 3 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 160, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 3 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 148, QUE REFORMA DIVERSAS DISPOSICIONES DE LEY ANTICORRUPCIÓN EN CONTRATACIONES PÚBLICAS PARA EL ESTADO DE SONORA, LEY DE BIENES Y CONCESIONES DEL ESTADO DE SONORA, LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA, LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SONORA, LEY DE FOMENTO DE LA CULTURA Y PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE SONORA, LEY DE AGUA DEL ESTADO DE SONORA, LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, LEY DE GANADERÍA PARA EL ESTADO DE SONORA, CÓDIGO FISCAL DEL ESTADO DE SONORA, LEY DE FOMENTO AL EMPLEO PARA EL ESTADO DE SONORA, LEY "5 DE JUNIO" QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE SONORA, LEY DE ALIANZAS PÚBLICO PRIVADAS DE SERVICIOS DEL ESTADO DE SONORA, LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL, LEY DE PESCA Y ACUICULTURA PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE SONORA, LEY DE PROFESIONES DEL ESTADO DE SONORA, LEY DE PROTECCIÓN DE ANIMALES PARA EL ESTADO DE SONORA, LEY DE PROTECCIÓN CIUDADANA CONTRA LOS EFECTOS NOCIVOS DEL TABACO, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SONORA, LEY DE RECONOCIMIENTOS AL MÉRITO CÍVICO, LEY DE REGULACIÓN Y FOMENTO DE TIEMPO COMPARTIDO PARA EL ESTADO DE SONORA, LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICO (SIC) DEL ESTADO Y DE LOS MUNICIPIOS, LEY DE SALUD PARA EL ESTADO DE SONORA, LEY DE TRANSPORTE PARA EL ESTADO DE SONORA, LEY DE TRÁNSITO DEL ESTADO DE SONORA, LEY DE VIVIENDA PARA EL ESTADO, LEY DEL NOTARIADO PARA EL ESTADO DE SONORA, LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO, LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL ESTADO DE SONORA, LEY QUE CREA EL REGISTRO DE AGENTES INMOBILIARIOS, LEY QUE CREA LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, LEY QUE DETERMINA LAS BASES DE OPERACIÓN DE LAS CASAS DE EMPEÑO DEL ESTADO DE SONORA, LEY QUE ESTABLECE EL ARANCEL PARA LOS NOTARIOS, LEY QUE ESTABLECE EL SISTEMA DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE SONORA, LEY QUE REGULA LA ADMINISTRACIÓN DE DOCUMENTOS ADMINISTRATIVOS E HISTÓRICOS, LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA, LEY DE INTEGRACIÓN SOCIAL PARA PERSONAS CON DISCAPACIDAD DEL ESTADO DE SONORA, LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA, LEY DE LOS DERECHOS DE LOS CONTRIBUYENTES DEL ESTADO DE SONORA, LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA, LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA, LEY DE HACIENDA DEL ESTADO, LEY DE HACIENDA MUNICIPAL, CÓDIGO PENAL DEL ESTADO DE SONORA, CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA, CÓDIGO CIVIL PARA EL ESTADO DE SONORA, LEY DE EJECUCIÓN DE SANCIONES PENALES Y MEDIDAS DE SEGURIDAD DEL ESTADO DE SONORA, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE SONORA, LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SONORA, LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN, TRATAMIENTO, REHABILITACIÓN Y CONTROL DE ADICCIONES DEL ESTADO DE SONORA, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA; LEY PARA LA PROTECCIÓN DE PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL PARA EL ESTADO DE SONORA, LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LA TORTURA EN EL ESTADO DE SONORA, LEY QUE REGULA EL FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DONDE OPEREN MÁQUINAS ELECTRÓNICAS DE JUEGO CON SORTEO DE NÚMEROS Y APUESTA, LEY QUE REGULA EL FUNCIONAMIENTO Y OPERACIÓN DE LOS ESTABLECIMIENTOS COMERCIALES QUE PRESTAN AL PÚBLICO EL SERVICIO DE ACCESO A INTERNET EN FORMA ONEROSA EN EL ESTADO DE SONORA Y LEY QUE REGULA LA PRÁCTICA PROFESIONAL DEL BOX, LUCHA LIBRE Y ARTES MARCIALES MIXTAS EN EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
