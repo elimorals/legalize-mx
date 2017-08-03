@@ -4,7 +4,7 @@ identifier: "SON-ley-de-ganaderia-para-el-estado-de-sonora-46784"
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-07"
-last_updated: "2015-07-16"
+last_updated: "2017-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46784&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE GANADERÍA PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
 
 Ley publicada en la Tercera Sección del Boletín Oficial del Estado de Sonora, el lunes 7 de noviembre de 2005
 
@@ -1985,27 +1985,35 @@ DE LAS SANCIONES Y RECURSOS
 
 Las violaciones a los preceptos de esta ley, sus reglamentos y demás disposiciones que emanen de la misma, serán sancionadas administrativamente por la Secretaría, sin perjuicio de las sanciones civiles que generen y las penas que correspondan cuando sean constitutivas de delito.
 
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
+
 ###### ARTÍCULO 254.
 
-Las infracciones a las disposiciones contenidas en los artículos 14, 19, 20, 22, 23, 29, 71, 77, párrafo cuarto, 79, 101, 102, 111, 112, 113, 135, 146, 172, 173, 192, 195 y 222 serán sancionadas por la Secretaría con multa de 10 a 200 veces el salario mínimo aplicable en la región.
+Las infracciones a las disposiciones contenidas en los artículos 14, 19, 20, 22, 23, 29, 71, 77, párrafo cuarto, 79, 101, 102, 111, 112, 113, 135, 146, 172, 173, 192, 195 y 222 serán sancionadas por la Secretaría con multas de 1 O a 200 Unidades de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
 
 ###### ARTÍCULO 255.
 
-Las infracciones a las disposiciones contenidas en los artículos 34, 39, 41, 46, 47, 200, 202, 241 y 243 serán sancionadas por la Secretaría con multa de 20 a 100 veces el salario mínimo aplicable en la región.
+Las infracciones a las disposiciones contenidas en los artículos 34, 39, 41, 46, 47, 200, 202, 241 y 243 serán sancionadas por la Secretaría con multas de 20 a 100 Unidades de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
 
 ###### ARTÍCULO 256.
 
-Las infracciones a las disposiciones contenidas en los artículos 59, 64, segundo párrafo, 100, 106, 138, 211 y 248 serán sancionadas por la Secretaría con multa de 50 a 200 veces el salario mínimo aplicable en la región.
+Las infracciones a las disposiciones contenidas en los artículos 59, 64, segundo párrafo, 100, 106, 138, 211 y 248 serán sancionadas por la Secretaría con multas de 50 a 200 Unidades de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
 
 ###### ARTÍCULO 257.
 
-Las infracciones a las disposiciones contenidas en los artículos 54, 85, 87, párrafo segundo, 90, 91, 95, 134, 201, 215, 220 y 221 serán sancionadas por la Secretaría con multa de 100 a 1000 veces el salario mínimo aplicable en la región.
+Las infracciones a las disposiciones contenidas en los artículos 54, 85, 87, párrafo segundo, 90, 91, 95, 134, 201, 215, 220 y 221 serán sancionadas por la Secretaría con multa de 100 a 1000 Unidades de Medida y Actualización.
 
-> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
 
 ###### ARTÍCULO 258.
 
-Las infracciones a las disposiciones contenidas en los artículos 86, 92, 93, 94, 136, 137, 143, 158, 168, 174, 183, 186, 218, 233 y 245 serán sancionadas por la Secretaría con multa de 200 a 10000 veces el salario mínimo aplicable en la región.
+Las infracciones a las disposiciones contenidas en los artículos 86, 92, 93, 94, 136, 137, 143, 158, 168, 174, 183, 186, 218, 233 y 245 serán sancionadas por la Secretaría con multa de 200 a 10000 Unidades de Medida y Actualización.
 
 ###### ARTÍCULO 259.
 
@@ -2015,7 +2023,9 @@ En casos de reincidencia a las disposiciones de esta ley, se podrá aplicar al i
 
 En los casos en que esta ley no prevea una sanción específica para el incumplimiento de obligaciones a cargo de particulares, la Secretaría podrá imponer las siguientes sanciones, separada o simultáneamente:
 
-I.- Multa de 20 a 2000 veces el salario mínimo.
+> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2017)</small>
+
+I.- Multa de 20 a 2000 Unidades de Medida y Actualización.
 
 II.- Aseguramiento de ganado, productos, subproductos, implementos, documentación, vehículos o cualquier otro objeto, aparato o maquinaria que sean utilizados en su cuidado, control, movilización o introducción al Estado.
 
@@ -2144,3 +2154,11 @@ B.O. 16 DE JULIO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 3 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 148 “QUE REFORMA DIVERSAS DISPOSICIONES DE LEY ANTICORRUPCIÓN EN CONTRATACIONES PÚBLICAS PARA EL ESTADO DE SONORA, LEY DE BIENES Y CONCESIONES DEL ESTADO DE SONORA, LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA, LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SONORA, LEY DE FOMENTO DE LA CULTURA Y PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE SONORA, LEY DE AGUA DEL ESTADO DE SONORA, LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, LEY DE GANADERÍA PARA EL ESTADO DE SONORA, CÓDIGO FISCAL DEL ESTADO DE SONORA, LEY DE FOMENTO AL EMPLEO PARA EL ESTADO DE SONORA, LEY "5 DE JUNIO" QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE SONORA, LEY DE ALIANZAS PÚBLICO PRIVADAS DE SERVICIOS DEL ESTADO DE SONORA, LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL, LEY DE PESCA Y ACUICULTURA PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE SONORA, LEY DE PROFESIONES DEL ESTADO DE SONORA, LEY DE PROTECCIÓN DE ANIMALES PARA EL ESTADO DE SONORA, LEY DE PROTECCIÓN CIUDADANA CONTRA LOS EFECTOS NOCIVOS DEL TABACO, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SONORA, LEY DE RECONOCIMIENTOS AL MÉRITO CÍVICO, LEY DE REGULACIÓN Y FOMENTO DE TIEMPO COMPARTIDO PARA EL ESTADO DE SONORA, LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICO (SIC) DEL ESTADO Y DE LOS MUNICIPIOS, LEY DE SALUD PARA EL ESTADO DE SONORA, LEY DE TRANSPORTE PARA EL ESTADO DE SONORA, LEY DE TRÁNSITO DEL ESTADO DE SONORA, LEY DE VIVIENDA PARA EL ESTADO, LEY DEL NOTARIADO PARA EL ESTADO DE SONORA, LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO, LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL ESTADO DE SONORA, LEY QUE CREA EL REGISTRO DE AGENTES INMOBILIARIOS, LEY QUE CREA LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, LEY QUE DETERMINA LAS BASES DE OPERACIÓN DE LAS CASAS DE EMPEÑO DEL ESTADO DE SONORA, LEY QUE ESTABLECE EL ARANCEL PARA LOS NOTARIOS, LEY QUE ESTABLECE EL SISTEMA DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE SONORA, LEY QUE REGULA LA ADMINISTRACIÓN DE DOCUMENTOS ADMINISTRATIVOS E HISTÓRICOS, LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA, LEY DE INTEGRACIÓN SOCIAL PARA PERSONAS CON DISCAPACIDAD DEL ESTADO DE SONORA, LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA, LEY DE LOS DERECHOS DE LOS CONTRIBUYENTES DEL ESTADO DE SONORA, LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA, LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA, LEY DE HACIENDA DEL ESTADO, LEY DE HACIENDA MUNICIPAL, CÓDIGO PENAL DEL ESTADO DE SONORA, CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA, CÓDIGO CIVIL PARA EL ESTADO DE SONORA, LEY DE EJECUCIÓN DE SANCIONES PENALES Y MEDIDAS DE SEGURIDAD DEL ESTADO DE SONORA, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE SONORA, LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SONORA, LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN, TRATAMIENTO, REHABILITACIÓN Y CONTROL DE ADICCIONES DEL ESTADO DE SONORA, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA; LEY PARA LA PROTECCIÓN DE PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL PARA EL ESTADO DE SONORA, LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LA TORTURA EN EL ESTADO DE SONORA, LEY QUE REGULA EL FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DONDE OPEREN MÁQUINAS ELECTRÓNICAS DE JUEGO CON SORTEO DE NÚMEROS Y APUESTA, LEY QUE REGULA EL FUNCIONAMIENTO Y OPERACIÓN DE LOS ESTABLECIMIENTOS COMERCIALES QUE PRESTAN AL PUBLICO EL SERVICIO DE ACCESO A INTERNET EN FORMA ONEROSA EN EL ESTADO DE SONORA Y LEY QUE REGULA LA PRÁCTICA PROFESIONAL DEL BOX, LUCHA LIBRE Y ARTES MARCIALES MIXTAS EN EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
