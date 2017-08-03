@@ -4,7 +4,7 @@ identifier: "SON-ley-de-seguridad-publica-para-el-estado-de-sonora-82228"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-14"
-last_updated: "2015-11-09"
+last_updated: "2017-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE SONORA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 14 de julio de 2011.
 
@@ -71,13 +73,9 @@ El eje del Sistema Estatal de Seguridad Pública será la coordinación entre el
 
 Para los efectos de esta Ley se entiende por Seguridad Pública la función a cargo del Estado y los municipios, tendiente a salvaguardar la integridad y los derechos de las personas, las libertades, la paz y el orden público, comprende la prevención especial y general de los delitos, la investigación para hacerla efectiva, la sanción de las infracciones administrativas, así como la investigación y la persecución de los delitos y la reinserción social del individuo, en términos de esta Ley, en las respectivas competencias establecidas en la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
 La función de la Seguridad Pública es una responsabilidad conjunta, que desarrollarán en sus respectivos ámbitos de competencia, el Estado y los municipios, por conducto de las instituciones de policía, Procuraduría General de Justicia del Estado, de los tribunales y de las autoridades responsables de la ejecución de penas, de las autoridades competentes en materia de justicia para adolescentes y de las encargadas de aplicar medidas de seguridad para inimputables, así como por las demás autoridades que en razón de sus atribuciones deban contribuir directa o indirectamente al objeto de esta Ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
@@ -107,8 +105,6 @@ IX.- Instituciones de Seguridad Pública: Las Instituciones Policiales, de Procu
 
 X.- Instituciones de Procuración de Justicia: Las Instituciones que integran al Ministerio Público, los servicios periciales y demás auxiliares de aquél;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
 XI.- Instituciones Policiales: Los cuerpos de Policía especializados en la investigación de delitos, así como los cuerpos de seguridad pública, que en el ámbito de sus respectivas competencias actúan todos bajo el mando y la conducción del Ministerio Público para efectos de la investigación, en términos de lo que disponen la Constitución, el Código Nacional de Procedimientos Penales y demás disposiciones aplicables;
@@ -135,19 +131,13 @@ XVIII.- Programa Rector: Conjunto de contenidos encaminados a la profesionalizac
 
 XIX.- Registro Estatal: Las bases de datos estatales y la información contenida en ellas, en materia de detenciones, información criminal, personal de seguridad pública, servicios de seguridad privada, armamento y equipo, vehículos, huellas dactilares, sentenciados y las demás necesarias para la operación del Sistema Estatal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
 XX.- Secretaría: La Secretaría de Seguridad Pública;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
 XXI.- Procuraduría: La Procuraduría General de Justicia del Estado; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
@@ -180,8 +170,6 @@ Las Instituciones de Seguridad Pública serán de carácter civil, disciplinado 
 El servicio profesional policial será elemento básico del Sistema Estatal y comprenderá los requisitos y procedimientos de reclutamiento, selección, ingreso, formación, capacitación, adiestramiento, desarrollo, actualización, permanencia, promoción, dignificación, reconocimiento, certificación y separación del Sistema Estatal, así como la evaluación de los integrantes de las diversas Instituciones Policiales.
 
 El servicio profesional policial, en las diferentes instancias, tendrá carácter obligatorio y permanente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
@@ -239,13 +227,9 @@ En todo caso, las políticas, lineamientos y las acciones de coordinación se ll
 
 ### CAPÍTULO II. DEL MANDO ÚNICO POLICIAL
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DE ESTE ORDENAMIENTO, PUBLICADO EN EL B.O. 14 DE JULIO DE 2011.</small>
-
 ###### ARTÍCULO 11.
 
 Sin perjuicio de lo dispuesto en el artículo 115, fracción VII, de la Constitución Política de los Estados Unidos Mexicanos, cuando un municipio no cumpla con las condiciones objetivas de desarrollo institucional que prevé esta Ley para la prestación del servicio de seguridad pública y policía municipales, el Gobernador del Estado podrá celebrar convenios con el Ayuntamiento respectivo, previa aprobación de éste, para hacerse cargo de tales servicios de manera temporal y por conducto de la Secretaría de Seguridad Pública, o bien para que tales servicios se presten de manera coordinada bajo el mando de las Instituciones de Seguridad Pública del Gobierno del Estado, conforme a las prescripciones que prevé la normatividad aplicable y en los términos del convenio respectivo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DE ESTE ORDENAMIENTO, PUBLICADO EN EL B.O. 14 DE JULIO DE 2011.</small>
 
 ###### ARTÍCULO 12.
 
@@ -353,8 +337,6 @@ XIII.- Promover la efectiva coordinación de las instancias que integran el Sist
 
 XIV.- Promover el desarrollo de los modelos ministerial, policial y pericial, así como la homologación de los mismos en las Instituciones de Seguridad Pública;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
 XIV BIS.- Establecer anualmente el salario policial homologado, que incluya los rangos de percepción, la descripción de los puestos, la valuación de la actividad desempeñada y la competitividad salarial existente en la población asignada para la realización de labores similares a la de que se trate;
@@ -415,8 +397,6 @@ I.- Proponer y ejecutar las políticas de seguridad pública en el Estado, así 
 
 II.- Presentar ante el Consejo, para su evaluación, la estructura, funcionamiento, políticas, estrategias y acciones del Sistema Estatal, así como las políticas de seguridad pública implementadas en el Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
 II BIS.- Proponer anualmente al Consejo Estatal el salario policial homologado, que incluya los rangos de percepción, la descripción de los puestos, la valuación de la actividad desempeñada y la competitividad salarial existente en la población asignada para la realización de labores similares a la de que se trate;
@@ -449,19 +429,11 @@ III.- El comandante de unidad o miembro con mayor grado de la corporación polic
 
 IV.- El regidor que presida la Comisión de Seguridad Pública en el Ayuntamiento;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 V.- (DEROGADA, B.O. 9 DE NOVIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 VI.- (DEROGADA, B.O. 9 DE NOVIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 VII.- (DEROGADA, B.O. 9 DE NOVIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 VIII.- (DEROGADA, B.O. 9 DE NOVIEMBRE DE 2015)
 
@@ -552,8 +524,6 @@ I.- Proponer al Consejo Estatal el diseño, implementación y evaluación de pla
 II.- Dar seguimiento a los asuntos y acuerdos que el Consejo Estatal o el Presidente del mismo, le encomienden;
 
 III.- Observar que las autoridades de Seguridad Pública del Estado cumplan con los objetivos y metas establecidas en el Plan Estatal de Desarrollo, en el Programa Estatal de Seguridad Pública y en los programas o proyectos específicos de corto, mediano y largo plazo, que se relacionen con los objetivos y fines de la presente Ley;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
@@ -655,8 +625,6 @@ El Registro del Personal de Seguridad Privada contendrá los datos que permitan 
 
 Asimismo, dichas empresas deberán contar con un registro de código de barras y clave de identificación debidamente validado ante la Secretaría de Seguridad Pública, el cual deberá incluirse en la identificación que porte cada uno de sus empleados.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 41.
@@ -737,15 +705,11 @@ Las Instituciones Policiales tendrán bajo su estricta responsabilidad, el contr
 
 I.- Levantar acta de recepción del armamento, accesorios y municiones, por el nuevo titular de la corporación, cuando por algún motivo el anterior titular haya sido relevado, debiendo aquél instruirse en el menor tiempo posible en las disposiciones contenidas en la Licencia Oficial Colectiva;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
 II.- Hacer del conocimiento de la Secretaría, cuando ocurran bajas de armamento y equipo por robo, extravío, destrucción, aseguramiento u otros motivos, dentro de las veinticuatro horas siguientes de haber ocurrido los hechos, debiendo enviar copia de la carpeta de investigación que se formule con motivo de la denuncia presentada;
 
 III.- Cumplir con las medidas de información, control y seguridad que establezca la Secretaría, en el ejercicio de sus atribuciones;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
@@ -766,8 +730,6 @@ Corresponde a la Secretaría, por conducto del área que asigne, sancionar el in
 Las sanciones al incumplimiento de las disposiciones contenidas en el artículo 56 a que se refiere el artículo anterior, consistirán en la concentración del armamento, accesorios y municiones al Depósito de Armas y Municiones del Estado, hasta que se cumplan las disposiciones de esta Ley, o el pago de una cantidad de dinero que las instituciones policiales correspondientes deberán hacer a la Secretaría, en este caso, el importe será por el equivalente de hasta tres veces el valor comercial del armamento y equipo.
 
 #### SECCIÓN TERCERA. DEL SISTEMA DE INFORMACIÓN CRIMINAL ESTATAL
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
@@ -863,8 +825,6 @@ Las instituciones de seguridad pública serán responsables de la administració
 
 #### SECCIÓN SEXTA. DE LAS REGLAS GENERALES SOBRE LA INFORMACIÓN
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 70.
@@ -872,8 +832,6 @@ Las instituciones de seguridad pública serán responsables de la administració
 El Consejo establecerá las reglas generales sobre la información, emitiendo las Bases para la Integración de la Información sobre Seguridad Pública, las cuales deberán considerar la utilización de instrumentos que faciliten su sistematización, así como el empleo de los dispositivos tecnológicos que las disposiciones correspondientes emitidas por la Conferencia Nacional de Secretarios de Seguridad Pública, establezcan para la agilización y facilidad en su acceso. El Consejo también fijará dentro de las Bases para la Integración de la Información sobre Seguridad Pública, las condiciones de seguridad sobre manejo y acceso a la información sobre seguridad pública, la que tendrá siempre un responsable.
 
 A los responsables del manejo e inscripción de datos, así como a las personas que cuenten con autorización para acceder a la información, se les asignará una clave confidencial, a fin de que quede la debida constancia de cualquier movimiento o consulta.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
@@ -1039,13 +997,9 @@ XXVII.- Tres representantes de los municipios que presenten la mayor incidencia 
 
 ## TÍTULO PRIMERO. DEL EJERCICIO DE LA FUNCIÓN DE SEGURIDAD PÚBLICA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
 ### CAPÍTULO I. DE LA FUNCIÓN POLICIAL
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
@@ -1062,8 +1016,6 @@ IV.- Reacción: para lo que garantizarán, mantendrán y restablecerán la paz y
 V.- Custodia: que implica la protección de las instalaciones, el personal de los tribunales, los centros de reinserción social y de internamiento para adolescentes, así como de los intervinientes en el proceso penal, y, de requerirse, el traslado y la vigilancia de los imputados; y
 
 VI.- Respuesta Inmediata y Atención a Víctimas: establecer en convenio con la Procuraduría General de Justicia, Unidades de Respuesta Inmediata y Atención a Víctimas para ofrecer atención inmediata, recibir denuncias y llevar a cabo las primeras diligencias de investigación en los términos establecidos por la Procuraduría General de Justicia del Estado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
@@ -1113,13 +1065,9 @@ XV.- Las demás que le confieran el Código Nacional de Procedimientos Penales y
 
 Corresponde a los municipios, en sus respectivas jurisdicciones, el ejercicio de la función de seguridad pública, sin perjuicio de la coordinación que en el marco de los sistemas nacional y estatal de seguridad pública se dé entre los tres niveles de gobierno y de los convenios a que se refieren los artículos 11 y 12 de la presente Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
 ### CAPÍTULO I BIS. DEL EJERCICIO DE LA FUNCIÓN DE SEGURIDAD PÚBLICA MUNICIPAL
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 79.
 
@@ -1237,8 +1185,6 @@ III.- La generación de bases de datos en materia de seguridad pública.
 
 En todo caso, la reglamentación municipal que se emita en los términos del presente artículo, deberá observar lo que dispone la legislación federal y estatal en la materia, así como los acuerdos, lineamientos y políticas correspondientes que emita el Consejo Estatal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 95.
@@ -1254,8 +1200,6 @@ III.- Conservar el orden y la tranquilidad en los lugares públicos tales como l
 IV.- Detener a los presuntos responsables, en los casos de delito flagrante, poniéndolos sin demora a disposición del Ministerio Público, debiendo dar aviso inmediato de la detención;
 
 V.- Registrar en el Informe Policial Homologado los datos de las actividades e investigaciones que realice;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
@@ -1284,8 +1228,6 @@ XV.- En general, cumplir y hacer cumplir la presente Ley, el Bando de Policía y
 El titular del órgano responsable de la administración y organización de la policía preventiva, así como del mantenimiento de la disciplina interior, tendrá el cargo que conforme a las disposiciones de la presente Ley y al reglamento municipal correspondiente se establezca.
 
 #### SECCIÓN SEGUNDA. DE LA POLICÍA ESTATAL DE SEGURIDAD PÚBLICA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
@@ -1565,13 +1507,9 @@ Los integrantes de las Instituciones policiales podrán ser separados de su carg
 
 La indemnización consiste en la cantidad equivalente hasta tres meses de la remuneración que gozaba hasta antes de su separación definitiva o remoción del cargo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 124.
 
 (DEROGADO, B.O. 9 DE NOVIEMBRE DE
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
@@ -1611,8 +1549,6 @@ IV.- Instrumentar e impulsar la capacitación y profesionalización permanente d
 
 V.- Los demás que establezcan las disposiciones que deriven de esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 128.
@@ -1626,8 +1562,6 @@ II. - Inspectores;
 III.- Oficiales; y
 
 IV.- Escala Básica.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
@@ -1646,8 +1580,6 @@ B) Para las divisiones de atención a víctimas, investigación e inteligencia, 
 I. - Inspectores; y
 
 II.- Comisarios.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
@@ -1673,15 +1605,11 @@ La remuneración de los integrantes de las instituciones policiales será acorde
 
 De igual forma, se establecerán sistemas de seguros a favor de los familiares de los policías, que contemplen el fallecimiento y la incapacidad total o permanente acaecida en el cumplimiento de sus funciones.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
 ARTÍCULO 132 BIS.- Las corporaciones policiales cubrirán a los policías una contraprestación económica por los servicios prestados, la que se integrará por la remuneración ordinaria y, en su caso, la compensación que determinen las autoridades competentes.
 
 La contraprestación que se asigne en los tabuladores para cada puesto, constituirá en el total que deba cubrirse al policía, sin perjuicio de otras prestaciones ya establecidas o que se establezcan.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
@@ -1727,8 +1655,6 @@ La carrera policial es independiente de los nombramientos para desempeñar cargo
 
 En términos de las disposiciones aplicables, los titulares de las Instituciones policiales podrán designar a los integrantes del Servicio de carrera en cargos administrativos o de dirección de la estructura orgánica de las Instituciones a su cargo, asimismo podrán relevarlos libremente, respetando su grado policial y los derechos inherentes a la Carrera policial.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 136.
@@ -1758,8 +1684,6 @@ I.- Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos pol
 II.- Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso, ni estar sujeto a proceso penal;
 
 III.- En su caso, tener acreditado el Servicio Militar Nacional;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
@@ -2001,8 +1925,6 @@ XXX.- Custodiar y cuidar la documentación e información, que por razón de sus
 
 XXXI.- Actualizarse en el empleo de métodos de investigación que garanticen la recopilación técnica y científica de evidencias;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
 XXXII.- Utilizar los protocolos adoptados por el Consejo Nacional de Seguridad Pública;
@@ -2076,8 +1998,6 @@ Además de las obligaciones señaladas en esta Ley, los integrantes de la polic�
 ###### ARTÍCULO 157.
 
 Queda prohibido a titulares de las Instituciones policiales, así como a todos aquellos que tengan a su cargo elementos policiales, expedir órdenes cuya ejecución constituya un delito. El que las expida y el que las ejecute, serán responsables conforme a las leyes, sin que sirva de excusa la obediencia jerárquica.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
@@ -2239,8 +2159,6 @@ VIII.- Obligar a sus subalternos a entregarle dinero o cualquier otro tipo de d�
 
 IX.- Las demás que establezcan los reglamentos de las instituciones policiales y otras disposiciones legales aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 173.
@@ -2272,8 +2190,6 @@ Si por la naturaleza de las pruebas ofrecidas, éstas no pudieren desahogarse en
 La resolución que se dicte deberá estar debidamente fundada y motivada, y deberá contener una relación sucinta de los hechos y una valoración de las pruebas aportadas, tomando en cuenta la conducta realizada por el presunto infractor, antigüedad en el grado, eficiencia en el servicio, créditos acumulados y examen de promoción, así como la circunstancias del caso, concluyendo si ha lugar o no imponer una sanción.
 
 La resolución deberá notificarse personalmente al presunto infractor.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
@@ -2575,7 +2491,9 @@ El incumplimiento a las obligaciones establecidas en la presente Ley y demás di
 
 I.- Amonestación por escrito;
 
-II.- Multa de cien a cinco mil veces el salario mínimo general vigente en el lugar donde se cometa la infracción;
+> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2017)</small>
+
+II.- Multa de cien a cinco mil unidades de medida y actualización;
 
 III.- Suspensión parcial o temporal de la operación de la empresa hasta que se corrija el incumplimiento, con difusión pública de la segunda suspensión;
 
@@ -2649,7 +2567,9 @@ Para los efectos de esta Ley y de los Bandos de Policía y Gobierno que expidan 
 
 I.- Amonestación: La reconvención pública o privada que el Juez Calificador haga al infractor;
 
-II.- Multa: El pago de una cantidad de dinero que el infractor hará al Ayuntamiento respectivo. El importe de la multa será de uno hasta ciento cincuenta días de salario mínimo diario general vigente en el lugar donde se cometa la infracción. Si el infractor fuese jornalero, obrero, trabajador o desempleado, la multa no podrá exceder del importe de un jornal o salario de un día. Tratándose de trabajadores no asalariados, la multa que se imponga por infracción de los reglamentos gubernativos y de policía, no excederá del equivalente a un día de su ingreso. Tratándose de adolescentes, sus padres o las personas que ejerzan la patria potestad, serán responsables solidarios en el pago del importe de las multas que se les impongan;
+> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2017)</small>
+
+II.- Multa: El pago de una cantidad de dinero que el infractor hará al Ayuntamiento respectivo. El importe de la multa será de uno hasta ciento cincuenta unidades de medida y actualización. Si el infractor fuese jornalero, obrero, trabajador o desempleado, la multa no podrá exceder del importe de un jornal o salario de un día. Tratándose de trabajadores no asalariados, la multa que se imponga por infracción de los reglamentos gubernativos y de policía, no excederá del equivalente a un día de su ingreso Tratándose de adolescentes, sus padres o las personas que ejerzan la patria potestad, serán responsables solidarios en el pago del importe de las multas que se les impongan;
 
 III.- Arresto: La privación de libertad por un período de hasta treinta y seis horas, que se cumplirá en lugares distintos a los destinados a la detención de los presuntos responsables, procesados o sentenciados. En todo caso, los lugares de arresto para varones y mujeres, estarán separados; y
 
@@ -2833,11 +2753,11 @@ Si por algún motivo no se concluye la audiencia, el Juez Calificador citará de
 
 En el supuesto anterior, cuando el presunto infractor se encuentre a disposición del Juez Calificador por causa de flagrancia, se le pondrá en libertad y se le citará para la nueva audiencia.
 
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
+
 ###### ARTÍCULO 245.
 
-Las órdenes de presentación y los citatorios que se formulen con motivo del procedimiento a que se refiere este Capítulo, serán ejecutados o notificados por medio de la policía preventiva. La desobediencia injustificada a los mandatos del Juez Calificador por parte del presunto infractor, se sancionará con multa de diez a cincuenta días de salario mínimo diario general vigente en el lugar donde aquella suceda, sin perjuicio de la resolución que se dicte en el asunto.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Las órdenes de presentación y los citatorios que se formulen con motivo del procedimiento a que se refiere este Capítulo, serán ejecutados o notificados por medio de la policía preventiva. La desobediencia injustificada a los mandatos del Juez Calificador por parte del presunto infractor, se sancionará con multa de diez a cincuenta unidades de medida y actualización, sin perjuicio de la resolución que se dicte en el asunto.
 
 > <small>(REFORMADO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
@@ -2899,21 +2819,15 @@ Si al momento de dictar su resolución, el Juez Calificador encuentra que el suj
 
 El Juez Calificador podrá conmutar las sanciones decretadas, aplicando en su lugar la amonestación, siempre y cuando el infractor se encuentre en la hipótesis a que alude el primer párrafo del artículo anterior.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
 ## TÍTULO TERCERO
 
 DE LA DIRECCIÓN GENERAL DE EJECUCIÓN DE PENAS, MEDIDAS DE SEGURIDAD, SUPERVISION DE MEDIDAS CAUTELARES, DE LA SUSPENSIÓN CONDICIONAL DEL PROCESO Y EVALUACION DE RIESGO.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LA INTEGRA, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
 ### CAPÍTULO I. DE LAS FACULTADES DE LA DIRECCION
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
@@ -2987,13 +2901,9 @@ k) Por acuerdo del Secretario, asistir a las reuniones de la Conferencia Naciona
 
 l) Las demás que otras leyes y reglamentos establezcan.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LA INTEGRA, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
 ### CAPÍTULO II. DE LA POLICÍA PROCESAL
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
@@ -3120,3 +3030,11 @@ El presente Decreto entrará en vigor, previa su publicación en el Boletín Ofi
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que contravengan a las contenidas en el presente Decreto.
+
+B.O. 3 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 148, QUE REFORMA DIVERSAS DISPOSICIONES DE LEY ANTICORRUPCIÓN EN CONTRATACIONES PÚBLICAS PARA EL ESTADO DE SONORA, LEY DE BIENES Y CONCESIONES DEL ESTADO DE SONORA, LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA, LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SONORA, LEY DE FOMENTO DE LA CULTURA Y PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE SONORA, LEY DE AGUA DEL ESTADO DE SONORA, LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, LEY DE GANADERÍA PARA EL ESTADO DE SONORA, CÓDIGO FISCAL DEL ESTADO DE SONORA, LEY DE FOMENTO AL EMPLEO PARA EL ESTADO DE SONORA, LEY "5 DE JUNIO" QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE SONORA, LEY DE ALIANZAS PÚBLICO PRIVADAS DE SERVICIOS DEL ESTADO DE SONORA, LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL, LEY DE PESCA Y ACUICULTURA PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE SONORA, LEY DE PROFESIONES DEL ESTADO DE SONORA, LEY DE PROTECCIÓN DE ANIMALES PARA EL ESTADO DE SONORA, LEY DE PROTECCIÓN CIUDADANA CONTRA LOS EFECTOS NOCIVOS DEL TABACO, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SONORA, LEY DE RECONOCIMIENTOS AL MÉRITO CÍVICO, LEY DE REGULACIÓN Y FOMENTO DE TIEMPO COMPARTIDO PARA EL ESTADO DE SONORA, LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICO (SIC) DEL ESTADO Y DE LOS MUNICIPIOS, LEY DE SALUD PARA EL ESTADO DE SONORA, LEY DE TRANSPORTE PARA EL ESTADO DE SONORA, LEY DE TRÁNSITO DEL ESTADO DE SONORA, LEY DE VIVIENDA PARA EL ESTADO, LEY DEL NOTARIADO PARA EL ESTADO DE SONORA, LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO, LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL ESTADO DE SONORA, LEY QUE CREA EL REGISTRO DE AGENTES INMOBILIARIOS, LEY QUE CREA LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, LEY QUE DETERMINA LAS BASES DE OPERACIÓN DE LAS CASAS DE EMPEÑO DEL ESTADO DE SONORA, LEY QUE ESTABLECE EL ARANCEL PARA LOS NOTARIOS, LEY QUE ESTABLECE EL SISTEMA DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE SONORA, LEY QUE REGULA LA ADMINISTRACIÓN DE DOCUMENTOS ADMINISTRATIVOS E HISTÓRICOS, LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA, LEY DE INTEGRACIÓN SOCIAL PARA PERSONAS CON DISCAPACIDAD DEL ESTADO DE SONORA, LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA, LEY DE LOS DERECHOS DE LOS CONTRIBUYENTES DEL ESTADO DE SONORA, LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA, LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA, LEY DE HACIENDA DEL ESTADO, LEY DE HACIENDA MUNICIPAL, CÓDIGO PENAL DEL ESTADO DE SONORA, CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA, CÓDIGO CIVIL PARA EL ESTADO DE SONORA, LEY DE EJECUCIÓN DE SANCIONES PENALES Y MEDIDAS DE SEGURIDAD DEL ESTADO DE SONORA, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE SONORA, LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SONORA, LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN, TRATAMIENTO, REHABILITACIÓN Y CONTROL DE ADICCIONES DEL ESTADO DE SONORA, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA; LEY PARA LA PROTECCIÓN DE PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL PARA EL ESTADO DE SONORA, LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LA TORTURA EN EL ESTADO DE SONORA, LEY QUE REGULA EL FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DONDE OPEREN MÁQUINAS ELECTRÓNICAS DE JUEGO CON SORTEO DE NÚMEROS Y APUESTA, LEY QUE REGULA EL FUNCIONAMIENTO Y OPERACIÓN DE LOS ESTABLECIMIENTOS COMERCIALES QUE PRESTAN AL PÚBLICO EL SERVICIO DE ACCESO A INTERNET EN FORMA ONEROSA EN EL ESTADO DE SONORA Y LEY QUE REGULA LA PRÁCTICA PROFESIONAL DEL BOX, LUCHA LIBRE Y ARTES MARCIALES MIXTAS EN EL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
