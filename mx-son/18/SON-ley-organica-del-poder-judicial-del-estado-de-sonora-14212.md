@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-judicial-del-estado-de-sonora-14212"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-12-12"
-last_updated: "2015-12-11"
+last_updated: "2017-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14212&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE SONORA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 12 de diciembre de 1996.
 
@@ -159,8 +161,6 @@ VIII.- Conocer de cualquier otro asunto de la competencia del Supremo Tribunal d
 
 Los asuntos a que se refiere el fraccionado de este precepto, con excepción de lo previsto en la fracción VII, deberán distribuirse por riguroso turno, en orden de designación, entre los integrantes del Pleno del Supremo Tribunal de Justicia, para que en su oportunidad formulen los proyectos de resolución que correspondan.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 11 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 11.
@@ -245,9 +245,9 @@ Para el caso de revocación, en los supuestos previstos en esta fracción, se re
 
 XXXIV.- Conocer y resolver los recursos de revisión interpuestos contra los acuerdos del Consejo del Poder Judicial del Estado relativos a nombramientos, adscripción, readscripción, no ratificación y remoción de Magistrados Regionales de Circuito y Jueces, en los términos establecidos en la presente Ley. En caso de revocación, se requerirá la votación indicada en la fracción que antecede;
 
-XXXV.- Dictar las medidas necesarias que exijan el buen servicio y la disciplina en las oficinas del Poder Judicial del Estado.
+> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2017)</small>
 
-Asimismo, por conducto del Presidente del Supremo Tribunal de Justicia, apercibir, amonestar e imponer multas desde diez y hasta ciento ochenta días del importe del salario mínimo general vigente en la capital del Estado al día de cometerse la falta y arrestos por seis y hasta por treinta y seis horas, a aquellas personas que falten al respeto a algún órgano o miembro del mismo Supremo Tribunal en las promociones que presenten o mediante actos que realicen en sus recintos;
+XXXV.- Dictar las medidas necesarias que exijan el buen servicio y la disciplina en las oficinas del Poder Judicial del Estado. Asimismo, por conducto del Presidente del Supremo Tribunal de Justicia, apercibir, amonestar e imponer multas desde diez y hasta ciento ochenta Unidades de Medida y Actualización al día de cometerse la falta y arrestos por seis y hasta por treinta y seis horas, a aquellas personas que falten al respeto a algún órgano o miembro del mismo Supremo Tribunal en las promociones que presenten o mediante actos que realicen en sus recintos;
 
 XXXVI.- Resolver sobre las quejas o denuncias administrativas y sobre la responsabilidad de los servidores públicos del Poder Judicial del Estado en términos de lo que dispone esta Ley, incluyendo aquellas que se refieran a la violación de los impedimentos previstos en el artículo 123 de la Constitución Política del Estado;
 
@@ -379,8 +379,6 @@ Una vez aprobado el proyecto de resolución, constituye fallo definitivo y se en
 
 Las Salas del Supremo Tribunal de Justicia, por orden de recepción de los asuntos, conocerán:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, B.O. 28 DE JUNIO DE 2012)</small>
 
 I.- En materia penal:
@@ -393,15 +391,15 @@ c).- De los recursos de revisión interpuestos contra las sentencias definitivas
 
 II.- En materia civil:
 
-a).- De los recursos de apelación que se interpongan en contra de las resoluciones de los jueces de primera instancia en materia civil y mercantil, en asuntos cuya cuantía exceda de doce mil veces el salario mínimo general vigente en la capital del Estado, al momento de interponerse el recurso;
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
+
+a) De los recursos de apelación que se interpongan en contra de las resoluciones de los jueces de primera instancia en materia civil y mercantil, en asuntos cuya cuantía exceda de doce mil Unidades de Medida y Actualización, al momento de interponerse el recurso;
 
 b).- De los recursos de apelación interpuestos en controversias sobre acciones del estado civil o las que afecten al orden y la estabilidad de la familia, con excepción de los juicios sobre alimentos, divorcios y de las apelaciones y revisiones oficiosas de juicios de rectificación de actas del estado civil;
 
 c).- De los recursos de queja interpuestos en asuntos de los comprendidos en los dos incisos anteriores; y
 
 d).- De los demás asuntos que expresamente señalen las leyes, así como de los juicios de responsabilidad civil en única instancia, en contra de los jueces de primera instancia y locales.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, B.O. 11 DE DICIEMBRE DE 2015)</small>
 
@@ -567,8 +565,6 @@ Los Magistrados Regionales de Circuito no podrán abandonar la residencia del Tr
 
 Corresponde conocer a los Tribunales Colegiados Regionales de Circuito:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, B.O. 28 DE JUNIO DE 2012)</small>
 
 I.- En materia penal:
@@ -583,25 +579,21 @@ d).- De los demás asuntos que expresamente les señalen las leyes.
 
 II.- En materia civil:
 
-a).- De los recursos de apelación que se interpongan en contra de resoluciones de los jueces de primera instancia, en asuntos cuya cuantía sea igual o inferior a doce mil veces el salario mínimo vigente en la capital del Estado al momento de interponerse el recurso, y en los asuntos de cuantía indeterminada;
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
+
+a) De los recursos de apelación que se interpongan en contra de resoluciones de los jueces de primera instancia, en asuntos cuya cuantía sea igual o inferior a doce mil Unidades de Medida y Actualización al momento de interponerse el recurso, y en los asuntos de cuantía indeterminada;
 
 b).- De los recursos de apelación interpuestos contra resoluciones dictadas en los juicios de divorcio, alimentos y de las apelaciones y revisiones oficiosas en materia de juicios de rectificación de actas del estado civil;
 
 c).- De los recursos de queja interpuestos en asuntos de los comprendidos en los incisos anteriores;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 11 DE DICIEMBRE DE 2015)</small>
 
 d).- De los demás asuntos que expresamente les señalen las leyes;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, B.O. 11 DE DICIEMBRE DE 2015)</small>
 
 III. De las recusaciones de los jueces de primera instancia promovidas en los asuntos señalados en el presente artículo; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, B.O. 11 DE DICIEMBRE DE 2015)</small>
 
@@ -778,8 +770,6 @@ XIV.- Distrito Judicial de San Luis Río Colorado, que comprende la Municipalida
 XV.- Distrito Judicial de Sahuaripa, que comprende las siguientes Municipalidades: SAHUARIPA, con las Comisarías de Güisamopa, La Mesita de Cuajari, Santo Tomás, Sehuadéhuachi, Mulatos, Trigo de Corodepe, La Iglesia y Valle de Tacupeto; ARIVECHI, con las Comisarías de Bámori y Tarachi; BACANORA, con las Comisarías de Mina México, Santa Teresa, Milpillas y Encinal; y YECORA, con las Comisarías de Guadalupe, Santa Ana, Santa Rosa, Tepoca, La Trinidad y Maycoba. Cabecera: SAHUARIPA; y
 
 XVI.- Distrito Judicial de Ures, que comprende las siguientes Municipalidades: URES, con las Comisarías de Guadalupe, La Palma, Pueblo de Alamos, Santa Rosalía y Rancho de San Pedro; ACONCHI, con la Comisaría de La Estancia; BANAMICHI; BAVIACORA, con las Comisarías de Suaqui, La Capilla, San José de Baviácora; HUEPAC, con la Comisaría de Ranchito de Huépac; OPODEPE, con las Comisarías de Meresichi y Tuape; RAYON; SAN PELIPE; SAN PEDRO DE LA CUEVA y VILLA PESQUEIRA, con la Comisaría de Nácori Grande. Cabecera: URES.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, B.O. 11 DE DICIEMBRE DE 2015)</small>
 
@@ -1307,9 +1297,9 @@ Los sueldos de tales funcionarios serán pagados por los municipios o comisaría
 
 Corresponde a los Jueces Locales:
 
-I.- Conocer de los asuntos civiles y mercantiles en los casos de jurisdicción concurrente, cuya cuantía no exceda de veinte veces el salario mínimo general, vigente en la ciudad de Hermosillo;
+> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2017)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+I.- Conocer de los asuntos civiles y mercantiles en los casos de jurisdicción concurrente, 30 cuya cuantía no exceda de veinte Unidades de Medida y Actualización;
 
 II.- (DEROGADA, B.O. 28 DE JUNIO DE 2012)
 
@@ -2405,9 +2395,11 @@ II.- Cuando reincidan en una causa de responsabilidad sin haber atendido las obs
 
 Con independencia de si el motivo de la queja da o no lugar a responsabilidad, el Presidente del Supremo Tribunal de Justicia y del Consejo del Poder Judicial del Estado, previo informe que se le rinda, en su caso, proveerá lo que resulte necesario para su corrección o remedio inmediato.
 
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
+
 ###### ARTICULO 153.
 
-Si se determina que la queja fue interpuesta sin motivo, se impondrá al quejoso o a su representante, o abogado, o a ambos, una multa de diez a ciento veinte días de salario mínimo general vigente en la capital del Estado, al momento de interponerse la queja o denuncia.
+Si se determina que la queja fue interpuesta sin motivo, se impondrá al quejoso o a su representante, o abogado, o a ambos, una multa de diez a ciento veinte Unidades de Medida y Actualización, al momento de interponerse la queja o denuncia.
 
 ###### ARTICULO 154.
 
@@ -2772,3 +2764,11 @@ En lo conducente, respecto del Nuevo Sistema de Justicia Penal, el presente decr
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones legales que contravengan a las contenidas en el presente decreto.
+
+B.O. 3 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 148 “QUE REFORMA DIVERSAS DISPOSICIONES DE LEY ANTICORRUPCIÓN EN CONTRATACIONES PÚBLICAS PARA EL ESTADO DE SONORA, LEY DE BIENES Y CONCESIONES DEL ESTADO DE SONORA, LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA, LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SONORA, LEY DE FOMENTO DE LA CULTURA Y PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE SONORA, LEY DE AGUA DEL ESTADO DE SONORA, LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, LEY DE GANADERÍA PARA EL ESTADO DE SONORA, CÓDIGO FISCAL DEL ESTADO DE SONORA, LEY DE FOMENTO AL EMPLEO PARA EL ESTADO DE SONORA, LEY "5 DE JUNIO" QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE SONORA, LEY DE ALIANZAS PÚBLICO PRIVADAS DE SERVICIOS DEL ESTADO DE SONORA, LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL, LEY DE PESCA Y ACUICULTURA PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE SONORA, LEY DE PROFESIONES DEL ESTADO DE SONORA, LEY DE PROTECCIÓN DE ANIMALES PARA EL ESTADO DE SONORA, LEY DE PROTECCIÓN CIUDADANA CONTRA LOS EFECTOS NOCIVOS DEL TABACO, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SONORA, LEY DE RECONOCIMIENTOS AL MÉRITO CÍVICO, LEY DE REGULACIÓN Y FOMENTO DE TIEMPO COMPARTIDO PARA EL ESTADO DE SONORA, LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICO (SIC) DEL ESTADO Y DE LOS MUNICIPIOS, LEY DE SALUD PARA EL ESTADO DE SONORA, LEY DE TRANSPORTE PARA EL ESTADO DE SONORA, LEY DE TRÁNSITO DEL ESTADO DE SONORA, LEY DE VIVIENDA PARA EL ESTADO, LEY DEL NOTARIADO PARA EL ESTADO DE SONORA, LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO, LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL ESTADO DE SONORA, LEY QUE CREA EL REGISTRO DE AGENTES INMOBILIARIOS, LEY QUE CREA LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, LEY QUE DETERMINA LAS BASES DE OPERACIÓN DE LAS CASAS DE EMPEÑO DEL ESTADO DE SONORA, LEY QUE ESTABLECE EL ARANCEL PARA LOS NOTARIOS, LEY QUE ESTABLECE EL SISTEMA DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE SONORA, LEY QUE REGULA LA ADMINISTRACIÓN DE DOCUMENTOS ADMINISTRATIVOS E HISTÓRICOS, LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA, LEY DE INTEGRACIÓN SOCIAL PARA PERSONAS CON DISCAPACIDAD DEL ESTADO DE SONORA, LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA, LEY DE LOS DERECHOS DE LOS CONTRIBUYENTES DEL ESTADO DE SONORA, LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA, LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA, LEY DE HACIENDA DEL ESTADO, LEY DE HACIENDA MUNICIPAL, CÓDIGO PENAL DEL ESTADO DE SONORA, CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA, CÓDIGO CIVIL PARA EL ESTADO DE SONORA, LEY DE EJECUCIÓN DE SANCIONES PENALES Y MEDIDAS DE SEGURIDAD DEL ESTADO DE SONORA, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE SONORA, LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SONORA, LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN, TRATAMIENTO, REHABILITACIÓN Y CONTROL DE ADICCIONES DEL ESTADO DE SONORA, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA; LEY PARA LA PROTECCIÓN DE PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL PARA EL ESTADO DE SONORA, LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LA TORTURA EN EL ESTADO DE SONORA, LEY QUE REGULA EL FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DONDE OPEREN MÁQUINAS ELECTRÓNICAS DE JUEGO CON SORTEO DE NÚMEROS Y APUESTA, LEY QUE REGULA EL FUNCIONAMIENTO Y OPERACIÓN DE LOS ESTABLECIMIENTOS COMERCIALES QUE PRESTAN AL PUBLICO EL SERVICIO DE ACCESO A INTERNET EN FORMA ONEROSA EN EL ESTADO DE SONORA Y LEY QUE REGULA LA PRÁCTICA PROFESIONAL DEL BOX, LUCHA LIBRE Y ARTES MARCIALES MIXTAS EN EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
