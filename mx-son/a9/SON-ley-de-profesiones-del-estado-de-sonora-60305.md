@@ -4,7 +4,7 @@ identifier: "SON-ley-de-profesiones-del-estado-de-sonora-60305"
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-18"
-last_updated: "2015-07-16"
+last_updated: "2017-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60305&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY DE PROFESIONES DEL ESTADO DE SONORA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE PROFESIONES DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el martes 18 de marzo de 2008.
 
@@ -461,23 +463,27 @@ IV.- El beneficio directamente obtenido por el infractor por los actos que motiv
 
 V.- La reincidencia del infractor.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 35.
 
-Se le impondrá una multa de trescientos a quinientos días de salario mínimo general vigente en la capital del Estado, a la persona que ejerza alguna profesión de las señaladas en esta ley sin la cédula profesional o se ostente, por cualquier medio, como profesionista sin serlo.
+Se le impondrá una multa de trescientos (sic) a quinientas Unidades de Medida y Actualización, a la persona que ejerza alguna profesión de las señaladas en esta ley sin la cédula profesional o se ostente, por cualquier medio, como profesionista sin serlo.
 
 Se aplicará la misma sanción al que ejerza cualquiera de las profesiones que regula esta ley sin haber registrado su título y cédula profesional ante la Secretaría.
 
 Asimismo, se ordenará al infractor se abstenga de seguir ejerciendo la profesión hasta que cumpla con los requisitos legales correspondientes.
 
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 36.
 
-A las asociaciones de profesionistas que incluyan en su denominación el término “Colegio”, o que por cualquier medio se den a conocer o se ostenten como colegio de profesionistas, sin estar debidamente registradas ante la Secretaría, se les impondrá una multa de trescientos a mil días de salario mínimo general vigente en la capital del Estado. Asimismo, se ordenará al infractor se abstenga de seguir dándose a conocer u ostentándose como colegio de profesionistas.
+A las asociaciones de profesionistas que incluyan en su denominación el término "Colegio", o que por cualquier medio se den a conocer o se ostenten como colegio de profesionistas, sin estar debidamente registradas ante la Secretaría, se les impondrá una multa de trescientos (sic) a mil Unidades de Medida y Actualización. Asimismo, se ordenará al infractor se abstenga de seguir dándose a conocer u ostentándose como colegio de profesionistas.
+
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 37.
 
-Se le impondrá una multa de mil a mil quinientos días de salario mínimo general vigente en la capital del Estado a las instituciones autorizadas que expidan título profesional sin que se hayan cubierto previamente los requisitos previstos por los ordenamientos aplicables.
+Se le impondrá una multa de mil a mil quinientas Unidades de Medida y Actualización a las instituciones autorizadas que expidan título profesional sin que se hayan cubierto previamente los requisitos previstos por los ordenamientos aplicables.
 
 ###### Artículo 38.
 
@@ -507,9 +513,11 @@ La Secretaría dará aviso a la Secretaría de Educación Pública de la cancela
 
 Para la aplicación de sanciones e infracciones, así como para las cancelaciones a que se refiere el artículo anterior, la Secretaría atenderá a lo previsto en la Ley de Procedimiento Administrativo para el Estado de Sonora.
 
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 42.
 
-La violación a los demás preceptos de esta ley, se sancionará con multa de cincuenta a trescientos días de salario mínimo general vigente en la capital del Estado.
+La violación a los demás preceptos de esta ley, se sancionará con multa de cincuenta a trescientas Unidades de Medida y Actualización.
 
 ###### Artículo 43.
 
@@ -585,7 +593,7 @@ EL SECRETARIO DE GOBIERNO
 
 ROBERTO RUBIAL ASTIAZARAN
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 B.O. 16 DE JULIO DE 2015.
 
@@ -600,3 +608,11 @@ La Secretaría de Educación y Cultura tendrá un periodo de seis meses contados
 ###### ARTÍCULO TERCERO.
 
 Aquellos profesionales y técnicos en medicina tradicional china y acupuntura humana que cuenten con los conocimientos y experiencia sin estar certificados por la Secretaría de Educación y Cultura, contarán con un plazo no mayor a 6 meses contados a partir de la entrada en vigor del presente decreto, para acreditar ante una instancia educativa autorizada que poseen los conocimientos que los hagan acreedores de los títulos y/o certificados que los autorizarán para el ejercicio de las actividades respectivas.
+
+B.O. 3 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 148, QUE REFORMA DIVERSAS DISPOSICIONES DE LEY ANTICORRUPCIÓN EN CONTRATACIONES PÚBLICAS PARA EL ESTADO DE SONORA, LEY DE BIENES Y CONCESIONES DEL ESTADO DE SONORA, LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA, LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SONORA, LEY DE FOMENTO DE LA CULTURA Y PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE SONORA, LEY DE AGUA DEL ESTADO DE SONORA, LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, LEY DE GANADERÍA PARA EL ESTADO DE SONORA, CÓDIGO FISCAL DEL ESTADO DE SONORA, LEY DE FOMENTO AL EMPLEO PARA EL ESTADO DE SONORA, LEY "5 DE JUNIO" QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE SONORA, LEY DE ALIANZAS PÚBLICO PRIVADAS DE SERVICIOS DEL ESTADO DE SONORA, LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL, LEY DE PESCA Y ACUICULTURA PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE SONORA, LEY DE PROFESIONES DEL ESTADO DE SONORA, LEY DE PROTECCIÓN DE ANIMALES PARA EL ESTADO DE SONORA, LEY DE PROTECCIÓN CIUDADANA CONTRA LOS EFECTOS NOCIVOS DEL TABACO, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SONORA, LEY DE RECONOCIMIENTOS AL MÉRITO CÍVICO, LEY DE REGULACIÓN Y FOMENTO DE TIEMPO COMPARTIDO PARA EL ESTADO DE SONORA, LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICO (SIC) DEL ESTADO Y DE LOS MUNICIPIOS, LEY DE SALUD PARA EL ESTADO DE SONORA, LEY DE TRANSPORTE PARA EL ESTADO DE SONORA, LEY DE TRÁNSITO DEL ESTADO DE SONORA, LEY DE VIVIENDA PARA EL ESTADO, LEY DEL NOTARIADO PARA EL ESTADO DE SONORA, LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO, LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL ESTADO DE SONORA, LEY QUE CREA EL REGISTRO DE AGENTES INMOBILIARIOS, LEY QUE CREA LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, LEY QUE DETERMINA LAS BASES DE OPERACIÓN DE LAS CASAS DE EMPEÑO DEL ESTADO DE SONORA, LEY QUE ESTABLECE EL ARANCEL PARA LOS NOTARIOS, LEY QUE ESTABLECE EL SISTEMA DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE SONORA, LEY QUE REGULA LA ADMINISTRACIÓN DE DOCUMENTOS ADMINISTRATIVOS E HISTÓRICOS, LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA, LEY DE INTEGRACIÓN SOCIAL PARA PERSONAS CON DISCAPACIDAD DEL ESTADO DE SONORA, LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA, LEY DE LOS DERECHOS DE LOS CONTRIBUYENTES DEL ESTADO DE SONORA, LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA, LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA, LEY DE HACIENDA DEL ESTADO, LEY DE HACIENDA MUNICIPAL, CÓDIGO PENAL DEL ESTADO DE SONORA, CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA, CÓDIGO CIVIL PARA EL ESTADO DE SONORA, LEY DE EJECUCIÓN DE SANCIONES PENALES Y MEDIDAS DE SEGURIDAD DEL ESTADO DE SONORA, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE SONORA, LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SONORA, LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN, TRATAMIENTO, REHABILITACIÓN Y CONTROL DE ADICCIONES DEL ESTADO DE SONORA, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA; LEY PARA LA PROTECCIÓN DE PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL PARA EL ESTADO DE SONORA, LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LA TORTURA EN EL ESTADO DE SONORA, LEY QUE REGULA EL FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DONDE OPEREN MÁQUINAS ELECTRÓNICAS DE JUEGO CON SORTEO DE NÚMEROS Y APUESTA, LEY QUE REGULA EL FUNCIONAMIENTO Y OPERACIÓN DE LOS ESTABLECIMIENTOS COMERCIALES QUE PRESTAN AL PÚBLICO EL SERVICIO DE ACCESO A INTERNET EN FORMA ONEROSA EN EL ESTADO DE SONORA Y LEY QUE REGULA LA PRÁCTICA PROFESIONAL DEL BOX, LUCHA LIBRE Y ARTES MARCIALES MIXTAS EN EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
