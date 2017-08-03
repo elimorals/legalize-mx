@@ -4,7 +4,7 @@ identifier: "SON-codigo-fiscal-del-estado-de-sonora-16554"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-06-12"
-last_updated: "2016-12-26"
+last_updated: "2017-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CÓDIGO FISCAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
 
 Código publicado en la Segunda Sección del Boletín Oficial del Estado de Sonora, el lunes 12 de junio del 2000.
 
@@ -1805,17 +1805,17 @@ a).- De un 20% a un 30% del monto de las contribuciones omitidas o del beneficio
 
 Tratándose de la omisión de contribuciones por error aritmético en las declaraciones, se impondrá una multa del 20% al 25% de las contribuciones omitidas. En caso de que dichas contribuciones se paguen junto con sus accesorios, dentro de los 15 días hábiles siguientes a la fecha en que surta sus efectos la notificación de la diferencia respectiva, la multa se reducirá a la mitad, sin que para ello se requiera resolución administrativa.
 
-> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
 
 ARTÍCULO 89 BIS.- Tratándose de la omisión de los derechos vehiculares que a continuación se indican, se impondrán las multas siguientes:
 
-l.- Por no pagar total o parcialmente dentro de los plazos previstos en las leyes de la materia, los derechos de expedición o canje de placas, se impondrá una multa de 3.2685 a 6.0210 veces el salario mínimo general vigente si el pago correspondiente se efectúa dentro de los 1 a 90 días, posteriores al vencimiento de la obligación.
+I.- Por no pagar total o parcialmente dentro de los plazos previstos en las leyes de la materia, los derechos de expedición o canje de placas, se impondrá una multa de 3.2685 a 6.0210 Unidades de Medida y Actualización si el pago correspondiente se efectúa dentro de los 1 a 90 días, posteriores al vencimiento de la obligación.
 
-II.- Por no pagar total o parcialmente dentro de los plazos previstos en las leyes de la materia, los derechos de expedición o canje de placas, se impondrá una multa de 6.5371 a 8.6014 veces el salario mínimo general vigente si el pago correspondiente se efectúa de los 91 días en adelante, posteriores al vencimiento de la obligación.
+II.- Por no pagar total o parcialmente dentro de los plazos previstos en las leyes de la materia, los derechos de expedición o canje de placas, se impondrá una multa de 6.5371 a 8.6014 Unidades de Medida y Actualización se efectúa de los 91 días en adelante, posteriores al vencimiento de la obligación.
 
-III.- Por no pagar total o parcialmente los derechos de revalidación de placas dentro de los plazos fijados en las leyes de la materia, se impondrá una multa de 2.4428 a 4.3007 veces el salario mínimo general vigente si el pago correspondiente se efectúa durante el período de julio a septiembre del año que corresponda.
+III.- Por no pagar total o parcialmente los derechos de revalidación de placas dentro de los plazos fijados en las leyes de la materia, se impondrá una multa de 2.4428 a 4.3007 Unidades de Medida y Actualización si el pago correspondiente se efectúa durante el período de julio a septiembre del año que corresponda.
 
-IV.- Por no pagar total o parcialmente los derechos de revalidación de placas dentro de los plazos fijados en las leyes de la materia, se impondrá una multa de 4.9028 a 6.8811 veces el salario mínimo general vigente si el pago correspondiente se efectúa durante el período de octubre a diciembre del año que corresponda.
+IV.- Por no pagar total o parcialmente los derechos de revalidación de placas dentro de los plazos fijados en las leyes de la materia, se impondrá una multa de 4. 9028 a 6.8811 Unidades de Medida y Actualización si el pago correspondiente se efectúa durante el período de octubre a diciembre del año que corresponda.
 
 En los supuestos a que se refiere este artículo no se aplicará la multa contenida en el artículo 90 fracción XVI, de este Código aplicable a los derechos.
 
@@ -3493,7 +3493,9 @@ Las promociones de nulidad notoriamente infundadas se desecharán de plano.
 
 Si se admite la promoción, se dará vista a las demás partes por el término de cinco días para que expongan lo que a su derecho convenga; transcurrido dicho plazo, se dictará resolución.
 
-Si se declara la nulidad, el Tribunal ordenará reponer la notificación anulada y las actuaciones posteriores. Asimismo, se impondrá una multa al actuario, equivalente a la cantidad que resulte de sumar diez veces el salario mínimo general diario vigente en el área geográfica B, sin que exceda del 30% de su sueldo mensual. El actuario podrá ser destituido de su cargo, sin responsabilidad para el Estado en caso de reincidencia.
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
+
+Si se declara la nulidad, el Tribunal ordenará reponer la notificación anulada y las actuaciones posteriores. Asimismo, se impondrá una multa al actuario, equivalente a la cantidad que resulte de sumar diez Unidades de Medida y Actualización, sin que exceda del 30% de su sueldo mensual. El actuario podrá ser destituido de su cargo, sin responsabilidad para el Estado en caso de reincidencia.
 
 ###### ARTÍCULO 208.
 
@@ -3783,7 +3785,9 @@ V.- La recusación por causa de impedimento.
 
 Todas las cuestiones diversas a las anteriores, excepción hecha de las relativas a la suspensión del procedimiento de ejecución o rechazo de la garantía ofrecida, se reservaran para la audiencia.
 
-Cuando la promoción del incidente sea frívola e improcedente se impondrá a quien lo promueva una multa hasta de cincuenta veces el salario mínimo general diario vigente en el área geográfica B.
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
+
+Cuando la promoción del incidente sea frívola e improcedente se impondrá a quien lo promueva una multa hasta de cincuenta Unidades de Medida y Actualización.
 
 ###### ARTÍCULO 231.
 
@@ -4232,3 +4236,11 @@ Las normas adjetivas o procesales que contempla el presente decreto que de maner
 ###### ARTÍCULO SÉPTIMO.
 
 Tratándose de personas físicas y morales que previa a la entrada en vigor de la presente reforma ya habían contratado la prestación de servicios con empresas para que éstas les proporcionaran trabajadores, se les concederá un plazo de 180 días para que presenten el aviso correspondiente de conformidad con lo establecido en el artículo 33-Bis, mismo que se computará a partir de la entrada en vigor de la presente reforma.
+
+B.O. 3 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 148 "QUE REFORMA DIVERSAS DISPOSICIONES DE LEY ANTICORRUPCIÓN EN CONTRATACIONES PÚBLICAS PARA EL ESTADO DE SONORA, LEY DE BIENES Y CONCESIONES DEL ESTADO DE SONORA, LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA, LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SONORA, LEY DE FOMENTO DE LA CULTURA Y PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE SONORA, LEY DE AGUA DEL ESTADO DE SONORA, LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, LEY DE GANADERÍA PARA EL ESTADO DE SONORA, CÓDIGO FISCAL DEL ESTADO DE SONORA, LEY DE FOMENTO AL EMPLEO PARA EL ESTADO DE SONORA, LEY "5 DE JUNIO" QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE SONORA, LEY DE ALIANZAS PÚBLICO PRIVADAS DE SERVICIOS DEL ESTADO DE SONORA, LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL, LEY DE PESCA Y ACUICULTURA PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE SONORA, LEY DE PROFESIONES DEL ESTADO DE SONORA, LEY DE PROTECCIÓN DE ANIMALES PARA EL ESTADO DE SONORA, LEY DE PROTECCIÓN CIUDADANA CONTRA LOS EFECTOS NOCIVOS DEL TABACO, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SONORA, LEY DE RECONOCIMIENTOS AL MÉRITO CÍVICO, LEY DE REGULACIÓN Y FOMENTO DE TIEMPO COMPARTIDO PARA EL ESTADO DE SONORA, LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICO (SIC) DEL ESTADO Y DE LOS MUNICIPIOS, LEY DE SALUD PARA EL ESTADO DE SONORA, LEY DE TRANSPORTE PARA EL ESTADO DE SONORA, LEY DE TRÁNSITO DEL ESTADO DE SONORA, LEY DE VIVIENDA PARA EL ESTADO, LEY DEL NOTARIADO PARA EL ESTADO DE SONORA, LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO, LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL ESTADO DE SONORA, LEY QUE CREA EL REGISTRO DE AGENTES INMOBILIARIOS, LEY QUE CREA LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, LEY QUE DETERMINA LAS BASES DE OPERACIÓN DE LAS CASAS DE EMPEÑO DEL ESTADO DE SONORA, LEY QUE ESTABLECE EL ARANCEL PARA LOS NOTARIOS, LEY QUE ESTABLECE EL SISTEMA DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE SONORA, LEY QUE REGULA LA ADMINISTRACIÓN DE DOCUMENTOS ADMINISTRATIVOS E HISTÓRICOS, LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA, LEY DE INTEGRACIÓN SOCIAL PARA PERSONAS CON DISCAPACIDAD DEL ESTADO DE SONORA, LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA, LEY DE LOS DERECHOS DE LOS CONTRIBUYENTES DEL ESTADO DE SONORA, LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA, LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA, LEY DE HACIENDA DEL ESTADO, LEY DE HACIENDA MUNICIPAL, CÓDIGO PENAL DEL ESTADO DE SONORA, CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA, CÓDIGO CIVIL PARA EL ESTADO DE SONORA, LEY DE EJECUCIÓN DE SANCIONES PENALES Y MEDIDAS DE SEGURIDAD DEL ESTADO DE SONORA, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE SONORA, LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SONORA, LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN, TRATAMIENTO, REHABILITACIÓN Y CONTROL DE ADICCIONES DEL ESTADO DE SONORA, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA; LEY PARA LA PROTECCIÓN DE PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL PARA EL ESTADO DE SONORA, LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LA TORTURA EN EL ESTADO DE SONORA, LEY QUE REGULA EL FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DONDE OPEREN MÁQUINAS ELECTRÓNICAS DE JUEGO CON SORTEO DE NÚMEROS Y APUESTA, LEY QUE REGULA EL FUNCIONAMIENTO Y OPERACIÓN DE LOS ESTABLECIMIENTOS COMERCIALES QUE PRESTAN AL PUBLICO EL SERVICIO DE ACCESO A INTERNET EN FORMA ONEROSA EN EL ESTADO DE SONORA Y LEY QUE REGULA LA PRÁCTICA PROFESIONAL DEL BOX, LUCHA LIBRE Y ARTES MARCIALES MIXTAS EN EL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
