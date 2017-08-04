@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-el-uso-de-vehiculos-oficiales-del-gobierno-4157
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-08"
-last_updated: "2017-04-21"
+last_updated: "2017-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA EL USO DE VEHÍCULOS OFICIALES DEL GOBIERNO MUNICIPAL DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2017.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 8 de octubre de 2004.
 
@@ -33,7 +33,7 @@ EL HONORABLE CABILDO DE ENSENADA, BAJA CALIFORNIA, CON LAS FACULTADES QUE LE CON
 
 TIENE A BIEN EXPEDIR EL SIGUIENTE:
 
-> <small>N. DE E. EL ACUERDO DE CABILDO RELATIVO AL DICTAMEN 068/2014, EXPEDIDO POR EL H. XXI AYUNTAMIENTO CONSTITUCIONAL DE ENSENADA, BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 17 DE OCTUBRE DE 2014, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EL ACUERDO DE CABILDO RELATIVO AL DICTAMEN 068/2014, EXPEDIDO POR EL H. XXI AYUNTAMIENTO CONSTITUCIONAL DE ENSENADA, BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 17 DE OCTUBRE DE 2014, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]</small>
 
 REGLAMENTO PARA EL USO DE VEHICULOS OFICIALES DEL GOBIERNO MUNICIPAL DE ENSENADA, BAJA CALIFORNIA.
 
@@ -339,11 +339,11 @@ Es responsabilidad del Jefe del Taller observar los servicios de garantía en ve
 
 Las violaciones al presente reglamento serán sancionadas por el Síndico Procurador de conformidad a la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 36.
 
-El uso inadecuado del vehículo y el uso con descuido y negligencia por parte del conductor, será sancionado por su superior jerárquico, mediante amonestación por escrito con copia para su expediente. Tratándose de reincidencia será sancionado por el Síndico Procurador de conformidad a la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
+El uso inadecuado del vehículo y el uso con descuido y negligencia por parte del conductor serán sancionados por el Síndico Procurador de conformidad a la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California y el presente reglamento.
 
 Para efecto de este artículo se entiende por:
 
@@ -363,11 +363,11 @@ f) Uso de Vehículo oficial cuando no se encuentre laborando, ya sea por incapac
 
 II.- Uso con descuido o negligencia:
 
-d) (sic) Resguardar físicamente el vehículo en los lugares prohibidos, inadecuados o riesgosos;
+a) Resguardar físicamente el vehículo en los lugares prohibidos, inadecuados o riesgosos;
 
-e) Uso de vehículo oficial bajo el influjo de alcohol y/o enervantes y/o estupefacientes y/o sustancias psicotrópicas;
+b) Uso de vehículo oficial bajo el influjo de alcohol y/o enervantes y/o estupefacientes y/o sustancias psicotrópicas;
 
-f) Conducir el vehículo oficial en forma irresponsable sin respetar el régimen de Tránsito Municipal;
+c) Conducir el vehículo oficial en forma irresponsable sin respetar el régimen de Tránsito Municipal;
 
 > <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
@@ -447,7 +447,7 @@ LIC. GUILLERMO BERNARDO ISLAS LEON.
 
 SECRETARIO FEDATARIO
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 21 DE SEPTIEMBRE DE 2007.
 
@@ -466,3 +466,9 @@ P.O. 21 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA A DIVERSOS ARTÍCULOS DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA, REGLAMENTO DEL CONSEJO CIUDADANO PARA LA PROTECCIÓN A LOS ANIMALES DOMÉSTICOS DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, REGLAMENTO PARA LA PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, REGLAMENTO DEL COMITÉ MUNICIPAL CONTRA LAS ADICCIONES DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, REGLAMENTO DEL COMITÉ DE PLANEACIÓN PARA EL DESARROLLO DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, REGLAMENTO INTERIOR DE LA SINDICATURA MUNICIPAL DE ENSENADA, BAJA CALIFORNIA, REGLAMENTO PARA EL USO DE VEHÍCULOS OFICIALES DEL GOBIERNO MUNICIPAL DE ENSENADA, BAJA CALIFORNIA, DE RELATIVO A DICTAMEN 007/201”.]
 
 UNICO.- La presente reforma y derogaciones entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 4 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA EL REGLAMENTO PARA EL USO DE VEHÍCULOS OFICIALES DEL GOBIERNO MUNICIPAL DE ENSENADA B.C.”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Baja California y/o Gaceta Municipal.
