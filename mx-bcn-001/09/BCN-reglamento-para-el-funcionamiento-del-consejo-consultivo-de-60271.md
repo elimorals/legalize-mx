@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-el-funcionamiento-del-consejo-consultivo-de-602
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-06-30"
-last_updated: "2008-07-18"
+last_updated: "2017-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60271&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA EL FUNCIONAMIENTO DEL CONSEJO CONSULTIVO DE PESCA Y ACUACULTURA DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JULIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 30 de junio de 2006.
 
@@ -37,7 +37,7 @@ Se aprobó por unanimidad de votos de los munícipes presentes del XVIII Ayuntam
 
 MA. NELlDA PELAYO PONCE, ORLANDO A. TOSCANO MONTAÑO, GILBERTO FLORES MUÑOZ, ARNOLDO CARLOS GARCIA GUERRERO, GEORGINA POSADA APARICIO, RICARDO LOMELI SEDANO, ERNESTO PEDRIN MARQUEZ, ALFONSO TALAVERA HERNANDEZ, Y ARMANDO REYES LEDEZMA; Los suscritos Regidores Integrantes de las respectivas comisiones de Pesca así como de la Comisión de Gobernación y Legislación del XVIII Ayuntamiento de Ensenada, tenemos a bien someter a la consideración de este H. Cabildo, para su Aprobación el presente PROYECTO DE REGLAMENTO PARA EL FUNCIONAMIENTO DEL CONSEJO CONSULTIVO DE PESCA Y ACUACULTURA DEL MUNICIPIO DE ENSENADA, B. C.
 
-FUNDAMENTACION:.
+FUNDAMENTACION:
 
 CUARTO.- Publíquese el Reglamento en el Periódico Oficial del Gobierno del Estado, lo anterior para los efectos de su entrada el (sic) vigor.
 
@@ -55,15 +55,17 @@ REGLAMENTO PARA EL FUNCIONAMIENTO DEL CONSEJO CONSULTIVO DE PESCA Y ACUACULTURA 
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2017)</small>
+
 ###### ARTÍCULO 1.
 
-Se crea el Consejo Consultivo de Pesca y Acuacultura del Municipio de Ensenada, Baja California, para actuar en coordinación, colaboración y consulta con las autoridades municipales, estatales y federales en las materias de pesca y acuacultura, así como con los organismos productivos social y privado de los sectores primario y de servicios, con el propósito de fomentar, promover, apoyar y atender a quienes se dedican a esta actividad económica, mediante el aprovechamiento sustentable, integral y responsable de los recursos acuícolas y pesqueros del Municipio, teniendo como objetivos elevar el nivel de calidad de vida de los integrantes del sector pesquero, la competencia económica, el mantenimiento y generación de empleos, obtención de divisas y la extracción y producción de alimentos y otros recursos naturales del mar.
+El presente reglamento tiene como objeto regular el funcionamiento del Consejo Consultivo de Pesca y Acuacultura del Municipio de Ensenada, Baja California, para actuar en coordinación, colaboración y consulta con las autoridades municipales, estatales y federales en las materias de pesca y acuacultura, así como con los organismos productivos social y privado de los sectores primario y de servicios, con el propósito de fomentar, promover, apoyar y atender a quienes se dedican a esta actividad económica, mediante el aprovechamiento sustentable, integral y responsable de los recursos acuícolas y pesqueros del Municipio, teniendo como objetivos elevar el nivel de calidad de vida de los integrantes del sector pesquero, Y la competencia económica, el mantenimiento y generación de empleos, obtención de divisas y la extracción y producción de alimentos y otros recursos naturales del mar.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2017)</small>
 
 ###### ARTÍCULO 2.
 
-El Consejo Consultivo, es un organismo de participación ciudadana, auxiliar de la administración municipal que actuará directamente en colaboración con el área o dependencia a cargo de las actividades de fomento económico y vinculación empresarial del Ayuntamiento.
-
-Participará en las tareas de: planeación, gestión, consulta, propuesta, seguimiento, evaluación y control de políticas y programas públicos que impulsen y promuevan: el desarrollo de la acuacultura y la pesca, el mejoramiento social en la calidad de vida de los ciudadanos que participan económicamente de ese sector, la vinculación con los sectores científicos y tecnológicos de la región.
+El Consejo Consultivo, es un organismo de participación ciudadana, auxiliar de la administración municipal, que participará en las tareas de planeación, gestión, consulta, propuesta, seguimiento, evaluación y control de políticas y programas públicos, que impulsen y promuevan el desarrollo de la acuacultura y la pesca, el mejoramiento social en la calidad de vida de los ciudadanos que participan económicamente de ese sector, y la vinculación con los sectores científicos y tecnológicos de la región.
 
 ###### ARTÍCULO 3.
 
@@ -81,37 +83,29 @@ IV. Consejero Ciudadano: De los integrantes del Consejo, aquellos que representa
 
 ### CAPÍTULO SEGUNDO. DEL CONSEJO
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2017)</small>
+
 ###### ARTÍCULO 4.
 
 El Consejo Consultivo tendrá los siguientes objetivos:
 
-I. Contribuir al desarrollo sustentable en todas las acciones de las actividades propias de las pesquerías, que se desarrollan en aguas de jurisdicción del municipio de Ensenada, incluyendo un aprovechamiento óptimo de los recursos pesqueros y acuícolas con base en el mejor conocimiento científico y tecnológico, sin menoscabo de su conservación y respeto al medio ambiente y teniendo en cuenta los factores económicos y sociales de la región;
+I. Coadyuvar en el diseño de la política y los programas al municipio para la pesca y la acuacultura, vinculándolos con los programas nacionales, estatales;
 
-II. Promover, propiciar y asegurar la coordinación y colaboración entre los gobiernos federal, estatal y municipal, con la participación concertada de los sectores productivos y de investigación científica y tecnológica, en la ejecución de acciones programáticas en materia de administración de pesquerías previstas en los planes de desarrollo de los tres ordenes de gobierno;
+II. Funcionar como un mecanismo de participación pública en el manejo y conservación de los recursos pesqueros y acuícolas;
 
-III. Promover la difusión y la extensión entre los integrantes del sector pesquero y acuícola los resultados de las investigaciones científicas y tecnológicas desarrolladas en las instituciones estatales o regionales de investigación y educación superior;
+III. Proponer métodos y medidas para la conservación de los recursos pesqueros y la repoblación de las áreas de pesca;
 
-IV. Promover la realización de convenios o acuerdos de coordinación entre los gobiernos federal, estatal y municipal y los productores, en materia de administración, inspección, vigilancia y sanidad de los recursos pesqueros y acuícolas que se aprovechan en el municipio;
+IV. Coadyuvar con los planes y programas de (sic) necesarios para lograr un adecuado ordenamiento pesquero y acuícola;
 
-V. Colaborar, elaborar con los sectores productivos y promover ante las autoridades competentes, propuestas de lineamientos, acciones y procedimientos para mejorar la actividad pesquera con base en los criterios y principios de pesca responsable;
+V. Promover y proponer y coadyuvar acciones de sanidad acuícola, en los términos de esta Ley y de la legislación local;
 
-VI. Promover y difundir ante los integrantes del sector, el acceso a los programas, fondos económicos y sus reglas de operación, con que cuentan los tres ordenes de gobierno y las instituciones financieras publicas y privadas;
+VI. Promover y fomentar la actividad acuícola, en armonía con la preservación del ambiente y la conservación de la biodiversidad;
 
-VII. Promover mediante la vinculación con los centros de educación e investigación públicos y privados, programas, actividades de capacitación en la gestión empresarial, tecnologías de captura, acuacultura, conservación, industrialización y comercialización, entre otras, tendientes a propiciar la actualización y modernización del sector;
+VII. Promover y difundir ante los integrantes del sector, el acceso a los programas, fondos económicos y sus reglas de operación, con que cuentan los tres órdenes de gobierno y las instituciones financieras públicas y privadas.
 
-VIII. Promover el servicio social, las practicas profesionales, elaboración de tesis, trabajos de investigación de estudiantes de los centros de educación media y superior, principalmente en unidades de producción y aprovechamiento de recursos del mar privadas y sociales;
+VIII. Promover ante los integrantes del sector cursos y talleres de capacitación con instituciones públicas y privadas sobre las bases normativas vigentes que intervienen en el desarrollo y fomento económico de este sector; y
 
-IX. Promover ante los integrantes del sector cursos y talleres de capacitación con instituciones publicas y privadas sobre las bases normativas vigentes que intervienen en el desarrollo y fomento económico de este sector;
-
-X. Promover el desarrollo social integral de las comunidades que se dedican a la actividad de la pesca y acuacultura en el municipio;
-
-XI. Colaborar y coordinarse con las autoridades competentes en la aplicación, observancia y cumplimiento del marco legal vigente relacionado con todas las actividades de la pesca y la acuacultura;
-
-XII. Proponer y participar en la elaboración de las políticas publicas federal, estatal y municipal que promuevan el aprovechamiento racional y sustentable, de los recursos pesqueros y acuícolas; así como el fomento y promoción de las actividades pesqueras y acuícolas que aseguren el desarrollo con justicia y equidad de quienes participen en ellas;
-
-XIII. Promover de manera decidida el impulso de la acuacultura en las comunidades costeras rurales, como una alternativa de reconversión productiva y económica;
-
-XIV. Impulsar la creación de un sistema para la certificación de calidad y origen de los productos pesqueros de Ensenada y Baja California.
+IX. Promover y participar en la elaboración de propuestas, con base en datos históricos, científicos, tecnológicos y socioeconómicos tendientes a mejorar el aprovechamiento de los recursos pesqueros y acuícolas que así lo ameriten;
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JULIO DE 2008)</small>
 
@@ -141,9 +135,11 @@ IX. Rendir informe anual de las actividades realizadas, ante el pleno del Cabild
 
 X. Rendir informes específicos ante la comisión de Pesca y Acuacultura Sustentables del Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2017)</small>
+
 ###### ARTÍCULO 6.
 
-Los recursos económicos de los ordenes federal, estatal o municipal, o bien los privados o de fundaciones altruistas nacionales o internacionales, que sean destinados al Ayuntamiento para su aplicación, asignación o administración, mediante programas, proyectos o acciones, tendientes a impulsar y promover la pesca y la acuacultura en la jurisdicción de este municipio, será el Consejo, por votación de las dos terceras partes de sus integrantes, quien determine una propuesta de los destinatarios y/o beneficiarios de dichos fondos, misma que será sometida para su aprobación al Ayuntamiento.
+En la elaboración de los programas, proyectos o acciones, tendientes a impulsar y promover la pesca y la acuacultura en la jurisdicción de este municipio, que involucren recursos federales, estatales o municipales, o bien privados, que sean destinados al Ayuntamiento para su aplicación, asignación o administración, será tomada en cuenta opinión del Consejo para la determinación de los destinatarios y/o beneficiarios.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JULIO DE 2008)</small>
 
@@ -151,41 +147,49 @@ Los recursos económicos de los ordenes federal, estatal o municipal, o bien los
 
 El consejo Consultivo se integra con las (sic) siguientes Consejeros propietarios y suplentes respectivo (sic):
 
-I. El Presidente Municipal o quien él designe;
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2008)</small>
+I.- Presidente
 
-II. Los integrantes de la Comisión de Pesca y Acuacultura Sustentables del Ayuntamiento;
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2017)</small>
 
-III. El titular del área o dependencia a cargo de las actividades de Fomento Económico y vinculación empresarial del Ayuntamiento;
+II.- La Comisión (sic) Pesca y Acuacultura Sustentable
 
-IV. Un representante de organizaciones o asociaciones que pertenecen a cada una de las siguientes ramas:
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2017)</small>
 
-a. Armadores de pesca deportiva;
+III. El Director de Desarrollo Económico del Ayuntamiento;
 
-b. Organizaciones de la pesca deportiva;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE AGOSTO DE 2017)</small>
 
-c. De la pesca ribereña del Golfo de California;
+IV. Un representante de organizaciones de la Pesca Deportiva;
 
-d. De la pesca ribereña del Pacífico;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE AGOSTO DE 2017)</small>
 
-e. De pescadores asalariados;
+V. Un representante de la pesca ribereña del Golfo de California;
 
-f. De acuacultura;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE AGOSTO DE 2017)</small>
 
-g. De maricultura;
+VI. Un representante de la pesca ribereña del Pacífico Norte;
 
-h. De pesca de altura;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE AGOSTO DE 2017)</small>
 
-i. Por cada Federación Regional de Sociedades Cooperativas;
+VII. Un representante de la pesca ribereña del Pacífico Sur;
 
-j. De la Cámara Nacional de la Industria Pesquera;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE AGOSTO DE 2017)</small>
 
-k. De pescadores de asociaciones gremiales;
+VIII. Un representante de la Acuacultura;
 
-l. De la asociación de comerciantes del mercado de mariscos de Ensenada, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE AGOSTO DE 2017)</small>
 
-m. De PROTURISMO de Ensenada.
+IX. Un representante de cada sistema producto; a) langosta, b) ostión, c) abulón, d) camarón, e) calamar, f) erizo, g) moluscos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE AGOSTO DE 2017)</small>
+
+X. Un representante de la Cámara Nacional de la Industria Pesquera; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE AGOSTO DE 2017)</small>
+
+XI. Un representante de las Instituciones Educativas y de Investigación, (CRIP) Centro Regional de Investigación Pesquera.
 
 ###### ARTÍCULO 8.
 
@@ -201,9 +205,13 @@ IV. Centro de Estudios Tecnológicos del Mar;
 
 V. Secundaria Técnica Pesquera No. 8;
 
-VI. Dirección de Pesca de la Secretaría de Fomento Agropecuario (SEFOA);
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2017)</small>
 
-VII. Delegación de la Secretaria de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación (SAGARPA);
+VI. Secretaría de Pesca del Estado de Baja California.
+
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2017)</small>
+
+VII. Subdelegación de Pesca de la CONAPESCA
 
 VIII. Secretaría del Medio Ambiente y Recursos Naturales;
 
@@ -215,6 +223,10 @@ XI. Secretaría de Marina;
 
 XII. Asociación de Oceanólogos de México, A.C.;
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 4 DE AGOSTO DE 2017, PÁGINA 16.]</small>
+
+XIII. (DEROGADA, P.O. 4 DE AGOSTO DE 2017)
+
 Así mismo, se podrá invitar a otros ciudadanos que por su experiencia y conocimientos se justifique o sea necesario contar con su presencia.
 
 ###### ARTÍCULO 9.
@@ -224,6 +236,8 @@ Para garantizar el buen funcionamiento y logro de los fines del Consejo y sus Co
 ###### ARTÍCULO 10.
 
 Para el logro de sus fines y propósitos, el Consejo actuará en pleno y en Comisiones. Estas habrán de funcionar por actividades, pesquerías o temas específicos propios del sector y para vigilar y dar seguimiento a los acuerdos y resultados del Consejo.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 4 DE AGOSTO DE 2017)</small>
 
 ###### ARTÍCULO 11.
 
@@ -237,33 +251,9 @@ III. Los vocales que el consejo determine.
 
 ###### ARTÍCULO 12.
 
-Las comisiones deberán realizar las siguientes funciones:
+(DEROGADO, P.O. 4 DE AGOSTO DE 2017)
 
-I. Promover y participar en la realización del plan y programa de pesca y acuacultura municipal el cual por lo menos deberá contener, los siguientes aspectos:
-
-a. Diagnostico sobre el estado e historia de las pesquerías (comportamiento de la producción, esfuerzo y valor de la producción).
-
-b. Caracterización de los productores y sus organizaciones.
-
-c. Régimen de pesca, tecnologías y operaciones de explotación.
-
-d. Problemática y propuesta de solución.
-
-II. Participar en la elaboración y vigilar que se mantenga actualizado el Sistema de Información acerca de las actividades pesca (sic) y acuacultura que se realizan en el municipio de Ensenada y que están a cargo de la Delegación de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación (SAGARPA) en el Estado de Baja California, la cual contará con información clasificada por unidad de pesquería incluyendo registros de los agentes productivos;
-
-III. Promover e Identificar nuevas áreas de oportunidad para el fomento y desarrollo de la pesca y acuacultura mediante el acopio de información científica, tecnológica y de aquella que se derive de la practica o experiencia pesquera, informando de estos resultados adecuadamente a los integrantes del sector;
-
-IV. Proponer las medidas necesarias para el desarrollo ordenado de la pesca dentro del marco de la sustentabilidad, especialmente de aquellas relativas a modificaciones al régimen actual de administración pesquera, sistemas y métodos de pesca, organización del sector y alternativas de aprovechamiento, con base en el mejor conocimiento científico y tecnológico, debiéndose observar y tomar en cuenta el “criterio de precaución”, cuando se carezca de información suficiente;
-
-V. Proponer a la Dirección General de Ordenamiento Pesquero y Acuícola, proyectos específicos para la regularización y ordenamiento de aquellas pesquerías que lo requieran;
-
-VI. Proponer a las autoridades normativas competentes la adopción de las disposiciones administrativas de regulación pesquera y acuícola con base en estudios científicos, tecnológicos y socioeconómicos;
-
-VII. Promover y participar en la elaboración de propuestas, con base en datos históricos, científicos, tecnológicos y socioeconómicos tendientes a mejorar el aprovechamiento de los recursos pesqueros y acuícolas que así lo ameriten;
-
-VIII. Participar en los trabajos de elaboración de propuestas de Leyes Federales, Estatales, reglamentos y sus reformas relacionadas con todas las actividades del sector;
-
-IX. Establecer una coordinación efectiva con las entidades encargadas de implementar los programas operativos de control, inspección y vigilancia, para garantizar que la pesca se desarrolle con apego a la legislación, normatividad y disposiciones administrativas de regulación pesquera vigentes, así como su evaluación permanente, asegurando la participación de las organizaciones de productores integrantes del sector; (sic)
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 4 DE AGOSTO DE 2017)</small>
 
 ###### ARTÍCULO 13.
 
@@ -280,6 +270,8 @@ IV. Elaborar y presentar los informes de la Comisión, y
 V. La divulgación pública de las propuestas, acuerdos y compromisos de las comisiones, se deberán realizar a través del Consejo.
 
 ### CAPÍTULO TERCERO. DE LOS CONSEJEROS
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 4 DE AGOSTO DE 2017)</small>
 
 ###### ARTÍCULO 14.
 
@@ -313,15 +305,17 @@ El Consejero que deje de asistir a tres sesiones ordinarias consecutivas o cinco
 
 ### CAPÍTULO CUARTO. DE LA MESA DIRECTIVA
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2017)</small>
+
 ###### ARTÍCULO 19.
 
-Para su organización y funcionamiento el Consejo contara con una mesa Directiva, integrada por:
+Para su organización y funcionamiento el Consejo contara con una Mesa Directiva, integrada por:
 
 I. El Presidente Municipal o por quien él designe;
 
-II. Un secretario técnico, que será el titular de la Dirección de Fomento Económico del área o dependencia a cargo de las actividades de fomento económico y vinculación empresarial del Ayuntamiento;
+II. Un secretario técnico, que será el Director de Director (sic) de Desarrollo Económico;
 
-III. Por el número de vocales que de acuerdo a sus necesidades el Consejo determine.
+III. Por Cinco vocales que de acuerdo a sus necesidades el Consejo determine.
 
 ###### ARTÍCULO 20.
 
@@ -373,9 +367,11 @@ Para la realización de las sesiones ordinarias deberá emitirse una convocatori
 
 Cuando se trate de sesiones extraordinarias, la notificación se hará cuando menos con veinticuatro horas de anticipación.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2017)</small>
+
 ###### ARTÍCULO 24.
 
-Para que las sesiones se realicen con quórum legal, deberán contar con la asistencia de las dos terceras partes de los integrantes del Consejo.
+Para que las sesiones se realicen con quórum legal, deberán contar con la asistencia de la mitad más uno de los integrantes del Consejo.
 
 ###### ARTÍCULO 25.
 
@@ -389,9 +385,13 @@ III. Llevar durante la sesión, en riguroso orden, la solicitud de la voz de los
 
 ### CAPÍTULO SEXTO. DE LA CONVOCATORIA PARA LA INTEGRACIÓN DEL CONSEJO
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2017)</small>
+
 ###### ARTÍCULO 26.
 
-La renovación de los miembros del Consejo, que no sean autoridades, se realizará mediante convocatoria que apruebe y publique el Ayuntamiento, cada dos años.
+La renovación de los miembros del consejo, que no sean autoridades, se realizara mediante convocatoria que apruebe y publique el Ayuntamiento, cada 3 años pudiendo ser ratificados en una sola ocasión. La conclusión del periodo será junto con el Ayuntamiento en que fueron elegidos como miembros.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 4 DE AGOSTO DE 2017)</small>
 
 ###### ARTÍCULO 27.
 
@@ -401,9 +401,7 @@ La convocatoria deberá ser publicada en dos diarios de mayor circulación local
 
 ###### ARTÍCULO 28.
 
-La elección de los consejeros representantes de sector u organizaciones económicas, se llevará a cabo por el Ayuntamiento, en un plazo no mayor de treinta días y un mínimo de quince antes del término legal del Consejo en funciones, mediante el voto de las dos terceras partes de los integrantes del mismo.
-
-La propuesta que haga cada sector u organización económica, deberá acompañarse del acta aprobada y certificada de la asamblea o reunión correspondiente, en donde por mayoría simple se haya elegido a su representante.
+(DEROGADO, P.O. 4 DE AGOSTO DE 2017)
 
 ###### ARTÍCULO 29.
 
@@ -427,9 +425,11 @@ VIII. Cumplir con los demás requisitos que se establezcan en las bases de la co
 
 ### CAPÍTULO SÉPTIMO. DE LAS SANCIONES
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 4 DE AGOSTO DE 2017)</small>
+
 ###### ARTÍCULO 30.
 
-En caso de incumplimiento por parte de algún funcionario publico a lo establecido en el presente Reglamento, se aplicaran las sanciones a las que se refiere la Ley de Responsabilidades de los Servidores Públicos, en su capitulo correspondiente.
+En caso de incumplimiento por parte de algún funcionario público a lo establecido en el presente Reglamento, se aplicaran las sanciones a las que se refiere la Ley de Responsabilidades de los Servidores Públicos, en su capítulo correspondiente.
 
 ## TRANSITORIOS
 
@@ -449,7 +449,7 @@ LIC. JULIO CESAR ARENAS RUIZ
 
 SECRETARIO FEDATARIO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.]</small>
 
 P.O. 18 DE JULIO DE 2008.
 
@@ -462,3 +462,9 @@ TERCERO.- Se derogan todas aquellas disposiciones reglamentarias que se opongan 
 CUARTO.- Que los integrantes de esta Comisión permanente de pesca y acuacultura sustentable serán los mismos que integraban la Comisión de pesca no permanente de este XIX Ayuntamiento de Ensenada: REGIDOR, JULIO FELIPE GARCIA MUÑOZ, COMO COORDINADOR, RICARDO MANCILLAS AMADOR, COMO SECRETARIO Y EDUARDO COTA OSUNA, COMO VOCAL.
 
 QUINTO.- La Comisión de Pesca y Acuacultura Sustentables de (sic) Ayuntamiento de Ensenada, deberá instalarse a más tardar, dentro de los treinta días siguientes a la publicación del presente acuerdo.
+
+P.O. 4 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE DIVERSOS ARTÍCULOS DEL REGLAMENTO PARA EL FUNCIONAMIENTO DEL CONSEJO CONSULTIVO DE PESCA Y ACUACULTURA DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA".]
+
+UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
