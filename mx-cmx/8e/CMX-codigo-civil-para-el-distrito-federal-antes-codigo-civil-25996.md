@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2017-04-05"
+last_updated: "2017-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -23,7 +23,7 @@ scjn_last_update: "2026-08-20"
 
 CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 5 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 4 DE AGOSTO DE 2017.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -2765,17 +2765,7 @@ ARTICULO 323 Sextus.- Los integrantes de la familia que incurran en violencia fa
 
 En todas las controversias derivadas de violencia familiar, el Juez dictará las medidas a que se refiere la fracción VII del artículo 282 de este Código.
 
-> <small>(ADICIONADO, G.O. 9 DE MAYO DE 2014)</small>
-
-ARTICULO 323 Septimus.- Comete violencia familiar el integrante de la familia que transforma la conciencia de un menor con el objeto de impedir, obstaculizar o destruir sus vínculos con uno de sus progenitores.
-
-La conducta descrita en el párrafo anterior, se denomina alienación parental cuando es realizada por uno de los padres, quien, acreditada dicha conducta, será suspendido en el ejercicio de la patria potestad del menor y, en consecuencia, del régimen de visitas y convivencias que, en su caso, tenga decretado. Asimismo, en caso de que el padre alienador tenga la guarda y custodia del niño, ésta pasará de inmediato al otro progenitor, si se trata de un caso de alienación leve o moderada.
-
-En el supuesto de que el menor presente un grado de alienación parental severo, en ningún caso, permanecerá bajo el cuidado del progenitor alienador o de la familia de éste, se suspenderá todo contacto con el padre alienador y el menor será sometido al tratamiento que indique el especialista que haya diagnosticado dicho trastorno.
-
-A fin de asegurar el bienestar del menor, y en caso de que, por su edad, resulte imposible que viva con el otro progenitor, el departamento de psicología del Tribunal Superior de Justicia del Distrito Federal, evaluando a los parientes más cercanos del niño, determinará qué persona quedará encargada de su cuidado; mientras recibe el tratamiento respectivo que haga posible la convivencia con el progenitor no alienador.
-
-El tratamiento para el niño alienado será llevado a cabo en el Departamento de Alienación Parental del Servicio Médico Forense del Tribunal Superior de Justicia del Distrito Federal.
+Artículo 323 Séptimus.- (DEROGADO, G.O. 4 DE AGOSTO DE 2017)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 18 DE AGOSTO DE 2011)</small>
 
@@ -14788,3 +14778,11 @@ G.O. 5 DE ABRIL DE 2017.
 PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 4 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE DEROGA EL ARTÍCULO 323 SÉPTIMUS DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL".]
+
+PRIMERO. Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
