@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-la-ley-de-planeacion-del-estado-de-mexico-y-26335
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-10-16"
-last_updated: "2008-08-12"
+last_updated: "2017-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26335&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO DE LA LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-REGLAMENTO DE LA LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS
+REGLAMENTO DE LA LEY DE PLANEACIÓN DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE AGOSTO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE AGOSTO DE 2017.
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el miércoles 16 de octubre de 2002.
 
@@ -41,7 +41,7 @@ REGLAMENTO DE LA LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS
 
 El presente Reglamento tiene por objeto definir y detallar lo establecido en la Ley de Planeación del Estado de México y Municipios; precisar la organización y funcionamiento del Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios, así como regular la participación de los grupos sociales en dicho sistema.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 2.
 
@@ -89,7 +89,9 @@ XIII. Evaluación programática presupuestal. Al conjunto de acciones de supervi
 
 XIV. Función. Al conjunto de actividades afines y coordinadas, necesarias para alcanzar los objetivos de las instituciones, de cuyo ejercicio generalmente es responsable uno o más órganos o unidades administrativas; se define a partir de las disposiciones jurídico-administrativas;
 
-XV. Grupos de Trabajo. A los grupos interinstitucionales que conjuntamente y al interior de los subcomités establecidos por la Asamblea General actúan como instancias auxiliares del COPLADEM;
+> <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2017)</small>
+
+XV. Grupos Interinstitucionales. A los grupos establecidos por la Asamblea General que actuarán como instancias auxiliares del COPLADEM, responsables de proponer, integrar, dar seguimiento, evaluar y acordar las políticas públicas de desarrollo regional, los programas y acciones de gobierno de las dependencias del Ejecutivo Estatal en cada una de las regiones en las que se divide el territorio estatal;
 
 XVI. IGECEM Al Instituto de Información e Investigación Geográfica, Estadística y Catastral del Estado de México;
 
@@ -129,7 +131,7 @@ XXIX. Secretaría. A la Secretaría de Finanzas;
 
 XXX. Secretario Técnico. Al Director General del COPLADEM;
 
-XXXI. Subcomités. A los Subcomités Sectoriales, Regionales y Especiales establecidos por la Asamblea General como organismos auxiliares del COPLADEM;
+XXXI. (DEROGADA, G.G. 4 DE AGOSTO DE 2017)
 
 XXXII. Subfunción. A la desagregación específica y concreta de la función que identifica acciones y servicios afines a la misma, expresados en unidades de funcionamiento o medición congruente. Desglose pormenorizado de la función, identifica con mayor precisión la participación del sector público en el resto de la economía; y
 
@@ -555,7 +557,7 @@ e) Participar en la integración de los informes de Gobierno que anualmente rind
 
 Los Planes y Programas a que se refiere la Ley y el presente Reglamento, serán los instrumentos a través de los cuales se fijarán las prioridades, objetivos, estrategias, líneas de acción y metas para el desarrollo sustentable del Estado y Municipios.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 12 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 12 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 22.
 
@@ -627,7 +629,7 @@ Con los resultados, se integrará un expediente o memoria que contendrá su corr
 
 Los planes de desarrollo y sus programas derivados, deberán incluir un apartado específico en donde se incluyan prioridades, objetivos, estrategias y líneas generales de acción, que rebasen el período constitucional de la gestión gubernamental, según sea el caso, los cuales, invariablemente, al inicio de cada nueva administración, serán revisados, analizados y reformulados de ser procedente.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 12 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 12 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 26.
 
@@ -715,7 +717,7 @@ La Secretaría emitirá los criterios y metodología para la elaboración e inte
 
 Los programas sectoriales y regionales deberán quedar integrados y aprobados, a más tardar, en los siguientes seis meses posteriores a la publicación del Plan de Desarrollo del Estado de México.
 
-> <small>(REFORMADOP PRIMER PARRAFO, G.G. 12 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 12 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 37.
 
@@ -741,9 +743,9 @@ Los programas sectoriales deberán formularse asegurando su debida congruencia c
 
 En la formulación e integración de los programas sectoriales participarán las dependencias y entidades de acuerdo con los programas agrupados al sector que corresponda; su elaboración e integración será coordinada por el COPLADEM, el cual valorará la propuesta y emitirá un dictamen de concordancia con el Plan de Desarrollo del Estado de México y con el Sistema Nacional de Planeación.
 
-> <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, G.G. 4 DE AGOSTO DE 2017)</small>
 
-El COPLADEM a través de los subcomités sectoriales respectivos que al efecto establezca, convocará y coordinará las reuniones de trabajo necesarias para elaborar, integrar, difundir, dar seguimiento y evaluar los programas sectoriales.
+El COPLADEM a través de los grupos interinstitucionales que al efecto establezca, convocará y coordinará las reuniones de trabajo necesarias para elaborar, integrar, difundir, dar seguimiento y evaluar los programas sectoriales, especiales y regionales.
 
 ###### Artículo 41.
 
@@ -809,7 +811,7 @@ En la formulación e integración de los programas regionales participarán las 
 
 ###### Artículo 48.
 
-El COPLADEM a través de los subcomités regionales respectivos que al efecto establezca, convocará y coordinará las reuniones de trabajo necesarias para elaborar, integrar, difundir, dar seguimiento y evaluar los programas regionales autorizados.
+(DEROGADO, G.G. 4 DE AGOSTO DE 2017)
 
 ###### Artículo 49.
 
@@ -1007,11 +1009,11 @@ Las contralorías internas de las dependencias y entidades del Poder Ejecutivo y
 
 Las evaluaciones del Plan de Desarrollo Municipal se realizarán en sesión especial de cabildo y en todos los casos, deberán participar los miembros integrantes del COPLADEMUN.
 
-> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, G.G. 4 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 72.
 
-La evaluación de los programas sectoriales, regionales y especiales, independientemente de los mecanismos e instrumentos aplicados para estos fines por la Secretaría y la Secretaría de la Contraloría en sus respectivos ámbitos de competencia, deberá realizarse en el seno de los diferentes subcomités del COPLADEM, cuando menos dos veces al año, la primera sesión se realizará durante el primer trimestre, en el que se presentarán los resultados alcanzados en el año inmediato anterior y el programa de trabajo para el año en curso, entre otros asuntos; y una posterior para atender el informe de avances de los programas y las previsiones de vinculación y concertación de los alcances con la programación-presupuestación del ejercicio presupuestal siguiente.
+La evaluación de los programas sectoriales, regionales y especiales, independientemente de los mecanismos e instrumentos aplicados para estos fines por la Secretaría y la Secretaría de la Contraloría en sus respectivos ámbitos de competencia, deberá realizarse en el seno de los grupos interinstitucionales, cuando menos dos veces al año, la primera sesión se realizará durante el primer trimestre, en el que se presentarán los resultados alcanzados en el año inmediato anterior y el programa de trabajo para el año en curso, entre otros asuntos y una posterior para atender el informe de avances de los programas y las previsiones de vinculación y concertación de los alcances con la programación- presupuestación del ejercicio presupuestal siguiente.
 
 > <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2008)</small>
 
@@ -1093,7 +1095,7 @@ Las controversias que surjan con motivo de los convenios entre el Gobierno del E
 
 ### CAPITULO SEXTO. DE LOS COMITES DE PLANEACION
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 12 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 12 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 82.
 
@@ -1197,19 +1199,13 @@ Para convocar a la Asamblea General para sesionar a través de la Comisión Perm
 
 Ya sea que la Asamblea General sesione en pleno o a través de su Comisión Permanente, el Secretario Técnico notificará por oficio los acuerdos en ella tomados, a los titulares de las dependencias, organismos, entidades públicas y unidades administrativas involucradas para que procedan a su cumplimiento, requiriéndoles informen al COPLADEM de las acciones tomadas, a efecto de realizar su evaluación y seguimiento en la siguiente asamblea.
 
+> <small>(REFORMADO, G.G. 4 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 89.
 
-El COPLADEM apoyará su operación y funcionamiento en las instancias auxiliares siguientes:
+El COPLADEM apoyará su operación y funcionamiento en grupos interinstitucionales, que serán establecidos por la Asamblea General a propuesta del Presidente.
 
-I. Subcomités sectoriales;
-
-II. Subcomités regionales;
-
-III. Subcomités especiales;
-
-IV. (DEROGADA, G.G. 12 DE AGOSTO DE 2008)
-
-V. Grupos de trabajo de los subcomités.
+La naturaleza de los grupos interinstitucionales y su integración, estará determinada por criterios demográficos, geográficos, socioeconómicos, políticos, operativos y organizacionales, entre otros, mismos que deberán ser atendidos por la Asamblea General.
 
 ###### Artículo 90.
 
@@ -1225,9 +1221,9 @@ III. Coadyuvar con el Ejecutivo al seguimiento y evaluación de los programas y 
 
 IV. Proponer a los gobiernos federal y estatal, así como a los ayuntamientos, medidas de carácter jurídico, administrativo o financiero, necesarias para el cumplimiento de las funciones y la consecución de los objetivos del COPLADEM; en el caso de las propuestas que se formulen a los ayuntamientos éstas, se presentarán a través de la Dirección General a los COPLADEMUN;
 
-> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2017)</small>
 
-V. Dictar en su caso normas y políticas generales para establecer los criterios que deban orientar las acciones, funciones y actividades de la Comisión Permanente, subcomités sectoriales, regionales y especiales, así como de los grupos de trabajo de los Subcomités;
+V. Dictar en su caso normas y políticas generales para establecer los criterios que deban orientar las acciones, funciones y actividades de la Comisión Permanente y de los grupos interinstitucionales;
 
 VI. Proponer y aprobar reformas o adiciones al reglamento interno del COPLADEM;
 
@@ -1245,7 +1241,7 @@ Las atribuciones que deberá cumplir la Comisión Permanente, serán las señala
 
 ### CAPITULO OCTAVO. DE LAS FUNCIONES DE LOS INTEGRANTES DE LA ASAMBLEA GENERAL
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 12 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 12 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 91.
 
@@ -1259,9 +1255,13 @@ III. Someter a consideración de la Asamblea General la propuesta del programa a
 
 IV. Designar y remover al Director General del COPLADEM;
 
-V. Proponer a la Asamblea General el establecimiento, modificación o supresión de subcomités y grupos de trabajo;
+> <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2017)</small>
 
-VI. Nombrar a los coordinadores de los subcomités y grupos de trabajo;
+V. Proponer a la Asamblea General la denominación, establecimiento, integración, modificación o supresión de los grupos interinstitucionales;
+
+> <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2017)</small>
+
+VI. Nombrar a los coordinadores de los grupos interinstitucionales;
 
 > <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
 
@@ -1285,7 +1285,9 @@ II. Proponer a la Asamblea General las políticas y lineamientos generales para 
 
 III. Coordinar la integración del programa anual de trabajo, el informe anual y la evaluación de actividades del COPLADEM y sus instancias auxiliares;
 
-IV. Proponer al presidente el establecimiento, modificación o supresión de subcomités y grupos de trabajo;
+> <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2017)</small>
+
+IV. Proponer al presidente la denominación, establecimiento, integración, modificación o supresión de los grupos interinstitucionales;
 
 V. Coordinar la elaboración de los trabajos que determine la Asamblea General;
 
@@ -1295,11 +1297,11 @@ VII. (DEROGADA, G.G. 12 DE AGOSTO DE 2008)
 
 VIII. Las que le encomiende la Asamblea General.
 
-> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, G.G. 4 DE AGOSTO DE 2017)</small>
 
-Para el cumplimiento de sus funciones, el Coordinador General contará con el apoyo del Coordinador de Planeación, del Secretario Técnico y de los coordinadores de los subcomités y de los grupos de trabajo.
+Para el cumplimiento de sus funciones, el Coordinador General contará con el apoyo del Coordinador de Planeación, del Secretario Técnico y de los coordinadores de los grupos interinstitucionales.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 12 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 12 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 93.
 
@@ -1333,137 +1335,69 @@ II. Apoyar al Coordinador General en la ejecución de las resoluciones de la Asa
 
 III. Someter al Coordinador General las propuestas de las políticas y lineamientos generales para la planeación del desarrollo del Estado, las metodologías para la integración, ejecución y evaluación de los programas sectoriales, regionales y especiales en el marco del Sistema Estatal de Planeación Democrática, así como proponer el Programa Anual de Inversión Pública;
 
-IV. Vigilar que los propósitos y objetivos planteados en los programas, proyectos y acciones que se establezcan en el seno de los subcomités o grupos de trabajo sean congruentes con el Plan Nacional de Desarrollo, el Plan de Desarrollo del Estado de México y los planes de desarrollo municipal;
+> <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2017)</small>
+
+IV. Vigilar que los propósitos y objetivos planteados en los programas, proyectos y acciones que se establezcan en el seno de los grupos interinstitucionales sean congruentes con el Plan Nacional de Desarrollo, el Plan de Desarrollo del Estado de México y los planes de desarrollo municipal;
 
 V. Las que le encomiende la Asamblea General y el Coordinador General.
 
-### CAPITULO NOVENO
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 4 DE AGOSTO DE 2017)</small>
 
-DE LA INTEGRACION, FUNCIONES Y SESIONES DE LOS SUBCOMITES Y DE LOS GRUPOS DE TRABAJO.
+### CAPITULO NOVENO. DE LA INTEGRACIÓN, FUNCIONES Y SESIONES DE LOS GRUPOS INTERINSTITUCIONALES
+
+> <small>(REFORMADO, G.G. 4 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 95.
 
-Los subcomités sectoriales se integrarán por representantes de las dependencias y organismos auxiliares de determinado sector del desarrollo económico-social de la entidad, con la participación de representantes del gobierno federal, grupos y organizaciones sociales y privados que tengan injerencia en el mismo sector de desarrollo.
+Los grupos interinstitucionales podrán integrarse por representantes de los distintos órdenes de gobierno, de los grupos y organizaciones sociales y privados, así como por los encargados de atender una problemática o fenómeno económico o social específico y serán miembros permanentes los presidentes municipales de la región correspondiente.
 
 ###### Artículo 96.
 
-Los subcomités regionales se integrarán por representantes de los distintos ordenes de gobierno, y de los grupos y organizaciones sociales y privados que tengan injerencia en la región respectiva; y serán miembros permanentes los presidentes municipales de la región correspondiente.
+(DEROGADO, G.G. 4 DE AGOSTO DE 2017)
 
-> <small>(REFORMADO, G.G. 16 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO, G.G. 4 DE AGOSTO DE 2017)</small>
 
-La Asamblea General establecerá un Subcomité Regional por cada una de las 16 regiones en que se divide el Estado.
+###### Artículo 97.
 
-> <small>(REFORMADO, G.G. 16 DE SEPTIEMBRE DE 2005)</small>
+Para efectos de la planeación del desarrollo regional, el Estado se dividirá en regiones de acuerdo a su diversidad o de la identidad de sus condiciones socioeconómicas, o para la ejecución de programas o líneas de acción, que serán propuestas por el Presidente de la Asamblea General a través del COPLADEM quien emitirá el dictamen respectivo, en el cual se motivarán las razones para tal circunstancia.
 
-###### ARTÍCULO 97.
-
-Para efectos de la planeación del desarrollo regional, el Estado se divide en las regiones siguientes:
-
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
-
-Región I Amecameca: Amecameca, Atlautla, Ayapango, Cocotitlán, Chalco, Ecatzingo, Juchitepec, Ozumba, Temamatla, Tenango del Aire, Tepetlixpa, Tlalmanalco y Valle de Chalco Solidaridad.
-
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
-
-Región II Atlacomulco: Acambay, Aculco, Atlacomulco, Chapa de Mota, Ixtlahuaca, Jilotepec, Jiquipilco, Jocotitlán, Morelos, El Oro, Polotitlán, San Felipe del Progreso, San José del Rincón, Soyaniquilpan de Juárez, Temascalcingo y Timilpan.
-
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
-
-Región III Chimalhuacán: Chicoloapan, Chimalhuacán, Ixtapaluca y La Paz.
-
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
-
-Región IV Cuautitlán Izcalli: Coyotepec, Cuautitlán Izcalli, Huehuetoca, Tepotzotlán y Villa del Carbón.
-
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
-
-Región V Ecatepec: Acolman, Axapusco, Ecatepec de Morelos, Nopaltepec, Otumba, San Martín de las Pirámides, Tecamac, Temascalapa y Teotihuacan.
-
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
-
-Región VI Ixtapan de la Sal: Almoloya de Alquisiras, Coatepec Harinas, Ixtapan de la Sal, Joquicinqo, Malinalco, Ocuilan, San Simón de Guerrero, Sultepec, Temascaltepec, Tenancingo, Texcaltitlán, Tonatico, Villa Guerrero, Zacualpan y Zumpahuacán.
-
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
-
-Región VII Lerma: Atizapán, Capulhuac, Lerma, Ocoyoacac, Otzolotepec, San Mateo Atenco, Temoaya, Tianguistenco, Xalatlaco y Xonacatlán.
-
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
-
-Región VIII Naucalpan: Huixquilucan, Isidro Fabela, Jilotzingo, Naucalpan de Juárez y Nicolás Romero.
-
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
-
-Región IX Nezahualcóyotl: Nezahualcóyotl.
-
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
-
-Región X Tejupilco: Amatepec, Luvianos, Tejupilco y Tlatlaya.
-
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
-
-Región XI Texcoco: Atenco, Chiautla, Chiconcuac, Papalotla, Tepetlaoxtoc, Texcoco y Tezoyuca.
-
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
-
-Región XII Tlalnepantla: Atizapán de Zaragoza y Tlalnepantla de Baz.
-
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
-
-Región XIII Toluca: Almoloya de Juárez, Almoloya del Río, Calimaya, Chapultepec, Metepec, Mexicaltzingo, Rayón, San Antonio la Isla, Tenango del Valle, Toluca, Texcalyacac y Zinacantepec.
-
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
-
-Región XIV Tultitlán: Coacalco de Berriozábal, Cuautitlán, Melchor Ocampo. Teoloyucan, Tultepec y Tultitlán.
-
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
-
-Región XV Valle de Bravo: Amanalco, Donato Guerra, Ixtapan del Oro, Otzoloapan, Santo Tomás, Valle de Bravo, Villa de Allende, Villa Victoria y Zacazonapan.
-
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
-
-Región XVI Zumpango: Apaxco, Hueypoxtla, Jaltenco, Nextlalpan, Tequixquiac, Tonanitla y Zumpango.
-
-> <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2008)</small>
-
-Las regiones antes señaladas, en virtud de su diversidad o de la identidad de sus condiciones socioeconómicas, o bien para la ejecución de programas o líneas de acción podrán subdividirse o agruparse según sea el caso, para lo cual, el Presidente de la Asamblea General a través del COPLADEM emitirá el dictamen respectivo, en el cual se motivarán las razones para tal circunstancia.
+En el dictamen se establecerá la división que regirá la planeación a nivel regional y será publicado en el periódico oficial “Gaceta del Gobierno”.
 
 ###### Artículo 98.
 
-Los subcomités especiales se integrarán por representantes de los distintos ordenes de gobierno y de grupos y organizaciones sociales y privados, encargados de atender una problemática o fenómeno económico o social específico, y en el cual intervienen más de dos dependencias coordinadoras de sector.
+(DEROGADO, G.G. 4 DE AGOSTO DE 2017)
 
-> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, G.G. 4 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 99.
 
-Los grupos de trabajo de los subcomités son instancias auxiliares del COPLADEM. En el acuerdo de su instalación se especificarán sus propósitos, objetivos, metas, adscripción y vigencia en su caso, por lo tanto atenderán alguna subregión, programa, subprograma, contingencia o acción específica.
+Los grupos interinstitucionales son instancias auxiliares del COPLADEM. En el acuerdo de su instalación se especificarán sus propósitos, objetivos, metas, adscripción y vigencia en su caso, por lo tanto atenderán alguna región, programa, subprograma, contingencia o acción específica.
+
+> <small>(REFORMADO, G.G. 4 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 100.
 
-Los subcomités y los grupos de trabajo se integrarán por:
+Los grupos interinstitucionales se integrarán por:
 
-I. Un coordinador que será designado por el presidente;
+I. Un coordinador que será designado por el Presidente de la Asamblea.
 
-II. Un coordinador operativo, designado por el coordinador del subcomité o grupo de trabajo;
+II. Un coordinador operativo, designado por el coordinador de los grupos interinstitucionales.
 
-III. El Director General del COPLADEM o el representante que éste designe, quien tendrá la calidad de asesor técnico del subcomité o grupo de trabajo;
+III. El Director General del COPLADEM o el representante que éste designe, quien tendrá la calidad de asesor técnico de los grupos interinstitucionales.
 
-IV. Los titulares de las dependencias y organismos auxiliares estatales, y de las representaciones federales en el Estado, cuando su actividad se relacione con el objeto de atención del subcomité o grupo de trabajo respectivo;
+IV. Los titulares de las dependencias y organismos auxiliares estatales, y de las representaciones federales en el Estado, cuando su actividad se relacione con el objeto de atención de los grupos interinstitucionales.
 
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2006)</small>
+V. Un representante de la Secretaría de Desarrollo Social del Gobierno del Estado de México, el cual fungirá como Secretario Técnico de los grupos interinstitucionales.
 
-V. Un representante de la Secretaría de Desarrollo Social del Gobierno del Estado de México; el cual fungirá como Secretario Técnico en los subcomités regionales.
+VI. Los titulares o representantes de los grupos y organizaciones sociales y privados, cuando su objeto social sea afín al asunto a tratar por los grupos interinstitucionales.
 
-> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
+Los integrantes de los grupos interinstitucionales designarán a su respectivo suplente.
 
-VI. Los titulares o representantes de los grupos y organizaciones sociales y privados, cuando su objeto social sea afín al asunto a tratar por el Subcomité o Grupo de Trabajo.
-
-Los integrantes de los subcomités o grupos de trabajo designarán a su respectivo suplente.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 12 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 4 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 101.
 
-Los subcomités y grupos de trabajo tendrán las atribuciones siguientes:
+Los grupos interinstitucionales tendrán las atribuciones siguientes:
 
 I. Participar en la elaboración y actualización del Plan de Desarrollo del Estado de México;
 
@@ -1473,65 +1407,77 @@ II. Emitir los dictámenes para la autorización de los programas sectoriales, r
 
 III. Integrar las propuestas de inversión, turnarlas para su aprobación a la Secretaría; asegurando su congruencia con los programas derivados del Plan de Desarrollo del Estado de México; e informar de ello a la Asamblea General;
 
-IV. Aprobar el programa anual de actividades del subcomité o grupo de trabajo según se trate;
+> <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2017)</small>
 
-> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
+IV. Aprobar su programa anual de actividades;
 
-V. Realizar los trabajos que le encomiende la Asamblea General, la Comisión Permanente o los subcomités en su caso, para coadyuvar al cumplimiento de los propósitos del COPLADEM;
+> <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2017)</small>
+
+V. Realizar los trabajos que le encomiende la Asamblea General o la Comisión Permanente, para coadyuvar al cumplimiento de los propósitos del COPLADEM;
 
 > <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
 
 VI. Realizar reuniones de autoevaluación y participar en las de evaluación que convoque la Asamblea General o la Comisión Permanente;
 
-VII. Aprobar el informe anual de actividades que someta a su consideración el coordinador del subcomité o grupo de trabajo.
+> <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2017)</small>
 
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
+VII. Aprobar el informe anual de actividades que someta a su consideración el coordinador de los grupos interinstitucionales;
+
+> <small>(ADICIONADA, G.G. 4 DE AGOSTO DE 2017)</small>
+
+VIII. Elaborar e integrar las propuestas de acciones derivadas de los programas de desarrollo regional, conforme a los lineamientos y prioridades establecidas en el Plan de Desarrollo del Estado de México y los planes de desarrollo municipales;
+
+> <small>(ADICIONADA, G.G. 4 DE AGOSTO DE 2017)</small>
+
+IX. Determinar las prioridades del desarrollo de la región y proponer las acciones a realizar para dar cumplimiento al programa de desarrollo regional, considerando los proyectos de inversión pública;
+
+> <small>(ADICIONADA, G.G. 4 DE AGOSTO DE 2017)</small>
+
+X. Elaborar los análisis de congruencia y propuestas de coordinación y convergencia entre los planes de desarrollo municipal con el programa de desarrollo regional, así como llevar a cabo su seguimiento y evaluación.
+
+> <small>(REFORMADO, G.G. 4 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 102.
 
-Los subcomités y grupos de trabajo celebrarán, al menos, dos sesiones ordinarias al año, en el lugar y fecha que se indique en la convocatoria correspondiente, la cual será expedida por el coordinador del subcomité o grupo de trabajo, anexando el orden del día. Podrán realizarse sesiones extraordinarias cuando los asuntos a tratar así lo ameriten a juicio del coordinador o de la mayoría de los integrantes.
+Los grupos interinstitucionales celebrarán, al menos, dos sesiones ordinarias al año, en el lugar y fecha que se indique en la convocatoria correspondiente, la cual será expedida por el coordinador de los grupos interinstitucionales, anexando el orden del día. Podrán realizarse sesiones extraordinarias cuando los asuntos a tratar así lo ameriten a juicio del coordinador o de la mayoría de los integrantes.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 12 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, G.G. 4 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 103.
 
-Los coordinadores de los subcomités o grupos de trabajo tendrán las atribuciones siguientes:
+Los coordinadores de los grupos interinstitucionales tendrán las atribuciones siguientes:
 
-I. Coordinar las actividades del subcomité o grupo de trabajo y darles seguimiento;
+I. Coordinar las actividades y darles seguimiento.
 
-II. Conocer de los programas, acciones e informes del subcomité o grupo de trabajo, para orientar sus labores;
+II. Conocer los programas, acciones e informes de los grupos interinstitucionales, para orientar sus labores.
 
-III. Dar a conocer a los integrantes del subcomité o grupo de trabajo, él o los programas de desarrollo que correspondan para el seguimiento de las acciones contenidas en ellos;
+III. Dar a conocer a los integrantes de los grupos interinstitucionales, él o los programas de desarrollo que correspondan para el seguimiento de las acciones contenidas en ellos.
 
-IV. Proponer al subcomité o grupo de trabajo las obras y acciones prioritarias que deban desarrollarse para cumplir con los objetivos del o los programas estatales;
+IV. Proponer a los grupos interinstitucionales las obras y acciones prioritarias que deban desarrollarse para cumplir con los objetivos del o los programas estatales.
 
-V. Coordinar la integración del programa anual de trabajo, el informe de actividades y la evaluación del subcomité o grupo de trabajo, y someterlos a consideración de la Asamblea General a través del coordinador general;
+V. Coordinar la integración del programa anual de trabajo, el informe de actividades y la evaluación de los grupos interinstitucionales y someterlos a consideración de la Asamblea General a través del coordinador general.
 
-VI. Someter a consideración del coordinador general las medidas que estime pertinentes para mejorar el funcionamiento del subcomité o grupo de trabajo;
+VI. Someter a consideración del coordinador general las medidas que estime pertinentes para mejorar el funcionamiento de los grupos interinstitucionales.
 
-> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
+VII. Convocar, presidir las sesiones de los grupos interinstitucionales y firmar las actas correspondientes.
 
-VII. Convocar y presidir las sesiones del subcomité o grupo de trabajo y rubricar las actas correspondientes;
+VIII. Verificar el cumplimiento de los acuerdos establecidos en las sesiones ordinarias y extraordinarias que realicen los grupos interinstitucionales.
 
-VIII. Verificar el cumplimiento de los acuerdos establecidos en las sesiones ordinarias y extraordinarias que realice el subcomité o grupo de trabajo;
+IX. Informar a los grupos interinstitucionales la asignación de recursos federales, estatales, municipales y de otras fuentes de financiamiento, que correspondan al sector, subsector y en su caso región.
 
-IX. Informar al subcomité o grupo de trabajo la asignación de recursos federales, estatales, municipales y de otras fuentes de financiamiento, que correspondan al sector, subsector y en su caso región;
+X. Integrar la propuesta de los programas de inversión anual que coordine los grupos interinstitucionales.
 
-X. Integrar la propuesta de los programas de inversión anual que coordine el subcomité y grupo de trabajo;
+XI. Informar sobre el cumplimiento de los convenios de coordinación y participación celebrados con otras instancias de gobierno y con los grupos y organizaciones sociales y privados que incidan en los programas a cargo de los grupos interinstitucionales.
 
-XI. Informar sobre el cumplimiento de los Convenios de Coordinación y Participación celebrados con otras instancias de gobierno y con los grupos y organizaciones sociales y privados que incidan en los programas a cargo del subcomité o grupo de trabajo;
+XII. Analizar el avance y resultados de los programas anuales de inversión pública, tanto federales como estatales y hacerlos del conocimiento de los grupos interinstitucionales.
 
-XII. Analizar el avance y resultados de los programas anuales de inversión pública, tanto federales como estatales, y hacerlos del conocimiento del subcomité o grupo de trabajo de que se trate;
+XIII. Coordinar los demás trabajos que les encomiende la Asamblea General y la Comisión Permanente.
 
-> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
-
-XIII. Coordinar los demás trabajos que les encomiende la Asamblea General, la Comisión Permanente o el subcomité.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 12 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 4 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 104.
 
-Los coordinadores operativos de cada subcomité o grupo de trabajo tendrán las atribuciones siguientes:
+Los coordinadores operativos de cada grupo interinstitucional tendrán las atribuciones siguientes:
 
 I. Preparar el orden del día de las sesiones;
 
@@ -1547,41 +1493,53 @@ IV. Tomar asistencia y declarar el quórum;
 
 V. Realizar el seguimiento de los acuerdos tomados en las sesiones, y comunicar al Secretario técnico del COPLADEM sobre el avance y cumplimiento de los mismos;
 
-VI. Apoyar y auxiliar al coordinador en la organización y desarrollo de los trabajos del subcomité o grupo de trabajo;
+> <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2017)</small>
+
+VI. Apoyar y auxiliar al coordinador en la organización y desarrollo de los trabajos de los grupos interinstitucionales;
 
 > <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
 
 VII. Vigilar que los programas anuales de inversión pública sean acordes con los programas derivados del Plan de Desarrollo Estatal;
 
-VIII. Integrar y mantener actualizada la documentación del subcomité o grupo de trabajo para su adecuado registro y control;
+> <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2017)</small>
+
+VIII. Integrar y mantener actualizada la documentación de los grupos interinstitucionales para su adecuado registro y control;
 
 > <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
 
 IX. Levantar el acta de cada una de las sesiones, remitiendo copia al Secretario Técnico del COPLADEM;
 
-X. Proponer medidas para el mejor funcionamiento del subcomité o grupo de trabajo;
+> <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2017)</small>
+
+X. Proponer medidas para el mejor funcionamiento de los grupos interinstitucionales;
 
 XI. Las demás que le encomiende el coordinador.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 4 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 105.
 
-Los representantes de la Secretaría de Desarrollo Social del Estado ante los subcomités o grupo de trabajo tendrán las funciones siguientes:
+Los representantes de la Secretaría de Desarrollo Social del Estado ante los grupos interinstitucionales tendrán las funciones siguientes:
 
 I. Informar sobre los programas de inversión federal que coordine la dependencia;
 
 II. Informar sobre los programas, proyectos y acciones que se realicen en el territorio estatal o en la región que corresponda;
 
-III. Acudir y participar en las sesiones del subcomité y rubricar el acta correspondiente;
+> <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2017)</small>
+
+III. Acudir, participar en las sesiones de los grupos interinstitucionales y firmar el acta correspondiente;
 
 IV. Las demás que le encomiende el coordinador.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 4 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 106.
 
-En las sesiones de los subcomités y grupos de trabajo se observarán las reglas siguientes:
+En las sesiones de los grupos interinstitucionales se observarán las reglas siguientes:
 
-> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2017)</small>
 
-I. Para sesionar válidamente requerirán la presencia del coordinador del subcomité, el coordinador operativo, el Director General del COPLADEM o el representante que éste designe, el representante de la Secretaría de Desarrollo Social del Estado de México, y cuando menos la mitad más uno de los miembros que integren el subcomité o grupo de trabajo;
+I. Para sesionar válidamente requerirán la presencia del coordinador de los grupos interinstitucionales, el coordinador operativo, el Director General del COPLADEM o el representante que éste designe, el representante de la Secretaría de Desarrollo Social del Estado de México y la mitad más uno de los miembros que integren los grupos interinstitucionales;
 
 II. A falta de quórum, se expedirá en la misma fecha, una segunda convocatoria para sesionar en un plazo máximo de tres días hábiles, llevándose a cabo la sesión con el número de integrantes que asistan;
 
@@ -1589,19 +1547,17 @@ II. A falta de quórum, se expedirá en la misma fecha, una segunda convocatoria
 
 Al final de cada sesión se levantará el acta, la que será sometida para su aprobación, y en ella se hará constar cuando menos la lista de asistencia, seguimiento de acuerdos, los acuerdos tomados, el desarrollo del orden del día y la firma de los asistentes.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 4 DE AGOSTO DE 2017)</small>
+
 ### CAPITULO DECIMO. DE LA INTEGRACION, FUNCIONES Y SESIONES DE LOS SUBCOMITES REGIONALES
 
 ###### Artículo 107.
 
-Los subcomités regionales además de las funciones señaladas en el Capítulo Noveno de este reglamento, tendrán las siguientes:
-
-I. Elaborar e integrar las propuestas de acciones derivadas de los programas de desarrollo regional, conforme a los lineamientos y prioridades establecidas en el Plan de Desarrollo del Estado de México y los planes de desarrollo municipales;
-
-II. Determinar las prioridades del desarrollo de la región y proponer las acciones a incluir en el programa de desarrollo regional, proponiendo los proyectos de inversión pública.
+(DEROGADO, G.G. 4 DE AGOSTO DE 2017)
 
 ###### Artículo 108.
 
-Los coordinadores operativos de los subcomités regionales, además de las funciones señaladas en el Capítulo Noveno de este reglamento, tendrán las relativas a la elaboración de los análisis de congruencia y propuestas de coordinación y convergencia entre los planes de desarrollo municipal con el programa de desarrollo regional y llevar a cabo su seguimiento y evaluación, sometiendo las conclusiones a la consideración del coordinador del subcomité regional.
+(DEROGADO, G.G. 4 DE AGOSTO DE 2017)
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 12 DE AGOSTO DE 2008)</small>
 
@@ -1629,7 +1585,9 @@ VII. Un Representante del Poder Legislativo, designado por su titular;
 
 VIII. Un Representante del Poder Judicial, designado por su titular;
 
-IX. Un Representante de los subcomités y grupos de trabajo, que designe el Coordinador General;
+> <small>(REFORMADA, G.G. 4 DE AGOSTO DE 2017)</small>
+
+IX. Un Representante de los grupos interinstitucionales, que designe el Coordinador General;
 
 X. Un Representante de las representaciones federales en el Estado;
 
@@ -1691,7 +1649,9 @@ III. Someter a consideración del Presidente de la Comisión Permanente, la carp
 
 IV. Las que le encomiende la Comisión Permanente.
 
-Para el cumplimiento de sus funciones, el Coordinador General contará con el apoyo del Coordinador de Planeación, del Secretario Técnico y de los coordinadores de los subcomités y de los grupos de trabajo.
+> <small>(REFORMADO, G.G. 4 DE AGOSTO DE 2017)</small>
+
+Para el cumplimiento de sus funciones, el Coordinador General contará con el apoyo del Coordinador de Planeación, del Secretario Técnico y del coordinador de los grupos interinstitucionales.
 
 > <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2008)</small>
 
@@ -1794,3 +1754,13 @@ Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
 ###### ARTÍCULO SEGUNDO.
 
 El presente Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 4 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL EJECUTIVO DEL ESTADO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE PLANEACIÓN DEL ESTADO DE MÉXICO Y MUNICIPIOS”.]
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Acuerdo.
