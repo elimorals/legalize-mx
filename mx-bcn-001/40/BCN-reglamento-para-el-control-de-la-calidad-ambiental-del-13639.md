@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-el-control-de-la-calidad-ambiental-del-13639"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-01-29"
-last_updated: "2017-04-21"
+last_updated: "2017-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,7 +26,7 @@ state: "BCN"
 
 REGLAMENTO PARA EL CONTROL DE LA CALIDAD AMBIENTAL DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2017.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 29 de enero de 1999.
 
@@ -812,9 +812,31 @@ En caso de que reiteradamente se realicen actividades ruidosas meramente domést
 
 La Dirección restringirá la emisión de ruido, vibraciones, energía térmica, energía lumínica y olores perjudiciales, temporal o permanentemente, en áreas habitacionales y en zonas colindantes a guarderías, escuelas, asilos, lugares de descanso, hospitales y demás establecimientos dedicados al tratamiento y recuperación de la salud.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 70.
 
-El nivel máximo permisible de emisión de ruido provenientes de fuentes fijas de competencia municipal, es de 68 dB (A) de las seis a las veintidós horas, y de 65 dB (A) de las veintidós a las seis horas.
+El nivel máximo permisible de emisión de ruido proveniente de fuentes fijas de competencia municipal, de acuerdo a los límites máximos permisibles de emisión de ruido, serán los que se detallan a continuación:
+
+LÍMITES MÁXIMOS PERMISIBLES.
+
+ZONA HORARIO LÍMITE MÁXIMO
+
+PERMISIBLE dB (A)
+
+Residencial (exteriores) 6:00 a 22:00 55
+
+22:00 a 6:00 50
+
+Industriales y comerciales 6:00 a 22:00 68
+
+22:00 a 6:00 65
+
+Escuelas (áreas exteriores de juego) Durante el juego 55
+
+Ceremonias, festivales y eventos de
+
+entretenimiento. 4 horas 100
 
 ###### Artículo 71.
 
@@ -1628,15 +1650,19 @@ VIII.- Al responsable de realizar obras o actividades que afecten al medio ambie
 
 IX.- A los propietarios de lotes baldíos que no den cumplimiento a la limpieza de los mismos en el plazo concedido por la Dirección en la resolución administrativa definitiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 175.
 
-Se sancionará con multa de veinte a setecientos cincuenta días de salario mínimo general vigente, a quien cometa cualquiera de las siguientes infracciones:
+Se sancionará con multa de veinte a setecientos cincuenta UMA, a quien cometa cualquiera de las siguientes infracciones:
 
 I.- A los propietarios o poseedores de cualquier vehículo automotor, público o privado, que no efectúen la verificación vehicular de emisión de contaminantes a la atmósfera a que estén obligados, en los términos de los programas que se establezcan para tal efecto;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2017)</small>
 
-II.- Utilizar aparatos amplificadores de sonido y otros dispositivos similares con el fin colectivo no comercial, que produzcan ruido en la vía pública o en el ambiente de la comunidad, que excedan de un nivel de 55 decibeles en un horario comprendido de las 06:00 a las 22:00 horas, y de 50 decibeles en un horario comprendido de las 22:00 a las 06:00 horas y se cumpla con lo establecido en el Articulo 42 del Reglamento para el funcionamiento de Espectáculos Públicos y Centros de Reunión para el Municipio de Ensenada, Baja California.
+II.- Utilizar aparatos amplificadores de sonido y otros dispositivos similares con el fin colectivo no comercial, que produzcan ruido en la vía pública o en el ambiente de la comunidad, que excedan de lo dispuesto en el artículo 70 del presente ordenamiento.
+
+La Dirección de Seguridad Pública Municipal, tomará en cuenta lo establecido en el presente artículo para imponer las sanciones previstas en el Artículo 26, fracción XXI, del Bando de Policía y Gobierno para el Municipio de Ensenada, Baja California.
 
 III.- Emitir ruido con vehículos de automotores en movimiento, a un nivel superior a los:
 
@@ -1867,3 +1893,9 @@ P.O. 21 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 40 Y 41 DEL REGLAMENTO PARA EL CONTROL DE LA CALIDAD AMBIENTAL DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, RELATIVO AL DICTAMEN 001/2017".]
 
 ÚNICO.- La presente reforma entrará en vigor dentro de los 180 días naturales a partir del día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
+
+P.O. 4 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 70 Y 175 FRACCIÓN II DEL REGLAMENTO PARA EL CONTROL DE LA CALIDAD AMBIENTAL DEL MUNICIPIO DE ENSENADA, B.C.".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Baja California y/o Gaceta Municipal.
