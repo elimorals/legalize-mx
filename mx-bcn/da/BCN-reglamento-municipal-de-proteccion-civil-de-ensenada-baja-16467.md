@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-municipal-de-proteccion-civil-de-ensenada-baja-16467
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-04-28"
-last_updated: "2017-07-07"
+last_updated: "2017-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16467&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE ENSENADA BAJA CALIFORNIA
 
-REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE ENSENADA BAJA CALIFORNIA
+REGLAMENTO MUNICIPAL DE PROTECCIÓN CIVIL DE ENSENADA BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2017.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 28 de abril de 2000.
 
@@ -143,7 +143,7 @@ XIV. Tramitar los acuerdos emitidos por el Consejo Municipal;
 
 XV. Expedir los registros a que se refieren los Artículos 39 y 72 de este Reglamento;
 
-XVI. Elaborar y mantener actualizado el Plan Municipal de Contingencias y el Atlas Municipal de Riesgos; y (sic)
+XVI. Elaborar y mantener actualizado el Plan Municipal de Contingencias y el Atlas Municipal de Riesgos; y
 
 > <small>(REFORMADA, P.O. 13 DE MAYO DE 2011)</small>
 
@@ -1139,21 +1139,23 @@ La Unidad Municipal de Protección Civil, impondrá sanciones a las que se refie
 
 La Unidad Municipal de Protección Civil, podrá imponer sanciones ante la resistencia de autoridades ó particulares, a permitir la práctica de la inspección previstas (sic) en el Artículo 115 del presente Reglamento así como a otras Dependencias que tuviesen injerencia.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 121.
 
 Las sanciones que podrán aplicarse por el incumplimiento del presente Reglamento consistirán en:
 
-I. Amonestación.
+I.- Amonestación.
 
-II. Clausura temporal ó definitiva, total ó parcial de los establecimientos.
+II.- Clausura temporal o definitiva, total o parcial de los establecimientos.
 
-III. Multa equivalente de veinte a mil días de salario mínimo vigente en la zona donde se cometió la infracción.
+III.- Multa equivalente de 20 a 1000 UMA.
 
-IV. Suspensión de obras, instalaciones ó servicios.
+IV.- Suspensión de obras, instalaciones o servicios.
 
-V. Arresto administrativo hasta por treinta y seis horas.
+V.- Arresto administrativo hasta por treinta y seis horas.
 
-En caso de reincidencia, el monto de la multa podrá ser incrementado sin exceder de dos mil días de salario mínimo.
+En caso de reincidencia, el monto de la multa podrá ser incrementado sin exceder de 2000 UMA.
 
 ###### Artículo 122.
 
@@ -1285,7 +1287,7 @@ C. LIC. JOSE GUADALUPE RIOS VELA
 
 Rubrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 13 DE MAYO DE 2011.
 
@@ -1296,3 +1298,9 @@ P.O. 7 DE JULIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA EL DICTAMEN 001/2017, RELATIVO A LA REFORMA DEL ARTÍCULO 60 DEL REGLAMENTO DE PROTECCIÓN CIVIL DE ENSENADA, BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Baja California y/o Gaceta Municipal.
+
+P.O. 4 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 121 DEL REGLAMENTO MUNICIPAL DE PROTECCIÓN CIVIL DE ENSENADA, B.C.”.]
+
+UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
