@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-civiles-para-el-estado-de-colima-9881"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2017-04-01"
+last_updated: "2017-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2017.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado Colima, el sábado 25 de septiembre de 1954.
 
@@ -6955,23 +6955,25 @@ P.O. 19 DE MARZO DE 2016.
 
 P.O. 11 DE JUNIO DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 103 SE REFORMA LA DENOMINACIÓN DEL NUEVO CÓDIGO CIVIL PARA EL ESTADO DE COLIMA, PARA QUE EN LO SUCESIVO SE DENOMINE CÓDIGO CIVIL PARA EL ESTADO DE COLIMA; ASÍ COMO, DIVERSAS DISPOSICIONES DEL MISMO; IGUALMENTE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA El ESTADO DE COLIMA”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 103 SE REFORMA LA DENOMINACIÓN DEL NUEVO CÓDIGO CIVIL PARA EL ESTADO DE COLIMA, PARA QUE EN LO SUCESIVO SE DENOMINE CÓDIGO CIVIL PARA EL ESTADO DE COLIMA; ASÍ COMO, DIVERSAS DISPOSICIONES DEL MISMO; IGUALMENTE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA El ESTADO DE COLIMA".]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado: "El Estado de Colima".
 
-SEGUNDO.- Se reconoce plena validez legal a los contratos de Enlaces Conyugales celebrados con anterioridad al presente decreto, debiendo los contrayentes celebrar contrato de matrimonio, para lo cual los oficiales del Registro Civil deberán sustituir el acta de Relación Conyugal correspondiente, por una nueva acta de matrimonio en los términos en que se celebró el enlace referido; sin necesidad de presentar nuevamente la documentación requerida para celebrar tales actos jurídicos, ni realizar pago algo (sic) por esta sustitución.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2017)</small>
 
-> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+SEGUNDO.- Se reconoce plena validez legal a los contratos de Enlaces conyugales celebrados con anterioridad al presente decreto, para lo cual los Oficiales del Registro Civil deberán emitir la certificación de matrimonio correspondiente en los términos en los que se llevo a cabo el enlace referido, sin necesidad de presentar nuevamente documentación requerida para celebrar tales actos jurídicos, ni realizar pago alguno por esta sustitución. Debiéndose realizar las anotaciones marginales correspondientes.
 
-TERCERO.- Se reconoce la validez de todos los contratos de matrimonio mediante las (sic) cuales se haya celebrado la unión de personas del mismo sexo, hasta antes de la entrada en vigor del presente Decreto. Los oficiales del registro civil deberán canjear dichas actas sin costo alguno para los solicitantes, de conformidad a las reformas contenidas en el Decreto 103 y, gocen sin limitación alguna de los beneficios de ésta.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2017)</small>
+
+TERCERO.- Se reconoce la validez de todos los contratos de matrimonio mediante los cuales se haya celebrado la unión de personas del mismo sexo, hasta antes de la entrada en vigor del presente Decreto. Los Oficiales del Registro Civil deberán emitir la certificación de matrimonio correspondiente sin costo alguno para los solicitantes, de conformidad a las reformas contenidas en el Decreto 103, y goce sin limitación alguna de los beneficios de ésta. Debiéndose realizar las anotaciones marginales correspondientes.
 
 P.O. 10 DE SEPTIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NO. 148 SE ADICIONA UN TRANSITORIO TERCERO AL DECRETO 103, DE ESTA QUINCUAGÉSIMA OCTAVA LEGISLATURA, PUBLICADO EN EL PERIÓDICO OFICIAL “EL ESTADO DE COLIMA” EL 11 DE JUNIO DE 2016, POR EL QUE SE RECONOCE LA VALIDEZ DE TODOS LOS CONTRATOS DE MATRIMONIO MEDIANTE LAS (SIC) CUALES SE HAYA CELEBRADO LA UNIÓN DE PERSONAS DEL MISMO SEXO, HASTA ANTES DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO”.]
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 148 SE ADICIONA UN TRANSITORIO TERCERO AL DECRETO 103, DE ESTA QUINCUAGÉSIMA OCTAVA LEGISLATURA, PUBLICADO EN EL PERIÓDICO OFICIAL "EL ESTADO DE COLIMA" EL 11 DE JUNIO DE 2016, POR EL QUE SE RECONOCE LA VALIDEZ DE TODOS LOS CONTRATOS DE MATRIMONIO MEDIANTE LAS (SIC) CUALES SE HAYA CELEBRADO LA UNIÓN DE PERSONAS DEL MISMO SEXO, HASTA ANTES DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO".]
 
 ###### ARTÍCULO ÚNICO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico “El Estado de Colima”.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico "El Estado de Colima".
 
 P.O. 10 DE SEPTIEMBRE DE 2016.
 
@@ -6992,3 +6994,9 @@ P.O. 1 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 256 POR EL QUE SE REFORMAN LA FRACCIONES XVI Y XVII Y SE ADICIONA LA FRACCIÓN XVIII AL ARTÍCULO 429 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 5 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 324 POR EL QUE SE REFORMAN LOS ARTÍCULOS SEGUNDO Y TERCERO TRANSITORIOS DEL DECRETO 103, PUBLICADO EN EL PERIÓDICO OFICIAL "EL ESTADO DE COLIMA" EL 11 DE JUNIO DE 2016."]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
