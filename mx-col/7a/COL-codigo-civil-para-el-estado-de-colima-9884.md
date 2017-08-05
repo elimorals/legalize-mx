@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2017-06-03"
+last_updated: "2017-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2017.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -11427,11 +11427,13 @@ P.O. 11 DE JUNIO DE 2016.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado: "El Estado de Colima".
 
-SEGUNDO.- Se reconoce plena validez legal a los contratos de Enlaces Conyugales celebrados con anterioridad al presente decreto, debiendo los contrayentes celebrar contrato de matrimonio, para lo cual los oficiales del Registro Civil deberán sustituir el acta de Relación Conyugal correspondiente, por una nueva acta de matrimonio en los términos en que se celebró el enlace referido; sin necesidad de presentar nuevamente la documentación requerida para celebrar tales actos jurídicos, ni realizar pago algo por esta sustitución..
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2017)</small>
 
-> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+SEGUNDO.- Se reconoce plena validez legal a los contratos de Enlaces conyugales celebrados con anterioridad al presente decreto, para lo cual los Oficiales del Registro Civil deberán emitir la certificación de matrimonio correspondiente en los términos en los que se llevo a cabo el enlace referido, sin necesidad de presentar nuevamente documentación requerida para celebrar tales actos jurídicos, ni realizar pago alguno por esta sustitución. Debiéndose realizar las anotaciones marginales correspondientes.
 
-TERCERO.- Se reconoce la validez de todos los contratos de matrimonio mediante las (sic) cuales se haya celebrado la unión de personas del mismo sexo, hasta antes de la entrada en vigor del presente Decreto. Los oficiales del registro civil deberán canjear dichas actas sin costo alguno para los solicitantes, de conformidad a las reformas contenidas en el Decreto 103 y, gocen sin limitación alguna de los beneficios de ésta.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2017)</small>
+
+TERCERO.- Se reconoce la validez de todos los contratos de matrimonio mediante los cuales se haya celebrado la unión de personas del mismo sexo, hasta antes de la entrada en vigor del presente Decreto. Los Oficiales del Registro Civil deberán emitir la certificación de matrimonio correspondiente sin costo alguno para los solicitantes, de conformidad a las reformas contenidas en el Decreto 103, y goce sin limitación alguna de los beneficios de ésta. Debiéndose realizar las anotaciones marginales correspondientes.
 
 P.O. 10 DE SEPTIEMBRE DE 2016.
 
@@ -11490,3 +11492,9 @@ P.O. 3 DE JUNIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 299 POR EL QUE SE DEROGA EL ARTÍCULO 56 DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima"
+
+P.O. 5 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 324 POR EL QUE SE REFORMAN LOS ARTÍCULOS SEGUNDO Y TERCERO TRANSITORIOS DEL DECRETO 103, PUBLICADO EN EL PERIÓDICO OFICIAL "EL ESTADO DE COLIMA" EL 11 DE JUNIO DE 2016".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
