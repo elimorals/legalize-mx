@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-justicia-fiscal-y-administrativa-del-estado-de-78586"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-23"
-last_updated: "2017-03-05"
+last_updated: "2017-08-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78586&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY DE JUSTICIA FISCAL Y ADMINISTRATIVA DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 6 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE JUSTICIA FISCAL Y ADMINISTRATIVA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2017 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 2010.
 
@@ -2256,3 +2258,13 @@ SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado po
 TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 6 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 194.- POR EL QUE SE EXPIDE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se abroga la Ley de Justicia Fiscal y Administrativa del Estado de Durango.
+
+TERCERO.- Los asuntos tramitados ante el Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado, antes de la entrada en vigor del presente decreto, se desahogarán conforme a las normas bajo las cuales se iniciaron.
