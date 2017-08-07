@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "2016-09-02"
+last_updated: "2017-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2017.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -139,9 +141,17 @@ Tratándose de decretos promulgatorios a cargo del Gobernador del Estado, corres
 
 El Gobernador del Estado expedirá el Reglamento Interno de cada Dependencia del Ejecutivo, en el que se determinarán las Unidades Administrativas de las mismas, así como sus atribuciones; además se fijarán en ese Ordenamiento las facultades que deban ser ejercidas por sus Titulares, así como la forma en que los mismos deberán ser suplidos en sus ausencias.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2017)</small>
+
 ###### ARTICULO 11.
 
-El Gobernador del Estado autorizará al Titular de cada Dependencia a expedir los manuales de organización, procedimientos y de servicios al público necesarios para su funcionamiento, los que deberán contener la información sobre la estructura orgánica de la Dependencia y las funciones de sus unidades administrativas, de acuerdo con el presupuesto que se le asigne y las normas generales de administración interna que se establezcan. Los manuales y demás instrumentos de apoyo administrativo, deberán mantenerse permanentemente actualizados.
+El Gobernador autorizará al titular de cada Dependencia a expedir los manuales de organización, de procedimientos y de servicios al público necesarios para su funcionamiento, los que deberán contener información sobre la estructura orgánica de la dependencia y las funciones de sus unidades administrativas, así como sobre los sistemas de comunicación y coordinación, y los principales procedimientos administrativos que se establezcan.
+
+Los manuales y demás instrumentos de apoyo administrativo interno, deberán mantenerse permanentemente actualizados.
+
+Los manuales de organización general deberán publicarse en el Periódico Oficial del Estado.
+
+Los manuales de organización, procedimientos y de servicios al público deberán estar disponibles para consulta de los usuarios y de los propios servidores públicos, a través del registro electrónico que opere la Secretaría de la Contraloría y Transparencia Gubernamental.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2012)</small>
 
@@ -237,9 +247,9 @@ XVI.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2009)
 
 XVII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2009)
 
-(REFORMADA, P.O. 29 DE JUNIO DE 2001) (REPUBLICADA, P.O. 28 DE OCTUBRE DE 2005)
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2017)</small>
 
-XVIII.- Dirección de Control y Evaluación Gubernamental, y
+XVIII.- Secretaría de la Contraloría y Transparencia Gubernamental;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MAYO DE 2008)</small>
 
@@ -573,77 +583,61 @@ XXVI.- Ejercer las atribuciones derivadas de los Convenios de Colaboración Admi
 
 XXVII.- Las demás que determinen expresamente las leyes y reglamentos.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE JUNIO DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE AGOSTO DE 2017)</small>
 
-### CAPITULO VI
+### CAPITULO VI. DE LA COMPETENCIA DE LA SECRETARIA DE LA CONTRALORIA Y TRANSPARENCIA GUBERNAMENTAL
 
-DE LA COMPETENCIA DE LA DIRECCION DE CONTROL Y EVALUACION GUBERNAMENTAL.
-
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2017)</small>
 
 ###### ARTICULO 25.
 
-A la Dirección de Control y Evaluación Gubernamental, le corresponde la atención y trámite de los siguientes asuntos:
+A la Secretaría de la Contraloría y Transparencia Gubernamental, le corresponde la atención y trámite de los siguientes asuntos:
 
-I.- Planear, organizar y coordinar el sistema de control y evaluación gubernamental de la Administración Pública Estatal.
+I.- Organizar y coordinar el sistema de control interno y la evaluación de la gestión gubernamental; inspeccionar el ejercicio del gasto público y su congruencia con los presupuestos de egresos, así como concertar con las dependencias y entidades de la Administración Pública del Estado y validar los indicadores para la evaluación de la gestión gubernamental, en los términos de las disposiciones aplicables;
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+II.- Expedir las normas que regulen los instrumentos y procedimientos de control interno de la Administración Pública del Estado, para lo cual podrá requerir de las dependencias competentes la expedición de normas complementarias para el ejercicio del control administrativo;
 
-II.- Expedir las normas y criterios que regulan el funcionamiento de los instrumentos y procedimientos de control de la Administración Pública Estatal, y en su caso requerir de las dependencias competentes, la instrumentación de normas complementarias para el ejercicio de facultades que aseguren el control.
+III.- Vigilar, en colaboración con las autoridades que integren el Comité Coordinador del Sistema Estatal Anticorrupción, el cumplimiento de las normas de control interno y fiscalización, así como asesorar y apoyar a los órganos internos de control de las dependencias y entidades de la Administración Pública del Estado;
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+IV.- Coordinar y supervisar el sistema de control interno, establecer las bases generales para la realización de auditorías internas, transversales y externas; expedir las normas que regulen los instrumentos y procedimientos en dichas materias en las dependencias y entidades de la Administración Pública del Estado, así como realizar las auditorías que se requieran en éstas, en sustitución o apoyo de sus propios órganos internos de control;
 
-III.- Vigilar el cumplimiento de las normas de control y fiscalización, así como, planear, organizar, coordinar y apoyar a los órganos de control internos de las Dependencias y Entidades de la Administración Pública Estatal.
+V.- Vigilar el cumplimiento, por parte de las dependencias y entidades de la Administración Pública del Estado, de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda y patrimonio;
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+VI.- Realizar, por sí o a solicitud de la Secretaría de Planeación y Finanzas, Oficialía Mayor de Gobierno o la coordinadora de sector correspondiente, auditorías, revisiones y evaluaciones a las dependencias y entidades de la Administración Pública Estatal, con el objeto de examinar, fiscalizar y promover la eficiencia y legalidad en su gestión y encargo;
 
-IV.- Establecer las bases generales para la evaluación y realización de auditorias en las dependencias y entidades de la Administración Pública, así como realizar aquellas que se requieran en sustitución o apoyo de sus propios órganos internos de control.
+VII.- Fiscalizar directamente o a través de los órganos internos de control, que las dependencias y entidades de la Administración Pública Estatal cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y remuneraciones de personal, contratación de adquisiciones, arrendamientos, arrendamiento financiero, servicios y ejecución de obra pública, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales;
 
-V.- Comprobar el cumplimiento, por parte de las dependencias y entidades de la Administración Pública Estatal, de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio y fondos y valores de la propiedad o al cuidado de las mismas.
+VIII.- Designar y remover a los titulares de los órganos internos de control y de comisarios públicos, o su equivalente, de las dependencias y entidades de la Administración Pública Estatal, así como normar y controlar su desempeño;
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+IX.- Establecer y mantener coordinación e intercambiar información y documentación con la Auditoría Superior del Estado, sobre las normas, procedimientos y sistemas de contabilidad y sobre los procedimientos de archivo contable de los libros o documentos justificativos y comprobatorios del ingreso y del gasto público;
 
-VI.- Realizar, por sí o a solicitud de la Secretaria de Planeación y Finanzas, Oficialía Mayor de Gobierno o de la Coordinación del Sector correspondiente, auditorias y evaluaciones a las dependencias y entidades con el objeto de promover la eficiencia en sus operaciones y verificar el cumplimiento de los objetivos y metas contenidos en sus programas.
+X.- Llevar y normar el registro de servidores públicos de la Administración Pública Estatal, recibir y registrar las declaraciones patrimoniales y de intereses que deban presentar, así como verificar su contenido mediante las investigaciones que resulten pertinentes de acuerdo con las disposiciones aplicables. También registrará la información sobre las sanciones administrativas que, en su caso, les hayan sido impuestas;
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+XI.- Atender las quejas e inconformidades que presenten los particulares con motivo de convenios o contratos que celebren con las dependencias y entidades de la Administración Pública Estatal, salvo los casos en que otras leyes establezcan procedimientos de impugnación diferentes;
 
-VII.- Inspeccionar y vigilar directamente o a través de los órganos internos de control que las dependencias y entidades de la Administración Pública Estatal, cumplan con las normas y disposiciones en materia de registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales.
+XII.- Conocer e investigar las conductas de los servidores públicos de la Administración Pública Estatal que puedan constituir responsabilidades administrativas, así como substanciar los procedimientos correspondientes conforme a lo establecido en la Ley de la materia, por sí, o por conducto de los órganos internos de control de cada área; para lo cual podrán aplicar las sanciones que correspondan en los casos que no sean de la competencia del Tribunal Estatal de Justicia Administrativa y, cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante ese Tribunal; así como presentar las denuncias correspondientes ante la Fiscalía Estatal Especializada en Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones aplicables;
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+XIII.- Establecer mecanismos internos para la Administración Pública Estatal, que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas;
 
-VIII.- Designar y establecer los requisitos para el nombramiento de los titulares de los órganos internos de control y de comisarios públicos o sus equivalentes en los órganos de vigilancia de los Órganos de Gobierno de las Dependencias y de las Entidades de la Administración Pública Estatal, y en su caso, realizar la remoción de éstos por causa justificada.
+XIV.- Recibir de la Auditoría Superior del Estado, los informes sobre las irregularidades en los procedimientos y sistemas de contabilidad que localice al revisar la Cuenta Pública, para dictar las medidas que correspondan, en coordinación con la Secretaría de Planeación y Finanzas;
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+XV.- Proponer la intervención de organismos de la sociedad civil en acciones de vigilancia y evaluación de los programas ejecutados por el Ejecutivo del Estado, que impulsen la mejora y transparencia de los trámites, obras y servicios públicos responsables, cuando se estime conveniente y que no sea de aquellas que estén exceptuadas por Ley;
 
-IX.- Establecer y mantener coordinación e intercambiar información y documentación con el Órgano de Fiscalización Superior del Estado, del Congreso del Estado, sobre las normas, procedimientos y sistemas de contabilidad y sobre los procedimientos de archivo contable de los libros o documentos justificativos y comprobatorios del ingreso y del gasto público.
+XVI.- Colaborar en el marco del Sistema Estatal Anticorrupción y del Sistema Estatal de Fiscalización, en el establecimiento de las bases y principios de coordinación necesarios, que permitan el mejor cumplimiento de las responsabilidades de sus integrantes;
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+XVII.- Implementar las acciones que acuerde el Sistema Estatal Anticorrupción, en términos de las disposiciones aplicables;
 
-X.- Recibir y registrar las declaraciones de Situación Patrimonial que deban presentar los servidores públicos de las Dependencias y Entidades de la Administración Pública Estatal y verificar y practicar las investigaciones que fueren pertinentes de acuerdo con las leyes y reglamentos.
+XVIII.- Informar periódicamente al Comité Coordinador del Sistema Estatal Anticorrupción, así como al Ejecutivo Estatal, sobre el resultado de la evaluación respecto de la gestión de las dependencias y entidades de la Administración Pública Estatal, así como del resultado de la revisión del ingreso, manejo, custodia y ejercicio de recursos públicos estatales, y promover ante las autoridades competentes, las acciones que procedan para corregir las irregularidades detectadas;
 
-XI.- Atender las quejas que presenten los particulares con motivo de acuerdos, convenios, o contratos que celebran con las dependencias y entidades de la Administración Pública Estatal, de acuerdo con las normas que se emitan.
+XIX.- Formular y conducir en apego y de conformidad con las bases de coordinación que establezca el Comité Coordinador del Sistema Estatal Anticorrupción, la política general de la Administración Pública Estatal para establecer acciones que propicien la integridad y la transparencia en la gestión pública, la rendición de cuentas y el acceso por parte de los particulares a la información que aquélla genere; así como promover dichas acciones hacia la sociedad;
 
-XII.- Conocer e investigar los actos, omisiones o conductas de los servidores públicos para constituir responsabilidades administrativas, aplicar las sanciones que correspondan en los términos que las leyes señalan, y en su caso, hacer las denuncias correspondientes ante el Ministerio Público, presentándole para tal efecto la colaboración que le fuere requerida.
+XX.- Ejercer las facultades que las leyes otorgan a los órganos internos de control para revisar mediante auditorías, el ingreso, manejo, custodia y ejercicio de los recursos públicos;
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+XXI.- Implementar las políticas de coordinación que promueva el Comité Coordinador del Sistema Estatal Anticorrupción, en materia de combate a la corrupción en la Administración Pública Estatal;
 
-XIII.- Recibir del Órgano de Fiscalización Superior del Estado, los informes sobre las irregularidades en los procedimientos y sistemas de contabilidad que localice al revisar la Cuenta Pública, para dictar las medidas que correspondan, en coordinación con la Secretaría de Planeación y Finanzas.
+XXII.- Emitir el Código de Ética de los Servidores Públicos del Poder Ejecutivo del Estado y las Reglas de Integridad para el Ejercicio de la Función Pública, y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE OCTUBRE DE 2010)</small>
-
-XIV.- Coadyuvar con las dependencias normativas en el establecimiento de los lineamientos que en materia de desarrollo y modernización administrativa deberán observar las Dependencias y Entidades de la Administración Pública Estatal, a fin de que los recursos humanos, patrimoniales y los procedimientos técnicos y tecnológicos se lleven en un marco de legalidad y transparencia;
-
-> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2010)</small>
-
-XV.- Proponer la intervención de organismos de la sociedad civil en acciones de vigilancia y evaluación de los programas ejecutados por el Gobierno del Estado, que impulsen la mejora y transparencia de los trámites, obras y servicios públicos responsables, cuando se estime conveniente y que no sea de aquellas que estén exceptuadas por Ley;
-
-> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2010)</small>
-
-XVI.- Certificar, autorizar y dar fe de las actuaciones administrativas, que se practiquen en los asuntos de su competencia, y
-
-> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2010)</small>
-
-XVII.- Las demás que le encomienden expresamente las leyes, reglamentos y demás ordenamientos de observancia general.
+XXIII.- Las demás que le encomienden expresamente las leyes y reglamentos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE FEBRERO DE 2001)</small>
 
@@ -793,7 +787,9 @@ V.- Organizar y patrocinar congresos, seminarios, exposiciones y ferias de cará
 
 VI.- Diseñar y ejecutar programas de difusión que promuevan la inversión en el Estado;
 
-VII.- Estudiar y proponer al Gobernador del Estado, en coordinación con la Secretaría de Finanzas, los estímulos económicos y fiscales necesarios para el fomento de las actividades productivas;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2017)</small>
+
+VII.- Estudiar y proponer al Gobernador del Estado, en coordinación con la Secretaría de Planeación y Finanzas, los estímulos económicos y fiscales necesarios para el fomento de las actividades productivas;
 
 VIII.- Asesorar al sector privado y social sobre los apoyos y estímulos que otorgan los Gobiernos Federal y Estatal, así como los financiamientos correspondientes al sistema financiero;
 
@@ -835,7 +831,7 @@ I.- Cumplir y hacer cumplir las disposiciones legales en materia agropecuaria qu
 
 > <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
 
-Il.- Promover la explotación, reproducción, mejoramiento, fomento y protección de las especies agrícolas, ganaderas y avícolas;
+II.- Promover la explotación, reproducción, mejoramiento, fomento y protección de las especies agrícolas, ganaderas y avícolas;
 
 > <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
 
@@ -1067,7 +1063,9 @@ II.- Efectuar las inscripciones de los Actos o Contratos relativos, después de 
 
 III.- Formular la liquidación de los derechos que se causen por concepto de la inscripción registral, previo pago de los mismos;
 
-IV.- Dar aviso a la Secretaría de Finanzas cuando tenga conocimiento de los casos en que los particulares no hayan dado cumplimiento a las Disposiciones Fiscales, debiéndose abstener de realizar trámite alguno mientras exista esa situación;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2017)</small>
+
+IV.- Dar aviso a la Secretaría de Planeación y Finanzas cuando tenga conocimiento de los casos en que los particulares no hayan dado cumplimiento a las disposiciones fiscales, debiéndose abstener de realizar trámite alguno mientras exista esa situación;
 
 V.- Desahogar las consultas que, de acuerdo con las Disposiciones de la materia, hagan los interesados;
 
@@ -1207,19 +1205,13 @@ XXIX.- Operar y administrar el funcionamiento y los servicios del Centro de Cont
 
 XXX.- Operar y administrar los centros de internamiento para adolescentes en el Estado que determinen las disposiciones aplicables;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE REFORMA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
 
 XXXI.- Ejecutar las penas por delitos del orden común, dictadas por las autoridades judiciales competentes, así como por los delitos contra la salud en su modalidad de narcomenudeo a que se refiere el capítulo VII del título XVIII de la Ley General de Salud, siempre y cuando se colmen los supuestos del artículo 474 de dicho ordenamiento;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
 
 XXXII.- Coordinar, vigilar, y supervisar el cumplimiento de las medidas cautelares y las condiciones a cumplir, durante la suspensión condicional del proceso;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
 
@@ -1245,8 +1237,6 @@ XXXVII.- Dirigir, coordinar e implementar los procesos de evaluación, de contro
 
 XXXVIII.- Expedir las constancias de antecedentes penales, de conformidad con las disposiciones aplicables;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE REFORMA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
 
 XXXIX.- Participar en la prevención y combate a las actividades de posesión, comercio o suministro de estupefacientes y psicotrópicos cuando dichas actividades se realicen en lugares públicos, actuando conforme a sus atribuciones; así como remitir los informes relativos a la investigación de los delitos contra la salud en su modalidad de narcomenudeo a que se refiere el capítulo VII del título XVIII de la Ley General de Salud, cuando así lo solicite el Ministerio Público de la Federación;
@@ -1263,19 +1253,13 @@ XLI.- Fomentar en coordinación con la Secretaría de Salud del Estado y demás 
 
 XLII.- Establecer coordinación con las instituciones de seguridad pública, con las instituciones policiales y sus auxiliares, de los tres órdenes de gobierno y del extranjero de acuerdo a la normatividad aplicable;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
 
 XLIII.- Integrar y administrar la información estatal sobre la incidencia criminológica, así como coordinarse con las autoridades e instancias necesarias para su conformación, utilización y actualización permanente;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
 
 XLIV.- Realizar la evaluación de riesgo a petición del Ministerio Público o Defensa con la finalidad de determinar el nivel de riesgo que representa un imputado para que las partes le proporcionen dicha información al Juez de Control y se imponga la medida cautelar más idónea; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE MAYO DE 2015)</small>
 
@@ -1497,15 +1481,17 @@ Los bienes que hayan formado parte de Entidades Paraestatales que se extingan se
 
 El personal de base que presta sus servicios en los Organismos Descentralizados se rige por la Ley del Servicio Civil y por los Estatutos del Sindicato Unico de Trabajadores al Servicio de los Poderes del Estado y Municipios e Instituciones Descentralizadas de Baja California y tendrá los mismos derechos y obligaciones que corresponden al personal que presta sus servicios en la Administración Pública Centralizada.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2017)</small>
+
 ###### ARTICULO 46.
 
 Para lograr un control eficaz del régimen patrimonial y financiero de los Organismos Descentralizados, deberán observarse las siguientes normas:
 
-A).- Corresponde a la Secretaría de Finanzas proyectar y calcular anualmente sus ingresos, así como autorizar los financiamientos que constituyan la deuda pública;
+I.- Corresponde a la Secretaría de Planeación y Finanzas proyectar y calcular anualmente sus ingresos, así como autorizar los financiamientos que constituyan la deuda pública;
 
-B).- Corresponde a la Secretaría de Planeación y Presupuesto, orientar sus planes y programas para que concurran al logro de los objetivos y se ajusten a las prioridades del desarrollo estatal, así como proyectar y calcular anualmente sus egresos, y
+II.- Corresponde a la Secretaría de Planeación y Finanzas, orientar sus planes y programas para que concurran al logro de los objetivos y se ajusten a las prioridades del desarrollo estatal, así como proyectar y calcular anualmente sus egresos, y
 
-C) Corresponde a la Secretaría de la Contraloría General evaluar su operación y vigilar su funcionamiento.
+III.- Corresponde a la Secretaría de la Contraloría y Transparencia Gubernamental evaluar su operación y vigilar su funcionamiento.
 
 ### CAPITULO II
 
@@ -1529,9 +1515,11 @@ C).- Que al Titular del Poder Ejecutivo corresponda la facultad de nombrar a la 
 
 Para efectos de esta Ley, se asimilan a las Empresas de participación estatal mayoritaria las sociedades y asociaciones civiles en que la mayoría de los asociados sean Dependencias o Entidades de la Administración Pública Estatal, o cuando alguno o varios de ellos se obliguen a realizar o realicen las aportaciones económicas preponderantes.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2017)</small>
+
 ###### ARTICULO 50.
 
-En las empresas de participación estatal minoritaria donde el Gobierno del Estado, una o más Entidades Paraestatales consideradas conjunta o separadamente, representen menos del 50 por ciento de las acciones o parte del capital y hasta el 25 por ciento de aquél, la vigilancia de su participación estará a cargo de un Comisario designado por la Secretaría de la Contraloría General quien además deberá reportar el desarrollo de las actividades que realiza la empresa al Titular de la Dependencia Coordinadora del Sector correspondiente.
+En las empresas de participación estatal minoritaria donde el Ejecutivo del Estado, una o más Entidades Paraestatales consideradas conjunta o separadamente, representen menos del 50 por ciento de las acciones o parte del capital y hasta el 25 por ciento de aquél, la vigilancia de su participación estará a cargo de un Comisario designado por la Secretaría de la Contraloría y Transparencia Gubernamental quien además deberá reportar el desarrollo de las actividades que realiza la empresa al Titular de la Dependencia Coordinadora del Sector correspondiente.
 
 ###### ARTICULO 51.
 
@@ -1553,9 +1541,11 @@ DE LOS FIDEICOMISOS.
 
 En uso de sus atribuciones y para cumplir la realización de proyectos específicos, ejecución de obras especiales, fomentar actividades prioritarias para el desarrollo estatal o satisfacer las disposiciones del Artículo 4o. de esta Ley, el Gobierno del Estado podrá afectar en fideicomiso bienes y valores patrimoniales, ostentando el carácter de fideicomitente y señalando la Dependencia o Entidad en quien recaiga el carácter de fideicomisario.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2017)</small>
+
 ###### ARTICULO 54.
 
-Para lograr el control eficaz del régimen patrimonial y financiero de los fideicomisos, en todo comité técnico que se constituya como órgano de dirección, deberán participar la Secretaría de Finanzas, la Secretaría de la Contraloría General y la Secretaría de Planeación y Presupuesto, quienes coadyuvarán al cumplimiento de lo que dispone el Artículo 46 de esta Ley.
+Para lograr el control eficaz del régimen patrimonial y financiero de los fideicomisos, en todo comité técnico que se constituya como órgano de dirección, deberán participar la Secretaría de Planeación y Finanzas y la Secretaría de la Contraloría y Transparencia Gubernamental, quienes coadyuvarán al cumplimiento de lo que dispone el Artículo 46 de esta Ley.
 
 ## TITULO IV. DE LA SECTORIZACION
 
@@ -1574,6 +1564,14 @@ El Acuerdo de Sectorización que obligue a las Entidades Paraestatales a coordin
 ###### ARTICULO 57.
 
 Para la interpretación de controversias que surjan entre Dependencias y Entidades de un mismo sector; para prever decisiones trascendentales a la Administración Pública Estatal o modificar la competencia de los Organismos, se sujetará a lo que dispone el Artículo 16 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2017)</small>
+
+###### ARTÍCULO 58.
+
+Las relaciones entre el Ejecutivo Estatal y las entidades paraestatales, para fines de congruencia global de la Administración Pública Paraestatal con el sistema estatal de planeación y con los lineamientos generales en materia de gasto, financiamiento, control y evaluación, se llevarán a cabo en la forma y términos que dispongan las leyes, por conducto de las Secretarías de Planeación y Finanzas y de la Contraloría y Transparencia Gubernamental, en el ámbito de sus respectivas competencias, sin perjuicio de las atribuciones que competan a la coordinadora del sector correspondiente.
+
+Las Secretarías de Planeación y Finanzas y de la Contraloría y Transparencia Gubernamental, emitirán los criterios para la clasificación de las entidades paraestatales conforme a sus objetivos y actividades, en aquellas que cumplan una función institucional y las que realicen fines comerciales con el propósito de, en su caso, establecer mecanismos diferenciados que hagan eficiente su organización, funcionamiento, control y evaluación. Dichos mecanismos contemplarán un análisis sobre los beneficios y costos de instrumentar prácticas de gobierno corporativo en las entidades con fines comerciales, a efecto de considerar la conveniencia de su adopción.
 
 TRANSITORIOS:
 
@@ -2130,3 +2128,23 @@ P.O. 2 DE SEPTIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 539 MEDIANTE EL CUAL SE APRUEBA EL PROYECTO DE DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XXXIII Y SE ADICIONA LA FRACCIÓN XXXIV DEL ARTÍCULO 19 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 7 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 101 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 11, 17, 25, 28, 35, 46, 50 Y 54, LA DENOMINACIÓN DEL CAPÍTULO VI Y LA ADICIÓN DEL ARTÍCULO 58 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Los archivos y asuntos a cargo de la Dirección de Control y Evaluación Gubernamental que se encontraren en trámite y pendientes de resolución al momento de entrar en vigor este Decreto, serán resueltos por la Secretaría de la Contraloría y Transparencia Gubernamental.
+
+TERCERO.- Los recursos financieros, materiales y humanos, así como los archivos y asuntos en trámite de la Dirección de Control y Evaluación Gubernamental serán transferidos a la Secretaría de la Contraloría y Transparencia Gubernamental.
+
+CUARTO.- Las referencias que se hacen o se hagan y las atribuciones que se otorguen en otras leyes, reglamentos, decretos y demás disposiciones legales a la Dirección de Control y Evaluación Gubernamental, se entenderán hechas a la Secretaría de la Contraloría y Transparencia Gubernamental, a partir de la entrada en vigor del presente Decreto.
+
+QUINTO.- Los derechos laborales de los servidores públicos y empleados de la actual Dirección de Control y Evaluación Gubernamental serán plenamente respetados, adecuando los puestos y nombramientos a las necesidades de la nueva Secretaría de la Contraloría y Transparencia Gubernamental, de conformidad con los reglamentos internos, manuales operativos y convenios estatales celebrados, para los objetivos que la nueva estructura administrativa requiera de acuerdo a esta reforma.
+
+SEXTO.- Durante el ejercicio fiscal del año en curso, la Secretaría de la Contraloría y Transparencia Gubernamental funcionará con la misma estructura con la que ha venido funcionando la Dirección de Control y Evaluación Gubernamental del Estado, hasta que se realicen las adecuaciones presupuéstales correspondientes.
+
+SÉPTIMO.- El titular del Poder Ejecutivo, dentro de los noventa días siguientes a partir de la vigencia de este Decreto, expedirá el reglamento Interior de la Secretaría de la Contraloría y Transparencia Gubernamental.
+
+OCTAVO.- El titular del Poder Ejecutivo, en un término de sesenta días de la entrada en vigor del presente Decreto, remitirá al Congreso del Estado, para efecto de su ratificación, a quien designe como titular de la Secretaría de la Contraloría y Transparencia Gubernamental.
