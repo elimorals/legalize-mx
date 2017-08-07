@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-fiscalia-general-del-estado-de-108763"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-06-22"
-last_updated: "2017-05-22"
+last_updated: "2017-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2017.
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 22 de junio de 2015.
 
@@ -205,7 +205,11 @@ V. Conceder licencias al personal de la Fiscalía, en los términos de los orden
 
 VI. Rendir cuando la Ley así lo requiera, los informes que estime procedentes o que le sean solicitados, en relación con los asuntos relativos a la Fiscalía;
 
-VII. Presentar por escrito ante el Congreso del Estado, a más tardar en el mes de febrero de cada año, un informe anual que contenga datos estadísticos relativos a sus actividades de procuración de justicia;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2017)</small>
+
+VII. Presentar por escrito ante el Congreso del Estado, durante los dos primeros meses de cada año, un informe anual;
+
+Dicho informe deberá contener una descripción clara y sucinta de los asuntos más relevantes, así como los datos estadísticos relativos a sus actividades de procuración de justicia; omitiendo o eliminando la información clasificada como reservada o confidencial, en los términos (sic) Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios;
 
 VIII. Elaborar el proyecto de presupuesto anual de egresos de la Fiscalía General y en su caso sus modificaciones, en términos de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios;
 
@@ -1760,3 +1764,11 @@ El presente Decreto entrará en vigor a los 180 días naturales, contados a part
 ###### ARTÍCULO SEGUNDO.
 
 El Titular de la Fiscalía General del Estado de Aguascalientes, deberá en un plazo máximo de 180 días naturales, contados a partir de la publicación del presente Decreto en el Periódico Oficial del Estado de Aguascalientes, Reformar y/o Adicionar de conformidad el Reglamento de la Ley Orgánica de la Fiscalía General del Estado de Aguascalientes.
+
+P.O. 7 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 125.- SE REFORMA LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES."]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado (sic) Aguascalientes.
