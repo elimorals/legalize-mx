@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-responsabilidades-de-los-servidores-publicos-del-33674"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-29"
-last_updated: "2016-06-24"
+last_updated: "2017-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33674&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SÉPTIMO DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE BAJA CALIFORNIA, PUBLICADA EN EL PERIÓDICO OFICIAL EL 7 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EL PRIMERO DE ENERO DEL AÑO DOS MIL DIECIOCHO.]</small>
+
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2017 (ABROGADA).
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 29 de agosto de 2003.
 
@@ -1136,3 +1138,33 @@ P.O. 24 DE JUNIO DE 2016.
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Los órganos de control interno a que se refiere la presente Ley, tendrán un plazo de 30 días naturales, para efectuar en sus reglamentos, manuales y demás normatividad que rija la materia, las actualizaciones que deriven de las reformas aprobadas mediante el presente decreto.
+
+P.O. 7 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 99 MEDIANTE EL CUAL SE EXPIDE DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE BAJA CALIFORNIA".]
+
+Primero. La presente Ley entrará en vigor con fecha primero de enero del año dos mil dieciocho, sin perjuicio de lo previsto en los transitorios siguientes.
+
+Segundo. Hasta en tanto el Comité Coordinador del Sistema Estatal Anticorrupción determina los formatos para la presentación de las declaraciones patrimonial y de intereses, los servidores públicos de todos los órdenes de gobierno presentarán sus declaraciones en los formatos aplicables antes de la entrada en vigor de esta Ley.
+
+Tercero. En tanto se aplican plenos efectos a las normas materia del Sistema Estatal Anticorrupción, las referencias de ésta Ley en cuanto a los Órganos cuya denominación se modifican se entenderán bajo las siguientes referencias normativas:
+
+a) Director o Dirección de Control y Evaluación Gubernamental o Contraloría del Estado, se refiere al titular o a la secretaria responsable del Control Interno del Ejecutivo del Estado.
+
+b) Dirección de Contraloría, Unidad de Contraloría Interna, Contralor Interno, unidad de responsabilidades se refiere a (sic) Órgano Interno de Control:
+
+c) Tribunal de lo Contencioso Administrativo del Estado de Baja California, se refiere al Tribunal Estatal de Justicia Administrativa.
+
+Cuarto. El cumplimiento de las obligaciones previstas en la presente Ley de Responsabilidades Administrativas, una vez que ésta entre en plenitud de aplicación, serán exigibles, en lo que resulte aplicable, hasta en tanto el Comité Coordinador del Sistema Estatal Anticorrupción, de conformidad con la ley de la materia, emita los lineamientos, criterios y demás resoluciones conducentes de su competencia.
+
+Quinto. Los procedimientos administrativos iniciados por las autoridades estatales y municipales con anterioridad a la entrada en vigor de la presente Ley de Responsabilidades Administrativas, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
+
+Sexto. A la fecha de entrada en vigor de la presente Ley, todas las menciones a la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California previstas en las leyes del Estado, así como en cualquier disposición jurídica, se entenderán referidas a la Ley de Responsabilidades Administrativas de Baja California.
+
+Séptimo. Con la entrada en vigor de la Ley de Responsabilidades Administrativas de Baja California queda abrogada la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
+
+Octavo. Los asuntos iniciados antes de la entrada en vigor de la presente Ley continuarán desahogándose conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California que se abroga.
+
+Noveno. Los entes públicos previstos por esta Ley realizarán las adecuaciones administrativas, así como la gestión de modificaciones reglamentarias, programáticas, presupuestales y de políticas públicas a efecto de desarrollar sus atribuciones conforme a las de este nuevo ordenamiento.
+
+Décimo. En tanto se expide una ley especial lo referente al Juicio Político y Declaración de Procedencia; continuará en vigor en lo precedente el Título Segundo, denominado del Juicio Político y Declaración de Procedencia, en sus capítulos I, II, III y IV de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
