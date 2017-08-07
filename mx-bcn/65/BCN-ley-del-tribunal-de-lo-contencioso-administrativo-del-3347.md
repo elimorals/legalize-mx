@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-tribunal-de-lo-contencioso-administrativo-del-3347"
 country: "mx"
 rank: "ley"
 publication_date: "1989-01-31"
-last_updated: "2016-10-21"
+last_updated: "2017-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3347&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL PERIÓDICO OFICIAL EL 7 DE AGOSTO DE 2017; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL PRIMERO DE ENERO DE DOS MIL DIECIOCHO.]</small>
+
 LEY DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el martes 31 de enero de 1989.
 
@@ -133,7 +135,7 @@ El Tribunal tendrá un Presidente. Durará en su cargo dos años, y no podrá se
 
 (DEROGADO, P.O. 10 DE AGOSTO DE 2007)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 13.
 
@@ -207,7 +209,7 @@ VI.- Fijar la circunscripción territorial de las salas del tribunal, y en su ca
 
 VII.- Dictar sentencia definitiva en los recursos de revisión que se promuevan en contra de las determinaciones de las Salas, con motivo de la tramitación del recurso previsto en la Ley del Notariado para el Estado de Baja California.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 18.
 
@@ -365,7 +367,7 @@ Las Salas del Tribunal conocerán por razón de territorio, respecto de los juic
 
 En caso de excusa, recusación o impedimento del titular, se procederá conforme al artículo 17 fracción I y de no ser posible conforme a lo dispuesto en la fracción III del artículo 18 de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 24.
 
@@ -387,7 +389,7 @@ VI.- Las demás que les señalen las disposiciones legales.
 
 ### CAPITULO SEXTO. DE LOS SECRETARIOS Y ACTUARIOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 25.
 
@@ -437,7 +439,7 @@ III.- Las demás que les encomienden los Magistrados, el Secretario General de A
 
 Los Secretarios de Estudios y Cuenta, estarán adscritos al Pleno.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 26.
 
@@ -469,7 +471,7 @@ VI.- Las demás que les encomienden los Magistrados, el Secretario General de Ac
 
 Los Secretarios de Acuerdos estarán adscritos a las Salas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 27.
 
@@ -515,7 +517,7 @@ Los juicios que se promuevan ante el Tribunal de lo Contencioso Administrativo, 
 
 > <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
-En el procedimiento contencioso administrativo, no procederá la suplencia de la deficiencia de la queja; salvo las excepciones expresas contenidas en los artículos 45 último párrafo, 83 último párrafo, 99 fracción lll, de la presente ley cuando y el promovente sea persona menor o incapaz.
+En el procedimiento contencioso administrativo, no procederá la suplencia de la deficiencia de la queja; salvo las excepciones expresas contenidas en los artículos 45 último párrafo, 83 último párrafo, 99 fracción III, de la presente ley cuando y el promovente sea persona menor o incapaz.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
@@ -601,7 +603,7 @@ Los Magistrados del Tribunal en el ejercicio de sus funciones tienen el deber de
 
 ### CAPITULO SEGUNDO. DE LAS NOTIFICACIONES Y TERMINOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 37.
 
@@ -1069,7 +1071,7 @@ El propio Tribunal hará el requerimiento y aplazará la audiencia por un térmi
 
 La prueba pericial tendrá lugar en las cuestiones de carácter técnico, científico o artístico. El Perito deberá tener título en la especialidad a la que pertenezca la cuestión sobre la que deba rendirse el peritaje, si estuviere legalmente reglamentada. Si no lo estuviese, o estándolo no fuere posible obtenerlo, podrá nombrarse a una persona entendida en la materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 77.
 
@@ -1163,7 +1165,7 @@ II.- Los fundamentos legales en que se apoyen para dictar la resolución definit
 
 III.- Los puntos resolutivos en los que se expresarán los actos o resoluciones cuya validez se reconozca o cuya nulidad se declare; la reposición del procedimiento que se ordene, los términos de la modificación del acto impugnado, y en su caso, la condena que se decrete.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 83.
 
@@ -1443,7 +1445,7 @@ LIC. HUGO FELIX GARCIA
 
 (RUBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 20 DE DICIEMBRE DE 1989.
 
@@ -1504,3 +1506,47 @@ P.O. 21 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 681 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN III DEL ARTÍCULO 22 DE LA LEY DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 100 MEDIANTE EL CUAL SE EXPIDE LA LEY DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor, con fecha primero de enero de dos mil dieciocho, sin perjuicio de lo previsto en los transitorios siguientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley del Tribunal de lo Contencioso Administrativo del Estado de Baja California.
+
+###### ARTÍCULO TERCERO.
+
+Los juicios iniciados con anterioridad a la entrada en vigor de la presente ley, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
+
+###### ARTÍCULO CUARTO.
+
+El Reglamento Interior del Tribunal que se encuentre vigente a la entrada en vigor de la Ley, seguirá aplicándose en aquello que no se oponga a ésta, hasta que el Pleno del Tribunal expida el nuevo Reglamento Interior de conformidad con lo previsto en este ordenamiento, lo cual deberá hacer en un plazo de noventa días a partir de la entrada en vigor de la Ley.
+
+###### ARTÍCULO QUINTO.
+
+Los Magistrados del Tribunal de lo Contencioso Administrativo del Estado de Baja California que a la entrada en vigor de la presente Ley se encuentren en ejercicio de sus cargos, continuarán en ellos hasta concluir el periodo para el cual fueron designados, de acuerdo con la Ley que se abroga. Al término de dicho periodo, el Tribunal podrá proponerlos previa evaluación de su desempeño, de ser elegibles, para ser nombrados como Magistrados en términos de lo dispuesto por esta Ley.
+
+###### ARTÍCULO SEXTO.
+
+Todas las referencias que en las leyes se haga al Tribunal de lo Contencioso Administrativo del Estado de Baja California, se entenderán referidas al Tribunal Estatal de Justicia Administrativa.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los recursos humanos, materiales, financieros y presupuestales con que cuenta el Tribunal de lo Contencioso Administrativo, incluyendo todos sus bienes y los derechos derivados de los fondos o fideicomisos vigentes, pasarán a formar parte del Tribunal Estatal de Justicia Administrativa en términos de lo previsto por las leyes de la materia.
+
+###### ARTÍCULO OCTAVO.
+
+Los trabajadores que se encuentren prestando sus servicios en el Tribunal de lo Contencioso Administrativo del Estado, a la entrada en vigor de la Ley, seguirán conservando su misma calidad y derechos laborales que les correspondan ante el Tribunal Estatal de Justicia Administrativa, en los términos que la Ley determine.
+
+###### ARTÍCULO NOVENO.
+
+Es un plazo no mayor a noventa días, a partir de la instalación del Comité Coordinador del Sistema Estatal Anticorrupción, el Congreso del Estado deberá nombrar al Magistrado Especializado en materia de Responsabilidades Administrativas y Combate a la Corrupción.
+
+###### ARTÍCULO DÉCIMO.
+
+En un plazo no mayor a noventa días, a partir de la instalación del Comité Coordinador del Sistema Estatal Anticorrupción, el Congreso del Estado deberá nombrar al titular del órgano de control interno del Tribunal Estatal de Justicia Administrativa del Estado.
