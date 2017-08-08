@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-para-el-desarrollo-y-110
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-10-29"
-last_updated: "2015-10-29"
+last_updated: "2017-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110345&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2015-09-30"
 ---
 # ESTATUTO ORGANICO DEL CONSEJO NACIONAL PARA EL DESARROLLO Y LA INCLUSION DE LAS PERSONAS CON DISCAPACIDAD
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO ÚNICO DEL ACUERDO POR EL QUE SE ABROGA EL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL PARA EL DESARROLLO Y LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD, PUBLICADO EN EL D.O.F. DE 8 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL PARA EL DESARROLLO Y LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE AGOSTO DE 2017 (ABROGADO).
 
 Estatuto publicado en la Tercera Sección del Diario Oficial de la Federación, el jueves 29 de Octubre de 2015.
 
@@ -792,3 +794,11 @@ CUARTO. Las unidades administrativas con denominación nueva o distinta que apar
 QUINTO. Las modificaciones a la estructura orgánica que deriven de la entrada en vigor del Estatuto Orgánico del Consejo Nacional, no implican recursos adicionales, toda vez que no hay impacto presupuestal.
 
 El presente Estatuto Orgánico fue aprobado por la H. Junta de Gobierno del Consejo Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad, en sesión ordinaria celebrada en la Ciudad de México, Distrito Federal, a los 30 días del mes de septiembre de dos mil quince.- El Director General del Consejo Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad, Jesús Eduardo Toledano Landero.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 8 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE ABROGA EL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL PARA EL DESARROLLO Y LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 29 DE OCTUBRE DE 2015”.]
+
+ÚNICO.- El presente Acuerdo surtirá sus efectos a partir del día de su publicación en el Diario Oficial de la Federación, por lo que quedará vigente el Estatuto Orgánico del Consejo Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad, publicado en el Diario Oficial de la Federación el 11 de febrero de 2015.
