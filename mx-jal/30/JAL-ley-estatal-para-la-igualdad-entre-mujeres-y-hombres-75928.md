@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-para-la-igualdad-entre-mujeres-y-hombres-75928"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-05"
-last_updated: "2014-10-09"
+last_updated: "2017-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2017.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 5 de agosto de 2010.
 
@@ -193,7 +193,9 @@ IV. La colaboración y cooperación entre las distintas instituciones y dependen
 
 V. La participación equilibrada de mujeres y hombres en las candidaturas electorales y en la toma de decisiones políticas y económicas;
 
-VI. La implementación de medidas específicas para brindar apoyo a los grupos sociales vulnerables o que formen parte de minorías, para proveer igualdad en las oportunidades que les permitan desarrollarse con independencia y plenitud, como son las mujeres adolescentes embarazadas, las madres solteras, los adultos de 70 años o más, las niñas, niños o adolescentes en riesgo de calle, las personas con discapacidad, a quienes habiten en comunidades de alta marginación o que viven en condiciones de pobreza, a las personas víctimas de violencia de género;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2017)</small>
+
+VI. La implementación de medidas específicas para brindar apoyo a los grupos sociales vulnerables o que formen parte de minorías, para proveer igualdad en las oportunidades que les permitan desarrollarse con independencia y plenitud, como son las mujeres adolescentes embarazadas, las madres solteras, los adultos de 70 años o más, las niñas, niños o adolescentes en riesgo de calle, las personas con discapacidad, a quienes habiten en comunidades de alta marginación, pueblos y comunidades indígenas o que viven en condiciones de pobreza, a las personas víctimas de violencia de género;
 
 VII. La implementación de medidas de protección de la maternidad, del embarazo, el parto y la lactancia;
 
@@ -233,7 +235,7 @@ Los objetivos y acciones de esta Ley estarán encaminados a garantizar el derech
 
 ###### Artículo 30.
 
-Los entes públicos están obligados a garantizar el derecho a la igualdad de trato y oportunidades entre mujeres y hombres, de acuerdo a lo establecido en el artículo 4.° (sic) de la Constitución Política del Estado de Jalisco, para lo cual, deberán garantizar:
+Los entes públicos están obligados a garantizar el derecho a la igualdad de trato y oportunidades entre mujeres y hombres, de acuerdo a lo establecido en el artículo 4.° de la Constitución Política del Estado de Jalisco, para lo cual, deberán garantizar:
 
 I. El derecho a una vida libre de discriminación;
 
@@ -301,9 +303,17 @@ X. El Supremo Tribunal de Justicia del Estado de Jalisco;
 
 XI. La Comisión Estatal de Derechos Humanos;
 
-XII. La Universidad de Guadalajara; y
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2017)</small>
 
-XIII. Representantes de organizaciones no gubernamentales previamente acreditados ante el Instituto.
+XII. La Comisión Estatal Indígena;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2017)</small>
+
+XIII. La Universidad de Guadalajara; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE AGOSTO DE 2017)</small>
+
+XIV. Representantes de organizaciones no gubernamentales previamente acreditados ante el Instituto.
 
 El Sistema Estatal para la Igualdad entre Mujeres y Hombres, está obligado a sesionar semestralmente y podrá celebrar las reuniones extraordinarias que considere convenientes para el cumplimiento de la presente Ley y sus decisiones se tomarán por mayoría simple.
 
@@ -355,7 +365,7 @@ Así mismo, propiciará que los programas sectoriales, institucionales y especia
 
 El Plan Estatal para la Igualdad entre Mujeres y Hombres deberá:
 
-l. Garantizar el respeto y la vigilancia de los derechos humanos de mujeres y hombres;
+I. Garantizar el respeto y la vigilancia de los derechos humanos de mujeres y hombres;
 
 II. Garantizar el ejercicio igualitario de los derechos; la inclusión social, política, económica y cultural así como la participación activa en los procesos de desarrollo en condiciones de igualdad para mujeres y hombres; y
 
@@ -385,7 +395,7 @@ El Instituto Jalisciense de las Mujeres es el responsable de la coordinación de
 
 Entre sus funciones relacionadas con el principio de igualdad de trato y oportunidades entre mujeres y hombres, al Instituto Jalisciense de las Mujeres le corresponde, además de lo establecido en otros ordenamientos, lo siguiente:
 
-l. Coordinar los programas de igualdad de trato y oportunidades entre mujeres y hombres de las dependencias y entidades de la Administración Pública Estatal;
+I. Coordinar los programas de igualdad de trato y oportunidades entre mujeres y hombres de las dependencias y entidades de la Administración Pública Estatal;
 
 II. Promover, coordinar y realizar la revisión de programas y servicios en materia de igualdad;
 
@@ -471,7 +481,7 @@ V. La obtención de datos e indicadores estadísticos por género, siempre que s
 
 En el ámbito de la vida económica y laboral, la política del Estado en materia de igualdad de trato y oportunidades entre mujeres y hombres, tendrá los siguientes objetivos prioritarios:
 
-l. Fomentar la participación de las mujeres en el mercado de trabajo local y promover el principio de igualdad en el mercado laboral público y privado;
+I. Fomentar la participación de las mujeres en el mercado de trabajo local y promover el principio de igualdad en el mercado laboral público y privado;
 
 II. Impulsar medidas que fomenten la igualdad de trato y oportunidades de mujeres y hombres y para erradicar cualquier tipo de discriminación;
 
@@ -677,7 +687,7 @@ El Instituto Jalisciense de las Mujeres contará con un Sistema de Información 
 
 La vigilancia en materia de igualdad entre mujeres y hombres consistirá en:
 
-l. Recibir información sobre medidas y actividades que pongan en marcha los sectores público y privado en materia de igualdad de trato y oportunidades entre mujeres y hombres;
+I. Recibir información sobre medidas y actividades que pongan en marcha los sectores público y privado en materia de igualdad de trato y oportunidades entre mujeres y hombres;
 
 > <small>(F. DE E., P.O. 11 DE SEPTIEMBRE DE 2010)</small>
 
@@ -752,3 +762,9 @@ LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
 P.O. 9 DE OCTUBRE DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 8 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26419/LXI/17, QUE REFORMA LOS ARTÍCULOS 24 Y 34 DE LA LEY ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
