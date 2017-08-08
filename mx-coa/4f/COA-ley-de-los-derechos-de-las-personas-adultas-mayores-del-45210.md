@@ -4,7 +4,7 @@ identifier: "COA-ley-de-los-derechos-de-las-personas-adultas-mayores-del-45210"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2017-04-18"
+last_updated: "2017-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 10 de junio del 2005.
 
@@ -145,11 +145,13 @@ X. Los demás que se establezcan en la presente Ley.
 
 Los integrantes de grupos u organizaciones sociales y privadas tienen la obligación de dar aviso a las instancias competentes cuando conozcan de los casos en que personas adultas mayores requieran de asistencia social, y que se encuentren impedidas para solicitar auxilio por sí mismas.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 8.
 
-Ninguna persona adulta mayor podrá ser socialmente marginada o discriminada en ningún espacio público o privado por razón de su edad, género, Estado físico, creencia religiosa o condición social, entre otras circunstancias.
+Ninguna persona adulta mayor podrá ser socialmente marginada o discriminada en ningún espacio público o privado por razón de su origen étnico o nacional, el género, la edad, las discapacidades, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar sus derechos y libertades.
 
-La Comisión Estatal de los Derechos Humanos, en el ámbito de su competencia, promoverá y difundirá la cultura de respeto a los derechos de las personas adultas mayores.
+La Comisión de los Derechos Humanos del Estado de Coahuila de Zaragoza, en el ámbito de su competencia, promoverá y difundirá la cultura de respeto a los derechos de las personas adultas mayores.
 
 > <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2015)</small>
 
@@ -715,13 +717,17 @@ VI. La capacitación para el trabajo.
 
 VII. El turismo, recreación y deporte.
 
-XVI. (sic) La investigación gerontológica.
+XVI (SIC). La investigación gerontológica.
 
 VIII. La orientación familiar.
 
 IX. Los servicios culturales y educativos.
 
 X. Los programas de descuentos de bienes, servicios y cargas hacendarias.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE AGOSTO DE 2017)</small>
+
+XII (SIC). Brindar capacitación en materia de derechos humanos a los adultos mayores recluidos en asilos ya sean públicos o privados, con la finalidad de que, al conocerlos, cuenten con la orientación necesaria para denunciar a sus agresores.
 
 ###### Artículo 48.
 
@@ -1344,6 +1350,22 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 P.O. 18 DE ABRIL DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 802.- SE MODIFICA EL PÁRRAFO PRIMERO Y ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 17 DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 8 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 894.- SE REFORMA EL ARTÍCULO 8 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 8 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 895.- SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 47 DE LA LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ###### ARTÍCULO ÚNICO.
 
