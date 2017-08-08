@@ -4,7 +4,7 @@ identifier: "TAM-reglamento-interior-del-consejo-de-la-judicatura-del-poder-9510
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-07-04"
-last_updated: "2013-07-04"
+last_updated: "2017-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS, PUBLICADO EN EL PERIÓDICO OFICIAL EL 8 DE AGOSTO DE 2017; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL DÍA PRIMERO DE AGOSTO DE DOS MIL DIECISIETE.]</small>
+
 REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Tamaulipas, el jueves 4 de julio de 2013.
 
@@ -380,3 +382,15 @@ TERCERO.- Una vez estructurada plenamente la Secretaría Ejecutiva del Consejo d
 EL SECRETARIO GENERAL DE ACUERDOS HAGO CONSTAR Y CERTIFICO: QUE EL ANTERIOR "REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS", FUE APROBADO POR EL HONORABLE PLENO DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO, EN SESIÓN CELEBRADA EL (18) DIECIOCHO DE JUNIO DE (2013) DOS MIL TRECE. LO QUE CERTIFICO PARA LOS EFECTOS LEGALES CONSIGUIENTES, EN CIUDAD VICTORIA, TAMAULIPAS, A LOS (19) DIECINUEVE DÍAS DE JUNIO DE (2013) DOS MIL TRECE. DOY FE.
 
 EL SECRETARIO GENERAL DE ACUERDOS.- LIC. JAIME ALBERTO PÉREZ AVALOS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS”.]
+
+PRIMERO. El presente Reglamento entrará en vigor el día primero de agosto de dos mil diecisiete.
+
+SEGUNDO.- Se abroga el Reglamento Interior del Consejo de la Judicatura del Poder Judicial del Estado de Tamaulipas, publicado en el Periódico Oficial del Estado el día 4 de julio de 2013.
+
+TERCERO.- Se deja sin efectos el Acuerdo del 27 de octubre de 2010 dictado por el Pleno del Consejo de la Judicatura del Poder Judicial del Estado mediante el cual se crea y regula la Coordinación Jurídica, quedando subsistente dicha dependencia administrativa conforme lo estipulado en el presente Reglamento.
