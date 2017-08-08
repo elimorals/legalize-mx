@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fomento-y-desarrollo-pecuario-del-estado-de-jalisco-3209
 country: "mx"
 rank: "ley"
 publication_date: "2003-06-24"
-last_updated: "2017-05-30"
+last_updated: "2017-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2017.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Jalisco, el martes 24 de junio de 2003.
 
@@ -415,9 +415,17 @@ XII. Revisar la documentación que ampare la propiedad de animales en lugares de
 
 XIII. Coadyuvar en el control de la movilización, comercialización o sacrificio de animales, productos o subproductos, conjuntamente con las autoridades sanitarias, en caso de existir riesgo de propagación de enfermedades exóticas, enzoóticas y epizoóticas que afecten la salud animal o humana;
 
-XIV. Vigilar que los rastros municipales y centros de sacrificio verifiquen y retengan la documentación que ampare la legal procedencia de los animales, previo a la autorización del sacrificio, velando por la aplicación de métodos científicos y tecnológicos adecuados para este fin, y
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2017)</small>
 
-XV. Las demás que determine el reglamento de la ley y demás normatividad aplicable.
+XIV. Vigilar que los rastros municipales y centros de sacrificio verifiquen y retengan la documentación que ampare la legal procedencia de los animales, previo a la autorización del sacrificio, velando por la aplicación de métodos científicos y tecnológicos adecuados para este fin;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE AGOSTO DE 2017)</small>
+
+XV. Asegurar el ganado mayor que se encuentre en las vías de comunicación estatal, sin pastoreo y representen un riesgo; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 8 DE AGOSTO DE 2017)</small>
+
+XVI. Las demás que determine el reglamento de la ley y demás normatividad aplicable.
 
 ###### Artículo 18.
 
@@ -1624,5 +1632,11 @@ P.O. 23 DE MARZO DE 2017.
 P.O. 30 DE MAYO DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26364/LXI/17 QUE REFORMA EL ARTÍCULO 50 DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 8 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26411/LXI/17, QUE REFORMA EL ARTÍCULO 17 DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
