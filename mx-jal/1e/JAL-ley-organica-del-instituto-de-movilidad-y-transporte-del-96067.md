@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-instituto-de-movilidad-y-transporte-del-96067"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-09-28"
-last_updated: "2013-09-28"
+last_updated: "2017-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96067&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY ORGANICA DEL INSTITUTO DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO 27212/LXII/18, PUBLICADO EN EL P.O. DE 6 DE DICIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DEL INSTITUTO DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2017.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 28 de septiembre de 2013.
 
@@ -127,7 +129,7 @@ III. Las aportaciones que perciba conforme a los convenios y contratos por la pr
 
 IV. Los frutos que perciba de sus bienes y servicios, así como los donativos, aportaciones o legados que obtenga o reciba por cualquier medio legal;
 
-V. Los recursos que obtengan sus órganos auxiliares por la prestación de sus servicios, previa aprobación de la Junta de Gobierno; (sic)
+V. Los recursos que obtengan sus órganos auxiliares por la prestación de sus servicios, previa aprobación de la Junta de Gobierno;
 
 ###### Artículo 6.
 
@@ -167,7 +169,7 @@ V. El Titular del organismo público descentralizado denominado Servicios y Tran
 
 VI. El Titular del organismo público descentralizado denominado Sistema de Tren Eléctrico Urbano;
 
-VII. El Titular del organismo público descentralizado denominado Sistema de Transporte Colectivo de la Zona Metropolitana;
+VII. (DEROGADA, P.O. 8 DE AGOSTO DE 2017)
 
 VIII. Un representante del Consejo Consultivo de Movilidad y Transporte;
 
@@ -402,3 +404,21 @@ El Secretario General de Gobierno
 ARTURO ZAMORA JIMÉNEZ
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 26421/LXI/17, QUE ABROGA LA LEY ORGÁNICA DEL SISTEMA DE TRANSPORTE COLECTIVO DE LA ZONA METROPOLITANA, DEROGA EL ARTÍCULO 8° FRACCIÓN VII DE LA LEY ORGÁNICA DEL INSTITUTO DE MOVILIDAD Y TRANSPORTE, AMBAS DEL ESTADO DE JALISCO Y ESTABLECE LAS BASES PARA LA EXTINCIÓN Y LIQUIDACIÓN DEL ORGANISMO PÚBLICO DESCENTRALIZADO, SISTEMA DE TRANSPORTE COLECTIVO DE LA ZONA METROPOLITANA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco”.
+
+SEGUNDO. En el proceso de extinción y liquidación del organismo público descentralizado denominado Sistema de Transporte Colectivo de la Zona Metropolitana (SISTECOZOME), la Secretaría de Planeación Administración y Finanzas deberá garantizar en todo momento el respeto estricto de los derechos laborales de los servidores públicos y trabajadores de dicho organismo en los términos de ley, proponiendo opciones para la liquidación que en términos de ley corresponda a cada trabajador, considerando los laudos y aumentos correspondientes que se adeuden, o en su defecto para reubicar a los servidores públicos del organismo de conformidad con la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
+
+El Gobierno del Estado deberá instrumentar medidas puntuales que favorezcan la reinserción laboral de los conductores y trabajadores del SISTECOZOME en instituciones públicas de transporte colectivo o el nuevo modelo de transporte público instrumentado en la modalidad de ruta-empresa.
+
+TERCERO. La Contraloría del Estado deberá denunciar a la Fiscalía General del Estado los hechos que pudieran constituir delito derivados de la auditoría realizada al organismo público descentralizado denominado Sistema de Transporte Colectivo de la Zona Metropolitana (SISTECOZOME), así como dar seguimiento puntual a través del Órgano de Control Estatal de los procedimientos sancionatorios a que haya lugar, notificando al Congreso del Estado puntualmente respecto a los actos realizados.
+
+La Contraloría del Estado proveerá en su momento a las instancias correspondientes del Sistema Estatal Anticorrupción, los expedientes relativos a probables irregularidades financieras y administrativas de la gestión del organismo público descentralizado denominado Sistema de Transporte Colectivo de la Zona Metropolitana (SISTECOZOME).
+
+CUARTO. Se autoriza al Poder Ejecutivo del Estado para que, a través de la Secretaría de Planeación, Administración y Finanzas realice las adecuaciones administrativas y presupuestales a efecto de registrar contablemente la inviabilidad financiera respecto de las cantidades adeudadas por el Sistema de Transporte Colectivo de la Zona Metropolitana al Erario Estatal.
