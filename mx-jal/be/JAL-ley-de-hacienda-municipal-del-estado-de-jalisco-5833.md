@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2017-05-13"
+last_updated: "2017-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 13 DE MAYO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -1131,17 +1129,15 @@ En los casos de predios urbanos baldíos colindantes a un predio edificado, podr
 
 En los casos en que los predios urbanos baldíos cuyas áreas constituyan jardines ornamentales, tengan un mantenimiento adecuado y permanente y sea visible desde el exterior, previa reclasificación realizada por la autoridad catastral correspondiente, se les aplicará una tarifa inferior o igual a .5, que sea establecida en la ley de ingresos municipal aplicable, sobre la tasa del impuesto predial respectivo.
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2017)</small>
 
 ###### Art. 100
 
-Bis. En los casos en que la persona física o jurídica lleve a cabo la naturación del techo de su propiedad, y lo acredite mediante constancia expedida por la dependencia municipal para verificar el cumplimiento de las normas de edificación, en la cual certifique el cumplimiento de las normas de edificación, en la cual certifique el cumplimiento de los lineamientos de la norma estatal de naturación de techo, la Tesorería Municipal podrá aplicar un descuento sobre el pago del impuesto predial, en los siguientes términos:
+Bis. En los casos en que la persona física o jurídica lleve a cabo la naturación del techo de su propiedad o implemente jardines verticales, y lo acredite mediante constancia expedida por la dependencia municipal para verificar el cumplimiento de las normas de edificación, en la cual certifique el cumplimiento de los lineamientos de la norma estatal de naturación de techo, la Tesorería Municipal podrá aplicar un descuento sobre el pago del impuesto predial, en los siguientes términos:
 
 I. Del 20% a los contribuyentes que lleven a cabo la naturación extensiva del techo de su propiedad; y
 
-II. Del 30% a los contribuyentes que lleven a cabo la naturación intensiva del techo de su propiedad.
-
-Dichos beneficios fiscales deberán ser solicitados por los ayuntamientos al Congreso del Estado, para ser fijados en sus correspondientes leyes de ingresos.
+II. Del 30% a los contribuyentes que lleven a cabo la naturación intensiva del techo de su propiedad o implemente jardines verticales.
 
 ###### Art. 101.
 
@@ -3928,3 +3924,9 @@ Cuarto. Los ingresos excedentes derivados de Ingresos de libre disposición a qu
 Adicionalmente los ingresos excedentes de libre disposición podrán destinarse a Gasto corriente hasta el ejercicio fiscal 2018, siempre y cuando el ayuntamiento se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas.
 
 Quinto. El porcentaje a que hace referencia el artículo 209 de la Ley de Hacienda Municipal del Estado de Jalisco, relativo a los adeudos del ejercicio fiscal anterior (Adefas) de los Municipios, será del 5.5 por ciento para el año 2018, 4.5 por ciento para el año 2019, 3.5 por ciento para el año 2020 y, a partir del año 2021 se estará al porcentaje establecido en dicho artículo.
+
+P.O. 8 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26418/LXI/17, QUE REFORMA EL ARTÍCULO 100 BIS DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO."]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
