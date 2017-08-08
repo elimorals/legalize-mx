@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ciencia-desarrollo-tecnologico-e-innovacion-del-102735"
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-09"
-last_updated: "2016-10-11"
+last_updated: "2017-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102735&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2017.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el jueves 9 de octubre de 2014.
 
@@ -627,7 +625,9 @@ VI. Estudiar y aprobar el presupuesto anual de ingresos y el anteproyecto de egr
 
 VII. Aprobar las iniciativas o proyectos de actividades científicas, tecnológicas y de innovación que soliciten los apoyos previstos por esta ley, previo dictamen presentado por el Director del COECYTJAL para la aprobación del Consejo Directivo;
 
-VIII. Revisar, discutir y en su caso aprobar el informe trimestral de actividades presentado por el Director General del COECYTJAL, así como el programa operativo anual y evaluar los avances y resultados de sus objetivos;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2017)</small>
+
+VIII. Revisar, discutir y en su caso aprobar el informe trimestral de actividades presentado por el Director General del COECYTJAL, así como la Matriz de Indicadores para Resultados y evaluar los avances y resultados de sus objetivos;
 
 IX. Determinar, mediante convocatoria pública y con sujeción al procedimiento que al efecto se determine, el otorgamiento de apoyos económicos para la realización de actividades científicas, tecnológicas y de innovación, con los recursos constitutivos del Fondo Estatal;
 
@@ -681,7 +681,9 @@ V. Ejercitar y desistirse de acciones judiciales, inclusive del juicio de amparo
 
 VI. Comprometer asuntos de arbitraje y celebrar transacciones, acorde a las instrucciones del Consejo Directivo;
 
-VII. Presentar oportunamente al Consejo Directivo para su análisis y aprobación en su caso, la propuesta del presupuesto anual de ingresos y anteproyecto de egresos del COECYTJAL, y ejercerlos de conformidad a lo estipulado en esta ley, en otros ordenamientos legales aplicables y en las disposiciones que al efecto reciba del Pleno del Consejo Directivo, así como el programa operativo en forma anual;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2017)</small>
+
+VII. Presentar oportunamente al Consejo Directivo para su análisis y aprobación en su caso, la propuesta del presupuesto anual de ingresos y anteproyecto de egresos del COECYTJAL y ejercerlos de conformidad a lo estipulado en esta ley, en otros ordenamientos legales aplicables y en las disposiciones que al efecto reciba del Pleno del Consejo Directivo, así como la Matriz de Indicadores para Resultados;
 
 VIII. Ejecutar los acuerdos adoptados por el Pleno y las comisiones del Consejo Directivo;
 
@@ -944,3 +946,9 @@ P.O. 11 DE OCTUBRE DE 2016.
 > <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 8 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26415/LXI/17, QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO, DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO, Y DE LA LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO."]
+
+ÚNICO. La presente ley entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
