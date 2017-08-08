@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2017-05-13"
+last_updated: "2017-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 13 DE MAYO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -1131,17 +1129,15 @@ En los casos de predios urbanos baldíos colindantes a un predio edificado, podr
 
 En los casos en que los predios urbanos baldíos cuyas áreas constituyan jardines ornamentales, tengan un mantenimiento adecuado y permanente y sea visible desde el exterior, previa reclasificación realizada por la autoridad catastral correspondiente, se les aplicará una tarifa inferior o igual a .5, que sea establecida en la ley de ingresos municipal aplicable, sobre la tasa del impuesto predial respectivo.
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2017)</small>
 
 ###### Art. 100
 
-Bis. En los casos en que la persona física o jurídica lleve a cabo la naturación del techo de su propiedad, y lo acredite mediante constancia expedida por la dependencia municipal para verificar el cumplimiento de las normas de edificación, en la cual certifique el cumplimiento de las normas de edificación, en la cual certifique el cumplimiento de los lineamientos de la norma estatal de naturación de techo, la Tesorería Municipal podrá aplicar un descuento sobre el pago del impuesto predial, en los siguientes términos:
+Bis. En los casos en que la persona física o jurídica lleve a cabo la naturación del techo de su propiedad o implemente jardines verticales, y lo acredite mediante constancia expedida por la dependencia municipal para verificar el cumplimiento de las normas de edificación, en la cual certifique el cumplimiento de los lineamientos de la norma estatal de naturación de techo, la Tesorería Municipal podrá aplicar un descuento sobre el pago del impuesto predial, en los siguientes términos:
 
 I. Del 20% a los contribuyentes que lleven a cabo la naturación extensiva del techo de su propiedad; y
 
-II. Del 30% a los contribuyentes que lleven a cabo la naturación intensiva del techo de su propiedad.
-
-Dichos beneficios fiscales deberán ser solicitados por los ayuntamientos al Congreso del Estado, para ser fijados en sus correspondientes leyes de ingresos.
+II. Del 30% a los contribuyentes que lleven a cabo la naturación intensiva del techo de su propiedad o implemente jardines verticales.
 
 ###### Art. 101.
 
@@ -3929,35 +3925,11 @@ Adicionalmente los ingresos excedentes de libre disposición podrán destinarse 
 
 Quinto. El porcentaje a que hace referencia el artículo 209 de la Ley de Hacienda Municipal del Estado de Jalisco, relativo a los adeudos del ejercicio fiscal anterior (Adefas) de los Municipios, será del 5.5 por ciento para el año 2018, 4.5 por ciento para el año 2019, 3.5 por ciento para el año 2020 y, a partir del año 2021 se estará al porcentaje establecido en dicho artículo.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO MUNICIPAL NÚMERO TREINTA Y SEIS DECRETO POR EL QUE SE REFORMA EL DECRETO DE CREACIÓN DEL SISTEMA DE APERTURA RÁPIDA DE EMPRESAS; SE REFORMA EL REGLAMENTO PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS MERCANTILES Y ESPECTÁCULOS PÚBLICOS; SE REFORMA EL REGLAMENTO DE MEJORA REGULATORIA; SE REFORMA EL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; SE REFORMA EL REGLAMENTO DE PROTECCIÓN CIVIL; Y SE REFORMA EL REGLAMENTO DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE, TODOS DE PACHUCA DE SOTO, HIDALGO”.]
+P.O. 8 DE AGOSTO DE 2017.
 
-PRIMERA. Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+## [N. DE E. TRANSITORIO DEL "DECRETO 26418/LXI/17, QUE REFORMA EL ARTÍCULO 100 BIS DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO."]
 
-SEGUNDA. Se derogan todas las disposiciones que se opongan al presente Reglamento.
-
-TERCERA. Los giros considerados como de mediano y alto riesgo en el Catálogo Municipal de Actividades Económicas se considerarán especiales y el resto ordinarios.
-
-P.O. 5 DE MAYO DE 2020.
-
-> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
-
-PRIMERO: La Comisión Permanente de Gobernación, Bandos, Reglamentos y Circulares, es competente para recibir, analizar, estudiar y dictaminar respecto a la "Iniciativa con proyecto de Decreto que reforma el artículo 103 fracción XXVIII, del Reglamento Interior de la Administración Pública Municipal de Pachuca de Soto, Hidalgo; y los artículos 97 y 134 del Reglamento Interior del Honorable Ayuntamiento de Pachuca de Soto, Hidalgo"., con número de expediente SA/DP/234/2018, por lo que se acuerda dictaminar favorablemente y por unanimidad de votos, la solicitud presentada por la Regidora Marleen Alejandra Montaño Juárez.
-
-SEGUNDO: Se somete a la consideración del Honorable Ayuntamiento de Pachuca de Soto el presente Dictamen, por lo que una vez aprobado, remítase a la Secretaria de Contraloría Municipal para su publicación en la Página de Internet Oficial del Municipio de Pachuca de Soto y al Periódico Oficial del Estado de Hidalgo para su publicación.
-
-TERCERO: El Presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
-
-P.O. 5 DE MAYO DE 2020.
-
-> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
-
-PRIMERO: Las Comisiones Permanentes de Gobernación, Bandos, Reglamentos y Circulares, y de Medio Ambiente, son competentes para actuar, analizar y dictaminar de manera conjunta respecto al tema “Iniciativa con proyecto de Decreto por el que se reforman, derogan y adicionan diversas disposiciones al Reglamento Interior de la Administración Pública Municipal de Pachuca de Soto, Hidalgo", por lo que se acuerda dictaminar favorablemente y por unanimidad de votos, la solicitud presentada por la Regidora Liliana Verde Neri.
-
-SEGUNDO.- Derivado de lo anterior, se somete a la consideración de este Honorable Ayuntamiento el presente dictamen para su aprobación correspondiente, por lo que en caso de ser aprobado, remítase a la Secretaria de Contraloría Municipal para su publicación en la Página de Internet Oficial del Municipio de Pachuca de Soto y al Periódico Oficial del Estado de Hidalgo para su publicación.
-
-TERCERO: El Presente decreto entrara en vigor al día siguiente de las publicaciones antes referidas.
-
-P.O. 22 DE JUNIO DE 2020.
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO MUNICIPAL NÚMERO TREINTA Y NUEVE QUE REFORMA LOS ARTÍCULOS 15 FRACCIÓN XII, 20 Y 115 DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, ESTADO DE HIDALGO”.]
 
