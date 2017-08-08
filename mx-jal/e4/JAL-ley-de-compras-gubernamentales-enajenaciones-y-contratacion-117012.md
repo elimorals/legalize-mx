@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-compras-gubernamentales-enajenaciones-y-contratacion-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-27"
-last_updated: "2016-10-27"
+last_updated: "2017-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "JAL"
 ---
 # LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACION DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-> <small>[N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL TRANSITORIO PRIMERO DEL PRESENTE ORDENAMIENTO, ENTRA EN VIGOR A LOS NOVENTA DÍAS SIGUIENTES AL DE SU PUBLICACIÓN.]</small>
-
 LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2017.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 27 de octubre de 2016.
 
@@ -767,7 +765,9 @@ VII. Cumplir con las demás obligaciones que les impongan otras disposiciones.
 
 I. A los proveedores del sector de las micro, pequeñas y medianas empresas asentadas o con domicilio en el Estado;
 
-II. Al proveedor local sobre el nacional, o a este sobre el extranjero;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2017)</small>
+
+II. Al proveedor local sobre el nacional o a este sobre el extranjero, para el caso de proveedores extranjeros, se dará preferencia al proveedor de origen mexicano cuya empresa esté legalmente establecida en el extranjero;
 
 III. A los proveedores que presenten mejor grado de protección al medio ambiente; y
 
@@ -1748,3 +1748,11 @@ El Secretario General de Gobierno
 ROBERTO LÓPEZ LARA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26417/LXI/17, QUE REFORMA EL ARTÍCULO 49 DE LA LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
