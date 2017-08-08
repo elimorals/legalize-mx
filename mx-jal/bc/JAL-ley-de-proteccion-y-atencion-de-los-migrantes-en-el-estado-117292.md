@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proteccion-y-atencion-de-los-migrantes-en-el-estado-1172
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-17"
-last_updated: "2016-11-17"
+last_updated: "2017-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117292&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PROTECCIÓN Y ATENCIÓN DE LOS MIGRANTES EN EL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2017.
 
 Ley publicada en la Sección II al Número 4 del Periódico Oficial del Estado de Jalisco, el jueves 17 de noviembre de 2016.
 
@@ -50,6 +50,12 @@ Las disposiciones de la presente Ley son de orden público, interés social y ob
 ###### Artículo 2.
 
 La aplicación de las disposiciones de la presente Ley, corresponden al Titular del Poder Ejecutivo del Estado, dependencias y entidades de la Administración Pública Estatal, así como a los ayuntamientos por medio de sus dependencias y entidades administrativas en el ámbito de sus competencias, de conformidad a ésta y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2017)</small>
+
+###### Artículo 2 Bis.
+
+El gobierno del Estado de Jalisco y los Municipios procurarán, con el apoyo del Gobierno Federal y mediante la cooperación internacional, especialmente económica y técnica, que todas las personas extranjeras sin importar su estatus migratorio, residentes o en tránsito en su territorio, gocen de las garantías consagradas en el artículo 4 de la Constitución Política del Estado de Jalisco.
 
 ### CAPÍTULO II. DE LOS DERECHOS DE LOS MIGRANTES
 
@@ -224,3 +230,11 @@ El Secretario General de Gobierno
 ROBERTO LÓPEZ LARA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26413/LXI/17, QUE ADICIONA EL ARTICULO 2° BIS DE LA LEY DE PROTECCIÓN Y ATENCIÓN DE LOS MIGRANTES EN EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
