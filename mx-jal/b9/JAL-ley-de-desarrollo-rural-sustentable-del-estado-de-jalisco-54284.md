@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-rural-sustentable-del-estado-de-jalisco-54284
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-21"
-last_updated: "2017-07-25"
+last_updated: "2017-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2017.
 
 Ley publicada en la Sección II al Periódico Oficial del Estado de Jalisco, el jueves 21 de diciembre de 2006.
 
@@ -261,17 +261,21 @@ XVII. Promoción de la investigación científica aplicada, el desarrollo e inno
 
 XVIII. Las demás que determine el Ejecutivo Estatal.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 17.
 
-El Programa Operativo Anual para el Desarrollo Rural Sustentable, es el instrumento rector de las actividades de la Secretaría, en un marco de corresponsabilidad con los sectores social y privado de la entidad.
+El Programa para el Desarrollo Rural Sustentable, es el instrumento rector de las actividades de la Secretaría, en un marco de corresponsabilidad con los sectores social y privado de la entidad.
 
-Dichos programas se elaborarán durante el mes de septiembre de cada año y estarán listos para su aplicación en enero del año siguiente.
+Dicho programa se elaborará a partir de matrices de indicadores para resultados, durante el mes de septiembre de cada año y estará listo para su aplicación en enero del año siguiente.
 
-Cuando en el transcurso de su vigencia sea necesario modificar el programa operativo anual, se ajustará al procedimiento señalado en la Ley de Planeación para el Estado de Jalisco.
+Cuando en el transcurso de su vigencia sea necesario modificar el Programa para el Desarrollo Rural Sustentable, se ajustará al procedimiento señalado en la Ley de Planeación para el Estado de Jalisco.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 18.
 
-Los programas operativos anuales deberán contener cuando menos los siguientes elementos:
+El Programa para el Desarrollo Rural Sustentable deberá contener cuando menos los siguientes elementos:
 
 I. Enumeración de los proyectos de desarrollo en el lapso de su vigencia;
 
@@ -281,9 +285,11 @@ III. Disponibilidad de asistencia técnica y apoyo financiero para el desarrollo
 
 IV. Esquemas de coordinación con la Federación y Municipios para la ejecución de los proyectos de desarrollo rural sustentable.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 19.
 
-Para la ejecución del programa operativo anual de la administración pública estatal, y en su caso federal, que participen en el programa especial concurrente y los programas sectoriales se tomará como base la organización territorial y administrativa de los distritos de desarrollo rural, de los municipios y comunidades para la concertación con las organizaciones de productores y los sectores social y privado.
+Para la ejecución del Programa para el Desarrollo Rural Sustentable de la administración pública estatal y en su caso federal, que participen en el programa especial concurrente y los programas sectoriales, se tomará como base la organización territorial y administrativa de los distritos de desarrollo rural, de los municipios y comunidades para la concertación con las organizaciones de productores y los sectores social y privado.
 
 ###### Artículo 20.
 
@@ -635,7 +641,9 @@ XI. Todas las demás que deriven del cumplimiento de la Ley de Desarrollo Rural 
 
 El Gobierno del Estado promoverá el ejercicio de las actividades de fomento, apoyo y estímulos financieros a la actividad rural a través de los Consejos Municipales, otorgando estímulos a los productores organizados o en forma individual de acuerdo a los programas autorizados. Los interesados deberán cumplir cualquiera de las siguientes condiciones:
 
-I. Reconvertir la producción atendiendo a los diagnósticos de planeación que establezca el Programa Operativo Anual del municipio de que se trate;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2017)</small>
+
+I. Reconvertir la producción atendiendo a los diagnósticos de planeación que establezca el Programa para el Desarrollo Rural Sustentable del municipio de que se trate;
 
 II. Construir y modernizar la infraestructura hidráulica para elevar los niveles de productividad y eficientar el uso y consumo del agua;
 
@@ -1061,9 +1069,11 @@ Los apoyos que se otorguen para la reconversión productiva deberán ser conside
 
 ### Capítulo VIII. De las ferias y exposiciones de la producción agropecuaria
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 100.
 
-Los programas de Desarrollo Rural y los operativos anuales en materia de ferias y exposiciones, incluirán la participación de las organizaciones agropecuarias; éstas contarán con el asesoramiento y apoyo del Gobierno del Estado, a través de la Secretaría, para la organización de dichos eventos en los lugares que juzguen convenientes, con el objeto de promover la productividad y comercialización agropecuaria, apegándose a las normas federales y demás relativas para la realización de estos eventos.
+Los programas de Desarrollo Rural en materia de ferias y exposiciones, incluirán la participación de las organizaciones agropecuarias; éstas contarán con el asesoramiento y apoyo del Gobierno del Estado, a través de la Secretaría, para la organización de dichos eventos en los lugares que juzguen convenientes, con el objeto de promover la productividad y comercialización agropecuaria, apegándose a las normas federales y demás relativas para la realización de estos eventos.
 
 De igual forma, el Ejecutivo del Estado promoverá y apoyará la participación de los productores en concursos y exposiciones nacionales e internacionales.
 
@@ -1472,3 +1482,9 @@ P.O. 25 DE JULIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26385/LXI/17, QUE SE ADICIONA UN PÁRRAFO AL ARTÍCULO 37 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 8 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26415/LXI/17, QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO, DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO, Y DE LA LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO".]
+
+ÚNICO. La presente ley entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
