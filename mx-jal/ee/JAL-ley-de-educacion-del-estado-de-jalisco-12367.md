@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2017-07-27"
+last_updated: "2017-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -273,9 +273,9 @@ I.- Promover y prestar servicios educativos distintos de los previstos en las fr
 
 I Bis.- Participar en las actividades tendientes a realizar evaluaciones para el Ingreso, la Promoción, el Reconocimiento y la Permanencia en el Servicio Profesional Docente, de conformidad con lo dispuesto en la Ley General del Servicio Profesional Docente;
 
-> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2000)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2017)</small>
 
-II.- Integrar, coordinar y supervisar la ejecución del Programa Estatal de Desarrollo Educativo de Jalisco y sus correspondientes Programas Operativos Anuales;
+II. Integrar, coordinar y supervisar la ejecución del Programa Estatal de Desarrollo Educativo de Jalisco y sus correspondientes Matrices de Indicadores para Resultados;
 
 > <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2014)</small>
 
@@ -369,7 +369,7 @@ I.- Organizar e impartir los servicios de educación inicial, básica, incluyend
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
 
-II. Nombrar y remover libremente a las autoridades educativas estatales cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución Local o en las leyes;
+II.- Nombrar y remover libremente a las autoridades educativas estatales cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución Local o en las leyes;
 
 > <small>(REFORMADA, P.O. 14 DE JUNIO DE 2003)</small>
 
@@ -399,9 +399,9 @@ k) Instituciones de Educación Superior.
 
 l) Bibliotecas;
 
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2017)</small>
 
-IV.- Elaborar, coordinar, ejecutar y evaluar los programas operativos anuales en materia educativa, de conformidad con las políticas, prioridades y lineamientos establecidos por el Programa Estatal de Desarrollo Educativo de Jalisco;
+IV.- Elaborar, coordinar, ejecutar y evaluar las Matrices de Indicadores para Resultados en materia educativa, de conformidad con las políticas, prioridades y lineamientos establecidos por el Programa Estatal de Desarrollo Educativo de Jalisco;
 
 > <small>(REFORMADA, P.O. 14 DE JUNIO DE 2003)</small>
 
@@ -3976,3 +3976,9 @@ P.O. 27 DE JULIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26412/LXI/17 QUE REFORMA LOS ARTÍCULOS 4, 6, 12, 26, 27, 51 Y SE ADICIONA EL ARTÍCULO 5 TER A LA LEY PARA LA INCLUSIÓN Y EL DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD Y SE REFORMAN LOS ARTÍCULOS 27 Y 58 DE LA LEY DE EDUCACIÓN.”]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 8 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26415/LXI/17, QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO, DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO, Y DE LA LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO".]
+
+ÚNICO. La presente ley entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
