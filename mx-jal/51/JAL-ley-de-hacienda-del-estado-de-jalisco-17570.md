@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-del-estado-de-jalisco-17570"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-23"
-last_updated: "2017-06-22"
+last_updated: "2017-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17570&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 23 de septiembre de 2000.
 
@@ -927,11 +927,13 @@ Este impuesto se liquidará aplicando a la base determinada en el artículo ante
 
 De las exenciones
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 65.
 
-Se exceptúan del pago del presente impuesto, los ingresos que obtengan los organismos descentralizados de la Administración Pública Federal, Estatal y Municipios, cuya finalidad sea la obtención de recursos para destinarlos a la asistencia pública.
+Se exceptúan del pago del presente impuesto, los ingresos que obtengan los organismos descentralizados de la Administración Pública Federal, Estatal y municipios, cuya finalidad sea la obtención de recursos para destinarlos a la asistencia pública, así como las sociedades o asociaciones de carácter civil que se dediquen a la enseñanza y que cuenten con reconocimiento de validez oficial de estudios, siempre que los ingresos obtenidos se destinen para el apoyo de la instrucción educativa.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
 Los Partidos Políticos Nacionales, que cuenten con registro vigente ante el Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, no estarán obligados al pago de este impuesto en los términos de la Ley de la materia.
 
@@ -1300,3 +1302,9 @@ P.O. 22 DE JUNIO DE 2017.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. En caso de que este decreto produzca afectación a los ingresos estatales, se autoriza a la Secretaría de Planeación, Administración y Finanzas a realizar las adecuaciones presupuestales y administrativas que resulten necesarias, notificando de lo anterior al Congreso del Estado.
+
+P.O. 8 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26416/LXI/17, QUE REFORMA EL ARTÍCULO 65 DE LA LEY DE HACIENDA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
