@@ -4,7 +4,7 @@ identifier: "COA-ley-que-crea-el-consejo-estatal-de-ciencia-y-tecnologia-y-44829
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-25"
-last_updated: "2002-10-25"
+last_updated: "2017-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44829&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY QUE CREA EL CONSEJO ESTATAL DE CIENCIA Y TECNOLOGIA Y EL FOMENTO A LA INVESTIGACION CIENTIFICA Y EL DESARROLLO TECNOLOGICO DEL ESTADO DE COAHUILA
 
-LEY QUE CREA EL CONSEJO ESTATAL DE CIENCIA Y TECNOLOGIA Y EL FOMENTO A LA INVESTIGACION CIENTIFICA Y EL DESARROLLO TECNOLOGICO DEL ESTADO DE COAHUILA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN PARA EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 8 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+LEY QUE CREA EL CONSEJO ESTATAL DE CIENCIA Y TECNOLOGÍA Y EL FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y EL DESARROLLO TECNOLÓGICO DEL ESTADO DE COAHUILA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2017 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 25 de octubre de 2002.
 
@@ -958,3 +960,27 @@ LIC. JOSE JESUS RAUL SIFUENTES GUERRERO
 EL SECRETARIO DE EDUCACIÓN PÚBLICA
 
 PROF. HUMBERTO MOREIRA VALDÉS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 896.- SE EXPIDE LA LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+Artículo Primero. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Se abroga la Ley que crea el Consejo Estatal de Ciencia y Tecnología y el Fomento a la Investigación Científica y el Desarrollo Tecnológico del Estado de Coahuila, publicada en el Periódico Oficial del Estado el 22 (sic) de octubre de 2002.
+
+Artículo Tercero. Dentro de los seis meses siguientes a la entrada en vigor de este Decreto, el COECYT expedirá las bases de organización y funcionamiento del Sistema Estatal de Información sobre Investigación Científica, Desarrollo Tecnológico e Innovación, el Programa Especial de Innovación, Ciencia y Tecnología y su Estatuto Orgánico.
+
+Artículo Cuarto. El Reglamento Interior del COECYT, deberá ser expedido dentro de los noventa días hábiles siguientes a la publicación del presente Decreto.
+
+Artículo Quinto. Los recursos humanos, financieros y materiales asignados y destinados a la fecha en que entre en vigor el presente Decreto, al COECYT, creado mediante el mismo, se reasignarán y pasarán a formar parte del COECYT que se crea mediante esta Ley.
+
+Los derechos que hubieren adquirido los trabajadores que se reasignan, serán respetados en todo (sic) sus términos.
+
+Artículo Sexto. En la Primera Sesión Ordinaria de la Junta de Gobierno del COECYT se tomarán todos los acuerdos necesarios para el debido funcionamiento del propio COECYT.
+
+El acta que derive de dicha Sesión Ordinaria, deberá ser publicada en el Periódico Oficial del Estado.
+
+Artículo Séptimo. Los convenios, contratos y demás actos jurídicos que el COECYT haya celebrado con anterioridad a la entrada en vigor del presente Decreto, deberán ser ratificados por la Junta de Gobierno del COECYT, sustituyéndolo en el cumplimiento de las obligaciones y el ejercicio de derechos que de ellos derive.
