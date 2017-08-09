@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-planeacion-para-el-desarrollo-del-estado-de-zacatecas-30
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-07"
-last_updated: "2017-03-11"
+last_updated: "2017-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE PLANEACIÓN DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 9 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 7 de mayo de 2003.
 
@@ -792,3 +794,15 @@ P.O. 11 DE MARZO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+P.O. 9 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 189.- QUE CONTIENE LA LEY DE PLANEACIÓN DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, REFORMAS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS Y REFORMAS A LA LEY ORGÁNICA DEL MUNICIPIO DEL ESTADO DE ZACATECAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley de Planeación para el Desarrollo del Estado de Zacatecas, contenida en el Decreto No. 229, publicado en el Suplemento al número 37 del Periódico Oficial, Órgano del Gobierno del Estado, de fecha 7 de mayo de 2003, y se derogan las disposiciones que contravengan al presente Decreto en materia de planeación del Estado.
+
+TERCERO. El Ejecutivo del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, deberán emitir en un término no mayor a ciento veinte días naturales siguientes a la entrada en vigor de este ordenamiento, los reglamentos y disposiciones referidas en el presente Decreto.
+
+CUARTO. Para efectos de este Decreto, el Ejecutivo del Estado enviará el 8 de septiembre de 2018 el Programa General Prospectivo a la Legislatura del Estado para su aprobación.
