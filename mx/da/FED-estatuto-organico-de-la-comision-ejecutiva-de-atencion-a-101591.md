@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-ejecutiva-de-atencion-a-101591
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-06-27"
-last_updated: "2015-11-10"
+last_updated: "2017-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101591&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-05-27"
 
 ESTATUTO ORGÁNICO DE LA COMISIÓN EJECUTIVA DE ATENCIÓN A VÍCTIMAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE AGOSTO DE 2017.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 27 de junio de 2014.
 
@@ -73,7 +73,9 @@ I. Comisionados: las personas integrantes del Pleno de la Comisión Ejecutiva de
 
 II. Comisión Ejecutiva: la Comisión Ejecutiva de Atención a Víctimas;
 
-III. Comisionado Presidente: la persona sobre quien recae la responsabilidad de presidir la Comisión Ejecutiva y dirigir el cumplimiento de las atribuciones de sus unidades administrativas, en términos de los artículos 87 y 95 de la Ley General de Víctimas y 35 de su Reglamento;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
+
+III. Comisionado Ejecutivo: la persona sobre quien recae la responsabilidad de presidir la Comisión Ejecutiva y dirigir el cumplimiento de las atribuciones de sus unidades administrativas, en términos de los artículos 85 y 95 de la Ley General de Víctimas y 35 de su Reglamento;
 
 > <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2015)</small>
 
@@ -117,7 +119,9 @@ Para el ejercicio de sus atribuciones y el despacho de los asuntos que le compet
 
 I. Pleno;
 
-II. Comisionado Presidente;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
+
+II. Comisionado Ejecutivo;
 
 III. Comisionados;
 
@@ -203,9 +207,9 @@ XV. Delegaciones, y
 
 XVI. Coordinación General de Delegaciones.
 
-> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
-Las Direcciones Generales y la Secretaría Técnica del Pleno contarán y se auxiliarán para el ejercicio de sus funciones de las direcciones generales adjuntas, direcciones de área, subdirecciones, jefaturas de departamento, enlaces y demás personal profesional que autorice el Pleno a propuesta del Comisionado Presidente, de acuerdo con el presupuesto autorizado.
+Las Direcciones Generales y la Secretaría Técnica del Pleno contarán y se auxiliarán para el ejercicio de sus funciones de las direcciones de área, subdirecciones, jefaturas de departamento, enlaces y demás personal profesional que autorice el Comisionado Ejecutivo, de acuerdo con el presupuesto autorizado.
 
 Cada área de apoyo así como su denominación se establecerán en el Manual de Organización de la Comisión Ejecutiva y sus funciones se determinarán en éste y otros manuales administrativos, incluyendo los manuales de Aplicación General para la Administración Pública Federal emitidos por la Secretaría de la Función Pública.
 
@@ -253,11 +257,7 @@ Los expedientes y las actas resolutivas se considerarán públicos, asegurando q
 
 ###### Artículo 12.
 
-En caso de ausencia momentánea del Comisionado Presidente a las sesiones ordinarias o extraordinarias, el Comisionado Presidente designará entre los Comisionados a quien dirija la sesión, de no designar uno el Pleno tomará la determinación.
-
-En caso de ausencia temporal del Comisionado Presidente por un máximo de 90 días, el Pleno, a propuesta del Comisionado Presidente, nombrará a su sustituto; de no proponer uno, el Pleno tomará la determinación.
-
-Finalmente, si la ausencia se prolongara por más tiempo del señalado en el párrafo anterior, el Pleno, en términos del artículo 87 de la Ley General de Víctimas elegirá un nuevo Comisionado Presidente.
+(DEROGADO, D.O.F. 9 DE AGOSTO DE 2017)
 
 ###### Artículo 13.
 
@@ -267,13 +267,13 @@ Los Comisionados que asistan a las sesiones ordinarias y extraordinarias deberá
 
 En caso de presunción de conflicto de intereses respecto al asunto que se ha sometido al Pleno, éste resolverá si el Comisionado deberá de abstenerse de conocer del mismo, opinar y votar.
 
-> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 15.
 
-Todas las decisiones y funciones de la Comisión Ejecutiva de Atención a Víctimas son competencia originaria del Pleno, salvo las que establece la Ley y su Reglamento para el caso del Comisionado Presidente.
+Todas las decisiones y funciones de la Comisión Ejecutiva de Atención a Víctimas son competencia originaria del Comisionado Ejecutivo, en términos de las disposiciones aplicables.
 
-El Pleno podrá delegar funciones en unidades administrativas y servidores públicos de la Comisión Ejecutiva, de acuerdo a la Ley, el Reglamento u otras disposiciones legales.
+El Comisionado Ejecutivo podrá delegar funciones en unidades administrativas y servidores públicos de la Comisión Ejecutiva, de acuerdo a la Ley, el Reglamento u otras disposiciones legales.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 10 DE MARZO DE 2015)</small>
 
@@ -371,73 +371,103 @@ Las reuniones del Órgano de Gobierno se realizarán de conformidad con las disp
 
 El comisario público asistirá con voz pero sin voto a las reuniones ordinarias y extraordinarias del Órgano de Gobierno.
 
-### Capítulo Quinto. Del Comisionado Presidente
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE MARZO DE 2015)</small>
+### Capítulo Quinto. Del Comisionado Ejecutivo
 
 ###### Artículo 18.
 
-El Comisionado Presidente será elegido mediante sistema de voto secreto por todos los integrantes del Pleno. Se requerirá de la asistencia de la totalidad de los Comisionados en funciones y de cuando menos la mayoría absoluta de votos a favor para la elección del Comisionado Presidente. Entre los Comisionados y en el Pleno, el Comisionado Presidente es primero entre iguales, pero continuará subordinado a las decisiones del Pleno, salvo por lo señalado en el artículo 95 de la Ley y 35 del Reglamento.
-
-En caso de que no asista la totalidad de los Comisionados en funciones o cuando un candidato no obtenga la mayoría absoluta de votos en una primera ronda, se citará a una sesión de segunda ronda 24 horas después; de persistir cualquiera de las dos hipótesis anteriores, se citará a una sesión de tercera ronda con 24 horas de diferencia y, con los Comisionados que se encuentren presentes, se elegirá al comisionado que obtenga la mayoría.
+(DEROGADO, D.O.F. 9 DE AGOSTO DE 2017)
 
 ###### Artículo 19.
 
-Se requerirá el voto de la mayoría absoluta de los Comisionados en funciones para remover al Comisionado Presidente de su cargo, siempre y cuando incumpla reiteradamente los acuerdos del Pleno o realice actos que son legalmente incompatibles con las funciones de la Comisión Ejecutiva. Para proceder a la remoción del Comisionado Presidente, deberá satisfacerse el derecho de audiencia.
+(DEROGADO, D.O.F. 9 DE AGOSTO DE 2017)
 
 ###### Artículo 20.
 
-El Comisionado Presidente ejercerá dicho cargo por un período de dos años, y puede ser reelecto por una sola ocasión para un periodo adicional; concluida su gestión o, en caso de renuncia o ausencia definitiva de la Presidencia o de la Comisión Ejecutiva, se elegirá a quien lo sustituya a través del procedimiento referido en el artículo 18 de este Estatuto Orgánico.
+(DEROGADO, D.O.F. 9 DE AGOSTO DE 2017)
 
-> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 21.
 
-Además de las facultades que le confiere el artículo 95 de la ley, 35 del Reglamento y el capítulo anterior, el Comisionado Presidente ejercerá las siguientes:
+Además de las facultades que le confiere el artículo 95 de la Ley, 35 del Reglamento y el capítulo anterior, el Comisionado Ejecutivo ejercerá las siguientes:
+
+> <small>(REFORMADA, D.O.F. 10 DE MARZO DE 2015)</small>
 
 I. Administrar y dirigir el cumplimiento de las atribuciones de la Comisión Ejecutiva y de sus unidades administrativas;
 
+> <small>(REFORMADA, D.O.F. 10 DE MARZO DE 2015)</small>
+
 II. Asignar el seguimiento de las atribuciones de las unidades administrativas a su cargo a los demás Comisionados, a efecto de garantizar que las funciones de la Comisión Ejecutiva se realicen de manera adecuada, eficiente, oportuna, expedita y articulada;
+
+> <small>(REFORMADA, D.O.F. 10 DE MARZO DE 2015)</small>
 
 III. Representar legalmente a la Comisión Ejecutiva;
 
+> <small>(REFORMADA, D.O.F. 10 DE MARZO DE 2015)</small>
+
 IV. Ejercer las funciones de Secretariado Técnico del Sistema Nacional de Atención a Víctimas;
 
-V. Representar a la Comisión Ejecutiva ante las dependencias y entidades de la Administración Pública Federal, así como de las Entidades Federativas y municipios; organismos constitucionales autónomos; los Poderes Legislativo y Judicial tanto federales como estatales, así como para informar al Pleno regularmente sobre el estado de los asuntos relacionados con éstos;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
+
+V. Representar a la Comisión Ejecutiva ante las dependencias y entidades de la Administración Pública Federal, así como de las Entidades Federativas y municipios; organismos constitucionales autónomos; los Poderes Legislativo y Judicial tanto federales como estatales;
+
+> <small>(REFORMADA, D.O.F. 10 DE MARZO DE 2015)</small>
 
 VI. Rendir el informe público anual ante la Cámara de Diputados;
 
-VII. Proponer al Pleno el nombramiento y remoción de los servidores públicos que ocupen cargos con las dos jerarquías administrativas inferiores a la de los propios Comisionados;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
+
+VII. Proponer a la Junta de Gobierno el nombramiento y remoción de los servidores públicos que ocupen cargos con las dos jerarquías administrativas inferiores a la del Comisionado Ejecutivo;
+
+> <small>(REFORMADA, D.O.F. 10 DE MARZO DE 2015)</small>
 
 VIII. Nombrar y remover a los servidores públicos de la Comisión Ejecutiva que ocupen cargos diversos a los señalados en la fracción anterior;
 
+> <small>(REFORMADA, D.O.F. 10 DE MARZO DE 2015)</small>
+
 IX. Acordar con los Directores Generales sobre los diversos asuntos de su despacho;
+
+> <small>(REFORMADA, D.O.F. 10 DE MARZO DE 2015)</small>
 
 X. Turnar, a través de las Direcciones Generales del Registro, de Atención Inmediata y Primer Contacto y de la Asesoría Jurídica Federal, al Comisionado ponente que corresponda de acuerdo al sistema aprobado por el Pleno, los recursos de reconsideración y revisión, previstos en la Ley y el Reglamento;
 
-XI. Presidir las sesiones del Pleno;
+XI. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2017)
 
-XII. Someter a la aprobación del Pleno el calendario de labores de la Comisión Ejecutiva, que será publicado en el Diario Oficial de la Federación;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
+
+XII. Aprobar el calendario de labores de la Comisión Ejecutiva, que será publicado en el Diario Oficial de la Federación;
+
+> <small>(REFORMADA, D.O.F. 10 DE MARZO DE 2015)</small>
 
 XIII. Conducir los vínculos con los organismos internacionales e instituciones extranjeras en materias afines al ámbito de competencia de la Comisión Ejecutiva, así como autoridades de otros países, en coordinación con la Secretaría de Relaciones Exteriores;
 
-XIV. Proponer al Pleno y ejecutar la agenda de los asuntos internacionales;
+XIV. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2017)
+
+> <small>(REFORMADA, D.O.F. 10 DE MARZO DE 2015)</small>
 
 XV. Ejecutar la política de comunicación social de la Comisión Ejecutiva;
 
-XVI. Someter a la aprobación del Pleno los informes relativos al desempeño, y funcionamiento, que por su conducto rindan las Direcciones Generales de la Comisión Ejecutiva;
+XVI. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2017)
 
-XVII. Presentar periódicamente al Pleno un informe sobre la aplicación de los criterios de racionalidad, austeridad y disciplina presupuestal;
+XVII. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2017)
 
-XVIII. Fungir como enlace entre la estructura administrativa y operativa de la propia Comisión Ejecutiva con el Pleno;
+XVIII. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2017)
 
-XIX. Coordinar el Orden del Día y la agenda de trabajo del Pleno a través de la Secretaría y convocar a sesiones ordinarias y extraordinarias,
+XIX. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2017)
+
+> <small>(REFORMADA, D.O.F. 10 DE MARZO DE 2015)</small>
 
 XX. Expedir copias certificadas en los términos de la ley, de los documentos que obran en los archivos de la Comisión Ejecutiva;
 
+> <small>(REFORMADA, D.O.F. 10 DE MARZO DE 2015)</small>
+
 XXI. Administrar y coordinar las delegaciones de la Comisión Ejecutiva de Atención a Víctimas, auxiliándose para tal efecto del Coordinador General de Delegaciones, y
 
-XXII. Las demás que les confieren las disposiciones legales y administrativas aplicables, así como las que le encomiende el Pleno.
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
+
+XXII. Las demás que le confieren las disposiciones legales y administrativas aplicables.
 
 ### Capítulo Sexto. De los Comisionados
 
@@ -493,7 +523,9 @@ Los titulares de las Direcciones Generales tendrán las siguientes atribuciones 
 
 I. Planear, programar, organizar, dirigir, ejecutar, controlar y evaluar el desarrollo de los programas, proyectos y acciones encomendados a su cargo, e informar sobre los avances correspondientes;
 
-II. Acordar, con el Comisionado Presidente, la resolución de los asuntos relevantes cuya tramitación se encuentre dentro de su área de competencia;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
+
+II. Acordar, con el Comisionado Ejecutivo, la resolución de los asuntos relevantes cuya tramitación se encuentre dentro de su área de competencia;
 
 III. Intervenir en los procedimientos que les correspondan relativos a la gestión y administración del personal profesional de la Comisión Ejecutiva, determinados por el Estatuto Orgánico del Servicio Profesional de la Comisión Ejecutiva, los lineamientos que se deriven, así como los procesos de contratación externa que fuesen necesarios;
 
@@ -501,33 +533,57 @@ IV. Asesorar y emitir opiniones en asuntos de su competencia;
 
 V. Coordinarse con los titulares y con servidores públicos de otras unidades administrativas, cuando así se requiera para el mejor funcionamiento de la Comisión Ejecutiva;
 
-VI. Formular el anteproyecto de presupuesto por programas relativos al área a su cargo, conforme las normas que emita el Pleno;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
+
+VI. Formular el anteproyecto de presupuesto por programas relativos al área a su cargo;
 
 VII. Asistir, en representación de la Comisión Ejecutiva, a eventos de carácter nacional e internacional en temas relacionados con su competencia cuando se le comisione para ello;
 
-VIII. Representar a la Comisión Ejecutiva en los asuntos que el Pleno o el Comisionado Presidente determinen, siempre que no sean atribuciones indelegables;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
-IX. Ejecutar los acuerdos que dicte el Pleno en el ámbito de sus atribuciones;
+VIII. Representar a la Comisión Ejecutiva en los asuntos que el Comisionado Ejecutivo determine, siempre que no sean atribuciones indelegables;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
+
+IX. Ejecutar los acuerdos que dicte el Comisionado Ejecutivo en el ámbito de sus atribuciones;
 
 X. Elaborar los proyectos de manuales de organización, de procedimientos y de servicios al público correspondientes a la Unidad Administrativa a su cargo, conforme a los lineamientos establecidos;
 
 XI. Participar en la instrumentación y operación de los sistemas sectoriales de información, planeación, programación, evaluación y control;
 
-> <small>(REFORMADA, D.O.F. 10 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
-XII. Presentar al Comisionado Presidente el Programa de Trabajo de la Unidad Administrativa a su cargo, así como ejecutarlo en forma correcta y oportuna;
+XII. Presentar al Comisionado Ejecutivo el Programa de Trabajo de la Unidad Administrativa a su cargo, así como ejecutarlo en forma correcta y oportuna;
 
 XIII. Proporcionar la información y documentación requeridas por la Dirección General de Asuntos Jurídicos;
 
 XIV. Expedir copias certificadas en los términos de la ley, de los documentos que obran en sus archivos, y
 
-> <small>(REFORMADA, D.O.F. 10 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
-XV. Las demás que les confieren las disposiciones legales y administrativas aplicables, así como las que les encomiende el Pleno y el Comisionado Presidente.
+XV. Las demás que les confieren las disposiciones legales y administrativas aplicables, así como las que les encomiende el Comisionado Ejecutivo.
 
-> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 2015)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
-En caso de ausencias, los Directores Generales serán suplidos por el servidor público de la Comisión Ejecutiva del nivel jerárquico inmediato inferior que designe el Pleno, a propuesta del propio Director General.
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2017)</small>
+
+###### Artículo 23 Bis.
+
+El Comisionado Ejecutivo será suplido en sus ausencias, en los asuntos relativos al acceso de recursos al Fondo, por la persona titular de la Dirección General de la Asesoría Jurídica Federal; en los asuntos administrativos de la Comisión Ejecutiva, por la persona titular de la Dirección General de Administración y Finanzas, y en los asuntos en materia jurídica por la persona titular de la Dirección General de Asuntos Jurídicos.
+
+Los Directores Generales serán suplidos en sus ausencias por sus inferiores jerárquicos inmediatos, ya sean Directores Generales Adjuntos o Directores de Área, de conformidad con los asuntos que tengan a su cargo.
+
+El Coordinador General de Delegaciones será suplido en sus ausencias por su inferior jerárquico inmediato.
+
+Los Delegados serán suplidos en sus ausencias por el servidor público que designe el Coordinador General de Delegaciones.
+
+Los Subdelegados serán suplidos por el servidor público inmediato inferior que de ellos dependa, de conformidad con los asuntos que tengan a su cargo.
+
+El Director General Adjunto de Finanzas será suplido en sus ausencias por el Director de Recursos Humanos.
+
+La ausencia de los Directores de Recursos Humanos; de Recursos Materiales y Servicios Generales, y de Tecnologías de la Información, será suplida por el Director General Adjunto de Finanzas.
+
+La ausencia de los Directores de la Unidad de Género, y de la Unidad de Transparencia será suplida por el servidor público que designe el Comisionado Ejecutivo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE MARZO DE 2015)</small>
 
@@ -601,7 +657,9 @@ XXI. Notificar a la víctima la resolución definitiva de procedencia o no proce
 
 XXII. Autorizar de manera individual o en conjunto con los titulares de la Dirección General de Atención Inmediata y Primer Contacto y de la Coordinación General de Delegaciones, acciones concurrentes de dos o más delegaciones en entidades distintas a las de su circunscripción territorial, así como autorizar a una delegación en particular a ejercer acciones en entidades fuera de su esfera de competencia, en casos justificados y en los que sea necesario para la prestación del servicio, y
 
-XXIII. Las demás que sean necesarias para cumplir con el objeto de las funciones de la Asesoría Jurídica Federal, así como las que le confieren las disposiciones aplicables y las que le encomiende el Comisionado Presidente.
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
+
+XXIII. Las demás que sean necesarias para cumplir con el objeto de las funciones de la Asesoría Jurídica Federal, así como las que le confieren las disposiciones aplicables y las que le encomiende el Comisionado Ejecutivo.
 
 ###### Artículo 25.
 
@@ -643,15 +701,21 @@ Las sesiones ordinarias se verificarán cuando menos cada dos meses, sin perjuic
 
 Son atribuciones de la Dirección General del Registro Nacional de Víctimas:
 
-I. Diseñar y proponer al Pleno de la Comisión Ejecutiva, a través del Comisionado Presidente para su aprobación, el diseño del Formato Único de Declaración bajo los principios de accesibilidad, gratuidad, simplicidad, integralidad, eficiencia y legalidad, a fin de garantizar a las víctimas del delito y de violaciones a derechos humanos el ingreso al Registro para hacer efectivos sus derechos;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
+
+I. Diseñar y proponer al Comisionado Ejecutivo para su aprobación, el diseño del Formato Único de Declaración bajo los principios de accesibilidad, gratuidad, simplicidad, integralidad, eficiencia y legalidad, a fin de garantizar a las víctimas del delito y de violaciones a derechos humanos el ingreso al Registro para hacer efectivos sus derechos;
 
 II. Crear, operar y administrar la plataforma a que hace referencia el artículo 88, fracción XXVI, de la Ley, conforme a lo que establezca el Pleno;
 
-III. Proponer al Pleno de la Comisión Ejecutiva, a través del Comisionado Presidente los mecanismos para resguardar la información relacionada al padrón de víctimas a nivel nacional, mismo que se establecerá en el Modelo de Atención a Víctimas;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
+
+III. Proponer al Comisionado Ejecutivo los mecanismos para resguardar la información relacionada al padrón de víctimas a nivel nacional, mismo que se establecerá en el Modelo de Atención a Víctimas;
 
 IV. Dar seguimiento a los registros existentes a nivel federal y de las entidades federativas sobre la existencia de delitos o de violaciones a derechos humanos, para efecto de integrar el Registro;
 
-V. Ejecutar los acuerdos del Comisionado Presidente tendentes a la integración y preservación de la información administrada y sistematizar el Registro;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
+
+V. Ejecutar los acuerdos del Comisionado Ejecutivo tendentes a la integración y preservación de la información administrada y sistematizar el Registro;
 
 VI. Recabar de los integrantes del Sistema la información en materia de víctimas que estén obligados a proporcionar;
 
@@ -689,7 +753,9 @@ XXII. Informar a la Asesoría Jurídica Federal de cualquier circunstancia que p
 
 XXIII. Elaborar programas con enfoque diferencial para que las víctimas menores de edad, miembros de comunidades indígenas, personas con discapacidad, adultos mayores, puedan llevar a cabo su solicitud de inscripción al Registro, y
 
-XXIV. Las demás que sean necesarias para cumplir con el objeto de las funciones del Registro Nacional de Víctimas, así como las que le confieren las disposiciones aplicables y las que le encomiende el Comisionado Presidente.
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
+
+XXIV. Las demás que sean necesarias para cumplir con el objeto de las funciones del Registro Nacional de Víctimas, así como las que le confieren las disposiciones aplicables y las que le encomiende el Comisionado Ejecutivo.
 
 > <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2015)</small>
 
@@ -697,7 +763,9 @@ XXIV. Las demás que sean necesarias para cumplir con el objeto de las funciones
 
 Son atribuciones de la Dirección General del Fondo de Ayuda, Asistencia y Reparación Integral:
 
-I. Ejecutar los acuerdos del Pleno de la Comisión Ejecutiva;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
+
+I. Ejecutar los acuerdos del Comisionado Ejecutivo;
 
 II. Administrar los recursos que anualmente se destinan para el Fondo en el Presupuesto de Egresos de la Federación, así como los provenientes de las demás fuentes de ingresos que constituyen el Fondo y que se establecen en el artículo 132 de la Ley;
 
@@ -709,9 +777,11 @@ V. Gestionar la recaudación de recursos ante organismos nacionales e internacio
 
 VI. Coordinar las acciones necesarias ante otros fondos de carácter nacional, estatal o municipal, a efecto de evitar la doble compensación;
 
-VII. Proponer al Pleno de la Comisión Ejecutiva la creación de un fondo de emergencia, de conformidad con el artículo 135 de la Ley;
+VII. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2017)
 
-VIII. Presentar mensualmente al Pleno de la Comisión Ejecutiva, previo a la determinación de medidas de ayuda o reparación integral a las víctimas, un informe respecto de la situación financiera del fondo;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
+
+VIII. Presentar mensualmente al Comisionado Ejecutivo de la Comisión Ejecutiva, previo a la determinación de medidas de ayuda o reparación integral a las víctimas, un informe respecto de la situación financiera del fondo;
 
 IX. Preparar los informes que solicite la Auditoría Superior de la Federación y atender las auditorías de las instancias fiscalizadoras;
 
@@ -719,17 +789,27 @@ X. Ejercer el derecho de repetición, en los términos de lo dispuesto en los ar
 
 XI. Llevar a cabo la defensa del fondo y su patrimonio, en términos de las disposiciones aplicables;
 
-XII. Preparar y presentar al Pleno de la Comisión Ejecutiva informes sobre el trámite y despacho de los asuntos a su cargo, así como de la aplicación de los recursos que integran el patrimonio del Fondo;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
-XIII. Presentar para aprobación del Pleno de la Comisión Ejecutiva los estados financieros del fondo elaborados por el fiduciario y realizar las observaciones a que haya lugar;
+XII. Preparar y presentar al Comisionado Ejecutivo de la Comisión Ejecutiva informes sobre el trámite y despacho de los asuntos a su cargo, así como de la aplicación de los recursos que integran el patrimonio del Fondo;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
+
+XIII. Presentar para aprobación del Comisionado Ejecutivo de la Comisión Ejecutiva los estados financieros del fondo elaborados por el fiduciario y realizar las observaciones a que haya lugar;
 
 XIV. Elaborar, actualizar o modificar los Lineamientos para el funcionamiento del Fondo para su aprobación por el Pleno;
 
-XV. Someter a consideración del Pleno de la Comisión Ejecutiva la contratación de auditores externos para realizar la auditoría al Fondo de manera anual, y entregar para su conocimiento y aprobación el resultado de la misma;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
-XVI. Efectuar, en términos de las resoluciones de procedencia que emita el Pleno de la Comisión Ejecutiva, la entrega de los recursos correspondientes para el pago de medidas de ayuda, asistencia y atención, así como para el pago de la compensación subsidiaria para víctimas de delitos del fuero federal y compensación a víctimas de violación de derechos humanos cometidas por autoridades federales, conforme a la Ley, el Reglamento y los Lineamientos para el funcionamiento del Fondo, y
+XV. Someter a consideración del Comisionado Ejecutivo de la Comisión Ejecutiva la contratación de auditores externos para realizar la auditoría al Fondo de manera anual, y entregar para su conocimiento y aprobación el resultado de la misma;
 
-XVII. Las demás que sean necesarias para cumplir con el objeto de las funciones del Fondo, así como las que le confieren las disposiciones aplicables y las que le encomiende el Comisionado Presidente.
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
+
+XVI. Efectuar, en términos de las resoluciones de procedencia que emita el Comisionado Ejecutivo de la Comisión Ejecutiva, la entrega de los recursos correspondientes para el pago de medidas de ayuda, asistencia y atención, así como para el pago de la compensación subsidiaria para víctimas de delitos del fuero federal y compensación a víctimas de violación de derechos humanos cometidas por autoridades federales, conforme a la Ley, el Reglamento y los Lineamientos para el funcionamiento del Fondo, y
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
+
+XVII. Las demás que sean necesarias para cumplir con el objeto de las funciones del Fondo, así como las que le confieren las disposiciones aplicables y las que le encomiende el Comisionado Ejecutivo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE MARZO DE 2015)</small>
 
@@ -763,9 +843,9 @@ X. Coordinar e instrumentar, con auxilio de los Comités, los programas de capac
 
 XI. Recopilar y sistematizar la información necesaria para la elaboración y modificaciones del Modelo Integral de Atención a Víctimas, y
 
-> <small>(ADICIONADA, D.O.F. 10 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
-XII. Las demás que sean necesarias para el cumplimiento de sus funciones, así como las que le confieren las disposiciones aplicables y las que le encomiende el Comisionado Presidente.
+XII. Las demás que sean necesarias para el cumplimiento de sus funciones, así como las que le confieren las disposiciones aplicables y las que le encomiende el Comisionado Ejecutivo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE MARZO DE 2015)</small>
 
@@ -773,9 +853,9 @@ XII. Las demás que sean necesarias para el cumplimiento de sus funciones, así 
 
 Son atribuciones de la Dirección General de Vinculación Interinstitucional:
 
-> <small>(REFORMADA, D.O.F. 10 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
-I. Proponer al Comisionado Presidente un plan de trabajo encaminado a establecer y fomentar vínculos institucionales con las autoridades federales, así como de los tres órdenes de gobierno, en el ámbito de competencia de la Comisión Ejecutiva;
+I. Proponer al Comisionado Ejecutivo un plan de trabajo encaminado a establecer y fomentar vínculos institucionales con las autoridades federales, así como de los tres órdenes de gobierno, en el ámbito de competencia de la Comisión Ejecutiva;
 
 II. Realizar un seguimiento de las problemáticas que puedan enfrentar los colectivos de víctimas en las entidades federativas;
 
@@ -791,17 +871,17 @@ V. Vincular a las áreas técnicas de la Comisión Ejecutiva con las institucion
 
 VI. Fungir como enlace operativo con las Dependencias y Entidades de la Administración Pública Federal; el Poder Legislativo y Judicial Federales, así como con la sociedad civil y el sector privado, incluidos los grupos o colectivos de víctimas;
 
-> <small>(REFORMADA, D.O.F. 10 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
-VII. Proponer al Comisionado Presidente y ejecutar la agenda internacional de la Comisión Ejecutiva;
+VII. Proponer al Comisionado Ejecutivo y ejecutar la agenda internacional de la Comisión Ejecutiva;
 
-> <small>(REFORMADA, D.O.F. 10 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
-VIII. Proponer al Comisionado Presidente, en coordinación con la Dirección General de Comunicación Social, la elaboración y difusión de materiales de divulgación encaminados a que las personas víctimas y la sociedad en general, tengan conocimiento de las actividades que en materia de vinculación, realiza la Comisión Ejecutiva con otras dependencias y organismos de la administración pública federal, estatal o municipal, así como colectivos o grupos de víctimas, y
+VIII. Proponer al Comisionado Ejecutivo, en coordinación con la Dirección General de Comunicación Social, la elaboración y difusión de materiales de divulgación encaminados a que las personas víctimas y la sociedad en general, tengan conocimiento de las actividades que en materia de vinculación, realiza la Comisión Ejecutiva con otras dependencias y organismos de la administración pública federal, estatal o municipal, así como colectivos o grupos de víctimas;
 
-> <small>(ADICIONADA, D.O.F. 10 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
-IX. Las demás que sean necesarias para el cumplimiento de sus funciones, así como las que le confieren las disposiciones aplicables y las que le encomiende el Comisionado Presidente.
+IX. Las demás que sean necesarias para el cumplimiento de sus funciones, así como las que le confieren las disposiciones aplicables y las que le encomiende el Comisionado Ejecutivo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE MARZO DE 2015)</small>
 
@@ -829,9 +909,9 @@ IV. Participar en los procesos de modernización y adecuación del orden normati
 
 V. Coadyuvar con las autoridades correspondientes en los asuntos del orden jurídico de la Comisión Ejecutiva;
 
-> <small>(REFORMADA, D.O.F. 10 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
-VI. Someter a la consideración del Comisionado Presidente, las alternativas jurídicas de solucionar los asuntos considerados como relevantes y especiales para la Comisión Ejecutiva;
+VI. Someter a la consideración del Comisionado Ejecutivo, las alternativas jurídicas de solucionar los asuntos considerados como relevantes y especiales para la Comisión Ejecutiva;
 
 > <small>(REFORMADA, D.O.F. 10 DE MARZO DE 2015)</small>
 
@@ -849,9 +929,9 @@ XI. Revisar los aspectos jurídicos de los convenios y contratos que se deba sus
 
 XII. Tramitar la publicación en el Diario Oficial de la Federación de las disposiciones de carácter general que emita el Pleno de la Comisión Ejecutiva, y
 
-> <small>(REFORMADA, D.O.F. 10 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
-XIII. Las demás que sean necesarias para el cumplimiento de sus funciones, así como las que le confieren las disposiciones aplicables y las que le encomiende el Comisionado Presidente.
+XIII. Las demás que sean necesarias para el cumplimiento de sus funciones, así como las que le confieren las disposiciones aplicables y las que le encomiende el Comisionado Ejecutivo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE MARZO DE 2015)</small>
 
@@ -859,13 +939,17 @@ XIII. Las demás que sean necesarias para el cumplimiento de sus funciones, así
 
 Son atribuciones de la Dirección General de Comunicación Social:
 
-I. Proponer y aplicar la política general de comunicación social aprobada por el Pleno bajo la conducción del Comisionado Presidente;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
+
+I. Proponer y aplicar la política general de comunicación social bajo la conducción del Comisionado Ejecutivo;
 
 II. Coordinar y atender las relaciones públicas de la Comisión Ejecutiva con los medios de comunicación, nacionales e internacionales;
 
 III. Proponer y ejecutar instrumentos que permitan conocer la percepción de las actividades de la Comisión Ejecutiva entre el público en general;
 
-IV. Ejecutar las campañas de difusión institucionales que le sean instruidas por el Comisionado Presidente;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
+
+IV. Ejecutar las campañas de difusión institucionales que le sean instruidas por el Comisionado Ejecutivo;
 
 V. Promover la elaboración y difusión de materiales de divulgación en materia de ayuda, asistencia, protección, acceso a la justicia, reparación integral para las víctimas de delitos o de violaciones a derechos humanos, en coordinación con las otras Direcciones Generales de la Comisión Ejecutiva;
 
@@ -873,9 +957,9 @@ VI. Difundir la imagen institucional;
 
 VII. Captar, analizar y procesar la información que difundan los medios de comunicación acerca de la Comisión Ejecutiva y su reflejo en la calidad de su imagen, y
 
-> <small>(REFORMADA, D.O.F. 10 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
-VIII. Las demás que sean necesarias para el cumplimiento de sus funciones, así como las que le confieren las disposiciones aplicables y las que le encomiende el Comisionado Presidente.
+VIII. Las demás que sean necesarias para el cumplimiento de sus funciones, así como las que le confieren las disposiciones aplicables y las que le encomiende el Comisionado Ejecutivo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE MARZO DE 2015)</small>
 
@@ -929,9 +1013,9 @@ XVIII. Suscribir los acuerdos, contratos, convenios y demás actos e instrumento
 
 XIX. Suscribir los nombramientos y formatos únicos de personal de los servidores públicos de la Comisión Ejecutiva, con excepción de aquellos que ocupen las dos jerarquías administrativas inmediatas inferiores a la de los Comisionados, y
 
-> <small>(ADICIONADA, D.O.F. 10 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
-XX. Las demás que sean necesarias para el cumplimiento de sus funciones, así como las que le confieren las disposiciones aplicables y las que le encomiende el Comisionado Presidente.
+XX. Las demás que sean necesarias para el cumplimiento de sus funciones, así como las que le confieren las disposiciones aplicables y las que le encomiende el Comisionado Ejecutivo.
 
 > <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2015)</small>
 
@@ -999,7 +1083,9 @@ XVI. Coordinar al personal adscrito a las Delegaciones que realice funciones de 
 
 XVII. Autorizar de manera individual o en conjunto con los titulares de la Dirección General de la Asesoría Jurídica Federal y de la Coordinación General de Delegaciones, acciones concurrentes de dos o más delegaciones en entidades distintas a las de su circunscripción territorial, así como autorizar a una delegación en particular a ejercer acciones en entidades fuera de su esfera de competencia, en casos justificados y en los que sea necesario para la prestación del servicio, y
 
-XVIII. Las demás que sean necesarias para el cumplimiento de sus funciones, así como las que le confieren las disposiciones aplicables y las que le encomiende el Comisionado Presidente.
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
+
+XVIII. Las demás que sean necesarias para el cumplimiento de sus funciones, así como las que le confieren las disposiciones aplicables y las que le encomiende el Comisionado Ejecutivo.
 
 ### Capítulo Noveno. De los Comités
 
@@ -1009,9 +1095,9 @@ Para el ejercicio de sus atribuciones la Comisión Ejecutiva contará con los co
 
 Se creará un Comité Interdisciplinario Evaluador encargado de emitir opiniones técnicas sobre la inscripción de las solicitudes de las víctimas al registro y de elaborar los proyectos de compensación subsidiaria para que sean aprobados, en su caso, por la Comisión Ejecutiva.
 
-> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
-Al frente de cada uno de los Comités especializados habrá un Titular que contará con las subdirecciones, jefaturas de departamento, enlaces y demás personal profesional que autorice el Pleno a propuesta del Comisionado Presidente, de acuerdo con el presupuesto autorizado. En caso de ausencias, los titulares de los Comités serán suplidos por el servidor público del nivel inmediato inferior que designe el Titular o, en su caso, el Pleno.
+Al frente de cada uno de los Comités especializados habrá un Titular que contará con las subdirecciones, jefaturas de departamento, enlaces y demás personal profesional que autorice el Pleno a propuesta del Comisionado Presidente, de acuerdo con el presupuesto autorizado.
 
 > <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2015)</small>
 
@@ -1077,7 +1163,9 @@ VI. Someter a consideración del Pleno, el modelo de prevención, atención y sa
 
 VII. Implementar un programa estratégico continuo de capacitación de servidoras y servidores públicos en materia de género, y
 
-VIII. Las demás que sean necesarias para el cumplimiento de sus funciones, así como las que le confieren las disposiciones aplicables y las que le encomienden los Comisionados.
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
+
+VIII. Las demás que sean necesarias para el cumplimiento de sus funciones, así como las que le confieren las disposiciones aplicables y las que le encomiende el Comisionado Ejecutivo.
 
 > <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2015)</small>
 
@@ -1103,19 +1191,23 @@ VIII. Recibir de la unidad a cargo del expediente la propuesta de conclusión de
 
 IX. Recibir las solicitudes de compensación a efecto de integrar el expediente respectivo en los términos previstos por la Ley y su Reglamento;
 
-X. Elaborar el proyecto de dictamen de compensación y presentarlo al Comisionado Presidente para que el Pleno resuelva lo conducente;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
+
+X. Elaborar el proyecto de dictamen de compensación y presentarlo al Comisionado Ejecutivo para que resuelva lo conducente;
 
 XI. Recibir las solicitudes de medidas de ayuda inmediata a efecto de integrar el expediente respectivo;
 
-> <small>(REFORMADA, D.O.F. 10 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
-XII. Elaborar el proyecto de dictamen de medidas de ayuda inmediata y presentarlo al Comisionado Presidente para que el Pleno resuelva lo conducente;
+XII. Elaborar el proyecto de dictamen de medidas de ayuda inmediata y presentarlo al Comisionado Ejecutivo para que resuelva lo conducente;
 
 > <small>(ADICIONADA, D.O.F. 10 DE NOVIEMBRE DE 2015)</small>
 
 XIII. Expedir copias certificadas en los términos de la ley, de los documentos que obran en sus archivos, y
 
-XIV. Las demás que sean necesarias para el cumplimiento de sus funciones, así como las que le confieren las disposiciones aplicables y las que le encomiende el Comisionado Presidente.
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
+
+XIV. Las demás que sean necesarias para el cumplimiento de sus funciones, así como las que le confieren las disposiciones aplicables y las que le encomiende el Comisionado Ejecutivo.
 
 ### Capítulo Décimo. De la Secretaría Técnica del Pleno
 
@@ -1199,13 +1291,11 @@ Para la creación, reubicación o cierre de las Delegaciones y Subdelegaciones, 
 
 Los servidores públicos de dichas unidades administrativas ejercerán las atribuciones que la Ley, su Reglamento, el presente Estatuto y otros ordenamientos legales le confieran a la Comisión Ejecutiva, tanto en la circunscripción territorial que determine el Pleno de la Comisión mediante acuerdos publicados en el Diario Oficial de la Federación, como de manera concurrente en la circunscripción territorial de las Delegaciones y Subdelegaciones circunvecinas, conforme a los lineamientos que expida el mismo Pleno y sin perjuicio de las atribuciones que el presente Estatuto contempla para las Direcciones Generales de la Asesoría Jurídica Federal y de Atención Inmediata y Primer Contacto.
 
-> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 2015)</small>
+> <small>(DEROGADO QUINTO PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
-En caso de ausencias de los Delegados, éstos serán suplidos por los Subdelegados.
+> <small>(DEROGADO SEXTO PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
-Los Subdelegados serán suplidos por el servidor público inmediato inferior que de ellos dependa, en los asuntos de su competencia.
-
-En el caso de aquellos Delegados que no cuenten con Subdelegados que los suplan, su ausencia será suplida por el Coordinador General de Delegaciones.
+> <small>(DEROGADO SÉPTIMO PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
 > <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 2015)</small>
 
@@ -1283,11 +1373,13 @@ XVII. Estado de Yucatán
 
 a) Delegación Yucatán, con sede en la ciudad de Mérida.
 
-> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 43.
 
-Las Delegaciones serán dirigidas por un Delegado, quien será nombrado y removido por el Comisionado Presidente.
+Las Delegaciones serán dirigidas por un Delegado, quien será nombrado y removido por el Comisionado Ejecutivo.
+
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2015)</small>
 
 Los Delegados se encargarán de dirigir y supervisar el trabajo, el control administrativo, la gestión y el seguimiento de acciones con personal adscrito a la delegación para cubrir las necesidades del servicio.
 
@@ -1297,15 +1389,17 @@ Los Delegados se encargarán de dirigir y supervisar el trabajo, el control admi
 
 Son atribuciones de la Coordinación General de Delegaciones:
 
-I. Coordinar, supervisar y evaluar las tareas que realicen las Delegaciones de la Comisión Ejecutiva, en aspectos que no sean competencia de otras unidades administrativas y de conformidad con los criterios que defina el Comisionado Presidente;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
-> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2015)</small>
+I. Coordinar, supervisar y evaluar las tareas que realicen las Delegaciones de la Comisión Ejecutiva, en aspectos que no sean competencia de otras unidades administrativas y de conformidad con los criterios que defina el Comisionado Ejecutivo;
 
-II. Proponer al Comisionado Presidente la creación, modificación o supresión de las Delegaciones y Subdelegaciones;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
-> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2015)</small>
+II. Proponer al Comisionado Ejecutivo la creación, modificación o supresión de las Delegaciones y Subdelegaciones;
 
-III. Sugerir al Comisionado Presidente la designación y remoción de los titulares de las Delegaciones y Subdelegaciones;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
+
+III. Sugerir al Comisionado Ejecutivo la designación y remoción de los titulares de las Delegaciones y Subdelegaciones;
 
 IV. Fungir como enlace y vínculo permanente de coordinación entre las unidades administrativas centrales y las delegaciones, así como entre las mismas delegaciones, con el fin de promover el mejor desarrollo de sus actividades y apoyarlas en sus requerimientos;
 
@@ -1359,11 +1453,13 @@ XX. Autorizar de manera individual o en conjunto con los titulares de las direcc
 
 XXI. Expedir copias certificadas en los términos de la ley, de los documentos que obran en sus archivos, y
 
-XXII. Las demás que le confieran las disposiciones legales y administrativas aplicables, así como las que le encomiende el Comisionado Presidente.
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
-> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 2015)</small>
+XXII. Las demás que le confieran las disposiciones legales y administrativas aplicables, así como las que le encomiende el Comisionado Ejecutivo.
 
-La Coordinación General de Delegaciones estará adscrita al Comisionado Presidente. En caso de ausencias, el Coordinador General será suplido por el servidor público de la Comisión Ejecutiva del nivel jerárquico inmediato inferior que designe el Comisionado Presidente, a propuesta del propio Coordinador General.
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2017)</small>
+
+La Coordinación General de Delegaciones estará adscrita al Comisionado Ejecutivo.
 
 > <small>(ADICIONADO, D.O.F. 10 DE MARZO DE 2015)</small>
 
@@ -1389,9 +1485,9 @@ VII. Recopilar la información relacionada con la atención que se proporciona a
 
 VIII. Integrar los expedientes relacionados con los asuntos de su competencia, expedir copias certificadas de las constancias que obren en los mismos y supervisar su resguardo y, así como, implementar y actualizar la base de datos de los expedientes generados por el personal a su cargo;
 
-> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
-IX. Informar, por conducto del Coordinador General de Delegaciones, al Comisionado Presidente y, en su caso, a la unidad central que corresponda, sobre el cumplimiento de sus atribuciones, el desempeño de sus actividades y el desarrollo y cumplimiento de sus programas;
+IX. Informar, por conducto del Coordinador General de Delegaciones, al Comisionado Ejecutivo y, en su caso, a la unidad central que corresponda, sobre el cumplimiento de sus atribuciones, el desempeño de sus actividades y el desarrollo y cumplimiento de sus programas;
 
 > <small>(ADICIONADA, D.O.F. 29 DE JUNIO DE 2015)</small>
 
@@ -1401,7 +1497,9 @@ X. Promover y fortalecer acciones de coordinación con las autoridades federales
 
 XI. Recopilar y proporcionar, a través del Coordinador General de Delegaciones, información de las entidades federativas, sus regiones y municipios, que sea de interés para el ejercicio de las atribuciones de las unidades administrativas de la Comisión Ejecutiva, y
 
-XII. Las demás que le confieran las disposiciones aplicables, así como las que le encomiende el Pleno o el Comisionado Presidente.
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
+
+XII. Las demás que le confieran las disposiciones aplicables, así como las que le encomiende el Comisionado Ejecutivo.
 
 > <small>(ADICIONADO, D.O.F. 29 DE JUNIO DE 2015)</small>
 
@@ -1442,5 +1540,11 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Las referencias que las disposiciones hagan a la Unidad de Atención Inmediata y Primer Contacto, se entenderán hechas a la Dirección General de Atención Inmediata y Primer Contacto, conforme a lo dispuesto en el Estatuto Orgánico de la Comisión Ejecutiva de Atención a Víctimas.
 
 D.O.F. 10 DE NOVIEMBRE DE 2015.
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DE LA COMISIÓN EJECUTIVA DE ATENCIÓN A VÍCTIMAS."]
 
 ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
