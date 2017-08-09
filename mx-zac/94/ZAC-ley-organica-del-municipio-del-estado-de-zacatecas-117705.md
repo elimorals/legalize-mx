@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-municipio-del-estado-de-zacatecas-117705"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-12-03"
-last_updated: "2016-12-03"
+last_updated: "2017-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL MUNICIPIO DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 3 de diciembre de 2016.
 
@@ -2013,7 +2013,7 @@ VI. Promover el respeto de los derechos humanos de las niñas y fomentar su desa
 
 VII. Coordinar con las autoridades competentes, programas de atención psicoemocional y asistencia jurídica a las mujeres que sean objeto de cualquier tipo de violencia en el Municipio;
 
-VIII. Proponer políticas y programas municipales de apoyo a personas cuidadoras de personas con discapacidad y adultas mayores, y gestionar los recursos. federales y estatales necesarios para el funcionamiento de estos programas;
+VIII. Proponer políticas y programas municipales de apoyo a personas cuidadoras de personas con discapacidad y adultas mayores, y gestionar los recursos federales y estatales necesarios para el funcionamiento de estos programas;
 
 IX. Promover la inclusión igualitaria de hombres y mujeres en los servicios de cuidados a las personas con discapacidad y adultas mayores;
 
@@ -3213,19 +3213,31 @@ Planeación democrática
 
 El Municipio debe promover su propio desarrollo mediante el método de planeación democrática y contribuir así al desarrollo integral del Estado de Zacatecas.
 
-El Ayuntamiento es el responsable de la planeación del desarrollo municipal a través de un Consejo de Planeación Municipal, el cual deberá constituirse dentro de los sesenta días naturales siguientes a la fecha de la instalación del mismo.
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2017)</small>
 
-Consejo de Planeación Municipal
+El Ayuntamiento es el responsable de la planeación del desarrollo municipal a través de un Comité de Planeación para el Desarrollo Municipal, el cual deberá constituirse dentro de los sesenta días naturales siguientes a la fecha de la instalación del mismo.
+
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2017)</small>
+
+Comité de Planeación Municipal
 
 ###### Artículo 223.
 
-El Consejo de Planeación Municipal es un organismo técnico, auxiliar de los ayuntamientos en funciones relativas a la planeación, y estará constituido por:
+El Comité de Planeación para el Desarrollo Municipal es la instancia responsable de la planeación en el ámbito municipal y estará integrado por:
 
-I. El Presidente Municipal y el número de regidores que designe el Cabildo;
+I. El Presidente Municipal quien presidirá;
 
-II. Un secretario técnico, quien será designado por el propio Ayuntamiento a propuesta del Presidente Municipal; y
+II. El número de regidores que designe el Cabildo;
 
-III. Los integrantes de los comités de participación social y grupos organizados que considere conveniente el Ayuntamiento.
+III. Un Coordinador General, quien será el titular de la Unidad o Instituto Municipal de Planeación del municipio que corresponda;
+
+IV. Un representante de la Coordinación;
+
+V. Los representantes de las dependencias o entidades de la administración pública federal y estatal que realicen programas en el Municipio;
+
+VI. Representantes de los Comités de Participación Social, de acuerdo al Reglamento que para tal efecto se expida, y
+
+VII. Los representantes de las organizaciones sociales y privadas en el municipio, de acuerdo al Reglamento que para tal efecto se expida.
 
 ### Capítulo II. Plan Municipal de Desarrollo
 
@@ -3265,15 +3277,19 @@ Contenido del Plan Municipal de Desarrollo
 
 Los planes municipales de desarrollo deben contener un diagnóstico preciso sobre las condiciones socio-económicas y socio-culturales del Municipio; las metas a alcanzar, las estrategias a seguir, los plazos de ejecución, las dependencias y organismos responsables de su cumplimiento y las bases de coordinación y concertación que se requieren para su óptima aplicación.
 
-El Plan Municipal de Desarrollo deberá elaborarse bajo criterios que permitan una relación estrecha y congruente en sus contenidos con el Plan de Desarrollo del Estado de Zacatecas, el Plan Nacional de Desarrollo, así como con los programas sectoriales, regionales y especiales que se deriven de éstos últimos, manteniendo una continuidad programática de mediano y largo plazos. Dicho Plan también deberá vincularse con los programas federales y estatales en materia de conectividad.
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2017)</small>
+
+El Plan Municipal de Desarrollo deberá elaborarse bajo criterios que permitan una relación estrecha y congruente en sus contenidos con el Plan Estatal de Desarrollo, el Plan Nacional de Desarrollo, así como con los programas sectoriales, especiales, regionales y territoriales que se deriven de éstos últimos, manteniendo una continuidad programática de mediano y largo plazos. Dicho Plan también deberá vincularse con los programas federales y estatales en materia de conectividad.
+
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2017)</small>
 
 Informes del avance programático
 
 ###### Artículo 228.
 
-En cumplimiento de los objetivos y metas establecidos en el Plan Municipal de Desarrollo, los titulares de las dependencias, organismos y demás servidores públicos serán responsables de que los programas se ejecuten con oportunidad, eficiencia y eficacia, atendiendo el mejoramiento de los indicadores para el desarrollo social y humano, y obligatoriamente enviarán al Consejo de Planeación Municipal cada tres meses y cuando éste así lo solicite, los informes del avance programático para su revisión, seguimiento y evaluación.
+En cumplimiento de los objetivos y metas establecidos en el Plan Municipal de Desarrollo, los titulares de las dependencias, organismos y demás servidores públicos serán responsables de que los programas se ejecuten con oportunidad, eficiencia y eficacia, atendiendo el mejoramiento de los indicadores para el desarrollo social y humano, y obligatoriamente enviarán al Comité de Planeación para el Desarrollo Municipal cada tres meses y cuando éste así lo solicite, los informes del avance programático para su revisión, seguimiento y evaluación.
 
-Lo anterior con objeto de que dicho Consejo pueda verificar periódicamente la relación que guardan las actividades con los objetivos, metas y prioridades del Plan y sus programas operativos, así como evaluar los resultados de su ejecución y en su caso emitir los dictámenes de reconducción y optimización que correspondan.
+Lo anterior con objeto de que dicho Comité pueda verificar periódicamente la relación que guardan las actividades con los objetivos, metas y prioridades del Plan y sus programas presupuestarios, así como evaluar los resultados de su ejecución y en su caso emitir los dictámenes de reconducción y optimización que correspondan.
 
 Sistema de seguimiento
 
@@ -3361,11 +3377,13 @@ Modificaciones al Plan
 
 Cuando lo demande el interés social o lo requieran las circunstancias de tipo técnico o económico, los planes y programas podrán ser reformados o adicionados a través del mismo procedimiento que se siguió para su aprobación.
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2017)</small>
+
 Coordinación y ejecución
 
 ###### Artículo 237.
 
-La coordinación en la ejecución del Plan y sus programas, debe proponerse por el Ayuntamiento al Ejecutivo del Estado a través del Consejo de Planeación Municipal, en el marco del Convenio Único de Desarrollo Estado-Municipio.
+La coordinación en la ejecución del Plan y sus programas, debe proponerse por el Ayuntamiento al Ejecutivo del Estado a través del Comité de Planeación para el Desarrollo Municipal, en el marco del Convenio Único de Desarrollo Estado-Municipio.
 
 ## TÍTULO DÉCIMO. DISPOSICIONES DE SUPLETORIEDAD
 
@@ -3892,3 +3910,17 @@ DADO en la Sala de Sesiones de la Honorable Sexagésima Primera Legislatura del 
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 
 DADO en el Despacho del Poder Ejecutivo del Estado, a los veinticuatro días del mes de noviembre del año dos mil dieciséis. EL GOBERNADOR DEL ESTADO DE ZACATECAS.- ALEJANDRO TELLO CRISTERNA. LA SECRETARIA GENERAL DE GOBIERNO.- FABIOLA GILDA TORRES RODRÍGUEZ. Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 189.- QUE CONTIENE LA LEY DE PLANEACIÓN DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, REFORMAS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS Y REFORMAS A LA LEY ORGÁNICA DEL MUNICIPIO DEL ESTADO DE ZACATECAS".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley de Planeación para el Desarrollo del Estado de Zacatecas, contenida en el Decreto No. 229, publicado en el Suplemento al número 37 del Periódico Oficial, Órgano del Gobierno del Estado, de fecha 7 de mayo de 2003, y se derogan las disposiciones que contravengan al presente Decreto en materia de planeación del Estado.
+
+TERCERO. El Ejecutivo del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, deberán emitir en un término no mayor a ciento veinte días naturales siguientes a la entrada en vigor de este ordenamiento, los reglamentos y disposiciones referidas en el presente Decreto.
+
+CUARTO. Para efectos de este Decreto, el Ejecutivo del Estado enviará el 8 de septiembre de 2018 el Programa General Prospectivo a la Legislatura del Estado para su aprobación.
