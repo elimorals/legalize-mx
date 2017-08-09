@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-de-la-administracion-publica-del-estado-de-118697"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-11-30"
-last_updated: "2016-11-30"
+last_updated: "2017-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "ZAC"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE ZACATECAS
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR EL 1 DE ENERO DE 2017.]</small>
-
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2017.
 
 Ley publicada en el Suplemento 3 al Número 96 del Periódico Oficial del Estado de Zacatecas, el miércoles 30 de noviembre de 2016.
 
@@ -213,7 +211,9 @@ VI. Realizar las manifestaciones de impacto regulatorio de los trámites y servi
 
 VII. Participar, en el ámbito de su competencia, en los diferentes Órganos de Gobierno que instruyan otros ordenamientos legales;
 
-VIII. Formular y proponer para su análisis y, en su caso, aprobación a la Coordinación Estatal de Planeación el Programa Operativo Anual de su Dependencia;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2017)</small>
+
+VIII. Formular y proponer para su análisis y, en su caso, aprobación a la Coordinación Estatal de Planeación los programas presupuestarios de su Dependencia;
 
 IX. Realizar acciones en materia de transparencia, rendición de cuentas y combate a la corrupción para el mejor seguimiento y evaluación del ejercicio presupuestal; y
 
@@ -479,7 +479,9 @@ VI. Definir, conjuntamente con la Secretaría de Finanzas y la Secretaría de la
 
 VII. Normar las actividades de recursos humanos y materiales en las coordinaciones administrativas de las dependencias de la Administración Pública Estatal, así como asesorar y apoyar el desempeño de las áreas administrativas de las entidades paraestatales;
 
-VIII. Asesorar y apoyar a las coordinaciones administrativas de las Dependencias y Entidades en la formulación de sus Anteproyectos Operativos Anuales en materia de administración de recursos humanos, materiales y de servicios;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2017)</small>
+
+VIII. Asesorar y apoyar a las coordinaciones administrativas de las Dependencias y Entidades en la formulación de sus Anteproyectos en materia de administración de recursos humanos, materiales y de servicios;
 
 IX. Proponer, conjuntamente con las Secretarías de Finanzas y de la Función Pública, al Gobernador, la creación de nuevas unidades administrativas en las Dependencias y Entidades;
 
@@ -1253,7 +1255,9 @@ VIII. Definir, elaborar, coordinar y difundir diagnósticos y estudios con enfoq
 
 IX. Proponer estrategias transversales para la orientación de recursos a proyectos de inversión con los Gobiernos estatal y federal, en colaboración con la Coordinación Estatal de Planeación, que contribuyan al mejoramiento de las condiciones económicas, políticas, culturales y sociales de las mujeres, concentrando esfuerzos a los sectores de mayor rezago en la Entidad e implementar mecanismos de seguimiento para garantizar la ejecución de los proyectos con perspectiva de derechos humanos e igualdad de género;
 
-X. Coadyuvar con la Coordinación Estatal de Planeación para garantizar que la política transversal de derechos humanos de las mujeres impacte en una planeación con perspectiva de género en todas las instancias de la administración pública estatal dentro de sus programas operativos anuales;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2017)</small>
+
+X. Coadyuvar con la Coordinación Estatal de Planeación para garantizar que la política transversal de derechos humanos de las mujeres impacte en una planeación con perspectiva de género en todas las instancias de la administración pública estatal dentro de sus programas presupuestarios;
 
 XI. Promover que los medios de comunicación masiva fomenten una cultura que elimine estereotipos e imágenes que atentan contra la dignidad de las mujeres, y propiciar y difundir masivamente una cultura de no violencia hacia las mujeres, de igualdad y respeto entre el género, así como del lenguaje incluyente;
 
@@ -1393,7 +1397,9 @@ I. Ejercer la rectoría del Estado en materia de planeación y evaluación;
 
 II. Normar, definir e implementar el Sistema Estatal de Planeación;
 
-III. Coordinar el proceso de elaboración del Plan Estatal de Desarrollo y someterlo a la aprobación del Gobernador;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2017)</small>
+
+III. Coordinar el proceso de elaboración del Plan Estatal de Desarrollo, en congruencia con el Plan Nacional de Desarrollo, y someterlo a la aprobación del Gobernador;
 
 IV. Presentar, a más tardar el treinta y uno de marzo del año que corresponda, en conjunto con la Secretaría de Infraestructura, el Programa Estatal de Obra Pública.
 
@@ -1401,7 +1407,9 @@ V. Orientar a las Dependencias y Entidades para que sus programas, proyectos y a
 
 VI. Analizar y aprobar las políticas, planes, programas, proyectos y obras de cada una de las Dependencias con base en los lineamientos que emitan para tal efecto;
 
-VII. Conducir el proceso de integración y elaboración de los Planes Operativos Anuales de cada Dependencia, así como orientar la integración y elaboración de sus Planes al resto de las Entidades;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2017)</small>
+
+VII. Conducir el proceso de integración y elaboración de los programas presupuestarios de cada Dependencia, así como orientar la integración y elaboración de sus Planes al resto de las Entidades;
 
 VIII. Aprobar los lineamientos y criterios para la definición de zonas de atención prioritaria;
 
@@ -1421,7 +1429,9 @@ XV. Dar seguimiento y realizar la evaluación de resultados de las inversiones e
 
 XVI. Presidir el Comité de Planeación para el Desarrollo del Estado de Zacatecas;
 
-XVII. Actuar como autoridad coordinadora de los Consejos de Planeación para el Desarrollo Regional del Estado;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2017)</small>
+
+XVII. Actuar como autoridad coordinadora de los Comités de Planeación para el Desarrollo Regional y Territorial;
 
 XVIII. Participar en los comités, comisiones, subcomisiones y órganos de gobierno de las Entidades, por disposición legal o por instrucción del Gobernador;
 
@@ -1612,3 +1622,17 @@ DADO en la Sala de Sesiones de la Honorable Sexagésima Primera Legislatura del 
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 
 DADO en el Despacho del Poder Ejecutivo del Estado, a los veintiocho días del mes de noviembre del año dos mil dieciséis. EL GOBERNADOR DEL ESTADO DE ZACATECAS.- ALEJANDRO TELLO CRISTERNA. LA SECRETARIA GENERAL DE GOBIERNO.- FABIOLA GILDA TORRES RODRÍGUEZ. Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 189.- QUE CONTIENE LA LEY DE PLANEACIÓN DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, REFORMAS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS Y REFORMAS A LA LEY ORGÁNICA DEL MUNICIPIO DEL ESTADO DE ZACATECAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley de Planeación para el Desarrollo del Estado de Zacatecas, contenida en el Decreto No. 229, publicado en el Suplemento al número 37 del Periódico Oficial, Órgano del Gobierno del Estado, de fecha 7 de mayo de 2003, y se derogan las disposiciones que contravengan al presente Decreto en materia de planeación del Estado.
+
+TERCERO. El Ejecutivo del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, deberán emitir en un término no mayor a ciento veinte días naturales siguientes a la entrada en vigor de este ordenamiento, los reglamentos y disposiciones referidas en el presente Decreto.
+
+CUARTO. Para efectos de este Decreto, el Ejecutivo del Estado enviará el 8 de septiembre de 2018 el Programa General Prospectivo a la Legislatura del Estado para su aprobación.
