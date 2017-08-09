@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-auditoria-superior-del-estado-de-8597
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-02-06"
-last_updated: "2016-09-26"
+last_updated: "2017-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 6 de febrero de 2012.
 
@@ -101,7 +101,9 @@ La estructura orgánica de las unidades administrativas de fiscalización de la 
 
 I. Auditores Especiales;
 
-II. Directores de auditoría;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2017)</small>
+
+II. Directores generales de auditoría y directores de auditoría;
 
 III. Subdirectores de auditoría;
 
@@ -399,9 +401,45 @@ XXV. Las demás que les confieran la Ley, el Reglamento, los manuales de organiz
 
 Corresponde a los Directores de Auditoría de Obra Pública y Desarrollo Urbano, adscritos a la Auditoría Especial de Gobierno del Estado y Organismos Públicos Autónomos y a la Auditoría Especial de Municipios, según sea el caso, auxiliar a éstos en la fiscalización de la aplicación, uso y destino de recursos públicos, en relación con la planeación, proyecto urbanístico-arquitectónico, programación, elaboración del presupuesto, adjudicación, contratación, ejecución, conservación, modificación, ejercicio de recursos, entrega, evaluación y control de las obras públicas, de los bienes adquiridos y los servicios contratados relacionados con las mismas, y para la evaluación y comprobación de su calidad así como para la verificación de la observancia de la Ley de Desarrollo Urbano del Estado de Nuevo León, planes y programas de desarrollo urbano y su zonificación, y demás disposiciones legales de la materia, por parte de las autoridades estatales y municipales.
 
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 17.
 
-(DEROGADO, P.O. 8 DE MAYO DE 2015)
+Corresponde a los Directores Generales de Auditoría, adscritos a la Auditoría Especial de Gobierno del Estado y Organismos Públicos Autónomos y a la Auditoría Especial de Municipios, según corresponda, el ejercicio de las facultades y atribuciones siguientes.
+
+I. Administrar los esfuerzos de la fiscalización de la Cuenta Pública de los entes públicos mediante la coordinación de las funciones asignadas a cada una de las direcciones del área;
+
+II. Supervisar las auditorías o revisiones asignadas al personal a su cargo, conforme al Programa Operativo Anual;
+
+III. Revisar el cumplimiento del programa de auditoría autorizado por el Auditor Especial o el Auditor General;
+
+IV. Proponer al Auditor Especial, normas, procedimientos, métodos o sistemas para la integración de la contabilidad y archivo, de los libros y documentos justificativos y comprobatorios de la situación financiera, presupuestal y patrimonial de las entidades fiscalizadas;
+
+V. Verificar que la información y datos necesarios proporcionados por los entes públicos, cumplan con las disposiciones legales correspondientes;
+
+VI. Coordinar al personal técnicamente calificado para llevar a cabo las órdenes de visita;
+
+VII. Supervisar el proceso de las auditorías y el levantamiento de actas de inicio e inspecciones en que intervenga;
+
+VIII. Llevar a cabo revisiones a los papeles de trabajo y supervisar los trabajos de fiscalización realizados por el personal de la Auditoría Especial de su adscripción, y en su caso, adoptar las medidas necesarias que aseguren la observancia de las normas de auditoría y las mejores prácticas en la materia;
+
+IX. Valorar la procedencia de las aclaraciones, justificaciones y documentos que se remitan a la Auditoría Superior del Estado para su consideración en la solventación del Comunicado de Observaciones Preliminares;
+
+X. Supervisar en coordinación con la Unidad de Asuntos Jurídicos las recomendaciones emitidas para que éstas sean implementadas en tiempo y forma por las entidades fiscalizadas;
+
+XI. Revisar la documentación y dictámenes técnicos que emitan los Directores de Auditoría sobre la solventación o subsistencia de las observaciones e irregularidades, y dar seguimiento a la tramitación de los procedimientos para el fincamiento de responsabilidades resarcitorias, con objeto de que el Auditor General esté en posibilidades de emitir oportunamente la resolución respectiva;
+
+XII. Supervisar y controlar en coordinación con la Unidad de Asuntos Jurídicos, el seguimiento oportuno de las acciones y recomendaciones emitidas por la Auditoría Superior del Estado derivado de la fiscalización;
+
+XIII. Revisar la opinión que emitan los Directores de Auditoría sobre el cumplimiento por parte de los entes públicos a sus obligaciones sobre la publicación de su información financiera de acuerdo con las disposiciones de la Ley General de Contabilidad Gubernamental, Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, las normas expedidas por el Consejo Nacional de Armonización Contable y demás aplicables;
+
+XIV. Proponer a su superior jerárquico los proyectos del manual de organización, lineamientos y demás normatividad correspondientes a la dirección general a su cargo, así como las modificaciones requeridas;
+
+XV. Coordinar las acciones necesarias para cumplir con las disposiciones jurídicas aplicables en las materas de transparencia, acceso a la información pública y protección de datos personales, así como para la clasificación, conservación, guarda y custodia de los archivos a su cargo;
+
+XVI. Evaluar el desempeño de los Directores a su cargo, conforme a las políticas y procedimientos establecidos en la Auditoría Superior del Estado; y
+
+XVII. Las demás que le confieren el Reglamento, los manuales de organización y procedimientos de la Auditoría Superior del Estado o le sean encomendadas por su superior jerárquico.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2015)</small>
 
@@ -479,9 +517,13 @@ XXVII. Emitir y comunicar a los entes públicos las recomendaciones a la gestió
 
 XXVIII. Emitir el dictamen técnico de auditoría y en su caso, remitirlo a la Unidad de Asuntos Jurídicos, dentro del término definido por la Ley para el ejercicio de las acciones derivadas de la fiscalización;
 
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2017)</small>
 
-XXIX. Las demás que les confieran el Reglamento, los manuales de organización y procedimientos de la Auditoría Superior del Estado o le sean encomendadas por su superior jerárquico.
+XXIX. Emitir el dictamen de opinión sobre el cumplimiento por parte de los entes públicos a sus obligaciones sobre la publicación de su información financiera de acuerdo con las disposiciones de la Ley General de Contabilidad Gubernamental, Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, las normas expedidas por el Consejo Nacional de Armonización Contable y demás aplicables; y
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2017)</small>
+
+XXX. Las demás que les confieran el Reglamento, los manuales de organización y procedimientos de la Auditoría Superior del Estado o le sean encomendadas por su superior jerárquico.
 
 ###### Artículo 19.
 
@@ -851,7 +893,9 @@ IX. Elaborar los proyectos de convenios de coordinación y colaboración, con lo
 
 X. Elaborar los contratos y convenios en materia de adquisiciones, arrendamientos, prestación de servicios y obra pública, con base en los proyectos y la información que proporcione la Unidad General de Administración, y emitir opinión jurídica sobre las bases y criterios para su adjudicación;
 
-XI. Notificar los actos emitidos por la Auditoría Superior del Estado por sí o a través del personal que designe para tal efecto;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2017)</small>
+
+XI. Notificar los actos emitidos por la Auditoría Superior del Estado por sí o a través del personal que designe para tal efecto, supervisando la oportunidad con la que se lleven a cabo dichas notificaciones;
 
 XII. Emitir los lineamientos, guías, bases, políticas y demás instrumentos que faciliten al personal de la Auditoría Superior del Estado la práctica idónea de las auditorías, visitas e inspecciones, así como la fundamentación y motivación de los actos que emitan éstos en el proceso de fiscalización;
 
@@ -863,7 +907,9 @@ XV. Participar en la elaboración de los Informes del Resultado, en el ámbito d
 
 XVI. Devolver a la unidad administrativa de fiscalización correspondiente, el dictamen y expediente técnico de auditoría, cuando se detecte que no se encuentra debidamente integrado, formulando las observaciones respectivas;
 
-XVII. Solicitar a las unidades administrativas de fiscalización la opinión técnica que se requiera durante el procedimiento para el fincamiento de responsabilidades resarcitorias;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2017)</small>
+
+XVII. Proyectar, instruir, elaborar y tramitar los acuerdos y resoluciones de los procedimientos para el fincamiento de las responsabilidades resarcitorias a que den lugar las irregularidades detectadas en la fiscalización, con base en el dictamen y expediente técnico de auditoría expedido por las unidades administrativas de fiscalización, y solicitar durante el procedimiento a las unidades administrativas de fiscalización la opinión técnica que se requiera para el fincamiento de responsabilidades resarcitorias, proporcionándoselos de manera oportuna al Auditor General con el objeto de que esté en posibilidad de instruir y resolver lo conducente dentro de los plazos legales correspondientes;
 
 XVIII. Desahogar los procedimientos y elaborar los proyectos para la imposición de las multas que en términos de la Ley procedan, con base en los elementos que le sean proporcionados por las unidades administrativas de fiscalización correspondientes;
 
@@ -879,17 +925,43 @@ XXIII. Llevar un registro de los servidores públicos, particulares, personas f�
 
 XXIV. Coadyuvar con el Ministerio Público en los procedimientos penales indagatorios y procesos judiciales correspondientes;
 
-XXV. Dar seguimiento a las acciones legales promovidas o interpuestas con motivo de los resultados obtenidos en la fiscalización de las cuentas públicas;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2017)</small>
+
+XXV. Dar seguimiento de manera oportuna, en coordinación con los Auditores Especiales y con los Directores Generales de Auditoría, a las acciones legales promovidas o interpuestas con motivo de los resultados obtenidos en la fiscalización de las cuentas públicas;
 
 XXVI. Elaborar los finiquitos de las cuentas públicas para su expedición por el Auditor General;
 
 XXVII. Tramitar, instruir y elaborar los proyectos de resolución de los recursos de reconsideración que se interpongan en términos de la Ley;
 
-XXVIII. Promover y en su caso, ejercer las acciones legales correspondientes en contra de los servidores públicos adscritos a la Auditoría Superior del Estado, con base en los dictámenes de procedencia y demás elementos que le remita la Contraloría Interna;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2017)</small>
+
+XXVIII. Supervisar al Director de la Unidad de Investigación y al Director de la Unidad de Substanciación en todas sus atribuciones y funciones;
 
 XXIX. Formar parte de los comités, comisiones o grupos de trabajo que le designe el Auditor General; y
 
 XXX. Las demás que le confieran la Ley, el Reglamento u otras disposiciones legales, así como los manuales de organización y procedimientos de la Auditoría Superior del Estado o le sean asignadas por el Auditor General.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2017)</small>
+
+###### Artículo 30 Bis.
+
+Corresponde al Director de la Unidad de Investigación, adscrito a la Unidad de Asuntos Jurídicos, el ejercicio de las facultades y atribuciones siguientes:
+
+I. Recibir de las unidades administrativas de fiscalización de la Auditoría Superior del Estado de Nuevo León, los dictámenes técnicos por la falta de solventación de los pliegos presuntivos de responsabilidades o por las presuntas responsabilidades administrativas;
+
+II. Realizar investigaciones debidamente fundadas y motivadas respecto de las conductas de los servidores públicos y particulares que puedan constituir responsabilidades administrativas o penales, en su caso;
+
+III. Incorporar a sus funciones las técnicas, tecnologías y métodos de investigación que observen las mejores prácticas nacionales e internacionales;
+
+IV. Acceder a la información necesaria para el esclarecimiento de los hechos con inclusión de aquella, que las disposiciones legales en la materia, considere de carácter confidencial, debiendo mantener la misma reserva y secrecía conforme a lo que se determine en las leyes aplicables;
+
+V. Formular requerimientos de información a los entes públicos y las personas físicas o morales que sean sujetos de investigación por presuntas irregularidades cometidas en el ejercicio de sus funciones;
+
+VI. Solicitar información o documentación a cualquier persona física o moral con el objeto de esclarecer los hechos relacionados con la comisión de presuntas faltas administrativas o penales, según corresponda;
+
+VII. Notificar al denunciante, cuando este fuera identificable, que los hechos investigados hayan sido calificados como no graves; y
+
+VIII. Las demás que le confieran la Ley, la Ley General de Responsabilidades Administrativas, el Reglamento u otras disposiciones legales, así como lo manuales de organización y procedimientos de la Auditoría Superior del Estado o le sean asignadas por su superior jerárquico.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2015)</small>
 
@@ -1427,7 +1499,7 @@ EL C. AUDITOR GENERAL DEL ESTADO DE NUEVO LEÓN
 
 C.P. SERGIO MARENCO SÁNCHEZ
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 24 DE DICIEMBRE DE 2012.
 
@@ -1441,10 +1513,16 @@ P.O. 29 DE ENERO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE REFORMA EL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE NUEVO LEÓN”.]
 
-Artículo Primero. La presente reforma al Reglamento Interior de la Auditoría Superior del Estado de Nuevo León entrarán en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado de Nuevo León.
+Artículo Primero. La presente reforma al Reglamento Interior de la Auditoría Superior del Estado de Nuevo León entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 P.O. 26 DE SEPTIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE NUEVO LEÓN”.]
 
 Artículo Único. Las presentes reformas al Reglamento Interior de la Auditoría Superior del Estado de Nuevo León entrarán en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE REFORMA EL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE NUEVO LEÓN”.]
+
+Artículo Único. La presente reforma al Reglamento Interior de la Auditoría Superior del Estado de Nuevo León entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado de Nuevo León.
