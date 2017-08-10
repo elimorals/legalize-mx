@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-pemex-logistica-110343"
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-10-29"
-last_updated: "2015-10-29"
+last_updated: "2017-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110343&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2015-10-19"
 ---
 # ESTATUTO ORGANICO DE PEMEX LOGISTICA
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DE PEMEX LOGÍSTICA, PUBLICADO EN EL D.O.F. DE 10 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DE PEMEX LOGÍSTICA, PUBLICADO EN EL D.O.F. DE 10 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 ESTATUTO ORGÁNICO DE PEMEX LOGÍSTICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE AGOSTO DE 2017 (ABROGADO).
 
 Estatuto publicado en la Primera Sección de Diario Oficial de la Federación, el jueves 29 de octubre de 2015.
 
@@ -1698,3 +1698,37 @@ SEXTO. Las obligaciones asumidas por Pemex-Exploración y Producción, Pemex-Ref
 El presente Estatuto Orgánico de la Empresa Productiva del Estado subsidiaria de Petróleos Mexicanos denominada Pemex Logística, fue aprobado por el Consejo de Administración de Pemex Logística, con fundamento en el artículo 12, fracción VI y Transitorio Séptimo del Acuerdo de Creación de la Empresa Productiva del Estado subsidiaria de Petróleos Mexicanos, denominada Pemex Logística, en sesión de instalación celebrada el día 15 de octubre de 2015, mediante acuerdo número CAEPS-PLOG-004/2015.
 
 Ciudad de México, D.F., a 19 de octubre de 2015.- El Director Jurídico de Petróleos Mexicanos, Marco Antonio de la Peña Sánchez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 10 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO ORGÁNICO DE PEMEX LOGÍSTICA".]
+
+PRIMERO. El presente Estatuto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Estatuto Orgánico de la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Logística, publicado en el Diario Oficial de la Federación el día veintinueve de octubre de dos mil quince.
+
+TERCERO. La estructura orgánica básica autorizada se remitirá, para conocimiento, a la Secretaría de Hacienda y Crédito Público, en términos de la Ley de Petróleos Mexicanos. La implementación de dicha estructura se realizará a través de transferencias entre Empresas Productivas Subsidiarias que permitan movimientos compensados y que no impliquen incremento al presupuesto global de servicios personales o en el número total de plazas de Petróleos Mexicanos.
+
+CUARTO. El Director General coordinará que los recursos humanos, materiales y financieros, así como la información, asuntos y documentación a cargo de las áreas cuyas funciones se modifican contenidas en el Estatuto, realicen y formalicen, según corresponda, cualquier tipo de acto o documento que sean necesarios para los traspasos, transferencias y demás actos que correspondan.
+
+Sin perjuicio de lo anterior, las áreas referidas deberán realizar las actividades, funciones y actos que resulten necesarios, con el propósito de dar continuidad a la operación y funcionamiento de la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Logística.
+
+El Director General informará al Consejo de Administración los avances en la implementación de las acciones a que se refiere el presente Transitorio.
+
+QUINTO. Los lineamientos, políticas, bases, criterios y demás disposiciones emitidas con anterioridad a la entrada en vigor del presente Estatuto, por cualquier órgano o área de Pemex, sus Empresas Productivas Subsidiarias, así como los entonces organismos subsidiarios Pemex-Exploración y Producción, Pemex-Refinación, Pemex-Gas y Petroquímica Básica y Pemex-Petroquímica, continuarán siendo aplicables a la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Logística, en lo que no se opongan a la Ley, su Reglamento, al Acuerdo de Creación, al Estatuto y demás disposiciones aplicables, hasta en tanto se determine su modificación o abrogación.
+
+SEXTO. La normativa interna y demás disposiciones emitidas por cualquier órgano o área de la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Logística, con anterioridad a la entrada en vigor del presente Estatuto, continuarán siendo aplicables en lo que no se opongan a la Ley de Petróleos Mexicanos, su Reglamento, a este Estatuto y demás disposiciones aplicables, hasta en tanto los órganos o áreas referidas no determinen su modificación o abrogación.
+
+SÉPTIMO. Los contratos, convenios y actos jurídicos, así como los procedimientos de contratación celebrados o en trámite a la entrada en vigor de este Estatuto, se respetarán en los términos pactados, salvo que se convenga lo contrario, de conformidad con lo previsto en el Transitorio Décimo Tercero de la Ley de Petróleos Mexicanos.
+
+OCTAVO. Los poderes, mandatos y, en general, las representaciones otorgadas y las facultades conferidas por los entonces organismos subsidiarios Pemex-Refinación y Pemex-Gas y Petroquímica Básica, y por la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Logística, con anterioridad a la entrada en vigor de este Estatuto, subsistirán en sus términos en tanto no sean modificados o revocados expresamente. De ser necesario para el cumplimiento de las funciones contenidas en el presente Estatuto, las áreas correspondientes de la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Logística, deberán realizar las gestiones necesarias ante la Dirección Jurídica para el otorgamiento de los poderes correspondientes.
+
+NOVENO. Las obligaciones asumidas por los entonces organismos subsidiarios Pemex-Refinación y Pemex-Gas y Petroquímica Básica, al amparo de los convenios de responsabilidad solidaria suscritos por ellos, para garantizar las obligaciones constitutivas de deuda pública contratadas por Petróleos Mexicanos y, en su caso, otros organismos subsidiarios, así como las operaciones donde dichos organismos subsidiarios han comparecido directamente, para tales efectos, continuarán vigentes hasta su conclusión, siempre que la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Logística, sea su causahabiente directo.
+
+DÉCIMO. Las referencias a las denominaciones de las áreas de los entonces organismos subsidiarios Pemex-Refinación y Pemex-Gas y Petroquímica Básica, así como de la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Logística, que se contengan en contratos u otros instrumentos jurídicos, se entenderán hechas o conferidas a las áreas que correspondan de la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Logística, conforme a este Estatuto.
+
+DÉCIMO PRIMERO. Los acuerdos de delegación de funciones y de asignación de responsabilidades, emitidos por la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Logística, relacionados con la modificación a la estructura autorizada por el Consejo de Administración de Petróleos Mexicanos, dejarán de tener efectos una vez que entre en vigor el presente Estatuto.
+
+DÉCIMO SEGUNDO. Las referencias que se hagan en otros instrumentos a las áreas cuya denominación se modifica, se entenderán hechas a las áreas a las que se asignaron las funciones, conforme al presente Estatuto.
