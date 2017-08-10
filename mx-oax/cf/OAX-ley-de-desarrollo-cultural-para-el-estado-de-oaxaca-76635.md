@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-desarrollo-cultural-para-el-estado-de-oaxaca-76635"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-28"
-last_updated: "2016-10-22"
+last_updated: "2017-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76635&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2017.
 
 Ley publicada en la Tercera Sección al Periódico Oficial del Estado de Oaxaca, el sábado 28 de Agosto de 2010.
 
@@ -245,9 +245,13 @@ IV. Difusión y divulgación cultural; y
 
 V. Desarrollo Cultural Sustentable.
 
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2017)</small>
+
+VI. Salvaguarda del Patrimonio Biocultural Colectivo
+
 ###### Artículo 12.
 
-El Ejecutivo del Estado por conducto de la Secretaría, establecerá en la ejecución de políticas públicas en materia cultural acciones que eviten toda discriminación cultural motivada por origen étnico o nacional, género, idioma, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias u orientación sexual, estado civil o cualquier otra circunstancia o condición que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades.
+El Ejecutivo del Estado por conducto de la Secretaría establecerá en la ejecución de políticas públicas en materia cultural acciones que eviten toda discriminación cultural motivada por origen étnico o nacional, género, idioma, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias u orientación sexual, estado civil o cualquier otra circunstancia o condición que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades.
 
 ###### Artículo 13.
 
@@ -393,7 +397,7 @@ III. Fortalecer las expresiones del arte popular y la artesanía mexicanas, fort
 
 > <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2016)</small>
 
-IV. Fomentar la recuperación, revalorización y recreación de la tradición artística popular en el Estado, como parte de la preservación y salvaguardia (sic) del patrimonio cultural material e inmaterial; y
+IV. Fomentar la recuperación, revalorización y recreación de la tradición artística popular en el Estado, como parte de la preservación y salvaguardia del patrimonio cultural material e inmaterial; y
 
 V. Investigar, recopilar y sistematizar el universo simbólico del arte popular, así como el significado de sus formas e iconografías expresado a través de su gran diversidad de lenguajes.
 
@@ -457,15 +461,33 @@ El Ejecutivo del Estado por conducto de las autoridades en materia de cultura, i
 
 Las Secretarías de Turismo y Cultura y aquellas dependencias y entidades del sector público estatal competentes en la materia, promoverán de manera coordinada acciones con los gobiernos federal y municipal para el establecimiento de programas de promoción, protección, preservación y difusión del patrimonio cultural, a través de los respectivos planes de manejo y operación, conforme lo dispone la presente Ley.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE AGOSTO DE 2017)</small>
+
+### CAPÍTULO OCTAVO. SALVAGUARDA DEL PATRIMONIO BIOCULTURAL COLECTIVO
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2017)</small>
+
+###### Artículo 31.
+
+Se entiende por Patrimonio Biocultural Colectivo como el conjunto de conocimientos, innovaciones, prácticas y expresiones culturales de pueblos y comunidades originarias compartidas colectivamente vinculadas a sus recursos y territorios; incluso la diversidad de genes, variedades, especies dentro de sus comunidades y su medio ambiente, incluyendo los recursos biológicos, conocimientos y prácticas tradicionales.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2017)</small>
+
+###### Artículo 32.
+
+Se declara de interés público la salvaguarda, conservación, restauración, recuperación, preservación, promoción, difusión, estudio, supervisión, enriquecimiento e investigación del Patrimonio Biocultural Colectivo que se reconoce en toda y cada una de sus expresiones.
+
+## TÍTULO CUARTO. DEL PROGRAMA ESTATAL DE CULTURA Y DE LOS MECANISMOS DE PARTICIPACIÓN CIUDADANA
+
 ### CAPÍTULO PRIMERO. DEL PROGRAMA ESTATAL DE CULTURA
 
 > <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2016)</small>
 
-###### Artículo 31.
+###### Artículo 33.
 
 Para la ejecución e implementación de la política cultural y sus distintos ejes establecidos en la presente ley, la Secretaría coordinará en conjunto con el Consejo de Participación para el Desarrollo Cultural y con los demás órganos de consulta y apoyo, la elaboración, análisis y propuesta del Programa Estatal de Cultura que deberá ser aprobado por el Ejecutivo del Estado y que será de observancia general para todas las dependencias y entidades estatales, municipios y demás sujetos comprendidos en la presente ley. El cuál una vez aprobado deberá ser publicado en el Periódico Oficial del Estado.
 
-###### Artículo 32.
+###### Artículo 34.
 
 Además de lo dispuesto en la Ley de Planeación del Estado y por la normatividad aplicable, el Programa deberá contener los siguientes elementos:
 
@@ -477,13 +499,7 @@ III. Las políticas, estrategias, acciones y metas en materia de fortalecimiento
 
 IV. Los indicadores de gestión del Programa, que permitan evaluar los resultados obtenidos conforme a los objetivos, metas y responsabilidades planteados en el mismo, como una expresión cualitativa y cuantitativa del desarrollo cultural y su desempeño, para poder tomar acciones correctivas o preventivas según el caso.
 
-## TÍTULO CUARTO. DEL PROGRAMA ESTATAL DE CULTURA Y DE LOS MECANISMOS DE PARTICIPACIÓN CIUDADANA
-
-### CAPÍTULO SEGUNDO. DE LA PARTICIPACIÓN CIUDADANA
-
-> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2016)</small>
-
-###### Artículo 33.
+###### Artículo 35.
 
 Para la adecuada integración del Programa, corresponde a la Secretaría:
 
@@ -495,7 +511,7 @@ III. Convocar en coordinación con el Consejo a foros de consulta ciudadana, sob
 
 IV. Establecer criterios de coordinación con las dependencias y entidades del sector público estatal para incorporar al Programa acciones de carácter intersectorial en beneficio del desarrollo cultural.
 
-###### Artículo 34.
+###### Artículo 36.
 
 Son programas y acciones prioritarias para el desarrollo cultural, entre otros, los siguientes:
 
@@ -511,7 +527,11 @@ V. De premios instituidos por la Secretaría; y
 
 VI. De mantenimiento, conservación y equipamiento de la infraestructura cultural del Estado.
 
-###### Artículo 35.
+### CAPÍTULO SEGUNDO. DE LA PARTICIPACIÓN CIUDADANA
+
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2016)</small>
+
+###### Artículo 37.
 
 El Gobierno del Estado y los Ayuntamientos, deberán propiciar los mecanismos adecuados que faciliten el acceso a las tareas y discusiones en materia de protección del Patrimonio Cultural del Estado.
 
@@ -525,7 +545,7 @@ Los particulares podrán promover, ante la autoridad estatal o municipal corresp
 
 > <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2016)</small>
 
-###### Artículo 36.
+###### Artículo 38.
 
 Todo habitante del Estado tiene derecho a:
 
@@ -539,9 +559,7 @@ IV. Asociarse, agruparse y manifestarse, sobre el uso, destino y protección del
 
 > <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2016)</small>
 
-### CAPÍTULO TERCERO. DEL CONSEJO DE PARTICIPACIÓN PARA EL DESARROLLO CULTURAL DEL ESTADO
-
-###### Artículo 37.
+###### Artículo 39.
 
 Son organismos de consulta y apoyo para la aplicación del presente ordenamiento:
 
@@ -561,7 +579,7 @@ VII. Las instituciones de educación superior e investigación en el Estado.
 
 > <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2016)</small>
 
-###### Artículo 38.
+###### Artículo 40.
 
 Los organismos de consulta y apoyo podrán:
 
@@ -575,57 +593,17 @@ IV. Implementar acciones en coordinación con la Secretaría, en materia educati
 
 V. Las demás que les otorguen la presente Ley y demás normatividad aplicable.
 
-###### Artículo 39.
+### CAPÍTULO TERCERO. DEL CONSEJO DE PARTICIPACIÓN PARA EL DESARROLLO CULTURAL DEL ESTADO
+
+###### Artículo 41.
 
 La Secretaría incorporará la participación ciudadana en la planeación, elaboración y seguimiento del Programa Estatal de Cultura.
 
-###### Artículo 40.
+###### Artículo 42.
 
 Conforme al artículo anterior se instituye el Consejo de Participación para el Desarrollo Cultural del Estado, como un organismo de participación y vinculación entre las autoridades culturales del Estado y la sociedad en general, con funciones de asesoría, análisis y opinión, en el que converjan de manera conjunta representantes de los sectores público, privado y social.
 
-### CAPÍTULO IV. DEL COMITÉ DE AUTENTICIDAD
-
-> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2016)</small>
-
-###### Artículo 42 Bis.
-
-El Comité de autenticidad es el organismo de consulta y apoyo que garantiza con su opinión, la conservación y reivindicación de las costumbres y tradiciones con las que se ejecutan las danzas, bailables, música, vestimenta y demás elementos característicos con los que se presenten las diversas delegaciones en la festividad que se conoce como la Guelaguetza, que se escenifica en la fiesta del Lunes del Cerro.
-
-El Comité de Autenticidad tendrá como objetivo el de contribuir a la conservación, la investigación y difusión de nuestro patrimonio cultural, principalmente en el área de tradiciones, costumbres, música, danzas y bailes de nuestro Estado.
-
-Para el cumplimiento de sus funciones, el Comité se coordinará con la Secretaría de Turismo y Desarrollo Económico y con la Secretaría de las Culturas y Artes de Oaxaca.
-
-> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2016)</small>
-
-###### Artículo 42 Ter.
-
-El Comité de Autenticidad estará conformado por hombres y mujeres con amplio conocimiento de las costumbres y tradiciones de las diferentes regiones de Oaxaca, así como de la historia, evolución e importancia de las fiestas de la Guelaguetza que se presentan en los Lunes del Cerro, para tal efecto la Secretaría de las Culturas y Artes de Oaxaca como dependencia estatal operativa, establecerá los mecanismos para su selección, debiendo instituir criterios y procedimientos claros de evaluación, así como garantizar la transparencia y la máxima publicidad en el proceso de selección e integración del Comité de Autencidad (sic); que deberá integrar a una persona de cada una de las 16 etnias que existen en el Estado y uno más que represente al pueblo afrodescendiente de Oaxaca; y que tengan o hayan tenido participación en el ámbito cultural o en alguna actividad artística relacionada con la etnia a la que pertenece. La integración del Comité de Autenticidad se hará atendiendo al principio de paridad de género.
-
-Los integrantes del Comité de Autenticidad por ningún motivo podrán durar en su encargo más de cinco años, la Secretaría deberá además establecer los mecanismos para que su renovación se realice de forma escalonada.
-
-Los cargos en el Comité de Autenticidad serán honoríficos.
-
-> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2016)</small>
-
-###### Artículo 42 Quater.
-
-El Comité de Autenticidad tendrá las siguientes atribuciones:
-
-I. Establecer en coordinación con la Secretaría de las Culturas y las Artes de Oaxaca y con la Secretaría de Turismo y Desarrollo Económico, los mecanismos y procedimientos para la selección de las danzas y bailables que habrán de presentarse en las fiestas de los Lunes del Cerro.
-
-II. Emitir la declaratoria de procedencia en la selección de bailables que habrán de presentar las diferentes delegaciones en las fiestas de la Guelaguetza que se celebran los lunes del Cerro.
-
-III. Garantizar la conservación de las costumbres y tradiciones en la ejecución de las danzas, bailables, música, vestimenta y demás elementos característicos que presenten las delegaciones en las fiestas de la Guelaguetza.
-
-IV. Emitir su opinión sobre los planes, programas o campañas publicitarias que promuevan oficialmente o difundan el folklor de Oaxaca para las fiestas de la Guelaguetza a fin de buscar preservar la esencia de las tradiciones populares y los valores de las culturas de las etnias de Oaxaca.
-
-V. Emitir los lineamientos que estime necesarios para el rescate y la preservación de las costumbres, danzas, bailables, vestuario y demás elementos característicos de las delegaciones que se presentan en las fiestas de los Lunes del Cerro.
-
-VI. Las demás que le confiere la presente Ley.
-
-Las decisiones que emitan las y los integrantes del Comité, serán inatacables.
-
-###### Artículo 41.
+###### Artículo 43.
 
 El Consejo tendrá las siguientes atribuciones:
 
@@ -643,7 +621,7 @@ VI. Formular propuestas y opiniones a las autoridades competentes, para el mejor
 
 VII. Opinar sobre las condiciones que estimulen la creación cultural, así como la producción y distribución mayoritaria de los bienes culturales.
 
-###### Artículo 42.
+###### Artículo 44.
 
 El Consejo estará integrado de la siguiente manera:
 
@@ -671,47 +649,91 @@ Las Sesiones del Consejo se celebrarán por lo menos dos veces al año, o en cua
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE OCTUBRE DE 2016)</small>
 
-###### Artículo 43.
+### CAPÍTULO IV. DEL COMITÉ DE AUTENTICIDAD
 
-La Secretaría y los organismos públicos en materia de cultura conforme a lo señalado en la presente ley, promoverán una efectiva relación y colaboración con los medios de comunicación electrónica y escrita para llevar a cabo acciones de fortalecimiento y difusión de la cultura, así como para contribuir a promover el desarrollo cultural del estado.
-
-###### Artículo 44.
-
-La Secretaría a través de los medios de comunicación con que cuente el Estado, apoyará el fortalecimiento y difusión del desarrollo cultural conforme a los principios que fija esta Ley bajo los términos y condiciones que establecen los ordenamientos aplicables.
-
-### CAPÍTULO PRIMERO. DE LA CULTURA Y MEDIOS DE COMUNICACIÓN
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 45.
 
-La Secretaría a través de los diversos fondos y programas culturales para el impulso y desarrollo de la cultura, establecerá programas de apoyo, estímulo, becas y cofinanciamiento de las producciones culturales de las radios comunitarias, así como de las estaciones y sistemas de radio y televisión permisionados, para la producción de contenidos culturales audiovisuales.
+El Comité de autenticidad es el organismo de consulta y apoyo que garantiza con su opinión, la conservación y reivindicación de las costumbres y tradiciones con las que se ejecutan las danzas, bailables, música, vestimenta y demás elementos característicos con los que se presenten las diversas delegaciones en la festividad que se conoce como la Guelaguetza, que se escenifica en la fiesta del Lunes del Cerro.
+
+El Comité de Autenticidad tendrá como objetivo el de contribuir a la conservación, la investigación y difusión de nuestro patrimonio cultural, principalmente en el área de tradiciones, costumbres, música, danzas y bailes de nuestro Estado.
+
+Para el cumplimiento de sus funciones, el Comité se coordinará con la Secretaría de Turismo y Desarrollo Económico y con la Secretaría de las Culturas y Artes de Oaxaca.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 46.
 
-EL Gobierno del Estado mediante diferentes mecanismos promoverá la creación, desarrollo y consolidación de las micro, pequeñas y medianas empresas culturales, privilegiando la incorporación de nuevas tecnologías.
+El Comité de Autenticidad estará conformado por hombres y mujeres con amplio conocimiento de las costumbres y tradiciones de las diferentes regiones de Oaxaca, así como de la historia, evolución e importancia de las fiestas de la Guelaguetza que se presentan en los Lunes del Cerro, para tal efecto la Secretaría de las Culturas y Artes de Oaxaca como dependencia estatal operativa, establecerá los mecanismos para su selección, debiendo instituir criterios y procedimientos claros de evaluación, así como garantizar la transparencia y la máxima publicidad en el proceso de selección e integración del Comité de Autencidad (sic); que deberá integrar a una persona de cada una de las 16 etnias que existen en el Estado y uno más que represente al pueblo afrodescendiente de Oaxaca; y que tengan o hayan tenido participación en el ámbito cultural o en alguna actividad artística relacionada con la etnia a la que pertenece. La integración del Comité de Autenticidad se hará atendiendo al principio de paridad de género.
+
+Los integrantes del Comité de Autenticidad por ningún motivo podrán durar en su encargo más de cinco años, la Secretaría deberá además establecer los mecanismos para que su renovación se realice de forma escalonada.
+
+Los cargos en el Comité de Autenticidad serán honoríficos.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 47.
 
-Las organizaciones y empresas de los sectores privado y social que realicen acciones tendientes a incentivar el desarrollo cultural, así como la preservación, fortalecimiento y difusión del patrimonio, podrán ser beneficiarios de subsidios y estímulos fiscales en las contribuciones estatales y municipales, en los términos aprobados por el Congreso del Estado en las Leyes de Ingresos correspondientes y demás ordenamientos legales aplicables.
+El Comité de Autenticidad tendrá las siguientes atribuciones:
+
+I. Establecer en coordinación con la Secretaría de las Culturas y las Artes de Oaxaca y con la Secretaría de Turismo y Desarrollo Económico, los mecanismos y procedimientos para la selección de las danzas y bailables que habrán de presentarse en las fiestas de los Lunes del Cerro.
+
+II. Emitir la declaratoria de procedencia en la selección de bailables que habrán de presentar las diferentes delegaciones en las fiestas de la Guelaguetza que se celebran los lunes del Cerro.
+
+III. Garantizar la conservación de las costumbres y tradiciones en la ejecución de las danzas, bailables, música, vestimenta y demás elementos característicos que presenten las delegaciones en las fiestas de la Guelaguetza.
+
+IV. Emitir su opinión sobre los planes, programas o campañas publicitarias que promuevan oficialmente o difundan el folklor de Oaxaca para las fiestas de la Guelaguetza a fin de buscar preservar la esencia de las tradiciones populares y los valores de las culturas de las etnias de Oaxaca.
+
+V. Emitir los lineamientos que estime necesarios para el rescate y la preservación de las costumbres, danzas, bailables, vestuario y demás elementos característicos de las delegaciones que se presentan en las fiestas de los Lunes del Cerro.
+
+VI. Las demás que le confiere la presente Ley.
+
+Las decisiones que emitan las y los integrantes del Comité, serán inatacables.
 
 ## TÍTULO QUINTO. DE LOS MECANISMOS PARA EL DESARROLLO CULTURAL
 
-### CAPÍTULO SEGUNDO. FORTALECIMIENTO DE LAS EMPRESAS E INDUSTRIAS CULTURALES
+### CAPÍTULO PRIMERO. DE LA CULTURA Y MEDIOS DE COMUNICACIÓN
 
 ###### Artículo 48.
 
-La Secretaría conjuntamente con los Municipios, implementará acciones para el fomento cultural, a través del impulso a las Casas de Cultura, Casas del Pueblo, Bibliotecas y Hemerotecas Públicas.
+La Secretaría y los organismos públicos en materia de cultura conforme a lo señalado en la presente ley, promoverán una efectiva relación y colaboración con los medios de comunicación electrónica y escrita para llevar a cabo acciones de fortalecimiento y difusión de la cultura, así como para contribuir a promover el desarrollo cultural del estado.
 
 ###### Artículo 49.
 
-La Secretaría conjuntamente con los Municipios, promoverán, mecanismos para la capacitación, certificación académica de competencias y profesionalización del personal de las áreas culturales, promotores y gestores culturales.
+La Secretaría a través de los medios de comunicación con que cuente el Estado, apoyará el fortalecimiento y difusión del desarrollo cultural conforme a los principios que fija esta Ley bajo los términos y condiciones que establecen los ordenamientos aplicables.
 
 ###### Artículo 50.
 
-Con la finalidad de administrar los donativos, herencias y legados que le sean otorgados por personas físicas o morales, nacionales o extranjeras, con el objeto de sufragar una o más de las actividades y acciones incorporados en el Programa Estatal de Cultura, especialmente para el otorgamiento de apoyo financiero, técnico y logístico al desarrollo cultural y artístico, el financiamiento de los programas considerados en la presente Ley, se crea el Fondo Estatal para el Desarrollo Cultural del Estado, como instrumento financiero de la Secretaría, la preservación del patrimonio cultural y el otorgamiento de subsidios y recursos de coinversión a las micros, pequeñas y medianas empresas culturales. Para tal efecto se observará la normatividad aplicable.
+La Secretaría a través de los diversos fondos y programas culturales para el impulso y desarrollo de la cultura, establecerá programas de apoyo, estímulo, becas y cofinanciamiento de las producciones culturales de las radios comunitarias, así como de las estaciones y sistemas de radio y televisión permisionados, para la producción de contenidos culturales audiovisuales.
+
+### CAPÍTULO SEGUNDO. FORTALECIMIENTO DE LAS EMPRESAS E INDUSTRIAS CULTURALES
+
+###### Artículo 51.
+
+EL Gobierno del Estado mediante diferentes mecanismos promoverá la creación, desarrollo y consolidación de las micro, pequeñas y medianas empresas culturales, privilegiando la incorporación de nuevas tecnologías.
+
+###### Artículo 52.
+
+Las organizaciones y empresas de los sectores privado y social que realicen acciones tendientes a incentivar el desarrollo cultural, así como la preservación, fortalecimiento y difusión del patrimonio, podrán ser beneficiarios de subsidios y estímulos fiscales en las contribuciones estatales y municipales, en los términos aprobados por el Congreso del Estado en las Leyes de Ingresos correspondientes y demás ordenamientos legales aplicables.
 
 ### CAPÍTULO TERCERO. DE LA COORDINACIÓN PARA EL DESARROLLO CULTURAL EN LOS MUNICIPIOS
 
-###### Artículo 51.
+###### Artículo 53.
+
+La Secretaría conjuntamente con los Municipios, implementará acciones para el fomento cultural, a través del impulso a las Casas de Cultura, Casas del Pueblo, Bibliotecas y Hemerotecas Públicas.
+
+###### Artículo 54.
+
+La Secretaría conjuntamente con los Municipios, promoverán, mecanismos para la capacitación, certificación académica de competencias y profesionalización del personal de las áreas culturales, promotores y gestores culturales.
+
+### CAPÍTULO CUARTO. DEL FONDO ESTATAL PARA EL DESARROLLO CULTURAL DE (SIC) ESTADO
+
+###### Artículo 55.
+
+Con la finalidad de administrar los donativos, herencias y legados que le sean otorgados por personas físicas o morales, nacionales o extranjeras, con el objeto de sufragar una o más de las actividades y acciones incorporados en el Programa Estatal de Cultura, especialmente para el otorgamiento de apoyo financiero, técnico y logístico al desarrollo cultural y artístico, el financiamiento de los programas considerados en la presente Ley, se crea el Fondo Estatal para el Desarrollo Cultural del Estado, como instrumento financiero de la Secretaría, la preservación del patrimonio cultural y el otorgamiento de subsidios y recursos de coinversión a las micros, pequeñas y medianas empresas culturales. Para tal efecto se observará la normatividad aplicable.
+
+###### Artículo 56.
 
 Las autoridades competentes en materia de cultura, gestionarán la participación pública y privada en el financiamiento de proyectos culturales que:
 
@@ -723,13 +745,13 @@ III. Propicien la salvaguarda de las culturas regionales; y
 
 IV. Estimulen la formación, educación y perfeccionamiento de los integrantes de la comunidad cultural y faciliten su proyección en el ámbito local, nacional y regional.
 
-###### Artículo 52.
+### CAPÍTULO QUINTO. DEL SISTEMA DE INFORMACIÓN CULTURAL
+
+###### Artículo 57.
 
 El Sistema de Información Cultural es un mecanismo del Ejecutivo del Estado, a cargo de la Secretaría, para integrar, organizar, sistematizar y hacer del conocimiento de la población, la información referente a las actividades, bienes y servicios culturales del Estado.
 
-### CAPÍTULO CUARTO. DEL FONDO ESTATAL PARA EL DESARROLLO CULTURAL DE (SIC) ESTADO
-
-###### Artículo 53.
+###### Artículo 58.
 
 Las dependencias y entidades de la Administración Pública Estatal proporcionarán la información necesaria para la conformación y actualización permanente del Sistema, en coordinación con la federación, entidades federativas, municipios del Estado u organismos privados del sector cultural.
 
@@ -787,8 +809,6 @@ DR. EVENCIO NICOLÁS MARTÍNEZ RAMÍREZ
 
 P.O. 22 DE OCTUBRE DE 2016.
 
-### CAPÍTULO QUINTO. DEL SISTEMA DE INFORMACIÓN CULTURAL
-
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2046.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE OAXACA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
@@ -796,3 +816,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Ejecutivo del Estado a través de la Secretaría de las Culturas y las Artes, contará con un plazo de 120 días para emitir el reglamento con el que operará el Comité de Autenticidad, así como los mecanismos y los procedimientos para su integración, contados a partir de la publicación de la presente reforma.
 
 TERCERO. La Secretaría de las Culturas y las Artes, como dependencia estatal operativa será quien emita la Convocatoria para la integración del Comité de Autenticidad, a las personas que acrediten tener una calidad profesional en materia de cultura.
+
+P.O. 10 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 661.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 11 DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE OAXACA".]
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
