@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-la-defensoria-de-los-derechos-humanos-del-pueblo-de-8639
 country: "mx"
 rank: "ley"
 publication_date: "2012-02-14"
-last_updated: "2012-06-21"
+last_updated: "2017-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86397&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LA DEFENSORÍA DE LOS DERECHOS HUMANOS DEL PUEBLO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el martes 14 de febrero de 2012.
 
@@ -445,7 +445,7 @@ III. Contar con conocimientos suficientes teóricos y prácticos en la defensa y
 
 IV. No tener antecedentes de violencia y/o discriminación en el ámbito público o privado; y
 
-V. No haber ocupado puesto de elección popular ni de partido político al menos dos años anteriores al proceso de selección; (sic)
+V. No haber ocupado puesto de elección popular ni de partido político al menos dos años anteriores al proceso de selección;
 
 ###### Artículo 27.
 
@@ -771,6 +771,10 @@ La petición sólo podrá presentarse dentro del plazo de un año, a partir de q
 
 Las peticiones podrán presentarse por escrito, comparecencia y/o por cualquier medio de comunicación, incluyendo la vía electrónica a través de los formatos que para el efecto disponga la Defensoría. No se admitirán comunicaciones anónimas.
 
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2017)</small>
+
+En caso de ser necesario, las peticiones podrán formularse a través de Lengua de Señas Mexicana, para lo cual, la Defensoría deberá proporcionar gratuitamente un intérprete o traductor en la materia.
+
 ###### Artículo 49.
 
 Cuando la petición se presente por vía telefónica o por alguno de los medios a los que se refiere el artículo anterior de esta Ley, se hará la prevención al agraviado o peticionario para que dentro de los cinco días siguientes contados a partir de la fecha en que se levante el acta circunstanciada comparezca a ratificarla, manifestándole que de no comparecer se tendrá el asunto como concluido por falta de interés, enviándose el expediente al archivo definitivo.
@@ -794,6 +798,10 @@ En caso de que el agraviado o peticionario sea extranjero, la Defensoría podrá
 ###### Artículo 54.
 
 La Defensoría deberá poner a disposición de los peticionarios formularios que faciliten el trámite, y en todo caso orientará a las o los comparecientes sobre el contenido de su petición.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2017)</small>
+
+Las peticiones que sean presentadas por comparecencia y tratándose de personas que no hablen o comprendan el idioma español, o de aquellas que hablen alguna lengua indígena o personas con discapacidad auditiva, visual y/o del habla, o en los casos que se requiera, se les proporcionará gratuitamente un traductor o intérprete que tenga conocimiento de su lengua y cultura.
 
 ###### Artículo 55.
 
@@ -831,7 +839,7 @@ La Defensoría no admitirá quejas o denuncias en los casos siguientes:
 
 I. Cuando se trate de asuntos que ya hayan sido atendidos y resueltos por la Defensoría; y
 
-II. Cuando se trate de quejas anónimas, considerándose como tales aquellas que no contengan el nombre o datos de identificación, no esté firmada o no tenga huella digital de la parte quejosa; (sic)
+II. Cuando se trate de quejas anónimas, considerándose como tales aquellas que no contengan el nombre o datos de identificación, no esté firmada o no tenga huella digital de la parte quejosa;
 
 Ninguno de los supuestos previstos por el presente artículo impide la investigación sobre los problemas generales planteados en las quejas formuladas.
 
@@ -1036,3 +1044,9 @@ C. P. A. JESÚS EMILIO MARTÍNEZ ÁLVAREZ
 P.O. 21 DE JUNIO DE 2012.
 
 ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca, y entrará en vigencia al día siguiente al de su publicación.
+
+P.O. 10 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 659.- MEDIANTE EL CUAL ADICIONA UN SEGUNDO PÁRRAFO A LOS ARTÍCULOS 48 Y 54 DE LEY DE LA DEFENSORÍA DE LOS DERECHOS HUMANOS DEL PUEBLO DE OAXACA".]
+
+ÚNICO. El presente Decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
