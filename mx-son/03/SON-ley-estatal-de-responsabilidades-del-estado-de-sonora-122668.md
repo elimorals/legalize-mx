@@ -4,7 +4,7 @@ identifier: "SON-ley-estatal-de-responsabilidades-del-estado-de-sonora-122668"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-18"
-last_updated: "2017-07-18"
+last_updated: "2017-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SON"
 ---
 # LEY ESTATAL DE RESPONSABILIDADES DEL ESTADO DE SONORA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE AGOSTO DE 2017 EN EL B.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ESTATAL DE RESPONSABILIDADES DEL ESTADO DE SONORA
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DE 10 DE AGOSTO DE 2017.]</small>
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el martes 18 de julio de 2017.
 
@@ -2447,11 +2447,15 @@ Las resoluciones del Congreso se comunicarán al Supremo Tribunal de Justicia, c
 
 Artículo Primero.- La presente Ley entrará en vigor el diecinueve de julio de dos mil diecisiete, previa su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
-Se abroga la Ley número 54, de Responsabilidades de los Servidores Públicos del Estado y de los Municipios, publicada en el Boletín Oficial del Gobierno del Estado número 29, Sección II, de fecha 9 de abril de 1984.
+> <small>(F. DE E., B.O. 10 DE AGOSTO DE 2017)</small>
+
+Con la entrada en vigor de la presente Ley, queda abrogada la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios, salvo en los casos indicados en el artículo quinto transitorio de esta Ley.
 
 Hasta en tanto el Comité Coordinador del Sistema Nacional Anticorrupción determina los formatos para la presentación de las declaraciones patrimonial y de intereses, los servidores públicos presentarán sus declaraciones en los formatos que, a la entrada en vigor de la referida Ley General, se utilicen en el ámbito local.
 
-A la fecha de entrada en vigor de la Ley Estatal de Responsabilidades, todas las menciones a la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios previstas en las leyes locales, así como en cualquier disposición jurídica, se entenderán referidas a la Ley Estatal de Responsabilidades.
+> <small>(F. DE E., B.O. 10 DE AGOSTO DE 2017)</small>
+
+A la fecha de entrada en vigor de la Ley Estatal de Responsabilidades, todas las menciones a la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios o a la Ley Estatal de Responsabilidades Administrativas previstas en las leyes locales, así como en cualquier disposición jurídica, se entenderán referidas a la Ley Estatal de Responsabilidades.
 
 Artículo Segundo.- Los Entes Públicos, la Secretaría, el Tribunal y los organismos constitucionalmente autónomos, deberán realizar las adecuaciones administrativas dentro de su normatividad y reglamentación correspondientes de conformidad con lo previsto en el presente Decreto, en un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del presente Decreto. Dentro del mismo plazo la Secretaría de la Contraloría General del Estado deberá designar a los Titulares de las Coordinaciones encargadas de la Investigación y Sustanciación de las faltas administrativas a las que se refiere esta Ley, quienes deberán contar con título de Licenciatura en Derecho, con una antigüedad mínima de cinco años al momento de su designación.
 
