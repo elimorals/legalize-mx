@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-sistema-estatal-de-combate-a-la-corrupcion-del-121961"
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-20"
-last_updated: "2017-07-21"
+last_updated: "2017-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL SISTEMA ESTATAL DE COMBATE A LA CORRUPCIÓN DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2017.
 
 Ley publicada en la Décima Sección del Periódico Oficial del Estado de Oaxaca, el sábado 20 de mayo de 2017.
 
@@ -685,7 +685,9 @@ Segundo. A más tardar el día treinta de agosto del año dos mil diecisiete, el
 
 El plazo señalado en el párrafo anterior será improrrogable.
 
-Tercero. A más tardar el 30 (treinta) de julio de 2017 (dos mil diecisiete), el Congreso del Estado deberá designar a los integrantes de la Comisión de Selección.
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2017)</small>
+
+Tercero. A más tardar el 30 (treinta) de agosto de 2017 (dos mil diecisiete), el Congreso del Estado deberá designar a los integrantes de la Comisión de Selección.
 
 Cuarto. Una vez integrada la Comisión de Selección, ésta deberá elegir a los integrantes del Comité de Participación Ciudadana, en un plazo de 60 (sesenta) días naturales.
 
@@ -724,3 +726,9 @@ P.O. 21 DE JULIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 658.- MEDIANTE EL CUAL REFORMA EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NUMERO 602, EMITIDO POR LA LXIII LEGISLATURA CONSTITUCIONAL DEL ESTADO, MEDIANTE EL CUAL SE EXPIDIÓ LA LEY DEL SISTEMA ESTATAL DE COMBATE A LA CORRUPCIÓN, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO EL DÍA VEINTE DE MAYO DEL AÑO DOS MIL DIECISIETE”.]
 
 ÚNICO: El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 664.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 602, APROBADO POR LA SEXAGÉSIMA TERCERA LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO DE OAXACA EL DÍA TRES DE MAYO DEL AÑO DOS MIL DIECISIETE, MEDIANTE EL CUAL SE EXPIDIÓ LA LEY DEL SISTEMA ESTATAL DE COMBATE A LA CORRUPCIÓN, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO EL DÍA 20 DE MAYO DEL AÑO DOS MIL DIECISIETE”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
