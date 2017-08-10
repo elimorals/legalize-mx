@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2017-07-18"
+last_updated: "2017-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 18 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 10 DE AGOSTO DE 2017.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -2129,6 +2129,10 @@ V. Coordinar el diseño y mejora continua de modelos de atención ciudadana para
 VI. Vigilar en coordinación con el Órgano Regulador del Transporte el cumplimiento de la normatividad, especificaciones y principios de la Ley por los concesionarios y permisionarios del servicio de transporte de pasajeros público; y
 
 VII. Vigilar que concesionarios y permisionarios realicen puntualmente las aportaciones al fondo de movilidad y seguridad vial.
+
+> <small>(ADICIONADA, G.O. 10 DE AGOSTO DE 2017)</small>
+
+VIII. Determinar las Zonas de Parquímetros en las que podrán instalarse estos dispositivos; así como establecer las características técnicas de los dispositivos e instrumentos para el control de estacionamiento en vía pública y su adecuado funcionamiento; su instalación, operación y mantenimiento por si o a través de terceros, así como el emplazamiento de cada parquímetro dentro de la zona de parquímetros y la señalización de cajones de estacionamiento y demás indicaciones viales.
 
 > <small>(ADICIONADO, G.O. 2 DE MAYO DE 2017)</small>
 
@@ -20003,3 +20007,11 @@ Las Subsecretarías de la Secretaría de la Contraloría General a que hace refe
 SEXTO.- Las referencias hechas en este Reglamento y demás disposiciones jurídicas y administrativas aplicables a la Administración Pública de la Ciudad de México a las Contralorías Internas, se entenderán hechas a los órganos internos de control en las dependencias, órganos desconcentrados, delegaciones y entidades.
 
 SÉPTIMO.- Los actuales titulares de las contralorías internas en las dependencias, órganos desconcentrados, delegaciones y entidades, ejercerán las atribuciones que conforme a las disposiciones jurídicas y administrativas aplicables a la Administración Pública de la Ciudad de México corresponden a los titulares de los órganos internos de control en las dependencias, órganos desconcentrados, delegaciones y entidades, hasta en tanto se realicen las designaciones correspondientes.
+
+G.O. 10 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
