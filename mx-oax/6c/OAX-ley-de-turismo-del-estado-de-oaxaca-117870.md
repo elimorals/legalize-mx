@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-turismo-del-estado-de-oaxaca-117870"
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-12"
-last_updated: "2016-11-12"
+last_updated: "2017-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TURISMO DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2017.
 
 Ley publicada en la Séptima Sección del Periódico Oficial Gobierno del Estado de Oaxaca, el sábado 12 de noviembre de 2016.
 
@@ -149,6 +149,10 @@ f) Transporte terrestre o acuático, eventual o programado, para el servicio exc
 
 g) Otros servicios y actividades que no se encuentren comprendidos en este artículo y que por su naturaleza estén vinculados con el turismo.
 
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2017)</small>
+
+XX. La promoción turística.- Comprende el conjunto de información persuasiva, verbal, escrita, audiovisual o en formato digitalizado, que tiene por objeto dar a conocer, promover y difundir a los turistas los atractivos naturales, el patrimonio cultural y los servicios turísticos disponibles en los municipios con la finalidad de incrementar la afluencia turística.
+
 ###### Artículo 5.
 
 Los principales tipos del turismo que pueden ser aprovechados en el Estado son, entre otros, los siguientes:
@@ -273,7 +277,9 @@ VII. Coadyuvar en la instrumentación de las acciones de promoción de las activ
 
 VIII. Promover el impulso de las micro, pequeñas y medianas empresas turísticas;
 
-IX. Operar módulos de información y orientación al turista;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2017)</small>
+
+IX. Operar módulos de información y orientación al turista, garantizando que sean espacios dotados de la infraestructura técnica y operativa necesaria para la promoción turística y que garanticen la seguridad personal de los turistas;
 
 X. Atender los demás asuntos que en materia de planeación, programación, fomento y desarrollo de la actividad turística les conceda la Ley General, esta Ley u otros ordenamientos legales en concordancia con aquellas y que no estén otorgados expresamente al Ejecutivo Federal ni al Ejecutivo del Estado;
 
@@ -511,9 +517,11 @@ DE LA PROMOCIÓN Y DIFUSIÓN DE LA ACTIVIDAD TURÍSTICA.
 
 Con la participación de la Comisión Ejecutiva de Turismo, del Consejo Consultivo y de los Consejos Municipales, la Secretaría realizará por sí o con otras Instituciones Públicas o Privadas, la promoción y difusión de la oferta turística, así como de los lugares que tengan atractivo para los turistas, a través de los Fideicomisos de Promoción Turística del Estado.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 38.
 
-La Promoción y difusión Turística se realizará con bases técnicas que permitan incrementar la captación del Turismo, observando en todo momento los principios de eficiencia, eficacia, economía y honradez.
+La promoción y difusión turística se realizarán con bases técnicas que permitan incrementar la captación del Turismo, observando en todo momento los principios de eficiencia, eficacia, economía, honradez, garantizando la inclusión y accesibilidad para personas con discapacidad a dicha promoción.
 
 ###### Artículo 39.
 
@@ -950,3 +958,11 @@ Tlalixtac de Cabrera, Centro, Oax., 12 de noviembre de 2016.
 SECRETARIO GENERAL DE GOBIERNO.
 
 ING. CARLOS SANTIAGO CARRASCO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 662.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XX DEL ARTÍCULO 4; Y SE REFORMAN LA FRACCIÓN IX DEL ARTÍCULO 8; Y EL ARTÍCULO 38 DE LA LEY DE TURISMO DEL ESTADO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
