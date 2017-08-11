@@ -4,7 +4,7 @@ identifier: "COA-ley-de-extincion-de-dominio-del-estado-de-coahuila-de-96236"
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-04"
-last_updated: "2014-11-25"
+last_updated: "2017-08-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96236&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COA"
 
 LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2014.
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A LOS NOVENTA DÍAS NATURALES POSTERIORES A SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 4 de octubre de 2013.
 
@@ -36,22 +34,6 @@ QUE EL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGO
 DECRETA:
 
 NÚMERO 290.-
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 634, PUBLICADO EN EL P.O. 25 DE NOVIEMBRE DE 2014, TODAS LAS DISPOSICIONES, MENCIONES Y REFERENCIAS QUE SE HAGAN EN ESTE DECRETO RESPECTO AL TÉRMINO "CÓDIGO DE PROCEDIMIENTOS PENALES" , SE ENTENDERÁN HECHAS AL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, EL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO EL 17 DE FEBRERO DE 2012, Y EL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO EL 25 DE MAYO DE 1999, DE ACUERDO AL ESQUEMA DE GRADUALIDAD DE LA IMPLEMENTACIÓN DEL SISTEMA PENAL ACUSATORIO ADVERSARIAL.</small>
-
-ASIMISMO, LAS REFERENCIAS QUE SE HAGAN A CARPETA DE INVESTIGACIÓN, EN LOS CASOS QUE RESULTE APLICABLE, SE ENTENDERÁN HECHAS A LA AVERIGUACIÓN PREVIA
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NÚMERO 634, PUBLICADO EN EL P.O. 25 DE NOVIEMBRE DE 2014, TODAS LAS DISPOSICIONES, MENCIONES Y REFERENCIAS QUE SE HAGAN EN LAS LEYES Y REGLAMENTOS A LAS SUBPROCURADURÍAS JURÍDICA, DE DERECHOS HUMANOS, PROFESIONALIZACIÓN Y PROYECTOS, Y DE INVESTIGACIONES ESPECIALES, ATENCIÓN A DELITOS CONTRA MUJERES POR RAZÓN DE GÉNERO, TRATA DE PERSONAS, LIBERTAD DE EXPRESIÓN Y SERVICIOS A LA COMUNIDAD, SE ENTENDERÁN HECHAS A LA SUBPROCURADURÍA JURÍDICA, DE DERECHOS HUMANOS Y DE INVESTIGACIONES ESPECIALES, DE ACUERDO A LAS ATRIBUCIONES QUE SE OTORGAN A ÉSTA ÚLTIMA MEDIANTE EL PRESENTE DECRETO.</small>
-
-ASIMISMO TODAS LAS DISPOSICIONES, MENCIONES Y REFERENCIAS QUE SE HAGAN EN LAS LEYES Y REGLAMENTOS RESPECTO DE LAS SIGUIENTES UNIDADES ADMINISTRATIVAS, SE ENTENDERÁN HECHAS CONFORME A LAS SIGUIENTES DENOMINACIONES:
-
-A) DIRECCIÓN GENERAL DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS Y TESTIGOS: DIRECCIÓN GENERAL DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS Y OFENDIDOS.
-
-B) DIRECCIÓN GENERAL DE MEDIOS ALTERNOS DE SOLUCIÓN DE CONFLICTOS: DIRECCIÓN GENERAL DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS.
-
-C) DIRECCIÓN DE CONTROL DE PROCESOS EN MATERIA DE DELITOS ELECTORALES: DIRECCIÓN DE CONTROL DE JUICIOS Y CONSTITUCIONALIDAD EN MATERIA DE DELITOS ELECTORALES,
-
-D) DIRECCIÓN GENERAL DE POLÍTICA CRIMINAL: DIRECCIÓN DE POLÍTICA CRIMINAL.
 
 LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
@@ -73,7 +55,9 @@ Para los efectos de la presente ley, se entenderá por:
 
 I. Acción: Acción de extinción de dominio;
 
-II. Agente del Ministerio Público: Agente del Ministerio Público especializado, en el procedimiento de extinción de dominio de la Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2017)</small>
+
+II. Agente del Ministerio Público: Agente del Ministerio Público especializado, en el procedimiento de extinción de dominio de la Fiscalía General del Estado de Coahuila de Zaragoza;
 
 III. Bienes: Todos los que puedan ser objeto de apropiación, que no estén excluidos del comercio, ya sean muebles e inmuebles, y que actualicen los supuestos señalados en el artículo 10 de esta ley;
 
@@ -101,9 +85,13 @@ III. En el procedimiento de extinción de dominio, a lo previsto en el Código P
 
 IV. En los aspectos relativos a la regulación de bienes, obligaciones y derechos, a lo previsto en el Código Civil para el Estado de Coahuila de Zaragoza.
 
-Toda la información que se genere u obtenga con relación a esta ley, se regirá en los términos de la Ley de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Coahuila.
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
 
-El Procurador General de Justicia del Estado entregará un informe anual al Congreso del Estado sobre el ejercicio de las facultades que le otorga esta ley.
+Toda la información que se genere u obtenga con relación a esta ley, se regirá en los términos de la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza y la Ley Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Coahuila de Zaragoza.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
+
+El Fiscal General del Estado entregará un informe anual al Congreso del Estado sobre el ejercicio de las facultades que le otorga esta ley.
 
 ###### Artículo 4.
 
@@ -139,7 +127,9 @@ Legitimidad para el ejercicio de la acción.
 
 El ejercicio de la acción de extinción de dominio corresponde al Ministerio Público.
 
-El Ministerio Público podrá desistirse de la acción de extinción de dominio en cualquier momento, antes de que se dicte sentencia definitiva, previo acuerdo del Procurador General de Justicia del Estado. En los mismos términos, podrá desistirse de la pretensión respecto de ciertos bienes objeto de la acción de extinción de dominio.
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
+
+El Ministerio Público podrá desistirse de la acción de extinción de dominio en cualquier momento, antes de que se dicte sentencia definitiva, previo acuerdo del Fiscal General del Estado. En los mismos términos, podrá desistirse de la pretensión respecto de ciertos bienes objeto de la acción de extinción de dominio.
 
 ###### Artículo 7.
 
@@ -153,15 +143,15 @@ Para la preparación de la acción de extinción de dominio, el Ministerio Públ
 
 Los documentos de la averiguación previa o carpeta de investigación que se decidan introducir, tendrán para efectos de prueba el carácter de públicos o privados, de acuerdo con su naturaleza, en cada caso.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
 
-Con motivo de la preparación de la acción, el Procurador General de Justicia del Estado y los servidores públicos en quienes delegue la facultad, podrán solicitar información y documentos sobre los depósitos, los servicios y en general, las operaciones que las instituciones del sistema financiero celebren con sus clientes, por conducto de la Comisión Nacional Bancaria y de Valores, la Comisión Nacional de Seguros y Fianzas, y la de naturaleza fiscal, por conducto del Servicio de Administración Tributaria y de las demás entidades que resulten competentes, de conformidad con las disposiciones legales aplicables.
+Con motivo de la preparación de la acción, el Fiscal General del Estado y los servidores públicos en quienes delegue la facultad, podrán solicitar información y documentos sobre los depósitos, los servicios y en general, las operaciones que las instituciones del sistema financiero celebren con sus clientes, por conducto de la Comisión Nacional Bancaria y de Valores, la Comisión Nacional de Seguros y Fianzas, y la de naturaleza fiscal, por conducto del Servicio de Administración Tributaria y de las demás entidades que resulten competentes, de conformidad con las disposiciones legales aplicables.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
 
-Para efectos de lo dispuesto en el párrafo anterior, el Ministerio Público deberá formular la petición respectiva, exponiendo los razonamientos por los cuales requiera la información y los documentos correspondientes, y la remitirá al Procurador General de Justicia del Estado o al servidor público que corresponda.
+Para efectos de lo dispuesto en el párrafo anterior, el Ministerio Público deberá formular la petición respectiva, exponiendo los razonamientos por los cuales requiera la información y los documentos correspondientes, y la remitirá al Fiscal General del Estado o al servidor público que corresponda.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 11 DE AGOSTO DE 2017)</small>
 
 Cuando se tenga identificada la institución financiera, el número de cuenta o la operación o servicio de que se trate, así como el cuentahabiente o usuario respectivo y demás elementos que permitan su identificación plena, el Ministerio Público podrá solicitar al juez que emita la orden de requerimiento de información y documentos directamente a la institución financiera de que se trate.
 
@@ -183,13 +173,17 @@ I. Secuestro;
 
 II. Contra la salud en su modalidad de narcomenudeo;
 
-III. Robo de vehículos; y
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2017)</small>
 
-IV. Trata de personas.
+III. Robo de vehículos;
 
-(NOTA: EL 12 DE MAYO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 33/2013, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE MAYO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2017)</small>
 
-V. FACILITACIÓN DELICTIVA.
+IV. Trata de personas;
+
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2017)</small>
+
+V. Enriquecimiento ilícito.
 
 Para los efectos de esta ley, se entiende que existen elementos suficientes para determinar que el hecho ilícito sucedió, cuando se reúnan indicios respecto de los elementos objetivos o externos y, en su caso, normativos de los delitos a que se refieren las fracciones anteriores, aun cuando no se haya determinado quiénes intervinieron en él o el carácter de su participación.
 
@@ -383,11 +377,13 @@ Los gastos y costas.
 
 En los juicios de extinción de dominio, no habrá lugar a condenación en costas. Cada parte será responsable de sus propios gastos y los que originen las diligencias que promuevan. En el caso del Ministerio Público, los gastos originados por las promociones y diligencias solicitadas correrán a cargo del erario estatal.
 
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 27.
 
 La demanda.
 
-La acción de extinción de dominio se formulará mediante demanda del Ministerio Público, previo acuerdo del Procurador General de Justicia del Estado
+La acción de extinción de dominio se formulará mediante demanda del Ministerio Público, previo acuerdo del Fiscal General del Estado.
 
 ###### Artículo 28.
 
@@ -483,7 +479,7 @@ I. Personalmente a los demandados y a los afectados que se tengan identificados 
 
 a) La notificación se practicará en el domicilio del demandado o del afectado. En caso de que el demandado se encuentre privado de su libertad, la notificación personal se hará en el lugar donde se encuentre detenido;
 
-b) El notificador deberá cerciorarse del domicilio, entregar copia auto (sic) de admisión de la demanda y de los documentos base de la acción; recabar nombre o media filiación y, en su caso, firma de la persona con quien se entienda la diligencia, asentando los datos del documento oficial con el que se identifique. Asimismo, en el acta de notificación constarán los datos de identificación del secretario o actuario que la practique;
+b) El notificador deberá cerciorarse del domicilio, entregar copia (sic) auto de admisión de la demanda y de los documentos base de la acción; recabar nombre o media filiación y, en su caso, firma de la persona con quien se entienda la diligencia, asentando los datos del documento oficial con el que se identifique. Asimismo, en el acta de notificación constarán los datos de identificación del secretario o actuario que la practique;
 
 c) De no encontrarse el interesado o persona alguna que reciba la notificación, o habiéndose negado a recibirla o firmarla, la notificación se hará en los términos dispuestos por el Código Procesal Civil para el Estado de Coahuila de Zaragoza.
 
@@ -511,11 +507,13 @@ III. Cuando el Juez estime que se trata de un caso urgente y así lo ordene expr
 
 Las demás notificaciones se realizarán a través del boletín Judicial.
 
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 35.
 
 Publicación del auto de admisión.
 
-En todos los casos que se admita el ejercicio de la acción, el Juez mandará publicar el auto respectivo por tres veces, de tres en tres días, debiendo mediar entre cada publicación dos días hábiles, en el Periódico Oficial del Gobierno del Estado y el Boletín de Información Judicial del Tribunal Superior de Justicia del Estado, así como en un diario de circulación nacional, cuyo gasto correrá a cargo de la Procuraduría General de Justicia del Estado, para que comparezcan las personas que se consideren afectados, terceros, víctimas u ofendidos a manifestar lo que a su derecho convenga.
+En todos los casos que se admita el ejercicio de la acción, el Juez mandará publicar el auto respectivo por tres veces, de tres en tres días, debiendo mediar entre cada publicación dos días hábiles, en el Periódico Oficial del Gobierno del Estado y el Boletín de Información Judicial del Tribunal Superior de Justicia del Estado, así como en un diario de circulación nacional, cuyo gasto correrá a cargo de la Fiscal General del Estado o, para que comparezcan las personas que se consideren afectados, terceros, víctimas u ofendidos a manifestar lo que a su derecho convenga.
 
 ###### Artículo 36.
 
@@ -733,7 +731,9 @@ Destino de los remanentes.
 
 Los remanentes del valor de los bienes que resulten una vez aplicados los recursos correspondientes en términos del artículo 59 de esta ley, se utilizarán para el bienestar social y el mejoramiento de la seguridad pública y de la procuración de justicia.
 
-Dichos remanentes se destinarán en un 50 por ciento al bienestar social, asignándose a los programas y actividades a cargo de las Secretarías de Desarrollo Social, de Salud y de Educación, conforme al acuerdo que dicte el Ejecutivo del Estado. El otro 50 por ciento se asignará a partes iguales para los programas y actividades de la Secretaría de Gobierno en el área de Seguridad Pública y la Procuraduría General de Justicia del Estado.
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
+
+Dichos remanentes se destinarán en un 50 por ciento al bienestar social, asignándose a los programas y actividades a cargo de las Secretarías de Desarrollo Social, de Salud y de Educación, conforme al acuerdo que dicte el Ejecutivo del Estado. El otro 50 por ciento se asignará a partes iguales para los programas y actividades de la Secretaría de Gobierno en el área de Seguridad Pública y Fiscalía General del Estado.
 
 ###### Artículo 62.
 
@@ -789,7 +789,9 @@ Los recursos de reconsideración y el de apelación se sustanciarán en los tér
 
 Cooperación
 
-En caso de que deban ser practicadas diligencias fuera de la entidad, el Ministerio Público requerirá la colaboración de la Procuraduría General de Justicia de la entidad federativa de que se trate y de la Procuraduría General de la República.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2017)</small>
+
+En caso de que deban ser practicadas diligencias fuera de la entidad, el Ministerio Público requerirá la colaboración de la Fiscalía General de la entidad federativa de que se trate y de la Procuraduría General de la República.
 
 Cuando los bienes se encuentren en el extranjero, el Ministerio Público formulará la solicitud de asistencia jurídica internacional que resulte necesaria para la preparación, tramitación y ejecución de la acción de extinción de dominio, en términos de los instrumentos jurídicos internacionales de los que México sea parte.
 
@@ -900,3 +902,33 @@ Los nombramientos expedidos con anterioridad continuarán generando sus efectos 
 ###### ARTÍCULO OCTAVO.
 
 Los procedimientos en materia de ejecución de penas y medidas de seguridad que con anterioridad al inicio de vigencia del presente Decreto se estuviesen tramitando, continuarán substanciándose de acuerdo a la legislación vigente al momento de su inicio en todo aquello que no atente contra el debido proceso penitenciario y sea contario al presente decreto.
+
+P.O. 11 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 913.- SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 1; LA FRACCIÓN IV DEL ARTÍCULO 3; EL PRIMER PÁRRAFO DEL ARTÍCULO 6; EL PRIMER PÁRRAFO DEL ARTÍCULO 7; LAS FRACCIONES VIII Y XX DEL APARTADO A Y FRACCIÓN IX APARTADO B DEL ARTÍCULO 9; EL ARTÍCULO 16; LOS PÁRRAFOS PRIMERO, SEGUNDO Y NOVENO DEL ARTÍCULO 17; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 20; LA FRACCIÓN VII DEL ARTÍCULO 21; LAS FRACCIONES XXX Y XXXIII DEL ARTÍCULO 23; LA FRACCIÓN I DEL ARTÍCULO 29; EL ARTÍCULO 36; Y EL ARTÍCULO 37; Y SE ADICIONAN UN PÁRRAFO CUARTO AL ARTÍCULO 1; Y UN PÁRRAFO QUINTO AL ARTÍCULO 6; SE DEROGAN LA FRACCIÓN IX DEL ARTÍCULO 3; LA FRACCIÓN XVIII DEL ARTÍCULO 20, EL CAPÍTULO CUARTO Y EL ARTÍCULO 38, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día posterior a su publicación, sin perjuicio de los siguientes transitorios.
+
+TERCERO.- En un plazo no mayor a treinta días a partir de la publicación del presente decreto, se deberán de realizar las adecuaciones necesarias a las disposiciones administrativas correspondientes.
+
+CUARTO.- Las reformas relativas a la Fiscalía General de Justicia del Estado de Coahuila de Zaragoza, entrarán en vigor una vez que se emita la declaratoria a que se refiere el artículo segundo transitorio de la reforma a la Constitución Política del Estado de Coahuila de Zaragoza publicada en el Periodico Oficial del Gobierno del Estado de Coahuila de Zaragoza el 14 de julio de 2017.
+
+QUINTO.- La reforma a la Ley Orgánica del Poder judicial del Estado de Coahuila de Zaragoza entrará en vigor, una vez que los Magistrados del Tribunal de Justicia Administrativa de Coahuila de Zaragoza sean designados por el Ejecutivo del Estado y ratificados por el Congreso Estatal, en los términos de la Constitución Política del Estado de Coahuila de Zaragoza, e inicien sus funciones de conformidad con el segundo párrafo de (sic) transitorio tercero de la Ley Orgánica del Tribunal de Justicia Administrativa de Coahuila de Zaragoza.
+
+SEXTO.- En el caso de que existan recursos presupuestales asignados al Tribunal de lo Contencioso Administrativo, se deberán transferirse (sic) al Tribunal de Justicia Administrativa de Coahuila de Zaragoza en los términos de las disposiciones aplicables.
+
+SÉPTIMO.- Los procedimientos de responsabilidad administrativa iniciados con anterioridad a la entrada en vigor de la presente reforma y aquellos que se verifiquen antes de la entrada en vigor de la Ley General de Responsabilidades Administrativas, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
+
+Respecto de las conductas de los servidores públicos, consideradas por las leyes como faltas administrativas, realizadas hasta antes de la entrada en vigor de la Ley General de Responsabilidades Administrativas, se continuará aplicando la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza y en su caso, las demás disposiciones aplicables vigentes al momento de su ejecución.
+
+En cuanto a las conductas de los servidores públicos de la Procuraduría General de Justicia del Estado consideradas por las leyes como faltas administrativas, realizadas antes de la entrada en vigor de la Ley General de Responsabilidades Administrativas, se continuará aplicando la Ley Orgánica de la Procuraduría General de Justicia del Estado, su reglamento y en su caso, las demás disposiciones aplicables vigentes al momento de su realización.
+
+OCTAVO.- Hasta que sean designados los titulares de los órganos internos de control de las dependencias y entidades de la Administración Pública del Estado, así como de las unidades administrativas equivalentes en las empresas productivas del Estado, así como a los titulares de las áreas de auditoría, quejas y responsabilidades de los citados órganos internos de control, a que se refiere la Fracción V del artículo 36, será la Secretaría de Fiscalización y Rendición de Cuentas la encargada de llevar a cabo de manera temporal estas funciones.
+
+NOVENO.- La Secretaría de Fiscalización y Rendición de Cuentas como Órgano Estatal de Control seguirá facultada para realizar el registro de la situación patrimonial de los servidores públicos de los Poderes Ejecutivo, Legislativo y Judicial, de los municipios de la entidad; de las entidades paraestatales y paramunicipales, así como el de los organismos autónomos del estado, hasta en tanto el Comité Coordinador del Sistema Nacional Anticorrupción emita los formatos para la presentación de las declaraciones patrimoniales y de intereses y se realicen las modificación (sic) a sus respectivos ordenamientos jurídicos.
+
+DÉCIMO.- Los artículos 74, 75 y 75 BIS de la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza continuarán en vigor hasta en tanto el Comité Coordinador del Sistema Nacional Anticorrupción emita los formatos para la presentación de las declaraciones patrimoniales y de intereses.
+
+DÉCIMO PRIMERO.- Se derogan las disposiciones que se opongan al presente decreto.
