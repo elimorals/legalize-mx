@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-salud-del-estado-de-sinaloa-40732"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-03"
-last_updated: "2017-06-14"
+last_updated: "2017-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE SALUD DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 3 de septiembre de 2004.
 
@@ -975,27 +975,9 @@ IV. El establecimiento de programas de información y sensibilización, adecuado
 
 V. Acciones de orientación y vigilancia institucional, capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta el segundo año de vida y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno infantil, además de impulsar, la instalación de lactarios en los centros de trabajo de los sectores público y privado;
 
-Las instituciones públicas y privadas que prestan servicios de salud destinados a la atención materno-infantil deben cumplir con los "Diez pasos para la lactancia exitosa" siendo los siguientes:
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
 
-a) Disponer de una política por escrito relativa a la lactancia materna que sistemáticamente se ponga en conocimiento de todo el personal de atención de la salud.
-
-b) Capacitar a todo el personal de salud de forma que esté en condiciones de poner en práctica esa política.
-
-c) Informar a todas las embarazadas de los beneficios que ofrece la lactancia materna y la forma de ponerla en práctica.
-
-d) Ayudar a las madres a iniciar la lactancia durante la media hora siguiente al alumbramiento.
-
-e) Mostrar a las madres cómo se debe dar de mamar al niño y cómo mantener la lactancia incluso si han de separarse de sus hijos.
-
-f) No dar a los recién nacidos más que la leche materna, sin ningún otro alimento o bebida, a no ser que estén médicamente indicados.
-
-g) Facilitar la cohabitación de las madres y los lactantes durante las 24 horas del día.
-
-h) Fomentar la lactancia materna a libre demanda.
-
-i) No dar a los niños alimentados al pecho chupadores o chupetes artificiales.
-
-j) Fomentar el establecimiento de grupos de apoyo a la lactancia materna y procurar que las madres se pongan en contacto con ellos a su salida del hospital o clínica.
+Las instituciones públicas y privadas que prestan servicios de salud destinados a la atención materno-infantil deben cumplir con los "Diez pasos para la lactancia exitosa", en términos de la legislación de la materia.
 
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
 
@@ -3146,3 +3128,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Poder Ejecutivo realizará las adecuaciones reglamentarias necesarias dentro de los 90 días contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 11 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 203 DEL H. CONGRESO DEL ESTADO.- LEY PARA LA PROTECCIÓN, APOYO Y PROMOCIÓN A LA LACTANCIA MATERNA DEL ESTADO DE SINALOA."]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. El Congreso del Estado proveerá los recursos necesarios, para dar cumplimiento a lo previsto por la presente Ley.
+
+TERCERO. La Secretaría de Salud expedirá la normatividad derivada de la presente Ley en un plazo no mayor a sesenta días hábiles a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. Las instituciones públicas y privadas que prestan los servicios de salud destinados a la atención materno-infantil deberán obtener el certificado "Hospital Amigo del Niño y de la Niña" en un plazo que no deberá exceder de tres años, a partir de la entrada en vigor del presente Decreto, por lo tanto, las sanciones respectivas no serán aplicables dentro de dicho periodo.
+
+QUINTO. Las instituciones públicas y privadas deberán cumplir con las obligaciones contenidas en la presente Ley, en un plazo no mayor a un año, a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido por el presente Decreto.
