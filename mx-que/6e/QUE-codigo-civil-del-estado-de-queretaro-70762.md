@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-70762"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2017-06-16"
+last_updated: "2017-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 
@@ -1155,7 +1155,7 @@ El adoptante no puede contraer matrimonio con el adoptado o sus descendientes, e
 
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2015)</small>
 
-###### Articulo 150.
+###### Artículo 150.
 
 La mujer y el hombre están en aptitud de contraer nuevo matrimonio, al día siguiente de que quede legalmente disuelto el anterior.
 
@@ -1901,11 +1901,11 @@ El monto de la compensación será determinado por el juez dentro del procedimie
 
 Se presume que el cónyuge que solicite la compensación, contribuyó a la formación o incremento de la masa patrimonial, salvo prueba en contrario.
 
-###### Articulo 269.
+###### Artículo 269.
 
 (DEROGADO, P.O. 29 DE OCTUBRE DE 2015)
 
-###### Articulo 270.
+###### Artículo 270.
 
 (DEROGADO, P.O. 29 DE OCTUBRE DE 2015)
 
@@ -3225,13 +3225,13 @@ Todo menor tiene derecho a vivir con ambos padres, pero cuando no cohabiten entr
 
 En lo referente a la custodia de los menores, se observará lo dispuesto en la fracción V del artículo 261 de este Código.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
 
-Cuando quien tenga decretada judicialmente la custodia provisional o definitiva sobre los menores, realice conductas para evitar la convivencia de éstos con la persona o personas que tengan derecho a las mismas, por más de una ocasión y sin causa debidamente justificada a juicio del juez, éste aplicará las medidas previstas en el Código de Procedimientos Civiles del Estado de Querétaro, pudiendo incluso decretar el cambio de custodia de los menores, misma que se tramitará de forma incidental escuchando al menor y al Ministerio Público.
+Cuando quien tenga decretada judicialmente la custodia provisional o definitiva sobre niñas, niños o adolescentes, y realice conductas para evitar la convivencia de éstos con la persona o personas que tengan derecho a las mismas, por más de una ocasión y sin causa debidamente justificada a juicio del juez, éste aplicará las medidas previstas en el Código de Procedimientos Civiles del Estado de Querétaro, sin demérito del ejercicio de la acción penal que de su conducta resultara, pudiendo incluso decretar el cambio de custodia, escuchando al menor y dando vista a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Querétaro y al Fiscal que corresponda.
 
-> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
 
-Si un progenitor detecta que su menor hijo está siendo manipulado por el otro progenitor, pariente o por quien tenga una situación similar al parentesco, de tal manera que infundan en el niño o niña rechazo, rencor, odio o desprecio hacia él, podrá tramitar ante el Juez, en forma incidental, el cambio de custodia. Para tomar una determinación, el juez, atendiendo a las circunstancias del proceso, resolverá sobre la pertinencia de practicar exámenes psicológicos a ambos padres y a las respectivas parejas de éstos, en la institución pública que considere adecuada, escuchando al menor y dando la intervención legal correspondiente al Ministerio Público, durante la tramitación del incidente.
+Si alguno de los progenitores detectara que su hijo está siendo manipulado por el otro progenitor, pariente, o por quien tenga una situación similar al parentesco, de tal manera que infundan en la niña, niño o adolescente rechazo, rencor, odio, o desprecio hacía éste, podrá solicitar ante el juez, el cambio de custodia. Para tomar una determinación, el juez, atendiendo a las circunstancias del proceso, resolverá sobre la pertinencia de practicar exámenes psicológicos a ambos padres y a las respectivas parejas de éstos en el caso de que las hubiere, en la institución que considere adecuada, escuchando además al menor y dando la intervención legal correspondiente.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -15963,7 +15963,17 @@ Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado, para su 
 
 P.O. 16 DE JUNIO DE 2017.
 
-## [N. DE E. TRANSITORIOS DE "LEY QUE REFORMA EL ARTÍCULO 182 DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO".]
+## [N. DE E. TRANSITORIOS DE “LEY QUE REFORMA EL ARTÍCULO 182 DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 11 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA EL ARTÍCULO 447 DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO."]
 
 Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
