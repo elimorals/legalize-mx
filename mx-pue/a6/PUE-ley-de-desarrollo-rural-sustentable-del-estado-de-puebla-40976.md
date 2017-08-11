@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-desarrollo-rural-sustentable-del-estado-de-puebla-40976"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-18"
-last_updated: "2004-08-18"
+last_updated: "2017-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2017.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Puebla, el miércoles 18 de agosto de 2004.
 
@@ -113,7 +113,9 @@ I.- Promover el bienestar social y económico de los productores, de sus comunid
 
 II.- Corregir disparidades de desarrollo regional a través de la atención diferenciada a las regiones de mayor rezago, mediante una acción integral del Estado que impulse su transformación y la reconversión productiva y económica, con un enfoque productivo de desarrollo rural sustentable;
 
-III.- Contribuir a la soberanía y seguridad alimentaria, mediante el impulso de la producción agropecuaria de la Entidad;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2017)</small>
+
+III.- Contribuir a la soberanía y seguridad alimentaria, mediante el impulso de la producción agropecuaria de la Entidad; contemplando a los productores y agentes intervinientes, así como a los pequeños productores en condiciones de pobreza;
 
 IV.- Fomentar la conservación de la biodiversidad y el mejoramiento de la calidad de los recursos naturales, mediante su protección y aprovechamiento sustentable; y
 
@@ -1416,3 +1418,13 @@ SEXTO.- El Gobernador del Estado con la participación del Consejo Estatal para 
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los veintinueve días del mes de julio de dos mil cuatro.- Diputado Presidente.- CARLOS MANUEL MEZA VIVEROS.- Rúbrica.- Diputado Vicepresidente.- JOSÉ ROBERTO GRAJALES ESPINA.- Rúbrica.- Diputado Secretario.- ARMANDO PASCUAL HERRERA GUZMÁN.- Rúbrica.- Diputado Secretario.- MARTÍN MÁRQUEZ SILVA.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los veintinueve días del mes de julio del año dos mil cuatro.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- MAESTRO EN DERECHO CARLOS ARREDONDO CONTRERAS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 5 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
