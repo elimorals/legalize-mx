@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fiscalizacion-superior-de-los-recursos-publicos-para-770
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-22"
-last_updated: "2015-11-20"
+last_updated: "2017-08-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY DE FISCALIZACION SUPERIOR DE LOS RECURSOS PUBLICOS PARA EL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 11 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE FISCALIZACIÓN SUPERIOR DE LOS RECURSOS PÚBLICOS PARA EL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2017 (ABROGADA).
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 22 de octubre de 2010.
 
@@ -1252,3 +1254,51 @@ P.O. 22 DE MAYO DE 2015.
 P.O. 20 DE NOVIEMBRE DE 2015.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O 11 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 106 MEDIANTE EL CUAL SE APRUEBA LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS."]
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California, sin perjuicio de lo previsto en los transitorios siguientes.
+
+SEGUNDO.- Se abroga la Ley de Fiscalización Superior de los Recursos Públicos para el Estado de Baja California y sus Municipios, publicada en el Periódico Oficial del Estado de Baja California el día 22 de Octubre de 2010 con sus reformas y adiciones, a partir de la entrada en vigor de la presente Ley, y se derogan todas las disposiciones legales y administrativas que contravengan o se opongan a la presente Ley.
+
+Las referencias que se hagan en otras leyes y disposiciones a la Ley de Fiscalización Superior de los Recursos Públicos para el Estado de Baja California y sus Municipios, se tendrán por realizadas a la presente Ley.
+
+TERCERO.- La fiscalización de la cuenta pública correspondiente al ejercicio fiscal 2016 y los demás asuntos que se encuentren en trámite o en proceso, a la entrada en vigor de la presente Ley, continuarán tramitándose hasta su terminación en los términos de la Ley que se abroga.
+
+Los asuntos que se encuentren en trámite ante el Órgano de Fiscalización Superior del Estado de Baja California, o en los que éste sea parte, continuarán substanciándose por la Auditoría Superior del Estado, hasta su total conclusión.
+
+Hasta en tanto entre en funciones la Auditoría Superior del Estado seguirá operando el Órgano de Fiscalización Superior del Estado de Baja California, conforme a la estructura orgánica y personal que lo integra a la fecha de la entrada en vigor de la presente Ley, y sus actuaciones tendrán plena validez.
+
+CUARTO.- Los artículos de la presente Ley que se vinculen con la aplicación de la legislación que regula el sistema nacional y estatal anticorrupción, serán aplicables a partir de la cuenta pública correspondiente al ejercicio fiscal 2017, con excepción de lo previsto en el Título Cuarto.
+
+QUINTO.- El seguimiento que se prevé en los artículos 63 al 66 de la Ley de Fiscalización Superior de los Recursos Públicos para el Estado de Baja California y sus Municipios para las observaciones de las cuentas públicas que a la fecha de entrada en vigor de la presente Ley hayan sido dictaminadas por el Congreso del Estado, concluirá con la remisión del informe que en términos del artículo 64 rindan los Síndicos Procuradores y los titulares de los Órganos Internos de Control de las Entidades Fiscalizadas a más tardar el último día hábil del mes de octubre del año 2017.
+
+En el mes de marzo del año 2018, la Auditoría Superior del Estado rendirá a la Comisión un informe final sobre la evaluación del seguimiento a las observaciones de cuenta pública con base en los informes referidos en el párrafo que antecede.
+
+Para el seguimiento de las observaciones de las cuentas públicas correspondientes a los ejercicios fiscales 2016 y anteriores, que deriven de los dictámenes que sean aprobados por el Congreso del Estado en fecha posterior a la entrada en vigor de la presente Ley, les será aplicable lo dispuesto en el artículo 63 de la Ley que se abroga.
+
+Con independencia de los informes a que se refiere el presente artículo, los Síndicos Procuradores y los titulares de los Órganos Internos de Control de las Entidades Fiscalizadas deberán dar continuidad hasta su total resolución a los procedimientos y acciones que deriven del seguimiento a las observaciones de las cuentas públicas conforme a las atribuciones que en el ámbito de sus competencias establecen las legislaciones aplicables. Asimismo deberán informar a la Auditoría Superior del Estado de la resolución definitiva que se determine o recaiga a sus promociones, dentro de los diez días hábiles posteriores a que se notifique dicha resolución.
+
+SEXTO.- Lo dispuesto en los artículos 14 y 19 de la Ley, relativos a la utilización de medio (sic) remotos de comunicación electrónica, se implementará una vez que se realicen las adecuaciones normativas y se cuente con la disponibilidad presupuestal para ello.
+
+El título Octavo de la presente Ley, entrará en vigor una vez que sea aprobado el presupuesto para su implementación.
+
+SÉPTIMO.- El reglamento interior a que hace referencia la presente Ley, deberá emitirse en un plazo no mayor a 180 días naturales contados a partir de que entre en funciones la Auditoría Superior del Estado.
+
+La Auditoría Superior del Estado deberá emitir el estatuto a que hace referencia el artículo 105 de la presente Ley, en un plazo no mayor a un año contado a partir de la vigencia de la misma.
+
+Se ratifica el contenido de los acuerdos, circulares, guías, lineamientos, políticas, criterios, manuales, procedimientos, así como la demás normatividad del Órgano de Fiscalización Superior del Estado de Baja California, que se encuentre vigente a la fecha de entrada en vigor de la presente Ley, en tanto se sustituyan o dejen sin efecto.
+
+OCTAVO.- Serán válidos hasta su terminación o conclusión de vigencia, los convenios que con anterioridad a la entrada en vigor de la presente Ley hubiere celebrado el Órgano de Fiscalización Superior del Estado de Baja California.
+
+NOVENO.- Los recursos humanos, materiales, financieros y presupuestales con que cuenta el Órgano de Fiscalización Superior del Estado de Baja California, incluyendo todos sus bienes y los derechos, pasarán a formar parte de la Auditoría Superior del Estado en términos de lo previsto por esta Ley y las leyes aplicables.
+
+DÉCIMO.- Las disposiciones previstas en la presente Ley, no afectarán los derechos adquiridos y demás prestaciones reconocidas a los trabajadores del Órgano de Fiscalización Superior del Estado de Baja California por lo que éstos, formarán parte de la nueva estructura orgánica de la Auditoría Superior del Estado.
+
+DÉCIMO PRIMERO.- El Auditor Superior de Fiscalización en funciones o el servidor público que se encuentre desempeñando el cargo de titular en el Órgano de Fiscalización Superior del Estado de Baja California a la fecha de entrada en vigor de la presente Ley, continuará en el cargo hasta en tanto sea nombrado el Auditor Superior del Estado de Baja California, lo que deberá acontecer dentro del término que establece el artículo transitorio séptimo de la reforma constitucional aprobada por esta H. Legislatura de fecha 6 de julio de 2017.
+
+DÉCIMO SEGUNDO.- Para el cumplimiento de las facultades conferidas en la presente Ley a la Auditoría Superior del Estado de Baja California, deberán preverse los recursos presupuestales necesarios.
+
+DÉCIMO TERCERO.- Los lineamientos que se emitan para el manejo del archivo a que se refiere el Título Noveno de la presente Ley, deberán ser concordantes con las disposiciones establecidas en la Ley General de Administración Documental para el Estado de Baja California, así como con las disposiciones que en materia de archivo documental se publiquen con posterioridad.
