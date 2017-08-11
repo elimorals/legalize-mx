@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2017-05-12"
+last_updated: "2017-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2017.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -283,7 +283,7 @@ La prisión preventiva no podrá exceder del tiempo que como máximo de pena fij
 
 Toda pena de prisión que imponga una sentencia, se computará el tiempo de la detención.
 
-C. De la víctima o del ofendido
+C. De la víctima o del ofendido:
 
 I. Recibir asesoría jurídica; ser informado de los derechos que en su favor establece la Constitución; y, cuando lo solicite, ser informado del desarrollo del procedimiento penal;
 
@@ -303,7 +303,7 @@ La Ley fijará procedimientos ágiles para ejecutar las sentencias en materia de
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
 
-V. Al resguardo de sus (sic) identidad y otros datos personales en los siguientes casos: cuando sean menores de edad; cuando se trate de delitos de violación, trata de personas o secuestro, y cuando a juicio del juzgador sea necesario para su protección, salvaguardando en todo caso los derechos de la defensa.
+V. Al resguardo de sus (sic) identidad y otros datos personales en los siguientes casos: cuando sean menores de edad; cuando se trate de delitos de violación, trata de personas o secuestro; y cuando a juicio del juzgador sea necesario para su protección, salvaguardando en todo caso los derechos de la defensa.
 
 El Ministerio Público deberá garantizar la protección de víctimas, ofendidos, testigos y en general todas los sujetos que intervengan en el proceso. Los jueces deberán vigilar el buen cumplimiento de esta obligación;
 
@@ -399,7 +399,7 @@ El patrimonio familiar es inalienable, imprescriptible e inembargable.
 
 (REFORMADO, P.O. 26 DE JULIO DE 2008) (F. DE E., P.O. 16 DE AGOSTO DE 2008)
 
-Las niñas y los niños nacidos en el matrimonio o fuera de él tienen derecho a igual protección. La ley posibilitará la investigación de la paternidad.
+Las niñas y los niños nacidos en el matrimonio o fuera de él tienen derecho a igual protección. La Ley posibilitará la investigación de la paternidad.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
 
@@ -1719,7 +1719,7 @@ XXVIII. Elegir a los Magistrados del Tribunal Superior de Justicia y del Tribuna
 
 > <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
-XXIX. Elegir al Gobernador sustituto o Interino en los casos determinados por esta Constitución;
+XXIX. Elegir al Gobernador sustituto o interino en los casos determinados por esta Constitución;
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -1783,9 +1783,7 @@ XLIV. Expedir las leyes que regulen las relaciones de trabajo entre el Estado y 
 
 XLV. Conceder premios y recompensas por servicios eminentes prestados a la humanidad, a la Patria o al Estado;
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
-
-XLVI. Erigirse en Gran Jurado para declarar, en su caso, que ha lugar a formación de causa contra servidores públicos que gocen de protección constitucional por delitos del orden común y si son o no culpables los propios servidores públicos de los delitos oficiales de que fueren acusados;
+XLVI. (DEROGADA, P.O. 11 DE AGOSTO DE 2017)
 
 > <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -3337,7 +3335,7 @@ El Consejero Presidente y los consejeros electorales del Instituto serán design
 
 Los consejeros electorales locales tendrán un período de desempeño de siete años y no podrán ser reelectos; percibirán una remuneración que no podrá ser superior a la que percibe un Secretario de la Administración Pública Estatal y podrán ser removidos por el Consejo General del Instituto Nacional Electoral, por las causas graves que establezca la Ley General de Instituciones y Procedimientos Electorales.
 
-Los consejeros electorales locales y demás servidores públicos que establezca la Ley, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales; de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
+Los consejeros electorales locales y demás servidores públicos que establezca la Ley, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
 
 El Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca ejercerá funciones en las siguientes materias:
 
@@ -3479,53 +3477,13 @@ Conociendo el dictamen el Congreso del Estado erigido en Jurado de Sentencia, ap
 
 Las declaraciones y resoluciones del Congreso del Estado son inatacables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEXTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
-
 ###### ARTICULO 118.
 
-Para proceder penalmente contra los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia; los titulares de las Secretarías; el Fiscal General del Estado de Oaxaca; los Magistrados del Tribunal Estatal Electoral de Oaxaca; el Consejero Presidente, el Secretario Ejecutivo, los Consejeros Electorales del Consejo General del Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca; los Consejeros de la Judicatura, el Auditor Superior del Estado, los Sub Auditores y los Magistrados del Tribunal de lo Contencioso Administrativo y de Cuentas, Titulares e integrantes del órgano superior de dirección de los órganos constitucionales autónomos, por la comisión de delitos durante el tiempo de su encargo, la Legislatura declarará, por mayoría absoluta de sus miembros presentes en sesión, si ha o no lugar a proceder contra el inculpado.
-
-(REFORMADO, P.O. 8 DE DICIEMBRE DE 2000) (F. DE E., P.O. 21 DE ENERO DE 2006)
-
-Si la resolución de la Legislatura fuese negativa, se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso, cuando el inculpado haya concluido el ejercicio de su encargo, pues la resolución no prejuzga los fundamentos de la imputación.
-
-(REFORMADO, P.O. 8 DE DICIEMBRE DE 2000) (F. DE E., P.O. 21 DE ENERO DE 2006)
-
-Si la Legislatura declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes para que actúen conforme a la ley.
-
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-Por lo que se refiere al gobernador del Estado, solo habrá lugar a acusarlo ante el Congreso del Estado en los términos de los artículos 110 de la Constitución Federal y 81 de esta Constitución. En este supuesto la legislatura declarará por la votación de las dos terceras partes de sus integrantes, si ha o no lugar a proceder en contra del inculpado, en base a la legislación penal aplicable.
-
-(REFORMADO, P.O. 8 DE DICIEMBRE DE 2000) (F. DE E., P.O. 21 DE ENERO DE 2006)
-
-Las declaraciones y resoluciones del Congreso del Estado son inatacables.
-
-(REFORMADO, P.O. 8 DE DICIEMBRE DE 2000) (F. DE E., P.O. 21 DE ENERO DE 2006)
-
-El efecto de la declaración de que ha lugar a proceder contra el inculpado será separarlo de su encargo en tanto esté sujeto a proceso penal. Si éste culmina en sentencia absolutoria, el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto.
-
-(REFORMADO, P.O. 8 DE DICIEMBRE DE 2000) (F. DE E., P.O. 21 DE ENERO DE 2006)
-
-En demandas del orden civil que se establecen contra cualquier servidor público no se requerirá declaración de procedencia.
-
-(REFORMADO, P.O. 8 DE DICIEMBRE DE 2000) (F. DE E., P.O. 21 DE ENERO DE 2006)
-
-Las sanciones penales se aplicarán de acuerdo a lo dispuesto en la legislación penal y tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, deberán graduarse de acuerdo con el lucro obtenido y con la necesidad de satisfacer los daños y perjuicios causados por su conducta ilícita.
-
-(REFORMADO, P.O. 8 DE DICIEMBRE DE 2000) (F. DE E., P.O. 21 DE ENERO DE 2006)
-
-Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños o perjuicios causados.
-
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 143], P.O. 8 DE DICIEMBRE DE 2000)</small>
+(DEROGADO, P.O. 11 DE AGOSTO DE 2017)
 
 ###### ARTICULO 119.
 
-No se requerirá declaración de procedencia del Congreso del Estado cuando alguno de los servidores públicos a que hace referencia el Párrafo primero del Artículo 118, comete un delito durante el tiempo en que se encuentre separado de su encargo.
-
-Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para que desempeñe otro cargo distinto, pero de los enumerados en el Artículo 118 se procederá de acuerdo con lo dispuesto en dicho precepto.
+(DEROGADO, P.O. 11 DE AGOSTO DE 2017)
 
 > <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -3577,11 +3535,11 @@ La Ley señalará los casos de prescripción de la responsabilidad administrativ
 
 Los miembros de los Ayuntamientos y los Alcaldes son responsables de los delitos comunes, de las infracciones administrativas; así como hechos de corrupción que cometan durante su encargo.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 147], P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
 
 ###### ARTICULO 123.
 
-En los delitos del orden común y violación de las leyes federales y del Estado, los servidores públicos municipales no gozarán de protección constitucional alguna, pudiendo en consecuencia proceder contra ellos el Ministerio Público.
+En los delitos del orden común y violación de las leyes federales y del Estado, los servidores públicos señalados en el artículo 115 de esta Constitución, no gozarán de protección constitucional alguna, pudiendo en consecuencia proceder contra ellos ante la Fiscalía General del Estado.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 148], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -4886,3 +4844,13 @@ PRIMERO.- El presente Decreto entrará en vigor una vez publicado en el Periódi
 SEGUNDO.- Una vez que entre en vigor el presente decreto, la legislatura contará con el término de treinta días para que ésta proponga, y dentro de dicho plazo se aprueben las adecuaciones necesarias a las Leyes secundarias.
 
 TERCERO.- Se derogan todas las disposiciones legales que se opongan a la presente reforma.
+
+P.O. 11 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 671.- MEDIANTE EL CUAL SE DEROGAN LA FRACCIÓN XLVI, DEL ARTÍCULO 59, Y LOS ARTÍCULOS 118 Y 119; Y SE REFORMA EL ARTÍCULO 123 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA."]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Quedan derogadas todas las disposiciones legales de igual o menor jerarquía que se opongan total o parcialmente al contenido del presente Decreto.
+
+TERCERO.- El Honorable Congreso del Estado de Oaxaca hará las modificaciones correspondientes a las leyes pertinentes en un plazo no mayor a ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto.
