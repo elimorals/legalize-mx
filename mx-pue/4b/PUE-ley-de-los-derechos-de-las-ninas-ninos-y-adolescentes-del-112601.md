@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-11260
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2016-12-30"
+last_updated: "2017-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 3 de junio de 2015.
 
@@ -563,9 +563,17 @@ XV. Establecer medidas para la detección temprana de discapacidades a efecto de
 
 XVI. Proporcionar el acceso a los bienes, servicios, ayudas técnicas y rehabilitación que requieran niñas, niños y adolescentes con discapacidad;
 
-XVII. Proteger a las niñas, niños y adolescentes de experimentos o manipulaciones genéticas contrarias a su integridad y a su desarrollo físico o mental, y
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2017)</small>
 
-XVIII. Proporcionar asesoría y orientación sobre salud sexual y reproductiva.
+XVII. Proteger a las niñas, niños y adolescentes de experimentos o manipulaciones genéticas contrarias a su integridad y a su desarrollo físico o mental;
+
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2017)</small>
+
+XVIII. Proporcionar asesoría y orientación sobre salud sexual y reproductiva, y
+
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2017)</small>
+
+XIX. Establecer medidas para la detección de la condición del espectro autista, con el fin de tener un diagnóstico y una evaluación clínica temprana, precisa, accesible y sin prejuicios de acuerdo a los objetivos del Sistema Nacional de Salud.
 
 Asimismo, se garantizará que todos los sectores de la sociedad tengan acceso a educación y asistencia en materia de principios básicos de salud y nutrición, ventajas de la lactancia materna exclusiva durante los primeros seis meses y complementaria hasta los dos años de edad, así como la prevención de embarazos, higiene, medidas de prevención de accidentes y demás aspectos relacionados con la salud de niñas, niños y adolescentes.
 
@@ -621,7 +629,9 @@ XV. Establecer mecanismos para fomentar el uso responsable y seguro de las tecno
 
 XVI. Establecer acciones afirmativas que garanticen el acceso, permanencia y reingreso de niñas y adolescentes embarazada (sic), y
 
-XVII. Realizar lo necesario para fomentar la inclusión social y establecer el diseño universal de accesibilidad a los servicios educativos de niñas, niños y adolescentes con discapacidad, en términos de la legislación aplicable.
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2017)</small>
+
+XVII. Realizar lo necesario para fomentar la inclusión social y establecer el diseño universal de accesibilidad a los servicios educativos de niñas, niños y adolescentes con discapacidad y con la condición del espectro autista, en términos de la legislación aplicable.
 
 ###### ARTÍCULO 49.
 
@@ -1806,6 +1816,14 @@ SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el pres
 P.O. 30 DE DICIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS ARTÍCULOS 98 FRACCIÓN IX, 104 PÁRRAFO TERCERO Y 142 FRACCIÓN II, Y ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 61, TODOS DE LA LEY DE DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA, ASÍ COMO REFORMA EL ARTÍCULO 608 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO POR EL QUE "REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA; ASÍ COMO LA LEY ESTATAL DE SALUD Y LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA, EN MATERIA DE DERECHOS DE LAS PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA".]
 
 PRIMERO. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
