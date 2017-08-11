@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-de-salud-puebla-7594"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-15"
-last_updated: "2016-08-12"
+last_updated: "2017-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DE SALUD DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 15 de noviembre de 1994.
 
@@ -817,6 +817,10 @@ La prevención de las enfermedades mentales tiene carácter prioritario. Se basa
 
 La rehabilitación y el tratamiento en materia de salud mental se realizarán bajos (sic) los principios de equidad e imparcialidad, teniendo como objetivo principal la reinserción social de la persona con algún trastorno mental.
 
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2017)</small>
+
+El Ejecutivo del Estado podrá coordinarse con el Gobierno Federal mediante la celebración de convenios con el fin de alinear los programas estatales con la política pública en materia de atención y protección a personas con la condición del espectro autista.
+
 > <small>(ADICIONADO, P.O. 29 DE MARZO DE 2016)</small>
 
 ###### ARTICULO 66 Bis.
@@ -863,6 +867,10 @@ II. La difusión de las orientaciones para la promoción de la salud mental; la 
 
 Las campañas educativas tendrán como objetivo entre otros, orientar, motivar e informar a la población sobre el concepto de salud mental, los diversos trastornos mentales existentes, los síntomas que se presentan, las formas de prevención y modos de atención.
 
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2017)</small>
+
+La difusión de información sobre las características propias de la condición del espectro autista, a fin de crear conciencia al respecto en la sociedad;
+
 III. La realización de programas para prevención del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras substancias que pueden causar alteraciones mentales o dependencias, y
 
 IV. Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
@@ -875,11 +883,13 @@ I. La atención de personas con padecimientos mentales, la rehabilitación psiqu
 
 II. La organización, operación y supervisión de Instituciones dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales.
 
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
+
 ###### ARTICULO 69.
 
-Los padres, tutores o quienes ejerzan la patria potestad de menores, los responsables de su guarda, las autoridades educativas y cualquier persona que esté en contacto con los mismos, procurarán la atención inmediata de los menores que presenten alteraciones de conducta que permitan suponer la existencia de enfermedades mentales.
+Los padres, tutores o quienes ejerzan la patria potestad de menores, los responsables de su guarda, las autoridades educativas y cualquier persona que esté en contacto con los mismos, procurarán la atención inmediata de los menores que presenten alteraciones de conducta que permitan suponer la existencia de enfermedades mentales o de la condición del espectro autista.
 
-A tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermos mentales.
+A tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a su atención.
 
 ###### ARTICULO 70.
 
@@ -1687,9 +1697,9 @@ III. La promoción del bienestar del senescente y el desarrollo de acciones de p
 
 IV. El ejercicio de la tutela de los menores, en los términos de las disposiciones legales aplicables;
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2000)</small>
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2017)</small>
 
-V. La prestación de servicios de asistencia jurídica y orientación social especialmente a menores, ancianos, discapacitados sin recursos y en general a cualquier otra persona en estado de necesidad;
+V. La prestación de servicios de asistencia jurídica y orientación social especialmente a menores, ancianos, discapacitados, personas con la condición del espectro autista sin recursos, y en general a cualquier otra persona en estado de necesidad;
 
 > <small>(REFORMADA, P.O. 10 DE MARZO DE 2000)</small>
 
@@ -2147,9 +2157,7 @@ Los proyectos para la implantación de sistemas de alcantarillado deberán ser e
 
 Queda prohibido que los desechos o líquidos que conduzcan los caños sean vertidos en ríos, arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al uso o consumo humano, en todo caso deberán ser tratados y cumplir con las disposiciones legales en materia de contaminación.
 
-### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS, APIARIOS Y
-
-ESTABLECIMIENTOS SIMILARES
+### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
 
 ###### ARTICULO 229.
 
@@ -3254,5 +3262,13 @@ P.O. 12 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA DENOMINACIÓN DEL CAPÍTULO XIII, DEL TÍTULO DÉCIMO SEGUNDO, Y ADICIONA LOS ARTÍCULOS 246 BIS, 246 TER, 246 QUÁTER Y 246 QUINQUIES, TODOS DE LA LEY ESTATAL DE SALUD".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA; ASÍ COMO DE LA LEY ESTATAL DE SALUD Y DE LA LEY DE EDUCACIÓN DEL ESTADO."]
+
+PRIMERO. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
