@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-educacion-del-estado-de-puebla-17781"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-31"
-last_updated: "2017-03-16"
+last_updated: "2017-08-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el viernes 31 de marzo de 2000.
 
@@ -1271,11 +1271,11 @@ La Autoridad Educativa Estatal, regulará el desarrollo de la educación superio
 
 #### SECCIÓN VII. DE LA EDUCACIÓN ESPECIAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2017)</small>
 
 ###### ARTÍCULO 65.
 
-La educación especial, está destinada a educandos con discapacidades transitorias o definitivas, así como a aquellos con capacidades y aptitudes sobresalientes, atendiéndolos de manera adecuada a sus condiciones, con equidad social incluyente y con perspectiva de género, además:
+La educación especial, está destinada a educandos con discapacidades transitorias o definitivas, con capacidades y aptitudes sobresalientes, así como con la condición del espectro autista, atendiéndolos de manera adecuada a sus condiciones, con equidad social incluyente y con perspectiva de género, además:
 
 I.- Deberá formar integralmente a la persona, atendiendo a sus áreas física, intelectual y social de modo que se logre desarrollar al máximo aquellas capacidades que posea;
 
@@ -1287,9 +1287,9 @@ III.- Considerará lo previsto en la legislación aplicable.
 
 Esta educación incluye la corresponsabilidad de los padres o tutores, así como la orientación a los educadores y al personal de escuelas de educación básica y media superior regulares que atiendan alumnos con necesidades especiales de educación.
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
 
-Tratándose de menores de edad con discapacidades, esta educación propiciará su integración a las instituciones de educación básica regular y media superior, mediante la aplicación de métodos, técnicas y materiales específicos. Para quienes no logren esta integración, se procurará la satisfacción de necesidades básicas de aprendizaje, tendientes a lograr una autónoma convivencia social y productiva, mediante instituciones oficiales que la Autoridad Educativa Estatal creará para ese efecto, destinando los recursos necesarios, para lo cual se elaborarán programas y los materiales de apoyo didácticos necesarios.
+Tratándose de menores de edad con discapacidades y con la condición del espectro autista, esta educación propiciará su integración e inclusión a las instituciones de educación básica regular y media superior, mediante evaluaciones pedagógicas, aplicación de métodos, técnicas y materiales específicos, a fin de fortalecer la posibilidad de una vida independiente. Para quienes no logren esta integración, se procurará la satisfacción de necesidades básicas de aprendizaje, tendientes a lograr una autónoma convivencia social y productiva, mediante instituciones oficiales que la Autoridad Educativa Estatal creará para ese efecto, destinando los recursos necesarios, para lo cual se elaborarán programas y los materiales de apoyo didácticos necesarios.
 
 > <small>(ADICIONADO, P.O. 12 DE MARZO DE 2014)</small>
 
@@ -2056,5 +2056,13 @@ P.O. 16 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA LA FRACCIÓN XXX BIS AL ARTÍCULO 14 DE LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA; ASÍ COMO DE LA LEY ESTATAL DE SALUD Y DE LA LEY DE EDUCACIÓN DEL ESTADO".]
+
+PRIMERO. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
