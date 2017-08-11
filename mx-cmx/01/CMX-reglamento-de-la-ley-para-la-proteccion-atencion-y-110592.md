@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-para-la-proteccion-atencion-y-110592"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-11-25"
-last_updated: "2015-11-25"
+last_updated: "2017-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110592&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2015-11-25"
 ---
 # REGLAMENTO DE LA LEY PARA LA PROTECCION, ATENCION Y ASISTENCIA A LAS VICTIMAS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 REGLAMENTO DE LA LEY PARA LA PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VICTIMAS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS DEL DISTRITO FEDERAL
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL PRESENTE ORDENAMIENTO, ENTRA EN VIGOR A LOS TREINTA DÍAS SIGUIENTES DE SU PUBLICACIÓN.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 11 DE AGOSTO DE 2017.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el miércoles 25 de noviembre de 2015.
 
@@ -190,6 +190,10 @@ X. Impedir que las personas protegidas sean fotografiadas o que se capte su imag
 
 XI. Prohibir que cualquier persona revele datos que permitan identificar a las personas protegidas o a cualquier víctima de los delitos en materia de trata de personas, de conformidad con lo estipulado en el artículo 20, apartado C, fracción V de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(ADICIONADA, G.O. 11 DE AGOSTO DE 2017)</small>
+
+XII. Cambiar la identidad de las personas víctimas, ofendidas o testigos mexicanos, a través del levantamiento del acta de nacimiento respectiva.
+
 ###### Artículo 13.
 
 La Comisión Interinstitucional, a través de las Subcomisiones de Trabajo a que hace referencia el artículo 34, fracción VII, y el artículo 35 del presente Reglamento, creará los Protocolos de Actuación, Atención y Protección que sean necesarios para cumplir con lo previsto en la Ley General, la Ley y este Reglamento.
@@ -201,6 +205,26 @@ La Comisión Interinstitucional, a través de la Subcomisión de Atención a que
 ###### Artículo 15.
 
 Los refugios, albergues y casas de medio camino, públicos o privados, que proporcionen asistencia y protección a las víctimas, ofendidos y testigos de los delitos previstos en la Ley General, tendrán los fines que prevé dicha ley, la Ley y este Reglamento, y sus intervenciones tenderán al empoderamiento de las víctimas y a la disminución del estado de riesgo en que éstas se encuentren, a través del vínculo estratégico con las instituciones públicas.
+
+> <small>(ADICIONADO, G.O. 11 DE AGOSTO DE 2017)</small>
+
+Artículo 15 bis. Para efectos del otorgamiento de la medida de protección relativa al cambio de identidad de la víctima, ofendido o testigo, el Ministerio Público realizará las acciones siguientes:
+
+I. Recabar la evaluación de riesgo y de ser el caso, hacer del conocimiento de la víctima, ofendido o testigo la pertinencia de decretar la medida señalada, a fin de garantizar su integridad física y psicológica;
+
+II. Obtener, de manera expresa, el consentimiento del cambio de identidad de la persona beneficiaria, previo conocimiento que se le haga de los alcances jurídicos que implica generar una nueva identidad. Para lo cual, se compromete a:
+
+a) Garantizar la confidencialidad de las condiciones y formas de operación del cambio de identidad;
+
+b) Ser responsable de las consecuencias que se deriven, cuando por sus actos infrinja las normas que el cambio de identidad le impone; y,
+
+c) Atender cualquier otra solicitud que se considere oportuna, para efectos de resguardar su integridad.
+
+En el caso de niñas, niños y adolescentes se deberá garantizar la protección integral de los derechos de la niñez. En caso de que la persona protegida sea una niña, niño o adolescente o persona que no pueda comprender el significado del hecho, su admisión al cambio de identidad también deberá ser suscrito por el tutor o quien ejerza la patria potestad y/o representación, siempre y cuando no estén involucrados en los hechos delictivos.
+
+III. Solicitar por escrito al titular de la Dirección General del Registro Civil, realice las acciones procedentes para el levantamiento del acta de nacimiento respectiva, la cual perderá sus efectos legales cuando la medida sea cancelada por determinación ministerial o resolución judicial; y,
+
+IV. Hacer del conocimiento a la Secretaría de Gobernación, el cambio de identidad de la víctima, ofendido o testigo, realizando las acciones necesarias para garantizar la confidencialidad, tales como: Remitir la información en sobre cerrado, previo registro del envío en la carpeta de investigación, utilizar un mecanismo de entrega por persona autorizada, que procure la entrega a la autoridad competente, en los términos de los acuerdos interinstitucionales que se promuevan para tal efecto.
 
 ### Capítulo IV.. DEL ACCESO A LA JUSTICIA
 
@@ -1073,3 +1097,13 @@ Tercero.- Se instruye a la Secretaría de Gobierno del Distrito Federal para que
 Cuarto.- Se instruye a la Secretaría de Gobierno del Distrito Federal para que realice las gestiones necesarias para que la Asamblea Legislativa del Distrito Federal otorgue la suficiencia presupuestal a más tardar en el próximo ejercicio fiscal siguiente a la publicación del presente Decreto.
 
 Dado en la Residencia Oficial del C. Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veinticinco días del mes de noviembre de dos mil quince.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- LA SECRETARIA DE GOBIERNO, DORA PATRICIA MERCADO CASTRO.- FIRMA.-EL SECRETARIO DE SEGURIDAD PÚBLICA, HIRAM ALMEIDA ESTRADA.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, JOSÉ RAMÓN AMIEVA GALVEZ.- FIRMA.- EL SECRETARIO DE TURISMO, MIGUEL TORRUCO MARQUÉS.- FIRMA.- EL SECRETARIO DE SALUD, JOSE ARMANDO AHUED ORTEGA.- FIRMA.- LA SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO, AMALIA DOLORES GARCÍA MEDINA.- FIRMA.- LA SECRETARIA DE EDUCACIÓN, MARÍA ALEJANDRA BARRALES MAGDALENO.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 11 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN XII AL ARTÍCULO 12 Y 15 BIS DEL REGLAMENTO DE LA LEY PARA LA PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VICTIMAS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS DEL DISTRITO FEDERAL."]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El Presente Decreto entrará en vigor a los treinta días siguientes al de su publicación.
