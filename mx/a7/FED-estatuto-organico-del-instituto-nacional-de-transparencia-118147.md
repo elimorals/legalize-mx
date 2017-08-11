@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-transparencia-11814
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-01-17"
-last_updated: "2017-01-17"
+last_updated: "2017-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118147&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-11-01"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE AGOSTO DE 2017.
 
 Estatuto publicado en la Segunda Sección al Número 13 del Diario Oficial de la Federación, el martes 17 de enero de 2017.
 
@@ -1847,6 +1847,28 @@ Las ausencias temporales o definitivas del Titular del Órgano Interno de Contro
 
 Las ausencias del Director de Responsabilidades y Quejas, y del Director de Auditoría Interna, serán suplidas por alguno de los servidores públicos de la jerarquía inmediata inferior o por el que designe el Titular del Órgano Interno de Control.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 11 DE AGOSTO DE 2017)</small>
+
+### CAPÍTULO DÉCIMO QUINTO. Del Consejo Consultivo
+
+> <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2017)</small>
+
+###### Artículo 57.
+
+El Consejo Consultivo funcionará en sesiones ordinarias o extraordinarias, para lo cual se requerirá la presencia de por lo menos seis Consejeros. Las sesiones ordinarias se celebrarán cuando menos, una cada dos meses. Las sesiones extraordinarias se celebrarán cuando existan asuntos de importancia o que deban resolverse de inmediato y serán convocadas por el Presidente del Consejo o mediante convocatoria que formulen por lo menos cuatro de los Consejeros, quienes se asegurarán que todos los Consejeros sean debidamente notificados.
+
+> <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2017)</small>
+
+###### Artículo 58.
+
+La preparación, desarrollo y seguimiento de las sesiones se llevará a cabo conforme a las reglas que el Consejo Consultivo emita para tal efecto.
+
+> <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2017)</small>
+
+###### Artículo 59.
+
+Las decisiones del Consejo Consultivo se tomarán por mayoría de votos.
+
 ## TRANSITORIOS
 
 PRIMERO. El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1860,3 +1882,15 @@ CUARTO. Los asuntos y procedimientos que se estén sustanciando previo a la entr
 QUINTO. En términos de los artículos 35, fracciones I y VI, y Sexto Transitorio de la Ley Federal de Transparencia y Acceso a la Información Pública, en relación con el Cuarto Transitorio de la Ley General de Transparencia y Acceso a la Información Pública, dentro de los siguientes treinta días hábiles a la entrada en vigor del presente Estatuto, se someterá a consideración del Pleno la propuesta de los lineamientos correspondientes al sistema interno de rendición de cuentas claras, transparentes y oportunas, los cuales estarán a cargo de un grupo de trabajo integrado, por las Direcciones Generales de Administración; de Asuntos Jurídicos; de Atención al Pleno; de Planeación y Desempeño Institucional y el Órgano Interno de Control.
 
 SEXTO. Dentro de los siguientes treinta días hábiles a la entrada en vigor del presente Estatuto, se someterá a consideración del Pleno la propuesta de lineamientos para regular el funcionamiento del mismo, elaborados por la Secretaría Técnica del Pleno, por conducto de la Dirección General de Atención al Pleno.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 11 DE AGOSTO DE 2017.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO MEDIANTE EL CUAL SE APRUEBAN LAS ADICIONES AL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+SEGUNDO. Se instruye a la Dirección General de Asuntos Jurídicos, para que realice las gestiones necesarias, a efecto de que el presente Acuerdo se publique en el Diario Oficial de la Federación.
+
+TERCERO. Se instruye a la Secretaría Técnica del Pleno, para que, por conducto de la Dirección General de Atención al Pleno, realice las gestiones necesarias a efecto de que el presente Acuerdo se publique en el portal de internet del Instituto.
+
+CUARTO. El presente Acuerdo, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
