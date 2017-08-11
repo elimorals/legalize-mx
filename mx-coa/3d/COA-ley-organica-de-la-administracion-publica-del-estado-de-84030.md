@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-administracion-publica-del-estado-de-84030"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-30"
-last_updated: "2016-12-02"
+last_updated: "2017-08-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2017.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Coahuila, el miércoles 30 de noviembre de 2011.
 
@@ -45,11 +45,15 @@ LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 Esta Ley tiene por objeto establecer la estructura, las atribuciones y las bases para la organización y el funcionamiento de la administración pública del Estado de Coahuila de Zaragoza. Para el correcto ejercicio de las atribuciones y el despacho de los asuntos a cargo del gobernador, la administración pública del estado se organiza en centralizada y paraestatal.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
 
-La administración pública centralizada se compone por el Despacho del Gobernador, las secretarías del ramo, la Procuraduría General de Justicia y demás unidades administrativas que se integren para la buena marcha de la administración, cualquiera que sea su denominación.
+La administración pública centralizada se compone por el Despacho del Gobernador, las secretarías del ramo y demás unidades administrativas que se integren para la buena marcha de la administración, cualquiera que sea su denominación.
 
 La administración pública paraestatal se conforma por los organismos públicos descentralizados, los organismos públicos de participación ciudadana, las empresas de participación estatal, los fideicomisos públicos y demás entidades, sin importar la forma en que sean identificadas.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2017)</small>
+
+En cada una de las dependencias y entidades de la Administración Pública Estatal, se mantendrán al corriente los escalafones de los trabajadores, y se establecerán los sistemas de estímulos y recompensas que determinen la ley y las condiciones generales de trabajo respectivas.
 
 ###### ARTÍCULO 2.
 
@@ -65,7 +69,9 @@ II. Constitución Política del Estado: La Constitución Política del Estado de
 
 III. Congreso: El Congreso del Estado de Coahuila de Zaragoza;
 
-IV. Dependencias: las secretarías del ramo y la Procuraduría General de Justicia, que conforman la administración pública centralizada;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2017)</small>
+
+IV. Dependencias: las secretarías del ramo que conforman la administración pública centralizada;
 
 V. Entidades: los organismos públicos descentralizados, los organismos públicos de participación ciudadana, las empresas de participación estatal, los fideicomisos públicos y demás de naturaleza análoga que conforman la administración pública paraestatal;
 
@@ -75,7 +81,7 @@ VII. Ley: La Ley Orgánica de la Administración Pública del Estado de Coahuila
 
 VIII. Periódico Oficial: El Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza;
 
-IX. Procuraduría General de Justicia: La Procuraduría General de Justicia del Estado, y
+IX. (DEROGADA, P.O. 11 DE AGOSTO DE 2017)
 
 X. Titular del ejecutivo: El Gobernador del Estado de Coahuila de Zaragoza.
 
@@ -87,21 +93,33 @@ Para el despacho de los asuntos que le competan, el gobernador se auxiliará de 
 
 El gobernador podrá convenir con el gobierno federal, con otras entidades federativas, con los municipios y con los sectores social y privado, en los términos previstos por la Constitución Política del Estado y demás disposiciones aplicables, el ejercicio de funciones, la prestación de servicios públicos y la ejecución o atención de obras que favorezcan el desarrollo del estado.
 
-> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2017)</small>
 
 ###### ARTÍCULO 6.
 
-Todos los reglamentos, decretos, acuerdos y circulares expedidos por el Gobernador, serán refrendados por los titulares de las secretarías del ramo a los que el asunto corresponda y, en su caso, por quien ocupe la titularidad de la Procuraduría General de Justicia.
+Todos los reglamentos, decretos, acuerdos y circulares expedidos por el Gobernador, serán refrendados por los titulares de las secretarías del ramo a los que el asunto corresponda.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2016)</small>
 
 Tratándose de los actos promulgatorios de las Leyes o Decretos expedidos por el Congreso del Estado, sólo se requerirá el refrendo del Secretario de Gobierno.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2016)</small>
+
 Sin este requisito de refrendo, los instrumentos señalados en los párrafos anteriores, no surtirán efectos legales. El refrendo actualiza la responsabilidad que pueda resultar del mismo.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2016)</small>
 
 Los instrumentos señalados en este artículo deberán ser publicados en el Periódico Oficial del Estado; sin este requisito de publicidad carecerán de validez y obligatoriedad.
 
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2017)</small>
+
+Los manuales de organización general deberán publicarse en el Periódico Oficial del Gobierno del Estado, mientras que los manuales de procedimientos y de servicios al público deberán estar disponibles para consulta de los usuarios y de los propios servidores públicos, a través del registro electrónico que opera la Secretaría de Fiscalización y rendición de Cuentas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2017)</small>
+
 ###### ARTÍCULO 7.
 
-Quienes sean titulares de las dependencias, entidades y de la Procuraduría General de Justicia, no podrán desempeñar ningún otro puesto, empleo, cargo o comisión, salvo aquellos relacionados con la docencia y la investigación, siempre y cuando exista compatibilidad en el ejercicio de los mismos.
+Quienes sean titulares de las dependencias y entidades, no podrán desempeñar ningún otro puesto, empleo, cargo o comisión, salvo aquellos relacionados con la docencia y la investigación, siempre y cuando exista compatibilidad en el ejercicio de los mismos.
 
 Los servidores públicos podrán desempeñar los nombramientos honoríficos a los que sean invitados, cuidando que no se pongan en riesgo los intereses de la entidad.
 
@@ -151,7 +169,9 @@ VI. Determinar los distritos notariales, las zonas de desarrollo económico, las
 
 VII. Promover la armonización de la normatividad estatal con los tratados internacionales de los que el Estado Mexicano sea parte, en materia de protección a los derechos humanos, de conformidad con lo dispuesto por la Constitución federal;
 
-VIII. Designar y someter a ratificación del Congreso del Estado, o en su caso, a la diputación permanente, a quienes sean titulares de las secretarías del ramo y de la Procuraduría General de Justicia y determinar, en su caso, su remoción;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2017)</small>
+
+VIII. Designar y someter a ratificación del Congreso del Estado, o en su caso, a la diputación permanente, a quienes sean titulares de las secretarías del ramo y determinar, en su caso, su remoción;
 
 IX. Nombrar y remover con la opinión de quienes sean titulares de las áreas correspondientes, a los directores generales y subsecretarios de dependencias y entidades de la administración pública estatal, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución, en esta ley o en las demás disposiciones aplicables;
 
@@ -175,7 +195,9 @@ XVIII. Asistir al Congreso, en caso de urgencia o peligro grave para el estado a
 
 XIX. Resolver con opinión del Consejero Jurídico, las controversias de competencia que existan entre una o más dependencias y asignarles, en casos extraordinarios, la responsabilidad sobre asuntos específicos;
 
-XX. Tomar la protesta de quienes sean titulares de la Procuraduría General de Justicia y de las secretarías del ramo;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2017)</small>
+
+XX. Tomar la protesta de quienes sean titulares de las secretarías del ramo;
 
 > <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
 
@@ -201,7 +223,9 @@ VII. Designar y remover a los servidores públicos adscritos a la administració
 
 VIII. Realizar los planes, programas y acciones necesarios para mantener con los gobiernos municipales una relación permanente de colaboración constructiva, corresponsable y de ayuda mutua a favor del desarrollo político, económico, social y cultural del estado;
 
-IX. Concurrir al Congreso del Estado cuando se discuta un proyecto de ley o decreto que el gobernador presente, a fin de informar respecto a su contenido. Dicha atribución sólo podrá delegarse en quienes ocupen la titularidad de la Consejería Jurídica, las secretarías del ramo, de la Procuraduría General de Justicia o en quienes dirijan entidades paraestatales, y
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2017)</small>
+
+IX. Concurrir al Congreso del Estado cuando se discuta un proyecto de ley o decreto que el gobernador presente, a fin de informar respecto a su contenido. Dicha atribución sólo podrá delegarse en quienes ocupen la titularidad de la Consejería Jurídica, las secretarías del ramo o en quienes dirijan entidades paraestatales, y
 
 X. Las que con ese carácter le confieran la Constitución federal, la Constitución Política del Estado y las demás disposiciones aplicables.
 
@@ -341,7 +365,7 @@ El Consejero Jurídico tendrá el carácter de secretario del consejo, será el 
 
 ### CAPÍTULO PRIMERO. DE LAS Y LOS TITULARES DE LAS DEPENDENCIAS
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
 
 ###### ARTÍCULO 16.
 
@@ -353,29 +377,41 @@ II. Tener pleno uso y goce de sus derechos políticos;
 
 III. Tener un modo honesto de vivir, gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión. Si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en concepto público, quedará inhabilitado para ocupar el cargo, cualquiera que haya sido la pena.
 
-Los requisitos legales y el procedimiento específico para la designación de quien ocupe la titularidad de la Procuraduría General de Justicia serán los establecidos en la Constitución Política del Estado y en la ley de la materia.
-
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2017)</small>
 
 ###### ARTÍCULO 17.
 
-Quienes sean titulares de las dependencias, entidades, de la Procuraduría para Niños, Niñas y la Familia de la Procuraduría General de Justicia y demás servidores públicos del estado, antes de tomar posesión de su cargo o empleo, deberán rendir protesta.
+Quienes sean titulares de las dependencias, entidades, de la Procuraduría para Niños, Niñas y la Familia y demás servidores públicos del estado, antes de tomar posesión de su cargo o empleo, deberán rendir protesta.
 
-El servidor público que deba rendir protesta lo hará ante el gobernador invariablemente cuando se trate de quienes vayan a ocupar la titularidad de una Secretaría, de la Procuraduría para Niños, Niñas y la Familia o de la Procuraduría General de Justicia, en los demás casos lo podrán hacer ante quien el gobernador designe.
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
+
+El servidor público que deba rendir protesta lo hará ante el gobernador invariablemente cuando se trate de quienes vayan a ocupar la titularidad de una Secretaría o de la Procuraduría para Niños, Niñas y la Familia, en los demás casos lo podrán hacer ante quien el gobernador designe.
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
 
 El servidor público será interrogado por quien le tome la protesta en los siguientes términos:
 
-“PROTESTA USTED GUARDAR Y HACER GUARDAR LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA PARTICULAR DEL ESTADO Y LAS LEYES EMANADAS O QUE DE ELLAS EMANEN Y DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO DE (cargo que protesta), QUE LE HA SIDO CONFERIDO MIRANDO EN TODO MOMENTO POR EL BIEN DEL ESTADO?”
+"PROTESTA USTED GUARDAR Y HACER GUARDAR LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA PARTICULAR DEL ESTADO Y LAS LEYES EMANADAS O QUE DE ELLAS EMANEN Y DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO DE (cargo que protesta), QUE LE HA SIDO CONFERIDO MIRANDO EN TODO MOMENTO POR EL BIEN DEL ESTADO?"
 
-Si el interrogado responde afirmativamente, deberá hacerlo levantando la mano que la persona decida a la altura del hombro y decir “SI, PROTESTO”
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
 
-Quien le tome la protesta responderá entonces: “SI ASI LO HACE QUE EL ESTADO SE LO RECONOZCA Y SI NO, QUE SE LO DEMANDE”
+Si el interrogado responde afirmativamente, deberá hacerlo levantando la mano que la persona decida a la altura del hombro y decir "SI, PROTESTO"
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
+
+Quien le tome la protesta responderá entonces: "SI ASI LO HACE QUE EL ESTADO SE LO RECONOZCA Y SI NO, QUE SE LO DEMANDE"
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
 
 Una vez concluida la ceremonia, se asentará en el acta correspondiente y el nombramiento surtirá todos sus efectos legales.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
+
 Del acta de protesta se remitirá un ejemplar a la Secretaría de Fiscalización y Rendición de Cuentas.
 
-Al tomar posesión del cargo, quienes sean titulares de las dependencias, entidades, de la Procuraduría para Niños, Niñas y la Familia y de la Procuraduría General de Justicia, recibirán los asuntos inherentes a su competencia, así como los recursos humanos, materiales y financieros en los términos de las disposiciones aplicables.
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
+
+Al tomar posesión del cargo, quienes sean titulares de las dependencias, entidades y de la Procuraduría para Niños, Niñas y la Familia, recibirán los asuntos inherentes a su competencia, así como los recursos humanos, materiales y financieros en los términos de las disposiciones aplicables.
 
 ###### ARTÍCULO 18.
 
@@ -445,15 +481,13 @@ XVI. (DEROGADA, P.O. 22 DE FEBRERO DE 2015)
 
 XVII. Secretaría de Fiscalización y Rendición de Cuentas, y
 
-> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2012)</small>
-
-XVIII. Procuraduría General de Justicia del Estado.
+XVIII. (DEROGADA, P.O. 11 DE AGOSTO DE 2017)
 
 XIX. (DEROGADA, P.O. 15 DE ABRIL DE 2016)
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
 
-Quienes sean titulares de las Secretarías, la Procuraduría para Niños, Niñas y la Familia y de la Procuraduría General de Justicia, integrarán el gabinete legal.
+Quienes sean titulares de las Secretarías y la Procuraduría para Niños, Niñas y la Familia, integrarán el gabinete legal.
 
 > <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
 
@@ -479,7 +513,9 @@ V. Planear, organizar, coordinar, supervisar y evaluar el funcionamiento de sus 
 
 VI. Formular los anteproyectos de leyes, reglamentos, decretos, acuerdos, convenios y demás disposiciones de carácter general que se requieran para el manejo de los asuntos de su competencia y remitirlos al gobernador, por conducto de la Consejería Jurídica;
 
-VII. Expedir, previa opinión de la Consejería Jurídica, los acuerdos, circulares y demás disposiciones de carácter general necesarias para el desarrollo y ejercicio de las atribuciones que le competan;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2017)</small>
+
+VII. Expedir, previa opinión de la Consejería Jurídica, los acuerdos, circulares, los manuales de organización, de procedimientos y de servicios al público y demás disposiciones de carácter general necesarias para el desarrollo y ejercicio de las atribuciones que le competan;
 
 VIII. Comparecer ante el Congreso del Estado cuando éste así se lo requiera, se discuta una ley o se estudie un asunto concerniente a sus respectivos ramos o actividades, previa anuencia del gobernador;
 
@@ -623,9 +659,9 @@ XXVIII. Organizar, dirigir y supervisar bajo su adscripción a la Policía del E
 
 XXIX. Proponer al Ejecutivo del Estado el nombramiento del Comisionado Estatal de Seguridad y del Secretario Ejecutivo del Sistema Estatal de Seguridad Pública;
 
-> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2017)</small>
 
-XXX. Proponer en el seno del Consejo Estatal de Seguridad Pública, políticas, acciones y estrategias de coordinación en materia de prevención del delito y política criminal para todo el territorio del Estado; y efectuar, en coordinación con la Procuraduría General de Justicia del Estado, estudios sobre los actos delictivos no denunciados e incorporar esta variable en el diseño de las políticas en materia de prevención del delito;
+XXX. Proponer en el seno del Consejo Estatal de Seguridad Pública, políticas, acciones y estrategias de coordinación en materia de prevención del delito y política criminal para todo el territorio del Estado; y efectuar estudios sobre los actos delictivos no denunciados e incorporar esta variable en el diseño de las políticas en materia de prevención del delito;
 
 > <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
 
@@ -635,9 +671,9 @@ XXXI. Auxiliar a las autoridades estatales y municipales, que soliciten apoyo en
 
 XXXII. Promover la celebración de convenios entre las autoridades estatales y municipales, en aras de lograr la efectiva coordinación y funcionamiento del Sistema Estatal de Seguridad Pública y el combate a la delincuencia; así como establecer acuerdos de colaboración con instituciones similares, en los términos de la legislación aplicable;
 
-> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2017)</small>
 
-XXXIII. Auxiliar al Poder Judicial del Estado, cuando así lo requiera, para el debido ejercicio de sus funciones, así como a otras dependencias, órganos de gobierno y municipios; y cuando lo solicite, a la Procuraduría General de Justicia en la investigación y persecución de los delitos, en cuyo caso los cuerpos de policía que actúen en su auxilio estarán bajo el mando y conducción del Ministerio Público; y disponer de la fuerza pública en términos de las disposiciones legales aplicables;
+XXXIII. Auxiliar al Poder Judicial del Estado, cuando así lo requiera, para el debido ejercicio de sus funciones, así como a otras dependencias, órganos de gobierno y municipios; y cuando lo solicite, a la Fiscalía General del Estado de Coahuila de Zaragoza en la investigación y persecución de los delitos, en cuyo caso los cuerpos de policía que actúen en su auxilio estarán bajo el mando y conducción del Ministerio Público; y disponer de la fuerza pública en términos de las disposiciones legales aplicables;
 
 > <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
 
@@ -1109,7 +1145,9 @@ XXXIII. Las demás que le correspondan conforme a esta Ley y otras disposiciones
 
 A la Secretaría de Finanzas le corresponde el despacho de los siguientes asuntos:
 
-I. Elaborar el proyecto de la Ley de Ingresos y del Presupuesto de Egresos del Estado, en coordinación con las dependencias, entidades y la Procuraduría General de Justicia y someterlo a la aprobación del gobernador;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2017)</small>
+
+I. Elaborar el proyecto de la Ley de Ingresos y del Presupuesto de Egresos del Estado, en coordinación con las dependencias y entidades y someterlo a la aprobación del gobernador;
 
 II. Llevar a cabo la administración, guarda y distribución de los caudales públicos, la planeación, programación, presupuestación, ejecución y evaluación de la actividad hacendaria, económica, financiera, fiscal y tributaria;
 
@@ -1617,69 +1655,109 @@ XIX. Generar políticas públicas para incrementar la productividad, fomentar la
 
 XX. Ejecutar los convenios y acuerdos que en materia del trabajo suscriba el Poder Ejecutivo del Estado con la Federación.
 
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
+
 ###### ARTÍCULO 36.
-
-(DEROGADO, P.O. 22 DE FEBRERO DE 2015)
-
-###### ARTÍCULO 37.
 
 A la Secretaría de Fiscalización y Rendición de Cuentas, le corresponde el despacho de los siguientes asuntos:
 
-I. Planear, organizar y coordinar el sistema estatal de control y evaluación gubernamental, verificando el ejercicio del gasto público y su congruencia con el presupuesto de egresos;
+I. Organizar y coordinar el sistema de control interno y la evaluación de la gestión gubernamental; inspeccionar el ejercicio del gasto público estatal y su congruencia con los presupuestos de egresos, así como concertar con las dependencias y entidades de la Administración Pública Estatal y validar los indicadores para la evaluación de la gestión gubernamental, en los términos de las disposiciones aplicables;
 
-II. Vigilar el cumplimiento de las normas que regulen los instrumentos y procedimientos de control, transparencia y evaluación de la administración pública;
+II. Vigilar, en colaboración con las autoridades que integren el Comité Coordinador del Sistema Estatal Anticorrupción, el cumplimiento de las normas de control interno y fiscalización, así como asesorar y apoyar a los órganos internos de control de las dependencias y entidades de la Administración Pública Estatal;
 
-III. Verificar el cumplimento por parte de las dependencias y entidades de las disposiciones legales en materia de planeación, presupuestación y contabilidad gubernamental, así como las de contratación y remuneración de recursos humanos, contratación de adquisiciones, arrendamientos, servicios y ejecución de obra pública, conservación, uso, afectación de activos y demás recursos materiales de la administración;
+III. Vigilar el cumplimiento, por parte de las dependencias y entidades de la Administración Pública Estatal, de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda y patrimonio;
 
-IV. Establecer las normas generales para la realización de auditorías, inspecciones y evaluaciones a las dependencias y entidades, así como realizar estas acciones con el objeto de promover la eficiencia en las operaciones y verificar el cumplimiento de los objetivos contenidos en sus programas;
+IV. Coordinar y supervisar el sistema de control interno, establecer las bases generales para la realización de auditorías internas, transversales y externas; expedir las normas que regulen los instrumentos y procedimientos en dichas materias en las dependencias y entidades de la Administración Pública Estatal, así como realizar las auditorías que se requieran en éstas, en sustitución o apoyo de sus propios órganos internos de control;
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2012)</small>
+V. Designar y remover a los titulares de los órganos internos de control de las dependencias y entidades de la Administración Pública del Estado, así como de las unidades administrativas equivalentes en las empresas productivas del Estado, quienes dependerán jerárquica y funcionalmente de la Secretaría de Fiscalización y Rendición de Cuentas, asimismo, designar y remover a los titulares de las áreas de auditoría, quejas y responsabilidades de los citados órganos internos de control; quienes tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los Tribunales, representando al Titular de dicha Secretaría;
 
-V. Designar los comisarios y órganos de vigilancia de las entidades paraestatales, así como designar, coordinar y asesorar a quienes sean titulares de los órganos de control interno de las dependencias y de la Procuraduría General de Justicia, quienes dependerán jerárquicamente de la Secretaría.
+VI. Designar y remover a los auditores externos de las entidades, así como normar y controlar su desempeño;
 
-VI. Asignar la participación de auditores externos y consultores que coadyuven en el cumplimiento de las funciones de verificación y vigilancia que le competen, así como normar y controlar su desempeño;
-
-VII. Participar en los procedimientos administrativos de entrega-recepción de las dependencias y entidades de la administración pública y coadyuvar en esta materia con los municipios que lo soliciten;
+VII. Intervenir por sí o a través de los órganos internos de control, en los procesos de entrega y recepción de las oficinas de las dependencias y entidades de la administración pública estatal, a efecto de verificar el procedimiento a seguir y conocer de las incidencias que pudieran resultar en faltas administrativas;
 
 VIII. Supervisar el cumplimiento de convenios y contratos en los que participen las dependencias y entidades, así como los acuerdos y convenios celebrados entre la federación y el estado, asimismo, los que se suscriban entre el estado y los municipios;
 
-IX. Establecer las disposiciones administrativas y lineamientos necesarios para el cumplimiento de las normas en materia de adquisiciones, arrendamientos, contratación de servicios, obra pública y servicios relacionados con las mismas y verificar su cumplimiento desde su planeación, contratación y ejecución;
+IX. Establecer y conducir la política general de las contrataciones públicas reguladas por la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios para el Estado de Coahuila de Zaragoza y la Ley de Obras Públicas y Servicios Relacionados con las mismas para el Estado de Coahuila de Zaragoza, propiciando las mejores condiciones de contratación conforme a los principios de eficiencia, eficacia, economía, transparencia, imparcialidad y honradez; emitir las normas, lineamientos, manuales, procedimientos y demás instrumentos análogos que se requieran en materia de dichas contrataciones públicas; proporcionar, en su caso, asesoría normativa con carácter preventivo en los procedimientos de contratación regulados por las mencionadas leyes que realicen las dependencias y entidades de la Administración Pública Estatal y promover, con la intervención que corresponda a otras dependencias de la Administración Pública Estatal, la coordinación y cooperación con los Poderes Ejecutivo, Legislativo y Judicial locales, los órganos constitucionales autónomos, los municipios y demás entes públicos encargados de regímenes de contratación pública, a efecto de propiciar en lo procedente la homologación de políticas, normativas y criterios en materia de contrataciones públicas, que permita contar con un sistema de contrataciones públicas articulado a nivel estatal;
 
 X. Llevar el padrón de proveedores y contratistas, vigilar el cumplimiento de sus obligaciones, extendiendo la verificación a las obligaciones fiscales y laborales;
 
-XI. Atender las quejas e inconformidades que presenten los particulares con motivo de licitaciones, convenios o contratos que celebren con las dependencias, entidades y la Procuraduría General de Justicia;
+XI. Atender las quejas que presente la ciudadanía con motivo del desempeño del servicio público y las inconformidades que presenten los particulares con motivo de licitaciones, convenios o contratos que celebren con las dependencias y entidades;
 
 XII. Archivar y llevar el registro de las actas o instrumentos que contengan la toma de protesta de los servidores públicos de la administración pública;
 
-XIII. Recibir y registrar las declaraciones patrimoniales de los servidores públicos y verificar su contenido mediante las investigaciones que fueren pertinentes;
+XIII. Llevar y normar el registro de servidores públicos de la Administración Pública del Estado, recibir y registrar las declaraciones patrimoniales y de intereses que deban presentar, así como verificar su contenido mediante las investigaciones que resulten pertinentes de acuerdo con las disposiciones aplicables. También registrará la información sobre las sanciones administrativas que, en su caso, les hayan sido impuestas;
 
-XIV. Conocer e investigar los actos, omisiones o conductas de los servidores públicos que puedan constituir responsabilidad administrativa, aplicar las sanciones que correspondan, y en su caso, presentar las denuncias ante el ministerio público, prestándole para tal efecto la colaboración que le fuera requerida;
+XIV. Conocer e investigar las conductas de los servidores públicos de la Administración Pública del Estado que puedan constituir responsabilidades administrativas, así como substanciar los procedimientos correspondientes conforme a lo establecido en la Ley General de Responsabilidades Administrativas, por sí, o por conducto de los órganos internos de control que correspondan a cada área de la Administración Pública; para lo cual podrán aplicar las sanciones que correspondan en los casos que no sean de la competencia del Tribunal de Justicia Administrativa de Coahuila de Zaragoza y, cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante ese Tribunal; así como presentar las denuncias correspondientes ante la Fiscalía Especializada en Delitos por Hechos de Corrupción y ante otras autoridades competentes, en términos de las disposiciones aplicables;
 
-XV. Formular y conducir la política general de la administración pública para establecer acciones que propicien la eficiencia presupuestal, transparencia y rendición de cuentas en el ejercicio gubernamental, así como el acceso por parte de los particulares a la información que aquélla genere;
+XV. Formular y conducir en apego y de conformidad con las bases de coordinación que establezca el Comité Coordinador del Sistema Estatal Anticorrupción, la política general de la Administración Pública Estatal para establecer acciones que propicien la integridad y la transparencia en la gestión pública, la rendición de cuentas y el acceso por parte de los particulares a la información que aquélla genere; así como promover dichas acciones hacia la sociedad;
 
-XVI. Opinar, previo a su expedición, sobre las normas de contabilidad y de control en materia de planeación, programación, presupuestación y administración de recursos humanos, financieros y materiales;
+XVI. Conducir las políticas, establecer las normas y emitir las autorizaciones y criterios correspondientes en materia de planeación y administración de recursos humanos, contratación del personal, (sic) Servicio Profesional de Carrera;
 
-XVII. Emitir su opinión sobre los proyectos de leyes, reglamentos o cualquier otra disposición que modifique la estructura orgánica de la administración pública;
+XVII. Aprobar y registrar las estructuras orgánicas y ocupacionales de las dependencias y entidades de la Administración Pública Estatal y sus modificaciones; previo dictamen presupuestal favorable de la Secretaría de Finanzas;
 
 XVIII. Vigilar que las dependencias cuenten con reglamento interior, manuales de organización, manuales de procedimientos administrativos, y su congruencia y alineación entre los mismos;
 
-XIX. Organizar, coordinar y evaluar los programas integrales de modernización, desarrollo administrativo y calidad en las dependencias, entidades y la Procuraduría General de Justicia;
+XIX. Organizar, coordinar y evaluar los programas integrales de modernización, desarrollo administrativo y calidad en las dependencias y entidades;
 
-XX. Proponer medidas tendientes a la simplificación de los trámites y procedimientos internos de las dependencias y entidades, así como los que ante ellos deban efectuar los particulares con arreglo a las leyes;
+XX. Emitir normas, lineamientos específicos y manuales que, dentro del ámbito de su competencia, integren disposiciones y criterios que impulsen la simplificación administrativa, para lo cual deberán tomar en consideración las bases y principios de coordinación y recomendaciones generales que emita el Comité Coordinador del Sistema Estatal Anticorrupción;
 
 XXI. Dictar las normas técnicas y criterios de aplicación a que deba sujetarse la planeación, programación y evaluación de las acciones, que en materia de informática, se lleven a cabo en la administración pública y otorgar la asesoría correspondiente;
 
-XXII. Vigilar el cumplimiento de las políticas en materia de protección a los derechos humanos, igualdad de género, respeto a la diversidad y protección al medio ambiente, y
+XXII. Vigilar el cumplimiento de las políticas en materia de protección a los derechos humanos, igualdad de género, respeto a la diversidad y protección al medio ambiente;
 
-XXIII. Promover estrategias para instrumentar políticas de gobierno electrónico y coadyuvar con los municipios que así lo soliciten.
+XXIII. Definir la política de gobierno digital, gobierno abierto y datos abiertos en el ámbito de las dependencias y entidades de la Administración Pública Estatal;
 
-### CAPÍTULO CUARTO. DE LA PROCURADURÍA GENERAL DE JUSTICIA
+XXIV. Expedir las normas que regulen los instrumentos y procedimientos de control interno de la Administración Pública Estatal, para lo cual podrá requerir de las dependencias competentes la expedición de normas complementarias para el ejercicio del control administrativo. Lo anterior, sin menoscabo de las bases y principios de coordinación y recomendaciones emitidas por el Comité Coordinador del Sistema Estatal Anticorrupción;
+
+XXV. Fiscalizar directamente o a través de los órganos internos de control, que las dependencias y entidades de la Administración Pública Estatal cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y remuneraciones de personal, contratación de adquisiciones, arrendamientos, arrendamiento financiero, servicios y ejecución de obra pública, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de la Administración Pública Estatal;
+
+XXVI. Seleccionar a los integrantes de los órganos internos de control, garantizando la igualdad de oportunidades en el acceso a la función pública, atrayendo a los mejores candidatos para ocupar los puestos, a través de procedimientos transparentes, objetivos y equitativos;
+
+XXVII. Designar y remover para el mejor desarrollo del sistema de control y evaluación de la gestión gubernamentales a los comisarios públicos de los órganos de vigilancia de las entidades de la Administración Pública Paraestatal; así como normar y controlar su desempeño;
+
+XXVIII. Colaborar en el marco de los Sistemas Nacionales Anticorrupción y de Fiscalización, así como con los correspondientes en el Estado, en el establecimiento de las bases y principios de coordinación necesarios que permitan el mejor cumplimiento de las responsabilidades de sus integrantes;
+
+XXIX. Implementar las acciones que acuerde el Sistema Estatal Anticorrupción, en términos de las disposiciones aplicables;
+
+XXX. Informar periódicamente al Comité Coordinador del Sistema Anticorrupción del Estado, así como al Ejecutivo Estatal, sobre el resultado de la evaluación respecto de la gestión de las dependencias y entidades de la Administración Pública Estatal, así como del resultado de la revisión del ingreso, manejo, custodia y ejercicio de recursos públicos estatales, y promover ante las autoridades competentes las acciones que procedan para corregir las irregularidades detectadas;
+
+XXXI. Establecer mecanismos internos para la Administración Pública Estatal que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas;
+
+XXXII. Implementar las políticas de coordinación que promueva el Comité Coordinador del Sistema Nacional Anticorrupción, en materia de combate a la corrupción en la Administración Pública Estatal;
+
+XXXIII. Emitir el Código de Ética de los servidores públicos de la administración pública estatal y las Reglas de Integridad para el ejercicio de la función pública;
+
+XXXIV. Ejercer las facultades que la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Coahuila de Zaragoza le otorga a los órganos internos de control para revisar, mediante las auditorías a que se refiere el presente artículo, el ingreso, manejo, custodia y ejercicio de recursos públicos estatales, recursos públicos federales y participaciones federales según corresponda en el ámbito de su competencia; y
+
+XXXV. Las demás que le encomienden expresamente las leyes y reglamentos.
+
+El nombramiento del Secretario de Fiscalización y Rendición de Cuentas, que someta el Titular del Ejecutivo del Estado a ratificación del Poder Legislativo local, deberá estar acompañado de la declaración de intereses de la persona propuesta, en los términos previstos en las Leyes y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
+
+###### ARTÍCULO 37.
+
+Los titulares de los órganos internos de control de las dependencias y entidades de la Administración Pública Estatal y de sus áreas de auditoría, quejas y responsabilidades, serán responsables de mantener el control interno de la dependencia o entidad a la que se encuentren adscritos. Asimismo, tendrán como función apoyar la política de control interno y la toma de decisiones relativas al cumplimiento de los objetivos y políticas institucionales, así como al buen desempeño de servidores públicos y órganos, a la modernización continua y desarrollo eficiente de la gestión administrativa y al correcto manejo de los recursos públicos. Los órganos internos de control de las entidades que cuenten con un régimen específico de control interno, se sujetarán a las funciones y organización establecidas en las disposiciones mediante las que se crea la respectiva entidad.
+
+Los órganos internos de control tienen la facultad de auditoría prevista en la fracción XXXIV del artículo 36 de esta ley y en ejercicio de esta atribución, se regirán por las leyes y disposiciones sobre adquisiciones, obra pública, presupuesto, contabilidad, procedimiento administrativo, transparencia y acceso a la información, responsabilidades, combate a la corrupción y demás disposiciones aplicables en la materia y por las bases y principios de coordinación que emitan el Comité Coordinador del Sistema Nacional Anticorrupción, el Comité Coordinador del Sistema Anticorrupción del Estado y la Secretaría de Fiscalización y Rendición de Cuentas respecto de dichos asuntos, así como sobre la organización, funcionamiento y supervisión de los sistemas de control interno, mejora de gestión en las dependencias y entidades de la Administración Pública Estatal y presentación de informes por parte de dichos órganos.
+
+(sic) Secretaría de Fiscalización y Redición (sic) de Cuentas como integrante del Sistema Nacional de Fiscalización incorporarán (sic) en su ejercicio las normas técnicas y código de ética, de conformidad con la Ley Nacional del Sistema Anticorrupción, Ley del Sistema Estatal Anticorrupción y las mejores prácticas que considere el referido sistema.
+
+Las unidades encargadas de la función de auditoría de la Secretaría de Fiscalización y Redición (sic) de Cuentas y los órganos internos de control formularán en el mes de noviembre su plan anual de trabajo y de evaluación.
+
+Los titulares de las unidades encargadas de la función de auditoría de la Secretaría de Fiscalización y Redición (sic) de Cuentas y de los órganos internos de control, en los meses de mayo y noviembre entregarán informes al titular de dicha Secretaría, sobre hallazgos en la gestión y recomendaciones en relación con las acciones correctivas, preventivas y oportunidades de mejora respecto de la calidad y eficiencia de los distintos procesos internos y sobre la relación de los procedimientos por faltas administrativas y de sanciones aplicadas por los órganos internos de control; las acciones de responsabilidad presentadas ante el Tribunal de Justicia Administrativa de Coahuila de Zaragoza y las sanciones correspondientes; las denuncias por actos de corrupción que presenten ante la Fiscalía Especializada en Delitos por Hechos de Corrupción; así como un informe detallado del porcentaje de los procedimientos iniciados por los órganos internos de control que culminaron con una sanción firme y a cuánto ascienden, en su caso, las indemnizaciones efectivamente cobradas durante el periodo del informe.
+
+Con base en dichos informes, así como de las recomendaciones y las bases y principios de coordinación que emita el Comité Coordinador del Sistema Nacional Anticorrupción y el Comité Coordinador del Sistema Anticorrupción del Estado, tanto las dependencias y entidades, así como la Secretaría de Fiscalización y Redición (sic) de Cuentas, implementarán las acciones pertinentes para mejora de la gestión.
+
+De acuerdo a lo establecido en las leyes de la materia, así como en las bases y principios de coordinación emitidas por el Comité Coordinador del Sistema Nacional Anticorrupción y el Comité Coordinador del Sistema Anticorrupción del Estado, los titulares de los órganos internos de control encabezarán comités de control y desempeño institucional para el seguimiento y evaluación general de la gestión.
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE AGOSTO DE 2017)</small>
+
+### CAPÍTULO CUARTO
 
 ###### ARTÍCULO 38.
 
-La Procuraduría General de Justicia es el órgano de la administración pública centralizada en el que se integra la institución del Ministerio Público, sus órganos auxiliares y áreas de apoyo. En el ejercicio de la función de investigación y persecución de los delitos del orden común, el Ministerio Público cuenta con autonomía técnica, operativa y de criterio jurídico.
-
-Quien sea titular de la Procuraduría General de Justicia, presidirá al Ministerio Público, cuya organización y atribuciones se sujetará a las disposiciones constitucionales, así como a lo previsto en la Ley de la materia.
+(DEROGADO, P.O. 11 DE AGOSTO DE 2017)
 
 ## TÍTULO TERCERO. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL
 
@@ -2008,3 +2086,33 @@ TERCERO.- Los asuntos en trámite que con motivo de esta reforma deban pasar de 
 CUARTO.- En un plazo de veinte días posteriores a la entrada en vigor del presente decreto, se deberá realizar la adecuación de los reglamentos interiores y demás disposiciones aplicables de las secretarías Técnica y de Planeación, de Finanzas y de Infraestructura y Transporte, conforme a las nuevas atribuciones que les otorga la presente reforma.
 
 QUINTO.- Se derogan todas las disposiciones que se opongan a este decreto.
+
+P.O. 11 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 913.- SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 1; LA FRACCIÓN IV DEL ARTÍCULO 3; EL PRIMER PÁRRAFO DEL ARTÍCULO 6; EL PRIMER PÁRRAFO DEL ARTÍCULO 7; LAS FRACCIONES VIII Y XX DEL APARTADO A Y FRACCIÓN IX APARTADO B DEL ARTÍCULO 9; EL ARTICULO 16; LOS PÁRRAFOS PRIMERO, SEGUNDO Y NOVENO DEL ARTÍCULO 17; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 20; LA FRACCIÓN VII DEL ARTICULO 21; LAS FRACCIONES XXX Y XXXIII DEL ARTÍCULO 23; LA FRACCIÓN I DEL ARTÍCULO 29; EL ARTÍCULO 36; Y EL ARTÍCULO 37; Y SE ADICIONAN UN PÁRRAFO CUARTO AL ARTÍCULO 1; Y UN PÁRRAFO QUINTO AL ARTÍCULO 6; SE DEROGAN LA FRACCIÓN IX DEL ARTÍCULO 3; LA FRACCIÓN XVIII DEL ARTÍCULO 20, EL CAPÍTULO CUARTO Y EL ARTÍCULO 38, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA."]
+
+PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día posterior a su publicación, sin perjuicio de los siguientes transitorios.
+
+TERCERO.- En un plazo no mayor a treinta días a partir de la publicación del presente decreto, se deberán de realizar las adecuaciones necesarias a las disposiciones administrativas correspondientes.
+
+CUARTO.- Las reformas relativas a la Fiscalía General de Justicia del Estado de Coahuila de Zaragoza, entrarán en vigor una vez que se emita la declaratoria a que se refiere el artículo segundo transitorio de la reforma a la Constitución Política del Estado de Coahuila de Zaragoza publicada en el Periodico Oficial del Gobierno del Estado de Coahuila de Zaragoza el 14 de julio de 2017.
+
+QUINTO.- La reforma a la Ley Orgánica del Poder judicial del Estado de Coahuila de Zaragoza entrará en vigor, una vez que los Magistrados del Tribunal de Justicia Administrativa de Coahuila de Zaragoza sean designados por el Ejecutivo del Estado y ratificados por el Congreso Estatal, en los términos de la Constitución Política del Estado de Coahuila de Zaragoza, e inicien sus funciones de conformidad con el segundo párrafo de (sic) transitorio tercero de la Ley Orgánica del Tribunal de Justicia Administrativa de Coahuila de Zaragoza.
+
+SEXTO.- En el caso de que existan recursos presupuestales asignados al Tribunal de lo Contencioso Administrativo, se deberán transferirse (sic) al Tribunal de Justicia Administrativa de Coahuila de Zaragoza en los términos de las disposiciones aplicables.
+
+SÉPTIMO.- Los procedimientos de responsabilidad administrativa iniciados con anterioridad a la entrada en vigor de la presente reforma y aquellos que se verifiquen antes de la entrada en vigor de la Ley General de Responsabilidades Administrativas, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
+
+Respecto de las conductas de los servidores públicos, consideradas por las leyes como faltas administrativas, realizadas hasta antes de la entrada en vigor de la Ley General de Responsabilidades Administrativas, se continuará aplicando la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza y en su caso, las demás disposiciones aplicables vigentes al momento de su ejecución.
+
+En cuanto a las conductas de los servidores públicos de la Procuraduría General de Justicia del Estado consideradas por las leyes como faltas administrativas, realizadas antes de la entrada en vigor de la Ley General de Responsabilidades Administrativas, se continuará aplicando la Ley Orgánica de la Procuraduría General de Justicia del Estado, su reglamento y en su caso, las demás disposiciones aplicables vigentes al momento de su realización.
+
+OCTAVO.- Hasta que sean designados los titulares de los órganos internos de control de las dependencias y entidades de la Administración Pública del Estado, así como de las unidades administrativas equivalentes en las empresas productivas del Estado, así como a los titulares de las áreas de auditoría, quejas y responsabilidades de los citados órganos internos de control, a que se refiere la Fracción V del artículo 36, será la Secretaría de Fiscalización y Rendición de Cuentas la encargada de llevar a cabo de manera temporal estas funciones.
+
+NOVENO.- La Secretaría de Fiscalización y Rendición de Cuentas como Órgano Estatal de Control seguirá facultada para realizar el registro de la situación patrimonial de los servidores públicos de los Poderes Ejecutivo, Legislativo y Judicial, de los municipios de la entidad; de las entidades paraestatales y paramunicipales, así como el de los organismos autónomos del estado, hasta en tanto el Comité Coordinador del Sistema Nacional Anticorrupción emita los formatos para la presentación de las declaraciones patrimoniales y de intereses y se realicen las modificación (sic) a sus respectivos ordenamientos jurídicos.
+
+DÉCIMO.- Los artículos 74, 75 y 75 BIS de la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza continuarán en vigor hasta en tanto el Comité Coordinador del Sistema Nacional Anticorrupción emita los formatos para la presentación de las declaraciones patrimoniales y de intereses.
+
+DÉCIMO PRIMERO.- Se derogan las disposiciones que se opongan al presente decreto.
