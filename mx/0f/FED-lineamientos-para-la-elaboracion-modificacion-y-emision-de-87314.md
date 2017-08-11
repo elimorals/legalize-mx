@@ -4,7 +4,7 @@ identifier: "FED-lineamientos-para-la-elaboracion-modificacion-y-emision-de-8731
 country: "mx"
 rank: "lineamientos"
 publication_date: "2012-04-19"
-last_updated: "2016-05-27"
+last_updated: "2017-08-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87314&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2012-03-28"
 ---
 # LINEAMIENTOS PARA LA ELABORACION, MODIFICACION Y EMISION DE INSTRUMENTOS NORMATIVOS DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LOS LINEAMIENTOS PARA LA ELABORACIÓN, MODIFICACIÓN Y EMISIÓN DE INSTRUMENTOS NORMATIVOS DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, PUBLICADO EN EL D.O.F. DE 11 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LINEAMIENTOS PARA LA ELABORACIÓN, MODIFICACIÓN Y EMISIÓN DE INSTRUMENTOS NORMATIVOS DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE AGOSTO DE 2017 (ABROGADO).
 
 Lineamientos publicados en la Primera Sección del Diario Oficial de la Federación, el jueves 19 de abril de 2012.
 
@@ -1168,3 +1170,13 @@ EL SUSCRITO, LICENCIADO JORGE ENRIQUE MATA GÓMEZ, SECRETARIO DE LA COMISIÓN DE
 CERTIFICA
 
 Que la presente copia en 84 fojas, corresponde a los Lineamientos para la Elaboración, Modificación y Emisión de Instrumentos Normativos del Tribunal Electoral del Poder Judicial de la Federación, aprobados por la Comisión de Administración mediante acuerdo 104/S4(19-IV-2016), emitido en la Cuarta Sesión Ordinaria celebrada el 19 de abril de 2016, que obra en los archivos de la Coordinación de Asuntos Jurídicos. DOY FE Ciudad de México, 13 de mayo de 2016.- El Secretario de la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación, Jorge Enrique Mata Gómez.- Rúbrica.
+
+D.O.F. 11 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LOS “LINEAMIENTOS PARA LA ELABORACIÓN, MODIFICACIÓN Y EMISIÓN DE INSTRUMENTOS NORMATIVOS DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN”.]
+
+PRIMERO.- Los Lineamientos para la elaboración, modificación y emisión de instrumentos normativos del Tribunal Electoral del Poder Judicial de la Federación entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abrogan los Lineamientos para la elaboración, modificación y emisión de instrumentos normativos del Tribunal Electoral del Poder Judicial de la Federación, aprobados por la Comisión de Administración en la Cuarta Sesión Ordinaria de 2016 mediante Acuerdo 104/S4(19-IV-2016).
+
+TERCERO. Para su mayor difusión, publíquese en las páginas de intranet e internet del Tribunal Electoral del Poder Judicial de la Federación.
