@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-seguridad-privada-para-el-estado-de-chihuahua-90711"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-29"
-last_updated: "2017-02-22"
+last_updated: "2017-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90711&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE SEGURIDAD PRIVADA PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2017.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 29 de diciembre de 2012.
 
@@ -522,6 +522,10 @@ La Autorización o Revalidación será otorgada cuando no se ponga en riesgo el 
 ###### Artículo 41.
 
 Podrán prestar los Servicios de Seguridad Privada a que se refiere esta Ley, las personas físicas de nacionalidad mexicana y las personas morales constituidas conforme a las leyes mexicanas.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2017)</small>
+
+Siempre y cuando no hayan sido condenados por delito doloso con sanción privativa de la libertad mayor de un año; separado o cesado de las Fuerzas Armadas o de alguna institución de seguridad pública federal, estatal, municipal o Prestador de Servicios de Seguridad Privada, por alguno de los motivos señalados en la fracción VI del artículo 51 de esta Ley; o cuando así lo disponga la presente Ley.
 
 ###### Artículo 42.
 
@@ -1381,8 +1385,6 @@ En caso de revocación de la Autorización y Registro, la resolución que la imp
 
 Tratándose de la revocación de la Cédula de Identificación del Personal Operativo, la resolución que la impuso deberá notificarse durante el día hábil siguiente de haber sido dictada. La revocación de la Cédula será causa suficiente para que el Personal Operativo a quien se le haya impuesto la misma, se abstenga de continuar prestando los servicios para los que fue contratado, por lo que igualmente deberá notificarse dicha resolución al Prestador de Servicios que lo contrató.
 
-.
-
 ## TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
@@ -1482,3 +1484,11 @@ Se derogan todas las disposiciones que se opongan al presente Decreto, entendié
 ###### ARTÍCULO TERCERO.
 
 El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
+
+P.O. 12 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXV/RFLEY/0342/2017 II P.O. POR MEDIO DEL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 41 DE LA LEY DE SEGURIDAD PRIVADA PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
