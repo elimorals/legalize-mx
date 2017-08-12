@@ -4,7 +4,7 @@ identifier: "COL-reglamento-general-para-los-centros-juveniles-municipales-9216"
 country: "mx"
 rank: "reglamento"
 publication_date: "1984-03-24"
-last_updated: "1984-03-24"
+last_updated: "2017-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9216&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # REGLAMENTO GENERAL PARA LOS CENTROS JUVENILES MUNICIPALES DE COLIMA, COLIMA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO PUBLICADO EN EL P.O. DE 12 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO GENERAL PARA LOS CENTROS JUVENILES MUNICIPALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Colima, el sábado 24 de marzo de 1984.
 
@@ -288,3 +290,15 @@ PRIMERO.- El presente Reglamento entrará en vigor a partir del día 25 de marzo
 SEGUNDO.- En un término de treinta días a partir de la fecha en que sean entregados a la Dirección de Cultura y Bienestar Social, los Centros Juveniles que se constituyan, se exigirá a los usuarios la presentación de la credencial correspondiente, para que puedan tener acceso a las instalaciones del Centro respectivo.
 
 Cúmplase.- Dado en el Salón de Cabildos del H. Ayuntamiento Constitucional de Colima, a los 17 días del mes de febrero de mil novecientos ochenta y cuatro.- El Presidente Municipal, ING. CARLOS VAZQUEZ OLDENBOURG.- Rúbrica.- El Secretario, PROFR. J. JESUS ENRIQUEZ CASILLAS.- Rúbrica.- REGIDORES: C.P. GUILLERMO RUBIO CARDENAS.- Rúbrica.- LICDA. MARTHA SANCHEZ CASILLAS.- Rúbrica.- PROFR. ROBERTO SILVA DELGADO.- Rúbrica.- C. JULIO RODRIGUEZ VALDEZ.- Rúbrica.- C. MARGARITO OCON MEDINA.- Rúbrica.- C. EMILIANO RAMIREZ SUAREZ.- Rúbrica.- C. FELIPE PLONEDA OROZCO.- Rúbrica.- C. JORGE TOVAR ESQUIVEL.- Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O.12 DE AGOSTO DE 2017.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL “ACUERDO QUE ABROGA EL REGLAMENTO DE LOS CLUBES JUVENILES MUNICIPALES Y EL REGLAMENTO GENERAL PARA LOS CENTROS JUVENILES MUNICIPALES”.]</small>
+
+PRIMERO.- Es de aprobarse y se aprueba la ABROGACIÓN DEL REGLAMENTO DE LOS CLUBES JUVENILES MUNICIPALES, el cual fuera aprobado en sesión ordinaria del H. Cabildo verificada el 04 de enero de 1986, y publicado en el Periódico Oficial "El Estado de Colima" el 01 de noviembre del mismo año.
+
+SEGUNDO.- Es de aprobarse y se aprueba la ABROGACIÓN DEL REGLAMENTO GENERAL PARA LOS CENTROS JUVENILES MUNICIPALES, el cual fuera aprobado en sesión ordinaria del H. Cabildo verificada el 24 de marzo de 1984, y publicado en el Periódico Oficial "El Estado de Colima" el 25 de marzo del mismo año.
+
+TERCERO.- El titular de la Presidencia Municipal dispondrá se imprima, publique, circule y se dé el debido cumplimiento, de acuerdo a lo dispuesto por el artículo 47, fracción I, incisos a) y f) de la Ley del Municipio Libre del Estado de Colima y 140 del Reglamento del Gobierno Municipal de Colima.
