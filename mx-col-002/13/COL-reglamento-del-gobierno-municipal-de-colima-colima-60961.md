@@ -4,7 +4,7 @@ identifier: "COL-reglamento-del-gobierno-municipal-de-colima-colima-60961"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-12"
-last_updated: "2017-06-10"
+last_updated: "2017-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 REGLAMENTO DEL GOBIERNO MUNICIPAL DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2017.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 12 de abril de 2008.
 
@@ -1005,17 +1005,33 @@ Recibido que sea en la Secretaría del Ayuntamiento un dictamen o punto de acuer
 
 Durante las sesiones de cabildo y en el desahogo de los puntos del orden del día, serán analizados y discutidos los dictámenes o puntos de acuerdo, procediéndose a dar lectura de los dictámenes el presidente o secretario de la comisión correspondiente o el munícipe respectivo, en caso de tratarse de un punto de acuerdo, formulando las aclaraciones que consideren pertinentes.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 79.
 
-Habiéndose dado lectura a un dictamen o punto de acuerdo, el Presidente Municipal lo someterá a discusión.
+Habiéndose dado lectura a un dictamen, el Presidente Municipal lo someterá a discusión del Cabildo, en los términos siguientes:
 
-La discusión de los dictámenes o puntos de acuerdo versará sobre el contenido de éstos, pudiendo los integrantes del cabildo referirse a los anexos.
+Las discusiones respecto a las disposiciones a que se refieren las fracciones I, II, IV, V y VI del artículo 26 de este Reglamento, se sujetarán a lo siguiente:
 
-Al abrir la discusión del dictamen o punto de acuerdo presentado, el Presidente Municipal registrará los nombres de los integrantes del cabildo que soliciten el uso de la voz, para determinar el orden de sus intervenciones.
+A) DISCUSIÓN EN LO GENERAL:
 
-Cuando a juicio del Presidente Municipal se considere suficientemente discutido un asunto, lo dará por agotado procediendo a someterlo a votación del Pleno.
+a) El Presidente Municipal someterá a discusión en lo general el dictamen, en la cual intervendrán hasta tres munícipes a favor y hasta tres en contra;
+
+b) De considerarlo necesario el Cabildo, hablarán a continuación un munícipe más a favor y otro más en contra;
+
+c) A continuación, el Presidente Municipal declarará suficientemente discutido en lo general el dictamen respectivo, y se procederá a su votación en lo general;
+
+d) De ser desechado el dictamen en lo general, no se entrará a la discusión en lo particular; en este caso, el Cabildo podrá determinar mediante acuerdo económico si el asunto se tiene por concluido o si se regresa a Comisiones para elaborar un nuevo dictamen.
+
+Si el dictamen presentado se refiere a un segundo análisis de comisiones y resulta desechado en lo general, el asunto se tendrá por concluido.
+
+B) DISCUSIÓN EN LO PARTICULAR:
+
+a) Cualquier munícipe podrá reservar un artículo o capítulo o título o parte del documento sujeto a debate, para ser discutido en lo particular, caso en el cual se discutirá en el orden de los puntos reservados, independientemente del orden en el que se registren los solicitantes. En este caso, el Presidente Municipal someterá a discusión en lo particular el apartado reservado, en el cual intervendrán un munícipe a favor y otro en contra;
+
+b) A continuación, el Presidente Municipal declarará suficientemente discutido en lo particular el asunto reservado y se procederá a su votación en lo particular;
+
+c) No podrá reservarse para su discusión en lo particular la totalidad del dictamen.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
@@ -1127,7 +1143,15 @@ El voto concurrente se tendrá como voto a favor y se sumará al sentido de la m
 
 Los votos particulares deberán anunciarse en la propia sesión de cabildo en la que se acuerden o resuelven (sic) los asuntos que los motivan y se presentarán por escrito ante el Secretario del H. Ayuntamiento dentro de las 48 horas siguientes al término de dicha sesión. Se insertarán íntegramente en el acta de la sesión de Cabildo al final del acuerdo o resolución que los hubiese originado.
 
-Los munícipes podrán abstenerse de votar los asuntos que se tratan en la Sesión, siempre y cuando justifiquen el motivo de esa decisión. Las abstenciones que se registren se sumarán al sentido de la mayoría.
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2017)</small>
+
+La votación de los dictámenes relacionados con el bando de policía y buen gobierno, los reglamentos, el presupuesto de egresos, las iniciativas de ley y disposiciones de observancia general se harán en lo general y, en su caso, en lo particular tratándose de los artículos reservados por los munícipes para discutirse por separado.
+
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2017)</small>
+
+Los munícipes podrán abstenerse de votar los asuntos que se traten en la sesión, siempre y cuando justifiquen el motivo de esa decisión. Las abstenciones que se registren se sumarán al sentido de la mayoría.
+
+> <small>[N. DE E. REUBICADO, P.O. 12 DE AGOSTO DE 2017]</small>
 
 El Secretario del Ayuntamiento hará constar en el acta de cabildo respectiva los motivos de la abstención.
 
@@ -6399,7 +6423,7 @@ Dado en el Salón de Cabildos del Honorable Ayuntamiento de Colima, a los 4 día
 
 LIC. MARIO ANGUIANO MORENO, Presidente Municipal. Rúbrica.- LIC. JULIO CÉSAR MARÍN VELÁZQUEZ COTTIER, Secretario del Ayuntamiento. Rúbrica.- C.P. JOSÉ ANTONIO OROZCO SANDOVAL, Síndico Municipal. Rúbrica.- REGIDORES: PROFR. NICOLÁS CONTRERAS CORTES, Rúbrica.- C. GONZALO VERDUZCO GENIS, Rúbrica.- LIC. IGNACIA MOLINA VILLARREAL, Rúbrica. C.P. LEONOR DE LA MORA BEJAR, Rúbrica.- LIC. VÍCTOR JACOBO VÁZQUEZ CERDA, Rúbrica. JOSÉ VERDUZCO MORENO, Rúbrica.- LIC. MARGARITA PADILLA CAMBEROS, Rúbrica.- LIC. ELIA BEATRIZ CÁRDENAS W., Rúbrica.- LIC. PATRICIA LUGO BARRIGA, Rúbrica.- ARQ. MILTON DE ALVA GUTIÉRREZ, Rúbrica.- ING. ARMANDO GONZALEZ MANZO, Rúbrica.-
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+[DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.]
 
 P.O. 26 DE DICIEMBRE DE 2009.
 
@@ -6658,3 +6682,13 @@ SEGUNDO.- El Presidente Municipal dispondrá se imprima, publique, circule y se 
 TERCERO.- Se derogan todas las disposiciones reglamentarias que se opongan a las modificaciones contenidas en el presente acuerdo.
 
 CUARTO.- Notifíquese el presente acuerdo a la Procesadora Municipal de Carne, a efecto de que mediante el uso de sus facultades establezca las cantidades a pagar por el aseguramiento de ganado en vía pública.
+
+P.O. 12 DE AGOSTO DE 2017.
+
+[N. DE EN TRANSITORIOS DEL "ACUERDO QUE MODIFICA EL ARTÍCULO 79 Y ADICIONA EL SEXTO PÁRRAFO DEL ARTÍCULO 88, RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES, DEL REGLAMENTO DEL GOBIERNO MUNICIPAL DE COLIMA".]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su aprobación por el H. Cabildo.
+
+SEGUNDO.- Se derogan todas las disposiciones reglamentarias que se opongan a las modificaciones contenidas en el presente acuerdo.
+
+TERCERO.- El Presidente Municipal dispondrá se imprima, publique, circule y se le dé el debido cumplimiento, de acuerdo con lo dispuesto por el artículo 47, fracción I, incisos a) y f) de la Ley del Municipio Libre, artículos 140, 180, fracción I, incisos a) y f) del Reglamento de (sic) Gobierno Municipal de Colima.
