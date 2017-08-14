@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-y-trato-digno-para-los-animales-en-el-44394"
 country: "mx"
 rank: "ley"
 publication_date: "2005-02-28"
-last_updated: "2016-12-31"
+last_updated: "2017-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROTECCIÓN Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 28 de febrero de 2005.
 
@@ -45,13 +45,21 @@ QUE CONTIENE LA LEY DE PROTECCION Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO D
 
 La presente Ley es de observancia obligatoria; sus disposiciones son de orden público e interés social y sus objetivos son:
 
-I.- Proteger a la fauna en general erradicando los actos de crueldad provocados por el hombre, y sancionar dichas acciones;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2017)</small>
 
-II.- Asegurar las condiciones para el trato digno y respetuoso de todas las especies de animales;
+I.- Proteger a la fauna en general erradicando los actos de crueldad provocados por los seres humanos, sancionando dichas acciones y procurando el bienestar de los animales;
 
-III.- Regular, la posesión, propiedad, reproducción, producción, aprovechamiento, investigación, transporte y sacrificio de especies, poblaciones o ejemplares;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2017)</small>
 
-IV.- Desarrollar los mecanismos de concurrencia entre los Gobiernos: Federal, Estatal y Municipales, en materia de conservación de la fauna silvestre y su hábitat, de conformidad con las disposiciones generales aplicables;
+II.- Asegurar las condiciones para el trato digno y respetuoso, fomentando la protección y conservación de todas las especies de animales;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2017)</small>
+
+III.- Regular la posesión, propiedad, reproducción, producción, aprovechamiento, investigación, transporte, manejo, trato y sacrificio de especies, poblaciones o ejemplares;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2017)</small>
+
+IV.- Desarrollar los mecanismos de concurrencia entre los Gobiernos: Federal, Estatal y Municipal, en materia de conservación de la fauna silvestre y su hábitat, fomentando la participación de los sectores público y privado y promoviendo la cultura del respeto, de conformidad con las disposiciones generales aplicables;
 
 V.- Instrumentar el cumplimiento de la política ambiental del Estado en materia de fauna silvestre y recursos bióticos;
 
@@ -59,9 +67,17 @@ VI.- Proteger al ser humano y a su entorno coadyuvando en el cumplimiento de las
 
 VII.- Impulsar el desarrollo urbano ambiental, previniendo los brotes de zoonosis y preservando la vida animal;
 
-VIII.- Propiciar y fomentar la participación de los sectores privado y social para la plena observancia de la presente Ley; y
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2017)</small>
 
-IX.- Promover por todos los medios posibles y en todos los sectores de la sociedad, una cultura de respeto, protección y trato digno para todas las formas de vida, dando prioridad, a los animales más desprotegidos.
+VIII.- Propiciar y fomentar la participación de los sectores privado y social para la plena observancia de la presente Ley;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2017)</small>
+
+IX.- Promover por todos los medios posibles y en todos los sectores de la sociedad, una cultura de respeto, protección, conservación y trato digno para todas las formas de vida, para que exista una convivencia armónica entre estos y los seres humanos, dando prioridad, a los animales más desprotegidos; y
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2017)</small>
+
+X.- Promover la participación y compromiso de las instancias gubernamentales competentes y demás organizaciones de la sociedad civil, en las campañas de esterilización y sacrificio humanitario de los animales, apegándose a la presente Ley y demás normatividad aplicable, a los reglamentos municipales en la materia y a las normas oficiales mexicanas correspondientes.
 
 ###### Artículo 2º.
 
@@ -81,7 +97,9 @@ Para los efectos de esta Ley, además de los conceptos definidos en la Ley Gener
 
 I.- Animales: Todo ser vivo, no humano, que siente y reacciona ante el dolor y se mueve voluntariamente;
 
-II.- Animal abandonado: Los animales que deambulen libremente por la vía pública sin placa de identificación, así como aquellos que se encuentren sin el control y cuidados adecuados de sus propietarios;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2017)</small>
+
+II.- Animal abandonado: Los animales que deambulen libremente por la vía pública sin placa de identificación, así como aquellos que se encuentren sin el control y cuidados adecuados de sus propietarios o en los albergues;
 
 III.- Animal para monta, carga y tiro: Los animales que son utilizados por el ser humano para realizar alguna actividad en el desarrollo de su trabajo y que reditúe cualquier tipo de beneficios a su propietario, poseedor o encargado;
 
@@ -191,7 +209,9 @@ Las Autoridades del Estado de Hidalgo y la sociedad en general atenderán los si
 
 I.- Todos los animales tienen derecho a vivir y ser respetados;
 
-II.- El hombre, tiene la obligación de velar por el bienestar de los animales;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2017)</small>
+
+II.- Todo ser humano, tiene obligación de velar por el bienestar de los animales;
 
 III.- Todos los animales tienen derecho a la protección, atención y a los cuidados del hombre;
 
@@ -227,7 +247,9 @@ I.- Expedir los ordenamientos y demás disposiciones necesarias para el cumplimi
 
 II.- Celebrar Convenios de Coordinación con las Autoridades Federales, Municipales y Asociaciones Protectoras de Animales debidamente registradas, para la vigilancia de la misma; y
 
-III.- Crear los instrumentos económicos adecuados para el desarrollo de programas de educación, difusión y campañas, en las materias de la presente Ley.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2017)</small>
+
+III.- Crear los instrumentos económicos adecuados para el desarrollo de programas de educación, protección, conservación, difusión y campañas, en las materias de la presente Ley.
 
 > <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
@@ -333,7 +355,9 @@ V.- Las demás que establezca el Reglamento.
 
 Cualquier persona física o moral que adquiera un animal deberá cumplir con lo siguiente:
 
-I.- Brindarle un espacio adecuado para su tamaño según su especie y carácter propio de su raza, que le permita descansar, caminar y moverse con libertad;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2017)</small>
+
+I.- Brindarle un espacio que cuente con las condiciones de seguridad y protección necesarias, adecuado para su tamaño según su especie y carácter propio de su raza, que le permita descansar, caminar y moverse con libertad;
 
 II.- Proveerle de un lugar seguro, limpio y protegido de las inclemencias del tiempo;
 
@@ -367,9 +391,11 @@ Al no cumplir con lo anteriormente expuesto, el dueño, propietario o encargado 
 
 ### CAPITULO QUINTO. DE LA CRIA Y RESGUARDO DE ANIMALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 18.
 
-Todos los sitios de cría, cuidado y resguardo de animales, como son: Criaderos caninos, ranchos, haciendas, ganaderías, establos, clubes hípicos, granjas, albergues y similares, deberán contar con los debidos permisos expedidos por las autoridades correspondientes, además de estar provistos de las instalaciones adecuadas para no exponer a enfermedades y maltrato a los animales.
+Todos los sitios de cría, cuidado y resguardo de animales, como son: Criaderos caninos, ranchos, haciendas, ganaderías, establos, clubes hípicos, granjas, albergues y similares, deberán contar con los debidos permisos expedidos por las autoridades correspondientes, además de estar provistos de las instalaciones adecuadas para no exponer a enfermedades y maltrato a los animales, reuniendo las condiciones de seguridad y protección necesarias.
 
 Deberán ubicarse fuera de áreas de alta densidad poblacional, y contar con medidas de seguridad para evitar la contaminación ambiental por ruido, por los desechos propios de los animales o por los alimentos usados para ellos.
 
@@ -397,7 +423,9 @@ I.- Causarle la muerte innecesaria, utilizando cualquier medio que prolongue la 
 
 II.- Cualquier mutilación, alteración a la integridad física o modificación negativa de sus instintos naturales, que no se efectúen bajo causa justificada y cuidado de un especialista o persona debidamente autorizada y que cuente con conocimientos en la materia;
 
-III.- Todo hecho, acto u omisión que pueda ocasionar dolor, sufrimiento, tensión nerviosa o que ponga en peligro su vida o que afecte el bienestar del animal;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2017)</small>
+
+III.- Todo hecho, acto u omisión que pueda ocasionar dolor, sufrimiento, deterioro físico, tensión nerviosa o que ponga en peligro su vida o que afecte el bienestar del animal;
 
 IV.- No brindarles atención médica cuando lo requieran o lo determinen las condiciones para la salud del animal;
 
@@ -489,9 +517,11 @@ La venta de animales silvestres y exóticos deberá estar estrictamente regulada
 
 Queda expresamente prohibido las prácticas de vivisección y de experimentación con animales vivos, con fines docentes o didácticos en los niveles de enseñanza básica y media básica. Dichas prácticas serán sustituidas por esquemas, videos, materiales biológicos, así como la utilización de aparatos médicos de auscultación para la observación de signos vitales y otros métodos alternativos.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 30.
 
-Los experimentos que se lleven a cabo con animales, se realizarán únicamente cuando estén plenamente justificados ante las Autoridades correspondientes y cuando tales actos sean imprescindibles para el estudio y avance de la ciencia, de acuerdo a las Normas Oficiales Mexicanas que al efecto se emitan.
+Los experimentos que se lleven a cabo con animales, en caso de que no existan métodos alternos, los animales sujetos a prácticas de vivisección y de experimentación deberán ser previamente insensibilizados, se realizarán únicamente cuando estén plenamente justificados ante las autoridades correspondientes y cuando tales actos sean imprescindibles para el estudio y avance de la ciencia, de acuerdo a las Normas Oficiales Mexicanas que al efecto se emitan.
 
 ### CAPITULO NOVENO. DE LOS ANIMALES DE TRABAJO, CARGA Y TIRO
 
@@ -851,9 +881,11 @@ Gestionar mediante convenios con el Estado, asilos o refugios para especies de f
 
 Toda persona podrá denunciar ante la Procuraduría o el Área Técnica Municipal correspondiente, todo hecho, acto u omisión que contravenga a las disposiciones de la presente Ley y los demás ordenamientos jurídicos.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 91.
 
-La denuncia será anónima, para proteger la integridad física y moral del denunciante.
+La denuncia será anónima, para proteger la integridad física y moral del denunciante, pudiendo ser por cualquier medio. En caso de que la denuncia sea falsa, la autoridad competente podrá fincar las responsabilidades que la legislación establezca.
 
 ###### Artículo 92.
 
@@ -1040,3 +1072,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
 
 TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 14 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 210 QUE REFORMA DIVERSAS DISPOSICIONES A LA LEY DE PROTECCIÓN Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
