@@ -4,7 +4,7 @@ identifier: "HID-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5948
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2017-05-15"
+last_updated: "2017-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -995,9 +995,17 @@ III.- Recibir atención médica y psicológica;
 
 IV.- Contar con un refugio, de acuerdo a lo establecido en el Artículo 53;
 
-V.- Poder acceder a servicios de orientación integral; y
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2017)</small>
 
-VI.- En los casos de violencia familiar, las mujeres que tengan hijas o hijos menores de edad podrán acudir a los refugios con éstos.
+V.- Poder acceder a servicios de orientación integral;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2017)</small>
+
+VI.- En los casos de violencia familiar, las mujeres que tengan hijas o hijos menores de edad podrán acudir a los refugios con éstos; y
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2017)</small>
+
+VII.- Ser informadas cuando el agresor quede libre después del proceso judicial o que por cualquier circunstancia recupere su libertad, a fin de que la víctima esté en condiciones de tomar las medidas de protección pertinentes.
 
 ###### ARTÍCULO 52.
 
@@ -1184,3 +1192,9 @@ P.O. 15 DE MAYO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "D E C R E T O NUM. 177 QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 8; Y LA FRACCIÓN XII DEL ARTÍCULO 42, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 14 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 211.- QUE ADICIONA UNA FRACCIÓN VII AL ARTÍCULO 51 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
