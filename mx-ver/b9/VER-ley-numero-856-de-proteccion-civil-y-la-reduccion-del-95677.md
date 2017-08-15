@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-856-de-proteccion-civil-y-la-reduccion-del-95677"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-01"
-last_updated: "2017-06-05"
+last_updated: "2017-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 856 DE PROTECCIÓN CIVIL Y LA REDUCCIÓN DEL RIESGO DE DESASTRES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE AGOSTO DE 2017.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 1 de agosto de 2013.
 
@@ -441,9 +441,19 @@ IV. Los integrantes del Consejo Estatal que, en razón de sus competencias, deba
 
 ### CAPÍTULO IV. De la Secretaría
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 15 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 29.
 
-La Secretaría tendrá a su cargo la organización y operación del Sistema Estatal, en su caso lo coordinará por instrucciones del Gobernador del Estado y garantizará su correcto funcionamiento. Para el desempeño de sus responsabilidades, su titular tendrá las siguientes atribuciones:
+La Secretaría tendrá a su cargo la organización y operación del Sistema Estatal, en su caso lo coordinará por instrucciones del Gobernador del Estado y garantizará su correcto funcionamiento.
+
+> <small>(ADICIONADO, G.O. 15 DE AGOSTO DE 2017)</small>
+
+El titular de la Secretaría deberá contar preferentemente con una experiencia en materia de protección civil, formación técnica o profesional en disciplinas afines.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO Y REUBICADO], G.O. 15 DE AGOSTO DE 2017)</small>
+
+Para el desempeño de sus responsabilidades, su titular tendrá las siguientes atribuciones:
 
 I. Proponer al Ejecutivo del Estado las políticas e instrumentos en materia de protección civil y la reducción del riesgo de desastres;
 
@@ -1237,9 +1247,11 @@ El ingreso, formación, permanencia, promoción, evaluación y todos aquellos as
 
 Los integrantes del Sistema Estatal tienen derecho a recibir capacitación, entrenamiento y actualización, y están obligados a cumplir con los requisitos que para estos efectos les sean solicitados por la Secretaría, conforme al Reglamento de la Ley y a las disposiciones aplicables.
 
+> <small>(REFORMADO, G.O. 15 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 92.
 
-Para ser Titular de una Unidad Municipal deberá contarse con una experiencia comprobable en materia de protección civil, formación técnica o profesional en disciplinas afines y obtener la acreditación correspondiente por parte de la Secretaría. El Reglamento de la Ley especificará las bases de la acreditación.
+Para ser titular de una Unidad Municipal deberá contarse preferentemente con una experiencia y capacitación en materia de protección civil, formación técnica o profesional en disciplinas afines.
 
 ###### Artículo 93.
 
@@ -1456,3 +1468,11 @@ G.O. 5 DE JUNIO DE 2017.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se deroga cualquier disposición que contravenga el presente Decreto.
+
+G.O. 15 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 337 QUE REFORMA LOS ARTÍULOS 29, PRIMER PÁRRAFO, Y 92; Y SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 29 DE LA LEY DE PROTECCIÓN CIVIL Y LA REDUCCIÓN DEL RIESGO DE DESASTRES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
