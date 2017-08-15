@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-104484"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-15"
-last_updated: "2017-06-30"
+last_updated: "2017-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104484&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2015-01-06"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE AGOSTO DE 2017.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 15 de enero de 2015.
 
@@ -417,9 +417,15 @@ En la primera semana la guardia se integrará entre dos juzgados de Distrito, en
 
 Para los efectos del párrafo anterior, los juzgados de Distrito continuarán con el rol de guardias que actualmente tienen señalado en el Acuerdo CCNO 12/2015, el cual, en caso de ser necesario, podrán modificarlo con el consenso mayoritario de todos los titulares de dichos órganos jurisdiccionales.
 
-La recepción de asuntos en las guardias se hará en los siguientes términos:
+> <small>(REFORMADO [N. DE E. ANTES PÁRRAFOS SEXTO Y SÉPTIMO], D.O.F. 15 DE AGOSTO DE 2017)</small>
 
-Los urgentes y no urgentes que se presenten de lunes a jueves en un horario entre las 14:31 y 8:29 del día hábil inmediato posterior; así como de las 8:30 horas del viernes a las 8:29 del lunes siguiente; serán recibidos por el secretario que al efecto autoricen los dos titulares de los órganos jurisdiccionales a los que corresponda la guardia semanal.
+El secretario autorizado por los dos titulares de los órganos jurisdiccionales a los que corresponda la guardia semanal recibirá los asuntos conforme a lo siguiente:
+
+I. De lunes a jueves entre las 14:31 horas y 8:29 horas del día siguiente, recibirá los asuntos urgentes y no urgentes;
+
+II. De las 8:30 horas a las 14:30 horas de cada viernes hábil, exclusivamente los asuntos urgentes. En ese mismo horario la Oficina de Correspondencia Común, recibirá aquéllos que no sean urgentes para el turno correspondiente; y
+
+III. De las 14:31 horas del viernes a las 8:29 horas del lunes siguiente, dicho secretario continuará recibiendo los asuntos urgentes y no urgentes.
 
 Si son asuntos urgentes se distribuirán de manera equitativa entre los dos juzgados que están de guardia.
 
@@ -3506,3 +3512,13 @@ D.O.F. 30 DE JUNIO DE 2017.
 PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+D.O.F. 15 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL ARTÍCULO 32 DEL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, EN RELACIÓN CON EL TURNO DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO DE PROCESOS PENALES FEDERALES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. El periodo de guardia de los Juzgados de Distrito de Procesos Penales Federales de la Ciudad de México no será modificado con motivo de la entrada en vigor del presente Acuerdo.
