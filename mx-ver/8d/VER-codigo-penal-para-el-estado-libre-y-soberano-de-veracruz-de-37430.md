@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2017-07-04"
+last_updated: "2017-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE AGOSTO DE 2017.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -3373,9 +3373,9 @@ g). Que la víctima se encuentre en una situación de vulnerabilidad. Se conside
 
 Se impondrán de uno a ocho años de prisión y multa hasta de doscientos días de salario al servidor público que deje de cumplir con los deberes inherentes a su empleo, cargo o comisión en perjuicio de los derechos de un tercero o en beneficio propio o ajeno.
 
-> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, G.O. 15 DE AGOSTO DE 2017)</small>
 
-Se impondrán de cinco a ocho años de prisión e inhabilitación para el ejercicio de empleos, cargos o comisiones en el servicio público, a la autoridad que retarde u obstaculice la prevención, investigación, sanción y reparación, del delito de feminicidio o de cualquier otro de los señalados en el título XXI, Delitos de violencia de género, de este Código, mediando la discriminación de género o incurra en acciones u omisiones que tengan como consecuencia la perpetuación de las condiciones que faciliten la comisión de estos delitos.
+A los servidores públicos que retarden u obstaculicen la prevención, investigación, sanción y reparación, de los delitos contra la familia y violencia de género, mediando discriminación o que incurran en acciones u omisiones que tengan como consecuencia la perpetuación de las condiciones que faciliten la comisión de estos delitos, se les impondrán de cinco a quince años de prisión e inhabilitación para el ejercicio de empleos, cargos o comisiones hasta por el mismo tiempo.
 
 ###### Artículo 320.
 
@@ -4425,35 +4425,13 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DECLARA REFORMADO EL ARTÍCULO 19 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS”.]
+G.O. 15 DE AGOSTO DE 2017.
 
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 320 QUE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 319 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
-Segundo. Para los efectos a que se refiere el párrafo segundo del artículo 19, materia de este Decreto, el Congreso de la Unión, en un lapso de 90 días siguientes a la publicación en el Diario Oficial de la Federación, deberá realizar las adecuaciones normativas necesarias para incluir en el artículo 167 del Código Nacional de Procedimientos Penales, y demás ordenamientos correspondientes las hipótesis delictivas a que se refiere el artículo 19.
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
-Tercero. Entrando en vigor el presente Decreto, los delitos en materia de corrupción tratándose de aquellos correspondientes a enriquecimiento ilícito y ejercicio abusivo de funciones, entrarán en vigor a partir del nombramiento que realice el Titular de la Fiscalía General de la República respecto de la Fiscalía Especializada en materia de delitos relacionados con hechos de corrupción.
-
-Cuarto. La prisión preventiva oficiosa, deberá evaluarse para determinar la continuidad de su aplicación, a partir de los cinco años cumplidos de la vigencia del presente Decreto.
-
-En el lapso señalado en el párrafo anterior, se deberá evaluar conforme a los criterios del Sistema Nacional de Seguridad Pública, la eficacia de esta medida cautelar, y la eficiencia del sistema penal acusatorio, mediante informes emitidos, por el gobierno federal y los gobiernos de las entidades federativas, tomando en cuenta a los poderes judiciales respectivos, así como a las fiscalías o procuradurías correspondientes, y organismos de protección de los derechos humanos, y que deberá contener, al menos, los siguientes elementos:
-
-1. Desempeño eficaz de las Unidades Estatales de Supervisión a Medidas Cautelares y Suspensión Condicional del Proceso;
-
-2. Eficacia de las medidas cautelares aplicadas;
-
-3. Creación y desempeño de instancias de atención integral de víctimas;
-
-4. Implementación de sistemas de información criminal y de judicialización;
-
-5. Resultado de la aplicación de Mecanismos Alternativos de Solución de Controversias en Materia Penal, y
-
-6. Los avances de la implementación de elementos críticos como la capacitación de los operadores de los poderes judiciales y del Ministerio Público, policía de investigación, policía preventiva, peritos, entre otros.
-
-Los parámetros para la medición de la eficacia en la implementación de los elementos críticos serán dispuestos por la ley correspondiente.
-
-Quinto. La aplicación de las normas relativas al artículo 19 en los supuestos delictivos materia del presente Decreto, se harán conforme a lo dispuesto en el artículo 14 de la Constitución.
-
-D.O.F. 15 DE MAYO DE 2019.
+Segundo. En la aplicación del presente Decreto de reforma se empleará el principio de sucesión de normas penales sustantivas.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LOS ARTÍCULOS 3o., 31 y 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA EDUCATIVA”.]
 
