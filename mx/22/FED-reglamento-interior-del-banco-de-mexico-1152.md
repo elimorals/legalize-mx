@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2017-07-17"
+last_updated: "2017-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE AGOSTO DE 2017.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -77,7 +77,7 @@ La Junta de Gobierno y sus miembros, contarán con los asesores que la propia Ju
 
 Las actas de las sesiones de la Junta de Gobierno se conservarán en volúmenes anuales y serán firmadas por quien haya presidido la Junta y por el Secretario, así como por los miembros de la Junta de Gobierno asistentes que quieran hacerlo, debiéndose conservar en un apéndice un ejemplar de los documentos que hubieran sido relacionados en la sesión de que se trate.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS UNIDADES], D.O.F. 15 DE AGOSTO DE 2017)</small>
 
 ###### ARTICULO 4o.
 
@@ -147,7 +147,7 @@ Dirección de Operaciones Internacionales
 
 Dirección de Operaciones Nacionales
 
-Dirección de Programación y Distribución de Efectivos
+Dirección de Programación y Distribución de Efectivo
 
 Dirección de Recursos Humanos
 
@@ -499,19 +499,23 @@ A esta Coordinación estará adscrita la Subcoordinación Jurídica del Fondo Me
 
 La Dirección General de Emisión tendrá las atribuciones que se señalan en los artículos 16 Bis, 16 Bis 1, 16 Bis 2 y 28 Bis de este Reglamento, así como la de atender y resolver los requerimientos que le presenten las autoridades o particulares, relativos al análisis de monedas nacionales o extranjeras, para su manejo y determinar si las mismas son falsas o hubieren sido alteradas.
 
-> <small>(REFORMADO, D.O.F. 15 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 15 DE AGOSTO DE 2017)</small>
 
-A esta Dirección General estarán adscritas las Direcciones de Programación y Distribución de Efectivos, de Fábrica de Billetes, de Administración de Emisión y de Seguridad.
+A esta Dirección General estarán adscritas las Direcciones de Programación y Distribución de Efectivo, de Fábrica de Billetes, de Administración de Emisión y de Seguridad.
 
-> <small>(ADICIONADO, D.O.F. 7 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE AGOSTO DE 2017)</small>
 
-ARTICULO 16 BIS.- La Dirección de Programación y Distribución de Efectivos, tendrá las atribuciones siguientes:
+ARTICULO 16 BIS.- La Dirección de Programación y Distribución de Efectivo tendrá las atribuciones siguientes:
+
+> <small>(ADICIONADA, D.O.F. 7 DE ABRIL DE 2004)</small>
 
 I. Convenir los actos correspondientes al traslado y custodia de efectivo, valores y metales preciosos, incluyendo los concernientes a la operación y mantenimiento del equipo que el Banco utilice para tal efecto;
 
 > <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
 
 II. Formalizar los actos vinculados al adecuado almacenamiento, abastecimiento, canje, retiro, reproducción, destrucción y entrega de signos monetarios, así como los relativos a corresponsalía de caja, estando además facultada para expedir disposiciones relacionadas con las actividades mencionadas en esta fracción y supervisar su cumplimiento. La facultad de supervisión comprenderá las de vigilancia e inspección y esta última deberá ejercerse en coordinación con la Dirección de Regulación y Supervisión.
+
+> <small>(ADICIONADA, D.O.F. 7 DE ABRIL DE 2004)</small>
 
 III. Recabar información de los integrantes del sistema bancario, respecto a los montos y características de sus existencias de billete y moneda metálica y la relacionada con las entregas y retiro de efectivo realizadas con el Banco, así como la información correspondiente al empleo de efectivo en sus operaciones;
 
@@ -527,19 +531,19 @@ VI. Operar las sucursales del Banco, incluyendo la adquisición, arrendamiento y
 
 En las ausencias de los Cajeros Regionales de las sucursales, los Jefes de la Oficina de Administración y de Caja de las propias sucursales podrán formalizar los actos a que se refiere el párrafo anterior, firmando de forma mancomunada los titulares de las dos Oficinas;
 
-VII. Tener a su cuidado la colección numismática del Banco;
+> <small>(REFORMADA, D.O.F. 15 DE AGOSTO DE 2017)</small>
+
+VII. Custodiar la colección numismática del Banco;
 
 > <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 VIII. Proporcionar, en el ámbito de su competencia, a la Dirección General de Asuntos del Sistema Financiero, la información y documentación necesaria para que ésta imponga, junto con la Dirección Jurídica, las sanciones a que se refiere el artículo 48 Bis 1 de la Ley de Instituciones de Crédito;
 
-> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2010)</small>
+IX. (DEROGADA, D.O.F. 15 DE AGOSTO DE 2017)
 
-IX. Formalizar los actos necesarios para la acuñación y comercialización de las monedas de oro, plata y platino, conforme a lo previsto en los artículos 56, último párrafo, y 62, fracción II, de la Ley, así como medallas acuñadas en dichos metales;
+> <small>(REFORMADA, D.O.F. 15 DE AGOSTO DE 2017)</small>
 
-> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2010)</small>
-
-X. Tramitar, registrar y conciliar las operaciones que realice el Banco, respecto a monedas y medallas, y
+X. Tramitar, registrar y conciliar las operaciones que realice el Banco, con billetes, monedas acuñadas en metal industrial y productos numismáticos, y
 
 > <small>(ADICIONADA, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
@@ -549,7 +553,9 @@ XI. Participar en la ejecución de medidas en las áreas de medio ambiente y seg
 
 ARTICULO 16 BIS 1.- La Dirección de Fábrica de Billetes tendrá las atribuciones siguientes:
 
-I. Realizar los actos necesarios para la fabricación de billetes y su entrega a la Dirección de Programación y Distribución de Efectivos;
+> <small>(REFORMADA, D.O.F. 15 DE AGOSTO DE 2017)</small>
+
+I. Realizar los actos necesarios para la fabricación de billetes y su entrega a la Dirección de Programación y Distribución de Efectivo;
 
 > <small>(REFORMADA, D.O.F. 29 DE MARZO DE 2012)</small>
 
@@ -567,9 +573,25 @@ II. Formular, coordinar y participar en la ejecución de programas en materia am
 
 III. Supervisar el manejo de efectivo, metales preciosos, valores e insumos para la fabricación de billetes;
 
-IV. Comercializar monedas o piezas que hubieren tenido ese carácter, con empaque o acabado especial, metales, medallas, así como los bienes elaborados en la Fábrica de Billetes conforme a lo dispuesto en el artículo 62, fracciones II y III, de la Ley, y
+> <small>(REFORMADA, D.O.F. 15 DE AGOSTO DE 2017)</small>
 
-V. Registrar y controlar contablemente los costos e inventarios relacionados con la fabricación de billete y acuñación de moneda metálica.
+IV. Formalizar los actos necesarios para la acuñación y comercialización de monedas o piezas que hubieren tenido ese carácter, con empaque o acabado especial, monedas en metales finos, medallas, así como los bienes elaborados en la Fábrica de Billetes, o productos numismáticos, conforme a lo previsto en los artículos 56, último párrafo, y 62, fracción II, de la Ley;
+
+> <small>(REFORMADA, D.O.F. 15 DE AGOSTO DE 2017)</small>
+
+V. Registrar y controlar contablemente los inventarios y costos relacionados con la fabricación de billete y acuñación de moneda en metal industrial y metal fino;
+
+> <small>(ADICIONADA, D.O.F. 15 DE AGOSTO DE 2017)</small>
+
+VI. Tramitar, registrar y conciliar las operaciones que realice el Banco, respecto a monedas y medallas en metales finos;
+
+> <small>(ADICIONADA, D.O.F. 15 DE AGOSTO DE 2017)</small>
+
+VII. Administrar y difundir la colección numismática del Banco, y
+
+> <small>(ADICIONADA, D.O.F. 15 DE AGOSTO DE 2017)</small>
+
+VIII. Realizar la investigación y desarrollo de nuevas tecnologías relacionadas con los materiales y procesos para la fabricación de billetes y acuñación de monedas.
 
 ###### ARTICULO 17.
 
@@ -2584,3 +2606,11 @@ Los procedimientos administrativos iniciados con anterioridad a la entrada en vi
 TERCERO. Las referencias a la Dirección de Auditoría contenidas en la normatividad del Banco de México deberán entenderse hechas a la Unidad de Auditoría.
 
 CUARTO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legales.
+
+D.O.F. 15 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL REGLAMENTO INTERIOR DEL BANCO DE MÉXICO”.]
+
+PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de México entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Todas las referencias hechas en las disposiciones emitidas por el Banco de México a la Dirección de Programación y Distribución de Efectivos, se entenderán hechas a la Dirección de Programación y Distribución de Efectivo.
