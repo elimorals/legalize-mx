@@ -4,7 +4,7 @@ identifier: "COA-ley-de-proteccion-de-datos-personales-en-posesion-de-122913"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-21"
-last_updated: "2017-07-21"
+last_updated: "2017-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122913&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COA"
 ---
 # LEY DE PROTECCION DE DATOS PERSONALES EN POSESION DE SUJETOS OBLIGADOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE AGOSTO DE 2017 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE AGOSTO DE 2017.]</small>
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 21 de julio de 2017.
 
@@ -1579,7 +1579,9 @@ Segundo.- La Ley de Acceso a la Información Pública para el Estado de Coahuila
 
 Tercero.- Se derogan todas aquellas disposiciones en materia de protección de datos personales, de carácter estatal y municipal, que contravengan lo dispuesto por la presente Ley.
 
-Cuarto.- Los sujetos obligados correspondientes deberán tramitar, expedir o modificar su normatividad interna a más tardar dentro de los dieciocho meses siguientes a la entrada en vigor de esta Ley.
+> <small>(F. DE E., P.O. 15 DE AGOSTO DE 2017)</small>
+
+Cuarto.- Los sujetos obligados correspondientes deberán tramitar, expedir o modificar su normatividad interna a más tardar dentro de los cinco meses siguientes a la entrada en vigor de esta Ley.
 
 Quinto.- Las autoridades competentes del tratamiento de datos personales y datos personales sensibles correspondientes a personas desaparecidas y personas fallecidas sin identificar, deberán crear el protocolo de actuación para el tratamiento de los mismos al que se refiere el artículo 76, en un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor de la presente ley.
 
