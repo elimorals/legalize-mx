@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-247-de-educacion-del-estado-de-veracruz-de-99579"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-05"
-last_updated: "2016-11-09"
+last_updated: "2017-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 247 DE EDUCACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE AGOSTO DE 2017.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 5 de marzo de 2014.
 
@@ -1461,7 +1461,13 @@ La educación física tiene por objeto contribuir al desarrollo armónico e inte
 
 La educación física promoverá, fomentará y difundirá la cultura física en todas sus manifestaciones, para lo cual:
 
-I. Estimulará el ejercicio físico y las disciplinas deportivas y de recreación en las instituciones de educación básica, así como su práctica por lo menos durante una hora cada tercer día;
+> <small>(REFORMADA, G.O. 15 DE AGOSTO DE 2017)</small>
+
+I. Estimulará el ejercicio físico y las disciplinas deportivas y de recreación en las instituciones de educación, así como su práctica por lo menos durante:
+
+a) En educación preescolar, 30 minutos diarios semanalmente; y
+
+b) En educación primaria, secundaria y media superior, una hora diaria semanalmente.
 
 II. Procurará la salud y el bienestar físico de los educandos;
 
@@ -1994,3 +2000,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. La autoridad educativa estatal realizará los ajustes al calendario escolar a partir del siguiente año lectivo que corresponda a la publicación del presente Decreto.
 
 TERCERO. La Secretaría de Educación y la Secretaría de Desarrollo Social del Estado de Veracruz determinarán los municipios indígenas sujetos al presente Decreto.
+
+G.O. 15 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 339 QUE REFORMA EL ARTÍCULO 141 FRACCIÓN I DE LA LEY DE EDUCACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
