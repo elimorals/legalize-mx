@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-la-liquidacion-del-patrimonio-de-los-116674"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-10-03"
-last_updated: "2016-10-03"
+last_updated: "2017-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116674&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2016-09-07"
 ---
 # REGLAMENTO PARA LA LIQUIDACION DEL PATRIMONIO DE LOS PARTIDOS POLITICOS LOCALES DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL PUNTO DE ACUERDO SEGUNDO POR EL QUE SE CREA EL REGLAMENTO PARA LA LIQUIDACIÓN DEL PATRIMONIO DE LAS ASOCIACIONES POLÍTICAS DE LA CIUDAD DE MÉXICO, PUBLICADO EN EL G.O. DE 16 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO PARA LA LIQUIDACIÓN DEL PATRIMONIO DE LOS PARTIDOS POLÍTICOS LOCALES DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE AGOSTO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Número 171 de la Gaceta Oficial de la Ciudad de México, el lunes 3 de octubre de 2016.
 
@@ -1373,3 +1375,25 @@ Todo lo no previsto en el presente Reglamento, será resuelto por la Comisión d
 > <small>[N. DE E. VÉASE LPL16 -AC-IBSE INFORME DE BIENES SUBASTADOS Y ENTREGADOS, EN LA G.O. DE 3 DE OCTUBRE DE 2016, PÁGINA 96.]</small>
 
 > <small>[N. DE E. VÉASE LPL17 - DD.- DETALLE DE DOCUMENTACIÓN, EN LA G.O. DE 3 DE OCTUBRE DE 2016, PÁGINA 97.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 16 DE AGOSTO DE 2017.
+
+> <small>[N. DE E. PUNTOS DE ACUERDO DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, MEDIANTE EL CUAL SE APRUEBA EL REGLAMENTO PARA LA LIQUIDACIÓN DEL PATRIMONIO DE LAS ASOCIACIONES POLÍTICAS DE LA CIUDAD DE MÉXICO, CON MOTIVO DE LA EXPEDICIÓN Y ENTRADA EN VIGOR DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO”.]</small>
+
+PRIMERO. Se aprueba el Reglamento para la Liquidación del Patrimonio de las Asociaciones Políticas de la Ciudad de México, conforme al Anexo que se acompaña al presente, el cual forma parte integral del mismo.
+
+SEGUNDO. Se abroga el Reglamento del Instituto Electoral del Distrito Federal para la Liquidación del Patrimonio de las Asociaciones Políticas en el Distrito Federal, aprobado mediante Acuerdo ACU -37-11, y el Reglamento para la Liquidación del Patrimonio de los Partidos Políticos Locales de la Ciudad de México, aprobado mediante Acuerdo ACU-52-16.
+
+TERCERO. El presente Acuerdo y su Anexo entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+CUARTO. Publíquese este Acuerdo y su Anexo de manera inmediata a su aprobación, en los estrados del Instituto Electoral, en la sede central, en sus cuarenta Direcciones Distritales, y en la página de internet www.iedf.org.mx.
+
+QUINTO. Notifíquese personalmente este Acuerdo y su Anexo, a las asociaciones políticas con registro vigente ante este Instituto Electoral, dentro de los diez días hábiles siguientes a su entrada en vigor.
+
+SEXTO. Realícense las adecuaciones procedentes en virtud de la determinación asumida por el Consejo General en el apartado de Transparencia de la página de Internet www.iedf.org.mx y difúndase la misma en las redes sociales de este Instituto Electoral.
+
+SÉPTIMO. Remítase el presente Acuerdo y su Anexo, a la Gaceta Oficial de la Ciudad de México para su publicación, dentro del plazo de diez días hábiles siguientes a su aprobación.
+
+OCTAVO. Se instruye al Secretario Ejecutivo informe a la Asamblea Legislativa del Distrito Federal, la determinación asumida por este Consejo General, con la que se da cumplimiento a la previsión establecida en el artículo décimo tercero transitorio del Código de la Ciudad.
