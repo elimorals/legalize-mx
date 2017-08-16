@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-instituto-electoral-del-distrito-federal-en-1153
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-06-27"
-last_updated: "2016-06-27"
+last_updated: "2017-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115313&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2016-06-06"
 ---
 # REGLAMENTO DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL EN MATERIA DE PROPAGANDA E INCONFORMIDADES PARA EL PROCESO DE ELECCION DE LOS COMITES CIUDADANOS Y LOS CONSEJOS DE LOS PUEBLOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL PUNTO DE ACUERDO SEGUNDO DEL REGLAMENTO DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO EN MATERIA DE PROPAGANDA E INCONFORMIDADES PARA EL PROCESO DE ELECCIÓN DE LOS COMITÉS CIUDADANOS Y LOS CONSEJOS DE LOS PUEBLOS, PUBLICADO EN EL G.O. DE 16 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL, POR EL QUE SE APRUEBA EL REGLAMENTO DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL EN MATERIA DE PROPAGANDA E INCONFORMIDADES PARA EL PROCESO DE ELECCIÓN DE LOS COMITÉS CIUDADANOS Y LOS CONSEJOS DE LOS PUEBLOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE AGOSTO DE 2017 (ABROGADO).
 
 Acuerdo publicado en el No. 102 de la Gaceta Oficial de la Ciudad de México, el lunes 27 de junio de 2016.
 
@@ -557,3 +559,23 @@ Para el supuesto en el que la fórmula realice la sustitución de la o el integr
 ###### Artículo 49.
 
 Las resoluciones que emitan las Direcciones Distritales podrán impugnarse ante el Tribunal Electoral del Distrito Federal, en términos de lo dispuesto por la Ley Procesal.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 16 DE AGOSTO DE 2017.
+
+> <small>[N. DE E. PUNTOS DE ACUERDO DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, POR EL QUE SE APRUEBA EL REGLAMENTO DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO EN MATERIA DE PROPAGANDA E INCONFORMIDADES PARA EL PROCESO DE ELECCIÓN DE LOS COMITÉS CIUDADANOS Y LOS CONSEJOS DE LOS PUEBLOS, CON MOTIVO DE LA EXPEDICIÓN Y ENTRADA EN VIGOR DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO”.]</small>
+
+PRIMERO. Se aprueba el Reglamento del Instituto Electoral de la Ciudad de México en materia de Propaganda e Inconformidades para el Proceso de Elección de los Comités Ciudadanos y los Consejos de los Pueblos, conforme al Anexo que se acompaña, el cual forma parte integral de este Acuerdo.
+
+SEGUNDO. Se abroga el Reglamento del Instituto Electoral del Distrito Federal en materia de Propaganda e Inconformidades para el Proceso de Elección de los Comités Ciudadanos y los Consejos de los Pueblos, aprobado mediante Acuerdo ACU-35-16.
+
+TERCERO. El presente Acuerdo y su Anexo, entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+CUARTO. Se instruye al Secretario Ejecutivo informe a la Asamblea Legislativa del Distrito Federal la determinación asumida por este Consejo General, con la que se da cumplimiento a la previsión establecida en el artículo décimo tercero transitorio del Código.
+
+QUINTO. Realícense las adecuaciones procedentes en virtud de la determinación asumida por el Consejo General en el apartado de Transparencia de la página de Internet www.iedf.org.mx y difúndase la misma en las redes sociales de este Instituto Electoral.
+
+SEXTO. Publíquese de inmediato el presente Acuerdo y su Anexo en los estrados del Instituto Electoral, tanto en oficinas centrales como en cada uno de los órganos desconcentrados y en la página de Internet www.iedf.org.mx. para su mayor difusión.
+
+SÉPTIMO. Remítase el presente Acuerdo y su Anexo, a la Gaceta Oficial de la Ciudad de México para su publicación, dentro del plazo de diez días hábiles siguientes a su aprobación.
