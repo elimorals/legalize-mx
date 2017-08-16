@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-tramite-y-sustanciacion-de-quejas-y-116963"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-10-25"
-last_updated: "2016-12-27"
+last_updated: "2017-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116963&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2016-10-10"
 ---
 # REGLAMENTO PARA EL TRAMITE Y SUSTANCIACION DE QUEJAS Y PROCEDIMIENTOS DE INVESTIGACION DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL TRÁMITE Y SUSTANCIACIÓN DE QUEJAS Y PROCEDIMIENTOS DE INVESTIGACIÓN DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 16 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO PARA EL TRÁMITE Y SUSTANCIACIÓN DE QUEJAS Y PROCEDIMIENTOS DE INVESTIGACIÓN DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 27 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 16 DE AGOSTO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el martes 25 de octubre de 2016.
 
@@ -949,3 +951,13 @@ CUARTO. Publíquese de inmediato este Acuerdo en los estrados del Instituto Elec
 QUINTO. Realícense las adecuaciones procedentes en virtud de la determinación asumida por este Consejo General, en el apartado de Transparencia de la página de internet www.iedf.org.mx, y publíquese un extracto de la misma en las redes sociales de este Instituto.
 
 SEXTO. Remítase el presente Acuerdo, a la Gaceta Oficial de la Ciudad de México para su publicación, dentro del plazo de diez días hábiles siguientes a su aprobación.
+
+G.O. 16 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, POR EL QUE SE APRUEBA EL REGLAMENTO PARA EL TRÁMITE Y SUSTANCIACIÓN DE QUEJAS Y PROCEDIMIENTOS DE INVESTIGACIÓN DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, CON MOTIVO DE LA EXPEDICIÓN Y ENTRADA EN VIGOR DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Se abroga el Reglamento para el Trámite y Sustanciación de Quejas y Procedimientos de Investigación del Instituto Electoral del Distrito Federal, aprobado mediante acuerdo del Consejo General ACU-75-16 del 10 de octubre de 2016.
+
+TERCERO. Se abroga el Reglamento que regula el uso de recursos públicos, propaganda institucional y gubernamental, así como los actos anticipados de precampaña y de campaña, para los procesos electorales ordinarios del Distrito Federal, aprobado mediante acuerdo del Consejo General ACU-54-11 del 21 de septiembre de 2011.
