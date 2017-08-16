@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-funcionamiento-del-comite-de-transparencia-120707
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-04-05"
-last_updated: "2017-04-05"
+last_updated: "2017-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120707&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2017-03-23"
 ---
 # REGLAMENTO DE FUNCIONAMIENTO DEL COMITE DE TRANSPARENCIA DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO DE FUNCIONAMIENTO DEL COMITÉ DE TRANSPARENCIA DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 16 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE FUNCIONAMIENTO DEL COMITÉ DE TRANSPARENCIA DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE AGOSTO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 5 de abril de 2017.
 
@@ -661,3 +663,15 @@ Una vez rubricada, la Secretaría remitirá a las y los integrantes una copia de
 ###### ARTÍCULO PRIMERO.
 
 El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 16 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, POR EL QUE SE APRUEBA EL REGLAMENTO DE FUNCIONAMIENTO DEL COMITÉ DE TRANSPARENCIA DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, CON MOTIVO DE LA EXPEDICIÓN Y ENTRADA EN VIGOR DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Se abroga el Reglamento de Funcionamiento del Comité de Transparencia del Instituto Electoral del Distrito Federal aprobado por el Consejo General mediante acuerdo ACU-18-17 de fecha 23 de marzo de 2017.
+
+TERCERO. Se derogan las disposiciones que se opongan al presente Reglamento.
