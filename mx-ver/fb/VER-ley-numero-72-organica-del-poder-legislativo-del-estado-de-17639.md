@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2017-07-31"
+last_updated: "2017-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE AGOSTO DE 2017.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -831,7 +831,9 @@ XIX. Instructora;
 
 XX. Justicia y Puntos Constitucionales;
 
-XXI. Juventud y Deporte;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2017)</small>
+
+XXI. Juventud, Deporte y Atletas con Discapacidad.
 
 XXII. Límites Territoriales Intermunicipales;
 
@@ -1650,3 +1652,11 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. En un plazo no mayor a treinta días, el Organismo Público Local Electoral deberá realizar las modificaciones a la reglamentación respectiva, así como emitir los lineamientos correspondientes para garantizar el cumplimiento de las disposiciones del presente Decreto.
+
+G.O. 16 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 309 QUE REFORMA LA FRACCIÓN XXI DEL ARTÍCULO 39 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
