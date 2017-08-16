@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-que-regula-el-uso-de-recursos-publicos-83032"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-09-29"
-last_updated: "2015-02-11"
+last_updated: "2017-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83032&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,13 +20,13 @@ issue_date: "2011-09-21"
 ---
 # REGLAMENTO QUE REGULA EL USO DE RECURSOS PUBLICOS, PROPAGANDA INSTITUCIONAL Y GUBERNAMENTAL, ASI COMO LOS ACTOS ANTICIPADOS DE PRECAMPAÑA Y DE CAMPAÑA, PARA LOS PROCESOS ELECTORALES ORDINARIOS DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO TERCERO DEL REGLAMENTO PARA EL TRÁMITE Y SUSTANCIACIÓN DE QUEJAS Y PROCEDIMIENTOS DE INVESTIGACIÓN DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 16 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO QUE REGULA EL USO DE RECURSOS PÚBLICOS, PROPAGANDA INSTITUCIONAL Y GUBERNAMENTAL, ASÍ COMO LOS ACTOS ANTICIPADOS DE PRECAMPAÑA Y DE CAMPAÑA, PARA LOS PROCESOS ELECTORALES ORDINARIOS DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 16 DE AGOSTO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 29 de septiembre de 2011.
-
-> <small>N. DE E. EL ACUERDO PUBLICADO EN LA G.O. DE 17 DE OCTUBRE DE 2014, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.</small>
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL POR EL QUE SE APRUEBA EL REGLAMENTO QUE REGULA EL USO DE RECURSOS PÚBLICOS, PROPAGANDA INSTITUCIONAL Y GUBERNAMENTAL, ASÍ COMO LOS ACTOS ANTICIPADOS DE PRECAMPAÑA Y DE CAMPAÑA, PARA LOS PROCESOS ELECTORALES ORDINARIOS DEL DISTRITO FEDERAL.
 
@@ -911,3 +911,13 @@ QUINTO. Publíquese de inmediato este Acuerdo en los estrados del Instituto Elec
 SEXTO. Se instruye a la Unidad Técnica de Asuntos Jurídicos para que, en coadyuvancia con la Unidad Técnica de Comunicación Social, Transparencia y Protección de Datos Personales, lleven a cabo las acciones conducentes con la finalidad de actualizar el Reglamento de Propaganda que se encuentra publicado en el apartado de Transparencia del sitio de Internet www.iedf.org.mx.
 
 SÉPTIMO. Remítase el presente Acuerdo a la Gaceta Oficial del Distrito Federal para su publicación, dentro del plazo de diez días hábiles contados a partir de su entrada en vigor.
+
+G.O. 16 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, POR EL QUE SE APRUEBA EL REGLAMENTO PARA EL TRÁMITE Y SUSTANCIACIÓN DE QUEJAS Y PROCEDIMIENTOS DE INVESTIGACIÓN DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, CON MOTIVO DE LA EXPEDICIÓN Y ENTRADA EN VIGOR DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Se abroga el Reglamento para el Trámite y Sustanciación de Quejas y Procedimientos de Investigación del Instituto Electoral del Distrito Federal, aprobado mediante acuerdo del Consejo General ACU-75-16 del 10 de octubre de 2016.
+
+TERCERO. Se abroga el Reglamento que regula el uso de recursos públicos, propaganda institucional y gubernamental, así como los actos anticipados de precampaña y de campaña, para los procesos electorales ordinarios del Distrito Federal, aprobado mediante acuerdo del Consejo General ACU-54-11 del 21 de septiembre de 2011.
