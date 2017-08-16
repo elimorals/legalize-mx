@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-sesiones-del-consejo-general-y-comisiones-del-808
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-15"
-last_updated: "2016-08-12"
+last_updated: "2017-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80856&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2011-03-28"
 
 REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE AGOSTO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 15 de abril de 2011.
 
@@ -1323,3 +1323,15 @@ SEGUNDO. Se derogan las disposiciones que se opongan a este Reglamento.
 TERCERO. Publíquese de inmediato en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en la página de Internet www.iedf.org.mx
 
 CUARTO. Remítase para su publicación a la Gaceta Oficial de la Ciudad de México, dentro del plazo de diez días hábiles contados a partir de su aprobación.
+
+G.O. 16 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, POR EL QUE SE APRUEBA EL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, CON MOTIVO DE LA EXPEDICIÓN Y ENTRADA EN VIGOR DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Se abroga el Reglamento de Sesiones del Consejo General y Comisiones del Instituto Electoral del Distrito Federal aprobado por el Consejo General mediante Acuerdo ACU-28-11 del 28 de marzo de 2011.
+
+TERCERO.- Se derogan las disposiciones que se opongan al presente Reglamento.
+
+CUARTO.- En concordancia con el artículo Vigésimo Sexto Transitorio del Decreto que contiene las observaciones del Jefe de Gobierno de la Ciudad de México, respecto del diverso por el que se abroga el Código de Instituciones y Procedimientos Electorales del Distrito Federal y la Ley Procesal Electoral del Distrito Federal y se expide el Código de Instituciones y Procedimientos Electorales de la Ciudad de México y la Ley Procesal Electoral para la Ciudad de México; y se reforman diversas disposiciones de la Ley de Participación Ciudadana del Distrito Federal y del Código Penal para el Distrito Federal, todas las referencias al Congreso de la Ciudad de México, se entenderán como facultades concedidas a la Asamblea Legislativa del Distrito Federal, hasta en tanto concluya la VII Legislatura y se instale el Congreso Local.
