@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-instituto-electoral-del-distrito-80854"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-15"
-last_updated: "2017-05-23"
+last_updated: "2017-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80854&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,2742 +20,3664 @@ issue_date: "2011-03-28"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
 
-REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
+LEY DE GOBIERNO Y ADMINISTRACION MUNICIPAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 23 DE MAYO DE 2017.
+TEXTO ORIGINAL.
 
-Acuerdo del Consejo General del Instituto Electoral del Distrito Federal, por el cual se aprueba la propuesta de armonización tanto del Reglamento Interior del Instituto Electoral del Distrito Federal como del Reglamento de Sesiones del Consejo General y Comisiones del Instituto Electoral del Distrito Federal
+Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 15 de octubre de 2001.
 
-Antecedentes:
+EL C. ARMANDO LOPEZ NOGALES, Gobernador Constitucional del Estado Libre y Soberano de Sonora, a sus habitantes sabed:
 
-[...]
+Que el H. Congreso del Estado, se ha servido dirigirme la siguiente
 
-Considerando:
+L E Y :
 
-[...]
+N U M E R O 75
 
-Acuerdo:
+EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SONORA, EN NOMBRE DEL PUEBLO, DECRETA LA SIGUIENTE
 
-PRIMERO. Se aprueban las modificaciones al Reglamento Interior del Instituto Electoral del Distrito Federal y al Reglamento de Sesiones del Consejo General y Comisiones del Instituto Electoral del Distrito Federal, de conformidad con el anexo del presente Acuerdo, el cual forma parte integral del mismo.
+LEY DE GOBIERNO Y ADMINISTRACION MUNICIPAL
 
-SEGUNDO. Este Acuerdo entrará en vigor al momento de su publicación en los estrados de las oficinas centrales del propio Instituto Electoral, mientras que su Anexo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+## TITULO PRIMERO. DEL REGIMEN MUNICIPAL
 
-TERCERO. Se instruye a la Unidad Técnica de Comunicación Social, Transparencia y Protección de Datos Personales, para que de manera inmediata a la aprobación de este Acuerdo, y en el ámbito de su competencia realice las adecuaciones que sean procedentes por virtud de la determinación asumida por el Consejo General, en el apartado de Transparencia del sitio de Internet www.iedf.org.mx y con la finalidad de tener un mayor alcance de difusión, publíquese un extracto del mismo en las redes sociales del Instituto Electoral.
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
-CUARTO. Publíquese este Acuerdo de manera inmediata a su aprobación, en los estrados del Instituto Electoral del Distrito Federal, tanto en oficinas centrales como en las cuarenta Direcciones Distritales, y en la página de internet www.iedf.org.mx.
+###### Artículo 1°.
 
-QUINTO. Remítase el presente Acuerdo y su Anexo, a la Gaceta Oficial de la Ciudad de México para su publicación, dentro del plazo de diez días hábiles contados a partir de su aprobación.
+Esta Ley es de orden público y tiene por objeto regular las bases para la integración y organización del territorio, la población, el gobierno y la administración pública municipal.
 
-Así lo aprobaron por unanimidad de votos las Consejeras y los Consejeros Electorales del Instituto Electoral, en sesión pública el cinco de abril de dos mil dieciséis, firmando al calce el Consejero Presidente y el Secretario del Consejo General, quien da fe de lo actuado, de conformidad con lo dispuesto en los artículos 58, fracción VIII y 60, fracción V, del Código de Instituciones y Procedimientos Electorales del Distrito Federal. El Consejero Presidente, Mtro. Mario Velázquez Miranda.- El Secretario Ejecutivo, Lic. Rubén Geraldo Venegas (Firmas).
+###### Artículo 2°.
 
-...
+El Municipio Libre es la base de la división territorial y de la organización política y administrativa del Estado, investido de personalidad jurídica propia, integrado por una comunidad establecida en un territorio, con un gobierno autónomo en su régimen interior y en la administración de su hacienda pública, en los términos de la Constitución Política de los Estados Unidos Mexicanos y la del Estado.
 
-> <small>[N. DE E. EL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL, POR EL QUE SE REFORMA EL REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 28 DE ABRIL DE 2016, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]</small>
+###### Artículo 3°.
 
-REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL.
+El Municipio será gobernado y administrado por un Ayuntamiento, cuyos miembros se elegirán por sufragio universal, libre, secreto y directo, mediante los principios de mayoría relativa y representación proporcional, de conformidad con la Constitución Política de los Estados Unidos Mexicanos y la del Estado, así como de la Legislación Electoral del Estado.
 
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+###### Artículo 4°.
 
-## TÍTULO PRIMERO. Disposiciones generales
+El Ayuntamiento ejercerá las atribuciones que le señala la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política Local, la presente Ley y los demás ordenamientos jurídicos aplicables; tendrá su residencia oficial en la Cabecera del Municipio que gobierne y no podrá cambiarla a otro lugar, sin previa autorización del Congreso del Estado, quien calificará los motivos que exprese el Ayuntamiento.
 
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+###### Artículo 5°.
 
-### CAPÍTULO I. Generalidades
+No existirá autoridad intermedia entre el Ayuntamiento y el Gobierno del Estado.
 
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+###### Artículo 6°.
 
-###### Artículo 1.
+El Ayuntamiento deberá:
 
-El presente Reglamento es de observancia general y obligatoria para todo el personal del Instituto Electoral del Distrito Federal y tiene por objeto regular su organización y atribuciones.
+I. Planear y conducir sus actividades con sujeción a los objetivos y prioridades de su desarrollo integral, mismos que serán compatibles con los Planes Estatal y Nacional de Desarrollo;
 
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+II. Ejercer y prestar las funciones y servicios públicos de su competencia, para lo cual podrá coordinarse con otros Ayuntamientos y con las autoridades estatales; y en su caso, con las autoridades federales, en los términos que señala la Constitución Política de los Estados Unidos Mexicanos y la del Estado;
 
-###### Artículo 2.
+III. Administrar los recursos económicos de que dispongan y los de sus respectivas administraciones públicas paramunicipales con eficiencia, eficacia y honradez, para satisfacer los objetivos a que estén destinados;
 
-Para los efectos del presente ordenamiento se entenderá:
+IV. Participar en la prestación del servicio público de educación en los términos del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos;
 
-A) En cuanto a los ordenamientos legales:
+V. Impulsar el bienestar y la seguridad de los habitantes del Municipio, mediante la prestación de los servicios públicos de naturaleza municipal, la realización de acciones que promuevan el mejoramiento económico y social de la población y vigilar el respeto a la propiedad, la moral y el orden público;
 
-I. Ley General: La Ley General de Instituciones y Procedimientos Electorales;
+VI. Promover y fomentar la participación ciudadana, así como el desarrollo cívico y cultural de sus habitantes; y
 
-II. Ley General de Partidos: Ley General de Partidos Políticos;
+VII. Vigilar que los habitantes del Municipio, en el ejercicio de sus derechos, respeten el interés público y el bienestar general de la población.
 
-III. Estatuto de Gobierno: Estatuto de Gobierno del Distrito Federal;
+###### Artículo 7°.
 
-IV. Código: Código de Instituciones y Procedimientos Electorales del Distrito Federal;
+El Ayuntamiento deberá imprimir y usar en la papelería oficial, por lo menos, el escudo nacional, debiendo corresponder fielmente al modelo a que se refiere el artículo segundo de la Ley sobre el Escudo, la Bandera y el Himno Nacionales.
 
-V. Ley de Participación: Ley de Participación Ciudadana del Distrito Federal;
+###### Artículo 8°.
 
-VI. Ley de Transparencia: Ley de Transparencia y Acceso a la Información Pública del Distrito Federal;
+Cada Ayuntamiento tendrá su propio escudo, cuyas características y usos se determinarán en el Reglamento Interior del Ayuntamiento. La utilización del escudo por los particulares deberá realizarse previo permiso y, en su caso, pago de derechos al Municipio, en los términos de la Ley de Hacienda Municipal; para tal efecto deberá llevarse el libro de registros correspondiente.
 
-VII. Estatuto del Servicio: Estatuto del Servicio Profesional Electoral Nacional y del Personal de la Rama Administrativa;
+### CAPITULO SEGUNDO. DE LA ORGANIZACION TERRITORIAL Y ADMINISTRATIVA DEL MUNICIPIO
 
-VIII. Reglamento: El Reglamento Interior del Instituto Electoral del Distrito Federal, y
+###### Artículo 9°.
 
-IX. Reglamento de Sustanciación: Reglamento para el Trámite y Sustanciación de Quejas y Procedimientos de Investigación del Instituto Electoral del Distrito Federal.
+El Estado de Sonora se integra con los siguientes municipios: Aconchi, Agua Prieta, Alamos, Altar, Arivechi, Arizpe, Atil, Bacadéhuachi, Bacanora, Bacerac, Bacoachi, Bácum, Banámichi, Baviácora, Bavispe, Benito Juárez, Benjamín Hill, Caborca, Cajeme, Cananea, Carbó, La Colorada, Cucurpe, Cumpas, Divisaderos, Empalme, Etchojoa, Fronteras, General Plutarco Elías Calles, Granados, Guaymas, Hermosillo, Huachinera, Huásabas, Huatabampo, Huépac, Imuris, Magdalena, Mazatán, Moctezuma, Naco, Nácori Chico, Nacozari de García, Navojoa, Nogales, Onavas, Opodepe, Oquitoa, Pitiquito, Puerto Peñasco, Quiriego, Rayón, Rosario, Sahuaripa, San Felipe de Jesús, San Javier, San Ignacio Río Muerto, San Luis Río Colorado, San Miguel de Horcasitas, San Pedro de la Cueva, Santa Ana, Santa Cruz, Sáric, Soyopa, Suaqui Grande, Tepache, Trincheras, Tubutama, Ures, Villa Hidalgo, Villa Pesqueira y Yécora.
 
-B) En cuanto a los órganos:
+###### Artículo 10°.
 
-I. Asamblea Legislativa: Asamblea Legislativa del Distrito Federal;
-
-II. Instituto Electoral: Instituto Electoral del Distrito Federal;
-
-III. Instituto Nacional: Instituto Nacional Electoral;
-
-IV. Consejo General: Consejo General del Instituto Electoral;
-
-V. Comisiones: Comisiones permanentes y provisionales del Consejo General;
-
-VI. Junta: Junta Administrativa del Instituto Electoral;
-
-VII. Comités: Órganos especiales y técnicos creados por acuerdo del Consejo General, en términos de lo dispuesto por el Código;
-
-VIII. Consejos Distritales: Órganos colegiados de carácter temporal, que funcionan durante los procesos electorales con facultades de decisión, en el ámbito territorial que les corresponda;
-
-IX. Direcciones Distritales: Órganos desconcentrados de carácter permanente en cada uno de los cuarenta distritos electorales uninominales del Distrito Federal;
-
-X. Unidad de Apoyo Logístico: Unidad Técnica de Archivo, Logística y Apoyo a Órganos Desconcentrados;
-
-XI. Unidad Jurídica: Unidad Técnica de Asuntos Jurídicos, y
-
-XII. Unidades: Unidades Técnicas del Instituto Electoral.
-
-C) En cuanto a las autoridades:
-
-I. Consejera Presidenta o Consejero Presidente del Consejo General: La persona que ostenta la Presidencia del Consejo General del Instituto Electoral;
-
-II. Consejera Presidenta o Consejero Presidente de la Comisión o Comité: La persona que ostenta la Presidencia de las Comisiones o Comités, según sea el caso;
-
-III. Consejeras y Consejeros Electorales: Las personas que integran el Consejo General del Instituto Electoral;
-
-IV. Consejeras y Consejeros Distritales: Integrantes de los Consejos Distritales del Instituto Electoral designados por el Consejo General;
-
-V. Secretaria o Secretario del Consejo: La persona que ostenta la Secretaría del Consejo General;
-
-VI. Representantes de partido: Las personas titulares de las representaciones de los partidos políticos acreditados ante el Consejo General;
-
-VII. Invitadas e invitados permanentes: Las y los representantes de los grupos parlamentarios de la Asamblea Legislativa del Distrito Federal a las sesiones del Consejo General;
-
-VIII. Secretaria o Secretario Ejecutivo: titular de la Secretaría Ejecutiva del Instituto Electoral;
-
-IX. Secretaria o Secretario Administrativo: titular de la Secretaría Administrativa del Instituto Electoral;
-
-X. Directoras y Directores Ejecutivos: Las y los titulares de las Direcciones Ejecutivas del Instituto Electoral, y
-
-XI. Personal: Las y los servidores públicos o empleadas y empleados definidos en el Estatuto del Servicio Profesional Electoral y demás personal que labore en el Instituto Electoral del Distrito Federal.
-
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
-
-###### Artículo 3.
-
-El Instituto Electoral se rige por las disposiciones de la Constitución Política de los Estados Unidos Mexicanos, las leyes generales, el Estatuto de Gobierno, el Código, la Ley de Participación, este Reglamento y demás ordenamientos que lo regulan.
-
-Todo el personal del Instituto Electoral, en el ámbito de sus respectivas competencias y en el ejercicio de sus funciones, tiene la obligación de promover, respetar, proteger y garantizar los derechos humanos, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad.
-
-La interpretación y aplicación de las disposiciones de este Reglamento se realizará de conformidad con la Constitución, los principios establecidos en los párrafos segundo y tercero del artículo 3 del Código y los tratados internacionales, así como las disposiciones aplicables favoreciendo en todo tiempo la protección más amplia a las personas.
-
-El personal del Instituto Electoral deberá garantizar, desde el ámbito de su competencia, el respeto, la protección y la promoción de la igualdad, principalmente en cuanto al ejercicio de los derechos político-electorales en contextos libres de discriminación y de violencia.
-
-Asimismo deberá participar, conforme a sus facultades, en los programas y acciones que garanticen el cumplimiento de la normativa aplicable en materia de igualdad de género y no discriminación.
-
-(REFORMADO, G.O. 28 DE ABRIL DE 2016) (REPUBLICADO PRIMER PÁRRAFO, G.O. 27 DE DICIEMBRE DE 2016)
-
-###### Artículo 4.
-
-Para el ejercicio de sus atribuciones, el Instituto Electoral cuenta con la estructura siguiente:
-
-I. Consejo General;
-
-II. Comisiones Permanentes, Provisionales y Comités;
-
-III. Presidencia del Instituto Electoral;
-
-IV. Junta;
-
-V. Órganos Ejecutivos:
-
-1) Secretaría Ejecutiva;
-
-2) Secretaría Administrativa;
-
-3) Direcciones Ejecutivas de:
-
-> <small>(REFORMADO, G.O. 12 DE AGOSTO DE 2016)</small>
-
-a) Educación Cívica;
-
-b) Asociaciones Políticas;
-
-> <small>(REFORMADO, G.O. 12 DE AGOSTO DE 2016)</small>
-
-c) Organización Electoral y Geoestadística, y
-
-> <small>(REFORMADO, G.O. 12 DE AGOSTO DE 2016)</small>
-
-d) Participación Ciudadana y Capacitación.
-
-VI. Unidades Técnicas de:
-
-> <small>(REFORMADO, G.O. 12 DE AGOSTO DE 2016)</small>
-
-1) Comunicación Social y Difusión;
-
-2) Servicios Informáticos;
-
-3) Archivo, Logística y Apoyo a Órganos Desconcentrados;
-
-4) Asuntos Jurídicos;
-
-5) Del Centro de Formación y Desarrollo, y
-
-> <small>(REFORMADO, G.O. 12 DE AGOSTO DE 2016)</small>
-
-6) Vinculación con Organismos Externos.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE DICIEMBRE DE 2016)</small>
-
-VII. Órganos con autonomía técnica y de gestión:
-
-(REFORMADO, G.O. 12 DE AGOSTO DE 2016) (REPUBLICADO, G.O. 27 DE DICIEMBRE DE 2016)
-
-1) Contraloría General
-
-> <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2016)</small>
-
-2) Unidad Técnica Especializada de Fiscalización
-
-VIII. Órganos desconcentrados:
-
-1) Consejos Distritales, y
-
-2) Direcciones Distritales.
-
-IX. Mesas Directivas de Casilla.
-
-Las diversas áreas que componen la estructura del Instituto Electoral, contarán con el personal operativo necesario para llevar a cabo sus respectivas atribuciones y responsabilidades.
-
-Durante los procesos electorales y procedimientos de participación ciudadana, o cuando se trate de programas y proyectos específicos a desarrollarse en el Distrito Federal, el Instituto Electoral podrá contratar personal eventual para apoyar en el desarrollo de las actividades de las diversas áreas que componen su estructura, considerando en lo conducente, las reglas que para tal efecto establezca el Estatuto del Servicio.
-
-(REFORMADO, G.O. 28 DE ABRIL DE 2016) (REPUBLICADO PRIMER PÁRRAFO, G.O. 27 DE DICIEMBRE DE 2016)
-
-###### Artículo 5.
-
-Para efectos administrativos y orgánicos las áreas del Instituto Electoral estarán adscritas de acuerdo a lo siguiente:
-
-(REPUBLICADO PRIMER PÁRRAFO, G.O. 27 DE DICIEMBRE DE 2016)
-
-I. Consejo General:
-
-> <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2016)</small>
-
-1) Unidad Técnica Especializada de Fiscalización.
-
-(REPUBLICADO, G.O. 27 DE DICIEMBRE DE 2016)
-
-2) Contraloría General.
-
-II. Presidencia del Instituto Electoral:
-
-1) Secretaría Ejecutiva, y
-
-2) Secretaría Administrativa.
-
-III. Secretaría Ejecutiva:
-
-1) Direcciones Ejecutivas;
-
-2) Unidades Técnicas:
-
-> <small>(REFORMADO, G.O. 12 DE AGOSTO DE 2016)</small>
-
-a) Comunicación Social y Difusión;
-
-b) Servicios Informáticos;
-
-c) Archivo, Logística y Apoyo a Órganos Desconcentrados;
-
-d) Asuntos Jurídicos, y
-
-> <small>(REFORMADO, G.O. 12 DE AGOSTO DE 2016)</small>
-
-e) Vinculación con Organismos Externos.
-
-3) Direcciones Distritales;
-
-IV. Secretaría Administrativa:
-
-> <small>(REFORMADO, G.O. 12 DE AGOSTO DE 2016)</small>
-
-1) Unidad Técnica del Centro de Formación y Desarrollo;
-
-V. Mesas Directivas de Casilla.
-
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
-
-###### Artículo 6.
-
-Las funciones del personal del Instituto Electoral, así como su relación jerárquica, se detallarán en el Manual de Organización y Funcionamiento.
-
-> <small>(REFORMADO, G.O. 12 DE AGOSTO DE 2016)</small>
-
-###### Artículo 7.
-
-El Consejo General podrá modificar la estructura del Instituto Electoral, atendiendo a las necesidades del servicio y los recursos presupuestales autorizados, con apego a lo establecido en la Ley General y el Código, considerando las normas establecidas en el Estatuto del Servicio.
-
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
-
-###### Artículo 8.
-
-El Consejo General es el órgano superior de dirección del Instituto Electoral cuya integración se establece en el Código.
-
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
-
-### CAPÍTULO I. Del Consejo General
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-###### Artículo 9.
-
-Además de las atribuciones establecidas en el Código y demás normativa del Instituto Electoral, el Consejo General tendrá las siguientes:
-
-I. Declarar el inicio y conclusión de los procesos electorales;
-
-II. Realizar los exhortos y pronunciamientos que considere pertinentes;
-
-III. Cumplir las resoluciones de los órganos jurisdiccionales y autoridades administrativas en el ámbito de su competencia;
-
-IV. Aprobar los montos máximos de los recursos que podrán ser utilizados por las Agrupaciones Políticas Locales y de las organizaciones de ciudadanas y ciudadanos en la realización de las actividades tendentes a constituirse como Partido Político Local;
-
-V. Conocer de los informes que presente la Secretaría Ejecutiva;
-
-VI. Designar a la Consejera Presidenta o Consejero Presidente e integrantes de las Comisiones Permanentes, Provisionales y Comités;
-
-VII. Aprobar, en su caso, en enero de cada año el ajuste al Presupuesto de Egresos y al Programa Operativo Anual del Instituto Electoral, con base en la propuesta que le presente la Junta, por conducto de la Presidencia;
-
-VIII. Remover, por mayoría calificada de las y los Consejeros Electorales, a la persona que ostente la titularidad de la Secretaría Ejecutiva, las Direcciones Ejecutivas, y las Unidades Técnicas;
-
-IX. Requerir a través de la Secretaría del Consejo, informes específicos a las áreas del Instituto Electoral;
-
-X. Designar para los procesos electorales la integración de los Consejos Distritales;
-
-XI. Determinar los topes máximos de gastos de campaña y precampaña;
-
-XII. Efectuar el cómputo total de las elecciones de Jefatura de Gobierno y de Diputaciones de representación proporcional, así como otorgar las constancias respectivas;
-
-XIII. Emitir los acuerdos generales, y realizar el cómputo total de los procesos y mecanismos de participación ciudadana, conforme a lo previsto en la normatividad de la materia;
-
-XIV. Vigilar el cumplimiento de las reglas sobre el uso, características y colocación de propaganda electoral, así como su oportuno retiro;
-
-XV. Emitir la declaratoria de pérdida de registro de Partido Político local o Agrupación Política local;
-
-> <small>(REFORMADA, G.O. 23 DE MAYO DE 2017)</small>
-
-XVI. Aprobar el Programa Anual de Auditoría que presente la Contraloría General;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 23 DE MAYO DE 2017)</small>
-
-XVII. Conocer y resolver los recursos de inconformidad que se interpongan contra las resoluciones dictadas en los procedimientos laborales disciplinarios del personal del Servicio Profesional Electoral Nacional en el Instituto Electoral, conforme a lo previsto en la normativa de la materia; y
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 23 DE MAYO DE 2017)</small>
-
-XVIII. Las demás que le confiera la normativa que rige al Instituto Electoral.
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-###### Artículo 10.
-
-Además de las atribuciones de las Consejeras y Consejeros Electorales, a la Consejera Presidenta o Consejero Presidente del Consejo General le corresponde:
-
-I. Desempeñar sus funciones con autonomía y probidad, observando los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, transparencia y objetividad;
-
-II. Representar al Instituto Electoral en el ámbito local, federal e internacional, en los actos o eventos en los que participe o asista como invitado;
-
-III. Coordinar reuniones interinstitucionales;
-
-IV. Requerir a cualquier área del Instituto Electoral la información necesaria para el adecuado desempeño de sus funciones;
-
-V. Remitir los asuntos que lleguen a su oficina y sean competencia de los órganos del Instituto Electoral;
-
-VI. Instruir a las Direcciones Ejecutivas o Unidades las acciones que considere pertinentes para el correcto funcionamiento del Instituto Electoral;
-
-> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2016)</small>
-
-VII. Autorizar las incidencias de quienes sean titulares de la (sic) Secretarías Ejecutiva y Administrativa, y de la Contraloría General así como de la Unidad Técnica Especializada de Fiscalización;
-
-VIII. Convocar y presidir las sesiones de la Junta en términos del reglamento respectivo;
-
-IX. Coordinar las actividades de los órganos ejecutivos y técnicos del Instituto Electoral, por conducto de las Secretarías Ejecutiva y Administrativa;
-
-X. Acordar con las Secretarías Ejecutiva y Administrativa sobre los asuntos de su competencia, así como dar seguimiento al cumplimiento de sus actividades;
-
-XI. Designar al personal adscrito a su oficina conforme a los procedimientos aplicables;
-
-XII. Firmar con la Secretaría Administrativa, los nombramientos de las o los titulares de las Direcciones Ejecutivas y de las Unidades, cuya designación realice el Consejo General;
-
-XIII. Las demás que le confiera la normativa que rige al Instituto Electoral.
-
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+La extensión territorial de los municipios del Estado comprenderá la superficie y límites reconocidos para cada uno de ellos.
 
 ###### Artículo 11.
 
-La estructura de la Presidencia del Consejo General es:
-
-I. Consejera o Consejero Presidente:
-
-I. 1. Secretaría Particular;
-
-I. 2. Coordinación de asesoras y asesores;
-
-I. 2.1. Asesoras y asesores; y
-
-I. 3. Secretaria o Secretario Ejecutivo.
-
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 28 DE ABRIL DE 2016)</small>
+De la creación y supresión de municipios conocerá el Congreso del Estado, en los términos de la Constitución Política del Estado Libre y Soberano de Sonora.
 
 ###### Artículo 12.
 
-(DEROGADO, G.O. 28 DE ABRIL DE 2016)
+Para su organización territorial y administrativa, el Municipio se compone de:
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 28 DE ABRIL DE 2016)</small>
+I. Cabecera municipal;
+
+II. Comisarías; y
+
+III. Delegaciones.
 
 ###### Artículo 13.
 
-Si transcurridos 30 minutos a la hora en que fue convocada la sesión del Consejo General, se verifica la ausencia de la Consejera Presidenta o Consejero Presidente, la persona titular de la Secretaría Ejecutiva declarará el inicio de la sesión y, acto seguido, consultará al Consejo General sobre la Consejera o el Consejero Electoral que designará para que presida.
+Mediante el acuerdo de las dos terceras partes de sus integrantes, el Ayuntamiento declarará la creación o supresión de comisarías y delegaciones comprendidas dentro de su territorio. Para el caso de la creación de comisarías y delegaciones, deberá agotar previamente los siguientes requisitos:
 
-Las ausencias momentáneas de la Consejera Presidenta o Consejero Presidente en las sesiones del Consejo General podrán suplirse por la Consejera o el Consejero Electoral que la propia Presidencia designe. Quedarán comprendidas las ausencias por motivos de salud, vacaciones y demás debidamente justificadas.
+I. Lo soliciten por escrito, por lo menos una décima parte de los ciudadanos debidamente inscritos con base en el listado nominal del registro estatal de electores, correspondientes a la jurisdicción territorial en el que se pretenda erigir la nueva comisaría o delegación. El escrito de referencia deberá contener los siguientes datos de cada ciudadano peticionario: nombre completo, firma, domicilio y número de la clave de elector, de sección y de localidad; así como el conjunto de consideraciones y motivaciones y demás elementos probatorios que a su juicio estimen pertinentes;
 
-En caso de ausencia definitiva de la Consejera Presidenta o Consejero Presidente o de una Consejera o un Consejero Electoral, el Consejo General del Instituto Nacional hará la designación correspondiente en términos de la Constitución y la Ley General.
+II. El Ayuntamiento nombrará de entre sus miembros a una comisión especial, la cual tendrá a su cargo, en principio, proponerle la instrumentación de un proceso que asegure la participación ciudadana, de entre los mecanismos establecidos por la ley relativa del Estado. Por mayoría calificada, el Ayuntamiento decidirá sobre la procedencia de la instrumentación del proceso propuesto por la comisión, mismo que tendrá efectos valorativos para el Ayuntamiento en la decisión de crear o suprimir comisarías o delegaciones.
 
-Para efectos de este Reglamento, se reputa ausencia definitiva la renuncia, fallecimiento o remoción ejecutoriada de la Consejera Presidenta o Consejero Presidente o alguna Consejera o algún Consejero Electoral del Instituto Electoral.
-
-Artículo. 14. (DEROGADO, G.O. 28 DE ABRIL DE 2016)
-
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 28 DE ABRIL DE 2016)</small>
+III. Que la región y el núcleo de población cuente con los recursos naturales y las actividades económicas suficientes que permitan garantizar su desarrollo futuro, la organización y el funcionamiento de la administración pública municipal que se pretenda instituir. Al efecto, la comisión especial, elaborará los estudios geográficos, demográficos, sociales, económicos y de infraestructura administrativa, financiera y de comunicación, a efecto de diagnosticar el potencial económico actual y futuro de la comunidad de que se trate, determinar los límites de la comisaría o delegación y los centros de población que quedarán comprendidos dentro de la nueva comisaría o delegación, así como la capacidad suficiente para instalar las oficinas públicas necesarias. Dicho estudio deberá ser considerado al momento en que el Ayuntamiento apruebe o rechace el dictamen correspondiente.
 
 ###### Artículo 14.
 
-(DEROGADO, G.O. 17 DE OCTUBRE DE 2014) (REPUBLICADO, G.O. 6 DE ENERO DE 2015)
-
-> <small>(REFORMADA, G.O. 6 DE ENERO DE 2015)</small>
+El Ayuntamiento podrá acordar, de oficio o a petición de parte, la supresión de una o más de sus comisarías o delegaciones municipales, previa valoración de la conveniencia y atendiendo el procedimiento establecido en el artículo anterior, señalándose en su caso, la situación de las comunidades que la conformaban.
 
 ###### Artículo 15.
 
-Son atribuciones de las Consejeras y los Consejeros Electorales:
+El Ayuntamiento propondrá al Congreso del Estado, la nomenclatura política de los centros de población mediante la aprobación de las dos terceras partes de los miembros del Ayuntamiento.
 
-I. Desempeñar sus funciones con autonomía y probidad, observando los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, transparencia y objetividad;
+### CAPITULO TERCERO. DE LA POBLACION DEL MUNICIPIO
 
-II. Manifestarse libremente sobre los temas de las sesiones del Consejo General, de las Comisiones y de los Comités;
-
-III. Solicitar al Consejo General, cuando no concurra un proceso electoral o procedimiento de participación ciudadana, autorice licencia para ausentarse de sus funciones sin goce de sueldo;
-
-IV. Solicitar, por conducto de las Secretarías Ejecutiva o Administrativa, la información adicional que consideren pertinente para normar su criterio respecto de los asuntos que se eleven a la atención del Consejo General;
-
-V. Presentar ante el órgano correspondiente propuestas de innovación o mejora de las acciones institucionales;
-
-VI. Contribuir al correcto desarrollo de las sesiones del Consejo General, de las Comisiones y de los Comités de los que formen parte;
-
-VII. Designar al personal adscrito a su oficina conforme a los procedimientos aplicables;
-
-VIII. Participar en los eventos a que sea invitada o invitado en su calidad de Consejera o Consejero Electoral en actividades vinculadas con los fines del Instituto Electoral, y
-
-IX. Las demás que les confiera la normativa que rige al Instituto Electoral.
-
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
-
-### CAPÍTULO II. De las comisiones del Consejo General
-
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
-
-#### SECCIÓN PRIMERA. De la integración del Consejo General
-
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+#### Sección I. DE LOS HABITANTES Y CIUDADANOS
 
 ###### Artículo 16.
 
-La estructura de la oficina de las Consejeras y Consejeros Electorales es:
-
-I. Consejera o Consejero Electoral:
-
-I. 1. Coordinación de asesoras y asesores;
-
-I. 1. 1. Asesoras y asesores, y
-
-1. 2. Secretaria o Secretario Ejecutivo
-
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 28 DE ABRIL DE 2016)</small>
+Son habitantes de un Municipio, las personas que residan habitual o transitoriamente en su territorio.
 
 ###### Artículo 17.
 
-Corresponde a las representaciones de los partidos políticos lo siguiente:
+Las obligaciones de los habitantes del Municipio, sin perjuicio de los señalados por la Constitución Política Federal, la Constitución Política Local, las Leyes y reglamentos que de ellas emanen, serán:
 
-I. Solicitar, para el adecuado desempeño de sus funciones como integrantes del Consejo General, de las Comisiones y de los Comités, la colaboración de los órganos del Instituto Electoral, a través de la Secretaría Ejecutiva o Administrativa, según corresponda;
+I. Respetar y obedecer a las autoridades legalmente constituidas y cumplir las leyes, reglamentos y disposiciones emanadas de las mismas;
 
-II. Proponer ante las instancias correspondientes, al personal que deberá adscribirse a su oficina;
+II. Prestar auxilio a las autoridades cuando sean legalmente requeridos para ello;
 
-III. Manifestarse libremente sobre los temas que se traten en las sesiones;
+III. Inscribirse en los padrones expresamente determinados por las Leyes Federales, Estatales o Municipales;
 
-IV. Sustituirse durante el desarrollo de las sesiones, propietarias o propietarios y suplentes, y
+IV. Atender los llamados que por escrito o por cualquier medio, en forma fundada y motivada, les haga el Ayuntamiento o sus dependencias;
 
-V. Las demás actividades que les confiera la normativa que rige al Instituto Electoral.
+V. Procurar la conservación y mejoramiento de los servicios públicos municipales, participando con las autoridades en dichas actividades;
 
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
+VI. Proporcionar verazmente y sin demora, los informes y datos estadísticos y de otro género que les sean solicitados por las autoridades municipales;
+
+VII. Contribuir a la limpieza, ornato y conservación del Municipio y del centro de población en que resida;
+
+VIII. Preservar y respetar la fisonomía y arquitectura del Municipio, así como las tradiciones históricas de sus habitantes;
+
+IX. Salvaguardar y enriquecer el equilibrio ecológico de los ecosistemas; evitar su contaminación y deterioro, considerándolo como patrimonio social;
+
+X. Participar con el Ayuntamiento en la realización de acciones y en la ejecución de obras y servicios públicos de interés colectivo y bienestar social, derivadas de la planeación democrática y participativa;
+
+XI. Contribuir para los gastos públicos del Municipio en que residan, de la manera proporcional y equitativa que establezcan las leyes; y
+
+XII. Las demás que determinen la Constitución Local, esta Ley, sus reglamentos, el Bando de Policía y Gobierno y las disposiciones administrativas que dicte el propio Ayuntamiento.
 
 ###### Artículo 18.
 
-El Consejo General cuenta con Comisiones permanentes y provisionales conforme a lo establecido en el Código.
+Son derechos de los ciudadanos del Municipio:
 
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+I. Votar en las elecciones populares;
+
+II. Poder ser votado para los cargos de elección popular;
+
+III. Asociarse para tratar los asuntos políticos del Municipio;
+
+IV. Promover ante el Ayuntamiento, bandos de policía y gobierno, reglamentos, circulares y disposiciones administrativas de observancia general en el Municipio; y
+
+V. Ejercer los derechos que les otorga la presente Ley sin perturbar el orden y la tranquilidad públicos ni afectar la continuidad del desarrollo normal de las actividades de los demás habitantes.
 
 ###### Artículo 19.
 
-Las personas titulares de las Direcciones Ejecutivas, Unidades, y Presidencias de los Comités participarán en las sesiones o reuniones de trabajo de las Comisiones, a invitación de su Presidencia.
-
-Asimismo, las Presidencias de las Comisiones podrán requerir la presencia de alguna servidora o algún servidor público del Instituto Electoral, para coadyuvar en los trabajos de su respectiva Comisión.
-
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+El ciudadano de un Municipio adquiere la vecindad en el mismo, si reside de manera efectiva durante dos años en algún lugar de su territorio y no ejerce alguna actividad ilícita.
 
 ###### Artículo 20.
 
-Además de las atribuciones que se establecen en el Código y en su Reglamento de Organización y Funcionamiento, la Junta tendrá las siguientes atribuciones:
+Se pierde la vecindad de un Municipio por dejar de reunir los requisitos a que se refiere el artículo anterior o por manifestación expresa de residir en otro lugar.
 
-> <small>(REFORMADA, G.O. 23 DE MAYO DE 2017)</small>
-
-I. Aprobar las modificaciones a los Programas Institucionales;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 23 DE MAYO DE 2017)</small>
-
-II. Conocer y resolver los recursos de inconformidad que se interpongan contra las resoluciones dictadas en los procedimientos laborales disciplinarios del personal de la rama administrativa en el Instituto Electoral, conforme a lo previsto en la normativa aplicable; y
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 23 DE MAYO DE 2017)</small>
-
-III. Las demás que disponga la normativa del Instituto Electoral.
-
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
-
-#### SECCIÓN SEGUNDA. De la presidencia. Estructura y atribuciones
-
-(REFORMADO, G.O. 28 DE ABRIL DE 2016) (REPUBLICADO PRIMER PÁRRAFO, G.O. 27 DE DICIEMBRE DE 2016)
+#### Sección II. DE LOS PUEBLOS INDIGENAS
 
 ###### Artículo 21.
 
-Son atribuciones de la Secretaria o Secretario Ejecutivo:
+En los municipios donde se encuentren asentados pueblos indígenas, los Ayuntamientos respectivos promoverán el desarrollo de sus lenguas, cultura, usos, costumbres, recursos naturales y sus formas específicas de organización social, atendiendo a lo dispuesto por la Constitución Política Federal, la del Estado y demás leyes aplicables.
 
-I. Desempeñar sus funciones con autonomía y probidad, observando los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, transparencia y objetividad;
-
-II. Remitir a las Consejeras y los Consejeros Electorales, las representaciones de los partidos políticos, las personas titulares de las Direcciones Ejecutivas y de las Unidades, los acuerdos, resoluciones y las actas de las sesiones aprobados por el Consejo General;
-
-III. Recibir de las Presidencias de las Comisiones las convocatorias, minutas de las sesiones, informes, dictámenes y proyectos de acuerdo o resolución elaborados o aprobados por éstas;
-
-IV. Recibir y atender las solicitudes de apoyo técnico e información, así como las consultas que le sean formuladas directamente por las Consejeras y los Consejeros Electorales;
-
-V. Acordar con la Presidencia del Consejo General los asuntos de su competencia;
-
-VI. Dar aviso a las instancias competentes de los partidos políticos, respecto a las ausencias acreditadas de las representaciones de los partidos políticos a las Sesiones del Consejo General;
-
-VII. Emitir circulares internas, en el ámbito de sus atribuciones, las cuales serán obligatorias para quienes estén dirigidas;
-
-VIII. Establecer con las y los titulares de las Direcciones Ejecutivas y de las Unidades, los mecanismos de coordinación de sus trabajos;
-
-IX. Supervisar y coordinar las actividades de la Oficialía Electoral y de Partes del Instituto Electoral;
-
-X. Convocar a las y los titulares de las Direcciones Ejecutivas y de las Unidades a reuniones de trabajo, para definir las actividades de las mismas cuando se trate de materias que las involucren de manera conjunta y, en su caso, solicitar la coordinación de la Secretaría Administrativa;
-
-XI. Designar al personal adscrito a su oficina, conforme a los procedimientos aplicables;
-
-XII. Habilitar, mediante oficio, que será publicado en los estrados del Instituto Electoral, así como en su sitio de Internet, al personal que notificará los diversos trámites y procedimientos a cargo del Instituto Electoral;
-
-> <small>(REFORMADA, G.O. 23 DE MAYO DE 2017)</small>
-
-XIII. Conocer y resolver los procedimientos laborales disciplinarios del personal del Servicio Profesional Electoral Nacional y del personal de la rama administrativa, ambos en el Instituto Electoral, conforme a lo previsto en la normativa aplicable;
-
-XIV. Sustanciar los procedimientos ordinarios administrativos sancionadores electorales, y tramitar los especiales en términos de lo previsto en el Código y en el Reglamento de Sustanciación;
-
-XV. Informar a la Presidencia del Consejo General sobre las solicitudes de apoyo técnico e información, así como de las consultas formuladas por las Presidencias de las Comisiones y de los Comités;
-
-XVI. Elaborar, con el apoyo de las áreas implicadas, el engrose señalado en el artículo 35, fracción XIII del Código;
-
-> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2016)</small>
-
-XVII. Informar al Consejo General de las resoluciones que emitan los Tribunales Electorales, con relación a los asuntos derivados de actos resueltos por autoridades del Instituto Electoral;
-
-XVIII. (DEROGADO PRIMER PÁRRAFO, G.O. 27 DE DICIEMBRE DE 2016)
-
-1a. (DEROGADO PRIMER PÁRRAFO, G.O. 27 DE DICIEMBRE DE 2016)
-
-a) (DEROGADO, G.O. 27 DE DICIEMBRE DE 2016)
-
-b) (DEROGADO, G.O. 27 DE DICIEMBRE DE 2016)
-
-2a. (DEROGADA, G.O. 27 DE DICIEMBRE DE 2016)
-
-3a. (DEROGADA, G.O. 27 DE DICIEMBRE DE 2016)
-
-4a. (DEROGADA, G.O. 27 DE DICIEMBRE DE 2016)
-
-5a. (DEROGADA, G.O. 27 DE DICIEMBRE DE 2016)
-
-> <small>(ADICIONADA, G.O. 12 DE AGOSTO DE 2016)</small>
-
-XIX. En materia de información pública y protección de datos personales, tendrá las atribuciones siguientes:
-
-1a. Ejecutar el Programa Operativo Anual aprobado por el Consejo General, respecto a los proyectos de información pública y protección de datos personales elaborados por la propia Secretaría;
-
-2a. Recibir, tramitar y notificar la respuesta a las solicitudes de acceso a la información pública, de conformidad con lo establecido en la Ley de Transparencia;
-
-3a. Recibir las solicitudes de acceso, rectificación, cancelación y oposición de datos personales en posesión del Instituto Electoral a cuya tutela estará el trámite de las mismas, conforme a lo establecido en las Leyes de Transparencia y de Protección de Datos Personales del Distrito Federal, así como en los Lineamientos en la materia;
-
-4a. Facilitar el acceso a la información pública generada, administrada, o en poder del Instituto Electoral, de acuerdo a lo dispuesto en el Código y en la Ley de Transparencia, y
-
-5a. Difundir, en el sitio de Internet del Instituto Electoral, la información generada por las distintas áreas del mismo, con apego a la Ley de Transparencia.
-
-> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2016)</small>
-
-XX. Coordinar la Oficina de Acceso a la Información Pública y Protección de Datos Personales del Instituto Electoral;
-
-> <small>(ADICIONADA, G.O. 12 DE AGOSTO DE 2016)</small>
-
-XXI. Auxiliarse de la Unidad Jurídica o de la Dirección Ejecutiva de Asociaciones Políticas, según sea el caso, cuando para el cumplimiento de sus funciones así lo requiera;
-
-> <small>(ADICIONADA, G.O. 12 DE AGOSTO DE 2016)</small>
-
-XXII. Supervisar la integración, clasificación y conservación del archivo de concentración e histórico del Instituto Electoral;
-
-> <small>(ADICIONADA, G.O. 12 DE AGOSTO DE 2016)</small>
-
-XXIII. Proporcionar asesoría archivística a los órganos del Instituto Electoral para la integración y clasificación de sus archivos de trámite, y
-
-XXIV. Las demás que le confieran el Consejo General y la normativa que rige al Instituto Electoral.
-
-(REFORMADO, G.O. 28 DE ABRIL DE 2016) (REPUBLICADO PRIMER PÁRRAFO, G.O. 27 DE DICIEMBRE DE 2016)
+Para los efectos del párrafo anterior, los Ayuntamientos expedirán normas de carácter general, en el ámbito de su competencia, y atenderán lo dispuesto en las leyes de la materia.
 
 ###### Artículo 22.
 
-La estructura de la Secretaria Ejecutiva es:
+Los Ayuntamientos, en relación con los pueblos y comunidades indígenas asentados en su territorio y en el ámbito de sus competencias, deberán:
 
-> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2016)</small>
+I. Promover la igualdad de oportunidades de los indígenas y eliminar cualquier forma de discriminación;
 
-I. Titular de la Secretaría Ejecutiva:
+II. Promover que la educación impartida en las comunidades indígenas sea de carácter bilingüe e intercultural;
 
-a) Secretaria Ejecutiva o Secretario Ejecutivo;
+III. Establecer programas que apoyen a los indígenas para concluir la educación básica, la de nivel medio superior y superior;
 
-b) Coordinadora o Coordinador de Gestión;
+IV. Promover el acceso efectivo a los servicios de salud;
 
-c) Asistente Ejecutiva o Ejecutivo;
+V. Establecer programas de nutrición;
 
-d) Asistente Administrativo;
+VI. Promover el acceso al financiamiento público y privado para la construcción y mejoramiento de vivienda;
 
-e) Auxiliares de Servicios, y
+VII. Apoyar las actividades productivas y el desarrollo sustentable en las comunidades indígenas;
 
-f) Chofer.
+VIII. Asegurar el acceso equitativo a los sistemas de abasto y comercialización;
 
-I.1 Coordinación de Asesoras y Asesores:
+IX. Velar por el respeto a sus derechos humanos; y
 
-I.1.1 Asesoras y Asesores, y
+X. Consultar a los pueblos y comunidades indígenas en la elaboración del Plan Municipal de Desarrollo y, en su caso, incorporar las recomendaciones y propuestas que realicen.
 
-I.1.2 Analistas.
+Para garantizar el cumplimiento de lo establecido en el presente artículo, los Ayuntamientos establecerán las partidas específicas en los presupuestos de egresos que aprueben, así como las formas y procedimientos para que las comunidades participen en el ejercicio y vigilancia de las mismas.
 
-I.2 Oficina de Acceso a la Información Pública y Protección de Datos Personales:
-
-I.2.1 Subdirección de Archivo:
-
-I.2.1.1 Departamento de Archivo General y Concentración.
-
-I.2.2 Subdirección de Transparencia:
-
-I.2.2.1 Departamento de Seguimiento a la Actualización de la Información Pública:
-
-I.2.2.1.1 Analista.
-
-I.2.2.2 Departamento de Protección de Datos Personales:
-
-I.2.2.2.1 Analista.
-
-I.2.2.3 Departamento de Transparencia e Información Pública:
-
-I.2.2.3.1 Analista.
-
-I.2.2.4. Departamento de Apoyo Jurídico:
-
-I.2.2.4.1 Analista.
-
-I.3 (DEROGADO PRIMER PÁRRAFO, G.O. 27 DE DICIEMBRE DE 2016)
-
-a) (DEROGADO, G.O. 27 DE DICIEMBRE DE 2016)
-
-b) (DEROGADO, G.O. 27 DE DICIEMBRE DE 2016)
-
-I.3.1 (DEROGADO, G.O. 27 DE DICIEMBRE DE 2016)
-
-I.3.1.1 (DEROGADO, G.O. 27 DE DICIEMBRE DE 2016)
-
-I.3.1.1.1 (DEROGADO, G.O. 27 DE DICIEMBRE DE 2016)
-
-I.3.1.2. (DEROGADO, G.O. 27 DE DICIEMBRE DE 2016)
-
-I.3.1.2.1 (DEROGADO, G.O. 27 DE DICIEMBRE DE 2016)
-
-I.4 Oficialía Electoral y de Partes:
-
-I.4 Oficial Electoral:
-
-a) Auxiliares de Servicios.
-
-I.4.1 Departamento de Autenticación Electoral, y
-
-1.4.2 Departamento de Recepción de Documentos.
-
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
-
-### CAPÍTULO III. De la Junta
-
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+### CAPITULO CUARTO. DE LA PARTICIPACION CIUDADANA
 
 ###### Artículo 23.
 
-Son atribuciones de la persona titular de la Secretaría Administrativa:
+El Ayuntamiento promoverá la participación de sus habitantes en el desarrollo del Municipio, para ello instituirá mecanismos de consulta popular como el plebiscito, el referéndum y la consulta vecinal, conforme a lo establecido en la ley de la materia del Estado, a fin de conocer la voluntad de la población respecto de asuntos de interés de la comunidad; asimismo, los habitantes podrán solicitar al Ayuntamiento, la realización de dichas consultas populares, con fines específicos que atiendan el interés público, con arreglo a lo dispuesto por la ley de la materia en el Estado. Los ciudadanos del Municipio en que residan, podrán presentar al Ayuntamiento proyectos de creación, modificación, reforma, derogación o abrogación de ordenamientos respecto de materias competencia del mismo y que le corresponda a éste expedir.
 
-I. Desempeñar sus funciones con autonomía y probidad, observando los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, transparencia y objetividad;
+Los instrumentos anteriores se establecen sin perjuicio de que el propio Ayuntamiento decida implementar cualquier otro que, a juicio del mismo Ayuntamiento o de la ciudadanía del Municipio, permita conocer de mejor fuente las decisiones colectivas sobre problemas que afecten el interés de la comunidad.
 
-II. Participar en las sesiones de las Comisiones y Comités, conforme a lo establecido por el Código, el Reglamento y demás ordenamientos aplicables;
+## TITULO SEGUNDO. DEL GOBIERNO MUNICIPAL
 
-III. Presidir los Comités que determine el Consejo General;
-
-IV. Solicitar a las personas Titulares de los órganos del Instituto Electoral sus propuestas para integrar el proyecto de Programa Operativo Anual y el anteproyecto de presupuesto del Instituto Electoral, con base en los criterios generales y procedimientos aprobados por la Junta;
-
-V. Requerir a las personas Titulares de los órganos del Instituto Electoral la información necesaria para integrar el avance programático presupuestal y del ejercicio del gasto de sus respectivas áreas, para presentarlo a la Junta y al Consejo General;
-
-VI. Emitir circulares internas, en el ámbito de sus atribuciones, las cuales serán obligatorias para quienes estén dirigidas;
-
-VII. Mantener actualizado el inventario de los bienes del Instituto Electoral;
-
-VIII. Adoptar las medidas para la atención y seguimiento a las necesidades administrativas del Instituto Electoral, aplicando las normas que son de su competencia y adoptar las determinaciones correspondientes;
-
-IX. Instrumentar las medidas administrativas necesarias a fin de hacer efectivos los derechos de las servidoras y los servidores públicos del Instituto Electoral consagrados en el Estatuto del Servicio y demás normativa aplicable, y
-
-X. Las demás que le confiera la normativa que rige al Instituto Electoral.
-
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
-
-## TÍTULO SEGUNDO. De la estructura y atribuciones en sus oficinas centrales
-
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
-
-### CAPÍTULO IV. De la Secretaría Ejecutiva
-
-(REFORMADO, G.O. 28 DE ABRIL DE 2016) (REPUBLICADO PRIMER PÁRRAFO, G.O. 27 DE DICIEMBRE DE 2016)
+### CAPITULO PRIMERO. DE LA INTEGRACION DE LOS AYUNTAMIENTOS
 
 ###### Artículo 24.
 
-La estructura de la Secretaría Administrativa es:
-
-> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2016)</small>
-
-I. Titular de la Secretaría Administrativa:
-
-a) Secretaria Ejecutiva o Secretario Ejecutivo;
-
-b) Coordinadora o Coordinador de Gestión;
-
-c) Asesora o Asesor “C”;
-
-d) Asistente Administrativa o Administrativo, y
-
-e) Chofer.
-
-I.1 Dirección de Planeación y Recursos Financieros:
-
-a) Auxiliar de Servicios, y
-
-b) Asistente Administrativa o Administrativo.
-
-I.1.1 Departamento de Evaluación y Seguimiento;
-
-I.1.2 Subdirección de Planeación, Programación y Presupuesto:
-
-I.1.2.1 Departamento de Trámites y Pagos:
-
-I.1.2.1.1 Analista.
-
-I.1.2.2 Departamento de Contabilidad Presupuestal:
-
-I.1.2.2 Analista.
-
-I.1.2.3 Departamento de Planeación y Prospectiva:
-
-I.1.2.3.1 Analista.
-
-I.1.3 Subdirección de Contabilidad:
-
-I.1.3.1 Departamento de Registro Contable:
-
-I.1.3.1.1 Analista.
-
-I.1.3.2. Departamento de Análisis e Información Contable;
-
-I.1.3.2.1 Analistas.
-
-I.2. Dirección de Adquisiciones, Control Patrimonial y Servicios:
-
-a) Asistente Administrativa o Administrativo;
-
-b) Recepcionistas, y
-
-c) Auxiliares de Servicios.
-
-I.2.1 Subdirección de Adquisiciones:
-
-1.2.1.1 Departamento de Control e Integración de Procedimientos:
-
-1.2.1.1.1 Analistas.
-
-I.2.1.2 Departamento de Investigación, Análisis y Selección de Mercado:
-
-I.2.1.2.1 Analistas.
-
-I.2.2 Subdirección de Patrimonio Institucional:
-
-I.2.2.1 Departamento de Control Patrimonial:
-
-I.2.2.1.1 Analistas.
-
-1.2.2.2 Departamento de Mantenimiento y Servicios:
-
-a) Auxiliares de Servicios de Mantenimiento, y
-
-b) Choferes.
-
-I.2.3 Departamento de Seguridad y Protección Civil:
-
-I.2.3.1 Analista.
-
-I.3 Coordinación de Recursos Humanos:
-
-a) Auxiliar de servicios.
-
-I.3.1 Departamento de Servicios Médicos:
-
-I.3.1.1 Enfermera o Enfermero.
-
-I.3.2 Departamento de Administración de Personal:
-
-I.3.2.1 Analistas.
-
-I.3.3. Departamento de Relaciones Laborales:
-
-I.3.3.1 Analistas.
-
-I.3.4. Departamento de Registro e Incorporación.
-
-I.3.4.1 Analistas.
-
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+El Ayuntamiento, encargado del gobierno municipal, es un órgano colegiado que delibera, analiza, resuelve, controla y vigila los actos de administración y de gobierno municipal en los términos de la Constitución Política de los Estados Unidos Mexicanos, la del Estado y la presente Ley.
 
 ###### Artículo 25.
 
-La persona titular de la Contraloría General, en atención a la autonomía técnica y de gestión de la Contraloría, realizará de manera directa la defensa jurídica de los actos o resoluciones que emita ante las diversas instancias administrativas y jurisdiccionales, en los asuntos relacionados con el ejercicio de sus atribuciones.
+El Ayuntamiento estará integrado por un Presidente Municipal, un Síndico y el número de Regidores que establezca la presente Ley, quienes serán designados por sufragio popular, directo, libre y secreto. Las elecciones se basarán en el sistema de mayoría relativa y, en el caso de los Regidores, habrá también de representación proporcional y en los municipios donde se encuentren asentados pueblos indígenas, habrá un Regidor Étnico, de conformidad con lo que establezca esta Ley y la Legislación Electoral del Estado. Por cada Síndico y Regidor propietario, será elegido un suplente, conforme lo previsto por la ley de la materia.
 
-La Contraloría General deberá sujetarse a las normas, procedimientos y circulares que emitan, respectivamente, el Consejo General, la Junta, las Secretarías Ejecutiva y Administrativa, así como lo establecido en el Estatuto del Servicio, en materia de horarios, días laborales, finanzas, presupuestación, adquisiciones, servicios generales, formación y capacitación, selección y reclutamiento del personal administrativo y demás que competan al ámbito administrativo.
+Los miembros del Ayuntamiento son considerados como representantes populares, gozando sus Regidores propietarios de idéntica categoría e igualdad de derechos y obligaciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE ABRIL DE 2016)</small>
+Para los efectos de este precepto, se considera Regidor propietario a aquel que legalmente se encuentra en funciones. Los Regidores suplentes que entren en funciones legalmente, serán considerados propietarios.
 
 ###### Artículo 26.
 
-Además de las atribuciones que se establecen en el Código la Contraloría General tendrá las siguientes:
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-I. Expedir copias certificadas de aquellos documentos que obren en los archivos de la Contraloría General;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-II. Expedir recomendaciones derivadas de las auditorías practicadas a las áreas del Instituto Electoral, y en el desahogo y sustanciación de procedimientos administrativos de responsabilidades emitirá acuerdos, autos y resoluciones que conforme a la legislación de la materia resulten necesarios;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-III. Realizar los pliegos preventivos de responsabilidades a los órganos y unidades;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-IV. Tramitar y resolver los procedimientos administrativos correspondientes a la presentación de inconformidades e imposición de sanciones a todas aquellas personas que sean proveedoras, contratistas o licitantes, en materia de adquisiciones, arrendamientos y servicios, obra pública y servicios relacionados con la misma; así como instruir y resolver los recursos de revisión o inconformidad que en la materia se interpongan;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-V. Recibir quejas y denuncias por incumplimiento de obligaciones de las y los servidores públicos, dar seguimiento, investigar y fincar responsabilidades;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-VI. Instar a la Secretaría Ejecutiva o a la Unidad Jurídica a formular las denuncias o querellas a que haya lugar, cuando en el ejercicio de sus funciones se adviertan probables conductas ilícitas;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-VII. Proponer las acciones que coadyuven a promover la mejora continua administrativa y las áreas de oportunidad de todas las unidades responsables que conforman el Instituto Electoral, con objeto de alcanzar la eficiencia administrativa;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-VIII. Proponer, en el ámbito de sus atribuciones, la celebración o actualización de convenios con otros órdenes de Gobierno, así como con los Poderes Judiciales y Legislativos, Federal y locales, en materia de registro de sanciones administrativas y llevar a cabo acciones para promover el intercambio de la información correspondiente, entre otros;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-IX. Participar en los procesos electorales y de participación ciudadana, en el ámbito de sus atribuciones;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-X. Al concluir los procesos electorales y de participación ciudadana en que haya participado, ejecutar las acciones conducentes por irregularidades detectadas durante éstos en materia de responsabilidades administrativas de los servidores públicos;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE ABRIL DE 2016)</small>
-
-XI. Emitir los avisos pertinentes en el ámbito de su competencia, y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE ABRIL DE 2016)</small>
-
-XII. Las demás que le confiera la normativa que rige el Instituto Electoral.
-
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+Para ser miembro del Ayuntamiento, deberán reunirse los requisitos establecidos por el artículo 132 de la Constitución Política Local y los correspondientes de la Legislación Electoral para el Estado.
 
 ###### Artículo 27.
 
-La estructura de la Contraloría General es:
-
-I. Titular de la Contraloría General:
-
-I. 1. Asesoras y Asesores;
-
-I.2. Departamento de Gestión Administrativa;
-
-I.3 Secretaria o Secretario Ejecutivo;
-
-II. Subcontraloría de Responsabilidades e Inconformidades:
-
-II. 1. Subdirección de Procedimientos Jurídicos y Administrativos;
-
-II. 1. 1. Departamento de Registro y Situación Patrimonial;
-
-II. 1.2. Departamento de Procedimientos Administrativos;
-
-II.1.3. Departamento Contencioso;
-
-III. Subcontraloría de Auditoría, Control y Evaluación:
-
-III .1. Subdirección de Auditoría;
-
-III.1.1. Departamento de Mejora de Procesos y Evaluación;
-
-IV. Subcontraloría de Atención Ciudadana y Normatividad:
-
-IV.1. Subdirección Consultiva, Apoyo a Comités, Quejas y Denuncias;
-
-IV. 1.1. Departamento de Quejas y Denuncias;
-
-IV .1.2. Departamento de Atención a Comités;
-
-IV.1.3. Departamento de Normatividad;
-
-V. Subcontraloría de Vinculación con Procesos Electorales y Participativos:
-
-V.1. Subdirección de Procesos Electorales y Participativos;
-
-V.1.1. Departamento de Apoyo a Procesos Electorales y Participativos; y
-
-V.1.2. Departamento de Normatividad y Consultiva a Procesos Electorales y Participativos;
-
-La persona titular de la Contraloría General someterá a la consideración de la Junta, con estricto apego al marco jurídico que regula su actuación, las atribuciones y funciones de las Subcontralorías que conforman su estructura, las cuales una vez aprobadas, se integrarán a los procedimientos, manuales e instructivos que sean necesarios para el desempeño de sus funciones, así como al Manual de Organización y Funcionamiento del Instituto Electoral.
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
+Los cargos de Presidente Municipal, Síndico y Regidor de un Ayuntamiento, son obligatorios pero no gratuitos y su remuneración se fijará en el Presupuesto de Egresos del Municipio que al efecto apruebe el Ayuntamiento, atendiendo siempre a los principios de racionalidad, austeridad y disciplina del gasto público Municipal. Estos cargos sólo podrán ser renunciables por causa justificada que calificará el propio Ayuntamiento. En todos los casos conocerá el Congreso del Estado, quien hará la declaratoria correspondiente y proveerá lo necesario para cubrir la vacante.
 
 ###### Artículo 28.
 
-De conformidad con la Ley General, el Código, los Acuerdos y criterios emitidos por el Instituto Nacional y este Reglamento, la Unidad Técnica Especializada de Fiscalización tendrá las atribuciones siguientes:
+El Ayuntamiento no podrá conceder a sus funcionarios o empleados, gratificaciones, compensaciones o sobresueldos que no estén comprendidos en los presupuestos de egresos respectivos; tampoco podrá pagar con exceso las remuneraciones personales que por el desempeño de su empleo, cargo o comisión, estén fijadas en dichos presupuestos de egresos.
 
-I. La fiscalización relacionada con el origen y destino de los recursos de:
+El aumento en las dietas de los integrantes del Ayuntamiento, no tendrá efecto en el período constitucional del Ayuntamiento que lo hubiere acordado.
 
-a) Las Agrupaciones Políticas Locales y de las organizaciones de ciudadanas y ciudadanos interesadas en constituirse como Partidos Políticos locales, utilizados para el desarrollo de actividades tendentes a la obtención del registro legal, y
-
-b) Las organizaciones de observación electoral respecto del financiamiento que obtengan para el desarrollo de sus actividades relacionadas directamente con su función.
-
-II. En caso de delegación, la fiscalización sobre el origen y destino de los recursos de los Partidos Políticos, aspirantes a candidaturas independientes y candidaturas observando las disposiciones que para el efecto emita el Instituto Nacional;
-
-III. Informar de manera periódica y detallada a la Comisión de Fiscalización, respecto del procedimiento de liquidación del patrimonio de los Partidos Políticos Locales y Agrupaciones Políticas Locales que hubieren perdido su registro;
-
-IV. Generar medidas preventivas, orientadas a favorecer el adecuado registro contable y presentación de informes de los Partidos Políticos Locales, Agrupaciones Políticas Locales, aspirantes y candidaturas independientes y a promover entre ellas la cultura de la rendición de cuentas, en su vertiente de origen, monto y destino de los recursos que emplean, y
-
-V. Sustanciar, junto con la Comisión de Fiscalización, los procedimientos de Fiscalización en el supuesto de que el Instituto Nacional Electoral delegue dicha facultad.
-
-> <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2016)</small>
+Al elaborar el último Presupuesto de Egresos de su período constitucional, el Ayuntamiento deberá realizar un análisis del monto que perciben por concepto de dieta, para que, en caso de considerar necesario, se lleve a cabo el incremento correspondiente, que tendrá vigencia a partir del 16 de septiembre del próximo año.
 
 ###### Artículo 29.
 
-La estructura de la Unidad Técnica Especializada de Fiscalización es:
-
-I. Titular de la Unidad;
-
-a) Secretaria o Secretario de Unidad
-
-b) Auxiliar de Servicios, y
-
-c) Asistente Administrativo o Administrativa.
-
-I.1 Dirección de Fiscalización:
-
-I.1.1 Subdirección de Fiscalización
-
-I.1.1.1. Departamento de Análisis Contable:
-
-I.1.1.1.1. Analistas.
-
-I.1.1.2. Departamento de Fiscalización a Asociaciones Políticas y Asesoría:
-
-I.1.1.2.1. Analistas.
-
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+Los miembros del Ayuntamiento no podrán ser electos para el período inmediato, ni las personas que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos.
 
 ###### Artículo 30.
 
-Además de las atribuciones que se establecen en el Código, las Direcciones Ejecutivas tendrán las siguientes:
+El total de miembros de cada Ayuntamiento se determinará con base en el número de habitantes que arroje la última información proporcionada por el Instituto Nacional de Estadística, Geografía e Informática y conforme a las siguientes bases:
 
-I. Diseñar y Ejecutar las políticas y programas del Instituto Electoral, y el Programa Operativo Anual, así como las labores específicas que les asigne el Consejo General, la Presidencia del Consejo General, la Secretaría Ejecutiva y la Secretaría Administrativa, en el ámbito de sus competencias;
+I. En los municipios cuya población no exceda de treinta mil habitantes, habrá un Presidente Municipal, un Sindico, tres Regidores de mayoría relativa y hasta dos Regidores según el principio de representación proporcional;
 
-II. Cumplir los acuerdos que emitan el Consejo General, las Comisiones, los Comités y la Junta;
+II. En los municipios cuya población exceda a treinta mil habitantes, pero no de cien mil, habrá un Presidente Municipal, un Sindico y seis Regidores de mayoría relativa y hasta cuatro Regidores según el principio de representación proporcional; y
 
-III. Proporcionar los informes y documentos que les requieran el Consejo General, las Comisiones, los Comités, la Presidencia del Consejo General, las Consejeras y los Consejeros Electorales, la Junta, la Secretaría Ejecutiva y la Secretaría Administrativa;
+III. En los municipios cuya población exceda de cien mil habitantes, habrá un Presidente Municipal, un Síndico y doce Regidores de mayoría relativa y hasta ocho Regidores según el principio de representación proporcional.
 
-IV. Coadyuvar y asesorar técnicamente a las Comisiones y Comités, en asuntos de su competencia, cuando así lo solicite la presidencia de las mismas, informando a las Secretarías Ejecutiva o Administrativa, según sea el caso;
+Una vez alcanzado el millón de habitantes en el Municipio respectivo, el Ayuntamiento contará con tres regidores más de elección popular y dos más por representación proporcional. Esta fórmula de aumento en la integración del Ayuntamiento deberá repetirse cuando aumente la población a dos millones de habitantes.
 
-V. Emitir dictámenes y opiniones en el marco de su competencia sobre asuntos que le solicite el Consejo General, las Comisiones, los Comités, la Presidencia del Consejo General, las Consejeras y los Consejeros Electorales, la Secretaría Ejecutiva, la Secretaría Administrativa y la Junta, y
-
-VI. Las demás que le confiera la normativa que rige al Instituto Electoral.
-
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+La asignación de Regidores por el principio de representación proporcional y el Regidor Étnico, se hará de acuerdo con lo que se establezca en la ley de la materia.
 
 ###### Artículo 31.
 
-Para el cumplimiento de las atribuciones de las Direcciones Ejecutivas, sus Titulares deberán:
+Si alguno de los miembros del Ayuntamiento dejare de desempeñar su cargo, será sustituido por su suplente o se procederá según lo disponga la ley.
 
-I. Acordar con la Secretaría Ejecutiva los asuntos de su competencia;
-
-II. Cumplir las instrucciones que emitan el Consejo General, las Consejeras y los Consejeros Electorales, las Comisiones, los Comités, la Junta y la Secretaría Ejecutiva;
-
-III. Asistir a las sesiones y reuniones de trabajo de las Comisiones y Comités a las que se les convoque;
-
-IV. Integrar la Junta y asistir a sus sesiones con derecho a voz y voto;
-
-V. Asistir a las reuniones de trabajo convocadas por las Presidencias de las Comisiones o Comités, las Consejeras y los Consejeros Electorales, las Secretarías Ejecutiva y Administrativa; cuando se traten asuntos de su competencia;
-
-VI. Asistir a las sesiones de los Comités de los que formen parte;
-
-VII. Formular el anteproyecto del Programa Operativo Anual y el presupuesto de la Dirección Ejecutiva a su cargo y presentarlo a la Secretaría Administrativa, de conformidad con los criterios generales y los procedimientos aprobados por la Junta;
-
-VIII. Supervisar el cumplimiento de las actividades institucionales contenidas en las fichas descriptivas del Programa Operativo Anual aprobado por el Consejo General, correspondientes a su área, así como la realización de las actividades conforme al calendario respectivo;
-
-IX. Presentar a la Secretaría Ejecutiva, para su remisión a la Junta, en la fecha que ésta determine, sus propuestas, según corresponda, para la integración de los programas institucionales establecidos en el Código;
-
-X. Coordinar y supervisar el funcionamiento de las áreas y del personal que integra la estructura de la Dirección Ejecutiva a su cargo;
-
-XI. Proponer el establecimiento de vínculos interinstitucionales que contribuyan al desarrollo de sus actividades;
-
-XII. Designar al personal adscrito a su oficina, de conformidad con la clasificación de designación directa que determine el Consejo General, y
-
-XIII. Las demás que les confiera la normativa que rige al Instituto Electoral.
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-### CAPÍTULO V. De la Secretaría Administrativa
-
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+### CAPITULO SEGUNDO. DE LA INSTALACION
 
 ###### Artículo 32.
 
-La estructura de la Dirección Ejecutiva de Educación Cívica es:
+En la última sesión ordinaria del mes inmediato anterior a la fecha de terminación de actividades del Ayuntamiento saliente, se nombrará una comisión plural de Regidores, que fungirá como comisión de enlace con el Ayuntamiento electo. La comisión designada convocará a los integrantes del Ayuntamiento electo, de conformidad con la constancia de mayoría, de asignación y la declaratoria de validez expedidas por el órgano respectivo, o en su caso, con la resolución del Tribunal Electoral correspondiente, para que acudan a la sesión de instalación formal del mismo, en los términos del presente capítulo.
 
-> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2016)</small>
-
-I. Titular de la Dirección Ejecutiva:
-
-a) Coordinadora o Coordinador de Gestión;
-
-b) Secretaria o Secretario de Unidad;
-
-c) Auxiliar de Servicios, y
-
-d) Chofer.
-
-I.1 Coordinación de Educación Cívica:
-
-a) Asistente Administrativa o Administrativo.
-
-I.1.1 Unidad de Educación Cívica I:
-
-I.1.1.1 Departamento de Educación Cívica I:
-
-I.1.1.1.1 Analistas Educadoras y/o Educadores.
-
-I.1.1.2 Departamento de Educación Cívica II:
-
-I.1.1.2.1 Técnica o Técnico en Educación Cívica.
-
-I.1.1.3 Departamento de Educación Cívica III:
-
-I.1.1.3.1 Técnica o Técnico en Educación Cívica.
-
-I.1.2 Unidad de Educación Cívica II:
-
-I.1.2.1 Departamento de Educación Cívica IV:
-
-I.1.2.1.1 Técnica o Técnico en Educación Cívica.
-
-I.1.2.2 Departamento de Educación Cívica V:
-
-I.1.2.2.1 Técnica o Técnico en Educación Cívica.
-
-I.2 Coordinación Editorial:
-
-I.2.1 Departamento de Diseño y Edición:
-
-I.2.1.1 Analistas Diseñadoras y/o Diseñadores, y
-
-I.2.1.2 Analistas Correctoras o Correctores de Estilo.
-
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+La convocatoria en referencia, deberá hacerse a los integrantes propietarios del Ayuntamiento entrante con una anticipación mínima de quince días naturales o inmediatamente después de que sea notificada la resolución del Tribunal Electoral respectivo, para que éstos concurran a la sesión de instalación, apercibiéndoles que de no presentarse, se procederá conforme lo establece el artículo 36 de esta Ley.
 
 ###### Artículo 33.
 
-La estructura de la Dirección Ejecutiva de Asociaciones Políticas es:
+El día dieciséis de septiembre del año en que se verifique la elección ordinaria correspondiente, en el lugar y hora señalados por los miembros salientes del Ayuntamiento de que se trate, deberán comparecer en sesión solemne del Ayuntamiento, las personas que, en los términos de la ley, resultaron electas para ocupar los cargos de Presidente Municipal, Síndico y Regidores, con el fin de que previas las formalidades a que se refiere este capítulo, asuman el ejercicio de las funciones inherentes a sus cargos.
 
-> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2016)</small>
-
-I. Titular de la Dirección Ejecutiva:
-
-a) Coordinadora o Coordinador de Gestión;
-
-b) Asesora o Asesor “B”;
-
-c) Secretaria o Secretario de Unidad;
-
-d) Auxiliar de Servicios, y
-
-e) Chofer.
-
-I.1 Coordinación de Prerrogativas y Partidos Políticos:
-
-a) Asistente Administrativa o Administrativo.
-
-I.1.1 Unidad de Prerrogativas y Partidos Políticos:
-
-I.1.1.1 Departamento de Prerrogativas y Partidos Políticos I:
-
-I.1.1.1.1 Técnica o Técnico de Prerrogativas y Partidos Políticos.
-
-I.1.1.2 Departamento de Prerrogativas y Partidos Políticos II:
-
-I.1.1.2.1 Analistas.
-
-I.1.1.3 Departamento de Prerrogativas y Partidos Políticos III:
-
-I.1.1.3.1 Analistas.
-
-I.1.1.4 Departamento de Prerrogativas y Partidos Políticos IV:
-
-I.1.1.4.1 Analista.
-
-I.2 Dirección de Quejas:
-
-a) Asistente Administrativo o Administrativa.
-
-I.2.1 Subdirección de Sustanciación:
-
-I.2.1.1 Departamento de Sustanciación:
-
-I.2.1.1.1 Proyectistas.
-
-I.2.2 Subdirección de Resolución y Dictaminación:
-
-I.2.2.1 Departamento de Resolución y Dictaminación:
-
-I.2.2.1.1 Proyectistas.
-
-> <small>(REFORMADO, G.O. 12 DE AGOSTO DE 2016)</small>
+De no señalarse por los miembros salientes del Ayuntamiento, lugar y hora para la celebración de esta sesión solemne, se entenderá que la misma debe efectuarse en el recinto oficial de sesiones del Ayuntamiento respectivo, a las 10:00 horas del día mencionado en el párrafo anterior.
 
 ###### Artículo 34.
 
-La estructura de la Dirección Ejecutiva de Organización Electoral y Geoestadística es:
+La sesión de instalación tiene por objeto:
 
-I. Titular de la Dirección Ejecutiva:
+I. La lectura del acta levantada con motivo de la sesión anterior;
 
-a) Coordinadora o Coordinador de Gestión;
+II. La rendición de la protesta legal de los miembros del Ayuntamiento entrante; y
 
-b) Secretaria o Secretario de Unidad;
-
-c) Auxiliar de Servicios, y
-
-d) Chofer.
-
-I.1 Coordinación de Organización Electoral:
-
-a) Asistente Administrativa o Administrativo.
-
-I.1.1 Unidad de Organización Electoral I:
-
-I.1.1.1 Departamento de Organización Electoral I:
-
-I.1.1.1.1 Técnicas y/o Técnicos en Organización Electoral:
-
-I.1.1.1.1.1 Auxiliar de Servicios.
-
-I.1.1.2 Departamento de Organización Electoral II:
-
-I.1.1.2.1 Técnica o Técnico en Organización Electoral:
-
-I.1.1.2.1.1 Analistas.
-
-I.1.1.3 Departamento de Organización Electoral III:
-
-I.1.1.3.1 Técnicas y/o Técnicos en Organización Electoral.
-
-I.1.2 Unidad de Organización Electoral II:
-
-I.1.2.1 Departamento de Organización Electoral IV:
-
-I.1.2.1.1 Analista.
-
-I.1.2.1.1.1 Auxiliares de Servicios.
-
-I.1.2.2 Departamento de Organización Electoral V:
-
-I.1.2.2.1 Técnicas y/o Técnicos en Organización Electoral.
-
-I.1.2.3 Departamento de Organización Electoral VI:
-
-I.1.2.3.1 Técnicas y/o Técnicos en Organización Electoral.
-
-I.2 Dirección de Geografía y Proyectos Especiales:
-
-a) Asistente Administrativa o Administrativo.
-
-1.2.1 Subdirección de Innovación y Mejora:
-
-1.2.1.1 Departamento de Modernización e Innovación:
-
-1.2.1.1.1 Analistas:
-
-1.2.1.1.1.1 Auxiliar de Servicios.
-
-I.2.1.2 Departamento de Normatividad y Métodos para Procesos de Participación Ciudadana:
-
-1.2.1.2 Analistas.
-
-I.2.2 Subdirección de Información Geográfica:
-
-I.2.2.1 Departamento de Procesamiento y Análisis Cartográfico para los Procesos de Participación Ciudadana:
-
-I.2.2.1.1 Analistas.
-
-I.2.2.2 Departamento de Administración de Productos Cartográficos para los Procesos de Participación Ciudadana:
-
-I.2.2.2.1 Analistas.
-
-> <small>(REFORMADO, G.O. 12 DE AGOSTO DE 2016)</small>
+III. La declaratoria que hará el nuevo Presidente Municipal de quedar instalado el Ayuntamiento.
 
 ###### Artículo 35.
 
-La estructura de la Dirección Ejecutiva de Participación Ciudadana y Capacitación es:
+Los miembros del Ayuntamiento entrante, rendirán protesta ante el Ayuntamiento saliente, en su defecto, ante el Ejecutivo del Estado, o, a falta de éste último, ante un representante del Congreso del Estado, en los siguientes términos:
 
-I. Titular de la Dirección Ejecutiva:
-
-a) Coordinadora o Coordinador de Gestión;
-
-b) Secretaria o Secretario de Unidad;
-
-c) Auxiliar de Servicios, y
-
-d) Chofer.
-
-I.1 Coordinación de Participación Ciudadana:
-
-a) Asistente Administrativa o Administrativo.
-
-I.1.1 Unidad de Participación Ciudadana I:
-
-I.1.1.1 Departamento de Participación Ciudadana I:
-
-I.1.1.1.1 Técnica o Técnico en Participación Ciudadana.
-
-I.1.1.2 Departamento de Participación Ciudadana II:
-
-I.1.1.2.1 Analista.
-
-I.1.2 Unidad de Participación Ciudadana II:
-
-I.1.2.1 Departamento de Participación Ciudadana III:
-
-I.1.2.1.1 Analista.
-
-I.1.2.2 Departamento de Participación Ciudadana IV:
-
-I.1.2.2.1 Analistas.
-
-I.2 Dirección de Organizaciones de Participación Ciudadana:
-
-a) Asistente Administrativa o Administrativo.
-
-I.2.1 Subdirección de Programas y Proyectos de Participación Ciudadana:
-
-I.2.1.1 Departamento de Asesoría y Registro de Organizaciones de Representación Ciudadana:
-
-I.2.1.1.1 Analista.
-
-I.2.1.2 Departamento de Procedimientos de Participación Ciudadana:
-
-I.2.1.1.1 Analistas.
-
-I.2.2 Subdirección de Enlace y Evaluación:
-
-I.2.2.1 Departamento de Evaluación:
-
-I.2.2.1.1 Analistas.
-
-I.2.2.2 Departamento de Enlace y Atención Ciudadana:
-
-I.2.2.2.1 Analista.
-
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+"Protesto cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la del Estado de Sonora y las leyes que de ellas emanen y, desempeñar leal y patrióticamente el cargo de ……., mirando en todo por el bien y prosperidad de la Nación, del Estado y del Municipio".
 
 ###### Artículo 36.
 
-Son atribuciones de las y los Titulares de las Unidades, con excepción del o la Titular de la Unidad Técnica Especializada de Fiscalización:
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-I. Acordar con el o la titular de la Secretaría Ejecutiva los asuntos de su competencia;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-II. Cumplir las instrucciones que emita el Consejo General, las Comisiones, los Comités, la Junta, y las personas titulares de las Secretaría Ejecutiva y Administrativa, en el ámbito de sus atribuciones;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-III. Asistir a las sesiones y reuniones de trabajo de las Comisiones y Comités, cuando así lo soliciten las Presidencias de los mismos, por tratarse de asuntos de su competencia e informar a las Secretarías Ejecutiva y Administrativa en el ámbito de sus atribuciones, los asuntos tratados y los acuerdos tomados;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-IV. Asistir a las sesiones de la Junta en su calidad de invitadas e invitados;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-V. Asistir a las reuniones de trabajo convocadas por quien ostente la titularidad de la Secretaría Ejecutiva, en su caso, por la Secretaría Administrativa en el ámbito de sus atribuciones;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-VI. Asistir a las sesiones de los Comités de los que formen parte, en los que funjan como vocales, asesoras y asesores o invitadas e invitados;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-VII. Proporcionar los informes, datos y documentos que les soliciten, la Presidencia del Consejo General, las Comisiones, los Comités, Consejeras y Consejeros Electorales, la Junta, las Secretarías Ejecutiva y Administrativa, haciendo del conocimiento tal circunstancia a estos últimos, según corresponda;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-VIII. Formular los anteproyectos del Programa Operativo Anual y de presupuesto de la Unidad Técnica a su cargo y presentarlos a las Secretarías Ejecutiva o Administrativa, de conformidad con los criterios generales y los procedimientos aprobados por la Junta;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-IX. Presentar para la consideración de las Secretarías Ejecutiva y Administrativa, en el ámbito de sus atribuciones, los proyectos de procedimientos administrativos necesarios para el desarrollo de sus atribuciones;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-X. Supervisar el cumplimiento de los proyectos contenidos en las fichas del Programa Operativo Anual aprobado por el Consejo General, correspondientes a su área, así como la realización de las actividades conforme al calendario respectivo;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-XI. Emitir dictámenes y opiniones en el marco de su competencia sobre asuntos que le solicite el Consejo General, las Comisiones, los Comités, la Presidencia del Consejo General, las Consejeras y los Consejeros Electorales, las Secretarías Ejecutiva y Administrativa, y la Junta;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-XII. Coordinar y supervisar el funcionamiento de las áreas a su cargo;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-XIII. Proporcionar la información necesaria, a efecto de que la Junta y la Secretaría Administrativa estén en posibilidad de rendir el informe del avance programático-presupuestal y el ejercicio del gasto del Instituto Electoral, y
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-XIV. Las demás que le confieran la normativa que rige al Instituto Electoral.
-
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 12 DE AGOSTO DE 2016)</small>
+El Ayuntamiento no podrá considerarse legalmente instalado, cuando no concurran el Presidente Municipal entrante y el número de miembros requeridos para que pueda sesionar válidamente el citado Ayuntamiento. Tal situación se comunicará de inmediato al Ejecutivo del Estado, para que proceda conforme lo establece el artículo 328 ó 342, según sea el caso, de esta Ley.
 
 ###### Artículo 37.
 
-A la Unidad Técnica de Comunicación Social y Difusión corresponde:
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-I. Diseñar, producir y difundir las acciones para fortalecer la imagen institucional y consolidar la comunicación institucional;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-II. Llevar a cabo la difusión integral de las actividades institucionales;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-III. Presentar a la Secretaría Ejecutiva la propuesta anual de la Estrategia de Difusión Institucional, para ser sometida a consideración de la Junta. La estrategia deberá procurar difundir de manera eficaz y eficiente los programas, políticas y actividades institucionales;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-IV. Planear, organizar, dirigir, coordinar y supervisar las acciones que permitan el constante suministro de información institucional a los diferentes medios de comunicación;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-V. Operar las relaciones públicas e interinstitucionales;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-VI. Organizar conferencias de prensa, foros y entrevistas necesarias para la difusión de los planes, programas y actividades institucionales;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-VII. Elaborar la síntesis informativa y reportes de monitoreo de medios de comunicación impresos y electrónicos de actividades institucionales y temas de interés;
-
-> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2016)</small>
-
-VIII. Ejecutar el Programa Operativo Anual aprobado por el Consejo General, respecto al proyecto de comunicación social, elaborado por la propia Unidad;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-IX. Apoyar a la Secretaría Ejecutiva para supervisar la correcta aplicación del Manual de Identidad Gráfica Institucional y, en su caso, proponer actualizaciones al mismo;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-X. Presupuestar y atender las solicitudes de inserciones y encartes en medios impresos e Internet que se requieran para difundir las actividades del Instituto Electoral y gestionar su publicación;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-XI. Realizar la cobertura informativa y supervisar la transmisión de los eventos institucionales a través del Circuito Cerrado de Televisión e Internet;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-XII. Supervisar y emitir opinión técnica en la planeación y producción de materiales de difusión internos y externos;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-XIII. Coadyuvar en la producción de materiales audiovisuales que requieran las diferentes áreas;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-XIV. Asesorar a las áreas en la organización de eventos institucionales en cuanto al manejo adecuado de la imagen institucional;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-XV. Coordinar la imagen gráfica y supervisar la administración del sitio de Internet del Instituto Electoral; con base en los contenidos generados por las diferentes áreas;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-XVI. Supervisar la actualización y dar mantenimiento, con el apoyo de la Unidad Técnica de Servicios Informáticos, al sitio de Internet del Instituto Electoral;
-
-XVII. (DEROGADA, G.O. 12 DE AGOSTO DE 2016)
-
-XVIII. (DEROGADA, G.O. 12 DE AGOSTO DE 2016)
-
-XIX. (DEROGADA, G.O. 12 DE AGOSTO DE 2016)
-
-XX. (DEROGADA, G.O. 12 DE AGOSTO DE 2016)
-
-XXI. (DEROGADA, G.O. 12 DE AGOSTO DE 2016)
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-XXII. Coadyuvar en el diseño y aplicación de estrategias y campañas de promoción del voto, de difusión de la cultura democrática y de participación ciudadana, de manera incluyente no discriminatoria y no sexista;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-XXIII. Administrar las cuentas institucionales de redes sociales;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-XXIV. Actualizar la videoteca y el archivo fotográfico de las sesiones del Consejo General y demás actividades institucionales;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-XXV. Proporcionar material fotográfico y de video sobre eventos públicos a las y los representantes de los medios de comunicación que así lo soliciten para el cumplimiento de su labor informativa en los que participe el Instituto Electoral, y
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-XXVI. Las demás que le confiera la normativa que rige al Instituto Electoral.
-
-> <small>(REFORMADO, G.O. 12 DE AGOSTO DE 2016)</small>
+De no presentarse los miembros del Ayuntamiento salientes a la sesión a que se refiere el artículo 33 de esta Ley, se comunicará tal circunstancia de inmediato al Ejecutivo del Estado, o en su defecto a un representante del Congreso del Estado, para que éste, en el lugar, fecha y hora señalada, proceda por sí o por conducto de la persona que designe, a tomar la protesta a los nuevos integrantes del Ayuntamiento y a proveer lo necesario para que el Ayuntamiento se declare legalmente instalado.
 
 ###### Artículo 38.
 
-La estructura de la Unidad Técnica de Comunicación Social y Difusión es:
-
-I. Titular de la Unidad:
-
-a) Secretaria o Secretario de Unidad;
-
-b) Analista Administrativa o Administrativo, y
-
-c) Auxiliar de Servicios.
-
-I.1 Dirección de Comunicación:
-
-I.1.1 Subdirección de Comunicación Institucional:
-
-I.1.1.1 Departamento de Redacción:
-
-I.1.1.1.1 Auxiliar de Servicio.
-
-I.1.1.2 Departamento de Diseño y Página Web:
-
-I.1.1.2.1 Analista.
-
-I.1.1.2.2 Analistas Web.
-
-I.1.2 Subdirección de Difusión:
-
-I.1.2.1 Departamento de Administración de Redes Sociales:
-
-I.1.2.1.1 Auxiliar de Servicios.
-
-I.1.2.2 Departamento de Difusión:
-
-I.1.2.2.1 Analistas.
-
-I.1.3 Analistas Reporteras y/o Reporteros.
-
-I.1.4 Analistas de Video.
-
-I.1.5 Analistas Fotógrafas y/o Fotógrafos.
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
+Instalado el Ayuntamiento, se comunicará oficialmente su integración a los Poderes Legislativo, Judicial y Ejecutivo del Estado y de la Federación.
 
 ###### Artículo 39.
 
-A la Unidad Técnica de Servicios Informáticos corresponde:
+El Ayuntamiento entrante procederá, en la sesión que realice inmediatamente después de la sesión de instalación, a lo siguiente:
 
-I. Elaborar y proponer los procedimientos y lineamientos que deben regir el desarrollo, instrumentación y mantenimiento de la infraestructura y servicios informáticos del Instituto Electoral;
+I. Nombrar al Secretario del Ayuntamiento, al Tesorero Municipal, al Jefe de la Policía Preventiva Municipal y al titular del Órgano de Control y Evaluación Gubernamental; y
 
-II. Elaborar y proponer los lineamientos técnicos para la adquisición de equipo de cómputo y comunicaciones, así como contratación de servicios informáticos;
-
-III. Atender los servicios en materia informática, cómputo y telecomunicación que se requieran para las actividades ordinarias y procesos electorales y procedimientos de participación ciudadana;
-
-IV. Identificar y determinar distintos perfiles de las y los usuarios del Instituto Electoral a efecto de atender las necesidades de capacitación y asesoría en el área de sistemas informáticos y de comunicaciones;
-
-V. Coadyuvar con las áreas del Instituto Electoral, para implementar sistemas informáticos;
-
-VI. Coadyuvar en la administración o asignación de los recursos informáticos de manera eficiente hacia las áreas;
-
-VII. Proporcionar a la Contraloría General la información que le solicite respecto al cumplimiento de las normas de control y seguridad informática por parte de todos los órganos del Instituto Electoral y, en su caso, denunciar ante ese órgano de control las infracciones que observe a dichas normas;
-
-VIII. Colocar y proporcionar el mantenimiento técnico al sitio de Internet del Instituto Electoral;
-
-IX. Investigar y analizar permanentemente nuevas tecnologías en materia de informática y comunicaciones, para proponer su aplicación en el Instituto Electoral;
-
-X. Coordinar y proporcionar los mantenimientos preventivos y correctivos a los bienes informáticos propiedad del Instituto Electoral;
-
-XI. Administrar las licencias de software propiedad del Instituto Electoral;
-
-XII. Desarrollar sistemas informáticos en materia electoral y administrativa como una herramienta que apoye el cumplimiento de los fines del Instituto Electoral, y
-
-XIII. Las demás que le confiera la normativa que rige al Instituto Electoral.
-
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+II. Aprobar las Comisiones a que se refiere esta Ley.
 
 ###### Artículo 40.
 
-La estructura de la Unidad Técnica de Servicios Informáticos es:
+El Secretario del Ayuntamiento saliente, tendrá la obligación de levantar el acta de la sesión de instalación del Ayuntamiento y del acto de entrega-recepción referido en los siguientes artículos, en los términos de la presente Ley.
 
-> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2016)</small>
-
-I. Titular de la Unidad:
-
-a) Secretaria o Secretario de Unidad;
-
-b) Analista Administrativa o Administrativo, y
-
-c) Auxiliar de Servicios.
-
-I.1 Dirección de Desarrollo de Sistemas:
-
-I.1.1 Subdirección de Sistemas de Información:
-
-I.1.1.1 Departamento de Análisis y Diseño de Sistemas de Información:
-
-I.1.1.1.1 Analista.
-
-I.1.1.2 Departamento de Desarrollo de Sistemas de Información:
-
-I.1.1.2.1 Analistas.
-
-I.1.1.3 Departamento de Aplicación de Sistemas de Información:
-
-I.1.1.3.1 Analistas.
-
-I.1.1.4 Departamento de Mantenimiento de Sistemas:
-
-I.1.1.4.1 Analista.
-
-I.2 Dirección de Infraestructura Informática:
-
-I.2.1 Subdirección de Seguridad, Redes y Cómputo:
-
-I.2.1.1 Departamento de Soporte Técnico y Mesa de Ayuda:
-
-I.2.1.1.1 Analistas.
-
-I.2.1.2 Departamento de Servidores y Base de Datos:
-
-I.2.1.2 Analistas.
-
-I.2.1.3 Departamento de Redes y Comunicaciones:
-
-I.2.1.3.1 Analista.
-
-I.2.1.4 Departamento de Web, Seguridad y Nuevas Tecnologías:
-
-I.2.1.4.1 Analista.
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-### CAPÍTULO VI. De los órganos con autonomía técnica y de gestión
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
+### CAPITULO TERCERO. DE LA ENTREGA-RECEPCION DE LA ADMINISTRACION PUBLICA MUNICIPAL
 
 ###### Artículo 41.
 
-A la Unidad Técnica de Archivo, Logística y Apoyo a Órganos Desconcentrados corresponde:
-
-I. Apoyar y dar seguimiento a los trabajos de los órganos desconcentrados del Instituto Electoral y al respecto:
-
-> <small>(REFORMADO, G.O. 12 DE AGOSTO DE 2016)</small>
-
-a) Informar permanentemente a la Secretaría Ejecutiva sobre la coordinación, integración y funcionamiento de las Direcciones Distritales del Instituto Electoral:
-
-b) Proveer al Consejo General y a las Consejeras y los Consejeros Electorales, por conducto de la Secretaría Ejecutiva, de información oportuna y sistematizada sobre el desempeño de las labores de los órganos desconcentrados del Instituto Electoral;
-
-c) Supervisar la observancia por parte de los órganos desconcentrados del Instituto Electoral, de los acuerdos emitidos por el Consejo General de este Instituto Electoral y en lo conducente del Instituto Nacional, así como los demás ordenamientos legales relativos a los procesos electorales y procedimientos de participación ciudadana;
-
-d) Ser enlace entre las Direcciones Ejecutivas y Unidades con los órganos desconcentrados del Instituto Electoral, de conformidad con los criterios generales relativos al flujo de comunicación e información institucional establecidos por la Secretaría Ejecutiva;
-
-e) Supervisar que la estructura de personal de los órganos desconcentrados esté debidamente integrada y su actuación se realice acorde a los fines del Instituto Electoral;
-
-f) Ejecutar las acciones necesarias para que los órganos desconcentrados cuenten con los elementos necesarios para su adecuado funcionamiento;
-
-g) Dar seguimiento a la ejecución de las actividades de los órganos desconcentrados ordenadas por el Consejo General, Presidencia del Consejo General y Secretaría Ejecutiva; de los programas institucionales elaborados por las Direcciones Ejecutivas y Unidades, así como las demás actividades ordenadas por las áreas centrales o determinadas por los propios órganos distritales;
-
-h) Coadyuvar con las Comisiones, los Comités y la Secretaría Ejecutiva en el desahogo de diligencias, inspecciones oculares y demás actuaciones con motivo del trámite y sustanciación de los expedientes de quejas o investigaciones que correspondan;
-
-i) Proponer, con las demás áreas competentes, los criterios específicos de revisión para implementarse en las visitas de supervisión a los órganos desconcentrados susceptibles de ser inspeccionados;
-
-j) Participar conjuntamente con las áreas competentes en las visitas de supervisión que se practiquen a los órganos desconcentrados e informar permanentemente a la Secretaría Ejecutiva sobre las recomendaciones y observaciones que se hubiesen encontrado;
-
-k) Coadyuvar en el procedimiento de registro de candidatas y candidatos de elección popular;
-
-l) Concentrar y sistematizar la información relativa a la publicación de los acuerdos aprobados por el Consejo General en los estrados de los órganos desconcentrados y en los que se ordene su publicación en la Gaceta Oficial del Distrito Federal;
-
-m) Dar seguimiento a las recomendaciones y observaciones hechas por las autoridades competentes a los órganos desconcentrados;
-
-n) Proponer la concertación y la operación de mecanismos e instrumentos de coordinación e intercambio de información con las instancias competentes internas del Instituto Electoral;
-
-o) Evaluar el cumplimiento de objetivos y metas, de conformidad con los indicadores estratégicos aprobados, a efecto de verificar el desempeño del personal de los órganos desconcentrados;
-
-p) Supervisar la aplicación de los mecanismos de control para el mejoramiento de la eficiencia operativa y funcional del área a su cargo, de acuerdo con el Manual de Organización, y
-
-q) Establecer, en coordinación con las Direcciones Ejecutivas y Unidades, los criterios de gestión aplicables al desarrollo y cumplimiento de los programas institucionales a cargo de las Direcciones Distritales.
-
-II. Dar el apoyo logístico a las diversas áreas del Instituto Electoral para el desarrollo de sus actividades, así como realizar las actividades documentales relacionadas con las sesiones y acuerdos del Consejo General relativas a:
-
-a) Revisar y/o redactar, en coordinación con las Direcciones Ejecutivas y Unidades responsables, los proyectos de acuerdo del Consejo General que le ordene la Secretaría Ejecutiva;
-
-b) Al término de cada sesión del Consejo General, preparar, con el apoyo de las áreas responsables de la elaboración de las respectivas propuestas y proyectos, las versiones definitivas de los documentos de dicho órgano de dirección, mismas que deben contener las observaciones que, en su caso haya aprobado esa instancia;
-
-c) Elaborar las actas de las sesiones del Consejo General;
-
-d) Publicar o fijar en los estrados del Instituto Electoral, los acuerdos y resoluciones que determine el Consejo General y operar, su incorporación al sitio de Internet del Instituto Electoral; así como informar a la Secretaría Ejecutiva de la atención y el curso dado a los acuerdos definitivos que haya aprobado el Consejo General;
-
-e) Tramitar la publicación en la Gaceta Oficial del Distrito Federal, de los acuerdos y resoluciones que establezca el Código y los que determine el Consejo General, informando permanentemente a la Secretaría Ejecutiva;
-
-f) Remitir a la Secretaría Ejecutiva las versiones finales de los documentos aprobados por acuerdo del Consejo General para firma y dar seguimiento a su cumplimiento, y
-
-g) Proporcionar los servicios de apoyo logístico necesarios para el desarrollo de las actividades del Consejo General, la Junta, las Comisiones, los Comités, las Direcciones Ejecutivas y las Unidades.
-
-III. Respecto de los archivos y servicios de documentación del Instituto Electoral:
-
-a) Integrar y administrar el archivo del Consejo General;
-
-> <small>(REFORMADO, G.O. 12 DE AGOSTO DE 2016)</small>
-
-b) Remitir, en medio magnético, a la Unidad Técnica de Comunicación Social y Difusión, los acuerdos y resoluciones aprobados por el Consejo General, para su incorporación en el sitio de Internet del Instituto Electoral;
-
-c) Remitir a la Oficina de Información Pública, el listado de los acuerdos y resoluciones aprobados por el Consejo General, para efectos de su consulta;
-
-d) (DEROGADO, G.O. 12 DE AGOSTO DE 2016)
-
-e) (DEROGADO, G.O. 12 DE AGOSTO DE 2016)
-
-f) Organizar el Centro de Documentación del Instituto Electoral, así como custodiar, operar y mantener actualizado su acervo;
-
-g) Proponer y ejecutar las acciones tendentes a la celebración de enlaces y préstamos con bibliotecas, centros de documentación y otros similares, con el objeto de intercambiar información y acrecentar el acervo del Centro de Documentación del Instituto Electoral para consulta pública;
-
-h) Promover las acciones necesarias para la adquisición de material hemerobibliográfico, digital y audiovisual, en materia electoral, política, social, jurídica, administrativa, participación ciudadana, educación cívica, derechos humanos, igualdad de género y estadística del Centro de Documentación;
-
-i) (DEROGADO, G.O. 12 DE AGOSTO DE 2016)
-
-j) Coadyuvar en el procedimiento de registro de observadoras y observadores electorales, cuya competencia corresponda al Consejo General.
-
-IV. Las demás que le confiera la normativa que rige al Instituto Electoral.
-
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+Se entiende por entrega-recepción al proceso legal-administrativo a través del cual las autoridades municipales salientes preparan y entregan a las autoridades entrantes todos los bienes, fondos y valores propiedad del Municipio, así como toda aquella documentación que debidamente ordenada, clasificada y certificada, haya sido generada en la administración municipal.
 
 ###### Artículo 42.
 
-La estructura de la Unidad Técnica de Archivo, Logística y Apoyo a Órganos Desconcentrados es:
+El Ayuntamiento deberá acordar, por lo menos seis meses antes de que finalice su período de gobierno, las bases mediante las cuales, los titulares de las dependencias y entidades de la administración municipal, harán la entrega de los asuntos de su competencia, así como los recursos humanos, materiales y financieros que tengan asignados para el ejercicio de sus atribuciones legales, conforme a las disposiciones legales del presente capítulo.
 
-> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2016)</small>
-
-I. Titular de Unidad:
-
-a) Asesora o Asesor “B”;
-
-b) Secretaria o Secretario de Unidad;
-
-c) Auxiliar de Servicios, y
-
-d) Analista Administrativo.
-
-I.1 Dirección de Enlace Operativo:
-
-I.1.1 Departamento de Coordinación y Apoyo Operativo I:
-
-I.1.1.1 Analistas.
-
-I.1.2 Departamento de Coordinación y Apoyo Operativo II:
-
-I.1.2.1 Analistas.
-
-I.2 Dirección de Logística y Documentación:
-
-I.2.1 Subdirección de Logística y Acuerdos:
-
-I.2.1.1 Departamento de Logística:
-
-I.2.1.1.1 Analistas;
-
-I.2.1.1.2 Edecanes, y
-
-I.2.1.1.3 Auxiliares de Servicios.
-
-I.2.1.2 Departamento de Seguimiento de Acuerdos.
-
-I.2.1.2.1 Analistas.
-
-I.2.2 Departamento del Centro de Documentación:
-
-I.2.2.1 Analista.
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
+Asimismo, para vigilar el desarrollo del proceso de entrega-recepción, se nombrará una comisión mixta que estará conformada con igual número de integrantes del Ayuntamiento saliente y del entrante y, funcionará cuando menos desde un mes antes de la fecha en que se realizará la sesión de instalación del Ayuntamiento electo. Los integrantes del Ayuntamiento entrante que conformarán la citada comisión serán designados por el Presidente Municipal electo y el desempeño de las funciones en la misma será de carácter honorario.
 
 ###### Artículo 43.
 
-A la Unidad de Asuntos Jurídicos corresponde:
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-I. Prestar apoyo a la Secretaría Ejecutiva en la representación legal del Instituto Electoral;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-II. Litigar los juicios o procedimientos, con excepción de los que deriven de actos y resoluciones de la Contraloría General; informando periódicamente a la Secretaría Ejecutiva, respecto del estado procesal que guarda cada asunto;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-III. Proponer a la Secretaría Ejecutiva participar en pláticas conciliatorias con el personal del Instituto Electoral o con quien haya demandado a éste, para contener o solucionar algún conflicto, así como llevar a cabo las negociaciones conducentes y el pago respectivo, previa instrucción y autorización de la Secretaría Ejecutiva, con base en el dictamen que esta área especializada emita, debiendo elaborar un informe de los resultados obtenidos a la Secretaría Ejecutiva quien, a su vez, lo presentará a la Junta, así como a las Consejeras y los Consejeros Electorales;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-IV. Apoyar a la Secretaría Ejecutiva en la práctica de notificaciones que deriven de los acuerdos y resoluciones emitidas por el Consejo General, así como de actos o determinaciones emitidas por otras instancias del Instituto Electoral, salvo aquellos casos en que se encuentre reservada la realización de la aludida diligencia al órgano emisor;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-V. Prestar apoyo a la Secretaría Ejecutiva en la formulación de denuncias de hechos o querellas penales, tanto en el fuero común como federal;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-VI. Asesorar en materia jurídica a las áreas mediante el desahogo de consultas, y en sesiones y reuniones de los órganos del Instituto Electoral a que se convoque;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-VII. Atender las consultas sobre la aplicación del Código que los órganos del Instituto Electoral le formulen a la Secretaría Ejecutiva, para conformar criterios de interpretación legal;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-VIII. Apoyar a la Secretaría Ejecutiva en la tramitación y sustanciación de los medios de impugnación en contra de actos o resoluciones de los órganos del Instituto Electoral y en los demás procedimientos o recursos establecidos en el Código o en otros ordenamientos, siempre que no formen parte del marco de atribuciones de otro órgano;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-IX. Formular, revisar y, en su caso, validar en sus aspectos jurídicos, los proyectos de contratos, convenios y adendas en los que el Instituto Electoral sea parte;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-X. Apoyar, en su caso, en la elaboración de proyectos de normas internas y demás ordenamientos necesarios para el óptimo funcionamiento del Instituto Electoral;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-XI. Apoyar a la Secretaría Ejecutiva, en la expedición de copias certificadas de los documentos que obren en los archivos del Instituto Electoral en términos de lo establecido por la normativa aplicable;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-XII. Apoyar, cuando lo soliciten, el Consejo General, las Comisiones, los Comités o la Junta, en la redacción de proyectos de acuerdo, informes y resoluciones;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-XIII. Apoyar a la Secretaría Ejecutiva, cuando así lo requiera, en la elaboración de las certificaciones derivadas con motivo de la función de la oficialía electoral;
-
-XIV. (DEROGADA, G.O. 12 DE AGOSTO DE 2016)
-
-XV. (DEROGADA, G.O. 12 DE AGOSTO DE 2016)
-
-> <small>(REFORMADA, G.O. 23 DE MAYO DE 2017)</small>
-
-XVI. Iniciar e instruir los procedimientos laborales disciplinarios del personal del Servicio Profesional Electoral Nacional y del personal de la rama administrativa, ambos en el Instituto Electoral, conforme a lo previsto en la normativa aplicable;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-XVII. Actualizar, compilar y sistematizar el marco normativo del Instituto Electoral, dicha actualización deberá publicarse en el sitio de Internet del Instituto Electoral dentro de los diez días naturales posteriores a su entrada en vigor, y
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-XVIII. Las demás que le confiera la normativa que rige al Instituto Electoral.
-
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+Para el cumplimiento de las disposiciones establecidas en el acuerdo que establezca las bases del acto de entrega-recepción, el Órgano de Control y Evaluación Gubernamental del Ayuntamiento será la unidad responsable de coordinar las acciones de planeación, organización, integración y documentación necesarias para la entrega-recepción.
 
 ###### Artículo 44.
 
-La estructura de la Unidad Jurídica es:
-
-> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2016)</small>
-
-I. Titular de Unidad:
-
-a) Secretaria o Secretario de Unidad;
-
-b) Analista Administrativa o Administrativo, y
-
-c) Auxiliar de Servicios.
-
-I.1 Dirección de Atención a Impugnación y Procedimientos Administrativos:
-
-I.1.1 Subdirección de Atención e Impugnación:
-
-I.1.1.1 Departamento de Quejas:
-
-I.1.1.1.1 Analistas.
-
-I.1.2 Subdirección de Instrucción, Seguimiento y Resolución de Procedimientos Administrativos:
-
-I.1.2.1 Departamento de Análisis, Integración y Seguimiento de Expedientes:
-
-I.1.2.1.1 Analistas.
-
-I.2 Dirección de lo Contencioso:
-
-I.2.1 Subdirección de Defensoría y Litigio:
-
-I.2.1.1 Departamento de Atención a Demandas:
-
-I.2.1.1.1 Analistas.
-
-I.2.1.2 Departamento de Defensoría Jurídica:
-
-I.2.1.2.1 Analistas.
-
-I.2.1.3 Departamento de Acciones Legales:
-
-I.2.1.3.1 Analista.
-
-I.3 Dirección de Servicios Legales:
-
-I.3.1 Subdirección de Normatividad y Contratos:
-
-I.3.1.1 Departamento de Convenios y Contratos:
-
-I.3.1.1.1 Analistas.
-
-I.3.1.2 Departamento de Registro:
-
-I.3.1.2.1 Analista.
-
-I.3.1.3 Departamento de Normatividad:
-
-I.3.1.3 Analista.
-
-I.3.2 Departamento Consultivo:
-
-I.3.2.1 Analista.
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
+Con el propósito de facilitar el proceso de entrega-recepción, los titulares de las dependencias y entidades de la administración municipal deberán mantener ordenados y permanentemente actualizados sus informes, registros, controles y demás documentación relativa a los asuntos de su competencia y la información de los recursos humanos, materiales y financieros de que disponen para el ejercicio de sus funciones.
 
 ###### Artículo 45.
 
-La Unidad Técnica del Centro de Formación y Desarrollo tiene las atribuciones que para la operación del Servicio Profesional Electoral disponga la Ley General, el Código, el Estatuto del Servicio y demás normativa que emita el Instituto Nacional y, en su caso, el Instituto Electoral en materia de Servicio Profesional Electoral Nacional y de la rama administrativa.
-
-Adicionalmente, le corresponderá:
-
-I. Operar los programas institucionales de:
-
-a) Reclutamiento y Selección del Servicio Profesional Electoral;
-
-b) Formación y Desarrollo del Personal del Servicio Profesional Electoral;
-
-c) Selección e ingreso del Personal Administrativo;
-
-d) Capacitación y Actualización del personal Administrativo; y
-
-e) Capacitación a los Consejeros Electorales Distritales.
-
-Asimismo, podrá proponer aquellos proyectos que contribuyan con la superación profesional y laboral del personal del Instituto Electoral, siempre que se apeguen a los principios y criterios metodológicos establecidos en los programas señalados en los incisos b) y d) de la presente fracción.
-
-II. Informar trimestralmente a la Junta sobre el seguimiento y evaluación de los programas, cuya operación se encuentre a su cargo;
-
-III. Informar bimestralmente a la Junta sobre las vacantes que se originen en el Servicio Profesional y en la Rama Administrativa del Instituto Electoral;
-
-IV. Aplicar los procedimientos, lineamientos y/o demás normativa relacionada en el Servicio Profesional y la Rama Administrativa del Instituto Electoral, que aprueben las autoridades competentes para ello;
-
-V. Realizar acciones en colaboración con instituciones académicas y de educación superior relacionadas con la detección de necesidades de formación, desarrollo, capacitación y actualización del personal del Instituto Electoral, así como aquellas que contribuyan a la operación y mejora de los programas a su cargo;
-
-VI. Organizar la realización de foros, conferencias, talleres, congresos y otros eventos académicos en materia de administración y desarrollo de personal que puedan coadyuvar a la mejora del Servicio Profesional y de la Rama Administrativa del Instituto Electoral;
-
-VII. Contribuir al fortalecimiento de la cultura democrática, de los procesos electorales y procedimientos de participación ciudadana en el Distrito Federal a través de la capacitación, actualización y desarrollo profesional del personal del Instituto Electoral;
-
-VIII. Proponer a la Junta el otorgamiento de estímulos e incentivos al personal del Instituto Electoral, de conformidad con los lineamientos e instrumentos que para tal efecto emita el Instituto Nacional;
-
-IX. Apoyar, cuando lo soliciten, las áreas ejecutivas y técnicas en la realización de actividades de capacitación y de evaluación del personal del Instituto Electoral;
-
-X Apoyar, cuando lo soliciten, las áreas ejecutivas y técnicas en la realización de actividades de capacitación y de evaluación relacionadas con las actividades que, en su caso, delegue el Instituto Nacional; y
-
-XI. Las demás que, en el marco de sus atribuciones, deriven de la aplicación del Código, el Estatuto del Servicio y demás normativa interna del Instituto Electoral.
-
-> <small>(REFORMADO, G.O. 6 DE ENERO DE 2015)</small>
+El Órgano de Control y Evaluación Gubernamental del Ayuntamiento podrá adoptar las medidas pertinentes que se requieran para cumplimentar el acuerdo a que se refiere el artículo 42 de esta Ley.
 
 ###### Artículo 46.
 
-La estructura de la Unidad Técnica del Centro de Formación y Desarrollo es:
-
-> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2016)</small>
-
-I. Titular de Unidad:
-
-a) Secretaria o Secretario de Unidad;
-
-b) Auxiliar de Servicios, y
-
-c) Analista Administrativa o Administrativo.
-
-I.1 Dirección de Reclutamiento y Selección:
-
-I.1.1 Subdirección de Reclutamiento y Selección:
-
-I.1.1 1 Departamento de Ingreso:
-
-I.1.1.1.1 Analista.
-
-I.1.1.2 Departamento de Control y Registro:
-
-I.1.1.2.1 Analista.
-
-I.1.1.3 Departamento de Promoción e Incentivos:
-
-I.1.1.3.1 Analista.
-
-I.2 Dirección de Capacitación y Evaluación:
-
-I.2.1 Subdirección de Capacitación y Evaluación del Desempeño:
-
-I.2.1.1 Departamento de Gestión y Seguimiento:
-
-I.2.1.1 Analista.
-
-I.2.1.2 Departamento de Tecnologías Educativas:
-
-I.2.1.2.1 Analista.
-
-I.2.1.3 Departamento de Diseño Pedagógico:
-
-I.2.1.3.1 Analista.
-
-I.2.1.4 Departamento de Evaluación del Desempeño:
-
-I.2.1.4.1 Analista.
-
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 12 DE AGOSTO DE 2016)</small>
+Al término de la ceremonia de instalación, el Ayuntamiento saliente hará entrega legal y administrativa, al Ayuntamiento recién instalado, por conducto de los presidentes - saliente y entrante - de todos los bienes, fondos y valores propiedad del Municipio, así como toda aquella documentación que debidamente ordenada, clasificada y certificada, haya sido generada en la administración municipal.
 
 ###### Artículo 47.
 
-Las ausencias de las y los titulares de las Direcciones Ejecutivas y Unidades, así como de la Unidad Técnica Especializada de Fiscalización, se sujetarán a lo siguiente:
+Los documentos a que se refiere el artículo anterior, deberán contener, por lo menos:
 
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
+I. Los libros de actas de las reuniones del Ayuntamiento saliente y la información sobre el lugar donde se encuentran los libros de las administraciones municipales anteriores;
 
-I. Ausencias momentáneas:
+II. Los estados financieros correspondientes al último año de su gestión que comprenderá la balanza de comprobación, el balance general y el estado de resultados que contenga el ejercicio presupuestario de ingresos y egresos;
 
-De hasta por quince días hábiles, serán suplidas por quien ostente la titularidad de la Dirección o subdirección de mayor antigüedad en el área respectiva, y
+III. La documentación relativa al estado que guarda la cuenta pública del Municipio; la que incluirá los oficios de razonabilidad, las observaciones, requerimientos o apercibimientos emitidos por la Contaduría Mayor de Hacienda del Congreso del Estado o, en su caso, por el Congreso del Estado por conducto de la Contaduría Mayor de Hacienda o la Comisión correspondiente;
 
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
+IV. La situación de la deuda pública municipal, la documentación relativa a la misma y su registro;
 
-II. Ausencias temporales:
+V. El estado de la obra pública ejecutada y en proceso, así como la documentación relativa a la misma;
 
-Mayores a quince días y hasta por cuarenta y cinco días hábiles, serán suplidas por una persona que estará encargada del despacho que designe la Presidencia del Consejo General.
+VI. La situación que guarda la aplicación del gasto público de los recursos federales y estatales, así como de los informes y comprobantes de los mismos, ante la Secretaría de la Contraloría General del Estado;
 
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+VII. La plantilla y los expedientes del personal al servicio del Municipio, antigüedad, prestaciones, catálogo de puestos y demás información conducente;
+
+VIII. La documentación relativa a convenios o contratos que el Municipio tenga con otros municipios, con el Estado, con el Gobierno Federal o con particulares;
+
+IX. La documentación relativa a los programas municipales y proyectos aprobados o ejecutados, así como el estado que guardan los mismos en proceso de ejecución;
+
+X. El registro, inventario, catálogo y resguardo de los bienes muebles e inmuebles de propiedad municipal;
+
+XI. La documentación relativa al estado que guardan los asuntos tratados por las Comisiones del Ayuntamiento;
+
+XII. Relación de los asuntos en trámite ante autoridades judiciales y administrativas pendientes de resolver, con la descripción clara de su situación procesal, así como la especificación de sus probables consecuencias;
+
+XIII. Un informe sobre la ejecución del Plan Municipal de Desarrollo, expresando alcances y deficiencias que se hubieren observado en la administración y las medidas que podrían aplicarse para subsanarlas; y
+
+XIV. La demás información que se estime relevante para garantizar la continuidad de la administración pública municipal.
 
 ###### Artículo 48.
 
-Las ausencias del o la Titular de la Contraloría General se sujetaran a lo siguiente:
+Una vez concluida la entrega-recepción, el Ayuntamiento entrante designará una comisión especial, plural, que se encargará de analizar el expediente integrado con la documentación conducente, para formular un dictamen en un plazo de treinta días naturales.
 
-I. Las ausencias momentáneas serán suplidas por quien ostente la titularidad de la Subcontraloría de Responsabilidades e Inconformidades; en ausencia, por quien sea titular de la Subcontraloría de Auditoría, Control y Evaluación; o, en su caso, de la Subcontraloría de Atención Ciudadana y Normatividad; y, a falta de éstos, de la Subcontraloría de Vinculación con Procesos Electorales y Participativos; y
+En un plazo no mayor a quince días hábiles siguientes, el dictamen a que se refiere el párrafo anterior se someterá al conocimiento y consideración del Ayuntamiento, el cual podrá llamar a las personas que tengan o hayan tenido el carácter de servidores públicos y que de alguna manera se encuentren vinculados con la administración pública saliente, a efecto de solicitarles cualquier información o documentación. Tales personas estarán obligadas tanto a comparecer, como a proporcionar y atender las observaciones consecuentes.
 
-II. Tratándose de ausencias temporales, éstas serán suplidas por una persona que estará encargada del despacho que determine la Presidencia del Consejo General, en tanto la Asamblea Legislativa, en ejercicio de sus atribuciones, designe a la persona titular, de acuerdo a lo previsto por el artículo 85 del Código.
+Dentro de los diez días siguientes a la conclusión del período de comparecencia que se menciona en el párrafo anterior, el Ayuntamiento emitirá el acuerdo correspondiente, mismo que no exime de responsabilidad a los integrantes y servidores públicos del Ayuntamiento saliente.
 
-En este supuesto, la Presidencia del Consejo General deberá informar a la Asamblea Legislativa la vacancia de la Contraloría General, para los efectos de su designación.
+El procedimiento descrito en el presente artículo, no podrá exceder de los noventa días fijados para la entrega de la glosa del Ayuntamiento saliente.
 
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+Simultáneamente a la emisión de dicho acuerdo, el Ayuntamiento remitirá copia certificada del expediente de entrega-recepción al Congreso del Estado, a efecto de que sirva de apoyo para la revisión de las glosas municipales.
 
-### CAPÍTULO VII. De las Direcciones Ejecutivas
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
+### CAPITULO CUARTO. DEL FUNCIONAMIENTO DEL AYUNTAMIENTO
 
 ###### Artículo 49.
 
-Las personas encargadas del despacho recibirán la remuneración salarial que corresponda al cargo o puesto que ocupen. Al término de la encargaduría, deberán reincorporarse a su cargo o puesto de origen.
-
-(REFORMADO, G.O. 28 DE ABRIL DE 2016) (REPUBLICADO PRIMER PÁRRAFO, G.O. 27 DE DICIEMBRE DE 2016)
+Los miembros del Ayuntamiento durarán en su cargo tres años e iniciarán sus funciones el día dieciséis de septiembre del año que corresponda a su elección.
 
 ###### Artículo 50.
 
-Para los efectos de dar continuidad al Instituto Electoral en la debida atención de los asuntos a su cargo, serán competentes para suplir en la suscripción de los documentos respectivos:
+El Ayuntamiento como órgano deliberante deberá resolver los asuntos de su competencia colegiadamente, y para tal efecto, celebrará sesiones ordinarias, extraordinarias y solemnes, que serán públicas, con excepción de aquellas que él mismo determine por el voto de las dos terceras partes de sus integrantes.
 
-(REPUBLICADA, G.O. 27 DE DICIEMBRE DE 2016)
-
-I. Persona Titular de la Contraloría, titulares de las Subcontralorías;
-
-> <small>(ADICIONADA, G.O. 27 DE DICIEMBRE DE 2016)</small>
-
-II. Persona Titular de la Unidad Técnica Especializada de Fiscalización, titular de su Dirección;
-
-III. Secretaría Ejecutiva, las y los Titulares de las Direcciones Ejecutivas o Titulares de Unidad, que le son adscritas y adscritos en el ámbito de sus respectivas competencias;
-
-IV. Personas Titulares de las Direcciones Ejecutivas y Titulares de Unidad, Titulares de la Dirección que corresponda, en el ámbito de sus respectivas competencias, y
-
-> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2016)</small>
-
-V. Personas Titulares de Órganos Desconcentrados, su Secretaria o Secretario en Órgano Desconcentrado, como representante legal de su Dirección Distrital.
-
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+Habrá por lo menos una sesión ordinaria cada mes y las extraordinarias que sean necesarias a juicio del Presidente Municipal o a petición de las dos terceras partes de los integrantes del Ayuntamiento, ajustándose en cada caso al Reglamento Interior.
 
 ###### Artículo 51.
 
-La integración y atribuciones de los Comités se establecen en el Código, en los acuerdos del Consejo General y demás normativa que rige al Instituto Electoral.
-
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+Para que las sesiones del Ayuntamiento sean válidas se requiere que sean citados todos los integrantes del Ayuntamiento y que se constituya el quórum por lo menos con la mitad más uno de los integrantes del mismo.
 
 ###### Artículo 52.
 
-Los órganos desconcentrados del Instituto Electoral se integran y funcionan de conformidad con lo establecido por el Código, el Reglamento, la Ley de Participación y demás normativa que rige al Instituto Electoral.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE AGOSTO DE 2016)</small>
+La citación a que se refiere el artículo anterior deberá efectuarla el Secretario, misma que será por escrito, de carácter personal, en el domicilio del integrante del Ayuntamiento, con una anticipación de por lo menos cuarenta y ocho horas al día en que vaya a realizarse -tratándose de sesiones ordinarias- debiendo contener el lugar, día y hora en que habrá de celebrarse la sesión, así como el orden del día, anexando, en todos los casos, la información y documentación necesaria para su desarrollo.
 
 ###### Artículo 53.
 
-Son atribuciones de las personas Titulares de los Órganos Desconcentrados:
+Para los efectos de esta Ley, se entenderá por:
 
-> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2016)</small>
+I. Mayoría simple: el número de votos a favor de una proposición emitida por la mitad mas uno de los integrantes presentes en la sesión del Ayuntamiento.
 
-I. Coordinar los trabajos de organización electoral y geoestadística en el ámbito de su Distrito, y cuando así corresponda, los de Capacitación Electoral, así como las que, en su caso, sean delegadas por el Instituto Nacional al Instituto Electoral;
+II. Mayoría absoluta: el número de votos a favor de una proposición emitida por la mitad mas uno de los integrantes del Ayuntamiento.
 
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
+III. Mayoría calificada: la votación a favor de una proposición emitida por las dos terceras partes de los integrantes del Ayuntamiento.
 
-II. Atender y coordinar las actividades previstas en la Ley de Participación;
+Cuando el cálculo de la proporción señalada en las fracciones anteriores indique un resultado fraccional, éste habrá de redondearse al número entero superior más próximo.
 
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-III. Coordinar los trabajos de todas las servidoras y todos los servidores públicos de la Dirección Distrital, los cuales estarán bajo su mando y supervisión, asimismo, verificar que se cumplan las políticas y programas generales y particulares y se desarrollen los programas institucionales y procedimientos administrativos del Instituto Electoral;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-IV. Cumplir, en el ámbito de su competencia, con los acuerdos del Consejo General e informar sobre la observancia de los mismos a la Secretaría Ejecutiva, por conducto de la Unidad de Apoyo Logístico;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-V. Cumplir con las instrucciones del Consejo General y de la Secretaría Ejecutiva;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-VI. Coordinar y supervisar que el órgano distrital cuente con los elementos necesarios para su funcionamiento;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-VII. Mantener permanentemente informado al personal de su Dirección Distrital, acerca de las actividades o instrucciones emitidas por las servidoras y los servidores públicos de las oficinas centrales del Instituto Electoral;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-VIII. Recibir y comprobar la aplicación de los recursos financieros para cubrir los gastos del órgano distrital en el desarrollo de los programas institucionales a su cargo;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-IX. Proporcionar a la Unidad de Apoyo Logístico, la información requerida para el seguimiento del calendario anual de actividades de los órganos desconcentrados;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-X. Convocar y dirigir las reuniones de trabajo con las y los integrantes del órgano distrital, e informar lo conducente a la Secretaría Ejecutiva, por conducto de la Unidad de Apoyo Logístico;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-XI. Proporcionar la información que les soliciten los órganos centrales del Instituto Electoral, por conducto de la Secretaría Ejecutiva, para la elaboración de la estadística de los procesos electorales y de participación ciudadana, desagregada por sexo;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-XII. Coordinar y supervisar la preparación de la información requerida en el ámbito distrital, para la elaboración de la estadística de los procesos electorales y de participación ciudadana, así como del catálogo de información básica por sección electoral;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-XIII. Supervisar el avance cuantitativo y cualitativo del cumplimiento de los programas institucionales a cargo del órgano distrital;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-XIV. Dar seguimiento al cumplimiento de lo establecido en el calendario anual de actividades ordinarias o electorales de los órganos desconcentrados, que les remita la Unidad de Apoyo Logístico;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-XV. Informar a la Secretaría Ejecutiva, por conducto de la Unidad de Apoyo Logístico, sobre el desarrollo de las actividades y programas institucionales a cargo del órgano distrital;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-XVI. Elaborar y remitir a la Secretaría Ejecutiva, por conducto de la Unidad de Apoyo Logístico, el informe sobre los avances en la implementación de los Programas generales y particulares del Instituto Electoral, en su ámbito territorial;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-XVII. Atender, en el ámbito de su competencia, por conducto de la Unidad de Apoyo Logístico, los requerimientos de información de las áreas centrales, de conformidad con los flujos de comunicación e información establecidos por la Secretaría Ejecutiva;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-XVIII. Coordinar en su ámbito territorial la organización y desarrollo de los mecanismos de participación ciudadana, realizar el cómputo y emitir la declaratoria respectiva, conforme a lo previsto en la Ley de Participación y los acuerdos emitidos por el Consejo General;
-
-> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2016)</small>
-
-XIX. Auxiliar a la Dirección Ejecutiva de Participación Ciudadana y Capacitación en la evaluación del desempeño de los comités ciudadanos. Conforme al Manual de Organización y Funcionamiento del Instituto Electoral, y
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-XX. Las demás que le confiera la normativa que rige al Instituto Electoral.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE AGOSTO DE 2016)</small>
+Cuando en esta Ley no se especifique el tipo de mayoría necesaria para la toma de un acuerdo, deberá entenderse que éste habrá de tomarse por mayoría simple.
 
 ###### Artículo 54.
 
-Son atribuciones de las Subcoordinadoras y los Subcoordinadores de Organización Electoral, Educación Cívica y Participación Ciudadana:
-
-> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2016)</small>
-
-I. Ejecutar las políticas, programas y actividades relativas a la educación cívica y participación ciudadana, y cuando así corresponda, las de Capacitación Electoral, y Geografía y Organización Electoral, así como las que, en el ámbito de su competencia, le asigne su Titular del Órgano Desconcentrado;
-
-> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2016)</small>
-
-II. Cumplir, en el ámbito de su competencia, los acuerdos del Consejo General y de su respectivo Consejo Distrital, e informar sobre la observancia de los mismos a su Titular del Órgano Desconcentrado;
-
-> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2016)</small>
-
-III. Cumplir con las instrucciones del Consejo General, de las Comisiones, de la Junta, de la Secretaría Ejecutiva y de su Titular del Órgano Desconcentrado;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-IV. Proporcionar los informes y documentos que le requieran las Comisiones de su Consejo Distrital, a través de su respectiva Presidencia;
-
-> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2016)</small>
-
-V. Informar a su Titular del Órgano Desconcentrado, sobre el desarrollo de sus actividades;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-VI. Participar con las propuestas que se remitirán a las áreas correspondientes en materia de Educación Cívica, Participación Ciudadana y Materiales Electorales y Documentación Electoral;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-VII. Atender, en el ámbito de su competencia, por conducto de la Unidad de Apoyo Logístico, los requerimientos de información de las áreas centrales, de conformidad con los flujos de comunicación e informaciones establecidas por la Secretaría Ejecutiva;
-
-> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2016)</small>
-
-VIII. Acordar con su Titular del Órgano Desconcentrado, los asuntos de su competencia;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-IX. Ejecutar las actividades en materia de organización, geografía y estadística electoral, y
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-X. Las demás que le confiera la normativa que rige al Instituto Electoral.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE AGOSTO DE 2016)</small>
+Las sesiones del Ayuntamiento se celebrarán en la sala de sesiones, o cuando el caso lo requiera, en el recinto previamente declarado oficial por el propio Ayuntamiento para tal objeto.
 
 ###### Artículo 55.
 
-Son atribuciones de la Secretaria o Secretario del Órgano Desconcentrado:
+El miembro del Ayuntamiento que no hubiese sido citado a una sesión, podrá solicitar, dentro de las veinticuatro horas siguientes a la fecha en que haya tenido conocimiento de la sesión a la que no fue citado, que se vuelvan a deliberar en su presencia, el o los acuerdos tomados en su ausencia.
 
-> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2016)</small>
-
-I. Ejecutar, en el ámbito de su competencia, las políticas y programas generales y particulares del Instituto Electoral, así como las labores específicas que le asigne su Titular del Órgano Desconcentrado;
-
-> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2016)</small>
-
-II. Cumplir, en el ámbito de su competencia, los acuerdos del Consejo General e informar sobre la observancia de los mismos a su Titular del Órgano Desconcentrado;
-
-> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2016)</small>
-
-III. Cumplir con las instrucciones del Consejo General, de las Comisiones, de la Junta, de la Secretaría Ejecutiva y de su Titular del Órgano Desconcentrado;
-
-> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2016)</small>
-
-IV. Cumplir cuando, así corresponda, con las tareas que en materia de organización electoral le encomiende su Titular del Órgano Desconcentrado;
-
-> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2016)</small>
-
-V. Informar a su Titular del Órgano Desconcentrado sobre el desarrollo de sus actividades;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-VI. Asesorar jurídicamente a la Dirección Distrital de su adscripción y dar fe pública de los actos o hechos de naturaleza electoral que ocurran en el Distrito Federal, de conformidad con lo que determine la Secretaría Ejecutiva;
-
-> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2016)</small>
-
-VII. Colaborar con su Titular del Órgano Desconcentrado en la implementación de los Programas de Capacitación Electoral y de Educación Cívica y Democrática;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-VIII. Atender las consultas jurídicas de las ciudadanas y los ciudadanos que acudan a la respectiva Dirección Distrital, en cuanto a la protección de sus derechos-político electorales y sobre temas de justicia electoral llevándose una bitácora de la misma y su resultado;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-IX. Coordinar y supervisar la integración, operación y actualización del archivo del órgano distrital, que estará bajo su resguardo físico y legal;
-
-> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2016)</small>
-
-X. Apoyar a la o a el Titular del Órgano Desconcentrado en las gestiones administrativas;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-XI. Expedir copia certificada, previo cotejo y compulsa de todos aquellos documentos que obren en los archivos de la Dirección Distrital de su adscripción;
-
-XII. (DEROGADA, G.O. 28 DE ABRIL DE 2016)
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-XIII. Atender, en el ámbito de su competencia, por conducto de la Unidad de Apoyo Logístico, los requerimientos de información de las áreas centrales, de conformidad con los flujos de comunicación e información establecidos por la Secretaría Ejecutiva;
-
-> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2016)</small>
-
-XIV. Acordar con la o el Titular del Órgano Desconcentrado los asuntos de su competencia, y
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-XV. Las demás que le confiera la normativa que rige al Instituto Electoral.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE AGOSTO DE 2016)</small>
+El miembro del Ayuntamiento que sin aviso y causa justificada falte a cualquier sesión, deberá ser sancionado de acuerdo con lo que establezca el Reglamento Interior.
 
 ###### Artículo 56.
 
-Son atribuciones de las y los Técnicos del Órgano Desconcentrado:
-
-> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2016)</small>
-
-I. Ejecutar, en el ámbito de su competencia, las políticas y programas generales y particulares del Instituto Electoral, así como las labores específicas que les asigne su Titular del Órgano Desconcentrado;
-
-> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2016)</small>
-
-II. Cumplir, en el ámbito de su competencia, con los acuerdos del Consejo General y de su respectivo Consejo Distrital, e informar sobre la observancia de los mismos a su Titular del Órgano Desconcentrado respectivo;
-
-> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2016)</small>
-
-III. Cumplir con las instrucciones del Consejo General, de la Secretaría Ejecutiva y de su Titular del Órgano Desconcentrado;
-
-> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2016)</small>
-
-IV. Informar a su Titular del Órgano Desconcentrado sobre el desarrollo de sus actividades;
-
-> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2016)</small>
-
-V. Desarrollar los trabajos que en materia de organización electoral, capacitación electoral, educación cívica, geografía electoral, aspectos jurídicos, informáticos y administrativos, le sean encomendados por su Titular del Órgano Desconcentrado;
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-VI. Fungir como enlace informático entre su respectiva Dirección Distrital y la Unidad Técnica de Servicios Informáticos;
-
-VII. (DEROGADA, G.O. 28 DE ABRIL DE 2016)
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-VIII. Atender, en el ámbito de su competencia, a través de la Unidad de Apoyo Logístico, los requerimientos de información de las áreas centrales, de conformidad con los flujos de comunicación e información establecidos por la Secretaría Ejecutiva;
-
-> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2016)</small>
-
-IX. Acordar con su Titular del Órgano Desconcentrado los asuntos de su competencia, y
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
-
-X. Las demás que le confiera la normativa que rige al Instituto Electoral.
-
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+Cada sesión se iniciará con la lectura del acta que contenga el o los acuerdos tomados en la sesión anterior. Después de la lectura, se procederá a suscribir el acta por todos los que intervinieron en la misma.
 
 ###### Artículo 57.
 
-Los Consejos Distritales, durante cada proceso electoral, se integran y funcionan de conformidad con lo establecido por el Código, su Reglamento de Integración, Funcionamiento y Sesiones, y demás normativa que rige al Instituto Electoral.
+Las actas de las sesiones del Ayuntamiento se consignarán en un Libro que se llevará por duplicado, uno de los cuales deberá conservar el Secretario del Ayuntamiento y el otro lo deberá de enviar al Congreso del Estado para formar parte del Archivo General del Congreso del Estado.
 
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+Los acuerdos y resoluciones asentados en las actas de las sesiones se publicarán en el tablero de avisos del Ayuntamiento, garantizándose que la publicación permanecerá visible por un tiempo no menor de quince días.
 
 ###### Artículo 58.
 
-Las Mesas Directivas de Casilla son órganos electorales formados por ciudadanas y ciudadanos que se integran para cada proceso electoral, en los términos y con las atribuciones establecidas en la Ley General, el Código, y las reglas que para tal efecto emita el Instituto Nacional.
-
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+El Ayuntamiento podrá ordenar la comparecencia de cualquier funcionario de la administración pública municipal, cuando se discuta algún asunto de la competencia del compareciente. Asimismo, todos los funcionarios de la administración pública municipal tendrán la obligación de proporcionar la documentación e información que le solicite cualquier integrante del Ayuntamiento, atendiendo los términos del artículo 69, fracción III, de esta Ley, incurriendo en responsabilidad administrativa el funcionario de la administración pública municipal que incumpla tal requerimiento.
 
 ###### Artículo 59.
 
-El Salón de Sesiones será el lugar en las oficinas centrales del Instituto Electoral para la celebración de las sesiones del Consejo General, salvo que por causas de fuerza mayor o caso fortuito, a juicio de la Consejera Presidenta o Consejero Presidente del Consejo General, dicho espacio físico no garantice el correcto desarrollo de las mismas y se deba sesionar en cualquier otro lugar dentro del Distrito Federal.
-
-Dicho Salón y demás áreas podrán ser utilizados para eventos institucionales previa autorización que otorgue la Secretaría Ejecutiva, con base en la información que le proporcione la Unidad de Apoyo Logístico.
-
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+El Secretario del Ayuntamiento deberá expedir certificaciones de los acuerdos asentados en los libros de actas, siempre que el solicitante acredite su interés legítimo y no se perjudique el interés público. Estos requisitos no se exigirán a los integrantes del Ayuntamiento.
 
 ###### Artículo 60.
 
-Se favorecerá el acceso a personas con discapacidad al Salón de Sesiones y estará estrictamente prohibida la entrada de toda persona armada, con excepción del personal de seguridad del propio Instituto Electoral; en estado de ebriedad o bajo la influencia de enervantes o psicotrópicos; a quien infrinja lo anterior se le pondrá a disposición de las autoridades competentes. La Secretaría Ejecutiva velará su puntual cumplimiento.
+En todo el Estado se dará entera fe y crédito a los actos y despachos de las autoridades municipales en asuntos de su competencia.
 
-En lo conducente, esta disposición será aplicable por lo que hace a los Consejos Distritales.
-
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
-
-### CAPÍTULO VIII. De las Unidades Técnicas
-
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
+### CAPITULO QUINTO. DE LAS ATRIBUCIONES DEL AYUNTAMIENTO
 
 ###### Artículo 61.
 
-Los demás salones y espacios físicos del Instituto Electoral serán utilizados para la celebración de sesiones, reuniones, capacitación, ceremonias y eventos institucionales, los cuales estarán habilitados para personas con discapacidad. La persona Titular de la Unidad de Apoyo Logístico cuidará que se observe lo anterior.
+Corresponde al Ayuntamiento las competencias y funciones siguientes:
 
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+I. En el ámbito Legislativo y Reglamentario:
+
+A).- Iniciar leyes y decretos ante el Congreso del Estado;
+
+B).- Expedir, de acuerdo con las leyes que establezca el Congreso, el Bando de Policía y Gobierno, los reglamentos, circulares y demás disposiciones administrativas de observancia general dentro de su ámbito territorial, asegurando la participación ciudadana y vecinal;
+
+C).- Formular el Reglamento Interior que defina el gobierno, la organización y funcionamiento del propio Ayuntamiento, así como la creación, organización y funcionamiento de sus dependencias directas;
+
+D).- Expedir los reglamentos y disposiciones administrativas que fueren necesarios, de conformidad con lo establecido en el párrafo tercero del artículo 27 de la Constitución General de la República; y
+
+E).- Regular la expedición, temporal o permanente, de licencias, permisos o autorizaciones para la apertura y operación de establecimientos mercantiles, desempeño de oficios y desarrollo de espectáculos en la vía pública.
+
+II. En el ámbito Político:
+
+A).- Elaborar, aprobar y publicar en los términos de esta Ley, el Plan Municipal de Desarrollo correspondiente a su período constitucional de gobierno y derivar de éste, los programas para la ejecución de obras y la prestación de los servicios de su competencia;
+
+B).- Constituir los órganos de planeación y presidir los mismos por conducto del Presidente Municipal;
+
+C).- Determinar los mecanismos para la actualización, instrumentación, control y evaluación de su Plan Municipal de Desarrollo;
+
+D).- Promover las actividades productivas del Municipio, alentando y organizando el desarrollo de la agricultura, ganadería, pesca, industria, minería y de otras actividades que propicien la prosperidad de sus habitantes;
+
+E).- Establecer el Sistema de Información Económica y Social del Municipio;
+
+F).- Aprobar los convenios y contratos que a nombre del Ayuntamiento celebre el Presidente Municipal;
+
+G).- Acordar, por mayoría calificada, la naturaleza y monto de los convenios y contratos que puede celebrar el Presidente Municipal, sin su autorización previa;
+
+H).- Coordinarse con el Ejecutivo Estatal y con el Ejecutivo Federal a efecto de:
+
+a) Intervenir en el proceso de planeación del desarrollo regional, estatal y nacional, de acuerdo con lo que establezcan las leyes;
+
+b) Promover el desarrollo de programas de vivienda y urbanismo;
+
+c) Realizar la construcción, reconstrucción y conservación de edificios públicos federales o estatales, monumentos y demás obras públicas;
+
+d) Celebrar convenios para la administración y custodia de las zonas federales;
+
+e) Participar en la creación y administración de zonas de reservas ecológicas y en la elaboración y aplicación de programas de ordenamiento de esta materia;
+
+f) Cuidar los recursos naturales y turísticos de su circunscripción territorial;
+
+g) Intervenir en los términos que establece la Ley Agraria y la Ley General de Asentamientos Humanos y sus respectivos reglamentos, en la localización, deslinde y fraccionamiento de la zona de urbanización de las tierras ejidales destinadas al asentamiento humano y tener preferencia para adquirir las tierras con vocación urbana que excedan de la pequeña propiedad individual;
+
+h) Vigilar la correcta aplicación de los precios y tarifas autorizadas y registradas y la prestación de servicios turísticos, conforme a las disposiciones legales aplicables;
+
+i) Vigilar el estricto cumplimiento de los precios, particularmente de los que se refieren a artículos de consumo y uso popular;
+
+j) Ejecutar programas de abasto;
+
+k) Crear y administrar establecimientos de salubridad, asistencia pública y terapia social;
+
+l) Coadyuvar en la ejecución y conservación de caminos y puentes de jurisdicción federal o estatal;
+
+m) Proponer la construcción de pequeñas obras de irrigación a ejecutarse en su jurisdicción e intervenir en la proyección, ejecución y conservación de bordos, canales, tajos y abrevaderos que competa realizar al Gobierno Federal por si o en cooperación con el Gobierno del Estado o los particulares;
+
+n) En general, coordinarse conforme a la ley, para asumir el ejercicio de funciones, la ejecución y operación de obras y la prestación de servicios públicos del Gobierno Federal y Estatal cuando su desarrollo económico y social lo hagan necesario;
+
+ñ) Coadyuvar en el desarrollo de las políticas de protección civil; e
+
+o) Impulsar el desarrollo de las actividades deportivas en el Municipio.
+
+I).- Auxiliar en sus funciones a las autoridades Federales y Estatales;
+
+J).- Vigilar que los actos de las autoridades municipales, observen los principios de igualdad, publicidad, audiencia, legalidad y seguridad jurídica que establece la Constitución Política de los Estados Unidos Mexicanos;
+
+K).- Publicar en el Boletín Oficial del Gobierno del Estado, su Presupuesto de Egresos, Bando de Policía y Gobierno, reglamentos, circulares y demás disposiciones administrativas de observancia general en su ámbito territorial;
+
+L).- Solicitar al Gobierno del Estado o Federal, en su caso, la expropiación de bienes por causa de utilidad pública; e
+
+M).- Interponer controversias constitucionales ante la Suprema Corte de Justicia de la Nación.
+
+III. En el ámbito Administrativo:
+
+A).- Ejercer las facultades que en materia de desarrollo urbano y ecología, les confieran la Constitución General de los Estados Unidos Mexicanos, la del Estado y las leyes federales y locales, así como ejercer las atribuciones que les confieran las fracciones V y VI del artículo 115 de la Constitución General de los Estados Unidos Mexicanos;
+
+B).- Formular, aprobar y administrar la zonificación y programas de desarrollo urbano municipal; así como participar en la creación y administración de sus reservas territoriales;
+
+C).- Autorizar, controlar y vigilar la utilización del suelo, en el ámbito de su competencia, en su ámbito territorial;
+
+D).- Intervenir en la regularización de la tenencia de la tierra urbana;
+
+E).- Otorgar licencias y permisos para construcciones;
+
+F).- Prestar en su respectivo ámbito territorial y en los términos fijados en esta Ley y demás leyes relativas, las siguientes funciones y servicios públicos:
+
+a) Agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales;
+
+b) Alumbrado público;
+
+c) Limpia, recolección, traslado, tratamiento y disposición final de residuos;
+
+d) Mercados y centrales de abasto;
+
+e) Panteones;
+
+f) Rastros;
+
+g) Calles, parques, jardines y campos deportivos y su equipamiento;
+
+h) Seguridad pública, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, policía preventiva y de tránsito municipal, los cuales no podrán ser concesionados; y (sic)
+
+i) Los demás que les señale el Congreso del Estado, según las condiciones territoriales y socioeconómicas de los municipios, así como su capacidad administrativa, técnica y financiera.
+
+G).- Prestar las funciones y servicios públicos municipales a que se refiere el inciso anterior, en coordinación y asociación con otros municipios del Estado, previo acuerdo entre sus Ayuntamientos y con sujeción a la Ley, así como con municipios de otro u otros Estados, debiendo recabar, en este caso, además del acuerdo del Ayuntamiento, la aprobación del Congreso del Estado;
+
+H).- Crear organismos descentralizados y autorizar la constitución de empresas de participación municipal mayoritarias y fideicomisos públicos, para la prestación de los servicios públicos, la obtención o aplicación de recursos para fines de asistencia social, la realización de actividades prioritarias o el desarrollo económico conforme lo señalen esta Ley y las demás leyes relativas;
+
+I).- Formar y actualizar el catastro municipal, así como prestar todos los servicios inherentes a éste, mediante la dependencia que considere conveniente y conforme a la ley de la materia y al reglamento que, en su caso, expida el Ayuntamiento;
+
+J).- Nombrar y remover, al Secretario del Ayuntamiento, Tesorero Municipal, Jefe de la Policía Preventiva Municipal y al titular del Organo de Control y Evaluación Gubernamental, con arreglo a las disposiciones de esta Ley;
+
+K).- Nombrar apoderados y representantes generales o especiales que hagan valer los derechos que correspondan al Municipio, sin perjuicio de las facultades que esta Ley confiere al Síndico Municipal;
+
+L).- Nombrar consejos técnicos para los asuntos que lo requieran;
+
+M).- Acordar y llevar a cabo programas de capacitación y actualización tendientes a eficientar el cumplimiento de las funciones de los integrantes del Ayuntamiento y demás servidores públicos municipales, en base a las necesidades del gobierno y la administración municipal, así como a los recursos disponibles;
+
+N).- Designar en la primera sesión que celebren en el mes de enero de cada año, como lo previene el Código Civil del Estado, a los integrantes del Consejo Local de Tutelas del Municipio;
+
+Ñ).- Otorgar concesiones para la prestación de servicios públicos de su competencia, en la forma y términos que señalen esta Ley y las demás leyes relativas;
+
+O).- Acordar, por mayoría calificada y mediando razones de orden e interés público, la revocación de los actos administrativos mediante los cuales se autorizó a los particulares para prestar los servicios públicos de su competencia;
+
+P).- Establecer las bases para la participación, colaboración y cooperación de los habitantes en la prestación, construcción y conservación de los servicios y obras públicas;
+
+Q).- Constituir, en el ámbito de su competencia, los consejos municipales para la integración social de las personas con discapacidad, en los términos de la ley de la materia;
+
+R).- Nombrar y remover a los funcionarios y empleados de sus dependencias y concederles licencia de acuerdo a las leyes aplicables;
+
+S).- Conceder pensiones a los empleados del Municipio en reconocimiento a su antigüedad en la función pública, así como a las viudas y huérfanos de los mismos, en los términos de ley;
+
+T).- Otorgar reconocimiento público al mérito de personas físicas o morales por acciones o conductas valiosas o relevantes realizadas en beneficio de la comunidad;
+
+U).- Auxiliar a la Secretaría de Gobernación en las funciones que a ésta corresponden, en el Registro de Población e Identificación Personal y en las demás materias reguladas por la Ley General de Población y su Reglamento;
+
+V).- Llevar un libro local de registro en el que conste el nombre, edad, nacionalidad, calidad migratoria, ocupación, estado civil, domicilio y en su caso, el domicilio conyugal de los extranjeros radicados en su jurisdicción, así como el número de su forma migratoria. Se anotará además, los cambios de domicilio y las bajas ocurridas por fallecimiento, por ausencia de los extranjeros o cuando salga a radicar en otro lugar, precisando, de ser posible, la nueva dirección. Asimismo, deberá remitir mensualmente al Registro Nacional de Extranjeros una relación completa de los movimientos ocurridos en el mes;
+
+W).- Proporcionar a los Poderes del Estado, los informes y documentos que les soliciten sobre cualquier asunto de competencia del Ayuntamiento. Será causa de responsabilidad, en los términos que fije la ley de la materia, la falta de cumplimiento de las órdenes legítimas que reciban de los Poderes del Estado;
+
+X).- Rendir a la población por conducto del Presidente Municipal, en sesión solemne, un informe anual detallado sobre el estado que guarden los asuntos municipales y las labores realizadas durante ese año; para lo cual deberá autorizar, previamente, el contenido del citado informe y enviar un ejemplar escrito al Congreso del Estado y al Gobernador;
+
+Y).- Resolver los recursos interpuestos en contra de los acuerdos dictados por las autoridades municipales o por el propio Ayuntamiento, sin perjuicio de lo dispuesto en las leyes fiscales; y
+
+Z).- Promover, en el ámbito de su respectiva competencia, el culto a los símbolos patrios.
+
+IV. En el ámbito Financiero:
+
+A).- Someter al examen y aprobación del Congreso durante la segunda quincena del mes de noviembre de cada año, la Ley de Ingresos y Presupuesto de Ingresos, que deberán regir en el año siguiente;
+
+B).- Proponer al Congreso, dentro del ámbito de su competencia, las cuotas, tasas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria. Así como informar al mismo acerca de los ingresos adicionales o excedentes que perciba durante el ejercicio fiscal, siempre que se trate de rubros previstos en su Ley de Ingresos;
+
+C).- Aprobar, con base en las contribuciones y demás ingresos que determine anualmente el Congreso, su Presupuesto de Egresos y publicarlo en el Boletín Oficial del Gobierno del Estado de Sonora;
+
+D).- Enviar trimestralmente al Congreso, los estados financieros que comprenderán la balanza de comprobación, el balance general y el estado de resultados que contenga el ejercicio presupuestario de ingresos y egresos que se lleve a la fecha;
+
+E).- Someter a la revisión, fiscalización y aprobación del Congreso, anualmente en la primera quincena del segundo período de sesiones ordinarias, su cuenta pública del año anterior;
+
+F).- Glosar las cuentas del Ayuntamiento saliente, en un término de noventa días contados a partir de la fecha de toma de posesión. Si de la glosa resultaren diferencias con las cuentas públicas aprobadas por el Congreso, será éste quien decida lo conducente;
+
+G).- Formular los estados financieros que comprenderán la balanza de comprobación, el balance general y el estado de resultados que contenga el ejercicio presupuestario de ingresos y egresos correspondientes al último año de su gestión y entregarlos al concluir sus funciones al Ayuntamiento entrante;
+
+H).- Ejercer directamente o por conducto de quienes autoricen, bajo los principios de honradez y eficacia, los recursos económicos de que dispongan, conforme a lo establecido en el artículo 150 de la Constitución Política Local y en las leyes aplicables;
+
+I).- Conocer y evaluar las necesidades y capacidad de endeudamiento de la administración pública municipal, pudiendo aprobar la contratación de empréstitos en los términos establecidos por la Ley de Deuda Pública para el Estado y los Municipios, solicitando, para tal efecto, la autorización correspondiente al Congreso del Estado;
+
+J).- Autorizar la ampliación, transferencia y supresión de las partidas del Presupuesto de Egresos, en los términos de ley y publicarlos en el Boletín Oficial del Gobierno del Estado;
+
+K).- Glosar anualmente por medio de su Tesorería las cuentas de sus comisarías y delegaciones y, en caso de irregularidades, fincar las responsabilidades que conforme a la ley correspondan;
+
+L).- Publicar mensualmente en la tabla de avisos del Ayuntamiento o en alguno de los periódicos de circulación en el Municipio, el estado de origen y aplicación de fondos;
+
+M).- Vigilar que quienes manejen valores municipales, garanticen dicho manejo; y
+
+N).- Aceptar las donaciones o legados que se hicieren al Municipio.
+
+V.- En el ámbito de Policía:
+
+A).- Aplicar las sanciones por infracciones al Bando de Policía y Gobierno y demás reglamentos municipales, con base en lo que establezca esta Ley, otras leyes municipales y demás disposiciones reglamentarias. Cuando en el Municipio, no existan Jueces Calificadores, las funciones que las leyes de la materia confieren a éstos podrán ser ejercidas por el Secretario del Ayuntamiento, los Comisarios y Delegados, los dos últimos, sólo ejercerán esta atribución en el ámbito territorial de su competencia.
+
+VI.- Las demás que le señalen la Constitución Política de los Estados Unidos Mexicanos, la del Estado de Sonora, esta Ley y demás ordenamientos jurídicos.
 
 ###### Artículo 62.
 
-Las y los integrantes del Consejo General podrán utilizar las instalaciones del Instituto Electoral para ruedas de prensa, previa solicitud que se haga a la Secretaría Ejecutiva quien las acordará con la Presidencia del Consejo General para su autorización respetando lo establecido en el artículo anterior.
+Las autoridades municipales sólo pueden ejercer las atribuciones que la ley les conceda expresamente, por lo que no podrán rehusar el cumplimiento de las obligaciones que ésta les impone.
 
-## TRANSITORIOS
+Las determinaciones del Ayuntamiento se ejecutarán por conducto del Presidente Municipal y, en su caso, por el Síndico o las comisiones de Regidores, cuando así lo determine expresamente ésta u otras leyes.
 
-PRIMERO. El presente Reglamento Interior del Instituto Electoral del Distrito Federal entrará en vigor al momento de su publicación.
+###### Artículo 63.
 
-SEGUNDO. Se abroga el "Reglamento Interior del Instituto Electoral del Distrito Federal" que aprobó el Consejo General el 11 de abril de 2008 según el acuerdo ACU-25-08.
+El Ayuntamiento deberá someter en todo caso a la aprobación del Congreso del Estado:
 
-TERCERO. Se derogan las disposiciones que se opongan al presente Reglamento.
+I. La creación de contribuciones y toda clase de resoluciones que importen tributaciones;
 
-CUARTO. Remítase para su publicación dentro del plazo de diez días hábiles a la Gaceta Oficial del Distrito Federal, así como en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en la página de Internet www.iedf.org.mx.
+II. Los empréstitos de todo género; y
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+III. Las demás previstas en la presente ley.
 
-G.O. 17 DE OCTUBRE DE 2014.
+### CAPITULO SEXTO. DE LAS ATRIBUCIONES DE LOS INTEGRANTES DEL AYUNTAMIENTO
 
-PRIMERO. La reforma al Reglamento Interior del Instituto Electoral del Distrito Federal entrará en vigor al día siguiente de su publicación en los estrados del Instituto.
+#### Sección I. De Las Facultades Y Obligaciones Del Presidente Municipal
 
-SEGUNDO. Se derogan las disposiciones que se opongan al presente Reglamento.
+###### Artículo 64.
 
-TERCERO. Las disposiciones del Estatuto del Servicio Profesional Electoral y demás personal que labore en el Instituto Electoral del Distrito Federal estarán vigentes hasta en tanto se expida el Estatuto del Servicio Profesional Electoral Nacional, asimismo, se observarán los criterios generales aprobados por el Instituto Nacional Electoral para la operación y administración transitoria de dicho servicio, aprobados mediante el Acuerdo INE/CG68/2014, conforme al aviso publicado el 9 de julio de 2014 en la Gaceta Oficial del Distrito Federal.
+El Presidente Municipal es el responsable de ejecutar y comunicar las decisiones del Ayuntamiento; es su representante legal conforme a las facultades que le confiera el propio Ayuntamiento y esta Ley y deberá residir en el Municipio respectivo, durante el ejercicio de su período constitucional.
 
-CUARTO. Los servidores del Instituto que estén ocupando un cargo cuya denominación haya cambiado con motivo de esta reforma, seguirán ejerciendo sus funciones, sin demérito de sus derechos laborales. La Secretaría Administrativa deberá realizar los ajustes conducentes, dentro de los treinta días naturales siguientes a que entren en vigor las presentes modificaciones.
+###### Artículo 65.
 
-QUINTO. Publíquese en la Gaceta Oficial del Distrito Federal, así como en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en portal de Internet www.iedf.org.mx.
+El Presidente Municipal tiene las siguientes obligaciones:
 
-SEXTO. Remítase para su publicación dentro del plazo de los diez días hábiles a la Gaceta Oficial del Distrito Federal, así como en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en el portal de Internet www.iedf.org.mx.
+I. Cumplir y hacer cumplir las leyes, reglamentos, el Bando de Policía y Gobierno, y demás disposiciones legales del orden municipal, estatal y federal;
 
-G.O. 6 DE ENERO DE 2015.
+II. Promulgar y publicar el Bando de Policía y Gobierno, reglamentos, circulares y demás disposiciones administrativas de observancia general;
 
-PRIMERO. La reforma al Reglamento Interior del Instituto Electoral del Distrito Federal entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+III. Presidir los actos cívicos y públicos en la cabecera municipal salvo en el caso de que en el Municipio residiera habitualmente o se encontrara transitoriamente el Ejecutivo del Estado;
 
-SEGUNDO. Se derogan las disposiciones que se opongan al presente Reglamento.
+IV. Concurrir a las reuniones generales o regionales de Presidentes Municipales para plantear la problemática, soluciones y programas de trabajo respecto de su Municipio;
 
-TERCERO. Publíquese en la Gaceta Oficial del Distrito Federal, así como en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en el sitio de Internet www.iedf.org.mx
+V. Celebrar, a nombre del Ayuntamiento y por acuerdo de éste, todos los actos y contratos necesarios para el despacho de los asuntos administrativos y la atención de los servicios públicos municipales;
 
-CUARTO. Remítase para su publicación a la Gaceta Oficial del Distrito Federal, dentro del plazo de los 10 días hábiles contados a partir de su aprobación.
+VI. Proponer al Ayuntamiento el nombramiento del Secretario del Ayuntamiento, Tesorero Municipal, Jefe de la Policía Preventiva y al titular del Órgano de Control y Evaluación Gubernamental;
 
-G.O. 28 DE ABRIL DE 2016.
+VII. Convocar al Ayuntamiento a sesiones, en la forma y términos que establezca la Ley y el Reglamento Interior respectivo y presidir las sesiones; en caso de ausencia, el encargado de presidir las sesiones será el miembro del Ayuntamiento que éste determine;
 
-## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL, POR EL CUAL SE APRUEBA LA PROPUESTA DE ARMONIZACIÓN TANTO DEL REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL COMO DEL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL”.]
+VIII. Rendir mensualmente al Ayuntamiento, un informe del estado de la administración en todos sus aspectos;
 
-PRIMERO. La reforma al Reglamento Interior del Instituto Electoral del Distrito Federal entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+IX. Informar, en los términos del artículo 61, fracción III, inciso X, de esta Ley, anualmente a la población en sesión solemne del Ayuntamiento, del estado que guarda la administración municipal y de las labores realizadas durante ese año, debiendo recabar previamente la autorización del Ayuntamiento respecto del contenido del informe que rendirá a la población;
 
-SEGUNDO. Se derogan las disposiciones que se opongan al presente Reglamento.
+X. Conocer los problemas de las Comisarías y Delegaciones del Municipio, a fin de promover e impulsar su solución;
 
-TERCERO. Publíquese en la Gaceta Oficial del Distrito Federal, así como en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en el sitio de Internet www.iedf.org.mx
+XI. Vigilar que la recaudación de la hacienda pública se haga conforme a lo dispuesto en las leyes respectivas;
 
-CUARTO. Remítase para su publicación a la Gaceta Oficial del Distrito Federal, dentro del plazo de los 10 días hábiles contados a partir de su aprobación.
+XII. No desviar los fondos y bienes municipales de los programas a que estén destinados;
 
-G.O. 28 DE ABRIL DE 2016.
+XIII. No cobrar personalmente o por interpósita persona, multa o contribución alguna o autorizar que oficina distinta de la Tesorería Municipal conserve fondos municipales;
 
-> <small>[N. DE E. EL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL POR EL CUAL SE APRUEBA LA PROPUESTA DE REFORMA AL REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL (SIC) DISTRITO FEDERAL” NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL.]</small>
+XIV. Vigilar y preservar el patrimonio cultural e histórico del Municipio;
 
-G.O. 12 DE AGOSTO DE 2016.
+XV. Formar y actualizar el padrón municipal, cuidando de que se inscriban en éste todos los ciudadanos, expresando su nombre, edad, estado civil, nacionalidad, residencia, domicilio, propiedades, profesión, actividad productiva o trabajo de que subsistan, si son jefes de familia, en cuyo caso, se expresará el número y sexo de las personas que la formen;
 
-## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL, POR EL QUE EN CUMPLIMIENTO A LOS ACUERDOS IDENTIFICADOS CON LAS CLAVES ACU-41-16 Y ACU-42-16 RESPECTIVAMENTE, SE APRUEBAN REFORMAS AL REGLAMENTO INTERIOR; REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES; ASÍ COMO AL REGLAMENTO EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, TODOS ELLOS DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL".]
+XVI. Ser auxiliar de la federación en la aplicación de la Ley de Asociaciones Religiosas y Culto Público, reglamentaria de los artículos 24 y 130 de la Constitución Política de los Estados Unidos Mexicanos, debiendo recibir los avisos respecto a la celebración de actos religiosos y culto público con carácter extraordinario fuera de los templos y ejercer sus facultades al respecto. De igual manera, registrar los templos que existan o se abran al culto religioso, así como a los encargados de los mismos, y sus cambios, notificando de todo lo actuado a la Secretaría de Gobernación por conducto del Gobernador del Estado;
 
-PRIMERO. La reforma al presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+XVII. Promover y respetar los mecanismos de participación ciudadana para el desarrollo integral de los municipios;
 
-SEGUNDO. Toda vez que la Unidad Técnica Especializada de Fiscalización, actualmente realiza diversos trabajos relacionados con las liquidaciones de las Asociaciones Civiles que fueron constituidas por las y los Candidatos Independientes para contender en el Proceso Electoral 2014-2015, los cuales concluirán el 31 de agosto de 2016, resulta necesario que el personal de esa Unidad Especializada permanezca en funciones en las condiciones vigentes hasta la fecha mencionada, por lo tanto, las adecuaciones con respecto de la referida Unidad que se señalan en el presente Reglamento, surtirán efectos a partir del 1 de septiembre de 2016.
+XVIII. Llevar las estadísticas de los sectores económicos y sociales del Municipio, en los términos que señalen las leyes;
 
-TERCERO. La supresión de la plaza de Director de Capacitación Electoral y Proyectos Electorales, actualmente adscrita a la Dirección Ejecutiva de Educación Cívica y Capacitación, surtirá efectos a partir del 16 de septiembre de 2016; ello con el propósito de que cumpla con las funciones relativas a la integración de las mesas de votación y receptoras de opinión, que se instalarán con motivo de la Elección de los Comités Ciudadanos y Consejos de los Pueblos, así como de la Consulta Ciudadana de Presupuesto Participativo 2017.
+XIX. Promover la comunicación social;
 
-CUARTO. Se derogan las disposiciones que se opongan a este Reglamento.
+XX. Ejercer funciones de conciliación y mediación, buscando la armonía de la vida comunitaria;
 
-QUINTO. Publíquese de inmediato en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en la página de Internet www.iedf.org.mx
+XXI. Auxiliar, previa solicitud, a quienes ejerzan la patria potestad en el desempeño de ésta, de conformidad con las prevenciones legales del caso;
 
-SEXTO. Remítase para su publicación a la Gaceta Oficial de la Ciudad de México, dentro del plazo de diez días hábiles contados a partir de su aprobación.
+XXII. Promover el establecimiento de hogares y guarderías infantiles, parques e instalaciones deportivas; centros de recreación formativa para menores de edad, centros de asistencia infantil, casas de cuna y establecimientos para menores huérfanos, abandonados, maltratados o de padres indigentes;
 
-G.O. 27 DE DICIEMBRE DE 2016.
+XXIII. Promover campañas de salud, alfabetización y de regularización del estado civil de las personas;
 
-## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL POR EL QUE, EN CUMPLIMIENTO AL ACUERDO IDENTIFICADO CON LA CLAVE ACU-67-16 Y A LA SENTENCIA DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL DICTADA EN EL EXPEDIENTE TEDF-JEL-036/2016, SE APRUEBAN REFORMAS AL REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL".]
+XXIV. Combatir a través de la prevención y coadyuvando con las autoridades competentes, el alcoholismo, la prostitución y la adicción a los estupefacientes y toda actividad que implique una conducta antisocial;
 
-PRIMERO. La reforma al presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+XXV. Cuidar de la conservación del suelo, agua, flora y fauna existentes en el Municipio, conforme a las leyes y reglamentos de la materia;
 
-SEGUNDO. Remítase para su publicación a la Gaceta Oficial de la Ciudad de México, dentro del plazo de diez días hábiles contados a partir de su aprobación.
+XXVI. Formar y publicar cada dos años, una lista de los ciudadanos que integrarán el Jurado Popular Federal previsto en la Fracción VI del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos, conforme lo establecen la Ley Orgánica del Poder Judicial de la Federación y el Código Federal de Procedimientos Penales;
 
-TERCERO. Publíquese de inmediato en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en la página de Internet www.iedf.org.mx
+XXVII. Impedir a los extranjeros que se inmiscuyan en asuntos políticos;
 
-CUARTO. Se derogan las disposiciones que se opongan a este Reglamento.
+XXVIII. Otorgar a la autoridad judicial el auxilio que demande para hacer efectivas sus resoluciones; aprehender a los delincuentes en flagrante delito y detener a algún indiciado en caso de urgencia, tratándose de delitos graves, previa petición por escrito que le gire el Ministerio Público, cuando se hubiesen actualizado los supuestos previstos en el artículo 16, párrafo quinto de la Constitución Política de los Estados Unidos Mexicanos;
 
-G.O. 23 DE MAYO DE 2017.
+XXIX. Imponer las sanciones en los términos que señalen las leyes y demás ordenamientos jurídicos;
 
-## [N. DE E. TRANSITORIO DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL POR EL CUAL, EN CUMPLIMIENTO A LOS ACUERDOS IDENTIFICADOS CON LAS CLAVES ACU-02-17 Y ACU-06-17, SE APRUEBAN REFORMAS AL REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL”.]
+XXX. Ejercer el mando de la policía preventiva y de tránsito municipal, en los términos de las leyes y reglamentos de la materia;
 
-ÚNICO. La reforma al presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+XXXI. No deberá utilizar a los empleados o a los cuerpos de seguridad pública y de tránsito, así como los bienes que integran el patrimonio municipal para fines particulares; y
 
-### CAPÍTULO IX. De los Comités
+XXXII. Las demás que se establezcan en ésta u otras leyes, reglamentos, bandos de policía y disposiciones de observancia general.
 
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+###### Artículo 66.
 
-#### SECCIÓN TERCERA. De la elección de la Presidencia del Consejo General
+El Presidente Municipal tiene las siguientes facultades:
 
-#### SECCIÓN CUARTA. De las ausencias de la Consejera Presidenta o Consejero Presidente del Consejo General
+I. Autorizar el ejercicio de los recursos públicos municipales, con base en el Presupuesto de Egresos aprobado y con sujeción a las disposiciones aplicables;
 
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+II. Conceder licencias, permisos y autorizaciones que no estuvieron reservadas al Ayuntamiento, con sujeción a las leyes y reglamentos municipales, al Bando de Policía y Gobierno y a disposiciones de observancia general respectivos;
 
-#### SECCIÓN QUINTA. De las Consejeras y los Consejeros Electorales
+III. Ejercer las atribuciones que en el ramo de bienes mostrencos les confieran las leyes; y
 
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+IV. Las demás que se establezcan en ésta u otras leyes, reglamentos, bandos de policía y disposiciones de observancia general.
 
-### CAPÍTULO I
+#### Sección II. De las Facultades y Obligaciones de los Regidores
 
-De las Direcciones Distritales.
+###### Artículo 67.
 
-Atribuciones
+Los Regidores forman parte del órgano colegiado que delibera, analiza, resuelve, controla y vigila los actos de administración y de gobierno municipal; tienen facultades de inspección y vigilancia en los ramos a su cargo y sus funciones ejecutivas sólo podrán ejercerse como cuerpo colegiado en comisiones de Regidores, por lo que, deberán abstenerse de dar órdenes a los funcionarios y empleados municipales.
 
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+###### Artículo 68.
 
-## TÍTULO TERCERO. De la estructura y funcionamiento de los Órganos Desconcentrados
+Son obligaciones de los Regidores:
 
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+I. Asistir con puntualidad a las sesiones del Ayuntamiento y a los actos oficiales a que sean citados por el Presidente Municipal o por conducto del Secretario del Ayuntamiento;
 
-### CAPÍTULO II. De los Consejos Distritales
+II. Analizar, deliberar y votar sobre los asuntos que se traten en las sesiones de comisiones y del Ayuntamiento;
 
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+III. Desempeñar con eficiencia las comisiones que les encomiende el Ayuntamiento, informando periódicamente de sus gestiones;
 
-### CAPÍTULO III. De las Mesas Directivas de Casilla
+IV. Vigilar la correcta observancia de los acuerdos y disposiciones del Ayuntamiento;
 
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+V. Vigilar los ramos de la administración que les encomiende el Ayuntamiento y los programas respectivos, proponiendo las medidas que estimen procedentes;
 
-#### SECCIÓN SEXTA. De las representaciones de los partidos políticos
+VI. Visitar las Comisarías y Delegaciones con el objeto de conocer la forma y las condiciones generales en que se presten los servicios públicos municipales, así como el estado en que se encuentren los sitios, obras e instalaciones en que la comunidad tenga interés, debiendo informar al Ayuntamiento sobre los resultados de tales visitas;
 
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+VII. Vigilar que la cuenta pública municipal se integre en la forma y términos previstos en las disposiciones aplicables y se remita en tiempo al Congreso del Estado; y
 
-#### SECCIÓN SÉPTIMA. De las invitadas e invitados permanentes
+VIII. Las demás que se establezcan en ésta u otras leyes, reglamentos, bandos de policía y gobierno y disposiciones de observancia general.
 
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+###### Artículo 69.
 
-Artículo 17 BIS. Las invitadas e invitados permanentes podrán asistir a las sesiones del Consejo General y de las Comisiones y de los Comités a las que también asistan las representaciones de los partidos políticos, así como, durante los procesos electorales, participarán en las sesiones del Comité Especial que dé seguimiento a los programas y procedimientos para recabar y difundir tendencias y resultados preliminares electorales.
+Son facultades de los Regidores:
 
-Corresponde a las invitadas e invitados permanentes lo siguiente:
+I. Someter a la consideración del Ayuntamiento las medidas que consideren necesarias para el cumplimiento de esta Ley, sus disposiciones reglamentarias, bandos de policía y gobierno, circulares y demás disposiciones administrativas de observancia general, en su ámbito territorial;
 
-I. Participar sólo con derecho a voz en las sesiones;
+II. Obtener, con por lo menos una anticipación de cuarenta y ocho horas -tratándose de sesiones ordinarias- o al momento de recibir el citatorio –si las sesiones son extraordinarias-, la información y documentación necesaria para conocer y deliberar sobre los asuntos referentes a la misma sesión;
 
-II. Manifestarse libremente sobre los temas que se traten en las sesiones, y
+III. Obtener de los titulares de las dependencias y entidades de la administración pública municipal, la información relativa a cualquier asunto de su competencia, debiendo responder éstos, en un término que no exceda de cinco días hábiles;
 
-III. Las demás actividades que les confiera la normativa que rige al Instituto Electoral.
+IV. Elaborar y presentar al Ayuntamiento iniciativas de reglamentos, bandos de policía y gobierno y demás disposiciones administrativas de observancia general o, en su caso, de reformas y adiciones a los mismos;
 
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+V. Proponer al Ayuntamiento los acuerdos que deban tomarse para el mejoramiento de los ramos de gobierno y administración, cuya vigilancia y evaluación les haya sido encomendada;
 
-#### SECCIÓN PRIMERA. De la Contraloría General
+VI. Proponer al Ayuntamiento las acciones y proyectos convenientes para el mejoramiento en la prestación de los servicios públicos y, en general, para la promoción del desarrollo en el Municipio; y
 
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+VII. Las demás que se establezcan en ésta u otras leyes, reglamentos, bandos de policía y disposiciones de observancia general.
 
-#### SECCIÓN SEGUNDA. De la Unidad Técnica Especializada de Fiscalización
+#### Sección III. De las Facultades Y Obligaciones de los Síndicos
 
-> <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2016)</small>
+###### Artículo 70.
 
-#### SECCIÓN PRIMERA. De sus atribuciones
+El Síndico del Ayuntamiento, tendrá las siguientes obligaciones:
 
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+I. La procuración, defensa y promoción de los intereses municipales;
 
-#### SECCIÓN SEGUNDA. De su estructura orgánica
+II. La representación legal del Ayuntamiento en los litigios en que éste fuere parte, así como en aquellos asuntos en los que el Ayuntamiento tenga interés jurídico, debiendo informarle trimestralmente de todos los asuntos referidos;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE AGOSTO DE 2016)</small>
+III. Analizar, deliberar y votar sobre los asuntos que se traten en las sesiones;
 
-### CAPÍTULO ÚNICO. De su uso
+IV. Desempeñar con eficiencia las comisiones que les encomiende el Ayuntamiento, informando periódicamente de sus gestiones;
 
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+V. Vigilar la correcta observancia de los acuerdos y disposiciones del Ayuntamiento;
 
-## TÍTULO CUARTO. De los espacios del Instituto Electoral
+VI. Desistirse, transigir, comprometerse en árbitros o hacer cesión de bienes, previa autorización expresa que en cada caso le otorgue el Ayuntamiento;
 
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+VII. Intervenir en la formulación del inventario de bienes muebles e inmuebles propiedad del Municipio, haciendo que se expresen sus valores, sus características de identificación y su destino;
 
-### CAPÍTULO ÚNICO. DE SU USO
+VIII. Realizar las gestiones necesarias a fin de que todos los actos traslativos de dominio en que el Ayuntamiento sea parte, así como las declaratorias de incorporación y desincorporación de bienes inmuebles municipales se encuentren debidamente inscritas en el Registro Público de la Propiedad, dentro de los quince días siguientes a la fecha en que se realice;
 
-### CAPITULO I. GENERALIDADES
+IX. Guardar y mantener actualizado el registro de las enajenaciones que realice el Ayuntamiento;
 
-> <small>(REFORMADO, G.O. 6 DE ENERO DE 2015)</small>
+X. Vigilar, cuando no exista el órgano responsable, la construcción de los edificios públicos y de todas las fincas urbanas de particulares para evitar irregularidades que ocasionen obstáculos en la vía pública, riesgo de los peatones, interrumpan el alineamiento de las casas, calles y aceras y perjudiquen el buen aspecto de los Centros de Población o invadan bienes de uso común, dominio público y propiedad municipal;
 
-### CAPÍTULO I. DEL CONSEJO GENERAL
+XI. Llevar a cabo los remates públicos y demás actos en los que se involucre directamente el interés patrimonial del Municipio;
 
-> <small>(REFORMADA, G.O. 6 DE ENERO DE 2015)</small>
+XII. Asistir puntualmente a las sesiones del Ayuntamiento; y
 
-### CAPÍTULO II. DE LAS COMISIONES DEL CONSEJO GENERAL
+XIII. Las demás que se establezcan en ésta u otras leyes, reglamentos, bandos de policía y disposiciones de observancia general.
 
-> <small>(REFORMADO, G.O. 6 DE ENERO DE 2015)</small>
+###### Artículo 71.
 
-### CAPÍTULO III. DE LA JUNTA
+El Síndico del Ayuntamiento, tendrá las siguientes facultades:
 
-> <small>(REFORMADO, G.O. 6 DE ENERO DE 2015)</small>
+I. Someter a la consideración del Ayuntamiento las medidas que estimen necesarias para el cumplimiento de esta Ley, sus disposiciones reglamentarias, bandos de policía y gobierno, circulares y demás disposiciones administrativas de observancia general en su ámbito territorial;
 
-## TITULO PRIMERO. DISPOSICIONES GENERALES
+II. Elaborar y presentar al Ayuntamiento iniciativas de reglamentos, bandos de policía y gobierno y demás disposiciones administrativas de observancia general o, en su caso, de reformas y adiciones a los mismos;
 
-> <small>(REFORMADO, G.O. 6 DE ENERO DE 2015)</small>
+III. Solicitar y obtener del Tesorero Municipal la información relativa a la hacienda pública municipal, al ejercicio del presupuesto, al patrimonio municipal y demás documentación de la gestión municipal necesaria para el cumplimiento de sus funciones; y
 
-### CAPÍTULO IV. DE LA SECRETARÍA EJECUTIVA
+IV. Las demás que se establezcan en ésta u otras leyes, reglamentos, bandos de policía y disposiciones de observancia general.
 
-> <small>(REFORMADO, G.O. 6 DE ENERO DE 2015)</small>
+### CAPITULO SEPTIMO. DE LAS COMISIONES DEL AYUNTAMIENTO
 
-## TÍTULO SEGUNDO. DE LA ESTRUCTURA Y ATRIBUCIONES EN SUS OFICINAS CENTRALES
+###### Artículo 72.
 
-> <small>(REFORMADO, G.O. 6 DE ENERO DE 2015)</small>
+El Ayuntamiento, a propuesta de cualquiera de sus integrantes, aprobará las comisiones que se estimen necesarias para el desempeño de sus funciones.
 
-### CAPÍTULO V. DE LA SECRETARIA ADMINISTRATIVA
+###### Artículo 73.
 
-> <small>(REFORMADO, G.O. 6 DE ENERO DE 2015)</small>
+Las comisiones tendrán por objeto el estudio, dictamen y propuestas de solución a los asuntos de las distintas ramas de la administración pública municipal. Para tal efecto, las comisiones están obligadas a emitir dictámenes de los ramos de la administración cuya vigilancia y evaluación les haya sido encomendada, en un plazo no mayor a quince días hábiles, contados a partir de la fecha en que se haya turnado el asunto, dicho plazo podrá ser prorrogado por el Ayuntamiento a solicitud de la comisión respectiva.
 
-## TÍTULO TERCERO. DE LA ESTRUCTURA Y FUNCIONAMIENTO DE LOS ÓRGANOS DESCONCENTRADOS
+###### Artículo 74.
 
-> <small>(REFORMADO, G.O. 6 DE ENERO DE 2015)</small>
+Las comisiones deberán abocarse a la vigilancia de las dependencias o áreas relacionadas con las materias de su competencia. Para tal efecto, las comisiones podrán solicitar informes a las dependencias administrativas del Ayuntamiento, pero en ningún caso podrán atribuirse funciones ejecutivas respecto de los ramos bajo su responsabilidad, salvo que así lo determine expresamente esta Ley; asimismo, podrán solicitar los apoyos técnicos, humanos y financieros que estimen necesarios para el cabal ejercicio de sus responsabilidades.
 
-### CAPÍTULO VI. DE LOS ÓRGANOS CON AUTONOMÍA TÉCNICA Y DE GESTIÓN
+###### Artículo 75.
 
-> <small>(REFORMADA, G.O. 6 DE ENERO DE 2015)</small>
+Las comisiones se integrarán de manera colegiada, con el número de miembros que establezca el Reglamento o el Acuerdo del Ayuntamiento, procurando que reflejen pluralidad y proporcionalidad. En cada comisión habrá un presidente y un secretario; asimismo, el Ayuntamiento podrá acordar la designación de comisionados para la atención de los asuntos de competencia municipal.
 
-### CAPÍTULO VII. DE LAS DIRECCIONES EJECUTIVAS
+Cada una de las comisiones podrá nombrar asesores cuando lo requiera, previa aprobación del Ayuntamiento.
 
-> <small>(REFORMADA, G.O. 6 DE ENERO DE 2015)</small>
+###### Artículo 76.
 
-### CAPÍTULO VIII. DE LAS UNIDADES TÉCNICAS
+Por acuerdo de las dos terceras partes de los miembros del Ayuntamiento y por causa justificada, podrá dispensarse o removerse del cargo a quien integre alguna comisión, haciéndose un nuevo nombramiento. Lo anterior, previa discusión en la que deberán estar presentes los integrantes de la comisión.
 
-> <small>(REFORMADA, G.O. 6 DE ENERO DE 2015)</small>
+###### Artículo 77.
 
-### CAPÍTULO IX. DE LOS COMITÉS
+Sin perjuicio de lo previsto en el Reglamento respectivo, el Ayuntamiento establecerá, cuando menos, las comisiones de: gobernación y reglamentación municipal; de hacienda, patrimonio y cuenta pública; de seguridad pública y tránsito; de desarrollo urbano, obras y servicios públicos y preservación ecológica y de educación, cultura, recreación y deporte.
 
-> <small>(REFORMADO, G.O. 6 DE ENERO DE 2015)</small>
+###### Artículo 78.
 
-### CAPÍTULO I. DE LAS DIRECCIONES DISTRITALES ATRIBUCIONES
+La comisión de hacienda, patrimonio y cuenta pública contará con las siguientes atribuciones:
 
-> <small>(REFORMADO, G.O. 6 DE ENERO DE 2015)</small>
+I. La revisión y firma de los estados de origen y aplicación de fondos;
 
-### CAPÍTULO II. DE LOS CONSEJOS DISTRITALES
+II. Solicitar y obtener del Tesorero Municipal, la información relativa a la hacienda, al ejercicio del presupuesto, al patrimonio municipal y demás documentación de la gestión municipal necesaria para el cumplimiento de sus funciones;
 
-> <small>(REFORMADO, G.O. 6 DE ENERO DE 2015)</small>
+III. Vigilar que la cuenta pública municipal se integre en la forma y términos previstos en las disposiciones aplicables y se remita en tiempo al Congreso del Estado; y
 
-## TÍTULO CUARTO. DE LOS ESPACIOS DEL INSTITUTO ELECTORAL
+IV. Las demás que le confieran ésta u otras leyes municipales y el Reglamento Interior.
 
-> <small>(REFORMADO, G.O. 6 DE ENERO DE 2015)</small>
+###### Artículo 79.
 
-### CAPÍTULO III. DE LAS MESAS DIRECTIVAS DE CASILLA
+Las comisiones que se nombren tendrán las atribuciones señaladas en éste capítulo, así como las que el Ayuntamiento y el Reglamento Interior les otorgue; deberán funcionar por separado, pero podrán, previa aprobación del Ayuntamiento, funcionar unidas dos o más de ellas, a fin de estudiar, dictaminar y someter a discusión y aprobación del propio Ayuntamiento, algún asunto que requiera de la participación conjunta de algunas de ellas.
 
-> <small>(REFORMADO, G.O. 6 DE ENERO DE 2015)</small>
+###### Artículo 80.
 
-### CAPÍTULO ÚNICO. DE SU USO
+El Ayuntamiento podrá designar comisiones especiales en cualquier tiempo de su ejercicio para el estudio de determinado asunto.
 
-> <small>(REFORMADO, G.O. 6 DE ENERO DE 2015)</small>
+## TITULO TERCERO. DE LA ADMINISTRACION PUBLICA MUNICIPAL
 
-### CAPÍTULO ÚNICO. DE SU USO
+### CAPITULO PRIMERO. DE LA ORGANIZACION ADMINISTRATIVA
 
-#### SECCIÓN PRIMERA. De sus atribuciones
+###### Artículo 81.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE DICIEMBRE DE 2016)</small>
+El Ayuntamiento, para el ejercicio de sus atribuciones, se auxiliará de la administración pública municipal directa y paramunicipal.
 
-#### SECCIÓN SEGUNDA. De la Unidad Técnica de Comunicación Social y Difusión
+###### Artículo 82.
 
-Atribuciones y estructura
+El Ayuntamiento podrá crear dependencias que le estén subordinadas directamente, así como fusionar, modificar o suprimir las ya existentes, de acuerdo a sus necesidades y a su capacidad financiera. Asimismo, cumpliendo los requisitos de este título, podrá crear entidades paramunicipales cuando su desarrollo económico y social lo haga necesario.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE AGOSTO DE 2016)</small>
+###### Artículo 83.
 
-#### SECCIÓN TERCERA
+Para la mas eficaz atención y eficiente despacho de los asuntos de su competencia, el Ayuntamiento podrá contar con órganos administrativos desconcentrados que le estarán jerárquicamente subordinados y tendrán facultades específicas para resolver sobre la materia y dentro del ámbito territorial que se determine en cada caso, de conformidad con el instrumento jurídico que lo cree, el cual deberá ser publicado en el Boletín Oficial del Gobierno del Estado. Los titulares de dicho órgano, tendrán, entre otras, las siguientes atribuciones:
 
-De la Unidad Técnica de Servicios Informáticos.
+I. Dirigir, organizar y evaluar el funcionamiento y desempeño del órgano administrativo a su cargo;
 
-Atribuciones y estructura
+II. Acordar y suscribir los convenios y contratos relativos, de conformidad con las disposiciones y lineamientos que les fije el Ayuntamiento, así como suscribir los demás documentos relativos al ejercicio de sus atribuciones;
 
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+III. Ejercer desconcentradamente el presupuesto autorizado, así como registrar y controlar los compromisos y gestionar las modificaciones presupuestales; y
 
-#### SECCIÓN CUARTA. De la Unidad Técnica de Archivo, Logística y Apoyo a Órganos Desconcentrados
+IV. Las demás que les confieran los instrumentos jurídicos que los creen.
 
-Atribuciones y estructura
+###### Artículo 84.
 
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+Las dependencias y entidades de la administración pública municipal, conducirán sus actividades en forma programada y con base en las políticas que para el logro de los objetivos del desarrollo municipal establezca el Ayuntamiento conforme a esta Ley.
 
-#### SECCIÓN QUINTA. De la Unidad Técnica de Asuntos Jurídicos
+###### Artículo 85.
 
-Atribuciones y estructura
+Las dependencias de la administración pública municipal ejercerán las funciones que les asigne esta y otras leyes y el Reglamento Interior o, en su defecto, el acuerdo del Ayuntamiento que para el efecto se expida, mismo que deberá publicarse en el Boletín Oficial del Gobierno del Estado. Las entidades paramunicipales, estarán sujetas a las normas que rijan su estructura y funcionamiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE AGOSTO DE 2016)</small>
+###### Artículo 86.
 
-#### SECCIÓN SEXTA. De la Unidad Técnica del Centro de Formación y Desarrollo
+Cuando alguna dependencia o entidad de la administración pública municipal requiera informes, datos o cooperación técnica de cualquier otra dependencia o entidad del Municipio, éstas tendrán la obligación de proporcionarlas.
 
-Atribuciones y estructura
+###### Artículo 87.
 
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+Para el estudio, planeación y despacho de los diversos ramos de la administración pública municipal, el Ayuntamiento contará por lo menos, con las siguientes dependencias:
 
-Artículo 45 La Unidad Técnica del Centro de Formación y Desarrollo tiene las atribuciones que para la operación del Servicio Profesional Electoral disponga la Ley General, el Código, el Estatuto del Servicio y demás normativa que emita el Instituto Nacional y, en su caso, el Instituto Electoral en materia de Servicio Profesional Electoral Nacional y de la Rama Administrativa.
+I. La Secretaría del Ayuntamiento;
 
-Adicionalmente, le corresponderá:
+II. La Tesorería Municipal;
 
-I. Operar los programas institucionales de:
+III. La Jefatura de la Policía Preventiva Municipal.
 
-a) Reclutamiento y Selección del Servicio Profesional Electoral;
+Asimismo, el Ayuntamiento deberá tener un Sistema Administrativo Interno de Control y Evaluación Gubernamental.
 
-b) Formación y Desarrollo del Personal del Servicio Profesional Electoral;
+### CAPITULO SEGUNDO. DE LA ADMINISTRACION PUBLICA DIRECTA
 
-c) Selección e ingreso del Personal Administrativo;
+#### Sección I. De la Secretaria del Ayuntamiento
 
-d) Capacitación y Actualización del Personal Administrativo, y
+###### Artículo 88.
 
-e) Capacitación a las Consejeras y los Consejeros Electorales Distritales.
+La Secretaría del Ayuntamiento estará a cargo de un Secretario, el que, sin ser miembro del mismo, deberá ser nombrado por el propio Ayuntamiento a propuesta del Presidente Municipal, así como cubrir los requisitos establecidos en el artículo 135 de la Constitución Política del Estado. Asistirá a las sesiones con voz informativa pero sin voto.
 
-Asimismo, podrá proponer aquellos proyectos que contribuyan con la superación profesional y laboral del personal del Instituto Electoral, siempre que se apeguen a los principios y criterios metodológicos establecidos en los programas señalados en los incisos b) y d) de la presente fracción.
+###### Artículo 89.
 
-II. Informar trimestralmente a la Junta sobre el seguimiento y evaluación de los programas, cuya operación se encuentre a su cargo;
+Son obligaciones del Secretario del Ayuntamiento:
 
-III. Informar bimestralmente a la Junta sobre las vacantes que se originen en el Servicio Profesional y en la Rama Administrativa del Instituto Electoral;
+I. Citar a las sesiones del Ayuntamiento, en los términos establecidos por los artículos 51 y 52 de la presente Ley;
 
-IV. Aplicar los procedimientos, lineamientos y/o demás normativa relacionada en el Servicio Profesional y la Rama Administrativa del Instituto Electoral, que aprueben las autoridades competentes para ello;
+II. Levantar las actas de las sesiones del Ayuntamiento y asentarlas en los libros respectivos, recabando las firmas que deban estamparse en los libros, por los integrantes del Ayuntamiento, en un término que no exceda de treinta días, contados a partir de la fecha de celebración de la sesión en que fue aprobada el acta respectiva.
 
-V. Realizar acciones en colaboración con instituciones académicas y de educación superior relacionadas con la detección de necesidades de formación, desarrollo, capacitación y actualización del personal del Instituto Electoral, así como aquellas que contribuyan a la operación y mejora de los programas a su cargo;
+III. Proporcionar la información que sea necesaria para el desahogo de la sesión correspondiente, en los términos establecidos por el artículo 52 de la presente Ley;
 
-VI. Organizar la realización de foros, conferencias, talleres, congresos y otros eventos académicos en materia de administración y desarrollo de personal que puedan coadyuvar a la mejora del Servicio Profesional y de la Rama Administrativa del Instituto Electoral;
+IV. Atender la audiencia del Presidente Municipal, previo su acuerdo;
 
-VII. Contribuir al fortalecimiento de la cultura democrática, de los procesos electorales y procedimientos de participación ciudadana en el Distrito Federal a través de la capacitación, actualización y desarrollo profesional del personal del Instituto Electoral;
+V. Compilar y difundir las leyes, decretos, reglamentos, publicaciones oficiales del Gobierno del Estado, circulares y órdenes relativas a los distintos sectores de la administración pública municipal;
 
-VIII. Proponer a la Junta el otorgamiento de estímulos e incentivos al personal del Instituto Electoral, de conformidad con los lineamientos e instrumentos que para tal efecto emita el Instituto Nacional;
+VI. Expedir copias certificadas de documentos y constancias del archivo, de los acuerdos asentados en los libros de actas, siempre que el solicitante acredite tener un interés legítimo y no perjudique el interés público, de conformidad con lo que establece el artículo 59 de esta Ley;
 
-IX. Apoyar, cuando lo soliciten, a las áreas ejecutivas y técnicas en la realización de actividades de capacitación y de evaluación del personal del Instituto Electoral;
+VII. Refrendar con su firma los documentos oficiales emanados del Ayuntamiento o de la Presidencia, los que sin este requisito carecerán de validez;
 
-> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2016)</small>
+VIII. Cumplir y hacer cumplir el Reglamento Interior, así como los acuerdos, órdenes y circulares que el Ayuntamiento apruebe y no estén encomendados a otra dependencia;
 
-X. Apoyar, cuando lo soliciten, a las áreas ejecutivas y técnicas en la realización de actividades de capacitación y de evaluación relacionadas con las actividades que, en su caso, delegue el Instituto Nacional;
+IX. Organizar, dirigir y controlar el Archivo General del Municipio y la correspondencia oficial;
 
-> <small>(ADICIONADA, G.O. 12 DE AGOSTO DE 2016)</small>
+X. Entregar al término de su gestión, los libros y documentos que integrarán el Archivo General del Municipio, en acta circunstanciada, en los términos de la entrega–recepción previstos en esta Ley;
 
-XI. Fungir como órgano de enlace con el Instituto Nacional para atender los asuntos del Servicio Profesional, sin perjuicio de las atribuciones de la Unidad Técnica de Vinculación con Órganos Externos;
+XI. Expedir las constancias de residencia que soliciten los habitantes del Municipio; y
 
-> <small>(ADICIONADA, G.O. 12 DE AGOSTO DE 2016)</small>
+XII. Publicar en el tablero de avisos del Ayuntamiento los acuerdos y resoluciones del Ayuntamiento.
 
-XII. Coadyuvar en la supervisión del cumplimiento del Estatuto del Servicio y la normativa que rige al Servicio Profesional en el Instituto Electoral;
+XIII. Las demás que se establezcan en ésta u otras leyes, reglamentos, bandos de policía y disposiciones de observancia general.
 
-> <small>(ADICIONADA, G.O. 12 DE AGOSTO DE 2016)</small>
+#### Sección II. De la Tesorería Municipal
 
-XIII. Coadyuvar en la Selección, Ingreso, Profesionalización, Capacitación, Promoción, Evaluación, Cambios de Adscripción, Rotación, Titularidad, Permanencia y Disciplina o Procedimiento Laboral Disciplinario, de acuerdo con la normativa y disposiciones que determine el Instituto Nacional;
+###### Artículo 90.
 
-> <small>(ADICIONADA, G.O. 12 DE AGOSTO DE 2016)</small>
+La recaudación y, en general, el manejo de la Hacienda Pública Municipal, corresponde a la dependencia denominada Tesorería Municipal cuyo titular se denominará Tesorero Municipal, el que, sin ser miembro del Ayuntamiento, deberá ser nombrado por el propio Ayuntamiento a propuesta del Presidente Municipal, así como cubrir los requisitos señalados en el artículo 135 de la Constitución Política Local y ser, de preferencia, profesional en las áreas económicas, contables o administrativas.
 
-XIV. Realizar las notificaciones que le solicite la Dirección Ejecutiva del Servicio Profesional Electoral Nacional del Instituto Nacional; y
+###### Artículo 91.
 
-XV. Las demás que, en el marco de sus atribuciones, deriven de la aplicación del Código, el Estatuto del Servicio y demás normativa interna del Instituto Electoral.
+Son obligaciones del Tesorero Municipal:
 
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+I. Recaudar los impuestos, derechos, productos, aprovechamientos y contribuciones especiales que correspondan al Municipio; así como las aportaciones federales, participaciones federales y estatales e ingresos extraordinarios que se establezcan a su favor;
 
-#### SECCIÓN SÉPTIMA. De la Unidad Técnica de Vinculación con Organismos Externos
+II. Dar cumplimiento a los convenios de coordinación fiscal;
 
-Atribuciones y estructura
+III. Vigilar la administración de fondos para obras por cooperación;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE AGOSTO DE 2016)</small>
+IV. Proporcionar oportunamente al Ayuntamiento todos los datos que sean necesarios para la aprobación de los proyectos de Ley de Ingresos y Presupuesto de Ingresos, así como el Presupuesto (sic) Egresos;
 
-###### Artículo 46 Bis.
+V. Formular los proyectos de Presupuesto de Egresos y pronóstico de ingresos;
 
-Corresponde a la Unidad Técnica de Vinculación con Organismos Externos las atribuciones siguientes:
+VI. Proponer al Ayuntamiento las medidas o disposiciones que tiendan a incrementar los recursos económicos que constituyen la Hacienda Pública Municipal;
 
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
+VII. Documentar toda ministración de fondos públicos;
 
-I. Canalizar las comunicaciones que se reciban del Instituto Nacional a los diversos órganos y áreas del Instituto Electoral para su debida atención, en el ámbito de sus atribuciones;
+VIII. Llevar la contabilidad general y el control del ejercicio presupuestal;
 
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
+IX. Hacer los pagos con estricto apego al Presupuesto de Egresos aprobado por el Ayuntamiento;
 
-II. Facilitar la coordinación entre las distintas áreas de este Instituto con la Unidad Técnica de Vinculación con los Organismos Públicos Locales, y con los demás órganos del Instituto Nacional;
+X. Elaborar y someter a la aprobación del Ayuntamiento:
 
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
+a) La glosa de las cuentas del Ayuntamiento saliente;
 
-III. Analizar temas y aspectos relacionados con el Instituto Nacional a solicitud de la Comisión Permanente de Vinculación con Organismos Externos;
+b) La glosa anual de las Comisarías y Delegaciones Municipales determinando sus irregularidades, en caso de existir éstas;
 
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
+c) La cuenta anual pormenorizada del manejo hacendario a que se refiere la fracción IV, inciso E, del artículo 61 de esta Ley, misma que deberá comprender del 1o. de enero hasta el 31 de diciembre del ejercicio correspondiente;
 
-IV. Mantener permanentemente informadas e informados, por conducto de la Presidencia de la Comisión Permanente de Vinculación con Organismos Externos, a las y los integrantes del Consejo General de las actividades que el Instituto Nacional realice en coordinación con este Instituto Electoral;
+d) Los estados financieros trimestrales que se deban enviar al Congreso del Estado de conformidad con lo establecido en la fracción XXIII del artículo 136 de la Constitución Política Local;
 
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
+e) El programa financiero mediante el cual se manejará la deuda pública municipal y su forma de administrarla; y
 
-V. Supervisar el cumplimiento de las obligaciones nacionales e internacionales que el Instituto Electoral tenga en materia de derechos humanos e igualdad de género y elaborar las estrategias de planeación que permitan cumplir con dichas obligaciones;
+f) Los estados contables de cierre de ejercicio de la administración pública municipal y demás documentación, para que sea agregado al acta de entrega–recepción de la misma, en el rubro relativo a la Tesorería.
 
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
+XI. Organizar el funcionamiento de la unidad de auditoria interna;
 
-VI. Promover los mecanismos para implementar en el Instituto Electoral, programas, actividades, foros, eventos y estudios de investigación relacionados con la promoción, respeto, protección y garantía de los derechos humanos y la igualdad de género en el ámbito político-electoral, y
+XII. Diseñar y mantener actualizado un Sistema de Información y Orientación Fiscal para los contribuyentes de ingresos municipales;
 
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
+XIII. Vigilar y controlar las oficinas recaudadoras;
 
-VII. Facilitar la coordinación entre las distintas áreas del Instituto Electoral y fomentar la vinculación con organismos nacionales e internacionales especializados en derechos humanos e igualdad de género.
+XIV. Revisar los anteproyectos de Presupuestos de Egresos de las entidades que integren el sector paramunicipal, para los efectos de su incorporación al proyecto Presupuesto de Egresos del Ayuntamiento;
 
-> <small>(REFORMADO, G.O. 12 DE AGOSTO DE 2016)</small>
+XV. Proporcionar toda la información que sea necesaria, cuando lo soliciten los integrantes del Ayuntamiento;
 
-###### Artículo 46 Ter.
+XVI. Formar y llevar un expediente para cada empresa en la que participe el Ayuntamiento; y
 
-La estructura de la Unidad Técnica de Vinculación con Organismos Externos es:
+XVII. Las demás que se establezcan en ésta u otras leyes, reglamentos, bandos de policía y disposiciones de observancia general.
 
-I. Titular de Unidad:
+###### Artículo 92.
 
-a) Secretaria o Secretario de Unidad;
+Son facultades del Tesorero Municipal:
 
-b) Auxiliar de Servicios, y
+I. Ejercer la facultad económica-coactiva y, en su caso delegarla, conforme a las leyes y reglamentos vigentes;
 
-c) Analista Administrativa o Administrativo.
+II. Ejercer el Presupuesto de Egresos y efectuar los pagos de acuerdo a los programas y presupuestos aprobados; y
 
-I.1 Dirección de Vinculación Institucional:
+III. Las demás que se establezcan en ésta u otras leyes, reglamentos, bandos de policía y disposiciones de observancia general.
 
-I.1.1 Subdirección de Relaciones Interinstitucionales:
+#### Sección III. De la Jefatura de Policía Preventiva
 
-I.1.1.1 Departamento de Seguimiento de Convenios:
+###### Artículo 93.
 
-I.1.1.1.1 Analista.
+Al frente de la Policía Preventiva Municipal habrá un Jefe, el cual será responsable de la administración y organización de la corporación de seguridad pública del Municipio, así como del mantenimiento de la disciplina interior. Su nombramiento y el ámbito de sus competencias serán definidos conforme lo disponga la Constitución Política del Estado, esta Ley y la Ley de Seguridad Pública para el Estado de Sonora y demás ordenamientos aplicables.
 
-I.1.1.2 Departamento de Vinculación con el INE:
+#### Sección IV. Del Sistema Administrativo Interno de Control y Evaluación Gubernamental
 
-I.1.1.2.1 Analista.
+###### Artículo 94.
 
-I.1.2 Subdirección de Evaluación de Vinculación con Organismos Externos:
+El Ayuntamiento deberá contar con un Sistema Administrativo Interno de Control y Evaluación Gubernamental, cuya finalidad consiste en controlar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el servicio público.
 
-I.1.2.1 Departamento de Vinculación con Organismos Externos.
+###### Artículo 95.
 
-I.2 Dirección de Derechos Humanos y Género:
+El Sistema estará a cargo de un Órgano de Control y Evaluación Gubernamental, cuyo titular será propuesto por el Presidente Municipal, debiendo reunir los requisitos establecidos para ser Tesorero Municipal.
 
-I.2.1 Subdirección de Implementación:
+###### Artículo 96.
 
-I.2.1.1 Departamento de Implementación de Políticas:
+El Órgano de Control y Evaluación Gubernamental para el cumplimiento de lo establecido en el artículo 94 de la presente Ley, ejercerá las siguientes facultades:
 
-I.2.1.1.1 Analista.
+I. Planear, organizar, coordinar y aplicar, el Sistema Administrativo Interno de Control y Evaluación Gubernamental;
 
-I.2.1.2 Departamento de Derechos Humanos y Género:
+II. Analizar y verificar el ejercicio del gasto público municipal y su congruencia con el Presupuesto de Egresos;
 
-I.2.1.2.1 Analista.
+III. Comprobar el cumplimiento, por parte de las dependencias y entidades paramunicipales, de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, financiamientos, inversión, deuda, patrimonio y fondos y valores de la propiedad o al cuidado del Ayuntamiento;
 
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
+IV. Verificar el cumplimiento de los objetivos y metas del Plan Municipal de Desarrollo, el programa operativo anual y sus programas;
 
-#### SECCIÓN OCTAVA. De la suplencia de las y los Titulares de las Direcciones Ejecutivas, Unidades Técnicas y Contraloría General
+V. Verificar y comprobar directamente, que las dependencias y entidades paramunicipales cumplan, en su caso, con las normas y disposiciones en materia de: sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, control, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, concesiones, almacenes y demás activos y recursos materiales de la administración pública municipal;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE DICIEMBRE DE 2016)</small>
+VI. Realizar auditorias a las dependencias y entidades paramunicipales, para promover la eficiencia en sus operaciones y comprobar el cumplimiento de los objetivos contenidos en sus programas;
+
+VII. Designar a los auditores externos de las entidades paramunicipales, normar su actividad y contratar sus servicios con cargo al presupuesto de dichas entidades;
+
+VIII. Designar, en las entidades paramunicipales a los comisarios públicos;
+
+IX. De conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado y de los municipios, llevar el registro de la situación patrimonial de las personas que a continuación se mencionan:
+
+a) Todos los miembros del Ayuntamiento;
+
+b) En la administración pública directa municipal: El Secretario del Ayuntamiento, el Oficial Mayor, el Tesorero Municipal, el titular del Órgano de Control y Evaluación Gubernamental, el contador, cajeros, recaudadores e inspectores; Comisarios y Delegados municipales; jefes, subjefes, directores y subdirectores de dependencias o departamentos; alcaides y personal de vigilancia de las cárceles municipales; secretario particular y ayudantes del Presidente Municipal y todos los miembros de los servicios policíacos y de tránsito; jefe del departamento de bomberos, cuando dependa del Ayuntamiento; así como toda persona que ejecute funciones relativas al resguardo de bienes que integren el patrimonio municipal; y
+
+c) En las empresas de participación mayoritarias, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos y, en general, todo organismo que integre la administración pública paramunicipal: los directores generales, gerentes generales, subdirectores generales, subgerentes generales, directores, subdirectores, gerentes y subgerentes.
+
+De la declaración de la situación patrimonial deberá remitirse copia a la Contraloría Estatal y al Instituto Catastral y Registral del Estado. Asimismo, el Ayuntamiento podrá convenir con el Gobierno del Estado para que éste asuma la función señalada en esta fracción, cuando el propio Ayuntamiento no pueda llevar el citado registro.
+
+X. Investigar el desarrollo de la situación patrimonial y comprobar la veracidad de los datos contenidos en la misma conforme a lo previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado y de los municipios;
+
+XI. Conocer e investigar los actos u omisiones de los servidores públicos municipales en relación con responsabilidades administrativas, aplicando las sanciones que correspondan en los términos señalados en las leyes y hacer las denuncias ante el Ministerio Público, prestándole a éste, la colaboración que fuere necesaria;
+
+XII. Vigilar el registro e inventario de los bienes muebles e inmuebles del Municipio;
+
+XIII. Elaborar para la formulación de los lineamientos generales y los manuales de organización y procedimientos al que habrán de sujetarse las dependencias y entidades municipales, los cuales deberán ser aprobados por el Ayuntamiento;
+
+XIV. Establecer y operar un sistema de quejas, denuncias y sugerencias;
+
+XV. Coordinar el proceso de entrega-recepción de las dependencias y entidades de la administración pública municipal;
+
+XVI. Organizar y coordinar el desarrollo administrativo integral de las dependencias y entidades de la administración pública municipal, a fin de que los recursos humanos, patrimoniales y los procedimientos técnicos de la misma, sean aprovechados y aplicados con criterios de eficiencia, buscando en todo momento la eficacia, descentralización, desconcentración y simplificación administrativa. Para ello, podrá realizar o encomendar las investigaciones, estudios y análisis necesarios sobre estas materias y dictar las disposiciones administrativas que sean necesarias al efecto, tanto para las dependencias como para las entidades de la administración pública municipal;
+
+XVII. Informar trimestralmente al Ayuntamiento de sus actividades;
+
+XVIII. Prestar auxilio a otras autoridades en la materia, en los términos de los convenios y acuerdos correspondientes; y
+
+XIX. Las demás que le señalen las leyes u otros ordenamientos jurídicos.
+
+###### Artículo 97.
+
+Las dependencias y entidades de la administración municipal estarán obligadas a proporcionar todas las facilidades necesarias a fin de que el Órgano de Control y Evaluación Gubernamental pueda realizar sus funciones.
+
+#### Sección V. De los Comisarios
+
+###### Artículo 98.
+
+Los Comisarios Municipales tendrán su residencia oficial y particular en la demarcación territorial de la Comisaría respectiva. Serán designados cada tres años por el Ayuntamiento, al iniciar éstos sus funciones, debiendo cumplir los requisitos establecidos por el párrafo tercero del artículo 135 de la Constitución Política del Estado Libre y Soberano de Sonora.
+
+Para llevar a cabo tales nombramientos, el Ayuntamiento designará de entre sus miembros a una comisión especial, la cual tendrá a su cargo, en principio, proponerle la instrumentación de un proceso que asegure la participación ciudadana, de entre los establecidos por la ley relativa del Estado. Por mayoría absoluta, el Ayuntamiento decidirá sobre la procedencia de la instrumentación del proceso propuesto por la comisión, mismo que tendrá efectos valorativos para el Ayuntamiento en el nombramiento del o los Comisarios del Municipio.
+
+La remoción de los Comisarios deberá ser aprobada por mayoría absoluta del Ayuntamiento y siempre que se trate de causa justificada.
+
+###### Artículo 99.
+
+Las faltas temporales o absolutas de los Comisarios Municipales, serán cubiertas por un suplente designado por el Ayuntamiento, en los términos del artículo anterior.
+
+###### Artículo 100.
+
+La retribución de los Comisarios Municipales será fijada en el Presupuesto de Egresos del Municipio.
+
+###### Artículo 101.
+
+Son facultades y obligaciones de los Comisarios Municipales:
+
+I. Cumplir y hacer cumplir, las leyes federales y locales, el Bando de Policía y Gobierno, los reglamentos municipales, circulares, disposiciones administrativas de observancia general y los acuerdos que les señalen el Ayuntamiento o el Presidente Municipal correspondiente, quien fungirá como su órgano de comunicación con las autoridades del Estado;
+
+II. Cuidar dentro de su esfera administrativa del orden y la tranquilidad pública;
+
+III. Ejercer las funciones y prestar los servicios públicos que fije el Ayuntamiento o el Presidente Municipal;
+
+IV. Participar en la formulación, instrumentación, control y evaluación del programa de la Comisaría en el que se especificarán los objetivos, prioridades y políticas que regirán el desempeño de sus actividades. Contendrá, asimismo, estimaciones de recursos y determinaciones sobre instrumentos y responsables de su ejecución;
+
+V. Proponer al Ayuntamiento, a través del Presidente Municipal, la realización de obras de infraestructura, equipamiento y servicios urbanos, para el desarrollo de sus Centros de Población;
+
+VI. Promover la cooperación de los habitantes en la construcción y conservación de obras públicas, así como en la prestación de servicios públicos de competencia municipal;
+
+VII. Formar y remitir al Ayuntamiento para su aprobación, en la segunda quincena del mes de noviembre de cada año, los programas de gasto que regirán en sus Comisarías en el ejercicio fiscal siguiente;
+
+VIII. Rendir mensualmente, a través del Presidente Municipal, al Ayuntamiento la cuenta comprobada del ejercicio presupuestario de su Comisaría;
+
+IX. Rendir anualmente al Ayuntamiento, por conducto del Presidente Municipal, dentro de la segunda quincena del mes de febrero, la cuenta general del manejo de los recursos económicos que tuviere asignados;
+
+X. Formar el censo de su demarcación cuando se lo ordene el Ayuntamiento de que dependan;
+
+XI. Vigilar que los niños en edad escolar concurran a las escuelas primarias y promover la asistencia a los centros de alfabetización para adultos;
+
+XII. Fomentar la realización de actividades sociales, culturales, artísticas y en general, la celebración de eventos que tiendan a exaltar el espíritu cívico y los sentimientos patrióticos de la población;
+
+XIII. En los términos del artículo 61, fracción V, inciso A, imponer en su ámbito territorial, las sanciones que fije el Bando de Policía y Gobierno y los demás reglamentos, de acuerdo con las normas que en los mencionados ordenamientos se establezcan;
+
+XIV. Coadyuvar en la realización del Plan Municipal de Desarrollo;
+
+XV. Dar audiencia pública, por lo menos dos veces al mes, a los habitantes de las Comisarías en la que éstos puedan proponer la adopción de determinados medidas y acuerdos, la realización de actos o recibir información sobre determinadas actuaciones; y
+
+XVI. Las demás que les confieren ésta u otras leyes y reglamentos.
+
+###### Artículo 102.
+
+Los Comisarios Municipales tendrán además las facultades y obligaciones que atribuyen a los Presidentes Municipales las fracciones XIV, XV, XVII, XXII, XXIII, XXIV, XXV y XXVIII del artículo 65 de esta Ley, sin perjuicio de ejercer algunas otras funciones, previo acuerdo del Ayuntamiento del que dependan.
+
+#### Sección VI. De los Delegados
+
+###### Artículo 103.
+
+Los Delegados Municipales tendrán su residencia oficial en las congregaciones o rancherías que el propio Ayuntamiento les señale y serán designados cada tres años por el Ayuntamiento, al iniciar éstos sus funciones, debiendo cumplir con los requisitos establecidos por el artículo 135 de la Constitución Política del Estado Libre y Soberano de Sonora.
+
+Para llevar a cabo tales nombramientos, el Ayuntamiento designará de entre sus miembros a una comisión especial, la cual tendrá a su cargo, en principio, proponerle la instrumentación de un proceso que asegure la participación ciudadana, de entre los establecidos por la ley relativa del Estado. Por mayoría absoluta, el Ayuntamiento decidirá sobre la procedencia de la instrumentación del proceso propuesto por la comisión, mismo que tendrá efectos valorativos para el Ayuntamiento en el nombramiento del o los Delegados del Municipio.
+
+La remoción de los Delegados deberá ser aprobada por mayoría absoluta del Ayuntamiento y siempre que se trate de causa justificada.
+
+###### Artículo 104.
+
+La retribución que deba percibir cada Delegado Municipal, será la que se asigne en el Presupuesto de Egresos.
+
+###### Artículo 105.
+
+Son facultades y obligaciones de los Delegados Municipales:
+
+I. Ejecutar en su demarcación las órdenes que le fueren giradas por el Ayuntamiento y el Presidente Municipal;
+
+II. Rendir al Ayuntamiento, durante la primera semana de cada mes, un informe pormenorizado de las labores administrativas realizadas en su ámbito territorial; y
+
+III. Las demás que señalan las fracciones I, II, VII, XI, XII y XIII del artículo 101, incluyendo las enunciadas en el artículo 102 de este ordenamiento.
+
+### CAPITULO TERCERO. DE LA ADMINISTRACION PUBLICA PARAMUNICIPAL
+
+###### Artículo 106.
+
+Integran la administración pública paramunicipal los organismos descentralizados, las empresas de participación municipal mayoritarias y los fideicomisos públicos municipales, creados y autorizados por el Ayuntamiento, por mayoría calificada.
+
+###### Artículo 107.
+
+Para los efectos de esta Ley se entiende por:
+
+I. Organismo descentralizado: la persona moral investida de personalidad jurídica y patrimonio propio, cualquiera que sea la forma o estructura que adopte, siempre que reúna los siguientes requisitos:
+
+a) Que su patrimonio se constituya total o parcialmente con fondos o bienes del Municipio o de los organismos descentralizados municipales, asignaciones, subsidios, concesiones o derechos que le aporte u otorgue el Municipio, el gobierno estatal o federal; y
+
+b) Que su objeto o fines sean la prestación de un servicio público, la obtención o aplicación de recursos para fines de asistencia social, la realización de actividades prioritarias o el desarrollo económico.
+
+II. Empresa de participación municipal mayoritaria: aquella cuyo capital social se integre con el cincuenta y uno por ciento o más aportado por el Ayuntamiento, por uno o varios organismos descentralizados municipales, por una u otras empresas de participación municipal mayoritarias o por uno o varios fideicomisos municipales.
+
+III. Fideicomiso público municipal: aquel que se constituye conforme a la ley de la materia, con fondos del Municipio o de alguno o algunos de los organismos a que se refieren las fracciones que anteceden y en donde el Ayuntamiento como fideicomitente único, atiende un objeto específico de interés público o beneficio colectivo, cuya competencia tenga legalmente atribuida.
+
+###### Artículo 108.
+
+El Ayuntamiento en los acuerdos que creen organismos descentralizados, deberá establecer, entre otros elementos:
+
+I. La denominación del organismo;
+
+II. El domicilio legal;
+
+III. El objeto del organismo conforme a lo señalado en esta ley;
+
+IV. Las aportaciones y fuentes de recursos para integrar su patrimonio, así como aquellas que se determinen para su incremento;
+
+V. La forma de integración del órgano de gobierno que será no menos de cinco, ni más de nueve miembros;
+
+En ningún caso podrán ser miembros del órgano de gobierno: los cónyuges y las personas que tengan parentesco por consanguinidad o afinidad hasta el cuarto grado o civil con cualquiera de los miembros del órgano de gobierno o con el director general; las personas que tengan litigios pendientes con el organismo de que se trate; las personas sentenciadas por delitos patrimoniales y las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público;
+
+VI. La manera de designar al director general y los requisitos que deberá reunir;
+
+VII. Las facultades y obligaciones del órgano de gobierno, señalando cuáles de dichas facultades son indelegables;
+
+VIII. Las facultades y obligaciones del director general, quien tendrá la representación legal del organismo; y
+
+IX. Sus órganos de vigilancia, así como sus facultades.
+
+Los acuerdos de creación de organismos descentralizados deberán publicarse íntegramente en el Boletín Oficial del Gobierno del Estado.
+
+El órgano de gobierno deberá expedir el reglamento en el que se establezcan las bases de organización, así como las facultades y funciones que correspondan a las distintas áreas que integren el organismo.
+
+En la extinción de los organismos deberán observarse las mismas formalidades establecidas para su creación, debiendo el acuerdo del Ayuntamiento fijar la forma y términos de su extinción y liquidación.
+
+###### Artículo 109.
+
+Los directores generales de los organismos descentralizados, según su representación legal, solamente podrán:
+
+I. Celebrar y otorgar toda clase de actos y documentos inherentes a su objeto;
+
+II. Ejercer las más amplias facultades de dominio, administración y pleitos y cobranzas, aun aquéllas que requieran de autorización especial según otras disposiciones legales o reglamentarias con apego a esta Ley, al acuerdo de creación y su reglamento;
+
+III. Emitir, avalar y negociar títulos de crédito;
+
+IV. Formular querellas y otorgar perdón;
+
+V. Articular y absolver posiciones;
+
+VI. Ejercer y desistirse de acciones judiciales, inclusive del juicio de amparo;
+
+VII. Comprometer asuntos en arbitraje y celebrar transacciones;
+
+VIII. Otorgar poderes generales y especiales con las facultades que les competan, entre ellas las que requieran autorización o cláusula especial; y
+
+IX. Sustituir y revocar poderes generales o especiales.
+
+Los directores generales ejercerán las facultades a que se refieren las fracciones II, III, VI y VII, bajo su responsabilidad y dentro de las limitaciones que señale el acuerdo de creación que emita el Ayuntamiento.
+
+###### Artículo 110.
+
+Los organismos descentralizados deberán rendir informes mensuales al Ayuntamiento, sobre el ejercicio de sus funciones. Sin perjuicio de lo anterior, el Ayuntamiento podrá solicitar información en cualquier tiempo.
+
+###### Artículo 111.
+
+Cuando el organismo público descentralizado tenga por objeto la prestación de un servicio público, el Ayuntamiento, a propuesta del propio organismo y del estudio técnico que presente, propondrá las tarifas que en su caso correspondan, y, una vez que éstas sean autorizadas por el Congreso del Estado, se publicarán en el Boletín Oficial del Gobierno del Estado. Asimismo, podrá ejercer la facultad económico-coactiva, conforme a su acuerdo de creación.
+
+###### Artículo 112.
+
+Las empresas de participación municipal mayoritaria y los fideicomisos públicos, además de lo establecido en la autorización del Ayuntamiento para su creación, se sujetarán a lo que señalen las leyes sobre la materia.
+
+###### Artículo 113.
+
+La intervención del Ayuntamiento en las empresas, se sujetará a las siguientes bases:
+
+I. Las partes sociales serán siempre nominativas.
+
+II. Los rendimientos que se obtengan se destinarán al objeto de la empresa.
+
+III. La escritura constitutiva de estas empresas deberá contener una cláusula en la que se establezca que los acuerdos de asamblea ordinaria, sean en primera o en segunda convocatoria, deberán aprobarse por un mínimo de acciones que representen el cincuenta y uno por ciento del capital social de la empresa.
+
+IV. La Tesorería Municipal formará y llevará un expediente para cada empresa en la que participe el Ayuntamiento, con las siguientes constancias:
+
+a) Escritura constitutiva y sus reformas, poderes que otorgue y actas de las asambleas y sesiones.
+
+b) Inventarios y balances.
+
+c) Contratos y documentos en que se comprometa el patrimonio de la empresa.
+
+d) Auditorías e informes contables y financieros.
+
+e) Informes del representante del Ayuntamiento.
+
+f) Otras que tengan relación con la empresa.
+
+###### Artículo 114.
+
+Los organismos descentralizados podrán modificar su estructura y bases de organización conforme al mismo procedimiento que establece este título para su creación, siempre y cuando sea necesaria para mejorar el desempeño de sus funciones, el cumplimiento de sus fines o la coordinación de sus actividades.
+
+En el caso de las empresas de participación municipal mayoritaria y los fideicomisos públicos municipales, su modificación o extinción se sujetará además, a lo que señalen las leyes de la materia.
+
+El Ayuntamiento se deberá reservar, en los contratos constitutivos de fideicomisos de la administración pública municipal, la facultad expresa de revocarlos, sin perjuicio de los derechos que corresponda a los fideicomisarios o a terceros, salvo que se trate de fideicomisos constituidos por mandato de la ley o que la naturaleza de sus fines no lo permita.
+
+###### Artículo 115.
+
+No obstante lo dispuesto en el artículo que antecede, el Ayuntamiento podrá acordar la fusión o disolución de dichas entidades, cuando no cumplan con sus fines u objeto social o cuando su funcionamiento resulte inconveniente para la economía del Municipio o el interés público.
+
+###### Artículo 116.
+
+En todas las entidades del sector paramunicipal existirá un comisario público, el cual será designado conforme a lo que establece esta Ley.
+
+###### Artículo 117.
+
+Corresponde al Ayuntamiento, por conducto del Presidente Municipal, la coordinación y planeación de las operaciones que realicen las entidades que integran la administración pública paramunicipal y al Órgano de Control y Evaluación Gubernamental, la supervisión, control y evaluación de dichas operaciones.
+
+## TITULO CUARTO. DE LA PLANEACION, PROGRAMACION, PRESUPUESTACION, EJERCICIO DEL GASTO Y CONTABILIDAD MUNICIPAL
+
+### CAPITULO PRIMERO. DEL PLAN MUNICIPAL DE DESARROLLO
+
+###### Artículo 118.
+
+Las disposiciones de este capítulo tienen por objeto establecer las normas y principios conforme a las cuales se llevará a cabo la planeación del desarrollo en el Municipio y encauzar, en función de ésta, las actividades de la administración pública municipal, en los términos de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, esta Ley y de manera supletoria, la Ley de Planeación del Estado de Sonora.
+
+###### Artículo 119.
+
+Cada Ayuntamiento deberá elaborar, aprobar y publicar el Plan Municipal de Desarrollo dentro de un plazo de cuatro meses, contados a partir de la fecha de toma de protesta. La palabra Plan queda reservada al Plan Municipal de Desarrollo.
+
+###### Artículo 120.
+
+El Plan indicará los programas que deban ser elaborados, los cuales observarán congruencia con el mismo Plan y su vigencia no excederá del período constitucional de la gestión gubernamental en que se aprueben, aunque sus previsiones y proyecciones se refieran a un plazo mayor.
+
+###### Artículo 121.
+
+Los programas especificarán los objetivos, prioridades y política que regirán el desempeño de las actividades del área de que se trate, las regiones que se consideren prioritarias o estratégicas o las prioridades del desarrollo integral del Municipio, en todo caso deberán contener:
+
+I. Diagnóstico de la situación vigente;
+
+II. Objetivos con la perspectiva de los tres años del Ayuntamiento, en materia a la que se refiera;
+
+III. Indicadores para la medición y evaluación del desempeño y de los resultados de la gestión municipal;
+
+IV. Metas referidas a cada uno de los indicadores considerados;
+
+V. Estrategias, líneas de acción y proyectos para el logro de los objetivos y metas; y
+
+VI. En su caso, las bases para la participación de la comunidad en la ejecución de los programas.
+
+###### Artículo 122.
+
+Los programas deberán ser congruentes entre sí, regirán las actividades de la administración pública en su conjunto y servirán de orientación para la integración de los programas operativos anuales y de los anteproyectos de los presupuestos de egresos de los municipios.
+
+###### Artículo 123.
+
+En los comités de planeación municipal tendrá lugar la participación y consulta de los diversos grupos sociales, con el propósito de que la población exprese sus opiniones para la elaboración, actualización, ejecución y control del Plan y los programas que se deriven de éste.
+
+La organización y funcionamiento, las formalidades, periodicidad y términos a que se sujetarán la participación y consulta para la planeación democrática, se regirán por el reglamento en materia de planeación que al efecto apruebe el Ayuntamiento.
+
+###### Artículo 124.
+
+Una vez aprobado el Plan por el Ayuntamiento, deberá remitir una copia al Congreso del Estado y será obligatorio para la administración pública municipal en el ámbito de su respectiva competencia.
+
+###### Artículo 125.
+
+Cada Ayuntamiento deberá publicar el Plan Municipal de Desarrollo en el Boletín Oficial del Gobierno del Estado de forma gratuita y tener el documento completo a disposición de la ciudadanía para su consulta.
+
+### CAPITULO SEGUNDO. DE LA PROGRAMACION DEL GASTO
+
+###### Artículo 126.
+
+Para el cumplimiento de los objetivos de los programas que deriven del Plan Municipal de Desarrollo, la administración pública municipal directa deberá elaborar un programa operativo anual y, en el caso de las entidades paramunicipales, cada una de ellas deberá elaborar su propio programa.
+
+Se entenderá por programa operativo anual, la anualización, en términos de objetivos y metas, del Plan Municipal de Desarrollo y de los programas que deriven de él. Este programa, de naturaleza obligatoria para la administración pública municipal directa y entidades paramunicipales, deberá contener las estrategias y líneas prioritarias de acción que se seguirán para ejecutar los mismos, mediante la realización de acciones coordinadas, concertadas e inducidas y se constituirán como el vínculo entre el Plan y los programas de desarrollo antes señalados y la programación-presupuestación del gasto público municipal.
+
+###### Artículo 127.
+
+El programa operativo anual deberá ser la base para la presupuestación de los egresos municipales, cuyo proceso se realizará conforme a los métodos y plazos que determine la unidad administrativa responsable de la función de planeación municipal.
+
+###### Artículo 128.
+
+El programa operativo anual deberá realizarse considerando:
+
+I. Las demandas captadas en el comité de planeación municipal (COPLAM). El Ayuntamiento determinará los mecanismos de consulta ciudadana donde deberán participar y ser consultados los diversos grupos sociales y de representación popular, a fin de que la ciudadanía exprese sus opiniones tanto en la formulación, como en la ejecución del mismo;
+
+II. Los convenios de coordinación, actualización, ejecución y control con los gobiernos federal y estatal;
+
+III. Los convenios de concertación con los sectores privado y social;
+
+IV. Los diversos instrumentos de política económica y social que defina el Ayuntamiento;
+
+V. Las acciones programáticas entre dos o más sectores; y
+
+VI. Las acciones de carácter regional en el caso de las Comisarías.
+
+### CAPITULO TERCERO. DEL PRESUPUESTO DE EGRESOS
+
+###### Artículo 129.
+
+El Presupuesto de Egresos Municipal será el que apruebe el Ayuntamiento respectivo, contendrá el ejercicio del gasto público municipal -desde el primero de enero hasta el treinta y uno de diciembre del ejercicio fiscal correspondiente- referido a los programas, las actividades, las obras y los servicios públicos previstos en las dependencias y entidades de la administración pública municipal, así como en las Comisarías y Delegaciones.
+
+En caso de que al treinta y uno de diciembre del año que corresponda, el Ayuntamiento apruebe el Presupuesto de Egresos que regirá el próximo año, se declarará aplicable para el siguiente ejercicio fiscal, el Presupuesto de Egresos que se encuentre vigente, sólo en lo relativo al gasto corriente. Para el cumplimiento de lo establecido en este párrafo, el Presidente Municipal mandará publicar en el Boletín Oficial del Gobierno del Estado la declaratoria correspondiente.
+
+###### Artículo 130.
+
+El Presupuesto de Egresos, además de comprender las erogaciones a que se refiere el artículo que antecede, deberá incorporar los subsidios, apoyos, donaciones, estímulos y demás conceptos de gasto que con el carácter de transferencias de recursos se otorguen a entidades, organismos e instituciones que realizan actividades, obras o servicios acordes a los objetivos y metas del Plan Municipal de Desarrollo, así como la amortización y pago de intereses de la deuda pública municipal y pago de adeudos de ejercicios fiscales anteriores.
+
+###### Artículo 131.
+
+El Presupuesto de Egresos regulará el gasto público municipal y se formulará con base a los objetivos y metas que se señalen en el programa operativo anual.
+
+###### Artículo 132.
+
+Las asignaciones presupuestarias se establecerán por programas y con la subdivisión que por cada uno de ellos se determine, atendiendo el clasificador de actividades públicas municipales aprobado por el Ayuntamiento.
+
+Asimismo, se establecerán los importes respectivos a nivel de partidas, mismas que estarán definidas en el clasificador por objeto del gasto aprobado por el Ayuntamiento.
+
+###### Artículo 133.
+
+Para la asignación de las previsiones de gasto público municipal la Tesorería Municipal proyectará y calculará los egresos del gobierno municipal, haciéndolo compatible con la disponibilidad de recursos al proyectar y calcular los ingresos del Municipio.
+
+En la proyección del ingreso a que se refiere el párrafo anterior, la Tesorería Municipal deberá considerar las necesidades de gasto público municipal, la utilización del crédito público, en su caso, y la sanidad financiera de la administración pública municipal.
+
+###### Artículo 134.
+
+La proyección y cálculo del egreso deberá conformar el proyecto de programa anual de gasto y contener las asignaciones sectoriales del mismo.
+
+###### Artículo 135.
+
+Una vez realizado el proyecto de programa anual de gasto, se comunicará a las dependencias sus respectivas estimaciones de techos financieros, conjuntamente con los lineamientos generales que se establezcan para la formulación del proyecto del Presupuesto de Egresos.
+
+###### Artículo 136.
+
+Para la formulación del proyecto de Presupuesto de Egresos las dependencias y entidades elaborarán, oportunamente, sus anteproyectos de presupuesto, con base en las normas, montos y plazos establecidos.
+
+Cada Comisario o Delegado será el responsable de elaborar su propio anteproyecto de Presupuesto de Egresos, el cual deberá contener los programas, actividades y servicios públicos de su ámbito territorial, y deberá remitirlo a la Tesorería Municipal para su incorporación, en un capítulo especial, al proyecto de Presupuesto de Egresos del Ayuntamiento.
+
+Las entidades paramunicipales formularán sus propios anteproyectos de presupuestos de egresos y, previa autorización de sus órganos de gobierno, los remitirán a la Tesorería Municipal, para que ordene su incorporación, en capítulo especial, al proyecto de Presupuesto de Egresos del Ayuntamiento.
+
+###### Artículo 137.
+
+Los programas, para efecto de su presupuestación, deberán contener:
+
+I. Los objetivos que se pretendan alcanzar, así como su justificación;
+
+II. La desagregación en subprogramas, cuando las actividades lo requieran;
+
+III. La cuantificación de metas por programa y subprograma, en su caso, con sus unidades de medida, indicadores de medición y denominación;
+
+IV. Las previsiones de gasto;
+
+V. Las principales características de los programas y subprogramas, en su caso, y los criterios que justifiquen la asignación de los recursos; y
+
+VI. Las demás previsiones que establezca la Tesorería Municipal o, en su caso, unidad de programación y presupuestación.
+
+###### Artículo 138.
+
+El proyecto de Presupuesto de Egresos que presente la Tesorería Municipal a la comisión de hacienda, patrimonio y cuenta pública del Ayuntamiento, deberá contener:
+
+I. Descripción de los principales programas que integren el proyecto de Presupuesto de Egresos, enunciando los objetivos, las metas y las prioridades globales, así como las unidades responsables de su ejecución;
+
+II. Descripción de los programas a cargo de las Comisarías y Delegaciones, enunciando los objetivos y metas a realizar durante el ejercicio fiscal;
+
+III. Definición de bases para el cálculo de los conceptos de gasto tales como servicios personales, tabuladores de sueldos, transferencias y subsidios, así como inversión en infraestructura;
+
+IV. Explicación de los programas que observan dos o más ejercicios fiscales;
+
+V. Estimación de ingresos y proposición del gasto del ejercicio fiscal para el que se propone;
+
+VI. Ingresos y gastos realizados en el último ejercicio fiscal;
+
+VII. Estimación de los ingresos y gastos del ejercicio fiscal en curso;
+
+VIII. Situación de la deuda pública municipal, al fin del último ejercicio fiscal y estimación de la que se tendrá en los ejercicios en curso e inmediato siguiente; y
+
+IX. Políticas de gasto, ejercicio del presupuesto y rendición de cuentas al Ayuntamiento.
+
+###### Artículo 139.
+
+El proyecto de Presupuesto de Egresos deberá incluir la calendarización del ejercicio por cada mes, a nivel de capítulos y especificando importes por conceptos y partidas en forma consolidada respecto al total de dicho presupuesto.
+
+###### Artículo 140.
+
+Los importes presupuestales de egresos incluidos en el citado proyecto deberán ser ajustados al monto total que contenga la Ley de Ingresos y Presupuesto de Ingresos del Ayuntamiento que apruebe el Congreso del Estado, para el mismo ejercicio fiscal.
+
+###### Artículo 141.
+
+La comisión de hacienda, patrimonio y cuenta pública del Ayuntamiento analizará el proyecto y elaborará el dictamen correspondiente que deberá ser sometido a la revisión y aprobación del Ayuntamiento, durante la segunda quincena del mes de diciembre del año anterior al de su ejercicio.
+
+El proyecto de Presupuesto de Egresos y el dictamen deberán ser presentados a todos los integrantes del Ayuntamiento, con la finalidad de que lo analicen y en su caso, pidan y obtengan aclaraciones o datos complementarios.
+
+El Presupuesto de Egresos y su dictamen deberán aprobarse con mayoría absoluta por los miembros del Ayuntamiento.
+
+###### Artículo 142.
+
+El Ayuntamiento, a más tardar el 31 de diciembre, remitirá una copia del acuerdo que aprueba el Presupuesto de Egresos, a la Secretaría de Gobierno del Poder Ejecutivo del Estado, para su publicación en el Boletín Oficial del Gobierno del Estado.
+
+Asimismo, remitirá una copia del Presupuesto de Egresos aprobado por el Ayuntamiento, con todos sus anexos, a la Contaduría Mayor de Hacienda del Congreso del Estado, dentro de los primeros diez días del ejercicio fiscal al que corresponda el presupuesto aprobado, mismo que servirá de base para las revisiones y evaluaciones que este órgano lleve a cabo.
+
+###### Artículo 143.
+
+Deberá anexarse al documento, la calendarización del ejercicio de los egresos presupuestados, a nivel de capítulos y especificando los conceptos más relevantes, con importes en cuenta consolidada de los diversos programas que comprende el presupuesto aprobado.
+
+###### Artículo 144.
+
+Para efectuar modificaciones al Presupuesto de Egresos se deberá seguir el mismo procedimiento que para su aprobación y ser sancionadas por mayoría absoluta del Ayuntamiento.
+
+Las modificaciones al Presupuesto de Egresos deberán ser publicadas en el Boletín Oficial del Gobierno del Estado dentro de un plazo máximo de treinta días posteriores a la fecha de su aprobación.
+
+### CAPITULO CUARTO. DEL EJERCICIO DEL GASTO
+
+###### Artículo 145.
+
+El ejercicio del Presupuesto de Egresos comprende el manejo y aplicación de los recursos que realizan las dependencias, entidades, Comisarías y Delegaciones de la administración pública municipal, para dar cumplimiento a los objetivos y metas de los programas a que se refieren los presupuestos aprobados.
+
+###### Artículo 146.
+
+La Tesorería Municipal efectuará la apertura del Presupuesto de Egresos, con base en la aprobación previa que del mismo haya realizado el Ayuntamiento; para tales efectos, comunicará a los titulares de las dependencias y a los directores de las entidades los montos globales de las asignaciones de gastos que se autorizaron, con sus correspondientes partidas presupuestales y el calendario que, para el ejercicio de dicho gasto, se haya aprobado.
+
+###### Artículo 147.
+
+Los montos asignados a los programas que integran el Presupuesto de Egresos, establecen el límite máximo de su ejercicio; por tanto, no podrán suministrarse recursos presupuestales mayores, salvo que, de conformidad con las disposiciones aplicables, se efectúen transferencias entre partidas o se otorguen ampliaciones previamente autorizadas por el Ayuntamiento.
+
+Los titulares de las dependencias, los directores de las entidades, los Comisarios y Delegados, serán responsables tanto del avance de los programas a su cargo, como del manejo de los recursos a ellos asignados.
+
+###### Artículo 148.
+
+El ejercicio del gasto público municipal que realicen las dependencias, entidades, Comisarías y Delegaciones, se efectuará con base en los calendarios financieros y de metas que al efecto se elaboren, y se desarrollará de acuerdo con las siguientes acciones:
+
+I. Celebración de compromisos presupuestales que significan obligaciones con cargo a sus presupuestos aprobados;
+
+II. Ministración de fondos; y
+
+III. Pago de las obligaciones derivadas de los compromisos contraídos.
+
+###### Artículo 149.
+
+Las dependencias, entidades, Comisarías y Delegaciones, al contraer compromisos presupuestales deberán observar, sin perjuicio de las disposiciones legales aplicables, lo siguiente:
+
+I. Que se realicen de acuerdo a los calendarios financieros anuales y de metas autorizados;
+
+II. Que no impliquen obligaciones anteriores a la fecha en que se suscriban; y
+
+III. Que no impliquen obligaciones con cargo a presupuestos de años anteriores.
+
+###### Artículo 150.
+
+La Tesorería Municipal será la encargada de realizar los pagos correspondientes a las dependencias, Comisarías y Delegaciones.
+
+Las entidades paramunicipales manejarán sus fondos y harán sus pagos a través de sus propias unidades administrativas; sin perjuicio de lo anterior, se podrán suscribir bases de colaboración administrativa, con el fin de que la Tesorería Municipal administre o custodie determinados recursos presupuestales de las entidades, así como para que realice pagos correspondientes a éstas.
+
+###### Artículo 151.
+
+Toda erogación o ejercicio presupuestario, deberá contar con saldo suficiente en las partidas del presupuesto respectivo y se sujetará a los requisitos que establezcan las disposiciones correspondientes.
+
+###### Artículo 152.
+
+Una vez concluida la vigencia del Presupuesto de Egresos, sólo procederá hacer pagos con base en él, por los conceptos efectivamente devengados en el año que corresponda y siempre que se encuentren debidamente contabilizados al 31 de diciembre del ejercicio correspondiente. De no cumplirse con el requisito antes señalado, dichos compromisos se cubrirán, previo acuerdo del Ayuntamiento, con cargo al presupuesto del año siguiente.
+
+###### Artículo 153.
+
+El Ayuntamiento podrá autorizar el ejercicio de los ingresos extraordinarios que se obtengan en los diversos rubros de la Ley de Ingresos aprobada.
+
+Los ingresos extraordinarios antes señalados serán aplicados a los programas prioritarios que, a propuesta de la comisión de hacienda, patrimonio y cuenta pública, autorice el Ayuntamiento.
+
+En el supuesto de que los ingresos sean menores a los programados, podrán efectuarse las respectivas reducciones, previa autorización del Ayuntamiento, conforme al procedimiento previsto para la modificación del Presupuesto de Egresos.
+
+###### Artículo 154.
+
+Los beneficiarios de subsidios, aportaciones o transferencias, otorgados con cargo al Presupuesto de Egresos, deberán rendir cuenta detallada de la aplicación de los fondos otorgados a la Tesorería Municipal, así como la información y justificación correspondiente, en la forma y plazos en que la misma dependencia lo requiera.
+
+El incumplimiento en la rendición de la cuenta comprobada motivará la inmediata suspensión de las subsecuentes ministraciones de fondos que por el mismo concepto se hubieren autorizado y podrá requerirse el reintegro de lo que se haya suministrado.
+
+###### Artículo 155.
+
+Las dependencias y entidades llevarán un registro acumulativo y simplificado de las afectaciones de sus presupuestos aprobados, observando para ello que dichas afectaciones se realicen:
+
+I. Con cargo a los programas y, en su caso, a los subprogramas y unidades responsables señalados en sus presupuestos; y
+
+II. Con sujeción a los capítulos y conceptos del clasificador por objeto del gasto que se expida, así como a las partidas contenidas en dicho clasificador.
+
+###### Artículo 156.
+
+Las dependencias deberán efectuar la comparación de los montos contenidos en sus registros presupuestales, con el avance del gasto ejercido que, mensualmente, o con la periodicidad que se requiera, deberá proporcionar la Tesorería Municipal.
+
+### CAPITULO QUINTO. DE LA CONTABILIDAD
+
+###### Artículo 157.
+
+La contabilidad municipal deberá responder a las bases y principios de contabilidad gubernamental generalmente aceptados, así como a la apertura programática y presupuestal del Presupuesto de Egresos aprobado.
+
+###### Artículo 158.
+
+La Tesorería Municipal tendrá a su cargo la contabilidad del Ayuntamiento, la cual se llevará con base acumulativa en cuanto al gasto y con base en efectivo en cuanto al ingreso, para obtener la información financiera y facilitar la evaluación de los presupuestos.
+
+La contabilidad se llevará por períodos anuales y deberá comprender, el registro de los activos, pasivos, capital o patrimonio, ingresos y egresos, así como las asignaciones, compromisos y ejercicios correspondientes a los programas y partidas del Presupuesto de Egresos, y deberá a la vez, permitir la obtención de los estados financieros y demás información presupuestal.
+
+###### Artículo 159.
+
+El sistema contable deberá diseñarse u operar en forma que facilite la fiscalización de los activos, pasivos, ingresos, costos, gastos, avances en la ejecución de programas y, en general, de manera que permita medir la eficacia del gasto público municipal.
+
+###### Artículo 160.
+
+El Ayuntamiento -por conducto de la comisión de hacienda, patrimonio y cuenta pública- autorizará los libros o registros contables, tanto en la apertura como en el cierre de los mismos.
+
+Los libros o los registros contables deberán conservarse por el Ayuntamiento en el Archivo General del Municipio y no podrán, por ningún motivo, modificarse o destruirse.
+
+###### Artículo 161.
+
+Será competencia de la Tesorería Municipal, el diseño y la instrumentación de los sistemas contables que permitan el control de las operaciones presupuestales y financieras de las entidades.
+
+Los catálogos de cuentas que utilizarán los organismos descentralizados, las empresas de participación municipal mayoritaria y los fideicomisos públicos, serán autorizados, expresamente, por la Tesorería Municipal.
+
+###### Artículo 162.
+
+La contabilidad municipal deberá de arrojar como mínimo los siguientes estados contables, financieros y sociales:
+
+I. Balance general;
+
+II. Estado de resultados;
+
+III. Balanza de comprobación;
+
+IV. Estado de origen y aplicación de recursos;
+
+V. Ejercicio de los presupuestos de ingresos y egresos por partida;
+
+VI. Estado de avances;
+
+VII. Situación de la deuda pública;
+
+VIII. Relación de inversiones;
+
+IX. Estado consolidado de la contabilidad de las entidades; y
+
+X. Dictamen trimestral de la auditoria externa que acuerde el Ayuntamiento.
+
+El Ayuntamiento deberá publicar trimestralmente, un resumen del estado de ingresos y egresos del presupuesto en la tabla de avisos del Ayuntamiento.
+
+###### Artículo 163.
+
+Los estados financieros y demás información presupuestal que emane de la contabilidad, serán utilizados por la Tesorería Municipal para la formulación de los avances financieros trimestrales y de la cuenta.
+
+## TITULO QUINTO. DE LAS PROTESTAS, FALTAS, LICENCIAS, RENUNCIAS Y RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL MUNICIPIO
+
+### CAPITULO UNICO. DE LAS PROTESTAS, FALTAS, LICENCIAS, RENUNCIAS Y RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL MUNICIPIO
+
+###### Artículo 164.
+
+Ningún funcionario ni empleado municipal podrá encargarse de sus funciones sin haber otorgado previamente la protesta a que se refiere el artículo 157 de la Constitución Política del Estado.
+
+###### Artículo 165.
+
+El Presidente Municipal podrá ausentarse de la circunscripción territorial del Municipio hasta por treinta días para el arreglo de los asuntos relacionados con la administración municipal sin perder el carácter de tal, observándose las siguientes disposiciones:
+
+I. Si la ausencia no excede de ocho días, el Presidente Municipal no tendrá obligación de dar aviso al Ayuntamiento, en este lapso el Secretario del Ayuntamiento resolverá los asuntos de mero trámite y aquellos que no admitan demora, de acuerdo con las instrucciones que reciba del Presidente Municipal;
+
+II. Si la ausencia es mayor de ocho días, sin exceder de quince, el Presidente Municipal deberá dar aviso al Ayuntamiento y éste designará al Regidor que le suplirá como encargado de despacho; y
+
+III. Si la ausencia es mayor de quince días, sin exceder de treinta, el Presidente Municipal deberá recabar previamente el permiso del Ayuntamiento y éste designará al Regidor que se encargará del despacho.
+
+###### Artículo 166.
+
+Cuando el Presidente Municipal debiera ausentarse por un tiempo mayor de treinta días y siempre que sea por causa justificada, el Ayuntamiento calificará la causa y, en su caso, aprobará por mayoría absoluta la licencia respectiva, debiendo dar aviso inmediato al Congreso del Estado a efecto de que ése provea lo necesario para nombrar, de entre los miembros del Ayuntamiento, a la persona que ejercerá las funciones del Presidente Municipal.
+
+Cuando el Presidente Municipal debiera ausentarse por un tiempo mayor de treinta días y siempre que sea por causa justificada, el Ayuntamiento calificará la causa y, en su caso, aprobará por mayoría absoluta la licencia respectiva. Transcurrido lo anterior, dentro de los ocho días siguientes, el Ayuntamiento podrá designar, de entre sus miembros y por mayoría absoluta, a la persona que ejercerá las funciones del Presidente Municipal.
+
+En caso de que el Ayuntamiento no realice la designación dentro del término mencionado, deberá dar aviso al Congreso del Estado a efecto de que éste provea lo necesario para nombrar, de entre los miembros del Ayuntamiento, a la persona que ejercerá las funciones del Presidente Municipal.
+
+###### Artículo 167.
+
+En caso de falta absoluta del Presidente Municipal, el Ayuntamiento, deberá dar aviso al Congreso del Estado, para los efectos previstos en el artículo 338 de esta Ley.
+
+###### Artículo 168.
+
+El Síndico podrá ausentarse de la circunscripción territorial del Municipio hasta por treinta días para el arreglo de los asuntos relacionados con su función sin perder el carácter como tal, observándose las siguientes disposiciones:
+
+I. Si la ausencia no excede de quince días, se atenderá a lo dispuesto por el Reglamento Interior del Municipio; y
+
+II. Si la ausencia es mayor de quince días, sin exceder de treinta, el Síndico deberá dar aviso al Ayuntamiento el cual tomará la protesta de ley al Síndico Suplente para ejercer como encargado del despacho durante el período que dure la falta.
+
+III. En caso de falta absoluta del Síndico, el Ayuntamiento deberá dar aviso al Congreso del Estado para que llame al Síndico Suplente a ocupar el cargo. De no presentarse el Síndico Suplente dentro de las setenta y dos horas siguientes al llamado que realice el Congreso del Estado, éste determinará quien, de entre los miembros del Ayuntamiento y a propuesta del mismo, ejercerá las funciones del Síndico Municipal.
+
+###### Artículo 169.
+
+De las licencias y renuncias de los Presidentes Municipales, Regidores, Síndicos, Secretarios, Tesoreros, Comisarios, Delegados Municipales y demás servidores públicos de los municipios, conocerán los Ayuntamientos respectivos en los términos de este título.
+
+###### Artículo 170.
+
+Las licencias serán siempre serán concedidas sin goce de sueldo y no excederán de cinco días continuos o de quince discontinuos en un año, a excepción del supuesto previsto en el artículo 166 de esta Ley. El Ayuntamiento valorará discrecionalmente las causas o motivos que se invoquen en las solicitudes de las mismas.
+
+###### Artículo 171.
+
+Las renuncias a los cargos de Presidente Municipal, Síndico y Regidores, solamente procederán por causas justificadas que calificará el Ayuntamiento y aprobará el Congreso del Estado o, en caso de que éste se encuentre en receso, la aprobación recaerá en la Diputación Permanente.
+
+###### Artículo 172.
+
+Las licencias y renuncias de los empleados de base, se sujetarán a lo que establezcan las leyes que rigen las relaciones de trabajo.
+
+###### Artículo 173.
+
+Las responsabilidades de los funcionarios y empleados municipales se sujetarán a las bases normativas establecidas en el título sexto de la Constitución Política local y a lo que señalen las leyes.
+
+## TITULO SEXTO. DEL SERVICIO CIVIL DE CARRERA
+
+### CAPITULO UNICO. DEL SERVICIO CIVIL DE CARRERA
+
+###### Artículo 174.
+
+El Ayuntamiento institucionalizará el servicio civil de carrera a efecto de contribuir a la mejoría en la calidad de los servicios gubernamentales que la administración pública municipal presta a la ciudadanía.
+
+###### Artículo 175.
+
+En cumplimiento de lo estipulado por el artículo anterior, el Ayuntamiento atenderá lo dispuesto en la ley de la materia en el Estado y el reglamento respectivo, donde se establecerán las bases de organización, funcionamiento, desarrollo, control y evaluación del servicio profesional de carrera para los servidores públicos de la administración municipal.
+
+## TITULO SEPTIMO. DEL PATRIMONIO MUNICIPAL
+
+### CAPITULO PRIMERO. DEL PATRIMONIO MUNICIPAL
+
+###### Artículo 176.
+
+El patrimonio del Municipio se constituye por:
+
+I. Los ingresos que conforman su Hacienda Pública;
+
+II. Sus bienes de dominio público y sus bienes de dominio privado;
+
+III. Sus derechos y obligaciones creados legítimamente; y
+
+IV. Los demás conceptos que señalen las leyes.
+
+###### Artículo 177.
+
+El manejo del patrimonio municipal, se sujetará a lo que señalan las leyes y las disposiciones de este título.
+
+###### Artículo 178.
+
+La inobservancia a lo establecido en este título será considerada como una violación grave a las normas que determinan el manejo de recursos económicos municipales.
+
+### CAPITULO SEGUNDO. DE LA HACIENDA MUNICIPAL
+
+###### Artículo 179.
+
+Los municipios administrarán libremente su Hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan así como de las contribuciones y otros ingresos que establezcan las leyes fiscales.
+
+###### Artículo 180.
+
+La Ley de Ingresos y el Presupuesto de Ingresos establecerán, anualmente los ingresos ordinarios que constituirán la Hacienda Pública Municipal, así como los montos de las cantidades estimadas que se recaudarán en el ejercicio fiscal de que se trate, y regirán del 1o. de enero hasta el 31 de diciembre del año que corresponda.
+
+Los Ayuntamientos no podrán cobrar contribuciones que no estén establecidas en la Ley de Ingresos del Municipio o sean decretadas por el Congreso del Estado.
+
+###### Artículo 181.
+
+El Ayuntamiento deberá someter anualmente al examen y aprobación del Congreso del Estado, su proyecto de Ley de Ingresos y Presupuesto de Ingresos, durante la segunda quincena del mes de noviembre de cada año. De no cumplir con lo anterior, el Congreso declarará aplicable para el siguiente ejercicio fiscal la Ley de Ingresos y el Presupuesto de Ingresos que se encuentren vigentes. Asimismo, el Ayuntamiento propondrá al Congreso, las cuotas, tasas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
+
+###### Artículo 182.
+
+Los anteproyectos de Ley de Ingresos y Presupuesto de Ingresos deberán elaborarse por el Ayuntamiento con estricto apego a las disposiciones contenidas en las leyes y decretos federales, estatales y municipales y con base, además, en los convenios respectivos, en el Plan Municipal de Desarrollo y en el programa operativo anual y sus programas.
+
+###### Artículo 183.
+
+La vigilancia de la Hacienda Pública Municipal compete efectuarla al Ayuntamiento por conducto del Presidente Municipal y de la comisión de hacienda, patrimonio y cuenta pública, en los términos de esta Ley y, al Congreso del Estado por medio de la Contaduría Mayor de Hacienda. Cuando el Gobernador del Estado sea avalista de empréstitos o créditos concedidos al Ayuntamiento, podrá solicitar al Congreso del Estado que la Contaduría Mayor de Hacienda practique visitas de inspección respecto de los montos aplicados por tal concepto.
+
+### CAPITULO TERCERO. DE LA DEUDA PUBLICA MUNICIPAL
+
+###### Artículo 184.
+
+La deuda pública de los municipios, para los efectos de este capítulo, está constituida por las obligaciones de pago directas o contingentes, derivadas de financiamiento y a cargo de las dependencias y entidades que conforman la administración pública municipal. Se entiende por financiamiento la contratación de créditos, préstamos o empréstitos derivados de:
+
+I. La suscripción de títulos de crédito o cualquier otro documento pagadero a plazos;
+
+II. La adquisición de bienes de cualquier tipo, así como la contratación de obras o servicios cuyo pago se pacte a plazos;
+
+III. La celebración de actos jurídicos análogos a los anteriores; y
+
+IV. En general, todas las operaciones de endeudamiento que comprendan obligaciones a plazos, así como obligaciones de exigibilidad contingente derivadas de actos jurídicos, independientemente de la forma en que se les documente, contraídas por el Municipio.
+
+###### Artículo 185.
+
+El Congreso del Estado autorizará los montos de endeudamiento neto, que sean necesarios para el financiamiento de los programas del Ayuntamiento.
+
+###### Artículo 186.
+
+El Ayuntamiento, con base en su programa financiero anual, al someter a la Legislatura Local la contratación de endeudamiento, deberán proporcionar los elementos de juicio suficientes para fundar su propuesta, buscando que se mantenga un correcto equilibrio financiero.
+
+Los montos de endeudamiento aprobados por la Legislatura local serán la base para la contratación de los créditos necesarios para el financiamiento de los programas que deriven del Plan Municipal de Desarrollo e incluidos en el Presupuesto de Egresos del Ayuntamiento.
+
+###### Artículo 187.
+
+Además de lo previsto en el presente capítulo, se observará lo dispuesto en la Ley de Deuda Pública del Estado.
+
+### CAPITULO CUARTO. DE LOS BIENES DE DOMINIO PUBLICO Y PRIVADO DE LOS MUNICIPIOS
+
+###### Artículo 188.
+
+Son bienes de dominio público municipal:
+
+I. Los de uso común;
+
+II. Los inmuebles destinados por el Ayuntamiento a un servicio público;
+
+III. Los monumentos históricos, arqueológicos, artísticos, de naturaleza mueble e inmueble, de propiedad municipal;
+
+IV. Los muebles municipales que por su naturaleza normalmente no sean sustituibles;
+
+V. Las servidumbres, cuando el predio dominante sea uno de los indicados en este artículo;
+
+VI. Pinturas, murales, esculturas y cualquier obra artística incorporada permanentemente a los inmuebles del Municipio o del patrimonio de los organismos descentralizados, cuya conservación sea de interés histórico o artístico;
+
+VII. Los que ingresen por disposición de la Ley de Desarrollo Urbano para el Estado de Sonora; y
+
+VIII. Los demás que por disposición de otros ordenamientos, forman o deban formar parte del dominio público municipal, los propios que de hecho utilice para dicho fin y los equiparados a éstos conforme a esta Ley.
+
+###### Artículo 189.
+
+Los bienes del dominio público del Municipio son inalienables, imprescriptibles e inembargables, y sólo podrán enajenarse previa su desincorporación por parte del propio Ayuntamiento.
+
+###### Artículo 190.
+
+Son bienes de uso común:
+
+I. Las plazas, callejones, calles, avenidas y demás áreas destinadas a la vialidad, que sean municipales;
+
+II. Los accesos, caminos, calzadas y puentes, que no sean propiedad privada, del Estado o de la Federación;
+
+III. Los canales, zanjas y acueductos para uso de la población, construidos o adquiridos por los municipios dentro de su territorio, que no sean propiedad privada, del Estado o de la Federación;
+
+IV. Los parques y jardines municipales;
+
+V. Las construcciones en lugares públicos, para servicio u ornato;
+
+VI. Los muebles de propiedad municipal, que por su naturaleza no sean sustituibles, tales como documentos, expedientes, manuscritos, publicaciones, mapas, planos, fotografías, grabados, pinturas, películas, archivos, registros y similares; y
+
+VII. Los demás clasificados por otros ordenamientos como tales.
+
+###### Artículo 191.
+
+Son bienes destinados a un servicio público:
+
+I. Los inmuebles destinados a las dependencias y oficinas municipales;
+
+II. Los inmuebles afectos a los servicios públicos municipales;
+
+III. Los inmuebles afectos a un servicio público que constituyen el patrimonio de los organismos públicos descentralizados;
+
+IV. Los inmuebles de propiedad municipal que sean parte del equipamiento urbano; y
+
+V. Cualesquiera de los otros adquiridos por procedimientos de derecho público.
+
+###### Artículo 192.
+
+Cuando un bien inmueble propiedad del Municipio vaya a incorporarse al dominio público, por estar comprendido dentro de las disposiciones de esta Ley, el Ayuntamiento –por conducto de su Presidente Municipal- deberá emitir la declaratoria de incorporación correspondiente, la que se publicará por una sola vez en el Boletín Oficial del Gobierno del Estado y se inscribirá en el Registro Público de la Propiedad que corresponda, para que surta efectos contra terceros.
+
+Igual declaratoria de incorporación deberá emitirse respecto de los bienes que de hecho estén destinados al uso común, a un servicio público o a alguna de las actividades que se equiparen a éstos.
+
+###### Artículo 193.
+
+Para incorporar al dominio público un bien mueble propiedad del Municipio, bastará con la declaratoria emitida por el Ayuntamiento respectivo, por conducto de su Presidente Municipal, para que la incorporación surta todos los efectos.
+
+###### Artículo 194.
+
+Se concede acción popular para solicitar del Ayuntamiento la expedición de las declaratorias de incorporación a que se refiere el artículo que antecede. De no emitirse ésta en un plazo de sesenta días, contados a partir de la presentación de la solicitud, se entenderá que la resolución es en sentido negativo.
+
+###### Artículo 195.
+
+Los bienes inmuebles de dominio público de los municipios podrán ser desincorporados mediante acuerdo del Ayuntamiento, para lo cual se requerirá el voto de por lo menos las dos terceras partes de los integrantes del mismo, cuando por algún motivo dejen de ser útiles para fines de servicio público y se reúnan los siguientes requisitos:
+
+I. Un dictamen técnico que justifique la desincorporación.
+
+II. Tratándose de inmuebles, un plano de localización de los mismos, en el que se señale la superficie total del inmueble con sus medidas y colindancias.
+
+III. La especificación del aprovechamiento que se pretenda dar al bien. Tratándose de inmuebles, dicho aprovechamiento deberá ser compatible con las correspondientes declaratorias de provisiones, reservas, usos y destinos que señalen los planes y programas de desarrollo urbano municipales.
+
+Cuando la desincorporación tenga como finalidad la enajenación o gravamen de los bienes a que se refiere este precepto, cumpliéndose con los requisitos que señala el artículo 200 de esta Ley, podrá realizarse el trámite en forma simultánea, debiéndose publicar la resolución correspondiente en el Boletín Oficial del Gobierno del Estado.
+
+###### Artículo 196.
+
+Los bienes del dominio privado del Municipio son imprescriptibles e inembargables, y enunciativamente comprenden los siguientes:
+
+I. Los abandonados, adjudicados al Municipio por la autoridad judicial;
+
+II. Los que resulten de la liquidación o extinción de organismos de derecho público municipal;
+
+III. Los bienes inmuebles que adquiera o ingresen vía expropiación por causa de utilidad pública y tengan por objeto la constitución de reservas territoriales, el desarrollo urbano y habitacional y/o la regularización de la tenencia de la tierra;
+
+IV. Los inmuebles o muebles que adquiera el Municipio hasta en tanto no se destinen al uso común, a la prestación de un servicio público, o a alguna de las actividades que se equiparen a ésta, o de hecho se utilicen en estos fines; y
+
+V. Los bienes no comprendidos en el artículo 188 de esta Ley.
+
+###### Artículo 197.
+
+Los bienes de dominio privado de los municipios se destinarán prioritariamente al servicio de las diversas dependencias y entidades de la administración municipal.
+
+###### Artículo 198.
+
+Los inmuebles del dominio privado que no sean adecuados para destinarlos a los fines a que se refiere el artículo anterior, podrán ser objeto de los siguientes actos de administración y disposición:
+
+I. Transmisión del dominio a título oneroso o gratuito, según el caso, de conformidad con los criterios que determine el propio Ayuntamiento, a favor de instituciones públicas que tengan a su cargo resolver problemas de habitación popular para atender necesidades colectivas;
+
+II. Enajenación directa en forma onerosa de bienes inmuebles fuera de subasta, cuando se trate de satisfacer necesidades de suelo urbano para vivienda, o bien, cuando así lo determine ese cuerpo colegiado por mayoría calificada;
+
+III. Permuta con las entidades o dependencias del gobierno federal o estatal, de inmuebles que por su ubicación, características y aptitudes satisfagan necesidades de las partes;
+
+IV. Enajenación a título oneroso, para la adquisición de otros inmuebles que se requieran para la atención de los servicios a cargo de las dependencias y entidades de la administración municipal;
+
+V. Donación al gobierno federal o estatal, para que utilicen los inmuebles en los servicios públicos locales, en fines educativos o de asistencia social;
+
+VI. Arrendamiento, donación o comodato a favor de asociaciones o instituciones privadas que realicen actividades de interés social y que no persigan fines de lucro;
+
+VII. Enajenación a título oneroso, a favor de personas de derecho privado que requieran disponer de dichos inmuebles para la creación, fomento o conservación de una empresa que beneficie a la colectividad; y
+
+VIII. Enajenación o donación en los demás casos en que se justifique en los términos de esta Ley.
+
+###### Artículo 199.
+
+El Ayuntamiento podrá realizar los actos a los que se refiere el artículo anterior, cuando se reúnan los siguientes requisitos:
+
+I. Aprobación de por lo menos las dos terceras partes de sus integrantes;
+
+II. Que la necesidad de la realización de tales actos respondan a la ejecución de un programa, cuyo objetivo sea la satisfacción de suelo urbano para vivienda, atendiendo preferentemente a la población urbana y rural de bajos ingresos; o bien, al impulso o fomento de las actividades productivas o de desarrollo social, cívico, deportivo o cultural de sus comunidades;
+
+III. Que se especifique, en su caso, el destino que se proyecte dar al producto que se obtenga;
+
+IV. Que se anexe un avalúo catastral; asimismo, deberá acompañarse lo señalado en las fracciones II y III del artículo 195 de esta Ley; y
+
+V. Cuando las enajenaciones de bienes inmuebles requieran la división de éstos en manzanas, lotes y calles, deberá cumplirse con las normas vigentes en materia de fraccionamientos.
+
+###### Artículo 200.
+
+Ninguna enajenación, uso, disfrute, aprovechamiento o afectación de bienes inmuebles del Municipio, podrá hacerse:
+
+I. Sin la aprobación de las dos terceras partes de los integrantes del Ayuntamiento.
+
+II. A favor de los miembros del Ayuntamiento o de los titulares de las dependencias y entidades de la administración pública municipal, estatal o federal, incluyendo aquellos de los que pudiera resultar algún beneficio para ellos, como pueden ser: su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o los integrantes del Ayuntamiento formen o hayan formado parte.
+
+Contravenir lo anterior implicará responsabilidad del servidor público que la realice o promueva.
+
+###### Artículo 201.
+
+El Ayuntamiento puede dar en arrendamiento los bienes que integren su patrimonio hasta por el término de diez años, pero necesita la aprobación de cuando menos las dos terceras partes de sus miembros cuando el arrendamiento exceda de su período constitucional.
+
+###### Artículo 202.
+
+Los inmuebles del dominio privado del Municipio, podrán ser objeto de enajenación previa autorización del mismo Ayuntamiento por el voto de las dos terceras partes de los integrantes del mismo.
+
+La enajenación onerosa de bienes muebles e inmuebles de los municipios, deberá ser de contado y se efectuará en subasta pública que garantice al Municipio las mejores condiciones disponibles en cuanto a precio de venta, conforme a las siguientes bases:
+
+I. La convocatoria, que deberá contener el precio fijado por el Ayuntamiento y la identificación de los bienes a rematarse, se publicará una sola vez y por lo menos con quince días de anticipación a la fecha señalada para la diligencia de remate, en uno de los periódicos de mayor circulación en el Municipio, en la tabla de avisos del Ayuntamiento y en cualquier otro lugar público.
+
+II. Será postura legal la que cubra la totalidad del precio fijado y los licitadores deberán depositar previamente a la celebración de la diligencia, al menos el cincuenta por ciento en efectivo de dicho precio.
+
+III. El Síndico Municipal declarará fincado el remate y el Ayuntamiento determinará si procede o no aprobarlo. De aprobarse, el mismo acuerdo ordenará se emita el documento justificativo de propiedad, que tendrá el carácter de escritura pública.
+
+IV. En la diligencia de remate y en cualquier otra formalidad se aplicará supletoriamente el Código de Procedimientos Civiles para el Estado de Sonora.
+
+###### Artículo 203.
+
+Cuando se trate de satisfacer necesidades de suelo para vivienda, el Ayuntamiento se reservará el dominio de los bienes, hasta en tanto se cumplan las siguientes condiciones:
+
+I. Que se edifique en el inmueble, casa suficientemente apta para habitarse de construcción permanente;
+
+II. Que se cubra totalmente el precio fijado, cuando se haya autorizado el pago de éste en parcialidades; y
+
+III. Que se utilice el bien inmueble y su edificación exclusivamente como casa habitación.
+
+###### Artículo 204.
+
+En todas las enajenaciones que realice el Ayuntamiento para satisfacer necesidades de suelo para vivienda, quedará constituido de pleno derecho el patrimonio familiar sobre los inmuebles objeto de la enajenación. Para estos efectos, los particulares que deseen adquirir dichos bienes deberán acreditar ante las autoridades municipales:
+
+I. Que es mayor de edad o que está emancipado.
+
+II. Que es vecino del Municipio.
+
+III. La existencia de la familia a cuyo favor se va a constituir el patrimonio. La comprobación de los vínculos familiares se hará con las copias certificadas de las actas del Registro Civil.
+
+IV. El promedio de sus ingresos, a fin de que pueda calcularse, la posibilidad de pagar el precio del inmueble que se le venda.
+
+V. La no propiedad de bienes inmuebles. Si el que tenga interés demuestra que quien hizo la compra era propietario de bienes inmuebles, la enajenación estará afectada de nulidad absoluta.
+
+Cumplidos los requisitos arriba expuestos y mediando solicitud, el Síndico Municipal podrá celebrar promesas de compra-venta sobre los lotes del patrimonio municipal en tanto el Ayuntamiento autoriza la respectiva enajenación.
+
+###### Artículo 205.
+
+En las enajenaciones de inmuebles que realice el Ayuntamiento en los términos del artículo anterior, no se requerirá el otorgamiento de escritura ante Notario. El documento que contenga la enajenación tendrá el carácter de escritura pública y deberá ser suscrito por el Presidente Municipal, el Secretario del Ayuntamiento, el Síndico Municipal y el particular respectivo.
+
+El documento que contenga dicha enajenación, deberá ser inscrito en el Registro Público de la Propiedad que corresponda, dentro de los quince días siguientes a su suscripción, previas las gestiones que para tal efecto deberá realizar el Síndico Municipal. Será causa de responsabilidad del Síndico Municipal, en los términos de Ley, el incumplimiento de lo antes establecido.
+
+###### Artículo 206.
+
+El documento en que conste la enajenación realizada en los términos del artículo 204 de esta Ley, deberá contener la siguiente cláusula: "El inmueble objeto de este acto jurídico, se encuentra destinado al patrimonio de familia, en beneficio de la familia del adquiriente, por lo que es inalienable y no puede ser objeto de embargo ni gravamen alguno conforme lo dispone el Código Civil para el Estado de Sonora, de lo cual deberá tomarse nota al hacerse la inscripción en el Registro Público de la Propiedad".
+
+###### Artículo 207.
+
+Cumplidas las condiciones a que se refiere el artículo 203 de esta Ley, el Síndico Municipal deberá girar oficio al encargado del Registro Público de la Propiedad que corresponda, haciendo de su conocimiento tal situación, para que, previas las anotaciones registrales del caso, surta plenamente sus efectos la enajenación realizada.
+
+###### Artículo 208.
+
+El Ayuntamiento, a través de su Síndico Municipal, deberá llevar un registro actualizado de todas las enajenaciones que realice.
+
+###### Artículo 209.
+
+Todas las enajenaciones que realice el Ayuntamiento para satisfacer las necesidades de suelo urbano para vivienda, deberán sujetarse a los objetivos que señalen las leyes federales y estatales en esta materia, evitando el acaparamiento de suelo, propiciando la oferta oportuna de tierra para vivienda a las familias de escasos recursos, fomentando que la vivienda sea un factor de ordenación territorial y estructuración interna de los centros de población y -en general- de arraigo, protección y mejoría de la población urbana y rural.
+
+###### Artículo 210.
+
+Los actos jurídicos que se ejecuten en contravención de lo previsto en este capítulo, producirán la nulidad absoluta de dichas operaciones.
+
+###### Artículo 211.
+
+Por razones de interés público, los jueces están obligados a comunicar al Ayuntamiento respectivo, el inicio de cualquier juicio o procedimiento tendiente a acreditar la posesión o propiedad sobre bienes inmuebles.
+
+###### Artículo 212.
+
+Cuando se trate de recuperar la posesión provisional o definitiva o de reivindicar los inmuebles de dominio privado, o de obtener el cumplimiento, la rescisión o la nulidad de los contratos celebrados respecto de dichos bienes, el Ayuntamiento deberá deducir ante los tribunales las acciones que correspondan, mismas que se tramitarán en los términos señalados en el Código de Procedimientos Civiles del Estado de Sonora. Presentada la demanda, el Juez, a solicitud del Ayuntamiento de que se trate y siempre que encuentre razón que lo amerite, podrá autorizar la ocupación administrativa provisional de los inmuebles. La resolución denegatoria podrá revocarse en cualquier estado del pleito por causas supervenientes.
+
+###### Artículo 213.
+
+Cuando se requiera afectar un bien inmueble de propiedad privada, que por su ubicación y características satisfaga las necesidades para la realización de una obra pública, podrá ser permutado por bienes de propiedad municipal.
+
+### CAPITULO QUINTO. DE LAS CONCESIONES SOBRE LOS BIENES DE DOMINIO PUBLICO
+
+###### Artículo 214.
+
+Los derechos sobre la explotación, uso y aprovechamiento de los bienes inmuebles del dominio público municipal, se adquirirán mediante el otorgamiento de las concesiones respectivas, mismas que no confieren derechos reales, otorgan simplemente frente a la administración y sin perjuicio de terceros, el derecho a realizar los usos, aprovechamientos o explotaciones de acuerdo con las reglas y condiciones que establezcan las leyes y el documento que contenga la concesión.
+
+###### Artículo 215.
+
+Las concesiones sobre bienes inmuebles del dominio público municipal se otorgarán por tiempo determinado. El plazo de vigencia será fijado por el Ayuntamiento, el cual podrá ser prorrogado hasta por un plazo equivalente; en caso de que el término exceda al período del Ayuntamiento que lo otorgue, la concesión requerirá de su aprobación por mayoría calificada.
+
+###### Artículo 216.
+
+Para el otorgamiento de las concesiones sobre inmuebles del dominio público municipal, así como su prórroga, se atenderá:
+
+I. A la conveniencia de la explotación, uso o aprovechamiento del bien inmueble;
+
+II. Al monto de la inversión que el concesionario pretenda aplicar;
+
+III. Al plazo de amortización de la inversión realizada;
+
+IV. Al beneficio social y económico que signifique para el Municipio;
+
+V. Al cumplimiento por parte del concesionario de las obligaciones a su cargo; y
+
+VI. A la reinversión que se haga para el mejoramiento de las instalaciones o del servicio prestado.
+
+###### Artículo 217.
+
+Al término del plazo de la concesión, las obras, instalaciones y los bienes dedicados a la explotación de la misma, revertirán a favor del Municipio. En caso de prórroga o de otorgamiento de una nueva concesión, para la fijación del monto de los derechos se deberán considerar, además del terreno, la (sic) obras, instalaciones y demás bienes dedicados a la explotación de la concesión.
+
+###### Artículo 218.
+
+Los derechos y obligaciones derivados de las concesiones sobre bienes inmuebles del dominio público, sólo podrán cederse con la autorización previa del Ayuntamiento, exigiendo al cesionario que reúna los mismos requisitos y condiciones que se tuvieron en cuenta para el otorgamiento de la concesión respectiva.
+
+Cualquier operación que se realice en contravención a este artículo, estará afectada de nulidad absoluta, y el concesionario perderá a favor del Municipio los derechos que deriven de la concesión y los bienes afectos a ella.
+
+###### Artículo 219.
+
+Las concesiones sobre bienes de dominio público municipal, se otorgarán, extinguirán, revocarán y se decretará su nulidad y caducidad en la misma forma y términos que para dichos actos se señalen en la Ley de Bienes y Concesiones y la de Desarrollo Urbano vigentes en el Estado, así como el Código Civil para el Estado de Sonora, en todo lo que resulte aplicable.
+
+### CAPITULO SEXTO. DE LAS ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS DE BIENES MUEBLES
+
+###### Artículo 220.
+
+El presente capítulo es de observancia general y tiene por objeto regular las acciones de planeación, programación, presupuestación, gasto, control, evaluación y contratación de las adquisiciones y arrendamientos de bienes muebles, así como las relativas a la prestación de servicios de cualquier naturaleza que realice el Ayuntamiento por conducto de las dependencias y entidades de la administración pública municipal.
+
+###### Artículo 221.
+
+Las dependencias y entidades, en el proceso de planeación que realicen de sus adquisiciones, arrendamientos y servicios, deberán:
+
+I. Sujetarse a los objetivos, estrategias y líneas de acción contenidas en el Plan Municipal de Desarrollo y a los programas que se deriven del mismo que, en su caso, les corresponda ejecutar;
+
+II. Ajustarse a los objetivos y metas de sus correspondientes programas-presupuestos; y
+
+III. Respetar las demás disposiciones legales que rijan las operaciones objeto del presente ordenamiento.
+
+###### Artículo 222.
+
+Los programas de adquisiciones, arrendamientos y servicios se llevarán a cabo con base en las necesidades reales de las dependencias y entidades; dichos programas deberán contener la desagregación que sea necesaria, para incluir en ellos todos los bienes muebles que se proyecte adquirir o arrendar y los servicios de cualquier naturaleza que se pretendan utilizar, así como las fechas en que se requieran los mismos.
+
+###### Artículo 223.
+
+La administración pública municipal directa contará con un comité de adquisiciones, arrendamientos y servicios; asimismo, cada una de las entidades paramunicipales, podrá contar con su propio comité, para la aplicación de este capítulo y de las disposiciones que se deriven del mismo.
+
+Los comités se integrarán y ejercerán las funciones que se le señalan en el reglamento respectivo.
+
+###### Artículo 224.
+
+Las adquisiciones, según los requerimientos de cada caso, se llevarán a cabo mediante el fincamiento de pedidos o la adjudicación de contratos, mismos que para su formalización serán suscritos por la dependencia o entidad convocante.
+
+###### Artículo 225.
+
+En la administración pública municipal directa y paramunicipal, los pedidos y contratos de adquisiciones se adjudicarán:
+
+I. Mediante licitación pública;
+
+II. Mediante invitación restringida, cuando el monto de las operaciones se encuentre en los rangos señalados por el Ayuntamiento para este tipo de procedimiento; o
+
+III. Sin llevar a cabo licitación, en los supuestos establecidos en este capítulo y cuando el monto de las operaciones se encuentre entre los rangos señalados para este tipo de procedimientos.
+
+###### Artículo 226.
+
+El Ayuntamiento podrá realizar los procedimientos señalados en el artículo anterior mediante el uso de medios remotos de comunicación electrónica, atendiendo las disposiciones señaladas en el reglamento respectivo.
+
+###### Artículo 227.
+
+En ningún caso se podrá fraccionar una operación en varias operaciones de monto menor, con la finalidad de evitar llevar a cabo los procedimientos previstos en el artículo anterior. En consecuencia, en cada operación deberá considerarse el monto total presupuestado en el año, a fin de determinar si queda comprendida en los montos máximos y límites establecidos por el Ayuntamiento.
+
+###### Artículo 228.
+
+Los montos máximos y límites serán determinados por el Ayuntamiento en su Presupuesto de Egresos.
+
+###### Artículo 229.
+
+Los pedidos y contratos se adjudicarán a través de licitación pública, mediante convocatoria que se publicará en la tabla de avisos del Ayuntamiento y en el medio impreso de mayor circulación del Municipio, para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar al Ayuntamiento las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
+
+###### Artículo 230.
+
+Las convocatorias podrán referirse a uno o varios pedidos o contratos. Las bases de cada licitación deberán contener la descripción completa de los bienes muebles con sus especificaciones, indicando, en su caso, de manera particular, los requerimientos de carácter técnico y las demás circunstancias pertinentes que se habrán de considerar para la adjudicación del pedido o contrato correspondiente.
+
+###### Artículo 231.
+
+Todo interesado que satisfaga los requisitos de la convocatoria, las bases y las especificaciones de la licitación tendrá derecho a presentar proposiciones, ya sea por escrito o a través de medios remotos de comunicación electrónica, conforme a lo establecido en el reglamento que expida el Ayuntamiento.
+
+###### Artículo 232.
+
+Las convocantes, con base en el análisis comparativo de las proposiciones emitidas y en el propio presupuesto, emitirán un dictamen que servirá como fundamento para el fallo, mediante el cual se adjudicará el pedido o contrato a la persona que, de entre los proponentes, reúnan las condiciones legales, técnicas y económicas requeridas por la convocante y garantice, satisfactoriamente, el cumplimiento de las obligaciones respectivas.
+
+###### Artículo 233.
+
+Las convocantes no adjudicarán el pedido o contrato cuando las posturas presentadas no fueran aceptables y procederán a substanciar el procedimiento mediante invitación restringida, debiendo sujetar el procedimiento a lo establecido en los artículos 231 y 232 de este ordenamiento.
+
+###### Artículo 234.
+
+Se podrán adjudicar, directamente, sin licitación pública, pedidos o contratos de adquisiciones, en los siguientes casos:
+
+I. Cuando existan condiciones o circunstancias extraordinarias o imprevisibles;
+
+II. Cuando peligre o se altere el orden social, la economía, los servicios públicos, la salubridad, la seguridad o el ambiente de una zona o región del Municipio, como consecuencia de desastres producidos por fenómenos naturales, por casos fortuitos o de fuerza mayor, o cuando existan circunstancias que puedan provocar trastornos graves, pérdidas o costos adicionales importantes;
+
+III. Cuando los bienes muebles objeto de la adquisición resulten necesarios para la prestación del servicio de seguridad pública;
+
+IV. Cuando el pedido o contrato sólo pueda celebrarse con una determinada persona, por ser ésta la titular de la o las patentes de los bienes de que se trate;
+
+V. Cuando se hubiere rescindido el contrato o pedido respectivo;
+
+VI. Cuando se hubiere declarado desierto el concurso, por no haberse presentado proposiciones en el procedimiento de licitación pública; y
+
+VII. Cuando se trate de adquisiciones de bienes perecederos, granos y productos alimenticios o semiprocesados;
+
+###### Artículo 235.
+
+En los contratos o pedidos a que se refiere este capítulo, podrán incorporarse las modalidades que tiendan a garantizar al Municipio las mejores condiciones en las adquisiciones.
+
+###### Artículo 236.
+
+Los derechos y obligaciones que se deriven de los pedidos o contratos de adquisiciones una vez adjudicados, no podrán cederse, en forma parcial o total, a favor de cualquiera otra persona física o moral.
+
+###### Artículo 237.
+
+Dentro de los presupuestos aprobados y disponibles, las convocantes podrán, por razones fundadas, modificar los pedidos o contratos, dentro del año fiscal en que se realizó la operación, siempre que el monto total de las modificaciones no rebase, en conjunto, el veinte por ciento de los conceptos o volúmenes establecidos originalmente en los mismos.
+
+Tratándose de pedidos o contratos, en los que se incluyan bienes de diferentes características, el porcentaje se aplicará para cada bien de que se trate.
+
+###### Artículo 238.
+
+Los proveedores quedarán obligados a responder de los defectos y vicios ocultos de los bienes y de cualquiera otra responsabilidad en que hubieren incurrido, en los términos señalados en el pedido o contrato respectivo y en el Código Civil para el Estado de Sonora.
+
+###### Artículo 239.
+
+Los actos, pedidos y contratos que se realicen en contravención a lo dispuesto por esta Ley y las disposiciones que de la misma se deriven, estarán afectados de nulidad absoluta.
+
+###### Artículo 240.
+
+Procederá la rescisión de los contratos y la cancelación de los pedidos, cuando se incumplan las obligaciones derivadas de sus estipulaciones o de las disposiciones de esta Ley y de las demás que sean aplicables.
+
+Asimismo, podrán darse por terminados los actos mencionados cuando concurran razones de interés público.
+
+El contenido de la presente disposición deberá de incorporarse al clausulado de los pedidos y contratos de adquisiciones.
+
+###### Artículo 241.
+
+Las personas físicas o morales que provean bienes muebles al Ayuntamiento deberán garantizar:
+
+I. La seriedad de las proposiciones en los procedimientos de adjudicación;
+
+II. La correcta aplicación de los anticipos que reciban, cuando éstos procedan; y
+
+III. El cumplimiento de los pedidos o contratos.
+
+###### Artículo 242.
+
+Las garantías a que se refiere el artículo anterior se constituirán por el proveedor a favor y satisfacción de:
+
+I. La Tesorería Municipal, por pedidos o contratos que se celebren con la administración pública directa; y
+
+II. Las entidades paramunicipales, cuando los pedidos o contratos se celebren con ellas.
+
+###### Artículo 243.
+
+En los pedidos o contratos se podrá pactar el otorgamiento de anticipos, los cuales se determinarán por la contratante, atendiendo a las características particulares de cada operación.
+
+###### Artículo 244.
+
+El arrendamiento de bienes muebles, sólo podrá celebrarse cuando se demuestre que no es posible o conveniente su adquisición y siempre que la renta no exceda de los importes máximos que autorice el Ayuntamiento.
+
+Los servicios, según los requerimientos de cada caso, se podrán suministrar mediante el fincamiento de órdenes de servicio o la adjudicación de contratos.
+
+###### Artículo 245.
+
+El ejercicio del gasto público municipal, en materia de adquisiciones, arrendamientos y servicios, que realicen las dependencias y las entidades paramunicipales, se llevará a cabo de acuerdo con las siguientes acciones:
+
+I. Formalización de compromisos que signifiquen obligaciones con cargo a sus presupuestos autorizados;
+
+II. Ministración de fondos a proveedores a través de anticipos, en su caso; y
+
+III. Pago de las obligaciones derivadas de los compromisos contraídos a través del fincamiento de pedidos, ordenes de servicio y contratos.
+
+###### Artículo 246.
+
+El Órgano de Control y Evaluación Gubernamental, con base en sus atribuciones legales, podrá revisar los procedimientos de adquisiciones, arrendamientos y servicios, con el objeto de comprobar el cumplimiento de las presentes disposiciones, así como la calidad, cantidad, el precio y demás circunstancias relevantes de las operaciones.
+
+###### Artículo 247.
+
+Las personas interesadas podrán inconformarse, ya sea por escrito o a través de medios remotos de comunicación electrónica, ante el Órgano de Control y Evaluación Gubernamental por cualquier acto del procedimiento de contratación que contravenga las disposiciones que rigen las materias objeto de este capítulo.
+
+###### Artículo 248.
+
+La inconformidad será presentada dentro de los diez días hábiles siguientes a aquél en que ocurra el acto o el inconforme tenga conocimiento de éste.
+
+Transcurrido el plazo establecido, precluye para los interesados el derecho a inconformarse, sin perjuicio de que el Órgano de Control y Evaluación Gubernamental pueda actuar en cualquier tiempo, en términos de Ley.
+
+###### Artículo 249.
+
+El promovente en la inconformidad que presente deberá manifestar, bajo protesta de decir verdad, los hechos que le consten relativos al acto o actos que aduce son irregulares y acompañar la documentación que sustente su petición. La falta de protesta será causa de desechamiento de dicha inconformidad.
+
+###### Artículo 250.
+
+El Órgano de Control y Evaluación Gubernamental podrá, de oficio o en atención a las inconformidades presentadas, realizar las investigaciones que resulten pertinentes, a fin de verificar que los actos de cualquier procedimiento de contratación se ajustan a las disposiciones de esta Ley, dentro de un plazo que no excederá de cuarenta y cinco días naturales contados a partir de la fecha en que tenga conocimiento del acto irregular. Transcurrido dicho plazo, deberá emitir la resolución correspondiente dentro de los treinta días hábiles siguientes.
+
+###### Artículo 251.
+
+Una vez admitida la inconformidad o iniciadas las investigaciones, el Órgano de Control y Evaluación Gubernamental deberá hacerlo del conocimiento de terceros que pudieran resultar perjudicados, para que dentro del término de diez días naturales manifiesten lo que a su interés convenga. Transcurrido dicho plazo sin que el tercero perjudicado haga manifestación alguna, se tendrá por precluido su derecho.
+
+###### Artículo 252.
+
+Durante la investigación de los hechos, el Órgano de Control y Evaluación Gubernamental podrá suspender el procedimiento de contratación cuando:
+
+I. Se advierta que existan o pudieren existir actos contrarios a las disposiciones de este capítulo o a las que de ella deriven, o bien, que de continuarse con el procedimiento de contratación pudiera producirse daños o perjuicios a la dependencia o entidad de que se trate; y
+
+II. Con la suspensión no se cause perjuicio al interés social y no se contravengan disposiciones de orden público.
+
+Cuando sea el inconforme quien solicite la suspensión, éste deberá garantizar los daños y perjuicios que pudiere ocasionar, mediante fianza por el monto que fije el Órgano de Control y Evaluación Gubernamental, de conformidad con los lineamientos que al efecto expida; sin embargo, el tercero perjudicado podrá dar contra fianza equivalente a la que corresponda a la fianza, en cuyo caso quedará sin efecto la suspensión.
+
+###### Artículo 253.
+
+La resolución que emita el Órgano de Control y Evaluación Gubernamental tendrá por consecuencia: la nulidad del acto o actos irregulares, la nulidad total del procedimiento, la declaración relativa a lo infundado de la inconformidad o que la investigación realizada de oficio no derivó en alguna irregularidad.
+
+En contra de la resolución de inconformidad que dicte el Órgano de Control y Evaluación Gubernamental, se podrá interponer el recurso de inconformidad a que se refiere el artículo 428 de esta Ley, o bien impugnarla ante las instancias jurisdiccionales competentes.
+
+###### Artículo 254.
+
+Los proveedores podrán presentar quejas ante el Órgano de Control y Evaluación Gubernamental, con motivo del incumplimiento de los términos y condiciones pactados en los contratos que tengan celebrados con la administración pública municipal.
+
+Una vez recibida la queja respectiva, el Órgano de Control y Evaluación Gubernamental señalará día y hora para que tenga verificativo la audiencia de conciliación y citará a las partes. Dicha audiencia se deberá celebrar dentro de los quince días hábiles siguientes a la fecha de recepción de la queja.
+
+En todo caso, el procedimiento de conciliación deberá agotarse en un plazo no mayor de sesenta días hábiles contados a partir de la fecha en que se haya celebrado la primera sesión.
+
+De toda diligencia deberá levantarse acta circunstanciada en la que consten los resultados de las actuaciones.
+
+###### Artículo 255.
+
+En el supuesto de que las partes lleguen a una conciliación, el convenio respectivo obligará a las mismas y su cumplimiento podrá ser demandado por la vía judicial correspondiente. En caso contrario quedarán a salvo sus derechos para que los haga valer ante los tribunales judiciales.
+
+###### Artículo 256.
+
+Los licitantes o proveedores que infrinjan las disposiciones de este capítulo, serán sancionados por el Órgano de Control y Evaluación Gubernamental con multa equivalente a una cantidad que podrá fluctuar entre diez y quinientas veces el salario mínimo general vigente en la capital del Estado, elevado al mes en la fecha de la infracción.
+
+###### Artículo 257.
+
+El Órgano de Control y Evaluación Gubernamental aplicará las sanciones que procedan, conforme a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios, las que serán independientes de las de orden civil y penal que puedan derivar de la comisión de los mismos hechos.
+
+## TITULO OCTAVO. DE LOS SERVICIOS PUBLICOS MUNICIPALES
+
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+
+###### Artículo 258.
+
+El presente título regula los servicios públicos de: alumbrado público; limpia, recolección, traslado, tratamiento y disposición final de residuos; mercados y centrales de abasto; panteones; calles, parques, jardines y campos deportivos y su equipamiento; estacionamientos y rastros.
+
+Los servicios públicos de agua potable, drenaje, alcantarillado y tratamiento y disposición de aguas residuales, se prestarán en los términos de las leyes y reglamentos de la materia. En los mismos términos estarán las funciones de seguridad pública, policía preventiva y tránsito.
+
+###### Artículo 259.
+
+El Ayuntamiento prestará los servicios públicos de la siguiente forma:
+
+I. Directamente, a través de sus propias dependencias administrativas y órganos desconcentrados;
+
+II. A través de los organismos públicos descentralizados creados para tal fin y empresas de participación municipal mayoritarias;
+
+III. Mediante el régimen de concesión y concertación con particulares; y
+
+IV. En coordinación y asociación, con ayuntamientos del Estado o de otro u otros Estados, o mediante la celebración de convenios con el Ejecutivo del Estado para que éste los preste en forma temporal o coordinadamente con el Ayuntamiento.
+
+Para los efectos del párrafo anterior, tratándose de la asociación de municipios del Estado con municipios de otro u otros Estados, los municipios del Estado de Sonora deberán contar con la aprobación del Congreso del Estado.
+
+###### Artículo 260.
+
+En la prestación de los servicios públicos deberá observarse lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y la del Estado Libre y Soberano de Sonora, la presente Ley y las Leyes de Desarrollo Urbano y de Salud para el Estado de Sonora, así como las disposiciones reglamentarias que se deriven de éstas, las Normas Oficiales y Técnicas Mexicanas y los demás ordenamientos jurídicos federales y estatales aplicables.
+
+### CAPITULO SEGUNDO. DE LAS CONCESIONES PARA LA PRESTACION DE LOS SERVICIOS PUBLICOS
+
+###### Artículo 261.
+
+El Ayuntamiento por mayoría calificada, decidirá sobre la conveniencia de prestar determinado servicio público, de los previstos en este título, a través del otorgamiento de la concesión respectiva.
+
+Sólo las personas físicas o morales que gocen de concesión, expedida conforme a la presente Ley, podrán prestar los servicios públicos.
+
+###### Artículo 262.
+
+Emitido el acuerdo a que se refiere el artículo anterior, el Presidente Municipal y el Secretario del Ayuntamiento procederán a convocar a las personas físicas o morales interesadas. La convocatoria se publicará por una sola vez en el Boletín Oficial del Gobierno del Estado y en uno de los periódicos de circulación en el Municipio; asimismo, deberá fijarse por el término de quince días naturales, en el tablero de avisos del Ayuntamiento y dársele la demás difusión que el propio Ayuntamiento considere necesaria. El contenido de la misma se limitará a lo siguiente:
+
+I. El objeto y duración de la concesión;
+
+II. El centro de población donde vaya a prestarse el servicio público;
+
+III. La autoridad municipal ante quien se deba presentar la solicitud correspondiente y el domicilio de la misma;
+
+IV. La fecha límite para la presentación de las solicitudes;
+
+V. Los requisitos que deberán cumplir los interesados;
+
+VI. Las condiciones y la forma en que deberán otorgarse las garantías para responder de la prestación del servicio público; y
+
+VII. Los demás que considere necesarios el Ayuntamiento.
+
+###### Artículo 263.
+
+No podrán presentar solicitudes para el otorgamiento de concesiones de servicios públicos las personas físicas o morales siguientes:
+
+I. Aquellas en cuya empresa participe algún integrante del Ayuntamiento;
+
+II. Los servidores públicos de la administración pública federal, estatal y municipal;
+
+III. Los cónyuges o sus parientes consanguíneos en línea recta sin limitación de grado, colateralmente y por afinidad hasta el cuarto grado de las personas a que se refieren las fracciones anteriores;
+
+IV. Las empresas en que sean representantes o tengan intereses económicos las personas a que se refieren las fracciones anteriores;
+
+V. Las personas físicas o morales que en los últimos cinco años les haya sido revocado una concesión para la prestación de servicios públicos municipales; y
+
+VI. Las demás que por cualquier causa se encuentren legalmente impedidas para ello.
+
+###### Artículo 264.
+
+El Ayuntamiento exigirá a los solicitantes de las concesiones, el cumplimiento de los siguientes requisitos:
+
+I. Capacidad técnica y financiera;
+
+II. Testimonio del acta constitutiva y de las modificaciones en su caso, tratándose de personas morales; y
+
+III. Declaración escrita y bajo protesta de decir verdad, de no encontrarse en los supuestos del artículo anterior.
+
+###### Artículo 265.
+
+El Ayuntamiento proporcionará, previo el pago que corresponda, la información que resulte necesaria respecto a las condiciones en que deberá prestarse el servicio público cuya concesión se pretenda otorgar.
+
+###### Artículo 266.
+
+Las personas físicas o morales interesadas en obtener la concesión de servicio público, deberán presentar su solicitud por escrito ante la autoridad municipal señalada en la convocatoria y dentro del plazo fijado en ésta.
+
+Si la autoridad municipal que recibió la solicitud determina la falta o el incumplimiento de algún requisito o que se requiera la aclaración de cualquier circunstancia, lo notificará por escrito al interesado, para que en el término de cinco días hábiles subsane la omisión o realice las aclaraciones correspondientes; en caso contrario, se tendrá por no presentada la solicitud respectiva.
+
+###### Artículo 267.
+
+Concluido el período de recepción de solicitudes, el Ayuntamiento, con base en un dictamen técnico, financiero, legal y administrativo emitirá, dentro del término de veinte días hábiles, la resolución correspondiente, que deberá ser aprobada por mayoría calificada.
+
+En dicha resolución se asentará cuales solicitudes fueron rechazadas, indicarán las razones que motivaron el rechazo y determinará discrecionalmente, que persona de entre los solicitantes, reúne las condiciones técnicas, financieras, legales y administrativas para ser el titular de la concesión del servicio público de que se trate.
+
+Los puntos resolutivos de dicho fallo se publicarán por una sola vez, en el Boletín Oficial del Gobierno del Estado.
+
+###### Artículo 268.
+
+Emitida la resolución a que se refiere el artículo anterior, el Presidente Municipal y el Secretario del Ayuntamiento procederán a expedir a favor de la persona designada, el documento que contenga la concesión relativa, en el cual se expresará por lo menos: los derechos y obligaciones del concesionario; el plazo de la concesión; la cláusula de reversión; las causas de extinción de la concesión y las demás disposiciones que establezca el Ayuntamiento.
+
+###### Artículo 269.
+
+Las concesiones de servicios públicos se otorgarán por tiempo determinado y el plazo de vigencia de éstas será fijado por el Ayuntamiento en forma tal, que durante ese plazo el concesionario amortice totalmente las inversiones que deba hacer en razón directa del servicio público de que se trate.
+
+###### Artículo 270.
+
+El Ayuntamiento, por mayoría calificada, podrá prorrogar el plazo de vigencia de las concesiones, siempre que el concesionario hubiere cumplido con las obligaciones derivadas de la concesión y no resuelva prestar directamente el servicio público de que se trate.
+
+La prórroga se determinará atendiendo a la reinversión que pretenda hacer el concesionario para el mejoramiento de las instalaciones o del servicio público prestado.
+
+###### Artículo 271.
+
+El concesionario, previamente a la prestación del servicio público, deberá tramitar y obtener de las autoridades correspondientes los dictámenes, permisos, licencias y demás autorizaciones que se requieran para dicha prestación. Las autoridades estatales competentes otorgarán a los concesionarios las facilidades necesarias para el cumplimiento de esta disposición.
+
+###### Artículo 272.
+
+La concesión otorga a su titular, el derecho de prestar el servicio público concesionado y el de cobrar las tarifas o cuotas previamente autorizadas por el Congreso del Estado.
+
+###### Artículo 273.
+
+Los concesionarios deberán cubrir anualmente a la Tesorería Municipal, y conforme al monto que determinen las leyes fiscales, los derechos que correspondan.
+
+###### Artículo 274.
+
+Son obligaciones de los concesionarios:
+
+I. Prestar el servicio público concesionado con sujeción a lo establecido en esta Ley, sus disposiciones reglamentarias, las Leyes de Salud y de Desarrollo Urbano para el Estado de Sonora y demás leyes aplicables, así como a las políticas, prioridades y lineamientos establecidos en los programas de desarrollo urbano y de prestación del servicio público correspondiente y a los términos de la concesión;
+
+II. Disponer del equipo, personal e instalaciones suficientes para satisfacer las demandas del servicio público concesionado;
+
+III. Conservar en óptimas condiciones las obras e instalaciones afectas o dedicadas al servicio público concesionado, así como renovar y modernizar el equipo necesario para su prestación, conforme a los adelantos técnicos;
+
+IV. Cumplir con los horarios aprobados por el Ayuntamiento para la prestación del servicio público;
+
+V. Exhibir en lugar visible y en forma permanente, las tarifas o cuotas previamente autorizadas por el Congreso del Estado, debiendo sujetarse a las mismas en el cobro del servicio público que presten;
+
+VI. Cubrir a la Tesorería Municipal los derechos que correspondan por la concesión otorgada, en los términos de las leyes fiscales aplicables;
+
+VII. Otorgar garantías a favor del Ayuntamiento para asegurar el cumplimiento de las obligaciones que adquieran conforme a lo previsto en esta Ley, sus reglamentos y en la concesión. La clase y monto de la garantía, serán fijadas por el Ayuntamiento y regirán hasta que éste no expida al concesionario, constancia de que cumplió con todas las obligaciones contraídas. El Ayuntamiento estará facultado para determinar la modificación de dicha garantía cuando a su juicio resulte insuficiente;
+
+VIII. Asumir la responsabilidad financiera de la prestación del servicio público concesionado;
+
+IX. Realizar las obras e instalaciones que se requieran para prestar el servicio público, previa autorización del Ayuntamiento de los estudios y proyectos relativos. La ejecución de dichas obras e instalaciones, así como la reconstrucción de las mismas se llevará a cabo con la supervisión técnica del propio Ayuntamiento;
+
+X. Guardar y custodiar los bienes destinados al servicio público, cuando se extinga la concesión, hasta en tanto el Ayuntamiento tome posesión real de los mismos; y
+
+XI. Las demás que establezca el Ayuntamiento.
+
+###### Artículo 275.
+
+El concesionario no podrá iniciar la prestación del servicio público, sino después de que sean aprobadas las instalaciones que conforme a las autorizaciones relativas hubiere de construir o adaptar.
+
+###### Artículo 276.
+
+El concesionario está obligado a iniciar la prestación del servicio público dentro de un plazo de veinte días hábiles, contados a partir de la fecha en que las autoridades municipales le notifiquen la aprobación a que se refiere el artículo anterior.
+
+###### Artículo 277.
+
+Es competencia del Ayuntamiento respecto de las concesiones de servicios públicos:
+
+I. Vigilar el cumplimiento de las obligaciones del concesionario y realizar las modificaciones que estime convenientes;
+
+II. Dictar las resoluciones de extinción, cuando procedan conforme a esta Ley;
+
+III. Hacer uso temporalmente del servicio público e intervenir en su administración, en los casos en que el concesionario no lo preste eficazmente o se niegue a seguir prestándolo, pudiendo utilizar la fuerza pública cuando proceda;
+
+IV. Ejercer el derecho de reversión de los bienes afectos destinados a la concesión sin necesidad de ningún pago, al extinguirse la misma; y
+
+V. Las demás previstas en esta Ley y en otras disposiciones legales aplicables.
+
+###### Artículo 278.
+
+Las concesiones de servicios públicos se extinguen por cualesquiera de las causas siguientes:
+
+I. Cumplimiento del plazo;
+
+II. Revocación por incumplimiento de las condiciones pactadas en el documento que contenga la concesión;
+
+III. Revocación por causa de utilidad pública mediante indemnización; y
+
+IV. Las demás previstas en la concesión.
+
+###### Artículo 279.
+
+Las concesiones de servicios públicos podrán ser revocadas por cualesquiera de las causas siguientes:
+
+I. Interrumpir, en todo o en parte, el servicio público concesionado sin causa justificada, a juicio del Ayuntamiento, o sin previa autorización por escrito del mismo;
+
+II. Ceder, hipotecar, enajenar o gravar de cualquier manera la concesión o alguno de los derechos en ella establecidos, o a los bienes afectos destinados al servicio público de que se trate, sin la previa autorización por escrito del Ayuntamiento;
+
+III. Modificar o alterar sustancialmente la naturaleza o condiciones en que se preste el servicio, las instalaciones o su ubicación, sin previa aprobación por escrito del Ayuntamiento;
+
+IV. Dejar de pagar en forma oportuna, los derechos que se hayan fijado a favor del Ayuntamiento por el otorgamiento de la concesión y refrendo anual de la misma;
+
+V. No otorgar la garantía a que se refiere el presente título;
+
+VI. No iniciar la prestación del servicio público una vez otorgada la concesión, dentro del término señalado en la misma; y
+
+VII. No cumplir alguna de las obligaciones del concesionario establecidas en esta Ley y en el documento que contenga los términos de la concesión.
+
+###### Artículo 280.
+
+El procedimiento de revocación de las concesiones de servicios públicos se substanciará y resolverá por el Ayuntamiento con sujeción a las siguientes normas:
+
+I. Se iniciará de oficio o a petición de parte;
+
+II. Se notificará la iniciación del procedimiento al concesionario en forma personal, a efecto de que manifieste lo que a su interés convenga dentro del plazo de cinco días hábiles contados a partir del día siguiente al de la notificación;
+
+III. Transcurrido el plazo a que se refiere la fracción anterior, se abrirá un período probatorio por el término de quince días hábiles;
+
+IV. Se desahogarán las pruebas ofrecidas en el lugar, día y hora que fije la autoridad municipal;
+
+V. Se dictará resolución dentro de los diez días hábiles siguientes al vencimiento del plazo para el desahogo de pruebas; y
+
+VI. Se notificará personalmente al interesado, la resolución que se emita.
+
+###### Artículo 281.
+
+Los bienes afectos a la concesión, cuando ésta se extinga, pasarán a ser propiedad del Ayuntamiento, sin necesidad de algún pago.
+
+###### Artículo 282.
+
+Cuando la concesión de servicio público se extinga por revocación, así como por cualquier otra causa prevista en la concesión, siempre y cuando ésta sea imputable al concesionario, se perderá a favor del Ayuntamiento el importe de la garantía que aquél haya otorgado.
+
+###### Artículo 283.
+
+Las resoluciones de extinción de las concesiones de servicios públicos se publicarán en el Boletín Oficial del Gobierno del Estado.
+
+### CAPITULO TERCERO. DE LA COORDINACION, LA ASOCIACION Y LA CONCERTACION PARA LA PRESTACION DE LOS SERVICIOS PUBLICOS
+
+###### Artículo 284.
+
+Los convenios de coordinación o asociación que se celebren entre Ayuntamientos para la más eficaz prestación de los servicios públicos, contendrán por lo menos lo siguiente:
+
+I. Las declaraciones y cláusulas que se consideren convenientes, con apego a lo establecido por esta Ley y demás disposiciones aplicables;
+
+II. La figura u organismo que se adopte para la prestación de los servicios públicos, así como su objeto, naturaleza, estructura administrativa y de gobierno;
+
+III. La forma en que se determinarán las tarifas por la prestación del servicio público, las cuales deberán aprobarse por el Congreso del Estado y destinarse exclusivamente para realizar todas aquellas acciones tendientes al mejoramiento, eficiencia, eficacia y ampliación del mismo;
+
+IV. La observancia de esta Ley y demás disposiciones legales y reglamentarias aplicables, así como a los programas establecidos relativos al servicio público; y
+
+V. Su vigencia, que será por tiempo determinado, pudiendo rescindirse o darse por terminado por acuerdo entre las partes, por concurrir alguna razón de interés público, así como por causas fortuitas o de fuerza mayor.
+
+El organismo intermunicipal que se constituyere, en su caso, será independiente de cada Municipio y contará con una junta de gobierno, un consejo consultivo y un administrador.
+
+La junta de gobierno se integrará por los Presidentes Municipales que hayan suscrito el convenio, un representante de las dependencias que participen en la regulación del servicio público de que se trate y el presidente del consejo consultivo. La presidencia de la junta de gobierno será rotativa cada año, debiendo recaer ésta en un Presidente Municipal.
+
+El consejo consultivo se integrará con los representantes de las asociaciones y de los sectores social y privado de los municipios coordinados o asociados que de alguna manera se beneficien del servicio público prestado, de entre los cuales nombrarán a su Presidente.
+
+###### Artículo 285.
+
+Los convenios que el Ayuntamiento celebre con el Gobierno del Estado a efecto de que éste preste en forma temporal alguno de los servicios públicos municipales, o para que se preste coordinadamente entre el Estado y el Municipio, contendrán, por lo menos, lo siguiente:
+
+I. La especificación del servicio público o aspecto del mismo, así como las áreas o territorio del Municipio donde se prestará;
+
+II. Las acciones e inversiones a las que se comprometan las partes para la prestación del servicio público;
+
+III. La forma y condiciones en que se prestará el servicio público;
+
+IV. La dependencia o entidad de la administración pública estatal que tendrá a su cargo la prestación del servicio público objeto del convenio;
+
+V. La forma en que se determinarán las tarifas por la prestación del servicio público, las cuales deberán ser aprobadas por el Congreso del Estado y destinarse exclusivamente para realizar todas aquellas acciones tendientes al mejoramiento, eficiencia, eficacia y ampliación del mismo;
+
+VI. La observancia de esta Ley y demás disposiciones legales y reglamentarias aplicables, así como a los programas establecidos relativos al servicio público, en cuya formulación deberán participar las partes; y
+
+VII. La vigencia del convenio y las formas de extinción del mismo, así como el tribunal competente para el caso de controversias en su interpretación y aplicación.
+
+###### Artículo 286.
+
+Los convenios de concertación que el Ayuntamiento celebre con los particulares y/o con los sectores social y privado, para la prestación de los servicios públicos, deberán acordarse por mayoría calificada en el Ayuntamiento y establecer:
+
+I. La forma y condiciones en que se prestará el servicio respectivo, con sujeción a las políticas, prioridades y programas municipales establecidos;
+
+II. Las aportaciones que deban realizar las partes, tanto en recursos como en actividades para la prestación del servicio;
+
+III. Las bases de administración, así como los derechos y obligaciones de las partes concertantes;
+
+IV. La determinación de las tarifas que deberán cobrarse por la prestación del servicio público correspondiente, las cuales deberán ser aprobadas por el Congreso del Estado;
+
+V. La naturaleza de derecho público del convenio de concertación, así como la vigencia y las formas de rescisión o extinción del mismo; y
+
+VI. La observancia de esta Ley y demás disposiciones legales y reglamentarias aplicables, así como a los programas establecidos relativos al servicio público.
+
+###### Artículo 287.
+
+Una vez formalizados dichos convenios deberán publicarse en el Boletín Oficial del Gobierno del Estado.
+
+### CAPITULO CUARTO. DE LAS TARIFAS, CUOTAS Y HORARIOS PARA LA PRESTACION DE LOS SERVICIOS PUBLICOS
+
+###### Artículo 288.
+
+El Ayuntamiento, cuando preste los servicios públicos a través de una dependencia de su administración pública directa, percibirá por dicha prestación las contraprestaciones o ingresos que fije anualmente el Congreso del Estado en los ordenamientos fiscales correspondientes.
+
+###### Artículo 289.
+
+En el supuesto de que la prestación de los servicios públicos se realice a través de un organismo descentralizado o de una empresa de participación municipal mayoritaria, o bien, mediante el otorgamiento de concesiones, el Ayuntamiento deberá proponer, anualmente, las tarifas o cuotas que se causarán por dicha prestación, las cuales serán aprobadas por el Congreso del Estado.
+
+###### Artículo 290.
+
+En los casos del artículo anterior, las tarifas o cuotas deberán publicarse en el Boletín Oficial del Gobierno del Estado y en un periódico de mayor circulación en el Municipio.
+
+###### Artículo 291.
+
+El Ayuntamiento podrá solicitar la revisión, en cualquier tiempo, de las tarifas o cuotas a que se refiere el artículo anterior, cuando a juicio de éste las aprobadas ya no garanticen el equilibrio financiero para la eficaz prestación de los servicios públicos concesionados.
+
+###### Artículo 292.
+
+El Ayuntamiento fijará los horarios en los cuales se prestarán los servicios públicos, ya sea que dicha prestación se lleve a cabo a través de sus propias estructuras administrativas o mediante el otorgamiento de concesión.
+
+### CAPITULO QUINTO. DE LOS SERVICIOS PUBLICOS
+
+#### Sección I. Alumbrado Publico
+
+###### Artículo 293.
+
+El servicio de alumbrado público comprende el establecimiento, administración y conservación de un sistema de iluminación en los lugares de uso común de los municipios.
+
+Para los efectos de esta Sección se consideran lugares de uso común los boulevares, avenidas, calles, callejones, callejones de acceso, instalaciones deportivas, parques, plazas, jardines y paseos.
+
+###### Artículo 294.
+
+La prestación del servicio de alumbrado público se sujetará a las prioridades establecidas en los programas municipales de desarrollo urbano de centros de población y, en lo conducente, a las leyes federales aplicables y a las normas técnicas que emitan las autoridades competentes.
+
+#### Sección II. Limpia, Recolección, Traslado, Tratamiento y Disposición Final de Residuos
+
+###### Artículo 295.
+
+El barrido de las vías públicas se realizará conforme a las prioridades y previsión de recursos definidos en los programas correspondientes, determinando el Ayuntamiento, según las circunstancias de cada caso, el horario, los días y los lugares en que se llevará a cabo esta actividad.
+
+###### Artículo 296.
+
+La recolección de basuras, desperdicios o residuos sólidos se efectuará en los días, horarios y lugares que determine el Ayuntamiento en su ámbito territorial, los cuales serán comunicados a la población de manera fehaciente.
+
+###### Artículo 297.
+
+Las basuras, los desperdicios o residuos sólidos que se recolecten, transporten o reciban en los lugares de destino final, serán de la exclusiva propiedad del Ayuntamiento y, cuando por razones de orden económico sean susceptibles de explotarse industrialmente, éste podrá concesionar dicha actividad en los términos de la presente Ley.
+
+###### Artículo 298.
+
+Los lugares de destino final de las basuras, de los desperdicios o de los residuos sólidos se ubicarán en distancias convenientes de los centros de población, previos los estudios técnicos que para tales efectos se realicen.
+
+###### Artículo 299.
+
+El transporte de basuras, desperdicios o residuos sólidos se llevará a cabo en vehículos destinados a este fin, los cuales reunirán los requisitos que establezca la autoridad sanitaria.
+
+###### Artículo 300.
+
+El Ayuntamiento podrá celebrar acuerdos de coordinación con la dependencia federal encargada del medio ambiente, para la evolución y mejoramiento del sistema de recolección, tratamiento y destino de basuras, desperdicios o residuos sólidos, para la identificación de alternativas de reutilización y destino, así como para la formulación de programas para dicha reutilización y destino, incluyendo la elaboración de inventarios de los mismos y de sus fuentes generadoras.
+
+#### Sección III. Mercados y Centrales de Abasto
+
+###### Artículo 301.
+
+Con el objeto de facilitar a la población del Municipio el acceso a la oferta de artículos o mercancías de consumo generalizado que satisfagan sus necesidades básicas, el Ayuntamiento proporcionará el servicio público de mercados y centrales de abasto.
+
+###### Artículo 302.
+
+Para los efectos de esta sección, se entenderá por:
+
+I. Mercados: los inmuebles, edificados o no, donde concurran una diversidad de personas físicas o morales ofertando artículos o mercancías, y accedan, sin restricciones de ninguna naturaleza, consumidores en demanda de los mismos; y
+
+II. Centrales de abasto: las unidades de distribución al mayoreo destinadas a la concentración de ofertantes de productos alimenticios en estado fresco o industrializado, que tienen entre sus principales actividades la recepción, exhibición y almacenamiento especializado, así como la venta de productos, para satisfacer los requerimientos de la población.
+
+###### Artículo 303.
+
+Cuando el Ayuntamiento concesione la prestación del servicio público de mercados y centrales de abasto, o bien, cuando éste sea prestado a través de organismos descentralizados o de empresas de participación municipal mayoritaria, las relaciones de los concesionarios con los comerciantes y de dichas entidades paramunicipales con los mismos, se regirán por el derecho común.
+
+###### Artículo 304.
+
+En el supuesto de que el Ayuntamiento preste el servicio público a que se refiere esta Sección, a través de una dependencia de su administración pública directa y en inmuebles de su propiedad, deberá concesionar a comerciantes los espacios ubicados en el interior de los inmuebles relativos. Previamente al otorgamiento de la concesión deberá incorporarse el inmueble al dominio público municipal, en los términos que señale esta Ley.
+
+###### Artículo 305.
+
+En todo lo no previsto en esta sección, en relación con las concesiones de los espacios ubicados en el interior de los mercados y centrales de abasto, se observará lo establecido en el capítulo de esta Ley relativo a bienes inmuebles.
+
+#### Sección IV. Panteones
+
+###### Artículo 306.
+
+El servicio público de panteones comprende la inhumación, exhumación, reinhumación y cremación de cadáveres, restos humanos y restos humanos áridos o cremados. Este servicio se prestará mediante el establecimiento, administración y conservación de panteones.
+
+###### Artículo 307.
+
+La ubicación de los panteones se determinará por el Ayuntamiento, según los objetivos, políticas y metas que, para el desarrollo de los centros de población, se establezcan en los programas de desarrollo urbano relativos.
+
+###### Artículo 308.
+
+La inhumación o cremación de cadáveres, sólo podrá realizarse en los panteones a que se refiere esta sección, previo el cumplimiento de los requisitos que señalen la Ley General del Salud y la Ley de Salud del Estado de Sonora.
+
+###### Artículo 309.
+
+Los cadáveres de personas desconocidas se depositarán en la fosa común, que será única y estará ubicada en el panteón que para este efecto determine el Ayuntamiento.
+
+###### Artículo 310.
+
+Los cadáveres y restos humanos de personas desconocidas que remitan las autoridades competentes para su inhumación en la fosa común, deberán estar relacionados individualmente, con el número de acta que corresponda, debiéndose satisfacer, además, los requisitos que señalen la Ley General de Salud y la Ley de Salud del Estado
+
+###### Artículo 311.
+
+Cuando algún cadáver de persona desconocida sea identificado, el Ayuntamiento, por conducto de la dependencia que designe, deberá dirigirse al oficial del Registro Civil que haya expedido el acta de defunción relativa, refiriéndole las circunstancias del caso y el destino que se dará a los restos.
+
+#### Sección V. Calles, Parques, Jardines y Campos Deportivos
+
+###### Artículo 312.
+
+El Ayuntamiento prestará el servicio público de calles, mediante la apertura, rectificación, ampliación, prolongación, alineamiento, pavimentación, bacheo, nivelación, empedrado y compactación de las mismas, para mantener en condiciones de transitabilidad las vías públicas.
+
+Se entenderá por vías públicas, las consideradas como tales en la Ley de Tránsito para el Estado de Sonora.
+
+###### Artículo 313.
+
+El Ayuntamiento, en la prestación de los servicios públicos de parques, jardines y campos deportivos, buscará alcanzar los siguientes objetivos genéricos:
+
+I. Satisfacer las necesidades de recreación de los habitantes de los municipios;
+
+II. Mejorar la imagen urbana de los centros de población de su ámbito territorial; y
+
+III. Facilitar al público el acceso a campos deportivos al aire libre para la práctica del deporte de aficionados.
+
+###### Artículo 314.
+
+La prestación de los servicios públicos de parques, jardines y campos deportivos se llevará a cabo mediante el establecimiento, administración, conservación y equipamiento de los mismos. La prestación de tales servicios podrá realizarse en forma gratuita.
+
+#### Sección VI. Estacionamientos
+
+###### Artículo 315.
+
+La prestación del servicio público de estacionamientos, tiene como finalidad satisfacer las necesidades de espacio para el establecimiento de vehículos de propulsión automotriz que circulen en el Municipio y comprende la recepción, resguardo y devolución de estos vehículos, a cambio del pago que se efectúe conforme a la tarifa o cuota autorizada.
+
+Este servicio público se prestará mediante el establecimiento, administración y conservación de estacionamientos públicos.
+
+###### Artículo 316.
+
+No se considerará servicio público de estacionamientos la recepción, resguardo y devolución de vehículos de propulsión automotriz para la satisfacción de intereses particulares, individualmente considerados.
+
+###### Artículo 317.
+
+Sin perjuicio de la prestación del servicio de estacionamientos, el Ayuntamiento podrá:
+
+I. Permitir el libre o parcial estacionamiento de vehículos en la vía pública;
+
+II. Autorizar, a petición de parte, que determinado espacio de la vía pública sea utilizada (sic) para el estacionamiento de vehículos de manera exclusiva; y
+
+III. Autorizar el estacionamiento de vehículos en la vía pública, mediante el pago que corresponda según la utilización de sistemas de control de tiempo y espacio.
+
+###### Artículo 318.
+
+El Ayuntamiento -cuando preste directamente el servicio público a que se refiere esta Sección- y los concesionarios del mismo, serán responsables de la pérdida o de los daños causados a los vehículos, cuando los mismos se encuentren bajo su resguardo. Para este efecto, podrán contratar el seguro correspondiente.
+
+#### Sección VII. Rastros
+
+###### Artículo 319.
+
+El servicio de rastro comprende el sacrificio de ganado y los servicios inherentes a éste, a fin de obtener carne fresca de calidad sanitaria para el consumo del público en general.
+
+###### Artículo 320.
+
+El sacrificio de ganado podrá realizarse fuera de los rastros cuando sea para fines de consumo familiar, o se trate de asientos de producción, o de ganado bronco o cuando el sacrificio sea necesario, observándose lo dispuesto por la Ley de Ganadería para el Estado de Sonora; en todos los demás casos el sacrificio de ganado tendrá que realizarse en los rastros municipales.
+
+El sacrificio clandestino será sancionado por la autoridad municipal conforme lo previsto en los reglamentos municipales respectivos, sin perjuicio de la aplicación del Código Penal para el Estado, si existiere la comisión de algún delito
+
+###### Artículo 321.
+
+En todo sacrificio de ganado, los administradores o encargados de los rastros serán los responsables de que se observe lo dispuesto por esta Ley, la Ley de Ganadería y la Ley de Salud para el Estado de Sonora, así como por la Ley General de Salud, Ley Federal de Sanidad Animal y los reglamentos respectivos.
+
+## TITULO NOVENO. DE LA COORDINACION Y ASOCIACION PARA EL EJERCICIO DE LAS FUNCIONES Y PRESTACION DE LOS SERVICIOS PUBLICOS MUNICIPALES
+
+### CAPITULO UNICO. DE LA COORDINACION Y ASOCIACION
+
+###### Artículo 322.
+
+Para la más eficaz prestación de los servicios públicos y el mejor ejercicio de las funciones de su competencia, los municipios podrán coordinarse y asociarse con uno o más municipios del propio Estado o de otras entidades federativas, o bien podrán convenir con el Gobierno del Estado para que éste se haga cargo en forma temporal de alguno de ellos o se preste o ejerza coordinadamente por el Estado y el Municipio respectivo.
+
+Los convenios que se celebren entre Ayuntamientos del Estado requieren del acuerdo respectivo aprobado por mayoría absoluta; los que se celebren entre Ayuntamientos del Estado con Ayuntamientos de otra u otras entidades federativas, requieren del acuerdo del Ayuntamiento aprobado por mayoría calificada, además de la aprobación del Congreso del Estado. Asimismo, se requiere acuerdo aprobado por mayoría calificada del Ayuntamiento para la celebración de convenios entre Ayuntamientos con el Gobierno del Estado a fin de que éste se haga cargo de algún servicio o función pública de competencia exclusiva del Municipio o se preste o ejerza coordinadamente por el Estado y el Municipio.
+
+###### Artículo 323.
+
+En el caso de la asociación de los municipios del Estado con otros municipios de otras entidades federativas, se requerirá la autorización del Congreso del Estado.
+
+###### Artículo 324.
+
+Los convenios de coordinación o asociación a que se refieren los artículos anteriores deberán observar, en lo conducente, lo dispuesto en el capítulo tercero, del título octavo de esta Ley.
+
+## TITULO DECIMO. DE LA DESAPARICION Y SUSPENSION DE AYUNTAMIENTOS Y DE LA SUSPENSION O REVOCACION DEL MANDATO DE ALGUNO DE SUS INTEGRANTES
+
+### CAPITULO PRIMERO. DE LA DESAPARICION Y SUSPENSION DE AYUNTAMIENTOS
+
+###### Artículo 325.
+
+El Congreso del Estado, por acuerdo de las dos terceras partes de sus integrantes, podrá suspender Ayuntamientos y declarar que éstos han desaparecido, conforme a las bases y causas que señala esta Ley.
+
+###### Artículo 326.
+
+El Congreso del Estado declarará desaparecido un Ayuntamiento en los siguientes casos:
+
+I. Cuando exista falta absoluta o de la mayoría de los integrantes de un Ayuntamiento.
+
+II. Cuando se suscite entre los integrantes de un Ayuntamiento, o entre éste y la comunidad, conflicto que haga imposible el cumplimiento de los fines del mismo, o el ejercicio de sus funciones.
+
+III. Por cualquier causa grave, que impida el ejercicio de las funciones del Ayuntamiento conforme al orden constitucional federal o local.
+
+###### Artículo 327.
+
+El Congreso del Estado procederá a decretar la suspensión de un Ayuntamiento cuando éste incurra en cualesquiera de las siguientes causas:
+
+I. Por quebrantar los principios del régimen jurídico, político o administrativo interior del Estado.
+
+II. Por actos u omisiones que lesionen la integridad del territorio del Estado o su soberanía, libertad e independencia interior.
+
+III. Por actos u omisiones que transgredan las garantías individuales y sociales que consagran la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Sonora.
+
+IV. Por ejercer atribuciones que las leyes no les confieran o rehusar obligaciones que la ley les impone.
+
+V. Por permitir que los extranjeros se inmiscuyan en asuntos de política interna del Estado o de los municipios.
+
+VI. Por violaciones a las normas jurídicas que rijan los procesos electorales.
+
+VII. Por desacato a las instrucciones y mandatos que en uso de sus atribuciones y legalmente fundadas y motivadas les fueren giradas por los Supremos Poderes del Estado, en aras del interés general.
+
+VIII. Por promover o adoptar forma de gobierno o bases de organización política distintas de las señaladas en el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
+
+###### Artículo 328.
+
+La petición para que el Congreso del Estado declare la desaparición o decrete la suspensión de un Ayuntamiento podrá ser formulada por el Ejecutivo del Estado, por algún integrante de la Legislatura Local o por cualquier ciudadano del Municipio respectivo, en pleno ejercicio de sus derechos cívicos y políticos.
+
+Cuando la petición a la que se refiere el párrafo anterior, sea formulada por algún integrante de la Legislatura Local o por cualquier ciudadano del Municipio respectivo, antes de resolver sobre la desaparición o suspensión del Ayuntamiento de que se trate, el Congreso del Estado, deberá tomar en cuenta la opinión del Gobernador.
+
+###### Artículo 329.
+
+En los recesos del Congreso del Estado, la Diputación Permanente, si así lo estima procedente por el voto de las dos terceras partes de sus integrantes, convocará a sesiones extraordinarias, a fin de que el Congreso se reúna dentro de las cuarenta y ocho horas siguientes para conocer de las peticiones a que se refiere el artículo anterior.
+
+###### Artículo 330.
+
+Recibida la petición, si el Congreso del Estado lo estima procedente, la turnará a la comisión correspondiente. En caso de no ameritarse la incoación del procedimiento se desechará de plano la petición.
+
+###### Artículo 331.
+
+La comisión del Congreso del Estado que substanciará el procedimiento, de acuerdo a las circunstancias que medien y en aras de preservar la buena y normal marcha de la administración municipal y los intereses públicos, citará al Ayuntamiento respectivo a una audiencia que se celebrará dentro de las cuarenta y ocho horas siguientes, en la cual podrá comparecer con su defensa y rendir las pruebas que estime conducentes y alegar lo que a sus intereses convenga.
+
+###### Artículo 332.
+
+Desahogadas las pruebas ofrecidas, en su caso, y presentados los alegatos, o sin ellos, la comisión emitirá un dictamen dentro de las veinticuatro horas siguientes a la conclusión de la audiencia a que se refiere el artículo anterior y solicitará se cite al Congreso a sesión, para que conozca y resuelva, en ejercicio de sus atribuciones, lo que corresponda.
+
+###### Artículo 333.
+
+Si el Congreso decreta la suspensión o declara la desaparición de un Ayuntamiento, por las causas a que se refieren los artículos 326 y 327 de esta Ley y no considere que entren en funciones los suplentes, procederá a formular la declaratoria de que se está en el supuesto de designar un Concejo Municipal; para este efecto, el Congreso del Estado, escuchando la opinión del Gobernador, designará a los ciudadanos del Municipio que ocuparán los cargos de Presidente Municipal, Síndico y Regidores del Concejo Municipal respectivo, quienes deberán reunir los requisitos de elegibilidad establecidos para los Regidores.
+
+###### Artículo 334.
+
+Los integrantes de los Concejos Municipales, rendirán su protesta ante el Ejecutivo del Estado y a falta de éste último, ante un representante del Congreso del Estado, en el lugar, hora y fecha que se fije y se declarará instalado el Concejo Municipal en los mismos términos que fija esta Ley para la instalación del Ayuntamiento.
+
+###### Artículo 335.
+
+Los Concejos Municipales tendrán la misma estructura orgánica, atribuciones y deberes del Ayuntamiento.
+
+###### Artículo 336.
+
+En los casos de que los Concejos Municipales sean designados dentro de la primera mitad del periodo de gobierno de que se trate, se podrán realizar elecciones extraordinarias si el Congreso del Estado lo juzga conveniente, tomando en consideración las circunstancias de orden general de las que se derive si ha lugar o no a que dichas elecciones se practiquen en un término perentorio, pues en caso contrario los designados concluirán el periodo.
+
+Cuando los Concejos Municipales sean designados dentro de la segunda mitad del período de gobierno, dichos Concejos concluirán éste.
+
+###### Artículo 337.
+
+La designación de los Concejos Municipales o de alguno de sus miembros, podrá ser revocada por el Congreso Local por las mismas causas que señalan los artículos 326 y 327 de esta Ley y conforme a los procedimientos que para la desaparición y suspensión de Ayuntamientos señala este título.
+
+### CAPITULO SEGUNDO. DE LA SUSPENSION O REVOCACION DEL MANDATO DE ALGUNO O ALGUNOS DE SUS MIEMBROS
+
+###### Artículo 338.
+
+La Legislatura Local, por acuerdo de las dos terceras partes de sus miembros, podrá decretar la suspensión o revocación del mandato de alguno o algunos de los integrantes de un Ayuntamiento, en los casos siguientes:
+
+I. Por abandono de sus funciones en un lapso mayor de quince días, sin causa justificada;
+
+II. Por actos u omisiones reiteradas que alteren el orden, la tranquilidad o la seguridad pública;
+
+III. Las violaciones graves y reiteradas a la Constitución Política de los Estados Unidos Mexicanos, a la Constitución Política del Estado o a las leyes que de ellas emanen;
+
+IV. Por no acatar las leyes, locales o federales, o las instrucciones que en aras del interés público, le fueren legítimamente giradas por los Supremos Poderes del Estado o por el Ayuntamiento del que forman parte;
+
+V. Por dictarse auto de formal prisión por la comisión de un delito intencional, en contra del miembro de que se trate;
+
+VI. Por incapacidad física o legal permanente;
+
+VII. Por haber aportado certificados, documentos o referencias falsas en los que se les atribuyan el cumplimiento de los requisitos de elegibilidad a que se refiere el artículo 132 de la Constitución Política Local;
+
+VIII. Por realizar, en lo individual, cualquiera de los actos a que se refiere el artículo 327 de esta Ley; o
+
+IX. En el caso de los Presidente (sic) Municipales, por licencia mayor de treinta días aprobada por el Ayuntamiento, siempre que exista causa justificada y en los términos previstos por el artículo 166 de esta Ley.
+
+Para decretar la suspensión o revocación del mandato a alguno o algunos de los integrantes de un Ayuntamiento, el Congreso del Estado deberá observar, en lo conducente, el procedimiento establecido en los artículos 328, 329, 330, 331 y 332 de esta Ley.
+
+###### Artículo 339.
+
+Decretada la suspensión o revocación del mandato de alguno o algunos de los miembros del Ayuntamiento, el Congreso procederá a requerir al suplente que corresponda, para que en un término de setenta y dos horas, proceda a rendir la protesta y a ocupar el cargo de que se trate.
+
+De no comparecer el suplente y no siendo necesaria la ocupación del cargo para que el Ayuntamiento pueda sesionar válidamente, quedará vacante el mismo por el resto del período.
+
+###### Artículo 340.
+
+En caso de que la suspensión o revocación del mandato de alguno o algunos de los miembros del Ayuntamiento impida que éste pueda sesionar válidamente, se procederá en los términos que para la desaparición señala el capítulo primero de este título.
+
+###### Artículo 341.
+
+De suspenderse o revocarse el mandato de quien funja como Presidente Municipal, en el decreto del Congreso Local, se fijará quién, de entre los restantes miembros del Ayuntamiento, ejercerá las funciones de aquél.
+
+###### Artículo 342.
+
+Si la persona que resulte electa para ocupar el cargo de Presidente Municipal no compareciera en el lugar, día y hora fijadas para la instalación del Ayuntamiento, se comunicará de inmediato tal situación al Congreso del Estado para que designe de entre los restantes miembros del Ayuntamiento a quien fungirá como Presidente Municipal.
+
+## TITULO DECIMO PRIMERO. DE LA FACULTAD REGLAMENTARIA
+
+### CAPITULO UNICO. DE LA FACULTAD REGLAMENTARIA
+
+###### Artículo 343.
+
+El Ayuntamiento expedirá el Bando de Policía y Gobierno, los reglamentos, circulares y demás disposiciones de observancia general que resulten necesarias para proveer a la exacta observancia de este ordenamiento y demás leyes en materia municipal.
+
+###### Artículo 344.
+
+Para la expedición del Bando de Policía y Gobierno, de los reglamentos, circulares y disposiciones administrativas de observancia general, el Ayuntamiento deberá contemplar los siguientes aspectos:
+
+I. Respetar las disposiciones de la Constitución Política de los Estados Unidos Mexicanos, de la Constitución Política Local, así como las leyes federales o estatales, con estricta observancia de las garantías individuales;
+
+II. Delimitar la ley municipal que regulan;
+
+III. Sujetos obligados;
+
+IV. Objeto sobre el que recae la reglamentación;
+
+V. Derechos y obligaciones de los habitantes;
+
+VI. Autoridad responsable de su aplicación;
+
+VII. Facultades y obligaciones de las autoridades;
+
+VIII. Sanciones y procedimiento para la imposición de las mismas;
+
+IX. Medios de impugnación; y
+
+X. Transitorios, en donde se deberá establecer, entre otras previsiones, la fecha en que inicie su vigencia.
+
+###### Artículo 345.
+
+Corresponde al Presidente Municipal, al Síndico, a los Regidores y a los ciudadanos que residan en el Municipio, el derecho de iniciar, ante el Ayuntamiento, los bandos de policía y gobierno, reglamentos, las circulares y las demás disposiciones de observancia general a que se refiere éste capítulo.
+
+###### Artículo 346.
+
+Para la aprobación, reforma, derogación o abrogación de los ordenamientos jurídicos a que se refiere éste capítulo, se requiere el acuerdo por mayoría calificada.
+
+###### Artículo 347.
+
+El procedimiento para la aprobación por parte del Ayuntamiento del Bando de Policía y Gobierno, los reglamentos, circulares y las demás disposiciones administrativas de observancia general a que se refiere este capítulo, así como la reforma, derogación o abrogación de los mismos, se llevará a cabo conforme lo establezca el reglamento interior del Ayuntamiento y, en todo caso, en la reforma, derogación o abrogación de dichos ordenamientos jurídicos, se observarán los mismos trámites establecidos para su formación.
+
+###### Artículo 348.
+
+Los reglamentos, circulares y las demás disposiciones de observancia general que emita el Ayuntamiento, serán promulgadas y publicadas en el Boletín Oficial del Gobierno del Estado por el Presidente Municipal, previo el refrendo que realice el Secretario del Ayuntamiento.
+
+###### Artículo 349.
+
+Cuando no se cuente con Bando de Policía y Gobierno y los reglamentos respectivos, el Ayuntamiento podrá, por el voto de las dos terceras partes de sus integrantes, acordar la aplicación en su Municipio de los ordenamientos jurídicos vigentes del Municipio del Estado de Sonora que más se adecue a sus circunstancias socioeconómicas y culturales. El acuerdo se deberá publicar en el Boletín Oficial del Gobierno del Estado.
+
+## TITULO DECIMO SEGUNDO. DE LA RESOLUCION DE CONFLICTOS
+
+### CAPITULO UNICO. DE LA RESOLUCION DE CONFLICTOS
+
+###### Artículo 350.
+
+El Supremo Tribunal de Justicia del Estado de Sonora, conocerá y resolverá con base en las disposiciones de este capítulo, los conflictos que surjan entre el Ayuntamiento y el Ejecutivo del Estado, o entre aquellos, con motivo de los convenios a que se refieren los artículos 79 fracción XVI, 138 y 139 de la Constitución Política Local. A falta de disposición expresa, se aplicarán supletoriamente las prevenciones del Código Fiscal del Estado y, en su caso, el Código de Procedimientos Civiles para el Estado Libre y Soberano de Sonora.
+
+###### Artículo 351.
+
+Para los efectos de estas disposiciones, los plazos y términos se computarán en días hábiles, los cuales se determinan en la Ley Orgánica del Poder Judicial del Estado de Sonora.
+
+###### Artículo 352.
+
+El plazo para la interposición de la demanda respectiva será de treinta días, a partir del día siguiente al en que surja el conflicto, o al en que se haya tenido conocimiento del mismo.
+
+###### Artículo 353.
+
+Tendrán el carácter de parte en el conflicto:
+
+I. Como actor, el Ejecutivo del Estado o Ayuntamiento que lo promueva.
+
+II. Como demandado, el Ejecutivo del Estado o Ayuntamiento que celebró el convenio de donde derivó el conflicto.
+
+III. Como tercero o terceros interesados, el o los Ayuntamientos, el Ejecutivo del Estado, órgano o dependencia de éste que, sin tener el carácter de actor o demandado, pudiera resultar afectado por la sentencia que llegare a dictarse.
+
+###### Artículo 354.
+
+El actor, el demandado y, en su caso, el tercero interesado, deberán comparecer a juicio por conducto de los funcionarios que, en términos de las normas que los rigen, estén facultados para representarlos. En todo caso, se presumirá que quien comparezca a juicio goza de la representación legal y cuenta con la capacidad para hacerlo, salvo prueba en contrario.
+
+###### Artículo 355.
+
+Tratándose del Ayuntamiento, también se aceptará con capacidad legal para comparecer a juicio, la fracción o grupo que represente el veinticinco por ciento de los integrantes del correspondiente Ayuntamiento.
+
+###### Artículo 356.
+
+Las partes podrán acreditar delegados para que hagan promociones, concurran a las audiencias, rindan pruebas, formulen alegatos y realicen cualquier acto en defensa de los derechos del acreditante.
+
+###### Artículo 357.
+
+El escrito de demanda, deberá señalar:
+
+I. El Ejecutivo del Estado o Ayuntamiento actor, su domicilio y el nombre y cargo del funcionario que los represente;
+
+II. El Ejecutivo del Estado, el o los Ayuntamientos demandados y su domicilio;
+
+III. El o los Ayuntamientos, Ejecutivo del Estado o dependencias de éste que tengan el carácter de terceros interesados, si los hubiere, y sus domicilios;
+
+IV. El convenio cuya nulidad, rescisión o cumplimiento se demande;
+
+V. Los preceptos constitucionales o legales que, en su caso, se estimen violados;
+
+VI. La manifestación de los hechos o abstenciones que le consten al actor y que constituyan los antecedentes del conflicto; y
+
+VII. Los conceptos de nulidad, rescisión o cumplimiento.
+
+###### Artículo 358.
+
+El escrito de contestación de demanda deberá contener cuando menos:
+
+I. Referencia de las prestaciones reclamadas y cada uno de los hechos narrados en la demanda, afirmándolos, negándolos, expresando que los ignora por no ser propios o exponiendo cómo ocurrieron; y
+
+II. Las razones o fundamentos jurídicos que se estimen pertinentes para sostener sus pretensiones.
+
+###### Artículo 359.
+
+Recibida la demanda, el Presidente del Supremo Tribunal de Justicia del Estado designará, conforme al sistema de distribución de los asuntos que haya determinado el Pleno del Supremo Tribunal de Justicia, a un magistrado instructor a fin de que ponga el proceso en estado de resolución, cuyas actuaciones serán autorizadas por el secretario general de acuerdos.
+
+###### Artículo 360.
+
+Admitida la demanda, el magistrado instructor ordenará emplazar a la parte demandada para que dentro del término de treinta días produzca su contestación, y dará vista a las demás partes para que dentro del mismo plazo manifiesten lo que a su derecho convenga.
+
+Al contestar la demanda, la parte demandada podrá, en su caso, reconvenir a la actora, aplicándose al efecto lo dispuesto en esta Ley para la demanda y contestación originales.
+
+###### Artículo 361.
+
+El actor podrá ampliar su demanda dentro de los quince días siguientes al de la contestación si en esta última apareciere un hecho nuevo, o hasta antes de la fecha de cierre de la instrucción, si apareciere un hecho superveniente. La ampliación de la demanda y su contestación se tramitarán conforme a lo previsto para la demanda y contestación originales.
+
+###### Artículo 362.
+
+Si los escritos de demanda, contestación, reconvención o ampliación fueren obscuros e irregulares, el magistrado instructor prevendrá a los promoventes para que subsanen las irregularidades dentro del plazo de cinco días.
+
+De no subsanarse las irregularidades requeridas, y si a juicio del magistrado instructor la importancia y trascendencia del asunto lo amerita, correrá traslado al Pleno del Supremo Tribunal de Justicia por cinco días, y con vista en su pedimento si lo hiciere, admitirá o desechará la demanda dentro de los dos días siguientes.
+
+###### Artículo 363.
+
+Habiendo transcurrido el plazo para contestar la demanda y, en su caso, su ampliación o la reconvención, el magistrado instructor señalará fecha para una audiencia de ofrecimiento y desahogo de pruebas que deberá verificarse dentro de los treinta días siguientes. El magistrado instructor podrá ampliar el término de celebración de la audiencia, cuando la importancia y trascendencia del asunto así lo amerite.
+
+###### Artículo 364.
+
+La falta de contestación de la demanda o, en su caso, de la reconvención dentro del plazo respectivo, hará presumir como ciertos los hechos que se hubieren señalado en ellas, salvo prueba en contrario, siempre que se trate de hechos directamente imputados a la parte actora o demandada, según corresponda.
+
+###### Artículo 365.
+
+Las partes podrán ofrecer todo tipo de pruebas, excepto la de posiciones y aquellas que sean contrarias a derecho. En cualquier caso, corresponderá al magistrado instructor desechar de plano aquellas pruebas que no guarden relación con la controversia.
+
+###### Artículo 366.
+
+Las pruebas deberán ofrecerse y rendirse en la audiencia, excepto la documental que podrá presentarse con anterioridad, sin perjuicio de que se haga relación de ella en la propia audiencia y se tenga como recibida en ese acto, aunque no exista gestión expresa del interesado.
+
+Las pruebas testimonial, pericial y de inspección ocular deberán anunciarse diez días antes de la fecha de la audiencia, sin contar esta última ni la de ofrecimiento, exhibiendo copia de los interrogatorios para los testigos y el cuestionario para los peritos, a fin de que las partes puedan repreguntar en la audiencia. En ningún caso se admitirán más de tres testigos por cada hecho.
+
+Al promoverse la prueba pericial, el magistrado instructor designará al perito o peritos que estime convenientes para la práctica de la diligencia. Cada una de las partes podrá designar también un perito para que se asocie al nombrado por el magistrado instructor o rinda su dictamen por separado. Los peritos no son recusables, pero el nombrado por el magistrado instructor deberá excusarse de conocer cuando en él ocurra alguno de los impedimentos a que se refiere el Código de Procedimientos Civiles para el Estado de Sonora.
+
+###### Artículo 367.
+
+A fin de que las partes puedan rendir sus pruebas, todas las autoridades tienen obligación de expedirles oportunamente las copias o documentos que soliciten y, en caso contrario, pedirán al magistrado instructor que requieran a los omisos. Si a pesar del requerimiento no se expidieren las copias o documentos, el magistrado instructor, a petición de parte, hará uso de los medios de apremio y denunciará a la autoridad omisa por desobediencia a su mandato.
+
+###### Artículo 368.
+
+Las audiencias se celebrarán con o sin la asistencia de las partes o de sus representantes legales. Abierta la audiencia se procederá a recibir, por su orden, las pruebas y los alegatos de las partes, que podrán formularse por escrito o verbalmente, sin que en este último caso pueda excederse de treinta minutos el tiempo para presentar los alegatos.
+
+###### Artículo 369.
+
+En todo tiempo, el magistrado instructor podrá decretar pruebas para mejor proveer, fijando al efecto fecha para su desahogo. Asimismo, el propio magistrado podrá requerir a las partes para que proporcionen los informes o aclaraciones que estime necesarios para la mejor resolución del asunto.
+
+###### Artículo 370.
+
+Una vez concluida la audiencia, el magistrado instructor someterá a la consideración del Pleno del Tribunal el proyecto de resolución respectivo en los términos previstos en la Ley Orgánica del Poder Judicial del Estado.
+
+###### Artículo 371.
+
+Al dictar sentencia, el Supremo Tribunal de Justicia del Estado corregirá los errores que advierte en la cita de los preceptos invocados y examinará en su conjunto, los razonamientos de las partes a fin de resolver la cuestión efectivamente planteada.
+
+###### Artículo 372.
+
+En todos los casos el Supremo Tribunal de Justicia del Estado deberá suplir la deficiencia de la demanda, contestación, alegatos o agravios.
+
+###### Artículo 373.
+
+Dictada la sentencia, el Presidente del Supremo Tribunal de Justicia del Estado ordenará notificarla a las partes y mandará publicarla de manera íntegra en el Boletín Oficial del Gobierno del Estado, conjuntamente con los votos particulares que se formulen.
+
+###### Artículo 374.
+
+Las sentencias producirán sus efectos a partir de la fecha que determine el Supremo Tribunal de Justicia del Estado en la propia sentencia.
+
+###### Artículo 375.
+
+Las partes condenadas informarán en el plazo otorgado por la sentencia, del cumplimiento de la misma al Presidente del Supremo Tribunal de Justicia del Estado, quien resolverá si aquélla ha quedado debidamente cumplida.
+
+Una vez transcurrido el plazo fijado en la sentencia para el cumplimiento de alguna actuación sin que ésta se hubiere producido, las partes podrán solicitar al Presidente del Supremo Tribunal de Justicia del Estado que requiera a la parte obligada para que de inmediato informe sobre su cumplimiento. Si dentro de los dos días siguientes a la notificación de dicho requerimiento la ejecutoria no estuviere cumplida, cuando la naturaleza del acto así lo permita y no se encontrase en vía de ejecución o se tratare de eludir su cumplimiento, el Presidente del Supremo Tribunal de Justicia del Estado turnará el asunto al magistrado ponente para que someta al Pleno el proyecto por el cual se provea lo conducente para el exacto y cabal cumplimiento de la sentencia, independientemente de las responsabilidades en que pudiere haber incurrido la parte condenada por su desacato.
+
+###### Artículo 376.
+
+No podrá archivarse ningún expediente sin que quede cumplida la sentencia o se hubiere extinguido la materia de la ejecución.
+
+###### Artículo 377.
+
+Las acciones serán improcedentes cuando la demanda se presente fuera del plazo de treinta días a que se refiere el artículo 352, así como en los demás casos en que la improcedencia resulte de alguna disposición de la ley.
+
+###### Artículo 378.
+
+El sobreseimiento de los conflictos se decretará cuando la parte actora se desista expresamente de la demanda, cuando apareciere o sobreviniere alguna de las causas de improcedencia a que se refiere el artículo anterior, o por convenio entre las partes.
+
+## TITULO DECIMO TERCERO. DE LAS SANCIONES
+
+### CAPITULO UNICO. DE LAS SANCIONES
+
+###### Artículo 379.
+
+Las sanciones por infracciones a las normas contenidas en las leyes, Bando de Policía y Gobierno y los reglamentos, circulares y demás disposiciones administrativas de observancia general en el Municipio, podrán consistir en:
+
+I. Amonestación con apercibimiento;
+
+II. Multa;
+
+III. Arresto hasta por 36 horas;
+
+IV. Clausura temporal o permanente, parcial o total; y
+
+V. Las demás que señalen las leyes.
+
+La sanción de multa no podrá ser mayor de la cantidad que resulte de multiplicar por 150 el monto del salario mínimo general diario vigente en la cabecera del Municipio; pero cuando el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor al importe de su jornal o salario de un día de trabajo. Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
+
+Sin perjuicio de lo establecido en las leyes administrativas y disposiciones reglamentarias, en caso de reincidencia se duplicará la multa impuesta, sin que su monto exceda del doble del máximo establecido en los ordenamientos correspondientes.
+
+###### Artículo 380.
+
+En la imposición de sanciones, la autoridad municipal competente dará al interesado oportunidad para que exponga lo que a su derecho convenga y, en su caso, aporte las pruebas con que cuente. Al verificar la autoridad competente el cumplimiento de las leyes y reglamentos locales, deberá observar los procedimientos y formalidades previstos en la ley y en los reglamentos que correspondan.
+
+###### Artículo 381.
+
+La autoridad administrativa fundará y motivará su sanción, considerando:
+
+I. Los daños que se hubieren producido o puedan producirse;
+
+II. El carácter intencional o no de la acción u omisión constitutiva de la infracción;
+
+III. La gravedad de la infracción; y
+
+IV. La reincidencia del infractor y circunstancias particulares del caso.
+
+###### Artículo 382.
+
+Las sanciones administrativas municipales podrán aplicarse simultáneamente, salvo el arresto.
+
+Cuando en un mismo acto se hagan constar diversas infracciones, las multas se determinarán separadamente así como el monto total de todas ellas.
+
+Cuando en un mismo acto se comprenda a dos o más infractores, a cada uno de ellos, se le impondrá la sanción que corresponda.
+
+## TITULO DECIMO CUARTO. DEL PROCEDIMIENTO ADMINISTRATIVO
+
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+
+###### Artículo 383.
+
+Las disposiciones del presente título tienen por objeto regular los actos de la administración pública municipal directa. En el caso de la administración pública paramunicipal sólo será aplicable cuando se trate de actos de autoridad provenientes de organismos descentralizados que afecten la esfera jurídica de los particulares.
+
+En las materias de Seguridad Pública, Tránsito, de Responsabilidades de los Servidores Públicos, Hacienda Municipal, Fiscal y Participación Ciudadana, las dependencias estarán a lo que dispongan los ordenamientos legales correspondientes. Asimismo, tratándose de concesiones sobre bienes de dominio público del Municipio o concesiones para la prestación de servicios públicos, se estará a lo dispuesto por esta Ley en los títulos respectivos.
+
+A falta de disposición expresa y en cuanto no se oponga a lo que prescribe este título, se atenderá lo que resulte aplicable del título sexto del Código Fiscal para el Estado de Sonora y, en su defecto, a lo dispuesto en el Código de Procedimientos Civiles para el Estado de Sonora.
+
+###### Artículo 384.
+
+La actuación administrativa en el procedimiento se desarrollará con arreglo a los principios de igualdad, publicidad, audiencia, legalidad, imparcialidad, celeridad, eficacia y buena fe.
+
+###### Artículo 385.
+
+La administración pública municipal, en sus relaciones con los particulares, tendrá las siguientes obligaciones:
+
+I. Solicitar la comparecencia de éstos, sólo cuando así esté previsto en los ordenamientos jurídicos aplicables, previa citación en la que se hará constar expresamente el lugar, fecha, hora y objeto de la comparecencia, así como los efectos de no atenderla;
+
+II. Requerir informes, documentos y otros datos durante la realización de visitas de verificación, sólo en aquellos casos previstos en ésta u otras leyes;
+
+III. Hacer del conocimiento del particular, en cualquier momento, del estado de la tramitación de los procedimientos en los que tenga interés jurídico, y a proporcionar copia de los documentos contenidos en ellos;
+
+IV. Hacer constar en las copias de los documentos que se presenten junto con los originales, la presentación de los mismos;
+
+V. Abstenerse de requerir documentos o solicitar información que no sean exigidos por las normas aplicables al procedimiento, o que ya se encuentren en el expediente que se está tramitando;
+
+VI. Proporcionar información y orientar acerca de los requisitos jurídicos o técnicos que las disposiciones legales vigentes impongan a los proyectos, actuaciones o solicitudes que se propongan realizar;
+
+VII. Admitir las pruebas permitidas por los ordenamientos jurídicos aplicables y recibir los alegatos, los que deberán ser tomados en cuenta por la autoridad competente al dictar resolución;
+
+VIII. Permitir el acceso a sus registros y archivos en los términos previstos en ésta u otras leyes;
+
+IX. Tratar con respeto a los particulares y a facilitar el ejercicio de sus derechos y el cumplimiento de sus obligaciones; y
+
+X. Dictar resolución expresa sobre cuantas peticiones le formulen; así como en los procedimientos iniciados de oficio, cuya instrucción y resolución afecte a terceros, debiendo dictarla dentro del plazo de treinta días hábiles.
+
+### CAPITULO SEGUNDO. DEL PROCEDIMIENTO ADMINISTRATIVO
+
+###### Artículo 386.
+
+Se entiende por procedimiento administrativo el conjunto de trámites y formalidades jurídicas que preceden a todo acto administrativo, como su antecedente y fundamento, los cuales son necesarios para su perfeccionamiento, condicionan su validez y persiguen un interés general.
+
+El procedimiento administrativo podrá iniciarse de oficio o a petición de parte interesada.
+
+Las manifestaciones, informes o declaraciones rendidas por los interesados a la autoridad municipal competente, se presumirán ciertas salvo prueba en contrario y estarán sujetas al control y verificación por parte de la autoridad. Si los informes o declaraciones proporcionados por el particular resultan falsos, se aplicarán las sanciones administrativas correspondientes, sin perjuicio de las penas en que incurran aquellos que se conduzcan con falsedad de acuerdo con los ordenamientos legales aplicables.
+
+###### Artículo 387.
+
+La autoridad administrativa municipal para otorgar o revocar permisos, licencias o autorizaciones, tendrá la obligación de respetar la garantía de audiencia y legalidad mediante la instrumentación del procedimiento administrativo que se enuncia en este capítulo.
+
+###### Artículo 388.
+
+La autoridad administrativa municipal no podrá exigir más formalidades que las expresamente previstas por las leyes y reglamentos aplicables. Las promociones deberán reunir los siguientes requisitos:
+
+I. Presentarse por escrito;
+
+II. Precisar el nombre, denominación o razón social de quien o quienes promuevan o en su caso, de su representante legal;
+
+III. Señalar domicilio para recibir notificaciones, así como nombre de la persona o personas autorizadas para recibirlas;
+
+IV. La petición que se formula;
+
+V. La descripción breve de los hechos y razones que dan motivo a la petición, en su caso;
+
+VI. El órgano o autoridad administrativa a que se dirige;
+
+VII. El lugar y fecha de su emisión;
+
+VIII. El escrito deberá estar firmado por el interesado o su representante legal, a menos que no sepa o no pueda firmar, caso en el cual, firmará otra persona en su nombre y el interesado imprimirá su huella digital, haciéndose constar tal acto en el propio escrito; y
+
+IX. Los demás requisitos que señalen los ordenamientos jurídicos aplicables, ofreciendo, en su caso, las pruebas cuando sean necesarias para acreditar los hechos argumentados y la naturaleza del asunto así lo exija.
+
+El promovente deberá adjuntar a su escrito los documentos que acrediten su personalidad, así como los que en cada caso sean requeridos en los ordenamientos respectivos.
+
+###### Artículo 389.
+
+Las actuaciones, escritos o informes que realicen las dependencias, entidades o los particulares, se redactarán en español. Los documentos redactados en otro idioma deberán acompañarse de su respectiva traducción al español y, en su caso, cuando así se requiera, de su certificación. Las fechas y cantidades se escribirán con letra.
+
+###### Artículo 390.
+
+Salvo que en otra disposición legal o administrativa de carácter general se disponga otra cosa respecto de algún trámite:
+
+I. Los trámites deberán presentarse solamente en original, y sus anexos, en copia simple, en un tanto. Si el interesado requiere que se le acuse recibo, deberá adjuntar una copia para ese efecto;
+
+II. Todo documento original puede presentarse en copia certificada y éstos podrán acompañarse de copia simple para cotejo, caso en el que se regresará al interesado el documento cotejado;
+
+III. En lugar de entregar copia de los permisos, registros, licencias y, en general, de cualquier documento expedido por la dependencia o autoridad correspondiente de la administración pública municipal ante la que realicen el trámite, los interesados podrán señalar los datos de identificación de dichos documentos; y
+
+IV. Excepto cuando un procedimiento se tenga que dar vista a terceros, los interesados no estarán obligados a proporcionar datos o entregar juegos adicionales de documentos entregados previamente a la dependencia o autoridad correspondiente de la administración pública municipal ante la que realicen el trámite correspondiente, siempre y cuando señalen los datos de identificación del escrito en el que se citaron o con el que se acompañaron y el nuevo trámite lo realicen ante la propia dependencia o autoridad correspondiente, aún y cuando lo hagan ante una unidad administrativa diversa, incluso si se trata de un órgano administrativo desconcentrado.
+
+###### Artículo 391.
+
+Cuando los escritos que presenten los interesados no contengan los datos o no cumplan con los requisitos aplicables, la dependencia o autoridad correspondiente deberá prevenir a los interesados, por escrito y por una sola vez, para que subsanen la omisión dentro del término que establezca la dependencia o autoridad correspondiente, el cual no podrá ser menor de cinco días hábiles, ni mayor de siete, contados a partir de que haya surtido efectos la notificación. Transcurrido el plazo correspondiente sin desahogar la prevención, se desechará el trámite.
+
+De no realizarse la prevención mencionada en el párrafo anterior dentro del plazo aplicable, no podrá desecharse el trámite argumentando que está incompleto. En el supuesto de que el requerimiento de información se haga en tiempo, el plazo para que la dependencia correspondiente resuelva el trámite se suspenderá y se reanudará a partir del día hábil inmediato siguiente a aquel en el que el interesado conteste.
+
+Contra el desechamiento o la negativa de dar trámite a las solicitudes o promociones, procederá el recurso de inconformidad.
+
+###### Artículo 392.
+
+Las dependencias o entidades ante las cuales se substancien procedimientos administrativos, establecerán un sistema de identificación de los expedientes que comprenderá, entre otros datos, los relativos al número progresivo, al año y la materia que corresponda, mismos que deberán ser registrados en un libro de gobierno municipal que resguardará la autoridad para el adecuado control de los asuntos. Asimismo, deberán guardar las constancias de notificación en los asuntos, los acuses de recibo y todos los documentos necesarios para acreditar la realización de las diligencias.
+
+###### Artículo 393.
+
+En el procedimiento administrativo, los interesados podrán actuar por sí mismos, por medio de representante o apoderado.
+
+###### Artículo 394.
+
+La representación de las personas morales ante la autoridad administrativa, deberá acreditarse con escritura pública. En el caso de las personas físicas, dicha representación podrá acreditarse también mediante carta poder firmada ante dos testigos y ratificadas las firmas ante Notario Público, o bien, por declaración en comparecencia personal ante la autoridad competente.
+
+###### Artículo 395.
+
+Sin perjuicio de lo establecido en el artículo anterior, el interesado o su representante legal podrá autorizar a la persona o personas que estimen pertinentes para oír y recibir notificaciones y documentos, así como para realizar los trámites y las gestiones necesarias para la substanciación del procedimiento administrativo. La autorización para oír y recibir notificaciones, también faculta al autorizado para interponer recursos administrativos.
+
+###### Artículo 396.
+
+Cuando en un procedimiento existan varios interesados, las actuaciones se entenderán con un representante común, que para tal efecto sea designado y, en su defecto, con el que figura en primer término.
+
+###### Artículo 397.
+
+Las actuaciones y diligencias administrativas se practicarán en días y horas hábiles.
+
+###### Artículo 398.
+
+Los términos se contarán por días hábiles, salvo disposición en contrario; empezarán a correr a partir del día hábil siguiente al en que surtan efectos las notificaciones respectivas y serán improrrogables.
+
+Cuando por cualquier circunstancia no se efectuare una actuación o diligencia, en el día y hora señalados, la autoridad administrativa hará constar la razón por la que no se practicó.
+
+###### Artículo 399.
+
+La autoridad administrativa, en caso de urgencia o de existir causa justificada, de oficio o a petición de parte interesada, podrá habilitar días y horas inhábiles, cuando así lo requiera el asunto.
+
+###### Artículo 400.
+
+Cuando las leyes y reglamentos administrativos municipales no señalen término para la práctica de notificaciones, citaciones, emplazamientos, requerimientos, visitas e informes, se tendrá el de tres días hábiles. La autoridad administrativa deberá hacer del conocimiento del interesado dicho término.
+
+###### Artículo 401.
+
+Las notificaciones deberán hacerse en días y horas hábiles, con una anticipación de cuarenta y ocho horas, por lo menos, del día y hora en que deba efectuarse la actuación o diligencia, salvo disposición legal en contrario. Las notificaciones surtirán efectos al día hábil siguiente en el que se hayan realizado.
+
+###### Artículo 402.
+
+Las notificaciones irregularmente practicadas surtirán efectos a partir de la fecha en que se haga la manifestación expresa por el interesado o su representante legal de conocer su contenido o se interponga el recurso correspondiente según lo preceptuado legalmente para el caso.
+
+###### Artículo 403.
+
+Las notificaciones irregularmente practicadas podrán ser impugnadas conforme lo establece el título sexto del Código Fiscal del Estado de Sonora.
+
+###### Artículo 404.
+
+Ponen fin al procedimiento administrativo:
+
+I. El acto o la resolución definitiva que se emita;
+
+II. El desistimiento;
+
+III. La imposibilidad material de continuarlo por causas supervenientes;
+
+IV. La declaración de caducidad de la instancia; y
+
+V. El convenio entre las partes, siempre y cuando no sea contrario al ordenamiento jurídico, no verse sobre materias que no sean susceptibles de transacción ni tengan por objeto satisfacer el interés público, con el alcance, efectos y régimen jurídico específico que en cada caso prevea la disposición que lo regula.
+
+###### Artículo 405.
+
+Cuando se trate de autorizaciones, licencias o permisos, la autoridad administrativa deberá resolver el procedimiento administrativo respectivo, en los términos previstos por los ordenamientos jurídicos; sólo que éstos no contemplen un término específico, deberá resolverse en un término de treinta días hábiles, contados a partir de la presentación de la solicitud. En estos casos, si la autoridad administrativa no emite su resolución dentro de los plazos establecidos se entenderá que la resolución es en sentido negativo.
+
+###### Artículo 406.
+
+Todo interesado podrá desistirse del procedimiento administrativo que promueva, cuando sólo afecte a sus intereses; en caso de que existan varios interesados, el desistimiento sólo operará respecto de quien lo hubiese formulado.
+
+###### Artículo 407.
+
+El desistimiento deberá ser presentado por escrito, ya sea por el interesado o su representante legal y para que produzca efectos jurídicos tendrá que ser ratificado por comparecencia ante la autoridad administrativa que conozca del procedimiento. Dicha ratificación deberá efectuarse dentro de los tres días hábiles siguientes a la presentación del desistimiento.
+
+###### Artículo 408.
+
+La caducidad por falta de actividad del procedimiento administrativo operará de oficio en los siguientes casos:
+
+I. Cuando se trate de procedimientos administrativos iniciados de oficio, a los tres meses, contados a partir de la última actuación administrativa; y
+
+II. Cuando se trate de procedimientos administrativos iniciados a petición del interesado, procederá si el impulso del particular es indispensable para la continuación del procedimiento y operará a los tres meses contados a partir de la última gestión que haya realizado.
+
+###### Artículo 409.
+
+La caducidad no producirá por sí misma la prescripción de las acciones del particular, ni de la administración pública municipal, pero los procedimientos caducados no interrumpen ni suspenden el plazo de la prescripción.
+
+Contra la resolución que declare la caducidad del procedimiento administrativo procederá el recurso de inconformidad.
+
+###### Artículo 410.
+
+Los actos o resoluciones emitidos que pongan fin al procedimiento, deberán decidir todas y cada una de las cuestiones planteadas por los interesados o previstas por las normas.
+
+### CAPITULO TERCERO. DE LAS VISITAS DE INSPECCION
+
+###### Artículo 411.
+
+Las unidades administrativas que deban llevar a cabo visitas de inspección, derivadas del cumplimiento de las facultades y atribuciones que las leyes y reglamentos, en materia municipal, les confieren o, para verificar el acatamiento de disposiciones legales y reglamentarias, se deberán sujetar al procedimiento establecido en este capítulo.
+
+###### Artículo 412.
+
+Las visitas de inspección podrán ser ordinarias y extraordinarias; las primeras se efectuarán en días y horas hábiles y las segundas en cualquier tiempo.
+
+###### Artículo 413.
+
+Los inspectores, para practicar visitas de inspección, deberán estar provistos de orden escrita que deberá cumplir con los siguientes requisitos:
+
+I. Nombre, cargo y firma autógrafa de la autoridad que la emite;
+
+II. Nombre del representante legal del establecimiento con quien deba entenderse la visita;
+
+III. La especificación de los puntos que serán objeto de la inspección y los alcances de la misma;
+
+IV. Las disposiciones legales que la fundamenten; y
+
+V. Nombre del o los funcionarios comisionados para la visita de inspección.
+
+###### Artículo 414.
+
+Los propietarios, responsables, encargados u ocupantes de establecimientos objeto de visitas de inspección, estarán obligados a permitir el acceso y dar facilidades e informes a los inspectores para el desarrollo de su labor.
+
+###### Artículo 415.
+
+Al iniciar la visita, el inspector deberá de exhibir credencial vigente con fotografía, expedida por la autoridad competente que lo acredite para desempeñar dicha función, así como la orden a que se refiere el artículo 413 de esta Ley, de la que deberá dejar copia al propietario, responsable, encargado u ocupante del establecimiento.
+
+###### Artículo 416.
+
+De toda visita de inspección se levantará acta circunstanciada, en presencia de dos testigos designados por la persona con quien se hubiere entendido la diligencia o por quien la practique, si aquélla se hubiese negado a proponerlos.
+
+De toda acta se dejará copia a la persona con quien se entendió la diligencia, aunque se hubiere negado a firmar, lo que no afectará la validez de la diligencia ni la del documento de que se trate, siempre y cuando el verificador haga constar la circunstancia propia en el acta.
+
+###### Artículo 417.
+
+En las actas se hará constar cuando menos:
+
+I. Nombre, denominación y razón social del visitado;
+
+II. Hora, día, mes y año en que se inicie y concluya la diligencia;
+
+III. Calle, número, colonia, población, teléfono u otra forma de comunicación disponible y código postal en que se encuentre ubicado el lugar en que se practique la visita;
+
+IV. Número y fecha del oficio de comisión que la motivó;
+
+V. Nombre y cargo de la persona con quien se entendió la diligencia;
+
+VI. Nombre y domicilio de las personas que fungieron como testigos;
+
+VII. Datos relativos a la actuación;
+
+VIII. Declaración del visitado, si quisiera hacerla; y
+
+IX. Nombre y firma de quienes intervinieron en la diligencia, incluyendo quien la hubiere llevado a cabo. Si se negaren a firmar el visitado o su representante legal, ello no afectará la validez del acta, debiendo el verificador asentar la razón relativa.
+
+###### Artículo 418.
+
+Los visitados a quienes se haya levantado acta de inspección podrán formular observaciones en el acto de la diligencia y ofrecer pruebas en relación a los hechos contenidos en ella, o bien, por escrito hacer uso de tal derecho dentro del término de cinco días siguientes a la fecha en que se hubiere levantado.
+
+###### Artículo 419.
+
+En el caso de llevarse a cabo la inspección, quien la realice tiene la facultad de obtener copias de los documentos necesarios, levantamiento de planos, fotografías del lugar u objetos supervisados, allegándose cualquier medio de prueba para el logro de la visita, mismos elementos que deberán formar parte del expediente que se integre con motivo de la inspección realizada.
+
+###### Artículo 420.
+
+Si alguna información o documento que sea importante para el resultado de la inspección no obra en poder del visitado, se le concederá un plazo de tres días para remitirlo a la autoridad administrativa, agregándose dicho elemento como complemento de la inspección.
+
+###### Artículo 421.
+
+En el cierre del acta firmarán todos los que intervinieron en la diligencia, entregándose una copia al propietario, encargado, responsable o representante legal del establecimiento. Si por cualquier motivo no se pudiere concluir la visita de inspección, se hará un cierre provisional del acta y se señalará fecha y hora para la continuación de la misma, teniéndose por notificados los presentes.
+
+###### Artículo 422.
+
+La unidad administrativa que realice la inspección contará con un plazo de quince días, contados a partir del día siguiente del cierre del acta, para dictar la resolución correspondiente y, de cinco días para notificar por escrito el fallo.
+
+###### Artículo 423.
+
+La inspección podrá realizarse, cuando se estime conveniente, por parte de la unidad administrativa que corresponda, o bien, para atender cualquier queja o denuncia en contra de algún establecimiento que deba estar bajo la supervisión del Ayuntamiento.
+
+###### Artículo 424.
+
+El procedimiento previsto en los artículos anteriores no será aplicable cuando los puntos objeto de la inspección tengan origen en materias de carácter fiscal, financiero y de responsabilidades de los servidores públicos, en las cuales se estará a su propia normatividad.
+
+### CAPITULO CUARTO. DE LAS MEDIDAS DE SEGURIDAD
+
+###### Artículo 425.
+
+El Ayuntamiento, dentro del ámbito de su competencia, vigilará el cumplimiento de las disposiciones de esta Ley, de las leyes en materia municipal y sus reglamentos, debiendo adoptar, en su caso, las medidas de seguridad establecidas en dichos ordenamientos.
+
+Se consideran medidas de seguridad las disposiciones que dicte la autoridad competente para prevenir situaciones de riesgo que puedan causar un daño a la comunidad o a sus integrantes.
+
+Las medidas de seguridad son de carácter coactivo y de inmediata ejecución, y se aplicarán sin perjuicio de las sanciones que en su caso correspondan.
+
+###### Artículo 426.
+
+Las autoridades municipales, con base en los resultados de la visita de verificación o del informe de la misma, podrán dictar medidas de seguridad para corregir las irregularidades que se hubiesen encontrado. Dichas medidas tendrán la duración estrictamente necesaria para la corrección de las irregularidades respectivas.
+
+###### Artículo 427.
+
+Las autoridades encargadas de aplicar las medidas de seguridad, deberán sujetarse a los siguientes criterios:
+
+I. Fundarán y motivarán sus resoluciones, en los términos de los artículos 14 y 16 de la Constitución Política de los Estados Unidos Mexicanos;
+
+II. Se considerará la trascendencia del asunto de que se trate y los intereses que se afecten o dejen de afectarse, en caso de aplicarse la medida; y
+
+III. La resolución que se adopte, se hará saber por escrito al interesado, dentro de un plazo no mayor de cinco días naturales, contados a partir de la fecha en que se dicte la resolución.
+
+### CAPITULO QUINTO. DEL RECURSO DE INCONFORMIDAD
+
+###### Artículo 428.
+
+Los interesados afectados por los actos y resoluciones de las autoridades administrativas podrán, a su elección, interponer el recurso de inconformidad previsto en esta Ley o intentar el juicio correspondiente ante el Tribunal de lo Contencioso Administrativo del Estado dentro del plazo de 15 días o el establecido en la Ley del Tribunal de lo Contencioso Administrativo. El recurso de inconformidad tendrá por objeto que el Ayuntamiento confirme, modifique, revoque o anule el acto administrativo recurrido.
+
+###### Artículo 429.
+
+El término para interponer el recurso de inconformidad ante el Ayuntamiento será de quince días hábiles, contados a partir del día siguiente que surta sus efectos la notificación de la resolución que se recurra, o de que el recurrente tenga conocimiento de dicha resolución.
+
+###### Artículo 430.
+
+El recurso de inconformidad ante el Ayuntamiento deberá presentarse ante el Secretario del mismo, quien instruirá el procedimiento conforme a esta Ley, hasta el estado de resolución.
+
+###### Artículo 431.
+
+En el escrito de interposición del recurso de inconformidad, el interesado deberá cumplir con los siguientes requisitos:
+
+I. El órgano a quien se dirige;
+
+II. El nombre del recurrente y del tercero perjudicado si lo hubiere, así como el lugar que señale para oír y recibir notificaciones y documentos, y el nombre de la persona para oírlas y recibirlas;
+
+III. Precisar el acto o resolución administrativa que impugna, así como la fecha en que fue notificado de la misma o bien tuvo conocimiento de ésta;
+
+IV. Señalar a la autoridad emisora de la resolución que recurre;
+
+V. La descripción de los hechos, antecedentes de la resolución que se recurre;
+
+VI. Los agravios que le causan y los argumentos de derecho en contra de la resolución que se recurre; y
+
+VII. Las pruebas que se ofrezcan, relacionándolas con los hechos que se mencionen.
+
+###### Artículo 432.
+
+Con el escrito de interposición del recurso de inconformidad deberán acompañarse los siguientes documentos:
+
+I. Los documentos que acrediten la personalidad del promovente, cuando actúe a nombre de otro o de persona moral;
+
+II. El documento en que conste el acto o la resolución recurrida, cuando dicha actuación haya sido por escrito;
+
+III. La constancia de notificación del acto impugnado. Si la notificación fue por edicto se deberá acompañar la última publicación; o la manifestación bajo protesta de decir verdad de la fecha en que tuvo conocimiento de la resolución; y
+
+IV. Las pruebas que se acompañen.
+
+###### Artículo 433.
+
+En caso de que el recurrente no cumpliera con alguno de los requisitos o no presente los documentos que señalan los dos artículos anteriores, el Secretario del Ayuntamiento, deberá prevenirlo por escrito por una vez para que en el término de cinco días hábiles siguientes a la notificación personal subsane la irregularidad. Si transcurrido dicho plazo el recurrente no desahoga en sus términos la prevención, el recurso se tendrá por no interpuesto.
+
+Si el escrito de interposición del recurso no aparece firmado por el interesado, o por quien debe hacerlo, se tendrá por no interpuesto.
+
+###### Artículo 434.
+
+El interesado podrá solicitar la suspensión del acto administrativo recurrido en cualquier momento, hasta antes de que se resuelva la inconformidad.
+
+El Secretario del Ayuntamiento deberá acordar, en su caso, el otorgamiento de la suspensión o la denegación de la misma, dentro de los cinco días hábiles siguientes a su solicitud.
+
+###### Artículo 435.
+
+Al resolver sobre la suspensión, el Secretario del Ayuntamiento deberá señalar, en su caso, las garantías necesarias para cubrir los daños y perjuicios que pudieran ocasionarse con dicha suspensión. Tratándose de multas, el recurrente también deberá garantizar el crédito fiscal en cualesquiera de las formas previstas por el Código Fiscal para el Estado de Sonora.
+
+En los casos que proceda la suspensión pero pueda ocasionar daños o perjuicios a terceros, el interesado deberá otorgar garantía bastante para reparar el daño e indemnizar los perjuicios que se ocasionen con dicha medida.
+
+###### Artículo 436.
+
+No se otorgará la suspensión en aquellos casos en que se cause perjuicio al interés social, se contravengan disposiciones de orden público o se deje sin materia el procedimiento.
+
+###### Artículo 437.
+
+Los recurrentes a quienes se otorgue la suspensión del acto o la resolución administrativa, deberán garantizar, cuando no se trate de créditos fiscales, en alguna de las formas siguientes:
+
+I. Billete de depósito expedido por la institución autorizada; o
+
+II. Fianza expedida por institución respectiva.
+
+###### Artículo 438.
+
+La suspensión sólo tendrá como efecto que las cosas se mantengan en el estado en que se encuentran, en tanto se pronuncia la resolución al recurso.
+
+###### Artículo 439.
+
+La suspensión podrá revocarse por el Secretario del Ayuntamiento, si se modifican las condiciones bajo las cuales se otorgó.
+
+###### Artículo 440.
+
+Recibido el recurso por el Secretario del Ayuntamiento, le solicitará a la autoridad emisora del acto un informe sobre el asunto, así como la remisión del expediente respectivo en un plazo de cinco días hábiles.
+
+En un término de tres días hábiles, contados a partir de la recepción del informe, el Secretario del Ayuntamiento deberá proveer sobre la admisión, prevención o desechamiento del recurso, lo cual deberá notificársele al recurrente personalmente. Si se admite el recurso a trámite se concederá una dilación probatoria por el término de diez días. Concluido este periodo, se abrirá uno para alegatos por el término de cinco días. Agotada esta última etapa, el Secretario del Ayuntamiento elaborará un dictamen y lo turnará con las constancias respectivas al Ayuntamiento para su resolución.
+
+###### Artículo 441.
+
+Se desechará por improcedente el recurso cuando se interponga:
+
+I. Contra actos administrativos que sean materia de otro recurso que se encuentre pendiente de resolución y que haya sido promovido por el mismo recurrente por el propio acto impugnado;
+
+II. Contra actos que no afecten los intereses legítimos del promovente;
+
+III. Contra actos consumados de modo irreparable;
+
+IV. Contra actos consentidos expresamente;
+
+V. Cuando el recurso sea interpuesto fuera del término previsto por esta ley; o
+
+VI. Cuando se esté tramitando ante los tribunales algún recurso o medio de defensa legal interpuesto por el promovente, que pueda tener por efecto modificar, revocar o nulificar el acto respectivo.
+
+###### Artículo 442.
+
+Será sobreseído el recurso cuando:
+
+I. El promovente se desista expresamente;
+
+II. El interesado fallezca durante el procedimiento, si el acto o resolución impugnados sólo afecta a su persona;
+
+III. Durante el procedimiento sobrevenga alguna de las causas de improcedencia a que se refiere el artículo anterior;
+
+IV. Hayan cesado los efectos del acto impugnado;
+
+V. Falte el objeto o materia del acto; o
+
+VI. No se probare la existencia del acto impugnado.
+
+###### Artículo 443.
+
+El Ayuntamiento deberá emitir la resolución al recurso dentro de los diez días hábiles siguientes a aquél en que fenezca el período de alegatos.
+
+###### Artículo 444.
+
+La resolución del recurso se fundará en derecho y examinará todos y cada uno de los agravios hechos valer por el recurrente, teniendo la autoridad competente la facultad de invocar hechos notorios; pero cuando uno de los agravios sea suficiente para desvirtuar la validez del acto impugnado, bastará con el examen de dicho punto.
+
+La autoridad, en beneficio del recurrente, podrá corregir los errores que advierta en la cita de los preceptos que se consideren violados y examinar en su conjunto los agravios, así como los demás razonamientos del recurrente, a fin de resolver la cuestión efectivamente planteada, pero sin cambiar los hechos expuestos en el recurso.
+
+Si la resolución ordena realizar un determinado acto o iniciar la reposición del procedimiento, deberá cumplirse en un plazo de 10 días hábiles contados a partir de que se haya dictado dicha resolución.
+
+###### Artículo 445.
+
+El Ayuntamiento al resolver el recurso podrá:
+
+I. Declararlo improcedente o sobreseerlo;
+
+II. Confirmar el acto impugnado;
+
+III. Declarar la nulidad del acto impugnado o revocarlo; o
+
+IV. Modificar u ordenar la modificación del acto impugnado o dictar u ordenar expedir uno nuevo que lo sustituya, cuando el recurso interpuesto sea total o parcialmente resuelto a favor del recurrente; u ordenar la reposición del procedimiento administrativo.
+
+###### Artículo 446.
+
+Contra la resolución que recaiga al recurso de inconformidad dictado por el Ayuntamiento procede el juicio de nulidad ante el Tribunal de lo Contencioso Administrativo.
+
+T R A N S I T O R I O S
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor a los treinta días siguientes al día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+A la entrada en vigor de esta Ley, se abroga la Ley Orgánica de Administración Municipal, publicada en el Boletín Oficial del Gobierno del Estado el 2 de febrero de 1984 y la Ley que regula la Prestación de Servicios Públicos Municipales, publicada en el Boletín Oficial del Gobierno del Estado el 17 de agosto de 1987.
+
+###### ARTICULO TERCERO.
+
+Se derogan, asimismo, todas las disposiciones y ordenamientos legales que se opongan a la presente Ley.
+
+###### ARTICULO CUARTO.
+
+Se concede a los Ayuntamientos del Estado un plazo de un año, contado a partir de la entrada en vigor de la presente Ley, para que reformen y en su caso formulen, aprueben y publiquen los reglamentos que deriven de la misma, asegurando la participación ciudadana. Mientras tanto, seguirán vigentes los actuales en lo que no se opongan a este ordenamiento.
+
+###### ARTICULO QUINTO.
+
+Los municipios que no cuenten con Bando de Policía y Gobierno o con los reglamentos correspondientes, en tanto sus ayuntamientos los expidan, deberán tomar el acuerdo a que se refiere el artículo 349 de la presente Ley, el cual deberá ser publicado en el Boletín Oficial del Gobierno del Estado en un plazo no mayor de seis meses contados a partir de la entrada en vigor de esta Ley.
+
+###### ARTICULO SEXTO.
+
+Los trámites que se estén llevando a cabo en las instancias correspondientes relacionados con los bienes inmuebles propiedad del Municipio, que estuvieren pendientes de resolverse hasta antes de la entrada en vigor de la presente Ley, se continuarán hasta su terminación, conforme al contenido de las disposiciones anteriores que se abrogan; pudiendo, por acuerdo del Ayuntamiento respectivo, desistirse del procedimiento iniciado, para someterse a las nuevas disposiciones que esta Ley establece.
+
+###### ARTICULO SEPTIMO.
+
+Antes del inicio del ejercicio fiscal de 2002, el Congreso del Estado -en coordinación con los municipios respectivos- adoptarán las medidas conducentes a fin de que los valores unitarios de suelo que sirven de base para el cobro de las contribuciones sobre la propiedad inmobiliaria sean equiparables a los valores de mercado de dicha propiedad y procederán, en su caso, a realizar las adecuaciones correspondientes a las tasas aplicables para el cobro de las mencionadas contribuciones, a fin de garantizar su apego a los principios de proporcionalidad y equidad.
+
+###### ARTICULO OCTAVO.
+
+Los convenios celebrados entre el Estado y los municipios con anterioridad a la presente Ley, se ajustarán a lo establecido en la misma.
+
+###### ARTICULO NOVENO.
+
+En la realización de las acciones conducentes al cumplimiento de la presente Ley, se respetarán en todo momento los derechos y obligaciones contraídos previamente con terceros, así como los derechos de los trabajadores estatales y municipales.
+
+###### ARTICULO DECIMO.
+
+En un plazo no mayor a un año, contado a partir de que entre en vigor la presente Ley, el Congreso del Estado deberá emitir el ordenamiento legal correspondiente, donde se establecerán las bases de organización, funcionamiento, desarrollo, control y evaluación del servicio profesional de carrera para los servidores públicos de la administración municipal.
+
+###### ARTICULO DECIMO PRIMERO.
+
+En todos los procedimientos administrativos que se encuentren en trámite ante las autoridades municipales, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de esta Ley.
+
+###### ARTICULO DECIMO SEGUNDO.
+
+Los recursos administrativos interpuestos por particulares con fundamento en la Ley Orgánica de Administración Municipal y que se encuentren en trámite a la entrada en vigor de la presente Ley, se tramitarán y resolverán de conformidad con la ley vigente al momento de su presentación.
+
+COMUNIQUESE AL EJECUTIVO PARA SU SANCION Y PROMULGACION.-
+
+AL MARGEN CENTRAL DERECHO UN SELLO CON EL ESCUDO NACIONAL QUE DICE: ESTADOS UNIDOS MEXICANOPS.- H. CONGRESO DEL ESTADO DE SONORA.- SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- "CONSTITUYENTES SONORENSES DE 1917".- HERMOSILLO, SONORA, 13 DE SEPTIEMBRE DE 2001.- DIPUTADO PRESIDENTE.- C. FRANCISCO VELASCO NÚÑEZ.- RUBRICA.- DIPUTADO SECRETARIO.- C. HOMERO RIOS MURRIETA.- RUBRICA.- DIPUTADA SECRETARIA.- C. HILDELISA GONZALEZ MORALES.- RUBRICA.-
+
+POR TANTO, MANDO SE PUBLIQUE EN EL BOLETÍN OFICIAL DEL ESTADO Y SE LE DE EL DEBIDO CUMPLIMIENTO.
+
+PALACIO DE GOBIERNO, HERMOSILLO, SONORA, DIECISIETE DE SEPTIEMBRE DEL DOS MIL UNO.-
+
+SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- ARMANDO LOPEZ NOGALES.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- OSCAR LOPEZ VUCOVICH.- RUBRICA.-
