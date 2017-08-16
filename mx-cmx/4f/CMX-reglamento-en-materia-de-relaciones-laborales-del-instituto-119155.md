@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-en-materia-de-relaciones-laborales-del-instituto-119
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-02-15"
-last_updated: "2017-02-15"
+last_updated: "2017-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=119155&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -23,7 +23,7 @@ scjn_last_update: "2017-08-16"
 
 REGLAMENTO EN MATERIA DE RELACIONES LABORALES DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE AGOSTO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 15 de febrero de 2017.
 
@@ -1806,3 +1806,25 @@ Décimo Segundo. La sustanciación de las etapas del Procedimiento Laboral Disci
 Décimo Tercero. No serán aplicables a l as (sic) y los trabajadores en servicio activo a l a (sic) entrada en vigor del presente ordenamiento, las disposiciones contenidas en los artículos 43, párrafo segundo y 97, fracción I de este Reglamento, relativas a la antigüedad requerida para la terminación de la relación laboral por la vía del convenio y el otorgamiento de licencias sin goce de sueldo.
 
 El personal que ingrese con posterioridad, requerirá la antigüedad prevista en las disposiciones vigentes.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 16 DE AGOSTO DE 2017.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, POR EL QUE SE APRUEBAN EL REGLAMENTO DE FUNCIONAMIENTO DE LA JUNTA ADMINISTRATIVA DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, EL REGLAMENTO EN MATERIA DE RELACIONES LABORALES DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO Y EL REGLAMENTO DEL FONDO DE AHORRO DEL PERSONAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, CON MOTIVO DE LA EXPEDICIÓN Y ENTRADA EN VIGOR DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO”.]</small>
+
+PRIMERO. Se aprueban el Reglamento de Funcionamiento de la Junta Administrativa del Instituto Electoral de la Ciudad de México, el Reglamento en Materia de Relaciones Laborales del Instituto Electoral de la Ciudad de México y el Reglamento del Fondo de Ahorro del Personal del Instituto Electoral de la Ciudad de México, conforme a los Anexos que se acompañan, los cuales forman parte Integral del presente Acuerdo.
+
+SEGUNDO. Se abrogan el Reglamento de Funcionamiento de la Junta Administrativa del Instituto Electoral del Distrito Federal, aprobado mediante Acuerdo ACU-04-11; el Reglamento del Fondo de Ahorro del Personal del Instituto Electoral del Distrito Federal, aprobado mediante Acuerdo ACU-35-11, y el Reglamento en Materia de Relaciones Laborales del Instituto Electoral del Distrito Federal, aprobado mediante el Acuerdo ACU-06-17.
+
+TERCERO. Se instruye a la Secretaría Ejecutiva para que comunique mediante Circular el contenido del presente Acuerdo y sus Anexos al personal de este Instituto Electoral, para su observancia y aplicación en el ámbito de su competencia.
+
+CUARTO. Realícense las adecuaciones procedentes en virtud de la determinación asumida por el Consejo General en el apartado de Transparencia de la página de Internet www.iedf.org.mx y difúndase la misma en las redes sociales de este Instituto Electoral.
+
+QUINTO. Publíquese de inmediato el presente Acuerdo y sus Anexos en los estrados del Instituto Electoral, tanto en oficinas centrales como en cada uno de sus cuarenta órganos desconcentrados y en la página de Internet www.iedf.org.mx.
+
+SEXTO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SÉPTIMO. Remítase el presente Acuerdo y sus Anexos, a la Gaceta Oficial de la Ciudad de México para su publicación, dentro del plazo de diez días hábiles siguientes a su aprobación.
+
+OCTAVO. Se instruye al Secretario Ejecutivo informe a la Asamblea Legislativa del Distrito Federal la determinación asumida por este Consejo General, con la que se da cumplimiento a la previsión establecida en el artículo décimo tercero transitorio del Código.
