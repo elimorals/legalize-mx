@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-cg347-2008-del-consejo-general-del-instituto-75463"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2010-07-01"
-last_updated: "2010-07-01"
+last_updated: "2017-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75463&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2008-08-14"
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBAN LOS LINEAMIENTOS PARA LA INCORPORACIÓN, ACTUALIZACIÓN, EXCLUSIÓN Y REINCORPORACIÓN DE LOS REGISTROS DE LAS CIUDADANAS Y LOS CIUDADANOS EN EL PADRÓN ELECTORAL Y LA LISTA NOMINAL DE ELECTORES, PUBLICADO EN LA TERCERA SECCIÓN DEL D.O.F. DE 16 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS GENERALES PARA LA DEPURACION DEL PADRON ELECTORAL EN EL MARCO DEL DESARROLLO DE LA ESTRATEGIA INTEGRAL PARA LA DEPURACION DEL PADRON ELECTORAL 2006-2012
+ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS GENERALES PARA LA DEPURACIÓN DEL PADRÓN ELECTORAL EN EL MARCO DEL DESARROLLO DE LA ESTRATEGIA INTEGRAL PARA LA DEPURACIÓN DEL PADRÓN ELECTORAL 2006-2012
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE AGOSTO DE 2017 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 1 de julio de 2010.
 
@@ -1416,3 +1416,21 @@ Primero. Los presentes lineamientos se publicarán en el Diario Oficial de la Fe
 Segundo. La Dirección Ejecutiva del Registro Federal de Electores aplicará los presentes lineamientos y podrá emitir procedimientos operativos y manuales de operación; además podrá desarrollar y adecuar los procesos y sistemas necesarios para atender lo dispuesto en la Estrategia Integral para la Depuración del Padrón Electoral 2006-2012, previo análisis del Comité Nacional de Supervisión y Evaluación y la Comisión Nacional de Vigilancia, debiendo informar al Consejo General del Instituto de estas actividades.
 
 Tercero. Los presentes lineamientos se aplicarán con base en la programación de la Estrategia Integral para la Depuración del Padrón Electoral 2006-2012, así como con las modificaciones que sufra dicha programación, derivadas de factores de índole técnico, operativo, administrativo y jurídico.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 16 DE AGOSTO DE 2017.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBAN LOS LINEAMIENTOS PARA LA INCORPORACIÓN, ACTUALIZACIÓN, EXCLUSIÓN Y REINCORPORACIÓN DE LOS REGISTROS DE LAS CIUDADANAS Y LOS CIUDADANOS EN EL PADRÓN ELECTORAL Y LA LISTA NOMINAL DE ELECTORES.]</small>
+
+PRIMERO. Se aprueban los “Lineamientos para la incorporación, actualización, exclusión y reincorporación de los registros de las ciudadanas y los ciudadanos en el Padrón Electoral y la Lista Nominal de Electores”, de conformidad con el Anexo que acompaña al presente Acuerdo y forma parte integral del mismo.
+
+SEGUNDO. Se abrogan los “Lineamientos Generales para la Depuración del Padrón Electoral, en el marco del desarrollo de la estrategia integral para la Depuración del Padrón Electoral 2006-2012”, aprobados por el Consejo General del otrora Instituto Federal Electoral, mediante Acuerdo CG347/2008.
+
+TERCERO. Se instruye a la Dirección Ejecutiva del Registro Federal de Electores ajuste los procedimientos operativos y los sistemas informáticos a su cargo, a fin de instrumentar la ejecución de las actividades y procedimientos contenidos en los “Lineamientos para la incorporación, actualización, exclusión y reincorporación de los registros de las ciudadanas y los ciudadanos en el Padrón Electoral y la Lista Nominal de Electores”.
+
+CUARTO. Se instruye a la Dirección Ejecutiva del Registro Federal de Electores hacer del conocimiento de los integrantes de la Comisión Nacional de Vigilancia lo aprobado por este órgano superior de dirección.
+
+QUINTO. El presente Acuerdo y su Anexo entrarán en vigor a partir de su aprobación por este Consejo General.
+
+SEXTO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
