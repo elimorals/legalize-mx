@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-del-servicio-profesional-electoral-y-demas-80861"
 country: "mx"
 rank: "estatuto"
 publication_date: "2011-04-15"
-last_updated: "2017-02-15"
+last_updated: "2017-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80861&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,13 @@ issue_date: "2011-03-28"
 ---
 # ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL Y DEMAS PERSONAL QUE LABORE EN EL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO EN MATERIA DE RELACIONES LABORALES DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 15 DE FEBRERO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO EN MATERIA DE RELACIONES LABORALES DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 15 DE FEBRERO DE 2017 Y REPUBLICADO EN LA G.O. DE 16 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL Y DEMÁS PERSONAL QUE LABORE EN EL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE FEBRERO DE 2017 (ABROGADO).
+
+(REPUBLICADA EN LA GACETA OFICIAL: 16 DE AGOSTO DE 2017)
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el viernes 15 de abril de 2011.
 
@@ -190,7 +192,7 @@ ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL Y DEMÁS PERSONAL QUE LABORE EN EL I
 
 ### CAPÍTULO II. DE LA UNIDAD TÉCNICA DEL CENTRO DE FORMACIÓN Y DESARROLLO
 
-### CAPÍTULO III. DE LOS DERECHOS Y OBLIGACIONES DEL PERSONALDE ESTRUCTURA DEL INSTITUTO ELECTORAL
+### CAPÍTULO III. DE LOS DERECHOS Y OBLIGACIONES DEL PERSONAL DE ESTRUCTURA DEL INSTITUTO ELECTORAL
 
 ### CAPÍTULO IV. DISPOSICIONES COMUNES PARA EL PERSONAL DE ESTRUCTURA
 
@@ -1012,13 +1014,13 @@ Los integrantes de los cuerpos de referencia ocuparán rangos y niveles propios,
 
 Los cuerpos del Servicio Profesional se estructuran en los siguientes rangos y niveles:
 
-> <small>N. DE E. VEASE TABLA EN LA G.O. DE 15 DE ABRIL DE 2011, PAGINAS DE LA 225 A LA 226.</small>
+> <small>[N. DE E. VÉASE TABLA EN LA G.O. DE 15 DE ABRIL DE 2011, PÁGINAS DE LA 225 A LA 226.]</small>
 
 ###### Artículo 47.
 
 El perfil mínimo para cada rango del Servicio Profesional será el siguiente:
 
-> <small>N. DE E. VEASE TABLA EN LA G.O. DE 15 DE ABRIL DE 2011, PAGINA 226.</small>
+> <small>[N. DE E. VÉASE TABLA EN LA G.O. DE 15 DE ABRIL DE 2011, PÁGINA 226.]</small>
 
 La formación académica, área de experiencia, conocimientos y funciones para cada cargo serán los establecidos en el Catálogo y en el Manual.
 
@@ -2365,6 +2367,8 @@ OCTAVO. Instruir a la Unidad Técnica de Comunicación Social, Transparencia y P
 NOVENO. Remítase el presente Acuerdo a la Gaceta Oficial del Distrito Federal para su publicación, dentro del plazo de diez días hábiles contados a partir de su entrada en vigor.
 
 G.O. 15 DE FEBRERO DE 2017.
+
+(REPUBLICADO, G.O. 16 DE AGOSTO DE 2017)
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL POR EL QUE SE APRUEBA EL REGLAMENTO EN MATERIA DE RELACIONES LABORALES DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL”.]
 
