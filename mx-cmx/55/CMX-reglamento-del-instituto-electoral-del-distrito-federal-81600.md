@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-instituto-electoral-del-distrito-federal-81600"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-08"
-last_updated: "2016-10-03"
+last_updated: "2017-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81600&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2011-05-25"
 ---
 # REGLAMENTO DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL PARA LA LIQUIDACION DEL PATRIMONIO DE LAS ASOCIACIONES POLITICAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, MEDIANTE EL CUAL SE APRUEBA EL REGLAMENTO PARA LA LIQUIDACIÓN DEL PATRIMONIO DE LAS ASOCIACIONES POLÍTICAS DE LA CIUDAD DE MÉXICO, CON MOTIVO DE LA EXPEDICIÓN Y ENTRADA EN VIGOR DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 16 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL PARA LA LIQUIDACION DEL PATRIMONIO DE LAS ASOCIACIONES POLITICAS
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO DEL REGLAMENTO PARA LA LIQUIDACIÓN DEL PATRIMONIO DE LOS PARTIDOS POLÍTICOS LOCALES DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 3 DE OCTUBRE DE 2016, "SE DEROGA EL REGLAMENTO DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL PARA LA LIQUIDACIÓN DEL PATRIMONIO DE LAS ASOCIACIONES POLÍTICAS EN EL DISTRITO FEDERAL, APROBADO POR EL CONSEJO GENERAL, EL VEINTICINCO DE MAYO DE DOS MIL ONCE, MEDIANTE ACUERDO ACU-37-11, EN LO CONCERNIENTE A LA LIQUIDACIÓN DE LOS PARTIDOS POLÍTICOS LOCALES, ASÍ COMO LAS DISPOSICIONES QUE SE OPONGAN AL REGLAMENTO QUE SE APRUEBA MEDIANTE ESTE ACUERDO".]</small>
-
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 16 DE AGOSTO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el miércoles 8 de junio de 2011.
 
@@ -945,3 +945,23 @@ QUINTO. Notifíquese personalmente este Acuerdo y su Anexo, a los partidos polí
 SEXTO. Se instruye a la Unidad Técnica de Comunicación Social, Transparencia y Protección de Datos Personales, para que de manera inmediata a la aprobación de este Acuerdo, y en el ámbito de su competencia, realice las adecuaciones que sean procedentes por virtud de la determinación asumida por el Consejo General, en el apartado de Transparencia del sitio www.iedf.org.mx, y con la finalidad de tener un mayor alcance en la difusión, publíquese un extracto del mismo en las redes sociales del Instituto Electoral.
 
 SÉPTIMO. Remítase el presente Acuerdo y su Anexo, a la Gaceta Oficial de la Ciudad de México para su publicación, dentro del plazo de diez días hábiles siguientes a su aprobación.
+
+G.O. 16 DE AGOSTO DE 2017.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, MEDIANTE EL CUAL SE APRUEBA EL REGLAMENTO PARA LA LIQUIDACIÓN DEL PATRIMONIO DE LAS ASOCIACIONES POLÍTICAS DE LA CIUDAD DE MÉXICO, CON MOTIVO DE LA EXPEDICIÓN Y ENTRADA EN VIGOR DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO”.]</small>
+
+PRIMERO. Se aprueba el Reglamento para la Liquidación del Patrimonio de las Asociaciones Políticas de la Ciudad de México, conforme al Anexo que se acompaña al presente, el cual forma parte integral del mismo.
+
+SEGUNDO. Se abroga el Reglamento del Instituto Electoral del Distrito Federal para la Liquidación del Patrimonio de las Asociaciones Políticas en el Distrito Federal, aprobado mediante Acuerdo ACU-37-11, y el Reglamento para la Liquidación del Patrimonio de los Partidos Políticos Locales de la Ciudad de México, aprobado mediante Acuerdo ACU-52-16.
+
+TERCERO. El presente Acuerdo y su Anexo entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+CUARTO. Publíquese este Acuerdo y su Anexo de manera inmediata a su aprobación, en los estrados del Instituto Electoral, en la sede central, en sus cuarenta Direcciones Distritales, y en la página de internet www.iedf.org.mx.
+
+QUINTO. Notifíquese personalmente este Acuerdo y su Anexo, a las asociaciones políticas con registro vigente ante este Instituto Electoral, dentro de los diez días hábiles siguientes a su entrada en vigor.
+
+SEXTO. Realícense las adecuaciones procedentes en virtud de la determinación asumida por el Consejo General en el apartado de Transparencia de la página de Internet www.iedf.org.mx y difúndase la misma en las redes sociales de este Instituto Electoral.
+
+SÉPTIMO. Remítase el presente Acuerdo y su Anexo, a la Gaceta Oficial de la Ciudad de México para su publicación, dentro del plazo de diez días hábiles siguientes a su aprobación.
+
+OCTAVO. Se instruye al Secretario Ejecutivo informe a la Asamblea Legislativa del Distrito Federal, la determinación asumida por este Consejo General, con la que se da cumplimiento a la previsión establecida en el artículo décimo tercero transitorio del Código de la Ciudad.
