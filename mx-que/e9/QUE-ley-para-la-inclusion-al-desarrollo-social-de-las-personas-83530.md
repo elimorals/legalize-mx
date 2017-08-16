@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-la-inclusion-al-desarrollo-social-de-las-personas-8353
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-04"
-last_updated: "2015-10-23"
+last_updated: "2017-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY PARA LA INCLUSIÓN AL DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 4 de noviembre de 2011.
 
@@ -31,7 +31,9 @@ LIC. JOSÉ EDUARDO CALZADA ROVIROSA, Gobernador Constitucional del Estado de Que
 
 LA QUINCUAGÉSIMA SEXTA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 17, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
 
-CONSIDERANDO...
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto, la Quincuagésima Sexta Legislatura del Estado de Querétaro, expide la siguiente:
 
@@ -93,7 +95,9 @@ Serán sujetos de esta Ley las personas con discapacidad, entendiéndose por tal
 
 Son causantes de discapacidad:
 
-I. La deficiencia anatómica; afectación física o corporal;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2017)</small>
+
+I. La deficiencia anatómica; afectación física, corporal o trastorno de talla o peso;
 
 II. La deficiencia fisiológica; afectación de una función; y
 
@@ -221,9 +225,17 @@ XIX. A que se implementen las medidas que sean pertinentes y efectivas para gara
 
 XX. A ejercer su libertad de desplazamiento y a elegir su lugar de residencia, así como las personas con las que desea convivir;
 
-XXI. A gozar de los descuentos, beneficios y estímulos previstos por ésta y otras leyes; y
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2017)</small>
 
-XXII. A que se proteja la privacidad de su información personal y la relativa a su salud y rehabilitación.
+XXI. A gozar de los descuentos, beneficios y estímulos previstos por ésta y otras leyes;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2017)</small>
+
+XXII. A que se proteja la privacidad de su información personal y la relativa a su salud y rehabilitación; y
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2017)</small>
+
+XXIII. A que se implementen medidas de nivelación, inclusión y acciones afirmativas por parte de las autoridades estatales y municipales, en el ámbito de su competencia, encaminadas a lograr la plena inclusión de niños, niñas y adolescentes con discapacidad, en la prestación de cualquier servicio.
 
 ###### Artículo 7.
 
@@ -335,9 +347,15 @@ III. Elaborar estudios e investigaciones en materia de discapacidad;
 
 IV. Invitar a la sociedad en general, a participar de forma voluntaria en la difusión de los derechos de las personas con discapacidad;
 
-V. Participar en la evaluación de políticas públicas relacionadas con las personas con discapacidad; y
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2017)</small>
 
-VI. Las demás que la presente Ley y su reglamento le confieran.
+V. Participar en la evaluación de políticas públicas relacionadas con las personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2017)</small>
+
+VI. Proponer a las autoridades competentes acciones en materia urbana a favor de las personas con discapacidad para que se consideren en el plan o programa respectivo; y
+
+VII. Las demás que la presente Ley y su reglamento le confieran.
 
 ###### Artículo 15.
 
@@ -407,9 +425,15 @@ XXIV. Celebrar convenios de coordinación y colaboración con los gobiernos Fede
 
 XXV. Adquirir y dotar a los hospitales y centros de salud, de las instalaciones y mobiliario adecuado para la atención de las personas con discapacidad;
 
-XXVI. Vigilar el cumplimiento de las disposiciones contenidas en el presente ordenamiento legal; y
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2017)</small>
 
-XXVII. Las demás que le confieran esta Ley y otras disposiciones aplicables.
+XXVI. Vigilar el cumplimiento de las disposiciones contenidas en el presente ordenamiento legal;
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2017)</small>
+
+XXVII. Incluir dentro de los planes y programas urbanos un plan o programa especial correspondiente a las personas con discapacidad; y
+
+XXVIII. Las demás que le confieran esta Ley y otras disposiciones aplicables.
 
 ### Capítulo Segundo. Del Sistema para el Desarrollo Integral de la Familia del Estado de Querétaro
 
@@ -451,7 +475,9 @@ Los ayuntamientos de los municipios del Estado, con el objeto de proteger los de
 
 Son atribuciones y obligaciones de las autoridades municipales, en materia de protección a personas con discapacidad:
 
-I. Cumplir las disposiciones de esta Ley;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2017)</small>
+
+I. Establecer en el ámbito de su competencia políticas e impulsar acciones para dar cumplimiento a los programas nacionales, regionales, estatales y municipales, cuyo objeto sea el desarrollo integral de las personas con discapacidad;
 
 II. Ejecutar servicios y programas de integración, atención y prevención dirigidos a las personas con discapacidad y; en su caso, proponer al Consejo nuevos programas o proyectos en la materia para su validación;
 
@@ -469,9 +495,15 @@ VIII. Recibir y transmitir capacitación sobre temas relativos a la discapacidad
 
 IX. Adquirir y dotar, en el ámbito de su competencia, a los hospitales y centros de salud, de las instalaciones y mobiliario adecuado para la atención de las personas con discapacidad;
 
-X. Realizar, de acuerdo con su infraestructura, estudios socioeconómicos, investigaciones de campo y colaterales a las personas con discapacidad, a fin de obtener, a través del Consejo y otras instituciones, la atención y apoyos requeridos por aquellas; y
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2017)</small>
 
-XI. Las demás que determinen esta Ley y otras disposiciones aplicables.
+X. Realizar, de acuerdo con su infraestructura, estudios socioeconómicos, investigaciones de campo y colaterales a las personas con discapacidad, a fin de obtener, a través del Consejo y otras instituciones, la atención y apoyos requeridos por aquellas;
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2017)</small>
+
+XI. Incluir dentro de los planes y programas urbanos un plan o programa especial, correspondiente a las personas con discapacidad; y
+
+XII. Las demás que determinen esta Ley y otras disposiciones aplicables.
 
 ## Título Cuarto. Del Sistema de Prestación de Servicios
 
@@ -487,9 +519,13 @@ II. Rehabilitación laboral, capacitación y trabajo;
 
 III. Educación y orientación vocacional;
 
-IV. Facilidades arquitectónicas de desarrollo urbano y de vivienda;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2017)</small>
 
-V. Transporte público y comunicaciones;
+IV. Facilidades arquitectónicas, infraestructura y equipamiento de desarrollo urbano y de vivienda;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2017)</small>
+
+V. Movilidad, transporte público y comunicaciones;
 
 VI. Cultura, recreación y deporte;
 
@@ -791,9 +827,15 @@ IX. Capacitar, en materia de discapacidad, a los sectores empresarial y comercia
 
 X. Vigilar, que las condiciones en que las personas con discapacidad desempeñan su trabajo no sean discriminatorias, sancionando los casos de inobservancia a ello;
 
-XI. Gestionar el otorgamiento de incentivos fiscales y subsidios a las personas físicas o morales que contraten personas con discapacidad, así como beneficios adicionales para quienes, en virtud de tales contrataciones, realicen adaptaciones, eliminen barreras físicas o rediseñen sus áreas de trabajo; y
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2017)</small>
 
-XII. Las demás que le confieran esta Ley y otros ordenamientos legales aplicables en la materia.
+XI. Gestionar el otorgamiento de incentivos fiscales y subsidios a las personas físicas o morales que contraten personas con discapacidad, así como beneficios adicionales para quienes, en virtud de tales contrataciones, realicen adaptaciones, eliminen barreras físicas o rediseñen sus áreas de trabajo;
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2017)</small>
+
+XII. Crear e implementar políticas públicas, en forma conjunta con las autoridades competentes de los tres órdenes de gobierno, para generar incentivos subsidios, cuotas, capacitación, empréstitos accesibles, fideicomisos, entrega de material y equipo, donaciones a las empresas privadas y sociales de acuerdo a la cantidad de personas discapacitadas que contraten y se encuentren trabajando dentro de ellas; y
+
+XIII. Las demás que le confieran esta Ley y otros ordenamientos legales aplicables en la materia.
 
 ###### Artículo 56.
 
@@ -873,11 +915,15 @@ Los servicios de información pública, deberán facilitar a las personas con di
 
 ### Capítulo Décimo. De las barreras arquitectónicas y la movilidad
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 69.
 
-En materia de movilidad, esta Ley reconoce y garantiza a las personas con discapacidad, los siguientes derechos:
+En materia de urbanismo y movilidad, esta Ley reconoce y garantiza a las personas con discapacidad, los siguientes derechos:
 
-I. Desplazarse libremente en los espacios públicos, haciendo uso de ayudas técnicas, perros guías u otros apoyos que requieran;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2017)</small>
+
+I. Contar con estructuras arquitectónicas, infraestructura y equipamiento necesario para desplazarse libremente en las obras, espacios y vías públicas, así como en el entorno urbano en general, haciendo uso de ayudas técnicas, perros guías u otros apoyos que requieran en su caso;
 
 II. Disfrutar de los servicios públicos y privados, en igualdad de circunstancias con cualquier otro ciudadano; y
 
@@ -971,9 +1017,7 @@ El Poder Ejecutivo del Estado y los municipios, podrán otorgar estímulos, subs
 
 ###### Artículo 82.
 
-En el caso de los estímulos fiscales en el área laboral, éstos serán proporcionales al número de empleados con discapacidad contratados.
-
-Estos estímulos se aplicarán, además de los previstos en otros ordenamientos legales en la materia.
+(DEROGADO, P.O. 16 DE AGOSTO DE 2017)
 
 ### Capítulo Segundo. De las sanciones
 
@@ -1164,3 +1208,13 @@ Primero. La presente Ley entrará en vigor al día siguiente de su publicación 
 Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
 
 Tercero. El titular del Poder Ejecutivo del Estado de Querétaro, deberá de crear la Coordinación de Inclusión Social para las Personas con Discapacidad, dentro de los 180 días naturales contados a partir de la entrada en vigor de la presente Ley.
+
+P.O. 16 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY PARA LA INCLUSIÓN AL DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. Las acciones a que se refiere la presente Ley, se realizarán conforme a la disponibilidad presupuestal con que cuenten las dependencias y entidades facultadas para su aplicación.
