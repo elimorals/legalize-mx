@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-instituto-electoral-del-distrito-80854"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-15"
-last_updated: "2017-05-23"
+last_updated: "2017-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80854&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2011-03-28"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 16 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 23 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 16 DE AGOSTO DE 2017 (ABROGADO).
 
 Acuerdo del Consejo General del Instituto Electoral del Distrito Federal, por el cual se aprueba la propuesta de armonización tanto del Reglamento Interior del Instituto Electoral del Distrito Federal como del Reglamento de Sesiones del Consejo General y Comisiones del Instituto Electoral del Distrito Federal
 
@@ -2635,3 +2637,17 @@ G.O. 23 DE MAYO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL POR EL CUAL, EN CUMPLIMIENTO A LOS ACUERDOS IDENTIFICADOS CON LAS CLAVES ACU-02-17 Y ACU-06-17, SE APRUEBAN REFORMAS AL REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL”.]
 
 ÚNICO. La reforma al presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 16 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO POR EL QUE SE APRUEBA EL REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, CON MOTIVO DE LA EXPEDICIÓN Y ENTRADA EN VIGOR DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Se abroga el Reglamento Interior del Instituto Electoral del Distrito Federal aprobado por el Consejo General mediante acuerdo ACU-28-11, de fecha 28 de marzo de 2011.
+
+TERCERO. Se derogan las disposiciones que se opongan al presente Reglamento.
+
+CUARTO. En concordancia con el artículo Vigésimo Sexto Transitorio del Decreto que contiene las observaciones del Jefe de Gobierno de la Ciudad de México, respecto del diverso por el que se abroga el Código de Instituciones y Procedimientos Electorales del Distrito Federal y la Ley Procesal Electoral del Distrito Federal y se expide el Código de Instituciones y Procedimientos Electorales de la Ciudad de México y la Ley Procesal Electoral para la Ciudad de México, y se reforman diversas disposiciones de la Ley de Participación Ciudadana del Distrito Federal y del Código Penal para el Distrito Federal, todas las referencias al Congreso de la Ciudad de México, se entenderán como facultades concedidas a la Asamblea Legislativa del Distrito Federal, hasta en tanto concluya la VII Legislatura y se instale el Congreso Local.
+
+QUINTO. Para efectos estrictamente administrativos y hasta que la autoridad correspondiente no emita el nombramiento con la denominación indicada por el Código, toda referencia a la Contraloría General del Instituto Electoral, se entenderá realizada a la Contraloría Interna del propio Instituto Electoral.
