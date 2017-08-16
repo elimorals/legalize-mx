@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-instituto-local-de-la-infraestructura-101
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-06-12"
-last_updated: "2014-06-12"
+last_updated: "2017-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101326&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2014-05-23"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO LOCAL DE LA INFRAESTRUCTURA FISICA EDUCATIVA DEL DISTRITO FEDERAL
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO INSTITUTO LOCAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 16 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL INSTITUTO LOCAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 16 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
 
 ESTATUTO ORGÁNICO DEL INSTITUTO LOCAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE AGOSTO DE 2017 (DEROGADO).
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el jueves 12 de junio de 2014.
 
@@ -72,7 +72,7 @@ ESTATUTO ORGÁNICO DEL INSTITUTO LOCAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA D
 
 ## TRANSITORIOS
 
-ESTATUTO ORGÁNICO INSTITUTO (SIC) LOCAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DEL DISTRITO FEDERAL
+ESTATUTO ORGÁNICO (SIC) INSTITUTO LOCAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DEL DISTRITO FEDERAL
 
 ## TÍTULO PRIMERO. Disposiciones Generales
 
@@ -637,3 +637,21 @@ DIRECTOR GENERAL DEL INSTITUTO LOCAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DEL
 (Firma)
 
 LIC. DAVID ARTURO ZORRILLA COSÍO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G. O. 16 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO ORGÁNICO DEL INSTITUTO LOCAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DE LA CIUDAD DE MÉXICO".]
+
+Artículo Primero.- El presente Estatuto Orgánico entrará en vigor a partir del día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Artículo Segundo.- Se deroga el Estatuto Orgánico del Instituto publicado en la Gaceta Oficial del Distrito Federal el 12 de Junio de 2014, y se derogan todas las disposiciones contenidas en manuales administrativos del Instituto que se opongan a lo establecido en el presente Estatuto.
+
+Artículo Tercero.- Para las cuestiones no previstas en el presente Estatuto Orgánico, y en las que se presente controversia en cuanto a su aplicación, observancia e interpretación, la Junta de Gobierno resolverá lo conducente.
+
+Artículo Cuarto.- Las funciones del personal adscrito a las Unidades Administrativas del Instituto se detallarán en los manuales administrativos que apruebe la Junta de Gobierno.
+
+Artículo Quinto.- En tanto se expide el Manual Administrativo respectivo, el Director General resolverá las incidencias de procedimiento y operación, que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Sexto.- Se abroga el Estatuto Orgánico del Instituto Local de la Infraestructura Física Educativa de la Ciudad de México, publicado en la Gaceta Oficial del Distrito Federal el 12 de junio de 2014. Las unidades administrativas contempladas en el Estatuto Orgánico que se abroga ejercerán las facultades y continuarán en el conocimiento de los asuntos en trámite, hasta en tanto se realicen los trámites administrativos necesarios para que entren en funciones las nuevas unidades administrativas que se crean.
