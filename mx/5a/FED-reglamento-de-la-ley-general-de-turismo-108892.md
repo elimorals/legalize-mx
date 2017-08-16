@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-de-turismo-108892"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-07-06"
-last_updated: "2015-07-06"
+last_updated: "2017-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108892&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-06-26"
 
 REGLAMENTO DE LA LEY GENERAL DE TURISMO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE AGOSTO DE 2017.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 6 de julio de 2015.
 
@@ -863,6 +863,50 @@ La Secretaría, en coordinación con las autoridades competentes de los tres ór
 
 Los Prestadores de Servicios Turísticos están obligados a inscribirse en el Registro Nacional de Turismo, de conformidad con el artículo 48 de la Ley.
 
+> <small>(ADICIONADO, D.O.F. 16 DE AGOSTO DE 2017)</small>
+
+Para cumplir con lo señalado en el párrafo anterior, los Prestadores de Servicios Turísticos, obligados a la inscripción, son los señalados en el catálogo siguiente:
+
+I. Agencia de Viajes.- A aquél que en su carácter de intermediario, tiene como actividad la creación, promoción, comercialización o contratación de Servicios Turísticos, realizando sus actividades de manera virtual o en establecimientos comerciales. Las Agencias de Viajes, para efectos de su inscripción en el Registro Nacional de Turismo, se dividen en:
+
+a) Agencia de Viajes Mayorista: A aquél que tiene como actividad la Promoción Turística y la comercialización de Productos Turísticos, por ellas mismas o por conducto de Agencias de Viajes Minoristas, y
+
+b) Agencia de Viajes Minorista: A aquél que ofrece y vende al público consumidor, todo tipo de Productos Turísticos, entre ellos, los integrados por operadores de viajes o mayoristas;
+
+II. Agencia Integradora de Servicios.- A aquél con conocimiento en un Destino Turístico que diseña, implementa y coordina de manera integral un conjunto de servicios consistentes en logística de eventos, actividades, tours y transportación entre otros, proporcionados dentro de un Destino Turístico ubicado en México;
+
+III. Alimentos y Bebidas.- A aquél que tiene como función principal preparar y servir alimentos y bebidas ubicado en las áreas circundantes o dentro de aeropuertos, terminales de autobuses, estaciones de ferrocarril, museos, zonas arqueológicas, Centros Integralmente Planeados, playas, puertos marítimos, centros de ciudad, Destinos Turísticos, Ruta Turística, Circuitos Turísticos, así como en otros espacios con vocación turística;
+
+IV. Arrendadora de Autos.- A aquél que ofrece al Turista el servicio de alquiler de automóvil, para su goce o aprovechamiento temporal, ubicados principalmente en aeropuertos, terminales de autobuses, estaciones de ferrocarril y establecimientos de hospedaje, ya sea en el mismo Destino Turístico o cuando se encuentra de camino al mismo;
+
+V. Balneario y Parque Acuático.- A aquél que ofrece los servicios de recreación, esparcimiento, relajamiento o uso medicinal; construido artificialmente con dispositivos y accesorios utilizando el agua como principal atractivo, a través de albercas, chapoteaderos, aguas termales, sulfuros y similares;
+
+VI. Campo de Golf.- A aquél que ofrece la actividad deportiva de golf desarrollada en una extensión definida de terreno y que puede ser privado, semiprivado, resort o público;
+
+VII. Guardavida o Salvavida.- A aquella persona capacitada para vigilar, prevenir y atender cualquier situación que ponga en riesgo la vida o la integridad física de un ser humano, dentro o alrededor del agua, ya sea en espacios naturales (ríos, lagos, playas) o en instalaciones enfocadas a actividades acuáticas;
+
+VIII. Guía de Turistas.- A aquél que brinda el servicio descrito en el artículo 2, fracción VII, del presente Reglamento;
+
+IX. Hospedaje.- A aquél que provee la infraestructura y equipamiento para prestar el servicio de alojamiento con fines turísticos y, en su caso, alimentación y servicios complementarios demandados por el Turista; principalmente ubicados en las áreas circundantes o dentro de aeropuertos, terminales de autobuses, estaciones de ferrocarril, museos, zonas arqueológicas, Centros Integralmente Planeados, playas, puertos marítimos, centros de ciudad, Ruta Turística, Circuitos Turísticos y Destinos Turísticos, así como en otros espacios con vocación turística;
+
+X. Operadora de Aventura o Naturaleza.- A aquél que ofrece servicios especializados para la realización de cualquier actividad recreativa o deportiva que involucre un nivel de reto a superar en donde se participa de la armonía con el medio ambiente, respetando los recursos naturales y el patrimonio cultural, tales como espeleísmo, kayaquismo, rafting, cañonismo, escalada en roca, alta montaña, excursionismo, ciclismo de montaña, balsa, canoa, rappel, escalada, entre otras;
+
+XI. Operadora de Buceo.- A aquél que proporcione, intermedie o contrate con el Turista, la prestación de los servicios relacionados al sumergimiento del ser humano en agua; asimismo, la que tiene a su cargo la administración, el mantenimiento del equipo y la responsabilidad de la operación del servicio turístico de buceo;
+
+XII. Operadora de Marina Turística.- A aquél que brinde a través de las instalaciones portuarias y sus zonas de agua o tierra lo necesario para la prestación de servicios, abastecimiento, mantenimiento, protección y atraque a embarcaciones con fines recreativos o deportivos;
+
+XIII. Parque Temático.- A aquél que ofrece una variedad de atracciones y espectáculos con motivos temáticos diferenciados, que permiten caracterizarlo del resto, destinados a la diversión, entretenimiento, educación, cultura o interacción con la naturaleza;
+
+XIV. Spa.- A aquél dedicado a brindar servicios de cuidados faciales, corporales y masajes para el tratamiento y cuidado de la salud, dotados de servicios como estaciones termales, balnearios o centros de mantenimiento físico;
+
+XV. Tiempos Compartidos.- A aquél que, independientemente de la denominación que se le dé a la forma de contratación, celebre actos jurídicos por los cuales se concede a una persona el uso, goce y demás derechos que se convengan sobre un bien o parte del mismo, ya sea una unidad cierta, considerada en lo individual o una variable dentro de una clase determinada, durante un periodo específico, a intervalos previamente establecidos, determinados o determinables;
+
+XVI. Tour Operador Receptivo.- A aquél que se especializa en la creación y desarrollo de Productos Turísticos, que de manera preponderante los promueve y ofrece en territorio extranjero; combina los atractivos culturales, naturales y vivenciales del país e integra a dos o más Prestadores de Servicios Turísticos;
+
+XVII. Transportadora Turística.- A aquélla que proporciona el servicio de traslado de personas con fines recreativos, culturales, de esparcimiento o de negocios a un Destino Turístico específico; y
+
+XVIII. Vuelo en Globo Aerostático.- A aquél que provee, a cargo de un piloto, el servicio de transportación en el interior de una canastilla a un grupo de Turistas. El ascenso y descenso se realizará con el aprovechamiento de la dirección y velocidad del viento, así como con el calentamiento, a través de gas propano, de un envolvente de tela plástica.
+
 ###### Artículo 84.
 
 La Secretaría, en materia del Registro Nacional de Turismo, tiene las siguientes facultades:
@@ -903,7 +947,7 @@ V. Mejorar la accesibilidad y la sustentabilidad de los servicios hoteleros y de
 
 El titular de la Secretaría emitirá, mediante Acuerdos que deberán publicarse en el Diario Oficial de la Federación:
 
-I. El catálogo de los diferentes Servicios Turísticos cuyos Prestadores de Servicios Turísticos estén obligados a inscribirse en el Registro Nacional de Turismo, el cual deberá actualizarse de conformidad con las variaciones del mercado, y
+I. (DEROGADA, D.O.F. 16 DE AGOSTO DE 2017)
 
 II. Los lineamientos del Sistema de Clasificación Hotelera.
 
@@ -1162,3 +1206,21 @@ Respecto del plazo establecido en el artículo 92 del presente Reglamento relati
 Décimo Noveno.- La Secretaría publicará en el Diario Oficial de la Federación, dentro de un plazo de ciento ochenta días hábiles a partir de la entrada en vigor del presente Reglamento, el Acuerdo por el que se emiten los Lineamientos del Sistema de Certificación al que hace referencia el artículo 105, de este ordenamiento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiséis de junio de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.- El Secretario de Relaciones Exteriores, José Antonio Meade Kuribreña.- Rúbrica.- El Secretario de Marina, Vidal Francisco Soberón Sanz.- Rúbrica.- La Secretaria de Desarrollo Social, María del Rosario Robles Berlanga.- Rúbrica.- El Secretario de Medio Ambiente y Recursos Naturales, Juan José Guerra Abud.- Rúbrica.- El Secretario de Economía, Ildefonso Guajardo Villarreal.- Rúbrica.- El Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, Enrique Martínez y Martínez.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Gerardo Ruiz Esparza.- Rúbrica.- El Secretario de Educación Pública, Emilio Chuayfett Chemor.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Jesús Alfonso Navarrete Prida.- Rúbrica.- El Secretario de Desarrollo Agrario, Territorial y Urbano, Jesús Murillo Karam.- Rúbrica.- La Secretaria de Turismo, Claudia Ruiz Massieu Salinas.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 16 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 83 Y SE DEROGA LA FRACCIÓN I DEL ARTÍCULO 87 DEL
+
+REGLAMENTO DE LA LEY GENERAL DE TURISMO."]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las solicitudes de inscripción al Registro Nacional de Turismo, que se presenten a partir de la entrada en vigor del presente Decreto, se tramitarán conforme a las disposiciones que se establecen en la Ley General de Turismo y su Reglamento.
+
+TERCERO.- La entrada en vigor del presente Decreto, no afecta la validez jurídica de las inscripciones en el Registro Nacional de Turismo efectuadas con anterioridad.
+
+CUARTO.- Se abroga el "Acuerdo por el que se emite el catálogo de los diferentes servicios turísticos cuyos prestadores de servicios turísticos deberán inscribirse en el Registro Nacional de Turismo", publicado en el Diario Oficial de la Federación el 30 de marzo de 2016, y se derogan las demás disposiciones jurídicas que se opongan al presente Decreto.
+
+QUINTO.- Las referencias o remisiones que se hacen en otros ordenamientos normativos al catálogo previsto en el artículo 87, fracción I del Reglamento de la Ley General de Turismo, o al previsto en el Acuerdo que se abroga en el transitorio anterior, se entenderán hechas al catálogo previsto en el segundo párrafo del artículo 83 del Reglamento de la Ley General de Turismo.
