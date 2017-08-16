@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-de-la-ley-organica-del-poder-judicial-del-estado-120
 country: "mx"
 rank: "reglamento"
 publication_date: "1990-03-31"
-last_updated: "2012-01-11"
+last_updated: "2017-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2017.
 
 Reglamento publicado en el Folleto Anexo al No. 26 del Periódico Oficial del Estado de Chihuahua, el sábado 31 de marzo de 1990.
 
@@ -143,13 +143,13 @@ El Presidente atenderá los asuntos de su competencia a las horas del despacho o
 
 ###### ARTICULO 17.
 
-Los acuerdos que el Presidente tome conforme a las facultades que las leyes y este Reglamento le confieren, se harán en la forma siguiente:
+Los acuerdos que el Presidente tome conforme a las facultades que las leyes y este Reglamento le confiere, se harán en la forma siguiente:
 
 I.- Al margen de los escritos que los motiven, los de mero trámite;
 
 II.- Las resoluciones que pronuncie en los expedientes que de cada asunto que lo amerite forme el Secretario General, se agregarán a los mismos; y
 
-III.- Las disposiciones encaminadas a asegurar el buen orden de las Salas y los Juzgados, a procurar la regularidad y prontitud en el despacho de la administración de justicia, así como todos aquellos otros que no sean de los comprendidos en los apartados anteriores de este artículo, se harán constar en acta que al efecto se levante.
+III.- Las disposiciones encaminadas a asegurar el buen orden de las Salas y los Juzgados a procurar la regularidad y prontitud en el despacho de la administración de justicia, así como todos aquellos otros que no sean de los comprendidos en los apartados anteriores de este artículo, se harán constar en acta que al efecto se levante.
 
 ###### ARTICULO 18.
 
@@ -157,7 +157,7 @@ El turno a las Salas de Apelación se hará en formas especialmente impresas al 
 
 ###### ARTICULO 19.
 
-El Presidente o quien lo sustituya conforme a la ley, citará a un Acuerdo Extraordinario en el caso que un Magistrado del Tribunal tome posesión del cargo.
+El Presidente o quien lo sustituya conforme a la ley, citará a un acuerdo Extraordinario en el caso que un Magistrado del Tribunal tome posesión del cargo.
 
 ###### ARTICULO 20.
 
@@ -1127,159 +1127,49 @@ A más tardar dentro del tercer día siguiente, el Visitador remitirá el origin
 
 Queda estrictamente prohibido al Visitador aceptar hospedaje, obsequios o cualquier clase de servicios de parte de los funcionarios o empleados de las dependencias que visita, bajo pena de incurrir en responsabilidad.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE ENERO DE 2003)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONTRATACIÓN DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS QUE LLEVE A CABO EL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 2017)</small>
 
 ## TITULO DECIMO. DEL PROCEDIMIENTO DE ADQUISICION DE BIENES Y CELEBRACION DE CONTRATOS DE ARRENDAMIENTO Y SERVICIOS
 
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
-
 ###### ARTICULO 124.
 
-Cuando se trate de adquisición de bienes, se podrá realizar:
-
-I.- Por licitación pública, mediante concurso que se convocará a través de publicación que se haga en el diario que tenga mayor circulación en el Estado de Chihuahua, y aquellos medios de comunicación que estime pertinentes la Comisión de Compras.
-
-En la publicación, que se hará por una sola vez, se señalarán las Bases que se establezcan para la licitación y deberán contener como mínimo los requisitos siguientes:
-
-a).- El nombre de la convocante;
-
-b).- Si la adjudicación de los contratos será en forma total o parcial;
-
-c).- El destino de los bienes que se pretenden adquirir;
-
-d).- Las (sic) descripción y especificaciones técnicas de los bienes licitados;
-
-e).- El lugar, fecha y condiciones de transportación y entrega de los bienes licitados;
-
-f).- La descripción de los servicios que se van a licitar;
-
-g).- El lugar, forma y condiciones de prestación del servicio;
-
-h).- Las instrucciones para elaborar las propuestas;
-
-i).- La forma, lugar y condiciones de pago a los licitadores que obtengan el contrato y la especificación de entrega de anticipo, si lo hay;
-
-j).- Los requisitos que deben satisfacer los concursantes para justificar su personalidad y capacidad para contratar y obligar a su representada, en el caso de personas morales;
-
-k).- La fecha de:
-
-a´).- Celebración de la junta de aclaraciones;
-
-b´).- Presentación de muestras, si es el caso;
-
-c´).- Entrega de las ofertas tanto técnicas como económicas, en sobre cerrado por separado, relacionándolas debidamente para su oportuna identificación;
-
-d').- Entrega de la documentación comprobatoria de personalidad y de garantía de seriedad de las propuestas;
-
-e´).- La emisión del fallo adjudicatorio, que podrá prorrogarse por una sola vez.
-
-l).- Las garantías que deben otorgar los convocados tanto para el cumplimiento de los términos señalados en el contrato que se celebre, como para garantizar el anticipo cuando se otorgue, así como la seriedad de la propuesta;
-
-m).- El plazo por el que se dará garantía tanto de bienes como de servicios;
-
-n).- El costo de las Bases y el plazo para adquirirse;
-
-Para la fijación de las fechas a que alude este inciso, la Comisión de Compras tomará en cuenta la naturaleza de los bienes que se pretenden adquirir o el servicio que se pretenda contratar.
-
-II.- Por licitación restringida: En este caso, la Comisión de Compras podrá ordenar, según sea el caso, que se realice por invitación o por adjudicación directa; en la primera hipótesis, se invitará cuando menos a tres proveedores, y en el segundo, resolverá a quién se hace la adjudicación del contrato respectivo.
-
-En ambos casos, la Comisión de Compras deberá procurar, hasta donde sea posible, que los licitadores invitados satisfagan los requisitos que se mencionan en la fracción anterior.
-
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONTRATACIÓN DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS QUE LLEVE A CABO EL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 2017)
 
 ###### ARTICULO 125.
 
-La Comisión de Compras lanzará la convocatoria de compra de bienes o contratación de servicios con la debida oportunidad, incluyendo en ella la descripción de los bienes por adquirir o los servicios por contratar, indicando que los convocados, para participar en la licitación, deberán adquirir las Bases de la misma y satisfacer los requisitos que se mencionan en el artículo 127.
-
-Los interesados en participar en la Licitación deberán satisfacer tales requisitos cuando menos con 24 horas de anticipación a la fecha de la celebración de la junta de aclaraciones, exhibiendo las documentales a que dicho precepto alude.
-
-La Secretaría del Tribunal entregará a quien haga la exhibición, constancia en la que describa la documentación exhibida, anexando copia autorizada de dicha constancia al paquete documental presentado.
-
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONTRATACIÓN DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS QUE LLEVE A CABO EL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 2017)
 
 ###### ARTICULO 126.
 
-Durante la celebración de la Junta de Aclaraciones, la Comisión de Compras hará saber a los comparecientes los nombres de quiénes satisficieron los requisitos a que alude el artículo 127.
-
-En dicha junta sólo podrán plantearse dudas sobre el contenido de las Bases, las que en ningún momento podrán modificarse, aún cuando exista el consentimiento expreso de los concursantes asistentes. Cualquier cuestión que se suscite en esta Junta, será resuelta por la Comisión de Compras sin ulterior recurso.
-
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONTRATACIÓN DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS QUE LLEVE A CABO EL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 2017)
 
 ###### ARTICULO 127.
 
-Las personas físicas o morales que deseen participar en la licitación, deberán acreditar:
-
-I.- Que se encuentran debidamente registradas en el Sistema de Administración Tributario, para lo cual exhibirán la cédula del Registro Federal de Contribuyentes, así como las últimas dos declaraciones anuales y las parciales que correspondan.
-
-II.- Su permanencia en el mercado, sea local o nacional en el ramo de bienes o servicios sobre los que verse la convocatoria, por un mínimo de tres años anteriores a la fecha de la misma;
-
-III.- Que su estado financiero les permite asumir las responsabilidades del contrato que se firme para la adquisición de bienes o prestación de servicio, según el caso, exhibiendo para ello los estados financieros consolidados y todos los documentos contables que lo justifiquen, de cuando menos dos años anteriores a la fecha de la Convocatoria.
-
-Las documentales que exhiban los concursantes podrán ser originales o copias certificadas por funcionario con fé pública. Si desean su devolución, deberán acompañar copia simple para ser dejadas en lugar de sus originales.
-
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONTRATACIÓN DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS QUE LLEVE A CABO EL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 2017)
 
 ###### ARTICULO 128.
 
-La junta de apertura de ofertas, se celebrará con la presencia de aquellos concursantes que presentaron ofertas técnicas y económicas, y se desarrollará con el siguiente orden:
-
-I.- Se hará saber a los comparecientes el nombre de los concursantes que la Comisión de Compras resolvió hayan acreditado los requisitos a que alude el artículo que antecede y el de aquellos que descalificó por no haber cumplido con los requisitos señalados;
-
-II.- Se procederá a la apertura de las ofertas técnicas procediendo a calificarlas y a desechar las que no satisfagan los requisitos legales.
-
-No se abrirán las propuestas económicas relacionadas con las propuestas técnicas que hayan sido desechadas;
-
-III.- Se abrirán las ofertas económicas y se notificará a los concursantes que en la fecha señalada en las Bases, se les hará saber el nombre del concursante ganador.
-
-Tanto las ofertas técnicas que se abran, como las económicas, serán rubricadas en todas sus hojas por los concursantes, que habiendo sido admitidos, se encuentres (sic) presentes.
-
-Durante la celebración de la junta de evaluación de las propuestas, la Comisión de Compras y sus asesores técnicos, contables y legales examinarán en primer lugar la oferta técnica que hagan los licitadores a fin de comprobar que se ajustan a los requerimientos exigidos en la Convocatoria, si estiman que no satisfacen tales requisitos, desecharán la propuesta y se omitirá pasar a la evaluación de la oferta económica de esos concursantes.
-
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONTRATACIÓN DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS QUE LLEVE A CABO EL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 2017)
 
 ###### ARTICULO 129.
 
-En las Bases se precisarán las responsabilidades que los proveedores a quienes se les adjudiquen los contratos adquirirán.
-
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONTRATACIÓN DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS QUE LLEVE A CABO EL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 2017)
 
 ###### ARTICULO 130.
 
-La Comisión de Compras descalificará aquellos concursantes que no satisfagan los requisitos establecidos por las Bases; o en el caso que entre ellos se haya celebrado un acuerdo tácito o expreso para elevar los precios de los bienes, o incurran en alguna violación a la Ley Orgánica del Poder Judicial, al Reglamento de Adquisiciones o alguna disposición legal aplicable a este procedimiento.
-
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONTRATACIÓN DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS QUE LLEVE A CABO EL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 2017)
 
 ###### ARTICULO 131.
 
-La Comisión de Compras podrá suspender temporal o definitivamente la licitación si presume que existen arreglos entre los proveedores para elevar los precios de los bienes que se licitan, o encuentra irregularidades graves dentro del procedimiento de licitación.
-
-Si desaparecen las causas que motivaron la suspensión temporal del procedimiento, la Comisión de Compras podrá acordar su reanudación.
-
-En ambos casos notificará a los concursantes por el medio que considere mas idóneo.
-
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONTRATACIÓN DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS QUE LLEVE A CABO EL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 2017)
 
 ###### ARTICULO 132.
 
-La Comisión de Compras podrá declarar desierta la licitación cuando:
-
-I.- Ningún proveedor se hubiere inscrito para participar en ella;
-
-II.- Las propuestas presentadas no reúnan los requisitos establecidos en las Bases o en la Ley;
-
-III.- La oferta de los participantes rebase los límites del presupuesto autorizado para la adquisición de los bienes o servicios licitados; o
-
-IV.- Por alguna razón los precios ofrecidos no sean aceptables.
-
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONTRATACIÓN DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS QUE LLEVE A CABO EL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 2017)
 
 ###### ARTICULO 133.
 
-Cuando se trate de contratar servicios o arrendamiento de bienes, su adjudicación se ajustará, en lo pertinente, a las reglas establecidas anteriormente.
-
-En todo caso deberá consignarse por escrito el contrato que se celebre para la prestación del servicio o para el arrendamiento de bienes, en los que se consigne el objeto, precio y condiciones de pago, garantías que deberá otorgar el concursante para el cumplimiento de las obligaciones que contraiga y todo aquello atingente a la naturaleza del contrato que deba celebrarse.
-
-Cuando se trate de la realización de obra pública, el Pleno por conducto de su Presidente celebrará convenio con el Poder Ejecutivo para que la Secretaría de Obras Públicas auxilie al Poder Judicial en la ejecución de la obra, ajustándose para ello a lo que al respecto previene la Ley de Obra Pública del Estado.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONTRATACIÓN DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS QUE LLEVE A CABO EL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 2017)
 
 > <small>(REFORMADO [N. DE E. ADICIONADO] CON LOS APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE AGOSTO DE 2004)</small>
 
@@ -1464,3 +1354,19 @@ La vigencia de este Reglamento iniciará a partir del día siguiente de su publi
 ###### ARTÍCULO SEGUNDO.
 
 Las cuotas pagadas por la prestación del servicio en ningún caso serán reembolsables, aun cuando el servicio no se haya utilizado o se haya utilizado parcialmente.
+
+P.O. 16 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA, MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO PARA LA CONTRATACIÓN DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS QUE LLEVE A CABO EL PROPIO CONSEJO".]
+
+PRIMERO. El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones reglamentarias, acuerdos y lineamientos que se opongan al presente Reglamento. En lo particular, se derogan aquellas disposiciones contenidas en el Titulo Decimo del Reglamento de la Ley Orgánica del Poder Judicial del Estado de Chihuahua, aprobado por el Tribunal Pleno del Supremo Tribunal de Justicia del Estado, el 2 de marzo de 1990 y publicado en el Periódico Oficial del Estado, el sábado 31 de marzo de 1990, que regulen la materia que es objeto de este Reglamento.
+
+TERCERO. Todos los procedimientos de contratación iniciados antes de la vigencia de este Reglamento, que se encuentren pendientes de conclusión, se continuarán tramitando hasta que concluyan conforme a las disposiciones anteriores.
+
+CUARTO.- Se instruye para que en un plazo no mayor de cinco días hábiles contados a partir del día siguiente de entrada en vigor de este Reglamento, se instale el Comité de Adquisiciones, Arrendamientos y Servicios del Consejo de la Judicatura del Poder Judicial del Estado de Chihuahua y se designen a los titulares y suplentes que deberán integrarlo.
+
+QUINTO.- En materia de obra pública deberá estarse a lo dispuesto por la Ley de Obra Pública y Servicios Relacionados con la Misma del Estado de Chihuahua, debiendo integrarse el Comité Técnico Resolutivo de Obra Pública que al efecto se establece.
+
+SEXTO.- De conformidad con lo dispuesto en el Artículo 190 fracción V de la Ley Orgánica del Poder Judicial del Estado de Chihuahua, el Consejo autorizará previamente los procedimientos de contratación de adquisiciones, arrendamientos y prestación de servicios se realizarán (sic), que se realicen con cargo al Fondo Auxiliar para la Administración de Justicia.
