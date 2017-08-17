@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-fomentar-la-donacion-altruista-de-articulos-de-41922"
 country: "mx"
 rank: "ley"
 publication_date: "2004-10-27"
-last_updated: "2016-12-13"
+last_updated: "2017-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA FOMENTAR LA DONACIÓN ALTRUISTA DE ARTÍCULOS DE PRIMERA NECESIDAD DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2017.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el miércoles 27 de octubre de 2004.
 
@@ -55,7 +55,9 @@ c) Generar vínculos de colaboración entre el poder público y la sociedad, as�
 
 ###### ARTICULO 2.
 
-1. En el Estado está prohibido el desperdicio en cantidades al equivalente a diez personas en artículos de primera necesidad, cuando éstos sean susceptibles de donación para su aprovechamiento altruista por alguna institución de beneficencia pública o privada reconocida por las autoridades competentes.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2017)</small>
+
+1. En el Estado queda prohibido el desperdicio irracional e injustificado de artículos de primera necesidad, cuando estos sean susceptibles de donación para su aprovechamiento altruista por alguna institución de beneficencia pública o privada reconocida por las autoridades competentes.
 
 2. El Estado alentará, a través de programas y políticas públicas, la donación altruista de artículos de primera necesidad.
 
@@ -151,6 +153,10 @@ Los actos y contratos celebrados por las instituciones registradas conforme a es
 
 2. A su vez el DIF prestará asesoría legal y contable a las instituciones que lo requieran con objeto de contribuir a alcanzar los objetivos de esta ley.
 
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2017)</small>
+
+3. El DIF entregará anualmente un reconocimiento público a los donantes de alimentos que se hayan distinguido por sus contribuciones a favor de las personas o grupos en situación de vulnerabilidad económica. Los donatarios acreedores de dicho reconocimiento, serán distinguidos como “personas o empresas socialmente responsables”.
+
 ###### ARTICULO 11.
 
 1. El DIF promoverá la participación activa de los medios de comunicación en la difusión de la donación altruista de artículos de primera necesidad.
@@ -189,11 +195,21 @@ f) La resolución de la queja tendrá por efecto confirmar, corregir o reponer l
 
 ### CAPITULO VI. DE LAS SANCIONES ADMINISTRATIVAS
 
-###### ARTICULO 16.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2017)</small>
 
-(SIC)
+###### ARTICULO 15.
 
-Al que desperdicie artículos de primera necesidad en cantidades similares o superiores a lo establecido en la presente ley, se le sancionará con multa equivalente hasta el cien por ciento del costo de dichos artículos.
+Se sancionará con multa de cincuenta a quinientas Unidades de Medida y Actualización a:
+
+I. Los empleados o directivos de las donatarias que participen en el desvío de alimentos donados y que fueron recibidos por éstos para su distribución, ya sea que utilicen para su aprovechamiento personal o de terceros que no los requieren. La sanción se aumentará hasta en un cien por ciento cuando se comercialice con estos alimentos;
+
+II. Los que ordenen, participen o practiquen el desperdicio irracional e injustificado de alimentos;
+
+III. Quienes, habiéndosele solicitado alimentos en donación, no los diere y los desperdiciara injustificadamente;
+
+IV. Los que teniendo conocimiento de que los alimentos no se encuentran aptos para el consumo, ordene o participe en la donación en los términos de esta ley; y
+
+V. Los servidores públicos que comercien, desvíen, bloqueen, perjudiquen, alteren o violen la distribución y/o donación altruista de alimentos.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
@@ -242,6 +258,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 13 DE DICIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-53 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS, LEY PARA EL APROVECHAMIENTO DE ENERGÍAS RENOVABLES DEL ESTADO DE TAMAULIPAS, LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO DE TAMAULIPAS, LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE TAMAULIPAS, LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS, LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS, LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS, LEY DE CENTROS DE ATENCIÓN INFANTIL DEL ESTADO DE TAMAULIPAS, LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS, LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS, LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS, LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE TAMAULIPAS, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE TAMAULIPAS, LEY PARA FOMENTAR LA DONACIÓN ALTRUISTA DE ARTÍCULOS DE PRIMERA NECESIDAD DEL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO ARTESANAL DEL EL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO DE LA FRUTICULTURA EN EL ESTADO DE TAMAULIPAS, LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS, LEY DE INFORMACIÓN GEOGRÁFICA Y ESTADÍSTICA DEL ESTADO DE TAMAULIPAS, LEY DE MEDIACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY PARA LA MEJORA REGULATORIA EN EL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS, LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, LEY DEL PATRIMONIO HISTÓRICO Y CULTURAL DEL ESTADO, LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS, LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL, LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, COMBATIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE TAMAULIPAS, LEY DE TURISMO DEL ESTADO DE TAMAULIPAS, LEY DE VALUACIÓN DEL ESTADO DE TAMAULIPAS, LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS, CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS Y CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS, PARA HOMOLOGAR LA NOMENCLATURA DE LAS SECRETARÍAS QUE ESTABLECE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-196 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 2 PÁRRAFO 1 Y EL ARTÍCULO 15; Y SE ADICIONA EL PÁRRAFO 3, AL ARTÍCULO 10, DE LA LEY PARA FOMENTAR LA DONACIÓN ALTRUISTA DE ARTÍCULOS DE PRIMERA NECESIDAD DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
