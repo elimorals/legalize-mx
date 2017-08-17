@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-pesca-y-acuacultura-sustentables-del-estado-de-82804"
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-01"
-last_updated: "2016-12-21"
+last_updated: "2017-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2017.
 
 Ley publicada en el Periódico Oficial del estado de Tamaulipas, el jueves 1º, de septiembre de 2011
 
@@ -379,9 +379,13 @@ VIII. Los programas de ordenamiento pesquero y acuícola;
 
 IX. Las acciones para promover y apoyar el desarrollo de la pesca y la acuacultura;
 
-X. El mejoramiento, ampliación y construcción de centros de acopio, plantas de proceso y centrales de distribución de productos pesqueros y acuícolas; y
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2017)</small>
 
-XI. Los instrumentos y acciones integrales de inspección y vigilancia para el cumplimiento de la presente ley.
+X. Las acciones para incentivar y fomentar el desarrollo de la pesca deportivo-recreativa como actividad alternativa de turismo social y sustentable;
+
+XI. El mejoramiento, ampliación y construcción de centros de acopio, plantas de proceso y centrales de distribución de productos pesqueros y acuícolas; y
+
+XII. Los instrumentos y acciones integrales de inspección y vigilancia para el cumplimiento de la presente ley.
 
 ### CAPÍTULO II. DEL CONSEJO ESTATAL DE PESCA Y ACUACULTURA
 
@@ -459,9 +463,17 @@ XIV. Impulsar acciones para la formación de recursos humanos que se vincule con
 
 XV. Favorecer la creación de figuras organizativas para la promoción comercial, en los mercados nacional e internacional, de los productos pesqueros y acuícolas de la entidad;
 
-XVI. Establecer acciones conjuntas para el fortalecimiento de las redes de valor, en coordinación con los diversos comités sistema-producto acuícolas y pesqueros; y
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2017)</small>
 
-XVII. Instrumentar un programa estatal para la reproducción de especies de interés comercial o deportivo, con fines de repoblamiento de los principales embalses.
+XVI. Establecer acciones conjuntas para el fortalecimiento de las redes de valor, en coordinación con los diversos comités sistema-producto acuícolas y pesqueros;
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2017)</small>
+
+XVII. Instrumentar un programa estatal para la reproducción de especies de interés comercial o deportivo, con fines de repoblamiento de los principales embalses; y
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2017)</small>
+
+XVIII. Promover y fomentar la pesca deportivo-recreativa como actividad alternativa de turismo social y sustentable, con el fin de propiciar un mayor desarrollo económico en las comunidades y zonas pesqueras, para la generación de ingresos y autoempleos.
 
 ###### ARTÍCULO 18.
 
@@ -1236,3 +1248,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
+
+P.O. 17 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-197 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE TAMAULIPAS, PARA PROMOVER Y FOMENTAR LA PESCA DEPORTIVO-RECREATIVA COMO ACTIVIDAD ALTERNATIVA DE TURISMO SOCIAL Y SUSTENTABLE, CON EL FIN DE PROPICIAR UN MAYOR DESARROLLO ECONÓMICO EN LAS COMUNIDADES Y ZONAS PESQUERAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
