@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-instituto-electoral-del-distrito-federal-en-1175
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-12-06"
-last_updated: "2016-12-06"
+last_updated: "2017-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117550&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2016-11-17"
 ---
 # REGLAMENTO DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACION PUBLICA Y RENDICION DE CUENTAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS, PUBLICADO EN LA G.O. DE 17 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE AGOSTO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Número 215 de la Gaceta Oficial de la Ciudad de México, el martes 6 de diciembre de 2016.
 
@@ -1001,3 +1003,17 @@ TERCERO. Se derogan las disposiciones que se opongan a este Reglamento.
 CUARTO. Publíquese de inmediato en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en la página de Internet www.iedf.org.mx
 
 QUINTO. Remítase para su publicación a la Gaceta Oficial de la Ciudad de México, dentro del plazo de diez días hábiles contados a partir de su aprobación.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 17 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, POR EL QUE SE APRUEBA EL REGLAMENTO DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS, CON MOTIVO DE LA EXPEDICIÓN Y ENTRADA EN VIGOR DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Se abroga el Reglamento del Instituto Electoral del Distrito Federal en materia del Transparencia, Acceso a la Información Pública y Rendición de Cuentas, aprobado por el Consejo General mediante acuerdo ACU-85-16, de fecha 17 de noviembre de 2016.
+
+TERCERO. Se derogan las disposiciones que se opongan a este Reglamento.
+
+CUARTO. Para efectos estrictamente administrativos, y hasta que la autoridad correspondiente no emita el nombramiento con la denominación indicada por el Código, toda referencia a la Contraloría General del Instituto Electoral, se entenderá realizada a la Contraloría Interna del propio Instituto Electoral.
