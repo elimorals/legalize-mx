@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-desarrollo-urbano-del-estado-de-tamaulipas-52285"
 country: "mx"
 rank: "ley"
 publication_date: "2006-04-25"
-last_updated: "2017-06-02"
+last_updated: "2017-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY PARA EL DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE AGOSTO DE 2017 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY PARA EL DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de abril de 2006.
 
@@ -479,9 +481,19 @@ IX. Celebrar con el Ejecutivo Federal, los gobiernos de los Estados o los Ayunta
 
 X. Solicitar al Comité de Planeación para el Desarrollo del Estado y proponer a los Comités Municipales respectivos, las acciones, obras e inversiones que impulsen y consoliden el desarrollo urbano;
 
-XI. Promover ante el Congreso del Estado la fundación de centros urbanos; y
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2017)</small>
 
-XII. Las demás que señalen esta ley y otras disposiciones jurídicas aplicables.
+(SIC) Promover ante el Congreso del Estado la fundación de centros urbanos;
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2017)</small>
+
+(SIC) Promover acciones de coordinación con la Federación, Estados y Municipios en las Zonas Conurbadas limítrofes con el Estado, que contribuyan a mejorar la administración del desarrollo metropolitano;
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2017)</small>
+
+(SIC) Proponer los mecanismos de coordinación institucional de Planeación Regional y Metropolitana que permitan incentivar el desarrollo y la inversión productiva del Estado; y
+
+(SIC) Las demás que señalen esta ley y otras disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 10.
 
@@ -607,13 +619,19 @@ XXXI.- Ordenar las anotaciones marginales de los usos y destinos establecidos en
 
 XXXII.- Ejercer el derecho de preferencia que corresponde al Gobierno del Estado, conforme a la Ley General de Asentamientos Humanos y la Ley Agraria para adquirir predios de origen ejidal;
 
-> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2017)</small>
 
-XXXIII.- Emitir dictamen de congruencia de los programas municipales, parciales, sectoriales, o de centro de población respecto del programa estatal o del programa metropolitano o de zona conurbada en su caso; y
+(SIC) Emitir dictamen de congruencia de los programas municipales, parciales, sectoriales, o de centros de población respecto del Programa Estatal o del Programa Metropolitano o de Zona Conurbada en su caso;
 
-> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2017)</small>
 
-XXXIV.- Las demás que le confiera este ordenamiento y otras disposiciones legales.
+(SIC) Establecer mecanismos de coordinación con dependencias, entidades y órganos desconcentrados de la administración pública estatal y municipios, y de concertación con asociaciones civiles, para promover su participación en las acciones relacionadas con los Comités e Institutos Metropolitanos;
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2017)</small>
+
+(SIC) Promover, coordinar y evaluar con las dependencias, entidades y órganos desconcentrados de la Administración Pública Federal en el Estado, las acciones y programas orientados al desarrollo de las áreas metropolitanas; y
+
+(SIC) Las demás que le confiera este ordenamiento y otras disposiciones legales.
 
 > <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
@@ -1083,6 +1101,32 @@ II.- Destinos: Estructura vial, redes maestras de servicios, equipamientos (educ
 
 2. Dentro de la zonificación que realice el Ayuntamiento, éste considerará las zonas metropolitanas que comprenden el casco urbano y las áreas suburbanas que por la continuidad de la urbanización forman un área conjunta.
 
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2017)</small>
+
+###### ARTÍCULO 36 Bis.
+
+Los municipios podrán suscribir convenios para constituir asociaciones intermunicipales, fondos e instrumentos financieros para ejecutar acciones, obras y servicios públicos de interés común para el desarrollo metropolitano, con el apoyo y asistencia del Estado.
+
+Los fondos e instrumentos a que alude el párrafo anterior podrán dirigirse a:
+
+Apoyar el desarrollo de acciones, obras o servicios públicos metropolitanos; y
+
+Apoyar o complementar a los municipios o a los organismos o asociaciones intermunicipales, mediante el financiamiento correspondiente, el desarrollo de acciones, obras y servicios públicos de interés metropolitano, así como de los proyectos, información, investigación, consultoría, capacitación, divulgación y asistencia técnica necesarios.
+
+Los convenios de asociación intermunicipal establecerán las reglas particulares para la integración y operación de dichos fondos, así como para la gestión común de las acciones, obras y servicios de interés metropolitano.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2017)</small>
+
+###### ARTÍCULO 36 Ter.
+
+Los convenios de asociaciones intermunicipales en el Estado, deberán cumplir al menos con las siguientes bases:
+
+Acuerdo de los ámbitos territoriales y de funciones respecto a la ejecución y operación de obras, prestación de servicios públicos o realización de acciones en las materias de coordinación metropolitana;
+
+Establecimiento de las funciones específicas en las materias de coordinación metropolitana, así como la aportación de recursos materiales, humanos y financieros necesarios para su operación; y
+
+Determinación de las reglas para la regularización conjunta y coordinada del desarrollo de las zonas conurbadas, prestación de servicios y realización de acciones que se acuerden. Estas bases serán obligatorias para las dependencias, órganos desconcentrados, entidades y municipios.
+
 ## TÍTULO V. RESERVAS TERRITORIALES
 
 ### CAPÍTULO ÚNICO
@@ -1453,7 +1497,7 @@ h) Criterios para plantar árboles en las áreas públicas;
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
-II. ETAPA 2 LOTIFICACIÓN: Con base en los lineamientos urbanísticos, el fraccionador presentará el proyecto del fraccionamiento con las vialidades y los sentidos de circulación, rasantes, Iotificación, área vendible, áreas de cesión y afectaciones, en su caso, tanto por condiciones naturales, como por destinos previstos en los programas vigentes de desarrollo urbano, así como los estudios de impacto vial, hidrológico, y el resolutivo de impacto ambiental, según sea el caso. La dependencia u oficina municipal competente, emitirá dictamen para someterlo a la aprobación del Ayuntamiento. Esta autorización quedará sin efecto en caso de que al término de un año, el fraccionador no concluya el trámite señalado en la misma.
+II. ETAPA 2 LOTIFICACIÓN: Con base en los lineamientos urbanísticos, el fraccionador presentará el proyecto del fraccionamiento con las vialidades y los sentidos de circulación, rasantes, lotificación, área vendible, áreas de cesión y afectaciones, en su caso, tanto por condiciones naturales, como por destinos previstos en los programas vigentes de desarrollo urbano, así como los estudios de impacto vial, hidrológico, y el resolutivo de impacto ambiental, según sea el caso. La dependencia u oficina municipal competente, emitirá dictamen para someterlo a la aprobación del Ayuntamiento. Esta autorización quedará sin efecto en caso de que al término de un año, el fraccionador no concluya el trámite señalado en la misma.
 
 > <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2006)</small>
 
@@ -2542,3 +2586,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan a lo previsto en este Decreto.
+
+P.O. 17 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-198 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 9 FRACCIÓN XI, 10 FRACCIÓN XXXIII; Y SE ADICIONAN LAS FRACCIONES XII Y XIII, RECORRIÉNDOSE LA ACTUAL XII PARA SER XIV, AL ARTÍCULO 9; FRACCIONES XXXIV Y XXXV, RECORRIÉNDOSE LA ACTUAL XXXIV PARA SER XXXVI, AL ARTÍCULO 10, Y SE ADICIONAN LOS ARTÍCULOS 36 BIS Y 36 TER, DE LA LEY PARA EL DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS."]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
