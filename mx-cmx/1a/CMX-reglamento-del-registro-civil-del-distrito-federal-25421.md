@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-registro-civil-del-distrito-federal-25421"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-07-30"
-last_updated: "2015-10-14"
+last_updated: "2017-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25421&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2002-07-28"
 ---
 # REGLAMENTO DEL REGISTRO CIVIL DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 REGLAMENTO DEL REGISTRO CIVIL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 17 DE AGOSTO DE 2017.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 30 de julio de 2002.
 
@@ -1402,6 +1404,18 @@ En caso de que el acta primigenia sea de otra entidad federativa, la persona sol
 
 Una vez cumplido el trámite se enviarán los oficios con la información, en calidad de reservada, a la Secretaría de Gobernación, Secretaría de Finanzas, Secretaría de Educación Pública, Secretaría de Salud, Secretaría de Relaciones Exteriores, Instituto Nacional Electoral, Tribunal Superior de Justicia del Distrito Federal, Procuraduría General de la República, Centro Nacional de Información del Sistema Nacional y al Consejo de la Judicatura Federal, para los efectos legales procedentes.
 
+> <small>(ADICIONADO, G.O. 17 DE AGOSTO DE 2017)</small>
+
+Artículo 69 quinquies.- Para la autorización del acta de nacimiento que deba registrarse en cumplimiento a la medida de protección decretada por el ministerio público relativa al cambio de identidad, la Oficina Central deberá recibir la solicitud por escrito del levantamiento del acta de nacimiento, el acta de nacimiento primigenia, en caso de contar con el atestado, así como la constancia respectiva del consentimiento, y realizará lo siguiente:
+
+I. Efectuar el levantamiento del acta, asentando los datos proporcionados por la autoridad ministerial;
+
+II. Reservar la información contenida en el acta por la que se genere el cambio de identidad;
+
+III. Omitir el llenado del apartado relativo a la persona que presenta a quien se registra; e,
+
+IV. Informar al ministerio público el cumplimiento del registro realizado.
+
 DE LAS ACTAS DE MATRIMONIO
 
 ###### Artículo 70.
@@ -2003,3 +2017,11 @@ G.O. 14 DE OCTUBRE DE 2015.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 17 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO 69 QUINQUIES AL REGLAMENTO DEL REGISTRO CIVIL DEL DISTRITO FEDERAL".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El Presente Decreto entrará en vigor a los treinta días siguientes al de su publicación.
