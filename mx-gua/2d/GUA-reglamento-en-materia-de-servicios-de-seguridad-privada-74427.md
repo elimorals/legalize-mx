@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-en-materia-de-servicios-de-seguridad-privada-74427"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-30"
-last_updated: "2017-03-17"
+last_updated: "2017-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74427&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO EN MATERIA DE SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO EN MATERIA DE SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS, PUBLICADO EN EL P.O. DE 17 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO EN MATERIA DE SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Primera Parte del Periódico Oficial del Estado de Guanajuato, el martes 30 de marzo de 2010.
 
@@ -900,3 +902,23 @@ P.O. 17 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO GUBERNATIVO NÚMERO 184, MEDIANTE EL CUAL, SE REALIZA LA MODIFICACIÓN MÚLTIPLE, A FIN DE ADECUAR LA REFERENCIA QUE EN REGLAMENTOS Y DECRETOS SE HACE AL SALARIO MÍNIMO, PARA REFERENCIARLO A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN".]
 
 Artículo Único. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 17 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 193, MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO EN MATERIA DE SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del Reglamento vigente
+
+Artículo Segundo. Se abroga el Reglamento en Materia de Servicios de Seguridad Privada para el Estado de Guanajuato y sus Municipios, contenido en el Decreto Gubernativo número 138, publicado en el Periódico Oficial del Gobierno del Estado número 51, Primera Parte, del 30 de marzo de 2010.
+
+Derogación tácita
+
+Artículo Tercero. Se deroga cualquier disposición reglamentaria o administrativa que se oponga a las disposiciones del presente ordenamiento.
+
+Trámite de los procedimientos
+
+Artículo Cuarto. Los procedimientos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto, se sujetarán a las disposiciones procesales vigentes al momento de su inicio, inclusive los recursos que se encuentren pendientes de resolución, hasta su debida conclusión.
