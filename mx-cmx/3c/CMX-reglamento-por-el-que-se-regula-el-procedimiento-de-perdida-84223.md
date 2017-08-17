@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-por-el-que-se-regula-el-procedimiento-de-perdida-842
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-27"
-last_updated: "2011-12-27"
+last_updated: "2017-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84223&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2011-12-14"
 ---
 # REGLAMENTO POR EL QUE SE REGULA EL PROCEDIMIENTO DE PERDIDA DE REGISTRO DE LAS AGRUPACIONES POLITICAS CONSTITUIDAS EN EL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO POR EL QUE SE REGULA EL PROCEDIMIENTO DE PÉRDIDA DE REGISTRO DE LAS AGRUPACIONES POLÍTICAS CONSTITUIDAS EN LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 17 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO POR EL QUE SE REGULA EL PROCEDIMIENTO DE PÉRDIDA DE REGISTRO DE LAS AGRUPACIONES POLÍTICAS CONSTITUIDAS EN EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE AGOSTO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 27 de diciembre de 2011.
 
@@ -427,3 +429,15 @@ PRIMERO. El presente Reglamento entrará en vigor al momento de su publicación.
 SEGUNDO. Se deroga el Título Cuarto del procedimiento para verificar que las Agrupaciones Políticas Locales cumplan con las obligaciones a que se sujetan durante su existencia, y reglas complementarias para sustanciar y resolver los procedimientos sancionatorios de pérdida de registro y de determinación e imposición de sanciones, en caso de incurrir en incumplimiento y demás disposiciones que se opongan al presente Reglamento.
 
 TERCERO. Remítase para su publicación dentro del plazo de diez días hábiles a la Gaceta Oficial del Distrito Federal, y publíquese en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en la página de Internet www.iedf.org.mx
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. DE 17 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, POR EL QUE SE APRUEBA EL REGLAMENTO POR EL QUE SE REGULA EL PROCEDIMIENTO DE PÉRDIDA DE REGISTRO DE LAS AGRUPACIONES POLÍTICAS CONSTITUIDAS EN LA CIUDAD DE MÉXICO, CON MOTIVO DE LA EXPEDICIÓN Y ENTRADA EN VIGOR DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Se abroga el Reglamento por el que se regula el procedimiento de pérdida de registro de las Agrupaciones Políticas constituidas en el Distrito Federal, aprobado por el Consejo General del Instituto Electoral del otrora Distrito Federal, el 14 de diciembre de 2011.
+
+TERCERO. Publíquese de inmediato el presente Reglamento en la Gaceta Oficial de la Ciudad de México, en los estrados del Instituto Electoral, en sus oficinas centrales y órganos desconcentrados, así como en la página de Internet www.iedf.org.mx.
