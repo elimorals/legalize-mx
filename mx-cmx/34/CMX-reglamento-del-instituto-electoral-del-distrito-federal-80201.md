@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-instituto-electoral-del-distrito-federal-80201"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-08"
-last_updated: "2011-03-08"
+last_updated: "2017-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80201&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2011-02-08"
 ---
 # REGLAMENTO DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL PARA LA FISCALIZACION DE LOS RECURSOS DE LAS AGRUPACIONES POLITICAS LOCALES INTERESADAS EN OBTENER EL REGISTRO LEGAL COMO PARTIDO POLITICO LOCAL
 
-REGLAMENTO DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL PARA LA FISCALIZACION DE LOS RECURSOS DE LAS AGRUPACIONES POLITICAS LOCALES INTERESADAS EN OBTENER EL REGISTRO LEGAL COMO PARTIDO POLITICO LOCAL
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, MEDIANTE EL CUAL SE APRUEBA EL REGLAMENTO PARA LA FISCALIZACIÓN DE LOS RECURSOS DE LAS ORGANIZACIONES DE CIUDADANOS QUE MANIFIESTEN SU INTERÉS EN CONSTITUIRSE COMO PARTIDO POLÍTICO LOCAL DE LA CIUDAD DE MÉXICO, CON MOTIVO DE LA EXPEDICIÓN Y ENTRADA EN VIGOR DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 17 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL PARA LA FISCALIZACIÓN DE LOS RECURSOS DE LAS AGRUPACIONES POLÍTICAS LOCALES INTERESADAS EN OBTENER EL REGISTRO LEGAL COMO PARTIDO POLÍTICO LOCAL
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 17 DE AGOSTO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 8 de marzo de 2011.
 
@@ -698,7 +700,7 @@ Segundo.- El plazo establecido en el artículo 67 comenzará a correr a partir d
 
 Tercero.- El periodo del primer informe que presente la Agrupación Política comprenderá a partir de la fecha de su solicitud de registro para constituirse como Partido Político Local hasta el 28 de febrero.
 
-> <small>N. DE E. VEASE FORMATOS EN LA G.O. DE 8 DE MARZO DE 2011, PAGINAS DE LA 78 A LA 136.</small>
+> <small>[N. DE E. VÉASE FORMATOS EN LA G.O. DE 8 DE MARZO DE 2011, PÁGINAS DE LA 78 A LA 136.]</small>
 
 Transitorio Único. Publíquese en la Gaceta Oficial del Distrito Federal.
 
@@ -711,3 +713,25 @@ México, Distrito Federal, Febrero 28 de 2011
 Lic. Josué Cervantes Martínez
 
 Vocal Ejecutivo de la Junta Local Ejecutiva del Instituto Federal Electoral en el Distrito Federal
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 17 DE AGOSTO DE 2017.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se aprueba el Reglamento para la Fiscalización de los Recursos de las Organizaciones de Ciudadanos que manifiesten su interés en constituirse como Partido Político Local de la Ciudad de México, conforme al Anexo que se acompaña al presente, el cual forma parte integral del mismo.
+
+SEGUNDO. Se abroga el Reglamento del Instituto Electoral del Distrito Federal para la Fiscalización de los Recursos de las Agrupaciones Políticas Locales interesadas en obtener el Registro Legal como Partido Político Local, aprobado mediante Acuerdo ACU-12-11.
+
+TERCERO. El presente Acuerdo y su Anexo entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+CUARTO. Publíquese este Acuerdo y su Anexo de manera inmediata a su aprobación, en los estrados del Instituto Electoral, en la sede central, en sus cuarenta Direcciones Distritales, y en la página de internet www.iedf.org.mx.
+
+QUINTO. Notifíquese personalmente este Acuerdo y su Anexo, a las asociaciones políticas en registro vigente ante este Instituto Electoral, dentro de los diez días hábiles siguientes a su entrada en vigor.
+
+SEXTO. Realícense las adecuaciones procedentes en virtud de la determinación asumida por el Consejo General en el apartado de Transparencia de la página de Internet www.iedf.org.mx y difúndase la misma en las redes sociales de este Instituto Electoral.
+
+SÉPTIMO. Remítase el presente Acuerdo y su Anexo, a la Gaceta Oficial de la Ciudad de México para su publicación, dentro del plazo de diez días hábiles siguientes a su aprobación.
+
+OCTAVO. Se instruye al Secretario Ejecutivo informe a la Asamblea Legislativa del Distrito Federal, la determinación asumida por este Consejo General, con la que se da cumplimiento a la previsión establecida en el artículo décimo tercero transitorio del Código de la Ciudad.
