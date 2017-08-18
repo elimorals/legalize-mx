@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-instituto-electoral-del-distrito-federal-82363"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-08"
-last_updated: "2011-08-08"
+last_updated: "2017-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82363&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2011-07-12"
 ---
 # REGLAMENTO DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL PARA EL REGISTRO DE ORGANIZACIONES CIUDADANAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO PARA EL REGISTRO DE ORGANIZACIONES CIUDADANAS, PUBLICADO EN LA G.O. DE 18 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL PARA EL REGISTRO DE ORGANIZACIONES CIUDADANAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE AGOSTO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 8 de agosto de 2011.
 
@@ -425,3 +427,15 @@ México, D.F. a 12 de julio de 2011.
 LIC. BERNADO (SIC) VALLE MONROY
 
 SECRETARIO EJECUTIVO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 18 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, POR EL QUE SE APRUEBA EL REGLAMENTO DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO PARA EL REGISTRO DE ORGANIZACIONES CIUDADANAS, CON MOTIVO DE LA EXPEDICIÓN Y ENTRADA EN VIGOR DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO”.]
+
+Primero. El presente Reglamento entrará en vigor y surtirá efectos al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. Se abroga el Reglamento del Instituto Electoral del Distrito Federal para el Registro de Organizaciones Ciudadanas, aprobado el 12 de julio de 2011 mediante Acuerdo del Consejo General ACU-043-11 y publicado en la Gaceta Oficial del Distrito Federal el 08 de agosto de 2011.
+
+Tercero. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Acuerdo, serán resueltos conforme a las normas sustantivas vigentes al momento de su inicio.
