@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-de-la-policia-preventiva-y-transito-del-747
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-05-07"
-last_updated: "2015-09-23"
+last_updated: "2017-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74799&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 REGLAMENTO INTERIOR DE LA POLICÍA PREVENTIVA Y TRÁNSITO DEL MUNICIPIO DE AHOME DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el viernes 7 de mayo de 2010.
 
@@ -1227,45 +1227,25 @@ V.- Atender a los lesionados, en su caso, proporcionando los primeros auxilios y
 
 VI.- Identificar plenamente a los conductores como presuntos responsables, mediante los documentos que porten, y, de no estar lesionados, trasladarlos en el carro patrulla al destacamento correspondiente, en los casos que proceda su detención.
 
-> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
+ARTÍCULO 63 BIS.- (DEROGADO, P.O. 18 DE AGOSTO DE 2017)
 
-ARTÍCULO 63 BIS.- El Ayuntamiento a través de la Dirección General de Seguridad Pública y Tránsito Municipal, estará facultado para autorizar, proporcionar, instalar, fijar, mantener, reponer y coordinar las señales, los moderadores de velocidad y los demás dispositivos necesarios para regular, controlar y proveer a la observancia de las normas en materia de tránsito municipal, haciendo uso de CINEMÓMETROS, que permitan obtener datos para conocer la velocidad de los vehículos automotores y el modo en que circulan en la vía pública.
+ARTÍCULO 63 BIS 1.- (DEROGADO, P.O. 18 DE AGOSTO DE 2017)
 
-> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
+ARTÍCULO 63 BIS 2.- (DEROGADO, P.O. 18 DE AGOSTO DE 2017)
 
-ARTÍCULO 63 BIS 1.- Para los efectos del artículo anterior se entiende por CINEMÓMETRO una cámara fija o en su caso móvil para la detección de velocidad de vehículos automotores, que permitan captar imágenes fotográficas.
+ARTÍCULO 63 BIS 3.- (DEROGADO, P.O. 18 DE AGOSTO DE 2017)
 
-> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
+ARTÍCULO 63 BIS 4.- (DEROGADO, P.O. 18 DE AGOSTO DE 2017)
 
-ARTÍCULO 63 BIS 2.- La Dirección de Tránsito Municipal se encuentra facultada para instalar de manera discrecional CINEMÓMETROS, en las áreas que para tal efecto designe, a fin de permitir la obtención de datos que conlleven a la identificación y control del cumplimiento de los límites de velocidad de los vehículos que sobre ellas circulen.
+ARTÍCULO 63 BIS 5.- (DEROGADO, P.O. 18 DE AGOSTO DE 2017)
 
-> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
+ARTÍCULO 63 BIS 6.- (DEROGADO, P.O. 18 DE AGOSTO DE 2017)
 
-ARTÍCULO 63 BIS 3.- En la hipótesis de que la Dirección de Seguridad Pública y Tránsito Municipal proceda a la instalación de CINEMÓMETROS, tendrá como objetivo salvaguardar la vida, salud, integridad física y patrimonio de los conductores, de los pasajeros, de los transeúntes y en términos generales de cualquier otra persona que pudiera ser afectada por la inobservancia de las reglas relativas al límite de velocidad, garantizando con ello el orden y la tranquilidad de los habitantes del Municipio de Ahome.
+ARTÍCULO 63 BIS 7.- (DEROGADO, P.O. 18 DE AGOSTO DE 2017)
 
-> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
+ARTÍCULO 63 BIS 8.- (DEROGADO, P.O. 18 DE AGOSTO DE 2017)
 
-ARTÍCULO 63 BIS 4.- En cada caso, en que la infracción a las disposiciones establecidas en la Ley de Tránsito y Transportes del Estado de Sinaloa y su reglamento sea registrada a través de un CINEMÓMETRO, las sanciones correspondientes serán impuestas por el agente que se encuentre asignado para ello, lo cual se hará constar en boletas de infracción seriadas autorizadas por la Dirección General de Seguridad Pública y Tránsito Municipal, que además de contener los requisitos señalados en el artículo 189 del Reglamento General de la Ley de Tránsito y Transportes del Estado de Sinaloa, en ella se establecerá la hora, lugar, vehículo, la velocidad y en su caso la placa respectiva, acompañándose a la misma el formato expedido por el propio CINEMÓMETRO que captó la infracción o copia de la imagen, con la confirmación de que dichos datos corresponden en forma auténtica y sin alteración de ningún tipo a lo captado por el instrumento tecnológico usado.
-
-> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
-
-ARTÍCULO 63 BIS 5.- Para los efectos del artículo anterior, si no fuese posible identificar la identidad del conductor del vehículo, será sancionado de manera solidaria la persona que aparezca dada de alta en calidad de propietaria, en el Registro Estatal de Vehículos.
-
-> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
-
-ARTÍCULO 63 BIS 6.- Si en un mismo evento concurren dos o más infracciones a que se refiere la ley y su reglamento, y una de ellas se derive de la aplicación de un CINEMÓMETRO, el agente, se encuentra facultado para dar alcance al vehículo automotor correspondiente, detenerlo, hacerle ver que ha sido detectado por el CINEMÓMETRO por exceder el límite de velocidad y que por ende llegará a su domicilio la infracción respectiva. Respecto a la infracción concurrente, el agente se encuentra facultado para proceder en términos de los artículos 62 y 63 del presente reglamento.
-
-> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
-
-ARTÍCULO 63 BIS 7.- Con independencia de lo señalado en los artículos Artículo (sic) 63 Bis 1, 63 Bis 2, 63 Bis 3, 63 Bis 4, 63 Bis 5, 63 Bis 6 y 63 Bis 7 la Dirección de Seguridad Pública y Tránsito Municipal a través de su personal, mantiene las facultades a fin de cerciorarse de que un vehículo ha excedido el límite de velocidad en aquellas vialidades en donde no se encuentre un CINEMÓMETRO, conminando a los conductores a fin de que no incurran nuevamente en una falta por exceso de velocidad y realizando las acciones que en términos del presente Capítulo sean procedentes.
-
-> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
-
-ARTÍCULO 63 BIS 8.- Cuando se trate de infracciones a la Ley de Tránsito y Transportes del Estado de Sinaloa captadas por un CINEMÓMETRO, la boleta de infracción será entregada en forma personal por conducto del personal autorizado de la Dirección, de lo cual dejará constancia. Si el infractor se negare a recibirla se hará constar esa situación para los efectos correspondientes. Las multas expedidas con apoyo de un CINEMÓMETRO, serán impresas, calificadas, y entregadas en el domicilio del infractor en un plazo no mayor a treinta días hábiles, por el personal autorizado de la Dirección General de Seguridad Pública y Tránsito del Municipio de Ahome, en el caso que no fuera posible la entrega personal al presunto infractor en la primera búsqueda, se dejará citatorio para que espere al día hábil siguiente, de no esperar le será entregada a cualquier persona que habite en el domicilio que a juicio del personal de la Dirección sea mayor de catorce años, en caso de no encontrarse nadie en el domicilio, la multa se dejará con el vecino más cercano, en todo caso se hará constar en un acta que para tal efecto se levante.
-
-> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
-
-ARTÍCULO 63 BIS 9.- La información obtenida por medio de un CINEMÓMETRO hará prueba plena, salvo que el infractor al comparecer ante la autoridad al procedimiento correspondiente acredite de manera fehaciente que fue obtenida en contravención de alguna disposición legal.
+ARTÍCULO 63 BIS 9.- (DEROGADO, P.O. 18 DE AGOSTO DE 2017)
 
 ## TÍTULO CUARTO. COMISIÓN DE HONOR Y JUSTICIA
 
@@ -2554,3 +2534,9 @@ P.O. 19 DE JUNIO DE 2015.
 P.O. 23 DE SEPTIEMBRE DE 2015.
 
 ÚNICO. Este Decreto entrará en vigor al día siguiente de su publicación en el “Órgano Oficial del Gobierno del Estado”.
+
+P.O. 18 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO MUNICIPAL NO. 03 DE AHOME.- SE DEROGAN LOS ARTÍCULOS 63 BIS, 63 BIS 1, 63 BIS 2, 63 BIS 3, 63 BIS 4, 63 BIS 5, 63 BIS 6, 63 BIS 7, 63 BIS 8 Y 63 BIS 9, TODOS DEL REGLAMENTO INTERIOR DE LA POLICÍA PREVENTIVA Y TRÁNSITO DEL MUNICIPIO DE AHOME, PUBLICADO EN EL ÓRGANO OFICIAL DEL GOBIERNO DEL ESTADO, CON FECHA 07 DE MAYO DEL 2010.
+
+Único.- Este Decreto entrará en vigor al día siguiente de su publicación en el "Periódico Oficial "El Estado de Sinaloa".
