@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-migrantes-y-sus-familias-del-estado-de-michoacan-815
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-24"
-last_updated: "2015-09-29"
+last_updated: "2017-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81516&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # LEY DE LOS MIGRANTES Y SUS FAMILIAS DEL ESTADO DE MICHOACAN DE OCAMPO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN DE LOS MIGRANTES Y SUS FAMILIAS DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL P.O. DE 18 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE LOS MIGRANTES Y SUS FAMILIAS DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2017 (ABROGADA).
 
 Ley publicada en la Sexta Sección al Periódico Oficial del Estado de Michoacán, el martes 24 de mayo de 2011.
 
@@ -858,3 +860,43 @@ P.O. 29 DE SEPTIEMBRE DE 2015.
 PRIMERO. Las presentes reformas y adiciones entrarán en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. El Titular del Poder Ejecutivo deberá adecuar el Reglamento de la Ley de los Migrantes y sus Familias del Estado de Michoacán de Ocampo, a las presentes reformas y adiciones en un plazo de sesenta días naturales.
+
+P.O. 18 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY PARA LA ATENCIÓN Y PROTECCIÓN DE LOS MIGRANTES Y SUS FAMILIAS DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de los Migrantes y sus Familias del Estado de Michoacán de Ocampo, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el día 24 de mayo del 2011.
+
+###### ARTÍCULO TERCERO.
+
+El Titular del Poder Ejecutivo Estatal contará con un plazo de noventa días a partir de la entrada en vigor de la presente Ley para expedir el reglamento de la misma.
+
+###### ARTÍCULO CUARTO.
+
+Los ayuntamientos contarán con noventa días posteriores a la entrada en vigor de la presente Ley, para crear los Centros Municipales para los Migrantes y sus Familias.
+
+###### ARTÍCULO QUINTO.
+
+Los ayuntamientos deberán instalar el Consejo Municipal, dentro de los treinta días posteriores a la entrada en vigor de la presente Ley. Para el caso de los ayuntamientos que aún no cuenten con el Centro Municipal para los Migrantes y sus Familias deberán instalar el Consejo a los treinta días posteriores a la creación del Centro.
+
+###### ARTÍCULO SEXTO.
+
+Los consejeros migrantes de los consejos Estatal y Municipal en funciones, concluirán su encargo por el período por el que fueron electos. Los Consejeros Migrantes que se eligen por las actuales administraciones municipales, por única ocasión durarán en su encargo hasta el 31 de agosto del 2018.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Banco de Datos de Migrantes del Estado de Michoacán de Ocampo, se deberá elaborar dentro de los treinta días siguientes a que se hayan integrado los Centros Municipales en términos del Artículo Cuarto Transitorio. En caso de que en la fecha referida no se hayan integrado la totalidad de los Centros Municipales, deberá iniciarse la integración de datos del Banco.
+
+###### ARTÍCULO OCTAVO.
+
+Para la entrada en vigor del Título Cuarto, Mecanismos Garantes y Responsabilidades, el Titular del Poder Ejecutivo deberá emitir declaratoria mediante la cual determine el inicio de las operaciones del órgano ahí previsto. En tanto ello ocurre cada Órgano Interno de Control de los órganos del Estado deberán atender lo que corresponde.
+
+###### ARTÍCULO NOVENO.
+
+Notifíquese al Titular del Poder Ejecutivo del Estado, para su sanción, promulgación y publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
