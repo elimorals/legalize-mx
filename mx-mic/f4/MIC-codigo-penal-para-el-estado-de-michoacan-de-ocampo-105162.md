@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2017-07-21"
+last_updated: "2017-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2017.
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -3153,11 +3153,11 @@ V. No cumplir una disposición que legalmente se les comunique por su superior c
 
 VI. Dictar, a sabiendas, una resolución de fondo o una sentencia definitiva que sean ilícitas por violar algún precepto terminante de la ley, o ser contrarias a las actuaciones seguidas en juicio u omitir dictar una resolución de trámite, de fondo o una sentencia definitiva lícita, dentro de los términos dispuestos en la ley;
 
-VII. Ejecutar actos o incurrir en omisiones que produzcan un daño o concedan a alguien una ventaja indebidos (sic);
+VII. Ejecutar actos o incurrir en omisiones que produzcan un daño o concedan a alguien una ventaja indebidos;
 
 VIII. Retardar o entorpecer maliciosamente o por negligencia la administración de justicia;
 
-IX. Abstenerse injustificadamente de ejercer la acción penal que corresponda de una persona que se encuentre detenida a su disposición como imputado (sic) de algún delito, cuando esta sea procedente conforme a la Constitución y a las leyes de la materia, en los casos en que la ley les imponga esa obligación; o ejercitar la acción penal cuando no proceda denuncia, acusación o querella;
+IX. Abstenerse injustificadamente de ejercer la acción penal que corresponda de una persona que se encuentre detenida a su disposición como imputado de algún delito, cuando esta sea procedente conforme a la Constitución y a las leyes de la materia, en los casos en que la ley les imponga esa obligación; o ejercitar la acción penal cuando no proceda denuncia, acusación o querella;
 
 X. Detener a un individuo fuera de los casos señalados por la ley, o retenerlo por más tiempo del señalado en la Constitución;
 
@@ -3405,9 +3405,9 @@ III. Omita promover las pruebas y diligencias necesarias para una defensa adecua
 
 IV. Como representante de la víctima o el ofendido, se concrete a aceptar el cargo sin realizar gestiones, trámites o promociones relativas a su representación.
 
-### CAPÍTULO II. USO INDEBIDO DE LOS MEDIOS DE COMUNICACIÓN DE EMERGENCIA
+### CAPÍTULO II. USO INDEBIDO DE LOS MEDIOS DE COMUNICACIÓN DE EMERGENCIA Y DENUNCIA
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 280.
 
@@ -3529,19 +3529,23 @@ Agravantes
 
 Si alguno de los hechos a que se refiere este capítulo se ejecuta por medio de violencia, la pena se aumentará hasta en cinco años de prisión.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE AGOSTO DE 2017)</small>
+
 ### CAPÍTULO III. ELABORACIÓN, ALTERACIÓN O USO INDEBIDO DE PLACAS, ENGOMADOS O DOCUMENTOS DE IDENTIFICACIÓN DE VEHÍCULOS AUTOMOTORES
 
 ###### Artículo 291.
 
-Uso indebido de medios de comunicación de emergencia.
+Uso indebido de medios de comunicación de emergencia y denuncia.
 
-Al que haga uso indebido de los medios de comunicación de emergencia, reportando hechos falsos que provoquen la movilización y presencia de personal y unidades de respuesta, se aplicará una pena de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización.
+Al que haga uso indebido de los medios de comunicación de emergencia o denuncia, reportando hechos falsos o inexistentes que provoquen la movilización o presencia de personal de respuesta y unidades o vehículos, se aplicará prisión de uno a tres años y de cien a quinientas unidades de medida y actualización.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 292.
 
-Uso indebido de medios de comunicación de emergencia agravado
+Uso indebido de medios de comunicación de emergencia o denuncia agravados.
 
-Al que haga uso de los medios de comunicación de emergencia para distraer la atención de personal o unidades de seguridad o emergencia, a fin de facilitar la comisión de un delito, se aplicará prisión de uno a tres años.
+Al que haga uso de los medios de comunicación de emergencia o denuncia para distraer la atención de personal o vehículos de seguridad o emergencia, a fin de facilitar la comisión de un delito, se aplicará prisión de dos a cuatro años y multa de quinientas a mil unidades de medida y actualización.
 
 ### CAPÍTULO IV. FALSIFICACIÓN O ALTERACIÓN, USO INDEBIDO DE DOCUMENTO Y USURPACIÓN DE IDENTIDAD
 
@@ -3857,7 +3861,7 @@ En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Consti
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- DR. SALVADOR JARA GUERRERO.- EL SECRETARIO DE GOBIERNO.- MTRO. JAIME DARÍO OSEGUERA MÉNDEZ.- (Firmados).
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 25 DE SEPTIEMBRE DE 2015.
 
@@ -4018,3 +4022,9 @@ P.O. 21 DE JULIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 376 POR EL QUE "SE DEROGA LA FRACCIÓN VI DEL ARTÍCULO 204 Y SE ADICIONA EL ARTÍCULO 205 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 18 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 391 POR EL QUE "SE MODIFICA LA DENOMINACIÓN DEL CAPÍTULO II DEL TÍTULO VIGÉSIMO PRIMERO Y SE REFORMAN LOS ARTÍCULOS 291 Y 292 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
