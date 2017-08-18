@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2017-07-03"
+last_updated: "2017-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2017.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -841,9 +841,9 @@ Las sesiones de todos los órganos colegiados de dirección serán públicas, en
 
 El Tribunal Electoral de Quintana Roo es un órgano público autónomo, con personalidad jurídica y patrimonio propios, independencia en sus decisiones, con plena autonomía técnica, de gestión, independencia funcional y financiera, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, y será la máxima autoridad jurisdiccional en la materia, con el carácter de permanente; tendrá competencia y organización para funcionar en pleno y sus sesiones serán públicas. Las resoluciones del Tribunal serán emitidas con plenitud de jurisdicción en una sola instancia y sus fallos serán definitivos. Estará integrado por tres Magistrados, unos (sic) de los cuales fungirá como Presidente, quienes serán electos por las dos terceras partes de los miembros presentes de la Cámara de Senadores, previa convocatoria pública, y serán renovados cada siete años, lo anterior de conformidad con lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Instituciones y Procedimientos Electorales.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2017)</small>
 
-El Tribunal Electoral de Quintana Roo y el Instituto Electoral de Quintana Roo contarán cada uno con un órgano interno de control, cuyos titulares serán designados por la Legislatura del Estado o la Diputación Permanente, en su caso; durarán cuatro años en su encargo sin posibilidad de reelección y no podrán durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia. Los órganos internos de control son órganos adscritos administrativamente al Consejo General del Instituto Electoral de Quintana Roo y al Pleno del Tribunal Electoral de Quintana Roo respectivamente.
+El Tribunal Electoral de Quintana Roo y el Instituto Electoral de Quintana Roo contarán cada uno con un órgano interno de control, cuyos titulares durarán cuatro años en su encargo sin posibilidad de reelección y no podrán durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia. Los órganos internos de control son órganos adscritos administrativamente al Consejo General del Instituto Electoral de Quintana Roo y al Pleno del Tribunal Electoral de Quintana Roo, respectivamente. El titular del órgano interno de control del Instituto Electoral de Quintana Roo será designado por la Legislatura del Estado o la Diputación Permanente.
 
 > <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
@@ -1289,9 +1289,9 @@ X.- Conceder a los diputados y magistrados del Tribunal Superior de Justicia y d
 
 XI.- Decidir sobre las solicitudes de renuncia que formule (sic) los diputados y Gobernador del Estado para separarse definitivamente de sus cargos.
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2017)</small>
 
-XII.- Designar y remover a los titulares de los órganos Internos de control de los órganos públicos autónomos reconocidos en esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado. La Ley que los rija determinará los requisitos y el procedimiento para su designación y remoción;
+XII. Designar y remover a los titulares de los órganos internos de control de los órganos públicos autónomos reconocidos en esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado, con excepción del titular del órgano interno de control del Tribunal Electoral de Quintana Roo. La Ley que rija a los órganos públicos autónomos determinará los requisitos y el procedimiento para su designación y remoción;
 
 XIII.- Cambiar la sede de los poderes del Estado.
 
@@ -1495,9 +1495,9 @@ X.- Convocar a periodo extraordinario para llevar a cabo la designación o remoc
 
 XI.- Designar mediante el procedimiento que la Ley determine, al Presidente y a los integrantes del Consejo Consultivo de la Comisión de los Derechos Humanos del Estado de Quintana Roo, así como recibirles la protesta de ley;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2017)</small>
 
-XII.- Designar y remover a los titulares de los Órganos Internos de Control de los órganos públicos autónomos reconocidos en esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado. La Ley que los rija determinará los requisitos y el procedimiento para su designación y remoción; así como ratificar al Titular de la Secretaría encargada del Control Interno del Poder Ejecutivo Estatal.
+XII. Designar y remover a los titulares de los Órganos Internos de Control de los órganos públicos autónomos reconocidos en esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado, con excepción del titular del órgano interno de control del Tribunal Electoral de Quintana Roo. La Ley que rija a los órganos públicos autónomos determinará los requisitos y el procedimiento para su designación y remoción. Asimismo, ratificará al Titular de la Secretaría encargada del Control Interno del Poder Ejecutivo Estatal;
 
 > <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
 
@@ -2275,13 +2275,13 @@ La Ley establecerá las bases para el manejo de dicho fondo.
 
 El Tribunal de Justicia Administrativa del Estado de Quintana Roo, es un órgano público autónomo, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, de gestión, independencia funcional y financiera, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna.
 
-Las resoluciones del Tribunal de Justicia Administrativa del Estado serán emitidas con plenitud de jurisdicción en una sola instancia y sus fallos serán definitivos.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 18 DE AGOSTO DE 2017)</small>
 
 El Tribunal de Justicia Administrativa del Estado se integrará por cinco magistrados, uno de los cuales fungirá como su Presidente. La Presidencia será rotativa en los términos que establezca la ley.
 
-El Tribunal de Justicia Administrativa del Estado, funcionará de manera permanente en Pleno o en Salas.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 18 DE AGOSTO DE 2017)</small>
 
-El Tribunal contará cuando menos, con una Sala Especializada en materia anticorrupción y responsabilidades administrativas, con la integración y competencia que establezca la Ley.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 18 DE AGOSTO DE 2017)</small>
 
 Para ser Magistrado del Tribunal de Justicia Administrativa del Estado, se deberán reunir los mismos requisitos exigidos para ser Magistrado del Tribunal Superior de Justicia y los que determine la ley.
 
@@ -2293,7 +2293,9 @@ a) La Legislatura del Estado o en su caso, la Diputación Permanente, emitirá u
 
 b) Una vez recibidas las solicitudes de las personas que deseen participar y que hayan cumplido con lo estipulado en las bases de la convocatoria, la Legislatura del Estado o en su caso, la Diputación Permanente, a través de la Comisión de Anticorrupción, Participación Ciudadana y Órganos Autónomos, determinará qué aspirantes cumplieron los requisitos constitucionales y legales y los entrevistará a efecto de emitir el dictamen que corresponda.
 
-c) Posteriormente, la Legislatura del Estado o en su caso, la Diputación Permanente, remitirá el dictamen de la Comisión de Anticorrupción, Participación Ciudadana y Órganos Autónomos al Ejecutivo del Estado, para que conforme cinco binas, las cuales deberán ser remitidas a la Legislatura del Estado o la Diputación Permanente en su caso, dentro de los tres días posteriores.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2017)</small>
+
+c) Posteriormente, la Legislatura del Estado o en su caso, la Diputación Permanente, enviará el dictamen al Titular del Poder Ejecutivo Estatal, para que éste conforme una bina por cada magistrado a nombrar. En ningún caso, se podrá remitir al Titular del Poder Ejecutivo el mismo número de aspirantes por bina a integrar. El Titular del Poder Ejecutivo del Estado deberá remitir su propuesta dentro de los tres días hábiles posteriores, a la Legislatura del Estado o la Diputación Permanente, en su caso.
 
 d) La Legislatura o en su caso, la Diputación Permanente, una vez llevado a cabo lo dispuesto en el inciso anterior, designará por cada bina propuesta a un magistrado.
 
@@ -2535,115 +2537,115 @@ X Y
 
 34 315,119.07 2,069,634.96
 
-35 315,106.89 2,064, 138.36
+35 315,106.89 2,064,138.36
 
-36 315,075.14 2,062, 249.69
+36 315,075.14 2,062,249.69
 
 37 315,043.39 2,060,361.03
 
-38 322,640.11 2,060, 352.93
+38 322,640.11 2,060,352.93
 
-39 330,236.83 2,060, 344.84
+39 330,236.83 2,060,344.84
 
-40 331 ,408.86 2,060, 344.38
+40 331,408.86 2,060,344.38
 
-41 332,580.88 2,060, 343.92
+41 332,580.88 2,060,343.92
 
-42 332,685.33 2,062, 044.12
+42 332,685.33 2,062,044.12
 
-43 332,789.78 2,063, 744.33
+43 332,789.78 2,063,744.33
 
-44 334,099.49 2,063, 228.78
+44 334,099.49 2,063,228.78
 
-45 335,409.20 2,062, 713.24
+45 335,409.20 2,062,713.24
 
-46 342,518.41 2,06 1,559.56
+46 342,518.41 2,061,559.56
 
-47 350,859.74 2,060, 222.77
+47 350,859.74 2,060,222.77
 
-48 351,113.76 2,061, 877.85
+48 351,113.76 2,061,877.85
 
-49 351,154.34 2,061, 915.08
+49 351,154.34 2,061,915.08
 
-*50 351,276.24 2,061, 913.46
+*50 351,276.24 2,061,913.46
 
-51 377,816.64 2,090, 297.76
+51 377,816.64 2,090,297.76
 
-52 379,517.69 2,090, 180.48
+52 379,517.69 2,090,180.48
 
-53 380,077.69 2,093 ,202.58
+53 380,077.69 2,093,202.58
 
-54 380,454.63 2,093, 298.78
+54 380,454.63 2,093,298.78
 
-55 385,757.08 2,093, 187.79
+55 385,757.08 2,093,187.79
 
-56 385,748.26 2,095, 989.29
+56 385,748.26 2,095,989.29
 
-57 385,748.26 2,095, 989.29
+57 385,748.26 2,095,989.29
 
-58 385,541.79 2,098, 646.01
+58 385,541.79 2,098,646.01
 
-59 385,542.05 2,098, 645.88
+59 385,542.05 2,098,645.88
 
-60 386,053.52 2,098, 725.45
+60 386,053.52 2,098,725.45
 
-61 386,651.75 2,098, 689.25
+61 386,651.75 2,098,689.25
 
-62 387,249.98 2,098, 653.06
+62 387,249.98 2,098,653.06
 
-63 387,951.67 2,098, 619.27
+63 387,951.67 2,098,619.27
 
-64 388,005.27 2,099, 002.49
+64 388,005.27 2,099,002.49
 
-65 388,155.58 2,099, 002.44
+65 388,155.58 2,099,002.44
 
-66 388,199.79 2,098, 996.52
+66 388,199.79 2,098,996.52
 
-67 388,243.99 2,098, 990.61
+67 388,243.99 2,098,990.61
 
-68 388,243.99 2,098, 812.17
+68 388,243.99 2,098,812.17
 
-69 388,248.91 2,098, 633.73
+69 388,248.91 2,098,633.73
 
-70 389,012.15 2,098, 837.89
+70 389,012.15 2,098,837.89
 
-71 389,605.04 2,098, 996.35
+71 389,605.04 2,098,996.35
 
-72 389,605.09 2,098, 996.36
+72 389,605.09 2,098,996.36
 
-73 389,605.23 2,098, 996.35
+73 389,605.23 2,098,996.35
 
-74 431,760.07 2,098, 348.74
+74 431,760.07 2,098,348.74
 
-75 434,959.48 2,096, 799.81
+75 434,959.48 2,096,799.81
 
-**76 435,423.13 2,096, 792.96
+**76 435,423.13 2,096,792.96
 
-***77 272,048.30 1,984, 896.46
+***77 272,048.30 1,984,896.46
 
-78 272 ,040.30 1,984, 135.45
+78 272 ,040.30 1,984,135.45
 
-79 272,030.30 1,983, 186.45
+79 272,030.30 1,983,186.45
 
-80 272,037.30 1,981, 594.44
+80 272,037.30 1,981,594.44
 
 81 272,005.30 1,981,107.44
 
-82 272,014.30 1,980, 778.44
+82 272,014.30 1,980,778.44
 
-83 272,013.30 1,980, 673.44
+83 272,013.30 1,980,673.44
 
-****84 271,884.29 1,971, 029.39
+****84 271,884.29 1,971,029.39
 
-85 263,668.25 1,971, 150.39
+85 263,668.25 1,971,150.39
 
-86 263,211.25 1,971, 156.39
+86 263,211.25 1,971,156.39
 
-87 261,690.24 1,971, 179.39
+87 261,690.24 1,971,179.39
 
-88 256,575.22 1,971, 254.40
+88 256,575.22 1,971,254.40
 
-89 244,075.77 1,971, 553.04
+89 244,075.77 1,971,553.04
 
 * Del vértice 50 se continúa, hacia el norte, sobre la parte media de la Laguna de Bacalar hasta llegar al vértice 51
 
@@ -2917,295 +2919,295 @@ Vértice
 
 X Y
 
-1 245,656.09 2,088, 249.08
+1 245,656.09 2,088,249.08
 
-2 246,184.82 2,127, 292.41
+2 246,184.82 2,127,292.41
 
-3 286,918.12 2,127, 292.41
+3 286,918.12 2,127,292.41
 
-4 308,988.21 2,127, 292.41
+4 308,988.21 2,127,292.41
 
-5 310,306.19 2,127, 288.42
+5 310,306.19 2,127,288.42
 
-6 313,626.19 2,127, 277.53
+6 313,626.19 2,127,277.53
 
-7 314,624.22 2,127, 269.26
+7 314,624.22 2,127,269.26
 
-8 319,470.29 2,127, 287.09
+8 319,470.29 2,127,287.09
 
-9 319,450.69 2,125, 866.01
+9 319,450.69 2,125,866.01
 
-10 324,441.94 2,125, 741.53
+10 324,441.94 2,125,741.53
 
-11 331,972.63 2,125, 747.48
+11 331,972.63 2,125,747.48
 
-12 332,860.75 2,125, 083.76
+12 332,860.75 2,125,083.76
 
-13 332,841.34 2,122, 554.56
+13 332,841.34 2,122,554.56
 
-14 336,478.36 2,122, 525.01
+14 336,478.36 2,122,525.01
 
-15 336,463.60 2,123, 869.87
+15 336,463.60 2,123,869.87
 
-16 338,322.70 2,123, 838.97
+16 338,322.70 2,123,838.97
 
-17 339,090.82 2,123, 780.70
+17 339,090.82 2,123,780.70
 
-18 343,895.07 2,123, 896.11
+18 343,895.07 2,123,896.11
 
-19 344,131.55 2,123, 165.13
+19 344,131.55 2,123,165.13
 
-20 345,053.69 2,122, 934.80
+20 345,053.69 2,122,934.80
 
-21 346,933.66 2,123, 039.40
+21 346,933.66 2,123,039.40
 
-22 351,263.87 2,123, 352.71
+22 351,263.87 2,123,352.71
 
-23 354,365.65 2,123, 335.62
+23 354,365.65 2,123,335.62
 
-24 353,430.83 2,121, 541.54
+24 353,430.83 2,121,541.54
 
-25 352,904.62 2,120, 531.67
+25 352,904.62 2,120,531.67
 
-26 351,923.25 2,117, 381.20
+26 351,923.25 2,117,381.20
 
-27 350,464.33 2,112, 849.26
+27 350,464.33 2,112,849.26
 
-28 350,243.63 2,112, 157.08
+28 350,243.63 2,112,157.08
 
-29 353,997.41 2,111, 808.40
+29 353,997.41 2,111,808.40
 
-30 359,296.75 2,110, 154.24
+30 359,296.75 2,110,154.24
 
-31 360,231.50 2,109, 873.49
+31 360,231.50 2,109,873.49
 
-32 361,152.64 2,109, 573.15
+32 361,152.64 2,109,573.15
 
-33 365,517.50 2,108, 200.53
+33 365,517.50 2,108,200.53
 
-34 369,264.34 2,107, 022.25
+34 369,264.34 2,107,022.25
 
-35 369,608.75 2,107, 981.26
+35 369,608.75 2,107,981.26
 
-36 369,696.73 2,108, 221.23
+36 369,696.73 2,108,221.23
 
-37 370,837.58 2,111, 412.82
+37 370,837.58 2,111,412.82
 
-38 370,840.05 2,111, 488.83
+38 370,840.05 2,111,488.83
 
-39 371 ,191.87 2,112, 470.06
+39 371,191.87 2,112,470.06
 
-40 371,665.64 2,113, 131.29
+40 371,665.64 2,113,131.29
 
-41 371 ,712.76 2,113, 822.80
+41 371,712.76 2,113,822.80
 
-42 371 ,712.76 2,113, 863.63
+42 371,712.76 2,113,863.63
 
-43 371 ,598.90 2,114, 080.54
+43 371,598.90 2,114,080.54
 
-44 371 ,830.98 2, 114 ,850.05
+44 371,830.98 2, 114,850.05
 
-45 372,113.14 2,115, 791.66
+45 372,113.14 2,115,791.66
 
-46 372,925.48 2,118, 595.12
+46 372,925.48 2,118,595.12
 
-47 374,495.00 2,118, 216.65
+47 374,495.00 2,118,216.65
 
-48 375,137.68 2,118, 106.98
+48 375,137.68 2,118,106.98
 
-49 375,427.20 2,118, 057.57
+49 375,427.20 2,118,057.57
 
-50 375,616.82 2,118, 026.58
+50 375,616.82 2,118,026.58
 
-51 376,644.08 2,117, 858.49
+51 376,644.08 2,117,858.49
 
-52 376,511.64 2,116, 834.58
+52 376,511.64 2,116,834.58
 
-53 376,632.82 2,116, 829.02
+53 376,632.82 2,116,829.02
 
-54 376,646.59 2,116, 769.52
+54 376,646.59 2,116,769.52
 
-55 377,007.37 2,116, 765.49
+55 377,007.37 2,116,765.49
 
-56 377,155.14 2,116, 994.20
+56 377,155.14 2,116,994.20
 
-57 377,965.33 2,116, 922.16
+57 377,965.33 2,116,922.16
 
-58 377,965.33 2,116, 922.16
+58 377,965.33 2,116,922.16
 
-59 377,965.33 2,116, 922.16
+59 377,965.33 2,116,922.16
 
-60 377,965.33 2,116, 922.16
+60 377,965.33 2,116,922.16
 
-61 379,618.04 2,116, 753.64
+61 379,618.04 2,116,753.64
 
-62 379,635.58 2,116, 841.75
+62 379,635.58 2,116,841.75
 
-63 380,320.63 2,116, 601.16
+63 380,320.63 2,116,601.16
 
-64 383,750.58 2,115, 808.42
+64 383,750.58 2,115,808.42
 
-65 384,634.21 2,115, 604.19
+65 384,634.21 2,115,604.19
 
-66 386,491.92 2,115, 159.48
+66 386,491.92 2,115,159.48
 
-67 390,944.49 2,114, 313.78
+67 390,944.49 2,114,313.78
 
-68 391,348.42 2,114, 257.04
+68 391,348.42 2,114,257.04
 
-69 393,026.59 2,114, 040.94
+69 393,026.59 2,114,040.94
 
-70* 442,158.16 2,114, 040.94
+70* 442,158.16 2,114,040.94
 
-71 435,423.13 2,096, 792.96
+71 435,423.13 2,096,792.96
 
-72 434,959.48 2,096, 799.81
+72 434,959.48 2,096,799.81
 
-73 431,760.07 2,098, 348.74
+73 431,760.07 2,098,348.74
 
-74 389,605.23 2,098, 996.35
+74 389,605.23 2,098,996.35
 
-75 389,605.09 2,098, 996.36
+75 389,605.09 2,098,996.36
 
-76 389,605.04 2,098, 996.35
+76 389,605.04 2,098,996.35
 
-77 389,012.15 2,098, 837.89
+77 389,012.15 2,098,837.89
 
-78 388,248.91 2,098, 633.73
+78 388,248.91 2,098,633.73
 
-79 388,243.99 2,098, 812.17
+79 388,243.99 2,098,812.17
 
-80 388,243.99 2,098, 990.61
+80 388,243.99 2,098,990.61
 
-81 388,199.79 2,098, 996.52
+81 388,199.79 2,098,996.52
 
-82 388,155.58 2,099, 002.44
+82 388,155.58 2,099,002.44
 
-83 388,005.27 2,099, 002.49
+83 388,005.27 2,099,002.49
 
-84 387,951.67 2,098, 619.27
+84 387,951.67 2,098,619.27
 
-85 387,249.98 2,098, 653.06
+85 387,249.98 2,098,653.06
 
-86 386,651.75 2,098, 689.25
+86 386,651.75 2,098,689.25
 
-87 386,053.52 2,098, 725.45
+87 386,053.52 2,098,725.45
 
-88 385,542.05 2,098, 645.88
+88 385,542.05 2,098,645.88
 
-89 385,541.79 2,098, 646.01
+89 385,541.79 2,098,646.01
 
-90 385,748.26 2,095, 989.29
+90 385,748.26 2,095,989.29
 
-91 385,748.26 2,095, 989.29
+91 385,748.26 2,095,989.29
 
-92 385,757.08 2,093, 187.79
+92 385,757.08 2,093,187.79
 
-93 380,454.63 2,093, 298.78
+93 380,454.63 2,093,298.78
 
-94 380,077.69 2,093, 202.58
+94 380,077.69 2,093,202.58
 
-95 379,517.69 2,090, 180.48
+95 379,517.69 2,090,180.48
 
-96** 377,816.64 2,090, 297.76
+96** 377,816.64 2,090,297.76
 
-97 351,276.24 2,061 ,913.46
+97 351,276.24 2,061,913.46
 
-98 351,154.34 2,061, 915.08
+98 351,154.34 2,061,915.08
 
-99 351,113.76 2,061, 877.85
+99 351,113.76 2,061,877.85
 
-100 350,859.74 2,060, 222.77
+100 350,859.74 2,060,222.77
 
-101 342,518.41 2,061, 559.56
+101 342,518.41 2,061,559.56
 
-102 335,409.20 2,062, 713.24
+102 335,409.20 2,062,713.24
 
-103 334,099.49 2,063, 228.78
+103 334,099.49 2,063,228.78
 
-104 332,789.78 2,063, 744.33
+104 332,789.78 2,063,744.33
 
-105 332,685.33 2,062, 044.12
+105 332,685.33 2,062,044.12
 
-106 332,580.88 2,060, 343.92
+106 332,580.88 2,060,343.92
 
-107 331,408.86 2,060, 344.38
+107 331,408.86 2,060,344.38
 
-108 330,236.83 2,060, 344.84
+108 330,236.83 2,060,344.84
 
-109 322,640.11 2,060, 352.93
+109 322,640.11 2,060,352.93
 
-110 315,043.39 2,060, 361.03
+110 315,043.39 2,060,361.03
 
-111 315,075.14 2,062, 249.69
+111 315,075.14 2,062,249.69
 
-112 315,106.89 2,064, 138.36
+112 315,106.89 2,064,138.36
 
-113 315,119.07 2,069, 634.96
+113 315,119.07 2,069,634.96
 
-114 315,131.42 2,075, 131.77
+114 315,131.42 2,075,131.77
 
-115 314,573.40 2,075, 125.78
+115 314,573.40 2,075,125.78
 
-116 307,629.81 2,075, 174.47
+116 307,629.81 2,075,174.47
 
-117 307,573.80 2,078, 105.13
+117 307,573.80 2,078,105.13
 
-118 307,524.63 2,080, 623.62
+118 307,524.63 2,080,623.62
 
-119 307,498.61 2,081 ,888.86
+119 307,498.61 2,081,888.86
 
-120 307,498.44 2,081, 888.86
+120 307,498.44 2,081,888.86
 
-121 306,849.14 2,081, 873.93
+121 306,849.14 2,081,873.93
 
-122 306,199.84 2,081 ,859.01
+122 306,199.84 2,081,859.01
 
-123 305,065.43 2,081, 856.81
+123 305,065.43 2,081,856.81
 
-124 303,931.02 2,081, 854.61
+124 303,931.02 2,081,854.61
 
-125 299,769.60 2,081, 856.33
+125 299,769.60 2,081,856.33
 
-126 297,357.22 2,081, 857.33
+126 297,357.22 2,081,857.33
 
-127 297,305.20 2,080, 584.13
+127 297,305.20 2,080,584.13
 
-128 297,253.17 2,079, 310.94
+128 297,253.17 2,079,310.94
 
-129 296,052.23 2,079, 394.85
+129 296,052.23 2,079,394.85
 
-130 294,415.02 2,079 ,484.70
+130 294,415.02 2,079,484.70
 
-131 292,777.81 2,079, 574.55
+131 292,777.81 2,079,574.55
 
-132 292,858.34 2,080, 507.01
+132 292,858.34 2,080,507.01
 
-133 292,938.86 2,081, 439.48
+133 292,938.86 2,081,439.48
 
-134 292,929.64 2,081, 569.30
+134 292,929.64 2,081,569.30
 
-135 292,920.41 2,081, 699.13
+135 292,920.41 2,081,699.13
 
-136 290,727.60 2,081, 728.30
+136 290,727.60 2,081,728.30
 
-137 288,534.79 2,081, 757.48
+137 288,534.79 2,081,757.48
 
-138 288,607.16 2,087, 116.75
+138 288,607.16 2,087,116.75
 
-139 282,774.89 2,086, 312.94
+139 282,774.89 2,086,312.94
 
-140 282,559.20 2,087, 984.76
+140 282,559.20 2,087,984.76
 
-141 282,343.50 2,089, 656.58
+141 282,343.50 2,089,656.58
 
-142 274,694.72 2,088, 749.16
+142 274,694.72 2,088,749.16
 
-143 273,652.46 2,088, 625.42
+143 273,652.46 2,088,625.42
 
-144 267,503.65 2,088, 507.14
+144 267,503.65 2,088,507.14
 
-145 265,182.61 2,088, 249.08
+145 265,182.61 2,088,249.08
 
 * Del vértice 70 se sigue la línea de costa del Mar Caribe hasta llegar al vértice 71.
 
@@ -5103,7 +5105,7 @@ SEGUNDO.- En un plazo no mayor a treinta días naturales contados a partir de la
 
 P.O. 3 DE JULIO DE 2017.
 
-## [N. DE E. TRANSITORIOS DE LA “DECLARATORIA NÚMERO: 002 POR EL (SIC) QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, EN MATERIA DE COMBATE A LA CORRUPCIÓN”.]
+## [N. DE E. TRANSITORIOS DE LA "DECLARATORIA NÚMERO: 002 POR EL (SIC) QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, EN MATERIA DE COMBATE A LA CORRUPCIÓN".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo, sin perjuicio de lo previsto en los transitorios siguientes.
 
@@ -5139,13 +5141,21 @@ SÉPTIMO. El titular de la Fiscalía General del Estado de Quintana Roo, deberá
 
 OCTAVO. La Legislatura del Estado, designará a los nuevos titulares de los órganos internos de control de los órganos públicos autónomos reconocidos en esta Constitución, en un plazo de noventa días a partir de la entrada en vigor del presente decreto.
 
-Los Contralores o titulares de los órganos internos de control del Instituto de Acceso a la Información y Protección de Datos Personales, del Tribunal Electoral, del Instituto Electoral, de la Comisión de los Derechos Humanos y de la Fiscalía General, todos del Estado de Quintana Roo, que se encuentren en funciones a la entrada en vigor de este decreto continuarán en su encargo hasta en tanto se realicen los nuevos nombramientos.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2017)</small>
+
+Los Contralores o titulares de los órganos internos de control del Instituto de Acceso a la Información y Protección de Datos Personales, de la Comisión de los Derechos Humanos y de la Fiscalía General, todos del Estado de Quintana Roo, que se encuentren en funciones a la entrada en vigor de este decreto continuarán en su encargo hasta en tanto se realicen los nuevos nombramientos.
 
 Los Contralores o los titulares de los órganos interno de control a que se refiere el párrafo anterior serán elegibles para un nuevo nombramiento, en los términos de esta Constitución.
 
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2017)</small>
+
+Los Contralores Internos del Tribunal Electoral de Quintana Roo y del Instituto Electoral de Quintana Roo, que hayan sido designados por la Legislatura del Estado, con anterioridad a la entrada en vigor del presente Decreto, continuarán en sus funciones hasta la conclusión del periodo para el cual fueron designados.
+
 NOVENO. La Legislatura del Estado o la Diputación Permanente, en su caso, en los términos previstos por esta Constitución y la ley de la materia, designará en un plazo de sesenta días posteriores a la entrada en vigor del presente Decreto, al Titular de la Auditoría Superior del Estado.
 
-DÉCIMO. Dentro de los treinta días siguientes a la expedición de la Ley del Sistema Estatal Anticorrupción, la Legislatura del Estado, deberá designar a los integrantes de la Comisión de Selección, en los términos previstos por el artículo 161 fracción II de esta Constitución.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE AGOSTO DE 2017)</small>
+
+DÉCIMO. Dentro de los noventa días siguientes a la entrada en vigor de la Ley del Sistema Estatal Anticorrupción, la Legislatura del Estado, deberá designar a los integrantes de la Comisión de Selección, en los términos previstos por el artículo 161 fracción II de esta Constitución.
 
 La Comisión de Selección nombrará a los integrantes del Comité de Participación Ciudadana, en los términos siguientes:
 
@@ -5165,4 +5175,12 @@ La sesión de instalación del Comité Coordinador del Sistema Estatal Anticorru
 
 DÉCIMO PRIMERO. La Secretaría de Finanzas y Planeación, realizará las acciones necesarias para proveer de recursos a la Fiscalía General del Estado, en virtud de la creación de la Fiscalía Especializada de Combate a la Corrupción y al Tribunal de Justicia Administrativa del Estado; para el óptimo desempeño de sus funciones, en tanto se aprueban el presupuesto de egresos por la Legislatura del Estado en términos de esta Constitución, lo cual no podrá exceder del 15 de diciembre de 2017. El presupuesto aprobado deberá cubrir los capítulos de servicios personales, materiales y suministros, así como de servicios generales necesarios.
 
-DÉCIMO SEGUNDO. La Legislatura del Estado o en su caso la Diputación Permanente, deberá ratificar al Titular de la Secretaría encargada del Control Interno del Poder Ejecutivo Estatal, en un plazo no mayor a sesenta días posteriores a la entrada en vigor del presente Decreto.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2017)</small>
+
+DÉCIMO SEGUNDO. La Legislatura del Estado o en su caso la Diputación Permanente, deberá ratificar al Titular de la Secretaría encargada del Control Interno del Poder Ejecutivo Estatal, en un plazo no mayor a noventa días posteriores a la entrada en vigor del presente Decreto.
+
+P.O. 18 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DE LA “DECLARATORIA NÚMERO: 003 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO Y DE LA DECLARATORIA NÚMERO: 002 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO EN MATERIA DE COMBATE A LA CORRUPCIÓN”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
