@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-de-los-centros-de-mecanismos-alternativos-de-116807"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-10-07"
-last_updated: "2016-10-07"
+last_updated: "2017-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116807&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SIN"
 ---
 # REGLAMENTO DE LOS CENTROS DE MECANISMOS ALTERNATIVOS DE SOLUCION DE CONTROVERSIAS EN MATERIA FAMILIAR DEL PODER JUDICIAL DEL ESTADO DE SINALOA - ANTES REGLAMENTO DEL CENTRO DE MECANISMOS ALTERNATIVOS DEL SOLUCION DE CONTROVERSIAS EN MATERIA FAMILIAR DEL PODER JUDICIAL DEL ESTADO DE SINALOA -
 
-REGLAMENTO DEL CENTRO DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS EN MATERIA FAMILIAR DEL PODER JUDICIAL DEL ESTADO DE SINALOA
+REGLAMENTO DE LOS CENTROS DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS EN MATERIA FAMILIAR DEL PODER JUDICIAL DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2017.
 
 Reglamento publicado en el No. 122 del Periódico Oficial del Estado de Sinaloa, el viernes 7 de octubre de 2016.
 
@@ -35,15 +35,25 @@ CONSIDERANDO
 
 En mérito de las consideraciones expuestas y con fundamento en las disposiciones constitucionales y legales invocadas, este Tribunal en Pleno expide el siguiente:
 
-REGLAMENTO DEL CENTRO DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS EN MATERIA FAMILIAR DEL PODER JUDICIAL DEL ESTADO DE SINALOA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE AGOSTO DE 2017)</small>
+
+REGLAMENTO DE LOS CENTROS DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS EN MATERIA FAMILIAR DEL PODER JUDICIAL DEL ESTADO DE SINALOA
 
 ### CAPÍTULO PRIMERO. Disposiciones Generales
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 18 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 1.
 
 Objetivo del reglamento
 
-El presente reglamento tiene por objeto regular los procedimientos de mediación y conciliación en materia familiar, sus principios, bases y requisitos; así como establecer la organización del Centro de Mecanismos Alternativos de Solución de Controversias en Materia Familiar del Poder Judicial del Estado de Sinaloa.1
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2017)</small>
+
+El presente Reglamento tiene por objeto regular los procedimientos de mediación y conciliación en materia familiar, sus principios, bases y requisitos; así como establecer la organización de los Centros de Mecanismos Alternativos de Solución de Controversias en Materia Familiar del Poder Judicial del Estado de Sinaloa.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2017)</small>
+
+Corresponderá al Pleno determinar en qué Distritos Judiciales se establecerán Centros de Mecanismos Alternativos de Solución de Controversias en Materia Familiar.
 
 ###### Artículo 2.
 
@@ -78,6 +88,10 @@ VI. Flexibilidad: El procedimiento de los mecanismos alternativos carecerá de t
 VII. Equidad: Propiciar condiciones de equilibrio entre las partes, y;
 
 VIII. Honestidad: Se refiere a que, en la actuación del Facilitador, éste debe reconocer tanto sus capacidades como sus limitaciones, así como no tener ningún interés personal o institucional en la aplicación de los mecanismos.
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2017)</small>
+
+IX. Celeridad: Los procedimientos a través de los mecanismos alternativos propuestos en este Reglamento tienen por objeto, en conjunto con los demás principios, proporcionar a las partes interesadas una solución más pronta y eficaz a sus controversias que de acudir por la vía jurisdiccional.
 
 ###### Artículo 5.
 
@@ -203,27 +217,35 @@ I. A solicitud de una o ambas partes involucradas en un conflicto, y;
 
 II. Por derivación, cuando un juez del ramo familiar lleve a cabo la remisión de un caso que se encuentre radicado en el órgano jurisdiccional.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 18 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 16.
 
 Solicitud de inicio del mecanismo alternativo
 
-Para iniciar el procedimiento de mediación o conciliación, se requiere la petición verbal o escrita de una o de ambas partes ante el Centro o ante un Facilitador. En su caso, para el trámite del procedimiento, deberá proporcionar sus datos personales, el asunto a resolver, su voluntad de vincularse a un mecanismo alternativo de solución de controversia, así como el nombre y domicilio de la persona con la que tenga el conflicto, a fin de que sea invitada para que asista a una sesión de mediación o conciliación, según sea el caso.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2017)</small>
+
+Para iniciar el procedimiento de mediación o conciliación, se requiere la petición verbal o escrita de una o de ambas partes ante el Centro o ante un Facilitador. En su caso, para el trámite del procedimiento, deberá proporcionar sus datos personales, el asunto a resolver, su voluntad de vincularse a un mecanismo alternativo de solución de controversia, así como el nombre y domicilio de la persona con la que tenga el conflicto, a fin de que sea invitada para que asista a una sesión de mediación o conciliación, según sea el caso. Esta información será ingresada al sistema informático de seguimiento de casos con que cuenten los Centros, asignándosele el número de registro que le corresponda.
 
 Previo al trámite de su solicitud, el Facilitador le deberá hacer saber al solicitante en qué consiste el procedimiento de mediación o conciliación, la diferencia entre ambos medios alternos, sus alcances, así como las reglas a observar, y que éste sólo se llevará a cabo con el consentimiento de ambas partes.
 
-Una vez que la parte solicitante acepte vincularse a un mecanismo alternativo, el Facilitador la escuchará, analizará el caso y evaluará si puede aplicarse algún mecanismo alternativo de los previstos en el Reglamento; si es así, de inmediato se registrará su solicitud con el número que corresponda, se le anotarán los datos del Facilitador que llevará el procedimiento, y se fijará fecha y hora para que tenga lugar la sesión inicial dentro de un término de diez días hábiles.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2017)</small>
+
+Una vez que la parte solicitante acepte vincularse a un mecanismo alternativo, el Facilitador la escuchará, analizará el caso y evaluará si puede aplicarse algún mecanismo alternativo de los previstos en el Reglamento; si es así, se actualizará el registro de su solicitud, anotando los datos del Facilitador que llevará el procedimiento; a su vez, se fijará fecha y hora para que tengan lugar las sesiones con la parte complementaria, en primer término una preliminar y posteriormente la inicial conjunta; ambas sesiones se desarrollarán dentro de los siguientes diez días hábiles. En caso de no haber comparecido todas las partes involucradas, se girarán las invitaciones necesarias a las partes complementarias.
 
 En caso de que el Facilitador determine que no procede la aplicación de la mediación o conciliación en el conflicto expuesto, dará por concluido el caso y lo informará a quien corresponda.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 17.
 
 Invitación
 
-La invitación a la contraparte la realizará el personal especializado del Centro al día siguiente de registrada la solicitud, por cualquier medio que asegure la transmisión correcta de la información, preferentemente de manera personal.
+La invitación a la parte complementaria la realizará el personal especializado del Centro, al día siguiente de registrada la solicitud, por cualquier medio que asegure la transmisión correcta de la información, preferentemente de manera personal.
 
-En la invitación se establecerá la fecha para que se presente ante el Centro la parte complementaria, a quien se le deberá informar el objetivo de los mecanismos alternativos para que esté en posibilidad de manifestar su intención de vincularse a alguno de éstos. En caso de que no se presente en la fecha señalada o de no recibir respuesta, el Facilitador o personal del Centro debidamente acreditado, se constituirá en el domicilio de la contraparte con el único fin de invitarla a asistir a la sesión. En caso de no encontrarla podrá dejar la invitación con la persona que en ese momento lo atienda, de no encontrarse persona alguna procederá a fijar la cédula en la entrada del domicilio.
+En la invitación se establecerá la fecha para que se presente ante el Centro la parte complementaria, a quien se le deberá informar el objetivo de los mecanismos alternativos para que esté en posibilidad de manifestar su intención de vincularse a alguno de éstos. La invitación deberá ser entregada, por personal del Centro debidamente acreditado, en el domicilio proporcionado por la parte solicitante. En caso de no encontrar a la parte complementaria, podrá dejar la invitación con la persona que en ese momento lo atienda, de no encontrarse persona alguna procederá a fijar la invitación en la entrada del domicilio.
 
-Asimismo, si no se localiza a la parte complementaria o ésta no atienda la invitación en más de tres ocasiones, tendrá como resultado la terminación del asunto y se hará saber a quien corresponda.
+De no ser posible localizar a la parte complementaria o ésta no atienda la invitación realizada, tendrá como resultado la terminación del asunto y se hará saber a quien corresponda.
 
 ###### Artículo 18.
 
@@ -235,7 +257,9 @@ I. Nombre y domicilio del invitado;
 
 II. Lugar y fecha de expedición;
 
-III. Número de expediente;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2017)</small>
+
+III. Número de solicitud o expediente;
 
 IV. Nombre de quien solicitó el servicio;
 
@@ -243,9 +267,17 @@ V. Motivo de la invitación;
 
 VI. Indicación de la fecha y hora y lugar de celebración de la sesión
 
-VII. Número de teléfono del Centro para que se comunique por cualquier situación y;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2017)</small>
 
-VIII. Nombre y firma del Facilitador que la elaboró.
+VII. Número de teléfono del Centro para que se comunique en caso de requerir información adicional;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2017)</small>
+
+VIII. Nombre y firma del Facilitador que la elaboró; y,
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2017)</small>
+
+IX. Apercibimiento a la parte complementaria de que de no asistir a la fecha y hora señalada, se entenderá que no es su voluntad someterse al mecanismo planteado.
 
 ###### Artículo 19.
 
@@ -253,9 +285,13 @@ Sesiones preliminares
 
 El Facilitador podrá tener, cuando las características del caso así lo requieran, sesiones privadas de carácter informativo o preparatorio con las partes por separado, con el objetivo de explicarles las características de los mecanismos alternativos y las reglas que deberán observarse durante la realización del mismo.
 
-Una vez que las partes estén de acuerdo en someter el conflicto a alguno de los mecanismos alternativos establecidos en este reglamento, se les informará el día y hora de la celebración de la sesión inicial conjunta, la cual deberá celebrarse dentro de los cinco días hábiles siguientes.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2017)</small>
 
-Este término podrá ampliarse a petición de las partes por cinco días hábiles más, sin dejar de considerar que uno de los objetivos de los mecanismos alternativos es atender la solución del conflicto en forma rápida y eficaz.
+Una vez celebrada la sesión preliminar con la parte complementaria y ésta manifieste estar de acuerdo en que su conflicto sea abordado a través de alguno de los mecanismos alternativos establecidos en este Reglamento, se le informará personalmente el día y hora de la celebración de la sesión inicial conjunta. La misma notificación se realizará para la parte solicitante.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2017)</small>
+
+La fecha previamente programada, podrá ser postergada a solicitud de las partes, hasta por cinco días hábiles más, sin que ello represente afectación al principio de celeridad.
 
 ###### Artículo 20.
 
@@ -311,25 +347,39 @@ Conclusión de los mecanismos alternativos
 
 La mediación y la conciliación se darán por concluidas cuando:
 
-I. Las partes lograron un acuerdo que resuelve total o parcialmente el conflicto;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2017)</small>
+
+I. Las partes lograron un convenio que resuelve total o parcialmente la controversia;
 
 II. Por voluntad de alguno de los intervinientes;
 
-III. Cuando las partes no logren ningún acuerdo;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2017)</small>
 
-IV. Por inasistencia injustificada de alguna o ambas partes por más de dos ocasiones;
+III. Cuando las partes no logren ningún convenio para solucionar la controversia;
 
-V. Alguna de las partes se niega a suscribir el acuerdo que contenga la solución parcial o total del conflicto;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2017)</small>
+
+IV. Por inasistencia injustificada de alguna o ambas partes;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2017)</small>
+
+V. Alguna de las partes se niega a suscribir el convenio que contenga la solución parcial o total del conflicto;
 
 VI. Alguna de las partes incurra en un comportamiento irrespetuoso o agresivo o con intención notoriamente dilatoria del procedimiento;
 
 VII. Por fallecimiento de alguna de las partes;
 
-VIII. Cuando una vez celebradas diversas sesiones, el Facilitador constate que las partes mantienen posiciones irreductibles que impiden continuar con el procedimiento y se aprecie que no se arribará a un resultado que resuelva el conflicto, y;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2017)</small>
+
+VIII. Cuando una vez celebradas diversas sesiones, el Facilitador constate que las partes mantienen posiciones irreductibles que impiden continuar con el procedimiento y se aprecie que no se arribará a un resultado que resuelva la controversia, y;
 
 IX. Por incumplimiento del acuerdo entre las partes.
 
 Terminada la mediación y/o conciliación en alguna etapa de procedimiento, no impide se acuda nuevamente a este medio de solución de controversias, si las circunstancias son favorables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE AGOSTO DE 2017)</small>
+
+El que hubiera concluido de manera anticipada la mediación y/o conciliación en cualquier etapa del procedimiento, no limita a los intervinientes para poder iniciar nuevamente estos mecanismos, de presentarse condiciones favorables para ello.
 
 ###### Artículo 25.
 
@@ -339,11 +389,17 @@ Si en el desarrollo de la sesión, el Facilitador estima fundadamente que el asu
 
 De tratarse de un asunto derivado por alguna autoridad, el Centro o el Facilitador respectivo, en su caso, rendirá un informe sobre los resultados del procedimiento, para los efectos legales que correspondan.
 
-### CAPÍTULO CUARTO. Del convenio
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE AGOSTO DE 2017)</small>
+
+### CAPÍTULO CUARTO. Del convenio, sus efectos, cumplimiento y seguimiento
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 26.
 
-Convenio
+Del Convenio
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 18 DE AGOSTO DE 2017)</small>
 
 El convenio al que lleguen las partes se hará constar por escrito y contendrá los siguientes requisitos:
 
@@ -361,31 +417,43 @@ VI. Los efectos del incumplimiento del convenio, y;
 
 VII. La firma del Facilitador que haya intervenido en el mecanismo alternativo, así como la del director y el sello del Centro;
 
-A cada una de las partes se entregará un original del convenio, debiendo dejar copia para constancia.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2017)</small>
 
-El convenio se elaborará por triplicado, entregándose un ejemplar a cada una de las partes, conservándose un ejemplar en el expediente relativo, el cual se mantendrá en los archivos correspondientes.
+El convenio se elaborará por cuadruplicado, entregándose un ejemplar a cada una de las partes, conservándose un ejemplar en el expediente relativo, el cual se mantendrá en los archivos del Centro y uno más para que sea remitido por parte del Centro al órgano jurisdiccional competente, para que sea elevado a categoría de cosa juzgada.
 
-Cuando exista causa pendiente, suspendida por efecto de la aplicación de algún mecanismo alternativo, también se enviará un ejemplar al órgano jurisdiccional correspondiente.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2017)</small>
 
-Si no se llega al convenio, se levantará acta dejando constancia de lo actuado, en la cual se establecerán los motivos por los cuales no fue posible, si el caso es por derivación, el Facilitador deberá informar de inmediato al órgano jurisdiccional el motivo de la conclusión del mecanismo.
+Si no se llega al convenio, se levantará acta dejando constancia de lo actuado, en la cual se establecerán los motivos por los cuales no fue posible. Si el expediente se inició por derivación, o en algún momento fue notificado al órgano jurisdiccional competente el sometimiento al mecanismo, solicitando la suspensión del proceso jurisdiccional, el Facilitador deberá informar de inmediato al órgano jurisdiccional la conclusión del mecanismo, para que se continúe con el proceso jurisdiccional
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 27.
 
-Efectos del convenio
+De los efectos y alcances del convenio
 
-Las partes que en términos de este reglamento solucionen su controversia de naturaleza familiar, a través de cualquiera de los mecanismos alternativos previsto en el artículo 9, deberán solicitar al Juez que conoce la controversia o al Juez de Primera Instancia competente, que apruebe el convenio que celebraron y lo eleve a sentencia ejecutoriada, de conformidad con el artículo 18 fracción V, del Código de Procedimientos Familiares, para que surta los efectos de cosa juzgada respecto de las partes.
+Las partes que en términos de este Reglamento solucionen su controversia de naturaleza familiar, a través de cualquiera de los mecanismos alternativos previsto (sic) en el artículo 9, deberán solicitar al Juez que conoce la controversia o al Juez de Primera Instancia competente, que apruebe el convenio que celebraron y lo eleve a sentencia ejecutoriada, de conformidad con el artículo 18 fracción V, del Código de Procedimientos Familiares del Estado de Sinaloa, para que surta los efectos de cosa juzgada respecto de las partes.
 
-El Juez examinará si el acuerdo se apega a Derecho y si está acreditado el interés jurídico de las partes. En caso de que sea procedente lo aprobará y lo elevará a categoría de sentencia ejecutoriada. No podrá aprobar parcialmente el acuerdo, sólo será procedente su autorización total; si el Juez no aprueba el convenio en virtud de que no cumpla los requisitos que se mencionan, lo informará a las partes para que decidan si continúan con el procedimiento jurisdiccional o bien acuden al Centro a modificar el acuerdo.
+El Juez examinará si el acuerdo se apega a Derecho y si está acreditado el interés jurídico de las partes. En su caso, dará vista a la Procuraduría de Protección de los Derechos de las Niñas, Niños y Adolescentes y al Ministerio Público, para la intervención que legalmente les corresponda. En caso de que sea procedente, el Juez aprobará el acuerdo y lo elevará a la categoría de sentencia ejecutoriada. No podrá aprobar parcialmente el acuerdo, sólo será procedente su autorización total; si el Juez no aprueba el convenio en virtud de que no cumpla los requisitos que se mencionan, lo informará a las partes para que decidan si continúan con el procedimiento jurisdiccional o bien acuden al Centro a modificar el acuerdo.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 28.
 
-Incumplimiento del acuerdo
+Del incumplimiento del convenio
 
-Si alguna de las partes incumple con las obligaciones que contrajo en el acuerdo aprobado judicialmente, procederá la vía de apremio y serán aplicables las reglas para la ejecución de sentencias previstas en el Código de Procedimientos Familiares del Estado de Sinaloa.
+Si alguna de las partes incumple con las obligaciones que contrajo en el convenio aprobado judicialmente, procederá la vía de apremio y serán aplicables las reglas para la ejecución de sentencias previstas en el Código de Procedimientos Familiares del Estado de Sinaloa.
 
-En caso de que las partes muestren interés de cumplir el convenio, pero con algunas modificaciones, el juez lo informará al Facilitador, el cual los podrá citar a una sesión de revisión del acuerdo, en esta se abordarán los motivos que lo han producido y, en su caso podrán modificar el acuerdo si las partes así lo deciden y les resulta satisfactorio.
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2017)</small>
 
-Si las partes deciden no cumplir con el acuerdo o el Facilitador se percata que se torna imposible, se procederá a informar al órgano jurisdiccional que remitió el caso o bien, si se trata de asistencia de las partes previa a iniciar un procedimiento judicial, les reiterará la salvedad de sus derechos para continuar por esa vía.
+###### Artículo 28 Bis.
+
+De la revisión del convenio
+
+En caso de que las partes muestren interés de cumplir el convenio, pero que éste requiera modificaciones, las partes podrán elegir si lo informan al Juez que conozca del caso y realizar las modificaciones ante él, o bien podrán comparecer directamente al Centro para que se realice una sesión de revisión del convenio, conforme lo señalado en el artículo 29 Bis de este Reglamento.
+
+En esta sesión se abordarán las condiciones que motivan las modificaciones, a fin de evitar un incumplimiento futuro o reiterado, correspondiendo al Facilitador acompañar a las partes en el proceso, a fin de que se realicen los cambios necesarios.
+
+Una vez realizadas las modificaciones correspondientes, se remitirá el nuevo convenio al órgano jurisdiccional competente, a fin de que lo sancione, conforme el artículo 27 de este Reglamento.
 
 ###### Artículo 29.
 
@@ -393,15 +461,59 @@ Normas de aplicación supletoria
 
 En lo conducente, a la falta de regulación suficiente en el presente reglamento, son de aplicación supletoria las normas relativas a la legislación familiar y civil del Estado.
 
-### CAPÍTULO QUINTO. Del Centro de Mecanismos Alternativos de Solución de Controversias en Materia Familiar del Poder Judicial del Estado de Sinaloa
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2017)</small>
+
+###### Artículo 29 Bis.
+
+Del seguimiento de los convenios
+
+El Centro llevará a cabo el seguimiento y monitoreo de los convenios celebrados en éste, procurando el cumplimiento de los acuerdos tomados, procediendo a la toma de nota de los incumplimientos en que incurran las partes.
+
+El seguimiento deberá llevarse a cabo de manera periódica por cualquiera de las siguientes formas:
+
+I. Llamadas telefónicas;
+
+II. Envío de correos electrónicos, a través de medios oficiales;
+
+III. Cualquier otra medida necesaria, para el cumplimiento de los convenios, siempre que éstas no signifiquen apercibimiento que comprometan la voluntad de las partes.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2017)</small>
+
+Artículo 29 Bis A. De las sesiones de revisión
+
+Las sesiones de revisión podrán ser agendadas a petición de las partes o por determinación del Director, derivado de un incumplimiento de las obligaciones contraídas en el convenio como resultado de las actividades de seguimiento.
+
+Estas sesiones serán llevadas a cabo, preferentemente, con el Facilitador ante quien se realizó el convenio, sin demérito de que se pueda llevar a cabo la revisión por cualquier otro Facilitador.
+
+El Facilitador y las partes revisarán la justificación de los motivos por los que se ha producido el incumplimiento y, en su caso, propondrán hacer las modificaciones que consideren necesarias con el objetivo de que el convenio pueda ser cumplido de acuerdo a las nuevas condiciones de las partes
+
+Es obligación del Facilitador asegurarse, cuando en el convenio estén comprometidos derechos de personas menores de edad, que en las modificaciones realizadas por las partes no se afecten los derechos de aquellos.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2017)</small>
+
+Artículo 29 Bis B. De la incomparecencia a las sesiones de revisión
+
+La asistencia a las sesiones de revisión está sujeta a la voluntariedad de las partes; si alguna de éstas no desea asistir se notificará a la otra, reiterándose la salvedad de sus derechos de ejercer las acciones legales correspondientes.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2017)</small>
+
+Artículo 29 Bis C. De los controles del seguimiento de convenios
+
+El Centro contará con los controles necesarios para registrar la información derivada del seguimiento, o por comunicación de las partes, respecto de cumplimiento o incumplimiento de los convenios. De igual forma, se asentarán las causas que imposibiliten, en su caso, el seguimiento y comunicación para con las partes.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE AGOSTO DE 2017)</small>
+
+### CAPÍTULO QUINTO. De los Centros de Mecanismos Alternativos de Solución de Controversias en Materia Familiar del Poder Judicial del Estado de Sinaloa
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 30.
 
-Del Centro
+De los Centros
 
-Los mecanismos alternativos previstos en este reglamento estarán a cargo del Centro de Mecanismos Alternativos de Solución de Controversias en Materia Familiar del Poder Judicial del Estado de Sinaloa, el cual contará con un director, los Facilitadores que sean necesarios y el personal administrativo que presupuestalmente sea asignado.
+Los mecanismos alternativos previstos en este Reglamento estarán a cargo de los Centros, los cuales contarán con un Director, los Facilitadores que sean necesarios y el personal administrativo que presupuestalmente sea asignado.
 
-El Pleno del Supremo Tribunal de Justicia, de conformidad con sus atribuciones, designará al director del Centro, a los Facilitadores y al demás personal administrativo que considere necesario.
+El Pleno del Supremo Tribunal de Justicia, de conformidad con sus atribuciones, nombrará al Director del Centro, a los Facilitadores y al demás personal administrativo que considere necesario.
 
 ###### Artículo 31.
 
@@ -445,7 +557,9 @@ XI. Las demás que le sean conferidas por el Presidente o el Pleno del Supremo T
 
 Organización interna del Centro
 
-Al frente del Centro habrá un Director, quien será nombrado y removido libremente por el Pleno del Supremo Tribunal de Justicia del Estado.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2017)</small>
+
+Cada Centro estará a cargo de un Director, quien será nombrado y removido libremente por el Pleno del Supremo Tribunal de Justicia del Estado, contando además con los Facilitadores y demás personal administrativo que determine el Pleno, según el presupuesto lo permita; y operará conforme lo establecido en este Reglamento y en los Manuales de la materia.
 
 Durante el desempeño de su cargo, tanto el Director como los servidores públicos adscritos al Centro no podrán desempeñar otro empleo o cargo de la Federación, el Estado, Municipio o particular, salvo los cargos de docencia y los honoríficos en asociaciones científicas, literarias o de beneficencia. Tampoco podrán ser corredores o notarios públicos, comisionistas, apoderados jurídicos, tutores, curadores, administradores, ni ejercer la abogacía, sino en causa propia, de su cónyuge, ascendientes o descendientes siempre y cuando el negocio tenga carácter ocasional y obtengan la autorización correspondiente.
 
@@ -696,3 +810,17 @@ Magistrado Presidente del Supremo Tribunal de Justicia del Estado de Sinaloa
 APOLONIA GALINDO PEÑA
 
 Secretaria de Acuerdos
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DE LOS CENTROS DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS EN MATERIA FAMILIAR DEL PODER JUDICIAL DEL ESTADO DE SINALOA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente acuerdo entrará en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese en el Periódico Oficial "El Estado de Sinaloa".
