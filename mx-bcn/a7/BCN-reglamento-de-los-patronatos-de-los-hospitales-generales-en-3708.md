@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-los-patronatos-de-los-hospitales-generales-en-370
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-11-30"
-last_updated: "1988-11-30"
+last_updated: "2017-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3708&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # REGLAMENTO DE LOS PATRONATOS DE LOS HOSPITALES GENERALES EN EL ESTADO
 
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO PRIMERO DEL REGLAMENTO DE PATRONATOS PARA HOSPITALES PÚBLICOS DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 18 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LOS PATRONATOS DE LOS HOSPITALES GENERALES EN EL ESTADO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el miércoles 30 de noviembre de 1988.
 
@@ -196,3 +198,19 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 LIC. HUGO FELIX GARCIA.
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE PATRONATOS PARA HOSPITALES PÚBLICOS DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Se abroga el Reglamento de los Patronatos de los Hospitales Generales en el Estado, publicado en el Periódico Oficial del Estado de fecha 30 de noviembre de 1988.
+
+SEGUNDO.- El presente Reglamento entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+TERCERO.- El Instituto de Servicios de Salud Pública del Estado, tendrá un plazo de 60 días, contados a partir de la entrada en vigor de este Reglamento, para efectuar la elección de los integrantes del Patronato Estatal.
+
+CUARTO.- Los integrantes del Patronato Estatal referidos en el artículo 4 inciso a) del presente Reglamento, una vez designados por el Director General, constituirán una persona moral bajo la figura legal de asociación civil en cuyos Estatutos deberán observarse e insertarse las disposiciones de este Reglamento relativas a integración, objeto, funcionamiento y obligaciones establecidas en el presente instrumento.
+
+QUINTO.- Los patronatos que actualmente operan en los Hospitales Públicos a cargo del ISESALUD gozarán de un plazo de 90 días naturales, a partir de la entrada en vigor del presente Reglamento, para ajustar sus Estatutos a las disposiciones que se establecen en el mismo en materia de Patronatos Auxiliares.
