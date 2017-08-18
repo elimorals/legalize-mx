@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-escalafon-de-los-trabajadores-de-base-del-102788"
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-08-08"
-last_updated: "2014-08-08"
+last_updated: "2017-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DE ESCALAFÓN DE LOS TRABAJADORES DE BASE DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2017.
 
 Reglamento publicado en la Sección V del Número 40 del Periódico Oficial del Estado de Baja California, el viernes 8 de agosto de 2014.
 
@@ -167,13 +167,17 @@ I. Con voz y voto:
 
 a) Por el Poder Ejecutivo: Dos representantes designados por el titular de la Oficialía Mayor de Gobierno.
 
-b) Por el Sindicato: Dos representantes designados por el Secretario General Estatal del Sindicato.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2017)</small>
+
+b) Por el Sindicato: Dos representantes designados por los Secretarios Generales de las dos secciones con mayoría de membresía en el Poder Ejecutivo.
 
 c) Un árbitro, con voto solo en caso de empate.
 
 II. Con voz pero sin voto:
 
-a) Un Secretario Técnico, que será el titular de la Dirección Administrativa de la Oficialía Mayor de Gobierno.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2017)</small>
+
+a) Un Secretario Técnico, que será nombrado por el titular de la Oficialía Mayor de Gobierno.
 
 b) Cuando así lo estime conveniente la Comisión, el titular de la Dependencia de adscripción.
 
@@ -656,3 +660,11 @@ GOBERNADOR DEL ESTADO
 FRANCISCO RUEDA GOMEZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE AGOSTO DE 2017.
+
+[N. DE. E. TRANSITORIO DEL “DECRETO DEL EJECUTIVO MEDIANTE EL CUAL SE REFORMA EL INCISO B) DE LA FRACCIÓN I DEL ARTÍCULO 12 DEL REGLAMENTO DE ESCALAFÓN DE LOS TRABAJADORES DE BASE DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
