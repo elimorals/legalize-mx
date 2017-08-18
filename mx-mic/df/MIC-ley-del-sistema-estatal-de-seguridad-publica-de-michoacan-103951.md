@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-sistema-estatal-de-seguridad-publica-de-michoacan-10395
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-11"
-last_updated: "2015-04-10"
+last_updated: "2017-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MIC"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE ABRIL DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2017.
 
 Ley publicada en la Décima Segunda Sección del Periódico Oficial del Estado de Michoacán, el jueves 11 de diciembre de 2014.
 
@@ -1061,9 +1059,17 @@ I. Coordinar, dirigir y administrar los sistemas de video vigilancia, radiocomun
 
 II. Implementar las acciones necesarias para mantener la operatividad y funcionalidad del sistema de comunicación abierta a la población durante las veinticuatro horas del día para recibir llamadas de emergencia, quejas y denuncias relacionadas con el servicio de seguridad pública y protección civil, coadyuvando a su promoción;
 
-III. Coordinar y supervisar la atención a la ciudadanía por medio del sistema de llamadas de emergencia y denuncia anónima las veinticuatro horas del día, así como la canalización de las mismas para su atención a las diferentes corporaciones de seguridad pública y protección civil en el Estado;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2017)</small>
 
-IV. Establecer los medios necesarios para la promoción del buen uso del sistema de llamadas de emergencia;
+III. Coordinar y supervisar la atención a la ciudadanía por medio del sistema de llamadas de emergencia y denuncia anónima las veinticuatro horas del día, así como la canalización de las mismas para su atención a las diferentes corporaciones de seguridad pública y protección civil en el Estado.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2017)</small>
+
+Al recibir una llamada para denunciar o alertar respecto de una emergencia o acto o hecho delictivo, se deberá advertir, que dicha llamada será grabada, monitoreada y geo referenciada; y podrá ser utilizada como prueba;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2017)</small>
+
+IV. Establecer los medios necesarios para la promoción del buen uso del sistema de llamadas de emergencia o denuncia, estableciendo los mecanismos técnicos para la identificación del emisor de acuerdo a la ley;
 
 V. Dar seguimiento analítico a la información que ingresa a la Coordinación a través del sistema de llamadas de emergencia y de llamadas de denuncia anónima;
 
@@ -1369,7 +1375,7 @@ I. Las Instituciones Policiales, las que para el mejor cumplimiento de sus objet
 
 a) Prevención, que será la encargada de prevenir la comisión de delitos e infracciones administrativas, realizar las acciones de inspección, vigilancia y vialidad en su circunscripción;
 
-b) Investigación, que será la .encargada de investigar a través de sistemas homologados de recolección, clasificación, registro, análisis, evaluación y explotación de información;
+b) Investigación, que será la encargada de investigar a través de sistemas homologados de recolección, clasificación, registro, análisis, evaluación y explotación de información;
 
 c) Reacción, que será la encargada de garantizar, mantener y restablecer el orden y la paz pública;
 
@@ -2170,3 +2176,11 @@ ATENTAMENTE.- «SUFRAGIO EFECTIVO. NO REELECCIÓN».-PRESIDENTE DE LA MESA DIREC
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 10 diez días del mes de diciembre del año 2014 dos mil catorce.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO, DR. SALVADOR JARA GUERRERO.- EL SECRETARIO DE GOBIERNO, MTRO. JAIME DARÍO OSEGUERA MÉNDEZ. (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 391.- PRIMERO. SE MODIFICA LA DENOMINACIÓN DEL CAPÍTULO II DEL TÍTULO VIGÉSIMO PRIMERO Y SE REFORMAN LOS ARTÍCULOS 291 Y 292 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN; SEGUNDO. SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN III Y SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 80 DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
