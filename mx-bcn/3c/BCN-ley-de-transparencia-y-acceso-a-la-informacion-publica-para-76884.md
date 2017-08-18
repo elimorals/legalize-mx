@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-768
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-01"
-last_updated: "2016-07-22"
+last_updated: "2017-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 18 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2017 (DEROGADO).
 
 Ley publicada en la Sección II al Periódico Oficial del Estado de Baja California, el viernes 1 de octubre de 2010.
 
@@ -1234,3 +1236,27 @@ P.O. 22 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 531 MEDIANTE EL CUAL SE REFORMA AL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA".]
 
 UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 18 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. 105 MEDIANTE EL CUAL SE APRUEBA LA LEY DE PROTECCIÓN EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California, publicada en el Periódico Oficial No. 42, de fecha 01 de octubre de 2010, que continuaban vigentes conforme al artículo transitorio octavo del Decreto mediante el cual, fue expedida la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California, publicada en el Periódico Oficial No. 21, de fecha 29 de abril de 2016.
+
+###### ARTÍCULO TERCERO.
+
+Los sujetos obligados deben ajustar su normatividad a la presente Ley dentro de los noventa días posteriores a su entrada en vigor.
+
+###### ARTÍCULO CUARTO.
+
+Los sujetos obligados en la presente Ley, deberán de establecer en el presupuesto de Egresos del ejercicio presupuestal inmediato siguiente a la publicación de la presente Ley, las necesidades presupuestales respectivas para dar cumplimiento a cabalidad a las atribuciones y obligaciones previstas en la misma.
+
+###### ARTÍCULO QUINTO.
+
+Los procedimientos y recursos en materia de protección de datos personales en posesión de sujetos obligados, que se encuentren pendientes de resolver al momento de la entrada en vigor de esta Ley se substanciarán y concluirán de conformidad con la normatividad que estaba vigente al momento de su inicio.
