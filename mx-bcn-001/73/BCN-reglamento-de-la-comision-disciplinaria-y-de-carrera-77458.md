@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-comision-disciplinaria-y-de-carrera-77458"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-11-19"
-last_updated: "2017-04-21"
+last_updated: "2017-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 ---
 # REGLAMENTO DE LA COMISION DISCIPLINARIA Y DE CARRERA POLICIAL DE LA DIRECCION DE SEGURIDAD PUBLICA MUNICIPAL DE ENSENADA, BAJA CALIFORNIA --ANTES REGLAMENTO DE LA COMISION DISCIPLINARIA Y DE CARRERA POLICIAL DE LA SECRETARIA DE SEGURIDAD PUBLICA MUNICIPAL DE ENSENADA, BAJA CALIFORNIA --
 
-REGLAMENTO DE LA COMISIÓN DISCIPLINARIA Y DE CARRERA DE LA DIRECCIÓN DE SEGURIDAD PÚBLICA MUNICIPAL DE ENSENADA, BAJA CALIFORNIA
+REGLAMENTO DE LA COMISIÓN DISCIPLINARIA Y DE CARRERA POLICIAL DE LA DIRECCIÓN DE SEGURIDAD PÚBLICA MUNICIPAL DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 19 de noviembre de 2010.
 
@@ -53,9 +53,9 @@ EL SECRETARIO FEDATARIO DEL XIX AYUNTAMIENTO DE ENSENADA
 
 LIC. MARIO ALBERTO GARCIA SALAIZA
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MAYO DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE AGOSTO DE 2017)</small>
 
-REGLAMENTO DE LA COMISIÓN DISCIPLINARIA Y DE CARRERA DE LA DIRECCIÓN DE SEGURIDAD PÚBLICA MUNICIPAL DE ENSENADA, BAJA CALIFORNIA
+REGLAMENTO DE LA COMISIÓN DISCIPLINARIA Y DE CARRERA POLICIAL DE LA DIRECCIÓN DE SEGURIDAD PÚBLICA MUNICIPAL DE ENSENADA, BAJA CALIFORNIA
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
@@ -635,11 +635,35 @@ II.- El subdirector Administrativo, de la dirección.
 
 III.- El Regidor Coordinador de la Comisión de Hacienda y Patrimonio Municipal
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2017)</small>
 
 ###### ARTÍCULO 31.
 
-Los integrantes de la Comisión podrán designar por escrito a un suplente con funciones de propietario para que cubra sus ausencias temporales.
+En caso de ausencia de alguno de los integrantes de la Comisión, estos serán suplidos temporalmente con funciones de propietario de la siguiente manera;
+
+I.- El Director de Seguridad Pública designará a uno de sus subdirectores y en caso de que este no exista, este será suplido por el inferior jerárquico.
+
+II.- El Secretario técnico de la comisión, será suplido por alguno de los asesores jurídicos integrantes del Departamento del que es responsable, o por alguno de sus superiores jerárquicos.
+
+III.- El titular de la Sindicatura Municipal, será suplido por el Director de Sindicatura Municipal.
+
+IV.- El Regidor Presidente de la Comisión de Seguridad, Tránsito y Transporte, será suplido por el Secretario de esa misma comisión. En caso de no encontrarse, sólo se podrá designar para su suplencia, a otro integrante de la Comisión de Seguridad, Tránsito y Transporte.
+
+V.- El Representante titular de las unidades operativas de investigación, prevención y reacción de la Dirección de Seguridad Pública Municipal, será suplido por el miembro perteneciente a dicha unidad que designe.
+
+VI.- El representante titular de las Asociaciones de Policías podrá designar a un miembro perteneciente a la asociación que representa.
+
+VII.- El Presidente del Comité Ciudadano de Seguridad Pública de Ensenada Baja California o cualquier otro miembro del Comité que este designe.
+
+Tratándose de los Funcionarios que se integran a la comisión en términos del artículo 30 estas serán suplidas de la siguiente manera:
+
+a) El Subdirector de Profesionalización y Desarrollo de la Dirección podrá ser suplido por su inferior jerárquico inmediato.
+
+b) El Subdirector Administrativo de la Dirección podrá ser suplido por su inferior jerárquico inmediato.
+
+c) El Regidor Presidente de la Comisión de Hacienda y Patrimonio Municipal será suplido por el Secretario de esa misma comisión. En caso de no encontrarse, sólo se podrá designar para su suplencia a otro integrante de la Comisión de Hacienda y Patrimonio Municipal.
+
+Sólo serán válidas las designaciones que cumplan con los supuestos anteriormente enlistados deberán realizarse por escrito, incluyendo el tiempo de tal duración del encargo y la firma del integrante de la Comisión Disciplinaria y de Carrera Policial de la Dirección de Seguridad Pública del municipio de Ensenada a suplir.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
@@ -681,9 +705,9 @@ Cuando alguno de los integrantes de la Comisión, se excuse o sea recusado por a
 
 Son atribuciones de la Comisión las siguientes:
 
-I.- Conocer y resolver toda controversia que se suscite con relación a los procedimientos del servicio profesional de carrera policial de los miembros, así como validar y otorgar a los miembros las condecoraciones, estímulos y promociones, conforme a lo establecido en el reglamento respectivo. II.- Dictar el acuerdo sobre el inicio de los procedimientos de separación definitiva y de responsabilidad administrativa. (sic)
+I.- Conocer y resolver toda controversia que se suscite con relación a los procedimientos del servicio profesional de carrera policial de los miembros, así como validar y otorgar a los miembros las condecoraciones, estímulos y promociones, conforme a lo establecido en el reglamento respectivo. II.- Dictar el acuerdo sobre el inicio de los procedimientos de separación definitiva y de responsabilidad administrativa.
 
-III (SIC).- Resolver sobre la suspensión preventiva del miembro al inicio del procedimiento o en su caso, confirmar o revocar la decretada por la Contraloría Interna;
+III.- Resolver sobre la suspensión preventiva del miembro al inicio del procedimiento o en su caso, confirmar o revocar la decretada por la Contraloría Interna;
 
 IV.- Resolver los procedimientos de separación definitiva y de responsabilidad administrativa; aprobando, revocando o modificando en su caso, los proyectos de resolución que se le presenten; así como resolver los recursos de revocación que les sean presentados.
 
@@ -933,7 +957,7 @@ ALBERTO GARCIA SALAIZA
 
 Secretario Fedatario del XIX Ayuntamiento de Ensenada, B.C.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 26 DE DICIEMBRE DE 2014.
 
@@ -960,3 +984,9 @@ P.O. 21 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 29 Y 30, DEL REGLAMENTO DE LA COMISIÓN DISCIPLINARIA Y DE CARRERA POLICIAL DE LA DIRECCIÓN DE SEGURIDAD PÚBLICA MUNICIPAL DE ENSENADA, BAJA CALIFORNIA, RELATIVO DICTAMEN 005/2017”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
+
+P.O. 18 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA DICTAMEN 012/2017, RELATIVO A LA REFORMA DEL ARTÍCULO 31 DEL REGLAMENTO DE LA COMISIÓN DISCIPLINARIA Y DE CARRERA POLICIAL DE LA DIRECCIÓN DE SEGURIDAD PÚBLICA MUNICIPAL DE ENSENADA, BAJA CALIFORNIA”.]
+
+ÚNICO.- la presente reforma entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Baja California y/o Gaceta Municipal.
