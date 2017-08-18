@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-instituto-municipal-de-cultura-y-desarrollo-6072
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-11"
-last_updated: "2016-10-21"
+last_updated: "2017-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DEL INSTITUTO MUNICIPAL DE CULTURA Y DESARROLLO HUMANO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 11 de abril de 2008.
 
@@ -217,51 +217,45 @@ II.- La Dirección;
 
 III.- El Comisario.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 10.
 
 El Consejo del Instituto es el órgano jerárquicamente superior en la estructura del Instituto y estará integrado de la siguiente manera:
 
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2011)</small>
-
-I. Con voz y voto:
+I. Con voz y voto
 
 a. Presidente Municipal o quien el designe;
 
-b. Los Regidores integrantes de la Comisión de Educación, Cultura, Ciencia y Tecnología;
+b. El (sic) Regidores Integrantes de la Comisión de Educación, Cultura, Ciencia y Tecnología;
 
 c. El Director General del Instituto;
 
-d. Un representante del Subcomité de Cultura del COPLADEM;
+d. Un representante del subcomité de Cultura del COPLADEM;
 
 e. Cuatro representantes ciudadanos, con al menos uno que pertenezca a alguna etnia indígena, uno a la comunidad de personas con discapacidad, y uno que represente a la comunidad artística.
 
-f. Un representante de la Asociación de Periodistas de Ensenada, A.C.
+f. Un representante de la Asociación de Periodistas de Ensenada, A.C
 
 g. Un representante del Seminario de Historia de Baja California, A.C.
 
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2011)</small>
-
 II. Con voz:
 
-a. Cuatro representantes del Ayuntamiento nombrados por el Presidente Municipal que se desempeñen en deporte, educación, asistencia social y salud;
+a. Cuatro Representantes del Ayuntamiento nombrados por el Presidente Municipal, que se desempeñen en deporte, educación, asistencia social y salud;
 
-b. Un representante del Instituto de Cultura de Baja California;
+b. Un Representante de Instituto de Cultura de Baja California;
 
-c. Un representante del Sistema Educativo Estatal;
+c. Un Representante de Sistema Educativo Estatal;
 
-d. Un representante del Instituto Nacional de Antropología e Historia;
+d. Un Representante de Instituto Nacional de Antropología e Historia;
 
-e. Un representante de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas;
+e. Un Representante de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas;
 
-f. Un representante de la Universidad Autónoma de Baja California;
+f. Un Representante de Universidad Autónoma de Baja California;
 
-g. El Cronista oficial.
+g. El Cronista oficial
 
-Los integrantes a que se refiere el presente artículo, deberán contar con su respectivo suplente, mismo que será nombrado junto con el propietario.
-
-Los integrantes del Consejo serán honorarios, por lo que no recibirán retribución económica alguna por sus actividades dentro del mismo.
-
-El director del instituto fungirá como Secretario del Consejo.
+h. Director de Proturismo de Ensenada
 
 > <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2011)</small>
 
@@ -1112,3 +1106,9 @@ P.O. 21 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA REFORMAR EL ARTÍCULO 27 DEL REGLAMENTO DEL INSTITUTO MUNICIPAL DE CULTURA Y DESARROLLO HUMANO DE ENSENADA, BAJA CALIFORNIA, RELATIVO A DICTAMEN 030/2016".]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
+
+P.O. 18 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA DICTAMEN 001/2017, RELATIVO A LA REFORMA AL ARTÍCULO 10 DEL REGLAMENTO DEL INSTITUTO MUNICIPAL DE CULTURA Y DESARROLLO HUMANO DE ENSENADA, BAJA CALIFORNIA; ASÍ MISMO LA REFORMA AL ARTÍCULO 7 DEL ACUERDO DE CREACIÓN DEL INSTITUTO MUNICIPAL DE CULTURA Y DESARROLLO HUMANO DE ENSENADA, BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Baja California y/o Gaceta Municipal.
