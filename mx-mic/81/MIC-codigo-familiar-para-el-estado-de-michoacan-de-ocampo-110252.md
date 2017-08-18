@@ -4,7 +4,7 @@ identifier: "MIC-codigo-familiar-para-el-estado-de-michoacan-de-ocampo-110252"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-09-30"
-last_updated: "2017-04-12"
+last_updated: "2017-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2017.
 
 Código publicado en la Décima Cuarta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 30 de septiembre de 2015.
 
@@ -763,13 +763,33 @@ IV. Para ajustar el nombre y apellidos, así como la fecha de nacimiento a la re
 
 V. Cuando el nombre asentado sea peyorativo, discriminatorio, infamante, denigrante o carente de significado.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 117.
 
-Pueden pedir el levantamiento de una nueva acta de nacimiento por reasignación de concordancia sexo-genérica, previa anotación correspondiente en su acta de nacimiento primigenia, las personas que requieran el reconocimiento de su identidad de género; el acta primigenia quedará reservada, sin que se publique o expida constancia alguna de la misma, salvo mandamiento judicial o petición ministerial.
+Podrá solicitarse el registro y la expedición de su consecuente acta en el caso del reconocimiento de cambio de identidad de género. Se deberá además hacer la anotación correspondiente en el acta primigenia.
 
-Se entenderá por identidad de género, la convicción personal de pertenecer a uno distinto al sexo original.
+El reconocimiento respectivo se llevará a cabo ante las instancias y las autoridades correspondientes del Registro Civil del Estado de Michoacán.
 
-Lo (sic) derechos y obligaciones contraídas con anterioridad a la reasignación para la concordancia sexo-genérica no se modifican ni extinguen con la nueva identidad jurídica de la persona.
+En ningún caso será requisito acreditar intervención quirúrgica alguna, terapias u otro diagnóstico o procedimiento para el reconocimiento de la identidad de género.
+
+Los efectos de la nueva acta de nacimiento para identidad de género realizados, bajo ninguna circunstancia serán oponibles por terceros desde su registro.
+
+Para realizar el levantamiento de una nueva acta de nacimiento para el reconocimiento de identidad de género, el solicitante deberá presentar los siguientes documentos:
+
+I. Formato expedido por el Registro Civil, debidamente completado;
+
+II. Copia certificada del acta de nacimiento primigenia para efecto de que se haga la reserva correspondiente;
+
+III. Credencial para votar en original para cotejo y copia simple; y,
+
+IV. Comprobante de domicilio.
+
+Los derechos y obligaciones contraídas (sic) con anterioridad al proceso administrativo para el reconocimiento de identidad de género y a la expedición de la nueva acta, no se modificarán ni se extinguen con la nueva identidad jurídica de la persona; incluidos los provenientes de las relaciones propias del derecho de familia en todos sus órdenes y grados, los que se mantendrán sin modificación.
+
+El acta de nacimiento primigenia quedará reservada, no se publicará y solo se expedirá, a petición del registrado, de la investigación del delito o por disposición judicial.
+
+Cumplido el trámite, se enviarán los oficios con la información en calidad de reservada a la Secretaría de Gobernación, Secretaría de Hacienda y Crédito Público, Secretaría de Educación Pública, Secretaría de Salud, Secretaría de Relaciones Exteriores, Instituto Nacional Electoral, Procuraduría General de la República, Centro Nacional de Información del Sistema Nacional, al Consejo de la Judicatura Federal y al Supremo Tribunal de Justicia del Estado; además quedan vinculadas todas las autoridades para los efectos legales a que haya lugar.
 
 ###### Artículo 118.
 
@@ -7546,5 +7566,11 @@ Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamient
 P.O. 12 DE ABRIL DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 348 POR EL QUE “SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 464, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 18 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 390 POR EL QUE “SE REFORMA EL ARTÍCULO 117 DEL CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
