@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-instituto-municipal-de-cultura-y-desarrollo-6072
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-11"
-last_updated: "2016-10-21"
+last_updated: "2017-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,1098 +21,592 @@ state: "BCN"
 ---
 # REGLAMENTO DEL INSTITUTO MUNICIPAL DE CULTURA Y DESARROLLO HUMANO DE ENSENADA, BAJA CALIFORNIA
 
-REGLAMENTO DEL INSTITUTO MUNICIPAL DE CULTURA Y DESARROLLO HUMANO DE ENSENADA, BAJA CALIFORNIA
+LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE QUERÉTARO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
+TEXTO ORIGINAL
 
-Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 11 de abril de 2008.
+Ley publicada en el Periódico Oficial "La Sombra de Arteaga", el 2 de enero de 1986.
 
-EL C. LIC. JULIO CESAR ARENAS RUIZ, SECRETARIO FEDATARIO QUE AUTORIZA Y DA FE, CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTICULOS 115 FRACCION II DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS; 81 DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA; ARTICULO 5 DE LA LEY DEL REGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA Y ARTICULO 66, FRACCION IX Y X DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA; BAJA CALIFORNIA; HACE CONSTAR Y CERTIFICA, QUE EN SESION EXTRAORDINARIA, CELEBRADA EL DIA 26 DE OCTUBRE DEL AÑO 2007, SE TOMO EL SIGUIENTE:
+"LIC. MARIANO PALACIOS ALCOCER, Gobernador Constitucional del Estado Libre y Soberano de Querétaro Arteaga, a los habitantes del mismo, sabed que:
 
-ACUERDO
+LA CUADRAGESIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUERETARO ARTEAGA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 63 DE LA CONTITUCION POLITICA LOCAL...ha tenido a bien expedir la siguiente:
 
-Se aprobó en lo general por unanimidad de votos de los munícipes presentes del XVIII Ayuntamiento Constitucional de Ensenada, Baja California, y en lo particular el C. Regidor, Gilberto Flores Muñóz, su voto es en contra, respecto al nombramiento del Director, el Dictamen No, 02/07, presentado por las Comisiones Conjuntas de Educación, Cultura y Deporte y la de Gobernación y Legislación, integradas por los CC. Regidores, Profa. Adela Lozano López, Biol. Rocío López Gorosave, C. P. Ricardo Lomelí Sedano, Quím. Ernesto Pedrín Márquez, Ocean. Gilberto Flores Muñóz, Lic. Orlando A. Toscano Montaño, Lic. Alfonso Talavera Hernandez, Quím. Arnoldo Carlos García Guerrero y C.P. Héctor Luna Serrano; relativo al Proyecto de ACUERDO DE CREACIÓN Y de REGLAMENTO DEL INSTITUTO MUNICIPAL DE CULTURA Y DESARROLLO HUMANO DE ENSENADA.
+LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DE QUERETARO
 
-Lo anterior de conformidad con la siguiente Fundamentación, antecedentes, Considerandos y Puntos Resolutivos: FUNDAMENTACION.
+### CAPITULO I. ATRIBUTOS
 
-Con fundamento en el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, artículos 76, 77 y 81 de la Constitución Política del Estado Libre y Soberano de Baja California, articulo 3 y 23 de la Ley del Régimen Municipal para el Estado de Baja California, articulo 94 del Reglamento de la Administración Publica para el Municipio de Ensenada.
+###### ARTICULO 1o.
 
-Norman el procedimiento para el presente Dictamen los artículos 1, 10, 11 fracción I, 12, 67, 70, 73, 114 fracción (sic) I y IX, 115 fracción I, 123 fracción I, 132, 133, 134 y demás relativos y aplicables del Reglamento Interior para el Ayuntamiento de Ensenada, Baja California, vigente a la fecha, ANTECEDENTES.-
+La Universidad Autónoma de Querétaro es un organismo público descentralizado del Estado, dotado de autonomía, personalidad jurídica y patrimonio propio.
 
-Es por todo lo anterior que después de haber analizado y discutido ampliamente cada uno de los artículos que integran la base sobre la que habrá de trabajar en su momento el INSTITUTO DE CULTURA Y DESARROLLO HUMANO DE ENSENADA, se determina bajo los siguientes: PUNTOS RESOLUTIVOS.-
+La Autonomía implica la facultad y responsabilidad de gobernarse a sí misma, bajo los principios de libertad de cátedra, libertad de investigación, libertad de difusión de la cultura y libertad para prestar servicio social a la comunidad.
 
-PRIMERO.- Se aprueba el Acuerdo de Creación del instituto Municipal de Cultura y Desarrollo Humano de Ensenada.
+###### ARTICULO 2o.
 
-SEGUNDO.- Se aprueba el Reglamento del instituto Municipal de Cultura y Desarrollo Humano de Ensenada.
+El patrimonio de la Universidad Autónoma de Querétaro estará constituido por:
 
-TERCERO.- Publíquese en el Periódico Oficial del Estado, para los efectos legales a que haya lugar.
+I. Los bienes de su propiedad;
 
-Dado en la Sala Emmer del área de Regidores del XVIII Ayuntamiento Municipal de Ensenada, Baja California a los 26 días del mes de Octubre del 2007.
+II. Los ingresos que obtenga por los servicios que preste;
 
-La votación fue la siguiente: Catorce votos a favor, correspondientes al Síndico Procurador, Isaac Chapluk Pabloff y a los CC. Regidores, Ernesto Pedrín Márquez, Ricardo Lomelí Sedano, Miguel Angel Zazueta Ochoa, Adela Lozano López, Georgina Posada Aparicio, María Nélida Pelayo Ponce, Jesús Salvador Abarca Macklis, Arnoldo Carlos García Guerrero, Armando Reyes Ledezma, Máximo Rivas Valencia, Gilberto Flores Muñóz, Orlando Toscano Montaño y al Presidente Municipal, César Mancillas Amador. Una ausencia justificada del Regidor, José Felipe Romero Guzmán.
+III. Los legados y donaciones que se le otorguen así como los fideicomisos y derechos que se constituyan en su favor;
 
-Se extiende la presente Certificación para los usos legales a que haya lugar, el día veintisiete de Noviembre de 2007, en la ciudad de Ensenada, Baja California, México.
+IV. Las Contribuciones especiales que en su beneficio establezcan las leyes;
 
-El Secretario Fedatario del XVIII Ayuntamiento de Ensenada, B. C.
+V. Los subsidios Federales, Estatales y Municipales;
 
-LIC. JULIO CESAR ARENAS RUIZ
+VI. Los demás bienes o ingresos que por cualquier título legal adquiera.
 
-REGLAMENTO DEL INSTITUTO MUNICIPAL DE CULTURA Y DESARROLLO HUMANO DE ENSENADA
+###### ARTICULO 3o.
 
-## Título Primero
+Los bienes e ingresos de la Universidad Autónoma de Querétaro no estarán sujetos a pago de contribuciones estatales o municipales. Tampoco serán gravados los actos y contratos en que intervenga si las contribuciones respectivas quedan a su cargo por disposiciones legales.
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
+###### ARTICULO 4o.
 
-### Capítulo Primero.
+Los inmuebles que forman parte del patrimonio universitario será inalienables e imprescriptibles y sobre ellos no podrá constituirse gravamen alguno.
 
-Disposiciones Generales.
+Los inmuebles que a juicio del Consejo Universitario ya no sean utilizables para el servicio de la Universidad, serán enajenables por acuerdo de éste.
 
-###### Artículo 1.
+###### ARTICULO 5o.
 
-El presente reglamento es de orden público e interés social, de observancia general en el territorio del Municipio de Ensenada, B.C., y tiene por objeto establecer el funcionamiento del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada.
+La Universidad realizará la administración de su patrimonio encaminándola a la consecución de sus fines.
 
-###### Artículo 2.
+### CAPITULO II. OBJETO Y FACULTADES
 
-El Instituto Municipal de Cultura y Desarrollo Humano de Ensenada es un organismo descentralizado de la Administración Pública Municipal, con personalidad jurídica y patrimonio propio.
+###### ARTICULO 6o.
 
-###### Artículo 3.
+La Universidad Autónoma de Querétaro tendrá por objeto:
 
-Para la aplicación del presente reglamento serán autoridades responsables:
+I. Impartir, con validez oficial, Educación Técnica, media superior, superior de licenciatura, especialización, maestría y doctorado y cursos de actualización, en sus modalidades escolar y extraescolar, procurando que la formación de profesionales corresponda a las necesidades de la sociedad.
 
-I. El H. Ayuntamiento de Ensenada;
+II. Organizar y desarrollar actividades de Investigación humanística y científica, atendiendo primordialmente a los problemas estatales, regionales y nacionales y en relación con las condiciones del desenvolvimiento científico e histórico;
 
-II. El Consejo del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada;
+III. Preservar y difundir la cultura;
 
-III. El Director del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada, y
+IV. Prestar servicios a la comunidad de acuerdo con sus posibilidades;
 
-IV. El Comisario del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada.
+V. Actuar como agente de cambio y promotor social a través de sus tareas sustantivas.
 
-###### Artículo 4.
+###### ARTICULO 7o.
 
-Para los efectos de interpretación del presente Reglamento se entenderá por:
+Para realizar sus objetivos, la Universidad se organizará académicamente en Areas Académicas del Conocimiento y tendrá facultades para:
 
-I. Municipio: El Municipio de Ensenada, Baja California;
+I. Administrarse, de acuerdo con este ordenamiento, en la forma que el Consejo Universitario determine.
 
-II. Instituto: El Instituto Municipal de Cultura y Desarrollo Humano de Ensenada;
+II. Planear y programar la enseñanza que imparta así como sus actividades de investigación y de difusión cultural conforme con los principios de libertad de cátedra y de investigación.
 
-III. Ayuntamiento: El H. Ayuntamiento Constitucional de Ensenada, B.C.;
+III. Expedir certificados de estudios, diplomas y títulos de los grados académicos y especialidades que se cursen en sus planteles;
 
-IV. Consejo: El Consejo del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada;
+IV. Revalidar y establecer equivalencias de estudios del mismo tipo educativo, realizados en otras instituciones;
 
-V. Comisario: El comisario del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada;
+V. Incorporar estudios y otorgar reconocimiento de válidez oficial, para fines académicos, a los estudios realizados en planteles que impartan el mismo tipo de enseñanza o retirar dicho reconocimiento cuando no cumplan con los requisitos mínimos que la Universidad establece para sus propios planteles.
 
-VI. Mayoría Simple: Es aquella que corresponde a más de la mitad de los integrantes del Consejo que se encuentren presentes en una Sesión;
+### CAPITULO III. ORGANOS DE LA UNIVERSIDAD
 
-VII. Mayoría Calificada: Es aquella que corresponde a cuando menos las dos terceras partes de los integrantes del Consejo, elevando en su caso las fracciones al número entero.
+###### ARTICULO 8o.
 
-### Capítulo II.
+Son órganos de la Universidad:
 
-Del Instituto.
+I. El Consejo Universitario;
 
-###### Artículo 5.
+II. El Rector;
 
-El Instituto Municipal de Cultura y Desarrollo Humano de Ensenada, tiene por objeto: establecer, coordinar y actualizar la política cultural del municipio en base a una estrategia concertada socialmente y con proyección de largo alcance para la inclusión en el plan Municipal de Desarrollo, así mismo apoya (sic), encauzar y promover la cultura entre la ciudadanía en general, unificando criterios para su promoción, agrupando a los organismos y asociaciones involucradas en la promoción cultural, la creación de oferta cultural y la capacitación artística; ofreciendo espacios y programas culturales para uso y disfrute de la ciudadanía, y creando la estructura social necesaria para el desarrollo cultural integral de los habitantes de Ensenada en el ámbito social e individual, en la zona urbana y principalmente en las cabeceras de las regiones del municipio.
+III. Los Consejos Técnicos de las Areas del Conocimiento;
 
-###### Artículo 6.
+IV. Los Consejos Académicos de las facultades, Escuelas, Planteles e Institutos;
 
-El patrimonio del Instituto se integra por:
+V. Los Coordinadores de las Areas Académicas del Conocimiento;
 
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2011)</small>
+VI. Los Directores de Facultades, Escuelas e Institutos;
 
-I. Las partidas presupuestales que le correspondan del Presupuesto de Egresos del Municipio, que le garanticen su operatividad y el cumplimiento de sus atribuciones, funciones y programas;
+VII. Los Coordinadores de Planteles, y
 
-II. Los activos, bienes muebles e inmuebles que posee actualmente y los que por cualquier título adquiera para la consecución de sus fines, o con motivo de las actividades propias de su objeto;
+VIII. Los demás que sean creados por la legislación Universitaria.
 
-III. Las aportaciones, transferencias, donaciones, legados, herencias y subsidios que hagan en su favor las instituciones u organismos federales, estatales, municipales, privados o no gubernamentales, así como por particulares;
+### CAPITULO IV. CONSEJO UNIVERSITARIO
 
-IV. Los ingresos que obtenga por las actividades que desarrolle en cumplimiento de su objeto, y
+###### ARTICULO 9o.
 
-V. Los rendimientos y demás ingresos que obtenga por la inversión de los recursos a que se refieren las fracciones anteriores.
+El Consejo Universitario es la máxima autoridad de la Universidad.
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
+###### ARTICULO 10o.
 
-###### Artículo 7.
+El Consejo Universitario deberá estar integrado por:
 
-Dependerán del Instituto, como entes incorporados en su estructura administrativa y normativa, los siguientes:
+I. El Rector, quien será su Presidente, con sólo voto de calidad.
 
-I. La Casa de la Cultura;
+II. El Secretario Académico, quien fungirá como Secretario del Consejo, sin voto y con voz informativa;
 
-II. Las Bibliotecas Públicas Municipales;
+III. Los Directores de las Facultades, Escuelas e Institutos;
 
-III. El Archivo Histórico de Ensenada; y
+IV. Un Consejero Catedrático por cada Facultad, Escuela e Instituto;
 
-IV. La Hemeroteca Pública "Francisco Vargas Bañaga".
+V. Dos Consejeros Alumnos por cada una de las Facultades, Escuelas e Institutos;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2011)</small>
+VI. Un Representante del Gobierno del Estado, designado por el Gobernador;
 
-###### Artículo 8.
+VII. Los Coordinadores de las Areas Académicas del Conocimiento, con voz;
 
-Para la prestación de los servicios de promoción cultural y artística a la comunidad, el Instituto ejerce las siguientes atribuciones:
+VIII. El Presidente de la Federación Estudiantil Universitaria de Querétaro, con voz;
 
-l.- Garantizar sin discriminación a todos los ciudadanos el acceso equitativo que asegure el pleno disfrute de todos los bienes y servicios culturales que se oferten en el municipio;
+IX. Un Representante del Sindicato Unico del personal Académico de la Universidad Autónoma de Querétaro, con voz;
 
-II.- Promover y difundir las diversas manifestaciones culturales en la comunidad ensenadense;
+X. Un Representante del Sindicato de Trabajadores y Empleados de la Universidad Autónoma de Querétaro, con voz.
 
-III.- Apoyar, por diversos medios, la creación artística de manera integral en todas las disciplinas consideradas como bellas artes;
+Los planteles estarán Representados por los Consejeros de la Facultad, Escuela o Instituto a que estén adscritos.
 
-IV.- Apoyar, preservar y difundir las expresiones de la cultura popular e indígena y las tradiciones culturales mexicanas;
+###### ARTICULO 11o.
 
-V.- Administrar, dirigir, coordinar y conservar los espacios culturales del Municipio y los acervos documentales, bibliográficos, audiovisuales y artísticos;
+Los Consejeros Catedráticos y Alumnos serán electos por un año y podrán ser reelectos por una sola vez.
 
-VI.- Diseñar y emitir convocatorias públicas para concursos en todas las manifestaciones culturales y artísticas, con el fin de promover la participación cultural;
+###### ARTICULO 12o.
 
-VII.- Organizar y participar en: festivales, encuentros y muestras culturales a nivel regional, nacional e internacional, que estimulen la participación y la creación cultural y artística de todos aquellos interesados en cultivar las expresiones del espíritu humano;
+El Consejo Universitario tiene las siguientes facultades:
 
-VIII.- Mantener un sistema de capacitación cultural y artística, por medio de talleres, cursos y seminarios en los espacios que sean designados para ello, como la Casa de la Cultura, la Galería de Arte de la Ciudad, las bibliotecas públicas Municipales, y otros que se vayan incorporando a la infraestructura cultural del municipio, tales como programas de profesionalización y especialización;
+I. Expedir el Estatuto Orgánico y las demás normas reglamentarias de esta Ley;
 
-IX.- Crear y promover la apertura y la continuidad en el funcionamiento de espacios culturales en el municipio;
+II. Crear, modificar o suprimir facultades, Escuelas, Planteles o Institutos, Secretarías, Direcciones, Centros, Departamentos, títulos y grados universitarios y ubicar los estudios dentro de las áreas académicas del conocimiento.
 
-X.- Apoyar a las personas o grupos interesados en el desarrollo cultural y artístico, actuando como interlocutor ante los diferentes organismos de la sociedad civil, los tres órdenes de gobierno e instituciones nacionales e internacionales;
+III. Aprobar los planes y programas de estudio e investigación propuestos por las dependencias académicas competentes;
 
-XI.- Promover la defensa y la conservación del patrimonio cultural tangible e intangible del municipio, coordinando esfuerzos con el Comité Municipal de Preservación del Patrimonio Cultural de Ensenada;
+IV. Nombrar al Rector, removerlo por causa grave, conocer de su renuncia y de sus licencias; y designar al Rector sustituto, interino o provisional, en los términos de la legislación universitaria;
 
-XII.- Conservar e Incrementar la memoria histórica del municipio por medio de documentos, acervo fotográfico, audiovisual y otros medios de registro iconográfico;
+V. Designar a los Directores de las Facultades, Escuelas e Institutos de la terna que por conducto del Rector presente el Consejo Académico respectivo y conocer de sus licencias y renuncias o removerlos por causa grave en los términos de la legislación universitaria;
 
-XIII.- Difundir el conocimiento de la historia local por medio de diversas acciones y actividades;
+VI. Ratificar o no el nombramiento de Coordinador de Plantel que haga el Rector de la terna que el Consejo Académico correspondiente le presente.
 
-XIV.- Contribuir a la oferta de servicios bibliotecarios en el municipio, incrementando acervos, incorporando tecnología informativa y mejorando los espacios de servicio, entre otros;
+VII. Nombrar un Comité de Planeación presidido por el Rector e integrado por los Secretarios, Coordinadores de las Areas Académicas del Conocimiento, Directores de Areas, Escuelas, Facultades, Institutos, Coordinadores de Plantel y dirigentes estudiantiles, cuya función sea formular o adecuar el Plan de Desarrollo de la Universidad;
 
-XV.- Realizar labores editoriales de manera directa o a través de terceros que conduzcan a un adecuado registro de la cultura impresa o electrónica de las obras que abarquen todos los géneros literarios;
+VIII. Emitir acuerdos en materia de incorporación y revalidación de estudios;
 
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2011)</small>
+IX. Estudiar y sancionar el presupuesto general anual de ingresos y egresos;
 
-XVI. Aprovechar los medios masivos de comunicación para fines de difusión cultural, generando también sus propios medios impresos y electrónicos, boletines, revistas, programas de radio y televisión, a través de convenios con empresas e instituciones públicas o privadas que permitan desarrollar proyectos viables en materia de difusión masiva de la cultura y artes;
+X. Hacer cumplir la legislación universitaria aplicando las sanciones por violación a la misma;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2011)</small>
+XI. Conferir los grados honoríficos y designar profesores eméritos;
 
-XVII. Elaborar el Plan de Desarrollo Cultural de Ensenada;
+XII. Autorizar exámenes profesionales y ceremonias de titulación;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2011)</small>
+XIII. Conocer de los informes mensual y anual del Rector;
 
-XVIII. Coadyuvar con las dependencias y organismos de la administración pública municipal a efecto de que formulen y lleven a cabo sus actividades culturales en forma coherente con el Plan de Desarrollo Cultural de Ensenada;
+XIV. Designar comisiones en los asuntos de competencia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2011)</small>
+XV. Conocer y resolver conflictos que se presenten entre los órganos de la Universidad;
 
-XIX. Establecer mecanismos de comunicación, coordinación y concertación con dependencias y organismos públicos y privados que realicen actividades de carácter cultural;
+XVI. Conocer y resolver cualquier asunto cuya competencia no corresponda a otras autoridades universitarias;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2011)</small>
+XVII. Las demás que le otorgue la Legislación Universitaria.
 
-XX. Promover un proceso integral y participativo que propicie el conocimiento y fortalecimiento de la identidad ensenadense;
+###### ARTICULO 13o.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2011)</small>
+El Consejo Universitario celebrará sesiones mensuales ordinarias el día que señale el rector, dentro de los últimos diez días hábiles de cada mes; y extraordinarias si un mínimo del veinte por ciento de sus miembros lo solicitan o cuando el Rector lo convoque.
 
-XXI. Las demás que le señalen las leyes, reglamentos y demás ordenamientos legales aplicables.
+###### ARTICULO 14o.
 
-### Capítulo III.
+El Consejo Universitario sesionará legalmente en forma ordinaria, si están presentes las dos terceras partes de sus miembros con derecho a voto; en caso de segunda convocatoria, cualquiera que sea el número de los asistentes.
 
-De los órganos rectores del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada.
+###### ARTICULO 15o.
 
-###### Artículo 9.
+Los acuerdos del Consejo Universitario serán tomados con la aprobación del cincuenta por ciento más uno de los presentes, salvo las excepciones previstas en esta Ley.
 
-Los órganos rectores del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada son:
+###### ARTICULO 16o.
 
-I.- El Consejo del Instituto;
+En la elección, reelección, remoción, renuncia o ausencia del Rector, el Consejo Universitario sólo sesionará legalmente si se reunen las tres cuartas partes del total de sus miembros con derecho a voto y la decisión será tomada por el voto aprobatorio de las dos terceras partes. Si no se reune esta cantidad de votos se convocará nuevamente a Sesión, con intervalo no mayor de ocho días. Si tampoco se reune el número de votos aprobatorios requeridos, se convocará nuevamente a una tercera sesión, y así sucesivamente.
 
-II.- La Dirección;
+### CAPITULO V. DEL RECTOR
 
-III.- El Comisario.
+###### ARTICULO 17o.
 
-###### Artículo 10.
+El Rector es autoridad universitaria, Presidente del Consejo Universitario, Representante Legal y Administrador General de la Universidad.
 
-El Consejo del Instituto es el órgano jerárquicamente superior en la estructura del Instituto y estará integrado de la siguiente manera:
+###### ARTICULO 18o.
 
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2011)</small>
+Son facultades y obligaciones del Titular de la Rectoría:
 
-I. Con voz y voto:
+I. Convocar al Consejo Universitario y presidir sus sesiones;
 
-a. Presidente Municipal o quien el designe;
+II. Emitir voto de calidad en caso de empate en las decisiones del Consejo Universitario, excepto en caso de elección y reelección del Rector;
 
-b. Los Regidores integrantes de la Comisión de Educación, Cultura, Ciencia y Tecnología;
+III. Ejecutar y velar por el cumplimiento de los acuerdos del Consejo Universitario;
 
-c. El Director General del Instituto;
+IV. Presentar al Consejo Universitario la terna para elección de Director, propuesta por los Consejos Académicos de las facultades, Escuelas e Institutos;
 
-d. Un representante del Subcomité de Cultura del COPLADEM;
+V. Designar Coordinador de Plantel de la terna que le proponga el Consejo Académico correspondiente y someterlo a ratificación del Consejo Universitario;
 
-e. Cuatro representantes ciudadanos, con al menos uno que pertenezca a alguna etnia indígena, uno a la comunidad de personas con discapacidad, y uno que represente a la comunidad artística.
+VI. Rendir al Consejo Universitario, por escrito, un informe anual de labores;
 
-f. Un representante de la Asociación de Periodistas de Ensenada, A.C.
+VII. Presidir cuando lo estime necesario, los Consejos Académicos de cualquier facultad, Escuela, Plantel o Instituto, así como las Comisiones designadas por el Consejo Universitario;
 
-g. Un representante del Seminario de Historia de Baja California, A.C.
+VIII. Expedir conjuntamente con el Secretario Académico, los diplomas, certificados de estudios y títulos otorgados por la Universidad;
 
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2011)</small>
+IX. Autorizar, conjuntamente con el Secretario de Finanzas, los pagos que deba hacer la Universidad;
 
-II. Con voz:
+X. Designar a los Secretarios, Coordinadores de las Areas Académicas del conocimiento, Directores de Area, Coordinadores de Centros y Departamentos, y demás personal cuya designación o nombramiento no sea facultad de otro órgano universitario;
 
-a. Cuatro representantes del Ayuntamiento nombrados por el Presidente Municipal que se desempeñen en deporte, educación, asistencia social y salud;
+XI. Designar a los Directores o Coordinadores provisionales de las Facultades, Escuelas, Planteles o Institutos, en caso de que los respectivos titulares tengan licencia;
 
-b. Un representante del Instituto de Cultura de Baja California;
+XII. Otorgar, delegar, sustituir y revocar Poderes generales y especiales, limitados e ilimitados, para actos de Administración, Pleitos y Cobranzas. Delegar Poder Especial para representar a la Universidad Autónoma de Querétaro en audiencias laborales que requieran de la presencia personal del patrón. Para el caso de otorgar poderes para actos de dominio respecto a inmuebles, requerirá el acuerdo expreso el Consejo Universitario;
 
-c. Un representante del Sistema Educativo Estatal;
+XIII. Respetar y hacer cumplir la legislación universitaria;
 
-d. Un representante del Instituto Nacional de Antropología e Historia;
+XIV. Las demás que señale la Legislación Universitaria.
 
-e. Un representante de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas;
+###### ARTICULO 19o.
 
-f. Un representante de la Universidad Autónoma de Baja California;
+El Rector será electo por un Periodo de tres años y podrá ser reelecto una sola vez.
 
-g. El Cronista oficial.
+###### ARTICULO 20o.
 
-Los integrantes a que se refiere el presente artículo, deberán contar con su respectivo suplente, mismo que será nombrado junto con el propietario.
+En caso de ausencia que no exceda de sesenta días, el Rector será sustituido por el Secretario Académico de la Universidad. Si la ausencia fuere mayor, el Consejo Universitario designará al Rector Provisional.
 
-Los integrantes del Consejo serán honorarios, por lo que no recibirán retribución económica alguna por sus actividades dentro del mismo.
+###### ARTICULO 21o.
 
-El director del instituto fungirá como Secretario del Consejo.
+Para ser Rector de la Universidad Autónoma de Querétaro se requiere:
 
-> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2011)</small>
+I. Ser mexicano por nacimiento;
 
-###### Artículo 10 Bis.
+II. Ser mayor de 30 años y menor de 60 en la fecha de la elección;
 
-El Consejo podrá autorizar la incorporación de más integrantes con voz, cuando a su juicio sea necesario para el mejor desempeño de sus funciones.
+III. Poseer título universitario legalmente expedido;
 
-###### Artículo 11.
+IV. Haber sido Catedrático de la Universidad, cuando menos los tres últimos años anteriores a su elección;
 
-El Consejo tendrá las siguientes facultades:
+V. No desempeñar, a la fecha de la elección, algún puesto público, el cual tampoco podrá aceptar ni desempeñar durante su cargo;
 
-I. (DEROGADA, P.O. 26 DE AGOSTO DE 2011)
+VI. No ser Ministro de algún culto;
 
-II. (DEROGADA, P.O. 26 DE AGOSTO DE 2011)
+VII. Ser destacado profesionista y de reconocida honorabilidad.
 
-III. Crear y reformar el reglamento interior del Instituto;
+### CAPITULO VI. DEL CONSEJO TECNICO DE LAS AREAS ACADEMICAS DEL CONOCIMIENTO
 
-IV. Aprobar y vigilar el cumplimiento de los planes, programas y proyectos que se elaboren para cumplir los objetivos y fines del Instituto;
+###### ARTICULO 22o.
 
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2011)</small>
+Los Consejos Técnicos son órganos de carácter consultivo necesario en sus respectivas áreas académicas del conocimiento.
 
-V. Aprobar anualmente el anteproyecto de presupuesto de ingresos y del presupuesto de egresos del Instituto y someterlo a la consideración del Ayuntamiento para su aprobación;
+###### ARTICULO 23o.
 
-VI. La emisión de resoluciones respecto a los informes, dictámenes y recomendaciones del comisario;
+El Consejo Técnico de cada Area quedará integrado por:
 
-VII. Cuando proceda, la aprobación de los trámites conducentes para aceptar herencias, legados, donaciones y demás liberalidades;
+I. El Coordinador del Area, quien lo presidirá;
 
-VIII. El estudio y aprobación, en su caso, de los proyectos de inversión presentados por la Dirección del Instituto;
+II. Los Directores de Facultades, Escuelas e Institutos del Area;
 
-IX. Conocer de los convenios de coordinación y colaboración que hayan de celebrarse con dependencias o entidades públicas o privadas;
+III. Los Coordinadores de Plantel del Area;
 
-X. Celebrar sesiones ordinarias trimestrales y las extraordinarias que se requieran;
+IV. Los Directores de Investigación, Posgrado y docencia;
 
-XI. Aprobar, en su caso, los informes trimestrales de avances financieros y programáticos que presente el Director del Instituto;
+V. Los Coordinadores de Posgrado de las Facultades del Area;
 
-XII. Aprobar, en su caso, el informe anual que presente el Director sobre el estado que guarda la administración del Instituto y su situación patrimonial, y turnarlo al Ayuntamiento para su conocimiento;
+VI. Los Coordinadores de los Centros de Investigación del Area;
 
-XIII. Por conducto de su representante legal, turnar al Ejecutivo estatal y federal los acuerdos del Consejo que lo ameriten por su naturaleza e importancia, con apego a la ley;
+VII. Los Coordinadores o Jefes de Area correspondientes en los níveles: medio superior y medio terminal;
 
-XIV. Por conducto de su representante legal, turnar a Cabildo las propuestas que surjan del seno del Consejo, cuando las leyes o los reglamentos aplicables en la materia lo exijan y por su importancia, en mérito de las facultades de este cuerpo colegiado;
+VIII. Un Representante Estudiantil designado conjuntamente por todas las Sociedades de Alumnos que conforman el Area.
 
-XV. Proponer, por conducto de su representante legal, del gobierno municipal, estatal y federal las medidas necesarias para el cumplimiento de las funciones y objetivos del Instituto;
+###### ARTICULO 24o.
 
-XVI. Celebrar, por conducto de su representante legal, los acuerdos de coordinación con el sector público estatal y federal y con otros municipios, así como los sectores privados, sociales y organizaciones civiles, para complementar los fines del Instituto;
+Son funciones del Consejo Técnico del Area:
 
-XVII. Presentar anualmente al Ayuntamiento, informe sobre la aplicación de recursos públicos asignados, ingresos obtenidos, en su caso, así como resultados de gestión de conformidad a las metas trazadas en el programa operativo anual y el Plan Municipal de Desarrollo;
+I. Analizar en el aspecto técnico y proponer al Consejo Universitario para su aprobación, nuevas carreras, posgrados y proyectos de investigación, modificaciones a programas, planes de estudio y materias de licenciatura y posgrado del área.
 
-XVIII. Solicitar y en su casa contratar, estudios, opiniones y dictámenes que, deban realizarse por especialistas y técnicos de la materia de que se trate, cuando se considere que éstos son necesarios para la toma de decisiones, y el buen desempeño del Instituto;
+II. Establecer criterios de calidad en el aspecto técnico, para el análisis y aprobación de nuevas carreras, postgrados y proyectos de investigación;
 
-XIX. (DEROGADA, P.O. 26 DE AGOSTO DE 2011)
+III. Proponer criterios de calidad a los que deban sujetarse las publicaciones producidas por la misma Area;
 
-XX. Las demás que le fijen las leyes y reglamentos aplicables en la materia.
+IV. Proponer criterios de evaluación continua que requieran los docentes e investigadores del Area;
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
+V. Proponer acciones que tiendan a integrar y reforzar el Area, en sus aspectos interdisciplinarios e interinstitucionales;
 
-###### Artículo 12.
+VI. Asesorar a los Consejos de Docencia, Postgrado e Investigación, Consejo Editorial y Consejo Universitario;
 
-El titular de la Dirección del Instituto será nombrado por el Presidente Municipal.
+VII. Enviar sus acuerdos al Consejo Universitario, cuando requieran la aprobación de éste.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2011)</small>
+### CAPITULO VII. CONSEJOS ACADEMICOS
 
-###### Artículo 13.
+###### ARTICULO 25o.
 
-El Director General del Instituto deberá reunir los siguientes requisitos:
+Los Consejos Académicos son órganos de carácter consultivo de las Facultades, Escuelas, Planteles e Institutos a que correspondan.
 
-I. Ser ciudadano mexicano, de reconocida trayectoria por su relación con el ámbito cultural en la región, con conocimientos y sensibilidad en la materia;
+###### ARTICULO 26o.
 
-II. Presentar al Consejo del Instituto una propuesta general de trabajo y de política cultural para su período;
+En cada Facultad, Escuela, Plantel e Instituto habrá un Consejo Académico integrado por:
 
-III. Entregar documentación que acredite su trayectoria en el ámbito cultural.
+I. El Director o Coordinador, quien lo presidirá;
 
-###### Artículo 14.
+II. Un Consejero Catedrático y un Consejero Alumno por cada uno de los semestres o años Académicos, según el caso;
 
-Los integrantes a que se refiere el Artículo 10 de este reglamento en sus incisos e) de la fracción I y h) de la fracción II serán seleccionados por el Consejo, conforme a las bases de la convocatoria que para tal efecto emita el Presidente Municipal.
+III. Un Consejero Catedrático y un Consejero Alumno de los Estudios de Postgrado, en su caso.
 
-Los interesados en participar en la convocatoria deberán anexar a su solicitud el nombre de la persona que fungirá como su suplente para que asista en sus ausencias, acompañando de los mismos documentos que se le soliciten al propietario.
+###### ARTICULO 27o.
 
-Para el caso de que no acudan a la convocatoria emitida por el Ayuntamiento, el Consejo quedara instalado con las personas representantes del Ayuntamiento y aquellos nombrados como representantes de los organismos a que se refiere el Artículo 10. Durarán en su cargo tres años.
+Los Consejos Académicos de la Escuela de Bachilleres e Institutos se integrarán por:
 
-###### Artículo 15.
+I. El Director, quien será el Presidente;
 
-Los representantes a los que se refieren los incisos d) de la fracción I y c), d), e), f) y g) de la fracción II, todos del artículo 10 serán propuestos por escrito, por las instituciones respectivas.
+II. Seis Consejeros Catedráticos;
 
-Durarán en su encargo tres años, pudiendo ser removidos en cualquier momento por la Institución que lo haya propuesto, ocupando su lugar el suplente correspondiente.
+III. Seis Consejeros Alumnos.
 
-En el tiempo en que se renueve a los integrantes ciudadanos del Consejo, las instituciones deberán ratificar a su representante o, en su caso, nombrar a uno nuevo.
+###### ARTICULO 28o.
 
-###### Artículo 16.
+El Presidente de cada uno de los Consejos Académicos tendrá voto de calidad si existe empate, con excepción de las votaciones que se efectúen para la integración de las ternas en los casos de elección de Director o designación de Coordinador.
 
-La convocatoria para renovación de los representantes ciudadanos del Consejo, se emitirá cada tres años, de conformidad con las siguientes bases:
+###### ARTICULO 29o.
 
-Todos los aplicantes deberán cumplir con los siguientes requisitos:
+Para formar parte de la terna para la elección de Director o designación de Coordinador se requiere obtener el voto aprobatorio de las dos terceras partes del total de los miembros del Consejo Académico.
 
-I. Ser mexicano.
+###### ARTICULO 30o.
 
-II. Ser mayor de edad.
+Los Consejeros serán electos para un periodo anual y podrán ser reelectos por una sola vez.
 
-III. Cumplir con una residencia de 5 años en el Municipio.
+###### ARTICULO 31o.
 
-IV. Contar con experiencia mínima de cinco años en el ramo que pretendan representar.
+Cada Consejo Académico deberá reunirse por lo menos una vez al mes en sesión ordinaria, y extraordinariamente las veces que lo considere necesario su presidente.
 
-V. No haber tenido cargos de elección popular los tres años anteriores a su solicitud.
+###### ARTICULO 32o.
 
-VI. No tener cargos en partidos políticos.
+Compete a los Consejos Académicos:
 
-VII. No haber sido funcionario público cuando menos un año anterior a su solicitud.
+I. Analizar, formular y actualizar los planes y programas de estudios para someterlos a la consideración del Consejo Universitario;
 
-VIII. No haber sido condenado por delito alguno.
+II. Integrar las ternas para la elección de Director o designación de Coordinador;
 
-IX. Presentar una ponencia en materia de Cultura de máximo tres cuartillas.
+III. Dictar los acuerdos correspondientes a las solicitudes de revalidación de estudios y someterlos al Consejo Universitario;
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
+IV. Conocer y, en su caso, aprobar las solicitudes de titulación de los Pasantes, indicándoles el procedimiento respectivo;
 
-La convocatoria deberá ser lanzada dentro de los primeros tres meses de la instalación del Ayuntamiento de que se trate por el Presidente Municipal a través de la Secretaría General del Ayuntamiento, publicándose al menos en uno de los diarios de mayor circulación del Municipio.
+V. Proponer al Consejo Universitario las medidas que tiendan al mejoramiento de las actividades de la Facultad, Escuela, plantel o Instituto;
 
-La publicación se realizará en dos ocasiones con una distancia de tres días naturales entre cada una de ellas.
+VI. Ejercer las demás atribuciones que les confiera la Legislación Universitaria.
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
+### CAPITULO VIII. COORDINADORES DE LAS AREAS ACADEMICAS DEL CONOCIMIENTO
 
-Las solicitudes serán recibidas por la Secretaría General del Ayuntamiento y turnadas a la Comisión de Educación, Cultura, Ciencia y Tecnología para su dictamen y posterior aprobación por el Ayuntamiento.
+###### ARTICULO 33o.
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
+El Coordinador de cada Area Académica del conocimiento es el funcionario encargado de planear, organizar e integrar las actividades de su Area.
 
-El Ayuntamiento deberá comunicar su resolución dentro de los quince días hábiles posteriores a la fecha límite para la recepción de documentación.
+###### ARTICULO 34o.
 
-###### Artículo 17.
+Son funciones del Coordinador de Area:
 
-El Comisario del Instituto, será el Síndico Procurador Municipal o la persona que éste designe en su representación, del departamento de Auditoria de la Sindicatura.
+I. Presidir las reuniones de Area;
 
-## Título Segundo
+II. Ejecutar los acuerdos del Consejo Técnico del Area;
 
-### Capítulo I.
+III. Representar al Area en los Consejos de Docencia, Postgrado e investigación;
 
-De las atribuciones y facultades de los miembros del Consejo del Instituto.
+IV. Supervisar la ejecución de programas y proyectos;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, 26 DE AGOSTO DE 2011)</small>
+V. Dar trámite a la documentación del Area;
 
-###### Artículo 18.
+VI. Acordar, en lo Administrativo, con los Directores de Docencia, Postgrado e Investigación;
 
-Atribuciones del Presidente del Consejo del Instituto:
+VII. Proponer al Rector, previo acuerdo del Consejo Técnico, convenios con Entidades Gubernamentales, Instituciones de Educación y Empresas productivas;
 
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2011)</small>
+VIII. Las demás que le señale el Rector y la Legislación Universitaria.
 
-I. Convocar a reunión del Consejo, a través del Secretario del mismo por lo menos con 5 días de anticipación.
+### CAPITULO IX. DIRECTORES DE FACULTADES, ESCUELAS, INSTITUTOS Y COORDINADORES DE PLANTELES
 
-II. Someter a consideración del Consejo para su análisis los expedientes correspondientes a los asuntos planteados;
+###### ARTICULO 35o.
 
-III. Coordinar y dirigir las sesiones de Consejo;
+El Director de la Facultad, Escuela o Instituto o el Coordinador de Plantel, tienen las atribuciones y obligaciones siguientes:
 
-IV. Emitir su voto para la toma de decisiones del Consejo y, en caso de empate emitir su voto de calidad;
+I. Representar a la Facultad, Escuela, Plantel o Instituto;
 
-V. Vigilar el exacto cumplimiento del presente reglamento;
+II. Formar parte del Consejo Universitario, con voz y voto; de esta atribución quedan excluídos los Coordinadores de Plantel;
 
-VI. Las demás que determine el presente reglamento o apruebe el pleno del Consejo.
+III. Convocar y presidir al Consejo Académico;
 
-###### Artículo 19.
+IV. Vigilar el Desarrollo y cumplimiento de los planes y programas de estudio;
 
-Atribuciones del Secretario del Consejo del Instituto:
+V. Ejecutar y vigilar el cumplimiento de las disposiciones de los órganos universitarios;
 
-I. Convocar, por instrucción del presidente, a reunión del Consejo, con por lo menos 48 horas de anticipación;
+VI. Enviar al Consejo Universitario para su aprobación los acuerdos del Consejo Académico;
 
-II. Levantar el acta correspondiente de las sesiones ordinarias y extraordinarias;
+VII. Presentar al Rector los planes anuales o semestrales de superación académica, informándole periódicamente de su avance;
 
-III. Auxiliar al presidente en los asuntos de su competencia y someter los expedientes a consideración del Consejo;
+VIII. Respetar y hacer cumplir la Autonomía y la Legislación Universitaria;
 
-IV. Llevar para efectos de control, un archivo de los asuntos tratados y las resoluciones que se emitan;
+IX. Las demás que señale esta Ley y sus normas reglamentarias.
 
-V. Dar seguimiento a los acuerdos tomados;
+###### ARTICULO 36o.
 
-VI. Expresar el sentido de su voto en las sesiones a las que asista y en las comisiones que integre, y
+Para ser Director de Facultad, Escuela o Instituto, o Coordinador de Plantel, se requiere:
 
-VII. Suplir al presidente en caso de ausencia.
+I. Ser mexicano de nacimiento;
 
-###### Artículo 20.
+II. Ser mayor de 30 años y menor de 60 en la fecha de la elección;
 
-Atribuciones de los integrantes del Consejo del Instituto:
+III. Poseer título universitario legalmente expedido de acuerdo a la disciplina o disciplinas que se impartan en la Facultad, Escuela, Plantel o Instituto para la que sea electo; o poseer la capacidad o experiencia necesaria, a juicio del Consejo Universitario, cuando se trate de los Directores de los Institutos;
 
-I. Acudir puntualmente a las reuniones a que sean convocados;
+IV. Haber sido Catedrático de la Facultad, Escuela, Plantel o Instituto respectivo, durante los tres años inmediatos anteriores a su elección;
 
-II. Realizar la revisión y análisis de los asuntos sometidos a su consideración;
+V. No desempeñar, a la fecha de la elección, algún puesto público, que tampoco podrá aceptar ni desempeñar durante su cargo;
 
-III. Realizar las observaciones y revisiones necesarias y adecuadas, a las solicitudes que se planteen;
+VI. No ser Ministro de algún culto;
 
-IV. Expresar el sentido de su voto en las sesiones a las que asista y en las comisiones que integre, y
+VII. Ser de reconocida honorabilidad;
 
-V. Las demás que se deriven del presente reglamento.
+VIII. Ser destacado profesionista. Este requisito podrá dispensarlo el Consejo Universitario para el caso de los Institutos.
 
-###### Artículo 21.
+###### ARTICULO 37o.
 
-El Presidente del consejo contará con poder general, para pleitos, cobranzas y actos de administración, en los términos del artículo 2428 del Código Civil del Estado que, por acuerdo del Consejo podrá delegar al Director del Instituto.
+En caso de ausencias que no excedan de sesenta días, el Rector designará un Director o Coordinador provisional. En ausencias que excedan de dos meses, pero no de seis, el Consejo Universitario designará un Director o Coordinador Interino. En los casos de falta definitiva, renuncia o remoción, el Consejo Universitario nombrará Director o Coordinador Sustituto para que concluya el Periodo.
 
-###### Artículo 22.
+En el caso de falta definitiva, y en tanto el Consejo Universitario hace la elección o ratificación respectiva, el Rector nombrará un Director o Coordinador Provisional, según el caso.
 
-El Comisario tendrá la obligación de asistir a las sesiones del Consejo del Instituto, con derecho a voz pero sin voto, y gozará de las siguientes facultades:
+###### ARTICULO 38o.
 
-I.- Vigilar que la administración de los recursos y el funcionamiento del Instituto se haga en cumplimiento de las leyes, reglamentos, normas, programas y presupuestos vigentes;
+El Coordinador de Plantel será designado por el Rector de la terna que proponga el Consejo Académico correspondiente; designación que será sometida a la ratificación del Consejo Universitario.
 
-II.- Practicar auditorias de los estados financieros y de las prácticas y procedimientos administrativos;
+### CAPITULO X. PATRONATO UNIVERSITARIO
 
-III.- Recomendar al Consejo del Instituto y a la Dirección General las medidas correctivas que sean convenientes para el mejor funcionamiento del Instituto;
+###### ARTICULO 39o.
 
-IV.- Las demás que sean necesarias para el ejercicio de las anteriores.
+La Asociación Civil denominada "Patronato de la Universidad Autónoma de Querétaro, A. C.", tendrá duración indefinida.
 
-### Capítulo II.
+###### ARTICULO 40o.
 
-De las sesiones del Consejo del Instituto.
+Son objetivos del Patronato de la Universidad Autónoma de Querétaro, A. C.:
 
-###### Artículo 23.
+I. Incrementar el Patrimonio de la Universidad, según las necesidades de la misma;
 
-El Consejo del Instituto celebrará sesiones ordinarias una vez cada tres meses.
+II. Coadyuvar con la Universidad Autónoma de Querétaro en todas las actividades que tiendan a incrementar el patrimonio de la misma.
 
-###### Artículo 24.
+###### ARTICULO 41º
 
-(DEROGADO, P.O. 26 DE AGOSTO DE 2011)
+. El Patronato de la Universidad Autónoma de Querétaro, A.C., estará integrado por:
 
-###### Artículo 25.
+I. Los Asociados Estatutarios, quienes serán:
 
-El Consejo del Instituto podrá celebrar las sesiones extraordinarias que estime convenientes, y serán convocadas por el Presidente o al menos por la mitad más uno de los miembros que cuentan con voz y voto, con una anticipación de cinco días previos a la fecha de la sesión extraordinaria, sin incluir el día de la convocatoria.
+A) El Rector de la Universidad Autónoma de Querétaro;
 
-###### Artículo 26.
+B) El Presidente de la Federación Estudiantil de la Universidad Autónoma de Querétaro;
 
-La convocatoria para las sesiones ordinarias y extraordinarias del Consejo del Instituto deberá indicar los puntos del Orden del Día.
+C) Un Representante del Sindicato Unico del Personal Académico de la Universidad Autónoma de Querétaro;
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+D) Un Representante del Sindicato de Trabajadores y Empleados de la Universidad Autónoma de Querétaro;
 
-###### Artículo 27.
+E) Un Representante del Gobierno del Estado, con Título Universitario legalmente expedido, designado por el Gobernador;
 
-Las sesiones, para su validez, requerirán que estén presentes por lo menos la mitad más uno de sus miembros. Si de la hora señalada para el inicio de la sesión no se encuentran presentes integrantes en número suficiente para la declaración del quórum legal, se señalará hora para sesionar en segunda convocatoria a más tardar al siguiente día hábil, celebrando válidamente la sesión con los integrantes que concurran, debiendo estar obligatoriamente entre estos el Presidente del Consejo.
+F) Un Representante de las siguientes organizaciones:
 
-No se podrán celebrar sesiones en segunda convocatoria, cuando entre los asuntos a tratar se encuentren adecuaciones presupuestales y/o aprobación de informe de avance de gestión financiera y/o cierre presupuestal de cada ejercicio fiscal, y/o cualquier asunto relacionado con la cuenta pública, sin excepción alguna.
+Cámara Nacional de Comercio de Querétaro; Delegación de la Cámara Nacional de la Industria de la Transformación; Federación Estatal de la Pequeña Propiedad Agrícola; Unión Regional Ganadera del Estado de Querétaro; cada una de las Sociedades Nacionales de Crédito establecidas en el Estado; el Club de Leones de Querétaro; el Club Rotario de Querétaro; el Centro Empresarial; cada una de las Agrupaciones de Profesionistas Universitarios que funcionen en la Entidad, y la Asociación de Profesionistas egresados de la Universidad Autónoma de Querétaro, y
 
-###### Artículo 28.
+G) Las demás que soliciten su ingreso y sean admitidas.
 
-Las decisiones y acuerdos que tome el Consejo, deben ser aprobados por mayoría de votos.
+II. Los Asociados Patrocinadores:
 
-###### Artículo 29.
+Personas Físicas o morales que tengan interés en las funciones del Patronato, que paguen la cuota de ingreso y la anual que fije la Mesa Directiva y que sean aceptadas por la asamblea. En el caso de personas morales, deberán designar un Representante.
 
-En caso de empate en la votación, el Presidente del Consejo del Instituto tiene voto de calidad.
+III. Los Asociados Activos:
 
-###### Artículo 30.
+Son aquéllos que, dentro de los Asociados Patrocinadores sean seleccionados, en atención a sus méritos, por la Mesa Directiva.
 
-Las actas de las sesiones del Consejo, deberán ser suscritas por todos los asistentes.
+IV. Los Asociados Honorarios serán aquellas personas físicas que, a proposición de la Mesa Directiva de la Asociación, sean aceptados por la Asamblea con esta calidad debiendo tratarse de personas que, por sus méritos o por los servicios o ayuda que presten a la Asociación, se hagan acreedores a tal distinción.
 
-###### Artículo 31.
+Los Asociados honorarios no tendrán, para los efectos que señala la Ley Civil, el carácter de Asociados y, por tanto, carecerán de voz y voto.
 
-Cuando alguno de los consejeros ciudadanos y su suplente llegara a faltar, injustificadamente, a dos reuniones ordinarias en un año, el Consejo podrá nombrar directamente y sin necesidad de convocatoria a la persona que en lo sucesivo representará al sector de que se trate.
+###### ARTICULO 42o.
 
-### Capítulo III.
+Los bienes que, en lo sucesivo, adquiera el Patronato serán de la Universidad Autónoma de Querétaro y éste no tendrá facultad para enajenarlos, salvo acuerdo expreso del Consejo Universitario.
 
-De las Consultas y Propuestas Ciudadanas.
+###### ARTICULO 43o.
 
-###### Artículo 32.
+Los Asociados no tendrán derecho alguno al haber social, ni tampoco tendrán derecho a compensación alguna por los servicios que proporcionen a la Asociación, en su calidad de Asociados.
 
-Para conocer las necesidades, propuestas y proyectos culturales de los ciudadanos de Ensenada, el Consejo convocara a asambleas de consulta en las regiones, delegaciones, comunidades, colonias y los diversos sectores de la comunidad cultural.
+### CAPITULO XI
 
-###### Artículo 33.
+DE LAS REFORMAS A LA LEGISLACION UNIVERSITARIA.
 
-Según la prioridad y factibilidad de las propuestas o proyectos comunitarios, el Consejo elaborará la propuesta correspondiente para someterla a consideración del H Ayuntamiento, para que éste lo incorpore a los programas de cultura municipal. De igual manera, el Consejo podrá hacer recomendaciones al Director del Instituto, para su inmediata atención.
+###### ARTICULO 44o.
 
-###### Artículo 34.
+La Legislación Universitaria está constituída por las normas aprobadas por el Consejo Universitario.
 
-En caso de proyectos comunitarios prioritarios y no considerados dentro del presupuesto correspondiente al ejercicio en curso del Instituto, el Consejo gestionará ante el Cabildo la autorización de partidas presupuestales complementarias o bien promoverán patrocinios paro su debida realización.
+###### ARTICULO 45o.
 
-###### Artículo 35.
+Las normas Universitarias podrán ser reformadas a iniciativa de cualquiera de los miembros del Consejo Universitario, si previamente a su formulación cuenta con el apoyo del diez por ciento de quienes tienen derecho de voto.
 
-El Consejo, previo acuerdo de sus miembros podrá organizar Asambleas Ciudadanas de Consulta y para que éstas tengan validez deberán contar con la asistencia de por lo menos tres de sus integrantes, mismas que serán presididas por el consejero que para el efecto sea comisionado.
+###### ARTICULO 46o.
 
-### Capítulo IV.
+Las propuestas de reforma que sean sometidas a consideración del Consejo Universitario y no sean aprobadas, no deberán analizarse de nueva cuenta sino después de un año.
 
-De los informes del Consejo del Instituto.
+###### ARTICULO 47o.
 
-###### Artículo 36.
+Para que las reformas se consideren parte de la Legislación Universitaria se requiere:
 
-El Consejo del Instituto deberá emitir un informe sobre lo tratado en cada una de sus sesiones, tanto ordinarias como extraordinarias, con base en sus minutas, con el fin de instruir sobre todos sus acuerdos a la Dirección del Instituto para su debido cumplimiento.
+I. Aprobación expresa de las dos terceras partes del total de los integrantes con derecho a voto del Consejo Universitario;
 
-###### Artículo 37.
+II. Opinión favorable de la mayoría de los Consejos Académicos de las Facultades, Escuelas e Institutos.
 
-El Consejo del Instituto deberá girar una copia de las minutas y los informes de sus sesiones a los miembros del Cabildo y al Subcomité Sectorial de Cultura del Copladem.
+### CAPITULO XII. DISPOSICIONES GENERALES
 
-## Título Tercero
+###### ARTICULO 48o.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE AGOSTO DE 2011)</small>
+El Gobierno del Estado de Querétaro tendrá la obligación de mantener y engrandecer la Institución de educación superior denominada "Universidad Autónoma de Querétaro".
 
-### Capítulo I.. De la organización administrativa del Instituto
+###### ARTICULO 49o.
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
+En esta Entidad Federativa es facultad de la Universidad Autónoma de Querétaro impartir con validez oficial, educación media superior y superior y revalidar estudios del mismo nivel.
 
-###### Artículo 38.
+Para los efectos de este artículo, los planteles o corporaciones públicas o privadas que en lo sucesivo inicien actividades para impartir educación en esta Entidad Federativa, en los niveles medio superior y superior, deberán, previamente, coordinar sus planes y programas docentes, académicos y de investigación con la Universidad Autónoma de Querétaro, a efecto de obtener de ésta, opinión favorable.
 
-El Instituto será administrado y operado por un Director General y para el mejor desempeño de su labor contará con el personal que permita la capacidad operativa, administrativa y financiera del propio Instituto.
+###### ARTICULO 50o.
 
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2016)</small>
+Es facultad descrecional (sic) de la Universidad, proporcionar servicios técnicos, de investigación, coordinación y supervisión en los problemas de la Entidad, cuando representantes de organismos públicos o privados lo soliciten.
 
-###### Artículo 39.
+###### ARTICULO 51o.
 
-Para el estudio, planeación y despacho de los asuntos de su competencia, la Dirección General en la medida que su presupuesto se lo permita contará con las siguientes Unidades Administrativas:
+Las Asociaciones del personal Académico, Administrativo y de Alumnos no son órganos de la Universidad y se organizarán democráticamente en la forma que ellos determinen.
 
-A) Coordinación Administrativa.
+###### ARTICULO 52o.
 
-I. Contador
+Las relaciones de trabajo entre la Universidad Autónoma de Querétaro y sus trabajadores Académicos y Administrativos, se regirán por la Legislación aplicable y por los Contratos Colectivos de Trabajo respectivos. Los términos de Ingreso, promoción y permanencia del personal académico serán fijados por la Universidad, de acuerdo con lo establecido por la Constitución General de la República.
 
-B) Subdirección Operativa
+###### ARTICULO 53o.
 
-I. Coordinación de Bibliotecas Públicas Municipales;
+Las acciones u omisiones que violen la Autonomía Universitaria, esta Ley y sus normas Reglamentarias serán sancionadas en la forma que determine el Consejo Universitario.
 
-II. Coordinación de Archivo Histórico y Hemeroteca;
+T R A N S I T O R I O S :
 
-III. Coordinación de Comunicación Social y Vinculación Cultural;
+###### ARTICULO PRIMERO.
 
-IV. Coordinación de Editorial y Literatura;
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-V. Coordinación de Casa de la Cultura.
+###### ARTICULO SEGUNDO.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE FEBRERO DE 2016)</small>
+Se abroga la Ley Orgánica de la Universidad Autónoma de Querétaro publicada en el Periódico Oficial el 26 de Agosto de 1976 y se derogan todas las disposiciones que se opongan a la presente Ley.
 
-### Capítulo Segundo. De la Coordinación Administrativa
+###### ARTICULO TERCERO.
 
-> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2016)</small>
+La Universidad expedirá las normas reglamentarias de esta Ley.
 
-###### Artículo 40.
+###### ARTICULO CUARTO.
 
-La Coordinación Administrativa se encargará de administrar los recursos humanos, materiales y financieros del Instituto, mantener una organización administrativa integral, tecnificada y sistematizada en lo relativo a los aspectos precisados que coadyuve con las funciones fundamentales del mismo.
+Para el caso de los planteles en que sus docentes aún no cumplan con el requisito de los tres años para ser designados Coordinadores, el Consejo Universitario puede dispensar tal requisito.
 
-> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2016)</small>
+LO TENDRA ENTENDIDO EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO Y MANDARA QUE SE IMPRIMA, PUBLIQUE Y OBSERVE.
 
-###### Artículo 41.
+DADA EN EL RECINTO OFICIAL DEL PODER LEGISLATIVO DEL ESTADO, A LOS VEINTISIETE DIAS DEL MES DE DICIEMBRE DE MIL NOVECIENTOS OCHENTA Y CINCO.
 
-La o el Coordinador Administrativo tendrá las siguientes atribuciones:
+Diputado Presidente,
 
-I. Administrar y controlar los recursos humanos, materiales y financieros del Instituto Municipal Cultura y Desarrollo Humano, con base en las políticas establecidas por la Dirección, el Reglamento Interno del Instituto Municipal Cultura y Desarrollo Humano, y las leyes y reglamentos relativos a su función pública;
+LIC. MARCO ANTONIO LEON HERNANDEZ.
 
-II. Planear, organizar y supervisar el presupuesto de egresos del Instituto Municipal Cultura y Desarrollo Humano, a partir de los lineamientos establecidos por el Director y el Consejo Del Instituto Municipal de Cultura y Desarrollo Humano, con base en los estados financieros del Instituto;
+Diputado Secretario,
 
-III. Supervisar el cumplimiento del presupuesto por programas;
+T.S. MA. GUADALUPE DURAN GOMEZ.
 
-IV. Revisar el flujo de efectivo y cuentas por pagar;
+Diputado Secretario,
 
-V. Planear la relación de los pagos catorcenales de acuerdo con el flujo de efectivo;
+DR. ALFONSO BALLESTEROS N.
 
-VI. Evaluar la aplicación del gasto contra el presupuesto;
+EN CUMPLIMIENTO CON LO DISPUESTO POR LA FRACCION SEGUNDA DEL ARTICULO NOVENTA Y TRES DE LA CONSTITUCION POLITICA DE ESTA ENTIDAD Y PARA SU DEBIDA PUBLICACION Y OBSERVANCIA, EXPIDO LA PRESENTE LEY, EN LA RESIDENCIA OFICIAL DEL PODER EJECUTIVO DEL ESTADO DE QUERETARO A LOS TREINTA DIAS DEL MES DE DICIEMBRE DE MIL NOVECIENTOS OCHENTA Y CINCO.
 
-VII. Realizar los trámites bancarios, notariales, etcétera que sean necesarios;
+El Gobernador Constitucional del Estado,
 
-VIII. Planear las solicitudes de aportaciones de fondos de la iniciativa privada, organismos municipales, estatales, federales y no gubernamentales con base en el análisis del desarrollo de las diversas actividades y programas del Instituto Municipal de Cultura y Desarrollo Humano;
+LIC. MARIANO PALACIOS ALCOCER.
 
-IX. Establecer convenios y contratos con los proveedores autorizados por la Dirección General o sus delegados, para el suministro de bienes y servicios que satisfagan las necesidades del Instituto Municipal de Cultura y Desarrollo Humano, con base en la normatividad y reglamentación vigentes;
+El C. Secretario de Gobierno,
 
-X. Revisar y autorizar la ejecución de obras y trabajos de mantenimiento de equipos y activo fijo, de acuerdo con el presupuesto y a partir de necesidades probadas;
-
-XI. Concentrar los informes de control de asistencia del personal del Instituto Municipal de Cultura y Desarrollo Humano, a partir de los reportes con el fin de autorizar el pago por nómina de cada uno;
-
-XII. Supervisar la realización de inventarios de los bienes muebles, inmuebles y de consumo, verificando su actualización en el padrón respectivo;
-
-XIII. Mantener contacto permanente con dependencias gubernamentales para la coordinación y resolución de situaciones administrativas diversas;
-
-XIV. Realizar proyectos especiales que le sean encargados por la Dirección del Instituto;
-
-XV. Presentar la información requerida por el Comisario del Instituto Municipal de Cultura y Desarrollo Humano y demás que la soliciten, siempre y cuando se trate de su área, en cuestión de auditorías;
-
-XVI. Proponer y solicitar al área contable, la documentación contable y financiera para las sesiones trimestrales, ordinarias y/o extraordinarias del Consejo, revisar los estados financieros para su presentación ante la Dirección y los organismos o instituciones que lo soliciten;
-
-XVII. Colaborar con el Director y el Subdirector Operativo en la elaboración del programa operativo anual, para ser presentado ante el Consejo del Instituto Municipal de Cultura y Desarrollo Humano;
-
-XVIII. Llevar a cabo las gestiones necesarias ante la Dirección de Asuntos Jurídicos del Ayuntamiento de los asuntos de carácter legal en que se requieran sus servicios y dar el seguimiento correspondiente;
-
-XIX. Elaborar el Programa anual de adquisiciones y presentarlo a la Dirección General para su aprobación.
-
-> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2016)</small>
-
-###### Artículo 42.
-
-La o el encargado de la Contabilidad, tendrá las siguientes atribuciones:
-
-I. Elaborar propuesta para el proyecto de Presupuesto Anual de Egresos del IMCUDHE, para someterlo a consideración del Coordinador Administrativo dentro de los primeros cinco días del mes de Octubre de cada año, como máximo;
-
-II. Mantener al día el estado financiero del Instituto con las pólizas, comprobantes, registros, asientos contables, chequeras y demás requisitos de control y/o verificación de gasto;
-
-III. Tramitar, previo acuerdo que al efecto emita el Coordinador Administrativo, las altas, bajas, movimientos de personal y suspensiones de las relaciones laborales de los servidores públicos del Instituto tanto para efectos de control interno, así como ante los organismos de seguridad social, verificando la plena aplicación de dichas resoluciones en el área de su competencia;
-
-IV. Integrar y mantener actualizados los expedientes de los servidores públicos del Instituto; incorporando en los mismos, la documentación de identidad respectiva, el nombramiento otorgado, las constancias de movimiento de personal que se tramiten y autoricen por el Director o Directora General, el alta a las instituciones de seguridad social, y todo documento o constancia relativa al servidor público, así como la correspondiente a las sanciones administrativas que se decreten;
-
-V. Efectuar los descuentos salariales que legalmente procedan;
-
-VI. Controlar mediante sistemas y procedimientos acordes, los movimientos que origine el personal, tales como promociones, vacaciones, licencias, permisos, cambios de adscripción, ausentismo, puntualidad y demás que se presenten;
-
-VII. Coordinar e implementar la dotación de documentos de identificación para el personal del Instituto;
-
-VIII. En coordinación con la Coordinación Administrativa del Instituto, elaborar los diagnósticos y evaluaciones sobre los requerimientos de capacitación y adiestramiento del personal, diseñando y proponiendo en su caso a la Coordinación Administrativa, los programas y cursos de capacitación y adiestramiento para satisfacer los requerimientos de conocimiento y habilidades para el mejor desempeño de las labores del Instituto;
-
-IX. Elaborar y someter a la autorización correspondiente, los programas de adquisiciones de bienes y servicios del Instituto con base en los requerimientos de las diversas instancias que lo conforman y en apego a la partida presupuestal respectiva, al efecto, llevará estadísticas de consumo para la elaboración de programas de adquisición;
-
-X. Controlar y despachar las requisiciones de material, mobiliario y equipo necesario para la buena marcha del Instituto;
-
-XI. Efectuar las indagaciones necesarias, recabar los presupuestos correspondientes y participar en su caso en las comisiones de adquisiciones que se implementen, proveyendo la información alternativa que posibilite las decisiones más convenientes en costo, calidad y servicio;
-
-XII. Elaborar los programas de mantenimiento preventivo del mobiliario, equipamiento y parque vehicular del Instituto para determinar sus costos y correspondiente presupuestación, así como gestionar el acuerdo correspondiente para despachar los requerimientos indispensables para la adecuada conservación y mantenimiento de los bienes aludidos;
-
-XIII. Promover entre el personal y usuarios de los servicios del Instituto a las acciones preventivas y la mejor utilización de las instalaciones, mobiliario y equipamiento del Instituto para la mejor conservación de los mismos;
-
-XIV. Clasificar, agrupar, inventariar y controlar las existencias de almacén respecto al material consumible de acuerdo con una lógica de ordenación clara y concisa;
-
-XV. Conservar actualizado un inventario de los bienes, enseres y equipo que integran el patrimonio del Instituto, así como el relativo a los bienes no propios, más que se encuentren en posesión de la Institución en virtud de asignación, comodato, arrendamiento o cualquier acto jurídico;
-
-XVI. Controlar los mismos a través de la identificación, codificación, registro y resguardo respectivos;
-
-XVII. Conservar los resguardos suscritos por los usuarios de los bienes patrimoniales del Instituto, para garantizar su custodia, y en su caso reclamar la responsabilidad;
-
-XVIII. Evaluar y en su caso, tramitar la baja de bienes patrimoniales cuyo ciclo de utilización o sus condiciones no sean funcionales;
-
-XIX. Revisar y vigilar la vigencia de los Contratos;
-
-XX. Verificar que se mantengan vigentes y en óptimas condiciones de aseguramiento y protección, los contratos de seguro de los bienes patrimoniales del Instituto considerados prioritarios, de mayor valor o que presenten el mayor índice de siniestros, procesando y manteniendo actualizada la información correspondiente;
-
-XXI. Llevar a cabo las contrataciones y procedimientos de adjudicación;
-
-XXII. Realizar y actualizar las descripciones generales de puestos del personal del Instituto.
-
-XXIII. Preparar el expediente y la información necesaria que se deberá turnar al consejo, para realizar las adquisiciones que conforme a las disposiciones legales, son competencia de ese organismo;
-
-XXIV. Llevar a cabo las gestiones administrativas y elaborar los documentos correspondientes a los procedimientos de Adjudicación;
-
-XXV. Integrar y mantener actualizados los expedientes de las contrataciones de bienes o servicios que realice el Instituto; incorporando en los mismos, la documentación de identidad respectiva de los proveedores, garantías de los procedimientos de contratación y sus anexos y todo documento o constancia relativa a los mismos, así como la correspondiente a las sanciones administrativas que se decreten;
-
-XXVI. Mantener en óptimas condiciones de aseo las instalaciones del Instituto a través del servicio de intendencia;
-
-XXVII. Controlar la apertura y cierre cotidiano de las oficinas del Instituto.
-
-XXVIII. Coordinar la correcta utilización y mantenimiento de los vehículos del Instituto supervisando su uso moderado y adecuado, así como la conservación de la función oficial;
-
-XXIX. Elaborar un reporte de la logística de cada evento, con el fin de controlar inventarios y personal del Instituto y de aquellos recursos necesarios para lograr sus objetivos, programando los movimientos que considere pertinentes;
-
-XXX. Apoyar en la coordinación de las distintas áreas para el cumplimiento de sus objetivos, sistematizando la comunicación con las mismas, para disponer de manera permanente de la información sobre el estado que guardan los asuntos inherentes al Instituto, proveer, requerir información y asesoría a las instituciones con las que el Instituto mantiene relación;
-
-XXXI. Preparar y elaborar Informes Generales de la Gestión Institucional;
-
-XXXII. Informar a la persona titular de la Coordinación Administrativa todo lo relacionado con la cuenta pública;
-
-XXXIII. Realizar el cálculo de impuestos a pagar;
-
-XXXIV. Elaborar el informe de la Cuenta Pública del Instituto;
-
-XXXV. Supervisar la elaboración de conciliaciones Bancarias;
-
-XXXVI. A tender las solicitudes de información de las diversas instituciones que fiscalizan al solicitar la documentación necesaria y oportuna para el cumplimiento de la Cuenta Pública; y
-
-XXXVII. Realizar todas aquellas funciones que le encomiende el Coordinador Administrativo y las demás disposiciones legales aplicables.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE FEBRERO DE 2016)</small>
-
-### Capítulo III. De la Subdirección Operativa
-
-> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2016)</small>
-
-###### Artículo 43.
-
-La Subdirección Operativa se encargará de promover, coordinar, desarrollar y vigilar la ejecución de los planes y programas del Instituto.
-
-> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2016)</small>
-
-###### Artículo 44.
-
-De las facultades y obligaciones del Subdirector Operativo:
-
-I. Planear, organizar y supervisar la política del gobierno municipal conforme los lineamientos y estrategias que marque el Director o Directora General del Instituto Municipal de Cultura y Desarrollo Humano y en conjunto con la coordinación de promoción y difusión cultural, las campañas de difusión, divulgación y publicitarias, Programas y Proyectos de la red Municipal de Bibliotecas, vinculación cultural, Galerías, Museos, archivo histórico y hemeroteca; y todas aquellas acciones relacionadas con el Proyecto de Cultura Municipal.
-
-II. Colaborar con el Director general en la elaboración de los programas operativos anuales para ser presentados ante el Consejo del Instituto de Cultura y Desarrollo Humano de Ensenada;
-
-III. Analizar y estructurar los programas operativos anuales aprobados por el Consejo del Instituto Municipal de Cultura y Desarrollo Humano y la Dirección General del Instituto, con el fin de garantizar el acceso de la comunidad ensenadense a la oferta de bienes y servicios culturales, especialmente en aquellos que se refieran a la promoción cultural, capacitación artística, producción de espectáculos y los servicios bibliotecarios;
-
-IV. Planear, organizar y ejecutar dichos programas, observando la estructura financiera autorizada para tales efectos;
-
-V. Planear, organizar y ejecutar los acuerdos y convenios necesarios para el fortalecimiento financiero de los programas operativos, en estrecha coordinación con la Subdirección administrativa del Instituto, de manera que se involucre tanto al sector público como privado en la promoción de bienes y servicios culturales para la comunidad;
-
-VI. Analizar y proponer a la Coordinación Administrativa las cotizaciones de proveedores de bienes y servicios, con base en las políticas que para tales efectos establezca la Dirección General;
-
-VII. Acordar con la Dirección General, los cambios y ajustes programáticos y financieros a que hubiere lugar en el transcurso del tiempo durante el cual desempeñe su encargo;
-
-VIII. Prever los recursos necesarios para promover la apertura de nuevos espacios culturales en la ciudad, a partir de convenios, con organismos no gubernamentales, otras dependencias de los gobiernos Municipal, Estatal y Federal, así como con la iniciativa privada:
-
-IX. Coordinar la organización de concursos y premios en las distintas disciplinas gestionando el apoyo de fundaciones, organismos públicos y privados, con el fin de promover la creación artística municipal;
-
-X. Proponer ante la Dirección General aquellos proyectos especiales que considere pertinentes y viables, con el fin de enriquecer y fortalecer los programas operativos anuales;
-
-XI. Coordinar la ejecución de los programas de cada dependencia a su cargo, supervisando el desempeño de los titulares en cada área;
-
-XII. Dar seguimiento a la operación de los organismos bajo su supervisión, a partir de los programas y objetivos previstos en la planeación previa;
-
-XIII. Mantener una estrecha comunicación con los titulares de las coordinaciones bajo su cargo, con el fin de prever y facilitar los recursos necesarios para el mejor desempeño de cada área y el cumplimiento de sus objetivos, así como los programas de cursos y talleres;
-
-XIV. Coordinar reuniones semanales de información con los titulares de la coordinación de Bibliotecas Públicas, Archivo Histórico y Hemeroteca, Comunicación y vinculación Cultural, Casas de la Cultura, Editorial y Literatura, a su cargo.
-
-XV. Evaluar los resultados de cada proyecto y programa, vigilando el cumplimiento de las normas relativas;
-
-XVI. Presentar un informe mensual, ante la Dirección del Instituto, de los avances en los proyectos y programas;
-
-XVII. Programar y coordinar las juntas trimestrales de evaluación y planeación a corto y mediano plazo, con el fin de consolidar esfuerzos y recursos para la realización de los programas del Instituto Municipal de Cultura y Desarrollo Humano;
-
-XVIII. Apoyar a la Dirección General en la integración del Informe Anual para la cuenta pública, sobre el estado que guarda la administración y operación del Instituto Municipal de Cultura y Desarrollo Humano;
-
-XIX. Llevar un registro de los institutos, universidades, fundaciones y asociaciones culturales y artísticas, y de proyectos de investigación que conciernan a su área, que puedan apoyar la promoción, difusión, capacitación artística y cultural del Instituto Municipal de Cultura y con ello allegarles diversos apoyos financieros, logísticos y materiales para su mejor desempeño;
-
-XX. Desempeñar todo encargo propuesto por la Dirección General del Instituto Municipal de Cultura y Desarrollo Humano;
-
-XXI. Cumplir con todas las disposiciones previstas por las leyes y reglamentos en la materia.
-
-> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2016)</small>
-
-###### Artículo 45.
-
-De las facultades y obligaciones del Coordinador de Bibliotecas Públicas Municipales:
-
-I. Planear, organizar y dirigir la política cultural del Gobierno Municipal en materia de servicios bibliotecarios a la comunidad, así como la aplicación de los programas de la Red Nacional de Bibliotecas Públicas y los lineamientos establecidos por la Dirección General de Bibliotecas de la Secretaría de Educación Pública;
-
-II. Planear, organizar y ejecutar los programas aprobados por la Dirección del Instituto Municipal de Cultura y Desarrollo Humano conforme a los lineamientos trazados en el Consejo del Instituto; ejecuta sus actividades con base en los programas de la Dirección General de Bibliotecas de la Secretaría de Educación Pública;
-
-III. Presentar un programa anual de actividades, dividido por trimestres, ante la Dirección General, en el cual se especifican las formas, contenidos y funciones de cada acción prevista;
-
-IV. Coordinar la planeación y organización de programas conjuntos con clubes y círculos de lectura, exposiciones, talleres literarios, cine clubes y otros que promuevan la concurrencia de la comunidad a las bibliotecas de la ciudad, en coordinación con las otras áreas del Instituto Municipal de Cultura y Desarrollo Humano, como las Casas de la Cultura, Comunicación Social y Vinculación Cultural, así como con otras entidades educativas e instituciones de promoción cultural;
-
-V. Convocar la participación de estudiantes y maestros en la utilización, conservación y enriquecimiento de los servicios bibliotecarios, mediante concursos y atractivos especiales con el fin de ampliar la presencia del Instituto Municipal de Cultura y Desarrollo Humano en la comunidad escolar;
-
-VI. Proponer acciones tendientes al enriquecimiento del acervo bibliotecario de la ciudad;
-
-VII. Determinar los objetivos y funciones del personal a su cargo, con el fin de evaluar su desempeño y proponer las acciones educativas o formativas pertinentes para elevar la calidad de los servicios que prestan a la comunidad;
-
-VIII. Llevar el control de los inventarios bibliográficos, hemerográficos, cartográficos y de material electromagnético y cibernético existentes en las unidades a su cargo;
-
-IX. Supervisar y evaluar la calidad del servicio que cada biblioteca presta a la comunidad;
-
-X. Proponer y ejecutar acciones preventivas y correctivas en función del nivel del servicio prestado;
-
-XI. Facilitar al personal a su cargo los recursos materiales existentes, así como la instrucción que se requiera para el óptimo desempeño de sus funciones;
-
-XII. Organizar cursos especializados de capacitación y adiestramiento en manejo y servicios bibliotecarios, dirigidos a fortalecer el adiestramiento del personal a su cargo;
-
-XIII. Es responsable ante la Coordinación Administrativa del Instituto por los recursos materiales a su cargo, procurando llevar al día la información relativa a los acervos, inventarios físicos de activo fijo y otros que le sean asignados;
-
-XIV. La Coordinación de Bibliotecas debe reportar a la Coordinación Administrativa y a la Subdirección Operativa los asuntos que sean competencia de éstas y llevar una relación de vinculación con las demás coordinaciones;
-
-XV. Elaborar un informe mensual de sus actividades y lo turna ante Unidad correspondiente del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada.
-
-> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2016)</small>
-
-###### Artículo 46.
-
-De las atribuciones del Coordinador del Archivo Histórico y Hemeroteca:
-
-I. Preservar el patrimonio histórico de la región;
-
-II. Rescatar los testimonios orales y documentales de su gente;
-
-III. Divulgar la historia entre la población;
-
-IV. Facilitar su acervo a investigadores, estudiantes y público en general;
-
-V. La organización y proyección del Archivo Virtual;
-
-VI. Dar a conocer documentos, mapas, periódicos y fotografías de Ensenada por todos los medios a su alcance;
-
-VII. Realizar exposiciones temporales sobre la historia de la ciudad y la región;
-
-VIII. Lograr que la atención al público esté a cargo de prestadores de servicio social bajo la dirección del personal del archivo, quienes atenderán lo relacionado con la clasificación e inventario de los documentos que se rescaten;
-
-IX. Obtener y mantener el adecuado mobiliario y equipo de cómputo para poder dar servicio al público y poder iniciar el trabajo propio del archivo, como la recopilación de documentos, fotografías, periódicos y demás que permitan el rescate de la historia regional. En forma constante se organizarán inventarios y clasificación de los mismos para su posterior digitalización;
-
-X. Facilitar el conocimiento de la historia regional;
-
-XI. Elaborar y mantener actualizada la “Memoria Digital de Ensenada” por medio de la cual se reproducen textos y documentos sobre la historia de la ciudad. Siendo responsable de la reproducción de fondos documentales del archivo en fotocopia, microfilm o formato digital;
-
-XII. La exposición temporal de documentos, así como las publicaciones sobre historia de la localidad, ediciones facsimilares, programas de historia oral, visitas guiadas y los talleres didácticos que se articulan en torno a las áreas temáticas del archivo, los documentos y la investigación;
-
-XVI (SIC). Todas las demás disposiciones que establezca la Dirección General y las leyes aplicables a la materia.
-
-> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2016)</small>
-
-###### Artículo 47.
-
-De las atribuciones del Coordinador de Comunicación Social y Vinculación Cultural:
-
-a) En materia de Vinculación Cultural:
-
-I. Planear, organizar y supervisar los eventos artísticos-culturales del Instituto conforme los lineamientos y estrategias que marque el Director o Directora y en coordinación con los coordinadores de su unidad administrativa, las campañas de difusión, divulgación y publicitarias;
-
-II. Colaborar con el Director o Directora en la elaboración de los programas operativos anuales para ser presentados ante el consejo;
-
-III. Analizar y estructurar los programas anuales aprobados por el consejo y la Direccióncon (sic) el fin de garantizar el acceso de la comunidad ensenadense a la oferta de bienes y servicios culturales, especialmente en aquellos que se refieran a la promoción cultural, la producción de espectáculos, exposiciones y de eventos artísticos en general;
-
-IV. Planear, organizar y ejecutar dichos programas, observando la estructura financiera autorizada para tales efectos;
-
-V. Planear, organizar y ejecutar los acuerdos y convenios necesarios para el fortalecimiento financiero de los programas operativos, en estrecha coordinación con la Coordinación Administrativa del Instituto de manera que se involucre tanto al sector público como privado en la promoción de bienes y servicios culturales para la comunidad;
-
-VI. Prever los recursos necesarios para promover la apertura de nuevos espacios culturales en la ciudad, a partir de convenios, aprobados por la Dirección General, con organismos no gubernamentales, otras dependencias de los gobiernos municipal, estatal y federal, así como con la iniciativa privada;
-
-VII. Coordinar la ejecución de los programas de cada dependencia a su cargo, supervisando el desempeño de las o los titulares en cada área;
-
-VIII. Dar seguimiento a la operación de los organismos bajo su supervisión, a partir de los programas y objetivos previstos en la planeación previa;
-
-IX. Mantener una estrecha comunicación con las y los titulares de las demás áreas con el fin de prever y facilitar los recursos necesarios para el mejor desempeño de cada área y el cumplimiento de sus objetivos;
-
-X. Coordinar reuniones semanales de información con las y los titulares de todas las áreas que generen eventos culturales o artísticos;
-
-XI. Evaluar los resultados de cada proyecto y programa, vigilando el cumplimiento de las normas relativas;
-
-XII. Presentar un programa anual de actividades, ante la Dirección General, en el cual se especifican las formas, contenidos y funciones de cada acción prevista; y
-
-XIII. Analizar, supervisar y proponer a la jefatura de contabilidad las requisiciones, cotizaciones de proveedores de bienes y servicios, con base en las políticas presupuestales establecidas por el Instituto;
-
-XIV. Participar en las reuniones directivas junto a la Dirección General y las Coordinaciones con el fin de evaluar y supervisar el desempeño integral del Instituto;
-
-XV. Participar en las reuniones ordinarias y extraordinarias del Consejo;
-
-XVI. Coordinar los programas de información por los canales de comunicación adecuados, sobre las actividades del Instituto, de la Dirección General y sus Unidades Administrativas;
-
-XVII. Elaborar el plan de trabajo y estrategias para una mejor cobertura y difusión de los proyectos, programas y acciones que realiza el Instituto para el fortalecimiento cultural de los ensenadense;
-
-XVIII. Presentar a la Dirección General los planes de trabajo, presupuesto y evaluaciones relativos a sus funciones;
-
-XIX. Desarrollar la política del Instituto Municipal de Cultura y Desarrollo Humano en materia de vinculación cultural;
-
-XX. Elaborar y proponer el plan de trabajo y las estrategias pertinentes para lograr obtener apoyo económico de diversas entidades oficiales y particulares;
-
-XXI. Ejecutar el plan de trabajo conforme el programa y los tiempos establecidos;
-
-XXII. Elaborar acciones para la promoción del programa de cultura municipal en las escuelas;
-
-XXIII. Coordinar los programas y subprogramas autorizados por la Dirección del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada con los Sistemas Educativos existentes en el municipio;
-
-XXIV. Establecer contactos con directivos del sector educativo de todos los niveles;
-
-XXV. Promover entre las escuelas los programas de cultura municipal y los servicios del Instituto Municipal de Cultura y Desarrollo Humano;
-
-XXVI. Organizar visitas de artistas, expositores y conferencistas en coordinación con otros Institutos y Centros Universitarios;
-
-XXVII. Capacitar guías para recorridos culturales;
-
-XXVIII. Solicitar a la subdirección administrativa la asignación de vehículos para el traslado de alumnos y guías durante los recorridos culturales;
-
-XXIX. Organizar cursos y talleres de capacitación para maestros y personal del sistema Educativo formal dedicado a la enseñanza artística;
-
-XXX. Verificar que haya un seguimiento en cada una de las acciones que emprende;
-
-XXXI. Elaborar un informe mensual de sus actividades y turnarlo a la Subdirección Operativa del Instituto.
-
-XXXII. Ejecutar los programas del Instituto en materia de eventos y espectáculos;
-
-XXXIII. Planear, organizar y ejecutar los eventos programados y autorizados por la o el Director General;
-
-XXXIV. Planear la organización y proponer los eventos especiales con base en el calendario anual de festividades nacionales y regionales, por temas o disciplina artística con las diferentes áreas, bajo la supervisión de la Coordinación (sic) Comunicación Social y Vinculación Cultural para su autorización por la Dirección General;
-
-XXXV. Elaborar el calendario de los eventos y espectáculos programados, llevando un registro de los recursos humanos y materiales necesarios para los montajes, el manejo de los equipos, el traslado de personas y elementos necesarios;
-
-XXXVI. Llevar un registro de las solicitudes y requisiciones de recursos, con el fin de controlar los gastos en la producción de cada evento, en coordinación con la Coordinación Administrativa;
-
-XXXVII. Elaborar un informe detallado de la planeación y la logística de los eventos programados y turnarlo a la Subdirección Operativa;
-
-XXXVIII. Proponer la contratación y reserva de los espacios apropiados para cada evento;
-
-XXXIX. Elaborar una ficha con los datos correspondientes a los espacios elegidos para la celebración de cada evento y turnarlo a la Coordinación Administrativa, con el fin de elaborar los respectivos contratos de arrendamiento y/o de comodato, o realizar los convenios conducentes;
-
-XL. Controlar el avance en los trabajos de producción y montaje de los eventos, supervisando a los proveedores contratados para tales efectos;
-
-XLI. Elaborar un reporte de la logística de cada evento, con el fin de controlar inventarios y requerir la adquisición de aquellos recursos necesarios para lograr sus objetivos, programando los movimientos que considere pertinentes;
-
-XLII. Administrar la política del Instituto en materia de Galerías y foros de exposiciones de obras de Arte con base en los programas autorizados por la Dirección General;
-
-XLIII. Establecerla (sic) vinculación con artistas de las diferentes disciplinas artísticas para la realización de eventos culturales;
-
-XLIV. Establecer relaciones de coordinación con promotores y promotoras independientes de la plástica en la región, con el fin de realizar eventos y exposiciones dentro y fuera de los espacios del Instituto;
-
-XLV. Crear y dar seguimiento a un directorio de artistas de las diferentes disciplinas para realizar eventos culturales;
-
-XLVI. Organizar y reportar archivos fotográficos al área de promoción y difusión cultural de cada evento cultural, así como sus respectivas fichas informativas;
-
-XLVII. Habilitar las salas para cada exposición;
-
-XLVIII. Ordenar y supervisar la museografía de las obras en cada exposición;
-
-XLIX. Tener información sobre el catálogo de obras a ser expuestas en espacios y foros a los que el Instituto tenga acceso, con el fin de diseñar las campañas publicitarias y promocionales adecuadas a cada exhibición;
-
-L. Preparar a las y los promotores culturales, internos y externos, en todos los temas relacionados con las artes plásticas;
-
-LI. Apoyar la ejecución de conferencias, cursos y seminarios en los espacios de la galería, sobre temas diversos como: historia del arte, historia regional, responsabilidad social del artista, las artes escénicas, las artes plásticas, etcétera;
-
-LII. Ejecutar la política del Instituto en materia de promoción de la Cultura Popular;
-
-LIII. Elaborar y coordinar el programa de Cultura Popular, dando seguimiento a la operación y promoción de los subprogramas, jornadas culturales comunitarias y promoción en colonias populares;
-
-LIV. Brindar asesoría, seguimiento y supervisión al trabajo de las y los coordinadores de subprogramas delegacionales, con reuniones periódicas de evaluación y programación de actividades conjuntas de acuerdo con los objetivos del programa;
-
-LV. Promover la adquisición de apoyos para la realización de las actividades propias de los subprogramas a través de la administración del Instituto.
-
-LVI. Tener información del contenido y los calendarios del Programa de Cultura Popular, así como la calendarización de cada subprograma con el fin de comunicarlos a la comunidad a través de los medios.
-
-LVII. Participar en todos los eventos y actividades especiales del Instituto.
-
-LVIII. Elaborar informes mensuales de sus actividades, dirigidos a la Subdirección operativa; y
-
-LIX. Realizar todas aquellas funciones que le encomiende el Director General y/o el Subdirector Operativo del Instituto.
-
-b) En materia de Comunicación social y difusión:
-
-I. Llevar un registro diario de la información difundida por la prensa, la radio, la televisión y otros medios, en relación con los programas, eventos y temas promovidos y tratados por el Instituto que deberá entregar a la Dirección General;
-
-II. Mantener informada a la Dirección General y a las Unidades Administrativas del (sic) sobre las manifestaciones de expresión pública y social relativa a su actuación;
-
-III. Mostrar una imagen veraz y adecuada, del Instituto ante la sociedad;
-
-IV. Emitir por escrito los lineamientos en materia de comunicación social a que deberán sujetarse las Unidades Administrativas del Instituto;
-
-V. Garantizar que la información proveniente del Instituto se difunda a toda la población;
-
-VI. Realizar campañas publicitarias para dar a conocer a la ciudadanía los planes de trabajo y acciones emprendidas por el Instituto;
-
-VII. Reportar a las Coordinaciones y mantener una línea de comunicación con el resto de las coordinaciones, para llevar un registro diario de las actividades que realiza cada uno de ellos y difundir tanto los programas como los eventos a realizarse;
-
-VIII. Organizar las conferencias y ruedas de prensa que a los medios de comunicación ofrezcan el Director o Directora General y funcionarios del IMCUDHE;
-
-IX. Cubrir las actividades y eventos del Instituto para la redacción de los reportajes, crónicas y notas informativas, conforme prioridades y agenda;
-
-X. Coordinar el diseño y la publicación de los materiales gráficos con fines de promoción interna y publicitaria, así como la elaboración de los textos correspondientes a las campañas de difusión relativas a cada proyecto supervisado por las Coordinaciones del Instituto;
-
-XI. Elaborar y distribuir de manera quincenal entre los diversos departamentos del instituto una síntesis diaria de información periodística en torno a los temas que le atañen al IMCUDHE;
-
-XII. Emitir boletines, aclaraciones y convocatorias para su publicación en los medios, concernientes a los programas y acciones del Instituto;
-
-XIII. Elaborar y mantener al día el directorio de medios de comunicación y las y los comunicadores de las diferentes fuentes, estableciendo comunicación particularmente con los culturales; y
-
-XIV. Coordinarse con la Dirección de Comunicación Social del Municipio de Ensenada en el desarrollo de sus actividades.
-
-XV. Realizar todas aquellas funciones que le encomiende el Director o Subdirector Operativo del IMCUDHE.
-
-> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2016)</small>
-
-###### Artículo 48.
-
-De las atribuciones del Coordinador de Editorial y Literatura:
-
-I. Proyección de obras literarias que impulsen los conocimientos de la cultura y el arte en el municipio;
-
-II. Llevar a cabo presentaciones editoriales, acerca de las novedades y relevancias de libros, revistas o publicaciones, con el objeto de apoyar la promoción del arte y la cultura en el municipio;
-
-III. Llevar a cabo programas de participación para los niños y adultos en las actividades literarias.
-
-IV. Realizar convocatorias de participación ciudadana que impulsen la literatura cultural y optimicen el desarrollo cultural del municipio.
-
-V. Realizar publicaciones culturales y literarias de las actividades del IMCUDHE, a través de la Coordinación de Comunicación Social y Vinculación Cultural.
-
-VI. Las demás funciones que deriven de la naturaleza de su función y/o que sean encomendadas por su jefe inmediato superior y/o el Director General.
-
-> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2016)</small>
-
-###### Artículo 49.
-
-De las facultades de la Coordinación de Casa de la Cultura:
-
-I. Ejecutar la política del Instituto Municipal de Cultura y Desarrollo Humano en materia de capacitación artística, de promoción y difusión de la cultura y las artes en las Casas de la Cultura que establezca la Dirección General;
-
-II. Elaborar el programa anual de trabajo, proponer las políticas internas y proporciona (sic) a la Dirección General los proyectos y presupuestos a desarrollar, para su análisis y autorización;
-
-III. Coordinar la impartición de cursos y la realización de proyectos propuestos por el personal académico de las Casas de Cultura a su cargo, para la difusión de la cultura y las artes;
-
-IV. Evaluar e informar mensualmente los avances o terminación de proyectos y programas;
-
-V. Evaluar la conveniencia y pertinencia de cada programa y presupuesto propuestos, a la calidad-costo-beneficio de las acciones o servicios;
-
-VI. Solicitar la elaboración de los presupuestos correspondientes a los programas administrativo y académico;
-
-VII. Gestionar recursos económicos y proponer cursos de capacitación y becas para fortalecer la currícula de los maestros;
-
-VIII. Creación y fomento de grupos de alumnos y ex alumnos de las Casas de Cultura, para que se formen las compañías de las diferentes disciplinas que representan a dichas casas de estudios;
-
-IX. Solicitar y supervisar mensualmente los informes financieros, administrativos y académicos;
-
-X. Recibir, responder y turnar la correspondencia de las Casas de Cultura, a la Dirección;
-
-XI. Previa solicitud del Director, representar al Instituto Municipal de Cultura y Desarrollo Humano, como miembro de número en los foros de consulta del ramo cultural;
-
-XII. Canalizar mensualmente la información, evaluación y propuestas a la Dirección del Instituto Municipal de Cultura y Desarrollo Humano;
-
-XIII. Elaborar y turnar un informe mensual a las Subdirección Operativa y Coordinación Administrativa sobre el avance de los distintos programas y proyectos, presupuestos y estados financieros que supervisa;
-
-XIV. Verificar el cumplimiento de las disposiciones y reglamentos vigentes;
-
-XV. Implementar acciones para elevar la calidad de la educación artística que se imparte en las casas de la cultura;
-
-XVI. Realizar acciones encaminadas a elevar el número de alumnos inscritos en las casas de la cultura;
-
-XVII. Fomentar el conocimiento y aplicación de una educación en valores tanto en el personal como en los alumnos que asisten a las casad (sic) de la cultura;
-
-XVIII. Las demás funciones que deriven de la naturaleza de su función y/o que sean encomendadas por su jefe inmediato superior y/o el Director General.
-
-T R A N S I T O R I O S (SIC)
-
-PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-Dado en la Sala Emmer del área de Regidores del XVIII Ayuntamiento Municipal de Ensenada, Baja California a los 14 días del mes de mayo de 2007.
-
-QUIM. CESAR MANCILLAS AMADOR
-
-PRESIDENTE MUNICIPAL DEL XVIII AYUNTAMIENTO DE ENSENADA, B. C.
-
-LIC. JULIO CESAR ARENAS RUIZ
-
-SECRETARIO FEDATARIO DEL XVIII AYUNTAMIENTO DE ENSENADA, B. C.
-
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
-
-P.O. 26 DE AGOSTO DE 2011.
-
-PRIMERO.- Una vez aprobada la presente reforma, publíquese en el Periódico Oficial del Estado de Baja California, para efectos de entrar en vigor al día siguiente de su publicación.
-
-SEGUNDO.- En un término no mayor a 60 días naturales a partir de la entrada en vigor de la presente reforma, el Consejo del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada deberá elaborar y aprobar el Reglamento Interno del Instituto.
-
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2014)</small>
-
-TERCERO.- A partir de la entrada en vigor de la presente reforma la Dirección de Educación deberá iniciar la transferencia a favor del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada, del mobiliario, vehículos, instrumentos, maquinaria, archivos, y en general los recursos que la Dirección haya utilizado para la atención de las Bibliotecas Públicas Municipales, estableciéndose como fecha límite para concluir el proceso referido el 31 de Diciembre de 2014; Asimismo, en el subsidio que aporte el Municipio de Ensenada al Presupuesto de Egresos para el Ejercicio fiscal 2015 del Instituto Municipal de Cultura y Desarrollo Humano, deberá incluirse el recurso necesario para la operatividad de las Bibliotecas Públicas Municipales, tomando como referencia el recurso asignado para tal efecto por la Dirección de Educación conforme al Presupuesto de Egresos del Ejercicio Fiscal 2014, a la cual consecuentemente le será disminuido el recurso aportado al instituto para los fines señalados; lo anterior, sin menoscabo de los aumentos que pudieran considerarse en el subsidio asignado al propio del Instituto.
-
-Por lo que hace al personal de las Bibliotecas Públicas Municipales, deberán realizarse los movimientos que correspondan para efecto de que presten sus servicios en favor del Instituto, sin perjuicio de sus derechos laborales.
-
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2014)</small>
-
-CUARTO.- La administración de las Casas de la Cultura quedará a cargo de la administración central hasta el 31 de Diciembre de 2014, fecha límite para la realización de las transferencias a favor del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada, del mobiliario, vehículos, instrumentos, maquinaria, archivos, y en general los recursos que la Casas (sic) de la Cultura haya utilizado para la atención de sus funciones, por lo que en el subsidio que aporte el Municipio de Ensenada al Presupuesto de Egresos para el Ejercicio fiscal 2015 del Instituto Municipal de Cultura y Desarrollo Humano, deberán incluirse los recursos de las partidas presupuestales que ejerce la Dirección de Casas de la Cultura conforme el Presupuesto de Egresos del ejercicio fiscal 2014, sin menoscabo de los aumentos que pudieran considerarse en el subsidio asignado al propio del Instituto.
-
-Por lo que hace al personal de las Casas de la Cultura, deberán realizarse los movimientos que correspondan para efecto de que presten sus servicios en favor del Instituto, sin perjuicio de sus derechos laborales.
-
-> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2014)</small>
-
-CUARTO BIS.- La Hemeroteca Pública "Francisco Vargas Bañaga" y el Archivo Histórico de Ensenada, quedarán a cargo de la administración central hasta el 31 de Diciembre de 2014, fecha límite para la realización de la transferencia a favor del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada, del mobiliario, vehículos, instrumentos, maquinaria, archivos, y en general los recursos que la Hemeroteca Pública "Francisco Vargas Bañaga" y el Archivo Histórico de Ensenada, hayan utilizado para la atención de sus funciones, por lo que en el subsidio que aporte el Municipio de Ensenada al Presupuesto de Egresos para el Ejercicio fiscal 2015 del Instituto Municipal de Cultura y Desarrollo Humano, deberán incluirse los recursos de las partidas presupuestales que ejerce la administración pública municipal por conducto de los entes que correspondan, conforme al Presupuesto de Egresos del ejercicio fiscal 2014, sin menoscabo de los aumentos que pudieran considerarse en el subsidio asignado al propio del Instituto.
-
-Por lo que hace al personal de la Hemeroteca Pública "Francisco Vargas Bañaga" y el Archivo Histórico de Ensenada, deberán realizarse los movimientos que correspondan para efecto de que presten sus servicios en favor del Instituto, sin perjuicio de sus derechos laborales.
-
-QUINTO.- En la primera Sesión Ordinaria del Consejo del Instituto deberá tomarse protesta a los nuevos Consejeros establecidos en la presente reforma, en el entendido de que los Consejeros ciudadanos durarán en su encarga (sic) hasta la renovación del Consejo, en los términos del Reglamento del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada.
-
-SEXTO.- Se derogan todas las disposiciones que contravengan el contenido de la presente reforma y sus artículos transitorios.
-
-P.O. 25 DE JULIO DE 2014.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3°. DEL CÓDIGO CIVIL FEDERAL.
-
-P.O. 19 DE FEBRERO DE 2016.
-
-## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA ADICIONAR EL ARTÍCULO 12 AL ACUERDO DE CREACIÓN DEL INSTITUTO MUNICIPAL DE CULTURA Y DESARROLLO HUMANO DE ENSENADA, BAJA CALIFORNIA, ASÍ COMO REFORMAR EL ARTÍCULO 39 Y ADICIONES DE NUMERALES AL REGLAMENTO DEL INSTITUTO MUNICIPAL DE CULTURA Y DESARROLLO HUMANO DE ENSENADA, BAJA CALIFORNIA".]
-
-ÚNICO.- La presente reforma y adiciones al Reglamento del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California
-
-P.O. 21 DE OCTUBRE DE 2016.
-
-## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA REFORMAR EL ARTÍCULO 27 DEL REGLAMENTO DEL INSTITUTO MUNICIPAL DE CULTURA Y DESARROLLO HUMANO DE ENSENADA, BAJA CALIFORNIA, RELATIVO A DICTAMEN 030/2016".]
-
-ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
-
-### Capítulo Quinto. De la igualdad entre mujeres y hombres en el ámbito civil
-
-### Capítulo Sexto. De la eliminación de estereotipos establecidos en función del género
+LIC. JOSE MARIA HERNANDEZ SOLIS.
