@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-la-fiscalizacion-de-los-recursos-de-las-116675"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-10-03"
-last_updated: "2016-12-06"
+last_updated: "2017-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116675&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2016-09-07"
 ---
 # REGLAMENTO PARA LA FISCALIZACION DE LOS RECURSOS DE LAS AGRUPACIONES POLITICAS LOCALES DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE SEPTIEMBRE DE 2017 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 REGLAMENTO PARA LA FISCALIZACIÓN DE LOS RECURSOS DE LAS AGRUPACIONES POLÍTICAS LOCALES EN LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE AGOSTO DE 2017.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el lunes 3 de octubre de 2016.
 
@@ -30,7 +32,7 @@ Acuerdo del Consejo General del Instituto Electoral del Distrito Federal, por el
 
 A n t e c e d e n t e s:
 
-[…]
+[...]
 
 En razón de lo expuesto, y con fundamento en lo dispuesto por los artículos 41, párrafo segundo, Base V, Apartado C, numerales 10 y 11 de la Constitución; 3, numeral 1, inciso h); 98, numerales 1 y 2, 104, numeral I, incisos a) y r) de la Ley General; 120, párrafo segundo, 123, párrafo primero, 124, párrafos primero y segundo y 127, párrafo primero, numerales 1, 10 y 11 del Estatuto de Gobierno; 1, párrafos primero y segundo, fracciones III y VIII, 3, párrafos primero, segundo y tercero, 15, 16, 17, 18, fracciones I y II, 20, párrafo primero, fracciones II y IX, párrafo tercero, inciso a) y párrafo quinto, inciso a) y q), 21, párrafo primero, fracciones I y III, 25, párrafos primero, segundo y tercero, 32, párrafos primero, segundo y tercero, 35, párrafo primero, fracciones I, XIII, XX, XXXV y XXXIX, 36, 37, 43, párrafo primero, fracción V, 187, 191, 192, 193, 196, párrafo primero, fracciones I, inciso e), numeral 2, fracción II, inciso a) y c), 199, párrafo primero, fracción III, 200, párrafo primero, fracción I, 247 y 260 del Código; así como el Transitorio Primero del Acuerdo INE/CG263/2014, aprobado por el Consejo General del INE; el Consejo General en ejercicio de las facultades constitucionales, legales y reglamentarias, emite el siguiente:
 
@@ -118,25 +120,31 @@ Septiembre, 2016
 
 ### CAPÍTULO ÚNICO
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ACUERDO PUBLICADO EN LA G.O. EL 6 DE DICIEMBRE DE 2016, SE ELIMINA EL CONCEPTO DE “ARTÍCULOS TRANSITORIOS” DEL ÍNDICE.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ACUERDO PUBLICADO EN LA G.O. EL 6 DE DICIEMBRE DE 2016, SE ELIMINA EL CONCEPTO DE "ARTÍCULOS TRANSITORIOS" DEL ÍNDICE.]</small>
 
 ANEXOS:
 
 - APL - 1 IA. INFORME SOBRE EL ORIGEN Y DESTINO DE LOS RECURSOS
 
-- APL -2 DA. DETALLE DE MONTOS APORTADOS POR LOS AFILIADOS A LA AGRUPACIÓN POLÍTICA LOCAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 18 DE AGOSTO DE 2017)</small>
 
-- APL – 3 DS. DETALLE DE APORTACIONES DE SIMPATIZANTES
+- APL -2 DA. DETALLE DE MONTOS APORTADOS POR LAS AFILIADAS Y LOS AFILIADOS
+
+- APL - 3 DS. DETALLE DE APORTACIONES DE SIMPATIZANTES
 
 - APL - 4 DIA. DETALLE DE INGRESOS POR AUTOFINANCIAMIENTO
 
 - APL - 5 DRF. DETALLE DE INGRESOS POR RENDIMIENTOS FINANCIEROS, FONDOS Y FIDEICOMISOS
 
-- APL - 6 CF-RU. CONTROL DE FOLIOS DE RECIBOS ÚNICOS DE APORTACIONES DE AFILIADOS Y SIMPATIZANTES
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 18 DE AGOSTO DE 2017)</small>
+
+- APL - 6 CF-RU. CONTROL DE FOLIOS DE RECIBOS ÚNICOS DE APORTACIONES DE AFILIADOS, AFILIADAS Y SIMPATIZANTES
 
 - APL - 7 CEA. CONTROL DE EVENTOS DE AUTOFINANCIAMIENTO
 
-- APL -. 8 RU. RECIBO NÚNICO (SIC) DE APORTACIONES DE AFILIADOS Y SIMPATIZANTES
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 18 DE AGOSTO DE 2017)</small>
+
+-APL -. 8 RU. RECIBO ÚNICO DE APORTACIONES DE AFILIADOS, AFILIADAS Y SIMPATIZANTES
 
 - APL - 9 RPAP. RECIBOS DE RECONOCIMIENTO POR ACTIVIDADES POLÍTICAS
 
@@ -182,7 +190,9 @@ Objeto del Reglamento.
 
 El presente Reglamento es de orden público, de observancia general y obligatoria en toda la Ciudad de México y tiene por objeto establecer los lineamientos, formatos, instructivos, catálogo de cuentas (APL 18) y guía contabilizadora (APL 19) aplicables a las Agrupaciones Políticas Locales en la Ciudad de México y regular los procedimientos de fiscalización respecto del origen, destino y monto de los recursos que reciban por cualquier modalidad de financiamiento.
 
-La fiscalización tendrá la finalidad de verificar el registro de sus ingresos y egresos, la documentación comprobatoria sobre el manejo de los mismos, los informes que deben presentar ante el Instituto Electoral del Distrito Federal, así como las reglas para su revisión y dictamen de acuerdo con lo establecido en el presente Reglamento, dicha fiscalización se realizará en los términos y conforme a los procedimientos previstos en el mismo.
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
+
+La fiscalización tendrá la finalidad de verificar el registro de sus ingresos y egresos, la documentación comprobatoria sobre el manejo de los mismos, los informes que deben presentar ante el Instituto Electoral de la Ciudad de México, así como las reglas para su revisión y dictamen de acuerdo con lo establecido en el presente Reglamento, dicha fiscalización se realizará en los términos y conforme a los procedimientos previstos en el mismo
 
 ###### Artículo 2.
 
@@ -192,33 +202,49 @@ Para efectos del presente Reglamento, se entenderá por:
 
 A) En cuanto a los ordenamientos legales:
 
-I. Código: Código de Instituciones y Procedimientos Electorales del Distrito Federal, y
+> <small>(REFORMADA, G.O. 18 DE AGOSTO DE 2017)</small>
 
-II. Reglamento: El presente ordenamiento.
+I. Constitución Federal: Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(REFORMADA, G.O. 18 DE AGOSTO DE 2017)</small>
+
+II. Constitución Local: Constitución Política de la Ciudad de México;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 18 DE AGOSTO DE 2017)</small>
+
+III. Código: Código de Instituciones y Procedimientos Electorales de la Ciudad de México; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 18 DE AGOSTO DE 2017)</small>
+
+IV. Reglamento: El presente ordenamiento.
+
+> <small>[N. DE E. MEDIANTE REFORMA PUBLICADA EN LA G.O. DE 18 DE AGOSTO DE 2017, SE MODIFICÓ LA ESTRUCTURA DEL PRESENTE INCISO, PASANDO DE VII A VI FRACCIONES.]</small>
 
 B) En cuanto a los órganos y autoridades:
 
-> <small>(REFORMADA, G.O. 6 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.O. 18 DE AGOSTO DE 2017)</small>
 
-I. Comisión de Fiscalización: Comisión Permanente de Fiscalización del Instituto Electoral;
+I. Instituto Nacional: Instituto Nacional Electoral;
 
-II. Consejo General: Consejo General del Instituto Electoral;
+> <small>(REFORMADA, G.O. 18 DE AGOSTO DE 2017)</small>
 
-III. Instituto Electoral: Instituto Electoral del Distrito Federal;
+II. Instituto Electoral: Instituto Electoral de la Ciudad de México;
 
-IV Instituto Nacional: Instituto Nacional Electoral;
+> <small>(REFORMADA, G.O. 18 DE AGOSTO DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 6 DE DICIEMBRE DE 2016)</small>
+III. Consejo General: Consejo General del Instituto Electoral;
 
-V. Unidad de Fiscalización: Unidad Técnica Especializada de Fiscalización; y
+> <small>(REFORMADA, G.O. 18 DE AGOSTO DE 2017)</small>
 
-> <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE ES IDÉNTICA AL CONTENIDO DE LA FRACCIÓN VII.]</small>
+IV. Comisión de Fiscalización: Comisión Permanente de Fiscalización del Instituto Electoral;
 
-> <small>(REFORMADA, G.O. 6 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.O. 18 DE AGOSTO DE 2017)</small>
 
-VI. Titular de la Unidad de Fiscalización: Funcionaria o funcionario que ocupa el cargo en el Instituto Electoral;
+V. Titular de la Secretaría Ejecutiva: Funcionaria o funcionario que ocupa el cargo en el Instituto Electoral; y
 
-VII. Titular de la Secretaría Ejecutiva: Funcionaria o funcionario que ocupa el cargo en el Instituto Electoral.
+> <small>(REFORMADA, G.O. 18 DE AGOSTO DE 2017)</small>
+
+VI. Unidad de Fiscalización: Unidad Técnica Especializada de Fiscalización del Instituto Electoral.
 
 C) En cuanto a los términos:
 
@@ -242,15 +268,17 @@ IV. Medidas de Apremio: Es el conjunto de instrumentos jurídicos a través de l
 
 V. Medidas de Apremio: Es el conjunto de instrumentos a través de los cuales el Titular de la Secretaría Ejecutiva podrá hacer cumplir las determinaciones emanadas con motivo de la aplicación de este Reglamento, contra quienes se nieguen a proporcionar la información y documentación que les sea requerida, la entreguen en forma incompleta o con datos falsos, o bien, fuera de los plazos establecidos en el requerimiento;
 
-> <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE ES IDÉNTICA AL CONTENIDO DE LA FRACCIÓN VII.]</small>
-
 > <small>(REFORMADA, G.O. 6 DE DICIEMBRE DE 2016)</small>
 
 VI. Notificación: Es el acto formal, mediante el cual se hace del conocimiento del destinatario los actos o determinaciones emitidos por las autoridades competentes dentro de las etapas y procedimientos contenidos en este Reglamento;
 
-VII. Notificación: Es el acto formal, mediante el cual se hace del conocimiento del destinatario los actos o determinaciones emitidos por las autoridades competentes dentro de las etapas del procedimiento contenido en este Reglamento;
+> <small>(REFORMADA, G.O. 18 DE AGOSTO DE 2017)</small>
 
-VIII. Representante: Representante Legal de la Agrupación;
+VII. Representante: El o la Representante Legal de la Agrupación en términos de sus normas estatutarias;
+
+> <small>(REFORMADA, G.O. 18 DE AGOSTO DE 2017)</small>
+
+VIII. Responsable: Persona designada como titular del Órgano de Finanzas interno de la Agrupación, o asimilado, que tiene a su cargo la obtención y administración de los recursos generales y del patrimonio de la Agrupación, así como de la presentación de sus informes de ingresos y egresos y dar contestación a las solicitudes de información establecidas en este Reglamento;
 
 IX. Responsable: Persona designada como titular del Órgano de Finanzas interno de la Agrupación, o asimilado, encargado de la obtención y administración de los recursos generales y del patrimonio de la Agrupación, así como de la presentación de sus informes de ingresos y egresos y dar contestación a las solicitudes de información establecidas en este Reglamento;
 
@@ -266,7 +294,9 @@ D) En cuanto a los formatos y siglas:
 
 APL1: IA.- Formato para el Informe Anual sobre el Origen y Destino de los Recursos.
 
-APL2: DA.- Detalle de Aportaciones de los Afiliados.
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
+
+APL2: DA.- Detalle de Aportaciones de los Afiliados y las Afiliadas.
 
 APL3: DS.- Detalle de Aportaciones de los Simpatizantes.
 
@@ -274,17 +304,23 @@ APL4: DIA.- Detalle de Ingresos por Autofinanciamiento.
 
 APL5: DRF.- Detalle de Ingresos por Rendimientos Financieros de Fondos y Fideicomisos.
 
-APL6: CF-RU.- Control de Folios de Recibos Únicos de Aportaciones de Afiliados y Simpatizantes.
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
+
+APL6: CF-RU.- Control de Folios de Recibos Únicos de Aportaciones de Afiliados, Afiliadas y Simpatizantes.
 
 APL7: CEA.- Control de Eventos de Autofinanciamiento.
 
-APL8: RU.- Recibo Único de Aportaciones de Afiliados y Simpatizantes.
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
+
+APL8: RU.- Recibo Único de Aportaciones de Afiliados, Afiliadas y Simpatizantes.
 
 APL9: RPAP.- Recibo de Reconocimiento por Actividades Políticas.
 
 APL10: CF-RPAP.- Control de Folios de Recibos de Reconocimiento por Actividades Políticas.
 
-APL11: IFV.- Inventario Físico De Activo Fijo Actualizado y Valuado.
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
+
+APL11: IFV Inventario Físico de Activo Fijo Actualizado y Valuado.
 
 APL12 DGAO.- Detalle de los Gastos en Actividades Ordinarias.
 
@@ -324,7 +360,9 @@ c) Código Civil Federal;
 
 d) Reglamento de Fiscalización del Instituto Nacional Electoral;
 
-e) Ley Procesal Electoral para el Distrito Federal;
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
+
+e) Ley Procesal Electoral para la Ciudad de México;
 
 f) Código;
 
@@ -332,11 +370,13 @@ g) Código Civil para el Distrito Federal, y
 
 h) Reglamento de Fiscalización del Instituto Nacional Electoral.
 
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 5.
 
 Aplicación del Reglamento.
 
-La aplicación de este Reglamento es independiente a cualquier otro procedimiento a que haya lugar, con motivo de las responsabilidades que, en su caso, se deriven por el incumplimiento de las obligaciones que presenten compromisos pecuniarios, antes, durante y después de la fiscalización frente a otras autoridades, cometidas por los dirigentes, el Responsable, el Representante, afiliados o simpatizantes de la Agrupación.
+La aplicación de este Reglamento es independiente a cualquier otro procedimiento a que haya lugar, con motivo de las responsabilidades que, en su caso, se deriven por el incumplimiento de las obligaciones que presenten compromisos pecuniarios, antes, durante y después de la fiscalización frente a otras autoridades, cometidas por la dirigencia, la persona Responsable, el o la Representante, las personas afiliadas o simpatizantes de la Agrupación.
 
 ###### Artículo 6.
 
@@ -364,15 +404,15 @@ Normas de información financiera
 
 La Agrupación deberá apegarse, en el control y registro de sus operaciones financieras, a l as (sic) Normas de Información Financiera. Si de la revisión desarrollada por la Unidad de Fiscalización se determinan reclasificaciones, ésta deberá realizarlas en sus registros contables.
 
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 9.
 
 De la estructura organizacional.
 
-Cada Agrupación política deberá integrar una estructura organizacional bien definida y un manual de operaciones que contenga claramente las funciones, facultades y obligaciones de sus órganos de administración, que permita identificar a los responsables de las funciones de administración financiera en sus diferentes fases de obtención, registro, control y aplicación de recursos; así como de la presentación de los informes.
+Cada Agrupación política deberá integrar una estructura organizacional bien definida y un manual de operaciones que contenga claramente las funciones, facultades y obligaciones de sus órganos de administración, que permita identificar a los y las responsables de las funciones de administración financiera en sus diferentes fases de obtención, registro, control y aplicación de recursos; así como de la presentación de los informes.
 
-> <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 2016)</small>
-
-Dentro los primeros quince días de cada año, cada Agrupación notificará o ratificará a l a (sic) Unidad de Fiscalización el nombre del o l os (sic) responsables del órgano de finanzas, así como los cambios en su integración, según corresponda; adicionalmente, deberán informar el domicilio y teléfono de la Agrupación anexando copia del comprobante de domicilio vigente. Los cambios que realice en su órgano de finanzas, en su domicilio o en el teléfono en el transcurso del año, deberán ser notificados en un plazo máximo de diez días a partir de la designación o cambio respectivo.
+Dentro de los primeros quince días de cada año, cada Agrupación notificará o ratificará a la Unidad de Fiscalización el nombre de la o las personas responsables del órgano de finanzas, así como los cambios en su integración, según corresponda; adicionalmente, deberán informar el domicilio y teléfono de la Agrupación anexando copia del comprobante de domicilio vigente. Los cambios que realice en su órgano de finanzas, en su domicilio o en el teléfono en el transcurso del año, deberán ser notificados en un plazo máximo de diez días a partir de la designación o cambio respectivo.
 
 ### CAPÍTULO II. DE LAS AUTORIDADES COMPETENTES
 
@@ -412,9 +452,9 @@ Las actuaciones relacionadas con el presente Reglamento se practicarán en días
 
 Se entenderán por días hábiles, todos los días con excepción de los sábados y domingos y los no laborables en términos de la normativa aplicable y aquéllos en los que no haya actividad en el Instituto Electoral. Asimismo, por horas hábiles se entenderán aquéllas comprendidas dentro del horario laboral aprobado por la Junta Administrativa del Instituto Electoral al momento del inicio de los procedimientos establecidos en el presente Reglamento.
 
-> <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
 
-Una vez iniciada la actuación de que se trate, el funcionario encargado, previo consenso con el Responsable de la Agrupación, con quien se esté entendiendo el acto, podrá habilitar días y horas para que sean hábiles hasta la conclusión de la misma, haciéndolo constar en el acta correspondiente.
+Una vez iniciada la actuación de que se trate, el funcionario o la funcionaria encargado(a), previo consenso con la persona Responsable de la Agrupación, con quien se esté entendiendo el acto, podrá habilitar días y horas para que sean hábiles hasta la conclusión de la misma, haciéndolo constar en el acta correspondiente.
 
 ### CAPÍTULO IV. DE LAS MEDIDAS DE APREMIO
 
@@ -432,15 +472,19 @@ II. Amonestación privada;
 
 III. Amonestación pública;
 
-IV. Multa de cincuenta hasta doscientas veces la UMA. En caso de reincidencia se podrá aplicar el doble de la cantidad señalada. La multa se cobrará de conformidad con lo dispuesto en el artículo 375 del Código; y
+> <small>(REFORMADA, G.O. 18 DE AGOSTO DE 2017)</small>
+
+IV. Multa de cincuenta hasta cinco mil veces la UMA. En caso de reincidencia se podrá aplicar el doble de la cantidad señalada. La multa se cobrará de conformidad con lo dispuesto en el artículo 6 de la Ley Procesal Electoral para Ciudad de México;
 
 V. Auxilio de la fuerza pública.
+
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 15.
 
 Omisión de las autoridades de proporcionar información.
 
-Cuando las autoridades de la Ciudad de México no proporcionen en tiempo y forma la información que les sea requerida, una vez conocida la infracción, se integrará un expediente que será remitido al superior jerárquico de la autoridad infractora, para que éste proceda en los términos de ley. El superior jerárquico deberá comunicar en un término no mayor a cinco días al Instituto Electoral, las medidas que haya adoptado en el caso, así como ordenar la entrega inmediata de la información requerida.
+Cuando las autoridades de la Ciudad de México no proporcionen en tiempo y forma la información que les sea requerida, una vez conocida la infracción, la Unidad de Fiscalización integrará un expediente, que será remitido por el o la Titular de la Secretaría Ejecutiva a la o el superior jerárquico de la autoridad infractora, para que proceda en los términos de ley. La o el superior jerárquico deberá comunicar, en un término no mayor a cinco días, al Instituto Electoral, las medidas que haya adoptado en el caso, así como ordenar la entrega inmediata de la información requerida.
 
 ### CAPÍTULO V. DE LAS NOTIFICACIONES
 
@@ -460,13 +504,15 @@ Las notificaciones, según se requiera para la eficacia del acto a notificar, se
 
 I. Personal, cuando así se determine, pero en todo caso, lo serán las siguientes:
 
-a. Los requerimientos realizados al Responsable o al Representante de la Agrupación, y
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
+
+a. Los requerimientos realizados a la persona Responsable o Representante de la Agrupación, y
 
 b. Los acuerdos o determinaciones de los procedimientos regulados por este ordenamiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE AGOSTO DE 2017)</small>
 
-II. Por estrados, cuando no sea posible notificar personalmente al interesado, atendiendo a lo establecido en el artículo 17, incisos e. y f. del presente Reglamento.
+II. Por estrados, cuando no sea posible notificar personalmente al interesado, atendiendo a lo establecido en el artículo 18, incisos e. y f. del presente Reglamento.
 
 > <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 2016)</small>
 
@@ -484,17 +530,23 @@ Procedimiento de las notificaciones personales.
 
 Las notificaciones personales se efectuarán con la persona interesada o con las que éste haya autorizado para tal efecto. En la práctica, se deberá observar el procedimiento siguiente:
 
-a) El notificador deberá cerciorarse, por todos los medios posibles de encontrase en el domicilio de la persona que deba ser notificada y practicará la diligencia entregando al interesado o a cualquiera de las personas autorizadas por éste, el documento original, copia certificada o autorizada del mismo, según corresponda, y deberá solicitar la firma autógrafa de recibido e identificación oficial de la persona que atienda la diligencia, procediendo a elaborar la cédula de notificación respectiva.
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
 
-b) En caso de no encontrarse al interesado en el domicilio o, en su caso, a las personas autorizadas, el notificador levantará un acta en la que se asentarán las circunstancias de tiempo, modo y lugar correspondientes, detallando las razones por las cuales no fue posible notificar al interesado personalmente, procediendo a dejar un citatorio con cualquier persona que allí se encuentre, siempre que dicha persona sea mayor de edad y no muestre signos de incapacidad, a fin de realizar la notificación de manera personal al siguiente día hábil.
+a) El notificador deberá cerciorarse, por todos los medios posibles de encontrase en el domicilio de la persona que deba ser notificada y practicará la diligencia entregando a la persona interesada o a cualquiera de las personas autorizadas por éste (a), el documento original, copia certificada o autorizada del mismo, según corresponda, y deberá solicitar la firma autógrafa de recibido e identificación oficial de la persona que atienda la diligencia, procediendo a elaborar la cédula de notificación respectiva.
 
-> <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
 
-c) En el supuesto que la persona que se encuentre en el domicilio se niegue a recibir el citatorio o no hubiera nadie en el lugar, éste deberá fijarse en la puerta de entrada y realizar la notificación de manera personal, dentro del plazo que según corresponda, conforme a lo previsto en el párrafo que antecede y a lo señalado en el artículo 17, fracción II de este Reglamento.
+b) En caso de no encontrarse al interesado o interesada en el domicilio o, en su caso, a las personas autorizadas, el notificador levantará un acta en la que se asentarán las circunstancias de tiempo, modo y lugar correspondientes, detallando las razones por las cuales no fue posible notificar al interesado o interesada personalmente, procediendo a dejar un citatorio con cualquier persona que allí se encuentre, siempre que dicha persona sea mayor de edad y no muestre signos de incapacidad, a fin de realizar la notificación de manera personal al siguiente día hábil.
+
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
+
+c) En el supuesto que la persona que se encuentre en el domicilio se niegue a recibir el citatorio o no hubiera nadie en el lugar, éste deberá fijarse en la puerta de entrada y realizará la notificación de manera personal, dentro del plazo que según corresponda, conforme a lo previsto en el inciso que antecede y a lo señalado en el artículo 17, fracción II de este Reglamento.
 
 d) En el caso de que el domicilio señalado por la persona a quien va dirigida la notificación no resulte cierto o no exista, la notificación se practicará por estrados, levantándose acta circunstanciada de lo actuado.
 
-e) En el día y hora fijada en el citatorio, el notificador se constituirá nuevamente en el domicilio para practicar la diligencia y si el interesado o, en su caso, las personas autorizadas, se negaran a recibir la notificación o no se encontraran en ese momento, el documento a notificar deberá entregarse a cualquier persona que se encuentre en el domicilio, siempre que sea mayor de edad y no muestre signos de incapacidad, indicando su relación con el interesado o, en su caso, que se negó a proporcionarla.
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
+
+e) En el día y hora fijada en el citatorio, la o el notificador se constituirá nuevamente en el domicilio para practicar la diligencia y si el interesado o interesada o, en su caso, las personas autorizadas, se negaran a recibir la notificación o no se encontraran en ese momento, el documento a notificar deberá entregarse a cualquier persona que se encuentre en el domicilio, siempre que sea mayor de edad y no muestre signos de incapacidad, indicando su relación con la persona interesada o, en su caso, que se negó a proporcionarla.
 
 f) En los casos que las personas que se encuentren en el domicilio se rehusaran a recibir la notificación o no haya persona alguna con quien pueda entenderse la diligencia, se fijará la cédula y copia del documento a notificar en la puerta de entrada del domicilio y se levantará acta circunstanciada con la razón de lo actuado. Asimismo, la notificación se publicará en los estrados de las oficinas centrales del Instituto Electoral.
 
@@ -514,15 +566,21 @@ II. Datos referentes al órgano que dictó el acto;
 
 III. Datos que den certeza respecto a que el notificador se cercioró de estar en el domicilio correcto;
 
-IV. Día y hora en que se deja el citatorio y, en su caso, el nombre de la persona a la que se le entrega, indicando su relación con el interesado, o bien, que se negó a proporcionarla;
+> <small>(REFORMADA, G.O. 18 DE AGOSTO DE 2017)</small>
+
+IV. Día y hora en que se deja el citatorio y, en su caso, el nombre de la persona a la que se le entrega, indicando su relación con la persona interesada, o bien, que se negó a proporcionarla;
 
 V. Fundamentación y motivación;
 
-VI. El señalamiento del día y la hora en la que el interesado deberá esperar al notificador;
+> <small>(REFORMADA, G.O. 18 DE AGOSTO DE 2017)</small>
+
+VI. El señalamiento del día y la hora en la que el interesado o interesada deberá esperar al notificador;
 
 VII. Nombre, acreditación y firma del notificador;
 
-VIII. El apercibimiento al interesado que de no atender el citatorio, la notificación se realizará con cualquier persona que se encuentre en el domicilio; y
+> <small>(REFORMADA, G.O. 18 DE AGOSTO DE 2017)</small>
+
+VIII. El apercibimiento para que en caso de no atender el citatorio, la notificación se realizará con cualquier persona que se encuentre en el domicilio; y
 
 IX. Nombre y firma, en su caso, de la persona con quien se entendió la diligencia.
 
@@ -566,17 +624,21 @@ VI. Manifestación de haber dejado citatorio requiriendo la espera de la persona
 
 VII. Referencia de lazo familiar o relación de la persona con quien se entiende la diligencia y la persona a notificar.
 
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 20.
 
 Notificación por comparecencia.
 
-Las notificaciones personales podrán realizarse por comparecencia del interesado, de su representante o de su autorizado. En tales casos, se deberá elaborar la razón de la comparecencia y agregarse una copia simple de la identificación oficial con la cual se haya identificado el compareciente, y en su caso, copia simple del documento que acredite la personería con la que se ostenta.
+Las notificaciones personales podrán realizarse por comparecencia del interesado o de la interesada, de su representante o de su autorizado/a. En tales casos, se deberá elaborar la razón de la comparecencia y agregarse una copia simple de la identificación oficial con la cual se haya identificado el o la compareciente, y en su caso, copia simple del documento que acredite la personería con la que se ostenta.
+
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 21.
 
 Lugar para la práctica de las notificaciones personales.
 
-Las notificaciones personales se practicarán en el domicilio de la Agrupación, o bien, en el que haya proporcionado el Responsable o Representante.
+Las notificaciones personales se practicarán en el domicilio de la Agrupación, o bien, en el que haya proporcionado la persona Responsable o el o la Representante.
 
 ###### Artículo 22.
 
@@ -644,9 +706,9 @@ En los informes indicarán el origen y monto de los ingresos y egresos totales q
 
 Reglas para la presentación de la información financiera.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE AGOSTO DE 2017)</small>
 
-Las Agrupaciones deberán presentar a la Unidad de Fiscalización, el informe anual en forma impresa y medio magnético, debidamente suscrito por el Responsable o Representante, atendiendo a lo siguiente:
+Las Agrupaciones deberán presentar a la Unidad de Fiscalización, el informe anual en forma impresa y en medio electrónico, debidamente suscrito por la persona Responsable o el o la Representante, atendiendo a lo siguiente:
 
 I. Será presentado a más tardar dentro de los sesenta días siguientes al último día de diciembre del año del ejercicio que se reporte. En éste serán reportados los ingresos y egresos totales que la Agrupación haya realizado durante el ejercicio objeto del informe. Todos los ingresos y los gastos que se reporten en dicho informe deberán estar debidamente registrados en la contabilidad, de conformidad con el catálogo de cuentas y soportados con la documentación comprobatoria que este Reglamento exige. Se deberá reportar como saldo inicial, el saldo final de todas las cuentas contables de Caja, Bancos y en su caso, Inversiones en valores correspondientes al ejercicio inmediato anterior.
 
@@ -658,9 +720,9 @@ II. Los informes deberán estar respaldados con todas las operaciones contables 
 
 III. Los egresos no reportados en el informe por la Agrupación detectados por la Unidad de Fiscalización en el despliegue de sus funciones fiscalizadoras, serán computados a sus gastos.
 
-> <small>(REFORMADA, G.O. 6 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.O. 18 DE AGOSTO DE 2017)</small>
 
-IV. La información señalada en las fracciones I, II y III de este mismo artículo, deberá presentarse en los formatos establecidos en el presente Reglamento, APL 1: IA; APL 2: DA; APL 3: DS; APL 4: DIA; APL 5: DRF; APL 6: CF RU; APL 7: CEA; APL 10: CF-RPAP; APL 11: IFV; APL 12: DGAO; APL 13: NEA; APL 14: NSA; APL 15: RNEA y APL 16: RNSA, mismos que deberán estar suscritos por el Responsable de Finanzas.
+IV. La información señalada en las fracciones I, II y III de este mismo artículo, deberá presentarse en los formatos establecidos en el presente Reglamento, APL-1: IA, APL-2: DA, APL-3: DS, APL-4: DIA, APL-5: DRF, APL-6: CF-RU, APL-7: CEA, APL-10: CF-RPAP, APL 11: IFV; APL 12: DGAO y APL 17: DMO, mismos que deberán estar suscritos por la persona Responsable de Finanzas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE DICIEMBRE DE 2016)</small>
 
@@ -676,7 +738,9 @@ c) El Balance General con cifras al 31 de diciembre y el Estado de Resultados de
 
 d) Las balanzas de comprobación mensuales a último nivel, la balanza acumulada anual consolidada y los registros auxiliares contables acumulados correspondientes al último nivel, por el periodo sujeto a revisión;
 
-e) El Control de Folios del Recibo Único de Aportaciones de Afiliados y Simpatizantes, así como el Registro Individual y Acumulado de Aportaciones por Persona;
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
+
+e) El Control de Folios del Recibo Único de Aportaciones de Afiliados, Afiliadas y Simpatizantes, así como el Registro Individual y Acumulado de Aportaciones por Persona;
 
 f) El Control de Folios de Recibos de Reconocimiento por Actividades Políticas;
 
@@ -698,7 +762,9 @@ l) El inventario físico de la cuenta de Almacén;
 
 m) El Detalle de Ingresos por Rendimientos Financieros, Fondos y Fideicomisos;
 
-n) El Detalle de Montos Aportados por los Afiliados;
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
+
+n) El Detalle de Montos Aportados por los Afiliados y las Afiliadas;
 
 o) El Detalle de los Montos Aportados por Simpatizantes;
 
@@ -706,11 +772,9 @@ p) Si al final del ejercicio existiera un pasivo en la contabilidad, éste deber
 
 q) En caso de haber participado, en los programas del Instituto Electoral, campañas políticas o de acciones específicas el documento que así lo acredite;
 
-> <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
 
-r) Toda la documentación que la Agrupación presente a la Unidad de
-
-Fiscalización deberá relacionarse en el formato APL 17: DID, establecido en el presente Reglamento;
+r) Toda la documentación que la Agrupación presente a la Unidad de Fiscalización deberá relacionarse en el formato APL-13: DID, establecido en el presente Reglamento;
 
 s) En su caso copia del acuerdo de participación con algún partido político o coalición que celebre para participar en un proceso electoral registrado ante el Instituto Electoral;
 
@@ -738,9 +802,9 @@ VI. La revisión documental se llevará a cabo en las instalaciones de la Unidad
 
 VII. La Unidad de Fiscalización informará a las Agrupaciones, cuando menos con quince días naturales de anticipación, la fecha límite para la presentación del Informe Anual.
 
-> <small>(ADICIONADA, G.O. 6 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.O. 18 DE AGOSTO DE 2017)</small>
 
-VIII. Del desarrollo de la verificación documental, se levantarán dos actas, una al inicio de los trabajos y otra a la conclusión de los mismos, las cuales se firmarán por el personal técnico encargado de la revisión y el Responsable de la Agrupación, o a quien éste designe por escrito.
+VIII. Del desarrollo de la verificación documental, se levantarán dos actas, una al inicio de los trabajos y otra a la conclusión de los mismos, las cuales se firmarán por el personal técnico encargado de la revisión y la persona Responsable de la Agrupación, o a quien ésta designe por escrito.
 
 > <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 2016)</small>
 
@@ -764,27 +828,37 @@ Las Agrupaciones podrán financiarse para el desarrollo de sus actividades únic
 
 Generalidades.
 
-Todos los ingresos en dinero, como en especie que reciban las agrupaciones de sus afiliados, de simpatizantes, autofinanciamiento y por rendimientos financieros, fondos y fideicomisos, deberán registrarse contablemente y estar sustentados con la documentación original correspondiente, en términos de lo establecido en el presente Reglamento.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE AGOSTO DE 2017)</small>
+
+Todos los ingresos en dinero, como en especie que reciban las agrupaciones de sus afiliados, afiliadas, de simpatizantes, autofinanciamiento y por rendimientos financieros, fondos y fideicomisos, deberán registrarse contablemente y estar sustentados con la documentación original correspondiente, en términos de lo establecido en el presente Reglamento.
 
 Los registros contables de la Agrupación deben especificar y diferenciar los ingresos que obtenga tanto en dinero como en especie.
 
-La Agrupación deberá llevar un control de folios de los recibos de las aportaciones que reciba, el cual permitirá verificar la totalidad de las aportaciones realizadas por afiliados y por simpatizantes. Los controles de folios deberán remitirse en medios impresos y magnéticos anexos con los informes correspondientes.
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
+
+La Agrupación deberá llevar un control de folios de los recibos de las aportaciones que reciba, el cual permitirá verificar la totalidad de las aportaciones realizadas por afiliados, afiliadas y por simpatizantes. Los controles de folios deberán remitirse en medios impresos y magnéticos anexos con los informes correspondientes.
+
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 31.
 
 De los Aportantes.
 
-La Agrupación deberá entregar una relación anual de los nombres de los aportantes y, en su caso, las cuentas del origen del recurso, que necesariamente deberán estar a nombre de quien realice la aportación.
+La Agrupación deberá entregar una relación anual de los nombres de las personas que le realicen aportaciones y, en su caso, las cuentas del origen del recurso, que necesariamente deberán estar a nombre de quien realice la aportación.
 
 ###### Artículo 32.
 
 Entes impedidos para realizar aportaciones.
 
-En ningún caso y bajo ninguna circunstancia podrán realizar aportaciones, donaciones, condonaciones de deuda, descuentos, bonificaciones, quitas, prestar servicios personales o entregar bienes a título gratuito o en comodato a la Agrupación, las personas siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE AGOSTO DE 2017)</small>
+
+En ningún caso y bajo ninguna circunstancia podrán realizar aportaciones, donaciones, condonaciones de deuda, descuentos, bonificaciones, quitas, prestar servicios personales o entregar bienes a título gratuito a la Agrupación, las personas siguientes:
 
 a) Las personas jurídicas de carácter público, sean éstas de la Federación, de los Estados, los Ayuntamientos o del Gobierno de la Ciudad de México u Órganos Políticos-Administrativos, salvo los establecidos en la ley;
 
-b) Los servidores públicos, respecto de los bienes muebles e inmuebles y los recursos financieros y humanos que administren y se encuentren destinados para los programas o actividades institucionales;
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
+
+b) Las personas servidoras públicas, respecto de los bienes muebles e inmuebles y los recursos financieros y humanos que administren y se encuentren destinados para los programas o actividades institucionales;
 
 c) Los partidos políticos, personas físicas o jurídicas extranjeras;
 
@@ -802,9 +876,9 @@ Asimismo, queda prohibido a la Agrupación obtener financiamiento, créditos o e
 
 Requisitos de los Recibos de Aportaciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE AGOSTO DE 2017)</small>
 
-El Responsable o Titular del Órgano Directivo correspondiente, deberá autorizar la impresión del recibo único de afiliados y simpatizantes en una serie única en el que se señalará el tipo de aportación en el formato APL8 RU que se expedirá para acreditar las aportaciones tanto en dinero como en especie.
+La persona Responsable deberá autorizar la impresión del recibo único de afiliados, afiliadas y simpatizantes en una serie única en el que se señalará el tipo de aportación en el formato APL8 RU que se expedirá para acreditar las aportaciones tanto en dinero como en especie.
 
 > <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 2016)</small>
 
@@ -812,9 +886,13 @@ La serie de recibos se imprimirá por triplicado, original y dos copias, con fol
 
 Los recibos se expedirán en forma consecutiva, sin dejar intermedios como pendientes de utilizar, en el caso de que existan se deberán cancelar.
 
-La Agrupación deberá recabar y entregar a la autoridad electoral la totalidad de los recibos que respalden las aportaciones realizadas, mismos que deberán contener cuando menos los siguientes datos:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE AGOSTO DE 2017)</small>
 
-a) Nombre y Registro Federal de Contribuyentes del aportante o CURP;
+La Agrupación deberá recabar y entregar a la autoridad electoral la totalidad de los recibos que respalden las aportaciones recibidas, mismos que deberán contener cuando menos los siguientes datos:
+
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
+
+a) Nombre y Registro Federal de Contribuyentes del o la aportante o CURP;
 
 b) Domicilio y número telefónico;
 
@@ -822,15 +900,21 @@ c) Monto de la aportación con número y letra;
 
 d) Lugar y Fecha;
 
-e) Firma del aportante; y
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
 
-f) Nombre y firma del Responsable.
+e) Firma del o la aportante; y
+
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
+
+f) Nombre y firma de la persona Responsable.
 
 ###### Artículo 34.
 
 Requisitos de los Controles de Folios.
 
-De los recibos que se impriman y expida la Agrupación, el Responsable o Representante llevará un control de folios que deberá contener al menos los siguientes datos:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE AGOSTO DE 2017)</small>
+
+De los recibos que se impriman y expida la Agrupación, la persona Responsable llevará un control de folios que deberá contener al menos los siguientes datos:
 
 a) Número total de recibos impresos;
 
@@ -842,9 +926,9 @@ d) Recibos pendientes de utilizar; y
 
 e) Último folio del recibo utilizado en el ejercicio anterior.
 
-> <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
 
-Además, deberá requisitarse en su totalidad el formato APL6 CF-RU e integrarse un registro individual y centralizado del financiamiento en dinero proveniente de afiliados y simpatizantes. Este registro permitirá conocer el monto acumulado de las aportaciones por persona y se remitirá a la Unidad de Fiscalización, conjuntamente con sus informes.
+Además, deberá requisitarse en su totalidad el formato APL6 CF-RU e integrarse un registro individual y centralizado del financiamiento en dinero proveniente de afiliados, afiliadas y simpatizantes. Este registro permitirá conocer el monto acumulado de las aportaciones por persona y se remitirá a la Unidad de Fiscalización junto con sus informes.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 6 DE DICIEMBRE DE 2016)</small>
 
@@ -856,27 +940,31 @@ Control de los ingresos en dinero.
 
 Los ingresos en dinero que reciba la Agrupación deberán depositarse, dentro de los cinco días siguientes a su recepción, en cuentas bancarias de cheques a nombre de la misma.
 
-Todas las cuentas bancarias de la Agrupación serán manejadas mancomunadamente por el Responsable o el titular del órgano interno que corresponda y la persona que la Agrupación designe para tal propósito; asimismo, se informará de los rendimientos financieros que ésta produzca y se identificará contablemente como CBOE (Agrupación) – (Número).
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
 
-> <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 2016)</small>
+Todas las cuentas bancarias de la Agrupación serán manejadas mancomunadamente por la o el Responsable y la persona que la Agrupación designe para tal propósito; asimismo, se informará de los rendimientos financieros que ésta produzca y se identificará contablemente como CBOE (Agrupación) – (Número).
 
-Los registros contables de las cuentas bancarias deberán conciliarse mensualmente con los estados de cuenta bancarios respectivos. Las conciliaciones bancarias, así como el registro de firmas autorizadas de los funcionarios facultados para suscribir en la cuenta bancaria, deberán remitirse a la Unidad de Fiscalización cuando ésta lo solicite o así lo establezca el presente Reglamento.
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
+
+Los registros contables de las cuentas bancarias deberán conciliarse mensualmente con los estados de cuenta bancarios respectivos. Las conciliaciones bancarias, así como el registro de firmas autorizadas de las personas facultadas para suscribir en la cuenta bancaria, deberán remitirse a la Unidad de Fiscalización cuando ésta lo solicite o así lo establezca el presente Reglamento.
+
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 36.
 
 Aportaciones en dinero superiores a doscientas veces la UMA.
 
-Cuando las aportaciones en dinero de afiliados y simpatizantes efectuado a la Agrupación rebase la cantidad equivalente a doscientas veces la UMA, deberá realizarse mediante cheque nominativo de la cuenta del aportante, o bien, a través de transferencia electrónica interbancaria en la que se utilice la clave bancaria estandarizada CLABE, cuyos comprobantes impresos emitidos la institución bancaria incluirán la información necesaria para su identificación, que podrá consistir en el número de cuenta de origen, banco de origen, fecha, nombre completo del titular y tipo de cuenta de origen, banco de destino, nombre completo del beneficiario y número de cuenta de destino, la cual deberá ser alguna de las cuentas bancarias del órgano directivo referidas en este Reglamento, y en el rubro denominado -leyenda”, -motivo de pago”, -referencia” u otra similar, se deberá hacer referencia al tipo de aportante (afiliado o simpatizante), en ambos casos deberá anexarse una copia a la póliza contable.
+Cuando las aportaciones en dinero de afiliados, afiliadas y simpatizantes efectuadas a la Agrupación rebasen la cantidad equivalente a doscientas veces la UMA, deberán realizarse mediante cheque nominativo de la cuenta del o la aportante, o bien, a través de transferencia electrónica interbancaria en la que se utilice la clave bancaria estandarizada CLABE, cuyos comprobantes impresos emitidos la institución bancaria incluirán la información necesaria para su identificación, que podrá consistir en el número de cuenta de origen, banco de origen, fecha, nombre completo de la persona titular y tipo de cuenta de origen, banco de destino, nombre completo del o la beneficiaria y número de cuenta de destino, la cual deberá ser alguna de las cuentas bancarias del órgano directivo referidas en este Reglamento, y en el rubro denominado “leyenda”, “motivo de pago”, “referencia” u otra similar, se deberá hacer referencia al tipo de aportante (afiliado, afiliada o simpatizante), en ambos casos deberá anexarse una copia a la póliza contable.
 
-Cuando una misma persona realice más de una aportación en dinero, en el mismo mes de calendario y dichas aportaciones en su conjunto superen la cantidad equivalente a doscientas veces la UMA, a partir del momento en que excedan el límite referido, deberán realizarse mediante cheque nominativo de la cuenta personal del aportante, en caso de no contar con una cuenta de cheques podrá realizarse a través de la compra de un cheque de caja o giro bancario, siendo que en ambos casos la Agrupación deberá anexar una copia a la póliza contable.
+Cuando una misma persona realice más de una aportación en dinero, en el mismo mes de calendario y dichas aportaciones en su conjunto superen la cantidad equivalente a doscientas veces la UMA, a partir del momento en que excedan el límite referido, deberán realizarse mediante cheque nominativo de la cuenta personal del o la aportante, en caso de no contar con una cuenta de cheques podrá realizarse a través de la compra de un cheque de caja o giro bancario, siendo que en ambos casos la Agrupación deberá anexar una copia a la póliza contable.
 
-> <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 37.
 
 Registro de las aportaciones en dinero.
 
-La Agrupación integrará un registro individual y centralizado del financiamiento en dinero proveniente de afiliados y simpatizantes. Este registro permitirá conocer el monto acumulado de las aportaciones por persona y se remitirá a la Unidad de Fiscalización, conjuntamente con sus informes.
+La Agrupación integrará un registro individual y centralizado del financiamiento en dinero proveniente de afiliados, afiliadas y simpatizantes. Este registro permitirá conocer el monto acumulado de las aportaciones por persona y se remitirá a la Unidad de Fiscalización junto con sus informes.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 6 DE DICIEMBRE DE 2016)</small>
 
@@ -906,11 +994,13 @@ Descripción en el recibo del bien aportado.
 
 En el caso de las aportaciones en especie, deberá expresarse en el cuerpo del recibo la descripción relativa al bien aportado, incluyendo el valor de mercado, en los términos de los artículos 41, 42 y 43 del presente Reglamento.
 
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 40.
 
 Aportaciones en especie superiores a doscientas veces la UMA.
 
-El financiamiento en especie que rebase la cantidad de doscientas veces la UMA, deberá formalizarse mediante contrato escrito, el que deberá contener los datos de identificación del aportante, así como el valor de mercado del bien aportado. Quedan comprendidas dentro del límite señalado, aquellas aportaciones realizadas por la misma persona que en el transcurso de un mes rebasen dicho tope.
+El financiamiento en especie que rebase la cantidad de doscientas veces la UMA, deberá formalizarse mediante contrato escrito, el que deberá contener los datos de identificación del o la aportante, así como el valor de mercado del bien aportado. Quedan comprendidas dentro del límite señalado, aquellas aportaciones realizadas por la misma persona que en el transcurso de un mes rebasen dicho tope.
 
 ###### Artículo 41.
 
@@ -970,21 +1060,27 @@ Tipos de financiamiento privado.
 
 El financiamiento privado tendrá las siguientes modalidades:
 
-a) Financiamiento de los afiliados;
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
+
+a) Financiamiento de los afiliados y afiliadas;
 
 b) Financiamiento de simpatizantes;
 
-c) El autofinanciamiento;
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
 
-d) Ingresos por rendimientos financieros; y
+c) El autofinanciamiento; y
 
-> <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
+
+d) Ingresos por rendimientos financieros.
+
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 48.
 
-Financiamiento de los afiliados en dinero y en especie.
+Financiamiento de los afiliados y afiliadas en dinero y en especie.
 
-El financiamiento que provenga de los afiliados estará conformado por las aportaciones, cuotas y donativos individuales y tanto obligatorias ordinarias como las extraordinarias, en dinero o en especie, para lo cual se deberán presentar a la Unidad de Fiscalización el detalle de las mismas en el formato APL 2 DA.
+El financiamiento que provenga de las personas afiliadas estará conformado por las aportaciones, cuotas y donativos individuales y obligatorias, ordinarias y las extraordinarias, en dinero o en especie, para lo cual se deberán presentar a la Unidad de Fiscalización el detalle de las mismas en el formato APL 2 DA.
 
 ###### Artículo 49.
 
@@ -1006,19 +1102,23 @@ Autofinanciamiento.
 
 El autofinanciamiento de la Agrupación estará constituido por los ingresos que obtengan por sus actividades promocionales, tales como conferencias, espectáculos, juegos, sorteos, eventos culturales, ventas editoriales, de bienes y propaganda utilitaria, así como cualquier otra similar que realicen para allegarse de fondos. El detalle de ingresos por autofinanciamiento será reportado en el formato APL-4 (DIA), requisitado en su totalidad y remitido conjuntamente con el informe anual correspondiente.
 
-Los ingresos por autofinanciamiento estarán respaldados documentalmente y debidamente registrados en la contabilidad de la agrupación, y cada evento será reportado en el formato APL-7 (CEA), el cual contendrá: número consecutivo, tipo y lugar del evento, forma de administrarlo, fuente de ingresos, control de folios, números y fechas de las autorizaciones legales para su celebración, importe total de los ingresos obtenidos, importe desglosado de los gastos en que se haya incurrido, así como el nombre y firma del titular del órgano directivo.
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
+
+Los ingresos por autofinanciamiento estarán respaldados documentalmente y debidamente registrados en la contabilidad de la agrupación, y cada evento será reportado en el formato APL-7 (CEA), el cual contendrá: número consecutivo, tipo y lugar del evento, forma de administrarlo, fuente de ingresos, control de folios, números y fechas de las autorizaciones legales para su celebración, importe total de los ingresos obtenidos, importe desglosado de los gastos en que se haya incurrido, así como el nombre y firma de la persona Responsable.
 
 Adicionalmente, junto a cada formato APL-7 (CEA), se presentará el desglose de los ingresos obtenidos, así como la relación detallada de los gastos efectuados, que estarán registrados en la contabilidad de la Agrupación.
 
-En los eventos derivados de juegos y sorteos que sean administrados y operados por terceros, para los fines del presente Reglamento, se contará con la documentación comprobatoria de la relación contractual respectiva; de la entrega de premios e identificación oficial del ganador del premio.
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
+
+En los eventos derivados de juegos y sorteos que sean administrados y operados por terceras personas, para los fines del presente Reglamento, se contará con la documentación comprobatoria de la relación contractual respectiva; de la entrega de premios e identificación oficial del ganador o ganadora del premio.
 
 ###### Artículo 51.
 
 Autofinanciamiento mediante colectas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE AGOSTO DE 2017)</small>
 
-La Agrupación deberá informar por escrito a la Unidad de Fiscalización, dentro de los diez días previos, del inicio de cada colecta, la temporalidad para la realización de colectas, así como el ámbito territorial, todos los ingresos recaudados por este concepto deberán ser depositados en la cuenta bancaria a más tardar dentro de los cinco días siguientes de que concluya la colecta; así como el nombre del responsable de cada una de ellas.
+La Agrupación deberá informar por escrito a la Unidad de Fiscalización, dentro de los diez días previos, del inicio de cada colecta, la temporalidad para la realización de colectas, el ámbito territorial, así como el nombre del o la responsable de cada una de ellas; todos los ingresos recaudados por este concepto deberán ser depositados en la cuenta bancaria a más tardar dentro de los cinco días siguientes de que concluya la colecta.
 
 Los gastos realizados con motivo de la organización de cada una de las colectas, deberán estar registrados contablemente en el rubro que correspondan, los cuales serán respaldados con la documentación comprobatoria original respectiva, y deberá reunir los requisitos establecidos en el presente reglamento y en las disposiciones fiscales.
 
@@ -1026,7 +1126,9 @@ Los gastos realizados con motivo de la organización de cada una de las colectas
 
 Rendimientos financieros.
 
-Para obtener financiamiento por rendimientos financieros, la agrupación podrá crear fondos o fideicomisos con su patrimonio o con las aportaciones que reciban de sus afiliados y simpatizantes o bien con recursos que por actividades de autofinanciamiento obtengan, con excepción de valores bursátiles, el detalle de ingresos por rendimientos financieros, fondos y fideicomisos será presentado en el formato APL-5 (DRF).
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE AGOSTO DE 2017)</small>
+
+Para obtener financiamiento por rendimientos financieros, la agrupación podrá crear fondos o fideicomisos con su patrimonio o con las aportaciones que reciban de sus afiliados, afiliadas y simpatizantes o bien con recursos que por actividades de autofinanciamiento obtengan, con excepción de valores bursátiles, el detalle de ingresos por rendimientos financieros, fondos y fideicomisos será presentado en el formato APL-5 (DRF).
 
 Para efectos del presente Reglamento, se considerarán valores bursátiles todos aquellos que se encuentren inscritos, con el carácter de acciones en el Registro Nacional de Valores, de cualquier sección, subsección o emisión, incluyendo las acciones adquiridas a través de sociedades de interés.
 
@@ -1052,9 +1154,9 @@ c) Deberá incluirse en el contrato correspondiente una cláusula por la que se 
 
 d) Los fondos y fideicomisos constituidos y sus modificaciones, deberán ser informados por escrito a la Unidad de Fiscalización, remitiendo un ejemplar del contrato o convenio correspondiente, dentro de los cinco días siguientes a su constitución o modificación. La Unidad de Fiscalización llevará el control de tales contratos y verificará que las operaciones que se realicen se apeguen a lo establecido en el presente Reglamento; y
 
-> <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
 
-e) Los ingresos que reciba la agrupación por rendimientos financieros, fondos o fideicomisos, estarán sustentados con los estados de cuenta que les remitan las instituciones bancarias o financieras, así como por los documentos en que consten los actos constitutivos o modificatorios de las operaciones financieras de los fondos o fideicomisos, remitiéndose a la Unidad de Fiscalización, con las firmas autorizadas de los funcionarios facultados para suscribir en las mismas, conjuntamente con el Informe anual.
+e) Los ingresos que reciba la Agrupación por rendimientos financieros, fondos o fideicomisos, estarán sustentados con los estados de cuenta que les remitan las instituciones bancarias o financieras, así como por los documentos en que consten los actos constitutivos o modificatorios de las operaciones financieras de los fondos o fideicomisos, remitiéndose a la Unidad de Fiscalización, con las firmas de las personas facultadas para suscribir en las mismas, juntamente con el Informe anual.
 
 ### CAPÍTULO IV. DE LOS EGRESOS
 
@@ -1062,9 +1164,9 @@ e) Los ingresos que reciba la agrupación por rendimientos financieros, fondos o
 
 Generalidades.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE AGOSTO DE 2017)</small>
 
-Los egresos deberán registrarse contablemente y estar soportados con la documentación original que expida a nombre de la Agrupación la persona a quien se efectuó el pago. La Agrupación debe señalar de cada erogación la justificación, destino, beneficiario y condición del beneficiario y firma de autorización del Responsable del Órgano de Administración o de los funcionarios autorizados.
+Los egresos deberán registrarse contablemente y estar soportados con la documentación original que expida a nombre de la Agrupación la persona a quien se efectuó el pago. La Agrupación debe señalar de cada erogación la justificación, destino, beneficiario o beneficiaria y firma de autorización del o la Responsable o de las personas autorizadas por éste
 
 Todos los egresos que se efectúen, deberán realizarse con cargo a la cuenta bancaria de cheques.
 
@@ -1080,13 +1182,19 @@ a) Coadyuvar al desarrollo de la vida democrática en la Ciudad de México;
 
 b) Inculcar en la población una cultura política sustentada en la tolerancia y respeto a la legalidad;
 
-c) Crear en sus afiliados y simpatizantes una opinión política mejor informada;
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
+
+c) Crear en sus afiliados, afiliadas y simpatizantes una opinión política mejor informada;
 
 d) Promover la Educación y Capacitación Cívica;
 
-e) Promover la formación ideológica y política de la ciudadanía, con el propósito de infundir en ellos el respeto al adversario, así como consolidar sus derechos en la participación política, y
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
 
-f) Garantizar la participación de las mujeres en las todas las actividades que realice.
+e) Promover la formación ideológica y política de la ciudadanía, con el propósito de infundir en ella el respeto a la persona adversaria, así como consolidar sus derechos en la participación política, y
+
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
+
+f) Garantizar la participación de las mujeres en todas las actividades que realice.
 
 ###### Artículo 56.
 
@@ -1102,13 +1210,19 @@ Verificación de la documentación soporte.
 
 La Agrupación será responsable de verificar que la documentación comprobatoria que le sea expedida para acreditar sus gastos, cumpla con los requisitos fiscales.
 
-Todo pago que efectúe la Agrupación que rebase la cantidad equivalente a cien veces la UMA, deberá realizarse mediante cheque nominativo expedido a nombre del proveedor o prestador del bien o servicio y deberá contener la leyenda -para abono en cuenta del beneficiario”, o a través de transferencia electrónica, con excepción de los pagos correspondientes a sueldos y salarios contenidos en nóminas. Las pólizas de los cheques deberán conservarse anexas a la documentación comprobatoria junto con la copia fotostática del cheque o transferencia electrónica, según corresponda.
+Todo pago que efectúe la Agrupación que rebase la cantidad equivalente a cien veces la UMA, deberá realizarse mediante cheque nominativo expedido a nombre del proveedor o prestador del bien o servicio y deberá contener la leyenda -para abono en cuenta del beneficiario", o a través de transferencia electrónica, con excepción de los pagos correspondientes a sueldos y salarios contenidos en nóminas. Las pólizas de los cheques deberán conservarse anexas a la documentación comprobatoria junto con la copia fotostática del cheque o transferencia electrónica, según corresponda.
 
-En caso de que la Agrupación efectúe más de un pago a un mismo proveedor o prestador de servicios en la misma fecha, y dichos pagos en su conjunto sumen la cantidad señalada en el párrafo anterior, los pagos deberán ser cubiertos en los términos que establece dicha disposición a partir del monto por el cual se exceda el límite referido. A las pólizas contables deberá anexarse la documentación comprobatoria junto con la copia fotostática del cheque que corresponda.
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
 
-Los cheques girados a nombre de terceros que carezcan de documentación comprobatoria, serán considerados como egresos no comprobados.
+En caso de que la Agrupación efectúe más de un pago a un/a mismo/a proveedor/a o prestador/a de servicios en la misma fecha, y dichos pagos en su conjunto sumen la cantidad señalada en el párrafo anterior, los pagos deberán ser cubiertos en los términos que establece dicha disposición a partir del monto por el cual se exceda el límite referido. A las pólizas contables deberá anexarse la documentación comprobatoria junto con la copia fotostática del cheque que corresponda.
 
-Además, en todas las operaciones que rebasen la cantidad equivalente a noventa veces la UMA en el año de que se trate, deberá verificar en el portal de internet del Servicio de Administración Tributaria de la Secretaría de Hacienda y Crédito Público, la autenticidad de la documentación que les sea expedida por el proveedor del bien o prestador del servicio.
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
+
+Los cheques girados a nombre de terceras personas que carezcan de documentación comprobatoria, serán considerados como egresos no comprobados.
+
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
+
+Además, en todas las operaciones que rebasen la cantidad equivalente a noventa veces la UMA en el año de que se trate, deberá verificar en el portal de internet del Servicio de Administración Tributaria de la Secretaría de Hacienda y Crédito Público, la autenticidad de la documentación que les sea expedida por el proveedor o la proveedora del bien o por la persona prestadora del servicio.
 
 ###### Artículo 58.
 
@@ -1116,9 +1230,9 @@ Celebración de contratos.
 
 Cuando las operaciones de la Agrupación rebasen la cantidad equivalente a cuatrocientas veces la UMA deberá suscribir contratos, los cuales contendrán por lo menos: los costos, condiciones, fechas de pago, características del bien o servicio, temporalidad, derechos, obligaciones, penalizaciones en caso de incumplimiento e impuestos.
 
-> <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
 
-Además en los citados contratos convendrán con sus proveedores o pr estadores (sic) de servicios la incorporación de una cláusula, por medio de la cual se autorice a la Unidad de Fiscalización, a solicitar al proveedor o prestador del servicio según corresponda, la información que estime necesaria con la finalidad de verificar el origen y monto de los recursos empleados; y de igual manera, se obliguen a conservar por un periodo de cinco años la copia de la factura correspondiente y una muestra o testigo de los bienes o servicios contratados, los cuales estarán a disposición de la autoridad electoral cuando ésta los solicite.
+Además en los citados contratos convendrán con sus proveedores o proveedoras o personas prestadores de servicios la incorporación de una cláusula, por medio de la cual se autorice a la Unidad de Fiscalización, a solicitar, según corresponda, la información que estime necesaria con la finalidad de verificar el origen y monto de los recursos empleados; y de igual manera, se obliguen a conservar por un periodo de cinco años la copia de la factura correspondiente y una muestra o testigo de los bienes o servicios contratados, los cuales estarán a disposición de la autoridad electoral cuando ésta los solicite.
 
 ###### Artículo 59.
 
@@ -1140,15 +1254,19 @@ Se deberá anexar a las bitácoras los comprobantes respectivos aún y cuando no
 
 Para efectos del presente Reglamento, se entenderá como gastos menores aquellos que no rebasen la cantidad equivalente a cinco veces la UMA.
 
+> <small>(REFORMADO SU EPÍGRAFE, G.O. 18 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 60.
 
-Relación de proveedores y prestadores de servicios.
+Relación de proveedores, proveedoras, prestadores y prestadoras de servicios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE AGOSTO DE 2017)</small>
 
-La Agrupación deberá elaborar una relación de los proveedores y prestadores de servicios con los cuales realicen operaciones durante el periodo a reportar que superaron la cantidad de quinientas veces la UMA, la cual deberá presentar a la Unidad de Fiscalización en forma impresa y en medio magnético, anexa a sus informes.
+La Agrupación deberá elaborar una relación de los proveedores, proveedoras y personas prestadoras de servicios, con los cuales realicen operaciones durante el periodo a reportar que superaron la cantidad de quinientas veces la UMA, la cual deberá presentar a la Unidad de Fiscalización en forma impresa y en medio magnético, anexa a sus informes.
 
-La relación de los proveedores y prestadores de servicios que deberá contener al menos lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE AGOSTO DE 2017)</small>
+
+La relación deberá contener al menos lo siguiente:
 
 a) Nombre fiscal y comercial asentado en las facturas que expida;
 
@@ -1162,13 +1280,13 @@ e) Concepto de los bienes o servicios; y
 
 f) Número y fecha del cheque o transferencia electrónica del pago e institución bancaria.
 
-> <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 61.
 
-Expedientes de proveedores y prestadores de servicios.
+Expedientes de proveedores, proveedoras, prestadores y prestadoras de servicios.
 
-En caso de que la Agrupación realice operaciones que superen la cantidad de dos mil veces la UMA, deberá conformar y conservar un expediente del proveedor y/o prestador de servicios; que estará a disposición de la Unidad de Fiscalización, el cual contendrá al menos copia de Acta constitutiva y de la última modificación notarial de la sociedad, así como de los apoderados legales sólo en caso de personas morales; comprobante de domicilio fiscal; alta ante la Secretaria de Hacienda y Crédito Público, así como Cédula de Identificación Fiscal y Curriculum Vitae.
+En caso de que la Agrupación realice operaciones que superen la cantidad de dos mil veces la UMA, deberá conformar y conservar un expediente del proveedor, proveedora y de la persona prestadora de servicios; el cual contendrá al menos copia de Acta constitutiva y de la última modificación notarial de la sociedad, así como de los apoderados y las apoderadas legales sólo en caso de personas morales; comprobante de domicilio fiscal; Alta ante la Secretaria de Hacienda y Crédito Público, así como Cédula de Identificación Fiscal y Curriculum Vitae, dicho expediente estará a disposición de la Unidad de Fiscalización,
 
 ### CAPÍTULO V. DE LOS GASTOS ORDINARIOS
 
@@ -1178,31 +1296,39 @@ Requisitos para la comprobación de servicios personales.
 
 Las erogaciones por concepto de gastos en servicios personales deberán clasificarse a nivel de subcuenta por gasto y subcuenta por área que los originó, verificando que la documentación soporte esté autorizada por el funcionario del área correspondiente de que se trate:
 
-a) En el caso de servicios personales independientes por honorarios: con el recibo que expida el prestador del servicio en términos de las disposiciones fiscales aplicables.
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
 
-b) En el caso de los servicios personales subordinados, la Agrupación deberá expedir recibos que contengan los datos de identificación del prestador del servicio, tales como: nombre, Registro Federal de Contribuyentes, Cédula Única de Registro de Población, número de afiliación al Instituto Mexicano del Seguro Social, periodo de pago, monto bruto del pago, retenciones por concepto de Impuesto sobre la Renta, Seguridad Social e importe neto.
+a) En el caso de servicios personales independientes por honorarios: con el recibo que expida el prestador o la prestadora del servicio en términos de las disposiciones fiscales aplicables.
 
-> <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
 
-c) Los pagos que realice la Agrupación por concepto de honorarios asimilables a sueldos, deberán estar soportados con recibos foliados que especifiquen el nombre, la clave del Registro Federal de Contribuyentes y la firma del prestador del servicio, el monto del pago, la fecha y la retención del Impuesto Sobre la Renta correspondiente, el tipo de servicio prestado a la Agrupación y el periodo durante el cual se realizó, así como la firma del funcionario del área que autorizó el pago, anexando copia legible por ambos lados de la credencial para votar con fotografía del prestador del servicio. La documentación deberá ser presentada a l a (sic) Unidad de Fiscalización anexa a su póliza, junto con los contratos correspondientes.
+b) En el caso de los servicios personales subordinados, la Agrupación deberá expedir recibos que contengan los datos de identificación de la persona prestadora del servicio, tales como: nombre, Registro Federal de Contribuyentes, Cédula Única de Registro de Población, número de afiliación al Instituto Mexicano del Seguro Social, periodo de pago, monto bruto del pago, retenciones por concepto de Impuesto sobre la Renta, Seguridad Social e importe neto.
+
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
+
+c) Los pagos que realice la Agrupación por concepto de honorarios asimilables a sueldos, deberán estar soportados con recibos foliados que especifiquen el nombre, la clave del Registro Federal de Contribuyentes y la firma de la persona prestadora del servicio, el monto del pago, la fecha y la retención del Impuesto Sobre la Renta correspondiente, el tipo de servicio prestado a la Agrupación y el periodo durante el cual se realizó, así como la firma de la persona responsable del área que autorizó el pago, anexando copia legible por ambos lados de la credencial para votar con fotografía de la persona prestadora del servicio. La documentación deberá ser presentada a la Unidad de Fiscalización anexa a su póliza, junto con los contratos correspondientes.
 
 d) Los gastos efectuados por la Agrupación por concepto de sueldos y salarios, honorarios profesionales y honorarios asimilables a sueldos deberán formalizarse con el contrato correspondiente, en el cual se establezcan claramente las obligaciones y derechos de ambas partes, el objeto del contrato, vigencia, contraprestación, forma de pago, penalizaciones y todas las demás condiciones a las que se hubieren comprometido.
 
-> <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
 
-La Agrupación deberá identificar las retribuciones a los integrantes de sus órganos directivos de conformidad con lo dispuesto en el Catálogo de Cuentas (APL 18) anexo al Reglamento.
+La Agrupación deberá identificar contablemente las retribuciones pagadas a los y a las integrantes de sus órganos directivos de conformidad con lo dispuesto en el Catálogo de Cuentas anexo al Reglamento (APL 14).
+
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 63.
 
 RPAP´S y el límite máximo.
 
-La Agrupación podrá otorgar reconocimientos en efectivo a sus afiliados o simpatizantes por su participación temporal en las actividades políticas, siempre y cuando no medie relación laboral y el beneficiario no podrá ser integrante de sus órganos directivos. La suma total de las erogaciones por concepto de dichos reconocimientos, tendrá un límite máximo anual equivalente al quince por ciento del total de los recursos del ejercicio.
+La Agrupación podrá otorgar reconocimientos en efectivo a sus afiliados, afiliadas y simpatizantes por su participación temporal en las actividades políticas, siempre y cuando no medie relación laboral, la persona beneficiaria no podrá ser integrante de sus órganos directivos. La suma total de las erogaciones por concepto de dichos reconocimientos.
+
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 64.
 
 Requisitos de RPAP´S.
 
-Los reconocimientos en efectivo que otorguen a sus afiliados o simpatizantes por su participación en actividades políticas, deberán estar respaldados con recibos foliados, conforme al formato APL-9: RPAP, que especifiquen el nombre, Registro Federal de Contribuyentes, firma de la persona a quien se efectuó el pago, domicilio, teléfono, monto, fecha del pago, el tipo de servicio prestado, el periodo durante el cual se realizó el servicio; además, se deberá anexar copia simple de la credencial para votar por ambos lados. En el supuesto de que la persona que recibe el pago fuera menor de edad, se deberá anexar copia simple de una identificación que contenga cuando menos fotografía y el domicilio de la persona o de la institución que la expida.
+Los reconocimientos a que se refiere el artículo que antecede, deberán estar respaldados con recibos foliados, conforme al formato APL-9: RPAP, que especifiquen el nombre, Registro Federal de Contribuyentes, firma de la persona a quien se efectuó el pago, domicilio, teléfono, monto, fecha del pago, el tipo de servicio prestado, el periodo durante el cual se realizó el servicio; además, se deberá anexar copia simple de la credencial para votar por ambos lados de la persona beneficiaria. En el supuesto de que la persona que recibe el pago fuera menor de edad, se deberá anexar copia simple de una identificación que contenga cuando menos fotografía y el domicilio de la persona o de la institución que la expida.
 
 ###### Artículo 65.
 
@@ -1222,11 +1348,13 @@ RPAP´S a una sola persona.
 
 Las erogaciones por este concepto realizadas a una sola persona física, no podrán exceder el equivalente a cinco veces la UMA, por cada día de servicio y un máximo de hasta mil veces la UMA en el transcurso de un año
 
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 67.
 
 Expedición de RPAP´S.
 
-El Responsable u Órgano Directivo correspondiente deberá autorizar la impresión por triplicado, original y dos copias, de los recibos foliados que se expedirán para amparar los reconocimientos por su participación en actividades políticas, otorgados de acuerdo al formato APL-9 RPAP; los recibos se deberán expedir en forma consecutiva. El original permanecerá en poder del Responsable u Órgano Directivo correspondiente y anexo a la póliza contable, la primera copia impresa deberá entregarse a la persona que se le efectuó el pago y la segunda se integrará al expediente consecutivo de la Agrupación; los folios se relacionaran en el formato APL-10: CF-RPAP.
+La persona Responsable deberá autorizar la impresión por triplicado, original y dos copias, de los recibos foliados que se expedirán para amparar los reconocimientos por participación en actividades políticas, otorgados de acuerdo con el formato (APL-9 RPAP); los recibos se deberán expedir en forma consecutiva. El original permanecerá en poder de la Agrupación anexo a la póliza contable, la primera copia impresa deberá entregarse a la persona que se le efectuó el pago y la segunda se integrará al expediente consecutivo de la Agrupación; los folios se relacionarán en el formato (APL-10: CF-RPAP).
 
 ###### Artículo 68.
 
@@ -1236,13 +1364,13 @@ La Agrupación deberá elaborar una relación de las personas que recibieron rec
 
 La relación deberá ser entregada en forma impresa y medio electrónico junto con la presentación de sus informes.
 
-> <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 69.
 
-Confirmación de expedición de RPAP´S
+Confirmación de expedición de RPAP´S.
 
-Durante el procedimiento de revisión de los informes, la Unidad de Fiscalización podrá utilizar procedimientos de auditoría basados en pruebas selectivas, a través de las cuales solicite directamente a terceros, confirmen, ratifiquen o rectifiquen la expedición de reconocimientos por actividades políticas reportadas por la Agrupación de que se trate, lo cual se informará en el Dictamen correspondiente.
+Durante el procedimiento de revisión de los informes, la Unidad de Fiscalización podrá utilizar procedimientos de auditoría basados en pruebas selectivas, a través de las cuales solicite directamente a terceras personas, confirmen, ratifiquen o rectifiquen la expedición de reconocimientos por actividades políticas reportadas por la Agrupación de que se trate, lo cual se informará en el Dictamen correspondiente.
 
 ###### Artículo 70.
 
@@ -1256,9 +1384,13 @@ Comprobación de gastos de Servicios Generales.
 
 Los gastos de Servicios Generales deberán ser sustentados con:
 
-a) Facturas expedidas por los proveedores o prestadores de servicios.
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
 
-b) Contrato en los que se establezcan claramente las obligaciones y derechos de ambas partes, el objeto del contrato, tiempo, tipo y condiciones del mismo, importe contratado, formas de pago, penalizaciones y todas las demás condiciones a las que se hubiere comprometido.
+a) Facturas expedidas por los proveedores, las proveedoras o las personas prestadoras de servicios.
+
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
+
+b) Contratos en los que se establezcan claramente las obligaciones y derechos de ambas partes, el objeto, tiempo, tipo y condiciones del mismo, importe contratado, formas de pago, penalizaciones y todas las demás condiciones a las que se hubiere comprometido.
 
 c) En su caso, las muestras correspondientes a los bienes y servicios adquiridos.
 
@@ -1268,9 +1400,11 @@ Los pagos se deberán realizar mediante cheque o transferencia de una cuenta ban
 
 Recuperación y comprobación de Cuentas por Cobrar.
 
-Las operaciones o transacciones económicas que lleve a cabo la Agrupación, por enajenaciones, comprobación de recursos o cualquier otro concepto análogo y que generen un derecho exigible a su favor, deberán estar respaldadas con contratos, convenios, documentación de carácter mercantil u otro, que garanticen y demuestren legalmente la existencia del derecho de cobro para la Agrupación y la obligación de pago a cargo del deudor, así como de aquellas obligaciones que señala este Reglamento.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE AGOSTO DE 2017)</small>
 
-Es responsabilidad de la Agrupación que los egresos registrados en los rubros -Gastos por Comprobar” y -Cuentas por Cobrar” que se generen, como consecuencia de las operaciones realizadas, queden recuperados o debidamente comprobados con la documentación correspondiente dentro de los treinta días naturales posteriores, contados a partir del día siguiente a aquel en que fueron efectivamente erogados. No deberán existir saldos a la presentación del informe anual, de lo contrario los egresos serán considerados como no comprobados.
+Las operaciones o transacciones económicas que lleve a cabo la Agrupación, por enajenaciones, comprobación de recursos o cualquier otro concepto análogo y que generen un derecho exigible a su favor, deberán estar respaldadas con contratos, convenios, documentación de carácter mercantil u otro, que garanticen y demuestren legalmente la existencia del derecho de cobro para la Agrupación y la obligación de pago a cargo de la persona deudora, así como de aquellas obligaciones que señala este Reglamento.
+
+Es responsabilidad de la Agrupación que los egresos registrados en los rubros -Gastos por Comprobar" y -Cuentas por Cobrar" que se generen, como consecuencia de las operaciones realizadas, queden recuperados o debidamente comprobados con la documentación correspondiente dentro de los treinta días naturales posteriores, contados a partir del día siguiente a aquel en que fueron efectivamente erogados. No deberán existir saldos a la presentación del informe anual, de lo contrario los egresos serán considerados como no comprobados.
 
 Asimismo, los préstamos o comprobaciones de recursos registrados por la Agrupación en términos de los párrafos anteriores, deberán estar directamente vinculados con sus actividades ordinarias.
 
@@ -1282,7 +1416,9 @@ Las Agrupaciones no podrán realizar ajustes a l a (sic) cuenta déficit o reman
 
 Recuperaciones de cuentas por cobrar.
 
-La recuperación o cobros que haga la Agrupación de cuentas por cobrar, deberá efectuarse mediante cheque o transferencia electrónica de una cuenta bancaria a nombre del deudor, debiendo conservar copia del cheque o comprobante de la transferencia que permita identificar plenamente el origen del recurso.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE AGOSTO DE 2017)</small>
+
+La recuperación o cobros que haga la Agrupación de cuentas por cobrar, deberá efectuarse mediante cheque o transferencia electrónica de una cuenta bancaria a nombre del deudor o deudora, debiendo conservar copia del cheque o comprobante de la transferencia que permita identificar plenamente el origen del recurso.
 
 La Agrupación podrá recibir recuperaciones o cobros en efectivo, cuando cumplan con los requisitos siguientes:
 
@@ -1290,7 +1426,9 @@ a) Los cobros recibidos de un solo adeudo, no rebasen al equivalente a noventa v
 
 b) Hayan estado previamente registrados en la contabilidad;
 
-c) Al momento del origen del registro contable, tengan un deudor cierto y un monto cierto, y
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
+
+c) Al momento del origen del registro contable, tengan un deudor o deudora cierto y un monto cierto, y
 
 d) Correspondan a remanentes de gastos por comprobar.
 
@@ -1298,7 +1436,7 @@ d) Correspondan a remanentes de gastos por comprobar.
 
 Casos especiales en cuentas por cobrar.
 
-Si al cierre de un ejercicio la Agrupación presenta en su contabilidad saldos positivos en las cuentas por cobrar, tales como -Deudores Diversos”, -Gastos por Comprobar”, -Anticipo a Proveedores” o cualquier otra de naturaleza análoga y al cierre del ejercicio siguiente los mismos gastos continúan sin haberse comprobado, éstos serán considerados como gastos no comprobados, salvo que la Agrupación informe oportunamente de la existencia de alguna excepción legal.
+Si al cierre de un ejercicio la Agrupación presenta en su contabilidad saldos positivos en las cuentas por cobrar, tales como -Deudores Diversos", -Gastos por Comprobar", -Anticipo a Proveedores" o cualquier otra de naturaleza análoga y al cierre del ejercicio siguiente los mismos gastos continúan sin haberse comprobado, éstos serán considerados como gastos no comprobados, salvo que la Agrupación informe oportunamente de la existencia de alguna excepción legal.
 
 En todo caso, deberá presentar en medio magnético y de forma impresa, una relación donde se especifiquen los nombres, las fechas, los importes y la antigüedad de las partidas, así como la documentación que justifique la excepción legal.
 
@@ -1306,17 +1444,21 @@ Para efectos de este Reglamento, se entenderá por excepciones legales las sigui
 
 a) La presentación de la copia certificada de las constancias que demuestren la existencia de un litigio relacionado con el saldo cuestionado.
 
-b) Cuando el valor de la operación con el mismo deudor, sea igual o superior al equivalente a quinientas veces la UMA, la presentación de la escritura pública que demuestre la celebración de convenios con deudores, para hacer exigible la obligación, en los que se establezca una fecha cierta y determinada para la comprobación o recuperación de un gasto por comprobar.
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
+
+b) Cuando el valor de la operación con el mismo deudor o deudora sea igual o superior al equivalente a quinientas veces la UMA, la presentación de la documentación que demuestre la celebración de un convenio para hacer exigible la obligación, en el que se establezca una fecha cierta y determinada para la comprobación o recuperación de un gasto por comprobar.
 
 > <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 2016)</small>
 
 c) La Unidad de Fiscalización valorará la documentación presentada por la Agrupación, relacionada con las formas de extinción de las obligaciones previstas en el Código Civil para el Distrito Federal y el Código Civil Federal.
 
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 75.
 
 Reconocimiento de pasivos.
 
-Todas las operaciones o transacciones económicas de la Agrupación, que generen una obligación ineludible con un tercero, deberán respaldarse con la documentación que demuestre la prestación del servicio o la adquisición de los bienes; la que señale el Reglamento, así como las disposiciones legales aplicables. Su registro contable podrá efectuarse de conformidad con la NIF C-9 -Pasivos, provisiones, activos y pasivos contingentes y compromisos.”
+Todas las operaciones o transacciones económicas de la Agrupación, que generen una obligación ineludible con una tercera persona, deberán respaldarse con la documentación que demuestre la prestación del servicio o la adquisición de los bienes; la que señale el Reglamento, así como las disposiciones legales aplicables. Su registro contable deberá efectuarse de conformidad con la NIF C-9 “Pasivos, provisiones, activos y pasivos contingentes y compromisos.”
 
 > <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 2016)</small>
 
@@ -1326,7 +1468,9 @@ Tratamiento de los pasivos al cierre del periodo.
 
 Si al final del ejercicio existiera un pasivo en la contabilidad de la Agrupación, éste deberá integrarse detalladamente, con mención de montos, nombres, concepto y fechas de contratación de la obligación, calendario de amortización y de vencimiento, así como en su caso, las garantías otorgadas.
 
-Deberán estar debidamente registrados en la contabilidad, soportados documentalmente y autorizados por el Responsable de la Agrupación. Dicha integración deberá presentarse en medio magnético y de forma impresa. Para el caso de saldos en cuentas por pagar cuya antigüedad sea igual o mayor a un año al cierre del ejercicio, serán consideradas como ingresos no comprobados.
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
+
+Deberán estar debidamente registrados en la contabilidad, soportados documentalmente y autorizados por la por persona Responsable. Dicha integración deberá presentarse en medio electrónico y de forma impresa. Para el caso de saldos en cuentas por pagar cuya antigüedad sea igual o mayor a un año al cierre del ejercicio, serán consideradas como ingresos no comprobados.
 
 ### CAPÍTULO VI. DE OTROS GASTOS
 
@@ -1358,11 +1502,15 @@ IFV establecido en este Reglamento.
 
 Durante el proceso de revisión, el personal de la Unidad de Fiscalización llevará a cabo un inventario físico selectivo de los bienes muebles e inmuebles de la Agrupación, conforme al procedimiento siguiente:
 
-I.- El encargado de la revisión deberá informar por escrito a la Agrupación, cuando menos con tres días de anticipación el día y la hora en que se realizará el inventario físico, para que ésta designe al personal que lo apoyará en el levantamiento correspondiente.
+> <small>(REFORMADA, G.O. 18 DE AGOSTO DE 2017)</small>
+
+I.- La persona encargada de la revisión deberá informar por escrito a la Agrupación, cuando menos con tres días de anticipación el día y la hora en que se realizará el inventario físico, para que ésta designe al personal que apoyará en el levantamiento correspondiente.
 
 II.- Con base en el inventario físico valuado (APLll: IFV) que presentó la Agrupación se seleccionarán los bienes sujetos a verificación;
 
-III.- En el día y la hora señalada junto con el Responsable o el enlace designado. se iniciará el recorrido por las instalaciones para localizar los bienes;
+> <small>(REFORMADA, G.O. 18 DE AGOSTO DE 2017)</small>
+
+III.- En el día y la hora señalada junto con la persona Responsable o el personal designado, se iniciará el recorrido por las instalaciones para localizar los bienes;
 
 IV.- Durante el recorrido, el personal de la Unidad de Fiscalización podrá seleccionar bienes que se encuentren en las instalaciones para identificarlos en el inventario físico valuado;
 
@@ -1416,25 +1564,29 @@ Reglas en la revisión de la información financiera.
 
 Presentada la información a que hacen referencia los artículos 26 y 27 del presente Reglamento, corresponderá a la Unidad de Fiscalización revisarla para corroborar la veracidad de las cifras reportadas, conforme a las siguientes reglas:
 
-I. La Unidad de Fiscalización contará con sesenta días para revisar la información financiera presentada y para comprobar la veracidad de lo señalado tanto en el Informe de Ingresos y Egresos, como en la información financiera y tendrá en todo momento la facultad de requerir al Responsable la documentación que estime necesaria.
+> <small>(REFORMADA, G.O. 18 DE AGOSTO DE 2017)</small>
 
-II. La Unidad de Fiscalización informará por escrito al Responsable, los nombres de los auditores que se encargarán de la verificación documental y contable correspondiente.
+I. La Unidad de Fiscalización contará con sesenta días para revisar la información financiera presentada y para comprobar la veracidad de lo señalado tanto en el Informe de Ingresos y Egresos como en la información financiera, y tendrá en todo momento la facultad de requerir a la Agrupación la documentación que estime necesaria.
 
-> <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.O. 18 DE AGOSTO DE 2017)</small>
+
+II. La Unidad de Fiscalización informará por escrito a la Agrupación los nombres del personal del Grupo de Trabajo que se encargarán de la verificación documental y contable correspondiente.
+
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 85.
 
 Solicitud de información.
 
-La Unidad de Fiscalización tendrá en todo momento la facultad de solicitar al Responsable de la Agrupación la documentación necesaria para comprobar la veracidad de lo reportado en el informe; asimismo, tendrá la obligación de proporcionar al grupo de trabajo el acceso a todos los documentos originales que respalden sus ingresos y egresos, así como a su contabilidad.
+La Unidad de Fiscalización tendrá en todo momento la facultad de solicitar a la persona Responsable la documentación necesaria para comprobar la veracidad de lo reportado en el informe; asimismo, tendrá la obligación de proporcionar al Grupo de Trabajo el acceso a todos los documentos originales que respalden sus ingresos y egresos, así como a su contabilidad.
 
-> <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 86.
 
-Normas y procedimientos de Auditoría y Normas de Información Financiera.
+Normas y procedimientos de auditoría y normas de información financiera.
 
-La Unidad de Fiscalización podrá determinar la verificación selectiva de la documentación comprobatoria de los ingresos y egresos de la Agrupación, a partir de criterios emanados de las Normas y Procedimientos de Auditoría, así como en las Normas de Información Financiera emitidos por el Instituto Mexicano de Contadores Públicos y el Consejo Mexicano para la Investigación y Desarrollo de Normas de Información Financiera, respectivamente, las cuales se detallan en el formato APL 20 del presente Reglamento.
+La Unidad de Fiscalización podrá determinar la verificación selectiva de la documentación comprobatoria de los ingresos y egresos de la Agrupación, a partir de criterios emanados de las Normas y Procedimientos de Auditoría, así como en las Normas de Información Financiera emitidos por el Instituto Mexicano de Contadores Públicos y el Consejo Mexicano para la Investigación y Desarrollo de Normas de Información Financiera, respectivamente, las cuales se detallan en el anexo APL 16 del presente ordenamiento.
 
 > <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 2016)</small>
 
@@ -1464,17 +1616,17 @@ Plazos.
 
 Los plazos para la entrega del informe anual, así como los relativos a la entrega de documentación comprobatoria y aquella que la Agrupación proporcione para subsanar errores u omisiones, serán definitivos.
 
-> <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
 
-La Agrupación, no podrá entregar alcances o prórrogas fuera de los plazos legalmente establecidos; la Unidad de Fiscalización estará impedida para valorarlos, salvo que la información o documentación que se aporte, representen pruebas supervenientes, lo cual deberá estar debidamente acreditado por el oferente.
+La Agrupación, no podrá entregar alcances o documentos fuera de los plazos legalmente establecidos; la Unidad de Fiscalización estará impedida para valorarlos, salvo que la información o documentación que se aporte, representen pruebas supervenientes, lo cual deberá estar debidamente acreditado por quien la presente.
 
-> <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 89.
 
 Primer oficio de errores u omisiones.
 
-Si durante la revisión del informe anual, la Unidad de Fiscalización advierte la existencia de errores u omisiones, notificará a la Agrupación que hubiere incurrido en ellos, para que, en un plazo no mayor de diez días contados a partir de dicha notificación, presente las aclaraciones o rectificaciones que estime pertinentes.
+Si durante la revisión del informe anual, la Unidad de Fiscalización advierte la existencia de errores u omisiones, notificará a la Agrupación que hubiere incurrido en ellos, para que en un plazo no mayor de diez días, contados a partir de dicha notificación, presente las aclaraciones o rectificaciones que estime pertinentes.
 
 > <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 2016)</small>
 
@@ -1484,7 +1636,9 @@ Requisitos formales de la respuesta.
 
 En los escritos de respuesta a las solicitudes de aclaración de la Unidad de Fiscalización, la Agrupación podrá exponer lo que a su derecho convenga para aclarar o rectificar y aportar la información que se le solicite, así como ofrecer las pruebas que respalden sus afirmaciones.
 
-Las rectificaciones o aclaraciones deberán estar firmados (sic) por el Responsable y presentarse en forma impresa y medio magnético; asimismo, anexará una relación pormenorizada de la documentación que se entrega, de acuerdo al formato APL17 DID, con la finalidad de facilitar el cotejo correspondiente por parte del personal de la Unidad de Fiscalización. La recepción de la documentación por parte de la autoridad no prejuzga sobre sus contenidos para efectos de las observaciones respectivas que dieron lugar a su entrega.
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
+
+Las rectificaciones o aclaraciones deberán estar firmados por la persona Responsable y presentarse en formato impreso y en medio electrónico; asimismo, anexará una relación pormenorizada de la documentación que se entrega conforme al anexo APL13 DID, con la finalidad de facilitar el cotejo correspondiente por parte del personal de la Unidad de Fiscalización. La recepción de la documentación por parte de la autoridad no prejuzga sobre sus contenidos para efectos de las observaciones respectivas que dieron lugar a su entrega.
 
 > <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 2016)</small>
 
@@ -1512,15 +1666,29 @@ Elaboración del Dictamen Consolidado.
 
 Derivado de la revisión de informes y al vencimiento del plazo para recibir la respuesta al segundo oficio de notificación de errores u omisiones, la Unidad de Fiscalización dispondrá de un plazo de hasta veinte días naturales para elaborar el Dictamen Consolidado, el cual deberá contener como mínimo.
 
-I. Las consideraciones de hecho, derecho y técnicas observadas durante el procedimiento de fiscalización y sus conclusiones;
+> <small>(REFORMADA, G.O. 18 DE AGOSTO DE 2017)</small>
 
-II. En su caso la mención de errores o irregularidades detectadas durante la revisión;
+I. El resultado y las conclusiones de la revisión de los informes que hayan presentado las agrupaciones;
 
-III. El señalamiento de requerimientos y notificaciones realizados, así como las aclaraciones o rectificaciones que presentó la Agrupación;
+> <small>(REFORMADA, G.O. 18 DE AGOSTO DE 2017)</small>
 
-IV. La trascendencia y gravedad de las faltas, y
+II. En su caso, la mención de los errores u omisiones encontrados en los mismos;
 
-V. El resultado y las conclusiones de la revisión.
+> <small>(REFORMADA, G.O. 18 DE AGOSTO DE 2017)</small>
+
+III. El señalamiento de requerimientos y notificaciones realizados, así como las aclaraciones o rectificaciones que presentó la agrupación;
+
+> <small>(REFORMADA, G.O. 18 DE AGOSTO DE 2017)</small>
+
+IV. Las consideraciones de hecho, derecho y técnicas que la Unidad de Fiscalización, haya informado a la agrupación para considerar subsanado o no el error u omisión notificado durante el proceso de fiscalización;
+
+> <small>(REFORMADA, G.O. 18 DE AGOSTO DE 2017)</small>
+
+V. La acreditación de las irregularidades de forma fundada y motivada basada en los elementos de hecho, derecho y técnicas que la Unidad de Fiscalización haya considerado para la emisión de sus conclusiones; y
+
+> <small>(ADICIONADA, G.O. 18 DE AGOSTO DE 2017)</small>
+
+VI. Para el caso en que se detecten errores u omisiones formales en los que no se involucren recursos o cuya naturaleza no límite el conocimiento del origen, destino, monto, empleo y aplicación de los recursos o la fiscalización, la Unidad de Fiscalización podrá conminar por única vez a la agrupación para que corrija dichas circunstancias.
 
 ###### Artículo 94.
 
@@ -1530,25 +1698,37 @@ Elaboración del Proyecto de Resolución.
 
 Al término de (sic) plazo señalado en el artículo anterior, la Unidad de Fiscalización contará con un plazo de veinte días para elaborar el proyecto de Resolución con las irregularidades no subsanadas, las normas vulneradas y en su caso, se propondrán las sanciones que a su juicio procedan en contra de la Agrupación que haya incurrido en ellas.
 
-Para la individualización de la sanción, de conformidad con el artículo 381 del Código, se deberá determinar la gravedad de las faltas considerando las circunstancias en que fueron cometidas, así como las atenuantes y agravantes que mediaron en la comisión de la falta, a fin de individualizar la sanción y, en su caso, el monto que (sic) correspondiente, atendiendo a las reglas que establece el propio Código.
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
+
+Para la individualización de las sanciones se deberá determinar la gravedad de las faltas considerando: las circunstancias en que fueron cometidas, así como las atenuantes y agravantes que mediaron en la comisión de la misma, a fin de individualizar la sanción y, en su caso, el monto correspondiente, atendiendo a las reglas que establece el propio Código.
+
+> <small>[N. DE E. EL ACUERDO DE REFORMAS PUBLICADO EN LA G.O. DE 18 DE AGOSTO DE 2017, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE PÁRRAFO, PASANDO DE VIII FRACCIONES A VI.]</small>
 
 Para la individualización de la sanción, se debe considerar lo siguiente:
 
-I. La magnitud del hecho sancionable y el grado de responsabilidad del imputado;
+> <small>(REFORMADA, G.O. 18 DE AGOSTO DE 2017)</small>
 
-II. Los medios empleados;
+I. La gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir prácticas que infrinjan, en cualquier forma, las disposiciones del Código, en atención al bien jurídico tutelado, o las que se dicten con base en él;
 
-III. La magnitud del daño cuando al bien jurídico o del peligro en que éste fue colocado, que (sic) determinan la gravedad de la falta;
+> <small>(REFORMADA, G.O. 18 DE AGOSTO DE 2017)</small>
 
-IV. Las circunstancias de tiempo, lugar, modo y ocasión del hecho realizado;
+II. Las circunstancias de modo, tiempo y lugar de la infracción;
 
-V. La forma y grado de intervención del responsable en la comisión de la falta;
+> <small>(REFORMADA, G.O. 18 DE AGOSTO DE 2017)</small>
 
-VI. Las condiciones económicas del responsable;
+III. Las condiciones económicas de la persona infractora;
 
-VII. La reincidencia o sistematicidad en la comisión de la falta, y
+> <small>(REFORMADA, G.O. 18 DE AGOSTO DE 2017)</small>
 
-VIII. Las demás circunstancias especiales del responsable, que sean relevantes para determinar la posibilidad que tuvo que haber ajustado su conducta a las exigencias de la norma.
+IV. Las condiciones externas y los medios de ejecución;
+
+> <small>(REFORMADA, G.O. 18 DE AGOSTO DE 2017)</small>
+
+V. La reincidencia en el incumplimiento de obligaciones, y
+
+> <small>(REFORMADA, G.O. 18 DE AGOSTO DE 2017)</small>
+
+VI. En su caso, el monto del beneficio, lucro, daño o perjuicio del incumplimiento de obligaciones.
 
 > <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 2016)</small>
 
@@ -1644,11 +1824,13 @@ Todo lo no previsto en el presente Reglamento, será resuelto por la Comisión d
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, G.O. 18 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 102.
 
 Impugnación del Dictamen y Resolución.
 
-La Agrupación podrá impugnar ante el Tribunal Electoral del Distrito Federal el Dictamen Consolidado y la Resolución respectiva, en la forma y términos previstos en la ley de la materia. En ese caso, se deberá remitir al Tribunal Electoral del Distrito Federal, cuando se hubiere interpuesto el recurso, junto con éste, el Dictamen y Resolución correspondiente.
+La Agrupación podrá impugnar ante el Tribunal Electoral de la Ciudad de México el Dictamen Consolidado y la Resolución respectiva, en la forma y términos previstos en la ley de la materia. En ese caso, se deberá remitir al Tribunal Electoral de la Ciudad de México, cuando se hubiere interpuesto el recurso, junto con éste, el Dictamen y Resolución correspondiente.
 
 ###### Artículo 103.
 
@@ -1691,3 +1873,25 @@ QUINTO. Respecto a l a (sic) presentación del informe anual que deben presentar
 SEXTO. Realícense las adecuaciones procedentes en virtud de la determinación asumida por el Consejo General, en el apartado de Transparencia de la página de Internet www.iedf.org.mx, y publíquese un extracto de la misma en las redes sociales de este Instituto.
 
 SÉPTIMO. Remítase el presente Acuerdo y su Anexo, a la Gaceta Oficial de la Ciudad de México para su publicación, dentro del plazo de diez días hábiles siguientes a su aprobación.
+
+G.O. 18 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, MEDIANTE EL CUAL SE APRUEBAN REFORMAS AL REGLAMENTO PARA LA FISCALIZACIÓN DE LOS RECURSOS DE LAS AGRUPACIONES POLÍTICAS LOCALES DE LA CIUDAD DE MÉXICO, CON MOTIVO DE LA EXPEDICIÓN Y ENTRADA EN VIGOR DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO”.]
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL ORDENAMIENTO.]</small>
+
+PRIMERO. Se aprueban las reformas al Reglamento para la Fiscalización de los Recursos de las Agrupaciones Políticas Locales de la Ciudad de México, conforme al Anexo que se acompaña al presente Acuerdo, el cual forma parte integral del mismo.
+
+SEGUNDO. El presente Acuerdo y su Anexo entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Publíquese este Acuerdo y su Anexo de manera inmediata a su aprobación, en los estrados del Instituto Electoral, en la sede central, en sus cuarenta Direcciones Distritales, y en la página de Internet www.iedf.org.mx.
+
+CUARTO. Notifíquese personalmente este Acuerdo y su Anexo, a las Agrupaciones Políticas Locales con registro vigente ante este Instituto Electoral, dentro de los diez días hábiles siguientes a su entrada en vigor.
+
+QUINTO. Los procedimientos que se encuentren en trámite por la UTEF a la entrada en vigor del Reglamento Anexo al presente Acuerdo, serán resueltos conforme a las normas vigentes al momento de su inicio.
+
+SEXTO. Realícense las adecuaciones procedentes en virtud de la determinación asumida por el Consejo General en el apartado de Transparencia de la página de Internet www.iedf.org.mx y difúndase la misma en las redes sociales de este Instituto Electoral.
+
+SÉPTIMO. Remítase el presente Acuerdo y su Anexo, a la Gaceta Oficial de la Ciudad de México para su publicación, dentro del plazo de diez días hábiles siguientes a su aprobación.
+
+OCTAVO. Se instruye al Secretario Ejecutivo informe a la Asamblea Legislativa del Distrito Federal, la determinación asumida por este Consejo General, con la que se da cumplimiento a la previsión establecida en el artículo décimo tercero transitorio del Código de la Ciudad.
