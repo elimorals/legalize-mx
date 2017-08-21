@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-condiciones-generales-de-trabajo-de-los-96385"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-10-22"
-last_updated: "2013-10-22"
+last_updated: "2017-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO DE CONDICIONES GENERALES DE TRABAJO DE LOS SERVIDORES PUBLICOS GENERALES Y ACADEMICOS DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE TIANGUISTENCO ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE CONDICIONES GENERALES DE TRABAJO DE LOS SERVIDORES PÚBLICOS GENERALES Y ACADÉMICOS DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE TIANGUISTENCO, PUBLICADO EN LA G.G. DE 21 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE CONDICIONES GENERALES DE TRABAJO DE LOS SERVIDORES PÚBLICOS GENERALES Y ACADÉMICOS DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE TIANGUISTENCO DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 21 DE AGOSTO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 22 de octubre de 2013.
 
@@ -940,3 +942,15 @@ SOCIOLOGO GABRIEL RAMOS RIVERA
 PRESIDENTE
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 21 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE CONDICIONES GENERALES DE TRABAJO DE LOS SERVIDORES PÚBLICOS GENERALES Y ACADÉMICOS DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE TIANGUISTENCO”.]
+
+PRIMERO.- El presente Reglamento de Condiciones Generales de Trabajo de los Servidores Públicos Generales y Académicos, entrará en vigor y surtirá sus efectos desde el momento en que sea aprobado por la H. Junta Directiva y depositado ante el Tribunal Estatal de Conciliación y Arbitraje y publicado en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- Se abroga el Reglamento de Condiciones Generales de Trabajo del Personal Académico y Administrativo publicado en el Periódico Oficial “Gaceta del Gobierno” el 22 de octubre de 2013.
+
+TERCERO.- Se dejan sin efecto, todas aquellas disposiciones de igual o menor rango que contravengan lo establecido en esta materia.
