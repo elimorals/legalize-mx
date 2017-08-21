@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2017-07-03"
+last_updated: "2017-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2017.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -1037,11 +1037,11 @@ DE LA NULIFICACION, RECTIFICACION, MODIFICACION, ACLARACION Y REPOSICION DE LOS 
 
 La nulificación, rectificación o modificación de un registro de estado civil así como su reposición, no puede hacerse sino mediante sentencia ejecutoria, salvo reconocimiento que voluntariamente haga un progenitor de su hijo, el cual se sujetará a las prescripciones de este Código.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 129.
 
-Dará lugar a pedir la nulificación de un registro de estado civil, cuando el suceso registrado conste en otro registro de fecha anterior; cuando el suceso registrado no haya ocurrido o cuando haya existido falsedad en alguno de los elementos esenciales que lo constituyan.
+Dará lugar a pedir la nulidad de un registro de estado civil, cuando el suceso registrado conste en otro registro de fecha anterior; cuando el suceso registrado no haya ocurrido o cuando haya existido falsedad en alguno de los elementos esenciales que lo constituyan; o cuando se den las circunstancias previstas en el artículo 132 de este mismo Código.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
 
@@ -1063,11 +1063,11 @@ I.- Cuando habiendo ocurrido realmente el acto y habiendo intervenido personas l
 
 II.- Cuando se solicite variar un nombre puesto erróneamente u otra circunstancia accidental.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 132.
 
-Pueden pedir la rectificación de un registro o la nulificación del mismo o bien su reposición:
+Pueden pedir la rectificación, corrección, variación de un registro; la nulidad del mismo; o bien, su reposición:
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -1089,11 +1089,33 @@ IV.- Los que según los Artículos 372, 373 y 374, pueden continuar o intentar o
 
 V.- El Ministerio Público.
 
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2014)</small>
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2017)</small>
+
+VI.- Aquella persona que acredite con documentos oficiales civiles, escolares, jurisdiccionales, o eclesiásticos, contemporáneos al acto que origina la petición y aquellos posteriores que refuercen su petición, de carácter fiscal, escolar, de propiedad, registros civiles familiares o de Seguridad Social y otros, con los que pruebe que efectivamente se puede presumir un error registral; o bien, una circunstancia diversa que ha provocado que desde siempre haya utilizado un nombre distinto al que aparece en su registro de nacimiento; mismo que el interesado ha usado constantemente y sólo con la variación se hace posible su identificación; además de manifestar bajo protesta de decir verdad, ante fedatario público, que nunca ha utilizado el nombre que aparece en el registro; pudiendo expresar además, cuáles son los daños o perjuicios que le ocasiona el que prevalezca el nombre que se combate; en este caso, podrá aportar otras pruebas que acrediten esos daños o perjuicios, si lo considera conveniente.
+
+Se entenderá que son documentos contemporáneos al acto que origina la petición de variación de nombre, aquellos que comprenden los primeros quince años de la vida del solicitante.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2017)</small>
+
+El juez familiar que conozca de la demanda, podrá, valorando las pruebas documentales aportadas y/o testimoniales ofertadas; ordenar que se realice anotación marginal en el acta correspondiente, haciendo constar que el único nombre con el que se conoce al demandante es el que contienen las pruebas documentales aportadas, o bien, ordenará que se teste el nombre asentado erróneamente con el fin de que sólo prevalezca el que es correcto.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2017)</small>
+
+Cuando ya exista una sentencia en la que antes de la mayoría de edad del solicitante, se haya declarado que “también es conocido” con el nombre que realmente utiliza: dicha sentencia hará prueba plena y con la manifestación bajo protesta de decir verdad, ante fedatario público, de que nunca ha utilizado el nombre que aparece en el registro, podrá solicitar se dicte la nueva sentencia; o bien con la sentencia en cuestión, ya existente y la declaración ante fedatario público, podrá ocurrir directamente ante la autoridad Registral y solicitar la corrección o variación del registro de nacimiento que le corresponde.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 133.
 
-Si alguien hubiere sido conocido con nombre diferente al que aparece en su registro, declarando este hecho mediante información testimonial en diligencias de jurisdicción voluntaria con intervención del Ministerio Público, se asentará la anotación marginal correspondiente en el referido registro en tal sentido.
+Si alguien hubiere sido conocido con nombre diferente al que aparece en su registro de nacimiento declarando este hecho mediante información testimonial en diligencias de jurisdicción voluntaria con intervención del Ministerio Público, o mediante el procedimiento contemplado en el artículo anterior se asentará la anotación marginal correspondiente en el referido registro en tal sentido.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2017)</small>
+
+No se entenderá que se trata de un cambio de nombre, el que haga valer la acción de corrección o reconocimiento del nombre distinto al anotado en su registro de nacimiento, dada la manifestación que bajo protesta de decir verdad, realiza el demandante ante fedatario público, de que nunca ha utilizado el nombre que aparece en el registro y del cual solicita la corrección o el registro.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2017)</small>
+
+Cualquier tercero interesado en que prevalezca el nombre que se pretende corregir o variar, tendrá acción para solicitarlo.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
 
@@ -2083,6 +2105,10 @@ Sólo podrá condenarse a la pérdida de la patria potestad cuando se actualice 
 
 II.- Todas las medidas necesarias para proteger a los hijos de actos de violencia familiar o cualquier otra circunstancia que lastime u obstaculice su desarrollo armónico y pleno; en caso necesario podrá dictar medidas de protección para los hijos, para evitar y corregir los actos de violencia familiar.
 
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2017)</small>
+
+En aquellos casos en que se presente alguna de las circunstancias señaladas en el párrafo anterior, el juez solicitará a aquellas dependencias que tengan un área de atención psicológica brinden acompañamiento a aquellos menores de edad cuyos intereses se vean involucrados en el procedimiento.
+
 III.- Tomando en consideración, en su caso, los datos recabados en términos del Artículo 292 de este Código, el Juez fijará lo relativo a la división de los bienes y tomará las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos.
 
 Los padres estarán obligados a contribuir, en proporción a sus bienes e ingresos, al pago de alimentos a favor de los hijos;
@@ -2343,11 +2369,15 @@ Los alimentos comprenden:
 
 I.- La comida, el vestido, la habitación, la atención médica, la hospitalaria, y en su caso, los gastos de embarazo y parto;
 
-II.- Respecto de los menores de edad, incluyen además, los gastos necesarios para su sano esparcimiento; educación preescolar, primaria, secundaria, media superior y en su caso, educación especial; así como para proporcionarles algún oficio, arte o profesión honestos y adecuados a su sexo y circunstancias personales. La obligación subsistirá no obstante la mayoría de edad y hasta los veinticinco años siempre que continúen estudiando en grado acorde a su edad y no cuenten con ingresos propios;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2017)</small>
+
+II.- Respecto de las personas menores de edad, incluyen además, los gastos necesarios para su sano esparcimiento; educación preescolar, primaria, secundaria, media superior y en su caso, educación especial; así como para proporcionarles algún oficio, arte o profesión honestos y adecuados a sus necesidades personales. La obligación subsistirá no obstante la mayoría de edad y hasta los veinticinco años siempre que continúen estudiando en grado acorde a su edad y no cuenten con ingresos propios;
 
 III.- Con relación a las personas declaradas en estado de interdicción o con discapacidad sin posibilidad de trabajar, comprenden también lo necesario para lograr, en lo posible, su habilitación o rehabilitación y su desarrollo e inclusión social; y
 
-IV.- Con relación a los adultos mayores que sean incapaces de satisfacer sus necesidades elementales, además de todo lo necesario para su atención geriátrica, se procurará que los alimentos se les proporcionen, integrándolos a la familia.
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2017)</small>
+
+IV.- Con relación a las personas adultas mayores que sean incapaces de satisfacer sus necesidades elementales, además de todo lo necesario para su atención geriátrica, se procurará que los alimentos se les proporcionen, integrándolos a la familia.
 
 ###### Artículo 331.
 
@@ -2883,13 +2913,15 @@ I.- Que tiene medios suficientes para proveer la subsistencia, la educación y e
 
 II.- Que la adopción es benéfica para la persona que pretende adoptarse, atendiendo al interés superior de la misma, debiendo dar vista al Ministerio Público y al Sistema Estatal para el Desarrollo Integral de la Familia, quienes sólo podrán oponerse por razones debidamente fundadas y motivadas, el juez calificará dichas razones tomando en cuenta los intereses del menor;
 
-III.- Que goza de buena salud física y mental, siendo apto y adecuado para adoptar;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2017)</small>
+
+III.- Que es idóneo para adoptar, gozando de buena salud física, psicológica y afectiva;
 
 IV.- Que es de buenas costumbres; y
 
-> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2017)</small>
 
-V.- Haber asistido al curso para padres adoptantes, impartido por el Sistema para el Desarrollo Integral de la Familia del Estado.
+V.- Haber aprobado el curso para padres adoptantes, impartido por el Sistema para el Desarrollo Integral de la Familia del Estado.
 
 Los mayores de edad que no sean incapaces podrán ser adoptados, siempre que se encuentren incorporados a un núcleo familiar formado por su progenitor y la persona que pretenda adoptar. En este caso únicamente se deberá acreditar el matrimonio civil, así como el consentimiento expreso de quien se pretende adoptar.
 
@@ -2907,11 +2939,11 @@ Nadie puede ser adoptado por más de una persona, salvo el caso previsto en el a
 
 El tutor no puede adoptar al pupilo, sino hasta después de que hayan sido definitivamente aprobadas las cuentas de la tutela.
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 417.
 
-Concedida la adopción, el Sistema para el Desarrollo Integral de la Familia del Estado, a través de la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes, le dará seguimiento por un periodo de dos años, informando de ello semestralmente al Juez que lo autorizó.
+Concedida la adopción, el Sistema para el Desarrollo Integral de la Familia del Estado, a través de la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes del Estado de Aguascalientes le dará seguimiento por un periodo de dos años, informando de ello semestralmente al Juez que lo autorizó.
 
 ###### Artículo 418.
 
@@ -3711,9 +3743,13 @@ A los menores de edad que no estén sujetos a patria potestad, ni a tutela testa
 
 En el caso del Artículo anterior, tienen obligación de desempeñar la tutela mientras duran los cargos que a continuación se enumeran:
 
-I.- El Presidente Municipal del domicilio del menor;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2017)</small>
 
-II.- Los demás regidores del Ayuntamiento;
+I.- El Presidente Municipal, y los demás integrantes del Ayuntamiento del domicilio del menor;
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2017)</small>
+
+II.- Los servidores públicos que ejercen la representación jurídica del Ayuntamiento del domicilio del menor;
 
 III.- Las personas que desempeñen la autoridad administrativa en los lugares en donde no hubiere Ayuntamiento;
 
@@ -3721,11 +3757,17 @@ IV.- Los profesores oficiales de instrucción primaria, secundaria o profesional
 
 V.- Los miembros de las juntas de beneficencia pública o privada que disfruten sueldo del Erario;
 
-VI.- Los directores de establecimientos de beneficencia pública;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
+VI.- Los directores de establecimientos de beneficencia pública; y
 
-VII.- Los servidores públicos adscritos a la defensoría de oficio, Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes tanto Estatal como Municipal y la Comisión Estatal de los Derechos Humanos.
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2017)</small>
+
+VII.- Los servidores públicos adscritos a la Defensoría de Oficio, Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes tanto Estatal como Municipal, Fiscalía General del Estado, Comisión Estatal de los Derechos Humanos, y a las áreas jurídicas del Instituto de Educación del Estado.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2017)</small>
+
+La Comisión Estatal de los Derechos Humanos será el organismo público responsable de promover una cultura de respeto a los Derechos Humanos de los menores sujetos a la tutela.
 
 Los jueces nombrarán de entre las personas mencionadas las que en cada coso deban desempeñar la tutela, procurando que este cargo se reparta equitativamente, sin perjuicio de que también puedan ser nombrados tutores las personas que figuren en las listas que deben formar los Consejos de Tutela, conforme a lo dispuesto en el Capítulo XV de este Título, cuando estén conformes en desempeñar gratuitamente la tutela de que se trata.
 
@@ -17134,3 +17176,11 @@ P.O. 3 DE JULIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 21 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 126.- SE REFORMA Y ADICIONA EL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
