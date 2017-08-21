@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2017-07-31"
+last_updated: "2017-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2017.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -5453,51 +5453,63 @@ XXVI.- Vigilar en coordinación con la Federación y el Estado, el adecuado uso 
 
 XXVII.- Fijar y aplicar medidas de prevención y control de emergencias ecológicas y contingencias ambientales, así como participar y coadyuvar con las entidades federales y estatales conforme a las políticas y programas que para tal efecto se establezcan;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE AGOSTO DE 2017)</small>
+
 XXVIII.- Formular el Plan de Acción Climática Municipal (PACMUN), coordinar su implementación y actualizarlo cada seis años;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE AGOSTO DE 2017)</small>
 
 XXIX.- Crear e implementar el Plan Municipal de Contingencia Ambiental;
 
-XXX.- Establecer los criterios ambientales relacionados con la mitigación y adaptación a los efectos que tiene en la zona urbana el calentamiento global;
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2017)</small>
 
-XXXI.- Establecer medidas para la preservación y restauración del equilibrio ecológico y la protección ambiental en los centros de población;
+XXX.- Requerir y apercibir al infractor; propietario o poseedor del bien inmueble el cumplimiento a las disposiciones previstas en el Apartado Séptimo del Capítulo VIII del Título Tercero del presente Código;
 
-XXXII.- Difundir la política municipal en materia ambiental e informar sobre la calidad del ambiente en el municipio;
+XXXI.- Establecer los criterios ambientales relacionados con la mitigación y adaptación a los efectos que tiene en la zona urbana el calentamiento global;
 
-XXXIII.- Promover espacios de participación de la sociedad en materia ambiental;
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2017)</small>
 
-XXXIV.- Implementar programas en materia de educación y comunicación ambiental que favorezcan la conservación y el aprovechamiento sustentable de los recursos naturales y la biodiversidad en el municipio;
+XXXII.- Ordenar la práctica de visitas domiciliarias de tipo preventivo precisadas en el artículo 342 SEXIES del presentes (sic) Código, para efecto de llevar a cabo las mediciones de ruido así como detectar la fuente emisora que lo produce. De todo ello se levantará acta circunstanciada;
 
-XXXV.- Celebrar convenios con la Federación, el Estado, otros Municipios y con personas físicas o morales, para la realización de acciones en materia de difusión, protección, conservación y aprovechamiento sustentable de los recursos naturales, biodiversidad y medio ambiente, en el ámbito de su competencia, previa autorización del Cabildo;
+XXXIII.- Establecer medidas para la preservación y restauración del equilibrio ecológico y la protección ambiental en los centros de población;
 
-XXXVI.- Ejercer las atribuciones y funciones que en materia ambiental le hayan sido transferidas por la Federación o el Estado al Municipio, a través de convenios y acuerdos;
+XXXIV.- Difundir la política municipal en materia ambiental e informar sobre la calidad del ambiente en el municipio;
 
-XXXVII.- Promover y establecer la entrega de premios y reconocimientos a quienes realicen esfuerzos destacados para la preservación y restauración del equilibrio ecológico y la protección al ambiente en el municipio;
+XXXV.- Promover espacios de participación de la sociedad en materia ambiental;
 
-XXXVIII.- Establecer y mantener actualizado un sistema de información ambiental, transparente y de fácil acceso a la ciudadanía;
+XXXVI.- Implementar programas en materia de educación y comunicación ambiental que favorezcan la conservación y el aprovechamiento sustentable de los recursos naturales y la biodiversidad en el municipio;
 
-XXXIX.- Integrar el registro municipal de emisiones y transferencia de contaminantes al aire y agua, respecto de materiales, sustancias y residuos de competencia municipal;
+XXXVII.- Celebrar convenios con la Federación, el Estado, otros Municipios y con personas físicas o morales, para la realización de acciones en materia de difusión, protección, conservación y aprovechamiento sustentable de los recursos naturales, biodiversidad y medio ambiente, en el ámbito de su competencia, previa autorización del Cabildo;
 
-XL.- Promover la integración de ecotecnologías en establecimientos comerciales, industriales y de servicios;
+XXXVIII.- Ejercer las atribuciones y funciones que en materia ambiental le hayan sido transferidas por la Federación o el Estado al Municipio, a través de convenios y acuerdos;
 
-XLI.- Promover inversiones públicas y privadas, destinadas a proyectos para la protección del ambiente y el aprovechamiento sustentable de los recursos naturales en el territorio municipal;
+XXXIX.- Promover y establecer la entrega de premios y reconocimientos a quienes realicen esfuerzos destacados para la preservación y restauración del equilibrio ecológico y la protección al ambiente en el municipio;
 
-XLII.- Colaborar con los organismos competentes para la aplicación de las disposiciones jurídicas para prevenir y controlar la contaminación de las aguas que se descarguen en los sistemas de drenaje y alcantarillado de los centros de población, así como de los cauces bajo custodia del Municipio;
+XL.- Establecer y mantener actualizado un sistema de información ambiental, transparente y de fácil acceso a la ciudadanía;
 
-XLIII.- Ordenar y realizar visitas u operativos de inspección y vigilancia para verificar el cumplimiento de las disposiciones jurídicas aplicables a su competencia;
+XLI.- Integrar el registro municipal de emisiones y transferencia de contaminantes al aire y agua, respecto de materiales, sustancias y residuos de competencia municipal;
 
-XLIV.- Determinar las infracciones a este Código que en materia ambiental se establezcan;
+XLII.- Promover la integración de ecotecnologías en establecimientos comerciales, industriales y de servicios;
 
-XLV.- Emitir los acuerdos y resoluciones correspondientes al procedimiento administrativo de inspección y vigilancia, imponiendo las medidas correctivas y de seguridad, así como las sanciones que en su caso procedan, verificando el cumplimiento de dichas medidas y proveyendo lo necesario para la ejecución de sanciones;
+XLIII.- Promover inversiones públicas y privadas, destinadas a proyectos para la protección del ambiente y el aprovechamiento sustentable de los recursos naturales en el territorio municipal;
 
-XLVI.- Ordenar e imponer las medidas técnicas correctivas o de urgente aplicación que correspondan, señalando los plazos para su cumplimiento; así como las medidas de seguridad procedentes, proveyendo lo necesario para obtener la ejecución de estas últimas, indicando, en su caso, las acciones necesarias para subsanar las irregularidades que motivaron la imposición de las medidas de seguridad y los plazos para su realización, a fin de que una vez cumplidas se ordene el retiro de las mismas;
+XLIV.- Colaborar con los organismos competentes para la aplicación de las disposiciones jurídicas para prevenir y controlar la contaminación de las aguas que se descarguen en los sistemas de drenaje y alcantarillado de los centros de población, así como de los cauces bajo custodia del Municipio;
 
-XLVII.- Proponer en la Ley de Ingresos para el Municipio de Aguascalientes, estímulos fiscales a quien incluya en sus edificaciones sistemas captadores de agua pluvial, plantas tratadoras de agua, así como aditamentos que capturen energía, o bien, realice acciones de mejora ambiental adicionales a las previstas como obligatorias en la normatividad;
+XLV.- Ordenar y realizar visitas u operativos de inspección y vigilancia para verificar el cumplimiento de las disposiciones jurídicas aplicables a su competencia;
 
-XLVIII.- Emitir recomendaciones a las autoridades federales, estatales y municipales, con el propósito de promover el cumplimiento de la legislación ambiental;
+XLVI.- Determinar las infracciones a este Código que en materia ambiental se establezcan;
 
-XLIX.- Definir de manera anual los principios, objetivos y metas, mediante los cuales se habrá de formular, conducir y evaluar la política ambiental en el Municipio, así como los instrumentos y procedimiento para su aplicación; y
+XLVII.- Emitir los acuerdos y resoluciones correspondientes al procedimiento administrativo de inspección y vigilancia, imponiendo las medidas correctivas y de seguridad, así como las sanciones que en su caso procedan, verificando el cumplimiento de dichas medidas y proveyendo lo necesario para la ejecución de sanciones;
 
-L.- Las demás que le otorgue el presente Código y demás ordenamientos aplicables en la materia.
+XLVIII.- Ordenar e imponer las medidas técnicas correctivas o de urgente aplicación que correspondan, señalando los plazos para su cumplimiento; así como las medidas de seguridad procedentes, proveyendo lo necesario para obtener la ejecución de estas últimas, indicando, en su caso, las acciones necesarias para subsanar las irregularidades que motivaron la imposición de las medidas de seguridad y los plazos para su realización, a fin de que una vez cumplidas se ordene el retiro de las mismas;
+
+XLIX.- Proponer en la Ley de Ingresos para el Municipio de Aguascalientes, estimulas fiscales a quien incluya en sus edificaciones sistemas captadores de agua pluvial, plantas tratadoras de agua, así como aditamentos que capturen energía, o bien, realice acciones de me jora ambiental adicionales a las previstas como obligatorias en la normatividad;
+
+L.- Emitir recomendaciones a las autoridades federales, estatales y municipales, con el propósito de promover el cumplimiento de la legislación ambiental;
+
+LI.- Definir de manera anual los principios, objetivos y metas, mediante los cuales se habrá de formular, conducir y evaluar la política ambiental en el Municipio, así como los instrumentos y procedimiento para su aplicación; y
+
+LII.- Las demás que le otorgue el presente Código y demás ordenamientos aplicables en la materia.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE MARZO DE 2017)</small>
 
@@ -5709,7 +5721,7 @@ El salario es la retribución que debe de pagarse al trabajador a cambio de los 
 
 ###### ARTÍCULO 130.
 
-El salario será uniforme para cada una de las categorías de los trabajadores y trabajadoras de base de acuerdo al tabulador que establezca la Secretaría de Administración y será fijado legalmente en los presupuestos respectivos, no pudiendo ser menor por razones de origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, , las preferencias sexuales, las orientaciones sexuales, la identidad de género, el estado civil o cualquier otra que atente contra la dignidad humana y que tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+El salario será uniforme para cada una de las categorías de los trabajadores y trabajadoras de base de acuerdo al tabulador que establezca la Secretaría de Administración y será fijado legalmente en los presupuestos respectivos, no pudiendo ser menor por razones de origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, las orientaciones sexuales, la identidad de género, el estado civil o cualquier otra que atente contra la dignidad humana y que tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 APARTADO TERCERO
 
@@ -26815,7 +26827,7 @@ OCTAVO.- Dentro de los quince días hábiles siguientes a su instalación, la Co
 
 P.O. 9 DE ABRIL DE 2012.
 
-PUNTOS RESOLUTIVOS: .
+PUNTOS RESOLUTIVOS: ...
 
 SEGUNDO. La presente reforma al artículo 98 fracción IV surtirá efectos a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
@@ -27320,6 +27332,14 @@ P.O. 31 DE JULIO DE 2017.
 PRIMERO.- Se reforman los artículos 1357, párrafos segundo y tercero, 1372 apartado B en su fracción V, 1384 párrafo primero y 1385 párrafo segundo del Código Municipal de Aguascalientes.
 
 SEGUNDO.- Las presentes reformas iniciarán en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 21 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE "REFORMAS AL ARTÍCULO 114 BIS DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES"
+
+PRIMERO.- La presente reforma iniciará su vigencia, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se reforman a las fracciones XXVIII, la numeración de la fracción XXIX, la numeración y texto de la fracción XXX, adicionadas mediante reforma publicada en el Periódico Oficial del Estado de Aguascalientes el 9 de enero de 2017, por lo que se realiza el corrimiento respectivo en la numeración de las subsecuentes fracciones del artículo 114 BIS del Código Municipal de Aguascalientes.
 
 ###### ARTICULO UNICO.
 
