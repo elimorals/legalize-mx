@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-procedimientos-civiles-del-estado-de-2593"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-16"
-last_updated: "2017-07-03"
+last_updated: "2017-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2017.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1989.
 
@@ -1327,9 +1327,9 @@ La persona que intente acción de divorcio, denuncia o querella en contra de su 
 
 El juez podrá llevar a cabo las diligencias que estime convenientes para su mejor juicio y podrá decretar dicha suspensión, tomando en cuenta las circunstancias personales de cada uno de los cónyuges, el interés superior de los hijos menores y de los sujetos a tutela, y dictará las medidas necesarias para asegurar la subsistencia de aquellos a quienes haya la obligación de dar alimentos, quedando subsistentes las demás obligaciones creadas por el matrimonio.
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2017)</small>
 
-El juez estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de menores o de alimentos, y para el caso de violencia familiar y alienación parental, el juez valorará los dictámenes, informes y opiniones que hubieren realizado las instituciones públicas, o privadas dedicadas a atender asuntos de esta índole.
+El juez estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de adultos mayores, menores de edad, y de alimentos y para el caso de violencia familiar y alienación parental, el juez valorará los dictámenes, informes y opiniones que hubieren realizado las instituciones públicas, o privadas dedicadas a atender asuntos de esta índole.
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
@@ -3559,9 +3559,9 @@ IV.- La confesión de la deuda hecha ante juez competente por el deudor o por su
 
 V.- Los convenios celebrados en el curso de un juicio ante el juez, ya sea de las partes entre sí o de terceros que se hubieren obligado como fiadores, depositarios o en cualquier otra forma;
 
-> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2017)</small>
 
-VI.- Los convenios celebrados ante las autoridades ministeriales, judiciales o ejecutoras, en términos de lo previsto por el Código Nacional de Procedimientos Penales, por los sujetos procesales interesados;
+VI.- Los convenios celebrados ante el Centro de Mediación del Poder Judicial del Estado, o ante las autoridades ministeriales, judiciales o ejecutoras en términos de lo previsto por el Código Nacional de Procedimientos Penales, por los sujetos procesales interesados;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE FEBRERO DE 2004)</small>
 
@@ -4073,15 +4073,9 @@ Tan luego como cause ejecutoria la sentencia que se pronuncie en estos juicios, 
 
 ### CAPITULO X. De la Pérdida de la Patria Potestad
 
-> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2017)</small>
 
-###### ARTICULO 614 - A.
-
-El procedimiento a que se refiere este Capítulo tiene por objeto determinar la pérdida de la patria potestad de los menores albergados en instituciones públicas de asistencia social, en los casos previstos por el Artículo 466, Fracciones III, IV, V y VI del Código Civil del Estado.
-
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2015)</small>
-
-Corresponderá a la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes en el Estado de Aguascalientes o al Ministerio Público, el ejercicio de la acción relativa a la promoción del juicio.
+ARTICULO 614 A.- El procedimiento a que se refiere este Capítulo tiene por objeto determinar la pérdida de la patria potestad de los menores albergados en instituciones públicas y privadas de asistencia social, en los casos previstos por el Artículo 466, del Código Civil del Estado.
 
 > <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2012)</small>
 
@@ -4155,11 +4149,9 @@ En el auto de admisión de pruebas se fijara día y hora para la audiencia, mism
 
 Abierta la audiencia se procederá al desahogo de las pruebas admitidas y de las ordenadas oficiosamente; si no fuere posible desahogar todas las pruebas, ésta podrá diferirse una sola vez por un término no mayor de cinco días.
 
-> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2017)</small>
 
-###### ARTICULO 614 - F.
-
-Una vez desahogadas las pruebas, se procederá a la formulación de alegatos ya sea oralmente o por escrito, concluida esta fase, el juez citará a las partes para oír sentencia, la que deberá dictarse dentro de los cinco días siguientes.
+ARTICULO 614 F.- En la misma audiencia una vez desahogadas las pruebas, se procederá a la formulación de alegatos ya sea oralmente o por escrito, concluida esta fase, el juez citará a las partes para oír sentencia, la que deberá dictarse dentro de los cinco días siguientes.
 
 > <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2012)</small>
 
@@ -5651,7 +5643,7 @@ En todos los casos en que el tutor necesite para algún acto de la licencia del 
 
 ### CAPITULO VI. Adopción
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2017)</small>
 
 ###### ARTICULO 845.
 
@@ -5739,27 +5731,41 @@ La venta de los bienes indivisos pertenecientes a mayores o menores de edad, se 
 
 ###### ARTICULO 858.
 
-El que pretenda adoptar a uno o más menores o a uno o más incapaces, deberá acreditar los requisitos establecidos en el Artículo 413 del Código Civil.
+El procedimiento especial de adopción tiene como finalidad el que tras haber cumplido los requisitos del artículo 413 del Código Civil, el Juez declare la creación del vínculo de parentesco entre adoptante y adoptado.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
 
 En la promoción inicial deberá manifestarse: El nombre y edad del menor o incapaz, el nombre y domicilio de quienes ejercen sobre él la patria potestad o la tutela, y en su caso, el de la persona o institución de asistencia social pública o privada que lo tenga acogido.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2017)</small>
 
 ###### ARTICULO 859.
 
-Rendidas las justificaciones que se exigen en el Artículo anterior y obtenido el consentimiento de las personas que deban darlo conforme al Artículo 420 del Código Civil, el tribunal resolverá dentro del tercer día.
+Los interesados o la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes del Estado de Aguascalientes deberán presentar escrito mediante el cual, además de los requisitos señalados en el artículo 223 de este Código contenga lo siguiente:
+
+I.- El nombre y edad de la persona a ser adoptada y del adoptante;
+
+II.- El nombre y domicilio de quien o quienes ejercen la patria potestad o tutela, y en su caso, el de la persona o institución de asistencia social pública o privada que lo tenga acogido; y
+
+III.- Los medios de prueba con que se acreditan los extremos descritos en el artículo 413 del Código Civil.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE AGOSTO DE 2017)</small>
 
 ###### ARTICULO 860.
 
-(DEROGADO, P.O. 2 DE ABRIL DE 2012)
+Los interesados deberán ofrecer las pruebas desde el escrito inicial con que acrediten su pretensión, debiendo en todo momento proveer los medios para el desahogo de las mismas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE AGOSTO DE 2017)</small>
 
 ###### ARTICULO 861.
 
-(DEROGADO, P.O. 2 DE ABRIL DE 2012)
+Recibida la solicitud y tras cerciorarse que cumple con las disposiciones del artículo 860, el Juez la radicará, pronunciándose sobre la admisión de pruebas y señalará fecha de audiencia, mandando notificar a las personas señaladas en el artículo 420 del Código Civil según corresponda, para que a más tardar el día y hora de la audiencia manifiesten su conformidad u oposición a la adopción.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE AGOSTO DE 2017)</small>
 
 ###### ARTICULO 862.
 
-(DEROGADO, P.O. 2 DE ABRIL DE 2012)
+En la audiencia de juicio que se desahogarán las pruebas, y se resolverá de plano en caso de que hubiere habido oposición a la adopción. Concluido el desahogo de pruebas, el juez recibirá alegatos de manera oral o por escrito dentro de la misma audiencia, debiendo dictar su sentencia a más tardar en los tres días siguientes.
 
 ### CAPITULO VIII. Depósito de Personas
 
@@ -6408,3 +6414,11 @@ P.O. 3 DE JULIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 21 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 126.- SE REFORMA Y ADICIONA EL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
