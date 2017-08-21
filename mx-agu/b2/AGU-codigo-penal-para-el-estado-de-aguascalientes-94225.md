@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2017-05-08"
+last_updated: "2017-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2017.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -711,11 +711,45 @@ V. Remoción de sus funcionarios, solo por el tiempo indispensable para sustitui
 
 Con relación a la multa y al pago de reparación de daños y perjuicios, se estará a lo dispuesto por este Código, respecto a lo señalado para las personas físicas, con las adecuaciones correspondientes tratándose de personas colectivas, en tratándose de la multa.
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE AGOSTO DE 2017)</small>
+
+### CAPÍTULO XIV. Delitos Graves que Ameritan Prisión Preventiva Oficiosa
+
+(NOTA: EL 2 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 125/2017 Y SU ACUMULADA 127/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE AGOSTO DE 2017, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 127, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2017)</small>
+
+###### ARTÍCULO 75-A.
+
+Hechos punibles de prisión preventiva oficiosa. Conforme a lo establecido en el Código Nacional de Procedimientos Penales, se considerarán delitos graves y por tanto se aplicará prisión preventiva oficiosa, a las siguientes figuras típicas:
+
+I. Homicidio Doloso, previsto en los Artículos 97 y 99;
+
+II. Feminicidio, previsto en el Artículo 97-A;
+
+III. Homicidio Doloso Calificado previsto en el Artículo 107;
+
+IV. Lesiones Dolosas Calificadas, previstas en el Artículo 107, en relación con el Artículo 104, Fracciones V y VI;
+
+V. Atentados al Pudor o Atentados al Pudor equiparado, previsto en el Artículo 115, cuando la víctima sea menor de doce años de edad o que por cualquier causa no pueda resistir la conducta del sujeto activo;
+
+VI. Corrupción de Menores e Incapaces, prevista en el Artículo 116;
+
+VII. Pornografía infantil o de incapaces, prevista en el Artículo 117;
+
+VIII. Violación, prevista en el Artículo 119;
+
+IX. Violación Equiparada, prevista en el Artículo 120;
+
+X. Tráfico de Menores, prevista en los párrafos primero y segundo del Artículo 126;
+
+XI. Sustracción de Menores e Incapaces, prevista en el Artículo 127, salvo que el inculpado sea familiar del menor o incapaz objeto de sustracción o retención; y
+
+XII. Los supuestos establecidos en las leyes generales y federales correspondientes, que ameriten prisión preventiva oficiosa respecto a los hechos punibles que prevean tales ordenamientos;
 
 ## TÍTULO QUINTO. EXTINCIÓN DE LA PRETENSIÓN PUNITIVA Y DE LA POTESTAD DE EJECUTAR PENAS Y MEDIDA DE SEGURIDAD
 
-### CAPÍTULO I. Tipos Penales Protectores de la Vida y la Salud Personales
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 76.
 
@@ -915,13 +949,49 @@ Resolución de la extinción. La extinción de la acción penal y de la potestad
 
 ## TÍTULO PRIMERO. FIGURAS TÍPICAS DOLOSAS
 
-### CAPÍTULO II. Tipos Penales Protectores de la Libertad Sexual, la Seguridad Sexual, el Normal Desarrollo Físico y Psicosexual, y el Libre Desarrollo de la Personalidad
+### CAPÍTULO I. Tipos Penales Protectores de la Vida y la Salud Personales
 
 ###### ARTÍCULO 97.
 
 Homicidio Doloso. El Homicidio Doloso consiste en privar de la vida a un ser humano por cualquier medio.
 
 Al responsable de Homicidio Doloso se le aplicarán de 8 a 20 años de prisión y de 25 a 250 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2017)</small>
+
+###### ARTÍCULO 97-A.
+
+Feminicidio. Comete el delito de feminicidio la persona que por razones de género prive de la vida a una mujer.
+
+Se considerará que existen razones de género cuando se acredite cualquiera de las siguientes hipótesis:
+
+I. Exista o haya existido entre el activo y la víctima una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, noviazgo, amistad o cualquier otra relación de hecho;
+
+II. Exista o haya existido entre el activo y la víctima una relación laboral, docente o cualquiera otra que implique confianza, subordinación o superioridad;
+
+III. La víctima presente signos de violencia sexual de cualquier tipo;
+
+IV. A la víctima se le hayan infligido lesiones o mutilaciones, previas o posteriores a la privación de la vida;
+
+V. Existan antecedentes o actos de amenazas, violencia o lesiones de cualquier tipo por parte del sujeto activo contra la víctima;
+
+VI. El cuerpo de la víctima sea expuesto, depositado o arrojado en lugar público;
+
+VII. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de su vida;
+
+VIII. Que el activo haya obligado a la víctima a ejercer la prostitución, o haya ejercido actos de trata de personas en agravio de la víctima;
+
+IX. Cuando la víctima se haya encontrado en estado de indefensión, entendiéndose ésta como la situación de desprotección real o incapacidad que imposibilite su defensa;
+
+X. Cuando el sujeto activo abuse de su cargo público para la comisión del delito.
+
+A quién cometa el delito de feminicidio se sancionará con prisión de cuarenta a sesenta años, de 500 a 1000 días multa así como el pago total de la reparación de los daños y perjuicios ocasionados.
+
+Se impondrá además de la pena, la pérdida de derechos con respecto a la víctima y ofendidos, incluidos los de carácter sucesorio.
+
+Cuando la víctima tenga hijos menores de edad que queden en la orfandad, el responsable deberá indemnizar en concepto de reparación del daño a los representantes de los menores con el doble de la indemnización a que alude el artículo 58 del presente Código.
+
+En caso de que no se acredite el feminicidio se aplicarán las reglas del homicidio doloso.
 
 ###### ARTÍCULO 98.
 
@@ -1021,9 +1091,13 @@ V. Cuando el responsable tenga relación de pareja o de carácter conyugal, sea 
 
 VI. Cuando la víctima esté sujeta a patria potestad, tutela, curatela o custodia del responsable; o
 
-VII. En caso de Feminicidio.
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2017)</small>
 
-En el caso de Homicidio Doloso Calificado a que se refieren las Fracciones I a la III, se aplicará al responsable de 15 a 40 años de prisión, de 150 a 500 días multa y pago total de la reparación de los daños y perjuicios ocasionados. En el caso de las Fracciones IV a la VII se aplicará al responsable de 20 a 50 años de prisión, de 500 a 1000 días de multa y pago total de la reparación de los daños y perjuicios ocasionados, privándose además al responsable de los derechos familiares que le correspondan, incluidos los de derecho sucesorio.
+VII. En caso de que las lesiones dolosas se cometan por razones de género.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2017)</small>
+
+En el caso de Homicidio Doloso Calificado a que se refieren las Fracciones I a la III, se aplicará al responsable de 15 a 40 años de prisión, de 150 a 500 días multa y pago total de la reparación de los daños y perjuicios ocasionados. En el caso de las Fracciones IV a la VI se aplicará al responsable de 20 a 50 años de prisión, de 500 a 1000 días de multa y pago total de la reparación de los daños y perjuicios ocasionados, privándose además al responsable de los derechos familiares que le correspondan, incluidos los de derecho sucesorio. En el caso de la Fracción VII, se aplicará al responsable de 40 a 60 años de prisión, de 500 a 1000 días multa, el pago total de la reparación de los daños y perjuicios ocasionados, además perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
 
 Si las Lesiones Dolosas son Calificadas, la punibilidad establecida en el Artículo 104 se aumentará hasta en dos terceras partes en sus mínimos y máximos, privándose además al responsable de los derechos familiares que le correspondan, incluidos los de derecho sucesorio, en tratándose de los supuestos de las Fracciones V y VI del presente Artículo.
 
@@ -1047,31 +1121,47 @@ Traición. Existe Traición cuando el inculpado provoca el resultado de lesión,
 
 Brutal ferocidad. Existe Brutal Ferocidad, cuando el inculpado provoca el resultado lesivo sin causa o motivo que lo explique, o por una causa móvil notoriamente desproporcionada.
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2017)</small>
+
 ###### ARTÍCULO 113.
 
-Feminicidio. Existe Homicidio calificado como Feminicidio cuando un hombre prive de la vida a una mujer por razones de género.
+Razones de Género. Las lesiones dolosas serán calificados (sic) cuando se cometan en contra de una mujer por razones de género.
 
-Existen razones de género cuando se presente cualquiera de los siguientes supuestos:
+Existen razones de género cuando se presente cualquiera de los supuestos establecidos en el artículo 97-A de este Código.
 
-I. La víctima presente signos de violencia sexual de cualquier tipo;
-
-II. A la víctima se le hayan infligido lesiones infamantes, degradantes o mutilaciones, previas a la privación de la vida; o
-
-III. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a su fallecimiento.
-
-### CAPÍTULO III. Tipos Penales Protectores de la Familia
+### CAPÍTULO II. Tipos Penales Protectores de la Libertad Sexual, la Seguridad Sexual, el Normal Desarrollo Físico y Psicosexual, y el Libre Desarrollo de la Personalidad
 
 ###### ARTÍCULO 114.
 
 Hostigamiento sexual. El Hostigamiento Sexual consiste en:
 
-I. El asedio que se haga, con fines lascivos, sobre personas de cualquier sexo por quien se aproveche de su posición jerárquica, derivada de relaciones laborales, docentes, domésticas o de cualquier otra clase, que implique subordinación de parte de la víctima; o
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2017)</small>
 
-II. El asedio con fines lascivos para sí o por tercera persona, a personas de cualquier sexo, aprovechándose de cualquier circunstancia de necesidad o de desventaja de la víctima.
+I. El asedio que se haga, con fines lascivos, sobre personas de cualquier sexo por quien se aproveche de su posición jerárquica, derivada de relaciones laborales, docentes, domésticas o de cualquier otra clase, que implique subordinación de parte de la víctima;
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2017)</small>
 
-Al responsable de Hostigamiento Sexual se le aplicarán de 1 a 2 años de prisión y de 50 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados. La pena de prisión aumentará hasta las dos terceras partes respecto de los mínimos y máximos, cuando la víctima sea menor de 18 años de edad.
+II. El asedio con fines lascivos para sí o por tercera persona, a personas de cualquier sexo, aprovechándose de cualquier circunstancia de necesidad o de desventaja de la víctima;
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2017)</small>
+
+III. El asedio que se haga, con fines lascivos, sobre personas en espacios o establecimientos públicos, que afecte o perturben el derecho a la integridad física, psíquica y moral o el derecho al libre tránsito; causándole intimidación, degradación, humillación o un ambiente ofensivo; o
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2017)</small>
+
+IV. Captar imágenes o cualquier registro audiovisual del cuerpo de otra persona o de alguna parte de su cuerpo, sin su consentimiento y con un carácter erótico sexual.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2017)</small>
+
+Al responsable de Hostigamiento Sexual previsto en las Fracciones I y II del presente Artículo se le aplicarán de 1 a 2 años de prisión y de 50 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados. La pena de prisión aumentará hasta las dos terceras partes respecto de los mínimos y máximos, cuando la víctima sea menor de 18 años de edad o cuando el responsable tenga o haya tenido una relación de pareja con la víctima.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2017)</small>
+
+Al responsable de Hostigamiento Sexual previsto en las Fracciones III y IV se le aplicarán de 6 meses a 1 año 6 meses de prisión y de 50 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2017)</small>
+
+La pena de prisión y días de multa de Hostigamiento Sexual se aumentará hasta en una mitad en sus mínimos y sus máximos cuando la conducta sea cometida por ascendiente contra su descendiente, el tutor contra su pupilo, o adoptante contra su adoptado, o el guía religioso contra su asesorado.
 
 ###### ARTÍCULO 115.
 
@@ -1171,7 +1261,9 @@ Violación. La Violación consiste en realizar cópula con persona de cualquier 
 
 Al responsable de Violación se le aplicarán de 10 a 16 años de prisión y de 100 a 200 días multa y al pago total de la reparación de los daños y perjuicios ocasionados. Si la víctima es mayor de 12 años pero menor de 18 años de edad, al responsable se le aplicarán de 12 a 18 años de prisión y de 150 a 250 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
-Si entre el activo y pasivo de la Violación, existiera un vínculo matrimonial o de concubinato, se impondrá la pena prevista en el presente Artículo.
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2017)</small>
+
+Si entre el activo y pasivo de la Violación, existiera un vínculo matrimonial o de concubinato, se impondrá la pena prevista en el presente Artículo; y en su caso, el aumento de sanción prevista en el Artículo 124 de este Código.
 
 Para los efectos de este Código, se entiende por cópula la introducción del pene en el cuerpo humano, por vía vaginal, anal u oral.
 
@@ -1215,17 +1307,21 @@ El pago de los alimentos se hará en la forma y términos que la ley civil fije 
 
 (DEROGADO, P.O. 2 DE FEBRERO DE 2015)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2017)</small>
 
 ###### ARTÍCULO 124.
 
-Aumento de sanción. La punibilidad prevista para los Tipos Penales de violación, violación equiparada y atentados al pudor, se aumentará hasta en una mitad en sus mínimos y sus máximos, cuando:
+Aumento de sanción. La punibilidad prevista para los Tipos Penales de violación, violación equiparada y atentados al pudor, se aumentará hasta:
 
-I. Los hechos descritos sean cometidos a nivel de coautoría;
+I.- En una mitad en sus mínimos y sus máximos, cuando:
 
-II. Los hechos descritos sean cometidos por servidores públicos con motivo del ejercicio de sus funciones; o
+a) Los hechos descritos sean cometidos a nivel de coautoría;
 
-III. Los hechos descritos sean cometidos por ascendiente contra su descendiente, el hermano con su colateral, el tutor con su pupilo o el padrastro o amasio de la madre con el hijastro, el maestro con el alumno o el guía religioso con su asesorado.
+b) Los hechos descritos sean cometidos por servidores públicos con motivo del ejercicio de sus funciones; o
+
+c) Los hechos descritos sean cometidos por ascendiente contra su descendiente, el hermano con su colateral, el tutor con su pupilo o el padrastro o amasio de la madre con el hijastro, el maestro con el alumno o el guía religioso con su asesorado;
+
+II.- En una cuarta en sus mínimos y sus máximos, cuando el responsable tenga o haya tenido una relación de pareja con la víctima.
 
 ###### ARTÍCULO 125.
 
@@ -1251,7 +1347,7 @@ Sustracción de menores e incapaces. La Sustracción de Menores e Incapaces cons
 
 Al responsable de Sustracción de Menores e Incapaces se le aplicarán de 4 a 10 años de prisión y de 10 a 60 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados. Si el responsable es familiar del menor o incapaz y no ejerce sobre él la custodia, la tutela o la guarda, se le aplicarán de 2 a 4 años de prisión y de 5 a 40 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
-### CAPÍTULO IV. Tipos Penales Protectores de la Libertad y Seguridad de las Personas
+### CAPÍTULO III. Tipos Penales Protectores de la Familia
 
 ###### ARTÍCULO 128.
 
@@ -1297,19 +1393,33 @@ Al responsable de Incumplimiento de las Obligaciones de Asistencia Familiar se l
 
 Violencia familiar. La violencia familiar consiste en usar la fuerza física o moral en contra de un miembro de la familia por otro integrante de la misma y que ello le cause afectación en su integridad física o psíquica.
 
-Se consideran autores de violencia familiar a los cónyuges, la concubina o el concubino, el pariente consanguíneo en línea recta ascendiente o descendiente sin limitación de grado, el pariente colateral consanguíneo o afín hasta el cuarto grado, el adoptante o el adoptado y el pariente por afinidad hasta el cuarto grado, cuando la acción básica se realice en el domicilio de la víctima.
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2017)</small>
+
+Se consideran autores de violencia familiar a los cónyuges, la concubina o el concubino, el pariente consanguíneo en línea recta ascendiente o descendiente sin limitación de grado, el pariente colateral consanguíneo o afín hasta el cuarto grado, el adoptante o el adoptado y el pariente por afinidad hasta el cuarto grado.
 
 Al responsable de violencia familiar se le aplicarán de 1 a 4 años de prisión de 50 a 100 días de multa, así como al pago de la reparación de los daños y perjuicios ocasionados, a la privación de los derechos de familia respectivos, así como a la prohibición de acudir al domicilio de la víctima o acercarse a ésta.
 
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2017)</small>
+
+Cuando la violencia se ejerza sobre personas menores de edad, personas con discapacidad, embarazadas o cualquier otra circunstancia que no esté en condiciones de resistir la conducta violenta, o cuando la acción básica se realice en el domicilio de la víctima, la pena de prisión se aumentará hasta un cincuenta por ciento más en sus mínimos y máximos.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2017)</small>
+
 ###### ARTÍCULO 133.
 
-Violencia familiar equiparada. Se equiparan a la violencia familiar, cuando la violencia se ejerza en lugar distinto del domicilio de la víctima, siempre que obre constancia previa de actos de violencia perpetrados en el domicilio de la víctima.
+Violencia a partir de una relación de pareja.- La violencia a partir de una relación de pareja consiste en la violencia psicológica que ejerza una persona en contra de otra en una relación de pareja y que ello le cause afectación en su autoestima o seguridad, con el objeto de controlar, intimidar, humillar, someter o dominar a la persona, impidiendo su libre desarrollo de la personalidad.
 
-Al responsable de violencia familiar equiparada se le aplicarán de 1 a 4 años de prisión, de 50 a 100 días multa; así como al pago de la reparación de los daños y perjuicios ocasionados, a la privación de los derechos de familia respectivos, así como a la prohibición de acudir al domicilio de la víctima o acercarse a ésta.
+Al responsable de violencia a partir de una relación de pareja se le aplicarán de 1 a 4 años de prisión y de 50 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados. La pena de prisión aumentará hasta las dos terceras partes respecto de los mínimos y máximos, cuando la víctima sea menor de 18 años de edad.
 
-Cuando la violencia se ejerza sobre personas que por razón de su edad, discapacidad, embarazo, o cualquier otra circunstancia no esté en condiciones de resistir la conducta violenta, la pena se aumentará hasta un cincuenta por ciento más en sus mínimos y máximos.
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2017)</small>
 
-### CAPÍTULO V. Tipos Penales Protectores del Patrimonio
+###### ARTÍCULO 133-A.
+
+Exposición de menores o incapaces. La exposición de menores o incapaces consiste en dejar en total exposición, a una persona menor de edad, o que siendo mayor de edad le es imposible cuidar de sí mismo, colocándole en una situación de desamparo, de tal manera que se pongan en riesgo la integridad personal y libre desarrollo de la personalidad; por parte de quienes tienen su guarda y custodia, los hayan acogido materialmente, o tengan el deber de cuidarlo.
+
+Al responsable de Exposición de menores o incapaces se le aplicaran de 1 a 4 años de prisión y de 50 a 100 días multa, además de perder la patria potestad o ser destituido de la tutela, según corresponda.
+
+### CAPÍTULO IV. Tipos Penales Protectores de la Libertad y Seguridad de las Personas
 
 ###### ARTÍCULO 134.
 
@@ -1367,7 +1477,7 @@ II. El cónyuge, la concubina, el concubinario, pareja permanente, parientes col
 
 III. Los que estén ligados con las personas por amor, respeto, gratitud o estrecha amistad.
 
-### CAPÍTULO VI. Tipos Penales Protectores de la Estética Urbana
+### CAPÍTULO V. Tipos Penales Protectores del Patrimonio
 
 ###### ARTÍCULO 140.
 
@@ -1403,9 +1513,25 @@ II. Desmantele algún o algunos vehículos robados o comercialice conjunta o sep
 
 III. Comercialice o trafique de cualquier manera con vehículo o vehículos robados.
 
+(NOTA: EL 2 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 125/2017 Y SU ACUMULADA 127/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE AGOSTO DE 2017, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 127, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2017)</small>
+
+IV. A QUIEN ADQUIERA, COMERCIALICE O ESTÉ EN POSESIÓN DE UNO O MÁS DISPOSITIVOS ELECTRÓNICOS CON CAPACIDAD DE CONECTARSE A INTERNET DE MANERA INALÁMBRICA POR MEDIO DE CUALQUIER TIPO DE RED, QUE TENGA DENUNCIA DE ROBO ANTE LA AUTORIDAD COMPETENTE; O
+
+(NOTA: EL 2 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 125/2017 Y SU ACUMULADA 127/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE AGOSTO DE 2017, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 127, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2017)</small>
+
+V. A QUIEN ADQUIERA, COMERCIALICE O TENGA LA POSESIÓN DE BIENES MUEBLES QUE SEAN PRODUCTO DE ROBO, SEGÚN SE HAYA ACREDITADO DENUNCIA ANTE LA AUTORIDAD COMPETENTE.
+
 Al responsable de Robo Equiparado se le aplicarán de 2 a 4 años de prisión y de 100 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando se cometa en el supuesto de la Fracción I.
 
 Se aplicarán de 4 a 6 años de prisión y de 200 a 400 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando se cometa en cualquiera de los supuestos de las Fracciones II y III.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2017)</small>
+
+Se aplicarán de 2 a 4 años de prisión y de 100 a 300 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial exceda de cien veces el valor diario de la unidad de medida y actualización; y de 6 meses a 2 años y de 50 a 150 días de multa cuando el valor de la afectación patrimonial no exceda de cien veces el valor diario de la unidad de medida y actualización, cuando se cometa en cualquiera de los supuestos previstos en la (sic) Fracciones IV y V.
 
 ###### ARTÍCULO 142.
 
@@ -1461,7 +1587,13 @@ II. El apoderamiento de una o más cabezas de ganado propio, cualquiera que sea 
 
 Al responsable de Abigeato contemplado en la Fracción I se le aplicarán de 4 a 10 años de prisión y de 150 a 300 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
-Al responsable de Abigeato contemplado en la Fracción II se le aplicarán de 3 a 8 años de prisión y de 50 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2017)</small>
+
+Al responsable de Abigeato contemplado en la Fracción II se le aplicarán de 3 a 10 años de prisión y de 150 a 500 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2017)</small>
+
+Se considerará ganado, para los efectos de este delito, a las especies: bovina, caballar, asnal, mular, ovina, caprina, porcina o de una o más colonias de abejas en un apiario; así como aquél domesticado, bravo, de pezuña, ganado mayor o ganado menor, independientemente de la actividad típica del animal.
 
 ###### ARTÍCULO 144.
 
@@ -1473,6 +1605,18 @@ II. Se cometa con uso de fuerza física o moral suficiente en contra de la víct
 
 III. Cuando la afectación patrimonial producida sea el equivalente al valor del veinte por ciento o más de los animales propiedad de la víctima.
 
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2017)</small>
+
+IV. Al que, con ánimo de apropiársela, se apodere de una o más cabezas de ganado ajeno, alterando o eliminando las marcas o señales de identificación; o
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2017)</small>
+
+V. Se cometa por quien tenga una relación contractual, laboral, o de parentesco por consanguinidad o afinidad hasta el cuarto grado con el propietario del ganado.
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2017)</small>
+
+VI. Se cometa por un servidor público.
+
 Al responsable de Abigeato Calificado se le aplicará hasta en dos terceras partes más de los mínimos y máximos previstos para el tipo penal de Abigeato.
 
 ###### ARTÍCULO 145.
@@ -1481,9 +1625,17 @@ Abigeato equiparado. Se equipara al Abigeato:
 
 I. Al que, con ánimo de apropiársela, altere o elimine las marcas o señales de identificación de una o más cabezas de ganado ajeno;
 
-II. Al que, con ánimo de apropiársela, marque o señale una o más cabezas de ganado ajeno;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2017)</small>
 
-Al responsable de Abigeato Equiparado se le aplicarán de 2 a 4 años de prisión y de 100 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+II. Al que, sin tener la posesión del ganado y con ánimo de apropiársela, altere o elimine las marcas o señales de identificación; o
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2017)</small>
+
+III. Al que, proceda al sacrificio de ganado, sin el consentimiento de quien legalmente pueda otorgarlo;
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2017)</small>
+
+Al responsable de Abigeato Equiparado se le aplicarán de 2 a 8 años de prisión y de 150 a 350 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
 ###### ARTÍCULO 146.
 
@@ -1643,7 +1795,7 @@ II. Si se utiliza para la destrucción o deterioro de los bienes inundación, in
 
 III. Si el daño se causa en forma total o parcial respecto de programas, archivos, bases de datos o cualquier otro elemento intangible contenido en sistemas o redes de computadoras, soportes lógicos o cualquier medio magnético.
 
-### CAPÍTULO VII. Tipos Penales Protectores del Desarrollo Urbano
+### CAPÍTULO VI. Tipos Penales Protectores de la Estética Urbana
 
 ###### ARTÍCULO 153.
 
@@ -1655,7 +1807,7 @@ Al responsable de Atentados a la Estética Urbana se le aplicarán de 3 meses a 
 
 Excepción electoral. Tratándose de propaganda o promoción de partidos o grupos políticos, se estará a lo dispuesto por la legislación electoral del Estado.
 
-### CAPÍTULO VIII. Tipos Penales Protectores del Ejercicio Profesional
+### CAPÍTULO VII. Tipos Penales Protectores del Desarrollo Urbano
 
 ###### ARTÍCULO 155.
 
@@ -1679,7 +1831,7 @@ c) Estén ubicadas en zonas bajo la influencia de depósitos de residuos peligro
 
 Al responsable de Atentados al Desarrollo Urbano Ordenado se le aplicarán de 5 a 15 años de prisión y de 300 a 500 días multa, y al pago de la reparación de los daños y perjuicios ocasionados.
 
-### CAPÍTULO IX. Tipos Penales Protectores de la Fe Pública
+### CAPÍTULO VIII. Tipos Penales Protectores del Ejercicio Profesional
 
 ###### ARTÍCULO 156.
 
@@ -1743,6 +1895,42 @@ VII. Patrocinar o defender directa o indirectamente, los negocios en los que, no
 
 Al responsable de la comisión de la presente figura típica se le aplicarán de 1 a 3 años de prisión, de 25 a 100 días multa, al pago total de la reparación de los daños y perjuicios ocasionados, y suspensión de 6 meses a 3 años para ejercer la profesión.
 
+### CAPÍTULO IX. Tipos Penales Protectores de la Fe Pública
+
+###### ARTÍCULO 160.
+
+Falsificación y uso indebido de sellos, marcas, llaves, contraseñas y otros objetos. La Falsificación y Uso Indebido de Sellos, Marcas, Llaves, Contraseñas y Otros Objetos consiste en la suplantación, alteración, enajenación, destrucción u ocultamiento de cualquier clase de sellos, marcas, llaves, boletos, contraseñas, troqueles o cuños oficiales o particulares o uso no autorizado de los mismos, con el fin manifiesto de obtener un beneficio indebido o para causar un daño.
+
+Al responsable de Falsificación y Uso Indebido de Sellos, Marcas, Llaves, Contraseñas y Otros Objetos se le aplicarán de 1 a 5 años de prisión y de 25 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+
+###### ARTÍCULO 161.
+
+Falsificación de documentos. La Falsificación de Documentos consiste en:
+
+I. Alterar un documento público o privado, o cualquier dispositivo electrónico en forma de tarjeta plástica, o imitar los originales, obteniendo un beneficio o provocando un daño; o
+
+II. Ejercer el fedatario público sus funciones cuando deba abstenerse en términos de la Ley del Notariado del Estado, o dar fe de lo que no consta en autos, registros, protocolos o documentos, y que el documento expedido sea utilizado para obtener un beneficio o provocar un daño.
+
+Al responsable de Falsificación de Documentos se le aplicarán de 1 a 5 años de prisión y multa de 25 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados. Respecto de los fedatarios, se informará de la responsabilidad que haya tenido a las autoridades administrativas competentes de su vigilancia y control, para los efectos legales correspondientes.
+
+###### ARTÍCULO 162.
+
+Uso de documentos falsos. El Uso de Documentos Falsos consiste en utilizar en su provecho, el inculpado, con conocimiento de esa circunstancia:
+
+I. Un documento original alterado;
+
+II. Un documento imitación del original; o
+
+III. Un documento original expedido a favor de otro, como si hubiera sido expedido a su nombre.
+
+Al responsable de Uso de Documentos Falsos se le aplicarán de 1 a 5 años de prisión y de 25 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+
+###### ARTÍCULO 163.
+
+Usurpación de profesiones. La Usurpación de Profesiones consiste en el ejercicio que se haga por el inculpado de los actos propios de una profesión, sin tener Título o autorización legal y se ostente como profesional de la materia.
+
+Al responsable de Usurpación de Profesiones se le aplicarán de 6 meses a 5 años de prisión y de 20 a 250 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+
 ### CAPÍTULO X. Tipos Penales Protectores de la Administración Pública
 
 > <small>(ADICIONADO, P.O. 8 DE MAYO DE 2017)</small>
@@ -1794,42 +1982,6 @@ Sin perjuicio de lo anterior, la categoría de funcionario o empleado de confian
 > <small>(ADICIONADO, P.O. 8 DE MAYO DE 2017)</small>
 
 ARTÍCULO 163 C.- Cuando los delitos a que se refieren los artículos 169, 170 y 173 del presente Código, sean cometidos por servidores públicos miembros de alguna corporación policiaca las penas previstas serán aumentadas hasta en una mitad.
-
-###### ARTÍCULO 160.
-
-Falsificación y uso indebido de sellos, marcas, llaves, contraseñas y otros objetos. La Falsificación y Uso Indebido de Sellos, Marcas, Llaves, Contraseñas y Otros Objetos consiste en la suplantación, alteración, enajenación, destrucción u ocultamiento de cualquier clase de sellos, marcas, llaves, boletos, contraseñas, troqueles o cuños oficiales o particulares o uso no autorizado de los mismos, con el fin manifiesto de obtener un beneficio indebido o para causar un daño.
-
-Al responsable de Falsificación y Uso Indebido de Sellos, Marcas, Llaves, Contraseñas y Otros Objetos se le aplicarán de 1 a 5 años de prisión y de 25 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
-
-###### ARTÍCULO 161.
-
-Falsificación de documentos. La Falsificación de Documentos consiste en:
-
-I. Alterar un documento público o privado, o cualquier dispositivo electrónico en forma de tarjeta plástica, o imitar los originales, obteniendo un beneficio o provocando un daño; o
-
-II. Ejercer el fedatario público sus funciones cuando deba abstenerse en términos de la Ley del Notariado del Estado, o dar fe de lo que no consta en autos, registros, protocolos o documentos, y que el documento expedido sea utilizado para obtener un beneficio o provocar un daño.
-
-Al responsable de Falsificación de Documentos se le aplicarán de 1 a 5 años de prisión y multa de 25 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados. Respecto de los fedatarios, se informará de la responsabilidad que haya tenido a las autoridades administrativas competentes de su vigilancia y control, para los efectos legales correspondientes.
-
-###### ARTÍCULO 162.
-
-Uso de documentos falsos. El Uso de Documentos Falsos consiste en utilizar en su provecho, el inculpado, con conocimiento de esa circunstancia:
-
-I. Un documento original alterado;
-
-II. Un documento imitación del original; o
-
-III. Un documento original expedido a favor de otro, como si hubiera sido expedido a su nombre.
-
-Al responsable de Uso de Documentos Falsos se le aplicarán de 1 a 5 años de prisión y de 25 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
-
-###### ARTÍCULO 163.
-
-Usurpación de profesiones. La Usurpación de Profesiones consiste en el ejercicio que se haga por el inculpado de los actos propios de una profesión, sin tener Título o autorización legal y se ostente como profesional de la materia.
-
-Al responsable de Usurpación de Profesiones se le aplicarán de 6 meses a 5 años de prisión y de 20 a 250 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
-
-### CAPÍTULO XI. Tipos Penales Protectores de la Seguridad Pública
 
 ###### ARTÍCULO 164.
 
@@ -2171,7 +2323,7 @@ Cuando el monto a que ascienda el enriquecimiento ilícito no exceda del equival
 
 Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente de 5,000 veces el valor diario de la Unidad de Medida y Actualización se impondrán de 2 años a 14 años de prisión y multa de 100 a 150 días multa.
 
-### CAPÍTULO XII. Tipos Penales Protectores de la Confidencialidad y la Intimidad de la Información
+### CAPÍTULO XI. Tipos Penales Protectores de la Seguridad Pública
 
 ###### ARTÍCULO 177.
 
@@ -2193,7 +2345,9 @@ En este caso, la punibilidad será de 6 meses a 3 años de prisión y de 25 a 50
 
 La persona privada legítimamente de su libertad que se evada del establecimiento donde se encuentra internada, por estar cumpliendo una sanción privativa de la libertad, o en período de detención o prisión preventiva, no se le contará el tiempo que pase fuera del lugar en que deba hacerla efectiva.
 
-### CAPÍTULO XIII. Tipos Penales Protectores de la Seguridad y Normal Funcionamiento de las Vías de Comunicación y de los Medios de Transporte
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE AGOSTO DE 2017)</small>
+
+### CAPÍTULO XII. Tipos Penales Protectores de la Confidencialidad, la Intimidad de la Información y la Identidad de la Persona
 
 ###### ARTÍCULO 179.
 
@@ -2233,7 +2387,17 @@ Al responsable del Acceso Informático Indebido se le aplicará de 1 a 3 meses d
 
 Si mediante el Acceso Informático Indebido referido en la Fracción I, se accede o difunden imágenes o videos referentes al pene, senos, glúteos o la vagina, o bien actos sexuales de cualquier persona, sin permiso de ésta o bien, del propietario o tenedor legítimo del aparato para el procesamiento de datos o del dispositivo de almacenamiento de información de que se trate, al responsable se le aplicará de 1 a 3 años de prisión, de 300 a 600 días multa así como el pago de la reparación de daños y perjuicios ocasionados.
 
-### CAPÍTULO XIV. Tipos Penales Protectores de la Dignidad de los Muertos
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2017)</small>
+
+ARTÍCULO 181 A.- Suplantación de la Identidad. La suplantación de la identidad consiste en usurpar o sustituir a otra persona a través de cualquier medio, utilizando sin consentimiento, sus datos personales con fines ilícitos o lucrativos, aun cuando estos no se logren.
+
+También se considerará suplantación de la identidad cuando el titular otorgue su consentimiento para que se utilice su identidad en beneficio o perjuicio de un tercero.
+
+Al responsable de Suplantación de la Identidad se aplicarán de 2 a 6 años de prisión y de 200 a 500 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+
+La pena de prisión y días de multa se aumentará hasta en una mitad en sus mínimos y sus máximos cuando el sujeto activo se aproveche de su profesión; de su calidad como servidor público; o se valga de su empleo dentro de cualquier institución crediticia para la comisión de la conducta.
+
+### CAPÍTULO XIII. Tipos Penales Protectores de la Seguridad y Normal Funcionamiento de las Vías de Comunicación y de los Medios de Transporte
 
 ###### ARTÍCULO 182.
 
@@ -2253,7 +2417,7 @@ Al responsable de Ataques a las Vías de Comunicación y a los Medios de Transpo
 
 Si para la ejecución de los hechos descritos en este Artículo se utilizan materias explosivas o incendiarias, la punibilidad será de 1 a 6 años de prisión y de 15 a 300 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
-### CAPÍTULO XV. Tipos Penales Protectores de la Seguridad Interior del Estado
+### CAPÍTULO XIV. Tipos Penales Protectores de la Dignidad de los Muertos
 
 ###### ARTÍCULO 183.
 
@@ -2269,7 +2433,7 @@ IV. Profanarlos con actos de necrofilia.
 
 Al responsable de las conductas descritas en este Artículo, se le aplicarán de 6 meses a 3 años de prisión y de 15 a 50 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
-### CAPÍTULO XVI
+### CAPÍTULO XV. Tipos Penales Protectores de la Seguridad Interior del Estado
 
 ###### ARTÍCULO 184.
 
@@ -2319,7 +2483,7 @@ A los responsables de Motín se les aplicarán de 2 a 5 años de prisión y de 2
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JUNIO DE 2015)</small>
 
-### CAPÍTULO XVII. Tipos Penales Protectores del Fisco Estatal
+### CAPÍTULO XVI
 
 ###### ARTÍCULO 188.
 
@@ -2329,7 +2493,7 @@ A los responsables de Motín se les aplicarán de 2 a 5 años de prisión y de 2
 
 (DEROGADO, P.O. 8 DE JUNIO DE 2015)
 
-### CAPÍTULO XVIII. Tipos Penales Protectores del Equilibrio Ecológico
+### CAPÍTULO XVII. Tipos Penales Protectores del Fisco Estatal
 
 ###### ARTÍCULO 190.
 
@@ -2377,7 +2541,7 @@ Al responsable de Defraudación Fiscal se le aplicarán de 2 a 6 de prisión y d
 
 Cuando no se pueda determinar con exactitud la cuantía del crédito fiscal que se defraudó, se aplicarán de 6 meses a 2 años de prisión y de 10 a 100 días multa y al pago total de los daños y perjuicios ocasionados.
 
-### CAPÍTULO XIX. Tipos Penales Protectores de la Dignidad de las Personas
+### CAPÍTULO XVIII. Tipos Penales Protectores del Equilibrio Ecológico
 
 ###### ARTÍCULO 191.
 
@@ -2409,7 +2573,7 @@ Al responsable de Atentados al Equilibrio Ecológico Dolosos previstos en las Fr
 
 Al responsable de Atentados al Equilibrio Ecológico Doloso previsto en la Fracción VI, se le impondrá de 1 a 3 meses de prisión, de 10 a 50 días multa, el pago de la reparación de daños y perjuicios ocasionados así como de 1 a 6 meses de inhabilitación para poder realizar cualquier actividad relacionada con la salud, cuidado, resguardo o comercio de animales. Si esta conducta la perpetra una persona que realice cualquier actividad relacionada con la salud, cuidado, resguardo o comercio de animales, también se le aplicará de 1 a 6 meses de suspensión de su cargo, función, empleo, comisión o profesión.
 
-### CAPÍTULO XX. Tipos Penales Protectores de la Salud Pública
+### CAPÍTULO XIX. Tipos Penales Protectores de la Dignidad de las Personas
 
 ###### ARTÍCULO 192.
 
@@ -2425,7 +2589,15 @@ Si las conductas descritas en este Artículo las realiza un servidor público se
 
 No serán punibles las conductas descritas en este Artículo, si se trata de medidas tendientes a la protección de grupos sociales desfavorecidos.
 
-### CAPÍTULO XXI. Tipos Penales Protectores de la Movilización de los Sistemas de Respuesta de Emergencia
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2017)</small>
+
+ARTÍCULO 192 A.- Asedio Laboral. El Asedio laboral consiste en ejercer en el ámbito laboral, violencia psicológica de forma recurrente y sistemática, que cause afectación en su autoestima o seguridad, con el objeto de controlar, intimidar, humillar, someter o dominar a la persona, impidiendo el libre desarrollo de la actividad laboral.
+
+Al responsable de asedio laboral se le aplicará pena de 2 a 6 meses de prisión y de 50 a 100 días multa.
+
+En caso de reincidencia o si la persona que realiza el acoso es superior jerárquico, la punibilidad descrita en el párrafo anterior, se aumentará hasta en una mitad en sus mínimos y máximos.
+
+### CAPÍTULO XX. Tipos Penales Protectores de la Salud Pública
 
 ###### ARTÍCULO 193.
 
@@ -2445,7 +2617,7 @@ En el caso de los atentados a la Salud Pública a que se refieren las Fracciones
 
 Se exceptúa la responsabilidad del sujeto activo derivada de la Fracción IV, cuando no tenga conocimiento de que la carne o productos animales para consumo humano que comercializa o expende se encuentren contaminados con sustancias beta-agonistas.
 
-### CAPÍTULO I. Tipos Penales Protectores de la Vida y Salud Personales
+### CAPÍTULO XXI. Tipos Penales Protectores de la Movilización de los Sistemas de Respuesta de Emergencia
 
 ###### ARTÍCULO 194.
 
@@ -2461,7 +2633,7 @@ Tratándose de la conducta prevista en la Fracción II de este Artículo, se imp
 
 ## TÍTULO SEGUNDO. FIGURAS TÍPICAS CULPOSAS
 
-### CAPÍTULO II. Tipos Penales Protectores del Patrimonio
+### CAPÍTULO I. Tipos Penales Protectores de la Vida y Salud Personales
 
 ###### ARTÍCULO 195.
 
@@ -2503,7 +2675,7 @@ Si las Lesiones Culposas se cometen por la conducción de vehículos de motor en
 
 Al responsable de la conducta referida en el párrafo anterior, también se le sancionará con la inhabilitación para obtener licencia para conducir de 2 a 5 años, o en su caso, suspensión de la licencia para conducir de 2 a 5 años.
 
-### CAPÍTULO III. Tipos Penales Protectores de la Seguridad y el Normal Funcionamiento de las Vías de Comunicación y de los Medios de Transporte
+### CAPÍTULO II. Tipos Penales Protectores del Patrimonio
 
 ###### ARTÍCULO 198.
 
@@ -2515,7 +2687,7 @@ Al responsable de Daño en las Cosas Culposo se le aplicarán de 3 meses a 2 añ
 
 Si el Daño en las Cosas Culposo se comete por la conducción de vehículos de motor en estado de ebriedad o bajo el influjo de substancias tóxicas que produzcan en el autor efectos similares, se aplicarán al responsable de 2 a 5 años de prisión, de 40 a 150 días multa, al pago total de la reparación de los daños y perjuicios ocasionados, así como inhabilitación para obtener licencia para conducir de 2 a 5 años, o en su caso, suspensión de la licencia para conducir de 2 a 5 años.
 
-### CAPÍTULO IV. Tipos Penales Protectores del Equilibrio Ecológico
+### CAPÍTULO III. Tipos Penales Protectores de la Seguridad y el Normal Funcionamiento de las Vías de Comunicación y de los Medios de Transporte
 
 ###### ARTÍCULO 199.
 
@@ -2525,9 +2697,7 @@ Para la adecuada aplicación de la presente figura típica, se entiende por vía
 
 Al responsable de Ataques a las Vías de Comunicación y a los Medios de Transporte Culposos se le aplicarán de 3 meses a 2 años de prisión y de 10 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
-### CAPÍTULO ÚNICO
-
-> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+### CAPÍTULO IV. Tipos Penales Protectores del Equilibrio Ecológico
 
 ###### ARTÍCULO 200.
 
@@ -2544,6 +2714,10 @@ Al responsable de Atentados al Equilibrio Ecológico Culposos, se le aplicarán 
 ## TÍTULO ÚNICO. PROCEDENCIA DE LA INDEMNIZACIÓN POR PRIVACIÓN DE LA LIBERTAD O CONDENA INJUSTA
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 201.
 
@@ -2858,3 +3032,11 @@ La sesión de instalación del Comité Coordinador del Sistema Estatal Anticorru
 La Secretaría Ejecutiva deberá iniciar sus operaciones, a más tardar a los treinta días naturales siguientes a la sesión de instalación del Comité Coordinador del Sistema Estatal Anticorrupción.
 
 Para tal efecto, el Ejecutivo Estatal y el Congreso del Estado proveerán los recursos humanos, financieros y materiales correspondientes en términos de las disposiciones aplicables.
+
+P.O. 21 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 127.- SE ADICIONA Y REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
