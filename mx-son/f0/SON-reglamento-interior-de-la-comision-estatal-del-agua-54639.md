@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-la-comision-estatal-del-agua-54639"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-03-05"
-last_updated: "2007-03-05"
+last_updated: "2017-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION ESTATAL DEL AGUA
 
-REGLAMENTO INTERIOR DE LA COMISION ESTATAL DEL AGUA
+REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DEL AGUA DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE AGOSTO DE 2017.
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -353,9 +353,11 @@ En el caso de aquellos municipios donde la Comisión preste los servicios de agu
 
 ### CAPÍTULO IV. DEL VOCAL EJECUTIVO
 
-###### ARTÍCULO 34.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE AGOSTO DE 2017)</small>
 
-El Vocal Ejecutivo de la Comisión; además de las atribuciones que le confiere el artículo 28 de la Ley, tendrá las siguientes:
+###### ARTICULO 34.
+
+El Vocal Ejecutivo de la Comisión; además de las atribuciones que le confiere el artículo 28 de la Ley; tendrá las siguientes:
 
 I. Acordar con los titulares de las Unidades Administrativas, el despacho de los asuntos a su cargo, así como los demás servidores públicos de la Comisión, los asuntos de la competencia de éstos, cuando así lo considere conveniente;
 
@@ -371,7 +373,29 @@ VI. Asistir personalmente o nombrar suplente, para que asistan a sesiones de Jun
 
 VII. Certificar los documentos oficiales que obren en los archivos de la Comisión, para usos oficiales y en su caso remitirlos a las autoridades que lo soliciten; y
 
-VIII. Las demás que le confieran y señalen las disposiciones legales aplicables o expresamente le encomiende la Junta de Gobierno.
+> <small>(REFORMADA, B.O. 21 DE AGOSTO DE 2017)</small>
+
+VIII. Convenir y condonar el pago de los adeudos a cargo de los usuarios atendiendo a las siguientes reglas:
+
+A. Tratándose de uso doméstico el Vocal Ejecutivo podrá convenir con los usuarios el otorgamiento de descuentos respecto a los adeudos que presenten, sin que los mismos puedan superar el 70% del monto total adeudado.
+
+Sin embargo, tratándose de clases vulnerables como son adultos mayores, madres solteras, discapacitados, viudas, indígenas, enfermos terminales y personas que por razón fundada, motivada y suficiente determine el Vocal Ejecutivo, se podrán condonar en su totalidad los adeudos que presenten.
+
+B. Tratándose de uso comercial e industrial el Vocal Ejecutivo podrá convenir con los usuarios el otorgamiento de descuentos respecto a los adeudos que presenten, sin que los mismos puedan superar el 70% del monto total adeudado.
+
+C. En el caso de que el Vocal Ejecutivo delegue sus facultades a favor de los Administradores de Organismos Operadores, estos últimos tendrán la obligación de rendir informe correspondiente al ejercicio de la facultad delegada donde deberán precisar todos y cada uno de los procesos que se inicien con motivo de los trámites que tiendan a regular y abatir el rezago de pago de derechos por parte de los usuarios, en el entendido de que dicho informe deberá ser dirigido al Vocal Ejecutivo dentro de los cinco primeros días de cada mes o el día hábil inmediato a dicho término.
+
+Las reglas anteriormente señaladas serán aplicables con independencia de que el servicio sea prestado en población urbana o rural y deberán constar en documento por escrito.
+
+El usuario que reciba el descuento o condonación del adeudo, sólo podrá obtener dicho beneficio por una única ocasión.
+
+> <small>(ADICIONADA, B.O. 21 DE AGOSTO DE 2017)</small>
+
+IX. Una vez agotado el procedimiento señalado en la fracción anterior, el Vocal Ejecutivo declarará el rezago por pago de derechos de agua, constituyéndose así como Crédito Fiscal en cumplimiento a lo que dispone el Artículo 169 de la Ley de Aguas para el Estado de Sonora, por lo que ordenará remitir a las autoridades fiscales los créditos aludidos para su ejecución en términos del Código Fiscal para el Estado de Sonora.
+
+> <small>(ADICIONADA, B.O. 21 DE AGOSTO DE 2017)</small>
+
+X. Las demás de las que le confieran y señalen las disposiciones aplicables o expresamente le encomiende la Junta de Gobierno.
 
 ###### ARTÍCULO 35.
 
@@ -691,7 +715,7 @@ XXV. Las demás que le confieran las distintas disposiciones legales aplicables 
 
 La Unidad de Asuntos Jurídicos estará adscrita directamente al Vocal Ejecutivo, y le corresponden las atribuciones siguientes:
 
-I. Representar a la Comisión, con todas las facultades generales e incluso las especiales que requieran poder o cláusula especial conforme a la Ley, sin limitación alguna en los términos del primer párrafo del Artículo 2831 y 2868, del Código Civil vigente en el Estado de Sonora y sus correlativos el 2554 y 2587, del Código Civil vigente para el Distrito Federal en materia común aplicable en toda la República en materia Federal y sus concordantes en los demás Estados de la República. En forma enunciativa y no limitativa, podrá: ).- (sic) Promover, desistirse de toda clase de acciones, recursos, juicios y procedimientos aún el de Amparo, Transigir, comprometer en árbitros, Absolver y articular posiciones; Recusar, Para recibir pagos, Formular denuncias, querellas de carácter Penal y desistirse de ellas; otorgar perdón cuando lo estime conveniente y constituirse en coadyuvante del Ministerio Público y para exigir reparación civil del daño;
+I. Representar a la Comisión, con todas las facultades generales e incluso las especiales que requieran poder o cláusula especial conforme a la Ley, sin limitación alguna en los términos del primer párrafo del Artículo 2831 y 2868, del Código Civil vigente en el Estado de Sonora y sus correlativos el 2554 y 2587, del Código Civil vigente para el Distrito Federal en materia común aplicable en toda la República en materia Federal y sus concordantes en los demás Estados de la República. En forma enunciativa y no limitativa, podrá: Promover, desistirse de toda clase de acciones, recursos, juicios y procedimientos aún el de Amparo, Transigir, comprometer en árbitros, Absolver y articular posiciones; Recusar, Para recibir pagos, Formular denuncias, querellas de carácter Penal y desistirse de ellas; otorgar perdón cuando lo estime conveniente y constituirse en coadyuvante del Ministerio Público y para exigir reparación civil del daño;
 
 II. Tener la representación legal en juicios o procedimientos laborales en los términos y para los efectos a los que se refieren los artículos 11, 46, 47, 134, fracción III, 523, 692 fracciones II y III, y, 694, 695, 786, 787, 873, 874, 876, 878, 880, 883, 884, 889 en relación con lo aplicable de los capítulos XII y XVII del Título Catorce, todos de la Ley Federal del Trabajo en vigor. Las facultades que se enumeran las ejercerá en forma enunciativa y no limitativa: Igualmente, se le faculta para otorgar poderes en esta materia, así como revocarlos;
 
@@ -747,7 +771,7 @@ III. Ordenar y ejecutar la suspensión del servicio previa su limitación en el 
 
 IV. Elaborar los estudios con base en las fórmulas contenidas en la Ley, necesarias para fundamentar y permitan la fijación de cuotas y tarifas apropiadas, para el cobro de los servicios tomando en cuenta la opinión y sugerencia del Consejo Consultivo;
 
-V. Constituir y manejar fondos de reserva para la rehabilitación, ampliación y mejoramiento de los sistemas a su cargo, para la reposición de sus activos fijos y para el servicio de su deuda, en tos términos de la normatividad aplicable;
+V. Constituir y manejar fondos de reserva para la rehabilitación, ampliación y mejoramiento de los sistemas a su cargo, para la reposición de sus activos fijos y para el servicio de su deuda, en los términos de la normatividad aplicable;
 
 VI. Celebrar los contratos a los que se refiere el artículo 115 de la Ley;
 
@@ -850,3 +874,15 @@ Se abroga el Reglamento Interior de la Comisión Estatal del Agua, publicado en 
 Dado en la ciudad de Hermosillo, Sonora, a los 30 días del mes de octubre de dos mil seis.
 
 LA JUNTA DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 21 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA EL REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DEL AGUA”.]
+
+PRIMERO.- Se reforma la fracción VIII y se adicionan las fracciones IX y X, todas del artículo 34 del Reglamento Interior de la Comisión Estatal del Agua del Estado de Sonora, en el capítulo de las facultades del Vocal Ejecutivo.
+
+SEGUNDO.- La presente reforma y adiciones entrarán en vigor a partir del día siguiente hábil a su publicación en el Boletín Oficial del Estado de Sonora.
+
+TERCERO.- Publíquese la presente adición o reforma en el Boletín Oficial del Estado de Sonora.
