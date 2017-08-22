@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-desarrollo-urbano-del-estado-de-tamaulipas-52285"
 country: "mx"
 rank: "ley"
 publication_date: "2006-04-25"
-last_updated: "2017-08-17"
+last_updated: "2017-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # LEY PARA EL DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE AGOSTO DE 2017 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY PARA EL DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2017.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 22 DE AGOSTO DE 2017.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de abril de 2006.
 
@@ -481,19 +481,21 @@ IX. Celebrar con el Ejecutivo Federal, los gobiernos de los Estados o los Ayunta
 
 X. Solicitar al Comité de Planeación para el Desarrollo del Estado y proponer a los Comités Municipales respectivos, las acciones, obras e inversiones que impulsen y consoliden el desarrollo urbano;
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2017)</small>
+(REFORMADA, P.O. 17 DE AGOSTO DE 2017) (F. DE E., P.O. 22 DE AGOSTO DE 2017)
 
-(SIC) Promover ante el Congreso del Estado la fundación de centros urbanos;
+XI. Promover ante el Congreso del Estado la fundación de centros urbanos;
 
-> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2017)</small>
+(ADICIONADA, P.O. 17 DE AGOSTO DE 2017) (F. DE E., P.O. 22 DE AGOSTO DE 2017)
 
-(SIC) Promover acciones de coordinación con la Federación, Estados y Municipios en las Zonas Conurbadas limítrofes con el Estado, que contribuyan a mejorar la administración del desarrollo metropolitano;
+XII. Promover acciones de coordinación con la Federación, Estados y Municipios en las Zonas Conurbadas limítrofes con el Estado, que contribuyan a mejorar la administración del desarrollo metropolitano;
 
-> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2017)</small>
+(ADICIONADA, P.O. 17 DE AGOSTO DE 2017) (F. DE E., P.O. 22 DE AGOSTO DE 2017)
 
-(SIC) Proponer los mecanismos de coordinación institucional de Planeación Regional y Metropolitana que permitan incentivar el desarrollo y la inversión productiva del Estado; y
+XIII. Proponer los mecanismos de coordinación institucional de Planeación Regional y Metropolitana que permitan incentivar el desarrollo y la inversión productiva del Estado; y
 
-(SIC) Las demás que señalen esta ley y otras disposiciones jurídicas aplicables.
+> <small>(F. DE E., P.O. 22 DE AGOSTO DE 2017)</small>
+
+XIV. Las demás que señalen esta ley y otras disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 10.
 
@@ -619,19 +621,21 @@ XXXI.- Ordenar las anotaciones marginales de los usos y destinos establecidos en
 
 XXXII.- Ejercer el derecho de preferencia que corresponde al Gobierno del Estado, conforme a la Ley General de Asentamientos Humanos y la Ley Agraria para adquirir predios de origen ejidal;
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2017)</small>
+(REFORMADA, P.O. 17 DE AGOSTO DE 2017) (F. DE E., P.O. 22 DE AGOSTO DE 2017)
 
-(SIC) Emitir dictamen de congruencia de los programas municipales, parciales, sectoriales, o de centros de población respecto del Programa Estatal o del Programa Metropolitano o de Zona Conurbada en su caso;
+XXXIII.- Emitir dictamen de congruencia de los programas municipales, parciales, sectoriales, o de centros de población respecto del Programa Estatal o del Programa Metropolitano o de Zona Conurbada en su caso;
 
-> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2017)</small>
+(ADICIONADA, P.O. 17 DE AGOSTO DE 2017) (F. DE E., P.O. 22 DE AGOSTO DE 2017)
 
-(SIC) Establecer mecanismos de coordinación con dependencias, entidades y órganos desconcentrados de la administración pública estatal y municipios, y de concertación con asociaciones civiles, para promover su participación en las acciones relacionadas con los Comités e Institutos Metropolitanos;
+XXXIV.- Establecer mecanismos de coordinación con dependencias, entidades y órganos desconcentrados de la administración pública estatal y municipios, y de concertación con asociaciones civiles, para promover su participación en las acciones relacionadas con los Comités e Institutos Metropolitanos;
 
-> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2017)</small>
+(ADICIONADA, P.O. 17 DE AGOSTO DE 2017) (F. DE E., P.O. 22 DE AGOSTO DE 2017)
 
-(SIC) Promover, coordinar y evaluar con las dependencias, entidades y órganos desconcentrados de la Administración Pública Federal en el Estado, las acciones y programas orientados al desarrollo de las áreas metropolitanas; y
+XXXV.- Promover, coordinar y evaluar con las dependencias, entidades y órganos desconcentrados de la Administración Pública Federal en el Estado, las acciones y programas orientados al desarrollo de las áreas metropolitanas; y
 
-(SIC) Las demás que le confiera este ordenamiento y otras disposiciones legales.
+> <small>(F. DE E., P.O. 22 DE AGOSTO DE 2017)</small>
+
+XXXVI.- Las demás que le confiera este ordenamiento y otras disposiciones legales.
 
 > <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
@@ -1109,9 +1113,13 @@ Los municipios podrán suscribir convenios para constituir asociaciones intermun
 
 Los fondos e instrumentos a que alude el párrafo anterior podrán dirigirse a:
 
-Apoyar el desarrollo de acciones, obras o servicios públicos metropolitanos; y
+> <small>(F. DE E., P.O. 22 DE AGOSTO DE 2017)</small>
 
-Apoyar o complementar a los municipios o a los organismos o asociaciones intermunicipales, mediante el financiamiento correspondiente, el desarrollo de acciones, obras y servicios públicos de interés metropolitano, así como de los proyectos, información, investigación, consultoría, capacitación, divulgación y asistencia técnica necesarios.
+I. Apoyar el desarrollo de acciones, obras o servicios públicos metropolitanos; y
+
+> <small>(F. DE E., P.O. 22 DE AGOSTO DE 2017)</small>
+
+II. Apoyar o complementar a los municipios o a los organismos o asociaciones intermunicipales, mediante el financiamiento correspondiente, el desarrollo de acciones, obras y servicios públicos de interés metropolitano, así como de los proyectos, información, investigación, consultoría, capacitación, divulgación y asistencia técnica necesarios.
 
 Los convenios de asociación intermunicipal establecerán las reglas particulares para la integración y operación de dichos fondos, así como para la gestión común de las acciones, obras y servicios de interés metropolitano.
 
@@ -1121,11 +1129,17 @@ Los convenios de asociación intermunicipal establecerán las reglas particulare
 
 Los convenios de asociaciones intermunicipales en el Estado, deberán cumplir al menos con las siguientes bases:
 
-Acuerdo de los ámbitos territoriales y de funciones respecto a la ejecución y operación de obras, prestación de servicios públicos o realización de acciones en las materias de coordinación metropolitana;
+> <small>(F. DE E., P.O. 22 DE AGOSTO DE 2017)</small>
 
-Establecimiento de las funciones específicas en las materias de coordinación metropolitana, así como la aportación de recursos materiales, humanos y financieros necesarios para su operación; y
+I. Acuerdo de los ámbitos territoriales y de funciones respecto a la ejecución y operación de obras, prestación de servicios públicos o realización de acciones en las materias de coordinación metropolitana;
 
-Determinación de las reglas para la regularización conjunta y coordinada del desarrollo de las zonas conurbadas, prestación de servicios y realización de acciones que se acuerden. Estas bases serán obligatorias para las dependencias, órganos desconcentrados, entidades y municipios.
+> <small>(F. DE E., P.O. 22 DE AGOSTO DE 2017)</small>
+
+II. Establecimiento de las funciones específicas en las materias de coordinación metropolitana, así como la aportación de recursos materiales, humanos y financieros necesarios para su operación; y
+
+> <small>(F. DE E., P.O. 22 DE AGOSTO DE 2017)</small>
+
+III. Determinación de las reglas para la regularización conjunta y coordinada del desarrollo de las zonas conurbadas, prestación de servicios y realización de acciones que se acuerden. Estas bases serán obligatorias para las dependencias, órganos desconcentrados, entidades y municipios.
 
 ## TÍTULO V. RESERVAS TERRITORIALES
 
