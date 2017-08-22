@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-97482"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-01-17"
-last_updated: "2017-04-17"
+last_updated: "2017-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97482&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2014-01-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE AGOSTO DE 2017.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 17 de enero de 2014.
 
@@ -1613,9 +1613,9 @@ En su caso, las resoluciones de los recursos deberán expresar con claridad sus 
 
 El recurso de inconformidad procede contra el acuerdo que desecha, declara improcedente o, tiene por no presentada la queja o denuncia.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 30 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 22 DE AGOSTO DE 2017)</small>
 
-Este recurso lo admite y tramita el Presidente o el presidente de la Comisión de Disciplina, según corresponda, en ambos casos con auxilio de la Secretaría y lo resuelve el Pleno. El plazo para la interposición de la inconformidad será de tres días hábiles y treinta días hábiles para su resolución.
+Este recurso lo admite y tramita el Presidente o el presidente de la Comisión, según corresponda, en ambos casos con auxilio de la Secretaría y lo resuelve el Pleno, con excepción de aquéllos derivados de asuntos tramitados por la Contraloría, los cuales serán resueltos por la Comisión. El plazo para la interposición de la inconformidad será de tres días hábiles y treinta días hábiles para su resolución.
 
 > <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 28 DE MAYO DE 2015)</small>
 
@@ -1661,11 +1661,11 @@ V. Los alegatos.
 
 En los recursos señalados, únicamente podrá ser ofrecida la prueba superveniente y la que tenga relación inmediata y directa con violaciones al procedimiento administrativo de responsabilidad. Para su desahogo se concederá un plazo no mayor a diez días hábiles que podrá ampliarse por causa motivada y fundada hasta por treinta días hábiles.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 30 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 172.
 
-Una vez substanciado el recurso de inconformidad, el Presidente formulará el proyecto de resolución y lo someterá al Pleno para su resolución, salvo en aquellos casos en que dicho Presidente haya dictado el acuerdo que se impugna, supuesto en el cual le corresponderá al presidente de la Comisión de Disciplina. Lo mismo se observará en el supuesto del recurso de reclamación.
+Substanciado el recurso de inconformidad, el Presidente formulará el proyecto de resolución y lo someterá al Pleno para su resolución, salvo en aquellos casos en que el Presidente o el titular de la Contraloría haya dictado el acuerdo que se impugna, supuesto en el cual le corresponderá al presidente de la Comisión de Disciplina. Lo mismo se observará en el supuesto del recurso de reclamación.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 28 DE MAYO DE 2015)</small>
 
@@ -3264,3 +3264,13 @@ D.O.F. 17 DE ABRIL DE 2017.
 PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 22 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, EN RELACIÓN CON LA COMPETENCIA PARA RESOLVER LOS RECURSOS DE INCONFORMIDAD".]
+
+PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. Los recursos de inconformidad en trámite a la entrada en vigor del presente Acuerdo se continuarán hasta su conclusión conforme a las disposiciones jurídicas con las que dieron inicio.
