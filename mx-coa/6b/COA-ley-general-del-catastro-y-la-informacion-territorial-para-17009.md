@@ -4,7 +4,7 @@ identifier: "COA-ley-general-del-catastro-y-la-informacion-territorial-para-1700
 country: "mx"
 rank: "ley_general"
 publication_date: "1999-07-23"
-last_updated: "2017-03-17"
+last_updated: "2017-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17009&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY GENERAL DEL CATASTRO Y LA INFORMACIÓN TERRITORIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 23 de julio de 1999.
 
@@ -653,13 +653,17 @@ Los plazos a que se refiere el artículo anterior podrán ser prorrogados por un
 
 El titular de la Unidad y el Director General del Instituto suscribirán los proyectos definitivos de tablas de valores unitarios de suelo y construcción, debiendo proceder a someterlas a la aprobación del ayuntamiento.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2017)</small>
 
 ###### ARTÍCULO 33.
 
-El ayuntamiento, en el ámbito de su competencia y habiendo aprobado los proyectos definitivos correspondientes, propondrá a la legislatura del Estado, a más tardar el 31 de octubre de cada año, con arreglo a la ley y de acuerdo a los principios de equidad y proporcionalidad, las tablas de valores unitarios de suelo y construcciones.
+El ayuntamiento, en el ámbito de su competencia y habiendo aprobado los proyectos definitivos correspondientes, propondrá a la Legislatura del Estado, a más tardar el 15 de octubre de cada año, con arreglo a la ley y de acuerdo a los principios de equidad y proporcionalidad, las tablas de valores unitarios de suelo y construcciones.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
 
 El Congreso del Estado, una vez recibidas las tablas de valores, procederá al análisis y revisión de las mismas y resolverá su aprobación. Para tal efecto, el Instituto brindará el apoyo y asesoría necesaria a la legislatura.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
 
 Las tablas de valores aprobadas conforme a esta ley deberán ser publicadas en el Periódico Oficial del Gobierno del Estado y serán de observancia obligatoria para el ejercicio fiscal para el cual se formularon.
 
@@ -1330,3 +1334,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 907.- SE REFORMA EL ARTÍCULO 102, FRACCIÓN V, NUMERALES 2 Y 8, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA Y SE REFORMA EL ARTÍCULO 28, PRIMER PÁRRAFO, DEL CÓDIGO FINANCIERO PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado y una vez que entre en vigor la reforma al Artículo 158-U, Fracción V, Numerales 2 y 8, de la Constitución Política del Estado de Coahuila de Zaragoza.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan a lo previsto en este decreto.
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
