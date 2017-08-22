@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2017-06-23"
+last_updated: "2017-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -933,9 +933,9 @@ V. En materia de hacienda pública municipal:
 
 Al concluir el último ejercicio presupuestal, del período constitucional, los subejercicios presupuestales, excedentes, ahorros, economías o ingresos extraordinarios se aplicarán preferentemente para cubrir pasivos municipales o mantenerse en caja, observándose en todo caso lo dispuesto en la fracción IV del artículo 103 de este ordenamiento.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2017)</small>
 
-2. Discutir, analizar y someter a la aprobación del Congreso del Estado, a más tardar el 31 de octubre de cada año, la iniciativa de Ley de Ingresos correspondiente a cada ejercicio fiscal.
+2. Discutir, analizar y someter a la aprobación del Congreso del Estado, a más tardar el 15 de octubre de cada año, la iniciativa de Ley de Ingresos correspondiente a cada ejercicio fiscal.
 
 3. Discutir y analizar el Presupuesto de Egresos del Municipio y aprobarlo a más tardar el día 31 de diciembre del año anterior a su ejercicio y disponer su publicación en el Periódico Oficial del Gobierno del Estado y difundirlo por los medios más amplios de que se disponga.
 
@@ -947,9 +947,9 @@ Al concluir el último ejercicio presupuestal, del período constitucional, los 
 
 7. Presentar al Congreso del Estado la cuenta pública de la hacienda municipal, integrada por los informes trimestrales de origen y aplicación de los recursos públicos, mismos que deberán ser presentados dentro de los quince días siguientes al término del trimestre que corresponda; asimismo verificar la presentación de la cuenta pública del sector paramunicipal.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2017)</small>
 
-8. Proponer al Congreso del Estado a más tardar el 31 de octubre de cada año, las cuotas y tarifas aplicables a impuestos, derechos; contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, en los términos de las leyes fiscales y conforme a los principios de equidad, proporcionalidad y capacidad contributiva.
+8. Proponer al Congreso del Estado a más tardar el 15 de octubre de cada año, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, en los términos de las leyes fiscales y conforme a los principios de equidad, proporcionalidad y capacidad contributiva.”
 
 9. Determinar la forma en que el tesorero y demás servidores públicos que manejen caudales públicos municipales, deban caucionar suficientemente su manejo.
 
@@ -4223,7 +4223,7 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
 P.O. 2 DE ENERO DE 2007.
 
-PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+PRIMERO.- Esta Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
@@ -4424,3 +4424,13 @@ P.O. 23 DE JUNIO DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 22 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 907 SE REFORMA EL ARTÍCULO 102, FRACCIÓN V, NUMERALES 2 Y 8, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA Y SE REFORMA EL ARTÍCULO 28, PRIMER PÁRRAFO, DEL CÓDIGO FINANCIERO PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado y una vez que entre en vigor la reforma al Artículo 158-U, Fracción V, Numerales 2 y 8, de la Constitución Política del Estado de Coahuila de Zaragoza.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan a lo previsto en este decreto.
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
