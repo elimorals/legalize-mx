@@ -4,7 +4,7 @@ identifier: "COA-codigo-financiero-para-los-municipios-del-estado-de-96562"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-07"
-last_updated: "2017-03-17"
+last_updated: "2017-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96562&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO FINANCIERO PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2017.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Coahuila de Zaragoza, el jueves 7 de noviembre del 2013.
 
@@ -291,9 +291,11 @@ Los Ayuntamientos deberán formular anualmente un presupuesto de los ingresos qu
 
 El presupuesto de ingresos a que se refiere el artículo anterior, deberá considerar los ingresos obtenidos en el ejercicio fiscal anterior al ejercicio para el que se formula el presupuesto, las nuevas fuentes de ingreso, las reformas e incrementos que se proponga establecer.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2017)</small>
+
 ###### ARTÍCULO 28.
 
-Las iniciativas de Leyes de ingresos de los Municipios se formularán de conformidad con éste Código, la Ley General de Contabilidad Gubernamental, los Acuerdos del Consejo Nacional de Armonización Contable, del Consejo de Armonización Contable del Estado de Coahuila de Zaragoza y demás disposiciones aplicables, y serán presentadas al Congreso del Estado a más tardar el 31 de octubre del año anterior al ejercicio fiscal que corresponda, para su discusión, aprobación en su caso y publicación en el Periódico Oficial del Estado.
+Las iniciativas de Leyes de ingresos de los Municipios se formularán de conformidad con éste Código, la Ley General de Contabilidad Gubernamental, los Acuerdos del Consejo Nacional de Armonización Contable, del Consejo de Armonización Contable del Estado de Coahuila de Zaragoza y demás disposiciones aplicables, y serán presentadas al Congreso del Estado a más tardar el 15 de octubre del año anterior al ejercicio fiscal que corresponda, para su discusión, aprobación en su caso y publicación en el Periódico Oficial del Estado.
 
 Estas iniciativas deberán contener en su texto el presupuesto de ingresos, indicando las contribuciones y el ingreso estimado de cada una de ellas para el ejercicio fiscal de que se trate; así como los demás ingresos que espera recibir el municipio e incorporar las partidas que cada municipio estime como fuente de ingresos para cada ejercicio fiscal, considerando en todo caso el orden establecido en este Código.
 
@@ -4418,5 +4420,15 @@ P.O. 17 DE MARZO DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente del de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan a lo previsto en el presente Decreto.
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 907.- SE REFORMA EL ARTÍCULO 102, FRACCIÓN V, NUMERALES 2 Y 8, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA Y SE REFORMA EL ARTÍCULO 28, PRIMER PÁRRAFO, DEL CÓDIGO FINANCIERO PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado y una vez que entre en vigor la reforma al Artículo 158-U, Fracción V, Numerales 2 y 8, de la Constitución Política del Estado de Coahuila de Zaragoza.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan a lo previsto en este decreto.
 
 TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
