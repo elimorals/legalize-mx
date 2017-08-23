@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interno-del-centro-de-internamiento-y-80428"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-09"
-last_updated: "2011-03-09"
+last_updated: "2017-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,15 +20,19 @@ state: "NAY"
 ---
 # REGLAMENTO INTERNO DEL CENTRO DE INTERNAMIENTO Y REINTEGRACION SOCIAL PARA ADOLESCENTES DEL ESTADO DE NAYARIT
 
-REGLAMENTO INTERNO DEL CENTRO DE INTERNAMIENTO Y REINTEGRACION SOCIAL PARA ADOLESCENTES DEL ESTADO DE NAYARIT
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERNO DEL CENTRO DE INTERNAMIENTO PARA PERSONAS ADOLESCENTES DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE 23 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERNO DEL CENTRO DE INTERNAMIENTO Y REINTEGRACIÓN SOCIAL PARA ADOLESCENTES DEL ESTADO DE NAYARIT
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el miércoles 9 de marzo de 2011.
 
 LIC. FERNANDO ALONSO CARVAJAL CAZOLA, Secretario de Seguridad Pública del estado de Nayarit, en ejercicio a la facultad que a mi cargo me otorga el artículo 5°, fracción XVIII del Reglamento Interior de la Secretaría de Seguridad Pública; y con base en los siguientes
 
-CONSIDERANDOS.
+CONSIDERANDOS
+
+[...]
 
 En tal sentido con fecha 15 de enero de 2010 se emitió el Reglamento Interior de la Secretaría de Seguridad Pública del Estado de Nayarit y fue publicada (sic) en el Periódico Oficial Órgano del Gobierno del Estado y en cumplimiento al artículo Sexto Transitorio del mismo, he tenido a bien expedir el siguiente:
 
@@ -312,11 +316,11 @@ VIII. Escuchar las peticiones de los internos y transmitirlas a la autoridad com
 
 IX. Usar uniforme reglamentario, en buenas condiciones de limpieza, aseo, higiene y buen estado, trayendo consigo invariablemente su clave e identificación oficial;
 
-X. Durante el tiempo activo que preste sus servicios al Centro, en forma diaria deberá checar personalmente su tarjeta de control que al efecto le asigne el área administrativa, y permitir que sea revisado en su persona y las pertenencias que pretenda introducir al mismo; salvo que se encuentre comisionado o disfrutando de permíso o licencia concedida por el Director del Centro;
+X. Durante el tiempo activo que preste sus servicios al Centro, en forma diaria deberá checar personalmente su tarjeta de control que al efecto le asigne el área administrativa, y permitir que sea revisado en su persona y las pertenencias que pretenda introducir al mismo; salvo que se encuentre comisionado o disfrutando de permiso o licencia concedida por el Director del Centro;
 
 XI. Abstenerse de checar la tarjeta de control de persona distinta a él y viceversa;
 
-XII. Queda prohibido que el personal del Centro introduzca a las instalaciones del mismo, cualquier tipo aparatos (sic) de comunicación, bebidas, cigarrillos y alimentos, así como hacer cualquier tipo de regalos a los internos. Las excepciones serán autorizadas sólo por el Director del Centro;
+XII. Queda prohibido que el personal del Centro introduzca a las instalaciones del mismo, cualquier tipo (sic) aparatos de comunicación, bebidas, cigarrillos y alimentos, así como hacer cualquier tipo de regalos a los internos. Las excepciones serán autorizadas sólo por el Director del Centro;
 
 XIII. El personal femenino que labore dentro de las instalaciones del Centro, deberá usar ropa holgada que no deje al descubierto partes privadas de su cuerpo; con un largo mínimo debajo de la rodilla, y de ser posible, usar una bata de trabajo;
 
@@ -348,7 +352,7 @@ De conformidad con la Ley, los adolescentes y/o adultos jóvenes, que deban ser 
 
 ###### Artículo 15.
 
-Los internos recibirán a su ingreso en el Centro de Internamiento, información escrita sobre sus derechos y obligaciones, en el régimen de internamiento en el que se encuentran, normas disciplinarias y los medios para formular peticiones, quejas o recursos, la información se les proporcionara en su idioma; (sic)
+Los internos recibirán a su ingreso en el Centro de Internamiento, información escrita sobre sus derechos y obligaciones, en el régimen de internamiento en el que se encuentran, normas disciplinarias y los medios para formular peticiones, quejas o recursos, la información se les proporcionara en su idioma;
 
 ###### Artículo 16.
 
@@ -404,7 +408,7 @@ Una vez que los internos hayan ingresado a las áreas del Centro destinadas para
 
 ###### Artículo 25.
 
-Los derechos y garantías reconocidos por la Ley, se aplicaran a todos los internos sin distinción de raza, credo, origen, color, sexo, género, edad, condición física, económica y social, preferencias personales, estado civil o por cualquier otro motívo análogo, ya sea propio o de sus tutores legales y familia.
+Los derechos y garantías reconocidos por la Ley, se aplicaran a todos los internos sin distinción de raza, credo, origen, color, sexo, género, edad, condición física, económica y social, preferencias personales, estado civil o por cualquier otro motivo análogo, ya sea propio o de sus tutores legales y familia.
 
 SUBCAPITULO I.2
 
@@ -514,7 +518,7 @@ XI. Abstenerse de poseer substancias tóxicas, bebidas alcohólicas, bebidas fer
 
 XII. Respetar el ejercicio de la vigilancia en el Centro;
 
-XIII. Abstenerse de poseer cualquier artículo que pueda ocasionar daño a otros internos y demás personal del Centro como armas de fuego o armas punzo cortantes, así como medicamentos o sustancias prohibidas por el servicio médico; y (sic)
+XIII. Abstenerse de poseer cualquier artículo que pueda ocasionar daño a otros internos y demás personal del Centro como armas de fuego o armas punzo cortantes, así como medicamentos o sustancias prohibidas por el servicio médico; y
 
 XIV. Abstenerse de pretender evadirse del centro, o proporcionar ayuda para que otros internos intenten fugarse;
 
@@ -526,7 +530,7 @@ XVII. Abstenerse de traer consigo cualquier cantidad de dinero;
 
 XVIII. Observar de manera estricta las normas disciplinarias;
 
-XIX. Hacer llamadas telefónicas solo cuando la Dirección del Centro así lo autorice y resguardar la tarjeta telefónica con quien designe la Dirección del Centro, y (sic)
+XIX. Hacer llamadas telefónicas solo cuando la Dirección del Centro así lo autorice y resguardar la tarjeta telefónica con quien designe la Dirección del Centro, y
 
 XX. Participar en las actividades formativas, educativas y laborales establecidas en base a su situación personal a fin de preparar su vida en libertad;
 
@@ -536,7 +540,7 @@ XXI. Las demás obligaciones y/o restricciones que por cuestiones de seguridad a
 
 Para que un interno disfrute de un permiso ordinario o extraordinario, a fin de mantener contacto positivo con el exterior y preparar su futura vida en libertad; deberá faltarle un mes o dos máximo para obtener su libertad, a criterio del Director del Centro de Internamiento;
 
-Para otorgar un permiso ordinario o extraordinario, será a criterio del Director del Centro de Internamiento previo dictamen del Consejo Técnico Interdisciplinario, en su caso deberá informar a la Dirección de Reintegración Social, para que esta realice los trámites legales; (sic)
+Para otorgar un permiso ordinario o extraordinario, será a criterio del Director del Centro de Internamiento previo dictamen del Consejo Técnico Interdisciplinario, en su caso deberá informar a la Dirección de Reintegración Social, para que esta realice los trámites legales;
 
 ### CAPITULO II. DE LAS VISITAS A LOS INTERNOS
 
@@ -582,7 +586,7 @@ Los traslados de los internos se realizarán por los custodios que se autoricen 
 
 ###### Artículo 35.
 
-Cuando así lo solicite la Autoridad Judicial competente, el Director del Centro emitirá los informes referentes a la aplicación de correctivos disciplinarios y/o cumplimientos del programa personalizado de ejecución del interno apoyándose en los informes emitídos por el Consejo.
+Cuando así lo solicite la Autoridad Judicial competente, el Director del Centro emitirá los informes referentes a la aplicación de correctivos disciplinarios y/o cumplimientos del programa personalizado de ejecución del interno apoyándose en los informes emitidos por el Consejo.
 
 ###### Artículo 36.
 
@@ -917,3 +921,17 @@ TRANSITORIOS (SIC)
 Artículo Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado.
 
 "SUFRAGIO EFECTIVO NO REELECCIÓN" EL SECRETARIO DE SEGURIDAD PÚBLICA DEL ESTADO DE NAYARIT, LIC. FERNANDO ALONSO CARVAJAL CAZOLA.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERNO DEL CENTRO DE INTERNAMIENTO PARA PERSONAS ADOLESCENTES DEL ESTADO DE NAYARIT".]
+
+###### ARTÍCULO PRIMERO.
+
+Se abroga el Reglamento Interior del Centro de Internamiento y Reintegración Social para Adolescentes del Estado, publicado en el Periódico Oficial, Órgano del Estado de Nayarit el día 9 de marzo de 2011.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado.
