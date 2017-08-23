@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-de-la-fiscalia-general-del-estado-de-tabasco-10506
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-13"
-last_updated: "2014-12-13"
+last_updated: "2017-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105066&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2017.
 
 Ley publicada en el Suplemento E del Periódico Oficial del Estado de Tabasco, el sábado 13 de diciembre de 2014.
 
@@ -35,7 +35,9 @@ Que el H. Congreso del Estado se ha servido dirigirme lo siguiente:
 
 LA SEXAGÉSIMA PRIMERA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO, EN EJERCICIO DE LAS FACULTADES CONFERIDAS POR EL ARTÍCULO 36, FRACCIÓN I, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TABASCO, Y:
 
-ANTECEDENTES …
+ANTECEDENTES
+
+[...]
 
 SEXTO.- En esas condiciones, estando facultado el Honorable Congreso del Estado, conforme a los artículos 36, fracción I, de la Constitución Política del Estado libre y Soberano de Tabasco, para expedir, reformar, adicionar, derogar y abrogar leyes y decretos para la mejor administración de la Entidad, se emite el siguiente:
 
@@ -211,6 +213,14 @@ El Fiscal General, de conformidad con la disponibilidad presupuestal, podrá cre
 
 En la investigación de los delitos o en el ejercicio de la acción penal, todas las corporaciones de seguridad, sean públicas o privadas, serán auxiliares de la Fiscalía y en esa condición actuarán bajo su mando.
 
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2017)</small>
+
+El Fiscal General, los Vicefiscales, los Fiscales Especializados, el personal de confianza, los fiscales del Ministerio Público, los integrantes de la Policía Ministerial y todos los miembros del Servicio Profesional de Carrera o de designación especial estarán sujetos a la Ley General de Responsabilidades Administrativas, así como al régimen especial de la materia, previsto en esta Ley.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2017)</small>
+
+Su actuación será vigilada por el Órgano Superior de Fiscalización del Estado, la Visitaduría General y la Contraloría, conforme a sus respectivas competencias.
+
 ### CAPÍTULO V. DE LAS FACULTADES Y OBLIGACIONES DE LOS INTEGRANTES DE LA FISCALÍA
 
 ###### ARTÍCULO 11.
@@ -247,7 +257,9 @@ XIII. Determinar los cambios de adscripción de los servidores públicos de la F
 
 XIV. Elaborar el Proyecto de Presupuesto de Egresos de la Fiscalía General para cada ejercicio fiscal, y remitirlo, por conducto del titular del Poder Ejecutivo, al Congreso del Estado;
 
-XV. Administrar los recursos de la Fiscalía, en los términos que señalen los ordenamientos relativos y enviar mensualmente, dentro de los treinta días siguientes del mes que corresponda, al Órgano Superior de Fiscalización del Estado de Tabasco, el avance financiero y presupuestal. Asimismo, remitir los informes de autoevaluación trimestrales y anualmente al mencionado Órgano, a más tardar el treinta y uno de marzo del año siguiente, la cuenta pública de la Fiscalía General, debidamente comprobada y con la información suficiente en los términos de la ley aplicable, para su examen y calificación anual;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2017)</small>
+
+XV. Administrar los recursos de la Fiscalía, en los términos que señalen los ordenamientos relativos y enviar mensualmente, dentro de los treinta días siguientes del mes que corresponda, al Órgano Superior de Fiscalización del Estado de Tabasco, el avance financiero y presupuestal. Asimismo, remitir los informes de autoevaluación trimestrales y anualmente al mencionado Órgano, a más tardar el treinta de abril del año siguiente, la cuenta pública de la Fiscalía General, debidamente comprobada y con la información suficiente en los términos de la ley aplicable, para los efectos legales correspondientes;
 
 XVI. Realizar las acciones necesarias en cumplimiento de las disposiciones legales y reglamentarias relativas a la constitución y administración de fondos en el ámbito de su competencia;
 
@@ -281,13 +293,147 @@ De las Fiscalías Especializadas
 
 Para el desarrollo de las funciones de la Fiscalía, se contará con un sistema de especialización y coordinación, sujeto a las bases generales siguientes:
 
-I. La Fiscalía General contará con fiscalías especializadas en la investigación y la persecución de delitos, atendiendo a las diversas formas de manifestación u operación de la delincuencia; a la naturaleza, complejidad e incidencia de aquéllos; así como en razón de la pertenencia de la víctima u ofendido a grupos vulnerables, en su caso;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2017)</small>
 
-II. Las Fiscalías Especializadas actuarán en la circunscripción territorial que el Fiscal General determine mediante acuerdo, en coordinación con las demás unidades administrativas competentes; y
+I. De conformidad con las leyes aplicables y con las necesidades del servicio, la Fiscalía General contará con fiscalías especializadas en la investigación y la persecución de delitos, atendiendo a las diversas formas de manifestación u operación de la delincuencia; a la naturaleza, complejidad e incidencia de aquéllos; así como en razón de la pertenencia de la víctima u ofendido a grupos vulnerables, en su caso.
 
-III. Las Fiscalías Especializadas contarán con la estructura administrativa que establezcan las disposiciones aplicables.
+Cuando la Constitución General, la del Estado, o las leyes Generales aplicables, según la materia de que se trate, ordenen la creación de Fiscalías Especializadas, su naturaleza, atribuciones, integración, organización y funcionamiento, incluyendo el mecanismo de designación o remoción de sus titulares, en su caso, estarán sujetos a dichos ordenamientos, en lo conducente;
 
-IV. El Fiscal General expedirá las normas necesarias para la coordinación y la articulación entre las Fiscalías Especializadas, a efecto de garantizar la eficacia de la actuación y la dependencia jerárquica de la Fiscalía.
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2017)</small>
+
+II. Las Fiscalías Especializadas actuarán en la circunscripción territorial que el Fiscal General determine mediante acuerdo, en coordinación con las demás unidades administrativas competentes;
+
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2017)</small>
+
+III. Las Fiscalías Especializadas contarán con la estructura administrativa que establezcan las normas aplicables y dispondrán del personal necesario, incluyendo fiscales del Ministerio Público especializados en sus respectivas materias, así como de los recursos financieros y materiales que se requieran para su efectiva operación; y
+
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2017)</small>
+
+IV. El Fiscal General expedirá las normas necesarias para la coordinación y la articulación entre las Fiscalías Especializadas, a efecto de optimizar los recursos disponibles, a la vez que garantizar la eficacia en su actuación. En el Presupuesto de Egresos que se someta al Congreso se identificará el monto aprobado a cada Fiscalía Especializada, para el respectivo ejercicio fiscal.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2017)</small>
+
+Conforme al artículo 54 Ter, párrafo quinto, de la Constitución del Estado, los fiscales especializados en materia de delitos electorales y en materia de hechos de corrupción, serán nombrados y removidos libremente por el Fiscal General; no obstante, dichos nombramientos o remociones, en su caso, podrán ser objetados por el voto de dos terceras partes de los miembros presentes del Congreso, en un plazo no mayor a veinte días naturales.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2017)</small>
+
+###### ARTÍCULO 13-A.
+
+De la Fiscalía Especializada en Delitos Electorales
+
+Conforme a lo previsto por la Ley General en Materia de Delitos Electorales, la Fiscalía General contará con una Fiscalía Especializada en Delitos Electorales, por cuyo conducto deberá:
+
+I. Desarrollar mecanismos de coordinación y colaboración entre la Federación, las demás entidades federativas y los municipios, con la finalidad de fortalecer el combate de los delitos de carácter electoral;
+
+II. Participar en la implementación de un sistema de formación, actualización, capacitación y profesionalización de los servidores públicos que participen en los procesos de investigación de delitos electorales;
+
+III. Aplicar los protocolos estandarizados en materia de investigación y persecución de delitos electorales, incluyendo el uso de la fuerza pública;
+
+IV. Participar en la cooperación e intercambio de información entre las diversas instancias de procuración de justicia en el país en materia de delitos electorales;
+
+V. Recopilar e intercambiar con otras instituciones, datos y estadísticas relativos a delitos electorales, de conformidad con la normatividad aplicable;
+
+VI. Participar en la ejecución de políticas, programas y estrategias para el combate a los delitos electorales;
+
+VII. Promover la participación de la comunidad y de instituciones académicas, para que coadyuven en los procesos de evaluación de las políticas de prevención de delitos electorales; y
+
+VIII. Las demás que establezcan la Ley General en materia de Delitos Electorales y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2017)</small>
+
+###### ARTÍCULO 13-B.
+
+De la Fiscalía Especializada en Combate a la Corrupción
+
+La Fiscalía Especializada en Combate a la Corrupción es el órgano con autonomía técnica y operativa responsable de investigar y perseguir las conductas que la ley considera como delitos por hechos de corrupción.
+
+El titular de la Fiscalía Especializada en Combate a la Corrupción formará parte del Comité Coordinador del Sistema Estatal Anticorrupción y, en esa condición, tendrá las responsabilidades y funciones que se establecen en la Ley del Sistema Anticorrupción del Estado de Tabasco y demás normatividad aplicable.
+
+Su titular presentará anualmente al Fiscal General un informe de actividades y resultados, el cual será público, en términos de lo previsto en la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco. Dicho informe será remitido, además, al Comité Coordinador del Sistema Estatal Anticorrupción y al Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2017)</small>
+
+###### ARTÍCULO 13-C.
+
+De las atribuciones de la Fiscalía Especializada en Combate a la Corrupción
+
+Además de las atribuciones señaladas en el Artículo 6 de esta Ley, la Fiscalía Especializada en Combate a la Corrupción tendrá, de manera específica, las siguientes:
+
+I. Ejercer las atribuciones que la Constitución General y la del Estado, el Código Nacional, la Ley General de Responsabilidades Administrativas, esta Ley y demás ordenamientos aplicables confieren al Ministerio Público en lo relativo a delitos en materia de corrupción, con excepción de los cometidos por servidores públicos de la Fiscalía General, en cuyo caso se estará a lo dispuesto en el artículo 21 de esta ley;
+
+II. Participar como integrante en el Comité Coordinador del Sistema Estatal Anticorrupción;
+
+III. Nombrar, previo acuerdo con el Fiscal General, a los titulares de las unidades administrativas que integren la Fiscalía Especializada en Combate a la Corrupción;
+
+IV. Proponer al Fiscal General el nombramiento de los agentes del Ministerio Público por designación especial que reúnan amplia experiencia profesional en combate a la corrupción;
+
+V. Proponer a la unidad administrativa competente el contenido teórico práctico de los programas de capacitación, actualización y especialización, respecto de los agentes del Ministerio Público adscritos a la Fiscalía Especializada;
+
+VI. Diseñar e implementar estrategias y líneas de acción para combatir los delitos en materia de corrupción;
+
+VII. Implementar planes y programas destinados a detectar la comisión de delitos en materia de corrupción en el ámbito de su competencia. Dichos planes y programas deberán ser aprobados por el Fiscal General;
+
+VIII. Fortalecer e implementar, en el ámbito de su competencia, mecanismos de cooperación y colaboración con autoridades de los tres órdenes de gobierno para la investigación de delitos en materia de corrupción;
+
+IX. Diseñar e implementar proyectos, estudios y programas permanentes de información y fomento de la cultura de la denuncia y de la legalidad, respecto de delitos en materia de corrupción;
+
+X. Implementar mecanismos de colaboración con autoridades que ejerzan facultades de control y fiscalización de recursos públicos, a fin de fortalecer el desarrollo de las investigaciones;
+
+XI. Requerir a las instancias de gobierno competentes, la información que resulte útil o necesaria para sus investigaciones, la que por ningún motivo le podrá ser negada, incluso anteponiendo el secreto bancario, fiduciario o cualquier otro de similar naturaleza;
+
+XII. Diseñar, integrar e implementar sistemas y mecanismos de análisis de la información fiscal, financiera y contable para que pueda ser utilizada por ésta y otras unidades competentes de la Fiscalía General, en especial la relacionada con la investigación de los hechos que la ley considera como delitos en materia de corrupción;
+
+XIII. Coadyuvar con otras áreas competentes de la Fiscalía General, en el desarrollo de herramientas de inteligencia con metodologías interdisciplinarias de análisis e investigación de las distintas variables criminales, socioeconómicas y financieras, para conocer la evolución de las actividades relacionadas con hechos de corrupción;
+
+XIV. Generar herramientas metodológicas para el efecto de identificar los patrones de conducta que pudieran estar relacionados con operaciones con recursos de procedencia ilícita; y
+
+XV. Las demás que, en su caso, le confieran otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2017)</small>
+
+###### ARTÍCULO 13-D.
+
+De la Fiscalía Especializada en la Investigación del Delito de Tortura
+
+De conformidad con lo ordenado por la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, la Fiscalía General del Estado contará con la Fiscalía Especializada en la Investigación del Delito de Tortura, dotada de autonomía técnica y operativa.
+
+Dicha Fiscalía Especializada, además de lo dispuesto en el Código Nacional, una vez que tenga conocimiento de la probable comisión del delito de tortura, deberá llevar a cabo las acciones establecidas en el artículo 35 de la Ley General citada en el párrafo anterior.
+
+Para ser integrante y permanecer en la Fiscalía Especializada en la investigación del delito de tortura, será necesario cumplir con los requisitos establecidos en el artículo 58 de la Ley General de la materia.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2017)</small>
+
+###### ARTÍCULO 13-E.
+
+De las atribuciones de la Fiscalía Especializada en la investigación del Delito de Tortura
+
+La Fiscalía Especializada en la investigación del Delito de Tortura tendrá, en el ámbito de su competencia, las obligaciones y facultades siguientes:
+
+I. Iniciar y desarrollar la investigación y persecución de hechos delictivos relacionados con los delitos previstos en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes;
+
+II. Requerir a las instancias del sector público competentes, y del sector privado en los casos que disponga la Ley General de Víctimas, a que se le brinde atención médica, psicológica y jurídica a las personas Víctimas de las conductas previstas en dicha Ley General;
+
+III. Requerir la participación de las autoridades en materia de atención a Víctimas, en términos de las disposiciones aplicables;
+
+IV. Ejecutar, supervisar y evaluar el Protocolo Homologado, así como los protocolos de actuación y para la investigación a que se refieren los artículos 60 y 61 de la Ley General de la materia;
+
+V. Pedir a las autoridades competentes su colaboración y apoyo para la investigación y persecución de los delitos materia de su competencia;
+
+VI. Decretar las medidas de protección en favor de la vida o la integridad de las Víctimas, de conformidad con la legislación aplicable;
+
+VII. Solicitar las medidas cautelares aplicables al imputado por los delitos previstos en la Ley General, de conformidad con la legislación aplicable;
+
+VIII. Establecer mecanismos de cooperación con otras autoridades competentes para el intercambio de plataformas de información y de la capacitación continua para dichos efectos;
+
+IX. Colaborar con otras autoridades competentes a efecto de sistematizar la información obtenida durante la investigación y promover su intercambio con otras Fiscalías Especializadas con el fin de fortalecer el seguimiento y control de las conductas delictivas previstas en la Ley General y participar en la actualización del Registro Nacional del Delito de Tortura;
+
+X. Llevar a cabo análisis de contextos y patrones sobre la comisión del delito de tortura, con base en los datos del Registro Nacional del Delito de Tortura y otra información disponible;
+
+XI. Ingresar a cualquiera de los lugares de privación de libertad en donde se presuma que se cometió el delito de tortura;
+
+XII. Proponer políticas para la prevención de las conductas previstas en la Ley General de la materia; y
+
+XIII. Las demás que dispongan la Ley General de la materia, esta Ley y otras disposiciones aplicables.
 
 ###### ARTÍCULO 14.
 
@@ -335,9 +481,17 @@ La Visitaduría General dependerá directamente del Fiscal; estará a cargo de u
 
 I. Ordenar y realizar revisiones del cumplimiento de las labores encomendadas al personal de la Fiscalía;
 
-II. Iniciar y dar seguimiento al procedimiento administrativo disciplinario o resarcitorio previsto en la ley estatal de la materia y demás ordenamientos aplicables; y
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2017)</small>
 
-III. Las demás que confieran las leyes y los reglamentos.
+II. Iniciar y dar seguimiento al procedimiento disciplinario previsto en esta Ley y demás ordenamientos aplicables; y
+
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2017)</small>
+
+III. Las demás que le confieran las leyes y los reglamentos.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2017)</small>
+
+De conformidad con lo establecido por la Ley General de Responsabilidades Administrativas, corresponderá a la Visitaduría General cumplir las funciones de autoridad investigadora respecto de las conductas de los Servidores Públicos de la fiscalía General y de particulares, que puedan constituir responsabilidades administrativas en el ámbito de su competencia, a efecto de determinar la existencia o inexistencia de actos u omisiones que la ley señale como falta administrativa y calificarla como grave o no grave, para los efectos procedentes.
 
 ###### ARTÍCULO 19.
 
@@ -377,9 +531,21 @@ La Contraloría será el órgano encargado de vigilar que los recursos de la Fis
 
 Le compete además, realizar la evaluación del desempeño específico de las diferentes unidades de la Fiscalía General, con respecto al cumplimiento de los objetivos y metas comprendidas en el ejercicio de sus atribuciones y recursos, y administración de los servicios a su cargo, de conformidad con lo establecido en la normatividad aplicable.
 
-Deberá también recibir, registrar, investigar, dar seguimiento y resolver las quejas, denuncias, o sugerencias relacionadas con los actos, omisiones o conductas indebidas de los servidores públicos de la Fiscalía General, en el ejercicio de sus funciones. Cuando éstas se presenten por particulares o provengan de las auditorías practicadas por los respectivos órganos de control, para determinar y aplicar las sanciones administrativas.
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2017)</small>
 
-Corresponde a la Contraloría, recibir, registrar y custodiar las declaraciones patrimoniales que presenten los servidores públicos de la Fiscalía General, así como promover su presentación en tiempo y forma. Además, verificar su contenido mediante las investigaciones que fueren pertinentes de acuerdo con la Ley de Responsabilidades de los Servidores Públicos del Estado y demás disposiciones aplicables.
+Deberá también actuar, conforme a lo establecido por la Ley General de Responsabilidades Administrativas, como autoridad substanciadora en los procedimientos de responsabilidad administrativa relacionados con los actos, omisiones o conductas indebidas de los servidores públicos de la Fiscalía General, en el ejercicio de sus funciones.
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2017)</small>
+
+Corresponde a la Contraloría, recibir, registrar y custodiar las declaraciones patrimoniales que presenten los servidores públicos de la Fiscalía General, así como promover su presentación en tiempo y forma. Además, verificar su contenido mediante las investigaciones que fueren pertinentes de acuerdo con la Ley General de Responsabilidades Administrativas y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2017)</small>
+
+En los casos calificados como Faltas no Graves, la Contraloría substanciará el procedimiento en su totalidad y emitirá la resolución que corresponda. Por lo que se refiere a conductas calificadas como Faltas Administrativas Graves o Faltas de Particulares, la Contraloría procederá ante el Tribunal de Justicia Administrativa, en los términos señalados en la Ley General de la materia.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2017)</small>
+
+El titular de la Contraloría Interna de la Fiscalía General será designado por mayoría de los miembros presentes del Congreso del Estado, en términos de la fracción XIX del artículo 36 de la Constitución del Estado.
 
 ### CAPÍTULO VI. DE LOS NOMBRAMIENTOS, REMOCIONES Y AUSENCIAS
 
@@ -427,7 +593,9 @@ El Visitador General, los Vicefiscales, los titulares de las fiscalías especial
 
 Requisitos para ser Vicefiscal, Fiscal Especializado, Visitador y Contralor
 
-Para ser Vicefiscal o Fiscal Especializado, deberán cumplirse los mismos requisitos que para ser Fiscal; con excepción de la edad y de la experiencia profesional, que en este caso serán de, al menos, treinta años y cinco años, respectivamente.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2017)</small>
+
+Para ser Vicefiscal o Fiscal Especializado, deberán cumplirse los mismos requisitos que para ser Fiscal General; con excepción de la edad y de la experiencia profesional, que en este caso serán de, al menos, treinta años y cinco años, respectivamente. Lo anterior, con independencia del cumplimiento de requisitos adicionales que prevean otros ordenamientos legales aplicables.
 
 Para ser Visitador o Contralor, además de lo señalado en el párrafo anterior, los designados deberán contar con título profesional en las carreras de derecho, administración, contaduría o similares, con una antigüedad de cuando menos cinco años.
 
@@ -731,7 +899,13 @@ III. Suspensión del empleo, sin goce de sueldo, hasta por noventa días; y
 
 IV. Remoción, salvo que se trate de miembros del Servicio Profesional de Carrera, caso en el que se estará a las reglas del propio Servicio.
 
-Para la aplicación de las sanciones deberá seguirse, en lo conducente, el procedimiento previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado o en los ordenamientos aplicables, según corresponda.
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2017)</small>
+
+Las sanciones por incurrir en las causas de responsabilidad a que se refiere esta Ley, serán las establecidas en la Ley General de Responsabilidades Administrativas, una vez concluidos los procedimientos correspondientes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE AGOSTO DE 2017)</small>
+
+Para la aplicación de las sanciones deberá seguirse, en lo conducente, el procedimiento previsto en la Ley General de Responsabilidades Administrativas y demás ordenamientos aplicables, según corresponda.
 
 ARTÍCULOS TRANSITORIOS DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE TABASCO
 
@@ -798,3 +972,31 @@ SECRETARIO DE GOBIERNO
 LIC. JUAN JOSÉ PERALTA FÓCIL
 
 COORDINADOR GENERAL DE ASUNTOS JURÍDICOS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 112 POR EL QUE "SE REFORMAN LA FRACCIÓN XV, DEL PRIMER PÁRRAFO DEL ARTÍCULO 11; 13, FRACCIONES I A IV DEL PRIMER PÁRRAFO; LAS FRACCIONES II Y III DEL PRIMER PÁRRAFO DEL ARTÍCULO 18; PÁRRAFOS TERCERO Y CUARTO DEL ARTÍCULO 21; PÁRRAFO PRIMERO DEL ARTÍCULO 25 Y EL ARTÍCULO 45; SE ADICIONAN, LOS PÁRRAFOS CUARTO Y QUINTO AL ARTÍCULO 10; UN SEGUNDO PÁRRAFO AL ARTÍCULO 13; LOS ARTÍCULOS 13-A, 13-B, 13-C, 13-D Y 13-E; UN PÁRRAFO SEGUNDO AL ARTÍCULO 18; Y LOS PÁRRAFOS QUINTO Y SEXTO AL ARTÍCULO 21; TODOS DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- A partir de la entrada en vigor de este Decreto, para el caso en que las reformas al Código Penal para el Estado de Tabasco contemplen una descripción legal de una conducta delictiva que en los artículos reformados se contemplaban como delito y por virtud de las presentes reformas, se denomina, penaliza o agrava de forma diversa, siempre y cuando las conductas y los hechos respondan a la descripción que ahora se establecen, se estará a lo siguiente:
+
+I. En los casos de hechos que constituyan alguno de los delitos reformados por el presente Decreto, cuando se tenga conocimiento de los mismos, el Ministerio Público iniciará la investigación de conformidad con la traslación del tipo que resulte;
+
+II. En las investigaciones iniciadas, en los (sic) que aún no se ejercite la acción penal, el Ministerio Público ejercerá ésta de conformidad con la traslación del tipo que resulte;
+
+III. En los procesos incoados, en los que aún no se formulen conclusiones acusatorias el Ministerio Público las formulará de conformidad con la traslación del tipo que resulte;
+
+IV. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal, respectivamente podrán efectuar la traslación del tipo de conformidad con la conducta que se haya probado y sus modalidades, y
+
+V. La autoridad ejecutora, al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, en función de la traslación del tipo, según las modalidades correspondientes.
+
+TERCERO.- Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
+
+CUARTO.- El titular del Poder Ejecutivo del Estado, por conducto de la Secretaría de Planeación y Finanzas, realizará los ajustes presupuestales necesarios para garantizar el inicio de funciones de las fiscalías especializadas que se crean mediante el presente Decreto; además de realizar las previsiones conducentes para la presupuestación del gasto de la Fiscalía General del Estado en el proyecto de presupuesto para el ejercicio fiscal del 2018. El presupuesto aprobado deberá cubrir los capítulos de servicios personales, materiales y suministros, así como de servicios generales necesarios para cumplir con sus funciones.
+
+QUINTO. En un plazo no mayor a cuarenta y cinco días posteriores a la publicación del presente Decreto, el Fiscal General del Estado realizará las modificaciones de orden reglamentario y administrativo necesarias para garantizar la correcta y oportuna ejecución de las nuevas funciones que resultan de las reformas materia del presente Decreto.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
