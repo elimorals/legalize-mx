@@ -4,7 +4,7 @@ identifier: "SIN-ley-que-crea-el-instituto-de-vivienda-del-estado-de-sinaloa-984
 country: "mx"
 rank: "ley"
 publication_date: "1983-05-18"
-last_updated: "1993-08-04"
+last_updated: "2017-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY QUE CREA EL INSTITUTO DE VIVIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 1993.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2017.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el miércoles 18 de mayo de 1983.
 
@@ -47,39 +47,45 @@ Se crea el Instituto de Vivienda del Estado de Sinaloa como un organismo públic
 
 El Instituto tendrá como domicilio la ciudad de Culiacán Rosales, pudiendo establecer dependencias en otros centros poblados del Estado.
 
-###### ARTICULO 3.
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2017)</small>
+
+###### ARTICULO 3o.
 
 El Instituto tendrá como objeto:
 
-I.- Promover y realizar la construcción de viviendas y fraccionamientos de interés social;
+I. Establecer y garantizar la política estatal para que toda familia pueda disfrutar el derecho a una vivienda digna y decorosa;
 
-II.- Integrar y administrar el sistema tendiente a crear la reserva territorial urbana de la entidad;
+II. Promover y realizar la construcción de viviendas y fraccionamientos de interés social;
 
-III.- Promover y realizar la regeneración o rehabilitación de las zonas urbanas que lo requieran;
+III. Integrar y administrar el sistema tendiente a crear la reserva territorial urbana de la entidad;
 
-IV.- Promover y participar en el proceso de regularización de tenencia de la tierra urbana de propiedad particular o pública;
+IV. Promover y realizar la regeneración o rehabilitación de las zonas urbanas que lo requieran;
 
-V.- Promover y participar en la introducción de servicios públicos;
+V. Promover y participar en el proceso de regularización de tenencia de la tierra urbana de propiedad particular o pública;
 
-VI.- Promover y realizar la vivienda de campesinos dentro de ejidos o comunidades, así como para pescadores, cooperativistas y todos aquellos trabajadores no afiliados a un régimen de vivienda;
+VI. Promover y participar en la introducción de servicios públicos;
 
-VII.- Operar las zonas de reserva territorial constituidas por los Gobiernos del Estado y de los Municipios para el desarrollo urbano;
+VII. Promover y realizar la vivienda de campesinos dentro de ejidos o comunidades, así como para pescadores, cooperativistas y todos aquellos trabajadores no afiliados a un régimen de vivienda;
 
-VIII.- Coordinar los programas de vivienda que a través del Instituto se desarrollen en la entidad y operar los fondos de vivienda que para el efecto se constituyan;
+VIII. Operar las zonas de reserva territorial constituidas por el Gobierno del Estado y gobiernos municipales para el desarrollo urbano;
 
-IX.- Coadyuvar con los Gobiernos del Estado y de los Municipios en la elaboración de los Planes de Desarrollo Urbano de Centros de Población;
+IX. Coordinar los programas de vivienda que a través del Instituto se desarrollen en la entidad y operar los fondos de vivienda que para el efecto se constituyan;
 
-X.- Promover las expropiaciones de terrenos que se realicen de acuerdo a la Ley de Reforma Agraria y a la Ley General de Asentamientos Humanos o las Leyes y Reglamentos respectivos;
+X. Coadyuvar con el Gobierno del Estado y Gobiernos municipales en la elaboración de los Planes de Desarrollo Urbano de Centros de Población;
 
-XI.- Comercializar los inmuebles propiedad del Instituto teniendo la facultad de adquirir, vender, arrendar, permutar o realizar cualquier contrato traslativo de dominio o de uso con dichos inmuebles;
+XI. Promover las expropiaciones de terrenos que se realicen de acuerdo a la Ley de Reforma Agraria y a la Ley General de Asentamientos Humanos o las Leyes y Reglamentos respectivos;
 
-XII.- Ser beneficiario de las expropiaciones de terrenos de propiedad ejidal, comunal o particular que se destinen para asentamientos humanos o para constituir la reserva territorial urbana en el Estado;
+XII. Comercializar los inmuebles propiedad del Instituto teniendo la facultad de adquirir, vender, arrendar, permutar o realizar cualquier contrato traslativo de dominio o de uso con dichos inmuebles;
 
-XIII.- Propiciar y participar en la integración social y mejoramiento de los habitantes asentados en las zonas marginadas;
+XIII. Ser beneficiario de las expropiaciones de terrenos de propiedad ejidal, comunal o particular que se destinen para asentamientos humanos o para constituir la reserva territorial urbana en el Estado;
 
-XIV.- Promover la creación de empresas dedicadas a la producción y comercialización de materiales e implementos para la vivienda de interés social; y,
+XIV. Propiciar y participar en la integración social y mejoramiento de los habitantes asentados en las zonas marginadas;
 
-XV.- Todas aquellas que sean necesarias para el cumplimiento de los fines antes mencionados.
+XV. Promover la creación de empresas dedicadas a la producción y comercialización de materiales e implementos para la vivienda de interés social;
+
+XVI. Instituir, proponer, someter y convenir en coordinación con las autoridades del orden municipal, estatal y federal, según sea el caso, las políticas y programas públicos de vivienda, encaminadas a la corrección y prevención del fenómeno social que afecta a la entidad, relacionada con el gran número de viviendas abandonadas y despojadas; y
+
+XVII. Todas aquéllas que sean necesarias para el cumplimiento de los fines antes mencionados.
 
 ### CAPITULO II. DEL PATRIMONIO
 
@@ -231,7 +237,7 @@ El Consejo Consultivo sesionará cada vez que el Consejo Directivo lo solicite y
 
 El Director General del Instituto será nombrado por el Gobernador del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE AGOSTO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE AGOSTO DE 1993)</small>
 
 ###### ARTICULO 18.
 
@@ -281,7 +287,7 @@ I.- Determinar los grupos que deban considerarse como posibles adquirentes en lo
 
 II.- Seleccionar de entre los grupos y solicitantes individuales, a los adjudicatarios de los programas anteriormente mencionados.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 14 DE OCTUBRE DE 1985)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE OCTUBRE DE 1985)</small>
 
 ### CAPITULO VIII. DE LAS RELACIONES LABORALES
 
@@ -347,7 +353,7 @@ El Secretario de Hacienda Pública y Tesorería
 
 LIC. JOSE RAMON FUENTEVILLA PELAEZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 14 DE OCTUBRE DE 1985.
 
@@ -360,3 +366,9 @@ P.O. 4 DE AGOSTO DE 1993.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 23 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 207 QUE REFORMA EL ARTÍCULO 3o DE LA LEY QUE CREA EL INSTITUTO DE VIVIENDA DEL ESTADO DE SINALOA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
