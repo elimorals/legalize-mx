@@ -4,7 +4,7 @@ identifier: "TLA-ley-para-el-fomento-y-desarrollo-del-turismo-del-estado-de-9685
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-06"
-last_updated: "2013-12-06"
+last_updated: "2017-08-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96857&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY PARA EL FOMENTO Y DESARROLLO DEL TURISMO DEL ESTADO DE TLAXCALA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2017.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 6 de diciembre de 2013.
 
@@ -119,7 +119,9 @@ III. Agencias de guías de turistas;
 
 IV. Restaurantes, cafeterías, bares, centros nocturnos, y similares que se encuentren ubicados en los lugares respectivos como: terminales de autobuses, museos, zonas arqueológicas, centros históricos, ex haciendas y aquellos considerados como turísticos, y
 
-V. Los espectáculos taurinos, novilladas y tienta de vaquillas abiertas al público en general, y que sean considerados como parte del Patrimonio Cultural Inmaterial del Estado.
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2017)</small>
+
+V. Los relativos a la Fiesta de Toros declarada ésta como Patrimonio Cultural Inmaterial del Estado.
 
 Los oferentes, agentes, operadores y prestadores de servicio (sic) turísticos, podrán solicitar sus inscripciones en el Registro Estatal de Turismo, siempre y cuando cumplan con los requisitos que establecen las disposiciones legales.
 
@@ -882,3 +884,13 @@ EL SECRETARIO DE GOBIERNO
 MIGUEL MOCTEZUMA DOMÍNGUEZ
 
 Rúbrica y sello
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 27.- SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 5 DE LA LEY PARA EL FOMENTO Y DESARROLLO DEL TURISMO DEL ESTADO DE TLAXCALA."]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
