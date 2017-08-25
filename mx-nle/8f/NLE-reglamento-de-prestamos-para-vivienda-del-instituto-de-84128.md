@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-prestamos-para-vivienda-del-instituto-de-84128"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-25"
-last_updated: "2016-12-02"
+last_updated: "2017-08-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE PRÉSTAMOS PARA VIVIENDA DEL ISSSTELEON DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 25 de noviembre de 2011.
 
@@ -185,43 +185,19 @@ a) Cuando pierda su relación laboral y no hubiere tramitado oportunamente su pr
 
 b) Al vencimiento de la prórroga y que no esté sujeto a una relación laboral;
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 14.
 
-Cuando un servidor público sea dado de baja por cese, renuncia, terminación de la obra, o del tiempo para los cuales hubiera sido contratado y por tanto deje de cotizar al Instituto, deberá continuar al corriente en los pagos de amortización que tenga que hacer por concepto de capital e intereses, independientemente de que exista litigio en trámite sobre la subsistencia de la relación de trabajo. La existencia de los supuestos a que se refiere este artículo y el anterior, deberá comprobarse ante el Instituto.
+Cuando un servidor público sea dado de baja por cese, renuncia, terminación de la obra o del tiempo para los cuales hubiera sido contratado y por tanto deje de cotizar al Instituto, deberá de continuar al corriente en los pagos de amortización que tenga que hacer por concepto de capital e intereses, independientemente de que exista litigio en trámite sobre la subsistencia de la relación de trabajo. La existencia de los supuestos a que se refiere este artículo y el anterior deberá de comprobarse ante el Instituto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2014)</small>
+Los intereses normales se calcularan a la tasa fija anual contratada más 3.0 puntos porcentuales.
 
-Los intereses normales se calcularan a la tasa anual más alta de entre las que se indican.
+Este interés comenzará a aplicarse a partir del séptimo mes en que el servidor público sea dado de baja.
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2014)</small>
+El incumplimiento en el pago causará un interés moratorio por abono vencido, que se calculara a una tasa anual que será 50% mayor a la tasa acordada. Si el incumplimiento en el pago se prolonga por un lapso mayor a tres meses consecutivos, el Instituto podrá dar por rescindido el préstamo otorgado y convenir a la reestructura del mismo.
 
-a) La Estimación Porcentual Promedio de Captación CPP + 4.5 puntos porcentuales.
-
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2014)</small>
-
-b) La Tasa de Interés Interbancaria de Equilibrio TIIe + 4.5 puntos porcentuales.
-
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2014)</small>
-
-c) Certificados de la Tesorería de Federación CETES +4.5 puntos porcentuales.
-
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2014)</small>
-
-Este interés comenzará a aplicarse a partir del séptimo mes en que el servidor público sea dado de baja. Esto con el objetivo de dar oportunidad a conseguir un nuevo empleo.
-
-El incumplimiento en el pago causará un interés moratorio por abono vencido, que se calculará a una tasa anual que será 50% mayor a la tasa más alta de entre las que se indican:
-
-a) Estimación del Costo Porcentual Promedio de Captación CPP + 8 puntos porcentuales;
-
-b) La Tasa de Interés Interbancaria de Equilibrio TIIE + 8 puntos porcentuales; y
-
-c) Certificados de la Tesorería de la Federación CETES + 8 puntos porcentuales.
-
-En caso de que algún mes no se determine cualesquiera de las tasas citadas, la Secretaría de Finanzas y Tesorería General del Estado determinará aquella que le sustituya. En ningún caso la tasa anual para el cálculo de dichos intereses será superior a un 20%. Si el incumplimiento en el pago se prolonga por un lapso mayor a tres meses consecutivos, el Instituto podrá dar por rescindido el préstamo otorgado y convenir a la reestructura del mismo.
-
-El Instituto podrá celebrar convenio de pago con los acreditados en forma individual, cuando éstos deseen regularizar su situación crediticia.
-
-Igualmente los servidores públicos que se encuentran en el caso del primer párrafo de éste artículo podrán solicitar al Instituto la sustitución de deudor de entre las solicitudes de préstamo que se tengan en trámite de adjudicar, enajene su inmueble objeto del préstamo y finiquite el mismo, y en su caso, le reembolse el remanente. Durante el tiempo que dure la adjudicación, el servidor público continuará obligado a pagar las amortizaciones.
+El Instituto podrá celebrar convenio de pago con los acreditados en forma individual, cuando estos deseen regularizar su situación crediticia. Igualmente los servidores públicos que se encuentran en el caso del primer párrafo de este artículo podrá solicitar al Instituto la sustitución de deudor de entre las solicitudes de préstamo que se tengan en trámite de adjudicar, enajene su inmueble objeto del préstamo y finiquite el mismo, y en su caso, le reembolse el remanente. Durante el tiempo que dure la adjudicación, el Servidor Público continuara obligado a pagar las amortizaciones.
 
 ###### Artículo 15.
 
@@ -564,3 +540,9 @@ P.O. 2 DE DICIEMBRE DE 2016.
 PRIMERO: La presente Reforma al Reglamento de Préstamos para Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Nuevo León, entrará en vigor a partir del día 1-primero de Enero del año 2017-dos mil diecisiete.
 
 SEGUNDO: Los servidores públicos que a la fecha gocen de un préstamo de vivienda, una vez que entre en vigor la presente reforma, podrán migrar al nuevo esquema para la fijación de la tasa de interés, previa solicitud por escrito que se formule al Instituto.
+
+P.O. 25 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO POR EL QUE“REFORMA AL REGLAMENTO DE PRÉSTAMOS PARA VIVIENDA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DELOS TRABAJADORES DEL ESTADO DE NUEVO LEÓN”.]
+
+UNICO: La presente Reforma al Reglamento de Préstamos para Vivienda del Instituto de Seguridad y Servidos Sociales de los Trabajadores del Estado de Nuevo León, entrará en vigor a partir del día siguiente de su publicación.
