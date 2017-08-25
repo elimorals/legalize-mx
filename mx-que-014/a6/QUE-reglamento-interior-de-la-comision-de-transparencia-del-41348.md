@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-de-la-comision-de-transparencia-del-41348"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-30"
-last_updated: "2015-12-11"
+last_updated: "2017-08-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41348&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "QUE"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION DE TRANSPARENCIA DEL MUNICIPIO DE QUERETARO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO TERCERO DEL REGLAMENTO DE LA COMISIÓN CIUDADANA PARA LA RENDICIÓN DE CUENTAS DEL MUNICIPIO DE QUERÉTARO, PUBLICADO EN EL P.O. DE 25 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA COMISIÓN DE TRANSPARENCIA DEL MUNICIPIO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Gaceta Municipal del Municipio de Querétaro, el jueves 30 de mayo de 2002.
 
@@ -632,3 +634,27 @@ Los ciudadanos integrantes propietarios y sus suplentes elegidos en atención a 
 ###### ARTÍCULO QUINTO.
 
 Notifíquese el presente Acuerdo a los titulares de la Secretaría Particular, Secretaría General de Gobierno Municipal, Secretaría Ejecutiva, Secretaría de Administración y Unidad de Información Gubernamental.
+
+P.O. 25 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA COMISIÓN CIUDADANA PARA LA RENDICIÓN DE CUENTAS DEL MUNICIPIO DE QUERÉTARO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Reglamento en la Gaceta Oficial del H. Ayuntamiento del Municipio de Querétaro y en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Reglamento entrará en vigencia al día siguiente a la fecha de la primera de las dos publicaciones mencionadas en el artículo transitorio anterior.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Reglamento Interior de la Comisión de Transparencia del Municipio de Querétaro, promulgado el día 15 de mayo de 2002.
+
+###### ARTICULO CUARTO.
+
+Para la integración de la Comisión Ciudadana para la Rendición de Cuentas, los representantes de la ciudadanía serán designados por mayoría calificada de los integrantes del Ayuntamiento, sin atender, por única ocasión, al procedimiento dispuesto por el artículo 4 del presente reglamento, y durarán en su cargo hasta el primero de julio del segundo año de la siguiente administración municipal.
+
+###### ARTÍCULO QUINTO.
+
+Se instruye al Secretario del Ayuntamiento para que notifique el presente Acuerdo a los titulares de las dependencias, entidades y organismos de la administración pública municipal para su conocimiento y cumplimiento.
