@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-la-imposicion-de-multas-por-incumplimiento-6219
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-15"
-last_updated: "2008-08-15"
+last_updated: "2017-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62198&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-08-08"
 
 REGLAMENTO PARA LA IMPOSICION DE MULTAS POR INCUMPLIMIENTO DE LAS OBLIGACIONES QUE LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES Y SUS REGLAMENTOS ESTABLECEN A CARGO DE LOS PATRONES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE AGOSTO DE 2017.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 15 de agosto de 2008.
 
@@ -43,7 +43,7 @@ Tratándose de la infracción por omisión total o parcial en el pago de las Apo
 
 Para los efectos de este Reglamento se entenderá por:
 
-l. Aportación: a la cantidad equivalente al 5% sobre el Salario base de aportación de los Trabajadores, que los Patrones pagan al Instituto;
+I. Aportación: a la cantidad equivalente al 5% sobre el Salario base de aportación de los Trabajadores, que los Patrones pagan al Instituto;
 
 II. Código: al Código Fiscal de la Federación;
 
@@ -55,7 +55,9 @@ V. Ley: a la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabaj
 
 VI. Patrón: a la persona que tenga este carácter en términos de la Ley Federal del Trabajo;
 
-VII. Salario: al mínimo general diario que rija en el Distrito Federal al momento de la imposición de la multa, y
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2017)</small>
+
+VII. UMA: a la Unidad de Medida y Actualización vigente al momento de cometer la infracción, y
 
 VIII. Trabajador: a la persona que la Ley Federal del Trabajo define como tal.
 
@@ -79,7 +81,9 @@ III. De la información que le proporcionen otras autoridades fiscales, así com
 
 IV. De la información que le haga llegar cualquier otra autoridad.
 
-Los Trabajadores podrán denunciar ante la Delegación Regional del Instituto que corresponda o, en su caso, ante la Gerencia de Fiscalización del Distrito Federal cualquier acto u omisión del Patrón que pueda infringir la Ley o sus reglamentos. La denuncia deberá hacerse por escrito y deberá acompañarse del material probatorio en que se funde la misma.
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2017)</small>
+
+Los Trabajadores podrán denunciar ante la Delegación Regional del Instituto que corresponda o, en su caso, a través de los medios electrónicos autorizados por el Instituto, cualquier acto u omisión del Patrón que pueda infringir la Ley o sus reglamentos. La denuncia deberá hacerse por escrito o por los medios electrónicos que determine el Instituto y se acompañará del material probatorio en que se funde la misma.
 
 ### CAPÍTULO II. De las Infracciones
 
@@ -87,7 +91,7 @@ Los Trabajadores podrán denunciar ante la Delegación Regional del Instituto qu
 
 Se consideran infracciones a la Ley y sus reglamentos, los siguientes hechos u omisiones de los Patrones:
 
-l. No inscribirse ante el Instituto o hacerlo fuera del plazo establecido en la Ley y el Reglamento de Inscripción, Pago de Aportaciones y Entero de Descuentos al Instituto del Fondo Nacional de la Vivienda para los Trabajadores;
+I. No inscribirse ante el Instituto o hacerlo fuera del plazo establecido en la Ley y el Reglamento de Inscripción, Pago de Aportaciones y Entero de Descuentos al Instituto del Fondo Nacional de la Vivienda para los Trabajadores;
 
 II. No inscribir a cada uno de sus Trabajadores ante el Instituto o hacerlo en forma extemporánea. La omisión de inscribir a un Trabajador constituye una infracción por sí misma en relación con cada caso individual;
 
@@ -113,19 +117,31 @@ XII. No proporcionar al Instituto la información necesaria para precisar la exi
 
 XIII. No conservar en su domicilio fiscal la documentación correspondiente a la contabilidad de la empresa relativa al cumplimiento de sus obligaciones patronales para con el Instituto, así como la documentación comprobatoria del pago de Aportaciones y entero de Descuentos, durante el plazo que al efecto establece el Código, excepto cuando cuente con autorización de la Secretaría de Hacienda y Crédito Público para conservar la documentación en domicilio fiscal diferente;
 
-XIV. Obstaculizar o impedir, por sí o por interpósita persona, la inspección o visita domiciliaria que practique el Instituto, de conformidad con la Ley, el Código y su reglamento;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2017)</small>
+
+XIV. Obstaculizar o impedir, por sí o por interpósita persona, la inspección, visita domiciliaria o revisión documental que practique el Instituto, de conformidad con la Ley, el Código y su reglamento;
 
 XV. No presentar al Instituto copia con firma autógrafa del dictamen de la situación fiscal con los anexos correspondientes a las contribuciones a favor del Instituto, a más tardar dentro de los siguientes quince días hábiles contados a partir del vencimiento del plazo para su presentación ante la Secretaría de Hacienda y Crédito Público, cuando se esté obligado a ello por el Código y su reglamento;
 
-XVI. En caso de que se haya elegido la opción de dictaminar, no presentar el dictamen de sus obligaciones en materia de vivienda de conformidad con lo señalado en la Ley y el reglamento correspondiente, dentro del plazo concedido para este efecto, y
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2017)</small>
 
-XVII. Presentar los pagos sobre Aportaciones o Descuentos, o de ambos, con errores en los datos de identificación del Patrón o del Trabajador, de movimientos afiliatorios, del periodo a pagar y de los conceptos e importes de pago.
+XVI. En caso de que se haya elegido la opción de dictaminar, no presentar el dictamen de sus obligaciones en materia de vivienda de conformidad con lo señalado en la Ley y el reglamento correspondiente, dentro del plazo concedido para este efecto;
+
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2017)</small>
+
+XVII. Presentar los pagos sobre Aportaciones o Descuentos, o de ambos, con errores en los datos de identificación del Patrón o del Trabajador, de movimientos afiliatorios, del periodo a pagar y de los conceptos e importes de pago, y
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2017)</small>
+
+XVIII. No proporcionar la información señalada en la Ley, sus reglamentos y demás disposiciones jurídicas aplicables dentro de los plazos establecidos, a través de los medios y formatos correspondientes.
 
 ### CAPÍTULO III. De la Competencia
 
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2017)</small>
+
 ###### ARTÍCULO 7o.
 
-Corresponde al Director General, Subdirector General de Recaudación Fiscal, Delegados Regionales y Representantes de la Dirección General, Coordinador de Fiscalización y Cobranza Fiscal, Gerente de Fiscalización, Gerente de Estudio y Control Fiscal, Gerente de Cobranza Fiscal, Gerente de Fiscalización del Distrito Federal, Subgerente de Estudio y Control Fiscal, Subgerente de Cobranza Fiscal y los Subgerentes de Recaudación Fiscal en las Delegaciones Regionales dentro de la circunscripción territorial que se les haya conferido, imponer las multas a que se refiere el presente Reglamento.
+Corresponde al personal del Instituto previsto en el artículo 4° del Reglamento Interior del Instituto del Fondo Nacional de la Vivienda para los Trabajadores en materia de facultades como Organismo Fiscal Autónomo dentro de la circunscripción territorial que se les haya conferido, imponer las multas a que se refiere el presente Reglamento.
 
 ### CAPÍTULO IV. De las Multas
 
@@ -133,23 +149,39 @@ Corresponde al Director General, Subdirector General de Recaudación Fiscal, Del
 
 Cuando el Instituto determine la existencia de alguna de las infracciones a que se refiere el artículo 6o. de este Reglamento se impondrá la multa que corresponda conforme a lo siguiente:
 
-I. De tres a ciento cincuenta veces el Salario, si la infracción es de las que se señalan en las fracciones VI, X, XV y XVI;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2017)</small>
 
-II. De ciento cincuenta y uno a doscientas veces el Salario, tratándose de la infracción señalada en la fracción IX;
+I. De tres a ciento cincuenta veces la UMA, si la infracción es de las que se señalan en las fracciones VI, X y XVI;
 
-III. De doscientas uno a doscientas cincuenta veces el Salario, si la infracción es de las señaladas en las fracciones XIII y XVII;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2017)</small>
 
-IV. De doscientas cincuenta y uno a trescientas veces el Salario, si la infracción es de las referidas en las fracciones IV, VII, VIII, XI y XIl;
+II. De ciento cincuenta y uno a doscientas veces la UMA, tratándose de la infracción señalada en la fracción IX y XV;
 
-V. De trescientas uno a trescientas cincuenta veces el Salario, si la infracción es de las señaladas en las fracciones l, III y XIV;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2017)</small>
 
-VI. La que resulte mayor de entre el cincuenta por ciento de las Aportaciones no individualizadas, y la que corresponda al máximo de trescientas cincuenta veces el Salario, si la infracción es la señalada en la fracción V, y
+III. De doscientas uno a doscientas cincuenta veces la UMA, si la infracción es de las señaladas en las fracciones XIII y XVII;
+
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2017)</small>
+
+IV. De doscientas cincuenta y uno a trescientas veces la UMA, si la infracción es de las referidas en las fracciones IV, VII, VIII, XI, XII y XVIII;
+
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2017)</small>
+
+V. De trescientas uno a trescientas cincuenta veces la UMA, si la infracción es de las señaladas en las fracciones I, III y XIV;
+
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2017)</small>
+
+VI. La que resulte mayor de entre el cincuenta por ciento de las Aportaciones no individualizadas, y la que corresponda al máximo de trescientas cincuenta veces la UMA, si la infracción es la señalada en la fracción V, y
 
 VII. En el caso de la infracción señalada en la fracción II, las multas que se impongan serán:
 
-a) De tres a cinco veces el Salario por cada Trabajador no inscrito, si se trata de uno a cien Trabajadores, y
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2017)</small>
 
-b) De trescientas uno a trescientas cincuenta veces el Salario, si se trata de más de cien Trabajadores no inscritos. La multa señalada en este inciso aplicará respecto de todos los Trabajadores no inscritos.
+a) De tres a cinco veces la UMA por cada Trabajador no inscrito, si se trata de uno a cien Trabajadores, y
+
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2017)</small>
+
+b) De trescientas uno a trescientas cincuenta veces la UMA, si se trata de más de cien Trabajadores no inscritos. La multa señalada en este inciso aplicará respecto de todos los Trabajadores no inscritos.
 
 ###### ARTÍCULO 9o.
 
@@ -241,7 +273,9 @@ La multa seguirá la suerte de la infracción que la motivó y podrá reducirse 
 
 El Patrón que considere que la resolución en la que se impone la multa no se apega a derecho, podrá interponer dentro del plazo establecido para ello, el recurso de inconformidad de acuerdo con lo señalado en la Ley y en las Reglas de Operación de la Comisión de Inconformidades del Instituto del Fondo Nacional de la Vivienda para los Trabajadores que emita el Instituto.
 
-Será optativo para los Patrones agotar el recurso de inconformidad o acudir directamente ante el Tribunal Federal de Justicia Fiscal y Administrativa para impugnar la resolución de que se trate.
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2017)</small>
+
+Será optativo para los Patrones agotar el recurso de inconformidad o acudir directamente ante el Tribunal Federal de Justicia Administrativa para impugnar la resolución de que se trate.
 
 ### CAPÍTULO VI. De las Notificaciones
 
@@ -292,3 +326,13 @@ Segundo. Se abroga el Reglamento para la Imposición de Multas por Infracción a
 Tercero. Los asuntos que se encuentren en trámite iniciados con base en el reglamento que se abroga en virtud del transitorio anterior, deberán concluirse conforme a lo previsto en él y en las demás disposiciones que resulten aplicables.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los ocho días del mes de agosto de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Javier Lozano Alarcón.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 25 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO PARA LA IMPOSICIÓN DE MULTAS POR INCUMPLIMIENTO DE LAS OBLIGACIONES QUE LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES Y SUS REGLAMENTOS ESTABLECEN A CARGO DE LOS PATRONES."]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Los asuntos que se encuentren en trámite iniciados con base en el reglamento que se modifica, deberán concluirse conforme a lo previsto en él y en las demás disposiciones que resulten aplicables.
