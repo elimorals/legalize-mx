@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-participacion-ciudadana-del-municipio-de-41086"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-20"
-last_updated: "2004-09-20"
+last_updated: "2017-08-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE PARTICIPACION CIUDADANA DEL MUNICIPIO DE SANTIAGO, NUEVO LEON
 
-REGLAMENTO DE PARTICIPACION CIUDADANA DEL MUNICIPIO DE SANTIAGO, NUEVO LEON
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE PARTICIPACIÓN CIUDADANA PARA EL GOBIERNO Y ADMINISTRACIÓN PÚBLICA MUNICIPAL DE SANTIAGO, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 25 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DE PARTICIPACIÓN CIUDADANA DEL MUNICIPIO DE SANTIAGO, NUEVO LEÓN
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo león, el lunes 20 de septiembre de 2004
 
@@ -430,3 +432,19 @@ PRESIDENTE MUNICIPAL
 C. LIC. ARNOLDO GERARDO LEAL CORDERO
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 30 DE JUNIO DE 2017, SE APRUEBA EL REGLAMENTO DE PARTICIPACIÓN CIUDADANA PARA EL GOBIERNO Y ADMINISTRACIÓN PÚBLICA MUNICIPAL DE SANTIAGO, N.L.".]
+
+Primero.- El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga el "Reglamento de Participación Ciudadana del Municipio de Santiago, N.L.", publicado en el Periódico Oficial del Estado del 20 de septiembre del 2004, así como todas aquellas disposiciones que se opongan al presente Reglamento.
+
+Tercero.- El apartado de la revocación de mandato a que se refiere el Capítulo Séptimo del Título Segundo de este Reglamento, entrará en vigor una vez realizada la reforma constitucional correspondiente, así como también aquellas reformas que se efectúen a la Ley Electoral para el Estado de Nuevo León.
+
+Cuarto.- El Ayuntamiento hará las modificaciones necesarias en su proyecto de egresos del año fiscal siguiente en que entre en vigor el presente Reglamento, a fin de incluir, en la medida de lo posible, las partidas necesarias para la aplicación y ejecución del presupuesto participativo que se destine en el Municipio.
+
+Quinto.- Los casos no previstos en este ordenamiento se sujetarán a lo establecido en la Ley de Participación Ciudadana para el Estado de Nuevo León, en la Ley de Gobierno Municipal del Estado de Nuevo León y demás normatividad aplicable.
