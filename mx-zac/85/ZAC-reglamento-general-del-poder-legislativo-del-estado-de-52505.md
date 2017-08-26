@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-general-del-poder-legislativo-del-estado-de-52505"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-12-13"
-last_updated: "2017-03-15"
+last_updated: "2017-08-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2017.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 13 de diciembre de 2006.
 
@@ -567,9 +567,11 @@ Cuando las Comisiones de Puntos Constitucionales y Jurisdiccional, conozcan conj
 
 #### Sección tercera. De la discusión, votación y dictamen de las comisiones
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 64.
 
-Las comisiones legislativas atenderán los asuntos de su competencia conforme al orden cronológico en que fueron recibidos, con excepción de aquellos que sean de urgente resolución, aprobada por las mismas.
+Las comisiones legislativas atenderán los asuntos de su competencia conforme al orden cronológico en que fueron recibidos, con excepción de aquellos que versen sobre conflicto en la designación de contralores municipales, así como, de los que se refieran a sustituciones y suplencias de servidores públicos de elección popular, los cuales serán considerados de urgente resolución, una vez que así lo apruebe la mayoría de sus integrantes.
 
 ###### Artículo 65.
 
@@ -2560,3 +2562,13 @@ Artículo primero.- El presente Decreto entrara en vigor al día siguiente al de
 Artículo segundo.- Se derogan todas las disposiciones que se opongan a este Decreto.
 
 Artículo tercero.- La Comisión de Planeación, Patrimonio y Finanzas y la Dirección de Administración y Finanzas de la LXII Legislatura, durante el mes de enero 2017, formularán una propuesta ante la CRICP para otorgar un respaldo financiero que permita al Instituto cumplir con sus tareas institucionales.
+
+P.O. 26 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA Y EL REGLAMENTO GENERAL, AMBOS DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. La Legislatura del Estado deberá disponer en el Reglamento General del Poder Legislativo del Estado de Zacatecas, a más tardar noventa días posteriores a la entrada en vigor de la presente reforma, el procedimiento correspondiente para enajenar o desincorporar algún bien mueble del Poder Legislativo.
+
+Artículo tercero. Se derogan todas las disposiciones que se opongan a este Decreto.
