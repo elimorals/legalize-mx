@@ -4,7 +4,7 @@ identifier: "COL-ley-de-la-juventud-del-estado-de-colima-101797"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-12"
-last_updated: "2014-07-12"
+last_updated: "2017-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LA JUVENTUD DEL ESTADO DE COLIMA.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 12 de julio de 2014.
 
@@ -441,17 +441,25 @@ El Programa deberá publicarse en el Periódico Oficial “El Estado de Colima�
 
 Se crea el Consejo Ciudadano, dependiente de la Secretaría, como espacio de participación ciudadana, el cual, como órgano de consulta, tiene por objeto conocer el cumplimiento dado a los programas dirigidos a la juventud, tanto de la Secretaría como de las demás Secretarías y entidades públicas con presencia en el Estado, opinar sobre los mismos, recabar la opinión de los ciudadanos interesados en políticas públicas en materia de juventud y presentar sus resultados y opiniones al titular de la Secretaría, en su caso, las propuestas correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 25.
 
-El Consejo Ciudadano estará integrado por trece consejeros, de los cuales, tres serán electos de manera directa por la Secretaría, dentro del mismo personal de esta, para ocupar los cargos de Presidente, Vicepresidente y Secretario.
+El Consejo Ciudadano estará integrado por trece consejeros, de los cuales, tres serán designados de manera directa por el Secretario de la Juventud, dentro del mismo personal de la Secretaría, para ocupar los cargos de Presidente, Vicepresidente y Secretario.
 
-Para integrar los diez consejeros restantes, la Secretaría deberá convocar a las Instituciones de educación superior, a las organizaciones juveniles vinculadas con el trabajo comunitario, político o social, así como a los sectores público y privado, para que propongan a esta a las y los jóvenes que habrán de participar en el concurso de selección de diez miembros del Consejo Ciudadano, conforme a las siguientes bases:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2017)</small>
+
+Para integrar los diez consejeros restantes, la Secretaría deberá convocar a las Instituciones de educación superior, a las organizaciones juveniles vinculadas con el trabajo comunitario, político o social, así como a los sectores público y privado, para que propongan a esta a las y los jóvenes que habrán de participar en la elección de diez miembros del Consejo Ciudadano, conforme a las siguientes bases:
 
 Podrán participar en el concurso todas y todos aquellos jóvenes que reúnan los siguientes requisitos:
 
-a. Ser ciudadanas o ciudadanos mexicanos;
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2017)</small>
 
-b. Tener de 18 a 29 años de edad al día de la designación y residir en el Estado;
+a. Ser ciudadanas o ciudadanos mexicanos en pleno goce de sus derechos;
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2017)</small>
+
+b. Tener de 18 a 29 años de edad al día de la elección y contar con una residencia efectiva no menor de un año en el Estado;
 
 c. No estar sujetos a proceso penal o haber sido sentenciados por delito intencional grave;
 
@@ -459,9 +467,15 @@ d. Presentar una carta de alguna institución u organización pública o privada
 
 e. No estar desempeñando un puesto de elección popular;
 
-f. No pertenecer a una organización que al momento de la designación realice un proyecto financiado por la Secretaría; y
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2017)</small>
+
+f. No pertenecer a una organización que al momento de la elección realice un proyecto financiado por la Secretaría; y
 
 g. Disponibilidad de tiempo para asistir a las sesiones, así como a las actividades extraordinarias del Consejo Ciudadano.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2017)</small>
+
+Los Consejeros Ciudadanos participarán en el Consejo por un período de dos años, pudiendo ser reelectos por un período igual.
 
 ###### Artículo 26.
 
@@ -491,7 +505,21 @@ VII. Procurar la vinculación con organizaciones de la sociedad civil relacionad
 
 VIII. Aprobar su reglamento interno;
 
-IX. Las demás que le confiera esta Ley y su Reglamento Interior.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2017)</small>
+
+IX. Promover la formulación y ejecución de programas y acciones interinstitucionales en materia de atención a la juventud;
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2017)</small>
+
+X. Evaluar los avances y logros de los programas y acciones orientadas al beneficio de los jóvenes;
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2017)</small>
+
+XI. Establecer grupos de trabajo a los que les asigne el cumplimiento de asuntos específicos; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE AGOSTO DE 2017)</small>
+
+XII. Las demás que le señalen otras disposiciones legales y aquellas que sean necesarias para el cumplimiento de su objeto.
 
 ###### Artículo 28.
 
@@ -499,7 +527,9 @@ El Presidente tendrá las atribuciones siguientes:
 
 I. Representar al Consejo Ciudadano;
 
-II. Convocar a sesiones ordinarias y extraordinarias;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2017)</small>
+
+II.- Convocar, por conducto del Secretario, a sesiones ordinarias y extraordinarias y presidir las mismas;
 
 III. Llevar el control y dirección de las sesiones que se celebren;
 
@@ -681,9 +711,15 @@ La juventud tiene derecho a acceder a la infraestructura cultural existente en l
 
 El Gobierno del Estado promoverá las distintas expresiones culturales de la juventud colimense, tanto del medio urbano como rural, procurando una capacitación e intercambio que incremente la calidad de tales expresiones con referencia a los procesos creativos del ámbito nacional e internacional.
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 56.
 
-El Gobierno del Estado considerará mecanismos para generar políticas culturales incluyentes, promoverá el disfrute masivo de las distintas manifestaciones culturales de la juventud, estimulará el aprovechamiento artístico de la infraestructura existente y alentará un sistema promotor de iniciativas culturales juveniles.
+El Gobierno del Estado, a través de la Secretaría y en coordinación con la Secretaría de Cultura, considerará mecanismos para generar políticas culturales incluyentes, promoverá el disfrute masivo de las distintas manifestaciones culturales de la juventud, estimulará el aprovechamiento artístico en la infraestructura pública existente y alentará un sistema promotor de iniciativas culturales juveniles.
+
+Para estimular el aprovechamiento artístico en la infraestructura pública, la Secretaría en coordinación con la Secretaría de Cultura, promoverá el registro de espacios públicos del Gobierno del Estado y de los Gobiernos Municipales que puedan ser sujetos de aprovechamientos artísticos, mediante los cuales se estimule y fomente la participación de artistas jóvenes a través de murales o pinturas mediante los cuales manifiesten su arte.
+
+El objeto de dicho registro es que los jóvenes con talento artístico como lo es la pintura, a través de sus distintos métodos, se les autorice un espacio en la infraestructura urbana a efecto de que pueda ser susceptible de expresiones artísticas como son murales o pinturas.
 
 ### CAPÍTULO OCTAVO. DEL DERECHO AL DEPORTE
 
@@ -944,3 +980,19 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, el día 09 nueve del mes de Julio del año 2014 dos mil catorce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE COLIMA, LIC. MARIO ANGUIANO MORENO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. ROGELIO HUMBERTO RUEDA SÁNCHEZ. Rúbrica. EL SECRETARIO DE FINANZAS Y ADMINISTRACIÓN, C.P. CLEMENTE MENDOZA MARTÍNEZ. Rúbrica. EL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO, LIC. MARCOS SANTANA MONTES. Rúbrica. EL SECRETARIO DE SEGURIDAD PÚBLICA, GRAL. DIV. D.E.M. RET. RAÚL PINEDO DÁVILA. Rúbrica. EL SECRETARIO DE PLANEACIÓN, C.P. FRANCISCO MANUEL OSORIO CRUZ. Rúbrica. EL SECRETARIO DE EDUCACIÓN, PROFR. JOSÉ GUILLERMO RANGEL LOZANO. Rúbrica. EL SECRETARIO DE SALUD Y BIENESTAR SOCIAL, DR. AGUSTÍN LARA ESQUEDA. Rúbrica. EL SECRETARIO DE DESARROLLO URBANO, ARQ. JOSÉ FERNANDO MORÁN RODRÍGUEZ. Rúbrica. EL SECRETARIO DE DESARROLLO SOCIAL, LIC. RIGOBERTO SALAZAR VELASCO. Rúbrica. EL SECRETARIO DE DESARROLLO RURAL, ING. ADALBERTO ZAMARRONI CISNEROS. Rúbrica. EL SECRETARIO DE FOMENTO ECONÓMICO, C. RAFAEL GUTIÉRREZ VILLALOBOS. Rúbrica. EL SECRETARIO DE CULTURA, LIC. RUBÉN PÉREZ ANGUIANO. Rúbrica. EL SECRETARIO DE LA JUVENTUD, LIC. ROBERTO RAMÍREZ. Rúbrica. EL SECRETARIO DEL TRABAJO Y PREVISIÓN SOCIAL, LIC. URIEL ALBERTO MORENO FLORES. Rúbrica. EL SECRETARIO DE TURISMO, C. HÉCTOR FAUSTINO SANDOVAL FIERROS. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 340 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE LA JUVENTUD DEL ESTADO DE COLIMA Y DE LA LEY DE FOMENTO DE CULTURA CÍVICA PARA EL ESTADO DE COLIMA”.]
+
+ÚNICO.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico “El Estado de Colima”.
+
+P.O. 26 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 341 SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO, LOS INCISOS A) Y B) DEL PÁRRAFO TERCERO Y SE ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 25; SE REFORMA LA FRACCIÓN IX Y SE ADICIONAN LAS FRACCIONES X, XI Y XII AL ARTÍCULO 27; Y SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 28, DE LA LEY DE LA JUVENTUD DEL ESTADO DE COLIMA."]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Queda derogada toda disposición que contravenga lo dispuesto por el presente Decreto.
