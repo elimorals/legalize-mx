@@ -4,7 +4,7 @@ identifier: "COL-ley-de-fomento-de-cultura-civica-para-el-estado-de-colima-69282
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-04"
-last_updated: "2009-07-04"
+last_updated: "2017-08-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69282&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY DE FOMENTO DE CULTURA CIVICA PARA EL ESTADO DE COLIMA
 
-LEY DE FOMENTO DE CULTURA CIVICA PARA EL ESTADO DE COLIMA
+LEY DE FOMENTO DE CULTURA CÍVICA PARA EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2017.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 4 de julio de 2009.
 
@@ -35,7 +35,9 @@ D E C R E T O
 
 EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE LOS ARTÍCULOS 33 FRACCIÓN II Y 39 DE LA CONSTITUCIÓN POLÍTICA LOCAL, EN NOMBRE DEL PUEBLO, Y
 
-C O N S I D E R A N D O S.
+C O N S I D E R A N D O S
+
+[...]
 
 Por lo anterior expuesto se expide el siguiente
 
@@ -195,7 +197,9 @@ c) El buen funcionamiento de los servicios públicos y aquellos privados de acce
 
 d) La conservación del medio ambiente y de la salubridad general; y
 
-e) El respeto, en beneficio colectivo, del uso y destino de los bienes del dominio público.
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2017)</small>
+
+e) El respeto, en beneficio colectivo, del uso y destino de los bienes del dominio público, y del dominio privado, evitando en todo momento actos que constituyan vandalismo sobre éstos.
 
 ###### Artículo 18.
 
@@ -229,9 +233,15 @@ XIII. A no hacerse justicia por sí mismo, ni ejercer violencia para reclamar su
 
 XIV. A la libertad para profesar la creencia religiosa que más le agrade y para practicar las ceremonias, devociones o actos del culto respectivo, siempre que no constituyan un delito o falta penados por la Ley;
 
-XV. Al trabajo digno y socialmente útil; y
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2017)</small>
 
-XVI. Las demás que señalen las leyes.
+XV. Al trabajo digno y socialmente útil;
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2017)</small>
+
+XVI. A ser respetado en sus bienes y derechos, contra cualquier acto de desposesión ilegal, y de cualquier acto de vandalismo; y
+
+XVII. Las demás que señalen las leyes.
 
 ###### Artículo 19.
 
@@ -261,7 +271,9 @@ IV. Las demás que determinen las leyes.
 
 Esta Ley, en concordancia con la Constitución Política de los Estados Unidos Mexicanos, reconoce e impone como obligación a todos los habitantes en el Estado:
 
-I. Hacer que sus hijos o pupilos concurran a las escuelas públicas o privadas, para obtener la educación preescolar, primaria y secundaria, en los términos que establezca la ley de la materia;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2017)</small>
+
+I. Hacer que sus hijos o pupilos concurran a las escuelas públicas o privadas, para obtener la educación preescolar, primaria, secundaria y media superior, en los términos que establezca la ley de la materia;
 
 II. Satisfacer a sus hijos, y en su caso, a sus ascendientes, las necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral, igual obligación tendrán respecto de los tutores y custodios hacia sus representados;
 
@@ -396,3 +408,17 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, al día 26 del mes de junio del año dos mil nueve.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. LA SECRETARIA GENERAL DE GOBIERNO, LICDA. YOLANDA VERDUZCO GUZMÁN. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 340 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE LA JUVENTUD DEL ESTADO DE COLIMA Y DE LA LEY DE FOMENTO DE CULTURA CÍVICA PARA EL ESTADO DE COLIMA”.]
+
+ÚNICO.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico “El Estado de Colima”.
+
+P.O. 26 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 343 POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 21 DE LA LEY DE FOMENTO DE CULTURA CÍVICA PARA EL ESTADO DE COLIMA".]
+
+ÚNICO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
