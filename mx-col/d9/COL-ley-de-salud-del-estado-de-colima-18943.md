@@ -4,7 +4,7 @@ identifier: "COL-ley-de-salud-del-estado-de-colima-18943"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-23"
-last_updated: "2016-11-22"
+last_updated: "2017-08-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE SALUD DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 23 de diciembre de 2000.
 
@@ -553,7 +553,9 @@ XII.- Apoyar la coordinación entre las instituciones de salud y las educativas,
 
 XIII.- Coadyuvar a que la formación y distribución de los recursos humanos para la salud, sean congruentes con las prioridades de los Sistemas Nacional y Estatal de Salud;
 
-XIV.- Promover e impulsar la participación de la comunidad en el cuidado de su salud;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2017)</small>
+
+XIV.- Promover e impulsar la participación de la comunidad en el cuidado de su salud; así como fomentar la cultura de la donación voluntaria de órganos y la donación voluntaria altruista de sangre;
 
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
@@ -2108,3 +2110,9 @@ P.O. 22 DE NOVIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
+
+P.O. 26 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 342 POR EL QUE SE REFORMA LA FRACCIÓN XIV DEL ARTÍCULO 16 DE LA LEY DE SALUD DEL ESTADO DE COLIMA”.]
+
+ÚNICO. La presente ley entrará en vigor al día siguiente de su publicación en el Periódico "El Estado de Colima".
