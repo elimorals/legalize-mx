@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-5149
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-07-15"
-last_updated: "2017-03-15"
+last_updated: "2017-08-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51498&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2017.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 15 de julio de 2006.
 
@@ -77,7 +77,15 @@ El recinto de la Legislatura es inviolable. Toda fuerza pública está impedida 
 
 El Presidente de la Mesa Directiva o de la Comisión Permanente, en su caso, podrán solicitar el auxilio de la fuerza pública para salvaguardar el fuero constitucional de los diputados y la inviolabilidad del recinto legislativo; cuando sin mediar autorización se hiciere presente la fuerza pública, el Presidente podrá decretar la suspensión de la sesión y de las actividades legislativas hasta que dicha fuerza hubiere abandonado el recinto. De no ser así, el Presidente pondrá a consideración de la Asamblea que la sesión continúe en otro lugar del edificio sede.
 
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2017)</small>
+
 ###### ARTÍCULO 7.
+
+Los bienes muebles que formen parte del patrimonio del Poder Legislativo no podrán ser enajenados ni desincorporados, salvo autorización de la mayoría calificada del Pleno de la Legislatura, y una vez agotado el procedimiento que disponga el Reglamento General del Poder Legislativo del Estado de Zacatecas, garantizando los principios de racionalidad, honradez, eficiencia y transparencia en el ejercicio del gasto público.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2017)</small>
+
+Los bienes muebles podrán enajenarse, sin necesidad de dicho porcentaje de votación en el Pleno, en términos del valor comercial de los bienes y de conformidad con la legislación local en materia de patrimonio del Estado y municipios.
 
 Ninguna autoridad podrá ejecutar mandamientos judiciales o administrativos sobre los bienes del Estado destinados al servicio de la Legislatura, ni sobre las personas o bienes de los diputados en el interior del recinto legislativo.
 
@@ -799,19 +807,27 @@ IV. Apegarse a la estructura lógico jurídica; y
 
 V. Los demás que el Reglamento General disponga.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2017)</small>
+
 ###### ARTÍCULO 55.
 
-El dictamen debe emitirse en un plazo no mayor de cuarenta días naturales contados a partir de la fecha de radicación de la iniciativa en la comisión. Si a juicio de ésta se requiere un plazo mayor, deberá solicitarse al Pleno por única vez, de autorizarse su prórroga, en ningún caso rebasará el siguiente periodo ordinario.
+El dictamen deberá emitirse en un plazo no mayor de cuarenta días naturales contados a partir de la fecha de radicación de la iniciativa en la comisión, salvo cuando se trate de proposiciones con punto de acuerdo en las que el plazo será de 30 días naturales. Si a juicio de la Comisión se requiere un plazo mayor, deberá solicitarse al Pleno por única vez, de autorizarse su prórroga, en ningún caso rebasará el siguiente periodo ordinario. Para el caso de iniciativas con punto de acuerdo, la prórroga no podrá rebasar los cinco días naturales.
 
-Los asuntos serán dictaminados invariablemente conforme al orden cronológico en que fueron turnados, excepto los calificados por el Pleno como de urgente resolución.
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 2013)</small>
+Los asuntos serán dictaminados invariablemente conforme al orden cronológico en que fueron turnados, excepto los calificados por el Pleno como de urgente resolución, así como aquellos que versen sobre conflicto en la designación de contralores municipales y los que se refieran a sustituciones y suplencias de servidores públicos de elección popular, que también serán considerados de urgente resolución, una vez que así lo apruebe la mayoría de sus integrantes.
 
-En caso de que no se formulara dictamen en los plazos dispuestos salvo los asuntos de carácter financiero, presupuestal, de rendición de cuentas, responsabilidades y seguridad pública, la Comisión de Régimen Interno y Concertación Política deberá someter al Pleno el envío del asunto a diversa comisión para su estudio y dictamen sólo en aquellos casos que estime pertinente y a solicitud de los coordinadores parlamentarios.
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2017)</small>
 
-> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2013)</small>
+En caso de que no se formulara dictamen en los plazos dispuestos salvo los asuntos de carácter financiero, presupuestal, de rendición de cuentas, responsabilidades y seguridad pública o aquellos que versen sobre reformas a la Constitución Política del Estado, la Comisión de Régimen Interno y Concertación Política deberá proponer al Pleno el envío inmediato del asunto a diversa comisión para que en un plazo no mayor a los veinte días naturales emita el dictamen.
 
-Una vez transcurridos dichos términos la Comisión o Comisiones Dictaminadoras emitirán un dictamen definitivo dando a conocer al Pleno aquellos asuntos que por su naturaleza sean inactivos legislativamente o jurídicamente no sea posible dictaminar, solicitando su archivo definitivo por el Pleno, de obtener la aprobación por el mismo no podrán volverse a presentar durante el siguiente período ordinario posterior.
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2017)</small>
+
+Una vez transcurridos dichos términos la Comisión o Comisiones Dictaminadoras deberán emitir un dictamen definitivo dando a conocer al Pleno, en todo caso, aquellos asuntos que por su naturaleza sean inviables legislativamente o jurídicamente no sea posible dictaminar, solicitando su archivo definitivo, y en consecuencia, no podrán volverse a presentar durante el siguiente período ordinario posterior.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2017)</small>
+
+En caso de no emitirse el dictamen respectivo, la mesa directiva enlistará el asunto correspondiente en la siguiente sesión ordinaria y lo someterá a votación del Pleno. Para su aprobación será necesaria la mayoría calificada de votos y, en tal caso, será elaborado el Decreto para su envío al Poder Ejecutivo. Cuando el asunto implique disposiciones de la Constitución Política del Estado Libre y Soberano de Zacatecas y no sea dictaminado, se desechará en forma definitiva.
 
 > <small>(ADICIONADO, P.O. 24 DE JULIO DE 2013)</small>
 
@@ -1617,9 +1633,11 @@ IX. De los relativos al cambio de residencia de los poderes del Estado o del rec
 
 VIGILANCIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2017)</small>
+
 ###### ARTÍCULO 130.
 
-Corresponde a la Comisión de Vigilancia el conocimiento y dictamen de los asuntos siguientes:
+La Comisión de Vigilancia se integrará por un número impar de diputados de diferentes grupos parlamentarios, cuyo presidente será el diputado representante del partido político que obtuvo la primera minoría como resultado de la elección para diputados. Le corresponderá el conocimiento y dictamen de los asuntos siguientes:
 
 I. De la expedición de la Ley de la Auditoria Superior del Estado, órgano de fiscalización auxiliar de la Legislatura;
 
@@ -2686,3 +2704,13 @@ Artículo segundo.- Se derogan todas las disposiciones que se opongan a este Dec
 Artículo tercero.- La Comisión de Planeación, Patrimonio y Finanzas y la Dirección de Administración y Finanzas de la LXII Legislatura, durante el mes de enero 2017, formularán una propuesta ante la CRICP para otorgar un respaldo financiero que permita al Instituto cumplir con sus tareas institucionales.
 
 Esta misma LXII Legislatura, establecerá una partida específica en su Presupuesto de Gasto para el Instituto de Investigaciones Legislativas a partir del ejercicio fiscal 2018, la cual, será acorde con el Programa de Trabajo del Instituto aprobado por el Pleno de la Legislatura. Comprenderá, principalmente, su gasto corriente, un fondo para promover y participar en actividades académicas así como el respaldo para la actualización y profesionalización de los investigadores.
+
+P.O. 26 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA Y EL REGLAMENTO GENERAL, AMBOS DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS".]
+
+Artículo primero. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. La Legislatura del Estado deberá disponer en el Reglamento General del Poder Legislativo del Estado de Zacatecas, a más tardar noventa días posteriores a la entrada en vigor de la presente reforma, el procedimiento correspondiente para enajenar o desincorporar algún bien mueble del Poder Legislativo.
+
+Artículo tercero. Se derogan todas las disposiciones que se opongan a este Decreto.
