@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-sistema-estatal-de-seguridad-publica-del-estado-de-9628
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-12"
-last_updated: "2017-06-07"
+last_updated: "2017-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2017.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 12 de octubre de 2013.
 
@@ -289,9 +289,15 @@ IV. Un representante de las Instituciones de Seguridad Pública de la Federació
 
 V. El Secretario Ejecutivo del Sistema Estatal de Seguridad Pública quien fungirá como Secretario del Consejo, solo con derecho a voz.
 
-VI. Seis representantes de la sociedad civil.
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2017)</small>
+
+VI.- Seis representantes de la sociedad civil; de los cuales, uno de ellos será la o el Presidente del Comité Técnico del Fideicomiso para la Competitividad y Seguridad Ciudadana.
 
 VII. El Secretario Adjunto, solo con derecho a voz.
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2017)</small>
+
+VIII.- La persona que ocupa la titularidad de la Comisión Estatal de Seguridad Pública.
 
 Los seis representantes de la sociedad civil y el Secretario Adjunto conformarán la parte ciudadana del Consejo.
 
@@ -531,7 +537,9 @@ V. El Director de Seguridad Pública Municipal u órgano equivalente.
 
 VI. Un Secretario Técnico, que será designado y removido por el Presidente del Consejo Municipal, quien sólo tendrá voz.
 
-VII. Cuatro representantes de la sociedad civil, con derecho a voz.
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2017)</small>
+
+VII.- Cuatro representantes de la sociedad civil, con derecho a voz y voto.
 
 Los Consejos de Seguridad podrán invitar a representantes de las Instituciones de Seguridad Pública del Estado y de la Federación o de otras dependencias estatales o federales relacionadas con la seguridad pública, así como a todas aquellas personas, instituciones y representantes de la sociedad civil que por sus conocimientos y experiencia puedan contribuir al cumplimiento de los objetivos y fines de la seguridad pública. Su participación será con carácter honorífico.
 
@@ -617,7 +625,9 @@ La Coordinación Estatal de Seguridad Escolar tendrá la integración y funcione
 
 Los observatorios ciudadanos deberán estar constituidos como organizaciones no gubernamentales y conformados con una representación social plural y apartidista; su propósito deberá ser el de articular a la sociedad para incidir en políticas públicas para mejorar la calidad de vida en seguridad y justicia, así como observar la actuación de las autoridades a fin de contribuir a fortalecer la cultura de la legalidad y generar un entorno de armonía social.
 
-Los observatorios podrán presentar planteamientos, propuestas y recomendaciones al Consejo Estatal a través de la parte ciudadana del mismo, por conducto del Secretario Adjunto, para su deliberación y, en su caso, aprobación.
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2017)</small>
+
+Los observatorios podrán presentar planteamientos, propuestas y recomendaciones al Consejo Estatal a través de cualquiera de los miembros de la parte ciudadana del mismo, por conducto del Secretario Adjunto, para su deliberación y, en su caso, aprobación.
 
 ###### Artículo 48.
 
@@ -3684,3 +3694,25 @@ Agente del Ministerio Público "A". Agente del Ministerio Público “C”.
 Agente del Ministerio Público "B". Agente del Ministerio Público “D”.
 
 Auxiliar del Ministerio Público. Agente del Ministerio Público “D”.
+
+P.O. 26 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LXV/RFDEC/0366/2017 VII P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA Y SE REFORMA EL ARTÍCULO OCTAVO DEL DECRETO N° 842/2015 VI P.E.".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Titular del Ejecutivo Estatal, en un plazo de diez días naturales contados a partir de la entrada en vigor del presente Decreto, realizará la designación de los veinte vocales y sus suplentes correspondientes al sector empresarial y que inicialmente integrarán el Comité Técnico del Fideicomiso para la Competitividad y Seguridad Ciudadana que iniciará funciones en el año 2017, haciendo especial mención a la vigencia del nombramiento de cada uno de los vocales, de manera que se busque una rotación escalonada de sus miembros en diferentes fechas, con la finalidad de obtener una mayor y más eficiente participación de los miembros de dicho Comité y la continuidad ininterrumpida de las operaciones del Fideicomiso.
+
+Conforme se agote el plazo de vigencia del nombramiento de cada uno de los veinte vocales del Comité Técnico del Fideicomiso para la Competitividad y Seguridad Ciudadana, la designación de los nuevos vocales que habrá de sustituirlos en lo sucesivo se realizará por los organismos establecidos en el presente Decreto. El Comité Técnico establecerá las reglas, los plazos, prelaciones y turnos de cada una de las organizaciones de la sociedad civil que en su caso tenga el derecho a nombrar un vocal del Comité Técnico de los que sean sucesores de los mencionados en el presente artículo.
+
+###### ARTÍCULO TERCERO.
+
+Se establece un plazo de treinta días naturales contados a partir de la entrada en vigor del presente Decreto, para que el Comité Técnico del Fideicomiso para la Competitividad y Seguridad Ciudadana que iniciará funciones en el año 2017 acuerde los cambios de las Reglas de Operación del Fideicomiso que reflejen las modificaciones contenidas en el presente Decreto, así como aquellas que considere necesarias para el correcto funcionamiento del Fideicomiso.
+
+###### ARTÍCULO CUARTO.
+
+Se establece un plazo de sesenta días naturales contados a partir de la entrada en vigor del presente Decreto, para que la Secretaría de Hacienda del Estado de Chihuahua, previo acuerdo e instrucción del Comité Técnico del Fideicomiso para la Competitividad y Seguridad Ciudadana que iniciará funciones en el año 2017, formalice las modificaciones del Contrato de Fideicomiso 744493 denominado Fideicomiso para la Competitividad y Seguridad Ciudadana, celebrado con Banco Mercantil del Norte, Sociedad Anónima, Institución de Banca Múltiple, Grupo Financiero Banorte, que reflejen las reformas contenidas en el presente Decreto, y las disposiciones que de él deriven.
