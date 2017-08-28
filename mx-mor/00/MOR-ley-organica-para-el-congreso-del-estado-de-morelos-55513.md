@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2017-05-24"
+last_updated: "2017-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -373,13 +373,61 @@ En caso de licencia de un legislador, la Junta Política y de Gobierno emitirá 
 
 A los diputados que se les haya otorgado licencia, deberán informar por escrito al Presidente de la Junta Política y de Gobierno, por lo menos con diez días hábiles de anticipación, su reincorporación a los trabajos legislativos.
 
-### CAPÍTULO ÚNICO. DE LOS GRUPOS Y FRACCIONES PARLAMENTARIAS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 2017)</small>
+
+### CAPÍTULO VI. DEL INFORME ANUAL DE LABORES
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2017)</small>
+
+###### Artículo 26 Bis.
+
+Los Diputados deberán de informar anualmente a los ciudadanos del distrito donde fueron electos, o en su caso, a los de todo el Estado, tratándose de los electos por el principio de representación proporcional, de sus actividades legislativas, de gestión y de participación ciudadana.
+
+Los informes de labores se llevarán a cabo en los meses de septiembre y octubre y se regirán por las siguientes bases:
+
+1. Los Diputados podrán realizar un informe principal en un acto masivo en cada una de las cabeceras del municipio o de los municipios que integren la región geográfica de su distrito. Asimismo, podrán realizar otros eventos, de manera escalonada, en las distintas colonias que integren la región geográfica de su distrito, en las cuales deberán informar, preferentemente, sobre las labores realizadas en dicha demarcación.
+
+La difusión que los diputados lleven a cabo para efectos de sus informes anuales de labores, podrán hacerla a través de los siguientes medios autorizados durante todo el periodo señalado en el segundo párrafo del presente artículo:
+
+a) Medios impresos;
+
+b) Espectaculares y gallardetes;
+
+c) Bardas pintas o cualquiera que se coloque en vía o espacios públicos, incluyendo la de transporte o parabúses;
+
+d) Promocionales utilitarios;
+
+e) Páginas y cuentas de partidos políticos en internet;
+
+f) Páginas y cuentas oficiales de dependencias gubernamentales en internet;
+
+g) Medios electrónicos y redes sociales, siempre que se trate de anuncios, mensajes publicitarios, cintillos o cualquier propaganda contratada, adquirida o pagada, y
+
+h) Vallas publicitarias.
+
+La información difundida en las redes sociales personales de los servidores públicos no será tomada en cuenta como propaganda institucional, y estará protegida en todo momento por su derecho a la libertad de expresión.
+
+Por lo que hace a la difusión por medio de estaciones y canales de radio y televisión, se atenderá a lo dispuesto por el párrafo 5 del artículo 242 de la Ley General de Instituciones y Procedimientos Electorales.
+
+1. Queda prohibida toda promoción personalizada de los servidores públicos. Para garantizar lo anterior, la difusión de sus labores en cualquiera de los medios señalados en el numeral anterior, se sujetará a los siguientes criterios:
+
+a) En ningún caso, los diputados podrán únicamente difundir su nombre e imagen en los medios autorizados, y
+
+b) Deberán privilegiar en todo momento, el contenido informativo y de rendición de cuentas de sus labores como servidores públicos.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2017)</small>
+
+###### Artículo 26 Ter.
+
+Cada Diputado deberá garantizar que toda la propaganda institucional de su informe anual de labores, sea retirado a más tardar el último día de octubre.
+
+En caso de que un Diputado no atendiese lo dispuesto por el presente artículo, la Presidencia de la Mesa Directiva, deberá ordenar la remoción de todo el material autorizado en términos del presente capítulo, descontándole al infractor de su dieta, el costo de dichos trabajos y traslado al basurero municipal más cercano, de todo el material.
+
+Dicha sanción pecuniaria, no exime al infractor, en su caso, de otras sanciones tales como las derivadas de los procedimientos sancionadores en materia electoral.
 
 ## TÍTULO CUARTO. DE LA ORGANIZACIÓN DE LOS DIPUTADOS
 
-### CAPÍTULO I. DE LA MESA DIRECTIVA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
+### CAPÍTULO ÚNICO. DE LOS GRUPOS Y FRACCIONES PARLAMENTARIAS
 
 ###### Artículo 27.
 
@@ -415,7 +463,9 @@ Los recursos económicos de que dispondrán los grupos parlamentarios, serán de
 
 ## TÍTULO QUINTO. DE LA ORGANIZACIÓN DEL PODER LEGISLATIVO
 
-### CAPÍTULO II. DE LA PRESIDENCIA Y VICEPRESIDENCIA
+### CAPÍTULO I. DE LA MESA DIRECTIVA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 32.
 
@@ -437,9 +487,7 @@ Para sustituir en sus ausencias a los secretarios, el Presidente de la Mesa Dire
 
 La Mesa Directiva es dirigida y coordinada por el Presidente del Congreso y se reunirá las veces necesarias para desahogar su trabajo.
 
-### CAPÍTULO ÚNICO. DE SU DESIGNACIÓN Y ATRIBUCIONES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2008)</small>
+### CAPÍTULO II. DE LA PRESIDENCIA Y VICEPRESIDENCIA
 
 ###### Artículo 35.
 
@@ -585,7 +633,9 @@ XIII. Las demás que les confiera esta Ley, su Reglamento y demás disposiciones
 
 ## TÍTULO SEXTO. DE LA DIPUTACIÓN PERMANENTE
 
-### CAPÍTULO I. DE LA CONFERENCIA PARA LA DIRECCIÓN Y PROGRAMACIÓN DE LOS TRABAJOS LEGISLATIVOS
+### CAPÍTULO ÚNICO. DE SU DESIGNACIÓN Y ATRIBUCIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2008)</small>
 
 ###### Artículo 41.
 
@@ -597,7 +647,7 @@ Las sesiones de la Diputación Permanente tendrán lugar por lo menos una vez a 
 
 ## TÍTULO SÉPTIMO. DE LA ORGANIZACIÓN DEL CONGRESO DEL ESTADO
 
-### CAPÍTULO II. DE LA JUNTA POLÍTICA Y DE GOBIERNO
+### CAPÍTULO I. DE LA CONFERENCIA PARA LA DIRECCIÓN Y PROGRAMACIÓN DE LOS TRABAJOS LEGISLATIVOS
 
 ###### Artículo 42.
 
@@ -635,9 +685,7 @@ VI. Aprobar los períodos vacacionales del personal del Congreso del Estado, que
 
 VII. Las demás que se derivan de esta Ley y de los ordenamientos relativos.
 
-### CAPÍTULO III. DE LAS COMISIONES LEGISLATIVAS
-
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+### CAPÍTULO II. DE LA JUNTA POLÍTICA Y DE GOBIERNO
 
 ###### Artículo 44.
 
@@ -781,7 +829,9 @@ IV. Tratándose de propuestas de iniciativas de ley o decreto, deberá integrars
 
 El procedimiento para la integración de la Agenda Legislativa, se establecerá en el Reglamento del Congreso del Estado.
 
-### CAPÍTULO IV. DE LOS COMITÉS DEL CONGRESO DEL ESTADO
+### CAPÍTULO III. DE LAS COMISIONES LEGISLATIVAS
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 53.
 
@@ -1567,9 +1617,7 @@ VI. Atención, canalización y seguimiento de las víctimas a las instituciones 
 
 VII. Todos aquellos asuntos que le sean turnados y no sean materia de otra Comisión.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+### CAPÍTULO IV. DE LOS COMITÉS DEL CONGRESO DEL ESTADO
 
 ###### Artículo 84.
 
@@ -1685,13 +1733,13 @@ VIII. Solicitar y autorizar la ampliación del plazo de reserva de la informaci�
 
 IX. Las demás que se desprendan de la normatividad aplicable.
 
-### CAPÍTULO I BIS. DE LA SECRETARIA GENERAL Y SECRETARIAS DEL CONGRESO
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
 ## TÍTULO OCTAVO. DE LOS ÓRGANOS ADMINISTRATIVOS DEL CONGRESO DEL ESTADO
 
-### CAPÍTULO II. DE LA SECRETARÍA DE SERVICIOS LEGISLATIVOS Y PARLAMENTARIOS
-
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+### CAPÍTULO I BIS. DE LA SECRETARIA GENERAL Y SECRETARIAS DEL CONGRESO
 
 ###### Artículo 89.
 
@@ -1727,7 +1775,7 @@ Para ocupar cualquiera de los cargos a que se refieren los artículos anteriores
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
-### CAPÍTULO III. DE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS
+### CAPÍTULO II. DE LA SECRETARÍA DE SERVICIOS LEGISLATIVOS Y PARLAMENTARIOS
 
 > <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
@@ -1743,9 +1791,9 @@ Artículo 91 Quárter.- (DEROGADO, P.O. 14 DE NOVIEMBRE DE 2012)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
 
-### CAPÍTULO IV. DE LA AUDITORÍA SUPERIOR DE FISCALIZACIÓN
+### CAPÍTULO III. DE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 92.
 
@@ -1843,7 +1891,9 @@ XXVI. Recibir los dictámenes emanados de las diferentes Comisiones y Comités, 
 
 XXVII. Las demás que esta Ley, su Reglamento y el Pleno del Congreso del Estado le confieran.
 
-### CAPÍTULO V. DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS
+### CAPÍTULO IV. DE LA AUDITORÍA SUPERIOR DE FISCALIZACIÓN
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 95.
 
@@ -1909,7 +1959,7 @@ XVII. Las demás que la presente Ley y su Reglamento le confieran.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE NOVIEMBRE DE 2008)</small>
 
-### CAPÍTULO VI. SISTEMA MORELENSE DE RADIO Y TELEVISIÓN
+### CAPÍTULO V. DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS
 
 ###### Artículo 99.
 
@@ -1921,7 +1971,7 @@ La Auditoría Superior de Fiscalización es el órgano de fiscalización pertene
 
 El titular de la Auditoría Superior de Fiscalización, no podrá ser o haber sido militante de ninguno de los partidos políticos con registro en el Estado.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO VI. SISTEMA MORELENSE DE RADIO Y TELEVISIÓN
 
 ###### Artículo 101.
 
@@ -1971,9 +2021,7 @@ XIII. Las demás que se deriven de esta Ley y las que el Reglamento le confieran
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE OCTUBRE DE 2012)</small>
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
-
-> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
+### CAPÍTULO ÚNICO
 
 ###### Artículo 104.
 
@@ -1989,7 +2037,7 @@ XIII. Las demás que se deriven de esta Ley y las que el Reglamento le confieran
 
 ## TÍTULO NOVENO. DEL SERVICIO DE CARRERA
 
-### CAPÍTULO II. DE LA DESIGNACIÓN DE MAGISTRADOS DEL TRIBUNAL SUPERIOR DE JUSTICIA
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
 
@@ -2025,7 +2073,7 @@ Las categorías de los trabajadores del Congreso del Estado, se regirán conform
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2009)</small>
 
-### CAPÍTULO III. DEL PROCEDIMIENTO PARA LA DESIGNACIÓN DE MAGISTRADOS DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO
+### CAPÍTULO II. DE LA DESIGNACIÓN DE MAGISTRADOS DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
 > <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
 
@@ -2047,9 +2095,9 @@ El secretario técnico de la Junta Política y de Gobierno, dará fe de los acto
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2009)</small>
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO III. DEL PROCEDIMIENTO PARA LA DESIGNACIÓN DE MAGISTRADOS DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO
 
-> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2017)</small>
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
 
 ###### Artículo 113.
 
@@ -2105,7 +2153,7 @@ En caso de que ninguno de los aspirantes propuestos reúna la votación requerid
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2009)</small>
 
-### CAPÍTULO II. DE LA SOLICITUD DE CREACIÓN Y SUS REQUISITOS
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, P.O. 24 DE MAYO DE 2017)</small>
 
@@ -2273,7 +2321,7 @@ La votación requerida para ser designado como Magistrado Interino, será la con
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE MAYO DE 2017)</small>
 
-### CAPÍTULO III. DEL PROCEDIMIENTO
+### CAPÍTULO II. DE LA SOLICITUD DE CREACIÓN Y SUS REQUISITOS
 
 > <small>(ADICIONADO, P.O. 24 DE MAYO DE 2017)</small>
 
@@ -2320,6 +2368,10 @@ IV. Descienden de poblaciones que habitaban en el territorio actual del país al
 V. Reconozcan autoridades propias de acuerdo con sus usos y costumbres.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE MAYO DE 2017)</small>
+
+### CAPÍTULO III. DEL PROCEDIMIENTO
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2017)</small>
 
 ###### Artículo 131.
 
@@ -2896,3 +2948,11 @@ P.O. 24 DE MAYO DE 2017.
 PRIMERA.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 28 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL DOSCIENTOS ONCE POR EL QUE SE ADICIONA UN CAPÍTULO VI AL TÍTULO TERCERO Y LOS ARTÍCULOS 26 BIS Y 26 TER DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE MORELOS".]
+
+PRIMERA. El presente Decreto entrará en vigor el 31 de agosto de 2017.
+
+SEGUNDA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
