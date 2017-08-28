@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-la-comision-de-carrera-judicial-del-consejo-12273
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-06-26"
-last_updated: "2017-06-26"
+last_updated: "2017-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MIC"
 ---
 # REGLAMENTO DE LA COMISION DE CARRERA JUDICIAL DEL CONSEJO DEL PODER JUDICIAL DEL ESTADO DE MICHOACAN
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE AGOSTO DE 2017 EN EL P.O. DEL ESTADO DE MICHOACÁN DE OCAMPO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO DE LA COMISIÓN DE CARRERA JUDICIAL DEL CONSEJO DEL PODER JUDICIAL DEL ESTADO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 28 DE AGOSTO DE 2017.]</small>
 
 Reglamento publicado en la Séptima Sección del Periódico Oficial del Estado de Michoacán, el lunes 26 de Junio de 2017.
 
@@ -691,7 +691,9 @@ Los servidores públicos integrantes del padrón, así como aquellos reservistas
 
 Los reservistas, cuando medie causa de fuerza mayor, podrán solicitar su exclusión temporal de la lista de reserva por una única ocasión, a efecto de que no sean designados para ocupar las vacantes que se presenten respecto de la categoría que corresponda, mediante escrito dirigido al Presidente de la Comisión, adjuntando los documentos que consideren suficientes para justificar la causa en que funden su solicitud.
 
-Se entenderán como causas de fuerza mayor las establecidas en el artículo 85 del presente Reglamento.
+> <small>(F. DE E., P.O. 28 DE AGOSTO DE 2017)</small>
+
+Se entenderán como causas de fuerza mayor las establecidas en el artículo 88 del presente Reglamento.
 
 ## TÍTULO CUARTO. CAPACITACIÓN Y FORMACIÓN
 
