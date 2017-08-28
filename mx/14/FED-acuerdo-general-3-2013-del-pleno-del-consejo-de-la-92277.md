@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2017-07-21"
+last_updated: "2017-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE AGOSTO DE 2017.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -115,23 +115,23 @@ XXXI. TRIGESIMO PRIMER CIRCUITO: Estado de Campeche.
 
 XXXII. TRIGESIMO SEGUNDO CIRCUITO: Estado de Colima.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 10/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 2 DE MAYO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE MAYO DE 2014)</small>
 
 SEGUNDO. Cada uno de los Circuitos a que se refiere el punto primero comprenderá los tribunales colegiados y unitarios de Circuito y los juzgados de Distrito que a continuación se precisan:
 
 I. PRIMER CIRCUITO:
 
-> <small>(REFORMADO POR TRANSITORIO CUARTO DEL ACUERDO GENERAL 30/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2016)</small>
 
 1. Sesenta y un tribunales colegiados especializados: diez en materia penal, veinte en materia administrativa, catorce en materia civil y diecisiete en materia de trabajo, todos con residencia en la Ciudad de México.
 
 2. Nueve tribunales unitarios especializados: seis en materia penal y tres en materias civil y administrativa, todos con residencia en el Distrito Federal.
 
-> <small>(REFORMADO POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 51/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2016)</small>
 
 3. Setenta juzgados de Distrito en la Ciudad de México especializados: quince de Procesos Penales Federales, dieciséis de amparo en materia penal, dieciséis en materia administrativa, catorce en materia civil, y nueve en materia de trabajo, todos con residencia en la Ciudad de México.
 
-> <small>(REFORMADO POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 51/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2016)</small>
 
 4. Dos Juzgados de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con residencia en la Ciudad de México.
 
@@ -139,7 +139,7 @@ I. PRIMER CIRCUITO:
 
 5. Dos Juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones, con residencia en la Ciudad de México.
 
-> <small>(ADICIONADO POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 51/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 2016)</small>
 
 6. Tres juzgados de Distrito Especializados en Ejecución de Penas, todos con residencia en la Ciudad de México.
 
@@ -147,11 +147,11 @@ II. SEGUNDO CIRCUITO:
 
 1. Dieciséis tribunales colegiados, de los cuales catorce son especializados: cuatro en materia penal, cuatro en materia civil y dos en materia de trabajo, con residencia en Toluca, y cuatro tribunales colegiados en materia administrativa, con residencia en Naucalpan de Juárez; y dos tribunales colegiados en Nezahualcóyotl.
 
-> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 36/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2013)</small>
 
 2. Seis tribunales unitarios: cinco con sede en Toluca y uno con residencia en Nezahualcóyotl.
 
-> <small>(REFORMADO POR EL ARTÍCULO 9 DEL ACUERDO GENERAL 15/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2015)</small>
 
 3. Veintiséis juzgados de Distrito en el Estado de México: siete de Procesos Penales Federales y cinco especializados en materia de amparo y juicios federales, todos con residencia en Toluca; diez juzgados de Distrito mixtos con sede en Naucalpan de Juárez y cuatro con sede en Nezahualcóyotl.
 
@@ -159,27 +159,29 @@ II. SEGUNDO CIRCUITO:
 
 III. TERCER CIRCUITO:
 
-> <small>(REFORMADO POR EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 44/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 28 DE OCTUBRE DE 2016)</small>
 
 1. Veinte tribunales colegiados especializados: tres en materia penal, siete en materia administrativa, cinco en materia civil y cinco en materia de trabajo, todos con residencia en Zapopan.
 
-2. Cinco tribunales unitarios con residencia en Zapopan.
+> <small>(REFORMADO, D.O.F. 28 DE AGOSTO DE 2017)</small>
 
-> <small>(REFORMADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL 19/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2016)</small>
+2. Seis tribunales unitarios: cinco con residencia en Zapopan y uno con sede en Guadalajara.
+
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2016)</small>
 
 3. Treinta y un juzgados de Distrito especializados: siete de amparo en materia penal, ocho en materias administrativa y de trabajo, siete en materia civil, todos con residencia en el municipio de Zapopan; y nueve de procesos penales federales con residencia en Puente Grande.
 
-> <small>(ADICIONADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 12/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE ABRIL DE 2013)</small>
+> <small>(ADICIONADO, D.O.F. 12 DE ABRIL DE 2013)</small>
 
 4. Un Juzgado de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con residencia en Zapopan, Jalisco.
 
 IV. CUARTO CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 10/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 2 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE MAYO DE 2014)</small>
 
 1. Doce tribunales colegiados especializados: dos en materia penal, tres en materia administrativa, tres en materia civil y cuatro en materia de trabajo, todos con residencia en Monterrey.
 
-> <small>(REFORMADO POR EL TRANSITORIO CUARTO DEL ACUERDO GENERAL 17/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 13 DE MAYO DE 2016)</small>
 
 2. Cuatro tribunales unitarios con residencia en Monterrey.
 
@@ -187,7 +189,7 @@ IV. CUARTO CIRCUITO:
 
 V. QUINTO CIRCUITO:
 
-> <small>(REFORMADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL 21/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2015)</small>
 
 1. Seis tribunales colegiados especializados; tres en materias penal y administrativa; y tres en materias civil y de trabajo, todos con residencia en Hermosillo.
 
@@ -195,19 +197,19 @@ V. QUINTO CIRCUITO:
 
 2. Seis tribunales unitarios con sede en Hermosillo.
 
-> <small>(REFORMADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL 41/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 15 DE OCTUBRE DE 2015)</small>
 
 3. Doce juzgados de Distrito en el Estado de Sonora: seis con sede en Hermosillo, tres con residencia en Nogales, dos con sede en Ciudad Obregón y uno con residencia en Agua Prieta.
 
 VI. SEXTO CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 43/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2013)</small>
 
 1. Diez tribunales colegiados especializados: tres en materia penal, tres en materia administrativa y tres en materia civil, todos con residencia en San Andrés Cholula; uno en materia de trabajo, con sede en Puebla, Puebla".
 
 2. Dos tribunales unitarios con sede en San Andrés Cholula.
 
-> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 24/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2015)</small>
 
 3. Trece juzgados de Distrito especializados en el Estado de Puebla: dos de procesos penales federales; seis de amparo en materias civil, administrativa y de trabajo y de juicios federales y cinco de amparo en materia penal; los once primeros, con residencia en San Andrés Cholula y los dos restantes, con residencia en Puebla, Puebla.
 
@@ -215,33 +217,33 @@ VI. SEXTO CIRCUITO:
 
 VII. SEPTIMO CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 49/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2014)</small>
 
 1.- Ocho tribunales colegiados especializados: dos en materia penal y dos en materia administrativa, con sede en Boca del Río; dos en materia civil y dos en materia de trabajo, con residencia en Xalapa, todos en el Estado de Veracruz.
 
-> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 39/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
 2.- Cuatro tribunales unitarios: dos con residencia en Boca del Río, otro con sede en Xalapa y uno con residencia en Veracruz, Veracruz.
 
-> <small>(REFORMADO POR EL TRANSITORIO SEXTO DEL ACUERDO 15/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2016)</small>
 
 3. Diecisiete juzgados de Distrito en el Estado de Veracruz, dos de Procesos Penales Federales, con residencia en Villa Aldama; cinco con sede en Xalapa, cuatro con sede en Boca del Río, dos con sede en Tuxpan, dos con sede en Poza Rica y dos con sede en Córdoba.
 
 VIII. OCTAVO CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO SÉPTIMO DEL ACUERDO GENERAL 45/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2013)</small>
 
 1. Seis tribunales colegiados especializados: dos en materias civil y de trabajo y dos en materias penal y administrativa, con residencia en Torreón; un tribunal colegiado en materias penal y de trabajo y uno en materias administrativa y civil, con sede en Saltillo.
 
 2. Tres tribunales unitarios, dos con sede en Torreón y uno con sede en Saltillo.
 
-> <small>(REFORMADO POR TRANSITORIO QUINTO DEL ACUERDO GENERAL 42/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 12 DE AGOSTO DE 2016)</small>
 
 3. Once juzgados de distrito en el Estado de Coahuila de Zaragoza: dos con residencia en Saltillo, uno con sede en Piedras Negras, dos con residencia en Monclova y seis en La Laguna, con sede en Torreón.
 
 IX. NOVENO CIRCUITO:
 
-> <small>(REFORMADO POR EL TRANSITORIO SEXTO DEL ACUERDO GENERAL 54/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2015)</small>
 
 1. Cuatro tribunales colegiados especializados: dos en materias civil y administrativa; uno en materia de trabajo, y uno en materia penal, todos con residencia en San Luis Potosí.
 
@@ -257,7 +259,7 @@ X. DECIMO CIRCUITO:
 
 2. Dos tribunales unitarios con sede en Villahermosa.
 
-> <small>(REFORMADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 4/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 13 DE FEBRERO DE 2015)</small>
 
 3. Seis juzgados de Distrito en el Estado de Tabasco, con residencia en Villahermosa.
 
@@ -265,7 +267,7 @@ X. DECIMO CIRCUITO:
 
 XI. DECIMOPRIMER CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 38/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
 1. Cinco tribunales colegiados especializados: uno en materia penal, dos en materias administrativa y de trabajo, y dos en materia civil, todos con residencia en Morelia.
 
@@ -275,7 +277,7 @@ XI. DECIMOPRIMER CIRCUITO:
 
 XII. DECIMOSEGUNDO CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 19/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 15 DE AGOSTO DE 2014)</small>
 
 1. Cinco tribunales colegiados especializados: dos en materia administrativa, uno en materia civil, uno en materia de trabajo y uno en materia penal, todos con residencia en Mazatlán, Sinaloa.
 
@@ -287,15 +289,15 @@ XII. DECIMOSEGUNDO CIRCUITO:
 
 XIII. DECIMOTERCER CIRCUITO:
 
-> <small>(REFORMADO POR EL TRANSITORIO SEXTO DEL ACUERDO GENERAL 45/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 7 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 7 DE OCTUBRE DE 2016)</small>
 
 1. Tres tribunales colegiados especializados: uno en materias penal y administrativa, uno en materias civil y administrativa, y uno en materias de trabajo y administrativa, todos con residencia en San Bartolo Coyotepec, Oaxaca.
 
-> <small>(REFORMADO POR EL TRANSITORIO SEXTO DEL ACUERDO GENERAL 45/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 7 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 7 DE OCTUBRE DE 2016)</small>
 
 2. Dos tribunales unitarios con sede en San Bartolo Coyotepec, Oaxaca.
 
-> <small>(REFORMADO POR EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 46/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 14 DE OCTUBRE DE 2016)</small>
 
 3. Once Juzgados de Distrito en el Estado de Oaxaca: nueve con residencia en San Bartolo Coyotepec, y dos con sede en Salina Cruz.
 
@@ -305,41 +307,41 @@ XIV. DECIMOCUARTO CIRCUITO:
 
 2. Un tribunal unitario con sede en Mérida.
 
-> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 53/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2014)</small>
 
 3. Cinco juzgados de Distrito en el Estado de Yucatán, con residencia en Mérida.
 
 XV. DECIMOQUINTO CIRCUITO:
 
-> <small>(REFORMADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL 29/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2016)</small>
 
 1. Ocho tribunales colegiados: seis con residencia en Mexicali y dos especializados en materias civil y de trabajo, con residencia en Tijuana.
 
-> <small>(REFORMADO POR EL PUNTO SÉPTIMO DEL ACUERDO GENERAL 50/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2014)</small>
 
 2. Nueve tribunales unitarios: cuatro con sede en Mexicali y cinco con residencia en Tijuana
 
-> <small>(REFORMADO POR EL PUNTO DECIMOSEXTO DEL ACUERDO GENERAL 52/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2014)</small>
 
 3. Diecinueve juzgados de Distrito en el Estado de Baja California, tres de ellos con sede en Ensenada; seis más, con sede en Mexicali y diez con residencia en Tijuana, éstos últimos comprenden seis especializados en Procesos Penales Federales y cuatro en Materia de Amparo y Juicios Federales.
 
 XVI. DECIMOSEXTO CIRCUITO:
 
-> <small>(REFORMADO POR TRANSITORIO SEXTO DEL ACUERDO GENERAL 50/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
 1. Nueve tribunales colegiados especializados: dos en materia penal, dos en materia administrativa, tres en materia civil y dos en materia de trabajo, todos con residencia en Guanajuato, Guanajuato.
 
-> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 23/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2014)</small>
 
 2.- Cuatro tribunales unitarios con sede en Guanajuato.
 
-> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 7/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 7 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 2014)</small>
 
 3. Once juzgados de Distrito en el Estado de Guanajuato: dos con residencia en la ciudad del mismo nombre, cuatro con sede en León, tres con residencia en Celaya y dos con sede en Irapuato.
 
 XVII. DECIMOSEPTIMO CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 1/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 27 DE FEBRERO DE 2014)</small>
 
 1. Seis tribunales colegiados: cinco especializados, dos en materias penal y administrativa; y tres en materias civil y de trabajo, todos con residencia en la ciudad de Chihuahua; así como uno con sede en Ciudad Juárez.
 
@@ -349,15 +351,15 @@ XVII. DECIMOSEPTIMO CIRCUITO:
 
 XVIII. DECIMOCTAVO CIRCUITO:
 
-> <small>(REFORMADO POR EL TRANSITORIO SEXTO DEL ACUERDO GENERAL 1/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2016)</small>
 
 1. Cinco tribunales colegiados especializados: dos en materia de trabajo, dos en materias penal y administrativa y uno en materia civil, todos con residencia en Cuernavaca, Morelos.
 
-> <small>(REFORMADO POR EL TRANSITORIO SEXTO DEL ACUERDO GENERAL 2/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2016)</small>
 
 2. Dos tribunales unitarios con sede en Cuernavaca.
 
-> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 32/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2014)</small>
 
 3. Ocho juzgados de Distrito en el Estado de Morelos, con residencia en Cuernavaca.
 
@@ -365,49 +367,49 @@ XIX. DECIMONOVENO CIRCUITO:
 
 1. Seis tribunales colegiados: cuatro especializados, dos en materias administrativa y civil; y dos en materias penal y de trabajo, todos con residencia en Ciudad Victoria; así como dos con sede en Reynosa, Tamaulipas.
 
-> <small>(REFORMADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL 18/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 13 DE MAYO DE 2016)</small>
 
 2. Cinco tribunales unitarios: uno con sede en Ciudad Victoria, dos con residencia en Matamoros, uno con sede en Reynosa y uno con residencia en Nuevo Laredo.
 
-> <small>(REFORMADO POR TRANSITORIO QUINTO DEL ACUERDO GENERAL 22/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 2016)</small>
 
 3. Quince juzgados de Distrito en el Estado de Tamaulipas: cuatro con sede en Ciudad Victoria, dos con residencia en Nuevo Laredo, dos con sede en Tampico, uno en Ciudad Madero, dos con residencia en Reynosa y cuatro con sede en Matamoros, uno de ellos en materias de amparo y juicios federales y tres de Procesos Penales Federales.
 
 XX. VIGESIMO CIRCUITO:
 
-> <small>(REFORMADO POR EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 43/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2015)</small>
 
 1. Cuatro tribunales colegiados especializados: dos en materias penal y civil, uno en materia de trabajo y uno en materia administrativa, todos con residencia en Tuxtla Gutiérrez, Chiapas.
 
-> <small>(REFORMADO POR EL TRANSITORIO SEXTO DEL ACUERDO GENERAL 47/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 11 DE NOVIEMBRE DE 2016)</small>
 
 2. Dos tribunales unitarios con sede en Cintalapa de Figueroa, Chiapas.
 
-> <small>(REFORMADO POR EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 49/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
 3. Once juzgados de Distrito en el Estado de Chiapas: dos de Procesos Penales Federales, con residencia en Cintalapa de Figueroa; siete juzgados de Distrito de Amparo y Juicios Federales con sede en Tuxtla Gutiérrez; y dos juzgados de Distrito mixtos con residencia en Tapachula.
 
 XXI. VIGESIMO PRIMER CIRCUITO:
 
-> <small>(REFORMADO, POR EL PUNTO DÉCIMO DEL ACUERDO GENERAL 43/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2014)</small>
 
 1. Cinco tribunales colegiados especializados: tres en materias civil y de trabajo, con residencia en Chilpancingo; y dos tribunales colegiados en materias penal y administrativa, con sede en Acapulco.
 
 2. Dos tribunales unitarios: uno con sede en Chilpancingo y el otro con residencia en Acapulco.
 
-> <small>(REFORMADO POR EL PUNTO DÉCIMO DEL ACUERDO GENERAL 47/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2013)</small>
 
 3. Diez juzgados de Distrito en el Estado de Guerrero: tres con residencia en Chilpancingo, cinco con residencia en Acapulco y dos con residencia en Iguala.
 
 XXII. VIGESIMO SEGUNDO CIRCUITO:
 
-> <small>(REFORMADO POR EL TRANSITORIO SEXTO DEL ACUERDO GENERAL 13/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2016)</small>
 
 1. Cuatro tribunales colegiados semiespecializados: uno en materias penal y administrativa; uno en materias administrativa y de trabajo; y dos en materias administrativa y civil, todos con residencia en Querétaro, Querétaro.
 
 2. Un tribunal unitario con sede en Querétaro.
 
-> <small>(REFORMADO POR EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 23/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MAYO DE 2016)</small>
 
 3. Nueve juzgados de Distrito especializados en el Estado de Querétaro, con residencia en la ciudad del mismo nombre: dos de procesos penales federales y siete de Amparo y Juicios Federales.
 
@@ -415,7 +417,7 @@ XXIII. VIGESIMO TERCER CIRCUITO:
 
 1. Un tribunal colegiado con residencia en Zacatecas.
 
-> <small>(REFORMADO POR EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 38/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2015)</small>
 
 2. Dos tribunales unitarios con sede en Zacatecas.
 
@@ -431,7 +433,7 @@ XXIV. VIGESIMO CUARTO CIRCUITO:
 
 XXV. VIGESIMO QUINTO CIRCUITO:
 
-> <small>(REFORMADO POR EL TRANSITORIO CUARTO DEL ACUERDO GENERAL 37/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2015)</small>
 
 1. Dos tribunales colegiados con residencia en Durango.
 
@@ -449,13 +451,13 @@ XXVI. VIGESIMO SEXTO CIRCUITO:
 
 XXVII. VIGESIMO SEPTIMO CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL 40/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2013)</small>
 
 1. Tres tribunales colegiados con residencia en Cancún.
 
 2. Un tribunal unitario con sede en Cancún.
 
-> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL 49/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2013)</small>
 
 3. Siete Juzgados de Distrito en el Estado de Quintana Roo, dos con residencia en Chetumal y cinco con sede en Cancún.
 
@@ -473,7 +475,7 @@ XXIX. VIGESIMO NOVENO CIRCUITO:
 
 1. Dos tribunales colegiados con residencia en Pachuca.
 
-> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 27/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2013)</small>
 
 2. Dos tribunales unitarios con sede en Pachuca.
 
@@ -485,7 +487,7 @@ XXX. TRIGESIMO CIRCUITO:
 
 2. Un tribunal unitario con sede en Aguascalientes.
 
-> <small>(REFORMADO POR EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 53/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2015)</small>
 
 3. Cinco juzgados de Distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre.
 
@@ -831,39 +833,39 @@ XXXIII. Los Jueces de Distrito de Procesos Penales Federales del Primero, Segund
 
 QUINTO. Centros Auxiliares Regionales:
 
-> <small>(REFORMADO POR EL TRANSITORIO SEXTO DEL ACUERDO GENERAL 2/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2016)</small>
 
 1. El Centro Auxiliar de la Primera Región se integrará por cinco tribunales colegiados de Circuito Auxiliares, dos con residencia en el Distrito Federal, uno con sede en Cuernavaca, Morelos, y dos con residencia en Naucalpan de Juárez, Estado de México, y cuatro juzgados de Distrito auxiliares, tres con sede en el Distrito Federal, de los cuales, uno está especializado además en materia de extinción de dominio; y uno en Cuernavaca, Morelos.
 
-> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 24/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2015)</small>
 
 2. El Centro Auxiliar de la Segunda Región, se integrará por tres tribunales colegiados de Circuito Auxiliares con residencia en San Andrés Cholula, Puebla y cuatro juzgados de Distrito Auxiliares, con residencia en San Andrés Cholula, Puebla.
 
-> <small>(REFORMADO POR TRANSITORIO SEXTO DEL ACUERDO GENERAL 50/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 28 DE AGOSTO DE 2017)</small>
 
-3. El Centro Auxiliar de la Tercera Región, se integrará por dos tribunales colegiados de Circuito Auxiliares, uno con sede en Guadalajara, Jalisco y uno con residencia en Morelia, Michoacán; dos tribunales unitarios de Circuito Auxiliares con sede en Guadalajara, Jalisco, y dos juzgados de Distrito Auxiliares, uno con residencia en Guanajuato, Guanajuato y uno con sede en Uruapan, Michoacán.
+3. El Centro Auxiliar de la Tercera Región, se integrará por dos tribunales colegiados de Circuito Auxiliares, uno con sede en Guadalajara, Jalisco y uno con residencia en Morelia, Michoacán; un tribunal unitario de Circuito Auxiliar con sede en Guadalajara, Jalisco, y dos juzgados de Distrito Auxiliares, uno con residencia en Guanajuato, Guanajuato y uno con sede en Uruapan, Michoacán.
 
-> <small>(REFORMADO POR EL TRANSITORIO SEXTO DEL ACUERDO 15/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2016)</small>
 
 4. El Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, se integrará por dos tribunales colegiados de Circuito Auxiliares y tres juzgados de Distrito Auxiliares.
 
-> <small>(REFORMADO POR EL TRANSITORIO CUARTO DEL ACUERDO GENERAL 40/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 29 DE SEPTIEMBRE DE 2015)</small>
 
 5. El Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa, se integrará por cinco tribunales colegiados de Circuito Auxiliares, tres con residencia en Culiacán, Sinaloa, uno en Los Mochis, Sinaloa y uno en La Paz, Baja California Sur, dos tribunales unitarios de Circuito Auxiliares, ambos con sede en Culiacán, Sinaloa, y seis juzgados de Distrito Auxiliares, cinco con residencia en Culiacán, Sinaloa, y uno con sede en Mazatlán, Sinaloa.
 
-> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 1/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 27 DE FEBRERO DE 2014)</small>
 
 6. El Centro Auxiliar de la Sexta Región, con residencia en Chihuahua, Chihuahua, se integrará por un tribunal unitario de Circuito Auxiliar y un juzgado de Distrito Auxiliar.
 
-(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 9/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE ABRIL DE 2014
+(REFORMADO, D.O.F. 11 DE ABRIL DE 2014
 
 7. El Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero, se integrará por un tribunal colegiado de Circuito Auxiliar, un tribunal unitario de Circuito Auxiliar y cinco juzgados de Distrito Auxiliares.
 
-> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL 49/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2013)</small>
 
 8. El Centro Auxiliar de la Octava Región, se integrará por un Tribunal Colegiado de Circuito Auxiliar con residencia en Mérida, Yucatán.
 
-> <small>(REFORMADO POR EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 38/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2015)</small>
 
 9. El Centro Auxiliar de la Novena Región, con residencia en Zacatecas, Zacatecas, se integrará por dos tribunales colegiados de Circuito Auxiliares y cuatro juzgados de Distrito Auxiliares.
 
@@ -3697,11 +3699,11 @@ SEXTO. La Dirección General de Tecnologías de la Información suministrará lo
 
 SÉPTIMO. Se reforma el numeral SEGUNDO, fracción I, números 3 a 5; y se adiciona el número 6 a la fracción I del mismo numeral, del Acuerdo General 3/2013 del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
 
-"SEGUNDO. …
+"SEGUNDO. .
 
-I. …
+I. .
 
-1. a 2. …
+1. a 2. .
 
 3. Setenta juzgados de Distrito en la Ciudad de México especializados: quince de Procesos Penales Federales, dieciséis de amparo en materia penal, dieciséis en materia administrativa, catorce en materia civil, y nueve en materia de trabajo, todos con residencia en la Ciudad de México.
 
@@ -4112,6 +4114,64 @@ A partir de la fecha señalada en el párrafo anterior, toda la correspondencia,
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
 
 TERCERO. Los Centros de Justicia Penal Federal en los Estados de Guanajuato, Puebla, y Querétaro, a partir del día de aprobación de este Acuerdo, deberán colocar avisos en lugares visibles en relación con el cambio de domicilio.
+
+D.O.F. 28 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 12/2017, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL SÉPTIMO TRIBUNAL UNITARIO DE CIRCUITO DEL CENTRO AUXILIAR DE LA TERCERA REGIÓN, CON RESIDENCIA EN GUADALAJARA, JALISCO, Y SU TRANSFORMACIÓN EN SEXTO TRIBUNAL UNITARIO DEL TERCER CIRCUITO, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES Y A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES UNITARIOS DEL CIRCUITO Y SEDE INDICADOS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el uno de septiembre de dos mil diecisiete, con excepción de lo previsto en el artículo 1, el cual entrará en vigor en la fecha señalada en el mismo; y los transitorios TERCERO y CUARTO de dicho instrumento normativo, los cuales iniciarán su vigencia a partir de la aprobación de este Acuerdo.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación, y para mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional de la infraestructura y equipamiento necesario para el desempeño de sus funciones.
+
+Las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial realizarán las modificaciones necesarias a la configuración del sistema computarizado para la recepción y distribución de asuntos en la Oficina de Correspondencia Común de los Tribunales Unitarios del Tercer Circuito.
+
+CUARTO. La Secretaría Ejecutiva de Adscripción certificará la nueva adscripción del magistrado del tribunal Unitario que se transforma.
+
+QUINTO. El Instituto Federal de Defensoría Pública, en su ámbito de competencia, adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo.
+
+SEXTO. Se reforman los numerales SEGUNDO, fracción III, número 2; y QUINTO, número 3, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales de Circuito y de los juzgados de Distrito, para quedar como sigue:
+
+“SEGUNDO. ...
+
+I. a II. ...
+
+III. ...
+
+1. ...
+
+2. Seis tribunales unitarios: cinco con residencia en Zapopan y uno con sede en Guadalajara.
+
+3. a 4. ...
+
+IV. a XXXII. ...
+
+QUINTO. ...
+
+1. a 2. ...
+
+3. El Centro Auxiliar de la Tercera Región, se integrará por dos tribunales colegiados de Circuito Auxiliares, uno con sede en Guadalajara, Jalisco y uno con residencia en Morelia, Michoacán; un tribunal unitario de Circuito Auxiliar con sede en Guadalajara, Jalisco, y dos juzgados de Distrito Auxiliares, uno con residencia en Guanajuato, Guanajuato y uno con sede en Uruapan, Michoacán.
+
+4. a 11. ...
+
+...”
+
+SÉPTIMO. Se reforma el numeral PRIMERO, primer párrafo; y se deroga el inciso e) de la fracción II, del numeral PRIMERO, del Acuerdo General 18/2008, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Auxiliar de la Tercera Región, así como los órganos jurisdiccionales que lo integrarán, para quedar como sigue:
+
+“PRIMERO. CONFORMACION, UBICACION, COMPETENCIA Y DENOMINACION. El Centro Auxiliar de la Tercera Región, está conformado por dos tribunales colegiados de Circuito Auxiliares, uno con sede en Guadalajara, Jalisco y uno con residencia en Morelia, Michoacán; un Tribunal Unitario de Circuito Auxiliar con sede en Guadalajara, Jalisco y, dos Juzgados de Distrito Auxiliares, uno con residencia en Guanajuato, Guanajuato y uno con sede en Uruapan, Michoacán.
+
+...
+
+I. ...
+
+II. ...
+
+a) a d) ...
+
+e) Derogado.
+
+III. ...”
 
 ###### Artículo 10.
 
