@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-del-estado-de-baja-california-sur-49474"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-21"
-last_updated: "2017-05-30"
+last_updated: "2017-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE AGOSTO DE 2017.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 21 de febrero de 2006.
 
@@ -293,7 +293,7 @@ II. Las unidades económicas a que alude el tercer párrafo del Artículo Segund
 
 Se consideran sujetos de este Impuesto, las personas a que alude este artículo, que obtengan los premios gravados por este impuesto en los siguientes casos:
 
-a) Que el evento se desarrolle fuera del Estado y el premio se entregue en el mismo.
+a). Que el evento se desarrolle fuera del Estado y el premio se entregue en el mismo.
 
 b). Que el organizador sea residente de otra entidad federativa y el billete, boleto, contraseña o cualquier otro comprobante que permita participar en el evento, se haya enajenado o distribuido en el Estado.
 
@@ -1295,6 +1295,16 @@ B.O. 30 DE MAYO DE 2017.
 
 PRIMERO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
-SEGUNDO.- En atención a dar cumplimiento con la obligación de la Secretaría de Finanzas y Administración de emitir las reglas de carácter general en las que se determine la forma en que se recaudará y enterará el aprovechamiento, se conceden 90 días naturales adicionales a los establecidos en el artículo Segundo Transitorio del Decreto 2382 publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur número 47, de fecha 30 de noviembre del 2016, contados a partir del día siguiente al que venzan los otorgados conforme al citado decreto.
+> <small>(REFORMADO, B.O. 28 DE AGOSTO DE 2017)</small>
 
-TERCERO.- El Gobierno del Estado contará con un plazo de 90 días naturales contados a partir de la entrada en vigor del presente Decreto, para constituir el fideicomiso al que hace mención la fracción I del artículo 129 Ter de la presente Ley.
+SEGUNDO.- En atención a dar cumplimiento con la obligación de la Secretaría de Finanzas y Administración de emitir las reglas de carácter general en las que se determine la forma en que se recaudará y enterará el aprovechamiento, se concede un plazo adicional al establecido en el Artículo Segundo Transitorio del Decreto 2382 publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur número 47, de fecha 30 de noviembre del 2016, contado a partir del día siguiente al que venza el otorgado conforme al citado decreto y concluirá hasta el 31 de diciembre del 2017.
+
+> <small>(REFORMADO, B.O. 28 DE AGOSTO DE 2017)</small>
+
+TERCERO.- El Gobierno del Estado deberá de constituir el fideicomiso al que hace mención la fracción I del artículo 129 Ter de la Ley de Hacienda del Estado de Baja California Sur, a más tardar el día 31 de diciembre del 2017.
+
+B.O. 28 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 2466 SE REFORMAN LOS ARTÍCULOS SEGUNDO Y TERCERO TRANSITORIOS DEL DECRETO 2438 POR MEDIO DEL CUAL SE ADICIONÓ EL ARTÍCULO 129 TER A LA LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
