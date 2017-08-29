@@ -4,7 +4,7 @@ identifier: "GRO-ley-que-establece-el-sistema-estatal-de-ascensos-estimulos-5109
 country: "mx"
 rank: "ley"
 publication_date: "1988-11-25"
-last_updated: "1988-11-25"
+last_updated: "2017-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5109&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY QUE ESTABLECE EL SISTEMA ESTATAL DE ASCENSOS, ESTIMULOS Y RECOMPENSAS PARA AGENTES DEL MINISTERIO PUBLICO, PERITOS, POLICIAS JUDICIAL Y PREVENTIVA, CUSTODIOS Y DEFENSORES DE OFICIO
 
-LEY QUE ESTABLECE EL SISTEMA ESTATAL DE ASCENSOS, ESTIMULOS Y RECOMPENSAS PARA AGENTES DEL MINISTERIO PUBLICO, PERITOS, POLICIAS JUDICIAL Y PREVENTIVA, CUSTODIOS Y DEFENSORES DE OFICIO
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NÚMERO 474 DE ASCENSOS, ESTÍMULOS Y RECONOCIMIENTOS DE LA POLICÍA DEL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. DE 29 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+LEY QUE ESTABLECE EL SISTEMA ESTATAL DE ASCENSOS, ESTÍMULOS Y RECOMPENSAS PARA AGENTES DEL MINISTERIO PÚBLICO, PERITOS, POLICÍAS JUDICIAL Y PREVENTIVA, CUSTODIOS Y DEFENSORES DE OFICIO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 25 de noviembre de 1988.
 
@@ -400,3 +402,23 @@ Rúbrica.
 El Secretario de Gobierno.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE "LEY NÚMERO 474 DE ASCENSOS, ESTÍMULOS Y RECONOCIMIENTOS DE LA POLICÍA DEL ESTADO DE GUERRERO".]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley que Establece el Sistema Estatal de Ascensos, Estímulos y Recompensas para Agentes del Ministerio Público, Peritos, Policías Judicial y Preventiva, Custodios y Defensores de Oficio, publicada en el Periódico Oficial del Gobierno del Estado de Guerrero Número 98 de fecha 25 de noviembre de 1988.
+
+TERCERO. Los agentes del Ministerio Público, peritos, policía ministerial, policía preventiva y defensores públicos del Estado, gozarán de los ascensos, estímulos y reconocimientos que al efecto se señalen en sus propias leyes de la materia y hasta en tanto no se expidan, les será aplicable la ley que se abroga.
+
+CUARTO. El Ejecutivo Estatal emitirá el Reglamento de la presente Ley dentro de los 90 días siguientes a su entrada en vigor.
+
+QUINTO. La Comisión de Desarrollo Policial a que se refiere esta Ley, se integrará dentro de los 30 días siguientes a la entrada en vigor de la presente.
+
+SEXTO. El Reglamento de la Comisión de Desarrollo Policial deberá expedirse dentro de los 90 días siguientes a la entrada en vigor de la presente Ley.
+
+SÉPTIMO. Para efectos de las edades de retiro establecidas en la presente Ley, ésta se aplicará para aquel personal que cause alta en la Secretaría de Seguridad Pública a partir de la entrada en vigor de la misma.
