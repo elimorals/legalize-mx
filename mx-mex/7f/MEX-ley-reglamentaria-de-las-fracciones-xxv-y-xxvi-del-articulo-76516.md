@@ -4,7 +4,7 @@ identifier: "MEX-ley-reglamentaria-de-las-fracciones-xxv-y-xxvi-del-articulo-765
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-03"
-last_updated: "2015-07-13"
+last_updated: "2017-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76516&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY REGLAMENTARIA DE LAS FRACCIONES XXV Y XXVI DEL ARTÍCULO 61 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2017.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 3 de septiembre de 2010.
 
@@ -67,7 +67,13 @@ V. Comisión Municipal, a la Comisión que integren los municipios que sean part
 
 VI. IGECEM, al Instituto de Geografía, Estadística y Catastral del Estado de México; y
 
-VII. Departamento de Límites, al Departamento de Límites de la Dirección Técnica y del Periódico Oficial "Gaceta del Gobierno".
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2017)</small>
+
+VII. Dirección, a la Dirección de Legalización y del Periódico Oficial “Gaceta del Gobierno” de la Consejería Jurídica del Ejecutivo Estatal.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 29 DE AGOSTO DE 2017)</small>
+
+VIII. Departamento, al Departamento de Límites de la Dirección de Legalización y del Periódico Oficial “Gaceta del Gobierno”.
 
 ###### Artículo 4.
 
@@ -159,17 +165,21 @@ Al acordarse la supresión de un municipio, la Legislatura determinará a cual o
 
 La Comisión Estatal es un órgano técnico y de consulta del Poder Ejecutivo en materia de conservación y demarcación de los límites del Estado y sus municipios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 18.
 
-La Comisión estará integrada por:
+La Comisión Estatal estará integrada por:
 
-> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2017)</small>
 
-I. Un Presidente que será el Consejero Jurídico;
+I. Un Presidente que será la o el titular de la Consejería Jurídica del Ejecutivo Estatal.
 
-II. Un Coordinador General que será designado por el Gobernador;
+II. (DEROGADA, G.G. 29 DE AGOSTO DE 2017)
 
-III. Un Secretario Técnico que será el Jefe del Departamento de Limites de la Dirección Técnica y del Periódico Oficial "Gaceta del Gobierno".
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2017)</small>
+
+III. Un Secretario Técnico que será el Titular de la Dirección.
 
 IV. Vocales:
 
@@ -179,13 +189,25 @@ b) El Director General del Instituto de Información e Investigación Geográfic
 
 c) El Director General Jurídico y Consultivo;
 
-d) El Director Técnico y del Periódico Oficial "Gaceta del Gobierno";
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2017)</small>
 
-e) El Director del Archivo Histórico del Estado de México.
+d) El Director del Archivo Histórico del Estado de México.
 
-V. Por cada Vocal de la Comisión Estatal se nombrará un suplente; y
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2017)</small>
 
-VI. Los cargos de la Comisión Estatal serán honoríficos.
+e) El Jefe del Departamento de Límites.
+
+V. (DEROGADA, G.G. 29 DE AGOSTO DE 2017)
+
+VI. (DEROGADA, G.G. 29 DE AGOSTO DE 2017)
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2017)</small>
+
+Los cargos de los integrantes de la Comisión Estatal serán de carácter honorífico y tendrán derecho a voz y voto. Las determinaciones de la Comisión Estatal se tomarán por unanimidad o mayoría de votos.
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2017)</small>
+
+Los integrantes podrán designar un suplente para que los represente con excepción del Secretario Técnico.
 
 ### CAPÍTULO SEGUNDO. DE LAS ATRIBUCIONES DE LA COMISIÓN
 
@@ -201,7 +223,9 @@ III. Promover la celebración de convenios amistosos para resolver los problemas
 
 IV. Asesorar al Ejecutivo del Estado y a los municipios en la elaboración de convenios en materia de límites que celebren sus municipios o con otras entidades;
 
-V. Elaborar los planos topográficos con las ubicaciones del cuadro de construcción respectivo con el apoyo del IGECEM;
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2017)</small>
+
+V. Elaborar los planos topográficos con las ubicaciones del cuadro de construcción que contendrá las coordenadas respectivas a la línea limítrofe municipal con el apoyo del IGECEM.
 
 VI. Expedir su Reglamento Interior y realizar las modificaciones al mismo cuando sea necesario;
 
@@ -239,21 +263,13 @@ III. Someter a la Comisión Estatal los asuntos que se presenten y las demás qu
 
 ###### Artículo 21.
 
-El Coordinador General tendrá las siguientes atribuciones:
+(DEROGADO, G.G. 29 DE AGOSTO DE 2017)
 
-I. Representar a la Comisión Estatal por delegación expresa del presidente;
-
-II. Presidir las sesiones en ausencia del presidente;
-
-III. Evaluar, ejecutar y dar seguimiento a los planes, programas y acuerdos de la comisión;
-
-IV. Preservar y mantener actualizada la información en materia de límites del Estado y sus municipios; y
-
-V. Proponer a la comisión la integración de grupos de trabajo y las demás que sean necesarias para el cumplimiento de sus funciones.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 22.
 
-El Secretario Técnico de la Comisión tendrá las siguientes atribuciones:
+El Secretario Técnico de la Comisión Estatal tendrá las siguientes atribuciones:
 
 I. Realizar los trámites necesarios para la celebración de las sesiones de la comisión y formular el orden del día y las convocatorias;
 
@@ -263,21 +279,57 @@ III. Llevar el registro de los integrantes asistentes a la sesión;
 
 IV. Elaborar las actas de las sesiones y recabar las firmas de los asistentes;
 
-V. Dar seguimiento a los acuerdos y medidas adoptadas por la comisión;
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2017)</small>
 
-VI. Informar a la comisión sobre los trámites que se hayan dado a los acuerdos tomados;
+V. Dar seguimiento a los acuerdos y medidas adoptadas por la Comisión Estatal.
 
-VII. Llevar la correspondencia y archivo de la comisión;
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2017)</small>
 
-VIII. Auxiliar al Coordinador General en el cumplimiento de sus funciones;
+VI. Informar a la Comisión Estatal sobre los trámites que se hayan dado a los acuerdos tomados.
 
-IX. Ordenar y clasificar la información en materia de límites del estado y sus municipios y proporcionar a los integrantes de la comisión los datos que requieran;
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2017)</small>
 
-X. Informar a la comisión sobre los trámites que se hayan dado a los acuerdos tomados;
+VII. Llevar la correspondencia y archivo de la Comisión Estatal.
 
-XI. Elaborar los proyectos de límites y expedición de información pertinente para la elaboración de los decretos respectivos de los municipios, acatando las disposiciones de la Comisión de Límites del Estado de México; y
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2017)</small>
 
-XII. Asesorar técnicamente a la Comisión de Límites del Estado de México respecto a la demarcación y conservación de los límites del Estado.
+VIII. Auxiliar al Presidente en el cumplimiento de sus funciones.
+
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2017)</small>
+
+IX. Ordenar y clasificar la información materia de límites del Estado y sus municipios y proporcionar a los integrantes de la Comisión Estatal los datos que requieran.
+
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2017)</small>
+
+X. Informar a la Comisión Estatal sobre los trámites que se hayan dado a los acuerdos tomados.
+
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2017)</small>
+
+XI. Elaborar los proyectos de límites y expedición de información pertinente para la elaboración de los decretos respectivos de los municipios que hayan firmado convenios amistosos, acatando las disposiciones de la Comisión Estatal.
+
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2017)</small>
+
+XII. Asesorar técnicamente a la Comisión Estatal respecto de la demarcación y conservación de los límites del Estado.
+
+> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2017)</small>
+
+XIII. Representar a la Comisión Estatal por delegación expresa del Presidente.
+
+> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2017)</small>
+
+XIV. Evaluar, ejecutar y dar seguimiento a los planes, programas y acuerdos de la Comisión Estatal.
+
+> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2017)</small>
+
+XV. Preservar y mantener actualizada la información en materia de límites territoriales del Estado y sus municipios.
+
+> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2017)</small>
+
+XVI. Proponer a la Comisión Estatal la integración de grupos de trabajo y las demás que sean necesarias para el cumplimiento de sus funciones.
+
+> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2017)</small>
+
+XVII. Las demás que le encomiende el Presidente.
 
 ###### Artículo 23.
 
@@ -295,17 +347,21 @@ V. Las demás que sean necesarias para el cumplimiento de sus funciones.
 
 ### CAPÍTULO TERCERO. DE LAS SESIONES DE LA COMISIÓN
 
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 24.
 
-La Comisión Estatal se reunirá en sesiones ordinarias bimestralmente y en extraordinarias en cualquier tiempo por acuerdo del Presidente o del Coordinador General.
+La Comisión Estatal se reunirá en sesiones ordinarias bimestralmente y en extraordinarias en cualquier tiempo por acuerdo del Presidente.
 
 ###### Artículo 25.
 
 Para que la Comisión Estatal pueda sesionar, será necesaria la presencia del Presidente o de quien legalmente lo sustituya y de la mitad más uno de sus miembros cuando menos.
 
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 26.
 
-La Comisión tomará sus acuerdos por consenso y tendrá su domicilio en la ciudad de Toluca de Lerdo, capital del Estado de México.
+La Comisión Estatal tomará sus acuerdos por consenso y tendrá su domicilio en la ciudad de Toluca de Lerdo, capital del Estado de México.
 
 ###### Artículo 27.
 
@@ -313,7 +369,9 @@ La Comisión Estatal contará con un Órgano de Consultoría Permanente integrad
 
 I. Los Subsecretarios Regionales de Gobernación de la Subsecretaría General de Gobierno; y
 
-II. El Secretario de Desarrollo Metropolitano.
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2017)</small>
+
+II. El Secretario de Desarrollo Urbano y Metropolitano.
 
 ###### Artículo 28.
 
@@ -381,7 +439,9 @@ III. La Comisión Estatal con el auxilio del IGECEM, elaborara el plano topográ
 
 IV. Las Comisiones Municipales revisarán conjuntamente el plano topográfico y el proyecto de convenio amistoso, y en su caso deberán emitir su aprobación a los mismos;
 
-V. Una vez validados el plano topográfico y el proyecto de convenio, la Comisión Estatal, los remitirá a los municipios para que en un plazo no mayor de 30 días sean aprobados por los cabildos correspondientes;
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2017)</small>
+
+V. Una vez validados el plano topográfico y el proyecto de convenio, la Comisión Estatal, los remitirá a los municipios para que en un plazo no mayor de 30 días hábiles sean aprobados por los cabildos correspondientes.
 
 VI. Emitidos los acuerdos de cabildo, por los cuales se aprueban el plano topográfico y el proyecto de convenio amistoso, así como la autorización para que el Presidente Municipal, el Sindico y el Secretario del Ayuntamiento firmen el convenio amistoso, se señalará día y hora para tal efecto; y
 
@@ -409,23 +469,33 @@ VIII. Nombre, cargo, firma y sello de las autoridades que lo suscriben.
 
 El plano topográfico deberá señalar el cuadro de construcción del polígono definido en coordenadas UTM (Universal Transversa de Mercator).
 
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 34.
 
-Para el caso de haber transcurrido el plazo señalado en la fracción V del artículo 32 de esta ley, sin que alguno de los municipios se pronuncie al respecto, el titular del Ejecutivo podrá someter a la Legislatura el diferendo para que ésta lo resuelva en definitiva, con apoyo en los estudios técnicos realizados.
+Para el caso de haber transcurrido el plazo señalado en la fracción V del artículo 32 de esta ley, sin que alguno de los municipios se pronuncie al respecto, el titular del Ejecutivo podrá someter a la Legislatura el convenio amistoso o diferendo para que ésta lo resuelva en definitiva, con apoyo en los estudios técnicos realizados.
 
 ###### Artículo 35.
 
 Tratándose de la solicitud de los municipios de solucionar un diferendo limítrofe ante la Comisión Estatal, se estará a lo siguiente:
 
-I. Los representantes de los municipios involucrados entregarán al Coordinador General de la Comisión Estatal, la información documental, histórica y geográfica que a su juicio sustenten su dicho;
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2017)</small>
 
-II. El Coordinador General de la Comisión Estatal convocará un grupo de trabajo para analizar la documentación presentada y elaborar el dictamen técnico correspondiente;
+I. Los representantes de los municipios involucrados entregarán al Presidente de la Comisión Estatal, la información documental, histórica y geográfica que a su juicio sustenten su dicho.
 
-III. El Coordinador General someterá a la consideración de la Comisión Estatal el dictamen elaborado por el grupo de trabajo;
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2017)</small>
+
+II. El Presidente de la Comisión Estatal convocará un grupo de trabajo para analizar la documentación presentada y elaborar el dictamen técnico correspondiente.
+
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2017)</small>
+
+III. El Presidente de la Comisión Estatal someterá a la consideración de la misma el dictamen elaborado por el grupo de trabajo.
 
 IV. La Comisión Estatal hará del conocimiento de las partes involucradas el dictamen técnico aprobado por la misma; y
 
-V. El dictamen aprobado por la Comisión Estatal, se pondrá a la vista de los municipios para que en un término no mayor de treinta días, hagan del conocimiento de la misma, si es su voluntad suscribir un convenio amistoso de reconocimiento de límites territoriales.
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2017)</small>
+
+V. El dictamen aprobado por la Comisión Estatal, se pondrá a la vista de los municipios para que en un término no mayor de treinta días hábiles, hagan del conocimiento de la misma, si es su voluntad suscribir un convenio amistoso de reconocimiento de límites territoriales.
 
 ###### Artículo 36.
 
@@ -467,9 +537,11 @@ IV. El nombre del municipio o municipios respecto de los cuales se solicite la s
 
 V. Una exposición de motivos en la que se precise de manera clara los planteamientos y disposiciones en que funden su pretensión.
 
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 43.
 
-Una vez recibida la solicitud el Presidente de la Legislatura, la turnará a la Comisión Legislativa quien la radicará mediante un acuerdo, señalando día y hora dentro de los treinta días siguientes para una audiencia en la que comparezcan los municipios involucrados a exponer sus argumentos respecto del diferendo.
+Una vez recibida la solicitud el Presidente de la Legislatura, la turnará a la Comisión Legislativa quien la radicará a través de un acuerdo, señalando día y hora dentro de los treinta días hábiles siguientes para una audiencia en la que comparezcan los municipios involucrados a exponer sus argumentos respecto del diferendo.
 
 ###### Artículo 44.
 
@@ -485,15 +557,19 @@ II. El municipio o municipios promoventes expresarán sus planteamientos en rela
 
 III. El municipio o municipios citados expresarán sus puntos de vista y sus argumentos en relación al hecho; y
 
-IV. La Comisión Legislativa requerirá a los municipios involucrados para que en un plazo de 30 días hagan posteriores a la audiencia remitan, todas las pruebas que consideren son suficientes para acreditar sus manifestaciones. Fuera de este término no será admitida probanza alguna.
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2017)</small>
+
+IV. La Comisión Legislativa requerirá a los municipios involucrados para que en un plazo de 30 días hábiles posteriores a la audiencia remitan, todas las pruebas que consideren son suficientes para acreditar sus manifestaciones. Fuera de este término no será admitida probanza alguna.
 
 ###### Artículo 46.
 
 En el desahogo del procedimiento se admitirán toda clase de pruebas excepto la confesional, las que no tengan relación directa con el asunto, las que resulten inútiles para la decisión del caso y aquellas que sean contrarias a derecho.
 
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 47.
 
-Transcurrido el término establecido por la fracción IV del artículo 45 de esta Ley, la Comisión Legislativa admitirá las pruebas dando vista con las mismas a los municipios interesados y ordenará su desahogo dentro del término de 60 días, dentro de los cuales deberán realizarse todas las diligencias necesarias.
+Transcurrido el término establecido por la fracción IV del artículo 45 de esta Ley, la Comisión Legislativa admitirá las pruebas dando vista con las mismas a los municipios interesados y ordenará su desahogo dentro del término de 60 días hábiles, dentro de los cuales deberán realizarse todas las diligencias necesarias.
 
 ###### Artículo 48.
 
@@ -519,9 +595,11 @@ La Comisión Legislativa podrá establecer un proceso metodológico que al inter
 
 ### CAPÍTULO PRIMERO. DEL DICTAMEN DE LA COMISION LEGISLATIVA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 53.
 
-Una vez concluido el periodo de desahogo de pruebas, dentro de los siguientes treinta días, la comisión legislativa se reunirá para analizar y valorar las manifestaciones y las probanzas ofrecidas por los municipios y en su caso las diligencias ordenadas por la misma procediendo a elaborar el dictamen correspondiente, el cual deberá contener:
+Una vez concluido el periodo de desahogo de pruebas, dentro de los siguientes treinta días hábiles, la comisión legislativa se reunirá para analizar y valorar las manifestaciones y las probanzas ofrecidas por los municipios y en su caso las diligencias ordenadas por la misma procediendo a elaborar el dictamen correspondiente, el cual deberá contener:
 
 I. El nombre de los municipios involucrados;
 
@@ -573,9 +651,11 @@ Las resoluciones de la Legislatura, por las que se ponga fin a los diferendos de
 
 A partir de la aprobación del decreto que resuelva los diferendos limítrofes, todas las autoridades están obligadas a realizar las adecuaciones necesarias en el ámbito de sus atribuciones, que permitan el cabal cumplimiento del decreto.
 
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 59.
 
-Los municipios involucrados en un término de que no deberá exceder de 90 días a partir de la publicación del decreto, realizarán trabajos conjuntos de amojonamiento y señalización sobre la línea limítrofe aportando cada uno el 50% de los gastos generados.
+Los municipios involucrados en un término que no deberá exceder de 90 días hábiles a partir de la publicación del Decreto, realizarán trabajos conjuntos de amojonamiento y señalización sobre la línea limítrofe aportando cada uno el 50% de los gastos generados, informando a las comisiones Estatal y Legislativa.
 
 ###### Artículo 60.
 
@@ -628,3 +708,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto, perdiendo vigor al momento de esta publicación.
+
+G.G 29 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 223.- POR EL QUE SE REFORMAN LA FRACCIÓN VII DEL ARTÍCULO 3, EL PRIMER PÁRRAFO, LAS FRACCIONES I Y III, LOS INCISOS D Y E DE LA FRACCIÓN IV DEL ARTÍCULO 18, LA FRACCIÓN V DEL ARTÍCULO 19, EL PRIMER PÁRRAFO Y LAS FRACCIONES V, VI, VII, VIII, IX, X, XI Y XII DEL ARTÍCULO 22, LOS ARTÍCULOS 24 Y 26, LA FRACCIÓN II DEL ARTÍCULO 27, LA FRACCIÓN V DEL ARTÍCULO 32, EL ARTÍCULO 34, LAS FRACCIONES I, II, III Y V DEL ARTÍCULO 35, EL ARTÍCULO 43, LA FRACCIÓN IV DEL ARTÍCULO 45, EL ARTÍCULO 47, EL PRIMER PÁRRAFO DEL ARTÍCULO 53 Y EL ARTÍCULO 59, SE ADICIONAN LA FRACCIÓN VIII AL ARTÍCULO 3, SEGUNDO Y TERCER PÁRRAFOS AL ARTÍCULO 18 Y LAS FRACCIONES XIII, XIV, XV, XVI Y XVII AL ARTÍCULO 22 Y SE DEROGAN LAS FRACCIONES II, V Y VI DEL ARTÍCULO 18 Y EL ARTÍCULO 21, DE LA LEY REGLAMENTARIA DE LAS FRACCIONES XXV Y XXVI DEL ARTÍCULO 61 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO."]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
