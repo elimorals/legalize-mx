@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2017-08-10"
+last_updated: "2017-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 10 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 29 DE AGOSTO DE 2017.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -62,7 +62,7 @@ Además de los conceptos que expresamente señala el artículo 3° de la Ley Org
 
 > <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2012)</small>
 
-I.- Unidades administrativas: las dotadas de atribuciones de decisión y ejecución, que además de las Dependencias y los Órganos Político Administrativos son las Subsecretarias, la Tesorería del Distrito Federal, la Procuraduría Fiscal del Distrito Federal, La Unidad de Inteligencia Financiera del Distrito Federal, las Coordinaciones Generales, las Direcciones Generales, las Subprocuradurías, las Subtesorerías, los Órganos Desconcentrados, las Direcciones Ejecutivas, las Contralorías Internas, así como cualquier otra que realice este tipo de atribuciones conforme a lo previsto en este Reglamento;
+I. Unidades administrativas: las dotadas de atribuciones de decisión y ejecución, que además de las Dependencias y los Órganos Político Administrativos son las Subsecretarias, la Tesorería del Distrito Federal, la Procuraduría Fiscal del Distrito Federal, La Unidad de Inteligencia Financiera del Distrito Federal, las Coordinaciones Generales, las Direcciones Generales, las Subprocuradurías, las Subtesorerías, los Órganos Desconcentrados, las Direcciones Ejecutivas, las Contralorías Internas, así como cualquier otra que realice este tipo de atribuciones conforme a lo previsto en este Reglamento;
 
 > <small>(REFORMADA, G.O. 19 DE ENERO DE 2007)</small>
 
@@ -7756,7 +7756,7 @@ XXIV. Coordinar las tareas de actualización, supervisión y vigilancia del cump
 
 XXV. Recibir, evaluar y registrar para su seguimiento la información que en materia de atención ciudadana le remitan las autoridades competentes de la Administración Pública del Distrito Federal;
 
-XXVI. Coordinar el Portal Único de Transparencia, a efecto de que se cumpla con la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal;
+XXVI. (DEROGADA, G.O. 29 DE AGOSTO DE 2017)
 
 XXVII. Participar en la instrumentación y seguimiento de la estrategia de Gobierno Abierto de la Administración Pública del Distrito Federal y sus actividades relacionadas;
 
@@ -7894,7 +7894,7 @@ XVI. Participar en la elaboración de las políticas de portales y otros sistema
 
 XVII. Participar en el diseño de la estrategia y políticas del desarrollo e integración de sistemas de información y sistemas de comunicación para la difusión de trámites y servicios en la plataforma de portales gubernamentales de la Administración Pública del Distrito Federal, en coordinación con la Unidad Administrativa competente en la materia;
 
-XVIII. Dirigir la operación del Portal Único de Transparencia, a efecto de que se cumpla con la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal;
+XVIII. (DEROGADA, G.O. 29 DE AGOSTO DE 2017)
 
 XIX. Apoyar al Coordinador General de Modernización Administrativa en el desempeño de sus funciones como titular de la Unidad de Mejora Regulatoria del Distrito Federal;
 
@@ -20013,5 +20013,13 @@ G.O. 10 DE AGOSTO DE 2017.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL”.]
 
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 29 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL".]
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
