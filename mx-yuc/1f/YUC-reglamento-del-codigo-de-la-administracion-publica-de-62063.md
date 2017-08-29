@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-codigo-de-la-administracion-publica-de-62063"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2017-07-20"
+last_updated: "2017-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE AGOSTO DE 2017.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de julio de 2008.
 
@@ -3921,21 +3921,21 @@ IX. Las demás que le otorguen este Reglamento y otras disposiciones normativas 
 
 ### CAPÍTULO ÚNICO. De la organización y atribuciones de la Secretaría de Obras Públicas
 
-> <small>(REFORMADO, D.O. 24 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, D.O. 29 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 157.
 
 Para el ejercicio de las atribuciones que le confiere el Código y el despacho de los asuntos de su competencia, esta Secretaría contará con la siguiente estructura:
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+I. Dirección General de Operaciones.
 
-I. Dirección Técnica;
+II. Dirección Técnica;
 
-II. Dirección Administrativa;
+III. Dirección Administrativa;
 
-III. Dirección de Enlace y Vinculación, y
+IV. Dirección de Enlace y Vinculación, y
 
-IV. Dirección Jurídica.
+V. Dirección Jurídica.
 
 ###### Artículo 158.
 
@@ -3955,37 +3955,51 @@ VI. Coordinar la elaboración y evaluación de los informes de las áreas del se
 
 VII. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
 
-> <small>(REFORMADO, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, D.O. 29 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 159.
 
-Al Director Técnico le corresponde el despacho de los siguientes asuntos:
+Al Director General de Operaciones le corresponde el despacho de los siguientes asuntos:
 
-I. Auxiliar al Titular de la Secretaría en el desempeño de sus funciones;
+I. Auxiliar al Secretario en el desempeño de sus funciones;
 
-II. Acordar con el Titular de la Secretaría los asuntos de su competencia y la ejecución de los programas que le encomiende;
+II. Acordar con el Secretario los asuntos de su competencia y la ejecución de los programas que le encomiende;
 
-III. Ejercer las facultades que el Titular de la Secretaría le delegue y suplirlo durante sus ausencias temporales como encargado del despacho, conforme a lo establecido en este Reglamento o, en su caso, mediante oficio otorgado por aquél;
+III. Ejercer las facultades que el Secretario le delegue y suplirlo, durante sus ausencias temporales, como encargado del despacho, conforme a lo establecido en este Reglamento o, en su caso, mediante oficio otorgado por aquel;
 
-IV. Proporcionar la información y cooperación técnica que le sea solicitada por otras dependencias o entidades del Poder Ejecutivo, previo acuerdo del Titular;
+IV. Representar al Secretario, cuando así se lo indique, ante organismos, dependencias, instituciones y grupos de trabajo intersecretariales e interinstitucionales, así como en los comités, comisiones o cualquier órgano colegiado, independientemente de su denominación;
 
-V. Revisar y autorizar las propuestas de las áreas adscritas a su cargo, en materia de anteproyectos de leyes, reglamentos, decretos, acuerdos, formatos y demás documentación, que deba ser publicada conforme a la legislación aplicable para someterlas a consideración del Titular;
+V. Brindar apoyo y asesoría al Secretario, para el adecuado ejercicio de sus facultades y obligaciones;
 
-VI. Representar al Titular, cuando éste así se lo indique, ante organismos, dependencias, instituciones grupos de trabajo intersecretariales e interinstitucionales, así como en los comités, comisiones o cualquier órgano colegiado, independientemente de su denominación;
+VI. Proponer al Secretario los objetivos y las metas de la Secretaría, así como los programas y acciones a desarrollar;
 
-VII. Aplicar el sistema de mejoramiento en la calidad de las actividades y servicios encomendados, que implemente la Secretaría;
+VII. Aplicar el sistema de mejoramiento en la calidad de las actividades y servicios que implemente la Secretaría;
 
-VIII. Proponer al Titular manuales de organización, normas, políticas, criterios, servicios, sistemas y procedimientos de carácter técnico, que deban regir en las direcciones de la Secretaría;
+VIII. Proponer al Secretario el desarrollo de manuales de organización, normas, políticas, criterios, servicios y sistemas que deban regir en las direcciones de la Secretaría, y
 
-IX. Representar al área a su cargo ante las autoridades correspondientes;
+IX. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
 
-X. Coordinar y apoyar, conforme a los lineamientos que establezca el Secretario, la celebración o participación de conferencias, congresos y exposiciones, y
-
-XI. Las demás que les señalen este Reglamento y otras disposiciones normativas aplicables.
+> <small>(ADICIONADO, D.O. 29 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 160.
 
-(DEROGADO, D.O. 24 DE AGOSTO DE 2010)
+Al Director Técnico le corresponde el despacho de los siguientes asuntos:
+
+I. Acordar con el Secretario los asuntos de su competencia y la ejecución de los programas que le encomiende;
+
+II. Representar al Secretario, cuando así se lo indique, ante organismos, dependencias, instituciones y grupos de trabajo intersecretariales e interinstitucionales, así como en los comités, comisiones o cualquier órgano colegiado, independientemente de su denominación;
+
+III. Apoyar al Director General en la aplicación del sistema de mejoramiento en la calidad de las actividades y servicios que implemente la Secretaría;
+
+IV. Proponer al Secretario el desarrollo de manuales de organización, normas, políticas, criterios, servicios, sistemas y procedimientos de carácter técnico que deban regir en las direcciones de la Secretaría;
+
+V. Representar al área a su cargo ante las autoridades correspondientes;
+
+VI. Coordinarse con el Director Administrativo para la organización de exposiciones, congresos y demás eventos patrocinados por esta Secretaría o la participación en eventos de esta clase, de conformidad con los lineamientos que establezca el Secretario;
+
+VII. Realizar las acciones relativas a la logística y protocolo de la Secretaría, y
+
+VIII. Las demás que les señalen este Reglamento y otras disposiciones normativas aplicables.
 
 ###### Artículo 161.
 
@@ -4001,13 +4015,17 @@ I. Proponer al Secretario las medidas administrativas que estime convenientes pa
 
 II. Atender las necesidades administrativas de esta Secretaría, de acuerdo con los lineamientos que fije su Titular;
 
-III. Establecer los sistemas de recursos humanos, materiales, informática, servicios generales, sistemas de programación, correspondencia y archivo, así como vigilar su observancia;
+> <small>(REFORMADA, D.O. 29 DE AGOSTO DE 2017)</small>
 
-IV. Proponer al Secretario el programa de adquisiciones con cargo al presupuesto;
+III. Establecer los sistemas de recursos humanos, materiales y archivo, así como vigilar su observancia;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O. 29 DE AGOSTO DE 2017)</small>
 
-V. Coordinarse con la Dirección Técnica para la organización de exposiciones, congresos y demás eventos patrocinados por esta Secretaría;
+IV. Realizar las adquisiciones de la Secretaría con apego en los lineamientos establecidos con cargo al presupuesto;
+
+> <small>(REFORMADA, D.O. 29 DE AGOSTO DE 2017)</small>
+
+V. Coordinarse con la Dirección Técnica y la Dirección de Enlace y Vinculación para la organización de los eventos patrocinados por esta Secretaría;
 
 VI. Dirigir y resolver, con base en los lineamientos que fije el Secretario, los asuntos del personal al servicio de esta Secretaría y autorizar los movimientos del mismo;
 
@@ -4033,13 +4051,9 @@ XIV. Informar a las direcciones de esta Secretaría sobre las asignaciones presu
 
 XV. Implementar el programa de calidad y mejora continua en todas las áreas de esta Secretaría, en observancia de las metas que para tal efecto fijen el Plan Estatal de Desarrollo y las demás disposiciones legales aplicables;
 
-> <small>(ADICIONADA, D.O. 1 DE ENERO DE 2013)</small>
+XVI. (DEROGADA, D.O. 29 DE AGOSTO DE 2017)
 
-XVI. Apoyar y coordinar la ejecución de los programas de las entidades administrativas del sector, en coordinación con sus Titulares, así como evaluar sus resultados y presentar al Secretario los informes que requiera;
-
-> <small>(ADICIONADA, D.O. 1 DE ENERO DE 2013)</small>
-
-XVII. Revisar y turnar los informes que los directores o titulares de las unidades administrativas del sector deban rendir al Titular de la Dependencia, salvo los que éste disponga recibir directamente, y
+XVII. (DEROGADA, D.O. 29 DE AGOSTO DE 2017)
 
 XVIII. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
 
@@ -4139,11 +4153,15 @@ XI. Revisar y autorizar las propuestas de las direcciones por medio de sus área
 
 XII. Vigilar que en los asuntos de cada Dirección de la Secretaría se cumpla estrictamente con las disposiciones legales aplicables;
 
-> <small>(ADICIONADA, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O. 29 DE AGOSTO DE 2017)</small>
 
-XIII. Representar y fungir como enlace de esta Secretaría ante todo tipo de organismos, institutos, unidades y análogos que requieran acreditar un enlace institucional para establecer o dar seguimiento a programas de calidad, acceso a la información, mejora regulatoria o cualquier otro, y
+XIII. Representar y fungir como enlace de esta Secretaría ante todo tipo de organismos, institutos, unidades y análogos que requieran acreditar un enlace institucional para establecer o dar seguimiento a programas de calidad, acceso a la información, mejora regulatoria o cualquier otro;
 
-XIV. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+> <small>(ADICIONADA, D.O. 29 DE AGOSTO DE 2017)</small>
+
+XIV. Establecer y aplicar el procedimiento relativo al pago de los daños ocasionados a la infraestructura y las vías públicas que sean competencia del Gobierno del estado, y
+
+XV. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
 
 ## TÍTULO XI. SECRETARÍA DE LA JUVENTUD
 
@@ -13188,6 +13206,14 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el dia
 D.O. 20 DE JULIO DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 512/2017 POR EL QUE SE MODIFICA EL REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, SOBRE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS Y LA SECRETARÍA DE EDUCACIÓN”.]
+
+Único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+D.O. 29 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 518/2017 POR EL QUE SE MODIFICA EL REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, SOBRE LA SECRETARÍA DE OBRAS PÚBLICAS”.]
 
 Único. Entrada en vigor
 
