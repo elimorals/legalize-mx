@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-para-ejercer-el-derecho-a-la-informacion-ante-el-680
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-14"
-last_updated: "2009-04-14"
+last_updated: "2017-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "MIC"
 ---
 # REGLAMENTO PARA EJERCER EL DERECHO A LA INFORMACION ANTE EL H. AYUNTAMIENTO DE SANTA ANA MAYA, MICHOACAN
 
-REGLAMENTO PARA EJERCER EL DERECHO A LA INFORMACION ANTE EL H. AYUNTAMIENTO DE SANTA ANA MAYA, MICHOACAN
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL H. AYUNTAMIENTO DE SANTA ANA MAYA, MICHOACÁN, PUBLICADO EN EL P.O. DE 29 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO PARA EJERCER EL DERECHO A LA INFORMACIÓN ANTE EL H. AYUNTAMIENTO DE SANTA ANA MAYA, MICHOACÁN
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2017(ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el martes 14 de abril de 2009.
 
@@ -91,7 +93,7 @@ El presente Reglamento tiene por objeto regular el procedimiento para proporcion
 
 ###### Artículo 2.
 
-Para los efectos del presente Reglamento se atenderá a las definiciones contenidas en él artículo 6° de la Ley de Transparencia y Acceso a la Información Pública del Estado de Michoacán de Ocampo, además las siguientes:
+Para los efectos del presente Reglamento se atenderá a las definiciones contenidas en el artículo 6° de la Ley de Transparencia y Acceso a la Información Pública del Estado de Michoacán de Ocampo, además las siguientes:
 
 I. Ayuntamiento: El Ayuntamiento de Santa Ana Maya, Michoacán;
 
@@ -386,3 +388,17 @@ Que el presente Reglamento para Ejercer el Derecho a la Información Pública an
 Lo anterior para los fines legales a que haya lugar, se extiende la presente certificación, en Santa Ana Maya, Mich., siendo las 11:28 (once horas con veintiocho minutos), del día 30 (treinta), de marzo del año 2009 (dos mil nueve).
 
 Ing. María de Jesús López Parra, Secretaria Municipal, (Firmado).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL H. AYUNTAMIENTO DE SANTA ANA MAYA, MICHOACÁN".]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo. Y para el conocimiento ciudadano publíquese en los estrados del Palacio Municipal y en los lugares que el Ayuntamiento estime pertinente para su difusión
+
+SEGUNDO. Se abroga el Reglamento para ejercer el Derecho a la Información ante el H. Ayuntamiento de Santa Ana Maya, Michoacán, publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, de fecha 14 de abril del 2009.
+
+TERCERO. Conforme a lo previsto en los artículos 145, 149 y sexto transitorio de la Ley Orgánica Municipal del Estado de Michoacán de Ocampo, al Comisionado Presidente del (sic) El Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales, para su conocimiento y efectos legales conducentes.
+
+CUARTO. El presente Reglamento deja sin efectos cualquier otra disposición reglamentaria que contravenga lo dispuesto en el mismo.
