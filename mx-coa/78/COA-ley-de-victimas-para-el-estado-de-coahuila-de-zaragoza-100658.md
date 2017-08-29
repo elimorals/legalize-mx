@@ -4,7 +4,7 @@ identifier: "COA-ley-de-victimas-para-el-estado-de-coahuila-de-zaragoza-100658"
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-02"
-last_updated: "2016-08-09"
+last_updated: "2017-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100658&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 2 de mayo de 2014.
 
@@ -34,22 +34,6 @@ QUE EL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGO
 DECRETA:
 
 NÚMERO 486.-
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 634, PUBLICADO EN EL P.O. 25 DE NOVIEMBRE DE 2014, TODAS LAS DISPOSICIONES, MENCIONES Y REFERENCIAS QUE SE HAGAN EN ESTE DECRETO RESPECTO AL TÉRMINO "CÓDIGO DE PROCEDIMIENTOS PENALES" , SE ENTENDERÁN HECHAS AL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, EL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO EL 17 DE FEBRERO DE 2012, Y EL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO EL 25 DE MAYO DE 1999, DE ACUERDO AL ESQUEMA DE GRADUALIDAD DE LA IMPLEMENTACIÓN DEL SISTEMA PENAL ACUSATORIO ADVERSARIAL.</small>
-
-ASIMISMO, LAS REFERENCIAS QUE SE HAGAN A CARPETA DE INVESTIGACIÓN, EN LOS CASOS QUE RESULTE APLICABLE, SE ENTENDERÁN HECHAS A LA AVERIGUACIÓN PREVIA
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NÚMERO 634, PUBLICADO EN EL P.O. 25 DE NOVIEMBRE DE 2014, TODAS LAS DISPOSICIONES, MENCIONES Y REFERENCIAS QUE SE HAGAN EN LAS LEYES Y REGLAMENTOS A LAS SUBPROCURADURÍAS JURÍDICA, DE DERECHOS HUMANOS, PROFESIONALIZACIÓN Y PROYECTOS, Y DE INVESTIGACIONES ESPECIALES, ATENCIÓN A DELITOS CONTRA MUJERES POR RAZÓN DE GÉNERO, TRATA DE PERSONAS, LIBERTAD DE EXPRESIÓN Y SERVICIOS A LA COMUNIDAD, SE ENTENDERÁN HECHAS A LA SUBPROCURADURÍA JURÍDICA, DE DERECHOS HUMANOS Y DE INVESTIGACIONES ESPECIALES, DE ACUERDO A LAS ATRIBUCIONES QUE SE OTORGAN A ÉSTA ÚLTIMA MEDIANTE EL PRESENTE DECRETO.</small>
-
-ASIMISMO TODAS LAS DISPOSICIONES, MENCIONES Y REFERENCIAS QUE SE HAGAN EN LAS LEYES Y REGLAMENTOS RESPECTO DE LAS SIGUIENTES UNIDADES ADMINISTRATIVAS, SE ENTENDERÁN HECHAS CONFORME A LAS SIGUIENTES DENOMINACIONES:
-
-A) DIRECCIÓN GENERAL DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS Y TESTIGOS: DIRECCIÓN GENERAL DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS Y OFENDIDOS.
-
-B) DIRECCIÓN GENERAL DE MEDIOS ALTERNOS DE SOLUCIÓN DE CONFLICTOS: DIRECCIÓN GENERAL DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS.
-
-C) DIRECCIÓN DE CONTROL DE PROCESOS EN MATERIA DE DELITOS ELECTORALES: DIRECCIÓN DE CONTROL DE JUICIOS Y CONSTITUCIONALIDAD EN MATERIA DE DELITOS ELECTORALES,
-
-D) DIRECCIÓN GENERAL DE POLÍTICA CRIMINAL: DIRECCIÓN DE POLÍTICA CRIMINAL.
 
 LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
@@ -265,7 +249,9 @@ XVI. Derecho a ejercer los recursos legales en contra de las decisiones que afec
 
 XVII. A recibir gratuitamente la asistencia de un intérprete o traductor de su lengua, en caso de que no comprendan el idioma español o tenga discapacidad auditiva, verbal o visual;
 
-XVIII. XIV (SIC). A trabajar de forma colectiva con otras víctimas para la defensa de sus derechos, incluida su reincorporación a la sociedad; y
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2017)</small>
+
+XVIII. A trabajar de forma colectiva con otras víctimas para defender sus derechos, incluida su reincorporación a la sociedad; y
 
 XIX. A participar en espacios colectivos donde se proporcione apoyo individual o colectivo que le permita relacionarse con otras víctimas.
 
@@ -299,7 +285,11 @@ Las víctimas de delitos o de violaciones de derechos contra la libertad, la int
 
 Los servidores públicos deberán brindar información clara, precisa y accesible a las víctimas y sus familiares, sobre cada una de las garantías, mecanismos y procedimientos que permiten el acceso oportuno, rápido y efectivo a las medidas de ayuda contempladas en la presente Ley.
 
-Las medidas de atención, asistencia, ayuda y demás establecidas en esta Ley, se brindarán exclusivamente por las instituciones públicas de la entidad y municipios, a través de los programas, mecanismos y servicios con que cuenten, salvo en los casos urgentes o de extrema necesidad en los que se podrá recurrir a instituciones privadas. Así mismo, se brindarán en los supuestos señalados en la Ley General de Salud.
+(NOTA: EL 14 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 130/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO ÚLTIMO DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2017)</small>
+
+Las medidas de atención, asistencia, ayuda y demás establecidas en esta Ley, se brindarán exclusivamente por las instituciones públicas de la entidad y municipios, a través de los programas, mecanismos y servicios con que cuenten, salvo en los casos urgentes o de extrema necesidad en los que se podrá recurrir a instituciones privadas BAJO LA DISPONIBILIDAD PRESUPUESTAL. Así mismo, se brindarán en los supuestos señalados en la Ley General de Salud.
 
 IV. Derecho a un recurso judicial adecuado y efectivo, ante las autoridades independientes, imparciales y competentes, que les garantice el ejercicio de su derecho a conocer la verdad, a que se realice con la debida diligencia una investigación inmediata y exhaustiva del delito o de las violaciones de derechos humanos sufridas por ellas; a que los autores de los delitos y de las violaciones de derechos, con el respeto al debido proceso, sean enjuiciados y sancionados; y a obtener una reparación integral por los daños sufridos.
 
@@ -323,11 +313,11 @@ f) La reparación colectiva se entenderá como un derecho del que son titulares 
 
 Las medidas colectivas tenderán al reconocimiento y dignificación de los sujetos colectivos victimizados; la reconstrucción del proyecto colectivo de vida, y el capital social y cultural; la recuperación psicosocial de las poblaciones y grupos afectados y la promoción de la reconciliación y la cultura de la protección y promoción de los derechos humanos en las comunidades y colectivos afectados.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 11.
 
-En el proceso penal, las víctimas gozarán de todos los derechos consagrados en la Ley General de Víctimas y el Código de Procedimientos Penales, así como:
+En el proceso penal, las víctimas gozarán de todos los derechos consagrados en la Ley General de Víctimas y el Código Nacional de Procedimientos Penales en cada caso concreto, así como:
 
 I. A ser enterado directa y oportunamente de los derechos que a su favor establece la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales de los que el Estado Mexicano es parte, la Constitución Política del Estado de Coahuila de Zaragoza, la presente ley, las leyes generales y demás ordenamientos aplicables en la materia;
 
@@ -353,7 +343,9 @@ Las víctimas deberán ser informadas sobre el alcance y trascendencia de los ex
 
 La exploración física, la atención médica, psiquiátrica, ginecológica o de cualquier tipo, podrá realizarse a través de una persona de su mismo sexo cuando así lo solicite;
 
-X. A que el Ministerio Público solicité debidamente la reparación del daño y a que se le satisfaga cuando legalmente proceda, bajo los requisitos y a través de los procedimientos previstos en la legislación aplicable.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2017)</small>
+
+X. A que el Ministerio Público solicite debidamente la reparación del daño y a que se le satisfaga cuando legalmente proceda, bajo los requisitos y a través de los procedimientos previstos en la legislación aplicable.
 
 El Ministerio Público solicitará la reparación del daño de oficio. Como parte de la misma solicitud, pugnará por la indemnización del daño material y moral causado, incluyendo el pago de los tratamientos que como consecuencia del hecho victimizante, sean necesarios para la recuperación de la salud de la víctima; sin menoscabo de que la víctima o el ofendido lo puedan solicitar directamente. El juzgador no podrá absolver al sentenciado de dicha reparación si ha emitido una sentencia condenatoria;
 
@@ -365,9 +357,9 @@ XIII. A comparecer en la fase de la investigación o al juicio y a que sean adop
 
 XIV. A recibir orientación y canalización hacia las instituciones de asistencia o beneficencia pública, social y privada en el Estado y en los municipios;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2017)</small>
 
-XV. A coadyuvar con el Ministerio Público en la investigación y en el proceso penal, en los términos previstos por el Código de Procedimientos Penales;
+XV. A coadyuvar con el Ministerio Público en la investigación y en el proceso penal, en los términos previstos por el Código Nacional de Procedimientos Penales;
 
 XVI. A ser informado por la autoridad investigadora, de las actuaciones y del estado que guarde la investigación o el proceso penal correspondiente y, en su caso, tener acceso al expediente;
 
@@ -405,15 +397,21 @@ XXXI. Los demás que le otorguen esta ley y demás disposiciones aplicables.
 
 ### CAPÍTULO QUINTO. MEDIDAS DE AYUDA INMEDIATA
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 12.
 
-La gravedad del daño sufrido por las víctimas será el eje que determinará la prioridad en su asistencia, en la prestación de servicios y en la implementación de acciones dentro de las instituciones encargadas de brindarles atención y tratamiento.
+La atención inmediata es aquella brindada a una persona con la finalidad de preservar el mínimo estado de bienestar físico, psíquico, jurídico, familiar, y cualquier otro que afecte su esfera personal, y cuya ausencia al momento de ser solicitada pone en riesgo cualquiera de los estados de bienestar señalados en este párrafo.
+
+La gravedad del daño sufrido por las víctimas determinará la necesidad de asistir a la víctima en la prestación de servicios y en la implementación de acciones dentro de las instituciones encargadas de brindarles atención y tratamiento.
 
 Los servicios a que se refiere la presente Ley tomarán en cuenta si la víctima pertenece a un grupo en condiciones de vulnerabilidad, sus características y necesidades especiales, particularmente tratándose de mujeres, niñas, niños, adultos mayores y población indígena.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 13.
 
-Las instituciones hospitalarias públicas del Estado y de los municipios o del sector social y privado así como tienen la obligación de dar atención de urgencia de manera inmediata a las víctimas que lo requieran, con independencia de su capacidad socioeconómica o nacionalidad y sin exigir condición previa para su admisión.
+Las instituciones hospitalarias públicas del Estado y de los municipios o del sector social y privado, tienen la obligación de dar atención de urgencia de manera inmediata a las víctimas que lo requieran, con independencia de su capacidad socioeconómica, nacionalidad y sin exigir condición previa para su admisión.
 
 ###### Artículo 14.
 
@@ -475,13 +473,17 @@ A toda víctima de violación sexual o cualquier otra conducta que afecte su int
 
 En cada uno de los organismos que brinden servicios, asistencia y atención a las víctimas, se dispondrá de personal capacitado en el tratamiento de la violencia sexual con un enfoque transversal de género.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 19.
 
-El Gobierno Estatal, a través del Sistema Estatal de Salud Pública y en coordinación con la Comisión Estatal de Víctimas, expedirán los lineamientos para garantizar, de manera gratuita, los servicios de atención médica preoperatoria, postoperatoria, quirúrgica, hospitalaria y odontológica a que hubiese lugar de acuerdo al concepto médico y valoración, que permita atender lesiones transitorias y permanentes y las demás afectaciones de la salud física y psicológica que tengan relación causal directa con las conductas. Los servicios de salud municipales que cuenten con la infraestructura y la capacidad de prestación de servicios en la materia, se sujetarán a dichos lineamientos.
+El Gobierno Estatal, a través del Sistema Estatal de Salud Pública y en coordinación con la Comisión Estatal de Víctimas, expedirán los lineamientos para garantizar, de manera gratuita, los servicios de atención médica preoperatoria, postoperatoria, quirúrgica, hospitalaria y odontológica a que hubiese lugar de acuerdo al concepto médico y valoración, que permita atender lesiones transitorias y permanentes y las demás afectaciones de la salud física y psicológica que tengan relación causal directa con el delito cometido en contra de la víctima o con la violación a sus derechos humanos. Los servicios de salud municipales que cuenten con la infraestructura y la capacidad de prestación de servicios en la materia, se sujetarán a dichos lineamientos.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 20.
 
-En caso de que la institución médica del Sistema Estatal de Salud a la que acude o sea enviada la víctima no cumpla con lo señalado en los artículos anteriores y sus gastos hayan sido cubiertos por la víctima, la Comisión Ejecutiva, con cargo al Fondo, se los reembolsará de manera completa y expedita, teniendo dicha autoridad el derecho de repetir contra los responsables.
+En caso de que la institución médica del Sistema Estatal de Salud a la que la víctima acuda o sea enviada no cumpla con lo señalado en los artículos anteriores y sus gastos hayan sido cubiertos por la propia víctima, la Comisión Ejecutiva, con cargo al Fondo, se los reembolsará de manera completa y expedita, teniendo dicha autoridad el derecho de repetir contra los responsables.
 
 La acción de repetición tiene el carácter de acción ejecutiva a favor de la Comisión Ejecutiva.
 
@@ -527,9 +529,11 @@ Serán sancionadas administrativa, civil y penalmente, según proceda de conform
 
 En aquellos casos en que la Comisión Ejecutiva identifique la actualización de los supuestos enunciados en el párrafo que precede, realizará, de oficio la denuncia de hechos que corresponda ante la autoridad competente y le dará seguimiento. Cuando el personal implicado sea parte de la Comisión Ejecutiva, además de las sanciones civiles y penales a que haya lugar, procederá la inhabilitación de cinco a diez años para desempeñar cualquier cargo o función pública en el Estado.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 27.
 
-La Procuraduría General de Justicia, emitirá los lineamientos respectivos y elaborará el Programa Estatal de Prevención y Protección de los derechos a la vida, la libertad, la integridad y la seguridad de víctimas, personas defensoras de derechos humanos y servidores públicos, teniendo en cuenta las recomendaciones que al respecto realice la Comisión Ejecutiva. El objetivo del programa será desarrollar los procedimientos y mecanismos de implementación de las medidas de prevención y protección integral contemplados por la presente Ley, así como determinar los ámbitos de competencia estatal y municipal en la materia, y las acciones de coordinación, seguimiento y monitoreo del cumplimiento de dichas acciones.
+La Procuraduría General de Justicia, emitirá los lineamientos respectivos y elaborará el Programa Estatal de Prevención y Protección de los derechos a la vida, la libertad, la integridad y la seguridad de víctimas, personas defensoras de derechos humanos y servidores públicos, teniendo en cuenta las recomendaciones que al respecto realice la Comisión Ejecutiva. El objetivo del programa será desarrollar los procedimientos y mecanismos de implementación de las medidas de prevención y protección integral contemplados por la presente Ley, así como determinar los ámbitos de competencia estatal y municipal en la materia, así como las acciones de coordinación, seguimiento y monitoreo del cumplimiento de dichas acciones.
 
 La Procuraduría General de Justicia llevará un registro de todas las medidas adoptadas y velará porque las acciones adelantadas por otras dependencias o entidades se realicen de forma coordinada, integral y efectiva.
 
@@ -541,13 +545,17 @@ Cuando las mujeres soliciten protección y ésta sea aprobada, se deberán tener
 
 Las medidas de protección podrán extenderse al núcleo familiar siempre que exista amenaza contra sus derechos fundamentales a la vida, la integridad, la libertad y la seguridad personal, de acuerdo a los procedimientos establecidos en el Programa de Prevención y Protección.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 29.
 
-Cuando la Comisión Ejecutiva, las autoridades judiciales, administrativas o el Ministerio Público, tengan conocimiento de situaciones de riesgo o de peligro inminente, remitirán de inmediato la información a la autoridad competente designada de conformidad con el Programa de Prevención y Protección, para que se inicie el procedimiento urgente que proceda conducente a la protección de la víctima.
+Cuando la Comisión Ejecutiva, las autoridades judiciales, administrativas o el Ministerio Público, tengan conocimiento de situaciones de riesgo o de peligro inminente, remitirán de inmediato la información a la autoridad competente designada de conformidad con el Programa de Prevención y Protección, para que se inicie el procedimiento urgente que sea conducente a la protección de la víctima.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 30.
 
-Las medidas adoptadas deberán ser acordes con la amenaza que tratan de conjurar y deberán tener en cuenta la condición de especial vulnerabilidad de las víctimas, así como respetar, en todos los casos, su dignidad y podrán consistir en el otorgamiento d (sic) los siguientes beneficios:
+Las medidas adoptadas deberán ser acordes con la amenaza que tratan de conjurar y deberán tener en cuenta la condición de especial vulnerabilidad de las víctimas, así como respetar, en todos los casos, su dignidad y podrán consistir en el otorgamiento de los siguientes beneficios:
 
 I. Traslado temporal de la víctima a lugar distinto al de su residencia o al de la comisión del delito o de la violación a derechos humanos, asegurando en todo momento su resguardo;
 
@@ -579,25 +587,31 @@ Los servidores públicos que dejen de prestar sus servicios en el Programa de Pr
 
 ### CAPÍTULO OCTAVO. MEDIDAS EN MATERIA DE ASESORÍA JURÍDICA
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 35.
 
-Las autoridades estatales y municipales, brindarán de inmediato a las víctimas información y asesoría completa y clara sobre los recursos y procedimientos judiciales, administrativos o de otro tipo a los cuales ellas tienen derecho para la mejor defensa de sus intereses y satisfacción de sus necesidades, así como sobre el conjunto de derechos de los que son titulares en su condición de víctima. La Comisión Ejecutiva garantizará lo dispuesto en el presente artículo a través de la Asesoría Jurídica Estatal.
+Las autoridades estatales y municipales, brindarán de inmediato a las víctimas información y asesoría legal completa y clara sobre los recursos y procedimientos judiciales, administrativos o de otro tipo a los cuales ellas tienen derecho para la mejor defensa de sus intereses y satisfacción de sus necesidades, así como sobre el conjunto de derechos de los que son titulares en su condición de víctima. La Comisión Ejecutiva garantizará lo dispuesto en el presente artículo a través de la Asesoría Jurídica Estatal.
 
-La información y asesoría deberán brindarse en forma gratuita y por profesionales conocedores de los derechos de las víctimas, garantizándoles a ellas siempre un trato respetuoso de su dignidad y el acceso efectivo al ejercicio pleno y tranquilo de todos sus derechos.
+La información y asesoría deberán brindarse en forma gratuita y por profesionales conocedores de los derechos de las víctimas, garantizándoles, en todo momento, un trato respetuoso de su dignidad y el acceso efectivo al ejercicio pleno y tranquilo de todos sus derechos.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 36.
 
-Además de las funciones y atribuciones que señala esta ley y el Reglamento acerca de la asesoría jurídica, en materia penal, esta comprenderá:
+Además de las funciones y atribuciones que señala esta ley y el Reglamento acerca de la asesoría y representación legal, en materia penal, esta comprenderá:
 
 I. Hacerle saber oportunamente y de manera accesible el delito o delitos que puedan tipificarse, los derechos, medidas de atención y protección con que cuenta, los procedimientos que se pueden seguir, las pruebas requeridas para reclamar sus derechos o hacerlos valer, la importancia de cada una de las actuaciones y la trascendencia jurídica de un avenimiento, en todas las etapas del procedimiento penal hasta su conclusión;
 
 II. Realizar un análisis de las condiciones de la víctima desde el punto de vista jurídico;
 
-III. Contar con el asesoramiento legal para el correcto ejercicio de la acción incidental, cuando se reclame la reparación del daño al responsable o a los terceros obligados por el Código Penal del Estado de Coahuila de Zaragoza y, cuando proceda, el ejercicio de la acción civil reparadora;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+III. Contar con el asesoramiento legal para el correcto ejercicio de la acción incidental, cuando se reclame la reparación del daño al responsable o a los terceros obligados por el Código Nacional de Procedimientos Penales y, cuando proceda, el ejercicio de la acción civil reparadora.
 
-IV. Garantizar la reparación del daño a la víctima del delito, además de los derechos previstos en el Código de Procedimientos Penales, podrán exigir por sí o por conducto del Ministerio Público la restitución de la cosa o, en su caso, el pago del valor correspondiente, al momento de su afectación o perjuicio material; y
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2017)</small>
+
+IV. Garantizar la reparación del daño a la víctima del delito, además de los derechos previstos en el Código Nacional de Procedimientos Penales. Se podrá exigir por sí o por conducto del Ministerio Público, la restitución de la cosa o, en su caso, el pago del valor correspondiente, al momento de su afectación o perjuicio material; y
 
 V. Que el Ministerio Público dicte o solicite desde el inicio de la investigación y durante el ejercicio de la acción penal, las medidas necesarias a efecto de recabar pruebas suficientes para acreditar los daños y perjuicios causados a la víctima u ofendido del delito, incluyendo la fijación del monto de la reparación material y moral, así como solicitar el aseguramiento y embargo precautorio de bienes para ese efecto.
 
@@ -607,9 +621,11 @@ V. Que el Ministerio Público dicte o solicite desde el inicio de la investigaci
 
 Dentro de la política de desarrollo social el Estado, tendrá la obligación de garantizar que toda víctima reciba los beneficios del desarrollo social conforme a sus necesidades, particularmente para atender a las víctimas que hayan sufrido daños graves como consecuencia del hecho victimizante.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 38.
 
-Son derechos para el desarrollo social, la educación, la salud, la alimentación, la vivienda, el disfrute de un medio ambiente sano, el trabajo y la seguridad social y los relativos a la no discriminación en los términos de la Ley para Promover la Igualdad y Prevenir la Discriminación en el Estado de Coahuila de Zaragoza.
+Son derechos para el desarrollo social: la educación, la salud, la alimentación, la vivienda, el disfrute de un medio ambiente sano, el trabajo y la seguridad social y los relativos a la no discriminación en los términos de la Ley para Promover la Igualdad y Prevenir la Discriminación en el Estado de Coahuila de Zaragoza.
 
 ###### Artículo 39.
 
@@ -689,9 +705,13 @@ Cuando se otorguen medidas de rehabilitación se dará un trato especial a los n
 
 ### CAPÍTULO DÉCIMO TERCERO. MEDIDAS DE COMPENSACIÓN
 
+(NOTA: EL 14 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 130/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 46.
 
-La compensación se otorgará por todos los perjuicios, sufrimientos y pérdidas económicamente evaluables que sean consecuencia de de (sic) la violación de derechos humanos o la comisión de delitos considerados como graves, en aquellos casos en que la víctima haya sufrido daño o menoscabo a su libertad o si la víctima directa hubiera fallecido o sufrido un deterioro incapacitante en su integridad física y/o mental, incluyendo el error judicial, de conformidad con lo que establece esta Ley y el Reglamento.
+La compensación se otorgará por todos los perjuicios, sufrimientos y pérdidas económicamente evaluables que sean consecuencia de la violación de derechos humanos o la comisión de delitos, AMBOS CONSIDERADOS COMO GRAVES, en aquellos casos en que la víctima haya sufrido daño o menoscabo a su libertad o si la víctima directa hubiera fallecido o sufrido un deterioro incapacitante en su integridad física y/o mental, incluyendo el error judicial, de conformidad con lo que establece esta Ley y el Reglamento.
 
 ###### Artículo 47.
 
@@ -699,7 +719,9 @@ Estos perjuicios, sufrimientos y pérdidas incluirán, entre otros y como mínim
 
 I. La reparación del daño sufrido en la integridad física de la víctima;
 
-II. La reparación del daño moral sufrido por la víctima o las personas con derecho a la reparación integral, entendiendo por éste, aquellos efectos nocivos de los hechos del caso que no tienen carácter económico o patrimonial y no pueden ser tasados en términos monetarios. El daño moral comprende tanto los sufrimientos y las aflicciones causados a las víctimas directas e indirectas, como el menoscabo de valores muy significativos para las personas y toda perturbación que no sea susceptible de medición pecuniaria;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2017)</small>
+
+II. La reparación del daño moral sufrido por la víctima o las personas con derecho a la reparación integral. Se entiende por daño moral los efectos nocivos de los hechos del caso que no tienen carácter económico o patrimonial y no pueden ser tasados en términos monetarios; comprende tanto los sufrimientos y las aflicciones causados a las víctimas directas e indirectas, como el menoscabo de valores muy significativos para las personas y toda perturbación que no sea susceptible de medición pecuniaria;
 
 III. El resarcimiento de los perjuicios ocasionados o lucro cesante, incluyendo el pago de los salarios o percepciones correspondientes, cuando por lesiones se cause incapacidad para trabajar en oficio, arte o profesión;
 
@@ -717,9 +739,13 @@ El Reglamento establecerá el procedimiento y el monto de gasto comprobable mín
 
 La compensación a las víctimas de los delitos señaladas en el primer párrafo de éste artículo, consistirá en apoyo económico cuya cuantía tomará en cuenta la proporcionalidad del daño y los montos señalados en el artículo 50 de este ordenamiento.
 
+(NOTA: EL 14 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 130/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 48.
 
-Todas las víctimas de violaciones a los derechos humanos serán compensadas, en los términos y montos que determine la resolución que emita en su caso:
+Todas las víctimas de violaciones GRAVES a los derechos humanos serán compensadas, en los términos y montos que determine la resolución que emita en su caso:
 
 I. Un órgano jurisdiccional nacional;
 
@@ -729,9 +755,9 @@ III. Un organismo público de protección de los derechos humanos;
 
 IV. Un organismo internacional de protección de los derechos humanos reconocido por los Tratados Internacionales ratificados por México, cuando su resolución no sea susceptible de ser sometida a la consideración de un órgano jurisdiccional internacional previsto en el mismo tratado en el que se encuentre contemplado el organismo en cuestión.
 
-Lo anterior, sin perjuicio de las responsabilidades civiles, penales y administrativas que los mismos hechos pudieran implicar y conforme lo dispuesto por la presente Ley.
+(NOTA: EL 14 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 130/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-En los casos de víctimas de delitos se estará a lo dispuesto en los montos máximos previstos en el artículo 50.
+La compensación por concepto de violaciones GRAVES a derechos humanos, podrá exigirse sin perjuicio de las responsabilidades civiles, penales y administrativas que los mismos hechos pudieran implicar y conforme lo dispuesto por la presente ley.
 
 ###### Artículo 49.
 
@@ -739,31 +765,39 @@ Cuando se trate de resoluciones judiciales que determinen la compensación a la 
 
 Sólo en caso de que no se actualicen los supuestos anteriores, se estará a lo dispuesto en el artículo 50 de esta Ley.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 50.
 
-El Pleno de la Comisión Ejecutiva correspondiente determinará el monto del pago de una compensación en forma subsidiaria a cargo del fondo respectivo en términos de la presente Ley, así como de las normas reglamentarias correspondientes, tomando en cuenta:
+El Comité Interdisciplinario Evaluador de la Comisión Ejecutiva, determinará el pago de una compensación subsidiaria a cargo del Fondo en los términos de la presente ley, así como de las normas reglamentarias correspondientes, tomando en cuenta:
 
 I. La determinación del Ministerio Público cuando el responsable se haya sustraído de la justicia, haya muerto o desaparecido o se haga valer un criterio de oportunidad;
 
 II. La resolución firme emitida por la autoridad judicial;
 
-La determinación de la Comisión Ejecutiva correspondiente deberá dictarse dentro del plazo de noventa días contados a partir de emitida la resolución correspondiente.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2017)</small>
 
-El monto de la compensación subsidiaria, será hasta de quinientas veces el salario mínimo mensual, ha de ser proporcional a la gravedad del daño sufrido y no podrá implicar el enriquecimiento para la víctima.
+La determinación del Comité Interdisciplinario Evaluador, deberá dictar dentro del plazo de noventa días contados a partir de emitida la resolución correspondiente.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2017)</small>
+
+El monto de la compensación subsidiaria, podrá ser hasta de quinientas veces el salario mínimo mensual y será proporcional a la gravedad del daño sufrido sin que implique, por sí mismo, el enriquecimiento de la víctima.
 
 ###### Artículo 51.
 
 El Estado compensará de forma subsidiaria el daño causado a la víctima de los delitos considerados como graves en el ámbito de su competencia en aquellos casos en que la víctima haya sufrido daño o menoscabo a su libertad, o si la víctima directa hubiera fallecido o sufrido un deterioro incapacitante en su integridad física y/o mental como consecuencia del delito.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 52.
 
-La Comisión Ejecutiva ordenará la compensación subsidiaria cuando la víctima, que no haya sido reparada, exhiba ante ella todos los elementos a su alcance que lo demuestren y presente ante la Comisión sus alegatos. La víctima podrá presentar entre otros:
+La Comisión Ejecutiva ordenará la compensación subsidiaria cuando la víctima que no haya sido reparada, exhiba ante ella todos los elementos a su alcance que lo demuestren y le presente sus alegatos. La víctima podrá presentar entre otros:
 
-I. Las constancias del agente del ministerio público que competa de la que se desprenda que las circunstancias de hecho hacen imposible la consignación del presunto delincuente ante la autoridad jurisdiccional y por lo tanto hacen imposible el ejercicio de la acción penal;
+I. Las constancias del agente del Ministerio Público competente, en las que se desprenda que las circunstancias de hecho hacen imposible la consignación del presunto delincuente ante la autoridad jurisdiccional y, por lo tanto, hacen imposible el ejercicio de la acción penal;
 
-II. La sentencia firme de la autoridad judicial competente, en la que se señalen los conceptos a reparar, y la reparación obtenida de donde se desprendan los conceptos que el sentenciado no tuvo la capacidad de reparar;
+II. La sentencia firme de la autoridad judicial competente en la que se señalen tanto los conceptos a reparar como la reparación obtenida; ello con la finalidad de determinar los conceptos que el sentenciado no tuvo capacidad de reparar;
 
-III. La resolución emitida por autoridad competente u organismo público de protección de los derechos humanos de donde se desprenda que no ha obtenido la reparación del daño, de la persona directamente responsable de satisfacer dicha reparación.
+III. La resolución emitida por autoridad competente u organismos públicos de protección de los derechos humanos de donde se desprenda que no ha obtenido la reparación del daño por parte de la persona directamente responsable de satisfacer dicha reparación.
 
 ###### Artículo 53.
 
@@ -781,7 +815,9 @@ Las medidas de satisfacción comprenden, entre otras y según corresponda:
 
 I. La verificación de los hechos y la revelación pública y completa de la verdad, en la medida en que esa revelación no provoque más daños o amenace la seguridad y los intereses de la víctima, de sus familiares, de los testigos o de personas que han intervenido para ayudar a la víctima o para impedir que se produzcan nuevos delitos o nuevas violaciones de derechos humanos;
 
-II. La búsqueda de las personas desaparecidas y de los cuerpos u osamentas de las personas asesinadas, así como la ayuda para recuperarlos, identificarlos y volver a inhumarlos según el deseo explícito o presunto de la víctima o las prácticas culturales de su familia y comunidad;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2017)</small>
+
+II. La búsqueda de las personas desaparecidas y de los cuerpos u osamentas de las personas asesinadas, así como la ayuda para recuperarlos, identificarlos y volver a inhumarlos según el deseo explícito o presunto de la víctima o sus familiares, así como las prácticas culturales de su familia y comunidad;
 
 III. Una declaración oficial o decisión judicial que restablezca la dignidad, la reputación y los derechos de la víctima y de las personas estrechamente vinculadas a ella;
 
@@ -793,31 +829,33 @@ VI. La realización de actos que conmemoren el honor, la dignidad y la humanidad
 
 ### CAPÍTULO DÉCIMO QUINTO. MEDIDAS DE NO REPETICIÓN
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 56.
 
 Las medidas de no repetición son aquéllas que se adoptan con el fin de evitar que las víctimas vuelvan a ser objeto de violaciones a sus derechos y para contribuir a prevenir o evitar la repetición de actos de la misma naturaleza. Estas consistirán en las siguientes:
 
-I. El ejercicio de un control efectivo por las autoridades civiles de las fuerzas armadas y de seguridad;
+I. Ejercer control efectivo por parte de las autoridades: civiles, de las fuerzas armadas y de seguridad;
 
-II. La garantía de que todos los procedimientos penales y administrativos se ajusten a las normas nacionales e internacionales relativas a la competencia, independencia e imparcialidad de las autoridades judiciales y a las garantías del debido proceso;
+II. Garantizar que todos los procedimientos penales y administrativos se ajusten a las normas locales, nacionales e internacionales relativas a la competencia, independencia e imparcialidad de las autoridades judiciales y a las garantías del debido proceso;
 
-III. El fortalecimiento de la independencia del Poder Judicial;
+III. Fortalecer la independencia de los poderes judiciales local y federal;
 
-IV. La limitación en la participación en el gobierno y en las instituciones políticas de los dirigentes políticos que hayan planeado, instigado, ordenado o cometido graves violaciones de los derechos humanos;
+IV. Limitar la participación en el gobierno y en las instituciones políticas de los dirigentes políticos que hayan planeado, instigado, ordenado o cometido violaciones graves a los derechos humanos;
 
-V. La exclusión en la participación en el gobierno o en las fuerzas de seguridad de los militares, agentes de inteligencia y otro personal de seguridad declarados responsables de planear, instigar, ordenar o cometer graves violaciones de los derechos humanos;
+V. Excluir del gobierno o de las fuerzas de seguridad a militares, agentes de inteligencia y otro personal de seguridad declarados responsables de planear, instigar, ordenar o cometer graves violaciones de los derechos humanos;
 
-VI. La protección de los profesionales del derecho, la salud y la información;
+VI. Proteger a los profesionales del derecho, la salud y la información;
 
-VII. La protección de los defensores de los derechos humanos;
+VII. Proteger a los defensores de los derechos humanos;
 
-VIII. La educación, de modo prioritario y permanente, de todos los sectores de la sociedad respecto de los derechos humanos y la capacitación en esta materia de los funcionarios encargados de hacer cumplir la ley, así como de las fuerzas armadas y de seguridad;
+VIII. Brindar educación, de modo prioritario y permanente, a todos los sectores de la sociedad en materia de derechos humanos, así como la capacitación a los funcionarios encargados de hacer cumplir la ley, de las fuerzas armadas y de los cuerpos de seguridad;
 
-IX. La promoción de la observancia de los códigos de conducta y de las normas éticas, en particular los definidos en normas internacionales de derechos humanos y de protección a los derechos humanos, por los funcionarios públicos incluido el personal de las fuerzas armadas y de seguridad, los establecimientos penitenciarios, los medios de información, el personal de servicios médicos, psicológicos y sociales, además del personal de empresas comerciales;
+IX. Promover la observancia de los códigos de conducta y de las normas éticas, en particular los definidos en normas internacionales de derechos humanos y de protección a los derechos humanos por parte de los funcionarios públicos, incluido el personal de las fuerzas armadas y de seguridad, los establecimientos penitenciarios, los medios de información, el personal de servicios médicos, psicológicos y sociales, así como el personal de empresas comerciales;
 
-X. La promoción de mecanismos destinados a prevenir, vigilar y resolver por medios pacíficos los conflictos sociales, y
+X. Promover mecanismos destinados a prevenir, vigilar y resolver por medios pacíficos los conflictos sociales, y
 
-XI. La revisión y reforma de las leyes, normas u ordenamientos legales que contribuyan a las violaciones manifiestas de las normas internacionales de derechos humanos o las permitan.
+XI. Modificar, en el ámbito de su competencia, las normas del ordenamiento jurídico que propicien violaciones manifiestas de las normas internacionales de derechos humanos.
 
 ###### Artículo 57.
 
@@ -831,19 +869,27 @@ III. Caución de no ofender;
 
 IV. La asistencia a cursos de capacitación sobre derechos humanos, y
 
-V. La asistencia a tratamiento de deshabituación o desintoxicación dictada por un juez y sólo en caso de que la adicción hubiera sido la causa de la comisión del delito o hecho victimizante.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2017)</small>
 
-Se entiende por supervisión de la autoridad, la consistente en la observación y orientación de los sentenciados, ejercidas por personal especializado, con la finalidad de coadyuvar a la protección de la víctima y la comunidad.
+V. La asistencia a tratamiento de deshabituación o desintoxicación dictada por un juez, cuando la adicción hubiera sido la causa de la comisión del delito o hecho victimizante.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2017)</small>
+
+Para efectos de este artículo, se entenderá por supervisión de la autoridad, la observación y orientación de los sentenciados por parte de personal especializado, con la finalidad de coadyuvar a la protección de la víctima y la comunidad.
 
 Esta medida se establecerá cuando la privación de la libertad sea sustituida por otra sanción, sea reducida la pena privativa de libertad o se conceda la suspensión condicional de la pena.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 58.
 
-El juez en la sentencia exigirá una garantía de no ofender que se hará efectiva si el acusado violase las disposiciones del artículo anterior, o de alguna forma reincidiera en los actos de molestia a la víctima. Esta garantía no deberá ser inferior a la de la multa aplicable y podrá ser otorgada en cualquiera de las formas autorizadas por las leyes.
+El juez, en la sentencia, exigirá una garantía de no ofender que se hará efectiva si el acusado violase las disposiciones del artículo anterior o, de forma alguna, reincidiera en los actos de molestia a la víctima. Esta garantía no deberá ser inferior a la de la multa aplicable y podrá ser otorgada en cualquiera de las formas autorizadas por las leyes.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 59.
 
-Cuando el sujeto haya sido sentenciado por delitos o violación a los derechos humanos cometidos bajo el influjo o debido al abuso de sustancias alcohólicas, estupefacientes, psicotrópicos o similares, independientemente de la pena que corresponda, sólo si el juez así lo ordena, se aplicarán cursos y tratamientos para evitar su reincidencia y fomentar su deshabituación o desintoxicación.
+Cuando el sujeto haya sido sentenciado por delitos o violación a los derechos humanos cometidos bajo el influjo de sustancias alcohólicas, estupefacientes, psicotrópicos o similares, independientemente de la pena que corresponda, se podrá ordenar que el sentenciado tomé los cursos y tratamientos idóneos para evitar su reincidencia y fomentar su deshabituación o desintoxicación, sólo si el juez así lo ordena.
 
 ## TÍTULO SEGUNDO. ORGANIZACIÓN Y COMPETENCIA
 
@@ -883,9 +929,25 @@ a. Presidente de la Comisión de los Derechos Humanos del Estado de Coahuila de 
 
 Los integrantes del Sistema Estatal se reunirán en Pleno o en comisiones las cuales se deberán crear por acuerdo de sus integrantes o de conformidad con lo establecido en el Reglamento.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 62.
 
-El Pleno se reunirá por lo menos una vez cada seis meses a convocatoria de la persona titular del Poder Ejecutivo, quien integrará la agenda de los asuntos a tratar y, en forma extraordinaria, cada que una situación urgente así lo requiera. Los integrantes tienen obligación de comparecer a las sesiones.
+El Pleno se reunirá por lo menos una vez cada seis meses. Los integrantes del mismo tienen la obligación de comparecer a las sesiones.
+
+Para el eficiente desarrollo de las actividades atribuidas al Sistema, el Secretario de Gobierno fungirá como Secretario Ejecutivo del mismo; sus responsabilidades por dicho cargo serán las siguientes:
+
+I. Convocar a las sesiones del mismo;
+
+II. Integrar la agenda de los asuntos a tratar o de los asuntos que por su urgencia requieran reuniones extraordinarias;
+
+III. Llevar de manera ordenada y sistematizada, los acuerdos deliberados por el Sistema;
+
+IV. Vigilar y dar seguimiento al cumplimiento, por parte de las autoridades señaladas en el artículo 60 de esta ley, de los acuerdos que emita el Sistema;
+
+V. Servir de enlace entre el Sistema y la Comisión Ejecutiva.
+
+El Secretario de Gobierno en lo que respecta a las atribuciones que señala este artículo, sólo tendrá competencia al interior del Sistema, por lo que no tendrá injerencia en las actividades operativas de cada uno de los integrantes del Sistema o de la Comisión Ejecutiva.
 
 ###### Artículo 63.
 
@@ -895,13 +957,17 @@ El quórum para las reuniones del Sistema Estatal se conformará con la mitad m�
 
 Corresponderá a la persona titular del Poder Ejecutivo la facultad de promover en todo tiempo la efectiva coordinación y funcionamiento del Sistema Estatal. Los integrantes del mismo podrán formular propuestas de acuerdos que permitan el mejor funcionamiento del Sistema.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 65.
 
-La persona titular del Poder Ejecutivo será suplida en sus ausencias por el Secretario de Gobierno. Los integrantes del Sistema Estatal deberán asistir personalmente.
+Los integrantes del Sistema serán suplidos en sus ausencias por su inferior jerárquico, o en su defecto por quien para dicho fin sea designado, adquiriendo las facultades de voz, deliberación y decisión a nombre del poder, dependencia u órgano al que representa.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 66.
 
-Tendrán el carácter de invitados a las sesiones del Sistema Estatal o de las comisiones, las organizaciones de la sociedad civil, los colectivos o grupos de víctimas o las demás instituciones nacionales o extranjeras, que por acuerdo de la Comisión Ejecutiva deban participar en la sesión que corresponda.
+Tendrán el carácter de invitados a las sesiones del Sistema o de las Comisiones, las organizaciones de la sociedad civil, los colectivos o grupos de víctimas o las demás instituciones nacionales o extranjeras que, por acuerdo de la Comisión Ejecutiva, deban participar en la sesión que corresponda.
 
 El Reglamento o la Comisión Ejecutiva establecerán el mecanismo de invitación correspondiente. Los invitados acudirán a las reuniones con derecho a voz pero sin voto.
 
@@ -911,47 +977,81 @@ El Reglamento o la Comisión Ejecutiva establecerán el mecanismo de invitación
 
 Se crea la Comisión Ejecutiva Estatal de Atención a Víctimas que tiene la obligación de atender a las víctimas de delitos del fuero común o de violaciones a derechos humanos cometidos por servidores públicos del orden estatal o municipal. Las víctimas podrán acudir directamente a la Comisión Ejecutiva Federal de Atención a Víctimas cuando no hubieren recibido respuesta dentro de los treinta días naturales siguientes, cuando la atención se hubiere prestado de forma deficiente o cuando se hubiere negado.
 
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2017)</small>
+
+A fin de brindar una mejor atención, la Comisión Ejecutiva podrá dar prioridad a aquellos delitos y violaciones de derechos considerados como graves.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2017)</small>
+
+Se considera que existen violaciones graves a los derechos humanos cuando se presenten las siguientes características: multiplicidad de violaciones comprendidas dentro del fenómeno delictivo; especial magnitud de las violaciones en relación a la naturaleza de los derechos afectados; y una participación importante del Estado, al ser los actos cometidos por agentes estatales o con la aquiescencia, tolerancia o apoyo del Estado.
+
 ###### Artículo 68.
 
 El Gobierno del Estado y los municipios, en el ámbito de sus respectivas competencias, así como los sectores social y privado, deberán coordinarse para establecer los mecanismos de organización, supervisión, evaluación y control de los servicios en materia de atención, protección, ayuda, asistencia, acceso a la justicia, a la verdad y reparación integral a víctimas, previstos en esta Ley.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 69.
 
-La Comisión Ejecutiva es el órgano operativo del Sistema Estatal de Atención a Víctimas en el ámbito local, contará con personalidad jurídica, patrimonio propio y gozará de autonomía técnica y de gestión. El o la titular del Poder Ejecutivo expedirá el Reglamento de esta Ley, el cual establecerá las atribuciones y funciones de la Comisión Ejecutiva.
+La Comisión Ejecutiva es el órgano operativo del Sistema Estatal de Atención y Protección a Víctimas en el ámbito local, la cual se constituirá como un organismo público descentralizado, no sectorizado, de la Administración Pública Estatal; estará dotado de personalidad jurídica, tendrá patrimonio propio y gozará de autonomía técnica y de gestión, así como de autonomía financiera.
+
+La Comisión Ejecutiva establecerá su domicilio principal en la ciudad de Saltillo. Para la eficiente y amplia cobertura de sus servicios en el Estado, establecerá delegaciones con base a los distritos definidos por la Ley Orgánica del Poder Judicial del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2017)</small>
+
+Artículo 69 bis. Constituye el patrimonio de la Comisión Ejecutiva, los siguientes elementos:
+
+I. Los ingresos que perciba conforme a la partida que establezca su presupuesto anual de egresos, así como los que perciba por los servicios que preste en cumplimiento de su objeto o que le correspondan por cualquier otro título legal;
+
+II. Los bienes muebles e inmuebles que el gobierno federal, estatal o municipal, instituciones públicas o privadas, así como personas físicas o morales le destinen u otorguen para el cumplimiento de su objeto;
+
+III. Los intereses, realización de activos, alquileres, rentas, rendimientos, utilidades y frutos de cualquier clase que produzcan sus bienes;
+
+IV. Los subsidios y aportaciones permanentes, periódicas o eventuales que reciba de los gobiernos federal, estatal y municipal y, en general, lo que obtenga de instituciones públicas, privadas o de particulares;
+
+V. Las donaciones, herencias, legados, subsidios y adjudicaciones que se hagan a su favor;
+
+VI. El recurso del Fondo, y de cualquier otro fondo que se constituya a su nombre;
+
+VII. Cualquier bien o ingreso que adquiera por cualquier otro medio legal y;
+
+VIII. Cualquier otro ingreso que le señalen las disposiciones jurídicas aplicables.
 
 ###### Artículo 70.
 
 La Comisión Ejecutiva garantizará la representación y participación directa de las víctimas y organizaciones de la sociedad civil, propiciando su intervención en la construcción de políticas públicas, así como el ejercicio de labores de vigilancia, supervisión y evaluación de las instituciones integrantes del Sistema con el objetivo de garantizar un ejercicio transparente de sus atribuciones.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 71.
 
-A fin de garantizar el acceso efectivo de las víctimas a los derechos, garantías, mecanismos, procedimientos y servicios que establece esta Ley, el Gobierno Estatal contará con un Fondo, una asesoría jurídica y un registro para la atención a víctimas en los términos dispuestos por esta Ley.
+A fin de garantizar el acceso efectivo de las víctimas a los derechos, garantías, mecanismos, procedimientos y servicios que establece esta Ley, el Gobierno Estatal contará con un Fondo, un área de Asesoría Jurídica y un Registro para la Atención a Víctimas en los términos dispuestos por esta ley.
 
-De la Comisión Ejecutiva depende el Fondo, la Asesoría Jurídica y el Registro Estatal de Víctimas.
+De la Comisión Ejecutiva depende el Fondo, el área de Asesoría Jurídica Estatal y el Registro Estatal de Víctimas.
 
-###### Artículo 72.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2017)</small>
 
-La Comisión Ejecutiva estará integrada por cinco comisionados. El Ejecutivo del Estado enviará al Congreso del Estado, previa convocatoria pública, tres propuestas por cada comisionado a elegir. Los Diputados del Congreso del Estado elegirán por el voto de las dos terceras partes de los presentes.
+Artículo. 72. La Comisión Ejecutiva tendrá un titular de la Presidencia, quién será elegido y designado por el Congreso del Estado de entre una terna de candidatos propuestos por el titular del Ejecutivo Local.
 
-Una vez cerrada la convocatoria, deberá publicarse la lista de las propuestas recibidas.
+Para la conformación de la terna señalada en el párrafo anterior, el Ejecutivo realizará una consulta entre las diferentes personas interesadas en ocupar el cargo, con la opinión de grupos representativos de derechos humanos y de la academia. El Ejecutivo integrará la terna para presentarla al Congreso del Estado. El titular de la Presidencia de la Comisión Ejecutiva será elegido con el voto de cuando menos las dos terceras partes de los presentes en la sesión.
 
 ###### Artículo 73.
 
-Para garantizar que en la Comisión Ejecutiva estén representados colectivos de víctimas, especialistas y expertos que trabajen en la atención a víctimas, ésta se conformará en los siguientes términos de las propuestas presentadas al Ejecutivo Estatal:
+(DEROGADO, P.O. 29 DE AGOSTO DE 2017)
 
-I. Tres comisionados especialistas en derecho, psicología, derechos humanos, sociología o especialidades equivalentes con experiencia en la materia de esta Ley, propuestos por universidades públicas, y
-
-II. Dos comisionados representando a colectivos de víctimas, propuestos por organizaciones de la sociedad civil, registradas ante la Secretaría de Relaciones Exteriores, con actividad acreditada en atención a víctimas de al menos dos años, o por los organismos públicos de derechos humanos.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 74.
 
-Para la elección de los comisionados, los Diputados del Congreso del Estado conformarán una Comisión Plural, integrada por los presidentes de las Comisiones de Gobernación, Puntos Constitucionales y Justicia, de la Defensa de los Derechos Humanos, de Seguridad Pública, de Atención a Grupos Vulnerables, de Asuntos Fronterizos, de Desarrollo Social, de Asuntos Municipales y Zonas Metropolitanas, de Atención Ciudadana y de Equidad y Género, que se constituirá en la Comisión responsable de encabezar el proceso de selección y que recibirá las propuestas de comisionados.
+Para la elección del titular de la Presidencia, los Diputados del Congreso del Estado conformarán una comisión plural, integrada por los presidentes de las Comisiones de Gobernación, Puntos Constitucionales y Justicia, de la Defensa de los Derechos Humanos, de Seguridad Pública, de Atención a Grupos Vulnerables, de Asuntos Fronterizos, de Desarrollo Social, de Asuntos Municipales y Zonas Metropolitanas, de Atención Ciudadana y de Equidad y Género, quienes constituirán la Comisión responsable de encabezar el proceso de selección y recibirán la terna para elegir al titular de la Presidencia.
 
 En su conformación, el Poder Ejecutivo y Legislativo, procurarán la representación de las diversas regiones geográficas del Estado, así como de las diversas especializaciones sobre hechos victimizantes.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 75.
 
-Para ser comisionado se requiere:
+Para ser titular de la Presidencia se requiere:
 
 I. Ser ciudadano mexicano;
 
@@ -963,17 +1063,19 @@ IV. No haber ocupado cargo público ni haber desempeñado cargo de dirección na
 
 ###### Artículo 76.
 
-En la elección de los comisionados, deberá garantizarse el respeto a los principios que dan marco a esta Ley, especialmente los de enfoque transversal de género y diferencial.
+(DEROGADO, P.O. 29 DE AGOSTO DE 2017)
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 77.
 
-Los comisionados se desempeñarán en su cargo por cinco años y se renovarán de forma escalonada cada dos años hasta que concluyan su mandato, sin posibilidad de reelección.
+El titular de la Presidencia se desempeñará en su cargo por siete años, con posibilidad de ser ratificado únicamente por otro periodo igual.
 
-Durante el mismo no podrán tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia.
+Durante el mismo, no podrá tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas, académicos, universitarias o de beneficencia.
 
 ###### Artículo 78.
 
-La Comisión Ejecutiva será presidida por un Comisionado quien durará en funciones dos años, renovable por una ocasión y será elegido por los comisionados.
+(DEROGADO, P.O. 29 DE AGOSTO DE 2017)
 
 ###### Artículo 79.
 
@@ -1049,6 +1151,12 @@ XXXIII. Recibir y evaluar los informes rendidos por el titular del Fondo, de la 
 
 XXXIV. Las demás que se deriven de la presente Ley.
 
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2017)</small>
+
+Artículo 79 bis. La Comisión Ejecutiva contará con un Servicio Público de Carrera de Atención a Víctimas, el cual se encargará de regular la normatividad y los procedimientos de selección, ingreso, adscripción, permanencia, promoción, capacitación, prestaciones, estímulos y sanciones de los trabajadores de planta de la Comisión Ejecutiva.
+
+El Servicio Público de Carrera de Atención a Víctimas se regirá por las disposiciones reglamentarias aplicables y por lo que para tal fin se disponga en el Reglamento de esta ley.
+
 ###### Artículo 80.
 
 La Comisión Ejecutiva podrá celebrar convenios de coordinación, colaboración y concertación con las entidades, dependencias e instituciones estatales así como con las entidades e instituciones federales, incluidos los organismos autónomos de protección de los derechos humanos que sean necesarios para el cumplimiento de los fines del Sistema.
@@ -1059,23 +1167,71 @@ En los casos de graves violaciones a los derechos humanos o delitos cometidos co
 
 Estos programas también podrán ser creados por la Comisión Ejecutiva a propuesta de alguno de sus integrantes cuando del análisis de la información con que se cuente se determine que se requiere la atención especial de determinada situación o grupos de víctimas.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 82.
 
-Los diagnósticos que elabore la Comisión Ejecutiva deberán ser situacionales y focalizados a situaciones específicas que se enfrenten en determinado territorio del estado o que enfrentan ciertos grupos de víctimas tales como niños y niñas, indígenas, migrantes, mujeres, personas con discapacidad, de delitos tales como violencia familiar, sexual, secuestro, homicidios o de determinadas violaciones a derechos humanos tales como desaparición forzada, ejecución arbitraria, tortura, tratos crueles, inhumanos o degradantes, detención arbitraria, entre otros.
+Los diagnósticos que elabore la Comisión Ejecutiva deberán focalizarse en situaciones específicas de determinado territorio del estado o de ciertos grupos de víctimas tales como niños y niñas, indígenas, migrantes, mujeres, personas con discapacidad. Igualmente, podrán focalizarse a delitos como violencia familiar, sexual, secuestro, homicidios, así como a determinadas violaciones a derechos humanos, tales como desaparición forzada, ejecución arbitraria, tortura, tratos crueles, inhumanos o degradantes, detención arbitraria, entre otros.
 
 Los diagnósticos servirán de base para crear programas especiales, reorganizar o redireccionar acciones, políticas públicas o leyes que de acuerdo a su naturaleza y competencia llevan a cabo los integrantes del Sistema, así como para canalizar o distribuir los recursos necesarios.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 83.
 
-La Comisión Ejecutiva podrá también contar con la asesoría de grupos de expertos en temas específicos, solicitar opiniones de organismos nacionales o internacionales públicos de derechos humanos, instituciones u organizaciones públicas o privadas nacionales o extranjeros con amplia experiencia en cierta problemática relacionada con la atención, asistencia, justicia; verdad y reparación integral a las víctimas. Los recursos destinados para tal efecto deberán ser públicos, monitoreables y de fácil acceso para la sociedad civil.
+La Comisión Ejecutiva contará con un Consejo Consultivo cuyo objetivo será servir como órgano de consulta del titular de la Presidencia en el desempeño de las actividades y atribuciones contempladas en esta ley y sus disposiciones jurídicas derivadas.
 
-Se deberá procurar en todo momento, además de la especialización técnica y científica, el aporte de los grupos de víctimas y organizaciones de base que trabajen directamente con víctimas.
+El Consejo Consultivo celebrará reuniones ordinarias una vez cada tres meses, así como las extraordinarias que considere necesarias; estará integrado de la siguiente manera:
+
+I. Cuatro representantes de la sociedad civil, colectivos de víctimas u organizaciones civiles locales, nacionales o internacionales, y
+
+II. Tres representantes del servicio público o de centro de docencia o investigación, especialistas en los temas competentes de la Comisión.
+
+Para la designación de los integrantes del Consejo Consultivo, la Comisión correspondiente del Congreso del Estado emitirá una convocatoria pública, invitando a la comunidad en general, haciendo énfasis en las organizaciones públicas o privadas, nacionales o extranjeras con amplia experiencia en problemáticas relacionadas con la atención, asistencia, justicia, verdad y reparación integral de las víctimas, así como instituciones públicas, instituciones académicas y de investigación, para postular candidaturas de personas interesadas en integrar dicho órgano consultor.
+
+Una vez cerrada la convocatoria, se harán públicas las postulaciones recibidas para que el Congreso del Estado en sesión del Pleno elija a los integrantes del Consejo Consultivo, quienes permanecerán en su cargo por un período de cuatro años con posibilidad de ser ratificados por otro periodo igual.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 84.
 
-La Comisión Ejecutiva sesionará al menos una vez a la semana y en sesión extraordinaria, cada que la situación urgente así lo requiera. Los integrantes tienen obligación de comparecer a las sesiones. Si un comisionado no asistiera a las sesiones ordinarias en más de tres ocasiones consecutivas durante un año en forma injustificada será removido de su cargo.
+Para ser integrante del Consejo Consultivo se requiere:
 
-Las determinaciones de la Comisión Ejecutiva se tomarán por la mayoría de los presentes.
+I. Contar con buena reputación;
+
+II. Contar con título profesional equivalente a licenciatura y acreditar conocimientos en materia de derecho, derechos humanos, psicología, trabajo social, sociología, medicina, políticas públicas, o cualquier otra afín a la atención de las víctimas;
+
+III. No desempeñar, ni haber desempeñado cargo alguno de elección popular federal, estatal o municipal, ni de dirección nacional, estatal o municipal en algún partido político durante el año anterior a su designación ni durante el encargo;
+
+IV. No formar parte de la administración pública ya sea estatal, federal o municipal, a menos que se separe de su encargo con tres años de anticipación al día de su nombramiento, y
+
+V. No haber sido condenado por delito doloso que amerite pena de prisión, así como por robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en concepto público, cualquiera que haya sido la pena.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2017)</small>
+
+Artículo 84 bis. El Consejo Consultivo tiene la atribución de solicitar información, conocer y emitir su opinión al Comisionado sobre los siguientes asuntos:
+
+I. Elaboración, implementación, desarrollo, seguimiento y evaluación de todos los programas y políticas públicas implementadas por la Comisión Ejecutiva y las relacionadas con la atención a víctimas de las autoridades del Sistema;
+
+II. Todas las actuaciones del Comisionado y las actuaciones en materia de atención a víctimas de los titulares de las autoridades del Sistema;
+
+III. Interpretación y observancia de cualquier disposición normativa aplicable a la Comisión Ejecutiva;
+
+IV. Los informes de actividades que emitan las áreas, el Comisionado y la Comisión Ejecutiva;
+
+V. Los proyectos de recomendación que emita la Comisión Ejecutiva;
+
+VI. Sobre los casos concretos que la Comisión Ejecutiva o las autoridades del Sistema estén atendiendo o hayan sido resueltos;
+
+VII. Sobre el Presupuesto Anual de Ingresos y Egresos de la Comisión Ejecutiva;
+
+VIII. Cualquier tema que sea sometido a su conocimiento con relación a las competencias de la Comisión Ejecutiva y de las autoridades del Sistema en materia de atención a víctimas;
+
+IX. Cualquier otro asunto que sea competencia de la Comisión Ejecutiva;
+
+X. Las demás que le confiera esta ley, el reglamento de la misma y las demás disposiciones aplicables.
+
+Las observaciones, recomendaciones y opiniones que emita el Consejo Consultivo no tendrán efectos vinculatorios para el titular de la Presidencia y las autoridades del Sistema, pero si deberán ser de conocimiento público.
 
 ###### Artículo 85.
 
@@ -1101,23 +1257,47 @@ IX. Comité de derechos económicos, sociales, culturales y ambientales.
 
 Se podrán establecer también comités por grupo de víctimas tales como niños y niñas, adultos mayores, mujeres, indígenas, migrantes, personas con discapacidad, entre otros.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 86.
 
-Los comités generarán diagnósticos situacionales precisos que les permita evaluar las leyes, políticas públicas o acciones estatales que impiden un acceso efectivo de las víctimas a la atención, asistencia, protección, justicia, verdad o reparación integral. Evaluarán también las políticas de prevención sobre la situación concreta que se evalúa desde una visión de seguridad ciudadana y humana.
+Los comités de la Comisión Ejecutiva generarán diagnósticos situacionales y precisos que les permitan evaluar leyes y políticas públicas, casos concretos o aquellas acciones que impiden un acceso efectivo de las víctimas a la atención, asistencia, protección, justicia, verdad o reparación integral.
 
-Las autoridades están obligadas a entregar toda la información que requieran estos comités para la evaluación y elaboración de los diagnósticos, cuidando la información de carácter privado de las víctimas.
+Salvo el Comité Interdisciplinario Evaluador contemplado en la fracción VIII del artículo 85 de esta ley, los demás comités estarán integrados por las designaciones que para tal efecto haga el titular de la Presidencia, previa opinión del Consejo Consultivo, el que podrá proponer candidaturas para integrarlos.
+
+El Reglamento de la presente ley deberá precisar los requisitos para integrar los comités y las condiciones laborales brindadas para quienes los conformen.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2017)</small>
+
+Artículo 86 bis. El Comité Interdisciplinario Evaluador que establece el artículo 85, fracción VIII de esta ley estará integrado por los titulares del Registro, el área de Asesoría Jurídica, el Fondo, así como por un representante del área encargada directamente de la Atención Inmediata. Este comité contará con las siguientes atribuciones:
+
+I. Deliberar sobre la calidad de víctima de delito o de violación grave de derechos humanos respecto de las personas que hayan solicitado su registro con tal calidad;
+
+II. Recibir la solicitud de acceso al Fondo e integrar al expediente único, la información y los documentos señalados en el artículo 130 de esta ley, con los términos que la misma señale;
+
+III. Realizar los estudios socioeconómicos necesarios para determinar las condiciones de victimización y las necesidades de la víctima en cuestión;
+
+IV. Deliberar sobre el acceso de las víctimas a los recursos del Fondo y determinar los criterios con las cuales se determinará el monto al que acceda;
+
+V. Elaborar y presentar al Comisionado, las constancias y dictámenes emanados de las deliberaciones señaladas en este artículo para someterlos a su firma aprobatoria, y
+
+VI. Las demás que esta ley, el reglamento de la misma y las disposiciones normativas aplicables le confiera.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 87.
 
-El Comisionado Presidente tendrá las siguientes facultades:
+El titular de la Presidencia tendrá las siguientes facultades:
 
 I. Administrar, representar legalmente y dirigir el cumplimiento de las atribuciones de la Comisión Ejecutiva;
 
-II. Convocar, dirigir, coordinar y dar seguimiento a las sesiones que celebre la Comisión Ejecutiva;
+II. (DEROGADA, P.O. 29 DE AGOSTO DE 2017);
 
 III. Crear los lineamientos, mecanismos, instrumentos e indicadores para el seguimiento y vigilancia de las funciones de la Comisión Ejecutiva;
 
-IV. Notificar al titular del ejecutivo estatal los acuerdos asumidos y dar seguimiento a los mismos a través de las sesiones que se celebren;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2017)</small>
+
+IV. Notificar al titular del Ejecutivo Estatal los acuerdos asumidos y dar seguimiento a los mismos;
 
 V. Coordinar las funciones del Registro Estatal de Víctimas, mediante la creación de lineamientos, mecanismos, instrumentos e indicadores para implementar y vigilar el debido funcionamiento de dicho registro;
 
@@ -1127,7 +1307,9 @@ VII. Coordinar las acciones para el cumplimiento de las funciones de la Comisió
 
 VIII. Garantizar el registro de las víctimas que acudan directamente ante la Comisión Ejecutiva a solicitar su inscripción en el Registro Estatal de Víctimas, así como los servicios de ayuda, asistencia, atención, acceso a la justicia, acceso a la verdad y reparación integral que soliciten a través de las instancias competentes, dando seguimiento hasta la etapa final para garantizar el cumplimiento eficaz de las funciones de las instituciones;
 
-IX. Proponer al Pleno de la Comisión Ejecutiva los convenios de colaboración o la contratación de expertos que se requiera para el cumplimiento de sus funciones;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2017)</small>
+
+IX. Celebrar los convenios de colaboración o la contratación de expertos que se requieran para el cumplimiento de sus funciones;
 
 X. Realizar los programas operativos anuales y los requerimientos presupuestales anuales que corresponda a la Comisión Ejecutiva;
 
@@ -1136,6 +1318,62 @@ XI. Aplicar las medidas que sean necesarias para garantizar que las funciones de
 XII. Recabar información que pueda mejorar la gestión y desempeño de la Comisión Ejecutiva, y
 
 XIII. Las demás que se requiera para el eficaz cumplimiento de las funciones de la Comisión Ejecutiva.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2017)</small>
+
+Artículo 87 bis. Para que la Comisión Ejecutiva cumpla de manera eficaz, especializada y coordinada con las facultades que le confiere esta ley, contará con relatorías cuyos mandatos podrán ser:
+
+I. Temáticos. Cuyas tareas tengan por objeto a aquellas víctimas de delitos o violaciones a derechos humanos que por su grado de vulnerabilidad requieran de un enfoque diferencial y especializado;
+
+II. Especiales. Cuyas tareas tengan por objeto aquellos asuntos que sean de tal relevancia que lleguen a trascender en la opinión pública local o nacional y sean competencia de la Comisión;
+
+III. Regionales. Cuyas tareas tengan por objeto un área geográfica determinada dentro del Estado de Coahuila, y
+
+IV. Municipales. Cuyas tareas tengan por objeto alguno de los 38 municipios del Estado de Coahuila.
+
+El titular de la Presidencia, previa consulta con el Consejo Consultivo, decidirá sobre la creación, fusión o disolución de las relatorías de acuerdo a los criterios contenidos en las normas reglamentarias aplicables a la Comisión.
+
+La duración de la titularidad del mandato se decidirá en función de la situación concreta que originó su creación, sin embargo, esta no podrá exceder de cinco años y podrán ser ratificados por otro periodo con un máximo de tiempo igual.
+
+Durante su encargo los titulares de los mandatos no podrán tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas, académicas, universitarias o de beneficencia. En todo caso, los titulares de las relatorías serán perfiles de académicos, profesores, expertos o defensores de reconocido prestigio en los derechos humanos.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2017)</small>
+
+Artículo 87 ter. Son atribuciones de las relatorías, dentro de su área de especialización:
+
+I. Participar en el diálogo entre la Comisión y la sociedad civil;
+
+II. Recopilar información de su área de estudio ante las autoridades del Sistema;
+
+III. Elaborar diagnósticos que evalúen leyes, políticas o acciones estatales relacionadas con la atención a víctimas de delito o violaciones a derechos humanos;
+
+IV. Coadyuvar con los miembros del Sistema, en la elaboración de recomendaciones a fin de proponer soluciones a las problemáticas que se detecten respecto al cumplimiento de esta Ley;
+
+V. Dar seguimiento a las recomendaciones que se emitan e informar al Comisionado sobre el cumplimiento o incumplimiento de las mismas a fin de que éste lo haga del conocimiento de los miembros del Sistema;
+
+VI. Auxiliar en la elaboración del Programa de Atención Integral a Víctimas;
+
+VII. Colaborar con la Comisión en la elaboración de mecanismos para la capacitación, formación, actualización y especialización de funcionarios públicos en materia de atención a víctimas;
+
+VIII. Apoyar en la creación de protocolos generales de actuación, y
+
+IX. Las demás que se deriven de la presente ley, su reglamento y demás disposiciones aplicables a la Comisión.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2017)</small>
+
+Artículo 87 quater. El nombramiento de los titulares de las relatorías se hará por el titular de la Presidencia de la Comisión Ejecutiva. En todo caso, las relatorías que deberán ser permanentes son las siguientes:
+
+I. Relator de los Derechos de las Personas Desaparecidas.
+
+II. Relator de los Derechos de los Grupos Vulnerables.
+
+III. Relator de los Derechos de los Defensores.
+
+IV. Relator de los Derechos de la Libertad de Expresión.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2017)</small>
+
+Artículo 87 quinquies. Los titulares de las relatorías deberán presentar anualmente para su aprobación al Comisionado y al Consejo Consultivo en términos de las disposiciones reglamentarias aplicables su plan de trabajo, así como un informe de las actividades realizadas.
 
 ### CAPÍTULO TERCERO. DE LAS AUTORIDADES COMPETENTES
 
@@ -1221,11 +1459,15 @@ VI. Colaborar en la protección de la integridad física de las víctimas y en l
 
 VII. Las demás que establezcan la presente ley y otras disposiciones aplicables.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 93.
 
-Corresponde al titular de la Secretaría de Desarrollo Social el ejercicio de las atribuciones siguientes:
+Corresponde al titular de la Secretaría de Desarrollo Social, el ejercicio de las atribuciones siguientes:
 
-I. Propiciar las condiciones para el disfrute de las víctimas de los derechos individuales, sociales o colectivos, garantizando su acceso a los programas de desarrollo social;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2017)</small>
+
+I. Propiciar que las víctimas disfruten de los derechos individuales, sociales o colectivos, garantizando su acceso a los programas de desarrollo social.
 
 II. Diseñar y ejecutar una política de protección social dirigida a las víctimas, que sea incluyente y que promueva un desarrollo con equidad y respeto a la diversidad;
 
@@ -1257,17 +1499,51 @@ Corresponde al titular de la Secretaría de las Mujeres el ejercicio de las atri
 
 I. Promover, en el ámbito de su competencia y ante las instancias que correspondan, el desarrollo de metodologías y estrategias para la capacitación y el adiestramiento para el trabajo de las mujeres que sean víctimas;
 
-II. Vigilar que se respeten los tratados internacionales de los que el Estado Mexicano sea parte, en materia de víctimas;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2017)</small>
 
-III. Promover y coadyuvar con las instancias competentes, la realización de acciones tendientes a prevenir, atender y erradicar la violencia contra las mujeres y, específicamente, la violencia familiar, y
+II. Vigilar que se respeten los tratados internacionales de los que el Estado Mexicano sea parte, en materia de derechos de las mujeres víctimas;
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2017)</small>
+
+III. Promover y coadyuvar con las instancias competentes, en la realización de acciones tendientes a prevenir, atender y erradicar la violencia contra las mujeres y, específicamente, la violencia familiar; y
 
 IV. Las demás que establezcan el presente ordenamiento y otras disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 96.
 
-Atribuciones del Sistema para el Desarrollo Integral de la Familia y Protección de Derechos y la Secretaría de Desarrollo Social.
-
 El Sistema para el Desarrollo Integral de la Familia y Protección de Derechos, y la Secretaría de Desarrollo Social en el ámbito de sus respectivas competencias, proporcionarán apoyo de tipo asistencial, social y económico a las víctimas cuando se trate de personas adultas mayores, menores de edad y personas con alguna discapacidad o bien que se encuentren en estado de vulnerabilidad o de escasos recursos económicos. Para cumplir esta obligación deberán establecer una partida especial en su presupuesto.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2017)</small>
+
+Artículo 96 bis. Corresponde al titular del Instituto Estatal de la Defensoría Pública el ejercicio de las atribuciones siguientes:
+
+I. Auxiliar a la Comisión Ejecutiva para brindar el servicio de asesoría jurídica cuando las condiciones materiales y humanas de esta dependencia no le permita brindar el servicio a todos los usuarios atendidos;
+
+II. Auxiliar a la Comisión Ejecutiva para brindar el servicio de asesoría jurídica a las victimas cuyos casos no sean priorizados conforme a lo dispuesto en el artículo 67 de esta ley;
+
+III. Canalizar a las instancias competentes para conocer y atender sus respectivos casos, a las víctimas que se presenten ante él;
+
+IV. Capacitar a sus defensores públicos en los temas relacionados con la atención a víctimas; y
+
+V. Las demás que les señale la presente ley, su reglamento, o demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2017)</small>
+
+Artículo 96 ter. Corresponde al Ministerio Público del Estado:
+
+I. Coadyuvar con la Comisión Ejecutiva y demás dependencias, organizaciones civiles o particulares dedicados a atender a las víctimas que protege esta ley;
+
+II. Brindar las facilidades necesarias para que los asesores de las víctimas cuenten con los elementos necesarios para representarlas jurídicamente;
+
+III. Canalizar a las víctimas que se presenten ante él a las instancias competentes a través de oficio y con las copias de los documentos propios de su caso;
+
+IV. Notificar a las instancias que se encuentren atendiendo víctimas todas diligencias de los casos relativos a las víctimas en cuestión;
+
+V. Capacitar a sus trabajadores en los temas relacionados con la atención a víctimas; y
+
+VI. Las demás que les señale la presente Ley, su reglamento, o demás disposiciones aplicables.
 
 ### CAPÍTULO CUARTO. DEL REGISTRO ESTATAL DE VÍCTIMAS
 
@@ -1501,9 +1777,13 @@ El procedimiento y los elementos a acreditar, se determinarán por la Comisión 
 
 ### CAPÍTULO SEXTO. FONDO DE AYUDA, ASISTENCIA Y REPARACIÓN INTEGRAL
 
+(NOTA: EL 14 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 130/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 114.
 
-El Fondo tiene por objeto brindar los recursos necesarios para la ayuda, asistencia y reparación integral de las víctimas del delito y las víctimas de violaciones a los derechos humanos.
+El fondo tiene por objeto brindar los recursos necesarios para la ayuda, asistencia y reparación integral de las víctimas del delito y las víctimas de violaciones GRAVES a los derechos humanos.
 
 La víctima podrá acceder de manera subsidiaria al Fondo en los términos de esta Ley, sin perjuicio de las responsabilidades y sanciones administrativas, penales y civiles que resulten.
 
@@ -1689,9 +1969,11 @@ Cuando parte del daño sufrido se explique a consecuencia del actuar u omitir de
 
 Cuando el daño haya sido causado por más de un agente y no sea posible identificar la exacta participación de cada uno de ellos, se establecerá una responsabilidad subsidiaria frente a la víctima, y se distribuirá el monto del pago de la indemnización en partes iguales entre todos los cocausantes previo acuerdo de la Comisión Ejecutiva.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 139.
 
-Las medidas de ayuda y asistencia podrán ser de diversa índole, en cumplimiento de las disposiciones de esta Ley y su Reglamento las normas reglamentarias. La reparación integral deberá cubrirse mediante moneda nacional, con la excepción de que se podrá pagar en especie de acuerdo a la resolución dictada por la Comisión Ejecutiva.
+Las medidas de ayuda y asistencia podrán ser de diversa índole, en cumplimiento de las disposiciones de esta Ley y su Reglamento. La reparación integral deberá cubrirse mediante moneda nacional, con la excepción de que se podrá pagar en especie de acuerdo a la resolución dictada por la Comisión Ejecutiva.
 
 ###### Artículo 140.
 
@@ -1703,15 +1985,19 @@ Cuando proceda el pago de la reparación, el fondo registrará el fallo judicial
 
 ### CAPÍTULO NOVENO. DE LA ASESORÍA JURÍDICA ESTATAL DE ATENCIÓN A VÍCTIMAS
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 142.
 
-Se crea en la Comisión Ejecutiva, la Asesoría Jurídica Estatal de Atención a Víctimas, área especializada en asesoría jurídica para víctimas que gozará de independencia técnica y operativa.
+Se crea en la Comisión Ejecutiva, la Asesoría Jurídica Estatal de Atención a Víctimas, área especializada en asesoría jurídica para víctimas; gozará de independencia técnica y operativa. Para fines de este capítulo, se entenderá por asesoría jurídica la garantía del derecho a una defensa y asesoría jurídica adecuada e inmediata, reconocido por el artículo 17 del Código Nacional de Procedimientos Penales.
 
 ###### Artículo 143.
 
 La Asesoría Jurídica estará integrada por asesores jurídicos de atención a víctimas, peritos y profesionistas técnicos de diversas disciplinas que se requieran para la defensa de los derechos de las víctimas.
 
-Contará con una Junta Directiva, un Director General y las unidades administrativas que se requieran para el desempeño de sus funciones, en los términos que señalen las normas reglamentarias aplicables.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2017)</small>
+
+Será dirigida por un Director General quien se auxiliará con las unidades administrativas que se requieran para el desempeño de sus funciones, en los términos que señalen las normas reglamentarias aplicables.
 
 ###### Artículo 144.
 
@@ -1725,7 +2011,9 @@ III. Seleccionar y capacitar a los servidores públicos adscritos a la Asesoría
 
 IV. Designar ante el Ministerio Público Investigador, Salas y Juzgados en materia penal y Visitadurías de la Comisión de los Derechos Humanos del Estado de Coahuila de Zaragoza, cuando menos a un Asesor Jurídico de Atención a Víctimas y al personal de auxilio necesario;
 
-V. Celebrar convenios de coordinación con todos aquellos que pueden coadyuvar en la defensa de los derechos de las víctimas, y
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2017)</small>
+
+V. Coordinar, dar seguimiento y evaluar las acciones en materia de litigio estratégico que la Asesoría Jurídica Estatal determine deben realizarse ante las instancias tanto nacionales como internacionales; y
 
 VI. Las demás que se requiera para la defensa de los derechos de las víctimas.
 
@@ -1747,9 +2035,11 @@ IV. Los indígenas, y
 
 V. Las personas que por cualquier razón social o económica tengan la necesidad de estos servicios.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 146.
 
-Se crea la figura del Asesor Jurídico Estatal de Atención a Víctimas el cual tendrá las funciones siguientes:
+Se crea la figura del Asesor Jurídico Estatal de Atención a Víctimas, el cual tendrá las siguientes funciones:
 
 I. Asistir y asesorar a la víctima desde el primer momento en que tenga contacto con la autoridad;
 
@@ -1759,17 +2049,19 @@ III. Proporcionar a la víctima de forma clara, accesible, oportuna y detallada 
 
 IV. Informar a la víctima, respecto al sentido y alcance de las medidas de protección, ayuda, asistencia, atención, y reparación integral, y, en su caso, tramitarlas ante las autoridades judiciales y administrativas;
 
-V. Dar el seguimiento a todos los trámites de medidas de protección, ayuda, asistencia y atención, que sean necesarias para garantizar la integridad física y psíquica de las víctimas, así como su plena recuperación;
+V. Informar a la víctima sobre la estructura, funcionamiento, ventajas y beneficios del uso de los Medios Alternos de Solución de Controversias, siempre y cuando las leyes aplicables y contexto del caso mismo así lo permitan;
 
-VI. Informar y asesorar a los familiares de la víctima o a las personas que ésta decida, sobre los servicios con que cuenta el Estado para brindarle ayuda, asistencia, asesoría, representación legal y demás derechos establecidos en esta Ley, en los Tratados Internacionales de los que México es parte y demás leyes aplicables;
+VI. Dar el seguimiento a todos los trámites de medidas de protección, ayuda, asistencia y atención, que sean necesarias para garantizar la integridad física y psíquica de las víctimas, así como su plena recuperación;
 
-VII. Llevar un registro puntual de las acciones realizadas y formar un expediente del caso;
+VII. Informar y asesorar a los familiares de la víctima o a las personas que ésta decida, sobre los servicios con que cuenta el Estado para brindarle ayuda, asistencia, asesoría, representación legal y demás derechos establecidos en esta Ley, en los Tratados Internacionales de los que México es parte y demás leyes aplicables;
 
-VIII. Tramitar y entregar copias de su expediente a la víctima, en caso de que ésta las requiera;
+VIII. Llevar un registro puntual de las acciones realizadas y formar un expediente del caso;
 
-IX. Vigilar la efectiva protección y goce de los derechos de las víctimas en las actuaciones del Ministerio Público en todas y cada una de las etapas del procedimiento penal y, cuando lo amerite, suplir las deficiencias de éste ante la autoridad jurisdiccional correspondiente cuando el Asesor Jurídico Estatal de las Víctimas considere que no se vela efectivamente por la tutela de los derechos de las víctimas por parte del Ministerio Público, y
+IX. Tramitar y entregar copias de su expediente a la víctima, en caso de que ésta las requiera;
 
-X. Las demás que se requieran para la defensa integral de los derechos de las víctimas.
+X. Vigilar la efectiva protección y goce de los derechos de las víctimas en las actuaciones del Ministerio Público en todas y cada una de las etapas del procedimiento penal y, cuando lo amerite, suplir las deficiencias de éste ante la autoridad jurisdiccional correspondiente cuando el Asesor Jurídico Estatal de las Víctimas considere que no se vela efectivamente por la tutela de los derechos de las víctimas por parte del Ministerio Público, y
+
+XI. Las demás que se requieran para la defensa integral de los derechos de las víctimas.
 
 ###### Artículo 147.
 
@@ -1787,53 +2079,29 @@ El Asesor Jurídico será asignado inmediatamente por la Comisión Ejecutiva, si
 
 ###### Artículo 148.
 
-El servicio civil de carrera para los Asesores Jurídicos, comprende la selección, ingreso, adscripción, permanencia, promoción, capacitación, prestaciones, estímulos y sanciones. Este servicio civil de carrera se regirá por las disposiciones establecidas en las disposiciones reglamentarias aplicables.
+(DEROGADO, P.O. 29 DE AGOSTO DE 2017)
 
 ###### Artículo 149.
 
-El Director General, los Asesores Jurídicos y el personal técnico de la Asesoría Jurídica Estatal serán considerados servidores públicos de confianza.
+(DEROGADO, P.O. 29 DE AGOSTO DE 2017)
 
 ###### Artículo 150.
 
-La Junta Directiva estará integrada por el Director General de la Asesoría Jurídica Estatal, quien la presidirá, así como por seis profesionales del Derecho de reconocido prestigio, nombrados por la Comisión Ejecutiva, a propuesta del Director General.
-
-Los miembros de la Junta Directiva realizarán sus funciones de manera personal e indelegable y durarán en su cargo tres años y podrán ser reelectos por otros tres.
+(DEROGADO, P.O. 29 DE AGOSTO DE 2017)
 
 ###### Artículo 151.
 
-La Junta Directiva podrá sesionar con un mínimo de cuatro miembros y tomará sus decisiones por mayoría de votos de los miembros presentes. En caso de empate el Director General tendrá voto de calidad.
-
-Las sesiones ordinarias se verificarán cuando menos cada dos meses, sin perjuicio de que puedan convocarse por el Director General o mediante solicitud que a éste formulen por lo menos tres miembros de la Junta Directiva, cuando se estime que hay razones de importancia para ello.
+(DEROGADO, P.O. 29 DE AGOSTO DE 2017)
 
 ###### Artículo 152.
 
-Son las facultades de la Junta Directiva:
+(DEROGADO, P.O. 29 DE AGOSTO DE 2017)
 
-I. Fijar la política y las acciones relacionadas con la Asesoría Jurídica de Atención a las Víctimas;
-
-II. Promover que las instituciones, organismos y asociaciones públicas y privadas contribuyan a la elevación del nivel profesional de los asesores jurídicos, e igualmente se proporcione a la Junta asesoramiento técnico en las áreas o asuntos específicos en que ésta lo requiera;
-
-III. Promover la realización de estudios tendientes a perfeccionar el servicio de Asesoría Jurídica Federal Estatal;
-
-IV. Impulsar la celebración de convenios con los distintos sectores sociales y organismos públicos y privados, en temas como capacitación y apoyo;
-
-V. Aprobar los lineamientos para la selección, ingreso y promoción de los asesores jurídicos de atención a víctimas;
-
-VI. Aprobar las bases generales de organización y funcionamiento de la Asesoría Jurídica Estatal;
-
-VII. Aprobar la propuesta de anteproyecto de presupuesto que se someta a la consideración de la Comisión Ejecutiva;
-
-VIII. Aprobar los lineamientos generales para la contratación de peritos y especialistas en las diversas áreas del conocimiento en que se requieran;
-
-IX. Aprobar el Plan Anual de Capacitación y Estímulos de la Asesoría Jurídica Estatal;
-
-X. Examinar y aprobar los informes periódicos que someta a su consideración el Director General, y
-
-XI. Las demás que le otorgue esta Ley y otras disposiciones jurídicas aplicables.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 153.
 
-El Director General de la Asesoría Jurídica Estatal, será designado por el voto de la mayoría absoluta de la Comisión Ejecutiva y durará tres años en su cargo, pudiendo ser reelecto hasta por tres años más.
+El Director General de la Asesoría Jurídica Estatal será designado por el titular de la Presidencia de la Comisión Ejecutiva.
 
 ###### Artículo 154.
 
@@ -1841,7 +2109,9 @@ El Director General de la Asesoría Jurídica Estatal deberá reunir para su des
 
 I. Ser ciudadano mexicano y estar en pleno ejercicio de sus derechos;
 
-II. Acreditar experiencia de tres años en el ejercicio de la abogacía, relacionada especialmente, con las materias afines a sus funciones; y poseer, al día de la designación, título y cédula profesional de licenciado en derecho, expedido por la autoridad o institución legalmente facultada para ello con antigüedad mínima de cinco años computada al día de su designación, y
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2017)</small>
+
+II. Acreditar experiencia de tres años en el ejercicio de la abogacía, relacionada especialmente con las materias afines a sus funciones y poseer, al día de la designación, título y cédula profesional de licenciado en derecho, con antigüedad mínima de cinco años computada al día de su designación; y
 
 III. Gozar de buena reputación, prestigio profesional y no haber sido condenado por delito doloso con sanción privativa de libertad mayor de un año. Empero, si se tratare de ilícitos como el robo, fraude, falsificación, abuso de confianza u otro que lesione seriamente la reputación de la persona en el concepto público, inhabilitará a ésta para ocupar el cargo cualquiera que haya sido la penalidad impuesta.
 
@@ -1859,7 +2129,9 @@ III. Vigilar que se cumplan todas y cada una de las obligaciones impuestas a los
 
 IV. Proponer a la Junta Directiva las políticas que estime convenientes para la mayor eficacia de la defensa de los derechos e intereses de las víctimas;
 
-V. Proponer a la Comisión Ejecutiva, las sanciones y correcciones disciplinarias que se deban imponer a los Asesores Jurídicos;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2017)</small>
+
+V. Proponer al Comisionado, las sanciones y correcciones disciplinarias que se deban imponer a los Asesores Jurídicos, derivadas de faltas administrativas no graves;
 
 VI. Promover y fortalecer las relaciones de la Asesoría Jurídica Estatal con las instituciones públicas, sociales y privadas que por la naturaleza de sus funciones, puedan colaborar al cumplimiento de sus atribuciones y de manera preponderante con las Asesorías Jurídicas de Atención a Víctimas de la Federación;
 
@@ -1883,9 +2155,11 @@ El incumplimiento de los deberes aquí señalados para los servidores públicos,
 
 Todo particular que ejerza funciones públicas en virtud de mecanismos de concesión, permiso, contratación o cualquier otro medio idóneo, estará sujeto a la presente Ley, con los alcances y limitaciones del ámbito de su competencia. Las obligaciones regirán desde el primer momento en que tenga contacto con la víctima en cumplimento de las medidas a que se refieren esta Ley.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 158.
 
-El incumplimiento a las disposiciones contenidas en este ordenamiento, por parte de los servidores públicos, será sancionado conforme a la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza, sin perjuicio de las demás que resulten.
+El incumplimiento por parte de los servidores públicos a las disposiciones contenidas en este ordenamiento, será sancionado conforme a la Ley General de Responsabilidades Administrativas, sin perjuicio de las demás que resulten.
 
 T R A N S I T O R I O S
 
@@ -2036,3 +2310,37 @@ P.O. 9 DE AGOSTO DE 2016.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 29 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 922.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El titular de la Presidencia de la Comisión Ejecutiva, tendrá la facultad de solicitar al Ejecutivo del Estado, el recurso para la conformación del Fondo Estatal de Ayuda, Asistencia y Reparación Integral para el ejercicio fiscal correspondiente, conforme al presupuesto estatal.
+
+###### ARTICULO TERCERO.
+
+El titular de la Presidencia de la Comisión Ejecutiva, tendrá la facultad de solicitar al Ejecutivo del Estado el recurso para la conformación del Fondo para el Programa Integral de Atención a Familiares de Personas Desaparecidas "PROFADE" para el ejercicio fiscal correspondiente, conforme a la disponibilidad presupuestal.
+
+El Fondo destinado para el “PROFADE'' deberá ser considerado e incrementado conforme al presupuesto que se estableció y autorizo de acuerdo al Convenio Específico de Colaboración en Materia de Transferencia de Recursos para la Ejecución de Acciones del Programa.
+
+###### ARTÍCULO CUARTO.
+
+El titular de la Presidencia de la Comisión Ejecutiva Estatal de Atención a Víctimas, tendrá la facultad de celebrar convenios de colaboración con la Comisión Ejecutiva de Atención a Víctimas para desarrollar diversas actividades.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
+
+###### ARTÍCULO SEXTO.
+
+Quienes a la fecha se encuentren fungiendo como Comisionado Presidente y Comisionados de la Comisión Ejecutiva continuarán desempeñando sus funciones hasta que se designe el titular de la Presidencia conforme a este Decreto. El Ejecutivo del Estado, dentro de los 30 días naturales siguientes a la entrada en vigor de este Decreto, presentará la terna respectiva para que el Congreso del Estado designe al titular de la Presidencia de la Comisión Ejecutiva, a más tardar dentro de los 30 días siguientes. Los actuales Comisionados podrán participar en esta nueva designación del titular de la Presidencia de la Comisión Ejecutiva.
+
+###### ARTÍCULO SÉPTIMO.
+
+El presente Decreto y la presente reforma de Ley no afectarán los derechos laborales de los Comisionados y trabajadores de la Comisión Ejecutiva en tanto sea vigente su respectivo nombramiento.
