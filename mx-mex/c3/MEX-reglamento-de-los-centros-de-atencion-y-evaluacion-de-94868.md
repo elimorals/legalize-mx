@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-los-centros-de-atencion-y-evaluacion-de-94868"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-06-20"
-last_updated: "2013-06-20"
+last_updated: "2017-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94868&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 REGLAMENTO DE LOS CENTROS DE ATENCIÓN Y EVALUACIÓN DE EDUCACIÓN MEDIA SUPERIOR Y SUPERIOR A DISTANCIA DE LA UNIVERSIDAD DIGITAL DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE AGOSTO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el jueves 20 de junio de 2013.
 
@@ -242,3 +242,17 @@ LIC. BENJAMÍN VALDÉS PLATA
 RECTOR DE LA UNIVERSIDAD DIGITAL DEL ESTADO DE MÉXICO Y SECRETARIO EJECUTIVO DEL CONSEJO DIRECTIVO
 
 (RUBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 29 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DE LOS CENTROS DE ATENCIÓN Y EVALUACIÓN DE EDUCACIÓN MEDIA SUPERIOR Y SUPERIOR A DISTANCIA DE LA UNIVERSIDAD DIGITAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO: Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO: El presente Reglamento entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+TERCERO: Se abroga el Reglamento de los Centros de Atención y Evaluación de la Universidad Digital del Estado de México, publicado en el Periódico Oficial "Gaceta del Gobierno" el 20 de junio de 2013.
+
+CUARTO: Las autoridades administrativas procederán a hacer explícita la igualdad de género cuando se refiere a personas y a órganos de la Institución.
