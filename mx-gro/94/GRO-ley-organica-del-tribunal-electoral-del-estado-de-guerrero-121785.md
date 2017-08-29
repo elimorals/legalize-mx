@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-tribunal-electoral-del-estado-de-guerrero-1217
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-06-02"
-last_updated: "2017-06-02"
+last_updated: "2017-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121785&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE GUERRERO NÚMERO 457
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2017.
 
 Ley publicada en el Alcance II del Periódico Oficial del Gobierno del Estado de Guerrero, el viernes 2 de junio de 2017.
 
@@ -963,6 +963,26 @@ Los servidores públicos del Tribunal deberán reunir los requisitos que para ta
 
 El Tribunal contará con la estructura orgánica que se establezca en el Reglamento Interior con base en la disposición presupuestal autorizada.
 
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2017)</small>
+
+Durante los años de los procesos electorales o durante los periodos de procesos electorales extraordinarios, tomando en cuenta que todos los días y horas son hábiles, las vacaciones podrán diferirse o pagarse a elección del servidor. En ningún caso se podrán acumular las vacaciones correspondientes a más de dos años.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2017)</small>
+
+Durante el tiempo que transcurra entre dos procesos electorales, los servidores del Tribunal Electoral gozarán de descanso los días sábados y domingos, además de los que establece la Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2017)</small>
+
+Los servidores del Tribunal Electoral estarán obligados a prestar sus servicios sin horario determinado, tomando en cuenta que durante los procesos electorales todos los días y horas son hábiles.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2017)</small>
+
+Durante los procesos electorales, no se pagarán horas extras, pero se preverán en el presupuesto las compensaciones extraordinarias que deban otorgarse a los servidores del Tribunal, de acuerdo con los horarios y cargas de trabajo que hubiesen desahogado.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2017)</small>
+
+Cuando existan conflictos o diferencias laborales entre los servidores y el Tribunal, para la resolución de los mismos, se estará a lo establecido en la Ley del Sistema de Medios de Impugnación en Materia Electoral del Estado de Guerrero.
+
 ### CAPÍTULO II. SERVICIO PROFESIONAL DE CARRERA
 
 ###### ARTÍCULO 67.
@@ -1060,3 +1080,17 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. FLORENCIO SALAZAR ADAME.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 475 POR EL QUE SE ADICIONAN LOS PÁRRAFOS CUARTO A OCTAVO DEL ARTÍCULO 66 DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE GUERRERO NÚMERO 457”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero.
+
+SEGUNDO. Remítase al Gobernador Constitucional del Estado de Guerrero, para los efectos legales conducentes.
+
+TERCERO. Comuníquese a las autoridades electorales competentes para su conocimiento y efectos legales conducentes.
+
+CUARTO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero para el conocimiento general.
