@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-educacion-del-estado-de-mexico-81319"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-06"
-last_updated: "2017-03-28"
+last_updated: "2017-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE AGOSTO DE 2017.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Estado de México, el viernes 6 de mayo de 2011.
 
@@ -157,11 +157,11 @@ Además de los términos anteriores serán aplicables en el Sistema Educativo Es
 
 #### SECCIÓN PRIMERA. DEL DERECHO A LA EDUCACIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 11 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 6.
 
-En el Estado de México toda persona tiene derecho a recibir educación de calidad y, por lo tanto, las mismas oportunidades de acceso al Sistema Educativo con sólo satisfacer los requisitos que establezcan las disposiciones generales aplicables.
+En el Estado de México toda persona tiene derecho a recibir educación de calidad en condiciones de equidad y, por lo tanto, las mismas oportunidades de acceso, tránsito y permanencia en el Sistema Educativo con solo satisfacer los requisitos que establezcan las disposiciones generales aplicables.
 
 > <small>(ADICIONADO, G.G. 20 DE AGOSTO DE 2012)</small>
 
@@ -209,11 +209,19 @@ En ningún caso se podrá condicionar la inscripción, el acceso a la escuela, l
 
 La educación que el Estado imparta promoverá la participación activa del educando, estimulando su iniciativa y su sentido de responsabilidad social en un entorno que fomente la libertad y la democracia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE AGOSTO DE 2017)</small>
+
 ###### Artículo 11.
 
-La educación que el Estado imparta será equitativa, por lo que las autoridades educativas tomarán medidas tendientes a generar condiciones que permitan el ejercicio pleno de este derecho, para lograr una efectiva igualdad en oportunidades de acceso, permanencia y conclusión de los diversos niveles que integran el Sistema Educativo.
+La educación que el Estado imparta será equitativa, por lo que las autoridades educativas tomarán medidas tendientes a generar condiciones que permitan el ejercicio pleno de este derecho, para lograr una efectiva igualdad en oportunidades de acceso, tránsito, permanencia y conclusión de los diversos niveles que integran el Sistema Educativo.
 
-La educación se ofrecerá en igualdad de condiciones y circunstancias a las mujeres y a los hombres sin discriminación alguna de raza, edad, religión, estado civil, orientación sexual, ideología, grupo social, lengua, discapacidad, forma de vida y cualquiera otra forma de discriminación.
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2017)</small>
+
+Dichas medidas estarán dirigidas, de manera preferente, a quienes pertenezcan a grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales, en términos de lo dispuesto en la Ley General y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2017)</small>
+
+La educación se ofrecerá en igualdad de condiciones y circunstancias a las mujeres y a los hombres sin discriminación alguna de raza, edad, religión, estado civil, orientación sexual, ideología, grupo social, lengua, discapacidad, forma de vida y cualquier otra forma de discriminación.
 
 ###### Artículo 12.
 
@@ -222,6 +230,10 @@ Para cumplir con lo dispuesto en el artículo anterior, las autoridades educativ
 I. Atender de manera preferente a las escuelas ubicadas en localidades y regiones con mayor rezago educativo o que enfrenten condiciones económicas y sociales de desventaja;
 
 II. Desarrollar programas de apoyo a los maestros que presten sus servicios en localidades y regiones con mayor rezago educativo, para propiciar su arraigo en estas comunidades, así como para fomentar y generar las condiciones para su capacitación, actualización y superación profesional;
+
+> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2017)</small>
+
+II Bis. Desarrollar bajo el principio de inclusión, programas de capacitación, asesoría y apoyo a los maestros que atiendan alumnos con discapacidad y con aptitudes sobresalientes en términos de lo dispuesto por la presente Ley.
 
 III. Promover la prestación de servicios educativos que apoyen en forma permanente el aprendizaje y el aprovechamiento de los educandos;
 
@@ -252,6 +264,14 @@ XI. Diseñar modelos educativos complementarios que permitan diversificar la ofe
 > <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
 
 XII. Promover, en su caso, en coordinación con otras dependencias y con la participación de la sociedad, programas de ayuda alimenticia, campañas de salud y demás medidas que tiendan a garantizar la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos;
+
+> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2017)</small>
+
+XII Bis. Garantizar el acceso a la educación básica y media superior, aun cuando los solicitantes carezcan de documentos académicos o de identidad, esta obligación se tendrá por satisfecha con el ofrecimiento de servicios educativos de calidad.
+
+Las autoridades educativas ofrecerán opciones que faciliten la obtención de los documentos referidos, así como en el caso de la educación básica y media superior, la ubicación por grado, ciclo escolar o nivel educativo que corresponda, conforme a la edad, desarrollo evolutivo, cognoscitivo y madurez, y en su caso, saberes que previa evaluación demuestren los educandos.
+
+Las autoridades educativas promoverán acciones similares para el caso de la educación superior.
 
 > <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
 
@@ -477,6 +497,10 @@ Son atribuciones exclusivas de la Autoridad Educativa Estatal las siguientes:
 
 I. Prestar los servicios de educación inicial, básica incluyendo la indígena y la especial, así como la normal y demás para la formación de maestros;
 
+> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2017)</small>
+
+I Bis. Vigilar que las autoridades escolares, para el caso de los estudios de educación básica, cumplan con las normas de control escolar, las cuales deberán facilitar la inscripción, reinscripción, promoción, regularización, acreditación y certificación de estudios de los educandos a los que se refiere la Ley General.
+
 II. Proponer a la Autoridad Educativa Federal los contenidos regionales que hayan de incluirse en los planes y programas de estudio para la educación básica, la normal y demás para la formación de maestros;
 
 III. Ajustar el calendario escolar para la educación básica, la normal y demás para la formación de maestros, con respecto al calendario fijado por la Autoridad Educativa Federal, cuando ello resulte necesario para atender requerimientos específicos del Estado. Dicho calendario deberá contener doscientos días de clase para los educandos y será publicado en el Periódico Oficial "Gaceta del Gobierno";
@@ -517,7 +541,17 @@ I. Promover y prestar servicios educativos, distintos de los previstos en las fr
 
 II. Determinar y formular planes y programas de estudio, distintos a los previstos en la fracción I del artículo 12 de la Ley General:
 
-III. Otorgar equivalencias y revalidar estudios, distintos de los mencionados en la fracción V del artículo anterior, de acuerdo con los lineamientos generales que se expidan;
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2017)</small>
+
+III. Revalidar y otorgar equivalencias de estudios, distintos de los mencionados en la fracción V del artículo anterior, de acuerdo con los lineamientos generales que la Autoridad Educativa Federal expida. Asimismo, podrán autorizar o delegar, según sea el caso, que las instituciones particulares con reconocimiento de validez oficial de estudios y las instituciones públicas que en sus regulaciones no cuenten con la facultad expresa, otorguen revalidaciones y equivalencias parciales de estudios respecto de los planes y programas que impartan, de acuerdo con los lineamientos generales que la Autoridad Educativa Federal expida en términos del artículo 63 de la Ley General.
+
+Las autoridades educativas que otorguen las referidas autorizaciones podrán revocarlas cuando se presente algún incumplimiento que en términos de los mencionados lineamientos amerite dicha sanción. Lo anterior con independencia de las infracciones que pudieran configurarse, en términos de lo previsto en la Ley General.
+
+Las constancias de revalidación y equivalencia de estudios deberán ser registradas en el Sistema de Información y Gestión Educativa, en los términos que establezca la Autoridad Educativa Federal.
+
+> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2017)</small>
+
+III Bis. Suscribir los acuerdos y convenios que faciliten el tránsito nacional e internacional de estudiantes, así como promover la suscripción de tratados en la materia.
 
 IV. Otorgar, negar y retirar el reconocimiento de validez oficial a estudios distintos de los de preescolar, primaria, secundaria, normal y demás para la formación de maestros que impartan los particulares;
 
@@ -609,9 +643,9 @@ XV. Prestar en forma coordinada con las autoridades educativas federal y municip
 
 XVI. Distribuir en forma oportuna, completa y eficiente los libros de texto gratuitos y demás materiales educativos complementarios;
 
-> <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE AGOSTO DE 2017)</small>
 
-XVII. Publicar, previo al inicio de cada ciclo escolar, en el periódico oficial "Gaceta del Gobierno", la relación de las instituciones a las que se haya concedido autorización o reconocimiento de validez oficial de estudios. Asimismo, publicar la de aquéllas a las que se les revoque o retire la autorización o el reconocimiento respectivo.
+XVII. Publicar, previo al inicio de cada ciclo escolar, en el periódico oficial "Gaceta del Gobierno" y en su portal electrónico, la relación de las instituciones a las que se haya concedido autorización o reconocimiento de validez oficial de estudios, así como de aquellas a las que se haya autorizado a revalidar o equiparar estudios. Asimismo, publicar oportunamente y en cada caso, la inclusión o la supresión en dicha lista de las instituciones a las que se otorguen, revoquen o retiren las autorizaciones o reconocimientos respectivos.
 
 De igual manera indicará en dicha publicación los nombres de los educadores que obtengan resultados suficientes, una vez que aplique las evaluaciones, que dentro del ámbito de sus atribuciones y de conformidad con lo dispuesto por la Ley General de Educación, este ordenamiento y demás disposiciones aplicables, les correspondan.
 
@@ -727,9 +761,13 @@ LI. Vigilar que cada institución educativa del Estado realice, las acciones nec
 
 LII. Detectar, atender, denunciar de inmediato ante la autoridad escolar, administrativa o ministerial competente y sancionar, los hechos de violencia, intimidación, hostigamiento, discriminación, difamación y cualquier otra manifestación que constituya acoso entre estudiantes, incluyendo aquellos que se comprometan por medios telefónicos, electrónicos o informáticos y sobre los que hayan sido testigos o hayan sido informados;
 
-> <small>(ADICIONADA, G.G. 8 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2017)</small>
 
-LIII. Las demás que con tal carácter establezcan la Ley General, esta Ley y otras disposiciones aplicables.
+LIII. Otorgar las constancias de estudios a los alumnos para asegurar la continuidad de estudios.
+
+> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2017)</small>
+
+LIV. Las demás que con tal carácter establezcan la Ley General, esta Ley y otras disposiciones aplicables.
 
 #### SECCIÓN TERCERA. DE LAS ATRIBUCIONES DE LA AUTORIDAD EDUCATIVA MUNICIPAL
 
@@ -1677,6 +1715,10 @@ La educación básica que se integra con los niveles de educación preescolar, p
 
 La educación básica aportará a los educandos las competencias necesarias para el aprendizaje de las matemáticas, del español, de las ciencias, de un segundo idioma, el desarrollo de la educación física, artística y la utilización de las tecnologías de la información y la comunicación.
 
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2017)</small>
+
+La educación básica en sus tres niveles, impulsará las adaptaciones requeridas para responder a las características lingüísticas y culturales de cada uno de los diversos grupos indígenas del país, así como de la población rural dispersa y grupos migratorios. Para el caso de los servicios educativos correspondientes a los tipos medio superior y superior, las autoridades educativas promoverán acciones similares.
+
 (REUBICADO [N. DE E. ANTES ARTÍCULO 55], G.G. 25 DE ABRIL DE 2014)
 
 ###### Artículo 101.
@@ -1763,27 +1805,23 @@ APARTADO SEGUNDO
 
 DE LA EDUCACIÓN ESPECIAL
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 65], G.G. 25 DE ABRIL DE 2014) (REFORMADO, G.G. 11 DE MARZO DE 2014)
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 111.
 
-La educación especial está destinada a personas con discapacidad transitoria o definitiva, así como aquellas con aptitudes sobresalientes. Atenderá a los educandos de manera adecuada a sus propias condiciones, con equidad social incluyente y con perspectiva de género. Para tal efecto, la Autoridad Educativa Estatal, en el ámbito de su competencia, destinará recursos, de acuerdo con la disponibilidad presupuestal.
+La educación especial tiene como propósito identificar, prevenir y eliminar las barreras que limitan el aprendizaje y la participación plena y efectiva en la sociedad de las personas con discapacidad, con dificultades severas de aprendizaje, de conducta o de comunicación, así como aquellas con aptitudes sobresalientes. Atenderá a los educandos de manera adecuada a sus propias condiciones, estilos y ritmos de aprendizaje, en un contexto educativo incluyente, que se debe basar en los principios de respeto, equidad, no discriminación, igualdad sustantiva y perspectiva de género.
 
-La educación especial incluye la orientación a los padres o tutores, así como también a los maestros y personal de escuelas de educación básica y media superior regulares que integren a los alumnos con necesidades especiales de educación.
+Para tal efecto, la Autoridad Educativa Estatal, en el ámbito de su competencia, destinará recursos, de acuerdo con la disponibilidad presupuestal.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 66], G.G. 25 DE ABRIL DE 2014) (REFORMADO, G.G. 11 DE MARZO DE 2014)
+La educación especial deberá incorporar los enfoques de inclusión e igualdad sustantiva. Esta educación incluye la capacitación y orientación a los padres o tutores, así como también a los maestros y personal de escuelas de educación básica y media superior regulares que integren a los alumnos con discapacidad, con dificultades severas de aprendizaje, de comportamiento o de comunicación, o bien con aptitudes sobresalientes.
+
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 112.
 
-Tratándose de menores de edad con discapacidad, esta educación propiciará su integración a los planteles de educación básica regular, mediante la aplicación de métodos, técnicas y materiales específicos. Para quienes no logren esa integración, esta educación procurará la satisfacción de necesidades básicas de aprendizaje para la autónoma convivencia social y productiva, para lo cual se elaborarán programas y materiales de apoyo didácticos necesarios.
+Tratándose de menores de edad con discapacidad, con dificultades severas de aprendizaje, de conducta o de comunicación, se favorecerá su atención en los planteles de educación básica, sin que esto cancele su posibilidad de acceder a las diversas modalidades de educación especial atendiendo a sus necesidades. Se realizarán ajustes razonables y se aplicarán métodos, técnicas, materiales específicos y las medidas de apoyo necesarias para garantizar la satisfacción de las necesidades básicas de aprendizaje de los alumnos y el máximo desarrollo de su potencial para la autónoma integración a la vida social y productiva. Las instituciones educativas del Estado promoverán y facilitarán la continuidad de sus estudios en los niveles de educación media superior y superior.
 
-> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
-
-Las niñas, niños y adolescentes a que se refiere el párrafo anterior deberán contar con las instalaciones y material didáctico adecuados a su condición, por lo que se llevarán a cabo las habilitaciones físicas correspondientes. La integración de los grupos se hará con el número de educandos que permita darles una atención especializada.
-
-> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2015)</small>
-
-Las autoridades educativas fomentarán la inclusión de la enseñanza del sistema de escritura braille y lenguaje de señas, así como la producción y distribución de textos gratuitos en sistema de escritura braille, macrotipos y textos audibles que complementen los conocimientos de las niñas, niños y adolescentes con discapacidad.
+La formación y capacitación de maestros promoverá la educación inclusiva y desarrollará las competencias necesarias para su adecuada atención.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 67], G.G. 25 DE ABRIL DE 2014) (REFORMADO, G.G. 11 DE MARZO DE 2014)
 
@@ -2329,25 +2367,43 @@ Los particulares que presten servicios por los que se impartan estudios que no r
 
 Compete en forma exclusiva a la Autoridad Educativa Estatal otorgar equivalencias y revalidaciones de estudios de educación básica, normal y demás para la formación de maestros de educación básica, y de manera concurrente con la Autoridad Educativa Federal, respecto de estudios de educación media superior y superior conforme a las especificaciones siguientes:
 
-I. Los estudios realizados dentro del Sistema Educativo Nacional podrán, en su caso, declararse equivalentes con los realizados dentro del Sistema Educativo, por niveles educativos, grados escolares, asignaturas u otras unidades de aprendizaje, según lo establezca la normatividad respectiva;
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2017)</small>
 
-II. Los estudios realizados fuera del Sistema Educativo Nacional podrán adquirir validez oficial, mediante su revalidación, siempre y cuando sean equiparables con los autorizados en el Estado;
+I. Los estudios realizados dentro del Sistema Educativo Nacional podrán, en su caso, declararse equivalentes entre sí por niveles educativos, grados o ciclos escolares, créditos académicos, asignaturas u otras unidades de aprendizaje., según lo establezca la normatividad respectiva, la cual deberá facilitar el tránsito de educandos en el Sistema Educativo Nacional.
+
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2017)</small>
+
+II. Los estudios realizados fuera del Sistema Educativo Nacional podrán adquirir validez oficial mediante su revalidación, para lo cual deberá cumplirse con las normas y criterios generales que determine la Autoridad Educativa Federal, conforme a lo previsto en el artículo 63 de la Ley General.
 
 III. La Autoridad Educativa Estatal otorgará equivalencias y revalidaciones únicamente cuando estén referidas a planes y programas de estudio que se impartan en el Estado;
 
-IV. Las equivalencias y revalidaciones otorgadas en términos del presente artículo tendrán validez en toda la República, de acuerdo con lo dispuesto en el último párrafo del artículo 63 de la Ley General;
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2017)</small>
+
+IV. Las equivalencias y revalidaciones otorgadas en términos del presente artículo tendrán validez en toda la República, de acuerdo con lo dispuesto en el artículo 63 de la Ley General.
 
 V. Para el caso de la educación media superior, deberá considerarse el reconocimiento de la portabilidad de estudios y el libre tránsito de educandos entre subsistemas de este tipo, en los casos en que proceda; y
 
 VI. La reglamentación respectiva señalará los requisitos específicos que deban cumplirse para la acreditación de los conocimientos adquiridos.
 
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2017)</small>
+
+Las autoridades educativas e instituciones que otorguen revalidaciones y equivalencias promoverán la simplificación de dichos procedimientos, atendiendo a los principios de celeridad, imparcialidad, flexibilidad y asequibilidad. Además, promoverán la utilización de mecanismos electrónicos de verificación de autenticidad de documentos expedidos fuera y dentro del Sistema Educativo Nacional.
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2017)</small>
+
+Las autoridades educativas podrán autorizar o delegar, según sea el caso, que las instituciones particulares con reconocimiento de validez oficial de estudios y las instituciones públicas que en sus regulaciones no cuenten con la facultad expresa, otorguen revalidaciones y equivalencias parciales de estudios respecto de los planes y programas que impartan, de acuerdo con los lineamientos generales que expida la Autoridad Educativa Federal.
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2017)</small>
+
+Las autoridades educativas podrán revocar las referidas autorizaciones, cuando se presente algún incumplimiento que en términos de los mencionados lineamientos amerite dicha sanción. Lo anterior con independencia de las infracciones que pudieran configurarse, en términos de lo previsto en la Ley General.
+
 #### SECCIÓN SEGUNDA. DE LA CERTIFICACIÓN DE ESTUDIOS
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 125], G.G. 25 DE ABRIL DE 2014)
+(REFROMADO, G.G. 29 DE AGOSTO DE 2017)
 
 ###### Artículo 171.
 
-Las instituciones del Sistema Educativo expedirán certificados y otorgarán constancias, diplomas, títulos o grados académicos a las personas que hayan concluido estudios, de conformidad con los requisitos establecidos en los planes y programas correspondientes; y éstos, tendrán validez en toda la República, en términos de lo dispuesto en el artículo 60 de la Ley General.
+Las instituciones del Sistema Educativo expedirán certificados y otorgarán constancias, diplomas, títulos o grados académicos a las personas que hayan concluido estudios, de conformidad con los requisitos establecidos en los planes y programas correspondientes. Dichos certificados, constancias, diplomas, títulos y grados deberán registrarse en el Sistema de Información y Gestión Educativa y tendrán validez en toda la República, en términos de lo dispuesto en la Ley General.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 126], G.G. 25 DE ABRIL DE 2014)
 
@@ -2893,7 +2949,7 @@ SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a
 
 G.G. 28 DE MARZO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 196.- POR EL QUE SE REFORMA LA FRACCIÓN XXI DEL ARTÍCULO 27 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 196.- POR EL QUE SE REFORMA LA FRACCIÓN XXI DEL ARTÍCULO 27 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2922,3 +2978,15 @@ La Legislatura del Estado, al aprobar el presupuesto de egresos de cada ejercici
 ###### ARTÍCULO SÉPTIMO.
 
 El apoyo al que accederán los beneficiarios del Programa Beca Salario, se realizará considerando la suficiencia presupuestal, con base en lo establecido en las reglas de operación que para efecto se emita.
+
+G.G. 29 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 224.- POR EL QUE SE REFORMAN EL PÁRRAFO PRIMERO DEL ARTÍCULO 6, LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 11, LA FRACCIÓN III DEL ARTÍCULO 25, LAS FRACCIONES XVII Y LIII DEL ARTÍCULO 27, EL ARTÍCULO 111, EL ARTÍCULO 112, LAS FRACCIONES I, II Y IV DEL ARTÍCULO 170, EL ARTÍCULO 171 Y SE ADICIONAN EL PÁRRAFO TERCERO AL ARTÍCULO 11, LAS FRACCIONES II BIS Y XII BIS AL ARTÍCULO 12, LA FRACCIÓN I BIS AL ARTÍCULO 24, LA FRACCIÓN III BIS AL ARTÍCULO 25, LA FRACCIÓN LIV AL ARTÍCULO 27, EL PÁRRAFO TERCERO AL ARTÍCULO 100, LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO AL ARTÍCULO 170, DE LA LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Con base en lo dispuesto en la fracción XII Bis del artículo 12, contenida en el presente Decreto, la autoridad educativa podrá coordinarse con otras instituciones para implementar planes de emergencia y acciones afirmativas dirigidos a atender a las personas en situación de vulnerabilidad a las que se refiere el párrafo segundo del artículo 11.
+
+CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
