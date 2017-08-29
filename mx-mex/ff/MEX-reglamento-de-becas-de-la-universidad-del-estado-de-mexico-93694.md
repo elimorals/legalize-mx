@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-becas-de-la-universidad-del-estado-de-mexico-9369
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-04-12"
-last_updated: "2013-04-12"
+last_updated: "2017-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,17 +21,19 @@ state: "MEX"
 ---
 # REGLAMENTO DE BECAS DE LA UNIVERSIDAD DEL ESTADO DE MEXICO
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL REGLAMENTO DE BECAS DE LA UNIVERSIDAD DIGITAL DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 29 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE BECAS DE LA UNIVERSIDAD DIGITAL DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 29 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 REGLAMENTO DE BECAS DE LA UNIVERSIDAD DIGITAL DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE AGOSTO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el viernes 12 de abril de 2013.
 
 EL CONSEJO DIRECTIVO DE LA UNIVERSIDAD DIGITAL DEL ESTADO DE MÉXICO, CON FUNDAMENTO EN LO DISPUESTO POR EL ARTÍCULO 9 FRACCIÓN V DEL DECRETO DEL EJECUTIVO DEL ESTADO POR EL QUE SE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO UNIVERSIDAD DIGITAL DEL ESTADO DE MÉXICO: Y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto y fundado, se expide el siguiente:
 
@@ -388,3 +390,19 @@ LIC. BENJAMÍN VALDÉS PLATA
 RECTOR DE LA UNIVERSIDAD DIGITAL DEL ESTADO DE MÉXICO Y SECRETARIO DEL CONSEJO DIRECTIVO
 
 (RUBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 29 DE AGOSTO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE BECAS DE LA UNIVERSIDAD DIGITAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el Presente reglamento en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente reglamento entrará en vigor al siguiente día de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Se abroga el reglamento de Becas de la Universidad Digital del Estado de México, publicado en el Periódico Oficial “Gaceta del Gobierno” el 12 de abril de 2013.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente reglamento.
+
+QUINTO.- Las autoridades administrativas procederán a hacer explícita la igualdad de género cuando se refiere a personas y a órganos de la Institución.
